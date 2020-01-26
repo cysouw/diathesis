@@ -1,0 +1,62 @@
+---
+title: A Survey of Diathesis in German
+author: Michael Cysouw
+date: \today
+
+mainfont: CharisSIL
+numbersections: true
+
+toc: true
+toc-title: Table of Contents
+
+# crossref settings
+
+secPrefix: 
+  - Section
+  - Sections
+tblPrefix:
+  - Table
+  - Tables
+figPrefix:
+  - Figure
+  - Figures
+pairDelim: "-"
+
+# citeproc settings
+
+bibliography: /Users/cysouw/Documents/Bibdesk/michaellibrary.bib
+citation-style: /Users/cysouw/Documents/Bibdesk/unified.csl
+reference-section-title: References
+link-citations: true
+
+# latex settings
+
+header-includes: 
+- \newfontfamily{\fallbackfont}{Arial}
+- \usepackage{linguex}
+- \renewcommand{\firstrefdash}{\,}
+- \usepackage{tocloft}
+- \renewcommand{\cftsubsubsecfont}{\scriptsize}
+- \renewcommand{\Exarabic}{\thesection.\arabic} 
+- \usepackage{chngcntr}
+- \counterwithin{ExNo}{section}
+- \usepackage{cleveref}
+- \crefname{ExNo}{example}{examples}
+- \creflabelformat{ExNo}{(#2#1#3)}
+
+#pandocomatic_:
+#    pandoc:
+#        from: markdown
+#        to: pdf
+#        pdf-engine: xelatex
+#        filter:
+#            - pandoc-crossref
+#            - pandoc-citeproc
+#        standalone: true
+#        toc: true
+#        number-sections: true
+#        css: pandoc.css
+#        mathjax: true
+
+...
+
