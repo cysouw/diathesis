@@ -251,7 +251,7 @@ Also *finden*!
 
 - Sein Teller steht auf den Tisch. vs. Er fand seinen Teller auf den Tisch stehen.
 
-### [ gNL | NAL ]*haben + Infinitiv* Benefactive 
+### [ gNL | NAL ] s*haben + Infinitiv* Benefactive 
 
 Addition of a new subject that is the possessor of the nominative of the embedding, or a benefective dative.
 

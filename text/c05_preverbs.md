@@ -627,7 +627,7 @@ Different from most causatives, the original nominative of *mieten* 'to rent' \N
 **Attested Verbs**
 
 - verˈ- : *erben, futtern, kaufen, leihen, mieten, pachten, pfänden*
-- beˈ-  ``: *kennen* 
+- beˈ-  : *kennen* 
 
 **Examples**
 
