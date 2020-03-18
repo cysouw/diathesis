@@ -104,7 +104,7 @@ Semantically, adnominal constituents are easily identified as modifiers inside a
  \b. Ich beschuldige [den Verdächtigten] vor Gericht [des Diebstahls].
  \c. Ich beschuldige [den Verdächtigten des Diebstahls] von weiteren Verbrechen.
 
-## Verbs without alternations
+## Deponent verbs without alternations
 
 Before delving into the actual alternations, I will first present an inventory of verbs that do not show alternation as far as flagging is concerned. These verbs can, and many will, occur in other diatheses as discussed in subsequent chapters, but for the alternations discussed in this chapter (on case-marked arguments) and the next chapter (on prepositional arguments) these verbs are invariable. The most interesting insight from building this collection is that it not easy at all to find verbs that do not allow for at least some kind of flagging variation.
 
@@ -355,7 +355,7 @@ Alternations without diathesis do not exist by definition for 'bare' alternation
 
 ## Diatheses with subject demotion
 
-### --- Drops --- {.unnumbered}
+### --- [ SBJ > Ø ] Subject drop --- {.unnumbered}
 
 ### [ N | – ] Nominative drop {#sec:case-nominative-drop}
 
@@ -422,9 +422,9 @@ A few verbs with nominative and genitive arguments allow the nominative to be dr
 
 - *bedürfen, entbehren*
 
-### --- Anticausatives --- {.unnumbered}
+### --- [ OBJ > SBJ > Ø ] Anticausative --- {.unnumbered}
 
-### [ NA | –N ] *haben* anticausative {#sec:case-haben-anticausative}
+### [ NA | –N ] *haben* Anticausative {#sec:case-haben-anticausative}
 
 A typical anticausative verb allows for both a transitive \Next[a] and an intransitive \Next[b] in which the intransitive nominative is the same participant as the accusative from the transitive. This is attested by verbs like *kochen* 'to cook' (a,b). However, with this verb the Perfect of the intransitive exist both with auxiliaries *haben* \Next[c] and *sein* \Next[d]. Semantically, the *haben* construction \Next[c] seems to be the regular Perfect of the intransitive \Next[b]. The *sein* construction \Next[d] is probably best analyzed as the 'Zustandspassiv' (see Section X) of the transitive \Next[a]. Levin [-@levin1993: 31] used the label "Induced Action Alternation" for a similar alternation in English.
 
@@ -467,7 +467,7 @@ A causative reading seems to be available with *duschen* 'to take a shower' \Nex
  \c. Ich habe geduscht.
  \d. Der Elefant ist geduscht.
 
-### [ NAD | –ND ] *haben* anticausative + dative
+### [ NAD | –ND ] *haben* Anticausative + dative
 
 Some *haben* anticausative verbs have an obligatory dative \Next[c]. However, note the different participles in \Next[a,b].
 
@@ -480,45 +480,9 @@ Some *haben* anticausative verbs have an obligatory dative \Next[c]. However, no
 
 - *anhängen*
 
-### --- Passives --- {.unnumbered}
-
-Bare passives are virtually unnattested. The cases listed here are very peculiar cases that are only listed under this heading for some faint similarity to passives.
-
-### [ NA | AN ] Accusative passive
-
-The verb *erwarten* 'to expect' has a very exceptional valency alternation in that the accusative and nominative arguments can be reversed with a very similar meaning \Next[a,b]. There is a slight difference in meaning between 'to expect' \Next[a] and 'to be imminent' \Next[b].
-
-\ex.
- \a. Er erwartet einen Test.
- \b. Der Test erwartet ihn.
-
-This alternation is possibly best interpreted as the effect of two different metaphorical extensions of *warten* 'to wait for'. The first extension is from 'to wait for' \Next[a] to 'to expect' \Next[b]. The second usage of *warten* is typically found with inanimate subjects, meaning roughly 'to be ready for the objects arrival' \Next[c]. This second meaning the metaphorical extension leads to the meaning 'to be imminent' \Next[d].
-
-\ex.
- \a. Ich warte auf den Test.
- \b. Ich erwarte den Test.
- \c. Zuhause wartet ein Geschenk auf dich.
- \d. Ein Geschenk erwartet dich.
-
-**Attested Verbs**
-
-- *erwarten*
-
-### [ NA | DN ] Dative passive
-
-I know of only a single verb with this very special passive-like diathesis \Next[a,b]. There are a few more cases of this alternation with reflexive marking (see Section \ref{reflexive-sec-sich-dative-passive}). Note that the alternant with the dative \Next[b] needs a very special adverbial, typically *nichts*, *was*, or *wenig* (negative polarity).
-
-\ex.
- \a. Der Arbeiter nutzt den Hebel.
- \b. Der Hebel nutzt dem Arbeiter wenig.
-
-**Attested Verbs**
-
-- *nutzen*
-
 ## Diatheses with promotion to subject
 
-### --- Additions --- {.unnumbered}
+### --- [ Ø > SBJ ] Subject addition --- {.unnumbered}
 
 ### [ – | N ] Nominative addition {#sec:case-nominative-addition}
 
@@ -548,7 +512,7 @@ The nominative subjects of weather verbs seem to be rather transparent metaphori
 
 ### [ A | N ] Accusative-to-nominative promotion
 
-Some verbs with experiences subjects needed an accusative subject in older stages of German [@nubling2006: 103-104], but these either were completely lost \Next[a], or tend to be replaced by a nominative \Next[b,c].
+Some verbs with experiences subjects needed an accusative subject in older stages of German [@nubling2006: 103-104], but these either were completely lost \Next[a], or tend to be replaced by a nominative \Next[b,c]. The verb *frieren* 'to be cold' with a human experiencer is currently in the middle of this transistion, allowing for both constructions.
 
 \ex.
  \a. Mich dürstet.
@@ -559,9 +523,9 @@ Some verbs with experiences subjects needed an accusative subject in older stage
 
 - *frieren*
 
-### --- Causatives --- {.unnumbered}
+### --- [ Ø > SBJ > OBJ ] Causative --- {.unnumbered}
 
-### [ –N | NA ] *sein* causative {#sec:case-sein-causative}
+### [ –N | NA ] *sein* Causative {#sec:case-sein-causative}
 
 A typical causative verb allows for both a transitive \Next[a] and an intransitive \Next[b,c] in which the nominative of the intransitive is the same as the accusative from the transitive.
 
@@ -600,11 +564,47 @@ Although there is no overt difference between an unmarked anticausative and an u
 - Ich habe den Ball weggetreten. Ich bin weggetreten.
 - Ich habe den Heuchler geflohen wie die Pest. Ich bin aus dem Gefängnis geflohen.
 
+## Diatheses with subject exchange
+
+### --- [ OBJ > SBJ > OBJ ] Inverse --- {.unnumbered}
+
+### [ NA | AN ] Accusative inverse
+
+The verb *erwarten* 'to expect' has a very exceptional valency alternation in that the accusative and nominative arguments can be reversed with a very similar meaning \Next[a,b]. There is a slight difference in meaning between 'to expect' \Next[a] and 'to be imminent' \Next[b].
+
+\ex.
+ \a. Er erwartet einen Test.
+ \b. Der Test erwartet ihn.
+
+This alternation is possibly best interpreted as the effect of two different metaphorical extensions of *warten* 'to wait for'. The first extension is from 'to wait for' \Next[a] to 'to expect' \Next[b]. The second usage of *warten* is typically found with inanimate subjects, meaning roughly 'to be ready for the objects arrival' \Next[c]. This second meaning the metaphorical extension leads to the meaning 'to be imminent' \Next[d].
+
+\ex.
+ \a. Ich warte auf den Test.
+ \b. Ich erwarte den Test.
+ \c. Zuhause wartet ein Geschenk auf dich.
+ \d. Ein Geschenk erwartet dich.
+
+**Attested Verbs**
+
+- *erwarten*
+
+### [ NA | DN ] Dative inverse
+
+I know of only a single verb with this very special passive-like diathesis \Next[a,b]. There are a few more cases of this alternation with reflexive marking (see Section \ref{reflexive-sec-sich-dative-passive}). Note that the alternant with the dative \Next[b] needs a very special adverbial, typically *nichts*, *was*, or *wenig* (negative polarity).
+
+\ex.
+ \a. Der Arbeiter nutzt den Hebel.
+ \b. Der Hebel nutzt dem Arbeiter wenig.
+
+**Attested Verbs**
+
+- *nutzen*
+
 ## Diatheses with object demotion {#sec:case-object-demotion}
 
 This section concerns those alternation in which a non-nominative case-marked argument can be removed. When considered in this direction ('an accusative is removed/demoted'), then such alternation are known as antipassives. Conversely, when this same alternation is considered in reverse ('an accusative is added/promoted') then such alternations are known as applicatives. Because we are dealing with unmarked 'bare' alternations in this chapter, there is no structural difference between these two situations. It is more like two different ways to look at at the same phenomenon. Still, I have tried to classify diathesis into these two options based on (debatable) semantic arguments.
 
-### --- Drops --- {.unnumbered}
+### --- [ OBJ >Ø ] Object drop --- {.unnumbered}
 
 ### [ NA | N– ] Accusative drop {#sec:case-accusative-drop}
 
@@ -695,7 +695,7 @@ This pattern of *danken* might have arisen out of a confusion of *danken* with *
 
 ### [ ND | N– ] Dative drop {#sec:case-dative-drop}
 
-Verbs that take a dative, but do not allow for an accusative, are well attested, though not very frequent in German. Some of those verbs do not allow the dative to be dropped (see [@sec:case-nominative-dative]) and a few allow for the dative to be replaced by a prepositional phrase (see Section \ref{prepositions-sec-dative-antipassive}) or by a possessor (see [@sec:case-possessor-of-nominative-to-dative-experiencer]). 
+Verbs that take a dative, but do not allow for an accusative, are well attested, though not very frequent in German. Some of those verbs do not allow the dative to be dropped (see [@sec:case-nominative-dative]) and a few allow for the dative to be replaced by a prepositional phrase (see [@sec:prepositions-dative-antipassive]) or by a possessor (see [@sec:case-possessor-of-nominative-to-dative-experiencer]). 
 
 In this section only those verbs are listed for which the only alternative for the dative is a complete drop. A few of the verbs in this class only allow for inanimate subjects, so these might be a special subclass (e.g. *beiliegen, bevorstehen, gelingen, geschehen, sitzen*). This difference can be formally shown by considering the possibility to replace the nominative subject with an embedded *zu-Infinitive* clause.
 
@@ -797,7 +797,7 @@ As there are already very few verbs with genitive arguments in German, there app
 
 I have tried to separate in this chapter between the demotion of an object (antipassive or drop, see [@sec:case-object-demotion]) and the promotion of an accusative (applicative or addition). However, for 'bare' diatheses I cannot find any substantive difference between these phenomena, except for a faint semantic impression that bare applicatives do not imply an accusative object (but allow it), while bare antipassive imply an accusative object (but allow it to be dropped). It remains a clear desideratum to put this intuitive differentiation on stricter grammatical footing.
 
-### --- Additions --- {.unnumbered}
+### --- [ Ø > OBJ ] Object addition --- {.unnumbered}
 
 ### [ – | A ] Accusative addition without nominative {#sec:case-accusative-addition-without-nominative}
 
@@ -827,7 +827,7 @@ There are various kinds of objects that can be added to apparent intransitives, 
  \d. Er hat den Staub geatmet.
  \e. Er hat den Tatort geschaut.
 
-A similar phenomenon is attested with 'manner of speaking' verbs like *stottern* 'to stutter' \Next[a]. Such verbs can take an accusative object with a meaning like 'He uttered something in a stuttering manner' \Next[b]. Note that by adding a possessed prepositional phrase \Next[c], it is even possible to use a possessor-dative alternation \Next[d, see Section \ref{prepositions-sec-possessor-of-location-to-dative-experiencer-accusative}], leading to an apparently 'intransitive' verb with a dative, accusative and a non-droppable prepositional argument.
+A similar phenomenon is attested with 'manner of speaking' verbs like *stottern* 'to stutter' \Next[a]. Such verbs can take an accusative object with a meaning like 'He uttered something in a stuttering manner' \Next[b]. Note that by adding a possessed prepositional phrase \Next[c], it is even possible to use a possessor-dative alternation \Next[d], see  [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative], leading to an apparently 'intransitive' verb with a dative, accusative and a non-droppable prepositional argument.
 
 \ex.
  \a. Er stotterte vor Aufregung
@@ -837,7 +837,7 @@ A similar phenomenon is attested with 'manner of speaking' verbs like *stottern*
 
 **Attested Verbs**
 
-- *atmen, laufen, leben, schauen, schwimmen, singen, spielen, springen, tanzen*
+- *atmen, hetzen, laufen, leben, schauen, schwimmen, singen, spielen, springen, tanzen*
 - Manner of speaking: *brüllen, flüstern, grölen, johlen, murmeln, schreien, stottern*
 
 **Examples**
@@ -853,8 +853,9 @@ A similar phenomenon is attested with 'manner of speaking' verbs like *stottern*
 - Er schrie ihm seine Verachtung ins Gesicht.
 - Ich brüllte dem Schwerhörigen die Antwort ins Ohr.
 - Ich lebe die Freiheit.
+- Der Hund ist durch den Wald gehetzt. Der Hund hat den Hasen durch den Wald gehetzt.
 
-### --- Possessor raising --- {.unnumbered}
+### --- [ ADJ > OBJ ] Possessor raising --- {.unnumbered}
 
 ### [ Ng | ND ] Possessor-of-nominative to dative experiencer {#sec:case-possessor-of-nominative-to-dative-experiencer}
 
@@ -957,9 +958,11 @@ Likewise, there is a similar difference between the *von* alternant \Next[b] and
  \b. Ich klaue die Blumen von dir.
  \c. Ich klaue deine Blumen.
 
-## Object-to-object diatheses
+## Diatheses with object exchange
 
 Some verbs allow for the same role being expressed with different case marking. These seem to be all incidental cases, mostly verbs in the midst of a diachronic change.
+
+### --- [ OBJ > OBJ ] Case change --- {.unnumbered}
 
 ### [ A | D ] Accusative-to-dative
 

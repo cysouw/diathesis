@@ -4,17 +4,21 @@
 
 ## Definitions
 
+Although surface structure clearly monoclausal, underlyingly there might be different structures, e.g [@harbert1977]
+
 ## Verbs without alternations
 
 ## Alternations without diathesis
 
-### *werden/dürfen/können/mögen/möchten/müssen/sollen/wollen/brauchen/heißen + Infiniv* modals
+### --- Modals --- {.unnumbered}
 
 These 'Modalverben' are coherent and have a so-called IPP 'Ersatzinfinitiv' construction.
 
 - Er darf das Haus bauen.
 - Er hat das Haus bauen dürfen.
 - Es ist bekannt, dass er das Haus [bauen] [hat dürfen].
+
+### *werden + Infiniv* Future
 
 The light verb *werden* is traditionally classified as a 'future' auxiliary, but is only very rarely used as a real temporal future (the Präsens is mostly used for future time reference in German). It is probably better to consider this construction together with the modal verbs (though note that there is a long discussion about the merits of this decision in the German grammatical tradition, e.g. Fabricius-Hansen 1986: 141ff.)
 
@@ -25,23 +29,41 @@ The light verb *werden* is also used as auxiliary in the Konjunktiv.
 
 - Ich würde gerne etwas essen.
 
-The verbs *brauchen* and *heißen* are not very common in this construction.
-
-- Du brauchst nur noch unterschreiben.
-- Von den Erwachsenen lernen, heißt Reife beweisen.
+### *dürfen + Infiniv*
 
 The verb *dürfen* reverses controll.
 
 - Ich bitte dich zu kommen.
 - Ich bitte dich kommen zu dürfen.
 
-Some of these verbs reverse the "haben+Partizip" Interpretation.
+### *können + Infiniv*
+
+### *mögen/möchten + Infiniv*
+
+### *sollen + Infiniv*
+
+### *müssen + Infiniv*
+
+### *wollen + Infiniv*
+
+Some of these verbs reverse the default "haben+Partizip" Interpretation.
 
 - Ich habe mein Auto repariert.
 - Ich will unbedingt mein Auto repariert haben.
 - Ich muss unbedingt mein Auto repariert haben
 
-### *sein/gehen/fahren/kommen + Infinitiv* absentive
+### *brauchen + Infiniv*
+
+### *heißen + Infiniv*
+
+The verbs *brauchen* and *heißen* are not very common in this construction.
+
+- Du brauchst nur noch unterschreiben.
+- Von den Erwachsenen lernen, heißt Reife beweisen.
+
+### --- Absentives --- {.unnumbered}
+
+### *sein + Infinitiv* Absentive
 
 - Ich bin dem Nachbarn mal eben den Teller zurückbringen.
 
@@ -51,28 +73,26 @@ References
 - König, Svenja (2009): „Alle sind Deutschland … außer Fritz Eckenga – der ist einkaufen! Der Absentiv in der deutschen Gegenwartssprache“. In: Winkler, Edeltraud (Hg.): Konstruktionelle Varianz bei Verben (= OPAL-Sonderheft 4/2009):42-74.
 - Vogel, Petra M. (2007): „Anna ist essen! Neue Überlegungen zum Absentiv in den europäischen Sprachen mit einem Exkurs zum Deutschen“. In: Geist, Ljudmila/Rothstein, Björn (Hg.): Kopulaverben und Kopulasätze: Intersprachliche und Intrasprachliche Aspekte. Tübingen:253-284.
 
+### *gehen + Infinitiv*
+
+### *kommen + Infinitiv*
+
+### *fahren + Infinitiv*
+
 Also with gehen/fahren/kommne?
 
 - Er kommt/geht hier immer die Zeitung lesen.
 - Er kommt/fährt seinen Freund besuchen.
 
-### *tun + Infinitiv* progressive
+### --- Others --- {.unnumbered}
+
+### *tun + Infinitiv* Progressive
 
 Substandard construction
 
 - Ich tue dir ein Buch schenken
 
-### *bleiben + Infinitiv*
-
-considered to be one word in german orthographie!
-
-- stehenbleiben, klebenkleiben, hängenbleiben, liegenbleiben, sitzenbleiben, steckenbleiben
-
-*bleiben* nur mit positionsverben? Aber:
-
-- Er bleibt ihr Briefe schicken.
-
-### *haben+ Infinitiv* Possibility + manner adverbial
+### [ N ] *haben + Infinitiv* Possibility + manner adverbial
 
 With adverbs, typically *leicht* or *gut*. The meaning is modal in a special sense of "it is (easily) possible for someone".
 
@@ -95,7 +115,17 @@ DWDS query: haben leicht $p=VVINF &&! {reden, lachen, können}
 - 9	1871	Belletristik	Pocci, Franz von: Lustiges Komödienbüchlein. Bd. 4. München, 1871.	Der Herr Baron hat leicht trösten; ich bin und bleib' unglücklich, wenn ich meinen Casperl nimmer sieh.
 - 10	1848	Belletristik	Eckermann, Johann Peter: Gespräche mit Goethe in den letzten Jahren seines Lebens. Bd. 3. Leipzig, 1848.	Wer aber geliebt ist, hat leicht regieren.""
 
-### *legen + Infinitiv* Reflexive
+### [ N ] *bleiben + Infinitiv*
+
+considered to be one word in german orthographie!
+
+- stehenbleiben, klebenkleiben, hängenbleiben, liegenbleiben, sitzenbleiben, steckenbleiben
+
+*bleiben* nur mit positionsverben? Aber:
+
+- Er bleibt ihr Briefe schicken.
+
+### [ N ] *legen + sich + Infinitiv*
 
 Is this the only example?
 
@@ -103,18 +133,18 @@ Is this the only example?
 
 ## Diatheses with subject demotion
 
-### --- Drops --- {.unnumbered}
+### --- [ 3>0 ] Drops --- {.unnumbered}
 
-### [ N | – ] *lassen + Infinitiv* Reflexive anticausative + manner adverbial
+### [ N | – ] *lassen + sich + Infinitiv* Reflexive impersonal + manner adverbial
 
 Typically used with intransitives? Similar to impersonal passive?
 
 - Ich arbeite zuhause.
 - Zuhause lässt es sich gut arbeiten.
 
-### --- Anticausatives --- {.unnumbered}
+### --- [ 2>3>0 ] Anticausatives --- {.unnumbered}
 
-### [ NA | –N ] *lassen + Infinitiv* Reflexive anticausative
+### [ NA | –N ] *lassen + sich + Infinitiv* Reflexive anticausative
 
 (cf. Kunze 1996) Typical with negation (alike to nogative polarity). It is unclear whether this construction can be made up from a *lassen* causative and a *sich* anticausative. It seems like the original agen can sometimes be retained with a *von* phrase.
 
@@ -130,20 +160,11 @@ Mehrdeutigkeit *lassen + sich + Infinitiv* bei belebte Subjekte
 - Ich verbiete ihr das Rauchen nicht. Sie lässt sich (von mir) das Rauchen nicht verbieten.
 - Ich zweifele An der Ernsthaftigkeit der Aussage. An der Ernsthaftigkeit der Aussage lässt sich zweifeln.
 
-### --- Passives --- {.unnumbered}
-
-### [ ND | AN ] *lassen + Infinitiv* Dative reflexive passive
-
-- Das gefällt mir. Das lasse ich mir nicht gefallen.
-- Das entgeht mir. Das lasse ich mir nicht entgehen.
-- Das Essen schmeckt mir. Ich lasse mir das Essen schmecken.
-- Der Besuch kostet mir etwas. Ich lasse mir den Besuch etwas kosten.
-
 ## Diatheses with promotion to subject
 
-### --- Causatives --- {.unnumbered}
+### --- [ 0>3>2 ] Causatives --- {.unnumbered}
 
-### *lassen + Infinitiv* causative
+### [ –N | NA ] *lassen + Infinitiv* causative
 
 - Ich wasche meine Kleider.
 - Sie lässt mich meine Kleider waschen.
@@ -169,7 +190,7 @@ Permissive Bedeutung: Ich lasse die Suppe kochen
 - Ich lasse das Kind schlafen (unergative => permissive)
 - Ich lasse das Kind einschlafen (unakkusative => obligative)
 
-### *machen + Infinitiv* causative 
+### [ –N | NA ] *machen + Infinitiv* causative 
 
 Although this construction looks like an English calque, it is already attested in German examples from the 19th Century. So maybe this is old?
 
@@ -186,7 +207,7 @@ glauben machen
 von sich reden machen
 vergessen machen
 
-### *heißen + Infinitiv* causative
+### [ –N | NA ] *heißen + Infinitiv* causative
 
 Old-fashioned construction, meaning similar to *befehlen* 'to order'
 
@@ -198,7 +219,7 @@ Note that the modern usage is not coherent. (???)
 - NZ: Verreisen heißt neue Städte kennenlernen
 - ZA: Jetzt heißt es endlich einmal selbst reich werden (Bech 1955: 220-222)
 
-### *schicken + Infinitiv* causative
+### [ –N | NA ] *schicken + Infinitiv* causative
 
 Coherent construction
 
@@ -216,7 +237,9 @@ Only agentive verbs?
 - Wenn Manne seine Diener, zwei beflissene Penner, Bier holen schickt, dann ...
 - Gegen Nürnberg ließ Fairchild, diesmal wieder Angreifer, seinen aufgestauten Frust verbal an Referee Chvatal aus, der ihn mit einer Spieldauerstrafe duschen schickte.
 
-### *lehren/helfen+ Infinitiv* causative
+### [ –N | NA ] *lehren+ Infinitiv* causative
+
+### [ –N | NA ] *helfen+ Infinitiv* causative
 
 What is the difference with/without *zu*?
 
@@ -233,11 +256,11 @@ With *zu* both coherent and non-coherent:
 - Es ist bekannt, dass du sie [gelehrt hast] ihm ein Buch [zu schenken]
 - Es ist bekannt, dass du sie ihm ein Buch [zu schenken] [gelehrt hast] 
 
-### --- Experiencers --- {.unnumbered}
+### --- [ 0>3>2 ] Experiencers --- {.unnumbered}
 
 Addition of a new subject who is experiencer of the embedding.
 
-### [ –N | NA ] *sehen/hören/finden/fühlen/spüren/riechen + Infinitiv* Experiencer
+### [ –N | NA ] *sehen + Infinitiv* Experiencer
 
 "Wahrnehmungsverben" (Kotůlková 2010) with IPP 'Ersatzinfinitiv'
 
@@ -247,13 +270,31 @@ Addition of a new subject who is experiencer of the embedding.
 - Die Mutter war sehr ängstlich und hat ständig ihre Kinder unter einem Auto liegen sehen. (sehen14 in E-Valbu)
 - Ich höre dich das noch nicht sagen.
 
+### [ –N | NA ] *hören + Infinitiv* Experiencer
+
+### [ –N | NA ] *fühlen + Infinitiv* Experiencer
+
+### [ –N | NA ] *spüren + Infinitiv* Experiencer
+
+### [ –N | NA ] *riechen + Infinitiv* Experiencer
+
+### [ –N | NA ] *finden + Infinitiv* Experiencer
+
 Also *finden*!
 
 - Sein Teller steht auf den Tisch. vs. Er fand seinen Teller auf den Tisch stehen.
 
-### [ gNL | NAL ] s*haben + Infinitiv* Benefactive 
+## Diatheses with subject exchange
+
+### --- [ 2>3>2 ] Benefactives --- {.unnumbered}
+
+### [ DNL | NAL ] *haben + Infinitiv* Benefactive 
 
 Addition of a new subject that is the possessor of the nominative of the embedding, or a benefective dative.
+
+- [gNL] Sein Teller steht auf den Tisch.
+- [DNL] Der Teller steht ihm auf den Tisch.
+- [NAL] Er hat den Teller auf den Tisch stehen.
 
 Only with 'position' verbs? (Hole 2002: 183-185)
 Ersatzinfinitiv!
@@ -268,9 +309,22 @@ Ersatzinfinitiv!
 - Er hat einen Tropfen an der Nase hängen. ("Ein Tropfen hängt ihm an seiner Nase.")
 - Viola Kleßmann aus Charlottenburg gehört nicht zu denen, die am Ende einen roten Punkt an ihrer Teilnehmernummer kleben haben. (DWDS: Berliner Zeitung, 28.07.2003)
 
+### [ ND | AN ] *lassen + sich + Infinitiv* Dative reflexive benefactive
+
+underlying genitive of nominative?
+
+- [gN] Mein Essen schmeckt.
+- [DN] Das Essen schmeckt mir.
+- [NA] Ich lasse mir das Essen schmecken.
+
+- Das gefällt mir. Das lasse ich mir nicht gefallen.
+- Das entgeht mir. Das lasse ich mir nicht entgehen.
+- Das Essen schmeckt mir. Ich lasse mir das Essen schmecken.
+- Der Besuch kostet mir etwas. Ich lasse mir den Besuch etwas kosten.
+
 ## Diatheses with object demotion
 
 ## Diatheses with promotion to object
 
-## Object-to-object diatheses
+## Diatheses with object exchange
 

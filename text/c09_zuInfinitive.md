@@ -127,6 +127,21 @@ Weitere Interpretationsmöglichkeiten?
 
 - Hagel ist nicht zu erwarten.
 
+Mit bewertung in "können" Interpretation. Notwendige Bewertung um diese Lesart zu kriegen?
+
+- Das Pult ist einfach zu bedienen.
+- Der Weg ist schön zu gehen.
+- Die Aufgabe ist schwer/schwierig/leicht/unmöglich zu lösen.
+
+Diese Konstruktion führt zu "raising/lowering"!?
+
+- Das Pult zu bedienen ist einfach.
+- Es ist einfach das Pult zu bedienen.
+
+das auch?
+
+- ? Mein Rücktritt zu begründen war politisch
+
 ### [ NA | –N ] *bleiben + zu + Infinitiv*
 
 (Colomo 2010: 196-197)

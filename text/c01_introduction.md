@@ -1,54 +1,71 @@
 # Introduction
 
+[@levin1993], and for German: [@sauerland1994]
+
+
 ## Definition Diathesis
 
 Valency: is this really a characteristic of a verb? Most (all?) verbs seem to allow for multiple valencies. There is a strong tendency to try to reduce this variation to a single valency per verb (the 'real' valency), and various strategies are employed to arrive at such a prototypical valency (see e.g. [@welke2011: Ch. 9 for different approaches])
 
 Discussions of Alternations in the context of valency: Eroms (2000: Ch. 10), Ágel (2000: Ch. 6). reframing / role alternation: "Konversenverhältnis der Aktanten" (Eroms 1980: 24) cf. Heringer 1968
 
-An **alternation** (or simply "grammatical marking") is defined as follows:
+---
+
+An **alternation** (or simply 'grammatical marking') is defined as follows:
 
 - An alternation consist of two different linguistic constructions, i.e. there are two **alternants**.
 - The lexical material does not change in the alternation.
 - The difference between these alternants is overtly indicated by the presence of some grammatical linguistic elements.
-- Typically, the overt marking introduces a direction into the alternation, i.e. one alternant consists of less/shorter/zero linguistic elements ("less marked") and one  consiste of more/longer/overt linguistic material ("more marked").
+- Typically, the overt marking introduces a direction into the alternation, i.e. one alternant consists of less/shorter/zero linguistic elements ('less marked') and one  consiste of more/longer/overt linguistic material ('more marked').
 - In some cases, the direction of the alternation remains undecideably, i.e. the alternation is **equipollent**
 
-A **clause alternation** is defined as follows:
+Based on this definition of an alternation, a **clause alternation** is defined as follows:
 
-- In a clause alternation both alternants are monoclausal, i.e. both alternants contain a single main predicate. For German, the main argument for monoclausality will be a phenomenon called **coherence**.
-- In both alternants, the main predicate consists of the same lexeme, i.e both contain the same verb.
-- The meaning of the verb does not change between the alternants.
-- The content of the lexical roles of the verb do not change between the alternants. However, there might be new roles introduced, or some roles might be left unexpressed.
-- A clause alternation is only applicable to a restricted set of verbs. The list of applicable verbs constitutes the **domain of application** of the alternation. Any semantic/syntactic characterisation of the applicable verbs should be seen as a summary of the domain of application, not its definition.
+- In a clause alternation **both alternants are monoclausal,** i.e. both alternants contain a single main predicate. For German, the main argument for monoclausality will be a phenomenon called *coherence*.
+- In both alternants, the **main predicate consists of the same lexeme**, i.e both contain the same verb.
+- The **meaning of the verb does not change*** (substantially) between the alternants.
+- The **lexical roles of the verb do not change** between the alternants. However, there might be new roles introduced, or some roles might be left unexpressed.
+- A specific clause alternation is only applicable to a restricted set of verbs. The list of applicable verbs constitutes the **domain of application** of the alternation. Any semantic/syntactic characterisation of the applicable verbs should be seen as a summary of the domain of application, not its definition.
 
-Based on this notion of a clause alternation, a **diathesis** (a.k.a. "valency alternation") is defined as follows:
+Based on this notion of a clause alternation, a **diathesis** (a.k.a. 'valency alternation', I use both terms synonymously) is defined as follows:
 
-- A diathesis is a clause alternation in which at least one of the lexical roles is overtly marked differently between the clausal alternants, i.e. at least one of the roles is **reframed** (i.e. there is a "role alternation").
-- Reframed roles still do not change their meaning substantially, i.e. "who does what to whom" does not change.
+- A diathesis is a clause alternation in which at least one of the lexical roles is overtly marked differently between the clausal alternants, i.e. **at least one of the roles is reframed** (i.e. there is a 'role alternation').
+- Reframed roles do not substantially change their meaning, i.e. 'who does what to whom' does not change.
 - The details of the relation between the main predicate and the reframed roles can (and normally will) change, e.g. there will be changes in aspects like the role's influence on the action or its affectedness by the predicate.
 - As an extreme case, the reframing of a role might consist in the addition of a completely new role or in the complete removal of an existing role.
-- As an extreme case, a diathesis can show no other overt marking than the change in marking of the reframed roles itself, i.e. a "bare" diathesis (or "equipollent diathesis").
+- As for all alternations, a diathesis has a 'less marked' and a 'more marked' alternant. However, in some special instances a diathesis can show no other overt marking than the change in marking of the reframed roles itself, i.e. a 'bare' diathesis (or 'equipollent' diathesis).
 
 ---
 
 In the discussion of the various diatheses in German, I will classify them into different kinds of diatheses. This classification is not a definitional issue, but purely a practical organisational device. It might very well turn out that some of these classifications is wrong, i.e. that some alternation is better considered as belonging to a different kind. Such a reorganisation would not change anything about the diathesis itself.
 
-The different kinds of diatheses distinguished here have a long history in the typological literature (cf. Wunderlich 1993; 2015, Dixon & Aikhenvald 2000, Dixon 2014). The first three kinds of diatheses primarily concern a change to the non-nominative arguments:
+The different kinds of diatheses distinguished here have a long history in the typological literature [cf. @wunderlich1993, @wunderlich2015, @dixon2000a, @dixon2014, @haspelmath2004c, @malchukov2015: 96ff.]
+
 
 - **PASSIVE: Promotion of a non-nominative argument to subject.** The typical characteristic of a passive is a non-nominatively case-marked role to being 'more important', typically becoming the subject (i.e. nominative + verb agreement). The original subject can optionally be retained as an non-nominative case or a prepositional phrase. In general, the original subject is still understood to be some kind of agent in the passive alternant.
-- **ANTIPASSIVE: Demotion of a non-nominative argument to prepositional phrase.** The typical characteristic of an antipassive is a non-nominatively case-marked role to being marked as 'less important', typically becoming a prepositional phrase. The complete removal of this role can be seen as an extreme form of an antipassive, though I mostly classify such a removal separately as a **drop** of an argument.
+- **ANTICAUSATIVE: Removal of a causer from subject.** The typical characteristic of an anticausative is the removal of the nominative subject which causes the action/state of the clause. Filling the gap, any non-nominative argument is promoted to subject. Note that in effect, such an alternation is highly similar to a passive. The main difference (which is often difficult to decide) is that for a passive the original subject is still implied (and can be overtly expressed), while for an anticausative the original subject is completely removed (e.g. a phrase like "by itself" can typically be added).
+
+- **INVERTED PASSIVE**
+- **CAUSATIVE: Addition of a new causer as subject.** The typical characteristic of a causative is the addition of a new nominative subject which causes the action/state as described in the original clause. The original nominative is typically retained as a non-nominative argument.
+- **EXPERIENCER/BENEFACTIVE: addition of new subject with different role.**
+
+- **REVERSAL: subject and object switch.** [@malchukov2015: 99-100]
+
+
+- **ANTIAPPLICATIVE (ANTIPASSIVE): Demotion of a non-nominative argument to prepositional phrase.** The typical characteristic of an antipassive is a non-nominatively case-marked role to being marked as 'less important', typically becoming a prepositional phrase. The complete removal of this role can be seen as an extreme form of an antipassive, though I mostly classify such a removal separately as a **drop** of an argument.
 - **APPLICATIVE: Addition of a new non-nominative argument.** The typical characteristic of an applicative is the introduction of a new non-nominatively marked role. Typically, a new role is marked as an accusative and the original accusatively marked role is encoded differently. It is also possible that the new role is not replacing any existing marking, but simply added to the argument structure of a verb. However, I will classify such completely new roles mostly as an **addition** of an argument.
 
-The second three kinds of diatheses primarily concern the causation structure of the predicate:
-
-- **CAUSATIVE: Addition of a new causer as subject.** The typical characteristic of a causative is the addition of a new nominative subject which causes the action/state as described in the original clause. The original nominative is typically retained as a non-nominative argument.
-- **ANTICAUSATIVE: Removal of a causer from subject.** The typical characteristic of an anticausative is the removal of the nominative subject which causes the action/state of the clause. Filling the gap, any non-nominative argument is promoted to subject. Note that in effect, such an alternation is highly similar to a passive. The main difference (which is often difficult to decide) is that for a passive the original subject is still implied (and can be overtly expressed), while for an anticausative the original subject is completely removed (e.g. a phrase like "by itself" can typically be added).
 - **RESULTATIVE: Addtion of a new causee as a non-nominative argument.** The typical characteristic of a resultative is the addition of a new causee. Instead of simply expressing the content of a predicate as the action/state of the clause, a resultative diatheses expressed that something is caused by performing the predicate.
-
-Further kinds of diatheses are the following:
-
+- **ANTIRESULTATIVE**
 - **POSSESSOR RAISING: possessor of an argument becomes a separate argument.**
+
+- **OBJECT REVERSAL**
+
+- **DROP** "deobjective" [@haspelmath2004c: 1131]
+- **ADDITION**
+
+
+Note that the term "resultative" is used by [@nedjalkov1988a] with a different meaning (viz. a special kind of anticausative)
 
 Note: "active" is not a diathesis!
 
@@ -84,6 +101,73 @@ Definition of "Subject" and "Object":
 
 - Subject is a nominative constituent with person agreement with the finite verb.
 - Objects are all case-marked governed constituents and governed prepositional phrases and obligatory constituents. 
+
+---
+
+Generalisation: Subject-diatheses are almost all chained
+Generalisation: disjunct diatheses are very unusual overall
+
+- isolated diathesis: only one participant changes its form
+- chained diathesis: two participant change form, with (at least) one marking being exchanged
+
+double chained? 
+
+ADJ > SBJ > OBJ > Ø, see [@sec:preverb-inverted-passive-accusative-loss]
+
+\ex.
+ \a. Ich erbe das Haus von meinem Vater.
+ \b. Mein Vater enterbt mich.
+
+
+- disjunct diathesis: 
+
+[@sec:prepositions-nominative-demotion-dative-addition]
+
+\ex.
+ \a. Der Sommer ist kalt.
+ \b. Mir ist kalt im Sommer.
+
+[@sec:prepositions-anticausative-preposition-addition]
+
+\ex.
+ \a. Ich deute den Traum. 
+ \b. Der Traum deutet auf nichts Gutes. 
+
+[@sec:prepositions-ingredient-anticausative]
+
+\ex.
+ \a. Ich schmecke Pfefferminze in der Suppe.
+ \b. Die Suppe schmeckt nach Pfefferminze
+
+[@sec:prepositions-naming-result]
+
+\ex.
+ \a. Sie schimpft auf mich.
+ \b. Sie schimpft mich einen Narren
+
+[@sec:prepositions-intransitive-location-as-result]
+
+This is a productive diathesis!
+
+\ex.
+ \a. Ich schwitze.
+ \b. Ich schwitze einen Fleck in meinem Hemd.
+
+[@sec:preverb-inverted-passive-accusative-loss]
+
+\ex.
+ \a. Ich erbe das Haus von meinem Vater.
+ \b. Mein Vater enterbt mich.
+
+[@sec:preverb-double-applicative]
+
+\ex.
+ \a. Ich schweige zu dir über meinen Besuch.
+ \b. Ich verschweige dir meinen Besuch.
+
+
+
+---
 
 ## Obligatory pronoun 'es'
 
@@ -336,3 +420,12 @@ Third, all complement clauses are arguments (a,b). Complement clauses can be que
 
 Including Indefinites: was/etwas/irgendetwas/nichts
 (Indefinites: was/etwas/irgendetwas/nichts possible instead of sentential object)
+
+---
+
+Topics for discussion:
+
+- social/communicative/areal function of diatheses
+- verb profiles: all diatheses per verb
+- role clusters: which lexical roles group together based on diathesis groupings
+

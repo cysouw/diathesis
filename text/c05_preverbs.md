@@ -76,6 +76,7 @@ Adjectival root: clear alternation (see Sections X)
 
 Nominal root (note Umlaut!):
 Note semantic relation to noun: 
+
 - *ver-* causative: apply noun to object
 - *er-* experiencer: apply noun to subject (?)
 - *ent-* causative: remove noun from object
@@ -141,7 +142,7 @@ Finally, there are few exceptions to the generalization that preverb alternation
  \b. Die Blüme blüht. Die Blume verblüht. Die verblühte/*geblühte Blume.
  \c. Die Polizei jagte auf einen Verbrecher. Die Polizei jagte dem Verbrecher nach.
 
-## Verbs without alternation
+## Deponent verbs without alternation
 
 Roots that do not exist (anymore): 
 
@@ -166,11 +167,11 @@ Grenzwertig, ob das noch dasselbe Verb ist.
 
 There are many preverb alternations without diathesis. I distinguish three different kinds here:
 
-- first, verbs that do not show any diathesis when a preverb is added,
+- first, verbs (with adjectival predicates as a subclass) that do not show any diathesis when a preverb is added,
 - second, verbs that show no difference in argument marking, but that show differences in the attributive usage of participles,
-- and, third,  verbs that show no difference in argument marking, but the prefixed verb has an obligatory reflexive pronoun.
+- and, third, verbs that show no difference in argument marking, but the prefixed verb has an obligatory reflexive pronoun.
 
-### --- Preverb alternations without diathesis{.unnumbered}
+### --- Preverb alternations without diathesis {.unnumbered}
 
 It is very common for a prefixed verb not to show any change in valency. The most widespread kind is for nominative-accusative verb to not show a change in valency, like *essen* 'to eat' and *aufessen* 'to eat completely' \Next, see [@sec:preverb-transitive-without-diathesis].
 
@@ -211,6 +212,36 @@ The verb *kochen* also exhibits a bare anticausative diathesis \Next[a,b], see [
 - Das Schiff sinkt. Das Schiff versinkt. Das gesunkene/versunkene Schiff ...
 - Die Blumen trocknen im Keller. Die Blumen vertrocknen im Keller. Die getrocknete/vertrocknete Blumen ...
 
+### [ NA | NA ] Preverb transitives without diathesis {#sec:preverb-transitive-without-diathesis}
+
+It is very common for transitive nominative-accusative verbs to remain transitive when prefixed \Next[a,b]. The participles of both verbs can be used attributively \Next[c,d]. The examples presented in this section are in no way intended to be a complete listing, but only serve as a illustration for this phenomenon. This group of preverb alternations without valency change appears to be very large.
+
+\ex.
+ \a. Ich lagere die Kartoffeln im Keller. 
+ \b. Ich verlagere die Kartoffeln in den Keller.
+ \c. Die gelagerte Kartoffeln.
+ \d. Die verlagerte Kartoffeln.
+ 
+**Attested Verbs**
+
+- verˈ-   : *lagern*
+- beˈ-    : *fürchten, grüßen*
+- ˈunter- : *bringen*
+- ˈdurch- : *halten*
+- ˈan-    : *sehen*
+- ˈauf-   : *essen*
+
+**Examples**
+
+- Ich fürchte den Tod. Ich befürchte ein schlechtes Ergebnis.
+- Ich halte die Stellung. Ich halte den Kampf durch.
+- Ich bringe dich nach Hause. Ich bringe dich in dem Haus unter.
+- Ich sehe dich. Ich sehe dich an.
+- Ich fürchte das Prüfungsergebnis. Ich befürchte ein schlechtes Prüfungsergebnis.
+- Ich grüße dich. Ich begrüße dich.
+
+### --- Preverb adjectives without diathesis --- {.unnumbered}
+
 ### [ N | N ] Preverb adjectives without diathesis {#sec:preverb-adjectives-without-diathesis}
 
 Adjectives are in many ways similar to intransitive verbs, basically being one-placed predicates. There are also various adjectives that remain intransitive when combined with a preverb, like *kühl* 'cool' and *abkühlen* 'to cool down \Next[a,b]. Similar to the intransitive verbs from the previous section, both adjectival predicates can be used as attributive adjective \Next[c,d].
@@ -244,35 +275,7 @@ Some adjectives that are turned into verbs through preverbs obligatorily need a 
 
 - *ver* : *spät, früh*
 
-### [ NA | NA ] Preverb transitives without diathesis {#sec:preverb-transitive-without-diathesis}
-
-It is very common for transitive nominative-accusative verbs to remain transitive when prefixed \Next[a,b]. The participles of both verbs can be used attributively \Next[c,d]. The examples presented in this section are in no way intended to be a complete listing, but only serve as a illustration for this phenomenon. This group of preverb alternations without valency change appears to be very large.
-
-\ex.
- \a. Ich lagere die Kartoffeln im Keller. 
- \b. Ich verlagere die Kartoffeln in den Keller.
- \c. Die gelagerte Kartoffeln.
- \d. Die verlagerte Kartoffeln.
- 
-**Attested Verbs**
-
-- verˈ-   : *lagern*
-- beˈ-    : *fürchten, grüßen*
-- ˈunter- : *bringen*
-- ˈdurch- : *halten*
-- ˈan-    : *sehen*
-- ˈauf-   : *essen*
-
-**Examples**
-
-- Ich fürchte den Tod. Ich befürchte ein schlechtes Ergebnis.
-- Ich halte die Stellung. Ich halte den Kampf durch.
-- Ich bringe dich nach Hause. Ich bringe dich in dem Haus unter.
-- Ich sehe dich. Ich sehe dich an.
-- Ich fürchte das Prüfungsergebnis. Ich befürchte ein schlechtes Prüfungsergebnis.
-- Ich grüße dich. Ich begrüße dich.
-
-### --- Unaccusatives --- {.unnumbered}
+### --- Unaccusative alternations --- {.unnumbered}
 
 Some intransitives without valency change show a peculiar phenomenon when prefixed: they become more patient-like in that the participle can be used attributively (one of the characteristics often discussed under the heading of 'unaccusativity'). For example, the verbs *schlafen* 'to sleep' \Next[a] and *einschlafen* 'to fall asleep' \Next[b] are both intransitive. However, only *eingeschlafen* can be used attributatively \Next[c,d], see [@sec:preverb-intransitive-with-unaccusative].
 
@@ -338,7 +341,7 @@ Some transitive verbs like *ärgern* and the preverbal variant *verärgern* 'to 
 
 Some verbs need an extra reflexive pronoun when they are prefixed, but the valency of the construction does not change. The reflexive pronoun is thus neither a self-inflicting replacement, nor a marker of the diathesis itself. The reflexive pronouns in these cases seem to be mostly empty, except for putting a slight emphasis on the agency of the nominative subject.
 
-### [ N | N ] Preverb reflexive alternation {#sec:preverb-reflexive}
+### [ N | N ] Preverb reflexive intransitive alternation {#sec:preverb-reflexive}
 
 The prefixed verb *überarbeiten* is transparently derived from the verb *arbeiten* 'to work', but in two semantically different directions. In one sense *überarbeiten* means 'to revise', i.e. 'to work on something again', which shows an applicative diathesis \Next[a,b], see [@sec:preverb-applicative]. In another sense *überarbeiten* means 'to overwork', i.e. 'to work too hard' \Next[c,d]. In this sense an obligatory, but 'empty', accusative reflexive pronoun is present.
 
@@ -350,7 +353,7 @@ The prefixed verb *überarbeiten* is transparently derived from the verb *arbeit
 
 **Attested Verbs**
 
-- ver     : *laufen*
+- verˈ-   : *laufen*
 - überˈ-  : *arbeiten, essen*
 - ˈdurch- : *lügen, mogeln*
 - ˈein-   : *arbeiten, singen*
@@ -363,7 +366,7 @@ The prefixed verb *überarbeiten* is transparently derived from the verb *arbeit
 - Ich singe. Ich singe mich ein.
 - Ich laufe. Ich verlaufe mich.
 
-### [ NA | NA ] Preverb reflexive alternation + accusative {#sec:preverb-dative-reflexive}
+### [ NA | NA ] Preverb reflexive transitive alternation {#sec:preverb-dative-reflexive}
 
 The difference between the verbs *sehen* and *ansehen* is very delicate, maybe best summarized by comparing it to the English verbs *to see* and *to watch*. The prefixed verb *ansehen* 'to watch' implies slightly more agency of the nominative subject. In German this difference is additionally marked by an obligatory dative reflexive pronouns \Next[b].
 
@@ -392,7 +395,7 @@ Note that there is a second, highly similar, construction with *ansehen* and a n
 
 Keeping with the observation that preverb alternations tend to produce nominative/accusative constructions (see [@sec:preverbs-always-accusative]), preverb diatheses with subject demotion are exceedingly rare.   
 
-### --- Anticausatives --- {.unnumbered}
+### --- [ OBJ > SBJ > Ø ] Anticausative --- {.unnumbered}
 
 ### [ NA | –N ] Preverb anticausative {#sec:preverb-anticausative}
 
@@ -424,13 +427,9 @@ Some further anticausatives need an additional reflexive pronoun, like with *fan
 
 - Der Schuster streckt die Stiefel. Der Wald erstreckt sich bis zum Gebirge.
 
-### [ NL | -N ] Preverb preposition anticausative {#sec:preverb-preposition-anticausative}
+### [ NL | -N ] Preverb location anticausative {#sec:preverb-preposition-anticausative}
 
-Lipka [-@lipka1972: 93-94] calls this 'Subjektvertauschung', which he claims is 'quite frequent in German.' I do not know of any other examples except for the example givebn by Lipka, namely the diathesis between *laufen + aus* and *auslaufen* \Next[a,b].
-
-[@hundsnurscher1968: 130ff.] discusses many examples that might be semantically similar, but do not show diathesis. (e.g. tröpfeln/auströpfeln)
-
-see [@carlberg1948] for history of terminology and relation to metonomy
+Lipka [-@lipka1972: 93-94] calls this 'Subjektvertauschung', which he claims is 'quite frequent in German.' However, I do not know of any other examples of this diathesis except for the example given by Lipka, namely the diathesis between *laufen + aus* and *auslaufen*, both meaning approximately 'to empty' \Next[a,b]. Hundsnurscher [-@hundsnurscher1968: 130ff.] discusses many examples that might be semantically similar, but do not show diathesis (e.g. tröpfeln/auströpfeln). For historical context, see Carlberg [-@carlberg1948] for more about the history of the terminology and the relation to metonymy. For the counterpart 'Objektvertauschung', see [@sec:preverb-location-antiresultative]
 
 \ex.
  \a. Das Wasser ist aus der Flasche gelaufen.
@@ -450,44 +449,11 @@ see [@carlberg1948] for history of terminology and relation to metonomy
 
 - verˈ- : *kümmern*
 
-### --- Passives --- {.unnumbered}
-
-For lack of a better analysis I classify these symmetrical diatheses here as a special kind of passives.
-
-### [ NA | AN ] Preverb accusative passive
-
-The alternation between *wundern* 'to amaze' \Next[a] and *bewundern* 'to be in awe' \Next[b] reverses the nominative and accusative arguments.
-
-\ex.
- \a. Dein Verhalten wundert mich.
- \b. Ich bewundere dein Verhalten. 
-
-**Attested Verbs**
-
-- beˈ- : *wundern*
-
-### [ NL | LN ] Preverb locational passive
-
-The alternation between *strahlen* 'to shine' \Next[a] and *erstrahlen* 'to gleam' \Next[b] involves a reversal of nominative and locational arguments.
-
-\ex.
- \a. Die Sonne strahlt auf dem Haus.
- \b. Das Haus erstrahlt in der Sonne.
-
-**Attested Verbs**
-
-- erˈ-  : *strahlen*
-- ˈzu-  : *wachsen*
-
-**Examples**
-
-- Der Efeu wächst an der Hauswand. Die Hauswand wächst durch den Efeu zu.
-
 ## Diatheses with promotion to subject
 
 Promotion to subject is somewhat more widespread compared to subject demotion discussed in the previous section. Promotion to subject only seems to occur preferably with the verb prefixes *be-, ver-, er-, zer-* and almost never with verb particles.
 
-### --- Causatives --- {.unnumbered}
+### --- [ Ø > SBJ > OBJ ] Causative --- {.unnumbered}
 
 ### [ -N | NA ] Preverb causative {#sec:preverb-causative}
 
@@ -648,9 +614,9 @@ Different from most causatives, the original nominative of *freuen* 'to enjoy' \
 
 - erˈ- : *freuen*
 
-### --- Inverted Passives --- {.unnumbered}
+### --- [ ADJ > SBJ > OBJ ] Inverted Passive --- {.unnumbered}
 
-These diatheses can be seen as passives 'in reverse'. On first notice everything just looks like a passive: (i) the accusative argument of the (prefixed) transitive verb turns into a nominative of the (non-prefixed) intransitive verb and (ii) the causer/agent of the (prefixed) transitive verb is expressed as a governed prepositional phrase with the (non-prefixed) intransitive verb. However, the direction of an alternation is by definition from the unmarked (non-prefixed) to the marked (prefixed) verb. So, these diatheses are 'inverted' passives.
+These diatheses can be seen as passives 'in reverse'. On first notice everything just looks like a passive: (i) the accusative argument of the (prefixed) transitive verb turns into a nominative of the (non-prefixed) intransitive verb and (ii) the causer/agent of the (prefixed) transitive verb is expressed as a governed prepositional phrase with the (non-prefixed) intransitive verb. However, the direction of an alternation is by definition from the unmarked (non-prefixed) to the marked (prefixed) verb. So, these diatheses are 'inverted' passives. Although it would make sense to call such diatheses 'antipassives', this term is already taken by another kind of diatheses.
 
 ### [ PN | NA ] Preverb inverted passive {#sec:preverb-inverted-passives}
 
@@ -691,7 +657,7 @@ The second examples of this diathesis with *wundern* 'to wonder \Next is less cl
 - beˈ-  : *schämen*
 - verˈ- : *wundern*
 
-### [ pNA | NA– ] Preverb inverted passive + accusative loss
+### [ pNA | NA– ] Preverb transitive inverted passive + accusative loss {#sec:preverb-inverted-passive-accusative-loss}
 
 The relation between *erben* 'inherit' and *enterben* 'disenherit' is peculiar, because the accusative argument of *erben* \Next[a] cannot be expressed in any way with *enterben* \Next[b].
 
@@ -703,9 +669,43 @@ The relation between *erben* 'inherit' and *enterben* 'disenherit' is peculiar, 
 
 - entˈ- : *erben*
 
+
+## Diatheses with subject exchange
+
+### --- [ OBJ > SBJ > OBJ ] Inverse --- {.unnumbered}
+
+### [ NA | AN ] Preverb accusative inverse
+
+The alternation between *wundern* 'to amaze' \Next[a] and *bewundern* 'to be in awe' \Next[b] reverses the nominative and accusative arguments.
+
+\ex.
+ \a. Dein Verhalten wundert mich.
+ \b. Ich bewundere dein Verhalten. 
+
+**Attested Verbs**
+
+- beˈ- : *wundern*
+
+### [ NL | LN ] Preverb locational inverse
+
+The alternation between *strahlen* 'to shine' \Next[a] and *erstrahlen* 'to gleam' \Next[b] involves a reversal of nominative and locational arguments.
+
+\ex.
+ \a. Die Sonne strahlt auf dem Haus.
+ \b. Das Haus erstrahlt in der Sonne.
+
+**Attested Verbs**
+
+- erˈ-  : *strahlen*
+- ˈzu-  : *wachsen*
+
+**Examples**
+
+- Der Efeu wächst an der Hauswand. Die Hauswand wächst durch den Efeu zu.
+
 ## Diatheses with object demotion
 
-### --- Drops --- {.unnumbered}
+### --- [ OBJ > Ø ] Object drop --- {.unnumbered}
 
 ### [ NA | N– ] Preverb accusative drop {#sec:preverb-accusative-drop}
 
@@ -777,7 +777,7 @@ can they dative maybe always be replaced by a preposition? Then merge into dativ
 - Ich schicke dir den Brief. Ich habe den Brief abgeschicht.
 - Ich reiche dir das Essen. Ich habe das Essen durchgereicht.
 
-### --- Antipassives --- {.unnumbered}
+### --- [ OBJ > ADJ ] Antipassive --- {.unnumbered}
 
 ### [ NA | Np ] Preverb reflexive antipassive
 
@@ -833,9 +833,41 @@ Is this alternation transaparent?
 
 - Ich bringe dir ein Buch. Ich verbringe den Tag mit dir.
 
-### --- Antiresultatives --- {.unnumbered}
+### --- [ OBJ > OBJ > ADJ ] Antipassive --- {.unnumbered}
 
-### [ NL | N– ] Preverb intransitive antiresultative {}#sec:preverb-intransitive-antiresultative}
+### [ NDA | NAP ] Preverb dative-to-accusative + antipassive
+
+\ex. 
+ \a. Ich schenke dir ein Buch.
+ \b. Ich beschenke dich mit einem Buch.
+
+**Attested Verbs**
+
+- beˈ- : *liefern, lohnen, schenken, singen*
+- umˈ- : *geben*
+
+**Exmples**
+
+- Ich lohne dir deine Treue. Ich belohne dich für deine Treue.
+- Ich gebe dem Buch einen Umschlag. Ich umgebe das Buch mit einem Umschlag.
+- Ich liefere dem Bäcker das Mehl. Ich beliefere den Bäcker mit dem Mehl.
+
+**Notes**
+
+*lohnen* is also a reflexive anticausative \ref{reflexive-sec-anticausative}:
+
+- NA- : Das Ergebnis lohnt den Aufwand.
+- -N- : Der Aufwand lohnt sich.
+- NAD : Ich lohne dir deine Treue.
+- -Ng : Deine Treue lohnt sich. 
+- NPD : Ich lohne dir für deine Treue. (veraltet)
+- NPA : Ich belohne dich für deine Treue.
+
+
+
+### --- [ OBJ > Ø ] Antiresultative --- {.unnumbered}
+
+### [ NL | N– ] Preverb intransitive antiresultative {#sec:preverb-intransitive-antiresultative}
 
 => unaccusative!!!
 
@@ -878,7 +910,6 @@ see [@sec:prepositions-manner-of-movement]
 - Der Hund ist nach Hause gelaufen. Der Hund hat sich in dem Wald verlaufen.
 - der ?verlaufene/*gelaufene Hund
 
-
 **Attested Verbs**
 
 - verˈ- : *fahren, irren, laufen, spekulieren*
@@ -895,13 +926,15 @@ see [@sec:prepositions-manner-of-movement]
 
 ### [ NAL | NA– ] Preverb transitive antiresultative {#sec:preverb-transitive-antiresultative}
 
-Verbs of caused location (see Section \ref{prepositions-sec-haben-caused-location}) like *stecken* 'to put into' \Next[a] cannot be used without the locative preposition \Next[b]. In contrast, with the prefix *ver-* the verb *verstecken* 'to hide' can be used both with and without the locative \Next[c,d].
+Verbs of caused location (see [@sec:prepositions-haben-caused-location]) like *stecken* 'to put into' \Next[a] cannot be used without the locative preposition \Next[b]. In contrast, with the prefix *ver-* the verb *verstecken* 'to hide' can be used both with and without the locative \Next[c,d].
 
 \ex.
  \a. Ich stecke das Geschenk in den Schrank.
  \b. * Ich stecke das Geschenk.
  \c. Ich verstecke das Geschenk in den Schrank.
  \d. Ich verstecke das Geschenk.
+
+The diathesis is quite widespread with other resultative constructions \Next.
 
 \ex.
  \a. Der Wind weht hart.
@@ -948,9 +981,51 @@ Verbs of caused location (see Section \ref{prepositions-sec-haben-caused-locatio
 - Die Wellen spülen Muscheln auf den Strand. Die Wellen spülen Muscheln an.
 - Ich schenke den Wein in das Glas. Ich schenke den Wein ein.
 
+### --- [ ADJ > OBJ > Ø ] Antiresultative --- {.unnumbered}
+
+### [ NLA | NA– ] Preverb applicative + accusative drop {#sec:preverb-location-antiresultative}
+
+
+
+Note: very similar to applicative+antipassive, though here antipassive to zero?
+
+Similar to "leer-"
+
+\ex.
+ \a. Ich presse den Saft aus der Zitrone.
+ \b. Ich presse die Zitrone aus.
+
+Lipka [-@lipka1972: 93, 173] calls this diathesis 'Objektvertauschung' and McIntyre [-@mcintyre2001: 275-277] 'landmark flexibility'. For historical context on this diathesis, see Carlberb [@carlberg1948] and Hundsnurscher [-@hundsnurscher1968: 127]. Lipka opposes this diathesis to 'Subjektvertauschung', which is discussed in [@sec:preverb-preposition-anticausative].
+
+**Attested Verbs**
+
+- zerˈ-  : *fressen*
+- überˈ- : *schwemmen*
+- ˈaus-  : *klopfen, lecken, packen, pressen, pumpen, rauben, schütten, trinken*
+- ˈan-   : *werfen*
+- ˈab-   : *bürsten, ziehen*
+- ˈauf-  : *gießen*
+- ˈein-  : *packen, räumen*
+
+**Examples**
+
+- Ich klopfe den Staub von dem Mantel. Ich klopfe den Mantel aus.
+- Ich packe den Pullover in meinem Koffer. Ich packe meinen Koffer aus/ein.
+- Ich pumpe das Wasser aus dem Keller. Ich pumpe den Keller aus.
+- Ich trinke Wasser aus meiner Tasse. Ich trinke meine Tasse aus.
+- Ich raube das Gemälde aus der Wohnung. Ich raube die Wohnung aus.
+- Die Motten fressen ein Loch in den Pullover. Die Motten zerfressen den Pullover.
+- Die Welle hat das Holz an Land geschwemmt. Die Welle hat das Land überschwemmt.
+- Ich schütte das Wasser aus dem Eimer. Ich schütte den Eimer aus.
+- Ich werfe Kohle auf dem Grill. Ich werfe den Grill an.
+- Ich bürste den Staub von dem Rock. Ich bürste den Rock ab.
+- Ich gieße Wasser auf den Tee. Ich gieße den Tee auf.
+- Ich räume meine Sachen in die neue Wohnung. Ich räume die neue Wohnung ein.
+- Ich ziehe das Laken von dem Bett. Ich ziehe das Bett ab.
+
 ## Diatheses with promotion to object {#sec:preverb-promotion-to-object}
 
-### --- Additions --- {.unnumbered}
+### --- [ Ø > OBJ ] Object addition --- {.unnumbered}
 
 ### [ N– | NA ] Preverb accusative addition {#sec:preverb-accusative-addition}
 
@@ -1032,17 +1107,15 @@ The verb *büßen* 'to pay for something' needs a governed preposition, while *b
 - Ich habe den Ball geworfen. Ich habe dir den Ball zugeworfen
 - Ich habe den Schal geworfen. Ich habe dir den Schal übergeworfen.
 
-### --- Applicatives --- {.unnumbered}
+### --- [ ADJ > OBJ ] Applicative --- {.unnumbered}
 
 ### [ Np | NA ] Preverb applicative {#sec:preverb-applicative}
 
 both governed and non-governed???
 
-**Attested Verbs**
+#### *beˈ-* Applicative
 
-Prefixes
-
-beˈ- (Eroms 1b/III/IV, Kim 1983 1.1)
+(Eroms 1b/III/IV, Kim 1983 1.1)
 
 - an    : *arbeiten, denken, fummeln, grenzen, knabbern, riechen, schnuppern*
 - auf   : *achten, antworten, brüten, deuten, fallen, glotzen, hauchen, legen, leuchten, pinkeln, reiten, scheinen, segeln, spucken, springen, steigen, treffen, treten, wandern*
@@ -1060,7 +1133,7 @@ beˈ- (Eroms 1b/III/IV, Kim 1983 1.1)
 - Ich lüge zu dir. Ich belüge dich.
 - Ich strebe nach ein hohes Amt. Ich bestrebe ein hohes Amt.
 
-verˈ-
+#### *verˈ-* Applicative
 
 - für   : *sorgen*
 - um    : *spielen, wetten*
@@ -1070,7 +1143,7 @@ verˈ-
 
 - Ich sorge für dich. vs. Ich versorge dich.
 
-erˈ-
+#### *erˈ-* Applicative
 
 - an    : *arbeiten*
 - auf   : *blicken, drücken, klettern, schießen, sinnen, steigen, strahlen, warten, zielen*
@@ -1090,7 +1163,7 @@ erˈ-
 - Der Mantel reicht bis meine Füße. Der Mantel erreicht meine Füße.
 - Ich schwindele bei meinem Darlehen. Ich erschwindele (mir) mein Darlehen. (Dative reflexive is possessor raising)
 
-zerˈ-
+#### *zerˈ-* Applicative
 
 - auf : *beißen, drücken, hauen, kauen, klopfen, schießen, schlagen, trampeln, treten*
 - in  : *bohren, stechen, wühlen*
@@ -1102,7 +1175,7 @@ zerˈ-
 - Der Hund kratzt an der Tür. Der Hund zerkratzt die Tür.
 - Ich wühle im Haar. Ich zerwühle das Haar.
 
-durchˈ- 
+#### *durchˈ-* Applicative
 
 - auf   : *schauen, schlagen*
 - durch : *dringen, fahren, fließen, laufen, streifen, ziehen*
@@ -1122,13 +1195,13 @@ durchˈ-
 - Ich suche in der Wohnung. Ich durchsuche die Wohnung.
 - Ich streife durch die Stadt. Ich durchstreife die Stadt.
 
-umˈ-
+#### *umˈ-* Applicative
 
 - um : *fahren*
 
 - Ich fahre um den Polizisten. Ich umfahre den Polizisten
 
-überˈ-
+#### *überˈ-* Applicative
 
 - über : *fahren, fliegen, rollen, schreiten, springen*
 - mit  : *reden*
@@ -1139,13 +1212,13 @@ umˈ-
 - Ich rede mit dir. Ich überrede dich.
 - Ich arbeite an dem Text. Ich überarbeite den Text.
 
-unterˈ-
+#### *unterˈ-* Applicative
 
 - unter : *graben, spülen*
 
 - Das Wasser spült unter der Straße. Das Wasser unterspült die Straße.
 
-'durch-
+#### *'durch-* Applicative
 
 - auf   : *drücken, schlagen*
 - in    : *beißen, blättern, bohren, suchen*
@@ -1162,24 +1235,26 @@ unterˈ-
 - Ich stehe in den Garten während des Rückschlages. Ich stehe einen Rückschlag durch.
 
 remove?
-- durch : *fahren, fließen, laufen* ???
+
+durch : *fahren, fließen, laufen* ???
+
 - Ich fahre durch das Dorf. Ich fahre (durch!) das Dorf durch.
 - Ich laufe durch den Wald. Ich laufe (durch!) den Wald durch.
 - Der Fluß fließt durch das Tal. Der Fluß fließt (durch!) das Tal durch.
 
-'um-
+#### *'um-* Applicative
 
 - gegen : *fahren, stoßen*
 
 - Ich fahre gegen den Stein. Ich fahre den Stein um.
 
-'auf-
+#### *'auf-* Applicative
 
 - gegen : *stoßen*
 
 - Ich stoße gegen die Tür. Ich stoße die Tür auf.
 
-'ein-
+#### *'ein-* Applicative
 
 - auf   : *drücken, hämmern, klagen, laufen, reiten, schlagen, schießen, treten*
 - mit   : *kalkulieren, klagen, rechnen*
@@ -1190,7 +1265,7 @@ remove?
 - Ich reite auf einem Pferd. Ich reite das Pferd ein.
 - Ich laufe auf meine neue Schuhe. Ich laufe meine neue Schuhe ein.
 
-'an-
+#### *'an-* Applicative
 
 - an    : *fahren, fassen, knabbern*
 - auf   : *spucken, stampfen*
@@ -1206,13 +1281,13 @@ remove?
 - Ich klage über dich. Ich klage dich an.
 - Ich singe zu meiner Geliebten. Ich singe meine Geliebte an.
 
-'ab-
+#### *'ab-* Applicative
 
 - über  : *schreiten*
 
 - Ich schreite über den Läufer. Ich schreite den Läufer ab
 
-'aus-
+#### *'aus-* Applicative
 
 - über   : *denken, plaudern, lachen*
 - an     : *arbeiten, denken*
@@ -1222,7 +1297,7 @@ remove?
 - Ich arbeite an dem Plan. Ich arbeite den Plan aus.
 - Ich lache über dich. Ich lache dich aus.
 
-'zu-
+#### *'zu-* Applicative
 
 - mit   : *reden*
 - zu    : *nicken*
@@ -1248,20 +1323,29 @@ The dative can probably always be interpreted as the possessor of the accusative
 - Ich spiele um den Sieg. Ich habe mir den Sieg erspielt.
 - Ich denke an den Plan. Ich denke mir den Plan aus.
 
-### [ NP– | NAD ] Preverb applicative + dative addition
+### [ NPp | NAD ] Preverb applicative + dative applicative {#sec:preverb-double-applicative}
+
+\ex.
+ \a. Ich schweige zu dir über meinen Besuch.
+ \b. Ich verschweige dir meinen Besuch.
 
 **Attested Verbs**
 
 - verˈ- : *schweigen, sprechen*
 - ˈvor- : *heulen, lügen*
+- ˈab-  : *schwatzen*
 
 **Examples**
 
-- Ich schweige (zu dir) über meinen Besuch. Ich verschweige dir meinen Besuch.
-- Ich spreche (mit dir) über das Buch. Ich verspreche dir das Buch.
-- Ich lüge über meine Leistung. Ich lüge dir eine Geschichte vor.
+- Ich spreche (zu dir) über das Buch. Ich verspreche dir das Buch.
+- Ich lüge (zu dir) über meine Leistung. Ich lüge dir eine Geschichte vor.
+- Ich schwatze mit dir über dein Geld. Ich schwatze dir dein Geld ab.
 
-### [ NpD | NAD ] Preverb applicative + dative
+### [ NPD | NAD ] Preverb applicative + dative
+
+\ex.
+ \a. Er droht mir mit Entlassung.
+ \b. Er droht mir die Entlassung an.
 
 **Attested Verbs**
 
@@ -1270,59 +1354,155 @@ The dative can probably always be interpreted as the possessor of the accusative
 
 **Examples**
 
-- Er droht mir mit Entlassung. Er droht mir die Entlassung an.
 - Ich danke dir für deinen Einsatz. Ich verdanke dir mein Leben. 
 
-### [ NLA | NA– ] Preverb applicative + accusative drop {#sec:preverb-location-antiresultative}
+### --- [ ADJ > OBJ > OBJ ] --- Applicative {.unnumbered}
 
-"Objektvertauschung" 
-
-[@carlberg1948] with much about research history! including metonomy
-[@hundsnurscher1968: 127]
-[@lipka1972: 93. 173]
-[@mcintyre2001: 275-277] "landmark flexibility"
+### [ NPA | NAD ] Preverb applicative + accusative-to-dative
 
 \ex.
- \a. Ich presse den Saft aus der Zitrone.
- \b. Ich presse die Zitrone aus.
-
-Note: very similar to applicative+antipassive, though here antipassive to zero?
+ \a. Ich dränge dich zu einem Abo.
+ \b. Ich dränge dir ein Abo auf.
 
 **Attested Verbs**
 
-- zerˈ-  : *fressen*
-- überˈ- : *schwemmen*
-- ˈaus-  : *klopfen, lecken, packen, pressen, pumpen, rauben, schütten, trinken*
-- ˈan-   : *werfen*
-- ˈab-   : *bürsten, ziehen*
-- ˈauf-  : *gießen*
-- ˈein-  : *packen, räumen*
+- ˈab-  : *gewöhnen*
+- ˈauf- : *drängen*
 
 **Examples**
 
-- Ich klopfe den Staub von dem Mantel. Ich klopfe den Mantel aus.
-- Ich packe den Pullover in meinem Koffer. Ich packe meinen Koffer aus/ein.
-- Ich pumpe das Wasser aus dem Keller. Ich pumpe den Keller aus.
-- Ich trinke Wasser aus meiner Tasse. Ich trinke meine Tasse aus.
-- Ich raube das Gemälde aus der Wohnung. Ich raube die Wohnung aus.
-- Die Motten fressen ein Loch in den Pullover. Die Motten zerfressen den Pullover.
-- Die Welle hat das Holz an Land geschwemmt. Die Welle hat das Land überschwemmt.
-- Ich schütte das Wasser aus dem Eimer. Ich schütte den Eimer aus.
-- Ich werfe Kohle auf dem Grill. Ich werfe den Grill an.
-- Ich bürste den Staub von dem Rock. Ich bürste den Rock ab.
-- Ich gieße Wasser auf den Tee. Ich gieße den Tee auf.
-- Ich räume meine Sachen in die neue Wohnung. Ich räume die neue Wohnung ein.
-- Ich ziehe das Laken von dem Bett. Ich ziehe das Bett ab.
+- Ich gewöhne die Kinder an Sauberkeit. Sie gewöhnt mir das Rauchen ab.
 
-### [ NLA | NAp ] Preverb applicative + antipassive {#sec:preverb-applicative-antipassive}
+### --- [ ADJ > OBJ ] Dative Applicative --- {.unnumbered}
+
+### [ Np | ND ] Preverb dative applicative {#sec:preverb-dative-applicative}
+
+[zu *ent-*, sehe auch @eisenberg2013: 252]
+
+**Atteste Verbs**
+
+- erˈ-   : *mangeln*
+- entˈ-  : *eilen, fliegen, fliehen, fließen, gehen, gleiten, kommen, laufen, springen, sprießen, steigen, stammen, strömen, wachsen, weichen*
+- ˈan-   : *hängen (gehangen)*
+- ˈnach- : *fahren, gehen, hinken, jagen, laufen, reiten, rennen, schwimmen, rufen, schreien, schauen, sehen*
+- ˈzu-   : *arbeiten, lachen, laufen, reden*
+- ˈbei-  : *liegen, stehen, stimmen*
+
+**Examples**
+
+- Ich stamme aus einem Adelsgeschlecht. Ich entstamme einem Adelsgeslecht
+- Ich lache freundlich zu dir. Ich lache dir freundlich zu.
+- Der Wagen fuhr zu mir. Der Wagen fuhr auf mich zu.
+- Er arbeitet für mich. Er arbeitet mir zu.
+- Meine Freunde haben zu mir geredet. Meine Freunde haben mir zugeredet.
+- Sein Referat mangelt an jeglicher Sachkenntnis. Sein Referat ermangelt jeglicher Sachkenntnis.
+- Die Kinder haben immer mit Liebe an ihren Eltern gehangen. Seine Vergangenheit hat ihm noch angehangen.
+- Ich rufe nach dir. Ich rufe dir nach.
+- Ich gehe hinter dir. Ich gehe dir nach.
+- Er fährt in ihrer Spur. Er ist ihrer Spur nachgefahren.
+- Die Rechnung liegt in dem Brief. Die Rechnung liegt dem Brief bei.
+- Die Polizei jagte auf einen Verbrecher. Die Polizei jagte dem Verbrecher nach.
+
+### [ NpA | NDA ] Preverb dative applicative + accusative
+
+**Attested Verbs**
+
+- erˈ-    : *klären*
+- entˈ-   : *locken, nehmen, reißen, ziehen*
+- ˈan-    : *hängen (gehängt), kleben, stecken*
+- ˈab-    : *gewinnen, handeln, nehmen*
+- ˈbei-   : *fügen, legen, mischen*
+- ˈüber-  : *legen, werfen*
+- ˈunter- : *schieben*
+- ˈaus-   : *setzen, treiben, ziehen*
+- ˈauf-   : *packen*
+- ˈum-    : *wickeln*
+
+**Examples**
+
+- Ich kläre die Frage (mit dir). Ich erkläre dir die Antwort.
+- Ich habe ein Schild an die Wand gehängt. Ich habe meinem Widersacher einen Prozess angehängt.
+- Ich nehme das Geld von dir. Ich nehme dir das Geld ab.
+- Ich füge eine Zollerklärung zu dem Paket. Ich füge dem Paken eine Zollerklärung bei.
+- Ich ziehe eine Feder aus dem Vogel. Ich ziehe dem Vogel eine Feder aus.
+- Ich schiebe den Stuhl unter den Tisch. Ich schiebe dir ein Kissen unter.
+- Ich treibe den Eigensinn aus dem Kind. Ich treibe dem Kind den Eigensinn aus.
+- Ich habe den Hund in seine Hütte gesetzt. Ich habe den Hund der Kälte ausgesetzt.
+- Ich nehme das Geld aus der Brieftasche. Ich entnehme der Brieftasche das Geld.
+- Ich locke Töne aus dem Instrument. Ich entlocke dem Intrument einige Töne.
+- Ich packe noch weitere Lasten auf den Esel. Ich packe dem Esel noch weitere Lasten auf.
+- Ich wickele ein Tuch um dich. Ich wickele dir ein Tuch um.
+- Sie klebt einen Bart an ihm. Sie klebt ihm einen Bart an.
+
+### --- [ Ø > OBJ ] Resultative --- {.unnumbered}
+
+### [ N– | NA ] Preverb reflexive resultative
+
+Some intransitive verbs like *tanzen* 'to dance' \Next[a] allow for a resultative diathesis *antanzen* 'to achieve something through dancing' \Next[b]. The result of the dancing is expressed in the new accusative argument. A special characteristic of this diathesis is that a dative reflexive pronoun is obligatorily present [see also @wunderlich1997: 105-106].
+
+\ex.
+ \a. Ich habe gestern viel getanzt.
+ \b. Ich habe mir gestern einen Muskelkater angetanzt.
+
+Various of the intransitive verbs that allow for this resultative diathesis, like *tanzen* \Last but also *laufen* 'to run' \Next[a], allow for an accusative addition as well \Next[b], see [@sec:case-accusative-addition]. The accusative argument from that diathesis can be retained through an antipassive diathesis in the form of a prepositional phrase \Next[c].
+
+\ex.
+ \a. Ich habe gestern viel gelaufen.
+ \b. Ich habe gestern einen Marathon gelaufen.
+ \c. Ich habe mir eine Medaille beim Marathon erlaufen.
+
+With the prefix *ver-* the meaning of this diathesis is a negative resultative \Next.
+
+\ex.
+ \a. Ich fahre, und am Ende habe ich dadurch *kein* Benzin mehr.
+ \b. Ich verfahre mein letztes Benzin.
+
+**Attested Verbs**
+
+- erˈ-  : *arbeiten, laufen, schreiben*
+- verˈ- : *fahren, spielen*
+- ˈan-  : *essen, tanzen, trinken*
+
+**Examples**
+
+- Ich arbeite, und am Ende habe ich dadurch ein Vermögen. Ich erarbeite mir ein Vermögen.
+- Ich esse, um am Ende habe ich dadurch einen dicken Bauch. Ich esse mir einen Bach an.
+- Ich spiele, und am Ende habe ich dadurch kein Geld mehr. Ich verspiele mein letztes Geld.
+
+**Notes**
+
+A verb like *schreiben* allows for dative and accusative arguments \Next[a], but in this diathesis it is the intransitive occupational usage \Next[b] that is the basis for the resultative construction \Next[c].
+
+\ex.
+ \a. Ich schreibe dir einen Brief.
+ \b. Ich schreibe (als Beruf).
+ \c. Ich erschreibe mir ein großes Publikum.
+
+### --- [ ADJ > OBJ ] Possessor raising --- {.unnumbered}
+
+### [ NAg | NAD ] Preverb possessor-of-accusative to dative {#sec:preverb-possessor-raising}
+
+The verb *ansehen* has various different senses, as summarized in [@sec:preverb-dative-reflexive]. One of the senses can approximately be translated into English as 'to notice' \Next. In this sense of *ansehen*, the possessor of the accusative argument is obligatorily expressed as a dative.
+
+\ex.
+ \a. Ich sehe seine Müdigkeit.
+ \b. Ich sehe ihm die Müdigkeit an.
+
+**Attested Verbs**
+
+- ˈan- : *hören, sehen*
+
+**Examples**
+
+- Ich höre seine Müdigkeit. Ich höre ihm die Müdigkeit an.
+
+## Diatheses with object exchange
+
+### --- [ ADJ > OBJ > ADJ ] Full applicative --- {.unnumbered}
+
+### [ NpA | NAp ] Preverb applicative + *mit* antipassive {#sec:preverb-applicative-antipassive}
 
 In first alternant sometimes a local preposition appears. Is this maybe a different alternation? In general, the prepositions are mostly not governed prepositions.
-
-always local preposition?
-
-Most examples are *mit* or *in* antipassives.
-
-#### Preverb applicative + *mit* antipassive
 
 **Attested Verbs**
 
@@ -1413,7 +1593,7 @@ umˈ-
 - Ich wickele ein Tuch um dich. Ich umwickele dich mit einem Tuch.
 - Ich streue Zucker über den Kuchen. Ich überstreue den Kuchen mit Zucker.
 
-#### Preverb applicative + *in* antipassive
+### [ NpA | NAp ] Preverb applicative + *in* antipassive
 
 **Attested Verbs**
 
@@ -1423,14 +1603,15 @@ beˈ-
 - über/in : *schreiben*
 
 - Ich schreibe (dir) einen Brief über mein Erlebnis. Ich beschreibe (dir) mein Erlebnis in einem Brief
+- Ich grabe ein Loch für meinen Hund. Ich begrabe meinen Hund in dem Loch.
 
 verˈ-
 
 - für/in  : *graben, buddeln*
 - mit/in  : *bauen, backen*
 
-- Ich backe ein Küchen mit einem Kilo Mehl. Ich verbacke ein Kilo Mehl in dem Kuchen.
-- Ich baue ein Haus mit Steinen. Ich verbaue die Steine in dem Haus.
+- Ich backe einen Kuchen mit einem Kilo Mehl. Ich verbacke ein Kilo Mehl in dem Kuchen.
+- Ich baue ein Haus mit den Steinen. Ich verbaue die Steine in dem Haus.
 - Ich grabe/buddele ein Loch für den Schatz. Ich vergrabe/verbuddele den Schatz im Loch.
 
 durchˈ-
@@ -1444,191 +1625,37 @@ durchˈ-
 - für/in : *graben*
 - um/in  : *wickeln*
 
-- Ich wickele das Tuch um den Arm. Ich wickele den Arm in dem Tuch ein.
+- Ich wickle das Tuch um den Arm. Ich wickle den Arm in dem Tuch ein.
 - Ich grabe ein Loch (in die Erde) für den Baum. Ich grabe den Baum in einem Loch (in die Erde) ein.
 
-**Notes**
+### [ NPA | NAp ] Preverb applicative + *von* antipassive 
 
-Different roles with *graben*? Rollen *graben*: LOCH/BENEFAKTOR; Rollen *begraben*: GRAB/TOTER; Equivalenz? LOCH~GRAB, TOTER~BENEFAKTOR
-
-- Ich grabe ein Loch für meinen Hund. Ich begrabe meinen Hund in dem Loch.
-
-#### Preverb applicative + *von* antipassive 
+\ex.
+ \a. Er zwingt ihn zu einem Geständnis.
+ \b. Er erzwingt ein Geständnis von ihm.
 
 **Attested Verbs**
 
-erˈ-
-
-- zu/von   : *pressen, zwingen*
-- nach/von : *fragen*
-- um/von   : *bitten*
+erˈ- : *bitten, fragen, pressen, zwingen*
 
 **Examples**
 
 - Ich bitte dich um einen Gefallen. Ich erbitte einen Gefallen von dir.
-- Er zwingt ihn zu einem Geständnis. Er erzwingt ein Geständnis von ihm.
 - Ich frage dich nach dem Weg zum Bahnhof. Ich erfrage den Weg zum Bahnhof von dir.
 
-### [ NPA | NAp ] Preverb reflexive applicative + antipassive
+### [ NPA | NAp ] Preverb reflexive applicative + *von* antipassive
 
 Counterexample to generalisation that non-self-inflicting reflexive pronouns are always accusative!
+
+\ex.
+ \a. Ich bitte dich um einen Kommentar.
+ \b. Ich verbitte mir einen Kommentar von dir.
 
 **Attested Verbs**
 
 - verˈ- : *bitten*
 
-**Examples**
-
-- Ich bitte dich um einen Kommentar. Ich verbitte mir einen Kommentar von dir.
-
-### [ NPA | NAD ] Preverb applicative + accusative-to-dative
-
-**Attested Verbs**
-
-- ˈab-  : *gewöhnen*
-- ˈauf- : *drängen*
-
-**Examples**
-
-- Ich gewöhne die Kinder an Sauberkeit. Sie gewöhnt mir das Rauchen ab.
-- Ich dränge dich zu einem Abo. Ich dränge dir ein Abo auf.
-
-### --- Dative Applicatives --- {.unnumbered}
-
-### [ Np | ND ] Preverb dative applicative {#sec:preverb-dative-applicative}
-
-[zu *ent-*, sehe auch @eisenberg2013: 252]
-
-**Atteste Verbs**
-
-- erˈ-   : *mangeln*
-- entˈ-  : *eilen, fliegen, fliehen, fließen, gehen, gleiten, kommen, laufen, springen, sprießen, steigen, stammen, strömen, wachsen, weichen*
-- ˈan-   : *hängen (gehangen)*
-- ˈnach- : *fahren, gehen, hinken, jagen, laufen, reiten, rennen, schwimmen, rufen, schreien, schauen, sehen*
-- ˈzu-   : *arbeiten, lachen, laufen, reden*
-- ˈbei-  : *liegen, stehen, stimmen*
-
-**Examples**
-
-- Ich stamme aus einem Adelsgeschlecht. Ich entstamme einem Adelsgeslecht
-- Ich lache freundlich zu dir. Ich lache dir freundlich zu.
-- Der Wagen fuhr zu mir. Der Wagen fuhr auf mich zu.
-- Er arbeitet für mich. Er arbeitet mir zu.
-- Meine Freunde haben zu mir geredet. Meine Freunde haben mir zugeredet.
-- Sein Referat mangelt an jeglicher Sachkenntnis. Sein Referat ermangelt jeglicher Sachkenntnis.
-- Die Kinder haben immer mit Liebe an ihren Eltern gehangen. Seine Vergangenheit hat ihm noch angehangen.
-- Ich rufe nach dir. Ich rufe dir nach.
-- Ich gehe hinter dir. Ich gehe dir nach.
-- Er fährt in ihrer Spur. Er ist ihrer Spur nachgefahren.
-- Die Rechnung liegt in dem Brief. Die Rechnung liegt dem Brief bei.
-- Die Polizei jagte auf einen Verbrecher. Die Polizei jagte dem Verbrecher nach.
-
-### [ Np– | NDA ] Preverb dative applicative + accusative addition
-
-The dative seems to be always the possessor of the accusative, but this construction is not possible without dative
-
-**Attested Verbs**
-
-- ˈab-    : *schwatzen*
-
-**Examples**
-
-- Ich schwatze mit dir. Ich schwatze dir dein Geld ab.
-
-### [ NpA | NDA ] Preverb dative applicative + accusative
-
-**Attested Verbs**
-
-- erˈ-    : *klären*
-- entˈ-   : *locken, nehmen, reißen, ziehen*
-- ˈan-    : *hängen (gehängt), kleben, stecken*
-- ˈab-    : *gewinnen, handeln, nehmen*
-- ˈbei-   : *fügen, legen, mischen*
-- ˈüber-  : *legen, werfen*
-- ˈunter- : *schieben*
-- ˈaus-   : *setzen, treiben, ziehen*
-- ˈauf-   : *packen*
-- ˈum-    : *wickeln*
-
-**Examples**
-
-- Ich kläre die Frage (mit dir). Ich erkläre dir die Antwort.
-- Ich habe ein Schild an die Wand gehängt. Ich habe meinem Widersacher einen Prozess angehängt.
-- Ich nehme das Geld von dir. Ich nehme dir das Geld ab.
-- Ich füge eine Zollerklärung zu dem Paket. Ich füge dem Paken eine Zollerklärung bei.
-- Ich ziehe eine Feder aus dem Vogel. Ich ziehe dem Vogel eine Feder aus.
-- Ich schiebe den Stuhl unter den Tisch. Ich schiebe dir ein Kissen unter.
-- Ich treibe den Eigensinn aus dem Kind. Ich treibe dem Kind den Eigensinn aus.
-- Ich habe den Hund in seine Hütte gesetzt. Ich habe den Hund der Kälte ausgesetzt.
-- Ich nehme das Geld aus der Brieftasche. Ich entnehme der Brieftasche das Geld.
-- Ich locke Töne aus dem Instrument. Ich entlocke dem Intrument einige Töne.
-- Ich packe noch weitere Lasten auf den Esel. Ich packe dem Esel noch weitere Lasten auf.
-- Ich wickele ein Tuch um dich. Ich wickele dir ein Tuch um.
-- Sie klebt einen Bart an ihm. Sie klebt ihm einen Bart an.
-
-### --- Resultatives --- {.unnumbered}
-
-### [ N– | NA ] Preverb reflexive resultative
-
-Some intransitive verbs like *tanzen* 'to dance' \Next[a] allow for a resultative diathesis *antanzen* 'to achieve something through dancing' \Next[b]. The result of the dancing is expressed in the new accusative argument. A special characteristic of this diathesis is that a dative reflexive pronoun is obligatorily present [see also @wunderlich1997: 105-106].
-
-\ex.
- \a. Ich habe gestern viel getanzt.
- \b. Ich habe mir gestern einen Muskelkater angetanzt.
-
-Various of the intransitive verbs that allow for this resultative diathesis, like *tanzen* \Last but also *laufen* 'to run' \Next[a], allow for an accusative addition as well \Next[b], see [@sec:case-accusative-addition]. The accusative argument from that diathesis can be retained through an antipassive diathesis in the form of a prepositional phrase \Next[c].
-
-\ex.
- \a. Ich habe gestern viel gelaufen.
- \b. Ich habe gestern einen Marathon gelaufen.
- \c. Ich habe mir eine Medaille beim Marathon erlaufen.
-
-With the prefix *ver-* the meaning of this diathesis is a negative resultative \Next.
-
-\ex.
- \a. Ich fahre, und am Ende habe ich dadurch *kein* Benzin mehr.
- \b. Ich verfahre mein letztes Benzin.
-
-**Attested Verbs**
-
-- erˈ-  : *arbeiten, laufen, schreiben*
-- verˈ- : *fahren, spielen*
-- ˈan-  : *essen, tanzen, trinken*
-
-**Examples**
-
-- Ich arbeite, und am Ende habe ich dadurch ein Vermögen. Ich erarbeite mir ein Vermögen.
-- Ich esse, um am Ende habe ich dadurch einen dicken Bauch. Ich esse mir einen Bach an.
-- Ich spiele, und am Ende habe ich dadurch kein Geld mehr. Ich verspiele mein letztes Geld.
-
-**Notes**
-
-A verb like *schreiben* allows for dative and accusative arguments \Next[a], but in this diathesis it is the intransitive occupational usage \Next[b] that is the basis for the resultative construction \Next[c].
-
-\ex.
- \a. Ich schreibe dir einen Brief.
- \b. Ich schreibe (als Beruf).
- \c. Ich erschreibe mir ein großes Publikum.
-
-### --- Possessor Raising --- {.unnumbered}
-
-### [ NAg | NAD ] Preverb possessor-of-accusative to dative {#sec:preverb-possessor-raising}
-
-The verb *ansehen* has various different senses, as summarized in [@sec:preverb-dative-reflexive]. One of the senses can approximately be translated into English as 'to notice' \Next. In this sense of *ansehen*, the possessor of the accusative argument is obligatorily expressed as a dative.
-
-\ex.
- \a. Ich sehe seine Müdigkeit.
- \b. Ich sehe ihm die Müdigkeit an.
-
-**Attested Verbs**
-
-- ˈan- : *hören, sehen*
-
-**Examples**
-
-- Ich höre seine Müdigkeit. Ich höre ihm die Müdigkeit an.
-
-## Object-to-object diatheses
+### --- [ OBJ > OBJ ] Case change --- {.unnumbered}
 
 ### [ ND | NA ] Preverb dative-to-accusative
 
@@ -1643,38 +1670,16 @@ The verb *ansehen* has various different senses, as summarized in [@sec:preverb-
 - Ich folge dem Auto. Ich verfolge das Auto.
 - Ich folge dem Rat. Ich befolge den Rat.
 
-### [ NDA | NAp ] Preverb dative-to-accusative + antipassive
-
-**Attested Verbs**
-
-- beˈ- : *liefern, lohnen, schenken, singen*
-- umˈ- : *geben*
-
-**Exmples**
-
-- Ich schenke dir ein Buch. Ich beschenke dich mit einem Buch.
-- Ich lohne dir deine Treue. Ich belohne dich für deine Treue.
-- Ich gebe dem Buch einen Umschlag. Ich umgebe das Buch mit einem Umschlag.
-- Ich liefere dem Bäcker Mehl. Ich beliefere den Bäcker mit Mehl.
-
-**Notes**
-
-*lohnen* is also a reflexive anticausative \ref{reflexive-sec-anticausative}:
-
-- NA- : Das Ergebnis lohnt den Aufwand.
-- -N- : Der Aufwand lohnt sich.
-- NAD : Ich lohne dir deine Treue.
-- -Ng : Deine Treue lohnt sich. 
-- NPD : Ich lohne dir für deine Treue. (veraltet)
-- NPA : Ich belohne dich für deine Treue.
+### --- [ OBJ > OBJ > OBJ ] Double case change --- {.unnumbered}
 
 ### [ NDA | NAG ] Preverb dative-to-accusative + accusative-to-genitive
+
+\ex.
+ \a. Ich raube dir das Buch.
+ \b. Ich beraube dich des Buches.
 
 **Attested Verbs**
 
 - beˈ- : *rauben*
 
-**Examples**
-
-- ich raube (dir) das Buch. Ich beraube dich des Buches.
 

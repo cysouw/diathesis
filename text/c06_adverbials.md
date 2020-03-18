@@ -79,6 +79,7 @@ Some verbs have obligatory manner adverbial arguments \Next[a,b], called "Arterg
 - Ich bleibe wachsam/ruhig
 - Sein Zeugnis ist schlecht ausgefallen.
 
+
 ### [ N ] Nominative + accusative *sich* + manner adverbial
 
 The verb *sich benehmen* 'to behave' needs an adverbial constituent to describe how to behave \Next[a,b], except in imperatives \Next[c] and in some light verb constructions \Next[d], both of which have a conversational implicature of 'good' behavior. Note that there is a completely different meaning of *benehmen* without reflexive *sich*, meaning 'to deprive of' \Next[e].
@@ -105,6 +106,7 @@ The verbs *sich verhalten* and *sich aufführen* 'to behave' similarly always ne
 **Examples**
 
 - Er gibt sich jovial.
+- Ich verhalte mich abwartend.
 
 ### [ N ] Nominate + accusative *es* + manner adverbial
 
@@ -260,7 +262,7 @@ Kunze (1996) calls this 'middle'. Zifounin (S.74) 'fazilitives Medium' [@wiemer2
 
 **Attested Verbs**
 
-- *anfühlen, anhören, fahren, finden, laufen, lesen, malen, schreiben, spielen, springen, tanzen, verdienen, verkaufen*
+- *anfühlen, anhören, fahren, finden, gehen, laufen, lesen, lernen, malen, schneiden, schreiben, spielen, springen, tanzen, verdienen, verkaufen*
 
 **Examples**
 
