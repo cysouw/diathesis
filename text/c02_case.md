@@ -31,14 +31,14 @@ The German case marking system is rather straightforward. Noun phrases in German
 
 Table: German marking of case {#tbl:german-case}
 
-Basically, almost all case-marked constituents are governed arguments. Yet, there are a few situations (to be discussed in detail below) in which overtly case-marked constituents are not arguments (or, alternatively, a very special type of arguments): quantified objects \Next[a], named objets \Next[b], cognate objects \Next[c], lexicalized noun-verb combinations \Next[d] and adnominal constituents \Next[e].
+Basically, almost all case-marked constituents are governed arguments. Yet, there are a few situations (to be discussed in detail below) in which overtly case-marked constituents are not arguments (or, alternatively, a very special type of arguments): quantified objects \Next[a], named objects \Next[b], cognate objects \Next[c], lexicalized noun-verb combinations \Next[d] and adnominal constituents \Next[e].
 
 \ex.
  \a. Er schläft [den ganzen Tag].
  \b. Er nennt mich [einen Egoisten].
  \c. Er hat [einen gesunden Schlaf] geschlafen.
  \d. Er stirbt [einen qualvollen Tod].
- \e. Ich beschuldige den Verdächtigten [des Diebstahls] von weiteren Verbrechen.
+ \e. Ich beschuldige den Verdächtigten [des Diebstahls] von weiteren Gegenständen.
 
 ### Quantified object
 
@@ -102,11 +102,11 @@ Semantically, adnominal constituents are easily identified as modifiers inside a
 \ex.
  \a. Ich beschuldige den Verdächtigten des Diebstahls.
  \b. Ich beschuldige [den Verdächtigten] vor Gericht [des Diebstahls].
- \c. Ich beschuldige [den Verdächtigten des Diebstahls] von weiteren Verbrechen.
+ \c. Ich beschuldige [den Verdächtigten des Diebstahls] von weiteren Gegenständen.
 
 ## Deponent verbs without alternations
 
-Before delving into the actual alternations, I will first present an inventory of verbs that do not show alternation as far as flagging is concerned. These verbs can, and many will, occur in other diatheses as discussed in subsequent chapters, but for the alternations discussed in this chapter (on case-marked arguments) and the next chapter (on prepositional arguments) these verbs are invariable. The most interesting insight from building this collection is that it not easy at all to find verbs that do not allow for at least some kind of flagging variation.
+Before delving into the actual alternations, I will first present an inventory of verbs that do not show alternation as far as flagging is concerned. These verbs can, and many will, occur in other diatheses as discussed in subsequent chapters, but for the alternations discussed in this chapter (on case-marked arguments) and the next chapter (on prepositional arguments) these verbs are invariable. The most interesting insight from building this collection is that it is not easy at all to find verbs that do not allow for at least some kind of flagging variation.
 
 ### --- Regular case-marked arguments--- {.unnumbered}
 
@@ -135,11 +135,11 @@ An attempt has been made below to classify the examples of strictly intransitive
 
 **Attested Verbs**
 
-- Movement: *ankommen, ausgehen, eintreffen, rasen (schnell bewegen), reisen, untergehen, verreisen, verschwinden*
-- Bodily Functions: *niesen, pinkeln, brechen (übergeben)*
+- Movement: *ankommen, ausgehen, eintreffen, rasen (schnell bewegen), reisen, untergehen, verreisen, verschwinden, schlendern, spazieren*
+- Bodily Functions: *niesen, pinkeln, brechen (übergeben), husten*
 - Sleeping: *aufstehen, aufwachen, einschlafen*
 - Living: *ausziehen, einziehen, umziehen, wegziehen, wohnen*
-- Natural Process: *ertrinken, scheinen, sprießen*
+- Natural Process: *ertrinken, scheinen, sprießen, wachsen, schrumpfen*
 - Noun incorporation: *fernsehen, autofahren, seiltanzen, bergsteigen, kopfrechnen, notlanden, brustschwimmen, bruchrechnen, eislaufen, kopfstehen, probefahren, radfahren, windsurfen*
 - Various: *desertieren, enden, hupen, klingen*
 
@@ -156,7 +156,7 @@ Some of the 'living' verbs allow for accusative arguments in non-living related 
 
 The verbs in this class are strict transitives: they need a nominative subject argument and an additional accusative argument. Further arguments are not allowed, and no governed prepositions are allowed either. It turns out that this group is not very large, because very many verbs allow for dative arguments (traditionally called 'free' datives, but that term will be ignored here) or alternations with governed prepositions. For example, an apparently typical transitive verb like *bauen* 'to build' allows for a dative to mark the beneficiary of the building, as in *Ich baue dir ein Haus* 'I will build a house for you'. Conversely, there are also many apparently typical transitive verbs that can just as well be used without accusative object, including well-known ambitransitive verbs like *essen* 'to eat'. Still, the current set of verbs attested for this class can easily be extended and is not at all intended to be complete. 
 
-Verbpräfixes and Verbparticles (see Chapter X) regularly induce an applicative alternation and subsequently often lexicalize, leading to transitive verbs \Next[a,b]. 
+Verbprefixes and Verbparticles (see Chapter X) regularly induce an applicative alternation and subsequently often lexicalize, leading to transitive verbs \Next[a,b]. 
 
 \ex.
  \a. Ich schreite über den Teppich.
@@ -167,7 +167,7 @@ The number of monomorphemic 'strictly' transitive verbs seems to be very limited
 **Attested Verbs**
 
 - Monomorphemic: *bilden, brauchen, finden, freuen, grüßen, kennen, kriegen, merken, mögen, pflegen, tanken, wecken, wundern*
-- Verbpräfixes/particles: *abmessen, abschreiten, abwiegen, angehen, ansehen, ansetzen, begrüßen, beängstigen, behalten, bekommen, beruhigen, beschäftigen, darstellen, enthalten, entschuldigen, erreichen, umfassen, unterbrechen, verachten, verletzen, verschwenden*
+- Verbpräfixes/particles: *abmessen, abschreiten, abwiegen, angehen, ansehen, ansetzen, begrüßen, beängstigen, behalten, bekommen, beruhigen, beschäftigen, darstellen, enthalten, entschuldigen, erreichen, umfassen, unterbrechen, verachten, verletzen, verschwenden, zerreißen, zerstören*
 
 **Examples**
 
@@ -190,7 +190,7 @@ The verbs in this class need both a nominative subject argument and a second dat
 
 **Attested Verbs**
 
-- *ähneln, angehören, antworten, begegnen, beipflichten, bleiben, einfallen, entgegen kommen, entgehen, entsprechen, gefallen, gegenüber treten, gehören, gelten, gleichen, glücken, imponieren, liegen, missfallen, nacheifern, schaden, stehen, trauen, unterlaufen, unterliegen, unterstehen, verfallen, widerfahren, zufallen, zureden, zustoßen*
+- *ähneln, angehören, antworten, begegnen, beipflichten, bleiben, einfallen, entgegen kommen, entgehen, entsprechen, gefallen, gegenüber treten, gehören, gelten, gleichen, glücken, imponieren, liegen, missfallen, nacheifern, schaden, stehen, trauen, unterlaufen, unterliegen, unterstehen, verfallen, widerfahren, zufallen, zureden, zustoßen, zuneigen*
 
 **Examples**
 
@@ -246,7 +246,7 @@ This class consists of the classical ditransitive verbs with an obligatory nomin
 
 **Attested Verbs**
 
-- *abgewöhnen, benehmen, bescheren, schulden, überlassen, verdanken, vorsagen, widmen, zutrauen*
+- *abgewöhnen, benehmen, bescheren, schulden, überlassen, verdanken, vorsagen, widmen, zutrauen, schenken*
 
 **Examples**
 
@@ -258,6 +258,7 @@ This class consists of the classical ditransitive verbs with an obligatory nomin
 - Ich sage dir die Antwort vor.
 - Ich widme dir das Buch.
 - Ich traue dir die Reise zu.
+- Ich schenke dir das Auto.
 
 ### [ NAG ] Nominative + accusative + genitive
 
