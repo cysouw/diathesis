@@ -375,7 +375,7 @@ In German, the nominative constituent shows agreement with the verb. It is typic
 - Der Nachbar klingelt an der Tür. An der Tür klingelt es. 
 - Der Müll riecht. Hier riecht es. 
 - Das Wasser kühlt ab. Morgen kühlt es ab.
-- Das kochen klappt noch nicht so gut. Jetzt klappt es wieder. 
+- Das kochen klappt noch nicht so gut. Jetzt klappt es. 
 
 ### [ NA | –A ] Nominative drop + accusative
 
@@ -453,8 +453,8 @@ Because this diathesis is unmarked it is difficult to decide whether this should
 - Ich habe (dir) den Ausweis abgenommen. Der Regen hat abgenommen. Der Ausweis ist abgenommen.
 - Ich habe das Werk angefangen. Der Film hat angefangen. Das Werk ist angefangen, aber nicht vollendet.
 - Er hat mich geduscht. Ich habe geduscht.
-- Er zählt mich zu den Menschen. Ich habe zu den Menschen gezählt. Ich bin zu den Menschen gezählt.
-- Ich habe das Boot umgedreht. Das Boot hat umgedrecht. Das Book ist umgedreht.
+- Er zählt mich zu den Menschen. Ich habe zu den Menschen gezählt. Die Tage sind gezählt (DWDS).
+- Ich habe das Boot umgedreht. Das Boot hat umgedreht. Das Boot ist umgedreht.
 - Ich habe die Bombe gezündet. Die Bombe hat gezündet.
 - Die Sonne schmilzt den Schnee. Die Eiswürfel sind geschmolzen. Das Eis hat geschmolzen.
 
