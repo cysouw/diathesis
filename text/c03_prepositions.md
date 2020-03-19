@@ -382,7 +382,7 @@ The possessor (if present) in turn can show an alternation alternates with a dat
 - Ich schreibe mit einem Stift. Mein Stift schreibt nicht mehr.
 - Ich schneide mit einem Messer. Das Messer schneidet nicht mehr.
 - Der Sturm nimmt an Stärke zu. Die Stärke des Sturmes nimmt zu.
-- Der Platz wimmelt mit Kindern. Die Kinder wimmeln auf den Platz.
+- Der Platz wimmelt vor/von Kindern. Die Kinder wimmeln auf den Platz.
 
 ### [ NpA | –NA ] Instrument anticausative + accusative
 
@@ -413,12 +413,12 @@ This anticausative removes the agent and promotes the *mit* instrument to a nomi
 - Ich schmücke den Baum mit Kugeln. Die Kugeln schmücken den Baum.
 - Ich verstopfe den Durchfluss mit Steinen. Die Steine verstopfen den Durchfluss.
 - Ich verwirre dich mit meinen Aussagen. Meine Aussagen verwirren dich.
-- Ich verschmutze die Küche mit dem Sand unter meinen Schuhe. Der Sand verschmutzt die Küche.
+- Ich verschmutze die Küche mit dem Sand unter meinen Schuhen. Der Sand verschmutzt die Küche.
 - Der Mörder erstickt den Mann mit einem Kissen. Das Kissen erstickt den Mann.
 - Der Mörder tötet den Mann mit einem Messer. Das Messer tötet den Mann.
 - Der Zug ärgert mich mit seinem Lärm. Der Lärm des Zuges ärgert mich
-- Der Brief des Entführers erscheckt mich. Der Entführer erschrecht mich mit einem Brief.
-- Du überrascht mich mit dem Geschenk. Dein Geschenk überrascht mich.
+- Der Brief des Entführers erscheckt mich. Der Entführer erschreckt mich mit einem Brief.
+- Du überraschst mich mit dem Geschenk. Dein Geschenk überrascht mich.
 - Du leuchtest mich an mit der Lampe. Die Lampe leuchtet mich an.
 - Ich bedecke den Tisch mit einem Tuch. Das Tuch bedeckt den Tisch.
 
@@ -427,7 +427,7 @@ This anticausative removes the agent and promotes the *mit* instrument to a nomi
 Not all instruments work as possible possessors \Next[a,b].
 
 \ex.
- \a. Ich belade den Laster mit meinen Hände.
+ \a. Ich belade den Laster mit meinen Händen.
  \b. \* Meine Hände beladen den Laster.
 
 ### [ NpD | –ND ] Instrument anticausative + dative
@@ -493,7 +493,7 @@ These verbs use a *haben* perfect both in the intransitive and transitive usage 
 
 **Examples**
 
-- Ich habe das Buch in meiner Tasche gesteckt. Das Buch steckt in meiner Tasche.
+- Ich habe das Buch in meine Tasche gesteckt. Das Buch steckt in meiner Tasche.
 - Der Zettel klebt an der Tür. Ich klebe den Zettel an die Tür.
 - Der Besen lehnt am Zaun. Ich lehne den Besen an den Zaun.
 - Der Brief steckt im Briefkasten. Ich stecke den Brief in den Briefkasten
@@ -502,7 +502,7 @@ These verbs use a *haben* perfect both in the intransitive and transitive usage 
 
 **Notes**
 
-The verb *hängen* still shows the difference between transitive causative and intransitive stative usage through different forms of the past *hing* vs. *hangte* \Next[a,b] and the participle *gehangen* vs. *gehängt* \Next[c,d]. Many speakers of German do not appear to have clear intuitions about any difference between these two inflectional alternatives anymore.
+The verb *hängen* still shows the difference between transitive causative and intransitive stative usage through different forms of the past *hing* vs. *hängte* \Next[a,b] and the participle *gehangen* vs. *gehängt* \Next[c,d]. Many speakers of German do not appear to have clear intuitions about any difference between these two inflectional alternatives anymore.
 
 \ex.
  \a. Der Pullover hing im Schrank.
@@ -529,9 +529,9 @@ This alternation is strongly reminiscent of the "Zustandsapassiv" (see Section ?
 
 \ex.
  \a. Ich habe den Brief geöffnet.
- \b. Ich öffne den Haus.
+ \b. Ich öffne das Haus.
  \c. Der Brief ist geöffnet.
- \d. \* Das Brief öffnet.
+ \d. \* Der Brief öffnet.
 
 **Attested Verbs**
 
@@ -557,8 +557,8 @@ Not attested
 There are two different kinds of object demotions that involve prepositional phrases. First, there are many verbs with governed prepositions \Next[a,b] that allow for the governed prepositional phrase to be dropped \Next[c].
 
 \ex.
- \a. Ich träume über dich.
- \b. Ich träume darüber, dass ich dich treffe.
+ \a. Ich träume von dir.
+ \b. Ich träume davon, dass ich dich treffe.
  \c. Ich träume.
 
 Second, there are prepositional antipassives in which a case-marked argument alternates with a prepositional phrase \Next[a,b]. Note that with antipassives this prepositional phrase cannot be reformulated with a *da+preposition, dass* phrase \Next[c].
