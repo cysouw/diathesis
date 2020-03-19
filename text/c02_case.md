@@ -497,9 +497,9 @@ The nominative subjects of weather verbs seem to be rather transparent metaphori
 
 \ex.
  \a. *regnen: Blumen, Blätter, Konfetti, Granaten, Kugeln, Bomben, Scherben, Tropfen, Anfragen*
- \b. *hageln: Schüsse, Kugeln, Bomben, Steine, Vorwürfe, Worte, Schmährufe*
+ \b. *hageln: Schüsse, Kugeln, Bomben, Steine, Vorwürfe, Worte, Schmährufe, Beschwerden*
  \c. *blitzen: Zähne, Augen, Wege, Steine, Kristalle, Laternen, Sterne, Lichter*
- \d. *donnern: Kanonen, Schüsse, Mörser, Böller, Reden, Argumente, Eisenbahn, Wagen, Züge, Motoren*
+ \d. *donnern: Kanonen, Schüsse, Mörser, Böller, Reden, Argumente, Eisenbahn, Wagen, Züge, Motoren, Zorn*
 
 **Attested Verbs**
 
@@ -563,7 +563,8 @@ Although there is no overt difference between an unmarked anticausative and an u
 - Die Sonne hat die Frucht gereift. Die Frucht reift. Die Frucht ist gereift.
 - Ich habe den Urlaub angetreten. Ich bin zum Dienst angetreten.
 - Ich habe den Ball weggetreten. Ich bin weggetreten.
-- Ich habe den Heuchler geflohen wie die Pest. Ich bin aus dem Gefängnis geflohen.
+- Ich habe den Lärm der Stadt geflohen. Ich bin aus dem Gefängnis geflohen.
+- Die Welle knickt den Mast des Bootes. Der Mast knickt.
 
 ## Diatheses with subject exchange
 
