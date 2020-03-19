@@ -822,7 +822,7 @@ A few of the verbs that allow for the nominative to be absent (see [@sec:case-no
 
 ### [ N– | NA ] Accusative addition {#sec:case-accusative-addition}
 
-There are various kinds of objects that can be added to apparent intransitives, leading to a bare applicative construction. For example: a competitive entity in sports \Next[a], the result of an actions \Next[b], the name of the result of an action \Next[c] and possibly many other \Next[d,e].
+There are various kinds of objects that can be added to apparent intransitives, leading to a bare applicative construction. For example: a competitive entity in sports \Next[a], the result of an action \Next[b], the name of the result of an action \Next[c] and possibly many other \Next[d,e].
 
 \ex.
  \a. Er ist/hat den Marathon gelaufen.
@@ -874,7 +874,7 @@ For some verbs, the dative is an alternative expression of the possessor of the 
 **Attested Verbs**
 
 - Bodily Sensations: *bluten, brennen, frieren, drücken, jucken, klopfen, rasen (Emotion), schmerzen, schwellen, schwindeln, stechen, tränen, zittern, weh tun*
-- Natural Processes: *anbrennen, blühen, brechen, dampfen, rosten, stinken, überkochen, verblühen, verfaulen, verrosten, verwelken, zufrieren*
+- Natural Processes: *anbrennen, blühen, brechen, dampfen, rosten, stinken, überkochen, verblühen, verfaulen, verrosten, verwelken, zufrieren, rauchen*
 - Others: *langen*
 
 **Examples**
@@ -898,7 +898,7 @@ For some verbs, the dative is an alternative expression of the possessor of the 
 - Mein Gehalt langt nicht. Mir langt das Gehalt nicht.
 - ? Mein Kopf schwindelt. Mir schwindelt der Kopf.
 - Mein Krug bricht. Mir bricht der Krug.
-
+- Mein Kopf raucht. Mir raucht der Kopf.
 **Notes**
 
 Coreference ("reflexive double marking") is possible \Next[a], but in the third person this does not lead to a reflexive pronoun *sich* \Next[b,c]:
