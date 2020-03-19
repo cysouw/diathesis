@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Diathesis crucially involves variation in the marking of valency, and specifically variation in the marking of case as governed by the verb. With many verbs there is variation as to which cases are governed by the verb, typically including alternations between case marked arguments and adpositional phrases. The notion of 'flagging' was (re)introduced in Haspelmath [-@haspelmath2005d: 2] as a cover term to capture the intuition that case marking and adpositional marking express very similar functions in linguistic marking. The first two data chapters discuss exactly those kind of marking, viz. case or adpositional marking as governed by a verb. This chapter discusses alternations involving case-marked constituents, and the next chapter focusses on governed prepositional constituents.
+*Diathesis* crucially involves variation in the marking of valency, and specifically variation in the marking of case as governed by the verb. With many verbs there is variation as to which cases are governed by the verb, typically including alternations between case marked arguments and adpositional phrases. The notion of 'flagging' was (re)introduced in Haspelmath [-@haspelmath2005d: 2] as a cover term to capture the intuition that case marking and adpositional marking express very similar functions in linguistic marking. The first two data chapters discuss exactly those kind of marking, viz. case or adpositional marking as governed by a verb. This chapter discusses alternations involving case-marked constituents, and the next chapter focusses on governed prepositional constituents.
 
 Case-marked alternations include, for example, possessor raising like \Next[a,b] or anticausative alternations like \Next[c,d].
 
