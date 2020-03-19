@@ -753,6 +753,8 @@ Ditransitive verbs like *verbieten* 'to prohibit' \Next[a-c], that allow for the
 - Er hatte ihr seinen Kopf zugeneigt. Ich neige dieser Ansicht zu.
 - Ich lege dir den Rücktritt nahe. Das Foto legt seine Schuld nahe.
 - Ich befehle (dir) Gehorsamkeit.
+- Ich schlage (dir) ein Kompromiss vor.
+- Ich beweise (dir) meine Unschuld.
 
 **Notes**
 
