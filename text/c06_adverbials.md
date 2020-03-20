@@ -268,7 +268,7 @@ Kunze (1996) calls this 'middle'. Zifounin (S.74) 'fazilitives Medium' [@wiemer2
 
 - Ich fahre einen Lastwagen. Der Lastwagen fährt sich gut.
 - Ich verkaufe das Buch. Das Buch verkauft sich gut.
-- Ich schreibe Briefe mit einem Bleistift. riefe schreiben sich schlecht mit einem Bleistift
+- Ich schreibe Briefe mit einem Bleistift. Briefe schreiben sich schlecht mit einem Bleistift
 - Ich finde neue Freunde. Neue Freunde finden sich nur schwer.
 - Ich male ein Bild. Das Bild hat sich wie von alleine gemalt.
 - Ich spiele Klavier. Das Klavier spielt sich angenehm.
@@ -325,7 +325,7 @@ With diathesis:
 
 *weg/platt/nass/wund-*
 
-- Ich habe in dem Taschentuch geniest. Ich habe das Taschentuch voll geniest.
+- Ich habe in das Taschentuch geniest. Ich habe das Taschentuch voll geniest.
 - Ich habe in dem Teich gefischt. Ich habe den Teich leergefischt.
 - Ich rede über dein Benehmen. Ich rede dein Benehmen gut.
 - Ich quatsche mit ihm. Ich quatsche ihn voll.
@@ -333,9 +333,9 @@ With diathesis:
 - Ich rede über die Reise. Ich rede (mir) die Reise schön. (Er redet sich den Hals heiser/die Zunge lahm.)
 - Ich esse von den Teller. Ich esse den Teller leer.
 
-- Ich laufe auf meine Schuhe. Ich laufe meine Schuhe platt.
+- Ich laufe auf meinen Schuhen. Ich laufe meine Schuhe platt.
 - Das Publikum lachte über die DDR. Und ein ganzes Stadion lachte mal kurz die DDR weg.
-- Ich weine in dem Taschentuch. Ich weine das Taschentuch nass.
+- Ich weine in das Taschentuch. Ich weine das Taschentuch nass.
 - Ich beiße auf meine Lippe. Ich beiße meine Lippe wund.
 
 - Ich drehe an der Lautstärke. Ich drehe die Lautstärke hoch.
@@ -349,7 +349,7 @@ Und auch unter den Männern war mancher, der, vom Anblick des Jünglings bezwung
 ### [ NpA | NA– ] Adverbial applicative + accusative drop
 
 - Ich kaufe ein Brot in dem Geschäft. Ich kaufe das Geschäft leer.
-- Ich schenke Wein in dem Glas. Ich schenke das Glas (mit Wein) voll.
+- Ich schenke Wein in das Glas. Ich schenke das Glas (mit Wein) voll.
 - Er kauft den Gefangenen. Er kauft den Gefangenen frei.
 
 ### --- Resultatives --- {.unnumbered}
@@ -360,7 +360,7 @@ resultative meaning?
 
 governed preposition drop
 
-- Ich lache (über etwas). Ich lache mich tod/kaputt/schlapp
+- Ich lache (über etwas). Ich lache mich tot/kaputt/schlapp
 - Ich spare (für etwas). Ich spare mich reich.
 - Ich arbeite (an etwas). Ich arbeite mich hoch.
 
