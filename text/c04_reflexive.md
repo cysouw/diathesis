@@ -747,7 +747,7 @@ Many of these verbs seem to have a rather special meaning with a reflexive prono
 - Ich wende dem Nachbar den Rücken zu. Ich wende mich dem Nachbar zu.
 - Ich habe dich der Gefahr ausgesetzt. Ich setze mich einer Gefahr aus.
 - Er zeigte dem Boten den Brief. Er zeigte sich dem Boten.
-- Er setzte dem Unglück etws hingegen. Er setzte sich dem Unglück entgegen.
+- Er setzte dem Unglück etwas hingegen. Er setzte sich dem Unglück entgegen.
 - Er hatte seinen Kopf ihr zugeneigt. Er hatte sich ihr in Liebe zugeneigt.
 - Ich stelle ihr meine Lebensauffassung entgegen. Ich stelle mich dem Streben entgegen.
 - Ich habe mein Geld an das Haus gewendet. Ich habe mich an die Beratungsstelle gewendet.
@@ -832,7 +832,7 @@ The scope of this section is very similar to Wiemer & Nedjalkov [-@wiemer2007], 
 
 ### [ NA | Na ] Accusative reciprocal {#sec:reflexive-accusative-reciprocal}
 
-*sich gegenseitig*, oder *einander* without *sich*
+*sich gegenseitig*, or *einander* without *sich*
 
 **Attested Verbs**
 
