@@ -1131,7 +1131,7 @@ both governed and non-governed???
 - Die Weltausstellung deutet auf den Frieden. Das Gesetz bedeutet das Ende für Dieselautos.
 - Ich antworte auf deine Frage. Ich beantworte deine Frage.
 - Ich lüge zu dir. Ich belüge dich.
-- Ich strebe nach ein hohes Amt. Ich bestrebe ein hohes Amt.
+- Ich strebe nach einem hohen Amt. Ich bestrebe ein hohes Amt.
 
 #### *verˈ-* Applicative
 
@@ -1158,9 +1158,9 @@ both governed and non-governed???
 
 - Ich blicke auf meinen Freund. Ich erblicke meinen Freund.
 - Ich reiche nach der Flasche. Ich erreiche die Flasche nicht. 
-- Ich steige auf den Berb. Ich ersteige den Berb. 
+- Ich steige auf den Berg. Ich ersteige den Berg. 
 - Die Klasse arbeitet an dem Begriff "Realismus". Die Klasse erarbeitet den Begriff "Realismus".
-- Der Mantel reicht bis meine Füße. Der Mantel erreicht meine Füße.
+- Der Mantel reicht bis zu meinen Füßen. Der Mantel erreicht meine Füße.
 - Ich schwindele bei meinem Darlehen. Ich erschwindele (mir) mein Darlehen. (Dative reflexive is possessor raising)
 
 #### *zerˈ-* Applicative
@@ -1230,9 +1230,9 @@ both governed and non-governed???
 - Ich beiße in den Apfel. Ich beiße den Apfel durch.
 - Ich blättere in dem Buch. Ich blättere das Buch durch.
 - Ich bohre in dem Brett. Ich bohre das Brett durch.
-- Ich suche in meiner Tasche nach dem Schlüssel. Ich such meine Tasche nach dem Schlüssel durch.
+- Ich suche in meiner Tasche nach dem Schlüssel. Ich suche meine Tasche nach dem Schlüssel durch.
 - Ich boxe (mit der Kommision) über den Vorschlag. Ich boxe den Vorschlag (in der Kommision) durch.
-- Ich stehe in den Garten während des Rückschlages. Ich stehe einen Rückschlag durch.
+- Ich stehe in dem Garten während des Rückschlages. Ich stehe einen Rückschlag durch.
 
 remove?
 
@@ -1259,11 +1259,11 @@ durch : *fahren, fließen, laufen* ???
 - auf   : *drücken, hämmern, klagen, laufen, reiten, schlagen, schießen, treten*
 - mit   : *kalkulieren, klagen, rechnen*
 
-- Ich drücke auf dem Knopf. Ich drücke den Knopf ein.
-- Ich klage auf Schadenersatz. Ich klage das Geld ein.
+- Ich drücke auf den Knopf. Ich drücke den Knopf ein.
+- Ich klage auf Schadensersatz. Ich klage das Geld ein.
 - Ich rechne/kalkuliere mit einem Verlust. Ich rechne/kalkuliere den Verlust ein.
 - Ich reite auf einem Pferd. Ich reite das Pferd ein.
-- Ich laufe auf meine neue Schuhe. Ich laufe meine neue Schuhe ein.
+- Ich laufe auf meinen neuen Schuhen. Ich laufe meine neue Schuhe ein.
 
 #### *'an-* Applicative
 
@@ -1274,7 +1274,7 @@ durch : *fahren, fließen, laufen* ???
 - über  : *klagen*
 
 - Ich fahre an den Bodensee. Ich fahre den Bodensee an.
-- Ich fahre gegen dem Auto. Ich fahre das Auto an.
+- Ich fahre gegen das Auto. Ich fahre das Auto an.
 - Ich spreche zu dem Mann. Ich spreche den Mann an.
 - Ich fasse an die Wand. Ich fasse die Wand an.
 - Ich rede zu dir. Ich rede dich an.
@@ -1293,7 +1293,7 @@ durch : *fahren, fließen, laufen* ???
 - an     : *arbeiten, denken*
 
 - Ich plauderte über mein Geheimnis. Ich plauderte das Geheimnis aus.
-- Ich denke an/über dem Plan. Ich denke den Plan aus.
+- Ich denke an/über den Plan. Ich denke den Plan aus.
 - Ich arbeite an dem Plan. Ich arbeite den Plan aus.
 - Ich lache über dich. Ich lache dich aus.
 
@@ -1302,7 +1302,7 @@ durch : *fahren, fließen, laufen* ???
 - mit   : *reden*
 - zu    : *nicken*
 
-- Ich rede mit ihm. Ich rede ihn zu.
+- Ich rede mit ihm. Ich rede ihm zu.
 - Ich nicke zu dem Kind. Ich nicke dem Kind zu.
 
 ### [ NP | NA ] Preverb reflexive applicative
