@@ -1017,7 +1017,7 @@ Lipka [-@lipka1972: 93, 173] calls this diathesis 'Objektvertauschung' and McInt
 - Die Motten fressen ein Loch in den Pullover. Die Motten zerfressen den Pullover.
 - Die Welle hat das Holz an Land geschwemmt. Die Welle hat das Land überschwemmt.
 - Ich schütte das Wasser aus dem Eimer. Ich schütte den Eimer aus.
-- Ich werfe Kohle auf dem Grill. Ich werfe den Grill an.
+- Ich werfe Kohle auf den Grill. Ich werfe den Grill an.
 - Ich bürste den Staub von dem Rock. Ich bürste den Rock ab.
 - Ich gieße Wasser auf den Tee. Ich gieße den Tee auf.
 - Ich räume meine Sachen in die neue Wohnung. Ich räume die neue Wohnung ein.
@@ -1513,9 +1513,9 @@ beˈ-
 - für : *kochen, singen*
 - über: *spannen*
 
-- Ich hänge die Bilder an die Wand. Ich behänge die Wand mit Bilder.
+- Ich hänge die Bilder an die Wand. Ich behänge die Wand mit Bildern.
 - Ich pflanze Tulpen auf das Beet. Ich bepflanze das Beet mit Tulpen.
-- Der Händler liefert die Waren an dem Kaufmann. Der Händler beliefter den Kaufmann mit den Waren.
+- Der Händler liefert die Waren an den Kaufmann. Der Händler beliefert den Kaufmann mit den Waren.
 - Ich schreibe Buchstaben auf das Papier. Ich beschreibe das Papier mit Buchstaben.
 - Ich lege Fließen auf den Boden. Ich belegen den Boden mit Fließen.
 
@@ -1582,13 +1582,13 @@ umˈ-
 - Ich massiere die Creme in den Muskel ein. Ich massiere den Muskel (mit einer Salbe). 
 - Ich werfe den Stein (auf das Fenster). Ich werfe das Fenster ein (mit einem Stein).
 - Ich klebe den Zettel auf die Tür. Ich verklebe die Tür mit dem Zettel.
-- Ich steche das Messer in dem Mann. Ich ersteche den Mann mit dem Messer
+- Ich steche das Messer in den Mann. Ich ersteche den Mann mit dem Messer
 - Ich stelle Kerzen um das Grab. Ich umstelle das Grab mit Kerzen.
-- Die Baufirma baut neue Häser auf die Freifläche. Die Baufirma baut die Freifläche mit Häuser zu.
+- Die Baufirma baut neue Häser auf die Freifläche. Die Baufirma baut die Freifläche mit Häusern zu.
 - Er mauert das Fundament in dem Loch. Er mauert das Loch mit dem Fundament zu.
 - Ich habe Kohle in den Keller geschaufelt. Ich habe den Keller mit Kohle zugeschaufelt.
-- Ich drücke mein Finger auf die Wunde. Ich drücke die Wunde mit meinen Finger zu.
-- Ich binde einen Faden um das Paket. Ich binde das Paket mit den Faden zu.
+- Ich drücke meinen Finger auf die Wunde. Ich drücke die Wunde mit meinem Finger zu.
+- Ich binde einen Faden um das Paket. Ich binde das Paket mit dem Faden zu.
 - Ich klebe ein Pflaster auf die Lücke. Ich klebe die Lücke mit einem Pflaster zu.
 - Ich wickele ein Tuch um dich. Ich umwickele dich mit einem Tuch.
 - Ich streue Zucker über den Kuchen. Ich überstreue den Kuchen mit Zucker.
