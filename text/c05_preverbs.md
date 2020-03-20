@@ -310,8 +310,8 @@ Many verbs describing natural processes remain intransitive when prefixed, like 
 
 **Examples**
 
-- äte schwinden/verschwinden. Die verschwundene/*geschwundene Vorräte ...
-- Die Äpfel faulen. Die Äpfel verfaulen. Die verfaulte/*gefaulte Äpfel ...
+- Die Vorräte schwinden/verschwinden. Die verschwundenen/*geschwundenen Vorräte ...
+- Die Äpfel faulen. Die Äpfel verfaulen. Die verfaulten/*gefaulten Äpfel ...
 
 ### [ NA | NA ] Preverb transitives with patient-like object {#sec:preverb-transitive-with-unaccusative}
 
@@ -474,7 +474,7 @@ By adding a prefix, some intransitive verbs like *enden* 'to end' obtain an extr
 
 - Paul und Marie heiraten. Ich verheirate Paul und Marie.
 - Das Holz brennt. Ich verbrenne das Holz.
-- Die Bremsen knirschen. Ich zerknirsche die Seite.
+- Die Bremsen knirschen. Ich zerknirsche die Steine.
 - Der Braten brutzelt im Ofen. Ich habe den Braten angebrutzelt.
 - Die Wrackteile treiben im Wasser. Der Sturm treibt die Wrackteile an
 
@@ -691,7 +691,7 @@ The alternation between *wundern* 'to amaze' \Next[a] and *bewundern* 'to be in 
 The alternation between *strahlen* 'to shine' \Next[a] and *erstrahlen* 'to gleam' \Next[b] involves a reversal of nominative and locational arguments.
 
 \ex.
- \a. Die Sonne strahlt auf dem Haus.
+ \a. Die Sonne strahlt auf das Haus.
  \b. Das Haus erstrahlt in der Sonne.
 
 **Attested Verbs**
