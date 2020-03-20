@@ -1166,20 +1166,17 @@ Note that the prepositions with these verbs are governed prepositions \Next[c].
 \ex.
  \a. Ich erinnere dich des Versprechens.
  \b. Ich erinnere dich an das Versprechen.
- \c. Ich erinner dich daran, dass du Milch kaufen sollst.
+ \c. Ich erinnere dich daran, dass du Milch kaufen sollst.
 
 **Attested Verbs**
 
 - Separate from: *befreien, berauben, entbinden, entheben, verweisen*
-- Accuse of: *anschuldigen, beschuldigen, verdächtigen*
 
 **Examples**
 
 - Ich beraube dich deiner Rechte. Er beraubt dich von deinen Rechten
-- Ich beschuldige dich des Diebstahls. Ich beschuldige dich von einem Diebstahl.
 - Ich entbinde dich deiner Pflicht. Ich entbinde dich von deiner Pflicht.
 - Ich enthebe dich deines Amtes. Ich enthebe dich von deinem Amt.
-- Ich verdächtige dich des Verbrechens. Ich verdächtige dich von dem Verbrechen.
 - Ich verweise dich des Spielfeldes. Ich verweise dich von dem Spielfeld.
 - Ich befreie dich des Regenten. Ich befreie dich von den Regenten.
 
