@@ -824,8 +824,8 @@ Preposition *bei*? Maybe always possible with accusative drop verbs
 **Examples**
 
 - Er hat dem Lehrer die Arbeit gebracht. Er hat die Leistung erbracht (für den Lehrer).
-- Ich schenke dir ein Buch. Ich verschenke das Buch an dir.
-- Ich schreibe dir einen Brief. Ich unterschreibe einen Brief an dir.
+- Ich schenke dir ein Buch. Ich verschenke das Buch an dich.
+- Ich schreibe dir einen Brief. Ich unterschreibe einen Brief an dich.
 
 **Notes**
 
@@ -918,7 +918,7 @@ see [@sec:prepositions-manner-of-movement]
 
 **Examples**
 
-- Ich fahre nach Dresden. Ich verfahre mich (auf den Weg nach Dresden).
+- Ich fahre nach Dresden. Ich verfahre mich (auf dem Weg nach Dresden).
 - Ich irre durch den Garten. Ich verirre mich (in dem Garten).
 - Ich laufe in den Garten. Ich verlaufe mich (in dem Garten).
 - Ich spekuliere auf einen Gewinn. Ich verspekuliere mich.
@@ -931,7 +931,7 @@ Verbs of caused location (see [@sec:prepositions-haben-caused-location]) like *s
 \ex.
  \a. Ich stecke das Geschenk in den Schrank.
  \b. * Ich stecke das Geschenk.
- \c. Ich verstecke das Geschenk in den Schrank.
+ \c. Ich verstecke das Geschenk in dem Schrank.
  \d. Ich verstecke das Geschenk.
 
 The diathesis is quite widespread with other resultative constructions \Next.
