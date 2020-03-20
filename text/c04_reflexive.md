@@ -531,8 +531,8 @@ The verb *sorgen* 'to take care of' changes preposition with the addition of *si
 \ex.
  \a. Er sorgt für seine Mutter.
  \b. Er sorgt sich um seine Mutter.
- \c. Er sorgt dafür, dass es seine Mutter gut geht.
- \d. Er sorgt sich darum, dass es seine Mutter gut geht.
+ \c. Er sorgt dafür, dass es seiner Mutter gut geht.
+ \d. Er sorgt sich darum, dass es seiner Mutter gut geht.
 
 ### [ NA | NA ] Free dative reflexive + accusative {#sec:reflexive-free-dative-sich-accusative}
 
@@ -597,7 +597,7 @@ The list of verbs presented here can easily be extended with more examples. Howe
 
 \ex.
  \a. Er fürchtet den Ausgang des Verfahrens.
- \b. Er fürchtet sich vor den Ausgang des Verfahrens.
+ \b. Er fürchtet sich vor dem Ausgang des Verfahrens.
  \c. Dein Erfolg freut ihn.
  \d. Er freut sich über deinen Erfolg
 
