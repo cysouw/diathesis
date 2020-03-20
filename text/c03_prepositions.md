@@ -1065,7 +1065,7 @@ The replacement of a dative with an *an* prepositional phrase is a common altern
 - Ich schreibe dir einen Brief. Ich schreibe einen Brief an dich.
 - Er verkaufte dem Kunden das Auto. Er verkaufte das Auto an den Kunden.
 - Er zeigt das Haus dem Käufer. Er zeigt das Haus an den Käufer.
-- Ich passe die Hose deinem Bein an. Ich passe die Hose an deinen Bein an.
+- Ich passe die Hose deinem Bein an. Ich passe die Hose an dein Bein an.
 
 **Notes**
 
@@ -1093,7 +1093,8 @@ Various verbs also allow for a *zu* dative alternation.
 
 **Examples**
 
-- Ich klaue dir die Blumen. Ich klaue die Blumen von dir
+- Ich klaue dir die Blumen. Ich klaue die Blumen von dir.
+- Er entzieht ihr das Sorgerecht. Er entzieht das Sorgerecht von ihr.
 
 #### *vor* Ditransitive dative alternation
 
@@ -1120,7 +1121,10 @@ Note that it almost always possible to add a *für* benefactive phrase \Next[a],
  \b. \* Ich arbeite dem Chef.
  \c. Ich gewinne das Geld für dich.
  \d. ? Ich gewinne dir das Geld.
+       Ich hole das Geld für dich.
+       Ich holde dir das Geld.
  \e. Gib mir eine Waffe und ich gewinne dir jeden Krieg. (http://www.kriegssinfonie.ch/2018/08/paradox/, accessed 10.01.19)
+
 
 **Attested Verbs**
 
