@@ -603,14 +603,14 @@ Some verbs allow for both a dative and an accusative antipassive. There appears 
 Governed prepositions that can be dropped are frequent. There are even various verbs that allow for different governed prepositions \Next[a,b].
 
 \ex.
- \a. Ich träume über dich. Ich träume darüber, dass ich dich treffe.
- \b. Ich träume von dir. Ich träume davon, dass ich dich treffe.
+ \a. Die Leute sprechen über die Wahl. Die Leute sprechen darüber, dass es einen neuen Präsidenten gibt.
+ \b. Der Reporter spricht von einem historischen Ereignis. Der Reporter spricht davon, dass es ein    historisches Ereignis ist.
 
 **Attested Verbs**
 
 - *über*  : (Object of control) *herrschen, siegen, triumphieren*
 - *über*  : (Content of report) *lügen, reden, sprechen, schweigen*
-- *über*  : (Content of cognitive process) *denken, meditieren, nachdenken, träumen*
+- *über*  : (Content of cognitive process) *denken, meditieren, nachdenken*
 - *über*  : (Object of emotional reaction) *klagen, lachen, schimpfen, staunen, streiten, weinen*
 - *von*   : (Content of report) *reden, sprechen*
 - *von*   : (Content of cognitive process) *träumen*
@@ -761,11 +761,11 @@ There appear to be only a small selection of prepositions that can be used in su
 - *für*
 - *zu* 
 
-It is important to realise that many verbs allow for more than one of these alternations, depending on the reading of the verb/object combination \Next[a,b]. With the same verb, there might even be combinations that do not allow far any prepositional alternation \Next[c-e].
+It is important to realise that many verbs allow for more than one of these alternations, depending on the reading of the verb/object combination \Next[a,b]. With the same verb, there might even be combinations that do not allow for any prepositional alternation \Next[c-e].
 
 \ex.
  \a. Er spielt die Geige. Er spielt auf der Geige
- \b. Er spielt den letzen Akt. Er spielt in den letzen Akt.
+ \b. Er spielt den letzen Akt. Er spielt in dem letzen Akt.
  \c. Er spielt Billard.
  \d. Er spielt einen Walzer.
  \e. Er spielt den Narren.
@@ -826,10 +826,10 @@ Accusative objects that alternate with an *in* prepositional phrase seem to be r
 - Ich bestehe die Prüfung. Ich bestehe in der Prüfung.
 - Ich lese das Buch. Ich lese in dem Buch.
 - Ich gewinne das Spiel. Ich gewinne in dem Spiel.
-- Er spielt den letzten Akt. Er spielt in den letzten Akt.
+- Er spielt den letzten Akt. Er spielt in dem letzten Akt.
 - Ich korrigiere die Arbeit. Ich korrigiere in der Arbeit.
 - Ich entscheide den Fall. Ich entscheide in dem Fall.
-- Ich schneide mein Finger. Ich schneide in meinem Finger.
+- Ich schneide meinen Finger. Ich schneide in meinen Finger.
 - Ich zwicke deinen Arm. Ich zwicke in deinen Arm.
 - Die Soldaten stürmen das Kastell. Sie stürmen in den Saal. (different meaning from the weather verb *stürmen* 'to storm')
 
@@ -881,7 +881,7 @@ Accusative objects that alternate with a *mit* prepositional phrase indicate par
 - Ich handele Aktien. Ich handele mit Aktien.
 - Ich rangiere den Wagen. Ich rangiere mit dem Wagen.
 - Er segelt eine Jolle. Er segelt mit einer Jolle
-- Er fähre einen Laster. Er fährt mit einem Laster.
+- Er fährt einen Laster. Er fährt mit einem Laster.
 - Ich fange mein Studium an. Ich fange mit meinem Studium an.
 - Ich rechne eine Flasche Wein pro Person. Ich rechne mit einer Flasche Wein pro Person
 
@@ -936,7 +936,7 @@ Accusative objects that alternate with an *auf* prepositional phrase indicate pa
 **Examples**
 
 - Ich küsse deine Wange. Ich küsse auf deine Wange.
-- Ich treffe das Tor. Ich treffe auf dem Tor.
+- Ich treffe das Tor. Ich treffe auf das Tor.
 - Ich schlage die Trommel. Ich schlage auf die Trommel.
 - Ich spiele Klavier. Ich spiele auf dem Klavier.
 - Ich spreche Englisch. Ich spreche auf Englisch.
