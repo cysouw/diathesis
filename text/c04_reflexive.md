@@ -735,7 +735,7 @@ Many of these verbs seem to have a rather special meaning with a reflexive prono
 
 **Attested Verbs**
 
-- Subordinate: *anpassen, anschließen, hingeben, unterordnen, unterwerfen, verschreiben, weihen, widmen, zuneigen, zuwenden*
+- Subordinate: *anpassen, anschließen, hingeben, unterordnen, unterwerfen, verschreiben, weihen, widmen, zuneigen*
 - Oppose: *entgegensetzen, entgegenstellen, entziehen, gegenüberstellen*
 - Disclose: *anschließen, anvertrauen, aussetzen, erklären, präsentieren, vorstellen (präsentieren), zeigen*
 
@@ -750,7 +750,6 @@ Many of these verbs seem to have a rather special meaning with a reflexive prono
 - Er setzte dem Unglück etwas hingegen. Er setzte sich dem Unglück entgegen.
 - Er hatte seinen Kopf ihr zugeneigt. Er hatte sich ihr in Liebe zugeneigt.
 - Ich stelle ihr meine Lebensauffassung entgegen. Ich stelle mich dem Streben entgegen.
-- Ich habe mein Geld an das Haus gewendet. Ich habe mich an die Beratungsstelle gewendet.
 - Er hat der traditionellen Interpretation eine neue Wendung entgegengesetzt. Er hat sich der traditionellen Interpretation entgegengesetzt.
 - Ich verschreibe dir die Medikamente. Ich verschreibe mich dem Teufel.
 - Er widmet den heutigen Tag der Arbeit. Er widmet sich der Arbeit.
@@ -1024,7 +1023,7 @@ This alternation is probably more frequent in Perfekt, because there is no focus
 - Der Vertrag festigt unsere Beziehung. Unsere Beziehung hat sich gefestigt.
 - Ich höre den Vorschlag an. Der Vorschlag hört sich gut an.
 - Ich entscheide den Fall. Der Fall entscheidet sich.
-- Die Polizei hat die Tür eingedruck. Mit hörbarem Krach drückte sich der gewölbte Zinkdeckel unter Herrn Kortüms Gewicht ein.
+- Die Polizei hat die Tür eingedrückt. Mit hörbarem Krach drückte sich der gewölbte Zinkdeckel unter Herrn Kortüms Gewicht ein.
 - Der Sturm hat den Wald verändert. Der Wald hat sich verändert.
 - Wir haben (im Laufe der Jahre) etwas Geld angespart. Etwas Geld hat sich (im Laufe der Jahre) angespart.
 - Ich habe das Tuch abgenutzt. Der Besen hat sich abgenutzt.
@@ -1115,7 +1114,7 @@ With the preposition *mit* or *von* the prepositional phrase is not governed \Ne
 - Meine Mutter nährt mich mit Milch. Ich nähre mich mit (von) Milch
 - Meine Mutter ernährt mich mit Früchten. Ich ernähre mich mit (von) den Früchten.
 - Ich vermische das Wasser mit dem Saft. Das Wasser vermischt sich mit dem Saft.
-- Ich trenne die Lampe vom Stromnetz. Die Lampe trennt sich dauernds vom Stromnetz.
+- Ich trenne die Lampe vom Stromnetz. Die Lampe trennt sich dauernd vom Stromnetz.
 - Die Liebe verbindet Karl mit Anna. Karl verbindet sich mit Anna.
 
 ### [ NAL | –NL ] Reflexive anticausative + location
@@ -1168,7 +1167,7 @@ These verbs are similar to *sich* transitive anticausative, but "von Geisterhand
 - Sein Verschwinden wundert mich gar nicht. Ich wundere mich gar nicht über sein Verschwinden.
 - Mathematik interessiert mich. Ich interessiere mich für Mathematik.
 - Die Leute kümmern mich nicht. Ich kümmere mich nicht um die Leute.
-- Sein Benehmen stört mich. Ich störe mich an sein Benehmen.
+- Sein Benehmen stört mich. Ich störe mich an seinem Benehmen.
 - Ich unterhalte das Publikum. Er unterhält sich mit mir.
 - Diese Musik beruhigt mich. Ich beruhige mich bei dieser Musik.
 - Das Sprechen strengt ihn an. Er strengt sich an bei dem Sprechen.
@@ -1237,7 +1236,7 @@ Some verbs expressing subordination allow for both a regular transitive construc
 
 **Examples**
 
-- Der Polizist stellte den Einbrecher. Der Einbrecher stellte sich dem Polizist.
+- Der Polizist stellte den Einbrecher. Der Einbrecher stellte sich dem Polizisten.
 
 ### [ NA | GN ] Reflexive genitive passive
 
@@ -1307,7 +1306,7 @@ The verb *äußern* 'to express' has a slightly different meaning depending on t
  \b. Die Krankheit äußert sich durch das Fieber.
  \c. \* Die Krankheit äußert den Fieber.
 
-Ist *verschlafen* altmodisch?
+Ist *verschlafen* altmodisch? 
 
 - "Ach, Johanna, ich glaube, ich habe mich verschlafen. (DWDS: Fontane, Theodor: Effi Briest. Berlin, 1896.)
 
