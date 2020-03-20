@@ -539,7 +539,7 @@ There are also prefixed adjectives in which an accusative object is added (see [
 - Mein Haus ist schöner. Ich verschönere mein Haus.
 - Er ist niedriger Herkunft. Ich erniederige ihn.
 - Der Tee ist bitter. Seine Misserfolge erbitterten ihn.
-- Er ist mürbe von Sorgen. Die Sorgen zermürben ihn.
+- Er ist mürbe vor Sorgen. Die Sorgen zermürben ihn.
 - Bitte entrunden Sie das /ö/. Das runde/entrundetet /ö/ ...
 
 ### [ –NP | NAP ] Preverb causative + preposition
@@ -575,7 +575,7 @@ Some causative alternations have a goverend preposition, like with *haften* 'to 
 In the special case of the causative diathesis between *gleichen* 'to resemble' \Next[a] and the prefixed form *vergleichen* 'to compare', the original dative argument turns into a governed preposition.
 
 \ex.
- \a. Ich gleiche einem Affe.
+ \a. Ich gleiche einem Affen.
  \b. Er vergleicht mich mit einem Affen 
 
 **Attested Verbs**
@@ -734,7 +734,7 @@ Other prepositions? *bei* ?
 
 \ex.
  \a. Ich trinke Bier.
- \b. Ich betrinken mich (mit Bier).
+ \b. Ich betrinke mich (mit Bier).
 
 **Attested Verbs**
 
@@ -774,7 +774,7 @@ can they dative maybe always be replaced by a preposition? Then merge into dativ
 **Examples**
 
 - Ich schenke dir meine Bücher. Ich verschenke meine Bücher.
-- Ich schicke dir den Brief. Ich habe den Brief abgeschicht.
+- Ich schicke dir den Brief. Ich habe den Brief abgeschickt.
 - Ich reiche dir das Essen. Ich habe das Essen durchgereicht.
 
 ### --- [ OBJ > ADJ ] Antipassive --- {.unnumbered}
