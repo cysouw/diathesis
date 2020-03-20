@@ -177,8 +177,8 @@ A widespread phenomenon are verbs with an obligatory accusative *sich* with a go
 - Ich habe mich mit der Arbeit abgequält.
 - Ich begebe mich an die Arbeit
 - Ich beeile mich mit dem Brief.
-- Ich halte mich an den Abmachungen. 
-- Die Krankheit äussert sich durch den Fieber.
+- Ich halte mich an die Abmachungen. 
+- Die Krankheit äußert sich durch das Fieber.
 
 **Notes**
 
@@ -402,7 +402,7 @@ A small group of obligatorily intransitive *sich* verbs allow for a dative to be
 
 This *ergeben* 'capitulate' is different from the prepositional passive *ergeben* 'result in'. The verb *ergeben* 'capitulate' formerly allowed a regular (non-reflexive) accusative argument with a meaning similar to modern *übergeben* 'turn over'. Today this is not possible anymore.
 
-- Jch ergebe ihn der süssen Gnade unsers Herrn Jesu Christi. (DWDS: Scriver, Christian: Das Verlohrne und wiedergefundene Schäfflein. Magdeburg, 1672.)
+- Ich ergebe ihn der süssen Gnade unsers Herrn Jesu Christi. (DWDS: Scriver, Christian: Das Verlohrne und wiedergefundene Schäfflein. Magdeburg, 1672.)
 
 ### [ ND | NP ] Obligatory accusative reflexive + dative antipassive
 
