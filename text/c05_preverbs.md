@@ -88,7 +88,7 @@ N ist Beute. N erbeutet A
 - *verchromen, vergiften, vergolden, verkohlen, vermüllen, verpfeffern, versalzen*
 - *erbeuten, erdolchen, ergaunern, ergründen, erküren*
 - *entthronen, entrinden, entsalzen, entschlüsseln, entwaffnen, entwalden, entwassern, entziffern*
-- *einbürgen, eingemeinden*
+- *einbürgern, eingemeinden*
 
 Prepositional root: 
 
@@ -117,7 +117,7 @@ Second, verbs that already have an accusative argument show various different ki
 
 \ex.
  \a. Ich kaufe das Haus von ihm. Er verkauft mir das Haus.
- \b. Ich hänge die Bilder an die Wand. Ich behänge die Wand mit Bilder.
+ \b. Ich hänge die Bilder an die Wand. Ich behänge die Wand mit Bildern.
  \c. Ich schütte das Wasser aus dem Eimer. Ich schütte den Eimer aus.
 
 Third, some verbs appear to be counterexamples to the generalization of accusative arguments with preverb diathesis because they do not have a full accusative argument after the application of the diathesis. However, they still have an accusative reflexive pronoun as a kind of formal substitute for the accusative. Note that functionally this reflexive pronoun is never coding a 'self-inflicting' reflexive construction, but only substitute for the 'missing' accusative argument.
@@ -139,8 +139,8 @@ Finally, there are few exceptions to the generalization that preverb alternation
 
 \ex.
  \a. Ich habe gestern ein Buch gekauft. Ich habe gestern eingekauft.
- \b. Die Blüme blüht. Die Blume verblüht. Die verblühte/*geblühte Blume.
- \c. Die Polizei jagte auf einen Verbrecher. Die Polizei jagte dem Verbrecher nach.
+ \b. Die Blume blüht. Die Blume verblüht. Die verblühte/*geblühte Blume.
+ \c. Die Polizei jagte einen Verbrecher. Die Polizei jagte dem Verbrecher nach.
 
 ## Deponent verbs without alternation
 
@@ -210,7 +210,7 @@ The verb *kochen* also exhibits a bare anticausative diathesis \Next[a,b], see [
 **Examples**
 
 - Das Schiff sinkt. Das Schiff versinkt. Das gesunkene/versunkene Schiff ...
-- Die Blumen trocknen im Keller. Die Blumen vertrocknen im Keller. Die getrocknete/vertrocknete Blumen ...
+- Die Blumen trocknen im Keller. Die Blumen vertrocknen im Keller. Die getrockneten/vertrockneten Blumen ...
 
 ### [ NA | NA ] Preverb transitives without diathesis {#sec:preverb-transitive-without-diathesis}
 
@@ -219,8 +219,8 @@ It is very common for transitive nominative-accusative verbs to remain transitiv
 \ex.
  \a. Ich lagere die Kartoffeln im Keller. 
  \b. Ich verlagere die Kartoffeln in den Keller.
- \c. Die gelagerte Kartoffeln.
- \d. Die verlagerte Kartoffeln.
+ \c. Die gelagerten Kartoffeln.
+ \d. Die verlagerten Kartoffeln.
  
 **Attested Verbs**
 
@@ -261,7 +261,7 @@ Adjectives are in many ways similar to intransitive verbs, basically being one-p
 
 - Der Hund ist wach. Der Hund erwacht. Der wache/erwachte Hund ...
 - Der Junge ist rot. Der Junge errötet. Der rote/errötete Junge ...
-- Der Junge ist krank. Der Junge erkrankts. Der kranke/erkrankte Junge ...
+- Der Junge ist krank. Der Junge erkrankt. Der kranke/erkrankte Junge ...
 
 ### [ N | N ] Preverb reflexive adjectives without diathesis
 
@@ -310,7 +310,7 @@ Many verbs describing natural processes remain intransitive when prefixed, like 
 
 **Examples**
 
-- Die Vorräte schwinden/verschwinden. Die verschwundene/*geschwundene Vorräte ...
+- äte schwinden/verschwinden. Die verschwundene/*geschwundene Vorräte ...
 - Die Äpfel faulen. Die Äpfel verfaulen. Die verfaulte/*gefaulte Äpfel ...
 
 ### [ NA | NA ] Preverb transitives with patient-like object {#sec:preverb-transitive-with-unaccusative}
