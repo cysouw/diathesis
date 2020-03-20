@@ -1250,7 +1250,7 @@ Note that with possessor raising (see [@sec:prepositions-possessor-of-location-t
  \d. Er klopft den Schnee von seinen Schuhen.
  \e. \* Er klopft den Schnee.
  \f. \* Er klopft von seinen Schuhen.
- \f. Durch zu klopfen sorgte er dafür, dass der Schnee von seinen Schuhen ging.
+ \f. Durch klopfen sorgte er dafür, dass der Schnee von seinen Schuhen ging.
  \f. Er klopft mir den Schnee von den (meinen) Schuhen.
  \f. Er klopft sich den Schnee von den Schuhen.
 
@@ -1277,7 +1277,7 @@ This construction is closely related to adjectival resultative secondary predica
 - Ich schlafe den Rausch aus meinem Kopf.
 - Ich schwitze einen Fleck in meinem Hemd.
 - Er klingelt mich aus dem Bett.
-- Er schwindelt ihn auf der Liste.
+- Er schwindelt ihn auf die Liste.
 - Das allgemeine politische Klima weht den Illegalen ins Gesicht. (Die Zeit, 30.07.2010)
 - Der Zeitgeist weht den üblichen Akustikschrott in die Besucherohren. (Die Zeit, 08.03.1996)
 - Die frische Brise kämmt die Palmen und weht den Flugsand auf die Promenade. (Die Zeit, 04.05.1990)
@@ -1323,7 +1323,7 @@ A slightly different variant of a resultative constructions is found with variou
 \ex.
  \a. Er macht die Aufgaben. 
  \b. Er macht den Garten zu einer Wiese.
- \c. Er macht etwas, und das Results ist: Der Garten ist eine Wiese.
+ \c. Er macht etwas, und das Ergebnis ist: Der Garten ist eine Wiese.
 
 **Attested Verbs**
 
@@ -1518,7 +1518,7 @@ Some verbs of cutting and breaking allow for an exchange of the objects to be di
 
 - Er stopft die Kissen mit Federn. Er stopft Federn in die Kissen.
 - Er gießt die Blumen mit Wasser. Er gießt Wasser an die Blumen.
-- Ich säge den Baum zu Bretter. Ich säge Bretter aus dem Baum.
+- Ich säge den Baum zu Brettern. Ich säge Bretter aus dem Baum.
 - Ich breche die Wand in Stücken. Ich breche Stücke aus der Wand.
 
 **Notes**
