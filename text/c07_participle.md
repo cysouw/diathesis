@@ -1089,61 +1089,23 @@ from reflexive: *entspannt*?
 - Er entspannt sich -> er ist entspannt -> er gibt sich entspannt
 - No: Etwas entspannt ihn
 
-### --- Reflexive experiencers --- {.unnumbered}
-
-### [ NA | –N ] *sehen + sich + Partizip* Reflexive experiencers
-
-- Ich sehe mich gezwungen/genötigt/gefoppt/verpflichtet + Sentence!
-- Ich sehe mich bestätigt.
-- Ich sehe mich bestärkt durch viele Diskussionen und Privatmeinungen.
-
-- Er bestätigt mich. Ich sehe mich bestätigt.
-
-### [ NA | –N ] *wissen + sich + Partizip*
-
-- Die Polizei umstellt mich. [ –NA ]
-- Ich bin umstellt. [ ––N ]
-- Er weiß, dass ich umstellt bin. [ N–N ]
-- Er weiß mich umstellt. [ N–A ]
-
-- Die Polizei umstellt mich. [ NA ]
-- Ich weiß mich umstellt. [ –N ]
-
-DWDS: "wissen sich #4 $p=VVPP"
-
-- Man wusste sich verstanden
-- Hugo wußte sich geliebt.
-- Er wußte sich von Gott geschaffen
-- Sie wusste sich umstellt.
-- Er weiß sich verfolgt und beobachtet.
-- Man weiß sich dabei nicht gesichert.
-- Sie wussten sich durch ihn gewahrt.
-
-### [ NA | –N ] *glauben + sich + Partizip*
-
-- Er glaubte sich verraten/zurückversetzt/verfolgt
-
-### [ NA | –N ] *finden + sich + Partizip*
-
-nur mit "bestätigt"? Alle andere 'manner' wie gefunden
-
-- Er fand sich bestätigt.
-
-Die Zeit, 15.02.2016 (online)
-Um die Sache zu prüfen, habe er im Urlaub mal einen Nacktbadestrand aufgesucht - und dort das Bild aus der Sauna bestätigt gefunden.
-
-Die Zeit, 14.06.2010 (online)
-Es heißt, sie habe sich damals in einem Interview falsch zitiert gefunden.
-
 ## Diathesis with promotion to subject
 
-### --- Intransitive Experiencers --- {.unnumbered}
+=> Besser mit modalverben (Leirbukt 2012)
+
+- Sie wollten in dem Interview ihren Namen nicht genannt sehen.
+
+Both transitive and intransitive, but probably better all seen as derived from *sein+Partizip*
+
+### --- Intransitive experiencers --- {.unnumbered}
 
 ### [ –N | NA ] *sehen + Partizip* Intransitive experiencer
 
-secundary: Er sieht seinen Chef
-
 - Noch nie hatte er seinen Chef so abgemagert gesehen.
+
+intransitiv? Er sieht, dass sein Chef abgemagert ist.
+transitive mit secundary predication?: Er sieht seinen abgemagerten Chef.
+
 - auch hat mich noch niemand über der Bibel eingeschlafen gesehen (DWDS: Arnim, Bettina von: Goethe's Briefwechsel mit einem Kinde. Bd. 2. Berlin, 1835.)
 
 ### [ –N | NA ] *wissen + Partizip* Intransitive experiencer
@@ -1168,13 +1130,7 @@ secundary predicate: "er findet sie in Zustand X"
 
 -  er hat sie an einem Fest nach reichlichem Weingenuß bei ihrem Herd so fest eingeschlafen gefunden
 
-### --- Transitive Experiencers --- {.unnumbered}
-
-=> Besser mit modalverben (Leirbukt 2012)
-
-- Sie wollten in dem Interview ihren Namen nicht genannt sehen. (*ungenannt !!! sonst secondary predicate!!
-
-Both transitive and intransitive, but probably better all seen as derived from *sein+Partizip*
+### --- Transitive experiencers --- {.unnumbered}
 
 ### [ –NA | N–A ] *sehen + Partizip* Transitive experiencer
 
@@ -1188,7 +1144,6 @@ DWDS: "$p=VVPP sehen" && ! wollen && ! möchten && ! sich
 - Er sah die Gefangenen eingespannt.
 - Ich sah den Himmel aufgetan.
 - wir haben ihn völlig erschöpft gesehen.
-
 
 DWDS: "$p=VVPP @gesehen"
 
@@ -1224,10 +1179,54 @@ Besser mit modalverben (Leirbukt 2012)
 
 ### [ –NA | N–A ] *finden + Partizip* Experiencer
 
-(X findet dass Y Verb Z ==>> X findet Z Verb+Partizip)
+- Er fand die Haustür verriegelt. ??? Er findet, dass die Haustür verriegelt ist.
+- Du findest mich verändert? Du findest, dass ich verändert bin?
 
-- Er fand die Haustür verriegelt. (secondary!)
-- Du findest mich verändert? (light verb: *du findest mich)
+### --- Reflexive experiencers --- {.unnumbered}
+
+### [ NA | –N ] *sehen + sich + Partizip* Reflexive experiencers
+
+- Ich sehe mich gezwungen/genötigt/gefoppt/verpflichtet, dass ...
+- Ich sehe mich bestätigt.
+- Ich sehe mich bestärkt durch viele Diskussionen und Privatmeinungen.
+
+- Er bestätigt mich. Ich sehe mich bestätigt.
+
+### [ NA | –N ] *wissen + sich + Partizip*
+
+- Die Polizei umstellt mich. [ –NA ]
+- Ich bin umstellt. [ ––N ]
+- Er weiß, dass ich umstellt bin. [ N–N ]
+- Er weiß mich umstellt. [ N–A ]
+
+- Die Polizei umstellt mich. [ NA ]
+- Ich weiß mich umstellt. [ –N ]
+
+DWDS: "wissen sich #4 $p=VVPP"
+
+- Man wusste sich verstanden
+- Hugo wußte sich geliebt.
+- Er wußte sich von Gott geschaffen
+- Sie wusste sich umstellt.
+- Er weiß sich verfolgt und beobachtet.
+- Man weiß sich dabei nicht gesichert.
+- Sie wussten sich durch ihn gewahrt.
+
+### [ NA | –N ] *glauben + sich + Partizip*
+
+- Er glaubte sich verraten/zurückversetzt/verfolgt
+
+### [ NA | –N ] *finden + sich + Partizip*
+
+nur mit "bestätigt"?
+
+- Er fand sich bestätigt.
+
+Die Zeit, 15.02.2016 (online)
+Um die Sache zu prüfen, habe er im Urlaub mal einen Nacktbadestrand aufgesucht - und dort das Bild aus der Sauna bestätigt gefunden.
+
+Die Zeit, 14.06.2010 (online)
+Es heißt, sie habe sich damals in einem Interview falsch zitiert gefunden.
 
 ### --- Causatives --- {.unnumbered}
 
