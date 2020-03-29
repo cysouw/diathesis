@@ -38,6 +38,8 @@ header-includes:
 - \usepackage{tocloft}
 - \renewcommand{\cftsubsubsecfont}{\scriptsize}
 - \renewcommand{\Exarabic}{\thesection.\arabic} 
+- \usepackage{titlesec}
+- \newcommand{\sectionbreak}{\clearpage}
 - \usepackage{chngcntr}
 - \counterwithin{ExNo}{section}
 - \usepackage{cleveref}
