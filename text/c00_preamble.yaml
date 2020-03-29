@@ -21,6 +21,7 @@ figPrefix:
   - Figure
   - Figures
 pairDelim: "-"
+chapters: true
 
 # citeproc settings
 
@@ -31,19 +32,26 @@ link-citations: true
 
 # latex settings
 
-header-includes: 
+documentclass: book
+classoption: oneside
+papersize: a4
+header-includes:
+# Fallback font
 - \newfontfamily{\fallbackfont}{Arial}
+# Page layout
+- \usepackage[margin=4cm]{geometry}
+# TOC specificifaction
+- \usepackage{tocloft}
+- \renewcommand{\cftsubsecfont}{\scriptsize}
+# Example numbering
 - \usepackage{linguex}
 - \renewcommand{\firstrefdash}{\,}
-- \usepackage{tocloft}
-- \renewcommand{\cftsubsubsecfont}{\scriptsize}
-- \renewcommand{\Exarabic}{\thesection.\arabic} 
-- \usepackage{titlesec}
-- \newcommand{\sectionbreak}{\clearpage}
+- \renewcommand{\Exarabic}{\thechapter.\arabic} 
+# Reset example counters per chapter
 - \usepackage{chngcntr}
-- \counterwithin{ExNo}{section}
+- \counterwithin{ExNo}{chapter}
+# Example cross-references
 - \usepackage{cleveref}
-- \crefname{ExNo}{example}{examples}
 - \creflabelformat{ExNo}{(#2#1#3)}
 
 #pandocomatic_:
