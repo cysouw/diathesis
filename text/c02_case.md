@@ -24,10 +24,10 @@ The German case marking system is rather straightforward. Noun phrases in German
 
 | Case       | 1st person | 2nd person | 3rd person masculine | Masculine noun |
 | ---------- | ---------- | ---------- | -------------------- | -------------- |
-| Nominative | ich        | du         | er                   | der Tisch      |
-| Genitive   | meiner     | deiner     | seiner               | des Tisches    |
-| Dative     | mir        | dir        | ihm                  | dem Tisch      |
-| Accusative | mich       | dich       | ihn                  | den Tisch      |
+| Nominative | *ich*      | *du*       | *er*                 | *der Tisch*    |
+| Genitive   | *meiner*   | *deiner*   | *seiner*             | *des Tisches*  |
+| Dative     | *mir*      | *dir*      | *ihm*                | *dem Tisch*    |
+| Accusative | *mich*     | *dich*     | *ihn*                | *den Tisch*    |
 
 Table: German marking of case {#tbl:german-case}
 
@@ -42,7 +42,7 @@ Basically, almost all case-marked constituents are governed arguments. Yet, ther
 
 ### Quantified object
 
-A special kind of arguments are quantified objects [cf. "Mensuralergänzung", @eroms2000: 203-204], exemplified in \Next[a-e]. Quantified objects are overtly marked accusative objects that often contain numerals (like in \Next[d] or \Next[e], in which *einen* is not an article, but the numeral one). Except for numerals, the quantification can also be instantiated by adjectives (like *ganzen* in \Next[a]), indefinites (like *jeden* in \Next[b]) or measure phrases (like *zu laut* in \Next[c]).
+A special kind of arguments are quantified objects [cf. "Mensuralergänzung", @eroms2000: 203-204], exemplified in \Next[a-e]. Quantified objects are overtly marked accusative objects that often contain numerals, like in \Next[d] or \Next[e], in which *einen* is not an article, but the numeral one. Except for numerals, the quantification can also be instantiated by adjectives (e.g. *ganzen* in \Next[a]), indefinites (e.g. *jeden* in \Next[b]) or measure phrases (e.g. *zu laut* in \Next[c]).
 
 \ex.
  \a. Er schläft den ganzen Tag. (*wie lange?* 'how long')
@@ -72,24 +72,24 @@ There is a special construction available for many verbs to add an object that i
  \a. Er hat einen gesunden Schlaf geschlafen.
  \b. Er hat viele Träume geträumt.
 
-This construction is known as a 'cognate object' construction [e.g. @levin1993: 95-96], because the object is etymologically related to the verb. In many cases, this cognate object is simply a zero nominalization ('conversion') of the verb stem (e.g. *schlafen - der Schlaf*, 'to sleep - the sleep'), but in some cases different nominalizations, like the infinitive, are used (e.g. *lächeln - das Lächeln*, 'to smile - the smile').
+This construction is known as a 'cognate object' construction [e.g. @levin1993: 95-96], because the object is etymologically related to the verb. In many cases, this cognate object is simply a zero nominalization ('conversion') of the verb stem (e.g. *schlafen - der Schlaf*, 'to sleep - the sleep'), but in some cases different nominalizations like the infinitive are used (e.g. *lächeln - das Lächeln*, 'to smile - the smile').
 
-Such examples like (a,b) seem to suggest that intransitive verbs like *schlafen* 'to sleep' and *träumen* 'to dream' allow for accusative arguments. However, besides these cognate objects there are no other accusative arguments allowed with these verbs. Further, such cognate arguments seem to be in principle possible for all verbs, though often quite some phantasy is needed to find a suitable context to use verb and nominalized verb together.
+Examples like \Last[a,b] seem to suggest that intransitive verbs like *schlafen* 'to sleep' and *träumen* 'to dream' allow for accusative arguments. However, besides these cognate objects there are no other accusative arguments allowed with these verbs. Further, such cognate arguments seem to be theoretically possible for all verbs, though often quite some imagination is needed to find a suitable context to use verb and nominalized verb together.
 
-Because of their special status, such cognate object nominalizations are not counted as regular arguments. However, nominalizations are an interesting aspect of diathesis in itself and will be discussed extensively in Chapter X.
+Because of their special status, such cognate object nominalizations are not counted as regular arguments. However, nominalizations are an interesting aspect of diathesis in itself and will be discussed extensively in Chapter [-@sec:nom].
 
 ### Lexicalized noun-verb combinations
 
-There is a common pattern in German in which nouns are combined with a verb, like *eislaufen* 'ice skating'. Such constructions are highly reminiscent of the typologically widespread process of noun incorporation. However, in German such noun incorporation only occurs with individual lexeme combinations, so they are probably better interpreted as grammaticalized noun-verb collocations [@eisenberg2013: 324-327; @gallmann1999; @gallmann2015]. 
+There is a common pattern in German in which nouns are combined with a verb, like *eislaufen* 'ice skating'. Such constructions are highly reminiscent of the typologically widespread process of noun incorporation. However, in German such noun incorporation only occurs with individual lexeme combinations, so they are probably better interpreted as grammaticalized noun-verb collocations [@eisenberg2013: 324-327; @gallmann1999; -@gallmann2015]. 
 
-Most such combinations are written as separate words in German orthography, e.g. *Wache stehen* 'stand guard', so they might look like nominal arguments. However, they normally do not allow for any determiners or modifiers \Next[a]. Only in very few combinations allow for an adjective \Next[b] and/or a determiner \Next[c].
+Most such combinations are written as separate words in German orthography, e.g. *Wache stehen* 'stand guard', so they might look like nominal arguments. However, they normally do not allow for any determiners or modifiers \Next[a]. Only very few fixed combinations allow for an adjective \Next[b] and/or a determiner \Next[c].
 
 \ex.
- \a. Er hat Blut gehustet.
+ \a. Er hat (*das) Blut gehustet.
  \b. Er hat bittere Tränen geweint.
  \c. Er stirbt einen qualvollen Tod.
 
-The typical examples like *Blut* 'blood' in \Last[a] do not show much indication of case-marking. It is clearly not a genitive (because then it should have been *Blutes*), but nominative, dative or accusative are all possible. The few examples with determiners and/or adjectives seem to indicate that these constituents are accusatives. However, even in undoubtedly accusative examples like \Last[c] the accusative is not an argument, because it is strange (if not completely ungrammatical) to pronominalize \Next[a] or question \Next[b] this accusative. Just like cognate objects, such nouns in lexicalized noun-verb combinations are not considered to be arguments.
+The typical examples like *Blut* 'blood' in \Last[a] do not show much indication of case-marking. It is clearly not a genitive (because then it should have been *Blutes*), but nominative, dative or accusative are all possible. The few examples with determiners and/or adjectives seem to indicate that these constituents are accusatives. However, even in undoubtedly accusative examples like \Last[c] the accusative is not an argument, because it is strange (if not completely ungrammatical) to pronominalize \Next[a] or question \Next[b] this accusative. Just like cognate objects, such nouns in lexicalized noun-verb combinations are not arguments.
 
 \ex.
  \a. \* Er stirbt es.
@@ -97,7 +97,7 @@ The typical examples like *Blut* 'blood' in \Last[a] do not show much indication
 
 ### Adnominal case-marked constituents
 
-Semantically, adnominal constituents are easily identified as modifiers inside a noun phrase. However, there is no formal difference between adnominal and sentential case-marked constituents, leading possibly to ambiguous sentences like \Next[a]. In this sentence, both the accusative constituent for the accusee *den Verdächtigen* and the genitive constituent for the accusation *des Diebstahls* can be read as arguments being governed by the verb *beschuldigen* 'to accuse' \Next[b]. Alternatively, these two constituents can be interpreted as a single complex noun phrase, as can be seen by the possibility to add a further constituent describing a different accusation \Next[c]. Adnominal constituents are (obviously) not considered as arguments.
+Semantically, adnominal constituents are easily identified as modifiers inside a noun phrase. However, there is no formal difference between adnominal and sentential case-marked constituents, leading possibly to ambiguous sentences like \Next[a]. In this sentence, both the accusative constituent for the accusee *den Verdächtigen* and the genitive constituent for the accusation *des Diebstahls* can be read as arguments being governed by the verb *beschuldigen* 'to accuse' \Next[b]. Alternatively, these two constituents can be interpreted as a single complex noun phrase, as can be seen by the possibility to add a further constituent describing a different accusation \Next[c]. Adnominal constituents are (obviously) not arguments.
 
 \ex.
  \a. Ich beschuldige den Verdächtigten des Diebstahls.
@@ -112,7 +112,7 @@ Before delving into the actual alternations, I will first present an inventory o
 
 ### [ – ] No arguments
 
-Some verbs do not need any argument at all, not even a nominative subject. These include the well-known weather verbs like *schneien* 'to snow' \Next[a]. However, most weather verb actually allow for some nominative subjects as well \Next[b], see [@sec:case-nominative-addition] for further discussion, or accusative arguments \Next[c], see [@sec:case-accusative-addition-without-nominative]. There do not seem to be any verbs that only allow for a constructions without any arguments.
+Some verbs do not need any argument at all, not even a nominative subject. These include the well-known weather verbs like *schneien* 'to snow' \Next[a]. However, most weather verb actually allow for some nominative subjects as well \Next[b], see [@sec:case-nominative-addition], or accusative arguments \Next[c], see [@sec:case-accusative-addition-without-nominative]. There do not seem to be any verbs that only allow for a constructions without any arguments.
 
 \ex.
  \a. Heute schneit es.

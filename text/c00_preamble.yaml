@@ -42,17 +42,14 @@ header-includes:
 - \usepackage[margin=4cm]{geometry}
 # TOC specificifaction
 - \usepackage{tocloft}
-- \renewcommand{\cftsubsecfont}{\scriptsize}
+- \renewcommand{\cftsubsecfont}{\scriptsize} # small subsection in TOC
 # Example numbering
 - \usepackage{linguex}
-- \renewcommand{\firstrefdash}{\,}
-- \renewcommand{\Exarabic}{\thechapter.\arabic} 
+- \renewcommand{\firstrefdash}{\,} # small non-breaking space after number of examples
+- \renewcommand{\Exarabic}{\thechapter.\arabic} # add chapter number to examples
 # Reset example counters per chapter
 - \usepackage{chngcntr}
-- \counterwithin{ExNo}{chapter}
-# Example cross-references
-- \usepackage{cleveref}
-- \creflabelformat{ExNo}{(#2#1#3)}
+- \counterwithin{ExNo}{chapter} # restart numbering each chapter
 
 #pandocomatic_:
 #    pandoc:
