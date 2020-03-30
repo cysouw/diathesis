@@ -1,0 +1,32 @@
+# pandoc 'defaults' file
+
+from: markdown
+to: pdf
+pdf-engine: xelatex
+
+output-file: cysouwDiathesisManuscript.pdf
+input-files:
+- text/c01_introduction.md
+- text/c02_case.md
+- text/c03_prepositions.md
+- text/c04_reflexive.md
+- text/c05_preverbs.md
+- text/c06_adverbials.md
+- text/c07_participle.md
+- text/c08_infinitive.md
+- text/c09_zuInfinitive.md
+- text/c10_zumInfinitive.md
+- text/c11_adjectives.md
+- text/c12_nouns.md
+- text/c13_subordination.md
+
+filters:
+- pandoc-crossref
+- pandoc-citeproc
+
+number-sections: true
+table-of-contents: true
+
+metadata-files:
+- settings.yaml
+

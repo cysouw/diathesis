@@ -1,12 +1,13 @@
----
-title: A Survey of Diathesis in German
+# pandoc calls this "metadata-file"
+
+# main settings
+
+title: A Survey of German Diathesis
 author: Michael Cysouw
 date: \today
 
 mainfont: CharisSIL
-numbersections: true
-
-toc: true
+top-level-division: chapter
 toc-title: Table of Contents
 
 # crossref settings
@@ -35,6 +36,7 @@ link-citations: true
 documentclass: book
 classoption: oneside
 papersize: a4
+
 header-includes:
 # Fallback font
 - \newfontfamily{\fallbackfont}{Arial}
@@ -47,23 +49,6 @@ header-includes:
 - \usepackage{linguex}
 - \renewcommand{\firstrefdash}{\,} # small non-breaking space after number of examples
 - \renewcommand{\Exarabic}{\thechapter.\arabic} # add chapter number to examples
-# Reset example counters per chapter
+# Reset counters
 - \usepackage{chngcntr}
 - \counterwithin{ExNo}{chapter} # restart numbering each chapter
-
-#pandocomatic_:
-#    pandoc:
-#        from: markdown
-#        to: pdf
-#        pdf-engine: xelatex
-#        filter:
-#            - pandoc-crossref
-#            - pandoc-citeproc
-#        standalone: true
-#        toc: true
-#        number-sections: true
-#        css: pandoc.css
-#        mathjax: true
-
-...
-
