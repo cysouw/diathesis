@@ -1177,7 +1177,7 @@ Besser mit modalverben (Leirbukt 2012)
 - Er glaubt den Ring verloren (Er glaubt, dass der Ring verloren ist)
 - Er glaubte den Sieg gekommen/erreicht
 - Er glaubte das Seil zerrissen
-
+- Weil sie sich von ihrem Vater nicht geliebt glaubte, flüchtete Irmgard mit 17 Jahren trotzig zu den Diakonissinnen, um Krankenschwester zu werden. (DWDS:Leinemann, Jürgen, Dr Spiegel 09.05.1988, S.140)
 ### [ –NA | N–A ] *finden + Partizip* Experiencer
 
 - Er fand die Haustür verriegelt. ??? Er findet, dass die Haustür verriegelt ist.
