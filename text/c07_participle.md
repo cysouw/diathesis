@@ -1102,9 +1102,10 @@ Both transitive and intransitive, but probably better all seen as derived from *
 ### [ –N | NA ] *sehen + Partizip* Intransitive experiencer
 
 - Noch nie hatte er seinen Chef so abgemagert gesehen.
+- Indem ich hier die Vertreter von fast allen Staaten vereinigt sehe, sagt Redner, fühle ich mich lebhaft und tief bewegt. (DWDS: Autor unbekannt, Wiener Zeitung, 16.06.1907, S.12)
 
 intransitiv? Er sieht, dass sein Chef abgemagert ist.
-transitive mit secundary predication?: Er sieht seinen abgemagerten Chef.
+transitive mit secondary predication?: Er sieht seinen abgemagerten Chef.
 
 - auch hat mich noch niemand über der Bibel eingeschlafen gesehen (DWDS: Arnim, Bettina von: Goethe's Briefwechsel mit einem Kinde. Bd. 2. Berlin, 1835.)
 
@@ -1191,6 +1192,7 @@ Besser mit modalverben (Leirbukt 2012)
 - Ich sehe mich bestärkt durch viele Diskussionen und Privatmeinungen.
 
 - Er bestätigt mich. Ich sehe mich bestätigt.
+- Auch der Verwaltungsrath der »Steyrermühl« hat sich bemüssigt gesehen, einen Rechtfertigungsversuch wegen der von ihm begangenen Stempelentwendung zu unternehmen. (DWDS: Kraus, Karl, Die Fackel, 20.03.1900, S.9)
 
 ### [ NA | –N ] *wissen + sich + Partizip*
 
