@@ -1119,6 +1119,7 @@ Unakkusativ Intransitiv?!
 ### [ –N | NA ] *glauben +Partizip* Intransitive experiencer
 
 - Als die Tochter des Hauses, die schon längst für Jean Pauls Romane schwärmte, ihn sicher eingeschlafen glaubte, trat sie leise ins Zimmer, um ihn recht nach Herzenslust zu betrachten. (DWDS: Parthey, Gustav: Jugenderinnerungen. Bd. 2. Berlin, [1871])
+- Hörte man ihn, man wunderte sich und glaubt ihn entschuldigt, Ja er hatte noch übriges Recht und vieles zu klagen. (DWDS: Goethe, Johann Wolfgang von: Reinecke Fuchs. In zwölf Gesängen. Berlin, 1794)
 
 ### [ –N | NA ] *finden +Partizip* Intransitive experiencer
 
