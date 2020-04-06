@@ -34,7 +34,7 @@ link-citations: true
 # latex settings
 
 documentclass: book
-classoption: oneside
+classoption: twoside
 papersize: a4
 
 header-includes:
@@ -51,4 +51,4 @@ header-includes:
 - \renewcommand{\Exarabic}{\thechapter.\arabic} # add chapter number to examples
 # Reset counters
 - \usepackage{chngcntr}
-- \counterwithin{ExNo}{chapter} # restart numbering each chapter
+- \counterwithin{ExNo}{chapter} # restart numbering of examples each chapter
