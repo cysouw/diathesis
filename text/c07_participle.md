@@ -45,13 +45,36 @@ unakkusativ hypothesis: sein vs. haben/werden. Does not hold
 
 ## Defining participles
 
-### Recognizing participles
+### Identifying participles
 
-German participles (in German grammar idiosyncratically known as *Partizip II*) show a wide range of allophony [@duden2009: 440, §613-614; @eisenberg2006: 201-202]:
+German participles (in German grammar idiosyncratically known as *Partizip II*) can rather straightforwardly be identified by their morphology. However, this identification is complicated by a wide range of allomorphy, which will only be succinctly summarized here [cf. @duden2009: 440, §613-614; @eisenberg2006: 201-202]:
 
-- Typically, participles have a prefix *ge-*, like in *ge-kauf-t*, except when the stem already contains one of the prefixes *be-, er-, ver-, zer-, ent-*, like in *verkauf-t*. The prefix will appear between the stem and verb particles *an-, ein-, vor*, etc., like in *ein-ge-kauf-t*.
-- Typically, participles have a suffix *-t*, like in *ge-kauf-t*, in some phonological surroundings with an epenthetic schwa, like in *ge-wart-et* (stem: *wart*). In a large, but closed, class of verbs the suffix is *-en*, like in *ge-lauf-en*, often combined with *ablaut* of the stem vowel, like in *ge-fund-en* (stem *find*).
+- Typically, participles have a prefix *ge-*, like in *ge-kauf-t* (stem *kauf*), except when the stem already contains one of the prefixes *be-, er-, ver-, zer-, ent-*, like in *verkauf-t*. The prefix will appear between the stem and so-called verb particles *an-, ein-, vor*, etc., like in *ein-ge-kauf-t*.
+- Typically, participles have a suffix *-t*, like in *ge-kauf-t*, in some phonological surroundings with an epenthetic schwa, like in *ge-wart-et* (stem: *wart*). In a large, but closed, class of verbs the suffix is *-en*, like in *ge-lauf-en* (stem *lauf*), often combined with ablaut of the stem vowel, like in *ge-fund-en* (stem *find*).
 
+The allomorphs without *ge-* lead to another problem, because such participles are identical to third person singular finite verb forms. In \Next[a] the wordform *verkauft* is a finite third person singular, while in \Next[b] it is a participle. However, given that the finite verbs show agreement with the subject, checking a different subject easily differentiates between these two homonyms, e.g. in the first person singular the finite verb changes to *verkaufe* \Next[c], while the participle remaians unchanged \Next[d].
+
+\ex.
+ \a. Er verkauft das Haus.
+ \b. Er hat das Haus verkauft.
+ \c. Ich verkaufe das Haus.
+ \d. Ich habe das Haus verkauft.
+
+### Syntactic functions of participles
+
+Participles, like *geputzt* 'cleaned' in \Next, are used in three different syntactic functions in the grammar of German, viz. as (i) adnominal adjectives \Next[a], as (ii) depictive secondary predicate \Next[b], and in (iii) light-verb constructions \Next[c].
+
+\ex.
+ \a. Das geputzte Haus erstrahlt im Sonnenlicht.
+ \b. Er verkauft das Haus geputzt.
+ \c. Das Haus wird geputzt.
+
+Arguably, all these function are part of the spectrum us uses that are available to German adjectives like *schmutzig* 'dirty' \Next.
+
+\ex.
+ \a. Das schmutzige Haus erstrahlt im Sonnenlicht.
+ \b. Er verkauft das Haus schmutzig.
+ \c. Das Haus wird schmutzig.
 
 
 
@@ -62,7 +85,34 @@ Participles are wordforms in between verbs and adjectives
 - There are participles that cannot be used as adnominal adjectives ("unakkusatives")
 - There are participles that do not have a corresponding finite verb
 
-### Participles as adjectives
+
+Supinum (used in Bech 1955...)
+
+Carl Friedrich Aichinger [-@aichinger1754: 282 ff.] reserves the term *Participium* for unaccusative verbs, because they also occur as inflected adjectives. Clear defense in Aichinger (1775)
+
+Supinum is the (participle) form used as "verb" in analytic verb forms for all verbs.
+
+https://books.google.de/books?id=bJIpAAAAYAAJ&pg=PA627&lpg=PA627&dq=%22Dasjenige+Wort,+welches+ich+Supinum+nenne,%22&source=bl&ots=PwC4b8K3RI&sig=ACfU3U2mkO4_3iA3uxic1B39uRy2YHghmw&hl=en&sa=X&ved=2ahUKEwjy6ozNiNnmAhXHgVwKHfgcDEAQ6AEwAXoECAUQAQ#v=onepage&q=%22Dasjenige%20Wort%2C%20welches%20ich%20Supinum%20nenne%2C%22&f=false
+
+Im Beitrag Carl Friedrich Aichinger in „Neue Anmerkungen zum zwölften Stück des Schwäbischen Magazins 1775, Seiten 627, 628“[4] liest man: 
+
+"Dasjenige Wort, welches ich Supinum nenne, ist freilich von der Syntaxe nach dem lateinischen Supino weit unterschieden; der Formation nach aber demselben desto ähnlicher, massen das Participium praeteriti unmittelbar ja ausser Motion und Deklination ohne weitere Veränderung daraus gemacht ist. Doch es ist nicht das Participium selbst, weil es viele Verba gibt, die das Supinum, und doch kein Participium praeteriti haben. Gehuret, gehustet, gelebet, geschlafen u.d.g. sind keine Participii, weil sie ja weder der Motion noch Deklination fähig sind. Den Participiis aber kommt beides zu. Überdieses sind die französischen Grammatiker auf meiner Seite, welche ihr eu, été, aimé, vendu u.d.g. Supina nennen, deren Gebrauch gerad so ist, wie meines Supini im Teutschen."
+
+
+Carl Friedrich Aichinger. 1754. Versuch einer teutschen Sprachlehre, anfänglich nur zu eignem Gebrauche unternommen, endlich aber, um den Gelehrten zu fernerer Untersuchung Anlaß zu geben, ans Liecht gestellt
+
+S. 282 ff.
+
+https://books.google.de/books?id=JzVGAAAAcAAJ&dq=aichinger+supinum&source=gbs_navlinks_s
+
+Das Lateinische Supinum hat eine ganz andere "Syntax" (~syntaktische Funktion), aber die Form ist ähnlich, nämlich ein unveränderbares Partizip
+
+Supinum I: (Partizip Perfekt als Adverbiales "um zu")
+
+Mārcus nūntium mīsit rogātum vīnum. – Marcus schickte einen Boten, um Wein zu erbitten.
+Amīcī vēnērunt grātulātum. – Die Freunde kamen, um Glück zu wünschen.
+
+### Adjectives in light-verb constructions
 
 *sein, werden, bleiben*, known as 'Kopulaverben' in German grammar [@duden2009: 416]
 
@@ -92,60 +142,81 @@ Reflexive
 - Er gibt sich locker/mürrisch/siegessicher/kumpelhaft/arrogant
 - Er fühlt sich wach/müde/heimisch/sicher/schuldig
 
+haben? 
+
+- Ich habe frei/recht
+- Ich habe es warm/leicht/eilig/schwer/besser
+
+Transitiv
+
+- Ich habe etwas für jemand übrig
+- Ich habe dich lieb
+- Ich habe eine Rechnung offen
+- Ich habe das Essen satt
+- Ich habe eine Therapie nötig
+
+mit *wollen*
+
+- Ich will sie bis zur Eröffnung fertig haben.
+- Kalle Andrich: Natürlich, denn der Staat wollte uns immer klein haben.
+
+- bekommen/kriegen? Ich bekomme/kriege es warm
+- gehören
+- sehen/wissen/glauben
+
 ### Participles as depictive secondary predicates
 
-Participles can be used as so-called depictive secondary predicates (a). In such sentences, the participle functions syntactically like adverbs in the sentence structure (b). The problem is that constructions like (a) are highly similar to light verb constructions. For example, such constructions are coherent (c,d).
+Participles can be used as so-called depictive secondary predicates \Next[a]. In such sentences, the participle functions syntactically like an adverb in the sentence structure \Next[b]. The problem is that constructions like \Next[a] are highly similar to light verb constructions. For example, such constructions are coherent \Next[c,d].
 
-(a)   Er verkauft die Nägel gebogen.
-(b)   Er verkauft die Nägel jetzt.
-(c)   Es ist bekannt, dass er die Nägel gebogen verkauft.
-(d) \* Es ist bekannt, dass er verkauft die Nägel gebogen.
+\ex.
+ \a.    Er verkauft die Nägel gebogen.
+ \b.    Er verkauft die Nägel jetzt.
+ \c.    Es ist bekannt, dass er die Nägel gebogen verkauft.
+ \d. \* Es ist bekannt, dass er verkauft die Nägel gebogen.
 
-A secondary predicate (a) can in most cases easily be identified by trying to leave it out of the sentence (b) or replace it with an adverb (c). The finite predicate of the sentence should not change its meaning, and in general the meaning of the sentence will remain almost identical (except of course for the meaning of the missing participle).
+A participle as secondary predicate \Next[a] can in most cases easily be identified by trying to leave it out of the sentence \Next[b] or replace it with an adverb \Next[c]. The finite predicate of the sentence (here *verkaufen*, 'to sell') should not change its meaning, and in general the meaning of the sentence will remain almost identical (except of course for the meaning of the missing participle).
 
-(a)   Er verkauft die Nägel gebogen.
-(b)   Er verkauft die Nägel.
-(c)   Er verkauft die Nägel jetzt.
+\ex.
+ \a. Er verkauft die Nägel gebogen.
+ \b. Er verkauft die Nägel.
+ \c. Er verkauft die Nägel jetzt.
 
-More detailed indications to distinguish secondary predicates (a) from light verb constructions (b) can be obtained by investigating whether the participle behaves like adverbs. This can, for example, be shown overtly by trying to add linguistic material between the participle and the finite verb in a subordinate clause. This is possible for a participle as secondary predicate (c) and for adverbs (d). In contrast, for light verb constructions in a subordinate clause, the finite verb always should follow immediately after the participle (e) with no possibility for anything to intervene (f).
+More detailed indications to distinguish secondary predicates \Next[a] from light verb constructions \Next[b] can be obtained by investigating whether the participle behaves like an adverb. This can, for example, be shown overtly by trying to add linguistic material between the participle and the finite verb in a subordinate clause. This is possible for a participle as secondary predicate \Next[c] and for adverbs \Next[d]. In contrast, for light verb constructions in a subordinate clause, the finite verb always should follow immediately after the participle \Next[a] with no possibility for anything to intervene \Next[f].
 
-(a)   Er kauft die Schuhe in diesem Geschäft immer geputzt.
-(b)   Er bekommt die Schuhe in diesem Geschäft immer geputzt. ('Ihm werden die Schuhe dort geputzt.')
-(c)   Es ist bekannt, dass er die Schuhe immer geputzt in diesem Geschäft kauft.
-(d)   Es ist bekannt, dass er die Schuhe immer morgens in diesem Geschäft kauft.
-(e)   Es ist bekannt, dass er die Schuhe immer in diesem Geschäft geputzt bekommt.
-(f) \* Es ist bekannt, dass er die Schuhe immer geputzt in diesem Geschäft bekommt.
+\ex.
+ \a.    Er kauft die Schuhe in diesem Geschäft immer geputzt.
+ \b.    Er bekommt die Schuhe in diesem Geschäft immer geputzt. ('Ihm werden die Schuhe dort geputzt.')
+ \c.    Es ist bekannt, dass er die Schuhe immer geputzt in diesem Geschäft kauft.
+ \d.    Es ist bekannt, dass er die Schuhe immer morgens in diesem Geschäft kauft.
+ \e.    Es ist bekannt, dass er die Schuhe immer in diesem Geschäft geputzt bekommt.
+ \f. \* Es ist bekannt, dass er die Schuhe immer geputzt in diesem Geschäft bekommt.
 
-Secondary predication with participles can also be distinguished from light verb constructions by considering negation. Negation in sentences with a participle as a secondary predicate normally negates this secondary predicate itself (lexical scope), just like adverbs (a,b). It is often even possible to instead use the prefix *un-* to mark the lexical scope of the negation over the participle (c).
+Secondary predication with participles can also be distinguished from light verb constructions by considering negation. Negation in sentences with a participle as a secondary predicate normally negates this secondary predicate itself (lexical scope), just like adverbs \Next[a,b]. With secondary predicates it is often even possible to instead use the prefix *un-* to mark the lexical scope of the negation over the participle \Next[c].
 
-(a)   Er kauft die Schuhe nicht jetzt.
-(a)   Er kauft die Schuhe nicht geputzt.
-(a)   Er kauft die Schuhe (nur) ungeputzt.
+\ex.
+ \a. Er kauft die Schuhe nicht jetzt.
+ \b. Er kauft die Schuhe nicht geputzt.
+ \c. Er kauft die Schuhe (nur) ungeputzt.
 
-In contrast, negation in a monoclausal light verb construction has a wide scope reading over the whole sentence. For example, in (a) the verb *bekommen* has two different readings. Either (b), there is a full lexical verb with the meaning 'to get as a gift' and a narrow scope negation over the participle *nicht geputzt* (which is almost equivalent to *ungeputzt* 'uncleaned'), resulting in a meaning of 'he gets a gift of uncleaned shoes'. Alternatively (c), *bekommen* is a light verb with a meaning 'to get something done' with a full verb as participle *geputzt* 'cleaned'. Together with the wide scope negation the meaning then becomes 'he doesn't manage to get his shoes cleaned'.
+In contrast, negation in a monoclausal light verb construction with a particple has a wide scope reading over the whole sentence. For example, in \Next[a] the verb *bekommen* has two different readings. Either \Next[b], there is a full lexical verb with the meaning 'to get as a gift' and a narrow scope negation over the participle *nicht geputzt* (which is almost equivalent to *ungeputzt* 'uncleaned'), resulting in a meaning of 'he gets a gift of uncleaned shoes'. In this interpretation, the participle is a secondary predicate. Alternatively \Next[c], *bekommen* can be interpreted as a light verb with a meaning 'to get something done for you' with a full verb as participle *geputzt* 'cleaned'. Together with the wide scope negation the meaning of the sentence then becomes 'he doesn't manage to get his shoes cleaned'. In this interpretation, the participle is part of a light verb construction *bekommen + Participle* [see @sec:participle-bekommen-passive]
 
-(a)   Er bekommt die Schuhe nicht geputzt
-(b)   Er kriegt ein Geschenk, nämlich ungeputzte Schuhe.
-(c)   Er schafft es nicht seine Schuhe putzen zu lassen.
+\ex.
+ \a. Er bekommt die Schuhe nicht geputzt
+ \b. Er kriegt ein Geschenk, nämlich ungeputzte Schuhe.
+ \c. Er schafft es nicht seine Schuhe putzen zu lassen.
 
-Note further that the sentence stress in (a) differs for both readings. The reading (b) has stress on the negation *nicht* (as is usually the case for lexical scope), while the reading in (c) has stress on the participle *geputzt* (which is the regular stress placement for a indicative main clause).
+Note further that the sentence stress in \Last[a] differs for both readings. The reading \Last[b] has stress on the negation *nicht* (as is usually the case for lexical scope), while the reading in \Next[c] has stress on the participle *geputzt* (which is the regular stress placement for a wide-scope negation of the indicative main clause).
 
-Other interesting examples
+A final (minor) difference between participles as secondary predicate \Next[a] and light verb constructions \Next[b,c] is that secondary predicates are in many contexts ambiguous as to the scope of the predicate. For example, in \Next[a] the secondary predicate *bekleidet* 'dressed' can be interpreted both as referring to the accusative object *Patienten* 'patients' and (with a humorous undertone) to the nominative subject *Doktor* 'doctor'. With a light verb construction there is never any ambiguity
 
-- Ich trage das Hemd steif gebügelt.
-- Es ist bekannt, dass ich das Hemd steif gebügelt auf der Party tragen werde.
-
-<br>
-
-- Der Doktor untersucht seine Patienten nur bekleidet. (Mehrdeutig!)
-- Der Doktor untersucht bekleidet seine Patienten. (Nicht Mehrdeutig!)
-- Es ist bekannt, dass der Doktor einen Patienten bekleidet nicht untersuchen wird.
-
----
+\ex.
+ \a. Der Doktor untersucht seine Patienten immer bekleidet.
+ \b. Der Doktor lässt seine Patienten immer bekleidet.
+ \c. Der Doktor ist immer bekleidet.
 
 ## Verbs without alternations
 
-Most participles are regularly derived from a finite verb. However, there are various participles that are not directly related to a finite verb. I will discuss three different kinds of participles without finite counterpart.
+Most participles are regularly derived from a finite verb. However, there are various participles that are not directly related to a finite verb, but that still occur in light verb constructions. Parallel to the '.3' sections in earlier chapters, I will discuss here three different kinds of participles without finite counterpart.
 
 - First, some participles have an idiomatic meaning that is not transparently related to the meaning of the morphologically corresponding finite verb.
 - Second, some participles are derived from nouns, and the corresponding finite verb does not exist.
@@ -262,6 +333,9 @@ All verbs in German allow for a perfect alternation ("tense/aspect" form). Only 
 ???
 
 - erstrahlen: Etwas ist erstrahlt ???
+
+difficult to find examples: Blos, Wilhelm: Denkwürdigkeiten eines Sozialdemokraten, Bd. 1. In: Simons, Oliver (Hg.) Deutsche Autobiographien 1690-1930, Berlin: Directmedia Publ. 2004 [1914], S. 9347
+Diese beiden frommen Eiferer verfinsterten die Freiburger geistige Atmosphäre, die zwanzig Jahre zuvor so freiheitlich hell erstrahlt war.
 
 perfekt: duden S. 465ff.
 
@@ -537,6 +611,35 @@ Die Tür hatte sie angelehnt gelassen, jetzt stand sie sperrangelweit offen.
 
 Die Zeit, 08.03.1974, Nr. 11
 Hätte man die Streitfragen wirklich ausgeklammert gelassen, dann wäre das Berlin-Abkommen ein großer Erfolg gewesen.
+
+### [ NA | NA ] *machen + Partizip*
+
+- Ich mache etwas vergessen
+- Etwas macht mich betroffen
+- Der Rauch macht mich benommen
+- Das Geschehen macht mich verbittert
+
+=> Reflexiv? Fixed Expressions?
+
+- Ich mache mich auf etwas gefasst
+- Ich mache mich um etwas verdient
+- Der Ankauf macht sich bezahlt
+
+=> Subject demotion???
+
+Inverted Passive + reflexive loss [ pN | NA ]
+
+- Der Wein macht mich besoffen. (Ich habe mich mit Wein besoffen.)
+
+Reflexiv anticausative [ NA | -N ]
+
+- Ich mache mich verdächtigt. (Jemand verdächtigt mich)
+
+=> Inverse ???
+
+Inverse + accusative [ pNA | NpA ]
+
+- Die Bezahlung macht den Job begehrt (für mich). (Ich begehre den Job wegen der Bezahlung)
 
 ### --- Appearance --- {.unnumbered}
 
@@ -825,7 +928,7 @@ Retention of agent with different preposition? No: different roles!!!
 - Die Nachricht des Todes verstört den Mann / hat den Mann verstört
 - Der Mann ist verstört
 
-### [ NDA | pNA ] *bekommen + Partizip* Dative passive + accusative
+### [ NDA | pNA ] *bekommen + Partizip* Dative passive + accusative {#sec:participle-bekommen-passive}
 
 also *kriegen/erhalten*
 
