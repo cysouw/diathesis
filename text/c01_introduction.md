@@ -3,6 +3,8 @@
 [@levin1993], and for German: [@sauerland1994]
 
 
+This book is about German verbs. What are verbs? Definition: A verb is a stem that allows for finite morphology, i.e. stems that have present/past person inflection.
+
 ## Definition Diathesis
 
 Valency: is this really a characteristic of a verb? Most (all?) verbs seem to allow for multiple valencies. There is a strong tendency to try to reduce this variation to a single valency per verb (the 'real' valency), and various strategies are employed to arrive at such a prototypical valency (see e.g. [@welke2011: Ch. 9 for different approaches])

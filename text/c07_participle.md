@@ -60,59 +60,35 @@ The allomorphs without *ge-* lead to another problem, because such participles a
  \c. Ich verkaufe das Haus.
  \d. Ich habe das Haus verkauft.
 
+The formation of participles is highly productive in German. Every verb stem (i.e. every stem that can be used with person-inflected finite morphology) allows for the formation of a participle. The formation of participles is also highly amenable to newly invented pseudowords (REFERENCE?). Even participles derived from non-verbal stems are widely attested [see @sec:participles-no-alternation].
+
 ### Syntactic functions of participles
 
-Participles, like *geputzt* 'cleaned' in \Next, are used in three different syntactic functions in the grammar of German, viz. as (i) adnominal adjectives \Next[a], as (ii) depictive secondary predicate \Next[b], and in (iii) light-verb constructions \Next[c].
+Participles, like *geputzt* 'cleaned' in \Next, can be used in three different syntactic functions in the grammar of German, viz. as adnominal adjectives \Next[a], as depictive secondary predicates \Next[b], and as part of light-verb constructions \Next[c]. This chapter deals with the light-verb constructions, which have to be distinguished from depictive secondary predicates as discussed in [@sec:participles-secondary-predicates]. The adnominal usage is discussed in Chapter [-@sec:adj].
 
 \ex.
  \a. Das geputzte Haus erstrahlt im Sonnenlicht.
  \b. Er verkauft das Haus geputzt.
  \c. Das Haus wird geputzt.
 
-Arguably, all these function are part of the spectrum us uses that are available to German adjectives like *schmutzig* 'dirty' \Next.
+Arguably, all these three functions are part of the spectrum of uses that are available to German adjectives like *schmutzig* 'dirty' \Next. So, the basic thrust is that participles are syntactically adjectives that are derived from verbal stems. A closer look at adjectives in light-verb constructions is taken in [@sec:participles-adjectives-light-verb-constructions].
 
 \ex.
  \a. Das schmutzige Haus erstrahlt im Sonnenlicht.
  \b. Er verkauft das Haus schmutzig.
  \c. Das Haus wird schmutzig.
 
+Although all verbs morphologically allow for a participle, not all participles can be used in all three syntactic functions. The first observation of such a restriction goes back to the *Sprachlehre* of Carl Friedrich Aichinger [-@aichinger1754: 282 ff.], who reserves the term *Participium* for verbs that allow for an adnominal usage of their participles, i.e. \LLast[a]. His rationale for this restriction is that 'real' participles should allow for declension (like in Latin) and in German only the adnominal usage shows (minimal) declension. In contrast, participles that are restricted to light-verb constructions are morphologically immutable in German, so Aichinger proposes to call them *Supinum*. This nomenclature is very unfortunate, because the German participle has no relation at all to the Latin supine, neither formally nor functionally. Being criticized for this terminology, Aichinger explains that he uses the term *Supinum* solely because the Latin supine is also an immutable verb from [e.g. @aichinger1776: 627]. Although there are many unfortunate terminological confusions in the history of linguistics, this inappropriate usage of the term *Supinum* is still found in German grammatical literature to this day (with a history of transmission that deserves a more in-depth study), most forcefully reinforced by Bech [-@bech1955].
+
+Restrictions on the combinations of participles with certain light verbs have also a long history. 
 
 
-Participles are often seen as a part of the verbal inflectional paradigma, but actually there are more participles
-
-Participles are wordforms in between verbs and adjectives
-
-- There are participles that cannot be used as adnominal adjectives ("unakkusatives")
-- There are participles that do not have a corresponding finite verb
+The same underlying phenomenon of participles that cannot be used adnominally (i.e. Aichinger's *Supinum*) is in recent decades revisited in a different context under the equally confusing term *unakkusative* [@perlmutter1978; see @pullum1988 for a discussion of the origin of the term and scholarly predecessors]
 
 
-Supinum (used in Bech 1955...)
+[@wunderlich1985; @grewendorf1989: 18-20]
 
-Carl Friedrich Aichinger [-@aichinger1754: 282 ff.] reserves the term *Participium* for unaccusative verbs, because they also occur as inflected adjectives. Clear defense in Aichinger (1775)
-
-Supinum is the (participle) form used as "verb" in analytic verb forms for all verbs.
-
-https://books.google.de/books?id=bJIpAAAAYAAJ&pg=PA627&lpg=PA627&dq=%22Dasjenige+Wort,+welches+ich+Supinum+nenne,%22&source=bl&ots=PwC4b8K3RI&sig=ACfU3U2mkO4_3iA3uxic1B39uRy2YHghmw&hl=en&sa=X&ved=2ahUKEwjy6ozNiNnmAhXHgVwKHfgcDEAQ6AEwAXoECAUQAQ#v=onepage&q=%22Dasjenige%20Wort%2C%20welches%20ich%20Supinum%20nenne%2C%22&f=false
-
-Im Beitrag Carl Friedrich Aichinger in „Neue Anmerkungen zum zwölften Stück des Schwäbischen Magazins 1775, Seiten 627, 628“[4] liest man: 
-
-"Dasjenige Wort, welches ich Supinum nenne, ist freilich von der Syntaxe nach dem lateinischen Supino weit unterschieden; der Formation nach aber demselben desto ähnlicher, massen das Participium praeteriti unmittelbar ja ausser Motion und Deklination ohne weitere Veränderung daraus gemacht ist. Doch es ist nicht das Participium selbst, weil es viele Verba gibt, die das Supinum, und doch kein Participium praeteriti haben. Gehuret, gehustet, gelebet, geschlafen u.d.g. sind keine Participii, weil sie ja weder der Motion noch Deklination fähig sind. Den Participiis aber kommt beides zu. Überdieses sind die französischen Grammatiker auf meiner Seite, welche ihr eu, été, aimé, vendu u.d.g. Supina nennen, deren Gebrauch gerad so ist, wie meines Supini im Teutschen."
-
-
-Carl Friedrich Aichinger. 1754. Versuch einer teutschen Sprachlehre, anfänglich nur zu eignem Gebrauche unternommen, endlich aber, um den Gelehrten zu fernerer Untersuchung Anlaß zu geben, ans Liecht gestellt
-
-S. 282 ff.
-
-https://books.google.de/books?id=JzVGAAAAcAAJ&dq=aichinger+supinum&source=gbs_navlinks_s
-
-Das Lateinische Supinum hat eine ganz andere "Syntax" (~syntaktische Funktion), aber die Form ist ähnlich, nämlich ein unveränderbares Partizip
-
-Supinum I: (Partizip Perfekt als Adverbiales "um zu")
-
-Mārcus nūntium mīsit rogātum vīnum. – Marcus schickte einen Boten, um Wein zu erbitten.
-Amīcī vēnērunt grātulātum. – Die Freunde kamen, um Glück zu wünschen.
-
-### Adjectives in light-verb constructions
+### Adjectives in light-verb constructions {#sec:participles-adjectives-light-verb-constructions}
 
 *sein, werden, bleiben*, known as 'Kopulaverben' in German grammar [@duden2009: 416]
 
@@ -164,7 +140,7 @@ mit *wollen*
 - gehören
 - sehen/wissen/glauben
 
-### Participles as depictive secondary predicates
+### Participles as depictive secondary predicates {#sec:participles-secondary-predicates}
 
 Participles can be used as so-called depictive secondary predicates \Next[a]. In such sentences, the participle functions syntactically like an adverb in the sentence structure \Next[b]. The problem is that constructions like \Next[a] are highly similar to light verb constructions. For example, such constructions are coherent \Next[c,d].
 
@@ -214,9 +190,9 @@ A final (minor) difference between participles as secondary predicate \Next[a] a
  \b. Der Doktor lässt seine Patienten immer bekleidet.
  \c. Der Doktor ist immer bekleidet.
 
-## Verbs without alternations
+## Verbs without alternations {#sec:participles-no-alternation}
 
-Most participles are regularly derived from a finite verb. However, there are various participles that are not directly related to a finite verb, but that still occur in light verb constructions. Parallel to the '.3' sections in earlier chapters, I will discuss here three different kinds of participles without finite counterpart.
+Most participles are regularly derived from verb stems that allow for finite verbforms. However, there are various participles that are not directly related to a finite verb, but that still occur in light verb constructions. Parallel to the '.3' sections in earlier chapters, I will discuss here three different kinds of participles without finite counterpart.
 
 - First, some participles have an idiomatic meaning that is not transparently related to the meaning of the morphologically corresponding finite verb.
 - Second, some participles are derived from nouns, and the corresponding finite verb does not exist.

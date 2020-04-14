@@ -1,4 +1,4 @@
-# Deverbal adjectives
+# Deverbal adjectives {#sec:adj}
 
 ## Introduction
 
