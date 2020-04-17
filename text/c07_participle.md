@@ -1207,10 +1207,12 @@ Unakkusativ Intransitiv?!
 
 - Ich finde ihn gewachsen.
 - Ich finde das Projekt gescheitert.
+- Ich finde das Kunstwerk sehr gelungen.
 
 secundary predicate: "er findet sie in Zustand X"
 
--  er hat sie an einem Fest nach reichlichem Weingenuß bei ihrem Herd so fest eingeschlafen gefunden
+- er hat sie an einem Fest nach reichlichem Weingenuß bei ihrem Herd so fest eingeschlafen gefunden.
+- Wenn Sie Silex seit langem zu den am meisten gesuchten Augenärzten zählen, so verdankt er dies einer Reihe von Eigenschaften, wie sie sich nur selten vereint finden. (DWDS: Berliner Tageblatt 18.03.19918, S.3)
 
 ### --- Transitive experiencers --- {.unnumbered}
 
