@@ -1224,6 +1224,7 @@ DWDS: "$p=VVPP sehen" && ! wollen && ! möchten && ! sich
 - so brauchen diejenigen Mütter, welche ihre Kleinen gerne dem allgemeinen Gelächter preisgegeben sehen, wenig an deren Anzügen zu ändern
 - ... die beiden 80jährigen Männer, die jetzt alle Hoffnungen zu Grabe getragen sahen,
 - Sollten wir uns darin getäuscht sehen, so haben wir unsere Schuldigkeit gethan ...
+- Die Spannung erreichte ihren Höhepunkt, als ein neuer Denunziant, Diokleides, angab, er habe in der verhängnisvollen Nacht gegen 300 Leute im Theater versammelt gesehen [...] (DWDS: Meyer, Eduard: Geschichte des Altertums, Bd. IV,2. In: Geschichte des Altertums, Berlin: Directmedia Publ. 2001 [1901], S. 21225)
 
 - Er sah die Gefangenen eingespannt.
 - Ich sah den Himmel aufgetan.
