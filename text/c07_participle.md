@@ -1194,6 +1194,7 @@ Unakkusativ Intransitiv?!
 
 - Das Kind ist eingeschlafen [–N]
 - Sie weiß das Kind eingeschlafen [NA]
+- Wenn ich dich nicht so gut aufgehoben gewußt hätte, wäre ich Dir nachgefahren! (DWDS: Müller-Jahnke, Clara: Ich bekenne. In: Deutsche Literatur von Frauen, Berlin: Directmedia Publ. 2001 [1904], S. 52626)
 
 ### [ –N | NA ] *glauben +Partizip* Intransitive experiencer
 
