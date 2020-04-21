@@ -1255,6 +1255,8 @@ DWDS: "$p=VVPP wissen" && ! wollen && ! möchten && ! sich
 Besser mit modalverben (Leirbukt 2012)
 
 - Der Premier wollte die Ostgebiete dem Kontrollrat unterstellt wissen.
+- Der Premier hat die Ostgebiete dem Kontrollrat unterstellt gewusst.
+- Der Premier hat die Ostgebiete dem Kontrollrat unterstellt wissen wollen.
 
 ### [ –NA | N–A ] *glauben + Partizip* Experiencer
 
