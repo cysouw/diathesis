@@ -1297,16 +1297,22 @@ DWDS: "wissen sich #4 $p=VVPP"
 - Er weiß sich verfolgt und beobachtet.
 - Man weiß sich dabei nicht gesichert.
 - Sie wussten sich durch ihn gewahrt.
+- Sie wusste sich beschützt.
 
 ### [ NA | –N ] *glauben + sich + Partizip*
 
 - Er glaubte sich verraten/zurückversetzt/verfolgt
+- Er glaubte sich benachteiligt.
 
 ### [ NA | –N ] *finden + sich + Partizip*
 
 nur mit "bestätigt"?
 
 - Er fand sich bestätigt.
+- Er fand sich bewogen, mir seinen Artikel zuzuschicken.
+- Sie fand sich genötigt, ja zu sagen.
+- Sie fanden sich in Debatten verwickelt.
+
 
 Die Zeit, 15.02.2016 (online)
 Um die Sache zu prüfen, habe er im Urlaub mal einen Nacktbadestrand aufgesucht - und dort das Bild aus der Sauna bestätigt gefunden.
