@@ -43,7 +43,7 @@ unakkusativ hypothesis: sein vs. haben/werden. Does not hold
 | *bluten*   |   –    |    +    |     –    |
 | *lachen*   |   –    |    +    |     +    |
 
-## Defining participles
+## Characterizing participle constructions
 
 ### Identifying participles
 
@@ -190,7 +190,7 @@ A final (minor) difference between participles as secondary predicate \Next[a] a
  \b. Der Doktor lässt seine Patienten immer bekleidet.
  \c. Der Doktor ist immer bekleidet.
 
-## Verbs without alternations {#sec:participles-no-alternation}
+## Deponent verbs without alternations {#sec:participles-no-alternation}
 
 Most participles are regularly derived from verb stems that allow for finite verbforms. However, there are various participles that are not directly related to a finite verb, but that still occur in light verb constructions. Parallel to the '.3' sections in earlier chapters, I will discuss here three different kinds of participles without finite counterpart.
 
@@ -719,7 +719,7 @@ Keine anderen guten Beispiele, nur mit *gefangen*.
 
 ## Diatheses with subject demotion
 
-### --- Drops --- {.unnumbered}
+### --- [ SBJ > Ø ] Drop --- {.unnumbered}
 
 ### [ N | – ] *werden + Partizip* Impersonal passive
 
@@ -775,7 +775,7 @@ Keine Argumentvererbung: nur Agens kann (mit Mühe) erhalten bleiben als 'durch'
 - Es wird sich jetzt endlich beeilt/entschlossen/vertragen/gekümmert
 - Hier wird sich nicht verkrochen/angestellt/verweigert
 
-### --- Passives --- {.unnumbered}
+### --- [ OBJ > SBJ > ADJ ] Passive --- {.unnumbered}
 
 Probably all better considered to be anticausatives, but out of tradition I list them here under the label 'passive'
 
@@ -791,7 +791,50 @@ Nicht immer bei transitiv:
 - kennen (Ich kenne den Mann / * Der Mann wird gekannt)
 - wundern (Sein Verhalten wundert mich / * ich werde gewundert)
 
-### [ NA | -N ] *sein + Partizip*  Passive (Zustandspassiv)
+### [ NDA | pNA ] *bekommen + Partizip* Dative passive + accusative {#sec:participle-bekommen-passive}
+
+also *kriegen/erhalten*
+
+Belegsammlungen von Alexander Lasch:
+
+2.3 AKZEPTATION
+
+- bekommen (https://goo.gl/aEw9rC; Stand: 03.09.2016). 
+- kriegen (https://goo.gl/zaUHBH; Stand: 03.09.2016). 
+- erhalten (https://goo.gl/GBm2vT; Stand: 03.09.2016).
+
+inklusive freie Dative (Leirbukt 1997)
+
+- Ich nehme dem Schüler das Handy ab. vs. Der Schüler bekommt das Handy abgenommen.
+- Ich baue dir ein Haus. vs. Du bekommst (von mir) ein Haus gebaut.
+- Sie schneidet ihm die Haare. vs. Er bekommt die Haare geschnitten.
+- Ich baue dir ein Haus. vs. Du bekommst (von mir) ein Haus gebaut.
+
+Nicht mit unakkusative Verben mit Dativ?
+
+- ich laufe dir weg. vs. \* du bekommst von mir weggelaufen 
+
+"es schaffen" Bedeutung ohne Diathese?!
+
+- Ich koche den Tee. vs. Ich bekomme (schon noch) einen Tee gekocht ('ich schaffe es den Tee zu kochen')
+- Wenn wir die Pforte geschlossen bekommen, verfassen wir nachträglich einen Bericht. (https://books.google.de/books?id=Lhm1DgAAQBAJ&pg=PT98&lpg=PT98&dq=%22geschlossen+bekommen%22&source=bl&ots=PHRxMOap0F&sig=-GqK1FDoT8XmyfOSQBF4_DZB5EU&hl=en&sa=X&ved=2ahUKEwjR-ajRmujeAhVJ3KQKHZ_gBQEQ6AEwCHoECAEQAQ#v=onepage&q=%22geschlossen%20bekommen%22&f=false)
+
+Kriegen: Genau dieselbe Verben wie 'bekommen'?
+
+- Ich nehme dem Schüler das Handy ab. vs. Der Schüler kriegt das Handy abgenommen.
+
+"es schaffen" Bedeutung ohne Diathese?!
+
+- Er zerbricht den Stock. vs. Er kriegt den Stock zerbrochen.
+- Ich öffne den Schrank. vs. Ich kriege den Schrank geöffnet
+- Er kriegt seine Kleider noch rechtzeitig getrocknet. 
+- Er verschiebt den Schrank. vs. Er kriegt den schweren Schrank auch alleine verschoben.
+- Er baut ein Haus. vs. Er kriegt das Haus gebaut.
+- Er vermietet die Wohnung. vs. Er kriegt die Wohnung vermietet.
+
+### --- [ OBJ > SBJ > Ø] Anticausative {.unnumbered}
+
+### [ NA | –N ] *sein + Partizip* Anticausative (Zustandspassiv)
 
 Zustandspassiv: ähnlich zu adjektivische Prädikatskonstruktion (*Die Tür ist gelb*). Explizit nicht mit *geworden*
 weil dann Perfekt des *werden* Passiv (cf. Maienborn). [@maienborn2007]
@@ -904,48 +947,7 @@ Retention of agent with different preposition? No: different roles!!!
 - Die Nachricht des Todes verstört den Mann / hat den Mann verstört
 - Der Mann ist verstört
 
-### [ NDA | pNA ] *bekommen + Partizip* Dative passive + accusative {#sec:participle-bekommen-passive}
-
-also *kriegen/erhalten*
-
-Belegsammlungen von Alexander Lasch:
-
-2.3 AKZEPTATION
-
-- bekommen (https://goo.gl/aEw9rC; Stand: 03.09.2016). 
-- kriegen (https://goo.gl/zaUHBH; Stand: 03.09.2016). 
-- erhalten (https://goo.gl/GBm2vT; Stand: 03.09.2016).
-
-inklusive freie Dative (Leirbukt 1997)
-
-- Ich nehme dem Schüler das Handy ab. vs. Der Schüler bekommt das Handy abgenommen.
-- Ich baue dir ein Haus. vs. Du bekommst (von mir) ein Haus gebaut.
-- Sie schneidet ihm die Haare. vs. Er bekommt die Haare geschnitten.
-- Ich baue dir ein Haus. vs. Du bekommst (von mir) ein Haus gebaut.
-
-Nicht mit unakkusative Verben mit Dativ?
-
-- ich laufe dir weg. vs. \* du bekommst von mir weggelaufen 
-
-"es schaffen" Bedeutung ohne Diathese?!
-
-- Ich koche den Tee. vs. Ich bekomme (schon noch) einen Tee gekocht ('ich schaffe es den Tee zu kochen')
-- Wenn wir die Pforte geschlossen bekommen, verfassen wir nachträglich einen Bericht. (https://books.google.de/books?id=Lhm1DgAAQBAJ&pg=PT98&lpg=PT98&dq=%22geschlossen+bekommen%22&source=bl&ots=PHRxMOap0F&sig=-GqK1FDoT8XmyfOSQBF4_DZB5EU&hl=en&sa=X&ved=2ahUKEwjR-ajRmujeAhVJ3KQKHZ_gBQEQ6AEwCHoECAEQAQ#v=onepage&q=%22geschlossen%20bekommen%22&f=false)
-
-Kriegen: Genau dieselbe Verben wie 'bekommen'?
-
-- Ich nehme dem Schüler das Handy ab. vs. Der Schüler kriegt das Handy abgenommen.
-
-"es schaffen" Bedeutung ohne Diathese?!
-
-- Er zerbricht den Stock. vs. Er kriegt den Stock zerbrochen.
-- Ich öffne den Schrank. vs. Ich kriege den Schrank geöffnet
-- Er kriegt seine Kleider noch rechtzeitig getrocknet. 
-- Er verschiebt den Schrank. vs. Er kriegt den schweren Schrank auch alleine verschoben.
-- Er baut ein Haus. vs. Er kriegt das Haus gebaut.
-- Er vermietet die Wohnung. vs. Er kriegt die Wohnung vermietet.
-
-### [ NDA | -NA ] *haben + Partizip* Dative passive + accusative
+### [ NDA | –NA ] *haben + Partizip* Dative anticausative + accusative {#sec:participles-haben-passive}
 
 Verbs that have the possibility of an accusative object, like *brechen* 'to break' in (a), almost all have a 'haben + Partizip' perfect (b), as discussed in Section X. A subset of those verbs also allow for a different 'haben + Partizip' construction, which I will analyse as an anticausative alternation, illustrated here in (c). The example in (c) has an optional reflexive-dative pronoun disambiguating the intended reading, namely 'the arm is broken to me.' Without this pronoun, (c) is ambigious between 'I have broken the arm' (the perfect construction from Section X) and 'The arm is broken to me' (the anticausative construction as discussed in this section). It is rather curious for there to be two formally identical constructions with two such rather different meanings. The anticausative reading seems to be recent and is considered colloquial by most speakers (cf. Eroms 2000: 395-396, 420-421; Hole 2002 for a discussion of this rather special construction).
 
@@ -1000,8 +1002,16 @@ Ohne Modalverben unüblich, aber vgl. *haben+Partizip* Experiencer. Zweideutigke
 - Er will, dass seine Haare kurz geschnitten werden. (<- Er will [Jemand hat ihm die Haare kurz geschnitten] Perfekt)
 - Er will kurz geschnittene Haare haben (<- Er will [Er hat die Haare kurz geschnitten] Experiencer)
 
+### [ NA | –N ] *bleiben + Partizip* Durative anticausative
 
-### --- Anticausatives --- {.unnumbered}
+Nur wenige geeignete Verben: typisch Antikausative?
+
+- Die Tür bleibt geöffnet (geschlossen)
+- Der Betrüger bleibt gefangen
+- Der Fußballer bleibt verwarnt
+- Das Fass bleibt gefüllt.
+
+nicht im Perfekt? * Die Tür ist geschlossen geblieben
 
 ### [ NA | –N ] *gehören + Partizip* Obligation anticausative 
 
@@ -1030,18 +1040,9 @@ Subject-less???
 - Gegen den Feind gehört gekämpft.
 - Dem Studenten gehört geholfen.
 
-### [ NA | –N ] *bleiben + Partizip* Durative anticausative
+### --- [ OBJ > SBJ > Ø] Appearance anticausative --- {.unnumbered}
 
-Nur wenige geeignete Verben: typisch Antikausative?
-
-- Die Tür bleibt geöffnet (geschlossen)
-- Der Betrüger bleibt gefangen
-- Der Fußballer bleibt verwarnt
-- Das Fass bleibt gefüllt.
-
-nicht im Perfekt? * Die Tür ist geschlossen geblieben
-
-### [ NA | –N ] *aussehen + Partizip*
+### [ NA | –N ] *aussehen + Partizip* Anticausative
 
 transitive
 
@@ -1053,17 +1054,19 @@ Belegsammlungen von Alexander Lasch:
 
 angegriffen, gepflegt, verstört, angestrengt, bekümmert, verjüngt, abgesperrt, beschädigt, enttäuscht, erschöpft, improvisiert
 
-### [ NA | –N ] *scheinen + Partizip*
+### [ NA | –N ] *scheinen + Partizip* Anticausative
 
 - scheinen (https://goo.gl/5YvKiw; Stand: 03.09.2016). 
 
-### [ NA | –N ] *erscheinen + Partizip*
+### [ NA | –N ] *erscheinen + Partizip* Anticausative
 
 - erscheinen (https://goo.gl/Xj7EW6; Stand: 03.09.2016). 
 
-### [ NA | –N ] *wirken + Partizip*
+### [ NA | –N ] *wirken + Partizip* Anticausative
 
 - wirken (https://goo.gl/yCai8B; Stand: 03.09.2016). 
+
+### --- [ OBJ > SBJ > Ø] Incidental anticausative --- {.unnumbered}
 
 ### [ NA | –N ] *stehen + Partizip* Textual anticausative
 
@@ -1140,9 +1143,9 @@ Only with "verloren"?
 
 - Die Zeit, 16.11.2013, Nr. 47: Und mit ein wenig Glück hätte das Spiel auch gewonnen gehen können.
 
-### --- Reflexive anticausatives --- {.unnumbered}
+### ---  [ OBJ > SBJ > Ø ] Reflexive anticausative --- {.unnumbered}
 
-### [ NA | –N ] *fühlen + sich + Partizip*
+### [ NA | –N ] *fühlen + Partizip* Reflexive anticausative
 
 Probably secondary predication because can easily be replaced by adverb, e.g. "schön/müde", but not so clear by *fühlen*, because negation has wide scope.
 
@@ -1152,7 +1155,7 @@ https://www.dwds.de/wb/fühlen
 
 - Ich fühle mich ausgeschlafen.
 
-### [ NA | –N ] *geben + sich + Partizip* 'ausgeben für'
+### [ NA | –N ] *geben + Partizip* Reflexive anticausative
 
 geben Mit reflexivprononem!
 
@@ -1168,25 +1171,95 @@ from reflexive: *entspannt*?
 - Er entspannt sich -> er ist entspannt -> er gibt sich entspannt
 - No: Etwas entspannt ihn
 
+### --- [ OBJ > SBJ > Ø ] Reflexive experiencer --- {.unnumbered}
+
+### [ NA | –N ] *wissen + Partizip* Reflexive experiencer
+
+- Die Polizei umstellt mich. [ –NA ]
+- Ich bin umstellt. [ ––N ]
+- Er weiß, dass ich umstellt bin. [ N–N ]
+- Er weiß mich umstellt. [ N–A ]
+
+- Die Polizei umstellt mich. [ NA ]
+- Ich weiß mich umstellt. [ –N ]
+
+DWDS: "wissen sich #4 $p=VVPP"
+
+- Man wusste sich verstanden
+- Hugo wußte sich geliebt.
+- Er wußte sich von Gott geschaffen
+- Sie wusste sich umstellt.
+- Er weiß sich verfolgt und beobachtet.
+- Man weiß sich dabei nicht gesichert.
+- Sie wussten sich durch ihn gewahrt.
+- Sie wusste sich beschützt.
+
+### [ NA | –N ] *glauben + Partizip* Reflexive experiencer
+
+- Er glaubte sich verraten/zurückversetzt/verfolgt
+- Er glaubte sich benachteiligt.
+- Weil sie sich von ihrem Vater nicht geliebt glaubte, flüchtete Irmgard mit 17 Jahren trotzig zu den Diakonissinnen, um Krankenschwester zu werden. (DWDS:Leinemann, Jürgen, Dr Spiegel 09.05.1988, S.140)
+
+### [ NA | –N ] *sehen + Partizip* Reflexive experiencer
+
+- Ich sehe mich gezwungen/genötigt/gefoppt/verpflichtet, dass ...
+- Ich sehe mich bestätigt.
+- Ich sehe mich bestärkt durch viele Diskussionen und Privatmeinungen.
+
+- Er bestätigt mich. Ich sehe mich bestätigt.
+- Auch der Verwaltungsrath der »Steyrermühl« hat sich bemüssigt gesehen, einen Rechtfertigungsversuch wegen der von ihm begangenen Stempelentwendung zu unternehmen. (DWDS: Kraus, Karl, Die Fackel, 20.03.1900, S.9)
+
+### [ NA | –N ] *finden + Partizip* Reflexive experiencer
+
+nur mit "bestätigt"?
+
+- Er fand sich bestätigt.
+- Er fand sich bewogen, mir seinen Artikel zuzuschicken.
+- Sie fand sich genötigt, ja zu sagen.
+- Sie fanden sich in Debatten verwickelt.
+
+Die Zeit, 14.06.2010 (online)
+Es heißt, sie habe sich damals in einem Interview falsch zitiert gefunden.
+
 ## Diathesis with promotion to subject
 
-=> Besser mit modalverben (Leirbukt 2012)
+The four German verbs *wissen* 'to know', *glauben* 'to believe', *sehen* 'to see' and *finden* 'to find' (and apparently only those four) allow for a construction with a participle, reminiscent of the Latin *accusativus cum participio* construction. These constructions describe a subjective opinion of the nominative subject about the veracity of the participle. This opinion is marked as either less certain (*glauben, finden*) or more certain (*wissen, sehen*). This construction can be syntactically identified by the possibility to form an alternate expression with a finite complement clause with *dass* \Next.
 
-- Sie wollten in dem Interview ihren Namen nicht genannt sehen.
+\ex.
+ \a. Sie glaubt ihn eingeschlafen. (= Sie glaubt, dass er eingeschlafen ist.)
+ \b. Sie weiß ihn gut aufgehoben. (= Sie weiß, dass er gut aufgehoben ist.)
+
+The participles are mostly transitive verbs (like *aufgehoben* in \Last[b]) of which the original subject cannot be expressed in this construction. Only the accusative object remains. Yet, the construction is not a typical anticausative because the original object remains expressed as an accusative and is not promoted to a nominative. In a sense, the nominative subject is replaced with completely new participant, the 'opinionator', whose opinion is expressed in this construction.
+
+
+
+In identifying examples of this construction, care has to be taken with the verbs *finden* and *sehen*. With these verbs, it is indeed possible to express a subjective opinion \Next, just like with glauben *glauben* and *wissen* \Last. In testing for this construciont, note that the participle construction with *sehen* cannot directly be reformulated with a finite complement, but has to be replaced with something like *meinen* \Next[b]
+
+\ex.
+ \a. Er findet das Kunstwert gelungen. (= Er findet, dass das Kunstwerk gelungen ist.)
+ \b. Er sieht seinen Erfolg bedroht. (= Er meint, dass sein Erfolg bedroht ist.)
+
+However, the verbs *finden* and *sehen* also occur in a superficially very similar construction as exemplified in \Next, which actually have a completely different underlying structure. In these examples the verbs *finden* and *sehen* are used in their literal transitive meaning of finding/seeing an object. Additionally, the sentence is modified by a secondary predicate in the form of a participle [see @sec:participles-secondary-predicates].
+
+\ex.
+ \a. Sie findet ihn am Schreibtisch eingeschlafen. (= Sie findet ihn, während er am Schreibtisch eingeschlafen ist.)
+ \b. Er sieht die Buchstaben verzerrt. (= Er sieht die Buchstaben, aber die Buchstaben sind verzerrt.)
+
+As originally observed by Leirbukt [-@leirbukt2000], these constructions appear to be much more acceptable (and more frequent) when they are embedded inside a modal verb like *wollen* \Next. Leirbukt only discusses *wollen* and *sehen* and seems to have missed *glauben* and *finden*. He also discussed constructions with *haben* that are discussed here in [@sec:participles-haben-passive].
+
+\ex.
+ \a. ? Sie sahen ihre Namen nicht genannt in dem Interview.
+ \b. Sie wollten in dem Interview ihre Namen nicht genannt sehen.
+
+An
+
+\ex.
+ \a. ? Er wusste seinen Sohn auf der Schule verstanden.
+ \b. Er wusste sich verstanden.
 
 Both transitive and intransitive, but probably better all seen as derived from *sein+Partizip*
 
-### --- Intransitive experiencers --- {.unnumbered}
-
-### [ –N | NA ] *sehen + Partizip* Intransitive experiencer
-
-- Noch nie hatte er seinen Chef so abgemagert gesehen.
-- Indem ich hier die Vertreter von fast allen Staaten vereinigt sehe, sagt Redner, fühle ich mich lebhaft und tief bewegt. (DWDS: Autor unbekannt, Wiener Zeitung, 16.06.1907, S.12)
-
-intransitiv? Er sieht, dass sein Chef abgemagert ist.
-transitive mit secondary predication?: Er sieht seinen abgemagerten Chef.
-
-- auch hat mich noch niemand über der Bibel eingeschlafen gesehen (DWDS: Arnim, Bettina von: Goethe's Briefwechsel mit einem Kinde. Bd. 2. Berlin, 1835.)
+### --- [ Ø > SBJ > OBJ ] Intransitive experiencer --- {.unnumbered}
 
 ### [ –N | NA ] *wissen + Partizip* Intransitive experiencer
 
@@ -1201,6 +1274,12 @@ Unakkusativ Intransitiv?!
 - Als die Tochter des Hauses, die schon längst für Jean Pauls Romane schwärmte, ihn sicher eingeschlafen glaubte, trat sie leise ins Zimmer, um ihn recht nach Herzenslust zu betrachten. (DWDS: Parthey, Gustav: Jugenderinnerungen. Bd. 2. Berlin, [1871])
 - Hörte man ihn, man wunderte sich und glaubt ihn entschuldigt, Ja er hatte noch übriges Recht und vieles zu klagen. (DWDS: Goethe, Johann Wolfgang von: Reinecke Fuchs. In zwölf Gesängen. Berlin, 1794)
 
+### [ –N | NA ] *sehen + Partizip* Intransitive experiencer
+
+- Noch nie hatte er seinen Chef so abgemagert gesehen.
+- Indem ich hier die Vertreter von fast allen Staaten vereinigt sehe, sagt Redner, fühle ich mich lebhaft und tief bewegt. (DWDS: Autor unbekannt, Wiener Zeitung, 16.06.1907, S.12)
+- auch hat mich noch niemand über der Bibel eingeschlafen gesehen (DWDS: Arnim, Bettina von: Goethe's Briefwechsel mit einem Kinde. Bd. 2. Berlin, 1835.)
+
 ### [ –N | NA ] *finden +Partizip* Intransitive experiencer
 
 ???
@@ -1214,27 +1293,11 @@ secundary predicate: "er findet sie in Zustand X"
 - er hat sie an einem Fest nach reichlichem Weingenuß bei ihrem Herd so fest eingeschlafen gefunden.
 - Wenn Sie Silex seit langem zu den am meisten gesuchten Augenärzten zählen, so verdankt er dies einer Reihe von Eigenschaften, wie sie sich nur selten vereint finden. (DWDS: Berliner Tageblatt 18.03.19918, S.3)
 
-### --- Transitive experiencers --- {.unnumbered}
+## Diatheses with subject exchange
 
-### [ –NA | N–A ] *sehen + Partizip* Transitive experiencer
+### --- [ Ø > SBJ > Ø ] Transitive experiencer --- {.unnumbered}
 
-DWDS: "$p=VVPP sehen" && ! wollen && ! möchten && ! sich
-
-- Ich aber habe neuerlich bestätigt gesehen, was schon vor drei Wochen klar war
-- so brauchen diejenigen Mütter, welche ihre Kleinen gerne dem allgemeinen Gelächter preisgegeben sehen, wenig an deren Anzügen zu ändern
-- ... die beiden 80jährigen Männer, die jetzt alle Hoffnungen zu Grabe getragen sahen,
-- Sollten wir uns darin getäuscht sehen, so haben wir unsere Schuldigkeit gethan ...
-- Die Spannung erreichte ihren Höhepunkt, als ein neuer Denunziant, Diokleides, angab, er habe in der verhängnisvollen Nacht gegen 300 Leute im Theater versammelt gesehen [...] (DWDS: Meyer, Eduard: Geschichte des Altertums, Bd. IV,2. In: Geschichte des Altertums, Berlin: Directmedia Publ. 2001 [1901], S. 21225)
-
-- Er sah die Gefangenen eingespannt.
-- Ich sah den Himmel aufgetan.
-- wir haben ihn völlig erschöpft gesehen.
-
-DWDS: "$p=VVPP @gesehen"
-
-- *abgebildet, abgenommen, angezeigt, anvertraut, aufgebracht, aufgebrochen, aufgehoben, aufgelegt, aufgestellt, ausgestattet, ausgestellt, bedroht, bemüßigt, beschrieben, bestraft, bestätigt, bewogen, dargestellt, erfüllt, erprobt, erreicht, erschöpft, ersetzt, gebrochen, gedrängt, gefördert, gehend, gemalt, genötigt, geprüft, gerichtet, geschlossen, geschrieben, gesprüht, gestellt, gezwungen, geöffnet, hingewiesen, individualisiert, isoliert, kauend, konfrontiert, möbliert, niedergeschlagen, plaudernd, umgewandelt, untergebracht, unterschieden, veranlasst, veranlaßt, verbannt, verdächtigt, vereinigt, vereint, verführt, vernichtet, verraten, versammelt, versetzt, verstimmt, verwirklicht, überquellend*
-
-### [ –NA | N–A ] *wissen + Partizip* Caretaker
+### [ –NA | N–A ] *wissen + Partizip* Transitive experiencer
 
 - Jemand hebt ihn auf [–NA]
 - Er ist gut aufgehoben. [––N]
@@ -1258,89 +1321,57 @@ Besser mit modalverben (Leirbukt 2012)
 - Der Premier hat die Ostgebiete dem Kontrollrat unterstellt gewusst.
 - Der Premier hat die Ostgebiete dem Kontrollrat unterstellt wissen wollen.
 
-### [ –NA | N–A ] *glauben + Partizip* Experiencer
+### [ –NA | N–A ] *glauben + Partizip* Transitive experiencer
 
 - Er glaubt den Ring verloren (Er glaubt, dass der Ring verloren ist)
 - Er glaubte den Sieg gekommen/erreicht
 - Er glaubte das Seil zerrissen
-- Weil sie sich von ihrem Vater nicht geliebt glaubte, flüchtete Irmgard mit 17 Jahren trotzig zu den Diakonissinnen, um Krankenschwester zu werden. (DWDS:Leinemann, Jürgen, Dr Spiegel 09.05.1988, S.140)
-### [ –NA | N–A ] *finden + Partizip* Experiencer
+
+### [ –NA | N–A ] *sehen + Partizip* Transitive experiencer
+
+DWDS: "$p=VVPP sehen" && ! wollen && ! möchten && ! sich
+
+- Ich aber habe neuerlich bestätigt gesehen, was schon vor drei Wochen klar war
+- so brauchen diejenigen Mütter, welche ihre Kleinen gerne dem allgemeinen Gelächter preisgegeben sehen, wenig an deren Anzügen zu ändern
+- ... die beiden 80jährigen Männer, die jetzt alle Hoffnungen zu Grabe getragen sahen,
+- Sollten wir uns darin getäuscht sehen, so haben wir unsere Schuldigkeit gethan ...
+- Die Spannung erreichte ihren Höhepunkt, als ein neuer Denunziant, Diokleides, angab, er habe in der verhängnisvollen Nacht gegen 300 Leute im Theater versammelt gesehen [...] (DWDS: Meyer, Eduard: Geschichte des Altertums, Bd. IV,2. In: Geschichte des Altertums, Berlin: Directmedia Publ. 2001 [1901], S. 21225)
+
+- Er sah die Gefangenen eingespannt.
+- Ich sah den Himmel aufgetan.
+- wir haben ihn völlig erschöpft gesehen.
+
+DWDS: "$p=VVPP @gesehen"
+
+- *abgebildet, abgenommen, angezeigt, anvertraut, aufgebracht, aufgebrochen, aufgehoben, aufgelegt, aufgestellt, ausgestattet, ausgestellt, bedroht, bemüßigt, beschrieben, bestraft, bestätigt, bewogen, dargestellt, erfüllt, erprobt, erreicht, erschöpft, ersetzt, gebrochen, gedrängt, gefördert, gehend, gemalt, genötigt, geprüft, gerichtet, geschlossen, geschrieben, gesprüht, gestellt, gezwungen, geöffnet, hingewiesen, individualisiert, isoliert, konfrontiert, möbliert, niedergeschlagen, plaudernd, umgewandelt, untergebracht, unterschieden, veranlasst, veranlaßt, verbannt, verdächtigt, vereinigt, vereint, verführt, vernichtet, verraten, versammelt, versetzt, verstimmt, verwirklicht, überquellend*
+
+### [ –NA | N–A ] *finden + Partizip* Transitive experiencer
 
 - Er fand die Haustür verriegelt. ??? Er findet, dass die Haustür verriegelt ist.
 - Du findest mich verändert? Du findest, dass ich verändert bin?
 
-### --- Reflexive experiencers --- {.unnumbered}
-
-### [ NA | –N ] *sehen + sich + Partizip* Reflexive experiencers
-
-- Ich sehe mich gezwungen/genötigt/gefoppt/verpflichtet, dass ...
-- Ich sehe mich bestätigt.
-- Ich sehe mich bestärkt durch viele Diskussionen und Privatmeinungen.
-
-- Er bestätigt mich. Ich sehe mich bestätigt.
-- Auch der Verwaltungsrath der »Steyrermühl« hat sich bemüssigt gesehen, einen Rechtfertigungsversuch wegen der von ihm begangenen Stempelentwendung zu unternehmen. (DWDS: Kraus, Karl, Die Fackel, 20.03.1900, S.9)
-
-### [ NA | –N ] *wissen + sich + Partizip*
-
-- Die Polizei umstellt mich. [ –NA ]
-- Ich bin umstellt. [ ––N ]
-- Er weiß, dass ich umstellt bin. [ N–N ]
-- Er weiß mich umstellt. [ N–A ]
-
-- Die Polizei umstellt mich. [ NA ]
-- Ich weiß mich umstellt. [ –N ]
-
-DWDS: "wissen sich #4 $p=VVPP"
-
-- Man wusste sich verstanden
-- Hugo wußte sich geliebt.
-- Er wußte sich von Gott geschaffen
-- Sie wusste sich umstellt.
-- Er weiß sich verfolgt und beobachtet.
-- Man weiß sich dabei nicht gesichert.
-- Sie wussten sich durch ihn gewahrt.
-- Sie wusste sich beschützt.
-
-### [ NA | –N ] *glauben + sich + Partizip*
-
-- Er glaubte sich verraten/zurückversetzt/verfolgt
-- Er glaubte sich benachteiligt.
-
-### [ NA | –N ] *finden + sich + Partizip*
-
-nur mit "bestätigt"?
-
-- Er fand sich bestätigt.
-- Er fand sich bewogen, mir seinen Artikel zuzuschicken.
-- Sie fand sich genötigt, ja zu sagen.
-- Sie fanden sich in Debatten verwickelt.
-
-
 Die Zeit, 15.02.2016 (online)
 Um die Sache zu prüfen, habe er im Urlaub mal einen Nacktbadestrand aufgesucht - und dort das Bild aus der Sauna bestätigt gefunden.
 
-Die Zeit, 14.06.2010 (online)
-Es heißt, sie habe sich damals in einem Interview falsch zitiert gefunden.
-
-### --- Causatives --- {.unnumbered}
+### --- [ Ø > SBJ > Ø ] Causative --- {.unnumbered}
 
 ### [ –NA | N–A ] *geben + Partizip* Performative causative
 
 - Jemand verliert den Ring [–NA] -> Der Ring ist verloren [––N] -> Er gibt den Ring verloren. [N–A]
+- Du kennst meine Absicht -> Meine Absicht ist (dir) bekannt -> Er gibt (dir) meine Absicht bekannt.
 
 **Attested Verbs**
 
-- verlieren
-
-**Notes**
-
-Also possible:
-
-- Du kennst meine Absicht -> Meine Absicht ist (dir) bekannt -> Er gibt (dir) meine Absicht bekannt.
+- *verlieren*
 
 ## Diatheses with object demotion
 
+Not Attested
+
 ## Diatheses with promotion to object
 
-## Object-to-object diatheses
+Not Attested
 
+## Diatheses with object exchange
+
+Not Attested
