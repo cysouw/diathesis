@@ -566,7 +566,7 @@ unmöglich?
 - Er hält seine Augen auf sie gerichtet. (Er hat seine Augen auf sie gerichtet.)
 - Er hält den Brief verborgen. (Er hat den Brief verborgen.)
 
-### [ NA | NA ] *lassen + Partizip*
+### [ NA | NA ] *lassen + Partizip* Transitive durative
 
 - Ich lasse die Tür geschlossen.
 - Ich lassen den Ferneher eingeschaltet.
