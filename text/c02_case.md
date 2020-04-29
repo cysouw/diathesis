@@ -592,7 +592,7 @@ This alternation is possibly best interpreted as the effect of two different met
 
 ### [ NA | DN ] Dative inverse
 
-I know of only a few verbs with this very special passive-like diathesis \Next[a,b]. There are a few more cases of this alternation with reflexive marking [see @sec:reflexive-sich-dative-passive]. Note that the alternant with the dative \Next[b] needs a very special adverbial, typically *nichts*, *was*, or *wenig* (negative polarity).
+I know of only a few verbs with this very special passive-like diathesis \Next[a,b]. There are a few more cases of this alternation with reflexive marking see [@sec:reflexive-sich-dative-passive]. Note that the alternant with the dative \Next[b] needs a very special adverbial, typically *nichts*, *was*, or *wenig* (negative polarity).
 
 \ex.
  \a. Der Arbeiter nutzt den Hebel.
