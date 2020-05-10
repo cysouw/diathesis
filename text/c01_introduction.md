@@ -79,11 +79,11 @@ drop is named "antipassive" in [@scheibl2006: 372-373] and antipassive is called
 
 ---
 
-Subject:
+Subject (SBJ):
 
 N = Nominative case
 
-Objects:
+Objects (OBJ):
 
 A = Accusative case
 D = Dative case
@@ -91,28 +91,36 @@ G = Genitive case
 P = Lexically governed preposition
 L = Obligatory location
 
-Minor role expressions:
+Adjuncts/Minor role expressions (ADJ):
 
 a = Accusative reflexive argument
 d = Dative reflexive argument
 g = Adnominal genitive
 p = Non-governed preposition
-- = Unexpressed role
+
+Zero (Ø):
+
+– = Unexpressed role
+
+---
 
 Definition of "Subject" and "Object":
 
 - Subject is a nominative constituent with person agreement with the finite verb.
 - Objects are all case-marked governed constituents and governed prepositional phrases and obligatory constituents. 
 
----
+----
+
+- isolated diathesis: only one participant changes its form
+- chained diathesis: two participant change form, with (at least) one marking being exchanged
+- multi-chained diathesis: more than two
+- disjunct diathesis: two (or more) participants change form, no overlap between marking
 
 Generalisation: Subject-diatheses are almost all chained
 Generalisation: disjunct diatheses are very unusual overall
 
-- isolated diathesis: only one participant changes its form
-- chained diathesis: two participant change form, with (at least) one marking being exchanged
 
-double chained? 
+- mulit-chained
 
 ADJ > SBJ > OBJ > Ø, see [@sec:preverb-inverted-passive-accusative-loss]
 
@@ -120,6 +128,11 @@ ADJ > SBJ > OBJ > Ø, see [@sec:preverb-inverted-passive-accusative-loss]
  \a. Ich erbe das Haus von meinem Vater.
  \b. Mein Vater enterbt mich.
 
+OBJ > ADJ > SBJ > Ø, see [@sec:prepositions-ingredient-anticausative]
+
+\ex.
+ \a. Ich schmecke Pfefferminze in der Suppe.
+ \b. Die Suppe schmeckt nach Pfefferminze
 
 - disjunct diathesis: 
 
@@ -135,12 +148,6 @@ ADJ > SBJ > OBJ > Ø, see [@sec:preverb-inverted-passive-accusative-loss]
  \a. Ich deute den Traum. 
  \b. Der Traum deutet auf nichts Gutes. 
 
-[@sec:prepositions-ingredient-anticausative]
-
-\ex.
- \a. Ich schmecke Pfefferminze in der Suppe.
- \b. Die Suppe schmeckt nach Pfefferminze
-
 [@sec:prepositions-naming-result]
 
 \ex.
@@ -155,19 +162,11 @@ This is a productive diathesis!
  \a. Ich schwitze.
  \b. Ich schwitze einen Fleck in meinem Hemd.
 
-[@sec:preverb-inverted-passive-accusative-loss]
-
-\ex.
- \a. Ich erbe das Haus von meinem Vater.
- \b. Mein Vater enterbt mich.
-
 [@sec:preverb-double-applicative]
 
 \ex.
  \a. Ich schweige zu dir über meinen Besuch.
  \b. Ich verschweige dir meinen Besuch.
-
-
 
 ---
 
