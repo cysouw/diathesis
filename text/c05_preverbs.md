@@ -465,7 +465,7 @@ By adding a prefix, some intransitive verbs like *enden* 'to end' obtain an extr
 
 **Attested Verbs**
 
-- beˈ-  : *leben, enden*
+- beˈ-  : *atmen, leben, enden*
 - verˈ- : *heiraten, brennen*
 - zerˈ- : *knirschen*
 - ˈan-  : *brutzeln, treiben*
@@ -477,6 +477,7 @@ By adding a prefix, some intransitive verbs like *enden* 'to end' obtain an extr
 - Die Bremsen knirschen. Ich zerknirsche die Steine.
 - Der Braten brutzelt im Ofen. Ich habe den Braten angebrutzelt.
 - Die Wrackteile treiben im Wasser. Der Sturm treibt die Wrackteile an
+- Das Kind atmet. Ich beatme das Kind.
 
 **Notes**
 
@@ -1031,7 +1032,7 @@ Lipka [-@lipka1972: 93, 173] calls this diathesis 'Objektvertauschung' and McInt
 
 **Attested Verbs**
 
-- beˈ-  : *atmen, schummeln, zaubern*
+- beˈ-  : *schummeln, zaubern*
 - erˈ-  : *leben, leuchten, lügen, morden, schnüffeln, schwindeln, wandern*
 - verˈ- : *dösen, gammeln, pennen, petzen, schlafen, schweigen, schwitzen, speisen, träumen, trödeln, wackeln, zaubern*
 - entˈ- : *gehen, kommen, wachsen, zaubern*
@@ -1040,7 +1041,6 @@ Lipka [-@lipka1972: 93, 173] calls this diathesis 'Objektvertauschung' and McInt
 
 **Examples**
 
-- Ich atme. Ich beatme das Kind.
 - Ich gehe. Ich entgehe dem Urteil.
 - Ich schlafe (während der Vorlesung). Ich verschlafe die Vorlesung
 - Sie zaubert. Sie verzaubert mich.
@@ -1324,6 +1324,8 @@ The dative can probably always be interpreted as the possessor of the accusative
 - Ich denke an den Plan. Ich denke mir den Plan aus.
 
 ### [ NPp | NAD ] Preverb applicative + dative applicative {#sec:preverb-double-applicative}
+
+Ist das wirklich möglich???
 
 \ex.
  \a. Ich schweige zu dir über meinen Besuch.
