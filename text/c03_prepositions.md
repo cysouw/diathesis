@@ -297,7 +297,7 @@ With verbs like *abhängen* the nominative can be dropped, and a valency-simulat
 **Examples**
 
 - Der Platz wimmelt von Kindern. Hier wimmelt es von Kindern. 
-- Ich kommme zu einem harmlosen Ergebnis. Gestern kam es zu einem Streit.
+- Ich komme zu einem harmlosen Ergebnis. Gestern kam es zu einem Streit.
 
 **Notes**
 
