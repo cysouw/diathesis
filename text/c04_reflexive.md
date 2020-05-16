@@ -2,7 +2,7 @@
 
 ## Introduction
 
-When using the grammatical term \textsc{reflexive} a distinction has to be made between the 'self-inflicting' \textsc{reflexive construction} and the \textsc{reflexive pronoun}. The reflexive pronoun is easily identified in the third person as *sich*. One of the uses of this reflexive pronoun is as part of the reflexive construction to mark the identity of two different roles of the verb \Next[a,b]. Crucially, in such a reflexive construction \Next[b] with a verb like *waschen* 'to wash' there are still two different roles expressed in the sentence (the 'washer' and the 'washee'). The reflexive pronoun in \Next[b] only indicates that the two roles are filled by the same participant, opposing it to \Next[a] in which the two roles are filled by different participants. There is no reduction of the valency in this construction and thus there is no diathesis here. 
+When using the grammatical term \textsc{reflexive} a distinction has to be made between the 'self-inflicting' \textsc{reflexive construction} and the \textsc{reflexive pronoun}. The reflexive pronoun is easily identified in the third person as *sich*. One of the uses of this reflexive pronoun is as part of the reflexive construction to mark the identity of two different roles of the verb \Next[a,b]. Crucially, in such a 'self-inflicting' reflexive construction \Next[b] with a verb like *waschen* 'to wash' there are still two different roles expressed in the sentence (the 'washer' and the 'washee'). The reflexive pronoun in \Next[b] only indicates that the two roles are filled by the same participant, opposing it to \Next[a] in which the two roles are filled by different participants. There is no reduction of the valency in this construction and thus there is no diathesis here. 
 
 \ex.
  \a. Er wäscht ihn.
@@ -16,32 +16,32 @@ Besides the function of marking the 'self-inflicting' reflexive construction, th
  \c. Ich beklage den Lärm.
  \d. Ich beklage mich über den Lärm.
 
-There are also various verbs for which any reflexive alternation is lost and only the option with a reflexive pronoun is retained. Such 'obligatorily reflexive' verbs are not very common, but clearly attested \Next.
+There are also various verbs for which any reflexive alternation is lost and only the option with a reflexive pronoun is retained. Such 'obligatorily reflexive' verbs are not very common, but clearly attested \Next, see [@sec:reflexive-deponent].
 
 \ex.
  \a. Die S-Bahn hat sich wieder einmal verspätet.
  \b. Ich habe mir eine neue Sprache angeeignet.
 
-Amidst the large variety of constructions with reflexive pronouns, there are a few generalisations that stand out:
+Amidst the large variety of constructions with reflexive pronouns, there are a few generalizations that stand out:
 
-\ex. All diatheses with reflexive pronouns are valency reducing alternations.
+\ex. All diatheses with reflexive pronouns are valency reducing alternations. (Counterexamples in [@sec:reflexive-accusative-to-nominative])
 
-\ex. All diatheses with reflexive pronouns exclusively use the accusative reflexive pronoun, never the dative.
+\ex. All diatheses with reflexive pronouns exclusively use the accusative reflexive pronoun, never the dative. (Counterexamples in [@sec:reflexive-genitive-passive-dative])
 
-\ex. For almost all obligatory reflexive verbs, dative reflexive pronouns are only possible when an accusative argument is present.
+\ex. For almost all obligatory reflexive verbs, dative reflexive pronouns are only possible when an accusative argument is present. (Counterexamples in [@sec:reflexive-obligatory-dative])
+
+\ex. For most self-inflicting reflexive constructions, dative reflexive pronouns are only possible when an accusative argument is present. (Counterexamples in [@sec:reflexive-self-dative; @sec:reflexive-self-dative-location])
 
 ## Characteristics of reflexive pronouns
 
 ### Identifying reflexive pronouns
 
-In most situations, the German reflexive pronouns are identical to the regular pronouns as shown in [@tbl:reflexive-pronouns]. Only in the 3rd person dative and accusative there exists a special reflexive pronoun *sich*. For this reason, I will illustrate reflexive constructions mostly using 3rd person masculine nouns or pronouns with the overtly reflexive pronoun *sich*. In this chapter, I will often use the word *sich* as a technical term in the meaning 'reflexive pronoun' as an abbreviation.
+In most situations, the German reflexive pronouns are identical to the regular pronouns as shown in [@tbl:reflexive-pronouns]. Only in the 3rd person there exists a special reflexive pronoun *sich*, both for the singular and the plural. For this reason, I will illustrate reflexive constructions mostly using 3rd person masculine nouns or pronouns with the overtly reflexive pronoun *sich*. In this chapter, I will often use the word *sich* as a technical term in the meaning 'reflexive pronoun' as an abbreviation. The difference between a dative and an accusative reflexive pronoun is only visible in the 1st and 2nd person singular.
 
-| Case       | 1st person | 2nd person | 3rd person    |
-| ---        | ---        | ---        | ---           |
-| Nominative | ich        | du         | er, sie       |
-| Genitive   | meiner     | deiner     | seiner, ihrer |
-| Dative     | mir        | dir        | **sich**      |
-| Accusative | mich       | dich       | **sich**      |
+| Case       | 1 Sing. | 2 Sing. | 3 Sing.    | 1 Plur. | 2 Plur. | 3 Plur.    |
+| ---        | ---     | ---     | ---        | ---     | ---     | ---        |
+| Dative     | *mir*   | *dir*   | ***sich*** | *uns*   | *euch*  | ***sich*** |
+| Accusative | *mich*  | *dich*  | ***sich*** | *uns*   | *euch*  | ***sich*** |
 
 Table: German reflexive pronouns {#tbl:reflexive-pronouns}
 
@@ -94,7 +94,7 @@ As already seen in the previous example \Last, three coreferents are also possib
  \b. Ich schreibe Gedichte, weil ich mich mir selbst erklären will.
  \c. Sie will sich sich selbst erklären.
 
-## Deponent verbs without alternations
+## Deponent verbs without alternations {#sec:reflexive-deponent}
 
 A small group of verbs obligatorily needs a reflexive pronoun coreferencing the nominative subject. Very probably, such verbs originally also allowed constructions without this obligatory coreferencing *sich* pronoun, but for some reason that usage without *sich* got out-of-use. In various cases this ongoing development can be observed in current German, for example in cases in which the coreferencing usage \Next[a], \NNext[a] appear to be more frequent compared to the non-coreferencing usage \Next[b,c], \NNext[b].
 
@@ -295,7 +295,7 @@ Accusative *sich* combined with an obligatory genitive argument is clearly attes
 
 ### --- Obligatory dative reflexive pronouns --- {.unnumbered}
 
-### [ N ] Obligatory dative reflexive
+### [ N ] Obligatory dative reflexive {#sec:reflexive-obligatory-dative}
 
 It is exceedingly rare to have a dative *sich* without other arguments. A possible example is the (arguably lexicalized) collocation *Mühe geben*.
 
@@ -349,18 +349,6 @@ The verb *abquälen* has two rather different meanings. Only the meaning 'to wor
 \ex.
  \a. Ich muss mir jede Zeile abquälen. ('erarbeiten')
  \b. Ich habe mich mit der Arbeit abgequält. ('plagen')
-
-### [ NG ] Obligatory dative reflexive + genitive
-
-This pattern is exceedingly rare.
-
-**Attested Verbs**
-
-- *bewusst sein*
-
-**Examples**
-
-- Ich bin mir keines Vergehens bewusst.
 
 ### --- Diatheses of obligatory *sich* verbs --- {.unnumbered}
 
@@ -629,7 +617,7 @@ The verb *stoßen* 'to push' has an interesting change in preferred prepositiona
  \d. Er stößt mich an die Wand.
  \e. Ich stosse mich in die Tiefe meiner Finsternis, um meine Finsternis zu erkennen. (http://bluemountain.princeton.edu/bluemtn/?a=d&d=bmtnabg19231201-01.2.2&, accessed 10 January 2019)
 
-### [ ND | Nd ] Self-inflicting dative reflexive
+### [ ND | Nd ] Self-inflicting dative reflexive {#sec:reflexive-self-dative}
 
 Verbs with a dative argument (see Section X) can often be used reflexively, although such usage often has a rather poetic or humorous touch to it \Next[a-c]. The verbs listed here can surely be extended when (even) more poetic freedom is allowed. However, this construction does not appear to be very frequent.
 
@@ -781,7 +769,7 @@ Because Genitive arguments are rare overall, there are also only very few exampl
 - Ich behaupte immer nur gutes über dich. Er behauptet immer nur gutes über sich.
 - Er hat einen Topf neben ihm hingestellt. Er hat einen Topf neben sich hingestellt.
 
-### [ NLD | NLd ] Self-inflicting dative reflexive + location
+### [ NLD | NLd ] Self-inflicting dative reflexive + location {#sec:reflexive-self-dative-location}
 
 Dative experiencers stemming from possessor raising (see [@sec:prepositions-possessor-of-location-to-dative-experiencer]) can also be self-inflicting \Next[a,b], leading to possible dative reflexive pronouns \Next[c].
 
@@ -852,11 +840,12 @@ The scope of this section is very similar to Wiemer & Nedjalkov [-@wiemer2007], 
 
 ### [ ND | Nd ] Dative reciprocal
 
-Because a reciprocal is necessary plural subject, the difference between an accusative or dative reciprocal is not visible.
+Because a reciprocal is necessary plural subject, the difference between an accusative or dative reciprocal is not visible. Although there are verbs with dative arguments that can be used reciprocally, this cannot occur in the 1st or 2nd person singular, which are the only circumstances in which a difference between dative and accusative is overtly marked.
 
 \ex.
  \a. Karl vertraut dem Jungen.
- \b. Karl und der Junge vertrauen sich.
+ \b. Karl und der Junge vertrauen sich (gegenseitig).
+ \c. Wir vertrauen uns (gegenseitig).
 
 **Attested Verbs**
 
@@ -1205,7 +1194,7 @@ The verb *sich verabschieden* \Next[a] might also be thought of as an antipassiv
 
 Reflexive diatheses are not used for promotion of arguments. The diathesis presented below is probably best be seen as a diachronic quirk, showing that every linguistic generalization can be overruled by incidental developments of language change.
 
-### [ AP | NP ] Reflexive accusative-to-nominative
+### [ AP | NP ] Reflexive accusative-to-nominative {#sec:reflexive-accusative-to-nominative}
 
 These alternations are ongoing replacements of old-fashioned constructions. The presence of a reflexive pronoun can probably best be interpreted as a side-effect of the old accusative being supplemented by a new nominative.
 
@@ -1254,12 +1243,17 @@ Both the alternants in \Next are very old-fashioned.
 
 - Das Geschenk erfreut mich. Ich erfreue mich bester Gesundheit.
 
-### [ ND | GN ] Reflexive genitive passive + dative-to-nominative
+### [ ND | GN ] Reflexive genitive passive + dative-to-nominative {#sec:reflexive-genitive-passive-dative}
 
-Es gab wohl mal ein verb *bewissen* ("Ich bewisse mir des Problemes" ??? Keine Beispiele gefunden)
+There used to be a reflexive verb *bewissen* in Early New High German, but only the construction with the participle is still in use. The non-reflexive construction \Next[a] is probably a later addition. As a synchronic diathesis this alternation is a rare example of a dative reflexive without accusative.
 
-- Das Problem ist mir bewusst. [ND]
-- Ich bin mir keiner Schuld bewust. [GN + dative sich]
+\ex.
+ \a. Das Problem ist mir bewusst.
+ \b. Ich bin mir keiner Schuld bewust.
+
+**Attested Verbs**
+
+- *bewusst sein*
 
 ## Diatheses with object demotion
 
