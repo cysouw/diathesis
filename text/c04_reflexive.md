@@ -8,7 +8,9 @@ When using the grammatical term \textsc{reflexive} a distinction has to be made 
  \a. Er wäscht ihn.
  \b. Er wäscht sich.
 
-Besides the function of marking the 'self-inflicting' reflexive construction, the reflexive pronoun is used in various diatheses in German, for example anticausative \Next[a,b], see [@sec:reflexive-anticausative] or antipassive \Next[c,d], see [@sec:reflexive-accusative-antipassive]. In these sentences, the reflexive pronoun *sich* is not filling any role, but is marking the valency alternation. There is a long tradition to call such constructions \textsc{middle}. However, there turn out to be very many different kinds of 'middle' alternations, so I prefer to be more precise in naming them here.
+From a typological perspective, there is arguably a difference in this respect between languages with a pronoun strategy, like German, and languages that use a verbal derivation technique for marking 'self-inflicting' reflexive constructions [@dixon2014: 172ff.]. For languages with verbal derivation it is probably preferable to analyze 'self-inflicting' reflexive constructions as a kind of diathesis. 
+
+Although German does not show diathesis for the 'self-inflicting' reflexive construction, the reflexive pronoun is used in various diatheses in German, for example anticausative \Next[a,b], see [@sec:reflexive-anticausative] or antipassive \Next[c,d], see [@sec:reflexive-accusative-antipassive]. In these sentences, the reflexive pronoun *sich* is not filling any role, but is marking a valency alternation. There is a long tradition to call such constructions \textsc{middle}. However, there turn out to be very many different kinds of 'middle' alternations, so I prefer to be more precise in separating and naming them here in this chapter.
 
 \ex.
  \a. Ich schließe den Schrank.
