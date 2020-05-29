@@ -628,6 +628,12 @@ Verbs with a dative argument (see Section X) can often be used reflexively, alth
  \b. Ich antworte mir dann mal selber.
  \c. Ich gleiche mir nicht einen Augenblick. (DWDS: Goethe: Schertz, List und Rache) \footnote{The accusative *einen Augenblick* is not a governed argument, but a temporal quantified object, see [@sec:case-quantified-objects].}
 
+Note: also possible with "free" datives?
+
+\ex.
+ \a. Ich baue ihm ein Haus. 
+ \b. Er baut sich ein Haus.
+
 **Attested Verbs**
 
 - *antworten, begegnen, gefallen, gleichen, helfen, missfallen, schaden, etc.*

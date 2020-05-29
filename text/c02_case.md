@@ -809,11 +809,14 @@ I have tried to separate in this chapter between the demotion of an object (anti
 
 ### [ – | A ] Accusative addition without nominative {#sec:case-accusative-addition-without-nominative}
 
-A few of the verbs that allow for the nominative to be absent (see [@sec:case-nominative-addition]) can have an accusative object without a nominative, although this possibility seems to be strongly limited to weather phenomena \Next[a,b].
+A few of the verbs that allow for the nominative to be absent (see [@sec:case-nominative-addition]) can have an accusative object without a nominative, although this possibility seems to be strongly limited to weather phenomena \Next[a,b] and is often used metaphorically \NNext.
 
 \ex.
  \a. Im Jahre 1932 hagelte es einen Schauer neuer Gesetze.
  \b. Gestern hat es riesengroße Körner gehagelt.
+
+\ex.
+ \a. Es schneit Absagen
 
 **Attested Verbs**
 
