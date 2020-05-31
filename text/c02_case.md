@@ -621,26 +621,37 @@ Bare antipassives, i.e. the removal of an accusative object, is a well-known phe
  \b. Ich esse gerne.
  \c. Ich esse von dem Apfel.
 
-All such prepositional antipassives (see Section \ref{prepositions-sec-accusative-antipassive}) also seem to allow a bare antipassive expression, so they will not be repeated here. Also, there are verbs with an accusative and a dative argument \Next[a] that allow both to be dropped \Next[b,c]. These are also discussed elsewhere (see Section \ref{prepositions-sec-dative-antipassive-accusative}) and will not be repeated here.
+All such prepositional antipassives, see [@sec:prepositions-accusative-antipassive] also seem to allow a bare antipassive expression, so they will not be repeated here. Also, there are verbs with an accusative and a dative argument \Next[a] that allow both to be dropped \Next[b,c]. These are also discussed elsewhere, see [@sec:prepositions-dative-antipassive-accusative] and will not be repeated here.
 
 \ex.
  \a. Ich backe dir einen Kuchen.
  \b. Ich backe einen Kuchen.
  \c. Ich backe gerade.
 
-What is left over is just an apparently very small group of transitive verbs that allow for the accusative to be dropped – and not allow for a (free) dative, nor for a prepositional antipassive. These verbs are formally similarly to verbs that allow for an accusative to be added (see [@sec:case-accusative-addition]). The only difference between these two classes is a (rather vague) semantic intuition about whether the intransitive or the transitive meaning is more 'basic'.
+Adverbials
+
+\ex.
+ \a.    Ich sehe das Haus.
+ \b. \? Ich sehe.
+ \c.    Ich sehe gut.
+
+light verb constructions make it easier to drop? focus on activity/capability
+
+
+
+
+What is left over is just an apparently very small group of transitive verbs that allow for the accusative to be dropped – and not allow for a (free) dative, nor for a prepositional antipassive. These verbs are formally similarly to verbs that allow for an accusative to be added, see [@sec:case-accusative-addition]. The only difference between these two classes is a (rather vague) semantic intuition about whether the intransitive or the transitive meaning is more 'basic'.
 
 **Attested Verbs**
 
-- *angreifen, feiern, nerven, rechnen, regieren, stören, studieren, wählen, zählen*
+- *angreifen, feiern, nerven, regieren, stören, studieren, wählen*
 
 **Examples**
 
-- Er zählt die Stimmen. Er zählt leise vor sich hin.
-- Er hat die Aufgabe im Kopf gerechnet. Meine Tochter rechnet gerne.
-- Du störst die Veranstaltung. Du störst.
-- Er regiert das Land. Die Vernunft regiert.
+- Du störst die Veranstaltung. Du störst hier.
+- Er regiert das Land. Die Vernunft regiert hier.
 - Er studiert den Fahrplan. Er studiert von früh bis abends.
+- Der deutsche Staatssekretär nervt den malischen Minister. Er nervt.
 
 ### [ NAA | NA– ] Accusative drop + accusative {#sec:case-double-accusative-drop}
 
@@ -906,6 +917,7 @@ For some verbs, the dative is an alternative expression of the possessor of the 
 - ? Mein Kopf schwindelt. Mir schwindelt der Kopf.
 - Mein Krug bricht. Mir bricht der Krug.
 - Mein Kopf raucht. Mir raucht der Kopf.
+
 **Notes**
 
 Coreference ("reflexive double marking") is possible \Next[a], but in the third person this does not lead to a reflexive pronoun *sich* \Next[b,c]:
@@ -922,7 +934,7 @@ It might seem that bare causative verbs like *abbrennen*, see [@sec:case-sein-ca
  \b. Mein Haus brennt ab.
  \c. Mein Haus brennt dir ab.
 
-### [ NAg | NAD ] Possessor-of-accusative to dative experiencer
+### [ NAg | NAD ] Possessor-of-accusative to dative experiencer {#sec:case-possessor-accusative-to-dative}
 
 A widespread dative alternation is the so-called possessor-dative raising. More specifically, in ditransitive datives, the dative can be reformulated as the possessor of the accusative \Next[a,b].
 

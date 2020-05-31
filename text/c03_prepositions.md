@@ -44,7 +44,13 @@ As a general rule (with some exceptions with *für* and *durch* to be discussed 
  \c. Der König wartet, während er auf seinem alten Thron sitzt.
  \d. Der König wartet auf seinem alten Thron auf seinen neuen Thron.
 
-Some prepositional phrases without the *da+PREPOSITION, dass* paraphrasis still have a special status as arguments of a verb, namely when they can be substituted by a case-marked constituent. This is typical for antipassive alternations like \Next[a], in which the accusative role *den Bären* can alternatively be expressed by a prepositional phrase *auf den Bären* (with a difference in affectedness of the object, see [@sec:prepositions-accusative-antipassive]). Note that in this situation the prepositional phrase cannot be replaced by a *darauf, dass* phrase. Not all prepositional phrases allow such an alternation, notably most local expressions do not \Next[b]. However, there are also some distinctly local expressions that allow for an antipassive alternation \Next[c].
+The possibility of a *da+Preposition, dass* construction has a parallel in question constructions with *wo(r)+Preposition* \Next[a]. The local interpretation is questioned with a bare questionword *wo* \Next[b]
+
+\ex.
+ \a. Worauf wartet der König?
+ \b. Wo wartet der König?
+
+Some prepositional phrases without the *da+PREPOSITION, dass* paraphrasis still have a special status as an argument-like role of a verb, namely when they can be substituted by a case-marked constituent. This is typical for antipassive alternations like \Next[a], in which the accusative role *den Bären* can alternatively be expressed by a prepositional phrase *auf den Bären* with a difference in affectedness of the object, see [@sec:prepositions-accusative-antipassive]. Note that in this situation the prepositional phrase cannot be replaced by a *darauf, dass* phrase. Not all prepositional phrases allow such an alternation, notably most local expressions do not \Next[b]. However, there are also some distinctly local expressions that allow for an antipassive alternation \Next[c].
 
 \ex.
  \a. Ich schieße auf den Bären. Ich schieße den Bären. 
