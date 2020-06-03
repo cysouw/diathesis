@@ -930,18 +930,18 @@ see [@sec:prepositions-manner-of-movement]
 Verbs of caused location (see [@sec:prepositions-haben-caused-location]) like *stecken* 'to put into' \Next[a] cannot be used without the locative preposition \Next[b]. In contrast, with the prefix *ver-* the verb *verstecken* 'to hide' can be used both with and without the locative \Next[c,d].
 
 \ex.
- \a. Ich stecke das Geschenk in den Schrank.
- \b. * Ich stecke das Geschenk.
- \c. Ich verstecke das Geschenk in dem Schrank.
- \d. Ich verstecke das Geschenk.
+ \a.    Ich stecke das Geschenk in den Schrank.
+ \b. \* Ich stecke das Geschenk.
+ \c.    Ich verstecke das Geschenk in dem Schrank.
+ \d.    Ich verstecke das Geschenk.
 
 The diathesis is quite widespread with other resultative constructions \Next.
 
 \ex.
- \a. Der Wind weht hart.
- \b. Der Wind weht die Blätter von den Dächern.
+ \a.    Der Wind weht hart.
+ \b.    Der Wind weht die Blätter von den Dächern.
  \c. \* Der Wind weht die Blätter.
- \d. Der Wind verweht die Blätter.
+ \d.    Der Wind verweht die Blätter.
 
 **Attested Verbs**
 
@@ -952,7 +952,7 @@ The diathesis is quite widespread with other resultative constructions \Next.
 - ˈunter- : *binden*
 - ˈab-    : *hängen, legen, reißen*
 - ˈein-   : *schenken, stecken*
-- ˈaus-   : *pusten, reißen, spucken, ziehen*
+- ˈaus-   : *graben, pusten, reißen, spucken, ziehen*
 - ˈzu-    : *stellen*
 - ˈauf-   : *setzen*
 - ˈan-    : *kleben, treiben, spülen*
@@ -981,16 +981,15 @@ The diathesis is quite widespread with other resultative constructions \Next.
 - Ich treibe die Pferde auf die Wiese. Ich treibe die Pferde an.
 - Die Wellen spülen Muscheln auf den Strand. Die Wellen spülen Muscheln an.
 - Ich schenke den Wein in das Glas. Ich schenke den Wein ein.
+- Ich grabe den Schatz aus den Boden. Ich grabe den Schatz aus.
 
 ### --- [ ADJ > OBJ > Ø ] Antiresultative --- {.unnumbered}
 
 ### [ NLA | NA– ] Preverb applicative + accusative drop {#sec:preverb-location-antiresultative}
 
-
-
 Note: very similar to applicative+antipassive, though here antipassive to zero?
 
-Similar to "leer-"
+Similar to adverbials like "leer-"
 
 \ex.
  \a. Ich presse den Saft aus der Zitrone.
@@ -1291,11 +1290,13 @@ durch : *fahren, fließen, laufen* ???
 
 - über   : *denken, plaudern, lachen*
 - an     : *arbeiten, denken*
+- nach   : *graben*
 
 - Ich plauderte über mein Geheimnis. Ich plauderte das Geheimnis aus.
 - Ich denke an/über den Plan. Ich denke den Plan aus.
 - Ich arbeite an dem Plan. Ich arbeite den Plan aus.
 - Ich lache über dich. Ich lache dich aus.
+- Ich grabe nach den Schatz. Ich grabe den Schatz aus.
 
 #### *'zu-* Applicative
 

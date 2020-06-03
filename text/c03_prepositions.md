@@ -1266,7 +1266,7 @@ This construction is closely related to adjectival resultative secondary predica
 - Bodily Action: *heulen, husten, klopfen, pusten, spucken, stampfen*
 - Bodily Process: *schlafen, schwitzen*
 - Weather Verbs: *regnen, wehen*
-- Others: *klingeln, schwindeln*
+- Others: *graben (aus), klingeln, schwindeln*
 
 **Examples**
 
@@ -1281,6 +1281,7 @@ This construction is closely related to adjectival resultative secondary predica
 - Ich schwitze einen Fleck in meinem Hemd.
 - Er klingelt mich aus dem Bett.
 - Er schwindelt ihn auf die Liste.
+- Sie gräbt das Frühstück aus dem Rucksack.
 - Das allgemeine politische Klima weht den Illegalen ins Gesicht. (Die Zeit, 30.07.2010)
 - Der Zeitgeist weht den üblichen Akustikschrott in die Besucherohren. (Die Zeit, 08.03.1996)
 - Die frische Brise kämmt die Palmen und weht den Flugsand auf die Promenade. (Die Zeit, 04.05.1990)
@@ -1310,7 +1311,7 @@ Similar to intransitive resultatives (see [@sec:prepositions-intransitive-locati
 
 **Attested Verbs**
 
- - *befehlen, dirigieren, hetzen, jagen, ziehen*
+ - *befehlen, dirigieren, graben, hetzen, jagen, ziehen*
 
 **Examples**
 
@@ -1318,6 +1319,7 @@ Similar to intransitive resultatives (see [@sec:prepositions-intransitive-locati
 - Der Bauer hat den Pflug gezogen. Ich habe den Faden durch das Nadelöhr gezogen.
 - Ich jage den Hund. Ich jage den Hund aus dem Zimmer.
 - Ich hetze den Hund. Ich hetze den Hund auf dich.
+- Ich grabe ein Loch. Die Skifahrer gruben Spuren in den Schnee.
 
 ### [ NA– | NAP ] Performative result
 
