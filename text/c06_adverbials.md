@@ -19,13 +19,13 @@ Adverbials are defined here strictly syntactical as a word or phrase that modifi
  \c. Deshalb ist das Flugzeug gelandet.
  \d. Das Flugzeug ist ebenfalls gelandet.
 
-There are some special context in which some of these adverbs can be used to modify noun phrases, but apparently only post-nominal \Next[a,b], a position that cannot be taken by adjectives \Next[c], but seems to be related to the position of relative clauses \Next[d].
+There are some special context in which some of these adverbs can be used to modify noun phrases, but apparently only post-nominal \Next[a,b], a position that cannot be taken by adjectives \Next[c], but seems to be related to the position of modifying prepositional phrases \Next[d].
 
 \ex. 
  \a.    Das Flugzeug dort finde ich schöner. 
  \b.    Das Flugzeug gestern fand ich schöner.
  \c. \* Das Flugzeug große fand ich schöner.
- \d.    Das Flugzeug, das gerade landet, finde ich schöner.
+ \d.    Das Flugzeug mit den großen Fenster finde ich schöner.
 
 Except for adverbs there are many other kinds of expressions that can fill the syntactic role of adverbial, like prepositional phrases \Next[a], quantified objects \Next[b], see [@sec:case-quantified-objects}], or adverbial clauses \Next[c]. Adjectives (and adjectival verbforms like participles) are also frequently used in adverbial function as discussed in the next sections.
 
@@ -98,9 +98,9 @@ The most frequent resultative adjectival predicates in German are *leer-, voll-,
 Some verbs have obligatory manner adverbial arguments \Next[a,b], called "Artergänzung" by Engelen [-@engelen1986: 140]. In some special situations the adverbial can be left out, but only with a subsequent strong evaluative implication. For example, with *aussehen* 'to look/appear' without an adverbial \Next[c] there is a strong negative implication that somebody looks bad. In contrast, with a verb like *sitzen* 'to fit', the omission of the manner adverb implicates a positive fit \NNext[a,b]. Note that negation also can function syntactically as a manner adverbial in this context \NNext[c].
 
 \ex.
- \a. \* Er sieht aus.
- \b. Er sieht gut aus.
- \c. Er sieht aber aus!
+ \a.    Er sieht gut aus.
+ \b. \* Er sieht aus.
+ \c.    Er sieht aber aus!
 
 \ex.
  \a. Der Mantel sitzt gut.
@@ -121,19 +121,19 @@ Some verbs have obligatory manner adverbial arguments \Next[a,b], called "Arterg
 The verb *sich benehmen* 'to behave' needs an adverbial constituent to describe how to behave \Next[a,b], except in imperatives \Next[c] and in some light verb constructions \Next[d], both of which have a conversational implicature of 'good' behavior. Note that there is a completely different meaning of *benehmen* without reflexive *sich*, meaning 'to deprive of' \Next[e].
 
 \ex.
- \a. \* Ich benehme mich.
- \b. Ich benehme mich anständig.
- \c. Benimm dich!
- \d. Ich weiß mich nicht zu benehmen.
- \e. Der Schreck benimmt ihm den Atem.
+ \a.    Ich benehme mich anständig.
+ \b. \* Ich benehme mich.
+ \c.    Benimm dich!
+ \d.    Ich weiß mich nicht zu benehmen.
+ \e.    Der Schreck benimmt ihm den Atem.
 
 The verbs *sich verhalten* and *sich aufführen* 'to behave' similarly always needs an adverbial that indicates the kind of behavior \Next[a-d].
 
 \ex.
  \a. \* Ich verhalte mich.
- \b. Ich verhalte mich tapfer.
+ \b.    Ich verhalte mich tapfer.
  \c. \* Ich führe mich auf.
- \d. Ich führe mich wie ein Holzklotz auf.
+ \d.    Ich führe mich wie ein Holzklotz auf.
 
 **Attested Verbs**
 
@@ -149,9 +149,9 @@ The verbs *sich verhalten* and *sich aufführen* 'to behave' similarly always ne
 Some verbs allow for constructions with an possibly non-phoric *es* pronoun in the accusative, see [@sec:prepositions-nominative-es-preposition]. With some verbs in this construction a manner adverbial is also necessarily present \Next[a,b]. Without the manner adverbial the only possible interpretation of the pronoun *es* is phoric \Next[c].
 
 \ex.
- \a. Ich meine es ernst.
- \b. \*Ich meine ernst.
- \c. Ich meine es.  
+ \a.    Ich meine es ernst.
+ \b. \* Ich meine ernst.
+ \c.    Ich meine es.  
 
 **Attested Verbs**
 
@@ -241,11 +241,43 @@ The verbs *gehen*, see [@sec:adverbials-dative] and *langen*, see [@sec:case-pos
 
 ## Alternations without diathesis
 
+### Regular adverbials
+
 Manner adverbials are a regular part of German grammar. In all German sentences there are many different possibilities to add manner adverbials. In this chapter, I consider the addition of such an adverbial as a sort of alternation, which is arguably a stretch of the meaning of the term alternation. However, as will be shown in the next sections, there are actually various examples in which the addition of an adverbial induces a change in valency. Yet, it is of course extremely common to have such a diathesis without any change in valency. That is actually the 'normal' situation, as illustrated in \Next.
 
 \ex.
  \a. Ich fahre nach Hause.
  \b. Ich fahre schnell nach Hause.
+
+### Adverbial reflexive resultative
+
+resultative meaning?
+
+governed preposition drop
+
+- Ich lache (über etwas). Ich lache mich tot/kaputt/schlapp
+- Ich spare (für etwas). Ich spare mich reich.
+- Ich arbeite (an etwas). Ich arbeite mich hoch.
+
+no governed preposition
+
+- Ich schlafe mich gesund. (Ich schlafe, und dadurch bin ich gesund)
+- Ich laufe mich glücklich.
+- Ich sitze mich wund.
+- Ich kaufe mich los/frei. (Also possible with accusative, but atypical: Ich kaufe den Gefangenen los.)
+
+With prepositions (metaphorical?)
+
+- Er lacht sich ins Fäustchen
+- Er redet sich in Rage.
+
+Nicht mit unakkusativ?
+
+- * Ich habe mich gesund eingeschlafen.
+- * Ich scheitere mich ...
+- * Ich sterbe mich ...
+- * Ich wachse mich groß.
+- * Der Zug ist sich gut angekommen.
 
 ## Diatheses with subject demotion
 
@@ -364,27 +396,40 @@ Not attested.
 
 ### -- Drops -- {.unnumbered}
 
-### [ NA | N– ] Action focus
+### [ NA | N– ] Adverbial action focus
 
-Is this possible with all verbs?
+Most transitive verbs can be used without an accusative object. However, with some verbs this drop comes easier than for others. Real 'ambitranstive' verbs that occur both as transitive and as intransitive, but without needing any extra marking in the intransitive, are discussed in [@sec:case-accusative-drop]. For many transitive verbs the drop of the accusative is only possible in an strict action-oriented focus, like as a reply to a question like "what are you doing just now?" In effect, this implies that such intransitive usage always needs an adverbial specification
 
-\ex,
+\ex.
  \a.    Ich sehe das Haus.
  \b. \? Ich sehe.
  \c.    Ich sehe gut.
 
-'ambitranstive' verbs that occur both as transitive and as intransitive, but without needing an adverbial in the intransitive, are discussed in [@sec:case-accusative-drop]
+\ex.
+ \a.    Ich lese ein Buch.
+ \b. \? Ich lese.
+ \c.    Morgen lese ich den ganzen Tag.
 
 **Attested Verbs**
 
+- *lesen, rechnen, sehen, zählen, zerstören*
+
 **Examples**
 
-- Er hat die Aufgabe im Kopf gerechnet. Meine Tochter rechnet gerne.
+- Du hast die Aufgabe falsch gerechnet. Meine Tochter rechnet gerne mit Brüchen.
 - Er zählt die Stimmen. Er zählt leise vor sich hin.
+- Die Kinder zerstören die Sandburg. Kinder zerstören gerne.
+
+### -- Antipassives -- {.unnumbered}
+
+### [ NA | Np ] Adverbial reflexive antipassive
+
+- Ich sehe das Gemälde. Ich sehe mich satt an dem Gemälde.
+- Ich esse die Bouletten. Ich esse mich satt an den Bouletten
 
 ### --- Antiresultatives --- {.unnumbered}
 
-### [ NAL | NA– ] Adverbial anti-location-as-result
+### [ NAL | NA– ] Adverbial antiresultative
 
 - los/fest- : (Verbs of connection) *binden, haken, klopfen, schnallen, schrauben*
 
@@ -398,17 +443,17 @@ Arbeiter klopfen die Pflastersteine in den Bürgersteig.
 \* Arbeiter klopfen die Pflastersteine.
 Arbeiter klopfen die letzten Pflastersteine fest. (DWDS: Bild, 28.04.2005)
 
+intransitive?
+
+- Der Junge rennt. Der Junge rennt los. Der losgerannte/*gerannte Junge.
+
 ## Diatheses with promotion to object
 
 ### --- Applicatives --- {.unnumbered}
 
-### [ N | N ] Adverbial unaccusative
-
-- Der Junge rennt. Der Junge rennt los. Der losgerannte/*gerannte Junge.
-
 ### [ Np | NA ] Adverbial applicative
 
-Frequent locational secondary predicates: *fest-, hoch-, los-, nieder-, weg-, wieder-, zurück-*
+Frequent locational secondary predicates: *hoch-, nieder-, weg-, wieder-, zurück-*
 
 With diathesis:
 
@@ -444,45 +489,6 @@ Und auch unter den Männern war mancher, der, vom Anblick des Jünglings bezwung
 - Ich kaufe ein Brot in dem Geschäft. Ich kaufe das Geschäft leer.
 - Ich schenke Wein in das Glas. Ich schenke das Glas (mit Wein) voll.
 - Er kauft den Gefangenen. Er kauft den Gefangenen frei.
-
-### --- Resultatives --- {.unnumbered}
-
-### [ N | N ] Adverbial reflexive resultative
-
-resultative meaning?
-
-governed preposition drop
-
-- Ich lache (über etwas). Ich lache mich tot/kaputt/schlapp
-- Ich spare (für etwas). Ich spare mich reich.
-- Ich arbeite (an etwas). Ich arbeite mich hoch.
-
-no governed preposition
-
-- Ich schlafe mich gesund. (Ich schlafe, und dadurch bin ich gesund)
-- Ich laufe mich glücklich.
-- Ich sitze mich wund.
-- Ich kaufe mich los/frei. (Also possible with accusative, but atypical: Ich kaufe den Gefangenen los.)
-
-With prepositions (metaphorical?)
-
-- Er lacht sich ins Fäustchen
-- Er redet sich in Rage.
-
-Nicht mit unakkusativ?
-
-- * Ich habe mich gesund eingeschlafen.
-- * Ich scheitere mich ...
-- * Ich sterbe mich ...
-- * Ich wachse mich groß.
-- * Der Zug ist sich gut angekommen.
-
-### [ NA | Np ] Adverbial reflexive resultative + antipassive
-
-resultative meaning
-
-- Ich sehe mich satt an der Aussicht.
-- Ich esse die Bouletten. Ich esse mich satt an den Bouletten
 
 ## Diatheses with object exchange
 
