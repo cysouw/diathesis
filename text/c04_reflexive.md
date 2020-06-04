@@ -127,7 +127,7 @@ Comparing these two groups, the generalization can be formulated that dative *si
 
 ### --- Obligatory accusative reflexive pronouns --- {.unnumbered}
 
-### [ N ] Obligatory accusative reflexive
+### [ N ] Obligatory accusative reflexive {#sec:reflexive-obligatory-accusative-reflexive}
 
 Various verbs describing behavior like *verirren* 'to get lost' \Next need an obligatory reflexive pronoun.
 
