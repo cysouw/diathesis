@@ -102,7 +102,7 @@ Even less common are verbs that obligatory need a non-governed local preposition
  \b. Der Unfall ereignete sich vor Sonnenuntergang.
  \c. \* Der unfall ereignete sich.
 
-### Comitative/intrumental *mit* and *ohne*
+### Comitative/intrumental *mit* and *ohne* {#sec:prepositions-comitative-intrumental}
 
 The prepositions *mit* and its negative counterpart *ohne* have a special status in German. With human participants they have a comitative interpretation \Next[a-c, questioned with *mit wem*], while with non-human participants an instrumental reading is provoked \Next[d-f, questioned with *womit*]. The comitative interpretation can be identified by the possibility to add *zusammen*, which is not possible with the instrumental reading \Next[c,f]. Both of these reading are non-governed prepositional phrases, as the *damit, dass* periphrasis is not possible.
 

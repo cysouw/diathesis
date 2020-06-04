@@ -205,11 +205,11 @@ The verb *abgeben* 'to give away' \Next[a] has a rather different meaning from *
 
 ### [ Np ] Obligatory accusative reflexive + *mit* preposition (real reciprocals)
 
-A special group of verbs in this class are verbs with an reciprocal *mit* preposition, like *einigen* 'to reach an agreement' \Next[a]. On first notice, the *mit* phrase might look like a comitative argument \Next[b]. Just like comitative phrases, reciprocal *mit* phrases are not governed prepositions \Next[c]. However, different from comitative phrases, reciprocal *mit* phrases do not allow for the addition of *zusammen* \Next[d]. Verbs with reciprocal *mit* are sometimes called "real reciprocals" [or "reciproca tantum", @wiemer2007: 467-468] because they can be considered to be inherently reciprocal, though they can have a singular subject (see [@sec:reflexive-accusative-reciprocal]ff. for the real reciprocal constructions with plural subjects).
+A special group of verbs in this class are verbs with an reciprocal *mit* preposition, like *einigen* 'to reach an agreement' \Next[a]. On first notice, the *mit* phrase might look like a comitative argument \Next[b]. Just like comitative phrases, reciprocal *mit* phrases are not governed prepositions \Next[c], see [@sec:prepositions-comitative-intrumental]. However, different from comitative phrases, reciprocal *mit* phrases do not allow for the addition of *zusammen* \Next[d]. Verbs with reciprocal *mit* are sometimes called "real reciprocals" [or "reciproca tantum", @wiemer2007: 467-468] because they can be considered to be inherently reciprocal, though they can have a singular subject (see [@sec:reflexive-accusative-reciprocal] for the real reciprocal constructions with plural subjects).
 
 \ex.
- \a. Ich habe mich mit meinem Nachbarn geeinigt.
- \b. Ich habe mich mit meinem Nachbarn betrunken.
+ \a.    Ich habe mich mit meinem Nachbarn geeinigt.
+ \b.    Ich habe mich mit meinem Nachbarn betrunken.
  \c. \* Ich habe mich damit geeinigt, dass der Nachbar geht.
  \d. \* Ich habe mich zusammen mit dem Nachbar geeinigt.
 
@@ -233,7 +233,7 @@ Various reciprocal *mit* verbs also exist without reflexive pronoun, but only in
 The verb *verklemmen* cannot be used in the singular mit *mit* but only reciprocally in the plural.
 
 \ex.
- \a. Die Zahnräder verklemmen sich.
+ \a.    Die Zahnräder verklemmen sich.
  \b. \* Das erste Zahnrad verklemmt sich mit dem nächsten.
 
 ### [ NL ] Obligatory accusative reflexive + local preposition
@@ -241,7 +241,7 @@ The verb *verklemmen* cannot be used in the singular mit *mit* but only reciproc
 A few verbs with obligatory *sich* additionally need an obligatory (adverbial) local prepositional phrase.
 
 \ex.
- \a. Das Rathaus befindet sich am Marktplatz.
+ \a.    Das Rathaus befindet sich am Marktplatz.
  \b. \* Das Rathaus befindet sich.
 
 **Attested Verbs**
