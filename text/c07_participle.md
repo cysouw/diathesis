@@ -109,7 +109,7 @@ Table: Possibilities of light-verb constructions with participles {#tbl:light-ve
 
 ### Participles as depictive secondary predicates {#sec:participles-secondary-predicates}
 
-Participles can be used as so-called depictive secondary predicates \Next[a]. In such sentences, the participle functions syntactically like an adverb in the sentence structure \Next[b]. The problem is that constructions like \Next[a] are highly similar to light verb constructions. For example, such constructions are likewise coherent \Next[c,d].
+Participles can be used as so-called depictive secondary predicates \Next[a]. In such sentences, the participle functions syntactically like an adverb in the sentence structure \Next[b]. The problem is that constructions like \Next[a] are highly similar to light verb constructions. For example, such constructions are likewise coherent \Next[c,d]. Yet, depictive secondary participles and participles in light verb construction have to be strictly separated.
 
 \ex.
  \a.    Er verkauft die Nägel gebogen.
