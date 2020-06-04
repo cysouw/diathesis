@@ -121,7 +121,7 @@ Some verbs do not need any argument at all, not even a nominative subject. These
 
 ### [ N ] Nominative {#sec:case-nominative}
 
-Some verbs only allow a Nominative argument, which necessarily also shows agreement with the finite verb. Such verbs are traditionally called 'intransitive'. The verbs discussed in this section are strictly intransitive, in that they do not allow for any other case marked arguments or governed prepositions (see Section \ref{prepositions-sec-delimiting-governed-prepositional-phrases}). Intransitive verbs, of course, allow for additional non-governed prepositional phrases, e.g. locational \Next[a] or temporal phrases \Next[b], instrumental/comitative phrases with *mit* \Next[c,d], or beneficiary/goal phrases with *für* \Next[e,f].
+Some verbs only allow a Nominative argument, which necessarily also shows agreement with the finite verb. Such verbs are traditionally called 'intransitive'. The verbs discussed in this section are strictly intransitive, in that they do not allow for any other case marked arguments or governed prepositions (see [@sec:prepositions-delimiting-governed-prepositional-phrases]). Intransitive verbs, of course, allow for additional non-governed prepositional phrases, e.g. locational \Next[a] or temporal phrases \Next[b], instrumental/comitative phrases with *mit* \Next[c,d], or beneficiary/goal phrases with *für* \Next[e,f].
 
 \ex.
  \a. Er reist immer in die Berge.
