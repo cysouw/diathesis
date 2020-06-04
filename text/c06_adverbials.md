@@ -2,16 +2,35 @@
 
 ## Introduction
 
-Result of alternation almost always leads to NA or Na (with reflexive).
+It might come as a surprise that adverbials play a role in valency and valency alternations. However, already on somewhat closer inspection it quickly becomes clear that there are various verbs that obligatorily need an adverbial complement, like *sich verhalten* 'to behave' \Next, arguing that adverbials has to be considered when determining the valency of verbs.
 
-- Er hält/macht den Tisch sauber. [@duden2009: 790]
-- Das Buch handelt von einem Verbrechen. Bei dem Fall handelt es sich um ein Verbrechen.
+\ex.
+ \a.    Ich verhalte mich tapfer.
+ \b. \* Ich verhalte mich.
+
+Yet, adverbials cast an even wider net as there are various diatheses that involve obligatory adverbials, like drops \Next[a], see [@sec:adverbial-reflexive-drop], anticausatives \Next[b], see [@sec:adverbial-reflexive-transitive-anticausative], applicatives \Next[c], see [@sec:adverbials-applicative] and antipassives \Next[d], see [@sec:adverbials-antipassive].
+
+\ex.
+ \a. Ich lebe hier. Hier lebt es sich gut.
+ \b. Ich fahre den Lastwagen. Der Lastwagen fährt sich gut.
+ \c. Ich fische in den Teich. Ich habe den Teich leergefischt.
+ \d. Ich sehe das Gemälde. Ich sehe mich satt an dem Gemälde.
+
+The adverbial construction discussed in this chapter include two clearly different kind of adverbials, namely depictive secondary predicates \Next[a] and resultative secondary predicates \Next[b]. The syntactic structures and the valency alternations in which they appear turn out to be rather different, possibly warranting two different chapters. However, the current combination of these superficially similar constructions allows me to sharpen the distinction and investigate similarities and differences.
+
+\ex.
+ \a. Ich habe meine Hose schnell gekauft.
+ \b. Ich habe den Laden leer gekauft.
+
+Depictive secondary predicates are typically manner adverbials. They appear in valency-reducing diatheses, typically resulting in intransitive constructions as a result. This behaviour draws obvious parallels with reflexive diatheses. However, it remain unclear to me whether there is a deeper connection between reflexive and adverbial diatheses or whether this parallel is a superficial side effect of some other syntactic properties.
+
+Resultative secondary predicates arguably form a new verb together with the main predicate, i.e. *leer* and *kaufen* form a new verb *leerkaufen* in which the first part *leer-* is separable, just like with prepositional preverbs ('Partikelverben' in German grammar, see [@sec:preverbs-prefixes-particles]). Similar to the generalisation with preverbs (see [@sec:preverbs-always-accusative]), diatheses with resultative secondary predicates almost always lead to transitive constructions with a nominative and an accusative argument (or alternatively an accusative reflexive). This parallellism reinforces the impression that resultative adverbs should probably better be considered together with preverbs as discussed in the previous chapter.
 
 ## Delimiting adverbial arguments
 
 ### Adverbials and adverbs
 
-Adverbials are defined here strictly syntactical as a word or phrase that modifies the main predicate of a sentence. When such an adverbial consists of a single word that cannot be used in other syntactic functions, then such a word is called an \textsc{adverb}. There exist an arguably rather small class of such purely adverbial words in German with restricted semantic possibilities, namely local, e.g. *hier, oben, dort* \Next[a], temporal, e.g. *gestern, später, immer* \Next[b], causal, e.g. *deshalb, dennoch, folglich* \Next[c] and modal, e.g. *ebenfalls, fast, ganz* \Next[d].
+Adverbials are defined here strictly syntactically as a word or phrase that modifies the main predicate of a sentence. When such an adverbial consists of a single word that cannot be used in other syntactic functions, then such a word is called an \textsc{adverb}. There exist an arguably rather small class of such purely adverbial words in German with restricted semantic possibilities, namely local, e.g. *hier, oben, dort* \Next[a], temporal, e.g. *gestern, später, immer* \Next[b], causal, e.g. *deshalb, dennoch, folglich* \Next[c] and modal, e.g. *ebenfalls, fast, ganz* \Next[d].
 
 \ex.
  \a. Das Flugzeug ist dort gelandet.
@@ -27,16 +46,20 @@ There are some special context in which some of these adverbs can be used to mod
  \c. \* Das Flugzeug große fand ich schöner.
  \d.    Das Flugzeug mit den großen Fenster finde ich schöner.
 
-Except for adverbs there are many other kinds of expressions that can fill the syntactic role of adverbial, like prepositional phrases \Next[a], quantified objects \Next[b], see [@sec:case-quantified-objects}], or adverbial clauses \Next[c]. Adjectives (and adjectival verbforms like participles) are also frequently used in adverbial function as discussed in the next sections.
+Except for adverbs there are many other kinds of expressions that can fill the syntactic role of adverbial, like prepositional phrases \Next[a], quantified objects \Next[b], see [@sec:case-quantified-objects}], or adverbial clauses \Next[c]. Also negation \Next[d] and comparison phrases \Next[e] are syntactically highly similar to adverbials. For example, various verbs that obligatorily need an adverbial alternatively allow a negation or comparison phrase to fill the necessary adverbial slot (see e.g. [@sec:adverbials-nominative]).
 
 \ex.
  \a. Das Flugzeug ist auf der Wiese gelandet.
  \b. Das Flugzeug ist jeden Tag gelandet.
  \c. Das Flugzeug ist gelandet, weil der Tank leer war.
+ \d. Das Flugzeug ist nicht gelandet.
+ \e. Das Flugzeug ist wie eine Feder gelandet.
+
+Adjectives (and adjectival verbforms like participles, see [@sec:participles-secondary-predicates]) are also frequently used in adverbial function as discussed in the next sections.
 
 ### Adjectives as depictive secondary predicates
 
-Given the right context, all German adjectives like *klein* can be used as depictive secondary predicates, i.e. they can be used syntactically both as adjectives \Next[a] and as adverbs \Next[b]. 
+Given the right context, all German adjectives like *klein* can be used as \textsc{depictive} secondary predicates, i.e. they can be used syntactically both as adjectives \Next[a] and as adverbs \Next[b]. 
 
 \ex.
  \a. Das kleine Kind ist geboren.
@@ -49,7 +72,7 @@ Depending on the context and their placement inside the sentence, such depictive
  \b. Ich habe meine Hose müde gekauft.
  \c. Ich habe meine Hose schnell gekauft.
 
-Adverbs, i.e. single-word adverbials that cannot function as adjectives, only allow for the modification of the predicate. For example, a pure adverb like *gestern* cannot describe any characteristic of the nominative subject or accusative object \Next.
+Adverbs, i.e. single-word adverbials that cannot function as adjectives, only allow for the modification of the predicate. For example, a pure adverb like *gestern* cannot describe any characteristic of the nominative subject or accusative object. For example, in \Next. the adverb *gestern* can only refer to the action *kaufen*, not to the subject *ich* or the object *Hose*.
 
 \ex. Ich habe meine Hose gestern gekauft.
 
@@ -62,7 +85,7 @@ There is a different \textsc{resultative} construction with adjectival adverbs t
  \b. Ich habe den Laden, der ganz leer war, gekauft.
  \c. Ich habe Artikel im Laden gekauft, bis der Laden leer war.
 
-There are various differences between the depictive \Last[b] and resultative \Last[c] interpretation. First, the accusative object in the resultative interpretation \Last[c] is a completely new role for the main lexical verb *kaufen*. The addition of such a new role can lead to the appearance of new accusative constituents for otherwise 'intransitive' verbs like *fischen* 'to fish' or *niesen* 'to sneeze \Mext[a,b].
+There are various differences between the depictive \Last[b] and resultative \Last[c] interpretation. First, the accusative object in the resultative interpretation \Last[c] is a completely new role for the main lexical verb *kaufen*. The addition of such a new role can lead to the appearance of new accusative constituents for otherwise 'intransitive' verbs like *fischen* 'to fish' or *niesen* 'to sneeze \Next[a,b].
 
 \ex.
  \a. Ich habe den Teich leer gefischt.
@@ -82,7 +105,7 @@ In contrast, with depictive adjectives there is no problem with adding verb part
  \a. Sie kauft die Nägel krum ein.
  \b. Ich habe mein Fahrrad grün angestrichen.
 
-The most frequent resultative adjectival predicates in German are *leer-, voll-, tot-, fest-* [@eisenberg2013: 322-323], but many others are also attested \Next[a-c], e.g. *stillschweigen, fertigstellen, vollquatschen, festschrauben, plattlaufen*. Additionally, a datives from raised possessors are often possible \Next[b], see [@sec:case-possessor-accusative-to-dative], including subsequent reflexive constructions \Next[c].
+The most frequent resultative adjectival predicates in German are *leer-, voll-, tot-, fest-* [@eisenberg2013: 322-323], but many others are also attested \Next[a-c], e.g. *stillschweigen, fertigstellen, vollquatschen, festschrauben, plattlaufen*. Additionally, a datives from raised possessors are often possible \Next[b], see [@sec:case-possessor-accusative-to-dative], including subsequent reflexive constructions \Next[c].\footnote{The Duden grammar [-@duden2009: 790] presents *Er hält/macht den Tisch sauber* as examples of resultative secondary predicate constructions. However, these examples are probably better analysed as adjectival predicates with light verbs *halten/machen*, cf. [@sec:participles-adjectives-light-verb-constructions].}
 
 \ex.
  \a. Er niest das Taschentuch voll.
@@ -91,9 +114,9 @@ The most frequent resultative adjectival predicates in German are *leer-, voll-,
 
 ## Deponent verbs without alternations
 
-### --- Verb with obligatory manner adverbial --- {.unnumbered}
+### --- Verb with obligatory depictive adverbial --- {.unnumbered}
 
-### [ N ] Nominative + manner adverbial {#sec:adverbials-nominative}
+### [ N ] Nominative + adverbial {#sec:adverbials-nominative}
   
 Some verbs have obligatory manner adverbial arguments \Next[a,b], called "Artergänzung" by Engelen [-@engelen1986: 140]. In some special situations the adverbial can be left out, but only with a subsequent strong evaluative implication. For example, with *aussehen* 'to look/appear' without an adverbial \Next[c] there is a strong negative implication that somebody looks bad. In contrast, with a verb like *sitzen* 'to fit', the omission of the manner adverb implicates a positive fit \NNext[a,b]. Note that negation also can function syntactically as a manner adverbial in this context \NNext[c].
 
@@ -116,7 +139,7 @@ Some verbs have obligatory manner adverbial arguments \Next[a,b], called "Arterg
 - Ich bleibe wachsam/ruhig
 - Sein Zeugnis ist schlecht ausgefallen.
 
-### [ N ] Nominative + accusative *sich* + manner adverbial
+### [ N ] Nominative + accusative *sich* + adverbial
 
 The verb *sich benehmen* 'to behave' needs an adverbial constituent to describe how to behave \Next[a,b], except in imperatives \Next[c] and in some light verb constructions \Next[d], both of which have a conversational implicature of 'good' behavior. Note that there is a completely different meaning of *benehmen* without reflexive *sich*, meaning 'to deprive of' \Next[e].
 
@@ -124,7 +147,7 @@ The verb *sich benehmen* 'to behave' needs an adverbial constituent to describe 
  \a.    Ich benehme mich anständig.
  \b. \* Ich benehme mich.
  \c.    Benimm dich!
- \d.    Ich weiß mich nicht zu benehmen.
+ \d.    Ich weiß mich zu benehmen.
  \e.    Der Schreck benimmt ihm den Atem.
 
 The verbs *sich verhalten* and *sich aufführen* 'to behave' similarly always needs an adverbial that indicates the kind of behavior \Next[a-d].
@@ -144,7 +167,7 @@ The verbs *sich verhalten* and *sich aufführen* 'to behave' similarly always ne
 - Er gibt sich jovial.
 - Ich verhalte mich abwartend.
 
-### [ N ] Nominate + accusative *es* + manner adverbial
+### [ N ] Nominate + accusative *es* + adverbial
 
 Some verbs allow for constructions with an possibly non-phoric *es* pronoun in the accusative, see [@sec:prepositions-nominative-es-preposition]. With some verbs in this construction a manner adverbial is also necessarily present \Next[a,b]. Without the manner adverbial the only possible interpretation of the pronoun *es* is phoric \Next[c].
 
@@ -162,7 +185,7 @@ Some verbs allow for constructions with an possibly non-phoric *es* pronoun in t
 - Ich meine es gut mit dir.
 - Wir haben es gut.
 
-### [ NP ] Nominative + governed preposition + manner adverbial
+### [ NP ] Nominative + governed preposition + adverbial
 
 Both the manner adverbial and the governed preposition cannot be left out with *halten* 'to think of' \Next.
 
@@ -175,7 +198,7 @@ Both the manner adverbial and the governed preposition cannot be left out with *
 
 - *halten*
 
-### [ NA ] Nominative + accusative + manner adverbial
+### [ NA ] Nominative + accusative + adverbial
 
 Both the manner adverbial and the accusative argument cannot be left out with *stimmen* 'to raise the atmosphere' \Next.
 
@@ -192,7 +215,7 @@ Both the manner adverbial and the accusative argument cannot be left out with *s
 
 - Er findet den Stuhl gut.
 
-### [ ND ] Nominative + dative + manner adverbial
+### [ ND ] Nominative + dative + adverbial
 
 The verb *bekommen* in the meaning 'to agree with someone' needs a dative and cannot be used without an adverbial \Next.
 
@@ -204,7 +227,7 @@ The verb *bekommen* in the meaning 'to agree with someone' needs a dative and ca
 
 - bekommen
 
-### [ D ] Dative + manner adverbial {#sec:adverbials-dative}
+### [ D ] Dative + adverbial {#sec:adverbials-dative}
 
 Because there is no nominative argument in this special construction with *gehen*, meaning 'to cope with life' \Next a non-phoric *es* pronoun is necessary. Note that the same meaning of *gehen* also occurs in other impersonal constructions, see [@sec:adverbials-nominative-drop] and the dative here seems to be some kind of 'free' dative. 
 
@@ -214,9 +237,9 @@ Because there is no nominative argument in this special construction with *gehen
 
 - *gehen*
 
-### --- Alternation with obligatory manner adverbials --- {.unnumbered}
+### --- Alternation with obligatory depictive adverbials --- {.unnumbered}
 
-### [ N | – ] Nominative drop + manner adverbial {#sec:adverbials-nominative-drop}
+### [ N | – ] Nominative drop + depictive adverbial {#sec:adverbials-nominative-drop}
 
 Some 'impersonal' verbs allow the presence or absence of a nominative subject \Next[a,b]. Whether this is better interpreted as the loss or the addition of an agent is unclear. The impersonal verbs in the current category need an additional manner adverbial, negation or *wie* comparison clause.
 
@@ -241,53 +264,107 @@ The verbs *gehen*, see [@sec:adverbials-dative] and *langen*, see [@sec:case-pos
 
 ## Alternations without diathesis
 
-### Regular adverbials
-
-Manner adverbials are a regular part of German grammar. In all German sentences there are many different possibilities to add manner adverbials. In this chapter, I consider the addition of such an adverbial as a sort of alternation, which is arguably a stretch of the meaning of the term alternation. However, as will be shown in the next sections, there are actually various examples in which the addition of an adverbial induces a change in valency. Yet, it is of course extremely common to have such a diathesis without any change in valency. That is actually the 'normal' situation, as illustrated in \Next.
+Depictive adverbials are a regular part of German grammar. In all German sentences there are many different possibilities to add depictive adverbials. In this chapter, I consider the addition of such an adverbial as a sort of alternation, which is arguably a stretch of the meaning of the term alternation. However, as will be shown in the next sections, there are actually various examples in which the addition of an adverbial induces a change in valency. Yet, it is of course extremely common to have such a diathesis without any change in valency. That is actually the 'normal' situation with depictive adverbials, as illustrated in \Next.
 
 \ex.
  \a. Ich fahre nach Hause.
  \b. Ich fahre schnell nach Hause.
 
-### Adverbial reflexive resultative
+### [ N | N ] Resultative adverbial reflexive intransitives
 
-resultative meaning?
+There is a special construction that apparently only exists for some intranstive verbs like *schlafen* 'to sleep' \Next[a]. The verb is combined with a reflexive pronoun and a resultative secondary predicate. The meaning of this construction approximately amounts to 'by performing the verb, the secondary predicate is achieved' \Next[b].
 
-governed preposition drop
+\ex.
+ \a. Ich schlafe mich gesund.
+ \b. Ich schlafe, und dadurch bin ich gesund.
 
-- Ich lache (über etwas). Ich lache mich tot/kaputt/schlapp
-- Ich spare (für etwas). Ich spare mich reich.
-- Ich arbeite (an etwas). Ich arbeite mich hoch.
+The intransitve verbs that allow this seem to be strongly related to the 'unergative' class of intransitive (see [@sec:participles-restrictions]), while typical 'unaccusative' intranstives are not possible in this construction.
 
-no governed preposition
+\ex.
+ \a. \* Ich habe mich gesund eingeschlafen.
+ \b. \* Ich scheitere mich reich.
+ \c. \* Ich sterbe mich tot.
+ \d. \* Ich wachse mich groß.
+ \e. \? Der Zug ist sich gut angekommen.
 
-- Ich schlafe mich gesund. (Ich schlafe, und dadurch bin ich gesund)
+When the combination of adverbial and verb is considered to be a new lexicalized predicate (i.e. *totlachen, hocharbeiten*), then these predicates would be obligatorily reflexive (alike to the verbs in [@sec:reflexive-obligatory-accusative-reflexive]).
+
+**Attested Verbs**
+
+- *arbeiten, lachen, laufen, reden, schlafen, sitzen, sparen*, etc.
+
+**Examples**
+
+- Ich lache mich tot/kaputt/schlapp
+- Ich spare mich reich.
+- Ich arbeite mich hoch.
 - Ich laufe mich glücklich.
-- Ich sitze mich wund.
-- Ich kaufe mich los/frei. (Also possible with accusative, but atypical: Ich kaufe den Gefangenen los.)
 
-With prepositions (metaphorical?)
+### [ N | N ] Resultative adverbial intransitives
 
-- Er lacht sich ins Fäustchen
-- Er redet sich in Rage.
+Different from the verbs in the previous class, some intransitive verbs like *rennen* 'to run' allow for a secondary predicate without any other structural changes, resulting for example in *losrennen* 'to start running' \Next. I consider this to be resultative secondary predicates because to the parallelism to the applicative diathese in [@sec:adverbials-applicative].
 
-Nicht mit unakkusativ?
+\ex.
+ \a. Der Junge rennt.
+ \b. Der Junge rennt los.
 
-- * Ich habe mich gesund eingeschlafen.
-- * Ich scheitere mich ...
-- * Ich sterbe mich ...
-- * Ich wachse mich groß.
-- * Der Zug ist sich gut angekommen.
+An additional affect of this alternation is that the unergative *rennen* becomes an unaccusative *losrennen* \Next, see also [@sec:participles-restrictions].
+
+\ex.
+ \a. Der Junge hat gerannt. \* Der gerannte Junge.
+ \b. Der Junge ist losgerannt. Der losgerannte Junge.
+
+**Attested Verbs**
+
+- *lachen, laufen, reden*
+
+**Examples**
+
+- Er redet/lacht los.
+- Der Eimer läuft leer/voll.
+- Ich springe weg.
+
+### [ NA | NA ] Resultative adverbial transitives
+
+**Examples**
+
+- Der Händler kauft die Sklaven.
+- Der Händler kauft die Sklaven frei.
 
 ## Diatheses with subject demotion
 
-### --- Anticausatives --- {.unnumbered}
+### -- [ SBJ > Ø ] Drop -- {.unnumbered}
 
-### [ Np | –N ] Adverbial instrument anticausative
+### [ N | – ] Depictive adverbial reflexive intransitive drop {#sec:adverbial-reflexive-drop}
+
+Many intransitives allow for a dropping of the nominative with a obligatory reflexive pronoun *sich* and an obligatory adverbial. Because of the dropped nominative there is an obligatory non-phoric *es* in such sentences \Next[a]. Such constructions seem to be possible with very many intransitives, though with some verbs, like *aufstehen* 'rise' it is of debatable grammaticality \Next[b]. More research is needed into the question which intransitive verbs do not allow this diathesis.
+
+\ex.
+ \a.    In der Gruppe lacht es sich besser.
+ \b. \? Am frühen morgen steht es sich schlecht auf.
+
+A very similar diathesis is attested with transitives, see [@sec:adverbial-reflexive-transitive-anticausative], but in that case the accusative is retained as a nominative (i.e. anticausative). Also note that connection between an intransitive drop and a transitive anticausative is strongly reminiscent of unaccusativity, see [@sec:participles-restrictions]. However, there does not seem to be an obvious match between unaccusative verbs and the verbs that allow for the current diathesis.
+
+**Attested Verbs**
+
+- almost all intransitives, with exceptions like *aufstehen, beginnen, stinken*
+
+**Examples**
+
+- Beim Kanufahren ertrinkt es sich leichter als bei der Aquarellmalerei.
+- Hier lebt es sich gut.
+- In diesem Saal tanzt es sich gut.
+
+### --- [ ADJ > SBJ > Ø ] Anticausative --- {.unnumbered}
+
+### [ Np | –N ] Depictive adverbial instrument anticausative
 
 Some verbs that have a typical instrument connected to the action allow for the instrument to be turned into the nominative subject, but only with the addition of an adverbial \Next.
 
-
+\ex.
+ \a.    Ich schneide mit einem Messer.
+ \b.    Das Messer schneidet gut.
+ \c. \? Das Messer schneidet.
 
 **Attested Verbs**
 
@@ -296,28 +373,18 @@ Some verbs that have a typical instrument connected to the action allow for the 
 **Examples**
 
 - Ich schreibe mit einem Füller. Der Füller schreibt gut.
-- Ich schneide mit einem Messer. Das Messer schneidet gut.
 
-### [ NA | –N ] Adverbial anticausative
+### --- [ OBJ > SBJ > Ø ] Anticausative --- {.unnumbered}
 
-A few verbs do not allow for the 'Zustandspassiv' with *sein* in the intransitive: *riechen, schmecken* \Next[a,b]. These are among the verbs with an experiencer subject that do not allow for a 'Zustandspassiv' (see Section X).
+### [ NA | –N ] Depictive adverbial anticausative
 
-Without adverb: positive with *schmecken*, negative with *riechen*
-
-A dative experiencer is possible "der Wein schmeckt mir gut". Is this a "dative passive"?
-
-\ex.
- \a. 
- \b. \* Der Rotwein ist geschmeckt.
- \c. Der Rotwein hat gut geschmeckt. 
+The verb *riechen* 'to smell' allows for an anticausative alternation \Next[a,b], but the intransitive obligatorily needs an adverbial. It is possible to leave out the adverbial, but then a strong negative entailment arises, i.e. without an adverbial the smell is bad \Next[c]. Interestingly, with *schmecken* 'to taste' the absence of an adverbial leads to a positive entailment \Next[d].
 
 \ex.
  \a. Ich rieche den Duft.
  \b. Der Duft riecht gut
-
-\ex.
- \a. Ich rieche den Müll. 
- \b. Der Müll riecht (schlecht).
+ \c. Der Müll riecht (schlecht).
+ \d. Das Essen schmeckt (gut).
 
 **Attested Verbs**
 
@@ -325,30 +392,9 @@ A dative experiencer is possible "der Wein schmeckt mir gut". Is this a "dative 
 
 **Examples**
 
-- Ich schmecke den Rotwein in der Soße. Der Rotwein schmeckt gut.
+- Ich schmecke den Rotwein in der Soße. Der Rotwein schmeckt (mir) gut.
 
-### [ N | – ] Adverbial reflexive intransitive anticausative
-
-Many intransitives allow for a dropping of the nominative with a obligatory reflexive pronoun *sich* and an obligatory adverbial. Because of the dropped nominative there is an obligatory non-phoric *es* in such sentences \Next[a]. Such constructions seem to be possible with very many intransitives, though with some verbs, like *aufstehen* 'rise' it is of debatable grammaticality \Next[b]. More research is needed into the question which intransitive verbs do not allow this diathesis.
-
-\ex.
- \a. In der Gruppe lacht es sich besser.
- \b. \? Am frühen morgen steht es sich schlecht auf.
-
-A very similar diathesis is attested with transitives, see [@sec:adverbial-reflexive-transitive-anticausative], but in that case the accusative is retained as a nominative (i.e. anticausative). Because of the similarity between these two alternations, this diathesis is also classified as an anticausative (and not as a simple drop). Also note that connection between an intransitive drop and a transitive anticausative is strongly reminiscent of unaccusativity, see [@sec:participles-restrictions]. However, there does not seem to be an obvious match between unaccusative verbs and the verbs that allow for the current diathesis.
-
-**Attested Verbs**
-
-- almost all intransitives, with exceptions like *aufstehen, beginnen, stinken*
-
-**Examples**
-
-- In der Gruppe lacht es sich besser.
-- Beim Kanufahren ertrinkt es sich leichter als bei der Aquarellmalerei.
-- Hier lebt es sich gut
-- In diesem Saal tanzt es sich gut
-
-### [ NA | –N ] Adverbial reflexive transitive anticausative {#sec:adverbial-reflexive-transitive-anticausative}
+### [ NA | –N ] Depictive adverbial reflexive anticausative {#sec:adverbial-reflexive-transitive-anticausative}
 
 Similar to the previous intransitive verbs, some transitive verbs allow for the drop of a nominative with obligatory reflexive and obligatory adverbial. With these verbs the result is an anticausative in which the original accusative is changed to a nominative \Next.
 
@@ -394,9 +440,9 @@ Not attested.
 
 ## Diatheses with object demotion
 
-### -- Drops -- {.unnumbered}
+### -- [ OBJ > Ø ] Drop -- {.unnumbered}
 
-### [ NA | N– ] Adverbial action focus
+### [ NA | N– ] Depictive adverbial action focus
 
 Most transitive verbs can be used without an accusative object. However, with some verbs this drop comes easier than for others. Real 'ambitranstive' verbs that occur both as transitive and as intransitive, but without needing any extra marking in the intransitive, are discussed in [@sec:case-accusative-drop]. For many transitive verbs the drop of the accusative is only possible in an strict action-oriented focus, like as a reply to a question like "what are you doing just now?" In effect, this implies that such intransitive usage always needs an adverbial specification
 
@@ -420,75 +466,81 @@ Most transitive verbs can be used without an accusative object. However, with so
 - Er zählt die Stimmen. Er zählt leise vor sich hin.
 - Die Kinder zerstören die Sandburg. Kinder zerstören gerne.
 
-### -- Antipassives -- {.unnumbered}
+### -- [ OBJ > ADJ ] Antipassive -- {.unnumbered}
 
-### [ NA | Np ] Adverbial reflexive antipassive
+### [ NA | Np ] Resultative adverbial reflexive antipassive {#sec:adverbials-antipassive}
+
+**Examples**
 
 - Ich sehe das Gemälde. Ich sehe mich satt an dem Gemälde.
 - Ich esse die Bouletten. Ich esse mich satt an den Bouletten
 
-### --- Antiresultatives --- {.unnumbered}
+### --- Antiresultative --- {.unnumbered}
 
-### [ NAL | NA– ] Adverbial antiresultative
+### [ NAL | NA– ] Resultative adverbial antiresultative
 
-- los/fest- : (Verbs of connection) *binden, haken, klopfen, schnallen, schrauben*
+Only with *los/fest-*? compare [@sec:preverb-transitive-antiresultative}].
 
-Ich binde den Hund an die Leine.
-\* Ich binde den Hund.
-Ich binde den Hund von der Leine los.
-Ich binde den Hund los.
+\ex.
+ \a. Ich binde den Hund an die Leine.
+ \b. \* Ich binde den Hund.
+ \c. Ich binde den Hund von der Leine los.
+ \d. Ich binde den Hund los.
 
-Ich klopfe auf deine Schulter.
-Arbeiter klopfen die Pflastersteine in den Bürgersteig.
-\* Arbeiter klopfen die Pflastersteine.
-Arbeiter klopfen die letzten Pflastersteine fest. (DWDS: Bild, 28.04.2005)
+**Attested Verbs**
 
-intransitive?
+- (Verbs of connection) *binden, haken, klopfen, schnallen, schrauben*
 
-- Der Junge rennt. Der Junge rennt los. Der losgerannte/*gerannte Junge.
+**Examples**
+
+- Die Arbeiter klopfen die Pflastersteine in den Bürgersteig. Die Arbeiter klopfen die letzten Pflastersteine fest. (DWDS: Bild, 28.04.2005)
 
 ## Diatheses with promotion to object
 
-### --- Applicatives --- {.unnumbered}
+### --- [ Ø > OBJ] Addition --- {.unnumbered}
 
-### [ Np | NA ] Adverbial applicative
+### [ N– | NA ] Resultative adverbial addition
 
-Frequent locational secondary predicates: *hoch-, nieder-, weg-, wieder-, zurück-*
+**Examples**
 
-With diathesis:
+- Der Hund bellt. Der Hund bellt die Kinder wach. [@duden2009: 791]
 
-*voll/leer-*
-*schön/gut/schlecht-*
-*hoch/nieder-*
+### --- [ ADJ > OBJ ] Applicative --- {.unnumbered}
 
-*weg/platt/nass/wund-*
+### [ Np | NA ] Resultative adverbial applicative {#sec:adverbials-applicative}
+
+Many different secondary predicates:
+
+- *hoch/nieder/weg/wieder/zurück-* (no adjectives!)
+- *voll/leer-*
+- *schön/gut/schlecht/platt/nass/wund/wach-*
+
+**Examples**
 
 - Ich habe in das Taschentuch geniest. Ich habe das Taschentuch voll geniest.
 - Ich habe in dem Teich gefischt. Ich habe den Teich leergefischt.
 - Ich rede über dein Benehmen. Ich rede dein Benehmen gut.
 - Ich quatsche mit ihm. Ich quatsche ihn voll.
 - Ich fische in dem Teich. Ich fische den Teich leer.
-- Ich rede über die Reise. Ich rede (mir) die Reise schön. (Er redet sich den Hals heiser/die Zunge lahm.)
+- Ich rede über die Reise. Ich rede (mir) die Reise schön.
 - Ich esse von den Teller. Ich esse den Teller leer.
-
-- Ich laufe auf meinen Schuhen. Ich laufe meine Schuhe platt.
+- Ich laufe auf meinen Schuhen. Ich laufe meine Schuhe platt/kaputt.
 - Das Publikum lachte über die DDR. Und ein ganzes Stadion lachte mal kurz die DDR weg.
 - Ich weine in das Taschentuch. Ich weine das Taschentuch nass.
 - Ich beiße auf meine Lippe. Ich beiße meine Lippe wund.
-
+- Ich sitze auf den Po. Ich sitze den Po wund.
 - Ich drehe an der Lautstärke. Ich drehe die Lautstärke hoch.
 - Ich diskutiere/boxe mit ihm. Ich diskutiere/boxe ihn nieder.
-
 - Ich bitte/bete um Vergebung. Ich bitte/bete den Gefangenen los.
 
-Klabund: Bracke. In: Deutsche Literatur von Lessing bis Kafka, Berlin: Directmedia Publ. 2000 [1918], S. 111741
-Und auch unter den Männern war mancher, der, vom Anblick des Jünglings bezwungen, dachte: Ist denn niemand, der ihn vom Galgen losbittet?
+### --- [ ADJ > OBJ > Ø ] Applicative --- {.unnumbered}
 
-### [ NpA | NA– ] Adverbial applicative + accusative drop
+### [ NpA | NA– ] Resultative adverbial applicative + accusative drop
+
+**Examples**
 
 - Ich kaufe ein Brot in dem Geschäft. Ich kaufe das Geschäft leer.
-- Ich schenke Wein in das Glas. Ich schenke das Glas (mit Wein) voll.
-- Er kauft den Gefangenen. Er kauft den Gefangenen frei.
+- Ich schenke den Wein in das Glas. Ich schenke das Glas voll.
 
 ## Diatheses with object exchange
 
