@@ -305,3 +305,11 @@ NDV | PNA
 - Das Buch ist in Lesung
 - Der Direktor ist in Besprechung (???)
 - Das Patent ist in Anwendung
+
+## Adnominale Sätze
+
+- 'um + zu + Infinitiv' Instrumental (Vliegen 2004)
+
+Der Lastwagen bringt das Holz / Der Lastwagen um das Holz zu bringen ist zu klein
+Ich male die Wand mit Farbe an / Die Farbe um (damit) die Wand anzumalen ist zu rot
+Material füllt das Loch / Material um das Loch zu füllen fehlte.
