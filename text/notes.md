@@ -28,29 +28,15 @@ Same Verb? Nice cases:
 - Er hängt an einem Seil. / Er hängt an seinem Teddy.
 - Der Zug kommt rechtzeitig an. / Mir kommt es auf die Einzelheiten an.
 
-A difficult problem is the question whether it is really the same verb that is used in two different alternating constructions. For example, the verb *trinken* 'to drink' is a regular transtive verb, but when used intransitivily, *er trinkt* 'he drinks', it has a clear implication that his drinking includes too much alcohol, so it might be better translated as 'he is an alcaholic'. In this case, this intransitive interpretation is probably best analysed as a conventional implicature, because the alcoholism aspect of the meaning can be suppressed given the right context.
+---
 
-In general, when the same lexical verb is used in different alternating constructions, then there is (of course) a difference in meaning between the two occurrences. However, ideally this difference is completely induced by the respective constructions and not by the lexical verb itself. Yet, it is extremely common for the combination of a lexical element with the surrounding construction to grammaticalise into a new meaning. For example, the verb 'auftreten' means something like 'to act' as an intransitive, but 'to kick open' as a transitive. Both meanings originate from the meaning 'to step on something (by foot)'. Likewise, historical processes can lead to current homophony of two different lexemes. This appears to be the case for example with the verb *abhauen*, which is a transitive verb meaning 'cut of' (e.g. *Er hat den Ast abgehauen*). However, it has attained another usage during the course of the 20th Century as an intransitive verb meaning 'run away' (e.g. *Er ist abgehauen*), probably based on a southern German dialectal meaning of *hauen* meaning 'to go, to walk'.
+Noun incorporation
 
-„hauen“, in: Wolfgang Pfeifer et al., Etymologisches Wörterbuch des Deutschen (1993), digitalisierte und von Wolfgang Pfeifer überarbeitete Version im Digitalen Wörterbuch der deutschen Sprache, https://www.dwds.de/wb/hauen, accessed 12.12.2018.
+German allows for wide variety of compounds, which are also used with high frequency. One type of such compounds is relevant for the discussion of diathesis, namely compounds of verbs with its object noun, e.g. 
 
-Inbetween those extremes (i.e. conventional implicature and different lexicalistion) there exist various intermediate phenomena. For example, the verb *hängen* 'to hang' can be used as a regular intransitive verb with a location, like *Er hängt an einem Seil* 'He dangles to a rope', but the specific combination with the preposition *an* can also have a special reading of 'being emotionally attached to something', like in *Er hängt an seinem Teddy* 'He is (emotionally) attached to his Teddy'. In this case it seems most appropriate to interpret the combination *hängen an* as a separate lexicalisation.
+'Rektionskompositum' Frauenkenner, Romanleser, Armenischlehrer, Konfliktbewältigung, Wetterbeobachtung
 
-As with all grammaticalisation processes, it is difficult to decide where to draw the line on the continuum between conventional implicature (*trinken*), metaphorical extension, contextual lexicalisation (*hängen an*) and completely different lexicalisation (*auftreten*, *abhauen*). I tend to be rather lenient in allowing different meanings to be included as the 'same' verb, but will excluded the latter two types on the continuum as separate lexicalisations of homophonous elements.
-
-
-Types of Diatheses:
-- Bare Flagging Alternations
-- Reflexives and Reciprocals
-- Light Verb Constructions (Participles / Infinitives)
-- Verbprefixes and Verbparticles
-- Deverbal Constructions (Adjectival / Nominal)
-- Complement Clauses
-- Other Constructions (Ablaut/Umlaut/Adjectives/Adverbs)
-
-Studies of individual alternations for individual verbs:
-
-- in Imo, Wolfgang. 2018. Valence Patterns, construction, and interaction: Constructs with the German verb *erinnern* ('remember'/'remind'). in Boas et al. *Constructional Approaches to Syntactic Structures in German*, Berlin: De Gruyter, 
+'Substantiv+Verb' e.g. seiltanzen
 
 ---
 
@@ -58,31 +44,10 @@ Reversal of Control in [@bech1974] Check also Bech 1955: §30
 
 ---
 
-Supinum (used in Bech 1955...)
+Complement clauses
 
-Aichinger (1754) reserves the term "partizipium" for unaccusative verbs, because they also occur as inflected adjectives! Clear defense in Aichinger (1775)
-
-Supinum is the (participle) form used as "verb" in analytic verb forms for all verbs.
-
-https://books.google.de/books?id=bJIpAAAAYAAJ&pg=PA627&lpg=PA627&dq=%22Dasjenige+Wort,+welches+ich+Supinum+nenne,%22&source=bl&ots=PwC4b8K3RI&sig=ACfU3U2mkO4_3iA3uxic1B39uRy2YHghmw&hl=en&sa=X&ved=2ahUKEwjy6ozNiNnmAhXHgVwKHfgcDEAQ6AEwAXoECAUQAQ#v=onepage&q=%22Dasjenige%20Wort%2C%20welches%20ich%20Supinum%20nenne%2C%22&f=false
-
-Im Beitrag Carl Friedrich Aichinger in „Neue Anmerkungen zum zwölften Stück des Schwäbischen Magazins 1775, Seiten 627, 628“[4] liest man: 
-
-"Dasjenige Wort, welches ich Supinum nenne, ist freilich von der Syntaxe nach dem lateinischen Supino weit unterschieden; der Formation nach aber demselben desto ähnlicher, massen das Participium praeteriti unmittelbar ja ausser Motion und Deklination ohne weitere Veränderung daraus gemacht ist. Doch es ist nicht das Participium selbst, weil es viele Verba gibt, die das Supinum, und doch kein Participium praeteriti haben. Gehuret, gehustet, gelebet, geschlafen u.d.g. sind keine Participii, weil sie ja weder der Motion noch Deklination fähig sind. Den Participiis aber kommt beides zu. Überdieses sind die französischen Grammatiker auf meiner Seite, welche ihr eu, été, aimé, vendu u.d.g. Supina nennen, deren Gebrauch gerad so ist, wie meines Supini im Teutschen."
-
-
-Carl Friedrich Aichinger. 1754. Versuch einer teutschen Sprachlehre, anfänglich nur zu eignem Gebrauche unternommen, endlich aber, um den Gelehrten zu fernerer Untersuchung Anlaß zu geben, ans Liecht gestellt
-
-S. 282 ff.
-
-https://books.google.de/books?id=JzVGAAAAcAAJ&dq=aichinger+supinum&source=gbs_navlinks_s
-
-Das Lateinische Supinum hat eine ganz andere "Syntax" (~syntaktische Funktion), aber die Form ist ähnlich, nämlich ein unveränderbares Partizip
-
-Supinum I: (Partizip Perfekt als Adverbiales "um zu")
-
-Mārcus nūntium mīsit rogātum vīnum. – Marcus schickte einen Boten, um Wein zu erbitten.
-Amīcī vēnērunt grātulātum. – Die Freunde kamen, um Glück zu wünschen.
+Including Indefinites: was/etwas/irgendetwas/nichts
+(Indefinites: was/etwas/irgendetwas/nichts possible instead of sentential object)
 
 ---
 
@@ -96,24 +61,6 @@ The (flawed) argument of mutually understood semantic content
 
 ---
 
-- Ablaut/Umlaut-Kausativ
-Der Hund liegt im Korb. vs. Ich lege den Hund in den Korb.
-Du lernst die Vokabeln. vs. Ich lehre dir die Vokabeln
-fordern/fördern
-
-Ich (hänge/hängte/habe gehängt) den Anzug in den Schrank. vs. Der Anzug (hängt/hing/hat gehangen) im Schrank (Ablaut Kausativ!?) (garen/gären?)
-
-- Umlaut-Adjektivprädikat-Kausativ
-Die Kiste ist schwartz. vs. Ich schwärze die Kiste. (wärmen/warm, füllen/voll, auch: trocknen/trocken)
-
-- sehr viele möglichkeiten mit 'light verbs', z.B. 'machen'-Kausativ (Fehrmann 2017 https://edoc.hu-berlin.de/bitstream/handle/18452/20169/dissertation_fehrmann_ingo.pdf)
-Ich bin wütend. vs. Er macht mich wütend.
-Der Kaffee ist warm. vs. Ich halte den Kaffee warm.
-Der Votrag ist langweilig. vs. Sie fand den Vortrag langweilig
-Ludwig ist wach. vs. Emil schnarcht Ludwig wach
-
----
-
 - 'um+zu+Infinitiv' (Beispiele nach Vliegen 2004)
 
 => Nicht Adverbial!
@@ -124,16 +71,6 @@ Dieses Buch ist zu dick, um es an einem Abend zu lesen.
 Es war, um verrückt zu werden
 Das Wasser ist ihm zu tief, um hineinzuspringen.
 Der Bürger ist mündig genug, um selbst zu bestimmen
-
----
-
-Adnominale Sätze
-
-- 'um + zu + Infinitiv' Instrumental (Vliegen 2004)
-
-Der Lastwagen bringt das Holz / Der Lastwagen um das Holz zu bringen ist zu klein
-Ich male die Wand mit Farbe an / Die Farbe um (damit) die Wand anzumalen ist zu rot
-Material füllt das Loch / Material um das Loch zu füllen fehlte.
 
 ---
 
@@ -260,6 +197,74 @@ Er denkt/glaubt an einkaufen
 
 ---
 
+In contrast, there are many sentences that look exactly like the previous one, but which behave different in subordinate constructions. For example in (a-c), the situation is exactly reversed, with the finite verb at the end (c) being ungrammatical. Such constructions will be called 'non-coherent'. Such non-coherent constructions are consered to be bi-clausal (see Kiss 1995 for a much more in-depth discussion).
+
+\ex.
+ \a.    Ich habe morgen zu arbeiten.
+ \b.    Es ist bekannt, dass ich morgen zu arbeiten habe.
+ \c. \* Es ist bekannt, dass ich habe morgen zu arbeiten.
+
+\ex.
+ \a.    Ich versuche den Koffer zu tragen.
+ \b.    Es ist bekannt, dass ich versuche den Koffer zu tragen.
+ \c. \? Es ist bekannt, dass ich den Koffer zu tragen versuche.
+
+
+Coherent clauses show further characteristics of being mono-clausal, like the additional of tense-aspect auxiliaries in () and negation in ().
+
+(a)   Ich werde morgen zu tun haben.
+(b) * Ich werden haben morgen zu tun.
+(c) * Ich werde morgen zu gewinnen hoffen.
+(d)   Ich werde morgen hoffen zu gewinnen.
+
+(a)   Es ist bekannt, dass ich morgen nicht zu arbeiten habe.
+(b) * Es ist bekannt, dass ich morgen zu arbeiten nicht habe.
+(c)   Es ist bekannt, dass ich nicht hoffe morgen zu gewinnen.
+(d)   Es ist bekannt, dass ich hoffe morgen nicht zu gewinnen.
+
+Most coherent construction to not allow for an alternative finite subordinate construction, e.g. with the complementizer 'dass':
+
+* Es ist bekannt, dass ich bleibe schlafen.
+  Es ist bekannt, dass ich schlafen bleibe.
+  Ich bleibe schlafen.
+* Ich bleibe dich schlafen.
+* Ich bleibe, dass ich schlafe.
+* Ich bleibe, dass du schläfst.
+
+However, a few coherent constructions do allow this (note the difference in control, which is yet another independent aspect)
+
+* Es ist bekannt, dass ich will schlafen.
+  Es ist bekannt, dass ich schlafen will.
+  Ich will schlafen.
+* Ich will dich schlafen.
+? Ich will, dass ich schlafe.
+  Ich will, dass du schläfst.
+
+* Es ist bekannt, dass ich sehe dich schlafen.
+  Es ist bekannt, dass ich dich schlafen sehe.
+* Ich sehe schlafen.
+  Ich sehe dich schlafen.
+? Ich sehe, dass ich schlafe.
+  Ich sehe, dass du schläfst.
+
+Non-coherent constructions always allow the finite subordinate alternative:
+
+  Es ist bekannt, dass ich dich bitte bald zu schlafen.
+* Es ist bekannt, dass ich dich bald zu schlafen bitte.
+* Ich bitte bald zu schlafen.
+  Ich bitte dich bald zu schlafen.
+  Ich bitte, dass ich bald schlafe.
+  Ich bitte, dass du bald schläfst.
+
+  Es ist bekannt, dass ich hoffe bald zu schlafen.
+* Es ist bekannt, dass ich bald zu schlafen hoffe.
+  Ich hoffe bald zu schlafen
+* Ich hoffe dich bald zu schlafen
+  Ich hoffe, dass ich bald schlafe
+  Ich hoffe, dass du bald schläfst
+
+---
+
 Notes on "class"
 
 The notion of a class as an instrument of linguistic analysis that is obvious to anyone trying to help someone learning a language
@@ -269,11 +274,10 @@ Greek *kanones* (origin at Theodosius?) Robins 1993:ch6.
 Robbins 1993: 115-116
 
 klisis > declinatio
-syzigiai > coniugatio
+syzigia συζυγία > coniugatio
 
 declinationes (declension class) with Varro (116–27 BC)
 
 class in morphology: Harris 1951:ch15
-
 
 origin of "transformation" in passive equivalence: Harris 1981[1952]:110-111

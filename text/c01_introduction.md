@@ -1,47 +1,168 @@
 # Introduction
 
-[@levin1993], and for German: [@sauerland1994]
+## Introducing diathesis
 
+English [@levin1993], and for German: [@sauerland1994]. Typological [@malchukov2015a]
 
-This book is about German verbs. What are verbs? Definition: A verb is a stem that allows for finite morphology, i.e. stems that have present/past person inflection.
+"Konversenverhältnis der Aktanten" [@eroms1980: 24; cf. @heringer1968]
 
-## Definition Diathesis
+Discussions of german alternations in the context of valency: [@eroms2000: Ch. 10; @agel2000: Ch. 6]. 
 
-Valency: is this really a characteristic of a verb? Most (all?) verbs seem to allow for multiple valencies. There is a strong tendency to try to reduce this variation to a single valency per verb (the 'real' valency), and various strategies are employed to arrive at such a prototypical valency (see e.g. [@welke2011: Ch. 9 for different approaches])
+Studies of specific diatheses for individual verbs in German, e.g. [@devaere2018, @imo2018]
 
-Discussions of Alternations in the context of valency: Eroms (2000: Ch. 10), Ágel (2000: Ch. 6). reframing / role alternation: "Konversenverhältnis der Aktanten" (Eroms 1980: 24) cf. Heringer 1968
+Monographies of specific diatheses, e.g. [@leirbukt1997, @holl2010, @jager2013]
 
----
+Valency: is this really a characteristic of a verb? Most (all?) verbs seem to allow for multiple valencies. There is a strong tendency to try to reduce this variation to a single valency per verb (the 'real' valency), and various strategies are employed to arrive at such a prototypical valency (see e.g. [@welke2011: Ch. 9] for different approaches).
 
-An **alternation** (or simply 'grammatical marking') is defined as follows:
+Further topics for discussion:
+
+- social/communicative/areal function of diatheses
+- verb profiles: all diatheses per verb
+- role clusters: which lexical roles group together based on diathesis groupings
+- verb clusters: which lexical verbs show similar diatheses
+
+## Defining diathesis
+
+#### Alternation {.unnumbered}
+
+An \textsc{alternation} (or simply 'grammatical marking') is defined as follows:
 
 - An alternation consist of two different linguistic constructions, i.e. there are two **alternants**.
-- The lexical material does not change in the alternation.
+- The lexical root does not change in the alternation, i.e. there is some linguistic material in both alternants that remains the same.
 - The difference between these alternants is overtly indicated by the presence of some grammatical linguistic elements.
-- Typically, the overt marking introduces a direction into the alternation, i.e. one alternant consists of less/shorter/zero linguistic elements ('less marked') and one  consiste of more/longer/overt linguistic material ('more marked').
-- In some cases, the direction of the alternation remains undecideably, i.e. the alternation is **equipollent**
+- Typically, the overt marking introduces a direction into the alternation, i.e. one alternant consists of less/shorter/zero linguistic elements ('less marked') and one  consists of more/longer/overt linguistic material ('more marked').
+- In some cases, the direction of the alternation remains undecidable, i.e. the alternation is **equipollent**.
 
-Based on this definition of an alternation, a **clause alternation** is defined as follows:
+Alternations are the basis of all grammatical analysis. It includes for example (i) morphological oppositions like singular *Haus* 'house' vs. plural *Häuser* 'houses'; (ii) different grammatical forms like synthetic present *er schläft* 'he sleeps' vs. analytic perfect *er hat geschlafen* 'he has slept'; or (iii) different sentence constructions attested with specific verbs, like transitive *Ich verkaufe das Buch* 'I sell the book' vs. reflexive anticausative with obligatory adverbial *Das Buch verkauft sich gut* 'the book is selling well'.
 
-- In a clause alternation **both alternants are monoclausal,** i.e. both alternants contain a single main predicate. For German, the main argument for monoclausality will be a phenomenon called *coherence*.
+#### Clause alternation {.unnumbered}
+
+Based on this definition of an alternation, a \textsc{clause alternation} is defined as follows:
+
+- In a clause alternation **both alternants are monoclausal**, i.e. both alternants contain a single main predicate. For German, the main argument for monoclausality will be a phenomenon called 'coherence'.
 - In both alternants, the **main predicate consists of the same lexeme**, i.e both contain the same verb.
 - The **meaning of the verb does not change*** (substantially) between the alternants.
-- The **lexical roles of the verb do not change** between the alternants. However, there might be new roles introduced, or some roles might be left unexpressed.
-- A specific clause alternation is only applicable to a restricted set of verbs. The list of applicable verbs constitutes the **domain of application** of the alternation. Any semantic/syntactic characterisation of the applicable verbs should be seen as a summary of the domain of application, not its definition.
+- The **lexical roles of the verb do not change** between the alternants. Note, however, that there might be new roles introduced or some roles might be left unexpressed.
+- A specific clause alternation is only applicable to a restricted set of verbs. The list of applicable verbs constitutes the **domain of application** of the alternation. Any semantic/syntactic characterisation of these applicable verbs should be seen as a summary of the domain of application, not its definition.
 
-Based on this notion of a clause alternation, a **diathesis** (a.k.a. 'valency alternation', I use both terms synonymously) is defined as follows:
+Clause alternations are widespread when auxiliaries are introduced, like modal *müssen* 'have to' \Next[a]. Yet, clause alternation are attested with various different markings, like the verb particle *auf* marking completeness of the action \Next[b] or the somewhat mysterious reflexive *sich* with verbs like *ansehen* 'look at' \Next[c]. Arguably, the special word order in German subordinate clauses (viz. the finite verb occurs clause final) can be considered a clause alternation.
 
-- A diathesis is a clause alternation in which at least one of the lexical roles is overtly marked differently between the clausal alternants, i.e. **at least one of the roles is reframed** (i.e. there is a 'role alternation').
-- Reframed roles do not substantially change their meaning, i.e. 'who does what to whom' does not change.
+\ex.
+ \a. Er erledigt seine Hausaufgaben. Er muss seine Hausaufgaben erledigen.
+ \b. Ich esse den Apfel. Ich esse den Apfel auf.
+ \c. Er hat das Haus angesehen. Er hat sich das Haus angesehen.
+ \d. Er erledigt seine Hausaufgaben. Ich hoffe, dass er seine Hausaufgaben erledigt
+
+#### Diathesis ('valency alternation') {.unnumbered}
+
+Based on the notion of a clause alternation, a \textsc{diathesis} (or 'valency alternation', I use both terms synonymously) is defined as follows:
+
+- A diathesis is a clause alternation in which at least one of the lexical roles is overtly marked differently between the clausal alternants, i.e. **at least one of the roles is reframed** (i.e. there is a role-marking alternation).
+- Reframed roles do not substantially change their meaning, i.e. **'who does what to whom' does not change**.
 - The details of the relation between the main predicate and the reframed roles can (and normally will) change, e.g. there will be changes in aspects like the role's influence on the action or its affectedness by the predicate.
-- As an extreme case, the reframing of a role might consist in the addition of a completely new role or in the complete removal of an existing role.
-- As for all alternations, a diathesis has a 'less marked' and a 'more marked' alternant. However, in some special instances a diathesis can show no other overt marking than the change in marking of the reframed roles itself, i.e. a 'bare' diathesis (or 'equipollent' diathesis).
+- As an extreme case, the reframing of a role might consist in the **addition** of a completely new role or in the **complete removal** of an existing role.
+- As is true for all alternations, a diathesis has a **direction** from a formally 'less marked' to a 'more marked' alternant. However, in some special instances a diathesis can show no other overt marking than the change in marking of the reframed roles itself, i.e. a **bare diathesis** (or 'equipollent' diathesis).
 
----
+The prototypical example of a diathesis is the *werden + Partizip* passive \Next[a]. In both clause alternants the same state of affairs is described, but the marking of the participants is different. However, the diversity of diatheses in German is enormous as this book attempts to show. There are, for example, bare diatheses (i.e. diatheses without any marking on the verb) like the infamous anticausative in \Next[b] or antipassives marked with a reflexive pronouns as shown in \Next[c].
 
-In the discussion of the various diatheses in German, I will classify them into different kinds of diatheses. This classification is not a definitional issue, but purely a practical organisational device. It might very well turn out that some of these classifications is wrong, i.e. that some alternation is better considered as belonging to a different kind. Such a reorganisation would not change anything about the diathesis itself.
+\ex.
+ \a. Der Schreiner hat den Tisch angemalt. Der Tisch wurde von den Schreiner angemalt.
+ \b. Ich koche den Kaffee. Der Kaffee kocht.
+ \c. Der Fahrradfahrer fürchtet den Anstieg. Der Fahrradfahrer fürchtet sich vor den Anstieg.
 
-The different kinds of diatheses distinguished here have a long history in the typological literature [cf. @wunderlich1993, @wunderlich2015, @dixon2000a, @dixon2014, @haspelmath2004c, @malchukov2015: 96ff.]
+## Definitional details
+
+Hidden in the succinct definition of diathesis from the previous section there are various intricate grammatical concepts that need some more explanation.
+
+- Monoclausality and coherence: Classifying a multi-verb sentence as a single clause.
+- Grammaticalisation of lexical meaning: One phonological root can be different lexemes.
+- Lexical roles: Roles are primarily lexeme-specific; semantic roles are clusters of lexical roles.
+- Domain of application: Form-based lexical classes are the crucial empirical evidence of grammatical theory.
+
+#### Monoclausality and coherence {.unnumbered}
+
+One of the crucial characteristics of the syntax of German is that the finite verb is moved to the end of the sentence in a subordinate clauses. I will use the dummy main sentence *Es ist bekannt, dass* 'it is known that' to force a subordinate construction. The position of the finite verb in the subordinate clause can be used the identify the boundary of the clause: everything that can occur before the finite verb belongs to the clause; everything that has to come after the finite verb belongs to a different clause. For example, the simple sentence \Next[a] will turn into \Next[b] as a subordinate clause, with the finite verb at the end; \Next[c] is not possible (with any constituent after the finite verb), so the whole sentence in \Next[a] is a single clause. Constructions such with a pattern will be called \textsc{coherent}, following Bech [-@bech1955]; see also Kiss [-@kiss1995] for a more in-depth and more extensive discussion of the concept 'coherence'. Coherent constructions are considered to be \textsc{monoclausal}.
+
+\ex.
+ \a.   Ich gehe morgen nach Hause.
+ \b.   Es ist bekannt, dass ich morgen nach Hause gehe.
+ \c. * Es ist bekannt, dass ich gehe morgen nach Hause.
+
+Exactly the same coherence is attested in auxiliary constructions with participles \Next and infinitives \NNext. Such constructions are also monoclausal.
+
+\ex.
+ \a.    Ich habe gestern ein Haus gekauft.
+ \b.    Es ist bekannt, dass ich gestern ein Haus gekauft habe.
+ \c. \* Es ist bekannt, dass ich gestern gekauft habe ein Haus.
+
+\ex.
+ \a.    Ich will morgen ein Haus kaufen.
+ \b.    Es ist bekannt, dass ich morgen ein Haus kaufen will.
+ \c. \* Es ist bekannt, dass ich morgen kaufen will ein Haus.
+
+Constructions with *zu* and infinitive are sometimes coherent, e.g. \*Next with finite verb *gibt*, and sometimes not coherent, e.g. \NNext with finite verb *hofft*. The coherent construction in \Next is thus monoclausal, while the non-coherent construction in \NNext consists of two clauses.
+
+\ex.
+ \a.    Der Protest gibt ihr zu denken.
+ \b.    Es ist bekannt, dass der Protest ihr zu denken gibt.
+ \c. \* Es ist bekannt, dass der Protest gibt ihr zu denken.
+
+\ex.
+ \a.    Der Sportler hofft den Wettkampf zu gewinnen.
+ \b. \* Es ist bekannt, dass der Sportler den Wettkampf zu gewinnen hofft.
+ \c.    Es ist bekannt, dass der Sportler hofft den Wettkampf zu gewinnen.
+
+In some intermediate cases both orders are possible, as shown in \Next. These constructions will be called 'semi-coherent' here.
+
+\ex.
+ \a.    Ich helfe dir den Koffer zu tragen.
+ \b.    Es ist bekannt, dass ich dir helfe den Koffer zu tragen.
+ \c.    Es ist bekannt, dass ich dir den Koffer zu tragen helfe.
+
+#### Grammaticalisation of lexical meaning {.unnumbered}
+
+A difficult problem is the question whether it is really the same verb that is used in two different alternating constructions. For example, the verb *trinken* 'to drink' is a regular transtive verb, but when used intransitively, *er trinkt* 'he drinks', it has a clear implication that his drinking includes too much alcohol, so it might be better translated as 'he is an alcoholic'. In this case, this intransitive interpretation is probably best analysed as a conventional implicature, because the alcoholism aspect of the meaning can be suppressed given the right context.
+
+In general, when the same lexical verb is used in different alternating constructions, then there is (of course) a difference in meaning between the two occurrences. However, ideally this difference is completely induced by the respective constructions and not by the lexical verb itself. Yet, it is extremely common for the combination of a lexical element with the surrounding construction to grammaticalise into a new meaning. For example, the verb *auftreten* means something like 'to act' as an intransitive, but *to kick open* as a transitive. Both meanings originate from the meaning 'to step on something (by foot)'. Likewise, historical processes can lead to current homophony of two different lexemes. This appears to be the case for example with the verb *abhauen*, which is a transitive verb meaning 'cut of' (e.g. *Er hat den Ast abgehauen*). However, it has attained another usage during the course of the 20th Century as an intransitive verb meaning 'run away' (e.g. *Er ist abgehauen*), probably based on a southern German dialectal meaning of *hauen* meaning 'to go, to walk' [@pfeiffer1993: "hauen", accessed 12.12.2018].
+
+In between those extremes (i.e. conventional implicature and different lexicalisation) there exist various intermediate phenomena. For example, the verb *hängen* 'to hang' can be used as a regular intransitive verb with a location, like *Er hängt an einem Seil* 'He dangles to a rope', but the specific combination with the preposition *an* can also have a special reading of 'being emotionally attached to something', like in *Er hängt an seinem Teddy* 'He is (emotionally) attached to his Teddy'. In this case it seems most appropriate to interpret the combination *hängen an* as a separate lexicalisation.
+
+As with all grammaticalisation processes, it is difficult to decide where to draw the line on the continuum between conventional implicature or metaphorical extension (*trinken*) and contextual lexicalisation (*hängen an*) or completely different lexicalisation (*auftreten*, *abhauen*). I tend to be rather lenient in allowing slightly different meanings to be included as the 'same' verb, but will excluded the latter two types on the continuum as separate lexicalisations of homophonous elements.
+
+#### Lexical roles {.unnumbered}
+
+Of crucial importance for the description of diathesis is the proper identification of lexically governed constituents, i.e. the arguments of a clausal predicate ('verb'). Intuitively, the arguments of a predicate are those roles/participants that are inherently part of the meaning of the lexeme. For example, a verb like 'to accuse' implies the presence of an accuser, an accussee and an accusation. However, a purely introspective semantic determination of such lexical roles is fraught with unverifiable intuitive decisions. A widespread idea is that for a constituent to be an inherent argument, the consituent in question should be invoked specifically by the lexical predicate and not have an adjunct status available to every predicate throughout the language. Yet, this intuition of a difference between arguments and adjuncts has to be operationalised in more detail. As an operationalisation, I propose to determine the arguments of a predicate based on a series of form-based structural arguments, to be detailed below. Note that these arguments are specifically tailored to the German language structure and cannot integrally be translated to other languages.
+
+Basically, there are three kinds of constituents with argument status in German. They will quickly be introduced here and then discussed in more detail in the rest of this chapter. First, all case marked noun phrase constituents are arguments (with a few exceptions that will be discussed below). Case marked constituent (a) can be questioned by question pronouns *wer* or *was*, including their case forms *wem*, *wen* and *wessen* (b,c). Further, they can be pronominalised by personal pronouns (d) or indefine pronouns *(irgend)jemand* or *(irgend)etwas* (e).
+
+(a) Der Löwe sieht einen Vogel.
+(b) Wer sieht einen Vogel?
+(c) Was sieht der Löwe?
+(d) Er sieht ihn.
+(e) Jemand sieht etwas.
+
+Second, prepositional phrases (a) are arguments if and only if they can be pronominalised by *da(r)+preposition* (b), questioned by *wo(r)+preposition* (c), or even more telling, replaced by a complement clause of the form *da(r)+preposition, dass ...* (d). A few exceptional cases will be discussed below.
+
+(a) Der Weltreisende wartet auf einen Zug.
+(b) Der Weltreisende wartet darauf.
+(c) Worauf wartet der Weltreisende?
+(d) Der Weltreisende wartet darauf, dass ein Zug kommt.
+
+Third, all complement clauses are arguments (a,b). Complement clauses can be questioned by *was* (c) and pronominalised by a definite pronoun *es* (d) or an indefinite pronoun *(irgend)etwas* (e). Complement clauses are thus syntactically highly similar to case marked noun phrases. Caution should be taken when interpreting pronominalised examples like (d,e), because it is not immediately obvious whether the pronouns are replacing a noun phrase or a complement clause. For example, with the verb *hoffen* (e) it is not possible to replace the pronoun *etwas* with a noun phrase, in contrast to the verb *sehen* above.
+
+(a) Er hofft, dass er rechtzeitig kommt.
+(b) Er hofft rechtzeitig zu kommen.
+(c) Was hofft er?
+(d) Er hofft es.
+(e) Er hofft etwas.
+
+#### Domain of application {.unnumbered}
+
+## Classifying diatheses
+
+In the discussion of the various diatheses in German, I will classify them into different kinds of diatheses. This classification is not a definitional issue, but purely a practical organizational device. It might very well turn out that some of these classifications is not ideal, i.e. that some alternation is better considered as belonging to a different kind. However, such a reorganization would not change anything about the diatheses themselves.
+
+The different kinds of diatheses distinguished here have a long history in the typological literature [cf. @wunderlich1993; @wunderlich2015; @dixon2000a; @dixon2014; @haspelmath2004c; @malchukov2015: 96ff.]
 
 
 - **PASSIVE: Promotion of a non-nominative argument to subject.** The typical characteristic of a passive is a non-nominatively case-marked role to being 'more important', typically becoming the subject (i.e. nominative + verb agreement). The original subject can optionally be retained as an non-nominative case or a prepositional phrase. In general, the original subject is still understood to be some kind of agent in the passive alternant.
@@ -170,7 +291,9 @@ This is a productive diathesis!
 
 ---
 
-## Obligatory pronoun 'es'
+## Further grammatical topics
+
+### Obligatory pronoun 'es'
 
 Another pronoun that plays an important role in the marking of diathesis is *es*, the 3rd person nominative/accusative pronoun in the neutrum gender. There are three main uses of this pronoun, and only the third is relevant for the current discussion. First, 'es' is used for anaphoric reference to neutrum nouns, as shown in (a). There are various other variants of such 'phoric' usage, for example without direct gender agreement (Czicza 2014: Ch. 2).
 
@@ -214,7 +337,7 @@ In a very limited set of constructions 'es' is left out completely, resulting in
 *sie vermochte es nicht den Unfall zu verhindern*. (altmodisch?)
 *Sie lehnt es ab zu kommen*
 
-## Finite verbforms
+### Finite verbforms
 
 Each German sentence needs at least one finite verbform, which is inflected for person, number and tense. The person inflection agrees in person and number with the subject. However, it is probably better to reverse this defintion, in that the 'subject' can be defined as the noun phrase that shows agreement with the finite verb. To ease the identification of the finite verb, I will only use singular forms in the present tense in all constructed examples. In most cases, these forms can readily be identified by their suffixes (see Table, showing the most important inflection classes and irregular verbs.)
 
@@ -224,13 +347,13 @@ Each German sentence needs at least one finite verbform, which is inflected for 
 | 2nd person | kauf-st | läuf-st | gib-st | kann-st | ha-st | wir-st | bist
 | 3rd person | kauf-t | läuf-t | gib-t | kann | ha-t | wird | ist
 
-## Light verbs
+### Light verbs
 
 There is a large group of verbs in German that shed much of their lexical meaning in certain constructions. Such grammaticalised verbs are referred to by many different names in the German grammatical literature, e.g. Hilfsverb, Kopulaverb, Modalverb, Modalitätsverb, Halbmodalverb (Eisenberg), Funktionsverb (Polenz 1963 cited in Kamber 2008:34), Strukturverb (Weber 2005), or Stützverb (Seelbach 1991 cited in Kamber 2008:34). The debate how to classify these verbs into groups will not be pursued here. Therefore, I will simply refer to the whole group of such verbs as 'light verbs'. The most important light verbs, which will all be discussed here, are shown in alphabetical order in (). It is a difficult issue to decide in a specific sentence whether such a verb is used as a full lexical verb or as a light verb. These verbs show a continuum of more or less grammaticalised uses. As a general desideratum, semantic arguements do not suffice to distinguish light verb usage. There need to be structural differences between the light verb and full verb constructions to claim such a differentiation.
 
 - *bekommen, bleiben, brauchen, bringen, drohen, dürfen, fahren, geben, gehen, gelten, geraten, haben, heißen, klappen, kommen, kriegen, können, lassen, machen, möchten, mögen, müssen, nehmen, pflegen, scheinen, sehen, sein, sollen, stehen, stellen, tun, versprechen, werden, wissen, wollen*
 
-## Sentence blueprints
+### Sentence blueprints
 
 For the analysis of German sentence, it is useful to distinguish five different nonverbal predication structures, as shown in Table (). I will refer to these structures as 'sentence blueprints'. These constructions use one of the many light verb together with a non-verbal main predicate.
 
@@ -255,178 +378,6 @@ The lexical predicate in nonverbal blueprints can also be filled with a derivati
 | Full prepositional blueprint | Ich bin beim Schwimmen. | Preposition with Article and Infinitive, or other noun-like derived verb
 
 
-## Sentence bracket and coherence
 
-In the non-verbal sentence blueprints it is possible to insert further linguistic material between the finite light verb and the main lexical predicate. The two separated parts of the predication are referred to in German linguistics as the 'Verbalklammer', or sentence bracket. One of the crucial characteristics of the syntax of German is that the finite verb is moved to the end of the sentence in subordinate sentences. I will use the dummy main sentence "Es ist bekannt, dass" ('it is known that') to force a subordinate construction. For example, the bare prepositional blueprint in (a) has to become (c) in subordinate clauses, with the finite verb at the end; (b) is impossible, with the finite verb in the same position as in a main clause.
 
-(a)   Ich gehe morgen nach Hause.
-(b) * Es ist bekannt, dass ich gehe morgen nach Hause.
-(c)   Es ist bekannt, dass ich morgen nach Hause gehe.
-
-Exactly the same happens in many constructions with participles and infinitives, as shown in (a-c). Constructions such with a pattern like (a-c) will be called "coherent", following Bech (1955). Coherent constructions are considered to be mono-clausal.
-
-(a)   Ich habe morgen zu arbeiten.
-(b) * Es ist bekannt, dass ich habe morgen zu arbeiten.
-(c)   Es ist bekannt, dass ich morgen zu arbeiten habe.
-
-In contrast, there are many sentences that look exactly like the previous one, but which behave different in subordinate constructions. For example in (a-c), the situation is exactly reversed, with the finite verb at the end (c) being ungrammatical. Such constructions will be called 'non-coherent'. Such non-coherent constructions are consered to be bi-clausal (see Kiss 1995 for a much more in-depth discussion).
-
-(a)   Ich hoffe morgen zu gewinnen.
-(b)   Es ist bekannt, dass ich hoffe morgen zu gewinnen.
-(c) * Es ist bekannt, dass ich morgen zu gewinnen hoffe.
-
-In some intermediate cases, both orders are possible, as shown in (a-c). These constructions will be called 'semi-coherent' here.
-
-(a)   Ich helfe dir den Koffer zu tragen.
-(b)   Es ist bekannt, dass ich dir helfe den Koffer zu tragen.
-(c)   Es ist bekannt, dass ich dir den Koffer zu tragen helfe.
-
-(a)   Ich versuche den Koffer zu tragen.
-(b)   Es ist bekannt, dass ich versuche den Koffer zu tragen.
-(c)   Es ist bekannt, dass ich den Koffer zu tragen versuche.
-
-Coherent clauses show further characteristics of being mono-clausal, like the additional of tense-aspect auxiliaries in () and negation in ().
-
-(a)   Ich werde morgen zu tun haben.
-(b) * Ich werden haben morgen zu tun.
-(c) * Ich werde morgen zu gewinnen hoffen.
-(d)   Ich werde morgen hoffen zu gewinnen.
-
-(a)   Es ist bekannt, dass ich morgen nicht zu arbeiten habe.
-(b) * Es ist bekannt, dass ich morgen zu arbeiten nicht habe.
-(c)   Es ist bekannt, dass ich nicht hoffe morgen zu gewinnen.
-(d)   Es ist bekannt, dass ich hoffe morgen nicht zu gewinnen.
-
-Most coherent construction to not allow for an alternative finite subordinate construction, e.g. with the complementizer 'dass':
-
-* Es ist bekannt, dass ich bleibe schlafen.
-  Es ist bekannt, dass ich schlafen bleibe.
-  Ich bleibe schlafen.
-* Ich bleibe dich schlafen.
-* Ich bleibe, dass ich schlafe.
-* Ich bleibe, dass du schläfst.
-
-However, a few coherent constructions do allow this (note the difference in control, which is yet another independent aspect)
-
-* Es ist bekannt, dass ich will schlafen.
-  Es ist bekannt, dass ich schlafen will.
-  Ich will schlafen.
-* Ich will dich schlafen.
-? Ich will, dass ich schlafe.
-  Ich will, dass du schläfst.
-
-* Es ist bekannt, dass ich sehe dich schlafen.
-  Es ist bekannt, dass ich dich schlafen sehe.
-* Ich sehe schlafen.
-  Ich sehe dich schlafen.
-? Ich sehe, dass ich schlafe.
-  Ich sehe, dass du schläfst.
-
-Non-coherent constructions always allow the finite subordinate alternative:
-
-  Es ist bekannt, dass ich dich bitte bald zu schlafen.
-* Es ist bekannt, dass ich dich bald zu schlafen bitte.
-* Ich bitte bald zu schlafen.
-  Ich bitte dich bald zu schlafen.
-  Ich bitte, dass ich bald schlafe.
-  Ich bitte, dass du bald schläfst.
-
-  Es ist bekannt, dass ich hoffe bald zu schlafen.
-* Es ist bekannt, dass ich bald zu schlafen hoffe.
-  Ich hoffe bald zu schlafen
-* Ich hoffe dich bald zu schlafen
-  Ich hoffe, dass ich bald schlafe
-  Ich hoffe, dass du bald schläfst
-
-## Participles as depictive secondary predicates
-
-Participles can be used as so-called depictive secondary predicates (a). In such sentences, the particple functions syntactically like adverbs in the sentence structure (b). The problem is that constructions like (a) are highly similar to light verb constructions. For example, such constructions are coherent (c,d).
-
-(a)   Er verkauft die Nägel gebogen.
-(b)   Er verkauft die Nägel jetzt.
-(c)   Es ist bekannt, dass er die Nägel gebogen verkauft.
-(d) * Es ist bekannt, dass er verkauft die Nägel gebogen.
-
-A secondary predicate (a) can in most cases easily be identified by trying to leave it out of the sentence (b) or replace it with an adverb (c). The finite predicate of the sentence should not change its meaning, and in general the meaning of the sentence will remain almost identical (except of course for the missing participle).
-
-(a)   Er verkauft die Nägel gebogen.
-(b)   Er verkauft die Nägel.
-(c)   Er verkauft die Nägel jetzt.
-
-More detailed indications to distinguish secondary predicates (a) from light verb constructions (b) can be obtained by investigating whether the participle behaves like adverbs. This can, for example, be shown overtly by trying to add linguistic material between the participle and the finite verb in a subordinate clause. This is possible for a particple as secondary predicate (c) and for adverbs (d). In contrast, for light verb constructions in a subordinate clause, the finite verb always should follow immediately after the participle (e) with no possibility for anything to intervene (f).
-
-(a)   Er kauft die Schuhe in diesem Geschäft immer geputzt.
-(b)   Er bekommt die Schuhe in diesem Geschäft immer geputzt. ('Ihm werden die Schuhe dort geputzt.')
-(c)   Es ist bekannt, dass er die Schuhe immer geputzt in diesem Geschäft kauft.
-(d)   Es ist bekannt, dass er die Schuhe immer morgens in diesem Geschäft kauft.
-(e)   Es ist bekannt, dass er die Schuhe immer in diesem Geschäft geputzt bekommt.
-(f) * Es ist bekannt, dass er die Schuhe immer geputzt in diesem Geschäft bekommt.
-
-Secondary predication with participles can also be distinguished from light verb constructions by considering negation. Negation in sentences with a participle as a secondary predicate normally negates this secondary predicate itself (lexical scope), just like adverbs (a,b). It is often even possible to instead use the prefix *un-* to mark the lexical scope of the negation over the participle (c).
-
-(a)   Er kauft die Schuhe nicht jetzt.
-(a)   Er kauft die Schuhe nicht geputzt.
-(a)   Er kauft die Schuhe (nur) ungeputzt.
-
-In contrast, negation in a monoclausal light verb construction has a wide scope reading over the whole sentence. For example, in (a) the verb *bekommen* has two different readings. Either (b), there is a full lexical verb with the meaning 'to get as a gift' and a narrow scope negation over the participle *nicht geputzt* (which is almost equivalent to *ungeputzt* 'uncleaned'), resulting in a meaning of 'he gets a gift of uncleaned shoes'. Alternatively (c), *bekommen* is a light verb with a meaning 'to get something done' with a full verb as participle *geputzt* 'cleaned'. Together with the wide scope negation the meaning then becomes 'he doesn't manage to get his shoes cleaned'.
-
-(a)   Er bekommt die Schuhe nicht geputzt
-(b)   Er kriegt ein Geschenk, nämlich ungeputzte Schuhe.
-(c)   Er schafft es nicht seine Schuhe putzen zu lassen.
-
-Note further that the sentence stress in (a) differs for both readings. The reading (b) has stress on the negation *nicht* (as is usually the case for lexical scope), while the reading in (c) has stress on the participle *geputzt* (which is the regular stress placement for a indicative main clause).
-
-=> Ich trage das Hemd steif gebügelt.
-=> Der Doktor untersucht seine Patienten nur bekleidet. (Mehrdeutig!!!)
-
-=> Es ist bekannt, dass ich das Hemd steif gebügelt auf der Party tragen werde.
-=> Es ist bekannt, dass der Doktor einen Patienten bekleidet nicht untersuchen wird.
-
-## Noun incorporation
-
-German allows for wide variety of compounds, which are also used with high frequency. One type of such compounds is relevant for the discussion of diathesis, namely compounds of verbs with its object noun, e.g. 
-
-'Rektionskompositum' Frauenkenner, Romanleser, Armenischlehrer, Konfliktbewältigung, Wetterbeobachtung
-
-'Substantiv+Verb' e.g. seiltanzen
-s
-## Lexically governed constituents
-
-Of crucial importance for the description of diathesis is the proper identification of lexically governed constituents, i.e. the arguments of a clausal predicate ('verb'). Intuitively, the arguments of a predicate are those roles/participants that are inherently part of the meaning of the lexeme. For example, a verb like 'to accuse' implies the presence of an accuser, an accussee and an accusation. However, a purely introspective semantic determination of such lexical roles is fraught with unverifiable intuitive decisions. A widespread idea is that for a constituent to be an inherent argument, the consituent in question should be invoked specifically by the lexical predicate and not have an adjunct status available to every predicate throughout the language. Yet, this intuition of a difference between arguments and adjuncts has to be operationalised in more detail. As an operationalisation, I propose to determine the arguments of a predicate based on a series of form-based structural arguments, to be detailed below. Note that these arguments are specifically tailored to the German language structure and cannot integrally be translated to other languages.
-
-Basically, there are three kinds of constituents with argument status in German. They will quickly be introduced here and then discussed in more detail in the rest of this chapter. First, all case marked noun phrase constituents are arguments (with a few exceptions that will be discussed below). Case marked constituent (a) can be questioned by question pronouns *wer* or *was*, including their case forms *wem*, *wen* and *wessen* (b,c). Further, they can be pronominalised by personal pronouns (d) or indefine pronouns *(irgend)jemand* or *(irgend)etwas* (e).
-
-(a) Der Löwe sieht einen Vogel.
-(b) Wer sieht einen Vogel?
-(c) Was sieht der Löwe?
-(d) Er sieht ihn.
-(e) Jemand sieht etwas.
-
-Second, prepositional phrases (a) are arguments if and only if they can be pronominalised by *da(r)+preposition* (b), questioned by *wo(r)+preposition* (c), or even more telling, replaced by a complement clause of the form *da(r)+preposition, dass ...* (d). A few exceptional cases will be discussed below.
-
-(a) Der Weltreisende wartet auf einen Zug.
-(b) Der Weltreisende wartet darauf.
-(c) Worauf wartet der Weltreisende?
-(d) Der Weltreisende wartet darauf, dass ein Zug kommt.
-
-Third, all complement clauses are arguments (a,b). Complement clauses can be questioned by *was* (c) and pronominalised by a definite pronoun *es* (d) or an indefinite pronoun *(irgend)etwas* (e). Complement clauses are thus syntactically highly similar to case marked noun phrases. Caution should be taken when interpreting pronominalised examples like (d,e), because it is not immediately obvious whether the pronouns are replacing a noun phrase or a complement clause. For example, with the verb *hoffen* (e) it is not possible to replace the pronoun *etwas* with a noun phrase, in contrast to the verb *sehen* above.
-
-(a) Er hofft, dass er rechtzeitig kommt.
-(b) Er hofft rechtzeitig zu kommen.
-(c) Was hofft er?
-(d) Er hofft es.
-(e) Er hofft etwas.
- 
-## Complement clauses
-
-Including Indefinites: was/etwas/irgendetwas/nichts
-(Indefinites: was/etwas/irgendetwas/nichts possible instead of sentential object)
-
----
-
-Topics for discussion:
-
-- social/communicative/areal function of diatheses
-- verb profiles: all diatheses per verb
-- role clusters: which lexical roles group together based on diathesis groupings
 
