@@ -487,7 +487,7 @@ With some of the verbs, the causer can occur as prepositional phrase with *durch
  \a. Ich lebe durch den Arzt.
  \b. Der Arzt belebt mich
 
-### [ –N | NA ] Preverb adjectival causative {#particles-sec-adjectival-causative}
+### [ –N | NA ] Preverb adjectival causative {#sec:preverb-adjectival-causative}
 
 Many adjectives can be turned into verbs by adding a prefix. The semantic effect is to turn a state, like *grün sein* 'to be green \Next[a] into a causative process *begrünen* 'to make green' \Next[b].
 
@@ -507,7 +507,7 @@ Comparatives like *besser* 'better' are considered as adjectives here \Next.
  \a. Die Lebensbedingungen sind heutzutage besser.
  \b. Ich verbessere die Lebensbedingungen.
 
-With some verbs the causative also needs an umlaut, e.g. with *kurz* 'short' \Next[a,b], or an umlaut is lost in the causative, e.g. with *böse* 'angry' \Next[c,d].
+With some verbs the causative also needs an umlaut, e.g. with *kurz* 'short' \Next[a,b], or an umlaut is lost in the causative, e.g. with *böse* 'angry' \Next[c,d]; see also [@sec:case-umlaut-adjectival-causative].
 
 \ex.
  \a. Die Frist ist kurz.
@@ -526,7 +526,7 @@ There are also prefixed adjectives in which an accusative object is added (see [
 **Attested Verbs**
 
 - beˈ-  : *ängstig, fähig, frei, günstig, grün, ruhig, schuldig, schwer*
-- erˈ-  : *bitter, böse, hart, hell, kalt, leichter, matt, müde, munter, mutig, neu, niedrig, rege, schlaff, weich*
+- erˈ-  : *bitter, böse, hart, hell, hoch, kalt, leichter, matt, müde, munter, mutig, neu, niedrig, rege, schlaff, weich*
 - verˈ- : *besser, deutlich, dunkel, edel, einfach, harmlos, herrlich, länger, niedlich, kurz, schön, schöner*
 - zerˈ- : *mürbe*
 - entˈ- : *rund*
