@@ -8,9 +8,9 @@ English [@levin1993], and for German: [@sauerland1994]. Typological [@malchukov2
 
 Discussions of german alternations in the context of valency: [@eroms2000: Ch. 10; @agel2000: Ch. 6]. 
 
-Studies of specific diatheses for individual verbs in German, e.g. [@devaere2018, @imo2018]
+Studies of specific diatheses for individual verbs in German, e.g. [@devaere2018; @imo2018]
 
-Monographies of specific diatheses, e.g. [@leirbukt1997, @holl2010, @jager2013]
+Monographies of specific diatheses, e.g. [@leirbukt1997; @holl2010; @jager2013]
 
 Valency: is this really a characteristic of a verb? Most (all?) verbs seem to allow for multiple valencies. There is a strong tendency to try to reduce this variation to a single valency per verb (the 'real' valency), and various strategies are employed to arrive at such a prototypical valency (see e.g. [@welke2011: Ch. 9] for different approaches).
 
