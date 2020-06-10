@@ -2,7 +2,7 @@
 
 ## Introduction
 
-It might come as a surprise that adverbials play a role in valency and valency alternations. However, already on somewhat closer inspection it quickly becomes clear that there are various verbs that obligatorily need an adverbial complement, like *sich verhalten* 'to behave' \Next, arguing that adverbials has to be considered when determining the valency of verbs.
+It might come as a surprise that adverbials play a role in valency and valency alternations. However, already on somewhat closer inspection it quickly becomes clear that there are various verbs that obligatorily need an adverbial complement, like *sich verhalten* 'to behave' \Next, arguing that adverbials have to be considered when determining the valency of verbs.
 
 \ex.
  \a.    Ich verhalte mich tapfer.
@@ -16,13 +16,13 @@ Yet, adverbials cast an even wider net as there are various diatheses that invol
  \c. Ich fische in den Teich. Ich habe den Teich leergefischt.
  \d. Ich sehe das Gemälde. Ich sehe mich satt an dem Gemälde.
 
-The adverbial construction discussed in this chapter include two clearly different kind of adverbials, namely depictive secondary predicates \Next[a] and resultative secondary predicates \Next[b]. The syntactic structures and the valency alternations in which they appear turn out to be rather different, possibly warranting two different chapters. However, the current combination of these superficially similar constructions allows me to sharpen the distinction and investigate similarities and differences.
+The adverbial construction discussed in this chapter include two clearly different kind of adverbials, namely depictive secondary predicates \Next[a] and resultative secondary predicates \Next[b]. The syntactic structures and the valency alternations in which they appear turn out to be rather different, possibly warranting two different chapters. However, the current combination of these superficially very similar constructions allows me to sharpen the distinction and investigate similarities and differences between the two.
 
 \ex.
  \a. Ich habe meine Hose schnell gekauft.
  \b. Ich habe den Laden leer gekauft.
 
-Depictive secondary predicates are typically manner adverbials. They appear in valency-reducing diatheses, typically resulting in intransitive constructions as a result. This behaviour draws obvious parallels with reflexive diatheses. However, it remain unclear to me whether there is a deeper connection between reflexive and adverbial diatheses or whether this parallel is a superficial side effect of some other syntactic properties.
+Depictive secondary predicates are typically manner adverbials. They appear in valency-reducing diatheses, typically resulting in intransitive constructions as a result. This behavior draws obvious parallels with reflexive diatheses. However, it remain unclear to me whether there is a deeper connection between reflexive and adverbial diatheses or whether this parallel is a superficial side effect of some other syntactic properties.
 
 Resultative secondary predicates arguably form a new verb together with the main predicate, i.e. *leer* and *kaufen* form a new verb *leerkaufen* in which the first part *leer-* is separable, just like with prepositional preverbs ('Partikelverben' in German grammar, see [@sec:preverbs-prefixes-particles]). Similar to the generalisation with preverbs (see [@sec:preverbs-always-accusative]), diatheses with resultative secondary predicates almost always lead to transitive constructions with a nominative and an accusative argument (or alternatively an accusative reflexive). This parallellism reinforces the impression that resultative adverbs should probably better be considered together with preverbs as discussed in the previous chapter.
 
@@ -113,6 +113,8 @@ The most frequent resultative adjectival predicates in German are *leer-, voll-,
  \b. Ich rede mir mein Benehmen gut.
 
 ## Deponent verbs without alternations
+
+There are various verbs in German that obligatorily need an adverbial, which are collected in this section. All examples discussed in this section concern verbs with obligatory \textsc{depictive} adverbials. I see no reason for obligatory \textsc{resultative} adverbials to be impossible – I simply have not encountered any examples yet. The phenomenon to look out for are verbs with a resultative adverbial like *leerkaufen* in which the main predicate *kaufen* is not attested as an individual verb, but only occurs in combination with resultative adverbials.
 
 ### --- Verb with obligatory depictive adverbial --- {.unnumbered}
 
