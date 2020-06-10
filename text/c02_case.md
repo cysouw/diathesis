@@ -439,7 +439,7 @@ Because this diathesis is unmarked it is difficult to decide whether this should
 
 **Attested Verbs**
 
-- *abnehmen, anfangen, anhalten, anziehen, aufhören, baden, beginnen, blinken, bremsen, duschen, fliegen, haften, heilen, kochen, landen, läuten, öffnen, rauchen, riechen, schließen, schmecken, schmelzen, starten, stoppen, umdrehen, wiegen, zählen, zünden*
+- *abnehmen, anfangen, anhalten, anziehen, aufhören, baden, beginnen, blinken, bremsen, duschen, fliegen, haften, heilen, kochen, landen, läuten, öffnen, rauchen, riechen, schließen, schmecken, starten, stoppen, umdrehen, wiegen, zählen, zünden*
 
 **Examples**
 
@@ -456,7 +456,6 @@ Because this diathesis is unmarked it is difficult to decide whether this should
 - Er zählt mich zu den Menschen. Ich habe zu den Menschen gezählt. Die Tage sind gezählt (DWDS).
 - Ich habe das Boot umgedreht. Das Boot hat umgedreht. Das Boot ist umgedreht.
 - Ich habe die Bombe gezündet. Die Bombe hat gezündet.
-- Die Sonne schmilzt den Schnee. Die Eiswürfel sind geschmolzen. Das Eis hat geschmolzen.
 
 **Notes**
 
@@ -549,7 +548,7 @@ Although there is no overt difference between an unmarked anticausative and an u
 
 **Attested Verbs**
 
-- *altern, biegen, bleichen, brechen, fliehen, knicken, reifen, reißen, rollen, stürzen, trocknen*
+- *altern, biegen, bleichen, brechen, fliehen, knicken, reifen, reißen, rollen, schmelzen, stürzen, trocknen*
 - *abbrechen, abbrennen, abknicken, abkühlen, antreten, austrocknen, einfrieren, einknicken, einreißen, erstaunen, ersticken, ertrinken, niederbrennen, umstürzen, verbrennen, verderben, verdunsten, wegtreten, zerbrechen, zerknittern, zerreißen, zersplittern, zuklappen, zuschneien*
 
 **Examples**
@@ -565,6 +564,31 @@ Although there is no overt difference between an unmarked anticausative and an u
 - Ich habe den Ball weggetreten. Ich bin weggetreten.
 - Ich habe den Lärm der Stadt geflohen. Ich bin aus dem Gefängnis geflohen.
 - Die Welle knickt den Mast des Bootes. Der Mast knickt.
+- Die Sonne schmilzt den Schnee. Die Eiswürfel sind geschmolzen.
+
+### [ –N | NA ] Umlaut causative
+
+Originally based on a Germanic suffix *-jan*, which turned into an umlaut, some verbs have a different between an intransitive (e.g. *fallen*, 'to fall') and a causative (e.g. *fällen*).
+
+\ex.
+ \a. Der Baum ist gefallen.
+ \b. Ich habe den Baum gefällt.
+
+**Attested Verbs**
+
+- *biegen/beugen, fallen/fällen, liegen/legen, saugen/säugen, schwimmen/schwemmen, sinken/senken, sitzen/setzen, springen/sprengen*
+
+### [ –N | NA ] Umlaut adjectival causative {#sec:case-umlaut-adjectival-causative}
+
+The process to make a causative with the suffix *-jan* also applied to adjectival predicates. There are still a few remnants of such pairs found in contemporary German, in which the old suffix is retained as an umlaut \Next. More cases are available with preverbs, see [@sec:preverb-adjectival-causative].
+
+\ex.
+ \a. Die Kiste ist schwartz.
+ \b. Ich schwärze den Text.
+
+**Attested Verbs**
+
+- *voll/füllen, glatt/glätten, hart/härten, schwartz/schwärzen, warm/wärmen*
 
 ## Diatheses with subject exchange
 
