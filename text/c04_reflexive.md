@@ -135,7 +135,7 @@ Various verbs describing behavior like *verirren* 'to get lost' \Next need an ob
 
 **Attested Verbs**
 
-- Behaviour: *aufführen, beeilen, benehmen, betrinken, erhängen, gedulden, verfahren, verhalten, verirren, verlaufen, verschreiben, verspäten, verspekulieren, versprechen, vertun, verwählen*
+- Behaviour: *abmühen, aufführen, beeilen, benehmen, betrinken, erhängen, gedulden, verfahren, verhalten, verirren, verlaufen, verschreiben, verspäten, verspekulieren, versprechen, vertun, verwählen*
 - Body process: *bücken, erkälten, räuspern, übergeben*
 
 **Examples**
@@ -159,7 +159,7 @@ A widespread phenomenon are verbs with an obligatory accusative *sich* with a go
 - *für*   : *aussprechen, bedanken, eignen, entschuldigen*
 - *gegen* : *sträuben*
 - *in*    : *fügen, verlieben, versuchen*
-- *mit*   : *abfinden, abgeben, abmühen, abquälen, auskennen, beeilen, befassen, behelfen, beschäftigen*
+- *mit*   : *abfinden, abgeben, abmühen, abquälen, auskennen, beeilen, befassen, begnügen, behelfen, beschäftigen, zufriedengeben*
 - *nach*  : *erkundigen, sehnen, umsehen* 
 - *über*  : *beschweren, erkundigen*
 - *um*    : *bemühen, bewerben*
@@ -205,13 +205,19 @@ The verb *abgeben* 'to give away' \Next[a] has a rather different meaning from *
 
 ### [ Np ] Obligatory accusative reflexive + *mit* preposition (real reciprocals)
 
-A special group of verbs in this class are verbs with an reciprocal *mit* preposition, like *einigen* 'to reach an agreement' \Next[a]. On first notice, the *mit* phrase might look like a comitative argument \Next[b]. Just like comitative phrases, reciprocal *mit* phrases are not governed prepositions \Next[c], see [@sec:prepositions-comitative-intrumental]. However, different from comitative phrases, reciprocal *mit* phrases do not allow for the addition of *zusammen* \Next[d]. Verbs with reciprocal *mit* are sometimes called "real reciprocals" [or "reciproca tantum", @wiemer2007: 467-468] because they can be considered to be inherently reciprocal, though they can have a singular subject (see [@sec:reflexive-accusative-reciprocal] for the real reciprocal constructions with plural subjects).
+A special group of verbs in this class are verbs with an reciprocal *mit* preposition, like *einigen* 'to reach an agreement' \Next[a]. On first notice, the *mit* phrase might look like a comitative argument \NNext[a]. Just like comitative phrases, reciprocal *mit* phrases are not governed prepositions, compare \Next[b] and \NNext[b], see also [@sec:prepositions-comitative-intrumental]. However, different from comitative phrases, reciprocal *mit* phrases do not allow for the addition of *zusammen* \Next[c]. The addition of *zusammen* is possible with comitative *mit* \NNext[c]. 
+
+Verbs with reciprocal *mit* are sometimes called "real reciprocals" [or "reciproca tantum", @wiemer2007: 467-468] because they can be considered to be inherently reciprocal, although they still can have a singular subject (see [@sec:reflexive-accusative-reciprocal] for the reciprocal constructions with plural subjects).
 
 \ex.
  \a.    Ich habe mich mit meinem Nachbarn geeinigt.
- \b.    Ich habe mich mit meinem Nachbarn betrunken.
  \c. \* Ich habe mich damit geeinigt, dass der Nachbar geht.
  \d. \* Ich habe mich zusammen mit dem Nachbar geeinigt.
+
+\ex.
+ \a.    Ich habe mich mit meinem Nachbarn betrunken.
+ \b. \* Ich habe mich damit betrunken, dass der Nachbar geht.
+ \c.    Ich habe mich zusammen mit dem Nachbar betrunken.
 
 Various reciprocal *mit* verbs also exist without reflexive pronoun, but only in a completely different lexical meaning, e.g. *treffen*, which means 'to strike, to hit' without a reflexive pronoun \Next[a], but 'to meet' with a reflexive pronoun \Next[b].
 
@@ -246,12 +252,14 @@ A few verbs with obligatory *sich* additionally need an obligatory (adverbial) l
 
 **Attested Verbs**
 
-- *anstellen, aufhalten, befinden, begeben, ereignen, verkriechen, zutragen*
+- *aalen, anstellen, aufhalten (befinden), befinden, begeben, einfressen, einschleichen, ereignen, ergießen, fläzen, niederlassen, suhlen, verkriechen, verschanzen, zutragen*
 
 **Examples**
 
 - Auf der A 8 hat sich ein Unfall ereignet.
 - Ich halte mich in der Vestibule auf.
+- Ich aale mich in der Sonne.
+- Der Schmutz hatte sich tief in die bröckligen Wände eingefressen
 
 **Notes**
 
@@ -270,13 +278,14 @@ This pattern with an obligatory accusative reflexive with a dative is exceedingl
 
 **Attested Verbs**
 
-- *bücken (fügen), hingeben (eifrig widmen), widersetzen*
+- *bücken (fügen), hingeben (eifrig widmen), widersetzen, zugesellen*
 
 **Examples**
 
 - Ich hab mich der Aufgabe hingegeben.
 - Europa bückt sich dem Willen der USA.
 - Ich widersetze mich dem Befehl.
+- In Scharen gesellt sie sich häufig dem Hausgeflügel zu. (DWDS)
 
 ### [ NG ] Obligatory accusative reflexive + genitive
 
@@ -284,7 +293,7 @@ Accusative *sich* combined with an obligatory genitive argument is clearly attes
 
 **Attested Verbs**
 
-- *bedienen, befleißigen, bemächtigen, berauben, enthalten, entledigen, entsinnen, erfreuen, erwehren*
+- *bedienen, befleißigen, bemächtigen, bemüßigen, berauben, entäußern, enthalten, entledigen, entsinnen, erfreuen, erwehren*
 
 **Examples**
 
@@ -317,7 +326,7 @@ A dative *sich* with an obligatory accusative is clearly attested, though not ve
 
 - Appropriate: *aneignen, anmaßen, langen*
 - Appropriate cognitively: *abquälen (erarbeiten), aneignen, angewöhnen, ausdenken, denken, einbilden, merken, vorstellen (denken)*
-- *vornehmen*
+- *verbitten, vornehmen*
 
 **Examples**
 
@@ -405,11 +414,12 @@ In some of the (uncommon) verbs with an accusative *sich* and dative argument \N
 
 **Attested Verbs**
 
-- *beugen, fügen*
+- *anbiedern, beugen, fügen*
 
 **Examples**
 
 - Ich beuge mich seinem Willen. Ich beuge mich vor seinem Willen.
+- Er hatte sich (bei/an) ihm angebiedert.
 
 ### [ NG | NP ] Obligatory accusative reflexive + genitive antipassive
 
@@ -523,6 +533,18 @@ The verb *sorgen* 'to take care of' changes preposition with the addition of *si
  \b. Er sorgt sich um seine Mutter.
  \c. Er sorgt dafür, dass es seiner Mutter gut geht.
  \d. Er sorgt sich darum, dass es seiner Mutter gut geht.
+
+### [ NL | NL ] Free accusative reflexive + location
+
+The verb *schleichen* 'to sneak' changes the perfect auxiliary from *sein* to *haben* with the additional reflexive.
+
+\ex.
+ \a. Ich bin nach Hause geschlichen.
+ \b. Ich habe mich nach Hause geschlichen.
+
+**Attested Verbs**
+
+- *schleichen*
 
 ### [ NA | NA ] Free dative reflexive + accusative {#sec:reflexive-free-dative-sich-accusative}
 
@@ -1287,7 +1309,7 @@ The term "autocausative" is used by Geniušiené (1987: 183-184, 198-200) to des
 
 **Attested Verbs**
 
-- *abwenden, anziehen, aufrichten, äußern, erheben, hinlegen, hinsetzen, hinstellen, neigen, strecken, verschlafen, verschlucken*
+- *abwenden, anziehen, aufrichten, äußern, erheben, hinlegen, hinsetzen, hinstellen, neigen, räkeln, strecken, verschlafen, verschlucken*
 
 **Examples**
 
