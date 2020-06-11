@@ -163,7 +163,7 @@ A widespread phenomenon are verbs with an obligatory accusative *sich* with a go
 - *nach*  : *erkundigen, sehnen, umsehen* 
 - *über*  : *beschweren, erkundigen*
 - *um*    : *bemühen, bewerben*
-- *von*   : *erholen*
+- *von*   : *emanzipieren, erholen*
 - *vor*   : *schämen, verbeugen, verneigen*
 - *zu*    : *eignen, entscheiden, entschließen*
 
