@@ -2,6 +2,36 @@
 
 ## Introducing diathesis
 
+The typical example of a diathesis that will be found in virtually every grammatical descriptions of German, is the *werden + Infinitiv* passive \Next[a]. The special characteristic of such a passive is that the state-of-affairs is basically the same as in the corresponding active \Next[b], though the sentence structure of course differs between the two.
+
+\ex.
+ \a. Ein Gemälde wird (von den Künstler) gemalt.
+ \b. Der Künstler malt ein Gemälde.
+
+This approach to diathesis, viz. different sentence constructions that express the same situation, is applicable to an enormous number of grammatical phenomena in German. For example, some verbs allow for passive-like constructions without any auxiliary like *werden* \Next[a], or allow for a change between a case-marked and a prepositional argument \Next[b]. Further, there exist many different diatheses with reflexive pronouns \Next[c] or with preverbs \Next[d]. And various auxiliary-like construction beyond the *werden* passive also show diathesis \Next[e]. \footnote{Many examples in this book include masculine nouns because their articles overtly show the different cases. Notwithstanding this grammatical argument, I will try to use examples with as much diversity as possible.}
+
+\ex.
+ \a. Der Doktor heilt den Schmerz. Der Schmerz heilt (durch den Doktor).
+ \b. Der Jäger schießt den Bären. Der Jäger schießt auf den Bären.
+ \c. Der Lehrer beklagt den Lärm. Der Lehrer beklagt sich über den Lärm.
+ \d. Der Kandidat stammt aus einem Adelsgeschlecht. Der Kandidat entstammt einem Adelsgeslecht
+ \e. Der Ermittler löst den Fall. Der Fall ist (für den Ermittler) leicht zu lösen.
+
+
+
+#### Valency
+
+Valency is traditionally interpreted as a fixed constructional characteristic of a lexical verb, e.g. the verb *geben* 'to give' is said to be ditransitive. A central thesis of this book is that this conception of valency is misguided.
+
+- valency of a construction: most (all?) lexical verbs can appear in multiple constructions with different valencies
+- valency of a lexical verb: collection of all constructional valencies with links between them
+- lexical roles: links between valencies. Lexical roles are not purely semantic: they only count as a lexical role given certain grammatical characteristics. Lexical roles are not necessarily translatable! 
+
+
+Valency: is this really a characteristic of a verb? Most (all?) verbs seem to allow for multiple valencies. There is a strong tendency to try to reduce this variation to a single valency per verb (the 'real' valency), and various strategies are employed to arrive at such a prototypical valency (see e.g. [@welke2011: Ch. 9] for different approaches).
+
+#### Some general literature
+
 English [@levin1993], and for German: [@sauerland1994]. Typological [@malchukov2015a]
 
 "Konversenverhältnis der Aktanten" [@eroms1980: 24; cf. @heringer1968]
@@ -12,9 +42,7 @@ Studies of specific diatheses for individual verbs in German, e.g. [@devaere2018
 
 Monographies of specific diatheses, e.g. [@leirbukt1997; @holl2010; @jager2013]
 
-Valency: is this really a characteristic of a verb? Most (all?) verbs seem to allow for multiple valencies. There is a strong tendency to try to reduce this variation to a single valency per verb (the 'real' valency), and various strategies are employed to arrive at such a prototypical valency (see e.g. [@welke2011: Ch. 9] for different approaches).
-
-Further topics for discussion:
+#### Further topics for discussion:
 
 - social/communicative/areal function of diatheses
 - verb profiles: all diatheses per verb
@@ -23,19 +51,17 @@ Further topics for discussion:
 
 ## Defining diathesis
 
-#### Alternation {.unnumbered}
+A diathesis is defined here as special kind of alternation of two different clause constructions. To properly define the notion 'diathesis', I will first define 'alternation' in general. The definition of 'clause alternation' will be built on that basis. Finally, a diathesis will be defined as special kind of clause alternation.
 
 An \textsc{alternation} (or simply 'grammatical marking') is defined as follows:
 
 - An alternation consist of two different linguistic constructions, i.e. there are two **alternants**.
 - The lexical root does not change in the alternation, i.e. there is some linguistic material in both alternants that remains the same.
 - The difference between these alternants is overtly indicated by the presence of some grammatical linguistic elements.
-- Typically, the overt marking introduces a direction into the alternation, i.e. one alternant consists of less/shorter/zero linguistic elements ('less marked') and one  consists of more/longer/overt linguistic material ('more marked').
+- Typically, the overt marking introduces a **direction** into the alternation, i.e. one alternant consists of less/shorter/zero linguistic elements ('less marked') and one consists of more/longer/overt linguistic material ('more marked').
 - In some cases, the direction of the alternation remains undecidable, i.e. the alternation is **equipollent**.
 
 Alternations are the basis of all grammatical analysis. It includes for example (i) morphological oppositions like singular *Haus* 'house' vs. plural *Häuser* 'houses'; (ii) different grammatical forms like synthetic present *er schläft* 'he sleeps' vs. analytic perfect *er hat geschlafen* 'he has slept'; or (iii) different sentence constructions attested with specific verbs, like transitive *Ich verkaufe das Buch* 'I sell the book' vs. reflexive anticausative with obligatory adverbial *Das Buch verkauft sich gut* 'the book is selling well'.
-
-#### Clause alternation {.unnumbered}
 
 Based on this definition of an alternation, a \textsc{clause alternation} is defined as follows:
 
@@ -45,15 +71,13 @@ Based on this definition of an alternation, a \textsc{clause alternation} is def
 - The **lexical roles of the verb do not change** between the alternants. Note, however, that there might be new roles introduced or some roles might be left unexpressed.
 - A specific clause alternation is only applicable to a restricted set of verbs. The list of applicable verbs constitutes the **domain of application** of the alternation. Any semantic/syntactic characterisation of these applicable verbs should be seen as a summary of the domain of application, not its definition.
 
-Clause alternations are widespread when auxiliaries are introduced, like modal *müssen* 'have to' \Next[a]. Yet, clause alternation are attested with various different markings, like the verb particle *auf* marking completeness of the action \Next[b] or the somewhat mysterious reflexive *sich* with verbs like *ansehen* 'look at' \Next[c]. Arguably, the special word order in German subordinate clauses (viz. the finite verb occurs clause final) can be considered a clause alternation.
+Clause alternations are widespread when auxiliaries are introduced, like modal *müssen* 'have to' \Next[a]. Yet, clause alternation are attested with various different markings, like the verb particle *auf* marking completeness of the action \Next[b] or the somewhat mysterious reflexive *sich* with verbs like *ansehen* 'look at' \Next[c]. Arguably, the special word order in German subordinate clauses (viz. the finite verb occurs clause-final) can be considered a clause alternation.
 
 \ex.
  \a. Er erledigt seine Hausaufgaben. Er muss seine Hausaufgaben erledigen.
  \b. Ich esse den Apfel. Ich esse den Apfel auf.
  \c. Er hat das Haus angesehen. Er hat sich das Haus angesehen.
  \d. Er erledigt seine Hausaufgaben. Ich hoffe, dass er seine Hausaufgaben erledigt
-
-#### Diathesis ('valency alternation') {.unnumbered}
 
 Based on the notion of a clause alternation, a \textsc{diathesis} (or 'valency alternation', I use both terms synonymously) is defined as follows:
 
@@ -84,9 +108,9 @@ Hidden in the succinct definition of diathesis from the previous section there a
 One of the crucial characteristics of the syntax of German is that the finite verb is moved to the end of the sentence in a subordinate clauses. I will use the dummy main sentence *Es ist bekannt, dass* 'it is known that' to force a subordinate construction. The position of the finite verb in the subordinate clause can be used the identify the boundary of the clause: everything that can occur before the finite verb belongs to the clause; everything that has to come after the finite verb belongs to a different clause. For example, the simple sentence \Next[a] will turn into \Next[b] as a subordinate clause, with the finite verb at the end; \Next[c] is not possible (with any constituent after the finite verb), so the whole sentence in \Next[a] is a single clause. Constructions such with a pattern will be called \textsc{coherent}, following Bech [-@bech1955]; see also Kiss [-@kiss1995] for a more in-depth and more extensive discussion of the concept 'coherence'. Coherent constructions are considered to be \textsc{monoclausal}.
 
 \ex.
- \a.   Ich gehe morgen nach Hause.
- \b.   Es ist bekannt, dass ich morgen nach Hause gehe.
- \c. * Es ist bekannt, dass ich gehe morgen nach Hause.
+ \a.    Ich gehe morgen nach Hause.
+ \b.    Es ist bekannt, dass ich morgen nach Hause gehe.
+ \c. \* Es ist bekannt, dass ich gehe morgen nach Hause.
 
 Exactly the same coherence is attested in auxiliary constructions with participles \Next and infinitives \NNext. Such constructions are also monoclausal.
 
@@ -100,7 +124,7 @@ Exactly the same coherence is attested in auxiliary constructions with participl
  \b.    Es ist bekannt, dass ich morgen ein Haus kaufen will.
  \c. \* Es ist bekannt, dass ich morgen kaufen will ein Haus.
 
-Constructions with *zu* and infinitive are sometimes coherent, e.g. \*Next with finite verb *gibt*, and sometimes not coherent, e.g. \NNext with finite verb *hofft*. The coherent construction in \Next is thus monoclausal, while the non-coherent construction in \NNext consists of two clauses.
+Constructions with *zu* and infinitive are sometimes coherent, e.g. \Next with finite verb *gibt*, and sometimes not coherent, e.g. \NNext with finite verb *hofft*. The coherent construction in \Next[a] is thus monoclausal, while the non-coherent construction in \NNext[a] consists of two clauses.
 
 \ex.
  \a.    Der Protest gibt ihr zu denken.
@@ -131,22 +155,26 @@ As with all grammaticalisation processes, it is difficult to decide where to dra
 
 #### Lexical roles {.unnumbered}
 
+roles, not arguments!
+
 Of crucial importance for the description of diathesis is the proper identification of lexically governed constituents, i.e. the arguments of a clausal predicate ('verb'). Intuitively, the arguments of a predicate are those roles/participants that are inherently part of the meaning of the lexeme. For example, a verb like 'to accuse' implies the presence of an accuser, an accussee and an accusation. However, a purely introspective semantic determination of such lexical roles is fraught with unverifiable intuitive decisions. A widespread idea is that for a constituent to be an inherent argument, the consituent in question should be invoked specifically by the lexical predicate and not have an adjunct status available to every predicate throughout the language. Yet, this intuition of a difference between arguments and adjuncts has to be operationalised in more detail. As an operationalisation, I propose to determine the arguments of a predicate based on a series of form-based structural arguments, to be detailed below. Note that these arguments are specifically tailored to the German language structure and cannot integrally be translated to other languages.
 
-Basically, there are three kinds of constituents with argument status in German. They will quickly be introduced here and then discussed in more detail in the rest of this chapter. First, all case marked noun phrase constituents are arguments (with a few exceptions that will be discussed below). Case marked constituent (a) can be questioned by question pronouns *wer* or *was*, including their case forms *wem*, *wen* and *wessen* (b,c). Further, they can be pronominalised by personal pronouns (d) or indefine pronouns *(irgend)jemand* or *(irgend)etwas* (e).
+Basically, there are three kinds of constituents with argument status in German. They will quickly be introduced here and then discussed in more detail in Chapter [-@sec:case]. First, all case marked noun phrase constituents are arguments (with a few exceptions that will be discussed below). Case marked constituent \Next[a] can be questioned by question pronouns *wer* or *was*, including their case forms *wem*, *wen* and *wessen* \Next[b,c]. Further, they can be pronominalised by personal pronouns \Next[d] or indefine pronouns *(irgend)jemand* or *(irgend)etwas* \Next[e].
 
-(a) Der Löwe sieht einen Vogel.
-(b) Wer sieht einen Vogel?
-(c) Was sieht der Löwe?
-(d) Er sieht ihn.
-(e) Jemand sieht etwas.
+\ex.
+ \a. Der Löwe sieht einen Vogel.
+ \b. Wer sieht einen Vogel?
+ \c. Was sieht der Löwe?
+ \d. Er sieht ihn.
+ \e. Jemand sieht etwas.
 
-Second, prepositional phrases (a) are arguments if and only if they can be pronominalised by *da(r)+preposition* (b), questioned by *wo(r)+preposition* (c), or even more telling, replaced by a complement clause of the form *da(r)+preposition, dass ...* (d). A few exceptional cases will be discussed below.
+Second, prepositional phrases \Next[a] are arguments if and only if they can be pronominalised by *da(r)+preposition* \Next[b], questioned by *wo(r)+preposition* \Next[c], or even more telling, replaced by a complement clause of the form *da(r)+preposition, dass ...* \Next[d]. A few exceptional cases will be discussed below.
 
-(a) Der Weltreisende wartet auf einen Zug.
-(b) Der Weltreisende wartet darauf.
-(c) Worauf wartet der Weltreisende?
-(d) Der Weltreisende wartet darauf, dass ein Zug kommt.
+\ex.
+ \a. Der Weltreisende wartet auf einen Zug.
+ \b. Der Weltreisende wartet darauf.
+ \c. Worauf wartet der Weltreisende?
+ \d. Der Weltreisende wartet darauf, dass ein Zug kommt.
 
 Third, all complement clauses are arguments (a,b). Complement clauses can be questioned by *was* (c) and pronominalised by a definite pronoun *es* (d) or an indefinite pronoun *(irgend)etwas* (e). Complement clauses are thus syntactically highly similar to case marked noun phrases. Caution should be taken when interpreting pronominalised examples like (d,e), because it is not immediately obvious whether the pronouns are replacing a noun phrase or a complement clause. For example, with the verb *hoffen* (e) it is not possible to replace the pronoun *etwas* with a noun phrase, in contrast to the verb *sehen* above.
 
