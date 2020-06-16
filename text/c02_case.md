@@ -1,4 +1,4 @@
-# Case-marking alternations [#sec:case]
+# Case-marking alternations {#sec:case}
 
 ## Introduction
 
