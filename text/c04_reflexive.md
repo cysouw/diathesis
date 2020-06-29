@@ -135,7 +135,7 @@ Various verbs describing behavior like *verirren* 'to get lost' \Next need an ob
 
 **Attested Verbs**
 
-- Behaviour: *abmühen, aufführen, beeilen, benehmen, betrinken, erhängen, gedulden, verfahren, verhalten, verirren, verlaufen, verschreiben, verspäten, verspekulieren, versprechen, vertun, verwählen*
+- Behaviour: *abmühen, aufführen, beeilen, benehmen, betrinken, erhängen, gedulden, rentieren, verfahren, verhalten, verirren, verlaufen, verschreiben, verspäten, verspekulieren, versprechen, vertun, verwählen*
 - Body process: *bücken, erkälten, räuspern, übergeben*
 
 **Examples**
@@ -451,7 +451,7 @@ There are three different kinds of alternations involving reflexive pronouns tha
 
 ### --- Free reflexive pronouns --- {.unnumbered}
 
-Some verbs allow for both a construction with and without *sich*, but there is no difference in the valency between these two constructions. The difference in meaning between the two alternants is small and is in need for more in-depth study in all cases presented below. Note that also for these verbs a dative reflexive pronoun only occurs when a full accusative argument is present.
+Some verbs allow for both a construction with and without *sich*, but there is no difference in the valency between these two constructions. The difference in meaning between the two alternants is small and is in need for more in-depth study in all cases presented below. Note that also for these verbs a dative reflexive pronoun only occurs when a full accusative argument is present. An early discussion of the phenomenon is found in Stötzel [-@stotzel1970: 174-177].
 
 ### [ N | N ] Free accusative reflexive
 
@@ -461,9 +461,23 @@ The semantic difference between these two alternants of the verbs in this group 
  \a. Er kniet auf dem Kissen.
  \b. Er kniet sich auf das Kissen.
 
+Bare anticausatives (see [@sec:case-haben-anticausative]) might seem to have a 'free' reflexive \Next[a,b]. However, the construction with *sich* \Next[b] is just a 'self-inflicting' reflexive of the transitive \Next[c],
+
+\ex.
+ \a. Ich habe geduscht.
+ \b. Ich habe mich geduscht.
+ \c. Ich habe den Elefanten geduscht.
+
+Similary, reflexive anticausative (see [@sec:reflexive-anticausative]) might seem to have a 'free' reflexive \Next[a]. However, the two possibilities are clearly distinguished by a different perfekt auxiliary \Next[b]. Also a transitive variant is possible \Next[c]. This all indicates that a verb like *abkühlen* is a reflexive anticausative, and the intransitive construction without *sich* is a 'Zustandspassiv' anticausative (see [@sec:participles-sein-zustandspassiv]).
+
+\ex.
+ \a. Die Luft kühlt (sich) ab.
+ \b. Die Luft ist abgekühlt. Die Luft hat sich abgekühlt.
+ \c. Der Regen hat die Luft abgekühlt. 
+
 **Attested Verbs**
 
-- *ausruhen, ausschlafen, drehen, hinknien, knien, irren*
+- *ausruhen, ausschlafen, drehen, erbrechen, hinknien, knien, irren*
 
 **Examples**
 
@@ -472,6 +486,7 @@ The semantic difference between these two alternants of the verbs in this group 
 - Die Erde dreht. Die Erde dreht sich.
 - Ich habe hingekniet. Ich habe mich hingekniet.
 - Er hat ausgeschlafen. Er hat sich ausgeschlafen.
+- Der Kranke hat mehrmals erbrochen. Der Betrunkene hat sich erbrochen.
 
 **Notes**
 
@@ -486,13 +501,6 @@ The verb *ausruhen* until very recently was commonly used without *sich*, but th
 The verb *irren* without reflexive pronoun also seems to be old-fashioned \Next.
 
 \ex. Es irrt der Mensch so lang er strebt (DWDS: Goethe, Faust: Prolog 317)
-
-Bare anticausatives (see [@sec:case-haben-anticausative]) might seem to have a 'free' reflexive \Next[a,b]. However, the construction with *sich* \Next[b] is just a 'self-inflicting' reflexive of the transitive \Next[c],
-
-\ex.
- \a. Ich habe geduscht.
- \b. Ich habe mich geduscht.
- \c. Ich habe den Elefanten geduscht.
 
 ### [ NP | NP ] Free accusative reflexive+ governed preposition
 
@@ -1029,7 +1037,7 @@ This alternation is probably more frequent in Perfekt, because there is no focus
 - Change of position: *ändern, bewegen, drehen, öffnen, schließen, spalten, verschieben, versammeln*
 - Change of dimension: *abschwächen, ansparen, ausbreiten, ausdehnen, beschleunigen, beschränken, entfalten, erhöhen, erweitern, senken, steigern, verändern, verbessern, verbreiten, verdoppeln, verengen, vergrößern, verkleinern, verkürzen, verlangsamen, verlängern, vermehren, verringern, verstärken*
 - Change of physical state: *abkühlen, abnutzen, abschalten, auflösen, aufwärmen, ausschalten, beziehen, einfügen, einschalten, eindrücken, entzünden, erwärmen, färben, festigen, füllen, gliedern, komplizieren, leeren, stürzen, verändern, verbessern, vereinfachen, verhaken, verschlechtern, verwandeln, wärmen*
-- Others: *ansammeln, bessern, bestätigen, entscheiden, konstituieren, lohnen, unterwerfen, wiederholen, zeigen*
+- Others: *ansammeln, bessern, bestätigen, erfüllen, entscheiden, konstituieren, lohnen, unterwerfen, wiederholen, zeigen*
 
 **Examples**
 
@@ -1051,6 +1059,7 @@ This alternation is probably more frequent in Perfekt, because there is no focus
 - Er bestätigt die Nachricht. Die Nachricht bestätigt sich.
 - Wir wollen das Problem nicht (noch mehr) komplizieren. Die Lage hat sich in den letzten Tagen kompliziert.
 - Ich bessere die Straße. Das Wetter bessert sich.
+- Er erfüllt meine Wünsche. Meine Wünsche erfüllen sich.
 
 **Notes**
 
@@ -1124,6 +1133,7 @@ With the preposition *mit* or *von* the prepositional phrase is not governed \Ne
 **Attested Verbs**
 
 - an      : *erinnern, gewöhnen*
+- auf     : *lenken*
 - mit/von : *ernähren, nähren*
 - mit/von (symmetrical) : *trennen, verbinden, vermischen, versöhnen*
 
@@ -1135,6 +1145,7 @@ With the preposition *mit* or *von* the prepositional phrase is not governed \Ne
 - Ich vermische das Wasser mit dem Saft. Das Wasser vermischt sich mit dem Saft.
 - Ich trenne die Lampe vom Stromnetz. Die Lampe trennt sich dauernd vom Stromnetz.
 - Die Liebe verbindet Karl mit Anna. Karl verbindet sich mit Anna.
+- Der Zeuge lenkt den Verdacht auf den Ehemann. Der Verdacht lenkte sich auf den Ehemann.
 
 ### [ NAL | –NL ] Reflexive anticausative + location
 
@@ -1167,7 +1178,7 @@ These verbs are similar to *sich* transitive anticausative, but "von Geisterhand
 - *aus*   : *bilden, entwickeln, ergeben*
 - *vor*   : *drücken*
 - *um*    : *kümmern*
-- *in*    : *spiegeln*
+- *in*    : *langweilen, spiegeln*
 - *mit*   : *aufhalten, beschäftigen, entspannen, schmücken, trösten, unterhalten, überlagern*
 - *für*   : *interessieren*
 - *bei*   : *anstrengen, beruhigen, entsetzen*
@@ -1210,6 +1221,7 @@ These verbs are similar to *sich* transitive anticausative, but "von Geisterhand
 - Die Frage ergibt interessante Probleme. Interessante Probleme ergeben sich aus der Frage.
 - Der Referenzstrahl überlagert den Pulslaser. Der Pulslaser überlagert sich dabei mit einem Referenzstrahl.
 - Der Anblick entsetzte sie. Bei diesem Anblick entsetzte sie sich.
+- Die Schule langweilt mich. Ich langweile mich in der Schule.
 
 **Notes**
 
