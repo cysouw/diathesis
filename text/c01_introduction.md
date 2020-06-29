@@ -1,57 +1,31 @@
-# Introduction
+# Setting the scene
 
 ## Introducing diathesis
 
-The typical example of a diathesis that will be found in virtually every grammatical descriptions of German, is the *werden + Infinitiv* passive \Next[a]. The special characteristic of such a passive is that the state-of-affairs is basically the same as in the corresponding active \Next[b], though the sentence structure of course differs between the two.
+The quintessential example of diathesis, found in virtually every grammatical descriptions of German, is the *werden + Infinitiv* passive \Next[a]. The special characteristic of this construction is that the state-of-affairs described by the passive is essentially the same as in the corresponding active \Next[b], though the sentence structure of course differs between the two expressions.
 
 \ex.
- \a. Ein Gemälde wird (von den Künstler) gemalt.
+ \a. Das Gemälde wird (von einem Künstler) gemalt.
  \b. Der Künstler malt ein Gemälde.
 
-This approach to diathesis, viz. different sentence constructions that express the same situation, is applicable to an enormous number of grammatical phenomena in German. For example, some verbs allow for passive-like constructions without any auxiliary like *werden* \Next[a], or allow for a change between a case-marked and a prepositional argument \Next[b]. Further, there exist many different diatheses with reflexive pronouns \Next[c] or with preverbs \Next[d]. And various auxiliary-like construction beyond the *werden* passive also show diathesis \Next[e]. \footnote{Many examples in this book include masculine nouns because their articles overtly show the different cases. Notwithstanding this grammatical argument, I will try to use examples with as much diversity as possible.}
+This approach to diathesis, viz. different sentence structures that express approximately the same situation, is applicable to an enormous amount of grammatical phenomena in German. For example, some verbs allow for passive-like constructions without any *werden* auxiliary \Next[a], other verbs allow for an alternation between a case-marked accusative and a prepositional phrase \Next[b]. Further, there exist many different kinds of diathesis marked by a reflexive pronouns \Next[c] or preverbs \Next[d]. And various auxiliary-like construction beyond the *werden* passive also show diathesis \Next[e].\footnote{Many examples in this book include masculine nouns because the articles then overtly show the different German cases. Notwithstanding this grammatical preference, I will try to use examples with as much diversity as possible throughout this book.}
 
 \ex.
  \a. Der Doktor heilt den Schmerz. Der Schmerz heilt (durch den Doktor).
  \b. Der Jäger schießt den Bären. Der Jäger schießt auf den Bären.
  \c. Der Lehrer beklagt den Lärm. Der Lehrer beklagt sich über den Lärm.
- \d. Der Kandidat stammt aus einem Adelsgeschlecht. Der Kandidat entstammt einem Adelsgeslecht
+ \d. Der Kandidat stammt aus einem Adelsgeschlecht. Der Kandidat entstammt einem Adelsgeschlecht
  \e. Der Ermittler löst den Fall. Der Fall ist (für den Ermittler) leicht zu lösen.
 
+All in all, there are about 200 different diatheses described in this book, some highly productive, some only attested with a handful of verbs. The main goal of this book is the simply present this wealth of grammatical possibility in a unified manner, while at the same time attempting to classify and organise this diversity. There is no attempt to fit all these constructional possibilities of the German language into any grammatical framework, but by simply organising all this information there are already various generalisation popping up along the way.
 
+Each diathesis has its own sub-subsection with an unique section header that can be used as a name to refer to the diathesis. Many of the names are quite boring, but hopefully descriptively useful for future reference. Individual verbs (often with concrete examples) are listed with each diathesis to show the extend of its applicability. Neither these lists of verbs, nor the examples, are intended to be exhaustive in any way. They should be seen as a first step towards more in-depth research into individual diatheses or into the different constructional possibilities that exist for individual verbs.
 
-#### Valency
-
-Valency is traditionally interpreted as a fixed constructional characteristic of a lexical verb, e.g. the verb *geben* 'to give' is said to be ditransitive. A central thesis of this book is that this conception of valency is misguided.
-
-- valency of a construction: most (all?) lexical verbs can appear in multiple constructions with different valencies
-- valency of a lexical verb: collection of all constructional valencies with links between them
-- lexical roles: links between valencies. Lexical roles are not purely semantic: they only count as a lexical role given certain grammatical characteristics. Lexical roles are not necessarily translatable! 
-
-
-Valency: is this really a characteristic of a verb? Most (all?) verbs seem to allow for multiple valencies. There is a strong tendency to try to reduce this variation to a single valency per verb (the 'real' valency), and various strategies are employed to arrive at such a prototypical valency (see e.g. [@welke2011: Ch. 9] for different approaches).
-
-#### Some general literature
-
-English [@levin1993], and for German: [@sauerland1994]. Typological [@malchukov2015a]
-
-"Konversenverhältnis der Aktanten" [@eroms1980: 24; cf. @heringer1968]
-
-Discussions of german alternations in the context of valency: [@eroms2000: Ch. 10; @agel2000: Ch. 6]. 
-
-Studies of specific diatheses for individual verbs in German, e.g. [@devaere2018; @imo2018]
-
-Monographies of specific diatheses, e.g. [@leirbukt1997; @holl2010; @jager2013]
-
-#### Further topics for discussion:
-
-- social/communicative/areal function of diatheses
-- verb profiles: all diatheses per verb
-- role clusters: which lexical roles group together based on diathesis groupings
-- verb clusters: which lexical verbs show similar diatheses
+The current attempt to present a all-encompassing survey of German diathesis builds on a rich scholarly tradition (with many scholarly precursors to be cited in appropriate places throughout this work). A comparable and highly influential survey of diathesis for English is Levin [-@levin1993], followed by a similar attempt for German by Sauerland [-@sauerland1994]. A recent cross-linguistic survey of valency and diathesis in this tradition is edited by Malchukov & Comrie [-@malchukov2015a], which also includes data on German [@haspelmath2013a]. Independent of Levin's work, there is a long tradition in the German grammatical literature to investigate diathesis, e.g. as "Konversenverhältnis der Aktanten" [@eroms1980: 24; cf. @heringer1968]. Basic summaries of german diathesis in the context of valency can be found in Eroms [-@eroms2000: Ch. 10] or Ágel [-@agel2000: Ch. 6]. There even exist a few monographies about specific German diatheses [@leirbukt1997; @holl2010; @jager2013] and recently some corpus studies into the effect of specific diatheses on individual verbs have appeared [@devaere2018; @imo2018]. 
 
 ## Defining diathesis
 
-A diathesis is defined here as special kind of alternation of two different clause constructions. To properly define the notion 'diathesis', I will first define 'alternation' in general. The definition of 'clause alternation' will be built on that basis. Finally, a diathesis will be defined as special kind of clause alternation.
+A diathesis is defined here as special kind of alternation between two different clause constructions. To properly define the notion 'diathesis', I will first define 'alternation' in general. The definition of 'clause alternation' will be built on that basis. Finally, a diathesis will be defined as special kind of clause alternation.
 
 An \textsc{alternation} (or simply 'grammatical marking') is defined as follows:
 
@@ -87,25 +61,30 @@ Based on the notion of a clause alternation, a \textsc{diathesis} (or 'valency a
 - As an extreme case, the reframing of a role might consist in the **addition** of a completely new role or in the **complete removal** of an existing role.
 - As is true for all alternations, a diathesis has a **direction** from a formally 'less marked' to a 'more marked' alternant. However, in some special instances a diathesis can show no other overt marking than the change in marking of the reframed roles itself, i.e. a **bare diathesis** (or 'equipollent' diathesis).
 
-The prototypical example of a diathesis is the *werden + Partizip* passive \Next[a]. In both clause alternants the same state of affairs is described, but the marking of the participants is different. However, the diversity of diatheses in German is enormous as this book attempts to show. There are, for example, bare diatheses (i.e. diatheses without any marking on the verb) like the infamous anticausative in \Next[b] or antipassives marked with a reflexive pronouns as shown in \Next[c].
+The prototypical example of a diathesis is the *werden + Partizip* passive \Next[a]. In both clause alternants the same state of affairs is described, but the marking of the participants is different. However, the diversity of diatheses in German is enormous as this book attempts to show. There are, for example, bare diatheses (i.e. diatheses without any marking on the verb) like the infamous anticausative in \Next[b] or antipassives marked with a reflexive pronouns as shown in \Next[c]. The notion of valency alternation should be used with care, because there are various diatheses with clearly reframed roles, though the valency does not change between the alternants \Next[d].
 
 \ex.
  \a. Der Schreiner hat den Tisch angemalt. Der Tisch wurde von den Schreiner angemalt.
  \b. Ich koche den Kaffee. Der Kaffee kocht.
  \c. Der Fahrradfahrer fürchtet den Anstieg. Der Fahrradfahrer fürchtet sich vor den Anstieg.
+ \d. Ich schmiere Salbe auf die Wunde. Ich beschmiere die Wunde mit Salbe.
 
 ## Definitional details
 
-Hidden in the succinct definition of diathesis from the previous section there are various intricate grammatical concepts that need some more explanation.
+Hidden in the succinct definition of diathesis from the previous section there are various intricate grammatical concepts that need some more discussion in subsequent sections:
 
 - Monoclausality and coherence: Classifying a multi-verb sentence as a single clause.
-- Grammaticalisation of lexical meaning: One phonological root can be different lexemes.
-- Lexical roles: Roles are primarily lexeme-specific; semantic roles are clusters of lexical roles.
+- Grammaticalisation of lexical meaning: One phonological root can be different lexemes after diathesis.
+- Utterance valency and lexeme valency: Valency should not be seen as a characteristic of lexemes, but as a characteristic of utterances.
+- Arguments within utterance valency: Arguments should be defined within utterances, not as characteristics of a lexeme.
+- Lexical roles: Roles are lexeme-specific; semantic roles are clusters of lexical roles.
 - Domain of application: Form-based lexical classes are the crucial empirical evidence of grammatical theory.
 
-#### Monoclausality and coherence {.unnumbered}
+### Monoclausality and coherence
 
-One of the crucial characteristics of the syntax of German is that the finite verb is moved to the end of the sentence in a subordinate clauses. I will use the dummy main sentence *Es ist bekannt, dass* 'it is known that' to force a subordinate construction. The position of the finite verb in the subordinate clause can be used the identify the boundary of the clause: everything that can occur before the finite verb belongs to the clause; everything that has to come after the finite verb belongs to a different clause. For example, the simple sentence \Next[a] will turn into \Next[b] as a subordinate clause, with the finite verb at the end; \Next[c] is not possible (with any constituent after the finite verb), so the whole sentence in \Next[a] is a single clause. Constructions such with a pattern will be called \textsc{coherent}, following Bech [-@bech1955]; see also Kiss [-@kiss1995] for a more in-depth and more extensive discussion of the concept 'coherence'. Coherent constructions are considered to be \textsc{monoclausal}.
+Diatheses are alternations between single clauses, though a single clause in German can sometimes consist of multiple verb forms. It is crucial to strictly define when multi-verb constructions are a single clause. The basis of the definition of monoclausality is a concept called 'coherence'.
+
+One of the crucial characteristics of the syntax of German is that the finite verb is moved to the end of the sentence in a subordinate clauses. I will use the dummy main sentence *Es ist bekannt, dass* 'it is known that' to force a subordinate construction. The position of the finite verb in the subordinate clause can be used the identify the boundary of the clause: everything that can occur before the finite verb belongs to the clause; everything that has to come after the finite verb belongs to a different clause. For example, the simple sentence \Next[a] will turn into \Next[b] as a subordinate clause, with the finite verb at the end; \Next[c] is not possible (with any constituent after the finite verb), so the whole sentence in \Next[a] is a single clause. Constructions with such a pattern will be called \textsc{coherent}, following Bech [-@bech1955]; see also Kiss [-@kiss1995] for a more in-depth and more extensive discussion of the concept 'coherence'. Coherent constructions are considered to be \textsc{monoclausal}.
 
 \ex.
  \a.    Ich gehe morgen nach Hause.
@@ -143,7 +122,11 @@ In some intermediate cases both orders are possible, as shown in \Next. These co
  \b.    Es ist bekannt, dass ich dir helfe den Koffer zu tragen.
  \c.    Es ist bekannt, dass ich dir den Koffer zu tragen helfe.
 
-#### Grammaticalisation of lexical meaning {.unnumbered}
+Maybe surprisingly, but when the above definition of monoclausality is strictly followed, then it turns out that there are dozens of verbs that can be used as the finite 'auxiliary'. As finite auxiliaries these verbs are strongly grammaticalised, i.e. they shed much of their lexical meaning when used in multi-verb constructions. Such grammaticalised verbs are classified into different groups and referred to by many different names in the German grammatical literature, e.g. *Hilfsverb*, *Kopulaverb*, *Modalverb*, *Modalitätsverb*, *Halbmodalverb* [@eisenberg2006a], *Funktionsverb* [Polenz 1963 cited in @kamber2008: 34], *Strukturverb* [@weber2005], or *Stützverb* [Seelbach 1991 cited in @kamber2008: 34]. I will not pursue the question here how to classify these verbs into different kinds. I will simply refer to the whole group of these 'auxiliary' verbs as \texsc{light verbs}. All light verbs discussed in later chapters are shown in alphabetical order in \Next.
+
+\ex. *anfangen, aufhören, aussehen, beginnen, bekommen, bleiben, brauchen, bringen, drohen, dürfen, erscheinen, fahren, finden, fühlen, geben, gehen, gehören, gelten, glauben, haben, halten, heißen, helfen, hören, kommen, kriegen, können, lassen, legen, lehren, liegen, machen, möchten, mögen, müssen, nehmen, pflegen, riechen, scheinen, schicken, sehen, sein, setzen, sollen, spüren, stehen, tun, versprechen, werden, wirken, wissen, wollen*
+
+### Grammaticalisation of lexical meaning
 
 A difficult problem is the question whether it is really the same verb that is used in two different alternating constructions. For example, the verb *trinken* 'to drink' is a regular transtive verb, but when used intransitively, *er trinkt* 'he drinks', it has a clear implication that his drinking includes too much alcohol, so it might be better translated as 'he is an alcoholic'. In this case, this intransitive interpretation is probably best analysed as a conventional implicature, because the alcoholism aspect of the meaning can be suppressed given the right context.
 
@@ -151,15 +134,33 @@ In general, when the same lexical verb is used in different alternating construc
 
 In between those extremes (i.e. conventional implicature and different lexicalisation) there exist various intermediate phenomena. For example, the verb *hängen* 'to hang' can be used as a regular intransitive verb with a location, like *Er hängt an einem Seil* 'He dangles to a rope', but the specific combination with the preposition *an* can also have a special reading of 'being emotionally attached to something', like in *Er hängt an seinem Teddy* 'He is (emotionally) attached to his Teddy'. In this case it seems most appropriate to interpret the combination *hängen an* as a separate lexicalisation.
 
-As with all grammaticalisation processes, it is difficult to decide where to draw the line on the continuum between conventional implicature or metaphorical extension (*trinken*) and contextual lexicalisation (*hängen an*) or completely different lexicalisation (*auftreten*, *abhauen*). I tend to be rather lenient in allowing slightly different meanings to be included as the 'same' verb, but will excluded the latter two types on the continuum as separate lexicalisations of homophonous elements.
+As with all grammaticalisation processes, it is often difficult to decide where to draw the line on the continuum between conventional implicature or metaphorical extension (*trinken*) and contextual lexicalisation (*hängen an*) or completely different lexicalisation (*auftreten*, *abhauen*). I tend to be rather lenient in allowing slightly different meanings to be included as the 'same' verb, but will excluded the latter two types on the continuum as separate lexicalisations of homophonous elements.
 
-#### Lexical roles {.unnumbered}
+### Utterance valency and lexeme valency
 
-roles, not arguments!
+Valency is traditionally interpreted as a fixed constructional characteristic of a lexical verb, e.g. the verb *geben* 'to give' is said to be ditransitive. A central thesis of this book is that this conception of valency is misguided. Individual verbs can (and normally will) be used in many different constructions with different valency (i.e. most verbs show some kind of diathesis). Consider for example the verb *wehen* 'to blow'. Such weather verbs are often considered to have zero valency, which in German is characterised by an obligatory *es* pronoun \Next[a]. However, the same verb can just as well be used as an intransitive \Next[b,c], as a transitive with an accusative object \Next[d], or even as a ditransitive with a dative and accusative object \Next[e]. Note that the prepositional phrase in \Next[c,d,e] cannot be left out, and its obligatory presence might be used to argue for an argument status of this prepositional phrase. The example in \Next[e] then will be an example of the verb *wehen* with a valency of four.
 
-Of crucial importance for the description of diathesis is the proper identification of lexically governed constituents, i.e. the arguments of a clausal predicate ('verb'). Intuitively, the arguments of a predicate are those roles/participants that are inherently part of the meaning of the lexeme. For example, a verb like 'to accuse' implies the presence of an accuser, an accussee and an accusation. However, a purely introspective semantic determination of such lexical roles is fraught with unverifiable intuitive decisions. A widespread idea is that for a constituent to be an inherent argument, the consituent in question should be invoked specifically by the lexical predicate and not have an adjunct status available to every predicate throughout the language. Yet, this intuition of a difference between arguments and adjuncts has to be operationalised in more detail. As an operationalisation, I propose to determine the arguments of a predicate based on a series of form-based structural arguments, to be detailed below. Note that these arguments are specifically tailored to the German language structure and cannot integrally be translated to other languages.
+\ex.
+ \a. Heute weht es.
+ \b. Kein Lüftchen wehte gestern.
+ \c. Der Rosenduft weht ins Zimmer.
+ \d. Der Sturm weht den Schnee von den Dächern.
+ \e. Der Fahrtwind weht mir die Mütze vom Kopf.
 
-Basically, there are three kinds of constituents with argument status in German. They will quickly be introduced here and then discussed in more detail in Chapter [-@sec:case]. First, all case marked noun phrase constituents are arguments (with a few exceptions that will be discussed below). Case marked constituent \Next[a] can be questioned by question pronouns *wer* or *was*, including their case forms *wem*, *wen* and *wessen* \Next[b,c]. Further, they can be pronominalised by personal pronouns \Next[d] or indefine pronouns *(irgend)jemand* or *(irgend)etwas* \Next[e].
+There is a recurrent tendency in the literature to try and reduce this variation to a single valency per verb (viz its 'real' valency), and various strategies are employed to arrive at such a prototypical valency [see e.g. @welke2011: Ch. 9 for a survey]. That will not be the approach taken here. Instead, valency is proposed to be a characteristic of a specific utterance, not of a specific verb. So, the examples in \Last can simple be assigned a valency from zero \Last[a] to four \Last[e] even though they all use the same lexeme 'wehen' as their main verb. 
+
+To disambiguate these two notions of valency I will use the terms \textsc{utterance valency} and \textsc{lexeme valency} accordingly. 
+
+
+
+
+- valency of a construction: most (all?) lexical verbs can appear in multiple constructions with different valencies
+- valency of a lexical verb: collection of all constructional valencies with links between them
+- lexical roles: links between valencies. Lexical roles are not purely semantic: they only count as a lexical role given certain grammatical characteristics. Lexical roles are not necessarily translatable! 
+
+### Arguments of utterance valency
+
+First, all case marked noun phrase constituents are arguments, with a few exceptions that will be discussed in [@sec:case-delimiting-arguments]. Basically, case marked arguments \Next[a] can be questioned by question pronouns *wer* or *was*, including their case forms *wem*, *wen* and *wessen* \Next[b,c]. Further, they can be pronominalised by personal pronouns \Next[d] or indefine pronouns *(irgend)jemand* or *(irgend)etwas* \Next[e].
 
 \ex.
  \a. Der Löwe sieht einen Vogel.
@@ -168,23 +169,73 @@ Basically, there are three kinds of constituents with argument status in German.
  \d. Er sieht ihn.
  \e. Jemand sieht etwas.
 
-Second, prepositional phrases \Next[a] are arguments if and only if they can be pronominalised by *da(r)+preposition* \Next[b], questioned by *wo(r)+preposition* \Next[c], or even more telling, replaced by a complement clause of the form *da(r)+preposition, dass ...* \Next[d]. A few exceptional cases will be discussed below.
+Second, prepositional phrases \Next[a] are arguments of an utterance when they can be replaced by a complement clause of the form *da(r)+preposition, dass ...* \Next[b]. All details of the difficult question when to treat prepositional phrases as arguments are discussed in [@sec:prepositions-delimiting-governed-prepositional-phrases].
 
 \ex.
  \a. Der Weltreisende wartet auf einen Zug.
- \b. Der Weltreisende wartet darauf.
- \c. Worauf wartet der Weltreisende?
- \d. Der Weltreisende wartet darauf, dass ein Zug kommt.
+ \b. Der Weltreisende wartet darauf, dass ein Zug kommt.
 
-Third, all complement clauses are arguments (a,b). Complement clauses can be questioned by *was* (c) and pronominalised by a definite pronoun *es* (d) or an indefinite pronoun *(irgend)etwas* (e). Complement clauses are thus syntactically highly similar to case marked noun phrases. Caution should be taken when interpreting pronominalised examples like (d,e), because it is not immediately obvious whether the pronouns are replacing a noun phrase or a complement clause. For example, with the verb *hoffen* (e) it is not possible to replace the pronoun *etwas* with a noun phrase, in contrast to the verb *sehen* above.
+=> obligatory prepositional phrases!
 
-(a) Er hofft, dass er rechtzeitig kommt.
-(b) Er hofft rechtzeitig zu kommen.
-(c) Was hofft er?
-(d) Er hofft es.
-(e) Er hofft etwas.
+Third, all complement clauses are arguments \Next[a,b], see Chapter [-@sec:subordination]. Complement clauses can be questioned by *was* \Next[c] and pronominalised by a definite pronoun *es* \Next[d] or an indefinite pronoun *(irgend)etwas* \Next[e]. Complement clauses are thus syntactically highly similar to case marked noun phrases. Caution should be taken when interpreting pronominalised examples like \Next[d,e], because it is not immediately obvious whether the pronouns are replacing a case-marked noun phrase or a complement clause. For example, with the verb *hoffen* \Next[e] it is not possible to replace the pronoun *etwas* with a noun phrase.
 
-#### Domain of application {.unnumbered}
+\ex.
+ \a. Er hofft, dass er rechtzeitig kommt.
+ \b. Er hofft rechtzeitig zu kommen.
+ \c. Was hofft er?
+ \d. Er hofft es.
+ \e. Er hofft etwas.
+
+### *es* Arguments
+
+A further kind of utterance-valency argument is instantiated by *es*, the 3rd person nominative/accusative pronoun in the neutrum gender. There are various uses of this pronoun that have to be distinguished, because the first three do not have argument-status. First, *es* is used for anaphoric reference to neutrum nouns, as shown in \Next. There are various other variants of such \textsc{phoric} usage, for example it also occurs without direct gender agreement [@czicza2014: Ch. 2]. 
+
+\ex. Das Mädchen weint. Ich tröste es.
+
+Second, another kind of referential *es* occurs with some non-finite complement clauses. In most sentences a complement clause replaces an argument \Next[a], but in some cases a pronoun *es* remains in place of the original argument, side by side with the complement clause \Next[b]. This is known as a \textsc{correlative} *es* [@czicza2014: 79ff.].
+
+\ex.
+ \a. Ich vergesse [meine Aufgaben]. Ich vergesse [schnell zu laufen].
+ \b. Ich hasse [meine Aufgaben]. Ich hasse es [schnell zu laufen].
+
+Third, the pronoun *es* is also used to fill the first sentence position in front of the finite verb ('Vorfeld' in German grammatical terminology), because there is a strong regularity in German that this position can not be left empty (except in imperatives and yes/no questions). Word order is rather flexible in German, and it is often possible to have no lexical content in the Vorfeld. In such cases, the pronoun *es* can be used to fill the Vorfeld, as shown in \Next[b]. This is known as a \textsc{position-simulating} *es* [@czicza2014: 115].
+
+\ex. Ein Mädchen weint. Es weint ein Mädchen.
+
+Finally, there are also constructions that obligatorily include the pronoun *es* in the sentence as part of the valency of the utterance. The main reason for such an *es* is that there is a strong regularity in German that a nominative subject has to be present in each sentence (with very few exceptions, see below). Note that 'subject' is defined here for German as the noun phrase that shows agreement with the finite verb. When there is no subject available, then the pronoun *es* is used to fill this gap. In such constructions, as exemplified in \Next[a,b], the pronoun *es* can occur in the Vorfeld \Next[a], seemingly parallel to the position-simulating usage \Last[b] above. However, When another constituent is placed in the Vorfeld, this obligatory *es* cannot be removed, but has to occur elsewhere in the sentence, typically immediately after the finite verb \Next[b]. This is known as a \textsc{valency-simulating} *es* [@czicza2014: 115].
+
+\ex.
+ \a. Es stinkt hier sehr.
+ \b. Hier stinkt es sehr.
+
+In a very limited set of constructions, a valency-simulating *es* is left out, resulting in sentences without a nominative subject \Next. Most of these cases are historical idiosyncrasies, except for the impersonal passive \Next[d], see [@sec:participles-werden-impersonal-passive].
+
+\ex.
+ \a. Heute ist mir kalt.
+ \b. Dem Arzt graut vor Blut.
+ \c. Mir liegt viel an deiner Anwesenheit.
+ \d. Jetzt wird geschlafen!
+
+There are also a few rare cases in which there is a valency-simulating *es* in what appear to be an accusative case \Next.
+
+\ex.
+ \a. Ich habe es auf ihn abgesehen. (see [@sec:prepositions-nominative-es-preposition])
+ \b. Wir haben es gut. (see [@sec:adverbials-accusative-es])
+
+### Lexical roles
+
+roles, not arguments, are lexeme specific. Basically: when a role can be expressed as an argument in any clause alternant, then it is is a lexical role. Note that lexical roles are language specific!
+
+Of crucial importance for the description of diathesis is the proper identification of lexically governed constituents, i.e. the arguments of a clausal predicate ('verb'). Intuitively, the arguments of a predicate are those roles/participants that are inherently part of the meaning of the lexeme. For example, a verb like 'to accuse' implies the presence of an accuser, an accussee and an accusation. However, a purely introspective semantic determination of such lexical roles is fraught with unverifiable intuitive decisions. A widespread idea is that for a constituent to be an inherent argument, the constituent in question should be invoked specifically by the lexical predicate and not have an adjunct status available to every predicate throughout the language. Yet, this intuition of a difference between arguments and adjuncts has to be operationalised in more detail. As an operationalisation, I propose to determine the arguments of a predicate based on a series of form-based structural arguments, to be detailed below. Note that these arguments are specifically tailored to the German language structure and cannot integrally be translated to other languages.
+
+filler, filled container, filling substance
+
+NAP Ich fülle den Topf (mit Reis).
+NPA Ich fülle den Reis in den Topf.
+DAN Der Reis füllt (mir) den Magen.
+-PN Der Blumentopf füllt sich (mit Wurzeln).
+
+### Domain of application
 
 ## Classifying diatheses
 
@@ -321,49 +372,6 @@ This is a productive diathesis!
 
 ## Further grammatical topics
 
-### Obligatory pronoun 'es'
-
-Another pronoun that plays an important role in the marking of diathesis is *es*, the 3rd person nominative/accusative pronoun in the neutrum gender. There are three main uses of this pronoun, and only the third is relevant for the current discussion. First, 'es' is used for anaphoric reference to neutrum nouns, as shown in (a). There are various other variants of such 'phoric' usage, for example without direct gender agreement (Czicza 2014: Ch. 2).
-
-Second, the pronoun 'es' is also used to fill the first sentence position in front of the finite verb ('Vorfeld' in German grammatical terminology), because there is a strong regularity in German that this position can not be left empty (except in imperatives and yes/no questions). Word order is rather flexible in German, and it is often possible to have no lexical content in the Vorfeld. In such cases, the pronoun 'es' can be used to fill the Vorfeld, as shown in (b). This is known as a position-simulating *es* (Czicza 2014: 115).
-
-Finally, there are also constructions that obligatorily include the pronoun 'es' in the sentence. This happens because there is a strong regularity in German that the subject has to be present in each sentence ('pro drop' is not possible). Note that 'subject' is defined here for German as the noun phrase that shows agreement with the finite verb (see next section). When there is no subject available, then the pronoun 'es' can be used to fill this gap. In such constructions, as exemplified in (c,d), the pronoun 'es' often occurs in the Vorfeld (c), seemingly parallel to the Vorfeld-filling usage (b). However, When another constituent is placed in the Vorfeld, this obligatory 'es' cannot be removed completely, but has to occur elsewher in the sentence, typicaly immediately after the finite verb (d). This is known as a valency-simulating *es* (Czicza 2014: 115).
-
-(a) Das Mädchen weint. Ich tröste es. (Referential or 'phoric' usage)
-(b) Es weint ein Mädchen. (Optional 'position-simulating' usage to fill the Vorfeld)
-(c) Es stinkt hier sehr. (Construction with obligatory 'es')
-(d) Hier stinkt es sehr. (Obligatory 'es' remains when Vorfeld is filled)
-
-This obligatory valency-simulating 'es' can be replaced by a question word 'was' in questions (a) or the demonstrative 'das' in exclamations (b).
-
-(a) Was stinkt denn hier?
-(b) Das stinkt hier aber!
-
-Sometimes quantifiers also seem possible to replace a valency-simulating *es* (a,b).
-
-(a) Hier dreht es sich um ihn.
-(b) Hier dreht sich alles um ihn.
-
-Another kind of phoric *es* occurs with some predicates that allow for a non-finite complement clause. In most such predicates, the complement clause replaces the argument (a), but in some cases a pronoun *es* remains in place of the original argument (b,c). This is known as a 'correlative' *es* Czicza 2014: 79ff.).
-
-(a) Ich versuche [schnell zu laufen].
-(b) Ich hasse es [schnell zu laufen].
-(c) Mir gefällt es [schnell zu laufen].
-
-In a very limited set of constructions 'es' is left out completely, resulting in sentences without a syntactic subject (a-e).
-
-(a) Heute ist mir kalt.
-(b) Dem Mörder graut vor Blut.
-(c) Mich dürstet. (old fashioned)
-(d) Mir liegt viel an deiner Anwesenheit.
-(e) Jetzt wird geschlafen! (impersonal passive)
-
-=> obligatory non-referential non-nominative *es* ???: 
-
-*sie hatte es auf ihn angelegt*
-*er hat es absichtlich darauf angelegt, ihm zu schaden*
-*sie vermochte es nicht den Unfall zu verhindern*. (altmodisch?)
-*Sie lehnt es ab zu kommen*
 
 ### Finite verbforms
 
@@ -374,12 +382,6 @@ Each German sentence needs at least one finite verbform, which is inflected for 
 | 1st person | kauf-e | lauf-e | geb-e | kann | hab-e | werd-e | bin
 | 2nd person | kauf-st | läuf-st | gib-st | kann-st | ha-st | wir-st | bist
 | 3rd person | kauf-t | läuf-t | gib-t | kann | ha-t | wird | ist
-
-### Light verbs
-
-There is a large group of verbs in German that shed much of their lexical meaning in certain constructions. Such grammaticalised verbs are referred to by many different names in the German grammatical literature, e.g. Hilfsverb, Kopulaverb, Modalverb, Modalitätsverb, Halbmodalverb (Eisenberg), Funktionsverb (Polenz 1963 cited in Kamber 2008:34), Strukturverb (Weber 2005), or Stützverb (Seelbach 1991 cited in Kamber 2008:34). The debate how to classify these verbs into groups will not be pursued here. Therefore, I will simply refer to the whole group of such verbs as 'light verbs'. The most important light verbs, which will all be discussed here, are shown in alphabetical order in (). It is a difficult issue to decide in a specific sentence whether such a verb is used as a full lexical verb or as a light verb. These verbs show a continuum of more or less grammaticalised uses. As a general desideratum, semantic arguements do not suffice to distinguish light verb usage. There need to be structural differences between the light verb and full verb constructions to claim such a differentiation.
-
-- *bekommen, bleiben, brauchen, bringen, drohen, dürfen, fahren, geben, gehen, gelten, geraten, haben, heißen, klappen, kommen, kriegen, können, lassen, machen, möchten, mögen, müssen, nehmen, pflegen, scheinen, sehen, sein, sollen, stehen, stellen, tun, versprechen, werden, wissen, wollen*
 
 ### Sentence blueprints
 
@@ -405,6 +407,14 @@ The lexical predicate in nonverbal blueprints can also be filled with a derivati
 | Bare prepositional blueprint | Ich habe zu danken. | Preposition (typically 'zu') with infinitive, or other noun-like derived verb
 | Full prepositional blueprint | Ich bin beim Schwimmen. | Preposition with Article and Infinitive, or other noun-like derived verb
 
+
+
+#### Further topics for discussion:
+
+- social/communicative/areal function of diatheses
+- verb profiles: all diatheses per verb
+- role clusters: which lexical roles group together based on diathesis groupings
+- verb clusters: which lexical verbs show similar diatheses
 
 
 
