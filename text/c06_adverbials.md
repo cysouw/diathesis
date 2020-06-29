@@ -169,7 +169,7 @@ The verbs *sich verhalten* and *sich aufführen* 'to behave' similarly always ne
 - Er gibt sich jovial.
 - Ich verhalte mich abwartend.
 
-### [ N ] Nominate + accusative *es* + adverbial
+### [ N ] Nominate + accusative *es* + adverbial {#sec:adverbials-accusative-es}
 
 Some verbs allow for constructions with an possibly non-phoric *es* pronoun in the accusative, see [@sec:prepositions-nominative-es-preposition]. With some verbs in this construction a manner adverbial is also necessarily present \Next[a,b]. Without the manner adverbial the only possible interpretation of the pronoun *es* is phoric \Next[c].
 
