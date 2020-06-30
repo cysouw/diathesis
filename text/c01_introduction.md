@@ -2,13 +2,13 @@
 
 ## Introducing diathesis
 
-The quintessential example of diathesis, found in virtually every grammatical descriptions of German, is the *werden + Infinitiv* passive \Next[a]. The special characteristic of this construction is that the state-of-affairs described by the passive is essentially the same as in the corresponding active \Next[b], though the sentence structure of course differs between the two expressions.
+The quintessential example of diathesis, found in virtually every grammatical descriptions of German, is the *werden + Infinitiv* passive construction \Next[a]. The important characteristic of this construction is that the state-of-affairs as described by the passive is essentially the same as in the corresponding active \Next[b], though the grammatical structure of course differs between the two expressions.
 
 \ex.
  \a. Das Gemälde wird (von einem Künstler) gemalt.
  \b. Der Künstler malt ein Gemälde.
 
-This approach to diathesis, viz. different sentence structures that express approximately the same situation, is applicable to an enormous amount of grammatical phenomena in German. For example, some verbs allow for passive-like constructions without any *werden* auxiliary \Next[a], other verbs allow for an alternation between a case-marked accusative and a prepositional phrase \Next[b]. Further, there exist many different kinds of diathesis marked by a reflexive pronouns \Next[c] or preverbs \Next[d]. And various auxiliary-like construction beyond the *werden* passive also show diathesis \Next[e].\footnote{Many examples in this book include masculine nouns because the articles then overtly show the different German cases. Notwithstanding this grammatical preference, I will try to use examples with as much diversity as possible throughout this book.}
+This approach to diathesis, viz. different grammatical sentence structures that express approximately the same situation, is applicable to a large number of grammatical phenomena in German. For example, some verbs allow for passive-like constructions without any *werden* auxiliary \Next[a], other verbs allow for an alternation between a case-marked accusative and a prepositional phrase \Next[b]. Further, there exist many different kinds of diathesis marked by a reflexive pronoun \Next[c] or marked by preverbs \Next[d]. Many auxiliary-like construction beyond the *werden* passive also show diathesis \Next[e].^[Many examples in this book include masculine nouns because the articles then overtly show the different German cases. Notwithstanding this grammatical preference, I will try to use examples with as much diversity as possible throughout this book.]
 
 \ex.
  \a. Der Doktor heilt den Schmerz. Der Schmerz heilt (durch den Doktor).
