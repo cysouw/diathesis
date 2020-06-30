@@ -105,7 +105,7 @@ In contrast, with depictive adjectives there is no problem with adding verb part
  \a. Sie kauft die Nägel krum ein.
  \b. Ich habe mein Fahrrad grün angestrichen.
 
-The most frequent resultative adjectival predicates in German are *leer-, voll-, tot-, fest-* [@eisenberg2013: 322-323], but many others are also attested \Next[a-c], e.g. *stillschweigen, fertigstellen, vollquatschen, festschrauben, plattlaufen*. Additionally, a datives from raised possessors are often possible \Next[b], see [@sec:case-possessor-accusative-to-dative], including subsequent reflexive constructions \Next[c].\footnote{The Duden grammar [-@duden2009: 790] presents *Er hält/macht den Tisch sauber* as examples of resultative secondary predicate constructions. However, these examples are probably better analysed as adjectival predicates with light verbs *halten/machen*, cf. [@sec:participles-adjectives-light-verb-constructions].}
+The most frequent resultative adjectival predicates in German are *leer-, voll-, tot-, fest-* [@eisenberg2013: 322-323], but many others are also attested \Next[a-c], e.g. *stillschweigen, fertigstellen, vollquatschen, festschrauben, plattlaufen*. Additionally, a datives from raised possessors are often possible \Next[b], see [@sec:case-possessor-accusative-to-dative], including subsequent reflexive constructions \Next[c].^[The Duden grammar [-@duden2009: 790] presents *Er hält/macht den Tisch sauber* as examples of resultative secondary predicate constructions. However, these examples are probably better analysed as adjectival predicates with light verbs *halten/machen*, cf. [@sec:participles-adjectives-light-verb-constructions].]
 
 \ex.
  \a. Er niest das Taschentuch voll.

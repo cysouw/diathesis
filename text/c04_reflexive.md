@@ -656,7 +656,7 @@ Verbs with a dative argument (see Section X) can often be used reflexively, alth
 \ex.
  \a. Ich begegne mir selbst mit größter Achtung.
  \b. Ich antworte mir dann mal selber.
- \c. Ich gleiche mir nicht einen Augenblick. (DWDS: Goethe: Schertz, List und Rache) \footnote{The accusative *einen Augenblick* is not a governed argument, but a temporal quantified object, see [@sec:case-quantified-objects].}
+ \c. Ich gleiche mir nicht einen Augenblick. (DWDS: Goethe: Schertz, List und Rache)^[The accusative *einen Augenblick* is not a governed argument, but a temporal quantified object, see [@sec:case-quantified-objects].]
 
 Note: also possible with "free" datives?
 
