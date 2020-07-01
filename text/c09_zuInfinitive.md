@@ -76,6 +76,11 @@ Handlungsverben 5,6% [@jager2013: 201]
 
 - Ich habe mancherlei zu sehen bekommen
 
+### *scheinen + zu + Infinitiv*
+
+- Er schläft. Er scheint zu schlafen. (... dass er zu schlafen scheint.)
+- Er kauft einen Kaffee. Er scheint einen Kaffee zu kaufen. (... dass er einen Kaffee zu kaufen schein. )
+
 ## Diatheses with subject demotion
 
 ### --- Drops --- {.unnumbered}
