@@ -84,7 +84,7 @@ Hidden in the succinct definition of diathesis from the previous section there a
 
 Diatheses are alternations between single clauses, though a single clause in German can sometimes consist of multiple verb forms. It is crucial to strictly define when multi-verb constructions are a single clause. The basis of the definition of monoclausality is a concept called 'coherence'.
 
-One of the crucial characteristics of the syntax of German is that the finite verb is moved to the end of the sentence in a subordinate clauses. I will use the dummy main sentence *Es ist bekannt, dass* 'it is known that' to force a subordinate construction. The position of the finite verb in the subordinate clause can be used the identify the boundary of the clause: everything that can occur before the finite verb belongs to the clause; everything that has to come after the finite verb belongs to a different clause. For example, the simple sentence \Next[a] will turn into \Next[b] as a subordinate clause, with the finite verb at the end; \Next[c] is not possible (with any constituent after the finite verb), so the whole sentence in \Next[a] is a single clause. Constructions with such a pattern will be called \textsc{coherent}, following Bech [-@bech1955]; see also Kiss [-@kiss1995] for a more in-depth and more extensive discussion of the concept 'coherence'. Coherent constructions are considered to be \textsc{monoclausal}.
+It is one of the crucial characteristics of the syntax of German that the finite verb is moved to the end of the sentence in a subordinate clauses. I will use the dummy main sentence *Es ist bekannt, dass* 'it is known that' to force a subordinate construction. The position of the finite verb in the subordinate clause can be used the identify the boundary of the clause: everything that can occur before the finite verb belongs to the clause; everything that has to come after the finite verb belongs to a different clause. For example, the simple sentence \Next[a] will turn into \Next[b] as a subordinate clause, with the finite verb at the end; \Next[c] is not possible (with any constituent after the finite verb), so the whole sentence in \Next[a] is a single clause. Constructions with such a pattern will be called \textsc{coherent}, following Bech [-@bech1955]; see also Kiss [-@kiss1995] for a more in-depth and more extensive discussion of the concept 'coherence'. Coherent constructions are considered to be \textsc{monoclausal}.
 
 \ex.
  \a.    Ich gehe morgen nach Hause.
@@ -103,7 +103,7 @@ Exactly the same coherence is attested in auxiliary constructions with participl
  \b.    Es ist bekannt, dass ich morgen ein Haus kaufen will.
  \c. \* Es ist bekannt, dass ich morgen kaufen will ein Haus.
 
-Constructions with *zu* and infinitive are sometimes coherent, e.g. \Next with finite verb *gibt*, and sometimes not coherent, e.g. \NNext with finite verb *hofft*. The coherent construction in \Next[a] is thus monoclausal, while the non-coherent construction in \NNext[a] consists of two clauses.
+Constructions with *zu* and infinitive are sometimes coherent, e.g. \Next with finite verb *gibt*, and sometimes non-coherent, e.g. \NNext with finite verb *hofft*. The coherent construction in \Next[a] is thus monoclausal, while the non-coherent construction in \NNext[a] consists of two clauses.
 
 \ex.
  \a.    Der Protest gibt ihr zu denken.
@@ -122,7 +122,7 @@ In some intermediate cases both orders are possible, as shown in \Next. These co
  \b.    Es ist bekannt, dass ich dir helfe den Koffer zu tragen.
  \c.    Es ist bekannt, dass ich dir den Koffer zu tragen helfe.
 
-Maybe surprisingly, but when the above definition of monoclausality is strictly followed, then it turns out that there are dozens of verbs that can be used as the finite 'auxiliary'. As finite auxiliaries these verbs are strongly grammaticalised, i.e. they shed much of their lexical meaning when used in multi-verb constructions. Such grammaticalised verbs are classified into different groups and referred to by many different names in the German grammatical literature, e.g. *Hilfsverb*, *Kopulaverb*, *Modalverb*, *Modalitätsverb*, *Halbmodalverb* [@eisenberg2006a], *Funktionsverb* [Polenz 1963 cited in @kamber2008: 34], *Strukturverb* [@weber2005], or *Stützverb* [Seelbach 1991 cited in @kamber2008: 34]. I will not pursue the question here how to classify these verbs into different kinds. I will simply refer to the whole group of these 'auxiliary' verbs as \textsc{light verbs}. All light verbs discussed in later chapters are shown in alphabetical order in \Next.
+Maybe surprisingly, when the above definition of monoclausality is strictly followed, then it turns out that there are dozens of verbs that can be used as the finite 'auxiliary' in coherent multi-verb constructions. When used as finite auxiliaries, these verbs are strongly grammaticalised, i.e. they shed much of their lexical meaning when used in multi-verb constructions. Such grammaticalised verbs are classified into different groups and referred to by many different names in the German grammatical literature, e.g. *Hilfsverb*, *Kopulaverb*, *Modalverb*, *Modalitätsverb*, *Halbmodalverb* [@eisenberg2006a], *Funktionsverb* [Polenz 1963 cited in @kamber2008: 34], *Strukturverb* [@weber2005], or *Stützverb* [Seelbach 1991 cited in @kamber2008: 34]. I will not pursue the question here how to classify these verbs into different kinds. I will simply refer to the whole group of these 'auxiliary' verbs as \textsc{light verbs}. All light verbs that will be discussed in later chapters are shown here in alphabetical order in \Next.
 
 \ex. *anfangen, aufhören, aussehen, beginnen, bekommen, bleiben, brauchen, bringen, drohen, dürfen, erscheinen, fahren, finden, fühlen, geben, gehen, gehören, gelten, glauben, haben, halten, heißen, helfen, hören, kommen, kriegen, können, lassen, legen, lehren, liegen, machen, möchten, mögen, müssen, nehmen, pflegen, riechen, scheinen, schicken, sehen, sein, setzen, sollen, spüren, stehen, tun, versprechen, werden, wirken, wissen, wollen*
 
@@ -138,25 +138,28 @@ As with all grammaticalisation processes, it is often difficult to decide where 
 
 ### Utterance valency and lexeme valency
 
-Valency is traditionally interpreted as a fixed constructional characteristic of a lexical verb, e.g. the verb *geben* 'to give' is said to be ditransitive. A central thesis of this book is that this conception of valency is misguided. Individual verbs can (and normally will) be used in many different constructions with different valency (i.e. most verbs show some kind of diathesis). Consider for example the verb *wehen* 'to blow'. Such weather verbs are often considered to have zero valency, which in German is characterised by an obligatory *es* pronoun \Next[a]. However, the same verb can just as well be used as an intransitive \Next[b,c], as a transitive with an accusative object \Next[d], or even as a ditransitive with a dative and accusative object \Next[e]. Note that the prepositional phrase in \Next[c,d,e] cannot be left out, and its obligatory presence might be used to argue for an argument status of this prepositional phrase. The example in \Next[e] then will be an example of the verb *wehen* with a valency of four.
+Valency is traditionally interpreted as a fixed constructional characteristic of a lexical verb, e.g. the verb *geben* 'to give' is said to be ditransitive. A central thesis of this book is that this conception of valency is misguided. Individual verbs can (and normally will) be used in many different constructions with different valency (i.e. most verbs show some kind of diathesis). Consider for example the verb *wehen* 'to blow'. Such weather verbs are often considered to have zero valency, which in German is characterised by an obligatory *es* pronoun \Next[a]. However, the same verb can just as well be used as an intransitive \Next[b,c], as a transitive with an accusative object \Next[d], or even as a ditransitive with a dative and accusative object \Next[e]. Note that the prepositional phrase in \Next[c,d,e] cannot be left out, and its obligatory presence might be used to argue for argument status of this prepositional phrase. The example in \Next[e] then will be an example of the verb *wehen* with a valency of four.
 
 \ex.
  \a. Heute weht es.
- \b. Kein Lüftchen wehte gestern.
+ \b. Gester wehte kein Lüftchen.
  \c. Der Rosenduft weht ins Zimmer.
  \d. Der Sturm weht den Schnee von den Dächern.
  \e. Der Fahrtwind weht mir die Mütze vom Kopf.
 
-There is a recurrent tendency in the literature to try and reduce this variation to a single valency per verb (viz its 'real' valency), and various strategies are employed to arrive at such a prototypical valency [see e.g. @welke2011: Ch. 9 for a survey]. That will not be the approach taken here. Instead, valency is proposed to be a characteristic of a specific utterance, not of a specific verb. So, the examples in \Last can simple be assigned a valency from zero \Last[a] to four \Last[e] even though they all use the same lexeme 'wehen' as their main verb. 
+There is a recurrent tendency in the literature to try and reduce such variation to a single valency per verb (viz. its 'real' valency), and various strategies are employed to arrive at such a prototypical valency [see e.g. @welke2011: Ch. 9 for a survey]. That will not be the approach taken here. Instead, valency is proposed to be a characteristic of a specific utterance, not of a specific verb. So, the examples in \Last can simple be assigned an \textsc{utterance valency} from zero \Last[a] to four \Last[e] even though they all use the same lexeme 'wehen' as their main verb. 
 
-To disambiguate these two notions of valency I will use the terms \textsc{utterance valency} and \textsc{lexeme valency} accordingly. 
+Additionally, it is of course possible to define a notion of \textsc{lexeme valency} as the collection of all attested utterance valencies for a specific lexeme. To be precise, the lexeme valency is properly defined as the collection of all utternce valencies together with an indexation of the lexical roles across all arguments. This is important to distinguish between, for example, the lexical valency of *kochen* 'to cook' \Next and *essen* 'to eat' \NNext. Both can occur with a transitive and intransitive utterance valency, but the lexical roles that can be used in the intransitive differ. Specifically, the patient-role of *essen* cannot be used as nominative subject in the intransitive \NNext[c], different from *kochen* \Next[c].
 
+\ex.
+ \a. Der Chef kocht den Fond.
+ \b. Der Chef kocht immer noch.
+ \c. Der Fond kocht immer noch.
 
-
-
-- valency of a construction: most (all?) lexical verbs can appear in multiple constructions with different valencies
-- valency of a lexical verb: collection of all constructional valencies with links between them
-- lexical roles: links between valencies. Lexical roles are not purely semantic: they only count as a lexical role given certain grammatical characteristics. Lexical roles are not necessarily translatable! 
+\ex.
+ \a.    Der Chef isst den Fond.
+ \b.    Der Chef isst immer noch.
+ \c. \* Der Chef isst immer noch.
 
 ### Arguments of utterance valency
 
