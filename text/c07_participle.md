@@ -1185,7 +1185,7 @@ https://www.dwds.de/wb/fühlen
 
 - Ich fühle mich ausgeschlafen.
 
-### [ NA | –N ] *geben + Partizip* Reflexive anticausative
+### [ NA | –N ] *geben + Partizip* Reflexive anticausative {#sec:participle-geben-reflexive-anticausative}
 
 geben Mit reflexivprononem!
 

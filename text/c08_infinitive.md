@@ -144,7 +144,7 @@ Typically used with intransitives? Similar to impersonal passive?
 
 ### --- [ 2>3>0 ] Anticausatives --- {.unnumbered}
 
-### [ NA | –N ] *lassen + sich + Infinitiv* Reflexive anticausative
+### [ NA | –N ] *lassen + sich + Infinitiv* Reflexive anticausative {#sec:infinitive-lassen-reflexive-anticausative}
 
 (cf. Kunze 1996) Typical with negation (alike to nogative polarity). It is unclear whether this construction can be made up from a *lassen* causative and a *sich* anticausative. It seems like the original agen can sometimes be retained with a *von* phrase.
 

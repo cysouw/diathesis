@@ -10,7 +10,7 @@ When using the grammatical term \textsc{reflexive} a distinction has to be made 
 
 From a typological perspective, there is arguably a difference in this respect between languages with a pronoun strategy, like German, and languages that use a verbal derivation technique for marking 'self-inflicting' reflexive constructions [@dixon2014: 172ff.]. For languages with verbal derivation it is probably preferable to analyze 'self-inflicting' reflexive constructions as a kind of diathesis. 
 
-Although German does not show diathesis for the 'self-inflicting' reflexive construction, the reflexive pronoun is used in various diatheses in German, for example anticausative \Next[a,b], see [@sec:reflexive-anticausative] or antipassive \Next[c,d], see [@sec:reflexive-accusative-antipassive]. In these sentences, the reflexive pronoun *sich* is not filling any role, but is marking a valency alternation. There is a long tradition to call such constructions \textsc{middle}. However, there turn out to be very many different kinds of 'middle' alternations, so I prefer to be more precise in separating and naming them here in this chapter.
+Although German does not show diathesis for the 'self-inflicting' reflexive construction, the reflexive pronoun is used in various diatheses in German, for example anticausative \Next[a,b], see [@sec:reflexive-anticausative] or antipassive \Next[c,d], see [@sec:reflexive-accusative-antipassive]. In these sentences, the reflexive pronoun *sich* is not filling any role, but is marking a valency alternation. There is a long tradition to call such constructions \textsc{middle}. However, there turn out to be very many different kinds of 'middle' alternations, so I prefer to be more precise in separating and naming them here in this chapter [see also @kunze1997].
 
 \ex.
  \a. Ich schließe den Schrank.
@@ -23,6 +23,14 @@ There are also various verbs for which any reflexive alternation is lost and onl
 \ex.
  \a. Die S-Bahn hat sich wieder einmal verspätet.
  \b. Ich habe mir eine neue Sprache angeeignet.
+
+In this chapter only those diatheses are discussed that only differ as to the addition of a reflexive pronoun. There are many more diatheses involving reflexive marking that will be discussed in subsequent chapters. In those diatheses there is more than one morphosyntactic change. For example, sometimes the addition of a preverb induces the addition of a reflexive pronouns \Next[a], see e.g. [@sec:preverb-reflexive-intransitive-antiresultative]. There is also the famous German diathesis with reflexive pronouns and manner adverbials \Next[b], see e.g. [@sec:adverbial-reflexive-transitive-anticausative], or the combination with the light verb *lassen* \Next[c], see e.g. [@sec:infinitive-lassen-reflexive-anticausative]. Less widely discussed are reflexive constructions with a lights verb like *fühlen* or *geben* with particples \Next[d], see e.g. [@sec:participle-geben-reflexive-anticausative].
+
+\ex.
+ \a. Der Hund ist nach Hause gelaufen. Der Hund hat sich in dem Wald verlaufen.
+ \b. Ich verkaufe das Buch. Das Buch verkauft sich gut.
+ \c. Ich schließe den Schrank. Der Schrank lässt sich schließen.
+ \d. Er schlug seine Mitbewerber. Seine Mitbewerber geben sich geschlagen.
 
 Amidst the large variety of constructions with reflexive pronouns, there are a few generalizations that stand out:
 
@@ -320,11 +328,11 @@ It is exceedingly rare to have a dative *sich* without other arguments. A possib
 
 ### [ NA ] Obligatory dative reflexive + accusative {#sec:reflexive-obligatory-dative-accusative}
 
-A dative *sich* with an obligatory accusative is clearly attested, though not very frequent. Note that the meaning of these verbs all include some kind of appropriation.
+A dative *sich* with an obligatory accusative is clearly attested, though not very frequent. Note that the meaning of these verbs all include some kind of appropriation. The prefix *er-* occurs recurrently with the meaning "to apprpriate something successfully".
 
 **Attested Verbs**
 
-- Appropriate: *aneignen, anmaßen, langen*
+- Appropriate: *aneignen, anmaßen, ertanzen, ergeigen, erkämpfen, ermalen, ersingen, erspielen, langen*
 - Appropriate cognitively: *abquälen (erarbeiten), aneignen, angewöhnen, ausdenken, denken, einbilden, merken, vorstellen (denken)*
 - *verbitten, vornehmen*
 
@@ -451,7 +459,7 @@ There are three different kinds of alternations involving reflexive pronouns tha
 
 ### --- Free reflexive pronouns --- {.unnumbered}
 
-Some verbs allow for both a construction with and without *sich*, but there is no difference in the valency between these two constructions. The difference in meaning between the two alternants is small and is in need for more in-depth study in all cases presented below. Note that also for these verbs a dative reflexive pronoun only occurs when a full accusative argument is present. An early discussion of the phenomenon is found in Stötzel [-@stotzel1970: 174-177].
+Some verbs allow for both a construction with and without *sich*, but there is no difference in the valency between these two constructions. The difference in meaning between the two alternants is small and is in need for more in-depth study in all cases presented below. It is also possible that the occurence of a 'free' reflexive is a dialectal phenomenon, see e.g. the apparent extension of reflexive usage in Austrian German as observed in Ziegler [-@ziegler2010]. Note that also for these verbs a dative reflexive pronoun only occurs when a full accusative argument is present. An early discussion of the phenomenon is found in Stötzel [-@stotzel1970: 174-177]. 
 
 ### [ N | N ] Free accusative reflexive
 
@@ -1391,7 +1399,7 @@ The *sich* counterpart of the transitive *beklagen* 'to lament' \Next[a,b] is mo
 - *in*   : *üben, versuchen, vertiefen*
 - *über* : *beklagen, besprechen*
 - *von*  : *trennen*
-- *vor*  : *fürchten*
+- *vor*  : *fürchten, scheuen*
 - *durch*: *fressen*
 - *zu*   : *bekennen*
 

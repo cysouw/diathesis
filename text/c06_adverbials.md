@@ -345,11 +345,11 @@ Many intransitives allow for a dropping of the nominative with a obligatory refl
  \a.    In der Gruppe lacht es sich besser.
  \b. \? Am frühen morgen steht es sich schlecht auf.
 
-A very similar diathesis is attested with transitives, see [@sec:adverbial-reflexive-transitive-anticausative], but in that case the accusative is retained as a nominative (i.e. anticausative). Also note that connection between an intransitive drop and a transitive anticausative is strongly reminiscent of unaccusativity, see [@sec:participles-restrictions]. However, there does not seem to be an obvious match between unaccusative verbs and the verbs that allow for the current diathesis.
+A very similar diathesis is attested with transitives, see [@sec:adverbial-reflexive-transitive-anticausative], but in that case the accusative is retained as a nominative (i.e. anticausative). Also note that connection between an intransitive drop and a transitive anticausative is strongly reminiscent of unaccusativity, see [@sec:participles-restrictions]. However, there does not seem to be an obvious match between unaccusative verbs and the verbs that allow for the current diathesis [cf. @steinbach1998: 15-18].
 
 **Attested Verbs**
 
-- almost all intransitives, with exceptions like *aufstehen, beginnen, stinken*
+- very many intransitives, with exceptions like *aufstehen, beginnen, stinken*
 
 **Examples**
 
@@ -404,7 +404,7 @@ Similar to the previous intransitive verbs, some transitive verbs allow for the 
  \a. Ich scheine die Wurst mit diesem Messer.
  \b. Mit diesem Messer schneidet sich die Wurst schwer. [@kunze1996: 647]
 
-Kunze [-@kunze1996] calls this 'middle', Zifonun [-@zifonun2003] 'fazilitives Medium' and Wiemer & Nedjalkov [-@wiemer2007: 465-466] classify it as a 'passive-like meaning of reflexive'.
+Kunze [-@kunze1996] and Steinbach [-@steinbach1998] call this 'middle', Zifonun [-@zifonun2003] 'fazilitives Medium' and Wiemer & Nedjalkov [-@wiemer2007: 465-466] classify it as a 'passive-like meaning of reflexive'. Steinbach [-@steinbach1998: 25ff.] argues that the adverbial is not necessary in the 'middle' construction, but this is because he combined different constructions under the heading of 'middle'. The examples without adverbial are discussed here as a separate construction in [@sec:reflexive-anticausative].
 
 **Attested Verbs**
 
