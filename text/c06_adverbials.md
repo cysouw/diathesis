@@ -162,7 +162,7 @@ The verbs *sich verhalten* and *sich aufführen* 'to behave' similarly always ne
 
 **Attested Verbs**
 
-- to behave: *aufführen, benehmen, geben, verhalten*
+- Behaviour: *aufführen, benehmen, geben, gebärden, verhalten*
 
 **Examples**
 
