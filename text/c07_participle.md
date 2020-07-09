@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Constructions consisting of a participle combined with a light verb (i.e. a verb with limited lexical meaning) are manifold in German grammar. They include constructions without diathesis like the \textsc{Perfekt} \Next[a] and typical diatheses like the *werden* passive \Next[b].
+Constructions consisting of a participle combined with a light verb (i.e. a verb with limited lexical meaning) are manifold in German grammar. They include constructions without diathesis like the German *Perfekt* \Next[a] and typical diatheses like the *werden* passive \Next[b].
 
 \ex.
  \a. Ich habe einen Brief geschrieben.
@@ -15,7 +15,7 @@ On closer inspection there turns out to be a large range of light verbs that are
  \b. Er bekommt einen Brief geschrieben.
  \b. Dieser Brief gehört geschrieben.
 
-The term \textsc{participle} is used in this chapter for the wordform known in German grammar as \textsc{Partizip II} (see [@sec:participles-identifying-participles]). There is also a \textsc{Partizip I}, but this wordform plays a much more restricted role in German grammar. It will be discussed in Chapter [-@sec:adj].
+The term \textsc{participle} is used in this chapter for the wordform known in German grammar as *Partizip II* (see [@sec:participles-identifying-participles]). There is also a *Partizip I*, but this wordform plays a much more restricted role in German grammar. It will be discussed in Chapter [-@sec:adj].
 
 In identifying light-verb constructions with participles care has to be taken to distinguish them from constructions in which the participle is used as a depictive secondary predicate. Both constructions superficially look very similar (see [@sec:participles-secondary-predicates]).
 
@@ -35,7 +35,7 @@ There are many different such 'repeated' light-verb constructions. A recurring p
 
 ### Identifying participles {#sec:participles-identifying-participles}
 
-German participles (in German grammar idiosyncratically known as \textsc{Partizip II}) can rather straightforwardly be identified by their morphology. However, this identification is complicated by a wide range of allomorphy, which will only be succinctly summarized here [cf. @duden2009: 440, §613-614; @eisenberg2006: 201-202]:
+German participles (in German grammar idiosyncratically known as *Partizip II*) can rather straightforwardly be identified by their morphology. However, this identification is complicated by a wide range of allomorphy, which will only be succinctly summarized here [cf. @duden2009: 440, §613-614; @eisenberg2006: 201-202]:
 
 - Typically, participles have a prefix *ge-*, like in *ge-kauf-t* (stem *kauf*), except when the stem already contains one of the prefixes *be-, er-, ver-, zer-, ent-*, like in *verkauf-t*. The prefix will appear between the stem and so-called verb particles *an-, ein-, vor*, etc., like in *ein-ge-kauf-t*.
 - Typically, participles have a suffix *-t*, like in *ge-kauf-t*, in some phonological surroundings with an epenthetic schwa, like in *ge-wart-et* (stem: *wart*). In a large, but closed, class of verbs the suffix is *-en*, like in *ge-lauf-en* (stem *lauf*), often combined with ablaut of the stem vowel, like in *ge-fund-en* (stem *find*).
@@ -78,7 +78,7 @@ Although all finite verb stems can be used to morphologically make a participle,
  \c.    Der Zug ist angekommen.
  \d. \* Der Zug wird angekommen.
 
-The first observation of such a restriction goes back to the *Sprachlehre* of Carl Friedrich Aichinger [-@aichinger1754: 282 ff.], who reserves the term \textsc{Participium} for verbs that allow for an adnominal usage of their participles \Last[a]. His rationale for this restriction is that 'real' participles should allow for declension (like in Latin) and in German only the adnominal usage shows (minimal) declension. In contrast, participles in light-verb constructions \Last[c] are morphologically immutable in German, so Aichinger proposes to call them *Supinum*. This nomenclature is very unfortunate, because the German participle has no relation at all to the Latin supine, neither formally nor functionally. Being criticized for this terminology, Aichinger explains that he uses the term \textsc{Supinum} solely because the Latin supine is also an immutable verb from [e.g. @aichinger1776: 627]. Although there are many unfortunate terminological confusions in the history of linguistics, this inappropriate usage of the term *Supinum* can still be found in German grammatical literature to this day (with a history of transmission that deserves more in-depth study), most forcefully reinforced by the usage in Bech [-@bech1955] and the large literature building on that influential work.
+The first observation of such a restriction goes back to the *Sprachlehre* of Carl Friedrich Aichinger [-@aichinger1754: 282 ff.], who reserves the term \textsc{participium} for verbs that allow for an adnominal usage of their participles \Last[a]. His rationale for this restriction is that 'real' participles should allow for declension (like in Latin) and in German only the adnominal usage shows (minimal) declension. In contrast, participles in light-verb constructions \Last[c] are morphologically immutable in German, so Aichinger proposes to call them differently, proposing the term \textsc{supinum}. This nomenclature is very unfortunate, because the German participle has no relation at all to the Latin supine, neither formally nor functionally. Being criticized for this terminology, Aichinger explains that he uses the term 'Supinum' solely because the Latin supine is also an immutable verb from [e.g. @aichinger1776: 627]. Although there are many unfortunate terminological confusions in the history of linguistics, this inappropriate usage of the term 'Supinum' can still be found in German grammatical literature to this day (with a history of transmission that deserves more in-depth study), most forcefully reinforced by the usage in Bech [-@bech1955] and the large literature building on that influential work.
 
 Restrictions on which light-verb constructions are possible with specific participles are widely discussed in the literature. For example, *angekommen* can be used with *sein* \Last[c] but not with *werden* \Last[d]. In contrast, *geputzt* can be used with both light verbs \LLast[c,d]. In recent years there has been an extensive discussion about two classes of intransitive verbs depending on their light-verb possibilities. This discussion originated with the discussion on impersonal *werden* passive (see [@sec:participles-werden-impersonal-passive]) in Perlmutter [-@perlmutter1978]. He introduced the terms \textsc{unakkusative/unergative} for intransitive verbs that do (\textsc{unergative}) or do not (\textsc{unakkusative}) allow for such impersonal passives see [@pullum1988 for a discussion of the origin of the term and scholarly predecessors; for an early discussions in German, see @wunderlich1985]. The most extensive discussion of the grammatical possibilities of intransitives in German can be found in Grewendorf [-@grewendorf1989: 18-20], though unfortunately (and confusingly) under the heading \textsc{ergative}. 
 

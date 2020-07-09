@@ -78,7 +78,7 @@ Adverbs, i.e. single-word adverbials that cannot function as adjectives, only al
 
 ### Adjectives as resultative secondary predicates
 
-There is a different \textsc{resultative} construction with adjectival adverbs that superficially looks highly similar to the previous \textsc{depictive} examples, but it turns out to be a radically different construction. The adjectival adverb *leer* 'empty' in \Next[a] can be interpreted, like in the previous examples, as a depictive predicate with the meaning "I have bought the store as it was empty" \Next[b]. Alternatively, it can be interpreted resultatively with the meaning "I have bought everything that was in the store, with the result that the store was empty afterwards" \Next[c].
+There is a different \textsc{resultative} construction with adjectival adverbs that superficially looks highly similar to the previous depictive examples, but it turns out to be a radically different construction. The adjectival adverb *leer* 'empty' in \Next[a] can be interpreted, like in the previous examples, as a depictive predicate with the meaning 'I have bought the store as it was empty' \Next[b]. Alternatively, it can be interpreted resultatively with the meaning "I have bought everything that was in the store, with the result that the store was empty afterwards" \Next[c].
 
 \ex.
  \a. Ich habe den Laden leer gekauft.
@@ -114,7 +114,7 @@ The most frequent resultative adjectival predicates in German are *leer-, voll-,
 
 ## Deponent verbs without alternations
 
-There are various verbs in German that obligatorily need an adverbial, which are collected in this section. All examples discussed in this section concern verbs with obligatory \textsc{depictive} adverbials. I see no reason for obligatory \textsc{resultative} adverbials to be impossible – I simply have not encountered any examples yet. The phenomenon to look out for are verbs with a resultative adverbial like *leerkaufen* in which the main predicate *kaufen* is not attested as an individual verb, but only occurs in combination with resultative adverbials.
+There are various verbs in German that obligatorily need an adverbial, which are collected in this section. All examples discussed in this section concern verbs with obligatory depictive adverbials. I see no reason for obligatory resultative adverbials to be impossible – I simply have not encountered any examples yet. The phenomenon to look out for are verbs with a resultative adverbial like *leerkaufen* in which the main predicate *kaufen* is not attested as an individual verb, but only occurs in combination with resultative adverbials.
 
 ### --- Verb with obligatory depictive adverbial --- {.unnumbered}
 
