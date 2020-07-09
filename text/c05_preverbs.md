@@ -788,7 +788,7 @@ Preposition *bei*? Maybe always possible with accusative drop verbs
 
 - verˈ- : *kalkulieren, schätzen, tun*
 - beˈ-  : *fassen*
-- 
+
 **Examples**
 
 - Ich kalkuliere die Miete. Ich verkalkuliere mich bei der Miete.
