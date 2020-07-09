@@ -143,13 +143,17 @@ Various verbs describing behavior like *verirren* 'to get lost' \Next need an ob
 
 **Attested Verbs**
 
-- Behaviour: *abmühen, aufführen, beeilen, benehmen, betrinken, erhängen, gedulden, rentieren, verfahren, verhalten, verirren, verlaufen, verschreiben, verspäten, verspekulieren, versprechen, vertun, verwählen*
-- Body process: *bücken, erkälten, räuspern, übergeben*
+- Behaviour: *abmühen, abrackern, abstrampeln, aufführen, aufrappeln, beeilen, benehmen, betrinken, besaufen, danebenbenehmen, daranmachen, darübermachen, davonstehlen, dazwischenstellen, durchlavieren, durchmogeln, durchwursteln, echauffieren, einigeln, erhängen, ermannen, fortbilden, gedulden, herausreden, hervortun, hinauswagen, rentieren, sputen, verfahren, verhalten, verhaspeln, verirren, verkalkulieren, verlaufen, verplappern, verschreiben (falsch schreiben), verspäten, verspekulieren, versprechen (falsch sprechen), verrennen, vertun, verwählen, verzählen*
+- Body process: *akklimatisieren, bücken, erkälten, räuspern, verkühlen, übergeben, wohlfühlen*
+- Natural process: *abregnen, anfinden, bauchen, behaaren, bewahrheiten, bewölken, eintrüben, entspinnen, herauskristallieren, jähren, verästeln, verpuppen, verzweigen*
 
 **Examples**
 
 - Die Autofahrer, die im Stau stehen, müssen sich gedulden.
 - Die S-Bahn hat sich wieder einmal verspätet.
+- Die Wolken haben sich abgeregnet.
+- Die Segel bauchen sich im Winde.
+- Die neugeborenen Katzen behaaren sich allmählich.
 
 ### [ NP ] Obligatory accusative reflexive + governed preposition
 
@@ -161,19 +165,19 @@ A widespread phenomenon are verbs with an obligatory accusative *sich* with a go
 
 **Attested Verbs**
 
-- *an*    : *beteiligen, halten*
+- *an*    : *anpirschen, anschmiegen, beteiligen, festbeißen, halten*
 - *auf*   : *beziehen, freuen, konzentrieren, verlassen*
 - *durch* : *äussern*
-- *für*   : *aussprechen, bedanken, eignen, entschuldigen*
-- *gegen* : *sträuben*
-- *in*    : *fügen, verlieben, versuchen*
+- *für*   : *aussprechen, bedanken, eignen, entschuldigen, revanchieren, schämen*
+- *gegen* : *sträuben, verschwören*
+- *in*    : *einfühlen, einhören, einkuscheln, einleben, einlesen, fügen, hineindenken, hineinversetzen, schicken (fügen), vergucken, verlieben, versuchen*
 - *mit*   : *abfinden, abgeben, abmühen, abquälen, auskennen, beeilen, befassen, begnügen, behelfen, beschäftigen, zufriedengeben*
 - *nach*  : *erkundigen, sehnen, umsehen* 
-- *über*  : *beschweren, erkundigen*
-- *um*    : *bemühen, bewerben*
-- *von*   : *emanzipieren, erholen*
+- *über*  : *beschweren, erkundigen, ereifern, kaputtlachen, mokieren*
+- *um*    : *balgen, bemühen, bewerben, mühen*
+- *von*   : *erholen, lossagen*
 - *vor*   : *schämen, verbeugen, verneigen*
-- *zu*    : *eignen, entscheiden, entschließen*
+- *zu*    : *eignen, entscheiden, entschließen, gesellen, versteigen*
 
 **Examples**
 
@@ -211,6 +215,8 @@ The verb *abgeben* 'to give away' \Next[a] has a rather different meaning from *
  \a. Ich habe den Brief abgegeben.
  \b. Ich habe mich mit ihm abgegeben.
 
+The verb *sich schicken* 'to acquiesce' is an old-fashioned meaning of *schicken* 'to send'. Another usage of the same verb stem typically occurs with *es* and negative polarity, meaning 'to be not suitable*: *es schickt sich nicht*.
+
 ### [ Np ] Obligatory accusative reflexive + *mit* preposition (real reciprocals)
 
 A special group of verbs in this class are verbs with an reciprocal *mit* preposition, like *einigen* 'to reach an agreement' \Next[a]. On first notice, the *mit* phrase might look like a comitative argument \NNext[a]. Just like comitative phrases, reciprocal *mit* phrases are not governed prepositions, compare \Next[b] and \NNext[b], see also [@sec:prepositions-comitative-intrumental]. However, different from comitative phrases, reciprocal *mit* phrases do not allow for the addition of *zusammen* \Next[c]. The addition of *zusammen* is possible with comitative *mit* \NNext[c]. 
@@ -235,7 +241,7 @@ Various reciprocal *mit* verbs also exist without reflexive pronoun, but only in
 
 **Attested Verbs**
 
-- *anfreunden, anlegen, aussprechen, befreunden, beratschlagen, duellieren, einigen, streiten, treffen, überwerfen, unterhalten, verabreden, verbrüdern, verklemmen, verkrachen, verloben, verschwören, vertragen*
+- *alliieren, anfreunden, anlegen, aussprechen, befreunden, beratschlagen, duellieren, einigen, solidarisieren, streiten, treffen, überwerfen, unterhalten, verabreden, verbrüdern, verbünden, verfeinden, verklemmen, verkrachen, verloben, verschwören, vertragen*
 
 **Examples**
 
@@ -260,14 +266,15 @@ A few verbs with obligatory *sich* additionally need an obligatory (adverbial) l
 
 **Attested Verbs**
 
-- *aalen, anstellen, aufhalten (befinden), befinden, begeben, einfressen, einschleichen, ereignen, ergießen, fläzen, niederlassen, suhlen, verkriechen, verschanzen, zutragen*
+- *aalen, anstellen, aufhalten (befinden), befinden, begeben, einfressen, einschleichen, ereignen, ergießen, fläzen, niederlassen, scheren, suhlen, umsehen, verkriechen, verschanzen, zubewegen, zurechtfinden, zutragen*
 
 **Examples**
 
 - Auf der A 8 hat sich ein Unfall ereignet.
 - Ich halte mich in der Vestibule auf.
 - Ich aale mich in der Sonne.
-- Der Schmutz hatte sich tief in die bröckligen Wände eingefressen
+- Der Schmutz hatte sich tief in die bröckligen Wände eingefressen.
+- Er schert sich nach Hause.
 
 **Notes**
 
@@ -325,6 +332,16 @@ It is exceedingly rare to have a dative *sich* without other arguments. A possib
 **Examples**
 
 - Ich gebe mir Mühe.
+
+### [ NP ] Obligatory dative reflexive + governed preposition
+
+**Attested Verbs**
+
+- *schwertun*
+
+**Examples**
+
+- Mit dieser Aufgabe tue ich mir schwer.
 
 ### [ NA ] Obligatory dative reflexive + accusative {#sec:reflexive-obligatory-dative-accusative}
 
@@ -398,7 +415,7 @@ A small group of obligatorily intransitive *sich* verbs allow for a dative to be
 **Attested Verbs**
 
 - Subordinate: *ergeben, fügen*
-- Oppose: *widersetzen* 
+- Oppose: *emanzipieren, widersetzen* 
 
 **Examples**
 
@@ -422,12 +439,14 @@ In some of the (uncommon) verbs with an accusative *sich* and dative argument \N
 
 **Attested Verbs**
 
-- *anbiedern, beugen, fügen*
+- Submission: *anbiedern, beugen, einschmeicheln, fügen*
 
 **Examples**
 
 - Ich beuge mich seinem Willen. Ich beuge mich vor seinem Willen.
+- Ich füge mich deinem Willen. Ich füge mich nach deinem Willen.
 - Er hatte sich (bei/an) ihm angebiedert.
+- Die Schülerin hat sich der Lehrerin eingeschmeichelt. Sie hatte sich bei der Lehrerin eingeschmeichelt.
 
 ### [ NG | NP ] Obligatory accusative reflexive + genitive antipassive
 
@@ -442,16 +461,27 @@ Some obligatorily *sich* verbs with a genitive argument allow for the genitive a
 
 **Attested Verbs**
 
-- *über* : *erfreuen, freuen, fürchten (sorgen), schämen*
+- *über* : *erfreuen, freuen, fürchten (sorgen), schämen, vergewissern*
 - *mit*  : *brüsten*
 - *auf*  : *besinnen*
+- *zu*.  : *bequemen, erdreisen, erfrechen*
 
 **Examples**
 
 - Ich schäme mich meines Vergehens. Ich schäme mich für mein Vergehen.
-- Ich fürchte mich deiner. Ich fürchte mich über dich. ('sorgen')
 - Sie brüstet sich ihrer Vergangenheit. Sie brüstet sich mit ihrem großen Freundeskreis.
 - Ich besinne mich eines Besseren. Das Volk muss sich auf seine Kraft besinnen.
+- Die Tochter bequemte sich ihres Wunsches. Sie bequemte sich zu einer Antwort.
+- Sie besann sich ihrer Aufgabe. Sie besann sich auf ihre Aufgabe.
+- Er erfrechte sich der Beleidigung des Vaters. Er erfrechte sich zu einer solchen Beleidigung.
+- Er erdreistet sich der Lüge. Mit welchem Ziel hätten wir uns dazu erdreisten können?
+- Sie hat sich seiner Zuverlässigkeit vergewissert. Sie hat sich über seine zuverlässigkeit vergewissert.
+
+**Notes**
+
+The verb *fürchten* only occurs in this diathesis in the very old-fashioned meaning of 'to care for'. The contemporary meaning 'to be afraid' does not show this diathesis.
+
+\ex. Ich fürchte mich deiner. Ich fürchte mich über dich.
 
 ## Alternations without diathesis
 
@@ -1329,7 +1359,7 @@ The term "autocausative" is used by Geniušiené (1987: 183-184, 198-200) to des
 
 **Attested Verbs**
 
-- *abwenden, anziehen, aufrichten, äußern, erheben, hinlegen, hinsetzen, hinstellen, neigen, räkeln, strecken, verschlafen, verschlucken*
+- *abduschen, abhetzen, abwenden, anziehen, aufrichten, äußern, erheben, hinlegen, hinsetzen, hinstellen, neigen, räkeln, strecken, verschlafen, verschlucken*
 
 **Examples**
 
@@ -1340,6 +1370,8 @@ The term "autocausative" is used by Geniušiené (1987: 183-184, 198-200) to des
 - Er streckt seine Arme. Er streckt sich.
 - Er wendet die Augen ab. Er hat sich von der Welt abgewandt.
 - Er richtet den Stuhl auf. Er richtet sich auf.
+- Er duscht das Salz ab. Er duscht sich ab.
+- Er hetzte das Pferd ab. Er hetzte sich ab.
 
 **Notes**
 
