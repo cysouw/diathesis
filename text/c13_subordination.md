@@ -242,12 +242,14 @@ This only seems to occur in exceptional cases.
 
 **Attested Verbs**
 
-- *gehören*
+- *gehören, schicken*
 
 **Examples**
 
 - Es gehört sich nicht zu spät zu kommen.
 - Zu spät zu kommen gehört sich nicht.
+- Einen Hut zu tragen schickt sich nicht
+- Es schickt sich nicht einen Hut zu tragen
 
 ### [ NZ ]
 
