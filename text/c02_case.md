@@ -16,7 +16,7 @@ The crucial (and somewhat problematic) aspect of such alternations is that there
 
 The unmarked nature of 'bare' alternations implies that all diatheses in this, and the next, chapter have to be discussed in pairs, i.e. as actual alternations between two different constructions. The result is some slight redundancy and fuzziness in presentation. This redundancy arises because, for example, when a verb occurs in four different constructions, then there are logically six different alternations (viz. 1-2, 1-3, 1-4, 2-3, 2-4, 3-4). I have nonetheless decided to approach the descriptive organization in this chapter from the perspective of such pairwise alternations, because (i) it highlights the possible connections attested between construction, and (ii) very many verbs appear only to occur in just one or two alternations anyway (with only a smaller subset of verbs appearing across many different constructions).
 
-## Delimiting case-marked arguments (#sec:case-delimiting-arguments)
+## Delimiting case-marked arguments {#sec:case-delimiting-arguments}
 
 ### Identifying case marking
 

@@ -256,7 +256,7 @@ The verb *verklemmen* cannot be used in the singular mit *mit* but only reciproc
  \a.    Die Zahnräder verklemmen sich.
  \b. \* Das erste Zahnrad verklemmt sich mit dem nächsten.
 
-### [ NL ] Obligatory accusative reflexive + local preposition
+### [ NL ] Obligatory accusative reflexive + local preposition {#sec:reflexive-obligatory-local}
 
 A few verbs with obligatory *sich* additionally need an obligatory (adverbial) local prepositional phrase.
 

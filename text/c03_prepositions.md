@@ -239,9 +239,9 @@ For the verb *geraten* the prepositions *in* accounts for most collocations. How
 - Er hat mich über die Lage aufgeklärt.
 - Ich erinnere dich an den Termin.
 
-### [ NAL ] Nominative + accusative + local preposition
+### [ NAL ] Nominative + accusative + local preposition {#sec:prepositions-obligatory-local}
 
-The most obvious verbs in this class are historical ablaut causatives like *legen* 'to lay, to put down' \Next[b] of posture verbs like *liegen* 'to lie' \Next[a].
+The most obvious verbs in this class are historical ablaut causatives like *legen* 'to lay, to put down' \Next[b] of posture verbs like *liegen* 'to lie' \Next[a]. More examples are attested with obligatory reflexive pronoun, see [@sec:reflexive-obligatory-local].
 
 \ex.
  \a. Der Hund liegt im Korb.
@@ -1368,7 +1368,7 @@ This alternation appears as a parallel to the double accusative of *nennen* 'to 
 
 ### --- [ Ø > OBJ > OBJ ] Resultative --- {.unnumbered}
 
-### [ N–A | NAL ] Action result + local antipassive
+### [ N–A | NAL ] Action result + local antipassive {#sec:prepositions-action-result}
 
 This alternation occurs with some transitive verbs like *brechen* 'to break' \Next[a-g], cf. the *wipe* alternation in English from Levin [-@levin1993: 53]. Note that the accusatives at both sides of the alternation do not refer to the same roles. The original accusative is recast as a location, and a new accusative is introduced as the result of the action.
 
