@@ -1,3 +1,45 @@
+Finite verbforms
+
+Each German sentence needs at least one finite verbform, which is inflected for person, number and tense. The person inflection agrees in person and number with the subject. However, it is probably better to reverse this defintion, in that the 'subject' can be defined as the noun phrase that shows agreement with the finite verb. To ease the identification of the finite verb, I will only use singular forms in the present tense in all constructed examples. In most cases, these forms can readily be identified by their suffixes (see Table, showing the most important inflection classes and irregular verbs.)
+
+| Person | Weak verbs | Verbs with Umlaut | Verbs with Vokalwechsel | Modalverben (e.g. können) | haben | werden | sein
+| --- | --- | --- | --- | --- | --- | --- | --- 
+| 1st person | kauf-e | lauf-e | geb-e | kann | hab-e | werd-e | bin
+| 2nd person | kauf-st | läuf-st | gib-st | kann-st | ha-st | wir-st | bist
+| 3rd person | kauf-t | läuf-t | gib-t | kann | ha-t | wird | ist
+
+asdf
+
+---
+
+Sentence blueprints
+
+For the analysis of German sentence, it is useful to distinguish five different nonverbal predication structures, as shown in Table (). I will refer to these structures as 'sentence blueprints'. These constructions use one of the many light verb together with a non-verbal main predicate.
+
+| Blueprint | Example | Predication construction
+| --- | --- | ---
+| Adjectival blueprint | Ich bin jung/unterwegs. | Adjectival/adverbial predication
+| Bare nominal blueprint | Ich bin Tourist. | Nominal predication, no article, no preposition
+| Full nominal blueprint | Ich bin ein Tourist. | Nominal predication, with article, no preposition
+| Bare prepositional blueprint | Ich bin auf Weltreise. | Nominal predication, no article, with preposition
+| Full prepositional blueprint | Ich bin auf einer Weltreise. | Nominal predication, with article, with preposition
+
+=> 'haben'+Noun predicate: Ich habe Hunger/Durst/Angst/Langeweile/Sehnsucht/Lust/Recht/Geduld
+
+The lexical predicate in nonverbal blueprints can also be filled with a derivational verbform, as shown in Table (). Typically, German participles and infinitives are used, because participles are functionally similar to adjectives and infinitives are similar to nouns. These five verb-filled blueprints are an extension of the three different kinds of 'Statusrektion' that have a long tradition in the German grammatical literature (originating with Bech 1955). The bare nominal blueprint corresponds to the so-called 'first status', the bare prepositional blueprint to the 'second status' and the adjectival blueprint to the 'third status'. For mnemonic reasons, I prefer the iconic names as proposed in the table below over abstract numerical representations.
+
+| Blueprint | Example | Derived verbform
+| --- | --- | ---
+| Adjectival blueprint | Ich bin gekommen. | Participle, or other adjective-like derived verb
+| Bare nominal blueprint | Ich bin spazieren. | Infinitive, or other noun-like derived verb
+| Full nominal blueprint | Ich habe ein Flimmern im Auge. | Article with infinitive, or other noun-like derived verb
+| Bare prepositional blueprint | Ich habe zu danken. | Preposition (typically 'zu') with infinitive, or other noun-like derived verb
+| Full prepositional blueprint | Ich bin beim Schwimmen. | Preposition with Article and Infinitive, or other noun-like derived verb
+
+asdf
+
+---
+
 [@lichte2015]
 
 Bech hat in seiner „Kohärenzregel“ bereits ein recht zuverlässiges Indiz für Kohärenz(un)tauglichkeit festgehalten:7 Alle Verben, die den 1. oder 3. Status re- gieren, sind kohärenztauglich, ja konstruieren (meist) sogar obligatorisch kohä- rent. Weniger eindeutig verhält es sich bei Verben, die den 2. Status regieren. Sie können in allen drei Subklassen vorkommen. 
