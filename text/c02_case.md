@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Diathesis crucially involves variation in the marking of valency, and specifically variation in the marking of case as governed by the verb. With many verbs there is variation as to which cases are governed by the verb, typically including alternations between case marked arguments and adpositional phrases. The notion of 'flagging' was (re)introduced in Haspelmath [-@haspelmath2005d: 2] as a cover term to capture the intuition that case marking and adpositional marking express very similar functions in linguistic marking. The first two data chapters in this book discuss exactly those kind of marking, viz. case and adpositional marking as governed by a verb. This chapter discusses alternations involving case-marked constituents, and the next chapter focusses on governed prepositional constituents.
+Diathesis typically involves variation in the marking of case as governed by the verb, possibly including alternations between case marked arguments and adpositional phrases. The notion of 'flagging' was (re)introduced in Haspelmath [-@haspelmath2005d: 2] as a cover term to capture the intuition that case marking and adpositional marking express very similar functions in linguistic marking. The first two data chapters in this book discuss exactly those kind of marking, viz. case and adpositional marking as governed by a verb. This chapter discusses diatheses involving case-marked constituents, and the next chapter focusses on governed prepositional constituents.
 
-Pure case-marking alternations are characterized by one and the same verb that can be used with different case-marked roles and, crucially, no other overt marking of the different constructions. Such alternations include, for example, possessor raising like \Next[a,b] or anticausative alternations like \Next[c,d].
+Pure case-marking diatheses are characterised by one and the same verb that can be used with different case-marked roles and, crucially, no other overt marking of the different constructions. Such alternations include, for example, possessor raising like \Next[a,b] or anticausative alternations like \Next[c,d].
 
 \ex.
  \a. Ich schneide seine Haare.
@@ -12,9 +12,9 @@ Pure case-marking alternations are characterized by one and the same verb that c
  \c. Ich verbrenne den Tisch.
  \d. Der Tisch verbrennt.
 
-The crucial (and somewhat problematic) aspect of such alternations is that there is no formal indication of the presence of a diathesis except for the marking of the arguments themselves. The prototypical diathesis (as defined in Section X) includes some overt linguistic marking that indicates that a diathesis has taken place (i.e. some affix, particle, light verb, or other morphosyntactic means). And indeed, all diatheses that will be discussed in subsequent chapters will be of that kind. In contrast, the diatheses discussed in this chapter and the next chapter are 'bare' alternations, or 'zero' marked alternations, in that there is no other indication of a diathesis, except for the marking of the arguments themselves. The problem with such 'bare' diatheses is that there is no overt directionality in the alternation -- there is no way to distinguish between a base form and a derived form. Both alternants have an equal status as far as the morphosyntax is concerned. 
+The crucial (and somewhat problematic) aspect of such alternations is that there is no formal indication of the presence of a diathesis except for the marking of the arguments themselves. The prototypical diathesis (as defined [@sec:intro-basic-defintion]) includes some overt linguistic marking that indicates that a diathesis has taken place (i.e. some affix, particle, light verb, or other morphosyntactic means). And indeed, all diatheses that will be discussed in subsequent chapters will be of that kind. In contrast, the diatheses discussed in this chapter and the next chapter are 'covert' alternations, or 'zero marked' alternations, in that there is no other indication of a diathesis, except for the marking of the arguments themselves [@zuniga2019 introduce the term 'covert' diathesis for this]. The problem with such covert diatheses is that there is no overt directionality in the alternation -- there is no way to distinguish between a base form and a derived form. Both alternants have an equal status as far as the morphosyntax is concerned. 
 
-The unmarked nature of 'bare' alternations implies that all diatheses in this, and the next, chapter have to be discussed in pairs, i.e. as actual alternations between two different constructions. The result is some slight redundancy and fuzziness in presentation. This redundancy arises because, for example, when a verb occurs in four different constructions, then there are logically six different alternations (viz. 1-2, 1-3, 1-4, 2-3, 2-4, 3-4). I have nonetheless decided to approach the descriptive organization in this chapter from the perspective of such pairwise alternations, because (i) it highlights the possible connections attested between construction, and (ii) very many verbs appear only to occur in just one or two alternations anyway (with only a smaller subset of verbs appearing across many different constructions).
+The unmarked nature of covert diatheses implies that there is some slight redundancy and fuzziness in presentation. This redundancy arises because, for example, when a verb occurs in four different constructions, then there are logically six different alternations (viz. 1-2, 1-3, 1-4, 2-3, 2-4, 3-4). I have nonetheless decided to approach the descriptive organisation in this chapter from the perspective of such pairwise alternations, because (i) it highlights the possible connections attested between construction, and (ii) very many verbs appear only to occur in just one or two alternations anyway (with only a smaller subset of verbs appearing across many different constructions).
 
 ## Delimiting case-marked arguments {#sec:case-delimiting-arguments}
 
@@ -31,7 +31,7 @@ The German case marking system is rather straightforward. Noun phrases in German
 
 Table: German marking of case {#tbl:german-case}
 
-Basically, almost all case-marked constituents are governed arguments. Yet, there are a few situations (to be discussed in detail below) in which overtly case-marked constituents are not arguments (or, alternatively, a very special type of arguments): quantified objects \Next[a], named objects \Next[b], cognate objects \Next[c], lexicalized noun-verb combinations \Next[d] and adnominal constituents \Next[e].
+Basically, almost all case-marked constituents are governed arguments. Yet, there are a few situations (to be discussed in detail below) in which overtly case-marked constituents are not arguments (or, alternatively, a very special type of arguments): quantified objects \Next[a], named objects \Next[b], cognate objects \Next[c], lexicalised noun-verb combinations \Next[d] and adnominal constituents \Next[e].
 
 \ex.
  \a. Er schläft [den ganzen Tag].
@@ -66,21 +66,21 @@ The small group of verbs that obligatorily takes such arguments will be discusse
 
 ### Cognate objects
 
-There is a special construction available for many verbs to add an object that is a nominalization of the verb itself, exemplified here in \Next[a,b]. 
+There is a special construction available for many verbs to add an object that is a nominalisation of the verb itself, exemplified here in \Next[a,b]. 
 
 \ex.
  \a. Er hat einen gesunden Schlaf geschlafen.
  \b. Er hat viele Träume geträumt.
 
-This construction is known as a 'cognate object' construction [e.g. @levin1993: 95-96], because the object is etymologically related to the verb. In many cases, this cognate object is simply a zero nominalization ('conversion') of the verb stem (e.g. *schlafen - der Schlaf*, 'to sleep - the sleep'), but in some cases different nominalizations like the infinitive are used (e.g. *lächeln - das Lächeln*, 'to smile - the smile').
+This construction is known as a 'cognate object' construction [e.g. @levin1993: 95-96], because the object is etymologically related to the verb. In many cases, this cognate object is simply a zero nominalisation ('conversion') of the verb stem (e.g. *schlafen - der Schlaf*, 'to sleep - the sleep'), but in some cases different nominalisations like the infinitive are used (e.g. *lächeln - das Lächeln*, 'to smile - the smile').
 
-Examples like \Last[a,b] seem to suggest that intransitive verbs like *schlafen* 'to sleep' and *träumen* 'to dream' allow for accusative arguments. However, besides these cognate objects there are no other accusative arguments allowed with these verbs. Further, such cognate arguments seem to be theoretically possible for all verbs, though often quite some imagination is needed to find a suitable context to use verb and nominalized verb together.
+Examples like \Last[a,b] seem to suggest that intransitive verbs like *schlafen* 'to sleep' and *träumen* 'to dream' allow for accusative arguments. However, besides these cognate objects there are no other accusative arguments allowed with these verbs. Further, such cognate arguments seem to be theoretically possible for all verbs, though often quite some imagination is needed to find a suitable context to use verb and nominalised verb together.
 
-Because of their special status, such cognate object nominalizations are not counted as regular arguments. However, nominalizations are an interesting aspect of diathesis in itself and will be discussed extensively in Chapter [-@sec:nom].
+Because of their special status, such cognate object nominalisations are not counted as regular arguments. However, nominalisations are an interesting aspect of diathesis in itself and will be discussed extensively in Chapter [-@sec:nom].
 
 ### Lexicalized noun-verb combinations
 
-There is a common pattern in German in which nouns are combined with a verb, like *eislaufen* 'ice skating'. Such constructions are highly reminiscent of the typologically widespread process of noun incorporation. However, in German such noun incorporation only occurs with individual lexeme combinations, so they are probably better interpreted as grammaticalized noun-verb collocations [@eisenberg2013: 324-327; @gallmann1999; -@gallmann2015]. 
+There is a common pattern in German in which nouns are combined with a verb, like *eislaufen* 'ice skating'. Such constructions are highly reminiscent of the typologically widespread process of noun incorporation. However, in German such noun incorporation only occurs with individual lexeme combinations, so they are probably better interpreted as grammaticalised noun-verb collocations [@eisenberg2013: 324-327; @gallmann1999; -@gallmann2015]. 
 
 Most such combinations are written as separate words in German orthography, e.g. *Wache stehen* 'stand guard', so they might look like nominal arguments. However, they normally do not allow for any determiners or modifiers \Next[a]. Only very few fixed combinations allow for an adjective \Next[b] and/or a determiner \Next[c].
 
@@ -89,7 +89,7 @@ Most such combinations are written as separate words in German orthography, e.g.
  \b. Er hat bittere Tränen geweint.
  \c. Er stirbt einen qualvollen Tod.
 
-The typical examples like *Blut* 'blood' in \Last[a] do not show much indication of case-marking. It is clearly not a genitive (because then it should have been *Blutes*), but nominative, dative or accusative are all possible. The few examples with determiners and/or adjectives seem to indicate that these constituents are accusatives. However, even in undoubtedly accusative examples like \Last[c] the accusative is not an argument, because it is strange (if not completely ungrammatical) to pronominalize \Next[a] or question \Next[b] this accusative. Just like cognate objects, such nouns in lexicalized noun-verb combinations are not arguments.
+The typical examples like *Blut* 'blood' in \Last[a] do not show much indication of case-marking. It is clearly not a genitive (because then it should have been *Blutes*), but nominative, dative or accusative are all possible. The few examples with determiners and/or adjectives seem to indicate that these constituents are accusatives. However, even in undoubtedly accusative examples like \Last[c] the accusative is not an argument, because it is strange (if not completely ungrammatical) to pronominalise \Next[a] or question \Next[b] this accusative. Just like cognate objects, such nouns in lexicalised noun-verb combinations are not arguments.
 
 \ex.
  \a. \* Er stirbt es.
@@ -156,13 +156,13 @@ Some of the 'living' verbs allow for accusative arguments in non-living related 
 
 The verbs in this class are strict transitives: they need a nominative subject argument and an additional accusative argument. Further arguments are not allowed, and no governed prepositions are allowed either. It turns out that this group is not very large, because very many verbs allow for dative arguments (traditionally called 'free' datives, but that term will be ignored here) or alternations with governed prepositions. For example, an apparently typical transitive verb like *bauen* 'to build' allows for a dative to mark the beneficiary of the building, as in *Ich baue dir ein Haus* 'I will build a house for you'. Conversely, there are also many apparently typical transitive verbs that can just as well be used without accusative object, including well-known ambitransitive verbs like *essen* 'to eat'. Still, the current set of verbs attested for this class can easily be extended and is not at all intended to be complete. 
 
-Verbprefixes and Verbparticles (see Chapter X) regularly induce an applicative alternation and subsequently often lexicalize, leading to transitive verbs \Next[a,b]. 
+Verbprefixes and Verbparticles (see Chapter [-@sec:preverbs]) regularly induce an applicative alternation and subsequently often lexicalise, leading to transitive verbs \Next[a,b]. 
 
 \ex.
  \a. Ich schreite über den Teppich.
  \b. Ich schreite den Teppich ab.
 
-The number of monomorphemic 'strictly' transitive verbs seems to be very limited. I could not find any obvious semantic categorization of these verbs, so they are simply presented in alphabetical order here.
+The number of monomorphemic 'strictly' transitive verbs seems to be very limited. I could not find any obvious semantic categorisation of these verbs, so they are simply presented in alphabetical order here.
 
 **Attested Verbs**
 
@@ -186,7 +186,7 @@ The number of monomorphemic 'strictly' transitive verbs seems to be very limited
 
 ### [ ND ] Nominative + dative {#sec:case-nominative-dative}
 
-The verbs in this class need both a nominative subject argument and a second dative argument. Both arguments cannot be dropped (except in extremely marked meta-linguistic contexts) and no other case-marked arguments or governed prepositions are possible. I could not find any obvious semantic categorization of these verbs, so they are simply presented in alphabetical order here.
+The verbs in this class need both a nominative subject argument and a second dative argument. Both arguments cannot be dropped (except in extremely marked meta-linguistic contexts) and no other case-marked arguments or governed prepositions are possible. I could not find any obvious semantic categorisation of these verbs, so they are simply presented in alphabetical order here.
 
 **Attested Verbs**
 
@@ -242,7 +242,7 @@ There are a few verbs in German that have a genitive argument. These verbs are s
 
 ### [ NAD ] Nominative + accusative + dative
 
-This class consists of the classical ditransitive verbs with an obligatory nominative, accusative and dative argument. It turns out to be extremely hard to find good examples of verbs that, at least in the large majority of its uses, always overtly shows all three arguments. Most apparent ditransitive verbs, like *geben* 'to give', easily allow for the dative to be dropped or replaced by a prepositional phrase [for the verb *geben*, see @devaere2018 for an in-depth study]. The few remaining obligatorily ditransitive verbs seem to be semantically more specialized verbs, in which a very specific meaning is forcing the overt marking of all three roles, in contrast to the more broader semantic range of a verb like *geben*.
+This class consists of the classical ditransitive verbs with an obligatory nominative, accusative and dative argument. It turns out to be extremely hard to find good examples of verbs that, at least in the large majority of its uses, always overtly shows all three arguments. Most apparent ditransitive verbs, like *geben* 'to give', easily allow for the dative to be dropped or replaced by a prepositional phrase [for the verb *geben*, see @devaere2018 for an in-depth study]. The few remaining obligatorily ditransitive verbs seem to be semantically more specialised verbs, in which a very specific meaning is forcing the overt marking of all three roles, in contrast to the more broader semantic range of a verb like *geben*.
 
 **Attested Verbs**
 
@@ -297,13 +297,13 @@ These quantified constituents are not governed arguments. First, they can easily
 
 Yet, there is a special class of verbs that appear to obligatorily need such a quantified object. These objects are interrogated by *wie viel?* 'how much' (though interrogation with *was* 'what' seems also possible with some of them). Though debatable, I tend to classify these accusative constituents as arguments. Whatever the interpretation, when they are arguments, but also when these constituents are not considered to be arguments, then there is still something special with these verbs.
 
-A further argument to consider these accusative constituents as something special is that these verbs cannot be passivized, just like typical intransitive verbs \Next[a]. Even with non-quantified objects, these verbs still prohibit passivization \Next[b].
+A further argument to consider these accusative constituents as something special is that these verbs cannot be passivised, just like typical intransitive verbs \Next[a]. Even with non-quantified objects, these verbs still prohibit passivisation \Next[b].
 
 \ex.
  \a. Die Aussage kostet sie den Wahlsieg.
  \b. Ich bin der Herausforderung gewachsen.
 
-An exception to this rule blocking passivization for quantified objects are the verbs *verdienen* and *zahlen*. They can be used with quantified objects \Next[b] and with non-quantified objects \Next[a], similarly to *kosten* above. However, with these verbs passivization is possible \Next[c,d], so these verbs are considered to be taking regular accusative objects.
+An exception to this rule blocking passivisation for quantified objects are the verbs *verdienen* and *zahlen*. They can be used with quantified objects \Next[b] and with non-quantified objects \Next[a], similarly to *kosten* above. However, with these verbs passivisation is possible \Next[c,d], so these verbs are considered to be taking regular accusative objects.
 
 \ex.
  \a. Er verdient 50 Euro. Er verdient den Nobelpreis.
@@ -333,7 +333,7 @@ A special group of verbs can be used to performatively name persons or things. A
  \b. Ich nenne dich [einen Egoisten].
  \c. "Die Juden!" rief Franz ungeduldig, "was nennst du Juden? (DWDS: Bahr, Hermann: Die Rotte Korahs. Berlin 1919)
 
-The name in such naming constructions cannot be passivized \Next[a,b], which also indicates that these accusative arguments have a special status in the grammar of the German language.
+The name in such naming constructions cannot be passivised \Next[a,b], which also indicates that these accusative arguments have a special status in the grammar of the German language.
 
 \ex.
  \a. Du wirst einen Egoisten genannt.
@@ -352,7 +352,7 @@ The name in such naming constructions cannot be passivized \Next[a,b], which als
 
 ## Alternations without diathesis
 
-Alternations without diathesis do not exist by definition for 'bare' alternations as discussed in this chapter. As noted in the introduction, this chapter discusses alternations that are only recognizable by the fact that there is a diathesis, without any other linguistic indication of the valency alternation. In other chapters this category will be well represented.
+Alternations without diathesis do not exist by definition for 'bare' alternations as discussed in this chapter. As noted in the introduction, this chapter discusses alternations that are only recognisable by the fact that there is a diathesis, without any other linguistic indication of the valency alternation. In other chapters this category will be well represented.
 
 ## Diatheses with subject demotion
 
@@ -427,7 +427,7 @@ A few verbs with nominative and genitive arguments allow the nominative to be dr
 
 ### [ NA | –N ] *haben* Anticausative {#sec:case-haben-anticausative}
 
-A typical anticausative verb allows for both a transitive \Next[a] and an intransitive \Next[b] in which the intransitive nominative is the same participant as the accusative from the transitive. This is attested by verbs like *kochen* 'to cook' (a,b). However, with this verb the Perfect of the intransitive exist both with auxiliaries *haben* \Next[c] and *sein* \Next[d]. Semantically, the *haben* construction \Next[c] seems to be the regular Perfect of the intransitive \Next[b]. The *sein* construction \Next[d] is probably best analyzed as the 'Zustandspassiv' (see Section X) of the transitive \Next[a]. Levin [-@levin1993: 31] used the label "Induced Action Alternation" for a similar alternation in English.
+A typical anticausative verb allows for both a transitive \Next[a] and an intransitive \Next[b] in which the intransitive nominative is the same participant as the accusative from the transitive. This is attested by verbs like *kochen* 'to cook' (a,b). However, with this verb the Perfect of the intransitive exist both with auxiliaries *haben* \Next[c] and *sein* \Next[d]. Semantically, the *haben* construction \Next[c] seems to be the regular Perfect of the intransitive \Next[b]. The *sein* construction \Next[d] is probably best analysed as the 'Zustandspassiv' (see Section X) of the transitive \Next[a]. Levin [-@levin1993: 31] used the label "Induced Action Alternation" for a similar alternation in English.
 
 \ex.
  \a. Ich koche den Kaffee.
@@ -435,7 +435,7 @@ A typical anticausative verb allows for both a transitive \Next[a] and an intran
  \c. Der Kaffee hat gekocht.
  \d. Der Kaffee ist gekocht.
 
-Because this diathesis is unmarked it is difficult to decide whether this should be classified as an anticausative or as a causative. Because of the option for a 'Zustandspassiv' I have categorized this alternation here as an anticausative [cf. @scheibl2006: 355]. A highly similar construction with only a singly intransitive Perfekt auxiliary is discussed below as a causative (see [@sec:case-sein-causative]).
+Because this diathesis is unmarked it is difficult to decide whether this should be classified as an anticausative or as a causative. Because of the option for a 'Zustandspassiv' I have categorised this alternation here as an anticausative [cf. @scheibl2006: 355]. A highly similar construction with only a singly intransitive Perfekt auxiliary is discussed below as a causative (see [@sec:case-sein-causative]).
 
 **Attested Verbs**
 
@@ -512,7 +512,7 @@ The nominative subjects of weather verbs seem to be rather transparent metaphori
 
 ### [ A | N ] Accusative-to-nominative promotion
 
-Some verbs with experiences subjects needed an accusative subject in older stages of German [@nubling2006: 103-104], but these either were completely lost \Next[a], or tend to be replaced by a nominative \Next[b,c]. The verb *frieren* 'to be cold' with a human experiencer is currently in the middle of this transistion, allowing for both constructions.
+Some verbs with experiences subjects needed an accusative subject in older stages of German [@nubling2006: 103-104], but these either were completely lost \Next[a], or tend to be replaced by a nominative \Next[b,c]. The verb *frieren* 'to be cold' with a human experiencer is currently in the middle of this transition, allowing for both constructions.
 
 \ex.
  \a. Mich dürstet.
@@ -638,33 +638,28 @@ This section concerns those alternation in which a non-nominative case-marked ar
 
 ### [ NA | N– ] Accusative drop {#sec:case-accusative-drop}
 
-Bare antipassives, i.e. the removal of an accusative object, is a well-known phenomenon under the name of ambitransitive or labile verbs, typically exemplified with the verb *essen* 'to eat' \Next[a,b]. However, *essen* will not be considered an example of strictly bare antipassive here, because the object can also be turned into a prepositional phrase \Next[c].
+Drops, or bare/zero antipassives, i.e. the removal of an accusative object, is a well-known phenomenon under the name of ambitransitive or labile verbs, typically exemplified with the verb *essen* 'to eat' \Next[a,b]. However, *essen* will not be considered an example of strictly bare antipassive here, because the object can also be turned into a prepositional phrase \Next[c]. All such prepositional antipassives (see [@sec:prepositions-accusative-antipassive]) also seem to allow a bare antipassive expression, so they will not be repeated here.
 
 \ex.
  \a. Ich esse einen Apfel.
  \b. Ich esse gerne.
  \c. Ich esse von dem Apfel.
 
-All such prepositional antipassives, see [@sec:prepositions-accusative-antipassive] also seem to allow a bare antipassive expression, so they will not be repeated here. Also, there are verbs with an accusative and a dative argument \Next[a] that allow both to be dropped \Next[b,c]. These are also discussed elsewhere, see [@sec:prepositions-dative-antipassive-accusative] and will not be repeated here.
+Also, there are verbs with an accusative and a dative argument \Next[a] that allow both to be dropped \Next[b,c]. These are also discussed elsewhere (see [@sec:prepositions-dative-antipassive-accusative]) and will not be repeated here.
 
 \ex.
  \a. Ich backe dir einen Kuchen.
  \b. Ich backe einen Kuchen.
  \c. Ich backe gerade.
 
-Adverbials
+Similarly, dropping of an accusative argument is very widespread when focus is placed on the action itself. In such contexts typically the addition of an adverbial constructions seems necessary (see [@sec:adverbial-action-focus]).
 
 \ex.
  \a.    Ich sehe das Haus.
  \b. \? Ich sehe.
  \c.    Ich sehe gut.
 
-light verb constructions make it easier to drop? focus on activity/capability
-
-
-
-
-What is left over is just an apparently very small group of transitive verbs that allow for the accusative to be dropped – and not allow for a (free) dative, nor for a prepositional antipassive. These verbs are formally similarly to verbs that allow for an accusative to be added, see [@sec:case-accusative-addition]. The only difference between these two classes is a (rather vague) semantic intuition about whether the intransitive or the transitive meaning is more 'basic'.
+What is left over is just an apparently very small group of transitive verbs that allow for the accusative to be dropped – and not allow for a (free) dative, nor for a prepositional antipassive. These verbs are formally similar to verbs that allow for an accusative to be added (see [@sec:case-accusative-addition]). The only difference between these two classes is a (rather vague) semantic intuition about whether the intransitive or the transitive meaning is more 'basic'.
 
 **Attested Verbs**
 
@@ -672,10 +667,10 @@ What is left over is just an apparently very small group of transitive verbs tha
 
 **Examples**
 
-- Du störst die Veranstaltung. Du störst hier.
+- Du störst die Veranstaltung. Du störst.
 - Er regiert das Land. Die Vernunft regiert hier.
 - Er studiert den Fahrplan. Er studiert von früh bis abends.
-- Der deutsche Staatssekretär nervt den malischen Minister. Er nervt.
+- Der deutsche Staatssekretär nervt den malischen Minister. Du nervst.
 
 ### [ NAA | NA– ] Accusative drop + accusative {#sec:case-double-accusative-drop}
 
@@ -704,7 +699,7 @@ Double accusatives also regularly appear with quantified objects \Next[a, see [@
 
 **Notes**
 
-The verb *unterrichten* 'to instruct, to notify' also allows for two different accusative objects, either referring to the recipient of the teaching \Next[a] or the object of the teaching \Next[b]. However, these two accusative objects do not seem to occur together easily. When the recipient is in the accusative, the object typically uses a prepositional phrase \Next[c]. Then the object is in the accusative, the recipient is normally not expressed. Note though that both these accusative objects can be passivized \Next[d,e].
+The verb *unterrichten* 'to instruct, to notify' also allows for two different accusative objects, either referring to the recipient of the teaching \Next[a] or the object of the teaching \Next[b]. However, these two accusative objects do not seem to occur together easily. When the recipient is in the accusative, the object typically uses a prepositional phrase \Next[c]. Then the object is in the accusative, the recipient is normally not expressed. Note though that both these accusative objects can be passivised \Next[d,e].
 
 \ex.
  \a. Ich unterrichte dich.
@@ -715,7 +710,7 @@ The verb *unterrichten* 'to instruct, to notify' also allows for two different a
 
 ### [ NAD | N–D ] Accusative drop + dative
 
-This is the pattern as attested with the verb *danken* 'to thank' as exemplified in \Next[a-c]. The accusative can be left out, but only when the dative is retained. The dative cannot be dropped. This seems to be very rare. There seems to be a generalization that the accusative can normally not be dropped before also a governed dative is dropped (see also Section \ref{prepositions-sec-demotion-of-object}). Note that the sentence in \Next[a] appears to be rejected by many German speakers, but it is clearly attested (cf. https://www.dwds.de/wb/danken).
+This is the pattern as attested with the verb *danken* 'to thank' as exemplified in \Next[a-c]. The accusative can be left out, but only when the dative is retained. The dative cannot be dropped. This seems to be very rare. There seems to be a generalisation that the accusative can normally not be dropped before also a governed dative is dropped (see also [sec:prepositions-demotion-of-object]). Note that the sentence in \Next[a] appears to be rejected by many German speakers, but it is clearly attested (cf. https://www.dwds.de/wb/danken).
 
 \ex.
  \a. Ich danke dem Arzt mein Leben.
@@ -966,7 +961,7 @@ A widespread dative alternation is the so-called possessor-dative raising. More 
  \a. Ich schneide ihm die Haare.
  \b. Ich schneide seine Haare.
 
-This alternation occurs with all verbs with the *von* and *für* dative antipassive (see Section \ref{prepositions-sec-dative-antipassive-accusative}). Additionally, there are many verbs in the realm of destruction and repair.
+This alternation occurs with all verbs with the *von* and *für* dative antipassive (see [@sec:prepositions-dative-antipassive-accusative]). Additionally, there are many verbs in the realm of destruction and repair.
 
 **Attested Verbs**
 

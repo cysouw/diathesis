@@ -42,7 +42,7 @@ The verb *dürfen* reverses controll.
 
 ### *sollen + Infiniv*
 
-### *müssen + Infiniv*
+### *müssen + Infiniv* {#sec:infinitive-mussen}
 
 ### *wollen + Infiniv*
 
@@ -102,7 +102,7 @@ With adverbs, typically *leicht* or *gut*. The meaning is modal in a special sen
 
 DWDS query: haben leicht $p=VVINF &&! {reden, lachen, können}
 
-(mit "@gut" noch mehr Beispiele)
+(mit `@gut` noch mehr Beispiele)
 
 - 1	1998-07-13	Zeitung	Berliner Zeitung, 13.07.1998	Nike hatte leicht protzen:
 - 2	1993-02-26	Zeitung	Die Zeit, 26.02.1993, Nr. 09	Der Westen hat leicht richten.

@@ -8,7 +8,7 @@ When using the grammatical term \textsc{reflexive} a distinction has to be made 
  \a. Er wäscht ihn.
  \b. Er wäscht sich.
 
-From a typological perspective, there is arguably a difference in this respect between languages with a pronoun strategy, like German, and languages that use a verbal derivation technique for marking 'self-inflicting' reflexive constructions [@dixon2014: 172ff.]. For languages with verbal derivation it is probably preferable to analyze 'self-inflicting' reflexive constructions as a kind of diathesis. 
+From a typological perspective, there is arguably a difference in this respect between languages with a pronoun strategy, like German, and languages that use a verbal derivation technique for marking 'self-inflicting' reflexive constructions [@dixon2014: 172ff.]. For languages with verbal derivation it is probably preferable to analyse 'self-inflicting' reflexive constructions as a kind of diathesis. 
 
 Although German does not show diathesis for the 'self-inflicting' reflexive construction, the reflexive pronoun is used in various diatheses in German, for example anticausative \Next[a,b], see [@sec:reflexive-anticausative] or antipassive \Next[c,d], see [@sec:reflexive-accusative-antipassive]. In these sentences, the reflexive pronoun *sich* is not filling any role, but is marking a valency alternation. There is a long tradition to call such constructions \textsc{middle}. However, there turn out to be very many different kinds of 'middle' alternations, so I prefer to be more precise in separating and naming them here in this chapter [see also @kunze1997].
 
@@ -24,7 +24,7 @@ There are also various verbs for which any reflexive alternation is lost and onl
  \a. Die S-Bahn hat sich wieder einmal verspätet.
  \b. Ich habe mir eine neue Sprache angeeignet.
 
-In this chapter only those diatheses are discussed that only differ as to the addition of a reflexive pronoun. There are many more diatheses involving reflexive marking that will be discussed in subsequent chapters. In those diatheses there is more than one morphosyntactic change. For example, sometimes the addition of a preverb induces the addition of a reflexive pronouns \Next[a], see e.g. [@sec:preverb-reflexive-intransitive-antiresultative]. There is also the famous German diathesis with reflexive pronouns and manner adverbials \Next[b], see e.g. [@sec:adverbial-reflexive-transitive-anticausative], or the combination with the light verb *lassen* \Next[c], see e.g. [@sec:infinitive-lassen-reflexive-anticausative]. Less widely discussed are reflexive constructions with a lights verb like *fühlen* or *geben* with particples \Next[d], see e.g. [@sec:participle-geben-reflexive-anticausative].
+In this chapter only those diatheses are discussed that only differ as to the addition of a reflexive pronoun. There are many more diatheses involving reflexive marking that will be discussed in subsequent chapters. In those diatheses there is more than one morphosyntactic change. For example, sometimes the addition of a preverb induces the addition of a reflexive pronouns \Next[a], see e.g. [@sec:preverb-reflexive-intransitive-antiresultative]. There is also the famous German diathesis with reflexive pronouns and manner adverbials \Next[b], see e.g. [@sec:adverbial-reflexive-transitive-anticausative], or the combination with the light verb *lassen* \Next[c], see e.g. [@sec:infinitive-lassen-reflexive-anticausative]. Less widely discussed are reflexive constructions with a lights verb like *fühlen* or *geben* with participles \Next[d], see e.g. [@sec:participle-geben-reflexive-anticausative].
 
 \ex.
  \a. Der Hund ist nach Hause gelaufen. Der Hund hat sich in dem Wald verlaufen.
@@ -32,7 +32,7 @@ In this chapter only those diatheses are discussed that only differ as to the ad
  \c. Ich schließe den Schrank. Der Schrank lässt sich schließen.
  \d. Er schlug seine Mitbewerber. Seine Mitbewerber geben sich geschlagen.
 
-Amidst the large variety of constructions with reflexive pronouns, there are a few generalizations that stand out:
+Amidst the large variety of constructions with reflexive pronouns, there are a few generalisations that stand out:
 
 \ex. All diatheses with reflexive pronouns are valency reducing alternations. (Counterexamples in [@sec:reflexive-accusative-to-nominative])
 
@@ -84,7 +84,7 @@ There are a few verbs that seem to allow for coreference with a non-nominative a
 
 ### Coreference without reflexive pronoun
 
-The reflexive pronoun *sich* undoubtedly plays a role in disambiguating reference in the third person. However, ambiguity remains with genitives \Next[a], which do not have a lexicalized reflexive pronoun in German. As a result, \Next[a] can both be interpreted as disjoined reference \Next[b] and as coreference \Next[c].
+The reflexive pronoun *sich* undoubtedly plays a role in disambiguating reference in the third person. However, ambiguity remains with genitives \Next[a], which do not have a lexicalised reflexive pronoun in German. As a result, \Next[a] can both be interpreted as disjoined reference \Next[b] and as coreference \Next[c].
 
 \ex.
  \a. Er wäscht seine Haare.
@@ -127,11 +127,11 @@ Among the verbs with obligatory *sich*, the following valency patterns are commo
 In contrast, verbs with the following valency patterns are unattested, or only attested rarely in special collocations:
 
 - Nominative + dative *sich*
-- Nominative + dative *sich* + goeverned preposition
+- Nominative + dative *sich* + governed preposition
 - Nominative + dative *sich* + genitive
 - Nominative + accusative *sich* + dative
 
-Comparing these two groups, the generalization can be formulated that dative *sich* is only possible when there is an accusative argument present and the accusative *sich* is not possible with a dative argument present.
+Comparing these two groups, the generalisation can be formulated that dative *sich* is only possible when there is an accusative argument present and the accusative *sich* is not possible with a dative argument present.
 
 ### --- Obligatory accusative reflexive pronouns --- {.unnumbered}
 
@@ -143,9 +143,10 @@ Various verbs describing behavior like *verirren* 'to get lost' \Next need an ob
 
 **Attested Verbs**
 
-- Behaviour: *abmühen, abrackern, abstrampeln, aufführen, aufrappeln, beeilen, benehmen, betrinken, besaufen, danebenbenehmen, daranmachen, darübermachen, davonstehlen, dazwischenstellen, durchlavieren, durchmogeln, durchwursteln, echauffieren, einigeln, erhängen, ermannen, fortbilden, gedulden, herausreden, hervortun, hinauswagen, rentieren, sputen, verfahren, verhalten, verhaspeln, verirren, verkalkulieren, verlaufen, verplappern, verschreiben (falsch schreiben), verspäten, verspekulieren, versprechen (falsch sprechen), verrennen, vertun, verwählen, verzählen*
-- Body process: *akklimatisieren, bücken, erkälten, räuspern, verkühlen, übergeben, wohlfühlen*
-- Natural process: *abregnen, anfinden, bauchen, behaaren, bewahrheiten, bewölken, eintrüben, entspinnen, herauskristallieren, jähren, verästeln, verpuppen, verzweigen*
+- Behaviour: *abmühen, abrackern, abstrampeln, aufführen, aufrappeln, beeilen, benehmen, betrinken, besaufen, bücken, daranmachen, davonstehlen, durchlavieren, durchmogeln, durchwursteln, echauffieren, einigeln, erhängen, ermannen, fortbilden, gedulden, herausreden, hervortun, hinauswagen, sputen
+- Wrong behaviour (with *ver-*): verfahren, verhalten, verhaspeln, verirren, verkalkulieren, verlaufen, verplappern, verschreiben (falsch schreiben), verspäten, verspekulieren, versprechen (falsch sprechen), verrennen, vertun, verwählen, verzählen*
+- Body process: *akklimatisieren, erkälten, räuspern, verkühlen, übergeben, wohlfühlen*
+- Natural process: *abregnen, anfinden, bauchen, behaaren, bewahrheiten, bewölken, eintrüben, entspinnen, herauskristallisieren, jähren, rentieren, verästeln, verpuppen, verzweigen*
 
 **Examples**
 
@@ -323,7 +324,7 @@ Accusative *sich* combined with an obligatory genitive argument is clearly attes
 
 ### [ N ] Obligatory dative reflexive {#sec:reflexive-obligatory-dative}
 
-It is exceedingly rare to have a dative *sich* without other arguments. A possible example is the (arguably lexicalized) collocation *Mühe geben*.
+It is exceedingly rare to have a dative *sich* without other arguments. A possible example is the (arguably lexicalised) collocation *Mühe geben*.
 
 **Attested Verbs**
 
@@ -345,7 +346,7 @@ It is exceedingly rare to have a dative *sich* without other arguments. A possib
 
 ### [ NA ] Obligatory dative reflexive + accusative {#sec:reflexive-obligatory-dative-accusative}
 
-A dative *sich* with an obligatory accusative is clearly attested, though not very frequent. Note that the meaning of these verbs all include some kind of appropriation. The prefix *er-* occurs recurrently with the meaning "to apprpriate something successfully".
+A dative *sich* with an obligatory accusative is clearly attested, though not very frequent. Note that the meaning of these verbs all include some kind of appropriation. The prefix *er-* occurs recurrently with the meaning "to appropriate something successfully".
 
 **Attested Verbs**
 
@@ -388,7 +389,7 @@ The verb *abquälen* has two rather different meanings. Only the meaning 'to wor
 
 ### --- Diatheses of obligatory *sich* verbs --- {.unnumbered}
 
-Verbs with obligatory *sich* can be seen as just regular lexicalized verbs, which in turn are applicable to any of the alternations discussed in the previous two chapters. Curiously, such alternations seem to be rather rare. The attested cases will be discussed in this section. Arguably, these diathese belong together with the diatheses from the previous two chapters
+Verbs with obligatory *sich* can be seen as just regular lexicalised verbs, which in turn are applicable to any of the alternations discussed in the previous two chapters. Curiously, such alternations seem to be rather rare. The attested cases will be discussed in this section. Arguably, these diathese belong together with the diatheses from the previous two chapters
 
 ### [ NP | –P ] Obligatory accusative reflexive + nominative drop
 
@@ -475,7 +476,7 @@ Some obligatorily *sich* verbs with a genitive argument allow for the genitive a
 - Sie besann sich ihrer Aufgabe. Sie besann sich auf ihre Aufgabe.
 - Er erfrechte sich der Beleidigung des Vaters. Er erfrechte sich zu einer solchen Beleidigung.
 - Er erdreistet sich der Lüge. Mit welchem Ziel hätten wir uns dazu erdreisten können?
-- Sie hat sich seiner Zuverlässigkeit vergewissert. Sie hat sich über seine zuverlässigkeit vergewissert.
+- Sie hat sich seiner Zuverlässigkeit vergewissert. Sie hat sich über seine Zuverlässigkeit vergewissert.
 
 **Notes**
 
@@ -506,7 +507,7 @@ Bare anticausatives (see [@sec:case-haben-anticausative]) might seem to have a '
  \b. Ich habe mich geduscht.
  \c. Ich habe den Elefanten geduscht.
 
-Similary, reflexive anticausative (see [@sec:reflexive-anticausative]) might seem to have a 'free' reflexive \Next[a]. However, the two possibilities are clearly distinguished by a different perfekt auxiliary \Next[b]. Also a transitive variant is possible \Next[c]. This all indicates that a verb like *abkühlen* is a reflexive anticausative, and the intransitive construction without *sich* is a 'Zustandspassiv' anticausative (see [@sec:participles-sein-zustandspassiv]).
+Similarly, reflexive anticausative (see [@sec:reflexive-anticausative]) might seem to have a 'free' reflexive \Next[a]. However, the two possibilities are clearly distinguished by a different perfekt auxiliary \Next[b]. Also a transitive variant is possible \Next[c]. This all indicates that a verb like *abkühlen* is a reflexive anticausative, and the intransitive construction without *sich* is a 'Zustandspassiv' anticausative (see [@sec:participles-sein-zustandspassiv]).
 
 \ex.
  \a. Die Luft kühlt (sich) ab.
@@ -528,7 +529,7 @@ Similary, reflexive anticausative (see [@sec:reflexive-anticausative]) might see
 
 **Notes**
 
-The verb *ausruhen* until very recently was commonly used without *sich*, but this is slightlly awkward in contemporary German \Next[a]. Constructions without *sich* are still widespread in non-finite and subordinate uses \Next[b-d].
+The verb *ausruhen* until very recently was commonly used without *sich*, but this is slightly awkward in contemporary German \Next[a]. Constructions without *sich* are still widespread in non-finite and subordinate uses \Next[b-d].
 
 \ex.
  \a. ? Sie ruht aus.
@@ -780,7 +781,7 @@ There is also a crucial opposition between an accusative \Next[c] and dative ref
 
 ### [ NAD | NaD ] Self-inflicting accusative reflexive + dative
 
-In contrast to the previous reflexive construction, it is uncommon for ditransitives verbs to allow for a reflexive accusative \Next[a,b]. The verbs listed here are surely not all that allow for this construction, but it is a rather restricted phenomenon and there do not seem to be very many more verbs of this kind.
+In contrast to the previous reflexive construction, it is uncommon for ditransitive verbs to allow for a reflexive accusative \Next[a,b]. The verbs listed here are surely not all that allow for this construction, but it is a rather restricted phenomenon and there do not seem to be very many more verbs of this kind.
 
 \ex.
  \a. Ich passe den Bürgersteig dem Plan an.
@@ -949,7 +950,7 @@ Because a reciprocal is necessary plural subject, the difference between an accu
 
 ### [ NA | N– ] *miteinander* bare reciprocal
 
-*miteinander* necessary for disambiguation.
+bare because without *sich*, *miteinander* necessary for disambiguation.
 
 **Attested Verbs**
 
@@ -960,9 +961,9 @@ Because a reciprocal is necessary plural subject, the difference between an accu
 - Der Mann heiratet seinen Freund. Der Mann und sein Freund heiraten miteinander.
 - Der Mann hat seinen Freund angestoßen. Der Mann und sein Freund haben miteinander angestoßen ("zuprosten")
 
-### [ Np | N– ] *einander* preposition reciprocal
+### [ Np | N– ] *einander* bare preposition reciprocal
 
-without *sich*, obligatory *einander* to obtain reciprocal reading
+bare because without *sich*, obligatory *einander* to obtain reciprocal reading
 
 **Attested Verbs**
 
@@ -988,9 +989,9 @@ The following verbs have optional *einander*. "einander" is optional, because th
 
 **Examples**
 
-- Karl ist befreundet mit Anna. Karl und Anna sind befreundet (mit einander)
+- Karl ist befreundet mit Anna. Karl und Anna sind befreundet (miteinander)
 
-### [ NAp | NA– ] *einander* preposition reciprocal + accusative
+### [ NAp | NA– ] *einander* bare preposition reciprocal + accusative
 
 **Attested Verbs**
 
@@ -1202,7 +1203,26 @@ Similarly, some verbs with a resultative alternation \Next[a,b], see [@sec:prepo
 
 - Er häufte die Geschenke auf den Tisch. Die Geschenke häuften sich auf den Tisch.
 
-### --- [ OBJ > SBJ > ADJ ] Passive --- {.unnumbered}
+## Diatheses with promotion to subject
+
+Reflexive diatheses are not used for promotion of arguments. The diathesis presented below is probably best be seen as a diachronic quirk, showing that every linguistic generalization can be overruled by incidental developments of language change.
+
+### [ AP | NP ] Reflexive accusative-to-nominative {#sec:reflexive-accusative-to-nominative}
+
+These alternations are ongoing replacements of old-fashioned constructions. The presence of a reflexive pronoun can probably best be interpreted as a side-effect of the old accusative being supplemented by a new nominative.
+
+**Attested Verbs**
+
+- *ekeln, grauen*
+
+**Examples**
+
+- Mich ekelt (es) vor dem Spinat. Ich ekele mich vor dem Spinat.
+- Mich graut es. Ich graue mich.
+
+## Diatheses with subject exchange
+
+### --- [ OBJ > SBJ > OBJ ] Passive --- {.unnumbered}
 
 ### [ NA | PN ] Reflexive preposition passive {#sec:reflexive-preposition-passive}
 
@@ -1217,7 +1237,7 @@ These verbs are similar to *sich* transitive anticausative, but "von Geisterhand
 - *vor*   : *drücken*
 - *um*    : *kümmern*
 - *in*    : *langweilen, spiegeln*
-- *mit*   : *aufhalten, beschäftigen, entspannen, schmücken, trösten, unterhalten, überlagern*
+- *mit*   : *aufhalten, beschäftigen, entspannen, schmücken, trösten, quälen, unterhalten, überlagern*
 - *für*   : *interessieren*
 - *bei*   : *anstrengen, beruhigen, entsetzen*
 - *durch* : *auszeichnen, verraten, entspannen*
@@ -1269,27 +1289,6 @@ The verb *sich verabschieden* \Next[a] might also be thought of as an antipassiv
  \a. Ich verabschiede mich von ihm.
  \b. Ich verabschiede ihn.
  \c. Er verabschiedet mich. 
-
-## Diatheses with promotion to subject
-
-Reflexive diatheses are not used for promotion of arguments. The diathesis presented below is probably best be seen as a diachronic quirk, showing that every linguistic generalization can be overruled by incidental developments of language change.
-
-### [ AP | NP ] Reflexive accusative-to-nominative {#sec:reflexive-accusative-to-nominative}
-
-These alternations are ongoing replacements of old-fashioned constructions. The presence of a reflexive pronoun can probably best be interpreted as a side-effect of the old accusative being supplemented by a new nominative.
-
-**Attested Verbs**
-
-- *ekeln, grauen*
-
-**Examples**
-
-- Mich ekelt (es) vor dem Spinat. Ich ekele mich vor dem Spinat.
-- Mich graut es. Ich graue mich.
-
-## Diatheses with subject exchange
-
-### --- [ OBJ > SBJ > OBJ ] Passive --- {.unnumbered}
 
 ### [ NA | DN ] Reflexive dative passive {#sec:reflexive-sich-dative-passive}
 
@@ -1409,11 +1408,17 @@ Similar to the previous 'autocausative' alternations, the alternation in \Next[a
 
 - *verweigern*
 
-### --- [ OBJ > ADJ ] Antipassive --- {.unnumbered}
+## Diatheses with promotion to object
 
-### [ NA | Np ] Reflexive antipassive {#sec:reflexive-accusative-antipassive}
+Not attested.
 
-The *sich* counterpart of the transitive *beklagen* 'to lament' \Next[a,b] is more like an intransitive action, which has the reflexive pronoun attached. There is no semantic reflexivity whatsoever in the expression, i.e. the complaining in \Next[b] does not mean 'I complain about myself' (adding *selbst* is not possible here). In contrast, the complaint is still about *Lärm* 'noise'. However, this object of the complaint is demoted from accusative (\Next[a], which cannot be dropped, \Next[c]) to a prepositional phrase (\Next[b], which can be dropped, \Next[d]). Note that without the prepositional phrase \Next[d] the expression is indeed ambiguous between a real reflexive meaning ('I complain about myself') and a non-reflexive reading ('I am complaining'). For a typological survey of antipassive uses of reflexive markers, see Janic [-@janic2010]. Wiemer and Nedjalkov [-@wiemer2007: 464-465] call such verbs 'deaccusatives' and consider them to be 'extremely rare'.
+## Diatheses with object exchange
+
+### --- [ OBJ > OBJ ] Antipassive --- {.unnumbered}
+
+### [ NA | NP ] Reflexive antipassive {#sec:reflexive-accusative-antipassive}
+
+The *sich* counterpart of the transitive *beklagen* 'to lament' \Next[a,b] is somewhat alike to an intransitive action that has a reflexive pronoun attached. There is no semantic reflexivity whatsoever in the expression, i.e. the complaining in \Next[b] does not mean 'I complain about myself' (e.g. adding *selbst* is not possible); the complaint is still about *Lärm* 'noise'. However, this object of the complaint is demoted from accusative \Next[a], which cannot be dropped \Next[c], to a prepositional phrase \Next[b], which can be dropped \Next[d]. Note that without the prepositional phrase \Next[d] the expression is indeed ambiguous between a real reflexive meaning ('I complain about myself') and a non-reflexive reading ('I am complaining'). For a typological survey of such antipassive uses of reflexive markers, see Janic [-@janic2010]. Wiemer and Nedjalkov [-@wiemer2007: 464-465] call such verbs 'deaccusatives' and consider them to be 'extremely rare'. It is an open question, why some verbs take a reflexive antipassive, while other take a simple antipassive without reflexive pronoun (cf [@sec:prepositions-accusative-antipassive]).
 
 \ex.
  \a. Ich beklage den Lärm.
@@ -1421,64 +1426,66 @@ The *sich* counterpart of the transitive *beklagen* 'to lament' \Next[a,b] is mo
  \c. \* Ich beklage.
  \d. Ich beklage mich.
 
+All prepositional phrases are governed prepositions \Next[a,b], except for the comitative prepositions *mit* \Next[c,d].
+
+\ex.
+ \a. Ich beklage mich über den Lärm
+ \b. Ich beklage mich darüber, dass es so laut ist
+ \c. Ich verstehe mich mit Anna.
+ \d. \* Ich verstehe mich damit, dass Anna krank ist.
+
 **Attested Verbs**
 
-- *an*   : *anschleichen, verschlucken, wagen*
-- *auf*  : *behaupten*
+- *an*   : *verschlucken, wagen*
 - *bei*  : *entscheiden, überstürzen*
 - *für*  : *entscheiden, entschuldigen, rechtfertigen, verantworten*
-- *mit*  : *prügeln, schlagen, treffen, verstehen, vertragen*
-- *in*   : *üben, versuchen, vertiefen*
+- *in*   : *behaupten, üben, versuchen, vertiefen*
 - *über* : *beklagen, besprechen*
 - *von*  : *trennen*
 - *vor*  : *fürchten, scheuen*
-- *durch*: *fressen*
 - *zu*   : *bekennen*
+
+Non-governed
+
+- *mit*  : *prügeln, schlagen, treffen, verstehen, vertragen*
 
 **Examples**
 
 - Ich fürchte den Ausgang des Verfahrens. Ich fürchte mich vor dem Ausgang des Verfahrens.
-- Ich entschuldige den Vorfall. Ich entschuldige mich (bei dir) für den Vorfall.
+- Ich entschuldige den Vorfall. Ich entschuldige mich für den Vorfall.
 - Ich verantworte mein Vorgehen. Ich verantworte mich für mein Vorgehen.
 - Ich rechtfertige mein Vorgehen. Ich rechtfertige mich für mein Vorgehen.
-- Ich verstehe Anna. Ich verstehe mich mit Anna.
-- Ich trenne die Gruppe. Ich trenne mich von der Gruppe.
-- Ich vertrage dich. Ich vertrage mich mit dir.
-- Ich schlage dich. Ich schlage mich mit dir.
-- Ich bespreche die Angelegenheit mit dir. Ich bespreche mich mit dir über die Angelegenheit.
-- Ich vertiefe meine Kenntnisse. Ich vertiefe mich in mein Buch.
-- Ich behaupte den ersten Platz. Ich behaupte mich auf den ersten Platz.
+- Ich bespreche die Angelegenheit (mit dir). Ich bespreche mich (mit dir) über die Angelegenheit.
 - Ich wage den Sprung. Ich wage mich an der Aufgabe.
 - Der Schauspieler versucht die neue Rolle. Der Schauspieler versucht sich in der neuen Rolle
 - Er übt die Kunst des Zeichnens. Er übt sich in der Kunst des Zeichnens.
-- Ich verschlucke die Pille. Ich verschlucke mich an der Pille.
 - Er überstürzte seine Abreise. Er überstürzte sich bei seiner Abreise.
-- Die Motten fressen den Pullover. Die Motten fressen sich durch den Pullover.
 - Ich bekenne die Tat. Ich bekenne mich zu der Tat.
-- Sie haben die feindliche Stellung angeschlichen. Sie haben sich an die feindliche Stellung angeschlichen.
+- Ich behaupte den ersten Platz. Ich behaupte mich in meine neue Stelle.
+- Ich trenne die Gruppe. Ich trenne mich von der Gruppe.
+- Ich vertrage dich. Ich vertrage mich mit dir.
+- Ich schlage dich. Ich schlage mich mit dir.
 
 **Notes**
 
-Two different roles with *entscheiden*: The problem (*bei*) and the solution (*für*)
+There are two different roles with *entscheiden* that both allow for an antipassive alternation with reflexive, both for the roles of the 'problem', alternating with *bei* \Next[a] and for the 'solution', alternating with *für* \Next[b].
 
-- Ich entscheide die Reihenfolge. Ich entscheide mich für diese Reihenfolge.
-- Der Richter entschied den Streit. Der Richter entschied sich bei dem Streit (für eine Strafe).
+\ex.
+ \a. Der Richter entschied den Streit. Der Richter entschied sich bei dem Streit (für eine Strafe).
+ \b. Ich entscheide die Reihenfolge. Ich entscheide mich für diese Reihenfolge.
 
-The verb *beklagen* seems to have two different meanings: without *sich* it means 'to lament' while with *sich* it means 'to complain'.
+The verb *beklagen* seems to have two different meanings: without *sich* it means 'to lament' while with *sich* it means 'to complain' \Next[a]. Likewise, the verb *verschlucken* shows a major semantic shift from 'to swallow' to 'to choke' \Next[b]. The verb *vertiefen* shows a minor semantic restriction, changing from 'to engross' to 'to delve into' \Next[c].
 
-- Ich beklage den Tod. Ich beklage mich über den Lärm.
-
-## Diatheses with promotion to object
-
-Not attested.
-
-## Diatheses with object exchange
+\ex.
+ \a. Ich beklage den Tod. Ich beklage mich über den Lärm.
+ \b. Ich verschlucke die Pille. Ich verschlucke mich an der Pille.
+ \c. Ich vertiefe meine Kenntnisse. Ich vertiefe mich in mein Buch.
 
 ### --- [ OBJ > OBJ ] Resultative --- {.unnumbered}
 
 ### [ NP | NL ] Reflexive location-as-result
 
-A verb like *träumen* 'to dream' has a governed preposition *über* \Next[a,b]. With a reflexive pronoun *sich träumen* a locative adverbial is needed \Next[c,d]. The meaning of this construction is that by performing the verb (i.e. by dreaming) the locational description is achieved (i.e. being in New York).
+A verb like *träumen* 'to dream' has a governed preposition *von* \Next[a,b]. With a reflexive pronoun *sich träumen* a locative adverbial is needed, e.g a prepositional phrase with *nach* 'to' \Next[c,d]. The meaning of this construction is that by performing the verb (i.e. by dreaming) the locational description is achieved (i.e. being in New York).
 
 \ex.
  \a. Ich träume von New York. 
@@ -1488,13 +1495,14 @@ A verb like *träumen* 'to dream' has a governed preposition *über* \Next[a,b].
 
 **Attested Verbs**
 
-- *arbeiten, denken, kämpfen, lügen, träumen, zittern*
+- *arbeiten, denken, fressen, kämpfen, lügen, träumen, zittern*
 
 **Examples**
 
 - Er arbeitet an den Daten. Er arbeitet sich durch die Daten.
 - Ich kämpfe mit den Wellen. Ich kämpfe mich durch die Wellen.
 - Ich lüge über mein Leben. Ich lüge mich durch mein Leben.
+- Die Motten fressen den Pullover. Die Motten fressen sich durch den Pullover.
 - Bevor ich auf das Wasser gehe, muss ich meine Kür exakt im Kopf haben, ich denke mich quasi durch meinen Trick. (DWDS: Die Zeit, 16.06.2009, Nr. 25)
 - Er zitterte vor der Prüfung. Würzburg zitterte sich am Ende in die Playoffs. (DWDS: Die Zeit, 07.05.2016)
 - Schalke schießt sich aus der Krise. (https://www.faz.net/aktuell/sport/2-0-gegen-hannover-schalke-schiesst-sich-aus-der-krise-1258798.html)

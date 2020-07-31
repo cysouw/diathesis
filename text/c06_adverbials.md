@@ -274,13 +274,13 @@ Depictive adverbials are a regular part of German grammar. In all German sentenc
 
 ### [ N | N ] Resultative adverbial reflexive intransitives
 
-There is a special construction that apparently only exists for some intranstive verbs like *schlafen* 'to sleep' \Next[a]. The verb is combined with a reflexive pronoun and a resultative secondary predicate. The meaning of this construction approximately amounts to 'by performing the verb, the secondary predicate is achieved' \Next[b].
+There is a special construction that apparently only exists for some intransitive verbs like *schlafen* 'to sleep' \Next[a]. The verb is combined with a reflexive pronoun and a resultative secondary predicate. The meaning of this construction approximately amounts to 'by performing the verb, the secondary predicate is achieved' \Next[b].
 
 \ex.
  \a. Ich schlafe mich gesund.
  \b. Ich schlafe, und dadurch bin ich gesund.
 
-The intransitve verbs that allow this seem to be strongly related to the 'unergative' class of intransitive (see [@sec:participles-restrictions]), while typical 'unaccusative' intranstives are not possible in this construction.
+The intransitive verbs that allow this seem to be strongly related to the 'unergative' class of intransitive (see [@sec:participles-restrictions]), while typical 'unaccusative' intransitives are not possible in this construction.
 
 \ex.
  \a. \* Ich habe mich gesund eingeschlafen.
@@ -289,7 +289,7 @@ The intransitve verbs that allow this seem to be strongly related to the 'unerga
  \d. \* Ich wachse mich groß.
  \e. \? Der Zug ist sich gut angekommen.
 
-When the combination of adverbial and verb is considered to be a new lexicalized predicate (i.e. *totlachen, hocharbeiten*), then these predicates would be obligatorily reflexive (alike to the verbs in [@sec:reflexive-obligatory-accusative-reflexive]).
+When the combination of adverbial and verb is considered to be a new lexicalised predicate (i.e. *totlachen, hocharbeiten*), then these predicates would be obligatorily reflexive (alike to the verbs in [@sec:reflexive-obligatory-accusative-reflexive]).
 
 **Attested Verbs**
 
@@ -444,9 +444,9 @@ Not attested.
 
 ### -- [ OBJ > Ø ] Drop -- {.unnumbered}
 
-### [ NA | N– ] Depictive adverbial action focus
+### [ NA | N– ] Depictive adverbial action focus {#sec:adverbial-action-focus}
 
-Most transitive verbs can be used without an accusative object. However, with some verbs this drop comes easier than for others. Real 'ambitranstive' verbs that occur both as transitive and as intransitive, but without needing any extra marking in the intransitive, are discussed in [@sec:case-accusative-drop]. For many transitive verbs the drop of the accusative is only possible in an strict action-oriented focus, like as a reply to a question like "what are you doing just now?" In effect, this implies that such intransitive usage always needs an adverbial specification
+Most transitive verbs can be used without an accusative object. However, with some verbs this drop comes easier than for others. Real 'ambitransitive' verbs that occur both as transitive and as intransitive, but without needing any extra marking in the intransitive, are discussed in [@sec:case-accusative-drop]. For many transitive verbs the drop of the accusative is only possible in an strict action-oriented focus, like as a reply to a question like "what are you doing just now?" In effect, this implies that such intransitive usage always needs an adverbial specification
 
 \ex.
  \a.    Ich sehe das Haus.
@@ -460,7 +460,7 @@ Most transitive verbs can be used without an accusative object. However, with so
 
 **Attested Verbs**
 
-- *lesen, rechnen, sehen, zählen, zerstören*
+- *lesen, rechnen, sehen, zählen, zerstören, etc.*
 
 **Examples**
 

@@ -1,8 +1,8 @@
-# Preverb alternations
+# Preverb alternations {#sec:preverbs}
 
 ## Introduction
 
-Under the heading 'preverb' I will subsume here two different constructions, known in German linguistics as \textsc{verb prefixes} \Next[a] and \textsc{verb particles} \Next[b]. These constructions have clearly different syntactic characteristics (see [@sec:preverbs-prefixes-particles]), but from the perspective of valency alternations they appear to function highly similar. For a discussion of term 'preverb' as a cover term for both constructions, see Booij & van Kemenade [-@booij2003b]. 
+Under the heading \textsc{preverb} I will subsume here two different constructions, known in German linguistics as \textsc{verb prefixes} \Next[a] and \textsc{verb particles} \Next[b]. These constructions have clearly different syntactic characteristics (see [@sec:preverbs-prefixes-particles]), but from the perspective of valency alternations they appear to function highly similar. For a discussion of term 'preverb' as a cover term for both constructions, see Booij & van Kemenade [-@booij2003b]. 
 
 \ex.
  \a. Ich umfahre den Polizisten.
@@ -10,7 +10,7 @@ Under the heading 'preverb' I will subsume here two different constructions, kno
 
 There is a massive literature on the German alternations induced by verb prefixes and verb particles, including complete monographs on individual preverbs (e.g. felfe [-@felfe2012] on the many different alternations with the particle *an-*). However, most of this literature focusses on the semantic difference between a bare verb and a verb with a preverb. Changes in valency are mostly discussed only as an aside. In contrast, in this chapter the meaning of the preverbs will only play a secondary role. The focus will be on the valency changing effect the prefixes have with some verbs [cf. @eroms1980; @kim1983; @gunther1987; @wunderlich1987; @wunderlich1997; @geist2016 for similar approaches].
 
-The central generalization that can be extracted from the numerous examples in this chapter is that the structural effect of a preverb diathesis is to produce a verb with an accusative argument. This generalization does not hold without special definitional stipulations (e.g. accusative reflexive pronouns have to be included) and there are various counterexamples (e.g. diatheses resulting in dative arguments), but overall the generalization seems to be exceptionally strong (see [@sec:preverbs-always-accusative]). In a very broad sense, preverb diatheses can be seen as some kind of counterpart to reflexive diatheses as discussed in the previous chapter. Reflexive diatheses generally reduce the valency, while preverb diatheses tend to increase the valency.
+The central generalisation that can be extracted from the numerous examples in this chapter is that the structural effect of a preverb diathesis is to produce a verb with an accusative argument. This generalisation does not hold without special definitional stipulations (e.g. accusative reflexive pronouns have to be included) and there are various counterexamples (e.g. diatheses resulting in dative arguments), but overall the generalisation seems to be exceptionally strong (see [@sec:preverbs-always-accusative]). In a very broad sense, preverb diatheses can be seen as some kind of counterpart to reflexive diatheses as discussed in the previous chapter. Reflexive diatheses generally reduce the valency, while preverb diatheses tend to increase the valency.
 
 As is customary in German grammar, I will restrict the notion of verb particles to morphemes that are related to prepositions. There are very many other morphemes that behave syntactically rather similar to particles, but which are related to adverbials/adjectives. These adverbial/adjectival preverbs are much more limited in the kind of diatheses that they induce, so I have decided to discuss them separately in the next chapter under the heading of adverbial alternations.
 
@@ -24,11 +24,11 @@ antanzen: herbei zitieren, anstoßen beim tanzen, sich gegen etwas stemmen, den 
 
 Different kinds of prefixes in German grammar (https://de.wikipedia.org/wiki/Liste_deutscher_Präfixe):
 
-- completely grammaticalized (no transparent alternations): *ge-*
+- completely grammaticalised (no transparent alternations): *ge-*
 
 *gebären, gebieten, gebühren, gedeihen, gefallen, gehören, gelingen, genesen, geraten, geschehen, gestehen, gewähren, gewinnen, gewöhnen*
 
-- very transparent in alternations, but no diatheses attesed : *miss-*
+- very transparent in alternations, but no diatheses attested : *miss-*
 
 *missachten, missbehagen, missbilligen, missblicken, missbrauchen, missdeuten, missglücken, missgönnen, misshandeln, misshellig, misshören, missinterpretieren, missklingen, misstrauen, missverstehen*
 
@@ -96,7 +96,7 @@ Prepositional root:
 
 ### Preverbal verbs prefer an accusative argument {#sec:preverbs-always-accusative}
 
-The central generalization that can be extracted from the numerous examples in this chapter is that the structural effect of a preverb diathesis (by verb prefixes or verb particles) is to produce a verb with an accusative argument. This idea is for example foreshadowed by Kim (1983) "Die *be*-Verben fordern immer eine E_akk außer bei der Funktionsgruppe der 'Intensivierung', deren Basisverben durch Präfigierung sich reflexivieren" [@kim1983: 54]. Various different diatheses have to be distinguished though.
+The central generalisation that can be extracted from the numerous examples in this chapter is that the structural effect of a preverb diathesis (by verb prefixes or verb particles) is to produce a verb with an accusative argument. This idea is for example foreshadowed by Kim (1983) "Die *be*-Verben fordern immer eine E_akk außer bei der Funktionsgruppe der 'Intensivierung', deren Basisverben durch Präfigierung sich reflexivieren" [@kim1983: 54]. Various different diatheses have to be distinguished though.
 
 First, many verbs that do not have an accusative argument before the diathesis are turned into a verb with an accusative argument by the preverb diathesis:
 
@@ -120,21 +120,21 @@ Second, verbs that already have an accusative argument show various different ki
  \b. Ich hänge die Bilder an die Wand. Ich behänge die Wand mit Bildern.
  \c. Ich schütte das Wasser aus dem Eimer. Ich schütte den Eimer aus.
 
-Third, some verbs appear to be counterexamples to the generalization of accusative arguments with preverb diathesis because they do not have a full accusative argument after the application of the diathesis. However, they still have an accusative reflexive pronoun as a kind of formal substitute for the accusative. Note that functionally this reflexive pronoun is never coding a 'self-inflicting' reflexive construction, but only substitute for the 'missing' accusative argument.
+Third, some verbs appear to be counterexamples to the generalisation of accusative arguments with preverb diathesis because they do not have a full accusative argument after the application of the diathesis. However, they still have an accusative reflexive pronoun as a kind of formal substitute for the accusative. Note that functionally this reflexive pronoun is never coding a 'self-inflicting' reflexive construction, but only substitute for the 'missing' accusative argument.
 
 - Some transitive verbs with an accusative lose the accusative argument after the diathesis, but formally an 'empty' accusative is retained in the form of a reflexive pronoun. This is for example attested with the diathesis from *schreiben* 'to write' to *verschreiben* 'to misspell' in \Next[a], see [@sec:preverb-reflexive-accusative-drop].
 - Some intransitive verbs remain intransitive after the diathesis, but formally an 'empty' accusative is added in the form of a reflexive pronoun. This is for example attested with the diathesis from *arbeiten* 'to work' to *überarbeiten* 'to overwork' in \Next[b], see [@sec:preverb-reflexive].
-- Similarly, some intransitives (typically movement verbs) show even more indications that the prefixed verb with reflexive pronoun is alike to a transitive verb (i.e. 'unaccusative'). This is for example attested with the diathesis from *laufen* 'to walk' to *verlaufen* 'to be lost'in \Next[c], see [@sec:preverb-reflexive-intransitive-antiresultative]. The typical 'unaccusative' characteristics are attested with *verlaufen*, i.e. a perfect auxiliary *haben* and the possibility to be used as a nominal attribute.
+- Similarly, some intransitives (typically movement verbs) show even more indications that the prefixed verb with reflexive pronoun is alike to a transitive verb (i.e. 'unaccusative'). This is for example attested with the diathesis from *laufen* 'to walk' to *verlaufen* 'to be lost' in \Next[c], see [@sec:preverb-reflexive-intransitive-antiresultative]. The typical 'unaccusative' characteristics are attested with *verlaufen*, i.e. a perfect auxiliary *haben* and the possibility to be used as a nominal attribute.
 
 \ex.
  \a. Er schreibt einen Brief. Er verschreibt sich.
- \b. Der Mitarbeiter arbeitet zuviel. Der Mitarbeiter überarbeite sich.
+ \b. Der Mitarbeiter arbeitet zu viel. Der Mitarbeiter überarbeite sich.
  \c. Der Hund ist nach Hause gelaufen. Der Hund hat sich im Wald verlaufen. Der verlaufene/*gelaufene Hund
 
-Finally, there are few exceptions to the generalization that preverb alternations always have an accusative argument:
+Finally, there are few exceptions to the generalisation that preverb alternations always have an accusative argument:
 
 - A very small group of verbs (± 3 example) appear to lose the accusative argument completely after the preverb diathesis. This is for example attested with the diathesis from *kaufen* 'to buy' to *einkaufen* 'to go shopping' in \Next[a], see [@sec:preverb-accusative-drop].
-- A small group of intransitive verbs (± 7 examples) remains intransitive after a preverb diathesis. This is for example attested with the diathesis from *blühen* 'to blossom' to *verblühen* 'to withern' in \Next[b], see [@sec:preverb-intransitive-with-unaccusative]. However, note that these verbs can be used as a nominal attribute ('unaccusative') after the diathesis.
+- A small group of intransitive verbs (± 7 examples) remains intransitive after a preverb diathesis. This is for example attested with the diathesis from *blühen* 'to blossom' to *verblühen* 'to wither' in \Next[b], see [@sec:preverb-intransitive-with-unaccusative]. However, note that these verbs can be used as a nominal attribute ('unaccusative') after the diathesis.
 - The most frequent exception (± 25 examples) are intransitive verbs that show a prepositional phrase turning into a dative argument with a preverb diathesis. This is for example attested with the diathesis from *jagen* 'to hunt' to *nachjagen* 'to chase' in \Next[c], see [@sec:preverb-dative-applicative].
 
 \ex.
@@ -277,7 +277,7 @@ Some adjectives that are turned into verbs through preverbs obligatorily need a 
 
 ### --- Unaccusative alternations --- {.unnumbered}
 
-Some intransitives without valency change show a peculiar phenomenon when prefixed: they become more patient-like in that the participle can be used attributively (one of the characteristics often discussed under the heading of 'unaccusativity'). For example, the verbs *schlafen* 'to sleep' \Next[a] and *einschlafen* 'to fall asleep' \Next[b] are both intransitive. However, only *eingeschlafen* can be used attributatively \Next[c,d], see [@sec:preverb-intransitive-with-unaccusative].
+Some intransitives without valency change show a peculiar phenomenon when prefixed: they become more patient-like in that the participle can be used attributively (one of the characteristics often discussed under the heading of 'unaccusativity'). For example, the verbs *schlafen* 'to sleep' \Next[a] and *einschlafen* 'to fall asleep' \Next[b] are both intransitive. However, only *eingeschlafen* can be used attributively \Next[c,d], see [@sec:preverb-intransitive-with-unaccusative].
 
 \ex.
  \a. Der Junge schläft.
@@ -368,7 +368,7 @@ The prefixed verb *überarbeiten* is transparently derived from the verb *arbeit
 
 ### [ NA | NA ] Preverb reflexive transitive alternation {#sec:preverb-dative-reflexive}
 
-The difference between the verbs *sehen* and *ansehen* is very delicate, maybe best summarized by comparing it to the English verbs *to see* and *to watch*. The prefixed verb *ansehen* 'to watch' implies slightly more agency of the nominative subject. In German this difference is additionally marked by an obligatory dative reflexive pronouns \Next[b].
+The difference between the verbs *sehen* and *ansehen* is very delicate, maybe best summarised by comparing it to the English verbs *to see* and *to watch*. The prefixed verb *ansehen* 'to watch' implies slightly more agency of the nominative subject. In German this difference is additionally marked by an obligatory dative reflexive pronouns \Next[b].
 
 \ex.
  \a. Ich sehe das Haus.

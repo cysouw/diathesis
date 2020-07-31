@@ -601,7 +601,7 @@ unmöglich?
 - Ich lasse die Tür geschlossen.
 - Ich lassen den Ferneher eingeschaltet.
 
-DWDS: $p=VVPP @gelassen &&! {betont, reagiert}
+DWDS: `$p=VVPP @gelassen &&! {betont, reagiert}`
 
 Der Tagesspiegel, 12.07.2004
 Der Mann hatte den Zuleitungsschlauch ohne Zusatzsicherung mehrere Jahre hindurch geöffnet gelassen.
@@ -809,7 +809,7 @@ Keine Argumentvererbung: nur Agens kann (mit Mühe) erhalten bleiben als 'durch'
 
 Probably all better considered to be anticausatives, but out of tradition I list them here under the label 'passive'
 
-### [ NA | pN ] *werden + Partizip* Passive {#sec:participles-werden-passive}
+### [ NA | pN ] *werden + Partizip* passive ("Vorgangspassiv") {#sec:participles-werden-passive}
 
 Das Haus wird angemalt (durch den Handwerker).
 Das Haus ist angemalt worden
@@ -821,7 +821,7 @@ Nicht immer bei transitiv:
 - kennen (Ich kenne den Mann / * Der Mann wird gekannt)
 - wundern (Sein Verhalten wundert mich / * ich werde gewundert)
 
-### [ NDA | pNA ] *bekommen + Partizip* Dative passive + accusative {#sec:participles-bekommen-passive}
+### [ NDA | pNA ] *bekommen + Partizip* Dative passive + accusative ("Rezipientenpassiv") {#sec:participles-bekommen-passive}
 
 also *kriegen/erhalten*
 
@@ -864,7 +864,7 @@ Kriegen: Genau dieselbe Verben wie 'bekommen'?
 
 ### --- [ OBJ > SBJ > Ø] Anticausative {.unnumbered}
 
-### [ NA | –N ] *sein + Partizip* Anticausative (Zustandspassiv) {#sec:participles-sein-zustandspassiv}
+### [ NA | –N ] *sein + Partizip* Anticausative ("Zustandspassiv") {#sec:participles-sein-zustandspassiv}
 
 Zustandspassiv: ähnlich zu adjektivische Prädikatskonstruktion (*Die Tür ist gelb*). Explizit nicht mit *geworden*
 weil dann Perfekt des *werden* Passiv (cf. Maienborn). [@maienborn2007]
@@ -1339,7 +1339,7 @@ secundary predicate: "er findet sie in Zustand X"
 - Ich weiß, dass die Ostgebiete dem Kontrollrat unterstellt sind. [N–ND]
 - Ich weiß die Ostgebiete dem Kontrollrat unterstellt. [N–AD]
 
-DWDS: "$p=VVPP wissen" && ! wollen && ! möchten && ! sich
+DWDS: `"$p=VVPP wissen" && ! wollen && ! möchten && ! sich`
 
 - ... wenn er die materiellen Fragen vor der Eheschließung geregelt weiß.
 - Sie schob den Hausarzt vor, den sie von dem Jungen wie einen Freund geliebt wußte.
@@ -1371,7 +1371,7 @@ DWDS: "$p=VVPP sehen" && ! wollen && ! möchten && ! sich
 - Ich sah den Himmel aufgetan.
 - wir haben ihn völlig erschöpft gesehen.
 
-DWDS: "$p=VVPP @gesehen"
+DWDS: `"$p=VVPP @gesehen"`
 
 - *abgebildet, abgenommen, angezeigt, anvertraut, aufgebracht, aufgebrochen, aufgehoben, aufgelegt, aufgestellt, ausgestattet, ausgestellt, bedroht, bemüßigt, beschrieben, bestraft, bestätigt, bewogen, dargestellt, erfüllt, erprobt, erreicht, erschöpft, ersetzt, gebrochen, gedrängt, gefördert, gehend, gemalt, genötigt, geprüft, gerichtet, geschlossen, geschrieben, gesprüht, gestellt, gezwungen, geöffnet, hingewiesen, individualisiert, isoliert, konfrontiert, möbliert, niedergeschlagen, plaudernd, umgewandelt, untergebracht, unterschieden, veranlasst, veranlaßt, verbannt, verdächtigt, vereinigt, vereint, verführt, vernichtet, verraten, versammelt, versetzt, verstimmt, verwirklicht, überquellend*
 
