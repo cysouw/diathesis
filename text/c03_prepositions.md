@@ -361,7 +361,7 @@ Some predicates take a nominative argument with non-sentient arguments \Next[a],
 
 ### [ Np | –N ] Preposition anticausative {#sec:prepositions-intransitive-preposition-anticausative}
 
-These intransitive verbs alternate a (non-governed) prepositional constituent with a nominative \Next[a,b]. With some verbs the old nominative can be retained as genitive possessor of the new nominative \NNext[a,b]. Because of this possessor, the alternation is referred to by Levin (1993:77) as "Possessor Subject". However, the old nominative and genitive possessor need not be the same participant, so this should not be seen as a definitional characteristic \NNext[c].
+These intransitive verbs a (non-governed) prepositional constituent alternates with a nominative subject \Next[a,b]. With some verbs the old nominative can be retained as genitive possessor of the new nominative \NNext[b]. Because of this possessor, the alternation is referred to by Levin [-@levin1993: 77] as "Possessor Subject". However, the old nominative and genitive possessor need not be the same participant \NNext[c], so this should not be seen as a definitional characteristic.
 
 \ex.
  \a. Er klappert mit der Tür.
@@ -372,7 +372,7 @@ These intransitive verbs alternate a (non-governed) prepositional constituent wi
  \b. Meine Änderung drängt.
  \c. Ich dränge auf deine Änderung.
  
-The possessor (if present) in turn can show an alternation alternates with a dative for some verbs \Next[a-c, see [@sec:case-possessor-of-nominative-to-dative-experiencer]].
+The possessor (if present) in turn can show an alternation with a dative for some verbs \Next[a-c], see [@sec:case-possessor-of-nominative-to-dative-experiencer].
 
 \ex.
  \a. Ich passe in den Anzug.
@@ -382,7 +382,6 @@ The possessor (if present) in turn can show an alternation alternates with a dat
 **Attested Verbs**
 
 - *mit* : (Noise production) *klappern, klingeln, quietschen, rasseln, rattern*
-- *mit* : *schneiden, schreiben, wimmeln*
 - *auf* : *drängen*
 - *an*  : *zunehmen*
 - *in*  : *passen*
@@ -392,10 +391,7 @@ The possessor (if present) in turn can show an alternation alternates with a dat
 - Er quietscht mit den Reifen. Die Reifen quietschen.
 - Er rasselt mit den Ketten. Die Ketten rasseln.
 - Wir ratterten mit dem Bus ins Inselinnere. Der Bus ratterte ins Inselinnere.
-- Ich schreibe mit einem Stift. Mein Stift schreibt nicht mehr.
-- Ich schneide mit einem Messer. Das Messer schneidet nicht mehr.
 - Der Sturm nimmt an Stärke zu. Die Stärke des Sturmes nimmt zu.
-- Der Platz wimmelt vor/von Kindern. Die Kinder wimmeln auf den Platz.
 
 ### [ NpA | –NA ] Instrument anticausative + accusative
 
@@ -564,6 +560,9 @@ The alternation with the verb *rücken* 'to move over' and *ziehen* 'to pull' ar
 ## Diatheses with subject exchange
 
 Not attested
+
+wimmeln: [ Np | pN ] 
+- Der Platz wimmelt vor/von Kindern. Die Kinder wimmeln auf den Platz.
 
 ## Diatheses with object demotion {#sec:prepositions-demotion-of-object}
 
