@@ -620,32 +620,40 @@ Hätte man die Streitfragen wirklich ausgeklammert gelassen, dann wäre das Berl
 
 ### [ NA | NA ] *machen + Partizip*
 
-- Ich mache etwas vergessen
 - Etwas macht mich betroffen
-- Der Rauch macht mich benommen
 - Das Geschehen macht mich verbittert
 
-=> Reflexiv? Fixed Expressions?
+- Der Rauch benimmt mir die Luft. Der Rauch macht mich benommen [ NDA | NA– ]
+
+=> Reflexive? Fixed Expressions?
 
 - Ich mache mich auf etwas gefasst
 - Ich mache mich um etwas verdient
-- Der Ankauf macht sich bezahlt
 
-=> Subject demotion???
-
-Inverted Passive + reflexive loss [ pN | NA ]
-
-- Der Wein macht mich besoffen. (Ich habe mich mit Wein besoffen.)
+=> Subject drop/demotion???
 
 Reflexiv anticausative [ NA | -N ]
 
-- Ich mache mich verdächtigt. (Jemand verdächtigt mich)
+- Ich verdächtige ihn. Er macht sich verdächtigt.
+- Ich bezahlen den Stuhl. Der Stuhl macht sich bezahlt.
 
-=> Inverse ???
+Preposition Anticausative + accusative [ NPA | –NA ]
 
-Inverse + accusative [ pNA | NpA ]
+- Sie beschämt mich durch ihre Großmut. Ihre Großmut macht mich beschämt.
 
-- Die Bezahlung macht den Job begehrt (für mich). (Ich begehre den Job wegen der Bezahlung)
+Inverted Passive + reflexive loss [ pN | NA ]
+
+- Ich besaufe mich (mit Wein). Der Wein macht mich besoffen.
+- Ich eigne mich für den Job durch meine Qualifikation. Die Qualifikation macht mich für den Job geeignet.
+
+Subject Switch + reflexive loss [ N–P | –Np ]
+
+- Ich konzentriere mich auf etwas. Der Kaffee macht mich konzentriert (für etwas).
+
+Subject Switch + accusative [ pNA | NpA ]
+
+- Er vergisst etwas. Ich mache etwas vergessen (bei ihm).
+- Ich begehre den Job (wegen der Bezahlung). Die Bezahlung macht den Job begehrt (für mich).
 
 ### --- Appearance --- {.unnumbered}
 
@@ -944,14 +952,14 @@ But, other experiencers that seem to allow this construction:
 
 - anwidert (ich habe ihn angewidert / er ist angewidert)
 - amüsieren (ich habe ihn amüsiert / er ist amüsiert)
-- enttäuschen (ich habe ihn entäuscht / er ist entäuscht)
+- enttäuschen (ich habe ihn enttäuscht / er ist enttäuscht)
 - überraschen (ich habe ihn überrascht / er ist überrascht)
 - interessieren (ich habe ihn interessiert / er ist interessiert)
 
 Verbs with Prepositional reflexive passive have only one possible anticausative? Of course, because only one alternant is transitive! Preposition for anticausative (here: in) is not necessarily the same as for the reflexive passive (here: für)
 
 - Mathematik interessiert den Schüler. 
-- Perfekt: Mathemaktik hat den Schüler interessiert.
+- Perfekt: Mathematik hat den Schüler interessiert.
 - Anticausative: Der Schüler ist in Mathematik interessiert. 
 - Reflexive passive: Der Schüler interessiert sich für Mathematik
 - Perfekt reflexive passive: Der Schüler hat sich für Mathematik interessiert.
@@ -1179,7 +1187,11 @@ Only with "verloren"?
 
 Probably secondary predication because can easily be replaced by adverb, e.g. "schön/müde", but not so clear by *fühlen*, because negation has wide scope.
 
-- Ich fühle mich ausgeliefert/gebraucht/überwacht
+- Ich fühle mich gebraucht/überwacht
+
+with dative [ NAD | –ND ]
+
+- Er liefert mich dem Gericht aus. Ich fühle mich dem Gericht ausgeliefert.
 
 https://www.dwds.de/wb/fühlen
 
@@ -1201,7 +1213,13 @@ from reflexive: *entspannt*?
 - Er entspannt sich -> er ist entspannt -> er gibt sich entspannt
 - No: Etwas entspannt ihn
 
-### --- [ OBJ > SBJ > Ø ] Reflexive experiencer --- {.unnumbered}
+With *gewonnen*, the accusative of active is inanimate, while anticausative is animate!
+
+- Er gewinnt den Kampf. Er gibt sich gewonnen
+
+### --- [ OBJ > SBJ > ADJ ] Reflexive experiencer  passive--- {.unnumbered}
+
+Agent can be retained with *von* ???
 
 ### [ NA | –N ] *wissen + Partizip* Reflexive experiencer
 
@@ -1289,9 +1307,9 @@ An
 
 Both transitive and intransitive, but probably better all seen as derived from *sein+Partizip*
 
-### --- [ Ø > SBJ > OBJ ] Intransitive experiencer --- {.unnumbered}
+### --- [ Ø > SBJ > OBJ ] Experientive --- {.unnumbered}
 
-### [ –N | NA ] *wissen + Partizip* Intransitive experiencer
+### [ –N | NA ] *wissen + Partizip* Experiencer
 
 Unakkusativ Intransitiv?!
 
@@ -1299,18 +1317,18 @@ Unakkusativ Intransitiv?!
 - Sie weiß das Kind eingeschlafen [NA]
 - Wenn ich dich nicht so gut aufgehoben gewußt hätte, wäre ich Dir nachgefahren! (DWDS: Müller-Jahnke, Clara: Ich bekenne. In: Deutsche Literatur von Frauen, Berlin: Directmedia Publ. 2001 [1904], S. 52626)
 
-### [ –N | NA ] *glauben +Partizip* Intransitive experiencer
+### [ –N | NA ] *glauben +Partizip* Experiencer
 
 - Als die Tochter des Hauses, die schon längst für Jean Pauls Romane schwärmte, ihn sicher eingeschlafen glaubte, trat sie leise ins Zimmer, um ihn recht nach Herzenslust zu betrachten. (DWDS: Parthey, Gustav: Jugenderinnerungen. Bd. 2. Berlin, [1871])
 - Hörte man ihn, man wunderte sich und glaubt ihn entschuldigt, Ja er hatte noch übriges Recht und vieles zu klagen. (DWDS: Goethe, Johann Wolfgang von: Reinecke Fuchs. In zwölf Gesängen. Berlin, 1794)
 
-### [ –N | NA ] *sehen + Partizip* Intransitive experiencer
+### [ –N | NA ] *sehen + Partizip*  Experiencer
 
 - Noch nie hatte er seinen Chef so abgemagert gesehen.
 - Indem ich hier die Vertreter von fast allen Staaten vereinigt sehe, sagt Redner, fühle ich mich lebhaft und tief bewegt. (DWDS: Autor unbekannt, Wiener Zeitung, 16.06.1907, S.12)
 - auch hat mich noch niemand über der Bibel eingeschlafen gesehen (DWDS: Arnim, Bettina von: Goethe's Briefwechsel mit einem Kinde. Bd. 2. Berlin, 1835.)
 
-### [ –N | NA ] *finden + Partizip* Intransitive experiencer
+### [ –N | NA ] *finden + Partizip* Experiencer
 
 ???
 
@@ -1325,9 +1343,11 @@ secundary predicate: "er findet sie in Zustand X"
 
 ## Diatheses with subject exchange
 
-### --- [ Ø > SBJ > Ø ] Transitive experiencer --- {.unnumbered}
+### --- [ Ø > SBJ > Ø ] Agent-Experiencer switch --- {.unnumbered}
 
-### [ –NA | N–A ] *wissen + Partizip* Transitive experiencer
+Probably best analysed as stacking of *sein* anticausative with experientive
+
+### [ –NA | N–A ] *wissen + Partizip*  Experiencer switch
 
 - Jemand hebt ihn auf [–NA]
 - Er ist gut aufgehoben. [––N]
@@ -1351,13 +1371,13 @@ Besser mit modalverben (Leirbukt 2012)
 - Der Premier hat die Ostgebiete dem Kontrollrat unterstellt gewusst.
 - Der Premier hat die Ostgebiete dem Kontrollrat unterstellt wissen wollen.
 
-### [ –NA | N–A ] *glauben + Partizip* Transitive experiencer
+### [ –NA | N–A ] *glauben + Partizip* Experiencer switch
 
 - Er glaubt den Ring verloren (Er glaubt, dass der Ring verloren ist)
 - Er glaubte den Sieg gekommen/erreicht
 - Er glaubte das Seil zerrissen
 
-### [ –NA | N–A ] *sehen + Partizip* Transitive experiencer
+### [ –NA | N–A ] *sehen + Partizip* Experiencer switch
 
 DWDS: "$p=VVPP sehen" && ! wollen && ! möchten && ! sich
 
@@ -1375,7 +1395,7 @@ DWDS: `"$p=VVPP @gesehen"`
 
 - *abgebildet, abgenommen, angezeigt, anvertraut, aufgebracht, aufgebrochen, aufgehoben, aufgelegt, aufgestellt, ausgestattet, ausgestellt, bedroht, bemüßigt, beschrieben, bestraft, bestätigt, bewogen, dargestellt, erfüllt, erprobt, erreicht, erschöpft, ersetzt, gebrochen, gedrängt, gefördert, gehend, gemalt, genötigt, geprüft, gerichtet, geschlossen, geschrieben, gesprüht, gestellt, gezwungen, geöffnet, hingewiesen, individualisiert, isoliert, konfrontiert, möbliert, niedergeschlagen, plaudernd, umgewandelt, untergebracht, unterschieden, veranlasst, veranlaßt, verbannt, verdächtigt, vereinigt, vereint, verführt, vernichtet, verraten, versammelt, versetzt, verstimmt, verwirklicht, überquellend*
 
-### [ –NA | N–A ] *finden + Partizip* Transitive experiencer
+### [ –NA | N–A ] *finden + Partizip* Experiencer switch
 
 - Er fand die Haustür verriegelt. ??? Er findet, dass die Haustür verriegelt ist.
 - Du findest mich verändert? Du findest, dass ich verändert bin?
@@ -1383,7 +1403,7 @@ DWDS: `"$p=VVPP @gesehen"`
 Die Zeit, 15.02.2016 (online)
 Um die Sache zu prüfen, habe er im Urlaub mal einen Nacktbadestrand aufgesucht - und dort das Bild aus der Sauna bestätigt gefunden.
 
-### --- [ Ø > SBJ > Ø ] Causative --- {.unnumbered}
+### --- [ Ø > SBJ > Ø ] Causative switch --- {.unnumbered}
 
 ### [ –NA | N–A ] *geben + Partizip* Performative causative
 

@@ -42,6 +42,8 @@ header-includes:
 - \newfontfamily{\fallbackfont}{Arial}
 # Page layout
 - \usepackage[margin=4cm]{geometry}
+- \usepackage{float}
+- \floatplacement{figure}{htb} # remove latex "p" option: don't let figures take over the whole page. Default pandoc to latex uses [htbp]
 # TOC specificifaction
 - \usepackage{tocloft}
 - \renewcommand{\cftsubsecfont}{\scriptsize} # small subsection in TOC

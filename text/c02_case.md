@@ -190,7 +190,7 @@ The verbs in this class need both a nominative subject argument and a second dat
 
 **Attested Verbs**
 
-- *ähneln, angehören, antworten, begegnen, beipflichten, bleiben, einfallen, entgegen kommen, entgehen, entsprechen, gefallen, gegenüber treten, gehören, gelten, gleichen, glücken, imponieren, liegen, missfallen, nacheifern, schaden, stehen, trauen, unterlaufen, unterliegen, unterstehen, verfallen, widerfahren, zufallen, zureden, zustoßen, zuneigen*
+- *ähneln, angehören, antworten, begegnen, beipflichten, bleiben, einfallen, entgegen kommen, entgehen, entsprechen, gefallen, gegenüber treten, gehören, gelten, glauben, gleichen, glücken, imponieren, liegen, missfallen, nacheifern, schaden, stehen, trauen, unterlaufen, unterliegen, unterstehen, verfallen, widerfahren, zufallen, zureden, zustoßen, zuneigen*
 
 **Examples**
 
@@ -211,6 +211,7 @@ The verbs in this class need both a nominative subject argument and a second dat
 - Ich unterstehe einer Behörde.
 - Ich unterliege dem Gegner. ('besiegt werden')
 - Die Mode unterliegt dem Zwang der Zeit. ('bestimmt werden')
+- Ich glaube dir.
 
 **Notes**
 
@@ -583,52 +584,12 @@ Originally based on a Germanic suffix *-jan*, which turned into an umlaut, some 
 The process to make a causative with the suffix *-jan* also applied to adjectival predicates. There are still a few remnants of such pairs found in contemporary German, in which the old suffix is retained as an umlaut \Next. More cases are available with preverbs, see [@sec:preverb-adjectival-causative].
 
 \ex.
- \a. Die Kiste ist schwartz.
+ \a. Die Kiste ist schwarz.
  \b. Ich schwärze den Text.
 
 **Attested Verbs**
 
-- *voll/füllen, glatt/glätten, hart/härten, schwartz/schwärzen, warm/wärmen*
-
-## Diatheses with subject exchange
-
-### --- [ OBJ > SBJ > OBJ ] Inverse --- {.unnumbered}
-
-### [ NA | AN ] Accusative inverse
-
-The verb *erwarten* 'to expect' has a very exceptional valency alternation in that the accusative and nominative arguments can be reversed with a very similar meaning \Next[a,b]. There is a slight difference in meaning between 'to expect' \Next[a] and 'to be imminent' \Next[b].
-
-\ex.
- \a. Er erwartet einen Test.
- \b. Der Test erwartet ihn.
-
-This alternation is possibly best interpreted as the effect of two different metaphorical extensions of *warten* 'to wait for'. The first extension is from 'to wait for' \Next[a] to 'to expect' \Next[b]. The second usage of *warten* is typically found with inanimate subjects, meaning roughly 'to be ready for the objects arrival' \Next[c]. This second meaning the metaphorical extension leads to the meaning 'to be imminent' \Next[d].
-
-\ex.
- \a. Ich warte auf den Test.
- \b. Ich erwarte den Test.
- \c. Zuhause wartet ein Geschenk auf dich.
- \d. Ein Geschenk erwartet dich.
-
-**Attested Verbs**
-
-- *erwarten*
-
-### [ NA | DN ] Dative inverse
-
-I know of only a few verbs with this very special passive-like diathesis \Next[a,b]. There are a few more cases of this alternation with reflexive marking see [@sec:reflexive-sich-dative-passive]. Note that the alternant with the dative \Next[b] needs a very special adverbial, typically *nichts*, *was*, or *wenig* (negative polarity).
-
-\ex.
- \a. Der Arbeiter nutzt den Hebel.
- \b. Der Hebel nutzt dem Arbeiter wenig.
-
-**Attested Verbs**
-
-- *nutzen, schmecken*
-
-**Examples**
-
-- Ich schmecke den Knoblauch nicht. Knoblauch schmeckt mir nicht.
+- *voll/füllen, glatt/glätten, hart/härten, schwarz/schwärzen, warm/wärmen*
 
 ## Diatheses with object demotion {#sec:case-object-demotion}
 
@@ -1000,7 +961,46 @@ Likewise, there is a similar difference between the *von* alternant \Next[b] and
  \b. Ich klaue die Blumen von dir.
  \c. Ich klaue deine Blumen.
 
-## Diatheses with object exchange
+## Symmetrical diatheses
+
+### --- [ OBJ > SBJ > OBJ ] Inversive --- {.unnumbered}
+
+### [ NA | AN ] Accusative inverse
+
+The verb *erwarten* 'to expect' has a very exceptional valency alternation in that the accusative and nominative arguments can be reversed with a very similar meaning \Next[a,b]. There is a slight difference in meaning between 'to expect' \Next[a] and 'to be imminent' \Next[b].
+
+\ex.
+ \a. Er erwartet einen Test.
+ \b. Der Test erwartet ihn.
+
+This alternation is possibly best interpreted as the effect of two different metaphorical extensions of *warten* 'to wait for'. The first extension is from 'to wait for' \Next[a] to 'to expect' \Next[b]. The second usage of *warten* is typically found with inanimate subjects, meaning roughly 'to be ready for the objects arrival' \Next[c]. This second meaning the metaphorical extension leads to the meaning 'to be imminent' \Next[d].
+
+\ex.
+ \a. Ich warte auf den Test.
+ \b. Ich erwarte den Test.
+ \c. Zuhause wartet ein Geschenk auf dich.
+ \d. Ein Geschenk erwartet dich.
+
+**Attested Verbs**
+
+- *erwarten*
+
+### [ NA | DN ] Dative inverse
+
+I know of only a few verbs with this very special passive-like diathesis \Next[a,b]. There are a few more cases of this alternation with reflexive marking see [@sec:reflexive-sich-dative-passive]. Note that the alternant with the dative \Next[b] needs a very special adverbial, typically *nichts*, *was*, or *wenig* (negative polarity).
+
+\ex.
+ \a. Der Arbeiter nutzt den Hebel.
+ \b. Der Hebel nutzt dem Arbeiter wenig.
+
+**Attested Verbs**
+
+- *nutzen, schmecken*
+
+**Examples**
+
+- Ich schmecke den Knoblauch nicht. Knoblauch schmeckt mir nicht.
+
 
 Some verbs allow for the same role being expressed with different case marking. These seem to be all incidental cases, mostly verbs in the midst of a diachronic change.
 

@@ -272,7 +272,7 @@ Depictive adverbials are a regular part of German grammar. In all German sentenc
  \a. Ich fahre nach Hause.
  \b. Ich fahre schnell nach Hause.
 
-### [ N | N ] Resultative adverbial reflexive intransitives
+### [ N | N ] Reflexive intransitives + resultative adverbial
 
 There is a special construction that apparently only exists for some intransitive verbs like *schlafen* 'to sleep' \Next[a]. The verb is combined with a reflexive pronoun and a resultative secondary predicate. The meaning of this construction approximately amounts to 'by performing the verb, the secondary predicate is achieved' \Next[b].
 
@@ -302,7 +302,7 @@ When the combination of adverbial and verb is considered to be a new lexicalised
 - Ich arbeite mich hoch.
 - Ich laufe mich glücklich.
 
-### [ N | N ] Resultative adverbial intransitives
+### [ N | N ] Intransitives + resultative adverbial
 
 Different from the verbs in the previous class, some intransitive verbs like *rennen* 'to run' allow for a secondary predicate without any other structural changes, resulting for example in *losrennen* 'to start running' \Next. I consider this to be resultative secondary predicates because to the parallelism to the applicative diathese in [@sec:adverbials-applicative].
 
@@ -326,7 +326,7 @@ An additional affect of this alternation is that the unergative *rennen* becomes
 - Der Eimer läuft leer/voll.
 - Ich springe weg.
 
-### [ NA | NA ] Resultative adverbial transitives
+### [ NA | NA ] Transitives + resultative adverbial
 
 **Examples**
 
@@ -337,7 +337,7 @@ An additional affect of this alternation is that the unergative *rennen* becomes
 
 ### -- [ SBJ > Ø ] Drop -- {.unnumbered}
 
-### [ N | – ] Depictive adverbial reflexive intransitive drop {#sec:adverbial-reflexive-drop}
+### [ N | – ] Reflexive intransitive drop + depictive adverbial {#sec:adverbial-reflexive-drop}
 
 Many intransitives allow for a dropping of the nominative with a obligatory reflexive pronoun *sich* and an obligatory adverbial. Because of the dropped nominative there is an obligatory non-phoric *es* in such sentences \Next[a]. Such constructions seem to be possible with very many intransitives, though with some verbs, like *aufstehen* 'rise' it is of debatable grammaticality \Next[b]. More research is needed into the question which intransitive verbs do not allow this diathesis.
 
@@ -357,16 +357,17 @@ A very similar diathesis is attested with transitives, see [@sec:adverbial-refle
 - Hier lebt es sich gut.
 - In diesem Saal tanzt es sich gut.
 
-### --- [ ADJ > SBJ > Ø ] Anticausative --- {.unnumbered}
+### --- [ ADJ > SBJ > Ø ] Conciliative --- {.unnumbered}
 
-### [ Np | –N ] Depictive adverbial instrument anticausative
+### [ Np | –N ] Conciliative + depictive adverbial
 
 Some verbs that have a typical instrument connected to the action allow for the instrument to be turned into the nominative subject, but only with the addition of an adverbial \Next.
 
 \ex.
- \a.    Ich schneide mit einem Messer.
- \b.    Das Messer schneidet gut.
+ \a.    Ich schneide (das Brot) mit einem Messer.
+ \b.    Das Messer schneidet das Brot.
  \c. \? Das Messer schneidet.
+ \d.    Das Messer schneidet gut.
 
 **Attested Verbs**
 
@@ -374,11 +375,11 @@ Some verbs that have a typical instrument connected to the action allow for the 
 
 **Examples**
 
-- Ich schreibe mit einem Füller. Der Füller schreibt gut.
+- Ich schreibe den Brief mit einem Füller. Der Füller schreibt gut.
 
 ### --- [ OBJ > SBJ > Ø ] Anticausative --- {.unnumbered}
 
-### [ NA | –N ] Depictive adverbial anticausative
+### [ NA | –N ] Anticausative + depictive adverbial
 
 The verb *riechen* 'to smell' allows for an anticausative alternation \Next[a,b], but the intransitive obligatorily needs an adverbial. It is possible to leave out the adverbial, but then a strong negative entailment arises, i.e. without an adverbial the smell is bad \Next[c]. Interestingly, with *schmecken* 'to taste' the absence of an adverbial leads to a positive entailment \Next[d].
 
@@ -396,7 +397,9 @@ The verb *riechen* 'to smell' allows for an anticausative alternation \Next[a,b]
 
 - Ich schmecke den Rotwein in der Soße. Der Rotwein schmeckt (mir) gut.
 
-### [ NA | –N ] Depictive adverbial reflexive anticausative {#sec:adverbial-reflexive-transitive-anticausative}
+### [ NA | –N ] Reflexive anticausative + depictive adverbial {#sec:adverbial-reflexive-transitive-anticausative}
+
+cf. potential (agentless) passive, kulikov 375-376
 
 Similar to the previous intransitive verbs, some transitive verbs allow for the drop of a nominative with obligatory reflexive and obligatory adverbial. With these verbs the result is an anticausative in which the original accusative is changed to a nominative \Next.
 
@@ -404,7 +407,7 @@ Similar to the previous intransitive verbs, some transitive verbs allow for the 
  \a. Ich scheine die Wurst mit diesem Messer.
  \b. Mit diesem Messer schneidet sich die Wurst schwer. [@kunze1996: 647]
 
-Kunze [-@kunze1996] and Steinbach [-@steinbach1998] call this 'middle', Zifonun [-@zifonun2003] 'fazilitives Medium' and Wiemer & Nedjalkov [-@wiemer2007: 465-466] classify it as a 'passive-like meaning of reflexive'. Steinbach [-@steinbach1998: 25ff.] argues that the adverbial is not necessary in the 'middle' construction, but this is because he combined different constructions under the heading of 'middle'. The examples without adverbial are discussed here as a separate construction in [@sec:reflexive-anticausative].
+Kunze [-@kunze1996] and Steinbach [-@steinbach1998] call this 'middle', Zifonun [-@zifonun2003] 'fazilitives Medium' and Wiemer & Nedjalkov [-@wiemer2007: 465-466] classify it as a 'passive-like meaning of reflexive'. Steinbach [-@steinbach1998: 25ff.] argues that the adverbial is not necessary in the 'middle' construction, but this is because he combines different constructions under the heading of 'middle'. The examples without adverbial are discussed here as a separate construction in [@sec:reflexive-anticausative].
 
 **Attested Verbs**
 
@@ -436,15 +439,11 @@ Some of these verbs can also occur with a 'free' dative, see [@sec:reflexive-fre
 
 Not attested.
 
-## Diatheses with subject exchange
-
-Not attested.
-
 ## Diatheses with object demotion
 
 ### -- [ OBJ > Ø ] Drop -- {.unnumbered}
 
-### [ NA | N– ] Depictive adverbial action focus {#sec:adverbial-action-focus}
+### [ NA | N– ] Action focus + depictive adverbial {#sec:adverbial-action-focus}
 
 Most transitive verbs can be used without an accusative object. However, with some verbs this drop comes easier than for others. Real 'ambitransitive' verbs that occur both as transitive and as intransitive, but without needing any extra marking in the intransitive, are discussed in [@sec:case-accusative-drop]. For many transitive verbs the drop of the accusative is only possible in an strict action-oriented focus, like as a reply to a question like "what are you doing just now?" In effect, this implies that such intransitive usage always needs an adverbial specification
 
@@ -468,18 +467,9 @@ Most transitive verbs can be used without an accusative object. However, with so
 - Er zählt die Stimmen. Er zählt leise vor sich hin.
 - Die Kinder zerstören die Sandburg. Kinder zerstören gerne.
 
-### -- [ OBJ > ADJ ] Antipassive -- {.unnumbered}
+### --- [ OBJ > Ø ] Antiresultative --- {.unnumbered}
 
-### [ NA | Np ] Resultative adverbial reflexive antipassive {#sec:adverbials-antipassive}
-
-**Examples**
-
-- Ich sehe das Gemälde. Ich sehe mich satt an dem Gemälde.
-- Ich esse die Bouletten. Ich esse mich satt an den Bouletten
-
-### --- Antiresultative --- {.unnumbered}
-
-### [ NAL | NA– ] Resultative adverbial antiresultative
+### [ NAL | NA– ] Antiresultative + resultative adverbial
 
 Only with *los/fest-*? compare [@sec:preverb-transitive-antiresultative}].
 
@@ -497,11 +487,20 @@ Only with *los/fest-*? compare [@sec:preverb-transitive-antiresultative}].
 
 - Die Arbeiter klopfen die Pflastersteine in den Bürgersteig. Die Arbeiter klopfen die letzten Pflastersteine fest. (DWDS: Bild, 28.04.2005)
 
+### --- [ OBJ > ADJ ] Antipassive --- {.unnumbered}
+
+### [ NA | Np ] Reflexive antipassive + resultative adverbial {#sec:adverbials-antipassive}
+
+**Examples**
+
+- Ich sehe das Gemälde. Ich sehe mich satt an dem Gemälde.
+- Ich esse die Bouletten. Ich esse mich satt an den Bouletten
+
 ## Diatheses with promotion to object
 
-### --- [ Ø > OBJ] Addition --- {.unnumbered}
+### --- [ Ø > OBJ ] Resultative --- {.unnumbered}
 
-### [ N– | NA ] Resultative adverbial addition
+### [ N– | NA ] Resultative + resultative adverbial
 
 **Examples**
 
@@ -509,7 +508,7 @@ Only with *los/fest-*? compare [@sec:preverb-transitive-antiresultative}].
 
 ### --- [ ADJ > OBJ ] Applicative --- {.unnumbered}
 
-### [ Np | NA ] Resultative adverbial applicative {#sec:adverbials-applicative}
+### [ Np | NA ] Applicative + resultative adverbial {#sec:adverbials-applicative}
 
 Many different secondary predicates:
 
@@ -535,15 +534,15 @@ Many different secondary predicates:
 - Ich diskutiere/boxe mit ihm. Ich diskutiere/boxe ihn nieder.
 - Ich bitte/bete um Vergebung. Ich bitte/bete den Gefangenen los.
 
-### --- [ ADJ > OBJ > Ø ] Applicative --- {.unnumbered}
+### --- [ ADJ > OBJ > Ø ] Chained Applicative --- {.unnumbered}
 
-### [ NpA | NA– ] Resultative adverbial applicative + accusative drop
+### [ NpA | NA– ] Applicative + accusative drop + resultative adverbial
 
 **Examples**
 
 - Ich kaufe ein Brot in dem Geschäft. Ich kaufe das Geschäft leer.
 - Ich schenke den Wein in das Glas. Ich schenke das Glas voll.
 
-## Diatheses with object exchange
+## Symmetrical diatheses
 
 Not attested.

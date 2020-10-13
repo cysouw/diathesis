@@ -27,9 +27,7 @@ The current attempt to present a all-encompassing survey of German diathesis bui
 
 Diathesis is of course closely linked to the concept of valency, so the groundbreaking valency dictionary for German by Helbig and Schenkel [-@helbig1991] deserves mentioning. They of course identify the problem that certain verbs can be used in different constructions, but such diatheses are not investigated in this dictionary. Another highly influential valency dictionary for German, edited by Schumacher [-@schumacher1986], consistently discusses passive diatheses for all verb.
 
-## Defining diathesis
-
-### Basic definition {#sec:intro-basic-defintion}
+## Defining diathesis {#sec:intro-basic-defintion}
 
 A diathesis is defined here as special kind of alternation between two different clause constructions. To properly define the notion 'diathesis', I will first define 'alternation' in general. The definition of 'clause alternation' will be built on that basis. Finally, a diathesis will be defined as special kind of clause alternation. A few crucial concepts that are used in the following definitions will be discussed in more detail in subsequent sections.
 
@@ -47,8 +45,9 @@ Based on this definition of an alternation, a \textsc{clause alternation} is def
 
 - In a clause alternation **both alternants are monoclausal**, i.e. both alternants contain a single main predicate. For German, the main argument for monoclausality will be a phenomenon called 'coherence'.
 - In both alternants, the **main predicate consists of the same lexeme**, i.e both contain the same verb.
-- The **meaning of the verb does not change*** (substantially) between the alternants.
-- The **lexical roles of the verb do not change** between the alternants. Note, however, that there might be new roles introduced or some roles might be left unexpressed.
+- The **meaning of the lexical verb does not change*** (substantially) between the alternants. 
+- The **meaning/function of the whole clause is different** between the alternants. This functional difference is the whole point of having an alternation in the first place.
+- The **lexical roles of the verb do not change** between the alternants. Lexical roles are an inherent part of the meaning of a verb and alternations do not change them. Note, however, that there might be new roles introduced or some roles might be left unexpressed.
 - A specific clause alternation is only applicable to a restricted set of verbs. The list of applicable verbs constitutes the **domain of application** of the alternation. Any semantic/syntactic characterisation of these applicable verbs should be seen as a summary of the domain of application, not its definition.
 
 Clause alternations are widespread when auxiliaries are introduced, like modal *müssen* 'have to' \Next[a], see [@sec:infinitive-mussen]. Moreover, clause alternation are attested with many different kind of marking, like the verb particle *auf* marking completeness of the action \Next[b], see [@sec:prepositions-accusative-antipassive], or the somewhat mysterious 'free' reflexive *sich* with verbs like *ansehen* 'look at' \Next[c], see [@sec:reflexive-free-dative-sich-accusative]. Arguably, the special word order in German subordinate clauses (viz. the finite verb occurs clause-final) can also be considered to be a clause alternation.
@@ -77,11 +76,13 @@ The prototypical example of a diathesis is the *werden + Partizip* passive \Next
 
 Hidden in this succinct definition of diathesis there are various intricate grammatical concepts that need some more discussion in subsequent subsections.
 
-### Note on terminology
+## Definitional details
+
+### Terminology
 
 In the thorough cross-linguistic survey of diathesis by Zuñiga & Kittilä [-@zuniga2019], they distinguish between the terms 'diathesis', 'diathetical operation', 'grammatical voice' and 'transitivity'. I completely subscribe to these conceptual distinctions. However, I have decided to simplify my terminology and basically use the term 'diathesis' for all four concepts.
 
-A diathesis (as defined here) is an alternation between two clausal construction. To be more precise, this is what is called a 'diathetical operation' in Zuñiga & Kittilä [-@zuniga2019: 4]. Each of the alternants show a different mapping of (grammatical) expression onto (semantic) roles. Such a mapping between expression and role is called a 'diathesis' in Zuñiga & Kittilä [-@zuniga2019: 4]. However, because I will only consider diathetical operations between an 'unmarked' and a 'marked' alternant, I have decided to simplify the terminology in this book. I will simply refer both to the alternation itself and the to marked alternant as the 'diathesis'. A side-effect of this approach is that 'active' is not in itself a diathesis, but simply the unmarked counterpart of a diathetical operation.
+A diathesis (as defined here) is an alternation between two clausal construction. To be more precise, this is what is called a 'diathetical operation' in Zuñiga & Kittilä [-@zuniga2019: 4]. Each of the alternants show a different mapping of (grammatical) expression onto (semantic) roles. Such a mapping between expression and role is called a 'diathesis' in Zuñiga & Kittilä [-@zuniga2019: 4]. However, because I will only consider diathetical operations between an 'unmarked' and a 'marked' alternant, I have decided to simplify the terminology in this book. Both the alternation itself (Zuñiga & Kittilä's diathetical operation, e.g. 'causativization') and the marked alternant (Zuñiga & Kittilä's diathesis, e.g. 'causative') will be referred to here as diathesis (e.g. 'causative'). A side-effect of this approach is that 'active' is not in itself a diathesis, but simply the unmarked counterpart of a diathetical operation.
 
 The actual linguistic marking of the diathesis (for example by verbal morphology or auxiliaries) is called 'grammatical voice' in Zuñiga & Kittilä [-@zuniga2019: 4]. In this book, each diathesis is defined as a combination of a (re-)mapping of roles and a specific kind of linguistic marking of the main predicate. So again, this extra terminological distinction is not necessary in this book. The formal expression ('grammatical voice') is simply a definitional part of each diathesis here.
 
@@ -188,11 +189,11 @@ My proposal for a language-specific determination of semantic mesoroles is to us
 
 A widespread assumption in linguistic analysis is that most alternations (including diatheses) have a sensible domain of application. This is the idea that there is some rationale, often a kind of semantic characterisation, explaining which roots allow for a specific kind of linguistic marking (e.g. only transitive verbs allow for a *werden* passive). Although I also believe that many alternations, including diatheses, mostly behave sensibly, I would also warn not to expect too much regular (semantic) generalisations being hidden grammatical structure. Many grammatical regularities have unexpected exceptions, be it because of haphazard diachronic changes or through partial analogical extension. Even stronger, some grammatical marking appears to be almost completely without (semantic) rationale, like the assignment of plural allomorphy in German.
 
-As a practical approach to the domain of application of a specific alternation (say, which verbs allow for the *werden* passive or the *sich* anticausative), I propose to always first enumerate as much examples as possible. In this book, I will not be content with four or five cases that suggest a neat semantic coherence, but list as many as possible further examples, idiosyncratic as they may be. Only after such a formal listing of the domain of application is it possible to investigate the presence of any (semantic) rationale. In many cases there might be a partial rationale, but it is just as likely (and just as interestingly) to have to conclude that there apparently is none.
+As a practical approach to the domain of application of a specific alternation (say, which verbs allow for the *werden* passive or the reflexive anticausative), I propose to always first enumerate as much examples as possible. In this book, I will not be satisfied with four or five cases that suggest a neat semantic coherence for a specific diathesis, but list as many as possible further examples, idiosyncratic as they may be. Only after such a formal listing of the domain of application (which ideally needs much more corpus research as I have been able to perform here) is it possible to investigate the presence of any (semantic) rationale. In many cases there might be a partial rationale, but it is just as likely (and just as interestingly) to have to conclude that there apparently is none.
 
 Taking this principle one step further, I propose to *define* the domain of application as the concrete listing of all examples. Any (semantic) characterisation is then always a post-hoc generalisation, not a definition. This radically lexicalist interpretation is the approach that I will follow in this book. For each diathesis I will list as many as possible example verbs that take part in the diatheses (for some I will reverse the approach and list verbs that are not part of the domain of application). These lexical lists, ideally updated and completed in the future, are the definition of the domain of application. For some diatheses, I will speculate about semantic generalisations, but I consider these generalisations always to be secondary to the concrete listing of examples.
 
-This principle of the definition by listing even holds for questions of productivity. For example, when I experimentally propose a nonce-verb like *flurchten* to be a new verb for the German language, then I partially define its meaning by stating what kind of diatheses it can take part in. Depending on how such a new verb is contextualised, the following construction might or might not be judged grammatical. The choices that will be made influence the meaning of the verb.
+This principle of the definition by listing even holds for questions of productivity. For example, when somebody would experimentally propose a nonce-verb like *flurchten* to be a new verb for the German language, then its meaning is partially defined by stating what kind of diatheses it can take part in. Depending on how such a new verb is contextualised, the following construction might or might not be judged grammatical. The choices that will be made influence the meaning of the verb.
 
 \ex.
  \a. Ich flurchte den X.
@@ -200,6 +201,29 @@ This principle of the definition by listing even holds for questions of producti
  \c. Ich flurchte mich vor den X.
  \d. Der X flurchtet.
  \e. Der X flurchtet sich.
+
+### Functional analysis
+
+Intimately connected to the domain of application (i.e. which verbs allow for which diathesis) is the question as to the meaning/function/usage of a specific diathesis. In essence, this question asks for a description of the difference between the meaning of the two alternants of a diathesis. For example, what is the difference between the transitive \Next[a] and the corresponding reflexive anticausative \Next[b], see [#sec:reflexive-anticausative].
+
+\ex.
+ \a. Ich schließe die Tür.
+ \b. Die Tür schließt sich. 
+
+In general, it turns out to be extremely difficult to give a concise description of such differences, and I will mostly refrain from trying to provide such descriptions. Each diathesis is actually its own research project, preferably investigated using predictive corpus analysis [cf. the large literature on the English dative alternation, for German see e.g. @devaere2018]. The actual lists of verbs that allow for a specific diatheses (i.e. the domain of application) also seems to be an important datapoint to investigate the function of a diathesis.
+
+The problem of a functional description for a diathesis becomes even more difficult with the realisation that there are dozens of diatheses, often highly similar to each other. For example, it is really difficult [cf. @schafer2007; @kurogo2016] to characterise the difference between the reflexive anticausative above in \Last and the unmarked anticausative in \Next, see [@sec:case-haben-anticausative]? 
+
+\ex.
+ \a. Ich koche den Kaffee.
+ \b. Der Kaffee kocht.
+
+An important side-note in this respect are those alternations that have similar formal characteristics as diatheses, but which do not have any role-remapping. Such sentence alternations are not considered to be diatheses here, but they are still discussed in the X.4 sections of each chapter. An example is the phenomenon of 'free' reflexives \Next, see [#sec:reflexive-free-dative-sich-accusative]. Again, it turns out to be really difficult to describe the difference between \Next[a] and \Next[b]. All sentence alternations, with or without role-remapping, are in need of a functional analysis, and most such analyses will involve substantial research.
+
+\ex.
+ \a. Ich habe das Haus angesehen.
+ \b. Ich habe mir das Haus angesehen.
+ \c. \* Ich habe ihm das Haus angesehen.
 
 ## Valency {#sec:intro-valency}
 
@@ -266,32 +290,7 @@ Finally, all complement clauses are arguments \Next[a,b], see Chapter [-@sec:sub
  \e. Er hofft etwas.
  \f. Er hofft auf eine gute Note.
 
-In the analysis of diatheses in this book I will use the following abbreviations for arguments. The argument in the nominative case in German additionally shows agreement with the finite verb (nominative cases in predicative function will not be considered here). I strictly define the \textsc{subject} of a clause as the nominative argument with verb agreement (abbreviated as 'SBJ'). All other arguments are different kinds of \textsc{objects} (abbreviated as 'OBJ').
-
-- N = Nominative case
-- A = Accusative case
-- D = Dative case
-- G = Genitive case
-- P = Lexically governed preposition
-- L = Obligatory location
-
-Lower-cased letters are used as abbreviations for non-argument participants in the clause. They are considered to be different kinds of adjuncts (abbreviated as 'ADJ').
-
-- g = Adnominal genitive
-- p = Non-governed preposition
-
-Two further lower-cased letters are used in Chapter 4 for referential uses of reflexive pronouns. As described in much detail in that chapter, it is important to distinguish between reflexive pronouns in German that refer to a lexical role ('referential' or 'real' reflexive constructions) and reflexive pronouns that mark a diathesis without referring to a role themselves.
-
-- a = referential accusative reflexive pronoun
-- d = referential dative reflexive pronoun
-
-Finally, unexpressed lexical roles are abbreviated with a dash '–' in the analyses of individual diatheses and as 'Ø' in the classification of diatheses.
-
-For example, the diathesis in \Next, also known as the dative antipassive alternation (see [@sec:prepositions-dative-antipassive-accusative]) will be analysed as "[\ NAD\ |\ NAp\ ]". This should be read as follows: there is an alternation between a clause with 'NAD'-marked arguments (nominative, accusative, dative) and a clause with 'NAp' marking (nominative, accusative, non-governed preposition). The relative order of these letters is crucial, as the order of the roles remains fixed, e.g. the third letter 'D' dative corresponds to the 'p' non-governed preposition. Note that the actual arrangement of the letters is not fixed, as long as both sides of the alternation remain in the same order, i.e. "[\ NDA\ |\ NpA\ ]" or "[\ DNA\ |\ pNA\ ]" would be the same diathesis.
-
-\ex.
- \a. Ich schicke meiner Mutter Blumen.
- \b. Ich schicke Blumen an meine Mutter.
+=> [TODO] different kinds of zeros? Obligatorily absent (i.e. impossible to express) vs. optionally absent (not expressed in a certain contexts). In most diatheses that involve absence (i.e. zeros), the whole point is that there is an alternation between absence and presence of a lexical role (e.g. in all drop and addition diatheses). The problematic cases are differences like passive vs. anticausative, which by definition are distinguished by possibility vs. impossibility for the agent to be expressed. This difference is highly volatile (i.e. it often differs from lexeme to lexeme whether it is possible or just dispreferred for an agent to be expressed), and I have to definitive solution how to principally deal with this difference.
 
 ### *es* Arguments
 
@@ -335,73 +334,72 @@ There are also a few rare cases in which there is a valency-simulating *es* in w
  \a. Ich habe es auf ihn abgesehen. (see [@sec:prepositions-nominative-es-preposition])
  \b. Wir haben es gut. (see [@sec:adverbials-accusative-es])
 
-## Classifying diatheses
-
-### Remapping of roles
-
-classification of changes in role mapping ('diathetical operation') in three levels
-
-- Most abstract: demotion/promotion/exchange (first subsections of each chapter)
-- Intermediate: 
-- Semantic classification: causative subject vs. beneficiary subject
-
-In the discussion of the various diatheses in German, I will classify them into different kinds of diatheses. This classification is not a definitional issue, but purely a practical organisational device. It might very well turn out that some of these classifications is not ideal, i.e. that some alternation is better considered as belonging to a different kind. However, such a reorganisation would not change anything about the diatheses themselves.
-
-- Structural analysis of diathesis marking
-- SBJ – OBJ – ADJ – Ø
-
-The different kinds of diatheses distinguished here have a long history in the typological literature [cf. @wunderlich1993; @wunderlich2015; @dixon2000a; @dixon2014; @haspelmath2004c; @malchukov2015: 96ff.; @zuniga2019]
-
-
-- **PASSIVE: Promotion of a non-nominative argument to subject.** The typical characteristic of a passive is a non-nominatively case-marked role to being 'more important', typically becoming the subject (i.e. nominative + verb agreement). The original subject can optionally be retained as an non-nominative case or a prepositional phrase. In general, the original subject is still understood to be some kind of agent in the passive alternant.
-- **ANTICAUSATIVE: Removal of a causer from subject.** The typical characteristic of an anticausative is the removal of the nominative subject which causes the action/state of the clause. Filling the gap, any non-nominative argument is promoted to subject. Note that in effect, such an alternation is highly similar to a passive. The main difference (which is often difficult to decide) is that for a passive the original subject is still implied (and can be overtly expressed), while for an anticausative the original subject is completely removed (e.g. a phrase like "by itself" can typically be added).
-
-- **INVERTED PASSIVE**
-- **CAUSATIVE: Addition of a new causer as subject.** The typical characteristic of a causative is the addition of a new nominative subject which causes the action/state as described in the original clause. The original nominative is typically retained as a non-nominative argument.
-- **EXPERIENCER/BENEFACTIVE: addition of new subject with different role.**
-
-- **REVERSAL: subject and object switch.** [@malchukov2015: 99-100]
-
-
-- **ANTIAPPLICATIVE (ANTIPASSIVE): Demotion of a non-nominative argument to prepositional phrase.** The typical characteristic of an antipassive is a non-nominatively case-marked role to being marked as 'less important', typically becoming a prepositional phrase. The complete removal of this role can be seen as an extreme form of an antipassive, though I mostly classify such a removal separately as a **drop** of an argument.
-- **APPLICATIVE: Addition of a new non-nominative argument.** The typical characteristic of an applicative is the introduction of a new non-nominatively marked role. Typically, a new role is marked as an accusative and the original accusatively marked role is encoded differently. It is also possible that the new role is not replacing any existing marking, but simply added to the argument structure of a verb. However, I will classify such completely new roles mostly as an **addition** of an argument.
-
-- **RESULTATIVE: Addtion of a new causee as a non-nominative argument.** The typical characteristic of a resultative is the addition of a new causee. Instead of simply expressing the content of a predicate as the action/state of the clause, a resultative diatheses expressed that something is caused by performing the predicate.
-- **ANTIRESULTATIVE**
-- **POSSESSOR RAISING: possessor of an argument becomes a separate argument.**
-
-- **OBJECT REVERSAL**
-
-- **DROP** "deobjective" [@haspelmath2004c: 1131]
-- **ADDITION**
-
-
-Note that the term "resultative" is used by [@nedjalkov1988a] with a different meaning (viz. a special kind of anticausative)
-
-Note: "active" is not a diathesis!
-
-First use of "antipassive": [@silverstein1972: 395], known as 'deaccusative' [@geniusiene1987: 94] and antiapplicative [@haspelmath2004c: 1132]
-
-=> check [@haspelmath2004c]
-
-drop is named "antipassive" in [@scheibl2006: 372-373] and antipassive is called 'antiapplicative' [@scheibl2006: 371]
+## Voice
 
 ### Form
 
 classification of grammatical form ('voice'): different chapters of this book!
 
-Note examples of 'obligatory stacking', i.e. preverb+reflexive, 
+The actual linguistic marking of the diathesis (for example by verbal morphology or auxiliaries) is called 'grammatical voice' in Zuñiga & Kittilä [-@zuniga2019: 4]
+
+### Stacking
+
+Note examples of 'grammaticalised obligatory stacking', i.e. preverb+reflexive, light verb+adverbial
+
+## Diathetical operations
+
+### Remapping of roles
+
+For example, the diathesis in \Next, also known as the dative antipassive alternation (see [@sec:prepositions-dative-antipassive-accusative]) will be analysed as "[\ NAD\ |\ NAp\ ]". This should be read as follows: there is an alternation between a clause with 'NAD'-marked arguments (nominative, accusative, dative) and a clause with 'NAp' marking (nominative, accusative, non-governed preposition). The relative order of these letters is crucial, as the order of the roles remains fixed, e.g. the third letter 'D' dative corresponds to the 'p' non-governed preposition. Note that the actual arrangement of the letters is not fixed, as long as both sides of the alternation remain in the same order, i.e. "[\ NDA\ |\ NpA\ ]" or "[\ DNA\ |\ pNA\ ]" would be the same diathesis.
+
+\ex.
+ \a. Ich schicke meiner Mutter Blumen.
+ \b. Ich schicke Blumen an meine Mutter.
+
+classification of changes in role mapping ('diathetical operation') in three levels
+
+- 1) **Remapping Pattern** concrete remapping is specified for each diathesis, e.g. [ NA | –N ]. Because there are many recurring remappings, this characterisation is already a (detailed) classification
+- 2) **Local Semantic Group** groups of diatheses with similar semantics are grouped together
+- 3) **Remapping Macroroles** such groups are structurally analysed in terms of remapping SBJ – OBJ – PBJ - ADJ – Ø
+- 4) **Demotion/Promotion** subsections of each chapter (including symmetrical diatheses)
+
+In the analysis of diatheses in this book I will use the following abbreviations for arguments. The argument in the nominative case in German additionally shows agreement with the finite verb (nominative cases in predicative function will not be considered here). I strictly define the \textsc{subject} of a clause as the nominative argument with verb agreement (abbreviated as 'SBJ'). All other arguments are different kinds of \textsc{objects} (abbreviated as 'OBJ').
+
+- N = Nominative case
+- A = Accusative case
+- D = Dative case
+- G = Genitive case
+
+![Abbreviations for grammatical expressions](figures/abbreviations.pdf){#fig:abbreviations}
+
+=> [TODO] PBJ "prepositional objects"
+
+- P = Lexically governed preposition
+- L = Obligatory location
+
+Lower-cased letters are used as abbreviations for non-argument participants in the clause. They are considered to be different kinds of adjuncts (abbreviated as 'ADJ').
+
+- g = Adnominal genitive
+- p = Non-governed preposition
+
+Two further lower-cased letters are used in Chapter 4 for referential uses of reflexive pronouns. As described in much detail in that chapter, it is important to distinguish between reflexive pronouns in German that refer to a lexical role ('referential' or 'real' reflexive constructions) and reflexive pronouns that mark a diathesis without referring to a role themselves.
+
+- a = referential accusative reflexive pronoun
+- d = referential dative reflexive pronoun
+
+Finally, unexpressed lexical roles are abbreviated with a dash '–' in the analyses of individual diatheses and as 'Ø' in the classification of diatheses.
 
 ### Chaining
 
 - isolated diathesis: only one participant changes its form
 - chained diathesis: two participant change form, with (at least) one marking being exchanged
-- multi-chained diathesis: more than two
-- disjunct diathesis: two (or more) participants change form, no overlap between marking
+- multi-chained diathesis: more than two (unusual)
+- disjunct diathesis: two (or more) participants change form, no overlap between marking (unusal)
 
 Generalisation: Subject-diatheses are almost all chained
 Generalisation: disjunct diatheses are very unusual overall
 
+Object-chained diatheses can be analysed as a combination of two diatheses, subject-chains seem more integrated
 
 - multi-chained
 
@@ -451,9 +449,79 @@ This is a productive diathesis!
  \a. Ich schweige zu dir über meinen Besuch.
  \b. Ich verschweige dir meinen Besuch.
 
-### Stacking
+## Naming
 
-## Structure of this book
+### Terminological confusion
+
+The different kinds of diatheses distinguished here have a long history in the typological literature [cf. @melcuk1993; @wunderlich1993; @wunderlich2015; @dixon2000a; @dixon2014; @haspelmath2004c; @kulikov2011; @malchukov2015: 96ff.; @zuniga2019]
+
+First use of "antipassive": [@silverstein1972: 395], known as 'deaccusative' [@geniusiene1987: 94] and antiapplicative [@haspelmath2004c: 1132]
+
+drop is named "antipassive" in [@scheibl2006: 372-373] and antipassive is called 'antiapplicative' [@scheibl2006: 371]
+
+In the discussion of the various diatheses in German, I will classify them into different kinds of diatheses. This classification is not a definitional issue, but purely a practical organisational device. It might very well turn out that some of these classifications is not ideal, i.e. that some alternation is better considered as belonging to a different kind. However, such a reorganisation would not change anything about the diatheses themselves.
+
+### Isolated diatheses with subject
+
+### Chained diatheses with subject
+
+- **ANTICAUSATIVE: Removal of a causer from subject.** The typical characteristic of an anticausative is the removal of the nominative subject which causes the action/state of the clause. Filling the gap, any non-nominative argument is promoted to subject. Note that in effect, such an alternation is highly similar to a passive. The main difference (which is often difficult to decide) is that for a passive the original subject is still implied (and can be overtly expressed), while for an anticausative the original subject is completely removed (e.g. a phrase like "by itself" can typically be added).
+- **PASSIVE: Promotion of a non-nominative argument to subject.** The typical characteristic of a passive is a non-nominatively case-marked role to being 'more important', typically becoming the subject (i.e. nominative + verb agreement). The original subject can optionally be retained as an non-nominative case or a prepositional phrase. In general, the original subject is still understood to be some kind of agent in the passive alternant.
+- **PREPOSITION ANTICAUSATIVE**
+
+- **CAUSATIVE: Addition of a new causer as subject.** The typical characteristic of a causative is the addition of a new nominative subject which causes the action/state as described in the original clause. The original nominative is typically retained as a non-nominative argument. There are many similar diathesis in which the new nominative is not a causer: benefactive (haben+am+INF), experientive (sehen+INF), permissive (lassen+INF).
+- **REVERSED PASSIVE** "Causative with extended demotion" [@kulikov2011: 388]
+- **PREPOSITION CAUSATIVE**
+
+- **INVERSIVE: subject and object switch.** [@malchukov2015: 99-100], "symmetric conversive" [@kulikov2011: 380]
+- **CONVERSIVE** [@kulikov2011: 380]
+- **REVERSED CONVERSIVE**
+
+- **SUBJECT EXCHANGE**
+- **CONCILIATIVE**
+- **REVERSED CONCILIATIVE???**
+
+inverted passive
+
+{#sec:preverb-inverted-passive-accusative-loss}
+
+\ex.
+ \a. Ich erbe den Schreibtisch von meinem Vater.
+ \b. Mein Vater enterbt mich.
+
+close to causative
+
+\ex.
+ \a. Der Wettkampf endet (durch den Gong).
+ \b. Der Gong beendet den Wettkampf.
+
+\ex.
+ \a. Der Krug zerbricht (durch die Ungeschicktheit des Umzugshelfer)
+ \b. Der Umzugshelfer zerbricht den Krug.
+
+
+### Isolated diatheses without subject
+
+- **APPLICATIVE: Addition of a new non-nominative argument.** The typical characteristic of an applicative is the introduction of a new non-nominatively marked role. Typically, a new role is marked as an accusative and the original accusatively marked role is encoded differently. It is also possible that the new role is not replacing any existing marking, but simply added to the argument structure of a verb. However, I will classify such completely new roles mostly as an **addition** of an argument.
+- **ANTIAPPLICATIVE (ANTIPASSIVE): Demotion of a non-nominative argument to prepositional phrase.** The typical characteristic of an antipassive is a non-nominatively case-marked role to being marked as 'less important', typically becoming a prepositional phrase. The complete removal of this role can be seen as an extreme form of an antipassive, though I mostly classify such a removal separately as a **drop** of an argument.
+
+- **RESULTATIVE: Addtion of a new causee as a non-nominative argument.** The typical characteristic of a resultative is the addition of a new causee. Instead of simply expressing the content of a predicate as the action/state of the clause, a resultative diatheses expressed that something is caused by performing the predicate. Note that the term "resultative" is used by [@nedjalkov1988a] with a different meaning (viz. a special kind of anticausative)
+- **ANTIRESULTATIVE**
+- **POSSESSOR RAISING: possessor of an argument becomes a separate argument.**
+
+- **DROP** "deobjective" [@haspelmath2004c: 1131]
+- **ADDITION**
+
+### Chained diatheses without subject
+
+
+
+
+
+
+
+
+
 
 ## Further topics for discussion
 

@@ -256,7 +256,7 @@ With *zu* both coherent and non-coherent:
 - Es ist bekannt, dass du sie [gelehrt hast] ihm ein Buch [zu schenken]
 - Es ist bekannt, dass du sie ihm ein Buch [zu schenken] [gelehrt hast] 
 
-### --- [ 0>3>2 ] Experiencers --- {.unnumbered}
+### --- [ 0>3>2 ] Experientives --- {.unnumbered}
 
 Addition of a new subject who is experiencer of the embedding.
 
@@ -287,6 +287,8 @@ Also *finden*!
 ## Diatheses with subject exchange
 
 ### --- [ 2>3>2 ] Benefactives --- {.unnumbered}
+
+D > N > A: promotion to subject ?
 
 ### [ DNL | NAL ] *haben + Infinitiv* Benefactive 
 
