@@ -2,45 +2,47 @@
 
 ## Introduction
 
-When using the grammatical term \textsc{reflexive} a distinction has to be made between the 'self-inflicting' \textsc{reflexive construction} and the \textsc{reflexive pronoun}. The reflexive pronoun is easily identified in the third person as *sich*. One of the uses of this reflexive pronoun is as part of the reflexive construction to mark the identity of two different roles of the verb \Next[a,b]. Crucially, in such a 'self-inflicting' reflexive construction \Next[b] with a verb like *waschen* 'to wash' there are still two different roles expressed in the sentence (the 'washer' and the 'washee'). The reflexive pronoun in \Next[b] only indicates that the two roles are filled by the same participant, opposing it to \Next[a] in which the two roles are filled by different participants. There is no reduction of the valency in this construction and thus there is no diathesis here. 
+When using the grammatical term \textsc{reflexive} a distinction has to be made between 'self-inflicting' \textsc{reflexive reference} and the \textsc{reflexive pronoun}. The reflexive pronoun is easily identified in the third person as *sich*. One of the uses of this reflexive pronoun is to indicate reflexive reference, i.e. to mark the identity of two different roles of the verb. For example, the verb *waschen* 'to wash' has two roles, the 'washer' and the 'washee' \Next[a]. Crucially, with 'self-inflicting' reflexive reference using *sich* \Next[b] these two different roles are still expressed in the sentence. The reflexive pronoun in \Next[b] only indicates that the two roles are performed by the same participant, opposing it to \Next[a] in which the two roles are performed by different participants. With the reflexive pronoun in \Next[b], both roles are still explicitly marked, so there is no reduction of the valency and there is no grammatical remapping of roles, and thus there is no diathesis.^[From a typological perspective, there is arguably a difference in this respect between languages with a reflexive pronoun strategy, like German, and languages that use a verbal derivation technique for marking 'self-inflicting' reflexive reference [@dixon2014: 172ff.]. For languages with verbal derivation the verb is being marked as 'self-inflicting' and one role is completely dropped. It is probably preferable to analyse verbal 'self-inflicting' reflexive reference in such languages as a kind of diathesis.]
 
 \ex.
  \a. Er wäscht ihn.
  \b. Er wäscht sich.
 
-From a typological perspective, there is arguably a difference in this respect between languages with a pronoun strategy, like German, and languages that use a verbal derivation technique for marking 'self-inflicting' reflexive constructions [@dixon2014: 172ff.]. For languages with verbal derivation it is probably preferable to analyse 'self-inflicting' reflexive constructions as a kind of diathesis. 
-
-Although German does not show diathesis for the 'self-inflicting' reflexive construction, the reflexive pronoun is used in various diatheses in German, for example anticausative \Next[a,b], see [@sec:reflexive-anticausative] or antipassive \Next[c,d], see [@sec:reflexive-accusative-antipassive]. In these sentences, the reflexive pronoun *sich* is not filling any role, but is marking a valency alternation. There is a long tradition to call such constructions \textsc{middle}. However, there turn out to be very many different kinds of 'middle' alternations, so I prefer to be more precise in separating and naming them here in this chapter [see also @kunze1997].
+Although German does not show diathesis for 'self-inflicting' reflexive reference, the reflexive pronoun is used in many different diatheses in German, for example anticausative \Next[a], see [@sec:reflexive-anticausative] or antipassive \Next[b], see [@sec:reflexive-accusative-antipassive]. In these examples, the reflexive pronoun *sich* is not filling any role, but is marking a valency alternation. There is a long tradition to call such constructions \textsc{middle}. However, there turn out to be very many different kinds of 'middle' alternations, so I prefer to be more precise in separating and naming them here in this chapter [see also @kunze1997].
 
 \ex.
- \a. Ich schließe den Schrank.
- \b. Der Schrank schließt sich. 
- \c. Ich beklage den Lärm.
- \d. Ich beklage mich über den Lärm.
+ \a. Ich schließe den Schrank. Der Schrank schließt sich. 
+ \b. Ich beklage den Lärm. Ich beklage mich über den Lärm.
 
-There are also various verbs for which any reflexive alternation is lost and only the option with a reflexive pronoun is retained. Such 'obligatorily reflexive' verbs are not very common, but clearly attested \Next, see [@sec:reflexive-deponent].
+There are also various verbs for which any reflexive alternation is lost and only the option with a reflexive pronoun is retained. Such 'obligatorily reflexive' verbs are not very common, but clearly attested, e.g. *sich verspäten* 'to be late' and *sich aneignen* 'to appropriate' \Next, see [@sec:reflexive-deponent].
 
 \ex.
  \a. Die S-Bahn hat sich wieder einmal verspätet.
  \b. Ich habe mir eine neue Sprache angeeignet.
 
-In this chapter only those diatheses are discussed that only differ as to the addition of a reflexive pronoun. There are many more diatheses involving reflexive marking that will be discussed in subsequent chapters. In those diatheses there is more than one morphosyntactic change. For example, sometimes the addition of a preverb induces the addition of a reflexive pronouns \Next[a], see e.g. [@sec:preverb-reflexive-intransitive-antiresultative]. There is also the famous German diathesis with reflexive pronouns and manner adverbials \Next[b], see e.g. [@sec:adverbial-reflexive-transitive-anticausative], or the combination with the light verb *lassen* \Next[c], see e.g. [@sec:infinitive-lassen-reflexive-anticausative]. Less widely discussed are reflexive constructions with a lights verb like *fühlen* or *geben* with participles \Next[d], see e.g. [@sec:participle-geben-reflexive-anticausative].
+In this chapter those diatheses are discussed that only differ as to the addition of a reflexive pronoun. There are many more diatheses involving reflexive pronouns that will be discussed in subsequent chapters. In those diatheses there is more than one morphosyntactic change. For example, with some verbs the addition of a preverb also induces the addition of a reflexive pronouns \Next[a], see e.g. [@sec:preverb-reflexive-intransitive-antiresultative]. There is also the famous German anticausative diatheses that combines a reflexive pronoun with a manner adverbial \Next[b], see [@sec:adverbial-reflexive-transitive-anticausative]. Also widely discussed in German grammar is the combination of a reflexive pronouns with the light verb *lassen* \Next[c], see [@sec:infinitive-lassen-reflexive-anticausative]. Less widely discussed are diatheses that combine a reflexive pronouns with light verbs like *fühlen* or *geben* \Next[d], see e.g. [@sec:participle-geben-reflexive-anticausative].
 
 \ex.
- \a. Der Hund ist nach Hause gelaufen. Der Hund hat sich in dem Wald verlaufen.
+ \a. Der Hund ist nach Hause gelaufen. Der Hund hat sich im Wald verlaufen.
  \b. Ich verkaufe das Buch. Das Buch verkauft sich gut.
  \c. Ich schließe den Schrank. Der Schrank lässt sich schließen.
  \d. Er schlug seine Mitbewerber. Seine Mitbewerber geben sich geschlagen.
 
-Amidst the large variety of constructions with reflexive pronouns, there are a few generalisations that stand out:
+Amidst the large variety of diatheses with reflexive pronouns, there are a few generalisations that stand out:
 
-\ex. All diatheses with reflexive pronouns are valency reducing alternations. (Counterexamples in [@sec:reflexive-accusative-to-nominative])
+- All diatheses with reflexive pronouns are valency reducing alternations (idiosyncratic counterexamples in [@sec:reflexive-accusative-to-nominative]).
+- All diatheses with reflexive pronouns exclusively use the accusative reflexive pronoun, never the dative (idiosyncratic counterexamples in [@sec:reflexive-genitive-passive-dative]).
+- For almost all obligatory reflexive verbs, dative reflexive pronouns are only possible when an accusative argument is present (idiosyncratic counterexamples in [@sec:reflexive-obligatory-dative]).
+- For most self-inflicting reflexive reference, dative reflexive pronouns are only possible when an accusative argument is present (counterexamples in [@sec:reflexive-self-dative; @sec:reflexive-self-dative-location]).
 
-\ex. All diatheses with reflexive pronouns exclusively use the accusative reflexive pronoun, never the dative. (Counterexamples in [@sec:reflexive-genitive-passive-dative])
+There are six diatheses (or groups of highly similar diatheses) that seem prominent enough to be given a German name. I propose the following names for these:
 
-\ex. For almost all obligatory reflexive verbs, dative reflexive pronouns are only possible when an accusative argument is present. (Counterexamples in [@sec:reflexive-obligatory-dative])
-
-\ex. For most self-inflicting reflexive constructions, dative reflexive pronouns are only possible when an accusative argument is present. (Counterexamples in [@sec:reflexive-self-dative; @sec:reflexive-self-dative-location])
+- [ NA | –N ] \textsc{Geisterhand-antikausativ} (see [@sec:reflexive-anticausative] ff.)
+- [ NA | PN ] \textsc{Erlebnispassiv} (see [@sec:reflexive-preposition-passive])
+- [ NA | N– ] \textsc{Autokausativ} (see [@sec:reflexive-accusative-drop] ff.)
+- [ NA | Np ] \textsc{Reziprokativ} (see [@sec:reflexive-mit-antipassive])
+- [ NA | NP ] \textsc{Deakkusativ} (see [@sec:reflexive-accusative-antipassive])
+- [ NP | NL ] \textsc{Reflexiv-resultativ} (see [@sec:reflexive-resultative])
 
 ## Characteristics of reflexive pronouns
 
@@ -143,8 +145,8 @@ Various verbs describing behavior like *verirren* 'to get lost' \Next need an ob
 
 **Attested Verbs**
 
-- Behaviour: *abmühen, abrackern, abstrampeln, aufführen, aufrappeln, beeilen, benehmen, betrinken, besaufen, bücken, daranmachen, davonstehlen, durchlavieren, durchmogeln, durchwursteln, echauffieren, einigeln, erhängen, ermannen, fortbilden, gedulden, herausreden, hervortun, hinauswagen, sputen
-- Wrong behaviour (with *ver-*): verfahren, verhalten, verhaspeln, verirren, verkalkulieren, verlaufen, verplappern, verschreiben (falsch schreiben), verspäten, verspekulieren, versprechen (falsch sprechen), verrennen, vertun, verwählen, verzählen*
+- Behaviour: *abmühen, abrackern, abstrampeln, aufführen, aufrappeln, beeilen, benehmen, betrinken, besaufen, bücken, daranmachen, davonstehlen, durchlavieren, durchmogeln, durchwursteln, echauffieren, einigeln, erhängen, ermannen, fortbilden, gedulden, herausreden, hervortun, hinauswagen, sputen*
+- Wrong behaviour (with *ver-*): *verfahren, verhalten, verhaspeln, verirren, verkalkulieren, verlaufen, verplappern, verschreiben (falsch schreiben), verspäten, verspekulieren, versprechen (falsch sprechen), verrennen, vertun, verwählen, verzählen*
 - Body process: *akklimatisieren, erkälten, räuspern, verkühlen, übergeben, wohlfühlen*
 - Natural process: *abregnen, anfinden, bauchen, behaaren, bewahrheiten, bewölken, eintrüben, entspinnen, herauskristallisieren, jähren, rentieren, verästeln, verpuppen, verzweigen*
 
@@ -488,7 +490,7 @@ The verb *fürchten* only occurs in this diathesis in the very old-fashioned mea
 
 \ex. Ich fürchte mich deiner. Ich fürchte mich über dich.
 
-## Alternations without diathesis
+## Alternations without diathesis {#sec:reflexive-no-diathesis}
 
 There are three different kinds of alternations involving reflexive pronouns that do not involve any changing of roles (i.e. no diathesis). The well-known reflexive and reciprocal constructions are among them. Less widely acknowledged there are also some verbs that allow for a 'free' reflexive pronoun.
 
@@ -991,7 +993,7 @@ This idiosyncratic diathesis with the verb *handeln* 'to treat of' \Next[a,b] dr
 
 - *handeln*
 
-### --- [ OBJ > SBJ > Ø ] Anticausative --- {.unnumbered}
+### --- [ OBJ > SBJ > Ø ] Anticausative (\textsc{Geisterhand-Antikausativ}) --- {.unnumbered}
 
 ### [ NA | –N ] Reflexive anticausative {#sec:reflexive-anticausative}
 
@@ -1178,9 +1180,9 @@ Similarly, some verbs with a resultative alternation \Next[a,b], see [@sec:prepo
 
 - *rechnen*
 
-### --- [ OBJ > SBJ > PBJ ] Conversive --- {.unnumbered}
+### --- [ OBJ > SBJ > PBJ ] Conversive (\textsc{Erlebnispassiv}) --- {.unnumbered}
 
-### [ NA | PN ] Reflexive conversive (Erlebnispassiv) {#sec:reflexive-preposition-passive}
+### [ NA | PN ] Reflexive conversive {#sec:reflexive-preposition-passive}
 
 These verbs are similar to *sich* transitive anticausative, but the "von Geisterhand" reading is not possible. The original nominative can be retained as a prepositional phrase \Next[a,b]. All these prepositional phrases are governed prepositions \Next[c]. Interestingly, there appears to be a wide variety of propositions that are governed by the various verbs that allow for this diathesis. Note that the *werden* Passive is not possible for these verbs \Next[d].
 
@@ -1272,9 +1274,9 @@ These alternations are ongoing replacements of old-fashioned constructions. The 
 
 ## Diatheses with object demotion
 
-### --- [ OBJ > Ø ] Object drop --- {.unnumbered}
+### --- [ OBJ > Ø ] Object drop (\textsc{Autokausativ})--- {.unnumbered}
 
-### [ NA | N- ] Reflexive accusative drop (Autokausativ) {#sec:reflexive-accusative-drop}
+### [ NA | N- ] Reflexive accusative drop {#sec:reflexive-accusative-drop}
 
 On first notice, examples like \Next[a,b] looks very much like self-inflicted ('reflexive') alternation (see [@sec:reflexive-self-inflicting-accusative]). However, in this case the *sich* pronoun in \Next[b] does not have the same role as the accusative argument in \Next[a]. This can be shown syntactically by the impossibility of the coordination in \Next[c].
 
@@ -1330,9 +1332,9 @@ It appears to be the case that *sich verschlafen* is getting old-fashioned.
 \ex.
   "Ach, Johanna, ich glaube, ich habe mich verschlafen. (DWDS: Fontane, Theodor: Effi Briest. Berlin, 1896.)
 
-### [ NAL | N-L ] Reflexive accusative drop + locative
+### [ NAL | N–L ] Reflexive accusative drop + locative
 
-Similar to the previous 'autocausative' alternations, the alternation in \Next[a,b] looks very much like a self-inflicted reflexive construction. For actions of the body (like *legen, setzen, stellen*, etc.) the conjunction seems to be perfectly possible, so I currently do not classify this as a special construction.
+Though similar to the previous 'autocausative' alternations, the alternation in \Next[a,b] looks very much like self-inflicted reflexive reference, even the conjunction seems to be perfectly possible \Next[c]. It needs more investigation whether this alternation is really to be considered as a diathesis.
 
 \ex.
  \a. Er wirft die Kleider aufs Bett.
@@ -1353,9 +1355,9 @@ Similar to the previous 'autocausative' alternations, the alternation in \Next[a
 
 - *verweigern*
 
-### --- [ OBJ > ADJ ] Antipassive --- {.unnumbered}
+### --- [ OBJ > ADJ ] Antipassive (\textsc{Reziprokativ}) --- {.unnumbered}
 
-### [ NA | Np ] Reflexive *mit* antipassive (reciprocative) {#sec:reflexive-mit-antipassive}
+### [ NA | Np ] Reflexive *mit* antipassive {#sec:reflexive-mit-antipassive}
 
 Reflexive antipassives with the preposition *mit* \Next[a,b] show a non-governed prepositional phrase \Next[c]. Semantically, this diathesis changes an action from a one-sided perspective towards a reciprocal perspective. The resulting construction of this diathesis is reminiscent of the 'real reciprocal' verbs (see [#sec:reflexive-real-reciprocals]).
 
@@ -1382,11 +1384,11 @@ The verb *befreunden* 'to become friends' \Next[a] seems to habe become acceptab
  \a. Ich befreunde mich mit ihm.
  \b. Ich befreunde ihn.
 
-### --- [ OBJ > PBJ ] Governed antipassive --- {.unnumbered}
+### --- [ OBJ > PBJ ] Governed antipassive (\textsc{Deakkusativ}) --- {.unnumbered}
 
 ### [ NA | NP ] Reflexive governed antipassive {#sec:reflexive-accusative-antipassive}
 
-The *sich* counterpart of the transitive *beklagen* 'to lament' \Next[a,b] is somewhat alike to an intransitive action that has a reflexive pronoun attached. There is no semantic reflexivity whatsoever in the expression, i.e. the complaining in \Next[b] does not mean 'I complain about myself' (e.g. adding *selbst* is not possible); the complaint is still about *Lärm* 'noise'. However, this object of the complaint is demoted from accusative \Next[a], which cannot be dropped \Next[c], to a prepositional phrase \Next[b], which can be dropped \Next[d]. Note that without the prepositional phrase \Next[d] the expression is indeed ambiguous between a real reflexive meaning ('I complain about myself') and a non-reflexive reading ('I am complaining'). For a typological survey of such antipassive uses of reflexive markers, see Janic [-@janic2010]. Wiemer and Nedjalkov [-@wiemer2007: 464-465] call such verbs 'deaccusatives' and consider them to be 'extremely rare' (which they are not). It is an open question why some verbs take a reflexive antipassive, while other take a simple antipassive without reflexive pronoun (cf [@sec:prepositions-accusative-antipassive]). All prepositional phrases of the verbs in this section are governed prepositions \Next[e].
+The *sich* counterpart of the transitive *beklagen* 'to lament' \Next[a,b] is somewhat alike to an intransitive action that has a reflexive pronoun attached. There is no semantic 'self-inflicting' reflexivity whatsoever in the expression, i.e. the complaining in \Next[b] does not mean 'I complain about myself' (e.g. adding *selbst* is not possible); the complaint is still about *Lärm* 'noise'. However, this object of the complaint is demoted from accusative \Next[a], which cannot be dropped \Next[c], to a prepositional phrase \Next[b], which can be dropped \Next[d]. Note that without the prepositional phrase \Next[d] the expression is indeed ambiguous between a real reflexive meaning ('I complain about myself') and a non-reflexive reading ('I am complaining'). For a typological survey of such antipassive uses of reflexive markers, see Janic [-@janic2010]. Wiemer and Nedjalkov [-@wiemer2007: 464-465] call such verbs 'deaccusatives' and consider them to be 'extremely rare' (which they are not). It is an open question why some verbs take a reflexive antipassive, while other take a simple antipassive without reflexive pronoun (cf [@sec:prepositions-accusative-antipassive]). All prepositional phrases of the verbs in this section are governed prepositions \Next[e].
 
 \ex.
  \a. Ich beklage den Lärm.
@@ -1488,11 +1490,11 @@ There used to be a reflexive verb *bewissen* in Early New High German, but only 
 
 - *bewusst sein*
 
-### --- [ PBJ > PBJ ] Resultative --- {.unnumbered}
+### --- [ PBJ > PBJ ] Resultative (\textsc{Reflexiv-resultativ}) --- {.unnumbered}
 
-### [ NP | NL ] Reflexive location-as-result
+### [ NP | NL ] Reflexive location-as-result {#sec:reflexive-resultative}
 
-A verb like *träumen* 'to dream' has a governed preposition *von* \Next[a,b]. With a reflexive pronoun *sich träumen* a locative adverbial is needed, e.g a prepositional phrase with *nach* 'to' \Next[c,d]. The meaning of this construction is that by performing the verb (i.e. by dreaming) the locational description is achieved (i.e. being in New York).
+A verb like *träumen* 'to dream' has a governed preposition *von* \Next[a,b]. With a reflexive pronoun *sich träumen* a locative adverbial is needed, e.g a prepositional phrase with *nach* 'to' \Next[c,d]. The meaning of this construction is that by performing the verb (i.e. by dreaming) the locational description is achieved (i.e. being in New York). The location always appears to be describing a movement, with *durch* 'through' being the most productive.
 
 \ex.
  \a. Ich träume von New York. 

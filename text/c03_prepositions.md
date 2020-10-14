@@ -397,7 +397,7 @@ Some predicates take a nominative argument with non-sentient arguments \Next[a],
 - Mir ist zum Heulen im Sommer. Der Sommer ist zum Heulen. 
 - Mir ist langweilig im Sommer. Der Sommer ist langweilig.
 
-### --- [ ADJ > SBJ > Ø ] Conciliative --- {.unnumbered}
+### --- [ ADJ > SBJ > Ø ] Conciliative (\textsc{Instrumentsubjektivierung}) --- {.unnumbered}
 
 A \textsc{conciliative} is a diathesis in which an instrument-like artefact is promoted to nominative subject. This instrument is an intermediate (Lat. *conciliator*, 'intermediary/mediator') that is used by an agent to reach a certain goal.
 
@@ -430,7 +430,7 @@ With some verbs the old nominative can be retained as genitive possessor of the 
 - Wir ratterten mit dem Bus ins Inselinnere. Der Bus ratterte ins Inselinnere.
 - Der Sturm nimmt an Stärke zu. Die Stärke des Sturmes nimmt zu.
 
-### [ NpA | –NA ] Transitive conciliative (Instrumentsubjektivierung) {#sec:prepositions-transitive-conciliative}
+### [ NpA | –NA ] Transitive conciliative {#sec:prepositions-transitive-conciliative}
 
 This diathesis removes the agent and promotes the *mit* instrument to a nominative \Next[a,b]. The accusative argument remains unchanged. With some verbs the original nominative can be retained as possessor of the new nominative. However, just like with the previous alternation, this characteristic is not definitional for this diathesis.
 
@@ -485,11 +485,11 @@ This alternation takes a (non-governed) prepositional phrase and turns it into a
 - Ich schmecke Pfefferminze in der Suppe. Die Suppe schmeckt nach Pfefferminze
 - Ich rieche Blume im Parfüm. Der Parfüm riecht nach Blume.
 
-### --- [ PBJ > SBJ > Ø ] Fabricative --- {.unnumbered}
+### --- [ PBJ > SBJ > Ø ] Fabricative (\textsc{Kreationssubjektivierung})--- {.unnumbered}
 
 A \textsc{fabricative} (Lat *fabrica*, 'plan, trick, workmanship') is a diathesis that superficially looks very similar to a conciliative in German because in both diatheses a *mit* prepositional phrase is promoted to nominative subject. The central difference is that the *mit* prepositional phrase in a fabricative diathesis is a governed preposition. This structural difference has a parallel semantic difference in that the fabricative *mit* phrase is an object that is produced by the agent.
 
-### [ NPA | –NA ] Transitive fabricative (Kreationssubjektivierung) {#sec:prepositions-fabricative-accusative}
+### [ NPA | –NA ] Transitive fabricative {#sec:prepositions-fabricative-accusative}
 
 This diathesis occurs (among others) with verbs of emotional interactions like *überraschen* 'to surprise' \Next[a]. To understand this diathesis, a distinction is needed between the role of the 'fabricator', who produces the source (here: *Lehrer*, 'teacher') and the role of the 'fabricated product', which induces the emotion (here: *Aufgabe*, 'assignment'). The fabricator can be expressed with an adnominal genitive ('possessor') of the product \Next[a,b]. The *mit* prepositional phrase expressing the fabricated product in \Next[a] is a governed preposition \Next[c]. As a result of the diathesis, the fabricated product is be promoted to nominative subject and the fabricator is removed from the expression \Next[a,b]. The experiencer in the accusative remains unchanged.
 
@@ -561,7 +561,7 @@ The preposition *auf* is a governed preposition \Next.
 
 ## Diatheses with promotion to subject
 
-### --- [ Ø > SBJ > OBJ ] Causative --- {.unnumbered}
+### --- [ Ø > SBJ > OBJ ] Causative (\textsc{Ortskausativ}) --- {.unnumbered}
 
 ### [ –NL | NAL ] *haben* causative + location {#sec:prepositions-haben-caused-location}
 
@@ -992,7 +992,7 @@ Accusative objects that alternate with a *nach* prepositional phrase indicate an
 
 **Attested Verbs**
 
-- Attempted action towards: *greifen, schlagen, sehen, treten*
+- Attempted action towards: *greifen, schlagen, rufen, sehen, suchen, treten*
 - Object of hunting: *angeln, fischen, jagen*
 
 **Examples**
@@ -1000,6 +1000,7 @@ Accusative objects that alternate with a *nach* prepositional phrase indicate an
 - Ich sehe dich. Ich sehe nach dir
 - Ich suche den Ring. Ich suche nach dem Ring.
 - Ich trete den Ball. Ich trete nach dem Ball.
+- Ich rufe dich. Ich rufe nach dir.
 
 #### *auf* Antipassive
 
@@ -1260,13 +1261,12 @@ Note that it almost always possible to add a *für* benefactive phrase \Next[a],
 
 - *mit*  : *anfangen, beginnen, rechnen, zögern*
 - *an*   : *glauben, leiden*
-- *nach* : *rufen, suchen, verlangen*
+- *nach* : *verlangen*
 
 **Examples**
 
 - Ich fange mein Studium an. Ich fange mit meinem Studium an.
 - Ich rechne eine Flasche Wein pro Person. Ich rechne mit einer Flasche Wein pro Person
-- Ich rufe dich. Ich rufe nach dir.
 - Ich zögere mit den Maßnahmen. Ich zögere damit, Maßnahmen zu nehmen.
 
 **Notes**

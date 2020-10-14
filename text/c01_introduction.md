@@ -2,13 +2,13 @@
 
 ## The daunting diversity of diathesis
 
-The quintessential example of German diathesis, found in virtually every grammatical descriptions of German, is the *werden + Infinitiv* passive construction \Next[a]. The important characteristic of this construction is that the state-of-affairs as described by the passive is essentially the same as in the corresponding active \Next[b], though the grammatical structure of course differs between the two expressions.
+The quintessential example of German diathesis, found in virtually every grammatical descriptions of German, is the *werden + Infinitiv* passive construction \Next[a]. A central characteristic of this construction is that the state-of-affairs as described by this passive is essentially the same as in the corresponding active \Next[b], though the sentence structure of course differs between the two expressions.
 
 \ex.
  \a. Das Gemälde wird (von einem Künstler) gemalt.
  \b. Der Künstler malt ein Gemälde.
 
-This approach to diathesis, viz. different grammatical sentence-structures that express approximately the same situation, is applicable to a large number of grammatical phenomena in German. For example, some verbs allow for passive-like constructions without any *werden* auxiliary \Next[a], other verbs allow for an alternation between a case-marked accusative and a prepositional phrase \Next[b]. Further, there exist many different kinds of diathesis marked by a reflexive pronoun \Next[c] or marked by preverbs \Next[d]. Many auxiliary-like construction beyond the *werden* passive also show diathesis \Next[e].^[Many examples in this book contain masculine nouns, not because of laziness on my behalve, but because their definite articles overtly show the different German cases (*der, des, dem, den*). Notwithstanding this grammatical preference, I will try to use examples with as much diversity as possible throughout this book.]
+This approach to diathesis, viz. different grammatical sentence structures that express approximately the same state-of-affairs, is applicable to a large number of grammatical phenomena in German. For example, some verbs allow for passive-like constructions without any *werden* auxiliary, often called 'anticausative' \Next[a]. Other verbs allow for an alternation between a case-marked accusative and a prepositional phrase, often called 'antipassive' \Next[b]. Further, there exist many different kinds of diathesis marked by a reflexive pronoun *sich* \Next[c] or marked by preverbs like *ent-* \Next[d]. Many auxiliary-like construction beyond the *werden + Infinitiv* passive also show diathesis, e.g. *sein + zu + Infinitive* \Next[e].^[Many examples in this book contain masculine nouns, not because of laziness on my behalve, but because their definite articles overtly show the different German cases (*der, des, dem, den*). Notwithstanding this grammatical preference, I will try to use examples with as much diversity as possible throughout this book.]
 
 \ex.
  \a. Der Doktor heilt den Schmerz. Der Schmerz heilt (durch den Doktor).
@@ -17,19 +17,19 @@ This approach to diathesis, viz. different grammatical sentence-structures that 
  \d. Der Kandidat stammt aus einem Adelsgeschlecht. Der Kandidat entstammt einem Adelsgeschlecht
  \e. Der Ermittler löst den Fall. Der Fall ist (für den Ermittler) leicht zu lösen.
 
-All in all, there are about 200 different German diatheses described in this book, some highly productive, some only attested with a handful of verbs. The main goal of this book is to present this wealth of grammatical possibility in a unified manner, while at the same time attempting to classify and organise this diversity. There is no attempt made to fit all these constructional possibilities of the German language into any specific grammatical framework. However, by simply organising all this information there are already various generalisation popping up along the way.
+All in all, there are about 200 different German diatheses described in this book, some highly productive, some only attested for a handful of verbs. The main goal of this book is to present this wealth of grammatical possibility in a unified manner, while at the same time attempting to classify and organise this diversity. There is no attempt made to fit all these constructional possibilities of the German language into any specific grammatical framework. However, by simply organising all this information there are already various generalisation appearing along the way.
 
-It might come as a surprise that there are so many different diatheses in German, but my impression is that German is no exception among the world's languages in this respect. I expect that all languages have a wealth of different ways in which to construe a sentence around a lexical predicate. In a sense, diathesis allows for the expressions of different perspectives on the event described, something that is arguably a common desire of any language user. Looking at it this way, diathesis belongs squarely in the same domain of grammatical analysis like aspect or evidentiality.
+It might come as a surprise that there are so many different diatheses in German, but my impression is that German is no exception among the world's languages in this respect. I expect that all languages have a wealth of different ways in which to construe a sentence around a lexical predicate. In a sense, diatheses allow for the expression of different perspectives on the event described, something that is arguably a common desire of any language user. Looking at it this way, diathesis belongs squarely in the same domain of grammatical analysis as tense, aspect, mood or evidentiality.
 
-In this book, each diathesis has its own sub-subsection with an unique section header that can be used as a name to refer to the diathesis. Many of these unique names are quite boring, but hopefully descriptively useful for future reference. Individual verbs (often with concrete examples) are listed with each diathesis to show the extend of its applicability. Neither these lists of verbs, nor the examples, are intended to be exhaustive in any way. They should be seen as a first step towards more in-depth research into individual diatheses or into the different constructional possibilities that exist for individual verbs.
+In this book, each diathesis has its own sub-subsection with an unique section header that can be used as a name to refer to the diathesis. Many of these unique names are quite boring, but hopefully descriptively useful for future reference. Individual verbs (often with concrete examples) are listed with each diathesis to show the extend of its applicability. Neither these lists of verbs nor the examples are intended to be exhaustive in any way. They should be seen as a first step towards more in-depth research into individual diatheses or into the different constructional possibilities that exist for individual verbs.
 
 The current attempt to present a all-encompassing survey of German diathesis builds on a rich scholarly tradition (with many scholarly precursors to be cited in appropriate places throughout this work). A comparable and highly influential survey of diathesis for English is Levin [-@levin1993], followed by a similar attempt for German by Sauerland [-@sauerland1994]. A recent cross-linguistic survey of valency and diathesis in this tradition is edited by Malchukov & Comrie [-@malchukov2015a], which also includes data on German [@haspelmath2013a]. Independent of Levin's work, there is a long tradition in the German grammatical literature to investigate diathesis, e.g. as "Konversenverhältnis der Aktanten" [@eroms1980: 24; cf. @heringer1968]. Basic summaries of german diathesis in the context of valency can be found in Eroms [-@eroms2000: Ch. 10] or Ágel [-@agel2000: Ch. 6]. There even exist a few monographies about specific German diatheses [e.g. @leirbukt1997; @holl2010; @jager2013] and recently some corpus studies into the effect of specific diatheses on individual verbs have appeared [@devaere2018; @imo2018].
 
-Diathesis is of course closely linked to the concept of valency, so the groundbreaking valency dictionary for German by Helbig and Schenkel [-@helbig1991] deserves mentioning. They of course identify the problem that certain verbs can be used in different constructions, but such diatheses are not investigated in this dictionary. Another highly influential valency dictionary for German, edited by Schumacher [-@schumacher1986], consistently discusses passive diatheses for all verb.
+Diathesis is of course closely linked to the concept of valency, so the groundbreaking valency dictionary for German by Helbig and Schenkel [-@helbig1991] deserves mentioning. They identify the problem that certain verbs can be used in different constructions, but diatheses are not investigated in their dictionary. Another highly influential valency dictionary for German, edited by Schumacher [-@schumacher1986], consistently discusses passive diatheses for all verb. I see my survey of German diatheses as a first step in extending such valency dictionaries into even more all-encompassing dictionaries that discuss all possible clause constructions for each verb.
 
 ## Defining diathesis {#sec:intro-basic-defintion}
 
-A diathesis is defined here as special kind of alternation between two different clause constructions. To properly define the notion 'diathesis', I will first define 'alternation' in general. The definition of 'clause alternation' will be built on that basis. Finally, a diathesis will be defined as special kind of clause alternation. A few crucial concepts that are used in the following definitions will be discussed in more detail in subsequent sections.
+A diathesis is defined here as special kind of alternation between two different clause constructions. To properly define the notion 'diathesis', I will first define 'alternation' in general. Next, the definition of 'clause alternation' will be built on that basis. Finally, a diathesis will then be defined as special kind of clause alternation. A few crucial concepts that are used in the following definitions will be discussed in more detail in subsequent sections.
 
 An \textsc{alternation} (or simply 'grammatical marking') is defined as follows:
 
@@ -46,7 +46,7 @@ Based on this definition of an alternation, a \textsc{clause alternation} is def
 - In a clause alternation **both alternants are monoclausal**, i.e. both alternants contain a single main predicate. For German, the main argument for monoclausality will be a phenomenon called 'coherence'.
 - In both alternants, the **main predicate consists of the same lexeme**, i.e both contain the same verb.
 - The **meaning of the lexical verb does not change*** (substantially) between the alternants. 
-- The **meaning/function of the whole clause is different** between the alternants. This functional difference is the whole point of having an alternation in the first place.
+- The **meaning/function of the whole clause is different** between the alternants. This functional difference is the whole point of having a clause alternation in the first place.
 - The **lexical roles of the verb do not change** between the alternants. Lexical roles are an inherent part of the meaning of a verb and alternations do not change them. Note, however, that there might be new roles introduced or some roles might be left unexpressed.
 - A specific clause alternation is only applicable to a restricted set of verbs. The list of applicable verbs constitutes the **domain of application** of the alternation. Any semantic/syntactic characterisation of these applicable verbs should be seen as a summary of the domain of application, not its definition.
 
@@ -56,7 +56,7 @@ Clause alternations are widespread when auxiliaries are introduced, like modal *
  \a. Er erledigt seine Hausaufgaben. Er muss seine Hausaufgaben erledigen.
  \b. Ich esse den Apfel. Ich esse den Apfel auf.
  \c. Er hat das Haus angesehen. Er hat sich das Haus angesehen.
- \d. Er erledigt seine Hausaufgaben. Ich hoffe, dass er seine Hausaufgaben erledigt
+ \d. Er erledigt seine Hausaufgaben. Ich hoffe, dass er seine Hausaufgaben erledigt.
 
 Based on the notion of a clause alternation, a \textsc{diathesis} (sometimes also known as 'valency alternation') is defined as follows:
 
@@ -65,9 +65,9 @@ Based on the notion of a clause alternation, a \textsc{diathesis} (sometimes als
 - The details of the relation between the main predicate and the reframed roles can (and normally will) change. There will be **changes in meaning**, e.g. aspects like the role's influence on the action or its affectedness by the predicate might change.
 - As an extreme case, the reframing of a role might consist in the **addition** of a completely new role or in the **complete removal** of an existing role.
 - As is true for all alternations, a diathesis has a **direction** from a formally 'less marked' to a 'more marked' alternant. However, in some special instances a diathesis can show no other overt marking than the change in marking of the reframed roles itself, i.e. a **bare diathesis** (or 'equipollent' diathesis).
-- As a practical restriction, I will only consider diatheses in which one alternant is a clauses with a single finite verb ('active') without any special marking.
+- As a practical restriction, I will only consider diatheses in which one alternant is a clauses with a single finite verb ('active').
 
-The prototypical example of a diathesis is the *werden + Partizip* passive \Next[a], see [@sec:participles-werden-passive]. In both clause alternants the same state of affairs is described, but the marking of the participants is different. However, the diversity of diatheses in German is enormous as this book attempts to show. There are, for example, bare diatheses (i.e. diatheses without any marking on the verb) like the infamous anticausative in \Next[b], see [@sec:case-haben-anticausative], or antipassives marked with a reflexive pronouns as shown in \Next[c], see [@sec:reflexive-accusative-antipassive].
+The prototypical example of a diathesis is the *werden + Partizip* passive \Next[a], see [@sec:participles-werden-passive]. In both clause alternants the same state of affairs is described, but the marking of the participants is different. However, the diversity of diatheses in German is enormous as this book attempts to show. There are, for example, bare diatheses (i.e. diatheses without any marking on the verb) like the infamous anticausative in \Next[b], see [@sec:case-haben-anticausative], or antipassives marked with a reflexive pronoun as shown in \Next[c], see [@sec:reflexive-accusative-antipassive].
 
 \ex.
  \a. Der Schreiner hat den Tisch angemalt. Der Tisch wurde von den Schreiner angemalt.
@@ -140,7 +140,7 @@ In some intermediate cases both orders are possible, as shown in \Next. These co
 
 Maybe surprisingly, when the above definition of monoclausality is strictly followed, then there appear to be dozens of verbs that can be used as the finite 'auxiliary' in a coherent multi-verb construction. When used as finite auxiliaries, these verbs are strongly grammaticalised, i.e. they shed much of their lexical meaning when used in multi-verb constructions. Such grammaticalised verbs are classified into different groups and referred to by many different names in the German grammatical literature, e.g. *Hilfsverb*, *Kopulaverb*, *Modalverb*, *Modalitätsverb*, *Halbmodalverb* [@eisenberg2006a], *Funktionsverb* [Polenz 1963 cited in @kamber2008: 34], *Strukturverb* [@weber2005], or *Stützverb* [Seelbach 1991 cited in @kamber2008: 34]. I will not pursue the question here how to classify these verbs into different kinds. I will simply refer to the whole group of these 'auxiliary' verbs as \textsc{light verbs}. All light verbs that will be discussed in later chapters are shown here in alphabetical order in \Next, though note that not all of them are involved in diathesis. A minority of the verbs listed below are only attested in monoclausal alternation without diathesis.
 
-\ex. German light verbs: *anfangen, aufhören, aussehen, beginnen, bekommen, bleiben, brauchen, bringen, drohen, dürfen, erscheinen, fahren, finden, fühlen, geben, gehen, gehören, gelten, glauben, haben, halten, heißen, helfen, hören, kommen, kriegen, können, lassen, legen, lehren, liegen, machen, möchten, mögen, müssen, nehmen, pflegen, riechen, scheinen, schicken, sehen, sein, setzen, sollen, spüren, stehen, tun, versprechen, werden, wirken, wissen, wollen*
+\ex. German verbs that can be used as light verbs: *anfangen, aufhören, aussehen, beginnen, bekommen, bleiben, brauchen, bringen, drohen, dürfen, erscheinen, fahren, finden, fühlen, geben, gehen, gehören, gelten, glauben, haben, halten, heißen, helfen, hören, kommen, kriegen, können, lassen, legen, lehren, liegen, machen, möchten, mögen, müssen, nehmen, pflegen, riechen, scheinen, schicken, sehen, sein, setzen, sollen, spüren, stehen, tun, versprechen, werden, wirken, wissen, wollen*
 
 ### Grammaticalisation of lexical meaning
 
@@ -174,26 +174,26 @@ Second, all obligatory prepositional phrases are lexeme-specific roles. Such pre
  \c.    Ich breche ein Loch in den Felsen.
  \d. \* Ich breche ein Loch.
 
-Third, there is a large class of lexeme-specific prepositional phrases that I will call \textsc{governed prepositions}, like *arbeiten an* 'to work on' \Next[a]. These prepositional phrases are not obligatorily present \Next[b]. The intuition behind governed prepositions is that these prepositions are lexically determined by the verb and often strongly grammaticalised both semantically and structurally. Semantically, the preposition *an* in \Next[a] is strongly bleached with none of its local 'touching' meaning remaining. Syntactically, the prepositional phrase in *arbeiten an* can be filled with a complement clause of the form *daran, dass CLAUSE* \Next[c]. This syntactic criterion will be used as the main characteristic to identify governed prepositions. Various exceptions and stipulations to this criterion are discussed in [@sec:prepositions-delimiting-governed-prepositional-phrases]. 
+Third, there is a large class of lexeme-specific prepositional phrases that I will call \textsc{governed prepositions}, like *arbeiten an* 'to work on' \Next[a]. These prepositional phrases are not obligatorily present \Next[b]. The intuition behind governed prepositions is that these prepositions are lexically determined by the verb and often strongly grammaticalised both semantically and structurally. Semantically, the preposition *an* with the verb *arbeiten* 'to work' \Next[a] is strongly bleached with none of its local 'touching' meaning remaining. Syntactically, the prepositional phrase in *arbeiten an* can be filled with a complement clause of the form *daran, dass …* \Next[c]. This syntactic criterion will be used as the main characteristic to identify governed prepositions. Various exceptions and stipulations to this criterion are discussed in [@sec:prepositions-delimiting-governed-prepositional-phrases]. 
 
 \ex.
  \a. Ich arbeite an dem Buch.
  \b. Ich arbeite hart.
  \c. Ich arbeite daran, dass das Buch fertig wird.
 
-Such lexical roles are called 'verb-specific semantic roles' in Van Valin [-@van-valin2004] and 'microroles' in Hartmann et al. [-@hartmann2014]. The obvious next step (as discussed in both these papers) is to cluster such microroles into clusters of semantic/thematic mesoroles, i.e. widespread roles like 'agent', 'patiens', 'experiencer' etc. Such semantic roles are used constantly in contemporary linguistics, but they are surprisingly ill-defined. For example, given a random German verb like *füllen* as exemplified at the start of this section: what should be its semantic roles, and what criteria should be used to determine this? Hartmann et al. [-@hartmann2014] and Cysouw [-@cysouw2014a] use cross-linguistic data to approach this question. However, such an approach does not allow for language-specific definitions.
+Such lexeme-specific roles are called 'verb-specific semantic roles' in Van Valin [-@van-valin2004] and 'microroles' in Hartmann et al. [-@hartmann2014]. The obvious next step (as discussed in both these papers) is to cluster such microroles into clusters of semantic/thematic mesoroles, i.e. widespread roles like 'agent', 'patiens', 'experiencer' etc. Such semantic roles are used constantly in contemporary linguistics, but they are surprisingly ill-defined. For example, given a random German verb like *füllen* as exemplified at the start of this section: what should be its semantic roles, and what criteria should be used to determine this? Hartmann et al. [-@hartmann2014] and Cysouw [-@cysouw2014a] use cross-linguistic data to approach this question. However, such an approach does not allow for language-specific definitions, which is the problem in the current example of German.
 
-My proposal for a language-specific determination of semantic mesoroles is to use the applicability of diatheses as a criterion. For example, a 'patiens' in German might be defined as those lexical roles that are changed from accusative to nominative in the *werden* passive diathesis. Or more general: a semantic role can be defined by a combination of applicable diatheses. The research project to determine suitable combinations of diatheses will not be pursued here, but left for a follow-up investigation.
+My proposal for a language-specific determination of semantic mesoroles is to use the applicability of diatheses as a criterion. For example, a 'German Patiens' might be defined as those lexical roles that are changed from accusative to nominative in the *werden* passive diathesis. Or more general: a semantic role can be defined by a combination of applicable diatheses. The research project to determine suitable combinations of diatheses will not be pursued here, but left for a follow-up investigation.
 
 ### Domain of application
 
-A widespread assumption in linguistic analysis is that most alternations (including diatheses) have a sensible domain of application. This is the idea that there is some rationale, often a kind of semantic characterisation, explaining which roots allow for a specific kind of linguistic marking (e.g. only transitive verbs allow for a *werden* passive). Although I also believe that many alternations, including diatheses, mostly behave sensibly, I would also warn not to expect too much regular (semantic) generalisations being hidden grammatical structure. Many grammatical regularities have unexpected exceptions, be it because of haphazard diachronic changes or through partial analogical extension. Even stronger, some grammatical marking appears to be almost completely without (semantic) rationale, like the assignment of plural allomorphy in German.
+A widespread assumption in linguistic analysis is that most alternations (including diatheses) have a sensible domain of application. This is the idea that there is some rationale, often a kind of semantic characterisation, explaining which roots allow for a specific kind of linguistic marking (e.g. only transitive verbs allow for a *werden* passive). Although I also believe that many alternations, including diatheses, mostly behave sensibly, I would also warn not to expect too much regular (semantic) generalisations hidden in grammatical structure. Many grammatical regularities have unexpected exceptions, be it because of haphazard diachronic changes or through partial analogical extension. Even stronger, some grammatical marking appears to be almost completely without (semantic) rationale, like the assignment of plural allomorphy in German.
 
 As a practical approach to the domain of application of a specific alternation (say, which verbs allow for the *werden* passive or the reflexive anticausative), I propose to always first enumerate as much examples as possible. In this book, I will not be satisfied with four or five cases that suggest a neat semantic coherence for a specific diathesis, but list as many as possible further examples, idiosyncratic as they may be. Only after such a formal listing of the domain of application (which ideally needs much more corpus research as I have been able to perform here) is it possible to investigate the presence of any (semantic) rationale. In many cases there might be a partial rationale, but it is just as likely (and just as interestingly) to have to conclude that there apparently is none.
 
 Taking this principle one step further, I propose to *define* the domain of application as the concrete listing of all examples. Any (semantic) characterisation is then always a post-hoc generalisation, not a definition. This radically lexicalist interpretation is the approach that I will follow in this book. For each diathesis I will list as many as possible example verbs that take part in the diatheses (for some I will reverse the approach and list verbs that are not part of the domain of application). These lexical lists, ideally updated and completed in the future, are the definition of the domain of application. For some diatheses, I will speculate about semantic generalisations, but I consider these generalisations always to be secondary to the concrete listing of examples.
 
-This principle of the definition by listing even holds for questions of productivity. For example, when somebody would experimentally propose a nonce-verb like *flurchten* to be a new verb for the German language, then its meaning is partially defined by stating what kind of diatheses it can take part in. Depending on how such a new verb is contextualised, the following construction might or might not be judged grammatical. The choices that will be made influence the meaning of the verb.
+This principle of the definition by listing even holds for questions of productivity. For example, when somebody would propose a nonce-verb like *flurchten* to be a new verb for the German language in an experimental setting, then its meaning is partially defined by stating what kind of diatheses it can take part in. Depending on how such a new verb is contextualised, the following construction might or might not be judged grammatical. The choices that will be made influence the meaning of the verb.
 
 \ex.
  \a. Ich flurchte den X.
@@ -204,13 +204,13 @@ This principle of the definition by listing even holds for questions of producti
 
 ### Functional analysis
 
-Intimately connected to the domain of application (i.e. which verbs allow for which diathesis) is the question as to the meaning/function/usage of a specific diathesis. In essence, this question asks for a description of the difference between the meaning of the two alternants of a diathesis. For example, what is the difference between the transitive \Next[a] and the corresponding reflexive anticausative \Next[b], see [#sec:reflexive-anticausative].
+Intimately connected to the domain of application (i.e. which verbs allow for which diathesis) is the question as to the meaning/function of a specific diathesis. In essence, this question asks for a description of the difference between the meaning of the two alternants of a diathesis. For example, what is the difference between the transitive \Next[a] and the corresponding reflexive anticausative \Next[b], see [#sec:reflexive-anticausative].
 
 \ex.
  \a. Ich schließe die Tür.
  \b. Die Tür schließt sich. 
 
-In general, it turns out to be extremely difficult to give a concise description of such differences, and I will mostly refrain from trying to provide such descriptions. Each diathesis is actually its own research project, preferably investigated using predictive corpus analysis [cf. the large literature on the English dative alternation, for German see e.g. @devaere2018]. The actual lists of verbs that allow for a specific diatheses (i.e. the domain of application) also seems to be an important datapoint to investigate the function of a diathesis.
+In general, it turns out to be extremely difficult to give a concise description of such differences, and I will mostly refrain from trying to provide such descriptions. Each diathesis is actually its own research project, preferably investigated using predictive corpus analysis [cf. the large literature on the English dative alternation, for German see e.g. @devaere2018]. The actual lists of verbs that allow for a specific diatheses (i.e. the domain of application, see above) also seems to be an important datapoint to investigate the function of a diathesis.
 
 The problem of a functional description for a diathesis becomes even more difficult with the realisation that there are dozens of diatheses, often highly similar to each other. For example, it is really difficult [cf. @schafer2007; @kurogo2016] to characterise the difference between the reflexive anticausative above in \Last and the unmarked anticausative in \Next, see [@sec:case-haben-anticausative]? 
 
@@ -218,12 +218,11 @@ The problem of a functional description for a diathesis becomes even more diffic
  \a. Ich koche den Kaffee.
  \b. Der Kaffee kocht.
 
-An important side-note in this respect are those alternations that have similar formal characteristics as diatheses, but which do not have any role-remapping. Such sentence alternations are not considered to be diatheses here, but they are still discussed in the X.4 sections of each chapter. An example is the phenomenon of 'free' reflexives \Next, see [#sec:reflexive-free-dative-sich-accusative]. Again, it turns out to be really difficult to describe the difference between \Next[a] and \Next[b]. All sentence alternations, with or without role-remapping, are in need of a functional analysis, and most such analyses will involve substantial research.
+An important side-note in this respect are those alternations that have similar formal characteristics as diatheses, but which do not have any role-remapping. Such sentence alternations are not considered to be diatheses here, but they are still discussed in the \.4 sections of each chapter. An example is the phenomenon of 'free' reflexives \Next, see [#sec:reflexive-free-dative-sich-accusative]. Although there is no role-remapping in this alternation (and thus no diathesis), it turns out to be really difficult to describe the difference between \Next[a] and \Next[b]. All sentence alternations, with or without role-remapping, are in need of a functional analysis, and most such analyses will involve substantial research.
 
 \ex.
  \a. Ich habe das Haus angesehen.
  \b. Ich habe mir das Haus angesehen.
- \c. \* Ich habe ihm das Haus angesehen.
 
 ## Valency {#sec:intro-valency}
 
@@ -254,7 +253,7 @@ Additionally, it is of course possible to define a notion of \textsc{lexeme vale
  \b.    Der Chef isst immer noch.
  \c. \* Der Fond isst immer noch.
 
-### Arguments of utterance valency
+### Arguments of utterance valency {#sec:intro-arguments-utterance-valency}
 
 There are different kinds of utterance-valency arguments. First, all case marked noun phrase constituents are arguments, with a few exceptions that will be discussed in [@sec:case-delimiting-arguments]. Basically, case marked arguments \Next[a] can be questioned by question pronouns *wer* or *was*, including their case forms *wem*, *wen* and *wessen* \Next[b,c]. Further, they can be pronominalised by personal pronouns \Next[d] or indefine pronouns *(irgend)jemand* or *(irgend)etwas* \Next[e].
 
@@ -289,8 +288,6 @@ Finally, all complement clauses are arguments \Next[a,b], see Chapter [-@sec:sub
  \d. Er hofft es.
  \e. Er hofft etwas.
  \f. Er hofft auf eine gute Note.
-
-=> [TODO] different kinds of zeros? Obligatorily absent (i.e. impossible to express) vs. optionally absent (not expressed in a certain contexts). In most diatheses that involve absence (i.e. zeros), the whole point is that there is an alternation between absence and presence of a lexical role (e.g. in all drop and addition diatheses). The problematic cases are differences like passive vs. anticausative, which by definition are distinguished by possibility vs. impossibility for the agent to be expressed. This difference is highly volatile (i.e. it often differs from lexeme to lexeme whether it is possible or just dispreferred for an agent to be expressed), and I have to definitive solution how to principally deal with this difference.
 
 ### *es* Arguments
 
@@ -334,6 +331,10 @@ There are also a few rare cases in which there is a valency-simulating *es* in w
  \a. Ich habe es auf ihn abgesehen. (see [@sec:prepositions-nominative-es-preposition])
  \b. Wir haben es gut. (see [@sec:adverbials-accusative-es])
 
+### Adjuncts
+
+=> [TODO] different kinds of zeros? Obligatorily absent (i.e. impossible to express) vs. optionally absent (not expressed in a certain contexts). In most diatheses that involve absence (i.e. zeros), the whole point is that there is an alternation between absence and presence of a lexical role (e.g. in all drop and addition diatheses). The problematic cases are differences like passive vs. anticausative, which by definition are distinguished by possibility vs. impossibility for the agent to be expressed. This difference is highly volatile (i.e. it often differs from lexeme to lexeme whether it is possible or just dispreferred for an agent to be expressed), and I have to definitive solution how to principally deal with this difference.
+
 ## Voice
 
 ### Form
@@ -348,46 +349,34 @@ Note examples of 'grammaticalised obligatory stacking', i.e. preverb+reflexive, 
 
 ## Diathetical operations
 
+### Abbreviations
+
+In the analysis of diatheses in this book I will use the following abbreviations, as summarised in [@fig:abbreviations]. Grammatical expressions, i.e. actual grammatical forms as identified in traditional German grammar, are abbreviated with single letters. For case-marked noun phrases I will use easily recognizable capital letters: 'NADG' for nominative, accusative, dative and genitive respectively. As argued earlier (see [@sec:intro-arguments-utterance-valency]) there are also prepositional phrases that express lexically-determined roles. These will also be abbreviated with capital letters: 'L' for obligatory locations and 'P' for governed prepositional phrases.
+
+![Abbreviations used to describe role-remapping](figures/abbreviations.pdf){#fig:abbreviations}
+
+Lower-cased letters are used for non-argument participants in the clause: 'p' for non-governed prepositional phrases and 'g' for adnominal genitives. Absence of a specific role with be indicated by a '–' dash. Lower-cased 'a' and 'd' are only used in [@sec:reflexive-no-diathesis] to indicate accusative and dative reflexive pronouns in referential usage. As described in much detail in that chapter, it is important to distinguish between reflexive pronouns in German that refer to a lexical role ('referential' or 'real' reflexive constructions) and reflexive pronouns that mark a diathesis without referring to a role themselves.
+
+
+
+
 ### Remapping of roles
 
-For example, the diathesis in \Next, also known as the dative antipassive alternation (see [@sec:prepositions-dative-antipassive-accusative]) will be analysed as "[\ NAD\ |\ NAp\ ]". This should be read as follows: there is an alternation between a clause with 'NAD'-marked arguments (nominative, accusative, dative) and a clause with 'NAp' marking (nominative, accusative, non-governed preposition). The relative order of these letters is crucial, as the order of the roles remains fixed, e.g. the third letter 'D' dative corresponds to the 'p' non-governed preposition. Note that the actual arrangement of the letters is not fixed, as long as both sides of the alternation remain in the same order, i.e. "[\ NDA\ |\ NpA\ ]" or "[\ DNA\ |\ pNA\ ]" would be the same diathesis.
+For example, the diathesis in \Next, also known as the dative antipassive alternation (see [@sec:prepositions-dative-antipassive-accusative]) will be analysed as "[\ NAD\ |\ NAp\ ]". This should be read as follows: there is an alternation between a clause with 'NAD'-marked arguments (nominative, accusative, dative) and a clause with 'NAp' marking (nominative, accusative, non-governed preposition). The relative order of these letters is crucial, as the order of the roles remains fixed, e.g. the third letter 'D' dative corresponds to the 'p' non-governed preposition. Note that the actual arrangement of the letters is not fixed, as long as both sides of the alternation remain in the same order, i.e. "[\ NDA\ |\ NpA\ ]" or "[\ DNA\ |\ pNA\ ]" would be the same remapping pattern.
 
 \ex.
  \a. Ich schicke meiner Mutter Blumen.
  \b. Ich schicke Blumen an meine Mutter.
 
-classification of changes in role mapping ('diathetical operation') in three levels
+classification of changes in role mapping ('diathetical operation'):
 
-- 1) **Remapping Pattern** concrete remapping is specified for each diathesis, e.g. [ NA | –N ]. Because there are many recurring remappings, this characterisation is already a (detailed) classification
-- 2) **Local Semantic Group** groups of diatheses with similar semantics are grouped together
-- 3) **Remapping Macroroles** such groups are structurally analysed in terms of remapping SBJ – OBJ – PBJ - ADJ – Ø
-- 4) **Demotion/Promotion** subsections of each chapter (including symmetrical diatheses)
+- Level 1: **Diathesis**.
+- Level 2: **Remapping Pattern**. concrete remapping is specified for each diathesis, e.g. [ NA | –N ]. Because there are many recurring remappings, this characterisation is already a (detailed) classification
+- Level 3: **Semantic Group**. groups of diatheses with similar semantics are grouped together
+- Level 4: **Macrorole Pattern**. such groups are structurally analysed in terms of remapping SBJ – OBJ – PBJ - ADJ – Ø
+- Level 5: **Demotion/Promotion**. subsections of each chapter (including symmetrical diatheses)
 
-In the analysis of diatheses in this book I will use the following abbreviations for arguments. The argument in the nominative case in German additionally shows agreement with the finite verb (nominative cases in predicative function will not be considered here). I strictly define the \textsc{subject} of a clause as the nominative argument with verb agreement (abbreviated as 'SBJ'). All other arguments are different kinds of \textsc{objects} (abbreviated as 'OBJ').
 
-- N = Nominative case
-- A = Accusative case
-- D = Dative case
-- G = Genitive case
-
-![Abbreviations for grammatical expressions](figures/abbreviations.pdf){#fig:abbreviations}
-
-=> [TODO] PBJ "prepositional objects"
-
-- P = Lexically governed preposition
-- L = Obligatory location
-
-Lower-cased letters are used as abbreviations for non-argument participants in the clause. They are considered to be different kinds of adjuncts (abbreviated as 'ADJ').
-
-- g = Adnominal genitive
-- p = Non-governed preposition
-
-Two further lower-cased letters are used in Chapter 4 for referential uses of reflexive pronouns. As described in much detail in that chapter, it is important to distinguish between reflexive pronouns in German that refer to a lexical role ('referential' or 'real' reflexive constructions) and reflexive pronouns that mark a diathesis without referring to a role themselves.
-
-- a = referential accusative reflexive pronoun
-- d = referential dative reflexive pronoun
-
-Finally, unexpressed lexical roles are abbreviated with a dash '–' in the analyses of individual diatheses and as 'Ø' in the classification of diatheses.
 
 ### Chaining
 
