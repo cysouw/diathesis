@@ -901,8 +901,7 @@ Es scheint mit fast allen transitiven möglich zu sein
 
 Transitive Verben bei denen es nicht geht: 'Experiencer Subjects' and 'haben' Bare Antikausativ. Note recurrent possibility to use causative variant marked by verbprefix *be/ver/er/zer- *(if you add a 'real' causer then the anticausative is possible.)
 
-- ärgern (Er ärgert den Lehrer / \* Der Lehrer ist geärgert / verärgert)
-- beschweren
+- ärgern (Etwas ärgert den Lehrer / \* Der Lehrer ist geärgert / verärgert)
 - brauchen (Er braucht ein Auto / ? Das Auto ist gebraucht / verbraucht)
 - drücken (Sorgen drücken mich.)
 - ekeln (Etwas ekelt mich / \* Ich bin geekelt / angeekelt) 
@@ -910,9 +909,9 @@ Transitive Verben bei denen es nicht geht: 'Experiencer Subjects' and 'haben' Ba
 - ergeben (Die Transaktionen ergaben einen hohen Gewinn.)
 - feiern (Er feiert seinen Geburtstag / ? Der Geburtstag ist gefeiert)
 - freuen (Die Aussicht freut mich / \* ich bin gefreut / erfreut)
-- fühlen (Er fühlt den Stich / ? Der Stich ist gefühlt / erfühlt)
+- fühlen (Er fühlt den Stich / ? Der Stich ist gefühlt )
 - hassen (Er hasst seinen Nachbarn / ? Der Nachbar ist gehasst / verhasst)
-- hören (Er hört das Geräusch / ? Das Geräusch ist gehört erhört)
+- hören (Er hört das Geräusch / ? Das Geräusch ist gehört / ? erhört)
 - kennen (Ich kenne den Mann / \* Der Mann ist gekannt / bekannt)
 - kratzen (? Er kratzt seinen Arm / ? Der Arm ist gekratzt / verkratzt/zerkratzt)
 - kümmern
@@ -920,6 +919,7 @@ Transitive Verben bei denen es nicht geht: 'Experiencer Subjects' and 'haben' Ba
 - merken
 - mögen (Ich mag den Mann / ? Der Mann ist gemocht)
 - passen (Ich passe den Anzug / \* Der Anzug ist gepasst)
+- quälen
 - riechen
 - schmecken
 - schätzen (Er schätz seinen Mitarbeiter / \* Sein Mitarbeiter ist geschätzt)
@@ -934,56 +934,15 @@ Transitive Verben bei denen es nicht geht: 'Experiencer Subjects' and 'haben' Ba
 
 Maienborn: 102-103: Sie findet aber Beispiele bei Google!
 
-- wissen (Ich weiß die Antword \* Die Antwort ist gewusst)
+- wissen (Ich weiß die Antwort \* Die Antwort ist gewusst)
 - heiraten (Ich heirate meinen Freund \* Mein Freund ist geheiratet / verheiratet)
 - streicheln (Ich streichele den Hund \* Der Hund ist gestreichelt)
 - zeigen (Ich zeige dir meine Schätze \* Meine Schätze sind gezeigt)
 
 ???
 
-- aufhalten (Die Einzelheiten halten den Mann auf.) Der aufgehaltene Mann
-- stören (Der Lärm stört den Mann. Der gestörte Mann)
-
-For verbs with dative argument, sometimes possible, sometimes not...
-
-- antworten (Ich antworte dir auf deine Frage. \* Du bist geantwortet. Deine Frage ist beantwortet.)
-
-But, other experiencers that seem to allow this construction:
-
-- anwidert (ich habe ihn angewidert / er ist angewidert)
-- amüsieren (ich habe ihn amüsiert / er ist amüsiert)
-- enttäuschen (ich habe ihn enttäuscht / er ist enttäuscht)
-- überraschen (ich habe ihn überrascht / er ist überrascht)
-- interessieren (ich habe ihn interessiert / er ist interessiert)
-
-Verbs with Prepositional reflexive passive have only one possible anticausative? Of course, because only one alternant is transitive! Preposition for anticausative (here: in) is not necessarily the same as for the reflexive passive (here: für)
-
-- Mathematik interessiert den Schüler. 
-- Perfekt: Mathematik hat den Schüler interessiert.
-- Anticausative: Der Schüler ist in Mathematik interessiert. 
-- Reflexive passive: Der Schüler interessiert sich für Mathematik
-- Perfekt reflexive passive: Der Schüler hat sich für Mathematik interessiert.
-
-Often the prepositions are identical (e.g. mit):
-
-- Das Problem beschäftigt den Schüler. 
-- Perfekt: Das Problem hat den Schüler beschäftigt.
-- Anticausative: Der Schüler ist mit dem Problem beschäftigt.
-- Reflexive passive: Der Schüler beschäftigt sich mit dem Problem
-- Perfekt Reflexive passive: Der Schüler hat sich mit dem Problem beschäftigt.
-
-- Der Lärm ärgert den Lehrer.
-- Der Lärm hat den Lehrer geärgert.
-- ? Der Lehrer ist geärgert durch den Lärm. (bis ± 1750 möglich)
-- Der Lehrer ärgert sich über den Lärm.
-- Der Lehrer hat sich über den Lärm geärgert.
-
-Retention of agent with different preposition? No: different roles!!!
-
-- Die Nachricht hat mich verärgert. ich bin verärgert ?über/!durch die Nachricht.
-- Die Nachricht hat mich verstört. Ich bin verstört ?über/!durch die Nachricht.
-- Die Nachricht des Todes verstört den Mann / hat den Mann verstört
-- Der Mann ist verstört
+- aufhalten (Die Einzelheiten halten den Mann auf. Der Mann ist aufgehalten
+- stören (Der Lärm stört den Mann. Der Mann ist gestört)
 
 ### [ NDA | –NA ] *haben + Partizip* Dative anticausative + accusative {#sec:participles-haben-passive}
 
@@ -1077,6 +1036,44 @@ Subject-less???
 
 - Gegen den Feind gehört gekämpft.
 - Dem Studenten gehört geholfen.
+
+### --- [ OBJ > SBJ > PBJ ] Conversive --- {.unnumbered}
+
+### [ NA | PN ] *sein + Partizip* Conversive
+
+something like *Zustandspassiv* for Reflexive Conversive, though not always possible
+
+Note different preposition in some cases like 'interessieren'!
+
+\ex.
+ \a. Mathematik interessiert den Schüler. Mathematik hat den Schüler interessiert.
+ \b. Der Schüler interessiert sich für Mathematik. Der Schüler hat sich für Mathematik interessiert.
+ \c. Der Schüler ist in Mathematik interessiert. 
+
+\ex.
+ \a. Der Lärm ärgert mich. Der Lärm hat mich geärgert.
+ \b. Ich ärgere mich über den Lärm. Ich habe mich über den Lärm geärgert.
+ \c. \* Ich bin geärgert über den Lärm. (only in older examples before ±1750)
+
+**Attested Verbs**
+
+- *von*  : *anekeln, anstrengen, anwidern*
+- *über* : *amüsieren, aufregen, begeistern, entsetzen, enttäuschen, empören, erfreuen, erstaunen, überraschen, verärgern, verstören, verwundern*
+- *in*   : *interessieren, langweilen*
+- *mit*  : *beschäftigen*
+- *durch*: *entspannen*
+
+**Examples**
+
+- Der Geruch hat ihn angewidert. Er ist angewidert von dem Geruch.
+- Der Witz hat ihn amüsiert. Er ist amüsiert über den Witz.
+- Dein Benehmen hat ihn enttäuscht. Er ist enttäuscht über dein Benehmen.
+- Das Problem beschäftigt den Schüler. Der Schüler ist mit dem Problem beschäftigt.
+- Die Nachricht verärgert mich. Ich bin verärgert über die Nachricht.
+- Die Nachricht verstört mich. Ich bin verstört über die Nachricht.
+- Die Schule langweilt mich. Ich bin gelangweilt in der Schule.
+- Deine Massage entspannt mich. Ich bin entspannt durch deinen Massage.
+- Deine Leistung entsetzt mich. Ich bin entsetzt über deine Leistung.
 
 ### --- [ OBJ > SBJ > Ø] Appearance anticausative --- {.unnumbered}
 
@@ -1206,9 +1203,11 @@ geben Mit reflexivprononem!
 
 "state-of-mind": *geschlagen, reserviert, gelöst, entspannt, aufgeräumt, aufgeklärt*
 
+sowohl passives 'hingeben' (gibt sich geschlagen), wie auch aktives 'sich vortun' (gibt sich aufgeräumt)
+
 - Er gibt sich regional verwurzelt
 
-from reflexive: *entspannt*?
+with preposition [NA|PN]: entspannen, lösen
 
 - Er entspannt sich -> er ist entspannt -> er gibt sich entspannt
 - No: Etwas entspannt ihn

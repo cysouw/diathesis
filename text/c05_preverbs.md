@@ -431,7 +431,7 @@ Some further anticausatives need an additional reflexive pronoun, like with *fan
 
 ### [ NL | -N ] Preverb location anticausative {#sec:preverb-preposition-anticausative}
 
-Lipka [-@lipka1972: 93-94] calls this 'Subjektvertauschung', which he claims is 'quite frequent in German.' However, I do not know of any other examples of this diathesis except for the example given by Lipka, namely the diathesis between *laufen + aus* and *auslaufen*, both meaning approximately 'to empty' \Next[a,b]. Hundsnurscher [-@hundsnurscher1968: 130ff.] discusses many examples that might be semantically similar, but do not show diathesis (e.g. tröpfeln/auströpfeln). For historical context, see Carlberg [-@carlberg1948] for more about the history of the terminology and the relation to metonymy. For the counterpart 'Objektvertauschung', see [@sec:preverb-location-antiresultative]
+Lipka [-@lipka1972: 93-94] calls this 'Subjektvertauschung', which he claims is 'quite frequent in German.' However, I do not know of any other examples of this diathesis except for the example given by Lipka, namely the diathesis between *laufen + aus* and *auslaufen*, both meaning approximately 'to empty' \Next[a,b]. It might be that Lipka intended to use this term for what is commonly called 'anticausative', but then his example was ill-chosen. Hundsnurscher [-@hundsnurscher1968: 130ff.] discusses many examples that might be semantically similar, but do not show diathesis (e.g. *tröpfeln/auströpfeln*). For historical context, see Carlberg [-@carlberg1948] for more about the history of the terminology and the relation to metonymy. For the counterpart 'Objektvertauschung', see [@sec:preverb-location-antiresultative]
 
 \ex.
  \a. Das Wasser ist aus der Flasche gelaufen.
@@ -530,7 +530,7 @@ There are also prefixed adjectives in which an accusative object is added (see [
 
 - beˈ-  : *ängstig, fähig, frei, günstig, grün, ruhig, schuldig, schwer*
 - erˈ-  : *bitter, böse, hart, hell, hoch, kalt, leichter, matt, müde, munter, mutig, neu, niedrig, rege, schlaff, weich*
-- verˈ- : *besser, deutlich, dunkel, edel, einfach, harmlos, herrlich, länger, niedlich, kurz, schön, schöner*
+- verˈ- : *besser, breit, deutlich, dunkel, edel, einfach, eng, größer, harmlos, herrlich, länger, niedlich, klein, kurz, länger, langsam, mehr, schön, schöner, start*
 - zerˈ- : *mürbe*
 - entˈ- : *rund*
 
@@ -1065,7 +1065,7 @@ The verb *büßen* 'to pay for something' needs a governed preposition, while *b
 
 - Sie vertraut mir. Sie vertraut mir ein Geheimnis an.
 
-### [ N–A | NDA ] Preverb dative addition + accusative
+### [ N–A | NDA ] Preverb dative addition + accusative {#sec:preverb-dative-additions}
 
 **Attested Verbs**
 

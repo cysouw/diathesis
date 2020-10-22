@@ -1,4 +1,4 @@
-# Reflexive pronoun alternations
+# Reflexive pronoun alternations {#sec:reflexive}
 
 ## Introduction
 
@@ -1107,7 +1107,7 @@ This might be more widespread with 'free datives' \Next[a], but the grammatical 
 - Das Register erschließt ihm den Inhalt. Der Inhalt hat sich ihm erschlossen.
 - Ich biete dir eine Lösung an. Eine Lösung bietet sich dir an.
 
-### [ NAP | –NP ] Reflexive anticausative + governed preposition
+### [ NAP | –NP ] Reflexive anticausative + governed preposition {#sec:reflexive-anticausative-governed-preposition}
 
 Less widespread, some verbs with an accusative and a preposition allow for an anticausative marked with a reflexive pronoun \Next. With the preposition *an* and *auf* the preposition is a governed preposition \Next[c]. 
 
@@ -1128,7 +1128,7 @@ Less widespread, some verbs with an accusative and a preposition allow for an an
 
 ### [ NAp | –Np ] Reflexive anticausative + non-governed preposition
 
-With the preposition *mit* or *von* the prepositional phrase is not governed \Next. There is a close affinity with *-einander* reciprocals \Next[c], see [@] Section: *sich einander* preposition reciprocal)
+With the preposition *mit* or *von* the prepositional phrase is not governed \Next. There is a close affinity with *-einander* reciprocals \Next[c], see Section: *sich einander* preposition reciprocal)
 
 \ex.
  \a. Ich verbinde die Lampe mit dem Stromnetz. 
@@ -1152,7 +1152,7 @@ With the preposition *mit* or *von* the prepositional phrase is not governed \Ne
 
 ### [ NAL | –NL ] Reflexive anticausative + location
 
-Similarly, some verbs with a resultative alternation \Next[a,b], see [@sec:prepositions-transitive-location-as-result], allow for a reflexive anticausative \Next[c].
+Some verbs with a resultative alternation \Next[a,b], see [@sec:prepositions-transitive-location-as-result], allow for a reflexive anticausative \Next[c].
 
 \ex.
  \a. Der Bauer hat den Pflug gezogen.
@@ -1206,7 +1206,7 @@ In many of these verbs, the role of the reflexive argument appears to be more of
 - *mit*   : *aufhalten, beschäftigen, entspannen, schmücken, quälen, unterhalten, überlagern*
 - *für*   : *interessieren*
 - *bei*   : *anstrengen, beruhigen, entsetzen*
-- *durch* : *auszeichnen, verraten, entspannen*
+- *durch* : *auszeichnen, entspannen, lösen, verraten*
 
 **Examples**
 
@@ -1245,6 +1245,7 @@ In many of these verbs, the role of the reflexive argument appears to be more of
 - Der Referenzstrahl überlagert den Pulslaser. Der Pulslaser überlagert sich dabei mit einem Referenzstrahl.
 - Der Anblick entsetzte sie. Bei diesem Anblick entsetzte sie sich.
 - Die Schule langweilt mich. Ich langweile mich in der Schule.
+- diese Arznei löst den Schleim. Der Schleim löst sich durch diese Arznei.
 
 **Notes**
 

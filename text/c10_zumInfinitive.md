@@ -9,6 +9,11 @@ Konstruktionen mit *am/zum*. Wegen Artikel werden die Infinitive hier meistens g
 *bringen, stellen, setzen, setzen, ziehen, haben, halten* (Transitiv)
 *kommen, gelangen, sein, bleiben, stehen* (Intransitiv)
 
+Vergleich adverbiale Benutzung der nominalisierte Verben?
+
+beim Aufstehen
+Nach dem Aufstehen
+
 ## Definitions
 
 ## Verbs without alternations
@@ -53,7 +58,7 @@ Agens als Genitiv: kein progressiv!
 
 Patiens als Akkusativ
 
-- \* Sie ist die Reise beim Planen 
+- \* Sie ist die Reise beim Planen (Sie ist beim Planen der Reise)
 - Sie ist die Reise am Planen
 
 ### *gehen/kommen/fahren + zum + Infinitiv*

@@ -1439,9 +1439,9 @@ Similar to intransitive resultatives (see [@sec:prepositions-intransitive-locati
 - Ich hetze den Hund. Ich hetze den Hund auf dich.
 - Ich grabe ein Loch. Die Skifahrer gruben Spuren in den Schnee.
 
-### [ NA– | NAP ] Performative result
+### [ NA– | NAp ] Performative result
 
-A slightly different variant of a resultative constructions is found with various performative verbs that take a regular accusative \Next[a]. As an alternative structure, these verbs also allow a construction with a preposition \Next[b]. The meaning of such constructions is parallel to the previous resultatives, in that the performative verb causes the result "accusative is prepositional object" \Next[c]. Such constructions were named quite aptly "Ergänzende Wirkung" all the way back in the influential educational grammatical work of Karl Ferdinand Becker [@becker1833: 81] almost 200 years ago.
+A slightly different variant of a resultative constructions is found with various performative verbs that take a regular accusative \Next[a]. As an alternative structure, these verbs also allow a construction with an accusative and a preposition \Next[b]. The meaning of such constructions is parallel to the previous resultatives, in that the performative verb causes the result "accusative is prepositional object" \Next[c]. Such constructions were named quite aptly "Ergänzende Wirkung" all the way back in the influential educational grammatical work of Karl Ferdinand Becker [@becker1833: 81] almost 200 years ago.
 
 \ex.
  \a. Er macht die Aufgaben. 
@@ -1453,16 +1453,18 @@ A slightly different variant of a resultative constructions is found with variou
 - *zu*  : *erklären, machen*
 - *für* : *halten, erklären*
 - *als* : *ansehen, betrachten*
+- *in*  : *schneiden*
 
 **Examples**
 
 - Sie erklärte das Problem. Sie erklärte die Behauptung für eine Lüge.
 - Ich betrachte das Gemälde. Ich betrachte dich als einen Freund.
 - Ich sehe das Gemälde an. Ich sehe dich als einen Freund an.
+- Ich schneide meine Nägel. Ich schneide den Apfel in Stücke.
 
 **Notes**
 
-For some verbs the role marked by the accusative seems to change between the two alternants:
+For some verbs there appears to be a rather clear grammaticalisation of the meaning of the verb between the two alternants:
 
 - Ich halte das Schwert. Ich halte dich für einen Scharlatan.
 - Sie erklärte die Lösung. Sie erklärte den Kandidaten zum Geschäftsführer.

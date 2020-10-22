@@ -347,64 +347,116 @@ The actual linguistic marking of the diathesis (for example by verbal morphology
 
 Note examples of 'grammaticalised obligatory stacking', i.e. preverb+reflexive, light verb+adverbial
 
+NAg–– Der Arzt schneidet seinen Nagel
+NLg–– Der Arzt schneidet in seinen Nagel (anticausative)
+NLD–– Der Arzt schneidet ihm in den Nagel (possessor raising)
+NLDA– Der Arzt schneidet ihm einen Schlitz in den Nagel (resultative)
+NLDAp Der Arzt schneidet ihm einen Schlitz in den Nagel mit dem Bohrer (adjunct addition)
+–LDAN Der Bohrer schneidet ihm einen Schlitz in den Nagel (instrument anticausative/conciliative)
+NL–AA Der Arzt lässt den Bohrer (ihm) einen Schlitz in den Nagel schneiden (causative)
+
+
 ## Diathetical operations
 
 ### Abbreviations
 
-In the analysis of diatheses in this book I will use the following abbreviations, as summarised in [@fig:abbreviations]. Grammatical expressions, i.e. actual grammatical forms as identified in traditional German grammar, are abbreviated with single letters. For case-marked noun phrases I will use easily recognizable capital letters: 'NADG' for nominative, accusative, dative and genitive respectively. As argued earlier (see [@sec:intro-arguments-utterance-valency]) there are also prepositional phrases that express lexically-determined roles. These will also be abbreviated with capital letters: 'L' for obligatory locations and 'P' for governed prepositional phrases.
+In the analysis of diathetical operations in this book I will use the following abbreviations, as summarised in [@fig:abbreviations]. First, \textsc{grammatical expressions}, i.e. actual grammatical forms as identified in traditional German grammar, are abbreviated with single letters, shown at the right side of the figure. For case-marked noun phrases I will use the easily recognizable capital letters 'NADG' for nominative, accusative, dative and genitive respectively. As argued earlier (see [@sec:intro-arguments-utterance-valency]) there are also prepositional phrases that express lexically-determined roles. These will also be abbreviated with capital letters: 'L' for obligatory locations and 'P' for governed prepositional phrases.
 
 ![Abbreviations used to describe role-remapping](figures/abbreviations.pdf){#fig:abbreviations}
 
-Lower-cased letters are used for non-argument participants in the clause: 'p' for non-governed prepositional phrases and 'g' for adnominal genitives. Absence of a specific role with be indicated by a '–' dash. Lower-cased 'a' and 'd' are only used in [@sec:reflexive-no-diathesis] to indicate accusative and dative reflexive pronouns in referential usage. As described in much detail in that chapter, it is important to distinguish between reflexive pronouns in German that refer to a lexical role ('referential' or 'real' reflexive constructions) and reflexive pronouns that mark a diathesis without referring to a role themselves.
+Lower-cased letters are used for non-argument participants in the clause: 'p' for non-governed prepositional phrases and 'g' for adnominal genitives. Absence of a specific role with be indicated by a '–' dash. Lower-cased 'a' and 'd' are only used in [@sec:reflexive-no-diathesis] to indicate accusative and dative reflexive pronouns in referential usage. As described in much detail in that chapter, it is important to distinguish between reflexive pronouns in German that refer to a lexical role (i.e. 'referential' or 'real' reflexive constructions) and reflexive pronouns that mark a diathesis without referring to a role themselves. Those latter reflexive pronouns are not marking any roles, so they are not abbreviated by lowercased 'a' or 'd'.
 
+Besides single-letter abbreviations I will also use capitalised three-letter abbreviations for a more abstract level of analysis. As summarised at the left side of [@fig:abbreviations], the grammatical expressions are grouped into sets of \textsc{grammatical macroroles}, mostly along familiar lines. This grouping is not necessarily the best or most optimal grouping, but this grouping has emerged to be useful to organise the large diversity of diatheses in this book. The notion \textsc{subject} (SBJ) is used for governed nominative phrases. There are various other nominatively-marked phrases in German grammar which are not included here (e.g. in nominal or equational predication like *der Täter* in *Er ist der Täter*). The other case-marked governed phrases are combined as \textsc{cased objects} (OBJ). Together with the \textsc{prepositional objects} (PBJ) they form a superclass of objects. Non-governed phrases are separated in \textsc{overtly expressed adjuncts} (ADJ) and unexpressed roles (Ø).
 
-
+It is imperative to realise that the macroroles are defined in a language-specific way for German grammar as groupings of language-specific German expressions (e.g. ADJ is defined as being either a non-governed prepositional phrase or an adnominal genitive). The names that are used (e.g. 'object' or 'adjunct') deliberately conjure up general cross-linguistic associations, but it remains to be seen whether similar definitions as used here are also useful for other languages. I will refrain from any cross-linguistic speculation in this context here.
 
 ### Remapping of roles
 
-For example, the diathesis in \Next, also known as the dative antipassive alternation (see [@sec:prepositions-dative-antipassive-accusative]) will be analysed as "[\ NAD\ |\ NAp\ ]". This should be read as follows: there is an alternation between a clause with 'NAD'-marked arguments (nominative, accusative, dative) and a clause with 'NAp' marking (nominative, accusative, non-governed preposition). The relative order of these letters is crucial, as the order of the roles remains fixed, e.g. the third letter 'D' dative corresponds to the 'p' non-governed preposition. Note that the actual arrangement of the letters is not fixed, as long as both sides of the alternation remain in the same order, i.e. "[\ NDA\ |\ NpA\ ]" or "[\ DNA\ |\ pNA\ ]" would be the same remapping pattern.
+Using the abbreviations as summarised in [@fig:abbreviations] I will organise and categorise the role-remapping of all diatheses in various levels of abstraction. These different categorisations inform the practical organisation of each chapter.
+
+**Level 1: Diathesis**. Each diathesis is summarised in its own subsubsection. The establishment of an individual diathesis is not always obvious, and each diathesis in this book is already an conscious categorisation (which could be wrong). It has actually been a voyage of discovery in the preparation of this book to decide when to consider a set of examples to be a single diathesis. Very often erstwhile single diatheses turned out to be better analysed by a split into various different diatheses. Although I am rather confident in the quality of the current decisions, I expect that further refinements are necessary in the future.
+
+**Level 2: Remapping Pattern**. The role-remapping of each diathesis is analysed using the single-letter abbreviations (NADGPLpgad–) from [@fig:abbreviations]. A remapping is specified as an ordered listing of grammatical expressions for roles, both before and after the diathesis. For example, [ NA | –N ] is a diathesis that involves two roles that are marked 'NA' before the diathesis and '–N' after the diathesis. Because there are many diatheses with this same pattern, this characterisation is already an (implicit) classification.
+
+**Level 3: Local Group**. Groups of diatheses with similar semantics within each chapter are grouped together as a local group. These groups are rather ad-hoc and mainly represent a convenience-summary to streamline the presentation. Local groups are unnumbered subsections, indicated graphically with dashes around the name of the local group.
+
+**Level 4: Macrorole Pattern**. The remapping of each local group is structurally analysed in terms of the three-letter macroroles (SBJ, OBJ, PBJ, ADJ, Ø) from [@fig:abbreviations]. For example, the remapping from above [ NA | –N ] includes both a change from N to zero (i.e. SBJ > Ø) and a change from A to N (i.e. OBJ > SBJ). These two macrorole changes can be combined into a single macrorole patter [\ OBJ\ >\ SBJ\ >\ Ø\ ].
+
+**Level 5: Promotion/Demotion**. On the most abstract level, all diatheses are separated into subsections of either demotion or promotion (with only very few diatheses being symmetrical exchanges). Basically, each remapping is evaluated on the macrorole hierarchy \Next with role-remapping upwards being promotion and role-remapping downward being demotion. Note that there is a crucial additional criterion necessary, because the majority of diatheses consist of two coinciding remappings (see [@sec:intro-chaining]). In such remappings, the largest jump on the macrorole hierarchy defines a diathesis as being demotion or promotion.
+
+\ex. Macrorole Hierarchy: SBJ >> OBJ >> PBJ >> ADJ >> Ø 
+
+For example, the diathesis in \Next will be analysed as a \textsc{remapping pattern} [\ NA\ |\ –N\ ], see [@sec:reflexive-anticausative]. This should be read as follows: there is an alternation between a clause with 'NA' arguments (nominative, accusative) and a clause with only 'N' marking (nominative). The relative order of these letters is crucial, as the order of the roles remains fixed in this notation, e.g. the second letter on the left 'A' (accusative) corresponds to the second letter on the right 'N' (nominative). The '–' dash on the right indicates that the corresponding 'N' on the left is not expressed. Note that the actual linear arrangement of the letters is flexible, as long as both sides of the alternation remain in the same order, i.e. [\ AN\ |\ N–\ ] would be the same remapping pattern. The remapping pattern [\ NA\ |\ –N\ ] is an implicit categorisation, because there are many other diatheses that have exactly the same pattern (e.g. see [@sec:case-haben-anticausative; @sec:adverbial-reflexive-transitive-anticausative; @sec:participles-sein-zustandspassiv]).
 
 \ex.
- \a. Ich schicke meiner Mutter Blumen.
- \b. Ich schicke Blumen an meine Mutter.
+ \a. Ich schließe die Tür.
+ \b. Die Tür schließt sich. 
 
-classification of changes in role mapping ('diathetical operation'):
+Although there is a reflexive pronoun in \Last[b], this pronoun is not included with a lower-cased 'a' in the remapping pattern [\ NA\ |\ –N\ ], because this reflexive pronoun does not refer to a separate role. The verb *schließen* 'to close' implies at least two different roles, the 'closer' and the 'closed object', expressed as nominative and accusative in \Last[a], respectively. In \Last[b] only the role of 'closed object' is expressed as nominative. The reflexive pronoun does not refer to any other role.
 
-- Level 1: **Diathesis**.
-- Level 2: **Remapping Pattern**. concrete remapping is specified for each diathesis, e.g. [ NA | –N ]. Because there are many recurring remappings, this characterisation is already a (detailed) classification
-- Level 3: **Semantic Group**. groups of diatheses with similar semantics are grouped together
-- Level 4: **Macrorole Pattern**. such groups are structurally analysed in terms of remapping SBJ – OBJ – PBJ - ADJ – Ø
-- Level 5: **Demotion/Promotion**. subsections of each chapter (including symmetrical diatheses)
+I interpret the reflexive pronoun in \Last as a marker of the diathesis itself (see Chapter [-@sec:reflexive] for an extensive discussion), so there is an overt direction in the markedness from \Last[a] to \Last[b]. The '|' bar in the middle of the remapping pattern [\ NA\ |\ –N\ ] implies this direction in markedness, i.e. left side describes the unmarked alternant and the right the marked alternant. Reordering the remapping pattern would result in a completely reversed diathesis [\ –N\ |\ NA\ ].
+
+The diathesis in \Last is one of various examples of a \textsc{local group} called 'reflexive antipassive'. Other diatheses in this group include examples like \Next with an additional governed preposition, analysed with the remapping pattern [\ NAP\ |\ –NP\ ], see [@sec:reflexive-anticausative-governed-preposition]. All diatheses in this local group have the same \textsc{macrorole pattern}, namely [\ OBJ\ >\ SBJ\ >\ Ø\ ], i.e a cased object is turned into nominative subject, which is turned into zero (i.e. unexpressed).
+
+This diathesis is a combination of two different remappings (OBJ>SBJ and SBJ>Ø), with the first being a promotion on the macrorole hierarchy and the second a demotion. However, because the second remapping (SBJ>Ø) is a larger jump on the hierarchy, the complete combination is categorised as a \textsc{demotion}.
+
+\ex.
+ \a. Das Lied erinnert den Mann an den Krieg.
+ \b. Der Mann erinnert sich an den Krieg.
+
+So, in summary, the role-remapping in the diathesis \Last is categorised as:
+
+1. **Diathesis**: Reflexive antipassive + governed preposition
+2. **Remapping Pattern**: [\ NAP\ |\ –NP\ ]
+3. **Local Group**: Reflexive antipassive
+4. **Macrorole Pattern**: [\ OBJ\ >\ SBJ\ >\ Ø\ ]
+5. **Promotion/Demotion**: Demotion
+
+### Chaining {#sec:intro-chaining}
 
 
 
-### Chaining
+- **Isolated Diathesis**: One role changes its formal marking.
+- **Chained Diathesis**: Two roles change their formal marking, forming a chain in which one role changes its form from X to Y, while the other role changes its form from Y to Z.
+- **Multi-chained Diathesis**: More than two roles change their formal marking, forming a longer chain of connected changes.
+- **Disjunct Diathesis**: Two (or more) roles change their formal marking, with no overlap between marking.
 
-- isolated diathesis: only one participant changes its form
-- chained diathesis: two participant change form, with (at least) one marking being exchanged
-- multi-chained diathesis: more than two (unusual)
-- disjunct diathesis: two (or more) participants change form, no overlap between marking (unusal)
+
+- Multi-chained diatheses are highly
 
 Generalisation: Subject-diatheses are almost all chained
 Generalisation: disjunct diatheses are very unusual overall
 
 Object-chained diatheses can be analysed as a combination of two diatheses, subject-chains seem more integrated
 
-- multi-chained
+#### Isolated diatheses
 
-ADJ > SBJ > OBJ > Ø, see [@sec:preverb-inverted-passive-accusative-loss]
+#### Chained diatheses
 
-\ex.
- \a. Ich erbe das Haus von meinem Vater.
- \b. Mein Vater enterbt mich.
+#### Multi-chained diatheses
 
-OBJ > ADJ > SBJ > Ø, see [@sec:prepositions-ingredient-anticausative]
+Multi-chained diatheses consist of combinations of more than two role-remappings that occur in a sequence. This occurs frequently as the result of a stack of multiple diatheses, but only very rarely in a single diathesis. For example, taking a simple transitive verb like *lesen* 'to read' \Next[a] and applying a stack of two diatheses \Next[b,c], leads to a chain of three role-remappings. First, the preverb diathesis with *vor-* \Next[b] leads to the addition of a dative argument *dem Jungen*, i.e. a role-remapping [Ø>OBJ], see [@sec:preverb-dative-additions]. On top of that, the *bekommen* dative passive \Next[c] promotes this dative to subject and removes the original subject, i.e. a role-remapping [OBJ>SBJ>Ø], see [@sec:participles-bekommen-passive].
 
-\ex.
- \a. Ich schmecke Pfefferminze in der Suppe.
+\ex. [ Ø > OBJ > SBJ > Ø ]\
+ \a. Der Vater hat ein Buch gelesen.
+ \b. Der Vater hat dem Jungen ein Buch vorgelesene.
+ \c. Der Junge bekommt ein Buch vorgelesen.
+
+Such multi-chained diatheses resulting from diathesis-stacking are widespread. However, I know of only two diatheses with a multi-chain that cannot be decomposed into a stack of separate diatheses. Both these 'fixed' multi-chain diatheses appear to occur with just a few idiosyncratic verbs, so this phenomenon really seems to be dispreferred in German.
+
+First, the preverb diathesis from *erben* 'to inherit' to *enterben* 'to disinherit' \Next, see [@sec:preverb-inverted-passive-accusative-loss], contains three linked role-remappings for the roles of (i) the originator of the inheritance *Vater* 'father' [ADJ>SBJ], (ii) the receiver of the inheritance *Junge* 'boy' [SBJ>OBJ] and (iii) the inheritance *Schreibtisch* 'desk' [OBJ>Ø].
+
+\ex. [ ADJ > SBJ > OBJ > Ø ]\
+ \a. Der Junge erbt den Schreibtisch von seinem Vater.
+ \b. Sein Vater enterbt den Jungen.
+
+Second, the verb *schmecken* 'to taste' \Next, see [@sec:prepositions-ingredient-anticausative], allows for two different constructions with three linked role-remappings for (i) the tasted substance *Pfefferminze* 'peppermint' [OBJ>ADJ], (ii) the tasted dish *Suppe* 'soup' [ADJ>SBJ] and (iii) the taster *Koch* 'cook' [SBJ>Ø].
+
+\ex. [ OBJ > ADJ > SBJ > Ø ]\ 
+ \a. Der Koch schmeckt die Pfefferminze in der Suppe.
  \b. Die Suppe schmeckt nach Pfefferminze
 
-- disjunct diathesis: 
+#### Disjunct diatheses
 
 [@sec:prepositions-nominative-demotion-dative-addition]
 
