@@ -167,7 +167,7 @@ Eventuell möglich ohne *es*?
 - Immerhin bleibt noch die Frage zu entscheiden, ob ...
 - Aus unserer Sicht bleibt zu hoffen, dass ..." (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=14&cad=rja&uact=8&ved=2ahUKEwis3vzH2O_eAhUqx4UKHTMRBRkQFjANegQIBxAB&url=https%3A%2F%2Fwww.t-online.de%2Fdigital%2Fid_74463900%2Fsi_3%2Fdie-exklusivsten-kameras-der-welt.html&usg=AOvVaw3Xn_CFi2fd89VjKPo_Gmqb)
 
-### [ NA | –N ] *gehen + zu + Infinitiv* Possibility + manner adverbial
+### [ NA | –N ] *gehen + zu + Infinitiv* Possibility + manner adverbial {#sec:zuinfinitive-gehen-adverb}
 
 "möglich" Interpretation. Immer mit Negation? (vgl. negative polarity)
 

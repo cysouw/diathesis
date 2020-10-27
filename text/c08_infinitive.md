@@ -164,7 +164,7 @@ Mehrdeutigkeit *lassen + sich + Infinitiv* bei belebte Subjekte
 
 ### --- [ 0>3>2 ] Causatives --- {.unnumbered}
 
-### [ –N | NA ] *lassen + Infinitiv* causative
+### [ –N | NA ] *lassen + Infinitiv* causative {#sec:infinitive-lassen-causative}
 
 - Ich wasche meine Kleider.
 - Sie lässt mich meine Kleider waschen.
@@ -173,9 +173,15 @@ Ersatzinfinitiv!
 
 - Sie hat mich meine Kleider waschen lassen.
 
-Unmöglich (Nedjalkov S.17) [@nedjalkov1976]
+Unmöglich (Nedjalkov S.17) [@nedjalkov1976]: *verunglücken, interessieren, missfallen, bekommen*
 
-- *verunglücken, interessieren, missfallen, bekommen*
+Also strange (impossible?) *sich befinden*
+Typically ND-verbs with an inanimate subject are strange: ähneln, gefallen, missfallen
+
+(Lassen+Reflexiv appears with "gefallen" in old examples, e.g. "ich hätt mirs lassen gefallen wenn ich unter ihrem Rauschen am letzten Abend wär eingeschlafen!" DWDS: Arnim, Bettina von: Die Günderode. Bd. 2. Grünberg u. a., 1840.)
+
+
+- Etwas interessiert mich. Ich interessiere mich für etwas. Ich lasse mich gerne für etwas interessieren.
 
 "von" periphrase nicht immer möglich (Nedjalkov 7-8)
 

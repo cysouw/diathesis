@@ -59,9 +59,9 @@ Some prepositional phrases without the *da+PREPOSITION, dass* paraphrase still h
 
 A different criterion to distinguish between the syntactical status of prepositional phrases is proposed by Schäfer [-@schafer2018: 445-446].
 
-### Identifying non-governed prepositions
+### Identifying non-governed prepositions {#sec:prepositions-definition-non-governed}
 
-Non-governed prepositional phrases are typically adverbial phrases, describing either a local \Next[a], temporal \Next[b], manner \Next[c] or purpose/causal \Next[d] situation. In many situations, such adverbial prepositional phrases do not allow for determiners after the preposition, like in *gegen Abend*, *aus Gold*, or *mit größter Sorgfalt*.
+Non-governed prepositional phrases are typically adverbial phrases, describing either a local \Next[a], temporal \Next[b], manner \Next[c] or purpose/causal \Next[d] situation. In some situations, such adverbial prepositional phrases do not allow for determiners after the preposition, like in *gegen Abend*, *aus Gold*, or *mit größter Sorgfalt*.
 
 \ex.
  \a. Ich arbeite in dem Arbeitszimmer.
@@ -69,7 +69,7 @@ Non-governed prepositional phrases are typically adverbial phrases, describing e
  \c. Ich arbeite aus Leidenschaft.
  \d. Ich arbeite wegen des Regens.
 
-Adverbial prepositional phrases can easily be identified by considering how this information can be questioned and by which proforms or adverbs the information can be replaced:
+Adverbial prepositional phrases can easily be identified by considering how this information can be questioned and by which proforms or adverbs the information can be replaced. However, there are various special considerations to be discussed in the following section.
 
 - Local prepositional phrases
     - questioned by *wo/wohin/woher?* 'where'
@@ -87,7 +87,9 @@ Adverbial prepositional phrases can easily be identified by considering how this
     - questioned by *warum?* 'why'
     - replaceable by proforms *deshalb/darum* 'therefore'.
 
-As a general rule, such prepositional phrases are not governed by a verb. However, there are a few verbs that obligatory need a local preposition \Next[a-d].
+### Locational prepositional phrases
+
+As a general rule, locational prepositional phrases are not governed by a verb. However, there are a few verbs that obligatory need a local preposition \Next, see [@sec:prepositions-obligatory-local; @sec:reflexive-obligatory-local].
 
 \ex.
  \a. Er steckt den Zettel in die Tasche.
@@ -95,12 +97,24 @@ As a general rule, such prepositional phrases are not governed by a verb. Howeve
  \c. Ich befinde mich in dem Haus.
  \d. \* Ich befinde mich.
 
-Even less common are verbs that obligatory need a non-governed local preposition \Next[a], which is alternatively exchanged for a temporal one \Next[b].
+Less common are verbs that obligatory need a local preposition \Next[a,b], but which is alternatively exchanged for a temporal one \Next[c].
 
 \ex.
  \a. Der Unfall ereignete sich an der Kreuzung.
- \b. Der Unfall ereignete sich vor Sonnenuntergang.
- \c. \* Der unfall ereignete sich.
+ \b. \* Der Unfall ereignete sich.
+ \c. Der Unfall ereignete sich vor Sonnenuntergang.
+
+Some locations become obligatory through diatheses, for example with datives that are introduced by raising possessors \Next, see [@sec:prepositions-possessor-of-location-to-dative-experiencer], or dynamic 'manner of movement' prepositional phrases \NNext, see [@sec:prepositions-manner-of-movement].
+
+\ex.
+ \a. Der Ball fällt (auf dem Boden).
+ \b. Der Ball fällt dem Spieler vor die Füße. 
+ \c. \* Der Ball fällt dem Spieler.
+
+\ex.
+ \a. Ich habe (in dem Garten) getanzt.
+ \b. Ich bin durch den Garten getanzt.
+ \c. \* ich bin getanzt.
 
 ### Comitative/instrumental *mit* and *ohne* {#sec:prepositions-comitative-intrumental}
 
@@ -382,11 +396,12 @@ Incidental verbs with nominative and dative arguments allow the nominative to be
 
 ### [ N– | pD ] Nominative demotion + dative addition {#sec:prepositions-nominative-demotion-dative-addition}
 
-Some predicates take a nominative argument with non-sentient arguments \Next[a], but a dative experiencer can only be used with the nominative demoted \Next[b]. 
+Some predicates take a nominative argument with non-sentient arguments \Next[a], but a dative experiencer can only be used with the nominative demoted \Next[b]. This only seems to occur with predicative constructions with copula *sein*. Maybe this diathesis is better analysed as a stack of two separate changes: a dropping of the nominative and an addition of the dative with \Next[c] being an intermediate construction.
 
 \ex.
  \a. Der Sommer ist kalt.
  \b. Mir ist kalt (im Sommer).
+ \c. Es ist kalt (im Sommer).
  
 **Attested Verbs**
 
@@ -901,7 +916,7 @@ Note the absence of a determiner in the following cases:
 - Ich gewinne Sicherheit. Ich gewinne an Sicherheit.
 - Wir verlieren Höhe. Wir verlieren an Höhe.
 
-#### *in* Antipassive
+#### *in* Antipassive {#sec:prepositions-in-antipassive}
 
 Accusative objects that alternate with an *in* prepositional phrase seem to be rather uncommon. It only occurs when the action includes an aspect of occurring inside of an object. The prepositional alternate indicates partial completion of the action, very similarly to the *an* Antipassive.
 
@@ -1552,7 +1567,7 @@ An alternation for datives is that the dative can be expressed alternatively as 
  \c. \* Der Affe saß ihm ruhig.
  \d. Der Affe saß auf seiner Schulter.
 
-Coreference ("reflexive double marking") is possible \Next[a], but in the third person this does not lead to a reflexive *sich* \Next[b,c]:
+Coreference ("reflexive double marking") is possible between dative and possessor \Next[a], but in the third person this does not lead to a reflexive *sich* \Next[b,c]. This is a clear indication that the dative and the possessor have to refer to the same participant. It is impossible for them to be not coreferent, so there is not possible confusion in the third person, so there is no need for a disambiguating reflexive pronoun.
 
 \ex.
  \a. Der Affe saß mir auf meiner Schulter.
@@ -1571,7 +1586,7 @@ Coreference ("reflexive double marking") is possible \Next[a], but in the third 
 - Er schaut mir über die Schulter. Er schaut über meine Schulter
 - Das Hemd hing ihm aus der Hose. Das Hemd hing aus seiner Hose.
 - Ich steige dir auf die Füße. Ich steige auf deine Füße.
-- Ich falle dir vor die Füße. Ich falle vor deine Füße.
+- Ich falle dir vor die Füße. Ich falle vor deinen Füßen.
 - Ich klopfe dir auf die Schulter. Ich klopfe auf deine Schulter.
 - Die Biene sticht mir in den Arm. Die Biene sticht in meinen Arm.
 - Ich zwicke dir in die Wange. Ich zwicke in deine Wange.
@@ -1707,7 +1722,7 @@ The verb *vergleichen* 'to compare' allows for the flipping of roles \Next[a,b].
  \a. Er vergleicht mich mit einem Affen.
  \b. Er vergleicht einen Affe mit mir.
 
-### --- [ ADJ > ADJ ] Adjunct exchange {.unnumbered}
+### --- [ ADJ > ADJ ] Adjunct change {.unnumbered}
 
 ### [ NAg | NAp ] Possessor-of-accusative to preposition
 
