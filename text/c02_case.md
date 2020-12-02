@@ -78,7 +78,7 @@ Examples like \Last[a,b] seem to suggest that intransitive verbs like *schlafen*
 
 Because of their special status, such cognate object nominalisations are not counted as regular arguments. However, nominalisations are an interesting aspect of diathesis in itself and will be discussed extensively in Chapter [-@sec:nom].
 
-### Lexicalized noun-verb combinations
+### Lexicalised noun-verb combinations
 
 There is a common pattern in German in which nouns are combined with a verb, like *eislaufen* 'ice skating'. Such constructions are highly reminiscent of the typologically widespread process of noun incorporation. However, in German such noun incorporation only occurs with individual lexeme combinations, so they are probably better interpreted as grammaticalised noun-verb collocations [@eisenberg2013: 324-327; @gallmann1999; -@gallmann2015]. 
 
@@ -332,7 +332,7 @@ A special group of verbs can be used to performatively name persons or things. A
 \ex. 
  \a. Ich nenne dich [Lukas].
  \b. Ich nenne dich [einen Egoisten].
- \c. "Die Juden!" rief Franz ungeduldig, "was nennst du Juden? (DWDS: Bahr, Hermann: Die Rotte Korahs. Berlin 1919)
+ \c. Was nennst du dein eigen?
 
 The name in such naming constructions cannot be passivised \Next[a,b], which also indicates that these accusative arguments have a special status in the grammar of the German language.
 
@@ -567,7 +567,7 @@ Although there is no overt difference between an unmarked anticausative and an u
 - Die Welle knickt den Mast des Bootes. Der Mast knickt.
 - Die Sonne schmilzt den Schnee. Die Eiswürfel sind geschmolzen.
 
-### [ –N | NA ] Umlaut causative
+### [ –N | NA ] Umlaut causative {#sec:case-umlaut-causative}
 
 Originally based on a Germanic suffix *-jan*, which turned into an umlaut, some verbs have a different between an intransitive (e.g. *fallen*, 'to fall') and a causative (e.g. *fällen*).
 

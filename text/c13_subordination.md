@@ -300,7 +300,7 @@ Nominative control
 Governed prepositional phrases allow for *da + Preposition + zu + Infinitive* construction. Do they all allow to drop the *da + Preposition*?
 
 - achten auf: Er achtete darauf langsam zu essen. Er achtete langsam zu essen. Er achtete auf die Kinder.
-- kommen zu (ich komme endlich dazu meinen Aufsatz fertig zu schreiben) - Ich kommme zu einem harmlosen Ergebnis
+- kommen zu (ich komme endlich dazu meinen Aufsatz fertig zu schreiben) - Ich komme zu einem harmlosen Ergebnis
 - schauen auf (er schaute darauf, gute Arbeit zu bekommen) - schauen auf die Kinder
 - rechnen mit
 - es ankommen auf (heute kommt es darauf an rechtzeitig zu sein)
@@ -315,6 +315,8 @@ From the ZAS Database it looks like the prepositions can often be left out with 
 ### [ NA | NZ ]
 
 Nominative control
+
+Typically performative verbs?
 
 **Attested Verbs**
 

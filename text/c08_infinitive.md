@@ -1,4 +1,4 @@
-# Light verb constructions with infinitive
+# Light verb constructions with infinitive {#sec:infinitive}
 
 ## Introduction
 
@@ -133,7 +133,7 @@ Is this the only example?
 
 ## Diatheses with subject demotion
 
-### --- [ 3>0 ] Drops --- {.unnumbered}
+### --- [ SBJ > Ø ] Drop --- {.unnumbered}
 
 ### [ N | – ] *lassen + sich + Infinitiv* Reflexive impersonal + manner adverbial
 
@@ -142,7 +142,7 @@ Typically used with intransitives? Similar to impersonal passive?
 - Ich arbeite zuhause.
 - Zuhause lässt es sich gut arbeiten.
 
-### --- [ 2>3>0 ] Anticausatives --- {.unnumbered}
+### --- [ OBJ > SBJ > Ø ] Anticausative --- {.unnumbered}
 
 ### [ NA | –N ] *lassen + sich + Infinitiv* Reflexive anticausative {#sec:infinitive-lassen-reflexive-anticausative}
 
@@ -160,9 +160,37 @@ Mehrdeutigkeit *lassen + sich + Infinitiv* bei belebte Subjekte
 - Ich verbiete ihr das Rauchen nicht. Sie lässt sich (von mir) das Rauchen nicht verbieten.
 - Ich zweifele An der Ernsthaftigkeit der Aussage. An der Ernsthaftigkeit der Aussage lässt sich zweifeln.
 
+[ NAD | –ND ]
+
+- Er schenkt mir den Rechner. Ich lasse mir den Rechner schenken.
+
 ## Diatheses with promotion to subject
 
-### --- [ 0>3>2 ] Causatives --- {.unnumbered}
+### --- [ ADJ > SBJ > OBJ ]  Experientive --- {.unnumbered}
+
+### [ gNL | NAL ] *haben + Infinitiv* Experientive [#sec:infinitive-haben]
+
+Addition of a new subject that is the possessor of the nominative of the embedding, or a benefective dative.
+
+- [gNL] Sein Teller steht auf den Tisch.
+- [DNL] Der Teller steht ihm auf den Tisch.
+- [NAL] Er hat den Teller auf den Tisch stehen.
+
+Only with 'position' verbs? (Hole 2002: 183-185)
+Ersatzinfinitiv!
+
+- Position verbs: *liegen, stehen, sitzen, hängen, stecken*
+- Manner of position verbs?: *haften, kleben, lehnen, pendeln*
+
+**Examples**
+
+- Er hat seinen Teller auf den Tisch stehen. ("ihm steht der Teller auf den Tisch.")
+- Ich habe das Auto hier stehen. ("Mein Auto steht hier.")
+- Er hat einen Tropfen an der Nase hängen. ("Ein Tropfen hängt ihm an seiner Nase.")
+- Viola Kleßmann aus Charlottenburg gehört nicht zu denen, die am Ende einen roten Punkt an ihrer Teilnehmernummer kleben haben. (DWDS: Berliner Zeitung, 28.07.2003)
+
+
+### --- [ Ø > SBJ > OBJ ] Causatives --- {.unnumbered}
 
 ### [ –N | NA ] *lassen + Infinitiv* causative {#sec:infinitive-lassen-causative}
 
@@ -262,11 +290,11 @@ With *zu* both coherent and non-coherent:
 - Es ist bekannt, dass du sie [gelehrt hast] ihm ein Buch [zu schenken]
 - Es ist bekannt, dass du sie ihm ein Buch [zu schenken] [gelehrt hast] 
 
-### --- [ 0>3>2 ] Experientives --- {.unnumbered}
+### --- [ Ø > SBJ > OBJ ] Experientives --- {.unnumbered}
 
 Addition of a new subject who is experiencer of the embedding.
 
-### [ –N | NA ] *sehen + Infinitiv* Experiencer
+### [ –N | NA ] *sehen + Infinitiv* Experiencer [#sec:infinitive-sehen]
 
 "Wahrnehmungsverben" (Kotůlková 2010) with IPP 'Ersatzinfinitiv'
 
@@ -292,32 +320,9 @@ Also *finden*!
 
 ## Diatheses with subject exchange
 
-### --- [ 2>3>2 ] Benefactives --- {.unnumbered}
+### --- [ OBJ > SBJ > OBJ ] Experientive --- {.unnumbered}
 
-D > N > A: promotion to subject ?
-
-### [ DNL | NAL ] *haben + Infinitiv* Benefactive 
-
-Addition of a new subject that is the possessor of the nominative of the embedding, or a benefective dative.
-
-- [gNL] Sein Teller steht auf den Tisch.
-- [DNL] Der Teller steht ihm auf den Tisch.
-- [NAL] Er hat den Teller auf den Tisch stehen.
-
-Only with 'position' verbs? (Hole 2002: 183-185)
-Ersatzinfinitiv!
-
-- Position verbs: *liegen, stehen, sitzen, hängen, stecken*
-- Manner of position verbs?: *haften, kleben, lehnen, pendeln*
-
-**Examples**
-
-- Er hat seinen Teller auf den Tisch stehen. ("ihm steht der Teller auf den Tisch.")
-- Ich habe das Auto hier stehen. ("Mein Auto steht hier.")
-- Er hat einen Tropfen an der Nase hängen. ("Ein Tropfen hängt ihm an seiner Nase.")
-- Viola Kleßmann aus Charlottenburg gehört nicht zu denen, die am Ende einen roten Punkt an ihrer Teilnehmernummer kleben haben. (DWDS: Berliner Zeitung, 28.07.2003)
-
-### [ ND | AN ] *lassen + sich + Infinitiv* Dative reflexive benefactive
+### [ ND | AN ] *lassen + sich + Infinitiv* Dative reflexive experientive
 
 underlying genitive of nominative?
 

@@ -1,4 +1,4 @@
-# Light-verb alternations with participles
+# Light-verb alternations with participles {#sec:participle}
 
 ## Introduction
 
@@ -808,6 +808,11 @@ Keine Argumentvererbung: nur Agens kann (mit Mühe) erhalten bleiben als 'durch'
 - ? Hier wird geschenkt (durch die Eltern).
 - \* Hier wird dir von mir zwei Bücher geschenkt (plural 'werden' notwendig!?)
 
+Dativ [ ND | -D ] and Governed Preposition [ NP | -P ] possible:
+
+- Den Eltern wurde geholfen.
+- Auf den Professor wurde gewartet.
+
 "Reflexivpassiv" only with obligatorily reflexive verrbs [@eisenberg2006a: 131]
 
 - Es wird sich jetzt endlich beeilt/entschlossen/vertragen/gekümmert
@@ -945,6 +950,11 @@ Maienborn: 102-103: Sie findet aber Beispiele bei Google!
 - stören (Der Lärm stört den Mann. Der Mann ist gestört)
 
 ### [ NDA | –NA ] *haben + Partizip* Dative anticausative + accusative {#sec:participles-haben-passive}
+
+To do:
+
+- (Businger 2011: Ch. 4)
+- Experientive semantics?
 
 Verbs that have the possibility of an accusative object, like *brechen* 'to break' in (a), almost all have a 'haben + Partizip' perfect (b), as discussed in Section X. A subset of those verbs also allow for a different 'haben + Partizip' construction, which I will analyse as an anticausative alternation, illustrated here in (c). The example in (c) has an optional reflexive-dative pronoun disambiguating the intended reading, namely 'the arm is broken to me.' Without this pronoun, (c) is ambigious between 'I have broken the arm' (the perfect construction from Section X) and 'The arm is broken to me' (the anticausative construction as discussed in this section). It is rather curious for there to be two formally identical constructions with two such rather different meanings. The anticausative reading seems to be recent and is considered colloquial by most speakers (cf. Eroms 2000: 395-396, 420-421; Hole 2002 for a discussion of this rather special construction).
 
@@ -1241,7 +1251,7 @@ DWDS: "wissen sich #4 $p=VVPP"
 - Sie wussten sich durch ihn gewahrt.
 - Sie wusste sich beschützt.
 
-### [ NA | –N ] *glauben + Partizip* Reflexive experiencer
+### [ NA | –N ] *glauben + Partizip* Reflexive experiencer {#sec:participle-glauben-reflexive}
 
 - Er glaubte sich verraten/zurückversetzt/verfolgt
 - Er glaubte sich benachteiligt.
@@ -1308,6 +1318,8 @@ Both transitive and intransitive, but probably better all seen as derived from *
 
 ### --- [ Ø > SBJ > OBJ ] Experientive --- {.unnumbered}
 
+Nur intransitive?
+
 ### [ –N | NA ] *wissen + Partizip* Experiencer
 
 Unakkusativ Intransitiv?!
@@ -1342,16 +1354,16 @@ secundary predicate: "er findet sie in Zustand X"
 
 ## Diatheses with subject exchange
 
-### --- [ Ø > SBJ > Ø ] Agent-Experiencer switch --- {.unnumbered}
+### --- [ Ø > SBJ > Ø ] Agent-Experiencer commutative --- {.unnumbered}
 
 Probably best analysed as stacking of *sein* anticausative with experientive
 
-### [ –NA | N–A ] *wissen + Partizip*  Experiencer switch
+### [ –NA | N–A ] *wissen + Partizip*  Experiencer commutative {#sec:participle-wissen-commutative}
 
-- Jemand hebt ihn auf [–NA]
-- Er ist gut aufgehoben. [––N]
-- Ich weiß, dass er gut aufgehoben ist. [N–N]
-- Ich weiß ihn gut aufgehoben [N–A]
+- Das Archiv hebt den Nachlass auf. [–NA]
+- Der Nachlass ist gut aufgehoben. [––N]
+- Ich weiß, dass der Nachlass gut aufgehoben ist. [N–N]
+- Ich weiß den Nachlass gut aufgehoben. (in dem Archiv). [NA]
 
 - Jemand unterstellt die Ostgebiete dem Kontrollrat. [–NAD]
 - Die Ostgebiete sind dem Kontrollrat unterstellt. [––ND]

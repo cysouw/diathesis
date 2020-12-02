@@ -1521,7 +1521,11 @@ A verb like *träumen* 'to dream' has a governed preposition *von* \Next[a,b]. W
 
 ### [ NA | NG ] Reflexive accusative-to-genitive
 
-This alternation are maybe better considered to be different meanings of the verbs. However, the semantics of both counterparts are close enough to be noted as a special kind of diathesis.
+Examples of this alternation are maybe better considered to be different meanings of the verbs. However, the semantics of both counterparts are close enough to be noted as a special kind of diathesis. For example, the verb *annehmen* means 'to accept' in \Next[a], but 'to take care of' in \Next[b].
+
+\ex.
+ \a. Er nimmt das Problem an. ('akzeptieren')
+ \b. Er nimmt sich des Problemes an. ('kümmern')
 
 **Attested Verbs**
 
@@ -1529,8 +1533,6 @@ This alternation are maybe better considered to be different meanings of the ver
 
 **Examples**
 
-- Er nimmt das Problem an. ('akzeptieren')
-- Er nimmt sich des Problemes an. ('kümmern')
 - Ich bedenke einen Grund. ('beachten')
 - Ich bedenke mich eines Grundes. ('besinnen')
 

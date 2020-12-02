@@ -1,4 +1,4 @@
-# Light verb alternations with *zu*-infinitive
+# Light verb alternations with *zu*-infinitive {#sec:zuinfinitive}
 
 ## Introduction
 
@@ -83,7 +83,7 @@ Handlungsverben 5,6% [@jager2013: 201]
 
 ## Diatheses with subject demotion
 
-### --- Drops --- {.unnumbered}
+### --- [ SBJ > Ø ] Drops --- {.unnumbered}
 
 ### [ N | – ] *geben + zu + Infinitiv* Obligation
 
@@ -108,7 +108,7 @@ Ohne 'es' sehr ungewöhnlich?
 
 - Besonders in ökologischer Hinsicht gilt zu beachten, dass ... (https://books.google.de/books?id=3Q5pAQAAQBAJ&pg=PA28&lpg=PA28&dq=%22gilt+zu+beachten%22+-es+-das+-was&source=bl&ots=dyayRVpIPh&sig=ZMStPiBu-ljuDfqnMBenaW4ubbI&hl=en&sa=X&ved=2ahUKEwitp_PS1-_eAhVOzYUKHewlASwQ6AEwBXoECAgQAQ)
 
-### --- Anticausatives --- {.unnumbered}
+### --- [ OBJ > SBJ > Ø ] Anticausatives --- {.unnumbered}
 
 ### [ NA | –N ] *sein + zu + Infinitiv*
 
@@ -196,21 +196,21 @@ Ohne Satzeinbettung?
 
 ## Diatheses with promotion to subject
 
-### --- Causatives --- {.unnumbered}
+### --- [ Ø > SBJ > OBJ ] Causatives --- {.unnumbered}
 
-### [ –N | ND ] *geben + zu + Infinitiv*
+### [ –NA | NDA ] *geben + zu + Infinitiv*
 
 zu $p=VVINF geben &&! es
 
 Typisch mit kognitive Verben mit Satzeinbettung: *bedenken, verstehen, erkennen, erwägen*
 
-- Er gibt mir zu bedenken, dass ...
+- Ich bedenke, dass ... Er gibt mir zu bedenken, dass ...
 - Auch Herr Beutler, der auf Lebenszeit gewählt ist, hat wiederholt zu erkennen gegeben, daß sein Herz nach einem anderen Ruhm, als an der Spitze der sächsischen Residenz zu stehen, nicht begehre.
 
 Sehr unüblich ohne Satzeinbettung?
 
+- Ich denke über etwas. Der Protest gibt mir zu denken [ –NP | ND– ]
 - Die Liftjungen geben mir aber heute zu schaffen!
-- Der Protest gibt mir zu denken [ –N | ND ]
 
 Wo ist die Grenze zu lexikales *geben*?: vgl. *essen, trinken, tun, lesen, tragen, lernen*. Diese Konstruktionen sind kohärent! [ –NA | NDA ]
 

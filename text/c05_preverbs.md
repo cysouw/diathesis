@@ -8,7 +8,7 @@ Under the heading \textsc{preverb} I will subsume here two different constructio
  \a. Ich umfahre den Polizisten.
  \b. Ich fahre den Polizisten um.
 
-There is a massive literature on the German alternations induced by verb prefixes and verb particles, including complete monographs on individual preverbs (e.g. felfe [-@felfe2012] on the many different alternations with the particle *an-*). However, most of this literature focusses on the semantic difference between a bare verb and a verb with a preverb. Changes in valency are mostly discussed only as an aside. In contrast, in this chapter the meaning of the preverbs will only play a secondary role. The focus will be on the valency changing effect the prefixes have with some verbs [cf. @eroms1980; @kim1983; @gunther1987; @wunderlich1987; @wunderlich1997; @geist2016 for similar approaches].
+There is a massive literature on the German alternations induced by verb prefixes and verb particles, including complete monographs on individual preverbs (e.g. Felfe [-@felfe2012] on the many different alternations with the particle *an-*). However, most of this literature focusses on the semantic difference between a bare verb and a verb with a preverb. Changes in valency are mostly discussed only as an aside. In contrast, in this chapter the meaning of the preverbs will only play a secondary role. The focus will be on the valency changing effect the prefixes have with some verbs [cf. @eroms1980; @kim1983; @gunther1987; @wunderlich1987; @wunderlich1997; @geist2016 for similar approaches].
 
 The central generalisation that can be extracted from the numerous examples in this chapter is that the structural effect of a preverb diathesis is to produce a verb with an accusative argument. This generalisation does not hold without special definitional stipulations (e.g. accusative reflexive pronouns have to be included) and there are various counterexamples (e.g. diatheses resulting in dative arguments), but overall the generalisation seems to be exceptionally strong (see [@sec:preverbs-always-accusative]). In a very broad sense, preverb diatheses can be seen as some kind of counterpart to reflexive diatheses as discussed in the previous chapter. Reflexive diatheses generally reduce the valency, while preverb diatheses tend to increase the valency.
 
@@ -44,7 +44,7 @@ Diachronically, the prefixes go back to prepositions as well, but this origin is
 - *er-*   : originally meaning 'out', cognate both to modern German *aus* and *ur-*
 - *ent-*  : originally meaning 'against', cognate with Greek *anti*
 - *zer-*  : originally meaning 'in two', cognate with Latin *dis-*
-- *miss-* : originally meaning 'missing', still transparently cognate with modern German *missen*
+- *miss-* : originally meaning 'missing', still transparently cognate with modern German *(ver)missen*
 
 Most frequently showing alternations:
 
@@ -608,7 +608,7 @@ Different from most causatives, the original nominative of *mieten* 'to rent' \N
 
 ### --- [ Ø > SBJ > PBJ ] Reversed Fabricative --- {.unnumbered}
 
-### [ –NA | NPA ] Preverb reversed fabricative + accusative
+### [ –NA | NPA ] Preverb reversed fabricative + accusative {#sec:preverb-reversed-fabricative}
 
 Different from most causatives, the original nominative of *freuen* 'to enjoy' \Next[a] turns into a governed preposition with the prefixed form *erfreuen* 'to delight somebody' \Next[b]. The more typical diathesis is a causative in which the original nominative turns into an accusative. However, with this verb there is already an accusative present before the diathesis.
 
@@ -638,7 +638,7 @@ The relation between *erben* 'inherit' and *enterben* 'disenherit' is peculiar, 
 
 These diatheses can be seen as passives 'in reverse'. On first notice everything just looks like a passive: (i) the accusative argument of the (prefixed) transitive verb turns into a nominative of the (non-prefixed) intransitive verb and (ii) the causer/agent of the (prefixed) transitive verb is expressed as a (governed) prepositional phrase with the (non-prefixed) intransitive verb. However, the direction of an alternation is by definition from the unmarked (non-prefixed) to the marked (prefixed) verb. So, these diatheses are 'inverted' passives. Although it would make sense to call such diatheses 'antipassives', this term is already taken by another kind of diatheses.
 
-### [ PN | NA ] Preverb reversed passive {#sec:preverb-inverted-passives}
+### [ PN | NA ] Preverb reversed conversive {#sec:preverb-inverted-passives}
 
 The causer of *erstaunen* 'to amaze' is expressed as a governed preposition *über* with the non-prefixed verb *staunen* 'to be amazed'.
 
@@ -655,7 +655,7 @@ The causer of *erstaunen* 'to amaze' is expressed as a governed preposition *üb
 
 - Ich warte auf den Test. Der Test erwartet mich.
 
-### [ PN | NA ] Preverb reversed passive + reflexive loss
+### [ PN | NA ] Preverb reversed conversive + reflexive loss
 
 With the addition of the prefix, these verbs lose their reflexive pronoun \Next. So, there is both a 'reversed' passive and a 'reversed' reflexive marking in these diatheses. Note that the causer of the transitive is expressed as a governed preposition \Next[b].
 
@@ -1473,19 +1473,22 @@ Ist das wirklich möglich???
 
 ### --- [ OBJ > SBJ > OBJ ] Inversive --- {.unnumbered}
 
-### [ NA | AN ] Preverb accusative inversive
+### [ NA | AN ] Preverb accusative inversive {#sec:preverb-accusative-inversive}
 
-The alternation between *wundern* 'to amaze' \Next[a] and *bewundern* 'to be in awe' \Next[b] reverses the nominative and accusative arguments.
+The alternation between *wundern* 'to amaze' \Next[a] and *bewundern* 'to be in awe' \Next[b] reverses the nominative and accusative arguments. Note that the verb *wunder* also allows for a reflexive conversive diathesis \Next[c], see [@sec:reflexive-preposition-passive], but this construction cannot function as a intermediate step in this diathesis.
 
 \ex.
  \a. Dein Verhalten wundert mich.
- \b. Ich bewundere dein Verhalten. 
+ \b. Ich bewundere dein Verhalten.
+ \c. Ich wunder mich über dein Verhalten.
 
 **Attested Verbs**
 
 - beˈ- : *wundern*
 
-### [ NL | LN ] Preverb locational inversive
+### --- [ PBJ > SBJ > PBJ ] Preposition inversive --- {.unnumbered}
+
+### [ NL | LN ] Preverb locational inversive {#sec:prepositions-location-inversive}
 
 The alternation between *strahlen* 'to shine' \Next[a] and *erstrahlen* 'to gleam' \Next[b] involves a reversal of nominative and locational arguments.
 
@@ -1523,6 +1526,7 @@ beˈ-
 - Ich schreibe Buchstaben auf das Papier. Ich beschreibe das Papier mit Buchstaben.
 - Ich lege Fließen auf den Boden. Ich belegen den Boden mit Fließen.
 - Ich segele mein Boot auf den See. Ich besegle den See mit meinem Boot.
+- Ich lege den Teppich auf den Flur. Ich belege den Flur mit dem Teppich
 
 verˈ-
 

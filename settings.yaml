@@ -36,10 +36,11 @@ link-citations: true
 documentclass: book
 classoption: twoside
 papersize: a4
+indent: true
 
 header-includes:
-# Fallback font
-- \newfontfamily{\fallbackfont}{Arial}
+# Fallback font does not work in XeLateX, so all font problems have to be specified manually
+- \newfontfamily{\greek}{Times New Roman}
 # Page layout
 - \usepackage[margin=4cm]{geometry}
 - \usepackage{float}

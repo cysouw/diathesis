@@ -1,4 +1,4 @@
-# Light verb alternations with *zum/am*-infinitive
+# Light verb alternations with *zum/am*-infinitive {#sec:zuminfinitive}
 
 ## Introduction
 
@@ -84,16 +84,16 @@ Die Bedeutung der Verben *sein/bleiben* scheint sehr lexikal. Eher keine speziel
 
 ## Diatheses with subject demotion
 
-### --- Drops --- {.unnumbered}
+### [ PBJ > SBJ > Ø ] --- Facilitive --- {.unnumbered}
 
-### [ N | – ] *sein + zum + Infinitive*
+### [ NP | –N ] *sein + zum + Infinitive* Facilitive
 
 - Es ist zum Verzweifeln.
-- Es ist zum Heulen.
+- Es ist zum Heulen. [NP|-N] Ich heule über den Schaden. Der Schaden ist zum Heulen
 
 ## Diatheses with promotion to subject
 
-### --- Causatives --- {.unnumbered}
+### --- [ Ø > SBJ > OBJ ] Causatives --- {.unnumbered}
 
 ### [ –N | NA ] *bringen/kriegen + zum + Infinitiv*
 
@@ -123,13 +123,13 @@ Andere Nominalisierungen?
 - Er bringt die Akte in Bearbeitung.
 - Er bringt mich dazu ein Haus zu bauen.
 
-### --- Experiencers --- {.unnumbered}
+### --- [ ADJ > SBJ > OBJ ] Experientive --- {.unnumbered}
 
-### [ gN | NA ] *haben + am + Infinitiv* Benefactive
+### [ gN | NA ] *haben + am + Infinitiv* Experientive {#sec:zuminfinitive-haben-am}
 
 (Businger 2011: 323-325)
 
-Possessor causative?
+possessor > dative > experientive
 
 - Die Wohnung brennt (Meine Wohnung brennt - mir brennt die Wohnung). Ich habe die Wohnung am Brennen.
 - Das Kind schläft (Mein Kind schläft). Als ich das Kind vorher endlich am Schlafen hatte, bin ich duschen.

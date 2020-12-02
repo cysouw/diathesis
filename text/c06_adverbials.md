@@ -1,4 +1,4 @@
-# Adverbial alternations
+# Adverbial alternations {#sec:adverbials}
 
 ## Introduction
 

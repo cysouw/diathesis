@@ -1,4 +1,4 @@
-# Prepositional alternations
+# Prepositional alternations {#sec:prepositions}
 
 ## Introduction
 
@@ -378,7 +378,7 @@ Most dictionaries list *hapern* 'to be lacking' as having obligatory *es* \Next[
 
 ### --- [ SBJ > ADJ ] Subject demotion --- {.unnumbered}
 
-### [ ND | pD ] Nominative demotion + dative
+### [ ND | pD ] Nominative demotion + dative {#sec:prepositions-nominative-demotion}
 
 Incidental verbs with nominative and dative arguments allow the nominative to be changed into a prepositional phrase with *an*, while at the same time the dative will be retained \Next[a,b]. The result is a construction without nominative, so a pronoun *es* is inserted.
 
@@ -513,7 +513,7 @@ This diathesis occurs (among others) with verbs of emotional interactions like *
  \b. Die Aufgabe (des Lehrers) überrascht mich.
  \c. Der Lehrer überrascht mich damit, dass er die Aufgabe schon korrigiert hat.
 
-There is a large overlap (but also an interesting difference) between the verbs that allow for this diathesis and the verbs that allow for a reflexive variant \Next[c], cf. [#sec:reflexive-preposition-passive].
+There is a large overlap (but also an interesting difference) between the verbs that allow for this diathesis and the verbs that allow for a reflexive variant \Next[c], cf. [#sec:reflexive-preposition-passive]. Some verbs, like *ärgern* 'to irritate' in \Next allow for both diatheses, but other verbs only take part in one or the other.
 
 \ex.
  \a. Du ärgerst mich mit deinen Witzen.
@@ -720,7 +720,7 @@ Governed prepositions that can be dropped are frequent. There are even various v
 - *auf*   : (Object of emotional reaction) *schimpfen*
 - *nach*  : (Object of smell/taste) *duftet, riechen, stinken, schnüffeln, schmecken*
 - *vor*   : (Object of emotional reaction) *platzen, rasen (Emotion), schreien*
-- *an*:   : *denken, klopfen, scheitern, sterben, teilnehmen, zweifeln*
+- *an*:   : *arbeiten, denken, klopfen, scheitern, sterben, teilnehmen, zweifeln*
 - *um*:   : *streiten*
 
 **Examples**
@@ -820,26 +820,27 @@ With a dative argument, some verbs allow for the dative to be dropped, but the p
 
 ### [ NDP | N–\hspace{1pt}– ] Dative drop + governed preposition drop
 
-Some verbs allow for both the dative and the preposition to be dropped \Next[a-c].
+Some verbs allow for both the dative and the preposition to be dropped, though mostly not both at the same time \Next. Also note that the dative appears to be always the possessor of the prepositional phrase, so these diatheses might alternatively be analysed as a stack of two different diatheses, viz. a possessor raising [NP–|NPg|NPD] and a preposition drop [NPD|N–D].
 
 \ex.
  \a. Ich gratuliere dir zu deinem Geburtstag.
  \b. Ich gratuliere dir.
  \c. Ich gratuliere zu deinem Geburtstag.
+ \d. \? Ich gratuliere.
 
 **Attested Verbs**
 
 - *zu*   : *gratulieren*
 - *bei*  : *zuschauen*
 - *für*  : *danken*
-- *mit*  : *danken*
+- *auf*  : *antworten*
 
 **Examples**
 
 - Ich gratuliere (dir) zu deinem Geburtstag.
 - Ich schaue (dir) zu beim Kochen.
 - Er dankt (mir) für den Wein.
-- Er dankt mir mit einer Flasche Wein.
+- Er antwortet (dir) auf deine Frage.
 
 ### --- [ OBJ > ADJ ] Accusative Antipassive --- {.unnumbered}
 
@@ -1463,12 +1464,14 @@ A slightly different variant of a resultative constructions is found with variou
  \b. Er macht die Wiese zu einem Garten.
  \c. Er macht etwas, und das Ergebnis ist: Die Wiese ist ein Garten.
 
+Maybe the *als* alternation has to treated as a separate diathesis.
+
 **Attested Verbs**
 
 - *zu*  : *erklären, machen*
 - *für* : *halten, erklären*
-- *als* : *ansehen, betrachten*
 - *in*  : *schneiden*
+- *als* : *ansehen, benennen, betrachten, bezeichnen, empfinden*
 
 **Examples**
 
@@ -1479,7 +1482,7 @@ A slightly different variant of a resultative constructions is found with variou
 
 **Notes**
 
-For some verbs there appears to be a rather clear grammaticalisation of the meaning of the verb between the two alternants:
+For some verbs there appears to be a rather clear lexicalisation of the meaning of the verb between the two alternants, i.e. it is questionable, whether the alternant should still be considered to be the same verb.
 
 - Ich halte das Schwert. Ich halte dich für einen Scharlatan.
 - Sie erklärte die Lösung. Sie erklärte den Kandidaten zum Geschäftsführer.
@@ -1663,7 +1666,7 @@ This alternation is the German equivalents of the "Possessor Object" alternation
 
 ### --- [ ADJ > SBJ > ADJ ] Adjunct commutative --- {.unnumbered} 
 
-### [ Np | pN ] Subject switch
+### [ Np | pN ] Subject switch {#sec:prepositions-subject-switch}
 
 \ex.
  \a. Die Kinder wimmeln auf den Platz.

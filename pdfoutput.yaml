@@ -22,7 +22,7 @@ input-files:
 
 filters:
 - pandoc-crossref
-- pandoc-citeproc
+- citeproc
 
 number-sections: true
 table-of-contents: true
