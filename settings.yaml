@@ -6,7 +6,7 @@ title: A Survey of German Diathesis
 author: Michael Cysouw
 date: \today
 
-mainfont: CharisSIL
+mainfont: Linux Libertine O
 top-level-division: chapter
 toc-title: Table of Contents
 
@@ -39,8 +39,8 @@ papersize: a4
 indent: true
 
 header-includes:
-# Fallback font does not work in XeLateX, so all font problems have to be specified manually
-- \newfontfamily{\greek}{Times New Roman}
+# Fallback font does not work in XeLateX, so all font problems have to be specified manually, e.g. like this
+# - \newfontfamily{\greek}{Times New Roman}
 # Page layout
 - \usepackage[margin=4cm]{geometry}
 - \usepackage{float}

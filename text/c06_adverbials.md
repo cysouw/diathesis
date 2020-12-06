@@ -30,7 +30,7 @@ Resultative secondary predicates arguably form a new verb together with the main
 
 ### Adverbials and adverbs
 
-Adverbials are defined here strictly syntactically as a word or phrase that modifies the main predicate of a sentence. When such an adverbial consists of a single word that cannot be used in other syntactic functions, then such a word is called an \textsc{adverb}. There exist an arguably rather small class of such purely adverbial words in German with restricted semantic possibilities, namely local, e.g. *hier, oben, dort* \Next[a], temporal, e.g. *gestern, später, immer* \Next[b], causal, e.g. *deshalb, dennoch, folglich* \Next[c] and modal, e.g. *ebenfalls, fast, ganz* \Next[d].
+Adverbials are defined here strictly syntactically as a word or phrase that modifies the main predicate of a sentence. When such an adverbial consists of a single word that cannot be used in other syntactic functions, then such a word is called an [adverb]{.smallcaps}. There exist an arguably rather small class of such purely adverbial words in German with restricted semantic possibilities, namely local, e.g. *hier, oben, dort* \Next[a], temporal, e.g. *gestern, später, immer* \Next[b], causal, e.g. *deshalb, dennoch, folglich* \Next[c] and modal, e.g. *ebenfalls, fast, ganz* \Next[d].
 
 \ex.
  \a. Das Flugzeug ist dort gelandet.
@@ -59,7 +59,7 @@ Adjectives (and adjectival verbforms like participles, see [@sec:participles-sec
 
 ### Adjectives as depictive secondary predicates
 
-Given the right context, all German adjectives like *klein* can be used as \textsc{depictive} secondary predicates, i.e. they can be used syntactically both as adjectives \Next[a] and as adverbs \Next[b]. 
+Given the right context, all German adjectives like *klein* can be used as [depictive]{.smallcaps} secondary predicates, i.e. they can be used syntactically both as adjectives \Next[a] and as adverbs \Next[b]. 
 
 \ex.
  \a. Das kleine Kind ist geboren.
@@ -78,7 +78,7 @@ Adverbs, i.e. single-word adverbials that cannot function as adjectives, only al
 
 ### Adjectives as resultative secondary predicates
 
-There is a different \textsc{resultative} construction with adjectival adverbs that superficially looks highly similar to the previous depictive examples, but it turns out to be a radically different construction. The adjectival adverb *leer* 'empty' in \Next[a] can be interpreted, like in the previous examples, as a depictive predicate with the meaning 'I have bought the store as it was empty' \Next[b]. Alternatively, it can be interpreted resultatively with the meaning "I have bought everything that was in the store, with the result that the store was empty afterwards" \Next[c].
+There is a different [resultative]{.smallcaps} construction with adjectival adverbs that superficially looks highly similar to the previous depictive examples, but it turns out to be a radically different construction. The adjectival adverb *leer* 'empty' in \Next[a] can be interpreted, like in the previous examples, as a depictive predicate with the meaning 'I have bought the store as it was empty' \Next[b]. Alternatively, it can be interpreted resultatively with the meaning "I have bought everything that was in the store, with the result that the store was empty afterwards" \Next[c].
 
 \ex.
  \a. Ich habe den Laden leer gekauft.

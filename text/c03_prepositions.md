@@ -412,9 +412,9 @@ Some predicates take a nominative argument with non-sentient arguments \Next[a],
 - Mir ist zum Heulen im Sommer. Der Sommer ist zum Heulen. 
 - Mir ist langweilig im Sommer. Der Sommer ist langweilig.
 
-### --- [ ADJ > SBJ > Ø ] Conciliative (\textsc{Instrumentsubjektivierung}) --- {.unnumbered}
+### --- [ ADJ > SBJ > Ø ] Conciliative ([Instrumentsubjektivierung]{.smallcaps}) --- {.unnumbered}
 
-A \textsc{conciliative} is a diathesis in which an instrument-like artefact is promoted to nominative subject. This instrument is an intermediate (Lat. *conciliator*, 'intermediary/mediator') that is used by an agent to reach a certain goal.
+A [conciliative]{.smallcaps} is a diathesis in which an instrument-like artefact is promoted to nominative subject. This instrument is an intermediate (Lat. *conciliator*, 'intermediary/mediator') that is used by an agent to reach a certain goal.
 
 ### [ Np | –N ] Intransitive conciliative {#sec:prepositions-intransitive-preposition-anticausative}
 
@@ -500,9 +500,9 @@ This alternation takes a (non-governed) prepositional phrase and turns it into a
 - Ich schmecke Pfefferminze in der Suppe. Die Suppe schmeckt nach Pfefferminze
 - Ich rieche Blume im Parfüm. Der Parfüm riecht nach Blume.
 
-### --- [ PBJ > SBJ > Ø ] Fabricative (\textsc{Kreationssubjektivierung})--- {.unnumbered}
+### --- [ PBJ > SBJ > Ø ] Fabricative ([Kreationssubjektivierung]{.smallcaps})--- {.unnumbered}
 
-A \textsc{fabricative} (Lat *fabrica*, 'plan, trick, workmanship') is a diathesis that superficially looks very similar to a conciliative in German because in both diatheses a *mit* prepositional phrase is promoted to nominative subject. The central difference is that the *mit* prepositional phrase in a fabricative diathesis is a governed preposition. This structural difference has a parallel semantic difference in that the fabricative *mit* phrase is an object that is produced by the agent.
+A [fabricative]{.smallcaps} (Lat *fabrica*, 'plan, trick, workmanship') is a diathesis that superficially looks very similar to a conciliative in German because in both diatheses a *mit* prepositional phrase is promoted to nominative subject. The central difference is that the *mit* prepositional phrase in a fabricative diathesis is a governed preposition. This structural difference has a parallel semantic difference in that the fabricative *mit* phrase is an object that is produced by the agent.
 
 ### [ NPA | –NA ] Transitive fabricative {#sec:prepositions-fabricative-accusative}
 
@@ -576,7 +576,7 @@ The preposition *auf* is a governed preposition \Next.
 
 ## Diatheses with promotion to subject
 
-### --- [ Ø > SBJ > OBJ ] Causative (\textsc{Ortskausativ}) --- {.unnumbered}
+### --- [ Ø > SBJ > OBJ ] Causative ([Ortskausativ]{.smallcaps}) --- {.unnumbered}
 
 ### [ –NL | NAL ] *haben* causative + location {#sec:prepositions-haben-caused-location}
 
@@ -1445,7 +1445,7 @@ Similar to intransitive resultatives (see [@sec:prepositions-intransitive-locati
 
 **Attested Verbs**
 
- - *befehlen, dirigieren, graben, hetzen, jagen, ziehen*
+ - *befehlen, dirigieren, graben, hetzen, jagen, schneiden, ziehen*
 
 **Examples**
 
@@ -1454,6 +1454,7 @@ Similar to intransitive resultatives (see [@sec:prepositions-intransitive-locati
 - Ich jage den Hund. Ich jage den Hund aus dem Zimmer.
 - Ich hetze den Hund. Ich hetze den Hund auf dich.
 - Ich grabe ein Loch. Die Skifahrer gruben Spuren in den Schnee.
+- Ich schneide meine Nägel. Ich schneide den Apfel in Stücke.
 
 ### [ NA– | NAp ] Performative result
 
@@ -1470,7 +1471,6 @@ Maybe the *als* alternation has to treated as a separate diathesis.
 
 - *zu*  : *erklären, machen*
 - *für* : *halten, erklären*
-- *in*  : *schneiden*
 - *als* : *ansehen, benennen, betrachten, bezeichnen, empfinden*
 
 **Examples**
@@ -1478,7 +1478,6 @@ Maybe the *als* alternation has to treated as a separate diathesis.
 - Sie erklärte das Problem. Sie erklärte die Behauptung für eine Lüge.
 - Ich betrachte das Gemälde. Ich betrachte dich als einen Freund.
 - Ich sehe das Gemälde an. Ich sehe dich als einen Freund an.
-- Ich schneide meine Nägel. Ich schneide den Apfel in Stücke.
 
 **Notes**
 
@@ -1727,7 +1726,7 @@ The verb *vergleichen* 'to compare' allows for the flipping of roles \Next[a,b].
 
 ### --- [ ADJ > ADJ ] Adjunct change {.unnumbered}
 
-### [ NAg | NAp ] Possessor-of-accusative to preposition
+### [ NAg | NAp ] Possessor-of-accusative to preposition {#sec:prepositions-possessor-to-preposition}
 
 Another 'raised' possessor is the alternation in which the possessor of an accusative can be expressed alternatively with a prepositional phrase \Next[a,b]. This is called an "Attribute Object Alternation" in Levin [-@levin1993: 74].
 

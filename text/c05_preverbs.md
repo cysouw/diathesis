@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Under the heading \textsc{preverb} I will subsume here two different constructions, known in German linguistics as \textsc{verb prefixes} \Next[a] and \textsc{verb particles} \Next[b]. These constructions have clearly different syntactic characteristics (see [@sec:preverbs-prefixes-particles]), but from the perspective of valency alternations they appear to function highly similar. For a discussion of term 'preverb' as a cover term for both constructions, see Booij & van Kemenade [-@booij2003b]. 
+Under the heading [preverb]{.smallcaps} I will subsume here two different constructions, known in German linguistics as [verb prefixes]{.smallcaps} \Next[a] and [verb particles]{.smallcaps} \Next[b]. These constructions have clearly different syntactic characteristics (see [@sec:preverbs-prefixes-particles]), but from the perspective of valency alternations they appear to function highly similar. For a discussion of term 'preverb' as a cover term for both constructions, see Booij & van Kemenade [-@booij2003b]. 
 
 \ex.
  \a. Ich umfahre den Polizisten.
@@ -162,6 +162,12 @@ Grenzwertig, ob das noch dasselbe Verb ist.
 
 - Die Krankheit fällt auf mich. Die Krankheit befällt mich.
 - Ich treffe auf die Regelung. Die Regelung betrifft mich.
+
+Strong semantic difference:  *boxen, drücken, stehen* 
+
+- Ich boxe (mit der Kommision) über den Vorschlag. Ich boxe den Vorschlag (in der Kommision) durch.
+- Ich drücke auf den Knopf. Ich drücke den Plan durch.
+- Ich stehe in dem Garten während des Rückschlages. Ich stehe einen Rückschlag durch.
 
 ## Alternations without diathesis
 
@@ -839,7 +845,7 @@ mostly *mit*
 - NPD : Ich lohne dir für deine Treue. (veraltet)
 - NPA : Ich belohne dich für deine Treue.
 
-### --- [ OBJ > Ø ] Antiresultative --- {.unnumbered}
+### --- [ PBJ > Ø ] Antiresultative --- {.unnumbered}
 
 ### [ NL | N– ] Preverb intransitive antiresultative {#sec:preverb-intransitive-antiresultative}
 
@@ -956,7 +962,7 @@ The diathesis is quite widespread with other resultative constructions \Next.
 - Ich schenke den Wein in das Glas. Ich schenke den Wein ein.
 - Ich grabe den Schatz aus den Boden. Ich grabe den Schatz aus.
 
-### --- [ ADJ > OBJ > Ø ] Chained Antiresultative --- {.unnumbered}
+### --- [ PBJ > OBJ > Ø ] Chained Antiresultative --- {.unnumbered}
 
 ### [ NLA | NA– ] Preverb applicative + accusative drop {#sec:preverb-location-antiresultative}
 
@@ -1147,196 +1153,265 @@ The verb *ansehen* has various different senses, as summarized in [@sec:preverb-
 
 ### [ Np | NA ] Preverb applicative {#sec:preverb-applicative}
 
-both governed and non-governed???
-
-#### *beˈ-* Applicative
-
 (Eroms 1b/III/IV, Kim 1983 1.1)
 
-- an    : *arbeiten, denken, fummeln, grenzen, knabbern, riechen, schnuppern*
-- auf   : *achten, antworten, brüten, deuten, fallen, glotzen, hauchen, legen, leuchten, pinkeln, reiten, scheinen, segeln, spucken, springen, steigen, treffen, treten, wandern*
-- über  : *gutachten, herrschen, jammern, jubeln, klagen, lachen, reden, schmunzeln, spotten, sprechen, staunen, trauern, urteilen, weinen, zweifeln*
-- in    : *fischen, siedeln, wohnen, wuchern*
-- gegen : *geifern, kämpfen*
-- zu    : *lügen*
-- nach  : *fliegen, reisen, streben*
+#### *an* Preverb applicative
+
+**Attested Verbs**
+
+- beˈ  : *fummeln, grenzen, knabbern, riechen, schnuppern, wuchern*
+- zerˈ : *nagen, kratzen, reiben, reißen*
+- 'an  : *fahren, fassen, knabbern*
+
+**Examples**
+
+- Die Mauer grenzt an den Garten. Die Mauer begrenzt den Garten
+- Der Efeu bewuchert die Mauer. Der Efeu wuchern an der Mauer.
+- Der Hund kratzt an der Tür. Der Hund zerkratzt die Tür.
+- Ich fahre an den Bodensee. Ich fahre den Bodensee an.
+- Ich fasse an die Wand. Ich fasse die Wand an.
+
+#### *auf* Preverb applicative
+
+**Attested Verbs**
+
+- beˈ  : *brüten, glotzen, hauchen, legen, leuchten, pinkeln, reiten, scheinen, segeln, spucken, springen, steigen, treffen, treten, wandern*
+- erˈ  : *blicken, drücken, klettern, schießen, steigen, zielen*
+- zerˈ : *beißen, drücken, hauen, kauen, klopfen, schießen, schlagen, trampeln, treten*
+- 'ein : *drücken, hämmern, klagen, laufen, reiten, schlagen, schießen, treten*
+- 'an  : *spucken, stampfen*
+
+**Examples**
 
 - Ich steige auf den Berg. Ich besteige den Berg.
-- Ich klage über den Lärm. Ich beklage den Lärm
-- Die Mauer grenzt an den Garten. Die Mauer begrenzt den Garten
-- Die Weltausstellung deutet auf den Frieden. Das Gesetz bedeutet das Ende für Dieselautos.
-- Ich antworte auf deine Frage. Ich beantworte deine Frage.
-- Ich lüge zu dir. Ich belüge dich.
-- Ich strebe nach einem hohen Amt. Ich bestrebe ein hohes Amt.
-
-#### *verˈ-* Applicative
-
-- für   : *sorgen*
-- um    : *spielen, wetten*
-- mit   : *heizen, schießen, schludern, spekulieren, spritzen, sprühen, zögern*
-- bei   : *schlampen*
-- über  : *fluchen, klagen, spotten, schweigen*
-
-- Ich sorge für dich. vs. Ich versorge dich.
-- Ich zögere mit den Massnahmen. Ich verzögere die Massnahmen
-
-#### *erˈ-* Applicative
-
-- an    : *arbeiten*
-- auf   : *blicken, drücken, klettern, schießen, sinnen, steigen, strahlen, warten, zielen*
-- nach  : *bohren, fragen, jagen, greifen, langen, lauschen, reichen, schauen, sehnen, spähen, tasten*
-- unter : *leiden*
-- um    : *betteln, bitten, fechten, flehen, kämpfen, mogeln, spielen, streiten, tanzen*
-- über  : *denken, forschen, lesen, lügen*
-- von   : *träumen*
-- zu    : *blicken, greifen*
-- bis   : *reichen*
-- bei   : *schwindeln*
-
 - Ich blicke auf meinen Freund. Ich erblicke meinen Freund.
-- Ich reiche nach der Flasche. Ich erreiche die Flasche nicht. 
 - Ich steige auf den Berg. Ich ersteige den Berg. 
-- Die Klasse arbeitet an dem Begriff "Realismus". Die Klasse erarbeitet den Begriff "Realismus".
-- Der Mantel reicht bis zu meinen Füßen. Der Mantel erreicht meine Füße.
-- Ich schwindele bei meinem Darlehen. Ich erschwindele (mir) mein Darlehen. (Dative reflexive is possessor raising)
-
-#### *zerˈ-* Applicative
-
-- auf : *beißen, drücken, hauen, kauen, klopfen, schießen, schlagen, trampeln, treten*
-- in  : *bohren, stechen, wühlen*
-- an  : *nagen, kratzen, reiben, reißen*
-
 - Ich schlage auf den Schrank. Ich zerschlage den Schrank.
-- Ich bohre in dem Holz. Ich zerbohre das Holz.
-- Er sticht (mit der Nadel) in den Finger. Er zersticht den Finger (mit der Nadel).
-- Der Hund kratzt an der Tür. Der Hund zerkratzt die Tür.
-- Ich wühle im Haar. Ich zerwühle das Haar.
-
-#### *durchˈ-* Applicative
-
-- auf   : *schauen, schlagen*
-- durch : *dringen, fahren, fließen, laufen, streifen, ziehen*
-- in    : *bohren, leuchten, suchen*
-- über  : *denken*
-
-- Ich schaue auf diene Bewegungen. Ich durchschaue deine List.
-- Ich fahre durch das Dorf. Ich durchfahre das Dorf.
-- Der Fluß fließt durch das Tal. Der Fluß durchfließt das Tal.
-- Der Regen dringt durch den Vorhang. Der Regen durchdringt den Vorhang.
-- Ich leuchte in jeden Winkel. Ich durchleuchte jeden Winkel.
-- Ich bohre in dem Brett. Ich durchbohre das Brett.
-- Ich schlage auf die Scheibe. Ich durchschlage die Scheibe.
-- Die Horden ziehen durch das Land. Die Horden durchzogen das Land.
-- Ich laufe durch den Wald. Ich durchlaufe den Wald.
-- Ich denke über den Plan. Ich durchdenke den Plan.
-- Ich suche in der Wohnung. Ich durchsuche die Wohnung.
-- Ich streife durch die Stadt. Ich durchstreife die Stadt.
-
-#### *umˈ-* Applicative
-
-- um : *fahren*
-
-- Ich fahre um den Polizisten. Ich umfahre den Polizisten
-
-#### *überˈ-* Applicative
-
-- über : *fahren, fliegen, rollen, schreiten, springen*
-- mit  : *reden*
-- an   : *arbeiten*
-
-- Ich schreite über die Schwelle. Ich überschreite die Schwelle.
-- Ich fahre über den Polizisten. Ich überfahre den Polizisten.
-- Ich rede mit dir. Ich überrede dich.
-- Ich arbeite an dem Text. Ich überarbeite den Text.
-
-#### *unterˈ-* Applicative
-
-- unter : *graben, spülen*
-
-- Das Wasser spült unter der Straße. Das Wasser unterspült die Straße.
-
-#### *'durch-* Applicative
-
-- auf   : *drücken, schlagen*
-- in    : *beißen, blättern, bohren, suchen*
-- über  : *boxen* (metaphorical)
-- während : *stehen* (metaphorical)
-
-- Ich drücke auf den Knopf. Ich drücke den Plan durch.
-- Ich schlage auf die Scheibe. Ich schlage die Scheibe durch.
-- Ich beiße in den Apfel. Ich beiße den Apfel durch.
-- Ich blättere in dem Buch. Ich blättere das Buch durch.
-- Ich bohre in dem Brett. Ich bohre das Brett durch.
-- Ich suche in meiner Tasche nach dem Schlüssel. Ich suche meine Tasche nach dem Schlüssel durch.
-- Ich boxe (mit der Kommision) über den Vorschlag. Ich boxe den Vorschlag (in der Kommision) durch.
-- Ich stehe in dem Garten während des Rückschlages. Ich stehe einen Rückschlag durch.
-
-remove?
-
-durch : *fahren, fließen, laufen* ???
-
-- Ich fahre durch das Dorf. Ich fahre (durch!) das Dorf durch.
-- Ich laufe durch den Wald. Ich laufe (durch!) den Wald durch.
-- Der Fluß fließt durch das Tal. Der Fluß fließt (durch!) das Tal durch.
-
-#### *'um-* Applicative
-
-- gegen : *fahren, stoßen*
-
-- Ich fahre gegen den Stein. Ich fahre den Stein um.
-
-#### *'auf-* Applicative
-
-- gegen : *stoßen*
-
-- Ich stoße gegen die Tür. Ich stoße die Tür auf.
-
-#### *'ein-* Applicative
-
-- auf   : *drücken, hämmern, klagen, laufen, reiten, schlagen, schießen, treten*
-- mit   : *kalkulieren, rechnen*
-
 - Ich drücke auf den Knopf. Ich drücke den Knopf ein.
 - Ich klage auf Schadensersatz. Ich klage das Geld ein.
-- Ich rechne/kalkuliere mit einem Verlust. Ich rechne/kalkuliere den Verlust ein.
 - Ich reite auf einem Pferd. Ich reite das Pferd ein.
 - Ich laufe auf meinen neuen Schuhen. Ich laufe meine neue Schuhe ein.
 
-#### *'an-* Applicative
+#### *'gegen*  Preverb applicative
 
-- an    : *fahren, fassen, knabbern*
-- auf   : *spucken, stampfen*
-- gegen : *fahren, hüpfen, springen*
-- zu    : *beten, blicken, brüllen, grinsen, lachen, reden, schauen, schreien, singen, sprechen, winken*
-- über  : *klagen*
+- 'an  : *fahren, hüpfen, springen*
+- 'um  : *fahren, stoßen*
+- 'auf : *stoßen*
 
-- Ich fahre an den Bodensee. Ich fahre den Bodensee an.
 - Ich fahre gegen das Auto. Ich fahre das Auto an.
-- Ich spreche zu dem Mann. Ich spreche den Mann an.
-- Ich fasse an die Wand. Ich fasse die Wand an.
-- Ich rede zu dir. Ich rede dich an.
-- Ich klage über dich. Ich klage dich an.
-- Ich singe zu meiner Geliebten. Ich singe meine Geliebte an.
+- Ich fahre gegen den Stein. Ich fahre den Stein um.
+- Ich stoße gegen die Tür. Ich stoße die Tür auf.
 
-#### *'ab-* Applicative
+#### *in* Preverb applicative
 
-- über  : *schreiten*
+**attested Verbs**
 
-- Ich schreite über den Läufer. Ich schreite den Läufer ab
+- beˈ    : *fischen, siedeln, wohnen*
+- zerˈ   : *bohren, stechen, wühlen*
+- durchˈ : *bohren, leuchten, suchen*
 
-#### *'aus-* Applicative
+**Examples**
 
-- über   : *denken, plaudern, lachen*
-- an     : *arbeiten, denken*
-- nach   : *graben*
+- Ich bohre in dem Holz. Ich zerbohre das Holz.
+- Er sticht (mit der Nadel) in den Finger. Er zersticht den Finger (mit der Nadel).
+- Ich wühle im Haar. Ich zerwühle das Haar.
+- Ich leuchte in jeden Winkel. Ich durchleuchte jeden Winkel.
+- Ich bohre in dem Brett. Ich durchbohre das Brett.
+- Ich suche in der Wohnung. Ich durchsuche die Wohnung.
 
-- Ich plauderte über mein Geheimnis. Ich plauderte das Geheimnis aus.
-- Ich denke an/über den Plan. Ich denke den Plan aus.
-- Ich arbeite an dem Plan. Ich arbeite den Plan aus.
-- Ich lache über dich. Ich lache dich aus.
+#### *mit* Preverb applicative
+
+**Attested Verbs**
+
+- verˈ  : *heizen, schießen, schlampen, schludern, spekulieren, spritzen, sprühen, zögern*
+- erˈ   : *schwindeln*
+- überˈ : *reden*
+
+**Examples**
+
+- Ich verheize das Holz. Ich heize mit Holz.
+- Ich schlampe mit meinen Aufgaben. Ich verschlampe meine Aufgaben
+- Ich zögere mit den Massnahmen. Ich verzögere die Massnahmen
+- Ich zögere mit der Abreise. Ich verzögere die Abreise.
+- Ich schwindele mit meinem Darlehen. Ich erschwindele (mir) mein Darlehen. (Dative reflexive is possessor raising)
+- Ich rede mit dir. Ich überrede dich.
+
+#### *nach* Preverb applicative
+
+**Attested Verbs**
+
+- beˈ : *fliegen, reisen*
+- erˈ : *bohren, fragen, jagen, greifen, lauschen, reichen, schauen, spähen, tasten*
+- 'aus : *graben*
+
+**Examples**
+
+- Ich reiche nach der Flasche. Ich erreiche die Flasche nicht. 
 - Ich grabe nach den Schatz. Ich grabe den Schatz aus.
 
-### [ NP | NA ] Preverb reflexive applicative
+#### *zu* Preverb applicative
+
+**Attested Verbs**
+
+- beˈ : *lügen*
+- erˈ : *blicken, greifen, reichen*
+- 'an : *beten, blicken, brüllen, grinsen, klagen, lachen, reden, schauen, schreien, singen, sprechen, winken*
+
+**Examples**
+
+- Ich lüge zu dir. Ich belüge dich.
+- Der Mantel reicht bis zu meinen Füßen. Der Mantel erreicht meine Füße.
+- Ich spreche zu dem Mann. Ich spreche den Mann an.
+- Ich rede zu dir. Ich rede dich an.
+- Ich klage zu dir. Ich klage dich an.
+- Ich singe zu meiner Geliebten. Ich singe meine Geliebte an.
+
+#### --- Prefixes über/unter/um/durch ---
+
+#### *durch* Preverb applicative
+
+**Attested Verbs**
+
+- durchˈ : *dringen, fahren, fließen, laufen, schauen, schlagen, streifen, ziehen*
+- 'durch : *beißen, blättern, bohren, fahren, fließen, laufen, schlagen*
+
+**Examples**
+
+- Ich fahre durch das Dorf. Ich durchfahre das Dorf.
+- Der Fluß fließt durch das Tal. Der Fluß durchfließt das Tal.
+- Der Regen dringt durch den Vorhang. Der Regen durchdringt den Vorhang.
+- Die Horden ziehen durch das Land. Die Horden durchzogen das Land.
+- Ich laufe durch den Wald. Ich durchlaufe den Wald.
+- Ich streife durch die Stadt. Ich durchstreife die Stadt.
+- Ich schaue durch das Mikroskop. Ich durchschaue deine List.
+- Ich schlage durch die Scheibe. Ich durchschlage die Scheibe.
+- Ich blättere durch das Buch. Ich blättere das Buch durch.
+- Ich bohre durch den Brett. Ich bohre das Brett durch.
+- Ich schlage durch die Scheibe. Ich schlage die Scheibe durch.
+- Ich fahre durch das Dorf. Ich fahre das Dorf durch.
+- Ich laufe durch den Wald. Ich laufe den Wald durch.
+- Der Fluß fließt durch das Tal. Der Fluß fließt das Tal durch.
+- Ich beiße durch den Apfel. Ich beiße den Apfel durch.
+
+#### *über* Preverb applicative
+
+**Attested Verbs**
+
+- überˈ : *fahren, fliegen, rollen, schreiten, springen*
+
+**Examples**
+
+- Ich schreite über die Schwelle. Ich überschreite die Schwelle.
+- Ich fahre über den Polizisten. Ich überfahre den Polizisten.
+
+#### *um* Preverb applicative
+
+**Attested Verbs**
+
+- umˈ : *fahren*
+
+**Examples**
+
+- Ich fahre um den Polizisten. Ich umfahre den Polizisten
+
+#### *unter* Preverb applicative
+
+**Attested Verbs**
+
+- unterˈ : *graben, spülen*
+
+**Examples**
+
+- Das Wasser spült unter der Straße. Das Wasser unterspült die Straße.
+
+### --- [ PBJ > OBJ ] Governed Applicative --- {.unnumbered}
+
+### [ NP | NA ] Preverb governed applicative {#sec:preverb-governed-applicative}
+
+#### *an* Preverb governed applicative
+
+- beˈ    : *arbeiten, denken*
+- erˈ    : *arbeiten, denken, leiden*
+- überˈ  : *arbeiten, denken*
+- durchˈ : *denken*
+- 'aus   : *arbeiten*
+
+- Ich arbeite an dem Text. Ich überarbeite den Text.
+- Ich arbeite an dem Plan. Ich arbeite den Plan aus.
+- Die Klasse arbeitet an dem Begriff "Realismus". Die Klasse erarbeitet den Begriff "Realismus".
+- Ich denke an den Plan. Ich durchdenke den Plan.
+- Ich leide an Kopfschmerzen. Ich erleide Kopfschmerzen.
+
+#### *auf* Preverb governed applicative
+
+**Attested Verbs**
+
+- beˈ : *achten, antworten, deuten*
+- erˈ : *sinnen, warten*
+
+**Examples**
+
+- Ich antworte auf deine Frage. Ich beantworte deine Frage.
+- Die Weltausstellung deutet auf den Frieden. Das Gesetz bedeutet das Ende für Dieselautos.
+
+#### *gegen* Preverb governed applicative
+
+**Attested Verbs**
+
+- beˈ : *geifern, kämpfen*
+
+**Examples**
+
+- Ich kämpfe gegen dem Unrecht. Ich bekämpfe das Unrecht.
+
+#### *mit* Preverb governed applicative
+
+**Attested Verbs**
+
+- 'ein  : *kalkulieren, rechnen*
+
+**Examples**
+
+- Ich rechne/kalkuliere mit einem Verlust. Ich rechne/kalkuliere den Verlust ein.
+
+#### *nach* Preverb governed applicative
+
+**Attested Verbs**
+
+- beˈ : *streben*
+- erˈ : *langen, sehnen*
+
+**Examples**
+
+- Ich strebe nach einem hohen Amt. Ich bestrebe ein hohes Amt.
+
+#### *über* Preverb governed applicative
+
+**Attested Verbs**
+
+- beˈ  : *gutachten, herrschen, jammern, jubeln, klagen, lachen, reden, schmunzeln, spotten, sprechen, staunen, trauern, urteilen, weinen, zweifeln*
+- erˈ  : *forschen, lesen, lügen*
+- verˈ : *fluchen, klagen, spotten, schweigen*
+- 'aus : *plaudern, lachen*
+
+**Examples**
+
+- Ich klage über den Lärm. Ich beklage den Lärm
+- Ich plauderte über mein Geheimnis. Ich plauderte das Geheimnis aus.
+- Ich lache über dich. Ich lache dich aus.
+
+#### *um* Preverb governed applicative
+
+**Attested Verbs**
+
+- verˈ : *spielen, wetten*
+- erˈ  : *betteln, bitten, fechten, flehen, kämpfen, mogeln, spielen, streiten, tanzen*
+
+**Examples**
+
+- Ich verspiele mein Haus. Ich spiele um mein Haus.
+
+### [ NP | NA ] Preverb reflexive governed applicative
 
 Counterexample to generalisation that non-self-inflicting reflexive pronouns are always accusative!
 
@@ -1344,37 +1419,17 @@ The dative can probably always be interpreted as the possessor of the accusative
 
 **Attested Verbs**
 
-- erˈ- : *betteln, hoffen, sehnen, spielen*
+- erˈ- : *betteln, hoffen, sehnen, spielen, träumen*
 - ˈaus- : *denken*
 
 **Examples**
 
-- Ich hoffe auf einen schönen Geburstag. Ich erhoffe mir einen schönen Geburtstag.
+- Ich hoffe auf einen schönen Geburtstag. Ich erhoffe mir einen schönen Geburtstag.
 - Ich bettele um ein Stück Brot. Ich erbettele mir ein Stück Brot.
 - Ich spiele um den Sieg. Ich habe mir den Sieg erspielt.
 - Ich denke an den Plan. Ich denke mir den Plan aus.
 
-### [ NPp | NAD ] Preverb applicative + dative applicative {#sec:preverb-double-applicative}
-
-Ist das wirklich möglich???
-
-\ex.
- \a. Ich schweige zu dir über meinen Besuch.
- \b. Ich verschweige dir meinen Besuch.
-
-**Attested Verbs**
-
-- verˈ- : *schweigen, sprechen*
-- ˈvor- : *heulen, lügen*
-- ˈab-  : *schwatzen*
-
-**Examples**
-
-- Ich spreche (zu dir) über das Buch. Ich verspreche dir das Buch.
-- Ich lüge (zu dir) über meine Leistung. Ich lüge dir eine Geschichte vor.
-- Ich schwatze mit dir über dein Geld. Ich schwatze dir dein Geld ab.
-
-### [ NPD | NAD ] Preverb applicative + dative
+### [ NPD | NAD ] Preverb governed applicative + dative
 
 \ex.
  \a. Er droht mir mit Entlassung.
@@ -1388,6 +1443,41 @@ Ist das wirklich möglich???
 **Examples**
 
 - Ich danke dir für deinen Einsatz. Ich verdanke dir mein Leben. 
+
+### [ NPp | NAD ] Preverb governed applicative + dative applicative {#sec:preverb-double-applicative}
+
+\ex.
+ \a. Ich schweige zu dir über meinen Besuch.
+ \b. Ich verschweige dir meinen Besuch.
+
+**Attested Verbs**
+
+- verˈ- : *schweigen, sprechen*
+- ˈvor- : *heulen, lügen*
+- ˈab-  : *schwatzen*
+
+**Examples**
+
+- Ich spreche (mit dir) über das Buch. Ich verspreche dir das Buch.
+- Ich lüge (zu dir) über meine Leistung. Ich lüge dir eine Geschichte vor.
+- Ich schwatze (mit dir) über dein Geld. Ich schwatze dir dein Geld ab.
+
+### --- [ ADJ > OBJ > OBJ ] Chained Applicative --- {.unnumbered}
+
+### [ NPA | NAD ] Preverb applicative + accusative-to-dative
+
+\ex.
+ \a. Ich dränge dich zu einem Abo.
+ \b. Ich dränge dir ein Abo auf.
+
+**Attested Verbs**
+
+- ˈab-  : *gewöhnen*
+- ˈauf- : *drängen*
+
+**Examples**
+
+- Ich gewöhne die Kinder an Sauberkeit. Sie gewöhnt mir das Rauchen ab.
 
 ### --- [ ADJ > OBJ ] Dative Applicative --- {.unnumbered}
 
@@ -1451,23 +1541,6 @@ Ist das wirklich möglich???
 - Ich packe noch weitere Lasten auf den Esel. Ich packe dem Esel noch weitere Lasten auf.
 - Ich wickele ein Tuch um dich. Ich wickele dir ein Tuch um.
 - Sie klebt einen Bart an ihm. Sie klebt ihm einen Bart an.
-
-### --- [ ADJ > OBJ > OBJ ] Chained Applicative --- {.unnumbered}
-
-### [ NPA | NAD ] Preverb applicative + accusative-to-dative
-
-\ex.
- \a. Ich dränge dich zu einem Abo.
- \b. Ich dränge dir ein Abo auf.
-
-**Attested Verbs**
-
-- ˈab-  : *gewöhnen*
-- ˈauf- : *drängen*
-
-**Examples**
-
-- Ich gewöhne die Kinder an Sauberkeit. Sie gewöhnt mir das Rauchen ab.
 
 ## Symmetrical diatheses
 
@@ -1666,7 +1739,7 @@ Counterexample to generalisation that non-self-inflicting reflexive pronouns are
 
 ### --- [ OBJ > OBJ ] Case change --- {.unnumbered}
 
-### [ ND | NA ] Preverb dative-to-accusative
+### [ ND | NA ] Preverb dative-to-accusative {#sec:preverb-dative-accusative}
 
 **Attested Verbs**
 
