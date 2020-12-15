@@ -60,7 +60,7 @@ A special group of verbs can be used to performatively name persons or things. A
 \ex. 
  \a. Ich nenne dich [Lukas].
  \b. Ich nenne dich [einen Egoisten].
- \c. "Die Juden!" rief Franz ungeduldig, "was nennst du Juden? (DWDS: Bahr, Hermann: Die Rotte Korahs. Berlin u. a., 1919.)
+ \c. Was nennst du dein eigen?
 
 The small group of verbs that obligatorily takes such arguments will be discussed in [@sec:case-named-objects].
 
@@ -167,7 +167,7 @@ The number of monomorphemic 'strictly' transitive verbs seems to be very limited
 **Attested Verbs**
 
 - Monomorphemic: *bilden, brauchen, finden, freuen, grüßen, kennen, kriegen, merken, mögen, pflegen, tanken, wecken, wundern*
-- Verbpräfixes/particles: *abmessen, abschreiten, abwiegen, angehen, ansehen, ansetzen, begrüßen, beängstigen, behalten, bekommen, beruhigen, beschäftigen, darstellen, enthalten, entschuldigen, erreichen, umfassen, unterbrechen, verachten, verletzen, verschwenden, zerreißen, zerstören*
+- Verbpräfixes/particles: *abmessen, abschreiten, abwiegen, angehen, ansehen, ansetzen, begrüßen, beängstigen, behalten, bekommen, beruhigen, beschäftigen, darstellen, entschuldigen, erreichen, umfassen, unterbrechen, verachten, verletzen, verschwenden, zerreißen, zerstören*
 
 **Examples**
 
@@ -314,7 +314,7 @@ An exception to this rule blocking passivisation for quantified objects are the 
 
 **Attested Verbs**
 
-- Quantity: *kosten, rechnen, wachsen, wiegen, zunehmen*
+- Quantity: *enthalten, kosten, rechnen, wachsen, wiegen, zunehmen*
 - Quantity of time: *dauern*
 
 **Examples**
@@ -378,7 +378,7 @@ In German, the nominative constituent shows agreement with the verb. It is typic
 - Das Wasser kühlt ab. Morgen kühlt es ab.
 - Das kochen klappt noch nicht so gut. Jetzt klappt es. 
 
-### [ NA | –A ] Nominative drop + accusative
+### [ NA | –A ] Nominative drop + accusative {#sec:case-nominativ-drop-accusative}
 
 A few further apparent dropped nominatives are discussed here for completeness sake. They all appear to be highly idiosyncratic. The first phenomenon is the drop of the nominative with the verb *geben* when used in the meaning of 'to produce' \Next[a,b].
 
@@ -394,7 +394,7 @@ A few further apparent dropped nominatives are discussed here for completeness s
 
 - Ich brauche euch. Es braucht alle im Kampf gegen die Diktatur. 
 
-### [ ND | –D ] Nominative drop + dative
+### [ ND | –D ] Nominative drop + dative {#sec:case-nominativ-drop-dative}
 
 Some verbs with nominative and dative allow for the nominative to be dropped and replaced by a valency-simulating pronoun *es* \Next[a,b]. In most cases of a pronoun *es* with a dative, the pronoun *es* is either phoric \NNext[a] or position-simulating \NNext[b], both of which do not count as the drop of an argument.
 
@@ -410,7 +410,7 @@ Some verbs with nominative and dative allow for the nominative to be dropped and
 
 - *gefallen*
 
-### [ NG | –G ] Nominative drop + genitive
+### [ NG | –G ] Nominative drop + genitive {#sec:case-nominativ-drop-genitive}
 
 A few verbs with nominative and genitive arguments allow the nominative to be dropped, but the genitive to be retained \Next[a-d].
 
@@ -485,44 +485,30 @@ Some *haben* anticausative verbs have an obligatory dative \Next[c]. However, no
 
 ### --- [ Ø > SBJ ] Subject addition --- {.unnumbered}
 
-### [ – | N ] Nominative addition {#sec:case-nominative-addition}
+### [ – | N ] Weather agents {#sec:case-nominative-addition}
 
-For weather verbs \Next[a,b], semantically it seems to be rather clear that the addition of an agent is the metaphorical extension. However, formally there is no difference between the notion of 'nominative addition' as discussed in this section and a 'nominative drop' as discussed in [@sec:case-nominative-drop].
-
-\ex.
- \a. Hier regnet es.
- \b. Die Granaten regneten auf uns.
-
-The nominative subjects of weather verbs seem to be rather transparent metaphorical extensions of the weather phenomena. However, the number of different metaphorical uses is rather extensive. Some examples of nominative subjects are listed in \Next[]. 
+For weather verbs \Next, semantically it seems to be rather clear that the addition of an agent is an extension to a basically avalent verb. However, formally there is no difference between the notion of 'nominative addition' as discussed in this section and a 'nominative drop' as discussed in [@sec:case-nominative-drop].
 
 \ex.
- \a. *regnen: Blumen, Blätter, Konfetti, Granaten, Kugeln, Bomben, Scherben, Tropfen, Anfragen*
- \b. *hageln: Schüsse, Kugeln, Bomben, Steine, Vorwürfe, Worte, Schmährufe, Beschwerden*
- \c. *blitzen: Zähne, Augen, Wege, Steine, Kristalle, Laternen, Sterne, Lichter*
- \d. *donnern: Kanonen, Schüsse, Mörser, Böller, Reden, Argumente, Eisenbahn, Wagen, Züge, Motoren, Zorn*
+ \a. Es weht.
+ \b. Der Wind weht.
+
+Such addition of an agent appears to be rare. It is crucial to distinguish agent-like subjects that are the originators of the phenomenon expressed by the verb, like *Wind* 'wind' in \Last[b], from patient-like subjects that are propelled by the phenomenon, like *Blätter* 'leaves' \Next[a]. With such patient-like subjects a locational phrase is necessary. These constructions are discussed in [@sec:prepositions-weather-manner-movement].
+
+\ex.
+ \a. Die Blätter wehen durch die Luft.
+ \b. \* Die Blätter wehen.
+
+Another different diathesis adding arguments to weather verbs is the addition of objects, discussed in [@sec:case-accusative-addition-without-nominative].
 
 **Attested Verbs**
 
-- Weather Verbs: *regnen, hageln, blitzen, donnern, schütten, wehen*
+- *regnen, stürmen, wehen*
 
 **Examples**
 
-- Hier hagelt es. Die Vorwürfe hagelten von allen Seiten auf uns.
-- Hier blitzt es. Die Steine blitzten in der Sonne.
-- Hier donnert es. Die Motoren donnerten.
-
-### [ A | N ] Accusative-to-nominative promotion
-
-Some verbs with experiences subjects needed an accusative subject in older stages of German [@nubling2006: 103-104], but these either were completely lost \Next[a], or tend to be replaced by a nominative \Next[b,c]. The verb *frieren* 'to be cold' with a human experiencer is currently in the middle of this transition, allowing for both constructions.
-
-\ex.
- \a. Mich dürstet.
- \b. Mich friert.
- \c. Ich friere.
-
-**Attested Verbs**
-
-- *frieren*
+- Der Regen regnet täglich.
+- Das Wetter stürmt.
 
 ### --- [ Ø > SBJ > OBJ ] Causative --- {.unnumbered}
 
@@ -590,6 +576,21 @@ The process to make a causative with the suffix *-jan* also applied to adjectiva
 **Attested Verbs**
 
 - *voll/füllen, glatt/glätten, hart/härten, schwarz/schwärzen, warm/wärmen*
+
+### --- [ OBJ > SBJ ] Subject promotion --- {.unnumbered}
+
+### [ A | N ] Accusative-to-nominative promotion
+
+Some verbs with experiences subjects needed an accusative subject in older stages of German [@nubling2006: 103-104], but these either were completely lost \Next[a], or tend to be replaced by a nominative \Next[b,c]. The verb *frieren* 'to be cold' with a human experiencer is currently in the middle of this transition, allowing for both constructions.
+
+\ex.
+ \a. Mich dürstet.
+ \b. Mich friert.
+ \c. Ich friere.
+
+**Attested Verbs**
+
+- *frieren*
 
 ## Diatheses with object demotion {#sec:case-object-demotion}
 
@@ -798,7 +799,7 @@ I have tried to separate in this chapter between the demotion of an object (anti
 
 ### --- [ Ø > OBJ ] Object addition --- {.unnumbered}
 
-### [ – | A ] Accusative addition without nominative {#sec:case-accusative-addition-without-nominative}
+### [ – | A ] Weather verbs with accusative {#sec:case-accusative-addition-without-nominative}
 
 A few of the verbs that allow for the nominative to be absent (see [@sec:case-nominative-addition]) can have an accusative object without a nominative, although this possibility seems to be strongly limited to weather phenomena \Next[a,b] and is often used metaphorically \NNext.
 
@@ -818,9 +819,9 @@ A few of the verbs that allow for the nominative to be absent (see [@sec:case-no
 - Es schneit. Gestern hat es dicke Flocken geschneit.
 - Es regnet. Gestern hat es nur einzelne Tropfen geregnet.
 
-### [ N– | NA ] Accusative addition {#sec:case-accusative-addition}
+### [ N– | NA ] Resultative {#sec:case-accusative-addition}
 
-There are various kinds of objects that can be added to apparent intransitives, leading to a bare applicative construction. For example: a competitive entity in sports \Next[a], the result of an action \Next[b], the name of the result of an action \Next[c] and possibly many other \Next[d,e].
+There are various kinds of objects that can be added to apparent intransitives with a resultative meaning. For example: a competitive entity in sports \Next[a], the result of an action \Next[b], the name of the result of an action \Next[c] and possibly many other \Next[d,e].
 
 \ex.
  \a. Er ist/hat den Marathon gelaufen.
@@ -829,7 +830,7 @@ There are various kinds of objects that can be added to apparent intransitives, 
  \d. Er hat den Staub geatmet.
  \e. Er hat den Tatort geschaut.
 
-A similar phenomenon is attested with 'manner of speaking' verbs like *stottern* 'to stutter' \Next[a]. Such verbs can take an accusative object with a meaning like 'He uttered something in a stuttering manner' \Next[b]. Note that by adding a possessed prepositional phrase \Next[c], it is even possible to use a possessor-dative alternation \Next[d], see  [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative], leading to an apparently 'intransitive' verb with a dative, accusative and a non-droppable prepositional argument.
+A similar phenomenon is attested with 'manner of speaking' verbs like *stottern* 'to stutter' \Next[a]. Such verbs can take an accusative object with a meaning like 'He uttered something in a stuttering manner' \Next[b]. Note that by adding a possessed prepositional phrase \Next[c], see [@sec:prepositions-intransitive-location-as-result], it is even possible to use a possessor-dative alternation \Next[d], see  [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative], leading to an apparently 'intransitive' verb with a dative, accusative and a non-droppable locational argument.
 
 \ex.
  \a. Er stotterte vor Aufregung

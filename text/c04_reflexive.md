@@ -1005,6 +1005,8 @@ These verbs have an "von alleine/von Geisterhand/ohne Ursache" reading. The pron
 
 There is some literature about the difference between the unmarked anticausative (see [@sec:case-haben-anticausative]) and the *sich* anticausative [#sec:reflexive-anticausative] (e.g. Schäfer 2008, Kurogo 2016).
 
+[@schafer2007: 35ff.]
+
 \ex.
  \a. Die Tür hat sich geschlossen.
  \b. Die Tür ist geschlossen
@@ -1027,10 +1029,10 @@ This alternation is probably more frequent in the Perfekt, because there is no f
 
 **Attested Verbs**
 
-- Change of position: *ändern, bewegen, drehen, öffnen, schließen, spalten, verschieben, versammeln*
+- Change of position: *ändern, aufrichten, bewegen, drehen, lockern, öffnen, schließen, spalten, teilen, verschieben, versammeln*
 - Change of dimension: *abschwächen, ansparen, ausbreiten, ausdehnen, beschleunigen, beschränken, entfalten, erhöhen, erweitern, senken, steigern, verändern, verbessern, verbreiten, verdoppeln, verengen, vergrößern, verkleinern, verkürzen, verlangsamen, verlängern, vermehren, verringern, verstärken*
-- Change of physical state: *abkühlen, abnutzen, abschalten, auflösen, aufwärmen, ausschalten, beziehen, einfügen, einschalten, eindrücken, entzünden, erwärmen, färben, festigen, füllen, gliedern, komplizieren, leeren, stürzen, verändern, verbessern, vereinfachen, verhaken, verschlechtern, verwandeln, wärmen*
-- Others: *ansammeln, bessern, bestätigen, erfüllen, entscheiden, konstituieren, lohnen, unterwerfen, wiederholen, zeigen*
+- Change of physical state: *abkühlen, ablagern, ablösen, abnutzen, abschalten, abschwächen, auflösen, aufwärmen, ausschalten, beziehen, einfügen, einschalten, eindrücken, entzünden, erwärmen, färben, festigen, füllen, gliedern, komplizieren, leeren, stürzen, verändern, verbessern, vereinfachen, verhaken, verschlechtern, verwandeln, wärmen*
+- Others: *ansammeln, bessern, bestätigen, erfüllen, entscheiden, konstituieren, lohnen, mildern, unterwerfen, wiederholen, zeigen*
 
 **Examples**
 

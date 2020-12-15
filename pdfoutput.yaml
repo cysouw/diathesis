@@ -6,6 +6,7 @@ pdf-engine: xelatex
 
 output-file: cysouwDiathesisManuscript.pdf
 input-files:
+- text/c00_preface.md
 - text/c01_introduction.md
 - text/c02_case.md
 - text/c03_prepositions.md

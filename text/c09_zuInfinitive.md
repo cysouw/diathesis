@@ -178,6 +178,8 @@ Also with various manner adverbs?
 
 - Die Dateien gehen leicht/schwer zu löschen.
 
+[@helbig2001: 166] "können" interpretation: Das Radio geht zu reparieren.
+
 ### [ NA | –N ] *stehen + zu + Infinitiv*
 
 Nur für Verben mit einer Satzeinbettung? *bedenken, befürchten, bezweifeln, vermuten, hoffen, erwarten, lesen*

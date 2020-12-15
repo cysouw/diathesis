@@ -438,7 +438,10 @@ Manner of motion [@sec:prepositions-manner-of-movement]
 
 - *irren, klettern, kriechen, schwanken, stampfen, stürmen, tanzen, tropfen, wackeln*
 
-Der Wind hat gestürmt. Sie sind in den Saal gestürmt
+Weather verbs
+
+- Die Blätter sind auf die Schienen geweht. Ihr Haar hat im Wind geweht.
+- Der Wind hat gestürmt. Sie sind in den Saal gestürmt
 
 Beide möglich? "degree of achievement verbs"
 
@@ -1019,6 +1022,10 @@ Nur wenige geeignete Verben: typisch Antikausative?
 - Das Fass bleibt gefüllt.
 
 nicht im Perfekt? * Die Tür ist geschlossen geblieben
+
+[@helbig2001: 163] "kontinuativ" "irreversibel Geschehen nicht möglich"
+
+- \* Das Buch bleibt geschrieben/vollendet
 
 ### [ NA | –N ] *gehören + Partizip* Obligation anticausative {#sec:participles-gehoren-anticausative}
 

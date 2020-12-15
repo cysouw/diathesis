@@ -1135,7 +1135,7 @@ A verb like *schreiben* allows for dative and accusative arguments \Next[a], but
 
 ### [ NAg | NAD ] Preverb possessor-of-accusative to dative {#sec:preverb-possessor-raising}
 
-The verb *ansehen* has various different senses, as summarized in [@sec:preverb-dative-reflexive]. One of the senses can approximately be translated into English as 'to notice' \Next. In this sense of *ansehen*, the possessor of the accusative argument is obligatorily expressed as a dative.
+The verb *ansehen* has various different senses, as summarised in [@sec:preverb-dative-reflexive]. One of the senses can approximately be translated into English as 'to notice' \Next. In this sense of *ansehen*, the possessor of the accusative argument is obligatorily expressed as a dative.
 
 \ex.
  \a. Ich sehe seine Müdigkeit.
@@ -1153,7 +1153,13 @@ The verb *ansehen* has various different senses, as summarized in [@sec:preverb-
 
 ### [ Np | NA ] Preverb applicative {#sec:preverb-applicative}
 
-(Eroms 1b/III/IV, Kim 1983 1.1)
+A widespread diathesis induced by a preverb is the change of a prepositional phrase into an accusative. An example is the alternation between *grenzen an* 'to border on' and *begrenzen* 'to limit' \Next, see e.g. Eroms [@eroms1980, Class 1b/III/IV; @kim1983: §1.1].
+
+\ex.
+ \a. Die Mauer grenzt an den Garten. 
+ \b. Die Mauer begrenzt den Garten
+
+Note that the prepositions *über, unter, um, durch* appear to have a special status. These prepositions always alternate with exactly the same preverbs. Note that these prepositions are exactly those that can function both as verbal prefix and as (separable) verbal particle (see [@sec:preverbs-prefixes-particles]).
 
 #### *an* Preverb applicative
 
@@ -1165,7 +1171,6 @@ The verb *ansehen* has various different senses, as summarized in [@sec:preverb-
 
 **Examples**
 
-- Die Mauer grenzt an den Garten. Die Mauer begrenzt den Garten
 - Der Efeu bewuchert die Mauer. Der Efeu wuchern an der Mauer.
 - Der Hund kratzt an der Tür. Der Hund zerkratzt die Tür.
 - Ich fahre an den Bodensee. Ich fahre den Bodensee an.
@@ -1191,6 +1196,33 @@ The verb *ansehen* has various different senses, as summarized in [@sec:preverb-
 - Ich klage auf Schadensersatz. Ich klage das Geld ein.
 - Ich reite auf einem Pferd. Ich reite das Pferd ein.
 - Ich laufe auf meinen neuen Schuhen. Ich laufe meine neue Schuhe ein.
+
+#### *durch* Preverb applicative
+
+The preposition *durch* only alternates with the preverb *durch-*.
+
+**Attested Verbs**
+
+- durchˈ : *dringen, fahren, fließen, laufen, schauen, schlagen, streifen, ziehen*
+- 'durch : *beißen, blättern, bohren, fahren, fließen, laufen, schlagen*
+
+**Examples**
+
+- Ich fahre durch das Dorf. Ich durchfahre das Dorf.
+- Der Fluß fließt durch das Tal. Der Fluß durchfließt das Tal.
+- Der Regen dringt durch den Vorhang. Der Regen durchdringt den Vorhang.
+- Die Horden ziehen durch das Land. Die Horden durchzogen das Land.
+- Ich laufe durch den Wald. Ich durchlaufe den Wald.
+- Ich streife durch die Stadt. Ich durchstreife die Stadt.
+- Ich schaue durch das Mikroskop. Ich durchschaue deine List.
+- Ich schlage durch die Scheibe. Ich durchschlage die Scheibe.
+- Ich blättere durch das Buch. Ich blättere das Buch durch.
+- Ich bohre durch den Brett. Ich bohre das Brett durch.
+- Ich schlage durch die Scheibe. Ich schlage die Scheibe durch.
+- Ich fahre durch das Dorf. Ich fahre das Dorf durch.
+- Ich laufe durch den Wald. Ich laufe den Wald durch.
+- Der Fluß fließt durch das Tal. Der Fluß fließt das Tal durch.
+- Ich beiße durch den Apfel. Ich beiße den Apfel durch.
 
 #### *'gegen*  Preverb applicative
 
@@ -1249,50 +1281,6 @@ The verb *ansehen* has various different senses, as summarized in [@sec:preverb-
 - Ich reiche nach der Flasche. Ich erreiche die Flasche nicht. 
 - Ich grabe nach den Schatz. Ich grabe den Schatz aus.
 
-#### *zu* Preverb applicative
-
-**Attested Verbs**
-
-- beˈ : *lügen*
-- erˈ : *blicken, greifen, reichen*
-- 'an : *beten, blicken, brüllen, grinsen, klagen, lachen, reden, schauen, schreien, singen, sprechen, winken*
-
-**Examples**
-
-- Ich lüge zu dir. Ich belüge dich.
-- Der Mantel reicht bis zu meinen Füßen. Der Mantel erreicht meine Füße.
-- Ich spreche zu dem Mann. Ich spreche den Mann an.
-- Ich rede zu dir. Ich rede dich an.
-- Ich klage zu dir. Ich klage dich an.
-- Ich singe zu meiner Geliebten. Ich singe meine Geliebte an.
-
-#### --- Prefixes über/unter/um/durch ---
-
-#### *durch* Preverb applicative
-
-**Attested Verbs**
-
-- durchˈ : *dringen, fahren, fließen, laufen, schauen, schlagen, streifen, ziehen*
-- 'durch : *beißen, blättern, bohren, fahren, fließen, laufen, schlagen*
-
-**Examples**
-
-- Ich fahre durch das Dorf. Ich durchfahre das Dorf.
-- Der Fluß fließt durch das Tal. Der Fluß durchfließt das Tal.
-- Der Regen dringt durch den Vorhang. Der Regen durchdringt den Vorhang.
-- Die Horden ziehen durch das Land. Die Horden durchzogen das Land.
-- Ich laufe durch den Wald. Ich durchlaufe den Wald.
-- Ich streife durch die Stadt. Ich durchstreife die Stadt.
-- Ich schaue durch das Mikroskop. Ich durchschaue deine List.
-- Ich schlage durch die Scheibe. Ich durchschlage die Scheibe.
-- Ich blättere durch das Buch. Ich blättere das Buch durch.
-- Ich bohre durch den Brett. Ich bohre das Brett durch.
-- Ich schlage durch die Scheibe. Ich schlage die Scheibe durch.
-- Ich fahre durch das Dorf. Ich fahre das Dorf durch.
-- Ich laufe durch den Wald. Ich laufe den Wald durch.
-- Der Fluß fließt durch das Tal. Der Fluß fließt das Tal durch.
-- Ich beiße durch den Apfel. Ich beiße den Apfel durch.
-
 #### *über* Preverb applicative
 
 **Attested Verbs**
@@ -1323,6 +1311,23 @@ The verb *ansehen* has various different senses, as summarized in [@sec:preverb-
 **Examples**
 
 - Das Wasser spült unter der Straße. Das Wasser unterspült die Straße.
+
+#### *zu* Preverb applicative
+
+**Attested Verbs**
+
+- beˈ : *lügen*
+- erˈ : *blicken, greifen, reichen*
+- 'an : *beten, blicken, brüllen, grinsen, klagen, lachen, reden, schauen, schreien, singen, sprechen, winken*
+
+**Examples**
+
+- Ich lüge zu dir. Ich belüge dich.
+- Der Mantel reicht bis zu meinen Füßen. Der Mantel erreicht meine Füße.
+- Ich spreche zu dem Mann. Ich spreche den Mann an.
+- Ich rede zu dir. Ich rede dich an.
+- Ich klage zu dir. Ich klage dich an.
+- Ich singe zu meiner Geliebten. Ich singe meine Geliebte an.
 
 ### --- [ PBJ > OBJ ] Governed Applicative --- {.unnumbered}
 

@@ -500,7 +500,16 @@ Only with *los/fest-*? compare [@sec:preverb-transitive-antiresultative}].
 
 ### --- [ Ø > OBJ ] Resultative --- {.unnumbered}
 
-### [ N– | NA ] Resultative + resultative adverbial
+### [ N– | NA ] Object addition + resultative adverbial
+
+Is this a separate category? Or can the new object always be expressed as a prepositional phrase without the adverbial?
+
+- Der Hund bellt zu den Kindern (?)
+
+Other intransitives without prepositional possibility ???
+
+- Ich falle meine Hose kaputt. Ich falle auf meine Hose (?)
+
 
 **Examples**
 

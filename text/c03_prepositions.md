@@ -368,7 +368,7 @@ With verbs like *abhängen* the nominative can be dropped, and a valency-simulat
 
 **Notes**
 
-Most dictionaries list *hapern* 'to be lacking' as having obligatory *es* \Next[a]. However, in corpora there are various examples with a nominative subject \Next[b,c].
+Some dictionaries list *hapern* 'to be lacking' as having obligatory *es* \Next[a]. However, in corpora there are various examples with a nominative subject \Next[b,c].
 
 \ex.
  \a. Es hapert an der Versorgung.
@@ -856,15 +856,14 @@ A commonly occurring alternation is that an accusative object can be reformulate
 There appear to be only a small selection of prepositions that can be used in such alternations, which will be discussed in turn in subsequent subsections.
 
 - *an*   : Partially completed action and/or bodily contact with object
-- *in*   : Partially completed action inside object
-- *von*  : Partial usage of object
-- *nach* : Less affected object of action in the direction of object
 - *auf*  : Action in the direction of object or object as musical instrument
-- *über* : Object of control, communication, cognitive content
-- *mit*  : Object as instrument/comitative
 - *aus*  : Object of reading
-- *für*
-- *zu* 
+- *in*   : Partially completed action inside object
+- *mit*  : Object as instrument or reciprocal activity
+- *nach* : Less affected object of action in the direction of object
+- *von*  : Partial usage of object
+- *über* : Object of control, communication, cognitive content
+- *zu*   : Direction
 
 It is important to realise that many verbs allow for more than one of these alternations, depending on the reading of the verb/object combination \Next[a,b]. With the same verb, there might even be combinations that do not allow for any prepositional alternation \Next[c-e].
 
@@ -917,6 +916,54 @@ Note the absence of a determiner in the following cases:
 - Ich gewinne Sicherheit. Ich gewinne an Sicherheit.
 - Wir verlieren Höhe. Wir verlieren an Höhe.
 
+#### *auf* Antipassive
+
+Accusative objects that alternate with an *auf* prepositional phrase indicate partially affected objects, either with actions on top of an object \Next[a] or with a finished action in the direction of an object \Next[b]. Also the playing of musical instruments \Next[c] show this alternation.
+
+\ex.
+ \a. Er reitet das Pferd. Er reitet auf dem Pferd.
+ \b. Ich schieße den Bären. Ich schieße auf den Bären.
+ \c. Ich blase die Trompete. Ich blase auf der Trompete.
+
+**Attested Verbs**
+
+- Action on top of Object: *reiten*
+- Contact: *jagen, kauen, küssen, schießen, treffen (schlagen), treten*
+- Playing musical instruments: *blasen, schlagen, spielen, üben*
+- Personal interaction: *hören, sprechen, treffen (begegnen)*
+
+**Examples**
+
+- Ich küsse deine Wange. Ich küsse auf deine Wange.
+- Ich treffe das Tor. Ich treffe auf das Tor.
+- Ich schlage die Trommel. Ich schlage auf die Trommel.
+- Ich spiele Klavier. Ich spiele auf dem Klavier.
+- Ich spreche Englisch. Ich spreche auf Englisch.
+- Ich kaue mein Brot. Ich kaue auf meinem Brot.
+- Ich treffe Anna. Ich treffe auf Anna.
+
+**Notes**
+
+The verbs *hören* \Next[a,b] and *achten* \Next[c,d] show considerable semantic shift in this alternation.
+
+\ex.
+ \a. Ich habe sie gehört.
+ \b. Ich habe auf sie gehört.
+ \c. Ich achte dich.
+ \d. Ich achte auf dich.
+
+#### *aus* Antipassive
+
+This alternation seems to be typical for objects of reading.
+
+**Attested Verbs**
+
+- *lesen, vorlesen, zitieren*
+
+**Examples**
+
+- Ich lese das Buch vor. Ich lese aus dem Buch vor.
+
 #### *in* Antipassive {#sec:prepositions-in-antipassive}
 
 Accusative objects that alternate with an *in* prepositional phrase seem to be rather uncommon. It only occurs when the action includes an aspect of occurring inside of an object. The prepositional alternate indicates partial completion of the action, very similarly to the *an* Antipassive.
@@ -938,33 +985,7 @@ Accusative objects that alternate with an *in* prepositional phrase seem to be r
 - Ich zwicke deinen Arm. Ich zwicke in deinen Arm.
 - Die Soldaten stürmen das Kastell. Sie stürmen in den Saal. (different meaning from the weather verb *stürmen* 'to storm')
 
-#### *von* Antipassive
-
-Accusative objects that alternate with an *von* prepositional phrase occur typically with consumption verbs, indicating that the consumption is only partially completed \Next[a]. Also actions that designate a transaction of an object that can be a part of something \Next[b]. In some contexts the verbs *wissen* 'to know' \Next[c] and *hören* 'to hear' \Next[d] also show this alternation.
-
-\ex.
- \a. Ich esse einen Apfel. Ich esse von dem Apfel.
- \b. Ich stehle die Blumen. Ich stehle von den Blumen.
- \c. Ich weiß deine Telefonnummer. Ich weiß von dem Schmuck.
- \d. Ich höre den Kampf in der Ferne. Ich höre von dem Kampf.
-
-**Attested Verbs**
-
-- Eat a part of: *essen, fressen, naschen, kosten, knabbern, probieren, trinken, versuchen*
-- Know a part of: *hören, verstehen, wissen*
-- Hand over a part of Accusative: *anbieten, aushändigen, besorgen, bringen, geben, liefern, schicken, schenken, senden, überreichen, überweisen, verkaufen*
-- Take away a part of: *abknöpfen, abnehmen, ausspannen, enteignen, entfernen, entlehnen, entleihen, entnehmen, entwenden, entziehen, klauen, nehmen, rauben, stehlen, wegnehmen*
-
-**Examples**
-
-- Ich nasche ein par Beeren. Ich nasche von den Beeren.
-- Ich koste den Wein. Ich koste von dem Wein.
-- Ich trinke den Wein. Ich trinke von den Wein.
-- Ich kaufe Trauben. Ich kaufe von den Trauben.
-- Ich verstehe Chemie gut. Ich verstehe viel von Chemie.
-- Er probiert/versucht die Torte. Er probiert/versucht von der Torte.
-
-#### *mit* Antipassive {#sec:prepositions-mit-antipassive}
+#### *mit* Intrumental antipassive {#sec:prepositions-mit-antipassive}
 
 Accusative objects that alternate with a *mit* prepositional phrase indicate partially affected objects, typically those that can be construed as an instrument \Next[a] or an instrument of transport \Next[b].
 
@@ -1018,65 +1039,31 @@ Accusative objects that alternate with a *nach* prepositional phrase indicate an
 - Ich trete den Ball. Ich trete nach dem Ball.
 - Ich rufe dich. Ich rufe nach dir.
 
-#### *auf* Antipassive
+#### *von* Antipassive
 
-Accusative objects that alternate with an *auf* prepositional phrase indicate partially affected objects, either with actions on top of an object \Next[a] or with a finished action in the direction of an object \Next[b]. Also the playing of musical instruments \Next[c] show this alternation.
-
-\ex.
- \a. Er reitet das Pferd. Er reitet auf dem Pferd.
- \b. Ich schieße den Bären. Ich schieße auf den Bären.
- \c. Ich blase die Trompete. Ich blase auf der Trompete.
-
-**Attested Verbs**
-
-- Action on top of Object: *reiten*
-- Contact: *jagen, kauen, küssen, schießen, treffen (schlagen), treten*
-- Playing musical instruments: *blasen, schlagen, spielen, üben*
-- Personal interaction: *hören, sprechen, treffen (begegnen)*
-
-**Examples**
-
-- Ich küsse deine Wange. Ich küsse auf deine Wange.
-- Ich treffe das Tor. Ich treffe auf das Tor.
-- Ich schlage die Trommel. Ich schlage auf die Trommel.
-- Ich spiele Klavier. Ich spiele auf dem Klavier.
-- Ich spreche Englisch. Ich spreche auf Englisch.
-- Ich kaue mein Brot. Ich kaue auf meinem Brot.
-- Ich treffe Anna. Ich treffe auf Anna.
-
-**Notes**
-
-The verbs *hören* \Next[a,b] and *achten* \Next[c,d] show considerable semantic shift in this alternation.
+Accusative objects that alternate with an *von* prepositional phrase occur typically with consumption verbs, indicating that the consumption is only partially completed \Next[a]. Also actions that designate a transaction of an object that can be a part of something \Next[b]. In some contexts the verbs *wissen* 'to know' \Next[c] and *hören* 'to hear' \Next[d] also show this alternation.
 
 \ex.
- \a. Ich habe sie gehört.
- \b. Ich habe auf sie gehört.
- \c. Ich achte dich.
- \d. Ich achte auf dich.
-
-#### *aus* Antipassive
-
-This alternation seems to be typical for objects of reading.
+ \a. Ich esse einen Apfel. Ich esse von dem Apfel.
+ \b. Ich stehle die Blumen. Ich stehle von den Blumen.
+ \c. Ich weiß deine Telefonnummer. Ich weiß von dem Schmuck.
+ \d. Ich höre den Kampf in der Ferne. Ich höre von dem Kampf.
 
 **Attested Verbs**
 
-- *lesen, vorlesen, zitieren*
+- Eat a part of: *essen, fressen, naschen, kosten, knabbern, probieren, trinken, versuchen*
+- Know a part of: *hören, verstehen, wissen*
+- Hand over a part of Accusative: *anbieten, aushändigen, besorgen, bringen, geben, liefern, schicken, schenken, senden, überreichen, überweisen, verkaufen*
+- Take away a part of: *abknöpfen, abnehmen, ausspannen, enteignen, entfernen, entlehnen, entleihen, entnehmen, entwenden, entziehen, klauen, nehmen, rauben, stehlen, wegnehmen*
 
 **Examples**
 
-- Ich lese dir das Buch vor. Ich lese dir aus dem Buch vor.
-
-#### *für* Antipassive
-
-**Attested Verbs**
-
-- *büßen, garantieren, leben*
-
-**Examples**
-
-- Ich büße meine Missetat. Ich büße für meine Missetat.
-- Ich garantiere den Erfolg. Ich garantiere für den Erfolg.
-- Ich lebe meinen Beruf. Ich lebe für meinen Beruf.
+- Ich nasche ein par Beeren. Ich nasche von den Beeren.
+- Ich koste den Wein. Ich koste von dem Wein.
+- Ich trinke den Wein. Ich trinke von den Wein.
+- Ich kaufe Trauben. Ich kaufe von den Trauben.
+- Ich verstehe Chemie gut. Ich verstehe viel von Chemie.
+- Er probiert/versucht die Torte. Er probiert/versucht von der Torte.
 
 #### *über* Antipassive
 
@@ -1242,8 +1229,6 @@ Note that it almost always possible to add a *für* benefactive phrase \Next[a],
  \b. \* Ich arbeite dem Chef.
  \c. Ich gewinne das Geld für dich.
  \d. ? Ich gewinne dir das Geld.
-       Ich hole das Geld für dich.
-       Ich holde dir das Geld.
  \e. Gib mir eine Waffe und ich gewinne dir jeden Krieg. (http://www.kriegssinfonie.ch/2018/08/paradox/, accessed 10.01.19)
 
 
@@ -1278,12 +1263,17 @@ Note that it almost always possible to add a *für* benefactive phrase \Next[a],
 - *mit*  : *anfangen, beginnen, rechnen, zögern*
 - *an*   : *glauben, leiden*
 - *nach* : *verlangen*
+- *für*. : *büßen, garantieren, leben*
 
 **Examples**
 
 - Ich fange mein Studium an. Ich fange mit meinem Studium an.
 - Ich rechne eine Flasche Wein pro Person. Ich rechne mit einer Flasche Wein pro Person
 - Ich zögere mit den Maßnahmen. Ich zögere damit, Maßnahmen zu nehmen.
+- Ich büße meine Missetat. Ich büße für meine Missetat.
+- Ich garantiere den Erfolg. Ich garantiere für den Erfolg.
+- Ich lebe meinen Beruf. Ich lebe für meinen Beruf.
+
 
 **Notes**
 
@@ -1431,7 +1421,7 @@ This construction is also found in fixed (metaphorical) expressions.
 \ex.
  \a. Er trinkt seine Freunde unter den Tisch.
  \b. Er spielt den Gegner an die Wand.
- 
+
 ### [ NA– | NAL ] Transitive location-as-result {#sec:prepositions-transitive-location-as-result}
 
 Similar to intransitive resultatives (see [@sec:prepositions-intransitive-location-as-result]), some transitive verbs \Next[a] alternate with a location as result \Next[b,c]. There is a slightly different construction with a dative after the preposition *an* \Next[d]. In this example the prepositional phrase simply expresses the location in which the action is taking place \Next[e], so there is no valency alternation. 
@@ -1445,7 +1435,7 @@ Similar to intransitive resultatives (see [@sec:prepositions-intransitive-locati
 
 **Attested Verbs**
 
- - *befehlen, dirigieren, graben, hetzen, jagen, schneiden, ziehen*
+ - *befehlen, dirigieren, graben, hetzen, jagen, peitschen, schneiden, ziehen*
 
 **Examples**
 
@@ -1455,6 +1445,7 @@ Similar to intransitive resultatives (see [@sec:prepositions-intransitive-locati
 - Ich hetze den Hund. Ich hetze den Hund auf dich.
 - Ich grabe ein Loch. Die Skifahrer gruben Spuren in den Schnee.
 - Ich schneide meine Nägel. Ich schneide den Apfel in Stücke.
+- der Kutscher peitschte das Pferd. Ein Tornado peitscht Tausende von Haien aus dem Meer.
 
 ### [ NA– | NAp ] Performative result
 
@@ -1486,6 +1477,8 @@ For some verbs there appears to be a rather clear lexicalisation of the meaning 
 - Ich halte das Schwert. Ich halte dich für einen Scharlatan.
 - Sie erklärte die Lösung. Sie erklärte den Kandidaten zum Geschäftsführer.
 
+### --- [ Ø > PBJ ] Manner --- {.unnumbered}
+
 ### [ N– | NL ] Manner of movement {#sec:prepositions-manner-of-movement}
 
 Some movement verbs allow for the following two kinds of constructions. First a regular intransitive construction expressing the movement \Next[a] and, second, a construction with a local prepositional phrase in which the movement verb expresses the manner of movement \Next[b]. Syntactically, there is a crucial difference between these two constructions in that the Perfekt auxiliary changes between *haben* \Next[a] and *sein* \Next[b]. In the Perfekt construction with *sein* the local prepositional phrase cannot be left out \Next[c].
@@ -1504,6 +1497,30 @@ Some movement verbs allow for the following two kinds of constructions. First a 
 - Ich habe gestampft. Ich bin durch den Garten gestampft/geschwankt/getanzt
 - Der Pinguin hat mit dem Kopf gewackelt. Der Pinguin ist durch meine Beine gewackelt.
 - Ich habe gestern geklettert. Ich bin gestern auf den Berg geklettert.
+
+### [ –\hspace{1pt}– | NL ] Weather-like manner of movement {#sec:prepositions-weather-manner-movement}
+
+Many weather verbs like *wehen* 'to blow' \Next allow for a nominative subject that is moving in a weather-like manner, often induced by a weather phenomenon. In such constructions are location seems obligatory.
+
+\ex.
+ \a. Es weht.
+ \b. Die Blätter wehen durch die Luft.
+
+There appears to be a slight semantic difference between examples in which the nominative subject is a patient-like argument of the weather phenomenon, like in \Last, and example in which an action is performed in a way reminiscent of the weather phenomenon, like in \Next.
+
+\ex.
+ \a. Es stürmt.
+ \b. Sie stürmten in den Saal.
+
+**Attested Verbs**
+
+- *blitzen, donnern, hageln, regnen, stürmen, wehen*
+
+**Examples**
+
+- Die Bomben hagelten auf die Stadt.
+- Seine Zähne blitzten in der Sonne.
+- Die Motoren donnerten durch die Stadt.
 
 ### --- [ Ø > OBJ > PBJ ] Resultative --- {.unnumbered}
 

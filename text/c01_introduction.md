@@ -835,7 +835,46 @@ Finally, an [adjunct commutative]{.smallcaps} [ADJ>SBJ>ADJ] is extremely rare. A
 
 ### Isolated object diatheses
 
+The situation with object diatheses is reversed from the previously discussed subject diatheses. With object diatheses, isolated diatheses are much more widespread and they occur with a wide variety of role-remappings, see [@fig:objectdiatheses]. In contrast, chained diatheses are less widespread and appear always to be analysable as a combination of multiple isolated diatheses.
+
 ![Names for isolated remappings without involvement of the subject](figures/objectdiatheses.pdf){#fig:objectdiatheses}
+
+I will discuss the different role-remappings from [@fig:objectdiatheses] in three subsections. First, I will look at the various kinds of applicatives and antipassives, then at the drops and additions, and finally at the symmetrical diatheses.
+
+#### Applicative & antipassive {.unnumbered}
+
+Applicatives and antipassives are very similar, though in reverse. [applicatives]{.smallcaps} [ADJ>OBJ] change a prepositional phrase into a case-marked phrase, while [antipassives]{.smallcaps} [OBJ>ADJ] convert a case-marked phrase into a prepositional phrase. Given this affinity, instead of 'antipassive' it might be better to call such remappings 'antiapplicative' [e.g. @haspelmath2004c: 1132; @scheibl2006: 371]. Yet the name 'antipassive' is already strongly entrenched in the grammatical literature, so I decided not to add to the naming-confusion any more.
+
+Applicative diatheses occur frequently with the addition of a preverb, like in the alternation between *steigen auf* 'to climb' and *besteigen* 'to mount' \Next, see [@sec:preverb-applicative].
+
+\ex.
+ \a. Sie steigt auf den Berg.
+ \b. Sie besteigt den Berg.
+
+The object of applicatives and antipassives is typically an accusative, but datives are also attested. An example of a dative applicative is the alternation between *stammen aus* 'to hail from' and *entstammen* 'to be descended from' \Next, see [@sec:preverb-dative-applicative]. An example of a dative antipassive is the covert alternation of *berichten* 'to report' \NNext, see  [@sec:prepositions-dative-antipassive-accusative].
+
+\ex.
+ \a. Ich stamme aus einem Adelsgeschlecht.
+ \b. Ich entstamme einem Adelsgeschlecht
+
+\ex.
+ \a. Er berichtet dem Vorstand alles.
+ \b. Er berichtet alles an den Vorstand.
+
+In the discussion of diatheses in this book I consistently distinguish [governed applicatives]{.smallcaps} [PBJ>OBJ] and [governed antipassives]{.smallcaps} [OBJ>PBJ] when the prepositional phrase is a governed preposition. An example of a governed applicative is the diathesis between *arbeiten an* 'to work on' (with a governed preposition *an*) and *bearbeiten* 'to edit, adapt' \Next, see [@sec:preverb-governed-applicative]. An example of a governed antipassive is the diathesis between *beklagen* 'to lament' and *sich beklagen* 'to complain' (with a governed preposition *über*) \NNext, see[@sec:reflexive-accusative-antipassive]. However, the differentiation between the governed and non-governed applicative/antipassive does not currently allow for any promising semantic of structural generalisations, so this differentiation might grammatically be unnecessary. I have indicated this close affinity graphically in [@fig:objectdiatheses].
+
+\ex.
+ \a. Ich arbeite an dem Text.
+ \b. Ich bearbeite den Text.
+
+\ex.
+ \a. Ich beklage den Lärm.
+ \b. Ich beklage mich über den Lärm.
+
+There is a further diathesis with a role-remapping between adjunct and object, namely [possessor raising]{.smallcaps}. 
+
+\ex.
+ \a.
 
 #### Addition & drop {.unnumbered}
 
@@ -844,18 +883,6 @@ Finally, an [adjunct commutative]{.smallcaps} [ADJ>SBJ>ADJ] is extremely rare. A
 
 - **DROP** "deobjective" [@haspelmath2004c: 1131]
 - **ANTIRESULTATIVE**
-
-#### Applicative & antipassive {.unnumbered}
-
-- **APPLICATIVE: Addition of a new non-nominative argument.** The typical characteristic of an applicative is the introduction of a new non-nominatively marked role. Typically, a new role is marked as an accusative and the original accusatively marked role is encoded differently. It is also possible that the new role is not replacing any existing marking, but simply added to the argument structure of a verb. However, I will classify such completely new roles mostly as an **addition** of an argument.
-
-[governed applicative]{.smallcaps}
-
-- **ANTIPASSIVE (ANTIAPPLICATIVE): Demotion of a non-nominative argument to prepositional phrase.** The typical characteristic of an antipassive is a non-nominatively case-marked role to being marked as 'less important', typically becoming a prepositional phrase. The complete removal of this role can be seen as an extreme form of an antipassive, though I mostly classify such a removal separately as a **drop** of an argument.
-
-[governed antipassive]{.smallcaps}
-
-- **POSSESSOR RAISING: possessor of an argument becomes a separate argument.**
 
 #### Symmetrical object diatheses {.unnumbered}
 

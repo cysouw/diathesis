@@ -2,40 +2,134 @@
 
 ## Names for German grammar
 
-## Verbative
+Attempt to propose semantically sensitive German names, though analysis is not always clear.
 
-### *Nullmarkierter* Zerstreuende Avalenz
+## [ SBJ > Ø ] Verbative
 
-### *Adverbial + reflexiv* unpersönlich
+### *Nullmarkierte* zerstreuende Avalenz
+
+[@sec:case-nominative-drop]
+
+\ex.
+ \a. Der Müll stinkt.
+ \b. Hier stinkt es aber.
+
+### *Nullmarkierte* unpersönliche ???
+
+es brauch, gibt, gefällt mir, bedarf, entbehrt, hängt ab von, wimmelt von, kommt zu, hapert an, hapert bei
+
+[@sec:case-nominativ-drop-accusative; sec:case-nominativ-drop-dative; sec:case-nominativ-drop-genitive; sec:prepositions-nominative-drop]
+
+\ex.
+ \a. Die Trauben geben dieses Jahr einen guten Wein.
+ \b. Dieses Jahr gibt es einen guten Wein.
+
+### *Adverbial + sich* bewertender Verbativ
 
 ### *werden + Infinitiv* unpersönlicher Passiv
 
-## Anticausative
+## [ OBJ > SBJ > Ø ] Anticausative
 
-## Passive
+### *Nullmarkierter* Antikausativ
 
-## Conversive
+[@sec:case-haben-anticausative]
 
-## Fabricative
+\ex.
+ \a. Ich koche den Kaffee.
+ \b. Der Kaffee kocht.
+ \c. Der Kaffee hat gekocht.
+ \d. Der Kaffee ist gekocht.
 
-## Conciliative
+### *sich* Geisterhand-Antikausativ
 
-## Novative
+(see [@sec:reflexive-anticausative] ff.)
 
-## Reversed passive
+## [ PBJ > SBJ > Ø ] Fabricative
 
-## Object addition
+## [ ADJ > SBJ > Ø ] Conciliative
 
-## Resultative
+## [ OBJ > SBJ > ADJ ] Passive
 
-## Object drop
+### *sich* Erlebnispassiv
 
-## Antiresultative
+[@sec:reflexive-preposition-passive]
 
-## Applicative
+## [ OBJ > SBJ > PBJ ] Conversive
 
-## Antipassive
+## [ Ø > SBJ > PBJ ] Novative
 
-## Possessor raising
+### *Nullmarkierter* Kausativ
 
-## Full applicative
+[@sec:case-sein-causative]
+
+\ex.
+ \a. Der Junge zerbricht den Krug.
+ \b. Der Krug zerbricht.
+ \c. Der Krug ist zerbrochen.
+ \d. \* Der Krug hat zerbrochen.
+
+## [ ADJ > SBJ > PBJ ] Reversed passive
+
+## [ Ø > OBJ ] Object addition
+
+## [ Ø > OBJ ] Resultative
+
+### *Nullmarkierter* Resultativ
+
+[@sec:case-accusative-addition]
+
+\ex.
+ \a. Er stotterte.
+ \b. Er stotterte eine Entschuldigung.
+
+## [ ADJ > OBJ ] Applicative
+
+## [ ADJ > OBJ > ADJ ] Full applicative
+
+## [ ADJ > OBJ ] Possessor raising
+
+### *Nullmarkierter* Pertinenzdativ
+
+- Possessor of subject (see [@sec:case-possessor-of-nominative-to-dative-experiencer])
+- Possessor of object (see [@sec:case-possessor-accusative-to-dative])
+- Possessor of prepositional object (see [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative; sec:prepositions-possessor-of-location-to-dative-experiencer])
+
+\ex.
+ \a. Ich schneide seine Haare.
+ \b. Ich schneide ihm die Haare.
+
+typically unmarked, very few examples of a possessor dativ introduced with a preverb (see [@sec:preverb-possessor-raising])
+
+## [ ADJ > ADJ ]Preposition Change
+
+### *Sich* Resultativ
+
+(see [@sec:reflexive-resultative])
+
+## [ OBJ > Ø ] Object drop
+
+### *Nullmarkierter* Ambitransitiv
+
+[@sec:case-accusative-drop]
+
+\ex.
+ \a. Du störst die Veranstaltung.
+ \b. Du störst.
+
+### *Sich* Autokausativ
+
+(see [@sec:reflexive-accusative-drop] ff.)
+
+## [ OBJ > Ø ] Antiresultative
+
+## [ OBJ > ADJ ] Antipassive
+
+### *Sich* Reziprokativ
+
+(see [@sec:reflexive-mit-antipassive])
+
+### *Sich* Deakkusativ
+
+(see [@sec:reflexive-accusative-antipassive])
+
+
