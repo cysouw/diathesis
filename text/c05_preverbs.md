@@ -797,7 +797,7 @@ Preposition *bei*? Maybe always possible with accusative drop verbs
 **Attested Verbs**
 
 - erˈ-    : *bringen*
-- verˈ-   : *bringen, geben, senden, schenken, schicken*
+- verˈ-   : *geben, senden, schenken, schicken*
 - unterˈ- : *schreiben*
 
 **Examples**
@@ -805,6 +805,7 @@ Preposition *bei*? Maybe always possible with accusative drop verbs
 - Er hat dem Lehrer die Arbeit gebracht. Er hat die Leistung erbracht (für den Lehrer).
 - Ich schenke dir ein Buch. Ich verschenke das Buch an dich.
 - Ich schreibe dir einen Brief. Ich unterschreibe einen Brief an dich.
+- Ich geben dem Handwerker den Auftrag, Ich vergebe den Auftrag an den Handwerker.
 
 **Notes**
 
