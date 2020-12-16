@@ -412,9 +412,9 @@ Some predicates take a nominative argument with non-sentient arguments \Next[a],
 - Mir ist zum Heulen im Sommer. Der Sommer ist zum Heulen. 
 - Mir ist langweilig im Sommer. Der Sommer ist langweilig.
 
-### --- [ ADJ > SBJ > Ø ] Conciliative ([Instrumentsubjektivierung]{.smallcaps}) --- {.unnumbered}
+### --- [ ADJ > SBJ > Ø ] Conciliative (~~Instrumentsubjektivierung~~) --- {.unnumbered}
 
-A [conciliative]{.smallcaps} is a diathesis in which an instrument-like artefact is promoted to nominative subject. This instrument is an intermediate (Lat. *conciliator*, 'intermediary/mediator') that is used by an agent to reach a certain goal.
+A ~~conciliative~~ is a diathesis in which an instrument-like artefact is promoted to nominative subject. This instrument is an intermediate (Lat. *conciliator*, 'intermediary/mediator') that is used by an agent to reach a certain goal.
 
 ### [ Np | –N ] Intransitive conciliative {#sec:prepositions-intransitive-preposition-anticausative}
 
@@ -500,9 +500,9 @@ This alternation takes a (non-governed) prepositional phrase and turns it into a
 - Ich schmecke Pfefferminze in der Suppe. Die Suppe schmeckt nach Pfefferminze
 - Ich rieche Blume im Parfüm. Der Parfüm riecht nach Blume.
 
-### --- [ PBJ > SBJ > Ø ] Fabricative ([Kreationssubjektivierung]{.smallcaps})--- {.unnumbered}
+### --- [ PBJ > SBJ > Ø ] Fabricative (~~Kreationssubjektivierung~~)--- {.unnumbered}
 
-A [fabricative]{.smallcaps} (Lat *fabrica*, 'plan, trick, workmanship') is a diathesis that superficially looks very similar to a conciliative in German because in both diatheses a *mit* prepositional phrase is promoted to nominative subject. The central difference is that the *mit* prepositional phrase in a fabricative diathesis is a governed preposition. This structural difference has a parallel semantic difference in that the fabricative *mit* phrase is an object that is produced by the agent.
+A ~~fabricative~~ (Lat *fabrica*, 'plan, trick, workmanship') is a diathesis that superficially looks very similar to a conciliative in German because in both diatheses a *mit* prepositional phrase is promoted to nominative subject. The central difference is that the *mit* prepositional phrase in a fabricative diathesis is a governed preposition. This structural difference has a parallel semantic difference in that the fabricative *mit* phrase is an object that is produced by the agent.
 
 ### [ NPA | –NA ] Transitive fabricative {#sec:prepositions-fabricative-accusative}
 
@@ -576,7 +576,7 @@ The preposition *auf* is a governed preposition \Next.
 
 ## Diatheses with promotion to subject
 
-### --- [ Ø > SBJ > OBJ ] Causative ([Ortskausativ]{.smallcaps}) --- {.unnumbered}
+### --- [ Ø > SBJ > OBJ ] Causative (~~Ortskausativ~~) --- {.unnumbered}
 
 ### [ –NL | NAL ] *haben* causative + location {#sec:prepositions-haben-caused-location}
 
@@ -1150,11 +1150,10 @@ This seems to be always possible with *zu* phrases in the interpretation *für d
 
 With an additional accusative argument it is widespread for dative arguments to have an alternative expression in the form of a prepositional phrase. However, it is much more difficult to characterise the difference between two such alternative expressions (cf. [@devaere2018] for an investigation for the verb *geben* and the large literature on the English dative alternation). There are only a few monosyllabic prepositions that can be used for this alternation.
 
-- *an*  : Combining arguments
-- *zu*  : Moving towards
-- *von* : Removing away
+- *an*  : Moving towards
+- *von* : Removing from
 - *vor* : Hiding from
-- *für* : Performing action in favor of dative
+- *zu*  : Moving towards
 
 #### *an* Ditransitive dative alternation
 
@@ -1179,20 +1178,6 @@ The replacement of a dative with an *an* prepositional phrase is a common altern
 
 Various verbs also allow for a *zu* dative alternation.
 
-#### *zu* Ditransitive dative alternation
-
-**Attested Verbs**
-
-- Moving object towards dative: *besorgen, bringen, liefern, schicken, schleudern, senden, werfen*
-- Imaginary object moving towards dative: *sagen, zuordnen*
-
-**Examples**
-
-- Ich bringe dir die Waren. Ich bringe die Waren zu dir.
-- Ich liefere dir die Waren. Ich liefere die Waren zu dir.
-- Ich sage dir einen Satz. Ich sage einen Satz zu dir.
-- Ich ordne das Verb einer Gruppe zu. Ich ordne das Verb zu einer Gruppe zu.
-
 #### *von* Ditransitive dative alternation
 
 **Attested Verbs**
@@ -1214,39 +1199,19 @@ Various verbs also allow for a *zu* dative alternation.
 
 - Ich verschweige dir das Geheimnis. Ich verschweige das Geheimnis vor dir.
 
-#### *für* Ditransitive dative alternation ("benefactive")
-
-The alternation of a dative with a *für* prepositional phrase is very widespread. It can be used with verbs that can be performed on behalve on somebody else "nach deinem Wunsch" (benefactive/dativus commodi) \Next[a,b]. In German grammar it is sometimes referred to as a 'free dative' because it can be easily dropped completely. As Eisenberg [-@eisenberg2006a: 298] remarks, it is widespread, but cannot be used with all verbs and is thus a device for the subclassification of verbs.
-
-\ex.
- \a. Ich koche dir eine Suppe.
- \b. Ich koche eine Suppe für dich.
-
-Note that it almost always possible to add a *für* benefactive phrase \Next[a], but these do not always have a dative alternant \Next[b]. With transitive verbs it turns out not so easy to find good examples where this alternation is impossible, because with most verbs datives seem to be possible though often only with some creative freedom, e.g. \Next[c-e]. Only those verbs that clearly allow for both alternatives are of interest here.
-
-\ex.
- \a. Ich arbeite für den Chef.
- \b. \* Ich arbeite dem Chef.
- \c. Ich gewinne das Geld für dich.
- \d. ? Ich gewinne dir das Geld.
- \e. Gib mir eine Waffe und ich gewinne dir jeden Krieg. (http://www.kriegssinfonie.ch/2018/08/paradox/, accessed 10.01.19)
-
+#### *zu* Ditransitive dative alternation
 
 **Attested Verbs**
 
-- Holding object: *abholen, halten, holen, mitnehmen, tragen*
-- Object production: *aufzeichnen, ausstellen, bauen, beschaffen, besorgen, brechen, einblenden, erobern, garantieren, graben, kaufen, malen, mieten, suchen*
-- Object manipulation: *abbrechen, abreissen, aktualisieren, anhalten, aufstellen, einbauen, korrigieren, kürzen, messen, öffnen, reparieren, schließen, stimmen, stoppen, versperren, zukleben*
-- Food production: *angeln, fischen, jagen, kauen, schießen, töten*
-- Household tending: *aufwärmen, ausbessern, bleichen, erneuern, backen, bügeln, gießen, kochen, nähen, ordnen, packen, pflegen, putzen, reinigen, reparieren, waschen, wischen*
+- Moving object towards dative: *besorgen, bringen, liefern, schicken, schleudern, senden, werfen*
+- Imaginary object moving towards dative: *sagen, zuordnen*
 
 **Examples**
 
-- Ich stelle dir einen Pass aus. Ich stelle für dich einen Pass aus.
-- Ich halte dir den Kaffee. Ich halte den Kaffee für dich.
-- Er stimmt mir den Kontrabas. Er stimmt den Kontrabass für mich. (different meaning from *stimmen* 'to vote')
-- Ich töte dir den Hasen. Ich töte den Hasen für dich.
-- Ich garantiere dir den Erfolg. Ich garantiere den Erfolg für dich.
+- Ich bringe dir die Waren. Ich bringe die Waren zu dir.
+- Ich liefere dir die Waren. Ich liefere die Waren zu dir.
+- Ich sage dir einen Satz. Ich sage einen Satz zu dir.
+- Ich ordne das Verb einer Gruppe zu. Ich ordne das Verb zu einer Gruppe zu.
 
 ### --- [ OBJ > PBJ ] Governed Antipassive --- {.unnumbered}
 
@@ -1355,6 +1320,51 @@ This alternation allows for either a dative to be present or not with verbs that
 - Es geht um ihre Identität. Den Polen geht es um ihre Identität.
 - Es fehlt an Geld. Ihm fehlt es an Geld.
 - Es liegt am Geld. Es liegt mir viel am Geld. Es liegt mir daran, dass du es erfährst.
+
+### --- [ Ø > PBJ ] Manner of movement --- {.unnumbered}
+
+### [ N– | NL ] Manner of movement {#sec:prepositions-manner-of-movement}
+
+Some movement verbs allow for the following two kinds of constructions. First a regular intransitive construction expressing the movement \Next[a] and, second, a construction with a local prepositional phrase in which the movement verb expresses the manner of movement \Next[b]. Syntactically, there is a crucial difference between these two constructions in that the Perfekt auxiliary changes between *haben* \Next[a] and *sein* \Next[b]. In the Perfekt construction with *sein* the local prepositional phrase cannot be left out \Next[c].
+
+\ex.
+ \a. Ich habe (in dem Garten) getanzt.
+ \b. Ich bin durch den Garten getanzt.
+ \c. \* ich bin getanzt.
+
+**Attested Verbs**
+
+- *irren, klettern, kriechen, schwanken, stampfen, tanzen, wackeln*
+
+**Examples**
+
+- Ich habe gestampft. Ich bin durch den Garten gestampft/geschwankt/getanzt
+- Der Pinguin hat mit dem Kopf gewackelt. Der Pinguin ist durch meine Beine gewackelt.
+- Ich habe gestern geklettert. Ich bin gestern auf den Berg geklettert.
+
+### [ –\hspace{1pt}– | NL ] Weather-like manner of movement {#sec:prepositions-weather-manner-movement}
+
+Many weather verbs like *wehen* 'to blow' \Next allow for a nominative subject that is moving in a weather-like manner, often induced by a weather phenomenon. In such constructions are location seems obligatory.
+
+\ex.
+ \a. Es weht.
+ \b. Die Blätter wehen durch die Luft.
+
+There appears to be a slight semantic difference between examples in which the nominative subject is a patient-like argument of the weather phenomenon, like in \Last, and example in which an action is performed in a way reminiscent of the weather phenomenon, like in \Next.
+
+\ex.
+ \a. Es stürmt.
+ \b. Sie stürmten in den Saal.
+
+**Attested Verbs**
+
+- *blitzen, donnern, hageln, regnen, stürmen, wehen*
+
+**Examples**
+
+- Die Bomben hagelten auf die Stadt.
+- Seine Zähne blitzten in der Sonne.
+- Die Motoren donnerten durch die Stadt.
 
 ### --- [ Ø > PBJ ] Resultative --- {.unnumbered}
 
@@ -1477,51 +1487,6 @@ For some verbs there appears to be a rather clear lexicalisation of the meaning 
 - Ich halte das Schwert. Ich halte dich für einen Scharlatan.
 - Sie erklärte die Lösung. Sie erklärte den Kandidaten zum Geschäftsführer.
 
-### --- [ Ø > PBJ ] Manner --- {.unnumbered}
-
-### [ N– | NL ] Manner of movement {#sec:prepositions-manner-of-movement}
-
-Some movement verbs allow for the following two kinds of constructions. First a regular intransitive construction expressing the movement \Next[a] and, second, a construction with a local prepositional phrase in which the movement verb expresses the manner of movement \Next[b]. Syntactically, there is a crucial difference between these two constructions in that the Perfekt auxiliary changes between *haben* \Next[a] and *sein* \Next[b]. In the Perfekt construction with *sein* the local prepositional phrase cannot be left out \Next[c].
-
-\ex.
- \a. Ich habe (in dem Garten) getanzt.
- \b. Ich bin durch den Garten getanzt.
- \c. \* ich bin getanzt.
-
-**Attested Verbs**
-
-- *irren, klettern, kriechen, schwanken, stampfen, tanzen, wackeln*
-
-**Examples**
-
-- Ich habe gestampft. Ich bin durch den Garten gestampft/geschwankt/getanzt
-- Der Pinguin hat mit dem Kopf gewackelt. Der Pinguin ist durch meine Beine gewackelt.
-- Ich habe gestern geklettert. Ich bin gestern auf den Berg geklettert.
-
-### [ –\hspace{1pt}– | NL ] Weather-like manner of movement {#sec:prepositions-weather-manner-movement}
-
-Many weather verbs like *wehen* 'to blow' \Next allow for a nominative subject that is moving in a weather-like manner, often induced by a weather phenomenon. In such constructions are location seems obligatory.
-
-\ex.
- \a. Es weht.
- \b. Die Blätter wehen durch die Luft.
-
-There appears to be a slight semantic difference between examples in which the nominative subject is a patient-like argument of the weather phenomenon, like in \Last, and example in which an action is performed in a way reminiscent of the weather phenomenon, like in \Next.
-
-\ex.
- \a. Es stürmt.
- \b. Sie stürmten in den Saal.
-
-**Attested Verbs**
-
-- *blitzen, donnern, hageln, regnen, stürmen, wehen*
-
-**Examples**
-
-- Die Bomben hagelten auf die Stadt.
-- Seine Zähne blitzten in der Sonne.
-- Die Motoren donnerten durch die Stadt.
-
 ### --- [ Ø > OBJ > PBJ ] Resultative --- {.unnumbered}
 
 ### [ NA– | NLA ] Action result {#sec:prepositions-action-result}
@@ -1573,6 +1538,42 @@ This alternation appears as a parallel to the double accusative of *nennen* 'to 
 **Examples**
 
 - Er sitzt immer am selben Platz bei Bier und Schnaps, flucht mich einen Tagedieb, einen Affen, Bananenfresser, einen, der schon längstens in eine Arbeitserziehungsanstalt gehöre. (http://www.gruppe-4-w.de/forum/viewtopic.php?f=21&t=2047#p19030, accessed 29 Juli 2019)
+
+### --- [ ADJ > OBJ ] Applicative --- {.unnumbered}
+
+### [ NAp | NAD ] *für* Benefactive raising {#sec:prepositions-benefactive-dative}
+
+The alternation of a dative with a *für* prepositional phrase is very widespread. It can be used with verbs that can be performed on behalve on somebody else "nach deinem Wunsch" (benefactive/dativus commodi) \Next[a,b]. In German grammar it is sometimes referred to as a 'free dative' because it can be easily dropped completely. As Eisenberg [-@eisenberg2006a: 298] remarks, it is widespread, but cannot be used with all verbs and is thus a device for the subclassification of verbs.
+
+\ex.
+ \a. Ich koche dir eine Suppe.
+ \b. Ich koche eine Suppe für dich.
+
+Note that it almost always possible to add a *für* benefactive phrase to a sentence \Next[a], but these do not always have a dative alternant \Next[b]. With transitive verbs it turns out not so easy to find good examples where this alternation is impossible, because with most verbs datives seem to be possible though often only with some creative freedom, e.g. \Next[c-e]. Only those verbs that clearly allow for both alternatives are of interest here.
+
+\ex.
+ \a. Ich arbeite für den Chef.
+ \b. \* Ich arbeite dem Chef.
+ \c. Ich gewinne das Geld für dich.
+ \d. ? Ich gewinne dir das Geld.
+ \e. Gib mir eine Waffe und ich gewinne dir jeden Krieg. (http://www.kriegssinfonie.ch/2018/08/paradox/, accessed 10.01.19)
+
+
+**Attested Verbs**
+
+- Holding object: *abholen, halten, holen, mitnehmen, tragen*
+- Object production: *aufzeichnen, ausstellen, bauen, beschaffen, besorgen, brechen, einblenden, erobern, garantieren, graben, kaufen, malen, mieten, suchen*
+- Object manipulation: *abbrechen, abreissen, aktualisieren, anhalten, aufstellen, einbauen, korrigieren, kürzen, messen, öffnen, reparieren, schließen, stimmen, stoppen, versperren, zukleben*
+- Food production: *angeln, fischen, jagen, kauen, schießen, töten*
+- Household tending: *aufwärmen, ausbessern, bleichen, erneuern, backen, bügeln, gießen, kochen, nähen, ordnen, packen, pflegen, putzen, reinigen, reparieren, waschen, wischen*
+
+**Examples**
+
+- Ich stelle dir einen Pass aus. Ich stelle für dich einen Pass aus.
+- Ich halte dir den Kaffee. Ich halte den Kaffee für dich.
+- Er stimmt mir den Kontrabas. Er stimmt den Kontrabass für mich. (different meaning from *stimmen* 'to vote')
+- Ich töte dir den Hasen. Ich töte den Hasen für dich.
+- Ich garantiere dir den Erfolg. Ich garantiere den Erfolg für dich.
 
 ### --- [ ADJ > OBJ ] Possessor raising --- {.unnumbered}
 
@@ -1658,15 +1659,16 @@ This construction is frequently used metaphorically \Next.
 
 \ex. Er fragt mir ein Loch in den Bauch.
 
-### --- [ ADJ > OBJ > PBJ ] Applicative --- {.unnumbered}
+### --- [ ADJ > OBJ > PBJ ] Possessor applicative --- {.unnumbered}
 
 ### [ NAg | NPA ] Possessor-of-accusative applicative
 
-This alternation is the German equivalents of the "Possessor Object" alternation in English from Levin [-@levin1993: 73]. The preposition (typically *für*) appears to be a governed preposition.
+This alternation is the German equivalents of the "Possessor Object" alternation in English from Levin [-@levin1993: 73]. The possessor of an accusative becomes an accusative, and the erstwhile accusative is demoted to a prepositional phrase. The preposition (typically *für*) appears to be a governed preposition.
 
 \ex.
  \a. Ich bewundere seine Ehrlichkeit.
  \b. Ich bewundere ihn für/wegen seine Ehrlichkeit.
+ \c. Ich bewundere ihn dafür, dass er ehrlich ist.
 
 **Attested Verbs**
 

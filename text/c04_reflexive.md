@@ -2,13 +2,13 @@
 
 ## Introduction
 
-When using the grammatical term [reflexive]{.smallcaps} a distinction has to be made between 'self-inflicting' [reflexive reference]{.smallcaps} and the [reflexive pronoun]{.smallcaps}. The reflexive pronoun is easily identified in the third person as *sich*. One of the uses of this reflexive pronoun is to indicate reflexive reference, i.e. to mark the identity of two different roles of the verb. For example, the verb *waschen* 'to wash' has two roles, the 'washer' and the 'washee' \Next[a]. Crucially, with 'self-inflicting' reflexive reference using *sich* \Next[b] these two different roles are still expressed in the sentence. The reflexive pronoun in \Next[b] only indicates that the two roles are performed by the same participant, opposing it to \Next[a] in which the two roles are performed by different participants. With the reflexive pronoun in \Next[b], both roles are still explicitly marked, so there is no reduction of the valency and there is no grammatical remapping of roles, and thus there is no diathesis.^[From a typological perspective, there is arguably a difference in this respect between languages with a reflexive pronoun strategy, like German, and languages that use a verbal derivation technique for marking 'self-inflicting' reflexive reference [@dixon2014: 172ff.]. For languages with verbal derivation the verb is being marked as 'self-inflicting' and one role is completely dropped. It is probably preferable to analyse verbal 'self-inflicting' reflexive reference in such languages as a kind of diathesis.]
+When using the grammatical term ~~reflexive~~ a distinction has to be made between 'self-inflicting' ~~reflexive reference~~ and the ~~reflexive pronoun~~. The reflexive pronoun is easily identified in the third person as *sich*. One of the uses of this reflexive pronoun is to indicate reflexive reference, i.e. to mark the identity of two different roles of the verb. For example, the verb *waschen* 'to wash' has two roles, the 'washer' and the 'washee' \Next[a]. Crucially, with 'self-inflicting' reflexive reference using *sich* \Next[b] these two different roles are still expressed in the sentence. The reflexive pronoun in \Next[b] only indicates that the two roles are performed by the same participant, opposing it to \Next[a] in which the two roles are performed by different participants. With the reflexive pronoun in \Next[b], both roles are still explicitly marked, so there is no reduction of the valency and there is no grammatical remapping of roles, and thus there is no diathesis.^[From a typological perspective, there is arguably a difference in this respect between languages with a reflexive pronoun strategy, like German, and languages that use a verbal derivation technique for marking 'self-inflicting' reflexive reference [@dixon2014: 172ff.]. For languages with verbal derivation the verb is being marked as 'self-inflicting' and one role is completely dropped. It is probably preferable to analyse verbal 'self-inflicting' reflexive reference in such languages as a kind of diathesis.]
 
 \ex.
  \a. Er wäscht ihn.
  \b. Er wäscht sich.
 
-Although German does not show diathesis for 'self-inflicting' reflexive reference, the reflexive pronoun is used in many different diatheses in German, for example anticausative \Next[a], see [@sec:reflexive-anticausative] or antipassive \Next[b], see [@sec:reflexive-accusative-antipassive]. In these examples, the reflexive pronoun *sich* is not filling any role, but is marking a valency alternation. There is a long tradition to call such constructions [middle]{.smallcaps}. However, there turn out to be very many different kinds of 'middle' alternations, so I prefer to be more precise in separating and naming them here in this chapter [see also @kunze1997].
+Although German does not show diathesis for 'self-inflicting' reflexive reference, the reflexive pronoun is used in many different diatheses in German, for example anticausative \Next[a], see [@sec:reflexive-anticausative] or antipassive \Next[b], see [@sec:reflexive-accusative-antipassive]. In these examples, the reflexive pronoun *sich* is not filling any role, but is marking a valency alternation. There is a long tradition to call such constructions ~~middle~~. However, there turn out to be very many different kinds of 'middle' alternations, so I prefer to be more precise in separating and naming them here in this chapter [see also @kunze1997].
 
 \ex.
  \a. Ich schließe den Schrank. Der Schrank schließt sich. 
@@ -37,12 +37,12 @@ Amidst the large variety of diatheses with reflexive pronouns, there are a few g
 
 There are six diatheses (or groups of highly similar diatheses) that seem prominent enough to be given a German name. I propose the following names for these:
 
-- [ NA | –N ] [Geisterhand-antikausativ]{.smallcaps} (see [@sec:reflexive-anticausative] ff.)
-- [ NA | PN ] [Erlebnispassiv]{.smallcaps} (see [@sec:reflexive-preposition-passive])
-- [ NA | N– ] [Autokausativ]{.smallcaps} (see [@sec:reflexive-accusative-drop] ff.)
-- [ NA | Np ] [Reziprokativ]{.smallcaps} (see [@sec:reflexive-mit-antipassive])
-- [ NA | NP ] [Deakkusativ]{.smallcaps} (see [@sec:reflexive-accusative-antipassive])
-- [ NP | NL ] [Reflexiv-resultativ]{.smallcaps} (see [@sec:reflexive-resultative])
+- [ NA | –N ] ~~Geisterhand-antikausativ~~ (see [@sec:reflexive-anticausative] ff.)
+- [ NA | PN ] ~~Erlebnispassiv~~ (see [@sec:reflexive-preposition-passive])
+- [ NA | N– ] ~~Autokausativ~~ (see [@sec:reflexive-accusative-drop] ff.)
+- [ NA | Np ] ~~Reziprokativ~~ (see [@sec:reflexive-mit-antipassive])
+- [ NA | NP ] ~~Deakkusativ~~ (see [@sec:reflexive-accusative-antipassive])
+- [ NP | NL ] ~~Reflexiv-resultativ~~ (see [@sec:reflexive-resultative])
 
 ## Characteristics of reflexive pronouns
 
@@ -993,7 +993,7 @@ This idiosyncratic diathesis with the verb *handeln* 'to treat of' \Next[a,b] dr
 
 - *handeln*
 
-### --- [ OBJ > SBJ > Ø ] Anticausative ([Geisterhand-Antikausativ]{.smallcaps}) --- {.unnumbered}
+### --- [ OBJ > SBJ > Ø ] Anticausative (~~Geisterhand-Antikausativ~~) --- {.unnumbered}
 
 ### [ NA | –N ] Reflexive anticausative {#sec:reflexive-anticausative}
 
@@ -1182,7 +1182,7 @@ Some verbs with a resultative alternation \Next[a,b], see [@sec:prepositions-tra
 
 - *rechnen*
 
-### --- [ OBJ > SBJ > PBJ ] Conversive ([Erlebnispassiv]{.smallcaps}) --- {.unnumbered}
+### --- [ OBJ > SBJ > PBJ ] Conversive (~~Erlebnispassiv~~) --- {.unnumbered}
 
 ### [ NA | PN ] Reflexive conversive {#sec:reflexive-preposition-passive}
 
@@ -1277,7 +1277,7 @@ These alternations are ongoing replacements of old-fashioned constructions. The 
 
 ## Diatheses with object demotion
 
-### --- [ OBJ > Ø ] Object drop ([Autokausativ]{.smallcaps})--- {.unnumbered}
+### --- [ OBJ > Ø ] Object drop (~~Autokausativ~~)--- {.unnumbered}
 
 ### [ NA | N- ] Reflexive accusative drop {#sec:reflexive-accusative-drop}
 
@@ -1358,7 +1358,7 @@ Though similar to the previous 'autocausative' alternations, the alternation in 
 
 - *verweigern*
 
-### --- [ OBJ > ADJ ] Antipassive ([Reziprokativ]{.smallcaps}) --- {.unnumbered}
+### --- [ OBJ > ADJ ] Antipassive (~~Reziprokativ~~) --- {.unnumbered}
 
 ### [ NA | Np ] Reflexive *mit* antipassive {#sec:reflexive-mit-antipassive}
 
@@ -1387,7 +1387,7 @@ The verb *befreunden* 'to become friends' \Next[a] seems to habe become acceptab
  \a. Ich befreunde mich mit ihm.
  \b. Ich befreunde ihn.
 
-### --- [ OBJ > PBJ ] Governed antipassive ([Deakkusativ]{.smallcaps}) --- {.unnumbered}
+### --- [ OBJ > PBJ ] Governed antipassive (~~Deakkusativ~~) --- {.unnumbered}
 
 ### [ NA | NP ] Reflexive governed antipassive {#sec:reflexive-accusative-antipassive}
 
@@ -1493,7 +1493,7 @@ There used to be a reflexive verb *bewissen* in Early New High German, but only 
 
 - *bewusst sein*
 
-### --- [ PBJ > PBJ ] Resultative ([Reflexiv-resultativ]{.smallcaps}) --- {.unnumbered}
+### --- [ PBJ > PBJ ] Resultative (~~Reflexiv-resultativ~~) --- {.unnumbered}
 
 ### [ NP | NL ] Reflexive location-as-result {#sec:reflexive-resultative}
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Under the heading [preverb]{.smallcaps} I will subsume here two different constructions, known in German linguistics as [verb prefixes]{.smallcaps} \Next[a] and [verb particles]{.smallcaps} \Next[b]. These constructions have clearly different syntactic characteristics (see [@sec:preverbs-prefixes-particles]), but from the perspective of valency alternations they appear to function highly similar. For a discussion of term 'preverb' as a cover term for both constructions, see Booij & van Kemenade [-@booij2003b]. 
+Under the heading ~~preverb~~ I will subsume here two different constructions, known in German linguistics as ~~verb prefixes~~ \Next[a] and ~~verb particles~~ \Next[b]. These constructions have clearly different syntactic characteristics (see [@sec:preverbs-prefixes-particles]), but from the perspective of valency alternations they appear to function highly similar. For a discussion of term 'preverb' as a cover term for both constructions, see Booij & van Kemenade [-@booij2003b]. 
 
 \ex.
  \a. Ich umfahre den Polizisten.

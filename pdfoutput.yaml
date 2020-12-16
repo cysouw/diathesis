@@ -24,6 +24,7 @@ input-files:
 filters:
 - pandoc-crossref
 - citeproc
+- smallcaps.lua
 
 number-sections: true
 table-of-contents: true
