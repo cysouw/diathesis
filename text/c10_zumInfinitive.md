@@ -29,12 +29,12 @@ Nach dem Aufstehen
 
 Es gibt eine Affinität zu prädikative Substantive, deshalb eher wie ein Nomen, aber Verben müssen zusammenbleiben, deshalb eher ein Prädikat.
 
-- \* Es ist bekannt, dass ich [am Schwimmen] mit großem Einsatz [gewesen bin].
+- ^* Es ist bekannt, dass ich [am Schwimmen] mit großem Einsatz [gewesen bin].
 - Es ist bekannt, dass ich mit großem Einsatz [am Schwimmen] [gewesen bin].
 
 Auch mit *bleiben*?
 
-- \* Es ist bekannt, dass ich [am Schwimmen] mit großem Einsatz [geblieben bin].
+- ^* Es ist bekannt, dass ich [am Schwimmen] mit großem Einsatz [geblieben bin].
 - Es ist bekannt, dass ich mit großem Einsatz [am Schwimmen] [geblieben bin].
 
 Nur intransitive verben oder Intransivierung durch Inkorporation ???
@@ -49,16 +49,16 @@ Konstruktion mit *am* verbal, nicht mit *beim*.
 Patiens als Genitiv: wie eine Nominalisierung.
 
 - Wir sind beim Erarbeiten einer Konzeption
-- \* Wir sind am Erarbeiten einer Konzeption.
+- ^* Wir sind am Erarbeiten einer Konzeption.
 
 Agens als Genitiv: kein progressiv!
 
 - Sie ist beim Schwimmen ihrer Tochter 
-- \* Sie ist am Schwimmen ihrer Tochter
+- ^* Sie ist am Schwimmen ihrer Tochter
 
 Patiens als Akkusativ
 
-- \* Sie ist die Reise beim Planen (Sie ist beim Planen der Reise)
+- ^* Sie ist die Reise beim Planen (Sie ist beim Planen der Reise)
 - Sie ist die Reise am Planen
 
 ### *gehen/kommen/fahren + zum + Infinitiv*

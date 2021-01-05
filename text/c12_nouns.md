@@ -252,7 +252,7 @@ Normally such objects are always used with some modification: it is the modifica
 - klingeln - die Klingel (both subject and object!)
 - hupen - die Hupe (both subject and object!)
 - stinken - der Gestank (der Gestank stinkt)
-- reichen - der Geruch (\* der Geruch riecht)
+- reichen - der Geruch (^* der Geruch riecht)
 
 **Examples**
 

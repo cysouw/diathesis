@@ -2,65 +2,71 @@
 
 ## Introduction
 
-Constructions consisting of a participle combined with a light verb (i.e. a verb with limited lexical meaning) are manifold in German grammar. They include constructions without diathesis like the German *Perfekt* \Next[a] and typical diatheses like the *werden* passive \Next[b].
+Constructions consisting of a participle combined with a light verb (i.e. a verb with limited lexical meaning) are manifold in German grammar. They include constructions without diathesis like the German *Perfekt* [@Next a] and typical diatheses like the *werden* passive [@Next b].
 
-\ex.
- \a. Ich habe einen Brief geschrieben.
- \b. Der Brief wurde geschrieben.
+:::ex
+a.  Ich habe einen Brief geschrieben.
+b.  Der Brief wurde geschrieben.
+:::
 
-On closer inspection there turns out to be a large range of light verbs that are grammaticalized into constructions with participles. Some of these are widely acknowledged in the literature, like *sein + Partizip* \Next[a], known as ~~Zustandspassiv~~, see [@sec:participles-sein-zustandspassiv], and *bekommen + Partizip* \Next[b], known as ~~Rezipientenpassiv~~, see [@sec:participles-bekommen-passive]. Many others, though, are only sporadically discussed, like *gehören + Partizip* \Next[c], see [@sec:participles-gehoren-anticausative]. This chapter is an attempt to provide a complete survey of light-verb constructions with participles.
+On closer inspection there turns out to be a large range of light verbs that are grammaticalised into constructions with participles. Some of these are widely acknowledged in the literature, like *sein + Partizip* [@Next a], known as ~~Zustandspassiv~~, see [@sec:participles-sein-zustandspassiv], and *bekommen + Partizip* [@Next b], known as ~~Rezipientenpassiv~~, see [@sec:participles-bekommen-passive]. Many others, though, are only sporadically discussed, like *gehören + Partizip* [@Next c], see [@sec:participles-gehoren-anticausative]. This chapter is an attempt to provide a complete survey of light-verb constructions with participles.
 
-\ex.
- \a. Der Brief ist schon fertig geschrieben.
- \b. Er bekommt einen Brief geschrieben.
- \b. Dieser Brief gehört geschrieben.
+:::ex
+a.  Der Brief ist schon fertig geschrieben.
+b.  Er bekommt einen Brief geschrieben.
+b.  Dieser Brief gehört geschrieben.
+:::
 
 The term ~~participle~~ is used in this chapter for the wordform known in German grammar as *Partizip II* (see [@sec:participles-identifying-participles]). There is also a *Partizip I*, but this wordform plays a much more restricted role in German grammar. It will be discussed in Chapter [-@sec:adj].
 
 In identifying light-verb constructions with participles care has to be taken to distinguish them from constructions in which the participle is used as a depictive secondary predicate. Both constructions superficially look very similar (see [@sec:participles-secondary-predicates]).
 
-Many light-verb constructions with participles will be discussed in more than one subsection in this chapter. This is necessary because many light-verb constructions show different sentence alternations for different participles. Typically, participles of intransitive and transitive verbs will lead to different alternations. For example, some intransitive verbs, like *schlafen* 'to sleep' \Next[a], allow for an *werden* impersonal passive in which the nominative argument is dropped (see [@sec:participles-werden-impersonal-passive]). In contrast, with many transitive verbs, like *putzen* 'to clean' \Next[b], the *werden* passive shows a different diathesis in which the accusative is turned into a nominative (see [@sec:participles-werden-passive]).
+Many light-verb constructions with participles will be discussed in more than one subsection in this chapter. This is necessary because many light-verb constructions show different sentence alternations for different verbs. Typically, participles of intransitive and transitive verbs will lead to different alternations. For example, some intransitive verbs, like *schlafen* 'to sleep' [@Next a], allow for an *werden* impersonal passive in which the nominative argument is dropped (see [@sec:participles-werden-impersonal-passive]). In contrast, with many transitive verbs, like *putzen* 'to clean' [@Next b], the *werden* passive shows a different diathesis in which the accusative is turned into a nominative (see [@sec:participles-werden-passive]).
 
-\ex.
- \a. Jetzt wird geschlafen.
- \b. Das Haus wird geputzt.
+:::ex
+a.  Jetzt wird geschlafen.
+b.  Das Haus wird geputzt.
+:::
 
-There are many different such 'repeated' light-verb constructions. A recurring phenomenon is one in which intransitives show no diathesis \Next[a], while transitives display an anticausative diathesis \Next[b]. This phenomenon seems to fit nicely with the so-called 'unaccusative hypothesis' [@perlmutter1978] which proposes that some intransitive subjects are underlyingly objects, see [@sec:participles-restrictions]. However, exactly which participles are amenable for which light-verb constructions appears to be rather unpredictable (or maybe better 'lexically dependent'), and the survey in this chapter is proposed to be a step towards a more precise understanding the such constructional restrictions.
+There are many different such 'repeated' light-verb constructions. A recurring phenomenon is one in which intransitives show no diathesis [@Next a], while transitives display an anticausative diathesis [@Next b]. This phenomenon seems to fit nicely with the so-called 'unaccusative hypothesis' [@perlmutter1978] which proposes that some intransitive subjects are underlyingly objects, see [@sec:participles-restrictions]. However, exactly which verbs are amenable for which light-verb constructions appears to be rather unpredictable (or maybe better 'lexically dependent'), and the survey in this chapter is proposed to be a step towards a more precise understanding the such constructional restrictions.
 
-\ex.
- \a. Der Schlüssel bleibt verschwunden.
- \b. Die Tür bleibt geschlossen.
+:::ex
+a.  Der Schlüssel bleibt verschwunden.
+b.  Die Tür bleibt geschlossen.
+:::
 
 ## Characterizing participle constructions
 
 ### Identifying participles {#sec:participles-identifying-participles}
 
-German participles (in German grammar idiosyncratically known as *Partizip II*) can rather straightforwardly be identified by their morphology. However, this identification is complicated by a wide range of allomorphy, which will only be succinctly summarized here [cf. @duden2009: 440, §613-614; @eisenberg2006: 201-202]:
+German participles (in German grammar idiosyncratically known as *Partizip II*) can rather straightforwardly be identified by their morphology. However, this identification is complicated by a wide range of allomorphy, which will only be succinctly summarised here [cf. @duden2009: 440, §613-614; @eisenberg2006: 201-202]:
 
 - Typically, participles have a prefix *ge-*, like in *ge-kauf-t* (stem *kauf*), except when the stem already contains one of the prefixes *be-, er-, ver-, zer-, ent-*, like in *verkauf-t*. The prefix will appear between the stem and so-called verb particles *an-, ein-, vor*, etc., like in *ein-ge-kauf-t*.
 - Typically, participles have a suffix *-t*, like in *ge-kauf-t*, in some phonological surroundings with an epenthetic schwa, like in *ge-wart-et* (stem: *wart*). In a large, but closed, class of verbs the suffix is *-en*, like in *ge-lauf-en* (stem *lauf*), often combined with ablaut of the stem vowel, like in *ge-fund-en* (stem *find*).
 
-The allomorphs without *ge-* lead to another problem, because such participles are identical to third person singular finite verb forms. In \Next[a] the wordform *verkauft* is a finite third person singular, while in \Next[b] it is a participle. However, given that the finite verbs show agreement with the subject, checking a different subject easily differentiates between these two homonyms, e.g. in the first person singular the finite verb changes to *verkaufe* \Next[c], while the participle remaians unchanged \Next[d].
+The allomorphs without *ge-* lead to another problem, because such participles are identical to third person singular finite verb forms (or first person plural when ending in *-en*). In [@Next a] the wordform *verkauft* is a finite third person singular, while in [@Next b] it is a participle. However, given that the finite verbs show agreement with the subject, checking a different subject easily differentiates between these two homonyms, e.g. in the first person singular the finite verb changes to *verkaufe* [@Next c], while the participle remains unchanged [@Next d].
 
-\ex.
- \a. Er verkauft das Haus.
- \b. Er hat das Haus verkauft.
- \c. Ich verkaufe das Haus.
- \d. Ich habe das Haus verkauft.
+:::ex
+a.  Er verkauft das Haus.
+b.  Er hat das Haus verkauft.
+c.  Ich verkaufe das Haus.
+d.  Ich habe das Haus verkauft.
+:::
 
 The formation of participles is highly productive in German. Every verb stem (i.e. every stem that can be used with person-inflected finite morphology) allows for the formation of a participle. The formation of participles is also highly amenable to newly invented pseudowords (REFERENCE?). Even participles derived from non-verbal stems are widely attested see [@sec:participles-no-alternation].
 
 ### Syntactic functions of participles
 
-Participles, like *geputzt* 'cleaned' in \Next, can be used in three different syntactic functions in the grammar of German, namely as (i) an adnominal adjective \Next[a], to be discussed in Chapter [-@sec:adj], as (ii) a depictive secondary predicate \Next[b], to be discussed in [@sec:participles-secondary-predicates], and as (iii) a part of a light-verb construction \Next[c,d], to be discussed extensively throughout this chapter. Arguably, these three functions are part of the spectrum of uses that are also available to German adjectives (see [@sec:participles-adjectives-light-verb-constructions]). So, the basic thrust is that participles are syntactically adjectives which are derived from verbal stems.
+Participles, like *geputzt* 'cleaned' in [@Next], can be used in three different syntactic functions in the grammar of German, namely as (i) an adnominal adjective [@Next a], to be discussed in Chapter [-@sec:adj], as (ii) a depictive secondary predicate [@Next b], to be discussed in [@sec:participles-secondary-predicates], and as (iii) a part of a light-verb construction [@Next c,d] to be discussed extensively throughout this chapter. Arguably, these three functions are part of the spectrum of uses that are also available to German adjectives (see [@sec:participles-adjectives-light-verb-constructions]). So, the basic thrust is that participles are syntactically adjectives which are derived from verbal stems.
 
-\ex.
- \a. Das geputzte Haus erstrahlt im Sonnenlicht.
- \b. Er verkauft das Haus geputzt.
- \c. Das Haus ist geputzt.
- \d. Das Haus wird geputzt.
+:::ex
+a.  Das geputzte Haus erstrahlt im Sonnenlicht.
+b.  Er verkauft das Haus geputzt.
+c.  Das Haus ist geputzt.
+d.  Das Haus wird geputzt.
+:::
 
-This chapter deals with light-verb constructions with participles. Such analytic constructions are widely discussed in the German grammatical literature, especially involving so-called 'auxiliaries' like *haben*, *sein* or *werden*. However, there turn out to be many more auxiliary-like 'light' verbs that can be combined with a participle into a grammaticalized light-verb construction. The attested light verbs are summarized below by their literal meaning, but it is crucial to realize that these literal meanings are mostly lost in the (grammaticalized) constructions with participles. Also note that various of these verbs are extremely rare as light verbs. All these light-verb constructions will be discussed in separate sections throughout this chapter.
+This chapter deals with light-verb constructions with participles. Such analytic constructions are widely discussed in the German grammatical literature, especially involving so-called 'auxiliaries' like *haben*, *sein* or *werden*. However, there turn out to be many more auxiliary-like 'light' verbs that can be combined with a participle into a grammaticalised light-verb construction. The attested light verbs are summarised below by their literal meaning, but it is crucial to realize that these literal meanings are mostly lost in the (grammaticalised) constructions with participles. Also note that various of these verbs only rarely occur as light verbs. All these light-verb constructions will be discussed in separate sections throughout this chapter.
 
 - Existential verbs: *sein, werden, bleiben, lassen, machen*
 - Appearance verbs: *aussehen, scheinen, erscheinen, wirken*
@@ -70,31 +76,34 @@ This chapter deals with light-verb constructions with participles. Such analytic
 
 ### Restrictions on participle usage {#sec:participles-restrictions}
 
-Although all finite verb stems can be used to morphologically make a participle, not all participles can be used in all syntactic functions. For example, the participle *angekommen* 'arrived' \Next only allows for one of the contexts exemplified with *geputzt* in \Last above. Central to the discussion in this chapter is the fact that participles differ as to the kind of constructions in which they can occur.
+Although all finite verb stems can be used to morphologically make a participle, not all participles can be used in all syntactic functions. For example, the participle *angekommen* 'arrived' [@Next] only allows for one of the contexts exemplified with *geputzt* in [@Last] above. Central to the discussion in this chapter is the fact that participles differ as to the kind of constructions in which they can occur.
 
-\ex.
- \a. \? Der angekommene Zug erstrahlt im Sonnenlicht.
- \b. \* Er sieht den Zug angekommen.
- \c.    Der Zug ist angekommen.
- \d. \* Der Zug wird angekommen.
+:::ex
+a.  ^? Der angekommene Zug erstrahlt im Sonnenlicht.
+b.  ^* Er sieht den Zug angekommen.
+c.   Der Zug ist angekommen.
+d.  ^* Der Zug wird angekommen.
+:::
 
-The first observation of such a restriction goes back to the *Sprachlehre* of Carl Friedrich Aichinger [-@aichinger1754: 282 ff.], who reserves the term ~~participium~~ for verbs that allow for an adnominal usage of their participles \Last[a]. His rationale for this restriction is that 'real' participles should allow for declension (like in Latin) and in German only the adnominal usage shows (minimal) declension. In contrast, participles in light-verb constructions \Last[c] are morphologically immutable in German, so Aichinger proposes to call them differently, proposing the term ~~supinum~~. This nomenclature is very unfortunate, because the German participle has no relation at all to the Latin supine, neither formally nor functionally. Being criticized for this terminology, Aichinger explains that he uses the term 'Supinum' solely because the Latin supine is also an immutable verb from [e.g. @aichinger1776: 627]. Although there are many unfortunate terminological confusions in the history of linguistics, this inappropriate usage of the term 'Supinum' can still be found in German grammatical literature to this day (with a history of transmission that deserves more in-depth study), most forcefully reinforced by the usage in Bech [-@bech1955] and the large literature building on that influential work.
+The first observation of such a restriction goes back to the *Sprachlehre* of Carl Friedrich Aichinger [-@aichinger1754: 282 ff.], who reserves the term ~~participium~~ for verbs that allow for an adnominal usage of their participles [@Last a]. His rationale for this restriction is that 'real' participles should allow for declension (like in Latin) and in German only the adnominal usage shows (minimal) declension. In contrast, participles in light-verb constructions [@Last c] are morphologically immutable in German, so Aichinger proposes to call them differently, proposing the term ~~supinum~~. This nomenclature is very unfortunate, because the German participle has no relation at all to the Latin supine, neither formally nor functionally. Being criticised for this terminology, Aichinger explains that he uses the term 'Supinum' solely because the Latin supine is also an immutable verb from [e.g. @aichinger1776: 627]. Although there are many unfortunate terminological confusions in the history of linguistics, this inappropriate usage of the term 'Supinum' can still be found in German grammatical literature to this day (with a history of transmission that deserves more in-depth study), most forcefully reinforced by the usage in Bech [-@bech1955] and the large literature building on that influential work.
 
-Restrictions on which light-verb constructions are possible with specific participles are widely discussed in the literature. For example, *angekommen* can be used with *sein* \Last[c] but not with *werden* \Last[d]. In contrast, *geputzt* can be used with both light verbs \LLast[c,d]. In recent years there has been an extensive discussion about two classes of intransitive verbs depending on their light-verb possibilities. This discussion originated with the discussion on impersonal *werden* passive (see [@sec:participles-werden-impersonal-passive]) in Perlmutter [-@perlmutter1978]. He introduced the terms ~~unakkusative/unergative~~ for intransitive verbs that do (~~unergative~~) or do not (~~unakkusative~~) allow for such impersonal passives see [@pullum1988 for a discussion of the origin of the term and scholarly predecessors; for an early discussions in German, see @wunderlich1985]. The most extensive discussion of the grammatical possibilities of intransitives in German can be found in Grewendorf [-@grewendorf1989: 18-20], though unfortunately (and confusingly) under the heading ~~ergative~~. 
+Restrictions on which light-verb constructions are possible with specific participles are widely discussed in the literature. For example, *angekommen* can be used with *sein* [@Last c] but not with *werden* [@Last d]. In contrast, *geputzt* can be used with both light verbs [@LLast c,d]. In recent years there has been an extensive discussion about two classes of intransitive verbs depending on their light-verb possibilities. This discussion originated with the discussion on impersonal *werden* passive (see [@sec:participles-werden-impersonal-passive]) in Perlmutter [-@perlmutter1978]. He introduced the terms ~~unakkusative/unergative~~ for intransitive verbs that do (~~unergative~~) or do not (~~unakkusative~~) allow for such impersonal passives see [@pullum1988 for a discussion of the origin of the term and scholarly predecessors; for an early discussions in German, see @wunderlich1985]. The most extensive discussion of the grammatical possibilities of intransitives in German can be found in Grewendorf [-@grewendorf1989: 18-20], though unfortunately (and confusingly) under the heading ~~ergative~~. 
 
-The basic proposal from this literature is the ~~unaccusative hypothesis~~, which states that with so-called unaccusative intransitive, the sole argument is underlyingly an object. For example, an unaccusative verb like *einschlafen* 'to fall asleep' can be combined with *sein* \Next[a], but not with *haben* \Next[b], and it does not allow for an impersonal passive \Next[c]. In contrast, an unergative verb like *schlafen* 'to sleep' has the reversed distribution \NNext.
+The basic proposal from this literature is the ~~unaccusative hypothesis~~, which states that with so-called unaccusative intransitives, the sole argument is underlyingly an object. For example, an unaccusative verb like *einschlafen* 'to fall asleep' can be combined with *sein* [@Next a], but not with *haben* [@Next b], and it does not allow for an impersonal passive [@Next c]. In contrast, an unergative verb like *schlafen* 'to sleep' has the reversed distribution [@NNext].
 
-\ex.
- \a.    Das Kind ist eingeschlafen.
- \b. \* Das Kind hat eingeschlafen.
- \c. \* Hier wird eingeschlafen.
+:::ex
+a.   Das Kind ist eingeschlafen.
+b.  ^* Das Kind hat eingeschlafen.
+c.  ^* Hier wird eingeschlafen.
+:::
 
-\ex.
- \a. \* Das Kind ist geschlafen.
- \b.    Das Kind hat geschlafen.
- \c.    Hier wird geschlafen.
+:::ex
+a.  ^* Das Kind ist geschlafen.
+b.   Das Kind hat geschlafen.
+c.   Hier wird geschlafen.
+:::
 
-However, there appears to be much more variation in the distribution of light-verb constructions, as summarized in [@tbl:light-verb-constructions]. Basically, every possibility is attested, except for neither *sein* nor *haben*. Looking further, there are many more light-verb constructions that can be investigated. This chapter will not attempts to answer the question how many different such distributions are attested, but only takes the first step of presenting a list of attested light-verb constructions.
+However, there appears to be much more variation in the distribution of light-verb constructions, as summarised in [@tbl:light-verb-constructions]. Basically, every possibility is attested (except for neither *sein* nor *haben*). Looking further, there are many more light-verb constructions that can be investigated. This chapter will not attempts to answer the question how many different such distributions are attested, but only takes the first step of presenting a list of attested light-verb constructions.
 
 | verb           | *sein* | *haben* | *werden* |
 |:-------------- |:------:|:-------:|:--------:|
@@ -109,63 +118,70 @@ Table: Possibilities of light-verb constructions with participles {#tbl:light-ve
 
 ### Participles as depictive secondary predicates {#sec:participles-secondary-predicates}
 
-Participles can be used as so-called depictive secondary predicates \Next[a]. In such sentences, the participle functions syntactically like an adverb in the sentence structure \Next[b]. The problem is that constructions like \Next[a] are highly similar to light verb constructions. For example, such constructions are likewise coherent \Next[c,d]. Yet, depictive secondary participles and participles in light verb construction have to be strictly separated.
+Participles can be used as so-called depictive secondary predicates [@Next a]. In such sentences, the participle functions syntactically like an adverb in the sentence structure [@Next b]. The problem is that constructions like [@Next a] are highly similar to light verb constructions. For example, such constructions are likewise coherent [@Next c,d]. Yet, depictive secondary participles and participles in light verb construction have to be strictly separated.
 
-\ex.
- \a.    Er verkauft die Nägel gebogen.
- \b.    Er verkauft die Nägel jetzt.
- \c.    Es ist bekannt, dass er die Nägel gebogen verkauft.
- \d. \* Es ist bekannt, dass er verkauft die Nägel gebogen.
+:::ex
+a.   Er verkauft die Nägel gebogen.
+b.   Er verkauft die Nägel jetzt.
+c.   Es ist bekannt, dass er die Nägel gebogen verkauft.
+d.  ^* Es ist bekannt, dass er verkauft die Nägel gebogen.
+:::
 
-A participle as secondary predicate \Next[a] can in most cases easily be identified by trying to leave it out of the sentence \Next[b] or replace it with an adverb \Next[c]. The finite predicate of the sentence (here *verkaufen*, 'to sell') should not change its meaning, and in general the meaning of the sentence will remain almost identical (except of course for the meaning of the missing participle).
+A participle as secondary predicate [@Next a] can in most cases easily be identified by trying to leave it out of the sentence [@Next b] or replace it with an adverb [@Next c]. The finite predicate of the sentence (here *verkaufen*, 'to sell') should not change its meaning, and in general the meaning of the sentence will remain almost identical (except of course for the meaning of the missing participle).
 
-\ex.
- \a. Er verkauft die Nägel gebogen.
- \b. Er verkauft die Nägel.
- \c. Er verkauft die Nägel jetzt.
+:::ex
+a.  Er verkauft die Nägel gebogen.
+b.  Er verkauft die Nägel.
+c.  Er verkauft die Nägel jetzt.
+:::
 
-More detailed indications to distinguish secondary predicates \Next[a] from light verb constructions \Next[b] can be obtained by investigating whether the participle behaves like an adverb. This can, for example, be shown overtly by trying to add linguistic material between the participle and the finite verb in a subordinate clause. This is possible for a participle as secondary predicate \Next[c] and for adverbs \Next[d]. In contrast, for light verb constructions in a subordinate clause, the finite verb always should follow immediately after the participle \Next[a] with no possibility for anything to intervene \Next[f].
+More detailed indications to distinguish secondary predicates [@Next a] from light verb constructions [@Next b] can be obtained by investigating whether the participle behaves like an adverb. This can, for example, be shown overtly by trying to add linguistic material between the participle and the finite verb in a subordinate clause. This is possible for a participle as secondary predicate [@Next c] and for adverbs [@Next d]. In contrast, for light verb constructions in a subordinate clause, the finite verb always should follow immediately after the participle [@Next a] with no possibility for anything to intervene [@Next f].
 
-\ex.
- \a.    Er kauft die Schuhe in diesem Geschäft immer geputzt.
- \b.    Er bekommt die Schuhe in diesem Geschäft immer geputzt. ('Ihm werden die Schuhe dort geputzt.')
- \c.    Es ist bekannt, dass er die Schuhe immer geputzt in diesem Geschäft kauft.
- \d.    Es ist bekannt, dass er die Schuhe immer morgens in diesem Geschäft kauft.
- \e.    Es ist bekannt, dass er die Schuhe immer in diesem Geschäft geputzt bekommt.
- \f. \* Es ist bekannt, dass er die Schuhe immer geputzt in diesem Geschäft bekommt.
+:::ex
+a.   Er kauft die Schuhe in diesem Geschäft immer geputzt.
+b.   Er bekommt die Schuhe in diesem Geschäft immer geputzt. ('Ihm werden die Schuhe dort geputzt.')
+c.   Es ist bekannt, dass er die Schuhe immer geputzt in diesem Geschäft kauft.
+d.   Es ist bekannt, dass er die Schuhe immer morgens in diesem Geschäft kauft.
+e.   Es ist bekannt, dass er die Schuhe immer in diesem Geschäft geputzt bekommt.
+f.  ^* Es ist bekannt, dass er die Schuhe immer geputzt in diesem Geschäft bekommt.
+:::
 
-Secondary predication with participles can also be distinguished from light verb constructions by considering negation. Negation in sentences with a participle as a secondary predicate normally negates this secondary predicate itself (lexical scope), just like adverbs \Next[a,b]. With secondary predicates it is often even possible to instead use the prefix *un-* to mark the lexical scope of the negation over the participle \Next[c].
+Secondary predication with participles can also be distinguished from light verb constructions by considering negation. Negation in sentences with a participle as a secondary predicate normally negates this secondary predicate itself (lexical scope), just like adverbs [@Next a,b]. With secondary predicates it is often even possible to instead use the prefix *un-* to mark the lexical scope of the negation over the participle [@Next c].
 
-\ex.
- \a. Er kauft die Schuhe nicht jetzt.
- \b. Er kauft die Schuhe nicht geputzt.
- \c. Er kauft die Schuhe (nur) ungeputzt.
+:::ex
+a.  Er kauft die Schuhe nicht jetzt.
+b.  Er kauft die Schuhe nicht geputzt.
+c.  Er kauft die Schuhe (nur) ungeputzt.
+:::
 
-In contrast, negation in a monoclausal light verb construction with a particple has a wide scope reading over the whole sentence. For example, in \Next[a] the verb *bekommen* has two different readings. Either \Next[b], there is a full lexical verb with the meaning 'to get as a gift' and a narrow scope negation over the participle *nicht geputzt* (which is almost equivalent to *ungeputzt* 'uncleaned'), resulting in a meaning of 'he gets a gift of uncleaned shoes'. In this interpretation, the participle is a secondary predicate. Alternatively \Next[c], *bekommen* can be interpreted as a light verb with a meaning 'to get something done for you' with a full verb as participle *geputzt* 'cleaned'. Together with the wide scope negation the meaning of the sentence then becomes 'he doesn't manage to get his shoes cleaned'. In this interpretation, the participle is part of a light verb construction *bekommen + Participle* see [@sec:participles-bekommen-passive]
+In contrast, negation in a monoclausal light verb construction with a participle has a wide scope reading over the whole sentence. For example, in [@Next a] the verb *bekommen* has two different readings. Either [@Next b], there is a full lexical verb with the meaning 'to get as a gift' and a narrow scope negation over the participle *nicht geputzt* (which is almost equivalent to *ungeputzt* 'uncleaned'), resulting in a meaning of 'he gets a gift of uncleaned shoes'. In this interpretation, the participle is a secondary predicate. Alternatively [@Next c], *bekommen* can be interpreted as a light verb with a meaning 'to get something done for you' with a full verb as participle *geputzt* 'cleaned'. Together with the wide scope negation the meaning of the sentence then becomes 'he doesn't manage to get his shoes cleaned'. In this interpretation, the participle is part of a light verb construction *bekommen + Participle* see [@sec:participles-bekommen-passive].
 
-\ex.
- \a. Er bekommt die Schuhe nicht geputzt
- \b. Er kriegt ein Geschenk, nämlich ungeputzte Schuhe.
- \c. Er schafft es nicht seine Schuhe putzen zu lassen.
+:::ex
+a.  Er bekommt die Schuhe nicht geputzt
+b.  Er kriegt ein Geschenk, nämlich ungeputzte Schuhe.
+c.  Er schafft es nicht seine Schuhe putzen zu lassen.
+:::
 
-Note further that the sentence stress in \Last[a] differs for both readings. The reading \Last[b] has stress on the negation *nicht* (as is usually the case for lexical scope), while the reading in \Next[c] has stress on the participle *geputzt* (which is the regular stress placement for a wide-scope negation of the indicative main clause).
+Note further that the sentence stress in [@Last a] differs for both readings. The reading [@Last b] has stress on the negation *nicht* (as is usually the case for lexical scope), while the reading [@Next c] has stress on the participle *geputzt* (which is the regular stress placement for a wide-scope negation of the indicative main clause).
 
-A final (minor) difference between participles as secondary predicate \Next[a] and light verb constructions \Next[b,c] is that secondary predicates are in many contexts ambiguous as to the scope of the predicate. For example, in \Next[a] the secondary predicate *bekleidet* 'dressed' can be interpreted both as referring to the accusative object *Patienten* 'patients' and (with a humorous undertone) to the nominative subject *Doktor* 'doctor'. With a light verb construction there is never any ambiguity
+A final (minor) difference between participles as secondary predicate [@Next a] and light verb constructions [@Next b,c] is that secondary predicates are in many contexts ambiguous as to the scope of the predicate. For example, in [@Next a] the secondary predicate *bekleidet* 'dressed' can be interpreted both as referring to the accusative object *Patienten* 'patients' and (with a humorous undertone) to the nominative subject *Doktor* 'doctor'. With a light verb construction there is never any ambiguity.
 
-\ex.
- \a. Der Doktor untersucht seine Patienten immer bekleidet.
- \b. Der Doktor lässt seine Patienten immer bekleidet.
- \c. Der Doktor ist immer bekleidet.
+:::ex
+a.  Der Doktor untersucht seine Patienten immer bekleidet.
+b.  Der Doktor weiß seine Patienten immer bekleidet.
+c.  Der Doktor wird bekleidet.
+:::
 
 ### Adjectives in light-verb constructions {#sec:participles-adjectives-light-verb-constructions}
 
-Arguably, all three functions are part of the spectrum of uses that are available to German adjectives like *schmutzig* 'dirty' \Next. So, the basic thrust is that participles are syntactically adjectives that are derived from verbal stems. A closer look at adjectives in light-verb constructions is taken in .
+Arguably, all three syntactic functions of participles are part of the spectrum of uses that are available to German adjectives like *schmutzig* 'dirty' [@Next]. So, the basic thrust is that participles are syntactically adjectives that are derived from verbal stems.
 
-\ex.
- \a. Das schmutzige Haus erstrahlt im Sonnenlicht.
- \b. Er verkauft das Haus schmutzig.
- \c. Das Haus ist schmutzig.
- \d. Das Haus wird schmutzig.
+:::ex
+a.  Das schmutzige Haus erstrahlt im Sonnenlicht.
+b.  Er verkauft das Haus schmutzig.
+c.  Das Haus ist schmutzig.
+d.  Das Haus wird schmutzig.
+:::
 
 - Existential verbs: *sein, werden, bleiben, lassen, machen*
 - Appearence verbs: *aussehen, scheinen, erscheinen, wirken*
@@ -222,7 +238,7 @@ Nicht mit adjektive?
 
 ## Deponent verbs without alternations {#sec:participles-no-alternation}
 
-Most participles are regularly derived from verb stems that allow for finite verbforms. However, there are various participles that are not directly related to a finite verb, but that still occur in light verb constructions. Parallel to the '.3' sections in earlier chapters, I will discuss here three different kinds of participles without finite counterpart.
+Most participles are regularly derived from verb stems that allow for finite verbforms. However, there are various participles that are not directly related to a finite verb, but that still occur in light verb constructions. Parallel to the '.3' sections in earlier chapters, I will discuss here various different kinds of participles without finite counterpart.
 
 - First, some participles have an idiomatic meaning that is not transparently related to the meaning of the morphologically corresponding finite verb.
 - Second, some participles are derived from nouns, and the corresponding finite verb does not exist.
@@ -230,23 +246,26 @@ Most participles are regularly derived from verb stems that allow for finite ver
 
 ### Idiomatic meaning of participles
 
-Some participles have obtained a specialized idiomatic meaning, different from the finite use of the verb. For example *verwenden* 'to plead for' with participle *verwandt* \Next[a] has given rise to a completely separate participle *verwandt* 'to be related' \Next[b]. (Note that there is also a separate verb *verwenden* meaning 'to utilize' with participle *verwendet*.)
+Some participles have obtained a specialised idiomatic meaning, different from the finite use of the verb. For example *verwenden* 'to plead for' with participle *verwandt* [@Next a] has given rise to a completely separate participle *verwandt* 'to be related' [@Next b]. (Note that there is also a separate verb *verwenden* meaning 'to utilize' with participle *verwendet*.)
 
-\ex.
- \a. Er hat sich sehr für die Einrichtung eines Spielplatzes verwandt.
- \b. Wir sind verwandt.
+:::ex
+a.  Er hat sich sehr für die Einrichtung eines Spielplatzes verwandt.
+b.  Wir sind verwandt.
+:::
 
-Similarly idiomatic are the the participles *verrückt* 'crazy' from *verrücken* 'to relocate' \Next[a] and *verklemmt* 'prudish' from *verklemmen* 'to get jammed' \Next[b]
+Similarly idiomatic are the participles *verrückt* 'crazy' from *verrücken* 'to relocate' [@Next a] and *verklemmt* 'prudish' from *verklemmen* 'to get jammed' [@Next b]
 
-\ex.
- \a. Er ist verrückt.
- \b. Er ist verklemmt.
+:::ex
+a.  Er ist verrückt.
+b.  Er ist verklemmt.
+:::
 
 The participle *bekannt* 'known' is morphologically derived from *bekennen* 'to confess', although the meaning of the participle is related to *kennen* 'to know', which has a participle *gekannt*.
 
-\ex.
- \a. Jeder kennt den Schauspieler.
- \b. Der Schauspieler ist bekannt/*gekannt
+:::ex
+a.  Jeder kennt den Schauspieler.
+b.  Der Schauspieler ist bekannt/*gekannt
+:::
 
 **Attested Participles**
 
@@ -254,39 +273,40 @@ The participle *bekannt* 'known' is morphologically derived from *bekennen* 'to 
 
 **Notes**
 
-Eisenberg [-@eisenberg2006: 201] also mentions *entsetzt* 'appalled' as an idiomatic participle, but the Verb *entsetzen* 'to appall' seems to be perfectly possible as a finite verb \Next[a]. The intended meaning from Eisenberg is then simply the anticausative 'Zustandspassiv' \Next[b].
+Eisenberg [-@eisenberg2006: 201] also mentions *entsetzt* 'appalled' as an idiomatic participle, but the Verb *entsetzen* 'to appall' seems to be perfectly possible as a finite verb [@Next a]. The intended meaning from Eisenberg is then simply the anticausative 'Zustandspassiv' [@Next b].
 
-\ex.
- \a. Der Anblick entsetzt ihn. Der Anblick hat ihn entsetzt.
- \b. Er ist entsetzt.
+:::ex
+a.  Der Anblick entsetzt ihn. Der Anblick hat ihn entsetzt.
+b.  Er ist entsetzt.
+:::
 
-Likewise, DWDS mentions *verfroren* as an idiomatic participle, but the verb *verfrieren* 'to freeze' is attested, though rare \Next.
+Likewise, DWDS mentions *verfroren* as an idiomatic participle, but the verb *verfrieren* 'to freeze' is attested, though rare [@Next].
 
-\ex.
- \a. Bei Wind verfrieren die Wangen in kürzester Zeit. (DWDS: Die Zeit, 10.01.1997, Nr. 03)
- \b. Meine Wangen sind verfroren.
+:::ex
+a.  Bei Wind verfrieren die Wangen in kürzester Zeit. (DWDS: Die Zeit, 10.01.1997, Nr. 03)
+b.  Meine Wangen sind verfroren.
+:::
 
 ### Participles from nouns
 
-There exist various German words that are clearly participles in form, but their stems are nouns (and not finite verbs). This might look like conversion, but it is not. The wholesale (zero-marked) conversion of nouns into finite verbs is attested in German (e.g. *ölen* 'to apply oil' from the noun *Öl*, 'oil'), but is far from as productive as in English.
+There exist various German words that are clearly participles in form, but their stems are nouns (and not finite verbs). This might look like conversion, but it is not. The wholesale (zero-marked) conversion of nouns into finite verbs is attested in German (e.g. *ölen* 'to apply oil' from the noun *Öl*, 'oil'), but this is far from as productive as in English.
 
-In contrast, the participles that are of interest here do not exist as finite verbs, i.e. there are no German verbs *blumen* 'to put flowers on something' or *flügeln* 'to put wings on something, but the participles *geblümt* 'flowered' and *gefügelt* 'winged' are perfectly possible.
+In contrast, the participles that are of interest here do not exist as finite verbs, i.e. there are no German verbs *blumen* 'to put flowers on something' or *flügeln* 'to put wings on something, but the participles *geblümt* 'flowered' (from noun *Blume* 'flower') and *gefügelt* 'winged' (from noun *Flügel* 'wing') are perfectly possible. Semantically, the noun-based participles express a kind of possessive relationship 'subject exists with noun', for example *geblümt* means 'to have flowers applied to it'.
 
-Further, various participles are derived from nouns using verb prefixes *be-* and *ver-*. As discussed earlier, it is a relatively widespread phenomenon for finite verbs to be derived from nominal stems using these prefixes (see [@sec:preverbs-other-stems]). For example, the verb *vergiften* 'to poison' is derived from the noun *Gift* 'poison' without any verb like *giften* in between \Next[a,b]. As a consequence, the participle *vergiftet* also exist \Next[c]. 
+Further, various participles are derived from nouns using verb prefixes *be-* and *ver-*. As discussed earlier, it is a relatively widespread phenomenon for finite verbs to be derived from nominal stems using these prefixes (see [@sec:preverbs-other-stems]). For example, the verb *vergiften* 'to poison' is derived from the noun *Gift* 'poison' without any verb like *giften* in between [@Next a,b]. As a consequence, the participle *vergiftet* also exist [@Next c]. 
 
-In contrast, the participle *verhasst* 'hated' is derived from the noun *Hass* 'hate' and the verb *hassen* 'to hate' \NNext[a]. However, the verb *verhassen* cannot be used as a finite verb \NNext[b], only as a participle \NNext[c].
+In contrast, the participle *verhasst* 'hated' is derived from the noun *Hass* 'hate' and the verb *hassen* 'to hate' [@NNext a]. However, the verb *verhassen* cannot be used as a finite verb [@NNext b], only as a participle [@NNext c].
 
-\ex.
- \a. \* Sie giftet ihn.
- \b. Sie vergiftet ihn.
- \c. Er ist vergiftet.
+:::ex
+a.  ^* Sie giftet ihn.
+b.  Sie vergiftet ihn.
+c.  Er ist vergiftet.
  
-\ex.
- \a. Sie hasst ihn.
- \b. \* Sie verhasst ihn.
- \c. Er ist verhasst.
-
-Semantically, the noun-based participles express a kind of possessive relationship 'subject exists with noun', for example *geblümt* means 'to have flowers applied to it'.
+:::ex
+a.  Sie hasst ihn.
+b.  ^* Sie verhasst ihn.
+c.  Er ist verhasst.
+:::
 
 **Attested Participles**
 
@@ -296,32 +316,34 @@ Semantically, the noun-based participles express a kind of possessive relationsh
 
 **Notes**
 
-The verb *zacken* 'to produce indentation' is also attested, though rare \Next[a], so *gezackt* might not be a good example of a participle without finite usage. 
+The verb *zacken* 'to produce indentation' is also attested, though rare [@Next a], so *gezackt* might not be a good example of a participle without finite usage. 
 
-In contrast, the verb *schweifen* 'to ramble' exists \Next[b], but is semantically not directly related to the participle *geschweift* 'curled'. Both seem independently derived from the noun *Schweif* 'bushy tail'. The same holds for the participle *gestreift* 'striped' and the verb *streifen* 'to roam, to streak', which are probably both independently related to the noun *Streifen* 'strip, band'.
+In contrast, the verb *schweifen* 'to ramble' exists [@Next b], but is semantically not directly related to the participle *geschweift* 'curled'. Both seem independently derived from the noun *Schweif* 'bushy tail'. The same holds for the participle *gestreift* 'striped' and the verb *streifen* 'to roam, to streak', which are probably both independently related to the noun *Streifen* 'strip, band'.
 
-\ex.
- \a. Die Streifen zackten sich über Schuhe, Bänke, Tische, Mäntel, Bettgitter. (DWDS: Fichte, Hubert: Das Waisenhaus, Frankfurt a. M.: Fischer-Taschenbuch-Verl. 1988 [1965], S. 139)
- \b. Man schweifte wie auf einem riesigen Schuttplatz jenseits der Ränder der bekannten Welt. (DWDS: Jünger, Ernst: In Stahlgewittern, Stuttgart: Klett-Cotta 1994 [1920], S. 110)
+:::ex
+a.  Die Streifen zackten sich über Schuhe, Bänke, Tische, Mäntel, Bettgitter. (DWDS: Fichte, Hubert: Das Waisenhaus, Frankfurt a. M.: Fischer-Taschenbuch-Verl. 1988 [1965], S. 139)
+b.  Man schweifte wie auf einem riesigen Schuttplatz jenseits der Ränder der bekannten Welt. (DWDS: Jünger, Ernst: In Stahlgewittern, Stuttgart: Klett-Cotta 1994 [1920], S. 110)
+:::
 
-The participle *gelaunt* obligatorily needs a manner adverbial, see [@sec:adverbials-nominative].
+The participle *gelaunt* (from noun *Laune* 'mood) and *geregnet* (from noun *Regen*, rain) obligatorily needs a manner adverbial, see [@sec:adverbials-nominative].
+
+:::ex
+a.  Ich bin gut gelaunt.
+b.  Ich bin nass geregent.
+:::
 
 ### Participles with preverbs
 
-Word like *einverstanden* 'agreed' \Next[a] looks morphologically like a regular participle from a verb *einverstehen*. However, that verb does not exist \Next[b]. This appears to be a common phenomenon, and the participles listed here are only to be taken as examples.
+Word like *einverstanden* 'agreed' [@Next a] looks morphologically like a regular participle from a verb *einverstehen*. However, that verb does not exist [@Next b]. This appears to be a common phenomenon, and the participles listed here are only to be taken as examples.
 
-\ex.
- \a. Ich bin einverstanden.
- \b.\* Ich verstehe ein.
+:::ex
+a.  Ich bin einverstanden.
+b. ^* Ich verstehe ein.
+:::
 
 **Attested Verbs**
 
 - *angeheiratet, einverstanden, abgeneigt, zerschunden*
-
-### Participles with adverbials
-
-- Ich bin nass geregent. (auch im Passiv! Ich bin nass geregnet worden.)
-
 
 ## Alternations without diathesis
 
@@ -363,9 +385,9 @@ Intransitives are split between haben and sein, and a few verbs show variation (
 but (see below): 
 
 - Er ist jetzt endlich komplett verreist (Grenzüberschreitung!)
-- \* Er ist vor sich hin verreist
+- ^* Er ist vor sich hin verreist
 
-=> are there intransitive *sein* verbs that are not resultative? [@nedjalkov1988a: 417] \* Er ist schon seit drei Jahre gestorben/gefallen/angekommen.
+=> are there intransitive *sein* verbs that are not resultative? [@nedjalkov1988a: 417] ^* Er ist schon seit drei Jahre gestorben/gefallen/angekommen.
 
 => Idea: all *sein* intransitives have a perfekt meaning, but some (most?) additionally have a resultative meaning.
 
@@ -520,11 +542,12 @@ Asking "wie viel" is not always possible: only for unergatives? Idea: these are 
 
 ### [ ND | ND ] *sein + Partizip* Dative perfect
 
-Just like intransitives, verbs with a dative argument are split between *sein* and *haben*. The status of the datives is slightly different among these verbs, see [@sec:case-nominative-dative; @sec:case-dative-drop; @sec:prepositions-dative-antipassive; @sec:preverb-dative-applicative]. Just like intransitives, the verbs with *sein* \Next[a] all appear to allow a construction with an adnominal participle \Next[b.]
+Just like intransitives, verbs with a dative argument are split between *sein* and *haben*. The status of the datives is slightly different among these verbs, see [@sec:case-nominative-dative; @sec:case-dative-drop; @sec:prepositions-dative-antipassive; @sec:preverb-dative-applicative]. Just like intransitives, the verbs with *sein* [@Next a] all appear to allow a construction with an adnominal participle [@Next b].
 
-\ex.
- \a. Das Gemälde ist mir gelungen.
- \b. Das gelungene Gemälde ...
+:::ex
+a.  Das Gemälde ist mir gelungen.
+b.  Das gelungene Gemälde ...
+:::
 
 **Attested Verbs**
 
@@ -532,11 +555,12 @@ Just like intransitives, verbs with a dative argument are split between *sein* a
 
 **Notes**
 
-The verb *folgen* 'to follow' typically takes *sein*, but there appear to be incidental instances of *haben* \Next[a], though this might be typical of a slightly different meaning 'to obey' \Next[b].
+The verb *folgen* 'to follow' typically takes *sein*, but there appear to be incidental instances of *haben* [@Next a], though this might be typical of a slightly different meaning 'to obey' [@Next b].
 
-\ex. 
- \a. [...] wenn China und Nordkorea den Empfehlungen der Kommission gefolgt hätte. (DWDS: Archiv der Gegenwart, 2001 [1953])
- \b. Das Kind hat seiner Mutter gefolgt.
+:::ex
+a.  [...] wenn China und Nordkorea den Empfehlungen der Kommission gefolgt hätte. (DWDS: Archiv der Gegenwart, 2001 [1953])
+b.  Das Kind hat seiner Mutter gefolgt.
+:::
 
 ### [ ND | ND ] *haben + Partizip* Dative perfect
 
@@ -809,7 +833,7 @@ Keine Argumentvererbung: nur Agens kann (mit Mühe) erhalten bleiben als 'durch'
 
 - Ich schenke dir zwei Bücher.
 - ? Hier wird geschenkt (durch die Eltern).
-- \* Hier wird dir von mir zwei Bücher geschenkt (plural 'werden' notwendig!?)
+- ^* Hier wird dir von mir zwei Bücher geschenkt (plural 'werden' notwendig!?)
 
 Dativ [ ND | -D ] and Governed Preposition [ NP | -P ] possible:
 
@@ -858,7 +882,7 @@ inklusive freie Dative (Leirbukt 1997)
 
 Nicht mit unakkusative Verben mit Dativ?
 
-- ich laufe dir weg. vs. \* du bekommst von mir weggelaufen 
+- ich laufe dir weg. vs. ^* du bekommst von mir weggelaufen 
 
 "es schaffen" Bedeutung ohne Diathese?!
 
@@ -891,13 +915,13 @@ see also [@nedjalkov1988a]
 => 'perfektive' Bedeutung: Kompatibel mit "schon vor zwei Tage" (typisch 'werden'-Passiv?) (schon gestern)
 
 - Ich öffne den Brief. vs. Der Brief ist schon seit zwei Tagen geöffnet.
-- Ich öffne den Brief. vs. \* Der Brief ist schon vor zwei Tagen geöffnet. 
-\* Der Brief ist nach und nach geöffnet
+- Ich öffne den Brief. vs. ^* Der Brief ist schon vor zwei Tagen geöffnet. 
+^* Der Brief ist nach und nach geöffnet
 
 <br>
 
 - Ich repariere das Haus. vs. Das Haus ist schon seit zwei Tagen repariert.
-- Ich repariere das Haus. vs. \* Das Haus ist schon vor zwei Tagen repariert.
+- Ich repariere das Haus. vs. ^* Das Haus ist schon vor zwei Tagen repariert.
 
 Es scheint mit fast allen transitiven möglich zu sein
 
@@ -909,43 +933,43 @@ Es scheint mit fast allen transitiven möglich zu sein
 
 Transitive Verben bei denen es nicht geht: 'Experiencer Subjects' and 'haben' Bare Antikausativ. Note recurrent possibility to use causative variant marked by verbprefix *be/ver/er/zer- *(if you add a 'real' causer then the anticausative is possible.)
 
-- ärgern (Etwas ärgert den Lehrer / \* Der Lehrer ist geärgert / verärgert)
+- ärgern (Etwas ärgert den Lehrer / ^* Der Lehrer ist geärgert / verärgert)
 - brauchen (Er braucht ein Auto / ? Das Auto ist gebraucht / verbraucht)
 - drücken (Sorgen drücken mich.)
-- ekeln (Etwas ekelt mich / \* Ich bin geekelt / angeekelt) 
+- ekeln (Etwas ekelt mich / ^* Ich bin geekelt / angeekelt) 
 - entwickeln (Das Holz entwickelt einen starken Qualm. )
 - ergeben (Die Transaktionen ergaben einen hohen Gewinn.)
 - feiern (Er feiert seinen Geburtstag / ? Der Geburtstag ist gefeiert)
-- freuen (Die Aussicht freut mich / \* ich bin gefreut / erfreut)
+- freuen (Die Aussicht freut mich / ^* ich bin gefreut / erfreut)
 - fühlen (Er fühlt den Stich / ? Der Stich ist gefühlt )
 - hassen (Er hasst seinen Nachbarn / ? Der Nachbar ist gehasst / verhasst)
 - hören (Er hört das Geräusch / ? Das Geräusch ist gehört / ? erhört)
-- kennen (Ich kenne den Mann / \* Der Mann ist gekannt / bekannt)
+- kennen (Ich kenne den Mann / ^* Der Mann ist gekannt / bekannt)
 - kratzen (? Er kratzt seinen Arm / ? Der Arm ist gekratzt / verkratzt/zerkratzt)
 - kümmern
-- legen (Ich lege das Kind unter die Decke. / \* Das Kind ist schon seit heute morgen unter die Decke gelegt.)
+- legen (Ich lege das Kind unter die Decke. / ^* Das Kind ist schon seit heute morgen unter die Decke gelegt.)
 - merken
 - mögen (Ich mag den Mann / ? Der Mann ist gemocht)
-- passen (Ich passe den Anzug / \* Der Anzug ist gepasst)
+- passen (Ich passe den Anzug / ^* Der Anzug ist gepasst)
 - quälen
 - riechen
 - schmecken
-- schätzen (Er schätz seinen Mitarbeiter / \* Sein Mitarbeiter ist geschätzt)
+- schätzen (Er schätz seinen Mitarbeiter / ^* Sein Mitarbeiter ist geschätzt)
 - sehen (Er sieht das Haus / ? Das Haus ist gesehen (nur in Kinderspiel-Situation möglich!))
 - setzen
 - stecken
 - unterhalten (Ich unterhalte das Publikum.)
 - verabschieden
 - verlangen
-- wundern (Sein Verhalten wundert mich / \* ich bin gewundert / verwundert)
+- wundern (Sein Verhalten wundert mich / ^* ich bin gewundert / verwundert)
 - zwicken (Ich zwicke deinen Arm / ? Dein Arm ist gezwickt)
 
 Maienborn: 102-103: Sie findet aber Beispiele bei Google!
 
-- wissen (Ich weiß die Antwort \* Die Antwort ist gewusst)
-- heiraten (Ich heirate meinen Freund \* Mein Freund ist geheiratet / verheiratet)
-- streicheln (Ich streichele den Hund \* Der Hund ist gestreichelt)
-- zeigen (Ich zeige dir meine Schätze \* Meine Schätze sind gezeigt)
+- wissen (Ich weiß die Antwort ^* Die Antwort ist gewusst)
+- heiraten (Ich heirate meinen Freund ^* Mein Freund ist geheiratet / verheiratet)
+- streicheln (Ich streichele den Hund ^* Der Hund ist gestreichelt)
+- zeigen (Ich zeige dir meine Schätze ^* Meine Schätze sind gezeigt)
 
 ???
 
@@ -979,15 +1003,15 @@ There is an notable parallel between this 'haben + Partizip' Anticausative State
 
 (a) Der Arm ist (schon seit drei Stunden) verbunden.
 (b) Der Arm ist (schon vor drei Stunden) verbunden worden.
-(c) \* Der Arm ist (schon vor drei Stunden) verbunden.
-(d) \* Der Arm ist (schon seit drei Stunden) verbunden worden.
+(c) ^* Der Arm ist (schon vor drei Stunden) verbunden.
+(d) ^* Der Arm ist (schon seit drei Stunden) verbunden worden.
 
 Likewise, the 'haben + Partizip' Anticausative State is compatible with an imperfective temporal phrase (a), while the highly similar combination of a 'bekommen + Partizip' Dative Passive (Section X) with a 'haben + Partizip' Perfect (Section X) is compatible with a perfective temporal phrase (b). Again, the reverse temporal interpretation is not possible.
 
 (a) Ich habe den Arm (schon seit drei Stunden) verbunden.
 (b) Ich habe den Arm (schon vor drei Stunden) verbunden bekommen.
-(c) \* Ich habe den Arm (schon vor drei Stunden) verbunden.
-(d) \* Ich habe den Arm (schon seit drei Stunden) verbunden bekommen.
+(c) ^* Ich habe den Arm (schon vor drei Stunden) verbunden.
+(d) ^* Ich habe den Arm (schon seit drei Stunden) verbunden bekommen.
 
 (vgl. Adjektiv: Er hat die Haare schön; Er hat die Nase voll; Er hat die Tür offen; Er hat den Tisch sauber, Er hat sein Glas leer)
 
@@ -1025,7 +1049,7 @@ nicht im Perfekt? * Die Tür ist geschlossen geblieben
 
 [@helbig2001: 163] "kontinuativ" "irreversibel Geschehen nicht möglich"
 
-- \* Das Buch bleibt geschrieben/vollendet
+- ^* Das Buch bleibt geschrieben/vollendet
 
 ### [ NA | –N ] *gehören + Partizip* Obligation anticausative {#sec:participles-gehoren-anticausative}
 
@@ -1062,15 +1086,17 @@ something like *Zustandspassiv* for Reflexive Conversive, though not always poss
 
 Note different preposition in some cases like 'interessieren'!
 
-\ex.
- \a. Mathematik interessiert den Schüler. Mathematik hat den Schüler interessiert.
- \b. Der Schüler interessiert sich für Mathematik. Der Schüler hat sich für Mathematik interessiert.
- \c. Der Schüler ist in Mathematik interessiert. 
+:::ex
+a.  Mathematik interessiert den Schüler. Mathematik hat den Schüler interessiert.
+b.  Der Schüler interessiert sich für Mathematik. Der Schüler hat sich für Mathematik interessiert.
+c.  Der Schüler ist in Mathematik interessiert. 
+:::
 
-\ex.
- \a. Der Lärm ärgert mich. Der Lärm hat mich geärgert.
- \b. Ich ärgere mich über den Lärm. Ich habe mich über den Lärm geärgert.
- \c. \* Ich bin geärgert über den Lärm. (only in older examples before ±1750)
+:::ex
+a.  Der Lärm ärgert mich. Der Lärm hat mich geärgert.
+b.  Ich ärgere mich über den Lärm. Ich habe mich über den Lärm geärgert.
+c.  ^* Ich bin geärgert über den Lärm. (only in older examples before ±1750)
+:::
 
 **Attested Verbs**
 
@@ -1287,39 +1313,44 @@ Es heißt, sie habe sich damals in einem Interview falsch zitiert gefunden.
 
 ## Diathesis with promotion to subject
 
-The four German verbs *wissen* 'to know', *glauben* 'to believe', *sehen* 'to see' and *finden* 'to find' (and apparently only those four) allow for a construction with a participle, reminiscent of the Latin *accusativus cum participio* construction. These constructions describe a subjective opinion of the nominative subject about the veracity of the participle. This opinion is marked as either less certain (*glauben, finden*) or more certain (*wissen, sehen*). This construction can be syntactically identified by the possibility to form an alternate expression with a finite complement clause with *dass* \Next.
+The four German verbs *wissen* 'to know', *glauben* 'to believe', *sehen* 'to see' and *finden* 'to find' (and apparently only those four) allow for a construction with a participle, reminiscent of the Latin *accusativus cum participio* construction. These constructions describe a subjective opinion of the nominative subject about the veracity of the participle. This opinion is marked as either less certain (*glauben, finden*) or more certain (*wissen, sehen*). This construction can be syntactically identified by the possibility to form an alternate expression with a finite complement clause with *dass* [@Next].
 
-\ex.
- \a. Sie glaubt ihn eingeschlafen. (= Sie glaubt, dass er eingeschlafen ist.)
- \b. Sie weiß ihn gut aufgehoben. (= Sie weiß, dass er gut aufgehoben ist.)
+:::ex
+a.  Sie glaubt ihn eingeschlafen. (= Sie glaubt, dass er eingeschlafen ist.)
+b.  Sie weiß ihn gut aufgehoben. (= Sie weiß, dass er gut aufgehoben ist.)
+:::
 
-The participles are mostly transitive verbs (like *aufgehoben* in \Last[b]) of which the original subject cannot be expressed in this construction. Only the accusative object remains. Yet, the construction is not a typical anticausative because the original object remains expressed as an accusative and is not promoted to a nominative. In a sense, the nominative subject is replaced with completely new participant, the 'opinionator', whose opinion is expressed in this construction.
+The participles are mostly transitive verbs (like *aufgehoben* in [@Last b]) of which the original subject cannot be expressed in this construction. Only the accusative object remains. Yet, the construction is not a typical anticausative because the original object remains expressed as an accusative and is not promoted to a nominative. In a sense, the nominative subject is replaced with completely new participant, the 'opinionator', whose opinion is expressed in this construction.
 
 
 
-In identifying examples of this construction, care has to be taken with the verbs *finden* and *sehen*. With these verbs, it is indeed possible to express a subjective opinion \Next, just like with glauben *glauben* and *wissen* \Last. In testing for this construciont, note that the participle construction with *sehen* cannot directly be reformulated with a finite complement, but has to be replaced with something like *meinen* \Next[b]
+In identifying examples of this construction, care has to be taken with the verbs *finden* and *sehen*. With these verbs, it is indeed possible to express a subjective opinion [@Next], just like with glauben *glauben* and *wissen* [@Last]. In testing for this construciont, note that the participle construction with *sehen* cannot directly be reformulated with a finite complement, but has to be replaced with something like *meinen* [@Next b]
 
-\ex.
- \a. Er findet das Kunstwert gelungen. (= Er findet, dass das Kunstwerk gelungen ist.)
- \b. Er sieht seinen Erfolg bedroht. (= Er meint, dass sein Erfolg bedroht ist.)
+:::ex
+a.  Er findet das Kunstwert gelungen. (= Er findet, dass das Kunstwerk gelungen ist.)
+b.  Er sieht seinen Erfolg bedroht. (= Er meint, dass sein Erfolg bedroht ist.)
+:::
 
-However, the verbs *finden* and *sehen* also occur in a superficially very similar construction as exemplified in \Next, which actually have a completely different underlying structure. In these examples the verbs *finden* and *sehen* are used in their literal transitive meaning of finding/seeing an object. Additionally, the sentence is modified by a secondary predicate in the form of a participle see [@sec:participles-secondary-predicates].
+However, the verbs *finden* and *sehen* also occur in a superficially very similar construction as exemplified in [@Next], which actually have a completely different underlying structure. In these examples the verbs *finden* and *sehen* are used in their literal transitive meaning of finding/seeing an object. Additionally, the sentence is modified by a secondary predicate in the form of a participle see [@sec:participles-secondary-predicates].
 
-\ex.
- \a. Sie findet ihn am Schreibtisch eingeschlafen. (= Sie findet ihn, während er am Schreibtisch eingeschlafen ist.)
- \b. Er sieht die Buchstaben verzerrt. (= Er sieht die Buchstaben, aber die Buchstaben sind verzerrt.)
+:::ex
+a.  Sie findet ihn am Schreibtisch eingeschlafen. (= Sie findet ihn, während er am Schreibtisch eingeschlafen ist.)
+b.  Er sieht die Buchstaben verzerrt. (= Er sieht die Buchstaben, aber die Buchstaben sind verzerrt.)
+:::
 
-As originally observed by Leirbukt [-@leirbukt2000], these constructions appear to be much more acceptable (and more frequent) when they are embedded inside a modal verb like *wollen* \Next. Leirbukt only discusses *wollen* and *sehen* and seems to have missed *glauben* and *finden*. He also discussed constructions with *haben* that are discussed here in [@sec:participles-haben-passive].
+As originally observed by Leirbukt [-@leirbukt2000], these constructions appear to be much more acceptable (and more frequent) when they are embedded inside a modal verb like *wollen* [@Next]. Leirbukt only discusses *wollen* and *sehen* and seems to have missed *glauben* and *finden*. He also discussed constructions with *haben* that are discussed here in [@sec:participles-haben-passive].
 
-\ex.
- \a. ? Sie sahen ihre Namen nicht genannt in dem Interview.
- \b. Sie wollten in dem Interview ihre Namen nicht genannt sehen.
+:::ex
+a.  ^? Sie sahen ihre Namen nicht genannt in dem Interview.
+b.  Sie wollten in dem Interview ihre Namen nicht genannt sehen.
+:::
 
 An
 
-\ex.
- \a. ? Er wusste seinen Sohn auf der Schule verstanden.
- \b. Er wusste sich verstanden.
+:::ex
+a.  ^? Er wusste seinen Sohn auf der Schule verstanden.
+b.  Er wusste sich verstanden.
+:::
 
 Both transitive and intransitive, but probably better all seen as derived from *sein+Partizip*
 

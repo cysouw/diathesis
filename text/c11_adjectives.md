@@ -40,7 +40,7 @@ Bei Dativ-verben mit *sein* geht es eigentlich immer!
 
 - Der Kuchen ist mir nicht geglückt. ??? Der geglückte Kuchen. Der Kuchen ist mir gut gelückt.
 - Der Unfall ist mir passiert. ??? Der mir passierte Unfall war schlimm.
-- Sie ist ihrem Mann begegnet. \* Der begegnete Mann (früher eher "hat begegnet"?)
+- Sie ist ihrem Mann begegnet. ^* Der begegnete Mann (früher eher "hat begegnet"?)
 
 ### [ NP | H- ]
 
@@ -54,15 +54,15 @@ Nur ganz wenige Beispiele
 Two different kinds of intransitive verbs:
 
 - Die Frau fällt. vs. Die gefallene Frau ist schön.
-- Die Frau schläft. vs. \* Die geschlafene Frau ist schön
+- Die Frau schläft. vs. ^* Die geschlafene Frau ist schön
 
 ### [ ND | -H ]
 
 Dativ-verben mit *haben* geht es eher nicht, aber wenn doch, dann wird Dativ zu Head.
 
-- Die Frau antwortet dem Jungen. vs. \* Der von der Frau geantwortete Junge ist schön.
-- Der Sohn hat früher seinem Vater geglichen. \* Der seinem Vater geglichene Sohn ist jetzt erwachsen.
-- Der Sohn hat früher seinem Vater geähnelt. \* Der seinem Vater geähnelte Sohn ist jetzt erwachsen.
+- Die Frau antwortet dem Jungen. vs. ^* Der von der Frau geantwortete Junge ist schön.
+- Der Sohn hat früher seinem Vater geglichen. ^* Der seinem Vater geglichene Sohn ist jetzt erwachsen.
+- Der Sohn hat früher seinem Vater geähnelt. ^* Der seinem Vater geähnelte Sohn ist jetzt erwachsen.
 
 - Ich habe den Mann geholfen. Der von mir geholfene Mann. ??? Der Mann ist geholfen.
 - Das Hotel hat den Erwartungen voll entsprochen. Das den Erwartungen voll ensprochene Hotel. ABER: Den Erwartungen ist entsprochen. (worden????)
@@ -77,7 +77,7 @@ Dativ-verben mit *haben* geht es eher nicht, aber wenn doch, dann wird Dativ zu 
 Geht eigentlich nicht - ausser mit Verbpräfixe!
 
 - Ich träume von einem guten Leben. ? Das geträumte Leben. (ertäumt)
-- Ich klopfe an der Tür. \* Die geklopfte Tür. (beklopft)
+- Ich klopfe an der Tür. ^* Die geklopfte Tür. (beklopft)
 
 ## *-end* Partizip Präsens
 
@@ -221,8 +221,8 @@ The adjective *fehlbar* seems to derive from the noun *Fehler*, not the verb *fe
 
 Not productive with most intransitives
 
-- Die Frau fällt. vs. \* Die fallbare Frau ist schön.
-- Die Frau schläft. vs. \* Die schlafbare Frau ist schön
+- Die Frau fällt. vs. ^* Die fallbare Frau ist schön.
+- Die Frau schläft. vs. ^* Die schlafbare Frau ist schön
 
 ## *-lich*
 
@@ -315,17 +315,17 @@ Pakkanen-Kilpiä, Kirsi (2006):
 
 Dative does not work
 
-- Einem Soldaten ist zu befehlen (als General). vs. \* Der zu befehlende Soldat wartet schon.
-- Einem Schüler ist zu antworten (als Lehrer). vs. \* Der zu antwortende Junge ist schön.
-- Einem Verwundeten ist zu helfen (als Bürger). \* Der zu helfende Verwundeter liegt auf der Straße.
+- Einem Soldaten ist zu befehlen (als General). vs. ^* Der zu befehlende Soldat wartet schon.
+- Einem Schüler ist zu antworten (als Lehrer). vs. ^* Der zu antwortende Junge ist schön.
+- Einem Verwundeten ist zu helfen (als Bürger). ^* Der zu helfende Verwundeter liegt auf der Straße.
 
 ### [ N ] not possible
 
 Intransitives do not work
 
-- \* Hier ist zu fallen vs. \* Die zu fallende Frau ist schön.
-- \* Hier ist zu schlafen. vs. \* Die zu schlafende Frau ist schön.
-- \* Der zu brennende Baum.
+- ^* Hier ist zu fallen vs. ^* Die zu fallende Frau ist schön.
+- ^* Hier ist zu schlafen. vs. ^* Die zu schlafende Frau ist schön.
+- ^* Der zu brennende Baum.
 
 ## Predicative adjectives
 
@@ -350,7 +350,7 @@ There are only few verbs that allow this, cf. Lübbe 2013; Pakkanen-Kilpiä 200
 With transitive verbs the object is removed, or incorporated. Incorporation not with concrete objects:
 
 (a) Das Material weist nur das grüne Wasser ab.
-(b) \* Das Material ist das grüne Wasser abweisend.
+(b) ^* Das Material ist das grüne Wasser abweisend.
 
 Examples:
 

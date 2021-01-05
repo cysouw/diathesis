@@ -4,13 +4,14 @@
 
 Diathesis typically involves variation in the marking of case as governed by the verb, possibly including alternations between case marked arguments and adpositional phrases. The notion of 'flagging' was (re)introduced in Haspelmath [-@haspelmath2005d: 2] as a cover term to capture the intuition that case marking and adpositional marking express very similar functions in linguistic marking. The first two data chapters in this book discuss exactly those kind of marking, viz. case and adpositional marking as governed by a verb. This chapter discusses diatheses involving case-marked constituents, and the next chapter focusses on governed prepositional constituents.
 
-Pure case-marking diatheses are characterised by one and the same verb that can be used with different case-marked roles and, crucially, no other overt marking of the different constructions. Such alternations include, for example, possessor raising like \Next[a,b] or anticausative alternations like \Next[c,d].
+Pure case-marking diatheses are characterised by one and the same verb that can be used with different case-marked roles and, crucially, no other overt marking of the different constructions. Such alternations include, for example, possessor raising like [@Next a,b] or anticausative alternations like [@Next c,d].
 
-\ex.
- \a. Ich schneide seine Haare.
- \b. Ich schneide ihm die Haare.
- \c. Ich verbrenne den Tisch.
- \d. Der Tisch verbrennt.
+:::ex
+a.  Ich schneide seine Haare.
+b.  Ich schneide ihm die Haare.
+c.  Ich verbrenne den Tisch.
+d.  Der Tisch verbrennt.
+:::
 
 The crucial (and somewhat problematic) aspect of such alternations is that there is no formal indication of the presence of a diathesis except for the marking of the arguments themselves. The prototypical diathesis (as defined [@sec:intro-basic-defintion]) includes some overt linguistic marking that indicates that a diathesis has taken place (i.e. some affix, particle, light verb, or other morphosyntactic means). And indeed, all diatheses that will be discussed in subsequent chapters will be of that kind. In contrast, the diatheses discussed in this chapter and the next chapter are 'covert' alternations, or 'zero marked' alternations, in that there is no other indication of a diathesis, except for the marking of the arguments themselves [@zuniga2019 introduce the term 'covert' diathesis for this]. The problem with such covert diatheses is that there is no overt directionality in the alternation -- there is no way to distinguish between a base form and a derived form. Both alternants have an equal status as far as the morphosyntax is concerned. 
 
@@ -31,50 +32,54 @@ The German case marking system is rather straightforward. Noun phrases in German
 
 Table: German marking of case {#tbl:german-case}
 
-Basically, almost all case-marked constituents are governed arguments. Yet, there are a few situations (to be discussed in detail below) in which overtly case-marked constituents are not arguments (or, alternatively, a very special type of arguments): quantified objects \Next[a], named objects \Next[b], cognate objects \Next[c], lexicalised noun-verb combinations \Next[d] and adnominal constituents \Next[e].
+Basically, almost all case-marked constituents are governed arguments. Yet, there are a few situations (to be discussed in detail below) in which overtly case-marked constituents are not arguments (or, alternatively, a very special type of arguments): quantified objects [@Next a], named objects [@Next b], cognate objects [@Next c], lexicalised noun-verb combinations [@Next d] and adnominal constituents [@Next e].
 
-\ex.
- \a. Er schläft [den ganzen Tag].
- \b. Er nennt mich [einen Egoisten].
- \c. Er hat [einen gesunden Schlaf] geschlafen.
- \d. Er stirbt [einen qualvollen Tod].
- \e. Ich beschuldige den Verdächtigten [des Diebstahls] von weiteren Gegenständen.
+:::ex
+a.  Er schläft [den ganzen Tag].
+b.  Er nennt mich [einen Egoisten].
+c.  Er hat [einen gesunden Schlaf] geschlafen.
+d.  Er stirbt [einen qualvollen Tod].
+e.  Ich beschuldige den Verdächtigten [des Diebstahls] von weiteren Gegenständen.
+:::
 
 ### Quantified object
 
-A special kind of arguments are quantified objects [cf. "Mensuralergänzung", @eroms2000: 203-204], exemplified in \Next[a-e]. Quantified objects are overtly marked accusative objects that often contain numerals, like in \Next[d] or \Next[e], in which *einen* is not an article, but the numeral one. Except for numerals, the quantification can also be instantiated by adjectives (e.g. *ganzen* in \Next[a]), indefinites (e.g. *jeden* in \Next[b]) or measure phrases (e.g. *zu laut* in \Next[c]).
+A special kind of arguments are quantified objects [cf. "Mensuralergänzung", @eroms2000: 203-204], exemplified in [@Next a-e]. Quantified objects are overtly marked accusative objects that often contain numerals, like in [@Next d] or [@Next e], in which *einen* is not an article, but the numeral one. Except for numerals, the quantification can also be instantiated by adjectives (e.g. *ganzen* in [@Next a]), indefinites (e.g. *jeden* in [@Next b]) or measure phrases (e.g. *zu laut* in [@Next c]).
 
-\ex.
- \a. Er schläft den ganzen Tag. (*wie lange?* 'how long')
- \b. Er fällt jeden Tag. (*wann?* 'when')
- \c. Er hustet einen Tick zu laut. (*wie?* 'how')
- \d. Er ist drei mal gefallen. (*wie oft?* 'how often')
- \e. Er steigt einen Stock höher. (*wo?* 'where')
+:::ex
+a.  Er schläft den ganzen Tag. (*wie lange?* 'how long')
+b.  Er fällt jeden Tag. (*wann?* 'when')
+c.  Er hustet einen Tick zu laut. (*wie?* 'how')
+d.  Er ist drei mal gefallen. (*wie oft?* 'how often')
+e.  Er steigt einen Stock höher. (*wo?* 'where')
+:::
 
 These quantified constituents are not governed arguments. First, they can easily be left out (all verbs in the examples are typical intransitive verbs). Second, and more importantly, they cannot be replaced by a pronoun nor be questioned by a question pronoun (viz. *wen/was*). Instead, they are questioned by adverbial interrogative words as listed at the examples above, indicating that the quantified constituents are adverbial phrases, not governed arguments. Still, there are a few verbs that obligatorily need such a quantified object. These will be discussed in [@sec:case-quantified-objects].
 
 ### Named objects
 
-A special group of verbs can be used to performatively name persons or things. As proper names, such arguments are arguably without case in standard German \Next[a], but with regular nouns these phrases are clearly accusatives \Next[b]. The effect are constructions with two accusative arguments. These arguments are normally questioned by the manner interrogative *wie* 'how', though in some situations *was* 'what' seems possible \Next[c].
+A special group of verbs can be used to performatively name persons or things. As proper names, such arguments are arguably without case in standard German [@Next a], but with regular nouns these phrases are clearly accusatives [@Next b]. The effect are constructions with two accusative arguments. These arguments are normally questioned by the manner interrogative *wie* 'how', though in some situations *was* 'what' seems possible [@Next c].
 
-\ex. 
- \a. Ich nenne dich [Lukas].
- \b. Ich nenne dich [einen Egoisten].
- \c. Was nennst du dein eigen?
+:::ex
+a.  Ich nenne dich [Lukas].
+b.  Ich nenne dich [einen Egoisten].
+c.  Was nennst du dein eigen?
+:::
 
 The small group of verbs that obligatorily takes such arguments will be discussed in [@sec:case-named-objects].
 
 ### Cognate objects
 
-There is a special construction available for many verbs to add an object that is a nominalisation of the verb itself, exemplified here in \Next[a,b]. 
+There is a special construction available for many verbs to add an object that is a nominalisation of the verb itself, exemplified here in [@Next a,b]. 
 
-\ex.
- \a. Er hat einen gesunden Schlaf geschlafen.
- \b. Er hat viele Träume geträumt.
+:::ex
+a.  Er hat einen gesunden Schlaf geschlafen.
+b.  Er hat viele Träume geträumt.
+:::
 
 This construction is known as a 'cognate object' construction [e.g. @levin1993: 95-96], because the object is etymologically related to the verb. In many cases, this cognate object is simply a zero nominalisation ('conversion') of the verb stem (e.g. *schlafen - der Schlaf*, 'to sleep - the sleep'), but in some cases different nominalisations like the infinitive are used (e.g. *lächeln - das Lächeln*, 'to smile - the smile').
 
-Examples like \Last[a,b] seem to suggest that intransitive verbs like *schlafen* 'to sleep' and *träumen* 'to dream' allow for accusative arguments. However, besides these cognate objects there are no other accusative arguments allowed with these verbs. Further, such cognate arguments seem to be theoretically possible for all verbs, though often quite some imagination is needed to find a suitable context to use verb and nominalised verb together.
+Examples like [@Last a,b] seem to suggest that intransitive verbs like *schlafen* 'to sleep' and *träumen* 'to dream' allow for accusative arguments. However, besides these cognate objects there are no other accusative arguments allowed with these verbs. Further, such cognate arguments seem to be theoretically possible for all verbs, though often quite some imagination is needed to find a suitable context to use verb and nominalised verb together.
 
 Because of their special status, such cognate object nominalisations are not counted as regular arguments. However, nominalisations are an interesting aspect of diathesis in itself and will be discussed extensively in Chapter [-@sec:nom].
 
@@ -82,27 +87,30 @@ Because of their special status, such cognate object nominalisations are not cou
 
 There is a common pattern in German in which nouns are combined with a verb, like *eislaufen* 'ice skating'. Such constructions are highly reminiscent of the typologically widespread process of noun incorporation. However, in German such noun incorporation only occurs with individual lexeme combinations, so they are probably better interpreted as grammaticalised noun-verb collocations [@eisenberg2013: 324-327; @gallmann1999; -@gallmann2015]. 
 
-Most such combinations are written as separate words in German orthography, e.g. *Wache stehen* 'stand guard', so they might look like nominal arguments. However, they normally do not allow for any determiners or modifiers \Next[a]. Only very few fixed combinations allow for an adjective \Next[b] and/or a determiner \Next[c].
+Most such combinations are written as separate words in German orthography, e.g. *Wache stehen* 'stand guard', so they might look like nominal arguments. However, they normally do not allow for any determiners or modifiers [@Next a]. Only very few fixed combinations allow for an adjective [@Next b] and/or a determiner [@Next c].
 
-\ex.
- \a. Er hat (*das) Blut gehustet.
- \b. Er hat bittere Tränen geweint.
- \c. Er stirbt einen qualvollen Tod.
+:::ex
+a.  Er hat (*das) Blut gehustet.
+b.  Er hat bittere Tränen geweint.
+c.  Er stirbt einen qualvollen Tod.
+:::
 
-The typical examples like *Blut* 'blood' in \Last[a] do not show much indication of case-marking. It is clearly not a genitive (because then it should have been *Blutes*), but nominative, dative or accusative are all possible. The few examples with determiners and/or adjectives seem to indicate that these constituents are accusatives. However, even in undoubtedly accusative examples like \Last[c] the accusative is not an argument, because it is strange (if not completely ungrammatical) to pronominalise \Next[a] or question \Next[b] this accusative. Just like cognate objects, such nouns in lexicalised noun-verb combinations are not arguments.
+The typical examples like *Blut* 'blood' in [@Last a] do not show much indication of case-marking. It is clearly not a genitive (because then it should have been *Blutes*), but nominative, dative or accusative are all possible. The few examples with determiners and/or adjectives seem to indicate that these constituents are accusatives. However, even in undoubtedly accusative examples like [@Last c] the accusative is not an argument, because it is strange (if not completely ungrammatical) to pronominalise [@Next a] or question [@Next b] this accusative. Just like cognate objects, such nouns in lexicalised noun-verb combinations are not arguments.
 
-\ex.
- \a. \* Er stirbt es.
- \b. ? Was ist er gestorben?
+:::ex
+a.  ^* Er stirbt es.
+b.  ^?^ Was ist er gestorben?
+:::
 
 ### Adnominal case-marked constituents
 
-Semantically, adnominal constituents are easily identified as modifiers inside a noun phrase. However, there is no formal difference between adnominal and sentential case-marked constituents, leading possibly to ambiguous sentences like \Next[a]. In this sentence, both the accusative constituent for the accusee *den Verdächtigen* and the genitive constituent for the accusation *des Diebstahls* can be read as arguments being governed by the verb *beschuldigen* 'to accuse' \Next[b]. Alternatively, these two constituents can be interpreted as a single complex noun phrase, as can be seen by the possibility to add a further constituent describing a different accusation \Next[c]. Adnominal constituents are (obviously) not arguments.
+Semantically, adnominal constituents are easily identified as modifiers inside a noun phrase. However, there is no formal difference between adnominal and sentential case-marked constituents, leading possibly to ambiguous sentences like [@Next a]. In this sentence, both the accusative constituent for the accusee *den Verdächtigen* and the genitive constituent for the accusation *des Diebstahls* can be read as arguments being governed by the verb *beschuldigen* 'to accuse' [@Next b]. Alternatively, these two constituents can be interpreted as a single complex noun phrase, as can be seen by the possibility to add a further constituent describing a different accusation [@Next c]. Adnominal constituents are (obviously) not arguments.
 
-\ex.
- \a. Ich beschuldige den Verdächtigten des Diebstahls.
- \b. Ich beschuldige [den Verdächtigten] vor Gericht [des Diebstahls].
- \c. Ich beschuldige [den Verdächtigten des Diebstahls] von weiteren Gegenständen.
+:::ex
+a.  Ich beschuldige den Verdächtigten des Diebstahls.
+b.  Ich beschuldige [den Verdächtigten] vor Gericht [des Diebstahls].
+c.  Ich beschuldige [den Verdächtigten des Diebstahls] von weiteren Gegenständen.
+:::
 
 ## Deponent verbs without alternations
 
@@ -112,24 +120,26 @@ Before delving into the actual alternations, I will first present an inventory o
 
 ### [ – ] No arguments
 
-Some verbs do not need any argument at all, not even a nominative subject. These include the well-known weather verbs like *schneien* 'to snow' \Next[a]. However, most weather verb actually allow for some nominative subjects as well \Next[b], see [@sec:case-nominative-addition], or accusative arguments \Next[c], see [@sec:case-accusative-addition-without-nominative]. There do not seem to be any verbs that only allow for a constructions without any arguments.
+Some verbs do not need any argument at all, not even a nominative subject. These include the well-known weather verbs like *schneien* 'to snow' [@Next a]. However, most weather verb actually allow for some nominative subjects as well [@Next b], see [@sec:case-nominative-addition], or accusative arguments [@Next c], see [@sec:case-accusative-addition-without-nominative]. There do not seem to be any verbs that only allow for a constructions without any arguments.
 
-\ex.
- \a. Heute schneit es.
- \b. Die Granaten regneten auf uns.
- \c. Gestern hat es riesengroße Körner gehagelt.
+:::ex
+a.  Heute schneit es.
+b.  Die Granaten regneten auf uns.
+c.  Gestern hat es riesengroße Körner gehagelt.
+:::
 
 ### [ N ] Nominative {#sec:case-nominative}
 
-Some verbs only allow a Nominative argument, which necessarily also shows agreement with the finite verb. Such verbs are traditionally called 'intransitive'. The verbs discussed in this section are strictly intransitive, in that they do not allow for any other case marked arguments or governed prepositions (see [@sec:prepositions-delimiting-governed-prepositional-phrases]). Intransitive verbs, of course, allow for additional non-governed prepositional phrases, e.g. locational \Next[a] or temporal phrases \Next[b], instrumental/comitative phrases with *mit* \Next[c,d], or beneficiary/goal phrases with *für* \Next[e,f].
+Some verbs only allow a Nominative argument, which necessarily also shows agreement with the finite verb. Such verbs are traditionally called 'intransitive'. The verbs discussed in this section are strictly intransitive, in that they do not allow for any other case marked arguments or governed prepositions (see [@sec:prepositions-delimiting-governed-prepositional-phrases]). Intransitive verbs, of course, allow for additional non-governed prepositional phrases, e.g. locational [@Next a] or temporal phrases [@Next b], instrumental/comitative phrases with *mit* [@Next c,d], or beneficiary/goal phrases with *für* [@Next e,f].
 
-\ex.
- \a. Er reist immer in die Berge.
- \b. Er reist immer am Wochenende.
- \c. Er reist immer mit seinem Koffer.
- \d. Er reist immer mit seinem Freund.
- \e. Er reist immer für seinen Chef.
- \f. Er reist immer für seine Arbeit.
+:::ex
+a.  Er reist immer in die Berge.
+b.  Er reist immer am Wochenende.
+c.  Er reist immer mit seinem Koffer.
+d.  Er reist immer mit seinem Freund.
+e.  Er reist immer für seinen Chef.
+f.  Er reist immer für seine Arbeit.
+:::
 
 An attempt has been made below to classify the examples of strictly intransitive verbs into broad semantic categories. However, these categories are in no way intended as definitional for the kind of verbs allowed in this class. Yet, the semantic categories attested give a good indication of the kind of verbs that tend to be strictly intransitive. Note that this list is in no way intended to be exhaustive, but only illustrative.
 
@@ -156,11 +166,12 @@ Some of the 'living' verbs allow for accusative arguments in non-living related 
 
 The verbs in this class are strict transitives: they need a nominative subject argument and an additional accusative argument. Further arguments are not allowed, and no governed prepositions are allowed either. It turns out that this group is not very large, because very many verbs allow for dative arguments (traditionally called 'free' datives, but that term will be ignored here) or alternations with governed prepositions. For example, an apparently typical transitive verb like *bauen* 'to build' allows for a dative to mark the beneficiary of the building, as in *Ich baue dir ein Haus* 'I will build a house for you'. Conversely, there are also many apparently typical transitive verbs that can just as well be used without accusative object, including well-known ambitransitive verbs like *essen* 'to eat'. Still, the current set of verbs attested for this class can easily be extended and is not at all intended to be complete. 
 
-Verbprefixes and Verbparticles (see Chapter [-@sec:preverbs]) regularly induce an applicative alternation and subsequently often lexicalise, leading to transitive verbs \Next[a,b]. 
+Verbprefixes and Verbparticles (see Chapter [-@sec:preverbs]) regularly induce an applicative alternation and subsequently often lexicalise, leading to transitive verbs [@Next a,b]. 
 
-\ex.
- \a. Ich schreite über den Teppich.
- \b. Ich schreite den Teppich ab.
+:::ex
+a.  Ich schreite über den Teppich.
+b.  Ich schreite den Teppich ab.
+:::
 
 The number of monomorphemic 'strictly' transitive verbs seems to be very limited. I could not find any obvious semantic categorisation of these verbs, so they are simply presented in alphabetical order here.
 
@@ -267,50 +278,55 @@ There are also verbs that allow nominative, accusative and genitive, but those v
 
 ### [ NAA ] Nominative + accusative + accusative
 
-There are a few situations in which verbs allow for two accusative objects, like with *lehren* \Next[a] or *abfragen* \Next[b]. However, all of these verbs also allow for other constructions, either dropping one of the accusative arguments (see [@sec:case-double-accusative-drop]) or allowing an alternation between an accusative and a dative (see [@sec:case-double-accusative-dative-swap]). There do not seem to be any verbs that obligatorily need two accusative objects.
+There are a few situations in which verbs allow for two accusative objects, like with *lehren* [@Next a] or *abfragen* [@Next b]. However, all of these verbs also allow for other constructions, either dropping one of the accusative arguments (see [@sec:case-double-accusative-drop]) or allowing an alternation between an accusative and a dative (see [@sec:case-double-accusative-dative-swap]). There do not seem to be any verbs that obligatorily need two accusative objects.
 
-\ex.
- \a. Er lehrt mich den Trick.
- \b. Er fragt mich den Stoff ab.
+:::ex
+a.  Er lehrt mich den Trick.
+b.  Er fragt mich den Stoff ab.
+:::
 
-Double accusatives further regularly appear with quantified objects \Next[a], see [@sec:case-quantified-objects], and named objects \Next[b], see [@sec:case-named-objects]. Also these verbs regularly allow for one of the accusatives to be dropped \Next[c,d].
+Double accusatives further regularly appear with quantified objects [@Next a], see [@sec:case-quantified-objects], and named objects [@Next b], see [@sec:case-named-objects]. Also these verbs regularly allow for one of the accusatives to be dropped [@Next c,d].
 
-\ex.
- \a. Das Buch kostet mich keinen Pfennig. 
- \b. Ich nenne dich einen Egoisten.
- \c. Das Buch kostet viel.
- \d. Er nennt den Namen des Kindes.
+:::ex
+a.  Das Buch kostet mich keinen Pfennig. 
+b.  Ich nenne dich einen Egoisten.
+c.  Das Buch kostet viel.
+d.  Er nennt den Namen des Kindes.
+:::
 
 ### --- Adverbial case-marked arguments --- {.unnumbered}
 
 ### [ NA ] Nominative + quantified object {#sec:case-quantified-objects}
 
-A special kind of arguments are quantified objects [cf. "Mensuralergänzung", @eroms2000: 203-204], exemplified in \Next[a-e]. Quantified objects are overtly marked accusative objects that often contain numerals (like in \Next[d] or \Next[e], in which *einen* is not an article, but the numeral one). Except for numerals, the quantification can also be instantiated by adjectives (like *ganzen* in \Next[a]), indefinites (like *jeden* in \Next[b]) or measure phrases (like *zu laut* in \Next[c]).
+A special kind of arguments are quantified objects [cf. "Mensuralergänzung", @eroms2000: 203-204], exemplified in [@Next a-e]. Quantified objects are overtly marked accusative objects that often contain numerals (like in [@Next d] or [@Next e], in which *einen* is not an article, but the numeral one). Except for numerals, the quantification can also be instantiated by adjectives (like *ganzen* in [@Next a]), indefinites (like *jeden* in [@Next b]) or measure phrases (like *zu laut* in [@Next c]).
 
-\ex.
- \a. Er schläft den ganzen Tag. (*wie lange?* 'how long')
- \b. Er fällt jeden Tag. (*wann?* 'when')
- \c. Er hustet einen Tick zu laut. (*wie?* 'how')
- \d. Er ist drei mal gefallen. (*wie oft?* 'how often')
- \e. Er steigt einen Stock höher. (*wo?* 'where')
+:::ex
+a.  Er schläft den ganzen Tag. (*wie lange?* 'how long')
+b.  Er fällt jeden Tag. (*wann?* 'when')
+c.  Er hustet einen Tick zu laut. (*wie?* 'how')
+d.  Er ist drei mal gefallen. (*wie oft?* 'how often')
+e.  Er steigt einen Stock höher. (*wo?* 'where')
+:::
 
 These quantified constituents are not governed arguments. First, they can easily be left out (all verbs in the examples are typical intransitive verbs). Second, and more importantly, they cannot be replaced by a pronoun nor be questioned by a question pronoun (viz. *wen/was*). Instead, they are questioned by adverbial interrogative words as listed at the examples above, indicating that the quantified constituents are adverbial phrases, not governed arguments. 
 
 Yet, there is a special class of verbs that appear to obligatorily need such a quantified object. These objects are interrogated by *wie viel?* 'how much' (though interrogation with *was* 'what' seems also possible with some of them). Though debatable, I tend to classify these accusative constituents as arguments. Whatever the interpretation, when they are arguments, but also when these constituents are not considered to be arguments, then there is still something special with these verbs.
 
-A further argument to consider these accusative constituents as something special is that these verbs cannot be passivised, just like typical intransitive verbs \Next[a]. Even with non-quantified objects, these verbs still prohibit passivisation \Next[b].
+A further argument to consider these accusative constituents as something special is that these verbs cannot be passivised, just like typical intransitive verbs [@Next a]. Even with non-quantified objects, these verbs still prohibit passivisation [@Next b].
 
-\ex.
- \a. Die Aussage kostet sie den Wahlsieg.
- \b. Ich bin der Herausforderung gewachsen.
+:::ex
+a.  Die Aussage kostet sie den Wahlsieg.
+b.  Ich bin der Herausforderung gewachsen.
+:::
 
-An exception to this rule blocking passivisation for quantified objects are the verbs *verdienen* and *zahlen*. They can be used with quantified objects \Next[b] and with non-quantified objects \Next[a], similarly to *kosten* above. However, with these verbs passivisation is possible \Next[c,d], so these verbs are considered to be taking regular accusative objects.
+An exception to this rule blocking passivisation for quantified objects are the verbs *verdienen* and *zahlen*. They can be used with quantified objects [@Next b] and with non-quantified objects [@Next a], similarly to *kosten* above. However, with these verbs passivisation is possible [@Next c,d], so these verbs are considered to be taking regular accusative objects.
 
-\ex.
- \a. Er verdient 50 Euro. Er verdient den Nobelpreis.
- \b. Er zahlt (mir) 50 Euro. Er zahlt (mir) die Miete.
- \c. Praktisch der gesamte Umsatz wird mit Werbung verdient.
- \d. Die Miete wird monatlich gezahlt.
+:::ex
+a.  Er verdient 50 Euro. Er verdient den Nobelpreis.
+b.  Er zahlt (mir) 50 Euro. Er zahlt (mir) die Miete.
+c.  Praktisch der gesamte Umsatz wird mit Werbung verdient.
+d.  Die Miete wird monatlich gezahlt.
+:::
 
 **Attested Verbs**
 
@@ -327,18 +343,20 @@ An exception to this rule blocking passivisation for quantified objects are the 
 
 ### [ NAA ] Nominative + accusative + named object {#sec:case-named-objects}
 
-A special group of verbs can be used to performatively name persons or things. As proper names, such arguments are arguably without case in standard German \Next[a], but with regular nouns these phrases are clearly accusatives \Next[b]. The effect are constructions with two accusative arguments. These arguments are normally questioned by the manner interrogative *wie* 'how', though in some situations *was* 'what' seems possible \Next[c].
+A special group of verbs can be used to performatively name persons or things. As proper names, such arguments are arguably without case in standard German [@Next a], but with regular nouns these phrases are clearly accusatives [@Next b]. The effect are constructions with two accusative arguments. These arguments are normally questioned by the manner interrogative *wie* 'how', though in some situations *was* 'what' seems possible [@Next c].
 
-\ex. 
- \a. Ich nenne dich [Lukas].
- \b. Ich nenne dich [einen Egoisten].
- \c. Was nennst du dein eigen?
+:::ex
+a.  Ich nenne dich [Lukas].
+b.  Ich nenne dich [einen Egoisten].
+c.  Was nennst du dein eigen?
+:::
 
-The name in such naming constructions cannot be passivised \Next[a,b], which also indicates that these accusative arguments have a special status in the grammar of the German language.
+The name in such naming constructions cannot be passivised [@Next a,b], which also indicates that these accusative arguments have a special status in the grammar of the German language.
 
-\ex.
- \a. Du wirst einen Egoisten genannt.
- \b. * Ein Egoist wird dich genannt.
+:::ex
+a.  Du wirst einen Egoisten genannt.
+b.  ^* Ein Egoist wird dich genannt.
+:::
 
 **Attested Verbs**
 
@@ -361,11 +379,12 @@ Alternations without diathesis do not exist by definition for 'bare' alternation
 
 ### [ N | – ] Nominative drop {#sec:case-nominative-drop}
 
-In German, the nominative constituent shows agreement with the verb. It is typically not possible to have a sentence without this nominative constituent. For the few verbs that allow the nominative to be absent, a dummy pronoun *es* has to be inserted (see Section X for more details on this pronoun). For weather verbs like *regnen* 'to rain' it is arguably not a nominative that is dropped, but a nominative that is optionally added. I will discuss these two situation separately, although there is no overt grammatical distinction between a verb that allows for an optional nominative drop or an optional nominative addition (see [@sec:case-nominative-addition] for the nominative addition). For some intransitive 'dispersion' verbs like *stinken* 'to stink' \Next[a] it is possible to leave out the origin of the dispersion \Next[b] to indicate the effect without knowledge of the cause. 
+In German, the nominative constituent shows agreement with the verb. It is typically not possible to have a sentence without this nominative constituent. For the few verbs that allow the nominative to be absent, a dummy pronoun *es* has to be inserted (see Section X for more details on this pronoun). For weather verbs like *regnen* 'to rain' it is arguably not a nominative that is dropped, but a nominative that is optionally added. I will discuss these two situation separately, although there is no overt grammatical distinction between a verb that allows for an optional nominative drop or an optional nominative addition (see [@sec:case-nominative-addition] for the nominative addition). For some intransitive 'dispersion' verbs like *stinken* 'to stink' [@Next a] it is possible to leave out the origin of the dispersion [@Next b] to indicate the effect without knowledge of the cause. 
 
-\ex.
- \a. Der Müll stinkt.
- \b. Hier stinkt es aber.
+:::ex
+a.  Der Müll stinkt.
+b.  Hier stinkt es aber.
+:::
 
 **Attested Verbs**
 
@@ -380,12 +399,13 @@ In German, the nominative constituent shows agreement with the verb. It is typic
 
 ### [ NA | –A ] Nominative drop + accusative {#sec:case-nominativ-drop-accusative}
 
-A few further apparent dropped nominatives are discussed here for completeness sake. They all appear to be highly idiosyncratic. The first phenomenon is the drop of the nominative with the verb *geben* when used in the meaning of 'to produce' \Next[a,b].
+A few further apparent dropped nominatives are discussed here for completeness sake. They all appear to be highly idiosyncratic. The first phenomenon is the drop of the nominative with the verb *geben* when used in the meaning of 'to produce' [@Next a,b].
 
-\ex.
- \a. Die Trauben geben dieses Jahr einen guten Wein.
- \b. Dieses Jahr gibt es einen guten Wein.
- 
+:::ex
+a.  Die Trauben geben dieses Jahr einen guten Wein.
+b.  Dieses Jahr gibt es einen guten Wein.
+:::
+
 **Attested Verbs**
 
 - *brauchen, geben*
@@ -396,15 +416,17 @@ A few further apparent dropped nominatives are discussed here for completeness s
 
 ### [ ND | –D ] Nominative drop + dative {#sec:case-nominativ-drop-dative}
 
-Some verbs with nominative and dative allow for the nominative to be dropped and replaced by a valency-simulating pronoun *es* \Next[a,b]. In most cases of a pronoun *es* with a dative, the pronoun *es* is either phoric \NNext[a] or position-simulating \NNext[b], both of which do not count as the drop of an argument.
+Some verbs with nominative and dative allow for the nominative to be dropped and replaced by a valency-simulating pronoun *es* [@Next a,b]. In most cases of a pronoun *es* with a dative, the pronoun *es* is either phoric [@NNext a] or position-simulating [@NNext b], both of which do not count as the drop of an argument.
 
-\ex.
- \a. Das Buch gefällt mir.
- \b. Hier gefällt es mir gar nicht.
- 
-\ex.
- \a. Es galt mir.
- \b. Es ist mir ein Unfall widerfahren.
+:::ex
+a.  Das Buch gefällt mir.
+b.  Hier gefällt es mir gar nicht.
+:::
+
+:::ex
+a.  Es galt mir.
+b.  Es ist mir ein Unfall widerfahren.
+:::
 
 **Attested Verbs**
 
@@ -412,13 +434,14 @@ Some verbs with nominative and dative allow for the nominative to be dropped and
 
 ### [ NG | –G ] Nominative drop + genitive {#sec:case-nominativ-drop-genitive}
 
-A few verbs with nominative and genitive arguments allow the nominative to be dropped, but the genitive to be retained \Next[a-d].
+A few verbs with nominative and genitive arguments allow the nominative to be dropped, but the genitive to be retained [@Next a-d].
 
-\ex.
- \a. Der Kranke bedarf der Ruhe.
- \b. Hier bedarf es körperlicher Kraft.
- \c. Der Vorwurf entbehrt jeglichen Beweises.
- \d. Insofern entbehrt es jeglichen Beweises.
+:::ex
+a.  Der Kranke bedarf der Ruhe.
+b.  Hier bedarf es körperlicher Kraft.
+c.  Der Vorwurf entbehrt jeglichen Beweises.
+d.  Insofern entbehrt es jeglichen Beweises.
+:::
 
 **Attested Verbs**
 
@@ -428,13 +451,14 @@ A few verbs with nominative and genitive arguments allow the nominative to be dr
 
 ### [ NA | –N ] *haben* Anticausative {#sec:case-haben-anticausative}
 
-A typical anticausative verb allows for both a transitive \Next[a] and an intransitive \Next[b] in which the intransitive nominative is the same participant as the accusative from the transitive. This is attested by verbs like *kochen* 'to cook' (a,b). However, with this verb the Perfect of the intransitive exist both with auxiliaries *haben* \Next[c] and *sein* \Next[d]. Semantically, the *haben* construction \Next[c] seems to be the regular Perfect of the intransitive \Next[b]. The *sein* construction \Next[d] is probably best analysed as the 'Zustandspassiv' (see Section X) of the transitive \Next[a]. Levin [-@levin1993: 31] used the label "Induced Action Alternation" for a similar alternation in English.
+A typical anticausative verb allows for both a transitive [@Next a] and an intransitive [@Next b] in which the intransitive nominative is the same participant as the accusative from the transitive. This is attested by verbs like *kochen* 'to cook' (a,b). However, with this verb the Perfect of the intransitive exist both with auxiliaries *haben* [@Next c] and *sein* [@Next d]. Semantically, the *haben* construction [@Next c] seems to be the regular Perfect of the intransitive [@Next b]. The *sein* construction [@Next d] is probably best analysed as the 'Zustandspassiv' (see Section X) of the transitive [@Next a]. Levin [-@levin1993: 31] used the label "Induced Action Alternation" for a similar alternation in English.
 
-\ex.
- \a. Ich koche den Kaffee.
- \b. Der Kaffee kocht.
- \c. Der Kaffee hat gekocht.
- \d. Der Kaffee ist gekocht.
+:::ex
+a.  Ich koche den Kaffee.
+b.  Der Kaffee kocht.
+c.  Der Kaffee hat gekocht.
+d.  Der Kaffee ist gekocht.
+:::
 
 Because this diathesis is unmarked it is difficult to decide whether this should be classified as an anticausative or as a causative. Because of the option for a 'Zustandspassiv' I have categorised this alternation here as an anticausative [cf. @scheibl2006: 355]. A highly similar construction with only a singly intransitive Perfekt auxiliary is discussed below as a causative (see [@sec:case-sein-causative]).
 
@@ -460,22 +484,24 @@ Because this diathesis is unmarked it is difficult to decide whether this should
 
 **Notes**
 
-A causative reading seems to be available with *duschen* 'to take a shower' \Next[a]. With an accusative this verbs means 'to give something else a shower' \Next[b]. However, both intransitive Perfekt auxiliaries *haben* and *sein* are possible \Next[c,d], so I classify this alternation here with the anticausatives. A parallel situation arises with *baden* 'to bathe'.
+A causative reading seems to be available with *duschen* 'to take a shower' [@Next a]. With an accusative this verbs means 'to give something else a shower' [@Next b]. However, both intransitive Perfekt auxiliaries *haben* and *sein* are possible [@Next c,d], so I classify this alternation here with the anticausatives. A parallel situation arises with *baden* 'to bathe'.
 
-\ex.
- \a. Ich dusche.
- \b. Ich dusche den Elefanten.
- \c. Ich habe geduscht.
- \d. Der Elefant ist geduscht.
+:::ex
+a.  Ich dusche.
+b.  Ich dusche den Elefanten.
+c.  Ich habe geduscht.
+d.  Der Elefant ist geduscht.
+:::
 
 ### [ NAD | –ND ] *haben* Anticausative + dative
 
-Some *haben* anticausative verbs have an obligatory dative \Next[c]. However, note the different participles in \Next[a,b].
+Some *haben* anticausative verbs have an obligatory dative [@Next c]. However, note the different participles in [@Next a,b].
 
-\ex.
- \a. Ich habe meinem Widersacher einen Prozess angehängt.
- \b. Er hat einer Illusion angehangen.
- \c. * Ich habe angehangen.
+:::ex
+a.  Ich habe meinem Widersacher einen Prozess angehängt.
+b.  Er hat einer Illusion angehangen.
+c.  ^* Ich habe angehangen.
+:::
 
 **Attested Verbs**
 
@@ -487,17 +513,19 @@ Some *haben* anticausative verbs have an obligatory dative \Next[c]. However, no
 
 ### [ – | N ] Weather agents {#sec:case-nominative-addition}
 
-For weather verbs \Next, semantically it seems to be rather clear that the addition of an agent is an extension to a basically avalent verb. However, formally there is no difference between the notion of 'nominative addition' as discussed in this section and a 'nominative drop' as discussed in [@sec:case-nominative-drop].
+For weather verbs [@Next], semantically it seems to be rather clear that the addition of an agent is an extension to a basically avalent verb. However, formally there is no difference between the notion of 'nominative addition' as discussed in this section and a 'nominative drop' as discussed in [@sec:case-nominative-drop].
 
-\ex.
- \a. Es weht.
- \b. Der Wind weht.
+:::ex
+a.  Es weht.
+b.  Der Wind weht.
+:::
 
-Such addition of an agent appears to be rare. It is crucial to distinguish agent-like subjects that are the originators of the phenomenon expressed by the verb, like *Wind* 'wind' in \Last[b], from patient-like subjects that are propelled by the phenomenon, like *Blätter* 'leaves' \Next[a]. With such patient-like subjects a locational phrase is necessary. These constructions are discussed in [@sec:prepositions-weather-manner-movement].
+Such addition of an agent appears to be rare. It is crucial to distinguish agent-like subjects that are the originators of the phenomenon expressed by the verb, like *Wind* 'wind' in [@Last b], from patient-like subjects that are propelled by the phenomenon, like *Blätter* 'leaves' [@Next a]. With such patient-like subjects a locational phrase is necessary. These constructions are discussed in [@sec:prepositions-weather-manner-movement].
 
-\ex.
- \a. Die Blätter wehen durch die Luft.
- \b. \* Die Blätter wehen.
+:::ex
+a.  Die Blätter wehen durch die Luft.
+b.  ^* Die Blätter wehen.
+:::
 
 Another different diathesis adding arguments to weather verbs is the addition of objects, discussed in [@sec:case-accusative-addition-without-nominative].
 
@@ -514,22 +542,24 @@ Another different diathesis adding arguments to weather verbs is the addition of
 
 ### [ –N | NA ] *sein* Causative {#sec:case-sein-causative}
 
-A typical causative verb allows for both a transitive \Next[a] and an intransitive \Next[b,c] in which the nominative of the intransitive is the same as the accusative from the transitive.
+A typical causative verb allows for both a transitive [@Next a] and an intransitive [@Next b,c] in which the nominative of the intransitive is the same as the accusative from the transitive.
 
-\ex.
- \a. Der Junge zerbricht den Krug.
- \b. Der Krug zerbricht.
- \c. Der Krug ist zerbrochen.
- \d. \* Der Krug hat zerbrochen.
+:::ex
+a.  Der Junge zerbricht den Krug.
+b.  Der Krug zerbricht.
+c.  Der Krug ist zerbrochen.
+d.  ^* Der Krug hat zerbrochen.
+:::
 
-There is a crucial difference between the verbs discussed here that only have a perfect with *sein* in the intransitive \Last[c,d] and the anticausatives that allow for both *haben* and *sein* in the intransitive Perfekt (see [@sec:case-haben-anticausative]). 
+There is a crucial difference between the verbs discussed here that only have a perfect with *sein* in the intransitive [@Last c,d] and the anticausatives that allow for both *haben* and *sein* in the intransitive Perfekt (see [@sec:case-haben-anticausative]). 
 
-The intransitive Perfekt with *sein* is strongly reminiscent of an anticausative construction known in German linguistics as the 'Zustandspassiv' (see Section X). However, that construction is available for a much larger group of predicates like *bauen* 'to build' \Next[a-c]. Crucially different from *zerbrechen*, a verb like *bauen* does not allow for the anticausative to occur in the present tense \Next[b].
+The intransitive Perfekt with *sein* is strongly reminiscent of an anticausative construction known in German linguistics as the 'Zustandspassiv' (see Section X). However, that construction is available for a much larger group of predicates like *bauen* 'to build' [@Next a-c]. Crucially different from *zerbrechen*, a verb like *bauen* does not allow for the anticausative to occur in the present tense [@Next b].
 
-\ex.
- \a. Der Junge baut ein Haus.
- \b. \* Das Haus baut.
- \c. Das Haus ist gebaut.
+:::ex
+a.  Der Junge baut ein Haus.
+b.  ^* Das Haus baut.
+c.  Das Haus ist gebaut.
+:::
 
 Although there is no overt difference between an unmarked anticausative and an unmarked causative, I opted to call this alternation a causative. Verbs like *zerbrechen* that allow for a *sein* bare anticausative are typically verbs that describe a process that can be caused by a natural process, although this process can also be instigated by an external agent.
 
@@ -557,9 +587,10 @@ Although there is no overt difference between an unmarked anticausative and an u
 
 Originally based on a Germanic suffix *-jan*, which turned into an umlaut, some verbs have a different between an intransitive (e.g. *fallen*, 'to fall') and a causative (e.g. *fällen*).
 
-\ex.
- \a. Der Baum ist gefallen.
- \b. Ich habe den Baum gefällt.
+:::ex
+a.  Der Baum ist gefallen.
+b.  Ich habe den Baum gefällt.
+:::
 
 **Attested Verbs**
 
@@ -567,11 +598,12 @@ Originally based on a Germanic suffix *-jan*, which turned into an umlaut, some 
 
 ### [ –N | NA ] Umlaut adjectival causative {#sec:case-umlaut-adjectival-causative}
 
-The process to make a causative with the suffix *-jan* also applied to adjectival predicates. There are still a few remnants of such pairs found in contemporary German, in which the old suffix is retained as an umlaut \Next. More cases are available with preverbs, see [@sec:preverb-adjectival-causative].
+The process to make a causative with the suffix *-jan* also applied to adjectival predicates. There are still a few remnants of such pairs found in contemporary German, in which the old suffix is retained as an umlaut [@Next]. More cases are available with preverbs, see [@sec:preverb-adjectival-causative].
 
-\ex.
- \a. Die Kiste ist schwarz.
- \b. Ich schwärze den Text.
+:::ex
+a.  Die Kiste ist schwarz.
+b.  Ich schwärze den Text.
+:::
 
 **Attested Verbs**
 
@@ -581,12 +613,13 @@ The process to make a causative with the suffix *-jan* also applied to adjectiva
 
 ### [ A | N ] Accusative-to-nominative promotion
 
-Some verbs with experiences subjects needed an accusative subject in older stages of German [@nubling2006: 103-104], but these either were completely lost \Next[a], or tend to be replaced by a nominative \Next[b,c]. The verb *frieren* 'to be cold' with a human experiencer is currently in the middle of this transition, allowing for both constructions.
+Some verbs with experiences subjects needed an accusative subject in older stages of German [@nubling2006: 103-104], but these either were completely lost [@Next a], or tend to be replaced by a nominative [@Next b,c]. The verb *frieren* 'to be cold' with a human experiencer is currently in the middle of this transition, allowing for both constructions.
 
-\ex.
- \a. Mich dürstet.
- \b. Mich friert.
- \c. Ich friere.
+:::ex
+a.  Mich dürstet.
+b.  Mich friert.
+c.  Ich friere.
+:::
 
 **Attested Verbs**
 
@@ -600,26 +633,29 @@ This section concerns those alternation in which a non-nominative case-marked ar
 
 ### [ NA | N– ] Accusative drop {#sec:case-accusative-drop}
 
-Drops, or bare/zero antipassives, i.e. the removal of an accusative object, is a well-known phenomenon under the name of ambitransitive or labile verbs, typically exemplified with the verb *essen* 'to eat' \Next[a,b]. However, *essen* will not be considered an example of strictly bare antipassive here, because the object can also be turned into a prepositional phrase \Next[c]. All such prepositional antipassives (see [@sec:prepositions-accusative-antipassive]) also seem to allow a bare antipassive expression, so they will not be repeated here.
+Drops, or bare/zero antipassives, i.e. the removal of an accusative object, is a well-known phenomenon under the name of ambitransitive or labile verbs, typically exemplified with the verb *essen* 'to eat' [@Next a,b]. However, *essen* will not be considered an example of strictly bare antipassive here, because the object can also be turned into a prepositional phrase [@Next c]. All such prepositional antipassives (see [@sec:prepositions-accusative-antipassive]) also seem to allow a bare antipassive expression, so they will not be repeated here.
 
-\ex.
- \a. Ich esse einen Apfel.
- \b. Ich esse gerne.
- \c. Ich esse von dem Apfel.
+:::ex
+a.  Ich esse einen Apfel.
+b.  Ich esse gerne.
+c.  Ich esse von dem Apfel.
+:::
 
-Also, there are verbs with an accusative and a dative argument \Next[a] that allow both to be dropped \Next[b,c]. These are also discussed elsewhere (see [@sec:prepositions-dative-antipassive-accusative]) and will not be repeated here.
+Also, there are verbs with an accusative and a dative argument [@Next a] that allow both to be dropped [@Next b,c]. These are also discussed elsewhere (see [@sec:prepositions-dative-antipassive-accusative]) and will not be repeated here.
 
-\ex.
- \a. Ich backe dir einen Kuchen.
- \b. Ich backe einen Kuchen.
- \c. Ich backe gerade.
+:::ex
+a.  Ich backe dir einen Kuchen.
+b.  Ich backe einen Kuchen.
+c.  Ich backe gerade.
+:::
 
 Similarly, dropping of an accusative argument is very widespread when focus is placed on the action itself. In such contexts typically the addition of an adverbial constructions seems necessary (see [@sec:adverbial-action-focus]).
 
-\ex.
- \a.    Ich sehe das Haus.
- \b. \? Ich sehe.
- \c.    Ich sehe gut.
+:::ex
+a. Ich sehe das Haus.
+b. ^?^ Ich sehe.
+c. Ich sehe gut.
+:::
 
 What is left over is just an apparently very small group of transitive verbs that allow for the accusative to be dropped – and not allow for a (free) dative, nor for a prepositional antipassive. These verbs are formally similar to verbs that allow for an accusative to be added (see [@sec:case-accusative-addition]). The only difference between these two classes is a (rather vague) semantic intuition about whether the intransitive or the transitive meaning is more 'basic'.
 
@@ -636,20 +672,22 @@ What is left over is just an apparently very small group of transitive verbs tha
 
 ### [ NAA | NA– ] Accusative drop + accusative {#sec:case-double-accusative-drop}
 
-Most verbs that allow for two accusative arguments allow for one of these arguments to be dropped \Next[a,b]. In some situations even both can be dropped \Next[c].
+Most verbs that allow for two accusative arguments allow for one of these arguments to be dropped [@Next a,b]. In some situations even both can be dropped [@Next c].
 
-\ex.
- \a. Er lehrt mich den Trick.
- \b. Er lehrt den Koran.
- \c. Er lehrt an einer Hochschule.
+:::ex
+a.  Er lehrt mich den Trick.
+b.  Er lehrt den Koran.
+c.  Er lehrt an einer Hochschule.
+:::
 
-Double accusatives also regularly appear with quantified objects \Next[a, see [@sec:case-quantifed-objects]] and named objects (b, see Section X). Also these verbs regularly allow for one of the accusatives to be dropped \Next[c,d].
+Double accusatives also regularly appear with quantified objects [@Next a, see [@sec:case-quantifed-objects]] and named objects (b, see Section X). Also these verbs regularly allow for one of the accusatives to be dropped [@Next c,d].
 
-\ex.
- \a. Das Buch kostet mich keinen Pfennig. 
- \b. Ich nenne dich einen Egoisten.
- \c. Das Buch kostet viel.
- \d. Er nennt den Namen des Kindes.
+:::ex
+a.  Das Buch kostet mich keinen Pfennig. 
+b.  Ich nenne dich einen Egoisten.
+c.  Das Buch kostet viel.
+d.  Er nennt den Namen des Kindes.
+:::
 
 **Attested Verbs**
 
@@ -661,31 +699,34 @@ Double accusatives also regularly appear with quantified objects \Next[a, see [@
 
 **Notes**
 
-The verb *unterrichten* 'to instruct, to notify' also allows for two different accusative objects, either referring to the recipient of the teaching \Next[a] or the object of the teaching \Next[b]. However, these two accusative objects do not seem to occur together easily. When the recipient is in the accusative, the object typically uses a prepositional phrase \Next[c]. Then the object is in the accusative, the recipient is normally not expressed. Note though that both these accusative objects can be passivised \Next[d,e].
+The verb *unterrichten* 'to instruct, to notify' also allows for two different accusative objects, either referring to the recipient of the teaching [@Next a] or the object of the teaching [@Next b]. However, these two accusative objects do not seem to occur together easily. When the recipient is in the accusative, the object typically uses a prepositional phrase [@Next c]. Then the object is in the accusative, the recipient is normally not expressed. Note though that both these accusative objects can be passivised [@Next d,e].
 
-\ex.
- \a. Ich unterrichte dich.
- \b. Ich unterrichte den Koran.
- \c. Ich unterrichte dich über den Koran.
- \d. Du wirst unterrichtet.
- \e. Der Koran wird unterrichtet.
+:::ex
+a.  Ich unterrichte dich.
+b.  Ich unterrichte den Koran.
+c.  Ich unterrichte dich über den Koran.
+d.  Du wirst unterrichtet.
+e.  Der Koran wird unterrichtet.
+:::
 
 ### [ NAD | N–D ] Accusative drop + dative
 
-This is the pattern as attested with the verb *danken* 'to thank' as exemplified in \Next[a-c]. The accusative can be left out, but only when the dative is retained. The dative cannot be dropped. This seems to be very rare. There seems to be a generalisation that the accusative can normally not be dropped before also a governed dative is dropped (see also [sec:prepositions-demotion-of-object]). Note that the sentence in \Next[a] appears to be rejected by many German speakers, but it is clearly attested (cf. https://www.dwds.de/wb/danken).
+This is the pattern as attested with the verb *danken* 'to thank' as exemplified in [@Next a-c]. The accusative can be left out, but only when the dative is retained. The dative cannot be dropped. This seems to be very rare. There seems to be a generalisation that the accusative can normally not be dropped before also a governed dative is dropped (see also [sec:prepositions-demotion-of-object]). Note that the sentence in [@Next a] appears to be rejected by many German speakers, but it is clearly attested (cf. https://www.dwds.de/wb/danken).
 
-\ex.
- \a. Ich danke dem Arzt mein Leben.
- \b. Ich danke dem Arzt.
- \c. \* Ich danke mein Leben.
+:::ex
+a.  Ich danke dem Arzt mein Leben.
+b.  Ich danke dem Arzt.
+c.  ^* Ich danke mein Leben.
+:::
 
-This pattern of *danken* might have arisen out of a confusion of *danken* with *verdanken*. The verb *danken* allows for a governed preposition *für* instead of the accusative \Next[a]. In contrast, *verdanken* needs an accusative and a dative \Next[b-d].
+This pattern of *danken* might have arisen out of a confusion of *danken* with *verdanken*. The verb *danken* allows for a governed preposition *für* instead of the accusative [@Next a]. In contrast, *verdanken* needs an accusative and a dative [@Next b-d].
 
-\ex.
- \a. Ich danke dir für mein Leben.
- \b. Ich verdanke dir mein Leben.
- \c. \* Ich verdanke dir.
- \d. \* Ich verdanke mein Leben.
+:::ex
+a.  Ich danke dir für mein Leben.
+b.  Ich verdanke dir mein Leben.
+c.  ^* Ich verdanke dir.
+d.  ^* Ich verdanke mein Leben.
+:::
 
 **Attested Verbs**
 
@@ -722,12 +763,13 @@ In this section only those verbs are listed for which the only alternative for t
 
 ### [ NAD | NA– ] Dative drop + accusative
 
-Ditransitive verbs like *verbieten* 'to prohibit' \Next[a-c], that allow for the dative but not the accusative to be dropped, are common. Semantically, this diathesis seem to be restricted to performative verbs. 
+Ditransitive verbs like *verbieten* 'to prohibit' [@Next a-c], that allow for the dative but not the accusative to be dropped, are common. Semantically, this diathesis seem to be restricted to performative verbs. 
 
-\ex.
- \a. Ich verbiete dir das Rauchen.
- \b. \* Ich verbiete dir.
- \c. Ich verbiete das Rauchen.
+:::ex
+a.  Ich verbiete dir das Rauchen.
+b.  ^* Ich verbiete dir.
+c.  Ich verbiete das Rauchen.
+:::
 
 **Attested Verbs**
 
@@ -754,20 +796,22 @@ Ditransitive verbs like *verbieten* 'to prohibit' \Next[a-c], that allow for the
 
 **Notes**
 
-The verb *nahelegen* is is used without dative with inanimate subjects \Next[a], but with dative in case of an animate subject \Next[b].
+The verb *nahelegen* is is used without dative with inanimate subjects [@Next a], but with dative in case of an animate subject [@Next b].
 
-\ex.
- \a. Das Foto hat seine Verwicklung in das Doping-System nahegelegt.
- \b. Der Trainer hat ihm das Doping nahegelegt.
+:::ex
+a.  Das Foto hat seine Verwicklung in das Doping-System nahegelegt.
+b.  Der Trainer hat ihm das Doping nahegelegt.
+:::
 
 ### [ NAD | N–\hspace{1pt}– ] Dative drop + accusative drop
 
-Although it is not impossible, it seems to be rather unusual for 'real' ditransitive verbs like *vorlesen* 'to read aloud* \Next[a] to allow for either the accusative \Next[b] or the dative \Next[c] to be dropped.
+Although it is not impossible, it seems to be rather unusual for 'real' ditransitive verbs like *vorlesen* 'to read aloud* [@Next a] to allow for either the accusative [@Next b] or the dative [@Next c] to be dropped.
 
-\ex.
- \a. Ich lese dir ein Buch vor.
- \b. Ich lese dir vor.
- \c. Ich lese ein Buch vor.
+:::ex
+a.  Ich lese dir ein Buch vor.
+b.  Ich lese dir vor.
+c.  Ich lese ein Buch vor.
+:::
 
 **Attested Verbs**
 
@@ -801,14 +845,16 @@ I have tried to separate in this chapter between the demotion of an object (anti
 
 ### [ – | A ] Weather verbs with accusative {#sec:case-accusative-addition-without-nominative}
 
-A few of the verbs that allow for the nominative to be absent (see [@sec:case-nominative-addition]) can have an accusative object without a nominative, although this possibility seems to be strongly limited to weather phenomena \Next[a,b] and is often used metaphorically \NNext.
+A few of the verbs that allow for the nominative to be absent (see [@sec:case-nominative-addition]) can have an accusative object without a nominative, although this possibility seems to be strongly limited to weather phenomena [@Next a,b] and is often used metaphorically [@NNext].
 
-\ex.
- \a. Im Jahre 1932 hagelte es einen Schauer neuer Gesetze.
- \b. Gestern hat es riesengroße Körner gehagelt.
+:::ex
+a.  Im Jahre 1932 hagelte es einen Schauer neuer Gesetze.
+b.  Gestern hat es riesengroße Körner gehagelt.
+:::
 
-\ex.
- \a. Es schneit Absagen
+:::ex
+a.  Es schneit Absagen
+:::
 
 **Attested Verbs**
 
@@ -821,22 +867,24 @@ A few of the verbs that allow for the nominative to be absent (see [@sec:case-no
 
 ### [ N– | NA ] Resultative {#sec:case-accusative-addition}
 
-There are various kinds of objects that can be added to apparent intransitives with a resultative meaning. For example: a competitive entity in sports \Next[a], the result of an action \Next[b], the name of the result of an action \Next[c] and possibly many other \Next[d,e].
+There are various kinds of objects that can be added to apparent intransitives with a resultative meaning. For example: a competitive entity in sports [@Next a], the result of an action [@Next b], the name of the result of an action [@Next c] and possibly many other [@Next d,e].
 
-\ex.
- \a. Er ist/hat den Marathon gelaufen.
- \b. Er ist/hat den Salto gesprungen.
- \c. Er hat den Tango getanzt.
- \d. Er hat den Staub geatmet.
- \e. Er hat den Tatort geschaut.
+:::ex
+a.  Er ist/hat den Marathon gelaufen.
+b.  Er ist/hat den Salto gesprungen.
+c.  Er hat den Tango getanzt.
+d.  Er hat den Staub geatmet.
+e.  Er hat den Tatort geschaut.
+:::
 
-A similar phenomenon is attested with 'manner of speaking' verbs like *stottern* 'to stutter' \Next[a]. Such verbs can take an accusative object with a meaning like 'He uttered something in a stuttering manner' \Next[b]. Note that by adding a possessed prepositional phrase \Next[c], see [@sec:prepositions-intransitive-location-as-result], it is even possible to use a possessor-dative alternation \Next[d], see  [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative], leading to an apparently 'intransitive' verb with a dative, accusative and a non-droppable locational argument.
+A similar phenomenon is attested with 'manner of speaking' verbs like *stottern* 'to stutter' [@Next a]. Such verbs can take an accusative object with a meaning like 'He uttered something in a stuttering manner' [@Next b]. Note that by adding a possessed prepositional phrase [@Next c], see [@sec:prepositions-intransitive-location-as-result], it is even possible to use a possessor-dative alternation [@Next d], see  [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative], leading to an apparently 'intransitive' verb with a dative, accusative and a non-droppable locational argument.
 
-\ex.
- \a. Er stotterte vor Aufregung
- \b. Er stotterte eine Entschuldigung.
- \c. Ich flüsterte die Lösung in sein Ohr.
- \d. Ich flüsterte ihm die Lösung ins Ohr.
+:::ex
+a.  Er stotterte vor Aufregung
+b.  Er stotterte eine Entschuldigung.
+c.  Ich flüsterte die Lösung in sein Ohr.
+d.  Ich flüsterte ihm die Lösung ins Ohr.
+:::
 
 **Attested Verbs**
 
@@ -862,13 +910,14 @@ A similar phenomenon is attested with 'manner of speaking' verbs like *stottern*
 
 ### [ Ng | ND ] Possessor-of-nominative to dative experiencer {#sec:case-possessor-of-nominative-to-dative-experiencer}
 
-For some verbs, the dative is an alternative expression of the possessor of the nominative \Next[a,b]. The participant is crucially the same person in these two expressions, as can be seen by the possibility of \Next[c] but the impossibility of \Next[d].
+For some verbs, the dative is an alternative expression of the possessor of the nominative [@Next a,b]. The participant is crucially the same person in these two expressions, as can be seen by the possibility of [@Next c] but the impossibility of [@Next d].
 
-\ex.
- \a. Mir brennen die Füße.
- \b. Meine Füße brennen.
- \c. Meine Füße brennen mir.
- \d. \* Meine Füße brennen dir.
+:::ex
+a.  Mir brennen die Füße.
+b.  Meine Füße brennen.
+c.  Meine Füße brennen mir.
+d.  ^* Meine Füße brennen dir.
+:::
 
 **Attested Verbs**
 
@@ -901,27 +950,30 @@ For some verbs, the dative is an alternative expression of the possessor of the 
 
 **Notes**
 
-Coreference ("reflexive double marking") is possible \Next[a], but in the third person this does not lead to a reflexive pronoun *sich* \Next[b,c]:
+Coreference ("reflexive double marking") is possible [@Next a], but in the third person this does not lead to a reflexive pronoun *sich* [@Next b,c]:
 
-\ex.
- \a. Mir stinken meine Socken.
- \b. Ihm stinken seine Socken.
- \c. \* Sich stinken seine Socken.
+:::ex
+a.  Mir stinken meine Socken.
+b.  Ihm stinken seine Socken.
+c.  ^* Sich stinken seine Socken.
+:::
 
-It might seem that bare causative verbs like *abbrennen*, see [@sec:case-sein-causative] also allow for this alternation \Next[a,b]. However, there is no necessary coreference between the dative and the possessor in these cases \Next[c].
+It might seem that bare causative verbs like *abbrennen*, see [@sec:case-sein-causative] also allow for this alternation [@Next a,b]. However, there is no necessary coreference between the dative and the possessor in these cases [@Next c].
 
-\ex.
- \a. Das Haus brennt mir ab.
- \b. Mein Haus brennt ab.
- \c. Mein Haus brennt dir ab.
+:::ex
+a.  Das Haus brennt mir ab.
+b.  Mein Haus brennt ab.
+c.  Mein Haus brennt dir ab.
+:::
 
 ### [ NAg | NAD ] Possessor-of-accusative to dative experiencer {#sec:case-possessor-accusative-to-dative}
 
-A widespread dative alternation is the so-called possessor-dative raising. More specifically, in ditransitive datives, the dative can be reformulated as the possessor of the accusative \Next[a,b].
+A widespread dative alternation is the so-called possessor-dative raising. More specifically, in ditransitive datives, the dative can be reformulated as the possessor of the accusative [@Next a,b].
 
-\ex.
- \a. Ich schneide ihm die Haare.
- \b. Ich schneide seine Haare.
+:::ex
+a.  Ich schneide ihm die Haare.
+b.  Ich schneide seine Haare.
+:::
 
 This alternation occurs with all verbs with the *von* and *für* dative antipassive (see [@sec:prepositions-dative-antipassive-accusative]). Additionally, there are many verbs in the realm of destruction and repair.
 
@@ -943,24 +995,27 @@ This alternation occurs with all verbs with the *von* and *für* dative antipass
 
 **Notes**
 
-There is an interesting difference between the *für* alternant \Next[b] and the possessive alternant \Next[c] of the same verb, showing that there is an ambiguity of the datives in \Next[a].
+There is an interesting difference between the *für* alternant [@Next b] and the possessive alternant [@Next c] of the same verb, showing that there is an ambiguity of the datives in [@Next a].
 
-\ex.
- \a. Ich koche dir eine Suppe.
- \b. Ich koche eine Suppe für dich. (Das ist mein Plan, vielleicht kriegst du die Suppe aber nie)
- \c. Ich koche deine Suppe. (Die Suppe, die du bestellt hast)
+:::ex
+a.  Ich koche dir eine Suppe.
+b.  Ich koche eine Suppe für dich. (Das ist mein Plan, vielleicht kriegst du die Suppe aber nie)
+c.  Ich koche deine Suppe. (Die Suppe, die du bestellt hast)
+:::
 
-\ex.
- \a. Ich beantworte dir eine Frage.
- \b. Ich beantworte eine Frage für dich. (weil du es willst)
- \c. Ich beantworte deine Frage. (die du gestellt hast)
+:::ex
+a.  Ich beantworte dir eine Frage.
+b.  Ich beantworte eine Frage für dich. (weil du es willst)
+c.  Ich beantworte deine Frage. (die du gestellt hast)
+:::
 
-Likewise, there is a similar difference between the *von* alternant \Next[b] and the possessive alternant \Next[c] of the dative in \Next[a].
+Likewise, there is a similar difference between the *von* alternant [@Next b] and the possessive alternant [@Next c] of the dative in [@Next a].
 
-\ex.
- \a. Ich klaue dir die Blumen.
- \b. Ich klaue die Blumen von dir.
- \c. Ich klaue deine Blumen.
+:::ex
+a.  Ich klaue dir die Blumen.
+b.  Ich klaue die Blumen von dir.
+c.  Ich klaue deine Blumen.
+:::
 
 ## Symmetrical diatheses
 
@@ -968,19 +1023,21 @@ Likewise, there is a similar difference between the *von* alternant \Next[b] and
 
 ### [ NA | AN ] Accusative inverse
 
-The verb *erwarten* 'to expect' has a very exceptional valency alternation in that the accusative and nominative arguments can be reversed with a very similar meaning \Next[a,b]. There is a slight difference in meaning between 'to expect' \Next[a] and 'to be imminent' \Next[b].
+The verb *erwarten* 'to expect' has a very exceptional valency alternation in that the accusative and nominative arguments can be reversed with a very similar meaning [@Next a,b]. There is a slight difference in meaning between 'to expect' [@Next a] and 'to be imminent' [@Next b].
 
-\ex.
- \a. Er erwartet einen Test.
- \b. Der Test erwartet ihn.
+:::ex
+a.  Er erwartet einen Test.
+b.  Der Test erwartet ihn.
+:::
 
-This alternation is possibly best interpreted as the effect of two different metaphorical extensions of *warten* 'to wait for'. The first extension is from 'to wait for' \Next[a] to 'to expect' \Next[b]. The second usage of *warten* is typically found with inanimate subjects, meaning roughly 'to be ready for the objects arrival' \Next[c]. This second meaning the metaphorical extension leads to the meaning 'to be imminent' \Next[d].
+This alternation is possibly best interpreted as the effect of two different metaphorical extensions of *warten* 'to wait for'. The first extension is from 'to wait for' [@Next a] to 'to expect' [@Next b]. The second usage of *warten* is typically found with inanimate subjects, meaning roughly 'to be ready for the objects arrival' [@Next c]. This second meaning the metaphorical extension leads to the meaning 'to be imminent' [@Next d].
 
-\ex.
- \a. Ich warte auf den Test.
- \b. Ich erwarte den Test.
- \c. Zuhause wartet ein Geschenk auf dich.
- \d. Ein Geschenk erwartet dich.
+:::ex
+a.  Ich warte auf den Test.
+b.  Ich erwarte den Test.
+c.  Zuhause wartet ein Geschenk auf dich.
+d.  Ein Geschenk erwartet dich.
+:::
 
 **Attested Verbs**
 
@@ -988,11 +1045,12 @@ This alternation is possibly best interpreted as the effect of two different met
 
 ### [ NA | DN ] Dative inverse
 
-I know of only a few verbs with this very special passive-like diathesis \Next[a,b]. There are a few more cases of this alternation with reflexive marking see [@sec:reflexive-sich-dative-passive]. Note that the alternant with the dative \Next[b] needs a very special adverbial, typically *nichts*, *was*, or *wenig* (negative polarity).
+I know of only a few verbs with this very special passive-like diathesis [@Next a,b]. There are a few more cases of this alternation with reflexive marking see [@sec:reflexive-sich-dative-passive]. Note that the alternant with the dative [@Next b] needs a very special adverbial, typically *nichts*, *was*, or *wenig* (negative polarity).
 
-\ex.
- \a. Der Arbeiter nutzt den Hebel.
- \b. Der Hebel nutzt dem Arbeiter wenig.
+:::ex
+a.  Der Arbeiter nutzt den Hebel.
+b.  Der Hebel nutzt dem Arbeiter wenig.
+:::
 
 **Attested Verbs**
 
@@ -1009,13 +1067,14 @@ Some verbs allow for the same role being expressed with different case marking. 
 
 ### [ A | D ] Accusative-to-dative
 
-A few experiencer verbs with an original accusative argument are currently considered rather old-fashioned in German \Next[a]. Instead of the original accusative sometimes they are attested with a dative \Next[b]. Note that some of these verbs also have a governed preposition \Next[c] and a reflexive alternation \Next[d].
+A few experiencer verbs with an original accusative argument are currently considered rather old-fashioned in German [@Next a]. Instead of the original accusative sometimes they are attested with a dative [@Next b]. Note that some of these verbs also have a governed preposition [@Next c] and a reflexive alternation [@Next d].
 
-\ex.
- \a. Mich graut.
- \b. Mir graut.
- \c. Mich ekelt vor dem Spinat.
- \d. Ich ekle mich vor dem Essen.
+:::ex
+a.  Mich graut.
+b.  Mir graut.
+c.  Mich ekelt vor dem Spinat.
+d.  Ich ekle mich vor dem Essen.
+:::
 
 **Attested Verbs**
 
@@ -1023,11 +1082,12 @@ A few experiencer verbs with an original accusative argument are currently consi
 
 ### [ NAA | NAD ] Accusative-to-dative + accusative {#sec:case-double-accusative-dative-swap}
 
-A few of the verbs that allow for two accusative objects appear to disambiguate this situation by optionally changing one of the accusative arguments to a dative \Next[a,b].
+A few of the verbs that allow for two accusative objects appear to disambiguate this situation by optionally changing one of the accusative arguments to a dative [@Next a,b].
 
-\ex.
- \a. Er lehrt mich den Trick.
- \b. Er lehrt mir den Trick.
+:::ex
+a.  Er lehrt mich den Trick.
+b.  Er lehrt mir den Trick.
+:::
 
 **Attested Verbs**
 
@@ -1046,9 +1106,10 @@ The verb *nennen* seems to have a rather clear semantic change between 'to name'
 
 The verb *achten* 'to watch for, to respect' has a somewhat old-fashioned alternative possibility to take a genitive argument, but only as negative polarity element. Most examples have an explicit negation, but examples with *niemand* 'nobody' or *gering* 'a bit' are also attested (see examples below). The more widespread usage of an accusative argument (also without negation) can be used in the same meaning.
 
-\ex.
- \a. Man achtete unser nicht.
- \b. Man achtete uns nicht.
+:::ex
+a.  Man achtete unser nicht.
+b.  Man achtete uns nicht.
+:::
 
 **Attested Verbs**
 
@@ -1061,16 +1122,19 @@ The verb *achten* 'to watch for, to respect' has a somewhat old-fashioned altern
 
 ### [ NGA | NAD ] Genitive-to-accusative + accusative-to-dative {#sec:case-genitive-accusative-dative-swap}
 
-The verb *versichern* 'to assure' appears to be a combination of the previous two alternations. The apparently older usage with accusative and genitive \Next[a] exists with an alternative construction with dative and accusative \Next[b]. This 'double swap' was possible because most sentences with *versichern* have a subordinate clause instead of a clear genitive/accusative \Next[c,d]. The theoretical intermediate stages (with genitive/dative or double accusative) are unattested \Next[e,f].
+The verb *versichern* 'to assure' appears to be a combination of the previous two alternations. The apparently older usage with accusative and genitive [@Next a] exists with an alternative construction with dative and accusative [@Next b]. This 'double swap' was possible because most sentences with *versichern* have a subordinate clause instead of a clear genitive/accusative [@Next c,d]. The theoretical intermediate stages (with genitive/dative or double accusative) are unattested [@Next e,f].
 
-\ex.
- \a. Ich versichere dich meines Vertrauens.
- \b. Ich versichere dir mein Vertrauen.
- \c. Ich versichere dich, dass ich dir vertraue.
- \d. Ich versichere dir, dass ich dir vertraue.
- \e. \* Ich versichere dich mein Vertrauen.
- \f. \* Ich versichere dir meines Vertrauens.
+:::ex
+a.  Ich versichere dich meines Vertrauens.
+b.  Ich versichere dir mein Vertrauen.
+c.  Ich versichere dich, dass ich dir vertraue.
+d.  Ich versichere dir, dass ich dir vertraue.
+e.  ^* Ich versichere dich mein Vertrauen.
+f.  ^* Ich versichere dir meines Vertrauens.
+:::
 
 **Attested Verbs**
 
 - *versichern*
+
+-->

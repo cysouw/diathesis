@@ -16,7 +16,7 @@ Always modal meanings???
 
 - Ich laufe.
 - Ich habe zu laufen.
-- \* Es ist bekannt, dass ich habe zu laufen.
+- ^* Es ist bekannt, dass ich habe zu laufen.
 - Es ist bekannt, dass ich zu laufen habe.
 
 **Examples**

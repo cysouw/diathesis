@@ -75,20 +75,20 @@ Possible examples without *sich*
 In the non-verbal sentence blueprints it is possible to insert further linguistic material between the finite light verb and the main lexical predicate. The two separated parts of the predication are referred to in German linguistics as the 'Verbalklammer', or sentence bracket. One of the crucial characteristics of the syntax of German is that the finite verb is moved to the end of the sentence in subordinate sentences. I will use the dummy main sentence "Es ist bekannt, dass" ('it is known that') to force a subordinate construction. For example, the bare prepositional blueprint in (a) has to become (c) in subordinate clauses, with the finite verb at the end; (b) is impossible, with the finite verb in the same position as in a main clause.
 
 (a)   Ich gehe morgen nach Hause.
-(b) \* Es ist bekannt, dass ich gehe morgen nach Hause.
+(b) ^* Es ist bekannt, dass ich gehe morgen nach Hause.
 (c)   Es ist bekannt, dass ich morgen nach Hause gehe.
 
 Exactly the same happens in many constructions with participles and infinitives, as shown in (a-c). Constructions such with a pattern like (a-c) will be called "coherent", following Bech (1955). Coherent constructions are considered to be mono-clausal.
 
 (a)   Ich habe morgen zu arbeiten.
-(b) \* Es ist bekannt, dass ich habe morgen zu arbeiten.
+(b) ^* Es ist bekannt, dass ich habe morgen zu arbeiten.
 (c)   Es ist bekannt, dass ich morgen zu arbeiten habe.
 
 In contrast, there are many sentences that look exactly like the previous one, but which behave different in subordinate constructions. For example in (a-c), the situation is exactly reversed, with the finite verb at the end (c) being ungrammatical. Such constructions will be called 'non-coherent'. Such non-coherent constructions are consered to be bi-clausal (see Kiss 1995 for a much more in-depth discussion).
 
 (a)   Ich hoffe morgen zu gewinnen.
 (b)   Es ist bekannt, dass ich hoffe morgen zu gewinnen.
-(c) \* Es ist bekannt, dass ich morgen zu gewinnen hoffe.
+(c) ^* Es ist bekannt, dass ich morgen zu gewinnen hoffe.
 
 In some intermediate cases, both orders are possible, as shown in (a-c). These constructions will be called 'semi-coherent' here. [called "fakultativ kohärent konstruierende Verben" in @lichte2015: 53]
 
@@ -105,8 +105,8 @@ In some intermediate cases, both orders are possible, as shown in (a-c). These c
 Coherent clauses show further characteristics of being mono-clausal, like the additional of tense-aspect auxiliaries in () and negation in ().
 
 (a)   Ich werde morgen zu tun haben.
-(b) \* Ich werden haben morgen zu tun.
-(c) \* Ich werde morgen zu gewinnen hoffen.
+(b) ^* Ich werden haben morgen zu tun.
+(c) ^* Ich werde morgen zu gewinnen hoffen.
 (d)   Ich werde morgen hoffen zu gewinnen.
 
 <br>
@@ -118,27 +118,27 @@ Coherent clauses show further characteristics of being mono-clausal, like the ad
 
 Most coherent construction Do not allow for an alternative finite subordinate construction, e.g. with the complementizer 'dass':
 
-- \* Es ist bekannt, dass ich bleibe schlafen.
+- ^* Es ist bekannt, dass ich bleibe schlafen.
 -    Es ist bekannt, dass ich schlafen bleibe.
 -    Ich bleibe schlafen.
-- \* Ich bleibe dich schlafen.
-- \* Ich bleibe, dass ich schlafe.
-- \* Ich bleibe, dass du schläfst.
+- ^* Ich bleibe dich schlafen.
+- ^* Ich bleibe, dass ich schlafe.
+- ^* Ich bleibe, dass du schläfst.
 
 However, a few coherent constructions do allow this (note the difference in control, which is yet another independent aspect)
 
-- \* Es ist bekannt, dass ich will schlafen.
+- ^* Es ist bekannt, dass ich will schlafen.
 -    Es ist bekannt, dass ich schlafen will.
 -    Ich will schlafen.
-- \* Ich will dich schlafen.
+- ^* Ich will dich schlafen.
 - ?  Ich will, dass ich schlafe.
 -    Ich will, dass du schläfst.
 
 <br>
 
-- \* Es ist bekannt, dass ich sehe dich schlafen.
+- ^* Es ist bekannt, dass ich sehe dich schlafen.
 -    Es ist bekannt, dass ich dich schlafen sehe.
-- \* Ich sehe schlafen.
+- ^* Ich sehe schlafen.
 -    Ich sehe dich schlafen.
 - ?  Ich sehe, dass ich schlafe.
 -    Ich sehe, dass du schläfst.
@@ -146,8 +146,8 @@ However, a few coherent constructions do allow this (note the difference in cont
 Non-coherent constructions always allow the finite subordinate alternative:
 
 -    Es ist bekannt, dass ich dich bitte bald zu schlafen.
-- \* Es ist bekannt, dass ich dich bald zu schlafen bitte.
-- \* Ich bitte bald zu schlafen.
+- ^* Es ist bekannt, dass ich dich bald zu schlafen bitte.
+- ^* Ich bitte bald zu schlafen.
 -    Ich bitte dich bald zu schlafen.
 -    Ich bitte, dass ich bald schlafe.
 -    Ich bitte, dass du bald schläfst.
@@ -155,9 +155,9 @@ Non-coherent constructions always allow the finite subordinate alternative:
 <br>
 
 -    Es ist bekannt, dass ich hoffe bald zu schlafen.
-- \* Es ist bekannt, dass ich bald zu schlafen hoffe.
+- ^* Es ist bekannt, dass ich bald zu schlafen hoffe.
 -    Ich hoffe bald zu schlafen
-- \* Ich hoffe dich bald zu schlafen
+- ^* Ich hoffe dich bald zu schlafen
 -    Ich hoffe, dass ich bald schlafe
 -    Ich hoffe, dass du bald schläfst
 
@@ -520,7 +520,7 @@ Nominative control, accusative *sich*
 
 Some prepositions might not be possible to drop.
 
-- sich beschäftigen mit: \* Er beschäftigte sich zu zeichnen.
+- sich beschäftigen mit: ^* Er beschäftigte sich zu zeichnen.
 
 ### [ NA | NZ ] 
 
@@ -658,12 +658,12 @@ Nominative control. Possibly some kind of anticausative alternation.
 Only coherent construction possible
 
 - Es ist bekannt, dass er ihm ein Buch zu geben scheint.
-- \* Es ist bekannt, dass er scheint ihm ein Buch zu geben.
+- ^* Es ist bekannt, dass er scheint ihm ein Buch zu geben.
 
 <br>
 
 - Ich habe ihm erzählt, dass es zu regnen scheint
-- \* Ich habe ihm erzählt, dass es scheint zu regnen.
+- ^* Ich habe ihm erzählt, dass es scheint zu regnen.
 
 ### [ NA | NZ | -Z ] *brauchen, pflegen* 
 
@@ -676,8 +676,8 @@ Nominative control
 
 Only coherent constructions possible
 
-- Es ist bekannt, dass du ihm nicht zu helfen brauchst \* du nicht brauchst Hilfe zu holen.
-- Es ist bekannt, dass ie ihren Enkeln Geld zu geben pflegt \* sie pflegt ihren Ekeln Geld zu geben.
+- Es ist bekannt, dass du ihm nicht zu helfen brauchst ^* du nicht brauchst Hilfe zu holen.
+- Es ist bekannt, dass ie ihren Enkeln Geld zu geben pflegt ^* sie pflegt ihren Ekeln Geld zu geben.
 
 ### [ NP | NZ | -Z ] *anfangen, aufhören, beginnen* 
 
@@ -739,7 +739,7 @@ Subject complement clause.
 With a complement clause, there is either a dative or an adjective needed.
 
 - Immer das Gleiche erklären zu müssen bleibt unbefriedigend.
-- \* Immer das Gleiche erklären zu müssen bleibt.
+- ^* Immer das Gleiche erklären zu müssen bleibt.
 
 Both coherent and non-coherent constructions possible
 

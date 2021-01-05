@@ -241,15 +241,17 @@ Er denkt/glaubt an einkaufen
 
 In contrast, there are many sentences that look exactly like the previous one, but which behave different in subordinate constructions. For example in (a-c), the situation is exactly reversed, with the finite verb at the end (c) being ungrammatical. Such constructions will be called 'non-coherent'. Such non-coherent constructions are consered to be bi-clausal (see Kiss 1995 for a much more in-depth discussion).
 
-\ex.
- \a.    Ich habe morgen zu arbeiten.
- \b.    Es ist bekannt, dass ich morgen zu arbeiten habe.
- \c. \* Es ist bekannt, dass ich habe morgen zu arbeiten.
+:::ex
+a.   Ich habe morgen zu arbeiten.
+b.   Es ist bekannt, dass ich morgen zu arbeiten habe.
+c.  ^* Es ist bekannt, dass ich habe morgen zu arbeiten.
+:::
 
-\ex.
- \a.    Ich versuche den Koffer zu tragen.
- \b.    Es ist bekannt, dass ich versuche den Koffer zu tragen.
- \c. \? Es ist bekannt, dass ich den Koffer zu tragen versuche.
+:::ex
+a.   Ich versuche den Koffer zu tragen.
+b.   Es ist bekannt, dass ich versuche den Koffer zu tragen.
+c.  ^? Es ist bekannt, dass ich den Koffer zu tragen versuche.
+:::
 
 
 Coherent clauses show further characteristics of being mono-clausal, like the additional of tense-aspect auxiliaries in () and negation in ().

@@ -259,12 +259,12 @@ Coherent construction
 
 (a) Ich schicke ihn schlafen.
 (b) Es ist bekannt, dass ich ihn schlafe schicke.
-(c) \* Es ist bekannt, dass ich schicke ihn schlafen.
+(c) ^* Es ist bekannt, dass ich schicke ihn schlafen.
 
 Only agentive verbs?
 
-(a) \* Er schickte mich einschlafen.
-(b) \* Er schickte mich dir gefallen.
+(a) ^* Er schickte mich einschlafen.
+(b) ^* Er schickte mich dir gefallen.
 
 - Du hast noch mehr als einmal gearbeitet und mich schlafen geschickt.
 - Doch als sie ihn später ein zweites Mal Wasser holen schickt, kommt Sachin aufgeregt zurück:
