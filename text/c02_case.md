@@ -274,7 +274,7 @@ This class consists of the classical ditransitive verbs with an obligatory nomin
 
 ### [ NAG ] Nominative + accusative + genitive
 
-There are also verbs that allow nominative, accusative and genitive, but those verbs often have a possible alternation dropping the genitive, which will be discussed in [@sec:case-accusative-genitive-drop]. In a few cases, the genitive argument seems to be in the process to be replaced by an accusative (see Sections \ref{case-sec-genitive-accusative-swap} and \ref{case-sec-genitive-accusative-dative-swap}).
+There are also verbs that allow nominative, accusative and genitive, but those verbs often have a possible alternation dropping the genitive, which will be discussed in [@sec:case-accusative-genitive-drop]. In a few cases, the genitive argument seems to be in the process to be replaced by an accusative (see Sections [@sec:case-genitive-accusative-swap; sec:case-genitive-accusative-dative-swap]).
 
 ### [ NAA ] Nominative + accusative + accusative
 
@@ -680,7 +680,7 @@ b.  Er lehrt den Koran.
 c.  Er lehrt an einer Hochschule.
 :::
 
-Double accusatives also regularly appear with quantified objects [@Next a, see [@sec:case-quantifed-objects]] and named objects (b, see Section X). Also these verbs regularly allow for one of the accusatives to be dropped [@Next c,d].
+Double accusatives also regularly appear with quantified objects [@Next a, see [@sec:case-quantified-objects]] and named objects (b, see Section X). Also these verbs regularly allow for one of the accusatives to be dropped [@Next c,d].
 
 :::ex
 a.  Das Buch kostet mich keinen Pfennig. 

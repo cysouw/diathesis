@@ -168,7 +168,7 @@ Mehrdeutigkeit *lassen + sich + Infinitiv* bei belebte Subjekte
 
 ### --- [ ADJ > SBJ > OBJ ]  Experientive --- {.unnumbered}
 
-### [ gNL | NAL ] *haben + Infinitiv* Experientive [#sec:infinitive-haben]
+### [ gNL | NAL ] *haben + Infinitiv* Experientive {#sec:infinitive-haben}
 
 Addition of a new subject that is the possessor of the nominative of the embedding, or a benefective dative.
 
@@ -294,7 +294,7 @@ With *zu* both coherent and non-coherent:
 
 Addition of a new subject who is experiencer of the embedding.
 
-### [ –N | NA ] *sehen + Infinitiv* Experiencer [#sec:infinitive-sehen]
+### [ –N | NA ] *sehen + Infinitiv* Experiencer {#sec:infinitive-sehen}
 
 "Wahrnehmungsverben" (Kotůlková 2010) with IPP 'Ersatzinfinitiv'
 

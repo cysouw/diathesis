@@ -1079,7 +1079,7 @@ a.  Ich schließe die Tür.
 b.  Die Tür schließt sich (von alleine). 
 :::
 
-There is some literature about the difference between the unmarked anticausative (see [@sec:case-haben-anticausative]) and the *sich* anticausative [#sec:reflexive-anticausative] (e.g. Schäfer 2008, Kurogo 2016).
+There is some literature about the difference between the unmarked anticausative (see [@sec:case-haben-anticausative]) and the *sich* anticausative [@sec:reflexive-anticausative] (e.g. Schäfer 2008, Kurogo 2016).
 
 [@schafer2007: 35ff.]
 

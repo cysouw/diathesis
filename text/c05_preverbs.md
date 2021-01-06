@@ -119,7 +119,7 @@ Second, verbs that already have an accusative argument show various different ki
 
 - When there is already an accusative argument, this argument can be retained while other participants in the sentence are marked differently. This is for example attested with the diathesis from *kaufen* 'to buy' to *verkaufen* 'to sell in [@Next a], see [@sec:preverb-dative-causative].
 - Most frequently, the accusative argument is demoted, and another participant is promoted to accusative. This is for example attested with the diathesis from *hängen* 'to hang' to *behängen* to drape' in [@Next b], see [@sec:preverb-applicative-antipassive].
-- Similarly, with some resultative constructions a prepositional phrase (often a location) can be promoted to an accusative argument while the original accusative cannot be expressed anymore. This is for example attested with the diathesis from *schütten* 'to pour' to *ausschütten* 'to spill' in [@Next c], see [@sec:sec:preverb-location-antiresultative].
+- Similarly, with some resultative constructions a prepositional phrase (often a location) can be promoted to an accusative argument while the original accusative cannot be expressed anymore. This is for example attested with the diathesis from *schütten* 'to pour' to *ausschütten* 'to spill' in [@Next c], see [@sec:preverb-location-antiresultative].
 
 :::ex
 a.  Ich kaufe das Haus von ihm. Er verkauft mir das Haus.
@@ -517,7 +517,7 @@ b.  Ich beende den Wettkampf.
 
 **Notes**
 
-With some of the verbs, the causer can occur as prepositional phrase with *durch* in the intransitive [@Next], similar to inverted passives (see Section \ref{particles-sec-inverted-passives}).
+With some of the verbs, the causer can occur as prepositional phrase with *durch* in the intransitive [@Next], similar to inverted passives, see [@sec:preverb-inverted-passives].
 
 :::ex
 a.  Ich lebe durch den Arzt.
@@ -533,7 +533,7 @@ a.  Der Balkon ist grün.
 b.  Ich begrüne den Balkon. 
 :::
 
-The causer can with some verbs be expressed with a regular agentive *durch* or *von* prepositional phrase in the intransitive alternant. This sounds most natural with inanimate causers [@Next]. See also Section \ref{particles-sec-inverted-passives} on inverted passives).
+The causer can with some verbs be expressed with a regular agentive *durch* or *von* prepositional phrase in the intransitive alternant. This sounds most natural with inanimate causers [@Next]. See also [@sec:preverb-inverted-passives] on inverted passives.
 
 :::ex
 a.  Er ist matt vom Sport.
@@ -563,7 +563,7 @@ a.  Die Kinder sind wach.
 b.  Die Kinder erwachen.
 :::
 
-There are also prefixed adjectives in which an accusative object is added (see [@sec:preverb-adjectival-addition]).
+There are also prefixed adjectives in which an accusative object is added (see [@sec:preverb-adjectival-causative]).
 
 **Attested Verbs**
 
@@ -710,7 +710,7 @@ b.  Ich schäme mich dafür, dass ich das gemacht habe.
 c.  Meine Taten beschämen mich
 :::
 
-The second examples of this diathesis with *wundern* 'to wonder [@Next] is less clear, because this verb has also a reflexive passive alternation (see Section \ref{reflexive-sec-preposition-passive}). Comparing [@Next a,c] shows an alternation of an inverted passive with reflexive loss. But comparing [@Next b,c] shows an alternation without diathesis.
+The second examples of this diathesis with *wundern* 'to wonder [@Next] is less clear, because this verb has also a reflexive passive alternation, see [@sec:reflexive-preposition-passive]. Comparing [@Next a,c] shows an alternation of an inverted passive with reflexive loss. But comparing [@Next b,c] shows an alternation without diathesis.
 
 :::ex
 a.  Ich wundere mich über dein Verhalten.
@@ -881,7 +881,7 @@ b.  Ich beschenke dich mit einem Buch.
 
 **Notes**
 
-*lohnen* is also a reflexive anticausative \ref{reflexive-sec-anticausative}:
+*lohnen* is also a reflexive anticausative [@sec:reflexive-anticausative]:
 
 - NA- : Das Ergebnis lohnt den Aufwand.
 - -N- : Der Aufwand lohnt sich.
@@ -1083,7 +1083,7 @@ Lipka [-@lipka1972: 93, 173] calls this diathesis 'Objektvertauschung' and McInt
 
 ### [ N– | NA ] Preverb adjectival accusative addition {#sec:prever-adjectival-addition}
 
-see Section \ref{particles-sec-adjectival-causative}
+see [@sec:preverb-adjectival-causative]
 
 **Attested Verbs**
 

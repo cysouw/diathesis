@@ -953,9 +953,9 @@ b.  Der Platz wimmelt von Kindern.
 
 ### Isolated object diatheses
 
-The situation with object diatheses is reversed from the previously discussed subject diatheses. With object diatheses, isolated diatheses are much more widespread and they occur with a wide variety of role-remappings, see [@fig:objectdiatheses]. In contrast, chained diatheses are less widespread and can always be analysed as a combination of multiple isolated diatheses.
+The situation with object diatheses is reversed from the previously discussed subject diatheses. With object diatheses, isolated diatheses are much more widespread and they occur with a wide variety of role-remappings, see [@fig:objectdiatheses]. In contrast, chained diatheses are less widespread and can always be analysed as a combination of multiple isolated diatheses.^[The lower right part of the figure is left empty because such alternations are not diatheses. The dropping or addition is expected behaviour for an adjunct, and a change from zero to zero amounts to nothing.]
 
-![Names for isolated remappings without involvement of the subject](figures/objectdiatheses.png){#fig:objectdiatheses}^[The lower right part of the figure is left empty because such alternations are not diatheses. The dropping or addition is expected behaviour for an adjunct, and a change from zero to zero amounts to nothing.]
+![Names for isolated remappings without involvement of the subject](figures/objectdiatheses.png){#fig:objectdiatheses}
 
 I will discuss the different role-remappings from [@fig:objectdiatheses] in three subsections. First, I will look at the various kinds of applicatives and antipassives, then at the drops and additions, and finally at the symmetrical exchanges on the diagonal.
 
