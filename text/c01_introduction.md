@@ -33,7 +33,7 @@ The current attempt to present a all-encompassing survey of German diathesis bui
 
 Diathesis is of course closely linked to the concept of valency, so the groundbreaking valency dictionary for German by Helbig and Schenkel [-@helbig1991] deserves mentioning. They identify the problem that certain verbs can be used in different constructions, but diatheses are not investigated in their dictionary. Another highly influential valency dictionary for German, edited by Schumacher [-@schumacher1986], consistently discusses passive diatheses for all verb. I see the current survey of German diatheses as a first step in extending such valency dictionaries into even more all-encompassing dictionaries that discuss all possible clause constructions for each verb.
 
-## Defining diathesis {#sec:intro-basic-defintion}
+## Defining diathesis {#sec:intro-basic-definition}
 
 A diathesis is defined here as special kind of alternation between two different clause constructions. To properly define the notion 'diathesis', I will first define 'alternation' in general. Next, the definition of 'clause alternation' will be built on that basis. Finally, a diathesis will then be defined as special kind of clause alternation. A few crucial concepts that are used in the following definitions will be discussed in more detail in subsequent sections.
 
@@ -167,7 +167,7 @@ German verbs that can be used as light verbs: *anfangen, aufhören, aussehen, be
 
 ### Grammaticalisation of lexical meaning
 
-A difficult problem is the question whether it is really the same verb that is used in two alternating constructions of a diathesis. For example, the verb *trinken* 'to drink' is a regular transtive verb, but when used intransitively, *er trinkt* 'he drinks', it has a clear implication that his drinking includes too much alcohol, so it might be better translated as 'he is an alcoholic'. In this case, this intransitive interpretation is probably best analysed as a conventional implicature, because the alcoholism aspect of the meaning can be suppressed given the right context.
+A difficult problem is the question whether it is really the same verb that is used in two alternating constructions of a diathesis. For example, the verb *trinken* 'to drink' is a regular transitive verb, but when used intransitively, *er trinkt* 'he drinks', it has a clear implication that his drinking includes too much alcohol, so it might be better translated as 'he is an alcoholic'. In this case, this intransitive interpretation is probably best analysed as a conventional implicature, because the alcoholism aspect of the meaning can be suppressed given the right context.
 
 In general, when the same lexical verb is used in different alternating constructions, then there is (of course) a difference in meaning between the two occurrences. However, ideally this difference is completely induced by the respective constructions and not by the lexical verb itself. Yet, it is extremely common for the combination of a lexical verb with the surrounding construction to grammaticalise into a new meaning. For example, the verb *auftreten* means something like 'to act' as an intransitive, but *to kick open* as a transitive. Both meanings originate from the meaning 'to step on something (by foot)'. Likewise, historical processes can lead to current homophony of two different lexemes. This appears to be the case for example with the verb *abhauen*, which is a transitive verb meaning 'cut of' (e.g. *Er hat den Ast abgehauen*). However, it has attained another usage during the course of the 20th century as an intransitive verb meaning 'run away' (e.g. *Er ist abgehauen*), probably based on a southern German dialectal meaning of *hauen* 'to go, to walk' [@pfeiffer1993: "hauen", accessed 12.12.2018].
 
@@ -300,7 +300,7 @@ c.  ^* Der Fond isst immer noch.
 
 ### Arguments of utterance valency {#sec:intro-arguments-utterance-valency}
 
-There are different kinds of utterance-valency arguments. First, all case marked noun phrase constituents are arguments, with a few exceptions that will be discussed in [@sec:case-delimiting-arguments]. Basically, case marked arguments [@Next a] can be questioned by question pronouns *wer* or *was*, including their case forms *wem*, *wen* and *wessen* [@Next b,c]. Further, they can be pronominalised by personal pronouns [@Next d] or indefine pronouns *(irgend)jemand* or *(irgend)etwas* [@Next e].
+There are different kinds of utterance-valency arguments. First, all case marked noun phrase constituents are arguments, with a few exceptions that will be discussed in [@sec:case-delimiting-arguments]. Basically, case marked arguments [@Next a] can be questioned by question pronouns *wer* or *was*, including their case forms *wem*, *wen* and *wessen* [@Next b,c]. Further, they can be pronominalised by personal pronouns [@Next d] or indefinite pronouns *(irgend)jemand* or *(irgend)etwas* [@Next e].
 
 :::ex
 a.  Der Löwe sieht einen Vogel.
@@ -340,9 +340,9 @@ f.  Er hofft auf eine gute Note.
 
 ### *es* Arguments {#sec:intro-es}
 
-A further kind of utterance-valency argument can be instantiated by *es*, the 3rd person nominative/accusative pronoun in the neutrum gender. There are various uses of this pronoun that have to be distinguished. In the first three uses the pronouns *es* des not have argument-status (viz. phoric, correlative and position-simulating *es*). Only the fourth usage of *es* will be counted as an argument (viz. valency-simulating *es*). 
+A further kind of utterance-valency argument can be instantiated by *es*, the 3rd person nominative/accusative pronoun in the neuter gender. There are various uses of this pronoun that have to be distinguished. In the first three uses the pronouns *es* des not have argument-status (viz. phoric, correlative and position-simulating *es*). Only the fourth usage of *es* will be counted as an argument (viz. valency-simulating *es*). 
 
-First, *es* can be used for anaphoric reference to neutrum nouns, as shown in [@Next]. There are various other variants of such ~~phoric~~ usage, for example it also occurs without direct gender agreement [@czicza2014: Ch. 2]. 
+First, *es* can be used for anaphoric reference to neuter nouns, as shown in [@Next]. There are various other variants of such ~~phoric~~ usage, for example it also occurs without direct gender agreement [@czicza2014: Ch. 2]. 
 
 :::ex
 Das Mädchen weint. Ich tröste es.
@@ -517,12 +517,12 @@ Teasing this stack apart, there are six different diatheses, concurrently showin
 - the possessor of the cut object *Patient* 'patient'
 - the result of the cutting *Schlitz* 'groove, slit'
 - the instrument doing the cutting *Fräser* 'milling cutter'
-- the causer of cutting action *Assistent* 'assistent'
+- the causer of cutting action *Assistent* 'assistant'
 
 The six diatheses (and the corresponding role-remappings) are the following:
 
 - [@Last b], *in* antipassive: changing the cut object *Nagel* from accusative to prepositional object, see [@sec:prepositions-in-antipassive].
-- [@Last c], possessor raising: changing the possessor of the cut object *Patient* from adnominal genitiv into dative, see [@sec:prepositions-possessor-of-location-to-dative-experiencer].
+- [@Last c], possessor raising: changing the possessor of the cut object *Patient* from adnominal genitive into dative, see [@sec:prepositions-possessor-of-location-to-dative-experiencer].
 - [@Last d], resultative: adding a new accusative object *Schlitz* as the result of the cutting, see [@sec:prepositions-action-result].
 - [@Last e], adjunct addition: adding an optional instrument *Fräser*, see [@sec:prepositions-comitative-intrumental].
 - [@Last f], instrument anticausative: turning the instrument *Fräser* from prepositional phrase to nominative, see [@sec:prepositions-transitive-conciliative].
@@ -532,7 +532,7 @@ The six diatheses (and the corresponding role-remappings) are the following:
 
 There are a few examples of diatheses that look like stacks of two diatheses, but on closer inspection it turns out that the intermediate construction does not exist. A few major examples of such ~~fixed stacks~~ are exemplified below.
 
-There is an infamous anticausative diathesis that needs a reflexive pronoun, which is attested for a large, but restricted group of verbs like *schließen* 'to close' [@Next a,b], see [@sec:reflexive-anticausative]. A completely different group of verbs also has an anticausative diathesis with a reflexive pronoun, but only with an additional evaluative adverbial. This is for example attested with *verkaufen* 'to sell' [@Next c,d], see [@sec:adverbial-reflexive-transitive-anticausative]. In this case, the diathesis is marked by both the reflexive pronoun and the presence of an adverbial, and neither is possible without the other. Such a combination of two obligatorily co-occuring formal marking strategies is called a ~~fixed stack~~.
+There is an infamous anticausative diathesis that needs a reflexive pronoun, which is attested for a large, but restricted group of verbs like *schließen* 'to close' [@Next a,b], see [@sec:reflexive-anticausative]. A completely different group of verbs also has an anticausative diathesis with a reflexive pronoun, but only with an additional evaluative adverbial. This is for example attested with *verkaufen* 'to sell' [@Next c,d], see [@sec:adverbial-reflexive-transitive-anticausative]. In this case, the diathesis is marked by both the reflexive pronoun and the presence of an adverbial, and neither is possible without the other. Such a combination of two obligatorily co-occurring formal marking strategies is called a ~~fixed stack~~.
 
 :::ex
 a.  Ich schließe die Tür.
@@ -584,7 +584,7 @@ It is imperative to realise that the macroroles are defined in a language-specif
 
 Using the abbreviations as summarised in [@fig:abbreviations] I will organise and categorise the role-remapping of all diatheses in various levels of abstraction. These different categorisations inform the practical organisation of each chapter.
 
-**~~Level 1: diathesis~~**. Each diathesis is summarised in its own subsubsection. The establishment of an individual diathesis is not always obvious, and each diathesis in this book is already an conscious categorisation (which could be wrong). It has actually been a voyage of discovery in the preparation of this book to decide when to consider a set of examples to be a single diathesis. Very often erstwhile single diatheses turned out to be better analysed by a split into various different diatheses. Although I am rather confident in the quality of the current decisions, I expect that further refinements are necessary in the future.
+**~~Level 1: diathesis~~**. Each diathesis is summarised in its own sub-subsection. The establishment of an individual diathesis is not always obvious, and each diathesis in this book is already an conscious categorisation (which could be wrong). It has actually been a voyage of discovery in the preparation of this book to decide when to consider a set of examples to be a single diathesis. Very often erstwhile single diatheses turned out to be better analysed by a split into various different diatheses. Although I am rather confident in the quality of the current decisions, I expect that further refinements are necessary in the future.
 
 **~~Level 2: remapping pattern~~**. The role-remapping of each diathesis is analysed using the single-letter abbreviations (NADGPLpgad–) from [@fig:abbreviations]. A remapping is specified as an ordered listing of grammatical expressions for roles, both before and after the diathesis. For example, [NA|–N] is a diathesis that involves two roles that are marked 'NA' before the diathesis and '–N' after the diathesis. Because there are many diatheses with this same pattern, this characterisation is already an (implicit) classification.
 
@@ -641,7 +641,7 @@ Many diatheses just remap a single role. Such sole diatheses are called ~~isolat
 
 When two roles are remapped by a single diathesis it is surprisingly frequent for them to be chained. In a ~~chained diathesis~~ the resulting form of one remapping is the start of the second. This can be conceptualised as a 'push' chain in which one remapping induces another because German grammar strongly disprefers multiple constituents of the same kind (e.g. two accusatives) in the same clause.
 
-Chained diatheses typically occur when the nominative subject is involved in the diathesis. There can only be a single nominative subject in a German clause, and it is highly unusual to have a sentene without a nominative subject. This implies that any diathesis involving the nominative subject typically includes two remappings, namely one from something else to nominative and a second remapping of the erstwhile nominative to something else.
+Chained diatheses typically occur when the nominative subject is involved in the diathesis. There can only be a single nominative subject in a German clause, and it is highly unusual to have a sentence without a nominative subject. This implies that any diathesis involving the nominative subject typically includes two remappings, namely one from something else to nominative and a second remapping of the erstwhile nominative to something else.
 
 A prototypical example of a chained diathesis involving the nominative subject is the *werden* passive [@Next]. Here, the erstwhile accusative *Kuchen* 'cake' is turned into a nominative, while the erstwhile nominative *Lehrling* 'apprentice' is removed (or optionally retained as a *von* prepositional phrase). So, we have a chain consisting of the role-remappings ~~[OBJ>SBJ]~~ and ~~[SBJ>ADJ]~~.
 
@@ -697,7 +697,7 @@ b.  Die Suppe schmeckt nach Pfefferminze
 
 ### Disjunct diatheses
 
-~~disjunct diatheses~~ consiste of a combination of multiple role-remappings that are not linked to each other. Just as with the multi-chained diatheses from the previous section, disjunct diatheses regularly occur as the result of stacking of diatheses. In constrast, they are very rare in individual diatheses.
+~~disjunct diatheses~~ consist of a combination of multiple role-remappings that are not linked to each other. Just as with the multi-chained diatheses from the previous section, disjunct diatheses regularly occur as the result of stacking of diatheses. In contrast, they are very rare in individual diatheses.
 
 When multiple diatheses are stacked, i.e. whey they are applied sequentially on top of each other, they are often structurally independent. For example, the verb *waschen* 'to wash' [@Next a] can be used in a resultative construction [@Next b] in which the role of washee *Hemd* 'shirt' is turned from an accusative into a location ~~[OBJ>PBJ]~~ and a new accusative object is introduced for the role of the result *Fleck* 'stain' ~~[Ø>OBJ]~~, see [@sec:prepositions-action-result]. Independent of this chained diathesis, the possessor of the object *Nachbar* 'neighbour' can be raised to genitive [@Next c], see [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative].
 
@@ -709,7 +709,7 @@ b.  Ich wasche den Fleck aus dem Hemd des Nachbarn.
 c.  Ich wasche dem Nachbarn den Fleck aus dem Hemd.
 :::
 
-There are only a few incidental examples uf such disjunct diatheses without stacking. The following four examples all only occur with a very limited number of verbs. First, the verb *deuten* can be used both the mean 'interpret' [@Next a] and 'forebode' [@Next b] with a rather transparent connection between the two. However, the role-remappings are quite complex, see [@sec:prepositions-anticausative-preposition-addition].
+There are only a few incidental examples of such disjunct diatheses without stacking. The following four examples all only occur with a very limited number of verbs. First, the verb *deuten* can be used both the mean 'interpret' [@Next a] and 'forebode' [@Next b] with a rather transparent connection between the two. However, the role-remappings are quite complex, see [@sec:prepositions-anticausative-preposition-addition].
 
 :::ex
 [ Ø > PBJ, OBJ > SBJ > Ø ]
@@ -758,7 +758,7 @@ b.  Ich schwitze einen Fleck in meinem Hemd.
 
 Throughout this chapter, I have used various names for diatheses, like passive, antipassive, applicative or causative. These names have a long history in the grammatical literature [cf. @melcuk1993; @wunderlich1993; @wunderlich2015; @dixon2000a; @dixon2014; @haspelmath2004c; @kulikov2011; @malchukov2015: 96ff.; @zuniga2019]. Although I have been using these terms as if their meaning is clear, this is often far from the case. Many different terms and definitions have been proposed in the literature, and different terms have at times been used for the same phenomena. For example, the original proposal for the term 'antipassive' is already 50 years old [@silverstein1972: 395], but the same phenomenon is also known as deaccusative [@geniusiene1987: 94] or antiapplicative [@haspelmath2004c: 1132; @scheibl2006: 371]. Reversely, antipassive is also attested referring to a slightly different phenomenon of the drop of an object [@scheibl2006: 372-373]. 
 
-In this section I will describe in more detail how these names are used and defined in the current book about German diatheses. The names for diatheses will here always refer to a macrorole pattern, i.e. to the highly abstract classification of a diathese in terms of ~~SBJ~~, ~~OBJ~~, etc. as defined in [@sec:intro-remapping]. For example, the term 'anticausative' will be used as a name for the macrorole pattern ~~[OBJ>SBJ>Ø]~~. Such macrorole patterns are strictly defined here in a language-specific way for German, so care should be taken when applying the same names to different languages.
+In this section I will describe in more detail how these names are used and defined in the current book about German diatheses. The names for diatheses will here always refer to a macrorole pattern, i.e. to the highly abstract classification of a diathesis in terms of ~~SBJ~~, ~~OBJ~~, etc. as defined in [@sec:intro-remapping]. For example, the term 'anticausative' will be used as a name for the macrorole pattern ~~[OBJ>SBJ>Ø]~~. Such macrorole patterns are strictly defined here in a language-specific way for German, so care should be taken when applying the same names to different languages.
 
 One widespread term that I will avoid is the term 'middle' (and likewise the Latinate equivalent term 'medium'). This term for a diathesis is already attested as *μεσότης* in the oldest known Greek grammatical text, the *τέχνη γραμματική* of Dionysius Thrax, and it has become a mainstay in the grammatical literature ever since.^[Thrax writes: *διαθέσεις εἰσὶ τρεῖς, ἐνέργεια, πάθος, μεσότης* "there are three diatheses, active, passive and middle" [@uhlig1883: 48].] The phenomena that are called 'middle' in the literature are highly variable, and there is no consensus about what kind of diathesis this term is supposed to designate, other than something that is neither active nor passive [see @zuniga2019: 168-177 for a thorough summary of the complex philological history of the term middle/medium]. Such a broad and ill-defined term is not useful for a detailed analysis of the large variety of attested role-remappings in German.
 
@@ -808,7 +808,7 @@ b.  Die Motoren donnerten.
 
 ### Chained subject diatheses
 
-Chained diatheses that involve the nominative subject are widespread in German (in contrast to the infrequent occurence of isolated diatheses as discussed previously). [@fig:subjectchains] presents an overview of the different terms that I will use for these diatheses. The bold-faced terms are used for widely attested diatheses, while the other kinds of diatheses are only incidentally found. There is currently no evidence in German for the remappings that are left empty in the figure. There appears to be a preference for various kinds of demotion (i.e. the upper right corner of the figure), which fits nicely with the known typological preference of German for anticausative constructions [@haspelmath1993a: 101; @nichols2004: 189].
+Chained diatheses that involve the nominative subject are widespread in German (in contrast to the infrequent occurrence of isolated diatheses as discussed previously). [@fig:subjectchains] presents an overview of the different terms that I will use for these diatheses. The bold-faced terms are used for widely attested diatheses, while the other kinds of diatheses are only incidentally found. There is currently no evidence in German for the remappings that are left empty in the figure. There appears to be a preference for various kinds of demotion (i.e. the upper right corner of the figure), which fits nicely with the known typological preference of German for anticausative constructions [@haspelmath1993a: 101; @nichols2004: 189].
 
 ![Names for chained macro-role remappings involving the subject](figures/subjectchains.png){#fig:subjectchains}
 
@@ -838,7 +838,7 @@ b.  Der Kunde empört sich über den Preis.
 c.  Der Kunde empört sich darüber, dass der Preis schon wieder gestiegen ist.
 :::
 
-For the next diathesis, I propose the term ~~fabricative [PBJ>SBJ>Ø]~~ based on Lat. *fabrica* 'plan, trick, workmanschip'. This term is used for a diathesis in German in which a fabricated product can be expressed either as a governed prepositional phrase or as a nominative subject. This diathesis occurs for example with various verbs of emotional interactions like *überraschen* 'to surprise' [@Next a], see [@sec:prepositions-fabricative-accusative]. To understand this diathesis, a distinction is needed between the role of the 'fabricator' (here: *Lehrer*, 'teacher') and the role of the 'fabricated product', which induces the emotion (here: *Aufgabe*, 'assignment'). The *mit* prepositional phrase that expresses the fabricated product in [@Next a] is a governed preposition [@Next c]. The diathesis promotes this fabricated product to nominative subject and the fabricator is removed from the expression [@Next b]. The experiencer in the accusative *mich* remains unchanged.
+For the next diathesis, I propose the term ~~fabricative [PBJ>SBJ>Ø]~~ based on Lat. *fabrica* 'plan, trick, workmanship'. This term is used for a diathesis in German in which a fabricated product can be expressed either as a governed prepositional phrase or as a nominative subject. This diathesis occurs for example with various verbs of emotional interactions like *überraschen* 'to surprise' [@Next a], see [@sec:prepositions-fabricative-accusative]. To understand this diathesis, a distinction is needed between the role of the 'fabricator' (here: *Lehrer*, 'teacher') and the role of the 'fabricated product', which induces the emotion (here: *Aufgabe*, 'assignment'). The *mit* prepositional phrase that expresses the fabricated product in [@Next a] is a governed preposition [@Next c]. The diathesis promotes this fabricated product to nominative subject and the fabricator is removed from the expression [@Next b]. The experiencer in the accusative *mich* remains unchanged.
 
 :::ex
 a.  Der Lehrer überraschst mich mit seiner Aufgabe.
@@ -897,7 +897,7 @@ b.  Der Gong beendet den Wettkampf.
 Another example of a reversed passive is the *haben + am + Infinitiv* diathesis [@Next], see [@sec:zuminfinitive-haben-am]. The new subject (syntactically the possessor of the old subject) can semantically be interpreted as an experiencer in [@Next b]. Similar, though applicable to a completely different group of verbs, is the *haben + Infinitiv* Diathesis [@NNext], see [@sec:infinitive-haben].
 
 :::ex
-a.  Meine Wohnung brengt.
+a.  Meine Wohnung brennt.
 b.  Ich habe die Wohnung am Brennen.
 :::
 
@@ -1011,7 +1011,7 @@ There is a further diathesis with a role-remapping between adjunct and object, n
 #### Addition & drop {.unnumbered}
 
 - **ADDITION**
-- **RESULTATIVE: Addtion of a new causee as a non-nominative argument.** The typical characteristic of a resultative is the addition of a new causee. Instead of simply expressing the content of a predicate as the action/state of the clause, a resultative diatheses expressed that something is caused by performing the predicate. Note that the term "resultative" is used by [@nedjalkov1988a] with a different meaning (viz. a special kind of anticausative)
+- **RESULTATIVE: Addition of a new causee as a non-nominative argument.** The typical characteristic of a resultative is the addition of a new causee. Instead of simply expressing the content of a predicate as the action/state of the clause, a resultative diatheses expressed that something is caused by performing the predicate. Note that the term "resultative" is used by [@nedjalkov1988a] with a different meaning (viz. a special kind of anticausative)
 
 - **DROP** "deobjective" [@haspelmath2004c: 1131]
 - **ANTIRESULTATIVE**
@@ -1039,7 +1039,7 @@ a.  Ich bewundere seine Ehrlichkeit.
 b.  Ich bewundere die Ehrlichkeit bei ihm.
 :::
 
-### Chained object diathese
+### Chained object diathesis
 
 Combinations of isolated diatheses
 
