@@ -23,7 +23,8 @@ input-files:
 
 filters:
 - filters/setdate.lua
-- filters/smallcaps.lua
+- filters/strikeout-to-smallcaps.lua
+- filters/count-para.lua
 - pandoc-crossref
 - filters/pandoc-ling.lua
 - citeproc

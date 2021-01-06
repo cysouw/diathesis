@@ -41,24 +41,28 @@ A diathesis is defined here as special kind of alternation between two different
 
 An ~~alternation~~ (or simply 'grammatical marking') is defined as follows:
 
-- An alternation consist of two different linguistic constructions, i.e. there are two **alternants**.
+- An alternation consist of two different linguistic constructions, i.e. there are two alternants.
 - The lexical root does not change in the alternation, i.e. there is some linguistic material in both alternants that remains the same.
 - The difference between these alternants is overtly indicated by the presence of some grammatical linguistic elements.
-- Typically, the overt marking introduces a **direction** into the alternation, i.e. one alternant consists of less/shorter/zero linguistic elements ('less marked') and one consists of more/longer/overt linguistic material ('more marked').
-- In some cases, the direction of the alternation remains undecidable, i.e. the alternation is **equipollent**.
+- Typically, the overt marking introduces a direction into the alternation, i.e. one alternant consists of less/shorter/zero linguistic elements ('less marked') and one consists of more/longer/overt linguistic material ('more marked').
+- In some cases, the direction of the alternation remains undecidable, i.e. the alternation is equipollent.
 
-Alternations are the basis of all grammatical analysis. It includes for example (i) morphological oppositions like singular *Haus* 'house' vs. plural *Häuser* 'houses'; (ii) different grammatical forms like synthetic present *er schläft* 'he sleeps' vs. analytic perfect *er hat geschlafen* 'he has slept'; or (iii) different sentence constructions attested with specific verbs, like transitive *Ich verkaufe das Buch* 'I sell the book' vs. reflexive anticausative with obligatory adverbial *Das Buch verkauft sich gut* 'the book is selling well' (see [@sec:adverbial-reflexive-transitive-anticausative]).
+Alternations are the basis of all grammatical analysis. It includes for example:
+
+i. morphological oppositions, like singular *Haus* 'house' vs. plural *Häuser* 'houses'.
+ii. oppositions of grammatical forms, like synthetic present *er schläft* 'he sleeps' vs. analytic perfect *er hat geschlafen* 'he has slept' 
+iii. different sentence constructions attested with specific verbs, like transitive *Ich verkaufe das Buch* 'I sell the book' vs. reflexive anticausative with obligatory adverbial *Das Buch verkauft sich gut* 'the book is selling well' (see [@sec:adverbial-reflexive-transitive-anticausative]).
 
 #### Clause alternation {.unnumbered}
 
 Based on the definition of an alternation, a ~~clause alternation~~ is defined as follows:
 
-- In a clause alternation **both alternants are monoclausal**, i.e. both alternants contain a single main predicate. For German, the definitional property of monoclausality will be a phenomenon called 'coherence'.
-- In both alternants, the **main predicate consists of the same lexeme**, i.e both contain the same verb.
-- The **meaning of the lexical verb does not (substantially) change** between the alternants. 
-- The **meaning/function of the whole clause changes** between the alternants. This functional difference is the whole point of having a clause alternation in the first place.
-- The **lexical roles of the verb do not change** between the alternants. Lexical roles are an inherent part of the meaning of a verb and alternations do not change them. Note, however, that there might be new roles introduced or some roles might be left unexpressed.
-- A specific clause alternation is only applicable to a restricted set of verbs. The list of applicable verbs constitutes the **domain of application** of the alternation. Any semantic/syntactic characterisation of these applicable verbs should be seen as a summary of the domain of application, not its definition.
+- In a clause alternation both alternants are monoclausal, i.e. both alternants contain a single main predicate. For German, the definitional property of monoclausality will be a phenomenon called 'coherence'.
+- In both alternants, the main predicate consists of the same lexeme, i.e both contain the same verb.
+- The meaning of the lexical verb does not (substantially) change between the alternants. 
+- The meaning/function of the whole clause changes between the alternants. This functional difference is the whole point of having a clause alternation in the first place.
+- The lexical roles of the verb do not change between the alternants. Lexical roles are an inherent part of the meaning of a verb and alternations do not change them. Note, however, that there might be new roles introduced or some roles might be left unexpressed.
+- A specific clause alternation is only applicable to a restricted set of verbs. The list of applicable verbs constitutes the domain of application of the alternation. Any semantic/syntactic characterisation of these applicable verbs should be seen as a summary of the domain of application, not its definition.
 
 Clause alternations are widespread when auxiliaries are introduced, like modal *müssen* 'have to' [@Next a], see [@sec:infinitive-mussen]. Moreover, clause alternation are attested with many different kind of marking, like the verb particle *auf* marking completeness of the action [@Next b], see [@sec:prepositions-accusative-antipassive], or the somewhat mysterious 'free' reflexive *sich* with verbs like *ansehen* 'look at' [@Next c], see [@sec:reflexive-free-dative-sich-accusative]. Arguably, the special word order in German subordinate clauses (viz. the finite verb occurs clause-final) can also be considered to be a clause alternation.
 
@@ -73,11 +77,11 @@ d.  Er erledigt seine Hausaufgaben. Ich hoffe, dass er seine Hausaufgaben erledi
 
 Based on the notion of a clause alternation, a ~~diathesis~~ (sometimes also known as 'valency alternation') is defined as follows:
 
-- A diathesis is a clause alternation in which at least one of the lexical roles is overtly marked differently between the clausal alternants, i.e. **at least one of the roles is remapped to a different grammatical expression** (i.e. there is a role-marking alternation).
-- Remapped roles do not substantially change their meaning, i.e. **'who does what to whom' does not change**.
-- The details of the relation between the main predicate and the remapped roles can (and normally will) change. There will be **changes in meaning**, e.g. aspects like the role's influence on the action or its affectedness by the predicate might change.
-- As an extreme case, the reframing of a role might consist in the **addition** of a completely new role or in the **complete removal** of an existing role.
-- As is true for all alternations, a diathesis has a **direction** from a formally 'less marked' to a 'more marked' alternant. However, in some special instances a diathesis can show no other overt marking than the change in marking of the reframed roles itself. This will be called a **covert diathesis** (or equipollent/bare diathesis).
+- A diathesis is a clause alternation in which at least one of the lexical roles is overtly marked differently between the clausal alternants, i.e. at least one of the roles is remapped to a different grammatical expression (i.e. there is a role-marking alternation).
+- Remapped roles do not substantially change their meaning, i.e. 'who does what to whom' does not change.
+- The details of the relation between the main predicate and the remapped roles can (and normally will) change. There will be changes in meaning, e.g. aspects like the role's influence on the action or its affectedness by the predicate might change.
+- As an extreme case, the reframing of a role might consist in the addition of a completely new role or in the complete removal of an existing role.
+- As is true for all alternations, a diathesis has a direction from a formally 'less marked' to a 'more marked' alternant. However, in some special instances a diathesis can show no other overt marking than the change in marking of the reframed roles itself. This will be called a covert diathesis (or equipollent, or bare diathesis).
 - As a practical restriction, I will only consider diatheses in which one alternant is a clauses with a single finite verb ('active').
 
 The prototypical example of a diathesis is the *werden + Partizip* passive [@Next a], see [@sec:participles-werden-passive]. In both clause alternants the same state of affairs is described, but the marking of the participants is different. However, the diversity of diatheses in German is enormous as this book attempts to show. There are, for example, bare diatheses (i.e. diatheses without any marking on the verb) like the infamous anticausative in [@Next b], see [@sec:case-haben-anticausative], or antipassives marked with a reflexive pronoun as shown in [@Next c], see [@sec:reflexive-accusative-antipassive].

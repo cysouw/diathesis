@@ -80,11 +80,14 @@ function addFormatting (meta)
     local css = [[ 
       <style>
       .linguistic-example { 
-        margin: 0; 
+				margin: 0; 
       }
       .linguistic-example caption { 
         margin-bottom: 0; 
-      }
+			}
+			.linguistic-example-number {
+				padding-left: 0;
+			}
       .linguistic-example tbody { 
         border-top: none; 
         border-bottom: none; 
