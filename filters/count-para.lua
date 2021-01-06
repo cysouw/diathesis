@@ -23,65 +23,65 @@ chapter = 0
 
 function countPara (doc)
 
-	for i=1,#doc.blocks do
+  for i=1,#doc.blocks do
 
-		if  doc.blocks[i].tag == "Header" and 
-				doc.blocks[i].level == 1 and
-				doc.blocks[i].classes[1] ~= "unnumbered"
-			then
-				chapter = chapter + 1
-				count = 0
-		elseif doc.blocks[i].tag == "Para" then
-			count = count + 1		
-			doc.blocks[i] = pandoc.Div( doc.blocks[i], 
-							pandoc.Attr(chapter.."."..count, {"paragraph-count"}))
-		end
+    if  doc.blocks[i].tag == "Header" and 
+        doc.blocks[i].level == 1 and
+        doc.blocks[i].classes[1] ~= "unnumbered"
+      then
+        chapter = chapter + 1
+        count = 0
+    elseif doc.blocks[i].tag == "Para" then
+      count = count + 1		
+      doc.blocks[i] = pandoc.Div( doc.blocks[i], 
+              pandoc.Attr(chapter.."."..count, {"paragraph-count"}))
+    end
 
-	end
-	return doc
+  end
+  return doc
 end
 
 function formatNumber (div)
 
-	if FORMAT:match "html" then
-		if div.classes[1] == "paragraph-count" then
-			local string = "["..div.identifier.."]"
-			local number = pandoc.Superscript(string)
-			--for i=1,3 do
-				table.insert(div.content[1].content, 1, pandoc.Space())
-			--end
-			table.insert(div.content[1].content, 1, number)
-			local points = string.len(div.identifier)*5 + 10
-			div.attributes = {style = "text-indent: -"..points.."px;"}
-		end
-	end
-	
-	return(div)
+  if FORMAT:match "html" then
+    if div.classes[1] == "paragraph-count" then
+      local string = "["..div.identifier.."]"
+      local number = pandoc.Superscript(string)
+      --for i=1,3 do
+        table.insert(div.content[1].content, 1, pandoc.Space())
+      --end
+      table.insert(div.content[1].content, 1, number)
+      local points = string.len(div.identifier)*5 + 10
+      div.attributes = {style = "text-indent: -"..points.."px;"}
+    end
+  end
+  
+  return(div)
 end
 
 function addGlobalFormatting (meta)
 
-	local tmp = meta['header-includes'] or 
-							pandoc.MetaList{meta['header-includes']}
+  local tmp = meta['header-includes'] or 
+              pandoc.MetaList{meta['header-includes']}
   
-	if FORMAT:match "html" then
+  if FORMAT:match "html" then
     local css = [[ 
     <style>
     .paragraph-count sup { 
-			color: grey;
-			font-size: x-small;
-		}
-		</style>
-		]]
-		tmp[#tmp+1] = pandoc.MetaBlocks(pandoc.RawBlock("html", css))
-		meta['header-includes'] = tmp
-	end
+      color: grey;
+      font-size: x-small;
+    }
+    </style>
+    ]]
+    tmp[#tmp+1] = pandoc.MetaBlocks(pandoc.RawBlock("html", css))
+    meta['header-includes'] = tmp
+  end
 
-	return(meta)
+  return(meta)
 end
 
 return {
-	{ Pandoc = countPara },
-	{ Div = formatNumber },
-	{ Meta = addGlobalFormatting }
+  { Pandoc = countPara },
+  { Div = formatNumber },
+  { Meta = addGlobalFormatting }
 }

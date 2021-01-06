@@ -13,7 +13,8 @@ The following Pandoc filters are used to assist the preparation of this manuscri
 - [`pandoc-crossref`](https://github.com/lierdakil/pandoc-crossref) for cross-reference to sections, figures and tables.
 - [`citeproc`](https://github.com/jgm/citeproc) for citation and bibliography.
 - [`count-para`](/filters/count-para.lua) to add numbers to text paragraphs. This becomes important as scientific writing has to move away from a page-based citation mechanism. As this book shows, it is now technically feasible to publish in many formats in parallel, and adaptive design makes page-numbering obsolete.
-- `strikeout-to-smallcaps` to use ~~strikeout~~ to indicate small caps (I never user strikeout, but often use small caps).
--  `setdata` to add the current date
+- [`strikeout-to-smallcaps`](/filters/strikeout-to-smallcaps.lua) to use ~~strikeout~~ to indicate small caps (I never user strikeout, but often use small caps).
+-  [`setdata`](filters/setdate.lua) to add the current date
+-  
   
 
