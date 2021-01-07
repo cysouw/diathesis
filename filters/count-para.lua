@@ -1,7 +1,7 @@
 --[[
 
 Make all 'regular' paragraphs into a div and assign a numeric ID
-For HTML, format this number in the left margin
+Format this number in the left margin
 
 Copyright © 2021 Michael Cysouw <cysouw@mac.com>
 
@@ -21,56 +21,26 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 count = 0
 chapter = 0
 
-function countPara (doc)
+------------------------------------
+-- User Settings with default values
+------------------------------------
 
-  for i=1,#doc.blocks do
+resetAtSection = false
 
-    if  doc.blocks[i].tag == "Header" and 
-        doc.blocks[i].level == 1 and
-        doc.blocks[i].classes[1] ~= "unnumbered"
-      then
-        chapter = chapter + 1
-        count = 0
-    elseif doc.blocks[i].tag == "Para" then
-      if doc.blocks[i].content[1].tag ~= "Image" then
-      count = count + 1		
-      doc.blocks[i] = pandoc.Div( doc.blocks[i], 
-              pandoc.Attr(chapter.."."..count, {"paragraph-count"}))
-      end
-    end
-
-  end
-  return doc
-end
-
-function formatNumber (div)
-  
-  if div.classes[1] == "paragraph-count" then
-    local string = "["..div.identifier.."]"
-    
-    if FORMAT:match "html" then
-      local number = pandoc.Superscript(string)
-      local points = string.len(div.identifier)*5 + 10
-      table.insert(div.content[1].content, 1, pandoc.Space())
-      table.insert(div.content[1].content, 1, number)
-      div.attributes = {style = "text-indent: -"..points.."px;"}
-      return(div)
-    end
-
-    if FORMAT:match "latex" then
-      --local number = pandoc.utils.stringify(number)
-      local texInsert = "\\marginnote{\\color{lightgray}\\tiny\\textsuperscript{"..string.."}}"
-      table.insert(div.content[1].content, 1, pandoc.RawInline("tex", texInsert))
-      return(div.content[1])
-    end
-
+function getUserSettings (meta)
+  if meta.resetAtSection ~= nil then
+    resetAtSection = meta.resetAtSection
   end
 end
+
+------------------------
+-- Add global formatting
+------------------------
 
 function addGlobalFormatting (meta)
 
-  local tmp = meta['header-includes'] or 
-              pandoc.MetaList{meta['header-includes']}
+  local tmp = meta['header-includes']
+              or pandoc.MetaList{meta['header-includes']}
   
   if FORMAT:match "html" then
     local css = [[ 
@@ -84,18 +54,103 @@ function addGlobalFormatting (meta)
     tmp[#tmp+1] = pandoc.MetaBlocks(pandoc.RawBlock("html", css))
   end
   
+  function addTexPreamble (tex)
+    tmp[#tmp+1] = pandoc.MetaBlocks(pandoc.RawBlock("tex", tex))
+  end
+
   if FORMAT:match "latex" then
-    tmp[#tmp+1] = pandoc.MetaBlocks(pandoc.RawBlock("tex", "\\usepackage{geometry}"))
-    tmp[#tmp+1] = pandoc.MetaBlocks(pandoc.RawBlock("tex", "\\usepackage{marginnote}"))
-    tmp[#tmp+1] = pandoc.MetaBlocks(pandoc.RawBlock("tex", "\\reversemarginpar"))
+    addTexPreamble("\\usepackage{geometry}")
+    addTexPreamble("\\usepackage{marginnote}")
+    addTexPreamble("\\reversemarginpar")
   end
   
   meta['header-includes'] = tmp
   return(meta)
 end
 
+-------------------------
+-- count Para and add Div
+-------------------------
+
+function countPara (doc)
+
+  for i=1,#doc.blocks do
+
+    -- optionally reset counter
+    if  doc.blocks[i].tag == "Header"
+        and doc.blocks[i].level == 1
+        and doc.blocks[i].classes[1] ~= "unnumbered" 
+        and resetAtSection
+    then
+        chapter = chapter + 1
+        count = 0
+    end
+
+    -- count Para, but not if there is an Image inside
+    if  doc.blocks[i].tag == "Para"
+        and doc.blocks[i].content[1].tag ~= "Image"
+    then
+      count = count + 1	
+
+      local ID = count
+      if resetAtSection then 
+        ID = chapter.."."..count 
+      end
+
+      -- add Div with class to Para	
+      doc.blocks[i] = pandoc.Div( doc.blocks[i], 
+          pandoc.Attr(ID, {"paragraph-count"}))
+    end
+
+  end
+  return doc
+end
+
+------------------------------
+-- format for Latex and HTML using attributes
+-- for other formats, use HTML
+------------------------------
+
+function formatNumber (div)
+  
+  -- only do this for Divs of the right class
+  if div.classes[1] == "paragraph-count" then
+    local string = "["..div.identifier.."]"
+
+    if FORMAT:match "latex" then
+      -- use marginnote for formatting number in margin
+      local texInsert = pandoc.RawInline("tex", 
+                          "\\marginnote{ \
+                              \\color{lightgray} \
+                              \\tiny \
+                              \\textsuperscript{"..string.."} \
+                          }" )
+      table.insert(div.content[1].content, 1, texInsert)
+
+    else
+      
+      -- format number at start of Para
+      local number = pandoc.Superscript(string)
+      table.insert(div.content[1].content, 1, pandoc.Space())
+      table.insert(div.content[1].content, 1, number)
+      
+      -- rough approximation for negative text indent
+      local points = string.len(div.identifier)*5 + 10
+      div.attributes = {style = "text-indent: -"..points.."px;"}
+      end
+    
+  end
+  return(div)
+  --return(div.content[1])
+end
+
+--------------------
+-- basic Pandoc loop
+--------------------
+
 return {
+  { Meta = addGlobalFormatting },
+  { Meta = getUserSettings },
   { Pandoc = countPara },
-  { Div = formatNumber },
-  { Meta = addGlobalFormatting }
+  { Div = formatNumber }
 }

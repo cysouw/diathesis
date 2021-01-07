@@ -32,6 +32,10 @@ xrefSuffixSep: " "
 latexPackage: linguex
 formatGloss: true
 
+# count-para settings
+
+resetAtSection: true
+
 # citeproc settings
 
 bibliography: /Users/cysouw/Documents/Bibdesk/michaellibrary.bib
