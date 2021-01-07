@@ -8,6 +8,7 @@ author: Michael Cysouw
 mainfont: Libertinus Serif
 top-level-division: chapter
 toc-title: Table of Contents
+lang: en-GB # important for hyphenation
 
 # pandoc-crossref settings
 
@@ -27,8 +28,9 @@ linkReferences: true
 # pandoc-ling settings
 
 addChapterNumber: true
-xrefSuffixSep: " "
+xrefSuffixSep: " "
 latexPackage: linguex
+formatGloss: true
 
 # citeproc settings
 
@@ -45,12 +47,10 @@ papersize: a4
 indent: true
 
 header-includes:
-# Fallback font does not work in XeLateX, so all font problems have to be specified manually, e.g. like this
-# - \newfontfamily{\greek}{Times New Roman}
-# Page layout
+# Page layout for Latex
 - \usepackage[margin=4cm]{geometry}
 - \usepackage{float}
 - \floatplacement{figure}{htb} # remove latex "p" option: don't let figures take over the whole page. Default pandoc to latex uses [htbp]
-# TOC specificifaction
+# TOC specificifaction for Latex
 - \usepackage{tocloft}
 - \renewcommand{\cftsubsecfont}{\scriptsize} # small subsection in TOC

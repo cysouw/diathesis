@@ -32,9 +32,11 @@ function countPara (doc)
         chapter = chapter + 1
         count = 0
     elseif doc.blocks[i].tag == "Para" then
+      if doc.blocks[i].content[1].tag ~= "Image" then
       count = count + 1		
       doc.blocks[i] = pandoc.Div( doc.blocks[i], 
               pandoc.Attr(chapter.."."..count, {"paragraph-count"}))
+      end
     end
 
   end
@@ -42,21 +44,27 @@ function countPara (doc)
 end
 
 function formatNumber (div)
-
-  if FORMAT:match "html" then
-    if div.classes[1] == "paragraph-count" then
-      local string = "["..div.identifier.."]"
-      local number = pandoc.Superscript(string)
-      --for i=1,3 do
-        table.insert(div.content[1].content, 1, pandoc.Space())
-      --end
-      table.insert(div.content[1].content, 1, number)
-      local points = string.len(div.identifier)*5 + 10
-      div.attributes = {style = "text-indent: -"..points.."px;"}
-    end
-  end
   
-  return(div)
+  if div.classes[1] == "paragraph-count" then
+    local string = "["..div.identifier.."]"
+    
+    if FORMAT:match "html" then
+      local number = pandoc.Superscript(string)
+      local points = string.len(div.identifier)*5 + 10
+      table.insert(div.content[1].content, 1, pandoc.Space())
+      table.insert(div.content[1].content, 1, number)
+      div.attributes = {style = "text-indent: -"..points.."px;"}
+      return(div)
+    end
+
+    if FORMAT:match "latex" then
+      --local number = pandoc.utils.stringify(number)
+      local texInsert = "\\marginnote{\\color{lightgray}\\tiny\\textsuperscript{"..string.."}}"
+      table.insert(div.content[1].content, 1, pandoc.RawInline("tex", texInsert))
+      return(div.content[1])
+    end
+
+  end
 end
 
 function addGlobalFormatting (meta)
@@ -74,9 +82,15 @@ function addGlobalFormatting (meta)
     </style>
     ]]
     tmp[#tmp+1] = pandoc.MetaBlocks(pandoc.RawBlock("html", css))
-    meta['header-includes'] = tmp
   end
-
+  
+  if FORMAT:match "latex" then
+    tmp[#tmp+1] = pandoc.MetaBlocks(pandoc.RawBlock("tex", "\\usepackage{geometry}"))
+    tmp[#tmp+1] = pandoc.MetaBlocks(pandoc.RawBlock("tex", "\\usepackage{marginnote}"))
+    tmp[#tmp+1] = pandoc.MetaBlocks(pandoc.RawBlock("tex", "\\reversemarginpar"))
+  end
+  
+  meta['header-includes'] = tmp
   return(meta)
 end
 
