@@ -25,11 +25,11 @@ chapter = 0
 -- User Settings with default values
 ------------------------------------
 
-resetAtSection = false
+resetAtChapter = false
 
 function getUserSettings (meta)
-  if meta.resetAtSection ~= nil then
-    resetAtSection = meta.resetAtSection
+  if meta.resetAtChapter ~= nil then
+    resetAtChapter = meta.resetAtChapter
   end
 end
 
@@ -45,7 +45,7 @@ function addGlobalFormatting (meta)
   if FORMAT:match "html" then
     local css = [[ 
     <style>
-    .paragraph-count sup { 
+    .paragraph-number sup { 
       color: grey;
       font-size: x-small;
     }
@@ -80,7 +80,7 @@ function countPara (doc)
     if  doc.blocks[i].tag == "Header"
         and doc.blocks[i].level == 1
         and doc.blocks[i].classes[1] ~= "unnumbered" 
-        and resetAtSection
+        and resetAtChapter
     then
         chapter = chapter + 1
         count = 0
@@ -93,13 +93,13 @@ function countPara (doc)
       count = count + 1	
 
       local ID = count
-      if resetAtSection then 
+      if resetAtChapter then 
         ID = chapter.."."..count 
       end
 
       -- add Div with class to Para	
       doc.blocks[i] = pandoc.Div( doc.blocks[i], 
-          pandoc.Attr(ID, {"paragraph-count"}))
+          pandoc.Attr(ID, {"paragraph-number"}))
     end
 
   end
@@ -114,7 +114,7 @@ end
 function formatNumber (div)
   
   -- only do this for Divs of the right class
-  if div.classes[1] == "paragraph-count" then
+  if div.classes[1] == "paragraph-number" then
     local string = "["..div.identifier.."]"
 
     if FORMAT:match "latex" then

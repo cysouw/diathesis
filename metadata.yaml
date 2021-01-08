@@ -34,7 +34,7 @@ formatGloss: true
 
 # count-para settings
 
-resetAtSection: true
+resetAtChapter: true
 
 # citeproc settings
 
