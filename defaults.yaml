@@ -1,10 +1,10 @@
 # pandoc 'defaults'
 
 from: markdown
-to: docx
+to: html
 pdf-engine: xelatex
 
-output-file: cysouwDiathesisManuscript.docx
+output-file: cysouwDiathesisManuscript.html
 input-files:
 - text/c00_preface.md
 - text/c01_introduction.md
