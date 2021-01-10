@@ -971,7 +971,7 @@ a.  Sie steigt auf den Berg.
 b.  Sie besteigt den Berg.
 :::
 
-Antipassives in German are typically unmarked (see further below), but an example of an antipassive with a clear direction is the alternation between *treffen* 'to meet' and reflexive *sich treffen mit* 'to meet with [@nnext], see [@sec:reflexive-mit-antipassive].
+Antipassives in German are often unmarked (see further below), but an example of an antipassive with a clear direction is the alternation between *treffen* 'to meet' and reflexive *sich treffen mit* 'to meet with [@nnext], see [@sec:reflexive-mit-antipassive].
 
 ::: ex
 a.  Ich treffe dich.
@@ -1002,58 +1002,107 @@ a.  Ich beklage den Lärm.
 b.  Ich beklage mich über den Lärm.
 :::
 
-There are a many diatheses with a role-remapping between adjunct and object that do not have any overt indication of a direction. Without explicit marking it is difficult to decide whether such diatheses are cases of ~~[ADJ > OBJ]~~ promotion (applicative) or ~~[OBJ > ADJ]~~ demotion (antipassive). For the sake of organisation in this book I classify such covert alternations on the basis of (debatable) semantic intuitions.
+There are a many diatheses with a role-remapping between adjunct and object that do not have any overt indication of a direction. Without explicit marking it is difficult to decide whether such diatheses are cases of (applicative) promotion ~~[ADJ > OBJ]~~ or (antipassive) demotion ~~[OBJ > ADJ]~~. For the sake of organisation in this book I classify such covert alternations on the basis of (debatable) semantic intuitions.
 
-Most covert diatheses with an alternation between prepositional phrases and case-marked arguments are classified here as ~~antipassive~~, like in the alternation between *schießen auf* 'to aim at' and *schießen* 'to shoot' [@next], see [@sec:prepositions-accusative-antipassive]. This is also widespread with datives, see [@sec:prepositions-dative-antipassive-accusative]. In such examples I judge the case-marking to be more basic than the prepositional phrase. In contrast, there is a widespread alternation between datives and *für* prepositional phrases [@next], that I classify as an ~~applicative~~, see [@sec:prepositions-benefactive-dative]. In this example the dative seems to be the derived construction.
+Most covert diatheses with an alternation between prepositional phrases and case-marked arguments are classified here as ~~antipassive~~, like in the alternation between *schießen auf* 'to aim at' and *schießen* 'to shoot' [@next a,b], see [@sec:prepositions-accusative-antipassive]. This is also widespread with datives [@next c,d], see [@sec:prepositions-dative-antipassive-accusative]. In such examples, I judge the case-marking to be more basic than the prepositional phrase. In contrast, there is a widespread alternation between datives and *für* prepositional phrases [@next], that I classify as an ~~applicative~~, see [@sec:prepositions-benefactive-dative]. In this example the dative seems to be the derived construction.
 
 ::: ex
-~~Antipassive [OBJ > ADJ]~~
+Antipassive ~~[OBJ > ADJ]~~
 
 a.  Ich schieße den Bären.
 b.  Ich schieße auf den Bären.
+c.  Ich schreibe dir einen Brief.
+d.  Ich schreibe einen Brief an dich.
 :::
 
 ::: ex
-~~Applicative [ADJ > OBJ]~~
+Applicative (benefactor raising) ~~[ADJ > OBJ]~~
 
 a. Er kocht eine Suppe für mich.
 b. Er kocht mir eine Suppe.
 :::
 
-There is a further kind of covert diathesis with a dative object conventially called ~~possessor raising~~. In such diatheses there is an altenation between a possessor (typically expressed as an adnominal genitive) and a dative [@next]. The dative can alternate with the possessor of a nominative subject (see [@sec:case-possessor-of-nominative-to-dative-experiencer]), an accusative object (see [@sec:case-possessor-accusative-to-dative]) or a location (see [@sec:prepositions-possessor-of-location-to-dative-experiencer]). Following convention, I classify these diatheses as promotion ~~[ADJ > OBJ]~~
+There is a further kind of covert diathesis with a dative object, conventially called ~~possessor raising~~. In such diatheses there is an altenation between a possessor (typically expressed as an adnominal genitive) and a dative [@next]. The dative can alternate with the possessor of a nominative subject (see [@sec:case-possessor-of-nominative-to-dative-experiencer]), an accusative object (see [@sec:case-possessor-accusative-to-dative]) or a location (see [@sec:prepositions-possessor-of-location-to-dative-experiencer]). Following convention, I classify these diatheses as promotion ~~[ADJ > OBJ]~~
 
 ::: ex
+Applicative (possessor raising) ~~[ADJ > OBJ]~~
+
 a. Er schneidet meine Haare.
 b. Er schneidet mir die Haare.
 :::
 
-Semantically and structurally, the two covert kinds of ~~dative applicative~~ are rather different. The datives that show a possessive alternation [@last] are semantically experiencers. This is quite different from datives that alternate with *für* prepositional phrases [@llast], which are semantically benefactors.
+These two covert kinds of dative applicative are semantically and structurally clearly distinct. The datives that show a possessive alternation [@last] are semantically experiencers. In contrast, datives that alternate with *für* prepositional phrases [@llast] are semantically benefactors. In especicially crafted context it is possible to evoke either reading for the same sentence, [@next].
+
+::: ex
+a.  Ich schneide dir in den (meinen) Finger. (= Ich schneide dir zuliebe in meinen Finger.)
+b.  Ich schneide dir in den (deinen) Finger. (= Ich schneide in deinen Finger.)
+:::
 
 #### Addition & drop {.unnumbered}
 
-- **ADDITION**
-- **RESULTATIVE: Addition of a new causee as a non-nominative argument.** The typical characteristic of a resultative is the addition of a new causee. Instead of simply expressing the content of a predicate as the action/state of the clause, a resultative diatheses expressed that something is caused by performing the predicate. Note that the term "resultative" is used by [@nedjalkov1988a] with a different meaning (viz. a special kind of anticausative)
+An ~~object addition [Ø > OBJ]~~ is a diathesis that adds a new object, i.e. a completely new role is introduced in the form of an object. An example of an overtly marked object addition is the alternation from *zaubern* 'to perform magic' to  *verzaubern* 'to enchant' [@next]. Additions are frequently attested with preverbs like *ver-*, see [@sec:preverb-accusative-addition].
 
-- **DROP** "deobjective" [@haspelmath2004c: 1131]
-- **ANTIRESULTATIVE**
+::: ex
+a.  Sie zaubert.
+b.  Sie verzaubert mich.
+:::
+
+An ~~object drop [OBJ > Ø]~~ is a diathesis that drops an object, i.e. a role cannot be expressed anymore [cf. "deobjective" in @haspelmath2004c: 1131]. An object drop is illustrated in [@next] with an alternation from *schenken* 'to gift' to *verschenken* 'to give away'. Interestingly, this example is again marked on the verb by the preverb *ver-*, see [@sec:preverb-dative-drop].
+
+::: ex
+a.  Ich schenke dir meine Bücher.
+b.  Ich verschenke meine Bücher.
+:::
+
+Object drop and addition are frequently attested without any overt marking (cf. ambitransitive/labile verbs), and in such 'covert' diatheses it is difficult to establish a direction. As already noted in the previous section, for the sake of organisation in this book I classify such covert alternations on the basis of (debatable) semantic intuitions. For example, the verb *stören* 'to disturb' [@next] can be used both with and without an accusative object, see [@sec:case-accusative-drop]. This is classified here as an object drop diathesis. Such unmarked drops are also attested with datives, see [@sec:case-dative-drop], and with governed prepositions, see [@sec:prepositions-demotion-of-object].
+
+::: ex
+a.  Du störst die Veranstaltung.
+b.  Du störst.
+:::
+
+A semantically special subgroup of object additions are ~~resultatives~~. A resultative diatheses adds an object that is the result of performing the predicate.^[Confusingly, the term "resultative" is also used in the literature with an aspectual meaning, namely to indicate a special kind of state induced as the result of perfoming the predicate [e.g. @nedjalkov1988a].] An overtly marked resultative is illustrated in [@next] with the diathesis between *arbeiten* 'to work' and the inherent reflexive *sich etwas erarbeiten* 'to acquire something through work', see [@sec:preverb-reflexive-resultative]. The result of the work is added as an object in [@next b].
+
+::: ex
+a.  Ich arbeite (und am Ende habe ich dadurch ein Vermögen).
+b.  Ich erarbeite mir ein Vermögen.
+:::
+
+The reversal of a resultative is an ~~antiresultative~~. In such a diathesis the result of performing the predicate is removed. This result is expressed as an object, so an antiresultative is a special kind of an object drop. An example of such a diathesis is shown in [@next] with the alterntion between *stecken* 'to put into' and *verstecken* 'to hide'. The verb *stecken* needs an obligatory location [@next a,b]. Such an obligatory location is classified here as a prepositional object (see [@sec:intro-arguments-utterance-valency]). The situation is different with the verb *verstecken*. With this verb the location is an optional adjunct and can be left out (see [@sec:preverb-transitive-antiresultative] for an extensive discussion).
+
+::: ex
+a.   Ich stecke das Geschenk in den Schrank.
+b.  ^* Ich stecke das Geschenk.
+c.   Ich verstecke das Geschenk in dem Schrank.
+d.   Ich verstecke das Geschenk.
+:::
+
+Resultatives are frequently found without explicit marking. In this case it is semantically clear that the extra resulting object is an extension to the basic lexical meaning of the verb. A few examples are given in [@next] and more dicussion can be found in [@sec:case-accusative-addition; @sec:prepositions-manner-of-movement; @sec:prepositions-transitive-location-as-result; @sec:prepositions-weather-manner-movement; @sec:prepositions-intransitive-location-as-result].
+
+::: ex
+a. Ich laufe nach Hause.
+b. Ich laufe den Marathon.
+a. Ich stampfe auf den Boden.
+b. Ich stampfe mir den Schnee von den Schuhen.
+:::
 
 #### Symmetrical object diatheses {.unnumbered}
 
-Symmetrical object diatheses are rare in German. A ~~case change [OBJ > OBJ]~~ is illustrated by the alternation between *folgen* 'to follow' (with dative) and *verfolgen* 'to chase' (with accusative) [@next], see [@sec:preverb-dative-accusative].
+Symmetrical object diatheses are rare in German. A ~~case change [OBJ > OBJ]~~ is illustrated in [@next] by the alternation between *folgen* 'to follow' (with dative) and *verfolgen* 'to chase' (with accusative), see [@sec:preverb-dative-accusative].
 
 ::: ex
 a.  Ich folge dem Auto.
 b.  Ich verfolge das Auto.
 :::
 
-A ~~governed preposition change [PBJ > PBJ]~~ occurs in a special kind of usage of reflexive pronouns that induces a change in lexical specific prepositions, like *arbeiten an* 'to work on' changing into *sich arbeiten durch* 'to work through' [@next], see [@sec:reflexive-resultative].
+A ~~governed preposition change [PBJ > PBJ]~~ occurs in a special kind of construction with a reflexive pronouns that induces a change in lexical specific prepositions, like *arbeiten an* 'to work on' changing into *sich arbeiten durch* 'to work through' [@next], see [@sec:reflexive-resultative].
 
 ::: ex
 a.  Er arbeitet an den Daten. 
 b.  Er arbeitet sich durch die Daten.
 :::
 
-An ~~adjunct change [ADJ > ADJ]~~ is, according to my definitions, not a diathesis at all, as adjuncts are not lexically specific. However, the change between a possessor and a prepositional phrase as shown in [@next] can be seen as as a borderline examples, see [@sec:prepositions-possessor-to-preposition].
+An ~~adjunct change [ADJ > ADJ]~~ is, according to the definitions, not a diathesis at all, as adjuncts are not lexically specific. However, the change between a possessor and a prepositional phrase as shown in [@next] can be seen as as a borderline examples, see [@sec:prepositions-possessor-to-preposition].
 
 ::: ex
 a.  Ich bewundere seine Ehrlichkeit.

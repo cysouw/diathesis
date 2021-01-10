@@ -782,7 +782,7 @@ b.  Ich betrinke mich (mit Bier).
 
 - Ich helfe dir. Ich behelfe mich.
 
-### [ NDA | N–A ] Preverb dative drop + accusative
+### [ NDA | N–A ] Preverb dative drop + accusative {#sec:preverb-dative-drop}
 
 verbs of sending ?!
 can they dative maybe always be replaced by a preposition? Then merge into dative antipassive
@@ -1138,7 +1138,7 @@ The verb *büßen* 'to pay for something' needs a governed preposition, while *b
 
 ### --- [ Ø > OBJ ] Resultative --- {.unnumbered}
 
-### [ N– | NA ] Preverb reflexive resultative
+### [ N– | NA ] Preverb reflexive resultative {#sec:preverb-reflexive-resultative}
 
 Some intransitive verbs like *tanzen* 'to dance' [@next a] allow for a resultative diathesis *antanzen* 'to achieve something through dancing' [@next b]. The result of the dancing is expressed in the new accusative argument. A special characteristic of this diathesis is that a dative reflexive pronoun is obligatorily present [see also @wunderlich1997: 105-106].
 

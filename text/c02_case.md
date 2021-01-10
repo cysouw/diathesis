@@ -803,7 +803,7 @@ a.  Das Foto hat seine Verwicklung in das Doping-System nahegelegt.
 b.  Der Trainer hat ihm das Doping nahegelegt.
 :::
 
-### [ NAD | N–\hspace{1pt}– ] Dative drop + accusative drop
+### [ NAD | N– – ] Dative drop + accusative drop
 
 Although it is not impossible, it seems to be rather unusual for 'real' ditransitive verbs like *vorlesen* 'to read aloud* [@next a] to allow for either the accusative [@next b] or the dative [@next c] to be dropped.
 

@@ -731,7 +731,7 @@ A similar generalisation can be made for antipassives. If a verb has various cas
 Antipassive hierarchy: dative/genitive > accusative
 :::
 
-Some verbs allow for both a dative and an accusative antipassive. There appears to be recurrent restrictions on the co-occurrence of accusative and dative prepositional alternations, with attested patterns as shown for *schießen* 'to shoot' in [@next a-f] and *schreiben* 'to write' [@next a-f]. The generalisation seem to be (i) that the accusative cannot be demoted into a preposition when there is still a dative around and (ii) dative and accusative can only be both demoted to a preposition if one of the prepositions is *für*.
+Some verbs allow for both a dative and an accusative antipassive. There appears to be recurrent restrictions on the co-occurrence of accusative and dative prepositional alternations, with attested patterns as shown for *schießen* 'to shoot' in [@next a-f] and *schreiben* 'to write' [@next a-f]. The generalisation seem to be (i) that the accusative cannot be demoted into a preposition when there is still a dative around and (ii) dative and accusative can only be both demoted to a preposition if one of the prepositions is *für* (this is a further indication that the *für* diatheses are better analysed as promotions, see [@sec:prepositions-benefactive-dative]).
 
 ::: ex
 a.  Ich schieße dir den Bären. [ NAD ]
@@ -831,7 +831,7 @@ c.  ^* Ich bereite auf die Klausur vor.
 - Ich verlange Gehorsamkeit von dir.
 - Ich erfahre Neuigkeiten über die Versammlung.
 
-### [ NAP | N–\hspace{1pt}– ] Governed preposition drop + accusative drop
+### [ NAP | N– – ] Governed preposition drop + accusative drop
 
 Different from the previous alternation, these verbs allow for both the preposition and the accusative to be dropped [@next a-c].
 
@@ -875,7 +875,7 @@ c.  Ich rate zum Verkauf.
 - Ich berichte/erzähle (dir) über die Angelegenheit.
 - Ich berichte/erzähle (dir) von der Versammlung.
 
-### [ NDP | N–\hspace{1pt}– ] Dative drop + governed preposition drop
+### [ NDP | N– – ] Dative drop + governed preposition drop
 
 Some verbs allow for both the dative and the preposition to be dropped, though mostly not both at the same time [@next]. Also note that the dative appears to be always the possessor of the prepositional phrase, so these diatheses might alternatively be analysed as a stack of two different diatheses, viz. a possessor raising [NP–|NPg|NPD] and a preposition drop [NPD|N–D].
 
@@ -1209,7 +1209,7 @@ It seems to be somewhat unusual for verbs with dative – but no accusative – 
 
 **Notes**
 
-This seems to be always possible with *zu* phrases in the interpretation *für den Geschmack von* Dative (cf. *dativus iudicantis*, Hole 2014: 6-7)).
+This seems to be very widespread with *zu* phrases in the interpretation *für den Geschmack von* Dative (cf. *dativus iudicantis*, Hole 2014: 6-7)).
 
 - Paul fuhr seiner Mutter zu schnell. Paul fuhr zu schnell für den Geschmack von seiner Mutter.
 - Ich komme dir zu früh an. Ich komme zu früh an für deinen Geschmack.
@@ -1415,7 +1415,7 @@ c.  ^* ich bin getanzt.
 - Der Pinguin hat mit dem Kopf gewackelt. Der Pinguin ist durch meine Beine gewackelt.
 - Ich habe gestern geklettert. Ich bin gestern auf den Berg geklettert.
 
-### [ –\hspace{1pt}– | NL ] Weather-like manner of movement {#sec:prepositions-weather-manner-movement}
+### [ – – | NL ] Weather-like manner of movement {#sec:prepositions-weather-manner-movement}
 
 Many weather verbs like *wehen* 'to blow' [@next] allow for a nominative subject that is moving in a weather-like manner, often induced by a weather phenomenon. In such constructions are location seems obligatory.
 
@@ -1445,7 +1445,7 @@ b.  Sie stürmten in den Saal.
 
 In the analysis of resultative constructions, there is a recurrent suggestion in the literature to distinguish between 'cause to go' and 'cause to become' semantics (e.g. [@mcintyre2003: 120]). I will use the designation 'location-as-result' for the former and names like 'action result' or 'performative result' for the latter here.
 
-### [ N–\hspace{1pt}– | NAL ] Intransitive location-as-result {#sec:prepositions-intransitive-location-as-result}
+### [ N– – | NAL ] Intransitive location-as-result {#sec:prepositions-intransitive-location-as-result}
 
 With some apparently intransitive verbs there exist special constructions with an accusative argument and an obligatorily present prepositional phrase. For example, the verb *klopfen* 'to knock' is regularly used as an intransitive [@next a] possibly with an *an* prepositional phrase [@next b]. Accusative arguments are normally not possible, except for a very few special nouns related to music [@next c].
 
@@ -1627,7 +1627,7 @@ b.  Sie schimpft mich einen Narren
 
 ### [ NAp | NAD ] *für* Benefactive raising {#sec:prepositions-benefactive-dative}
 
-The alternation of a dative with a *für* prepositional phrase is very widespread. It can be used with verbs that can be performed on behalve on somebody else "nach deinem Wunsch" (benefactive/dativus commodi) [@next a,b]. In German grammar it is sometimes referred to as a 'free dative' because it can be easily dropped completely. As Eisenberg [-@eisenberg2006a: 298] remarks, it is widespread, but cannot be used with all verbs and is thus a device for the subclassification of verbs.
+The alternation of a dative with a *für* prepositional phrase is very widespread [@next a,b]. It can be used with verbs that can be performed on behalve on somebody else "nach deinem Wunsch" (benefactive/dativus commodi). In German grammar it is sometimes referred to as a 'free dative' because it can be easily dropped completely. As Eisenberg [-@eisenberg2006a: 298] remarks, it is widespread, but cannot be used with all verbs and is thus a device for the subclassification of verbs.
 
 ::: ex
 a.  Ich koche dir eine Suppe.
@@ -1657,7 +1657,7 @@ e.  Gib mir eine Waffe und ich gewinne dir jeden Krieg. ([WWW](http://www.kriegs
 
 - Ich stelle dir einen Pass aus. Ich stelle für dich einen Pass aus.
 - Ich halte dir den Kaffee. Ich halte den Kaffee für dich.
-- Er stimmt mir den Kontrabas. Er stimmt den Kontrabass für mich. (different meaning from *stimmen* 'to vote')
+- Er stimmt mir den Kontrabas. Er stimmt den Kontrabass für mich. (*stimmen* 'to tune', a different meaning from *stimmen* 'to vote' that does not allow this diathesis)
 - Ich töte dir den Hasen. Ich töte den Hasen für dich.
 - Ich garantiere dir den Erfolg. Ich garantiere den Erfolg für dich.
 
