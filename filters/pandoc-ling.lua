@@ -16,6 +16,7 @@ ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 ]]
 
+-- because of new table structure:
 PANDOC_VERSION:must_be_at_least '2.10'
 
 ---------------------
@@ -23,7 +24,7 @@ PANDOC_VERSION:must_be_at_least '2.10'
 ---------------------
 
 local counter = 0 -- actual numbering of examples
-local chapter = 1 -- numbering of chapters (for unknown reasons this starts at 1, not 0)
+local chapter = 0 -- numbering of chapters
 local counterInChapter = 0 -- counter reset for each chapter
 local indexEx = {} -- global lookup for example IDs
 local orderInText = 0 -- order of references for resolving "Next"-style references
@@ -74,6 +75,10 @@ end
 function addFormatting (meta)
   local tmp = meta['header-includes'] or pandoc.MetaList{meta['header-includes']}
   
+  local function add (s)
+    tmp[#tmp+1] = pandoc.MetaBlocks(pandoc.RawBlock("tex", s))
+  end
+
   if FORMAT:match "html" then
     -- add specific CSS for layout of examples
     -- building on classes set in this filter
@@ -113,11 +118,7 @@ function addFormatting (meta)
     meta['header-includes'] = tmp
   end
   
-  if FORMAT:match "latex" then
-    
-    local function add (s)
-      tmp[#tmp+1] = pandoc.MetaBlocks(pandoc.RawBlock("tex", s))
-    end
+  if FORMAT:match "latex" or FORMAT:match "beamer" then
   
     if latexPackage == "linguex" then
       add("\\usepackage{linguex}")
@@ -167,16 +168,28 @@ function addFormatting (meta)
     end
     meta['header-includes'] = tmp
   end
+
+  --if FORMAT:match "beamer" then
+  --  add("\\setlength\\heavyrulewidth{0em}")
+  --  add("\\setlength\\lightrulewidth{0em}")
+  --  meta['header-includes'] = tmp
+  --end
+
   return meta
 end
 
-------------------------------------------
--- add invisible numbering to section
-------------------------------------------
+-------------------------------------------
+-- add temporary divs to first header level
+-------------------------------------------
 
-function addSectionNumbering (doc)
-  local sections = pandoc.utils.make_sections(true, nil, doc.blocks)
-  return pandoc.Pandoc(sections, doc.meta)
+-- will be removed again once the chapters are counted
+function addDivToHeader (head)
+  if  head.tag == "Header" 
+      and head.level == 1 
+      and head.classes[1] ~= "unnumbered"
+  then
+    return pandoc.Div(head, pandoc.Attr(nil, {"restart"}))
+  end
 end
 
 ----------------------------
@@ -185,12 +198,13 @@ end
 
 function processDiv (div)
 
-  -- keep track of chapters (primary sections)
-  if div.classes[1] == "section" then
-    if div.attributes.number ~= nil and string.len(div.attributes.number) == 1 then
-      chapter = chapter + 1
-      counterInChapter = 0
-    end
+  -- keep track of chapters (header == 1)
+  -- included in this loop by trick "addDivToHeader"
+  if div.classes[1] == "restart" then
+    chapter = chapter + 1
+    counterInChapter = 0
+    -- remove div
+    return div.content
   end
 
   -- only do formatting for divs with class "ex"
@@ -218,11 +232,11 @@ function processDiv (div)
 
     -- reformat!
     local example
-    if FORMAT:match "latex" then
+    if FORMAT:match "latex" or FORMAT:match "beamer" then
       example = texMakeExample(parsedDiv)
     else
       example = pandocMakeExample(parsedDiv)
-      example = pandoc.Div(example, pandoc.Attr(parsedDiv.exID) )
+      example = pandoc.Div(example, pandoc.Attr("ex:"..parsedDiv.number) )
     end
 
     -- return to global setting
@@ -252,11 +266,17 @@ function parseDiv (div)
   end
   
   -- make identifier for example
-  -- or keep user-provided identifier
   local exID = ""
   if div.identifier == "" then
-    exID = "ling-ex:"..chapter.."."..counterInChapter
+    if restartAtChapter then
+      -- to resolve clashes with same number used in different chapters
+      exID = "ex:"..chapter.."."..counterInChapter
+    else
+      -- use actual number
+      exID = "ex:"..number
+    end
   else
+      -- or keep user-provided identifier
     exID = div.identifier
   end
   
@@ -1350,8 +1370,8 @@ function uniqueNextrefs (cite)
 
   -- to resolve "Next"-style references give them all an unique ID
   -- make indices to check in which order they occur
-  local nameN = string.match(cite.content[1].text, "([N]+)ext")
-  local nameL = string.match(cite.content[1].text, "([L]+)ast")
+  local nameN = string.match(cite.content[1].text, "([n]+)ext")
+  local nameL = string.match(cite.content[1].text, "([l]+)ast")
   local target = string.match(cite.content[1].text, "@Target")
 
   -- use random ID to make unique
@@ -1379,7 +1399,7 @@ function resolveNextrefs (cite)
   local order = rev_indexRef[id]
 
   local distN = 0
-  local sequenceN = string.match(cite.content[1].text, "([N]+)ext")
+  local sequenceN = string.match(cite.content[1].text, "([n]+)ext")
   if sequenceN ~= nil then distN = string.len(sequenceN) end
   
   if distN > 0 then
@@ -1394,7 +1414,7 @@ function resolveNextrefs (cite)
   end
 
   local distL = 0
-  local sequenceL = string.match(cite.content[1].text, "([L]+)ast")
+  local sequenceL = string.match(cite.content[1].text, "([l]+)ast")
   if sequenceL ~= nil then distL= string.len(sequenceL) end
   
   if distL > 0 then
@@ -1425,25 +1445,28 @@ end
 function makeCrossrefs (cite)
 
   local id = cite.citations[1].id
-  local suffix = ""
 
-  -- only make suffix if there is something there
-  if #cite.citations[1].suffix > 0 then
-    suffix = pandoc.utils.stringify(cite.citations[1].suffix[2])
-    suffix = xrefSuffixSep..suffix
-  end
-
-  -- prevent Latex error when user sets xrefSuffixSep to space or nothing
-  if FORMAT:match "latex" then
-    if xrefSuffixSep == "" or -- empty
-       xrefSuffixSep == " " or -- space
-       xrefSuffixSep == " " then -- non-breaking space
-      xrefSuffixSep = "\\," -- set to thin space
+  -- ignore other "cite" elements
+  if indexEx[id] ~= nil then 
+    
+    -- only make suffix if there is something there
+    local suffix = ""
+    if #cite.citations[1].suffix > 0 then
+      suffix = pandoc.utils.stringify(cite.citations[1].suffix[2])
+      suffix = xrefSuffixSep..suffix
     end
-  end
 
-  -- make the cross-references
-  if indexEx[id] ~= nil then -- ignore other "cite" elements
+    -- prevent Latex error when user sets xrefSuffixSep to space or nothing
+    if FORMAT:match "latex" then
+      if xrefSuffixSep == ""  or -- empty
+        xrefSuffixSep == " " or -- space
+        xrefSuffixSep == " "    -- non-breaking space
+      then
+        xrefSuffixSep = "\\," -- set to thin space
+      end
+    end
+
+    -- make the cross-reference
     if FORMAT:match "latex" then
       if latexPackage == "expex" then
         return pandoc.RawInline("latex", "(\\getref{"..id.."}"..suffix..")")
@@ -1453,6 +1476,7 @@ function makeCrossrefs (cite)
     else	
       return pandoc.Link("("..indexEx[id]..suffix..")", "#"..id)
     end
+
   end
 end
 
@@ -1462,7 +1486,8 @@ end
 
 return {
   -- preparations
-  { Pandoc = addSectionNumbering },
+  --{ Pandoc = addSectionNumbering },
+  { Header = addDivToHeader },
   { Meta = getUserSettings },
   { Meta = addFormatting },
   -- parse examples and rewrite

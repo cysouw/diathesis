@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Under the heading ~~preverb~~ I will subsume here two different constructions, known in German linguistics as ~~verb prefixes~~ [@Next a] and ~~verb particles~~ [@Next b]. These constructions have clearly different syntactic characteristics (see [@sec:preverbs-prefixes-particles]), but from the perspective of valency alternations they appear to function highly similar. For a discussion of term 'preverb' as a cover term for both constructions, see Booij & van Kemenade [-@booij2003b]. 
+Under the heading ~~preverb~~ I will subsume here two different constructions, known in German linguistics as ~~verb prefixes~~ [@next a] and ~~verb particles~~ [@next b]. These constructions have clearly different syntactic characteristics (see [@sec:preverbs-prefixes-particles]), but from the perspective of valency alternations they appear to function highly similar. For a discussion of term 'preverb' as a cover term for both constructions, see Booij & van Kemenade [-@booij2003b]. 
 
 :::ex
 a.  Ich umfahre den Polizisten.
@@ -105,9 +105,9 @@ The central generalisation that can be extracted from the numerous examples in t
 
 First, many verbs that do not have an accusative argument before the diathesis are turned into a verb with an accusative argument by the preverb diathesis:
 
-- With some verbs an accusative argument is added to a verb when it is prefixed. This is for example attested with the diathesis from *schlafen* 'to sleep' to *verschlafen* 'to oversleep' in [@Next a], see [@sec:preverb-accusative-addition].
-- Similarly, another constituent, like a prepositional phrase, can promoted to an accusative argument. This is for example attested with the diathesis from *steigen* 'to move on top' to *besteigen* 'to climb' in [@Next b], see [@sec:preverb-applicative].
-- Alternatively, the diathesis can turn the nominative subject into an accusative argument, combined with the addition of a new causative nominative subject. This is for example attested with the diathesis from *brennen* 'to burn' to *verbrennen* 'to burn something' in [@Next c], see [@sec:preverb-causative].
+- With some verbs an accusative argument is added to a verb when it is prefixed. This is for example attested with the diathesis from *schlafen* 'to sleep' to *verschlafen* 'to oversleep' in [@next a], see [@sec:preverb-accusative-addition].
+- Similarly, another constituent, like a prepositional phrase, can promoted to an accusative argument. This is for example attested with the diathesis from *steigen* 'to move on top' to *besteigen* 'to climb' in [@next b], see [@sec:preverb-applicative].
+- Alternatively, the diathesis can turn the nominative subject into an accusative argument, combined with the addition of a new causative nominative subject. This is for example attested with the diathesis from *brennen* 'to burn' to *verbrennen* 'to burn something' in [@next c], see [@sec:preverb-causative].
 
 :::ex
 a.  Der Student schläft. Der Student verschläft den Vortrag.
@@ -117,9 +117,9 @@ c.  Der Stuhl brennt. Ich verbrenne den Stuhl.
 
 Second, verbs that already have an accusative argument show various different kinds of preverb diathesis. Yet, whatever happens, in almost all examples there is still an accusative argument present after the diathesis:
 
-- When there is already an accusative argument, this argument can be retained while other participants in the sentence are marked differently. This is for example attested with the diathesis from *kaufen* 'to buy' to *verkaufen* 'to sell in [@Next a], see [@sec:preverb-dative-causative].
-- Most frequently, the accusative argument is demoted, and another participant is promoted to accusative. This is for example attested with the diathesis from *hängen* 'to hang' to *behängen* to drape' in [@Next b], see [@sec:preverb-applicative-antipassive].
-- Similarly, with some resultative constructions a prepositional phrase (often a location) can be promoted to an accusative argument while the original accusative cannot be expressed anymore. This is for example attested with the diathesis from *schütten* 'to pour' to *ausschütten* 'to spill' in [@Next c], see [@sec:preverb-location-antiresultative].
+- When there is already an accusative argument, this argument can be retained while other participants in the sentence are marked differently. This is for example attested with the diathesis from *kaufen* 'to buy' to *verkaufen* 'to sell in [@next a], see [@sec:preverb-dative-causative].
+- Most frequently, the accusative argument is demoted, and another participant is promoted to accusative. This is for example attested with the diathesis from *hängen* 'to hang' to *behängen* to drape' in [@next b], see [@sec:preverb-applicative-antipassive].
+- Similarly, with some resultative constructions a prepositional phrase (often a location) can be promoted to an accusative argument while the original accusative cannot be expressed anymore. This is for example attested with the diathesis from *schütten* 'to pour' to *ausschütten* 'to spill' in [@next c], see [@sec:preverb-location-antiresultative].
 
 :::ex
 a.  Ich kaufe das Haus von ihm. Er verkauft mir das Haus.
@@ -129,9 +129,9 @@ c.  Ich schütte das Wasser aus dem Eimer. Ich schütte den Eimer aus.
 
 Third, some verbs appear to be counterexamples to the generalisation of accusative arguments with preverb diathesis because they do not have a full accusative argument after the application of the diathesis. However, they still have an accusative reflexive pronoun as a kind of formal substitute for the accusative. Note that functionally this reflexive pronoun is never coding a 'self-inflicting' reflexive construction, but only substitute for the 'missing' accusative argument.
 
-- Some transitive verbs with an accusative lose the accusative argument after the diathesis, but formally an 'empty' accusative is retained in the form of a reflexive pronoun. This is for example attested with the diathesis from *schreiben* 'to write' to *verschreiben* 'to misspell' in [@Next a], see [@sec:preverb-reflexive-accusative-drop].
-- Some intransitive verbs remain intransitive after the diathesis, but formally an 'empty' accusative is added in the form of a reflexive pronoun. This is for example attested with the diathesis from *arbeiten* 'to work' to *überarbeiten* 'to overwork' in [@Next b], see [@sec:preverb-reflexive].
-- Similarly, some intransitives (typically movement verbs) show even more indications that the prefixed verb with reflexive pronoun is alike to a transitive verb (i.e. 'unaccusative'). This is for example attested with the diathesis from *laufen* 'to walk' to *verlaufen* 'to be lost' in [@Next c], see [@sec:preverb-reflexive-intransitive-antiresultative]. The typical 'unaccusative' characteristics are attested with *verlaufen*, i.e. a perfect auxiliary *haben* and the possibility to be used as a nominal attribute.
+- Some transitive verbs with an accusative lose the accusative argument after the diathesis, but formally an 'empty' accusative is retained in the form of a reflexive pronoun. This is for example attested with the diathesis from *schreiben* 'to write' to *verschreiben* 'to misspell' in [@next a], see [@sec:preverb-reflexive-accusative-drop].
+- Some intransitive verbs remain intransitive after the diathesis, but formally an 'empty' accusative is added in the form of a reflexive pronoun. This is for example attested with the diathesis from *arbeiten* 'to work' to *überarbeiten* 'to overwork' in [@next b], see [@sec:preverb-reflexive].
+- Similarly, some intransitives (typically movement verbs) show even more indications that the prefixed verb with reflexive pronoun is alike to a transitive verb (i.e. 'unaccusative'). This is for example attested with the diathesis from *laufen* 'to walk' to *verlaufen* 'to be lost' in [@next c], see [@sec:preverb-reflexive-intransitive-antiresultative]. The typical 'unaccusative' characteristics are attested with *verlaufen*, i.e. a perfect auxiliary *haben* and the possibility to be used as a nominal attribute.
 
 :::ex
 a.  Er schreibt einen Brief. Er verschreibt sich.
@@ -141,9 +141,9 @@ c.  Der Hund ist nach Hause gelaufen. Der Hund hat sich im Wald verlaufen. Der v
 
 Finally, there are few exceptions to the generalisation that preverb alternations always have an accusative argument:
 
-- A very small group of verbs (± 3 example) appear to lose the accusative argument completely after the preverb diathesis. This is for example attested with the diathesis from *kaufen* 'to buy' to *einkaufen* 'to go shopping' in [@Next a], see [@sec:preverb-accusative-drop].
-- A small group of intransitive verbs (± 7 examples) remains intransitive after a preverb diathesis. This is for example attested with the diathesis from *blühen* 'to blossom' to *verblühen* 'to wither' in [@Next b], see [@sec:preverb-intransitive-with-unaccusative]. However, note that these verbs can be used as a nominal attribute ('unaccusative') after the diathesis.
-- The most frequent exception (± 25 examples) are intransitive verbs that show a prepositional phrase turning into a dative argument with a preverb diathesis. This is for example attested with the diathesis from *jagen* 'to hunt' to *nachjagen* 'to chase' in [@Next c], see [@sec:preverb-dative-applicative].
+- A very small group of verbs (± 3 example) appear to lose the accusative argument completely after the preverb diathesis. This is for example attested with the diathesis from *kaufen* 'to buy' to *einkaufen* 'to go shopping' in [@next a], see [@sec:preverb-accusative-drop].
+- A small group of intransitive verbs (± 7 examples) remains intransitive after a preverb diathesis. This is for example attested with the diathesis from *blühen* 'to blossom' to *verblühen* 'to wither' in [@next b], see [@sec:preverb-intransitive-with-unaccusative]. However, note that these verbs can be used as a nominal attribute ('unaccusative') after the diathesis.
+- The most frequent exception (± 25 examples) are intransitive verbs that show a prepositional phrase turning into a dative argument with a preverb diathesis. This is for example attested with the diathesis from *jagen* 'to hunt' to *nachjagen* 'to chase' in [@next c], see [@sec:preverb-dative-applicative].
 
 :::ex
 a.  Ich habe gestern ein Buch gekauft. Ich habe gestern eingekauft.
@@ -188,14 +188,14 @@ There are many preverb alternations without diathesis. I distinguish three diffe
 
 ### --- Preverb alternations without diathesis {.unnumbered}
 
-It is very common for a prefixed verb not to show any change in valency. The most widespread kind is for nominative-accusative verb to not show a change in valency, like *essen* 'to eat' and *aufessen* 'to eat completely' [@Next], see [@sec:preverb-transitive-without-diathesis].
+It is very common for a prefixed verb not to show any change in valency. The most widespread kind is for nominative-accusative verb to not show a change in valency, like *essen* 'to eat' and *aufessen* 'to eat completely' [@next], see [@sec:preverb-transitive-without-diathesis].
 
 :::ex
 a.  Ich esse den Apfel.
 b.  Ich esse den Apfel auf.
 :::
 
-In contrast, it is rather uncommon for intransitive verbs to remain intransitive when prefixed [@Next], see [@sec:preverb-intranstive-without-diathesis].
+In contrast, it is rather uncommon for intransitive verbs to remain intransitive when prefixed [@next], see [@sec:preverb-intranstive-without-diathesis].
 
 :::ex
 a.  Das Schifft sinkt auf hoher See.
@@ -204,7 +204,7 @@ b.  Das Schiff versinkt im Meer.
 
 ### [ N | N ] Preverb intransitives without diathesis {#sec:preverb-intranstive-without-diathesis}
 
-It is highly unusual for prefixed intransitive verbs to not show any valency change [@Next a,b], not even a difference between the usage of the attributive participles [@Next c,d]. It seems to be slightly more common for only the prefixed participle to be open for attributive usage (see [@sec:preverb-intransitive-with-unaccusative]).
+It is highly unusual for prefixed intransitive verbs to not show any valency change [@next a,b], not even a difference between the usage of the attributive participles [@next c,d]. It seems to be slightly more common for only the prefixed participle to be open for attributive usage (see [@sec:preverb-intransitive-with-unaccusative]).
 
 :::ex
 a.  Die Milch kocht.
@@ -213,7 +213,7 @@ c.  Die gekochte Milch ...
 d.  Die übergekochte Milch ...
 :::
 
-The verb *kochen* also exhibits a bare anticausative diathesis [@Next a,b], see [@sec:case-haben-anticausative]. The preverb *über-* could thus also be interpreted as inducing an anticausative diathesis, when [@Next c] is opposed to [@Next a]. However, because [@Next b] is both structurally and semantically closer to [@Next c] I have decided to take this as the preverb diathesis. Note that there exist verbs with preverb anticausative alternations (see [@sec:preverb-preposition-anticausative]).
+The verb *kochen* also exhibits a bare anticausative diathesis [@next a,b], see [@sec:case-haben-anticausative]. The preverb *über-* could thus also be interpreted as inducing an anticausative diathesis, when [@next c] is opposed to [@next a]. However, because [@next b] is both structurally and semantically closer to [@next c] I have decided to take this as the preverb diathesis. Note that there exist verbs with preverb anticausative alternations (see [@sec:preverb-preposition-anticausative]).
 
 :::ex
 a.  Ich koche die Milch.
@@ -233,7 +233,7 @@ c.  Die Milch kocht über.
 
 ### [ NA | NA ] Preverb transitives without diathesis {#sec:preverb-transitive-without-diathesis}
 
-It is very common for transitive nominative-accusative verbs to remain transitive when prefixed [@Next a,b]. The participles of both verbs can be used attributively [@Next c,d]. The examples presented in this section are in no way intended to be a complete listing, but only serve as a illustration for this phenomenon. This group of preverb alternations without valency change appears to be very large.
+It is very common for transitive nominative-accusative verbs to remain transitive when prefixed [@next a,b]. The participles of both verbs can be used attributively [@next c,d]. The examples presented in this section are in no way intended to be a complete listing, but only serve as a illustration for this phenomenon. This group of preverb alternations without valency change appears to be very large.
 
 :::ex
 a.  Ich lagere die Kartoffeln im Keller. 
@@ -263,7 +263,7 @@ d.  Die verlagerten Kartoffeln.
 
 ### [ N | N ] Preverb adjectives without diathesis {#sec:preverb-adjectives-without-diathesis}
 
-Adjectives are in many ways similar to intransitive verbs, basically being one-placed predicates. There are also various adjectives that remain intransitive when combined with a preverb, like *kühl* 'cool' and *abkühlen* 'to cool down [@Next a,b]. Similar to the intransitive verbs from the previous section, both adjectival predicates can be used as attributive adjective [@Next c,d].
+Adjectives are in many ways similar to intransitive verbs, basically being one-placed predicates. There are also various adjectives that remain intransitive when combined with a preverb, like *kühl* 'cool' and *abkühlen* 'to cool down [@next a,b]. Similar to the intransitive verbs from the previous section, both adjectival predicates can be used as attributive adjective [@next c,d].
 
 :::ex
 a.  Das Wasser ist kühl. 
@@ -285,7 +285,7 @@ d.  Das abgekühlte Wasser ...
 
 ### [ N | N ] Preverb reflexive adjectives without diathesis
 
-Some adjectives that are turned into verbs through preverbs obligatorily need a reflexive pronoun [@Next].
+Some adjectives that are turned into verbs through preverbs obligatorily need a reflexive pronoun [@next].
 
 :::ex
 a.  Die späte Vorstellung.
@@ -298,7 +298,7 @@ b.  Die Vorstellung verspätet sich.
 
 ### --- Unaccusative alternations --- {.unnumbered}
 
-Some intransitives without valency change show a peculiar phenomenon when prefixed: they become more patient-like in that the participle can be used attributively (one of the characteristics often discussed under the heading of 'unaccusativity'). For example, the verbs *schlafen* 'to sleep' [@Next a] and *einschlafen* 'to fall asleep' [@Next b] are both intransitive. However, only *eingeschlafen* can be used attributively [@Next c,d], see [@sec:preverb-intransitive-with-unaccusative].
+Some intransitives without valency change show a peculiar phenomenon when prefixed: they become more patient-like in that the participle can be used attributively (one of the characteristics often discussed under the heading of 'unaccusativity'). For example, the verbs *schlafen* 'to sleep' [@next a] and *einschlafen* 'to fall asleep' [@next b] are both intransitive. However, only *eingeschlafen* can be used attributively [@next c,d], see [@sec:preverb-intransitive-with-unaccusative].
 
 :::ex
 a.  Der Junge schläft.
@@ -307,7 +307,7 @@ c.  Der eingeschlafene Junge ...
 d.  ^* Der geschlafene Junge ...
 :::
 
-There is a small group of transitive nominative-accusative verbs that show the same effect with attributive participles. These verbs, like *merken/bemerken* 'to become aware of' [@Next a,b], do not show a valency difference. Yet, there is a difference in that the participle of the prefixed *bemerken* can be used as attributive adjective, while the participle of the non-prefixed *merken* cannot [@Next c,d], see [@sec:preverb-transitive-with-unaccusative].
+There is a small group of transitive nominative-accusative verbs that show the same effect with attributive participles. These verbs, like *merken/bemerken* 'to become aware of' [@next a,b], do not show a valency difference. Yet, there is a difference in that the participle of the prefixed *bemerken* can be used as attributive adjective, while the participle of the non-prefixed *merken* cannot [@next c,d], see [@sec:preverb-transitive-with-unaccusative].
 
 :::ex
 a.  Ich merke den Wind.
@@ -318,7 +318,7 @@ d.  ^* Der gemerkte Wind ...
 
 ### [ N | N ] Preverb intransitives with patient-like subject {#sec:preverb-intransitive-with-unaccusative}
 
-Many verbs describing natural processes remain intransitive when prefixed, like *blühen* 'to blossom' and *verblühen* 'to wither' [@Next a,b]. The participle of these verbs can be used attributively when prefixed [@Next c], but not without prefix [@Next d]. Also note that the auxiliary in the perfekt changes between *sein* and *haben* for these verbs.
+Many verbs describing natural processes remain intransitive when prefixed, like *blühen* 'to blossom' and *verblühen* 'to wither' [@next a,b]. The participle of these verbs can be used attributively when prefixed [@next c], but not without prefix [@next d]. Also note that the auxiliary in the perfekt changes between *sein* and *haben* for these verbs.
 
 :::ex
 a.  Die Blüme hat geblüht.
@@ -339,7 +339,7 @@ d.  ^* Die geblühte Blume ...
 
 ### [ NA | NA ] Preverb transitives with patient-like object {#sec:preverb-transitive-with-unaccusative}
 
-Some transitive verbs like *ärgern* and the preverbal variant *verärgern* 'to irritate' are almost identical in meaning [@Next a,b]. However, they show the same differentiation in attributive participle usage as the unaccusative intransitives in the previous section [@Next c,d], though without a difference in perfect auxiliary (both use *haben*). Note the somewhat older attested example of attributive *geärgert* in [@Next e].
+Some transitive verbs like *ärgern* and the preverbal variant *verärgern* 'to irritate' are almost identical in meaning [@next a,b]. However, they show the same differentiation in attributive participle usage as the unaccusative intransitives in the previous section [@next c,d], though without a difference in perfect auxiliary (both use *haben*). Note the somewhat older attested example of attributive *geärgert* in [@next e].
 
 :::ex
 a.  Die Verzögerung hat den Reisenden geärgert.
@@ -368,7 +368,7 @@ Some verbs need an extra reflexive pronoun when they are prefixed, but the valen
 
 ### [ N | N ] Preverb reflexive intransitive alternation {#sec:preverb-reflexive}
 
-The prefixed verb *überarbeiten* is transparently derived from the verb *arbeiten* 'to work', but in two semantically different directions. In one sense *überarbeiten* means 'to revise', i.e. 'to work on something again', which shows an applicative diathesis [@Next a,b], see [@sec:preverb-applicative]. In another sense *überarbeiten* means 'to overwork', i.e. 'to work too hard' [@Next c,d]. In this sense an obligatory, but 'empty', accusative reflexive pronoun is present.
+The prefixed verb *überarbeiten* is transparently derived from the verb *arbeiten* 'to work', but in two semantically different directions. In one sense *überarbeiten* means 'to revise', i.e. 'to work on something again', which shows an applicative diathesis [@next a,b], see [@sec:preverb-applicative]. In another sense *überarbeiten* means 'to overwork', i.e. 'to work too hard' [@next c,d]. In this sense an obligatory, but 'empty', accusative reflexive pronoun is present.
 
 :::ex
 a.  Ich arbeite am Text.
@@ -394,14 +394,14 @@ d.  Ich überarbeite mich.
 
 ### [ NA | NA ] Preverb reflexive transitive alternation {#sec:preverb-dative-reflexive}
 
-The difference between the verbs *sehen* and *ansehen* is very delicate, maybe best summarised by comparing it to the English verbs *to see* and *to watch*. The prefixed verb *ansehen* 'to watch' implies slightly more agency of the nominative subject. In German this difference is additionally marked by an obligatory dative reflexive pronouns [@Next b].
+The difference between the verbs *sehen* and *ansehen* is very delicate, maybe best summarised by comparing it to the English verbs *to see* and *to watch*. The prefixed verb *ansehen* 'to watch' implies slightly more agency of the nominative subject. In German this difference is additionally marked by an obligatory dative reflexive pronouns [@next b].
 
 :::ex
 a.  Ich sehe das Haus.
 b.  Ich sehe mir das Haus an.
 :::
 
-Note that there is a second, highly similar, construction with *ansehen* and a non-reflexive dative argument [@Next a]. This dative has a completely different semantics, meaning something like 'to notice'. This diathesis is further discussed under the heading of possessor raising in [@sec:preverb-possessor-raising]. Finally, *ansehen* can also simply mean 'to look at', in which sense there is no diathesis at all [@Next b].
+Note that there is a second, highly similar, construction with *ansehen* and a non-reflexive dative argument [@next a]. This dative has a completely different semantics, meaning something like 'to notice'. This diathesis is further discussed under the heading of possessor raising in [@sec:preverb-possessor-raising]. Finally, *ansehen* can also simply mean 'to look at', in which sense there is no diathesis at all [@next b].
 
 :::ex
 a.  Ich sehe ihm die Müdigkeit an.
@@ -427,7 +427,7 @@ Keeping with the observation that preverb alternations tend to produce nominativ
 
 ### [ NA | –N ] Preverb anticausative {#sec:preverb-anticausative}
 
-Although there is a transparent relation between the transitive *löschen* 'to extinguish' [@Next a] and the intransitive *erlöschen* 'to go out' [@Next b], they show different inflectional patterns, illustrated below with different participles. Historically, the transitive [@Next a] is a causative, but synchronically the prefixed form *erlöschen* is an anticausative.
+Although there is a transparent relation between the transitive *löschen* 'to extinguish' [@next a] and the intransitive *erlöschen* 'to go out' [@next b], they show different inflectional patterns, illustrated below with different participles. Historically, the transitive [@next a] is a causative, but synchronically the prefixed form *erlöschen* is an anticausative.
 
 :::ex
 a.  Sie hat das Feuer gelöscht.
@@ -440,7 +440,7 @@ b.  Das Feuer ist erloschen.
 
 ### [ NA | –N ] Preverb reflexive anticausative
 
-Some further anticausatives need an additional reflexive pronoun, like with *fangen* 'to catch' [@Next a] and *verfangen* 'to entangle oneself' [@Next b]. Note that the intransitive *verfangen* seems to require a locative preposition [@Next c].
+Some further anticausatives need an additional reflexive pronoun, like with *fangen* 'to catch' [@next a] and *verfangen* 'to entangle oneself' [@next b]. Note that the intransitive *verfangen* seems to require a locative preposition [@next c].
 
 :::ex
 a.  Ich fange den Vogel mit einem Netz.
@@ -461,7 +461,7 @@ c.  ^? Der Vogel verfängt sich.
 
 ### [ NL | -N ] Preverb location anticausative {#sec:preverb-preposition-anticausative}
 
-Lipka [-@lipka1972: 93-94] calls this 'Subjektvertauschung', which he claims is 'quite frequent in German.' However, I do not know of any other examples of this diathesis except for the example given by Lipka, namely the diathesis between *laufen + aus* and *auslaufen*, both meaning approximately 'to empty' [@Next a,b]. It might be that Lipka intended to use this term for what is commonly called 'anticausative', but then his example was ill-chosen. Hundsnurscher [-@hundsnurscher1968: 130ff.] discusses many examples that might be semantically similar, but do not show diathesis (e.g. *tröpfeln/auströpfeln*). For historical context, see Carlberg [-@carlberg1948] for more about the history of the terminology and the relation to metonymy. For the counterpart 'Objektvertauschung', see [@sec:preverb-location-antiresultative]
+Lipka [-@lipka1972: 93-94] calls this 'Subjektvertauschung', which he claims is 'quite frequent in German.' However, I do not know of any other examples of this diathesis except for the example given by Lipka, namely the diathesis between *laufen + aus* and *auslaufen*, both meaning approximately 'to empty' [@next a,b]. It might be that Lipka intended to use this term for what is commonly called 'anticausative', but then his example was ill-chosen. Hundsnurscher [-@hundsnurscher1968: 130ff.] discusses many examples that might be semantically similar, but do not show diathesis (e.g. *tröpfeln/auströpfeln*). For historical context, see Carlberg [-@carlberg1948] for more about the history of the terminology and the relation to metonymy. For the counterpart 'Objektvertauschung', see [@sec:preverb-location-antiresultative]
 
 :::ex
 a.  Das Wasser ist aus der Flasche gelaufen.
@@ -492,7 +492,7 @@ Promotion to subject is somewhat more widespread compared to subject demotion di
 
 ### [ -N | NA ] Preverb causative {#sec:preverb-causative}
 
-By adding a prefix, some intransitive verbs like *enden* 'to end' obtain an extra causer argument [@Next].
+By adding a prefix, some intransitive verbs like *enden* 'to end' obtain an extra causer argument [@next].
 
 :::ex
 a.  Der Wettkampf endet.
@@ -517,7 +517,7 @@ b.  Ich beende den Wettkampf.
 
 **Notes**
 
-With some of the verbs, the causer can occur as prepositional phrase with *durch* in the intransitive [@Next], similar to inverted passives, see [@sec:preverb-inverted-passives].
+With some of the verbs, the causer can occur as prepositional phrase with *durch* in the intransitive [@next], similar to inverted passives, see [@sec:preverb-inverted-passives].
 
 :::ex
 a.  Ich lebe durch den Arzt.
@@ -526,28 +526,28 @@ b.  Der Arzt belebt mich
 
 ### [ –N | NA ] Preverb adjectival causative {#sec:preverb-adjectival-causative}
 
-Many adjectives can be turned into verbs by adding a prefix. The semantic effect is to turn a state, like *grün sein* 'to be green [@Next a] into a causative process *begrünen* 'to make green' [@Next b].
+Many adjectives can be turned into verbs by adding a prefix. The semantic effect is to turn a state, like *grün sein* 'to be green [@next a] into a causative process *begrünen* 'to make green' [@next b].
 
 :::ex
 a.  Der Balkon ist grün.
 b.  Ich begrüne den Balkon. 
 :::
 
-The causer can with some verbs be expressed with a regular agentive *durch* or *von* prepositional phrase in the intransitive alternant. This sounds most natural with inanimate causers [@Next]. See also [@sec:preverb-inverted-passives] on inverted passives.
+The causer can with some verbs be expressed with a regular agentive *durch* or *von* prepositional phrase in the intransitive alternant. This sounds most natural with inanimate causers [@next]. See also [@sec:preverb-inverted-passives] on inverted passives.
 
 :::ex
 a.  Er ist matt vom Sport.
 b.  Der Sport ermattet ihn.
 :::
 
-Comparatives like *besser* 'better' are considered as adjectives here [@Next].
+Comparatives like *besser* 'better' are considered as adjectives here [@next].
 
 :::ex
 a.  Die Lebensbedingungen sind heutzutage besser.
 b.  Ich verbessere die Lebensbedingungen.
 :::
 
-With some verbs the causative also needs an umlaut, e.g. with *kurz* 'short' [@Next a,b], or an umlaut is lost in the causative, e.g. with *böse* 'angry' [@Next c,d]; see also [@sec:case-umlaut-adjectival-causative].
+With some verbs the causative also needs an umlaut, e.g. with *kurz* 'short' [@next a,b], or an umlaut is lost in the causative, e.g. with *böse* 'angry' [@next c,d]; see also [@sec:case-umlaut-adjectival-causative].
 
 :::ex
 a.  Die Frist ist kurz.
@@ -556,7 +556,7 @@ c.  Er ist böse.
 d.  Die Bemerkung erbost ihn.
 :::
 
-Not all verbs derived from adjectives have different argument structure with a prefix, e.g. *erwachen* 'to wake up' [@Next]. There is a similar difference in meaning of the predicate without prefix (i.e. stative) 'to be awake' [@Next a] and with the prefix (i.e. be caused) 'to become awake' [@Next b], but there is no added causer (see [@sec:preverb-adjectives-without-diathesis]).
+Not all verbs derived from adjectives have different argument structure with a prefix, e.g. *erwachen* 'to wake up' [@next]. There is a similar difference in meaning of the predicate without prefix (i.e. stative) 'to be awake' [@next a] and with the prefix (i.e. be caused) 'to become awake' [@next b], but there is no added causer (see [@sec:preverb-adjectives-without-diathesis]).
 
 :::ex
 a.  Die Kinder sind wach.
@@ -587,7 +587,7 @@ There are also prefixed adjectives in which an accusative object is added (see [
 
 ### [ –NP | NAP ] Preverb causative + preposition
 
-Some causative alternations have a goverend preposition, like with *haften* 'to be liable for' [@Next a]. The preposition becomes optional in the causative counterpart [@Next b].
+Some causative alternations have a goverend preposition, like with *haften* 'to be liable for' [@next a]. The preposition becomes optional in the causative counterpart [@next b].
 
 :::ex
 a.  Eltern haften für ihre Kinder.
@@ -616,7 +616,7 @@ b.  Die Polizisten verhaften die Eltern (für ihre Taten).
 
 ### [ -ND | NAP ] Preverb causative + dative antipassive
 
-In the special case of the causative diathesis between *gleichen* 'to resemble' [@Next a] and the prefixed form *vergleichen* 'to compare', the original dative argument turns into a governed preposition.
+In the special case of the causative diathesis between *gleichen* 'to resemble' [@next a] and the prefixed form *vergleichen* 'to compare', the original dative argument turns into a governed preposition.
 
 :::ex
 a.  Ich gleiche einem Affen.
@@ -629,7 +629,7 @@ b.  Er vergleicht mich mit einem Affen
 
 ### [ –NA | NDA ] Preverb dative causative + accusative {#sec:preverb-dative-causative}
 
-Different from most causatives, the original nominative of *mieten* 'to rent' [@Next a] turns into a dative with the prefixed form *vermieten* 'to lend' [@Next b]. The more typical diathesis is a causative in which the original nominative turns into an accusative. However, with these verbs there is already an accusative present before the diathesis.
+Different from most causatives, the original nominative of *mieten* 'to rent' [@next a] turns into a dative with the prefixed form *vermieten* 'to lend' [@next b]. The more typical diathesis is a causative in which the original nominative turns into an accusative. However, with these verbs there is already an accusative present before the diathesis.
 
 :::ex
 a.  Ich miete die Wohnung (von ihm).
@@ -652,7 +652,7 @@ b.  Er vermietet mir die Wohnung.
 
 ### [ –NA | NPA ] Preverb reversed fabricative + accusative {#sec:preverb-reversed-fabricative}
 
-Different from most causatives, the original nominative of *freuen* 'to enjoy' [@Next a] turns into a governed preposition with the prefixed form *erfreuen* 'to delight somebody' [@Next b]. The more typical diathesis is a causative in which the original nominative turns into an accusative. However, with this verb there is already an accusative present before the diathesis.
+Different from most causatives, the original nominative of *freuen* 'to enjoy' [@next a] turns into a governed preposition with the prefixed form *erfreuen* 'to delight somebody' [@next b]. The more typical diathesis is a causative in which the original nominative turns into an accusative. However, with this verb there is already an accusative present before the diathesis.
 
 :::ex
 a.  Das Geschenk freut mich.
@@ -667,7 +667,7 @@ b.  Er erfreut mich mit einem Geschenk.
 
 ### [ pNA | NA– ] Preverb reversed passive + accusative loss {#sec:preverb-inverted-passive-accusative-loss}
 
-The relation between *erben* 'inherit' and *enterben* 'disenherit' is peculiar, because the accusative argument *Schreibtisch* of *erben* in [@Next a] cannot be expressed in any way with *enterben* [@Next b].
+The relation between *erben* 'inherit' and *enterben* 'disenherit' is peculiar, because the accusative argument *Schreibtisch* of *erben* in [@next a] cannot be expressed in any way with *enterben* [@next b].
 
 :::ex
 a.  Ich erbe den Schreibtisch von meinem Vater.
@@ -702,7 +702,7 @@ c.  Deine Arbeit erstaunt mich.
 
 ### [ PN | NA ] Preverb reversed conversive + reflexive loss
 
-With the addition of the prefix, these verbs lose their reflexive pronoun [@Next]. So, there is both a 'reversed' passive and a 'reversed' reflexive marking in these diatheses. Note that the causer of the transitive is expressed as a governed preposition [@Next b].
+With the addition of the prefix, these verbs lose their reflexive pronoun [@next]. So, there is both a 'reversed' passive and a 'reversed' reflexive marking in these diatheses. Note that the causer of the transitive is expressed as a governed preposition [@next b].
 
 :::ex
 a.  Ich schäme mich für meine Taten.
@@ -710,7 +710,7 @@ b.  Ich schäme mich dafür, dass ich das gemacht habe.
 c.  Meine Taten beschämen mich
 :::
 
-The second examples of this diathesis with *wundern* 'to wonder [@Next] is less clear, because this verb has also a reflexive passive alternation, see [@sec:reflexive-preposition-passive]. Comparing [@Next a,c] shows an alternation of an inverted passive with reflexive loss. But comparing [@Next b,c] shows an alternation without diathesis.
+The second examples of this diathesis with *wundern* 'to wonder [@next] is less clear, because this verb has also a reflexive passive alternation, see [@sec:reflexive-preposition-passive]. Comparing [@next a,c] shows an alternation of an inverted passive with reflexive loss. But comparing [@next b,c] shows an alternation without diathesis.
 
 :::ex
 a.  Ich wundere mich über dein Verhalten.
@@ -952,7 +952,7 @@ see [@sec:prepositions-manner-of-movement]
 
 ### [ NAL | NA– ] Preverb transitive antiresultative {#sec:preverb-transitive-antiresultative}
 
-Verbs of caused location (see [@sec:prepositions-haben-caused-location]) like *stecken* 'to put into' [@Next a] cannot be used without the locative preposition [@Next b]. In contrast, with the prefix *ver-* the verb *verstecken* 'to hide' can be used both with and without the locative [@Next c,d].
+Verbs of caused location (see [@sec:prepositions-haben-caused-location]) like *stecken* 'to put into' [@next a] cannot be used without the locative preposition [@next b]. In contrast, with the prefix *ver-* the verb *verstecken* 'to hide' can be used both with and without the locative [@next c,d].
 
 :::ex
 a.   Ich stecke das Geschenk in den Schrank.
@@ -961,7 +961,7 @@ c.   Ich verstecke das Geschenk in dem Schrank.
 d.   Ich verstecke das Geschenk.
 :::
 
-The diathesis is quite widespread with other resultative constructions [@Next].
+The diathesis is quite widespread with other resultative constructions [@next].
 
 :::ex
 a.   Der Wind weht hart.
@@ -1140,14 +1140,14 @@ The verb *büßen* 'to pay for something' needs a governed preposition, while *b
 
 ### [ N– | NA ] Preverb reflexive resultative
 
-Some intransitive verbs like *tanzen* 'to dance' [@Next a] allow for a resultative diathesis *antanzen* 'to achieve something through dancing' [@Next b]. The result of the dancing is expressed in the new accusative argument. A special characteristic of this diathesis is that a dative reflexive pronoun is obligatorily present [see also @wunderlich1997: 105-106].
+Some intransitive verbs like *tanzen* 'to dance' [@next a] allow for a resultative diathesis *antanzen* 'to achieve something through dancing' [@next b]. The result of the dancing is expressed in the new accusative argument. A special characteristic of this diathesis is that a dative reflexive pronoun is obligatorily present [see also @wunderlich1997: 105-106].
 
 :::ex
 a.  Ich habe gestern viel getanzt.
 b.  Ich habe mir gestern einen Muskelkater angetanzt.
 :::
 
-Various of the intransitive verbs that allow for this resultative diathesis, like *tanzen* [@Last] but also *laufen* 'to run' [@Next a], allow for an accusative addition as well [@Next b], see [@sec:case-accusative-addition]. The accusative argument from that diathesis can be retained through an antipassive diathesis in the form of a prepositional phrase [@Next c].
+Various of the intransitive verbs that allow for this resultative diathesis, like *tanzen* [@last] but also *laufen* 'to run' [@next a], allow for an accusative addition as well [@next b], see [@sec:case-accusative-addition]. The accusative argument from that diathesis can be retained through an antipassive diathesis in the form of a prepositional phrase [@next c].
 
 :::ex
 a.  Ich habe gestern viel gelaufen.
@@ -1155,7 +1155,7 @@ b.  Ich habe gestern einen Marathon gelaufen.
 c.  Ich habe mir eine Medaille beim Marathon erlaufen.
 :::
 
-With the prefix *ver-* the meaning of this diathesis is a negative resultative [@Next].
+With the prefix *ver-* the meaning of this diathesis is a negative resultative [@next].
 
 :::ex
 a.  Ich fahre, und am Ende habe ich dadurch *kein* Benzin mehr.
@@ -1176,7 +1176,7 @@ b.  Ich verfahre mein letztes Benzin.
 
 **Notes**
 
-A verb like *schreiben* allows for dative and accusative arguments [@Next a], but in this diathesis it is the intransitive occupational usage [@Next b] that is the basis for the resultative construction [@Next c].
+A verb like *schreiben* allows for dative and accusative arguments [@next a], but in this diathesis it is the intransitive occupational usage [@next b] that is the basis for the resultative construction [@next c].
 
 :::ex
 a.  Ich schreibe dir einen Brief.
@@ -1188,7 +1188,7 @@ c.  Ich erschreibe mir ein großes Publikum.
 
 ### [ NAg | NAD ] Preverb possessor-of-accusative to dative {#sec:preverb-possessor-raising}
 
-The verb *ansehen* has various different senses, as summarised in [@sec:preverb-dative-reflexive]. One of the senses can approximately be translated into English as 'to notice' [@Next]. In this sense of *ansehen*, the possessor of the accusative argument is obligatorily expressed as a dative.
+The verb *ansehen* has various different senses, as summarised in [@sec:preverb-dative-reflexive]. One of the senses can approximately be translated into English as 'to notice' [@next]. In this sense of *ansehen*, the possessor of the accusative argument is obligatorily expressed as a dative.
 
 :::ex
 a.  Ich sehe seine Müdigkeit.
@@ -1207,7 +1207,7 @@ b.  Ich sehe ihm die Müdigkeit an.
 
 ### [ Np | NA ] Preverb applicative {#sec:preverb-applicative}
 
-A widespread diathesis induced by a preverb is the change of a prepositional phrase into an accusative. An example is the alternation between *grenzen an* 'to border on' and *begrenzen* 'to limit' [@Next], see e.g. Eroms [@eroms1980, Class 1b/III/IV; @kim1983: §1.1].
+A widespread diathesis induced by a preverb is the change of a prepositional phrase into an accusative. An example is the alternation between *grenzen an* 'to border on' and *begrenzen* 'to limit' [@next], see e.g. Eroms [@eroms1980, Class 1b/III/IV; @kim1983: §1.1].
 
 :::ex
 a.  Die Mauer grenzt an den Garten. 
@@ -1611,7 +1611,7 @@ b.  Ich dränge dir ein Abo auf.
 
 ### [ NA | AN ] Preverb accusative inversive {#sec:preverb-accusative-inversive}
 
-The alternation between *wundern* 'to amaze' [@Next a] and *bewundern* 'to be in awe' [@Next b] reverses the nominative and accusative arguments. Note that the verb *wunder* also allows for a reflexive conversive diathesis [@Next c], see [@sec:reflexive-preposition-passive], but this construction cannot function as a intermediate step in this diathesis.
+The alternation between *wundern* 'to amaze' [@next a] and *bewundern* 'to be in awe' [@next b] reverses the nominative and accusative arguments. Note that the verb *wunder* also allows for a reflexive conversive diathesis [@next c], see [@sec:reflexive-preposition-passive], but this construction cannot function as a intermediate step in this diathesis.
 
 :::ex
 a.  Dein Verhalten wundert mich.
@@ -1627,7 +1627,7 @@ c.  Ich wunder mich über dein Verhalten.
 
 ### [ NL | LN ] Preverb locational inversive {#sec:prepositions-location-inversive}
 
-The alternation between *strahlen* 'to shine' [@Next a] and *erstrahlen* 'to gleam' [@Next b] involves a reversal of nominative and locational arguments.
+The alternation between *strahlen* 'to shine' [@next a] and *erstrahlen* 'to gleam' [@next b] involves a reversal of nominative and locational arguments.
 
 :::ex
 a.  Die Sonne strahlt auf das Haus.

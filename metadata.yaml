@@ -1,9 +1,16 @@
 # pandoc calls this "metadata-file"
+# but it actually includes a lot of settings
 
-# main settings
+# metadata
 
 title: A Survey of German Diathesis
 author: Michael Cysouw
+# date: inserted by a filter
+affilitation:
+keywords:
+abstract:
+
+# main settings
 
 mainfont: Libertinus Serif
 top-level-division: chapter
@@ -49,12 +56,45 @@ documentclass: book
 classoption: twoside
 papersize: a4
 indent: true
+margin-left: 4cm
+margin-right: 4cm
 
 header-includes:
-# Page layout for Latex
-- \usepackage[margin=4cm]{geometry}
+# remove latex "p" option: don't let figures take over the whole page. 
+# Default pandoc to latex uses [htbp]
 - \usepackage{float}
-- \floatplacement{figure}{htb} # remove latex "p" option: don't let figures take over the whole page. Default pandoc to latex uses [htbp]
-# TOC specificifaction for Latex
+- \floatplacement{figure}{htb} 
+# TOC specificifaction for latex
+# to get small subsection in TOC
 - \usepackage{tocloft}
-- \renewcommand{\cftsubsecfont}{\scriptsize} # small subsection in TOC
+- \renewcommand{\cftsubsecfont}{\scriptsize}
+# HTML hyphenation settings, as suggested by:
+# https://medium.com/clear-left-thinking/all-you-need-to-know-about-hyphenation-in-css-2baee2d89179
+- |
+  <style>
+  body {
+    padding-left: 2cm;
+    padding-right: 2cm;
+  }
+  p {
+    text-align: justify;
+    -webkit-hyphens: auto;
+    -webkit-hyphenate-limit-before: 3;
+    -webkit-hyphenate-limit-after: 3;
+    -webkit-hyphenate-limit-chars: 6 3 3;
+    -webkit-hyphenate-limit-lines: 2;
+    -webkit-hyphenate-limit-last: always;
+    -webkit-hyphenate-limit-zone: 8%;
+    hyphens: auto;
+    hyphenate-limit-chars: 6 3 3;
+    hyphenate-limit-lines: 2;
+    hyphenate-limit-last: always;
+    hyphenate-limit-zone: 8%;
+  }
+  .author {
+    text-align: center;
+  }
+  .date {
+    text-align: center;
+  }
+  </style>

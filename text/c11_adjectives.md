@@ -10,9 +10,8 @@ Beispiele hier als Adjektiv: Adverb geht wahrscheinlich auch immer!
 The central question is which of the arguments of the verb turns into the head of the noun phrase. This can be tested by using the adjective attributively (a) or predicatively (b)
 
 - Die Frau schenkt dem Jungen ein Buch.
-
-() Das dem Jungen geschenkte Buch ist schön.
-() Das Buch ist dem Jungen geschenkt.
+- Das dem Jungen geschenkte Buch ist schön.
+- Das Buch ist dem Jungen geschenkt.
 
 ## *ge-…-en/et* Partizip Perfekt
 
