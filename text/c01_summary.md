@@ -10,7 +10,7 @@ Attempt to propose semantically sensitive German names, though analysis is not a
 
 [@sec:case-nominative-drop]
 
-:::ex
+::: ex
 a.  Der Müll stinkt.
 b.  Hier stinkt es aber.
 :::
@@ -21,7 +21,7 @@ es brauch, gibt, gefällt mir, bedarf, entbehrt, hängt ab von, wimmelt von, kom
 
 [@sec:case-nominativ-drop-accusative; sec:case-nominativ-drop-dative; sec:case-nominativ-drop-genitive; sec:prepositions-nominative-drop]
 
-:::ex
+::: ex
 a.  Die Trauben geben dieses Jahr einen guten Wein.
 b.  Dieses Jahr gibt es einen guten Wein.
 :::
@@ -36,7 +36,7 @@ b.  Dieses Jahr gibt es einen guten Wein.
 
 [@sec:case-haben-anticausative]
 
-:::ex
+::: ex
 a.  Ich koche den Kaffee.
 b.  Der Kaffee kocht.
 c.  Der Kaffee hat gekocht.
@@ -65,7 +65,7 @@ d.  Der Kaffee ist gekocht.
 
 [@sec:case-sein-causative]
 
-:::ex
+::: ex
 a.  Der Junge zerbricht den Krug.
 b.  Der Krug zerbricht.
 c.  Der Krug ist zerbrochen.
@@ -82,7 +82,7 @@ d.  ^* Der Krug hat zerbrochen.
 
 [@sec:case-accusative-addition]
 
-:::ex
+::: ex
 a.  Er stotterte.
 b.  Er stotterte eine Entschuldigung.
 :::
@@ -99,7 +99,7 @@ b.  Er stotterte eine Entschuldigung.
 - Possessor of object (see [@sec:case-possessor-accusative-to-dative])
 - Possessor of prepositional object (see [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative; sec:prepositions-possessor-of-location-to-dative-experiencer])
 
-:::ex
+::: ex
 a.  Ich schneide seine Haare.
 b.  Ich schneide ihm die Haare.
 :::
@@ -118,7 +118,7 @@ typically unmarked, very few examples of a possessor dativ introduced with a pre
 
 [@sec:case-accusative-drop]
 
-:::ex
+::: ex
 a.  Du störst die Veranstaltung.
 b.  Du störst.
 :::
