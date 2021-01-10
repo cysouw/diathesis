@@ -1623,7 +1623,7 @@ b.  Sie schimpft mich einen Narren
 
 - Er sitzt immer am selben Platz bei Bier und Schnaps, flucht mich einen Tagedieb, einen Affen, Bananenfresser, einen, der schon längstens in eine Arbeitserziehungsanstalt gehöre. (http://www.gruppe-4-w.de/forum/viewtopic.php?f=21&t=2047#p19030, accessed 29 Juli 2019)
 
-### --- [ ADJ > OBJ ] Applicative --- {.unnumbered}
+### --- [ ADJ > OBJ ] Dative applicative --- {.unnumbered}
 
 ### [ NAp | NAD ] *für* Benefactive raising {#sec:prepositions-benefactive-dative}
 

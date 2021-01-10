@@ -703,7 +703,7 @@ b.  Die Suppe schmeckt nach Pfefferminze
 When multiple diatheses are stacked, i.e. whey they are applied sequentially on top of each other, they are often structurally independent. For example, the verb *waschen* 'to wash' [@next a] can be used in a resultative construction [@next b] in which the role of washee *Hemd* 'shirt' is turned from an accusative into a location ~~[OBJ > PBJ]~~ and a new accusative object is introduced for the role of the result *Fleck* 'stain' ~~[Ø > OBJ]~~, see [@sec:prepositions-action-result]. Independent of this chained diathesis, the possessor of the object *Nachbar* 'neighbour' can be raised to genitive [@next c], see [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative].
 
 :::ex
-~~[Ø > OBJ > PBJ, ADJ > OBJ]~~
+~~[Ø > OBJ > PBJ, ADJ > OBJ]~~
 
 a.  Ich wasche das Hemd des Nachbarn.
 b.  Ich wasche den Fleck aus dem Hemd des Nachbarn.
@@ -722,7 +722,7 @@ b.  Der Traum deutet auf nichts Gutes.
 Second, some preverbs lead to disjunct diatheses, like with *schweigen* 'to remain silent' and *verschweigen* 'to conceal' [@next], see [@sec:preverb-double-applicative].
 
 :::ex
-~~[ADJ > OBJ, PBJ > OBJ]~~
+~~[ADJ > OBJ, PBJ > OBJ]~~
 
 a.  Ich schweige zu dir über meinen Besuch.
 b.  Ich verschweige dir meinen Besuch.
@@ -731,7 +731,7 @@ b.  Ich verschweige dir meinen Besuch.
 Further examples are resultatives for a few verbs of naming like *schimpfen* 'to scold' [@next], see [@sec:prepositions-naming-result]. The disjunct diathesis in [@nnext] is less clear, as it might be better analysed as a stack, see [@sec:prepositions-nominative-demotion-dative-addition].
 
 :::ex
-~~[Ø > OBJ, ADJ > OBJ]~~
+~~[Ø > OBJ, ADJ > OBJ]~~
 
 a.  Sie schimpft auf mich.
 b.  Sie schimpft mich einen Narren
@@ -1007,12 +1007,21 @@ a.  Ich beklage den Lärm.
 b.  Ich beklage mich über den Lärm.
 :::
 
-There is a further kind of diathesis with a role-remapping between adjunct and object, conventially called ~~possessor raising~~. In such diatheses there is an altenation between a possessor (typically expressed as an adnominal genitive) and a dative [@next]. In most variants of this alternation there is no overt indication of a direction, so it is difficult to decide whether this is a case of ~~[ADJ > OBJ]~~ promotion or ~~[OBJ > ADJ]~~ demotion. 
+There are a few more diatheses with a role-remapping between adjunct and object, which, however, do not have an overt indication of a direction. For example, datives often alternate with *für* prepositional phrases [@next], see [@sec:prepositions-benefactive-dative]. Without explicit marking it is difficult to decide whether these are cases of ~~[ADJ > OBJ]~~ promotion or ~~[OBJ > ADJ]~~ demotion. For the sake of organisation in this book I classify these alternations as promotions ~~[ADJ > OBJ]~~. Because they all involve a dative object, these diatheses are thus structurally ~~dative applicatives~~.
+
+::: ex
+a. Er kocht eine Suppe für mich.
+b. Er kocht mir eine Suppe.
+:::
+
+There is a further kind of diathesis with an unmarked role-remapping between adjunct and object, conventially called ~~possessor raising~~. In such diatheses there is an altenation between a possessor (typically expressed as an adnominal genitive) and a dative [@next]. The dative can alternate with the possessor of a nominative subject (see [@sec:case-possessor-of-nominative-to-dative-experiencer]), an accusative object (see [@sec:case-possessor-accusative-to-dative]) or a location (see [@sec:prepositions-possessor-of-location-to-dative-experiencer]).
 
 :::ex
 a. Er schneidet meine Haare.
 b. Er schneidet mir die Haare.
 :::
+
+Semantically and structurally, these two unmarked kinds of ~~dative applicative~~ are rather different. The datives that show a possessive alternation [@last] are semantically experiencers. This is quite different from datives that alternate with *für* prepositional phrases, which are semantically benefactors..
 
 #### Addition & drop {.unnumbered}
 
