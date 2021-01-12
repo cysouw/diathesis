@@ -79,7 +79,7 @@ This chapter deals with light-verb constructions with participles. Such analytic
 Although all finite verb stems can be used to morphologically make a participle, not all participles can be used in all syntactic functions. For example, the participle *angekommen* 'arrived' [@next] only allows for one of the contexts exemplified with *geputzt* in [@last] above. Central to the discussion in this chapter is the fact that participles differ as to the kind of constructions in which they can occur.
 
 ::: ex
-a.  ^? Der angekommene Zug erstrahlt im Sonnenlicht.
+a.  ^^?^ Der angekommene Zug erstrahlt im Sonnenlicht.
 b.  ^* Er sieht den Zug angekommen.
 c.   Der Zug ist angekommen.
 d.  ^* Der Zug wird angekommen.
@@ -1341,14 +1341,14 @@ b.  Er sieht die Buchstaben verzerrt. (= Er sieht die Buchstaben, aber die Buchs
 As originally observed by Leirbukt [-@leirbukt2000], these constructions appear to be much more acceptable (and more frequent) when they are embedded inside a modal verb like *wollen* [@next]. Leirbukt only discusses *wollen* and *sehen* and seems to have missed *glauben* and *finden*. He also discussed constructions with *haben* that are discussed here in [@sec:participles-haben-passive].
 
 ::: ex
-a.  ^? Sie sahen ihre Namen nicht genannt in dem Interview.
+a.  ^^?^ Sie sahen ihre Namen nicht genannt in dem Interview.
 b.  Sie wollten in dem Interview ihre Namen nicht genannt sehen.
 :::
 
 An
 
 ::: ex
-a.  ^? Er wusste seinen Sohn auf der Schule verstanden.
+a.  ^^?^ Er wusste seinen Sohn auf der Schule verstanden.
 b.  Er wusste sich verstanden.
 :::
 

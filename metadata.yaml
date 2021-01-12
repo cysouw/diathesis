@@ -76,6 +76,12 @@ header-includes:
     padding-left: 1cm;
     padding-right: 1cm;
   }
+  a:link a:visited {
+    text-decoration: none; 
+  }
+  a:hover { 
+    text-decoration: underline; 
+    }
   p {
     text-align: justify;
     -webkit-hyphens: auto;

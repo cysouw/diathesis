@@ -84,12 +84,12 @@ There are a few verbs that seem to allow for coreference with a non-nominative a
 
 ::: ex
 a.  Ich habe ihn über den Zustand aufgeklärt.
-b.  ^? Ich habe ihn über sich aufgeklärt
+b.  ^^?^ Ich habe ihn über sich aufgeklärt
 :::
 
 ::: ex
 a.  Sie zeigt sich ihrem Freund.
-b.  ^? Sie zeigt ihrem Freund sich selbst.
+b.  ^^?^ Sie zeigt ihrem Freund sich selbst.
 :::
 
 ### Coreference without reflexive pronoun
@@ -124,7 +124,7 @@ A small group of verbs obligatorily needs a reflexive pronoun coreferencing the 
 
 ::: ex
 a.  Ich bemühe mich.
-b.  ^? Ich bemühe dich.
+b.  ^^?^ Ich bemühe dich.
 c.  Leider kann ich es nicht ganz auswendig, sonst brauchte ich dich nicht zu bemühen. (DWDS: E. Strauß Spiegel 45)
 :::
 
@@ -578,7 +578,7 @@ c.  Der Regen hat die Luft abgekühlt.
 The verb *ausruhen* until very recently was commonly used without *sich*, but this is slightly awkward in contemporary German [@next a]. Constructions without *sich* are still widespread in non-finite and subordinate uses [@next b-d].
 
 ::: ex
-a.  ^? Sie ruht aus.
+a.  ^^?^ Sie ruht aus.
 b.  Sie blieb stehen um auszuruhen.
 c.  Sie musste ausruhen.
 d.  Ich sehe, dass sie ausruht.
@@ -966,7 +966,7 @@ Note: some verbs are necessarily reciprocal when used with *sich*: anfeuern
 
 ::: ex
 a.  ich feuere ihn an
-b.  ^? ich feuere mich an
+b.  ^^?^ ich feuere mich an
 c.  sie feuern sich an
 :::
 
@@ -1174,7 +1174,7 @@ This might be more widespread with 'free datives' [@next a], but the grammatical
 
 ::: ex
 a.  Ich schließe dir den Schrank.
-b.  ^? Der Schrank schließt sich dir.
+b.  ^^?^ Der Schrank schließt sich dir.
 :::
 
 **Attested Verbs**

@@ -445,7 +445,7 @@ Some further anticausatives need an additional reflexive pronoun, like with *fan
 ::: ex
 a.  Ich fange den Vogel mit einem Netz.
 b.  Der Vogel verfängt sich im Netz.
-c.  ^? Der Vogel verfängt sich.
+c.  ^^?^ Der Vogel verfängt sich.
 :::
 
 **Attested Verbs**
@@ -1023,7 +1023,7 @@ a.  Ich presse den Saft aus der Zitrone.
 b.  Ich presse die Zitrone aus.
 :::
 
-Lipka [-@lipka1972: 93, 173] calls this diathesis 'Objektvertauschung' and McIntyre [-@mcintyre2001: 275-277] 'landmark flexibility'. For historical context on this diathesis, see Carlberb [@carlberg1948] and Hundsnurscher [-@hundsnurscher1968: 127]. Lipka opposes this diathesis to 'Subjektvertauschung', which is discussed in [@sec:preverb-preposition-anticausative].
+Lipka [-@lipka1972: 93, 173] calls this diathesis 'Objektvertauschung' and McIntyre [-@mcintyre2001: 275-277] 'landmark flexibility'. For historical context on this diathesis, see Carlberg [@carlberg1948] and Hundsnurscher [-@hundsnurscher1968: 127]. Lipka opposes this diathesis to 'Subjektvertauschung', which is discussed in [@sec:preverb-preposition-anticausative].
 
 **Attested Verbs**
 
@@ -1526,7 +1526,7 @@ b.  Ich verschweige dir meinen Besuch.
 
 ### --- [ ADJ > OBJ > OBJ ] Chained Applicative --- {.unnumbered}
 
-### [ NPA | NAD ] Preverb applicative + accusative-to-dative
+### [ NPA | NAD ] Preverb applicative + accusative-to-dative {#sec:preverb-applicative-accusative-to-dative}
 
 ::: ex
 a.  Ich dränge dich zu einem Abo.
@@ -1647,7 +1647,7 @@ b.  Das Haus erstrahlt in der Sonne.
 
 ### [ NpA | NAp ] Preverb applicative + *mit* antipassive {#sec:preverb-applicative-antipassive}
 
-In first alternant sometimes a local preposition appears. Is this maybe a different alternation? In general, the prepositions are mostly not governed prepositions.
+In first alternant always a local preposition? Is this maybe a different alternation? In general, the prepositions are mostly not governed prepositions.
 
 **Attested Verbs**
 
@@ -1659,7 +1659,7 @@ beˈ-
 - über: *spannen*
 
 - Ich hänge die Bilder an die Wand. Ich behänge die Wand mit Bildern.
-- Ich pflanze Tulpen auf das Beet. Ich bepflanze das Beet mit Tulpen.
+- Ich pflanze Tulpen in das Beet. Ich bepflanze das Beet mit Tulpen.
 - Der Händler liefert die Waren an den Kaufmann. Der Händler beliefert den Kaufmann mit den Waren.
 - Ich schreibe Buchstaben auf das Papier. Ich beschreibe das Papier mit Buchstaben.
 - Ich lege Fließen auf den Boden. Ich belegen den Boden mit Fließen.
@@ -1775,7 +1775,9 @@ durchˈ-
 - Ich wickle das Tuch um den Arm. Ich wickle den Arm in dem Tuch ein.
 - Ich grabe ein Loch (in die Erde) für den Baum. Ich grabe den Baum in einem Loch (in die Erde) ein.
 
-### [ NPA | NAp ] Preverb applicative + *von* antipassive 
+### --- [ PBJ > OBJ > ADJ ] Full applicative --- {.unnumbered}
+
+### [ NPA | NAp ] Preverb applicative + *von* antipassive {#sec:preverb-applicative-von-antipassive}
 
 ::: ex
 a.  Er zwingt ihn zu einem Geständnis.
@@ -1821,7 +1823,7 @@ b.  Ich verbitte mir einen Kommentar von dir.
 
 ### --- [ OBJ > OBJ > OBJ ] Chained case change --- {.unnumbered}
 
-### [ NDA | NAG ] Preverb dative-to-accusative + accusative-to-genitive
+### [ NDA | NAG ] Preverb dative-to-accusative + accusative-to-genitive {#sec:preverb-dative-accusative-genitive}
 
 ::: ex
 a.  Ich raube dir das Buch.

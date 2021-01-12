@@ -250,7 +250,7 @@ c.  ^* Es ist bekannt, dass ich habe morgen zu arbeiten.
 ::: ex
 a.   Ich versuche den Koffer zu tragen.
 b.   Es ist bekannt, dass ich versuche den Koffer zu tragen.
-c.  ^? Es ist bekannt, dass ich den Koffer zu tragen versuche.
+c.  ^^?^ Es ist bekannt, dass ich den Koffer zu tragen versuche.
 :::
 
 

@@ -883,7 +883,7 @@ Some verbs allow for both the dative and the preposition to be dropped, though m
 a.  Ich gratuliere dir zu deinem Geburtstag.
 b.  Ich gratuliere dir.
 c.  Ich gratuliere zu deinem Geburtstag.
-d.  ^? Ich gratuliere.
+d.  ^^?^ Ich gratuliere.
 :::
 
 **Attested Verbs**
@@ -1640,7 +1640,7 @@ Note that it almost always possible to add a *für* benefactive phrase to a sent
 a.  Ich arbeite für den Chef.
 b.  ^* Ich arbeite dem Chef.
 c.  Ich gewinne das Geld für dich.
-d.  ^? Ich gewinne dir das Geld.
+d.  ^^?^ Ich gewinne dir das Geld.
 e.  Gib mir eine Waffe und ich gewinne dir jeden Krieg. ([WWW](http://www.kriegssinfonie.ch/2018/08/paradox/), accessed 10.01.19)
 :::
 
@@ -1752,7 +1752,7 @@ Er fragt mir ein Loch in den Bauch.
 
 ### --- [ ADJ > OBJ > PBJ ] Possessor applicative --- {.unnumbered}
 
-### [ NAg | NPA ] Possessor-of-accusative applicative
+### [ NAg | NPA ] Possessor-of-accusative applicative {#sec:perpositions-possessor-applicative}
 
 This alternation is the German equivalents of the "Possessor Object" alternation in English from Levin [-@levin1993: 73]. The possessor of an accusative becomes an accusative, and the erstwhile accusative is demoted to a prepositional phrase. The preposition (typically *für*) appears to be a governed preposition.
 

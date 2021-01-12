@@ -315,7 +315,7 @@ a.  ^* Ich habe mich gesund eingeschlafen.
 b.  ^* Ich scheitere mich reich.
 c.  ^* Ich sterbe mich tot.
 d.  ^* Ich wachse mich groß.
-e.  ^? Der Zug ist sich gut angekommen.
+e.  ^^?^ Der Zug ist sich gut angekommen.
 :::
 
 When the combination of adverbial and verb is considered to be a new lexicalised predicate (i.e. *totlachen, hocharbeiten*), then these predicates would be obligatorily reflexive (alike to the verbs in [@sec:reflexive-obligatory-accusative-reflexive]).
@@ -374,7 +374,7 @@ Many intransitives allow for a dropping of the nominative with a obligatory refl
 
 ::: ex
 a.   In der Gruppe lacht es sich besser.
-b.  ^? Am frühen morgen steht es sich schlecht auf.
+b.  ^^?^ Am frühen morgen steht es sich schlecht auf.
 :::
 
 A very similar diathesis is attested with transitives, see [@sec:adverbial-reflexive-transitive-anticausative], but in that case the accusative is retained as a nominative (i.e. anticausative). Also note that connection between an intransitive drop and a transitive anticausative is strongly reminiscent of unaccusativity, see [@sec:participles-restrictions]. However, there does not seem to be an obvious match between unaccusative verbs and the verbs that allow for the current diathesis [cf. @steinbach1998: 15-18].
@@ -398,7 +398,7 @@ Some verbs that have a typical instrument connected to the action allow for the 
 ::: ex
 a.   Ich schneide (das Brot) mit einem Messer.
 b.   Das Messer schneidet das Brot.
-c.  ^? Das Messer schneidet.
+c.  ^^?^ Das Messer schneidet.
 d.   Das Messer schneidet gut.
 :::
 
@@ -484,13 +484,13 @@ Most transitive verbs can be used without an accusative object. However, with so
 
 ::: ex
 a.   Ich sehe das Haus.
-b.  ^? Ich sehe.
+b.  ^^?^ Ich sehe.
 c.   Ich sehe gut.
 :::
 
 ::: ex
 a.   Ich lese ein Buch.
-b.  ^? Ich lese.
+b.  ^^?^ Ich lese.
 c.   Morgen lese ich den ganzen Tag.
 :::
 
@@ -583,7 +583,7 @@ Many different secondary predicates:
 
 ### --- [ ADJ > OBJ > Ø ] Chained Applicative --- {.unnumbered}
 
-### [ NpA | NA– ] Applicative + accusative drop + resultative adverbial
+### [ NpA | NA– ] Applicative + accusative drop + resultative adverbial {#sec:adverbial-applicative-drop}
 
 **Examples**
 
