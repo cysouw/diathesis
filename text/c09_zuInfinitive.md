@@ -223,7 +223,12 @@ Wo ist die Grenze zu lexikales *geben*?: vgl. *essen, trinken, tun, lesen, trage
 
 ## Diatheses with object demotion
 
+not attested
+
 ## Diatheses with promotion to object
 
-## Object-to-object diatheses
+not attested
 
+## Symmetrical diatheses
+
+not attested

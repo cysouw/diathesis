@@ -5,10 +5,6 @@
 
 title: A Survey of German Diathesis
 author: Michael Cysouw
-# date: inserted by a filter
-affilitation:
-keywords:
-abstract:
 
 # main settings
 
@@ -36,7 +32,7 @@ linkReferences: true
 
 addChapterNumber: true
 xrefSuffixSep: " "
-latexPackage: linguex
+latexPackage: gb4e
 formatGloss: true
 
 # count-para settings
@@ -60,6 +56,8 @@ margin-left: 4cm
 margin-right: 4cm
 
 header-includes:
+# indentation
+- \setlength\parindent{2ex}
 # remove latex "p" option: don't let figures take over the whole page. 
 # Default pandoc to latex uses [htbp]
 - \usepackage{float}
@@ -72,11 +70,17 @@ header-includes:
 # https://medium.com/clear-left-thinking/all-you-need-to-know-about-hyphenation-in-css-2baee2d89179
 - |
   <style>
+  .author {
+    text-align: center;
+  }
+  .date {
+    text-align: center;
+  }
   body {
     padding-left: 1cm;
     padding-right: 1cm;
   }
-  a:link a:visited {
+  a:link {
     text-decoration: none; 
   }
   a:hover { 
@@ -96,11 +100,5 @@ header-includes:
     hyphenate-limit-lines: 2;
     hyphenate-limit-last: always;
     hyphenate-limit-zone: 8%;
-  }
-  .author {
-    text-align: center;
-  }
-  .date {
-    text-align: center;
   }
   </style>

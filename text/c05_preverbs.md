@@ -1625,7 +1625,7 @@ c.  Ich wunder mich über dein Verhalten.
 
 ### --- [ PBJ > SBJ > PBJ ] Preposition inversive --- {.unnumbered}
 
-### [ NL | LN ] Preverb locational inversive {#sec:prepositions-location-inversive}
+### [ NL | LN ] Preverb locational inversive {#sec:preverb-location-inversive}
 
 The alternation between *strahlen* 'to shine' [@next a] and *erstrahlen* 'to gleam' [@next b] involves a reversal of nominative and locational arguments.
 

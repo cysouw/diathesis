@@ -18,23 +18,40 @@ ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 ]]
 
-count = 0
-chapter = 0
+local count = 0
+local chapter = 0
+local indexUserID = {}
 
 ------------------------------
 -- Options with default values
 ------------------------------
 
-resetAtChapter = false
-enclosing = "[]"
+local resetAtChapter = false
+local enclosing = "[]"
+local refName = "paragraph "
+local addPageNr = true
 
 function getUserSettings (meta)
+
   if meta.resetAtChapter ~= nil then
     resetAtChapter = meta.resetAtChapter
   end
+
   if meta.enclosing ~= nil then
     enclosing = pandoc.utils.stringify(meta.enclosing)
   end
+
+  if meta.refName ~= nil then
+    refName = pandoc.utils.stringify(meta.refName)
+    if FORMAT:match "latex" then
+      if refName == "#" then refName = "\\#" end
+    end
+  end
+
+  if meta.addPageNr ~= nil then
+    addPageNr = meta.addPageNr
+  end
+
 end
 
 ------------------------
@@ -48,12 +65,17 @@ function addFormatting (meta)
   
   if FORMAT:match "html" then
     local css = [[ 
-    <style>
-    .paragraph-number sup { 
-      color: grey;
-      font-size: x-small;
-    }
-    </style>
+  <style>
+  .paragraph-number { 
+    float: left;
+    margin-left: -5em;
+    width: 4.5em;
+    text-align: right;
+    color: grey;
+    font-size: x-small;
+    padding-top: 5px;
+  }
+  </style>
     ]]
     tmp[#tmp+1] = pandoc.MetaBlocks(pandoc.RawBlock("html", css))
   end
@@ -63,9 +85,9 @@ function addFormatting (meta)
   end
 
   if FORMAT:match "latex" then
-    addTexPreamble("\\usepackage{geometry}")
     addTexPreamble("\\usepackage{marginnote}")
     addTexPreamble("\\reversemarginpar")
+    addTexPreamble("\\newcommand{\\paragraphnumber}[1]{\\marginnote{\\color{lightgray}\\tiny{#1}}[0pt]}")
   end
   
   meta['header-includes'] = tmp
@@ -90,73 +112,85 @@ function countPara (doc)
         count = 0
     end
 
-    -- count Para, but not if there is an Image inside
+    -- get Para, but not if there is an Image inside
     if  doc.blocks[i].tag == "Para"
         and doc.blocks[i].content[1].tag ~= "Image"
     then
-      count = count + 1	
 
+      -- count paragraphs
+      count = count + 1	
       local ID = count
       if resetAtChapter then 
         ID = chapter.."."..count 
       end
 
-      -- add Div with class to Para	
-      doc.blocks[i] = pandoc.Div( doc.blocks[i], 
-          pandoc.Attr(ID, {"paragraph-number"}))
-    end
+      -- format number to insert
+      local number = ID
+      if enclosing:len() == 1 then
+        number = enclosing..ID..enclosing
+      else
+        number = enclosing:sub(1,1)..ID..enclosing:sub(2,2)
+      end
 
+      -- check for user-inserted ids at the start of the paragraph
+      local firstElem = pandoc.utils.stringify(doc.blocks[i].content[1])
+      local userID = firstElem:match("{#(.*)}")
+      if userID ~= nil then
+        -- add to index
+        indexUserID[userID] = ID
+        -- remove reference from text
+        table.remove(doc.blocks[i].content, 1)
+        -- remove possible space
+        if doc.blocks[i].content[1].tag == "Space" then
+          table.remove(doc.blocks[i].content, 1)
+        end
+      end
+
+      -- insert number
+      if FORMAT:match "latex" then
+        -- use marginnote for formatting number in margin
+        local texCount = "\\paragraphnumber{"..number.."}"
+        if userID ~= nil then
+          -- add target for link to the number
+          texCount = "\\hypertarget{"..userID.."}{\n"..texCount.."\\label{"..userID.."}}"
+        end
+        table.insert(doc.blocks[i].content, 1, pandoc.RawInline("tex", texCount))
+      else
+        table.insert(doc.blocks[i].content, 1, pandoc.Space())
+        table.insert(doc.blocks[i].content, 1, pandoc.Span(number, pandoc.Attr(ID, {"paragraph-number"})))
+      end
+
+    end
   end
   return doc
 end
 
 ------------------------------
--- format for Latex and HTML using attributes
--- for other formats, use HTML
+-- set in-text cross-references
 ------------------------------
 
-function formatNumber (div)
-  
-  -- only do this for Divs of the right class
-  if div.classes[1] == "paragraph-number" then
+function setCrossRefs (cite)
 
-    -- format number
-    local string = div.identifier
-    --if enclosing == "" then
-    if enclosing:len() == 1 then
-      string = enclosing..div.identifier..enclosing
+  local userID = cite.citations[1].id
+  local paraID = indexUserID[userID] 
+
+  -- ignore other "cite" elements
+  if paraID ~= nil then
+  
+    -- make in-document cross-references
+    if FORMAT:match "latex" then
+
+      local texInsert = refName.."\\hyperlink{"..userID.."}{"..paraID.."}"
+      if addPageNr then
+        texInsert = texInsert.." on page~\\pageref{"..userID.."}"
+      end
+      return pandoc.RawInline("tex", texInsert)
+
     else
-      string = enclosing:sub(1,1)..div.identifier..enclosing:sub(2,2)
+      return pandoc.Link(refName..paraID, "#"..paraID)
     end
 
-    if FORMAT:match "latex" then
-      -- use marginnote for formatting number in margin
-      local texInsert = pandoc.RawInline("tex", 
-                          "\\marginnote{ \
-                              \\color{lightgray} \
-                              \\tiny \
-                              \\textsuperscript{"..string.."} \
-                          }" )
-      table.insert(div.content[1].content, 1, texInsert)
-
-    else
-      
-      -- insert number at start of Para
-      local number = pandoc.Superscript(string)
-      table.insert(div.content[1].content, 1, pandoc.Space())
-      table.insert(div.content[1].content, 1, number)
-      
-      -- approximate negative text indent depends on size of number
-      -- should be fine-tuned by whatever CSS is used
-      local small = 0 n = tostring(string)
-      for i=1,#n do if n:sub(i,i):find("[1|%.]") ~= nil  then small=small+1 end end
-      -- space + nchars - n_small_chars
-      local points = 5 + string.len(string)*5 - small*1
-      div.attributes = {style = "text-indent: -"..points.."px;"}
-      end
-    
   end
-  return(div)
 end
 
 --------------------
@@ -167,5 +201,5 @@ return {
   { Meta = addFormatting },
   { Meta = getUserSettings },
   { Pandoc = countPara },
-  { Div = formatNumber }
+  { Cite = setCrossRefs }
 }

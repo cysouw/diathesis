@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Constructions consisting of a participle combined with a light verb (i.e. a verb with limited lexical meaning) are manifold in German grammar. They include constructions without diathesis like the German *Perfekt* [@next a] and typical diatheses like the *werden* passive [@next b].
+Constructions consisting of a participle combined with a light verb (i.e. a verb with limited lexical meaning) are manifold in German grammar. They include constructions without diathesis like the German ~~Perfekt~~ [@next a] and typical diatheses like the *werden* ~~Passiv~~ [@next b].
 
 ::: ex
 a.  Ich habe einen Brief geschrieben.
@@ -301,6 +301,7 @@ In contrast, the participle *verhasst* 'hated' is derived from the noun *Hass* '
 a.  ^* Sie giftet ihn.
 b.  Sie vergiftet ihn.
 c.  Er ist vergiftet.
+:::
  
 ::: ex
 a.  Sie hasst ihn.
@@ -349,6 +350,9 @@ b. ^* Ich verstehe ein.
 
 ### --- Perfect --- {.unnumbered}
 
+haben+Parizip: "Prozessperfekt"
+sein+Partizip: "Zustandsperfekt"
+
 All verbs in German allow for a perfect alternation ("tense/aspect" form). Only in some contexts it seems problematic
 
 "Perf. u. Plusquamperf. nicht üblich" im dwds.de
@@ -366,6 +370,8 @@ difficult to find examples: Blos, Wilhelm: Denkwürdigkeiten eines Sozialdemokra
 Diese beiden frommen Eiferer verfinsterten die Freiburger geistige Atmosphäre, die zwanzig Jahre zuvor so freiheitlich hell erstrahlt war.
 
 perfekt: duden S. 465ff.
+
+"Ab 1300 und häufiger erst ab 1400 bildet auch das Verb haben Perfektformen (hat gehabt). Perfektbildun- gen der Modalverben sind erst ab Anfang des 16. Jahrhunderts belegt, wobei diese im Mittelhochdeutschen noch verschiedene Konkurrenzformen haben (vgl. Oubouzar 1974, 52, 57–58). Erst dann hat die Perfektgrammatikalisierung alle Verben des Deutschen erfasst und ist vollständig vollzogen." [@fischer2020: 258]
 
 ### [ N | N ] *sein + Partizip* Intransitive perfect
 
@@ -528,6 +534,8 @@ Besser:
 
 - sein  : "jetzt endlich (komplett)" (resultativ/Grenzüberschreiung)
 - haben : "vor sich hin" (nicht resultativ/keine Grenzüberschreitung)
+
+"Aus Fügungen, in denen diese Formen prädikativ auf das Subjekt bezogen waren, entwi- ckelten sich Vergangenheitsformen, die syntaktisch gleichwertig waren mit den durch ha- ben gebildeten. Die prädikative Verbindung er ist gefallen hatte ursprünglich die Bedeu- tung ‘er ist ein Gefallener’. [...] Auch hier ändert sich dann der Bedeutungsinhalt des Partizips, es drückt nicht mehr den Zustand, sondern die in der Vergangenheit liegende Handlung aus und verbindet sich mit dem Hilfsverb zu einer einheitlichen Verbalform." (Dal 1966, 122–123)
 
 ### [ N | N ] *haben + Partizip* Intransitive perfect
 
@@ -1390,7 +1398,15 @@ secundary predicate: "er findet sie in Zustand X"
 - er hat sie an einem Fest nach reichlichem Weingenuß bei ihrem Herd so fest eingeschlafen gefunden.
 - Wenn Sie Silex seit langem zu den am meisten gesuchten Augenärzten zählen, so verdankt er dies einer Reihe von Eigenschaften, wie sie sich nur selten vereint finden. (DWDS: Berliner Tageblatt 18.03.19918, S.3)
 
-## Diatheses with subject exchange
+## Diatheses with object demotion
+
+Not Attested
+
+## Diatheses with promotion to object
+
+Not Attested
+
+## Symnmnetrical diatheses
 
 ### --- [ Ø > SBJ > Ø ] Agent-Experiencer commutative --- {.unnumbered}
 
@@ -1462,15 +1478,3 @@ Um die Sache zu prüfen, habe er im Urlaub mal einen Nacktbadestrand aufgesucht 
 **Attested Verbs**
 
 - *verlieren*
-
-## Diatheses with object demotion
-
-Not Attested
-
-## Diatheses with promotion to object
-
-Not Attested
-
-## Diatheses with object exchange
-
-Not Attested

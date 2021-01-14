@@ -23,12 +23,12 @@ The unmarked nature of covert diatheses implies that there is some slight redund
 
 The German case marking system is rather straightforward. Noun phrases in German occur in one of four case forms. There are various syncretisms in the case paradigm, which conceal the identity of the case in many sentences. For this reason, I will attempt to use first/second person singular pronouns or masculine singular nouns in constructed examples. These forms can easily be unambiguously identified, as shown in [@tbl:german-case].
 
-| Case       | 1st person | 2nd person | 3rd person masculine | Masculine noun |
-| ---------- | ---------- | ---------- | -------------------- | -------------- |
-| Nominative | *ich*      | *du*       | *er*                 | *der Tisch*    |
-| Genitive   | *meiner*   | *deiner*   | *seiner*             | *des Tisches*  |
-| Dative     | *mir*      | *dir*      | *ihm*                | *dem Tisch*    |
-| Accusative | *mich*     | *dich*     | *ihn*                | *den Tisch*    |
+| Case       | 1st        | 2nd        | 3rd masc. | Masc. noun    |
+| ---------- | ---------- | ---------- | --------- | ------------- |
+| Nominative | *ich*      | *du*       | *er*      | *der Tisch*   |
+| Genitive   | *meiner*   | *deiner*   | *seiner*  | *des Tisches* |
+| Dative     | *mir*      | *dir*      | *ihm*     | *dem Tisch*   |
+| Accusative | *mich*     | *dich*     | *ihn*     | *den Tisch*   |
 
 Table: German marking of case {#tbl:german-case}
 
@@ -58,15 +58,13 @@ These quantified constituents are not governed arguments. First, they can easily
 
 ### Named objects
 
-A special group of verbs can be used to performatively name persons or things. As proper names, such arguments are arguably without case in standard German [@next a], but with regular nouns these phrases are clearly accusatives [@next b]. The effect are constructions with two accusative arguments. These arguments are normally questioned by the manner interrogative *wie* 'how', though in some situations *was* 'what' seems possible [@next c].
+A special group of verbs can be used to performatively name persons or things. As proper names, such arguments are arguably without case in standard German [@next a], but with regular nouns these phrases are clearly accusatives [@next b]. The effect are constructions with two accusative arguments. These arguments are normally questioned by the manner interrogative *wie* 'how', though in some situations *was* 'what' seems possible [@next c]. The small group of verbs that obligatorily takes such arguments will be discussed in [@sec:case-named-objects].
 
 ::: ex
 a.  Ich nenne dich [Lukas].
 b.  Ich nenne dich [einen Egoisten].
 c.  Was nennst du dein eigen?
 :::
-
-The small group of verbs that obligatorily takes such arguments will be discussed in [@sec:case-named-objects].
 
 ### Cognate objects
 
@@ -99,7 +97,7 @@ The typical examples like *Blut* 'blood' in [@last a] do not show much indicatio
 
 ::: ex
 a.  ^* Er stirbt es.
-b.  ^?^ Was ist er gestorben?
+b.  ^^?^ Was ist er gestorben?
 :::
 
 ### Adnominal case-marked constituents
@@ -1137,4 +1135,3 @@ f.  ^* Ich versichere dir meines Vertrauens.
 
 - *versichern*
 
--->

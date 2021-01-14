@@ -318,7 +318,15 @@ Also *finden*!
 
 - Sein Teller steht auf den Tisch. vs. Er fand seinen Teller auf den Tisch stehen.
 
-## Diatheses with subject exchange
+## Diatheses with object demotion
+
+not attested
+
+## Diatheses with promotion to object
+
+not attested
+
+## Symnmetrical diatheses
 
 ### --- [ OBJ > SBJ > OBJ ] Experientive --- {.unnumbered}
 
@@ -334,10 +342,3 @@ underlying genitive of nominative?
 - Das entgeht mir. Das lasse ich mir nicht entgehen.
 - Das Essen schmeckt mir. Ich lasse mir das Essen schmecken.
 - Der Besuch kostet mir etwas. Ich lasse mir den Besuch etwas kosten.
-
-## Diatheses with object demotion
-
-## Diatheses with promotion to object
-
-## Diatheses with object exchange
-
