@@ -4,7 +4,7 @@
 
 Attempt to propose semantically sensitive German names, though analysis is not always clear.
 
-## [ SBJ > Ø ] Verbative
+## [SBJ > Ø ] Verbative
 
 ### *Nullmarkierte* zerstreuende Avalenz
 
@@ -30,7 +30,7 @@ b.  Dieses Jahr gibt es einen guten Wein.
 
 ### *werden + Infinitiv* unpersönlicher Passiv
 
-## [ OBJ > SBJ > Ø ] Anticausative
+## [OBJ > SBJ > Ø ] Anticausative
 
 ### *Nullmarkierter* Antikausativ
 
@@ -47,19 +47,19 @@ d.  Der Kaffee ist gekocht.
 
 (see [@sec:reflexive-anticausative] ff.)
 
-## [ PBJ > SBJ > Ø ] Fabricative
+## [PBJ > SBJ > Ø ] Fabricative
 
-## [ ADJ > SBJ > Ø ] Conciliative
+## [ADJ > SBJ > Ø ] Conciliative
 
-## [ OBJ > SBJ > ADJ ] Passive
+## [OBJ > SBJ > ADJ ] Passive
 
 ### *sich* Erlebnispassiv
 
 [@sec:reflexive-preposition-passive]
 
-## [ OBJ > SBJ > PBJ ] Conversive
+## [OBJ > SBJ > PBJ ] Conversive
 
-## [ Ø > SBJ > PBJ ] Novative
+## [Ø > SBJ > PBJ ] Novative
 
 ### *Nullmarkierter* Kausativ
 
@@ -72,11 +72,11 @@ c.  Der Krug ist zerbrochen.
 d.  ^* Der Krug hat zerbrochen.
 :::
 
-## [ ADJ > SBJ > PBJ ] Reversed passive
+## [ADJ > SBJ > PBJ ] Reversed passive
 
-## [ Ø > OBJ ] Object addition
+## [Ø > OBJ ] Object addition
 
-## [ Ø > OBJ ] Resultative
+## [Ø > OBJ ] Resultative
 
 ### *Nullmarkierter* Resultativ
 
@@ -87,11 +87,11 @@ a.  Er stotterte.
 b.  Er stotterte eine Entschuldigung.
 :::
 
-## [ ADJ > OBJ ] Applicative
+## [ADJ > OBJ ] Applicative
 
-## [ ADJ > OBJ > ADJ ] Full applicative
+## [ADJ > OBJ > ADJ ] Full applicative
 
-## [ ADJ > OBJ ] Possessor raising
+## [ADJ > OBJ ] Possessor raising
 
 ### *Nullmarkierter* Pertinenzdativ
 
@@ -106,13 +106,13 @@ b.  Ich schneide ihm die Haare.
 
 typically unmarked, very few examples of a possessor dativ introduced with a preverb (see [@sec:preverb-possessor-raising])
 
-## [ ADJ > ADJ ]Preposition Change
+## [ADJ > ADJ ]Preposition Change
 
 ### *Sich* Resultativ
 
 (see [@sec:reflexive-resultative])
 
-## [ OBJ > Ø ] Object drop
+## [OBJ > Ø ] Object drop
 
 ### *Nullmarkierter* Ambitransitiv
 
@@ -127,9 +127,9 @@ b.  Du störst.
 
 (see [@sec:reflexive-accusative-drop] ff.)
 
-## [ OBJ > Ø ] Antiresultative
+## [OBJ > Ø ] Antiresultative
 
-## [ OBJ > ADJ ] Antipassive
+## [OBJ > ADJ ] Antipassive
 
 ### *Sich* Reziprokativ
 

@@ -165,7 +165,7 @@ Non-coherent constructions always allow the finite subordinate alternative:
 
 This only seems to occur in exceptional cases.
 
-### [ Z ]
+### [ Z]
 
 **Attested Verbs**
 
@@ -182,7 +182,7 @@ The transitive *angehen* 'attack' has a different meaning
 
 - Das Wildschwein geht den Jäger an.
 
-### [ NZ ]
+### [ NZ]
 
 **Attested Verbs**
 
@@ -192,7 +192,7 @@ The transitive *angehen* 'attack' has a different meaning
 
 - wie lange dieser grässliche Zustand gedauert hat, vermag keiner zu sagen
 
-### [ NPZ ]
+### [ NPZ]
 
 **Attested Verbs**
 
@@ -204,7 +204,7 @@ The transitive *angehen* 'attack' has a different meaning
 - ? Er appellierte an uns.
 - Er appellierte an uns die Erfahrungen zu berücksichtigen.
 
-### [ NAZ ]
+### [ NAZ]
 
 **Attestede Verbs**
 
@@ -223,7 +223,7 @@ Altmodisch mit 'von'
 - Eins ihrer längst verstorbenen Kinder, das im ganzen nach der Geburt nur vierundzwanzig Stunden geatmet hatte, war ihr, und zwar als erwachsener Mensch erschienen und hatte von der Seereise auf dem "Roland" abgemahnt. (Berliner Tageblatt (Morgen-Ausgabe), 03.03.1912)
 - In seltener Einmütigkeit haben die privaten deutschen TV-Veranstalter die ARD wegen einer Werbekampagne abgemahnt. (Berliner Zeitung, 22.04.1995)
 
-### [ ZD ]
+### [ ZD]
 
 **Attested Verbs**
 
@@ -251,7 +251,7 @@ This only seems to occur in exceptional cases.
 - Einen Hut zu tragen schickt sich nicht
 - Es schickt sich nicht einen Hut zu tragen
 
-### [ NZ ]
+### [ NZ]
 
 Dative or accusative *sich*?
 
@@ -264,7 +264,7 @@ Dative or accusative *sich*?
 - Er schickte sich an zu arbeiten.
 - Ich getraue mich/mir hinein zu gehen.
 
-### [ N-Z ]
+### [ N-Z]
 
 Obligatory non-nominative *es*.
 
@@ -280,7 +280,7 @@ Sie legte es darauf an zu spät zu kommen.
 
 Subordination replacing P/G arguments before A arguments. No subordination of dative arguments?
 
-### [ NP | NZ ]
+### [ NP | NZ]
 
 Nominative control
 
@@ -312,7 +312,7 @@ From the ZAS Database it looks like the prepositions can often be left out with 
 - Sie haben sich (??damit??) abgeplagt, ihr "Fachchinesisch" zu etablieren.
 - Man muß sich aber nicht unbedingt damit abplagen, mit beiden Beinen auf einem Board zu balancieren.
 
-### [ NA | NZ ]
+### [ NA | NZ]
 
 Nominative control
 
@@ -357,7 +357,7 @@ The verb *anordnen* is sometimes called 'hidden control'.
 
 - Sie ordnete an wegzubleiben. Er ordnet den Rückzuck an.
 
-### [ NG | NZ ]
+### [ NG | NZ]
 
 Nominative control
 
@@ -369,7 +369,7 @@ Nominative control
 
 - Er gedachte zu schwänzen.
 
-### [ NAP | NAZ ]
+### [ NAP | NAZ]
 
 Accusative control
 
@@ -385,7 +385,7 @@ Accusative control
 - Ich überrede dich mitzukommen. Ich überrede dich zu einem Glas Wein.
 - Ich verpflichte ihn zu kommen. Ich verpflichte dich zu einem Glas Wein.
 
-### [ NAA | NAZ ]
+### [ NAA | NAZ]
 
 Accusative control
 
@@ -398,7 +398,7 @@ Accusative control
 - Ich lehre dich tango zu tanzen. ch lehre dich den Tango.
 - Ich heiße dich einen Dummkopf. Er hat sie geheißen, Platz zu nehmen.
 
-### [ NAG | NAZ ]
+### [ NAG | NAZ]
 
 Accusative control
 
@@ -411,7 +411,7 @@ Accusative control
 - Ich bezichtige dich nicht des Diebstahls. Ich bezichtige dich nicht zu spät zu sein.
 - Ich klage dich des Diebstahls an. Ich klage dich an zu spät zu sein.
 
-### [ NDP | NDZ ]
+### [ NDP | NDZ]
 
 Dative control
 
@@ -426,7 +426,7 @@ Dative control
 - Sie erklärte ihm zu schweigen. Er erklärte dem Mädchen seine Liebe. Er erklärte sein Einverständnis.
 - Er schlägt ihr vor die Steuern zu senken.
 
-### [ NDA | NDZ ]
+### [ NDA | NDZ]
 
 Dative control
 
@@ -444,7 +444,7 @@ Dative control
 
 ## Nominative subordination alternations
 
-### [ NP | ZP ]
+### [ NP | ZP]
 
 **Attested Verbs**
 
@@ -455,7 +455,7 @@ Dative control
 - Es zeugt von Mut einfach so zu verschwinden. Deine Tat zeugt von Mut.
 - Es reicht aus für die Besprechung das Licht anzumachen. Die Zeit reicht aus für die Besprechung.
 
-### [ NA | ZA ]
+### [ NA | ZA]
 
 Accusative control
 
@@ -474,7 +474,7 @@ Accusative control
 - belustigen
 - traurig stimmen (Es stimmt mich traurig, euch zu verlassen - Euch zu verlassen stimmt mich traurig
 
-### [ ND | ZD ]
+### [ ND | ZD]
 
 Dative control
 
@@ -489,7 +489,7 @@ Dative control
 - genügen (Mir genügt es dir zuzuschauen)
 - leid tun (Mir tut es leid dich weinen zu sehen)
 
-### [ NZ | ZD ]
+### [ NZ | ZD]
 
 Dative control, but only for exception case of *belieben*?
 
@@ -501,7 +501,7 @@ Dative control, but only for exception case of *belieben*?
 
 ## Subordination alternations with *sich*
 
-### [ NP | NZ ]
+### [ NP | NZ]
 
 Nominative control, accusative *sich*
 

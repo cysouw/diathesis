@@ -35,11 +35,28 @@ For the classification of diatheses into kinds, I have followed the following ru
 - Governed prepositions are classified as arguments (~~OBJ~~), except when the governed prepositional phrase alternates with a case-marked argument: then they are classified as adjuncts (~~ADJ~~). The reason for this seemingly ad-hoc decision is that for all diatheses involving an alternation between prepositional phrases and case-marked constituents, there appears to be a mix of governed and non-governed prepositions without any clear differences.
 - Non-governed prepositions are always classified as adjuncts (~~ADJ~~). In the current discussion they are only relevant when they alternate with a case-marked constituent.
 
+There are fourteen local groups of diatheses that seem prominent enough to be given a German name. I propose the following names for these:
+
+- ~~[ADJ › SBJ › Ø] Instrumentsubjektivierung~~ (see [@sec:prepositions-intransitive-preposition-anticausative ff.])
+- ~~[PBJ › SBJ › Ø] Kreationssubjektivierung~~ (see [@sec:prepositions-fabricative-accusative ff.])
+- ~~[OBJ › SBJ › Ø] Ortsantikausativ~~ (see [@sec:prepositions-haben-caused-location])
+- ~~[Ø › SBJ › OBJ] Ortskausativ~~ (see [@sec:prepositions-sein-caused-location ff.])
+- ~~[OBJ › ADJ] Akkusativ-Antipassiv~~ (see [@sec:prepositions-accusative-antipassive ff.])
+- ~~[OBJ › ADJ] Dativ-Antipassiv~~ (see [@sec:prepositions-dative-antipassive ff.])
+- ~~[Ø › PBJ] Bewegungszustand~~ (see [@sec:prepositions-manner-of-movement ff.])
+- ~~[Ø › PBJ] Ortsresultativ~~ (see [@sec:prepositions-intransitive-location-as-result ff.])
+- ~~[Ø › OBJ › PBJ] Aktionsresultativ~~ (see [@sec:prepositions-action-result])
+- ~~[Ø › PBJ] Ergänzende Wirkung~~ (see [@sec:prepositions-performative-result]
+- ~~[ADJ › OBJ] Benefaktivdativ~~ (see [@sec:prepositions-benefactive-dative])
+- ~~[ADJ › OBJ] Ortspertinenzdativ~~ (see [@sec:prepositions-possessor-of-location-to-dative-experiencer ff.])
+- ~~[ADJ › OBJ › PBJ] Pertinenzakkusativ~~ (see [@sec:perpositions-possessor-applicative])
+- ~~[ADJ › OBJ › ADJ] Vollapplikativ~~ (see [@sec:prepositions-instrument-applicative])
+
 ## Delimiting governed prepositional phrases {#sec:prepositions-delimiting-governed-prepositional-phrases}
 
 ### Identifying governed prepositions
 
-As a general rule (with some exceptions with *für* and *durch* to be discussed below) I propose to identify prepositional phrases as lexically governed arguments when they allow for a paraphrase of the form *da-~~PREPOSITION~~, dass/was ~~SENTENCE~~* (cf. Engelen 1986: 110-112). dFor example, the verb *warten* 'to await' has a possible governed preposition *auf* designating the object that is waited for [@next a]. In this reading, [@next a] can be paraphrased by [@next b] with a *darauf, dass* subordinate clause. The combination *warten auf* can best be considered a fixed collocation, to be translated into English as 'waiting for'. However, the preposition *auf* can also have its adverbial local meaning 'on top of' [@next c]. This leads to another interpretation in which the prepositional phrase is not a governed preposition but an adverbial phrase with a local meaning, paraphrased in [@next d]. These two readings can even be combined [@next e], with an interesting difference in case marking between the two prepositional phrases.
+As a general rule (with some exceptions with *für* and *durch* to be discussed below) I propose to identify prepositional phrases as lexically governed arguments when they allow for a paraphrase of the form *da-~~preposition~~, dass/was ~~sentence~~* (cf. Engelen 1986: 110-112). For example, the verb *warten* 'to await' has a possible governed preposition *auf* designating the object that is waited for [@next a]. In this reading, [@next a] can be paraphrased by [@next b] with a *darauf, dass* subordinate clause. The combination *warten auf* can best be considered a fixed collocation, to be translated into English as 'waiting for'. However, the preposition *auf* can also have its adverbial local meaning 'on top of' [@next c]. This leads to another interpretation in which the prepositional phrase is not a governed preposition but an adverbial phrase with a local meaning, paraphrased in [@next d]. These two readings can even be combined [@next e], with an interesting difference in case marking between the two prepositional phrases.
 
 ::: ex
 a.  Der König wartet auf seinen neuen Thron.
@@ -370,7 +387,7 @@ Alternations without diathesis do not exist by definition for 'bare' alternation
 
 ## Diatheses with subject demotion
 
-### --- [ SBJ > Ø ] Subject drop --- {.unnumbered}
+### --- [ SBJ > Ø ] --- {.unnumbered}
 
 ### [ NP | –P ] Nominative drop + governed preposition {#sec:prepositions-nominative-drop}
 
@@ -406,7 +423,7 @@ c.  Eine mögliche Wiedergeburt der Grünen [...] hapert an drei Stellen. (DWDS:
 d.  Nur bei den Bässen hapert der Nachschub. (DWDS: Die Zeit, 19.03.1993, Nr. 12)
 :::
 
-### --- [ SBJ > ADJ ] Subject demotion --- {.unnumbered}
+### --- [ SBJ > ADJ ] --- {.unnumbered}
 
 ### [ ND | pD ] Nominative demotion + dative {#sec:prepositions-nominative-demotion}
 
@@ -444,7 +461,7 @@ c.  Es ist kalt (im Sommer).
 - Mir ist zum Heulen im Sommer. Der Sommer ist zum Heulen. 
 - Mir ist langweilig im Sommer. Der Sommer ist langweilig.
 
-### --- [ ADJ > SBJ > Ø ] Conciliative (~~Instrumentsubjektivierung~~) --- {.unnumbered}
+### --- [ ADJ > SBJ > Ø ] --- *Instrumentsubjektivierung* {.unnumbered}
 
 A ~~conciliative~~ is a diathesis in which an instrument-like artefact is promoted to nominative subject. This instrument is an intermediate (Lat. *conciliator*, 'intermediary/mediator') that is used by an agent to reach a certain goal.
 
@@ -536,7 +553,7 @@ This alternation takes a (non-governed) prepositional phrase and turns it into a
 - Ich schmecke Pfefferminze in der Suppe. Die Suppe schmeckt nach Pfefferminze
 - Ich rieche Blume im Parfüm. Der Parfüm riecht nach Blume.
 
-### --- [ PBJ > SBJ > Ø ] Fabricative (~~Kreationssubjektivierung~~)--- {.unnumbered}
+### --- [ PBJ > SBJ > Ø ] --- *Kreationssubjektivierung* {.unnumbered}
 
 A ~~fabricative~~ (Lat *fabrica*, 'plan, trick, workmanship') is a diathesis that superficially looks very similar to a conciliative in German because in both diatheses a *mit* prepositional phrase is promoted to nominative subject. The central difference is that the *mit* prepositional phrase in a fabricative diathesis is a governed preposition. This structural difference has a parallel semantic difference in that the fabricative *mit* phrase is an object that is produced by the agent.
 
@@ -599,40 +616,22 @@ c.  Die Entlassung droht mir.
 
 - *drohen*
 
-### --- [ OBJ > SBJ > Ø ] Anticausative --- {.unnumbered}
+### --- [ OBJ > SBJ > Ø ] --- *Ortsantikausativ* {.unnumbered}
 
-### [ NA– | –NP ] Anticausative + preposition addition {#sec:prepositions-anticausative-preposition-addition}
+### [ NAL | –NL ] *haben* Anticausative + location {#sec:prepositions-haben-caused-location}
 
-The preposition *auf* is a governed preposition [@next].
-
-::: ex
-a.  Ich deute den Traum. 
-b.  Der Traum deutet auf nichts Gutes. 
-c.  Der Traum deutet darauf, dass morgen alles wieder gut sein wird.
-:::
-
-**Attested Verbs**
-
-- *deuten*
-
-## Diatheses with promotion to subject
-
-### --- [ Ø > SBJ > OBJ ] Causative (~~Ortskausativ~~) --- {.unnumbered}
-
-### [ –NL | NAL ] *haben* causative + location {#sec:prepositions-haben-caused-location}
-
-Some verbs allow for both an intransitive stative location [@next a] and caused location [@next b] construction. I analyze these verbs as causatives (and not as anticausatives, cf. [@sec:case-haben-anticausative]) because there is a group of further verbs in German that are semantically similar and that are leftovers of an old morphological causative, namely *liegen-legen*, *sitzen-setzen*, *stehen-stellen*.
+Some verbs allow for both an intransitive stative location [@next a] and caused location [@next b] construction. I analyze these verbs as anticausatives (cf. [@sec:case-haben-anticausative]).
 
 ::: ex
-a.  Der Pullover hängt im Schrank.
-b.  Ich hänge den Pullover in den Schrank.
+a.  Ich hänge den Pullover in den Schrank.
+b.  Der Pullover hängt im Schrank.
 :::
 
 These verbs use a *haben* perfect both in the intransitive and transitive usage [@next a,b]. The "Zustandspassiv" of the transitive is also possible, leading to another intransitive construction with the auxiliary *sein* [@next c].
 
 ::: ex
-a.  Der Teller hat am Tisch geklebt.
-b.  Ich habe den Teller an den Tisch geklebt.
+a.  Ich habe den Teller an den Tisch geklebt.
+b.  Der Teller hat am Tisch geklebt.
 c.  Der Teller ist am Tisch geklebt.
 :::
 
@@ -660,7 +659,27 @@ c.  Der Pullover hat im Schrank gehangen.
 d.  Ich habe den Pullover in den Schrank gehängt.
 :::
 
-### [ –NL | NAL ] *sein* causative + location {#sec:prepositions-sein-caused-location}
+
+
+### [ NA– | –NP ] Anticausative + preposition addition {#sec:prepositions-anticausative-preposition-addition}
+
+The preposition *auf* is a governed preposition [@next].
+
+::: ex
+a.  Ich deute den Traum. 
+b.  Der Traum deutet auf nichts Gutes. 
+c.  Der Traum deutet darauf, dass morgen alles wieder gut sein wird.
+:::
+
+**Attested Verbs**
+
+- *deuten*
+
+## Diatheses with promotion to subject
+
+### --- [ Ø > SBJ > OBJ ] --- *Ortskausativ* {.unnumbered}
+
+### [ –NL | NAL ] *sein* Causative + location {#sec:prepositions-sein-caused-location}
 
 Though similar to the *haben* causatives (see [@sec:prepositions-haben-caused-location]), these verbs only have the option of a *sein* perfect for the intransitive [@next a,b].
 
@@ -681,7 +700,7 @@ d.  Der Elefant stürzt ins Wasser.
 
 ::: ex
 a.  Ich habe den Brief geöffnet.
-b.  Ich öffne das Haus.
+b.  Ich öffne den Brief.
 c.  Der Brief ist geöffnet.
 d.  ^* Der Brief öffnet.
 :::
@@ -700,6 +719,21 @@ d.  ^* Der Brief öffnet.
 **Notes**
 
 The alternation with the verb *rücken* 'to move over' and *ziehen* 'to pull' are rather idiosyncratic. Possibly, these alternations constructions are better seen as different verbs.
+
+### [ –NL | NAL ] *Umlaut* Causative + location
+
+::: ex
+Der Hund liegt in den Korb.
+Ich lege den Hund in den Korb.
+:::
+
+**Attested Verbs**
+
+*liegen/legen, schwimmen/schwemmen, sitzen/setzen, stehen/stellen*
+
+**Examples**
+
+Das Pferd schwimmt im Fluss. Ich schwemme das Pferd im Fluss.
 
 ## Diatheses with object demotion {#sec:prepositions-demotion-of-object}
 
@@ -734,24 +768,24 @@ Antipassive hierarchy: dative/genitive > accusative
 Some verbs allow for both a dative and an accusative antipassive. There appears to be recurrent restrictions on the co-occurrence of accusative and dative prepositional alternations, with attested patterns as shown for *schießen* 'to shoot' in [@next a-f] and *schreiben* 'to write' [@next a-f]. The generalisation seem to be (i) that the accusative cannot be demoted into a preposition when there is still a dative around and (ii) dative and accusative can only be both demoted to a preposition if one of the prepositions is *für* (this is a further indication that the *für* diatheses are better analysed as promotions, see [@sec:prepositions-benefactive-dative]).
 
 ::: ex
-a.  Ich schieße dir den Bären. [ NAD ]
-b.  Ich schieße für dich. [ N-P ]
+a.  Ich schieße dir den Bären. [ NAD]
+b.  Ich schieße für dich. [ N-P]
 c.  Ich schieße auf den Bären. [ NP- ]
-d.  Ich schieße den Bären für dich. [ NAP ]
-e.  ^* Ich schieße dir auf den Bären. [ NPD ]
-f.  Ich schieße für dich auf den Bären. [ NPP ]
+d.  Ich schieße den Bären für dich. [ NAP]
+e.  ^* Ich schieße dir auf den Bären. [ NPD]
+f.  Ich schieße für dich auf den Bären. [ NPP]
 :::
 
 ::: ex
-a.  Ich schreibe dir den Brief. [ NAD ]
-b.  Ich schreibe an dich. [ N-P ]
+a.  Ich schreibe dir den Brief. [ NAD]
+b.  Ich schreibe an dich. [ N-P]
 c.  Ich schreibe an den Brief. [ NP- ]
-d.  Ich schreibe den Brief an dich. [ NAP ]
-e.  ^* Ich schreibe dir an dem Brief. [ NPD ]
-f.  ^* Ich schreibe an dich an dem Brief. [ NPP ]
+d.  Ich schreibe den Brief an dich. [ NAP]
+e.  ^* Ich schreibe dir an dem Brief. [ NPD]
+f.  ^* Ich schreibe an dich an dem Brief. [ NPP]
 :::
 
-### --- [ PBJ > Ø ] Governed preposition drop --- {.unnumbered}
+### --- [ PBJ > Ø ] --- {.unnumbered}
 
 ### [ NP | N– ] Governed preposition drop
 
@@ -877,7 +911,7 @@ c.  Ich rate zum Verkauf.
 
 ### [ NDP | N– – ] Dative drop + governed preposition drop
 
-Some verbs allow for both the dative and the preposition to be dropped, though mostly not both at the same time [@next]. Also note that the dative appears to be always the possessor of the prepositional phrase, so these diatheses might alternatively be analysed as a stack of two different diatheses, viz. a possessor raising [NP–|NPg|NPD] and a preposition drop [NPD|N–D].
+Some verbs allow for both the dative and the preposition to be dropped, though mostly not both at the same time [@next]. Also note that the dative appears to be always the possessor of the prepositional phrase, so these diatheses might alternatively be analysed as a stack of two different diatheses, viz. a possessor raising [ NP–|NPg|NPD ] and a preposition drop [ NPD|N–D ].
 
 ::: ex
 a.  Ich gratuliere dir zu deinem Geburtstag.
@@ -900,7 +934,7 @@ d.  ^^?^ Ich gratuliere.
 - Er dankt (mir) für den Wein.
 - Er antwortet (dir) auf deine Frage.
 
-### --- [ OBJ > ADJ ] Accusative Antipassive --- {.unnumbered}
+### --- [ OBJ > ADJ ] --- *Akkusativ-Antipassiv* {.unnumbered}
 
 ### [ NA | Np ] Accusative antipassive {#sec:prepositions-accusative-antipassive}
 
@@ -1177,7 +1211,7 @@ c.  ^* Er stößt das Messer.
 
 - *drücken, stoßen*
 
-### --- [ OBJ > ADJ ] Dative Antipassive --- {.unnumbered}
+### --- [ OBJ > ADJ ] --- *Dativ-Antipassiv* {.unnumbered}
 
 ### [ ND | Np ] Dative antipassive {#sec:prepositions-dative-antipassive}
 
@@ -1282,7 +1316,7 @@ Various verbs also allow for a *zu* dative alternation.
 - Ich sage dir einen Satz. Ich sage einen Satz zu dir.
 - Ich ordne das Verb einer Gruppe zu. Ich ordne das Verb zu einer Gruppe zu.
 
-### --- [ OBJ > PBJ ] Governed Antipassive --- {.unnumbered}
+### --- [ OBJ > PBJ ] --- {.unnumbered}
 
 ### [ NA | NP ] Accusative governed antipassive {#sec:prepositions-governed-antipassive}
 
@@ -1308,7 +1342,6 @@ d.  Die Arbeit beginnt.
 - Ich büße meine Missetat. Ich büße für meine Missetat.
 - Ich garantiere den Erfolg. Ich garantiere für den Erfolg.
 - Ich lebe meinen Beruf. Ich lebe für meinen Beruf.
-
 
 **Notes**
 
@@ -1374,7 +1407,7 @@ The verb *entbinden* can be used as an intransitive verb with a meaning of 'to g
 
 ## Diatheses with promotion to object
 
-### --- [ Ø > OBJ ] Object addition --- {.unnumbered}
+### --- [ Ø > OBJ ] --- {.unnumbered}
 
 ### [ –P | DP ] Dative addition + governed preposition
 
@@ -1393,7 +1426,7 @@ This alternation allows for either a dative to be present or not with verbs that
 - Es fehlt an Geld. Ihm fehlt es an Geld.
 - Es liegt am Geld. Es liegt mir viel am Geld. Es liegt mir daran, dass du es erfährst.
 
-### --- [ Ø > PBJ ] Manner of movement --- {.unnumbered}
+### --- [ Ø > PBJ ] --- *Bewegungszustand* {.unnumbered}
 
 ### [ N– | NL ] Manner of movement {#sec:prepositions-manner-of-movement}
 
@@ -1441,7 +1474,7 @@ b.  Sie stürmten in den Saal.
 - Seine Zähne blitzten in der Sonne.
 - Die Motoren donnerten durch die Stadt.
 
-### --- [ Ø > PBJ ] Resultative --- {.unnumbered}
+### --- [ Ø > PBJ ] --- *Ortsresultativ* {.unnumbered}
 
 In the analysis of resultative constructions, there is a recurrent suggestion in the literature to distinguish between 'cause to go' and 'cause to become' semantics (e.g. [@mcintyre2003: 120]). I will use the designation 'location-as-result' for the former and names like 'action result' or 'performative result' for the latter here.
 
@@ -1537,38 +1570,7 @@ e.  Ich befehle dich während ich an der Front bin.
 - Ich schneide meine Nägel. Ich schneide den Apfel in Stücke.
 - der Kutscher peitschte das Pferd. Ein Tornado peitscht Tausende von Haien aus dem Meer.
 
-### [ NA– | NAp ] Performative result
-
-A slightly different variant of a resultative constructions is found with various performative verbs that take a regular accusative [@next a]. As an alternative structure, these verbs also allow a construction with an accusative and a preposition [@next b]. The meaning of such constructions is parallel to the previous resultatives, in that the performative verb causes the result "accusative is prepositional object" [@next c]. Such constructions were named quite aptly "Ergänzende Wirkung" all the way back in the influential educational grammatical work of Karl Ferdinand Becker [@becker1833: 81] almost 200 years ago.
-
-::: ex
-a.  Er macht die Aufgaben. 
-b.  Er macht die Wiese zu einem Garten.
-c.  Er macht etwas, und das Ergebnis ist: Die Wiese ist ein Garten.
-:::
-
-Maybe the *als* alternation has to treated as a separate diathesis.
-
-**Attested Verbs**
-
-- *zu*  : *erklären, machen*
-- *für* : *halten, erklären*
-- *als* : *ansehen, benennen, betrachten, bezeichnen, empfinden*
-
-**Examples**
-
-- Sie erklärte das Problem. Sie erklärte die Behauptung für eine Lüge.
-- Ich betrachte das Gemälde. Ich betrachte dich als einen Freund.
-- Ich sehe das Gemälde an. Ich sehe dich als einen Freund an.
-
-**Notes**
-
-For some verbs there appears to be a rather clear lexicalisation of the meaning of the verb between the two alternants, i.e. it is questionable, whether the alternant should still be considered to be the same verb.
-
-- Ich halte das Schwert. Ich halte dich für einen Scharlatan.
-- Sie erklärte die Lösung. Sie erklärte den Kandidaten zum Geschäftsführer.
-
-### --- [ Ø > OBJ > PBJ ] Resultative --- {.unnumbered}
+### --- [ Ø > OBJ > PBJ ] --- *Aktionsresultativ* {.unnumbered}
 
 ### [ NA– | NLA ] Action result {#sec:prepositions-action-result}
 
@@ -1606,7 +1608,7 @@ b.  Er kämmt dir die Läuse aus den Haaren.
 - Ich breche eine Tür in den Felsen. Ich breche den Felsen.
 - Ich wasche den Fleck aus der Hose. Ich wasche die Hose.
 
-### [ NP– | NAA ] Naming result {#sec:prepositions-naming-result}
+### [ Np– | NAA ] Naming result {#sec:prepositions-naming-result}
 
 This alternation appears as a parallel to the double accusative of *nennen* 'to name' (see [@sec:case-named-objects]) for other naming verbs.
 
@@ -1623,7 +1625,42 @@ b.  Sie schimpft mich einen Narren
 
 - Er sitzt immer am selben Platz bei Bier und Schnaps, flucht mich einen Tagedieb, einen Affen, Bananenfresser, einen, der schon längstens in eine Arbeitserziehungsanstalt gehöre. (http://www.gruppe-4-w.de/forum/viewtopic.php?f=21&t=2047#p19030, accessed 29 Juli 2019)
 
-### --- [ ADJ > OBJ ] Dative applicative --- {.unnumbered}
+### --- [ Ø > PBJ ] --- *Ergänzende Wirkung* {.unnumbered}
+
+### [ NA– | NAP ] Performative result {#sec:prepositions-performative-result}
+
+(Obligatory prepositional phrase?)
+
+A slightly different variant of a resultative constructions is found with various performative verbs that take a regular accusative [@next a]. As an alternative structure, these verbs also allow a construction with an accusative and a preposition [@next b]. The meaning of such constructions is parallel to the previous resultatives, in that the performative verb causes the result "accusative is prepositional object" [@next c]. Such constructions were named quite aptly "Ergänzende Wirkung" all the way back in the influential educational grammatical work of Karl Ferdinand Becker [@becker1833: 81] almost 200 years ago.
+
+::: ex
+a.  Er macht die Aufgaben. 
+b.  Er macht die Wiese zu einem Garten.
+c.  Er macht etwas, und das Ergebnis ist: Die Wiese ist ein Garten.
+:::
+
+Maybe the *als* alternation has to treated as a separate diathesis.
+
+**Attested Verbs**
+
+- *zu*  : *erklären, machen*
+- *für* : *halten, erklären*
+- *als* : *ansehen, benennen, betrachten, bezeichnen, empfinden*
+
+**Examples**
+
+- Sie erklärte das Problem. Sie erklärte die Behauptung für eine Lüge.
+- Ich betrachte dich. Ich betrachte dich als einen Freund.
+- Ich sehe dich an. Ich sehe dich als einen Freund an.
+
+**Notes**
+
+For some verbs there appears to be a rather clear lexicalisation of the meaning of the verb between the two alternants, i.e. it is questionable, whether the alternant should still be considered to be the same verb.
+
+- Ich halte das Schwert. Ich halte dich für einen Scharlatan.
+- Sie erklärte die Lösung. Sie erklärte den Kandidaten zum Geschäftsführer.
+
+### --- [ ADJ > OBJ ] --- *Benefaktivdativ* {.unnumbered}
 
 ### [ NAp | NAD ] *für* Benefactive raising {#sec:prepositions-benefactive-dative}
 
@@ -1641,7 +1678,7 @@ a.  Ich arbeite für den Chef.
 b.  ^* Ich arbeite dem Chef.
 c.  Ich gewinne das Geld für dich.
 d.  ^^?^ Ich gewinne dir das Geld.
-e.  Gib mir eine Waffe und ich gewinne dir jeden Krieg. ([WWW](http://www.kriegssinfonie.ch/2018/08/paradox/), accessed 10.01.19)
+e.  Gib mir eine Waffe und ich gewinne dir jeden Krieg. ([ WWW ](http://www.kriegssinfonie.ch/2018/08/paradox/), accessed 10.01.19)
 :::
 
 
@@ -1661,7 +1698,7 @@ e.  Gib mir eine Waffe und ich gewinne dir jeden Krieg. ([WWW](http://www.kriegs
 - Ich töte dir den Hasen. Ich töte den Hasen für dich.
 - Ich garantiere dir den Erfolg. Ich garantiere den Erfolg für dich.
 
-### --- [ ADJ > OBJ ] Possessor raising --- {.unnumbered}
+### --- [ ADJ > OBJ ] --- *Ortspertinenzdativ* {.unnumbered}
 
 ### [ NLg | NLD ] Possessor-of-location to dative experiencer {#sec:prepositions-possessor-of-location-to-dative-experiencer}
 
@@ -1739,7 +1776,7 @@ Similar to the previous alternation, the verbs in this group also alternate the 
 - Ich bügle die Falten aus deinem Hemd. Ich bügle dir die Falten aus dem Hemd.
 - Ich breche eine Tür in deine Wand. Ich breche dir eine Tür in die Wand.
 - Ich wasche den Fleck aus deiner Hose. Ich wasche dir den Fleck aus der Hose.
-- Er häufte mir das ganze Kleingeld in die Hand [DWDS: Böll, Wort 133]
+- Er häufte mir das ganze Kleingeld in die Hand [ DWDS: Böll, Wort 133]
 - Ich jage dir den Anwalt auf den Hals.
 
 **Notes**
@@ -1750,7 +1787,7 @@ This construction is frequently used metaphorically [@next].
 Er fragt mir ein Loch in den Bauch.
 :::
 
-### --- [ ADJ > OBJ > PBJ ] Possessor applicative --- {.unnumbered}
+### --- [ ADJ > OBJ > PBJ ] --- *Pertinenzakkusativ* {.unnumbered}
 
 ### [ NAg | NPA ] Possessor-of-accusative applicative {#sec:perpositions-possessor-applicative}
 
@@ -1774,16 +1811,16 @@ c.  Ich bewundere ihn dafür, dass er ehrlich ist.
 
 ## Symmetrical diatheses
 
-### --- [ ADJ > SBJ > ADJ ] Adjunct commutative --- {.unnumbered} 
+### --- [ ADJ > SBJ > ADJ ] --- {.unnumbered} 
 
-### [ Np | pN ] Subject switch {#sec:prepositions-subject-switch}
+### [ Np | pN ] Commutative {#sec:prepositions-subject-switch}
 
 ::: ex
 a.  Die Kinder wimmeln auf den Platz.
 b.  Der Platz wimmelt von Kindern. 
 :::
 
-### --- [ ADJ > OBJ > ADJ ] Full applicative --- {.unnumbered}
+### --- [ ADJ > OBJ > ADJ ] --- *Vollapplikativ* {.unnumbered}
 
 ### [ NAp | NpA ] Full applicative {#sec:prepositions-instrument-applicative}
 

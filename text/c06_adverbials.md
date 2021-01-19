@@ -373,8 +373,8 @@ b.  Der Junge ist losgerannt. Der losgerannte Junge.
 Many intransitives allow for a dropping of the nominative with a obligatory reflexive pronoun *sich* and an obligatory adverbial. Because of the dropped nominative there is an obligatory non-phoric *es* in such sentences [@next a]. Such constructions seem to be possible with very many intransitives, though with some verbs, like *aufstehen* 'rise' it is of debatable grammaticality [@next b]. More research is needed into the question which intransitive verbs do not allow this diathesis.
 
 ::: ex
-a.   In der Gruppe lacht es sich besser.
-b.  ^^?^ Am frühen morgen steht es sich schlecht auf.
+a.  In der Gruppe lacht es sich besser.
+b. ^^?^ Am frühen morgen steht es sich schlecht auf.
 :::
 
 A very similar diathesis is attested with transitives, see [@sec:adverbial-reflexive-transitive-anticausative], but in that case the accusative is retained as a nominative (i.e. anticausative). Also note that connection between an intransitive drop and a transitive anticausative is strongly reminiscent of unaccusativity, see [@sec:participles-restrictions]. However, there does not seem to be an obvious match between unaccusative verbs and the verbs that allow for the current diathesis [cf. @steinbach1998: 15-18].
@@ -396,10 +396,10 @@ A very similar diathesis is attested with transitives, see [@sec:adverbial-refle
 Some verbs that have a typical instrument connected to the action allow for the instrument to be turned into the nominative subject, but only with the addition of an adverbial [@next].
 
 ::: ex
-a.   Ich schneide (das Brot) mit einem Messer.
-b.   Das Messer schneidet das Brot.
-c.  ^^?^ Das Messer schneidet.
-d.   Das Messer schneidet gut.
+a.  Ich schneide (das Brot) mit einem Messer.
+b.  Das Messer schneidet das Brot.
+c. ^^?^ Das Messer schneidet.
+d.  Das Messer schneidet gut.
 :::
 
 **Attested Verbs**

@@ -149,7 +149,7 @@ Other examples: *Hindernis, Erlaubnis, Erschwernis, Ersparnis, Verhältnis, Kenn
 - Die Maschine erzeugt viel Rauch. Das Erzeugnis der Maschine ist nervig.
 - Die Untersuchung ergab keinen Beweis ihrer Schuld. Das Ergebnis der Untersuchung war gut.
 - Die Sonne erzeugt Wärme. Das Erzeugnis der Sonne ist Wärme.
-- Unsere Tage erfordern viel Einsatz. [...] und aus dieser Tradition nach den Erfordernissen unserer Tage die Wissenschaft zu fördern [Butenandt50 Jahre3]
+- Unsere Tage erfordern viel Einsatz. [...] und aus dieser Tradition nach den Erfordernissen unserer Tage die Wissenschaft zu fördern [ Butenandt50 Jahre3]
 
 ### [ NA | pg ] ???
 

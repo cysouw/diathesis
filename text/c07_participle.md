@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Constructions consisting of a participle combined with a light verb (i.e. a verb with limited lexical meaning) are manifold in German grammar. They include constructions without diathesis like the German ~~Perfekt~~ [@next a] and typical diatheses like the *werden* ~~Passiv~~ [@next b].
+Constructions consisting of a participle combined with a light verb (i.e. a verb with limited lexical meaning) are manifold in German grammar. They include constructions without diathesis like the German *haben* ~~Perfekt~~ [@next a] and typical diatheses like the *werden* ~~Passiv~~ [@next b].
 
 ::: ex
 a.  Ich habe einen Brief geschrieben.
@@ -17,9 +17,7 @@ b.  Er bekommt einen Brief geschrieben.
 b.  Dieser Brief gehört geschrieben.
 :::
 
-The term ~~participle~~ is used in this chapter for the wordform known in German grammar as *Partizip II* (see [@sec:participles-identifying-participles]). There is also a *Partizip I*, but this wordform plays a much more restricted role in German grammar. It will be discussed in Chapter [-@sec:adj].
-
-In identifying light-verb constructions with participles care has to be taken to distinguish them from constructions in which the participle is used as a depictive secondary predicate. Both constructions superficially look very similar (see [@sec:participles-secondary-predicates]).
+The term ~~participle~~ is used in this chapter for the wordform known in German grammar as *Partizip II* (see [@sec:participles-identifying-participles]). There is also a *Partizip I*, but this wordform plays a much more restricted role in German grammar. It will be discussed in Chapter [-@sec:adj]. In identifying light-verb constructions with participles care has to be taken to distinguish them from constructions in which the participle is used as a depictive secondary predicate. Both constructions superficially look very similar (see [@sec:participles-secondary-predicates]).
 
 Many light-verb constructions with participles will be discussed in more than one subsection in this chapter. This is necessary because many light-verb constructions show different sentence alternations for different verbs. Typically, participles of intransitive and transitive verbs will lead to different alternations. For example, some intransitive verbs, like *schlafen* 'to sleep' [@next a], allow for an *werden* impersonal passive in which the nominative argument is dropped (see [@sec:participles-werden-impersonal-passive]). In contrast, with many transitive verbs, like *putzen* 'to clean' [@next b], the *werden* passive shows a different diathesis in which the accusative is turned into a nominative (see [@sec:participles-werden-passive]).
 
@@ -28,11 +26,13 @@ a.  Jetzt wird geschlafen.
 b.  Das Haus wird geputzt.
 :::
 
-There are many different such 'repeated' light-verb constructions. A recurring phenomenon is one in which intransitives show no diathesis [@next a], while transitives display an anticausative diathesis [@next b]. This phenomenon seems to fit nicely with the so-called 'unaccusative hypothesis' [@perlmutter1978] which proposes that some intransitive subjects are underlyingly objects, see [@sec:participles-restrictions]. However, exactly which verbs are amenable for which light-verb constructions appears to be rather unpredictable (or maybe better 'lexically dependent'), and the survey in this chapter is proposed to be a step towards a more precise understanding the such constructional restrictions.
+There are many different such 'repeated' light-verb constructions. A recurring phenomenon is one in which intransitives show no diathesis [@next a], while transitives display an anticausative diathesis [@next b]. This phenomenon seems to fit nicely with the so-called 'unaccusative hypothesis' [@perlmutter1978] which proposes that some intransitive subjects are underlyingly objects, see [@sec:participles-restrictions]. However, exactly which intranstive verbs are amenable for which constructions appears to be rather unpredictable (or maybe better 'lexically dependent'), and the survey in this chapter is proposed to be a step towards a more precise understanding the such constructional restrictions.
 
 ::: ex
-a.  Der Schlüssel bleibt verschwunden.
-b.  Die Tür bleibt geschlossen.
+a.  Der Schlüssel verschwndet. \
+    Der Schlüssel bleibt verschwunden.
+b.  Ich schließe den Schrank. \
+    Der Schrank bleibt geschlossen.
 :::
 
 ## Characterizing participle constructions
@@ -190,51 +190,60 @@ d.  Das Haus wird schmutzig.
 - Movement/Posture Verbs: *stehen, kommen, liegen, gehen, setzen*
 
 
-*sein, werden, bleiben*, known as 'Kopulaverben' in German grammar [e.g. @duden2009: 416]
+[N | N ]  *sein, werden, bleiben*, known as 'Kopulaverben' in German grammar [e.g. @duden2009: 416]
 
-- Mein Fahrrad ist schmutzig.
-- Mein Fahrrad wird schmutzig. (Futur-Bedeutung!)
-- Mein Fahrrad bleibt schmutzig.
+::: ex
+a.  Mein Fahrrad ist schmutzig.
+a.  Mein Fahrrad wird schmutzig. (Futur-Bedeutung!)
+a.  Mein Fahrrad bleibt schmutzig.
+:::
 
-Appearence verbs called 'Askription' by Lasch [-@lasch2016: Chapter 7]
+[N | N ] Appearence verbs called 'Askription' by Lasch [-@lasch2016: Chapter 7]
 
-- Mein Fahrrad wirkt schmutzig.
-- Mein Fahrrad scheint schmutzig.
-- Mein Fahrrad erscheint schmutzig.
-- Mein Fahrrad sieht schmutzig aus.
+::: ex
+a.  Mein Fahrrad wirkt schmutzig.
+a.  Mein Fahrrad scheint schmutzig.
+a.  Mein Fahrrad erscheint schmutzig.
+a.  Mein Fahrrad sieht schmutzig aus.
+:::
 
-Kausativ
+[N | N ] Reflexive
 
-- Ich mache mein Fahrrad schmutzig. [@fehrmann2018]
-- Ich halte den Kaffee warm.
-- Ich lasse die Tür offen.
+::: ex
+a.  Er ist weltoffen. \
+    Er gibt sich weltoffen.
+b.  Er ist müde. \
+    Er fühlt sich müde.
+:::
 
-Experiencer
+[–N | NA ] Kausativ *machen, lassen, halten*
 
-- Ich finde mein Fahrrad schmutzig.
+::: ex
+a.  Das Fahhrad ist schmützig \
+    Ich mache mein Fahrrad schmutzig. [@fehrmann2018]
+b.  Die Tür ist offen. \
+    Ich lasse die Tür offen.
+c.  Der Kaffee ist noch warm. \
+    Ich halte den Kaffee warm.
+:::
 
-Reflexive
+[–N | NA ] Experiencer *haben*
 
-- Er gibt sich locker/mürrisch/siegessicher/kumpelhaft/arrogant
-- Er fühlt sich wach/müde/heimisch/sicher/schuldig
+underlying possessor?
 
-haben? 
+::: ex
 
-- Ich habe frei/recht
-- Ich habe/bekommen/kriegen es warm/leicht/eilig/schwer/besser
+d.  Meine Rechnung ist noch offen. \
+    Ich habe noch eine Rechnung offen.
+:::
 
-Transitiv
 
-- Ich habe etwas für jemand übrig
-- Ich habe dich lieb
-- Ich habe eine Rechnung offen
-- Ich habe das Essen satt
-- Ich habe eine Therapie nötig
 
 Nicht mit adjektive?
-
 - gehören
-- sehen/wissen/glauben
+- sehen/wissen/glauben/finden
+- Ich finde mein Fahrrad schmutzig.
+- Ich sehe schwarz
 
 ## Deponent verbs without alternations {#sec:participles-no-alternation}
 
@@ -613,7 +622,7 @@ some unakkusative intransitives
 - Das Geschirr wurde gewaschen, aber selbst der Fach wo das Geschirr reinkommt, ist verschimmelt geblieben. (https://www.holidaycheck.de/hrd/hl-miraflor-suites-hotel-sehr-viel-verbesserungspotenzial/2e0be7a4-3803-4fe7-a19a-910d17de92b8)
 - Nur von 4000 Personen ist aktenkundig bekannt, daß sie verschwunden geblieben sind. (https://www.zeit.de/1975/46/spurlos-verschwunden/seite-4)
 - Die Köpfchen vertrockneten immer wieder, aber sie rappelte sich immer wieder auf. Seit 4 Wochen sind die Köpfchen vertrocknet geblieben. (https://www.hausgarten.net/gartenforum/threads/carnivoren-winterruhe.32314/)
-- Ich bin auch nach der [Schwangerschaftr] weiter an Diabetes erkrankt geblieben. (https://www.hipp.de/forum/viewtopic.php?t=17551)
+- Ich bin auch nach der [ Schwangerschaftr] weiter an Diabetes erkrankt geblieben. (https://www.hipp.de/forum/viewtopic.php?t=17551)
 
 unmöglich?
 
@@ -658,7 +667,7 @@ Hätte man die Streitfragen wirklich ausgeklammert gelassen, dann wäre das Berl
 - Etwas macht mich betroffen
 - Das Geschehen macht mich verbittert
 
-- Der Rauch benimmt mir die Luft. Der Rauch macht mich benommen [ NDA | NA– ]
+- Der Rauch benimmt mir die Luft. Der Rauch macht mich benommen [ NDA | NA–]
 
 => Reflexive? Fixed Expressions?
 
@@ -667,16 +676,16 @@ Hätte man die Streitfragen wirklich ausgeklammert gelassen, dann wäre das Berl
 
 => Subject drop/demotion???
 
-Reflexiv anticausative [ NA | -N ]
+Reflexiv anticausative [ NA | -N]
 
 - Ich verdächtige ihn. Er macht sich verdächtigt.
 - Ich bezahlen den Stuhl. Der Stuhl macht sich bezahlt.
 
-Preposition Anticausative + accusative [ NPA | –NA ]
+Preposition Anticausative + accusative [ NPA | –NA]
 
 - Sie beschämt mich durch ihre Großmut. Ihre Großmut macht mich beschämt.
 
-Inverted Passive + reflexive loss [ pN | NA ]
+Inverted Passive + reflexive loss [ pN | NA]
 
 - Ich besaufe mich (mit Wein). Der Wein macht mich besoffen.
 - Ich eigne mich für den Job durch meine Qualifikation. Die Qualifikation macht mich für den Job geeignet.
@@ -685,7 +694,7 @@ Subject Switch + reflexive loss [ N–P | –Np ]
 
 - Ich konzentriere mich auf etwas. Der Kaffee macht mich konzentriert (für etwas).
 
-Subject Switch + accusative [ pNA | NpA ]
+Subject Switch + accusative [ pNA | NpA]
 
 - Er vergisst etwas. Ich mache etwas vergessen (bei ihm).
 - Ich begehre den Job (wegen der Bezahlung). Die Bezahlung macht den Job begehrt (für mich).
@@ -698,19 +707,19 @@ different origins, but always through "sein"
 
 unaccusative
 
-- [N|N] Er altert -> er ist gealtert -> er sieht gealtert aus
+- [ N|N ] Er altert -> er ist gealtert -> er sieht gealtert aus
 
 gealtert, abgemagert, verkümmert, gescheitert, geplatzt
 
 Reflexive verbs
 
-- [N|N] Er bekümmert sich -> er ist bekümmert -> er sieht bekümmert aus
+- [ N|N ] Er bekümmert sich -> er ist bekümmert -> er sieht bekümmert aus
 
 besorgt, eingebildet
 
 transitive
 
-- [NA|–N] Etwas verstört ihn -> er ist verstört -> Er sieht verstört aus
+- [ NA|–N ] Etwas verstört ihn -> er ist verstört -> Er sieht verstört aus
 
 Belegsammlungen von Alexander Lasch:
 
@@ -792,7 +801,7 @@ Keine anderen guten Beispiele, nur mit *gefangen*.
 
 ## Diatheses with subject demotion
 
-### --- [ SBJ > Ø ] Drop --- {.unnumbered}
+### --- [ SBJ > Ø ] --- *Unpersönlicher Passiv* {.unnumbered}
 
 ### [ N | – ] *werden + Partizip* Impersonal passive {#sec:participles-werden-impersonal-passive}
 
@@ -853,11 +862,11 @@ Dativ [ ND | -D ] and Governed Preposition [ NP | -P ] possible:
 - Es wird sich jetzt endlich beeilt/entschlossen/vertragen/gekümmert
 - Hier wird sich nicht verkrochen/angestellt/verweigert
 
-### --- [ OBJ > SBJ > ADJ ] Passive --- {.unnumbered}
+### --- [ OBJ > SBJ > ADJ ] --- *Vorgangspassiv* {.unnumbered}
 
 Probably all better considered to be anticausatives, but out of tradition I list them here under the label 'passive'
 
-### [ NA | pN ] *werden + Partizip* passive ("Vorgangspassiv") {#sec:participles-werden-passive}
+### [ NA | pN ] *werden + Partizip* passive {#sec:participles-werden-passive}
 
 Das Haus wird angemalt (durch den Handwerker).
 Das Haus ist angemalt worden
@@ -869,7 +878,9 @@ Nicht immer bei transitiv:
 - kennen (Ich kenne den Mann / * Der Mann wird gekannt)
 - wundern (Sein Verhalten wundert mich / * ich werde gewundert)
 
-### [ NDA | pNA ] *bekommen + Partizip* Dative passive + accusative ("Rezipientenpassiv") {#sec:participles-bekommen-passive}
+### --- [ OBJ > SBJ > ADJ ] --- *Rezipientenpassiv* {.unnumbered}
+
+### [ NDA | pNA ] *bekommen + Partizip* Dative passive + accusative {#sec:participles-bekommen-passive}
 
 also *kriegen/erhalten*
 
@@ -910,9 +921,9 @@ Kriegen: Genau dieselbe Verben wie 'bekommen'?
 - Er baut ein Haus. vs. Er kriegt das Haus gebaut.
 - Er vermietet die Wohnung. vs. Er kriegt die Wohnung vermietet.
 
-### --- [ OBJ > SBJ > Ø] Anticausative {.unnumbered}
+### --- [ OBJ > SBJ > Ø ] --- *Zustandspassiv* {.unnumbered}
 
-### [ NA | –N ] *sein + Partizip* Anticausative ("Zustandspassiv") {#sec:participles-sein-zustandspassiv}
+### [ NA | –N ] *sein + Partizip* Anticausative {#sec:participles-sein-zustandspassiv}
 
 Zustandspassiv: ähnlich zu adjektivische Prädikatskonstruktion (*Die Tür ist gelb*). Explizit nicht mit *geworden*
 weil dann Perfekt des *werden* Passiv (cf. Maienborn). [@maienborn2007]
@@ -925,8 +936,6 @@ see also [@nedjalkov1988a]
 - Ich öffne den Brief. vs. Der Brief ist schon seit zwei Tagen geöffnet.
 - Ich öffne den Brief. vs. ^* Der Brief ist schon vor zwei Tagen geöffnet. 
 ^* Der Brief ist nach und nach geöffnet
-
-<br>
 
 - Ich repariere das Haus. vs. Das Haus ist schon seit zwei Tagen repariert.
 - Ich repariere das Haus. vs. ^* Das Haus ist schon vor zwei Tagen repariert.
@@ -984,19 +993,23 @@ Maienborn: 102-103: Sie findet aber Beispiele bei Google!
 - aufhalten (Die Einzelheiten halten den Mann auf. Der Mann ist aufgehalten
 - stören (Der Lärm stört den Mann. Der Mann ist gestört)
 
-### [ NDA | –NA ] *haben + Partizip* Dative anticausative + accusative {#sec:participles-haben-passive}
+### --- [ OBJ > SBJ > Ø ] --- *Deutscher Name* {.unnumbered}
+
+### [ NDA | –NA ] *haben + Partizip* Dative experiencer {#sec:participles-haben-passive}
 
 To do:
 
 - (Businger 2011: Ch. 4)
 - Experientive semantics?
+- inherently possessor: different possessor leads to disambiguation: Ich habe deinen Rechner repariert
+- not inherently possessor with modal verbs: Ich will den Rechner meiner Tochter repariert haben. 
 
 Verbs that have the possibility of an accusative object, like *brechen* 'to break' in (a), almost all have a 'haben + Partizip' perfect (b), as discussed in Section X. A subset of those verbs also allow for a different 'haben + Partizip' construction, which I will analyse as an anticausative alternation, illustrated here in (c). The example in (c) has an optional reflexive-dative pronoun disambiguating the intended reading, namely 'the arm is broken to me.' Without this pronoun, (c) is ambigious between 'I have broken the arm' (the perfect construction from Section X) and 'The arm is broken to me' (the anticausative construction as discussed in this section). It is rather curious for there to be two formally identical constructions with two such rather different meanings. The anticausative reading seems to be recent and is considered colloquial by most speakers (cf. Eroms 2000: 395-396, 420-421; Hole 2002 for a discussion of this rather special construction).
 
 (a) Er bricht meinen Arm.
-(b) Er hat meinen Arm gebrochen.
-(c) Ich habe (mir) den Arm gebrochen.
-(d) Ich habe den Arm gebrochen durch ihn.
+(b) Er bricht mir den Arm.
+(c) Ich habe mir den Arm gebrochen.
+(d) Ich habe den Arm gebrochen.
 
 In this construction, the original subject (the 'breaker') is removed from the case-marked arguments. This agent is normally not expressed in any other form (the construction thus being anticausative), though a prepositional phrase with *durch* appears to be possible in principle given the right context (d). The new subject in (c,d) is the possessor of the accusative object in (a). The meaning of the construction in (c,d) is a description of the end-state of the original process (i.e. the 'breaking'). For this reason I will analyse this construction as an ANTICAUSATIVE STATE.
 
@@ -1010,16 +1023,16 @@ This construction is only possible for transitive verbs that also allow for a po
 There is an notable parallel between this 'haben + Partizip' Anticausative State and the 'sein + Partizip' Anticausative State from Section X. The 'sein + Partizip' anticausative construction describes a state, which is compatible with an imperfective *seit* 'since' temporal phrase (a). In contrast, the highly similar combination of a 'werden + Partizip' Passive (Section X) with a 'sein + Partizip' Perfect (Section X) is compatible with a perfective *vor* 'ago' temporal phrase (b). The reverse temporal interpretation is not possible.
 
 (a) Der Arm ist (schon seit drei Stunden) verbunden.
-(b) Der Arm ist (schon vor drei Stunden) verbunden worden.
 (c) ^* Der Arm ist (schon vor drei Stunden) verbunden.
 (d) ^* Der Arm ist (schon seit drei Stunden) verbunden worden.
+(b) Der Arm ist (schon vor drei Stunden) verbunden worden.
 
 Likewise, the 'haben + Partizip' Anticausative State is compatible with an imperfective temporal phrase (a), while the highly similar combination of a 'bekommen + Partizip' Dative Passive (Section X) with a 'haben + Partizip' Perfect (Section X) is compatible with a perfective temporal phrase (b). Again, the reverse temporal interpretation is not possible.
 
 (a) Ich habe den Arm (schon seit drei Stunden) verbunden.
-(b) Ich habe den Arm (schon vor drei Stunden) verbunden bekommen.
 (c) ^* Ich habe den Arm (schon vor drei Stunden) verbunden.
 (d) ^* Ich habe den Arm (schon seit drei Stunden) verbunden bekommen.
+(b) Ich habe den Arm (schon vor drei Stunden) verbunden bekommen.
 
 (vgl. Adjektiv: Er hat die Haare schön; Er hat die Nase voll; Er hat die Tür offen; Er hat den Tisch sauber, Er hat sein Glas leer)
 
@@ -1041,8 +1054,63 @@ Besser mit modalverben (Leirbukt 2012)
 Ohne Modalverben unüblich, aber vgl. *haben+Partizip* Experiencer. Zweideutigkeit:
 
 - Er will die Haare kurz geschnitten haben.
-- Er will, dass seine Haare kurz geschnitten werden. (<- Er will [Jemand hat ihm die Haare kurz geschnitten] Perfekt)
-- Er will kurz geschnittene Haare haben (<- Er will [Er hat die Haare kurz geschnitten] Experiencer)
+- Er will, dass seine Haare kurz geschnitten werden. (<- Er will [ Jemand hat ihm die Haare kurz geschnitten] Perfekt)
+- Er will kurz geschnittene Haare haben (<- Er will [ Er hat die Haare kurz geschnitten] Experiencer)
+
+### --- [ OBJ > SBJ > PBJ ] --- *Erlebnis-Zustandspassiv* {.unnumbered}
+
+### [ NA | PN ] *sein + Partizip* Conversive
+
+::: ex
+a.  Die Nachricht verärgert mich.
+b.  Ich bin verärgert über die Nachricht.
+c.  Ich bin verärgert darüber, dass die Nachricht verbreitet wurde.
+:::
+
+Overlap with reflexive conversive [@next], see [@sec:reflexive-preposition-passive], but not all verbs allow for both diatheses [@nnext] and [@nnnext].
+
+::: ex
+a.  Der Witz amüsiert mich.
+b.  Ich bin über den Witz amüsiert. 
+c.  Ich amüsiere mich über den Witz.
+d.  Ich habe mich über den Witz amüsiert.
+:::
+
+::: ex
+a. Der Witz ärgert mich.
+b. ^* Ich bin geärgert über den Witz.
+c. Ich ärgere mich über den Witz.
+d. Ich habe mich über den Witz geärgert.
+:::
+
+::: ex
+a. Der Witz widert mich an.
+b. Ich bin angewidert von dem Witz.
+c. ^* Ich widere mich von dem Witz an.
+d. ^* Ich habe mich von dem Witz angewidert.
+:::
+
+**Attested Verbs**
+
+- *von*  : *anekeln, anstrengen, anwidern, langweilen*
+- *über* : *amüsieren, aufregen, begeistern, entsetzen, enttäuschen, empören, erfreuen, erstaunen, überraschen, verärgern, verstören, verwundern*
+- *in*   : *interessieren*
+- *mit*  : *beschäftigen*
+- *durch*: *entspannen*
+
+**Examples**
+
+- Der Geruch hat ihn angewidert. Er ist angewidert von dem Geruch.
+- Der Witz hat ihn amüsiert. Er ist amüsiert über den Witz.
+- Dein Benehmen hat ihn enttäuscht. Er ist enttäuscht über dein Benehmen.
+- Das Problem beschäftigt den Schüler. Der Schüler ist mit dem Problem beschäftigt.
+- Die Nachricht verärgert mich. Ich bin verärgert über die Nachricht.
+- Die Nachricht verstört mich. Ich bin verstört über die Nachricht.
+- Die Schule langweilt mich. Ich bin gelangweilt von der Schule.
+- Deine Massage entspannt mich. Ich bin entspannt durch deinen Massage.
+- Deine Leistung entsetzt mich. Ich bin entsetzt über deine Leistung.
+
+### --- [ OBJ > SBJ > Ø ] --- {.unnumbered}
 
 ### [ NA | –N ] *bleiben + Partizip* Durative anticausative
 
@@ -1058,6 +1126,7 @@ nicht im Perfekt? * Die Tür ist geschlossen geblieben
 [@helbig2001: 163] "kontinuativ" "irreversibel Geschehen nicht möglich"
 
 - ^* Das Buch bleibt geschrieben/vollendet
+- ^* Das Auto bleibt gewaschen
 
 ### [ NA | –N ] *gehören + Partizip* Obligation anticausative {#sec:participles-gehoren-anticausative}
 
@@ -1085,54 +1154,11 @@ Subject-less???
 
 - Gegen den Feind gehört gekämpft.
 - Dem Studenten gehört geholfen.
-
-### --- [ OBJ > SBJ > PBJ ] Conversive --- {.unnumbered}
-
-### [ NA | PN ] *sein + Partizip* Conversive
-
-something like *Zustandspassiv* for Reflexive Conversive, though not always possible
-
-Note different preposition in some cases like 'interessieren'!
-
-::: ex
-a.  Mathematik interessiert den Schüler. Mathematik hat den Schüler interessiert.
-b.  Der Schüler interessiert sich für Mathematik. Der Schüler hat sich für Mathematik interessiert.
-c.  Der Schüler ist in Mathematik interessiert. 
-:::
-
-::: ex
-a.  Der Lärm ärgert mich. Der Lärm hat mich geärgert.
-b.  Ich ärgere mich über den Lärm. Ich habe mich über den Lärm geärgert.
-c.  ^* Ich bin geärgert über den Lärm. (only in older examples before ±1750)
-:::
-
-**Attested Verbs**
-
-- *von*  : *anekeln, anstrengen, anwidern*
-- *über* : *amüsieren, aufregen, begeistern, entsetzen, enttäuschen, empören, erfreuen, erstaunen, überraschen, verärgern, verstören, verwundern*
-- *in*   : *interessieren, langweilen*
-- *mit*  : *beschäftigen*
-- *durch*: *entspannen*
-
-**Examples**
-
-- Der Geruch hat ihn angewidert. Er ist angewidert von dem Geruch.
-- Der Witz hat ihn amüsiert. Er ist amüsiert über den Witz.
-- Dein Benehmen hat ihn enttäuscht. Er ist enttäuscht über dein Benehmen.
-- Das Problem beschäftigt den Schüler. Der Schüler ist mit dem Problem beschäftigt.
-- Die Nachricht verärgert mich. Ich bin verärgert über die Nachricht.
-- Die Nachricht verstört mich. Ich bin verstört über die Nachricht.
-- Die Schule langweilt mich. Ich bin gelangweilt in der Schule.
-- Deine Massage entspannt mich. Ich bin entspannt durch deinen Massage.
-- Deine Leistung entsetzt mich. Ich bin entsetzt über deine Leistung.
-
-### --- [ OBJ > SBJ > Ø] Appearance anticausative --- {.unnumbered}
-
 ### [ NA | –N ] *aussehen + Partizip* Anticausative
 
 transitive
 
-- [NA|–N] Etwas verstört ihn -> er ist verstört -> Er sieht verstört aus
+- [ NA|–N ] Etwas verstört ihn -> er ist verstört -> Er sieht verstört aus
 
 Belegsammlungen von Alexander Lasch:
 
@@ -1152,7 +1178,7 @@ angegriffen, gepflegt, verstört, angestrengt, bekümmert, verjüngt, abgesperrt
 
 - wirken (https://goo.gl/yCai8B; Stand: 03.09.2016). 
 
-### --- [ OBJ > SBJ > Ø] Marginal anticausative --- {.unnumbered}
+### --- [ OBJ > SBJ > Ø ] Marginal anticausative --- {.unnumbered}
 
 ### [ NA | –N ] *stehen + Partizip* Textual anticausative
 
@@ -1237,7 +1263,7 @@ Probably secondary predication because can easily be replaced by adverb, e.g. "s
 
 - Ich fühle mich gebraucht/überwacht
 
-with dative [ NAD | –ND ]
+with dative [ NAD | –ND]
 
 - Er liefert mich dem Gericht aus. Ich fühle mich dem Gericht ausgeliefert.
 
@@ -1258,7 +1284,7 @@ sowohl passives 'hingeben' (gibt sich geschlagen), wie auch aktives 'sich vortun
 
 - Er gibt sich regional verwurzelt
 
-with preposition [NA|PN]: entspannen, lösen
+with preposition [ NA|PN ]: entspannen, lösen
 
 - Er entspannt sich -> er ist entspannt -> er gibt sich entspannt
 - No: Etwas entspannt ihn
@@ -1273,13 +1299,13 @@ Agent can be retained with *von* ???
 
 ### [ NA | –N ] *wissen + Partizip* Reflexive experiencer
 
-- Die Polizei umstellt mich. [ –NA ]
-- Ich bin umstellt. [ ––N ]
-- Er weiß, dass ich umstellt bin. [ N–N ]
-- Er weiß mich umstellt. [ N–A ]
+- Die Polizei umstellt mich. [ –NA]
+- Ich bin umstellt. [ ––N]
+- Er weiß, dass ich umstellt bin. [ N–N]
+- Er weiß mich umstellt. [ N–A]
 
-- Die Polizei umstellt mich. [ NA ]
-- Ich weiß mich umstellt. [ –N ]
+- Die Polizei umstellt mich. [ NA]
+- Ich weiß mich umstellt. [ –N]
 
 DWDS: "wissen sich #4 $p=VVPP"
 
@@ -1370,8 +1396,8 @@ Nur intransitive?
 
 Unakkusativ Intransitiv?!
 
-- Das Kind ist eingeschlafen [–N]
-- Sie weiß das Kind eingeschlafen [NA]
+- Das Kind ist eingeschlafen [ –N]
+- Sie weiß das Kind eingeschlafen [ NA]
 - Wenn ich dich nicht so gut aufgehoben gewußt hätte, wäre ich Dir nachgefahren! (DWDS: Müller-Jahnke, Clara: Ich bekenne. In: Deutsche Literatur von Frauen, Berlin: Directmedia Publ. 2001 [1904], S. 52626)
 
 ### [ –N | NA ] *glauben +Partizip* Experiencer
@@ -1414,15 +1440,15 @@ Probably best analysed as stacking of *sein* anticausative with experientive
 
 ### [ –NA | N–A ] *wissen + Partizip*  Experiencer commutative {#sec:participle-wissen-commutative}
 
-- Das Archiv hebt den Nachlass auf. [–NA]
-- Der Nachlass ist gut aufgehoben. [––N]
-- Ich weiß, dass der Nachlass gut aufgehoben ist. [N–N]
-- Ich weiß den Nachlass gut aufgehoben. (in dem Archiv). [NA]
+- Das Archiv hebt den Nachlass auf. [ –NA]
+- Der Nachlass ist gut aufgehoben. [ ––N]
+- Ich weiß, dass der Nachlass gut aufgehoben ist. [ N–N]
+- Ich weiß den Nachlass gut aufgehoben. (in dem Archiv). [ NA]
 
-- Jemand unterstellt die Ostgebiete dem Kontrollrat. [–NAD]
-- Die Ostgebiete sind dem Kontrollrat unterstellt. [––ND]
-- Ich weiß, dass die Ostgebiete dem Kontrollrat unterstellt sind. [N–ND]
-- Ich weiß die Ostgebiete dem Kontrollrat unterstellt. [N–AD]
+- Jemand unterstellt die Ostgebiete dem Kontrollrat. [ –NAD]
+- Die Ostgebiete sind dem Kontrollrat unterstellt. [ ––ND]
+- Ich weiß, dass die Ostgebiete dem Kontrollrat unterstellt sind. [ N–ND]
+- Ich weiß die Ostgebiete dem Kontrollrat unterstellt. [ N–AD]
 
 DWDS: `"$p=VVPP wissen" && ! wollen && ! möchten && ! sich`
 
@@ -1468,11 +1494,11 @@ DWDS: `"$p=VVPP @gesehen"`
 Die Zeit, 15.02.2016 (online)
 Um die Sache zu prüfen, habe er im Urlaub mal einen Nacktbadestrand aufgesucht - und dort das Bild aus der Sauna bestätigt gefunden.
 
-### --- [ Ø > SBJ > Ø ] Causative switch --- {.unnumbered}
+### --- [ Ø > SBJ > Ø ] Causative commutative --- {.unnumbered}
 
 ### [ –NA | N–A ] *geben + Partizip* Performative causative
 
-- Jemand verliert den Ring [–NA] -> Der Ring ist verloren [––N] -> Er gibt den Ring verloren. [N–A]
+- Jemand verliert den Ring [ –NA ] -> Der Ring ist verloren [ ––N ] -> Er gibt den Ring verloren. [ N–A]
 - Du kennst meine Absicht -> Meine Absicht ist (dir) bekannt -> Er gibt (dir) meine Absicht bekannt.
 
 **Attested Verbs**

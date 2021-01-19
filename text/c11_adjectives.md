@@ -17,7 +17,7 @@ The central question is which of the arguments of the verb turns into the head o
 
 cf. Zustandspassiv! Stark (-en) vs. schwach (-et) scheint kein semantischer Faktor zu sein
 
-### [ NA | -H ]
+### [ NA | -H]
 
 - Die Frau schenkt dem Jungen ein Buch. vs. Das dem Jungen (von der Frau) geschenkte Buch ist schön.
 - Die Frau liest ein Buch. vs. Das (von der Frau) gelesene Buch ist schön.
@@ -48,14 +48,14 @@ Nur ganz wenige Beispiele
 - Der Versuch ist daran gescheitert, dass ... . Der gescheiterte Versuch.
 - Der Mann ist daran gestorben, dass ... . Der gestorbene Mann.
 
-### [ N | H ]
+### [ N | H]
 
 Two different kinds of intransitive verbs:
 
 - Die Frau fällt. vs. Die gefallene Frau ist schön.
 - Die Frau schläft. vs. ^* Die geschlafene Frau ist schön
 
-### [ ND | -H ]
+### [ ND | -H]
 
 Dativ-verben mit *haben* geht es eher nicht, aber wenn doch, dann wird Dativ zu Head.
 
@@ -80,21 +80,21 @@ Geht eigentlich nicht - ausser mit Verbpräfixe!
 
 ## *-end* Partizip Präsens
 
-### [ NA | HA ]
+### [ NA | HA]
 
 - Die Frau schenkt dem Jungen ein Buch. vs. Die dem Jungen ein Buch schenkende Frau ist schön.
 - Die Frau liest ein Buch. vs. Die ein Buch lesende Frau ist schön.
 
-### [ ND | HD ]
+### [ ND | HD]
 
 - Die Frau antwortet dem Jungen. Die dem jungen antwortende Frau ist schön.
 - Die Stadt gleicht einem Trümmerfeld. Die einem Trümmerfeld gleichende Stadt
 
-### [ NP | HP ]
+### [ NP | HP]
 
 - Der Vater achtet auf seine Kinder. Der auf seine Kinder achtende Vater...
 
-### [ N | H ]
+### [ N | H]
 
 - Die Frau fällt. vs. Die fallende Frau ist schön.
 - Die Frau schläft. vs. Die schlafende Frau ist schön
@@ -148,7 +148,7 @@ Only adverb?: leidsam, mühsam, ratsam
 - Die Frau hat sich in ihrem Kind eingefühlt. Die einfühlsame Frau.
 - Die Frau hat auf ihrer Meinung beharrt. Die beharrsame Frau.
 
-### [ N | H ]
+### [ N | H]
 
 **Attested Verbs**
 
@@ -160,7 +160,7 @@ Only adverb?: leidsam, mühsam, ratsam
 
 ## *-bar* 
 
-### [ NA | -H ]
+### [ NA | -H]
 
 Highly productive with transitive verbs
 
@@ -171,7 +171,7 @@ Highly productive with transitive verbs
 - Die Frau schenkt dem Jungen ein Buch. vs. Das dem Jungen schenkbare Buch ist schön.
 - Die Frau liest ein Buch. vs. Das (für die Frau) lesbare Buch ist schön.
 
-### [ ND | -H ]
+### [ ND | -H]
 
 **Attested Verbs**
 
@@ -195,7 +195,7 @@ The adjective *fehlbar* seems to derive from the noun *Fehler*, not the verb *fe
 
 - Die Frau dankt dem Jungen. vs. Die dem Jungen dankbare Frau ist schön. Die Frau ist dem Jungen dankbar.
 
-### [ NP | -H ]
+### [ NP | -H]
 
 **Attested Verbs**
 
@@ -206,7 +206,7 @@ The adjective *fehlbar* seems to derive from the noun *Fehler*, not the verb *fe
 - Ich verzichte auf eine Feier. Die verzichtbare Feier
 - Ich denke über etwas. Der denkbare Ansatz.
 
-### [ N | H ]
+### [ N | H]
 
 **Attested Verbs**
 
@@ -241,7 +241,7 @@ https://www.dwds.de/wb/-lich
 - Der Vorgang erstaunt mich. vs. Der (für mich) erstaunliche Vorgang.
 - Der Künstler empfindet etwas. Der empfindliche Künstler
 
-### [ NA | -H ]
+### [ NA | -H]
 
 **Attested Verbs**
 
@@ -266,7 +266,7 @@ https://www.dwds.de/wb/-lich
 - Der Kurs schadet dem Gewinn. Der schadliche Kurs.
 - Die Narbe fällt mir auf. Die auffällige Narbe.
 
-### [ NAP | -\-H ]
+### [ NAP | -\-H]
 
 **Attested Verbs**
 
@@ -277,7 +277,7 @@ https://www.dwds.de/wb/-lich
 - Der Lehrer fördert mich mit neuen Büchern. vs. Die (für mich) förderliche Bücher
 - Er tötet ihn mit einem Stich. Der (für mich) tötliche Stich.
 
-### [ NP | -H ]
+### [ NP | -H]
 
 **Attested Verbs**
 
@@ -287,7 +287,7 @@ https://www.dwds.de/wb/-lich
 
 - Der Gläubiger dringt auf Zahlung. Die dringliche Zahlung
 
-### [ N | H ]
+### [ N | H]
 
 **Attested Verbs**
 
@@ -305,7 +305,7 @@ Gerundivum nur mit Akkusativ Objekte (cf. Modalitätspassiv: Holl 2010)
 
 Pakkanen-Kilpiä, Kirsi (2006):
 
-### [ NA | -H ]
+### [ NA | -H]
 
 - Das Buch ist dem Jungen zu schenken. vs. Das dem Jungen zu schenkende Buch ist schön. 
 - Das Buch ist zu lesen. vs. Das zu lesende Buch ist schön.

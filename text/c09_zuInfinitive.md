@@ -211,10 +211,10 @@ Typisch mit kognitive Verben mit Satzeinbettung: *bedenken, verstehen, erkennen,
 
 Sehr unüblich ohne Satzeinbettung?
 
-- Ich denke über etwas. Der Protest gibt mir zu denken [ –NP | ND– ]
+- Ich denke über etwas. Der Protest gibt mir zu denken [ –NP | ND–]
 - Die Liftjungen geben mir aber heute zu schaffen!
 
-Wo ist die Grenze zu lexikales *geben*?: vgl. *essen, trinken, tun, lesen, tragen, lernen*. Diese Konstruktionen sind kohärent! [ –NA | NDA ]
+Wo ist die Grenze zu lexikales *geben*?: vgl. *essen, trinken, tun, lesen, tragen, lernen*. Diese Konstruktionen sind kohärent! [ –NA | NDA]
 
 - Er gibt mir Milch zu trinken.
 - Er gibt mir viel zu tragen.

@@ -138,9 +138,14 @@ Is this the only example?
 ### [ N | – ] *lassen + sich + Infinitiv* Reflexive impersonal + manner adverbial
 
 Typically used with intransitives? Similar to impersonal passive?
+"es" inserted
 
 - Ich arbeite zuhause.
 - Zuhause lässt es sich gut arbeiten.
+
+[NP ] ?
+
+- Ich zweifele an der Ernsthaftigkeit der Aussage. An der Ernsthaftigkeit der Aussage lässt sich zweifeln.
 
 ### --- [ OBJ > SBJ > Ø ] Anticausative --- {.unnumbered}
 
@@ -157,24 +162,33 @@ Mehrdeutigkeit *lassen + sich + Infinitiv* bei belebte Subjekte
 
 - Ich schließe den Schrank. Der Schrank lässt sich (von mir) schließen.
 - Ich bezweifele die Lösung. Die Lösung lässt sich bezweifeln.
+
+### [ NDA | –NA ] *lassen + sich + Infinitiv* Dative reflexive anticausative {#sec:infinitive-lassen-dative-reflexive-anticausative}
+
+- Er schenkt mir den Rechner. Ich lasse mir den Rechner schenken (von ihm).
 - Ich verbiete ihr das Rauchen nicht. Sie lässt sich (von mir) das Rauchen nicht verbieten.
-- Ich zweifele An der Ernsthaftigkeit der Aussage. An der Ernsthaftigkeit der Aussage lässt sich zweifeln.
 
-[ NAD | –ND ]
+Dative can arise through various pathways
 
-- Er schenkt mir den Rechner. Ich lasse mir den Rechner schenken.
+- Er schneidet meine Haare.
+- Er schneidet mir die Haare.
+- Ich lasse mir die Haare schneiden.
+
+Aber: no dative with [ NgP]
+- Er schlägt mir auf die Schulter
+- Ich lasse mich auf die Schulter schlagen
 
 ## Diatheses with promotion to subject
 
-### --- [ ADJ > SBJ > OBJ ]  Experientive --- {.unnumbered}
+### --- [ ADJ > OBJ > SBJ > OBJ ]  Reversed passive --- {.unnumbered}
 
-### [ gNL | NAL ] *haben + Infinitiv* Experientive {#sec:infinitive-haben}
+### [ gNL | DNL | NAL ] *haben + Infinitiv* Experientive {#sec:infinitive-haben}
 
 Addition of a new subject that is the possessor of the nominative of the embedding, or a benefective dative.
 
-- [gNL] Sein Teller steht auf den Tisch.
-- [DNL] Der Teller steht ihm auf den Tisch.
-- [NAL] Er hat den Teller auf den Tisch stehen.
+- [gNL ] Sein Teller steht auf den Tisch.
+- [ DNL ] Der Teller steht ihm auf den Tisch.
+- [ NAL ] Er hat den Teller auf den Tisch stehen.
 
 Only with 'position' verbs? (Hole 2002: 183-185)
 Ersatzinfinitiv!
@@ -328,17 +342,14 @@ not attested
 
 ## Symnmetrical diatheses
 
-### --- [ OBJ > SBJ > OBJ ] Experientive --- {.unnumbered}
+### --- [ OBJ > SBJ > OBJ ] Commutative --- {.unnumbered}
 
-### [ ND | AN ] *lassen + sich + Infinitiv* Dative reflexive experientive
+### [ DN | NA ] *lassen + sich + Infinitiv* Dative reflexive experientive
 
-underlying genitive of nominative?
+- [ Ng] Mein Essen schmeckt.
+- [ ND ] Das Essen schmeckt mir.
+- [ AN ] Ich lasse mir das Essen schmecken.
 
-- [gN] Mein Essen schmeckt.
-- [DN] Das Essen schmeckt mir.
-- [NA] Ich lasse mir das Essen schmecken.
-
-- Das gefällt mir. Das lasse ich mir nicht gefallen.
-- Das entgeht mir. Das lasse ich mir nicht entgehen.
-- Das Essen schmeckt mir. Ich lasse mir das Essen schmecken.
-- Der Besuch kostet mir etwas. Ich lasse mir den Besuch etwas kosten.
+- Das gefällt mir. Ich lasse es mir nicht gefallen.
+- Der Spaß entgeht mir. Den Spaß lasse ich mir nicht entgehen.
+- Der Besuch kostet mir 10 Euro. Ich lasse mir den Besuch 10 Euro kosten.

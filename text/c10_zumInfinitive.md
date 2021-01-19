@@ -89,7 +89,7 @@ Die Bedeutung der Verben *sein/bleiben* scheint sehr lexikal. Eher keine speziel
 ### [ NP | –N ] *sein + zum + Infinitive* Facilitive
 
 - Es ist zum Verzweifeln.
-- Es ist zum Heulen. [NP|-N] Ich heule über den Schaden. Der Schaden ist zum Heulen
+- Es ist zum Heulen. [ NP|-N ] Ich heule über den Schaden. Der Schaden ist zum Heulen
 
 ## Diatheses with promotion to subject
 
@@ -106,7 +106,7 @@ Patiens als Akkustiv (nur bei antikausative Verben?)
 - Der Stock bricht. Er kriegt den Stock zum brechen. (vgl. Er bricht den Stock.)
 - Der Mechaniker kriegt die Maschine in Bewegung (vgl. Die Maschine bewegt sich.)
 
-Patiens als Genitiv bei transitive Verben. [–NA|NAg]
+Patiens als Genitiv bei transitive Verben. [ –NA|NAg]
 
 - Sie bringt mich zum Besuchen meines Opas.
 - Sie bringt mich zum Schenken des Buches (* an ihm)
@@ -123,7 +123,7 @@ Andere Nominalisierungen?
 - Er bringt die Akte in Bearbeitung.
 - Er bringt mich dazu ein Haus zu bauen.
 
-### --- [ ADJ > SBJ > OBJ ] Experientive --- {.unnumbered}
+### --- [ ADJ > SBJ > OBJ ] Experientive reversed passive --- {.unnumbered}
 
 ### [ gN | NA ] *haben + am + Infinitiv* Experientive {#sec:zuminfinitive-haben-am}
 

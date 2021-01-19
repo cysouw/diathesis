@@ -423,7 +423,7 @@ b.  Ich sehe dich an.
 
 Keeping with the observation that preverb alternations tend to produce nominative/accusative constructions (see [@sec:preverbs-always-accusative]), preverb diatheses with subject demotion are exceedingly rare.   
 
-### --- [ OBJ > SBJ > Ø ] Anticausative --- {.unnumbered}
+### --- [ OBJ > SBJ > Ø ] --- {.unnumbered}
 
 ### [ NA | –N ] Preverb anticausative {#sec:preverb-anticausative}
 
@@ -457,7 +457,7 @@ c.  ^^?^ Der Vogel verfängt sich.
 
 - Der Schuster streckt die Stiefel. Der Wald erstreckt sich bis zum Gebirge.
 
-### --- [ PBJ > SBJ > Ø ] Preposition Anticausative --- {.unnumbered}
+### --- [ PBJ > SBJ > Ø ] --- {.unnumbered}
 
 ### [ NL | -N ] Preverb location anticausative {#sec:preverb-preposition-anticausative}
 
@@ -488,7 +488,7 @@ b.  Die Pflanze verkümmert.
 
 Promotion to subject is somewhat more widespread compared to subject demotion discussed in the previous section. Promotion to subject seems to occur preferably with the verb prefixes *be-, ver-, er-, zer-* and almost never with verb particles.
 
-### --- [ Ø > SBJ > OBJ ] Causative --- {.unnumbered}
+### --- [ Ø > SBJ > OBJ ] --- *Präverb-Kausativ* {.unnumbered}
 
 ### [ -N | NA ] Preverb causative {#sec:preverb-causative}
 
@@ -648,7 +648,7 @@ b.  Er vermietet mir die Wohnung.
 - Die Polizei pfändet mein Vermögen. Ich verpfände dir mein Vermögen
 - Du kennst meine Absicht. Ich bekenne dir meine Absicht.
 
-### --- [ Ø > SBJ > PBJ ] Reversed Fabricative --- {.unnumbered}
+### --- [ Ø > SBJ > PBJ ] --- {.unnumbered}
 
 ### [ –NA | NPA ] Preverb reversed fabricative + accusative {#sec:preverb-reversed-fabricative}
 
@@ -663,7 +663,7 @@ b.  Er erfreut mich mit einem Geschenk.
 
 - erˈ- : *freuen*
 
-### --- [ ADJ > SBJ > OBJ ] Reversed Passive --- {.unnumbered}
+### --- [ ADJ > SBJ > OBJ ] --- {.unnumbered}
 
 ### [ pNA | NA– ] Preverb reversed passive + accusative loss {#sec:preverb-inverted-passive-accusative-loss}
 
@@ -678,7 +678,7 @@ b.  Mein Vater enterbt mich.
 
 - entˈ- : *erben*
 
-### --- [ PBJ > SBJ > OBJ ] Reversed Conversive --- {.unnumbered}
+### --- [ PBJ > SBJ > OBJ ] --- {.unnumbered}
 
 These diatheses can be seen as passives 'in reverse'. On first notice everything just looks like a passive: (i) the accusative argument of the (prefixed) transitive verb turns into a nominative of the (non-prefixed) intransitive verb and (ii) the causer/agent of the (prefixed) transitive verb is expressed as a (governed) prepositional phrase with the (non-prefixed) intransitive verb. However, the direction of an alternation is by definition from the unmarked (non-prefixed) to the marked (prefixed) verb. So, these diatheses are 'inverted' passives. Although it would make sense to call such diatheses 'antipassives', this term is already taken by another kind of diatheses.
 
@@ -725,7 +725,7 @@ c.  Dein Verhalten verwundert mich
 
 ## Diatheses with object demotion
 
-### --- [ OBJ > Ø ] Object drop --- {.unnumbered}
+### --- [ OBJ > Ø ] --- {.unnumbered}
 
 ### [ NA | N– ] Preverb accusative drop {#sec:preverb-accusative-drop}
 
@@ -799,7 +799,7 @@ can they dative maybe always be replaced by a preposition? Then merge into dativ
 - Ich schicke dir den Brief. Ich habe den Brief abgeschickt.
 - Ich reiche dir das Essen. Ich habe das Essen durchgereicht.
 
-### --- [ OBJ > ADJ ] Antipassive --- {.unnumbered}
+### --- [ OBJ > ADJ ] --- *Präverb-Antipassiv* {.unnumbered}
 
 ### [ NA | Np ] Preverb reflexive antipassive {#sec:preverb-reflexive-antipassive}
 
@@ -856,7 +856,7 @@ Is this alternation transparent?
 
 - Ich bringe dir ein Buch. Ich verbringe den Tag mit dir.
 
-### --- [ OBJ > OBJ > ADJ ] Chained Antipassive --- {.unnumbered}
+### --- [ OBJ > OBJ > ADJ ] --- {.unnumbered}
 
 ### [ NDA | NAp ] Preverb antipassive + dative-to-accusative {#sec:preverb-antipassive-dative-accusative}
 
@@ -890,7 +890,7 @@ b.  Ich beschenke dich mit einem Buch.
 - NPD : Ich lohne dir für deine Treue. (veraltet)
 - NPA : Ich belohne dich für deine Treue.
 
-### --- [ PBJ > Ø ] Antiresultative --- {.unnumbered}
+### --- [ PBJ > Ø ] --- *Präverb Antiresultativ* {.unnumbered}
 
 ### [ NL | N– ] Preverb intransitive antiresultative {#sec:preverb-intransitive-antiresultative}
 
@@ -1010,13 +1010,15 @@ d.   Der Wind verweht die Blätter.
 - Ich schenke den Wein in das Glas. Ich schenke den Wein ein.
 - Ich grabe den Schatz aus den Boden. Ich grabe den Schatz aus.
 
-### --- [ PBJ > OBJ > Ø ] Chained Antiresultative --- {.unnumbered}
+### --- [ PBJ > OBJ > Ø ] --- *Aktions-Antiresultativ* {.unnumbered}
 
 ### [ NLA | NA– ] Preverb applicative + accusative drop {#sec:preverb-location-antiresultative}
 
 Note: very similar to applicative+antipassive, though here antipassive to zero?
 
 Similar to adverbials like "leer-"
+
+Reversal of "Action result" [@sec:prepositions-action-result]
 
 ::: ex
 a.  Ich presse den Saft aus der Zitrone.
@@ -1055,7 +1057,7 @@ Lipka [-@lipka1972: 93, 173] calls this diathesis 'Objektvertauschung' and McInt
 
 ## Diatheses with promotion to object {#sec:preverb-promotion-to-object}
 
-### --- [ Ø > OBJ ] Object addition --- {.unnumbered}
+### --- [ Ø > OBJ ] --- {.unnumbered}
 
 ### [ N– | NA ] Preverb accusative addition {#sec:preverb-accusative-addition}
 
@@ -1136,7 +1138,7 @@ The verb *büßen* 'to pay for something' needs a governed preposition, while *b
 - Ich habe den Ball geworfen. Ich habe dir den Ball zugeworfen
 - Ich habe den Schal geworfen. Ich habe dir den Schal übergeworfen.
 
-### --- [ Ø > OBJ ] Resultative --- {.unnumbered}
+### --- [ Ø > OBJ ] --- *Präverb Resultativ* {.unnumbered}
 
 ### [ N– | NA ] Preverb reflexive resultative {#sec:preverb-reflexive-resultative}
 
@@ -1184,7 +1186,7 @@ b.  Ich schreibe (als Beruf).
 c.  Ich erschreibe mir ein großes Publikum.
 :::
 
-### --- [ ADJ > OBJ ] Possessor raising --- {.unnumbered}
+### --- [ ADJ > OBJ ] --- {.unnumbered}
 
 ### [ NAg | NAD ] Preverb possessor-of-accusative to dative {#sec:preverb-possessor-raising}
 
@@ -1203,7 +1205,7 @@ b.  Ich sehe ihm die Müdigkeit an.
 
 - Ich höre seine Müdigkeit. Ich höre ihm die Müdigkeit an.
 
-### --- [ ADJ > OBJ ] Applicative --- {.unnumbered}
+### --- [ ADJ > OBJ ] --- *Präverb Akkusativ Applikativ* {.unnumbered}
 
 ### [ Np | NA ] Preverb applicative {#sec:preverb-applicative}
 
@@ -1384,7 +1386,7 @@ The preposition *durch* only alternates with the preverb *durch-*.
 - Ich klage zu dir. Ich klage dich an.
 - Ich singe zu meiner Geliebten. Ich singe meine Geliebte an.
 
-### --- [ PBJ > OBJ ] Governed Applicative --- {.unnumbered}
+### --- [ PBJ > OBJ ] --- {.unnumbered}
 
 ### [ NP | NA ] Preverb governed applicative {#sec:preverb-governed-applicative}
 
@@ -1524,7 +1526,7 @@ b.  Ich verschweige dir meinen Besuch.
 - Ich lüge (zu dir) über meine Leistung. Ich lüge dir eine Geschichte vor.
 - Ich schwatze (mit dir) über dein Geld. Ich schwatze dir dein Geld ab.
 
-### --- [ ADJ > OBJ > OBJ ] Chained Applicative --- {.unnumbered}
+### --- [ ADJ > OBJ > OBJ ] --- {.unnumbered}
 
 ### [ NPA | NAD ] Preverb applicative + accusative-to-dative {#sec:preverb-applicative-accusative-to-dative}
 
@@ -1542,7 +1544,7 @@ b.  Ich dränge dir ein Abo auf.
 
 - Ich gewöhne die Kinder an Sauberkeit. Sie gewöhnt mir das Rauchen ab.
 
-### --- [ ADJ > OBJ ] Dative Applicative --- {.unnumbered}
+### --- [ ADJ > OBJ ] --- *Präverb Dativ Applikativ* {.unnumbered}
 
 ### [ Np | ND ] Preverb dative applicative {#sec:preverb-dative-applicative}
 
@@ -1607,7 +1609,7 @@ b.  Ich dränge dir ein Abo auf.
 
 ## Symmetrical diatheses
 
-### --- [ OBJ > SBJ > OBJ ] Inversive --- {.unnumbered}
+### --- [ OBJ > SBJ > OBJ ] --- {.unnumbered}
 
 ### [ NA | AN ] Preverb accusative inversive {#sec:preverb-accusative-inversive}
 
@@ -1623,7 +1625,7 @@ c.  Ich wunder mich über dein Verhalten.
 
 - beˈ- : *wundern*
 
-### --- [ PBJ > SBJ > PBJ ] Preposition inversive --- {.unnumbered}
+### --- [ PBJ > SBJ > PBJ ] --- {.unnumbered}
 
 ### [ NL | LN ] Preverb locational inversive {#sec:preverb-location-inversive}
 
@@ -1643,7 +1645,7 @@ b.  Das Haus erstrahlt in der Sonne.
 
 - Der Efeu wächst an der Hauswand. Die Hauswand wächst durch den Efeu zu.
 
-### --- [ ADJ > OBJ > ADJ ] Full applicative --- {.unnumbered}
+### --- [ ADJ > OBJ > ADJ ] --- *Präverb Vollapplikativ* {.unnumbered}
 
 ### [ NpA | NAp ] Preverb applicative + *mit* antipassive {#sec:preverb-applicative-antipassive}
 
@@ -1775,7 +1777,7 @@ durchˈ-
 - Ich wickle das Tuch um den Arm. Ich wickle den Arm in dem Tuch ein.
 - Ich grabe ein Loch (in die Erde) für den Baum. Ich grabe den Baum in einem Loch (in die Erde) ein.
 
-### --- [ PBJ > OBJ > ADJ ] Full applicative --- {.unnumbered}
+### --- [ PBJ > OBJ > ADJ ] --- {.unnumbered}
 
 ### [ NPA | NAp ] Preverb applicative + *von* antipassive {#sec:preverb-applicative-von-antipassive}
 
@@ -1806,7 +1808,7 @@ b.  Ich verbitte mir einen Kommentar von dir.
 
 - verˈ- : *bitten*
 
-### --- [ OBJ > OBJ ] Case change --- {.unnumbered}
+### --- [ OBJ > OBJ ] --- {.unnumbered}
 
 ### [ ND | NA ] Preverb dative-to-accusative {#sec:preverb-dative-accusative}
 
@@ -1821,7 +1823,7 @@ b.  Ich verbitte mir einen Kommentar von dir.
 - Ich folge dem Auto. Ich verfolge das Auto.
 - Ich folge dem Rat. Ich befolge den Rat.
 
-### --- [ OBJ > OBJ > OBJ ] Chained case change --- {.unnumbered}
+### --- [ OBJ > OBJ > OBJ ] --- {.unnumbered}
 
 ### [ NDA | NAG ] Preverb dative-to-accusative + accusative-to-genitive {#sec:preverb-dative-accusative-genitive}
 

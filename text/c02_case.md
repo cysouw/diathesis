@@ -17,14 +17,22 @@ The crucial (and somewhat problematic) aspect of such alternations is that there
 
 The unmarked nature of covert diatheses implies that there is some slight redundancy and fuzziness in presentation. This redundancy arises because, for example, when a verb occurs in four different constructions, then there are logically six different alternations (viz. 1-2, 1-3, 1-4, 2-3, 2-4, 3-4). I have nonetheless decided to approach the descriptive organisation in this chapter from the perspective of such pairwise alternations, because (i) it highlights the possible connections attested between construction, and (ii) very many verbs appear only to occur in just one or two alternations anyway (with only a smaller subset of verbs appearing across many different constructions).
 
+There are five local groups of diatheses that seem prominent enough to be given a German name. I propose the following names for these:
+
+- ~~[SBJ › Ø] Verbativ~~ (see [@sec:case-nominative-drop ff.])
+- ~~[OBJ › SBJ › Ø] Antikausativ~~ (see [@sec:case-haben-anticausative ff.])
+- ~~[Ø › SBJ › OBJ] Kausativ~~ (see [@sec:case-sein-causative ff.])
+- ~~[Ø › OBJ] Resultativ~~ (see [@sec:case-accusative-addition])
+- ~~[ADJ › OBJ] Pertinenzdativ~~ (see [@sec:case-possessor-of-nominative-to-dative-experiencer ff.])
+
 ## Delimiting case-marked arguments {#sec:case-delimiting-arguments}
 
 ### Identifying case marking
 
 The German case marking system is rather straightforward. Noun phrases in German occur in one of four case forms. There are various syncretisms in the case paradigm, which conceal the identity of the case in many sentences. For this reason, I will attempt to use first/second person singular pronouns or masculine singular nouns in constructed examples. These forms can easily be unambiguously identified, as shown in [@tbl:german-case].
 
-| Case       | 1st        | 2nd        | 3rd masc. | Masc. noun    |
-| ---------- | ---------- | ---------- | --------- | ------------- |
+| Case       | 1st        | 2nd        | 3rd Masc. | Masc. noun    |
+| ---------- | :--------: | :--------: | :-------: | :-----------: |
 | Nominative | *ich*      | *du*       | *er*      | *der Tisch*   |
 | Genitive   | *meiner*   | *deiner*   | *seiner*  | *des Tisches* |
 | Dative     | *mir*      | *dir*      | *ihm*     | *dem Tisch*   |
@@ -61,7 +69,7 @@ These quantified constituents are not governed arguments. First, they can easily
 A special group of verbs can be used to performatively name persons or things. As proper names, such arguments are arguably without case in standard German [@next a], but with regular nouns these phrases are clearly accusatives [@next b]. The effect are constructions with two accusative arguments. These arguments are normally questioned by the manner interrogative *wie* 'how', though in some situations *was* 'what' seems possible [@next c]. The small group of verbs that obligatorily takes such arguments will be discussed in [@sec:case-named-objects].
 
 ::: ex
-a.  Ich nenne dich [Lukas].
+a.  Ich nenne dich [ Lukas].
 b.  Ich nenne dich [einen Egoisten].
 c.  Was nennst du dein eigen?
 :::
@@ -344,7 +352,7 @@ d.  Die Miete wird monatlich gezahlt.
 A special group of verbs can be used to performatively name persons or things. As proper names, such arguments are arguably without case in standard German [@next a], but with regular nouns these phrases are clearly accusatives [@next b]. The effect are constructions with two accusative arguments. These arguments are normally questioned by the manner interrogative *wie* 'how', though in some situations *was* 'what' seems possible [@next c].
 
 ::: ex
-a.  Ich nenne dich [Lukas].
+a.  Ich nenne dich [ Lukas].
 b.  Ich nenne dich [einen Egoisten].
 c.  Was nennst du dein eigen?
 :::
@@ -373,7 +381,7 @@ Alternations without diathesis do not exist by definition for 'bare' alternation
 
 ## Diatheses with subject demotion
 
-### --- [ SBJ > Ø ] Subject drop --- {.unnumbered}
+### --- [ SBJ > Ø ] --- *Verbativ* {.unnumbered}
 
 ### [ N | – ] Nominative drop {#sec:case-nominative-drop}
 
@@ -445,7 +453,7 @@ d.  Insofern entbehrt es jeglichen Beweises.
 
 - *bedürfen, entbehren*
 
-### --- [ OBJ > SBJ > Ø ] Anticausative --- {.unnumbered}
+### --- [ OBJ > SBJ > Ø ] --- *Antikausativ* {.unnumbered}
 
 ### [ NA | –N ] *haben* Anticausative {#sec:case-haben-anticausative}
 
@@ -507,7 +515,7 @@ c.  ^* Ich habe angehangen.
 
 ## Diatheses with promotion to subject
 
-### --- [ Ø > SBJ ] Subject addition --- {.unnumbered}
+### --- [ Ø > SBJ ] --- {.unnumbered}
 
 ### [ – | N ] Weather agents {#sec:case-nominative-addition}
 
@@ -536,7 +544,7 @@ Another different diathesis adding arguments to weather verbs is the addition of
 - Der Regen regnet täglich.
 - Das Wetter stürmt.
 
-### --- [ Ø > SBJ > OBJ ] Causative --- {.unnumbered}
+### --- [ Ø > SBJ > OBJ ] --- *Kausativ* {.unnumbered}
 
 ### [ –N | NA ] *sein* Causative {#sec:case-sein-causative}
 
@@ -581,7 +589,7 @@ Although there is no overt difference between an unmarked anticausative and an u
 - Die Welle knickt den Mast des Bootes. Der Mast knickt.
 - Die Sonne schmilzt den Schnee. Die Eiswürfel sind geschmolzen.
 
-### [ –N | NA ] Umlaut causative {#sec:case-umlaut-causative}
+### [ –N | NA ] *Umlaut* Causative {#sec:case-umlaut-causative}
 
 Originally based on a Germanic suffix *-jan*, which turned into an umlaut, some verbs have a different between an intransitive (e.g. *fallen*, 'to fall') and a causative (e.g. *fällen*).
 
@@ -592,9 +600,15 @@ b.  Ich habe den Baum gefällt.
 
 **Attested Verbs**
 
-- *biegen/beugen, fallen/fällen, liegen/legen, saugen/säugen, schwimmen/schwemmen, sinken/senken, sitzen/setzen, springen/sprengen*
+- *biegen/beugen, fallen/fällen, saugen/säugen, sinken/senken, springen/sprengen*
 
-### [ –N | NA ] Umlaut adjectival causative {#sec:case-umlaut-adjectival-causative}
+**Examples**
+
+- Das Schiff sinkt. Ich senke die Fahne.
+- Der Hund springt. Ich sprenge das Gebäude.
+- Das Kind saugt. Die Mutter säugt das Kind.
+
+### [ –N | NA ] *Umlaut* Adjectival causative {#sec:case-umlaut-adjectival-causative}
 
 The process to make a causative with the suffix *-jan* also applied to adjectival predicates. There are still a few remnants of such pairs found in contemporary German, in which the old suffix is retained as an umlaut [@next]. More cases are available with preverbs, see [@sec:preverb-adjectival-causative].
 
@@ -607,7 +621,7 @@ b.  Ich schwärze den Text.
 
 - *voll/füllen, glatt/glätten, hart/härten, schwarz/schwärzen, warm/wärmen*
 
-### --- [ OBJ > SBJ ] Subject promotion --- {.unnumbered}
+### --- [ OBJ > SBJ ] --- {.unnumbered}
 
 ### [ A | N ] Accusative-to-nominative promotion
 
@@ -627,7 +641,7 @@ c.  Ich friere.
 
 This section concerns those alternation in which a non-nominative case-marked argument can be removed. When considered in this direction ('an accusative is removed/demoted'), then such alternation are known as antipassives. Conversely, when this same alternation is considered in reverse ('an accusative is added/promoted') then such alternations are known as applicatives. Because we are dealing with unmarked 'bare' alternations in this chapter, there is no structural difference between these two situations. It is more like two different ways to look at at the same phenomenon. Still, I have tried to classify diathesis into these two options based on (debatable) semantic arguments.
 
-### --- [ OBJ >Ø ] Object drop --- {.unnumbered}
+### --- [ OBJ > Ø ] --- {.unnumbered}
 
 ### [ NA | N– ] Accusative drop {#sec:case-accusative-drop}
 
@@ -839,9 +853,9 @@ As there are already very few verbs with genitive arguments in German, there app
 
 I have tried to separate in this chapter between the demotion of an object (antipassive or drop, see [@sec:case-object-demotion]) and the promotion of an accusative (applicative or addition). However, for 'bare' diatheses I cannot find any substantive difference between these phenomena, except for a faint semantic impression that bare applicatives do not imply an accusative object (but allow it), while bare antipassive imply an accusative object (but allow it to be dropped). It remains a clear desideratum to put this intuitive differentiation on stricter grammatical footing.
 
-### --- [ Ø > OBJ ] Object addition --- {.unnumbered}
+### --- [ Ø > OBJ ] --- *Resultativ* {.unnumbered}
 
-### [ – | A ] Weather verbs with accusative {#sec:case-accusative-addition-without-nominative}
+### [ – | A ] Weather resultative {#sec:case-accusative-addition-without-nominative}
 
 A few of the verbs that allow for the nominative to be absent (see [@sec:case-nominative-addition]) can have an accusative object without a nominative, although this possibility seems to be strongly limited to weather phenomena [@next a,b] and is often used metaphorically [@nnext].
 
@@ -863,7 +877,7 @@ a.  Es schneit Absagen
 - Es schneit. Gestern hat es dicke Flocken geschneit.
 - Es regnet. Gestern hat es nur einzelne Tropfen geregnet.
 
-### [ N– | NA ] Resultative {#sec:case-accusative-addition}
+### [ N– | NA ] Intransitive resultative {#sec:case-accusative-addition}
 
 There are various kinds of objects that can be added to apparent intransitives with a resultative meaning. For example: a competitive entity in sports [@next a], the result of an action [@next b], the name of the result of an action [@next c] and possibly many other [@next d,e].
 
@@ -904,7 +918,7 @@ d.  Ich flüsterte ihm die Lösung ins Ohr.
 - Ich lebe die Freiheit.
 - Der Hund ist durch den Wald gehetzt. Der Hund hat den Hasen durch den Wald gehetzt.
 
-### --- [ ADJ > OBJ ] Possessor raising --- {.unnumbered}
+### --- [ ADJ > OBJ ] --- *Pertinenzdativ* {.unnumbered}
 
 ### [ Ng | ND ] Possessor-of-nominative to dative experiencer {#sec:case-possessor-of-nominative-to-dative-experiencer}
 
@@ -1017,9 +1031,9 @@ c.  Ich klaue deine Blumen.
 
 ## Symmetrical diatheses
 
-### --- [ OBJ > SBJ > OBJ ] Inversive --- {.unnumbered}
+### --- [ OBJ > SBJ > OBJ ] --- {.unnumbered}
 
-### [ NA | AN ] Accusative inverse
+### [ NA | AN ] Accusative/accusative inversive
 
 The verb *erwarten* 'to expect' has a very exceptional valency alternation in that the accusative and nominative arguments can be reversed with a very similar meaning [@next a,b]. There is a slight difference in meaning between 'to expect' [@next a] and 'to be imminent' [@next b].
 
@@ -1041,7 +1055,7 @@ d.  Ein Geschenk erwartet dich.
 
 - *erwarten*
 
-### [ NA | DN ] Dative inverse
+### [ NA | DN ] Accusative/dative inversive
 
 I know of only a few verbs with this very special passive-like diathesis [@next a,b]. There are a few more cases of this alternation with reflexive marking see [@sec:reflexive-sich-dative-passive]. Note that the alternant with the dative [@next b] needs a very special adverbial, typically *nichts*, *was*, or *wenig* (negative polarity).
 
@@ -1061,7 +1075,7 @@ b.  Der Hebel nutzt dem Arbeiter wenig.
 
 Some verbs allow for the same role being expressed with different case marking. These seem to be all incidental cases, mostly verbs in the midst of a diachronic change.
 
-### --- [ OBJ > OBJ ] Case change --- {.unnumbered}
+### --- [ OBJ > OBJ ] --- {.unnumbered}
 
 ### [ A | D ] Accusative-to-dative
 
