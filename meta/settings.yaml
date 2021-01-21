@@ -2,7 +2,7 @@
 
 mainfont: Libertinus Serif
 top-level-division: chapter
-toc-title: Table of Contents
+toc-title: Contents
 lang: en-GB # important for hyphenation
 
 # pandoc-crossref settings

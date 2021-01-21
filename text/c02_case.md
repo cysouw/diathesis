@@ -19,11 +19,11 @@ The unmarked nature of covert diatheses implies that there is some slight redund
 
 There are five local groups of diatheses that seem prominent enough to be given a German name. I propose the following names for these:
 
-- ~~[SBJ › Ø] Verbativ~~ (see [@sec:case-nominative-drop ff.])
-- ~~[OBJ › SBJ › Ø] Antikausativ~~ (see [@sec:case-haben-anticausative ff.])
-- ~~[Ø › SBJ › OBJ] Kausativ~~ (see [@sec:case-sein-causative ff.])
-- ~~[Ø › OBJ] Resultativ~~ (see [@sec:case-accusative-addition])
-- ~~[ADJ › OBJ] Pertinenzdativ~~ (see [@sec:case-possessor-of-nominative-to-dative-experiencer ff.])
+- [~~[SBJ › Ø] Verbativ~~](#lg:verbativ) (see [@sec:case-nominative-drop ff.])
+- [~~[OBJ › SBJ › Ø] Antikausativ~~](#lg:antikausativ) (see [@sec:case-haben-anticausative ff.])
+- [~~[Ø › SBJ › OBJ] Kausativ~~](#lg:kausativ) (see [@sec:case-sein-causative ff.])
+- [~~[Ø › OBJ] Resultativ~~](#lg:resultativ) (see [@sec:case-accusative-addition])
+- [~~[ADJ › OBJ] Pertinenzdativ~~](#lg:pretinenzdativ) (see [@sec:case-possessor-of-nominative-to-dative-experiencer ff.])
 
 ## Delimiting case-marked arguments {#sec:case-delimiting-arguments}
 
@@ -381,7 +381,7 @@ Alternations without diathesis do not exist by definition for 'bare' alternation
 
 ## Diatheses with subject demotion
 
-### --- [ SBJ > Ø ] --- *Verbativ* {.unnumbered}
+### --- [ SBJ > Ø ] --- *Verbativ* {.unnumbered #lg:verbativ}
 
 ### [ N | – ] Nominative drop {#sec:case-nominative-drop}
 
@@ -453,7 +453,7 @@ d.  Insofern entbehrt es jeglichen Beweises.
 
 - *bedürfen, entbehren*
 
-### --- [ OBJ > SBJ > Ø ] --- *Antikausativ* {.unnumbered}
+### --- [ OBJ > SBJ > Ø ] --- *Antikausativ* {.unnumbered #lg:antikausativ}
 
 ### [ NA | –N ] *haben* Anticausative {#sec:case-haben-anticausative}
 
@@ -544,7 +544,7 @@ Another different diathesis adding arguments to weather verbs is the addition of
 - Der Regen regnet täglich.
 - Das Wetter stürmt.
 
-### --- [ Ø > SBJ > OBJ ] --- *Kausativ* {.unnumbered}
+### --- [ Ø > SBJ > OBJ ] --- *Kausativ* {.unnumbered #lg:kausativ}
 
 ### [ –N | NA ] *sein* Causative {#sec:case-sein-causative}
 
@@ -853,29 +853,7 @@ As there are already very few verbs with genitive arguments in German, there app
 
 I have tried to separate in this chapter between the demotion of an object (antipassive or drop, see [@sec:case-object-demotion]) and the promotion of an accusative (applicative or addition). However, for 'bare' diatheses I cannot find any substantive difference between these phenomena, except for a faint semantic impression that bare applicatives do not imply an accusative object (but allow it), while bare antipassive imply an accusative object (but allow it to be dropped). It remains a clear desideratum to put this intuitive differentiation on stricter grammatical footing.
 
-### --- [ Ø > OBJ ] --- *Resultativ* {.unnumbered}
-
-### [ – | A ] Weather resultative {#sec:case-accusative-addition-without-nominative}
-
-A few of the verbs that allow for the nominative to be absent (see [@sec:case-nominative-addition]) can have an accusative object without a nominative, although this possibility seems to be strongly limited to weather phenomena [@next a,b] and is often used metaphorically [@nnext].
-
-::: ex
-a.  Im Jahre 1932 hagelte es einen Schauer neuer Gesetze.
-b.  Gestern hat es riesengroße Körner gehagelt.
-:::
-
-::: ex
-a.  Es schneit Absagen
-:::
-
-**Attested Verbs**
-
-- Weather verbs: *schneien, hageln, regnen*
-
-**Examples**
-
-- Es schneit. Gestern hat es dicke Flocken geschneit.
-- Es regnet. Gestern hat es nur einzelne Tropfen geregnet.
+### --- [ Ø > OBJ ] --- *Resultativ* {.unnumbered #lg:resultativ}
 
 ### [ N– | NA ] Intransitive resultative {#sec:case-accusative-addition}
 
@@ -918,7 +896,29 @@ d.  Ich flüsterte ihm die Lösung ins Ohr.
 - Ich lebe die Freiheit.
 - Der Hund ist durch den Wald gehetzt. Der Hund hat den Hasen durch den Wald gehetzt.
 
-### --- [ ADJ > OBJ ] --- *Pertinenzdativ* {.unnumbered}
+### [ – | A ] Weather resultative {#sec:case-accusative-addition-without-nominative}
+
+A few of the verbs that allow for the nominative to be absent (see [@sec:case-nominative-addition]) can have an accusative object without a nominative, although this possibility seems to be strongly limited to weather phenomena [@next a,b] and is often used metaphorically [@nnext].
+
+::: ex
+a.  Im Jahre 1932 hagelte es einen Schauer neuer Gesetze.
+b.  Gestern hat es riesengroße Körner gehagelt.
+:::
+
+::: ex
+a.  Es schneit Absagen
+:::
+
+**Attested Verbs**
+
+- Weather verbs: *schneien, hageln, regnen*
+
+**Examples**
+
+- Es schneit. Gestern hat es dicke Flocken geschneit.
+- Es regnet. Gestern hat es nur einzelne Tropfen geregnet.
+  
+### --- [ ADJ > OBJ ] --- *Pertinenzdativ* {.unnumbered #lg:pertinenzdativ}
 
 ### [ Ng | ND ] Possessor-of-nominative to dative experiencer {#sec:case-possessor-of-nominative-to-dative-experiencer}
 

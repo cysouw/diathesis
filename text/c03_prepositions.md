@@ -567,7 +567,7 @@ b.  Die Aufgabe (des Lehrers) überrascht mich.
 c.  Der Lehrer überrascht mich damit, dass er die Aufgabe schon korrigiert hat.
 :::
 
-There is a large overlap (but also an interesting difference) between the verbs that allow for this diathesis and the verbs that allow for a reflexive variant [@next c], cf. [#sec:reflexive-preposition-passive]. Some verbs, like *ärgern* 'to irritate' in [@next] allow for both diatheses, but other verbs only take part in one or the other.
+There is a large overlap (but also an interesting difference) between the verbs that allow for this diathesis and the verbs that allow for a reflexive variant [@next c], cf. [@sec:reflexive-preposition-passive]. Some verbs, like *ärgern* 'to irritate' in [@next] allow for both diatheses, but other verbs only take part in one or the other.
 
 ::: ex
 a.  Du ärgerst mich mit deinen Witzen.
