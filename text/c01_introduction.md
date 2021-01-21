@@ -1282,3 +1282,8 @@ Finally, an incidental diathesis is attested with the verb *rauben* 'to rob' [@n
 a.  Ich raube dir das Buch.
 b.  Ich beraube dich des Buches.
 :::
+
+## German names for local groups
+
+- Pertinenz (lat. pertinere, ,dazugehören‘) Peter von Polenz: Der Pertinenzdativ und seine Satzbaupläne. In: Festschrift für Hugo Moser. Düsseldorf 1969, Seite 146ff.
+- Absentiv [@groot2000]

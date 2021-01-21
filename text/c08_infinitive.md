@@ -67,7 +67,7 @@ The verbs *brauchen* and *heißen* are not very common in this construction.
 
 - Ich bin dem Nachbarn mal eben den Teller zurückbringen.
 
-References
+References [@vogel2007]
 
 - Abraham, Werner (2008): „Absentive arguments on the Absentive: An exercise in silent syntax. Grammatical category or just pragmatic inference?“ In: Language Typology and Universals (STUF) 61/4:358-374.
 - König, Svenja (2009): „Alle sind Deutschland … außer Fritz Eckenga – der ist einkaufen! Der Absentiv in der deutschen Gegenwartssprache“. In: Winkler, Edeltraud (Hg.): Konstruktionelle Varianz bei Verben (= OPAL-Sonderheft 4/2009):42-74.

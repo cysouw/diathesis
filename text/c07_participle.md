@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Constructions consisting of a participle combined with a light verb (i.e. a verb with limited lexical meaning) are manifold in German grammar. They include constructions without diathesis like the German *haben* ~~Perfekt~~ [@next a] and typical diatheses like the *werden* ~~Passiv~~ [@next b].
+Constructions consisting of a participle combined with a light verb (i.e. a verb with limited lexical meaning) are manifold in German grammar. They include constructions without diathesis like the German *haben + Partizip* ~~Perfekt~~ [@next a] and typical diatheses like the *werden + Partizip* ~~Passiv~~ [@next b].
 
 ::: ex
 a.  Ich habe einen Brief geschrieben.
@@ -26,7 +26,7 @@ a.  Jetzt wird geschlafen.
 b.  Das Haus wird geputzt.
 :::
 
-There are many different such 'repeated' light-verb constructions. A recurring phenomenon is one in which intransitives show no diathesis [@next a], while transitives display an anticausative diathesis [@next b]. This phenomenon seems to fit nicely with the so-called 'unaccusative hypothesis' [@perlmutter1978] which proposes that some intransitive subjects are underlyingly objects, see [@sec:participles-restrictions]. However, exactly which intranstive verbs are amenable for which constructions appears to be rather unpredictable (or maybe better 'lexically dependent'), and the survey in this chapter is proposed to be a step towards a more precise understanding the such constructional restrictions.
+There are many different such 'repeated' light-verb constructions. A recurring phenomenon is one in which intransitives show no diathesis [@next a], while transitives display an anticausative diathesis [@next b]. This phenomenon seems to fit nicely with the so-called 'unaccusative hypothesis' [@perlmutter1978] which proposes that some intransitive subjects are underlyingly objects, see [@sec:participles-restrictions]. However, exactly which intranstive verbs are amenable for which constructions appears to be rather unpredictable (or maybe better: 'lexically dependent'), and the survey in this chapter is proposed to be a step towards a more precise understanding the such constructional restrictions.
 
 ::: ex
 a.  Der Schlüssel verschwndet. \
@@ -34,6 +34,8 @@ a.  Der Schlüssel verschwndet. \
 b.  Ich schließe den Schrank. \
     Der Schrank bleibt geschlossen.
 :::
+
+=> *sein*-Konstruktions: one construction of many different? [cf. @thieroff2007]
 
 ## Characterizing participle constructions
 
@@ -993,18 +995,29 @@ Maienborn: 102-103: Sie findet aber Beispiele bei Google!
 - aufhalten (Die Einzelheiten halten den Mann auf. Der Mann ist aufgehalten
 - stören (Der Lärm stört den Mann. Der Mann ist gestört)
 
-### --- [ OBJ > SBJ > Ø ] --- *Deutscher Name* {.unnumbered}
+### --- [ ADJ > OBJ > SBJ > Ø ] --- *Pertinenzpassiv* {.unnumbered}
 
-### [ NDA | –NA ] *haben + Partizip* Dative experiencer {#sec:participles-haben-passive}
+### [ NgA | NDA | –NA ] *haben + Partizip* Dative experiencer anticausative {#sec:participles-haben-passive}
 
-To do:
+Following Hole [-@hole2002] that construction is known in German as the "Partizipiale *haben*-Konfiguration". I find this name rather cumbersome and  and propose alternatively to call this construction *Pertinenzpassiv*.
 
-- (Businger 2011: Ch. 4)
+Pertinentzpassiv kommt anstatt eines Pertinenzdativs!
+
+[ NgA | –NA ] ADJ>SBJ>Ø
+
+[@businger2017: Ch. 4]
+
+=> Kritik an Diathesenstatus: §4.4. Es ist kein "Zustandsvariante des Dativpassivs" (p. 181)
+
+[@rothstein2007]
+Latzel, Sigbert 1977: Haben + Partizip und ähnliche Verbindungen. In: Deutsche Sprache 5. 289–312.
+Leirbukt, Oddleif 1981: ,Passivähnliche’ Konstruktionen mit haben + Partizip II im heutigen Deutsch. In: Deutsche Sprache 9. 119–146.
+
 - Experientive semantics?
 - inherently possessor: different possessor leads to disambiguation: Ich habe deinen Rechner repariert
 - not inherently possessor with modal verbs: Ich will den Rechner meiner Tochter repariert haben. 
 
-Verbs that have the possibility of an accusative object, like *brechen* 'to break' in (a), almost all have a 'haben + Partizip' perfect (b), as discussed in Section X. A subset of those verbs also allow for a different 'haben + Partizip' construction, which I will analyse as an anticausative alternation, illustrated here in (c). The example in (c) has an optional reflexive-dative pronoun disambiguating the intended reading, namely 'the arm is broken to me.' Without this pronoun, (c) is ambigious between 'I have broken the arm' (the perfect construction from Section X) and 'The arm is broken to me' (the anticausative construction as discussed in this section). It is rather curious for there to be two formally identical constructions with two such rather different meanings. The anticausative reading seems to be recent and is considered colloquial by most speakers (cf. Eroms 2000: 395-396, 420-421; Hole 2002 for a discussion of this rather special construction).
+Verbs that have the possibility of an accusative object, like *brechen* 'to break' in (a), almost all have a 'haben + Partizip' perfect (b), as discussed in Section X. A subset of those verbs also allow for a different 'haben + Partizip' construction, which I will analyse as an anticausative alternation, illustrated here in (c). The example in (c) has an optional reflexive-dative pronoun disambiguating the intended reading, namely 'the arm is broken to me.' Without this pronoun, (c) is ambigious between 'I have broken the arm' (the perfect construction from Section X) and 'The arm is broken to me' (the anticausative construction as discussed in this section). It is rather curious for there to be two formally identical constructions with two such rather different meanings. The anticausative reading seems to be recent and is considered colloquial by most speakers (cf. @eroms2000: 395-396, 420-421; @hole2002 for a discussion of this rather special construction).
 
 (a) Er bricht meinen Arm.
 (b) Er bricht mir den Arm.
@@ -1019,6 +1032,8 @@ This construction is only possible for transitive verbs that also allow for a po
 (b) Er hat mir den Rechner repariert.
 (c) Ich habe den Rechner repariert.
 (d) Ich will den Rechner repariert haben.
+
+=> Note "Ich habe mir den Rechner repariert." can only have a Perfekt-Interpretation, not an Experiencer! [@businger2017: ]
 
 There is an notable parallel between this 'haben + Partizip' Anticausative State and the 'sein + Partizip' Anticausative State from Section X. The 'sein + Partizip' anticausative construction describes a state, which is compatible with an imperfective *seit* 'since' temporal phrase (a). In contrast, the highly similar combination of a 'werden + Partizip' Passive (Section X) with a 'sein + Partizip' Perfect (Section X) is compatible with a perfective *vor* 'ago' temporal phrase (b). The reverse temporal interpretation is not possible.
 
@@ -1041,13 +1056,17 @@ Examples
 - "Während der Brexit-Kampagne wetterte Boris Johnson unermüdlich gegen die Europäische Union - jetzt nimmt er als britischer Außenminister erstmals an einer Sitzung mit Amtskollegen in Brüssel teil. Erste Beobachtung: Er hat die Haare geschnitten. Und wie ist er aufgetreten? Ganz handzahm." (https://www.n-tv.de/der_tag/Boris-Johnson-in-Bruessel-ganz-handzahm-article18215036.html)
 - "Bei der zweiten Attacke, die wieder in ihrem Haus stattfindet, reißt sie ihm die Ski-Maske vom Gesicht, erkennt ihn und jagt ihm eine Schere durch die Hand, die sie von ihrem Schreibtisch ergattern konnte, woraufhin er flüchtet. Am nächsten Tag begegnen sie sich auf der Straße vor ihren Häusern. Er hat die Hand verbunden." (https://andreas-huckele.de/elle-ein-film-von-paul-verhoeven-mit-isabelle-huppert-ein-kinoabend-zum-selberdenken/)
 
-Intransitives very rare?
+
+Intransitives very rare? [cf. @businger2017: 162-163]: "Er hatte Haare im Auge eingewachsen. Wir haben den Teich zugefroren."
 
 - Ihm ist der Arm geschwollen. vs. Er hat den Arm geschwollen.
 - "Wenn Sie bemerken, dass Sie Ihr Bein oder sogar zwei Beine geschwollen haben, dann die Frage: "Was tun?"." (https://clione.ru/de/treatment/treatment-has-swelled-up-the-leg-what-to-do-if-swelling-and-redness-of-the-feet/)
 - "Wenn Sie Ihre Lippen geschwollen haben, müssen Sie behandelt werden." (https://de.iliveok.com/health/warum-ist-die-lippe-geschwollen_106329i16005.html)
 
-Besser mit modalverben (Leirbukt 2012)
+Der PHK ist ohne Akkusativobjekt bis auf die Ausnahmen öffnen, schließen und heizen (Latzel 1977: 302) nicht möglich: (62) Der Laden hat geöffnet / geschlossen / geheizt. (Thieroff 2007)
+=> Nein! das sind keine Beispiele dieser Konstruktion!!!
+
+Besser mit modalverben [@leirbukt2000]
 
 - Ich würde gerne mein Auto repariert haben.
 
@@ -1432,7 +1451,7 @@ Not Attested
 
 Not Attested
 
-## Symnmnetrical diatheses
+## Symmnetrical diatheses
 
 ### --- [ Ø > SBJ > Ø ] Agent-Experiencer commutative --- {.unnumbered}
 

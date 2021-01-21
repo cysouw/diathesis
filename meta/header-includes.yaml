@@ -1,0 +1,75 @@
+# fine-tuning for various output formats
+# take pandoc defaults and add some further specifications
+
+header-includes:
+# Latex preamble details just for this document
+- |
+  ```{=latex}
+  % adding preamble settings to pandoc defaults
+  \setlength\parindent{2ex} % set small indentation
+  \usepackage{float}
+  \floatplacement{figure}{htb} % remove "p" option, default pandoc to latex uses [htbp]
+  \usepackage{tocloft}
+  \renewcommand{\cftsubsecfont}{\scriptsize} % to get small subsection in TOC
+  ```
+# CSS details just for this document
+# hyphenation settings as suggested by:
+# https://medium.com/clear-left-thinking/all-you-need-to-know-about-hyphenation-in-css-2baee2d89179
+- |
+  ```{=html}
+  <!-- CSS added specifically for this document -->
+  <style>
+  .author {
+    text-align: center;
+  }
+  .date {
+    text-align: center;
+  }
+  body {
+    padding-left: 8cm;
+    padding-right: 1cm;
+  }
+  a:link {
+    text-decoration: none; 
+  }
+  a:hover { 
+    text-decoration: underline; 
+  }
+  nav {
+    margin-left: -7cm;
+    width: 5cm;
+    font-size: small;
+    color: grey;
+    float: left;
+    position: fixed;
+    overflow-y: scroll;
+    top: 0;
+    bottom: 0;
+    white-space: nowrap;
+  }
+  #TOC a {
+    color: darkslategrey;
+  }
+  #TOC ul ul ul a {
+    color: grey;
+  }
+  #TOC ul {
+    padding-left: 0.5em;
+  }
+  p {
+    text-align: justify;
+    -webkit-hyphens: auto;
+    -webkit-hyphenate-limit-before: 3;
+    -webkit-hyphenate-limit-after: 3;
+    -webkit-hyphenate-limit-chars: 6 3 3;
+    -webkit-hyphenate-limit-lines: 2;
+    -webkit-hyphenate-limit-last: always;
+    -webkit-hyphenate-limit-zone: 8%;
+    hyphens: auto;
+    hyphenate-limit-chars: 6 3 3;
+    hyphenate-limit-lines: 2;
+    hyphenate-limit-last: always;
+    hyphenate-limit-zone: 8%;
+  }
+  </style>
+  ```

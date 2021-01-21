@@ -34,5 +34,7 @@ table-of-contents: true
 standalone: true
 
 metadata-files:
-- metadata.yaml
+- meta/metadata.yaml
+- meta/settings.yaml
+- meta/header-includes.yaml
 
