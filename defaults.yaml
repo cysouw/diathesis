@@ -38,5 +38,6 @@ metadata-files:
 - meta/settings.yaml
 - meta/header-includes.yaml
 
-
+include-after-body:
+- meta/script.html
 

@@ -1,4 +1,4 @@
-# Light verb alternations with *zum/am*-infinitive {#sec:zuminfinitive}
+# Light verb alternations with *zum/am*-infinitives {#sec:zuminfinitive}
 
 ## Introduction
 

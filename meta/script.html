@@ -1,4 +1,3 @@
-
   <script>
     function toggleNav() {
       var b = document.querySelector("body")
@@ -11,7 +10,10 @@
       toggleNav()
     });
 
+    window.onresize = function() {
+      if (window.innerWidth <= 800) toggleNav()
+    };
     window.onload = function() {
-      if (window.innerWidth <= 1000) toggleNav()
+      if (window.innerWidth <= 800) toggleNav()
     };
   </script>
