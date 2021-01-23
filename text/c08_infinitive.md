@@ -120,6 +120,7 @@ DWDS query: haben leicht $p=VVINF &&! {reden, lachen, können}
 considered to be one word in german orthographie!
 
 - stehenbleiben, klebenkleiben, hängenbleiben, liegenbleiben, sitzenbleiben, steckenbleiben
+- Nora bleibt morgens immer ewig liegen. [@schlucker2007: 142]
 
 *bleiben* nur mit positionsverben? Aber:
 

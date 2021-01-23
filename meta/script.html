@@ -1,0 +1,17 @@
+
+  <script>
+    function toggleNav() {
+      var b = document.querySelector("body")
+      b.classList.toggle("bodywide");
+      var n = document.querySelector("nav")
+      n.classList.toggle("navhidden");
+    }
+
+    document.querySelector("#toc-title").addEventListener("click", function() {
+      toggleNav()
+    });
+
+    window.onload = function() {
+      if (window.innerWidth <= 1000) toggleNav()
+    };
+  </script>
