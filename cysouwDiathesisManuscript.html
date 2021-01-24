@@ -5,7 +5,7 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="author" content="Michael Cysouw" />
-  <meta name="dcterms.date" content="2021-01-23" />
+  <meta name="dcterms.date" content="2021-01-24" />
   <title>A Survey of German Diathesis</title>
   <style>
     html {
@@ -184,20 +184,20 @@
     text-decoration: underline; 
   }
   </style>
-  <!-- TOC to the side -->
+  <!-- TOC hovering to the side -->
   <style>
-  body {
-    padding-left: 5cm;
+    body {
+    padding-left: 2cm;
     padding-right: 1cm;
     transition: 0.5s;
   }
-  .bodywide {
-    padding-left: 2cm;
+  .bodysmall {
+    padding-left: 5cm;
     transition: 0.5s;
   }
   nav {
-    margin-left: -5cm;
-    width: 150px;
+    width: 1em;
+    margin-left: -1.5cm;
     float: left;
     position: fixed;
     top: 0;
@@ -208,25 +208,21 @@
     transition: 0.5s;
   }
   nav h2:before {
-    content: "▶ ";
+    content: "◀ ";
+  }
+  nav:hover {
+    width: 40%;
+    padding-right: 0.5cm;
+    background-color: rgba(255, 255, 255, 0.95);
   }
   nav li {
     white-space: nowrap; 
     overflow: hidden;
     text-overflow: ellipsis;
+    margin-left: 1.5em;
   }
-  nav:hover {
-    width: 40%;
-    padding-right: 1em;
-    background-color: rgba(255, 255, 255, 0.95);
-  }
-  .navhidden {
-    width: 1em;
-    margin-left: -1.5cm;
-    transition: 0.5s;
-  }
-  .navhidden h2:before {
-    content: "◀ ";
+  nav li li li {
+    margin-left: -1em;
   }
   nav li > a:not(:only-child):before {
     content: "▶ ";
@@ -243,11 +239,24 @@
     margin-top: 0.2em;
     margin-bottom: 0.2em;
     transition: all 0.5s ease;
-    margin-left: 1.5em;  
   }
   nav ul li:hover > ul , ul li ul:hover  {
     visibility: visible;
     display: block;
+  }
+  .navshown {
+    margin-left: -5cm;
+    width: 150px;
+    transition: 0.5s;
+  }
+  .navshown h2:before {
+    content: "▶ ";
+  }
+  .navshown:hover {
+    width: 40%;
+    padding-right: 0.5cm;
+    padding-left: 1cm;
+    background-color: rgba(255, 255, 255, 0.95);
   }
   </style>
   <!-- Text justification with hyphenation -->
@@ -318,7 +327,7 @@
 <header id="title-block-header">
 <h1 class="title">A Survey of German Diathesis</h1>
 <p class="author">Michael Cysouw</p>
-<p class="date">January 23, 2021</p>
+<p class="date">January 24, 2021</p>
 </header>
 <nav id="TOC" role="doc-toc">
 <h2 id="toc-title">Contents</h2>
@@ -20477,24 +20486,5 @@ Zúñiga, Fernando &amp; Seppo Kittilä. 2019. <em>Grammatical voice</em> (Cambr
 <li id="fn8" role="doc-endnote"><p>The Duden grammar <span class="citation" data-cites="duden2009">(<a href="#ref-duden2009" role="doc-biblioref">2009</a>: 790)</span> presents <em>Er hält/macht den Tisch sauber</em> as examples of resultative secondary predicate constructions. However, these examples are probably better analysed as adjectival predicates with light verbs <em>halten/machen</em>, cf. Section <a href="#sec:participles-adjectives-light-verb-constructions">7.2.5</a>.<a href="#fnref8" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section>
-  <script>
-    function toggleNav() {
-      var b = document.querySelector("body")
-      b.classList.toggle("bodywide");
-      var n = document.querySelector("nav")
-      n.classList.toggle("navhidden");
-    }
-
-    document.querySelector("#toc-title").addEventListener("click", function() {
-      toggleNav()
-    });
-
-    window.onresize = function() {
-      if (window.innerWidth <= 800) toggleNav()
-    };
-    window.onload = function() {
-      if (window.innerWidth <= 800) toggleNav()
-    };
-  </script>
 </body>
 </html>

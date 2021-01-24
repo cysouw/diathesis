@@ -35,20 +35,20 @@ header-includes:
 # needs script at end of document!
 - |
   ```{=html}
-  <!-- TOC to the side -->
+  <!-- TOC hovering to the side -->
   <style>
-  body {
-    padding-left: 5cm;
+    body {
+    padding-left: 2cm;
     padding-right: 1cm;
     transition: 0.5s;
   }
-  .bodywide {
-    padding-left: 2cm;
+  .bodysmall {
+    padding-left: 5cm;
     transition: 0.5s;
   }
   nav {
-    margin-left: -5cm;
-    width: 150px;
+    width: 1em;
+    margin-left: -1.5cm;
     float: left;
     position: fixed;
     top: 0;
@@ -59,25 +59,21 @@ header-includes:
     transition: 0.5s;
   }
   nav h2:before {
-    content: "▶ ";
+    content: "◀ ";
+  }
+  nav:hover {
+    width: 40%;
+    padding-right: 0.5cm;
+    background-color: rgba(255, 255, 255, 0.95);
   }
   nav li {
     white-space: nowrap; 
     overflow: hidden;
     text-overflow: ellipsis;
+    margin-left: 1.5em;
   }
-  nav:hover {
-    width: 40%;
-    padding-right: 1em;
-    background-color: rgba(255, 255, 255, 0.95);
-  }
-  .navhidden {
-    width: 1em;
-    margin-left: -1.5cm;
-    transition: 0.5s;
-  }
-  .navhidden h2:before {
-    content: "◀ ";
+  nav li li li {
+    margin-left: -1em;
   }
   nav li > a:not(:only-child):before {
     content: "▶ ";
@@ -94,11 +90,24 @@ header-includes:
     margin-top: 0.2em;
     margin-bottom: 0.2em;
     transition: all 0.5s ease;
-    margin-left: 1.5em;  
   }
   nav ul li:hover > ul , ul li ul:hover  {
     visibility: visible;
     display: block;
+  }
+  .navshown {
+    margin-left: -5cm;
+    width: 150px;
+    transition: 0.5s;
+  }
+  .navshown h2:before {
+    content: "▶ ";
+  }
+  .navshown:hover {
+    width: 40%;
+    padding-right: 0.5cm;
+    padding-left: 1cm;
+    background-color: rgba(255, 255, 255, 0.95);
   }
   </style>
   ```
