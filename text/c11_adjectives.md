@@ -13,6 +13,8 @@ The central question is which of the arguments of the verb turns into the head o
 - Das dem Jungen geschenkte Buch ist schön.
 - Das Buch ist dem Jungen geschenkt.
 
+Analysis of Partizip as adjective: [@lubbe2011]
+
 ## *ge-…-en/et* Partizip Perfekt
 
 cf. Zustandspassiv! Stark (-en) vs. schwach (-et) scheint kein semantischer Faktor zu sein

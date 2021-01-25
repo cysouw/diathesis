@@ -964,6 +964,15 @@ a.  Das Geschenk freut mich.
 b.  Er erfreut mich mit einem Geschenk.
 :::
 
+Finally, a ~~novative with extreme demotion [Ø › SBJ › ADJ]~~ almost completely removes the erstwhile subject [@next], see [@sec:participle-wissen-commutative].
+
+::: ex
+~~Novative with extreme demotion [Ø › SBJ › ADJ]~~
+
+a.  Das Archiv hebt den Nachlass auf.
+b.  Ich weiß den Nachlass (im Archiv) gut aufgehoben.
+:::
+
 #### Symmetrical subject diatheses {.unnumbered}
 
 Symmetrical diatheses involving the subject are rare in German. An ~~inversive [OBJ › SBJ › OBJ]~~ switches subject and object. This term is proposed by Malchukov [-@malchukov2015: 99-100] in reminiscence of the so-called 'inverse' marking found in Algonquian languages. An inversive diathesis is designated as a "symmetric conversive" by Kulikov [-@kulikov2011: 380]. An example of an inversive is the diathesis between *wundern* 'to puzzle' and *bewundern* 'to admire' [@next], see [@sec:preverb-accusative-inversive].
@@ -975,13 +984,13 @@ a.  Dein Verhalten wundert mich.
 b.  Ich bewundere dein Verhalten.
 :::
 
-At the other extreme, a ~~commutative [Ø › SBJ › Ø]~~ complete removes the old subject and introduces a completely new role as subject. I propose this term on the basis of Lat. *commutare* 'exchange, replace'. A German example of such a diathesis is the *wissen + Partizip* construction [@next], see [@sec:participle-wissen-commutative].
+At the other extreme, a ~~commutative [Ø › SBJ › Ø]~~ complete removes the old subject and introduces a completely new role as subject. I propose this term on the basis of Lat. *commutare* 'exchange, replace'. A German example of such a diathesis is the *wissen + Partizip* construction [@next], see [@sec:participles-geben-commutative]
 
 ::: ex
 ~~Commutative [Ø › SBJ › Ø]~~
 
-a.  Das Archiv hebt den Nachlass auf.
-b.  Ich weiß den Nachlass gut aufgehoben.
+a. Irgendjemand verliert den Ring.
+b. Ich gebe den Ring verloren.
 :::
 
 The two other symmetrical diatheses in between the two extremes are even rarer. A ~~preposition inversive [PBJ › SBJ › PBJ]~~ is similar to an inversive, but the exchange is with a governed preposition. This is arguably attested in the diathesis between *strahlen* 'to shine' and *erstrahlen* 'to gleam' [@next], see [@sec:preverb-location-inversive].

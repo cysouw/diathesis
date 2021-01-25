@@ -82,7 +82,7 @@ header-includes:
     content: "▼ ";
   }
   nav li > a:only-child {
-    margin-left: 1em;
+    margin-left: 0.7em;
   }
   nav ul li ul  {
     visibility: hidden;

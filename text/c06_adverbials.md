@@ -63,7 +63,7 @@ e.  Das Flugzeug ist wie eine Feder gelandet.
 
 Adjectives (and adjectival verbforms like participles, see [@sec:participles-secondary-predicates]) are also frequently used in adverbial function as discussed in the next sections.
 
-### Adjectives as depictive secondary predicates
+### Adjectives as depictive secondary predicates {#sec:adverbials-depictive-predicates}
 
 Given the right context, all German adjectives like *klein* can be used as ~~depictive~~ secondary predicates, i.e. they can be used syntactically both as adjectives [@next a] and as adverbs [@next b]. 
 

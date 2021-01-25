@@ -108,7 +108,7 @@ Manchmal ohne Artikel?
 
 ## *-ung* Nominalisation
 
-(cf. Eisenberg S. 277)
+(cf. Eisenberg S. 277) and [@ehrich2000]
 
 meistens nicht möglich: Helfung, Dankung, Fehlung, Folgung
 
