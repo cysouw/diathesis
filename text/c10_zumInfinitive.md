@@ -1,4 +1,4 @@
-# Light verb alternations with *zum/am*-infinitives {#sec:zuminfinitive}
+# Light-verb + *zum/am*-infinitive alternations {#sec:zuminfinitive}
 
 ## Introduction
 
@@ -16,7 +16,7 @@ Nach dem Aufstehen
 
 ## Definitions
 
-## Verbs without alternations
+## Deponent verbs without alternations
 
 ## Alternations without diathesis
 

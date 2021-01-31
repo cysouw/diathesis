@@ -23,7 +23,7 @@ a.  Die S-Bahn hat sich wieder einmal verspätet.
 b.  Ich habe mir eine neue Sprache angeeignet.
 :::
 
-In this chapter those diatheses are discussed that only differ as to the addition of a reflexive pronoun. There are many more diatheses involving reflexive pronouns that will be discussed in subsequent chapters. In those diatheses there is more than one morphosyntactic change. For example, with some verbs the addition of a preverb also induces the addition of a reflexive pronouns [@next a], see e.g. [@sec:preverb-reflexive-intransitive-antiresultative]. There is also the famous German anticausative diatheses that combines a reflexive pronoun with a manner adverbial [@next b], see [@sec:adverbial-reflexive-transitive-anticausative]. Also widely discussed in German grammar is the combination of a reflexive pronoun with the light verb *lassen* [@next c], see [@sec:infinitive-lassen-reflexive-anticausative]. Less widely discussed are diatheses that combine a reflexive pronoun with light verbs like *fühlen* or *geben* [@next d], see e.g. [@sec:participle-geben-reflexive-anticausative].
+In this chapter those diatheses are discussed that only differ as to the addition of a reflexive pronoun. There are many more diatheses involving reflexive pronouns that will be discussed in subsequent chapters. In those diatheses there is more than one morphosyntactic change. For example, with some verbs the addition of a preverb also induces the addition of a reflexive pronouns [@next a], see e.g. [@sec:preverb-reflexive-intransitive-antiresultative]. There is also the famous German anticausative diatheses that combines a reflexive pronoun with a manner adverbial [@next b], see [@sec:adverbial-reflexive-transitive-anticausative]. Also widely discussed in German grammar is the combination of a reflexive pronoun with the light verb *lassen* [@next c], see [@sec:infinitive-lassen-reflexive-anticausative]. Less widely discussed are diatheses that combine a reflexive pronoun with light verbs like *fühlen* or *geben* [@next d], see e.g. [@sec:participles-geben-reflexive-anticausative].
 
 ::: ex
 a.  Der Hund ist nach Hause gelaufen. Der Hund hat sich im Wald verlaufen.
@@ -698,7 +698,7 @@ b.  Er hat sich alles erspart.
 c.  Er hat mir jede Menge Arbeit erspart.
 :::
 
-### --- Self-inflicted ('reflexive') alternations --- {.unnumbered}
+### --- Self-inflicted reflexive alternations --- {.unnumbered}
 
 To test for the presence of the self-inflicting reflexive construction, there are various syntactic characteristics to look out for. First, it is always possible to add the intensifier *selbst* to the reflexive pronoun [@next a]. Further, the pronoun *sich* can be negated [@next b] and stressed [@next c]. These characteristics do not hold for any of the diatheses marked by *sich*.
 
@@ -1290,7 +1290,7 @@ In many of these verbs, the role of the reflexive argument appears to be more of
 
 **Attested Verbs**
 
-- *über*  : (Object of emotional reaction): *aufregen, ärgern, begeistern, beschweren, empören, erschrecken, erstaunen, freuen, wundern*
+- *über*  : (Object of emotional reaction): *aufregen, ärgern, begeistern, beschweren, empören, erschrecken, erstaunen, erzürnen, freuen, wundern*
 - *an*    : (Object of emotional reaction): *belustigen, brechen, stören, erfreuen, erheitern*
 - *von*   : *nähren, verabschieden*
 - *aus*   : *bilden, entwickeln, ergeben*
@@ -1340,6 +1340,7 @@ In many of these verbs, the role of the reflexive argument appears to be more of
 - Der Anblick entsetzte sie. Bei diesem Anblick entsetzte sie sich.
 - Die Schule langweilt mich. Ich langweile mich in der Schule.
 - diese Arznei löst den Schleim. Der Schleim löst sich durch diese Arznei.
+- Die Rede erzürnt mich. Ich erzürne mich über die Rede.
 
 **Notes**
 
@@ -1392,12 +1393,12 @@ d.  Politiker verstecken sich und ihre Botschaften hinter verschwurbelten Sätze
 e.  Sie verstecken sich und ihre Waffen. (DWDS: Die Zeit, 31.10.2001, Nr. 45)
 :::
 
-The autocausative aspect most clearly emerges with verbs that hurt the body, like *verbrennen* 'to burn' [@next] or *schneiden* 'to cut'. The usage of these verbs with a reflexive pronoun normally implies that the body is only partially inflicted, i.e. only a part of the body is burned or cut. For this reason, the conjunction in [@next c] is strange and would only make sense in a context in which somebody would burn himself completely (cf. Elias Canetti's Novel *Die Blendung*).
+The autocausative aspect most clearly emerges with verbs that hurt the body, like *verbrennen* 'to burn' [@next] or *schneiden* 'to cut'. The usage of these verbs with a reflexive pronoun normally implies that the body is only partially inflicted, i.e. only a part of the body is burned or cut. For this reason, the conjunction in [@next c] is strange and would only make sense in a context in which somebody would burn himself completely (cf. Elias Canetti's novel *Die Blendung*).
 
 ::: ex
-a.  Er verbrennt das Buch.
-b.  Er verbrennt sich.
-c ^* Er verbrennt sich und das Buch.
+a. Er verbrennt das Buch.
+b. Er verbrennt sich.
+c. ^* Er verbrennt sich und das Buch.
 :::
 
 **Attested Verbs**
@@ -1422,12 +1423,12 @@ c ^* Er verbrennt sich und das Buch.
 The verb *äußern* 'to express' has a slightly different meaning depending on the animacy of the subject. With a human subject it normally signifies a verbal utterance [@next a], while with non-human subjects (who cannot speak) it more generally means 'to show' [@next b]. Crucially, with non-human subjects the pronoun *sich* is obligatory [@next c].
 
 ::: ex
-a.  Er äußert sein Bedauern über den Unfall.
-b.  Die Krankheit äußert sich durch das Fieber.
-c.  ^* Die Krankheit äußert den Fieber.
+a. Er äußert sein Bedauern über den Unfall.
+b. Die Krankheit äußert sich durch das Fieber.
+c. ^* Die Krankheit äußert den Fieber.
 :::
 
-It appears to be the case that *sich verschlafen* is getting old-fashioned. 
+It appears to be that *sich verschlafen* is getting old-fashioned. 
 
 ::: ex
 Ach, Johanna, ich glaube, ich habe mich verschlafen. (DWDS: Fontane, Theodor: Effi Briest. Berlin, 1896.)
@@ -1511,7 +1512,7 @@ e.  Ich beklage mich darüber, dass es so laut ist
 - *in*   : *behaupten, üben, versuchen, vertiefen*
 - *über* : *beklagen, besprechen*
 - *von*  : *trennen*
-- *vor*  : *fürchten, scheuen*
+- *vor*  : *distanzieren, fürchten, scheuen*
 - *zu*   : *bekennen*
 
 **Examples**
@@ -1528,6 +1529,7 @@ e.  Ich beklage mich darüber, dass es so laut ist
 - Ich bekenne die Tat. Ich bekenne mich zu der Tat.
 - Ich behaupte den ersten Platz. Ich behaupte mich in meine neue Stelle.
 - Ich trenne die Gruppe. Ich trenne mich von der Gruppe.
+- Er distanzierte den Gegner. Er distanzierte sich von seinem Gegner.
 
 **Notes**
 

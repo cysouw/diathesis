@@ -419,6 +419,7 @@ b.  Dieses Jahr gibt es einen guten Wein.
 **Examples**
 
 - Ich brauche euch. Es braucht alle im Kampf gegen die Diktatur. 
+- Der Verkäufer gibt den Lutscher gratis dazu. Den Lutscher gibt es gratis dazu.
 
 ### [ ND | –D ] Nominative drop + dative {#sec:case-nominativ-drop-dative}
 
@@ -572,7 +573,7 @@ Although there is no overt difference between an unmarked anticausative and an u
 **Attested Verbs**
 
 - *altern, biegen, bleichen, brechen, fliehen, knicken, reifen, reißen, rollen, schmelzen, stürzen, trocknen*
-- *abbrechen, abbrennen, abknicken, abkühlen, antreten, austrocknen, einfrieren, einknicken, einreißen, erstaunen, ersticken, ertrinken, niederbrennen, umstürzen, verbrennen, verderben, verdunsten, wegtreten, zerbrechen, zerknittern, zerreißen, zersplittern, zuklappen, zuschneien*
+- *abbrechen, abbrennen, abknicken, abkühlen, antreten, austrocknen, einfrieren, einknicken, einreißen, erstaunen, ersticken, ertrinken, erzürnen, niederbrennen, umstürzen, verbrennen, verderben, verdunsten, wegtreten, zerbrechen, zerknittern, zerreißen, zersplittern, zuklappen, zuschneien*
 
 **Examples**
 
@@ -588,6 +589,7 @@ Although there is no overt difference between an unmarked anticausative and an u
 - Ich habe den Lärm der Stadt geflohen. Ich bin aus dem Gefängnis geflohen.
 - Die Welle knickt den Mast des Bootes. Der Mast knickt.
 - Die Sonne schmilzt den Schnee. Die Eiswürfel sind geschmolzen.
+- Die Rede erzürnt mich. Die Rede hat mich erzürnt. Ich erzürne. Ich bin erzürnt.
 
 ### [ –N | NA ] *Umlaut* Causative {#sec:case-umlaut-causative}
 

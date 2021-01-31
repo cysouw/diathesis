@@ -1,4 +1,4 @@
-# Light verb alternations with infinitives {#sec:infinitive}
+# Light-verb + infinitive alternations {#sec:infinitive}
 
 ## Introduction
 
@@ -6,7 +6,7 @@
 
 Although surface structure clearly monoclausal, underlyingly there might be different structures, e.g [@harbert1977]
 
-## Verbs without alternations
+## Deponent verbs without alternations
 
 ## Alternations without diathesis
 
@@ -18,12 +18,14 @@ These 'Modalverben' are coherent and have a so-called IPP 'Ersatzinfinitiv' cons
 - Er hat das Haus bauen dürfen.
 - Es ist bekannt, dass er das Haus [bauen] [hat dürfen].
 
-### *werden + Infiniv* Future
+### *werden + Infiniv* Future {#sec:infinitive-werden-modal}
 
-The light verb *werden* is traditionally classified as a 'future' auxiliary, but is only very rarely used as a real temporal future (the Präsens is mostly used for future time reference in German). It is probably better to consider this construction together with the modal verbs (though note that there is a long discussion about the merits of this decision in the German grammatical tradition, e.g. Fabricius-Hansen 1986: 141ff.)
+The light verb *werden* is traditionally classified as a 'future' auxiliary, but is only very rarely used as a real temporal future (the *Präsens* is mostly used for future time reference in German). It is probably better to consider this construction together with the modal verbs (though note that there is a long discussion about the merits of this decision in the German grammatical tradition, e.g. Fabricius-Hansen 1986: 141ff.)
+
+Modale Bedeutung: Erwartung, Vermutung
 
 - Der Feind greift morgen vielleicht an.
-- Der Feind wird morgen vielleicht angreifen. (Vermutung!?)
+- Der Feind wird morgen vielleicht angreifen.
 
 The light verb *werden* is also used as auxiliary in the Konjunktiv.
 
@@ -341,7 +343,7 @@ not attested
 
 not attested
 
-## Symnmetrical diatheses
+## Symmetrical diatheses
 
 ### --- [ OBJ > SBJ > OBJ ] Commutative --- {.unnumbered}
 

@@ -29,85 +29,9 @@ header-includes:
   a:hover { 
     text-decoration: underline; 
   }
-  </style>
-  ```
-# CSS for table of contents to the side
-# needs script at end of document!
-- |
-  ```{=html}
-  <!-- TOC hovering to the side -->
-  <style>
-    body {
-    padding-left: 2cm;
-    padding-right: 1cm;
-    transition: 0.5s;
-  }
-  .bodysmall {
-    padding-left: 5cm;
-    transition: 0.5s;
-  }
-  nav {
-    width: 1em;
-    margin-left: -1.5cm;
-    float: left;
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    font-size: small;
-    white-space: nowrap; 
-    overflow: hidden;
-    transition: 0.5s;
-  }
-  nav h2:before {
-    content: "◀ ";
-  }
-  nav:hover {
-    width: 40%;
-    padding-right: 0.5cm;
-    background-color: rgba(255, 255, 255, 0.95);
-  }
-  nav li {
-    white-space: nowrap; 
-    overflow: hidden;
-    text-overflow: ellipsis;
-    margin-left: 1.5em;
-  }
-  nav li li li {
-    margin-left: -1em;
-  }
-  nav li > a:not(:only-child):before {
-    content: "▶ ";
-  }
-  nav li > a:not(:only-child):hover:before {
-    content: "▼ ";
-  }
-  nav li > a:only-child {
-    margin-left: 0.7em;
-  }
-  nav ul li ul  {
-    visibility: hidden;
-    display: none;
-    margin-top: 0.2em;
-    margin-bottom: 0.2em;
-    transition: all 0.5s ease;
-  }
-  nav ul li:hover > ul , ul li ul:hover  {
-    visibility: visible;
-    display: block;
-  }
-  .navshown {
-    margin-left: -5cm;
-    width: 150px;
-    transition: 0.5s;
-  }
-  .navshown h2:before {
-    content: "▶ ";
-  }
-  .navshown:hover {
-    width: 40%;
-    padding-right: 0.5cm;
-    padding-left: 1cm;
-    background-color: rgba(255, 255, 255, 0.95);
+  div [id^="tbl"] table {
+    margin-left: auto;
+    margin-right: auto;
   }
   </style>
   ```

@@ -2,9 +2,8 @@
 
 from: markdown
 to: html
-pdf-engine: xelatex
-
 output-file: cysouwDiathesisManuscript.html
+
 input-files:
 - text/c00_preface.md
 - text/c01_introduction.md
@@ -23,18 +22,22 @@ input-files:
 
 filters:
 - filters/setdate.lua
+- filters/toc-css.lua
 - filters/strikeout-to-smallcaps.lua
 - filters/count-para.lua
 - filters/pandoc-ling.lua
-- pandoc-crossref
+- filters/pandoc-crossref
 - citeproc
-
-number-sections: true
-table-of-contents: true
-standalone: true
 
 metadata-files:
 - meta/metadata.yaml
 - meta/settings.yaml
 - meta/header-includes.yaml
+
+# pandoc-native functionalities
+pdf-engine: xelatex
+number-sections: true
+table-of-contents: true
+standalone: true
+
 

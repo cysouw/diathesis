@@ -101,26 +101,9 @@ c.  Der Fahrradfahrer fürchtet den Anstieg. \
     Der Fahrradfahrer fürchtet sich vor den Anstieg.
 :::
 
-Hidden in this succinct definition of diathesis there are various intricate grammatical concepts that need some more discussion in subsequent subsections.
+Hidden in this succinct definition of diathesis there are various intricate grammatical concepts that need some more discussion in subsequent sections.
 
 ## Definitional details
-
-### Terminology
-
-In the cross-linguistic survey of diathesis by Zuñiga & Kittilä [-@zuniga2019], they distinguish between the terms 'diathesis', 'diathetical operation', 'grammatical voice' and 'transitivity'. I completely subscribe to these conceptual distinctions. However, I have decided to simplify my terminology and basically use the term 'diathesis' for all four concepts.
-
-A diathesis (as defined here) is an alternation between two clausal construction. To be more precise, this is what is called a 'diathetical operation' in Zuñiga & Kittilä [-@zuniga2019: 4], see also [@sec:intro-diathetical-operations] below. Each of the alternants show a different mapping of (grammatical) expressions onto (semantic) roles. Individually, each such mapping between expressions and roles is called a 'diathesis' in Zuñiga & Kittilä [-@zuniga2019: 4]. However, because I will only consider diathetical operations between an 'unmarked' and a 'marked' alternant, I have decided to simplify the terminology in this book. Both the alternation itself (Zuñiga & Kittilä's diathetical operation, e.g. 'causativisation') and the marked alternant (Zuñiga & Kittilä's diathesis, e.g. 'causative') will be referred to here as diathesis. A side-effect of this approach is that 'active' is not in itself a diathesis, but simply the unmarked counterpart of a diathetical operation.
-
-The actual linguistic marking of the diathesis (for example by verbal morphology or auxiliaries) is called 'grammatical voice' in Zuñiga & Kittilä [-@zuniga2019: 4], see also [@sec:intro-voice] below. In this book, each diathesis is defined as a combination of a (re-)mapping of roles and a specific kind of linguistic marking of the main predicate. So again, this extra terminological distinction is not necessary in this book. The formal expression ('grammatical voice') is simply a definitional part of each diathesis here.
-
-The term 'transitivity' [@zuniga2019: 3; following @hopper1980] describes a (recurrent) connection between a diathetical operation and semantic effects on the meaning of the clause. For example, when an accusative argument is remapped onto a prepositional phrase, this often implies less involvement of the argument. The details of such semantic effects of each of the diatheses in this book is a fascinating topic, for which I unfortunately can only offer limited insights throughout. In practice, I assume that each diathesis as described here has some kind of semantic effect, but the details of these effect need much more detailed research that has to be provided by subsequent work.
-
-Finally, I prefer to use the term 'diathesis' over the frequently attested term 'valency alternation', because there are many diatheses (i.e. constructions with obviously reframed roles) in which the valency does not change between the alternants, e.g. [@next] in which both sentences have a nominative, accusative and prepositional phrase. There is a clear diathesis in this example, though arguably there is no change in (basic) valency. Strictly speaking, valency alternations are a subset of all diatheses.
-
-::: ex
-a.  Ich schmiere Salbe auf die Wunde.
-b.  Ich beschmiere die Wunde mit Salbe.
-:::
 
 ### Monoclausality and coherence {#sec:intro-coherence}
 
@@ -279,6 +262,27 @@ a.  Ich habe das Haus angesehen.
 b.  Ich habe mir das Haus angesehen.
 :::
 
+# The structure of a diathesis
+
+## Terminology
+
+Valency, see [@sec:intro-valency].
+
+In the cross-linguistic survey of diathesis by Zuñiga & Kittilä [-@zuniga2019], they distinguish between the terms 'diathesis', 'diathetical operation', 'grammatical voice' and 'transitivity'. I completely subscribe to these conceptual distinctions. However, I have decided to simplify my terminology and basically use the term 'diathesis' for all four concepts.
+
+A diathesis (as defined here) is an alternation between two clausal construction. To be more precise, this is what is called a 'diathetical operation' in Zuñiga & Kittilä [-@zuniga2019: 4], see [@sec:intro-diathetical-operations]. Each of the alternants show a different mapping of (grammatical) expressions onto (semantic) roles. Individually, each such mapping between expressions and roles is called a 'diathesis' in Zuñiga & Kittilä [-@zuniga2019: 4]. However, because I will only consider diathetical operations between an 'unmarked' and a 'marked' alternant, I have decided to simplify the terminology in this book. Both the alternation itself (Zuñiga & Kittilä's diathetical operation, e.g. 'causativisation') and the marked alternant (Zuñiga & Kittilä's diathesis, e.g. 'causative') will be referred to here as diathesis. A side-effect of this approach is that 'active' is not in itself a diathesis, but simply the unmarked counterpart of a diathetical operation.
+
+The actual linguistic marking of the diathesis (for example by verbal morphology or auxiliaries) is called 'grammatical voice' in Zuñiga & Kittilä [-@zuniga2019: 4], see [@sec:intro-voice]. In this book, each diathesis is defined as a combination of a (re-)mapping of roles and a specific kind of linguistic marking of the main predicate. So again, this extra terminological distinction is not necessary in this book. The formal expression ('grammatical voice') is simply a definitional part of each diathesis here.
+
+The term 'transitivity' [@zuniga2019: 3; following @hopper1980] describes a (recurrent) connection between a diathetical operation and semantic effects on the meaning of the clause. For example, when an accusative argument is remapped onto a prepositional phrase, this often implies less involvement of the argument. The details of such semantic effects of each of the diatheses in this book is a fascinating topic, for which I unfortunately can only offer limited insights throughout. In practice, I assume that each diathesis as described here has some kind of semantic effect, but the details of these effect need much more detailed research that has to be provided by subsequent work.
+
+Finally, I prefer to use the term 'diathesis' over the frequently attested term 'valency alternation', because there are many diatheses (i.e. constructions with obviously reframed roles) in which the valency does not change between the alternants, e.g. [@next] in which both sentences have a nominative, accusative and prepositional phrase. There is a clear diathesis in this example, though arguably there is no change in (basic) valency. Strictly speaking, valency alternations are a subset of all diatheses.
+
+::: ex
+a.  Ich schmiere Salbe auf die Wunde.
+b.  Ich beschmiere die Wunde mit Salbe.
+:::
+
 ## Valency {#sec:intro-valency}
 
 ### Utterance valency and lexeme valency
@@ -417,9 +421,7 @@ Adjuncts are, by definition, optionally present, so there is a natural connectio
 
 ## Voice {#sec:intro-voice}
 
-### Formal marking of diathesis
-
-The actual linguistic marking of a diathesis, for example by verbal morphology or auxiliaries, is called ~~grammatical voice~~ [following @zuniga2019: 4]. The different kinds of grammatical voice in German are the basic organisational framework of this book. Each chapter discusses a specific kind of grammatical voice, listing all diatheses using that marking. The nine main chapters can be grouped into four kinds of grammatical voices:
+The formal linguistic marking of a diathesis, for example by verbal morphology or auxiliaries, is called ~~grammatical voice~~ [following @zuniga2019: 4]. The different kinds of grammatical voice in German are the basic organisational framework of this book. Each chapter discusses a specific kind of grammatical voice, listing all diatheses using that marking. The nine main chapters can be grouped into four kinds of grammatical voices:
 
 - zero-marked 'covert' diatheses (Chapters [-@sec:case; -@sec:prepositions])
 - diatheses marked by reflexive pronouns (Chapter [-@sec:reflexive])
@@ -497,9 +499,77 @@ a.  Ich weine.
 b.  Sie bringt mich zum Weinen. 
 :::
 
-### Stacking of diatheses
+## Diathetical operations {#sec:intro-diathetical-operations}
 
-Different diatheses can be applied one after the other, forming ~~stacks~~ of diatheses. Such stacked diatheses can lead to convoluted role-remappings. A beautiful example of such stacking of diatheses is given by Dixon [-@dixon2014: 252] for the Amazonian language Paumarí. Here, the root *noki-* 'to see' is transparently related to the meaning 'to show' through a series of derivational diatheses, viz. *noki-a-* 'to be visible', *na-noki-a-* 'to become visible', and finally *na-noki-a-hi-* 'to make become visible' i.e. 'to show'. 
+### Abbreviations used
+
+A diathetical operation is change that happens in the marking of the participants in a diathesis. One of the central definitional properties of a diathesis is that the coding of at least one of the participants has to change, for example a participant erstwhile coded with an accusative turns into a prepositional phrase. Because the role of the participant remains the same (again, by definition), such a change amounts to the mapping of a role onto a different grammatical form. I will call this process ~~role-remapping~~.
+
+In the analysis of diathetical operations in this book I will use the following abbreviations, as summarised in [@fig:abbreviations]. First, ~~grammatical expressions~~, i.e. actual grammatical forms as identified in traditional German grammar, are abbreviated with single letters, shown at the right side of the figure. For case-marked noun phrases I will use the easily recognizable capital letters 'NADG' for nominative, accusative, dative and genitive respectively. As argued earlier (see [@sec:intro-arguments-utterance-valency]) there are also prepositional phrases that express lexically-determined roles. These will also be abbreviated with capital letters: 'L' for obligatory locations and 'P' for governed prepositional phrases.
+
+![Abbreviations used to describe role-remapping](figures/abbreviations.png){#fig:abbreviations}
+
+Lower-cased letters are used for non-argument participants in the clause: 'p' for non-governed prepositional phrases and 'g' for adnominal genitives. Adnominal genitives become relevant because in some diatheses a newly introduced participant is inherently the possessor of another participant (see [@par:possraising]). Absence of a specific role will be indicated by a '–' dash. Lower-cased 'a' and 'd' are only used in [@sec:reflexive-no-diathesis] to indicate accusative and dative reflexive pronouns in referential usage. As described in much detail in that chapter, it is important to distinguish between reflexive pronouns in German that refer to a lexical role (i.e. 'referential' or 'real' reflexive constructions) and reflexive pronouns that mark a diathesis without referring to a separate role themselves. Those latter reflexive pronouns, that are not marking any role, are not abbreviated by lowercased 'a' or 'd'.
+
+Besides single-letter abbreviations I will also use capitalised three-letter abbreviations for a more abstract level of analysis. As summarised at the left side of [@fig:abbreviations], the grammatical expressions are grouped into sets of ~~grammatical macroroles~~, mostly along familiar lines. This grouping is not necessarily the best or most optimal grouping, but this grouping has emerged to be useful to organise the large diversity of diatheses in this book. The notion ~~subject (SBJ)~~ is used for governed nominative phrases that show agreement with the finite verb.^[There are various other nominatively-marked phrases in German grammar which are not included under this heading, e.g. the nominative in nominal or equational predication like *der Täter* in *Er ist der Täter*.] The other case-marked governed phrases are combined as ~~cased objects (OBJ)~~. The cased objects together with the ~~prepositional objects (PBJ)~~ form a superclass of objects. Non-governed phrases are separated in ~~overtly expressed adjuncts (ADJ)~~ and unexpressed roles ~~(Ø)~~. Although I will use this five-way distinction throughout this book ~~(SBJ, OBJ, PBJ, ADJ, Ø)~~, the five steps are not equidistant. The macro-roles ~~OBJ~~ and ~~PBJ~~ are rather closely related, and likewise are ~~ADJ~~ and ~~Ø~~ intimately linked. Collapsing these pairs results in the traditional subject-object-adjunct distinction.
+
+{#par:corecase} There are some indications that the group of cased objects ~~(OBJ)~~ might be fruitfully separated into ~~core~~ (accusative) and ~~non-core~~ (dative/genitive). This would simplify the analysis of, for example, case change in object chains ([@sec:intro-object-chains]), the antipassive hierarchy ([@sec:prepositions-demotion-of-object]) and the case-marking of the reflexive pronoun ([@sec:reflexive-deponent]). However, in the majority of diatheses all three cases simply seem to behave as a uniform group, so I did not consistently pursue this separation.
+
+It is imperative to realise that the macroroles are defined in a language-specific way for German grammar as groupings of language-specific German expressions (e.g. ~~ADJ~~ is defined as being either a non-governed prepositional phrase or an adnominal genitive). The names that are used (e.g. 'object' or 'adjunct') deliberately conjure up general cross-linguistic associations, but it remains to be seen whether similar definitions as used here are also useful for other languages. I will refrain from any cross-linguistic speculation in this context here.
+
+### Remapping of roles {#sec:intro-remapping}
+
+Using the abbreviations as summarised in [@fig:abbreviations] I will organise and categorise the role-remapping of all diatheses in various levels of abstraction. These different categorisations inform the practical organisation of each chapter.
+
+~~Level 1: diathesis~~. Each diathesis is summarised in its own sub-subsection. The establishment of an individual diathesis is not always obvious, and each diathesis in this book is already an conscious categorisation (which could be wrong). It has actually been a voyage of discovery in the preparation of this book to decide when to consider a set of examples to be a single diathesis. Very often erstwhile single diatheses turned out to be better analysed by a split into various different diatheses. Although I am rather confident in the quality of the current decisions, I expect that further refinements are necessary in the future.
+
+~~Level 2: remapping pattern~~. The role-remapping of each diathesis is analysed using the single-letter abbreviations (NADGPLpgad–) from [@fig:abbreviations]. A remapping is specified as an ordered listing of grammatical expressions for roles, both before and after the diathesis. For example, ~~[NA | –N]~~ is a diathesis that involves two roles that are marked 'NA' before the diathesis and '–N' after the diathesis. Because there are many diatheses with this same pattern, this characterisation is already an (implicit) classification.
+
+~~Level 3: local group~~. Groups of diatheses with similar semantics within each chapter are grouped together as a local group. These groups are rather ad-hoc and mainly represent a convenience-summary to streamline the presentation. Local groups are unnumbered subsections, indicated graphically with dashes around the name of the local group.
+
+~~Level 4: macrorole pattern~~. The remapping of each local group is structurally analysed in terms of the three-letter macroroles ~~(SBJ, OBJ, PBJ, ADJ, Ø)~~ from [@fig:abbreviations]. For example, the remapping from above ~~[NA | –N]~~ includes both a change from N to zero (i.e. ~~SBJ › Ø~~) and a change from A to N (i.e. ~~OBJ › SBJ~~). These two macrorole changes can be combined into a single macrorole patter ~~[OBJ › SBJ › Ø]~~.
+
+~~Level 5: promotion/demotion~~. On the most abstract level, all diatheses are separated into chapter-subsections of either demotion or promotion (with only very few diatheses being symmetrical exchanges). Basically, each remapping is evaluated on the macrorole hierarchy [@next] with role-remapping upwards being promotion and role-remapping downward being demotion. Note that there is a crucial additional criterion necessary, because the majority of diatheses consist of chains of two coinciding remappings (see [@sec:intro-chaining]). In such remappings, the largest jump on the macrorole hierarchy defines a diathesis as being demotion or promotion. When both jumps are equally large, then the diathesis is ~~symmetrical~~.
+
+::: ex
+Macrorole Hierarchy: ~~SBJ » OBJ » PBJ » ADJ » Ø~~
+:::
+
+For example, the diathesis in [@next] will be analysed as a ~~remapping pattern [NA | –N]~~, see [@sec:reflexive-anticausative]. This should be read as follows: there is an alternation between a clause with 'NA' arguments (nominative, accusative) and a clause with only 'N' marking (nominative). The relative order of these letters is crucial, as the order of the roles remains fixed in this notation, e.g. the second letter on the left 'A' (accusative) corresponds to the second letter on the right 'N' (nominative). The '–' dash on the right indicates that the corresponding 'N' on the left is not expressed. Note that the actual linear arrangement of the letters is flexible, as long as both sides of the alternation remain in the same order, i.e. ~~[AN | N–]~~ would be the same remapping pattern as ~~[NA | –N]~~. The pattern ~~[NA | –N]~~ is an implicit categorisation, because there are many other diatheses that have exactly the same pattern (see e.g. [@sec:case-haben-anticausative; @sec:adverbial-reflexive-transitive-anticausative; @sec:participles-sein-zustandspassiv]).
+
+::: ex
+a.  Ich schließe die Tür.
+b.  Die Tür schließt sich. 
+:::
+
+Although there is a reflexive pronoun in [@last b], this pronoun is not included with a lower-cased 'a' in the remapping pattern ~~[NA | –N]~~, because this reflexive pronoun does not refer to a separate role. The verb *schließen* 'to close' implies at least two different roles, the 'closer' and the 'closed object', expressed as nominative and accusative in [@last a], respectively. In [@last b] only the role of 'closed object' is expressed as nominative. The reflexive pronoun does not refer to any other role.
+
+I interpret the reflexive pronoun in [@last] as a marker of the diathesis itself (see Chapter [-@sec:reflexive] for an extensive discussion), so there is an overt direction in the markedness from [@last a] to [@last b]. The vertical bar ' | ' in the middle of the remapping pattern ~~[NA | –N]~~ implies this direction in markedness, i.e. left side describes the unmarked alternant and the right the marked alternant. Reordering the remapping pattern would result in a completely reversed diathesis ~~[—N | NA]~~.
+
+The diathesis in [@last] is one of various examples of a ~~local group~~ called 'reflexive antipassive'. Other diatheses in this group include examples like [@next] with an additional governed preposition, analysed with the remapping pattern ~~[NAP | –NP]~~, see [@sec:reflexive-anticausative-governed-preposition]. All diatheses in this local group have the same ~~macrorole pattern~~, namely ~~[OBJ › SBJ › Ø]~~, i.e a cased object is turned into nominative subject, which is turned into zero (i.e. unexpressed).
+
+This diathesis is a combination of two different remappings ~~[OBJ › SBJ]~~ and ~~[SBJ › Ø]~~, with the first being a promotion on the macrorole hierarchy and the second a demotion. However, because the second remapping ~~[SBJ › Ø]~~ is a larger jump on the hierarchy, the complete combination is categorised as a ~~demotion~~.
+
+::: ex
+a.  Das Lied erinnert den Mann an den Krieg.
+b.  Der Mann erinnert sich an den Krieg.
+:::
+
+So, in summary, the role-remapping in the diathesis [@last] is categorised as:
+
+1. ~~Diathesis~~: reflexive antipassive + governed preposition
+2. ~~Remapping Pattern~~: ~~[NAP | –NP]~~
+3. ~~Local Group~~: reflexive antipassive
+4. ~~Macrorole Pattern~~: ~~[OBJ › SBJ › Ø]~~
+5. ~~Promotion/Demotion~~: demotion
+
+## Stacking {#sec:intro-stacking}
+
+### Combining diatheses
+
+Different diatheses can be applied one after the other, forming ~~stacks~~ of diatheses. The term 'stacking' is introduced here explicitly in opposition to 'subordinating'. Subordination (see [@sec:subordination]) leads to non-coherent multi-clause constructions, while stacks always remain coherent and thus monoclausal.
+
+Stacked diatheses can lead to convoluted role-remappings. A beautiful example of such stacking of diatheses is given by Dixon [-@dixon2014: 252] for the Amazonian language Paumarí. Here, the root *noki-* 'to see' is transparently related to the meaning 'to show' through a series of derivational diatheses, viz. *noki-a-* 'to be visible', *na-noki-a-* 'to become visible', and finally *na-noki-a-hi-* 'to make become visible' i.e. 'to show'. 
 
 German does not have that many morphologically bound mechanisms for diathesis, though there are incidental examples that come close. For example, the verb *liegen* 'to lie' changes with ablaut to *legen* 'to lay' (see [@sec:case-umlaut-causative]), which in turn can take a preverb to form *be-legen* 'to cover' (see [@sec:preverb-applicative-antipassive]). However, when the perspective is broadened beyond bound morphology and all different kinds of German diatheses are considered, then it turns out that stacking of diatheses is extremely widespread.
 
@@ -576,70 +646,6 @@ a.  Ich lösche die Dateien.
 b.  Die Dateien gehen leicht/schwer/nicht zu löschen.
 c.  ^^?^ Die Dateien gehen zu löschen.
 :::
-
-## Diathetical operations {#sec:intro-diathetical-operations}
-
-### Abbreviations used
-
-A diathetical operation is change that happens in the marking of the participants in a diathesis. One of the central definitional properties of a diathesis is that the coding of at least one of the participants has to change, for example a participant erstwhile coded with an accusative turns into a prepositional phrase. Because the role of the participant remains the same (again, by definition), such a change amounts to the mapping of a role onto a different grammatical form. I will call this process ~~role-remapping~~.
-
-In the analysis of diathetical operations in this book I will use the following abbreviations, as summarised in [@fig:abbreviations]. First, ~~grammatical expressions~~, i.e. actual grammatical forms as identified in traditional German grammar, are abbreviated with single letters, shown at the right side of the figure. For case-marked noun phrases I will use the easily recognizable capital letters 'NADG' for nominative, accusative, dative and genitive respectively. As argued earlier (see [@sec:intro-arguments-utterance-valency]) there are also prepositional phrases that express lexically-determined roles. These will also be abbreviated with capital letters: 'L' for obligatory locations and 'P' for governed prepositional phrases.
-
-![Abbreviations used to describe role-remapping](figures/abbreviations.png){#fig:abbreviations}
-
-Lower-cased letters are used for non-argument participants in the clause: 'p' for non-governed prepositional phrases and 'g' for adnominal genitives. Adnominal genitives become relevant because in some diatheses a newly introduced participant is inherently the possessor of another participant (see [@par:possraising]). Absence of a specific role will be indicated by a '–' dash. Lower-cased 'a' and 'd' are only used in [@sec:reflexive-no-diathesis] to indicate accusative and dative reflexive pronouns in referential usage. As described in much detail in that chapter, it is important to distinguish between reflexive pronouns in German that refer to a lexical role (i.e. 'referential' or 'real' reflexive constructions) and reflexive pronouns that mark a diathesis without referring to a separate role themselves. Those latter reflexive pronouns, that are not marking any role, are not abbreviated by lowercased 'a' or 'd'.
-
-Besides single-letter abbreviations I will also use capitalised three-letter abbreviations for a more abstract level of analysis. As summarised at the left side of [@fig:abbreviations], the grammatical expressions are grouped into sets of ~~grammatical macroroles~~, mostly along familiar lines. This grouping is not necessarily the best or most optimal grouping, but this grouping has emerged to be useful to organise the large diversity of diatheses in this book. The notion ~~subject (SBJ)~~ is used for governed nominative phrases that show agreement with the finite verb.^[There are various other nominatively-marked phrases in German grammar which are not included under this heading, e.g. the nominative in nominal or equational predication like *der Täter* in *Er ist der Täter*.] The other case-marked governed phrases are combined as ~~cased objects (OBJ)~~. The cased objects together with the ~~prepositional objects (PBJ)~~ form a superclass of objects. Non-governed phrases are separated in ~~overtly expressed adjuncts (ADJ)~~ and unexpressed roles ~~(Ø)~~. Although I will use this five-way distinction throughout this book ~~(SBJ, OBJ, PBJ, ADJ, Ø)~~, the five steps are not equidistant. The macro-roles ~~OBJ~~ and ~~PBJ~~ are rather closely related, and likewise are ~~ADJ~~ and ~~Ø~~ intimately linked. Collapsing these pairs results in the traditional subject-object-adjunct distinction.
-
-{#par:corecase} There are some indications that the group of cased objects ~~(OBJ)~~ might be fruitfully separated into ~~core~~ (accusative) and ~~non-core~~ (dative/genitive). This would simplify the analysis of, for example, case change in object chains ([@sec:intro-object-chains]), the antipassive hierarchy ([@sec:prepositions-demotion-of-object]) and the case-marking of the reflexive pronoun ([@sec:reflexive-deponent]). However, in the majority of diatheses all three cases simply seem to behave as a uniform group, so I did not consistently pursue this separation.
-
-It is imperative to realise that the macroroles are defined in a language-specific way for German grammar as groupings of language-specific German expressions (e.g. ~~ADJ~~ is defined as being either a non-governed prepositional phrase or an adnominal genitive). The names that are used (e.g. 'object' or 'adjunct') deliberately conjure up general cross-linguistic associations, but it remains to be seen whether similar definitions as used here are also useful for other languages. I will refrain from any cross-linguistic speculation in this context here.
-
-### Remapping of roles {#sec:intro-remapping}
-
-Using the abbreviations as summarised in [@fig:abbreviations] I will organise and categorise the role-remapping of all diatheses in various levels of abstraction. These different categorisations inform the practical organisation of each chapter.
-
-~~Level 1: diathesis~~. Each diathesis is summarised in its own sub-subsection. The establishment of an individual diathesis is not always obvious, and each diathesis in this book is already an conscious categorisation (which could be wrong). It has actually been a voyage of discovery in the preparation of this book to decide when to consider a set of examples to be a single diathesis. Very often erstwhile single diatheses turned out to be better analysed by a split into various different diatheses. Although I am rather confident in the quality of the current decisions, I expect that further refinements are necessary in the future.
-
-~~Level 2: remapping pattern~~. The role-remapping of each diathesis is analysed using the single-letter abbreviations (NADGPLpgad–) from [@fig:abbreviations]. A remapping is specified as an ordered listing of grammatical expressions for roles, both before and after the diathesis. For example, ~~[NA | –N]~~ is a diathesis that involves two roles that are marked 'NA' before the diathesis and '–N' after the diathesis. Because there are many diatheses with this same pattern, this characterisation is already an (implicit) classification.
-
-~~Level 3: local group~~. Groups of diatheses with similar semantics within each chapter are grouped together as a local group. These groups are rather ad-hoc and mainly represent a convenience-summary to streamline the presentation. Local groups are unnumbered subsections, indicated graphically with dashes around the name of the local group.
-
-~~Level 4: macrorole pattern~~. The remapping of each local group is structurally analysed in terms of the three-letter macroroles ~~(SBJ, OBJ, PBJ, ADJ, Ø)~~ from [@fig:abbreviations]. For example, the remapping from above ~~[NA | –N]~~ includes both a change from N to zero (i.e. ~~SBJ › Ø~~) and a change from A to N (i.e. ~~OBJ › SBJ~~). These two macrorole changes can be combined into a single macrorole patter ~~[OBJ › SBJ › Ø]~~.
-
-~~Level 5: promotion/demotion~~. On the most abstract level, all diatheses are separated into chapter-subsections of either demotion or promotion (with only very few diatheses being symmetrical exchanges). Basically, each remapping is evaluated on the macrorole hierarchy [@next] with role-remapping upwards being promotion and role-remapping downward being demotion. Note that there is a crucial additional criterion necessary, because the majority of diatheses consist of chains of two coinciding remappings (see [@sec:intro-chaining]). In such remappings, the largest jump on the macrorole hierarchy defines a diathesis as being demotion or promotion. When both jumps are equally large, then the diathesis is ~~symmetrical~~.
-
-::: ex
-Macrorole Hierarchy: ~~SBJ » OBJ » PBJ » ADJ » Ø~~
-:::
-
-For example, the diathesis in [@next] will be analysed as a ~~remapping pattern [NA | –N]~~, see [@sec:reflexive-anticausative]. This should be read as follows: there is an alternation between a clause with 'NA' arguments (nominative, accusative) and a clause with only 'N' marking (nominative). The relative order of these letters is crucial, as the order of the roles remains fixed in this notation, e.g. the second letter on the left 'A' (accusative) corresponds to the second letter on the right 'N' (nominative). The '–' dash on the right indicates that the corresponding 'N' on the left is not expressed. Note that the actual linear arrangement of the letters is flexible, as long as both sides of the alternation remain in the same order, i.e. ~~[AN | N–]~~ would be the same remapping pattern as ~~[NA | –N]~~. The pattern ~~[NA | –N]~~ is an implicit categorisation, because there are many other diatheses that have exactly the same pattern (see e.g. [@sec:case-haben-anticausative; @sec:adverbial-reflexive-transitive-anticausative; @sec:participles-sein-zustandspassiv]).
-
-::: ex
-a.  Ich schließe die Tür.
-b.  Die Tür schließt sich. 
-:::
-
-Although there is a reflexive pronoun in [@last b], this pronoun is not included with a lower-cased 'a' in the remapping pattern ~~[NA | –N]~~, because this reflexive pronoun does not refer to a separate role. The verb *schließen* 'to close' implies at least two different roles, the 'closer' and the 'closed object', expressed as nominative and accusative in [@last a], respectively. In [@last b] only the role of 'closed object' is expressed as nominative. The reflexive pronoun does not refer to any other role.
-
-I interpret the reflexive pronoun in [@last] as a marker of the diathesis itself (see Chapter [-@sec:reflexive] for an extensive discussion), so there is an overt direction in the markedness from [@last a] to [@last b]. The vertical bar ' | ' in the middle of the remapping pattern ~~[NA | –N]~~ implies this direction in markedness, i.e. left side describes the unmarked alternant and the right the marked alternant. Reordering the remapping pattern would result in a completely reversed diathesis ~~[—N | NA]~~.
-
-The diathesis in [@last] is one of various examples of a ~~local group~~ called 'reflexive antipassive'. Other diatheses in this group include examples like [@next] with an additional governed preposition, analysed with the remapping pattern ~~[NAP | –NP]~~, see [@sec:reflexive-anticausative-governed-preposition]. All diatheses in this local group have the same ~~macrorole pattern~~, namely ~~[OBJ › SBJ › Ø]~~, i.e a cased object is turned into nominative subject, which is turned into zero (i.e. unexpressed).
-
-This diathesis is a combination of two different remappings ~~[OBJ › SBJ]~~ and ~~[SBJ › Ø]~~, with the first being a promotion on the macrorole hierarchy and the second a demotion. However, because the second remapping ~~[SBJ › Ø]~~ is a larger jump on the hierarchy, the complete combination is categorised as a ~~demotion~~.
-
-::: ex
-a.  Das Lied erinnert den Mann an den Krieg.
-b.  Der Mann erinnert sich an den Krieg.
-:::
-
-So, in summary, the role-remapping in the diathesis [@last] is categorised as:
-
-1. ~~Diathesis~~: reflexive antipassive + governed preposition
-2. ~~Remapping Pattern~~: ~~[NAP | –NP]~~
-3. ~~Local Group~~: reflexive antipassive
-4. ~~Macrorole Pattern~~: ~~[OBJ › SBJ › Ø]~~
-5. ~~Promotion/Demotion~~: demotion
 
 ## Chaining {#sec:intro-chaining}
 
@@ -767,9 +773,9 @@ a.  Ich schwitze.
 b.  Ich schwitze einen Fleck in meinem Hemd.
 :::
 
-## Naming {#sec:intro-naming}
+# Names for diatheses
 
-### Names for macroroles patterns
+## Naming is hard
 
 Throughout this chapter, I have used various names for diatheses, like passive, antipassive, applicative or causative. These names have a long history in the grammatical literature [cf. @melcuk1993; @wunderlich1993; @wunderlich2015; @dixon2000a; @dixon2014; @haspelmath2004c; @kulikov2011; @malchukov2015: 96ff.; @zuniga2019]. Although I have been using these terms as if their meaning is clear, this is often far from the case. Many different terms and definitions have been proposed in the literature, and different terms have at times been used for the same phenomena. For example, the original proposal for the term 'antipassive' is already 50 years old [@silverstein1972: 395], but the same phenomenon is also known as deaccusative [@geniusiene1987: 94] or antiapplicative [@haspelmath2004c: 1132; @scheibl2006: 371]. Reversely, antipassive is also attested referring to a slightly different phenomenon of the drop of an object [@scheibl2006: 372-373]. 
 
@@ -778,6 +784,10 @@ In this section I will describe in more detail how these names are used and defi
 One widespread term that I will avoid is the term 'middle' (and likewise the Latinate equivalent term 'medium'). This term for a diathesis is already attested as *μεσότης* in the oldest known Greek grammatical text, the *τέχνη γραμματική* of Dionysius Thrax, and it has become a mainstay in the grammatical literature ever since.^[Thrax writes: *διαθέσεις εἰσὶ τρεῖς, ἐνέργεια, πάθος, μεσότης* "there are three diatheses, active, passive and middle" [@uhlig1883: 48].] The phenomena that are called 'middle' in the literature are highly variable, and there is no consensus about what kind of diathesis this term is supposed to designate, other than something that is neither active nor passive [see @zuniga2019: 168-177 for a thorough summary of the complex philological history of the term middle/medium]. Such a broad and ill-defined term is not useful for a detailed analysis of the large variety of attested role-remappings in German.
 
 The discussion about the different names for macrorole patterns will be split into four parts. First, the following two sections will present names for diatheses involving the nominative subject. Subsequent sections will discuss diatheses not involving the subject. In both discussions, a central distinction will be made between isolated diatheses and chained diatheses (see [@sec:intro-chaining]).
+
+## Names for low-level role remapping patterns
+
+## Names for macrorole patterns {#sec:intro-naming}
 
 ### Isolated subject diatheses
 
@@ -850,13 +860,13 @@ a.  Ich schließe die Tür.
 b.  Die Tür schließt sich (von alleine). 
 :::
 
-Very similar an anticausative is the ~~passive [OBJ › SBJ › ADJ]~~. The main difference between the two (a distinction which is often difficult to delimit) is that for a passive the original subject is still implied and can optionally be overtly expressed [@next]. In contrast, for an anticausative the original subject is completely removed and a phrase like "by itself" can typically be added. As an example of a passive diathesis in [@next] I present not the typical *werden + Partizip* passive, but a less widely acknowledged *glauben + Reflexiv + Partizip* passive diathesis, see [@sec:participle-glauben-reflexive].
+Very similar an anticausative is the ~~passive [OBJ › SBJ › ADJ]~~. The main difference between the two (a distinction which is often difficult to delimit) is that for a passive the original subject is still implied and can optionally be overtly expressed [@next]. In contrast, for an anticausative the original subject is completely removed and a phrase like "by itself" can typically be added. As an example of a passive diathesis in [@next] is the *bekommen Rezipientanpassiv* in which a dative is promoted to subject [@sec:participles-bekommen-passive]
 
 ::: ex
 ~~Passive [OBJ › SBJ › ADJ]~~
 
-a.  Der Vater hat seine Tochter nicht geliebt.
-b.  Die Tochter glaubte sich von ihrem Vater nicht geliebt.
+a.  Ihr Freund kocht ihr eine Suppe.
+b.  Sie bekommt von ihrem Freund eine Suppe gekocht.
 :::
 
 A ~~conversive [OBJ › SBJ › PBJ]~~ looks similar to a passive, except that the prepositional phrase is a lexically governed preposition, so it has a more object-like grammatical status. An example is the verb *empören* 'to appall' [@next a] with the reflexive diathesis *sich empören über* 'to be outraged about' [@next b,c], see [@sec:reflexive-preposition-passive]. The term conversive is adapted from Kulikov [-@kulikov2011: 380].
@@ -890,38 +900,52 @@ b.  Die Salbe heilt die Wunde.
 
 #### Promotions {.unnumbered}
 
-The most widespread promotion to subject attested in German is the diathesis with role-remapping ~~[Ø › SBJ › OBJ]~~, called ~~novative~~ here (based on Lat. *novare* 'renew, refresh, change'). This role-remapping is best known as 'causative', but this semantic characterisation does not hold for all examples of this diathesis. Various other novative diatheses exist in which the new nominative is not a causer but an experiencer or a permission giver. 
+{#par:novative} The most widespread promotion to subject attested in German is the diathesis with role-remapping ~~[Ø › SBJ › OBJ]~~, called ~~novative~~ here (based on Lat. *novare* 'renew, refresh, change'). This role-remapping is best known as 'causative', but this semantic characterisation does not hold for all examples of this diathesis. Various other novative diatheses exist in which the new nominative is not a causer but an experiencer, opionator or a permission giver. 
 
 Semantically, the most widespread kind of novative adds a new causer to the construction, like with the diatheses between *brennen* 'to burn (intrans.)' and *verbrennen* 'to burn (trans.)' [@next], see [@sec:preverb-causative]. Such a diathesis is aptly called a ~~causative~~.
 
 ::: ex
 ~~Causative novative [Ø › SBJ › OBJ]~~
 
-a.  Das Holz brennt.
-b.  Ich verbrenne das Holz.
+a. Der Tisch brennt.
+b. Ich verbrenne den Tisch.
 :::
 
-The *sehen + Infinitiv* diathesis [@next], see [@sec:infinitive-sehen], adds a new nominative subject and the old subject is turned into an accusative. This diathesis is thus structurally an example of a novative ~~[Ø › SBJ › OBJ]~~. However, the newly added nominative is not a causer. The new role is better described as an experiencer, so this diathesis can semantically be called an ~~experientive~~.
+The *sehen + Infinitiv* diathesis [@next], see [@sec:infinitive-sehen], adds a new nominative subject and the old nominative is turned into an accusative. This diathesis is thus structurally an example of a novative ~~[Ø › SBJ › OBJ]~~. However, the newly added nominative is not a causer. The new role is better described as an experiencer, so this diathesis can semantically be called an ~~experientive~~. Similary constructions are also attested with light-verbs *hören*, *fühlen*, *spüren*, *riechen* and *finden*.
 
 ::: ex
 ~~Experientive novative [Ø › SBJ › OBJ]~~
 
-a.  Der Junge putzt den Tisch.
-b.  Meine Mutter sieht den Jungen den Tisch putzen.
+a. Der Junge putzt den Tisch.
+b. Ich sehe den Jungen den Tisch putzen.
 :::
 
-Likewise, the *lassen + Infinitiv* diathesis [@next], see [@sec:infinitive-lassen-causative] is also structurally a novative ~~[Ø › SBJ › OBJ]~~. This diathesis has multiple possible interpretations, among them also a causative reading. However, in the example in [@next] the newly added nominative is allowing the action to happen, not causing it, so this diathesis can semantically be called a ~~permissive~~. This typically happens with 'unergative' predicates, see [@sec:participles-restrictions].
+The *glauben + Partizip* diathesis [@next], see [@sec:participles-glauben-opinionator] similarly adds a new nominative subject while the old nominative is turned into an accusative. The role of the new nominative is best characterised as somebody having an opinion, so this diathesis can semantically be called an ~~opiniative~~. The main verb is typically a patientive intransitive predicate like *einschlafen*, 'to fall asleep', see [@sec:participles-restrictions]. Similar constructions also exist with light-verbs *wissen*, *sehen* and *finden*.
+
+::: ex
+~~Opiniative novative [Ø › SBJ › OBJ]~~
+
+a. Der Junge schläft ein.
+b. Ich glaube den Jungen eingeschlafen.
+:::
+
+Likewise, the *lassen + Infinitiv* diathesis [@next], see [@sec:infinitive-lassen-causative] is also structurally a novative ~~[Ø › SBJ › OBJ]~~. This diathesis has multiple possible interpretations, among them also a causative reading [@next]. However, in the example in [@nnext] the newly added nominative is allowing the action to happen, not causing it, so this diathesis can semantically be called a ~~permissive~~. This second interpretation typically happens with agentive intransitive predicates like *schlafen* 'to sleep', see [@sec:participles-restrictions].
+
+::: ex
+~~Causative novative [Ø › SBJ › OBJ]~~
+
+a. Der Junge schläft ein.
+b. Ich lasse den Jungen einschlafen. \
+   = Ich sorge dafür, dass der Junge einschläft.
+:::
 
 ::: ex
 ~~Permissive novative [Ø › SBJ › OBJ]~~
 
-a.  Das Baby schläft.
-b.  Ich lasse das Baby schlafen.
+a. Der Junge schläft.
+b. Ich lasse den Jungen schlafen. \
+   = Ich erlaube, das der Junge weiter schäft.
 :::
-
-<!--
-For that reason I will not introduce new terms for these diatheses, but designate them as 'reversed' versions of demotions. For example, the reversal of a passive ~~[OBJ › SBJ › ADJ]~~ is a reversed passive ~~[ADJ › SBJ › OBJ]~~. This naming convention is just a stop-gap introduced for the current analysis of German, because there is not enough positive evidence to provide a thorough analysis of such diatheses. These names should not be interpreted as a semantic analysis, e.g. a reversed passive is semantically not related to the passive at all.
--->
  
 A ~~reversed passive [ADJ › SBJ › OBJ]~~ demotes the subject to object and at the same time promotes a new subject from an erstwhile adjunct role. An example in German is the diathesis from *erben* 'to inherit' to *enterben* 'to disinherit' [@next a,b], see [@sec:preverb-inverted-passive-accusative-loss]. This is semantically very close to a causative ~~[Ø › SBJ › OBJ]~~, in which the newly introduced causer can sometimes be expressed as an adjunct [@next c,d]. This affinity between a reversed passive and a causative is reminiscent of the affinity between a passive and an anticausative. In both pairs, the difference amounts to a switch between the closely related macro-role of an optional adjunct ~~(ADJ)~~ and being completely unexpressed ~~(Ø)~~.
 
@@ -964,7 +988,7 @@ a.  Das Geschenk freut mich.
 b.  Er erfreut mich mit einem Geschenk.
 :::
 
-Finally, a ~~novative with extreme demotion [Ø › SBJ › ADJ]~~ almost completely removes the erstwhile subject [@next], see [@sec:participle-wissen-commutative].
+Finally, a ~~novative with extreme demotion [Ø › SBJ › ADJ]~~ almost completely removes the erstwhile subject [@next], see [@sec:participles-wissen-commutative].
 
 ::: ex
 ~~Novative with extreme demotion [Ø › SBJ › ADJ]~~
@@ -1292,7 +1316,6 @@ a.  Ich raube dir das Buch.
 b.  Ich beraube dich des Buches.
 :::
 
-## German names for local groups
+## German names for clause alternations without diathesis
 
-- Pertinenz (lat. pertinere, ,dazugehören‘) Peter von Polenz: Der Pertinenzdativ und seine Satzbaupläne. In: Festschrift für Hugo Moser. Düsseldorf 1969, Seite 146ff.
-- Absentiv [@groot2000]
+## German names for diatheses (local groups)

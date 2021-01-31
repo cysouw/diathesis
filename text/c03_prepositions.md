@@ -1129,7 +1129,7 @@ Accusative objects that alternate with a *nach* prepositional phrase indicate an
 
 **Attested Verbs**
 
-- Attempted action towards: *greifen, schlagen, rufen, sehen, suchen, treten*
+- Attempted action towards: *fühlen, greifen, schlagen, rufen, sehen, suchen, treten*
 - Object of hunting: *angeln, fischen, jagen*
 
 **Examples**
@@ -1138,6 +1138,7 @@ Accusative objects that alternate with a *nach* prepositional phrase indicate an
 - Ich suche den Ring. Ich suche nach dem Ring.
 - Ich trete den Ball. Ich trete nach dem Ball.
 - Ich rufe dich. Ich rufe nach dir.
+- er fühlt seine Brieftasche. Er fühlt nach seiner Brieftasche.
 
 #### *von* Antipassive
 

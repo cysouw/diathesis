@@ -110,9 +110,12 @@ First, many verbs that do not have an accusative argument before the diathesis a
 - Alternatively, the diathesis can turn the nominative subject into an accusative argument, combined with the addition of a new causative nominative subject. This is for example attested with the diathesis from *brennen* 'to burn' to *verbrennen* 'to burn something' in [@next c], see [@sec:preverb-causative].
 
 ::: ex
-a.  Der Student schläft. Der Student verschläft den Vortrag.
-b.  Ich steige auf den Berg. Ich besteige den Berg.
-c.  Der Stuhl brennt. Ich verbrenne den Stuhl.
+a. Der Student schläft. \
+   Der Student verschläft den Vortrag.
+b. Ich steige auf den Berg. \
+   Ich besteige den Berg.
+c. Der Stuhl brennt. \
+   Ich verbrenne den Stuhl.
 :::
 
 Second, verbs that already have an accusative argument show various different kinds of preverb diathesis. Yet, whatever happens, in almost all examples there is still an accusative argument present after the diathesis:
@@ -122,33 +125,42 @@ Second, verbs that already have an accusative argument show various different ki
 - Similarly, with some resultative constructions a prepositional phrase (often a location) can be promoted to an accusative argument while the original accusative cannot be expressed anymore. This is for example attested with the diathesis from *schütten* 'to pour' to *ausschütten* 'to spill' in [@next c], see [@sec:preverb-location-antiresultative].
 
 ::: ex
-a.  Ich kaufe das Haus von ihm. Er verkauft mir das Haus.
-b.  Ich hänge die Bilder an die Wand. Ich behänge die Wand mit Bildern.
-c.  Ich schütte das Wasser aus dem Eimer. Ich schütte den Eimer aus.
+a. Ich kaufe das Haus von ihm. \
+   Er verkauft mir das Haus.
+b. Ich hänge die Bilder an die Wand. \
+   Ich behänge die Wand mit Bildern.
+c. Ich schütte das Wasser aus dem Eimer. \
+   Ich schütte den Eimer aus.
 :::
 
 Third, some verbs appear to be counterexamples to the generalisation of accusative arguments with preverb diathesis because they do not have a full accusative argument after the application of the diathesis. However, they still have an accusative reflexive pronoun as a kind of formal substitute for the accusative. Note that functionally this reflexive pronoun is never coding a 'self-inflicting' reflexive construction, but only substitute for the 'missing' accusative argument.
 
 - Some transitive verbs with an accusative lose the accusative argument after the diathesis, but formally an 'empty' accusative is retained in the form of a reflexive pronoun. This is for example attested with the diathesis from *schreiben* 'to write' to *verschreiben* 'to misspell' in [@next a], see [@sec:preverb-reflexive-accusative-drop].
 - Some intransitive verbs remain intransitive after the diathesis, but formally an 'empty' accusative is added in the form of a reflexive pronoun. This is for example attested with the diathesis from *arbeiten* 'to work' to *überarbeiten* 'to overwork' in [@next b], see [@sec:preverb-reflexive].
-- Similarly, some intransitives (typically movement verbs) show even more indications that the prefixed verb with reflexive pronoun is alike to a transitive verb (i.e. 'unaccusative'). This is for example attested with the diathesis from *laufen* 'to walk' to *verlaufen* 'to be lost' in [@next c], see [@sec:preverb-reflexive-intransitive-antiresultative]. The typical 'unaccusative' characteristics are attested with *verlaufen*, i.e. a perfect auxiliary *haben* and the possibility to be used as a nominal attribute.
+- Similarly, some intransitives (typically movement verbs) show even more indications that the prefixed verb with reflexive pronoun is alike to a transitive verb. This is for example attested with the diathesis from *laufen* 'to walk' to *verlaufen* 'to be lost' in [@next c], see [@sec:preverb-reflexive-intransitive-antiresultative]. The typical 'agentive' characteristics are attested with *verlaufen*, i.e. a perfect auxiliary *haben* and the impossibility for the participle to be used as a nominal attribute.
 
 ::: ex
-a.  Er schreibt einen Brief. Er verschreibt sich.
-b.  Der Mitarbeiter arbeitet zu viel. Der Mitarbeiter überarbeite sich.
-c.  Der Hund ist nach Hause gelaufen. Der Hund hat sich im Wald verlaufen. Der verlaufene/*gelaufene Hund
+a. Er schreibt einen Brief. \
+   Er verschreibt sich.
+b. Der Mitarbeiter arbeitet zu viel. \
+   Der Mitarbeiter überarbeite sich.
+c. Der Hund ist nach Hause gelaufen. Der nach Hause gelaufene Hund. \
+   Der Hund hat sich im Wald verlaufen. * Der im Wald verlaufene Hund.
 :::
 
 Finally, there are few exceptions to the generalisation that preverb alternations always have an accusative argument:
 
 - A very small group of verbs (± 3 example) appear to lose the accusative argument completely after the preverb diathesis. This is for example attested with the diathesis from *kaufen* 'to buy' to *einkaufen* 'to go shopping' in [@next a], see [@sec:preverb-accusative-drop].
-- A small group of intransitive verbs (± 7 examples) remains intransitive after a preverb diathesis. This is for example attested with the diathesis from *blühen* 'to blossom' to *verblühen* 'to wither' in [@next b], see [@sec:preverb-intransitive-with-unaccusative]. However, note that these verbs can be used as a nominal attribute ('unaccusative') after the diathesis.
+- A small group of intransitive verbs (± 7 examples) remains intransitive after a preverb diathesis. This is for example attested with the diathesis from *blühen* 'to blossom' to *verblühen* 'to wither' in [@next b], see [@sec:preverb-intransitive-with-unaccusative]. However, note that these verbs can be used as a nominal attribute ('patientive') after the diathesis, suggesting that that argument is more object-like.
 - The most frequent exception (± 25 examples) are intransitive verbs that show a prepositional phrase turning into a dative argument with a preverb diathesis. This is for example attested with the diathesis from *jagen* 'to hunt' to *nachjagen* 'to chase' in [@next c], see [@sec:preverb-dative-applicative].
 
 ::: ex
-a.  Ich habe gestern ein Buch gekauft. Ich habe gestern eingekauft.
-b.  Die Blume blüht. Die Blume verblüht. Die verblühte/*geblühte Blume.
-c.  Die Polizei jagte einen Verbrecher. Die Polizei jagte dem Verbrecher nach.
+a. Ich habe gestern ein Buch gekauft. \
+   Ich habe gestern eingekauft.
+b. Die Blume blüht. * Die geblühte Blume. \
+   Die Blume verblüht. Die verblühte Blume.
+c. Die Polizei jagte einen Verbrecher. \
+   Die Polizei jagte dem Verbrecher nach.
 :::
 
 ## Deponent verbs without alternation
@@ -186,7 +198,7 @@ There are many preverb alternations without diathesis. I distinguish three diffe
 - second, verbs that show no difference in argument marking, but that show differences in the attributive usage of participles,
 - and, third, verbs that show no difference in argument marking, but the prefixed verb has an obligatory reflexive pronoun.
 
-### --- Preverb alternations without diathesis {.unnumbered}
+### --- Preverb alternations without diathesis --- {.unnumbered}
 
 It is very common for a prefixed verb not to show any change in valency. The most widespread kind is for nominative-accusative verb to not show a change in valency, like *essen* 'to eat' and *aufessen* 'to eat completely' [@next], see [@sec:preverb-transitive-without-diathesis].
 
@@ -209,8 +221,8 @@ It is highly unusual for prefixed intransitive verbs to not show any valency cha
 ::: ex
 a.  Die Milch kocht.
 b.  Die Milch kocht über.
-c.  Die gekochte Milch ...
-d.  Die übergekochte Milch ...
+c.  Die gekochte Milch schmeckt nicht.
+d.  Die übergekochte Milch ist eine Sauerei.
 :::
 
 The verb *kochen* also exhibits a bare anticausative diathesis [@next a,b], see [@sec:case-haben-anticausative]. The preverb *über-* could thus also be interpreted as inducing an anticausative diathesis, when [@next c] is opposed to [@next a]. However, because [@next b] is both structurally and semantically closer to [@next c] I have decided to take this as the preverb diathesis. Note that there exist verbs with preverb anticausative alternations (see [@sec:preverb-preposition-anticausative]).
@@ -268,8 +280,8 @@ Adjectives are in many ways similar to intransitive verbs, basically being one-p
 ::: ex
 a.  Das Wasser ist kühl. 
 b.  Das Wasser ist abgekühlt.
-c.  Das kühle Wasser ...
-d.  Das abgekühlte Wasser ...
+c.  Das kühle Wasser schmeckt.
+d.  Das abgekühlte Wasser schmeckt.
 :::
 
 **Attested Verbs**
@@ -296,35 +308,35 @@ b.  Die Vorstellung verspätet sich.
 
 - *ver* : *spät, früh*
 
-### --- Unaccusative alternations --- {.unnumbered}
+### --- Patientive alternations --- {.unnumbered}
 
-Some intransitives without valency change show a peculiar phenomenon when prefixed: they become more patient-like in that the participle can be used attributively (one of the characteristics often discussed under the heading of 'unaccusativity'). For example, the verbs *schlafen* 'to sleep' [@next a] and *einschlafen* 'to fall asleep' [@next b] are both intransitive. However, only *eingeschlafen* can be used attributively [@next c,d], see [@sec:preverb-intransitive-with-unaccusative].
+Some intransitives show a peculiar phenomenon when prefixed: they are still intransitive but become more patient-like in that the participle can be used attributively (one of the characteristics often discussed under the heading of the 'unaccusative hypothesis', see [@sec:participles-restrictions]). For example, the verbs *schlafen* 'to sleep' [@next a] and *einschlafen* 'to fall asleep' [@next b] are both intransitive. However, only *eingeschlafen* can be used attributively [@next c,d], see [@sec:preverb-intransitive-with-unaccusative].
 
 ::: ex
 a.  Der Junge schläft.
 b.  Der Junge schläft ein.
-c.  Der eingeschlafene Junge ...
-d.  ^* Der geschlafene Junge ...
+d.  ^* Der geschlafene Junge schnarcht.
+c.  Der eingeschlafene Junge schnarcht.
 :::
 
 There is a small group of transitive nominative-accusative verbs that show the same effect with attributive participles. These verbs, like *merken/bemerken* 'to become aware of' [@next a,b], do not show a valency difference. Yet, there is a difference in that the participle of the prefixed *bemerken* can be used as attributive adjective, while the participle of the non-prefixed *merken* cannot [@next c,d], see [@sec:preverb-transitive-with-unaccusative].
 
 ::: ex
 a.  Ich merke den Wind.
-b.  Ich bemerke den Wind.
-c.  Der bemerkte Wind ...
-d.  ^* Der gemerkte Wind ...
+b.  Ich bemerke den Fehler.
+d.  ^* Der gemerkte Wind war schlimm.
+c.  Der bemerkte Fehler war schlimm.
 :::
 
 ### [ N | N ] Preverb intransitives with patient-like subject {#sec:preverb-intransitive-with-unaccusative}
 
-Many verbs describing natural processes remain intransitive when prefixed, like *blühen* 'to blossom' and *verblühen* 'to wither' [@next a,b]. The participle of these verbs can be used attributively when prefixed [@next c], but not without prefix [@next d]. Also note that the auxiliary in the perfekt changes between *sein* and *haben* for these verbs.
+Many verbs describing natural processes remain intransitive when prefixed, like *blühen* 'to blossom' and *verblühen* 'to wither' [@next a,b]. The participle of these verbs can be used attributively when prefixed [@next d], but not without prefix [@next c]. Also note that the auxiliary in the perfekt changes between *sein* and *haben* for these verbs.
 
 ::: ex
 a.  Die Blüme hat geblüht.
 b.  Die Blume ist verblüht.
-c.  Die verblühte Blume ...
-d.  ^* Die geblühte Blume ...
+d.  ^* Die geblühte Blume ist immer noch schön.
+c.  Die verblühte Blume ist immer noch schön.
 :::
 
 **Attested Verbs**
@@ -334,18 +346,18 @@ d.  ^* Die geblühte Blume ...
 
 **Examples**
 
-- Die Vorräte schwinden/verschwinden. Die verschwundenen/*geschwundenen Vorräte ...
-- Die Äpfel faulen. Die Äpfel verfaulen. Die verfaulten/*gefaulten Äpfel ...
+- Die Vorräte verschwinden/schwinden. Die verschwundenen/*geschwundenen Vorräte ...
+- Die Äpfel verfaulen/faulen. Die verfaulten/*gefaulten Äpfel ...
 
 ### [ NA | NA ] Preverb transitives with patient-like object {#sec:preverb-transitive-with-unaccusative}
 
-Some transitive verbs like *ärgern* and the preverbal variant *verärgern* 'to irritate' are almost identical in meaning [@next a,b]. However, they show the same differentiation in attributive participle usage as the unaccusative intransitives in the previous section [@next c,d], though without a difference in perfect auxiliary (both use *haben*). Note the somewhat older attested example of attributive *geärgert* in [@next e].
+Some transitive verbs like *ärgern* and the preverbal variant *verärgern* 'to irritate' are almost identical in meaning [@next a,b]. However, they show the same differentiation in attributive participle usage as the patientive intransitives in the previous section [@next c,d], though without a difference in perfect auxiliary (both use *haben*). There is a connected difference in the possiblity of the *Zustandspassiv* with *sein*, cf. [@sec:participles-sein-zustandspassiv]. Note the somewhat older attested example of attributive *geärgert* in [@next e].
 
 ::: ex
 a.  Die Verzögerung hat den Reisenden geärgert.
 b.  Die Verzögerung hat den Reisenden verärgert.
-c.  Der verärgerte Reisende.
-d.  ^* Der geärgerte Reisende.
+c.  ^* Der geärgerte Reisende. * Der Reisende ist geärgert.
+d.  Der verärgerte Reisende. Der Reisende ist verärgert.
 e.  Der geärgerte Schulkamerad schrieb: (DWDS: Büchner, Georg: Sämmtliche Werke und handschriftlicher Nachlaß. Frankfurt (Main), 1879.)
 :::
 
@@ -850,17 +862,11 @@ Preposition *bei*? Maybe always possible with accusative drop verbs
 - Ich schreibe dir einen Brief. Ich unterschreibe einen Brief an dich.
 - Ich geben dem Handwerker den Auftrag, Ich vergebe den Auftrag an den Handwerker.
 
-**Notes**
-
-Is this alternation transparent?
-
-- Ich bringe dir ein Buch. Ich verbringe den Tag mit dir.
-
 ### --- [ OBJ > OBJ > ADJ ] --- {.unnumbered}
 
 ### [ NDA | NAp ] Preverb antipassive + dative-to-accusative {#sec:preverb-antipassive-dative-accusative}
 
-mostly *mit*
+The antipassive is typically a *mit* prepositional phrase.
 
 ::: ex
 a.  Ich schenke dir ein Buch.
@@ -879,28 +885,24 @@ b.  Ich beschenke dich mit einem Buch.
 - Ich liefere dem Bäcker das Mehl. Ich beliefere den Bäcker mit dem Mehl.
 - Ich singe dir ein Lied. Ich besinge dich mit einem Lied.
 
-**Notes**
-
-*lohnen* is also a reflexive anticausative [@sec:reflexive-anticausative]:
-
-- NA- : Das Ergebnis lohnt den Aufwand.
-- -N- : Der Aufwand lohnt sich.
-- NAD : Ich lohne dir deine Treue.
-- -Ng : Deine Treue lohnt sich. 
-- NPD : Ich lohne dir für deine Treue. (veraltet)
-- NPA : Ich belohne dich für deine Treue.
-
 ### --- [ PBJ > Ø ] --- *Präverb Antiresultativ* {.unnumbered}
 
 ### [ NL | N– ] Preverb intransitive antiresultative {#sec:preverb-intransitive-antiresultative}
 
-=> unaccusative!!!
+The unprefixed *steigen* necessarily needs a location describing the endpoint (result) of the action [@next a]. This location cannot be left out [@next b] and the participle cannot be used adnominally without the location [@next c,d]. In contrast, with the prefixed *aussteigen* both options are possible [@nnext].
 
 ::: ex
-a.  Ich steige aus dem Auto.
-b.  ^* Ich steige.
-c.  Ich steige aus dem Auto aus.
-d.  Ich steige aus
+a. Der Man steigt aus dem Auto.
+b. ^* Der Mann steigt.
+c. Der aus dem Auto gestiegene Mann rutscht aus.
+d. ^* Der gestiegene Mann rutscht aus.
+:::
+
+::: ex
+a. Der Mann steigt aus dem Auto aus.
+b. Der Mann steigt aus.
+c. Der aus dem Auto ausgestiege Mann rutscht aus.
+d. Der ausgestiegene Mann rutscht aus.
 :::
 
 **Attested Verbs**
@@ -929,12 +931,21 @@ d.  Ich steige aus
 
 ### [ NL | N– ] Preverb reflexive intransitive antiresultative {#sec:preverb-reflexive-intransitive-antiresultative}
 
-unaccusative!!!???
+This diathesis is similar to the previous diathesis ([@sec:preverb-intransitive-antiresultative]) with the additional characteristics that the prefixed verb *verlaufen* also needs a reflexive pronoun [@nnext].
 
-see [@sec:prepositions-manner-of-movement]
+::: ex
+a. Der Hund ist nach Hause gelaufen.
+b. ^* Der Hund ist gelaufen.
+c. Der nach Hause gelaufene Hund hat hunger.
+d. ^* Der gelaufene Hund hat hunger.
+:::
 
-- Der Hund ist nach Hause gelaufen. Der Hund hat sich in dem Wald verlaufen.
-- der ?verlaufene/*gelaufene Hund
+::: ex
+a. Der Hund hat sich im Wald verlaufen.
+b. Der Hund hat sich verlaufen.
+c. Der im Wald verlaufene Hund hat hunger.
+d. Der verlaufene hund hat hunger.
+:::
 
 **Attested Verbs**
 
@@ -945,23 +956,23 @@ see [@sec:prepositions-manner-of-movement]
 **Examples**
 
 - Ich fahre nach Dresden. Ich verfahre mich (auf dem Weg nach Dresden).
-- Ich irre durch den Garten. Ich verirre mich (in dem Garten).
-- Ich laufe in den Garten. Ich verlaufe mich (in dem Garten).
+- Ich irre durch den Garten. Ich verirre mich (im Garten).
+- Ich laufe in den Garten. Ich verlaufe mich (im Garten).
 - Ich spekuliere auf einen Gewinn. Ich verspekuliere mich.
 - Er hängt an den Balken. Er erhängt sich (an den Balken).
 
 ### [ NAL | NA– ] Preverb transitive antiresultative {#sec:preverb-transitive-antiresultative}
 
-Verbs of caused location (see [@sec:prepositions-haben-caused-location]) like *stecken* 'to put into' [@next a] cannot be used without the locative preposition [@next b]. In contrast, with the prefix *ver-* the verb *verstecken* 'to hide' can be used both with and without the locative [@next c,d].
+Verbs of caused location (see [@sec:prepositions-haben-caused-location]) like *stecken* 'to put into' [@next a] cannot be used without the locative preposition [@next b]. In contrast, with the prefix *ver-* the verb *verstecken* 'to hide' can be used both with and without the location [@next c,d].
 
 ::: ex
-a.   Ich stecke das Geschenk in den Schrank.
-b.  ^* Ich stecke das Geschenk.
-c.   Ich verstecke das Geschenk in dem Schrank.
-d.   Ich verstecke das Geschenk.
+a. Ich stecke das Geschenk in den Schrank.
+b. ^* Ich stecke das Geschenk.
+c. Ich verstecke das Geschenk in dem Schrank.
+d. Ich verstecke das Geschenk.
 :::
 
-The diathesis is quite widespread with other resultative constructions [@next].
+The diathesis is quite widespread stacked on top of a resultative diathesis [@next].
 
 ::: ex
 a.   Der Wind weht hart.
@@ -1014,11 +1025,7 @@ d.   Der Wind verweht die Blätter.
 
 ### [ NLA | NA– ] Preverb applicative + accusative drop {#sec:preverb-location-antiresultative}
 
-Note: very similar to applicative+antipassive, though here antipassive to zero?
-
-Similar to adverbials like "leer-"
-
-Reversal of "Action result" [@sec:prepositions-action-result]
+Reversal of "Action result", see [@sec:prepositions-action-result].
 
 ::: ex
 a.  Ich presse den Saft aus der Zitrone.
@@ -1085,7 +1092,12 @@ Lipka [-@lipka1972: 93, 173] calls this diathesis 'Objektvertauschung' and McInt
 
 ### [ N– | NA ] Preverb adjectival accusative addition {#sec:prever-adjectival-addition}
 
-see [@sec:preverb-adjectival-causative]
+See also [@sec:preverb-adjectival-causative].
+
+::: ex
+a. Der Clown ist lustig.
+b. Der Clown belustigt mich.
+:::
 
 **Attested Verbs**
 
@@ -1093,12 +1105,16 @@ see [@sec:preverb-adjectival-causative]
 
 **Examples**
 
-- Der Clown ist lustig. Der Clown belustigt mich
 - Die Aufgabe ist lästig. Die Aufgabe belästigt mich.
 
 ### [ N–P | NAP ] Preverb accusative addition + preposition
 
 The verb *büßen* 'to pay for something' needs a governed preposition, while *blicken* 'to gaze' needs a locative preposition. These prepositional phrases are optionally retained when the verbs are prefixed and obtain an additional accusative argument in the process.
+
+::: ex
+a. Sie büßt für ihre Tat.
+b. Sie verbüßt ihre Strafe für die Tat.
+:::
 
 **Attested Verbs**
 
@@ -1107,20 +1123,18 @@ The verb *büßen* 'to pay for something' needs a governed preposition, while *b
 
 **Examples**
 
-- Sie büßt für ihre Tat. Sie verbüßt ihre Strafe für die Tat.
 - Ich blicke in die Ferne. Ich erblicke ein Schiff (in der Ferne).
 
 ### [ N–D | NAD ] Preverb accusative addition + dative
 
-*vertrauen* 'to trust'
+::: ex
+a. Sie vertraut mir.
+b. Sie vertraut mir ein Geheimnis an.
+:::
 
 **Attested Verbs**
 
 - ˈan- : *vertrauen*
-
-**Examples**
-
-- Sie vertraut mir. Sie vertraut mir ein Geheimnis an.
 
 ### [ N–A | NDA ] Preverb dative addition + accusative {#sec:preverb-dative-additions}
 

@@ -1,4 +1,4 @@
-# Light verb alternations with *zu*-infinitives {#sec:zuinfinitive}
+# Light-verb + *zu*-infinitive alternations {#sec:zuinfinitive}
 
 ## Introduction
 
@@ -6,7 +6,7 @@ Always modal meanings???
 
 ## Definitions
 
-## Verbs without alternations
+## Deponent verbs without alternations
 
 ## Alternations without diathesis
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-It might come as a surprise that adverbials play a role in valency and valency alternations. However, already on somewhat closer inspection it quickly becomes clear that there are various verbs that obligatorily need an adverbial complement, like *sich verhalten* 'to behave' [@next], arguing that adverbials have to be considered when determining the valency of verbs.
+It might come as a surprise that adverbials play a role in valency and diathesis. However, on closer inspection it quickly becomes clear that there are various verbs that obligatorily need an adverbial complement, like *sich verhalten* 'to behave' [@next], arguing that adverbials have to be considered when determining the valency of verbs.
 
 ::: ex
 a.   Ich verhalte mich tapfer.
@@ -25,7 +25,7 @@ a.  Ich habe meine Hose schnell gekauft.
 b.  Ich habe den Laden leer gekauft.
 :::
 
-Depictive secondary predicates are typically manner adverbials. They appear in valency-reducing diatheses, typically resulting in intransitive constructions as a result. This behavior draws obvious parallels with reflexive diatheses. However, it remain unclear to me whether there is a deeper connection between reflexive and adverbial diatheses or whether this parallel is a superficial side effect of some other syntactic properties.
+Depictive secondary predicates are typically manner adverbials. They appear in valency-reducing diatheses, typically resulting in intransitive constructions as a result. This behavior draws obvious parallels with reflexive diatheses. However, it remain unclear to me whether there is a deeper connection between reflexive and adverbial diatheses or whether this parallel is a superficial side effect of some other syntactic properties. Depictive secondary predicates can also be expressed by participles, so there is a close connection to diatheses with light-verb and participles (see [@sec:participles-secondary-predicates]).
 
 Resultative secondary predicates arguably form a new verb together with the main predicate, i.e. *leer* and *kaufen* form a new verb *leerkaufen* in which the first part *leer-* is separable, just like with prepositional preverbs ('Partikelverben' in German grammar, see [@sec:preverbs-prefixes-particles]). Similar to the generalisation with preverbs (see [@sec:preverbs-always-accusative]), diatheses with resultative secondary predicates almost always lead to transitive constructions with a nominative and an accusative argument (or alternatively an accusative reflexive). This parallellism reinforces the impression that resultative adverbs should probably better be considered together with preverbs as discussed in the previous chapter.
 
@@ -151,14 +151,14 @@ c.  Der Mantel sitzt nicht.
 
 **Attested Verbs**
 
-- *ausfallen, aussehen, bleiben, gelaunt sein, sitzen*
+- *ausfallen, aussehen, bleiben, gelaunt sein, sitzen (passen)*
 
 **Examples**
 
 - Ich bleibe wachsam/ruhig
 - Sein Zeugnis ist schlecht ausgefallen.
 
-### [ N ] Nominative + accusative *sich* + adverbial
+### [ N ] Nominative + reflexive + adverbial
 
 The verb *sich benehmen* 'to behave' needs an adverbial constituent to describe how to behave [@next a,b], except in imperatives [@next c] and in some light verb constructions [@next d], both of which have a conversational implicature of 'good' behavior. Note that there is a completely different meaning of *benehmen* without reflexive *sich*, meaning 'to deprive of' [@next e].
 
@@ -221,7 +221,7 @@ c.  ^* Ich halte von dir.
 
 - *halten*
 
-### [ NA ] Nominative + accusative + adverbial
+### [ NA ] Nominative + accusative + adverbial {#sec:adverbials-nominative-accusative}
 
 Both the manner adverbial and the accusative argument cannot be left out with *stimmen* 'to raise the atmosphere' [@next].
 
@@ -308,7 +308,7 @@ a.  Ich schlafe mich gesund.
 b.  Ich schlafe, und dadurch bin ich gesund.
 :::
 
-The intransitive verbs that allow this seem to be strongly related to the 'unergative' class of intransitive (see [@sec:participles-restrictions]), while typical 'unaccusative' intransitives are not possible in this construction.
+The intransitive verbs that allow this seem to be strongly related to the 'agentive' class of intransitive (see [@sec:participles-restrictions]), while typical 'patientive' intransitives are not possible in this construction.
 
 ::: ex
 a.  ^* Ich habe mich gesund eingeschlafen.
@@ -340,7 +340,7 @@ a.  Der Junge rennt.
 b.  Der Junge rennt los.
 :::
 
-An additional affect of this alternation is that the unergative *rennen* becomes an unaccusative *losrennen* [@next], see also [@sec:participles-restrictions].
+An additional affect of this alternation is that the agentive *rennen* becomes a patientive *losrennen* [@next], see also [@sec:participles-restrictions].
 
 ::: ex
 a.  Der Junge hat gerannt. ^* Der gerannte Junge.
@@ -377,7 +377,7 @@ a.  In der Gruppe lacht es sich besser.
 b. ^^?^ Am frühen morgen steht es sich schlecht auf.
 :::
 
-A very similar diathesis is attested with transitives, see [@sec:adverbial-reflexive-transitive-anticausative], but in that case the accusative is retained as a nominative (i.e. anticausative). Also note that connection between an intransitive drop and a transitive anticausative is strongly reminiscent of unaccusativity, see [@sec:participles-restrictions]. However, there does not seem to be an obvious match between unaccusative verbs and the verbs that allow for the current diathesis [cf. @steinbach1998: 15-18].
+A very similar diathesis is attested with transitives, see [@sec:adverbial-reflexive-transitive-anticausative], but in that case the accusative is retained as a nominative (i.e. anticausative). Also note that connection between an intransitive drop and a transitive anticausative is strongly reminiscent of the unaccusative hypothesis, see [@sec:participles-restrictions]. However, there does not seem to be an obvious match between unaccusative verbs and the verbs that allow for the current diathesis [cf. @steinbach1998: 15-18].
 
 **Attested Verbs**
 
@@ -503,6 +503,20 @@ c.   Morgen lese ich den ganzen Tag.
 - Du hast die Aufgabe falsch gerechnet. Meine Tochter rechnet gerne mit Brüchen.
 - Er zählt die Stimmen. Er zählt leise vor sich hin.
 - Die Kinder zerstören die Sandburg. Kinder zerstören gerne.
+
+### [ NA | N– ] Autocauastive + depictive adverbial
+
+Similar to autocausatives ([@sec:reflexive-accusative-drop]), but with obligatory depictive adverbial.
+
+::: ex
+a. Ich fühle die Schmerzen.
+b. Ich fühle mich schlecht.
+c. ^* Ich fühle mich.
+:::
+
+**Attested Verbs**
+
+- *fühlen*
 
 ### --- [ OBJ > Ø ] Antiresultative --- {.unnumbered}
 
