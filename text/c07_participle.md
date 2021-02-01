@@ -109,18 +109,18 @@ The basic observation of Aichinger, though, is sound. There is clearly a group o
 
 ::: ex
 a. Sein Körper hat geschmerzt. \
-   Ähnlich ekstatisch *geschmerzte Körper* zeichneten der junge Kokoschka und Egon Schiele, als das Jahrhundert gerade begonnen hatte. (DWDS: Die Zeit, 19.02.1988, Nr. 08)
+   Ähnlich ekstatisch *geschmerzte Körper* zeichneten der junge Kokoschka und Egon Schiele, als das Jahrhundert gerade begonnen hatte.^[~~DWDS~~: Die Zeit, 19.02.1988, Nr. 08.]
 b. Er hat gelogen über die Geschichte. \
-   Die offizielle, aber *gelogene Variante der Geschichte* hat ihn selber mehr ergriffen. (DWDS: Berliner Zeitung, 08.05.2001)
+   Die offizielle, aber *gelogene Variante der Geschichte* hat ihn selber mehr ergriffen.^[~~DWDS~~: Berliner Zeitung, 08.05.2001.]
 :::
 
 Further, many intransitive verbs with a *haben* perfect can be used with a resultative accusative, for example manner-of-speaking verbs like *weinen* 'to cry' or movement verbs like *tanzen* 'to dance' (see [@sec:case-accusative-addition]). In such resultative usage they are transitives, and then the participle can be used adnominally with the accusative object [@next].
 
 ::: ex
 a. Er hat geweint. \
-   Ich höre laute Schreie und unverständlich *geweinte Worte* aus dem Nebenzimmer. (DWDS: Die Zeit, 11.01.2006, Nr. 02)
+   Ich höre laute Schreie und unverständlich *geweinte Worte* aus dem Nebenzimmer.^[~~DWDS~~: Die Zeit, 11.01.2006, Nr. 02.]
 b. Er hat getanzt. \
-   Besonders der im Biedermeierkostüm *getanzte Aschenbrödeltanz* mit Vertonung von Zepler ergab wirkungsvolle Bilder. (DWDS: Berliner Tageblatt (Abend-Ausgabe), 12.03.1918)
+   Besonders der im Biedermeierkostüm *getanzte Aschenbrödeltanz* mit Vertonung von Zepler ergab wirkungsvolle Bilder.^[~~DWDS~~: Berliner Tageblatt (Abend-Ausgabe.], 12.03.1918)
 :::
 
 An even more intricate detail occurs with some movement verbs like *laufen* 'to walk'. When used with a directional phrase like *nach Hause* 'home' this verb takes the auxiliary *sein* [@next a]
@@ -436,7 +436,7 @@ b.  Er ist entsetzt.
 Likewise, DWDS mentions *verfroren* as an idiomatic participle, but the verb *verfrieren* 'to freeze' is attested, though rare [@next].
 
 ::: ex
-a.  Bei Wind verfrieren die Wangen in kürzester Zeit. (DWDS: Die Zeit, 10.01.1997, Nr. 03)
+a.  Bei Wind verfrieren die Wangen in kürzester Zeit.^[~~DWDS~~: Die Zeit, 10.01.1997, Nr. 03.]
 b.  Meine Wangen sind verfroren.
 :::
 
@@ -655,7 +655,7 @@ b.  Das gelungene Gemälde ...
 The verb *folgen* 'to follow' typically takes *sein*, but there appear to be incidental instances of *haben* [@next a], though this might be typical of a slightly different meaning 'to obey' [@next b].
 
 ::: ex
-a.  [...] wenn China und Nordkorea den Empfehlungen der Kommission gefolgt hätte. (DWDS: Archiv der Gegenwart, 2001 [1953])
+a.  [...] wenn China und Nordkorea den Empfehlungen der Kommission gefolgt hätte.^[~~DWDS~~: Archiv der Gegenwart, 2001 [1953].]
 b.  Das Kind hat seiner Mutter gefolgt.
 :::
 
@@ -844,7 +844,7 @@ b. Der Verlust macht mich betroffen.
 
 - Das Geschehen macht mich verbittert.
 - Der Bericht hat mich verstört gemacht.
-- Den Jäcklein hatte der getrunkene Wein verzagt und verstört gemacht. (DWDS: Perutz, Leo: Die dritte Kugel, Reinbek bei Hamburg: Rowohlt 1988 [1915], S. 217)
+- Den Jäcklein hatte der getrunkene Wein verzagt und verstört gemacht.^[~~DWDS~~: Perutz, Leo: Die dritte Kugel, Reinbek bei Hamburg: Rowohlt 1988 [1915], S. 217.]
 
 **Notes**
 
@@ -1409,9 +1409,9 @@ b. Das Geschenk liegt in der Schublade versteckt.
 
 **Examples**
 
-- Trotz aller Fehltritte und Peinlichkeiten, die sich Hannah und Co. leisteten, vergaß Girls nicht, dass im größten Desaster immer auch die Hoffnung auf einen Neustart begründet liegt. (DWDS: Die Zeit, 13.02.2017)
-- Die Tatsachen aber sind hart, wie die Wahrheit, die in ihnen beschlossen liegt. (DWDS: Die Zeit, 18.09.1964, Nr. 38)
-- Radinsky begriff, welche Macht in Datenmassen verborgen liegt. (DWDS: Die Zeit, 26.01.2017, Nr. 03)
+- Trotz aller Fehltritte und Peinlichkeiten, die sich Hannah und Co. leisteten, vergaß Girls nicht, dass im größten Desaster immer auch die Hoffnung auf einen Neustart begründet liegt.^[~~DWDS~~: Die Zeit, 13.02.2017.]
+- Die Tatsachen aber sind hart, wie die Wahrheit, die in ihnen beschlossen liegt.^[~~DWDS~~: Die Zeit, 18.09.1964, Nr. 38.]
+- Radinsky begriff, welche Macht in Datenmassen verborgen liegt.^[~~DWDS~~: Die Zeit, 26.01.2017, Nr. 03.]
 
 ### --- [ OBJ > SBJ > ADJ ] --- {.unnumbered}
 
@@ -1467,8 +1467,8 @@ b. Die Worte stehen auf der Titelseite geschrieben.
 
 **Examples**
 
-- Vielleicht auch, weil er weiß, dass die Truppen hinter ihm nicht geschlossen stehen. (DWDS: Berliner Zeitung, 12.10.2004: )
-- Wenn die SPD nicht geschlossen stehe, werde es schwierig, den Wahlkampf durchzustehen. (DWDS: Die Zeit, 29.09.2012, Nr. 40)
+- Vielleicht auch, weil er weiß, dass die Truppen hinter ihm nicht geschlossen stehen.^[~~DWDS~~: Berliner Zeitung, 12.10.2004: .]
+- Wenn die SPD nicht geschlossen stehe, werde es schwierig, den Wahlkampf durchzustehen.^[~~DWDS~~: Die Zeit, 29.09.2012, Nr. 40.]
 - 
 ### --- [ ADJ > SBJ > Ø ] --- {.unnumbered}
 
@@ -1491,33 +1491,33 @@ b. Die Bezahlung macht den Job begehrt.
 
 ## Diathesis with promotion to subject {#sec:participles-promotion-to-subject}
 
-The four German verbs *wissen* 'to know', *glauben* 'to believe', *sehen* 'to see' and *finden* 'to find' (and apparently only those four) allow for a construction with a participle reminiscent of the Latin *accusativus cum participio* construction. These constructions describe a subjective opinion of the nominative subject about the veracity of the participle and such diatheses will consequently be called ~~opiniative~~ here. This opinion is marked as either more certain (*wissen, finden*) or less certain (*glauben, sehen*). These constructions can be syntactically identified by the possibility to form an alternate expression with a finite complement clause with *dass* [@next].
+The four German verbs *wissen* 'to know', *glauben* 'to believe', *sehen* 'to see' and *finden* 'to find' (and apparently only those four) allow for a construction with a participle reminiscent of the Latin *accusativus cum participio* construction. These constructions describe a subjective opinion of the nominative subject about the veracity of the participle and such diatheses will consequently be called ~~opiniative~~ here. This opinion is marked as either more certain (*wissen, finden*) or less certain (*glauben, sehen*). These constructions can be syntactically identified by the possibility to form an alternate expression with a *dass* finite complement clause [@next].
 
 ::: ex
 a. Sie glaubt ihn eingeschlafen. \
-   = Sie glaubt, dass er eingeschlafen ist.
+   (= Sie glaubt, dass er eingeschlafen ist.)
 b. Sie weiß den Nachlass im Archiv gut aufgehoben. \
-   = Sie weiß, dass der Nachlass im Archiv gut aufgehoben ist.
+   (= Sie weiß, dass der Nachlass im Archiv gut aufgehoben ist.)
 :::
 
-The participles are either derived from patientive intransitive verbs, like *einschlafen* 'to fall asleep' [@last a] or transitive verbs, like *aufheben* 'to take care' [@last b]). These two possibilities lead to quite different diatheses. With intransitve verbs, like *er schläft ein* [@last a], the erstwhile nominative turns into an accusative and a new nominative opinionator is introduced, i.e. a remapping pattern ~~[–N | NA]~~. In contrast, with transitive verbs like *das Archiv hebt den Nachlass auf* [@last b], the accusative does not change and the erstwhile nominative is dropped or can optionally be expressed with a prepositional phrase. Together with the newly introduced opinionator this leads to a remapping pattern ~~[–NA | NpA]~~. These two remapping patterns will be discussed separately below.
+The participles in such constructions are either derived from patientive intransitive verbs, like *einschlafen* 'to fall asleep' [@last a] or transitive verbs, like *aufheben* 'to take care' [@last b]. These two possibilities lead to quite different diatheses. With intransitve clauses, like *er schläft ein* [@last a], the erstwhile nominative turns into an accusative and a new nominative opinionator is introduced, i.e. a remapping pattern ~~[–N | NA]~~. In contrast, with transitive clauses like *das Archiv hebt den Nachlass auf* [@last b], the accusative does not change and the erstwhile nominative is dropped or can optionally be expressed with a prepositional phrase. Together with the newly introduced opinionator this leads to a remapping pattern ~~[–NA | NpA]~~. These two remapping patterns will be discussed separately below.
 
 In testing for these constructions with *finden* and *sehen* [@next], note that with these verbs the participle constructions cannot directly be reformulated with a *dass* finite complement clause. The meanings of the verbs *sehen* 'to see' and *finden* 'to find' have been grammaticalised in this construction to mean something like *glauben* 'to believe' [@next b] or *überzeugt sein* 'to be sure' [@next b], respectively.
 
 ::: ex
 a. Er sieht seinen Erfolg bedroht. \
-   = Er glaubt, dass sein Erfolg bedroht ist.
+   (= Er glaubt, dass sein Erfolg bedroht ist.)
 b. Er findet das Kunstwert gelungen. \
-   = Er ist überzeugt, dass das Kunstwerk gelungen ist.
+   (= Er ist überzeugt, dass das Kunstwerk gelungen ist.)
 :::
 
 In identifying these constructions, care has to be taken with the verbs *finden* and *sehen* (and apparently only these two). These verbs occur in superficially similar constructions, as exemplified in [@next], which actually have a completely different underlying structure. In these examples the verbs *finden* and *sehen* are used in their literal transitive meaning of finding/seeing an object. Additionally, the sentence is modified by a depictive secondary predicate in the form of a participle, as extensively discussed in [@sec:participles-secondary-predicates].^[The verb *finden* can also be combined wiht a regular adverb like in *das finde ich gut*, see [@sec:adverbials-nominative-accusative]. This does not appear to be possible with the other opiniative verbs *wissen*, *glauben* and *sehen*.]
 
 ::: ex
 a. Sie findet ihn am Schreibtisch eingeschlafen. \
-   = Sie findet ihn, während er am Schreibtisch eingeschlafen ist.
+   (= Sie findet ihn, während er am Schreibtisch eingeschlafen ist.)
 b. Er sieht die Buchstaben verzerrt. \
-   = Er sieht die Buchstaben, aber die Buchstaben sind verzerrt.
+   (= Er sieht die Buchstaben, aber die Buchstaben sind verzerrt.)
 :::
 
 As originally observed by Leirbukt [-@leirbukt2000], all these constructions appear to be much more acceptable (and much more frequent) when they are stacked inside a modal verb like *wollen* (see [@sec:intro-stacking] for the term 'stacking'). Leirbukt only discusses *sehen* [@next] and *wissen* [@nnext] and seems to have missed the constructions with *glauben* and *finden*. He also discussed constructions with *haben*, but these are discussed here as a completely different diathesis in [@sec:participles-haben-passive].
@@ -1532,7 +1532,7 @@ a.  ^^?^ Die Belegschaft weiß das Wahlergebnis keinesfalls als Zustimmung verst
 b.  Die Belegschaft möchte das Wahlergebnis keinesfalls als Zustimmung verstanden wissen.
 :::
 
-Similarly, these opiniatives are much more acceptable (and much more frequent) when they form a stack in combination with a self-inflicing reflexive alternation (see [@sec:reflexive-self-inflicting-accusative]). The reflexive marking expresses that the opinionator and the opined object are the same participant. This is possible both with intransitives [@next] and transitives [@nnext].
+Similarly, these opiniatives are much more acceptable (and much more frequent) when they form a stack in combination with a self-inflicing reflexive pronoun alternation (see [@sec:reflexive-self-inflicting-accusative]). The reflexive marking indicates that the opinionator and the opined object are the same participant. This is possible both with intransitives [@next] and transitives [@nnext].
 
 ::: ex
 a. Ich scheitere.
@@ -1548,7 +1548,7 @@ b. Der Dieb weiß sich von der Polizei verfolgt.
 
 ### --- [ Ø > SBJ > OBJ ] --- *Intransitiv Opiniativ* {.unnumbered #lg:opiniativ}
 
-### [ –N | NA ] *wissen + Partizip* Intransitive opiniative novative {#sec:participles-wissen-experiencer}
+### [ –N | NA ] *wissen + Partizip* Intransitive opiniative {#sec:participles-wissen-experiencer}
 
 ::: ex
 a. Das Kind schläft ein.
@@ -1561,7 +1561,7 @@ b. Sie weiß das Kind eingeschlafen.
 
 **examples**
 
-### [ –N | NA ] *glauben +Partizip* Intransitive opiniative novative {#sec:participles-glauben-opinionator}
+### [ –N | NA ] *glauben +Partizip* Intransitive opiniative {#sec:participles-glauben-opinionator}
 
 ::: ex
 a. Der Sieg kommmt.
@@ -1574,14 +1574,14 @@ a. Er glaubte den Sieg gekommen.
 
 **Examples**
 
-- Als die Tochter des Hauses, die schon längst für Jean Pauls Romane schwärmte, ihn sicher eingeschlafen glaubte, trat sie leise ins Zimmer, um ihn recht nach Herzenslust zu betrachten. (DWDS: Parthey, Gustav: Jugenderinnerungen. Bd. 2. Berlin, [1871])
+- Als die Tochter des Hauses, die schon längst für Jean Pauls Romane schwärmte, ihn sicher eingeschlafen glaubte, trat sie leise ins Zimmer, um ihn recht nach Herzenslust zu betrachten.^[~~DWDS~~: Parthey, Gustav: Jugenderinnerungen. Bd. 2. Berlin, [1871].]
 
-### [ –N | NA ] *sehen + Partizip* Intransitive opiniative novative
+### [ –N | NA ] *sehen + Partizip* Intransitive opiniative
 
 ::: ex
 a. Die UN scheitert.
 b. Viele Menschen sehen die UN bereits gescheitert. \
-   = Viele Menschen glauben, dass die UN bereits gescheitert ist.
+   (= Viele Menschen glauben, dass die UN bereits gescheitert ist.)
 :::
 
 **Attested Verbs**
@@ -1590,9 +1590,9 @@ b. Viele Menschen sehen die UN bereits gescheitert. \
 
 **Examples**
 
-- Während viele Nichtregierungsorganisationen die UN bereits gescheitert sehen, hat Weltbank-Präsident James Wolfensohn noch Hoffnung. (DWDS: Berliner Zeitung, 26.01.2005 )
+- Während viele Nichtregierungsorganisationen die UN bereits gescheitert sehen, hat Weltbank-Präsident James Wolfensohn noch Hoffnung.^[~~DWDS~~: Berliner Zeitung, 26.01.2005 .]
 
-### [ –N | NA ] *finden + Partizip* Intransitive opiniative novative {#sec:participles-finden-opinionator}
+### [ –N | NA ] *finden + Partizip* Intransitive opiniative {#sec:participles-finden-opinionator}
 
 ::: ex
 a. Er wächst.
@@ -1610,7 +1610,7 @@ b. Ich finde ihn gewachsen.
 
 ### --- [ Ø > SBJ > ADJ ] --- *Transitiv Opiniativ* {.unnumbered}
 
-### [ –NA | NpA ] *wissen + Partizip* Transtive opiniative novative {#sec:participles-wissen-commutative}
+### [ –NA | NpA ] *wissen + Partizip* Transtive opiniative {#sec:participles-wissen-commutative}
 
 ::: ex
 a. Das Archiv hebt den Nachlass auf.
@@ -1624,13 +1624,13 @@ b. Ich weiß den Nachlass im Archiv gut aufgehoben.
 **Examples**
 
 - Ich weiß die Ostgebiete dem Kontrollrat unterstellt.
-- ... wenn er die materiellen Fragen vor der Eheschließung geregelt weiß. (DWDS: Gerling, Reinhold: Was muß man vor der Ehe von der Ehe wissen? In: ders., Das große Aufklärungswerk für Braut- und Eheleute, Dresden: Buchversand Gutenberg 1933 [1901], S. 207 )
-- Sie schob den Hausarzt vor, den sie von dem Jungen wie einen Freund geliebt wußte. (DWDS: Bodenreuth, Friedrich [d.i. Jaksch, Friedrich]: Alle Wasser Böhmens fließen nach Deutschland, Berlin: Büchergilde Gutenberg 1938 [1937], S. 22)
+- ... wenn er die materiellen Fragen vor der Eheschließung geregelt weiß.^[~~DWDS~~: Gerling, Reinhold: Was muß man vor der Ehe von der Ehe wissen? In: ders., Das große Aufklärungswerk für Braut- und Eheleute, Dresden: Buchversand Gutenberg 1933 [1901], S. 207 .]
+- Sie schob den Hausarzt vor, den sie von dem Jungen wie einen Freund geliebt wußte.^[~~DWDS~~: Bodenreuth, Friedrich [d.i. Jaksch, Friedrich]: Alle Wasser Böhmens fließen nach Deutschland, Berlin: Büchergilde Gutenberg 1938 [1937], S. 22.]
 
 Stacked with modal verbs:
 
-- Mancher Regierungsvertreter möchte es so verstanden wissen. (DWDS: Die Zeit, 17.09.2017)
-- Wenn ich dich nicht so gut aufgehoben gewußt hätte, wäre ich Dir nachgefahren! (DWDS: Müller-Jahnke, Clara: Ich bekenne. In: Deutsche Literatur von Frauen, Berlin: Directmedia Publ. 2001 [1904], S. 52626)
+- Mancher Regierungsvertreter möchte es so verstanden wissen.^[~~DWDS~~: Die Zeit, 17.09.2017.]
+- Wenn ich dich nicht so gut aufgehoben gewußt hätte, wäre ich Dir nachgefahren.^[~~DWDS~~: Müller-Jahnke, Clara: Ich bekenne. In: Deutsche Literatur von Frauen, Berlin: Directmedia Publ. 2001 [1904], S. 52626.]
 
 Stacked with self-inflicting reflexive alternation:
 
@@ -1643,12 +1643,12 @@ Stacked with self-inflicting reflexive alternation:
 - Sie wussten sich durch ihn gewahrt.
 - Sie wusste sich beschützt.
 
-### [ –NA | NpA ] *glauben + Partizip* Transtive opiniative novative
+### [ –NA | NpA ] *glauben + Partizip* Transtive opiniative
 
 ::: ex
 a. Der Wind zerreist das Seil.
 b. Er glaubt das Seil vom Wind zerrissen. \
-   = Er glaubt, dass das Seil vom Wind zerrissen ist.
+   (= Er glaubt, dass das Seil vom Wind zerrissen ist.)
 :::
 
 **Attested Verbs**
@@ -1659,14 +1659,14 @@ b. Er glaubt das Seil vom Wind zerrissen. \
 
 - Er glaubte den Ring verloren.
 - Er glaubte den Sieg erreicht.
-- Hörte man ihn, man wunderte sich und glaubt ihn entschuldigt, Ja er hatte noch übriges Recht und vieles zu klagen. (DWDS: Goethe, Johann Wolfgang von: Reinecke Fuchs. In zwölf Gesängen. Berlin, 1794)
+- Hörte man ihn, man wunderte sich und glaubt ihn entschuldigt, Ja er hatte noch übriges Recht und vieles zu klagen.^[~~DWDS~~: Goethe, Johann Wolfgang von: Reinecke Fuchs. In zwölf Gesängen. Berlin, 1794.]
 
 Stacked with self-inflicting reflexive alternation:
 
 - Er glaubte sich verraten/zurückversetzt/verfolgt/benachteiligt.
-- Weil sie sich von ihrem Vater nicht geliebt glaubte, flüchtete Irmgard mit 17 Jahren trotzig zu den Diakonissinnen, um Krankenschwester zu werden. (DWDS: Leinemann, Jürgen, Dr Spiegel 09.05.1988, S.140)
+- Weil sie sich von ihrem Vater nicht geliebt glaubte, flüchtete Irmgard mit 17 Jahren trotzig zu den Diakonissinnen, um Krankenschwester zu werden.^[~~DWDS~~: Leinemann, Jürgen, Dr Spiegel 09.05.1988, S.140.]
 
-### [ –NA | NpA ] *sehen + Partizip* Transtive opiniative novative
+### [ –NA | NpA ] *sehen + Partizip* Transtive opiniative
 
 ::: ex
 a. Der Autor bricht das Vertrauen.
@@ -1679,16 +1679,16 @@ b. Die Zeitung sieht das Vertauen duch den Autor gebrochen.
 
 **Examples**
 
-- Während die WAZ das Vertrauen und den Gesellschaftervertrag gebrochen sieht und juristisch gegen Dichand vorgeht, wehrt sich Dichand publizistisch. (DWDS: Der Tagesspiegel, 24.01.2003 )
+- Während die WAZ das Vertrauen und den Gesellschaftervertrag gebrochen sieht und juristisch gegen Dichand vorgeht, wehrt sich Dichand publizistisch.^[~~DWDS~~: Der Tagesspiegel, 24.01.2003 .]
 
 Stacked with self-inflicting reflexive alternation:
 
 - Ich sehe mich bestätigt.
 - Ich sehe mich gezwungen/genötigt/verpflichtet, dass ...
 - Ich sehe mich bestärkt durch viele Diskussionen und Privatmeinungen.
-- Auch der Verwaltungsrath der »Steyrermühl« hat sich bemüssigt gesehen, einen Rechtfertigungsversuch wegen der von ihm begangenen Stempelentwendung zu unternehmen. (DWDS: Kraus, Karl, Die Fackel, 20.03.1900, S.9)
+- Auch der Verwaltungsrath der »Steyrermühl« hat sich bemüssigt gesehen, einen Rechtfertigungsversuch wegen der von ihm begangenen Stempelentwendung zu unternehmen.^[~~DWDS~~: Kraus, Karl, Die Fackel, 20.03.1900, S.9.]
 
-### [ –NA | NpA ] *finden + Partizip* Transtive opiniative novative
+### [ –NA | NpA ] *finden + Partizip* Transtive opiniative
 
 ::: ex
 a. Das Alter verändert mich.
@@ -1707,7 +1707,7 @@ Stacked with self-inflicting reflexive alternation:
 
 - Er fand sich bestätigt.
 - Sie fand sich genötigt, ja zu sagen.
-- Es heißt, sie habe sich damals in einem Interview falsch zitiert gefunden. (DWDS: Die Zeit, 14.06.2010)
+- Es heißt, sie habe sich damals in einem Interview falsch zitiert gefunden.^[~~DWDS~~: Die Zeit, 14.06.2010.]
 
 ### --- [ ADJ > SBJ > OBJ ] --- {.unnumbered}
 
@@ -1754,9 +1754,9 @@ b. Der Ring geht mir verloren.
 
 **Examples**
 
-- Und mit ein wenig Glück hätte das Spiel auch gewonnen gehen können. (DWDS: Die Zeit, 16.11.2013, Nr. 47)
-- "Natürlich denke ich darüber nach, weshalb ich das tue", sagt sie jetzt, den Blick auf die Straße gerichtet, "wie viel Lebensqualität mir verloren geht, was das überhaupt bringt." (DWDS: Die Zeit, 09.07.2017, Nr. 28)
-- "Sehen Sie," rief der Prinz mit Verdrusse, wie Sie sich von der Oberfläche hintergehen lassen, und wie leicht Sie mir gewonnen gehen! (DWDS: Schiller, Friedrich: Der Geisterseher. Leipzig, 1789.)
+- Und mit ein wenig Glück hätte das Spiel auch gewonnen gehen können.^[~~DWDS~~: Die Zeit, 16.11.2013, Nr. 47.]
+- "Natürlich denke ich darüber nach, weshalb ich das tue", sagt sie jetzt, den Blick auf die Straße gerichtet, "wie viel Lebensqualität mir verloren geht, was das überhaupt bringt."^[~~DWDS~~: Die Zeit, 09.07.2017, Nr. 28.]
+- "Sehen Sie," rief der Prinz mit Verdrusse, wie Sie sich von der Oberfläche hintergehen lassen, und wie leicht Sie mir gewonnen gehen!^[~~DWDS~~: Schiller, Friedrich: Der Geisterseher. Leipzig, 1789.]
 
 ### --- [ Ø > SBJ > Ø ] --- {.unnumbered}
 

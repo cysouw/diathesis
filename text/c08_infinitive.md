@@ -204,7 +204,7 @@ Ersatzinfinitiv!
 - Er hat seinen Teller auf den Tisch stehen. ("ihm steht der Teller auf den Tisch.")
 - Ich habe das Auto hier stehen. ("Mein Auto steht hier.")
 - Er hat einen Tropfen an der Nase hängen. ("Ein Tropfen hängt ihm an seiner Nase.")
-- Viola Kleßmann aus Charlottenburg gehört nicht zu denen, die am Ende einen roten Punkt an ihrer Teilnehmernummer kleben haben. (DWDS: Berliner Zeitung, 28.07.2003)
+- Viola Kleßmann aus Charlottenburg gehört nicht zu denen, die am Ende einen roten Punkt an ihrer Teilnehmernummer kleben haben.^[~~DWDS~~: Berliner Zeitung, 28.07.2003.]
 
 
 ### --- [ Ø > SBJ > OBJ ] Causatives --- {.unnumbered}

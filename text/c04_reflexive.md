@@ -73,7 +73,7 @@ The pronoun *sich* always refers to the nominative subject [@next a], except in 
 ::: ex
 a.  Ich wasche mich.
 b.  Er lässt mich mich waschen.
-c.  Laß mich mich an dir ergetzen - bin so wild, seit ich dich sah, Venus Amathusia! (DWDS: Tucholsky, Kurt: Zwischen den Schlachten. In: Kurt Tucholsky, Werke - Briefe - Materialien, Berlin: Directmedia Publ. 2000 [1919])
+c.  Laß mich mich an dir ergetzen - bin so wild, seit ich dich sah, Venus Amathusia.^[~~DWDS~~: Tucholsky, Kurt: Zwischen den Schlachten. In: Kurt Tucholsky, Werke - Briefe - Materialien, Berlin: Directmedia Publ. 2000 [1919].]
 :::
 
 With light verb constructions, intended coreference with the nominative subject cannot be marked with *sich* anymore [@next a,b].
@@ -108,7 +108,7 @@ c.  Er wäscht sich die Haare.
 Genitive arguments are vanishing from the German language, so it is difficult to find examples of a proper genitive argument coreferent with the nominative subject [@next].
 
 ::: ex
-Ich erinnre mich meiner, wie ich, Dich liebend. (DWDS: Die Zeit, 09.06.1961, Nr. 24)
+Ich erinnre mich meiner, wie ich, Dich liebend.^[~~DWDS~~: Die Zeit, 09.06.1961, Nr. 24.]
 :::
 
 ### Double coreference
@@ -128,7 +128,7 @@ A small group of verbs obligatorily needs a reflexive pronoun coreferencing the 
 ::: ex
 a.  Ich bemühe mich.
 b.  ^^?^ Ich bemühe dich.
-c.  Leider kann ich es nicht ganz auswendig, sonst brauchte ich dich nicht zu bemühen. (DWDS: E. Strauß Spiegel 45)
+c.  Leider kann ich es nicht ganz auswendig, sonst brauchte ich dich nicht zu bemühen.^[~~DWDS~~: E. Strauß Spiegel 45.]
 :::
 
 ::: ex
@@ -401,7 +401,7 @@ A dative *sich* with an obligatory accusative is clearly attested, though not ve
 The verb *denken* only occurs in this structure in the rather old-fashioned usage with the meaning 'to imagine' [@next].
 
 ::: ex
-Ich denke mir den Vorgang in folgender Weise. (DWDS: Weismann, August: Das Keimplasma. Eine Theorie der Vererbung. Jena, 1892.)
+Ich denke mir den Vorgang in folgender Weise.^[~~DWDS~~: Weismann, August: Das Keimplasma. Eine Theorie der Vererbung. Jena, 1892.]
 :::
 
 The verb *merken* only occurs in this structure in the meaning 'to remember' [@next a], and not in the usage of *bemerken* [@next b] or *anmerken* [@next c].
@@ -469,7 +469,7 @@ b.  Die Rebellen ergeben sich der Polizei.
 
 This *ergeben* 'capitulate' is different from the prepositional passive *ergeben* 'result in'. The verb *ergeben* 'capitulate' formerly allowed a regular (non-reflexive) accusative argument with a meaning similar to modern *übergeben* 'turn over'. Today this is not possible anymore.
 
-- Ich ergebe ihn der süssen Gnade unsers Herrn Jesu Christi. (DWDS: Scriver, Christian: Das Verlohrne und wiedergefundene Schäfflein. Magdeburg, 1672.)
+- Ich ergebe ihn der süssen Gnade unsers Herrn Jesu Christi.^[~~DWDS~~: Scriver, Christian: Das Verlohrne und wiedergefundene Schäfflein. Magdeburg, 1672.]
 
 ### [ ND | NP ] Obligatory accusative reflexive + dative antipassive
 
@@ -478,7 +478,7 @@ In some of the (uncommon) verbs with an accusative *sich* and dative argument [@
 ::: ex
 a.  Ich füge mich dem Gesetz.
 b.  Ich füge mich in meinem Schicksal. 
-c.  Die machistische Gesellschaft hat sich nicht geändert und die meisten Frauen fügen sich darin. (DWDS: Die Zeit, 07.11.2013, Nr. 44)
+c.  Die machistische Gesellschaft hat sich nicht geändert und die meisten Frauen fügen sich darin.^[~~DWDS~~: Die Zeit, 07.11.2013, Nr. 44.]
 :::
 
 **Attested Verbs**
@@ -590,7 +590,7 @@ d.  Ich sehe, dass sie ausruht.
 The verb *irren* without reflexive pronoun also seems to be old-fashioned [@next].
 
 ::: ex
-Es irrt der Mensch so lang er strebt (DWDS: Goethe, Faust: Prolog 317)
+Es irrt der Mensch so lang er strebt.^[~~DWDS~~: Goethe, Faust: Prolog 317.]
 :::
 
 ### [ NP | NP ] Free accusative reflexive + governed preposition {#sec:reflexive-free-preposition}
@@ -680,14 +680,14 @@ c.  Ich habe mir das Haus angesehen.
 - Er überlegte die Wirkung. Er überlegte sich eine Lösung.
 - Die Mannschaft hat den Sieg erspielt. Die Mannschaft hat sich den Sieg erspielt
 - Ich erhandele ein Vorrecht. Ich erhandele mir ein Vorrecht.
-- Das genügt den Theoretikern jedoch, sich vier Arten von schwarzen Löchern zu erdenken. (DWDS: Die Zeit, 27.08.1971, Nr. 35)
+- Das genügt den Theoretikern jedoch, sich vier Arten von schwarzen Löchern zu erdenken.^[~~DWDS~~: Die Zeit, 27.08.1971, Nr. 35.]
 
 **Notes**
 
 The verb *ausdenken* 'to contrive' without reflexive pronoun appears to be old-fashioned [@next].
 
 ::: ex
-Da dachte er eine List aus. (DWDS: Grimm *Simeliberg*)
+Da dachte er eine List aus.^[~~DWDS~~: Grimm *Simeliberg*.]
 :::
 
 The verb *ersparen* 'to save money' has a free reflexive [@next a,b]. The same verb can also mean 'to spare somebody something'. In that meaning it takes dative and accusative arguments [@next c].
@@ -762,7 +762,7 @@ Verbs with a dative argument (see Section X) can often be used reflexively, alth
 ::: ex
 a.  Ich begegne mir selbst mit größter Achtung.
 b.  Ich antworte mir dann mal selber.
-c.  Ich gleiche mir nicht einen Augenblick. (DWDS: Goethe: Schertz, List und Rache)
+c.  Ich gleiche mir nicht einen Augenblick.^[~~DWDS~~: Goethe: Schertz, List und Rache.]
 :::
 
 Note: also possible with "free" datives?
@@ -955,9 +955,9 @@ d.  Das Kind heult sich die Augen aus dem Kopf.
 
 **Examples**
 
-- Unkontrollierbar von einer Seite zur anderen schaukelte das Kleinkind und heulte sich die Augen aus dem Kopf, als Rupa Joshi den Raum betrat. (DWDS: Die Zeit, 11.05.2015, Nr. 19)
-- Sven Hannawald schreit sich die Seele aus dem Leib. (DWDS: Die Zeit, 07.01.2018)
-- An einem Abend in Davos sitzt ein Amerikaner chinesischer Herkunft in einem dunklen Pub und trinkt sich die Sorgen von der Seele. (DWDS: Die Zeit, 20.01.2017)
+- Unkontrollierbar von einer Seite zur anderen schaukelte das Kleinkind und heulte sich die Augen aus dem Kopf, als Rupa Joshi den Raum betrat.^[~~DWDS~~: Die Zeit, 11.05.2015, Nr. 19.]
+- Sven Hannawald schreit sich die Seele aus dem Leib.^[~~DWDS~~: Die Zeit, 07.01.2018.]
+- An einem Abend in Davos sitzt ein Amerikaner chinesischer Herkunft in einem dunklen Pub und trinkt sich die Sorgen von der Seele.^[~~DWDS~~: Die Zeit, 20.01.2017.]
 - Sie tanzen/schreien sich die Seele aus dem Leib.
 - Sie rempelten rücksichtslos. Sie rempeln sich die Pakete aus der Hand.
 - Er trank sich den Stress aus dem Körper.
@@ -1389,8 +1389,8 @@ The term "autocausative" is used by Geniušiené (1987: 183-184, 198-200) to des
 a.  Er versteckt das Geschenk.
 b.  Er versteckt sich.
 c.  Er versteckt sich und das Geschenk.
-d.  Politiker verstecken sich und ihre Botschaften hinter verschwurbelten Sätzen. (DWDS: Die Zeit, 30.11.2009, Nr. 49)
-e.  Sie verstecken sich und ihre Waffen. (DWDS: Die Zeit, 31.10.2001, Nr. 45)
+d.  Politiker verstecken sich und ihre Botschaften hinter verschwurbelten Sätzen.^[~~DWDS~~: Die Zeit, 30.11.2009, Nr. 49.]
+e.  Sie verstecken sich und ihre Waffen.^[~~DWDS~~: Die Zeit, 31.10.2001, Nr. 45.]
 :::
 
 The autocausative aspect most clearly emerges with verbs that hurt the body, like *verbrennen* 'to burn' [@next] or *schneiden* 'to cut'. The usage of these verbs with a reflexive pronoun normally implies that the body is only partially inflicted, i.e. only a part of the body is burned or cut. For this reason, the conjunction in [@next c] is strange and would only make sense in a context in which somebody would burn himself completely (cf. Elias Canetti's novel *Die Blendung*).
@@ -1431,7 +1431,7 @@ c. ^* Die Krankheit äußert den Fieber.
 It appears to be that *sich verschlafen* is getting old-fashioned. 
 
 ::: ex
-Ach, Johanna, ich glaube, ich habe mich verschlafen. (DWDS: Fontane, Theodor: Effi Briest. Berlin, 1896.)
+Ach, Johanna, ich glaube, ich habe mich verschlafen.^[~~DWDS~~: Fontane, Theodor: Effi Briest. Berlin, 1896.]
 :::
 
 ### [ NAL | N–L ] Reflexive accusative drop + locative
@@ -1441,7 +1441,7 @@ Though similar to the previous 'autocausative' alternations, the alternation in 
 ::: ex
 a.  Er wirft die Kleider aufs Bett.
 b.  Er wirft sich aufs Bett.
-c.  Die Frauen warfen sich und ihre Kinder vor mein Pferd und baten um Hilfe. (DWDS: Die Zeit, 23.03.2005, Nr. 13)
+c.  Die Frauen warfen sich und ihre Kinder vor mein Pferd und baten um Hilfe.^[~~DWDS~~: Die Zeit, 23.03.2005, Nr. 13.]
 :::
 
 **Attested Verbs**
@@ -1626,8 +1626,8 @@ d.  ^* Ich träume mich.
 - Ich kämpfe mit den Wellen. Ich kämpfe mich durch die Wellen.
 - Ich lüge über mein Leben. Ich lüge mich durch mein Leben.
 - Die Motten fressen von/an den Pullover. Die Motten fressen sich durch den Pullover.
-- Bevor ich auf das Wasser gehe, muss ich meine Kür exakt im Kopf haben, ich denke mich quasi durch meinen Trick. (DWDS: Die Zeit, 16.06.2009, Nr. 25)
-- Er zitterte vor der Prüfung. Würzburg zitterte sich am Ende in die Playoffs. (DWDS: Die Zeit, 07.05.2016)
+- Bevor ich auf das Wasser gehe, muss ich meine Kür exakt im Kopf haben, ich denke mich quasi durch meinen Trick.^[~~DWDS~~: Die Zeit, 16.06.2009, Nr. 25.]
+- Er zitterte vor der Prüfung. Würzburg zitterte sich am Ende in die Playoffs.^[~~DWDS~~: Die Zeit, 07.05.2016.]
 - Schalke schießt sich aus der Krise. (https://www.faz.net/aktuell/sport/2-0-gegen-hannover-schalke-schiesst-sich-aus-der-krise-1258798.html)
 
 ### --- [ OBJ > OBJ ] --- {.unnumbered}

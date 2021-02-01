@@ -29,6 +29,12 @@ header-includes:
   a:hover { 
     text-decoration: underline; 
   }
+  .footnote-ref {
+    font-size: smaller;
+  }
+  sup {
+    vertical-align: top;
+  }
   div [id^="tbl"] table {
     margin-left: auto;
     margin-right: auto;

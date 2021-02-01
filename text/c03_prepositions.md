@@ -418,9 +418,9 @@ Some dictionaries list *hapern* 'to be lacking' as having obligatory *es* [@next
 
 ::: ex
 a.  Es hapert an der Versorgung.
-b.  Denn der Vergleich hapert immer. (DWDS: Die Zeit, 29.12.2010, Nr. 52)
-c.  Eine mögliche Wiedergeburt der Grünen [...] hapert an drei Stellen. (DWDS: Der Tagesspiegel, 26.03.2001)
-d.  Nur bei den Bässen hapert der Nachschub. (DWDS: Die Zeit, 19.03.1993, Nr. 12)
+b.  Denn der Vergleich hapert immer.^[~~DWDS~~: Die Zeit, 29.12.2010, Nr. 52.]
+c.  Eine mögliche Wiedergeburt der Grünen [...] hapert an drei Stellen.^[~~DWDS~~: Der Tagesspiegel, 26.03.2001.]
+d.  Nur bei den Bässen hapert der Nachschub.^[~~DWDS~~: Die Zeit, 19.03.1993, Nr. 12.]
 :::
 
 ### --- [ SBJ > ADJ ] --- {.unnumbered}
@@ -1404,7 +1404,7 @@ c.  Ich erinnere dich daran, dass du Milch kaufen sollst.
 
 The verb *entbinden* can be used as an intransitive verb with a meaning of 'to give birth'. In the meaning as discussed here it seems not to be possible to completely drop the genitive or *von* phrase. This also seems to hold for *entheben* and *verweisen*. The usage of *befreien* with a Genitive seems to be lost in the 19th Century.
 
-- Das allgemeine Völkerrecht befreit die Person des feindlichen Regenten (DWDS: Klüber, Johann Ludwig: Europäisches Völkerrecht. Bd. 2. Stuttgart, 1821.)
+- Das allgemeine Völkerrecht befreit die Person des feindlichen Regenten.^[~~DWDS~~: Klüber, Johann Ludwig: Europäisches Völkerrecht. Bd. 2. Stuttgart, 1821.]
 
 ## Diatheses with promotion to object
 

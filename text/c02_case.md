@@ -370,10 +370,10 @@ b.  ^* Ein Egoist wird dich genannt.
 
 **Examples**
 
-- UN-Beamte und internationale Medien heißen den 59-Jährigen weniger schmeichelhaft einen »Psychopathen« oder »Afrikas Miloevi«. (DWDS: Die Zeit, 24.05.2007, Nr. 22)
-- Er nennt den Gründer der Sowjetunion einen Verräter. (DWDS: Die Zeit, 31.10.2017 online)
-- Sie schelten den A380 schon vor dem ersten Linienflug einen Dinosaurier. (DWDS: Die Zeit, 06.10.2005, Nr. 41)
-- Konservative schimpfen den Präsidenten schon einen Sozialisten. (DWDS: Die Zeit, 30.04.2009, Nr. 19)
+- UN-Beamte und internationale Medien heißen den 59-Jährigen weniger schmeichelhaft einen »Psychopathen« oder »Afrikas Miloevi«.^[~~DWDS~~: Die Zeit, 24.05.2007, Nr. 22.]
+- Er nennt den Gründer der Sowjetunion einen Verräter.^[~~DWDS~~: Die Zeit, 31.10.2017 online.]
+- Sie schelten den A380 schon vor dem ersten Linienflug einen Dinosaurier.^[~~DWDS~~: Die Zeit, 06.10.2005, Nr. 41.]
+- Konservative schimpfen den Präsidenten schon einen Sozialisten.^[~~DWDS~~: Die Zeit, 30.04.2009, Nr. 19.]
 
 ## Alternations without diathesis
 
@@ -485,7 +485,7 @@ Because this diathesis is unmarked it is difficult to decide whether this should
 - Ich habe (dir) den Ausweis abgenommen. Der Regen hat abgenommen. Der Ausweis ist abgenommen.
 - Ich habe das Werk angefangen. Der Film hat angefangen. Das Werk ist angefangen, aber nicht vollendet.
 - Er hat mich geduscht. Ich habe geduscht.
-- Er zählt mich zu den Menschen. Ich habe zu den Menschen gezählt. Die Tage sind gezählt (DWDS).
+- Er zählt mich zu den Menschen. Ich habe zu den Menschen gezählt. Die Tage sind gezählt.
 - Ich habe das Boot umgedreht. Das Boot hat umgedreht. Das Boot ist umgedreht.
 - Ich habe die Bombe gezündet. Die Bombe hat gezündet.
 
@@ -709,7 +709,7 @@ d.  Er nennt den Namen des Kindes.
 
 **Examples**
 
-- Die alte Dame fragt den Schüler Englischvokabeln ab. (DWDS: Die Zeit, 19.11.2009, Nr. 48) 
+- Die alte Dame fragt den Schüler Englischvokabeln ab.^[~~DWDS~~: Die Zeit, 19.11.2009, Nr. 48.] 
 
 **Notes**
 
@@ -1131,8 +1131,8 @@ b.  Man achtete uns nicht.
 
 **Examples**
 
-- Es ist gut zu Markte zu gehen bei ihnen, denn sie achten des Reichtums und Goldbesitzes gar gering. (DWDS: Perutz, Leo: Die dritte Kugel, Reinbek bei Hamburg: Rowohlt 1988 [1915], S. 36)
-- Niemand achtete des gähnenden Abgrundes, (DWDS: May, Karl: Winnetou IV, Berlin: Neues Leben 1993 [1910], S. 435)
+- Es ist gut zu Markte zu gehen bei ihnen, denn sie achten des Reichtums und Goldbesitzes gar gering.^[~~DWDS~~: Perutz, Leo: Die dritte Kugel, Reinbek bei Hamburg: Rowohlt 1988 [1915], S. 36.]
+- Niemand achtete des gähnenden Abgrundes.^[~~DWDS~~: May, Karl: Winnetou IV, Berlin: Neues Leben 1993 [1910], S. 435.]
 
 ### [ NGA | NAD ] Genitive-to-accusative + accusative-to-dative {#sec:case-genitive-accusative-dative-swap}
 

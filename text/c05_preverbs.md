@@ -358,7 +358,7 @@ a.  Die Verzögerung hat den Reisenden geärgert.
 b.  Die Verzögerung hat den Reisenden verärgert.
 c.  ^* Der geärgerte Reisende. * Der Reisende ist geärgert.
 d.  Der verärgerte Reisende. Der Reisende ist verärgert.
-e.  Der geärgerte Schulkamerad schrieb: (DWDS: Büchner, Georg: Sämmtliche Werke und handschriftlicher Nachlaß. Frankfurt (Main), 1879.)
+e.  Der geärgerte Schulkamerad schrieb:^[~~DWDS~~: Büchner, Georg: Sämmtliche Werke und handschriftlicher Nachlaß. Frankfurt (Main.], 1879.)
 :::
 
 **Attested Verbs**

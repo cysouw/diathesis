@@ -936,7 +936,7 @@ Likewise, the *lassen + Infinitiv* diathesis [@next], see [@sec:infinitive-lasse
 
 a. Der Junge schläft ein.
 b. Ich lasse den Jungen einschlafen. \
-   = Ich sorge dafür, dass der Junge einschläft.
+   (= Ich sorge dafür, dass der Junge einschläft.)
 :::
 
 ::: ex
@@ -944,7 +944,7 @@ b. Ich lasse den Jungen einschlafen. \
 
 a. Der Junge schläft.
 b. Ich lasse den Jungen schlafen. \
-   = Ich erlaube, das der Junge weiter schäft.
+   (= Ich erlaube, das der Junge weiter schäft.)
 :::
  
 A ~~reversed passive [ADJ › SBJ › OBJ]~~ demotes the subject to object and at the same time promotes a new subject from an erstwhile adjunct role. An example in German is the diathesis from *erben* 'to inherit' to *enterben* 'to disinherit' [@next a,b], see [@sec:preverb-inverted-passive-accusative-loss]. This is semantically very close to a causative ~~[Ø › SBJ › OBJ]~~, in which the newly introduced causer can sometimes be expressed as an adjunct [@next c,d]. This affinity between a reversed passive and a causative is reminiscent of the affinity between a passive and an anticausative. In both pairs, the difference amounts to a switch between the closely related macro-role of an optional adjunct ~~(ADJ)~~ and being completely unexpressed ~~(Ø)~~.

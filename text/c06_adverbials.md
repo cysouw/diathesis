@@ -537,7 +537,7 @@ d.  Ich binde den Hund los.
 
 **Examples**
 
-- Die Arbeiter klopfen die Pflastersteine in den Bürgersteig. Die Arbeiter klopfen die letzten Pflastersteine fest. (DWDS: Bild, 28.04.2005)
+- Die Arbeiter klopfen die Pflastersteine in den Bürgersteig. Die Arbeiter klopfen die letzten Pflastersteine fest.^[~~DWDS~~: Bild, 28.04.2005.]
 
 ### --- [ OBJ > ADJ ] Antipassive --- {.unnumbered}
 
