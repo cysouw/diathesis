@@ -120,7 +120,7 @@ Further, many intransitive verbs with a *haben* perfect can be used with a resul
 a. Er hat geweint. \
    Ich höre laute Schreie und unverständlich *geweinte Worte* aus dem Nebenzimmer.^[~~DWDS~~: Die Zeit, 11.01.2006, Nr. 02.]
 b. Er hat getanzt. \
-   Besonders der im Biedermeierkostüm *getanzte Aschenbrödeltanz* mit Vertonung von Zepler ergab wirkungsvolle Bilder.^[~~DWDS~~: Berliner Tageblatt (Abend-Ausgabe.], 12.03.1918)
+   Besonders der im Biedermeierkostüm *getanzte Aschenbrödeltanz* mit Vertonung von Zepler ergab wirkungsvolle Bilder.^[~~DWDS~~: Berliner Tageblatt (Abend-Ausgabe, 12.03.1918.]
 :::
 
 An even more intricate detail occurs with some movement verbs like *laufen* 'to walk'. When used with a directional phrase like *nach Hause* 'home' this verb takes the auxiliary *sein* [@next a]
@@ -1467,7 +1467,7 @@ b. Die Worte stehen auf der Titelseite geschrieben.
 
 **Examples**
 
-- Vielleicht auch, weil er weiß, dass die Truppen hinter ihm nicht geschlossen stehen.^[~~DWDS~~: Berliner Zeitung, 12.10.2004: .]
+- Vielleicht auch, weil er weiß, dass die Truppen hinter ihm nicht geschlossen stehen.^[~~DWDS~~: Berliner Zeitung, 12.10.2004.]
 - Wenn die SPD nicht geschlossen stehe, werde es schwierig, den Wahlkampf durchzustehen.^[~~DWDS~~: Die Zeit, 29.09.2012, Nr. 40.]
 - 
 ### --- [ ADJ > SBJ > Ø ] --- {.unnumbered}
@@ -1624,7 +1624,7 @@ b. Ich weiß den Nachlass im Archiv gut aufgehoben.
 **Examples**
 
 - Ich weiß die Ostgebiete dem Kontrollrat unterstellt.
-- ... wenn er die materiellen Fragen vor der Eheschließung geregelt weiß.^[~~DWDS~~: Gerling, Reinhold: Was muß man vor der Ehe von der Ehe wissen? In: ders., Das große Aufklärungswerk für Braut- und Eheleute, Dresden: Buchversand Gutenberg 1933 [1901], S. 207 .]
+- ... wenn er die materiellen Fragen vor der Eheschließung geregelt weiß.^[~~DWDS~~: Gerling, Reinhold: Was muß man vor der Ehe von der Ehe wissen? In: ders., Das große Aufklärungswerk für Braut- und Eheleute, Dresden: Buchversand Gutenberg 1933 [1901], S. 207.]
 - Sie schob den Hausarzt vor, den sie von dem Jungen wie einen Freund geliebt wußte.^[~~DWDS~~: Bodenreuth, Friedrich [d.i. Jaksch, Friedrich]: Alle Wasser Böhmens fließen nach Deutschland, Berlin: Büchergilde Gutenberg 1938 [1937], S. 22.]
 
 Stacked with modal verbs:
@@ -1679,7 +1679,7 @@ b. Die Zeitung sieht das Vertauen duch den Autor gebrochen.
 
 **Examples**
 
-- Während die WAZ das Vertrauen und den Gesellschaftervertrag gebrochen sieht und juristisch gegen Dichand vorgeht, wehrt sich Dichand publizistisch.^[~~DWDS~~: Der Tagesspiegel, 24.01.2003 .]
+- Während die WAZ das Vertrauen und den Gesellschaftervertrag gebrochen sieht und juristisch gegen Dichand vorgeht, wehrt sich Dichand publizistisch.^[~~DWDS~~: Der Tagesspiegel, 24.01.2003.]
 
 Stacked with self-inflicting reflexive alternation:
 
@@ -1701,7 +1701,7 @@ b. Du findest mich vom Alter verändert?
 
 **Examples**
 
-- Um die Sache zu prüfen, habe er im Urlaub mal einen Nacktbadestrand aufgesucht - und dort das Bild aus der Sauna bestätigt gefunden. (DWDS: Die Zeit, 15.02.2016
+- Um die Sache zu prüfen, habe er im Urlaub mal einen Nacktbadestrand aufgesucht - und dort das Bild aus der Sauna bestätigt gefunden.^[~~DWDS~~: Die Zeit, 15.02.2016.]
 
 Stacked with self-inflicting reflexive alternation:
 
