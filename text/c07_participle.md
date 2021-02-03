@@ -38,17 +38,17 @@ After all adverbial uses are discarded, there still turn out to be many auxiliar
 
 The following eleven diatheses seem prominent enough to grant them a German name. I propose the following names:
 
-- [~~[SBJ › Ø]~~ *werden* ~~Unpersönlicher Passiv~~](@lg:unpersonlicherpassiv) (see [@sec:participles-werden-impersonal-passive])
-- [~~[OBJ › SBJ › ADJ]~~ *werden* ~~Vorgangspassiv~~](@lg:vorgangspassiv) (see [@sec:participles-werden-passive])
-- [~~[OBJ › SBJ › ADJ]~~ *bekommen/kriegen/erhalten* ~~Rezipientenpassiv~~](@lg:rezipientenpassiv) (see [@sec:participles-bekommen-passive])
-- [~~[ADJ › OBJ › SBJ › Ø]~~ *haben* ~~Pertinenzpassiv~~](@lg:pertinenzpassiv) (see [@sec:participles-haben-passive])
-- [~~[OBJ › SBJ › PBJ]~~ *sein* ~~Erlebnispassiv~~](@lg:erlebnispassiv) (see [@sec:participles-sein-conversive])
-- [~~[OBJ › SBJ › Ø]~~ *sein* ~~Zustandspassiv~~](@lg:zustandspassiv) (see [@sec:participles-sein-zustandspassiv])
-- [~~[OBJ › SBJ › Ø]~~ *bleiben* ~~Kontinuativpassiv~~](@lg:kontinuativpassiv) (see [@sec:participles-bleiben-transitive])
-- [~~[OBJ › SBJ › Ø]~~ *gehören* ~~Pflichtspassiv~~](@lg:pflichtspassiv) (see [@sec:participles-gehoren-anticausative])
-- [~~[OBJ › SBJ › Ø]~~ *geben* ~~Hingabepassiv~~](@lg:hingabepassiv) (see [@sec:participles-geben-reflexive-anticausative])
-- [~~[OBJ › SBJ › Ø]~~ *aussehen/(er)scheinen/wirken* ~~Askriptionspassiv~~](@lg:askriptionspassiv) (see [@sec:participles-aussehen-anticausative]ff.)
-- [~~[Ø › SBJ › OBJ/ADJ]~~ *wissen/glauben/sehen/finden* ~~Opiniativ~~](@lg:opiniativ) (see [@sec:participles-promotion-to-subject]ff.)
+- ~~[SBJ › Ø]~~ *werden* ~~Unpersönlicher Passiv~~ (see [@sec:participles-werden-impersonal-passive])
+- ~~[OBJ › SBJ › ADJ]~~ *werden* ~~Vorgangspassiv~~ (see [@sec:participles-werden-passive])
+- ~~[OBJ › SBJ › ADJ]~~ *bekommen/kriegen/erhalten* ~~Rezipientenpassiv~~ (see [@sec:participles-bekommen-passive])
+- ~~[ADJ › OBJ › SBJ › Ø]~~ *haben* ~~Pertinenzpassiv~~ (see [@sec:participles-haben-passive])
+- ~~[OBJ › SBJ › PBJ]~~ *sein* ~~Erlebnispassiv~~ (see [@sec:participles-sein-conversive])
+- ~~[OBJ › SBJ › Ø]~~ *sein* ~~Zustandspassiv~~ (see [@sec:participles-sein-zustandspassiv])
+- ~~[OBJ › SBJ › Ø]~~ *bleiben* ~~Kontinuativpassiv~~ (see [@sec:participles-bleiben-transitive])
+- ~~[OBJ › SBJ › Ø]~~ *gehören* ~~Pflichtspassiv~~ (see [@sec:participles-gehoren-anticausative])
+- ~~[OBJ › SBJ › Ø]~~ *geben* ~~Hingabepassiv~~ (see [@sec:participles-geben-reflexive-anticausative])
+- ~~[OBJ › SBJ › Ø]~~ *aussehen/(er)scheinen/wirken* ~~Askriptionspassiv~~ (see [@sec:participles-aussehen-anticausative]ff.)
+- ~~[Ø › SBJ › OBJ/ADJ]~~ *wissen/glauben/sehen/finden* ~~Opiniativ~~ (see [@sec:participles-promotion-to-subject]ff.)
 
 ## Characterising participle constructions
 
@@ -402,22 +402,22 @@ iii. Some participles might seem to be regular participles of particle verbs, bu
 Some participles have obtained a specialised idiomatic meaning, different from the finite use of the verb. For example *verwenden* 'to plead for' with participle *verwandt* [@next a] has given rise to a completely separate participle *verwandt* 'to be related' [@next b]. Note that there is also a separate verb *verwenden* meaning 'to utilize' with a different participle *verwendet*.
 
 ::: ex
-a.  Er hat sich sehr für die Einrichtung eines Spielplatzes verwandt.
-b.  Wir sind verwandt.
+a. Er hat sich sehr für die Einrichtung eines Spielplatzes verwandt.
+b. Wir sind verwandt.
 :::
 
 Similarly idiomatic are the participles *verrückt* 'crazy' from *verrücken* 'to relocate' [@next a] and *verklemmt* 'prudish' from *verklemmen* 'to get jammed' [@next b]
 
 ::: ex
-a.  Er ist verrückt.
-b.  Er ist verklemmt.
+a. Er ist verrückt.
+b. Er ist verklemmt.
 :::
 
 The participle *bekannt* 'known' is morphologically derived from *bekennen* 'to confess', although the meaning of the participle is related to *kennen* 'to know', which has a participle *gekannt*.
 
 ::: ex
-a.  Jeder kennt den Schauspieler.
-b.  Der Schauspieler ist bekannt/*gekannt
+a. Jeder kennt den Schauspieler.
+b. Der Schauspieler ist bekannt/*gekannt
 :::
 
 **Attested Participles**
@@ -429,15 +429,15 @@ b.  Der Schauspieler ist bekannt/*gekannt
 Eisenberg [-@eisenberg2006: 201] also mentions *entsetzt* 'appalled' as an idiomatic participle, but the Verb *entsetzen* 'to appall' seems to be perfectly possible as a finite verb [@next a]. The intended meaning from Eisenberg is then simply the anticausative 'Zustandspassiv' [@next b].
 
 ::: ex
-a.  Der Anblick entsetzt ihn. Der Anblick hat ihn entsetzt.
-b.  Er ist entsetzt.
+a. Der Anblick entsetzt ihn. Der Anblick hat ihn entsetzt.
+b. Er ist entsetzt.
 :::
 
 Likewise, DWDS mentions *verfroren* as an idiomatic participle, but the verb *verfrieren* 'to freeze' is attested, though rare [@next].
 
 ::: ex
-a.  Bei Wind verfrieren die Wangen in kürzester Zeit.^[~~DWDS~~: Die Zeit, 10.01.1997, Nr. 03.]
-b.  Meine Wangen sind verfroren.
+a. Bei Wind verfrieren die Wangen in kürzester Zeit.^[~~DWDS~~: Die Zeit, 10.01.1997, Nr. 03.]
+b. Meine Wangen sind verfroren.
 :::
 
 ### Participles from nouns
@@ -449,17 +449,17 @@ In contrast, the participles that are of interest here do not exist as finite ve
 Further, various participles are derived from nouns using verb prefixes *be-* and *ver-*. As discussed earlier, it is a relatively widespread phenomenon for finite verbs to be derived from nominal stems using these prefixes (see [@sec:preverbs-other-stems]). For example, the verb *vergiften* 'to poison' is derived from the noun *Gift* 'poison' without any verb like *giften* in between [@next a,b]. As a consequence, the participle *vergiftet* also exist [@next c]. 
 
 ::: ex
-a.  ^* Sie giftet ihn.
-b.  Sie vergiftet ihn.
-c.  Er ist vergiftet.
+a. ^* Sie giftet ihn.
+b. Sie vergiftet ihn.
+c. Er ist vergiftet.
 :::
 
 In contrast, the participle *verhasst* 'hated' is derived from the noun *Hass* 'hate' and the verb *hassen* 'to hate' [@nnext a]. However, the verb *verhassen* cannot be used as a finite verb [@nnext b], only as a participle [@nnext c].
 
 ::: ex
-a.  Sie hasst ihn.
-b.  ^* Sie verhasst ihn.
-c.  Er ist verhasst.
+a. Sie hasst ihn.
+b. ^* Sie verhasst ihn.
+c. Er ist verhasst.
 :::
 
 **Attested Participles**
@@ -475,15 +475,15 @@ The finite verb *zacken* 'to produce indentation' is also attested, though rare 
 In contrast, the verb *schweifen* 'to ramble' exists [@next b], but is semantically not directly related to the participle *geschweift* 'curled'. Both seem independently derived from the noun *Schweif* 'bushy tail'. The same holds for the participle *gestreift* 'striped' and the verb *streifen* 'to roam, to streak', which are probably both independently related to the noun *Streifen* 'strip, band'.
 
 ::: ex
-a.  Die Streifen zackten sich über Schuhe, Bänke, Tische, Mäntel, Bettgitter.^[~~DWDS~~: Fichte, Hubert: Das Waisenhaus, Frankfurt a. M.: Fischer-Taschenbuch-Verl. 1988 [1965], S. 139.]
-b.  Man schweifte wie auf einem riesigen Schuttplatz jenseits der Ränder der bekannten Welt.^[~~DWDS~~: Jünger, Ernst: In Stahlgewittern, Stuttgart: Klett-Cotta 1994 [1920], S. 110.]
+a. Die Streifen zackten sich über Schuhe, Bänke, Tische, Mäntel, Bettgitter.^[~~DWDS~~: Fichte, Hubert: Das Waisenhaus, Frankfurt a. M.: Fischer-Taschenbuch-Verl. 1988 [1965], S. 139.]
+b. Man schweifte wie auf einem riesigen Schuttplatz jenseits der Ränder der bekannten Welt.^[~~DWDS~~: Jünger, Ernst: In Stahlgewittern, Stuttgart: Klett-Cotta 1994 [1920], S. 110.]
 :::
 
 The participle *gelaunt* (from noun *Laune* 'mood) and *geregnet* (from noun *Regen*, rain) obligatorily needs a manner adverbial, see [@sec:adverbials-nominative].
 
 ::: ex
-a.  Ich bin gut gelaunt.
-b.  Ich bin nass geregent.
+a. Ich bin gut gelaunt.
+b. Ich bin nass geregent.
 :::
 
 ### Participles with preverbs
@@ -491,7 +491,7 @@ b.  Ich bin nass geregent.
 Word like *einverstanden* 'agreed' [@next a] looks morphologically like a regular participle from a verb *einverstehen*. However, that verb does not exist [@next b], only the non-prefixed verb *verstehen* exists.  Participles with preverbs, but without corresponding finitive verb, appear to be a common phenomenon and the participles listed here are only to be taken as examples.
 
 ::: ex
-a.  Ich bin einverstanden.
+a. Ich bin einverstanden.
 b. ^* Ich verstehe ein.
 :::
 
@@ -642,8 +642,8 @@ without preverbs:
 Just like intransitives, verbs with a dative argument are split between *sein* and *haben*. The status of the datives is slightly different among these verbs, see [@sec:case-nominative-dative; @sec:case-dative-drop; @sec:prepositions-dative-antipassive; @sec:preverb-dative-applicative]. Just like intransitives, the verbs with *sein* [@next a] all appear to allow a construction with an adnominal participle [@next b].
 
 ::: ex
-a.  Das Gemälde ist mir gelungen.
-b.  Das gelungene Gemälde ...
+a. Das Gemälde ist mir gelungen.
+b. Das gelungene Gemälde ...
 :::
 
 **Attested Verbs**
@@ -655,8 +655,8 @@ b.  Das gelungene Gemälde ...
 The verb *folgen* 'to follow' typically takes *sein*, but there appear to be incidental instances of *haben* [@next a], though this might be typical of a slightly different meaning 'to obey' [@next b].
 
 ::: ex
-a.  [...] wenn China und Nordkorea den Empfehlungen der Kommission gefolgt hätte.^[~~DWDS~~: Archiv der Gegenwart, 2001 [1953].]
-b.  Das Kind hat seiner Mutter gefolgt.
+a. [...] wenn China und Nordkorea den Empfehlungen der Kommission gefolgt hätte.^[~~DWDS~~: Archiv der Gegenwart, 2001 [1953].]
+b. Das Kind hat seiner Mutter gefolgt.
 :::
 
 ### [ NA | NA ] *sein + Partizip* Transitive perfect
@@ -959,9 +959,9 @@ Keine anderen guten Beispiele, nur mit *gefangen*.
 
 ## Diatheses with subject demotion
 
-### --- [ SBJ > Ø ] --- *Unpersönlicher Passiv (werden)* {.unnumbered #lg:unpersonlicherpassiv}
+### --- [ SBJ > Ø ] --- {.unnumbered}
 
-### [ N | – ] *werden + Partizip* Impersonal passive {#sec:participles-werden-impersonal-passive}
+### [ N | – ] *werden + Partizip* Impersonal passive (*unpersönlicher Passiv*) {#sec:participles-werden-impersonal-passive}
 
 note future meaning of adjective + werden!
 
@@ -1022,11 +1022,198 @@ Dativ [ ND | -D ] and Governed Preposition [ NP | -P ] possible:
 - Es wird sich jetzt endlich beeilt/entschlossen/vertragen/gekümmert
 - Hier wird sich nicht verkrochen/angestellt/verweigert
 
-### --- [ OBJ > SBJ > ADJ ] --- *werden-Vorgangspassiv* {.unnumbered #lg:vorgangspassiv}
+### --- [ OBJ > SBJ > Ø ] --- {.unnumbered}
+
+### [ NA | –N ] *sein + Partizip* Anticausative (*Zustandspassiv*) {#sec:participles-sein-zustandspassiv}
+
+Zustandspassiv: ähnlich zu adjektivische Prädikatskonstruktion (*Die Tür ist gelb*). Explizit nicht mit *geworden*
+weil dann Perfekt des *werden* Passiv (cf. Maienborn). [@maienborn2007]
+
+see also [@nedjalkov1988a]
+
+=> 'resultative' Bedeutung: Kompatibel mit "schon seit zwei Tage" (typisch 'sein'-Passiv?)
+=> 'perfektive' Bedeutung: Kompatibel mit "schon vor zwei Tage" (typisch 'werden'-Passiv?) (schon gestern)
+
+- Ich öffne den Brief. vs. Der Brief ist schon seit zwei Tagen geöffnet.
+- Ich öffne den Brief. vs. ^* Der Brief ist schon vor zwei Tagen geöffnet. 
+^* Der Brief ist nach und nach geöffnet
+
+- Ich repariere das Haus. vs. Das Haus ist schon seit zwei Tagen repariert.
+- Ich repariere das Haus. vs. ^* Das Haus ist schon vor zwei Tagen repariert.
+
+Es scheint mit fast allen transitiven möglich zu sein
+
+- decken
+- finden
+- reparieren (Ich repariere das Auto -> Das Auto ist repariert.)
+- vermieten
+- waschen
+
+Transitive Verben bei denen es nicht geht: 'Experiencer Subjects' and 'haben' Bare Antikausativ. Note recurrent possibility to use causative variant marked by verbprefix *be/ver/er/zer- *(if you add a 'real' causer then the anticausative is possible.)
+
+overlap with [@sec:preverb-transitive-with-unaccusative], but not the same class!
+
+- ärgern (Etwas ärgert den Lehrer / ^* Der Lehrer ist geärgert / verärgert)
+- brauchen (Er braucht ein Auto / ? Das Auto ist gebraucht / verbraucht)
+- drücken (Sorgen drücken mich.)
+- ekeln (Etwas ekelt mich / ^* Ich bin geekelt / angeekelt) 
+- entwickeln (Das Holz entwickelt einen starken Qualm. )
+- ergeben (Die Transaktionen ergaben einen hohen Gewinn.)
+- feiern (Er feiert seinen Geburtstag / ? Der Geburtstag ist gefeiert)
+- freuen (Die Aussicht freut mich / ^* ich bin gefreut / erfreut)
+- fühlen (Er fühlt den Stich / ? Der Stich ist gefühlt )
+- hassen (Er hasst seinen Nachbarn / ? Der Nachbar ist gehasst / verhasst)
+- hören (Er hört das Geräusch / ? Das Geräusch ist gehört / ? erhört)
+- kennen (Ich kenne den Mann / ^* Der Mann ist gekannt / bekannt)
+- kratzen (? Er kratzt seinen Arm / ? Der Arm ist gekratzt / verkratzt/zerkratzt)
+- kümmern
+- legen (Ich lege das Kind unter die Decke. / ^* Das Kind ist schon seit heute morgen unter die Decke gelegt.)
+- merken
+- mögen (Ich mag den Mann / ? Der Mann ist gemocht)
+- passen (Ich passe den Anzug / ^* Der Anzug ist gepasst)
+- quälen
+- riechen
+- schmecken
+- schätzen (Er schätz seinen Mitarbeiter / ^* Sein Mitarbeiter ist geschätzt)
+- sehen (Er sieht das Haus / ? Das Haus ist gesehen (nur in Kinderspiel-Situation möglich!))
+- setzen
+- stecken
+- unterhalten (Ich unterhalte das Publikum.)
+- verabschieden
+- verlangen
+- wundern (Sein Verhalten wundert mich / ^* ich bin gewundert / verwundert)
+- zwicken (Ich zwicke deinen Arm / ? Dein Arm ist gezwickt)
+
+Maienborn: 102-103: Sie findet aber Beispiele bei Google!
+
+- wissen (Ich weiß die Antwort ^* Die Antwort ist gewusst)
+- heiraten (Ich heirate meinen Freund ^* Mein Freund ist geheiratet / verheiratet)
+- streicheln (Ich streichele den Hund ^* Der Hund ist gestreichelt)
+- zeigen (Ich zeige dir meine Schätze ^* Meine Schätze sind gezeigt)
+
+???
+
+- aufhalten (Die Einzelheiten halten den Mann auf. Der Mann ist aufgehalten
+- stören (Der Lärm stört den Mann. Der Mann ist gestört)
+
+### [ NA | –N ] *bleiben + Partizip* anticausative (*Kontinuativpassiv*) {#sec:participles-bleiben-transitive}
+
+Nur wenige geeignete Verben: typisch Antikausative?
+
+- Die Tür bleibt geöffnet (geschlossen)
+- Der Betrüger bleibt gefangen
+- Der Fußballer bleibt verwarnt
+- Das Fass bleibt gefüllt.
+
+nicht im Perfekt? * Die Tür ist geschlossen geblieben
+
+[@helbig2001: 163] "kontinuativ" "irreversibel Geschehen nicht möglich"
+
+- ^* Das Buch bleibt geschrieben/vollendet
+- ^* Das Auto bleibt gewaschen
+
+### [ NA | –N ] *gehören + Partizip* Anticausative (*Pflichtspassiv*) {#sec:participles-gehoren-anticausative}
+
+[@lasch2016: 84ff.]
+
+Belegsammlungen von Alexander Lasch:
+
+- gehören im KERN-Korpus (https://goo.gl/YlPuaN; Stand: 03.09.2016). 
+- gehören im ZEIT-Korpus (https://goo.gl/VPJbAb; Stand: 03.09.2016).
+
+- Jemand verbietet diesen Ausdruck. Dieser Ausdruck gehört verboten
+
+- Er verbrennt diese Buch. Dieses Buch gehört verbrannt.
+- Hanna sagt ihm die Meinung. Ihm gehört die Meinung gesagt.
+
+nicht im Perfekt? 
+
+- * Der Spieler hat verwarnt gehört
+
+Possible with agent? not attested in examples from Lasch
+
+- Der Schiedsrichter verwarnt den Spieler. Der Spieler gehört verwarnt (durch den Schiedsrichter).
+
+Subject-less???
+
+- Gegen den Feind gehört gekämpft.
+- Dem Studenten gehört geholfen.
+
+### [ NA | –N ] *geben + Partizip* Reflexive anticausative (*Hingabepassiv*) {#sec:participles-geben-reflexive-anticausative}
+
+geben Mit reflexivprononem!
+
+- Jemand schlägt ihn -> Er ist geschlagen -> Er gibt sich geschlagen
+- Er gibt sich geschlagen/besiegt (Jemand besiegt ihn)
+
+"state-of-mind": *geschlagen, reserviert, gelöst, entspannt, aufgeräumt, aufgeklärt*
+
+sowohl passives 'hingeben' (gibt sich geschlagen), wie auch aktives 'sich vortun' (gibt sich aufgeräumt)
+
+- Er gibt sich regional verwurzelt
+
+- Die Stille entspannt ihn. Er gibt sich entspannt.
+
+With *gewonnen*, the accusative of active is inanimate, while anticausative is animate!
+
+- Er gewinnt den Kampf. Er gibt sich gewonnen
+
+### [ NA | –N ] *aussehen + Partizip* Anticausative (*Askriptionspassiv*) {#sec:participles-aussehen-anticausative}
+
+transitive
+
+- [ NA|–N ] Etwas verstört ihn -> er ist verstört -> Er sieht verstört aus
+
+Belegsammlungen von Alexander Lasch:
+
+- aussehen (https://goo.gl/xUng8v; Stand: 03.09.2016).
+
+angegriffen, gepflegt, verstört, angestrengt, bekümmert, verjüngt, abgesperrt, beschädigt, enttäuscht, erschöpft, improvisiert
+
+### [ NA | –N ] *scheinen + Partizip* Anticausative (*Askriptionspassiv*)
+
+- scheinen (https://goo.gl/5YvKiw; Stand: 03.09.2016). 
+
+### [ NA | –N ] *erscheinen + Partizip* Anticausative (*Askriptionspassiv*)
+
+- erscheinen (https://goo.gl/Xj7EW6; Stand: 03.09.2016). 
+
+### [ NA | –N ] *wirken + Partizip* Anticausative (*Askriptionspassiv*)
+
+- wirken (https://goo.gl/yCai8B; Stand: 03.09.2016). 
+
+### [ NA | –N ] *stehen + Partizip* Anticausative
+
+Some instances of *stehen* with a participle appear to have an anticausative effect. However, such examples are quite rare and also rather idiomatic.
+
+::: ex
+a. Irgendjemand hat die Tür geöffnet. \
+   Die Tür steht geöffnet.
+b. Irgendjemand hat mich korrigiert. \
+   Ich stehe korrigiert.
+:::
+
+However, most examples of finite *stehen* with a participle that occur in texts are not instances of this diathesis. Typically, the verb *stehen* 'to stand' is used in its literal meaning and the participle is an depictive secondary predicate [@next a]. Another frequent use of *stehen* with participle is attested with 'text manipulation' verbs, like *schreiben, erwähnen, nennen, eintragen, vermerken* etc. [@next b]. This seems to be a metaphorical usage of *stehen*, in the sense that letters 'stand' on a page. The participle is here likewise a depictive secondary predicate.
+
+::: ex
+a. Das Planschbecken stand im Garten aufgebaut.
+b. Die Worte stehen auf der Titelseite geschrieben.
+:::
+
+**Attested Verbs**
+
+- *korrigieren, öffnen, schließen*
+
+**Examples**
+
+- Vielleicht auch, weil er weiß, dass die Truppen hinter ihm nicht geschlossen stehen.^[~~DWDS~~: Berliner Zeitung, 12.10.2004.]
+- Wenn die SPD nicht geschlossen stehe, werde es schwierig, den Wahlkampf durchzustehen.^[~~DWDS~~: Die Zeit, 29.09.2012, Nr. 40.]
+
+### --- [ OBJ > SBJ > ADJ ] --- {.unnumbered}
 
 Probably all better considered to be anticausatives, but out of tradition I list them here under the label 'passive'
 
-### [ NA | pN ] *werden + Partizip* passive {#sec:participles-werden-passive}
+### [ NA | pN ] *werden + Partizip* passive (*Vorgangspassiv*) {#sec:participles-werden-passive}
 
 Das Haus wird angemalt (durch den Handwerker).
 Das Haus ist angemalt worden
@@ -1038,9 +1225,7 @@ Nicht immer bei transitiv:
 - kennen (Ich kenne den Mann / * Der Mann wird gekannt)
 - wundern (Sein Verhalten wundert mich / * ich werde gewundert)
 
-### --- [ OBJ > SBJ > ADJ ] --- *bekommen-Rezipientenpassiv* {.unnumbered #lg:rezipientenpassiv}
-
-### [ NDA | pNA ] *bekommen + Partizip* Dative passive + accusative {#sec:participles-bekommen-passive}
+### [ NDA | pNA ] *bekommen + Partizip* Dative passive (*Rezipientenpassiv*) {#sec:participles-bekommen-passive}
 
 also *kriegen/erhalten*
 
@@ -1081,9 +1266,116 @@ Kriegen: Genau dieselbe Verben wie 'bekommen'?
 - Er baut ein Haus. vs. Er kriegt das Haus gebaut.
 - Er vermietet die Wohnung. vs. Er kriegt die Wohnung vermietet.
 
-### --- [ ADJ > OBJ > SBJ > Ø ] --- *haben-Pertinenzpassiv* {.unnumbered #pertinenzpassiv}
+### [ NA | pN ] *machen + Partizip* Reflexive passive {#sec:participles-machen-reflexive-passive}
 
-### [ NgA | NDA | –NA ] *haben + Partizip* Dative experiencer anticausative {#sec:participles-haben-passive}
+This is yet another diathesis involving the light verb *machen*.
+
+::: ex
+a. Die Polizei verdächtigt ihn.
+b. Er macht sich bei der Polizei verdächtigt.
+:::
+
+**Attested Verbs**
+
+- *fürchten, verdächtigen*
+
+**Examples**
+
+- Die Lehrer fürchten ihn. Er hat sich gefürchtet gemacht (bei den Lehrern).
+
+**Notes**
+
+There are various *machen + sich + Partizip* konstruktions that do not appear to be transparently related anymore to the finite usage of the main verb, e.g.:
+
+- Ich mache mich auf alles gefasst
+- Ich mache mich um etwas verdient
+- Der Stuhl hat sich bezahlt gemacht.
+- Die Loyalität macht sich bezahlt.
+
+### --- [ OBJ > SBJ > PBJ ] --- {.unnumbered}
+
+### [ NA | PN ] *sein + Partizip* Conversive (*Erlebnispassiv*) {#sec:participles-sein-conversive}
+
+::: ex
+a. Die Nachricht verärgert mich.
+b. Ich bin verärgert über die Nachricht.
+c. Ich bin verärgert darüber, dass die Nachricht verbreitet wurde.
+:::
+
+Overlap with reflexive conversive [@next], see [@sec:reflexive-preposition-passive], but not all verbs allow for both diatheses [@nnext] and [@nnnext].
+
+::: ex
+a. Der Witz amüsiert mich.
+b. Ich bin über den Witz amüsiert. 
+c. Ich amüsiere mich über den Witz.
+d. Ich habe mich über den Witz amüsiert.
+:::
+
+::: ex
+a. Der Witz ärgert mich.
+b. ^* Ich bin geärgert über den Witz.
+c. Ich ärgere mich über den Witz.
+d. Ich habe mich über den Witz geärgert.
+:::
+
+::: ex
+a. Der Witz widert mich an.
+b. Ich bin angewidert von dem Witz.
+c. ^* Ich widere mich von dem Witz an.
+d. ^* Ich habe mich von dem Witz angewidert.
+:::
+
+**Attested Verbs**
+
+- *von*  : *anekeln, anstrengen, anwidern, langweilen*
+- *über* : *amüsieren, aufregen, begeistern, entsetzen, enttäuschen, empören, erfreuen, erstaunen, erzürnen, überraschen, verärgern, verstören, verwundern*
+- *in*   : *begründen, interessieren*
+- *mit*  : *beschäftigen*
+- *durch*: *entspannen*
+
+**Examples**
+
+- Der Geruch hat ihn angewidert. Er ist angewidert von dem Geruch.
+- Der Witz hat ihn amüsiert. Er ist amüsiert über den Witz.
+- Dein Benehmen hat ihn enttäuscht. Er ist enttäuscht über dein Benehmen.
+- Das Problem beschäftigt den Schüler. Der Schüler ist mit dem Problem beschäftigt.
+- Die Nachricht verärgert mich. Ich bin verärgert über die Nachricht.
+- Die Nachricht verstört mich. Ich bin verstört über die Nachricht.
+- Die Schule langweilt mich. Ich bin gelangweilt von der Schule.
+- Deine Massage entspannt mich. Ich bin entspannt durch deinen Massage.
+- Deine Leistung entsetzt mich. Ich bin entsetzt über deine Leistung.
+- Die Rede erzürnt mich. Ich bin erzürnt über die Rede.
+- Ein Desaster begründet die Hoffnung. Die Hoffnung ist im Desaster begründet.
+- 
+### [ NA | PN ] *liegen + Partizip* Conversive
+
+The few examples of this construction all have a governed preposition *in*.
+
+::: ex
+a. Das Desaster begründet die Hoffnung.
+b. Im Desaster liegt immmer auch die Hoffnung begründet.
+c. Die Hoffnung liegt darin begründet, dass ...
+
+Most examples with a finite verb *liegen* and a participle have a different structure, like [@next]. In these examples the verb *liegen* has the literal meaning 'to lie' and the participle is a adverbial secondary predicate (see [@sec:participles-secondary-predicates]).
+
+::: ex
+a. Er liegt in der Kirche aufgebahrt.
+b. Das Geschenk liegt in der Schublade versteckt.
+:::
+
+**Attested Verbs**
+
+- *begründen, beschließen, verbergen*
+
+**Examples**
+
+- Trotz aller Fehltritte und Peinlichkeiten, die sich Hannah und Co. leisteten, vergaß Girls nicht, dass im größten Desaster immer auch die Hoffnung auf einen Neustart begründet liegt.^[~~DWDS~~: Die Zeit, 13.02.2017.]
+- Die Tatsachen aber sind hart, wie die Wahrheit, die in ihnen beschlossen liegt.^[~~DWDS~~: Die Zeit, 18.09.1964, Nr. 38.]
+- Radinsky begriff, welche Macht in Datenmassen verborgen liegt.^[~~DWDS~~: Die Zeit, 26.01.2017, Nr. 03.]
+
+### --- [ ADJ > OBJ > SBJ > Ø ] --- {.unnumbered}
+
+### [ NgA | NDA | –NA ] *haben + Partizip* Dative anticausative (*Pertinenzpassiv*) {#sec:participles-haben-passive}
 
 Following Hole [-@hole2002] that construction is known in German as the "Partizipiale *haben*-Konfiguration". I find this name rather cumbersome and  and propose alternatively to call this construction *Pertinenzpassiv*.
 
@@ -1162,314 +1454,6 @@ Ohne Modalverben unüblich, aber vgl. *haben+Partizip* Experiencer. Zweideutigke
 - Er will, dass seine Haare kurz geschnitten werden. (<- Er will [ Jemand hat ihm die Haare kurz geschnitten] Perfekt)
 - Er will kurz geschnittene Haare haben (<- Er will [ Er hat die Haare kurz geschnitten] Experiencer)
 
-### --- [ OBJ > SBJ > Ø ] --- *sein-Zustandspassiv* {.unnumbered #lg:zustandspassiv}
-
-### [ NA | –N ] *sein + Partizip* Anticausative {#sec:participles-sein-zustandspassiv}
-
-Zustandspassiv: ähnlich zu adjektivische Prädikatskonstruktion (*Die Tür ist gelb*). Explizit nicht mit *geworden*
-weil dann Perfekt des *werden* Passiv (cf. Maienborn). [@maienborn2007]
-
-see also [@nedjalkov1988a]
-
-=> 'resultative' Bedeutung: Kompatibel mit "schon seit zwei Tage" (typisch 'sein'-Passiv?)
-=> 'perfektive' Bedeutung: Kompatibel mit "schon vor zwei Tage" (typisch 'werden'-Passiv?) (schon gestern)
-
-- Ich öffne den Brief. vs. Der Brief ist schon seit zwei Tagen geöffnet.
-- Ich öffne den Brief. vs. ^* Der Brief ist schon vor zwei Tagen geöffnet. 
-^* Der Brief ist nach und nach geöffnet
-
-- Ich repariere das Haus. vs. Das Haus ist schon seit zwei Tagen repariert.
-- Ich repariere das Haus. vs. ^* Das Haus ist schon vor zwei Tagen repariert.
-
-Es scheint mit fast allen transitiven möglich zu sein
-
-- decken
-- finden
-- reparieren (Ich repariere das Auto -> Das Auto ist repariert.)
-- vermieten
-- waschen
-
-Transitive Verben bei denen es nicht geht: 'Experiencer Subjects' and 'haben' Bare Antikausativ. Note recurrent possibility to use causative variant marked by verbprefix *be/ver/er/zer- *(if you add a 'real' causer then the anticausative is possible.)
-
-overlap with [@sec:preverb-transitive-with-unaccusative], but not the same class!
-
-- ärgern (Etwas ärgert den Lehrer / ^* Der Lehrer ist geärgert / verärgert)
-- brauchen (Er braucht ein Auto / ? Das Auto ist gebraucht / verbraucht)
-- drücken (Sorgen drücken mich.)
-- ekeln (Etwas ekelt mich / ^* Ich bin geekelt / angeekelt) 
-- entwickeln (Das Holz entwickelt einen starken Qualm. )
-- ergeben (Die Transaktionen ergaben einen hohen Gewinn.)
-- feiern (Er feiert seinen Geburtstag / ? Der Geburtstag ist gefeiert)
-- freuen (Die Aussicht freut mich / ^* ich bin gefreut / erfreut)
-- fühlen (Er fühlt den Stich / ? Der Stich ist gefühlt )
-- hassen (Er hasst seinen Nachbarn / ? Der Nachbar ist gehasst / verhasst)
-- hören (Er hört das Geräusch / ? Das Geräusch ist gehört / ? erhört)
-- kennen (Ich kenne den Mann / ^* Der Mann ist gekannt / bekannt)
-- kratzen (? Er kratzt seinen Arm / ? Der Arm ist gekratzt / verkratzt/zerkratzt)
-- kümmern
-- legen (Ich lege das Kind unter die Decke. / ^* Das Kind ist schon seit heute morgen unter die Decke gelegt.)
-- merken
-- mögen (Ich mag den Mann / ? Der Mann ist gemocht)
-- passen (Ich passe den Anzug / ^* Der Anzug ist gepasst)
-- quälen
-- riechen
-- schmecken
-- schätzen (Er schätz seinen Mitarbeiter / ^* Sein Mitarbeiter ist geschätzt)
-- sehen (Er sieht das Haus / ? Das Haus ist gesehen (nur in Kinderspiel-Situation möglich!))
-- setzen
-- stecken
-- unterhalten (Ich unterhalte das Publikum.)
-- verabschieden
-- verlangen
-- wundern (Sein Verhalten wundert mich / ^* ich bin gewundert / verwundert)
-- zwicken (Ich zwicke deinen Arm / ? Dein Arm ist gezwickt)
-
-Maienborn: 102-103: Sie findet aber Beispiele bei Google!
-
-- wissen (Ich weiß die Antwort ^* Die Antwort ist gewusst)
-- heiraten (Ich heirate meinen Freund ^* Mein Freund ist geheiratet / verheiratet)
-- streicheln (Ich streichele den Hund ^* Der Hund ist gestreichelt)
-- zeigen (Ich zeige dir meine Schätze ^* Meine Schätze sind gezeigt)
-
-???
-
-- aufhalten (Die Einzelheiten halten den Mann auf. Der Mann ist aufgehalten
-- stören (Der Lärm stört den Mann. Der Mann ist gestört)
-
-### --- [ OBJ > SBJ > PBJ ] --- *sein-Erlebnispassiv* {.unnumbered #lg:erlebnispassiv}
-
-### [ NA | PN ] *sein + Partizip* Conversive {#sec:participles-sein-conversive}
-
-::: ex
-a.  Die Nachricht verärgert mich.
-b.  Ich bin verärgert über die Nachricht.
-c.  Ich bin verärgert darüber, dass die Nachricht verbreitet wurde.
-:::
-
-Overlap with reflexive conversive [@next], see [@sec:reflexive-preposition-passive], but not all verbs allow for both diatheses [@nnext] and [@nnnext].
-
-::: ex
-a.  Der Witz amüsiert mich.
-b.  Ich bin über den Witz amüsiert. 
-c.  Ich amüsiere mich über den Witz.
-d.  Ich habe mich über den Witz amüsiert.
-:::
-
-::: ex
-a. Der Witz ärgert mich.
-b. ^* Ich bin geärgert über den Witz.
-c. Ich ärgere mich über den Witz.
-d. Ich habe mich über den Witz geärgert.
-:::
-
-::: ex
-a. Der Witz widert mich an.
-b. Ich bin angewidert von dem Witz.
-c. ^* Ich widere mich von dem Witz an.
-d. ^* Ich habe mich von dem Witz angewidert.
-:::
-
-**Attested Verbs**
-
-- *von*  : *anekeln, anstrengen, anwidern, langweilen*
-- *über* : *amüsieren, aufregen, begeistern, entsetzen, enttäuschen, empören, erfreuen, erstaunen, erzürnen, überraschen, verärgern, verstören, verwundern*
-- *in*   : *begründen, interessieren*
-- *mit*  : *beschäftigen*
-- *durch*: *entspannen*
-
-**Examples**
-
-- Der Geruch hat ihn angewidert. Er ist angewidert von dem Geruch.
-- Der Witz hat ihn amüsiert. Er ist amüsiert über den Witz.
-- Dein Benehmen hat ihn enttäuscht. Er ist enttäuscht über dein Benehmen.
-- Das Problem beschäftigt den Schüler. Der Schüler ist mit dem Problem beschäftigt.
-- Die Nachricht verärgert mich. Ich bin verärgert über die Nachricht.
-- Die Nachricht verstört mich. Ich bin verstört über die Nachricht.
-- Die Schule langweilt mich. Ich bin gelangweilt von der Schule.
-- Deine Massage entspannt mich. Ich bin entspannt durch deinen Massage.
-- Deine Leistung entsetzt mich. Ich bin entsetzt über deine Leistung.
-- Die Rede erzürnt mich. Ich bin erzürnt über die Rede.
-- Ein Desaster begründet die Hoffnung. Die Hoffnung ist im Desaster begründet.
-
-### --- [ OBJ > SBJ > Ø ] --- *bleiben-Kontinuativpassiv* {.unnumbered #lg:kontinuativpassiv}
-
-### [ NA | –N ] *bleiben + Partizip* anticausative {#sec:participles-bleiben-transitive}
-
-Nur wenige geeignete Verben: typisch Antikausative?
-
-- Die Tür bleibt geöffnet (geschlossen)
-- Der Betrüger bleibt gefangen
-- Der Fußballer bleibt verwarnt
-- Das Fass bleibt gefüllt.
-
-nicht im Perfekt? * Die Tür ist geschlossen geblieben
-
-[@helbig2001: 163] "kontinuativ" "irreversibel Geschehen nicht möglich"
-
-- ^* Das Buch bleibt geschrieben/vollendet
-- ^* Das Auto bleibt gewaschen
-
-### --- [ OBJ > SBJ > Ø ] --- *gehören-Pflichtspassiv* {.unnumbered #lg:pflichtspassiv}
-
-### [ NA | –N ] *gehören + Partizip* Anticausative {#sec:participles-gehoren-anticausative}
-
-[@lasch2016: 84ff.]
-
-Belegsammlungen von Alexander Lasch:
-
-- gehören im KERN-Korpus (https://goo.gl/YlPuaN; Stand: 03.09.2016). 
-- gehören im ZEIT-Korpus (https://goo.gl/VPJbAb; Stand: 03.09.2016).
-
-- Jemand verbietet diesen Ausdruck. Dieser Ausdruck gehört verboten
-
-- Er verbrennt diese Buch. Dieses Buch gehört verbrannt.
-- Hanna sagt ihm die Meinung. Ihm gehört die Meinung gesagt.
-
-nicht im Perfekt? 
-
-- * Der Spieler hat verwarnt gehört
-
-Possible with agent? not attested in examples from Lasch
-
-- Der Schiedsrichter verwarnt den Spieler. Der Spieler gehört verwarnt (durch den Schiedsrichter).
-
-Subject-less???
-
-- Gegen den Feind gehört gekämpft.
-- Dem Studenten gehört geholfen.
-
-### ---  [ OBJ > SBJ > Ø ] --- *geben-Hingabepassiv* {.unnumbered #lg:hingabepassiv}
-
-### [ NA | –N ] *geben + Partizip* Reflexive anticausative {#sec:participles-geben-reflexive-anticausative}
-
-geben Mit reflexivprononem!
-
-- Jemand schlägt ihn -> Er ist geschlagen -> Er gibt sich geschlagen
-- Er gibt sich geschlagen/besiegt (Jemand besiegt ihn)
-
-"state-of-mind": *geschlagen, reserviert, gelöst, entspannt, aufgeräumt, aufgeklärt*
-
-sowohl passives 'hingeben' (gibt sich geschlagen), wie auch aktives 'sich vortun' (gibt sich aufgeräumt)
-
-- Er gibt sich regional verwurzelt
-
-- Die Stille entspannt ihn. Er gibt sich entspannt.
-
-With *gewonnen*, the accusative of active is inanimate, while anticausative is animate!
-
-- Er gewinnt den Kampf. Er gibt sich gewonnen
-
-### --- [ OBJ > SBJ > Ø ] --- *Askriptionspassiv* {.unnumbered #lg:askriptionspassiv}
-
-### [ NA | –N ] *aussehen + Partizip* Anticausative {#sec:participles-aussehen-anticausative}
-
-transitive
-
-- [ NA|–N ] Etwas verstört ihn -> er ist verstört -> Er sieht verstört aus
-
-Belegsammlungen von Alexander Lasch:
-
-- aussehen (https://goo.gl/xUng8v; Stand: 03.09.2016).
-
-angegriffen, gepflegt, verstört, angestrengt, bekümmert, verjüngt, abgesperrt, beschädigt, enttäuscht, erschöpft, improvisiert
-
-### [ NA | –N ] *scheinen + Partizip* Anticausative
-
-- scheinen (https://goo.gl/5YvKiw; Stand: 03.09.2016). 
-
-### [ NA | –N ] *erscheinen + Partizip* Anticausative
-
-- erscheinen (https://goo.gl/Xj7EW6; Stand: 03.09.2016). 
-
-### [ NA | –N ] *wirken + Partizip* Anticausative
-
-- wirken (https://goo.gl/yCai8B; Stand: 03.09.2016). 
-
-### --- [ OBJ > SBJ > PBJ ] --- {.unnumbered}
-
-### [ NA | PN ] *liegen + Partizip* Conversive
-
-The few examples of this construction all have a governed preposition *in*.
-
-::: ex
-a. Das Desaster begründet die Hoffnung.
-b. Im Desaster liegt immmer auch die Hoffnung begründet.
-c. Die Hoffnung liegt darin begründet, dass ...
-
-Most examples with a finite verb *liegen* and a participle have a different structure, like [@next]. In these examples the verb *liegen* has the literal meaning 'to lie' and the participle is a adverbial secondary predicate (see [@sec:participles-secondary-predicates]).
-
-::: ex
-a. Er liegt in der Kirche aufgebahrt.
-b. Das Geschenk liegt in der Schublade versteckt.
-:::
-
-**Attested Verbs**
-
-- *begründen, beschließen, verbergen*
-
-**Examples**
-
-- Trotz aller Fehltritte und Peinlichkeiten, die sich Hannah und Co. leisteten, vergaß Girls nicht, dass im größten Desaster immer auch die Hoffnung auf einen Neustart begründet liegt.^[~~DWDS~~: Die Zeit, 13.02.2017.]
-- Die Tatsachen aber sind hart, wie die Wahrheit, die in ihnen beschlossen liegt.^[~~DWDS~~: Die Zeit, 18.09.1964, Nr. 38.]
-- Radinsky begriff, welche Macht in Datenmassen verborgen liegt.^[~~DWDS~~: Die Zeit, 26.01.2017, Nr. 03.]
-
-### --- [ OBJ > SBJ > ADJ ] --- {.unnumbered}
-
-### [ NA | pN ] *machen + Partizip* Reflexive passive {#sec:participles-machen-reflexive-passive}
-
-This is yet another diathesis involving the light verb *machen*.
-
-::: ex
-a. Die Polizei verdächtigt ihn.
-b. Er macht sich bei der Polizei verdächtigt.
-:::
-
-**Attested Verbs**
-
-- *fürchten, verdächtigen*
-
-**Examples**
-
-- Die Lehrer fürchten ihn. Er hat sich gefürchtet gemacht (bei den Lehrern).
-
-**Notes**
-
-There are various *machen + sich + Partizip* konstruktions that do not appear to be transparently related anymore to the finite usage of the main verb, e.g.:
-
-- Ich mache mich auf alles gefasst
-- Ich mache mich um etwas verdient
-- Der Stuhl hat sich bezahlt gemacht.
-- Die Loyalität macht sich bezahlt.
-
-### --- [ OBJ > SBJ > Ø ] --- {.unnumbered}
-
-### [ NA | –N ] *stehen + Partizip* Anticausative
-
-Some instances of *stehen* with a participle appear to have an anticausative effect. However, such examples are quite rare and also rather idiomatic.
-
-::: ex
-a. Irgendjemand hat die Tür geöffnet. \
-   Die Tür steht geöffnet.
-b. Irgendjemand hat mich korrigiert. \
-   Ich stehe korrigiert.
-:::
-
-However, most examples of finite *stehen* with a participle that occur in texts are not instances of this diathesis. Typically, the verb *stehen* 'to stand' is used in its literal meaning and the participle is an depictive secondary predicate [@next a]. Another frequent use of *stehen* with participle is attested with 'text manipulation' verbs, like *schreiben, erwähnen, nennen, eintragen, vermerken* etc. [@next b]. This seems to be a metaphorical usage of *stehen*, in the sense that letters 'stand' on a page. The participle is here likewise a depictive secondary predicate.
-
-::: ex
-a. Das Planschbecken stand im Garten aufgebaut.
-b. Die Worte stehen auf der Titelseite geschrieben.
-:::
-
-**Attested Verbs**
-
-- *korrigieren, öffnen, schließen*
-
-**Examples**
-
-- Vielleicht auch, weil er weiß, dass die Truppen hinter ihm nicht geschlossen stehen.^[~~DWDS~~: Berliner Zeitung, 12.10.2004.]
-- Wenn die SPD nicht geschlossen stehe, werde es schwierig, den Wahlkampf durchzustehen.^[~~DWDS~~: Die Zeit, 29.09.2012, Nr. 40.]
-- 
 ### --- [ ADJ > SBJ > Ø ] --- {.unnumbered}
 
 ### [ pNA | N–A ] *machen + Partizip* Conciliative {#sec:participles-machen-conciliative}
@@ -1523,13 +1507,13 @@ b. Er sieht die Buchstaben verzerrt. \
 As originally observed by Leirbukt [-@leirbukt2000], all these constructions appear to be much more acceptable (and much more frequent) when they are stacked inside a modal verb like *wollen* (see [@sec:intro-stacking] for the term 'stacking'). Leirbukt only discusses *sehen* [@next] and *wissen* [@nnext] and seems to have missed the constructions with *glauben* and *finden*. He also discussed constructions with *haben*, but these are discussed here as a completely different diathesis in [@sec:participles-haben-passive].
 
 ::: ex
-a.  ^^?^ Sie sahen in dem Interview ihre Namen nicht genannt.
-b.  Sie wollten in dem Interview ihre Namen nicht genannt sehen.
+a. ^^?^ Sie sahen in dem Interview ihre Namen nicht genannt.
+b. Sie wollten in dem Interview ihre Namen nicht genannt sehen.
 :::
 
 ::: ex
-a.  ^^?^ Die Belegschaft weiß das Wahlergebnis keinesfalls als Zustimmung verstanden.
-b.  Die Belegschaft möchte das Wahlergebnis keinesfalls als Zustimmung verstanden wissen.
+a. ^^?^ Die Belegschaft weiß das Wahlergebnis keinesfalls als Zustimmung verstanden.
+b. Die Belegschaft möchte das Wahlergebnis keinesfalls als Zustimmung verstanden wissen.
 :::
 
 Similarly, these opiniatives are much more acceptable (and much more frequent) when they form a stack in combination with a self-inflicing reflexive pronoun alternation (see [@sec:reflexive-self-inflicting-accusative]). The reflexive marking indicates that the opinionator and the opined object are the same participant. This is possible both with intransitives [@next] and transitives [@nnext].
@@ -1546,7 +1530,7 @@ b. ^^?^ Ich weiß den Dieb von der Polizei verfolgt.
 b. Der Dieb weiß sich von der Polizei verfolgt.
 :::
 
-### --- [ Ø > SBJ > OBJ ] --- *Intransitiv Opiniativ* {.unnumbered #lg:opiniativ}
+### --- [ Ø > SBJ > OBJ ] --- {.unnumbered}
 
 ### [ –N | NA ] *wissen + Partizip* Intransitive opiniative {#sec:participles-wissen-experiencer}
 
@@ -1608,7 +1592,7 @@ b. Ich finde ihn gewachsen.
 - Ich finde das Projekt gescheitert.
 - Ich finde das Kunstwerk sehr gelungen.
 
-### --- [ Ø > SBJ > ADJ ] --- *Transitiv Opiniativ* {.unnumbered}
+### --- [ Ø > SBJ > ADJ ] --- {.unnumbered}
 
 ### [ –NA | NpA ] *wissen + Partizip* Transtive opiniative {#sec:participles-wissen-commutative}
 

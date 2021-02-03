@@ -1,4 +1,4 @@
-# Light-verb + infinitive alternations {#sec:infinitive}
+# Light verb + infinitive alternations {#sec:infinitive}
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Light-verb + *zu*-infinitive alternations {#sec:zuinfinitive}
+# Light verb + *zu*-infinitive alternations {#sec:zuinfinitive}
 
 ## Introduction
 
