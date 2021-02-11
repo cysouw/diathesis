@@ -4,6 +4,8 @@ mainfont: Libertinus Serif
 top-level-division: chapter
 toc-title: Contents
 lang: en-GB # important for hyphenation
+margin-left: 4cm
+margin-right: 4cm
 
 # pandoc-crossref settings
 
@@ -37,13 +39,3 @@ bibliography: /Users/cysouw/Documents/Bibdesk/michaellibrary.bib
 citation-style: /Users/cysouw/Documents/Bibdesk/unified.csl
 reference-section-title: References
 link-citations: true
-
-# latex settings
-
-documentclass: book
-classoption: twoside
-papersize: a4
-indent: true
-margin-left: 4cm
-margin-right: 4cm
-

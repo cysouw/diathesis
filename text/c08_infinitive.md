@@ -138,16 +138,16 @@ Is this the only example?
 
 ### --- [ SBJ > Ø ] --- *Unpersönlicher Möglichkeitspassiv* {.unnumbered}
 
-### [ N | – ] *lassen + sich + Infinitiv* Reflexive impersonal + manner adverbial {#sec:infinitive-lassen-reflexive-intransitive}
+### [ N | – ] *lassen + Infinitiv* Reflexive impersonal + manner adverbial {#sec:infinitive-lassen-reflexive-intransitive}
 
-When used with intransitive verbs like *arbeiten* 'to work' [@next a], the construction *lassen + sich + Infinitiv* leads to an impersonal construction removing the nominative subject [@next b]. This construction obligatorily needs an adverbial phrase expressing an evaluation. The expected valency-simulating pronoun *es* is typically present, but it seems also possible to leave it out. The conditioning of the presence or absence of *es* needs more investigation. Semantically, this diatheses seems to add an epistemic notion of possibility to the meaning of the verb.
+When used with intransitive verbs like *arbeiten* 'to work' [@next a], the construction *lassen + sich + Infinitiv* leads to an impersonal construction removing the nominative subject [@next b]. This construction obligatorily needs an adverbial phrase expressing an evaluation. The expected valency-simulating pronoun *es* is typically present, but it seems also possible to leave it out. The conditioning of the presence or absence of *es* needs more investigation [@kunze1996: 649]. Semantically, this diatheses seems to add an epistemic notion of possibility to the meaning of the verb.
 
 ::: ex
 a. Ich arbeite zuhause.
 b. Zuhause lässt (es) sich gut arbeiten.
 :::
 
-This diathesis *lassen + sich + Infiniv + Adverbial* is structurally a stack of two constructions (see [@sec:intro-stacking] for the notion 'stack'). It combines an impersonal reflexive with adverbial [@next a], see [@sec:adverbial-reflexive-drop], and a *lassen + Infinitiv* diathesis [@next b], see [@sec:infinitive-lassen-causative]. However, the resulting combination of these two is semantically not transparent. The *lassen + Infinitiv* diatheses has two different interpretations, a causative [@next c] and a permissive [@next d ]. Neither of these interpretations leads to the combined meaning of *lassen + sich + Infiniv + Adverbial* as in [@last b]. For that reason I consider this combination to be a separate grammaticalised diathesis, i.e. a ~~fixed stack~~.
+This diathesis *lassen + sich + Infiniv + Adverbial* is structurally a stack of two constructions (see [@sec:intro-stacking] for the notion 'stack'). It combines an impersonal reflexive with adverbial [@next a], see [@sec:adverbial-reflexive-drop], and a *lassen + Infinitiv* diathesis [@next b], see [@sec:infinitive-lassen-causative]. However, the resulting combination of these two is semantically not transparent. The *lassen + Infinitiv* diatheses has two different interpretations, a causative [@next c] and a permissive [@next d]. Neither of these interpretations leads to the combined meaning of *lassen + sich + Infiniv + Adverbial* as in [@last b]. For that reason I consider this combination to be a separate grammaticalised diathesis, i.e. a ~~fixed stack~~.
 
 ::: ex
 a. Zuhause arbeitet es sich gut.
@@ -166,7 +166,7 @@ d. (= Sie lässt mich in Ruhe um zu arbeiten.)
 - Hier lässt es sich träumen!^[~~DWDS~~:Die Zeit, 12.12.2013, Nr. 50]
 - Hier lässt es sich leben.^[~~DWDS~~: Die Zeit, 05.01.2012, Nr. 02]
 
-### [ NP | –P ] *lassen + sich + Infinitiv* Reflexive impersonal + governed preposition
+### [ NP | –P ] *lassen + Infinitiv* Reflexive impersonal + governed preposition
 
 Verbs with governed prepositional phrases function identically, like *zweifeln an* 'to doubt something' [@next]. The status of the valency-simulating *es* is likewise unclear, though my impression is that it is more common to leave it out. 
 
@@ -175,9 +175,9 @@ a. Ich zweifele an der Ernsthaftigkeit der Aussage.
 b. An der Ernsthaftigkeit der Aussage lässt ^?^(es) sich zweifeln.
 :::
 
-### --- [ OBJ > SBJ > ADJ ] --- *Möglichkeitsspassiv* {.unnumbered}
+### --- [ OBJ > SBJ > ADJ ] --- {.unnumbered}
 
-### [ NA | pN ] *lassen + sich + Infinitiv* Reflexive passive {#sec:infinitive-lassen-reflexive-anticausative}
+### [ NA | pN ] *lassen + Infinitiv* Reflexive passive (*Möglichkeitsspassiv*) {#sec:infinitive-lassen-reflexive-anticausative}
 
 With transitive verbs the light verb *lassen* with reflexive pronoun and infinitive results in a structurally passive diathesis [@next a,b]. Compared to the intransitive variant (see [@sec:infinitive-lassen-reflexive-intransitive], there is no adverbial evaluation necessary and the agent can be retained as an optional prepositional phrase.
 
@@ -188,9 +188,7 @@ c. Der Schrank schließt sich (von alleine).
 d. ^^?^ Ich lasse den Schrank sich schließen.
 :::
 
-(cf. Kunze 1996)
-
-Just as discussed previously with intransitives ([@ec:infinitive-lassen-reflexive-intransitive]), this diathesis seems to be a transparent combination of a reflexive anticausative [@last c], see[@sec:reflexive-anticausative], and a *lassen + Infinitiv* diathesis [@last d], see [@sec:infinitive-lassen-causative]. However, semantically the combination of both leads to a different interpretation, so the combination is arguably a new construction. With transitive verbs it is even possible to find ambiguous constructions like [@next a]. In this example, the transparent combination of a*lassen* causative with a self-inflicting reflexive leads to the interpretation in [@next b], while the fixed stack as discussed in this section leads to the interpretation in [@next c].
+Just as discussed previously with intransitives ([@ec:infinitive-lassen-reflexive-intransitive]), this diathesis might seem to be a transparent combination of a reflexive anticausative [@last c], see[@sec:reflexive-anticausative], and a *lassen + Infinitiv* diathesis [@last d], see [@sec:infinitive-lassen-causative]. However, semantically the combination of both leads to a different interpretation, so the combination is arguably a new construction. With transitive verbs it is even possible to find ambiguous constructions like [@next a], see also Kunze [-@kunze1996: 650ff.]. In this example, the transparent combination of a*lassen* causative with a self-inflicting reflexive leads to the interpretation in [@next b], while the fixed stack as discussed in this section leads to the interpretation in [@next c].
 
 ::: ex
 a. Der König lässt sich tragen.
@@ -214,9 +212,9 @@ Most transitive verbs, though there are interesting exceptions like *empören, l
 
 - Ich bezweifele die Lösung. Die Lösung lässt sich bezweifeln.
 
-### [ NDA | pNA ] *lassen + sich + Infinitiv* Dative reflexive passive {#sec:infinitive-lassen-dative-reflexive-anticausative}
+### [ NDA | pNA ] *lassen + Infinitiv* Dative reflexive passive (*Erlaubnisrezipientenpassiv*) {#sec:infinitive-lassen-dative-reflexive-anticausative}
 
-Verbs with both a dative and an accusative, like *schenken* 'to gift' show a parallel passive diathesis to the previous reflexive passive, but now the dative is promoted to nominative subject [@next]. 
+Verbs with both a dative and an accusative, like *schenken* 'to gift' show a parallel passive diathesis to the previous reflexive passive, but now the dative is promoted to nominative subject [@next]. Semantically this diathesis is rather different from the previous passive, as [@next b] has a clear causative/permissive meaning.
 
 ::: ex
 a. Der Verkäufer schenkt mir den Rechner.
@@ -231,7 +229,7 @@ b. Der Friseur schneidet mir die Haare.
 c. Ich lasse mir die Haare schneiden (von dem Friseur).
 :::
 
-In this construction the semantics are much more transparently related to the *lassen + Infinitive* causative diathesis ([@sec:infinitive-lassen-causative]). This can be clearly seen when a different dative recipient is used, like *sein Freund* 'his friend' [@next a]. First apply the *lassen + Infinitiv* causative [@next b] and subsequently replace the recipient with a self-inflicting reflexive pronoun *mir* [@next c]. The result is semantically the same as the fixed stack above in [@llast b]. However, structurally there is a crucial difference in the expression of the erstwhile agent *Verkäufer* 'seller', either being an accusative [@next c] or a prepositional phrase [@llast b].
+In this construction the semantics are much more transparently related to the *lassen + Infinitive* causative/permissive diathesis ([@sec:infinitive-lassen-causative]). This can be clearly seen when a different dative recipient is used, like *sein Freund* 'his friend' [@next a]. First apply the *lassen + Infinitiv* causative [@next b] and subsequently replace the recipient with a self-inflicting reflexive pronoun *mir* [@next c]. The result is semantically the same as the fixed stack above in [@llast b]. However, structurally there is a crucial difference in the expression of the erstwhile agent *Verkäufer* 'seller', either being an accusative [@next c] or a prepositional phrase [@llast b].
 
 ::: ex
 a. Der Verkäufer schenkt seinem Freund den Rechner.
@@ -239,7 +237,7 @@ b. Ich lasse den Verkäufer seinem Freund den Rechner schenken.
 c. Ich lasse den Verkäufer mir den Rechner schenken.
 :::
 
-Another difference to the transparent stack of causative plus self-inflicting reflexive [@last c] is that the fixed stack of *lassen + sich (Dativ) + Infinitive* [@lllast b] does not allow for a different recipient [@next].
+Another difference to the transparent stack of causative plus self-inflicting reflexive [@last c] is that the fixed stack of *lassen + sich (Dativ) + Infinitive* [@lllast b] does not allow for a different recipient [@next]. In summary, this fixed stack is different from the transparent combination, but it is semantically closely related to it.
 
 ::: ex
 a. Der Verkäufer schenkt seinem Freund den Rechner.
@@ -255,32 +253,6 @@ b. ^* Ich lasse seinem Freund den Rechner schenken (von dem Verkäufer).
 - Ich verbiete ihr das Rauchen nicht. Sie lässt sich (von mir) das Rauchen nicht verbieten.
 
 ## Diatheses with promotion to subject
-
-### --- [ ADJ > OBJ > SBJ > OBJ ] --- *Pertinenznovativ* {.unnumbered}
-
-### [ gNL | DNL | NAL ] *haben + Infinitiv* Experientive {#sec:infinitive-haben}
-
-Reversed passive!?
-
-Addition of a new subject that is the possessor of the nominative of the embedding, or a benefective dative.
-
-- [ gNL ] Sein Teller steht auf den Tisch.
-- [ DNL ] Der Teller steht ihm auf den Tisch.
-- [ NAL ] Er hat den Teller auf den Tisch stehen.
-
-Only with 'position' verbs? (Hole 2002: 183-185)
-Ersatzinfinitiv!
-
-- Position verbs: *liegen, stehen, sitzen, hängen, stecken*
-- Manner of position verbs?: *haften, kleben, lehnen, pendeln*
-
-**Examples**
-
-- Er hat seinen Teller auf den Tisch stehen. ("ihm steht der Teller auf den Tisch.")
-- Ich habe das Auto hier stehen. ("Mein Auto steht hier.")
-- Er hat einen Tropfen an der Nase hängen. ("Ein Tropfen hängt ihm an seiner Nase.")
-- Viola Kleßmann aus Charlottenburg gehört nicht zu denen, die am Ende einen roten Punkt an ihrer Teilnehmernummer kleben haben.^[~~DWDS~~: Berliner Zeitung, 28.07.2003.]
-
 
 ### --- [ Ø > SBJ > OBJ ] --- *Infinitivkausativ* {.unnumbered}
 
@@ -421,15 +393,15 @@ not attested
 
 ## Symmetrical diatheses
 
-### --- [ OBJ > SBJ > OBJ ] --- *Erlaubnis* {.unnumbered}
+### --- [ OBJ > SBJ > OBJ ] --- *Erlebnissubjekt* {.unnumbered}
 
-### [ DN | NA ] *lassen + sich + Infinitiv* Dative reflexive inversive {#sec:infinitive-lassen-dative-reflexive-inversive}
+### [ DN | NA ] *lassen + Infinitiv* Dative reflexive inversive {#sec:infinitive-lassen-dative-reflexive-inversive}
 
 Most verbs with a dative (but no accusative) do not allow for an *lassen + sich + Infinitive* construction. The few that do allow for such a construction, like *schmecken* 'to taste' [@next] show a special diathesis. The dative turns into a nominative subject and the erstwhile nominative turns into an accusative.
 
 ::: ex
-a. Das Essen schmeckt mir.
-b. Ich lasse mir das Essen schmecken.
+a. Der Kuchen schmeckt mir.
+b. Ich lasse mir den Kuchen schmecken.
 :::
 
 **Attested Verbs**
@@ -441,3 +413,28 @@ b. Ich lasse mir das Essen schmecken.
 - Dein Ton gefällt mir nicht. Ich lasse mir deinen Ton nicht gefallen.
 - Der Spaß entgeht mir. Den Spaß lasse ich mir nicht entgehen.
 - Dein Besuch kostet mir 10 Euro. Ich lasse mir deinen Besuch 10 Euro kosten.
+
+### --- [ OBJ > SBJ > OBJ ] --- *Pertinenzsubjekt* {.unnumbered}
+
+### [ DNL | NAL ] *haben + Infinitiv* Dative inversive {#sec:infinitive-haben}
+
+Reversed passive!?
+
+Addition of a new subject that is the possessor of the nominative of the embedding, or a benefective dative.
+
+- [ gNL ] Sein Teller steht auf den Tisch.
+- [ DNL ] Der Teller steht ihm auf den Tisch.
+- [ NAL ] Er hat den Teller auf den Tisch stehen.
+
+Only with 'position' verbs? (Hole 2002: 183-185)
+Ersatzinfinitiv!?
+
+- Position verbs: *liegen, stehen, sitzen, hängen, stecken*
+- Manner of position verbs?: *haften, kleben, lehnen, pendeln*
+
+**Examples**
+
+- Er hat seinen Teller auf den Tisch stehen. ("ihm steht der Teller auf den Tisch.")
+- Ich habe das Auto hier stehen. ("Mein Auto steht hier.")
+- Er hat einen Tropfen an der Nase hängen. ("Ein Tropfen hängt ihm an seiner Nase.")
+- Viola Kleßmann aus Charlottenburg gehört nicht zu denen, die am Ende einen roten Punkt an ihrer Teilnehmernummer kleben haben.^[~~DWDS~~: Berliner Zeitung, 28.07.2003.]

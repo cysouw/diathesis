@@ -1,0 +1,74 @@
+# fine-tuning for html output
+# take pandoc defaults and add some further specifications
+
+header-includes:
+# CSS details just for this document
+- |
+  ```{=html}
+  <!-- CSS added specifically for this document -->
+  <style>
+  .author {
+    text-align: center;
+  }
+  .date {
+    text-align: center;
+  }
+  a:link {
+    text-decoration: none; 
+  }
+  a:hover { 
+    text-decoration: underline; 
+  }
+  .footnote-ref {
+    font-size: smaller;
+  }
+  sup {
+    vertical-align: top;
+  }
+  div [id^="tbl"] table {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  </style>
+  ```
+# Webfont links
+- |
+  ```{=html}
+  <!-- Links for using webfont -->
+  <link href="http://fonts.cdnfonts.com/css/libertinus-serif" rel="stylesheet">
+  <style> 
+    @import url('http://fonts.cdnfonts.com/css/libertinus-serif'); 
+  </style>
+  ```
+# hyphenation settings as suggested by:
+# https://medium.com/clear-left-thinking/all-you-need-to-know-about-hyphenation-in-css-2baee2d89179
+- |
+  ```{=html}
+  <!-- Text justification with hyphenation -->
+  <style>
+  p {
+  -webkit-hyphens: auto;
+  -webkit-hyphenate-limit-before: 3;
+  -webkit-hyphenate-limit-after: 3;
+  -webkit-hyphenate-limit-chars: 6 3 3;
+  -webkit-hyphenate-limit-lines: 2;
+  -webkit-hyphenate-limit-last: always;
+  -webkit-hyphenate-limit-zone: 8%;
+  -moz-hyphens: auto;
+  -moz-hyphenate-limit-chars: 6 3 3;
+  -moz-hyphenate-limit-lines: 2;
+  -moz-hyphenate-limit-last: always;
+  -moz-hyphenate-limit-zone: 8%;
+  -ms-hyphens: auto;
+  -ms-hyphenate-limit-chars: 6 3 3;
+  -ms-hyphenate-limit-lines: 2;
+  -ms-hyphenate-limit-last: always;
+  -ms-hyphenate-limit-zone: 8%;
+  hyphens: auto;
+  hyphenate-limit-chars: 6 3 3;
+  hyphenate-limit-lines: 2;
+  hyphenate-limit-last: always;
+  hyphenate-limit-zone: 8%;
+  }
+  </style>
+  ```
