@@ -1,0 +1,37 @@
+
+<script>
+
+  function toggleNav() {
+    var b = document.querySelector("body")
+    b.classList.toggle("bodysmall");
+    var n = document.querySelector("nav")
+    n.classList.toggle("navshown");
+  }
+
+  document.querySelector("#toc-title").addEventListener("click", function() {
+    toggleNav()
+  });
+
+</script>
+
+<!--
+  function expandTriangle() {
+    var t = document.querySelector("nav ul li")
+    t.classList.toggle("triangleexpand")
+  }
+
+  const toc_li = document.querySelector("nav ul li");
+  const triangle = window.getComputedStyle(toc_li, ':before');
+
+  triangle.addEventListener("click", function() {
+    expandTriangle()
+  });
+
+  window.onresize = function() {
+    if (window.innerWidth <= 800) toggleNav()
+  };
+  window.onload = function() {
+    if (window.innerWidth <= 800) toggleNav()
+  };
+
+-->

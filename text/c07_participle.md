@@ -34,7 +34,7 @@ After all adverbial uses are discarded, there still turn out to be many auxiliar
 - Appearance verbs: *aussehen, scheinen, erscheinen, wirken*
 - Grasp/Possession verbs: *haben, bekommen, kriegen, halten, erhalten, gehören, geben, finden, nehmen*
 - Experience verbs: *wissen, sehen, glauben*
-- Movement/Posture verbs: *stehen, kommen, liegen, gehen, setzen*
+- Movement/Posture verbs: *stehen, kommen, liegen, gehen, setzen, zeigen*
 
 The following eleven diatheses seem prominent enough to grant them a German name. I propose the following names:
 
@@ -45,10 +45,10 @@ The following eleven diatheses seem prominent enough to grant them a German name
 - ~~[OBJ › SBJ › PBJ]~~ *sein* ~~Erlebnispassiv~~ (see [@sec:participles-sein-conversive])
 - ~~[OBJ › SBJ › Ø]~~ *sein* ~~Zustandspassiv~~ (see [@sec:participles-sein-zustandspassiv])
 - ~~[OBJ › SBJ › Ø]~~ *bleiben* ~~Kontinuativpassiv~~ (see [@sec:participles-bleiben-transitive])
-- ~~[OBJ › SBJ › Ø]~~ *gehören* ~~Pflichtspassiv~~ (see [@sec:participles-gehoren-anticausative])
-- ~~[OBJ › SBJ › Ø]~~ *geben* ~~Hingabepassiv~~ (see [@sec:participles-geben-reflexive-anticausative])
-- ~~[OBJ › SBJ › Ø]~~ *aussehen/(er)scheinen/wirken* ~~Askriptionspassiv~~ (see [@sec:participles-aussehen-anticausative]ff.)
-- ~~[Ø › SBJ › OBJ/ADJ]~~ *wissen/glauben/sehen/finden* ~~Opiniativ~~ (see [@sec:participles-promotion-to-subject]ff.)
+- ~~[OBJ › SBJ › Ø]~~ *gehören* ~~Normpassiv~~ (see [@sec:participles-gehoren-anticausative])
+- ~~[OBJ › SBJ › Ø]~~ *geben/zeigen* ~~Erscheinungspassiv~~ (see [@sec:participles-geben-reflexive-anticausative])
+- ~~[OBJ › SBJ › Ø]~~ *aussehen/(er)scheinen/wirken* ~~Apparitivpassiv~~ (see [@sec:participles-aussehen-anticausative ff.])
+- ~~[Ø › SBJ › OBJ/ADJ]~~ *wissen/glauben/sehen/finden* ~~Opiniativ~~ (see [@sec:participles-promotion-to-subject ff.])
 
 ## Characterising participle constructions
 
@@ -773,6 +773,12 @@ Besser:
 
 "Aus Fügungen, in denen diese Formen prädikativ auf das Subjekt bezogen waren, entwi- ckelten sich Vergangenheitsformen, die syntaktisch gleichwertig waren mit den durch ha- ben gebildeten. Die prädikative Verbindung er ist gefallen hatte ursprünglich die Bedeu- tung ‘er ist ein Gefallener’. [...] Auch hier ändert sich dann der Bedeutungsinhalt des Partizips, es drückt nicht mehr den Zustand, sondern die in der Vergangenheit liegende Handlung aus und verbindet sich mit dem Hilfsverb zu einer einheitlichen Verbalform." (Dal 1966, 122–123)
 
+Erlebnispassiv
+
+- Etwas erstaunt mich
+- Ich bin erstaunt über etwas
+- Ich habe mich erstaunt über etwas
+
 ### --- Durative --- {.unnumbered}
 
 ### [ N | N ] *bleiben + Partizip* Intransitive durative {#sec:participles-bleiben-intransitive}
@@ -848,7 +854,7 @@ b. Der Verlust macht mich betroffen.
 
 **Notes**
 
-There are various examples of *machen + Partizip* in which there does not appear to be a direct relation to finite usage of the main verbs.
+There are various highly frequent examples of *machen + Partizip* in which the participle is not directly derived from a fintite verb.
 
 - Das Geschäft macht mich angesehen.
 - Etwas macht mich erfahren.
@@ -857,7 +863,7 @@ There are various examples of *machen + Partizip* in which there does not appear
 
 ### --- Appearance --- {.unnumbered}
 
-### [ N | N ] *aussehen + Partizip*
+### [ N | N ] *aussehen/(er)scheinen/wirken + Partizip* {#sec:participles-scheinen-intransitive}
 
 different origins, but always through "sein"
 
@@ -883,15 +889,9 @@ Belegsammlungen von Alexander Lasch:
 
 angegriffen, gepflegt, verstört, angestrengt, bekümmert, verjüngt, abgesperrt, beschädigt, enttäuscht, erschöpft, improvisiert
 
-### [ N | N ] *scheinen + Partizip* {#sec:participles-scheinen-intransitive}
-
 - scheinen (https://goo.gl/5YvKiw; Stand: 03.09.2016). 
 
-### [ N | N ] *erscheinen + Partizip*
-
 - erscheinen (https://goo.gl/Xj7EW6; Stand: 03.09.2016). 
-
-### [ N | N ] *wirken + Partizip*
 
 - wirken (https://goo.gl/yCai8B; Stand: 03.09.2016). 
 
@@ -1022,6 +1022,10 @@ Dativ [ ND | -D ] and Governed Preposition [ NP | -P ] possible:
 - Es wird sich jetzt endlich beeilt/entschlossen/vertragen/gekümmert
 - Hier wird sich nicht verkrochen/angestellt/verweigert
 
+[@lasch2016: 119] "Reflexivpassiv" also with regular 'self-inflicting' reflexive constructions
+
+- heute wird sich rasiert.
+
 ### --- [ OBJ > SBJ > Ø ] --- {.unnumbered}
 
 ### [ NA | –N ] *sein + Partizip* Anticausative (*Zustandspassiv*) {#sec:participles-sein-zustandspassiv}
@@ -1053,9 +1057,11 @@ Transitive Verben bei denen es nicht geht: 'Experiencer Subjects' and 'haben' Ba
 
 overlap with [@sec:preverb-transitive-with-unaccusative], but not the same class!
 
+check Reflexive anticausative [@sec:reflexive-anticausative]: many do not allow for Zustandspassiv!
+
 - ärgern (Etwas ärgert den Lehrer / ^* Der Lehrer ist geärgert / verärgert)
 - brauchen (Er braucht ein Auto / ? Das Auto ist gebraucht / verbraucht)
-- drücken (Sorgen drücken mich.)
+- drücken (Sorgen drücken mich.) ? Ich bin gedrückt / bedrückt
 - ekeln (Etwas ekelt mich / ^* Ich bin geekelt / angeekelt) 
 - entwickeln (Das Holz entwickelt einen starken Qualm. )
 - ergeben (Die Transaktionen ergaben einen hohen Gewinn.)
@@ -1068,6 +1074,7 @@ overlap with [@sec:preverb-transitive-with-unaccusative], but not the same class
 - kratzen (? Er kratzt seinen Arm / ? Der Arm ist gekratzt / verkratzt/zerkratzt)
 - kümmern
 - legen (Ich lege das Kind unter die Decke. / ^* Das Kind ist schon seit heute morgen unter die Decke gelegt.)
+- lohnen (Das Ergebnis lohnt den Aufwand. * Der Aufwand ist gelohnt.)
 - merken
 - mögen (Ich mag den Mann / ? Der Mann ist gemocht)
 - passen (Ich passe den Anzug / ^* Der Anzug ist gepasst)
@@ -1098,6 +1105,8 @@ Maienborn: 102-103: Sie findet aber Beispiele bei Google!
 
 ### [ NA | –N ] *bleiben + Partizip* anticausative (*Kontinuativpassiv*) {#sec:participles-bleiben-transitive}
 
+The name Kontinuativpassiv is inspired by Helbig & Buscha [-@helbig2001: 163].
+
 Nur wenige geeignete Verben: typisch Antikausative?
 
 - Die Tür bleibt geöffnet (geschlossen)
@@ -1112,7 +1121,9 @@ nicht im Perfekt? * Die Tür ist geschlossen geblieben
 - ^* Das Buch bleibt geschrieben/vollendet
 - ^* Das Auto bleibt gewaschen
 
-### [ NA | –N ] *gehören + Partizip* Anticausative (*Pflichtspassiv*) {#sec:participles-gehoren-anticausative}
+[@lasch2016: 72; @eroms2000: 404; @kramer2004]
+
+### [ NA | –N ] *gehören + Partizip* Anticausative (*Normpassiv*) {#sec:participles-gehoren-anticausative}
 
 [@lasch2016: 84ff.]
 
@@ -1136,17 +1147,19 @@ Possible with agent? not attested in examples from Lasch
 
 Subject-less???
 
-- Gegen den Feind gehört gekämpft.
-- Dem Studenten gehört geholfen.
+- [ NP | –P ] Ich kämpfe gegen den Feind. Gegen den Feind gehört gekämpft.
+- [ ND | –D ] Ich helfe dem Studenten. Dem Studenten gehört geholfen.
 
-### [ NA | –N ] *geben + Partizip* Reflexive anticausative (*Hingabepassiv*) {#sec:participles-geben-reflexive-anticausative}
+### [ NA | –N ] *geben/zeigen + Partizip* Reflexive anticausative (*Erscheinungspassiv*) {#sec:participles-geben-reflexive-anticausative}
 
 geben Mit reflexivprononem!
 
 - Jemand schlägt ihn -> Er ist geschlagen -> Er gibt sich geschlagen
 - Er gibt sich geschlagen/besiegt (Jemand besiegt ihn)
 
-"state-of-mind": *geschlagen, reserviert, gelöst, entspannt, aufgeräumt, aufgeklärt*
+"state-of-mind": *geschlagen, entspannt, aufgeklärt*
+
+many not as finite verbs: *reserviert, gelöst, aufgeräumt*
 
 sowohl passives 'hingeben' (gibt sich geschlagen), wie auch aktives 'sich vortun' (gibt sich aufgeräumt)
 
@@ -1158,9 +1171,16 @@ With *gewonnen*, the accusative of active is inanimate, while anticausative is a
 
 - Er gewinnt den Kampf. Er gibt sich gewonnen
 
-### [ NA | –N ] *aussehen + Partizip* Anticausative (*Askriptionspassiv*) {#sec:participles-aussehen-anticausative}
+zeigen: *motivieren, überzeugen, erfüllen, befriedigen, ermutigen*
 
-transitive
+Etwas motiviert das Orchester.
+Auch das Orchester zeigte sich motiviert.^[~~DWDS~~: Die Zeit, 08.04.1999, Nr. 15]
+
+### [ NA | –N ] *aussehen/(er)scheinen/wirken + Partizip* Anticausative (*Apparitivpassiv*) {#sec:participles-aussehen-anticausative}
+
+lat. apparere 'to appear'
+
+[@lasch2016: 254ff.] Modalaskription
 
 - [ NA|–N ] Etwas verstört ihn -> er ist verstört -> Er sieht verstört aus
 
@@ -1170,15 +1190,9 @@ Belegsammlungen von Alexander Lasch:
 
 angegriffen, gepflegt, verstört, angestrengt, bekümmert, verjüngt, abgesperrt, beschädigt, enttäuscht, erschöpft, improvisiert
 
-### [ NA | –N ] *scheinen + Partizip* Anticausative (*Askriptionspassiv*)
-
 - scheinen (https://goo.gl/5YvKiw; Stand: 03.09.2016). 
 
-### [ NA | –N ] *erscheinen + Partizip* Anticausative (*Askriptionspassiv*)
-
 - erscheinen (https://goo.gl/Xj7EW6; Stand: 03.09.2016). 
-
-### [ NA | –N ] *wirken + Partizip* Anticausative (*Askriptionspassiv*)
 
 - wirken (https://goo.gl/yCai8B; Stand: 03.09.2016). 
 
@@ -1376,6 +1390,8 @@ b. Das Geschenk liegt in der Schublade versteckt.
 ### --- [ ADJ > OBJ > SBJ > Ø ] --- {.unnumbered}
 
 ### [ NgA | NDA | –NA ] *haben + Partizip* Dative anticausative (*Pertinenzpassiv*) {#sec:participles-haben-passive}
+
+[@lasch2016: 87ff.]
 
 Following Hole [-@hole2002] that construction is known in German as the "Partizipiale *haben*-Konfiguration". I find this name rather cumbersome and  and propose alternatively to call this construction *Pertinenzpassiv*.
 

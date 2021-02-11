@@ -861,7 +861,7 @@ a. Ich schließe die Tür.
 b. Die Tür schließt sich (von alleine). 
 :::
 
-Very similar an anticausative is the ~~passive [OBJ › SBJ › ADJ]~~. The main difference between the two (a distinction which is often difficult to delimit) is that for a passive the original subject is still implied and can optionally be overtly expressed [@next]. In contrast, for an anticausative the original subject is completely removed and a phrase like "by itself" can typically be added. As an example of a passive diathesis in [@next] is the *bekommen Rezipientanpassiv* in which a dative is promoted to subject [@sec:participles-bekommen-passive]
+Very similar an anticausative is the ~~passive [OBJ › SBJ › ADJ]~~. The main difference between the two (a distinction which is often difficult to delimit) is that for a passive the original subject is still implied and can optionally be overtly expressed [@next]. In contrast, for an anticausative the original subject is completely removed and a phrase like "by itself" can typically be added. As an example of a passive diathesis in [@next] is the *bekommen Rezipientenpassiv* in which a dative is promoted to subject [@sec:participles-bekommen-passive]
 
 ::: ex
 ~~Passive [OBJ › SBJ › ADJ]~~
@@ -912,7 +912,7 @@ a. Der Tisch brennt.
 b. Ich verbrenne den Tisch.
 :::
 
-The *sehen + Infinitiv* diathesis [@next], see [@sec:infinitive-sehen], adds a new nominative subject and the old nominative is turned into an accusative. This diathesis is thus structurally an example of a novative ~~[Ø › SBJ › OBJ]~~. However, the newly added nominative is not a causer. The new role is better described as an experiencer, so this diathesis can semantically be called an ~~experientive~~. Similary constructions are also attested with light-verbs *hören*, *fühlen*, *spüren*, *riechen* and *finden*.
+The *sehen + Infinitiv* diathesis [@next], see [@sec:infinitive-sehen], adds a new nominative subject and the old nominative is turned into an accusative. This diathesis is thus structurally an example of a novative ~~[Ø › SBJ › OBJ]~~. However, the newly added nominative is not a causer. The new role is better described as an experiencer, so this diathesis can semantically be called an ~~experientive~~. Similarly constructions are also attested with light-verbs *hören*, *fühlen*, *spüren*, *riechen* and *finden*.
 
 ::: ex
 ~~Experientive novative [Ø › SBJ › OBJ]~~
@@ -945,7 +945,7 @@ b. Ich lasse den Jungen einschlafen. \
 
 a. Der Junge schläft.
 b. Ich lasse den Jungen schlafen. \
-   (= Ich erlaube, das der Junge weiter schäft.)
+   (= Ich erlaube, das der Junge weiter schläft.)
 :::
  
 A ~~reversed passive [ADJ › SBJ › OBJ]~~ demotes the subject to object and at the same time promotes a new subject from an erstwhile adjunct role. An example in German is the diathesis from *erben* 'to inherit' to *enterben* 'to disinherit' [@next a,b], see [@sec:preverb-inverted-passive-accusative-loss]. This is semantically very close to a causative ~~[Ø › SBJ › OBJ]~~, in which the newly introduced causer can sometimes be expressed as an adjunct [@next c,d]. This affinity between a reversed passive and a causative is reminiscent of the affinity between a passive and an anticausative. In both pairs, the difference amounts to a switch between the closely related macro-role of an optional adjunct ~~(ADJ)~~ and being completely unexpressed ~~(Ø)~~.
@@ -1120,7 +1120,7 @@ a. Er kocht eine Suppe für mich.
 b. Er kocht mir eine Suppe.
 :::
 
-{#par:possraising} There is a further kind of covert diathesis with a dative object, conventially called ~~possessor raising~~. In such diatheses there is an altenation between a possessor (typically expressed as an adnominal genitive) and a dative [@next]. The dative can alternate with the possessor of a nominative subject (see [@sec:case-possessor-of-nominative-to-dative-experiencer]), an accusative object (see [@sec:case-possessor-accusative-to-dative]) or a location (see [@sec:prepositions-possessor-of-location-to-dative-experiencer]). Following convention, I classify these diatheses as promotion ~~[ADJ › OBJ]~~
+{#par:possraising} There is a further kind of covert diathesis with a dative object, conventionally called ~~possessor raising~~. In such diatheses there is an alternation between a possessor (typically expressed as an adnominal genitive) and a dative [@next]. The dative can alternate with the possessor of a nominative subject (see [@sec:case-possessor-of-nominative-to-dative-experiencer]), an accusative object (see [@sec:case-possessor-accusative-to-dative]) or a location (see [@sec:prepositions-possessor-of-location-to-dative-experiencer]). Following convention, I classify these diatheses as promotion ~~[ADJ › OBJ]~~
 
 ::: ex
 ~~Covert applicative (possessor raising) [ADJ › OBJ]~~
@@ -1167,7 +1167,7 @@ a. Du störst die Veranstaltung.
 b. Du störst.
 :::
 
-A semantically special subgroup of object additions are ~~resultatives~~. A resultative diatheses adds an object that is the result of performing the predicate.^[Confusingly, the term "resultative" is also used in the literature with an aspectual meaning, namely to indicate a special kind of state induced as the result of perfoming the predicate [e.g. @nedjalkov1988a].] An overtly marked resultative is illustrated in [@next] with the diathesis between *arbeiten* 'to work' and the inherent reflexive *sich etwas erarbeiten* 'to acquire something through work', see [@sec:preverb-reflexive-resultative]. The result of the work is added as an object in [@next b].
+A semantically special subgroup of object additions are ~~resultatives~~. A resultative diatheses adds an object that is the result of performing the predicate.^[Confusingly, the term "resultative" is also used in the literature with an aspectual meaning, namely to indicate a special kind of state induced as the result of performing the predicate [e.g. @nedjalkov1988a].] An overtly marked resultative is illustrated in [@next] with the diathesis between *arbeiten* 'to work' and the inherent reflexive *sich etwas erarbeiten* 'to acquire something through work', see [@sec:preverb-reflexive-resultative]. The result of the work is added as an object in [@next b].
 
 ::: ex
 ~~Object addition (resultative) [Ø › OBJ]~~
@@ -1176,7 +1176,7 @@ a. Ich arbeite (und am Ende habe ich dadurch ein Vermögen).
 b. Ich erarbeite mir ein Vermögen.
 :::
 
-The reversal of a resultative is an ~~antiresultative~~. In such a diathesis the result of performing the predicate is removed. This result is expressed as an object, so an antiresultative is a special kind of an object drop. An example of such a diathesis is shown in [@next] with the alterntion between *stecken* 'to put into' and *verstecken* 'to hide'. The verb *stecken* needs an obligatory location [@next a,b]. Such an obligatory location is classified here as a prepositional object (see [@sec:intro-arguments-utterance-valency]). The situation is different with the verb *verstecken*. With this verb the location is an optional adjunct and can be left out (see [@sec:preverb-transitive-antiresultative] for an extensive discussion).
+The reversal of a resultative is an ~~antiresultative~~. In such a diathesis the result of performing the predicate is removed. This result is expressed as an object, so an antiresultative is a special kind of an object drop. An example of such a diathesis is shown in [@next] with the alternation between *stecken* 'to put into' and *verstecken* 'to hide'. The verb *stecken* needs an obligatory location [@next a,b]. Such an obligatory location is classified here as a prepositional object (see [@sec:intro-arguments-utterance-valency]). The situation is different with the verb *verstecken*. With this verb the location is an optional adjunct and can be left out (see [@sec:preverb-transitive-antiresultative] for an extensive discussion).
 
 ::: ex
 ~~Object drop (antiresultative) [OBJ › Ø]~~
@@ -1187,7 +1187,7 @@ c. Ich verstecke das Geschenk in dem Schrank.
 d. Ich verstecke das Geschenk.
 :::
 
-Resultatives are frequently found without explicit marking. In this case it is semantically clear that the extra resulting object is an extension to the basic lexical meaning of the verb. A few examples are given in [@next] and more dicussion can be found in [@sec:case-accusative-addition; @sec:prepositions-manner-of-movement; @sec:prepositions-transitive-location-as-result; @sec:prepositions-weather-manner-movement; @sec:prepositions-intransitive-location-as-result].
+Resultatives are frequently found without explicit marking. In this case it is semantically clear that the extra resulting object is an extension to the basic lexical meaning of the verb. A few examples are given in [@next] and more discussion can be found in [@sec:case-accusative-addition; @sec:prepositions-manner-of-movement; @sec:prepositions-transitive-location-as-result; @sec:prepositions-weather-manner-movement; @sec:prepositions-intransitive-location-as-result].
 
 ::: ex
 ~~Covert object addition (resultative) [Ø › OBJ]~~
@@ -1276,7 +1276,7 @@ b. Ich schneide ein Loch in das Brot.
 c. ^^?^ Ich schneide ein Loch
 :::
 
-The reversed chain ~~[PBJ › OBJ › Ø]~~ is illustrated in [@next] with the diathesis between the verb *pressen* 'to squeeze' and *auspressen* 'to squeeze', see [@sec:preverb-location-antiresultative]. The verb *pressen* takes an accusative that expressed the result of the squeezing (*Saft*), and the squeezee (*Zitrone*) is expressed as an obligatory prepositional phrse [@next a,b]. The antiresultative *auspressen* [@next c] drops the result (*Saft*) and promotes the squeezee (*Zitrone*) to accusative.
+The reversed chain ~~[PBJ › OBJ › Ø]~~ is illustrated in [@next] with the diathesis between the verb *pressen* 'to squeeze' and *auspressen* 'to squeeze', see [@sec:preverb-location-antiresultative]. The verb *pressen* takes an accusative that expressed the result of the squeezing (*Saft*), and the squeezee (*Zitrone*) is expressed as an obligatory prepositional phrase [@next a,b]. The antiresultative *auspressen* [@next c] drops the result (*Saft*) and promotes the squeezee (*Zitrone*) to accusative.
 
 ::: ex
 ~~Applicative + object drop (antiresultative) [PBJ › OBJ › Ø]~~
@@ -1321,80 +1321,263 @@ b. Ich beraube dich des Buches.
 
 ## German names for German grammar
 
-### Verbative
+Among all the diatheses that are distinguished in this survey there are many that only occur in very specific situations or might otherwise be considered to be exceptions or incidental instances. However, there are also very many diatheses that are highly frequent and can be used with very many different verbs. Those major diatheses, that are of central importance to the grammatical structure of German, will be summarised in this chapter. Such a summary would normally be presented at the end of a book, but because of the often long-winding data-driven details of the subsequent descriptive chapters I decided to present this summary here at the end of the introductory deliberations. Take it as a quick appetiser of things to come, with ample links to the actual discussion in later chapters.
 
-- ~~[SBJ › Ø] Verbativ~~ (see [@sec:case-nominative-drop ff.])
-- ~~[SBJ › Ø]~~ *werden* ~~Unpersönlicher Passiv~~ (see [@sec:participles-werden-impersonal-passive])
+Besides a basic summary I also propose German names for all major diatheses. Using suitable names is a central aspect of (scientific) communication. In grammar names are like instruments that allow us to abstract away from individual details and manipulate classes of utterances that show a specific abstract structure. However, naming is hard and can also lead to miscommunication. When re-using available terminology, the terms are easily recognised and remembered, but they carry the weight of history. Even when detailed definitions are given (as I have tried to do throughout this book), unintended aspects of previous usage inevitably seep through. In contrast, inventing new names introduces more precision, but the downside are often cumbersome terms that are difficult to remember. 
 
-### Passive/anticausative
+In naming diatheses in this book I have tried to strike a balance between precise naming and good readability. For the English names in the detailed discussions in the coming chapters, I have decided in favour or precision. Each phenomenon is newly named with often long descriptive and unique names. In contrast, for the German names in this chapter I try to reuse available terminology as much as possible. When necessary, I propose new names that attempt to evoke a functional description like 'Reziprokativ' or 'Erlebnispassiv'. However, the semantic analysis of the diatheses thus described is often only only preliminarily analysed here, so it might become necessary to rename diatheses in the future, once more detailed investigations have been performed.
 
-- ~~[OBJ › SBJ › Ø] Antikausativ~~ (see [@sec:case-haben-anticausative ff.])
-- ~~[OBJ › SBJ › Ø] Ortsantikausativ~~ (see [@sec:prepositions-haben-caused-location])
-- ~~[OBJ › SBJ › Ø] Reflexiv Antikausativ~~ (see [@sec:reflexive-anticausative] ff.)
+In this chapter, the diatheses are organised in sections according to the macro-role remapping patterns as introduced in [@sec:intro-naming]. The different diatheses in each section are thus functionally highly similar, but they are structurally different.
 
-- ~~[OBJ › SBJ › ADJ]~~ *werden* ~~Vorgangspassiv~~ (see [@sec:participles-werden-passive])
-- ~~[OBJ › SBJ › ADJ]~~ *bekommen/kriegen/erhalten* ~~Rezipientenpassiv~~ (see [@sec:participles-bekommen-passive])
-- ~~[ADJ › OBJ › SBJ › Ø]~~ *haben* ~~Pertinenzpassiv~~ (see [@sec:participles-haben-passive])
-- ~~[OBJ › SBJ › Ø]~~ *sein* ~~Zustandspassiv~~ (see [@sec:participles-sein-zustandspassiv])
-- ~~[OBJ › SBJ › Ø]~~ *bleiben* ~~Kontinuativpassiv~~ (see [@sec:participles-bleiben-transitive])
-- ~~[OBJ › SBJ › Ø]~~ *gehören* ~~Pflichtspassiv~~ (see [@sec:participles-gehoren-anticausative])
-- ~~[OBJ › SBJ › Ø]~~ *geben* ~~Hingabepassiv~~ (see [@sec:participles-geben-reflexive-anticausative])
-- ~~[OBJ › SBJ › Ø]~~ *aussehen/(er)scheinen/wirken* ~~Askriptionspassiv~~ (see [@sec:participles-aussehen-anticausative]ff.)
+## Verbative diatheses ~~[SBJ › Ø]~~
 
-### Conversive
+### (Unmarkierter) Verbativ
 
-- ~~[OBJ › SBJ › PBJ] Reflexiv Erlebnispassiv~~ (see [@sec:reflexive-preposition-passive])
-- ~~[OBJ › SBJ › PBJ]~~ *sein* ~~Erlebnispassiv~~ (see [@sec:participles-sein-conversive])
-- ~~[OBJ › PBJ] Reflexiv Deakkusativ~~ (see [@sec:reflexive-accusative-antipassive])
+The unmarked ~~Verbativ~~ (see [@sec:case-nominative-drop] and subsequent sections) is typically found with dispersion verbs like *stinken* 'to stink', *klingeln* 'to ring' or *krachen* 'to crunch' [@next a]. These verbs allow for an construction without explicit nominative subject describing a general situation with unknown cause. Instead a valency-simulating pronoun *es* is used [@next b]. Additionally, various verbs that allow for impersonal constructions like *es gibt* 'there exist' or *es wimmelt von* 'to swarm' belong to this category of diatheses.
 
-### Fabricative/conciliative
+::: ex
+a. Der Müll stinkt.
+b. Hier stinkt es aber.
+:::
 
-- ~~[ADJ › SBJ › Ø] Instrumentsubjektivierung~~ (see [@sec:prepositions-intransitive-preposition-anticausative ff.])
-- ~~[PBJ › SBJ › Ø] Kreationssubjektivierung~~ (see [@sec:prepositions-fabricative-accusative ff.])
+### Wertungsverbativ
 
-### Novative
+The ~~Wertungsverbativ~~ (see [@sec:adverbial-reflexive-drop]) similarly replaces the nominative subject by a valency-simulating *es*. Additionally, this diathesis obligatorily needs a reflexive pronoun like *sich* and an adverbial phrase describing an evaluation, like *gut* 'fine' or *angenehm* 'pleasantly'. The *Wertungsverbativ* typically is found with agentive intransitive verbs like *leben* 'to live' or *tanzen* 'to dance' and describes a habitual situation. This diathesis is arguably closely related to the ~~Wertungsantikausativ~~ (see [@sec:adverbial-reflexive-transitive-anticausative]).
 
-- ~~[Ø › SBJ › OBJ] Kausativ~~ (see [@sec:case-sein-causative ff.])
-- ~~[Ø › SBJ › OBJ] Ortskausativ~~ (see [@sec:prepositions-sein-caused-location ff.])
-- ~~[Ø › SBJ › OBJ] Präverb Kausativ~~ (see [@sec:preverb-causative]ff.)
-- ~~[Ø › SBJ › OBJ/ADJ]~~ *wissen/glauben/sehen/finden* ~~Opiniativ~~ (see [@sec:participles-promotion-to-subject]ff.)
+::: ex
+a. Wir leben in diesem Haus.
+b. Hier lebt es sich gut.
+:::
 
-### Applicative
+### Unpersönlicher Passiv (*werden + Partizip*)
 
-- ~~[ADJ › OBJ] Pertinenzdativ~~ (see [@sec:case-possessor-of-nominative-to-dative-experiencer ff.])
-- ~~[ADJ › OBJ] Ortspertinenzdativ~~ (see [@sec:prepositions-possessor-of-location-to-dative-experiencer ff.])
-- ~~[ADJ › OBJ] Benefaktivdativ~~ (see [@sec:prepositions-benefactive-dative])
-- ~~[ADJ › OBJ › PBJ] Pertinenzakkusativ~~ (see [@sec:perpositions-possessor-applicative])
-- ~~[ADJ › OBJ] Präverb Akkusativ Applikativ~~ (see [@sec:preverb-applicative])
-- ~~[ADJ › OBJ] Präverb Dativ Applikativ~~ (see [@sec:preverb-dative-applicative])
+The ~~Unpersönlicher Passiv~~ is a construction consisting of the light verb *werden* with a participle of an intransitive verb (see [@sec:participles-werden-impersonal-passive]). Only ~~agentive~~ ('unergative') intransitive verbs like *tanzen* 'to dance' [@next] or *schlafen* 'to sleep' allow for this construction without any nominative subject (not even a valency-simulating *es* is needed). This construction is arguably closely related to the ~~Vorgangspassiv~~ for transitive verbs (see [@sec:participles-werden-passive]).
 
-### Antipassive
+::: ex
+a. Die Jungs tanzen.
+b. Jetzt wird getanzt!
+:::
 
-- ~~[OBJ › ADJ] Akkusativ Antipassiv~~ (see [@sec:prepositions-accusative-antipassive ff.])
-- ~~[OBJ › ADJ] Dativ Antipassiv~~ (see [@sec:prepositions-dative-antipassive ff.])
+### Unpersönlicher Möglichkeitspassiv (*lassen + Infinitiv*) 
+
+The ~~Unpersönlicher Möglichkeitspassiv~~ consists of the light verb *lassen* with the infinitive of an intranstive verb (see [@sec:infinitive-lassen-reflexive-intransitive]). This construction obligatory includes a reflexive pronoun and an evaluating adverbial expression. A valency-simulating pronoun *es* appears to be optional. Similar to the previous diathesis, this diathesis also seems to be restricted to agentive intransitive verbs like *arbeiten* 'to work' [@next]. This construction is arguably closely related to the ~~Möglichkeitspassiv~~ for transitive verbs (see [@sec:infinitive-lassen-reflexive-anticausative]).
+
+::: ex
+a. Ich arbeite zuhause.
+b. Zuhause lässt (es) sich gut arbeiten.
+:::
+
+## Anticausative diatheses ~~[OBJ › SBJ › Ø]~~
+
+### (Unmarkierter) Antikausativ
+
+The unmarked ~~Antikausativ~~ (see [@sec:case-haben-anticausative] and subsequent sections) is attested with verbs like *öffnen* 'to open' or *kochen* 'to cook'. These verbs occur both as transitive [@next a] and intransitive [@next b] without any further grammatical marking. Crucially, the object of the transitive is the subject of the intransitive. Because this diathesis is unmarked, there is no formal indication of a direction. So, this diathesis could just as well be interpreted as a causative. However, there is a formal difference between verbs that in the intransitive allow for both a *haben* and *sein* perfect [@next c,d] and those that only allow for a *sein* perfect. There seems to be an interesting semantic correlate to this formal difference, and consequentially the first group is called ~~Antikausativ~~, while the second group is called ~~Kausativ~~ (see [@sec:case-sein-causative] and subsequent sections).
+
+::: ex
+a. Der Mitarbeiter öffnet den Laden.
+b. Der Laden öffnet gleich.
+c. Der Laden hat geöffnet.
+d. Der Laden ist geöffnet.
+:::
+
+### Ortsantikausativ
+
+The ~~Ortsantikausativ~~ (see [@sec:prepositions-haben-caused-location]) is similar to the previous unmarked ~~Antikausativ~~. Verbs like *kleben* 'to glue, to stick' or *klappen* 'to fold' occur both as transitive and intransitive [@next a,b] with the object of the transitive being the subject of the intransitive. Also the intransitive is possible with both *haben* and *sein* in the perfect [@next c,d]. The only difference is the obligatory presence of a location. Note that there is also a parallel ~~Ortskausativ~~ (see [@sec:prepositions-sein-caused-location] and subsequent sections).
+
+::: ex
+a. Ich habe den Teller an den Tisch geklebt.
+b. Der Teller klebt am Tisch.
+b. Der Teller hat am Tisch geklebt.
+c. Der Teller ist am Tisch geklebt.
+:::
+
+### Reflexivantikausativ
+
+The ~~Reflexivantikausativ~~ (see [@sec:reflexive-anticausative] and subsequent sections) is attested with verbs like *entscheiden* 'to decide' or *beschränken* 'to limit'. Again, these verbs occur both as transitive and intransitive with the transitive object being the subject of the intransitive [@next a,b]. However, with these verbs the intransitive needs an obligatory reflexive pronoun [@next b]. The intransitive with reflexive pronoun typically takes *haben* in the perfect [@next c]. The intransitive perfect with *sein* [@next d] can now clearly be identified as a ~~Zustandspassiv~~ of the transitive (see [@sec:participles-sein-zustandspassiv]).
+
+::: ex
+a. Der Richter entscheidet den Fall.
+b. Der Fall entscheidet sich.
+c. Der Fall hat sich entschieden.
+d. Der Fall ist entschieden.
+:::
+
+### Wertungsantikausativ
+
+The ~~Wertungsantikausativ~~ (see [@sec:adverbial-reflexive-transitive-anticausative] and subsequent sections) is possible with many straightforward transitive verbs, like with *verkaufen* 'to sell' or *lesen* 'to read' [@next a]. The anticausative intransitive obligatorily needs a reflexive pronoun, and additionally an obligatory manner adverbial is needed [@next b]. Just like the previous anticausatives, the intransitive occurs both with *haben* and *sein* in the perfect. However, *haben* is clearly used with the reflexive anticausative construction, while *sein* is used with the ~~Zustandspassiv~~ of the transitive (see [@sec:participles-sein-zustandspassiv]).
+
+::: ex
+a. Ich verkaufe das Buch.
+b. Das Buch verkauft sich gut.
+c. Das Buch hat sich gut verkauft.
+d. Das Buch ist verkauft.
+:::
+
+## Passive diatheses ~~[OBJ › SBJ › ADJ]~~ 
+
+### Vorgangspassiv (*werden + Partizip*)
+
+The ~~Vorgangspassiv~~ (see [@sec:participles-werden-passive]) is the infamous diathesis consisting of a light verb *werden* with a participle. Passives are very similar to anticausatives in that the transitive object is turned into the intransitive subject [@next a,b]. The special characteristic of a passive is that the transitive subject can be optionally retained as a prepositional *von* or *durch* phrase. However, note that this prepositional phrase is normally not used.
+
+::: ex
+a. Ich verkaufe den Schrank.
+b. Der Schrank wird verkauft (von mir).
+:::
+
+### Rezipientenpassiv (*bekommen/kriegen/erhalten + Partizip*)
+
+The ~~Rezipientenpassiv~~ (see [@sec:participles-bekommen-passive]) has become a mainstay in the German grammatical literature. It consists of the light verb *bekommen* with a participle (alternatively, the light verbs *kriegen* or *erhalten* can be used). With this diathesis, the dative recipient is turned into the nominative subject of the intransitive. Again, the erstwhile nominative can be retained as a prepositional phrase, though it mostly is not used.
+
+::: ex
+a. Der Friseur schneidet mir die Haare.
+b. Ich bekomme die Haare geschnitten (von dem Friseur).
+:::
+
+### Zustandspassiv (*sein + Partizip*)
+
+The ~~Zustandspassiv~~ (see [@sec:participles-sein-zustandspassiv]) consists of a light verb *sein* with a participle [@next]. Although this diathesis is traditionally called 'passive' in German grammar, the status of the retained agent is problematic [@next b]. It might thus be better to consider this diathesis to be an anticausative. However, because of the long tradition I hold on to the term *Zustandspassiv*. The closely-related *sein + Partizip* ~~Erlebnispassiv~~ (see [@sec:participles-sein-conversive]) retains the subject with a governed preposition. Also the *sein + Partizip* ~~Perfekt~~ as found with some intransitive verbs (see [@sec:participles-sein-perfect]) is arguably also the same construction, though applied to different verbs.
+
+::: ex
+a. Ich verkaufe den Schrank.
+b. Der Schrank ist verkauft ^?^(von mir).
+:::
+
+### Kontinuativpassiv (*bleiben + Partizip*)
+
+The ~~Kontinuativpassiv~~ (see [@sec:participles-bleiben-transitive]) is closely related to the previous *Zustandspassiv*, but now the light verb *bleiben* is used with a participle [@next]. Both *sein* and *bleiben* are known as auxiliaries (~~Kopulaverben~~) in German grammar, so this parallel construction is not unexpected. However, not all verbs can be equally used in both constructions. For example, verbs like *schreiben* 'to write' or *waschen* 'to wash' are fine with the *sein-Zustandspassiv* but not with the *bleiben-Kontinuativpassiv*. The retention of the original agent as a prepositional phrase seems to be impossible, so this diathesis is probably better considered to be an anticausative.
+
+::: ex
+a. Der Pförtner schließt die Tür.
+b. Die Tür bleibt geschlossen \*(von den Pförtner).
+:::
+
+### Apparitivpassiv (*aussehen/(er)scheinen/wirken + Partizip*)
+
+The ~~Apparitivpassiv~~ (see [@sec:participles-aussehen-anticausative] and subsequent sections) is constructed with one of the light verbs *aussehen*, *scheinen*, *erscheinen* and *wirken* with a participle. The retention of the original agent as a prepositional phrase seems to be impossible, so this diathesis is probably better considered to be an anticausative. 
+
+::: ex
+a. Der Pförtner schließt die Tür.
+b. Die Tür sieht geschlossen aus \*(von den Pförtner).
+:::
+
+### Normpassiv (*gehören + Partizip*)
+
+The ~~Normpassiv~~ (see [@sec:participles-gehoren-anticausative]) consists of the light verb *gehören* with a participle.
+
+::: ex
+a. Der Schiedsrichter bestraft den Spieler.
+b. Der Spieler gehört bestraft (durch den Schiedsrichter)
+:::
+
+### Erscheinungspassiv (*geben/zeigen + Partizip*)
+
+*geben/zeigen* ~~Erscheinungspassiv~~ (see [@sec:participles-geben-reflexive-anticausative])
+
+::: ex
+a. Die Stille entspannt ihn.
+b. Er gibt sich entspannt \*(durch die Stille).
+:::
+
+### Pertinenzpassiv (*haben + Partizip*)
+
+*haben* ~~Pertinenzpassiv~~ (see [@sec:participles-haben-passive])
+
+::: ex
+a. Der Friseur schneidet ihm die Haare.
+b. Er hat die Haare geschnitten ^?^(durch den Friseur).
+
+## Conversive diatheses ~~[OBJ › SBJ › PBJ]~~
+
+### Erlebnispassiv
+
+*sein* ~~Erlebnispassiv~~ (see [@sec:participles-sein-conversive])
+
+### Reflexiv Erlebnispassiv
+
+Reflexiv Erlebnispassiv~~ (see [@sec:reflexive-preposition-passive])
+
+## Fabricative diatheses ~~[PBJ › SBJ › Ø]~~
+
+Kreationssubjektivierung~~ (see [@sec:prepositions-fabricative-accusative]ff.)
+
+## Conciliative diatheses ~~[ADJ › SBJ › Ø]~~
+
+-  Instrumentsubjektivierung (see [@sec:prepositions-intransitive-preposition-anticausative]ff.)
+
+## Novative diatheses ~~[Ø › SBJ › OBJ]~~
+
+(Unmarkierter) Kausativ (see [@sec:case-sein-causative]ff.)
+Ortskausativ (see [@sec:prepositions-sein-caused-location]ff.)
+Präverb Kausativ (see [@sec:preverb-causative]ff.)
+*wissen/glauben/sehen/finden* Opiniativ (see [@sec:participles-promotion-to-subject]ff.)
+
+## Applicative diatheses ~~[ADJ › OBJ]~~ 
+
+Pertinenz (lat. pertinere, ,dazugehören‘) Peter von Polenz: Der Pertinenzdativ und seine Satzbaupläne. In: Festschrift für Hugo Moser. Düsseldorf 1969, Seite 146ff.
+
+Pertinenzdativ~~ (see [@sec:case-possessor-of-nominative-to-dative-experiencer]ff.)
+Ortspertinenzdativ~~ (see [@sec:prepositions-possessor-of-location-to-dative-experiencer]ff.)
+Benefaktivdativ~~ (see [@sec:prepositions-benefactive-dative])
+[ADJ › OBJ › PBJ] Pertinenzakkusativ~~ (see [@sec:perpositions-possessor-applicative])
+ 
+Präverb Akkusativ Applikativ~~ (see [@sec:preverb-applicative])
+Präverb Dativ Applikativ~~ (see [@sec:preverb-dative-applicative])
+Adverb Applikativ~~ (see [@sec:adverbials-applicative]ff.)
+
+also governed prepositions!
+
+## Antipassive diatheses ~~[OBJ › ADJ]~~
+
+-  Akkusativ Antipassiv~~ (see [@sec:prepositions-accusative-antipassive]ff.)
+- ~~[OBJ › ADJ] Dativ Antipassiv~~ (see [@sec:prepositions-dative-antipassive]ff.)
 - ~~[OBJ › ADJ] Reziprokativ~~ (see [@sec:reflexive-mit-antipassive])
 - ~~[OBJ › ADJ] Präverb Antipassiv~~ (see [@sec:preverb-reflexive-antipassive]ff.)
 
-### Full applicative
+~~[OBJ › PBJ] Reflexiv Deakkusativ~~ (see [@sec:reflexive-accusative-antipassive])
+
+also governed prepositions!
+
+## Full applicative diatheses ~~[ADJ › OBJ › ADJ]~~
 
 - ~~[ADJ › OBJ › ADJ] Vollapplikativ~~ (see [@sec:prepositions-instrument-applicative])
 - ~~[ADJ › OBJ › ADJ] Präverb Vollapplikativ~~ (see [@sec:preverb-applicative-antipassive])
+- ~~[ADJ › OBJ › ADJ] Adverb Vollapplikativ~~ (see [@sec:adverbial-full-applicative])
 
-### Resultative
+## Resultative diatheses ~~[Ø › OBJ/PBJ]~~
 
 - ~~[Ø › OBJ] Resultativ~~ (see [@sec:case-accusative-addition])
-- ~~[Ø › PBJ] Bewegungszustand~~ (see [@sec:prepositions-manner-of-movement ff.])
-- ~~[Ø › PBJ] Ortsresultativ~~ (see [@sec:prepositions-intransitive-location-as-result ff.])
+- ~~[Ø › PBJ] Bewegungszustand~~ (see [@sec:prepositions-manner-of-movement]ff.)
+- ~~[Ø › PBJ] Ortsresultativ~~ (see [@sec:prepositions-intransitive-location-as-result]ff.)
 - ~~[Ø › OBJ › PBJ] Aktionsresultativ~~ (see [@sec:prepositions-action-result])
 - ~~[Ø › PBJ] Ergänzende Wirkung~~ (see [@sec:prepositions-performative-result]
 - ~~[Ø › OBJ] Präverb Resultativ~~ (see [@#sec:preverb-reflexive-resultative]ff.)
 
 - ~~[PBJ › PBJ] Reflexiv Resultativ~~ (see [@sec:reflexive-resultative])
 
-### Antiresultative
+## Antiresultative diatheses ~~[OBJ/PBJ › Ø]~~
 
-- ~~[OBJ › Ø] Endoreflexiv~~ (see [@sec:reflexive-accusative-drop] ff.)
+- ~~[OBJ › Ø] Endoreflexiv~~ (see [@sec:reflexive-accusative-drop]ff.)
 - ~~[PBJ › Ø] Präverb Antiresultativ~~ (see [@sec:preverb-intransitive-antiresultative]ff.)
-- ~~[PBJ › OBJ › Ø] Aktion Antiresultativ~~ (see [@sec:preverb-location-antiresultative]ff.)
+- ~~[PBJ › OBJ › Ø] Aktionsantiresultativ~~ (see [@sec:preverb-location-antiresultative]ff.)
+- ~~[PBJ › Ø] Adverb Antiresultativ~~ (see [@sec:adverbs-antiresultative]ff.)
 
 ## Clause alternations without diathesis
+
+- Freier Reflexiv
+- Präverb Reflexiv [@sec:preverb-reflexive]
+- Adverb Reflexiv [@sec:adverbials-intransitive-reflexive-resultative]
+- Selbstbezogener Reflexiv
+- Reziprok
+  
+- nicht-strukturelle Präfixe [@sec:preverb-intranstive-without-diathesis]
+- absolutiv Präfixe [@sec:preverb-intransitive-with-unaccusative]
+
+- haben perfekt
+- sein perfekt
+  
+- Modalverben
+- Absentiv [@groot2000]
+- Progressiv
+- haben, bleiben + Inf
+
+

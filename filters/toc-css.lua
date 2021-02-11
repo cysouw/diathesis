@@ -59,6 +59,26 @@ nav ul li:hover > ul , ul li ul:hover  {
   visibility: visible;
   display: block;
 }
+.bodysmall {
+  padding-left: 7cm;
+  transition: 0.5s;
+}
+.navshown {
+  margin-left: -7cm;
+  width: 6cm;
+  transition: 0.5s;
+}
+.navshown h2:before {
+  content: "▶ ";
+}
+.navshown:hover {
+  width: 50%;
+  background-color: rgba(255, 255, 255, 0.95);
+}
+.triangleexpand {
+  visibility: visible;
+  display: block;
+}
 </style>
 ]]
 
@@ -75,50 +95,3 @@ end
 return {
   { Meta = addCSS }
 }
-
-
--- Javascript has to be added at the end through "include-after-body"
--- only for html though! gives errors with other outputs
-
---[[
-  <style>
-  .bodysmall {
-    padding-left: 5cm;
-    transition: 0.5s;
-  }
-  .navshown {
-    margin-left: -5cm;
-    width: 150px;
-    transition: 0.5s;
-  }
-  .navshown h2:before {
-    content: "▶ ";
-  }
-  .navshown:hover {
-    width: 50%;
-    padding-right: 1cm;
-    padding-left: 1cm;
-    background-color: rgba(255, 255, 255, 0.95);
-  }
-  </style>
-
-  <script>
-  function toggleNav() {
-    var b = document.querySelector("body")
-    b.classList.toggle("bodywide");
-    var n = document.querySelector("nav")
-    n.classList.toggle("navhidden");
-  }
-
-  document.querySelector("#toc-title").addEventListener("click", function() {
-    toggleNav()
-  });
-
-  window.onresize = function() {
-    if (window.innerWidth <= 800) toggleNav()
-  };
-  window.onload = function() {
-    if (window.innerWidth <= 800) toggleNav()
-  };
-</script>
-]]

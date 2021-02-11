@@ -2,28 +2,29 @@
 
 ## Introduction
 
-In this chapter only those alternations are considered that involve pure flagging, i.e. case-marked constituents or prepositional phrases. There are many different alternations that involve prepositions, like antipassives [@next a,b], see [@sec:prepositions-accusative-antipassive], anticausatives [@next c,d], see [@sec:prepositions-intransitive-preposition-anticausative], applicatives [@next e,f], see [@sec:prepositions-instrument-applicative], and many more. 
+In this chapter only those alternations are considered that involve pure flagging, i.e. case-marked constituents or prepositional phrases. There are many different alternations that involve prepositions, like antipassives [@next a], see [@sec:prepositions-accusative-antipassive], anticausatives [@next b], see [@sec:prepositions-intransitive-preposition-anticausative], applicatives [@next c], see [@sec:prepositions-instrument-applicative], and many more. 
 
 ::: ex
-a. Ich schlürfe meinen Tee.
-b. Ich schlürfe an meinem Tee.
-c. Er quietscht mit den Reifen.
-d. Die Reifen quietschen.
-e. Er füllt Schnaps in die Flasche.
-f. Er füllt die Flasche mit Schnaps. 
+a. Ich schlürfe meinen Tee. \
+   Ich schlürfe an meinem Tee.
+b. Er quietscht mit den Reifen. \
+   Die Reifen quietschen.
+c. Er füllt Schnaps in die Flasche. \
+   Er füllt die Flasche mit Schnaps. 
 :::
 
-There are also various alternations that necessarily involve obligatory local prepositional phrases, like causatives [@next a,b], see [@sec:prepositions-haben-caused-location], resultatives [@next c], see [@sec:prepositions-intransitive-location-as-result], and raised possessors [@next d,e,] see [@sec:prepositions-possessor-of-location-to-dative-experiencer].
+There are also various alternations that necessarily involve obligatory local prepositional phrases, like causatives [@next a], see [@sec:prepositions-haben-caused-location], resultatives [@next b], see [@sec:prepositions-intransitive-location-as-result], and raised possessors [@next c] see [@sec:prepositions-possessor-of-location-to-dative-experiencer].
 
 ::: ex
-a. Der Pullover hängt im Schrank.
-b. Ich hänge den Pullover in den Schrank.
-c. Der Wind weht die Blätter durch die Luft.
-d. Er schaut über meine Schulter.
-e. Er schaut mir über die Schulter. 
+a. Der Pullover hängt im Schrank. \
+   Ich hänge den Pullover in den Schrank.
+b. Der Wind weht. \
+   Der Wind weht die Blätter durch die Luft.
+c. Er schaut über meine Schulter. \
+   Er schaut mir über die Schulter. 
 :::
 
-Prepositional phrases in German are partly governed arguments and partly non-governed adverbial phrases. This distinction is not overtly marked and leads to recurrent ambiguity, e.g. between *warten auf* 'to wait for' and *warten auf* 'to wait while being on top of something' [@next]. It is of central importance to clearly delimit governed from non-governed prepositions, as discussed extensively in  [@sec:prepositions-delimiting-governed-prepositional-phrases]).
+Prepositional phrases in German are partly governed arguments and partly non-governed adverbial phrases. This distinction is not overtly marked and leads to recurrent ambiguity, e.g. between *warten auf* 'to wait for something' and *warten auf* 'to wait while being on top of something' [@next]. It is of central importance to clearly delimit governed from non-governed prepositions, as discussed extensively in [@sec:prepositions-delimiting-governed-prepositional-phrases]).
 
 ::: ex
 Der König wartet auf seinem alten Thron auf seinen neuen Thron.
@@ -218,7 +219,7 @@ b. Ich verspäte mich durch den Regen.
 c. Ich verspäte mich dadurch, dass es regnet.
 :::
 
-The preposition *von*, roughly meaning 'from' in its spatial meaning [@next a], can alos be used for a cause [@next b].
+The preposition *von*, roughly meaning 'from' in its spatial meaning [@next a], can also be used for a cause [@next b].
 
 ::: ex
 a. Sie kommt von dem Arzt.
@@ -620,7 +621,7 @@ c. Die Entlassung droht mir.
 
 ### [ NAL | –NL ] *haben* Anticausative + location {#sec:prepositions-haben-caused-location}
 
-Some verbs allow for both an intransitive stative location [@next a] and caused location [@next b] construction. I analyze these verbs as anticausatives (cf. [@sec:case-haben-anticausative]).
+Some verbs allow for both an intransitive stative location [@next a] and caused location [@next b] construction. I analyse these verbs as anticausatives (cf. [@sec:case-haben-anticausative]).
 
 ::: ex
 a. Ich hänge den Pullover in den Schrank.
@@ -1083,7 +1084,7 @@ Accusative objects that alternate with an *in* prepositional phrase seem to be r
 - Ich zwicke deinen Arm. Ich zwicke in deinen Arm.
 - Die Soldaten stürmen das Kastell. Sie stürmen in den Saal. (different meaning from the weather verb *stürmen* 'to storm')
 
-#### *mit* Intrumental antipassive {#sec:prepositions-mit-antipassive}
+#### *mit* Instrumental antipassive {#sec:prepositions-mit-antipassive}
 
 Accusative objects that alternate with a *mit* prepositional phrase indicate partially affected objects, typically those that can be construed as an instrument [@next a] or an instrument of transport [@next b].
 
@@ -1221,7 +1222,7 @@ It seems to be somewhat unusual for verbs with dative – but no accusative – 
 **Attested Verbs**
 
 - *aus*  : (movement out of) *entkommen, entfliehen, entschlüpfen, entspringen, entwischen*
-- *für*  : (on behalve of) *bedeuten, bevorstehen, bleiben*
+- *für*  : (on behalf of) *bedeuten, bevorstehen, bleiben*
 - *auf*  : *folgen*
 - *zu*   : (belonging to) *dienen, gehören, passen*
 - *über* : *gebieten*
@@ -1331,7 +1332,7 @@ d. Die Arbeit beginnt.
 **Attested Verbs**
 
 - *mit*  : *anfangen, beginnen, rechnen, zögern*
-- *an*   : *glauben, leiden*
+- *an*   : *glauben (für Wahr halten), leiden*
 - *nach* : *verlangen*
 - *für*. : *büßen, garantieren, leben*
 
@@ -1343,12 +1344,16 @@ d. Die Arbeit beginnt.
 - Ich büße meine Missetat. Ich büße für meine Missetat.
 - Ich garantiere den Erfolg. Ich garantiere für den Erfolg.
 - Ich lebe meinen Beruf. Ich lebe für meinen Beruf.
+- Ich glaube deine Aussage. Ich glaube an deiner Aussage.
 
 **Notes**
 
-Note the absence of a determiner
+Note the absence of a determiner with *leiden*:
 
-- Ich leide große Schmerzen. Ich leide an einer Krankheit.
+::: ex
+a. Ich leide große Schmerzen.
+b. Ich leide an einer Krankheit.
+::: 
 
 ### [ ND | NP ] Dative governed antipassive
 
@@ -1509,7 +1514,7 @@ Er klopft den Aschenbecher leer.
 
 **Attested Verbs**
 
-- Bodily Action: *heulen, husten, klopfen, pusten, spucken, stampfen*
+- Bodily Action: *heulen, husten, klopfen, pusten, pumpen, spucken, stampfen*
 - Bodily Process: *schlafen, schwitzen*
 - Weather Verbs: *regnen, wehen*
 - Others: *graben (aus), klingeln, schwindeln*
@@ -1528,6 +1533,7 @@ Er klopft den Aschenbecher leer.
 - Er klingelt mich aus dem Bett.
 - Er schwindelt ihn auf die Liste.
 - Sie gräbt das Frühstück aus dem Rucksack.
+- Das Herz pumpt das Blut durch den Körper.
 - Das allgemeine politische Klima weht den Illegalen ins Gesicht. (Die Zeit, 30.07.2010)
 - Der Zeitgeist weht den üblichen Akustikschrott in die Besucherohren. (Die Zeit, 08.03.1996)
 - Die frische Brise kämmt die Palmen und weht den Flugsand auf die Promenade. (Die Zeit, 04.05.1990)
@@ -1665,7 +1671,7 @@ For some verbs there appears to be a rather clear lexicalisation of the meaning 
 
 ### [ NAp | NAD ] *für* Benefactive raising {#sec:prepositions-benefactive-dative}
 
-The alternation of a dative with a *für* prepositional phrase is very widespread [@next a,b]. It can be used with verbs that can be performed on behalve on somebody else "nach deinem Wunsch" (benefactive/dativus commodi). In German grammar it is sometimes referred to as a 'free dative' because it can be easily dropped completely. As Eisenberg [-@eisenberg2006a: 298] remarks, it is widespread, but cannot be used with all verbs and is thus a device for the subclassification of verbs.
+The alternation of a dative with a *für* prepositional phrase is very widespread [@next a,b]. It can be used with verbs that can be performed on behalf of somebody else "nach deinem Wunsch" (benefactive/dativus commodi). In German grammar it is sometimes referred to as a 'free dative' because it can be easily dropped completely. As Eisenberg [-@eisenberg2006a: 298] remarks, it is widespread, but cannot be used with all verbs and is thus a device for the subclassification of verbs.
 
 ::: ex
 a. Ich koche dir eine Suppe.

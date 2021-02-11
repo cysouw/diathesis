@@ -20,7 +20,7 @@ There are eight local groups of diatheses that seem prominent enough to be given
 - ~~[Ø › SBJ › OBJ] Präverb Kausativ~~ (see [@sec:preverb-causative]ff.)
 - ~~[OBJ › ADJ] Präverb Antipassiv~~ (see [@sec:preverb-reflexive-antipassive]ff.)
 - ~~[PBJ › Ø] Präverb Antiresultativ~~ (see [@sec:preverb-intransitive-antiresultative]ff.)
-- ~~[PBJ › OBJ › Ø] Aktion Antiresultativ~~ (see [@sec:preverb-location-antiresultative]ff.)
+- ~~[PBJ › OBJ › Ø] Aktionsantiresultativ~~ (see [@sec:preverb-location-antiresultative]ff.)
 - ~~[Ø › OBJ] Präverb Resultativ~~ (see [@#sec:preverb-reflexive-resultative]ff.)
 - ~~[ADJ › OBJ] Präverb Akkusativ Applikativ~~ (see [@sec:preverb-applicative])
 - ~~[ADJ › OBJ] Präverb Dativ Applikativ~~ (see [@sec:preverb-dative-applicative])
@@ -78,6 +78,9 @@ others
 - entlang  : *fahren, laufen, rasen*
 - Ich laufe entlang den/dem Fluß. Ich laufe den Fluß entlang. 
 
+Prefixes?
+
+- vollstrecken, vollziehen, vollführen
 
 Abgrenzung zu Aktionsart: Andere Konstruktion, aber keine syntaktische Änderung der Ergänzungen, nur semantisch anders (hier keine komplette Auflistung!). In der Literatur wird 'Aktionsart' auch noch benutzt für reine semantische Analyse, z.B. 'blühen' ist atelisch.
 
@@ -781,6 +784,11 @@ a. Ich trinke Bier.
 b. Ich betrinke mich (mit Bier).
 :::
 
+Antiresultative?
+
+- Ich fahre, und am Ende habe ich dadurch *kein* Benzin mehr. Ich verfahre mein letztes Benzin.
+- Ich spiele, und am Ende habe ich dadurch *kein* Geld mehr. Ich verspiele mein letztes Geld.
+
 **Attested Verbs**
 
 - beˈ-   : *trinken, saufen*
@@ -826,7 +834,7 @@ can they dative maybe always be replaced by a preposition? Then merge into dativ
 
 ### [ NA | Np ] Preverb reflexive antipassive {#sec:preverb-reflexive-antipassive}
 
-Preposition *bei*? Maybe always possible with accusative drop verbs
+Maybe always possible with accusative drop verbs
 
 **Attested Verbs**
 
@@ -1032,7 +1040,7 @@ d. Der Wind verweht die Blätter.
 - Ich schenke den Wein in das Glas. Ich schenke den Wein ein.
 - Ich grabe den Schatz aus den Boden. Ich grabe den Schatz aus.
 
-### --- [ PBJ > OBJ > Ø ] --- *Aktion Antiresultativ* {.unnumbered}
+### --- [ PBJ > OBJ > Ø ] --- *Aktionsantiresultativ* {.unnumbered}
 
 ### [ NLA | NA– ] Preverb applicative + accusative drop {#sec:preverb-location-antiresultative}
 
@@ -1185,21 +1193,20 @@ c. Ich habe mir eine Medaille beim Marathon erlaufen.
 With the prefix *ver-* the meaning of this diathesis is a negative resultative [@next].
 
 ::: ex
-a. Ich fahre, und am Ende habe ich dadurch *kein* Benzin mehr.
-b. Ich verfahre mein letztes Benzin.
+a. Ich bitte um ein besseres Verhalten.
+b. Ich verbitte mir dein Verhalten.
 :::
 
 **Attested Verbs**
 
 - erˈ-  : *arbeiten, laufen, schreiben*
-- verˈ- : *fahren, spielen*
+- verˈ- : *bitten*
 - ˈan-  : *essen, tanzen, trinken*
 
 **Examples**
 
 - Ich arbeite, und am Ende habe ich dadurch ein Vermögen. Ich erarbeite mir ein Vermögen.
 - Ich esse, um am Ende habe ich dadurch einen dicken Bauch. Ich esse mir einen Bach an.
-- Ich spiele, und am Ende habe ich dadurch kein Geld mehr. Ich verspiele mein letztes Geld.
 
 **Notes**
 
@@ -1210,6 +1217,19 @@ a. Ich schreibe dir einen Brief.
 b. Ich schreibe (als Beruf).
 c. Ich erschreibe mir ein großes Publikum.
 :::
+
+### --- [ Ø > OBJ > ADJ ] --- {.unnumbered}
+
+### [ N–A | NAp ] Preverb object switch {#sec:preverb-object-switch}
+
+::: ex
+a. Ich schließe den Safe.
+b. Ich schließe den Schmuck (in den Safe) ein.
+:::
+
+**Attested Verbs**
+
+- ˈein- : *schließen*
 
 ### --- [ ADJ > OBJ ] --- {.unnumbered}
 
@@ -1378,11 +1398,13 @@ The preposition *durch* only alternates with the preverb *durch-*.
 
 **Attested Verbs**
 
-- umˈ : *fahren*
+- umˈ : *fahren, kreisen*
+- 'ein : *kreisen* 
 
 **Examples**
 
-- Ich fahre um den Polizisten. Ich umfahre den Polizisten
+- Ich fahre um den Polizisten. Ich umfahre den Polizisten.
+- Die Truppen kreisen um das Dorf. Die Truppen umkreisen das Dorf. Die Truppen kreisen das Dorf ein.
 
 #### *unter* Preverb applicative
 

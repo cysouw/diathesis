@@ -44,9 +44,9 @@ NOTE: see also [@sec:infinitive-lassen-dative-reflexive-anticausative]
 
 There are six local groups of diatheses that seem prominent enough to be given a German name. I propose the following names for these:
 
-- ~~[OBJ › SBJ › Ø] Reflexiv Antikausativ~~ (see [@sec:reflexive-anticausative] ff.)
+- ~~[OBJ › SBJ › Ø] Reflexivantikausativ~~ (see [@sec:reflexive-anticausative ff.])
 - ~~[OBJ › SBJ › PBJ] Reflexiv Erlebnispassiv~~ (see [@sec:reflexive-preposition-passive])
-- ~~[OBJ › Ø] Endoreflexiv~~ (see [@sec:reflexive-accusative-drop] ff.)
+- ~~[OBJ › Ø] Endoreflexiv~~ (see [@sec:reflexive-accusative-drop ff.])
 - ~~[OBJ › ADJ] Reziprokativ~~ (see [@sec:reflexive-mit-antipassive])
 - ~~[OBJ › PBJ] Reflexiv Deakkusativ~~ (see [@sec:reflexive-accusative-antipassive])
 - ~~[PBJ › PBJ] Reflexiv Resultativ~~ (see [@sec:reflexive-resultative])
@@ -156,7 +156,7 @@ Comparing these two groups, the generalisation can be formulated that dative *si
 
 ### [ N ] Obligatory accusative reflexive {#sec:reflexive-obligatory-accusative-reflexive}
 
-Various verbs describing behavior like *verirren* 'to get lost' [@next] need an obligatory reflexive pronoun.
+Various verbs describing behaviour like *verirren* 'to get lost' [@next] need an obligatory reflexive pronoun.
 
 ::: ex
 Vier Wanderer haben sich im Gebirge verirrt.
@@ -243,7 +243,7 @@ b. Ich habe mich mit ihm abgegeben.
 
 The verb *sich schicken* 'to acquiesce' is an old-fashioned meaning of *schicken* 'to send'. Another usage of the same verb stem typically occurs with *es* and negative polarity, meaning 'to be not suitable*: *es schickt sich nicht*.
 
-### [ Np ] Obligatory accusative reflexive + *mit* preposition (Reciproka tantum) {#sec:reflexive-real-reciprocals}
+### [ Np ] Obligatory accusative reflexive + *mit* preposition (*Reciproka tantum*) {#sec:reflexive-real-reciprocals}
 
 A special group of verbs in this class are verbs with an reciprocal *mit* preposition, like *einigen* 'to reach an agreement' [@next a]. On first notice, the *mit* phrase might look like a comitative argument [@nnext a]. Just like comitative phrases, reciprocal *mit* phrases are not governed prepositions, compare [@next b,c] and [@nnext b,c], see also [@sec:prepositions-comitative-intrumental]. However, different from comitative phrases, reciprocal *mit* phrases do not allow for the addition of *zusammen* [@next c], nor can *with* be replaced by *ohne* [@next d]. The addition of *zusammen* and the replacement with *ohne* is possible with comitative *mit* [@nnext c,d]. 
 
@@ -429,7 +429,7 @@ b. Ich habe mich mit der Arbeit abgequält. ('plagen')
 
 ### --- Diatheses of obligatory reflexive verbs --- {.unnumbered}
 
-Verbs with obligatory *sich* can be seen as just regular lexicalised verbs, which in turn are applicable to any of the alternations discussed in the previous two chapters. Curiously, such alternations seem to be rather rare. The attested cases will be discussed in this section. Arguably, these diathese belong together with the diatheses from the previous two chapters
+Verbs with obligatory *sich* can be seen as just regular lexicalised verbs, which in turn are applicable to any of the alternations discussed in the previous two chapters. Curiously, such alternations seem to be rather rare. The attested cases will be discussed in this section. Arguably, these diatheses belong together with the diatheses from the previous two chapters
 
 ### [ NP | –P ] Obligatory accusative reflexive + nominative drop
 
@@ -442,7 +442,7 @@ c. Der Mond dreht sich um die Erde.
 d. ^* Bei dem Mond dreht es sich um die Erde.
 :::
 
-**Attesetd Verbs**
+**Attested Verbs**
 
 - *um* : *drehen*
 
@@ -536,7 +536,7 @@ There are three different kinds of alternations involving reflexive pronouns tha
 
 ### --- Free reflexive pronouns --- {.unnumbered}
 
-Some verbs allow for both a construction with and without *sich*, but there is no difference in the valency between these two constructions. The difference in meaning between the two alternants is small and is in need for more in-depth study in all cases presented below. It is also possible that the occurence of a 'free' reflexive is a dialectal phenomenon, see e.g. the apparent extension of reflexive usage in Austrian German as observed in Ziegler [-@ziegler2010]. Note that also for these verbs a dative reflexive pronoun only occurs when a full accusative argument is present. An early discussion of the phenomenon is found in Stötzel [-@stotzel1970: 174-177]. 
+Some verbs allow for both a construction with and without *sich*, but there is no difference in the valency between these two constructions. The difference in meaning between the two alternants is small and is in need for more in-depth study in all cases presented below. It is also possible that the occurrence of a 'free' reflexive is a dialectal phenomenon, see e.g. the apparent extension of reflexive usage in Austrian German as observed in Ziegler [-@ziegler2010]. Note that also for these verbs a dative reflexive pronoun only occurs when a full accusative argument is present. An early discussion of the phenomenon is found in Stötzel [-@stotzel1970: 174-177]. 
 
 ### [ N | N ] Free accusative reflexive
 
@@ -1071,7 +1071,7 @@ d. In diesem Buch handelt es sich darum, dass er eine Weltreise macht.
 
 - *handeln*
 
-### --- [ OBJ > SBJ > Ø ] --- *Reflexiv Antikausativ* {.unnumbered}
+### --- [ OBJ > SBJ > Ø ] --- *Reflexivantikausativ* {.unnumbered}
 
 ### [ NA | –N ] Reflexive anticausative {#sec:reflexive-anticausative}
 
@@ -1125,7 +1125,6 @@ This alternation is probably more frequent in the Perfekt, because there is no f
 - Der Frühling verwandelt die Landschaft. Die Landschaft verwandelt sich.
 - Ich konstituiere eine neue Disziplin. Die neue Disziplin konstituiert sich.
 - Der Vertrag festigt unsere Beziehung. Unsere Beziehung hat sich gefestigt.
-- Ich höre den Vorschlag an. Der Vorschlag hört sich gut an.
 - Ich entscheide den Fall. Der Fall entscheidet sich.
 - Die Polizei hat die Tür eingedrückt. Mit hörbarem Krach drückte sich der gewölbte Zinkdeckel unter Herrn Kortüms Gewicht ein.
 - Der Sturm hat den Wald verändert. Der Wald hat sich verändert.
@@ -1393,7 +1392,7 @@ d. Politiker verstecken sich und ihre Botschaften hinter verschwurbelten Sätzen
 e. Sie verstecken sich und ihre Waffen.^[~~DWDS~~: Die Zeit, 31.10.2001, Nr. 45.]
 :::
 
-The endoreflexiv aspect most clearly emerges with verbs that hurt the body, like *verbrennen* 'to burn' [@next] or *schneiden* 'to cut'. The usage of these verbs with a reflexive pronoun normally implies that the body is only partially inflicted, i.e. only a part of the body is burned or cut. For this reason, the conjunction in [@next c] is strange and would only make sense in a context in which somebody would burn himself completely (cf. Elias Canetti's novel *Die Blendung*).
+The endoreflexive aspect most clearly emerges with verbs that hurt the body, like *verbrennen* 'to burn' [@next] or *schneiden* 'to cut'. The usage of these verbs with a reflexive pronoun normally implies that the body is only partially inflicted, i.e. only a part of the body is burned or cut. For this reason, the conjunction in [@next c] is strange and would only make sense in a context in which somebody would burn himself completely (cf. Elias Canetti's novel *Die Blendung*).
 
 ::: ex
 a. Er verbrennt das Buch.

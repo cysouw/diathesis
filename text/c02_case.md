@@ -4,16 +4,16 @@
 
 Diathesis typically involves variation in the marking of case as governed by the verb, possibly including alternations between case marked arguments and adpositional phrases. The notion of 'flagging' was (re)introduced in Haspelmath [-@haspelmath2005d: 2] as a cover term to capture the intuition that case marking and adpositional marking express very similar functions in linguistic marking. The first two data chapters in this book discuss exactly those kind of marking, viz. case and adpositional marking as governed by a verb. This chapter discusses diatheses involving case-marked constituents, and the next chapter focusses on governed prepositional constituents.
 
-Pure case-marking diatheses are characterised by one and the same verb that can be used with different case-marked roles and, crucially, no other overt marking of the different constructions. Such alternations include, for example, possessor raising like [@next a,b] or anticausative alternations like [@next c,d].
+Pure case-marking diatheses are characterised by one and the same verb that can be used with different case-marked roles and, crucially, no other overt marking of the different constructions. Such alternations include, for example, possessor raising like [@next a] or anticausative alternations like [@next b].
 
 ::: ex
-a. Ich schneide seine Haare.
-b. Ich schneide ihm die Haare.
-c. Ich verbrenne den Tisch.
-d. Der Tisch verbrennt.
+a. Ich schneide seine Haare. \
+   Ich schneide ihm die Haare.
+b. Ich verbrenne den Tisch. \
+   Der Tisch verbrennt.
 :::
 
-The crucial (and somewhat problematic) aspect of such alternations is that there is no formal indication of the presence of a diathesis except for the marking of the arguments themselves. The prototypical diathesis (as defined [@sec:intro-basic-definition]) includes some overt linguistic marking that indicates that a diathesis has taken place (i.e. some affix, particle, light verb, or other morphosyntactic means). And indeed, all diatheses that will be discussed in subsequent chapters will be of that kind. In contrast, the diatheses discussed in this chapter and the next chapter are 'covert' alternations, or 'zero marked' alternations, in that there is no other indication of a diathesis, except for the marking of the arguments themselves [@zuniga2019 introduce the term 'covert' diathesis for this]. The problem with such covert diatheses is that there is no overt directionality in the alternation -- there is no way to distinguish between a base form and a derived form. Both alternants have an equal status as far as the morphosyntax is concerned. 
+The crucial (and somewhat problematic) aspect of such alternations is that there is no formal indication of the presence of a diathesis except for the marking of the arguments themselves. The prototypical diathesis (as defined [@sec:intro-basic-definition]) includes some overt linguistic marking that indicates that a diathesis has taken place (i.e. some affix, particle, light verb, or other morphosyntactic means). And indeed, all diatheses that will be discussed in subsequent chapters will be of that kind. In contrast, the diatheses discussed in this chapter and the next chapter are 'covert' alternations, or 'zero marked' alternations, in that there is no other indication of a diathesis, except for the marking of the arguments themselves [@zuniga2019 introduce the term 'covert' diathesis for this]. The problem with such covert diatheses is that there is no overt directionality in the alternation -- there is no way to distinguish between a base form and a derived form. Both alternants have an equal status as far as the morphosyntax is concerned. I have attempted to infer a direction based on parallels to other diatheses.
 
 The unmarked nature of covert diatheses implies that there is some slight redundancy and fuzziness in presentation. This redundancy arises because, for example, when a verb occurs in four different constructions, then there are logically six different alternations (viz. 1-2, 1-3, 1-4, 2-3, 2-4, 3-4). I have nonetheless decided to approach the descriptive organisation in this chapter from the perspective of such pairwise alternations, because (i) it highlights the possible connections attested between construction, and (ii) very many verbs appear only to occur in just one or two alternations anyway (with only a smaller subset of verbs appearing across many different constructions).
 
@@ -172,7 +172,7 @@ Some of the 'living' verbs allow for accusative arguments in non-living related 
 
 The verbs in this class are strict transitives: they need a nominative subject argument and an additional accusative argument. Further arguments are not allowed, and no governed prepositions are allowed either. It turns out that this group is not very large, because very many verbs allow for dative arguments (traditionally called 'free' datives, but that term will be ignored here) or alternations with governed prepositions. For example, an apparently typical transitive verb like *bauen* 'to build' allows for a dative to mark the beneficiary of the building, as in *Ich baue dir ein Haus* 'I will build a house for you'. Conversely, there are also many apparently typical transitive verbs that can just as well be used without accusative object, including well-known ambitransitive verbs like *essen* 'to eat'. Still, the current set of verbs attested for this class can easily be extended and is not at all intended to be complete. 
 
-Verbprefixes and Verbparticles (see Chapter [-@sec:preverbs]) regularly induce an applicative alternation and subsequently often lexicalise, leading to transitive verbs [@next a,b]. 
+Verbprefixes and verbparticles (see Chapter [-@sec:preverbs]) regularly induce an applicative alternation and subsequently often lexicalise, leading to transitive verbs [@next a,b]. 
 
 ::: ex
 a. Ich schreite über den Teppich.
@@ -207,7 +207,7 @@ The verbs in this class need both a nominative subject argument and a second dat
 
 **Attested Verbs**
 
-- *ähneln, angehören, antworten, begegnen, beipflichten, bleiben, einfallen, entgegen kommen, entgehen, entsprechen, gefallen, gegenüber treten, gehören, gelten, glauben, gleichen, glücken, imponieren, liegen, missfallen, nacheifern, schaden, stehen, trauen, unterlaufen, unterliegen, unterstehen, verfallen, widerfahren, zufallen, zureden, zustoßen, zuneigen*
+- *ähneln, angehören, antworten, begegnen, beipflichten, bleiben, einfallen, entgegen kommen, entgehen, entsprechen, gefallen, gegenüber treten, gehören, gelten, glauben (vertrauen), gleichen, glücken, imponieren, liegen, missfallen, nacheifern, schaden, stehen, trauen, unterlaufen, unterliegen, unterstehen, verfallen, widerfahren, zufallen, zureden, zustoßen, zuneigen*
 
 **Examples**
 
@@ -228,7 +228,7 @@ The verbs in this class need both a nominative subject argument and a second dat
 - Ich unterstehe einer Behörde.
 - Ich unterliege dem Gegner. ('besiegt werden')
 - Die Mode unterliegt dem Zwang der Zeit. ('bestimmt werden')
-- Ich glaube dir.
+- Ich glaube dir. ('vertrauen')
 
 **Notes**
 
@@ -336,7 +336,7 @@ d. Die Miete wird monatlich gezahlt.
 
 **Attested Verbs**
 
-- Quantity: *enthalten, kosten, rechnen, wachsen, wiegen, zunehmen*
+- Quantity: *enthalten, kosten, rechnen, sparen, wachsen, wiegen, zunehmen*
 - Quantity of time: *dauern*
 
 **Examples**

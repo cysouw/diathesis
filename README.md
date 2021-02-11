@@ -2,11 +2,11 @@
 
 Michael Cysouw <cysouw@mac.com>
 
-This is a developing manuscript of a book about German diatheses. The current status is very rough, and consists of many notes to be developed further. Chapter 1-7 are already in useable shape.
+This is a developing manuscript of a book about German diatheses. The current status is very rough, and consists of many notes to be developed further. Chapter 1-9 are already in useable shape.
 
 The easiest way to read the current version is by using the latest HTML output, which can be directly accessed [here](https://gitcdn.link/repo/cysouw/diathesis/main/cysouwDiathesisManuscript.html).
 
-This (large) scientific book is completely written in markdown, which has been amazingly extended by the framework provided by [Pandoc](https://pandoc.org/index.html), see the [`defaults.yaml`](defaults.yaml) file for my setup. To make for a clearer setup, I have decided to separate the metadata into different file, see the files in [`/meta`](meta).
+This (large) scientific book is completely written in markdown, which has been amazingly extended by the framework provided by [Pandoc](https://pandoc.org/index.html), see the [`tohtml.yaml`](tohtml.yaml) file for my setup. To make for a clearer setup, I have decided to separate the metadata into different file, see the files in [`/meta`](meta).
 
 Most importantly, this manuscript uses various filters to allow a scientific workflow.  In this way, the source of the manuscript is easy to read and type (see the raw files in [`/text`](text)), but still provide good output formatting. Pandoc + filters transform this raw text to many output formats with reasonable accuracy (e.g. see the html output as linked to above). 
 
