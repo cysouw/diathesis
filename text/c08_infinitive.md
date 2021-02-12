@@ -188,7 +188,7 @@ c. Der Schrank schließt sich (von alleine).
 d. ^^?^ Ich lasse den Schrank sich schließen.
 :::
 
-Just as discussed previously with intransitives ([@ec:infinitive-lassen-reflexive-intransitive]), this diathesis might seem to be a transparent combination of a reflexive anticausative [@last c], see[@sec:reflexive-anticausative], and a *lassen + Infinitiv* diathesis [@last d], see [@sec:infinitive-lassen-causative]. However, semantically the combination of both leads to a different interpretation, so the combination is arguably a new construction. With transitive verbs it is even possible to find ambiguous constructions like [@next a], see also Kunze [-@kunze1996: 650ff.]. In this example, the transparent combination of a*lassen* causative with a self-inflicting reflexive leads to the interpretation in [@next b], while the fixed stack as discussed in this section leads to the interpretation in [@next c].
+Just as discussed previously with intransitives ([@sec:infinitive-lassen-reflexive-intransitive]), this diathesis might seem to be a transparent combination of a reflexive anticausative [@last c], see[@sec:reflexive-anticausative], and a *lassen + Infinitiv* diathesis [@last d], see [@sec:infinitive-lassen-causative]. However, semantically the combination of both leads to a different interpretation, so the combination is arguably a new construction. With transitive verbs it is even possible to find ambiguous constructions like [@next a], see also Kunze [-@kunze1996: 650ff.]. In this example, the transparent combination of a*lassen* causative with a self-inflicting reflexive leads to the interpretation in [@next b], while the fixed stack as discussed in this section leads to the interpretation in [@next c].
 
 ::: ex
 a. Der König lässt sich tragen.
@@ -393,7 +393,7 @@ not attested
 
 ## Symmetrical diatheses
 
-### --- [ OBJ > SBJ > OBJ ] --- *Erlebnissubjekt* {.unnumbered}
+### --- [ OBJ > SBJ > OBJ ] --- *Erlebnisinversiv* {.unnumbered}
 
 ### [ DN | NA ] *lassen + Infinitiv* Dative reflexive inversive {#sec:infinitive-lassen-dative-reflexive-inversive}
 
@@ -414,7 +414,7 @@ b. Ich lasse mir den Kuchen schmecken.
 - Der Spaß entgeht mir. Den Spaß lasse ich mir nicht entgehen.
 - Dein Besuch kostet mir 10 Euro. Ich lasse mir deinen Besuch 10 Euro kosten.
 
-### --- [ OBJ > SBJ > OBJ ] --- *Pertinenzsubjekt* {.unnumbered}
+### --- [ OBJ > SBJ > OBJ ] --- *Pertinenzinversiv* {.unnumbered}
 
 ### [ DNL | NAL ] *haben + Infinitiv* Dative inversive {#sec:infinitive-haben}
 
@@ -427,7 +427,7 @@ Addition of a new subject that is the possessor of the nominative of the embeddi
 - [ NAL ] Er hat den Teller auf den Tisch stehen.
 
 Only with 'position' verbs? (Hole 2002: 183-185)
-Ersatzinfinitiv!?
+Ersatzinfinitiv!? nein: Er hat den Teller auf den Tisch stehen gehabt.
 
 - Position verbs: *liegen, stehen, sitzen, hängen, stecken*
 - Manner of position verbs?: *haften, kleben, lehnen, pendeln*

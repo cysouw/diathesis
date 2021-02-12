@@ -1511,6 +1511,8 @@ Ortskausativ (see [@sec:prepositions-sein-caused-location]ff.)
 Präverb Kausativ (see [@sec:preverb-causative]ff.)
 *wissen/glauben/sehen/finden* Opiniativ (see [@sec:participles-promotion-to-subject]ff.)
 
+## Inversive diatheses ~~[OBJ › SBJ › OBJ]~~
+
 ## Applicative diatheses ~~[ADJ › OBJ]~~ 
 
 Pertinenz (lat. pertinere, ,dazugehören‘) Peter von Polenz: Der Pertinenzdativ und seine Satzbaupläne. In: Festschrift für Hugo Moser. Düsseldorf 1969, Seite 146ff.

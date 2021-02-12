@@ -25,7 +25,7 @@ header-includes:
   sup {
     vertical-align: top;
   }
-  div [id^="tbl"] table {
+  div[id^="tbl"] table {
     margin-left: auto;
     margin-right: auto;
   }
@@ -34,11 +34,8 @@ header-includes:
 # Webfont links
 - |
   ```{=html}
-  <!-- Links for using webfont -->
+  <!-- Link for using webfont -->
   <link href="http://fonts.cdnfonts.com/css/libertinus-serif" rel="stylesheet">
-  <style> 
-    @import url('http://fonts.cdnfonts.com/css/libertinus-serif'); 
-  </style>
   ```
 # hyphenation settings as suggested by:
 # https://medium.com/clear-left-thinking/all-you-need-to-know-about-hyphenation-in-css-2baee2d89179
