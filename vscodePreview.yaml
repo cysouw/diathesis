@@ -13,12 +13,11 @@ filters:
 - citeproc
 
 number-sections: true
-table-of-contents: true
 standalone: true
 
 metadata-files:
 - ../meta/metadata.yaml
 - ../meta/settings.yaml
-- ../meta/header-includes.yaml
+- ../meta/css.yaml
 
 
