@@ -23,7 +23,6 @@ input-files:
 
 filters:
 - filters/setdate.lua
-- filters/toc-css.lua
 - filters/strikeout-to-smallcaps.lua
 - filters/count-para.lua
 - filters/pandoc-ling.lua
@@ -38,5 +37,5 @@ metadata-files:
 # pandoc-native functionalities
 number-sections: true
 table-of-contents: true
-
+standalone: true
 
