@@ -19,7 +19,7 @@ Always modal meanings???
 - ^* Es ist bekannt, dass ich habe zu laufen.
 - Es ist bekannt, dass ich zu laufen habe.
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Was hat das zu bedeuten?
 - Du hast ihm zu helfen!
@@ -79,27 +79,83 @@ Handlungsverben 5,6% [@jager2013: 201]
 ### *scheinen + zu + Infinitiv*
 
 - Er schläft. Er scheint zu schlafen. (... dass er zu schlafen scheint.)
-- Er kauft einen Kaffee. Er scheint einen Kaffee zu kaufen. (... dass er einen Kaffee zu kaufen schein. )
+- Er kauft einen Kaffee. Er scheint einen Kaffee zu kaufen. (... dass er einen Kaffee zu kaufen scheint. )
+
+### *brauchen + zu + Infinitiv*
+
+- Du brauchst die Kleider nicht zu waschen.
+- Es ist bekannt, dass du die Kleider nicht (zu?) waschen brauchst.
 
 ## Diatheses with subject demotion
 
-### --- [ SBJ > Ø ] Drops --- {.unnumbered}
+### --- [ SBJ > Ø ] --- *Unpersönlicher Modalpassiv* {.unnumbered}
 
-### [ N | – ] *geben + zu + Infinitiv* Obligation
+### [ N | – ] *sein + zu + Infinitiv* Impersonal {#sec:zuinfinitive-sein-impersonal}
 
-Oft mit *viel/genug/reichlich/nichts*.
+Impersonal construction seem to be very rare [contrary to the claim in @holl2010: 18]
+
+- ab 22 Uhr ist zu schlafen.
+
+I have not been able to find more examples
+
+### [ NP | -P ] *sein + zu + Infinitiv* Impersonal + governed preposition
+
+very rare
+
+- und noch über einen Engel ist zu lachen.^[~~DWDS~~: Vischer, Friedrich Theodor von: Ästhetik oder Wissenschaft des Schönen. Bd. 1. Reutlingen u. a., 1846.]
+
+### [ ND | –D ] *sein + zu + Infinitiv* Impersonal + dative
+
+With dative-verbs possible, though only with very few incidental examples [contrary to the claim in @holl2010: 18].
+
+- Ihm ist zu helfen/antworten/gratulieren/trauen
+
+### --- [ SBJ > Ø ] --- {.unnumbered}
+
+### [ NA | –A ] *stehen + zu + Infinitiv* Impersonal {#sec:zuinfinitive-stehen-impersonal}
+
+::: ex
+a. Ich befürchte einen weiteren Beschäftigungsabbau.
+b. Ein weiterer Beschäftigungsabbau steht zu befürchten.
+:::
+
+Nur für Verben mit einer Satzeinbettung? *bedenken, befürchten, bezweifeln, vermuten, hoffen, erwarten, lesen*
+
+- Daher steht zu erwarten, dass ...
+- Es steht zu befürchten, dass ...
+
+Special
+
+- Auf dem Buch stand zu lesen, dass ...
+
+### --- [ SBJ > ADJ ] --- {.unnumbered}
+
+### [ NA | pA ] *geben + zu + Infinitiv* subject demotion {#sec:zuinfinitive-geben-demotion}
+
+Immer mit *noch/viel/genug/reichlich/nichts* ?! ~~Mengenauftrag~~
+
+Agent retention with *für* ?!
+- Ich gewinnen einen Preis. Es gibt (für mich) einen Preis zu gewinnen.
 
 - Es gibt noch viele Geschenke einzupacken.
 - Es gibt noch viele Probleme zu lösen.
 - Es gibt jetzt wichtigeres zu tun.
 - Es gibt nichts zu klagen.
-- Es gibt reichlich zu trinken/essen/sehen/lachen/tun/beachten/bereden/hören.
+- Es gibt reichlich/nichts zu trinken/essen/sehen/lachen/tun/beachten/bereden/hören.
 
-### [ N | – ] *gelten + zu + Infinitiv*
+### [ NA | pA ] *gelten + zu + Infinitiv*
 
-(Bech 1955: 220-222)
+::: ex
+a. Wir verlieren den Koffer nicht.
+b. jetzt gilt es (für uns) den Koffer nicht zu verlieren.
+:::
 
-- Da war also der Punkt an dem es einzusetzen galt.
+Wir knacken den Jackpot
+Das ist der Jackput, den es für uns zu knacken gilt.
+
+~~Notwendigkeit~~
+
+- Da war also der Punkt an dem es einzusetzen galt. (Bech 1955: 220-222)
 - Es gilt jetzt den Tisch zu putzen.
 - Es galt vielleicht einen Selbstmord zu verhüten.
 - es galt keine Zeit zu verlieren
@@ -108,66 +164,11 @@ Ohne 'es' sehr ungewöhnlich?
 
 - Besonders in ökologischer Hinsicht gilt zu beachten, dass ... (https://books.google.de/books?id=3Q5pAQAAQBAJ&pg=PA28&lpg=PA28&dq=%22gilt+zu+beachten%22+-es+-das+-was&source=bl&ots=dyayRVpIPh&sig=ZMStPiBu-ljuDfqnMBenaW4ubbI&hl=en&sa=X&ved=2ahUKEwitp_PS1-_eAhVOzYUKHewlASwQ6AEwBXoECAgQAQ)
 
-### --- [ OBJ > SBJ > Ø ] Anticausatives --- {.unnumbered}
-
-### [ NA | –N ] *sein + zu + Infinitiv*
-
-(Holl 2010)
-
-"müssen" Interpretation
-
-- Ich führe einen Hund an der Leine.
-- Ein Hund ist an der Leine zu führen.
-- Ich öffne das Fenster.
-- Das Fenster ist zu öffnen.
-
-"können" Interpretation
-
-- Du löst die Aufgabe.
-- Die Aufgabe ist für dich leicht zu lösen.
-- Ich begründe meinen Rücktritt politisch.
-- Mein Rücktritt war nur politisch zu begründen.
-
-Weitere Interpretationsmöglichkeiten?
-
-- Hagel ist nicht zu erwarten.
-
-Mit bewertung in "können" Interpretation. Notwendige Bewertung um diese Lesart zu kriegen?
-
-- Das Pult ist einfach zu bedienen.
-- Der Weg ist schön zu gehen.
-- Die Aufgabe ist schwer/schwierig/leicht/unmöglich zu lösen.
-
-Diese Konstruktion führt zu "raising/lowering"!?
-
-- Das Pult zu bedienen ist einfach.
-- Es ist einfach das Pult zu bedienen.
-
-das auch?
-
-- ? Mein Rücktritt zu begründen war politisch
-
-### [ NA | –N ] *bleiben + zu + Infinitiv*
-
-(Colomo 2010: 196-197)
-
-- Jemand räumt diesen Schrank ein.
-- Jetzt bleibt nur noch dieser Schrank einzuräumen.
-- Jemand klärt zwei Fragen.
-- Zwei Fragen bleiben zu klären.
-- mir bleibt zu berichten von X
-- mir bleibt nichts zu wünschen übrig (???)
-
-Typische für Verben mit einer Satzeinbettung (vgl. Holl 2010: 10): *abwarten, hoffen, prüfen, entscheiden, erwägen, untersuchen, sehen, beachten, erledigen*
-
-- Ich warte ab, ob es klappt. es bleibt abzuwarten, ob es klappt.
-
-Eventuell möglich ohne *es*?
-
-- Immerhin bleibt noch die Frage zu entscheiden, ob ...
-- Aus unserer Sicht bleibt zu hoffen, dass ..." (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=14&cad=rja&uact=8&ved=2ahUKEwis3vzH2O_eAhUqx4UKHTMRBRkQFjANegQIBxAB&url=https%3A%2F%2Fwww.t-online.de%2Fdigital%2Fid_74463900%2Fsi_3%2Fdie-exklusivsten-kameras-der-welt.html&usg=AOvVaw3Xn_CFi2fd89VjKPo_Gmqb)
+### --- [ OBJ > SBJ > Ø ] --- {.unnumbered}
 
 ### [ NA | –N ] *gehen + zu + Infinitiv* Possibility + manner adverbial {#sec:zuinfinitive-gehen-adverb}
+
+Only possible with very few verbs?
 
 "möglich" Interpretation. Immer mit Negation? (vgl. negative polarity)
 
@@ -180,27 +181,69 @@ Also with various manner adverbs?
 
 [@helbig2001: 166] "können" interpretation: Das Radio geht zu reparieren.
 
-### [ NA | –N ] *stehen + zu + Infinitiv*
+##### Attested Verbs {.unnumbered}
 
-Nur für Verben mit einer Satzeinbettung? *bedenken, befürchten, bezweifeln, vermuten, hoffen, erwarten, lesen*
+- *löschen, reparieren*
 
-- Daher steht zu erwarten, dass ...
-- Es steht zu befürchten, dass ...
+### [ NA | –N ] *stehen + zu + Infinitiv* anticausative
 
-Special
-
-- Auf dem Buch stand zu lesen, dass ...
-
-Ohne Satzeinbettung?
+Without sentence embedding predicates only very few incidental examples of anticausative
 
 - Das Haus steht zu verkaufen.
 - das Schlimmste stand zu befürchten.
 
+### --- [ OBJ > SBJ > ADJ ] --- {.unnumbered}
+
+### [ NA | –N ] *sein + zu + Infinitiv* Passive (*Modalpassiv*) {#sec:zuinfinitiv-sein-passive}
+
+"müssen" Interpretation does not allow for the retention of the agent
+
+- Ich führe einen Hund an der Leine.
+- Hund sind an der Leine zu führen. (von ihren Besitzern)
+- Ich öffne das Fenster.
+- Das Fenster ist zu öffnen. (nur von bestimmte Personen)
+- Ein Loblied ist zu singen auf dieses Buch.^[~~DWDS~~: Die Zeit, 09.06.2005, Nr. 24]
+
+[@holl2010: 18-19] incidental *von* agent retention is possible, but very uncommon. *für* agent retention is only possible with "können" interpretation
+
+- Die Aufgaben sind von allen zu lösen
+
+"können" Interpretation (agent retention possible?! *für*)
+
+- Du löst die Aufgabe.
+- Die Aufgabe ist für dich leicht zu lösen.
+- Ich begründe meinen Rücktritt politisch.
+- Mein Rücktritt war nur politisch zu begründen.
+
+Weitere modale Interpretationsmöglichkeiten? brauchen?
+
+- Hagel ist nicht zu erwarten.
+
+Mit bewertung in "können" Interpretation. Notwendige adverbiale Bewertung um diese Lesart zu kriegen?
+
+- Das Pult ist einfach/mit Vorsicht zu bedienen.
+- Der Weg ist schön zu gehen.
+- Die Aufgabe ist schwer/schwierig/leicht/unmöglich zu lösen.
+
+Diese Konstruktion führt zu "raising/lowering"!?
+
+- Das Pult zu bedienen ist einfach. (* Das Pult zu bedienen ist mit Vorsicht)
+- Es ist einfach das Pult zu bedienen.
+
+das auch?
+
+- ? Mein Rücktritt zu begründen war politisch
+
 ## Diatheses with promotion to subject
 
-### --- [ Ø > SBJ > OBJ ] Causatives --- {.unnumbered}
+### --- [ Ø > SBJ > OBJ ] --- *Kognitionskausativ* {.unnumbered}
 
-### [ –NA | NDA ] *geben + zu + Infinitiv*
+### [ –NA | NDA ] *geben + zu + Infinitiv* causative {#sec:zuinfinitive-geben-causative}
+
+::: ex
+a. Ich bedenke, dass es spät ist.
+b. Er gibt mir zu bedenken, dass es spät ist.
+:::
 
 zu $p=VVINF geben &&! es
 
@@ -211,7 +254,7 @@ Typisch mit kognitive Verben mit Satzeinbettung: *bedenken, verstehen, erkennen,
 
 Sehr unüblich ohne Satzeinbettung?
 
-- Ich denke über etwas. Der Protest gibt mir zu denken [ –NP | ND–]
+- Ich denke über etwas. Der Protest gibt mir darüber zu denken [ –NP | NDP ]
 - Die Liftjungen geben mir aber heute zu schaffen!
 
 Wo ist die Grenze zu lexikales *geben*?: vgl. *essen, trinken, tun, lesen, tragen, lernen*. Diese Konstruktionen sind kohärent! [ –NA | NDA]
@@ -231,4 +274,33 @@ not attested
 
 ## Symmetrical diatheses
 
-not attested
+### --- [ OBJ > SBJ > OBJ ] --- {.unnumbered}
+
+### [ NA | DN ] *bleiben + zu + Infinitiv* Inversive (*Restinversiv*) {#sec:zuinfinitive-bleiben}
+
+::: ex
+a. Ich schreibe die Geschichte auf.
+b. Mir bleibt die Geschichte aufzuschreiben.
+:::
+
+(Colomo 2010: 196-197)
+
+Agent retention as dative?
+
+- Ich räume diesen Schrank ein.
+- Jetzt bleibt mir nur noch dieser Schrank einzuräumen.
+- Jemand klärt zwei Fragen.
+- Zwei Fragen bleiben zu klären.
+
+- Ich berichte von X. Mir bleibt zu berichten von X
+- Ich wünsche nichts. Mir bleibt nichts zu wünschen übrig (???)
+
+Typische für Verben mit einer Satzeinbettung (vgl. Holl 2010: 10): *abwarten, hoffen, prüfen, entscheiden, erwägen, untersuchen, sehen, beachten, erledigen*
+
+- Ich warte ab, ob es klappt. es bleibt abzuwarten, ob es klappt.
+
+Eventuell möglich ohne *es*?
+
+- Immerhin bleibt noch die Frage zu entscheiden, ob ...
+- Aus unserer Sicht bleibt zu hoffen, dass ..." (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=14&cad=rja&uact=8&ved=2ahUKEwis3vzH2O_eAhUqx4UKHTMRBRkQFjANegQIBxAB&url=https%3A%2F%2Fwww.t-online.de%2Fdigital%2Fid_74463900%2Fsi_3%2Fdie-exklusivsten-kameras-der-welt.html&usg=AOvVaw3Xn_CFi2fd89VjKPo_Gmqb)
+

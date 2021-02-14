@@ -59,7 +59,7 @@ nav ul li ul  {
   transition: 0.5s;
 }
 .bodysmall {
-  padding-left: 7cm;
+  padding-left: 9cm;
   transition: 0.5s;
 }
 .navshown {

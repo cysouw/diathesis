@@ -175,11 +175,11 @@ b. Der Mantel sitzt.
 c. Der Mantel sitzt nicht.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - *ausfallen, aussehen, bleiben, gelaunt sein, sitzen (passen)*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich bleibe wachsam/ruhig
 - Sein Zeugnis ist schlecht ausgefallen.
@@ -205,11 +205,11 @@ c. ^* Ich führe mich auf.
 d. Ich führe mich wie ein Holzklotz auf.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - Behaviour: *aufführen, benehmen, geben (vorzeigen), gebärden, verhalten*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Er gibt sich jovial.
 - Ich verhalte mich abwartend.
@@ -224,7 +224,7 @@ b. ^* Ich halte viel.
 c. ^* Ich halte von dir.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - *halten*
 
@@ -238,11 +238,11 @@ b. ^* Die Musik stimmt die Leute.
 c. ^* Die Musik stimmt freundlich.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - *finden, stimmen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Er findet den Stuhl gut.
 
@@ -255,7 +255,7 @@ a. Das Essen bekommt mir schlecht.
 b. ^* Das Essen bekommt mir.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - bekommen
 
@@ -267,7 +267,7 @@ Because there is no nominative argument in this special construction with *gehen
 Mir geht es gut.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - *gehen*
 
@@ -282,18 +282,18 @@ a. Das Gehalt langt nicht.
 b. Jetzt langt es aber!
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - Impersonals: *aussehen, erscheinen, funktionieren, gehen, klappen, langen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Hier sieht es gut aus. Er sieht gut aus.
 - So geht es jahrelang, bis es 1982 dann gar nicht mehr geht. Das Radeln geht gut.
 - Hier funktioniert es normal. Die Lampe funktioniert wieder.
 - Hier erscheint es normal. Sie erscheint stark und unbeugsam.
 
-**Notes**
+##### Notes {.unnumbered}
 
 The verbs *gehen*, see [@sec:adverbials-dative] and *langen*, see [@sec:case-possessor-of-nominative-to-dative-experiencer] also allow for dative experiencers.
 
@@ -329,11 +329,11 @@ e. ^^?^ Der Zug ist sich gut angekommen.
 
 When the combination of adverbial and verb is considered to be a new lexicalised predicate (i.e. *totlachen, hocharbeiten*), then these predicates would be obligatorily reflexive (alike to the verbs in [@sec:reflexive-obligatory-accusative-reflexive]).
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - *arbeiten, lachen, laufen, reden, schlafen, sitzen, sparen*, etc.
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich lache mich tot/kaputt/schlapp
 - Ich spare mich reich.
@@ -349,11 +349,11 @@ a. Ich lache über den Witz.
 b. Ich lache mich tot (über den Witz).
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - *tot* : *arbeiten, lachen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich arbeite an einem Buch. Ich arbiete mich tot.
 
@@ -373,12 +373,12 @@ a. Der Junge hat gerannt. * Der gerannte Junge.
 b. Der Junge ist losgerannt. Der losgerannte Junge.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - *los* : *lachen, reden, rennen*
 - *leer/voll* : *laufen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Er redet/lacht los.
 - Der Eimer läuft leer/voll.
@@ -397,7 +397,7 @@ b. Der Händler kauft die Sklaven frei.
 - *frei* : *kaufen*
 - *tot*  : *schießen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich schieße den Bären. Ich schieße den Bären tot.
 
@@ -416,12 +416,12 @@ b. ^^?^ Am frühen morgen steht es sich schlecht auf.
 
 A very similar diathesis is attested with transitives, see [@sec:adverbial-reflexive-transitive-anticausative], but in that case the accusative is retained as a nominative (i.e. anticausative). Also note that connection between an intransitive drop and a transitive anticausative is strongly reminiscent of the unaccusative hypothesis, see [@sec:participles-restrictions]. However, there does not seem to be an obvious match between patientive ('unaccusative') verbs and the verbs that allow for the current diathesis [cf. @steinbach1998: 15-18].
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - very many intransitives allow for this construction, like *leben, tanzen, lachen, ertrinken* etc.
 - however, there are many exceptions like *aufstehen, beginnen, stinken* etc.
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Beim Kanufahren ertrinkt es sich leichter als bei der Aquarellmalerei.
 - Hier lebt es sich gut.
@@ -440,11 +440,11 @@ b. Die Wurst schneidet sich schwer mit diesem Messer.
 
 Kunze [-@kunze1996: 647] and Steinbach [-@steinbach1998] call this 'middle', Zifonun [-@zifonun2003] 'fazilitives Medium', Wiemer & Nedjalkov [-@wiemer2007: 465-466] classify it as a 'passive-like meaning of reflexive' and Kulikov [-@kulikov2011: 375-376] talks about a 'potential agentless passive'. Steinbach [-@steinbach1998: 25ff.] argues that the adverbial is not necessary in the 'middle' construction, but this is because he combines different constructions under the heading of 'middle'. The examples without adverbial are discussed here as a separate construction in [@sec:reflexive-anticausative].
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - *anfühlen, anhören, fahren, finden, gehen, laufen, lesen, lernen, malen, schneiden, schreiben, spielen, springen, tanzen, verdienen, verkaufen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich fahre einen Lastwagen. Der Lastwagen fährt sich gut.
 - Ich verkaufe das Buch. Das Buch verkauft sich gut.
@@ -459,7 +459,7 @@ Kunze [-@kunze1996: 647] and Steinbach [-@steinbach1998] call this 'middle', Zif
 - Ich lese den Roman. Der neue Roman liest sich mühelos.
 - Ich höre (mir) den Vorschlag an. Der Vorschlag hört sich gut an.
 
-**Notes**
+##### Notes {.unnumbered}
 
 Some of these verbs can also occur with a 'free' dative, see [@sec:reflexive-free-dative-sich-accusative].
 
@@ -478,11 +478,11 @@ c. Der Müll riecht (schlecht).
 d. Das Essen schmeckt (gut).
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - *riechen, schmecken*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich schmecke den Rotwein in der Soße. Der Rotwein schmeckt (mir) gut.
 
@@ -499,11 +499,11 @@ c. ^^?^ Das Messer schneidet.
 d. Das Messer schneidet gut.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - *schneiden, schreiben*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich schreibe den Brief mit einem Füller. Der Füller schreibt gut.
 
@@ -531,11 +531,11 @@ b. ^^?^ Ich lese.
 c. Morgen lese ich den ganzen Tag.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - *lesen, rechnen, sehen, zählen, zerstören* etc.
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Du hast die Aufgabe falsch gerechnet. Meine Tochter rechnet gerne mit Brüchen.
 - Er zählt die Stimmen. Er zählt leise vor sich hin.
@@ -551,7 +551,7 @@ b. Ich fühle mich schlecht.
 c. ^* Ich fühle mich.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - *fühlen*
 
@@ -566,11 +566,11 @@ c. ^* Ich meine ernst.
 d. Ich meine es.   
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - *haben, meinen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich meine dich. Ich meine es ernst.
 - Wir haben viel Geld. Wir haben es gut.
@@ -588,12 +588,12 @@ c. Ich binde den Hund von der Leine los.
 d. Ich binde den Hund los.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - *los/fest* : *binden, haken, klopfen, schnallen, schrauben*
 - *weg* : *pumpen, pusten, schleudern, senden, stecken*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Die Pumpe pumpt das Wasser aus dem Keller. Die Pumpe pumpt das Wasser weg.
 - Ich puste die Asche vom Tisch. Ich puste die Asche weg.
@@ -611,7 +611,7 @@ b. ^^?^ Der Patient liegt.
 b. Der Patient liegt sich wund (auf dem Bett).
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - *wund* : *liegen, sitzen*
 
@@ -626,11 +626,11 @@ a. Ich sehe das Gemälde.
 b. Ich sehe mich satt an dem Gemälde.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - *satt* : *essen, sehen, lesen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich esse die Bouletten. Ich esse mich satt an den Bouletten.
 - Ich lese die Artikel. Ich lese mich satt an den Artikeln.
@@ -647,12 +647,12 @@ Some intransitives, like *bellen* 'to bark' get a completely new role in the acc
 a. Der Hund bellt. 
 b. Der Hund bellt die Kinder wach.
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - *wach* : *bellen*
 - *kaputt* : *fallen, sparen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich falle. Ich falle meine Hose kaputt.
 
@@ -667,7 +667,7 @@ a. Ich habe (in das Taschentuch) geniest.
 b. Ich habe das Taschentuch voll geniest.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - *voll*   : *heulen, niesen, quatschen*
 - *leer*   : *fischen*
@@ -683,7 +683,7 @@ b. Ich habe das Taschentuch voll geniest.
 - *nieder* : *diskutieren, boxen*
 - *frei*   : *beten, bitten*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich habe in dem Teich gefischt. Ich habe den Teich leergefischt.
 - Ich rede über dein Benehmen. Ich rede dein Benehmen gut.
@@ -699,7 +699,7 @@ b. Ich habe das Taschentuch voll geniest.
 - Ich heule in das Kissen. Ich heule das Kissen voll.
 - Ich bete für den Kranken. Ich bete den Kranken gesund.
 
-**Notes**
+##### Notes {.unnumbered}
 
 Many of these verbs allow for the addition of an accusative result [@next a,b], see [@sec:case-accusative-addition]. The diathese between [@next b] and [@next c] then becomes an example of a full applicative, see [@sec:adverbial-full-applicative].
 
@@ -720,11 +720,11 @@ a. Ich kaufe ein Brot in dem Geschäft.
 b. Ich kaufe das Geschäft leer.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - *leer* : *essen, kaufen, pumpen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich esse die Kartoffel von dem Teller. Ich esse den Teller leer.
 - Ich pumpe das Wasser aus dem Keller. Ich pumpe den Keller leer.
@@ -742,11 +742,11 @@ a. Ich schenke den Wein in das Glas.
 b. Ich schenke das Glas voll (mit Wein).
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - *voll* : *kritzeln, laden, laufen, packen, pumpen, schenken, schreiben, tanken*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich kritzele/schreibe Buchstaben in dem Buch. Ich kritzele/schreibe das Buch voll (mit Buchstaben).
 - Ich lade Heu auf den Wagen. Ich lade den Wagen voll (mit Heu).

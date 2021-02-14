@@ -206,7 +206,7 @@ Normally such objects are always used with some modification: it is the modifica
 - üben - die Übung
 - gibt - die Gabe
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Er hat einen gesunden Schlaf geschlafen.
 - Er hat viele Träume geträumt.
@@ -254,7 +254,7 @@ Normally such objects are always used with some modification: it is the modifica
 - stinken - der Gestank (der Gestank stinkt)
 - reichen - der Geruch (^* der Geruch riecht)
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Und der Regen regnet jeden Tag.
 - Drückt man zu fest auf den Leiseknopf, hupt die Hupe.

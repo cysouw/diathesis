@@ -247,27 +247,30 @@ b. Die Milch kocht.
 c. Die Milch kocht über.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - verˈ-  : *sinken, sterben, trocknen*
 - ˈüber- : *kochen*
 
-**Examples**
+##### Examples {.unnumbered}
 
-- Das Schiff sinkt. Das Schiff versinkt. Das gesunkene/versunkene Schiff ...
-- Die Blumen trocknen im Keller. Die Blumen vertrocknen im Keller. Die getrockneten/vertrockneten Blumen ...
+- Das Schiff sinkt. Das Schiff versinkt. \
+  Das gesunkene/versunkene Schiff ...
+- Die Blumen trocknen im Keller. Die Blumen vertrocknen im Keller. \
+  Die getrockneten/vertrockneten Blumen ...
 
 ### [ NA | NA ] Preverb transitives without diathesis {#sec:preverb-transitive-without-diathesis}
 
-It is very common for transitive nominative-accusative verbs to remain transitive when prefixed [@next a,b]. The participles of both verbs can be used attributively [@next c,d]. The examples presented in this section are in no way intended to be a complete listing, but only serve as a illustration for this phenomenon. This group of preverb alternations without valency change appears to be very large.
+It is very common for transitive nominative-accusative verbs to remain transitive when prefixed [@next a]. The participles of both verbs can be used attributively [@next b]. The examples presented in this section are in no way intended to be a complete listing, but only serve as a illustration for this phenomenon. This group of preverb alternations without valency change appears to be very large.
 
 ::: ex
-a. Ich lagere die Kartoffeln im Keller. 
-b. Ich verlagere die Kartoffeln in den Keller.
-c. Die gelagerten Kartoffeln.
-d. Die verlagerten Kartoffeln.
+a. Ich lagere die Kartoffeln im Keller. \
+   Ich verlagere die Kartoffeln in den Keller.
+b. Die gelagerten Kartoffeln. \
+   Die verlagerten Kartoffeln.
+:::
  
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - verˈ-   : *lagern*
 - beˈ-    : *fürchten, grüßen*
@@ -276,7 +279,7 @@ d. Die verlagerten Kartoffeln.
 - ˈan-    : *sehen*
 - ˈauf-   : *essen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich fürchte den Tod. Ich befürchte ein schlechtes Ergebnis.
 - Ich halte die Stellung. Ich halte den Kampf durch.
@@ -289,21 +292,21 @@ d. Die verlagerten Kartoffeln.
 
 ### [ N | N ] Preverb adjectives without diathesis {#sec:preverb-adjectives-without-diathesis}
 
-Adjectives are in many ways similar to intransitive verbs, basically being one-placed predicates. There are also various adjectives that remain intransitive when combined with a preverb, like *kühl* 'cool' and *abkühlen* 'to cool down [@next a,b]. Similar to the intransitive verbs from the previous section, both adjectival predicates can be used as attributive adjective [@next c,d].
+Adjectives are in many ways similar to intransitive verbs, basically being one-placed predicates. There are also various adjectives that remain intransitive when combined with a preverb, like *kühl* 'cool' and *abkühlen* 'to cool down [@next a]. Similar to the intransitive verbs from the previous section, both adjectival predicates can be used as attributive adjective [@next b].
 
 ::: ex
-a. Das Wasser ist kühl. 
-b. Das Wasser ist abgekühlt.
-c. Das kühle Wasser schmeckt.
-d. Das abgekühlte Wasser schmeckt.
+a. Das Wasser ist kühl. \
+   Das Wasser ist abgekühlt.
+b. Das kühle Wasser schmeckt. \
+   Das abgekühlte Wasser schmeckt.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - erˈ-  : *rot, krank, wach*
 - ˈab-  : *kühl, mager*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Der Hund ist wach. Der Hund erwacht. Der wache/erwachte Hund ...
 - Der Junge ist rot. Der Junge errötet. Der rote/errötete Junge ...
@@ -318,7 +321,7 @@ a. Die späte Vorstellung.
 b. Die Vorstellung verspätet sich.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - *ver* : *spät, früh*
 
@@ -353,12 +356,12 @@ d. ^* Die geblühte Blume ist immer noch schön.
 c. Die verblühte Blume ist immer noch schön.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - verˈ- : *blühen, bluten, faulen, dampfen, rosten, schimmeln, schwinden*
 - ˈein- : *rosten, schlafen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Die Vorräte verschwinden/schwinden. Die verschwundenen/*geschwundenen Vorräte ...
 - Die Äpfel verfaulen/faulen. Die verfaulten/*gefaulten Äpfel ...
@@ -372,21 +375,24 @@ a. Die Verzögerung hat den Reisenden geärgert.
 b. Die Verzögerung hat den Reisenden verärgert.
 c. ^* Der geärgerte Reisende. * Der Reisende ist geärgert.
 d. Der verärgerte Reisende. Der Reisende ist verärgert.
-e. Der geärgerte Schulkamerad schrieb:^[~~DWDS~~: Büchner, Georg: Sämmtliche Werke und handschriftlicher Nachlaß. Frankfurt (Main.], 1879.)
+e. Der geärgerte Schulkamerad schrieb:^[~~DWDS~~: Büchner, Georg: Sämmtliche Werke und handschriftlicher Nachlaß. Frankfurt (Main.), 1879.]
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - verˈ- : *ärgern, wundern*
 - beˈ-  : *merken*
 - erˈ-  : *freuen*
 - ˈan-  : *ekeln*
 
-**Examples**
+##### Examples {.unnumbered}
 
-- Spinnen ekeln den Mann. Spinnen ekeln den Mann an. Der angeekelte/*geekelte Mann.
-- Der Regen wundert den Mann. Der Regen verwundert den Mann. Der verwunderte/*gewunderte Mann.
-- Das Geschenk freut den Mann. Das Geschenk erfreut den Mann. Der erfreute/*gefreute Mann.
+- Spinnen ekeln den Mann. Spinnen ekeln den Mann an. \
+  Der angeekelte/*geekelte Mann.
+- Der Regen wundert den Mann. Der Regen verwundert den Mann. \
+  Der verwunderte/*gewunderte Mann.
+- Das Geschenk freut den Mann. Das Geschenk erfreut den Mann. \
+  Der erfreute/*gefreute Mann.
 
 ### --- Empty reflexives --- {.unnumbered}
 
@@ -403,14 +409,14 @@ c. Ich arbeite zu viel.
 d. Ich überarbeite mich.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - verˈ-   : *laufen*
 - überˈ-  : *arbeiten, essen*
 - ˈdurch- : *lügen, mogeln*
 - ˈein-   : *arbeiten, singen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich lüge. Ich lüge mich durch.
 - Ich esse. Ich überesse mich.
@@ -434,12 +440,12 @@ a. Ich sehe ihm die Müdigkeit an.
 b. Ich sehe dich an.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - erˈ- : *kaufen*
 - ˈan- : *hören, sehen, trainieren, üben*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich übe den Tango. Ich übe mir den Tango an.
 - Ich habe den Tango trainiert. Ich habe mir den Tango antrainiert.
@@ -460,7 +466,7 @@ a. Sie hat das Feuer gelöscht.
 b. Das Feuer ist erloschen.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - erˈ- : *löschen*
 
@@ -474,12 +480,12 @@ b. Der Vogel verfängt sich im Netz.
 c. ^^?^ Der Vogel verfängt sich.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - erˈ-  : *strecken*
 - verˈ- : *fangen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Der Schuster streckt die Stiefel. Der Wald erstreckt sich bis zum Gebirge.
 
@@ -494,7 +500,7 @@ a. Das Wasser ist aus der Flasche gelaufen.
 b. Die Flasche ist ausgelaufen.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - ˈaus- : *laufen*
 
@@ -506,7 +512,7 @@ b. Ich kümmere mich nicht darum, ob die Pflanze verkümmert.
 b. Die Pflanze verkümmert.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - verˈ- : *kümmern*
 
@@ -525,14 +531,14 @@ a. Der Wettkampf endet.
 b. Ich beende den Wettkampf.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - beˈ-  : *atmen, leben, enden*
 - verˈ- : *heiraten, brennen*
 - zerˈ- : *knirschen*
 - ˈan-  : *brutzeln, treiben*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Paul und Marie heiraten. Ich verheirate Paul und Marie.
 - Das Holz brennt. Ich verbrenne das Holz.
@@ -541,7 +547,7 @@ b. Ich beende den Wettkampf.
 - Die Wrackteile treiben im Wasser. Der Sturm treibt die Wrackteile an
 - Das Kind atmet. Ich beatme das Kind.
 
-**Notes**
+##### Notes {.unnumbered}
 
 With some of the verbs, the causer can occur as prepositional phrase with *durch* in the intransitive [@next], similar to inverted passives, see [@sec:preverb-inverted-passives].
 
@@ -591,7 +597,7 @@ b. Die Kinder erwachen.
 
 There are also prefixed adjectives in which an accusative object is added (see [@sec:preverb-adjectival-causative]).
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - beˈ-  : *ängstig, fähig, frei, günstig, grün, ruhig, schuldig, schwer*
 - erˈ-  : *bitter, böse, hart, hell, hoch, kalt, leichter, matt, müde, munter, mutig, neu, niedrig, rege, schlaff, weich*
@@ -599,7 +605,7 @@ There are also prefixed adjectives in which an accusative object is added (see [
 - zerˈ- : *mürbe*
 - entˈ- : *rund*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Du bist frei. Ich befreie dich.
 - Der Balkon ist grün. Ich begrüne den Balkon.
@@ -620,23 +626,23 @@ a. Eltern haften für ihre Kinder.
 b. Die Polizisten verhaften die Eltern (für ihre Taten).
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - verˈ- : *haften*
 - ˈaus- : *fahren*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Die Landeklappen fahren aus dem Flügel. Der Pilot fährt die Landeklappen (aus dem Flügel) aus.
 - Der Kunde fährt in der Kutsche. Ich fahre den Kunden (in der Kutsche) aus.
 
 ### [ –ND | NAD ] Preverb causative + dative
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - ˈan- : *gleichen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Seine Aussprache gleicht meinem Dialekt. Er gleicht seine Aussprache meinem Dialekt an.
 
@@ -649,7 +655,7 @@ a. Ich gleiche einem Affen.
 b. Er vergleicht mich mit einem Affen 
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - verˈ- : *gleichen*
 
@@ -662,12 +668,12 @@ a. Ich miete die Wohnung (von ihm).
 b. Er vermietet mir die Wohnung.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - verˈ- : *erben, futtern, kaufen, leihen, mieten, pachten, pfänden*
 - beˈ-  : *kennen* 
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Die Pferde futtern das Tiermehl. Er verfuttert den Pferden das Tiermehl.
 - Ich kaufe das Haus. Er verkauft mir das Haus.
@@ -685,7 +691,7 @@ a. Das Geschenk freut mich.
 b. Er erfreut mich mit einem Geschenk.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - erˈ- : *freuen*
 
@@ -700,7 +706,7 @@ a. Ich erbe den Schreibtisch von meinem Vater.
 b. Mein Vater enterbt mich.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - entˈ- : *erben*
 
@@ -718,11 +724,11 @@ b. Ich staune darüber, dass du schon fertig bist.
 c. Deine Arbeit erstaunt mich.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - erˈ- : *staunen, warten*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich warte auf den Test. Der Test erwartet mich.
 
@@ -744,7 +750,7 @@ b. Dein Verhalten wundert mich.
 c. Dein Verhalten verwundert mich
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - beˈ-  : *schämen*
 - verˈ- : *wundern*
@@ -755,12 +761,12 @@ c. Dein Verhalten verwundert mich
 
 ### [ NA | N– ] Preverb accusative drop {#sec:preverb-accusative-drop}
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - erˈ-  : *trinken*
 - ˈein- : *kaufen, greifen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich habe gestern ein Buch gekauft. Ich habe gestern eingekauft.
 - Die Polizei hat den Dieb gegriffen. Die Polizei hat eingegriffen.
@@ -789,13 +795,13 @@ Antiresultative?
 - Ich fahre, und am Ende habe ich dadurch *kein* Benzin mehr. Ich verfahre mein letztes Benzin.
 - Ich spiele, und am Ende habe ich dadurch *kein* Geld mehr. Ich verspiele mein letztes Geld.
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - beˈ-   : *trinken, saufen*
 - verˈ-  : *greifen, hören, lesen, messen, sprechen, schlucken, schreiben, wählen*
 - überˈ- : *heben* 
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich schlucke die Tablette. Ich habe mich verschluckt.
 - Er schreibt einen Brief. Er verschreibt sich. 
@@ -805,11 +811,11 @@ Antiresultative?
 
 ### [ ND | N– ] Preverb reflexive dative drop
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - beˈ- : *helfen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich helfe dir. Ich behelfe mich.
 
@@ -818,13 +824,13 @@ Antiresultative?
 verbs of sending ?!
 can they dative maybe always be replaced by a preposition? Then merge into dative antipassive
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - verˈ-   : *leihen, geben, schenken, schicken*
 - ˈab-    : *geben, senden, schicken*
 - ˈdurch- : *reichen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich schenke dir meine Bücher. Ich verschenke meine Bücher.
 - Ich schicke dir den Brief. Ich habe den Brief abgeschickt.
@@ -836,45 +842,45 @@ can they dative maybe always be replaced by a preposition? Then merge into dativ
 
 Maybe always possible with accusative drop verbs
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - verˈ- : *kalkulieren, schätzen, tun*
 - beˈ-  : *fassen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich kalkuliere die Miete. Ich verkalkuliere mich bei der Miete.
 - Ich fasse einen Entschluss. Ich befasse mich mit dem Entschluss.
 
 ### [ NAA | NAp ] Preverb antipassive + accusative
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - beˈ- : *lehren*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich lehre dich die Regeln. Ich belehre dich über die Regeln.
 
 ### [ ND | Np ] Preverb reflexive dative antipassive
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - beˈ- : *danken*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich danke dir. Ich bedanke mich bei dir.
 
 ### [ NAD | NAp ] Preverb dative antipassive + accusative
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - erˈ-    : *bringen*
 - verˈ-   : *geben, senden, schenken, schicken*
 - unterˈ- : *schreiben*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Er hat dem Lehrer die Arbeit gebracht. Er hat die Leistung erbracht (für den Lehrer).
 - Ich schenke dir ein Buch. Ich verschenke das Buch an dich.
@@ -892,7 +898,7 @@ a. Ich schenke dir ein Buch.
 b. Ich beschenke dich mit einem Buch.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - beˈ- : *liefern, lohnen, schenken, singen*
 - umˈ- : *geben*
@@ -924,7 +930,7 @@ c. Der aus dem Auto ausgestiege Mann rutscht aus.
 d. Der ausgestiegene Mann rutscht aus.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - verˈ-   : *reisen, rutschen*
 - zerˈ-   : *rinnen*
@@ -935,7 +941,7 @@ d. Der ausgestiegene Mann rutscht aus.
 - ˈan-    : *kommen*
 - ˈauf-   : *stehen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Das Blut ist durch den Verband gesickert. Das Blut ist durchgesickert.
 - Ich bin durch den Wald gelaufen. Ich bin durchgelaufen.
@@ -966,13 +972,13 @@ c. Der im Wald verlaufene Hund hat hunger.
 d. Der verlaufene hund hat hunger.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - verˈ- : *fahren, irren, laufen, spekulieren*
 - erˈ-  : *hängen*
 - beˈ-  : *eilen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich fahre nach Dresden. Ich verfahre mich (auf dem Weg nach Dresden).
 - Ich irre durch den Garten. Ich verirre mich (im Garten).
@@ -1000,7 +1006,7 @@ c. ^* Der Wind weht die Blätter.
 d. Der Wind verweht die Blätter.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - verˈ-   : *drängen, jagen, stecken, gießen, schütten, treiben, rücken, schieben, scheuchen, sprühen, stoßen, streichen, wehen*
 - zerˈ-   : *hacken, reißen, sägen, schneiden*
@@ -1014,7 +1020,7 @@ d. Der Wind verweht die Blätter.
 - ˈauf-   : *setzen*
 - ˈan-    : *kleben, treiben, spülen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich treibe die Mücken aus dem Haus. Ich vertreibe die Mücken.
 - Ich reiße die Blätter von dem Strauch. Ich reiße die Blätter ab.
@@ -1053,7 +1059,7 @@ b. Ich presse die Zitrone aus.
 
 Lipka [-@lipka1972: 93, 173] calls this diathesis 'Objektvertauschung' and McIntyre [-@mcintyre2001: 275-277] 'landmark flexibility'. For historical context on this diathesis, see Carlberg [@carlberg1948] and Hundsnurscher [-@hundsnurscher1968: 127]. Lipka opposes this diathesis to 'Subjektvertauschung', which is discussed in [@sec:preverb-preposition-anticausative].
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - beˈ-   : *erben*
 - zerˈ-  : *fressen*
@@ -1064,7 +1070,7 @@ Lipka [-@lipka1972: 93, 173] calls this diathesis 'Objektvertauschung' and McInt
 - ˈauf-  : *gießen*
 - ˈein-  : *packen, räumen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich erbe die Uhr von meinem Vater. Ich beerbe meinen Vater.
 - Ich klopfe den Staub von dem Mantel. Ich klopfe den Mantel aus.
@@ -1087,7 +1093,7 @@ Lipka [-@lipka1972: 93, 173] calls this diathesis 'Objektvertauschung' and McInt
 
 ### [ N– | NA ] Preverb accusative addition {#sec:preverb-accusative-addition}
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - beˈ-  : *schummeln, zaubern*
 - erˈ-  : *leben, leuchten, lügen, morden, schnüffeln, schwindeln, wandern*
@@ -1096,7 +1102,7 @@ Lipka [-@lipka1972: 93, 173] calls this diathesis 'Objektvertauschung' and McInt
 - ˈan-  : *blinzeln, fauchen, hupen, leuchten*
 - ˈab-  : *schreiten*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich gehe. Ich entgehe dem Urteil.
 - Ich schlafe (während der Vorlesung). Ich verschlafe die Vorlesung
@@ -1118,11 +1124,11 @@ a. Der Clown ist lustig.
 b. Der Clown belustigt mich.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - beˈ- : *lustig, lästig*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Die Aufgabe ist lästig. Die Aufgabe belästigt mich.
 
@@ -1135,12 +1141,12 @@ a. Sie büßt für ihre Tat.
 b. Sie verbüßt ihre Strafe für die Tat.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - erˈ-  : *blicken*
 - verˈ- : *büßen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich blicke in die Ferne. Ich erblicke ein Schiff (in der Ferne).
 
@@ -1151,20 +1157,20 @@ a. Sie vertraut mir.
 b. Sie vertraut mir ein Geheimnis an.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - ˈan- : *vertrauen*
 
 ### [ N–A | NDA ] Preverb dative addition + accusative {#sec:preverb-dative-additions}
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - ˈab-   : *nehmen*
 - ˈvor-  : *führen, legen, lesen, machen, sagen, schreiben, singen, spielen, stellen*
 - ˈzu-   : *werfen*
 - ˈüber- : *werfen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich nehme die Einkäufe (in die Hand). Ich nehme ihr die Einkäufe ab.
 - Ich lese ein Buch. Ich lese dir ein Buch vor.
@@ -1197,18 +1203,18 @@ a. Ich bitte um ein besseres Verhalten.
 b. Ich verbitte mir dein Verhalten.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - erˈ-  : *arbeiten, laufen, schreiben*
 - verˈ- : *bitten*
 - ˈan-  : *essen, tanzen, trinken*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich arbeite, und am Ende habe ich dadurch ein Vermögen. Ich erarbeite mir ein Vermögen.
 - Ich esse, um am Ende habe ich dadurch einen dicken Bauch. Ich esse mir einen Bach an.
 
-**Notes**
+##### Notes {.unnumbered}
 
 A verb like *schreiben* allows for dative and accusative arguments [@next a], but in this diathesis it is the intransitive occupational usage [@next b] that is the basis for the resultative construction [@next c].
 
@@ -1227,7 +1233,7 @@ a. Ich schließe den Safe.
 b. Ich schließe den Schmuck (in den Safe) ein.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - ˈein- : *schließen*
 
@@ -1242,11 +1248,11 @@ a. Ich sehe seine Müdigkeit.
 b. Ich sehe ihm die Müdigkeit an.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - ˈan- : *hören, sehen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich höre seine Müdigkeit. Ich höre ihm die Müdigkeit an.
 
@@ -1265,13 +1271,13 @@ Note that the prepositions *über, unter, um, durch* appear to have a special st
 
 #### *an* Preverb applicative
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - beˈ  : *fummeln, grenzen, knabbern, riechen, schnuppern, wuchern*
 - zerˈ : *nagen, kratzen, reiben, reißen*
 - 'an  : *fahren, fassen, knabbern*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Der Efeu bewuchert die Mauer. Der Efeu wuchern an der Mauer.
 - Der Hund kratzt an der Tür. Der Hund zerkratzt die Tür.
@@ -1280,7 +1286,7 @@ Note that the prepositions *über, unter, um, durch* appear to have a special st
 
 #### *auf* Preverb applicative
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - beˈ  : *brüten, glotzen, hauchen, legen, leuchten, pinkeln, reiten, scheinen, segeln, spucken, springen, steigen, treffen, treten, wandern*
 - erˈ  : *blicken, drücken, klettern, schießen, steigen, zielen*
@@ -1288,7 +1294,7 @@ Note that the prepositions *über, unter, um, durch* appear to have a special st
 - 'ein : *drücken, hämmern, klagen, laufen, reiten, schlagen, schießen, treten*
 - 'an  : *spucken, stampfen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich steige auf den Berg. Ich besteige den Berg.
 - Ich blicke auf meinen Freund. Ich erblicke meinen Freund.
@@ -1303,12 +1309,12 @@ Note that the prepositions *über, unter, um, durch* appear to have a special st
 
 The preposition *durch* only alternates with the preverb *durch-*.
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - durchˈ : *dringen, fahren, fließen, laufen, schauen, schlagen, streifen, ziehen*
 - 'durch : *beißen, blättern, bohren, fahren, fließen, laufen, schlagen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich fahre durch das Dorf. Ich durchfahre das Dorf.
 - Der Fluß fließt durch das Tal. Der Fluß durchfließt das Tal.
@@ -1338,13 +1344,13 @@ The preposition *durch* only alternates with the preverb *durch-*.
 
 #### *in* Preverb applicative
 
-**attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - beˈ    : *fischen, siedeln, wohnen*
 - zerˈ   : *bohren, stechen, wühlen*
 - durchˈ : *bohren, leuchten, suchen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich bohre in dem Holz. Ich zerbohre das Holz.
 - Er sticht (mit der Nadel) in den Finger. Er zersticht den Finger (mit der Nadel).
@@ -1355,13 +1361,13 @@ The preposition *durch* only alternates with the preverb *durch-*.
 
 #### *mit* Preverb applicative
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - verˈ  : *heizen, schießen, schlampen, schludern, spekulieren, spritzen, sprühen, zögern*
 - erˈ   : *schwindeln*
 - überˈ : *reden*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich verheize das Holz. Ich heize mit Holz.
 - Ich schlampe mit meinen Aufgaben. Ich verschlampe meine Aufgaben
@@ -1372,59 +1378,59 @@ The preposition *durch* only alternates with the preverb *durch-*.
 
 #### *nach* Preverb applicative
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - beˈ : *fliegen, reisen*
 - erˈ : *bohren, fragen, jagen, greifen, lauschen, reichen, schauen, spähen, tasten*
 - 'aus : *graben*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich reiche nach der Flasche. Ich erreiche die Flasche nicht. 
 - Ich grabe nach den Schatz. Ich grabe den Schatz aus.
 
 #### *über* Preverb applicative
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - überˈ : *fahren, fliegen, rollen, schreiten, springen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich schreite über die Schwelle. Ich überschreite die Schwelle.
 - Ich fahre über den Polizisten. Ich überfahre den Polizisten.
 
 #### *um* Preverb applicative
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - umˈ : *fahren, kreisen*
 - 'ein : *kreisen* 
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich fahre um den Polizisten. Ich umfahre den Polizisten.
 - Die Truppen kreisen um das Dorf. Die Truppen umkreisen das Dorf. Die Truppen kreisen das Dorf ein.
 
 #### *unter* Preverb applicative
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - unterˈ : *graben, spülen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Das Wasser spült unter der Straße. Das Wasser unterspült die Straße.
 
 #### *zu* Preverb applicative
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - beˈ : *lügen*
 - erˈ : *blicken, greifen, reichen*
 - 'an : *beten, blicken, brüllen, grinsen, klagen, lachen, reden, schauen, schreien, singen, sprechen, winken*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich lüge zu dir. Ich belüge dich.
 - Der Mantel reicht bis zu meinen Füßen. Der Mantel erreicht meine Füße.
@@ -1453,57 +1459,57 @@ The preposition *durch* only alternates with the preverb *durch-*.
 
 #### *auf* Preverb governed applicative
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - beˈ : *achten, antworten, deuten*
 - erˈ : *sinnen, warten*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich antworte auf deine Frage. Ich beantworte deine Frage.
 - Die Weltausstellung deutet auf den Frieden. Das Gesetz bedeutet das Ende für Dieselautos.
 
 #### *gegen* Preverb governed applicative
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - beˈ : *geifern, kämpfen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich kämpfe gegen dem Unrecht. Ich bekämpfe das Unrecht.
 
 #### *mit* Preverb governed applicative
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - 'ein  : *kalkulieren, rechnen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich rechne/kalkuliere mit einem Verlust. Ich rechne/kalkuliere den Verlust ein.
 
 #### *nach* Preverb governed applicative
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - beˈ : *streben*
 - erˈ : *langen, sehnen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich strebe nach einem hohen Amt. Ich bestrebe ein hohes Amt.
 
 #### *über* Preverb governed applicative
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - beˈ  : *gutachten, herrschen, jammern, jubeln, klagen, lachen, reden, schmunzeln, spotten, sprechen, staunen, trauern, urteilen, weinen, zweifeln*
 - erˈ  : *forschen, lesen, lügen*
 - verˈ : *fluchen, klagen, spotten, schweigen*
 - 'aus : *plaudern, lachen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich klage über den Lärm. Ich beklage den Lärm
 - Ich plauderte über mein Geheimnis. Ich plauderte das Geheimnis aus.
@@ -1511,12 +1517,12 @@ The preposition *durch* only alternates with the preverb *durch-*.
 
 #### *um* Preverb governed applicative
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - verˈ : *spielen, wetten*
 - erˈ  : *betteln, bitten, fechten, flehen, kämpfen, mogeln, spielen, streiten, tanzen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich verspiele mein Haus. Ich spiele um mein Haus.
 
@@ -1526,12 +1532,12 @@ Counterexample to generalisation that non-self-inflicting reflexive pronouns are
 
 The dative can probably always be interpreted as the possessor of the accusative, so it might be interpreted as some kind of possessor raising.
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - erˈ- : *betteln, hoffen, sehnen, spielen, träumen*
 - ˈaus- : *denken*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich hoffe auf einen schönen Geburtstag. Ich erhoffe mir einen schönen Geburtstag.
 - Ich bettele um ein Stück Brot. Ich erbettele mir ein Stück Brot.
@@ -1545,12 +1551,12 @@ a. Er droht mir mit Entlassung.
 b. Er droht mir die Entlassung an.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - verˈ- : *danken*
 - ˈan-  : *drohen* 
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich danke dir für deinen Einsatz. Ich verdanke dir mein Leben. 
 
@@ -1561,13 +1567,13 @@ a. Ich schweige zu dir über meinen Besuch.
 b. Ich verschweige dir meinen Besuch.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - verˈ- : *schweigen, sprechen*
 - ˈvor- : *heulen, lügen*
 - ˈab-  : *schwatzen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich spreche (mit dir) über das Buch. Ich verspreche dir das Buch.
 - Ich lüge (zu dir) über meine Leistung. Ich lüge dir eine Geschichte vor.
@@ -1582,12 +1588,12 @@ a. Ich dränge dich zu einem Abo.
 b. Ich dränge dir ein Abo auf.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - ˈab-  : *gewöhnen*
 - ˈauf- : *drängen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich gewöhne die Kinder an Sauberkeit. Sie gewöhnt mir das Rauchen ab.
 
@@ -1606,7 +1612,7 @@ b. Ich dränge dir ein Abo auf.
 - ˈzu-   : *arbeiten, lachen, laufen, nicken, reden*
 - ˈbei-  : *liegen, stehen, stimmen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich stamme aus einem Adelsgeschlecht. Ich entstamme einem Adelsgeschlecht
 - Ich lache freundlich zu dir. Ich lache dir freundlich zu.
@@ -1625,7 +1631,7 @@ b. Ich dränge dir ein Abo auf.
 
 ### [ NpA | NDA ] Preverb dative applicative + accusative
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - erˈ-    : *klären*
 - entˈ-   : *locken, nehmen, reißen, ziehen*
@@ -1638,7 +1644,7 @@ b. Ich dränge dir ein Abo auf.
 - ˈauf-   : *packen*
 - ˈum-    : *wickeln*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich kläre die Frage (mit dir). Ich erkläre dir die Antwort.
 - Ich habe ein Schild an die Wand gehängt. Ich habe meinem Widersacher einen Prozess angehängt.
@@ -1668,7 +1674,7 @@ b. Ich bewundere dein Verhalten.
 c. Ich wunder mich über dein Verhalten.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - beˈ- : *wundern*
 
@@ -1683,12 +1689,12 @@ a. Die Sonne strahlt auf das Haus.
 b. Das Haus erstrahlt in der Sonne.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - erˈ-  : *strahlen*
 - ˈzu-  : *wachsen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Der Efeu wächst an der Hauswand. Die Hauswand wächst durch den Efeu zu.
 
@@ -1698,7 +1704,7 @@ b. Das Haus erstrahlt in der Sonne.
 
 In first alternant always a local preposition? Is this maybe a different alternation? In general, the prepositions are mostly not governed prepositions.
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 beˈ-
 
@@ -1762,7 +1768,7 @@ umˈ-
 
 - Ich gieße Wasser auf den Tee. Ich gieße den Tee mit Wasser auf.
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich schmiere Salbe auf die Wunde. Ich beschmiere die Wunde mit Salbe.
 - Ich singe ein Lied für dich. Ich besinge dich mit einem Lied.
@@ -1791,7 +1797,7 @@ umˈ-
 
 ### [ NpA | NAp ] Preverb applicative + *in* antipassive
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 beˈ-
 
@@ -1833,11 +1839,11 @@ a. Er zwingt ihn zu einem Geständnis.
 b. Er erzwingt ein Geständnis von ihm.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 erˈ- : *bitten, fragen, pressen, zwingen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich bitte dich um einen Gefallen. Ich erbitte einen Gefallen von dir.
 - Ich frage dich nach dem Weg zum Bahnhof. Ich erfrage den Weg zum Bahnhof von dir.
@@ -1851,7 +1857,7 @@ a. Ich bitte dich um einen Kommentar.
 b. Ich verbitte mir einen Kommentar von dir.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - verˈ- : *bitten*
 
@@ -1859,12 +1865,12 @@ b. Ich verbitte mir einen Kommentar von dir.
 
 ### [ ND | NA ] Preverb dative-to-accusative {#sec:preverb-dative-accusative}
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - beˈ-  : *dienen, folgen, lauschen, raten*
 - verˈ- : *dienen, folgen*
 
-**Examples**
+##### Examples {.unnumbered}
 
 - Ich rate dir (zum Plan). Ich berate dich (in dem Fall).
 - Ich folge dem Auto. Ich verfolge das Auto.
@@ -1879,7 +1885,7 @@ a. Ich raube dir das Buch.
 b. Ich beraube dich des Buches.
 :::
 
-**Attested Verbs**
+##### Attested Verbs {.unnumbered}
 
 - beˈ- : *rauben*
 

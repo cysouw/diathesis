@@ -1,4 +1,4 @@
-# Setting the scene
+# Setting the scene {#sec:intro}
 
 ## The daunting diversity of diathesis
 
@@ -24,17 +24,15 @@ e. Der Ermittler löst den Fall. \
    Der Fall ist (für den Ermittler) leicht zu lösen.
 :::
 
-All in all, there are about 200 different German diatheses described in this book, some highly productive, some only attested for a handful of verbs. The main goal of this book is to present this wealth of grammatical possibility in a unified manner, while at the same time attempting to classify and organise this diversity. I will make no attempt to fit all these constructional possibilities of the German language into any specific grammatical framework, although the collection of diatheses presented here might be taken as a modelling-challenge for any grammatical theory.
-
-<!--
-^[Note that this challenge can be easily resolved by simply including a (long) list of primitive monoclausal constructions into the theory, because all diatheses produce monoclausal constructions by definition (see below).]
--->
+All in all, there are about 250 different German diatheses described in this book, some highly productive, some only attested for a handful of verbs. The main goal of this book is to present this wealth of grammatical possibility in a unified manner, while at the same time attempting to classify and organise this diversity. I will make no attempt to fit all these constructional possibilities of the German language into any specific grammatical framework, although the collection of diatheses presented here might be taken as a modelling-challenge for any grammatical theory.
 
 It might come as a surprise that there are so many different diatheses in German, but my impression is that German is no exception among the world's languages in this respect. I expect that all languages have a wealth of different ways in which to construe a sentence around a lexical predicate. In a sense, diatheses allow for the expression of different perspectives on the event described, something that is arguably a common desire of any language user. Looking at it this way, diathesis belongs squarely in the same domain of grammatical analysis as tense, aspect, mood or evidentiality.
 
+This first chapter summarises the basic definitional properties of diathesis. The next Chapter [-@sec:structure] describes in detail how diatheses are analysed and classified. Chapter [-@sec:summary] presents a summary of the 60+ major German diatheses and proposes German names for those structures. Chapters [-@sec:case] to [-@sec:zuminfinitive] are the main, almost database-like, chapters discussing each sentence structure separately. Finally, Chapters [-@sec:adj] to [-@sec:subordination] discuss additional phenomena that are related to diathesis.
+
 In this book, each diathesis has its own sub-subsection with an unique section header that can be used as a name to refer to the diathesis (e.g. [@sec:participles-werden-passive] on the *werden + Partizip* passive). Many of these unique names are quite boring, but hopefully descriptively useful for future reference. Individual verbs (often with concrete examples) are listed with each diathesis to show the extend of its applicability. Neither these lists of verbs nor the examples are intended to be exhaustive in any way. They should be seen as a first step towards more in-depth research into individual diatheses or into the different constructional possibilities that exist for individual verbs.
 
-The current attempt to present a all-encompassing survey of German diathesis builds on a rich scholarly tradition (with many scholarly precursors to be cited in appropriate places throughout this work). A comparable and highly influential survey of diathesis for English is Levin [-@levin1993], followed by a similar attempt for German by Sauerland [-@sauerland1994]. A recent cross-linguistic survey of valency and diathesis in this tradition is edited by Malchukov & Comrie [-@malchukov2015a], which also includes data on German [@haspelmath2013a]. Independent of Levin's work, there is a long tradition in the German grammatical literature to investigate diathesis, e.g. as "Konversenverhältnis der Aktanten" [@eroms1980: 24; cf. @heringer1968]. Basic summaries of german diathesis in the context of valency can be found in Eroms [-@eroms2000: Ch. 10] or Ágel [-@agel2000: Ch. 6]. There even exist a few monographs about specific German diatheses [e.g. @leirbukt1997; @holl2010; @jager2013] and recently some corpus studies into the effect of specific diatheses on individual verbs have appeared [@devaere2018; @imo2018].
+The current attempt to present a all-encompassing survey of German diathesis builds on a rich scholarly tradition (with many scholarly precursors to be cited in appropriate places throughout this work). A comparable and highly influential survey of diathesis for English is Levin [-@levin1993], followed by a similar attempt for German by Sauerland [-@sauerland1994]. A recent cross-linguistic survey of valency and diathesis in this tradition is edited by Malchukov & Comrie [-@malchukov2015a], which also includes data on German [@haspelmath2013a]. Independent of Levin's work, there is a long tradition in the German grammatical literature to investigate diathesis, e.g. as '*Konversenverhältnis der Aktanten*' [@eroms1980: 24; cf. @heringer1968]. Basic summaries of german diathesis in the context of valency can be found in Eroms [-@eroms2000: Ch. 10] or Ágel [-@agel2000: Ch. 6]. There even exist a few monographs about specific German diatheses [e.g. @leirbukt1997; @holl2010; @jager2013] and recently some corpus studies into the effect of specific diatheses on individual verbs have appeared [@devaere2018; @imo2018].
 
 Diathesis is of course closely linked to the concept of valency, so the groundbreaking valency dictionary for German by Helbig and Schenkel [-@helbig1991] deserves mentioning. They identify the problem that certain verbs can be used in different constructions, but diatheses are not investigated consistently in their dictionary. Another highly influential valency dictionary for German, edited by Schumacher [-@schumacher1986], discusses passive diatheses for all verb. I see the current survey of German diatheses as a first step in extending such valency dictionaries into even more all-encompassing dictionaries that discuss all possible clause constructions for each verb.
 
@@ -107,7 +105,7 @@ Hidden in this succinct definition of diathesis there are various intricate gram
 
 ### Monoclausality and coherence {#sec:intro-coherence}
 
-Diatheses are defined above as alternations between single clauses with the same main verb. However, a single clause in German can sometimes consist of multiple verb forms. It is crucial to strictly distinguish between situations in which a multi-verb construction is monoclausal and when it is not. The basis of the definition of monoclausality in German is a concept called ~~coherence~~.
+Diatheses are defined here as alternations between single clauses with the same main verb. However, a single clause in German can sometimes consist of multiple verb forms. It is crucial to strictly distinguish between situations in which a multi-verb construction is monoclausal and when it is not. The basis of the definition of monoclausality in German is a concept called ~~coherence~~.
 
 All diatheses listed in this book are monoclausal. Besides trying to list all German diatheses, I will also list all non-diathesis clause alternation, i.e monoclausal alternations without any change in sentence structure (these are always listed in the .4 section of each chapter). This book can thus also be read as a listing of all German monoclausal constructions, with or without valency change. Somewhat unexpectedly, the number of alternations without any change in valency (i.e. the alternations without diathesis) is much smaller than the number of monoclausal alternations with changes in role marking (i.e. the diatheses).
 
@@ -264,7 +262,15 @@ a. Ich habe das Haus angesehen.
 b. Ich habe mir das Haus angesehen.
 :::
 
-# The structure of a diathesis
+## Method
+
+Methodologically, I see the approach in this book as an attempt to unify grammatical research with lexicographic research, two aspects of linguistics that are often considered to be separate inquiries. In contrast to such a separation, I would like to propose a view of linguistics that might be called ~~grammar of the lexicon~~. In this approach, each grammatical phenomenon should always be linked to individual occurrences, either types (lexicon) or tokens (corpus). It is my experience from compiling the current compendium of diatheses that identifying and characterising a specific structure really is just step one of grammatical research. Only by trying to find more examples, with different lexemes and in different contexts, it becomes clear how prominent and varying a grammatical structure really is.
+
+As as rule-of-thumb, I propose the ~~10-examples-in-15-minutes-rule~~ as step two of grammatical research. If you think that a particular construction is widespread, or maybe typical for a specific class of words (e.g. typical for 'intransitives'), then take 15 minutes to search for examples, either in your own intuitions or in one of the many online databases or corpora. Resources like the *Digitales Wörterbuch der deutschen Sprache* ([DWDS](https://www.dwds.de)), the various online offerings of the *Institut für Deutsche Sprache* ([IDS](https://www1.ids-mannheim.de/onlineangebote)), or just a Google 'exact search' are really just a click away and completely rejuvenate linguistic research. If you are not able to list 10 examples in 15 minutes, then go back to the drawing board and reconsider your intuitions.
+
+Such a quick-and-dirty 15-minute survey of course still only represents a preliminary step. It is this level of detail that I have aimed for in this book. Each sub-subsection about an individual diathesis lists lexemes that can be used in this diathesis, and includes examples of the diathesis, either from my own intuitions or from any of the above mentioned databases. I plan to fine-tune these lists in future revisions of this book, but the real research is only yet to come. Next steps would be the in-depth investigation of individual diathesis by sampling examples in corpora and formulating predictive parameters to explain their usage. For example, De Vaere *et al.* [-@devaere2018] investigate the dative antipassive (see [@sec:prepositions-dative-antipassive-accusative]) for just a single lexeme *geben*. As there are hundreds of diatheses and hundreds of verbs listed in this book, this shows that there are tens of thousands of research projects just waiting to be tackled.
+
+# The structure of a diathesis {#sec:structure}
 
 ## Terminology
 
@@ -516,7 +522,7 @@ Lower-cased letters are used for non-argument participants in the clause: 'p' fo
 
 Besides single-letter abbreviations I will also use capitalised three-letter abbreviations for a more abstract level of analysis. As summarised at the left side of [@fig:abbreviations], the grammatical expressions are grouped into sets of ~~grammatical macroroles~~, mostly along familiar lines. This grouping is not necessarily the best or most optimal grouping, but this grouping has emerged to be useful to organise the large diversity of diatheses in this book. The notion ~~subject (SBJ)~~ is used for governed nominative phrases that show agreement with the finite verb.^[There are various other nominatively-marked phrases in German grammar which are not included under this heading, e.g. the nominative in nominal or equational predication like *der Täter* in *Er ist der Täter*.] The other case-marked governed phrases are combined as ~~cased objects (OBJ)~~. The cased objects together with the ~~prepositional objects (PBJ)~~ form a superclass of objects. Non-governed phrases are separated in ~~overtly expressed adjuncts (ADJ)~~ and unexpressed roles ~~(Ø)~~. Although I will use this five-way distinction throughout this book ~~(SBJ, OBJ, PBJ, ADJ, Ø)~~, the five steps are not equidistant. The macro-roles ~~OBJ~~ and ~~PBJ~~ are rather closely related, and likewise are ~~ADJ~~ and ~~Ø~~ intimately linked. Collapsing these pairs results in the traditional subject-object-adjunct distinction.
 
-{#par:corecase} There are some indications that the group of cased objects ~~(OBJ)~~ might be fruitfully separated into ~~core~~ (accusative) and ~~non-core~~ (dative/genitive). This would simplify the analysis of, for example, case change in object chains ([@sec:intro-object-chains]), the antipassive hierarchy ([@sec:prepositions-demotion-of-object]) and the case-marking of the reflexive pronoun ([@sec:reflexive-deponent]). However, in the majority of diatheses all three cases simply seem to behave as a uniform group, so I did not consistently pursue this separation.
+{#par:corecase} There are some indications that the group of cased objects ~~(OBJ)~~ might be fruitfully separated into ~~core~~ (accusative) and ~~non-core~~ (dative/genitive). This would simplify the analysis of, for example, case change in object chains ([@sec:intro-object-chains]), the antipassive hierarchy ([@sec:prepositions-demotion-of-object]) and the case-marking of the reflexive pronoun ([@sec:reflexive-deponent]). However, in the majority of diatheses all three cases seem to behave as a uniform group, so I did not consistently pursue this separation.
 
 It is imperative to realise that the macroroles are defined in a language-specific way for German grammar as groupings of language-specific German expressions (e.g. ~~ADJ~~ is defined as being either a non-governed prepositional phrase or an adnominal genitive). The names that are used (e.g. 'object' or 'adjunct') deliberately conjure up general cross-linguistic associations, but it remains to be seen whether similar definitions as used here are also useful for other languages. I will refrain from any cross-linguistic speculation in this context here.
 
@@ -814,7 +820,7 @@ b. In diesem Haus lebt es sich gut.
 c. ^* In diesem Haus lebt es sich.
 :::
 
-Also the so-called impersonal passive [@next] is an example of a verbative diathesis, in this case even without any valency-simulating *es*, see [@sec:participles-werden-impersonal-passive].
+Also the so-called impersonal passive consisting of *werden + Partizip* [@next] is an example of a verbative diathesis, in this case even without any valency-simulating *es*, see [@sec:participles-werden-impersonal-passive].
 
 ::: ex
 ~~Verbative [SBJ › Ø]~~
@@ -824,7 +830,16 @@ b. Hier wird getanzt.
 c. ^* Hier wird es getanzt.
 :::
 
-Other isolated diatheses are only attested in incidental examples in German. An isolated ~~subject demotion~~ of the subject to a governed preposition ~~[SBJ › PBJ]~~ is shown in [@next], see [@sec:prepositions-nominative-demotion].
+A different kind of isolated subject diathesis is ~~subject demotion~~ of the nominative subject to a prepositional phrase. An example is the *geben + zu + Infinitiv* [@next], see [@sec:zuinfinitive-geben-demotion]. In this diathesis, the subject is demoted to an optional non-governed prepositional phrase ~~[SBJ › ADJ]~~.
+
+::: ex
+~~Subject demotion [SBJ › ADJ]~~
+
+a. Wir gewinnen einen Preis. 
+b. es gibt (für uns) einen Preis zu gewinnen.
+:::
+
+Most isolated diatheses are only attested in incidental examples in German, like a subject demotion to a governed preposition ~~[SBJ › PBJ]~~ with *fehlen* shown in [@next], see [@sec:prepositions-nominative-demotion].
 
 ::: ex
 ~~Subject demotion [SBJ › PBJ]~~
@@ -833,7 +848,7 @@ a. Das Geld fehlt ihm.
 b. Ihm fehlt es an Geld.
 :::
 
-Isolated ~~subject addition [Ø › SBJ]~~ is very rare in German, partly because it would need an unmarked construction without any subject to start off with. A possible example is the addition of a subject, which seems possible with some weather verbs like *donnern* 'to thunder' [@next], see [@sec:case-nominative-addition].
+Isolated ~~subject addition [Ø › SBJ]~~ is very rare in German, partly because it would need an unmarked construction without any subject to start off with. A possible example is the addition of a subject that seems possible with some weather verbs like *donnern* 'to thunder' [@next], see [@sec:case-nominative-addition].
 
 ::: ex
 ~~Subject addition [Ø › SBJ]~~
@@ -947,7 +962,16 @@ a. Der Junge schläft.
 b. Ich lasse den Jungen schlafen. \
    (= Ich erlaube, das der Junge weiter schläft.)
 :::
- 
+
+Finally, the *lehren/helfen + Infinitiv* diathesis [@next], see [@sec:infinitive-lehren], is a novative in which the role of the new subject is more of an assistant than a real causative. Therefor it is called here an ~~assistive~~ novative. Note that both *lehren* and *helfen* can also be used with *zu + Infinitiv*, but then the constructions are not coherent, so those constructions are not included among the diatheses.
+
+::: ex
+~~ Assistive novative [Ø › SBJ › OBJ]~~
+
+a. Der Sohn faltet die Wäsche.
+b. Der Vater lehrt seinen Sohn die Wäsche falten.
+:::
+
 A ~~reversed passive [ADJ › SBJ › OBJ]~~ demotes the subject to object and at the same time promotes a new subject from an erstwhile adjunct role. An example in German is the diathesis from *erben* 'to inherit' to *enterben* 'to disinherit' [@next a,b], see [@sec:preverb-inverted-passive-accusative-loss]. This is semantically very close to a causative ~~[Ø › SBJ › OBJ]~~, in which the newly introduced causer can sometimes be expressed as an adjunct [@next c,d]. This affinity between a reversed passive and a causative is reminiscent of the affinity between a passive and an anticausative. In both pairs, the difference amounts to a switch between the closely related macro-role of an optional adjunct ~~(ADJ)~~ and being completely unexpressed ~~(Ø)~~.
 
 ::: ex
@@ -1007,6 +1031,24 @@ Symmetrical diatheses involving the subject are rare in German. An ~~inversive [
 
 a. Dein Verhalten wundert mich.
 b. Ich bewundere dein Verhalten.
+:::
+
+Much more widespread in German are diatheses in which a nominative/accusative construction is inverted into a dative/nominative construction. This is for example attested for the *bleiben + zu + Infinitiv* diathesis [@next], see [@sec:zuinfinitive-bleiben]. Because dative and accusative are both classified here as ~~OBJ~~, this counts as an inversive diathesis. However, when a separation between core (accusative) and non-core (dative/genitive) case would be pursued (see [@par:corecase]), then this diathesis would be an example of demotion. Instead of adding completely new categories I propose to simply call this phenomenon ~~demoted inversive~~. 
+
+::: ex
+~~Demoted inversive [OBJ › SBJ › OBJ]~~
+
+a. Ich schreibe nur noch die Geschichte auf.
+b. Mir bleibt nur noch die Geschichte aufzuschreiben.
+:::
+
+The opposite ~~promoted inversive~~ promotes a dative/genitive into a nominative subject, and demotes the erstwhile nominative to an accusative. This is illustrated with the *haben + Infinitiv* diathesis in [@next], see [@sec:infinitive-haben].
+
+::: ex
+~~Promoted inversive [OBJ › SBJ › OBJ]~~
+
+a. Ein Tropfen hängt ihm an der Nase.
+b. Er hat einen Tropfen an der Nase hängen.
 :::
 
 At the other extreme, a ~~commutative [Ø › SBJ › Ø]~~ complete removes the old subject and introduces a completely new role as subject. I propose this term on the basis of Lat. *commutare* 'exchange, replace'. A German example of such a diathesis is the *wissen + Partizip* construction [@next], see [@sec:participles-geben-commutative]
@@ -1317,17 +1359,19 @@ a. Ich raube dir das Buch.
 b. Ich beraube dich des Buches.
 :::
 
-# Summary of major diatheses
+# Summary of major diatheses {#sec:summary}
 
 ## German names for German grammar
 
 Among all the diatheses that are distinguished in this survey there are many that only occur in very specific situations or might otherwise be considered to be exceptions or incidental instances. However, there are also very many diatheses that are highly frequent and can be used with very many different verbs. Those major diatheses, that are of central importance to the grammatical structure of German, will be summarised in this chapter. Such a summary would normally be presented at the end of a book, but because of the often long-winding data-driven details of the subsequent descriptive chapters I decided to present this summary here at the end of the introductory deliberations. Take it as a quick appetiser of things to come, with ample links to the actual discussion in later chapters.
 
-Besides a basic summary I also propose German names for all major diatheses. Using suitable names is a central aspect of (scientific) communication. In grammar names are like instruments that allow us to abstract away from individual details and manipulate classes of utterances that show a specific abstract structure. However, naming is hard and can also lead to miscommunication. When re-using available terminology, the terms are easily recognised and remembered, but they carry the weight of history. Even when detailed definitions are given (as I have tried to do throughout this book), unintended aspects of previous usage inevitably seep through. In contrast, inventing new names introduces more precision, but the downside are often cumbersome terms that are difficult to remember. 
+To reiterate the basic premise of this book: in the subsequent chapters [-@sec:case] to [-@sec:zuminfinitive] I aim to present a complete list of all coherent, and thus monoclausal, sentence structures in German (cf. [@sec:intro-coherence]). All in all there are 250+ separate sub-subsections that describe (often minor) variations of monoclausal sentence structures. This diversity is condensed into 80+ major sentence structures as summarised in this chapter. Of those, about 60 are diatheses (i.e. alternations with role-remapping), while about 20 are sentence structures without any change in role marking. All these counts should be taken with some leeway, because a lot depends on individual decisions about splitting or lumping structures into groups (e.g. how many *lassen + infinitive* constructions are counted separately).
 
-In naming diatheses in this book I have tried to strike a balance between precise naming and good readability. For the English names in the detailed discussions in the coming chapters, I have decided in favour or precision. Each phenomenon is newly named with often long descriptive and unique names. In contrast, for the German names in this chapter I try to reuse available terminology as much as possible. When necessary, I propose new names that attempt to evoke a functional description like 'Reziprokativ' or 'Erlebnispassiv'. However, the semantic analysis of the diatheses thus described is often only only preliminarily analysed here, so it might become necessary to rename diatheses in the future, once more detailed investigations have been performed.
+Besides a basic summary I also propose German names for all 80+ major monoclausal sentence structures. Using suitable names is a central aspect of (scientific) communication. In grammar, names are like instruments that allow us to abstract away from individual details and manipulate classes of utterances that show a specific abstract structure. However, naming is hard and can also lead to miscommunication. When re-using available terminology, the terms are easily recognised and remembered, but they carry the weight of history. Even when detailed definitions are given (as I have tried to do throughout this book), unintended aspects of previous usage inevitably seep through. In contrast, inventing new names introduces more precision, but the downside are often cumbersome terms that are difficult to remember. 
 
-In this chapter, the diatheses are organised in sections according to the macro-role remapping patterns as introduced in [@sec:intro-naming]. The different diatheses in each section are thus functionally highly similar, but they are structurally different.
+In naming diatheses in this book I have tried to strike a balance between precise naming and good readability. For the English names in the detailed discussions in the coming chapters, I have decided in favour or precision. Each phenomenon is newly named with often long descriptive and unique names. In contrast, for the German names in this chapter I try to reuse available terminology as much as possible. When necessary, I propose new names that attempt to evoke a functional description like *Reziprokativ* or *Erlebnispassiv*. However, the semantic characterisation of the diatheses thus described is often only preliminarily analysed here, so it might become necessary to rename diatheses in the future once more detailed investigations have been performed. In some cases I simply have not been able to find a suitable semantic characterisation. For those diatheses I have resorted to using formal characteristics in the name, always written as separate words, like *Reflexiv Erlebnispassiv*
+
+In this chapter, the diatheses are organised in sections according to the macro-role remapping patterns as introduced in [@sec:intro-naming]. The different diatheses in each section are thus functionally highly similar, but they are structurally different. Inversely, there are various diatheses that structurally highly similar, but are nonetheless repeated in separate sections under different names. This is necessary because the superficially identical diathesis can have rather different structural repercussions depending on the verb to which it is applied. This happens for examples with the *sein + Partizip* or the *lassen + Reflexiv + Infinitiv* constructions.
 
 ## Verbative diatheses ~~[SBJ › Ø]~~
 
@@ -1360,12 +1404,52 @@ b. Jetzt wird getanzt!
 
 ### Unpersönlicher Möglichkeitspassiv (*lassen + Infinitiv*) 
 
-The ~~Unpersönlicher Möglichkeitspassiv~~ consists of the light verb *lassen* with the infinitive of an intranstive verb (see [@sec:infinitive-lassen-reflexive-intransitive]). This construction obligatory includes a reflexive pronoun and an evaluating adverbial expression. A valency-simulating pronoun *es* appears to be optional. Similar to the previous diathesis, this diathesis also seems to be restricted to agentive intransitive verbs like *arbeiten* 'to work' [@next]. This construction is arguably closely related to the ~~Möglichkeitspassiv~~ for transitive verbs (see [@sec:infinitive-lassen-reflexive-anticausative]).
+The ~~Unpersönlicher Möglichkeitspassiv~~ consists of the light verb *lassen* with the infinitive of an intransitive verb (see [@sec:infinitive-lassen-reflexive-intransitive]). This construction obligatory includes a reflexive pronoun and an evaluating adverbial expression like *gut* 'fine'. A valency-simulating pronoun *es* appears to be optional. Similar to the previous diathesis, this diathesis also seems to be restricted to agentive intransitive verbs like *arbeiten* 'to work' [@next]. This construction is arguably closely related to the ~~Möglichkeitspassiv~~ for transitive verbs (see [@sec:infinitive-lassen-reflexive-anticausative]).
 
 ::: ex
 a. Ich arbeite zuhause.
 b. Zuhause lässt (es) sich gut arbeiten.
 :::
+
+### Unpersönlicher Modalpassiv (*sein + zu + Infinitiv*)
+
+The ~~Unpersönlicher Modalpassiv~~ (see [@sec:zuinfinitive-sein-impersonal])
+
+::: ex
+a. Ich traue ihm nicht.
+b. Ihm ist nicht zu trauen.
+:::
+
+### (*stehen + zu + Infinitiv*)
+
+(see [@sec:zuinfinitive-stehen-impersonal])
+
+::: ex
+a. Ich befürchte einen weiteren Beschäftigungsabbau.
+b. Ein weiterer Beschäftigungsabbau steht zu befürchten.
+:::
+
+## Demoted Subject diatheses ~~[SBJ › ADJ]~~
+
+### (*geben/gelten + zu + Infinitiv*)
+
+(see [@sec:zuinfinitive-geben-demotion ff.])
+
+::: ex
+a. Wir verlieren den Koffer nicht.
+b. jetzt gilt es (für uns) den Koffer nicht zu verlieren.
+:::
+
+## Conciliative diatheses ~~[ADJ › SBJ › Ø]~~
+
+### Instrumentsubjektivierung
+
+The diathesis ~~Instrumentsubjektivierung~~ (see [@sec:prepositions-intransitive-preposition-anticausative] and subsequent sections)
+
+## Fabricative diatheses ~~[PBJ › SBJ › Ø]~~
+
+### Kreationssubjektivierung
+The diathesis ~~Kreationssubjektivierung~~ (see [@sec:prepositions-fabricative-accusative] and subsequent sections)
 
 ## Anticausative diatheses ~~[OBJ › SBJ › Ø]~~
 
@@ -1391,9 +1475,9 @@ b. Der Teller hat am Tisch geklebt.
 c. Der Teller ist am Tisch geklebt.
 :::
 
-### Reflexivantikausativ
+### Reflexiv Antikausativ
 
-The ~~Reflexivantikausativ~~ (see [@sec:reflexive-anticausative] and subsequent sections) is attested with verbs like *entscheiden* 'to decide' or *beschränken* 'to limit'. Again, these verbs occur both as transitive and intransitive with the transitive object being the subject of the intransitive [@next a,b]. However, with these verbs the intransitive needs an obligatory reflexive pronoun [@next b]. The intransitive with reflexive pronoun typically takes *haben* in the perfect [@next c]. The intransitive perfect with *sein* [@next d] can now clearly be identified as a ~~Zustandspassiv~~ of the transitive (see [@sec:participles-sein-zustandspassiv]).
+The ~~Reflexiv Antikausativ~~ (see [@sec:reflexive-anticausative] and subsequent sections) is attested with verbs like *entscheiden* 'to decide' or *beschränken* 'to limit'. Again, these verbs occur both as transitive and intransitive with the transitive object being the subject of the intransitive [@next a,b]. However, with these verbs the intransitive needs an obligatory reflexive pronoun [@next b]. The intransitive with reflexive pronoun typically takes *haben* in the perfect [@next c]. The intransitive perfect with *sein* [@next d] can now clearly be identified as a ~~Zustandspassiv~~ of the transitive (see [@sec:participles-sein-zustandspassiv]).
 
 ::: ex
 a. Der Richter entscheidet den Fall.
@@ -1413,6 +1497,33 @@ c. Das Buch hat sich gut verkauft.
 d. Das Buch ist verkauft.
 :::
 
+### Kontinuativantikausativ (*bleiben + Partizip*)
+
+The ~~Kontinuativantikausativ~~ (see [@sec:participles-bleiben-transitive]) is closely related to the *sein Zustandspassiv* (see [@sec:participles-sein-zustandspassiv]), but now the light verb *bleiben* is used with a participle [@next]. Both *sein* and *bleiben* are known as auxiliaries (~~Kopulaverben~~) in German grammar, so this parallel construction is not unexpected. However, not all verbs can be equally used in both constructions. For example, verbs like *schreiben* 'to write' or *waschen* 'to wash' are fine with the *sein-Zustandspassiv* but not with the *bleiben-Kontinuativpassiv*. Also the retention of the original agent as a prepositional phrase seems to be impossible, so this diathesis is classified as an anticausative here.
+
+::: ex
+a. Der Pförtner schließt die Tür.
+b. Die Tür bleibt geschlossen \*(von den Pförtner).
+:::
+
+### Apparitivantikausativ (*aussehen/(er)scheinen/wirken + Partizip*)
+
+The ~~Apparitivantikausativ~~ (see [@sec:participles-aussehen-anticausative] and subsequent sections) is constructed with one of the light verbs *aussehen*, *scheinen*, *erscheinen* and *wirken* with a participle. The retention of the original agent as a prepositional phrase seems to be impossible, so this diathesis is probably classified as an anticausative here. 
+
+::: ex
+a. Der Pförtner schließt die Tür.
+b. Die Tür sieht geschlossen aus \*(von den Pförtner).
+:::
+
+### Präsentativantikausativ (*geben/zeigen + Partizip*)
+
+*geben/zeigen* ~~Präsentativantikausativ~~ (see [@sec:participles-geben-reflexive-anticausative])
+
+::: ex
+a. Die Stille entspannt ihn.
+b. Er gibt sich entspannt \*(durch die Stille).
+:::
+
 ## Passive diatheses ~~[OBJ › SBJ › ADJ]~~ 
 
 ### Vorgangspassiv (*werden + Partizip*)
@@ -1424,6 +1535,24 @@ a. Ich verkaufe den Schrank.
 b. Der Schrank wird verkauft (von mir).
 :::
 
+### Möglichkeitspassiv (*lassen + Infinitiv*)
+
+(see [@sec:infinitive-lassen-reflexive-anticausative])
+
+::: ex
+a. Der Pförtner schließt die Tür.
+b. Die Tür lässt sich schließen (von dem Pförtner).
+:::
+
+### Modalpassiv (*sein + zu + infinitive*)
+
+(see [@sec:zuinfinitiv-sein-passive]) *müssen/können* interpretation
+
+::: ex
+a. Ich führe den Hund an der Leine.
+b. Hunde sind an der Leine zu führen (von ihren Besitzern).
+:::
+
 ### Rezipientenpassiv (*bekommen/kriegen/erhalten + Partizip*)
 
 The ~~Rezipientenpassiv~~ (see [@sec:participles-bekommen-passive]) has become a mainstay in the German grammatical literature. It consists of the light verb *bekommen* with a participle (alternatively, the light verbs *kriegen* or *erhalten* can be used). With this diathesis, the dative recipient is turned into the nominative subject of the intransitive. Again, the erstwhile nominative can be retained as a prepositional phrase, though it mostly is not used.
@@ -1431,6 +1560,19 @@ The ~~Rezipientenpassiv~~ (see [@sec:participles-bekommen-passive]) has become a
 ::: ex
 a. Der Friseur schneidet mir die Haare.
 b. Ich bekomme die Haare geschnitten (von dem Friseur).
+:::
+
+### Erlaubnisrezipientenpassiv (*lassen + Infinitiv*)
+
+The ~~Erlaubnisrezipientenpassiv~~ (see [@sec:infinitive-lassen-dative-reflexive-anticausative])
+
+### Normpassiv (*gehören + Partizip*)
+
+The ~~Normpassiv~~ (see [@sec:participles-gehoren-anticausative]) consists of the light verb *gehören* with a participle.
+
+::: ex
+a. Der Schiedsrichter bestraft den Spieler.
+b. Der Spieler gehört bestraft (durch den Schiedsrichter)
 :::
 
 ### Zustandspassiv (*sein + Partizip*)
@@ -1442,126 +1584,241 @@ a. Ich verkaufe den Schrank.
 b. Der Schrank ist verkauft ^?^(von mir).
 :::
 
-### Kontinuativpassiv (*bleiben + Partizip*)
-
-The ~~Kontinuativpassiv~~ (see [@sec:participles-bleiben-transitive]) is closely related to the previous *Zustandspassiv*, but now the light verb *bleiben* is used with a participle [@next]. Both *sein* and *bleiben* are known as auxiliaries (~~Kopulaverben~~) in German grammar, so this parallel construction is not unexpected. However, not all verbs can be equally used in both constructions. For example, verbs like *schreiben* 'to write' or *waschen* 'to wash' are fine with the *sein-Zustandspassiv* but not with the *bleiben-Kontinuativpassiv*. The retention of the original agent as a prepositional phrase seems to be impossible, so this diathesis is probably better considered to be an anticausative.
-
-::: ex
-a. Der Pförtner schließt die Tür.
-b. Die Tür bleibt geschlossen \*(von den Pförtner).
-:::
-
-### Apparitivpassiv (*aussehen/(er)scheinen/wirken + Partizip*)
-
-The ~~Apparitivpassiv~~ (see [@sec:participles-aussehen-anticausative] and subsequent sections) is constructed with one of the light verbs *aussehen*, *scheinen*, *erscheinen* and *wirken* with a participle. The retention of the original agent as a prepositional phrase seems to be impossible, so this diathesis is probably better considered to be an anticausative. 
-
-::: ex
-a. Der Pförtner schließt die Tür.
-b. Die Tür sieht geschlossen aus \*(von den Pförtner).
-:::
-
-### Normpassiv (*gehören + Partizip*)
-
-The ~~Normpassiv~~ (see [@sec:participles-gehoren-anticausative]) consists of the light verb *gehören* with a participle.
-
-::: ex
-a. Der Schiedsrichter bestraft den Spieler.
-b. Der Spieler gehört bestraft (durch den Schiedsrichter)
-:::
-
-### Erscheinungspassiv (*geben/zeigen + Partizip*)
-
-*geben/zeigen* ~~Erscheinungspassiv~~ (see [@sec:participles-geben-reflexive-anticausative])
-
-::: ex
-a. Die Stille entspannt ihn.
-b. Er gibt sich entspannt \*(durch die Stille).
-:::
-
 ### Pertinenzpassiv (*haben + Partizip*)
 
 *haben* ~~Pertinenzpassiv~~ (see [@sec:participles-haben-passive])
 
+Agent retention clearly possibly when stacked with a modal auxiliary
+
 ::: ex
 a. Der Friseur schneidet ihm die Haare.
 b. Er hat die Haare geschnitten ^?^(durch den Friseur).
+c. Er will die Haare von mir geschnitten haben.
+:::
 
 ## Conversive diatheses ~~[OBJ › SBJ › PBJ]~~
 
-### Erlebnispassiv
+### Erlebnispassiv (*sein + Partizip*)
 
-*sein* ~~Erlebnispassiv~~ (see [@sec:participles-sein-conversive])
+The ~~Erlebnispassiv~~ (see [@sec:participles-sein-conversive])
+
+::: ex
+a. Die Nachricht verärgert mich.
+b. Ich bin verärgert über die Nachricht.
+c. Ich bin verärgert darüber, dass die Nachricht verbreitet wurde.
+:::
 
 ### Reflexiv Erlebnispassiv
 
-Reflexiv Erlebnispassiv~~ (see [@sec:reflexive-preposition-passive])
+The ~~Reflexiv Erlebnispassiv~~ (see [@sec:reflexive-preposition-passive])
 
-## Fabricative diatheses ~~[PBJ › SBJ › Ø]~~
-
-Kreationssubjektivierung~~ (see [@sec:prepositions-fabricative-accusative]ff.)
-
-## Conciliative diatheses ~~[ADJ › SBJ › Ø]~~
-
--  Instrumentsubjektivierung (see [@sec:prepositions-intransitive-preposition-anticausative]ff.)
-
-## Novative diatheses ~~[Ø › SBJ › OBJ]~~
-
-(Unmarkierter) Kausativ (see [@sec:case-sein-causative]ff.)
-Ortskausativ (see [@sec:prepositions-sein-caused-location]ff.)
-Präverb Kausativ (see [@sec:preverb-causative]ff.)
-*wissen/glauben/sehen/finden* Opiniativ (see [@sec:participles-promotion-to-subject]ff.)
+::: ex
+a. Der Preis empört den Kunden.
+b. Der Kunde empört sich über den Preis.
+c. Der Kunde empört sich darüber, dass der Preis schon wieder gestiegen ist.
+:::
 
 ## Inversive diatheses ~~[OBJ › SBJ › OBJ]~~
 
-## Applicative diatheses ~~[ADJ › OBJ]~~ 
+### Pertinenzinversiv (*haben + am + Infinitiv*)
+
+(see [@sec:zuminfinitive-haben-am])
+
+::: ex
+a. Mir brennt die Wohnung.
+b. Ich habe die Wohnung am Brennen.
+:::
+
+### Ortspertinenzinversiv (*haben + Infinitiv*)
+
+The ~~Pertinenzinversiv~~ (see [@sec:infinitive-haben])
+
+::: ex
+a. Ein Tropfen hängt ihm an der Nase.
+b. Er hat einen Tropfen an der Nase hängen.
+:::
+
+### Erlaubnisinversiv (*lassen + Infinitiv*)
+
+The ~~Erlaubnisinversiv~~ (see [@sec:infinitive-lassen-dative-reflexive-inversive])
+
+::: ex
+a. Der Kuchen schmeckt mir.
+b. Ich lasse mir den Kuchen schmecken.
+:::
+
+### Restinversiv (*bleiben + zu + Infinitiv*)
+
+(see [@sec:zuinfinitive-bleiben])
+
+::: ex
+a. Ich schreibe nur noch die Geschichte auf.
+b. Mir bleibt nur noch die Geschichte aufzuschreiben.
+:::
+
+## Novative diatheses ~~[Ø › SBJ › OBJ]~~
+
+### (Unmarkierter) Kausativ
+
+ (see [@sec:case-sein-causative ff.])
+
+### Ortskausativ
+
+Ortskausativ (see [@sec:prepositions-sein-caused-location ff.])
+
+### Präverb Kausativ
+
+Präverb Kausativ (see [@sec:preverb-causative ff.])
+
+### Initiativ (*lassen/machen/heißen/schicken/lehren/helfen + Infinitiv*)
+
+causative/permissive/assistive (see [@sec:infinitive-lassen-causative ff.])
+
+### Opiniativ (*wissen/glauben/sehen/finden + Partizip*)
+
+*wissen/glauben/sehen/finden* Opiniativ (see [@sec:participles-promotion-to-subject ff.])
+
+### Sensativ (*sehen/hören/fühlen/spüren/riechen/finden* + Infinitiv)
+
+*sehen/hören/fühlen/spüren/riechen/finden* ~~Sensativ~~ (see [@sec:infinitive-sehen ff.])
+
+### Aktivitätskausativ (*bringen/kriegen + zum + Infinitiv*)
+
+causative (see [@sec:zuminfinitive-bringen-causative])
+
+::: ex
+a. Ich tanze.
+b. Die Musik bringt mich zum Tanzen. 
+:::
+
+### Kognitionskausativ (*geben + zu + Infinitiv*)
+
+(see [@sec:zuinfinitive-geben-causative]). Different from all other novatives, the erstwhile subject becomes a dative (not an accusative).
+
+::: ex
+a. Ich bedenke, dass es schon spät ist.
+b. Er gibt mir zu bedenken, dass es schon spät ist.
+:::
+
+## Applicative diatheses ~~[ADJ/PBJ › OBJ]~~ 
 
 Pertinenz (lat. pertinere, ,dazugehören‘) Peter von Polenz: Der Pertinenzdativ und seine Satzbaupläne. In: Festschrift für Hugo Moser. Düsseldorf 1969, Seite 146ff.
 
-Pertinenzdativ~~ (see [@sec:case-possessor-of-nominative-to-dative-experiencer]ff.)
-Ortspertinenzdativ~~ (see [@sec:prepositions-possessor-of-location-to-dative-experiencer]ff.)
-Benefaktivdativ~~ (see [@sec:prepositions-benefactive-dative])
-[ADJ › OBJ › PBJ] Pertinenzakkusativ~~ (see [@sec:perpositions-possessor-applicative])
+also governed prepositions!
+
+### Pertinenzdativ
+
+(see [@sec:case-possessor-of-nominative-to-dative-experiencer ff.])
+
+### Ortspertinenzdativ
+
+(see [@sec:prepositions-possessor-of-location-to-dative-experiencer ff.])
+
+### Benefaktivdativ
+
+(see [@sec:prepositions-benefactive-dative])
+
+### Pertinenzakkusativ 
+
+(see [@sec:perpositions-possessor-applicative])
  
-Präverb Akkusativ Applikativ~~ (see [@sec:preverb-applicative])
-Präverb Dativ Applikativ~~ (see [@sec:preverb-dative-applicative])
-Adverb Applikativ~~ (see [@sec:adverbials-applicative]ff.)
+### Präverb Akkusativ Applikativ
+
+(see [@sec:preverb-applicative])
+
+### Präverb Dativ Applikativ
+
+(see [@sec:preverb-dative-applicative])
+
+### Adverb Applikativ
+
+(see [@sec:adverbials-applicative ff.])
+
+## Antipassive diatheses ~~[OBJ › PBJ/ADJ]~~
 
 also governed prepositions!
 
-## Antipassive diatheses ~~[OBJ › ADJ]~~
+### Akkusativ Antipassiv
 
--  Akkusativ Antipassiv~~ (see [@sec:prepositions-accusative-antipassive]ff.)
-- ~~[OBJ › ADJ] Dativ Antipassiv~~ (see [@sec:prepositions-dative-antipassive]ff.)
-- ~~[OBJ › ADJ] Reziprokativ~~ (see [@sec:reflexive-mit-antipassive])
-- ~~[OBJ › ADJ] Präverb Antipassiv~~ (see [@sec:preverb-reflexive-antipassive]ff.)
+(see [@sec:prepositions-accusative-antipassive ff.])
 
-~~[OBJ › PBJ] Reflexiv Deakkusativ~~ (see [@sec:reflexive-accusative-antipassive])
+### Dativ Antipassiv
 
-also governed prepositions!
+(see [@sec:prepositions-dative-antipassive ff.])
+
+### Reziprokativ
+
+(see [@sec:reflexive-mit-antipassive])
+
+### Präverb Antipassiv
+
+(see [@sec:preverb-reflexive-antipassive ff.])
+
+### Reflexiv Deakkusativ
+
+(see [@sec:reflexive-accusative-antipassive])
 
 ## Full applicative diatheses ~~[ADJ › OBJ › ADJ]~~
 
-- ~~[ADJ › OBJ › ADJ] Vollapplikativ~~ (see [@sec:prepositions-instrument-applicative])
-- ~~[ADJ › OBJ › ADJ] Präverb Vollapplikativ~~ (see [@sec:preverb-applicative-antipassive])
-- ~~[ADJ › OBJ › ADJ] Adverb Vollapplikativ~~ (see [@sec:adverbial-full-applicative])
+### Vollapplikativ
+
+(see [@sec:prepositions-instrument-applicative])
+
+### Präverb Vollapplikativ
+
+(see [@sec:preverb-applicative-antipassive])
+
+### Adverb Vollapplikativ
+
+(see [@sec:adverbial-full-applicative])
 
 ## Resultative diatheses ~~[Ø › OBJ/PBJ]~~
 
-- ~~[Ø › OBJ] Resultativ~~ (see [@sec:case-accusative-addition])
-- ~~[Ø › PBJ] Bewegungszustand~~ (see [@sec:prepositions-manner-of-movement]ff.)
-- ~~[Ø › PBJ] Ortsresultativ~~ (see [@sec:prepositions-intransitive-location-as-result]ff.)
-- ~~[Ø › OBJ › PBJ] Aktionsresultativ~~ (see [@sec:prepositions-action-result])
-- ~~[Ø › PBJ] Ergänzende Wirkung~~ (see [@sec:prepositions-performative-result]
-- ~~[Ø › OBJ] Präverb Resultativ~~ (see [@#sec:preverb-reflexive-resultative]ff.)
+### Resultativ
 
-- ~~[PBJ › PBJ] Reflexiv Resultativ~~ (see [@sec:reflexive-resultative])
+(see [@sec:case-accusative-addition])
+
+### Ortsresultativ
+
+(see [@sec:prepositions-intransitive-location-as-result ff.])
+
+### Präverb Resultativ
+
+(see [@sec:preverb-reflexive-resultative ff.])
+
+### Reflexiv Resultativ
+
+(see [@sec:reflexive-resultative]) ~~[PBJ › PBJ]~~
+
+### Aktionsresultativ
+
+(see [@sec:prepositions-action-result])
+
+### Bewegungszustand
+
+see [@sec:prepositions-manner-of-movement ff.])
+
+### Ergänzende Wirkung
+
+(see [@sec:prepositions-performative-result]
 
 ## Antiresultative diatheses ~~[OBJ/PBJ › Ø]~~
 
-- ~~[OBJ › Ø] Endoreflexiv~~ (see [@sec:reflexive-accusative-drop]ff.)
-- ~~[PBJ › Ø] Präverb Antiresultativ~~ (see [@sec:preverb-intransitive-antiresultative]ff.)
-- ~~[PBJ › OBJ › Ø] Aktionsantiresultativ~~ (see [@sec:preverb-location-antiresultative]ff.)
-- ~~[PBJ › Ø] Adverb Antiresultativ~~ (see [@sec:adverbs-antiresultative]ff.)
+### Endoreflexiv
+
+(see [@sec:reflexive-accusative-drop ff.])
+
+### Präverb Antiresultativ
+
+(see [@sec:preverb-intransitive-antiresultative ff.])
+
+### Aktionsantiresultativ
+
+(see [@sec:preverb-location-antiresultative ff.])
+
+### Adverb Antiresultativ
+
+(see [@sec:adverbs-antiresultative ff.])
 
 ## Clause alternations without diathesis
 

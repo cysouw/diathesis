@@ -84,22 +84,30 @@ Die Bedeutung der Verben *sein/bleiben* scheint sehr lexikal. Eher keine speziel
 
 ## Diatheses with subject demotion
 
-### [ PBJ > SBJ > Ø ] --- Facilitive --- {.unnumbered}
+### --- [ PBJ > SBJ > Ø ] --- {.unnumbered}
 
 ### [ NP | –N ] *sein + zum + Infinitive* Facilitive
 
+Only incidental examples?
+
 - Es ist zum Verzweifeln.
-- Es ist zum Heulen. [ NP|-N ] Ich heule über den Schaden. Der Schaden ist zum Heulen
+- Es ist zum Heulen/totlachen.
+
+::: ex
+a. Ich heule über den Schaden. 
+b. Der Schaden ist zum Heulen.
+:::
 
 ## Diatheses with promotion to subject
 
-### --- [ Ø > SBJ > OBJ ] Causatives --- {.unnumbered}
+### --- [ Ø > SBJ > OBJ ] --- {.unnumbered}
 
-### [ –N | NA ] *bringen/kriegen + zum + Infinitiv*
+### [ –N | NA ] *bringen/kriegen + zum + Infinitiv* causative (*Aktivitätskausativ*) {#sec:zuminfinitive-bringen-causative}
 
-Agens zu Akkusativ bei intransitive Verben.
-
-- Ich weine. Sie bringt mich zum Weinen. 
+::: ex
+a. Ich weine.
+b. Sie bringt mich zum Weinen. 
+:::
 
 Patiens als Akkustiv (nur bei antikausative Verben?)
 
@@ -123,18 +131,6 @@ Andere Nominalisierungen?
 - Er bringt die Akte in Bearbeitung.
 - Er bringt mich dazu ein Haus zu bauen.
 
-### --- [ ADJ > SBJ > OBJ ] Experientive reversed passive --- {.unnumbered}
-
-### [ gN | NA ] *haben + am + Infinitiv* Experientive {#sec:zuminfinitive-haben-am}
-
-(Businger 2011: 323-325)
-
-possessor > dative > experientive
-
-- Die Wohnung brennt (Meine Wohnung brennt - mir brennt die Wohnung). Ich habe die Wohnung am Brennen.
-- Das Kind schläft (Mein Kind schläft). Als ich das Kind vorher endlich am Schlafen hatte, bin ich duschen.
-- Die Teller drehen. Der Jongleur, der unzähliche Teller am Drehen hat, ...
-
 ## Diatheses with object demotion
 
 not attested
@@ -145,5 +141,21 @@ not attested
 
 ## Symmetrical diatheses
 
-not attested
+### --- [ OBJ > SBJ > OBJ ] --- {.unnumbered}
+
+### [ gN | DN | NA ] *haben + am + Infinitiv* Experientive (*Pertinenzinversiv*) {#sec:zuminfinitive-haben-am}
+
+::: ex
+a. Mir brennt die Wohnung.
+b. Ich habe die Wohnung am Brennen.
+:::
+
+(Businger 2011: 323-325)
+
+possessor > dative > experientive
+
+- Die Wohnung brennt (Meine Wohnung brennt - mir brennt die Wohnung). Ich habe die Wohnung am Brennen.
+- Mein Kind schläft (Mir schläft das Kind). Als ich das Kind vorher endlich am Schlafen hatte, bin ich duschen.
+- Seine Teller drehen. (Ihm drehen die Teller.) Der Jongleur hat unzähliche Teller am Drehen.
+
 
