@@ -32,7 +32,7 @@ filters:
 metadata-files:
 - meta/metadata.yaml
 - meta/settings.yaml
-- meta/css.yaml
+- meta/custom-css.yaml
 
 include-after-body:
 - filters/toc-script.js

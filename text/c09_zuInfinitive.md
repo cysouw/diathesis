@@ -110,29 +110,14 @@ With dative-verbs possible, though only with very few incidental examples [contr
 
 - Ihm ist zu helfen/antworten/gratulieren/trauen
 
-### --- [ SBJ > Ø ] --- {.unnumbered}
-
-### [ NA | –A ] *stehen + zu + Infinitiv* Impersonal {#sec:zuinfinitive-stehen-impersonal}
-
-::: ex
-a. Ich befürchte einen weiteren Beschäftigungsabbau.
-b. Ein weiterer Beschäftigungsabbau steht zu befürchten.
-:::
-
-Nur für Verben mit einer Satzeinbettung? *bedenken, befürchten, bezweifeln, vermuten, hoffen, erwarten, lesen*
-
-- Daher steht zu erwarten, dass ...
-- Es steht zu befürchten, dass ...
-
-Special
-
-- Auf dem Buch stand zu lesen, dass ...
 
 ### --- [ SBJ > ADJ ] --- {.unnumbered}
 
 ### [ NA | pA ] *geben + zu + Infinitiv* subject demotion {#sec:zuinfinitive-geben-demotion}
 
-Immer mit *noch/viel/genug/reichlich/nichts* ?! ~~Mengenauftrag~~
+Immer mit *noch/viel/genug/reichlich/nichts* ?! 
+
+müssen, bereit liegen
 
 Agent retention with *für* ?!
 - Ich gewinnen einen Preis. Es gibt (für mich) einen Preis zu gewinnen.
@@ -153,7 +138,7 @@ b. jetzt gilt es (für uns) den Koffer nicht zu verlieren.
 Wir knacken den Jackpot
 Das ist der Jackput, den es für uns zu knacken gilt.
 
-~~Notwendigkeit~~
+müssen, Plan
 
 - Da war also der Punkt an dem es einzusetzen galt. (Bech 1955: 220-222)
 - Es gilt jetzt den Tisch zu putzen.
@@ -185,7 +170,21 @@ Also with various manner adverbs?
 
 - *löschen, reparieren*
 
-### [ NA | –N ] *stehen + zu + Infinitiv* anticausative
+### [ NA | –N ] *stehen + zu + Infinitiv* anticausative (*Kognitionsantikausativ*) {#sec:zuinfinitive-stehen-anticausaive}
+
+::: ex
+a. Ich befürchte einen weiteren Beschäftigungsabbau.
+b. Ein weiterer Beschäftigungsabbau steht zu befürchten.
+:::
+
+Nur für Verben mit einer Satzeinbettung? *bedenken, befürchten, bezweifeln, vermuten, hoffen, erwarten, lesen*
+
+- Daher steht zu erwarten, dass ...
+- Es steht zu befürchten, dass ...
+
+Special
+
+- Auf dem Buch stand zu lesen, dass ...
 
 Without sentence embedding predicates only very few incidental examples of anticausative
 

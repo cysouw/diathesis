@@ -464,11 +464,9 @@ c. Es ist kalt (im Sommer).
 
 ### --- [ ADJ > SBJ > Ø ] --- *Instrumentsubjektivierung* {.unnumbered}
 
-A ~~conciliative~~ is a diathesis in which an instrument-like artefact is promoted to nominative subject. This instrument is an intermediate (Lat. *conciliator*, 'intermediary/mediator') that is used by an agent to reach a certain goal.
-
 ### [ Np | –N ] Intransitive conciliative {#sec:prepositions-intransitive-preposition-anticausative}
 
-For these intransitive verbs a (non-governed) prepositional constituent alternates with a nominative subject [@next a,b].
+A ~~conciliative~~ is a diathesis in which an instrument-like artefact is promoted to nominative subject. This instrument is an intermediate (Lat. *conciliator*, 'intermediary/mediator') that is used by an agent to reach a certain goal. For intransitive verbs a (non-governed) prepositional constituent alternates with a nominative subject [@next a,b].
 
 ::: ex
 a. Er klappert mit der Tür.
@@ -556,9 +554,9 @@ This alternation takes a (non-governed) prepositional phrase and turns it into a
 
 ### --- [ PBJ > SBJ > Ø ] --- *Kreationssubjektivierung* {.unnumbered}
 
-A ~~fabricative~~ (Lat *fabrica*, 'plan, trick, workmanship') is a diathesis that superficially looks very similar to a conciliative in German because in both diatheses a *mit* prepositional phrase is promoted to nominative subject. The central difference is that the *mit* prepositional phrase in a fabricative diathesis is a governed preposition. This structural difference has a parallel semantic difference in that the fabricative *mit* phrase is an object that is produced by the agent.
-
 ### [ NPA | –NA ] Transitive fabricative {#sec:prepositions-fabricative-accusative}
+
+A ~~fabricative~~ (Lat *fabrica*, 'plan, trick, workmanship') is a diathesis that superficially looks very similar to a conciliative in German because in both diatheses a *mit* prepositional phrase is promoted to nominative subject. The central difference is that the *mit* prepositional phrase in a fabricative diathesis is a governed preposition. This structural difference has a parallel semantic difference in that the fabricative *mit* phrase is an object that is produced by the agent.
 
 This diathesis occurs (among others) with verbs of emotional interactions like *überraschen* 'to surprise' [@next a]. To understand this diathesis, a distinction is needed between the role of the 'fabricator', who produces the source (here: *Lehrer*, 'teacher') and the role of the 'fabricated product', which induces the emotion (here: *Aufgabe*, 'assignment'). The fabricator can be expressed with an adnominal genitive ('possessor') of the product [@next a,b]. The *mit* prepositional phrase expressing the fabricated product in [@next a] is a governed preposition [@next c]. As a result of the diathesis, the fabricated product is be promoted to nominative subject and the fabricator is removed from the expression [@next a,b]. The experiencer in the accusative remains unchanged.
 
@@ -568,7 +566,7 @@ b. Die Aufgabe (des Lehrers) überrascht mich.
 c. Der Lehrer überrascht mich damit, dass er die Aufgabe schon korrigiert hat.
 :::
 
-There is a large overlap (but also an interesting difference) between the verbs that allow for this diathesis and the verbs that allow for a reflexive variant [@next c], cf. [@sec:reflexive-preposition-passive]. Some verbs, like *ärgern* 'to irritate' in [@next] allow for both diatheses, but other verbs only take part in one or the other.
+There is a large overlap (but also an interesting difference) between the verbs that allow for this diathesis and the verbs that allow for a reflexive variant [@next c], see [@sec:reflexive-preposition-passive]. Some verbs, like *ärgern* 'to irritate' in [@next] allow for both diatheses, but other verbs only take part in one or the other.
 
 ::: ex
 a. Du ärgerst mich mit deinen Witzen.

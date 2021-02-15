@@ -18,6 +18,8 @@ Interesting datasources:
 - Präposition control: Er appellierte an sie den Aufwand zu senken. Er erwartet von ihr die Aufgabe zu lösen.
 - 'Hidden' control: Sie ordnete an wegzubleiben.
 
+Reversal of Control in [@bech1974] Check also Bech 1955: §30
+
 ### Inner Monologue Construction
 
 Verba Dicendi and the like (glauben, meinen, raten)

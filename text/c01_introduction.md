@@ -32,7 +32,7 @@ This first chapter summarises the basic definitional properties of diathesis. Th
 
 In this book, each diathesis has its own sub-subsection with an unique section header that can be used as a name to refer to the diathesis (e.g. [@sec:participles-werden-passive] on the *werden + Partizip* passive). Many of these unique names are quite boring, but hopefully descriptively useful for future reference. Individual verbs (often with concrete examples) are listed with each diathesis to show the extend of its applicability. Neither these lists of verbs nor the examples are intended to be exhaustive in any way. They should be seen as a first step towards more in-depth research into individual diatheses or into the different constructional possibilities that exist for individual verbs.
 
-The current attempt to present a all-encompassing survey of German diathesis builds on a rich scholarly tradition (with many scholarly precursors to be cited in appropriate places throughout this work). A comparable and highly influential survey of diathesis for English is Levin [-@levin1993], followed by a similar attempt for German by Sauerland [-@sauerland1994]. A recent cross-linguistic survey of valency and diathesis in this tradition is edited by Malchukov & Comrie [-@malchukov2015a], which also includes data on German [@haspelmath2013a]. Independent of Levin's work, there is a long tradition in the German grammatical literature to investigate diathesis, e.g. as '*Konversenverhältnis der Aktanten*' [@eroms1980: 24; cf. @heringer1968]. Basic summaries of german diathesis in the context of valency can be found in Eroms [-@eroms2000: Ch. 10] or Ágel [-@agel2000: Ch. 6]. There even exist a few monographs about specific German diatheses [e.g. @leirbukt1997; @holl2010; @jager2013] and recently some corpus studies into the effect of specific diatheses on individual verbs have appeared [@devaere2018; @imo2018].
+The current attempt to present a all-encompassing survey of German diathesis builds on a rich scholarly tradition (with many scholarly precursors to be cited in appropriate places throughout this work). A comparable and highly influential survey of diathesis for English is Levin [-@levin1993], followed by a similar attempt for German by Sauerland [-@sauerland1994]. A recent cross-linguistic survey of valency and diathesis in this tradition is edited by Malchukov & Comrie [-@malchukov2015a], which also includes data on German [@haspelmath2013a]. Independent of Levin's work, there is a long tradition in the German grammatical literature to investigate diathesis, e.g. as '*Konversenverhältnis der Aktanten*' [@eroms1980: 24; cf. @heringer1968]. Basic summaries of german diathesis in the context of valency can be found in Eroms [-@eroms2000: Ch. 10] or Ágel [-@agel2000: Ch. 6]. There even exist a few monographs about specific German diatheses [e.g. @leirbukt1997; @holl2010; @jager2013] and recently some corpus studies into the effect of specific diatheses on individual verbs have appeared [@devaere2018; @imo2018; @dux2020: Ch. 6].
 
 Diathesis is of course closely linked to the concept of valency, so the groundbreaking valency dictionary for German by Helbig and Schenkel [-@helbig1991] deserves mentioning. They identify the problem that certain verbs can be used in different constructions, but diatheses are not investigated consistently in their dictionary. Another highly influential valency dictionary for German, edited by Schumacher [-@schumacher1986], discusses passive diatheses for all verb. I see the current survey of German diatheses as a first step in extending such valency dictionaries into even more all-encompassing dictionaries that discuss all possible clause constructions for each verb.
 
@@ -45,12 +45,12 @@ A diathesis is defined here as special kind of alternation between two different
 An ~~alternation~~ (or simply 'grammatical marking') is defined as follows:
 
 - An alternation consist of two different linguistic constructions, i.e. there are two alternants.
-- The lexical root does not change in the alternation, i.e. there is some fundamental linguistic material in both alternants that remains the same.
-- The difference between these alternants is overtly indicated by the presence of some grammatical linguistic elements.
-- Typically, the overt marking introduces a direction into the alternation, i.e. one alternant consists of less/shorter/zero linguistic elements ('less marked') and one consists of more/longer/overt linguistic material ('more marked').
-- In some cases, the direction of the alternation remains undecidable, i.e. the alternation is equipollent.
+- The lexical root (or possibly larger linguistic entity) does not change in the alternation, i.e. there is some fundamental linguistic material in both alternants that remains the same.
+- Typically, the difference between these alternants is overtly indicated by the presence of some grammatical linguistic elements.
+- Typically, the overt marking introduces a direction into the alternation, i.e. one alternant consists of less/shorter/zero linguistic elements ('less marked') and one consists of more/longer/overt linguistic material ('more marked'). In some cases, the direction of the alternation remains undecidable, i.e. the alternation is equipollent.
+- The set of roots (or possibly larger linguistic entities) to which the alternation applies form an empirical linguistic class. Such an empirical class often has a semantic/functional interpretation, but not necessarily so.
 
-Alternations are the basis of all grammatical analysis. They include for example:
+Alternations are the basis of all grammatical analysis.^[There is an interesting, almost philosophical, issue here that I will not delve into, namely whether the basis of grammar are the constructions themselves (cf. construction grammar) or alternations between constructions. The above statement should indeed be taken as a proposal that alternations are the more crucial entitites (cf. the notion of minimal pairs in phonology). Alternation are also useful in the practice of grammatical description. For example, the meaning/function of a construction is often hard to describe in full, while the meaning/function of an alternation only needs to describe the difference between the alternant. Only the crucial aspect that is added by the alternation needs to be captured – which is difficult enough though.] They include for example:
 
 i. morphological oppositions, like singular *Haus* 'house' vs. plural *Häuser* 'houses'.
 ii. oppositions of grammatical forms, like synthetic present *er schläft* 'he sleeps' vs. analytic perfect *er hat geschlafen* 'he has slept' 
@@ -99,7 +99,7 @@ c. Der Fahrradfahrer fürchtet den Anstieg. \
    Der Fahrradfahrer fürchtet sich vor den Anstieg.
 :::
 
-Hidden in this succinct definition of diathesis there are various intricate grammatical concepts that need some more discussion in subsequent sections.
+Hidden in these succinct definitions there are various intricate grammatical concepts that need some more discussion in subsequent sections. The most general notions are discussed directy below, while the specific discussion of the analysis and classification of different kinds of diathesis is postponed for the next chapter.
 
 ## Definitional details
 
@@ -219,13 +219,13 @@ Such lexeme-specific roles are called 'verb-specific semantic roles' in Van Vali
 
 My proposal for a language-specific determination of semantic mesoroles is to use the applicability of diatheses as a criterion. For example, a 'German Patiens' might be defined as those lexical roles that are changed from accusative to nominative in the *werden* passive diathesis. Or more general: a semantic role can be defined by a combination of applicable diatheses. The research project to determine suitable combinations of diatheses will not be pursued here, but left for a follow-up investigation.
 
-### Domain of application {#sec:intro-domain-of-application}
+### Domain of application and verb classes {#sec:intro-domain-of-application}
 
-A widespread assumption in linguistic analysis is that most alternations (including diatheses) have a sensible domain of application. This is the idea that there is some rationale, often a kind of semantic characterisation, explaining which roots allow for a specific kind of linguistic marking (e.g. only transitive verbs allow for a *werden* passive). Although I also believe that many alternations, including diatheses, mostly behave sensibly, I would also warn not to expect too much regular (semantic) generalisations hidden in grammatical structure. Many grammatical regularities have unexpected exceptions, be it because of haphazard diachronic changes or through partial analogical extension. Even stronger, some grammatical marking appears to be almost completely without (semantic) rationale, like the assignment of plural allomorphy in German.
+A widespread assumption in linguistic analysis is that most alternations (including diatheses) have a sensible domain of application. This is the idea that there is some rationale, often a kind of semantic characterisation, explaining which roots allow for a specific kind of linguistic marking (e.g. only transitive verbs allow for a *werden* passive).^[For example, compare the infamous sentence on the first page of Levin [-@levin1993: 1] "the behavior of a verb, particularly with respect to the expression and interpretation of its arguments, is to a large extent determined by its meaning." However, Levin's work in practice uses form to establish classes, not meaning. This approach is followed here.] Although I also believe that many alternations, including diatheses, mostly behave sensibly, I would also warn not to expect too much regular (semantic) generalisations hidden in grammatical structure. Many grammatical regularities have unexpected exceptions, be it because of haphazard diachronic changes or through partial analogical extension. Even stronger, some grammatical marking appears to be almost completely without (semantic) rationale, like the assignment of plural allomorphy in German. If that can happen in morphology, it can also happen in syntax.
 
-As a practical approach to the domain of application of a specific alternation (say, which verbs allow for the *werden* passive or the reflexive anticausative), I propose to always first enumerate as much examples as possible. In this book, I will not be satisfied with four or five cases that suggest a neat semantic coherence for a specific diathesis, but list as many as possible further examples, idiosyncratic as they may be. Only after such a formal listing of the domain of application (which ideally needs much more corpus research as I have been able to perform here) is it possible to investigate the presence of any (semantic) rationale. In many cases there might be a partial rationale, but it is just as likely (and just as interestingly) to have to conclude that there apparently is none.
+As a practical approach to the domain of application of a specific alternation (say, which verbs allow for the *werden* passive, or for the reflexive anticausative, etc.), I propose to always first enumerate as much examples as possible. In other words, first inductively establish an empirical verb class of those verbs that happen to be attested. In this book, I will not be satisfied with four or five cases that suggest a neat semantic coherence for a specific diathesis, but list as many as possible further examples, idiosyncratic as they may be. Only after such a formal listing of the domain of application (which ideally needs much more corpus research as I have been able to perform here) is it possible to investigate the presence of any (semantic) rationale. In many cases there might be a partial rationale, but it is just as likely (and just as interestingly) to have to conclude that there apparently is none.
 
-Taking this principle one step further, I propose to *define* the domain of application as the concrete listing of all examples. Any (semantic) characterisation is then always a post-hoc generalisation, not a definition. This radically lexicalist interpretation is the approach that I will follow in this book. For each diathesis I will list as many as possible example verbs that take part in the diatheses (for some I will reverse the approach and list verbs that are not part of the domain of application). These lexical lists, ideally updated and completed in the future, are the definition of the domain of application. For some diatheses, I will speculate about semantic generalisations, but I consider these generalisations always to be secondary to the concrete listing of examples.
+Taking this principle one step further, I propose to *define* the domain of application as the concrete listing of all examples. Any (semantic) characterisation is then always a post-hoc generalisation, not a definition. This radically lexicalist interpretation is the approach that I will follow in this book. For each diathesis I will list as many as possible example verbs that take part in the diatheses (for some I will reverse the approach and list verbs that are not part of the domain of application). These lexical lists (i.e. the empirical verb classes) are the definition of the domain of application. For some diatheses, I will speculate about semantic generalisations, but I consider these generalisations always to be secondary to the concrete listing of examples.
 
 This principle of the definition by listing even holds for questions of productivity. For example, when somebody would propose a nonce-verb like *flurchten* to be a new verb for the German language in an experimental setting, then its meaning is partially defined by stating what kind of diatheses it can take part in. Depending on how such a new verb is contextualised, the following construction might or might not be judged grammatical. The choices that will be made influence the meaning of the verb.
 
@@ -264,7 +264,7 @@ b. Ich habe mir das Haus angesehen.
 
 ## Method
 
-Methodologically, I see the approach in this book as an attempt to unify grammatical research with lexicographic research, two aspects of linguistics that are often considered to be separate inquiries. In contrast to such a separation, I would like to propose a view of linguistics that might be called ~~grammar of the lexicon~~. In this approach, each grammatical phenomenon should always be linked to individual occurrences, either types (lexicon) or tokens (corpus). It is my experience from compiling the current compendium of diatheses that identifying and characterising a specific structure really is just step one of grammatical research. Only by trying to find more examples, with different lexemes and in different contexts, it becomes clear how prominent and varying a grammatical structure really is.
+Methodologically, I see the approach in this book as an attempt to unify grammatical research with lexicographic research, two aspects of linguistics that are often considered to be separate inquiries. In contrast to such a separation, I would like to propose a view of linguistics that might be called ~~grammar of the lexicon~~ [cf. @levin1993: 2-4, but one might just include all of construction grammar]. In this approach, each grammatical phenomenon should always be linked to individual occurrences, either types (lexicon) or tokens (corpus). It is my experience from compiling the current compendium of diatheses that identifying and characterising a specific structure really is just step one of grammatical research. Only by trying to find more examples, with different lexemes and in different contexts, it becomes clear how prominent and varying a grammatical structure really is.
 
 As as rule-of-thumb, I propose the ~~10-examples-in-15-minutes-rule~~ as step two of grammatical research. If you think that a particular construction is widespread, or maybe typical for a specific class of words (e.g. typical for 'intransitives'), then take 15 minutes to search for examples, either in your own intuitions or in one of the many online databases or corpora. Resources like the *Digitales Wörterbuch der deutschen Sprache* ([DWDS](https://www.dwds.de)), the various online offerings of the *Institut für Deutsche Sprache* ([IDS](https://www1.ids-mannheim.de/onlineangebote)), or just a Google 'exact search' are really just a click away and completely rejuvenate linguistic research. If you are not able to list 10 examples in 15 minutes, then go back to the drawing board and reconsider your intuitions.
 
@@ -1365,7 +1365,7 @@ b. Ich beraube dich des Buches.
 
 Among all the diatheses that are distinguished in this survey there are many that only occur in very specific situations or might otherwise be considered to be exceptions or incidental instances. However, there are also very many diatheses that are highly frequent and can be used with very many different verbs. Those major diatheses, that are of central importance to the grammatical structure of German, will be summarised in this chapter. Such a summary would normally be presented at the end of a book, but because of the often long-winding data-driven details of the subsequent descriptive chapters I decided to present this summary here at the end of the introductory deliberations. Take it as a quick appetiser of things to come, with ample links to the actual discussion in later chapters.
 
-To reiterate the basic premise of this book: in the subsequent chapters [-@sec:case] to [-@sec:zuminfinitive] I aim to present a complete list of all coherent, and thus monoclausal, sentence structures in German (cf. [@sec:intro-coherence]). All in all there are 250+ separate sub-subsections that describe (often minor) variations of monoclausal sentence structures. This diversity is condensed into 80+ major sentence structures as summarised in this chapter. Of those, about 60 are diatheses (i.e. alternations with role-remapping), while about 20 are sentence structures without any change in role marking. All these counts should be taken with some leeway, because a lot depends on individual decisions about splitting or lumping structures into groups (e.g. how many *lassen + infinitive* constructions are counted separately).
+To reiterate the basic premise of this book: in the subsequent chapters [-@sec:case] to [-@sec:zuminfinitive] I aim to present a complete list of all coherent, and thus monoclausal, sentence structures in German (cf. [@sec:intro-coherence] on defining monoclausality). All in all there are 250+ separate sub-subsections that describe (often minor) variations of monoclausal sentence structures. This diversity is condensed into 80+ major sentence structures as summarised in this chapter. Of those, about 60 are diatheses (i.e. alternations with role-remapping), while about 20 are sentence structures without any change in role marking. All these counts should be taken with some leeway, because a lot depends on individual decisions about splitting or lumping structures into groups (e.g. how many *lassen + infinitive* constructions are counted separately).
 
 Besides a basic summary I also propose German names for all 80+ major monoclausal sentence structures. Using suitable names is a central aspect of (scientific) communication. In grammar, names are like instruments that allow us to abstract away from individual details and manipulate classes of utterances that show a specific abstract structure. However, naming is hard and can also lead to miscommunication. When re-using available terminology, the terms are easily recognised and remembered, but they carry the weight of history. Even when detailed definitions are given (as I have tried to do throughout this book), unintended aspects of previous usage inevitably seep through. In contrast, inventing new names introduces more precision, but the downside are often cumbersome terms that are difficult to remember. 
 
@@ -1395,7 +1395,7 @@ b. Hier lebt es sich gut.
 
 ### Unpersönlicher Passiv (*werden + Partizip*)
 
-The ~~Unpersönlicher Passiv~~ is a construction consisting of the light verb *werden* with a participle of an intransitive verb (see [@sec:participles-werden-impersonal-passive]). Only ~~agentive~~ ('unergative') intransitive verbs like *tanzen* 'to dance' [@next] or *schlafen* 'to sleep' allow for this construction without any nominative subject (not even a valency-simulating *es* is needed). This construction is arguably closely related to the ~~Vorgangspassiv~~ for transitive verbs (see [@sec:participles-werden-passive]).
+The ~~Unpersönlicher Passiv~~ is a construction consisting of the light verb *werden* with a participle of an intransitive verb (see [@sec:participles-werden-impersonal-passive]). Only ~~agentive~~ ('unergative') intransitive verbs like *tanzen* 'to dance' [@next] or *schlafen* 'to sleep' allow for this construction without any nominative subject (not even a valency-simulating *es* is needed). The name 'passive' is rather unfitting for this diathesis, but it is retained here because of widespread usage. This construction is arguably closely related to the ~~Vorgangspassiv~~ for transitive verbs (see [@sec:participles-werden-passive]).
 
 ::: ex
 a. Die Jungs tanzen.
@@ -1404,7 +1404,7 @@ b. Jetzt wird getanzt!
 
 ### Unpersönlicher Möglichkeitspassiv (*lassen + Infinitiv*) 
 
-The ~~Unpersönlicher Möglichkeitspassiv~~ consists of the light verb *lassen* with the infinitive of an intransitive verb (see [@sec:infinitive-lassen-reflexive-intransitive]). This construction obligatory includes a reflexive pronoun and an evaluating adverbial expression like *gut* 'fine'. A valency-simulating pronoun *es* appears to be optional. Similar to the previous diathesis, this diathesis also seems to be restricted to agentive intransitive verbs like *arbeiten* 'to work' [@next]. This construction is arguably closely related to the ~~Möglichkeitspassiv~~ for transitive verbs (see [@sec:infinitive-lassen-reflexive-anticausative]).
+The ~~Unpersönlicher Möglichkeitspassiv~~ consists of the light verb *lassen* with the infinitive of an intransitive verb (see [@sec:infinitive-lassen-reflexive-intransitive]). This construction obligatory includes a reflexive pronoun and an evaluating adverbial expression like *gut* 'fine'. A valency-simulating pronoun *es* appears to be optional. Similar to the previous diathesis, this diathesis also seems to be restricted to agentive intransitive verbs like *arbeiten* 'to work' [@next]. Likewise, the name 'passive' is ill-fitting here, but it is used because of the parallelism to the previous diathesis. This construction is arguably closely related to the ~~Möglichkeitspassiv~~ for transitive verbs (see [@sec:infinitive-lassen-reflexive-anticausative]).
 
 ::: ex
 a. Ich arbeite zuhause.
@@ -1413,43 +1413,48 @@ b. Zuhause lässt (es) sich gut arbeiten.
 
 ### Unpersönlicher Modalpassiv (*sein + zu + Infinitiv*)
 
-The ~~Unpersönlicher Modalpassiv~~ (see [@sec:zuinfinitive-sein-impersonal])
+The ~~Unpersönlicher Modalpassiv~~ (see [@sec:zuinfinitive-sein-impersonal] and subsequent sections) consists fo a light verb *sein* with *zu* and an infinitive. It is found with incidental intransitive verbs, but more typically with some verbs with a dative argument like *helfen* 'to help' or *trauen* 'to trust' [@next]. In this diathesis the nominative subject is dropped and cannot be retained in any other form. There is no valency-simulating *es* present. The name 'passive' is actually besides the point for this diathesis, but it is used because this construction is closely related to the ~~Modalpassive~~ (see [@sec:zuinfinitiv-sein-passive]).
 
 ::: ex
 a. Ich traue ihm nicht.
 b. Ihm ist nicht zu trauen.
 :::
 
-### (*stehen + zu + Infinitiv*)
-
-(see [@sec:zuinfinitive-stehen-impersonal])
-
-::: ex
-a. Ich befürchte einen weiteren Beschäftigungsabbau.
-b. Ein weiterer Beschäftigungsabbau steht zu befürchten.
-:::
-
 ## Demoted Subject diatheses ~~[SBJ › ADJ]~~
 
-### (*geben/gelten + zu + Infinitiv*)
+### Auftragsherabstufung (*geben/gelten + zu + Infinitiv*)
 
-(see [@sec:zuinfinitive-geben-demotion ff.])
+The ~~Auftragsherabstufung~~ (see [@sec:zuinfinitive-geben-demotion] and subsequent sections) uses a subjectless light verbs *gelten* [@next a] or *geben* [@next b] with *zu* and an infinitive. The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the light verbs are always in the third person singular, resulting in fixed expressions *es gibt* or *es gilt*. Any other argument is simply retained, like the accusative *den Koffer* 'the suitcase' in the examples below. The removed subject can optionally be retained with a *für* prepositional phrase. These constructions semantically invoke some kind of assignment. Additionally, the *geben* diatheses typically is used with some kind of quantification [@next b].
 
 ::: ex
-a. Wir verlieren den Koffer nicht.
-b. jetzt gilt es (für uns) den Koffer nicht zu verlieren.
+a. Wir verlieren den Koffer nicht. \
+   jetzt gilt es (für uns) den Koffer nicht zu verlieren.
+b. Wir packen den Koffer ein. \
+   Es gibt (für uns) noch viele Koffer einzupacken.
 :::
 
 ## Conciliative diatheses ~~[ADJ › SBJ › Ø]~~
 
 ### Instrumentsubjektivierung
 
-The diathesis ~~Instrumentsubjektivierung~~ (see [@sec:prepositions-intransitive-preposition-anticausative] and subsequent sections)
+The ~~Instrumentsubjektivierung~~ (see [@sec:prepositions-intransitive-preposition-anticausative] and subsequent sections) promotes an instrument to nominative subject. This diathesis looks very similary to the *Kreationssubjektivierung* in the next section, but there are crucial semantic and structural differences (discussed below). 
+
+::: ex
+a. Ich öffne die Tür mit dem Schlüssel.
+b. Der Schlüssel öffnet die Tür.
+:::
 
 ## Fabricative diatheses ~~[PBJ › SBJ › Ø]~~
 
 ### Kreationssubjektivierung
-The diathesis ~~Kreationssubjektivierung~~ (see [@sec:prepositions-fabricative-accusative] and subsequent sections)
+
+The ~~Kreationssubjektivierung~~ (see [@sec:prepositions-fabricative-accusative]) on first notice looks very similar to the previous *Instrumentsubjektivierung*. In both diatheses a *mit* prepositional phrase is promoted to nominative subject. However, with verb like *überraschen* 'to surprise' [@next] the prepositional phrase does not represent an instrument, but a creation of the subject *Lehrer* 'teacher'. This semantic difference is paralleled by a structural difference, namely that the *mit* prepositional phrase is a governed preposition [@next c]. The verbs that allow for a *Kreationssubjektivierung* show a substantial overlap with the verbs that allow for the ~~Reflexiv Erlebnispassiv~~ (see [@sec:reflexive-preposition-passive]), though they are not identical.
+
+::: ex
+a. Der Lehrer überraschst mich mit der Aufgabe.
+b. Die Aufgabe überrascht mich.
+c. Der Lehrer überrascht mich damit, dass er die Aufgabe schon korrigiert hat.
+:::
 
 ## Anticausative diatheses ~~[OBJ › SBJ › Ø]~~
 
@@ -1508,7 +1513,7 @@ b. Die Tür bleibt geschlossen \*(von den Pförtner).
 
 ### Apparitivantikausativ (*aussehen/(er)scheinen/wirken + Partizip*)
 
-The ~~Apparitivantikausativ~~ (see [@sec:participles-aussehen-anticausative] and subsequent sections) is constructed with one of the light verbs *aussehen*, *scheinen*, *erscheinen* and *wirken* with a participle. The retention of the original agent as a prepositional phrase seems to be impossible, so this diathesis is probably classified as an anticausative here. 
+The ~~Apparitivantikausativ~~ (see [@sec:participles-aussehen-anticausative] and subsequent sections) is constructed with one of the light verbs *aussehen*, *scheinen*, *erscheinen* and *wirken* with a participle. The retention of the original agent as a prepositional phrase seems to be impossible, so this diathesis is classified as an anticausative here. 
 
 ::: ex
 a. Der Pförtner schließt die Tür.
@@ -1517,11 +1522,22 @@ b. Die Tür sieht geschlossen aus \*(von den Pförtner).
 
 ### Präsentativantikausativ (*geben/zeigen + Partizip*)
 
-*geben/zeigen* ~~Präsentativantikausativ~~ (see [@sec:participles-geben-reflexive-anticausative])
+The ~~Präsentativantikausativ~~ (see [@sec:participles-geben-reflexive-anticausative]) uses the light verb *geben* with a participle and an obligatory reflexive pronoun to express a conscious performance of verb by the erstwhile accusative. The original nominative cannot be retained. The light verb *zeigen* can be used alternatively to *geben*. Any difference between these two needs more investigation.
 
 ::: ex
 a. Die Stille entspannt ihn.
 b. Er gibt sich entspannt \*(durch die Stille).
+:::
+
+### Kognitionsantikausativ (*stehen + zu + Infinitiv*)
+
+The ~~Kognitionsantikausativ~~ (see [@sec:zuinfinitive-stehen-anticausative]) uses a light verb *stehen* with *zu* and infinitive. The original accusative object is promoted to subject and the erstwhile nominative subject cannot be retained, so this clearly is an anticausative diathesis. However, examples with an explicitly accusative noun phrase as in [@next a] are actually rare. Typically, this diatheses is found with kognitive predicates, like *befürchten* 'to fear', with a *dass* complement clause [@next b]. Functionally, this complement clause has the same status as an accusative object. Note that complement clauses typically come towards the end of the sentence in German, and then the first position of the sentence often has to be filled with a position-simulating pronun *es*.
+
+::: ex
+a. Ich befürchte einen weiteren Beschäftigungsabbau. \
+   Ein weiterer Beschäftigungsabbau steht zu befürchten.
+b. Ich befürchte, dass er zu spät kommen wird.
+   Es steht zu befürchten, dass er zu spät kommen wird.
 :::
 
 ## Passive diatheses ~~[OBJ › SBJ › ADJ]~~ 
@@ -1537,7 +1553,7 @@ b. Der Schrank wird verkauft (von mir).
 
 ### Möglichkeitspassiv (*lassen + Infinitiv*)
 
-(see [@sec:infinitive-lassen-reflexive-anticausative])
+The ~~Möglichkeitspassiv~~ (see [@sec:infinitive-lassen-reflexive-anticausative]) consists of the light verb *lassen* with infinitive and obligatory reflexive pronoun.
 
 ::: ex
 a. Der Pförtner schließt die Tür.

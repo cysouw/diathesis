@@ -32,7 +32,7 @@ filters:
 metadata-files:
 - meta/metadata.yaml
 - meta/settings.yaml
-- meta/latex.yaml
+- meta/custom-latex.yaml
 
 # pandoc-native functionalities
 number-sections: true
