@@ -320,7 +320,7 @@ function parseDiv (div)
     kind[1] = "single"
     judgements[1] = nil
     examples[1] = div
-  elseif data.tag == "OrderedList" then
+  elseif data.tag == "OrderedList" or data.tag == "BulletList" then
     for i=1,#data.content do
       judgements[i], examples[i], kind[i] = parseExample(data.content[i][1])
     end
@@ -605,7 +605,7 @@ function pandocMakeSingle (parsedDiv)
   end
   -- set class of judgment
     if judgeCol > 1 then
-    example.bodies[1].body[2][2][judgeCol].attr = 
+    example.bodies[1].body[nRows][2][judgeCol].attr = 
       pandoc.Attr(nil, {"linguistic-example-judgement"})
     end
 
@@ -622,6 +622,7 @@ function pandocMakeInterlinear (parsedDiv, label, forceJudge)
   local interlinear = parsedDiv.examples[selection]
   
   local header = {{ interlinear.header }}
+  local headerPresent = interlinear.header.content[1] ~= nil
   local source = interlinear.source 
   for i=1,#source do source[i] = { source[i] } end
   local gloss =  interlinear.gloss 
@@ -631,10 +632,10 @@ function pandocMakeInterlinear (parsedDiv, label, forceJudge)
   local rowContent = { trans }
     table.insert(rowContent, 1, gloss )
     table.insert(rowContent, 1, source )
-  if header.content ~= nil then
+  if headerPresent then
     table.insert(rowContent, 1, header )
   end
-  -- set dimenstions
+  -- set dimensions
   local nCols = #source
   local nRows = #rowContent
   local judgeCol = 0
@@ -645,7 +646,7 @@ function pandocMakeInterlinear (parsedDiv, label, forceJudge)
       nCols =  nCols + 1
       judgeCol = judgeCol + 2
       if judgement == nil then judgement = "" end
-      if header.content ~= nil then
+      if headerPresent then
         rowContent[2][1][1] = pandoc.Plain(judgement)
       else
         rowContent[1][1][1] = pandoc.Plain(judgement)
@@ -692,7 +693,7 @@ function pandocMakeInterlinear (parsedDiv, label, forceJudge)
       pandoc.Attr(nil, {"linguistic-example-label"})
   end
   -- set class of header and extend cell
-  if header.content ~= nil then
+  if headerPresent then
     hs = 1
     example.bodies[1].body[1+ps][2][2+ls+js].attr = 
       pandoc.Attr(nil, {"linguistic-example-header", "linguistic-example-content"})
@@ -715,7 +716,7 @@ function pandocMakeInterlinear (parsedDiv, label, forceJudge)
       pandoc.Attr(nil, {"linguistic-example-source", "linguistic-example-content"})
     example.bodies[1].body[ssRow+1][2][i].attr = 
       pandoc.Attr(nil, {"linguistic-example-gloss", "linguistic-example-content"})
-    end
+  end
 
   return example
 end
@@ -836,7 +837,7 @@ function pandocMakeMixedList (parsedDiv)
   end
 
   -- rough approximations to align multiple tables
-  local spaceForNumber = string.rep(" ", 2*(string.len(parsedDiv.number)+2))
+  local spaceForNumber = string.rep(" ", 2*(string.len(parsedDiv.number)+1))
   local spaceForJudge = tostring(15 + 5*judgeSize)
   
   for i=1,#result do
@@ -1198,7 +1199,7 @@ function texMakeGb4e (parsedDiv)
   end
 
   -- build Latex code starting with preamble and adding rest to it
-    texFront("\\begin{samepage}\n\\begin{exe} "..judgeOffset.." \\label{"..ID.."} \n  \\ex ", preamble)
+    texFront("\\begin{samepage}\n\\begin{exe} "..judgeOffset.."\n  \\ex ", preamble)
 
   for i=1,#kind do
     if kind[i] == "single" then
@@ -1257,7 +1258,7 @@ function texMakeGb4e (parsedDiv)
     end
   end
   if #kind > 1 then texEnd("\n  \\end{xlist}", preamble) end
-  texEnd("\n\\end{exe}\n\\end{samepage}", preamble)
+  texEnd("\n  \\label{"..ID.."}\n\\end{exe}\n\\end{samepage}", preamble)
   return pandoc.Plain(preamble)
 end
 

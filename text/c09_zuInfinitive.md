@@ -170,7 +170,7 @@ Also with various manner adverbs?
 
 - *löschen, reparieren*
 
-### [ NA | –N ] *stehen + zu + Infinitiv* anticausative (*Kognitionsantikausativ*) {#sec:zuinfinitive-stehen-anticausaive}
+### [ NA | –N ] *stehen + zu + Infinitiv* anticausative (*Kognitionsantikausativ*) {#sec:zuinfinitive-stehen-anticausative}
 
 ::: ex
 a. Ich befürchte einen weiteren Beschäftigungsabbau.
@@ -278,11 +278,15 @@ not attested
 ### [ NA | DN ] *bleiben + zu + Infinitiv* Inversive (*Restinversiv*) {#sec:zuinfinitive-bleiben}
 
 ::: ex
-a. Ich schreibe die Geschichte auf.
-b. Mir bleibt die Geschichte aufzuschreiben.
+a. Ich räume den letzten Schrank ein.
+b. Dieser letzte Schrank bleibt mir noch einzuräumen.
 :::
 
-(Colomo 2010: 196-197)
+[@colomo2010: 196-197]
+
+(i) Dieser eine Schrank bleibt jetzt noch einzuräumen.
+(ii) Jetzt bleibt uns nur noch, diesen einen Schrank einzuräumen. (nicht kohärent!!!!)
+(iii) Dieser eine Schrank bleibt uns jetzt noch einzuräumen.
 
 Agent retention as dative?
 

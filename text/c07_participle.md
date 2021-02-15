@@ -1519,7 +1519,7 @@ b. Er findet das Kunstwert gelungen. \
    (= Er ist überzeugt, dass das Kunstwerk gelungen ist.)
 :::
 
-In identifying these constructions, care has to be taken with the verbs *finden* and *sehen* (and apparently only these two). These verbs occur in superficially similar constructions, as exemplified in [@next], which actually have a completely different underlying structure. In these examples the verbs *finden* and *sehen* are used in their literal transitive meaning of finding/seeing an object. Additionally, the sentence is modified by a depictive secondary predicate in the form of a participle, as extensively discussed in [@sec:participles-secondary-predicates].^[The verb *finden* can also be combined wiht a regular adverb like in *das finde ich gut*, see [@sec:adverbials-nominative-accusative]. This does not appear to be possible with the other opiniative verbs *wissen*, *glauben* and *sehen*.]
+In identifying these constructions, care has again to be taken with the verbs *finden* and *sehen*. These verbs occur in superficially similar constructions, as exemplified in [@next], which actually have a completely different underlying structure. In these examples the verbs *finden* and *sehen* are used in their literal transitive meaning of finding/seeing an object. Additionally, the sentence is modified by a depictive secondary predicate in the form of a participle, as extensively discussed in [@sec:participles-secondary-predicates].^[The verb *finden* can also be combined wiht a regular adverb like in *das finde ich gut*, see [@sec:adverbials-nominative-accusative]. This does not appear to be possible with the other opiniative verbs *wissen*, *glauben* and *sehen*.]
 
 ::: ex
 a. Sie findet ihn am Schreibtisch eingeschlafen. \
@@ -1618,7 +1618,7 @@ b. Ich finde ihn gewachsen.
 
 ### --- [ Ø > SBJ > ADJ ] --- {.unnumbered}
 
-### [ –NA | NpA ] *wissen + Partizip* Transtive opiniative {#sec:participles-wissen-commutative}
+### [ –NA | NpA ] *wissen + Partizip* Transitive opiniative {#sec:participles-wissen-commutative}
 
 ::: ex
 a. Das Archiv hebt den Nachlass auf.
@@ -1651,7 +1651,7 @@ Stacked with self-inflicting reflexive alternation:
 - Sie wussten sich durch ihn gewahrt.
 - Sie wusste sich beschützt.
 
-### [ –NA | NpA ] *glauben + Partizip* Transtive opiniative
+### [ –NA | NpA ] *glauben + Partizip* Transitive opiniative
 
 ::: ex
 a. Der Wind zerreist das Seil.
@@ -1674,7 +1674,7 @@ Stacked with self-inflicting reflexive alternation:
 - Er glaubte sich verraten/zurückversetzt/verfolgt/benachteiligt.
 - Weil sie sich von ihrem Vater nicht geliebt glaubte, flüchtete Irmgard mit 17 Jahren trotzig zu den Diakonissinnen, um Krankenschwester zu werden.^[~~DWDS~~: Leinemann, Jürgen, Dr Spiegel 09.05.1988, S.140.]
 
-### [ –NA | NpA ] *sehen + Partizip* Transtive opiniative
+### [ –NA | NpA ] *sehen + Partizip* Transitive opiniative
 
 ::: ex
 a. Der Autor bricht das Vertrauen.
@@ -1696,7 +1696,7 @@ Stacked with self-inflicting reflexive alternation:
 - Ich sehe mich bestärkt durch viele Diskussionen und Privatmeinungen.
 - Auch der Verwaltungsrath der »Steyrermühl« hat sich bemüssigt gesehen, einen Rechtfertigungsversuch wegen der von ihm begangenen Stempelentwendung zu unternehmen.^[~~DWDS~~: Kraus, Karl, Die Fackel, 20.03.1900, S.9.]
 
-### [ –NA | NpA ] *finden + Partizip* Transtive opiniative
+### [ –NA | NpA ] *finden + Partizip* Transitive opiniative {#sec:participle-finden-transitive-opiniative}
 
 ::: ex
 a. Das Alter verändert mich.
