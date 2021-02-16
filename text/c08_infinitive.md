@@ -226,8 +226,8 @@ Verbs with both a dative and an accusative, like *schenken* 'to gift' show a par
 
 ::: ex
 a. Der Verkäufer schenkt mir den Rechner.
-b. Ich lasse mir den Rechner schenken (von dem Verkäufer).
-c. Ich bekommen den Rechner geschenkt (von dem Verkäufer).
+b. Ich lasse mir den Rechner schenken (vom Verkäufer).
+c. Ich bekommen den Rechner geschenkt (vom Verkäufer).
 :::
 
 This diathesis is also possible with other datives, like possessive datives [@next].
@@ -235,7 +235,7 @@ This diathesis is also possible with other datives, like possessive datives [@ne
 ::: ex
 a. Der Friseur schneidet meine Haare.
 b. Der Friseur schneidet mir die Haare.
-c. Ich lasse mir die Haare schneiden (von dem Friseur).
+c. Ich lasse mir die Haare schneiden (vom Friseur).
 :::
 
 In this construction the semantics are rather transparently related to the *lassen + Infinitive* causative/permissive diathesis ([@sec:infinitive-lassen-causative]). This can be clearly seen when a different dative recipient is used, like *sein Freund* 'his friend' [@next a]. First apply the *lassen + Infinitiv* causative [@next b] and subsequently replace the recipient with a self-inflicting reflexive pronoun *mir* [@next c]. The result is semantically the same as the fixed stack above in [@llast b]. However, structurally there is a crucial difference in the expression of the erstwhile agent *Verkäufer* 'seller', either being an accusative [@next c] or a prepositional phrase [@llast b].
@@ -440,7 +440,7 @@ a. Er hat einen Tropfen an der Nase hängen.
 b. ^* Er hat einen Tropfen hängen.
 c. Ein Tropfen hängt ihm an der Nase.
 d. Ein Tropfen hängt an seiner Nase.
-e. Er hat einen Tropfen an der Nase hängen gehabt.
+e. Er hat einen Tropfen an der Nase hängen *gehabt*.
 :::
 
 The new nominative subject seems to have multiple possibly origins. It mostly is the possessor of the location as in [@last] but there are also examples in which it is the possessor of the original subject, as in [@next]. In such examples the new subject of the *haben + Infinitiv* diathesis is not related to a dative. It is not completely clear to me how to best approach such examples. 
@@ -451,6 +451,8 @@ Ich habe das Auto auf dem Parkplatz stehen. \
 (≠ Das Auto steht auf meinen Parkplatz.) \
 (≠ Das Auto steht mir auf dem Parkplatz.)
 :::
+
+There is a curious parallel between this diathesis and the *haben + am + Infinitiv* diathesis, see [@sec:zuminfinitive-haben-am]. Both use the light verb *haben* with an infinitive, they show the same role-remapping, and semantically they are highly similar. The first difference is that the dative in this diathesis is the possessor of the locational object, while the dative in the *haben + am + Infinitiv* diathesis is the possessor of the nominative. The second difference is of course the extra *am* preposition. It is a tantalising thought that this *am* preposition is somehow related to the fact that there is no obligatory location present in that diathesis.
 
 ##### Attested Verbs {.unnumbered}
 

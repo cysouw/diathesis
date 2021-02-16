@@ -728,11 +728,11 @@ Ich lege den Hund in den Korb.
 
 ##### Attested Verbs {.unnumbered}
 
-*liegen/legen, schwimmen/schwemmen, sitzen/setzen, stehen/stellen*
+- *liegen/legen, schwimmen/schwemmen, sitzen/setzen, stehen/stellen*
 
 ##### Examples {.unnumbered}
 
-Das Pferd schwimmt im Fluss. Ich schwemme das Pferd im Fluss.
+- Das Pferd schwimmt im Fluss. Ich schwemme das Pferd im Fluss.
 
 ## Diatheses with object demotion {#sec:prepositions-demotion-of-object}
 

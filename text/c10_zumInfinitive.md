@@ -143,7 +143,7 @@ not attested
 
 ### --- [ OBJ > SBJ > OBJ ] --- {.unnumbered}
 
-### [ gN | DN | NA ] *haben + am + Infinitiv* Experientive (*Pertinenzinversiv*) {#sec:zuminfinitive-haben-am}
+### [ DN | NA ] *haben + am + Infinitiv* Dative inversive (*Pertinenzinversiv*) {#sec:zuminfinitive-haben-am}
 
 ::: ex
 a. Mir brennt die Wohnung.

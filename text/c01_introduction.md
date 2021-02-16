@@ -50,7 +50,7 @@ An ~~alternation~~ (or simply 'grammatical marking') is defined as follows:
 - Typically, the overt marking introduces a direction into the alternation, i.e. one alternant consists of less/shorter/zero linguistic elements ('less marked') and one consists of more/longer/overt linguistic material ('more marked'). In some cases, the direction of the alternation remains undecidable, i.e. the alternation is equipollent.
 - The set of roots (or possibly larger linguistic entities) to which the alternation applies form an empirical linguistic class. Such an empirical class often has a semantic/functional interpretation, but not necessarily so.
 
-Alternations are the basis of all grammatical analysis.^[There is an interesting, almost philosophical, issue here that I will not delve into, namely whether the basis of grammar are the constructions themselves (cf. construction grammar) or alternations between constructions. The above statement should indeed be taken as a proposal that alternations are the more crucial entitites (cf. the notion of minimal pairs in phonology). Alternation are also useful in the practice of grammatical description. For example, the meaning/function of a construction is often hard to describe in full, while the meaning/function of an alternation only needs to describe the difference between the alternant. Only the crucial aspect that is added by the alternation needs to be captured – which is difficult enough though.] They include for example:
+Alternations are the basis of all grammatical analysis.^[There is an interesting, almost philosophical, issue here that I will not delve into, namely whether the basis of grammatical analysis are the constructions themselves (cf. construction grammar) or the alternations between constructions. The statement in the main text should indeed be taken as a proposal that I think that alternations are the more crucial entitites (cf. the notion of minimal pairs in phonology). Alternation are also useful in the practice of grammatical description. For example, the meaning/function of a construction is often hard to describe in full, while for the meaning/function of an alternation one only needs to describe the difference in meaning between the alternants. Only the crucial aspect that is added by an alternation needs to be captured – a taks which is already difficult enough though.] They include for example:
 
 i. morphological oppositions, like singular *Haus* 'house' vs. plural *Häuser* 'houses'.
 ii. oppositions of grammatical forms, like synthetic present *er schläft* 'he sleeps' vs. analytic perfect *er hat geschlafen* 'he has slept' 
@@ -555,7 +555,7 @@ b. Die Tür schließt sich.
 
 Although there is a reflexive pronoun in [@last b], this pronoun is not included with a lower-cased 'a' in the remapping pattern ~~[NA | –N]~~, because this reflexive pronoun does not refer to a separate role. The verb *schließen* 'to close' implies at least two different roles, the 'closer' and the 'closed object', expressed as nominative and accusative in [@last a], respectively. In [@last b] only the role of 'closed object' is expressed as nominative. The reflexive pronoun does not refer to any other role.
 
-I interpret the reflexive pronoun in [@last] as a marker of the diathesis itself (see Chapter [-@sec:reflexive] for an extensive discussion), so there is an overt direction in the markedness from [@last a] to [@last b]. The vertical bar ' | ' in the middle of the remapping pattern ~~[NA | –N]~~ implies this direction in markedness, i.e. left side describes the unmarked alternant and the right the marked alternant. Reordering the remapping pattern would result in a completely reversed diathesis ~~[—N | NA]~~.
+I interpret the reflexive pronoun in [@last] as a marker of the diathesis itself (see Chapter [-@sec:reflexive] for an extensive discussion), so there is an overt direction in the markedness from [@last a] to [@last b]. The vertical bar ' | ' in the middle of the remapping pattern ~~[NA | –N]~~ implies this direction in markedness, i.e. left side describes the unmarked alternant and the right the marked alternant. Reordering the remapping pattern would result in a completely reversed diathesis ~~[–N | NA]~~.
 
 The diathesis in [@last] is one of various examples of a ~~local group~~ called 'reflexive antipassive'. Other diatheses in this group include examples like [@next] with an additional governed preposition, analysed with the remapping pattern ~~[NAP | –NP]~~, see [@sec:reflexive-anticausative-governed-preposition]. All diatheses in this local group have the same ~~macrorole pattern~~, namely ~~[OBJ › SBJ › Ø]~~, i.e a cased object is turned into nominative subject, which is turned into zero (i.e. unexpressed).
 
@@ -1447,7 +1447,7 @@ c. Der Lehrer überrascht mich damit, dass er die Aufgabe schon korrigiert hat.
 
 ## Anticausative diatheses ~~[OBJ › SBJ › Ø]~~
 
-### (Unmarkierter) Antikausativ {#sec:summary-unmarkierter-antikausativ}
+### (Unmarkierter) Antikausativ {#sec:summary-antikausativ}
 
 The unmarked ~~Antikausativ~~ (full discussion in [@sec:case-haben-anticausative] and subsequent sections) is attested with verbs like *öffnen* 'to open' or *kochen* 'to cook'. These verbs occur both as transitive [@next a] and intransitive [@next b] without any further grammatical marking. Crucially, the object of the transitive is the subject of the intransitive. Because this diathesis is unmarked, there is no formal indication of a direction. So, this diathesis could just as well be interpreted as a causative. However, there is a formal difference between verbs that in the intransitive allow for both a *haben* and *sein* perfect [@next c,d] and those that only allow for a *sein* perfect. There seems to be an interesting semantic correlate to this formal difference, and consequentially the first group is called ~~Antikausativ~~, while the second group is called ~~Kausativ~~ (see [@sec:summary-kausativ]).
 
@@ -1598,7 +1598,7 @@ b. Ich lasse mir den Rechner schenken (von dem Verkäufer).
 
 ### Pertinenzpassiv (*haben + Partizip*) {#sec:summary-pertinenzpassiv}
 
-The ~~Pertinenzpassiv~~ (full discussion in [@sec:participles-haben-passive]) is a special construction because it looks identical to the *haben* perfekt (see [@sec:summary-haben-perfekt]), often even being ambiguous with it. However, the *Pertinenzpassiv* is functionally much closer to the previous two *Rezipientenpassive*. The new nominative subject *der Minister* 'the minister' [@next b] is the recipient of the cutting [@next a]. The original agent of the cutting can only be retained with difficulty, so this diathesis looks closer to an anticausative. However, there is a well-known effect that this *Pertinenzpassiv* becomes much more common when stacked with a modal auxiliary like *wollen* 'to want' [@next c]. In such a stack, the original agent can clearly be retained.
+The ~~Pertinenzpassiv~~ (full discussion in [@sec:participles-haben-passive]) is a special construction because it looks identical to the *haben* perfekt (see [@sec:summary-haben-perfekt]), often even being ambiguous with it. However, the *Pertinenzpassiv* is functionally much closer to the previous two *Rezipientenpassive*. The new nominative subject *der Minister* 'the minister' [@next b] is the (dative) experiencer/benefactor of the cutting [@next a]. The original agent of the cutting *Friseur* 'barber' can only be retained with difficulty, so this diathesis looks closer to an anticausative. However, there is a well-known effect that this *Pertinenzpassiv* becomes much more common when stacked with a modal auxiliary like *wollen* 'to want' [@next c]. In such a stack, the original agent can clearly be retained.
 
 The designation *pertinenz* refers to the fact that the new subject is necessarily the possessor of the accusative object *Haare*, 'hair'. Such inherent possessors turn up in various diatheses, and all instances will be designated with the qualifier *pertinenz*. The most famous one is the ~~pertinenzdativ~~ (see [@sec:summary-pertinenzdativ]), but there are various others, like the ~~pertinenzinversiv~~ (see [@sec:summary-pertinenzinversiv]).
 
@@ -1612,49 +1612,51 @@ c. Der Minister will die Haare von dem Frisuer geschnitten haben.
 
 ### Erlebnispassiv (*sein + Partizip*) {#sec:summary-erlebnispassiv}
 
-The ~~Erlebnispassiv~~ (full discussion in [@sec:participles-sein-conversive])
+The ~~Erlebnispassiv~~ (full discussion in [@sec:participles-sein-conversive]) is constructed with the light verb *sein* and a participle. The form of this diathesis is identical to the *Zustandspassiv* (see [@sec:summary-zustandspassiv]), but there is a crucial difference in the remapping of the original nominative. Verbs that take a *Zustandspassiv*, like *öffnen* 'to open' only allow for the retention of the nominative with a *von* prepositional phrase, and only in special circumstances. In contrast, the verbs that take the *Erlebnispassiv* can regularly retain the agent with a governed preposition. For example, *verärgern* 'to displease' can express the original nominative with an *über* prepositional phrase [@next b], which is a governed preposition [@next c]. Verbs that take the *Erlebnispassiv* are typically verbs the express an experience.
 
 ::: ex
 a. Die Nachricht verärgert mich.
 b. Ich bin verärgert über die Nachricht.
 c. Ich bin verärgert darüber, dass die Nachricht verbreitet wurde.
+d. ^* Ich verärgere mich über die Nachricht.
 :::
 
 ### Reflexiv Erlebnispassiv {#sec:summary-reflexiv-erlebnispassiv}
 
-The ~~Reflexiv Erlebnispassiv~~ (full discussion in [@sec:reflexive-preposition-passive])
+The ~~Reflexiv Erlebnispassiv~~ (full discussion in [@sec:reflexive-preposition-passive]) is a diathesis in which a verb, like *empören* 'to appall' [@next a], can be used both with and without a reflexive pronoun. The effect of adding the reflexive pronoun is a remapping of the accusative to nominative and demoting the erstwhile nominative to a prepositional phrase [@next b]. The prepositional phrase is a governed preposition [@next c]. The verbs that allow this diathesis are typically verbs that express an experience. This diathesis is functionally rather similar to the previous *Erlebnispassiv* (see [@sec:summary-erlebnispassiv]) and there are even many verbs that allow for both diatheses, like *empören* [@next d]. However, not all verbs allow for both diatheses, like *verärgern* [@last d].
 
 ::: ex
 a. Der Preis empört den Kunden.
 b. Der Kunde empört sich über den Preis.
 c. Der Kunde empört sich darüber, dass der Preis schon wieder gestiegen ist.
+d. Der Kunde ist empört über den Preis.
 :::
 
 ## Demoted inversive diatheses ~~[OBJ › SBJ › OBJ]~~
 
 ### Restinversiv (*bleiben + zu + Infinitiv*) {#sec:summary-restinversiv}
 
-(full discussion in [@sec:zuinfinitive-bleiben])
+The ~~Restinversive~~ (full discussion in [@sec:zuinfinitive-bleiben]) uses the light verb *bleiben* with *zu* and an infinitive. This diathesis reverses the expression of the roles in that the accusative becomes a nominative, while the original nominative becomes an (optional) dative. Semantically, this diatheses expresses that the patient is still waiting to be applied to the verb.
 
 ::: ex
 a. Ich räume den letzten Schrank ein.
-b. Dieser letzte Schrank bleibt mir noch einzuräumen.
+b. Dieser letzte Schrank bleibt (mir) noch einzuräumen.
 :::
 
 ## Promoted inversive diatheses ~~[OBJ › SBJ › OBJ]~~
 
 ### Pertinenzinversiv (*haben + am + Infinitiv*) {#sec:summary-pertinenzinversiv}
 
-(full discussion in [@sec:zuminfinitive-haben-am])
+The ~~Pertinenzinversiv~~ (full discussion in [@sec:zuminfinitive-haben-am]), using the light verb *haben* with *am* and an infinitive, reverses the expression of the roles, though in the different direction from the previous *Restinversiv* (see [@sec:summary-restinversiv]). In this diathesis the dative is promoted to nominative, while the nominative is demoted to accusative [@next]. Further, the dative *dem Mieter* 'tenant' is necessarily the possessor (*pertinenz*) of the nominative *die Wohnung* 'appartment', i.e. a *pertinenzdativ* (see [@sec:summary-pertinenzdativ]). Both in form and meaning this diathesis is strongly connected to the ensuing ~~Ortspertinenzinversiv~~ (see [@sec:summary-ortspertinenzinversiv]), in which the dative is the possessor of the obligatory location. It seems possible that the preposition *am* in this diathesis is in some way related to the absence of any location here.
 
 ::: ex
-a. Mir brennt die Wohnung.
-b. Ich habe die Wohnung am Brennen.
+a. Dem Mieter brennt die Wohnung.
+b. Der Mieter hat die Wohnung am Brennen.
 :::
 
 ### Ortspertinenzinversiv (*haben + Infinitiv*) {#sec:summary-ortspertinenzinversiv}
 
-The ~~Pertinenzinversiv~~ (full discussion in [@sec:infinitive-haben])
+The ~~Ortspertinenzinversiv~~ (full discussion in [@sec:infinitive-haben]) is closely related to the previous *pertinenzinversiv* (see [@sec:summary-pertinenzinversiv]). Again, a dative is promoted to nominative, while the nominative is demoted to accusative. Also in both diatheses, the participant expressed by the dative is necessarily the possessor (*pertinenz*) of another participant. The difference is that with the current *ortspertinenzinversiv* this 'other' participant is an obligatory location, e.g. *an der Nase* 'on the nose' in [@next]. The dative in this diathesis is thus an *ortspertinenzdativ* (see [@sec:summary-ortspertinenzdativ]).
 
 ::: ex
 a. Ein Tropfen hängt ihm an der Nase.
@@ -1663,7 +1665,7 @@ b. Er hat einen Tropfen an der Nase hängen.
 
 ### Erlaubnisinversiv (*lassen + sich + Infinitiv*) {#sec:summary-erlaubnisinversiv}
 
-The ~~Erlaubnisinversiv~~ (full discussion in [@sec:infinitive-lassen-dative-reflexive-inversive])
+The ~~Erlaubnisinversiv~~ (full discussion in [@sec:infinitive-lassen-dative-reflexive-inversive]) is yet another diathesis using the construction *lassen* with obligatory reflexive and infinitive. This diathesis appears to be particularly close to the *Erlaubnisrezepientenpassiv* (see [@sec:summary-erlaubnisrezipientenpassiv]). In both diatheses a dative is promoted to nominative with an obligatory reflexive pronoun. Differently though, in this diathesis the original nominative es demoted to accusative (compared to an optional prepositional phrase in the *Erlaubnisrezepientenpassiv*). Both diatheses add a causative/permissive meaning to the clause, reminiscent of the *lassen + Infinitiv* causative (see [@sec:summary-initiativ]).
 
 ::: ex
 a. Der Kuchen schmeckt mir.
@@ -1674,32 +1676,56 @@ b. Ich lasse mir den Kuchen schmecken.
 
 ### (Unmarkierter) Kausativ {#sec:summary-kausativ}
 
-(full discussion in [@sec:case-sein-causative] and subsequent sections)
+The unmarked ~~Kausativ~~ (full discussion in [@sec:case-sein-causative] and subsequent sections) is found with verb like *schmelzen* 'to melt', *trocknen* 'to dry' or *zerbrechen* 'break' [@next a,b]. These verbs both occur as intransitive and as transitive with the intransitive subject being the object of the transitive. The new nominative subject of the transitive is a causer. Because this diathesis is unmarked, it is not immediately clear whether such a verbs is an examples of a *Kausativ* or an *Antikausativ* (see [@sec:summary-antikausativ]). As a formal characteristic for differentiation I propose to look at the auxiliaries of the perfect: anticausatives allow for both *haben* and *sein*, while causatives only allow for *sein* [@next c,d]. Various old ablaut-causatives like *fallen/fällen* and *biegen/beugen* also belong in this category.
+
+::: ex
+b. Der Krug zerbricht.
+b. Der Junge zerbricht den Krug.
+c. Der Krug ist zerbrochen.
+d. ^* Der Krug hat zerbrochen.
+:::
 
 ### Ortskausativ {#sec:summary-ortskausativ}
 
-Ortskausativ (full discussion in [@sec:prepositions-sein-caused-location] and subsequent sections)
+The ~~Ortskausativ~~ (full discussion in [@sec:prepositions-sein-caused-location] and subsequent sections) is similar to the previous *Kausativ* (see [@sec:summary-kausativ]), only that the verbs like *fahren* 'to drive' and *stürzen* 'to fall/topple' [@next a,b] obligatory need a location (especially in the transitive). There is a parallel *Ortsantikausativ* in which the intransitive allows for both a *sein* and a *haben* perfect (see [@sec:summary-ortsantikausativ]). Various old ablaut-causatives like *liegen/legen* 'to lie/to lay' and *sitzen/setzen* 'to sit/to put' also belong in this category.
+
+::: ex
+a. Der Elefant stürzt ins Wasser.
+b. Ich stürze den Elefanten ins Wasser.
+c. Der Elefant ist ins Wasser gestürzt.
+d. ^* Der Elefant hat ins Wasser gestürzt.
+:::
 
 ### Präverb Kausativ {#sec:summary-praverb-kausativ}
 
-Präverb Kausativ (full discussion in [@sec:preverb-causative] and subsequent sections)
+The ~~Präverb Kausativ~~ (full discussion in [@sec:preverb-causative] and subsequent sections) overtly marks the causative by a preverb [@next], i.e. either by a verb prefix (e.g. *enden/beenden* 'to end') or by a verb particle (e.g. *bruzeln/anbruzeln* 'to sizzle/fry'). Preverbs are also frequently used to add a causer to an adjective, forming a transitive verb (e.g *grün/begrünen* 'green/to plant', *dunkel/verdunkeln* 'dark/to darken').
+
+::: ex
+a. Der Wettkampf endet.
+b. Ich beende den Wettkampf.
+:::
 
 ### Aktivitätskausativ (*bringen/kriegen + zum + Infinitiv*) {#sec:summary-aktivitatskausativ}
 
-causative (full discussion in [@sec:zuminfinitive-bringen-causative])
+The ~~Aktivitätskausativ~~ (full discussion in [@sec:zuminfinitive-bringen-causative]) consists of the light verb *bringen* with *zum* and infinitive. This diathesis adds a nominative cause to an intransitive verb like *tanzen* 'to dance' [@next a]. Accusative objects of transitive verbs can only be expressed when incorporated, forming predicates like *Briefeschreiben* 'letter-writing' [@next b].
 
 ::: ex
-a. Ich tanze.
-b. Die Musik bringt mich zum Tanzen. 
+a. Ich tanze. \
+   Die Musik bringt mich zum Tanzen. 
+b. Ich schreibe einen Brief. \
+   Sie bringe mich zum Briefeschreiben.
 :::
 
 ### Auftragskausativ (*geben + zu + Infinitiv*) {#sec:summary-auftragskausativ}
 
-(full discussion in [@sec:zuinfinitive-geben-causative]). Different from all other novatives, the erstwhile subject becomes a dative (not an accusative).
+The ~~Auftragskausativ~~ (full discussion in [@sec:zuinfinitive-geben-causative]) adds a causer by using the light verb *geben* with *zu* and an infinitve. Different from all other novatives in German, in this diathesis the erstwhile subject becomes a dative (not an accusative). In many examples of this diathesis with transitive verbs like *trinken* 'to drink' [@next a] the meaning of this diathesis is very close to the meaning of the lexical verb *geben* 'to give'. However, these constructions are coherent, and thus monoclausal [@next b]. The light-verb status of *geben* is better exemplified with verbs that take clausal complements like *bedenken* 'to consider' [@next c].
 
 ::: ex
-a. Ich bedenke, dass es schon spät ist.
-b. Er gibt mir zu bedenken, dass es schon spät ist.
+a. Das Kind trinkt Milch. \
+   Er gibt dem Kind Milch zu trinken.
+b. Es ist bekannt, dass er dem Kind Milch zu trinken gibt.
+c. Ich bedenke, dass es schon spät ist. \
+   Er gibt mir zu bedenken, dass es schon spät ist.
 :::
 
 ### Initiativ (*lassen/machen/schicken/lehren/helfen + Infinitiv*) {#sec:summary-initiativ}
@@ -1737,7 +1763,7 @@ also governed prepositions!
 
 (see [@sec:case-possessor-of-nominative-to-dative-experiencer ff.])
 
-### Ortspertinenzdativ
+### Ortspertinenzdativ {#sec:summary-ortspertinenzdativ}
 
 (see [@sec:prepositions-possessor-of-location-to-dative-experiencer ff.])
 
