@@ -235,7 +235,7 @@ das auch?
 
 ## Diatheses with promotion to subject
 
-### --- [ Ø > SBJ > OBJ ] --- *Kognitionskausativ* {.unnumbered}
+### --- [ Ø > SBJ > OBJ ] --- *Auftragskausativ* {.unnumbered}
 
 ### [ –NA | NDA ] *geben + zu + Infinitiv* causative {#sec:zuinfinitive-geben-causative}
 

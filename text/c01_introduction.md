@@ -1413,7 +1413,7 @@ b. Ihm ist nicht zu trauen.
 
 ### Auftragsherabstufung (*geben/gelten + zu + Infinitiv*) {#sec:summary-austragsherabstufung}
 
-The ~~Auftragsherabstufung~~ (full discussion in [@sec:zuinfinitive-geben-demotion] and subsequent sections) uses a subjectless light verbs *gelten* [@next a] or *geben* [@next b] with *zu* and an infinitive. The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the light verbs are always in the third person singular, resulting in fixed expressions *es gibt* or *es gilt*. Any other argument is simply preserved, like the accusative *den Koffer* 'the suitcase' in the examples below. The removed subject can optionally be retained with a *für* prepositional phrase. These constructions semantically invoke some kind of assignment. Additionally, the *geben* diatheses (but not *gelten*) typically is used with some kind of quantification [@next b]. This diathesis is structurally similary to the *Auftragskausativ* (see [@sec:summary-auftragskausativ]).
+The ~~Auftragsherabstufung~~ (full discussion in [@sec:zuinfinitive-geben-demotion] and subsequent sections) uses a subjectless light verbs *gelten* [@next a] or *geben* [@next b] with *zu* and an infinitive. The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the light verbs are always in the third person singular, resulting in fixed expressions *es gibt* or *es gilt*. Any other argument is simply preserved, like the accusative *den Koffer* 'the suitcase' in the examples below. The removed subject can optionally be retained with a *für* prepositional phrase. These constructions semantically invoke some kind of assignment. Additionally, the *geben* diatheses (but not *gelten*) typically is used with some kind of quantification [@next b]. The *geben* diathesis is related to the *Auftragskausativ* (see [@sec:summary-auftragskausativ]).
 
 ::: ex
 a. Wir verlieren den Koffer nicht. \
@@ -1589,7 +1589,7 @@ b. Ich bekomme die Haare geschnitten (von dem Friseur).
 
 ### Erlaubnisrezipientenpassiv (*lassen + sich + Infinitiv*) {#sec:summary-erlaubnisrezipientenpassiv}
 
-The ~~Erlaubnisrezipientenpassiv~~ (full discussion in [@sec:infinitive-lassen-dative-reflexive-anticausative]) is constructed with the light verb *lassen* with an infinitive and an obligatory reflexive pronoun. Similar to the previous *Rezipientenpassiv*, when applied to a ditransitive clause with an accusative and a dative the original dative is turned into a new nominative subject (but now with a dative reflexive pronoun), like with *schenken* 'to gift' [@next]. Semantically, there is a permissive modality introduced. This is a rather different from diatheses with *lassen + sich + Infinitive* discussed earlier (see [@sec:summary-unpersonlicher-moglichkeitspassiv] and [-@sec:summary-moglichkeitspassiv]). However, there is a close link to the ~~Erlaubnisinversiv~~ with transitive verbs (see [@sec:summary-erlaubnisinversiv]). The permissive reading is also reminiscent of the *lassen + Infinitiv* ~~Initiativ~~ (see [@sec:summary-initiativ]).
+The ~~Erlaubnisrezipientenpassiv~~ (full discussion in [@sec:infinitive-lassen-dative-reflexive-anticausative]) is constructed with the light verb *lassen* with an infinitive and an obligatory reflexive pronoun. Similar to the previous *Rezipientenpassiv*, when applied to a ditransitive clause with an accusative and a dative the original dative is turned into a new nominative subject (but now with a dative reflexive pronoun), like with *schenken* 'to gift' [@next]. Semantically, there is a permissive modality introduced. This is a rather different from diatheses with *lassen + sich + Infinitive* discussed earlier (see [@sec:summary-unpersonlicher-moglichkeitspassiv] and [-@sec:summary-moglichkeitspassiv]). However, there is a close link to the ~~Erlaubnisinversiv~~ with transitive verbs (see [@sec:summary-erlaubnisinversiv]). The permissive reading is also reminiscent of the *lassen + Infinitiv* ~~Permissivkausativ~~ (see [@sec:summary-permissivkausativ]).
 
 ::: ex
 a. Der Verkäufer schenkt mir den Rechner.
@@ -1632,22 +1632,20 @@ c. Der Kunde empört sich darüber, dass der Preis schon wieder gestiegen ist.
 d. Der Kunde ist empört über den Preis.
 :::
 
-## Demoted inversive diatheses ~~[OBJ › SBJ › OBJ]~~
+## Inversive diatheses ~~[OBJ › SBJ › OBJ]~~
 
 ### Restinversiv (*bleiben + zu + Infinitiv*) {#sec:summary-restinversiv}
 
-The ~~Restinversive~~ (full discussion in [@sec:zuinfinitive-bleiben]) uses the light verb *bleiben* with *zu* and an infinitive. This diathesis reverses the expression of the roles in that the accusative becomes a nominative, while the original nominative becomes an (optional) dative. Semantically, this diatheses expresses that the patient is still waiting to be applied to the verb.
+The ~~Restinversive~~ (full discussion in [@sec:zuinfinitive-bleiben]) uses the light verb *bleiben* with *zu* and an infinitive. This diathesis reverses the expression of the roles in that the accusative is promoted to a nominative, while the original nominative is demoted to an (optional) dative. Because the demotion is 'larger' than the promotion this would be called a ~~demoted inversive~~. Semantically, this diatheses expresses that (some part of) the patient is still left over to be applied to the verb.
 
 ::: ex
 a. Ich räume den letzten Schrank ein.
 b. Dieser letzte Schrank bleibt (mir) noch einzuräumen.
 :::
 
-## Promoted inversive diatheses ~~[OBJ › SBJ › OBJ]~~
-
 ### Pertinenzinversiv (*haben + am + Infinitiv*) {#sec:summary-pertinenzinversiv}
 
-The ~~Pertinenzinversiv~~ (full discussion in [@sec:zuminfinitive-haben-am]), using the light verb *haben* with *am* and an infinitive, reverses the expression of the roles, though in the different direction from the previous *Restinversiv* (see [@sec:summary-restinversiv]). In this diathesis the dative is promoted to nominative, while the nominative is demoted to accusative [@next]. Further, the dative *dem Mieter* 'tenant' is necessarily the possessor (*pertinenz*) of the nominative *die Wohnung* 'appartment', i.e. a *pertinenzdativ* (see [@sec:summary-pertinenzdativ]). Both in form and meaning this diathesis is strongly connected to the ensuing ~~Ortspertinenzinversiv~~ (see [@sec:summary-ortspertinenzinversiv]), in which the dative is the possessor of the obligatory location. It seems possible that the preposition *am* in this diathesis is in some way related to the absence of any location here.
+The ~~Pertinenzinversiv~~ (full discussion in [@sec:zuminfinitive-haben-am]), using the light verb *haben* with *am* and an infinitive, reverses the expression of the roles, though in the different direction from the previous *Restinversiv* (see [@sec:summary-restinversiv]). In this diathesis the dative is promoted to nominative, while the nominative is demoted to accusative [@next]. Further, the dative *dem Mieter* 'tenant' is necessarily the possessor (*pertinenz*) of the nominative *die Wohnung* 'appartment', i.e. it is a *pertinenzdativ* (see [@sec:summary-pertinenzdativ]). Both in form and meaning this diathesis is strongly connected to the ensuing ~~Ortspertinenzinversiv~~ (see [@sec:summary-ortspertinenzinversiv]), in which the dative is the possessor of the obligatory location. It seems possible that the preposition *am* in this diathesis is in some way related to the absence of any location here.
 
 ::: ex
 a. Dem Mieter brennt die Wohnung.
@@ -1656,16 +1654,17 @@ b. Der Mieter hat die Wohnung am Brennen.
 
 ### Ortspertinenzinversiv (*haben + Infinitiv*) {#sec:summary-ortspertinenzinversiv}
 
-The ~~Ortspertinenzinversiv~~ (full discussion in [@sec:infinitive-haben]) is closely related to the previous *pertinenzinversiv* (see [@sec:summary-pertinenzinversiv]). Again, a dative is promoted to nominative, while the nominative is demoted to accusative. Also in both diatheses, the participant expressed by the dative is necessarily the possessor (*pertinenz*) of another participant. The difference is that with the current *ortspertinenzinversiv* this 'other' participant is an obligatory location, e.g. *an der Nase* 'on the nose' in [@next]. The dative in this diathesis is thus an *ortspertinenzdativ* (see [@sec:summary-ortspertinenzdativ]).
+The ~~Ortspertinenzinversiv~~ (full discussion in [@sec:infinitive-haben]) is closely related to the previous *pertinenzinversiv* (see [@sec:summary-pertinenzinversiv]). Again, a dative is promoted to nominative, while the nominative is demoted to accusative. Also in both diatheses, the participant expressed by the dative is necessarily the possessor (*pertinenz*) of another participant. The difference is that with the current *ortspertinenzinversiv* this 'other' participant is an obligatory location, e.g. *an der Nase* 'on the nose' in [@next]. The dative in this diathesis is thus an *ortspertinenzdativ* (see [@sec:summary-ortspertinenzdativ]). An interesting difference to the previous *Pertinenzinveriv* is that the infinitiv does not take the preposition *am* here [@next c].
 
 ::: ex
 a. Ein Tropfen hängt ihm an der Nase.
 b. Er hat einen Tropfen an der Nase hängen.
+c. ^* Er hat einen Tropfen an der Nase am Hängen.
 :::
 
 ### Erlaubnisinversiv (*lassen + sich + Infinitiv*) {#sec:summary-erlaubnisinversiv}
 
-The ~~Erlaubnisinversiv~~ (full discussion in [@sec:infinitive-lassen-dative-reflexive-inversive]) is yet another diathesis using the construction *lassen* with obligatory reflexive and infinitive. This diathesis appears to be particularly close to the *Erlaubnisrezepientenpassiv* (see [@sec:summary-erlaubnisrezipientenpassiv]). In both diatheses a dative is promoted to nominative with an obligatory reflexive pronoun. Differently though, in this diathesis the original nominative es demoted to accusative (compared to an optional prepositional phrase in the *Erlaubnisrezepientenpassiv*). Both diatheses add a causative/permissive meaning to the clause, reminiscent of the *lassen + Infinitiv* causative (see [@sec:summary-initiativ]).
+The ~~Erlaubnisinversiv~~ (full discussion in [@sec:infinitive-lassen-dative-reflexive-inversive]) is yet another diathesis using the construction *lassen* with obligatory reflexive and infinitive, this time used with verbs that take a dative, but no accusative like *schmecken* 'to taste' [@next]. The current diathesis appears to be particularly close to the *Erlaubnisrezepientenpassiv* (see [@sec:summary-erlaubnisrezipientenpassiv]). In both diatheses a dative is promoted to nominative with an obligatory reflexive pronoun. Differently though, in this diathesis the original nominative es demoted to accusative (compared to an optional prepositional phrase in the *Erlaubnisrezepientenpassiv*). Both diatheses add a causative/permissive meaning to the clause, reminiscent of the *lassen + Infinitiv* causative (see [@sec:summary-permissivkausativ]).
 
 ::: ex
 a. Der Kuchen schmeckt mir.
@@ -1676,7 +1675,7 @@ b. Ich lasse mir den Kuchen schmecken.
 
 ### (Unmarkierter) Kausativ {#sec:summary-kausativ}
 
-The unmarked ~~Kausativ~~ (full discussion in [@sec:case-sein-causative] and subsequent sections) is found with verb like *schmelzen* 'to melt', *trocknen* 'to dry' or *zerbrechen* 'break' [@next a,b]. These verbs both occur as intransitive and as transitive with the intransitive subject being the object of the transitive. The new nominative subject of the transitive is a causer. Because this diathesis is unmarked, it is not immediately clear whether such a verbs is an examples of a *Kausativ* or an *Antikausativ* (see [@sec:summary-antikausativ]). As a formal characteristic for differentiation I propose to look at the auxiliaries of the perfect: anticausatives allow for both *haben* and *sein*, while causatives only allow for *sein* [@next c,d]. Various old ablaut-causatives like *fallen/fällen* and *biegen/beugen* also belong in this category.
+The unmarked ~~Kausativ~~ (full discussion in [@sec:case-sein-causative] and subsequent sections) is found with verb like *schmelzen* 'to melt', *trocknen* 'to dry' or *zerbrechen* 'break' [@next a,b]. These verbs both occur as intransitive and as transitive with the intransitive subject being the object of the transitive. The new nominative subject of the transitive is a causer. Because this diathesis is unmarked, it is not immediately clear whether such a verbs is an examples of a *Kausativ* or an *Antikausativ* (see [@sec:summary-antikausativ]). As a formal characteristic for differentiation I propose to look at the auxiliaries of the intransitive perfect: anticausatives allow for both *haben* and *sein*, while causatives only allow for *sein* [@next c,d]. Various old ablaut-causatives like *fallen/fällen* and *biegen/beugen* also belong in this category.
 
 ::: ex
 b. Der Krug zerbricht.
@@ -1698,7 +1697,7 @@ d. ^* Der Elefant hat ins Wasser gestürzt.
 
 ### Präverb Kausativ {#sec:summary-praverb-kausativ}
 
-The ~~Präverb Kausativ~~ (full discussion in [@sec:preverb-causative] and subsequent sections) overtly marks the causative by a preverb [@next], i.e. either by a verb prefix (e.g. *enden/beenden* 'to end') or by a verb particle (e.g. *bruzeln/anbruzeln* 'to sizzle/fry'). Preverbs are also frequently used to add a causer to an adjective, forming a transitive verb (e.g *grün/begrünen* 'green/to plant', *dunkel/verdunkeln* 'dark/to darken').
+The ~~Präverb Kausativ~~ (full discussion in [@sec:preverb-causative] and subsequent sections) overtly marks the causative by a preverb [@next], i.e. either by a verb prefix (e.g. *enden/beenden* 'to end') or by a verb particle (e.g. *bruzeln/anbruzeln* 'to sizzle/to fry'). Preverbs are also frequently used to add a causer to an adjective forming a transitive verb (e.g *grün/begrünen* 'green/to plant', *dunkel/verdunkeln* 'dark/to darken').
 
 ::: ex
 a. Der Wettkampf endet.
@@ -1707,18 +1706,18 @@ b. Ich beende den Wettkampf.
 
 ### Aktivitätskausativ (*bringen/kriegen + zum + Infinitiv*) {#sec:summary-aktivitatskausativ}
 
-The ~~Aktivitätskausativ~~ (full discussion in [@sec:zuminfinitive-bringen-causative]) consists of the light verb *bringen* with *zum* and infinitive. This diathesis adds a nominative cause to an intransitive verb like *tanzen* 'to dance' [@next a]. Accusative objects of transitive verbs can only be expressed when incorporated, forming predicates like *Briefeschreiben* 'letter-writing' [@next b].
+The ~~Aktivitätskausativ~~ (full discussion in [@sec:zuminfinitive-bringen-causative]) consists of the light verb *bringen* with *zum* and infinitive. This diathesis adds a nominative causer to an intransitive verb like *tanzen* 'to dance' [@next a]. Accusative objects of transitive verbs can only be expressed when incorporated, forming predicates like *Briefeschreiben* 'letter-writing' [@next b]. Such verbs with incorporated object are arguably intransitives.
 
 ::: ex
 a. Ich tanze. \
    Die Musik bringt mich zum Tanzen. 
 b. Ich schreibe einen Brief. \
-   Sie bringe mich zum Briefeschreiben.
+   Sie bringt mich zum Briefeschreiben.
 :::
 
 ### Auftragskausativ (*geben + zu + Infinitiv*) {#sec:summary-auftragskausativ}
 
-The ~~Auftragskausativ~~ (full discussion in [@sec:zuinfinitive-geben-causative]) adds a causer by using the light verb *geben* with *zu* and an infinitve. Different from all other novatives in German, in this diathesis the erstwhile subject becomes a dative (not an accusative). In many examples of this diathesis with transitive verbs like *trinken* 'to drink' [@next a] the meaning of this diathesis is very close to the meaning of the lexical verb *geben* 'to give'. However, these constructions are coherent, and thus monoclausal [@next b]. The light-verb status of *geben* is better exemplified with verbs that take clausal complements like *bedenken* 'to consider' [@next c].
+The ~~Auftragskausativ~~ (full discussion in [@sec:zuinfinitive-geben-causative]) adds a causer by using the light verb *geben* with *zu* and an infinitve. Different from all other novatives in German, in this diathesis the erstwhile subject becomes a dative (not an accusative). In many examples of this diathesis the meaning of this diathesis is very close to the meaning of the lexical verb *geben* 'to give'. For example with the verb *trinken* 'to drink' [@next a] the diathesis implies both 'he causes X to drink Y' and 'he gives Y to X for drinking'. However, these constructions are coherent, and thus monoclausal [@next b], so, whatever the precise semantic intertpretation, this is structurally clearly a diathesis. The light-verb status of *geben* is better exemplified with verbs that take clausal complements like *bedenken* 'to consider' [@next c].
 
 ::: ex
 a. Das Kind trinkt Milch. \
@@ -1728,9 +1727,40 @@ c. Ich bedenke, dass es schon spät ist. \
    Er gibt mir zu bedenken, dass es schon spät ist.
 :::
 
-### Initiativ (*lassen/machen/schicken/lehren/helfen + Infinitiv*) {#sec:summary-initiativ}
+### Permissivkausativ (*lassen + Infinitiv*) {#sec:summary-permissivkausativ}
 
-causative/permissive/assistive (full discussion in [@sec:infinitive-lassen-causative] and subsequent sections)
+The ~~Permissivkausativ~~ (full discussion in [@sec:infinitive-lassen-causative]) consists of the light verb *lassen* with an infinitive. This diathesis is widely acknowledged in German grammar. It is often simply called a *Kausativ* but this construction has actually at least two different interpretations, namely a causative [@next c] and a permissive [@next d]. It is widely used in German and there are only few verbs that do not allow for this diathesis (e.g. *gefallen* 'to like' or *interessieren* 'to interest').
+
+::: ex
+a. Ich wasche die Kleider.
+b. Sie lässt mich die Kleider waschen.
+c. (= Sie verursacht, dass ich die Kleider wasche.)
+d. (= Sie erlaubt, dass ich die Kleider wasche.)
+:::
+
+### Machenkausativ (*machen + Infinitiv*) {#sec-summary-machenkausativ}
+
+The ~~Machenkausativ~~ (full discussion in [@sec:infinitive-machen]) is probably the most pure causative of all the various novative light verb with infinitive diathesis. It uses the light verb *machen* 'to make' and adds a causer. It is not in very widespread use and often sound like English calques, though it is probably an old Germanic construction.
+
+::: ex
+a. Ich weine.
+b. Deine Späße machen mich weinen.
+:::
+
+### Direktiv (*schicken + Infinitiv*) {#sec-summary-direktiv} 
+
+The ~~Direktiv~~ (full discussion in [@sec:infinitive-schicken]) is a causative with the extra semantic aspects that some form of instructions are given. This diathesis is constructed with the light verb *schicken* with infinitive. The meaning of the construction is rather close to the full lexical meaning of *schicken* 'to send'.
+
+::: ex
+a. Er schläft
+b. Ich schicke ihn schlafen.
+:::
+
+### Assistiv (*lehren/helfen* + Infinitiv) {#sec:summary-assistiv}
+
+The ~~Assistiv~~ (full discussion in [@sec:infinitive-lehren] and [-@sec:infinitive-helfen])
+
+
 
 ### Sensativ (*sehen/hören/fühlen/spüren/riechen/finden* + Infinitiv) {#sec:summary-sensativ}
 
@@ -1738,24 +1768,31 @@ causative/permissive/assistive (full discussion in [@sec:infinitive-lassen-causa
 
 ### Opiniativ (*wissen/glauben/sehen/finden + Partizip*) {#sec:summary-opiniativ}
 
-*wissen/glauben/sehen/finden* Opiniativ (full discussion in [@sec:participles-promotion-to-subject] and subsequent sections).
+The ~~Opiniativ~~ (full discussion in [@sec:participles-promotion-to-subject] and subsequent sections) is constructed with one of the light verbs *wissen/glauben/sehen/finden* with a participle. Applied to an patientive intransitive verb like *einschlafen* 'to fall asleep' it adds an opinionator who believes with more or less certainty (depending on the light verb that is used) whether the *einschlafen* has occurred or not. The original nominative is changed into an accusative.
 
 ::: ex
-a. Sie glaubt ihn eingeschlafen. \
-   (= Sie glaubt, dass er eingeschlafen ist.)
-b. Sie weiß den Nachlass im Archiv gut aufgehoben. \
-   (= Sie weiß, dass der Nachlass im Archiv gut aufgehoben ist.)
+a. Der Säugling schläft ein.
+b. Sie glaubt den Säugling eingeschlafen. \
+   (= Sie glaubt, dass der Säugling eingeschlafen ist.)
 :::
 
-## Novative with extreme demotion diatheses ~~[Ø › SBJ › ADJ]~~
+## Novative with demotion diatheses ~~[Ø › SBJ › ADJ]~~
 
 ### Transitiv opiniativ (*wissen/glauben/sehen/finden + Partizip*) {#sec:summary-transitiv-opiniativ}
 
-clearly related to intransitive opiniativ, but clearly different remappings. If these two are united, then the Zustandspassiv and the sein-Perfekt have to be united as well!
+The ~~Transitiv opiniativ~~ (full discussion in [@sec:participles-wissen-commutative] and subsequent sections) is just the same construction as the previous *Opiniativ* (see [@sec:summary-opiniativ]) but applied to transtive verbs. However, I have included this as a separate diathesis because it shows a rather different role-remapping. With a transitive verb like *aufheben* 'to preserve' [@next a] the erstwhile nominative *Archiv* 'archive' is demoted to a prepositional adjunct or completely left out [@next b]. The accusative *Nachlass* 'inheritance' remains unchanged.
+
+::: ex
+a. Das Archiv hebt den Nachlass gut auf.
+b. Sie weiß den Nachlass (im Archiv) gut aufgehoben. \
+   (= Sie weiß, dass der Nachlass (im Archiv) gut aufgehoben ist.)
+:::
+
+These two variants of the *Opiniativ* can of course easily be united into one diathesis by noticing, for example, that both can be rephrased with a complement clause with *sein* and a participle, compare [@llast b] and [@last b]. However, this implies that when both *Opiniativ* diatheses are united, then the *sein-Perfekt* in [@llast b], see [@sec:summary-sein-perfekt], and the *Zustandspassiv* in [@last b], see [@sec:summary-zustandspassiv], have to be united as well (there is a perfect parallellism here). Now, there is nothing against this second unification (see [@sec:participle-different-diatheses] for a discussion), but exactly this point has been rather controversially discussed in the German grammatical literature. So either both are unified, or both are separated. Because I have separated the *Zustandspassiv* and the *sein-Perfekt* in this summary, I consequently also separate the two *Opiniativ* diatheses.
 
 ## Applicative diatheses ~~[ADJ/PBJ › OBJ]~~ 
 
-Pertinenz (lat. pertinere, ,dazugehören‘) Peter von Polenz: Der Pertinenzdativ und seine Satzbaupläne. In: Festschrift für Hugo Moser. Düsseldorf 1969, Seite 146ff.
+Pertinenz (lat. pertinere, ,dazugehören‘) [@polenz1969: 160ff.] cites Isačenko for the term, but redefining it. Examples of what I call Pertinenzdativ and Ortspertinenzdativ.
 
 also governed prepositions!
 

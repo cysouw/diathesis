@@ -160,7 +160,7 @@ This diathesis *lassen + sich + Infiniv + Adverbial* is structurally a stack of 
 ::: ex
 a. Zuhause arbeitet es sich gut.
 b. Sie lässt mich arbeiten.
-c. (= Sie sort dafür, dass ich arbeite.)
+c. (= Sie sorgt dafür, dass ich arbeite.)
 d. (= Sie lässt mich in Ruhe um zu arbeiten.)
 :::
 
@@ -203,12 +203,12 @@ a. Der König lässt sich tragen.
 b. (= Der König sorgt dafür, dass er selbst getragen wird.)
 c. (= Es ist möglich den König zu tragen.)
 
-Although this diathesis is widespread with transitive verbs, there are interesting exceptions. For example, many of the verbs with a *sein + Partizip* conversive ([@sec:participles-sein-conversive]) do not allow this passive [@next]. The only possible interpretation of [@next b] is the transparent reflexive anticausative with permissive *lassen* [@next c], not the possibility interpretation of the fixed stack discussed here [@next d].
+For many of the transitive verbs with a reflexive conversive (see [@sec:reflexive-preposition-passive] like *empören* 'to appall' [@next a] this diathesis has a slightly different interpretation. The *lassen + Reflexiv + Infinitiv* diathesis [@next b] has a permissive interpretation [@next c], not the possibility interpretation discussed above [@next d].
 
 ::: ex
 a. Der Witz empört mich.
 b. ^^?^ Ich lasse mich von dem Witz empören.
-a. (= Ich erlaube, dass der Witz mich empört.)
+c. (= Ich erlaube, dass ich von dem Witz empört werde.)
 d. ^* (= Es ist möglich, dass ich von dem Witz empört werde.)
 :::
 
@@ -263,114 +263,178 @@ b. ^* Ich lasse seinem Freund den Rechner schenken (von dem Verkäufer).
 
 ## Diatheses with promotion to subject
 
-### --- [ Ø > SBJ > OBJ ] --- *Initiativ* {.unnumbered}
+### --- [ Ø > SBJ > OBJ ] --- {.unnumbered}
 
-verursachen, zulassen, unterstützen: Initiative
-Kausativ, Permissiv, Assistiv
+### [ –N | NA ] *lassen + Infinitiv* Causative/permissive (*Permissivkausativ*) {#sec:infinitive-lassen-causative}
 
-### [ –N | NA ] *lassen + Infinitiv* causative/permissive {#sec:infinitive-lassen-causative}
+Although the *lassen +Infinitiv* is widely acknowledged in German grammar as a causative, the actual semantics are more variable than that. Basically there seem to be two major interpretations, a causative and a permissive [@next b]. This diathesis invokes the IPP *Ersatzinfinitiv* [@next c]. 
 
-- Ich wasche meine Kleider.
-- Sie lässt mich meine Kleider waschen.
+::: ex
+a. Ich wasche die Kleider.
+b. Sie lässt mich die Kleider waschen. \
+   ('causative' = Sie verursacht, dass ich die Kleider wasche.) \
+   ('permissive' = Sie erlaubt, dass ich die Kleider wasche.)
+c. Sie hat mich die Kleider waschen *lassen*.
+:::
 
-Ersatzinfinitiv!
+Agentive intransitives like *schlafen* 'to sleep' prefer a permissive reading [@next a], while patientive intransitives like *einschlafen* 'to fall asleep' prefer a causative reading [@next b]. However, this appears only to a preference, not a semantic necessity. There are also clear ambiguous examples, like *arbeiten* 'to work' [@next c]. 
 
-- Sie hat mich meine Kleider waschen lassen.
+::: ex
+a. Ich lasse das Kind schlafen. \
+   (= Ich erlaube, dass das Kind weiter schläft.)
+b. Ich lasse das Kind einschlafen. \
+   (= Ich sorge dafür, dass das Kind einschläft.)
+c. Ich lasse das Kind arbeiten. \
+   (= Ich erlaube, dass das kind weiter arbeitet.) \
+   (= Ich sorge dafür, dass das Kind arbeitet.)
+:::
 
-Unmöglich (Nedjalkov S.17) [@nedjalkov1976]: *verunglücken, interessieren, missfallen, bekommen*
+This diathesis can be applied to almost all German verbs of various argument structures. There is always a new nominative introduced, and the old nominative is demoted to an accusative. If there is already an accusative present as in [@llast] then the resulting construction simply has two accusative constituents. Double accusatives are unusual in German because most role-remappings lead to a chain of remappings to not end up with identically marked constituents (see [@sec:intro-chaining] on the notion of a 'chain'). Also any datives [@next a] or prepositional phrases [@next b] are simply left untouched by this diathesis.
 
-Also strange (impossible?) *sich befinden*
-Typically ND-verbs with an inanimate subject are strange: ähneln, gefallen, missfallen
+::: ex
+a. Ich schreibe dir einen Brief. \
+   Er lässt mich dir einen Brief schreiben.
+b. Der Vater ärgert sich über den Stau. \
+   Ich lasse meinen Vater sich über den Stau ärgern.
+:::
 
-(Lassen+Reflexiv appears with "gefallen" in old examples, e.g. "ich hätt mirs lassen gefallen wenn ich unter ihrem Rauschen am letzten Abend wär eingeschlafen!" DWDS: Arnim, Bettina von: Die Günderode. Bd. 2. Grünberg u. a., 1840.) => no! reflexive!
+However, double accusatives as produced by this diathesis [@next a] can be resolved by optionally changing the new accusative to a *von* prepositional phrase [@next b], or even dropping it altogether, inducing a passive reading with unknown agent [@next c].
 
-- Etwas interessiert mich. (Ich interessiere mich für etwas.) Ich lasse mich gerne für etwas interessieren. => reflexive!!!
+::: ex
+a. Sie lässt mich die Kleider waschen.
+b. Sie lässt die Kleider von mir waschen.
+c. Sie lässt die Kleider waschen. \
+   (= Sie sorgt dafür, dass die Kleider gewaschen werden.)
+:::
 
-"von" periphrase nicht immer möglich (Nedjalkov 7-8)
+This replacement with *von* is impossible with some verbs [@nedjalkov1976: 7] like *ausziehen* 'to take off' [@nnext]. There might be a relation here to verbs that allow an endoreflexive diathesis ([@sec:reflexive-accusative-drop]), but that has to be investigated further.
 
-Er lässt seinen Sohn den Brief abtippen
-Er lässt den Brief von seinem Sohn abtippen
+::: ex
+a. Sein Sohn zieht die Jacke aus.
+b. Er lässt seinen Sohn die Jacke ausziehen.
+c. ^* Er lässt die Jacke von seinen Sohn ausziehen.
+:::
 
-Er lässt seinen Sohn die Jacke ausziehen
-* Er lässt die Jacke von seinen Sohn ausziehen
+There are various verbs that do not allow for this diathesis [cf. @nedjalkov1976: 17], like *gefallen* 'to like' [@next a,b].
 
-Permissive Bedeutung: Ich lasse die Suppe kochen
+::: ex
+a. Der Schlitten gefällt dem Jungen.
+b. ^* Der Verkäufer lässt den Schlitten dem Jungen gefallen.
+:::
 
-- Ich lasse das Kind schlafen (unergative => permissive) (only permissive allow for reflexive?)
-- Ich lasse das Kind einschlafen (unakkusative => obligative)
+##### Attested Verbs {.unnumbered}
 
-Other arguments remain unchanged? [ –NDA | NADA ]
+- Almost all verbs, with some exceptions, e.g. *ähneln, bekommen, beschweren, gefallen, interessieren, missfallen, sich befinden, verunglücken*
 
-- ich schreibe dir einen Brief
-- er lässt mich dir einen Brief schreiben
+### [ –N | NA ] *schicken + Infinitiv* causative (*Direktiv*) {#sec:infinitive-schicken}
 
-### [ –N | NA ] *machen + Infinitiv* causative 
+The verb *schicken* allows for a construction with an infinitive [@next]. This diathesis expresses not a direct causation, but more a directive to somebody to do something. This diathesis does not invoke the IPP *Ersatzinfinitiv* [@next c].
 
-Although this construction looks like an English calque, it is already attested in German examples from the 19th Century. So maybe this is old?
+::: ex
+a. Er schläft
+b. Ich schicke ihn schlafen.
+c. Ich habe ihn schlafen geschickt.
+:::
 
-- Er macht mich lachen.
-- "Spengler führt vor, wie der Gang der Geschichte die Menschen Idee und Wirklichkeit der eigenen Freiheit vergessen macht."
+The meaning of the light verb *schicken* in this diathesis is rather close to the meaning of the full verb *schicken* 'to send' [@next a]. Yet, the construction with an infinitive is coherent [@next b], so there appears to be a early grammaticalisation here. The diathesis with infinitive seems to be restricted to agentive intransitives [@next c,d].
 
-'machen20' in E-VALBU
+::: ex
+a. Ich schicke ihn nach Hause.
+b. Es ist bekannt, dass ich ihn schlafen geschickt habe.
+c. ^* Er schickte mich einschlafen.
+d. ^* Er schickte mich fallen.
+:::
 
-- Neue Erfolge machen alte Skandale niemals vergessen. (Berliner Zeitung, 30.10.2007, S. 24)
-- Der Clown machte die Kinder lachen.
-- Die Diktatur machte die Menschen ihr Schicksal passiv hinnehmen.
+There is a frequent sentence structure of *schicken* with the infinitive of the transitive verb *holen* 'to fetch something'. Other than this verb there do not appear to be many transitive examples.
 
-glauben machen
-von sich reden machen
-vergessen machen
+::: ex
+a. Ich hole Bier.
+b. Er schickt mich Bier holen.
+:::
 
-### [ –N | NA ] *heißen + Infinitiv* causative
+##### Attested Verbs {.unnumbered}
 
-Old-fashioned construction, meaning similar to *befehlen* 'to order'
-
-- Eins von den Kindern hieß er zum Doktor laufen
-
-Note that the modern usage is not coherent. (???)
-
-- NA: Das Kind heißt Beate.
-- NZ: Verreisen heißt neue Städte kennenlernen
-- ZA: Jetzt heißt es endlich einmal selbst reich werden (Bech 1955: 220-222)
-
-### [ –N | NA ] *schicken + Infinitiv* causative
-
-Coherent construction
-
-(a) Ich schicke ihn schlafen.
-(b) Es ist bekannt, dass ich ihn schlafe schicke.
-(c) ^* Es ist bekannt, dass ich schicke ihn schlafen.
-
-Only agentive verbs?
-
-(a) ^* Er schickte mich einschlafen.
-(b) ^* Er schickte mich dir gefallen.
+- agentive intransitives: *duschen, einkaufen, schlafen*, etc.
+- transitives: *holen*
+ 
+##### Examples {.unnumbered}
 
 - Du hast noch mehr als einmal gearbeitet und mich schlafen geschickt.
 - Doch als sie ihn später ein zweites Mal Wasser holen schickt, kommt Sachin aufgeregt zurück:
 - Wenn Manne seine Diener, zwei beflissene Penner, Bier holen schickt, dann ...
 - Gegen Nürnberg ließ Fairchild, diesmal wieder Angreifer, seinen aufgestauten Frust verbal an Referee Chvatal aus, der ihn mit einer Spieldauerstrafe duschen schickte.
 
-### [ –N | NA ] *lehren+ Infinitiv* assistive {#sec:infinitive-lehren}
+### [ –N | NA ] *machen + Infinitiv* Causative {#sec:infinitive-machen}
 
-Die Mutter lehrt den Jungen schwimmen
+The verb *machen* can be used with an infinitive to express a causative meaning. This typically is found with intransitives, like *lachen* 'to laugh' [@next a], though incidental transitives are also attested [@next b]. Although this construction might look like an English calque ('he makes me laugh'), it is already attested in early German examples, so it seems to be an old Germanic construction. This diathesis does not invoke the IPP *Ersatzinfinitiv* [@next c]. 
 
-### [ –N | NA ] *helfen+ Infinitiv* assistive
+::: ex
+a. Ich lache. \
+   Der Clown macht mich lachen.
+b. Ich vergesse die Verabredung. \
+   Der Stress macht mich die Verabredung vergessen.
+c. Der Clown hat mich lachen *gemacht*.
+:::
 
-What is the difference with/without *zu*?
+##### Attested Verbs {.unnumbered}
 
-- Ich will dir das Buch suchen helfen.
-- Ich helfe dich ihm ein Buch zu schenken
+- intransitives: *flattern, frösteln, lachen, leiden, schaudern, weinen*
+- transitives: *hinnehmen, vergessen*
 
-<br>
+##### Examples {.unnumbered}
+
+- Ich schaudere. Der Lärm macht mich schaudern.
+- Die Diktatur machte die Menschen ihr Schicksal passiv hinnehmen.
+- Und der harte Bass brandet in so tückischen Wellen durch die Halle, dass er die Hosenbeine flattern macht.^[~~DWDS~~: Die Zeit, 31.05.2007]
+- Spengler führt vor, wie der Gang der Geschichte die Menschen Idee und Wirklichkeit der eigenen Freiheit vergessen macht.^[~~DWDS~~: Die Zeit, 21.12.2017, Nr. 49]
+
+### [ –N | NA ] *heißen + Infinitiv* Causative {#sec:infinitive-heißen}
+
+The verb *heißen* can also be used with an infinitive to express a causative meaning, though this is rather old-fashioned [@next a,b]. This diathesis does not invoke the IPP *Ersatzinfinitiv* [@next c].
+
+::: ex
+a. Er kniete nieder.
+b. Der Henker hieß ihn niederknieen.
+c. Der Henker hat ihn niederknieen geheißen.
+:::
+
+###### Examples {.unnumbered}
+
+- Eins von den Kindern hieß er zum Doktor laufen.^[~~DWDS~~: Ganghofer, Ludwig: Der Dorfapostel, Stuttgart: Adolf Bonz 1900, S. 124]
+- Hierauf hat mich der Vater in sein Arbeitsgemach geführt, hat mich auf den weichsten Sessel niedersitzen geheißen.^[~~DWDS~~: Rosegger, Peter: Die Schriften des Waldschulmeisters. Pest, 1875.]
+
+### [ –N | NA ] *lehren+ Infinitiv* Assistive {#sec:infinitive-lehren}
+
+::: ex
+a. Der Junge schwimmt. \
+   Die Mutter lehrt den Jungen schwimmen
+b. Die Mutter lehrt den Jungen zu schwimmen. \
+   Es ist bekannt, dass die Mutter den Jungen lehrt zu schwimmen.
+:::
 
 - ... wo Diotima Sokrates jene Kunst zu lieben lehrt.
 - Er hat uns lesen, schreiben und rechnen gelehrt.
+- Es ist bekannt, dass du sie [gelehrt hast] ihm ein Buch [zu schenken]
+- Es ist bekannt, dass du sie ihm ein Buch [zu schenken] [gelehrt hast] 
+  
+### [ –N | ND ] *helfen+ Infinitiv* Assistive {#sec:infinitive-helfen}
+
+What is the difference with/without *zu*? with modalverb more frequent without zu?
+
+- Ich habe den Jungen das Buch suchen geholfen. (kein Ersatzinfinitiv) 
+
+Sie trägt den Koffer
+Er hilft ihr den Koffer tragen
+
+
+
+Berliner Tageblatt (Abend-Ausgabe), 10.02.1902 
+Die Musik wird sie mir erobern helfen,
+
 
 With *zu* both coherent and non-coherent:
 
-- Es ist bekannt, dass du sie [gelehrt hast] ihm ein Buch [zu schenken]
-- Es ist bekannt, dass du sie ihm ein Buch [zu schenken] [gelehrt hast] 
+
 
 ### --- [ Ø > SBJ > OBJ ] --- *Sensativ* {.unnumbered}
 

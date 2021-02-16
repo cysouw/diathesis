@@ -255,7 +255,7 @@ Table: Possible combinations of light-verbs with participles {#tbl:light-verb-co
 
 Looking even further, there are many more light-verb constructions besides *sein*, *haben* and *werden* that can be included. For example, *bleiben + Partizip* (see [@sec:participles-bleiben-intransitive]) only seems possible with *einschlafen*, while *scheinen + Partizip* (see [@sec:participles-scheinen-intransitive]) seems possible with *einschlafen* and *fallen*, and *kommen + an- + Partizip* (see [@sec:participles-kommen-an]) only applies to *fallen* and *klettern*. This chapter will not attempts to answer the question how many different such verb classes are attested, but only takes the first step of presenting a list of possible light-verb constructions to be investigated in-depth in future research.
 
-### Different diatheses with the same light verb
+### Different diatheses with the same light verb {#sec:participle-different-diatheses}
 
 Many light-verb constructions with participles will be discussed in more than one subsection in this chapter. This is necessary because many light-verb constructions show different sentence alternations for verbs with different valency. Typically, participles of intransitive and transitive verbs will lead to different alternations. For example, some intransitive verbs, like *schlafen* 'to sleep' [@next a], allow for an *werden* impersonal passive in which the nominative argument is dropped (see [@sec:participles-werden-impersonal-passive]). In contrast, with many transitive verbs, like *putzen* 'to clean' [@next b], the *werden* passive shows a different diathesis in which the accusative is turned into a nominative (see [@sec:participles-werden-passive]).
 
