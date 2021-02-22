@@ -1,5 +1,21 @@
--- CSS to format table of content as a hover-object to the top left of the document
--- to be used together with toc-script.js to be added at the end of the document
+--[[
+toc-css.lua: lua script to add CSS and Vanilla Javascript to native Pandoc HTML output
+Formats HTML table of content as produced by Pandoc to the top left of the document
+
+Copyright © 2021 Michael Cysouw <cysouw@mac.com>
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+]]
 
 css = [[ 
 <!-- CSS added by filter 'toc-css.lua' for TOC hovering to the side -->
@@ -12,12 +28,13 @@ body {
 nav {
   width: 1em;
   margin-left: -1.5cm;
+  font-size: smaller;
+  color: grey;
+  transition: 0.5s;
   float: left;
   position: fixed;
   top: 0;
   bottom: 0;
-  font-size: smaller;
-  color: grey;
   white-space: nowrap; 
   overflow: hidden;
   overflow-y: scroll;
@@ -26,18 +43,19 @@ nav {
 nav::-webkit-scrollbar {
   display: none;
 }
-nav h2:before {
-  content: "◀ ";
-}
-nav:hover {
-  width: 10cm;
-  padding-right: 1cm;
-  background-color: rgba(255, 255, 255, 0.95);
-}
 nav a, nav a:visited {
   color: grey;
 }
+nav h2:before {
+  content: "≡ ";
+  font-size: larger;
+}
+nav h2:after {
+  content: " ◀";
+  font-size: larger;
+}
 nav li {
+  margin-left: -0.5em;
   white-space: nowrap; 
   overflow: hidden;
   text-overflow: ellipsis;
@@ -48,7 +66,11 @@ nav li > a:not(:only-child):before {
 nav li > a:only-child {
   margin-left: 0.75em;
 }
+nav li li {
+  margin-left: 1em;
+}
 nav li li li {
+  margin-left: -0.5em;
   font-size: smaller;
 }
 nav ul li ul  {
@@ -62,16 +84,19 @@ nav ul li ul  {
   padding-left: 9cm;
   transition: 0.5s;
 }
-.navshown {
-  margin-left: -9cm;
+.navside {
   width: 7cm;
+  margin-left: -8.5cm;
+  padding-right: 1cm;
   transition: 0.5s;
 }
-.navshown h2:before {
-  content: "▶ ";
+.navside h2:after {
+  content: " ▶";
+  font-size: larger;
 }
-.navshown:hover {
-  width: 10cm;
+.navshown {
+  width: 50%;
+  transition: 0.5s;
   background-color: rgba(255, 255, 255, 0.95);
 }
 .subShow > ul {
@@ -86,6 +111,69 @@ nav ul li ul  {
 </style>
 ]]
 
+-----------------------------
+
+script = [[
+
+<!-- Javascript added by toc-css.lua to make TOC expandable on click -->
+<script>
+
+  const b = document.querySelector("body");
+  const n = document.querySelector("nav");
+  const buttonsize = 15
+
+  // click on "toc-title" to show TOC to the side
+  document.querySelector("#toc-title").addEventListener("click", function(e) {
+    console.log("clientX", e.clientX)
+    console.log("box", e.currentTarget.getBoundingClientRect().left)
+    if (e.clientX < e.currentTarget.getBoundingClientRect().left + buttonsize) {
+      n.classList.toggle("navshown");
+    } else {
+      b.classList.toggle("bodysmall");
+      n.classList.toggle("navside");
+      n.classList.remove("navshown");
+    };
+  });
+
+  // always show TOC in large window
+  window.onload = function() {
+    if (window.innerWidth > 1000) {
+      b.classList.add("bodysmall");
+      n.classList.add("navside");
+    };
+  };
+
+  // show/hide TOC on resize
+  window.onresize = function () {
+    if (window.innerWidth > 1000) {
+      b.classList.add("bodysmall");
+      n.classList.add("navside");
+    } else {
+      b.classList.remove("bodysmall");
+      n.classList.remove("navside");
+    };
+  };
+
+  // show/hide subsections
+  function toggleSub(lis) {
+    for (const li of lis) {
+      li.addEventListener('click', function (e) {
+        if (e.clientX < e.currentTarget.getBoundingClientRect().left + buttonsize) {
+          li.classList.toggle('subShow');
+          e.preventDefault();
+        }
+      });
+    };
+  };
+
+  const allLis = document.querySelectorAll("nav li");
+  toggleSub(allLis);
+
+</script>
+]]
+
+----------------------------
+
 function addCSS (meta)
   -- read current "header-includes" from metadata, or make a new one
   local current = meta['header-includes'] or pandoc.MetaList{meta['header-includes']}
@@ -96,14 +184,17 @@ function addCSS (meta)
   return(meta)
 end
 
+----------------------------
+
+function addScript (doc)
+  -- add javascript to the end of the document
+  table.insert(doc.blocks, pandoc.RawBlock("html", script) )
+  return(doc)
+end
+
+----------------------------
+
 return {
-  { Meta = addCSS }
+  { Meta = addCSS },
+  { Pandoc = addScript }
 }
-
-
---[[
-  nav ul li:hover > ul , ul li ul:hover  {
-    visibility: visible;
-    display: block;
-  }
-]]

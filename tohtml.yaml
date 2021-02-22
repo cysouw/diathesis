@@ -34,9 +34,6 @@ metadata-files:
 - meta/settings.yaml
 - meta/custom-css.yaml
 
-include-after-body:
-- filters/toc-script.js
-
 # pandoc-native functionalities
 number-sections: true
 table-of-contents: true

@@ -19,7 +19,7 @@ Always modal meanings???
 - ^* Es ist bekannt, dass ich habe zu laufen.
 - Es ist bekannt, dass ich zu laufen habe.
 
-##### Examples {.unnumbered}
+** Examples **
 
 - Was hat das zu bedeuten?
 - Du hast ihm zu helfen!
@@ -82,6 +82,8 @@ Handlungsverben 5,6% [@jager2013: 201]
 - Er kauft einen Kaffee. Er scheint einen Kaffee zu kaufen. (... dass er einen Kaffee zu kaufen scheint. )
 
 ### *brauchen + zu + Infinitiv*
+
+moving towards modal status?
 
 - Du brauchst die Kleider nicht zu waschen.
 - Es ist bekannt, dass du die Kleider nicht (zu?) waschen brauchst.
@@ -166,7 +168,7 @@ Also with various manner adverbs?
 
 [@helbig2001: 166] "können" interpretation: Das Radio geht zu reparieren.
 
-##### Attested Verbs {.unnumbered}
+** Attested Verbs **
 
 - *löschen, reparieren*
 

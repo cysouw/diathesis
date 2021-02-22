@@ -54,7 +54,7 @@ The verb *dürfen* reverses controll.
 
 ### *müssen + Infiniv* {#sec:infinitive-mussen}
 
-### *wollen + Infiniv*
+### *wollen + Infiniv*{#sec:infinitive-wollen}
 
 Some of these verbs reverse the default "haben+Partizip" Interpretation.
 
@@ -164,11 +164,11 @@ c. (= Sie sorgt dafür, dass ich arbeite.)
 d. (= Sie lässt mich in Ruhe um zu arbeiten.)
 :::
 
-##### Attested Verbs {.unnumbered}
+** Attested Verbs **
 
 - agentive intransitives like *atmen, laufen, leben, schwimmen, singen, spielen, springen, tanzen, träumen* etc.
 
-##### Examples {.unnumbered}
+** Examples **
 
 - An der frischen Luft lässt es sich frei atmen.
 - Hier lässt es sich träumen!^[~~DWDS~~:Die Zeit, 12.12.2013, Nr. 50]
@@ -212,11 +212,11 @@ c. (= Ich erlaube, dass ich von dem Witz empört werde.)
 d. ^* (= Es ist möglich, dass ich von dem Witz empört werde.)
 :::
 
-##### Attested Verbs {.unnumbered}
+** Attested Verbs **
 
 Most transitive verbs, though there are interesting exceptions like *empören, langweilen, verärgern, verirren, verwundern*
 
-##### Examples {.unnumbered}
+** Examples **
 
 - Ich bezweifele die Lösung. Die Lösung lässt sich bezweifeln.
 
@@ -253,11 +253,11 @@ a. Der Verkäufer schenkt seinem Freund den Rechner.
 b. ^* Ich lasse seinem Freund den Rechner schenken (von dem Verkäufer).
 :::
 
-##### Attested Verbs {.unnumbered}
+** Attested Verbs **
 
 - *schenken, schneiden, verbieten*, etc.
 
-##### Examples {.unnumbered}
+** Examples **
 
 - Ich verbiete ihr das Rauchen nicht. Sie lässt sich (von mir) das Rauchen nicht verbieten.
 
@@ -322,7 +322,7 @@ a. Der Schlitten gefällt dem Jungen.
 b. ^* Der Verkäufer lässt den Schlitten dem Jungen gefallen.
 :::
 
-##### Attested Verbs {.unnumbered}
+** Attested Verbs **
 
 - Almost all verbs, with some exceptions, e.g. *ähneln, bekommen, beschweren, gefallen, interessieren, missfallen, sich befinden, verunglücken*
 
@@ -352,12 +352,12 @@ a. Ich hole Bier.
 b. Er schickt mich Bier holen.
 :::
 
-##### Attested Verbs {.unnumbered}
+** Attested Verbs **
 
 - agentive intransitives: *duschen, einkaufen, schlafen*, etc.
 - transitives: *holen*
  
-##### Examples {.unnumbered}
+** Examples **
 
 - Du hast noch mehr als einmal gearbeitet und mich schlafen geschickt.
 - Doch als sie ihn später ein zweites Mal Wasser holen schickt, kommt Sachin aufgeregt zurück:
@@ -376,12 +376,12 @@ b. Ich vergesse die Verabredung. \
 c. Der Clown hat mich lachen *gemacht*.
 :::
 
-##### Attested Verbs {.unnumbered}
+** Attested Verbs **
 
 - intransitives: *flattern, frösteln, lachen, leiden, schaudern, weinen*
 - transitives: *hinnehmen, vergessen*
 
-##### Examples {.unnumbered}
+** Examples **
 
 - Ich schaudere. Der Lärm macht mich schaudern.
 - Die Diktatur machte die Menschen ihr Schicksal passiv hinnehmen.
@@ -398,7 +398,7 @@ b. Der Henker hieß ihn niederknieen.
 c. Der Henker hat ihn niederknieen geheißen.
 :::
 
-###### Examples {.unnumbered}
+#** Examples **
 
 - Eins von den Kindern hieß er zum Doktor laufen.^[~~DWDS~~: Ganghofer, Ludwig: Der Dorfapostel, Stuttgart: Adolf Bonz 1900, S. 124]
 - Hierauf hat mich der Vater in sein Arbeitsgemach geführt, hat mich auf den weichsten Sessel niedersitzen geheißen.^[~~DWDS~~: Rosegger, Peter: Die Schriften des Waldschulmeisters. Pest, 1875.]
@@ -406,10 +406,11 @@ c. Der Henker hat ihn niederknieen geheißen.
 ### [ –N | NA ] *lehren+ Infinitiv* Assistive {#sec:infinitive-lehren}
 
 ::: ex
-a. Der Junge schwimmt. \
-   Die Mutter lehrt den Jungen schwimmen
-b. Die Mutter lehrt den Jungen zu schwimmen. \
-   Es ist bekannt, dass die Mutter den Jungen lehrt zu schwimmen.
+a. Der Junge schwimmt.
+b. Die Mutter lehrt den Jungen schwimmen
+c. Es ist bekannt, dass die Mutter den Jungen schwimmen lehrt.
+c. Die Mutter lehrt den Jungen zu schwimmen.
+d. Es ist bekannt, dass die Mutter den Jungen lehrt zu schwimmen.
 :::
 
 - ... wo Diotima Sokrates jene Kunst zu lieben lehrt.
@@ -417,15 +418,22 @@ b. Die Mutter lehrt den Jungen zu schwimmen. \
 - Es ist bekannt, dass du sie [gelehrt hast] ihm ein Buch [zu schenken]
 - Es ist bekannt, dass du sie ihm ein Buch [zu schenken] [gelehrt hast] 
   
+infrequent: koherent with zu+ Infinitiv
+
+Berliner Zeitung, 08.03.2003 
+Es ehrt den Historiker, wenn er die Spuren der Geschichte ausleuchtet, sie interpretiert und zu verstehen lehrt.
+
 ### [ –N | ND ] *helfen+ Infinitiv* Assistive {#sec:infinitive-helfen}
 
 What is the difference with/without *zu*? with modalverb more frequent without zu?
 
-- Ich habe den Jungen das Buch suchen geholfen. (kein Ersatzinfinitiv) 
+- Ich habe dem Jungen das Buch suchen geholfen. (kein Ersatzinfinitiv) 
 
-Sie trägt den Koffer
-Er hilft ihr den Koffer tragen
-
+::: ex
+- Ich trage den Koffer.
+- Er hilft mir den Koffer tragen.
+- Er hat mir den Koffer tragen geholfen.
+:::
 
 
 Berliner Tageblatt (Abend-Ausgabe), 10.02.1902 
@@ -485,11 +493,11 @@ a. Der Kuchen schmeckt mir.
 b. Ich lasse mir den Kuchen schmecken.
 :::
 
-##### Attested Verbs {.unnumbered}
+** Attested Verbs **
 
 - *entgehen, entgleiten, entwischen, gefallen, kosten, passieren, schmecken*
 
-##### Examples {.unnumbered}
+** Examples **
 
 - Dein Ton gefällt mir nicht. Ich lasse mir deinen Ton nicht gefallen.
 - Der Spaß entgeht mir. Den Spaß lasse ich mir nicht entgehen.
@@ -518,12 +526,12 @@ Ich habe das Auto auf dem Parkplatz stehen. \
 
 There is a curious parallel between this diathesis and the *haben + am + Infinitiv* diathesis, see [@sec:zuminfinitive-haben-am]. Both use the light verb *haben* with an infinitive, they show the same role-remapping, and semantically they are highly similar. The first difference is that the dative in this diathesis is the possessor of the locational object, while the dative in the *haben + am + Infinitiv* diathesis is the possessor of the nominative. The second difference is of course the extra *am* preposition. It is a tantalising thought that this *am* preposition is somehow related to the fact that there is no obligatory location present in that diathesis.
 
-##### Attested Verbs {.unnumbered}
+** Attested Verbs **
 
 - Position verbs: *liegen, stehen, sitzen, hängen, stecken*
 - Manner of position verbs: *haften, kleben, lehnen, pendeln*
 
-##### Examples {.unnumbered}
+** Examples **
 
 - Der Teller steht ihm auf den Tisch. Er hat den Teller auf den Tisch stehen.
 - Viola Kleßmann aus Charlottenburg gehört nicht zu denen, die am Ende einen roten Punkt an ihrer Teilnehmernummer kleben haben.^[~~DWDS~~: Berliner Zeitung, 28.07.2003.]

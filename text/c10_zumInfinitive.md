@@ -73,7 +73,7 @@ Sehr schön kohärent
 - Das Auto ist gestern direkt vor der Ampel [zum Stehen gekommen].
 - Er ist gestern gleich nach der Arbeit [zum Einkaufen gefahren].
 
-### *sein/bleiben + zum + Infinitiv*
+### *bleiben + zum + Infinitiv*
 
 Die Bedeutung der Verben *sein/bleiben* scheint sehr lexikal. Eher keine spezielle Konstruktion? Auch nicht komplett kohärent.
 
