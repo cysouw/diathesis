@@ -19,7 +19,7 @@ Always modal meanings???
 - ^* Es ist bekannt, dass ich habe zu laufen.
 - Es ist bekannt, dass ich zu laufen habe.
 
-** Examples **
+**Examples**
 
 - Was hat das zu bedeuten?
 - Du hast ihm zu helfen!
@@ -168,7 +168,7 @@ Also with various manner adverbs?
 
 [@helbig2001: 166] "können" interpretation: Das Radio geht zu reparieren.
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *löschen, reparieren*
 

@@ -175,16 +175,16 @@ This only seems to occur in exceptional cases.
 
 ### [ Z ]
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *angehen*
 
-** Examples **
+**Examples**
 
 - Zu spät zu kommen geht nicht an. 
 - Es geht nicht an zu spät zu kommen
 
-** Notes **
+**Notes**
 
 The transitive *angehen* 'attack' has a different meaning
 
@@ -192,21 +192,21 @@ The transitive *angehen* 'attack' has a different meaning
 
 ### [ NZ]
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *vermögen*
 
-** Examples **
+**Examples**
 
 - wie lange dieser grässliche Zustand gedauert hat, vermag keiner zu sagen
 
 ### [ NPZ]
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *appellieren*
 
-** Examples **
+**Examples**
 
 - Er appellierte die Erfahrungen zu berücksichtigen.
 - ? Er appellierte an uns.
@@ -218,12 +218,12 @@ The transitive *angehen* 'attack' has a different meaning
 
 - *abmahnen* 
 
-** Examples **
+**Examples**
 
 - Sie hat ihn abgemahnt [es nicht zu machen].
 - Sie hat ihn von der Seereise abgemahnt
 
-** Notes **
+**Notes**
 
 Altmodisch mit 'von'
 
@@ -233,11 +233,11 @@ Altmodisch mit 'von'
 
 ### [ ZD]
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *freistehen*
 
-** Examples **
+**Examples**
 
 - es steht ihr frei, ihre neue Stelle sofort oder erst in einem Monat anzutreten
 - Zu gehen steht dir frei.
@@ -248,11 +248,11 @@ This only seems to occur in exceptional cases.
 
 ### [ Z ] 
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *gehören, schicken*
 
-** Examples **
+**Examples**
 
 - Es gehört sich nicht zu spät zu kommen.
 - Zu spät zu kommen gehört sich nicht.
@@ -263,11 +263,11 @@ This only seems to occur in exceptional cases.
 
 Dative or accusative *sich*?
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *anschicken, einbilden, getrauen*
 
-** Examples **
+**Examples**
 
 - Er schickte sich an zu arbeiten.
 - Ich getraue mich/mir hinein zu gehen.
@@ -276,11 +276,11 @@ Dative or accusative *sich*?
 
 Obligatory non-nominative *es*.
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *anlegen auf*
 
-** Examples **
+**Examples**
 
 Sie legte es darauf an zu spät zu kommen.
 
@@ -296,7 +296,7 @@ Nominative control
 
 - *aufhören, denken, drängen. hoffen, klagen, träumen*
 
-** Examples **
+**Examples**
 
 - Er denkt die Lösung zu wissen. Er denkt an die Lösung.
 - Er drängte ihr zu bleiben. Er drängte darauf zu bleiben. Ich dränge auf eine Änderung.
@@ -326,11 +326,11 @@ Nominative control
 
 Typically performative verbs?
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *ablehnen, ableugnen, absprechen, abstreiten, andeuten, ankündigen, beabsichtigen, behaupten, beschließen, bestreiten, glauben, meinen, leugnen, schwören, üben, vergessen, verlangen, versuchen, wagen, zugeben*
 
-** Examples **
+**Examples**
 
 - Er leugnete ab es zu wissen. Er leugnet die Tat ab.
 - Wir sprechen ab rechtzeitig zu sein. Wir sprechen die Lieferung ab.
@@ -350,7 +350,7 @@ Typically performative verbs?
 - Sie wagte zu kommen. Ich wage die Tat.
 - Ich gebe zu zu spät zu sein. Ich gebe die Tat zu.
 
-** Notes **
+**Notes**
 
 Do these verbs allow for a non-sentence argument?
 
@@ -369,11 +369,11 @@ The verb *anordnen* is sometimes called 'hidden control'.
 
 Nominative control
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *bedürfen, entbehren, gedenken*
 
-** Examples **
+**Examples**
 
 - Er gedachte zu schwänzen.
 
@@ -381,7 +381,7 @@ Nominative control
 
 Accusative control
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *auffordern, bitten, einladen, fragen, schicken, überreden, verpflichten*
 
@@ -401,7 +401,7 @@ Accusative control
 
 - *lehren, heißen*
 
-** Examples **
+**Examples**
 
 - Ich lehre dich tango zu tanzen. ch lehre dich den Tango.
 - Ich heiße dich einen Dummkopf. Er hat sie geheißen, Platz zu nehmen.
@@ -410,11 +410,11 @@ Accusative control
 
 Accusative control
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *anklagen, bezichtigen, verdächtigen*
 
-** Examples **
+**Examples**
 
 - Ich bezichtige dich nicht des Diebstahls. Ich bezichtige dich nicht zu spät zu sein.
 - Ich klage dich des Diebstahls an. Ich klage dich an zu spät zu sein.
@@ -423,11 +423,11 @@ Accusative control
 
 Dative control
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *antworten, berichten, erklären, erzählen, raten, vorschlagen*
 
-** Examples **
+**Examples**
 
 - Ich antworte ihm auf seiner Frage, Ich antworte ihm, nicht weiter zu suchen.
 - Ich rate dir zu kommen. Ich rate dir Mäßigung / zur Besonnenheit.
@@ -438,11 +438,11 @@ Dative control
 
 Dative control
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *abgewöhnen, auftragen, bedeuten, befehlen, nahelegen, winken*
 
-** Examples **
+**Examples**
 
 - Wir müssen ihm abgewöhnen zu spät zu kommen.
 - Ich trage dir auf mitzumachen. Er hat mir eine Botschaft aufgetragen.
@@ -454,11 +454,11 @@ Dative control
 
 ### [ NP | ZP]
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *ausreichen für, zeugen von*
 
-** Examples **
+**Examples**
 
 - Es zeugt von Mut einfach so zu verschwinden. Deine Tat zeugt von Mut.
 - Es reicht aus für die Besprechung das Licht anzumachen. Die Zeit reicht aus für die Besprechung.
@@ -517,7 +517,7 @@ Nominative control, accusative *sich*
 
 - *abmühen, abplagen, abquälen, abackern, beeilen, entscheiden, entschließen, gewöhnen schämen, sträuben*
 
-** Examples **
+**Examples**
 
 - mühen wir uns ab, sie aus dem Kopf zu gebären) - sich abmühen mit der Arbeit
 - er beeilte sich zu verschwinden) - sich beeilen mit einer Sache
@@ -534,11 +534,11 @@ Some prepositions might not be possible to drop.
 
 Nominative control, dative *sich*
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *vornehmen, vorstellen*
 
-** Examples **
+**Examples**
 
 - Ich stelle mir vor erster zu sein. Ich stelle mir ein Bild vor.
 - Ich nehme mir vor zu kommen. Ich nehme mir ein Buch vor.
@@ -572,11 +572,11 @@ These verbs can also be used without *sich* showing dative control. With *sich*,
 (c) NZD: Ich empfahl ihm wegzugehen.
 (d) -ZD + *sich*: Es empfielt sich wegzugehen / wegzugehen empfielt sich mir.
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *aufdrängen, anbieten, auszahlen, empfehlen*
 
-** Examples **
+**Examples**
 
 - NAD : Ich zahle dir den Lohn aus
 - -ND : Die Investition zahlt sich (für mich) nicht aus
@@ -594,11 +594,11 @@ Nominative subordination
 
 Dative *sich*
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *anhören*
 
-** Examples **
+**Examples**
 
 - NA : Ich höre (mir) den Vorschlag an.
 - -N : Der Vorschlag hört sich gut an.
@@ -608,11 +608,11 @@ Dative *sich*
 
 Non-reflexive without subordination. However, rather strong lexicalisation in all cases?
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *trauen, unterstehen*
 
-** Examples **
+**Examples**
 
 - Ich traue der Sache nicht. 
 - Ich traue mich nicht etwas zu tun. 
@@ -626,11 +626,11 @@ Non-reflexive without subordination. However, rather strong lexicalisation in al
 
 Non-reflexive without subordination. However, rather strong lexicalisation in all cases?
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *erbieten, weigern*
 
-** Examples **
+**Examples**
 
 - Ich erbiete ihm die Ehre.
 - Er erbietet sich etwas zu tun.

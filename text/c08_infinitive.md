@@ -164,11 +164,11 @@ c. (= Sie sorgt dafür, dass ich arbeite.)
 d. (= Sie lässt mich in Ruhe um zu arbeiten.)
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - agentive intransitives like *atmen, laufen, leben, schwimmen, singen, spielen, springen, tanzen, träumen* etc.
 
-** Examples **
+**Examples**
 
 - An der frischen Luft lässt es sich frei atmen.
 - Hier lässt es sich träumen!^[~~DWDS~~:Die Zeit, 12.12.2013, Nr. 50]
@@ -212,11 +212,11 @@ c. (= Ich erlaube, dass ich von dem Witz empört werde.)
 d. ^* (= Es ist möglich, dass ich von dem Witz empört werde.)
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 Most transitive verbs, though there are interesting exceptions like *empören, langweilen, verärgern, verirren, verwundern*
 
-** Examples **
+**Examples**
 
 - Ich bezweifele die Lösung. Die Lösung lässt sich bezweifeln.
 
@@ -253,11 +253,11 @@ a. Der Verkäufer schenkt seinem Freund den Rechner.
 b. ^* Ich lasse seinem Freund den Rechner schenken (von dem Verkäufer).
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *schenken, schneiden, verbieten*, etc.
 
-** Examples **
+**Examples**
 
 - Ich verbiete ihr das Rauchen nicht. Sie lässt sich (von mir) das Rauchen nicht verbieten.
 
@@ -322,7 +322,7 @@ a. Der Schlitten gefällt dem Jungen.
 b. ^* Der Verkäufer lässt den Schlitten dem Jungen gefallen.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - Almost all verbs, with some exceptions, e.g. *ähneln, bekommen, beschweren, gefallen, interessieren, missfallen, sich befinden, verunglücken*
 
@@ -352,12 +352,12 @@ a. Ich hole Bier.
 b. Er schickt mich Bier holen.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - agentive intransitives: *duschen, einkaufen, schlafen*, etc.
 - transitives: *holen*
  
-** Examples **
+**Examples**
 
 - Du hast noch mehr als einmal gearbeitet und mich schlafen geschickt.
 - Doch als sie ihn später ein zweites Mal Wasser holen schickt, kommt Sachin aufgeregt zurück:
@@ -376,12 +376,12 @@ b. Ich vergesse die Verabredung. \
 c. Der Clown hat mich lachen *gemacht*.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - intransitives: *flattern, frösteln, lachen, leiden, schaudern, weinen*
 - transitives: *hinnehmen, vergessen*
 
-** Examples **
+**Examples**
 
 - Ich schaudere. Der Lärm macht mich schaudern.
 - Die Diktatur machte die Menschen ihr Schicksal passiv hinnehmen.
@@ -398,7 +398,7 @@ b. Der Henker hieß ihn niederknieen.
 c. Der Henker hat ihn niederknieen geheißen.
 :::
 
-#** Examples **
+#**Examples**
 
 - Eins von den Kindern hieß er zum Doktor laufen.^[~~DWDS~~: Ganghofer, Ludwig: Der Dorfapostel, Stuttgart: Adolf Bonz 1900, S. 124]
 - Hierauf hat mich der Vater in sein Arbeitsgemach geführt, hat mich auf den weichsten Sessel niedersitzen geheißen.^[~~DWDS~~: Rosegger, Peter: Die Schriften des Waldschulmeisters. Pest, 1875.]
@@ -493,11 +493,11 @@ a. Der Kuchen schmeckt mir.
 b. Ich lasse mir den Kuchen schmecken.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *entgehen, entgleiten, entwischen, gefallen, kosten, passieren, schmecken*
 
-** Examples **
+**Examples**
 
 - Dein Ton gefällt mir nicht. Ich lasse mir deinen Ton nicht gefallen.
 - Der Spaß entgeht mir. Den Spaß lasse ich mir nicht entgehen.
@@ -526,12 +526,12 @@ Ich habe das Auto auf dem Parkplatz stehen. \
 
 There is a curious parallel between this diathesis and the *haben + am + Infinitiv* diathesis, see [@sec:zuminfinitive-haben-am]. Both use the light verb *haben* with an infinitive, they show the same role-remapping, and semantically they are highly similar. The first difference is that the dative in this diathesis is the possessor of the locational object, while the dative in the *haben + am + Infinitiv* diathesis is the possessor of the nominative. The second difference is of course the extra *am* preposition. It is a tantalising thought that this *am* preposition is somehow related to the fact that there is no obligatory location present in that diathesis.
 
-** Attested Verbs **
+**Attested Verbs**
 
 - Position verbs: *liegen, stehen, sitzen, hängen, stecken*
 - Manner of position verbs: *haften, kleben, lehnen, pendeln*
 
-** Examples **
+**Examples**
 
 - Der Teller steht ihm auf den Tisch. Er hat den Teller auf den Tisch stehen.
 - Viola Kleßmann aus Charlottenburg gehört nicht zu denen, die am Ende einen roten Punkt an ihrer Teilnehmernummer kleben haben.^[~~DWDS~~: Berliner Zeitung, 28.07.2003.]

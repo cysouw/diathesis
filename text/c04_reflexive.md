@@ -162,14 +162,14 @@ Various verbs describing behaviour like *verirren* 'to get lost' [@next] need an
 Vier Wanderer haben sich im Gebirge verirrt.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - Behaviour: *abmühen, abrackern, abstrampeln, aufführen, aufrappeln, beeilen, benehmen, betrinken, besaufen, bücken, daranmachen, davonstehlen, durchlavieren, durchmogeln, durchwursteln, echauffieren, einigeln, erhängen, ermannen, fortbilden, gedulden, herausreden, hervortun, hinauswagen, sputen*
 - Wrong behaviour (with *ver-*): *verfahren, verhalten, verhaspeln, verirren, verkalkulieren, verlaufen, verplappern, verschreiben (falsch schreiben), verspäten, verspekulieren, versprechen (falsch sprechen), verrennen, vertun, verwählen, verzählen*
 - Body process: *akklimatisieren, erkälten, räuspern, verkühlen, übergeben, wohlfühlen*
 - Natural process: *abregnen, anfinden, bauchen, behaaren, bewahrheiten, bewölken, eintrüben, entspinnen, herauskristallisieren, jähren, rentieren, verästeln, verpuppen, verzweigen*
 
-** Examples **
+**Examples**
 
 - Die Autofahrer, die im Stau stehen, müssen sich gedulden.
 - Die S-Bahn hat sich wieder einmal verspätet.
@@ -186,7 +186,7 @@ a. Ich entschließe mich zu einer Reise.
 b. Ich entschließe mich dazu, eine Reise zu machen.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *an*    : *anpirschen, anschmiegen, beteiligen, festbeißen, halten*
 - *auf*   : *beziehen, freuen, konzentrieren, verlassen*
@@ -202,7 +202,7 @@ b. Ich entschließe mich dazu, eine Reise zu machen.
 - *vor*   : *schämen, verbeugen, verneigen*
 - *zu*    : *eignen, entscheiden, entschließen, gesellen, versteigen*
 
-** Examples **
+**Examples**
 
 - Das Parlament befasst sich mit dem neuen Gesetz.
 - Ich erhole mich von der Anstrengung.
@@ -217,7 +217,7 @@ b. Ich entschließe mich dazu, eine Reise zu machen.
 - Ich halte mich an die Abmachungen. 
 - Die Krankheit äußert sich durch das Fieber.
 
-** Notes **
+**Notes**
 
 The verb *sich verlassen* 'to rely on' [@next a] has a completely different meaning from *verlassen* ohne *sich* 'to leave' [@next b].
 
@@ -263,16 +263,16 @@ c. Ich habe mich zusammen mit meinem Nachbar betrunken.
 d. Ich habe mich ohne meinen Nachbar betrunken.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *alliieren, anfreunden, anlegen, aussprechen, beratschlagen, duellieren, einigen, solidarisieren, streiten, überwerfen, unterhalten (sprechen), verabreden, verbrüdern, verbünden, verfeinden, verklemmen, verkrachen, verloben, verschwören, vertragen*
 
-** Examples **
+**Examples**
 
 - Sie hat sich mit ihrem Mann überworfen.
 - Ich lege mich mit ihm an. ('Ich streite mit ihm')
 
-** Notes **
+**Notes**
 
 The verb *verklemmen* cannot be used in the singular mit *mit* but only reciprocally in the plural.
 
@@ -299,11 +299,11 @@ a. Das Rathaus befindet sich am Marktplatz.
 b. ^* Das Rathaus befindet sich.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *aalen, ansiedeln, anstellen, aufhalten (befinden), befinden, begeben, einfressen, einschleichen, ereignen, ergießen, fläzen, niederlassen, scheren, suhlen, umsehen, verkriechen, verschanzen, zubewegen, zurechtfinden, zutragen*
 
-** Examples **
+**Examples**
 
 - Auf der A 8 hat sich ein Unfall ereignet.
 - Ich halte mich in der Vestibule auf.
@@ -311,7 +311,7 @@ b. ^* Das Rathaus befindet sich.
 - Der Schmutz hatte sich tief in die bröckligen Wände eingefressen.
 - Er schert sich nach Hause.
 
-** Notes **
+**Notes**
 
 The verbs *ereignen* and *zutragen*, both meaning 'to happen', both need a non-governed preposition [@next a,b]. However, these verbs also allow a temporal adverbial phrase. [@next c]
 
@@ -327,11 +327,11 @@ The verb *aufhalten* 'to stay' is possibly related in meaning to the verb *aufha
 
 This pattern with an obligatory accusative reflexive with a dative is exceedingly rare. There are a few more verbs in which the dative is optional (see [@sec:reflexive-accusative-sich-dative-addition]). Semantically, these verbs are closely related to the verbs showing a dative passive diathesis (see [@sec:reflexive-sich-dative-passive]).
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *bücken (fügen), hingeben (eifrig widmen), widersetzen, zugesellen*
 
-** Examples **
+**Examples**
 
 - Ich hab mich der Aufgabe hingegeben.
 - Europa bückt sich dem Willen der USA.
@@ -342,11 +342,11 @@ This pattern with an obligatory accusative reflexive with a dative is exceedingl
 
 Accusative *sich* combined with an obligatory genitive argument is clearly attested, although all these uses are rather old-fashioned.
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *bedienen, befleißigen, bemächtigen, bemüßigen, berauben, entäußern, enthalten, entledigen, entsinnen, erfreuen, erwehren*
 
-** Examples **
+**Examples**
 
 - Ich habe mich des Sparens befleißigt.
 - Ich habe mich der Herrschaft bemächtigt.
@@ -361,21 +361,21 @@ Accusative *sich* combined with an obligatory genitive argument is clearly attes
 
 It is exceedingly rare to have a dative *sich* without other arguments. A possible example is the (arguably lexicalised) collocation *Mühe geben*.
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *Mühe geben*
 
-** Examples **
+**Examples**
 
 - Ich gebe mir Mühe.
 
 ### [ NP ] Obligatory dative reflexive + governed preposition
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *schwertun*
 
-** Examples **
+**Examples**
 
 - Mit dieser Aufgabe tue ich mir schwer.
 
@@ -383,20 +383,20 @@ It is exceedingly rare to have a dative *sich* without other arguments. A possib
 
 A dative *sich* with an obligatory accusative is clearly attested, though not very frequent. Note that the meaning of these verbs all include some kind of appropriation. The prefix *er-* occurs recurrently with the meaning "to appropriate something successfully".
 
-** Attested Verbs **
+**Attested Verbs**
 
 - Appropriate: *aneignen, anmaßen, ertanzen, ergeigen, erkämpfen, ermalen, ersingen, erspielen, langen*
 - Appropriate cognitively: *abquälen (erarbeiten), aneignen, angewöhnen, ausdenken, denken, einbilden, merken, vorstellen (denken)*
 - *verbitten, vornehmen*
 
-** Examples **
+**Examples**
 
 - Ich denke mir das Ergebnis aus.
 - Ich stelle mir das Ergebnis vor.
 - Er langte sich ein Glas.
 - Ich muss mir jede Zeile abquälen.
 
-** Notes **
+**Notes**
 
 The verb *denken* only occurs in this structure in the rather old-fashioned usage with the meaning 'to imagine' [@next].
 
@@ -442,7 +442,7 @@ c. Der Mond dreht sich um die Erde.
 d. ^* Bei dem Mond dreht es sich um die Erde.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *um* : *drehen*
 
@@ -455,17 +455,17 @@ a. Die Rebellen ergeben sich.
 b. Die Rebellen ergeben sich der Polizei.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - Subordinate: *ergeben, fügen*
 - Oppose: *emanzipieren, widersetzen* 
 
-** Examples **
+**Examples**
 
 - Er widersetzte sich. Er widersetzte sich dem Vater.
 - Er fügte sich (trotz vieler Bedenken). Er fügte sich dem Willen seines Vaters.
 
-** Notes **
+**Notes**
 
 This *ergeben* 'capitulate' is different from the prepositional passive *ergeben* 'result in'. The verb *ergeben* 'capitulate' formerly allowed a regular (non-reflexive) accusative argument with a meaning similar to modern *übergeben* 'turn over'. Today this is not possible anymore.
 
@@ -481,11 +481,11 @@ b. Ich füge mich in meinem Schicksal.
 c. Die machistische Gesellschaft hat sich nicht geändert und die meisten Frauen fügen sich darin.^[~~DWDS~~: Die Zeit, 07.11.2013, Nr. 44.]
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - Submission: *anbiedern, beugen, einschmeicheln, fügen*
 
-** Examples **
+**Examples**
 
 - Ich beuge mich seinem Willen. Ich beuge mich vor seinem Willen.
 - Ich füge mich deinem Willen. Ich füge mich nach deinem Willen.
@@ -504,14 +504,14 @@ d. Ich denke an die vergangenen Jahre.
 e. Ich denke daran, dass du morgen Geburtstag hast.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *über* : *erfreuen, freuen, fürchten (sorgen), schämen, vergewissern*
 - *mit*  : *brüsten*
 - *auf*  : *besinnen*
 - *zu*.  : *bequemen, erdreisen, erfrechen*
 
-** Examples **
+**Examples**
 
 - Ich schäme mich meines Vergehens. Ich schäme mich für mein Vergehen.
 - Sie brüstet sich ihrer Vergangenheit. Sie brüstet sich mit ihrem großen Freundeskreis.
@@ -522,7 +522,7 @@ e. Ich denke daran, dass du morgen Geburtstag hast.
 - Er erdreistet sich der Lüge. Mit welchem Ziel hätten wir uns dazu erdreisten können?
 - Sie hat sich seiner Zuverlässigkeit vergewissert. Sie hat sich über seine Zuverlässigkeit vergewissert.
 
-** Notes **
+**Notes**
 
 The verb *fürchten* only occurs in this diathesis in the very old-fashioned meaning of 'to care for'. The contemporary meaning 'to be afraid' does not show this diathesis.
 
@@ -563,11 +563,11 @@ b. Die Luft ist abgekühlt. Die Luft hat sich abgekühlt.
 c. Der Regen hat die Luft abgekühlt. 
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *ausruhen, ausschlafen, drehen, erbrechen, hinknien, knien, irren*
 
-** Examples **
+**Examples**
 
 - Ich ruhe aus. Ich ruhe mich aus.
 - Ich habe geirrt. Ich habe mich geirrt.
@@ -576,7 +576,7 @@ c. Der Regen hat die Luft abgekühlt.
 - Er hat ausgeschlafen. Er hat sich ausgeschlafen.
 - Der Kranke hat mehrmals erbrochen. Der Betrunkene hat sich erbrochen.
 
-** Notes **
+**Notes**
 
 The verb *ausruhen* until very recently was commonly used without *sich*, but this is slightly awkward in contemporary German [@next a]. Constructions without *sich* are still widespread in non-finite and subordinate uses [@next b-d].
 
@@ -602,16 +602,16 @@ a. Ich streite mit dir um die Wurst.
 b. Ich streite mich mit dir um die Wurst.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *entscheiden, erstaunen, sorgen, streiten*
 
-** Examples **
+**Examples**
 
 - Ich entscheide für den Angriff. Ich entscheide mich für den Angriff.
 - Ich erstaune über das viele Geld. Ich erstaune mich über das viele Geld.
 
-** Notes **
+**Notes**
 
 The verb *entscheiden* 'to decide' allows for an accusative [@next a], but not for an accusative *sich* [@next b]. Note that semantically the *sich* in [@next c] is not a reflexive construction because it is not the the same role as the accusative in [@next a].
 
@@ -647,7 +647,7 @@ a. Ich bin nach Hause geschlichen.
 b. Ich habe mich nach Hause geschlichen.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *schleichen*
 
@@ -669,11 +669,11 @@ b. ^* Ich habe ihm das Haus angesehen.
 c. Ich habe mir das Haus angesehen.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *anhören, ansehen, ausdenken, erbetteln, erdenken, erhandeln, ersparen (money), erspielen, überlegen, verdienen*
 
-** Examples **
+**Examples**
 
 - Ich verdiene ein Vermögen mit Werbung. Ich verdiene mir ein Vermögen mit Werbung.
 - Ich höre die Musik an. Ich höre mir deinen Vorschlag an.
@@ -682,7 +682,7 @@ c. Ich habe mir das Haus angesehen.
 - Ich erhandele ein Vorrecht. Ich erhandele mir ein Vorrecht.
 - Das genügt den Theoretikern jedoch, sich vier Arten von schwarzen Löchern zu erdenken.^[~~DWDS~~: Die Zeit, 27.08.1971, Nr. 35.]
 
-** Notes **
+**Notes**
 
 The verb *ausdenken* 'to contrive' without reflexive pronoun appears to be old-fashioned [@next].
 
@@ -728,7 +728,7 @@ d. Er freut sich über deinen Erfolg
 
 The crucial difference between a 'self-inflicted' reflexive construction and these other alternations is that with reflexives the argument is really replaced by the reflexive pronoun, or, in other words, the reflexive pronoun *is* the argument. With verbs like *waschen* 'to wash' in [@last a,b] above, there is both an agent and a patient of the verb, and these two roles can be filled by one and the same person (as marked by the reflexive). This is not the case with antipassive and anticausative in [@last b,d]. This can be seen by the possibility to retain the original argument as a prepositional phrase in these cases. The pronoun *sich* does not replace any argument here (for more discussion about these alternations, see the respective sections below). 
 
-** Attested Verbs **
+**Attested Verbs**
 
 - Emotions: *hassen, kennen, loben, mögen, rühmen, verachten*
 - Bodily care: *abmessen, abwiegen, anziehen, ausziehen, baden, bürsten, duschen, kämmen, kratzen, pflegen, rasieren, schminken, verletzen, waschen, wiegen*
@@ -737,13 +737,13 @@ The crucial difference between a 'self-inflicted' reflexive construction and the
 - Others: *aufhängen, erschießen, schützen*
 - Work: *beschäftigen, bewerben, vorstellen*
 
-** Examples **
+**Examples**
 
 - Ich bewerbe den Wein bei den Kunden. Der Student bewirbt sich (selbst) bei vielen Universitäten.
 - Er hat den Teilnehmer hingesetzt/hingelegt/hingestellt. Sie hat sich hingesetzt/hingelegt/hingestellt.
 - Ich schütze die Menschheit vor den Gefahren. Ich schütze mich vor den Gefahren.
 
-** Notes **
+**Notes**
 
 The verb *stoßen* 'to push' has an interesting change in preferred prepositional adjunct between non-reflexive [@next a] and reflexive usage [@next b], in accordance to the verb semantics. Pushing something else will normally result in a movement, e.g. into or out of somewhere. Conversely, pushing oneself will typically be against something. The 'Zustandspassiv' (see Section X) again changes the direction of movement and accordingly the preposition [@next c]. However, these conventional implicatures can be changed by a suitable context [@next d,e].
 
@@ -772,11 +772,11 @@ a. Ich baue ihm ein Haus.
 b. Er baut sich ein Haus.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *antworten, begegnen, gefallen, gleichen, helfen, missfallen, schaden, etc.*
 
-** Examples **
+**Examples**
 
 - Ich gefalle dir. Ich gefalle mir.
 - Ich schade dir. Ich schade mir
@@ -797,7 +797,7 @@ b. Ich spreche von mir.
 c. Er spricht von sich.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *kämpfen, sprechen, etc.*
 
@@ -810,14 +810,14 @@ a. Ich schenke ihm eine Tafel Schokolade.
 b. Ich schenke mir (selbst) eine Tafel Schokolade. 
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - Granting: *beweisen, erlauben, gestatten, gönnen, verbieten, verschreiben, versprechen, wünschen*
 - Giving: *geben, kaufen, holen, schenken, schicken, senden, ˈüberlegen, ˈüberwerfen*
 - Messaging: *erklären, erzählen, mailen, sagen, schreiben*
 - Others: *aufdrängen, einprägen*
 
-** Examples **
+**Examples**
 
 - Ich gestatte mir noch einen Keks.
 - Ich sage es mir immer wieder.
@@ -843,12 +843,12 @@ e. Er wäscht sich.
 f. Er wäscht sich den Rücken.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - Verbs with *für* ditransitive dative alternation (see Section X, e.g. *backen, putzen*)
 - Verbs with possessor-of-accusative dative alternation (see Section X, e.g. *versalzen, zerbrechen*)
 
-** Examples **
+**Examples**
 
 - Ich drücke mir den Hörer ans Ohr.
 - Ich putze mir die Schuhe.
@@ -874,13 +874,13 @@ e. Objektivität und eigenständiges Weltbewußtsein erlangt der Mensch nicht da
 
 Many of these verbs seem to have a rather special meaning with a reflexive pronoun. They also seem to be close to the 'autocausative' accusative drop examples (see [@sec:reflexive-accusative-drop]).
 
-** Attested Verbs **
+**Attested Verbs**
 
 - Subordinate: *anpassen, anschließen, hingeben, unterordnen, unterwerfen, verschreiben, weihen, widmen, zuneigen*
 - Oppose: *entgegensetzen, entgegenstellen, entziehen, gegenüberstellen*
 - Disclose: *anschließen, anvertrauen, aussetzen, erklären, präsentieren, vorstellen (präsentieren), zeigen*
 
-** Examples **
+**Examples**
 
 - Ich entziehe dir das Wort. Ich entziehe mich meiner Pflicht.
 - Das Land gibt seine besten Männer dem Kriege hin. Ich gebe mich dem Geliebten hin.
@@ -896,7 +896,7 @@ Many of these verbs seem to have a rather special meaning with a reflexive prono
 - Er widmet den heutigen Tag der Arbeit. Er widmet sich der Arbeit.
 - Ich schließe der Schule ein Internat an. Ich schließe mich dem Trauerzug an.
 
-** Notes **
+**Notes**
 
 The verb *vorstellen* has two different meanings. In this alternation it means 'to introduce' [@next a,b]. The other meaning 'to imagine' [@next c] has an obligatory dative reflexive (see [@sec:reflexive-obligatory-dative-accusative]).
 
@@ -915,7 +915,7 @@ a. Er bezichtigt mich des Mordes.
 b. Ich bezichtigte mich erfundener phantastischer Staatsverbrechen.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *bezichtigen*
 
@@ -934,7 +934,7 @@ b. Ich klopfe mir auf die Schulter.
 c. Er klopft sich auf die Schulter.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *klopfen, etc.*
 
@@ -949,11 +949,11 @@ c. Ich heule mir die Augen aus dem Kopf.
 d. Das Kind heult sich die Augen aus dem Kopf.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *heulen, schreien, trinken, etc.*
 
-** Examples **
+**Examples**
 
 - Unkontrollierbar von einer Seite zur anderen schaukelte das Kleinkind und heulte sich die Augen aus dem Kopf, als Rupa Joshi den Raum betrat.^[~~DWDS~~: Die Zeit, 11.05.2015, Nr. 19.]
 - Sven Hannawald schreit sich die Seele aus dem Leib.^[~~DWDS~~: Die Zeit, 07.01.2018.]
@@ -979,17 +979,17 @@ The scope of this section is very similar to Wiemer & Nedjalkov [-@wiemer2007], 
 
 *sich gegenseitig*, or *einander* without *sich*
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *achten, begrüßen, bekämpfen, belügen, bemerken, beruhigen, beschäftigen, brauchen, erwarten, finden, grüßen, glauben, hassen, hören, kennen, kreuzen, lieben, loben, mögen, pflegen, prügeln, schlagen, sehen, stören, suchen, treffen, treten, verachten, verdächtigen, verstehen, vertragen, wecken*
 
-** Examples **
+**Examples**
 
 - Karl achtet Anna. Karl und Anna achten sich. 
 - Der Weg kreuzt die Landstrasse. Die Strassen kreuzen sich.
 - Karl glaubt Anna. Karl und Anna glauben sich.
 
-** Notes **
+**Notes**
 
 *beschäftigen* in the meaning of 'to employ' [@next a] not 'to engage' [@next b]
 
@@ -1008,7 +1008,7 @@ b. Karl und der Junge vertrauen sich (gegenseitig).
 c. Wir vertrauen uns (gegenseitig).
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *ähneln, antworten, begegnen, danken, entgegen kommen, entgehen, entsprechen, folgen, gefallen, gegenüber treten, gleichen, gratulieren, helfen, imponieren, missfallen, nacheifern, schaden, vertrauen, zuhören*
 
@@ -1036,14 +1036,14 @@ c. Wir vertrauen uns (gegenseitig).
 
 Reflexive verbs with a preposition are needed for this! all prepositions with human arguments?
 
-** Attested Verbs **
+**Attested Verbs**
 
 - All verbs from: Obligatory Accusative *sich* with Preposition (e.g. *einigen, verlieben*)
 - All verbs from: *sich* Transitive Antipassive (e.g. *trennen, verbinden*)
 - All verbs from: *sich* Intransitive Reflexive (e.g. *sorgen, streiten, unterscheiden*)
 - Verbs with possibly two human participants from: *sich* Preposition Passive (e.g. *ärgern, interessieren, kümmern*)
 
-** Examples **
+**Examples**
 
 - Karl einigt sich mit Anna. Karl und Anna einigen sich (miteinander).
 - Karl trennt sich von Anna. Karl und Anna trennen sich (voneinander).
@@ -1067,7 +1067,7 @@ c. Das Buch handelt davon, dass er eine Weltreise macht.
 d. In diesem Buch handelt es sich darum, dass er eine Weltreise macht.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *handeln*
 
@@ -1109,14 +1109,14 @@ d. ^* Seine Wut zeigte sich durch den Mann.
 
 This alternation is probably more frequent in the Perfekt, because there is no focus on the action, but on the resulting state.
 
-** Attested Verbs **
+**Attested Verbs**
 
 - Change of position: *ändern, bewegen, drehen, lockern, öffnen, schließen, spalten, teilen, verschieben, versammeln*
 - Change of dimension: *abschwächen, ansparen, ausbreiten, ausdehnen, beschleunigen, beschränken, entfalten, erhöhen, erweitern, senken, steigern, verändern, verbessern, verbreiten, verdoppeln, verengen, vergrößern, verkleinern, verkürzen, verlangsamen, verlängern, vermehren, verringern, verstärken*
 - Change of physical state: *abkühlen, ablagern, ablösen, abnutzen, abschalten, abschwächen, abseilen, auflösen, aufwärmen, ausschalten, beziehen, einfügen, einschalten, eindrücken, entzünden, erwärmen, färben, festigen, füllen, gliedern, komplizieren, leeren, stürzen, verändern, verbessern, vereinfachen, verhaken, verschlechtern, verwandeln, wärmen*
 - Others: *ansammeln, bessern, bestätigen, erfüllen, entscheiden, konstituieren, lohnen, mildern, unterwerfen, wiederholen, zeigen*
 
-** Examples **
+**Examples**
 
 - Ich schließe den Schrank. Der Schrank schließt sich. 
 - Sie hat ein neues Kapitel in dem Buch eingefügt. Das Kapitel hat sich harmonisch in das Buch eingefügt.
@@ -1137,7 +1137,7 @@ This alternation is probably more frequent in the Perfekt, because there is no f
 - Ich bessere die Straße. Das Wetter bessert sich.
 - Er erfüllt meine Wünsche. Meine Wünsche erfüllen sich.
 
-** Notes **
+**Notes**
 
 The verb *stürzen* both has a bare anticausative alternation (a,b, see Section X) and a *sich* anticausative alternation [@next a,c]. In the present tense, this leads to an interesting opposition [@next d,e].
 
@@ -1179,11 +1179,11 @@ a. Ich schließe dir den Schrank.
 b. ^^?^ Der Schrank schließt sich dir.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *anbieten, aufdrängen, bieten, einprägen, empfehlen, erklären, erschließen, eröffnen, hinzufügen, nähern*
 
-** Examples **
+**Examples**
 
 - Ich füge dem Gesetz einen Paragraphen hinzu. Der Paragraph fügt sich dem Gesetz hinzu.
 - Er näherte seine Hand dem Lichtschalter. Seine Hand näherte sich dem Lichtschalter. 
@@ -1205,12 +1205,12 @@ b. Der Mann erinnert sich an den Krieg.
 c. Der Mann erinnert sich daran, dass er einen Termin beim Arzt hat.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *an*  : *erinnern, gewöhnen*
 - *auf* : *lenken*
 
-** Examples **
+**Examples**
 
 - Ich habe die Kinder an Ordnung gewöhnt. Die Kinder haben sich an Ordnung gewöhnt.
 - Der Zeuge lenkt den Verdacht auf den Ehemann. Der Verdacht lenkte sich auf den Ehemann.
@@ -1225,13 +1225,13 @@ b. Die Lampe verbindet sich nicht mit dem Stromnetz.
 c. Die Lampe und das Stromnetz verbinden sich nicht miteinander.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *mit* : *verbinden, vermischen, versöhnen*
 - *mit/von* : *ernähren, nähren*
 - *von* : *trennen, unterscheiden*
 
-** Examples **
+**Examples**
 
 - Meine Mutter nährt mich mit Milch. Ich nähre mich mit (von) Milch
 - Meine Mutter ernährt mich mit Früchten. Ich ernähre mich mit (von) den Früchten.
@@ -1250,11 +1250,11 @@ b. Ich habe den Faden durch das Nadelöhr gezogen.
 c. Die Straße hat sich früher durch das Dorf gezogen.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *häufen, ziehen*
 
-** Examples **
+**Examples**
 
 - Er häufte die Geschenke auf den Tisch. Die Geschenke häuften sich auf den Tisch.
 
@@ -1268,7 +1268,7 @@ b. Ich rechne damit, dass alles gut wird.
 c. Das Resultat rechnet sich (für mich).
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *rechnen*
 
@@ -1287,7 +1287,7 @@ d. ^* Der Kunde wird empört durch den Preis.
 
 In many of these verbs, the role of the reflexive argument appears to be more of an experiencer than a real agent. A German name like 'Erlebnispassiv' might be suitable for this diathesis.
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *über*  : (Object of emotional reaction): *aufregen, ärgern, begeistern, beschweren, empören, erschrecken, erstaunen, erzürnen, freuen, wundern*
 - *an*    : (Object of emotional reaction): *belustigen, brechen, stören, erfreuen, erheitern*
@@ -1301,7 +1301,7 @@ In many of these verbs, the role of the reflexive argument appears to be more of
 - *bei*   : *anstrengen, beruhigen, entsetzen*
 - *durch* : *auszeichnen, entspannen, lösen, verraten*
 
-** Examples **
+**Examples**
 
 - Der Klang freut den Komponisten. Der Komponist freut sich über den Klang.
 - Der Anblick entsetzt mich. Ich entsetze mich bei dem Anblick.
@@ -1341,7 +1341,7 @@ In many of these verbs, the role of the reflexive argument appears to be more of
 - diese Arznei löst den Schleim. Der Schleim löst sich durch diese Arznei.
 - Die Rede erzürnt mich. Ich erzürne mich über die Rede.
 
-** Notes **
+**Notes**
 
 The verb *sich verabschieden* [@next a] might also be thought of as an antipassive [@next b]. However, it possibly better seen as an anticausative, related to [@next c]. The reason is that the agent of [@next a] and the patient of [@next c] are both typically the participant who is leaving.
 
@@ -1359,11 +1359,11 @@ Reflexive diatheses are not used for promotion of arguments. The diathesis prese
 
 These alternations are ongoing replacements of old-fashioned constructions. The presence of a reflexive pronoun can probably best be interpreted as a side-effect of the old accusative being supplemented by a new nominative.
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *ekeln, grauen*
 
-** Examples **
+**Examples**
 
 - Mich ekelt (es) vor dem Spinat. Ich ekele mich vor dem Spinat.
 - Mich graut es. Ich graue mich.
@@ -1400,11 +1400,11 @@ b. Er verbrennt sich.
 c. ^* Er verbrennt sich und das Buch.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *abduschen, abhetzen, abwenden, anlehnen, anziehen, aufrichten, äußern, bewegen, erheben, hinlegen, hinsetzen, hinstellen, neigen, organisieren, recken, räkeln, schneiden, strecken, täuschen, verbrennen, verschlafen, verschlucken*
 
-** Examples **
+**Examples**
 
 - Er verschluckt die Tabletten. Er verschluckt sich.
 - Er verschläft die Veranstaltung. Er verschläft sich.
@@ -1417,7 +1417,7 @@ c. ^* Er verbrennt sich und das Buch.
 - Er hetzte das Pferd ab. Er hetzte sich ab.
 - Er täuscht mich. Er täuscht sich.
 
-** Notes **
+**Notes**
 
 The verb *äußern* 'to express' has a slightly different meaning depending on the animacy of the subject. With a human subject it normally signifies a verbal utterance [@next a], while with non-human subjects (who cannot speak) it more generally means 'to show' [@next b]. Crucially, with non-human subjects the pronoun *sich* is obligatory [@next c].
 
@@ -1443,11 +1443,11 @@ b. Er wirft sich aufs Bett.
 c. Die Frauen warfen sich und ihre Kinder vor mein Pferd und baten um Hilfe.^[~~DWDS~~: Die Zeit, 23.03.2005, Nr. 13.]
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *konzentrieren, legen, setzen, stellen, werfen*
 
-** Notes **
+**Notes**
 
 The verb *konzentrieren* 'to concentrate, to focus' also has an *auf* prepositional phrase, but it does not have a locative meaning. It still is a governed preposition though [@next].
 
@@ -1464,7 +1464,7 @@ a. Ich verweigere ihm die Einreise.
 b. Ich verweigere mich ihm.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *verweigern*
 
@@ -1480,17 +1480,17 @@ c. Ich treffe mich mit dir.
 d. ^* Ich treffe mich damit, dass du krank bist.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *befreunden, prügeln, schlagen, treffen, verstehen*
 
-** Examples **
+**Examples**
 
 - Ich schlage dich. Ich schlage mich mit dir.
 - Ich verstehe dich. Ich verstehe mich gut mit dir.
 - Ich prügle ihn. Ich prügle mich mit ihm.
 
-** Notes **
+**Notes**
 
 The verb *befreunden* 'to become friends' [@next a] seems to habe become acceptable with a bare accusative only recently in the context of social media [@next b]. Semantically, the difference between a one-sided and two-sided perspective found with the other verbs in this class is not relevant here.
 
@@ -1513,7 +1513,7 @@ d. Ich beklage mich.
 e. Ich beklage mich darüber, dass es so laut ist
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *an*   : *verschlucken, wagen*
 - *bei*  : *entscheiden, überstürzen*
@@ -1524,7 +1524,7 @@ e. Ich beklage mich darüber, dass es so laut ist
 - *vor*  : *distanzieren, fürchten, scheuen*
 - *zu*   : *bekennen*
 
-** Examples **
+**Examples**
 
 - Ich fürchte den Ausgang des Verfahrens. Ich fürchte mich vor dem Ausgang des Verfahrens.
 - Ich entschuldige den Vorfall. Ich entschuldige mich für den Vorfall.
@@ -1540,7 +1540,7 @@ e. Ich beklage mich darüber, dass es so laut ist
 - Ich trenne die Gruppe. Ich trenne mich von der Gruppe.
 - Er distanzierte den Gegner. Er distanzierte sich von seinem Gegner.
 
-** Notes **
+**Notes**
 
 There are two different roles with *entscheiden* that both allow for an antipassive alternation with reflexive, both for the roles of the 'problem', alternating with *bei* [@next a] and for the 'solution', alternating with *für* [@next b].
 
@@ -1574,11 +1574,11 @@ a. Der Eroberer unterwarf den Volksstamm.
 b. Der Volksstamm unterwarf sich dem Eroberer.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - Subordinate: *stellen, unterwerfen*
 
-** Examples **
+**Examples**
 
 - Der Polizist stellte den Einbrecher. Der Einbrecher stellte sich dem Polizisten.
 
@@ -1591,11 +1591,11 @@ a. Der Kranke erbarmt mich. ("Der Kranke erregte mein Mitleid.")
 b. Ich erbarmte mich des Kranken. ("Aus Mitleid kümmerte ich mich um den Kranken.")
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *erbarmen, erfreuen*
 
-** Examples **
+**Examples**
 
 - Das Geschenk erfreut mich. Ich erfreue mich bester Gesundheit.
 
@@ -1608,7 +1608,7 @@ a. Das Problem ist mir bewusst.
 b. Ich bin mir keiner Schuld bewust.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *bewusst sein*
 
@@ -1625,11 +1625,11 @@ c. Ich träume mich nach New York.
 d. ^* Ich träume mich.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *arbeiten, denken, fressen, kämpfen, lügen, träumen, zittern*
 
-** Examples **
+**Examples**
 
 - Er arbeitet an den Daten. Er arbeitet sich durch die Daten.
 - Ich kämpfe mit den Wellen. Ich kämpfe mich durch die Wellen.
@@ -1650,11 +1650,11 @@ a. Er nimmt das Problem an. ('akzeptieren')
 b. Er nimmt sich des Problemes an. ('kümmern')
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *annehmen, bedenken*
 
-** Examples **
+**Examples**
 
 - Ich bedenke einen Grund. ('beachten')
 - Ich bedenke mich eines Grundes. ('besinnen')

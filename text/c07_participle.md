@@ -424,7 +424,7 @@ b. Der Schauspieler ist bekannt/*gekannt
 
 - *bekannt, verrückt, verklemmt, verwandt*
 
-** Notes **
+**Notes**
 
 Eisenberg [-@eisenberg2006: 201] also mentions *entsetzt* 'appalled' as an idiomatic participle, but the Verb *entsetzen* 'to appall' seems to be perfectly possible as a finite verb [@next a]. The intended meaning from Eisenberg is then simply the anticausative 'Zustandspassiv' [@next b].
 
@@ -468,7 +468,7 @@ c. Er ist verhasst.
 - *be-*  : begabt, behaart, berindet, beschürzt, besternt
 - *ver-* : verhasst, verblümt, verwitwet
 
-** Notes **
+**Notes**
 
 The finite verb *zacken* 'to produce indentation' is also attested, though rare [@next a], so *gezackt* might not be a good example of a participle without finite usage. 
 
@@ -495,7 +495,7 @@ a. Ich bin einverstanden.
 b. ^* Ich verstehe ein.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *abgeneigt, angeheiratet, bekannt, einverstanden, zerschunden*
 
@@ -539,7 +539,7 @@ Asking "wie viel" is not always possible: only for unergatives? Idea: these are 
 
 ### [ ND | ND ] *haben + Partizip* Dative perfect
 
-** Attested Verbs **
+**Attested Verbs**
 
 - ähneln, angehören, antworten, beiliegen, beipflichten, bevorstehen, dienen, einleuchten, entsprechen, fehlen, gefallen, gehören, gelten, gleichen, gratulieren, helfen, imponieren, liegen, missfallen, nacheifern, passen, schaden, schmecken, sitzen, trauen, vertrauen, zuhören, zureden
 
@@ -649,11 +649,11 @@ b. Das gelungene Gemälde ...
 c. ^* Heute wird mir gelungen.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *auffallen, begegnen, beitreten, bleiben, einfallen, enteilen, entfliegen, entfliehen, entfließen, entgegen kommen,  entgehen, entgleiten, entkommen, entlaufen, entspringen, entsprießen, entsteigen, entstammen, entströmen, entwachsen, entweichen, entschlüpfen, entspringen, entwischen, erscheinen, folgen, gegenüber treten, gelingen, geschehen, glücken, passieren, unterlaufen, unterliegen, unterstehen, verfallen, weglaufen, weichen, widerfahren, zufallen, zulaufen, zustoßen*
 
-** Notes **
+**Notes**
 
 The verb *folgen* 'to follow' typically takes *sein*, but there appear to be incidental instances of *haben* [@next a], though this might be typical of a slightly different meaning 'to obey' [@next b].
 
@@ -847,17 +847,17 @@ a. Der Verlust betrifft mich.
 b. Der Verlust macht mich betroffen.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *betreffen, verbittern, verstören, verzagen*
 
-** Examples **
+**Examples**
 
 - Das Geschehen macht mich verbittert.
 - Der Bericht hat mich verstört gemacht.
 - Den Jäcklein hatte der getrunkene Wein verzagt und verstört gemacht.^[~~DWDS~~: Perutz, Leo: Die dritte Kugel, Reinbek bei Hamburg: Rowohlt 1988 [1915], S. 217.]
 
-** Notes **
+**Notes**
 
 There are various highly frequent examples of *machen + Partizip* in which the participle is not directly derived from a fintite verb.
 
@@ -1126,11 +1126,11 @@ a. Das Planschbecken stand im Garten aufgebaut.
 b. Die Worte stehen auf der Titelseite geschrieben.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *korrigieren, öffnen, schließen*
 
-** Examples **
+**Examples**
 
 - Vielleicht auch, weil er weiß, dass die Truppen hinter ihm nicht geschlossen stehen.^[~~DWDS~~: Berliner Zeitung, 12.10.2004.]
 - Wenn die SPD nicht geschlossen stehe, werde es schwierig, den Wahlkampf durchzustehen.^[~~DWDS~~: Die Zeit, 29.09.2012, Nr. 40.]
@@ -1262,15 +1262,15 @@ a. Die Polizei verdächtigt ihn.
 b. Er macht sich bei der Polizei verdächtigt.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *fürchten, verdächtigen*
 
-** Examples **
+**Examples**
 
 - Die Lehrer fürchten ihn. Er hat sich gefürchtet gemacht (bei den Lehrern).
 
-** Notes **
+**Notes**
 
 There are various *machen + sich + Partizip* konstruktions that do not appear to be transparently related anymore to the finite usage of the main verb, e.g.:
 
@@ -1434,7 +1434,7 @@ c. ^* Ich widere mich von dem Witz an.
 d. ^* Ich habe mich von dem Witz angewidert.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *von*  : *anekeln, anstrengen, anwidern, langweilen*
 - *über* : *amüsieren, aufregen, begeistern, entsetzen, enttäuschen, empören, erfreuen, erstaunen, erzürnen, überraschen, verärgern, verstören, verwundern*
@@ -1442,7 +1442,7 @@ d. ^* Ich habe mich von dem Witz angewidert.
 - *mit*  : *beschäftigen*
 - *durch*: *entspannen*
 
-** Examples **
+**Examples**
 
 - Der Geruch hat ihn angewidert. Er ist angewidert von dem Geruch.
 - Der Witz hat ihn amüsiert. Er ist amüsiert über den Witz.
@@ -1472,11 +1472,11 @@ a. Er liegt in der Kirche aufgebahrt.
 b. Das Geschenk liegt in der Schublade versteckt.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *begründen, beschließen, verbergen*
 
-** Examples **
+**Examples**
 
 - Trotz aller Fehltritte und Peinlichkeiten, die sich Hannah und Co. leisteten, vergaß Girls nicht, dass im größten Desaster immer auch die Hoffnung auf einen Neustart begründet liegt.^[~~DWDS~~: Die Zeit, 13.02.2017.]
 - Die Tatsachen aber sind hart, wie die Wahrheit, die in ihnen beschlossen liegt.^[~~DWDS~~: Die Zeit, 18.09.1964, Nr. 38.]
@@ -1493,11 +1493,11 @@ a. Ich begehre den Job wegen der Bezahlung.
 b. Die Bezahlung macht den Job begehrt.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *begehren, beschämen*
 
-** Examples **
+**Examples**
 
 - Sie beschämt mich durch ihre Großmut. Ihre Großmut macht mich beschämt.
 
@@ -1567,11 +1567,11 @@ a. Das Kind schläft ein.
 b. Sie weiß das Kind eingeschlafen.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *einschlafen*
 
-** Examples **
+**Examples**
 
 ### [ –N | NA ] *glauben + Partizip* Intransitive opiniative {#sec:participles-glauben-opinionator}
 
@@ -1580,11 +1580,11 @@ a. Der Sieg kommmt.
 a. Er glaubte den Sieg gekommen.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *einschlafen, kommen*
 
-** Examples **
+**Examples**
 
 - Als die Tochter des Hauses, die schon längst für Jean Pauls Romane schwärmte, ihn sicher eingeschlafen glaubte, trat sie leise ins Zimmer, um ihn recht nach Herzenslust zu betrachten.^[~~DWDS~~: Parthey, Gustav: Jugenderinnerungen. Bd. 2. Berlin, [1871].]
 
@@ -1596,11 +1596,11 @@ b. Viele Menschen sehen die UN bereits gescheitert. \
    (= Viele Menschen glauben, dass die UN bereits gescheitert ist.)
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *scheitern*
 
-** Examples **
+**Examples**
 
 - Während viele Nichtregierungsorganisationen die UN bereits gescheitert sehen, hat Weltbank-Präsident James Wolfensohn noch Hoffnung.^[~~DWDS~~: Berliner Zeitung, 26.01.2005 .]
 
@@ -1611,11 +1611,11 @@ a. Er wächst.
 b. Ich finde ihn gewachsen.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *gelingen, scheitern, wachsen*
 
-** Examples **
+**Examples**
 
 - Ich finde das Projekt gescheitert.
 - Ich finde das Kunstwerk sehr gelungen.
@@ -1629,11 +1629,11 @@ a. Das Archiv hebt den Nachlass auf.
 b. Ich weiß den Nachlass im Archiv gut aufgehoben.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *aufheben, lieben, regeln, unterstellen, verstehen*
 
-** Examples **
+**Examples**
 
 - Ich weiß die Ostgebiete dem Kontrollrat unterstellt.
 - ... wenn er die materiellen Fragen vor der Eheschließung geregelt weiß.^[~~DWDS~~: Gerling, Reinhold: Was muß man vor der Ehe von der Ehe wissen? In: ders., Das große Aufklärungswerk für Braut- und Eheleute, Dresden: Buchversand Gutenberg 1933 [1901], S. 207.]
@@ -1663,11 +1663,11 @@ b. Er glaubt das Seil vom Wind zerrissen. \
    (= Er glaubt, dass das Seil vom Wind zerrissen ist.)
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *benachteiligen, entschuldigen, erreichen, lieben, verfolgen, verlieren, verraten, zerreißen*
 
-** Examples **
+**Examples**
 
 - Er glaubte den Ring verloren.
 - Er glaubte den Sieg erreicht.
@@ -1685,11 +1685,11 @@ a. Der Autor bricht das Vertrauen.
 b. Die Zeitung sieht das Vertauen duch den Autor gebrochen.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *bestärken, bestätigen, brechen, nötigen, verpflichten, zwingen*
 
-** Examples **
+**Examples**
 
 - Während die WAZ das Vertrauen und den Gesellschaftervertrag gebrochen sieht und juristisch gegen Dichand vorgeht, wehrt sich Dichand publizistisch.^[~~DWDS~~: Der Tagesspiegel, 24.01.2003.]
 
@@ -1707,11 +1707,11 @@ a. Das Alter verändert mich.
 b. Du findest mich vom Alter verändert? 
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *bestätigen, nötigen, verändern*
 
-** Examples **
+**Examples**
 
 - Um die Sache zu prüfen, habe er im Urlaub mal einen Nacktbadestrand aufgesucht - und dort das Bild aus der Sauna bestätigt gefunden.^[~~DWDS~~: Die Zeit, 15.02.2016.]
 
@@ -1730,11 +1730,11 @@ a. Ich eigne mich durch meine Qualifikation für den Job.
 b. Die Qualifikation macht mich geeignet für den Job.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *besaufen, eignen, konzentrieren*
 
-** Examples **
+**Examples**
 
 - Ich konzentriere mich (durch den Kaffee). Der Kaffee macht mich konzentriert.
 - Ich besaufe mich (mit Wein). Der Wein macht mich besoffen.
@@ -1760,11 +1760,11 @@ a. Ich verliere den Ring.
 b. Der Ring geht mir verloren.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *gewinnen, verlieren*
 
-** Examples **
+**Examples**
 
 - Und mit ein wenig Glück hätte das Spiel auch gewonnen gehen können.^[~~DWDS~~: Die Zeit, 16.11.2013, Nr. 47.]
 - "Natürlich denke ich darüber nach, weshalb ich das tue", sagt sie jetzt, den Blick auf die Straße gerichtet, "wie viel Lebensqualität mir verloren geht, was das überhaupt bringt."^[~~DWDS~~: Die Zeit, 09.07.2017, Nr. 28.]
@@ -1781,7 +1781,7 @@ a. Er vergisst den Verlust.
 b. Ich mache den Verlust vergessen.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *vergessen*
 
@@ -1794,6 +1794,6 @@ a. Irgendjemand verliert den Ring.
 b. Ich gebe den Ring verloren.
 :::
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *verlieren*

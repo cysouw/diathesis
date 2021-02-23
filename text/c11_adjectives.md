@@ -113,13 +113,13 @@ Only adverb?: leidsam, mühsam, ratsam
 
 ### [ NA | H- ]
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *folgen, sparen, aufmerken, empfinden, wundern, heilen, folgen*
 - [ NAP | gAN ] instrument passives: *heilen, unterhalten*
 - kleiden (!?)
 
-** Examples **
+**Examples**
 
 - Der Schüler folgt den Lehrer. Der folgsame Schüler.
 - Die Frau hat alles aufgemerkt. Die aufmerksame Frau.
@@ -130,33 +130,33 @@ Only adverb?: leidsam, mühsam, ratsam
 
 ### [ ND | H- ]
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *bedeuten, einprägen*
 
-** Examples **
+**Examples**
 
 - Dieses Buch bedeutet mir viel. vs. Das bedeutsame Buch
 - Die Melodie hat sich mir eingeprägt. Die einprägsame Melodie
 
 ### [ NP | H- ]
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *achten, einfühlen, beharren, schweigen, sorgen*
 
-** Examples **
+**Examples**
 
 - Die Frau hat sich in ihrem Kind eingefühlt. Die einfühlsame Frau.
 - Die Frau hat auf ihrer Meinung beharrt. Die beharrsame Frau.
 
 ### [ N | H]
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *wirken, arbeiten, wachen*
 
-** Examples **
+**Examples**
 
 - Die Medizin wirkt gut. Die wirksame Medizin
 
@@ -168,57 +168,57 @@ Highly productive with transitive verbs
 
 "Für transitive Verben nach den Standardkriterien ›Akkusativobjekt und werden-Passiv‹ scheint die Bildung von bar-Adjektiven im Prinzip möglich zu sein" (Eisenberg 2013 Wort: 265)
 
-** Examples **
+**Examples**
 
 - Die Frau schenkt dem Jungen ein Buch. vs. Das dem Jungen schenkbare Buch ist schön.
 - Die Frau liest ein Buch. vs. Das (für die Frau) lesbare Buch ist schön.
 
 ### [ ND | -H]
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *vertrauen, ausweichen, widersprechen, zustimmen, nutzen, glauben*
 
-** Examples **
+**Examples**
 
 - Die Frau glaubt dem Jungen nicht. vs. Der (für die Frau) nicht glaubbare Junge ist schön. 
 
-** Notes **
+**Notes**
 
 The adjective *fehlbar* seems to derive from the noun *Fehler*, not the verb *fehlen*
 
 ### [ ND | HD ] 
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *danken*
 
-** Examples **
+**Examples**
 
 - Die Frau dankt dem Jungen. vs. Die dem Jungen dankbare Frau ist schön. Die Frau ist dem Jungen dankbar.
 
 ### [ NP | -H]
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *denken, verzichten*
 
-** Examples **
+**Examples**
 
 - Ich verzichte auf eine Feier. Die verzichtbare Feier
 - Ich denke über etwas. Der denkbare Ansatz.
 
 ### [ N | H]
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *brennen, sinken, gerinnen, streiten*
 
-** Examples **
+**Examples**
 
 - Das Boot sinkt. vs. Das sinkbare Boot ist schön.
 
-** Notes **
+**Notes**
 
 Not productive with most intransitives
 
@@ -233,24 +233,24 @@ https://www.dwds.de/wb/-lich
 
 ### [ NA | H- ]
 
-** Attested Verbs **
+**Attested Verbs**
 
 - [ NA | PN ] *sich*-passives: *ärgern, beschweren, erstaunen, wundern, erfreuen, entsetzen, trösten, unterhalten*
 - Others: *hindern, bedrohen, empfinden*
 
-** Examples **
+**Examples**
 
 - Der Vorgang erstaunt mich. vs. Der (für mich) erstaunliche Vorgang.
 - Der Künstler empfindet etwas. Der empfindliche Künstler
 
 ### [ NA | -H]
 
-** Attested Verbs **
+**Attested Verbs**
 
 - [ NA | -N ] *sich*-anticausative: *ändern, bewegen, verändern*
 - Other: *beachten, ertragen, erfordern, erhalten, bestechen, kosten*
 
-** Examples **
+**Examples**
 
 - Ich bewege meinen Arm. vs. Der (für mich) bewegliche Arm.
 - Ich koste den Kuchen. Der köstliche Kuchen. Der Kuchen ist köstlich.
@@ -258,11 +258,11 @@ https://www.dwds.de/wb/-lich
 
 ### [ ND | H- ]
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *ähneln, auffallen, schaden*
 
-** Examples **
+**Examples**
 
 - Der Sohn ähnelt seinem Vater. Der seinem Vater ähnliche Sohn.
 - Der Kurs schadet dem Gewinn. Der schadliche Kurs.
@@ -270,32 +270,32 @@ https://www.dwds.de/wb/-lich
 
 ### [ NAP | -\-H]
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *fördern, töten*
 
-** Examples **
+**Examples**
 
 - Der Lehrer fördert mich mit neuen Büchern. vs. Die (für mich) förderliche Bücher
 - Er tötet ihn mit einem Stich. Der (für mich) tötliche Stich.
 
 ### [ NP | -H]
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *dringen*
 
-** Examples **
+**Examples**
 
 - Der Gläubiger dringt auf Zahlung. Die dringliche Zahlung
 
 ### [ N | H]
 
-** Attested Verbs **
+**Attested Verbs**
 
 - *enden, sterben, nachdenken*
 
-** Examples **
+**Examples**
 
 - Die Geschichte endet. vs. Die endliche Geschichte
 - Der Mann denkt nach. Der nachdenkliche Mann.

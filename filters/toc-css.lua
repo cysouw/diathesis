@@ -21,13 +21,13 @@ css = [[
 <!-- CSS added by filter 'toc-css.lua' for TOC hovering to the side -->
 <style>
 body {
-  padding-left: 2cm;
+  padding-left: 1cm;
   padding-right: 1cm;
   transition: 0.5s;
 }
 nav {
   width: 1em;
-  margin-left: -1.5cm;
+  margin-left: -1cm;
   font-size: smaller;
   color: grey;
   transition: 0.5s;
@@ -48,7 +48,7 @@ nav a, nav a:visited {
 }
 nav h2:before {
   content: "≡ ";
-  font-size: larger;
+  font-size: 150%;
 }
 nav h2:after {
   content: " ◀";
