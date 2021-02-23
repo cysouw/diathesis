@@ -52,7 +52,6 @@ nav h2:before {
 }
 nav h2:after {
   content: " ◀";
-  font-size: larger;
 }
 nav li {
   margin-left: -0.5em;
@@ -92,7 +91,6 @@ nav ul li ul  {
 }
 .navside h2:after {
   content: " ▶";
-  font-size: larger;
 }
 .navshown {
   width: 50%;
@@ -120,12 +118,10 @@ script = [[
 
   const b = document.querySelector("body");
   const n = document.querySelector("nav");
-  const buttonsize = 15
+  const buttonsize = 15;
 
   // click on "toc-title" to show TOC to the side
   document.querySelector("#toc-title").addEventListener("click", function(e) {
-    console.log("clientX", e.clientX)
-    console.log("box", e.currentTarget.getBoundingClientRect().left)
     if (e.clientX < e.currentTarget.getBoundingClientRect().left + buttonsize) {
       n.classList.toggle("navshown");
     } else {
@@ -135,7 +131,7 @@ script = [[
     };
   });
 
-  // always show TOC in large window
+  // by default show TOC in large window
   window.onload = function() {
     if (window.innerWidth > 1000) {
       b.classList.add("bodysmall");
@@ -161,7 +157,7 @@ script = [[
         if (e.clientX < e.currentTarget.getBoundingClientRect().left + buttonsize) {
           li.classList.toggle('subShow');
           e.preventDefault();
-        }
+        };
       });
     };
   };
@@ -180,6 +176,9 @@ function addCSS (meta)
   -- add css to the end of "header-includes"
   current[#current+1] = pandoc.MetaBlocks(pandoc.RawBlock("html", css))
   meta['header-includes'] = current
+  if meta['toc-title'] == nil then
+    meta['toc-title'] = "CONTENTS"
+  end
   -- return metadata
   return(meta)
 end
