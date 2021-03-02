@@ -1260,7 +1260,7 @@ b. Ich sehe ihm die Müdigkeit an.
 
 ### [ Np | NA ] Preverb applicative {#sec:preverb-applicative}
 
-A widespread diathesis induced by a preverb is the change of a prepositional phrase into an accusative. An example is the alternation between *grenzen an* 'to border on' and *begrenzen* 'to limit' [@next], see e.g. Eroms [@eroms1980, Class 1b/III/IV; @kim1983: §1.1].
+A widespread diathesis induced by a preverb is the change of a prepositional phrase into an accusative. An example is the alternation between *grenzen an* 'to border on' and *begrenzen* 'to limit' [@next], see e.g. Eroms [@eroms1980, Class 1b/III/IV; @kim1983: §1.1]. The different subcategories below are organised by the prepositions that alternate with the accusatives.
 
 ::: ex
 a. Die Mauer grenzt an den Garten. 
@@ -1443,7 +1443,14 @@ The preposition *durch* only alternates with the preverb *durch-*.
 
 ### [ NP | NA ] Preverb governed applicative {#sec:preverb-governed-applicative}
 
+::: ex
+a. Ich arbeite an dem Text.
+b. Ich überarbeite den Text.
+:::
+
 #### *an* Preverb governed applicative
+
+**Attested Verbs**
 
 - beˈ    : *arbeiten, denken*
 - erˈ    : *arbeiten, denken, leiden*
@@ -1451,7 +1458,8 @@ The preposition *durch* only alternates with the preverb *durch-*.
 - durchˈ : *denken*
 - 'aus   : *arbeiten*
 
-- Ich arbeite an dem Text. Ich überarbeite den Text.
+**Examples**
+
 - Ich arbeite an dem Plan. Ich arbeite den Plan aus.
 - Die Klasse arbeitet an dem Begriff "Realismus". Die Klasse erarbeitet den Begriff "Realismus".
 - Ich denke an den Plan. Ich durchdenke den Plan.
@@ -1528,9 +1536,14 @@ The preposition *durch* only alternates with the preverb *durch-*.
 
 ### [ NP | NA ] Preverb reflexive governed applicative
 
-Counterexample to generalisation that non-self-inflicting reflexive pronouns are always accusative!
+The dative can probably always be interpreted as a benefactor, so it might be interpreted as a kind of *für* benefactive dative [@next a,b], see [@sec:prepositions-benefactive-dative]. The reflexive marking might not be necessary [@next c,d], then this diathesis would be a transparent stack of applicative +> benefactive dative +> self-inflicting reflexive.
 
-The dative can probably always be interpreted as the possessor of the accusative, so it might be interpreted as some kind of possessor raising.
+::: ex
+a. Ich bettele um ein Stück Brot (für mich).
+b. Ich erbettele mir ein Stück Brot.
+c. ^^?^ Ich erbettele ein Stück Brot.
+c. ^^?^ Ich erbettele dir ein Stück Brot.
+:::
 
 **Attested Verbs**
 
@@ -1540,7 +1553,6 @@ The dative can probably always be interpreted as the possessor of the accusative
 **Examples**
 
 - Ich hoffe auf einen schönen Geburtstag. Ich erhoffe mir einen schönen Geburtstag.
-- Ich bettele um ein Stück Brot. Ich erbettele mir ein Stück Brot.
 - Ich spiele um den Sieg. Ich habe mir den Sieg erspielt.
 - Ich denke an den Plan. Ich denke mir den Plan aus.
 
@@ -1614,7 +1626,7 @@ b. Ich dränge dir ein Abo auf.
 
 **Examples**
 
-- Ich stamme aus einem Adelsgeschlecht. Ich entstamme einem Adelsgeschlecht
+- Ich stamme aus einem Adelsgeschlecht. Ich entstamme einem Adelsgeschlecht.
 - Ich lache freundlich zu dir. Ich lache dir freundlich zu.
 - Der Wagen fuhr zu mir. Der Wagen fuhr auf mich zu.
 - Er arbeitet für mich. Er arbeitet mir zu.

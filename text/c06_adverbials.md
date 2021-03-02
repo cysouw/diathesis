@@ -663,8 +663,16 @@ b. Der Hund bellt die Kinder wach.
 This appears to be the most productive kind of diathesis with a resultative adverbial. An optional prepositional phrase of an intransitive verb like *niesen* 'to sneeze' [@next a] is reformulated as an accusative with the resultative adverbial, here *voll 'full' [@next b]. There are many different adverbials that induce this diatheses. The list presented below is in no way complete, but should be seen as a set of examples.
 
 ::: ex
-a. Ich habe (in das Taschentuch) geniest.
-b. Ich habe das Taschentuch voll geniest.
+a. Ich niese (in das Taschentuch).
+b. Ich niese das Taschentuch voll.
+:::
+
+This diathesis is also attested with governed prepositions
+
+::: ex
+a. Ich rede über dein Benehmen. \
+   Ich rede darüber, dass du dich gut benommen hast.
+b. Ich rede dein Benehmen gut.
 :::
 
 **Attested Verbs**
@@ -685,23 +693,22 @@ b. Ich habe das Taschentuch voll geniest.
 
 **Examples**
 
-- Ich habe in dem Teich gefischt. Ich habe den Teich leergefischt.
-- Ich rede über dein Benehmen. Ich rede dein Benehmen gut.
-- Ich quatsche mit ihm. Ich quatsche ihn voll.
-- Ich rede über die Reise. Ich rede (mir) die Reise schön.
-- Das Publikum lachte über die DDR. Und ein ganzes Stadion lachte mal kurz die DDR weg.
+- Ich fische in dem Teich. Ich fische den Teich leer.
 - Ich weine in das Taschentuch. Ich weine das Taschentuch nass.
 - Ich beiße auf meine Lippe. Ich beiße meine Lippe wund.
 - Ich sitze auf den Po. Ich sitze den Po wund.
 - Ich drehe an der Lautstärke. Ich drehe die Lautstärke hoch.
-- Ich diskutiere/boxe mit ihm. Ich diskutiere/boxe ihn nieder.
-- Ich bitte/bete um Vergebung. Ich bitte/bete den Gefangenen frei.
 - Ich heule in das Kissen. Ich heule das Kissen voll.
+- Ich quatsche mit ihm. Ich quatsche ihn voll.
+- Ich diskutiere/boxe mit ihm. Ich diskutiere/boxe ihn nieder.
+- Ich rede über die Reise. Ich rede (mir) die Reise schön.
+- Das Publikum lacht über die DDR. Und ein ganzes Stadion lachte mal kurz die DDR weg.
+- Ich bitte/bete um Vergebung. Ich bitte/bete den Gefangenen frei.
 - Ich bete für den Kranken. Ich bete den Kranken gesund.
 
 **Notes**
 
-Many of these verbs allow for the addition of an accusative result [@next a,b], see [@sec:case-accusative-addition]. The diathese between [@next b] and [@next c] then becomes an example of a full applicative, see [@sec:adverbial-full-applicative].
+Some of these verbs allow for the addition of an accusative result [@next a,b], see [@sec:case-accusative-addition]. The diathese between [@next b] and [@next c] then becomes an example of a full applicative, see [@sec:adverbial-full-applicative].
 
 ::: ex
 a. Ich laufe auf meinen neuen Schuhen.

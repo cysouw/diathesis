@@ -1754,7 +1754,12 @@ e. Der Hund hat ihm ins Bein gebissen.
 
 ### [ NALg | NALD ] Possessor-of-location to dative experiencer + accusative {#sec:prepositions-possessor-of-location-to-dative-experiencer-accusative}
 
-Similar to the previous alternation, the verbs in this group also alternate the possessor of the prepositional phrase with a dative. However, differently from the previous group, these verbs also have an accusative arguments. These verbs are either causative alternants of the verbs from the previous group or verbs that allow for a resultative alternation (see Section X).
+Similar to the previous alternation, the verbs in this group also alternate the possessor of the prepositional phrase with a dative. However, differently from the previous group, these verbs also have an accusative arguments. These verbs are either causative alternants of the verbs from the previous group or verbs that allow for a resultative alternation (see [@sec:prepositions-intransitive-location-as-result]).
+
+::: ex
+a. Ich lege den Brief auf deinen Schreibtisch.
+b. Ich lege dir den Brief auf den Schreibtisch.
+:::
 
 **Attested Verbs**
 
@@ -1766,7 +1771,6 @@ Similar to the previous alternation, the verbs in this group also alternate the 
 
 - ich setze das Kind auf deinen Schoß. Ich setze dir das Kind auf den Schoß.
 - Ich hänge den Pullover in deinen Schrank. Ich hänge dir den Pullover in den Schrank.
-- Ich lege den Brief auf deinen Schreibtisch. Ich lege dir den Brief auf den Schreibtisch.
 - Ich klebe einen Zettel auf deine Tür. Ich klebe dir einen Zettel auf die Tür.
 - Ich lehne den Besen an deinen Zaun. Ich lehne dir den Besen an den Zaun.
 - Ich klopfe den Schnee von deinem Mantel. Ich klopfe dir den Schnee von dem Mantel.

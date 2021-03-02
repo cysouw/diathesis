@@ -821,7 +821,7 @@ unmöglich?
 ### [ NA | NA ] *lassen + Partizip* Transitive durative {#sec:participles-lassen-durative}
 
 - Ich lasse die Tür geschlossen.
-- Ich lassen den Ferneher eingeschaltet.
+- Ich lasse den Ferneher eingeschaltet.
 
 DWDS: `$p=VVPP @gelassen &&! {betont, reagiert}`
 

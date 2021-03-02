@@ -23,7 +23,7 @@ header-includes:
     text-decoration: underline; 
   }
   .footnote-ref {
-    font-size: smaller;
+    font-size: small;
   }
   sup {
     vertical-align: top;
