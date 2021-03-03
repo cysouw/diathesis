@@ -44,11 +44,11 @@ NOTE: see also [@sec:infinitive-lassen-dative-reflexive-anticausative]
 
 There are six local groups of diatheses that seem prominent enough to be given a German name. I propose the following names for these:
 
-- ~~[OBJ › SBJ › Ø] Reflexivantikausativ~~ (see [@sec:reflexive-anticausative ff.])
+- ~~[OBJ › SBJ › Ø] Reflexiv Antikausativ~~ (see [@sec:reflexive-anticausative] ff.)
 - ~~[OBJ › SBJ › PBJ] Reflexiv Erlebnispassiv~~ (see [@sec:reflexive-preposition-passive])
-- ~~[OBJ › Ø] Endoreflexiv~~ (see [@sec:reflexive-accusative-drop ff.])
+- ~~[OBJ › Ø] Endoreflexiv~~ (see [@sec:reflexive-accusative-drop] ff.)
 - ~~[OBJ › ADJ] Reziprokativ~~ (see [@sec:reflexive-mit-antipassive])
-- ~~[OBJ › PBJ] Reflexiv Deakkusativ~~ (see [@sec:reflexive-accusative-antipassive])
+- ~~[OBJ › PBJ] Reflexiv Antipassiv~~ (see [@sec:reflexive-accusative-antipassive])
 - ~~[PBJ › PBJ] Reflexiv Resultativ~~ (see [@sec:reflexive-resultative])
 
 ## Characteristics of reflexive pronouns
@@ -1071,7 +1071,7 @@ d. In diesem Buch handelt es sich darum, dass er eine Weltreise macht.
 
 - *handeln*
 
-### --- [ OBJ > SBJ > Ø ] --- *Reflexivantikausativ* {.unnumbered}
+### --- [ OBJ > SBJ > Ø ] --- *Reflexiv Antikausativ* {.unnumbered}
 
 ### [ NA | –N ] Reflexive anticausative {#sec:reflexive-anticausative}
 
@@ -1472,12 +1472,12 @@ b. Ich verweigere mich ihm.
 
 ### [ NA | Np] Reflexive *mit* antipassive {#sec:reflexive-mit-antipassive}
 
-Reflexive antipassives with the preposition *mit* [@next a,b] show a non-governed prepositional phrase [@next c]. Semantically, this diathesis changes an action from a one-sided perspective towards a reciprocal perspective. The resulting construction of this diathesis is reminiscent of the 'real reciprocal' verbs (see [#sec:reflexive-real-reciprocals]).
+Reflexive antipassives with the preposition *mit* [@next a,b] show a non-governed prepositional phrase [@next c]. Semantically, this diathesis changes an action from a one-sided perspective towards a reciprocal perspective. The resulting construction of this diathesis is reminiscent of the 'real reciprocal' verbs (see [@sec:reflexive-real-reciprocals]).
 
 ::: ex
 a. Ich treffe dich.
-c. Ich treffe mich mit dir.
-d. ^* Ich treffe mich damit, dass du krank bist.
+b. Ich treffe mich mit dir.
+c. ^* Ich treffe mich damit, dass du krank bist.
 :::
 
 **Attested Verbs**
@@ -1499,7 +1499,7 @@ a. Ich befreunde mich mit ihm.
 b. Ich befreunde ihn.
 :::
 
-### --- [ OBJ > PBJ ] --- *Reflexive Deakkusativ* {.unnumbered}
+### --- [ OBJ > PBJ ] --- *Reflexive Antipassiv* {.unnumbered}
 
 ### [ NA | NP ] Reflexive governed antipassive {#sec:reflexive-accusative-antipassive}
 

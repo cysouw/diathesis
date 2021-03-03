@@ -1864,10 +1864,10 @@ c. Ich zerschneide das Blatt Papier.
 
 **Examples**
 
-- Er stopft die Kissen mit Federn. Er stopft Federn in die Kissen.
-- Er gießt die Blumen mit Wasser. Er gießt Wasser an die Blumen.
-- Ich säge den Baum zu Brettern. Ich säge Bretter aus dem Baum.
-- Ich breche die Wand in Stücken. Ich breche Stücke aus der Wand.
+- Er stopft Federn in die Kissen. Er stopft die Kissen (mit Federn).
+- Er gießt Wasser an die Blumen. Er gießt die Blumen (mit Wasser).
+- Ich breche Stücke aus der Wand. Ich breche die Wand in Stücken. 
+- Ich säge Bretter aus dem Baum. Ich säge den Baum zu Brettern.
 
 **Notes**
 

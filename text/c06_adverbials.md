@@ -376,16 +376,16 @@ b. Der Junge ist losgerannt. Der losgerannte Junge.
 **Attested Verbs**
 
 - *los* : *lachen, reden, rennen*
-- *leer/voll* : *laufen*
+- *leer* : *laufen*
 
 **Examples**
 
 - Er redet/lacht los.
-- Der Eimer läuft leer/voll.
+- Der Eimer läuft leer.
 
-### [ NA | NA ] Transitives + resultative adverbial
+### [ NA | NA ] Transitives + resultative adverbial {#sec:adverbials-transitive-resultative}
 
-This 
+With transitive verbs, the addition of a resultative adverb does not lead to any role remapping. This appears to be a frequent phenomenon and the examples given are just a few illustrative cases. The diathesis-free alternation of these verbs is quite different from the effect resultative adverbs have on many intransitive verbs (see [@sec:adverbials-applicative]).
 
 ::: ex
 a. Der Händler kauft die Sklaven.
@@ -396,10 +396,15 @@ b. Der Händler kauft die Sklaven frei.
 
 - *frei* : *kaufen*
 - *tot*  : *schießen*
+- *kaputt* : *kochen*
+- *platt* : *walzen*
+- *gut* : *machen*
 
 **Examples**
 
 - Ich schieße den Bären. Ich schieße den Bären tot.
+- Ich koche den Reis. Ich koche den Reis kaputt.
+- Er machte einen Fehler. Er machte seinen Fehler gut.
 
 ## Diatheses with subject demotion
 
@@ -635,6 +640,26 @@ b. Ich sehe mich satt an dem Gemälde.
 - Ich esse die Bouletten. Ich esse mich satt an den Bouletten.
 - Ich lese die Artikel. Ich lese mich satt an den Artikeln.
 
+### --- [ ADJ > OBJ > Ø ] --- {.unnumbered}
+
+### [ NpA | NA– ] Applicative + accusative drop + resultative adverbial {#sec:adverbial-applicative-drop}
+
+Adding a resultative adverbial to a transitive verb lead to an applicative diatheses. Any erstwhile prepositional phrase is turned into an accusative. With the adverbial *leer* it does not seem to be possible to retain the erstwhile accusative [@next]. In contrast, with the adverbial *voll* the retention of the accusative as a prepositional phrase is possible [@nnext].
+
+::: ex
+a. Ich kaufe ein Brot in dem Geschäft.
+b. Ich kaufe das Geschäft leer.
+:::
+
+**Attested Verbs**
+
+- *leer* : *essen, kaufen, pumpen*
+
+**Examples**
+
+- Ich esse die Kartoffel von dem Teller. Ich esse den Teller leer.
+- Ich pumpe das Wasser aus dem Keller. Ich pumpe den Keller leer.
+
 ## Diatheses with promotion to object
 
 ### --- [ Ø > OBJ ] --- {.unnumbered}
@@ -660,7 +685,7 @@ b. Der Hund bellt die Kinder wach.
 
 ### [ Np | NA ] Applicative + resultative adverbial {#sec:adverbials-applicative}
 
-This appears to be the most productive kind of diathesis with a resultative adverbial. An optional prepositional phrase of an intransitive verb like *niesen* 'to sneeze' [@next a] is reformulated as an accusative with the resultative adverbial, here *voll 'full' [@next b]. There are many different adverbials that induce this diatheses. The list presented below is in no way complete, but should be seen as a set of examples.
+This appears to be the most productive kind of diathesis with a resultative adverbial. An optional prepositional phrase of an intransitive verb like *niesen* 'to sneeze' [@next a] is reformulated as an accusative with the resultative adverbial, here *voll 'full' [@next b]. There are many different adverbials that induce this diatheses. The list presented below is in no way complete, but should just be seen as a set of random examples. With transitive verbs the addition of such resultative adverbs mostly does not lead to any role-remapping (see [@sec:adverbials-transitive-resultative]).
 
 ::: ex
 a. Ich niese (in das Taschentuch).
@@ -716,26 +741,6 @@ b. Ich laufe den Marathon auf meinen neuen Schuhen.
 c. Ich laufe meine Schuhe bei den Marathon platt/kaputt.
 :::
 
-### --- [ ADJ > OBJ > Ø ] --- {.unnumbered}
-
-### [ NpA | NA– ] Applicative + accusative drop + resultative adverbial {#sec:adverbial-applicative-drop}
-
-Adding a resultative adverbial to a transitive verb lead to an applicative diatheses. Any erstwhile prepositional phrase is turned into an accusative. With the adverbial *leer* it does not seem to be possible to retain the erstwhile accusative [@next]. In contrast, with the adverbial *voll* the retention of the accusative as a prepositional phrase is possible [@nnext].
-
-::: ex
-a. Ich kaufe ein Brot in dem Geschäft.
-b. Ich kaufe das Geschäft leer.
-:::
-
-**Attested Verbs**
-
-- *leer* : *essen, kaufen, pumpen*
-
-**Examples**
-
-- Ich esse die Kartoffel von dem Teller. Ich esse den Teller leer.
-- Ich pumpe das Wasser aus dem Keller. Ich pumpe den Keller leer.
-
 ## Symmetrical diatheses
 
 ### --- [ ADJ > OBJ > ADJ ] --- *Adverb Vollapplikativ* {.unnumbered}
@@ -757,7 +762,21 @@ b. Ich schenke das Glas voll (mit Wein).
 
 - Ich kritzele/schreibe Buchstaben in dem Buch. Ich kritzele/schreibe das Buch voll (mit Buchstaben).
 - Ich lade Heu auf den Wagen. Ich lade den Wagen voll (mit Heu).
-- Das Wasser läuft in die Badewanne. Die Badewanne läuft voll (mit Wasser).
 - Ich packe die Einkäufe in den Wagen. Ich packe den Wagen voll (mit Einkäufe).
 - Ich pumpe Luft in den Reifen. Ich pumpe den Reifen voll (mit Luft).
 - Ich tanke Benzin in das Auto. Ich tanke das Auto voll (mit Benzin).
+
+### --- [ ADJ > SBJ > ADJ ] ---
+
+### [ Np | pN ] Commutative + resultative adverbial
+
+With intransitives the adverbial *voll* can result in an adjunct commutative diathesis.
+
+::: ex
+a. Das Wasser läuft in die Badewanne.
+b. Die Badewanne läuft voll (mit Wasser).
+:::
+
+**Attested Verbs**
+
+- *voll* : *laufen*

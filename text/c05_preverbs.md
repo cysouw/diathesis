@@ -1613,7 +1613,7 @@ b. Ich dränge dir ein Abo auf.
 
 ### [ Np | ND ] Preverb dative applicative {#sec:preverb-dative-applicative}
 
-[zu *ent-*, sehe auch @eisenberg2013: 252]
+Some applicatives turn a prepositional phrase into a dative. Note that these are never governed prepositions [for *ent-*, see also @eisenberg2013: 252].
 
 **Atteste Verbs**
 
@@ -1714,133 +1714,141 @@ b. Das Haus erstrahlt in der Sonne.
 
 ### [ NpA | NAp ] Preverb applicative + *mit* antipassive {#sec:preverb-applicative-antipassive}
 
-In first alternant always a local preposition? Is this maybe a different alternation? In general, the prepositions are mostly not governed prepositions.
+::: ex
+a. Ich schreibe Buchstaben auf das Papier.
+b. Ich beschreibe das Papier mit Buchstaben.
+:::
+
+#### *an* Preverb full applicative
 
 **Attested Verbs**
 
-beˈ-
-
-- auf : *bauen, gießen, kleben, kleckern, kritzeln, laden, legen, packen, pflanzen, schmieren, schmeißen, schreiben, schütten, segeln, spritzen, sprühen, streichen, streuen, werfen*
-- an  : *hängen, liefern*
-- für : *kochen, singen*
-- über: *spannen*
-
-- Ich hänge die Bilder an die Wand. Ich behänge die Wand mit Bildern.
-- Ich pflanze Tulpen in das Beet. Ich bepflanze das Beet mit Tulpen.
-- Der Händler liefert die Waren an den Kaufmann. Der Händler beliefert den Kaufmann mit den Waren.
-- Ich schreibe Buchstaben auf das Papier. Ich beschreibe das Papier mit Buchstaben.
-- Ich lege Fließen auf den Boden. Ich belegen den Boden mit Fließen.
-- Ich segele mein Boot auf den See. Ich besegle den See mit meinem Boot.
-- Ich lege den Teppich auf den Flur. Ich belege den Flur mit dem Teppich
-
-verˈ-
-
-- um  : *binden*
-- vor : *bauen, stellen*
-- in  : *heizen, rauchen, stopfen*
-- an  : *füttern, nageln*
-- auf : *kleben*
-
-erˈ-
-
-- in  : *stechen*
-
-überˈ-
-[@eisenberg2013: 245-246]
-
-- über : *gießen, malen, pinseln, schütten, streichen, streuen, ziehen*
-- auf  : *bauen, kleben*
-
-durchˈ-
-
-- auf : *setzen*
-
-umˈ-
-
-- um : *stellen, wickeln*
-
-'an-
-
-- an  : *malen*
-
-'ein-
-
-- auf : *werfen*
-- in  : *füllen, massieren, reiben*
-
-'zu-
-
-- auf : *bauen, drücken, kleben*
-- in  : *mauern, schaufeln, schütten*
-- um  : *binden*
-
-'auf-
-
-- auf : *gießen*
-
-- Ich gieße Wasser auf den Tee. Ich gieße den Tee mit Wasser auf.
+- beˈ- : an  : *hängen, liefern*
+- verˈ- : an  : *füttern, nageln* 
+- 'an- : an  : *malen*
 
 **Examples**
 
-- Ich schmiere Salbe auf die Wunde. Ich beschmiere die Wunde mit Salbe.
-- Ich singe ein Lied für dich. Ich besinge dich mit einem Lied.
-- Ich kleckere die Tinte auf die Bluse. Ich bekleckere meine Bluse mit Tinte.
-- Ich binde einen Verband um die Wunde. Ich verbinde die Wunde mit einem Verband.
-- Ich verheize Kohle im Raum. Ich heize den Raum mit Kohle.
+- Ich hänge die Bilder an die Wand. Ich behänge die Wand mit Bildern.
+- Der Händler liefert die Waren an den Kaufmann. Der Händler beliefert den Kaufmann mit den Waren.
 - Ich verfüttere das Brot an die Enten. Ich füttere die Enten mit Brot.
-- Ich rauche eine Zigarette im Schlafzimmer. Ich verrauche das Schlafzimmer mit einer Zigarette.
 - Ich male ein Gemälde an die Wand. Ich male die Wand an mit einem Gemälde.
-- Ich gieße Wasser über die Blumen. Ich übergieße die Blumen mit Wasser.
-- Ich setze meine Leute auf die wichtigen Stellen im Betrieb. Ich durchsetze den Betrieb mit meinen Leuten.
-- Er hat den Schnaps eingefüllt (in die Flasche). Er füllt die Flasche (mit Schnaps). 
-- Ich massiere die Creme in den Muskel ein. Ich massiere den Muskel (mit einer Salbe). 
-- Ich werfe den Stein (auf das Fenster). Ich werfe das Fenster ein (mit einem Stein).
-- Ich klebe den Zettel auf die Tür. Ich verklebe die Tür mit dem Zettel.
-- Ich steche das Messer in den Mann. Ich ersteche den Mann mit dem Messer
-- Ich stelle Kerzen um das Grab. Ich umstelle das Grab mit Kerzen.
-- Die Baufirma baut neue Häuser auf die Freifläche. Die Baufirma baut die Freifläche mit Häusern zu.
-- Er mauert das Fundament in dem Loch. Er mauert das Loch mit dem Fundament zu.
-- Ich habe Kohle in den Keller geschaufelt. Ich habe den Keller mit Kohle zugeschaufelt.
-- Ich drücke meinen Finger auf die Wunde. Ich drücke die Wunde mit meinem Finger zu.
-- Ich binde einen Faden um das Paket. Ich binde das Paket mit dem Faden zu.
-- Ich klebe ein Pflaster auf die Lücke. Ich klebe die Lücke mit einem Pflaster zu.
-- Ich wickele ein Tuch um dich. Ich umwickele dich mit einem Tuch.
-- Ich streue Zucker über den Kuchen. Ich überstreue den Kuchen mit Zucker.
 
-### [ NpA | NAp ] Preverb applicative + *in* antipassive
+#### *auf* Preverb full applicative
 
 **Attested Verbs**
 
-beˈ-
+- beˈ- : *bauen, gießen, kleben, kleckern, kritzeln, laden, legen, packen, schmieren, schmeißen, schreiben, schütten, segeln, spritzen, sprühen, streichen, streuen, werfen*
+- verˈ- : *kleben*
+- überˈ- : *bauen, kleben*
+- durchˈ- : *setzen*
+- 'ein- : *werfen*
+- 'auf- : *gießen*
+- 'zu- : *bauen, drücken, kleben*
 
-- für/in  : *graben*
-- über/in : *schreiben*
+**Examples**
 
+- Ich schreibe Buchstaben auf das Papier. Ich beschreibe das Papier mit Buchstaben.
+- Ich segele mein Boot auf den See. Ich besegle den See mit meinem Boot.
+- Ich lege den Teppich auf den Flur. Ich belege den Flur mit dem Teppich
+- Ich gieße Wasser auf den Tee. Ich gieße den Tee mit Wasser auf.
+- Ich schmiere Salbe auf die Wunde. Ich beschmiere die Wunde mit Salbe.
+- Ich kleckere die Tinte auf die Bluse. Ich bekleckere meine Bluse mit Tinte.
+- Ich setze meine Leute auf die wichtigen Stellen im Betrieb. Ich durchsetze den Betrieb mit meinen Leuten.
+- Ich werfe den Stein auf das Fenster. Ich werfe das Fenster ein (mit einem Stein).
+- Ich klebe den Zettel auf die Tür. Ich verklebe die Tür mit dem Zettel.
+- Die Baufirma baut neue Häuser auf die Freifläche. Die Baufirma baut die Freifläche mit Häusern zu.
+- Ich drücke meinen Finger auf die Wunde. Ich drücke die Wunde mit meinem Finger zu.
+- Ich klebe ein Pflaster auf die Lücke. Ich klebe die Lücke mit einem Pflaster zu.
+- Ich lege Fließen auf den Boden. Ich belegen den Boden mit Fließen.
+
+#### *für* Preverb full applicative
+
+**Attested Verbs**
+
+- beˈ- : *kochen, singen*
+
+**Examples**
+
+- Ich singe ein Lied für dich. Ich besinge dich mit einem Lied.
+- Ich koche eine Suppe für dich. Ich bekoche dich mit einer Suppe.
+
+#### *in* Preverb full applicative
+
+**Attested Verbs**
+
+- beˈ- : *pflanzen*
+- erˈ- : *stechen*
+- verˈ- : *bauen, heizen, rauchen, stellen, stopfen*
+- 'ein- : *füllen, massieren, reiben*
+- 'zu- : *mauern, schaufeln, schütten*
+
+**Examples**
+
+- Ich pflanze Tulpen in das Beet. Ich bepflanze das Beet mit Tulpen.
+- Ich verheize Kohle im Raum. Ich heize den Raum mit Kohle.
+- Ich rauche eine Zigarette im Schlafzimmer. Ich verrauche das Schlafzimmer mit einer Zigarette.
+- Er hat den Schnaps eingefüllt (in die Flasche). Er füllt die Flasche (mit Schnaps). 
+- Ich massiere die Creme in den Muskel ein. Ich massiere den Muskel (mit einer Salbe). 
+- Ich steche das Messer in den Mann. Ich ersteche den Mann mit dem Messer
+- Er mauert das Fundament in dem Loch. Er mauert das Loch mit dem Fundament zu.
+- Ich habe Kohle in den Keller geschaufelt. Ich habe den Keller mit Kohle zugeschaufelt.
+- Ich stelle den Schrank im Korridor. Ich verstelle den Korridor mit dem Schrank.
+- Er hatte Feldsteinen in den Zugang gebaut. Er hatte den Zugang zu seinem Garten mit Feldsteinen verbaut.
+
+#### *über* Preverb full applicative
+
+[see @eisenberg2013: 245-246]
+
+**Attested Verbs**
+
+- beˈ- : *spannen*
+- überˈ- : *gießen, malen, pinseln, schütten, streichen, streuen, ziehen*
+
+**Examples**
+
+- Ich streue Zucker über den Kuchen. Ich überstreue den Kuchen mit Zucker.
+- Ich gieße Wasser über die Blumen. Ich übergieße die Blumen mit Wasser.
+
+#### *um* Preverb full applicative
+
+**Attested Verbs**
+
+- verˈ- : *binden*
+- umˈ- : *stellen, wickeln*
+- 'zu- : *binden*
+
+**Examples**
+
+- Ich binde einen Verband um die Wunde. Ich verbinde die Wunde mit einem Verband.
+- Ich stelle Kerzen um das Grab. Ich umstelle das Grab mit Kerzen.
+- Ich binde einen Faden um das Paket. Ich binde das Paket mit dem Faden zu.
+- Ich wickele ein Tuch um dich. Ich umwickele dich mit einem Tuch.
+
+### [ NpA | NAp ] Preverb applicative + *in* antipassive
+
+::: ex
+a. Ich grabe ein Loch für meinen Hund.
+b. Ich begrabe meinen Hund in dem Loch.
+:::
+
+**Attested Verbs**
+
+- beˈ- (für) : *graben*
+- beˈ- (über) : *schreiben*
+- verˈ- (für) : *graben, buddeln*
+- verˈ- (mit) : *bauen, backen*
+- 'ein- (für) : *graben*
+- 'ein- (um) : *wickeln*
+
+**Examples**
+
+- Ich grabe/buddele ein Loch für den Schatz. Ich vergrabe/verbuddele den Schatz im Loch.
+- Ich grabe ein Loch (in die Erde) für den Baum. Ich grabe den Baum in einem Loch (in die Erde) ein.
 - Ich schreibe (dir) einen Brief über mein Erlebnis. Ich beschreibe (dir) mein Erlebnis in einem Brief
-- Ich grabe ein Loch für meinen Hund. Ich begrabe meinen Hund in dem Loch.
-
-verˈ-
-
-- für/in  : *graben, buddeln*
-- mit/in  : *bauen, backen*
-
 - Ich backe einen Kuchen mit einem Kilo Mehl. Ich verbacke ein Kilo Mehl in dem Kuchen.
 - Ich baue ein Haus mit den Steinen. Ich verbaue die Steine in dem Haus.
-- Ich grabe/buddele ein Loch für den Schatz. Ich vergrabe/verbuddele den Schatz im Loch.
-
-durchˈ-
-
-- in/nach : *suchen*
-
-- Ich suche meine Brieftasche in meinem Zimmer. Ich durchsuche mein Zimmer nach meiner Brieftasche.
-
-'ein-
-
-- für/in : *graben*
-- um/in  : *wickeln*
-
 - Ich wickle das Tuch um den Arm. Ich wickle den Arm in dem Tuch ein.
-- Ich grabe ein Loch (in die Erde) für den Baum. Ich grabe den Baum in einem Loch (in die Erde) ein.
 
 ### --- [ PBJ > OBJ > ADJ ] --- {.unnumbered}
 

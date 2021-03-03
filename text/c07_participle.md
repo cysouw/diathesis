@@ -2,16 +2,14 @@
 
 ## Introduction
 
-The term ~~participle~~ is used here as a name for a verb form known in German grammar as *Partizip II*, for example a verb form like *geschrieben* 'written' in [@next]. There is another *Partizip*, known in German grammar as *Partizip I*, but this word form plays a much more restricted role in the expression of diatheses and will be discussed separately in Chapter [-@sec:adj]. 
-
-Constructions consisting of a participle combined with an auxiliary-like 'light' verb (i.e. a verb with limited lexical meaning) are manifold in German. They include constructions without diathesis, like the German *haben + Partizip* ~~Perfekt~~ [@next a], and constructions with diathesis, like the *werden + Partizip* ~~Vorgangspassiv~~ [@next b]. 
+The term ~~participle~~ is used here as a name for a verb form known in German grammar as *Partizip II*, for example a verb form like *geschrieben* 'written' in [@next]. There is another *Partizip*, known in German grammar as *Partizip I*, but this word form plays a much more restricted role in the expression of diatheses and will be discussed separately in Chapter [-@sec:adj]. Constructions consisting of a participle combined with an auxiliary-like 'light' verb (i.e. a verb with limited lexical meaning) are manifold in German. They include constructions without diathesis, like the German *haben + Partizip* ~~Perfekt~~ [@next a], and constructions with diathesis, like the *werden + Partizip* ~~Vorgangspassiv~~ [@next b]. 
 
 ::: ex
 a. Ich habe einen Brief geschrieben.
 b. Der Brief wurde geschrieben.
 :::
 
-Diatheses consisting of light verbs with participles are widely acknowledged as a central construction of German grammar. For example, the *werden + Partizip* passive is often seen as the quintessential example of a diathesis. Other similar constructions are also extensively discussed, like *sein + Partizip* [@next a], known as ~~Zustandspassiv~~ (see [@sec:participles-sein-zustandspassiv]), and *bekommen + Partizip* [@next b], known as ~~Rezipientenpassiv~~ (see [@sec:participles-bekommen-passive]). Many others, though, are only sporadically discussed, like *gehören + Partizip* [@next c], here called ~~Pflichtspassiv~~ (see [@sec:participles-gehoren-anticausative]).
+Diatheses consisting of light verbs with participles are widely acknowledged as a central construction of German grammar. For example, the *werden + Partizip* passive is often seen as the quintessential example of a diathesis. Other similar constructions are also extensively discussed, like *sein + Partizip* [@next a], known as ~~Zustandspassiv~~ (see [@sec:participles-sein-zustandspassiv]), and *bekommen + Partizip* [@next b], known as ~~Rezipientenpassiv~~ (see [@sec:participles-bekommen-passive]). Many others, though, are only sporadically discussed, like *gehören + Partizip* [@next c], here called ~~Normpassiv~~ (see [@sec:participles-gehoren-anticausative]).
 
 ::: ex
 a. Der Brief ist schon fertig geschrieben.
@@ -19,13 +17,13 @@ b. Er bekommt einen Brief geschrieben.
 b. Dieser Brief gehört geschrieben.
 :::
 
-This chapter is an attempt to provide a complete survey of light-verb constructions with participles in German. Care has to be taken to distinguish these from constructions in which the participle is used adverbially as a depictive secondary predicate. Both constructions superficially look very similar [@next a,b], but can be distinguished by various syntactic characteristics (see [@sec:participles-secondary-predicates]). For example, in subordinate constructions a depictive participle can stay together with the depicted noun and then possibly be separated from the light verb [@next c], while in a subordinated light-verb construction the participle always has to occur directly adjacent to the light verb [@next d].
+This chapter is an attempt to provide a complete survey of light-verb constructions with participles in German. Care has to be taken to distinguish light-verb constructions [@next a] from constructions in which the participle is used adverbially as a depictive secondary predicate [@next b]. Both constructions superficially look very similar, but can be distinguished by various syntactic characteristics (see [@sec:participles-secondary-predicates]). For example, in subordinate constructions a depictive participle can stay together with the depicted noun and then possibly be separated from the light verb [@next b], while in a light-verb construction the participle always has to occur directly adjacent to the light verb [@next a].
 
 ::: ex
-a. Er hinterlässt das Haus verschlossen.
-b. Er hält das Haus verschlossen.
-c. Es ist bekannt, dass er [das Haus *verschlossen*] den Kindern [hinterlässt].
-d. Es ist bekannt, dass er [das Haus] vor den Kindern [*verschlossen* hält].
+a. Er hält das Haus verschlossen. \
+   Es ist bekannt, dass er das Haus vor den Kindern *verschlossen* hält.
+b. Er hinterlässt das Haus verschlossen. \
+   Es ist bekannt, dass er das Haus *verschlossen* den Kindern hinterlässt.
 :::
 
 After all adverbial uses are discarded, there still turn out to be many auxiliary-like light verbs that can be combined with a participle into a grammaticalised construction. The attested light verbs are summarised below by their literal meaning, but it is crucial to realise that these literal meanings are mostly lost in the grammaticalised constructions with participles. Also note that various of these verbs only rarely occur as light verbs. All these light-verb constructions will be discussed in separate subsections throughout this chapter.
@@ -38,16 +36,16 @@ After all adverbial uses are discarded, there still turn out to be many auxiliar
 
 The following eleven diatheses seem prominent enough to grant them a German name. I propose the following names:
 
-- ~~[SBJ › Ø]~~ *werden* ~~Unpersönlicher Passiv~~ (see [@sec:participles-werden-impersonal-passive])
-- ~~[OBJ › SBJ › PBJ]~~ *sein* ~~Erlebnispassiv~~ (see [@sec:participles-sein-conversive])
-- ~~[OBJ › SBJ › ADJ]~~ *werden* ~~Vorgangspassiv~~ (see [@sec:participles-werden-passive])
-- ~~[OBJ › SBJ › ADJ]~~ *bekommen/kriegen/erhalten* ~~Rezipientenpassiv~~ (see [@sec:participles-bekommen-passive])
-- ~~[OBJ › SBJ › ADJ]~~ *sein* ~~Zustandspassiv~~ (see [@sec:participles-sein-zustandspassiv])
-- ~~[OBJ › SBJ › ADJ]~~ *gehören* ~~Normpassiv~~ (see [@sec:participles-gehoren-anticausative])
-- ~~[OBJ › SBJ › ADJ]~~ *haben* ~~Pertinenzpassiv~~ (see [@sec:participles-haben-passive])
-- ~~[OBJ › SBJ › Ø]~~ *bleiben* ~~Kontinuativpassiv~~ (see [@sec:participles-bleiben-transitive])
-- ~~[OBJ › SBJ › Ø]~~ *aussehen/(er)scheinen/wirken* ~~Apparitivantikausative~~ (see [@sec:participles-aussehen-anticausative ff.])
+- ~~[SBJ › Ø]~~ *werden* ~~Unpersönlicher Vorgangspassiv~~ (see [@sec:participles-werden-impersonal-passive])
+- ~~[OBJ › SBJ › Ø]~~ *bleiben* ~~Kontinuativantikausativ~~ (see [@sec:participles-bleiben-transitive])
+- ~~[OBJ › SBJ › Ø]~~ *aussehen/scheinen/wirken* ~~Apparitivantikausativ~~ (see [@sec:participles-aussehen-anticausative])
 - ~~[OBJ › SBJ › Ø]~~ *geben/zeigen* ~~Präsentativantikausativ~~ (see [@sec:participles-geben-reflexive-anticausative])
+- ~~[OBJ › SBJ › PBJ]~~ *sein* ~~Erlebnispassiv~~ (see [@sec:participles-sein-conversive])
+- ~~[OBJ › SBJ › ADJ]~~ *sein* ~~Zustandspassiv~~ (see [@sec:participles-sein-zustandspassiv])
+- ~~[OBJ › SBJ › ADJ]~~ *werden* ~~Vorgangspassiv~~ (see [@sec:participles-werden-passive])
+- ~~[OBJ › SBJ › ADJ]~~ *gehören* ~~Normpassiv~~ (see [@sec:participles-gehoren-anticausative])
+- ~~[OBJ › SBJ › ADJ]~~ *bekommen* ~~Rezipientenpassiv~~ (see [@sec:participles-bekommen-passive])
+- ~~[OBJ › SBJ › ADJ]~~ *haben* ~~Pertinenzpassiv~~ (see [@sec:participles-haben-passive])
 - ~~[Ø › SBJ › OBJ/ADJ]~~ *wissen/glauben/sehen/finden* ~~Opiniativ~~ (see [@sec:participles-promotion-to-subject ff.])
 
 ## Characterising participle constructions
@@ -964,7 +962,7 @@ Keine anderen guten Beispiele, nur mit *gefangen*.
 
 ## Diatheses with subject demotion
 
-### --- [ SBJ > Ø ] --- *Unpersönlicher Passiv* {.unnumbered}
+### --- [ SBJ > Ø ] --- *Unpersönlicher Vorgangspassiv* {.unnumbered}
 
 ### [ N | – ] *werden + Partizip* Impersonal passive {#sec:participles-werden-impersonal-passive}
 
@@ -1042,7 +1040,7 @@ With *sein*-dative verbs it seems to be even rarer, it at all possible
 
 ### --- [ OBJ > SBJ > Ø ] --- {.unnumbered}
 
-### [ NA | –N ] *bleiben + Partizip* anticausative (*Kontinuativpassiv*) {#sec:participles-bleiben-transitive}
+### [ NA | –N ] *bleiben + Partizip* anticausative (*Kontinuativantikausativ*) {#sec:participles-bleiben-transitive}
 
 The name Kontinuativpassiv is inspired by Helbig & Buscha [-@helbig2001: 163].
 
@@ -1062,7 +1060,7 @@ nicht im Perfekt? * Die Tür ist geschlossen geblieben
 
 [@lasch2016: 72; @eroms2000: 404; @kramer2004]
 
-### [ NA | –N ] *geben/zeigen + Partizip* Reflexive anticausative (*Erscheinungspassiv*) {#sec:participles-geben-reflexive-anticausative}
+### [ NA | –N ] *geben/zeigen + Partizip* Reflexive anticausative (*Präsentativantikausativ*) {#sec:participles-geben-reflexive-anticausative}
 
 geben Mit reflexivprononem!
 
@@ -1088,7 +1086,7 @@ zeigen: *motivieren, überzeugen, erfüllen, befriedigen, ermutigen*
 Etwas motiviert das Orchester.
 Auch das Orchester zeigte sich motiviert.^[~~DWDS~~: Die Zeit, 08.04.1999, Nr. 15]
 
-### [ NA | –N ] *aussehen/(er)scheinen/wirken + Partizip* Anticausative (*Apparitivpassiv*) {#sec:participles-aussehen-anticausative}
+### [ NA | –N ] *aussehen/(er)scheinen/wirken + Partizip* Anticausative (*Apparitivantikausativ*) {#sec:participles-aussehen-anticausative}
 
 lat. apparere 'to appear'
 
