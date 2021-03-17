@@ -546,7 +546,7 @@ c. Morgen lese ich den ganzen Tag.
 - Er zählt die Stimmen. Er zählt leise vor sich hin.
 - Die Kinder zerstören die Sandburg. Kinder zerstören gerne.
 
-### [ NA | N– ] Endoreflexiv + depictive adverbial
+### [ NA | N– ] Endoreflexiv + depictive adverbial {#sec:adverbials-endoreflexive}
 
 Similar to endoreflexiv ([@sec:reflexive-accusative-drop]), but with obligatory depictive adverbial [@next].
 
@@ -580,9 +580,9 @@ d. Ich meine es.
 - Ich meine dich. Ich meine es ernst.
 - Wir haben viel Geld. Wir haben es gut.
 
-### --- [ PBJ > Ø ] --- *Adverb Antiresultativ* {.unnumbered}
+### --- [ PBJ > ADJ ] --- *Adverb Antiresultativ* {.unnumbered}
 
-### [ NAL | NA– ] Transitive location drop + resultative adverbial {#sec:adverbs-antiresultative}
+### [ NAL | NAp ] Transitive location drop + resultative adverbial {#sec:adverbs-antiresultative}
 
 The locational prepositional phrase with verbs like *binden* 'to tie' is obligatory [@next]. In contrast, when adding a resultative adverbial to form *losbinden* 'to untie' the locational phrase is not obligatory anymore [@next c,d], cf. [@sec:preverb-transitive-antiresultative]. I currently only know of examples of this diathesis with adverbials *los*, *fest* and *weg*. However, I do not see any reason for other adverbials to be impossible.
 
@@ -606,7 +606,18 @@ d. Ich binde den Hund los.
 - Ich stecke das Geld in meiner Tasche. Ich stecke das Geld weg.
 - Die Arbeiter klopfen die Pflastersteine in den Bürgersteig. Die Arbeiter klopfen die letzten Pflastersteine fest.^[~~DWDS~~: Bild, 28.04.2005.]
 
-### [ NL | N– ] Intransitive location drop + reflexive + resultative adverbial
+### [ NL | Np ] Intransitive location drop + resultative adverbial
+
+::: ex
+a. Das Wasser läuft in die Badewanne.
+b. Die Badewanne läuft voll (mit Wasser).
+:::
+
+**Attested Verbs**
+
+- *voll* : *laufen*
+
+### [ NL | Np ] Intransitive location drop + reflexive + resultative adverbial
 
 Similar to the previous group, some intransitives with obligatory location [@next a,b] can be used without this location when an adverbial is added [@next c]. However, with intransitives an additional reflexive pronoun is necessary.
 
@@ -766,17 +777,3 @@ b. Ich schenke das Glas voll (mit Wein).
 - Ich pumpe Luft in den Reifen. Ich pumpe den Reifen voll (mit Luft).
 - Ich tanke Benzin in das Auto. Ich tanke das Auto voll (mit Benzin).
 
-### --- [ ADJ > SBJ > ADJ ] ---
-
-### [ Np | pN ] Commutative + resultative adverbial
-
-With intransitives the adverbial *voll* can result in an adjunct commutative diathesis.
-
-::: ex
-a. Das Wasser läuft in die Badewanne.
-b. Die Badewanne läuft voll (mit Wasser).
-:::
-
-**Attested Verbs**
-
-- *voll* : *laufen*

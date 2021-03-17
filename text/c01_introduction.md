@@ -28,7 +28,7 @@ All in all, there are about 250 different German diatheses described in this boo
 
 It might come as a surprise that there are so many different diatheses in German, but my impression is that German is no exception among the world's languages in this respect. I expect that all languages have a wealth of different ways in which to construe a sentence around a lexical predicate. In a sense, diatheses allow for the expression of different perspectives on the event described, something that is arguably a common desire of any language user.
 
-This first chapter summarises the basic definitional properties of diathesis. The next Chapter [-@sec:structure] describes in detail how diatheses are analysed and classified. Chapter [-@sec:summary] presents a summary of the 60+ major German diatheses and proposes German names for those structures. Chapters [-@sec:case] to [-@sec:zuminfinitive] are the main, almost database-like, chapters discussing each sentence structure separately. Finally, Chapters [-@sec:adj] to [-@sec:subordination] discuss additional phenomena that are related to diathesis.
+This first chapter summarises the basic definitional properties of diathesis. The next Chapter [-@sec:structure] describes in detail how diatheses are analysed and classified. Chapter [-@sec:summary] presents a summary of the 70+ major German diatheses and proposes German names for those structures. Chapters [-@sec:case] to [-@sec:zuminfinitive] are the main, almost database-like, chapters discussing each sentence structure separately. Finally, Chapters [-@sec:adj] to [-@sec:subordination] discuss additional phenomena that are related to diathesis.
 
 In this book, each diathesis has its own sub-subsection with an unique section header that can be used as a name to refer to the diathesis (e.g. [@sec:participles-werden-passive] on the "*werden + Partizip* passive"). Many of these unique names are quite boring, but hopefully descriptively useful for future reference. Individual verbs (often with concrete examples) are listed with each diathesis to show the extend of its applicability. Neither these lists of verbs nor the examples are intended to be exhaustive in any way. They should be seen as a first step towards more in-depth research into individual diatheses or into the different constructional possibilities that exist for individual verbs.
 
@@ -713,7 +713,7 @@ Among chained diatheses there is a group of frequently recurring remapping patte
 
 ### Multi-chained diatheses
 
-~~multi-chained diatheses~~ consist of combinations of more than two role-remappings that occur in a sequence. This occurs frequently as the result of a stack of multiple diatheses, but only very rarely in a single diathesis. As an example arising from a stack of multiple diatheses consider taking a verb like *lesen* 'to read' [@next a] and applying a stack of two diatheses [@next b,c]. This leads to a chain of three role-remappings. First, the preverb diathesis with *vor-* [@next b] leads to the addition of a dative argument *dem Jungen*, i.e. a role-remapping ~~[Ø › OBJ]~~, see [@sec:preverb-dative-additions]. On top of that, the *bekommen* dative passive [@next c] promotes this dative to subject and removes the original subject, i.e. a role-remapping ~~[OBJ › SBJ › Ø]~~, see [@sec:participles-bekommen-passive]. Combined, these two diatheses lead to a role-remapping ~~[Ø › OBJ › SBJ › Ø]~~.
+~~multi-chained diatheses~~ consist of combinations of more than two role-remappings that occur in a sequence. This occurs frequently as the result of a stack of multiple diatheses, but only very rarely in a single diathesis. As an example arising from a stack of multiple diatheses consider taking a verb like *lesen* 'to read' [@next a] and applying a stack of two diatheses [@next b,c]. This leads to a chain of three role-remappings. First, the preverb diathesis with *vor-* [@next b] leads to the addition of a dative argument *dem Jungen*, i.e. a role-remapping ~~[Ø › OBJ]~~, see [@sec:preverb-dative-addition-accusative]. On top of that, the *bekommen* dative passive [@next c] promotes this dative to subject and removes the original subject, i.e. a role-remapping ~~[OBJ › SBJ › Ø]~~, see [@sec:participles-bekommen-passive]. Combined, these two diatheses lead to a role-remapping ~~[Ø › OBJ › SBJ › Ø]~~.
 
 ::: ex
 ~~[Ø › OBJ › SBJ › Ø]~~
@@ -1085,11 +1085,14 @@ b. Der Platz wimmelt von Kindern.
 
 ### Isolated object diatheses
 
-The situation with object diatheses is reversed from the previously discussed subject diatheses. With object diatheses, isolated diatheses are much more widespread and they occur with a wide variety of role-remappings, see [@fig:objectdiatheses]. In contrast, chained diatheses are less widespread and can always be analysed as a combination of multiple isolated diatheses.^[The lower right part of the figure is left empty because such alternations are not diatheses. The dropping or addition is expected behaviour for an adjunct, and a change from zero to zero amounts to nothing.]
+The situation with object diatheses is reversed from the previously discussed subject diatheses. With object diatheses, isolated diatheses are much more widespread and they occur with a wide variety of role-remappings, see [@fig:objectdiatheses]. In contrast, chained diatheses are less widespread and can mostly be analysed as a combination of multiple isolated diatheses.
+
+The top left diatheses in [@fig:objectdiatheses] are demotions, while the bottom left ones are promotions.
+The bottom right is completely empty because these remappings are not diatheses anymore, but simply optional marking. There is a strong tendency for object demotions to be either unmarked or marked by reflexive pronouns in German, while the object promotions are typically marked by preverbs or obligatory adverbs. The exception to this generalisation are the so-called locative and delocative diatheses. With those, promotions (locatives) are formally unmarked, while demotions (delocatives) are marked by preverbs or obligatory adverbs. I have currently no explanation for this rather clear markedness pattern.
 
 ![Names for isolated remappings without involvement of the subject](figures/objectdiatheses.png){#fig:objectdiatheses}
 
-I will discuss the different role-remappings from [@fig:objectdiatheses] in three subsections. First, I will look at the various kinds of applicatives and antipassives (mid left and mid top), then at the drops and additions (right and bottom), and finally at the symmetrical exchanges (on the diagonal). Note that the bottom right part of [@fig:objectdiatheses] is completely empty because these remappings are no diatheses anymore.
+I will discuss the different role-remappings from [@fig:objectdiatheses] in four subsections. First, I will look at the various kinds of applicatives and antipassives (mid left and mid top), then at the objectives and deobjectives (top right and left bottom), followed by locative and delocative diatheses (mid bottom and mid right), and finally at the symmetrical exchanges (on the diagonal).
 
 #### Applicatives & antipassives {.unnumbered}
 
@@ -1134,30 +1137,30 @@ In the discussion of diatheses in this book I consistently distinguish ~~governe
 ::: ex
 ~~Governed applicative [PBJ › OBJ]~~ 
 
-a. Ich arbeite an dem Text.
-b. Ich arbeite daran, dass der Text fertig wird.
+a. Ich arbeite an dem Text. \
+   Ich arbeite daran, dass der Text fertig wird.
 b. Ich bearbeite den Text.
 :::
 
 ::: ex
 ~~Governed antipassives [OBJ › PBJ]~~
 
-a. Ich beklage den Lärm.
-b. Ich beklage mich über den Lärm.
-c. Ich beklage mich darüber, dass es so laut ist.
+a. Ich beklage den Lärm. \
+   Ich beklage mich über den Lärm.
+b. Ich beklage mich darüber, dass es so laut ist.
 :::
 
 There are a many diatheses with a role-remapping between adjunct and object that do not have any overt indication of a direction. Without explicit marking it is difficult to decide whether such diatheses are cases of (applicative) promotion ~~[ADJ › OBJ]~~ or (antipassive) demotion ~~[OBJ › ADJ]~~. For the sake of organisation in this book I classify such covert alternations on the basis of (debatable) semantic intuitions.
 
-Most covert diatheses with an alternation between prepositional phrases and case-marked arguments are classified here as ~~antipassive~~, like in the alternation between *schießen auf* 'to aim at' and *schießen* 'to shoot' [@next a,b], see [@sec:prepositions-accusative-antipassive]. This is also widespread with datives [@next c,d], see [@sec:prepositions-dative-antipassive-accusative]. In such examples, I judge the case-marking to be more basic than the prepositional phrase. In contrast, there is a widespread alternation between datives and *für* prepositional phrases [@next], that I classify as an ~~applicative~~, see [@sec:prepositions-benefactive-dative]. In this example the dative seems to be the derived construction.
+Most covert diatheses with an alternation between prepositional phrases and case-marked arguments are classified here as ~~antipassive~~, like in the alternation between *schießen auf* 'to aim at' and *schießen* 'to shoot' [@next a], see [@sec:prepositions-accusative-antipassive]. This is also widespread with datives [@next b], see [@sec:prepositions-dative-antipassive-accusative]. In such examples, I judge the case-marking to be more basic than the prepositional phrase. In contrast, there is a widespread alternation between datives and *für* prepositional phrases [@next], that I classify as an ~~applicative~~, see [@sec:prepositions-benefactive-dative]. In this example the dative seems to be the derived construction.
 
 ::: ex
 ~~Covert antipassive [OBJ › ADJ]~~
 
-a. Ich schieße den Bären.
-b. Ich schieße auf den Bären.
-c. Ich schreibe dir einen Brief.
-d. Ich schreibe einen Brief an dich.
+a. Ich schieße den Bären. \
+   Ich schieße auf den Bären.
+b. Ich schreibe dir einen Brief. \
+   Ich schreibe einen Brief an dich.
 :::
 
 ::: ex
@@ -1185,64 +1188,95 @@ b. Ich schneide dir in den (deinen) Finger. \
     (= Ich schneide in deinen Finger.)
 :::
 
-#### Additions & drops {.unnumbered}
+#### Objectives & deobjectives {.unnumbered}
 
-An ~~object addition [Ø › OBJ]~~ is a diathesis that adds a new object, i.e. a completely new role is introduced in the form of an object. An example of an overtly marked object addition is the alternation from *zaubern* 'to perform magic' to  *verzaubern* 'to enchant' [@next]. Additions are frequently attested with preverbs like *ver-*, see [@sec:preverb-accusative-addition].
+A ~~deobjective diathesis [OBJ › Ø]~~ is a diathesis that drops an object, i.e. a role cannot be expressed anymore [the term is taken from @haspelmath2004c: 1131]. A deobjective drop is illustrated in [@next] with an alternation from *kaufen* 'to buy' to *einkaufen* 'to shop', see [@sec:preverb-accusative-drop] for an extensive discussion.
 
 ::: ex
-~~Object addition [Ø › OBJ]~~
+~~Deobjective [OBJ › Ø]~~
+
+a. Ich habe gestern ein Buch gekauft.
+b. Ich habe gestern eingekauft.
+:::
+
+A special variant of a deobjective occurs with verbs that apply to the body, like *verbrennen* 'to burn' [@next]. In such constructions, a reflexive pronoun is necessary. This diathesis is called ~~endoreflexive~~ [@haspelmath1987: 27-28], see [@sec:reflexive-accusative-drop] for an extensive discussion.
+
+::: ex
+~~Deobjective (endoreflexive) [OBJ › Ø]~~
+
+a. Er verbrennt das Buch.
+b. Er verbrennt sich.
+:::
+
+An ~~objective diathesis [Ø › OBJ]~~ is a diathesis that adds a new object, i.e. a completely new role is introduced in the form of an object. An example of an overtly marked object addition is the alternation from *zaubern* 'to perform magic' to  *verzaubern* 'to enchant' [@next]. Additions are frequently attested with preverbs like *ver-*, see [@sec:preverb-accusative-addition].
+
+::: ex
+~~Objective [Ø › OBJ]~~
 
 a. Sie zaubert.
 b. Sie verzaubert mich.
 :::
 
-An ~~object drop [OBJ › Ø]~~ is a diathesis that drops an object, i.e. a role cannot be expressed anymore [cf. "deobjective" in @haspelmath2004c: 1131]. An object drop is illustrated in [@next] with an alternation from *schenken* 'to gift' to *verschenken* 'to give away'. Interestingly, this example is again marked on the verb by the preverb *ver-*, see [@sec:preverb-dative-drop].
+A semantically special subgroup of object additions are ~~resultatives~~. A resultative diatheses adds an object that is the result of performing the predicate.^[Confusingly, the term "resultative" is also used in the literature with an aspectual meaning, namely to indicate a special kind of state induced as the result of performing the predicate [e.g. @nedjalkov1988a].] An overtly marked resultative is illustrated in [@next] with the diathesis between *arbeiten* 'to work' and the inherent reflexive *sich etwas erarbeiten* 'to acquire something through work', see [@sec:preverb-reflexive-resultative]. The result of the work is added as an object in [@next b].
 
 ::: ex
-~~Object drop [OBJ › Ø]~~
+~~Objective (resultative) [Ø › OBJ]~~
 
-a. Ich schenke dir meine Bücher.
-b. Ich verschenke meine Bücher.
+a. Ich arbeite.
+b. Ich erarbeite mir ein Vermögen. \
+   (= Ich arbeite, und dadurch habe ich ein Vermögen.)
 :::
 
-Object drop and addition are frequently attested without any overt marking (cf. ambitransitive/labile verbs), and in such 'covert' diatheses it is difficult to establish a direction. As already noted in the previous section, for the sake of organisation in this book I classify such covert alternations on the basis of (debatable) semantic intuitions. For example, the verb *stören* 'to disturb' [@next] can be used both with and without an accusative object, see [@sec:case-accusative-drop]. This is classified here as an object drop diathesis. Such unmarked drops are also attested with datives, see [@sec:case-dative-drop], and with governed prepositions, see [@sec:prepositions-demotion-of-object].
+Objectives and deobjectives are frequently attested without any overt marking (cf. ambitransitive/labile verbs), and in such 'covert' diatheses it is difficult to establish a direction. As already noted in the previous section, for the sake of organisation in this book I classify such covert alternations on the basis of (often debatable) semantic intuitions. For example, the verb *stören* 'to disturb' [@next] can be used both with and without an accusative object, see [@sec:case-accusative-drop]. This is classified here as a deobjective diathesis. Such unmarked object drops are also attested with datives, see [@sec:case-dative-drop], and with governed prepositions, see [@sec:prepositions-demotion-of-object]. The dropping of an object is also often possible to put the focus on the action itself, but then it is typically used with an adverbial, see [@sec:adverbial-action-focus] for an extensive discussion.
 
 ::: ex
-~~Covert object drop [OBJ › Ø]~~
+~~Covert deobjective [OBJ › Ø]~~
 
 a. Du störst die Veranstaltung.
 b. Du störst.
 :::
 
-A semantically special subgroup of object additions are ~~resultatives~~. A resultative diatheses adds an object that is the result of performing the predicate.^[Confusingly, the term "resultative" is also used in the literature with an aspectual meaning, namely to indicate a special kind of state induced as the result of performing the predicate [e.g. @nedjalkov1988a].] An overtly marked resultative is illustrated in [@next] with the diathesis between *arbeiten* 'to work' and the inherent reflexive *sich etwas erarbeiten* 'to acquire something through work', see [@sec:preverb-reflexive-resultative]. The result of the work is added as an object in [@next b].
+In contrast, the verb *stottern* 'to stutter' is classified here as an example of object addition [@next], although there is no formal differentiation from the previous example with object drop [@last]. The intuition is that *stottern* is basically intransitive (and any object is thus added), while *stören* is basically transitive (and any missing objct is thus dropped). Correlated with this proposed difference is the fact that covert object addition with *stottern* has a resultative interpretation [@next b]. However, it remains to be seen whether there is really a difference between these two kinds of verbs (see [@sec:case-accusative-addition] for an extensive discussion).
 
 ::: ex
-~~Object addition (resultative) [Ø › OBJ]~~
+~~Covert objective (resultative) [Ø › OBJ]~~
 
-a. Ich arbeite (und am Ende habe ich dadurch ein Vermögen).
-b. Ich erarbeite mir ein Vermögen.
+a. Er stotterte.
+b. Er stotterte eine Entschuldigung. \
+   (= Er stotterte, und das Resultat ist eine Entschuldigung.)
 :::
 
-The reversal of a resultative is an ~~antiresultative~~. In such a diathesis the result of performing the predicate is removed. This result is expressed as an object, so an antiresultative is a special kind of an object drop. An example of such a diathesis is shown in [@next] with the alternation between *stecken* 'to put into' and *verstecken* 'to hide'. The verb *stecken* needs an obligatory location [@next a,b]. Such an obligatory location is classified here as a prepositional object (see [@sec:intro-arguments-utterance-valency]). The situation is different with the verb *verstecken*. With this verb the location is an optional adjunct and can be left out (see [@sec:preverb-transitive-antiresultative] for an extensive discussion).
+#### Locatives & delocatives {.unnumbered}
+
+A ~~Locative diathesis [Ø › PBJ]~~ is a diatheses that adds an obligatory locational propositional phrase ~~PBJ~~ to the clause.^[There is no connection between a locative diathesis and a locative case. Both terms simply use the word *locative* to describe the fact that the marking of location is concerned.]  For example, the transitive *befehlen* 'to order' marks the ordered person as an accusative [@next a]. With an (directional) locative phrase *an die Front* 'to the frontline' the sentence gets a caused-motion or resultative reading [@next b], see [@sec:prepositions-transitive-location-as-result].
 
 ::: ex
-~~Object drop (antiresultative) [OBJ › Ø]~~
+~~Locative (caused motion) [Ø › PBJ]~~
+
+a. Ich befehle eine Armee.
+b. Ich befehle die Armee an die Front. \
+   (= Ich befehle, und dadurch geht die Armee an die Front.)
+:::
+
+Even more notewhorthy, such a locative diathesis is also possible with many intransitive verbs like *schwitzen* 'to sweat' [@next a]. With such verbs, a locative diathesis not only adds a location, like *in meinem Hemd* 'in my shirt', but also an resultative accusative object, like *einen Fleck* 'a stain' [@next b], see [@sec:prepositions-intransitive-location-as-result].
+
+::: ex
+~~Locative (resultative) [Ø › PBJ, Ø › OBJ]~~
+
+a. Ich schwitze.
+b. Ich schwitze einen Fleck in meinem Hemd. \
+   (= Ich schwitze, und dadurch ist ein Fleck in meinem Hemd.)
+:::
+
+The reversal of a locative diathesis is a ~~delocative diathesis [PBJ › Ø]~~. In such a diathesis an obligatory location loses its obligatory status. An example of such a diathesis is shown in [@next] with the alternation between *stecken* 'to put into' and *verstecken* 'to hide'. The verb *stecken* needs an obligatory location [@next a,b]. Such an obligatory location is classified here as a prepositional object ~~PBJ~~ (see [@sec:intro-arguments-utterance-valency]). The situation is different with the verb *verstecken*. With this verb the location is an optional adjunct and can be left out (see [@sec:preverb-transitive-antiresultative] for an extensive discussion).
+
+::: ex
+~~Delocative [PBJ › Ø]~~
 
 a. Ich stecke das Geschenk in den Schrank.
 b. ^* Ich stecke das Geschenk.
 c. Ich verstecke das Geschenk in dem Schrank.
 d. Ich verstecke das Geschenk.
-:::
-
-Resultatives are frequently found without explicit marking. In this case it is semantically clear that the extra resulting object is an extension to the basic lexical meaning of the verb. A few examples are given in [@next] and more discussion can be found in [@sec:case-accusative-addition, and -@sec:prepositions-manner-of-movement; @sec:prepositions-weather-manner-movement; @sec:prepositions-intransitive-location-as-result; @sec:prepositions-transitive-location-as-result].
-
-::: ex
-~~Covert object addition (resultative) [Ø › OBJ]~~
-
-a. Ich laufe nach Hause.
-b. Ich laufe den Marathon.
-a. Ich stampfe auf den Boden.
-b. Ich stampfe mir den Schnee von den Schuhen.
 :::
 
 #### Symmetrical object diatheses {.unnumbered}
@@ -1276,7 +1310,7 @@ b. Ich bewundere die Ehrlichkeit bei ihm.
 
 ### Chained object diathesis {#sec:intro-object-chains}
 
-Chains of object diatheses (i.e. chains with the object in the middle of the chain) can always be interpreted as a combination of two isolated ('single') diatheses from the previous section. However, not all theoretically possible combinations are attested (see [@fig:objectchains]). Which chains are attested seems clearly not-random, though I do not have an insightful rationale for the distribution as shown in the figure.
+Chains of object diatheses (i.e. chains with the object in the middle of the chain) can always be interpreted as a combination of two isolated ('single') diatheses from the previous section. However, not all theoretically possible combinations are attested (see [@fig:objectchains]). The pattern of which chains are attested is clearly not-random, though I do not have an insightful rationale for the distribution as shown in the figure.
 
 ![Attested chains of object diathesis](figures/objectchains.png){#fig:objectchains}
 
@@ -1311,12 +1345,12 @@ b. Ich bewundere ihn für seine Ehrlichkeit.
 c. Ich bewundere ihn dafür, dass er ehrlich ist.
 :::
 
-#### Drops & additions {.unnumbered}
+#### Objectives & deobjectives {.unnumbered}
 
-At the right and at the bottom of [@fig:objectchains] are chains that involve the addition or drop of a lexical role. An object addition ~~[Ø › OBJ]~~ is typically chained with an antipassive ~~[OBJ › PBJ/ADJ]~~, resulting in a chain ~~[Ø › OBJ › PBJ]~~. This is attested in the resultative object addition that is possible with the verb *schneiden* to cut [@next], see [@sec:prepositions-action-result]. A new object, that is the result of the cutting, is introduced, while the old object is turned into a prepositional phrase [@next a,b]. This prepositional phrase cannot be left out [@next c], so it classified here as a governed preposition.
+At the right and at the bottom of [@fig:objectchains] are chains that involve the addition or drop of a lexical role. An objective ~~[Ø › OBJ]~~ is typically chained with an antipassive ~~[OBJ › PBJ/ADJ]~~, resulting in a chain ~~[Ø › OBJ › PBJ]~~. This is attested in the resultative object addition with the verb *schneiden* to cut [@next], see [@sec:prepositions-action-result]. A new object, that is the result of the cutting, is introduced, while the old object is turned into a prepositional phrase [@next a,b]. This prepositional phrase cannot be left out [@next c], so it classified here as an obligatory location (~~PBJ~~).
 
 ::: ex
-~~Antipassive + object addition (resultative) [Ø › OBJ › PBJ]~~
+~~Antipassive + objective (resultative) [Ø › OBJ › PBJ]~~
 
 a. Ich schneide das Brot.
 b. Ich schneide ein Loch in das Brot.
@@ -1326,7 +1360,7 @@ c. ^^?^ Ich schneide ein Loch
 The reversed chain ~~[PBJ › OBJ › Ø]~~ is illustrated in [@next] with the diathesis between the verb *pressen* 'to squeeze' and *auspressen* 'to squeeze', see [@sec:preverb-location-antiresultative]. The verb *pressen* takes an accusative that expressed the result of the squeezing (*Saft*), and the squeezee (*Zitrone*) is expressed as an obligatory prepositional phrase [@next a,b]. The antiresultative *auspressen* [@next c] drops the result (*Saft*) and promotes the squeezee (*Zitrone*) to accusative.
 
 ::: ex
-~~Applicative + object drop (antiresultative) [PBJ › OBJ › Ø]~~
+~~Applicative + deobjective (antiresultative) [PBJ › OBJ › Ø]~~
 
 a. Ich presse den Saft aus der Zitrone.
 b. ^^?^ Ich presse den Saft.
@@ -1370,19 +1404,31 @@ b. Ich beraube dich des Buches.
 
 Among all the diatheses that are distinguished in this survey there are many that only occur in very specific situations or might otherwise be considered to be exceptions or incidental instances. However, there are also very many diatheses that are highly frequent and can be used with very many different verbs. Those major diatheses, that are of central importance to the grammatical structure of German, will be summarised in this chapter. Such a summary would normally be presented at the end of a book, but because of the often long-winding data-driven details of the subsequent descriptive chapters I decided to present this summary here at the end of the introductory deliberations. Take it as a quick appetiser of things to come, with ample links to the actual discussion in later chapters.
 
-To reiterate the basic premise of this book: in the subsequent chapters [-@sec:case] to [-@sec:zuminfinitive] I aim to present a complete list of all coherent, and thus monoclausal, clause structures in German (cf. [@sec:intro-coherence] on defining monoclausality). All in all, there are 250+ separate sub-subsections that describe (often minor) variations of monoclausal structures in those chapters. This diversity is condensed into 80+ major clause alternations as summarised in this chapter. Of those, about 60 are diatheses (i.e. clause alternations with role-remapping), while about 20 are epitheses (i.e. clause alternations without any change in role marking). All these counts should be taken with some leeway, because a lot depends on individual decisions about splitting or lumping structures into groups (e.g. how many *lassen + sich + infinitive* constructions are counted separately). Although the analysis of German clause alternations might look cleaner when lumping structures into larger groups, the diversity is actually not reduced, only hidden at the cost of larger within-group complexity.
+To reiterate the basic premise of this book: in the subsequent chapters [-@sec:case] to [-@sec:zuminfinitive] I aim to present a complete list of all coherent, and thus monoclausal, clause structures in German (cf. [@sec:intro-coherence] on defining monoclausality). All in all, in those chapters there are 250+ separate sub-subsections that describe (often minor) variations of monoclausal structures. This diversity is condensed into 90+ major clause alternations as summarised in this chapter. Of those, about 70 are diatheses (i.e. clause alternations with role-remapping), while about 20 are epitheses (i.e. clause alternations without any change in role marking). All these counts should be taken with some leeway, because a lot depends on individual decisions about splitting or lumping structures into groups (e.g. how many *lassen + sich + infinitive* constructions are counted separately). Although the analysis of German clause alternations might look cleaner when lumping structures into larger groups, the diversity is actually not reduced, only hidden at the cost of larger within-group complexity.
 
-Besides a basic summary I also propose German names for all 80+ major derived monoclausal sentence structures. Using suitable names is a central aspect of (scientific) communication. In grammar, names are like instruments that allow us to abstract away from individual details and manipulate classes of utterances that show a specific abstract structure. However, naming is hard and can also lead to miscommunication. When re-using available terminology, the terms are easily recognised and remembered, but they carry the weight of history. Even when detailed definitions are given (as I have tried to do throughout this book), unintended interpretations of previous usage inevitably seep through. In contrast, inventing new names introduces more precision, but the downside are often cumbersome terms that are difficult to remember. 
+Besides a basic summary I also propose German names for all 90+ major derived monoclausal sentence structures. Using suitable names is a central aspect of (scientific) communication. In grammar, names are like instruments that allow us to abstract away from individual details and manipulate classes of utterances that show a specific abstract structure. However, naming is hard and can also lead to miscommunication. When re-using available terminology, the terms are easily recognised and remembered, but they carry the weight of history. Even when detailed definitions are given (as I have tried to do throughout this book), unintended interpretations of previous usage inevitably seep through. In contrast, inventing new names introduces more precision, but the downside are often cumbersome terms that are difficult to remember. 
 
 In naming diatheses in this book I have tried to strike a balance between precise naming and good readability. For the English names in the detailed discussions in the coming chapters, I have decided in favour or precision. Each phenomenon is newly named with often long descriptive and unique names. In contrast, for the German names in this chapter I try to reuse available terminology as much as possible. When necessary, I propose new names that attempt to evoke a functional description like *Reziprokativ* or *Erlebnispassiv*. However, the semantic characterisation has not been the main focus of this book, so it might become necessary to rename diatheses in the future once more detailed investigations have been performed. In some cases I have not been able to find a suitable semantic characterisation. For those diatheses I have resorted to using formal characteristics in the name, always written as separate words, like *Reflexiv Erlebnispassiv*
 
 In this chapter, the diatheses are organised in sections according to the macro-role remapping patterns as introduced in [@sec:intro-naming]. The different diatheses in each section are thus functionally highly similar, but they are structurally different. Inversely, there are various diatheses that structurally highly similar, but are nonetheless repeated in separate sections under different names. This is necessary because superficially identical diathesis can have rather different structural repercussions depending on the verb to which it is applied. This happens for examples with the *sein + Partizip* or the *lassen + sich + Infinitiv* constructions.
 
-Before diving into the daunting diversity of German diathesis, a short note on German names for different clause types is in order. The distinction between sentence (German: ~~Satz~~) and clause (German: ~~Teilsatz~~) is customary made in the German grammatical literature when a precise description is needed. However, the term *Satz* is often used as a shorthand for both. Subdividing clauses, there is of course a basic distinction between main clause (German: ~~Hauptsatz~~, more precise would be ~~Selbständiger Teilsatz~~) and subordinate clause (German: ~~Nebensatz~~ or alternatively ~~Untergeordneter Teilsatz~~). A central thesis of this book is that there is a further subdivision for both main and subordinate clauses into three different kinds of clauses. First, a 'basic clause' is a clause with a single verb form in the *Präsens* or *Imperfekt*. For German I propose the term ~~Basissatz~~, or, to be more precise, ~~Grundlegender Teilsatz~~. Second, an 'epithesis' is a clause alternant without role-remapping. For German I propose either the German neologism ~~Übersatz~~ or the Greek-inspired ~~Epithese~~, or, to be more precise, ~~Erweiterter Teilsatz~~. Finally, a diathesis is a clause with role-remapping. For German I propose the German neologism ~~Wechselsatz~~ or the Greek-inspired ~~Diathese~~, or, to be more precise, ~~Umgestellter Teilsatz~~.
+Before diving into the daunting diversity of German diathesis, a short note on German names for different clause types is in order (see [@tbl:clause-types]). The distinction between sentence (German: ~~Satz~~) and clause (German: ~~Teilsatz~~) is customary made in the German grammatical literature when a precise description is needed. However, the term *Satz* is often used as a shorthand for both. Subdividing clauses, there is of course a basic distinction between main clause (German: ~~Hauptsatz~~, more precise would be ~~Selbständiger Teilsatz~~) and subordinate clause (German: ~~Nebensatz~~ or alternatively ~~Untergeordneter Teilsatz~~). 
+
+Yet, a central thesis of this book is that there is a further subdivision for both main and subordinate clauses into three different kinds of clauses. First, a 'basic clause' is a clause with a single verb form in the *Präsens* or *Imperfekt*. For German I propose the term ~~Basissatz~~, or, to be more precise, ~~Grundlegender Teilsatz~~. Second, an 'epithesis' is a clause alternant without role-remapping. For German I propose either the German neologism ~~Übersatz~~ or the Greek-inspired ~~Epithese~~, or, to be more precise, ~~Erweiterter Teilsatz~~. Finally, a diathesis is a clause with role-remapping. For German I propose the German neologism ~~Wechselsatz~~ or the Greek-inspired ~~Diathese~~, or, to be more precise, ~~Umgestellter Teilsatz~~.
+
+|    English Term    |        German Term         |    Short German Term     |
+| :----------------: | :------------------------: | :----------------------: |
+|    Main clause     |  *Selbständiger Teilsatz*  |       *Hauptsatz*        |
+| Subordinate clause | *Untergeordneter Teilsatz* |       *Nebensatz*        |
+|    Basic clause    |  *Grundlegender Teilsatz*  |       *Basissatz*        |
+|     Epithesis      |   *Erweiterter Teilsatz*   |  *Übersatz (Epithese)*   |
+|     Diathesis      |  *Umgestellter Teilsatz*   | *Wechselsatz (Diathese)* |
+
+Table: German terminology for clause types {#tbl:clause-types}
 
 ## Verbative diatheses ~~[SBJ › Ø]~~
 
-### *(Unmarkierter) Verbativ* {#sec:summary-verbativ}
+### *Verbativ* {#sec:summary-verbativ}
 
 The unmarked ~~Verbativ~~ (full discussion in [@sec:case-nominative-drop] and subsequent sections) is typically found with dispersion verbs like *stinken* 'to stink', *klingeln* 'to ring' or *krachen* 'to crunch' [@next a]. These verbs allow for an construction without explicit nominative subject describing a general situation with unknown cause. To replace the nominative subject a valency-simulating pronoun *es* is used [@next b]. Additionally, various verbs that allow for impersonal constructions like *es gibt* 'there exist' or *es wimmelt von* 'to swarm' belong to this category of diatheses.
 
@@ -1465,7 +1511,7 @@ c. Der Lehrer überrascht mich damit, dass er die Aufgabe schon korrigiert hat.
 
 ## Anticausative diatheses ~~[OBJ › SBJ › Ø]~~
 
-### *(Unmarkierter) Antikausativ* {#sec:summary-antikausativ}
+### *Antikausativ* {#sec:summary-antikausativ}
 
 The unmarked ~~Antikausativ~~ (full discussion in [@sec:case-haben-anticausative] and subsequent sections) is attested with verbs like *öffnen* 'to open' or *kochen* 'to cook'. These verbs occur both as transitive [@next a] and intransitive [@next b] without any further grammatical marking. Crucially, the object of the transitive is the subject of the intransitive. Because this diathesis is unmarked, there is no formal indication of a direction. So, this diathesis could just as well be interpreted as a causative. However, there is a formal difference between verbs that in the intransitive allow for both a *haben* and *sein* perfect [@next c,d] and those that only allow for a *sein* perfect. There seems to be an interesting semantic correlate to this formal difference, and consequentially the first group is called ~~Antikausativ~~, while the second group is called ~~Kausativ~~ (see [@sec:summary-kausativ]).
 
@@ -1476,7 +1522,7 @@ c. Der Laden hat geöffnet.
 d. Der Laden ist geöffnet.
 :::
 
-### *(Unmarkierter) Ortsantikausativ* {#sec:summary-ortsantikausativ}
+### *Ortsantikausativ* {#sec:summary-ortsantikausativ}
 
 The ~~Ortsantikausativ~~ (full discussion in [@sec:prepositions-haben-caused-location]) is similar to the previous unmarked ~~Antikausativ~~. Verbs like *kleben* 'to glue, to stick' or *klappen* 'to fold' occur both as transitive and intransitive [@next a,b] with the object of the transitive being the subject of the intransitive. Also the intransitive is possible with both *haben* and *sein* in the perfect [@next c,d]. The only difference is the obligatory presence of a location. Note that there is also a parallel ~~Ortskausativ~~ (see [@sec:summary-ortskausativ]).
 
@@ -1691,7 +1737,7 @@ b. Ich lasse mir den Kuchen schmecken.
 
 ## Novative diatheses ~~[Ø › SBJ › OBJ]~~
 
-### *(Unmarkierter) Kausativ* {#sec:summary-kausativ}
+### *Kausativ* {#sec:summary-kausativ}
 
 The unmarked ~~Kausativ~~ (full discussion in [@sec:case-sein-causative] and subsequent sections) is found with verb like *schmelzen* 'to melt', *trocknen* 'to dry' or *zerbrechen* 'break' [@next a,b]. These verbs both occur as intransitive and as transitive with the intransitive subject being the object of the transitive. The new nominative subject of the transitive is a causer. Because this diathesis is unmarked, it is not immediately clear whether such a verbs is an examples of a *Kausativ* or an *Antikausativ* (see [@sec:summary-antikausativ]). As a formal characteristic for differentiation I propose to look at the auxiliaries of the intransitive perfect: anticausatives allow for both *haben* and *sein*, while causatives only allow for *sein* [@next c,d]. Various old ablaut-causatives like *fallen/fällen* and *biegen/beugen* also belong in this category.
 
@@ -1702,7 +1748,7 @@ c. Der Krug ist zerbrochen.
 d. ^* Der Krug hat zerbrochen.
 :::
 
-### *(Unmarkierter) Ortskausativ* {#sec:summary-ortskausativ}
+### *Ortskausativ* {#sec:summary-ortskausativ}
 
 The ~~Ortskausativ~~ (full discussion in [@sec:prepositions-sein-caused-location] and subsequent sections) is similar to the previous *Kausativ* (see [@sec:summary-kausativ]), only that the verbs like *fahren* 'to drive' and *stürzen* 'to fall/topple' [@next a,b] obligatory need a location (especially in the transitive). There is a parallel *Ortsantikausativ* in which the intransitive allows for both a *sein* and a *haben* perfect (see [@sec:summary-ortsantikausativ]). Various old ablaut-causatives like *liegen/legen* 'to lie/to lay' and *sitzen/setzen* 'to sit/to put' also belong in this category.
 
@@ -1809,13 +1855,13 @@ b. Sie weiß den Nachlass (im Archiv) gut aufgehoben. \
 
 This *Transitiv Opiniativ* can of course easily be united with the previous *Opiniativ* into a single diathesis by noticing, for example, that both can be rephrased with a complement clause with *sein* and a participle, compare [@llast b] and [@last b]. However, this implies that when both *Opiniativ* diatheses are united, then the *sein-Perfekt* in [@llast b], see [@sec:summary-sein-perfekt], and the *Zustandspassiv* in [@last b], see [@sec:summary-zustandspassiv], have to be united as well (there is a perfect parallellism here). Now, there is nothing against this second unification (see [@sec:participle-different-diatheses] for a discussion), but exactly this point has been rather controversially discussed in the German grammatical literature. So either both are unified, or both are separated. Because I have separated the *Zustandspassiv* and the *sein-Perfekt* in this summary, I consequently also separate the two *Opiniativ* diatheses.
 
-## Antipassive diatheses ~~[OBJ › PBJ/ADJ]~~
+## Antipassive diatheses ~~[OBJ › ADJ]~~
 
-### *(Unmarkierter) Akkusativ Antipassiv* {#sec:summary-akkusativ-antipassiv}
+### *Akkusativ Antipassiv* {#sec:summary-akkusativ-antipassiv}
 
-The unmarked ~~Akkusativ Antipassiv~~ (see [@sec:prepositions-accusative-antipassive] and subsequent sections) is a diathesis in which an accusative argument alternates with a prepositional phrase. This typically occurs without any overt marking other than the antipassive alternation itself. For example, the verh *schießen* 'to shoot' can be used both with an accusative and with an *auf* prepositional phrase [@next a]. The semantic effect of this diathesis is that the object is less affected when marked as a prepositional phrase. In some instances, like with *glauben an* 'to believe in' [@next b] the prepositional phrase is a governed preposition (see [@sec:prepositions-governed-antipassive]). 
+The unmarked ~~Akkusativ Antipassiv~~ (full discussion in [@sec:prepositions-accusative-antipassive] and subsequent sections) is a diathesis in which an accusative argument alternates with a prepositional phrase. This typically occurs without any overt marking other than the antipassive alternation itself. For example, the verb *schießen* 'to shoot' can be used both with an accusative and with an *auf* prepositional phrase [@next a]. The semantic effect of this diathesis is that the object is less affected when marked as a prepositional phrase. In some instances, like with *glauben an* 'to believe in' [@next b] the prepositional phrase is a governed preposition (see [@sec:prepositions-governed-antipassive]). 
 
-::: a
+::: ex
 a. Ich schieße den Bären. \
    Ich schieße auf den Bären.
 b. Ich glaube deine Aussage. \
@@ -1823,9 +1869,9 @@ b. Ich glaube deine Aussage. \
    Ich glaube daran, dass deine Aussage stimmt.
 :::
 
-### *(Unmarkierter) Dativ Antipassiv* {#sec:summary-dativ-antipassiv}
+### *Dativ Antipassiv* {#sec:summary-dativ-antipassiv}
 
-The unmarked *Dativ Antipassiv* (see [@sec:prepositions-dative-antipassive] and subsequent sections) is a diathesis in which a dative argument alternates with a prepositional phrase. In a few instances this is attested with a dative without accusative, like with *weichen* 'to give way' [@next a]. More widespread this diathesis is found with verbs like *berichten* 'to report' [@next b] that allow for both an accusative and dative argument.
+The unmarked ~~Dativ Antipassiv~~ (full discussion in [@sec:prepositions-dative-antipassive] and subsequent sections) is a diathesis in which a dative argument alternates with a prepositional phrase. In a few instances this is attested with a dative without accusative, like with *weichen* 'to give way' [@next a]. More widespread this diathesis is found with verbs like *berichten* 'to report' [@next b] that allow for both an accusative and dative argument.
 
 ::: ex
 a. Die Demonstranten wichen der Polizei. \
@@ -1836,7 +1882,7 @@ b. Er berichtet dem Vorstand die Ergebnisse der Untersuchung. \
 
 ### *Reflexiv Antipassiv* {#sec:summary-reflexiv-antipassiv}
 
-The ~~Reflexiv Antipassiv~~ (see [@sec:reflexive-accusative-antipassive]) is an antipassive in which additionally a reflexive pronoun is added. For example, the verb *beklagen* 'to lament' [@next] has a lamented object role *Lärm* 'noise' in the accusative [@next a] or in a prepositional phrase with *über* [@next b]. The reflexive pronoun in [@next b] is not a self-inflicting reflexive, i.e. the lamenting is not about oneself. These reflexive antipassives always have governed prepositional phrases [@next c].
+The ~~Reflexiv Antipassiv~~ (full discussion in [@sec:reflexive-accusative-antipassive]) is an antipassive in which additionally a reflexive pronoun is added. For example, the verb *beklagen* 'to lament' [@next] has a lamented object role *Lärm* 'noise' in the accusative [@next a] or in a prepositional phrase with *über* [@next b]. The reflexive pronoun in [@next b] is not a self-inflicting reflexive, i.e. the lamenting is not about oneself. These reflexive antipassives always have governed prepositional phrases [@next c].
 
 ::: ex
 a. Ich beklage den Lärm.
@@ -1846,18 +1892,18 @@ c. Ich beklage mich darüber, dass es so laut ist
 
 ### *Reziprokativ* {#sec:summary-reziprokativ}
 
-The ~~Reziprokativ~~ (see [@sec:reflexive-mit-antipassive]) is a special kind of antipassive in which an accusative is replaced by a *mit* prepositional phrase and additionally a reflexive pronoun is added [@next]. This reflexive pronoun does not have self-inflicting reference. Semantically this diathesis is found with some verbs that can be construed as either reciprocal or non-reciprocal. For example, the verb *treffen* 'to meet' can be used without reflexive pronoun [@next a] meaning something like 'to bump into someone', while with a reflexive pronoun the meaning is clearly reciprocal 'to meet' [@next b].
+The ~~Reziprokativ~~ (full discussion in [@sec:reflexive-mit-antipassive]) is a special kind of antipassive in which an accusative is replaced by a *mit* prepositional phrase and additionally a reflexive pronoun is added, as shown for the verb *treffen* 'to meet' in [@next]. This reflexive pronoun does not have self-inflicting reference, i.e. the meeting is not with oneself. Semantically this diathesis is found with some verbs that can be construed as either reciprocal or non-reciprocal. For example, the verb *treffen* 'to meet' can be used without reflexive pronoun [@next a] meaning something like 'to bump into someone', while with a reflexive pronoun the meaning is clearly reciprocal 'to meet' [@next b].
 
 ::: ex
 a. Ich treffe dich.
 b. Ich treffe mich mit dir.
 :::
 
-## Applicative diatheses ~~[ADJ/PBJ › OBJ]~~ 
+## Applicative diatheses ~~[ADJ › OBJ]~~ 
 
-### *Präverb Akkusativ Applikativ* {#sec:summary-praverb-akkusativ-applikativ}
+### *Präverb Applikativ* {#sec:summary-praverb-applikativ}
 
-The ~~Präverb Akkusativ Applikativ~~ (see [@sec:preverb-applicative] and subsequent sections) is an alternation in which a prepositional phrase is turned into an accusative through the addition of a preverb. For example, the alternation from *steigen* to *besteigen* 'to climb' additionally induces a change from the preposition *auf* to an accusative [@next a,b]. There is a wide variety in preverbs (both *Verbpräfixe* and *Verbpartikel*) and a wide variety of prepositions that show such a diathesis. The prepositional phrases that are turned into an accusative can also be governed prepositions like *an* together with the verb *arbeiten* 'to work' [@next c], which turns into an accusative with *erarbeiten* 'to work something out' (see [@sec:preverb-governed-applicative]). A related *Vollapplikativ* diathesis is attested with transitive verbs (see [@sec:summary-praverb-vollapplikativ]).
+The ~~Präverb Applikativ~~ (full discussion in [@sec:preverb-applicative] and subsequent sections) is an alternation in which a prepositional phrase is turned into an accusative through the addition of a preverb. For example, the alternation from *steigen* to *besteigen* 'to climb' additionally induces a change from the preposition *auf* to an accusative [@next a,b]. There is a wide variety in preverbs (both *Verbpräfixe* and *Verbpartikel*) and a wide variety of prepositions that show such a diathesis. The prepositional phrases that are turned into an accusative can also be governed prepositions like *an* together with the verb *arbeiten* 'to work' [@next c], which turns into an accusative with *erarbeiten* 'to work something out' (see [@sec:preverb-governed-applicative]). A closely related *Präverb Transitiv Applikativ* diathesis is attested with transitive verbs (see [@sec:summary-praverb-vollapplikativ]).
 
 ::: ex
 a. Ich steige auf den Berg.
@@ -1867,19 +1913,9 @@ c. Ich arbeite an einem Plan. \
 d. Ich erarbeite einen Plan.
 :::
 
-### *Präverb Dativ Applikativ* {#sec:summary-praverb-dativ-applikativ}
+### *Adverb Applikativ* {#sec:summary-adverb-applikativ}
 
-The ~~Präverb Dativ Applikativ~~ (see [@sec:preverb-dative-applicative] and subsequent sections) is an alternation in which the prepositional phrase is turned into a dative (as opposed to an accusative as in [@sec:summary-praverb-akkusativ-applikativ]). Although the prepositions are strongly lexicalised, like *stammen aus* 'originate from' [@next a], they do not allow for the *daraus, dass...* reformulation that is considered definitional here for goverened prepositions [@next c].
-
-::: ex
-a. Ich stamme aus einem Adelsgeschlecht.
-b. Ich entstamme einem Adelsgeschlecht.
-c. ^* Ich stamme daraus, dass ich dort geboren bin.
-:::
-
-### *Ergebnisapplikativ* {#sec:summary-ergebnisapplikativ}
-
-The ~~Ergebnisapplikativ~~ (see [@sec:adverbials-applicative]) is also an alternation that turns a prepositional phrase into an accusative, though in this instance the diathesis is induces by a adverbial, like *leer* 'empty' or *gesund* 'healthy'. When used with an intransitive verb like *fischen* 'to fish' [@next a] the prepositional phrase is turned into an accusative. The effect of this diathesis is that the new accusative *Teich* 'pond' is in the state described by the adverbial *leer* as a result of the verbal action *fischen* [@next b]. This diathesis is also attested with governed prepositions, like with the verb *beten für* 'to pray for' [@next c,d]. A related *Ergebnisvollapplikativ* diathesis is attested with transitive verbs (see [@sec:summary-ergebnisvollapplikativ]).
+The ~~Adverb applikativ~~ (full discussion in [@sec:adverbials-applicative]) is also an alternation that turns a prepositional phrase into an accusative, though in this instance the diathesis is induces by a adverbial, like *leer* 'empty' or *gesund* 'healthy'. When used with an intransitive verb like *fischen* 'to fish' [@next a] the prepositional phrase is turned into an accusative. The effect of this diathesis is that the new accusative *Teich* 'pond' is in the state described by the adverbial *leer* as a result of the verbal action *fischen* [@next b]. This diathesis is also attested with governed prepositions, like with the verb *beten für* 'to pray for' [@next c,d]. A related *Adverb Transitiv Applikativ* diathesis is attested with transitive verbs (see [@sec:summary-adverb-vollapplikativ]).
 
 ::: ex
 a. Ich fische im Teich.
@@ -1890,9 +1926,19 @@ c. Ich bete für den Kranken. \
 d. Ich bete den Kranken gesund.
 :::
 
+### *Präverb Dativ Applikativ* {#sec:summary-praverb-dativ-applikativ}
+
+The ~~Präverb Dativ Applikativ~~ (full discussion in [@sec:preverb-dative-applicative] and subsequent sections) is an alternation in which the prepositional phrase is turned into a dative (as opposed to an accusative as in [@sec:summary-praverb-applikativ]). Although the prepositions in this diathesis are often strongly lexicalised, like *stammen aus* 'originate from' [@next a], they do not allow for the *daraus, dass...* reformulation that is considered definitional here for them to be goverened prepositions [@next c].
+
+::: ex
+a. Ich stamme aus einem Adelsgeschlecht.
+b. Ich entstamme einem Adelsgeschlecht.
+c. ^* Ich stamme daraus, dass ich dort geboren bin.
+:::
+
 ### *Pertinenzdativ* {#sec:summary-pertinenzdativ}
 
-The ~~Pertinenzdativ~~ (see [@sec:case-possessor-of-nominative-to-dative-experiencer] and subsequent sections) is a dative that is inherently the possessor of another lexical role. The term *pertinenz* (from lat. *pertinere* 'to belong to') was proposed by Polenz [-@polenz1969: 160ff.]^[In proposing the term *pertinenz* Polenz was inspired by work by Isačenko using the term in the context of inalienable possession.] for this phenomenon and for the closely connected *Ortspertinenzdativ* as discussed in the next section. I have extended the usage of this term to various other diatheses that involve a possessor of another role, see *Pertinenzpassiv* ([@sec:summary-pertinenzpassiv]), *Pertinenzinversiv* ([@sec:summary-pertinenzinversiv]) and *Pertinenzakkusativ* ([@sec:summary-pertinenzakkusativ]). The *Pertinenzdativ* is attested both for the possessor of a nominative subject of intransitives [@next a] and for the possessor of the accusative object of transitives [@next b]. As for any pertinenz-relation, it is crucial that the dative is necessarily the possessor of another lexical role.
+The ~~Pertinenzdativ~~ (full discussion in [@sec:case-possessor-of-nominative-to-dative-experiencer] and subsequent sections) is a dative that is inherently the possessor of another lexical role. The term *pertinenz* (from lat. *pertinere* 'to belong to') was proposed by Polenz [-@polenz1969: 160ff.]^[In proposing the term *pertinenz* Polenz was inspired by work by Isačenko using the term in the context of inalienable possession.] for this phenomenon and for the closely connected *Ortspertinenzdativ* as discussed in the next section. I have extended the usage of this term to various other diatheses that involve a possessor of another role, see *Pertinenzpassiv* ([@sec:summary-pertinenzpassiv]), *Pertinenzinversiv* ([@sec:summary-pertinenzinversiv]) and *Pertinenzakkusativ* ([@sec:summary-pertinenzakkusativ]). The *Pertinenzdativ* is attested both for the possessor of a nominative subject of intransitives [@next a] and for the possessor of the accusative object of transitives [@next b]. As for any pertinenz-relation, it is crucial that the dative is necessarily the possessor of another lexical role.
 
 ::: ex
 a. Meine Hände zittern. \
@@ -1903,7 +1949,7 @@ b. Ich beende deinen Vertrag. \
 
 ### *Ortspertinenzdativ* {#sec:summary-ortspertinenzdativ}
 
-The ~~Ortspertinenzdativ~~ (see [@sec:prepositions-possessor-of-location-to-dative-experiencer] and subsequent sections) is closely connected to the previous *Pertinenzdativ* ([@sec:summary-pertinenzdativ]). The dative in [@next] is likewise obligatorily a possessor of another lexical role, though in this diathesis this other role is an obligatory location. For example, the verb *hängen*, 'to hang' [@next a] necessarily needs a location where the hanging is taking place. The possessor of this location can be replaced by a dative. Besides being an inherent argument of a verb, the obligatory location can also be included by a resultative diathesis (e.g. [@sec:summary-ortsresultativ]). For example, the verb *wehen* 'to blow (of wind)' can be used resultatively with an obligatory location *in meinem Gesicht* [@next b]. The possessor of this location can subsequently be turned into a dative.
+The ~~Ortspertinenzdativ~~ (full discussion in [@sec:prepositions-possessor-of-location-to-dative-experiencer] and subsequent sections) is closely connected to the previous *Pertinenzdativ* ([@sec:summary-pertinenzdativ]). The dative in [@next] is likewise obligatorily a possessor of another lexical role, though in this diathesis this other role is an obligatory location. For example, the verb *hängen*, 'to hang' [@next a] necessarily needs a location where the hanging is taking place. The possessor of this location can be replaced by a dative. Besides being an inherent argument of a verb, the obligatory location can also be included by a resultative diathesis (e.g. [@sec:summary-verursachte-bewegung]). For example, the verb *wehen* 'to blow (of wind)' can be used resultatively with an obligatory location *in meinem Gesicht* [@next b]. The possessor of this location can subsequently be turned into a dative.
 
 ::: ex
 a. Das Hemd hing aus seiner Hose. \
@@ -1915,7 +1961,7 @@ b. Es weht. \
 
 ### *Benefaktivdativ* {#sec:summary-benefaktivdativ}
 
-The ~~Benefaktivdativ~~ (see [@sec:prepositions-benefactive-dative]) is a dative that alternates with a *für* prepositional phrase. For example with the verb *kochen* 'to cook' the beneficiary of the cooking can be expressed with a *für* prepositional phrase [@next a] or with a dative [@next b]. Not all beneficiary *für* phrases can be turned into a dative. The *Benefaktivdativ* is only attested with transitive verbs. With intransitive like *arbeiten* 'to work' a *für* beneficiary is possible [@next c], but a dative is not [@next d].
+The ~~Benefaktivdativ~~ (full discussion in [@sec:prepositions-benefactive-dative]) is a dative that alternates with a *für* prepositional phrase. For example with the verb *kochen* 'to cook' the beneficiary of the cooking can be expressed with a *für* prepositional phrase [@next a] or with a dative [@next b]. Not all beneficiary *für* phrases can be turned into a dative. The *Benefaktivdativ* is only attested with transitive verbs. With intransitive like *arbeiten* 'to work' a *für* beneficiary is possible [@next c], but a dative is not [@next d].
 
 ::: ex
 a. Ich koche eine Suppe für dich.
@@ -1924,22 +1970,185 @@ c. Ich arbeite für dich.
 d. ^* Ich arbeite dir.
 :::
 
-## Chained Applicative/Antipassive diatheses ~~[ADJ › OBJ › ADJ]~~
+## Objective diatheses ~~[Ø › OBJ]~~
 
-### *(Unmarkierter) Vollapplikativ* {#sec:summary-vollapplikativ}
+### *Akkusativ Zusatz* {#sec:summary-akkusativ-zusatz}
 
-The unmarked ~~Vollapplikativ~~ (see [@sec:prepositions-instrument-applicative]) is a combination of an antipassive and an applicative. For example, the verb *füllen* 'to fill' has two object roles: (i) the filled object and the (ii) filling substance. Both alternate between a prepositional phrase and an accusative [@next a,b]. There appears to be a slight asymmetry in that the filled object can be used as an accusative with the filling substance [@next c], but not the other way around [@next d]. In many examples these unmarked *Vollapplikative* appears to be closely related to a *Präverb Vollapplikativ*, for instance by an alternation *füllen-befüllen* (see [@sec:summary-praverb-vollapplikativ]).
+The unmarked ~~Akkusativ Zusatz~~ (full discussion in [@sec:case-accusative-addition]) is highly similar to the ~~Akkusativ Wegfall~~ diathesis ([@sec:summary-akkusativ-wegfall]). In both diatheses, the same verb can be used both with and without an accusative argument. The special characteristics of verbs like *singen* 'to sing' [@next] is that they are (a) basically intransitive and (b) the accusative represents the result of the intransitive action. The difference between an unmarked added accusative and an unmarked dropped accusative is arguably small, and it remains to be seen whether this separation can be backed up by further distinguishing grammatical characteristics.
 
 ::: ex
-a. Er füllt die Flasche mit Schnaps.
-b. Er füllt den Schnaps in die Flasche.
-c. Er füllt die Flasche.
-d. ^* Er füllt den Schnaps.
+a. Er singt.
+b. Er singt ein Lied.
+:::
+
+### *Präverb Akkkusativ Zusatz* {#sec:summary-praverb-akkusativ-zusatz}
+
+The ~~Präverb Akkkusativ Zusatz~~ (full discussion in [@sec:preverb-accusative-addition] and subsequent sections) is a diathesis in which the addition of a preverb leads to an accusative argument. For example, the diathesis from *zaubern* 'to perform magic' to *verzaubern* 'to enchant' [@next] adds a completely new role in the accusative.
+
+::: ex
+a. Sie zaubert.
+b. Sie verzaubert mich.
+:::
+
+### *Präverb Dativ Zusatz* {#sec:summary-praverb-dativ-zusatz}
+
+The ~~Präverb Dativ Zugabe~~ is similar to the previous *Präverb Akkkusativ Zusatz* in that the addition of the preverb also induces a new role, in this diathesis marked with a dative case. This diathesis is attested both with intransitive verbs like *gehen* 'to walk' and preverbal *entgehen* 'to evade' [@next a], full discussion in [@sec:preverb-dative-addition], and with transitive verbs like *lesen* 'to read' and the preverbal *vorlesen* 'to read out' [@next b], full discussion in [@sec:preverb-dative-addition-accusative].
+
+::: ex
+a. Ich gehe (nach Hause). \
+   Ich entgehe dem Urteil.
+b. Ich lese ein Buch. \
+   Ich lese dir ein Buch vor.
+:::
+
+### *Präverb Reflexiv Akkusativ Zusatz* {#sec:summary-praverb-reflexiv-akkusativ-zusatz}
+
+The ~~Präverb Reflexiv Akkusativ Zusatz~~ (full discussion in [@sec:preverb-reflexive-resultative]) is a special variant of an objective diathesis in that the addition of the preverb leads to a new accusative argument, but also needs an obligatory reflexive pronoun. The new accusative role is semantically the result of the action of the main verb, which is similar to the *Akkusativ Zusatz* ([@sec:summary-akkusativ-zusatz]), but different from the ~~Präverb Akkusativ Zusatz~~ ([@sec:summary-praverb-akkusativ-zusatz]). For example, the diathesis from *tanzen* 'to dance' to *antanzen* 'to incur from dancing' [@next] adds the incurrence *Muskelkater* 'sore muscles' and a reflexive pronoun.
+
+::: ex
+a. Ich habe gestern viel getanzt.
+b. Ich habe mir gestern einen Muskelkater angetanzt.
+:::
+
+## Deobjective diatheses ~~[OBJ › Ø]~~
+
+### *Akkusativ Wegfall* {#sec:summary-akkusativ-wegfall}
+
+An unmarked ~~Akkusativ Wegfall~~ (full discussion in [@sec:case-accusative-drop]) is a diathesis in which an accusative object can be left out without any further change in the construction. This is for example attested with the verb *stören* 'to disturb' [@next]. Note that when the accusative object of a verb allows for an antipassive diathesis ([@sec:summary-akkusativ-antipassiv]), then the verb should not also be included in this *Akkusativ Wegfall* diathesis. Also, there is a more widespread drop of an accusative that leads to an action-oriented focus ([@sec:summary-aktionsfokus]). Verbs with such a diathesis should not be included here. There is also a highly similary ~~Akkusativ Zusatz~~ diathesis ([@sec:summary-akkusativ-zusatz]) that should be distinguished separately. Once all those diatheses are separated, there turn out to be relatively few verbs with pure *Akkusativ Wegfall*, mainly verbs that can be interpreted both as something you can do, as well as something you can be.
+
+::: ex
+a. Du störst die Veranstaltung.
+b. Du störst.
+:::
+
+### *Dativ Wegfall* {#sec:summary-dativ-wegfall}
+
+The unmarked ~~Dative Wegfall~~, i.e. the dropping of a dative argument without any further change in the construction, is both attested with nominative-dative verbs like *entkommen* 'to get away' [@next a], full discussion in [@sec:case-dative-drop], and with nominative-accusative-dative verbs like *erzählen* 'to tell' [@next b], full discussion in [@sec:case-dative-drop-accusative]. Like with *Akkusativ Wegfall* ([@sec:summary-akkusativ-wegfall]), datives that allow for a dative antipassive ([@sec:summary-dativ-antipassiv]) should not also be included here.
+
+::: ex
+a. Er entkommt (seinem Feind).
+b. Ich erzähle (dir) eine Geschichte.
+:::
+
+### *Aktionsfokus* {#sec:summary-aktionsfokus}
+
+The ~~Aktionsfokus~~ (full discussion in [@sec:adverbial-action-focus]) is a widespread diathesis in which object arguments can be left out to put the focus on the action of the verb itselft. For example, a transitive verb like *lesen* 'to read' [@next a] can be used without an object as an answer to the question 'what is she doing right now?' [@next b]. Such dropped objects are even more widespread in combination with manner adverbials [@next c].
+
+::: ex
+a. Sie liest ein Buch.
+b. ^^?^ Sie liest.
+c. Sie liest gerne
+:::
+
+### *Endoreflexiv* {#sec:summary-endoreflexiv}
+
+The *Endoreflexiv* (full discussion in [@sec:reflexive-accusative-drop] and subsequent sections) is a special kind of object drop in which a reflexive pronoun is added. Such a diathesis looks superficially very similar to a regular self-inflicting reflexive ([@sec:summary-reflexiv]), but there is a crucial semantic difference. In a self-inflicting reflexive (e.g. 'he washes himself') the agent is doing something to him/herself. In contrast, an *Endoreflexiv* describes an action that is performed *with* the body of the agent, not *to* the body of the agent. For example, the verb *äußern* 'to remark' [@next a] can be used with a reflexive pronoun and without accusative object in the meaning of 'to express oneself' [@next b].
+
+::: ex
+a. Er äußert sein Bedauern über den Fall.
+b. Er äußert sich über den Fall.
+:::
+
+### *Präverb Endoreflexiv* {#sec:summary-praverb-endoreflexiv}
+
+The ~~Präverb Endoreflexiv~~ (full discussion in [@sec:preverb-reflexive-accusative-drop]) is similar to the previous *Endoreflexiv* ([@sec:summary-endoreflexiv]) but with the addition of a preverb. For example, the verb *wählen* 'to choose/to dial' shows a diathesis with *sich verwählen* 'to misdial' [@next a] in which the accusative object is dropped. There are also a few very special endoreflexive verbs in which an adverbial is necessary instead of a preverb, for example *fühlen* 'to feel' [@next b], see [@sec:adverbials-endoreflexive].
+
+::: ex
+a. Er wählt die falsche Nummer. \
+   Er verwählt sich.
+b. Ich fühle den Schmerz. \
+   Ich fühle mich gut.
+:::
+
+## Locative diatheses ~~[Ø › PBJ]~~
+
+### *Bewegungsart* {#sec:summary-bewegunsart}
+
+The ~~Bewegungsart~~ diathesis (full discussion in [@sec:prepositions-manner-of-movement] and subsequent sections) is a diathesis that is specifically attested with verbs of movement like *tanzen* 'to dance' [@next]. Movement verbs allow for both a *haben* and a *sein* perfect, but there is a crucial difference between these two options. With *sein* in the perfect there is an additional directional prepositional necessary [@next b,c]. Semantically, this construction expresses a movement, in which the main lexical verb designates the kind of movement.
+
+::: ex
+a. Ich habe (in dem Garten) getanzt.
+b. Ich bin durch den Garten getanzt.
+c. ^* ich bin getanzt.
+:::
+
+### *Verursachte Bewegung* {#sec:summary-verursachte-bewegung}
+
+The ~~Verursachte Bewegung~~ diathesis is attested in two variants. With intransitive verbs (full discussion in [@sec:prepositions-intransitive-location-as-result] and subsequent sections) like *schwitzen* 'to sweat' [@next a] this diathesis adds both an accusative and an obligatory movement phrase. Semantically, this diathesis expresses that the verb causes the movement of the new object role. With transitive verbs (full discussion in [@sec:prepositions-transitive-location-as-result]) like *befehlen* 'to command' the effect is similar [@next b]. With a movement prepositional phrase the semantic effect is that the verb causes the object to move.
+
+::: ex
+a. Ich schwitze. \
+   Ich schwitze einen Fleck in meinem Hemd. \
+   (= Ich schwitze, und dadurch entsteht ein Fleck in mein Hemd.)
+b. Ich befehle eine Armee. \
+   Ich befehle die Armee an die Front. \
+   (= Ich befehle, und dadurch geht die Armee an die Front.)
+:::
+
+### *Ergänzende Wirkung* {#sec:summary-erganzende-wirkung}
+
+The ~~Ergänzende Wirkung~~ diathesis (full discussion in [@sec:prepositions-performative-result]) expresses the result of performing the main verb. For example, a transitive verb like *machen* 'to make' can either take an object that is made [@next a] or an object that changed into something else [@next b]. The name *Ergänzende Wirkung* originates in the influential educational grammatical work of Karl Ferdinand Becker [@becker1833: 81] almost 200 years ago.
+
+::: ex
+a. Er macht seine Aufgaben. 
+b. Er macht die Wiese zu einem Garten.
+:::
+
+## Delocative diatheses ~~[PBJ › Ø]~~
+
+### *Präverb Antilokativ* {#sec:summary-praverb-antilokativ}
+
+The ~~Präverb Antilokativ~~ (full discussion in [@sec:preverb-intransitive-antiresultative] and subsequent sections) is a diathesis in which an obligatory location loses its obligatoriness by adding a preverb. For example, the diathesis between *steigen aus* and *aussteigen* 'to get out' [@next] shows a small but crucial difference in that the prepositional phrase *aus dem Auto* loses its obligatory status.
+
+::: ex
+a. Der Man steigt aus dem Auto.
+b. ^* Der Mann steigt.
+c. Der Mann steigt (aus dem Auto) aus.
+d. Der Mann steigt aus.
+:::
+
+### *Adverb Antilokativ* {#sec:summary-adverb-antilokativ}
+
+The ~~Adverb Antilokativ~~ (full discussion in [@sec:adverbs-antiresultative] and subsequent sections) is a parallel diathesis compared to the previous *Präverb Antilokativ* ([@sec:summary-praverb-antilokativ]). Instead of adding a preverb, this diathesis addds an obligatory resultative adverb, like *los* 'loose'. The diathesis between *binden* 'to tie' and *losbinden* 'to untie' removes the obligatory status of the locative prepositional phrase.
+
+::: ex
+a. Ich binde den Hund an die Leine.
+b. ^* Ich binde den Hund.
+c. Ich binde den Hund (von der Leine) los.
+d. Ich binde den Hund los.
+:::
+
+## Governed preposition change ~~[PBJ › PBJ]~~
+
+### *Reflexiv verursachte Bewegung* {#sec:summary-reflexiv-verursachte-bewegung}
+
+The ~~Reflexiv verursachte Bewegung~~ (full discussion in [@sec:reflexive-resultative]) is a special variant of the *Verursachte Bewegung* ([@sec:summary-verursachte-bewegung]). In this diathesis, a verb like *träumen von* 'to dream' with a governed prepositional phrase [@next a,b] can be used with a reflexive pronoun [@next c]. With the reflexive pronoun there is an additional obligatory movement phrase necessary [@next d]. Semantically, this a movement that is caused by the main verb.
+
+::: ex
+a. Ich träume von New York. 
+b. Ich träume davon nach New York zu reisen.
+c. Ich träume mich nach New York.
+d. ^* Ich träume mich.
+:::
+
+## Chained applicative diatheses ~~[ADJ › OBJ › ADJ]~~
+
+### *Vollapplikativ* {#sec:summary-vollapplikativ}
+
+The unmarked ~~Vollapplikativ~~ (full discussion in [@sec:prepositions-instrument-applicative]) is an extended version of an applicative. More precise, it is a combination of an applicative and a subsequent antipassive. For example, the verb *füllen* 'to fill' has two object roles: (i) the filled object *Flasche* 'bottle' and (ii) the filling substance *Schnaps* 'liquor'. Both roles alternate between a prepositional phrase and an accusative [@next a,b]. There appears to be an asymmetry in that the filling substance cannot be used as an accusative without mentioning the filled object [@next c], while the reverse is possible [@next d]. This asymmetry is also attested in the closely related *Präverb Vollpplikativ* (see [@sec:summary-praverb-vollapplikativ]). The construction with the filled object as accusative [@next b,d] is similar to the preverbal *befüllen*. The asymmetry indicates that this diathesis is basically an unmarked applicative (cf. [@sec:summary-praverb-applikativ]), but applied to transitive verbs. The applicative changes a prepositional phrase into an accusative and, as a consequency, any accusative already present is demoted like an antipassive.
+
+::: ex
+a. Er füllt den Schnaps in die Flasche.
+b. Er füllt die Flasche mit Schnaps.
+c. ^* Er füllt den Schnaps.
+d. Er füllt die Flasche.
 :::
 
 ### *Präverb Vollapplikativ* {#sec:summary-praverb-vollapplikativ}
 
-The ~~Präverb Vollapplikativ~~ (see [@sec:preverb-applicative-antipassive]) is even more common than the previous unmarked *Vollapplikativ*. There are two main antipassive strategies, namely *mit* and *in*. For example, with the diathesis from *schreiben* 'to write' to *beschreiben* 'to write on' [@next a] the written text *Buchstaben* 'letters' changes from an accusative to a *mit* prepositional phrase. Differently, with the diathesis from *graben* 'to dig' to *begraben* 'to bury' the digged entity *Loch* 'hole' changes from an accusative to an *in* prepositional phrase.
+The ~~Präverb Vollapplikativ~~ (full discussion in [@sec:preverb-applicative-antipassive]) is similar to the previous unmarked *Vollpplikativ*, combining an applicative and an antipassive diathesis. Noteworthy, there appear to be only two antipassive strategies, using the prepositions *mit* and *in*, respectively. For example, with the diathesis from *schreiben* 'to write' to *beschreiben* 'to write on' [@next a] the written text *Buchstaben* 'letters' changes from an accusative to a *mit* prepositional phrase. Differently, with the diathesis from *graben* 'to dig' to *begraben* 'to bury' the digged entity *Loch* 'hole' changes from an accusative to an *in* prepositional phrase. Both these prepositional phrases can be left unexpressed.
+
+In contrast to the few antipassive options, there is a wide variety of applicative strategies attested, i.e. many different prepositions can be promoted to accusative (see [@sec:preverb-applicative-antipassive] for all known examples). This asymmetry indicates that any *Vollapplikativ* is basically an applicative, but applied to verbs that already have an accusative argument. The German language disprefers multiple arguments with the same case, so the erstwhile accusative is demoted as another role is promoted to accusative. This corrolary demotion is reminiscent of subject demotion with passives.
 
 ::: ex
 a. Ich schreibe Buchstaben auf das Papier. \
@@ -1948,18 +2157,20 @@ b. Ich grabe ein Loch für meinen Hund. \
    Ich begrabe meinen Hund (im Loch).
 :::
 
-### *Ergebnisvollapplikativ* {#sec:summary-ergebnisvollapplikativ}
+### *Adverb Vollapplikativ* {#sec:summary-adverb-vollapplikativ}
 
-The ~~Ergebnisvollapplikativ~~ (see [@sec:adverbial-full-applicative]) is similar to the previous *Präverb Vollapplikativ* (see [@sec:summary-praverb-vollapplikativ]), but it only seems to occur with an adverb like *voll* 'full' [@next], turning the verb *pumpen* 'to pump' into *vollpumpen* 'to pump full'. Just as in the previous *Vollapplikative* the accusative role *Luft* 'air' can be left out when demoted to a *mit* prepositional phrase.
+The ~~Adverb Vollapplikativ~~ (full discussion in [@sec:adverbial-full-applicative]) is closely related to the previous *Präverb Vollapplikativ* (see [@sec:summary-praverb-vollapplikativ]), though marked with an adverb instead of a preverb. It mainly seems to occur with the adverb *voll* 'full' [@next a], for example turning the verb *pumpen* 'to pump' into *vollpumpen* 'to pump full'. Just as in the previous *Vollpplikativ* diatheses, the role *Luft* 'air' will be demoted to a *mit* prepositional phrase (or can be left out completely). With the adverb *leer* 'empty' [@next b] the erstwhile object cannot be retained as a prepositional phrase, see [@sec:adverbial-applicative-drop].
 
 ::: ex
-a. Ich pumpe Luft in den Reifen.
-b. Ich pumpe den Reifen voll (mit Luft).
+a. Ich pumpe Luft in den Reifen. \
+   Ich pumpe den Reifen voll (mit Luft).
+b. Ich pumpe das Wasser aus dem Keller. \
+   Ich pumpe den Keller leer.
 :::
 
 ### *Pertinenzakkusativ* {#sec:summary-pertinenzakkusativ}
 
-The ~~Pertinenzakkusativ~~ (see [@sec:perpositions-possessor-applicative]) is an accusative that alternates with a possessor of another accusative. A verb like *bewundern* 'to admire' marks the admired thing, e.g. *Ehrlichkeit* 'honesty' as an accusative [@next a]. Alternatively, the possessor of this accusative *seine* 'his' can be raised to being an accusative *ihn* 'him' [@next b], demoting the admired thing to a governed prepositional object [@next c].
+The ~~Pertinenzakkusativ~~ (full discussion in [@sec:perpositions-possessor-applicative]) is an accusative that alternates with a possessor of another accusative. A verb like *bewundern* 'to admire' marks the admired thing, e.g. *Ehrlichkeit* 'honesty' as an accusative [@next a]. After the diathesis, the possessor of this accusative *seine* 'his' is raised to accusative *ihn* 'him' [@next b], at the same time demoting the admired thing to a governed prepositional object with *für* [@next c].
 
 ::: ex
 a. Ich bewundere seine Ehrlichkeit.
@@ -1967,58 +2178,37 @@ b. Ich bewundere ihn für seine Ehrlichkeit.
 c. Ich bewundere ihn dafür, dass er ehrlich ist.
 :::
 
-## Resultative diatheses ~~[Ø › OBJ/PBJ]~~
+## Chained objective diatheses ~~[Ø › OBJ › PBJ]~~
 
-### Resultativ {#sec:summary-resultativ}
+### *Resultativ* {#sec:summary-resultativ}
 
-(see [@sec:case-accusative-addition])
+The unmarked ~~Resultativ~~ (full discussion in [@sec:prepositions-action-result] and subsequent sections) is a chained diathesis. A new accusative object is introduced ('objective') and the erstwhile object is demoted to a prepositional phrase ('antipassive'). However, these two remappings are tightly intertwined and have to occur together. Semantically, the effect is resultative and highly similar to the *Verursachte Bewegung* diathesis ([@sec:summary-verursachte-bewegung]), but the remapping of roles is crucially different as there is no chained remapping. 
 
-### Ortsresultativ {#sec:summary-ortsresultativ}
+An example is shown in [@next] with the verb *brechen* 'to break'. This verb can be used with an accusative argument describing the role of the broken thing, here *Felsen* 'rock' [@next a]. Alternatively, a different role can be marked with an accusative, namely the result of the breaking, here *Loch* 'hole' [@next b]. In this usage, a location is obligatory present in the sentence, here *in den Felsen* 'in the rock' [@next b,c]. This location represents the place in which the resulting of the breaking is found, so this location is the broken thing itself.
 
-(see [@sec:prepositions-intransitive-location-as-result] and subsequent sections)
+::: ex
+a. Ich breche den Felsen.
+b. Ich breche ein Loch in den Felsen.
+c. ^* Ich breche ein Loch.
+:::
 
-### Präverb Resultativ {#sec:summary-praverb-resultativ}
+## Chained deobjective diatheses ~~[PBJ › OBJ › Ø]~~
 
-(see [@sec:preverb-reflexive-resultative] and subsequent sections)
+### *Präverb Antiresultativ* {#sec:summary-antiresultativ}
 
-### Reflexiv Resultativ {#sec:summary-reflexiv-resultativ}
+The ~~Präverb Antiresultativ~~ (full discussion in [@sec:preverb-location-antiresultative]) is the reverse of the previous *Resultativ* ([@sec:summary-resultativ]). Verbs like *pressen* 'to squeeze' [@next a] obligatorily take an accusative result, here *Saft* 'juice', and a prepositional object from which the result originates, here *aus der Zitrone* 'from the citron' [@next b]. With a preverb *auspressen* 'to squeeze' [@next c] the accusative result is dropped ('deobjective') and the originating prepositional object from which the result was produced is turned into a new accusative role ('applicative'). However, these two remappings are tightly intertwined and can only be used together. Semantically, there is a close connection to the *Präverb Antilokativ* diathesis ([@sec:summary-praverb-antilokativ]).
 
-(see [@sec:reflexive-resultative]) ~~[PBJ › PBJ]~~
-
-### Aktionsresultativ {#sec:summary-aktionsresultativ}
-
-(see [@sec:prepositions-action-result])
-
-### Bewegungszustand {#sec:summary-bewegungszustand}
-
-see [@sec:prepositions-manner-of-movement] and subsequent sections)
-
-### Ergänzende Wirkung {#sec:summary-erganzende-wirkung}
-
-(see [@sec:prepositions-performative-result]
-
-## Antiresultative diatheses ~~[OBJ/PBJ › Ø]~~
-
-### Endoreflexiv {#sec:summary-endoreflexiv}
-
-(see [@sec:reflexive-accusative-drop] and subsequent sections)
-
-### Präverb Antiresultativ {#sec:summary-praverb-antiresultativ}
-
-(see [@sec:preverb-intransitive-antiresultative] and subsequent sections)
-
-### Aktionsantiresultativ {#sec:summary-aktionsantiresultativ}
-
-(see [@sec:preverb-location-antiresultative] and subsequent sections)
-
-### Adverb Antiresultativ {#sec:summary-adverb-antiresultativ}
-
-(see [@sec:adverbs-antiresultative] and subsequent sections)
+::: ex
+a. Ich presse den Saft aus der Zitrone.
+b. ^* Ich presse den Saft.
+c. Ich presse die Zitrone aus.
+:::
 
 ## Epitheses: clause alternations without diathesis
 
-- Selbstbezogener Reflexiv
-- Reziprok
+### Selbstbezogener Reflexiv {#sec:summary-reflexiv}
+
+### Reziprok
   
 - Freier Reflexiv
 - Präverb Reflexiv [@sec:preverb-reflexive]

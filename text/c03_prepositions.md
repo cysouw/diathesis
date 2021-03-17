@@ -42,16 +42,16 @@ There are fourteen local groups of diatheses that seem prominent enough to be gi
 - ~~[PBJ › SBJ › Ø] Kreationssubjektivierung~~ (see [@sec:prepositions-fabricative-accusative ff.])
 - ~~[OBJ › SBJ › Ø] Ortsantikausativ~~ (see [@sec:prepositions-haben-caused-location])
 - ~~[Ø › SBJ › OBJ] Ortskausativ~~ (see [@sec:prepositions-sein-caused-location ff.])
-- ~~[OBJ › ADJ] Akkusativ Antipassiv~~ (see [@sec:prepositions-accusative-antipassive ff.])
-- ~~[OBJ › ADJ] Dativ Antipassiv~~ (see [@sec:prepositions-dative-antipassive ff.])
-- ~~[Ø › PBJ] Bewegungszustand~~ (see [@sec:prepositions-manner-of-movement ff.])
 - ~~[Ø › PBJ] Ortsresultativ~~ (see [@sec:prepositions-intransitive-location-as-result ff.])
-- ~~[Ø › OBJ › PBJ] Aktionsresultativ~~ (see [@sec:prepositions-action-result])
+- ~~[Ø › PBJ] Bewegungszustand~~ (see [@sec:prepositions-manner-of-movement ff.])
 - ~~[Ø › PBJ] Ergänzende Wirkung~~ (see [@sec:prepositions-performative-result]
+- ~~[Ø › OBJ › PBJ] Aktionsresultativ~~ (see [@sec:prepositions-action-result])
 - ~~[ADJ › OBJ] Benefaktivdativ~~ (see [@sec:prepositions-benefactive-dative])
 - ~~[ADJ › OBJ] Ortspertinenzdativ~~ (see [@sec:prepositions-possessor-of-location-to-dative-experiencer ff.])
 - ~~[ADJ › OBJ › PBJ] Pertinenzakkusativ~~ (see [@sec:perpositions-possessor-applicative])
-- ~~[ADJ › OBJ › ADJ] Vollapplikativ~~ (see [@sec:prepositions-instrument-applicative])
+- ~~[ADJ › OBJ › ADJ] Transitiv Applikativ~~ (see [@sec:prepositions-instrument-applicative])
+- ~~[OBJ › ADJ] Antipassiv~~ (see [@sec:prepositions-accusative-antipassive ff.])
+- ~~[OBJ › ADJ] Dativ Antipassiv~~ (see [@sec:prepositions-dative-antipassive ff.])
 
 ## Delimiting governed prepositional phrases {#sec:prepositions-delimiting-governed-prepositional-phrases}
 
@@ -688,7 +688,7 @@ b. ^* Der Elefant hat ins Wasser gestürzt.
 c. Ich habe den Elefanten ins Wasser gestürzt.
 :::
 
-This alternation is strongly reminiscent of the "Zustandspassiv" (see Section ???), but there is a crucial difference in that both the transitive [@next a,b] and the intransitive [@next c,d] can occur in the present tense. This is crucially different from regular transitive verbs [@nnext] for which the intransitive present is not possible [@nnext d].
+This alternation is strongly reminiscent of the *Zustandspassiv* (see [@sec:participles-sein-zustandspassiv]), but there is a crucial difference in that with *stürzen* both the transitive [@next a,b] and the intransitive [@next c,d] can occur in the present tense. This is crucially different from regular transitive verbs like *öffnen* [@nnext] for which the intransitive present is not possible [@nnext d].
 
 ::: ex
 a. Ich habe den Elefanten ins Wasser gestürzt.
@@ -706,14 +706,14 @@ d. ^* Der Brief öffnet.
 
 **Attested Verbs**
 
-- *fahren, rücken, stürzen, überfahren, ziehen*
+- *fahren, hetzen, rücken, stürzen, ziehen*
 
 **Examples**
 
 - Ich rücke den Tisch zur Seite. Die Soldaten rücken in die Kaserne.
 - Das hohe Gehalt zieht ihn nach Australien. Er zieht nach Australien.
 - Er hat uns nach Hause gefahren. Wir sind nach Hause gefahren.
-- Das Boot hat uns übergefahren. Wir sind übergefahren.
+- Der Hund ist durch den Wald gehetzt. Der Hund hat den Hasen durch den Wald gehetzt.
 
 **Notes**
 
@@ -1430,15 +1430,16 @@ This alternation allows for either a dative to be present or not with verbs that
 - Es fehlt an Geld. Ihm fehlt es an Geld.
 - Es liegt am Geld. Es liegt mir viel am Geld. Es liegt mir daran, dass du es erfährst.
 
-### --- [ Ø > PBJ ] --- *Bewegungszustand* {.unnumbered}
+### --- [ Ø > PBJ ] --- *Bewegungsart* {.unnumbered}
 
 ### [ N– | NL ] Manner of movement {#sec:prepositions-manner-of-movement}
 
-Some movement verbs allow for the following two kinds of constructions. First a regular intransitive construction expressing the movement [@next a] and, second, a construction with a local prepositional phrase in which the movement verb expresses the manner of movement [@next b]. Syntactically, there is a crucial difference between these two constructions in that the Perfekt auxiliary changes between *haben* [@next a] and *sein* [@next b]. In the Perfekt construction with *sein* the local prepositional phrase cannot be left out [@next c].
+Some movement verbs allow for the following two kinds of constructions. First a regular intransitive construction expressing the movement [@next a] and, second, a construction with a local prepositional phrase in which the movement verb expresses the manner of movement [@next b]. Syntactically, there is a crucial difference between these two constructions in that the *Perfekt* auxiliary changes between *haben* [@next a] and *sein* [@next b]. In the *Perfekt* construction with *sein* the local prepositional phrase cannot be left out [@next c].
 
 ::: ex
 a. Ich habe (in dem Garten) getanzt.
-b. Ich bin durch den Garten getanzt.
+b. Ich bin durch den Garten getanzt. \
+   (= Ich habe mich tanzend durch den Garten bewegt.)
 c. ^* ich bin getanzt.
 :::
 
@@ -1478,11 +1479,11 @@ b. Sie stürmten in den Saal.
 - Seine Zähne blitzten in der Sonne.
 - Die Motoren donnerten durch die Stadt.
 
-### --- [ Ø > PBJ ] --- *Ortsresultativ* {.unnumbered}
+### --- [ Ø > PBJ ] --- *Verursachte Bewegung* {.unnumbered}
 
 In the analysis of resultative constructions, there is a recurrent suggestion in the literature to distinguish between 'cause to go' and 'cause to become' semantics (e.g. [@mcintyre2003: 120]). I will use the designation 'location-as-result' for the former and names like 'action result' or 'performative result' for the latter here.
 
-### [ N– – | NAL ] Intransitive location-as-result {#sec:prepositions-intransitive-location-as-result}
+### [ N– – | NAL ] Intransitive forced movement {#sec:prepositions-intransitive-location-as-result}
 
 With some apparently intransitive verbs there exist special constructions with an accusative argument and an obligatorily present prepositional phrase. For example, the verb *klopfen* 'to knock' is regularly used as an intransitive [@next a] possibly with an *an* prepositional phrase [@next b]. Accusative arguments are normally not possible, except for a very few special nouns related to music [@next c].
 
@@ -1524,7 +1525,6 @@ Er klopft den Aschenbecher leer.
 - Ich huste dir meine Schwindsucht ins Gesicht.
 - Der Sturm regnete den Schmutz von den Dächern.
 - Sie pustet den Staub vom Tisch.
-- Ich schlafe ein Loch in den Tag.
 - Er spuckte die Kirschkerne ins Gras.
 - Ich schlafe den Rausch aus meinem Kopf.
 - Ich schwitze einen Fleck in meinem Hemd.
@@ -1532,13 +1532,13 @@ Er klopft den Aschenbecher leer.
 - Er schwindelt ihn auf die Liste.
 - Sie gräbt das Frühstück aus dem Rucksack.
 - Das Herz pumpt das Blut durch den Körper.
-- Das allgemeine politische Klima weht den Illegalen ins Gesicht. (Die Zeit, 30.07.2010)
-- Der Zeitgeist weht den üblichen Akustikschrott in die Besucherohren. (Die Zeit, 08.03.1996)
-- Die frische Brise kämmt die Palmen und weht den Flugsand auf die Promenade. (Die Zeit, 04.05.1990)
-- Man rückt und rutscht nicht dauernd auf seinem Stuhl hin und her, man vermeidet es, die anderen Besucher mit seinen langen Beinen zu behelligen, oder hustet den in der nächsten Reihe Sitzenden nicht ungeniert in den Nacken. (Oheim, Gertrud: Einmaleins des guten Tons, Gütersloh: Bertelsmann 1957 [1955], S. 296)
-- Ich huste den letzten Bissen Leberkäse auf den Rasen. (Lehner, Angela: Vater Unser, Berlin: Hanser 2019)
-- Man taute in der Sauna seine durchfrorenen Glieder auf und schwitzte den Schmutz aus den Poren. (Fresenius, Hanna: Sauna, Reinbek bei Hamburg: Rowohlt 1987 [1974], S. 15)
-- Der Meister war da, stampfte den Schnee von den Schuhen. (Weismantel, Leo: Die höllische Trinität, Berlin: Union-Verlag 1966 [1943], S. 54)
+- Das allgemeine politische Klima weht den Illegalen ins Gesicht.^[DWDS: Die Zeit, 30.07.2010]
+- Der Zeitgeist weht den üblichen Akustikschrott in die Besucherohren.^[DWDS: Die Zeit, 08.03.1996]
+- Die frische Brise kämmt die Palmen und weht den Flugsand auf die Promenade.^[DWDS: Die Zeit, 04.05.1990]
+- Man rückt und rutscht nicht dauernd auf seinem Stuhl hin und her, man vermeidet es, die anderen Besucher mit seinen langen Beinen zu behelligen, oder hustet den in der nächsten Reihe Sitzenden nicht ungeniert in den Nacken.^[DWDS: Oheim, Gertrud: Einmaleins des guten Tons, Gütersloh: Bertelsmann 1957, S. 296]
+- Ich huste den letzten Bissen Leberkäse auf den Rasen.^[DWDS: Lehner, Angela: Vater Unser, Berlin: Hanser 2019]
+- Man taute in der Sauna seine durchfrorenen Glieder auf und schwitzte den Schmutz aus den Poren.^[DWDS: Fresenius, Hanna: Sauna, Reinbek bei Hamburg: Rowohlt 1987, S. 15]
+- Der Meister war da, stampfte den Schnee von den Schuhen.^[DWDS: Weismantel, Leo: Die höllische Trinität, Berlin: Union-Verlag 1966, S. 54]
 
 **Notes**
 
@@ -1547,18 +1547,19 @@ This construction is also found in fixed (metaphorical) expressions.
 ::: ex
 a. Er trinkt seine Freunde unter den Tisch.
 b. Er spielt den Gegner an die Wand.
+c. Ich schlafe ein Loch in den Tag.
 :::
 
-### [ NA– | NAL ] Transitive location-as-result {#sec:prepositions-transitive-location-as-result}
+### [ NA– | NAL ] Transitive forced movement {#sec:prepositions-transitive-location-as-result}
 
 Similar to intransitive resultatives (see [@sec:prepositions-intransitive-location-as-result]), some transitive verbs [@next a] alternate with a location as result [@next b,c]. There is a slightly different construction with a dative after the preposition *an* [@next d]. In this example the prepositional phrase simply expresses the location in which the action is taking place [@next e], so there is no valency alternation. 
 
 ::: ex
 a. Ich befehle eine Armee.
-b. Ich befehle dich an die Front.
-c. Ich befehle dich, und das Resultat ist: du bist an der Front.
-d. Ich befehle dich an der Front.
-e. Ich befehle dich während ich an der Front bin.
+b. Ich befehle die Armee an die Front.
+c. Ich befehle, und das Resultat ist: die Armee ist an der Front.
+d. Ich befehle die Armee an der Front.
+e. Ich befehle die Armee, während ich an der Front bin.
 :::
 
 **Attested Verbs**
@@ -1575,7 +1576,40 @@ e. Ich befehle dich während ich an der Front bin.
 - Ich schneide meine Nägel. Ich schneide den Apfel in Stücke.
 - der Kutscher peitschte das Pferd. Ein Tornado peitscht Tausende von Haien aus dem Meer.
 
-### --- [ Ø > OBJ > PBJ ] --- *Aktionsresultativ* {.unnumbered}
+### --- [ Ø > PBJ ] --- *Ergänzende Wirkung* {.unnumbered}
+
+### [ NA– | NAP ] Performative result {#sec:prepositions-performative-result}
+
+A slightly different variant of a resultative constructions is found with various performative verbs that take a regular accusative [@next a]. As an alternative structure, these verbs also allow a construction with an accusative and a preposition [@next b]. The meaning of such constructions is parallel to the previous resultatives, in that the performative verb causes the result "accusative is prepositional object" [@next c]. Such constructions were named quite aptly "Ergänzende Wirkung" all the way back in the influential educational grammatical work of Karl Ferdinand Becker [@becker1833: 81] almost 200 years ago.
+
+::: ex
+a. Er macht die Aufgaben. 
+b. Er macht die Wiese zu einem Garten.
+c. Er macht etwas, und das Ergebnis ist: Die Wiese ist ein Garten.
+:::
+
+Maybe the *als* alternation has to treated as a separate diathesis.
+
+**Attested Verbs**
+
+- *zu*  : *erklären, machen*
+- *für* : *halten, erklären*
+- *als* : *ansehen, benennen, betrachten, bezeichnen, empfinden*
+
+**Examples**
+
+- Sie erklärte das Problem. Sie erklärte die Behauptung für eine Lüge.
+- Ich betrachte dich. Ich betrachte dich als einen Freund.
+- Ich sehe dich an. Ich sehe dich als einen Freund an.
+
+**Notes**
+
+For some verbs there appears to be a rather clear lexicalisation of the meaning of the verb between the two alternants, i.e. it is questionable, whether the alternant should still be considered to be the same verb.
+
+- Ich halte das Schwert. Ich halte dich für einen Scharlatan.
+- Sie erklärte die Lösung. Sie erklärte den Kandidaten zum Geschäftsführer.
+
+### --- [ Ø > OBJ > PBJ ] --- *Resultativ* {.unnumbered}
 
 ### [ NA– | NLA ] Action result {#sec:prepositions-action-result}
 
@@ -1629,41 +1663,6 @@ b. Sie schimpft mich einen Narren
 **Examples**
 
 - Er sitzt immer am selben Platz bei Bier und Schnaps, flucht mich einen Tagedieb, einen Affen, Bananenfresser, einen, der schon längstens in eine Arbeitserziehungsanstalt gehöre. (http://www.gruppe-4-w.de/forum/viewtopic.php?f=21&t=2047#p19030, accessed 29 Juli 2019)
-
-### --- [ Ø > PBJ ] --- *Ergänzende Wirkung* {.unnumbered}
-
-### [ NA– | NAP ] Performative result {#sec:prepositions-performative-result}
-
-(Obligatory prepositional phrase?)
-
-A slightly different variant of a resultative constructions is found with various performative verbs that take a regular accusative [@next a]. As an alternative structure, these verbs also allow a construction with an accusative and a preposition [@next b]. The meaning of such constructions is parallel to the previous resultatives, in that the performative verb causes the result "accusative is prepositional object" [@next c]. Such constructions were named quite aptly "Ergänzende Wirkung" all the way back in the influential educational grammatical work of Karl Ferdinand Becker [@becker1833: 81] almost 200 years ago.
-
-::: ex
-a. Er macht die Aufgaben. 
-b. Er macht die Wiese zu einem Garten.
-c. Er macht etwas, und das Ergebnis ist: Die Wiese ist ein Garten.
-:::
-
-Maybe the *als* alternation has to treated as a separate diathesis.
-
-**Attested Verbs**
-
-- *zu*  : *erklären, machen*
-- *für* : *halten, erklären*
-- *als* : *ansehen, benennen, betrachten, bezeichnen, empfinden*
-
-**Examples**
-
-- Sie erklärte das Problem. Sie erklärte die Behauptung für eine Lüge.
-- Ich betrachte dich. Ich betrachte dich als einen Freund.
-- Ich sehe dich an. Ich sehe dich als einen Freund an.
-
-**Notes**
-
-For some verbs there appears to be a rather clear lexicalisation of the meaning of the verb between the two alternants, i.e. it is questionable, whether the alternant should still be considered to be the same verb.
-
-- Ich halte das Schwert. Ich halte dich für einen Scharlatan.
-- Sie erklärte die Lösung. Sie erklärte den Kandidaten zum Geschäftsführer.
 
 ### --- [ ADJ > OBJ ] --- *Benefaktivdativ* {.unnumbered}
 
@@ -1828,7 +1827,7 @@ a. Die Kinder wimmeln auf den Platz.
 b. Der Platz wimmelt von Kindern. 
 :::
 
-### --- [ ADJ > OBJ > ADJ ] --- *Vollapplikativ* {.unnumbered}
+### --- [ ADJ > OBJ > ADJ ] --- *Transitiv Applikativ* {.unnumbered}
 
 ### [ NAp | NpA ] Full applicative {#sec:prepositions-instrument-applicative}
 

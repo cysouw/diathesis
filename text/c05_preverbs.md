@@ -15,16 +15,18 @@ The central generalisation that can be extracted from the numerous examples in t
 
 As is customary in German grammar, I will restrict the notion of verb particles to morphemes that are related to prepositions. There are very many other morphemes that behave syntactically rather similar to particles, but which are related to adverbials/adjectives. These adverbial/adjectival preverbs are much more limited in the kind of diatheses that they induce, so I have decided to discuss them separately in the next chapter under the heading of adverbial alternations.
 
-There are eight local groups of diatheses that seem prominent enough to be given a German name. I propose the following names for these:
+There are ten local groups of diatheses that seem prominent enough to be given a German name. I propose the following names for these:
 
-- ~~[Ø › SBJ › OBJ] Präverb Kausativ~~ (see [@sec:preverb-causative]ff.)
-- ~~[OBJ › ADJ] Präverb Antipassiv~~ (see [@sec:preverb-reflexive-antipassive]ff.)
-- ~~[PBJ › Ø] Präverb Antiresultativ~~ (see [@sec:preverb-intransitive-antiresultative]ff.)
-- ~~[PBJ › OBJ › Ø] Aktionsantiresultativ~~ (see [@sec:preverb-location-antiresultative]ff.)
-- ~~[Ø › OBJ] Präverb Resultativ~~ (see [@#sec:preverb-reflexive-resultative]ff.)
-- ~~[ADJ › OBJ] Präverb Akkusativ Applikativ~~ (see [@sec:preverb-applicative])
+- ~~[Ø › SBJ › OBJ] Präverb Kausativ~~ (see [@sec:preverb-causative] ff.)
+- ~~[Ø › OBJ] Präverb Akkusativ Zugabe~~ (see [@sec:preverb-accusative-addition] ff.)
+- ~~[Ø › OBJ] Präverb Dativ Zugabe~~ (see [@sec:preverb-dative-addition] ff.)
+- ~~[Ø › OBJ] Präverb Resultativ~~ (see [@#sec:preverb-reflexive-resultative] ff.)
+- ~~[ADJ › OBJ] Präverb Applikativ~~ (see [@sec:preverb-applicative])
 - ~~[ADJ › OBJ] Präverb Dativ Applikativ~~ (see [@sec:preverb-dative-applicative])
-- ~~[ADJ › OBJ › ADJ] Präverb Vollapplikativ~~ (see [@sec:preverb-applicative-antipassive])
+- ~~[ADJ › OBJ › ADJ] Präverb Transitiv Applikativ~~ (see [@sec:preverb-applicative-antipassive])
+- ~~[PBJ › Ø] Präverb Antiresultativ~~ (see [@sec:preverb-intransitive-antiresultative] ff.)
+- ~~[PBJ › OBJ › Ø] Aktionsantiresultativ~~ (see [@sec:preverb-location-antiresultative] ff.)
+- ~~[OBJ › ADJ] Präverb Dativ Antipassiv~~ (see [@sec:preverb-dative-antipassive])
 
 ## Characterizing preverbs
 
@@ -772,28 +774,26 @@ c. Dein Verhalten verwundert mich
 - Die Polizei hat den Dieb gegriffen. Die Polizei hat eingegriffen.
 - Ich trinke das Wasser. Ich ertrinke.
 
+### [ ND | N– ] Preverb reflexive dative drop
+
+**Attested Verbs**
+
+- beˈ- : *helfen*
+
+**Examples**
+
+- Ich helfe dir. Ich behelfe mich.
+
+### --- [ OBJ > Ø ] --- *Präverb Endoreflexiv* {.unnumbered}
+
 ### [ NA | N– ] Preverb reflexive accusative drop {#sec:preverb-reflexive-accusative-drop}
 
-bodily action ?!
+bodily action, see [@sec:reflexive-accusative-drop]
 
 ::: ex
 a. Er wählt die falsche Nummer.
 b. Er verwählt sich.
 :::
-
-sometimes accusative retained as instrumental *mit*?
-
-Other prepositions? *bei/an* ?
-
-::: ex
-a. Ich trinke Bier.
-b. Ich betrinke mich (mit Bier).
-:::
-
-Antiresultative?
-
-- Ich fahre, und am Ende habe ich dadurch *kein* Benzin mehr. Ich verfahre mein letztes Benzin.
-- Ich spiele, und am Ende habe ich dadurch *kein* Geld mehr. Ich verspiele mein letztes Geld.
 
 **Attested Verbs**
 
@@ -808,35 +808,9 @@ Antiresultative?
 - Ich spreche drei Sätze. Ich verspreche mich.
 - Ich greife den Zucker. Ich habe mich vergriffen.
 - Ich hebe die schwere Kiste. Ich überhebe mich.
+- Ich trinke Bier. Ich betrinke mich (mit Bier).
 
-### [ ND | N– ] Preverb reflexive dative drop
-
-**Attested Verbs**
-
-- beˈ- : *helfen*
-
-**Examples**
-
-- Ich helfe dir. Ich behelfe mich.
-
-### [ NDA | N–A ] Preverb dative drop + accusative {#sec:preverb-dative-drop}
-
-verbs of sending ?!
-can they dative maybe always be replaced by a preposition? Then merge into dative antipassive
-
-**Attested Verbs**
-
-- verˈ-   : *leihen, geben, schenken, schicken*
-- ˈab-    : *geben, senden, schicken*
-- ˈdurch- : *reichen*
-
-**Examples**
-
-- Ich schenke dir meine Bücher. Ich verschenke meine Bücher.
-- Ich schicke dir den Brief. Ich habe den Brief abgeschickt.
-- Ich reiche dir das Essen. Ich habe das Essen durchgereicht.
-
-### --- [ OBJ > ADJ ] --- *Präverb Antipassiv* {.unnumbered}
+### --- [ OBJ > ADJ ] --- {.unnumbered}
 
 ### [ NA | Np ] Preverb reflexive antipassive {#sec:preverb-reflexive-antipassive}
 
@@ -872,20 +846,31 @@ Maybe always possible with accusative drop verbs
 
 - Ich danke dir. Ich bedanke mich bei dir.
 
-### [ NAD | NAp ] Preverb dative antipassive + accusative
+### [ NAD | NAp ] Preverb dative antipassive + accusative (*Präverb Dativ Antipassiv*) {#sec:preverb-dative-antipassive}
+
+The original dative can be retained as a prepositional phrase, but is typically omitted.
+
+::: ex
+a. Ich schenke dem Kindergarten meine Bücher.
+b. Ich verschenke meine Bücher (an den Kindergarten).
+:::
 
 **Attested Verbs**
 
 - erˈ-    : *bringen*
-- verˈ-   : *geben, senden, schenken, schicken*
+- verˈ-   : *geben, leihen, senden, schenken, schicken*
 - unterˈ- : *schreiben*
-
+- ˈab-    : *geben, senden, schicken*
+- ˈdurch- : *reichen*
+  
 **Examples**
 
 - Er hat dem Lehrer die Arbeit gebracht. Er hat die Leistung erbracht (für den Lehrer).
 - Ich schenke dir ein Buch. Ich verschenke das Buch an dich.
 - Ich schreibe dir einen Brief. Ich unterschreibe einen Brief an dich.
 - Ich geben dem Handwerker den Auftrag, Ich vergebe den Auftrag an den Handwerker.
+- Ich schicke dir den Brief. Ich habe den Brief abgeschickt.
+- Ich reiche dir das Essen. Ich habe das Essen durchgereicht.
 
 ### --- [ OBJ > OBJ > ADJ ] --- {.unnumbered}
 
@@ -1089,24 +1074,27 @@ Lipka [-@lipka1972: 93, 173] calls this diathesis 'Objektvertauschung' and McInt
 
 ## Diatheses with promotion to object {#sec:preverb-promotion-to-object}
 
-### --- [ Ø > OBJ ] --- {.unnumbered}
+### --- [ Ø > OBJ ] --- *Präverb Akkusativ Zugabe* {.unnumbered}
 
 ### [ N– | NA ] Preverb accusative addition {#sec:preverb-accusative-addition}
+
+::: ex
+a. Sie zaubert.
+b. Sie verzaubert mich.
+:::
 
 **Attested Verbs**
 
 - beˈ-  : *schummeln, zaubern*
 - erˈ-  : *leben, leuchten, lügen, morden, schnüffeln, schwindeln, wandern*
-- verˈ- : *dösen, gammeln, pennen, petzen, schlafen, schweigen, schwitzen, speisen, träumen, trödeln, wackeln, zaubern*
-- entˈ- : *gehen, kommen, wachsen, zaubern*
+- verˈ- : *dösen, fahren, gammeln, pennen, petzen, schlafen, schweigen, schwitzen, speisen, spielen, träumen, trödeln, wackeln, zaubern*
+- entˈ- : *zaubern*
 - ˈan-  : *blinzeln, fauchen, hupen, leuchten*
 - ˈab-  : *schreiten*
 
 **Examples**
 
-- Ich gehe. Ich entgehe dem Urteil.
 - Ich schlafe (während der Vorlesung). Ich verschlafe die Vorlesung
-- Sie zaubert. Sie verzaubert mich.
 - Der Fotograf wackelt. Der Fotograf verwackelt das Foto.
 - Sie petzt. Sie verpetzt den Jungen.
 - Sie mordet. Sie ermordert ihn.
@@ -1114,6 +1102,8 @@ Lipka [-@lipka1972: 93, 173] calls this diathesis 'Objektvertauschung' and McInt
 - Ich habe gehupt. Ich habe dich angehupt.
 - Ich blinzelte (in die Sonne). Ich blinzelte dich an.
 - Der Mond leuchtet. Der Mond leuchtet uns an.
+- Ich verfahre mein letztes Benzin. (Ich fahre, und am Ende habe ich dadurch *kein* Benzin mehr.)
+- Ich verspiele mein letztes Geld. (Ich spiele, und am Ende habe ich dadurch *kein* Geld mehr.)
 
 ### [ N– | NA ] Preverb adjectival accusative addition {#sec:prever-adjectival-addition}
 
@@ -1161,7 +1151,30 @@ b. Sie vertraut mir ein Geheimnis an.
 
 - ˈan- : *vertrauen*
 
-### [ N–A | NDA ] Preverb dative addition + accusative {#sec:preverb-dative-additions}
+### --- [ Ø > OBJ ] --- *Präverb Dativ Zugabe* {.unnumbered}
+
+### [ N– | ND ] Preverb dative addition {#sec:preverb-dative-addition}
+
+::: ex
+a. Ich gehe (nach Hause).
+b. Ich entgehe dem Urteil.
+:::
+
+**Attested Verbs**
+
+- entˈ- : *gehen, kommen, wachsen, zaubern*
+
+**Examples**
+
+- Ich komme. Ich entkomme einer Gefahr.
+- Das Kind wächst. Das Kind entwächst den Windeln.
+
+### [ N–A | NDA ] Preverb dative addition + accusative {#sec:preverb-dative-addition-accusative}
+
+::: ex
+a. Ich lese ein Buch.
+b. Ich lese dir ein Buch vor.
+:::
 
 **Attested Verbs**
 
@@ -1173,7 +1186,6 @@ b. Sie vertraut mir ein Geheimnis an.
 **Examples**
 
 - Ich nehme die Einkäufe (in die Hand). Ich nehme ihr die Einkäufe ab.
-- Ich lese ein Buch. Ich lese dir ein Buch vor.
 - Ich habe den Ball geworfen. Ich habe dir den Ball zugeworfen
 - Ich habe den Schal geworfen. Ich habe dir den Schal übergeworfen.
 
@@ -1256,7 +1268,7 @@ b. Ich sehe ihm die Müdigkeit an.
 
 - Ich höre seine Müdigkeit. Ich höre ihm die Müdigkeit an.
 
-### --- [ ADJ > OBJ ] --- *Präverb Akkusativ Applikativ* {.unnumbered}
+### --- [ ADJ > OBJ ] --- *Präverb Applikativ* {.unnumbered}
 
 ### [ Np | NA ] Preverb applicative {#sec:preverb-applicative}
 
@@ -1591,9 +1603,9 @@ b. Ich verschweige dir meinen Besuch.
 - Ich lüge (zu dir) über meine Leistung. Ich lüge dir eine Geschichte vor.
 - Ich schwatze (mit dir) über dein Geld. Ich schwatze dir dein Geld ab.
 
-### --- [ ADJ > OBJ > OBJ ] --- {.unnumbered}
+### --- [ PBJ > OBJ > OBJ ] --- {.unnumbered}
 
-### [ NPA | NAD ] Preverb applicative + accusative-to-dative {#sec:preverb-applicative-accusative-to-dative}
+### [ NPA | NAD ] Preverb governed applicative + accusative-to-dative {#sec:preverb-applicative-accusative-to-dative}
 
 ::: ex
 a. Ich dränge dich zu einem Abo.
@@ -1710,7 +1722,7 @@ b. Das Haus erstrahlt in der Sonne.
 
 - Der Efeu wächst an der Hauswand. Die Hauswand wächst durch den Efeu zu.
 
-### --- [ ADJ > OBJ > ADJ ] --- *Präverb Vollapplikativ* {.unnumbered}
+### --- [ ADJ > OBJ > ADJ ] --- *Präverb Transitiv Applikativ* {.unnumbered}
 
 ### [ NpA | NAp ] Preverb applicative + *mit* antipassive {#sec:preverb-applicative-antipassive}
 
@@ -1850,9 +1862,7 @@ b. Ich begrabe meinen Hund in dem Loch.
 - Ich baue ein Haus mit den Steinen. Ich verbaue die Steine in dem Haus.
 - Ich wickle das Tuch um den Arm. Ich wickle den Arm in dem Tuch ein.
 
-### --- [ PBJ > OBJ > ADJ ] --- {.unnumbered}
-
-### [ NPA | NAp ] Preverb applicative + *von* antipassive {#sec:preverb-applicative-von-antipassive}
+### [ NpA | NAp ] Preverb applicative + *von* antipassive {#sec:preverb-applicative-von-antipassive}
 
 ::: ex
 a. Er zwingt ihn zu einem Geständnis.
@@ -1868,7 +1878,7 @@ erˈ- : *bitten, fragen, pressen, zwingen*
 - Ich bitte dich um einen Gefallen. Ich erbitte einen Gefallen von dir.
 - Ich frage dich nach dem Weg zum Bahnhof. Ich erfrage den Weg zum Bahnhof von dir.
 
-### [ NPA | NAp ] Preverb reflexive applicative + *von* antipassive
+### [ NpA | NAp ] Preverb reflexive applicative + *von* antipassive
 
 Counterexample to generalisation that non-self-inflicting reflexive pronouns are always accusative!
 

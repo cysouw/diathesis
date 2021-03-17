@@ -573,7 +573,7 @@ Although there is no overt difference between an unmarked anticausative and an u
 **Attested Verbs**
 
 - *altern, biegen, bleichen, brechen, fliehen, knicken, reifen, reißen, rollen, schmelzen, stürzen, trocknen*
-- *abbrechen, abbrennen, abknicken, abkühlen, antreten, austrocknen, einfrieren, einknicken, einreißen, erstaunen, ersticken, ertrinken, erzürnen, niederbrennen, umstürzen, verbrennen, verderben, verdunsten, wegtreten, zerbrechen, zerknittern, zerreißen, zersplittern, zuklappen, zuschneien*
+- *abbrechen, abbrennen, abknicken, abkühlen, antreten, austrocknen, einfrieren, einknicken, einreißen, erstaunen, ersticken, ertrinken, erzürnen, niederbrennen, umstürzen, überfahren, verbrennen, verderben, verdunsten, wegtreten, zerbrechen, zerknittern, zerreißen, zersplittern, zuklappen, zuschneien*
 
 **Examples**
 
@@ -590,6 +590,7 @@ Although there is no overt difference between an unmarked anticausative and an u
 - Die Welle knickt den Mast des Bootes. Der Mast knickt.
 - Die Sonne schmilzt den Schnee. Die Eiswürfel sind geschmolzen.
 - Die Rede erzürnt mich. Die Rede hat mich erzürnt. Ich erzürne. Ich bin erzürnt.
+- Das Boot hat uns übergefahren. Wir sind übergefahren.
 
 ### [ –N | NA ] *Umlaut* Causative {#sec:case-umlaut-causative}
 
@@ -725,7 +726,7 @@ e. Der Koran wird unterrichtet.
 
 ### [ NAD | N–D ] Accusative drop + dative
 
-This is the pattern as attested with the verb *danken* 'to thank' as exemplified in [@next a-c]. The accusative can be left out, but only when the dative is retained. The dative cannot be dropped. This seems to be very rare. There seems to be a generalisation that the accusative can normally not be dropped before also a governed dative is dropped (see also [sec:prepositions-demotion-of-object]). Note that the sentence in [@next a] appears to be rejected by many German speakers, but it is clearly attested (cf. https://www.dwds.de/wb/danken).
+This is the pattern as attested with the verb *danken* 'to thank' as exemplified in [@next a-c]. The accusative can be left out, but only when the dative is retained. The dative cannot be dropped. This seems to be very rare. There seems to be a generalisation that the accusative can normally not be dropped before also a governed dative is dropped (see also [@sec:prepositions-demotion-of-object]). Note that the sentence in [@next a] appears to be rejected by many German speakers, but it is clearly attested (cf. https://www.dwds.de/wb/danken).
 
 ::: ex
 a. Ich danke dem Arzt mein Leben.
@@ -775,7 +776,7 @@ In this section only those verbs are listed for which the only alternative for t
 - Die Katze ist (mir) zugelaufen.
 - Der Mantel sitzt (mir) gut.
 
-### [ NAD | NA– ] Dative drop + accusative
+### [ NAD | NA– ] Dative drop + accusative {#sec:case-dative-drop-accusative}
 
 Ditransitive verbs like *verbieten* 'to prohibit' [@next a-c], that allow for the dative but not the accusative to be dropped, are common. Semantically, this diathesis seem to be restricted to performative verbs. 
 
@@ -855,9 +856,9 @@ As there are already very few verbs with genitive arguments in German, there app
 
 I have tried to separate in this chapter between the demotion of an object (antipassive or drop, see [@sec:case-object-demotion]) and the promotion of an accusative (applicative or addition). However, for 'bare' diatheses I cannot find any substantive difference between these phenomena, except for a faint semantic impression that bare applicatives do not imply an accusative object (but allow it), while bare antipassive imply an accusative object (but allow it to be dropped). It remains a clear desideratum to put this intuitive differentiation on stricter grammatical footing.
 
-### --- [ Ø > OBJ ] --- *Resultativ* {.unnumbered}
+### --- [ Ø > OBJ ] --- {.unnumbered}
 
-### [ N– | NA ] Intransitive resultative {#sec:case-accusative-addition}
+### [ N– | NA ] Accusative addition {#sec:case-accusative-addition}
 
 There are various kinds of objects that can be added to apparent intransitives with a resultative meaning. For example: a competitive entity in sports [@next a], the result of an action [@next b], the name of the result of an action [@next c] and possibly many other [@next d,e].
 
@@ -888,15 +889,13 @@ d. Ich flüsterte ihm die Lösung ins Ohr.
 - Er hat die 400 meter geschwommen.
 - Er hat ein Lied gesungen.
 - Er hat einen Walzer gespielt.
+- Ich lebe die Freiheit.
 - Die Fans grölen die Hymne.
 - Das Publikum johlte Beifall.
-- Ich flüstere die Lösung in sein Ohr.
-- Er murmelt die Antwort in seinen Bart.
-- Sie schrie ihre Verachtung in sein Gesicht.
+- Ich flüstere die Lösung (in sein Ohr).
+- Er murmelt die Antwort (in seinen Bart).
 - Er schrie ihm seine Verachtung ins Gesicht.
 - Ich brüllte dem Schwerhörigen die Antwort ins Ohr.
-- Ich lebe die Freiheit.
-- Der Hund ist durch den Wald gehetzt. Der Hund hat den Hasen durch den Wald gehetzt.
 
 ### [ – | A ] Weather resultative {#sec:case-accusative-addition-without-nominative}
 
