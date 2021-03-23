@@ -499,7 +499,7 @@ b. ^* Ich verstehe ein.
 
 ## Alternations without diathesis
 
-### --- *haben* Perfect --- {.unnumbered}
+### --- *haben/sein* Perfect --- {.unnumbered}
 
 haben+Parizip: "Prozessperfekt"
 sein+Partizip: "Zustandsperfekt"
@@ -551,8 +551,6 @@ Intransitiv mit 'sein', Transitiv mit 'haben'
 Applicatives with both options?
 
 - Ich habe den Marathon gelaufen / Ich bin den Marathon gelaufen.
-
-### --- *sein* Perfect --- {.unnumbered}
 
 ### [ N | N ] *sein + Partizip* Intransitive perfect {#sec:participles-sein-perfect}
 
@@ -679,8 +677,6 @@ Transitive Verben mit 'sein' (Strobl 2008: 102, 107ff.)
 
 [@grewendorf1989: 9] *durchgegangen, eingegangen, abgelaufen, angegangen*
 
-### --- *haben/sein* Perfect --- {.unnumbered}
-
 ### [ N | N ] *haben/sein + Partizip* Intransitive perfect
 
 Liste vom Internet: *abstoßen, abziehen, anschließen, aufschlagen, auftauen, ausziehen, bleichen, brechen, dezimieren, durchfahren, durchlaufen, einbrechen, einfrieren, einschlagen, geraten, ködern, mästen, plagen, quälen, quetschen, reißen, reiten, rollen, rücken, scheiden, schleudern, schmelzen, schwanken, schweben, schwellen, schwenken, schwimmen, segeln, starten, stehen, steuern, streben, streifen, stürmen, stürzen, tauchen, tauen, taufen, trocknen, übersetzen, umgehen, umstellen, unterziehen*
@@ -782,7 +778,42 @@ Erlebnispassiv
 - Ich bin erstaunt über etwas
 - Ich habe mich erstaunt über etwas
 
-### --- Durative --- {.unnumbered}
+### --- Other Perfects --- {.unnumbered}
+
+### [ N | N ] *aussehen/erscheinen/wirken + Partizip* {#sec:participles-scheinen-intransitive}
+
+different origins, but always through "sein"
+
+patientive
+
+- [ N|N ] Er altert -> er ist gealtert -> er sieht gealtert aus
+
+gealtert, abgemagert, verkümmert, gescheitert, geplatzt
+
+Reflexive verbs
+
+- [ N|N ] Er bekümmert sich -> er ist bekümmert -> er sieht bekümmert aus
+
+besorgt, eingebildet
+
+transitive
+
+- [ NA|–N ] Etwas verstört ihn -> er ist verstört -> Er sieht verstört aus
+
+Belegsammlungen von Alexander Lasch:
+
+- aussehen (https://goo.gl/xUng8v; Stand: 03.09.2016).
+
+angegriffen, gepflegt, verstört, angestrengt, bekümmert, verjüngt, abgesperrt, beschädigt, enttäuscht, erschöpft, improvisiert
+
+- scheinen (https://goo.gl/5YvKiw; Stand: 03.09.2016). 
+
+also with "zu sein" ???? Er scheint enttäuscht zu sein. (Kohärent! es ist bekannt, dass er entäuscht zu sein scheint.)
+Stack: sein+Partizip +> scheinen+zu+Infinitiv
+
+- erscheinen (https://goo.gl/Xj7EW6; Stand: 03.09.2016). 
+
+- wirken (https://goo.gl/yCai8B; Stand: 03.09.2016). 
 
 ### [ N | N ] *bleiben + Partizip* Intransitive durative {#sec:participles-bleiben-intransitive}
 
@@ -864,40 +895,6 @@ There are various highly frequent examples of *machen + Partizip* in which the p
 - Der Film macht ihn beliebt.
 - Der Rauch macht mich benommen.
 
-### --- Appearance --- {.unnumbered}
-
-### [ N | N ] *aussehen/(er)scheinen/wirken + Partizip* {#sec:participles-scheinen-intransitive}
-
-different origins, but always through "sein"
-
-patientive
-
-- [ N|N ] Er altert -> er ist gealtert -> er sieht gealtert aus
-
-gealtert, abgemagert, verkümmert, gescheitert, geplatzt
-
-Reflexive verbs
-
-- [ N|N ] Er bekümmert sich -> er ist bekümmert -> er sieht bekümmert aus
-
-besorgt, eingebildet
-
-transitive
-
-- [ NA|–N ] Etwas verstört ihn -> er ist verstört -> Er sieht verstört aus
-
-Belegsammlungen von Alexander Lasch:
-
-- aussehen (https://goo.gl/xUng8v; Stand: 03.09.2016).
-
-angegriffen, gepflegt, verstört, angestrengt, bekümmert, verjüngt, abgesperrt, beschädigt, enttäuscht, erschöpft, improvisiert
-
-- scheinen (https://goo.gl/5YvKiw; Stand: 03.09.2016). 
-
-- erscheinen (https://goo.gl/Xj7EW6; Stand: 03.09.2016). 
-
-- wirken (https://goo.gl/yCai8B; Stand: 03.09.2016). 
-
 ### --- Movement --- {.unnumbered}
 
 ### [ N | N ] *kommen + Partizip* Movement
@@ -941,9 +938,9 @@ Antikausative Konstruktionen mit gedachtes *geschickt/gebracht* Bewegungsverb od
 
 see [@eisenberg2006: 266]
 
-"Konstruktion 1c" [@felfe2012: 194, 241]
+"Konstruktion 1c" [@felfe2012: 194, 241] vgl. *Bewegungsart* [@sec:prepositions-manner-of-movement]
 
-- Er kommt angekeucht
+- Er kommt angekeucht/angesungen (Geräuschverben!)
 - Er kommt angelatsch
 
 ### [ NA | NA ] *nehmen + Partizip* Imprisonment
@@ -1086,7 +1083,7 @@ zeigen: *motivieren, überzeugen, erfüllen, befriedigen, ermutigen*
 Etwas motiviert das Orchester.
 Auch das Orchester zeigte sich motiviert.^[~~DWDS~~: Die Zeit, 08.04.1999, Nr. 15]
 
-### [ NA | –N ] *aussehen/(er)scheinen/wirken + Partizip* Anticausative (*Apparitivantikausativ*) {#sec:participles-aussehen-anticausative}
+### [ NA | –N ] *aussehen/erscheinen/wirken + Partizip* Anticausative (*Apparitivantikausativ*) {#sec:participles-aussehen-anticausative}
 
 lat. apparere 'to appear'
 
@@ -1101,6 +1098,8 @@ Belegsammlungen von Alexander Lasch:
 angegriffen, gepflegt, verstört, angestrengt, bekümmert, verjüngt, abgesperrt, beschädigt, enttäuscht, erschöpft, improvisiert
 
 - scheinen (https://goo.gl/5YvKiw; Stand: 03.09.2016). 
+
+separat "zu sein scheinen" + Partizip ??? Stack: sein+Partizip +> scheinen+zu+Infinitiv
 
 - erscheinen (https://goo.gl/Xj7EW6; Stand: 03.09.2016). 
 

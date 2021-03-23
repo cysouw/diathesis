@@ -4,7 +4,7 @@
 
 Diathesis typically involves variation in the marking of case as governed by the verb, possibly including alternations between case marked arguments and adpositional phrases. The notion of 'flagging' was (re)introduced in Haspelmath [-@haspelmath2005d: 2] as a cover term to capture the intuition that case marking and adpositional marking express very similar functions in linguistic marking. The first two data chapters in this book discuss exactly those kind of marking, viz. case and adpositional marking as governed by a verb. This chapter discusses diatheses involving case-marked constituents, and the next chapter focusses on governed prepositional constituents.
 
-Pure case-marking diatheses are characterised by one and the same verb that can be used with different case-marked roles and, crucially, no other overt marking of the different constructions. Such alternations include, for example, possessor raising like [@next a] or anticausative alternations like [@next b].
+Covert case-marking diatheses are characterised by one and the same verb that can be used with different case-marked roles and, crucially, no other overt marking of the different constructions. Such alternations include, for example, possessor raising like [@next a] or anticausative alternations like [@next b].
 
 ::: ex
 a. Ich schneide seine Haare. \
@@ -17,13 +17,15 @@ The crucial (and somewhat problematic) aspect of such alternations is that there
 
 The unmarked nature of covert diatheses implies that there is some slight redundancy and fuzziness in presentation. This redundancy arises because, for example, when a verb occurs in four different constructions, then there are logically six different alternations (viz. 1-2, 1-3, 1-4, 2-3, 2-4, 3-4). I have nonetheless decided to approach the descriptive organisation in this chapter from the perspective of such pairwise alternations, because (i) it highlights the possible connections attested between construction, and (ii) very many verbs appear only to occur in just one or two alternations anyway (with only a smaller subset of verbs appearing across many different constructions).
 
-There are five local groups of diatheses that seem prominent enough to be given a German name. I propose the following names for these:
+There are seven local groups of diatheses that seem prominent enough to be given a German name. I propose the following names for these:
 
-- ~~[SBJ › Ø] Verbativ~~ (see [@sec:case-nominative-drop ff.])
-- ~~[OBJ › SBJ › Ø] Antikausativ~~ (see [@sec:case-haben-anticausative ff.])
-- ~~[Ø › SBJ › OBJ] Kausativ~~ (see [@sec:case-sein-causative ff.])
-- ~~[Ø › OBJ] Resultativ~~ (see [@sec:case-accusative-addition])
-- ~~[ADJ › OBJ] Pertinenzdativ~~ (see [@sec:case-possessor-of-nominative-to-dative-experiencer ff.])
+- ~~[SBJ › Ø] Verbativ~~ (see [@sec:case-nominative-drop] ff.)
+- ~~[OBJ › SBJ › Ø] Antikausativ~~ (see [@sec:case-haben-anticausative] ff.)
+- ~~[Ø › SBJ › OBJ] Kausativ~~ (see [@sec:case-sein-causative] ff.)
+- ~~[Ø › OBJ] Resultatakkusativ~~ (see [@sec:case-accusative-addition])
+- ~~[ADJ › OBJ] Pertinenzdativ~~ (see [@sec:case-possessor-of-nominative-to-dative-experiencer] ff.)
+- ~~[OBJ › Ø] Optionaler Akkusativ~~ (see [@sec:case-accusative-drop] ff.)
+- ~~[OBJ › Ø] Optionaler Dativ~~ (see [@sec:case-dative-drop] ff.)
 
 ## Delimiting case-marked arguments {#sec:case-delimiting-arguments}
 
@@ -31,12 +33,12 @@ There are five local groups of diatheses that seem prominent enough to be given 
 
 The German case marking system is rather straightforward. Noun phrases in German occur in one of four case forms. There are various syncretisms in the case paradigm, which conceal the identity of the case in many sentences. For this reason, I will attempt to use first/second person singular pronouns or masculine singular nouns in constructed examples. These forms can easily be unambiguously identified, as shown in [@tbl:german-case].
 
-| Case       | 1st        | 2nd        | 3rd Masc. | Masc. noun    |
-| ---------- | :--------: | :--------: | :-------: | :-----------: |
-| Nominative | *ich*      | *du*       | *er*      | *der Tisch*   |
-| Genitive   | *meiner*   | *deiner*   | *seiner*  | *des Tisches* |
-| Dative     | *mir*      | *dir*      | *ihm*     | *dem Tisch*   |
-| Accusative | *mich*     | *dich*     | *ihn*     | *den Tisch*   |
+|    Case    |   1st    |   2nd    | 3rd Masc. |  Masc. noun   |
+| ---------- | :------: | :------: | :-------: | :-----------: |
+| Nominative |  *ich*   |   *du*   |   *er*    |  *der Tisch*  |
+| Genitive   | *meiner* | *deiner* | *seiner*  | *des Tisches* |
+| Dative     |  *mir*   |  *dir*   |   *ihm*   |  *dem Tisch*  |
+| Accusative |  *mich*  |  *dich*  |   *ihn*   |  *den Tisch*  |
 
 Table: German marking of case {#tbl:german-case}
 
@@ -644,7 +646,7 @@ c. Ich friere.
 
 This section concerns those alternation in which a non-nominative case-marked argument can be removed. When considered in this direction ('an accusative is removed/demoted'), then such alternation are known as antipassives. Conversely, when this same alternation is considered in reverse ('an accusative is added/promoted') then such alternations are known as applicatives. Because we are dealing with unmarked 'bare' alternations in this chapter, there is no structural difference between these two situations. It is more like two different ways to look at at the same phenomenon. Still, I have tried to classify diathesis into these two options based on (debatable) semantic arguments.
 
-### --- [ OBJ > Ø ] --- {.unnumbered}
+### --- [ OBJ > Ø ] --- *Optionaler Akkusativ* {.unnumbered}
 
 ### [ NA | N– ] Accusative drop {#sec:case-accusative-drop}
 
@@ -746,6 +748,8 @@ d. ^* Ich verdanke mein Leben.
 **Attested Verbs**
 
 - *danken*
+
+### --- [ OBJ > Ø ] --- *Optionaler Dativ* {.unnumbered}
 
 ### [ ND | N– ] Dative drop {#sec:case-dative-drop}
 
@@ -856,7 +860,7 @@ As there are already very few verbs with genitive arguments in German, there app
 
 I have tried to separate in this chapter between the demotion of an object (antipassive or drop, see [@sec:case-object-demotion]) and the promotion of an accusative (applicative or addition). However, for 'bare' diatheses I cannot find any substantive difference between these phenomena, except for a faint semantic impression that bare applicatives do not imply an accusative object (but allow it), while bare antipassive imply an accusative object (but allow it to be dropped). It remains a clear desideratum to put this intuitive differentiation on stricter grammatical footing.
 
-### --- [ Ø > OBJ ] --- {.unnumbered}
+### --- [ Ø > OBJ ] --- *Resultatakkusativ {.unnumbered}
 
 ### [ N– | NA ] Accusative addition {#sec:case-accusative-addition}
 

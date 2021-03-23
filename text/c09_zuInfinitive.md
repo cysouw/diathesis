@@ -10,9 +10,14 @@ Always modal meanings???
 
 ## Alternations without diathesis
 
-### *haben + zu + Infinitiv*
+### *haben + zu + Infinitiv*{#sec:zuinfinitive-haben}
 
-(Holl 2010) "müssen" Interpretation
+[@holl2010] "müssen" Interpretation
+
+::: ex
+a. Die Schüler lösen die Aufgaben.
+b. Die Schüler haben die Aufgaben zu lösen.
+:::
 
 - Ich laufe.
 - Ich habe zu laufen.
@@ -29,7 +34,7 @@ Always modal meanings???
 - Er hat nichts zu erwarten.
 - Der Fürst hatte (über) dieses Land zu befehlen
 
-### *wissen + zu + Infinitiv*
+### *wissen + zu + Infinitiv*{#sec:zuinfinitive-wissen}
 
 "können" Interpretation
 
@@ -40,7 +45,7 @@ Always modal meanings???
 - Ich weiß deinen Einsatz zu schätzen.
 - Ich weiß ihn nirgends einzuordnen. (https://www.philaseiten.de/cgi-bin/index.pl?PR=51029)
 
-### *kommen + zu + Infinitiv*
+### *kommen + zu + Infinitiv* {#sec:zuinfinitive-kommen}
 
 (kommen44 in E-VALBU)
 
@@ -58,7 +63,7 @@ Ist es auch möglich mit transitive Verben? Oder ist das immer ein Vollverb *kom
 - Sie kamen ihm zu helfen. Es ist bekannt, dass Sie gekommen sind ihm zu helfen.
 - Wir dürfen nicht zulassen, dass die Stationierung von Truppen zum Surrogat für Politik wird und dass Truppen, die in der Absicht zu helfen gekommen sind, im Laufe der Zeit als Eindringlinge und Besatzer wahrgenommen werden (https://docplayer.org/40817735-Clausewitz-gesellschaft-e-v-jahrbuch-eine-zusammenfassung-von-beitraegen-aus-der-arbeit-der-gesellschaft-2006.html)
 
-### *bekommen/kriegen + zu + Infinitiv*
+### *bekommen/kriegen + zu + Infinitiv* {#sec:zuinfinitive-bekommen}
 
 [@jager2013]
 
@@ -76,14 +81,16 @@ Handlungsverben 5,6% [@jager2013: 201]
 
 - Ich habe mancherlei zu sehen bekommen
 
-### *scheinen + zu + Infinitiv*
+### *scheinen + zu + Infinitiv* {#sec:zuinfinitive-scheinen}
+
+[@pafel1989]
 
 - Er schläft. Er scheint zu schlafen. (... dass er zu schlafen scheint.)
 - Er kauft einen Kaffee. Er scheint einen Kaffee zu kaufen. (... dass er einen Kaffee zu kaufen scheint. )
 
-### *brauchen + zu + Infinitiv*
+### *brauchen + zu + Infinitiv* {#sec:zuinfinitive-brauchen}
 
-moving towards modal status?
+moving towards modal status? [@sec:infinitive-brauchen]
 
 - Du brauchst die Kleider nicht zu waschen.
 - Es ist bekannt, dass du die Kleider nicht (zu?) waschen brauchst.

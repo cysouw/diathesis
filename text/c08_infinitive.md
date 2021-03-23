@@ -62,7 +62,9 @@ Some of these verbs reverse the default "haben+Partizip" Interpretation.
 - Ich will unbedingt mein Auto repariert haben.
 - Ich muss unbedingt mein Auto repariert haben
 
-### *brauchen + Infiniv*
+### *brauchen + Infiniv* {#sec:infinitive-brauchen}
+
+with *zu* [@sec:zuinfinitive-brauchen]
 
 ### *heißen + Infiniv*
 
@@ -73,15 +75,16 @@ The verbs *brauchen* and *heißen* are not very common in this construction.
 
 ### --- Absentives --- {.unnumbered}
 
-### *sein + Infinitiv* Absentive
+[@krause2012]
+
+### *sein + Infinitiv* Absentive {#sec:infinitive-sein-absentive}
 
 - Ich bin dem Nachbarn mal eben den Teller zurückbringen.
 
-References [@vogel2007]
+References [@groot2000; @vogel2007]
 
 - Abraham, Werner (2008): „Absentive arguments on the Absentive: An exercise in silent syntax. Grammatical category or just pragmatic inference?“ In: Language Typology and Universals (STUF) 61/4:358-374.
 - König, Svenja (2009): „Alle sind Deutschland … außer Fritz Eckenga – der ist einkaufen! Der Absentiv in der deutschen Gegenwartssprache“. In: Winkler, Edeltraud (Hg.): Konstruktionelle Varianz bei Verben (= OPAL-Sonderheft 4/2009):42-74.
-- Vogel, Petra M. (2007): „Anna ist essen! Neue Überlegungen zum Absentiv in den europäischen Sprachen mit einem Exkurs zum Deutschen“. In: Geist, Ljudmila/Rothstein, Björn (Hg.): Kopulaverben und Kopulasätze: Intersprachliche und Intrasprachliche Aspekte. Tübingen:253-284.
 
 ### *gehen + Infinitiv*
 
@@ -102,7 +105,7 @@ Substandard construction
 
 - Ich tue dir ein Buch schenken
 
-### [ N ] *haben + Infinitiv* Possibility + manner adverbial
+### [ N ] *haben + Infinitiv* Possibility + manner adverbial {#sec:infinitive-haben-adverbial}
 
 With adverbs, typically *leicht* or *gut*. The meaning is modal in a special sense of "it is (easily) possible for someone".
 

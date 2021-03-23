@@ -422,7 +422,7 @@ d. Ich überarbeite mich.
 
 - Ich lüge. Ich lüge mich durch.
 - Ich esse. Ich überesse mich.
-- Ich arbeite, Ich arbeite mich ein.
+- Ich arbeite. Ich arbeite mich ein.
 - Ich singe. Ich singe mich ein.
 - Ich laufe. Ich verlaufe mich.
 

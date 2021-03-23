@@ -20,9 +20,9 @@ Nach dem Aufstehen
 
 ## Alternations without diathesis
 
-### *sein + am + Infinitiv* Verlaufsform
+### *sein + am + Infinitiv* Verlaufsform {#sec:zuminfinitive-sein-am}
 
-(vgl. Gargyan 2010)
+(vgl. Gargyan 2010) [@krause2012]
 
 - Der Feind greift an.
 - Der Feind ist am Angreifen.
@@ -61,7 +61,7 @@ Patiens als Akkusativ
 - ^* Sie ist die Reise beim Planen (Sie ist beim Planen der Reise)
 - Sie ist die Reise am Planen
 
-### *gehen/kommen/fahren + zum + Infinitiv*
+### *gehen/kommen/fahren + zum + Infinitiv* {#sec:zuminfinitive-gehen}
 
 - Er geht heute zum Schwimmen.
 - Das Auto kommt vor der Ampel zum Stehen.

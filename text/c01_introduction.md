@@ -1564,7 +1564,7 @@ a. Der Pförtner schließt die Tür.
 b. Die Tür bleibt geschlossen \*(von den Pförtner).
 :::
 
-### *Apparitivantikausativ* (*aussehen/scheinen/wirken + Partizip*) {#sec:summary-apparitivantikausativ}
+### *Apparitivantikausativ* (*aussehen/erscheinen/wirken + Partizip*) {#sec:summary-apparitivantikausativ}
 
 The ~~Apparitivantikausativ~~ (full discussion in [@sec:participles-aussehen-anticausative] and subsequent sections) is constructed with one of the light verbs *aussehen*, *scheinen*, *erscheinen* and *wirken* with a participle. The retention of the original agent as a prepositional phrase seems to be impossible, so this diathesis is classified as an anticausative here. 
 
@@ -1972,27 +1972,27 @@ d. ^* Ich arbeite dir.
 
 ## Objective diatheses ~~[Ø › OBJ]~~
 
-### *Akkusativ Zusatz* {#sec:summary-akkusativ-zusatz}
+### *Resultatakkusativ* {#sec:summary-resultatakkusativ}
 
-The unmarked ~~Akkusativ Zusatz~~ (full discussion in [@sec:case-accusative-addition]) is highly similar to the ~~Akkusativ Wegfall~~ diathesis ([@sec:summary-akkusativ-wegfall]). In both diatheses, the same verb can be used both with and without an accusative argument. The special characteristics of verbs like *singen* 'to sing' [@next] is that they are (a) basically intransitive and (b) the accusative represents the result of the intransitive action. The difference between an unmarked added accusative and an unmarked dropped accusative is arguably small, and it remains to be seen whether this separation can be backed up by further distinguishing grammatical characteristics.
+The unmarked ~~Resultatakkusativ~~ (full discussion in [@sec:case-accusative-addition]) is highly similar to the ~~Optionaler Akkusativ~~ diathesis ([@sec:summary-optionaler-akkusativ]). In both diatheses, the same verb can be used both with and without an accusative argument. The special characteristics of verbs like *singen* 'to sing' [@next] is that they are (a) basically intransitive and (b) the accusative represents the result of the intransitive action. The difference between an unmarked added accusative and an unmarked dropped accusative is arguably small, and it remains to be seen whether this separation can be backed up by further distinguishing grammatical characteristics.
 
 ::: ex
 a. Er singt.
 b. Er singt ein Lied.
 :::
 
-### *Präverb Akkkusativ Zusatz* {#sec:summary-praverb-akkusativ-zusatz}
+### *Präverb Akkkusativ* {#sec:summary-praverb-akkusativ}
 
-The ~~Präverb Akkkusativ Zusatz~~ (full discussion in [@sec:preverb-accusative-addition] and subsequent sections) is a diathesis in which the addition of a preverb leads to an accusative argument. For example, the diathesis from *zaubern* 'to perform magic' to *verzaubern* 'to enchant' [@next] adds a completely new role in the accusative.
+The ~~Präverb Akkkusativ~~ (full discussion in [@sec:preverb-accusative-addition] and subsequent sections) is a diathesis in which the addition of a preverb leads to an accusative argument. For example, the diathesis from *zaubern* 'to perform magic' to *verzaubern* 'to enchant' [@next] adds a completely new role in the accusative.
 
 ::: ex
 a. Sie zaubert.
 b. Sie verzaubert mich.
 :::
 
-### *Präverb Dativ Zusatz* {#sec:summary-praverb-dativ-zusatz}
+### *Präverb Dativ* {#sec:summary-praverb-dativ}
 
-The ~~Präverb Dativ Zugabe~~ is similar to the previous *Präverb Akkkusativ Zusatz* in that the addition of the preverb also induces a new role, in this diathesis marked with a dative case. This diathesis is attested both with intransitive verbs like *gehen* 'to walk' and preverbal *entgehen* 'to evade' [@next a], full discussion in [@sec:preverb-dative-addition], and with transitive verbs like *lesen* 'to read' and the preverbal *vorlesen* 'to read out' [@next b], full discussion in [@sec:preverb-dative-addition-accusative].
+The ~~Präverb Dativ~~ is similar to the previous *Präverb Akkkusativ* in that the addition of the preverb also induces a new role, in this diathesis marked with a dative case. This diathesis is attested both with intransitive verbs like *gehen* 'to walk' and preverbal *entgehen* 'to evade' [@next a], full discussion in [@sec:preverb-dative-addition], and with transitive verbs like *lesen* 'to read' and the preverbal *vorlesen* 'to read out' [@next b], full discussion in [@sec:preverb-dative-addition-accusative].
 
 ::: ex
 a. Ich gehe (nach Hause). \
@@ -2001,9 +2001,9 @@ b. Ich lese ein Buch. \
    Ich lese dir ein Buch vor.
 :::
 
-### *Präverb Reflexiv Akkusativ Zusatz* {#sec:summary-praverb-reflexiv-akkusativ-zusatz}
+### *Präverb Reflexiv Akkusativ* {#sec:summary-praverb-reflexiv-akkusativ}
 
-The ~~Präverb Reflexiv Akkusativ Zusatz~~ (full discussion in [@sec:preverb-reflexive-resultative]) is a special variant of an objective diathesis in that the addition of the preverb leads to a new accusative argument, but also needs an obligatory reflexive pronoun. The new accusative role is semantically the result of the action of the main verb, which is similar to the *Akkusativ Zusatz* ([@sec:summary-akkusativ-zusatz]), but different from the ~~Präverb Akkusativ Zusatz~~ ([@sec:summary-praverb-akkusativ-zusatz]). For example, the diathesis from *tanzen* 'to dance' to *antanzen* 'to incur from dancing' [@next] adds the incurrence *Muskelkater* 'sore muscles' and a reflexive pronoun.
+The ~~Präverb Reflexiv Akkusativ~~ (full discussion in [@sec:preverb-reflexive-resultative]) is a special variant of an objective diathesis in that the addition of the preverb leads to a new accusative argument, but also needs an obligatory reflexive pronoun. The new accusative role is semantically the result of the action of the main verb, which is similar to the *Resultatakkusativ* ([@sec:summary-resultatakkusativ]), but different from the ~~Präverb Akkusativ~~ ([@sec:summary-praverb-akkusativ]). For example, the diathesis from *tanzen* 'to dance' to *antanzen* 'to incur from dancing' [@next] adds the incurrence *Muskelkater* 'sore muscles' and a reflexive pronoun.
 
 ::: ex
 a. Ich habe gestern viel getanzt.
@@ -2012,22 +2012,24 @@ b. Ich habe mir gestern einen Muskelkater angetanzt.
 
 ## Deobjective diatheses ~~[OBJ › Ø]~~
 
-### *Akkusativ Wegfall* {#sec:summary-akkusativ-wegfall}
+### *Optionaler Akkusativ* {#sec:summary-optionaler-akkusativ}
 
-An unmarked ~~Akkusativ Wegfall~~ (full discussion in [@sec:case-accusative-drop]) is a diathesis in which an accusative object can be left out without any further change in the construction. This is for example attested with the verb *stören* 'to disturb' [@next]. Note that when the accusative object of a verb allows for an antipassive diathesis ([@sec:summary-akkusativ-antipassiv]), then the verb should not also be included in this *Akkusativ Wegfall* diathesis. Also, there is a more widespread drop of an accusative that leads to an action-oriented focus ([@sec:summary-aktionsfokus]). Verbs with such a diathesis should not be included here. There is also a highly similary ~~Akkusativ Zusatz~~ diathesis ([@sec:summary-akkusativ-zusatz]) that should be distinguished separately. Once all those diatheses are separated, there turn out to be relatively few verbs with pure *Akkusativ Wegfall*, mainly verbs that can be interpreted both as something you can do, as well as something you can be.
+An unmarked ~~Optionaler Akkusativ~~ (full discussion in [@sec:case-accusative-drop]) is a diathesis in which an accusative object can be left out without any further change in the construction. This is for example attested with the verb *stören* 'to disturb' [@next]. Note that when the accusative object of a verb allows for an antipassive diathesis ([@sec:summary-akkusativ-antipassiv]), then the verb should not also be included in this *Optionaler Akkusativ* diathesis. Also, there is a more widespread drop of an accusative that leads to an action-oriented focus, introduced below as the *Aktionsfokus* diathesis ([@sec:summary-aktionsfokus]). Verbs with such a diathesis should not also be included here. There is also a highly similar ~~Resultatakkusativ~~ diathesis ([@sec:summary-resultatakkusativ]) that should be distinguished. Once all those diatheses are separated, there turn out to be relatively few verbs with *Optionaler Akkusativ*, mainly verbs that can be interpreted both as something you can do, as well as something you can be.
 
 ::: ex
 a. Du störst die Veranstaltung.
 b. Du störst.
 :::
 
-### *Dativ Wegfall* {#sec:summary-dativ-wegfall}
+### *Optionaler Dativ* {#sec:summary-optionaler-dativ}
 
-The unmarked ~~Dative Wegfall~~, i.e. the dropping of a dative argument without any further change in the construction, is both attested with nominative-dative verbs like *entkommen* 'to get away' [@next a], full discussion in [@sec:case-dative-drop], and with nominative-accusative-dative verbs like *erzählen* 'to tell' [@next b], full discussion in [@sec:case-dative-drop-accusative]. Like with *Akkusativ Wegfall* ([@sec:summary-akkusativ-wegfall]), datives that allow for a dative antipassive ([@sec:summary-dativ-antipassiv]) should not also be included here.
+The unmarked ~~Optionaler Dativ~~, i.e. the dropping of a dative argument without any further change in the construction, is both attested with nominative-dative verbs like *entkommen* 'to get away' [@next a], full discussion in [@sec:case-dative-drop], and with nominative-accusative-dative verbs like *erzählen* 'to tell' [@next b], full discussion in [@sec:case-dative-drop-accusative]. Like with *Optionaler Akkusativ* ([@sec:summary-optionaler-akkusativ]), datives that allow for a dative antipassive ([@sec:summary-dativ-antipassiv]) should not also be included here.
 
 ::: ex
-a. Er entkommt (seinem Feind).
-b. Ich erzähle (dir) eine Geschichte.
+a. Er entkommt seinem Feind. \
+   Er entkommt.
+b. Ich erzähle dir eine Geschichte. \
+   Ich erzähle eine Geschichte.
 :::
 
 ### *Aktionsfokus* {#sec:summary-aktionsfokus}
@@ -2122,7 +2124,7 @@ d. Ich binde den Hund los.
 
 ### *Reflexiv verursachte Bewegung* {#sec:summary-reflexiv-verursachte-bewegung}
 
-The ~~Reflexiv verursachte Bewegung~~ (full discussion in [@sec:reflexive-resultative]) is a special variant of the *Verursachte Bewegung* ([@sec:summary-verursachte-bewegung]). In this diathesis, a verb like *träumen von* 'to dream' with a governed prepositional phrase [@next a,b] can be used with a reflexive pronoun [@next c]. With the reflexive pronoun there is an additional obligatory movement phrase necessary [@next d]. Semantically, this a movement that is caused by the main verb.
+The ~~Reflexiv verursachte Bewegung~~ (full discussion in [@sec:reflexive-resultative]) is a special variant of the *Verursachte Bewegung* ([@sec:summary-verursachte-bewegung]). In this diathesis, a verb like *träumen von* 'to dream' that takes a governed prepositional phrase [@next a,b] can alternatively be used with a reflexive pronoun [@next c]. With the reflexive pronoun there is an obligatory movement phrase necessary instead of the governed prepositional phrase [@next d]. Semantically, this construction describes an (imaginary) movement that is caused by the main verb.
 
 ::: ex
 a. Ich träume von New York. 
@@ -2182,9 +2184,9 @@ c. Ich bewundere ihn dafür, dass er ehrlich ist.
 
 ### *Resultativ* {#sec:summary-resultativ}
 
-The unmarked ~~Resultativ~~ (full discussion in [@sec:prepositions-action-result] and subsequent sections) is a chained diathesis. A new accusative object is introduced ('objective') and the erstwhile object is demoted to a prepositional phrase ('antipassive'). However, these two remappings are tightly intertwined and have to occur together. Semantically, the effect is resultative and highly similar to the *Verursachte Bewegung* diathesis ([@sec:summary-verursachte-bewegung]), but the remapping of roles is crucially different as there is no chained remapping. 
+The unmarked ~~Resultativ~~ (full discussion in [@sec:prepositions-action-result] and subsequent sections) is a chained diathesis. A new accusative object is introduced ('objective') and the erstwhile object is demoted to a prepositional phrase ('antipassive'). However, these two remappings are tightly intertwined and have to occur together. Semantically, the effect is describing the result of an action and the diathesis is highly similar to the *Verursachte Bewegung* diathesis ([@sec:summary-verursachte-bewegung]), but the remapping of roles is crucially different as there is no chained remapping in the latter. 
 
-An example is shown in [@next] with the verb *brechen* 'to break'. This verb can be used with an accusative argument describing the role of the broken thing, here *Felsen* 'rock' [@next a]. Alternatively, a different role can be marked with an accusative, namely the result of the breaking, here *Loch* 'hole' [@next b]. In this usage, a location is obligatory present in the sentence, here *in den Felsen* 'in the rock' [@next b,c]. This location represents the place in which the resulting of the breaking is found, so this location is the broken thing itself.
+An example is shown in [@next] with the verb *brechen* 'to break'. This verb can be used with an accusative argument describing the role of the broken thing, here *Felsen* 'rock' [@next a]. Alternatively, a different role can be marked with an accusative, namely the result of the breaking, here *Loch* 'hole' [@next b]. In this usage, a location is obligatory present in the sentence, here *in den Felsen* 'in the rock' [@next b,c]. This location represents the place at which the resulting of the breaking is found, so this location is the broken thing itself.
 
 ::: ex
 a. Ich breche den Felsen.
@@ -2196,7 +2198,7 @@ c. ^* Ich breche ein Loch.
 
 ### *Präverb Antiresultativ* {#sec:summary-antiresultativ}
 
-The ~~Präverb Antiresultativ~~ (full discussion in [@sec:preverb-location-antiresultative]) is the reverse of the previous *Resultativ* ([@sec:summary-resultativ]). Verbs like *pressen* 'to squeeze' [@next a] obligatorily take an accusative result, here *Saft* 'juice', and a prepositional object from which the result originates, here *aus der Zitrone* 'from the citron' [@next b]. With a preverb *auspressen* 'to squeeze' [@next c] the accusative result is dropped ('deobjective') and the originating prepositional object from which the result was produced is turned into a new accusative role ('applicative'). However, these two remappings are tightly intertwined and can only be used together. Semantically, there is a close connection to the *Präverb Antilokativ* diathesis ([@sec:summary-praverb-antilokativ]).
+The ~~Präverb Antiresultativ~~ (full discussion in [@sec:preverb-location-antiresultative]) is the reverse of the previous *Resultativ* ([@sec:summary-resultativ]). Verbs like *pressen* 'to squeeze' [@next a] obligatorily take an accusative result, here *Saft* 'juice', and a prepositional object from which the result originates, here *aus der Zitrone* 'from the citron' [@next b]. With a preverb *auspressen* 'to squeeze' [@next c] the accusative result is dropped ('deobjective') and the originating prepositional object from which the result was produced is turned into a new accusative role ('applicative'). However, these two remappings are tightly intertwined and can only be used together. Semantically, there is a close connection to the *Präverb Antilokativ* diathesis ([@sec:summary-praverb-antilokativ]), though there is no chained remapping in the latter.
 
 ::: ex
 a. Ich presse den Saft aus der Zitrone.
@@ -2204,54 +2206,253 @@ b. ^* Ich presse den Saft.
 c. Ich presse die Zitrone aus.
 :::
 
-## Epitheses: clause alternations without diathesis
+## Reflexive epitheses
 
-### Selbstbezogener Reflexiv {#sec:summary-reflexiv}
+### *Selbstbezogener Reflexiv* {#sec:summary-reflexiv}
 
-### Reziprok
-  
-- Freier Reflexiv
-- Präverb Reflexiv [@sec:preverb-reflexive]
-- Adverb Reflexiv [@sec:adverbials-intransitive-reflexive-resultative]
-  
-- nicht-strukturelle Präfixe [@sec:preverb-intranstive-without-diathesis]
-- absolutiv Präfixe [@sec:preverb-intransitive-with-unaccusative]
+(full discussion in [@sec:reflexive-self-inflicting-accusative] and subsequent sections)
 
-### *haben* Perfekt {#sec:summary-haben-perfekt}
+::: ex
+a. Der Vater wäscht das Kind.
+b. Der Vater wäscht sich (selbst).
+:::
 
-### *sein* Perfekt {#sec:summary-sein-perfekt}
+### *Reziprok*
 
-- *bleiben/aussehen/scheinen/wirken* + Partizip Intransitiv
-- halten/lassen + Partizip Transitiv
-- *kommen + (an) + Partizip*
+(full discussion in [@sec:reflexive-accusative-reciprocal] and subsequent sections)
 
-- Modalverben + Infinitiv
-- Absentiv [@groot2000] (*sein/gehen/kommen/fahren* + Infinitiv)
-- bleiben + Infinitiv
-- haben + Adverbial + Infinitiv
+::: ex
+a. Karl achtet Anna.
+b. Karl und Anna achten sich.
+:::
 
-- haben + zu + Infinitiv
-- wissen + zu + Infinitiv
-- kommen + zu + Infinitiv
-- bekommen + zu + Infinitiv
-- scheinen + zu + Infinitiv
+### *Freier Reflexiv*
 
-- sein + am + Infinitiv
-- gehen/kommen/fahren + zum + Infinitiv
+(full discussion in [@sec:reflexive-free] and subsequent sections)
 
-## Summary of major light verbs
+::: ex
+a. Ich habe das Haus angesehen.
+b. Ich habe mir das Haus angesehen.
+:::
+
+## Preverb/adverb epitheses
+
+### *Nicht-strukturelles Präverb* 
+
+(full discussion in [@sec:preverb-intranstive-without-diathesis] and subsequent sections)
+
+::: ex
+a. Ich esse den Apfel.
+b. Ich esse den Apfel auf.
+:::
+
+### *Patientives Präverb*
+
+(full discussion in [@sec:preverb-intransitive-with-unaccusative] and subsequent sections)
+
+::: ex
+a. Die Blüme hat geblüht.
+b. Die Blume ist verblüht.
+d. ^* Die geblühte Blume ist immer noch schön.
+c. Die verblühte Blume ist immer noch schön.
+:::
+
+### *Reflexiv Präverb* 
+
+(full discussion in [@sec:preverb-reflexive] and subsequent sections)
+
+::: ex
+a. Ich laufe im Wald.
+b. Ich verlaufe mich im Wald.
+:::
+
+### *Reflexiv Adverb* 
+
+(full discussion in [@sec:adverbials-intransitive-reflexive-resultative] and subsequent sections)
+
+::: ex
+a. Ich schlafe.
+b. Ich schlafe mich gesund.
+:::
+
+## Participle epitheses
+
+### *Prozessperfekt* (*haben + Partizip*) {#sec:summary-haben-perfekt}
+
+(full discussion in [@sec:participles-haben-perfect] and subsequent sections)
+
+::: ex
+a. Das Kind schläft.
+b. Das Kind hat geschlafen.
+:::
+
+### *Zustandsperfekt* (*sein + Partizip*) {#sec:summary-sein-perfekt}
+
+(full discussion in [@sec:participles-sein-perfect] and subsequent sections)
+
+::: ex
+a. Das Kind schläft ein.
+b. Das Kind ist eingeschlafen.
+
+### *Intransitiv Kontinuativperfekt* (*bleiben + Partizip*)
+
+(full discussion in [@sec:participles-bleiben-intransitive] and subsequent sections)
+
+::: ex
+a. Der Schlüssel verschwindet.
+b. Der Schlüssel bleibt verschwunden.
+:::
+
+### *Transitiv Kontinuativperfekt* (*halten/lassen + Partizip*)
+
+(*halten* [@sec:participles-halten-durative]) and *lassen* [@sec:participles-lassen-durative])
+
+::: ex
+a. Ich schließe die Tür.
+b. Ich halte die Tür geschlossen.
+c. Ich lasse die Tür geschlossen.
+:::
+
+### *Apparitivperfekt* (*aussehen/erscheinen/wirken + Partizip*)
+
+(full discussion in [@sec:participles-scheinen-intransitive] and subsequent sections)
+
+::: ex
+a. Der Plan scheitert.
+b. Der Plan erscheint gescheitert.
+:::
+
+### *Origobewegung* (*kommen + an- Partizip*)
+
+(full discussion in [@sec:participles-kommen-an] and subsequent sections)
+
+::: ex
+a. Der Hund rennt.
+b. Der Hund kommt angerannt.
+:::
+
+## Infintive epithesis
+
+### *Modalverben*
+
+(full discussion in [@sec:infinitive-werden-modal] and subsequent sections) (*brauchen/dürfen/können/mögen/möchten/müssen/sollen/werden/wollen + Infinitiv*)
+
+::: ex
+a. Ich baue ein Haus.
+b. Ich will ein Haus bauen.
+c. Ich werde ein Haus bauen.
+:::
+
+### *Absentiv* (*sein/gehen/kommen/fahren* + Infinitiv)
+
+(full discussion in [@sec:infinitive-sein-absentive] and subsequent sections)
+
+::: ex
+a. Ich besuche meinen Freund.
+b. Ich bin meinen Freund besuchen.
+c. Ich gehe/komme/fahre meinen Freund besuchen.
+:::
+
+### *Kontinuativ* (*bleiben + Infinitiv*)
+
+(full discussion in [@sec:infinitive-sein-absentive])
+
+::: ex
+a. Er liegt im Bett.
+b. Er bliebt im Bett liegen.
+:::
+
+### (*haben + Infinitiv*)
+
+(full discussion in [@sec:infinitive-haben-adverbial]) with obligatory adverbial!
+
+::: ex
+a. Er lacht.
+b. Er hat gut lachen.
+:::
+
+## Infinitive epitheses with *zu/zum/am*
+
+### *Obligativinfinitiv* (*haben + zu + Infinitiv*)
+
+(full discussion in [@sec:zuinfinitive-haben]) "können"
+
+::: ex
+a. Die Schüler lösen die Aufgaben.
+b. Die Schüler haben die Aufgaben zu lösen.
+:::
+
+### *Potentialisinfinitiv* (*wissen + zu + Infinitiv*)
+
+(full discussion in [@sec:zuinfinitive-wissen]) "müssen"
+
+::: ex
+a. Der Lehrer begeistert die Schüler.
+b. Der Lehrer weiß die Schüler zu begeistern.
+:::
+
+### *Patiensinfinitiv* (*kommen + zu + Infinitiv*)
+
+(full discussion in [@sec:zuinfinitive-kommen]) "es passierte"
+
+::: ex
+a. Sie stand neben mir.
+b. Sie kam neben mir zu stehen.
+:::
+
+### *Rezipienteninfinitiv* (*bekommen + zu + Infinitiv*)
+
+(full discussion in [@sec:zuinfinitive-bekommen])
+
+::: ex
+a. Er seiht einen Film.
+b. Er bekommt einen Film zu sehen.
+:::
+
+### *Erscheinungsinfinitiv* (*scheinen + zu + Infinitiv*)
+
+(full discussion in [@sec:zuinfinitive-scheinen])
+
+::: ex
+a. Er schläft.
+b. Er scheint zu schlafen.
+:::
+
+### (*gehen/kommen/fahren + zum + Infinitiv*)
+
+(full discussion in [@sec:zuminfinitive-gehen])
+
+::: ex
+a. Sie schwimmt. \
+   Sie geht zum Schwimmen.
+b. Das Auto steht vor der Ampel. \
+   Das Auto kommt vor der Ampel zum Stehen.
+:::
+
+### *Verlaufsform* (*sein + am + Infinitiv*)
+
+(full discussion in [@sec:zuminfinitive-sein-am])
+
+::: ex
+a. Der Feind greift an.
+b. Der Feind ist am Angreifen.
+:::
+
+## Summary of widespread light verbs
+
+The light verbs listed in [@tbl:light-verbs] occur in more than one derived clause construction. Shown in the table is whether these constructions induce epithesis (E) or diathesis (D).
 
 |            | *Partizip* | *Infinitiv* | *zu(m)/am+Inf.* |
-|:---------- |:----------:|:-----------:|:---------------:|
-| *haben*    | D/E        | D/E         | D               |
-| *sein*     | D/E        | E           | D/E             |
-| *bleiben*  | D/E        | E           | D/E             |
-| *werden*   | D          | E           | –               |
-| *scheinen* | D/E        | –           | E               |
-| *bekommen* | D          | –           | E               |
-| *wissen*   | D          | –           | E               |
-| *sehen*    | D          | D           | –               |
-| *lassen*   | E          | D           | E               |
-| *kommen*   | E          | E           | E               |
+| :--------- | :--------: | :---------: | :-------------: |
+| *haben*    |    D/E     |     D/E     |        D        |
+| *sein*     |    D/E     |      E      |       D/E       |
+| *bleiben*  |    D/E     |      E      |       D/E       |
+| *werden*   |     D      |      E      |        –        |
+| *scheinen* |    D/E     |      –      |        E        |
+| *bekommen* |     D      |      –      |        E        |
+| *wissen*   |     D      |      –      |        E        |
+| *sehen*    |     D      |      D      |        –        |
+| *lassen*   |     E      |      D      |        E        |
+| *kommen*   |     E      |      E      |        E        |
 
 Table: Summary of major light verbs (D = diathesis, E = Epithesis) {#tbl:light-verbs}

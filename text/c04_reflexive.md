@@ -538,7 +538,7 @@ There are three different kinds of alternations involving reflexive pronouns tha
 
 Some verbs allow for both a construction with and without *sich*, but there is no difference in the valency between these two constructions. The difference in meaning between the two alternants is small and is in need for more in-depth study in all cases presented below. It is also possible that the occurrence of a 'free' reflexive is a dialectal phenomenon, see e.g. the apparent extension of reflexive usage in Austrian German as observed in Ziegler [-@ziegler2010]. Note that also for these verbs a dative reflexive pronoun only occurs when a full accusative argument is present. An early discussion of the phenomenon is found in Stötzel [-@stotzel1970: 174-177]. 
 
-### [ N | N ] Free accusative reflexive
+### [ N | N ] Free accusative reflexive {#sec:reflexive-free}
 
 The semantic difference between these two alternants of the verbs in this group deserves further investigation. The verb *knien* 'to knee' in [@next] suggests that there might be a difference in dynamics: the construction without reflexive pronoun is a state, while the construction with reflexive pronoun describes a change of state. However, this difference does not seem to hold for all examples in this section.
 
