@@ -2,7 +2,7 @@
 
 from: markdown
 to: html
-output-file: cysouwDiathesisManuscript.html
+output-file: docs/index.html
 
 input-files:
 - text/c00_preface.md
@@ -27,6 +27,7 @@ filters:
 - filters/count-para.lua
 - filters/pandoc-ling.lua
 - pandoc-crossref
+- filters/crossref-adapt.lua
 - citeproc
 
 metadata-files:

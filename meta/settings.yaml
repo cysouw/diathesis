@@ -21,6 +21,7 @@ figPrefix:
 pairDelim: "-"
 chapters: true
 linkReferences: true
+setLabelAttribute: true
 
 # pandoc-ling settings
 

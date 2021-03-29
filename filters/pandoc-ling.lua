@@ -77,10 +77,10 @@ end
 ------------------------------------------
 
 function addFormatting (meta)
-  local tmp = meta['header-includes'] or pandoc.MetaList{meta['header-includes']}
-  
-  local function add (s)
-    tmp[#tmp+1] = pandoc.MetaBlocks(pandoc.RawBlock("tex", s))
+
+  local tmp = pandoc.MetaList{meta['header-includes']}
+  if meta['header-includes'] ~= nil then
+    tmp = meta['header-includes']
   end
 
   if FORMAT:match "html" then
@@ -123,6 +123,10 @@ function addFormatting (meta)
       ]]
     tmp[#tmp+1] = pandoc.MetaBlocks(pandoc.RawBlock("html", css))
     meta['header-includes'] = tmp
+  end
+  
+  local function add (s)
+    tmp[#tmp+1] = pandoc.MetaBlocks(pandoc.RawBlock("tex", s))
   end
   
   if FORMAT:match "latex" or FORMAT:match "beamer" then
@@ -255,7 +259,7 @@ function processDiv (div)
       example = texMakeExample(parsedDiv)
     else
       example = pandocMakeExample(parsedDiv)
-      example = pandoc.Div(example, pandoc.Attr("ex:"..parsedDiv.number) )
+      example = pandoc.Div(example, pandoc.Attr("ex"..parsedDiv.number) )
     end
 
     -- return to global setting
@@ -289,10 +293,10 @@ function parseDiv (div)
   if div.identifier == "" then
     if restartAtChapter then
       -- to resolve clashes with same number used in different chapters
-      exID = "ex:"..chapter.."."..counterInChapter
+      exID = "ex"..chapter.."."..counterInChapter
     else
       -- use actual number
-      exID = "ex:"..number
+      exID = "ex"..number
     end
   else
       -- or keep user-provided identifier

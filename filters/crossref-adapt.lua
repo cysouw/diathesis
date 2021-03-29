@@ -17,34 +17,51 @@ ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 ]]
 
+local secPrefix = "sec"
+local tblPrefix = "tbl"
+local figPrefix = "fig"
+local eqPrefix = "eq"
+
 function changeHeaderID (head)
-  if head.classes[1] ~= "unnumbered" then
-    head.identifier = "sec:"..tostring(head.attributes.label)
+  if head.attributes.label ~= nil then
+    head.identifier = secPrefix..tostring(head.attributes.label)
   end
   return head
 end
 
 function changeTabID (div)
-  if div.content[1].tag == "Table" then
-    div.identifier = "tbl:"..tostring(div.attributes.label)
+  if div.content[1].tag == "Table" and div.attributes.label ~= nil then
+    div.identifier = tblPrefix..tostring(div.attributes.label)
   end
   return div
 end
 
-function changeFigID (para)
-  if para.content[1].tag == "Image" then
-    para.content[1].identifier = "fig:"..tostring(para.content[1].attributes.label)
+function changeFigID (image)
+  if image.attributes.label ~= nil then
+    image.identifier = figPrefix..tostring(image.attributes.label)
   end
-  return para
+  return image
+end
+
+function changeEqID (span)
+  if span.content[1].tag == "Math" and span.attributes.label ~= nil then
+    span.identifier = eqPrefix..tostring(span.attributes.label)
+  end
+  return span
 end
 
 function changeLinks (link)
-  if string.sub(link.target,1,1) == "#" then
-    local kind = string.match(link.target,"^.-:")
-    if kind ~= nil then
-      link.target = kind..pandoc.utils.stringify(link.content)
-    end
+  local prefix = ""
+  if string.sub(link.target,1,5) == "#sec:" then
+    prefix = secPrefix
+  elseif string.sub(link.target,1,5) == "#tbl:" then
+    prefix = tblPrefix
+  elseif string.sub(link.target,1,5) == "#fig:" then
+    prefix = figPrefix
+  elseif string.sub(link.target,1,4) == "#eq:" then
+    prefix = eqPrefix 
   end
+  link.target = "#"..prefix..pandoc.utils.stringify(link.content)
   return link
 end
 
@@ -55,6 +72,7 @@ end
 return {
   { Header = changeHeaderID },
   { Div = changeTabID },
-  { Para = changeFigID },
+  { Image = changeFigID },
+  { Span = changeEqID },
   { Link = changeLinks }
 }
