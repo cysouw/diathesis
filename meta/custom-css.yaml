@@ -43,7 +43,7 @@ header-includes:
 - |
   ```{=html}
   <style>
-  @import url('http://fonts.cdnfonts.com/css/libertinus-serif');
+  @import url(http://fonts.cdnfonts.com/css/libertinus-serif);
   </style>
   ```
 # hyphenation settings as suggested by:
