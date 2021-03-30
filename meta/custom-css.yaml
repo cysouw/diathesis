@@ -38,12 +38,12 @@ header-includes:
 - |
   ```{=html}
   <!-- Links for using webfont -->
-  <link href="http://fonts.cdnfonts.com/css/libertinus-serif" rel="stylesheet">
+  <link href="https://fonts.cdnfonts.com/css/libertinus-serif" rel="stylesheet">
   ```
 - |
   ```{=html}
   <style>
-  @import url(http://fonts.cdnfonts.com/css/libertinus-serif);
+  @import url("https://fonts.cdnfonts.com/css/libertinus-serif");
   </style>
   ```
 # hyphenation settings as suggested by:
