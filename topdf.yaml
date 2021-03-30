@@ -3,7 +3,7 @@
 from: markdown
 to: pdf
 pdf-engine: xelatex
-output-file: docs/cysouwDiathesis.pdf
+output-file: docs/fulltext.pdf
 
 input-files:
 - text/c00_preface.md

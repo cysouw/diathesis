@@ -2,7 +2,7 @@
 
 from: markdown
 to: html
-output-file: docs/index.html
+output-file: docs/fulltext.html
 
 input-files:
 - text/c00_preface.md
