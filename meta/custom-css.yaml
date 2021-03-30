@@ -37,9 +37,14 @@ header-includes:
 # Webfont links
 - |
   ```{=html}
-  <!-- Link for using webfont -->
+  <!-- Links for using webfont -->
   <link href="http://fonts.cdnfonts.com/css/libertinus-serif" rel="stylesheet">
   ```
+- |
+  ```{=html}
+  <style>
+  @import url('http://fonts.cdnfonts.com/css/libertinus-serif');
+  </style>
 # hyphenation settings as suggested by:
 # https://medium.com/clear-left-thinking/all-you-need-to-know-about-hyphenation-in-css-2baee2d89179
 - |
