@@ -1513,7 +1513,7 @@ c. Der Lehrer überrascht mich damit, dass er die Aufgabe schon korrigiert hat.
 
 ### *Antikausativ* {#sec:summary-antikausativ}
 
-The unmarked ~~Antikausativ~~ (full discussion in [@sec:case-haben-anticausative] and subsequent sections) is attested with verbs like *öffnen* 'to open' or *kochen* 'to cook'. These verbs occur both as transitive [@next a] and intransitive [@next b] without any further grammatical marking. Crucially, the object of the transitive is the subject of the intransitive. Because this diathesis is unmarked, there is no formal indication of a direction. So, this diathesis could just as well be interpreted as a causative. However, there is a formal difference between verbs that in the intransitive allow for both a *haben* and *sein* perfect [@next c,d] and those that only allow for a *sein* perfect. There seems to be an interesting semantic correlate to this formal difference, and consequentially the first group is called ~~Antikausativ~~, while the second group is called ~~Kausativ~~ (see [@sec:summary-kausativ]).
+The unmarked ~~Antikausativ~~ (full discussion in [@sec:case-haben-anticausative] and subsequent sections) is attested with verbs like *öffnen* 'to open' or *kochen* 'to cook'. These verbs occur both as transitive [@next a] and intransitive [@next b] without any further grammatical marking. Crucially, the object of the transitive is the subject of the intransitive. Because this diathesis is unmarked, there is no formal indication of a direction. So, this diathesis could just as well be interpreted as a causative. However, there is a formal difference between verbs that in the intransitive allow for both a *haben* and *sein* perfect [@next c,d] and those that only allow for a *sein* perfect. There seems to be an interesting semantic correlate to this formal difference in that the verbs that allow for both *haben* and *sein* seem primarily transitiv. Consequentially this first group is called ~~Antikausativ~~, while the second group with only *sein* is called ~~Kausativ~~ (see [@sec:summary-kausativ]).
 
 ::: ex
 a. Der Mitarbeiter öffnet den Laden.
@@ -1557,7 +1557,7 @@ d. Das Buch ist verkauft.
 
 ### *Kontinuativantikausativ* (*bleiben + Partizip*) {#sec:summary-kontinuativantikausativ}
 
-The ~~Kontinuativantikausativ~~ (full discussion in [@sec:participles-bleiben-transitive]) is closely related to the *sein Zustandspassiv* (see [@sec:summary-zustandspassiv]), but now the light verb *bleiben* is used with a participle [@next]. Both *sein* and *bleiben* are known as auxiliaries (~~Kopulaverben~~) in German grammar, so this parallel construction is not unexpected. However, not all verbs can be equally used in both constructions. For example, verbs like *schreiben* 'to write' or *waschen* 'to wash' are fine with the *sein-Zustandspassiv* but not with the *bleiben-Kontinuativpassiv*. Also the retention of the original agent as a prepositional phrase seems to be impossible here, so this diathesis is classified as an anticausative [@next b].
+The ~~Kontinuativantikausativ~~ (full discussion in [@sec:participles-bleiben-transitive]) is closely related to the *sein Zustandspassiv* (see [@sec:summary-zustandspassiv]), but now the light verb *bleiben* is used with a participle [@next]. Both *sein* and *bleiben* are known as auxiliaries (~~Kopulaverben~~) in German grammar, so this parallel construction is not unexpected. However, not all verbs can be equally used in both constructions. For example, verbs like *schreiben* 'to write' or *waschen* 'to wash' are fine with the *sein-Zustandspassiv* but not with the *bleiben-Kontinuativpassiv*. Also the retention of the original agent as a prepositional phrase seems to be impossible here, so this diathesis is classified as an anticausative [@next b]. This anticausative is only attested with transitive verbs. The same *bleiben + Partizip* construction can be used with intransitive verbs, but then it does not induce a diathesis and will consequently be called ~~Kontinuativperfekt~~ (see [@sec:summary-intransitiv-kontinuativperfekt]).
 
 ::: ex
 a. Der Pförtner schließt die Tür.
@@ -1566,7 +1566,7 @@ b. Die Tür bleibt geschlossen \*(von den Pförtner).
 
 ### *Apparitivantikausativ* (*aussehen/erscheinen/wirken + Partizip*) {#sec:summary-apparitivantikausativ}
 
-The ~~Apparitivantikausativ~~ (full discussion in [@sec:participles-aussehen-anticausative] and subsequent sections) is constructed with one of the light verbs *aussehen*, *scheinen*, *erscheinen* and *wirken* with a participle. The retention of the original agent as a prepositional phrase seems to be impossible, so this diathesis is classified as an anticausative here. 
+The ~~Apparitivantikausativ~~ (full discussion in [@sec:participles-aussehen-anticausative] and subsequent sections) is constructed with one of the light verbs *aussehen*, *scheinen*, *erscheinen* and *wirken* with a participle of a transitive verb. The retention of the original agent as a prepositional phrase seems to be impossible, so this diathesis is classified as an anticausative here. With intransitive verbs this construction does not show any diathesis, calles ~~Apparativperfekt~~ (see [@sec:summary-apparitivperfekt]).
 
 ::: ex
 a. Der Pförtner schließt die Tür.
@@ -1584,7 +1584,7 @@ b. Er gibt sich entspannt \*(durch die Stille).
 
 ### *Kognitionsantikausativ* (*stehen + zu + Infinitiv*) {#sec:summary-kognitionsantikausativ}
 
-The ~~Kognitionsantikausativ~~ (full discussion in [@sec:zuinfinitive-stehen-anticausative]) uses a light verb *stehen* with *zu* and infinitive. The original accusative object is promoted to subject and the erstwhile nominative subject cannot be retained, so this clearly is an anticausative diathesis. However, examples with an explicitly accusative noun phrase as in [@next a] are actually rare. Typically, this diatheses is found with kognitive predicates, like *befürchten* 'to fear', with a *dass* complement clause [@next b]. Functionally, this complement clause has the same status as an accusative object. Note that complement clauses typically come towards the end of the sentence in German, and then the first position of the sentence often has to be filled with a position-simulating pronun *es* (which is removed when the first position is filled otherwise).
+The ~~Kognitionsantikausativ~~ (full discussion in [@sec:zuinfinitive-stehen-anticausative]) uses a light verb *stehen* with *zu* and infinitive. The original accusative object is promoted to subject and the erstwhile nominative subject cannot be retained, so this clearly is an anticausative diathesis. However, examples with an explicitly accusative noun phrase as in [@next a] are actually rare. Typically, this diatheses is found with cognitive predicates, like *befürchten* 'to fear', with a *dass* complement clause [@next b]. Functionally, this complement clause has the same status as an accusative object. Note that complement clauses typically come towards the end of the sentence in German, and then the first position of the sentence often has to be filled with a position-simulating pronun *es* (which is removed when the first position is filled otherwise).
 
 ::: ex
 a. Ich befürchte einen weiteren Beschäftigungsabbau. \
@@ -2294,7 +2294,7 @@ b. Das Kind hat geschlafen.
 a. Das Kind schläft ein.
 b. Das Kind ist eingeschlafen.
 
-### *Intransitiv Kontinuativperfekt* (*bleiben + Partizip*)
+### *Intransitiv Kontinuativperfekt* (*bleiben + Partizip*) {#sec:summary-intransitiv-kontinuativperfekt}
 
 (full discussion in [@sec:participles-bleiben-intransitive] and subsequent sections)
 
@@ -2313,9 +2313,9 @@ b. Ich halte die Tür geschlossen.
 c. Ich lasse die Tür geschlossen.
 :::
 
-### *Apparitivperfekt* (*aussehen/erscheinen/wirken + Partizip*)
+### *Apparitivperfekt* (*aussehen/erscheinen/wirken + Partizip*) {#sec:summary-apparitivperfekt}
 
-(full discussion in [@sec:participles-scheinen-intransitive] and subsequent sections)
+(full discussion in [@sec:participles-scheinen-intransitive] and subsequent sections). see also ~~Apparitivantikausativ~~ (see [@sec:summary-apparitivantikausativ])
 
 ::: ex
 a. Der Plan scheitert.

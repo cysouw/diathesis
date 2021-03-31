@@ -752,7 +752,7 @@ a. Er stößt mich in den Teich.
 b. Ich stoße mich am Tisch.
 c. Ich bin auf ihn gestoßen.
 d. Er stößt mich an die Wand.
-e. Ich stosse mich in die Tiefe meiner Finsternis, um meine Finsternis zu erkennen. [ WWW ](http://bluemountain.princeton.edu/bluemtn/?a=d&d=bmtnabg19231201-01.2.2&), accessed 10 January 2019)
+e. Ich stosse mich in die Tiefe meiner Finsternis, um meine Finsternis zu erkennen^[http://bluemountain.princeton.edu/bluemtn/?a=d&d=bmtnabg19231201-01.2.2&, accessed 10 January 2019]
 :::
 
 ### [ ND | Nd ] Self-inflicting dative reflexive {#sec:reflexive-self-dative}
@@ -1587,8 +1587,10 @@ b. Der Volksstamm unterwarf sich dem Eroberer.
 Both the alternants in [@next] are very old-fashioned.
 
 ::: ex
-a. Der Kranke erbarmt mich. ("Der Kranke erregte mein Mitleid.")
-b. Ich erbarmte mich des Kranken. ("Aus Mitleid kümmerte ich mich um den Kranken.")
+a. Der Kranke erbarmt mich. \
+   (= Der Kranke erregte mein Mitleid.)
+b. Ich erbarmte mich des Kranken. \
+   (= Aus Mitleid kümmerte ich mich um den Kranken.)
 :::
 
 **Attested Verbs**
@@ -1637,7 +1639,7 @@ d. ^* Ich träume mich.
 - Die Motten fressen von/an den Pullover. Die Motten fressen sich durch den Pullover.
 - Bevor ich auf das Wasser gehe, muss ich meine Kür exakt im Kopf haben, ich denke mich quasi durch meinen Trick.^[~~DWDS~~: Die Zeit, 16.06.2009, Nr. 25.]
 - Er zitterte vor der Prüfung. Würzburg zitterte sich am Ende in die Playoffs.^[~~DWDS~~: Die Zeit, 07.05.2016.]
-- Schalke schießt sich aus der Krise. (https://www.faz.net/aktuell/sport/2-0-gegen-hannover-schalke-schiesst-sich-aus-der-krise-1258798.html)
+- Schalke schießt sich aus der Krise.^[https://www.faz.net/aktuell/sport/2-0-gegen-hannover-schalke-schiesst-sich-aus-der-krise-1258798.html, accessed 30.03.21]
 
 ### --- [ OBJ > OBJ ] --- {.unnumbered}
 
@@ -1658,4 +1660,3 @@ b. Er nimmt sich des Problemes an. ('kümmern')
 
 - Ich bedenke einen Grund. ('beachten')
 - Ich bedenke mich eines Grundes. ('besinnen')
-

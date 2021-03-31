@@ -18,9 +18,9 @@ As is customary in German grammar, I will restrict the notion of verb particles 
 There are ten local groups of diatheses that seem prominent enough to be given a German name. I propose the following names for these:
 
 - ~~[Ø › SBJ › OBJ] Präverb Kausativ~~ (see [@sec:preverb-causative] ff.)
-- ~~[Ø › OBJ] Präverb Akkusativ Zugabe~~ (see [@sec:preverb-accusative-addition] ff.)
-- ~~[Ø › OBJ] Präverb Dativ Zugabe~~ (see [@sec:preverb-dative-addition] ff.)
-- ~~[Ø › OBJ] Präverb Resultativ~~ (see [@#sec:preverb-reflexive-resultative] ff.)
+- ~~[Ø › OBJ] Präverb Akkusativ~~ (see [@sec:preverb-accusative-addition] ff.)
+- ~~[Ø › OBJ] Präverb Dativ~~ (see [@sec:preverb-dative-addition] ff.)
+- ~~[Ø › OBJ] Präverb Reflexiv Akkusativ~~ (see [@#sec:preverb-reflexive-resultative] ff.)
 - ~~[ADJ › OBJ] Präverb Applikativ~~ (see [@sec:preverb-applicative])
 - ~~[ADJ › OBJ] Präverb Dativ Applikativ~~ (see [@sec:preverb-dative-applicative])
 - ~~[ADJ › OBJ › ADJ] Präverb Transitiv Applikativ~~ (see [@sec:preverb-applicative-antipassive])
@@ -1074,7 +1074,7 @@ Lipka [-@lipka1972: 93, 173] calls this diathesis 'Objektvertauschung' and McInt
 
 ## Diatheses with promotion to object {#sec:preverb-promotion-to-object}
 
-### --- [ Ø > OBJ ] --- *Präverb Akkusativ Zugabe* {.unnumbered}
+### --- [ Ø > OBJ ] --- *Präverb Akkusativ* {.unnumbered}
 
 ### [ N– | NA ] Preverb accusative addition {#sec:preverb-accusative-addition}
 
@@ -1151,7 +1151,7 @@ b. Sie vertraut mir ein Geheimnis an.
 
 - ˈan- : *vertrauen*
 
-### --- [ Ø > OBJ ] --- *Präverb Dativ Zugabe* {.unnumbered}
+### --- [ Ø > OBJ ] --- *Präverb Dativ* {.unnumbered}
 
 ### [ N– | ND ] Preverb dative addition {#sec:preverb-dative-addition}
 
@@ -1189,9 +1189,9 @@ b. Ich lese dir ein Buch vor.
 - Ich habe den Ball geworfen. Ich habe dir den Ball zugeworfen
 - Ich habe den Schal geworfen. Ich habe dir den Schal übergeworfen.
 
-### --- [ Ø > OBJ ] --- *Präverb Resultativ* {.unnumbered}
+### --- [ Ø > OBJ ] --- *Präverb Reflexiv Akkusativ* {.unnumbered}
 
-### [ N– | NA ] Preverb reflexive resultative {#sec:preverb-reflexive-resultative}
+### [ N– | NA ] Preverb reflexive resultative accusative {#sec:preverb-reflexive-resultative}
 
 Some intransitive verbs like *tanzen* 'to dance' [@next a] allow for a resultative diathesis *antanzen* 'to achieve something through dancing' [@next b]. The result of the dancing is expressed in the new accusative argument. A special characteristic of this diathesis is that a dative reflexive pronoun is obligatorily present [see also @wunderlich1997: 105-106].
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this chapter only those alternations are considered that involve pure flagging, i.e. case-marked constituents or prepositional phrases. There are many different alternations that involve prepositions, like antipassives [@next a], see [@sec:prepositions-accusative-antipassive], anticausatives [@next b], see [@sec:prepositions-intransitive-preposition-anticausative], applicatives [@next c], see [@sec:prepositions-instrument-applicative], and many more. 
+In this chapter only those alternations are considered that involve a change in pure flagging, i.e. between case-marked constituents and prepositional phrases. There are many different alternations that involve prepositions, like antipassives [@next a], see [@sec:prepositions-accusative-antipassive], anticausatives [@next b], see [@sec:prepositions-intransitive-preposition-anticausative], applicatives [@next c], see [@sec:prepositions-instrument-applicative], and many more. 
 
 ::: ex
 a. Ich schlürfe meinen Tee. \
@@ -30,28 +30,22 @@ Prepositional phrases in German are partly governed arguments and partly non-gov
 Der König wartet auf seinem alten Thron auf seinen neuen Thron.
 :::
 
-For the classification of diatheses into kinds, I have followed the following rules for the assessment of prepositional phrases:
-
-- Prepositional phrases that are obligatorily present in a specific sentence construction are classified as arguments (~~OBJ~~).
-- Governed prepositions are classified as arguments (~~OBJ~~), except when the governed prepositional phrase alternates with a case-marked argument: then they are classified as adjuncts (~~ADJ~~). The reason for this seemingly ad-hoc decision is that for all diatheses involving an alternation between prepositional phrases and case-marked constituents, there appears to be a mix of governed and non-governed prepositions without any clear differences.
-- Non-governed prepositions are always classified as adjuncts (~~ADJ~~). In the current discussion they are only relevant when they alternate with a case-marked constituent.
-
 There are fourteen local groups of diatheses that seem prominent enough to be given a German name. I propose the following names for these:
 
-- ~~[ADJ › SBJ › Ø] Instrumentsubjektivierung~~ (see [@sec:prepositions-intransitive-preposition-anticausative ff.])
-- ~~[PBJ › SBJ › Ø] Kreationssubjektivierung~~ (see [@sec:prepositions-fabricative-accusative ff.])
+- ~~[ADJ › SBJ › Ø] Instrumentsubjektivierung~~ (see [@sec:prepositions-intransitive-preposition-anticausative] ff.)
+- ~~[PBJ › SBJ › Ø] Kreationsubjektivierung~~ (see [@sec:prepositions-fabricative-accusative] ff.)
 - ~~[OBJ › SBJ › Ø] Ortsantikausativ~~ (see [@sec:prepositions-haben-caused-location])
-- ~~[Ø › SBJ › OBJ] Ortskausativ~~ (see [@sec:prepositions-sein-caused-location ff.])
-- ~~[Ø › PBJ] Ortsresultativ~~ (see [@sec:prepositions-intransitive-location-as-result ff.])
-- ~~[Ø › PBJ] Bewegungszustand~~ (see [@sec:prepositions-manner-of-movement ff.])
+- ~~[Ø › SBJ › OBJ] Ortskausativ~~ (see [@sec:prepositions-sein-caused-location] ff.)
+- ~~[Ø › PBJ] Bewegungsart~~ (see [@sec:prepositions-manner-of-movement] ff.)
+- ~~[Ø › PBJ] Verursachte Bewegung~~ (see [@sec:prepositions-intransitive-location-as-result] ff.)
 - ~~[Ø › PBJ] Ergänzende Wirkung~~ (see [@sec:prepositions-performative-result]
-- ~~[Ø › OBJ › PBJ] Aktionsresultativ~~ (see [@sec:prepositions-action-result])
+- ~~[Ø › OBJ › PBJ] Resultativ~~ (see [@sec:prepositions-action-result])
 - ~~[ADJ › OBJ] Benefaktivdativ~~ (see [@sec:prepositions-benefactive-dative])
-- ~~[ADJ › OBJ] Ortspertinenzdativ~~ (see [@sec:prepositions-possessor-of-location-to-dative-experiencer ff.])
+- ~~[ADJ › OBJ] Ortspertinenzdativ~~ (see [@sec:prepositions-possessor-of-location-to-dative-experiencer] ff.)
 - ~~[ADJ › OBJ › PBJ] Pertinenzakkusativ~~ (see [@sec:perpositions-possessor-applicative])
-- ~~[ADJ › OBJ › ADJ] Transitiv Applikativ~~ (see [@sec:prepositions-instrument-applicative])
-- ~~[OBJ › ADJ] Antipassiv~~ (see [@sec:prepositions-accusative-antipassive ff.])
-- ~~[OBJ › ADJ] Dativ Antipassiv~~ (see [@sec:prepositions-dative-antipassive ff.])
+- ~~[ADJ › OBJ › ADJ] Vollapplikativ~~ (see [@sec:prepositions-instrument-applicative])
+- ~~[OBJ › ADJ] Akkusativ Antipassiv~~ (see [@sec:prepositions-accusative-antipassive] ff.)
+- ~~[OBJ › ADJ] Dativ Antipassiv~~ (see [@sec:prepositions-dative-antipassive] ff.)
 
 ## Delimiting governed prepositional phrases {#sec:prepositions-delimiting-governed-prepositional-phrases}
 
@@ -657,8 +651,6 @@ b. Ich hängte den Pullover in den Schrank.
 c. Der Pullover hat im Schrank gehangen.
 d. Ich habe den Pullover in den Schrank gehängt.
 :::
-
-
 
 ### [ NA– | –NP ] Anticausative + preposition addition {#sec:prepositions-anticausative-preposition-addition}
 
@@ -1381,9 +1373,7 @@ c. Ich denke daran, dass ich Milch kaufen muss.
 
 The genitive ditransitive in this group allow for an alternative formulation of the genitive argument as a prepositional phrase with *von* and subsequent dative noun phrase. Given a suitable context, such prepositional phrases can in most cases be left out.
 
-As with many genitives in German, some verbs are losing the possibility to occur with a genitive, leaving other alternants as the only option. For example, the verb *erinnern* 'remind' could be used with a genitive until ±1850 [@next a]. Today, the preposition seems to be only possibility [@next b].
-
-Note that the prepositions with these verbs are governed prepositions [@next c].
+As with many genitives in German, some verbs are losing the possibility to occur with a genitive, leaving other alternants as the only option. For example, the verb *erinnern* 'remind' could be used with a genitive until ±1850 [@next a]. Today, the preposition seems to be only possibility [@next b]. Note that the prepositions with these verbs are governed prepositions [@next c].
 
 ::: ex
 a. Ich erinnere dich des Versprechens.
@@ -1662,7 +1652,7 @@ b. Sie schimpft mich einen Narren
 
 **Examples**
 
-- Er sitzt immer am selben Platz bei Bier und Schnaps, flucht mich einen Tagedieb, einen Affen, Bananenfresser, einen, der schon längstens in eine Arbeitserziehungsanstalt gehöre. (http://www.gruppe-4-w.de/forum/viewtopic.php?f=21&t=2047#p19030, accessed 29 Juli 2019)
+- Er sitzt immer am selben Platz bei Bier und Schnaps, flucht mich einen Tagedieb, einen Affen, Bananenfresser, einen, der schon längstens in eine Arbeitserziehungsanstalt gehöre.^[http://www.gruppe-4-w.de/forum/viewtopic.php?f=21&t=2047#p19030, accessed 29 Juli 2019]
 
 ### --- [ ADJ > OBJ ] --- *Benefaktivdativ* {.unnumbered}
 
@@ -1827,7 +1817,7 @@ a. Die Kinder wimmeln auf den Platz.
 b. Der Platz wimmelt von Kindern. 
 :::
 
-### --- [ ADJ > OBJ > ADJ ] --- *Transitiv Applikativ* {.unnumbered}
+### --- [ ADJ > OBJ > ADJ ] --- *Vollapplikativ* {.unnumbered}
 
 ### [ NAp | NpA ] Full applicative {#sec:prepositions-instrument-applicative}
 
@@ -1905,4 +1895,3 @@ b. Ich bewundere die Ehrlichkeit bei ihm.
 - Ich bemerke bei ihm eine Langeweile. Ich bemerke seine Langeweile.
 - Ich bekämpfe bei ihm den Schmerz. Ich bekämpfe seinen Schmerz.
 - Ich erwarte von dir einen Besuch. Ich erwarte deinen Besuch.
-
