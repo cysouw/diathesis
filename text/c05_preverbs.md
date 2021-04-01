@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Under the heading ~~preverb~~ I will subsume here two different constructions, known in German linguistics as ~~verb prefixes~~ [@next a] and ~~verb particles~~ [@next b]. These constructions have clearly different syntactic characteristics (see [@sec:preverbs-prefixes-particles]), but from the perspective of valency alternations they appear to function highly similar. For a discussion of term 'preverb' as a cover term for both constructions, see Booij & van Kemenade [-@booij2003b]. 
+Under the heading ~~preverb~~ I will subsume here two different constructions, known in German linguistics as *Verbpräfixe* 'verb prefixes' () [@next a] and *Verbpartikel* 'verb particles' [@next b]. These constructions have clearly different syntactic characteristics (see [@sec:preverbs-prefixes-particles]), but from the perspective of valency alternations they appear to function highly similar. For a discussion of term 'preverb' as a cover term for both constructions, see Booij & van Kemenade [-@booij2003b]. 
 
 ::: ex
 a. Ich umfahre den Polizisten.
@@ -20,100 +20,72 @@ There are ten local groups of diatheses that seem prominent enough to be given a
 - ~~[Ø › SBJ › OBJ] Präverb Kausativ~~ (see [@sec:preverb-causative] ff.)
 - ~~[Ø › OBJ] Präverb Akkusativ~~ (see [@sec:preverb-accusative-addition] ff.)
 - ~~[Ø › OBJ] Präverb Dativ~~ (see [@sec:preverb-dative-addition] ff.)
-- ~~[Ø › OBJ] Präverb Reflexiv Akkusativ~~ (see [@#sec:preverb-reflexive-resultative] ff.)
+- ~~[Ø › OBJ] Präverb Reflexiv Akkusativ~~ (see [@sec:preverb-reflexive-resultative] ff.)
 - ~~[ADJ › OBJ] Präverb Applikativ~~ (see [@sec:preverb-applicative])
 - ~~[ADJ › OBJ] Präverb Dativ Applikativ~~ (see [@sec:preverb-dative-applicative])
-- ~~[ADJ › OBJ › ADJ] Präverb Transitiv Applikativ~~ (see [@sec:preverb-applicative-antipassive])
-- ~~[PBJ › Ø] Präverb Antiresultativ~~ (see [@sec:preverb-intransitive-antiresultative] ff.)
-- ~~[PBJ › OBJ › Ø] Aktionsantiresultativ~~ (see [@sec:preverb-location-antiresultative] ff.)
+- ~~[ADJ › OBJ › ADJ] Präverb Vollapplikativ~~ (see [@sec:preverb-applicative-antipassive])
+- ~~[PBJ › Ø] Präverb Antilokativ~~ (see [@sec:preverb-intransitive-antiresultative] ff.)
+- ~~[PBJ › OBJ › Ø] Präverb Antiresultativ~~ (see [@sec:preverb-location-antiresultative] ff.)
 - ~~[OBJ › ADJ] Präverb Dativ Antipassiv~~ (see [@sec:preverb-dative-antipassive])
 
-## Characterizing preverbs
+## Characterising preverbs
 
-Multiple options:
+### Prefixes and particles {#sec:preverbs-prefixes-particles}
 
-antanzen: herbei zitieren, anstoßen beim tanzen, sich gegen etwas stemmen, den Tanz anfangen, durch tanzen erreichen [@felfe2012: 1]
+The central morphosyntactic difference between verb prefixes and verb particles is their morphological bond to the lexical root. As implied by the name, verb prefixes like *beˈ-* are prefixed to the root and are never separated from it [@next a]. In contrast, verb particles like *ˈein-* are in many constructions separated from the root [@next b]. Additionally, verb prefixes are unstressed, while verb particles are stressed. To indicate whether a preverb is a prefix or particle, I will add a stress mark after (prefix) or before (particle).
 
-### Prefixes vs. particles {#sec:preverbs-prefixes-particles}
+::: ex
+a. Ich *betrete* den Saal. \
+   Ich habe den Saal *betreten*. \
+   Ich hoffe den Saal zu *betreten*.
+b. Ich *trete* die Tür *ein*. \
+   Ich habe die Tür *eingetreten*. \
+   Ich hoffe die Tür *einzutreten*.
+:::
 
-Different kinds of prefixes in German grammar (https://de.wikipedia.org/wiki/Liste_deutscher_Präfixe):
+The following elements can only be used as verb prefixes in German [see @los2016: 177; @pfeiffer1993 for the diachronic origin]:
 
-- completely grammaticalised (no transparent alternations): *ge-*
+- *geˈ-*: originally meaning 'with', probably cognate with Latin *com*
+- *beˈ-*: originally meaning 'by, around', cognate to modern German *bei*
+- *erˈ-*: originally meaning 'out', cognate both to modern German *aus* and *ur-*
+- *verˈ-*: originally meaning 'before', probably cognate with both Latin *pro* and *per*
+- *zerˈ-*: originally meaning 'in two', cognate with Latin *dis-*
+- *entˈ-*: originally meaning 'against', cognate with Greek *anti*
+- *missˈ-*: originally meaning 'missing', still transparently cognate with modern German verb root *(ver)miss(en)*
 
-*gebären, gebieten, gebühren, gedeihen, gefallen, gehören, gelingen, genesen, geraten, geschehen, gestehen, gewähren, gewinnen, gewöhnen*
+The prefix *geˈ-* only occurs in completely grammaticalised combinations, i.e. there are no verbs (anymore) with *ge-* in which the root is still transparently related to the *ge-* prefixed wordform (cf. [@sec:intro-lexical-meanings]). Pairs like *bieten* 'to offer' and *gebieten* 'to order' are thus simply treated as two completely separate lexemes here, and will consequently not occur among any of the diatheses (see [@sec:preverb-deponent]). In contrast, the addition of the prefix *missˈ-* is always completely transparent and never results in a diathesis, e.g. *achten* 'to respect' and *missachten* 'to disrespect' (see [@sec:preverb-intranstive-without-diathesis; @sec:preverb-transitive-without-diathesis]). That leaves the prefixes *beˈ-, erˈ-, verˈ-, zerˈ-, entˈ-*, all of these occur frequently. They induce various diathesis as discussed throughout this chapter.
 
-- very transparent in alternations, but no diatheses attested : *miss-*
+The following prepositions can be used as preverbs:
 
-*missachten, missbehagen, missbilligen, missblicken, missbrauchen, missdeuten, missglücken, missgönnen, misshandeln, misshellig, misshören, missinterpretieren, missklingen, misstrauen, missverstehen*
+- The four prepositions *durch, über, um, unter* can be used both as verb prefixes and as verb particles leading to diathesis.
+- The nine prepositions *ab, an, auf, aus, bei, ein (~in), nach, vor, zu* are frequently used as verb particles leading to diathesis.
+- The preposition *mit* only occurs as a verb particle in completely transparent derivation that never result in a diathesis, e.g. *arbeiten* 'to work' becomes *mitarbeiten* 'to work along' (see [@sec:preverb-intranstive-without-diathesis; @sec:preverb-transitive-without-diathesis]).
+- A few polysyllabic prepositions are only used very rarely as verb particles, namely *entlang, entgegen, gegenüber, hinter, neben, zwischen*. 
+- Crucially, the remaining prepositions are never used as verb particles with a verb root, namely *außer, bis, für, gegen, ohne, seit, von*. It is unclear to me whether there is any deeper reason for the absence of any such derivations.
 
-- Prefixes with some transparent alternation: *be-, ent-, er-, ver-, zer-*
-- Prepositions, both possible as prefixes and as particles (transient semantics as prefix): *durch-, über-, um-, unter-*
-- Propositions, only possible as particles: *ab-, an-, auf-, aus-, bei-, ein-, nach-, vor-, zu-*
+The two main groups of prepositional preverbs that are involved in diathesis show an intriguing semantic structure. Note that this semantic structure involves their prepositional meaning, not their function as preverbs:
 
-Diachronically, the prefixes go back to prepositions as well, but this origin is not transparent anymore [@los2016: 177, pfeiffer1993]
+- the prefix/particle prepositions *durch, über, unter, um* describe a movement along an object, i.e. 'through, over, under, around', respectively.
+- the particle-only prepositions come in semantic pairs describing either a directional movement, i.e. *zu/ab* 'to/from' and *ein/aus* 'in/out', or a position, i.e. *vor/nach* 'before/after' and *bei/an/auf* 'near/on/on top'.
 
-- *ge-*   : originally meaning 'with', probably cognate with Latin *com*
-- *be-*   : originally meaning 'by, around', cognate to modern German *bei*
-- *ver-*  : originally meaning 'before, probably cognate with both Latin *pro* and *per*
-- *er-*   : originally meaning 'out', cognate both to modern German *aus* and *ur-*
-- *ent-*  : originally meaning 'against', cognate with Greek *anti*
-- *zer-*  : originally meaning 'in two', cognate with Latin *dis-*
-- *miss-* : originally meaning 'missing', still transparently cognate with modern German *(ver)missen*
+Used as a preverb, the meaning of the preposition can be highly variable. For example, the verb *antanzen* [cf. @felfe2012: 1] has at least the following possible interpretations [@next]. In this chapter, I will only sporadically comment on these semantics details when they not also involve a diathesis.
 
-Most frequently showing alternations:
-
-- dative *ab, aus, bei, nach, zu*
-- both *an, auf, ein, vor* (über/unter as prefix)
-- no alternations with accusative prepositions (durch/um as prefix)
-
-semantically: 
-
-- directional: zu/ab, ein/aus
-- positional: vor/nach, bei/an/auf
-- not as particles: mit, seit, von, außer, für, gegen, ohne, bis
-
-others
-
-- incidental *entlang, entgegen, gegenüber, hinter, neben, zwischen*
-- Locational particles: *da(r)-, her-, hin-*
-
-- entlang  : *fahren, laufen, rasen*
-- Ich laufe entlang den/dem Fluß. Ich laufe den Fluß entlang. 
-
-Prefixes?
-
-- vollstrecken, vollziehen, vollführen
-
-Abgrenzung zu Aktionsart: Andere Konstruktion, aber keine syntaktische Änderung der Ergänzungen, nur semantisch anders (hier keine komplette Auflistung!). In der Literatur wird 'Aktionsart' auch noch benutzt für reine semantische Analyse, z.B. 'blühen' ist atelisch.
-
-- Kompletiv: Ich esse den Apfel. Ich esse den Apfel auf.
-- Verstätigung: Ich halte das Buch. Ich behalte das Buch.
-- Resultativ: Ich schneide das Blatt. Ich zerschneide das Blatt.
-
-### Other stems {#sec:preverbs-other-stems}
-
-Adjectival root: clear alternation (see Sections X)
-
-Nominal root (note Umlaut!):
-Note semantic relation to noun: 
-
-- *ver/be-* causative: apply noun to object
-- *er-* experiencer: apply noun to subject (?)
-- *ent-* causative: remove noun from object
-
-N ist gold. N vergoldet A
-N ist Beute. N erbeutet A
-
-- *begrenzen, begründen, behaupten, beschädigen*
-- *verchromen, vergiften, vergolden, verkohlen, vermüllen, verpfeffern, versalzen*
-- *erbeuten, erdolchen, ergaunern, ergründen, erküren*
-- *entkalken, entthronen, entrinden, entsalzen, entschlüsseln, entwaffnen, entwalden, entwassern, entziffern*
-- *einbürgern, eingemeinden*
-- *abgrenzen*
-
-Prepositional root: 
-
-- *begegnen, erobern, erwidern*
+::: ex
+a. Der Rüpel hat mich angetanzt. \
+   (= anstoßen beim tanzen, cf. [@sec:preverb-applicative] with *gegen*)
+b. Das Brautpar hat den Ball angetanzt. \
+   (= durch tanzen den Ball anfangen, cf. [@sec:preverb-applicative] with *auf*)
+c. Der Junge kam angetanzt. \
+   (= tanzend hinbewegen, cf. [@sec:participles-kommen-an])
+d. Ich habe mir ein kaputtes Knie angetanzt. \
+   (= durch tanzen etwas erreichen, cf [@sec:preverb-reflexive-resultative])
+e. Ich haben gegen die Resignation angetanzt. \
+   (= sich gegen etwas stemmen)
+f. Er ist beim Chef angetanzt. \
+   (= wurde herbei zitiert)
+g. Bewegungsfolgen werden nur angetanzt und immer wieder abgebrochen.^[DWDS: Neue Zürcher Zeitung, 30.09.2000] \
+   (= die Bewegung nicht vollständig ausführen)
+:::
 
 ### Preverbal verbs prefer an accusative argument {#sec:preverbs-always-accusative}
 
@@ -179,16 +151,47 @@ c. Die Polizei jagte einen Verbrecher. \
    Die Polizei jagte dem Verbrecher nach.
 :::
 
-## Deponent verbs without alternation
+### Preverbs with non-verbal stems {#sec:preverbs-other-stems}
+
+Preverbs typically are added to verbal roots. However, there are a few examples in which preverbs are added to non-verbal roots, constructing a verb in the process. For examples from adjectival roots like *grün* 'green' it is possible to derive a verb *begrünen* 'to plant' [@next]. This derivation typically has a causative function with the subject causing the object to become the adjectival predicate, see [@sec:preverb-adjectival-causative]. However, in a few incidental cases, the semantics are slightly different, like with *lustig* 'funny' and *belustigen* 'to amuse' [@nnext], see [@sec:prever-adjectival-addition].
+
+::: ex
+a. Der Balkon ist grün.
+b. Ich begrüne den Balkon. \
+   (= Ich verursache, dass der Balkon grün ist.)
+:::
+
+::: ex
+a. Der Clown ist lustig.
+b. Der Clown belustigt mich.
+:::
+
+Preverbs are also sometimes used with a nominal root to derive a verb (see [@sec:preverb-nominal-causative]). This derivation likewise has a causative semantics in that the subject causes the object to have something, e.g. *Salz* 'salt' leads to *versalzen*, which means 'to cause something to have too much salt' [@next]. With the prefix *ent-* a negation is added, e.g. *Waffe* 'weapon' leads to *entwaffnen*, which means 'to cause somebody to not have a weapen' [@nnext].
+
+::: ex
+a. Die Suppe hat (zuviel) Salz.
+b. Ich versalze die Suppe. \
+   (= Ich verursache, dass die Suppe (zuviel) Salz hat.)
+:::
+
+::: ex
+a. Der Dieb hat eine Waffe.
+b. Ich entwaffne den Dieb. \
+   (= Ich verursache, dass der Dieb keine Waffe hat.)
+:::
+
+Finally, there are few incidental examples of preverbs added to a prepositional root, but they will not further be discussed here (e.g. *begegnen, erobern, erwidern*).
+
+## Deponent verbs without alternation {#sec:preverb-deponent}
 
 Roots that do not exist (anymore): 
+
+- *gebären, gebieten, gebühren, gedeihen, gefallen, gehören, gelingen, genesen, geraten, geschehen, gestehen, gewähren, gewinnen, gewöhnen*
 
 - *beginnen. bescheren. beschäftigen. beteiligen. bezichtigen*
 - *erbarmen, ereignen, ergattern, erinnern, erklimmen, erkunden, erlauben, erläutern, erledigen, erstatten*
 
 No transparent semantic relation to root: Note that often the prefixed alternant seems to become more semantically restricted over time (e.g. graben/begraben).
-
-- *gebieten, gehören, geraten*
 
 - *bekommen. benehmen. berichten. beschaffen. bestehen. bestimmen. bevorstehen. beweisen*
 - *entsprechen, entwischen*
@@ -251,8 +254,10 @@ c. Die Milch kocht über.
 
 **Attested Verbs**
 
-- verˈ-  : *sinken, sterben, trocknen*
-- ˈüber- : *kochen*
+- *verˈ-*  : *sinken, sterben, trocknen*
+- *missˈ-* : *klingen*
+- *ˈmit-*  : *arbeiten, brüllen, denken, essen, fahren, fliegen, fühlen, gehen, heulen, hören, kommen, kämpfen, lachen, laufen, leiden, lächeln, reden, schwingen, segeln, singen*
+- *ˈüber-* : *kochen*
 
 **Examples**
 
@@ -274,12 +279,14 @@ b. Die gelagerten Kartoffeln. \
  
 **Attested Verbs**
 
-- verˈ-   : *lagern*
-- beˈ-    : *fürchten, grüßen*
-- ˈunter- : *bringen*
-- ˈdurch- : *halten*
-- ˈan-    : *sehen*
-- ˈauf-   : *essen*
+- *verˈ-*   : *lagern*
+- *beˈ-*    : *fürchten, grüßen*
+- *missˈ-*  : *achten, billigen, blicken, brauchen, deuten, gönnen, handeln, hören, interpretieren, trauen, verstehen*
+- *ˈan- *   : *sehen*
+- *ˈauf-*   : *essen*
+- *ˈdurch-* : *halten*
+- *ˈmit-*   : *ansehen, benutzen, bezahlen, bieten, bringen, erleben, feiern, garen, geben, gestalten, kochen, lesen, liefern, nehmen, nutzen, planen, regieren, schicken, schreiben*
+- *ˈunter-* : *bringen*
 
 **Examples**
 
@@ -289,6 +296,8 @@ b. Die gelagerten Kartoffeln. \
 - Ich sehe dich. Ich sehe dich an.
 - Ich fürchte das Prüfungsergebnis. Ich befürchte ein schlechtes Prüfungsergebnis.
 - Ich grüße dich. Ich begrüße dich.
+- Ich achte ihn. Ich missachte ihn.
+- Ich billige den Plan. Ich missbillige den Plan.
 
 ### --- Preverb adjectives without diathesis --- {.unnumbered}
 
@@ -619,6 +628,25 @@ There are also prefixed adjectives in which an accusative object is added (see [
 - Er ist mürbe vor Sorgen. Die Sorgen zermürben ihn.
 - Bitte entrunden Sie das /ö/. Das runde/entrundetet /ö/ ...
 
+### [ –N | NA ] Preverb nominal causative {#sec:preverb-nominal-causative}
+
+Nominal root (note Umlaut!):
+Note semantic relation to noun: 
+
+- *ver/be-* causative: apply noun to object
+- *er-* experiencer: apply noun to subject (?)
+- *ent-* causative: remove noun from object
+
+N ist gold. N vergoldet A
+N ist Beute. N erbeutet A
+
+- *begrenzen, begründen, behaupten, beschädigen*
+- *verchromen, vergiften, vergolden, verkohlen, vermüllen, verpfeffern, versalzen*
+- *erbeuten, erdolchen, ergaunern, ergründen, erküren*
+- *entkalken, entthronen, entrinden, entsalzen, entschlüsseln, entwaffnen, entwalden, entwassern, entziffern*
+- *einbürgern, eingemeinden*
+- *abgrenzen*
+
 ### [ –NP | NAP ] Preverb causative + preposition
 
 Some causative alternations have a goverend preposition, like with *haften* 'to be liable for' [@next a]. The preposition becomes optional in the causative counterpart [@next b].
@@ -895,7 +923,7 @@ b. Ich beschenke dich mit einem Buch.
 - Ich liefere dem Bäcker das Mehl. Ich beliefere den Bäcker mit dem Mehl.
 - Ich singe dir ein Lied. Ich besinge dich mit einem Lied.
 
-### --- [ PBJ > Ø ] --- *Präverb Antiresultativ* {.unnumbered}
+### --- [ PBJ > Ø ] --- *Präverb Antilokativ* {.unnumbered}
 
 ### [ NL | N– ] Preverb intransitive antiresultative {#sec:preverb-intransitive-antiresultative}
 
@@ -1031,7 +1059,7 @@ d. Der Wind verweht die Blätter.
 - Ich schenke den Wein in das Glas. Ich schenke den Wein ein.
 - Ich grabe den Schatz aus den Boden. Ich grabe den Schatz aus.
 
-### --- [ PBJ > OBJ > Ø ] --- *Aktionsantiresultativ* {.unnumbered}
+### --- [ PBJ > OBJ > Ø ] --- *Präverb Antiresultativ* {.unnumbered}
 
 ### [ NLA | NA– ] Preverb applicative + accusative drop {#sec:preverb-location-antiresultative}
 
@@ -1304,7 +1332,7 @@ Note that the prepositions *über, unter, um, durch* appear to have a special st
 - erˈ  : *blicken, drücken, klettern, schießen, steigen, zielen*
 - zerˈ : *beißen, drücken, hauen, kauen, klopfen, schießen, schlagen, trampeln, treten*
 - 'ein : *drücken, hämmern, klagen, laufen, reiten, schlagen, schießen, treten*
-- 'an  : *spucken, stampfen*
+- 'an  : *spucken, stampfen, tanzen*
 
 **Examples**
 
@@ -1316,6 +1344,7 @@ Note that the prepositions *über, unter, um, durch* appear to have a special st
 - Ich klage auf Schadensersatz. Ich klage das Geld ein.
 - Ich reite auf einem Pferd. Ich reite das Pferd ein.
 - Ich laufe auf meinen neuen Schuhen. Ich laufe meine neue Schuhe ein.
+- Das Brautpar tanzt auf den Ball. Das Brautpar hat den Ball angetanzt.
 
 #### *durch* Preverb applicative
 
@@ -1344,15 +1373,16 @@ The preposition *durch* only alternates with the preverb *durch-*.
 - Der Fluß fließt durch das Tal. Der Fluß fließt das Tal durch.
 - Ich beiße durch den Apfel. Ich beiße den Apfel durch.
 
-#### *'gegen*  Preverb applicative
+#### *gegen* Preverb applicative
 
-- 'an  : *fahren, hüpfen, springen*
+- 'an  : *fahren, hüpfen, springen, tanzen*
 - 'um  : *fahren, stoßen*
 - 'auf : *stoßen*
 
 - Ich fahre gegen das Auto. Ich fahre das Auto an.
 - Ich fahre gegen den Stein. Ich fahre den Stein um.
 - Ich stoße gegen die Tür. Ich stoße die Tür auf.
+- Der Rüpel tanzt gegen mich. Der Rüpel hat mich angetanzt.
 
 #### *in* Preverb applicative
 
@@ -1722,7 +1752,7 @@ b. Das Haus erstrahlt in der Sonne.
 
 - Der Efeu wächst an der Hauswand. Die Hauswand wächst durch den Efeu zu.
 
-### --- [ ADJ > OBJ > ADJ ] --- *Präverb Transitiv Applikativ* {.unnumbered}
+### --- [ ADJ > OBJ > ADJ ] --- *Präverb Vollapplikativ* {.unnumbered}
 
 ### [ NpA | NAp ] Preverb applicative + *mit* antipassive {#sec:preverb-applicative-antipassive}
 

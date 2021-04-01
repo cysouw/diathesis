@@ -41,6 +41,8 @@ There are five diatheses that seem prominent enough to be given a German name. I
 - ~~[ADJ › OBJ] Adverb Applikativ~~ (see [@sec:adverbials-applicative]ff.)
 - ~~[ADJ › OBJ › ADJ] Adverb Vollapplikativ~~ (see [@sec:adverbial-full-applicative])
 
+=> Locational particles: *da(r)-, her-, hin-*
+
 ## Delimiting adverbial arguments
 
 ### Adverbials and adverbs
