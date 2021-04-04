@@ -42,7 +42,7 @@ NOTE: see also [@sec:infinitive-lassen-dative-reflexive-anticausative]
 - For almost all obligatory reflexive verbs, dative reflexive pronouns are only possible when an accusative argument is present (idiosyncratic counterexamples in [@sec:reflexive-obligatory-dative]).
 - For most self-inflicting reflexive reference, dative reflexive pronouns are only possible when an accusative argument is present (counterexamples in [@sec:reflexive-self-dative; @sec:reflexive-self-dative-location]).
 
-There are six local groups of diatheses that seem prominent enough to be given a German name. I propose the following names for these:
+There are six local groups of diatheses that seem prominent enough to be given a German name. I propose the following names for these. Note that there are many more prominent diatheses that involve a reflexive pronoun, but these are fixed stacks together with other marking (preverbs, adverbials or light verbs) and will be discussed in later chapters.
 
 - ~~[OBJ › SBJ › Ø] Reflexiv Antikausativ~~ (see [@sec:reflexive-anticausative] ff.)
 - ~~[OBJ › SBJ › PBJ] Reflexiv Erlebnispassiv~~ (see [@sec:reflexive-preposition-passive])

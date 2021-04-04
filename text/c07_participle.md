@@ -38,7 +38,7 @@ The following eleven diatheses seem prominent enough to grant them a German name
 
 - ~~[SBJ › Ø]~~ *werden* ~~Unpersönlicher Vorgangspassiv~~ (see [@sec:participles-werden-impersonal-passive])
 - ~~[OBJ › SBJ › Ø]~~ *bleiben* ~~Kontinuativantikausativ~~ (see [@sec:participles-bleiben-transitive])
-- ~~[OBJ › SBJ › Ø]~~ *aussehen/scheinen/wirken* ~~Apparitivantikausativ~~ (see [@sec:participles-aussehen-anticausative])
+- ~~[OBJ › SBJ › Ø]~~ *aussehen/erscheinen/wirken* ~~Apparitivantikausativ~~ (see [@sec:participles-aussehen-anticausative])
 - ~~[OBJ › SBJ › Ø]~~ *geben/zeigen* ~~Präsentativantikausativ~~ (see [@sec:participles-geben-reflexive-anticausative])
 - ~~[OBJ › SBJ › PBJ]~~ *sein* ~~Erlebnispassiv~~ (see [@sec:participles-sein-conversive])
 - ~~[OBJ › SBJ › ADJ]~~ *sein* ~~Zustandspassiv~~ (see [@sec:participles-sein-zustandspassiv])
@@ -203,18 +203,18 @@ Finally, note that in some circumstances arguments can be retained when particip
 
 ::: ex
 a. Der Balkon sieht *kaputt* aus. \
-   (replace *kaputt* with *Irgendjemand überlässt den Balkon dem Wetter*)
-c. Der Balkon sieht *dem Wetter überlassen* aus.
+   (replace *kaputt* with *Irgendjemand überlässt den Balkon dem Wetter* then it becomes:) \
+   Der Balkon sieht *dem Wetter überlassen* aus.
 :::
 
 Some more examples of such retained arguments are shown in [@next] with intransitive and reflexive main verbs, and prepositional and dative retained arguments.
 
 ::: ex
 a. Er hustete *plötzlich*. \
-   (replace *plötzlich* with *Schmerzen quälen ihn* \
+   (replace *plötzlich* with *Schmerzen quälen ihn* then it becomes:) \
    Er hustete *von Schmerzen gequält*.
 b. Der Beschuldigte fühlt sich *schlecht*. \
-   (replace *schlecht* with *Irgendjemand liefert ihn dem Gericht aus* \
+   (replace *schlecht* with *Irgendjemand liefert ihn dem Gericht aus* then it becomes:) \
    Der Beschuldigte fühlt sich *dem Gericht ausgeliefert*.
 :::
 
@@ -391,11 +391,11 @@ Finally, the light verbs *gehören*, *sehen*, *wissen* and *glauben* can be comb
 
 Most participles are regularly derived from verb stems that allow for finite verbforms. However, there are various participles that are not directly related to a finite verb, but that still occur in light verb constructions. Parallel to the '.3' sections in earlier chapters, I will discuss here various different kinds of participles without finite counterpart:
 
-i. Some participles have an idiomatic meaning that is not transparently related to the meaning of the morphologically corresponding finite verb.
-ii. Some participles are derived from nouns, and the corresponding finite verb does not exist.
-iii. Some participles might seem to be regular participles of particle verbs, but the corresponding particle verb does not exist as a finite verb (only the verb without the particle).
+- Some participles have an idiomatic meaning that is not transparently related to the meaning of the morphologically corresponding finite verb (see [@sec:participles-idiomatic-meaning]).
+- Some participles are derived from nouns, and the corresponding finite verb does not exist (see [@sec:participles-nouns]).
+- Some participles might seem to be regular participles of particle verbs, but the corresponding particle verb does not exist as a finite verb – only the verb without the particle does exist (see [@sec:participles-preverbs]).
 
-### Idiomatic meaning of participles
+### Idiomatic meaning of participles {#sec:participles-idiomatic-meaning}
 
 Some participles have obtained a specialised idiomatic meaning, different from the finite use of the verb. For example *verwenden* 'to plead for' with participle *verwandt* [@next a] has given rise to a completely separate participle *verwandt* 'to be related' [@next b]. Note that there is also a separate verb *verwenden* meaning 'to utilize' with a different participle *verwendet*.
 
@@ -438,7 +438,7 @@ a. Bei Wind verfrieren die Wangen in kürzester Zeit.^[~~DWDS~~: Die Zeit, 10.01
 b. Meine Wangen sind verfroren.
 :::
 
-### Participles from nouns
+### Participles from nouns {#sec:participles-nouns}
 
 There exist various German words that are clearly participles in form, but their stems are nouns (and not finite verbs). This might look like conversion, but it is not. The wholesale (zero-marked) conversion of nouns into finite verbs is attested in German (e.g. *ölen* 'to apply oil' from the noun *Öl*, 'oil'), but this is far from as productive as in English.
 
@@ -484,7 +484,7 @@ a. Ich bin gut gelaunt.
 b. Ich bin nass geregent.
 :::
 
-### Participles with preverbs
+### Participles with preverbs {#sec:participles-preverbs}
 
 Word like *einverstanden* 'agreed' [@next a] looks morphologically like a regular participle from a verb *einverstehen*. However, that verb does not exist [@next b], only the non-prefixed verb *verstehen* exists.  Participles with preverbs, but without corresponding finitive verb, appear to be a common phenomenon and the participles listed here are only to be taken as examples.
 
@@ -1555,7 +1555,7 @@ b. ^^?^ Ich weiß den Dieb von der Polizei verfolgt.
 b. Der Dieb weiß sich von der Polizei verfolgt.
 :::
 
-### --- [ Ø > SBJ > OBJ ] --- {.unnumbered}
+### --- [ Ø > SBJ > OBJ ] --- *Opiniativ* {.unnumbered}
 
 ### [ –N | NA ] *wissen + Partizip* Intransitive opiniative {#sec:participles-wissen-experiencer}
 
@@ -1617,7 +1617,7 @@ b. Ich finde ihn gewachsen.
 - Ich finde das Projekt gescheitert.
 - Ich finde das Kunstwerk sehr gelungen.
 
-### --- [ Ø > SBJ > ADJ ] --- {.unnumbered}
+### --- [ Ø > SBJ > ADJ ] --- *Transitiv Opiniativ* {.unnumbered}
 
 ### [ –NA | NpA ] *wissen + Partizip* Transitive opiniative {#sec:participles-wissen-commutative}
 
@@ -1721,6 +1721,8 @@ Stacked with self-inflicting reflexive alternation:
 ### --- [ ADJ > SBJ > OBJ ] --- {.unnumbered}
 
 ### [ pN | NA ] *machen + Partizip* Inverted passive with reflexive loss {#sec:participles-machen-inverted-passive}
+
+One of the many different diathesis with the light-verb *machen*.
 
 ::: ex
 a. Ich eigne mich durch meine Qualifikation für den Job.

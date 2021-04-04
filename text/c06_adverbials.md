@@ -2,7 +2,7 @@
 
 ## Introduction
 
-It might come as a surprise that adverbials play a role in valency and diathesis. However, on closer inspection it quickly becomes clear that there are various verbs that obligatorily need an adverbial complement, like *sich verhalten* 'to behave' [@next], arguing that adverbials have to be considered when determining the valency of verbs.
+It might come as a surprise that adverbials play a role in valency and diathesis. However, on closer inspection it quickly becomes clear that there are various verbs that obligatorily need an adverbial complement, like *sich verhalten* 'to behave' [@next], which shows that adverbials have to be considered when determining the valency of verbs.
 
 ::: ex
 a. Ich verhalte mich tapfer.
@@ -33,15 +33,14 @@ Depictive secondary predicates are typically manner adverbials. They appear in v
 
 Resultative adverbs arguably form a new verb together with the main predicate, i.e. *leer* and *kaufen* form a new verb *leerkaufen* in which the first part *leer-* is separable, just like with prepositional preverbs ('Partikelverben' in German grammar, see [@sec:preverbs-prefixes-particles]). Similar to the generalisation with preverbs (see [@sec:preverbs-always-accusative]), diatheses with resultative secondary predicates almost always lead to transitive constructions with a nominative and an accusative argument (or alternatively an accusative reflexive). This parallellism reinforces the impression that resultative adverbs should probably better be considered together with preverbs as discussed in the previous chapter.
 
-There are five diatheses that seem prominent enough to be given a German name. I propose the following names for these:
+There are six diatheses that seem prominent enough to be given a German name. I propose the following names for these:
 
 - ~~[SBJ › Ø] Wertungsverbativ~~ (see [@sec:adverbial-reflexive-drop])
-- ~~[OBJ › SBJ › Ø] Wertungsantikausativ~~ (see [@sec:adverbial-reflexive-transitive-anticausative]ff.)
-- ~~[PBJ › Ø] Adverb Antiresultativ~~ (see [@sec:adverbs-antiresultative]ff.)
-- ~~[ADJ › OBJ] Adverb Applikativ~~ (see [@sec:adverbials-applicative]ff.)
+- ~~[OBJ › SBJ › Ø] Wertungsantikausativ~~ (see [@sec:adverbial-reflexive-transitive-anticausative] ff.)
+- ~~[PBJ › Ø] Aktionsfokus~~ (see [@sec:adverbial-action-focus])
+- ~~[PBJ › ADJ] Adverb Antilokativ~~ (see [@sec:adverbs-antiresultative] ff.)
+- ~~[ADJ › OBJ] Adverb Applikativ~~ (see [@sec:adverbials-applicative] ff.)
 - ~~[ADJ › OBJ › ADJ] Adverb Vollapplikativ~~ (see [@sec:adverbial-full-applicative])
-
-=> Locational particles: *da(r)-, her-, hin-*
 
 ## Delimiting adverbial arguments
 
@@ -140,7 +139,7 @@ a. Sie kauft die Nägel krum ein.
 b. Ich habe mein Fahrrad grün angestrichen.
 :::
 
-The most frequent resultative adjectival predicates in German are *leer-, voll-, tot-, fest-* [@eisenberg2013: 322-323], but many others are also attested [@next a-c], e.g. *stillschweigen, fertigstellen, vollquatschen, festschrauben, plattlaufen*. Additionally, a datives from raised possessors are often possible [@next b], see [@sec:case-possessor-accusative-to-dative], including subsequent reflexive constructions [@next c].^[The Duden grammar [-@duden2009: 790] presents *Er hält/macht den Tisch sauber* as examples of resultative adverbial constructions. However, these examples are probably better analysed as adjectival predicates with light verbs *halten/machen*, cf. [@sec:participles-adjectives-light-verb-constructions].]
+The most frequent resultative adjectival predicates in German are *leer-, voll-, tot-, fest-* [@eisenberg2013: 322-323], but many others are also attested [@next a-c], e.g. *stillschweigen, fertigstellen, vollquatschen, festschrauben, plattlaufen*. Additionally, a datives from raised possessors are often possible [@next b], see [@sec:case-possessor-accusative-to-dative], including subsequent reflexive constructions [@next c]. The Duden grammar [-@duden2009: 790] presents *Er hält/macht den Tisch sauber* as examples of resultative adverbial constructions. However, these examples are probably better analysed as adjectival predicates with light verbs *halten/machen*, cf. [@sec:participles-adjectives-light-verb-constructions].]
 
 ::: ex
 a. Er niest das Taschentuch voll.
@@ -315,8 +314,8 @@ The situation is more interesting with resultative adverbials. There are many di
 There is a special construction that apparently only exists for some intransitive verbs like *schlafen* 'to sleep' [@next a]. The verb is combined with a reflexive pronoun and a resultative secondary predicate. The meaning of this construction approximately amounts to 'by performing the verb, the secondary predicate is achieved' [@next b].
 
 ::: ex
-a. Ich schlafe mich gesund.
-b. Ich schlafe, und dadurch bin ich gesund.
+Ich schlafe mich gesund. \
+(= Ich schlafe, und dadurch bin ich gesund.)
 :::
 
 The intransitive verbs that allow this seem to be strongly related to the 'agentive' class of intransitive (see [@sec:participles-restrictions]), while typical 'patientive' intransitives are not possible in this construction.
@@ -344,10 +343,10 @@ When the combination of adverbial and verb is considered to be a new lexicalised
 
 ### [ NP | NP ] Governed proposition + reflexive + resultative adverbial
 
-Note that the prepositional phrase can be retained.
+The same reflexive + adverbial alternation is attesed with some verbs that take a governed preposition, like *lachen* 'to laugh' [@next]. Note that the prepositional phrase can be retained.
 
 ::: ex
-a. Ich lache über den Witz.
+a. Ich lache (über den Witz).
 b. Ich lache mich tot (über den Witz).
 :::
 
@@ -520,7 +519,7 @@ Not attested.
 
 ## Diatheses with object demotion
 
-### -- [ OBJ > Ø ] -- {.unnumbered}
+### -- [ OBJ > Ø ] -- *Aktionsfokus* {.unnumbered}
 
 ### [ NA | N– ] Action focus + depictive adverbial {#sec:adverbial-action-focus}
 
@@ -550,7 +549,7 @@ c. Morgen lese ich den ganzen Tag.
 
 ### [ NA | N– ] Endoreflexiv + depictive adverbial {#sec:adverbials-endoreflexive}
 
-Similar to endoreflexiv ([@sec:reflexive-accusative-drop]), but with obligatory depictive adverbial [@next].
+Similar to the endoreflexiv ([@sec:reflexive-accusative-drop]), but with obligatory depictive adverbial [@next].
 
 ::: ex
 a. Ich fühle die Schmerzen.
@@ -582,7 +581,7 @@ d. Ich meine es.
 - Ich meine dich. Ich meine es ernst.
 - Wir haben viel Geld. Wir haben es gut.
 
-### --- [ PBJ > ADJ ] --- *Adverb Antiresultativ* {.unnumbered}
+### --- [ PBJ > ADJ ] --- *Adverb Antilokativ* {.unnumbered}
 
 ### [ NAL | NAp ] Transitive location drop + resultative adverbial {#sec:adverbs-antiresultative}
 
@@ -778,4 +777,3 @@ b. Ich schenke das Glas voll (mit Wein).
 - Ich packe die Einkäufe in den Wagen. Ich packe den Wagen voll (mit Einkäufe).
 - Ich pumpe Luft in den Reifen. Ich pumpe den Reifen voll (mit Luft).
 - Ich tanke Benzin in das Auto. Ich tanke das Auto voll (mit Benzin).
-
