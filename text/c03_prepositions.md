@@ -270,7 +270,7 @@ d. ^* Er gewöhnt seinen Sohn.
 - *mit*  : *brechen (sich abwenden), kämpfen, spielen*
 - *über* : *handeln*
 - *von*  : *handeln, kommen*
-- *zu*   : *passen, stehen*
+- *zu*   : *neigen, passen, stehen*
 
 **Examples**
 
@@ -620,7 +620,7 @@ a. Ich hänge den Pullover in den Schrank.
 b. Der Pullover hängt im Schrank.
 :::
 
-These verbs use a *haben* perfect both in the intransitive and transitive usage [@next a,b]. The "Zustandspassiv" of the transitive is also possible, leading to another intransitive construction with the auxiliary *sein* [@next c].
+These verbs use a *haben* perfect both in the intransitive and transitive usage [@next a,b]. The "Zustandspassiv" of the transitive is sometimes also possible, leading to another intransitive construction with the auxiliary *sein* [@next c].
 
 ::: ex
 a. Ich habe den Teller an den Tisch geklebt.

@@ -1402,7 +1402,7 @@ c. ^* Er verbrennt sich und das Buch.
 
 **Attested Verbs**
 
-- *abduschen, abhetzen, abwenden, anlehnen, anziehen, aufrichten, äußern, bewegen, erheben, hinlegen, hinsetzen, hinstellen, neigen, organisieren, recken, räkeln, schneiden, strecken, täuschen, verbrennen, verschlafen, verschlucken*
+- *abduschen, abhetzen, abwenden, anlehnen, anziehen, aufrichten, ausziehen, äußern, bewegen, entblößen, erheben, hinlegen, hinsetzen, hinstellen, neigen, organisieren, quälen, recken, räkeln, schneiden, strecken, täuschen, verbrennen, verschlafen, verschlucken*
 
 **Examples**
 

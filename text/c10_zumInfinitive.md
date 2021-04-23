@@ -22,7 +22,7 @@ Nach dem Aufstehen
 
 ### *sein + am + Infinitiv* Verlaufsform {#sec:zuminfinitive-sein-am}
 
-(vgl. Gargyan 2010) [@krause2012]
+[@gargyan2010; krause2012]
 
 - Der Feind greift an.
 - Der Feind ist am Angreifen.
@@ -60,6 +60,15 @@ Patiens als Akkusativ
 
 - ^* Sie ist die Reise beim Planen (Sie ist beim Planen der Reise)
 - Sie ist die Reise am Planen
+
+There is another 'progressive' construction in German, which is not coherent though!
+
+- Ich bin dabei nach Hause zu laufen
+- Es ist bekannt, dass ich dabei bin nach Hause zu laufen
+
+Also "im" progressive [@gargyan2010: 25-26]
+
+- Die Preise sind im Steigen
 
 ### *gehen/kommen/fahren + zum + Infinitiv* {#sec:zuminfinitive-gehen}
 

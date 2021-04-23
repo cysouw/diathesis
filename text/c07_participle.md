@@ -501,60 +501,42 @@ b. ^* Ich verstehe ein.
 
 ### --- *haben/sein* Perfect --- {.unnumbered}
 
-haben+Parizip: "Prozessperfekt"
-sein+Partizip: "Zustandsperfekt"
+both can be used as epithesis and as diathesis. Most authors seem to agree that there are different constructions between epithesis and diathesis. However, strangely, most seem to suggest that haben/sein are the same construction as epithsis. Better solution: distinguish them all!
 
-All verbs in German allow for a perfect alternation ("tense/aspect" form). Only in some contexts it seems problematic
+haben+Parizip: "Prozessperfekt", Pertinenzpassiv
+sein+Partizip: "Zustandsperfekt", Zustandspassiv
 
-"Perf. u. Plusquamperf. nicht üblich" im dwds.de
+All verbs in German allow for a perfect alternation ("tense/aspect" form). 
 
-- angehen (betreffen: 'das geht dich nichts an')
-- streichen (erstrecken: 'ein Gebirge streicht von Osten nach Westen, parallel zur Küste')
-- antreten (herantreten: 'Rasch tritt der Tod den Menschen an')
-- ausstreichen (geographisch erreichen: 'am Südrand des Gebirges streicht der Zechstein über Tage aus')
+"Ab 1300 und häufiger erst ab 1400 bildet auch das Verb *haben* Perfektformen (*hat gehabt*). Perfektbildungen der Modalverben sind erst ab Anfang des 16. Jahrhunderts belegt, wobei diese im Mittelhochdeutschen noch verschiedene Konkurrenzformen haben […]. Erst dann hat die Perfektgrammatikalisierung alle Verben des Deutschen erfasst und ist vollständig vollzogen." [@fischer2020: 258]
 
-???
+[@sec:case-sein-causative]
 
-- erstrahlen: Etwas ist erstrahlt ???
+Can be seen either as transitive anticausative or intransitive unaccusative
 
-difficult to find examples: Blos, Wilhelm: Denkwürdigkeiten eines Sozialdemokraten, Bd. 1. In: Simons, Oliver (Hg.) Deutsche Autobiographien 1690-1930, Berlin: Directmedia Publ. 2004 [1914], S. 9347
-Diese beiden frommen Eiferer verfinsterten die Freiburger geistige Atmosphäre, die zwanzig Jahre zuvor so freiheitlich hell erstrahlt war.
+- Die Papiere sind verbrannt.
+- Er hat die Papiere verbrannt.
 
-perfekt: duden S. 465ff.
+- Reflexive anticausatives [@sec:reflexive-anticausative]
 
-"Ab 1300 und häufiger erst ab 1400 bildet auch das Verb haben Perfektformen (hat gehabt). Perfektbildun- gen der Modalverben sind erst ab Anfang des 16. Jahrhunderts belegt, wobei diese im Mittelhochdeutschen noch verschiedene Konkurrenzformen haben (vgl. Oubouzar 1974, 52, 57–58). Erst dann hat die Perfektgrammatikalisierung alle Verben des Deutschen erfasst und ist vollständig vollzogen." [@fischer2020: 258]
+- Ich schließe den Schrank. Ich habe den Schrank geschlossen. Der Schrank ist geschlossen.
+- Der Schrank schließt sich. Der Schrank hat sich geschlossen
+
+"Aus Fügungen, in denen diese Formen prädikativ auf das Subjekt bezogen waren, entwickelten sich Vergangenheitsformen, die syntaktisch gleichwertig waren mit den durch haben gebildeten. Die prädikative Verbindung er ist gefallen hatte ursprünglich die Bedeutung ‘er ist ein Gefallener’. […] Auch hier ändert sich dann der Bedeutungsinhalt des Partizips, es drückt nicht mehr den Zustand, sondern die in der Vergangenheit liegende Handlung aus und verbindet sich mit dem Hilfsverb zu einer einheitlichen Verbalform." (Dal 1966, 122–123)
 
 ### [ N | N ] *haben + Partizip* Intransitive perfect {#sec:participles-haben-perfect}
 
 Asking "wie viel" is not always possible: only for unergatives? Idea: these are processes that can be performed more or less. Change-of-state verbs (patientives) do not allow for this gradience.
+
+**Attested Verbs**
 
 - unergative: *lügen, lachen, bluten, husten, niesen, pinkeln, schwitzen, weinen, schlafen, träumen, blühen, dampfen, klingeln, rosten, stinken, arbeiten, hupen, tun, enden, sitzen*
 - accusative addition: *atmen, laufen, leben, schauen, schwimmen, singen, spielen, springen, tanzen*
 - Manner of speaking: *brüllen, flüstern, grölen, johlen, murmeln, schreien, stottern*
 - Bodily Sensations: *bluten, brennen, frieren, drücken, jucken, klopfen, rasen (Emotion), schmerzen, schwellen, schwindeln, stechen, tränen, zittern, weh tun*
 - Natural Processes: *blühen, dampfen, rosten, stinken*
-- Others: *langen*
-
-### [ ND | ND ] *haben + Partizip* Dative perfect
-
-**Attested Verbs**
-
-- ähneln, angehören, antworten, beiliegen, beipflichten, bevorstehen, dienen, einleuchten, entsprechen, fehlen, gefallen, gehören, gelten, gleichen, gratulieren, helfen, imponieren, liegen, missfallen, nacheifern, passen, schaden, schmecken, sitzen, trauen, vertrauen, zuhören, zureden
-
-### [ NA | NA ] *haben + Partizip* Transitive perfect {#sec:participles-haben-transitive-perfect}
-
-Intransitiv mit 'sein', Transitiv mit 'haben'
-
-- Er ist durch die ganze Stadt gelaufen. vs. Er hat den Marathon gelaufen
-- Er ist mit dem Boot nach Korsika gesegelt. vs. Er hat das Boot nach Korsika gesegelt.
-
-Applicatives with both options?
-
-- Ich habe den Marathon gelaufen / Ich bin den Marathon gelaufen.
 
 ### [ N | N ] *sein + Partizip* Intransitive perfect {#sec:participles-sein-perfect}
-
-- *abbiegen, abbrennen, abfahren, abhauen, ablaufen, abmagern, abreisen, absaufen, absteigen, abstürzen, ankommen, anschwellen, ansteigen, auffallen, aufstehen, aufsteigen, auftreten, aufwachen, aufwachsen, ausbleiben, ausfallen, ausgehen, auslaufen, aussteigen, auswandern, ausweichen, begegnen, beitreten, bersten, beuteln, bleiben, degenerieren, detonieren, durchfallen, durchgehen, durchsetzen, eignen, einbiegen, einbürgern, eindringen, einfallen, einfinden, einfliegen, einfließen, einfrieren, einkehren, einreisen, einschlafen, einsteigen, einstürzen, eintauchen, eintreffen, eintreten, emigrieren, entarten, entbinden, entblößen, entbrennen, entfliegen, entfliehen, entgleiten, enthalten, entkommen, entstehen, erfrieren, erlöschen, ermüden, erschallen, erscheinen, ertrinken, explodieren, fahren, fallen, fehlschlagen, fliegen, fliehen, fließen, flüchten, folgen, gebären, gedeihen, gehen, gelangen, gelingen, genesen, geschehen, gleiten, glücken, herumgehen, hinfallen, hüpfen, klettern, kommen, krepieren, kriechen, landen, laufen, misslingen, mitgehen, mitkommen, münden, nachgehen, nachkommen, nachstreben, nachstürmen, neigen, passieren, platzen, prallen, reifen, reisen, rennen, rutschen, schlüpfen, schreiten, sein, sinken, sprießen, springen, stählern, stehen, stehenbleiben, steigen, sterben, stolpern, strömen, traben, umfallen, umgehen, umkehren, umsiedeln, umziehen, untergehen, untertauchen, verbleiben, verblühen, verbluten, verfallen, verhalten, verhungern, verreisen, verschellen, verschwinden, verzweifeln, vorgehen, vorkommen, wachsen, wandern, wegfallen, weggehen, weglaufen, wegrennen, weichen, werden, zerfallen, zurückfahren, zurückgehen, zurückkommen, zurücklaufen, zurückrennen*
 
 Intransitives are split between haben and sein, and a few verbs show variation (possible also meaning-related)
 
@@ -578,9 +560,14 @@ but (see below):
 
 => Idea: all *sein* intransitives have a perfekt meaning, but some (most?) additionally have a resultative meaning.
 
-Without preverbs:
+Various preverb diatheses [e.g. @sec:preverb-intransitive-with-unaccusative; @sec:preverb-intransitive-antiresultative]
 
-- *bersten, fallen, gleiten, kentern, krepieren, platzen, rutschen, scheitern, schrumpfen, schwinden, sinken, steigen, sterben, wachsen*
+**Attested Verbs**
+
+- monomorphemic: *bersten, beuteln, bleiben, bleichen, dorren, fallen, fliehen, fließen, flüchten, gehen, gleiten, kentern, kommen, krepieren, platzen, prallen, quellen, reifen, schlüpfen, scheitern, schreiten, schrumpfen, sein, sinken, sprießen, steigen, sterben, stolpern, strömen, traben, wachsen, weichen, werden*
+- with preverbs: *abbiegen, abhauen, abmagern, abreisen, absaufen, absteigen, abstürzen, anbrennen, ankommen, anschwellen, ansteigen, auffallen, aufstehen, aufsteigen, auftreten, aufwachen, aufwachsen, ausbleiben, ausbrechen, ausfallen, ausgehen, auslaufen, aussteigen, auswandern, ausweichen, ausziehen (wohnen), beitreten, degenerieren, detonieren, ˈdurchlaufen, ˈdurchsickern, ˈdurchfallen, ˈdurchgehen, eindringen, einfließen, einfrieren, einkehren, einreisen, einrosten, einschlafen, einsteigen, einstürzen, eintauchen, eintreffen, eintreten, emigrieren, entbrennen, entfliehen, entkommen, entstehen, erfrieren, erkranken, erlöschen, ermüden, erschallen, erscheinen, ertrinken, explodieren, fehlschlagen, gedeihen, gelangen, genesen, geschehen, herumgehen, hinfallen, mitgehen, mitkommen, nachkommen, stehenbleiben, ˈumfallen, ˈumsiedeln, ˈumziehen, ˈuntergehen, ˈuntertauchen, ˈüberkochen, verbleiben, verblühen, verbluten, verdampfen, verfaulen, verfallen, verhungern, verreisen, verrosten, verrutschen, verschimmeln, verschwinden, versinken, versterben, vertrocknen, verwelken, vorgehen, vorkommen, wegfallen, weggehen, weglaufen, wegrennen, zerfallen, zerrinnen, zufrieren, zuwachsen, zurückfahren, zurückgehen, zurückkommen, zurücklaufen, zurückrennen*
+
+**Examples**
 
 - Der Baum ist gefallen.
 - Der Ballon ist geplatzt.
@@ -590,11 +577,6 @@ Without preverbs:
 - Der Wasserpegel ist gestiegen.
 - Er ist gestorben.
 - Er ist gewachsen.
-
-Various preverb diatheses [e.g. @sec:preverb-intransitive-with-unaccusative; @sec:preverb-intransitive-antiresultative]
-
-- *abmagern, ankommen, aufstehen, ausbrechen, ausgehen, auslaufen, aussteigen, ausziehen, ˈdurchlaufen, ˈdurchsickern, einrosten, einschlafen, eintreffen, erlöschen, ertrinken, erkranken, umziehen, untergehen, verbluten, verblühen, verdampfen, verfaulen, verkümmern, verreisen, verrosten, verrutschen, verschimmeln, verschwinden, versinken, versterben, vertrocknen, zerrinnen, zuwachsen, überkochen*
-
 - Die Flasche ist ausgelaufen.
 - Die Prophezeiung ist eingetroffen.
 - Die Kerze ist erloschen.
@@ -620,75 +602,45 @@ Various preverb diatheses [e.g. @sec:preverb-intransitive-with-unaccusative; @se
 - Die Ladung ist verrutscht.
 - Der Schnee ist zerronnen.
 
-- Natural Processes: *anbrennen, überkochen, verblühen, verfaulen, verrosten, verwelken, zufrieren*
+### [ N | N ] *haben/sein + Partizip* Intransitive perfect {#sec:participles-haben-sein-perfect}
 
-[@sec:case-sein-causative]
+There is a surprisingly large group of intransitive verbs that allow for both a *haben* and a *sein* Perfect. In most of these verbs there is a clear semantic difference between the constructions with these auxiliaries. In general, these verbs allow for both a 'process' interpretation (taking a *haben* Perfect) and a 'result' interpretation (taking a *sein* Perfect). In this section I have collected intransitive verbs that allow for both auxiliaries [see also @hinze2007; gillmann2016 Ch. 5]. Additionally, the next [@sec:participles-haben-sein-perfect-reflexive-drop] discusses intranstive verbs that allow for a *haben* Perfect with a reflexive pronoun and a *sein* Perfect without a reflexive pronoun.
 
-Can be seen either as transitive anticausative or intransitive unaccusative
-
-without preverbs:
-
-- *altern, biegen, bleichen, brechen, knicken, reifen, reißen, rollen, stürzen, trocknen*
-
-- *abbrechen, abbrennen, abknicken, abkühlen, antreten, austrocknen, einfrieren, einknicken, einreißen, erstaunen, ersticken, niederbrennen, umstürzen, verbrennen, verderben, verdunsten, wegtreten, zerbrechen, zerknittern, zerreißen, zersplittern, zuklappen, zuschneien*
-
-- Er verbrennt die Papiere. Er hat die Papiere verbrannt. Die Papiere sind verbrannt.
-- Die Papiere verbrennen. Die Papiere sind verbrannt.
-
-### [ ND | ND ] *sein + Partizip* Dative perfect
-
-Just like intransitives, verbs with a dative argument are split between *sein* and *haben*. The status of the datives is slightly different among these verbs, see [@sec:case-nominative-dative; @sec:case-dative-drop; @sec:prepositions-dative-antipassive; @sec:preverb-dative-applicative]. Just like intransitives, the verbs with *sein* [@next a] all appear to allow a construction with an adnominal participle [@next b], and the impersonal *werden* passive is not possible [@next c].
+Prominent *haben/sein* verbs describe natural processes, like *splittern* 'to sliver' [@next a] of *schimmeln* 'to mold' [@next b]. Such natural processes can both be used to describe a process (taking a *haben* Perfect) and the result of this process (taking a *sein* Perfect).
 
 ::: ex
-a. Das Gemälde ist mir gelungen.
-b. Das gelungene Gemälde ...
-c. ^* Heute wird mir gelungen.
+a. Das Holz ist gesplittert. \
+   Die Holz hat gesplittert.
+b. Das Obst ist (komplett) geschimmelt. \
+   Das Obst hat (vor sich hin) geschimmelt.
 :::
-
-**Attested Verbs**
-
-- *auffallen, begegnen, beitreten, bleiben, einfallen, enteilen, entfliegen, entfliehen, entfließen, entgegen kommen,  entgehen, entgleiten, entkommen, entlaufen, entspringen, entsprießen, entsteigen, entstammen, entströmen, entwachsen, entweichen, entschlüpfen, entspringen, entwischen, erscheinen, folgen, gegenüber treten, gelingen, geschehen, glücken, passieren, unterlaufen, unterliegen, unterstehen, verfallen, weglaufen, weichen, widerfahren, zufallen, zulaufen, zustoßen*
-
-**Notes**
-
-The verb *folgen* 'to follow' typically takes *sein*, but there appear to be incidental instances of *haben* [@next a], though this might be typical of a slightly different meaning 'to obey' [@next b].
 
 ::: ex
-a. [...] wenn China und Nordkorea den Empfehlungen der Kommission gefolgt hätte.^[~~DWDS~~: Archiv der Gegenwart, 2001 [1953].]
-b. Das Kind hat seiner Mutter gefolgt.
+a. Sie war ganz verzweifelt.
+b. Und ich steh hier am teuflischen 17. Loch, wo so viele verzweifelt haben.^[~~DWDS~~: Die Zeit, 04.01.2001, Nr. 02]
 :::
 
-### [ NA | NA ] *sein + Partizip* Transitive perfect
 
-movement verbs that allow for resultative accusative [@sec:case-accusative-addition]
-. With a preverb such verbs typically become completely transitive, though note that these verbs do not show a non-preverb alternant
 
-- ich die Prüfung ruhig an. ??? Ich gehe ruhig an die Prüfung.
-
-Transitive Verben mit 'sein' (Strobl 2008: 102, 107ff.)
-
-- angehen (Ich bin die Prüfung ruhig angegangen)
-- loswerden (Ich bin den Verfolger losgeworden)
-- durchgehen (Wir sind die Papiere durchgegangen)
-- eingehen (Wir sind den Vertrag eingegangen)
-- abfahren (Ich bin die Piste abgefahren)
-- ablaufen (Ich bin den Weg abgelaufen) (Bei Straßenkontrolle vielleicht: 'Ich habe den Weg abgelaufen')
-- also: abschreiten
-
-[@grewendorf1989: 9] *durchgegangen, eingegangen, abgelaufen, angegangen*
-
-### [ N | N ] *haben/sein + Partizip* Intransitive perfect
-
-Liste vom Internet: *abstoßen, abziehen, anschließen, aufschlagen, auftauen, ausziehen, bleichen, brechen, dezimieren, durchfahren, durchlaufen, einbrechen, einfrieren, einschlagen, geraten, ködern, mästen, plagen, quälen, quetschen, reißen, reiten, rollen, rücken, scheiden, schleudern, schmelzen, schwanken, schweben, schwellen, schwenken, schwimmen, segeln, starten, stehen, steuern, streben, streifen, stürmen, stürzen, tauchen, tauen, taufen, trocknen, übersetzen, umgehen, umstellen, unterziehen*
+Many verbs of movement allow for both a *haben* and *sein* Perfect.
 
 Bewegungsverben: Grenzüberschreitung mit 'sein' (nur perfektive, nicht resultative!), Zustand mit 'haben' [ sein: NL | haben: N– ] antiresultative!?
 
-- Ich bin in den Raum (hinein) getanzt. vs. Ich habe in dem Raum (herum) getanzt.
-- Der Junge ist auf den Berg (hinauf) geklettert. vs. Der Junge hat auf dem Berg (herum) geklettert
-- segeln, fahren, laufen, rennen, klettern, wandern, schwimmen
+::: ex
+- Ich bin in den Raum (hinein) getanzt. \
+  Ich habe in dem Raum (herum) getanzt.
+- Der Junge ist auf den Berg (hinauf) geklettert. \ 
+  Der Junge hat auf dem Berg (herum) geklettert
+:::
 
-An even more intricate detail occurs with particular movement verbs like *laufen* 'to walk'. When used with a directional phrase like *nach Hause* 'home' this verb takes the auxiliary *sein* [@next a]
-and the participle with the directional phrase can be used adnominally [@next b]. In contrast, the auxiliary *haben* seems imcompatible with a directional phrase [@next c] and the participle without the directional phrase cannot be used adnominally [@next d].
+sein-accusative, haben-dativ special kind of movement???
+
+::: ex
+a. Die Diebe sind in den Tresor eingebrochen.
+b. Die Diebe haben im Tresor eingebrochen.
+:::
+
+An even more intricate situation occurs with movement verbs like for example *laufen* 'to walk'. When used with a directional phrase like *nach Hause* 'home' this verb takes the auxiliary *sein* [@next a] and the participle with the directional phrase can be used adnominally [@next b]. In contrast, the auxiliary *haben* seems imcompatible with a directional phrase [@next c] and the participle without the directional phrase cannot be used adnominally [@next d].
 
 ::: ex
 a. Der Schüler ist nach Hause gelaufen.
@@ -697,86 +649,186 @@ c. Der Schüler hat *(nach Hause) gelaufen.
 d. ^* Der gelaufene Schüler weint.
 :::
 
-Manner of motion [@sec:prepositions-manner-of-movement]
+Many verbs that describe a manner of motion can be used in different Perfect constructions (see [@sec:prepositions-manner-of-movement]). For example, a verb like *wackeln* 'to shake, to wiggle' can be used as a verb performing the action, and then it takes a *haben* Perfect [@next a]. Alternatively, it can be used to describe a manner-of-motion, and then it takes a *sein* Perfect [@next b].
 
-- *irren, klettern, kriechen, schwanken, stampfen, stürmen, tanzen, tropfen, wackeln*
+::: ex
+a. Er wackelt mit dem Schwanz. \
+   Er hat mit dem Schwanz gewackelt.
+b. Er wackelt durch den Garten. \
+   Er ist durch den Garten gewackelt.
+:::
 
-Weather verbs
+A similar phenomenon can be observed with some weather verbs, like *stürmen* 'to storm' (see [@sec:prepositions-weather-manner-movement]). When used as a description of a type of wheather it takes a *haben* Perfect [@next a]. However, when used (metaphorically) as a manner-of-movement description it takes a *sein* Perfect [@next b].
 
-- Die Blätter sind auf die Schienen geweht. Ihr Haar hat im Wind geweht.
-- Der Wind hat gestürmt. Sie sind in den Saal gestürmt
+::: ex
+a. Es hat gestürmt.
+b. Sie sind in den Saal gestürmt.
+:::
 
-Beide möglich? "degree of achievement verbs"
+Anticausative verbs like *heilen* 'to heal' (see [@sec:case-haben-anticausative]) allow for both an intransitive *sein* Zustandspassiv [@next a] and a *haben* Perfect of the intransitive [@next b]. In effect, this results in intranstive verbs that allow for both *haben + Partizip* and a *sein + Partizip* construction. A similar situation is attested with some of the locative anticausative verbs, like *kleben* 'to stick to' [@nnext], see [@sec:prepositions-haben-caused-location].
 
-- faulen, rosten, schimmeln, splittern, tauen, triefen, welken
-- es ist/hat gerostet
+::: ex
+a. Der Doktor heilt die Wunde. \
+   Der Doktor hat die Wunde geheilt.
+   Die Wunde ist geheilt.
+b. Die Wunde heilt. \
+   Die Wunde hat geheilt.
+:::
 
-Others?
+::: ex
+a. Ich habe den Teller an den Tisch geklebt.
+b. Der Teller hat am Tisch geklebt.
+c. Der Teller ist am Tisch geklebt.
+:::
 
-- rotieren, reisen
+**Attested Verbs**
 
-Both possible with *haben*-anticausatives [@sec:case-haben-anticausative]
+- Natural process verbs: *altern, faulen, gären, keimen, rosten, schimmeln, splittern, tauen, triefen, welken*
+- Motion verbs: *fahren, hüpfen, klettern, klettern, kriechen, landen, laufen, reisen, reiten, rennen, rotieren, rutschen, schwimmen, segeln, wandern*
+- Other: *einbrechen, münden, verzweifeln*
+- Manner-of-motion verbs ([@sec:prepositions-manner-of-movement]): *irren, schwanken, stampfen, tanzen, wackeln*
+- Weather manner-of-motion verbs ([@sec:prepositions-weather-manner-movement]): *blitzen, donnern, hageln, regnen, stürmen, wehen*
+- Anticausative verbs ([@sec:case-haben-anticausative]): *abnehmen, abstoßen, anfangen, anhalten, anziehen, aufhören, baden, beginnen, blinken, bremsen, duschen, fliegen, haften, heilen, kochen, landen, läuten, öffnen, rauchen, riechen, schließen, schmecken, starten, stoppen, umdrehen, wiegen, zählen, zünden*
+- Location anticausative verbs ([@sec:prepositions-haben-caused-location]): *hängen, kleben, lehnen, stecken*
 
-- *abnehmen, anfangen, anhalten, anziehen, baden, beginnen, blinken, bremsen, duschen, fliegen, haften, heilen, kochen, landen, läuten, öffnen, rauchen, riechen, schließen, schmecken, schmelzen, starten, stoppen, umdrehen, wiegen, zählen, zünden*
+**Examples**
 
-Die Sonne schmilzt den Schnee.
-Die Eiswürfel sind geschmolzen.
-Das Eis hat geschmolzen.
+- Nach Medienberichten soll dies in einem erpresserischen System gemündet haben.^[~~DWDS~~: Die Zeit, 08.11.2015] \
+  Es ist die monatelange Stimmungsmache gegen Flüchtlinge, die den Hass säte, der in Tröglitz nun in Flammen gemündet ist.^[~~DWDS~~: Die Zeit, 04.04.2015]
 
-- Die Milch ist (*gestern) (seit gestern) gekocht (trans anticausative Zustandspassiv).
-- Die Milch hat (gestern) (seit gestern) gekocht (intrans perfekt, keine Grenzüberschreitung).
+### [ N | N ] *haben/sein + Partizip* Reflexive drop intransitive perfect {#sec:participles-haben-sein-perfect-reflexive-drop}
 
-Free Reflexives! 
+Verbs verbs with an obligatory reflexive pronoun (see [@sec:reflexive-obligatory-accusative-reflexive] and subsequent sections) have a *haben* Perfect [@next a]. Many (but not all) have an alternative *sein* Perfect without reflexive pronoun [@next b]. This construction is probably best analysed as a kind of *Zustandspassiv* [@sec:participles-sein-zustandspassiv]. In effect there are two different Perfect constructions, one with *haben* and a reflexive pronoun [@next a] and one with *sein* without a reflexive pronoun [@next b].
 
-- *ausruhen, ausschlafen, drehen*
+::: ex
+a. Er verspätet sich. \
+   Er hat sich verspätet.
+b. Er ist verspätet.
+:::
 
-- Ich habe ausgeruht. Ich bin ausgeruht.
-- Der Globus hat gedreht. Der Globus ist gedreht.
-- Er hat ausgeschlafen. Er ist ausgeschlafen.
+Likewise, verbs that allow for both a reflexive conversive (*Reflexiv Erlebnispassiv*, [@sec:reflexive-preposition-passive]) and a *sein* Passiv (*Zustandspassiv*, [@sec:participles-sein-zustandspassiv]) have both a *sein* and a *haben* intransitive perfect. For example *aufregen* 'to upset' is a transitive verb [@next a]. This verb allows for a reflexive conversive, which results in a *haben* intransitive Perfect with a reflexive pronoun [@next b]. However, there is also a *sein* Perfect without reflexive pronoun [@next c], which is possibly best analysed as the *sein + Partizip* Passiv of the transitive [@next a].
 
-Obligatory reflexive (not all!)
-Reflexive pronoun 'sich' verschwindet bei Zustandspassiv of 'only reflexive' verbs. Both haben/sein possible
+::: ex
+a. Der Lärm regt ihn auf. \
+   Der Lärm hat ihn aufgeregt.
+b. Er regt sich auf (über den Lärm). \
+   Er hat sich aufgeregt (über den Lärm).
+c. Er ist aufgeregt (wegen den Lärm).
+:::
 
-- betrinken, erkälten, verirren, verspäten
-- ausruhen, bemühen, beteiligen, beschäftigen, eignen, entscheiden, entschließen, erholen, erstaunen konzentrieren, üben, verlieben, versuchen, vertiefen
-- befreunden, verabreden, verbrüdern, verkrachen, verloben
+A similar situation also occurs with many endoreflexive verbs (see [@sec:reflexive-accusative-drop]) like *ausziehen* 'to undress' [@next a], resulting in both a reflexive *haben* Perfect [@next b] and a non-reflexive *sein* Perfect/Passiv [@next c]. 
 
-- Ich betrinke mich. Ich habe mich betrunken. Ich bin betrunken.
-- Er hat sich betrunken. Er ist betrunken.
-- Er hat sich verspätet. Er ist verspätet.
+::: ex
+a. Ich ziehe mich aus.
+b. Ich habe mich ausgezogen.
+c. Ich bin ausgezogen.
+:::
+
+**Attested Verbs**
+
+- Obligatory reflexive verbs ([@sec:reflexive-obligatory-accusative-reflexive] ff.): *ausruhen, ausschlafen, bemühen, befreunden, beteiligen, betrinken, beschäftigen, drehen, eignen, entscheiden, entschließen, erholen, erkälten, erstaunen, konzentrieren, üben, verabreden, verbrüdern, verirren, verkrachen, verloben, verlieben, versuchen, verspäten, vertiefen*
+- Reflexive conversive verbs ([@sec:reflexive-preposition-passive]): *anstrengen, aufregen, begeistern, beschäftigen, empören, entspannen, entwickeln, erfreuen, erschrecken, erstaunen, erzürnen, interessieren, langweilen*
+- Endoreflexive verbs ([@sec:reflexive-accusative-drop]): *abduschen, abhetzen, abwenden, anlehnen, anziehen, aufrichten, ausziehen, bewegen, entblößen, hinlegen, hinsetzen, hinstellen, neigen, organisieren, quälen, strecken, verbrennen*
+  
+**Examples**
+
+- Die Milch hat gekocht. Die Milch ist gekocht.
+- Das Flugzeug hat gelandet. Das Flugzeug ist gelandet.
+- Ich habe mich betrunken. Ich bin betrunken.
+- Ich habe mich ausgeruht. Ich bin ausgeruht.
 - Er hat sich verirrt. Er ist verirrt.
 - Er hat sich erkältet. Er ist erkältet.
 - Er hat sich entschlossen zu reisen. Er ist entschlossen zu reisen.
-- Er hat sich erholt von A. Er ist erholt von A.
-- Ich übe mich im Handstand. Ich habe mich im Handstand geübt. Ich bin geübt im Handstand.
+- Er hat sich erholt von der Krankheit. Er ist erholt von der Reise.
+- Ich habe mich im Handstand geübt. Ich bin geübt im Handstand.
+- Der Globus hat sich gedreht. Der Globus ist gedreht.
+- Er hat sich ausgeschlafen. Er ist ausgeschlafen.
 
-Reflexive anticausative
+### [ ND | ND ] *haben + Partizip* Dative perfect
 
-- Ich schließe den Schrank. Ich habe den Schrank geschlossen. Der Schrank ist geschlossen.
-- Der Schrank schließt sich. Der Schrank hat sich geschlossen
+Verbs with a dative argument are strictly split between *sein* and *haben*. There do not appear to be any verbs that allow for both. The grammatical status of the datives is slightly different among these verbs, see [@sec:case-nominative-dative; @sec:case-dative-drop; @sec:prepositions-dative-antipassive; @sec:preverb-dative-applicative] for detailed discussion. Similar to intransitives, the dative-verbs with *haben* like *antworen* 'to answer' [@next a] do not allow for a construction with an adnominal participle [@next b], but the impersonal *werden* passive is possible [@next c].
 
-Same as 'degree of achievement'
+::: ex
+a. Die Professorin hat dem Student geantwortet.
+b. ^* Der geantwortete Student …
+c. Heute wird dem Student geantwortet.
+:::
 
-- Das Obst ist (*gestern) (seit gestern) geschimmelt (verschimmelt)
-- Das Obst hat (gestern) (*seit gestern) geschimmelt
+**Attested Verbs**
 
-Different from 'bewegungsverben' ?!
+- *ähneln, angehören, antworten, beiliegen, beipflichten, bevorstehen, dienen, einleuchten, entsprechen, fehlen, gefallen, gehören, gelten, gleichen, gratulieren, helfen, imponieren, liegen (natürliche Begabung), missfallen, nacheifern, passen, schaden, schmecken, sitzen, trauen, vertrauen, zuhören, zureden*
 
-- Der Junge ist (gestern) (*seit gestern) auf den Berg (hinauf) geklettert.
-- Der Junge hat (gestern) (seit gestern) auf dem Berg (herum) geklettert. (keine Grenzüberschreitung)
+### [ ND | ND ] *sein + Partizip* Dative perfect
 
-Besser: 
+Similar to intransitives, the dative-verbs with *sein* like *gelingen* 'to succeed' [@next a] all appear to allow a construction with an adnominal participle [@next b], while the impersonal *werden* passive is not possible [@next c].
 
-- sein  : "jetzt endlich (komplett)" (resultativ/Grenzüberschreiung)
-- haben : "vor sich hin" (nicht resultativ/keine Grenzüberschreitung)
+::: ex
+a. Das Gemälde ist mir gelungen.
+b. Das gelungene Gemälde …
+c. ^* Heute wird mir gelungen.
+:::
 
-"Aus Fügungen, in denen diese Formen prädikativ auf das Subjekt bezogen waren, entwi- ckelten sich Vergangenheitsformen, die syntaktisch gleichwertig waren mit den durch ha- ben gebildeten. Die prädikative Verbindung er ist gefallen hatte ursprünglich die Bedeu- tung ‘er ist ein Gefallener’. [...] Auch hier ändert sich dann der Bedeutungsinhalt des Partizips, es drückt nicht mehr den Zustand, sondern die in der Vergangenheit liegende Handlung aus und verbindet sich mit dem Hilfsverb zu einer einheitlichen Verbalform." (Dal 1966, 122–123)
+**Attested Verbs**
 
-Erlebnispassiv
+- *auffallen, begegnen, bleiben, einfallen, beitreten, entgegen kommen, erscheinen, folgen, gegenüber treten, gelingen, geschehen, glücken, misslingen, nachgehen, passieren, unterlaufen, unterliegen, unterstehen, verfallen, weglaufen, weichen, widerfahren, zufallen, zulaufen, zustoßen*
+- Prefix *ent-*: *enteilen, entfliegen, entfliehen, entfließen, entgehen, entgleiten, entkommen, entlaufen, entspringen, entsprießen, entsteigen, entstammen, entströmen, entwachsen, entweichen, entschlüpfen, entspringen, entwischen*
 
-- Etwas erstaunt mich
-- Ich bin erstaunt über etwas
-- Ich habe mich erstaunt über etwas
+**Notes**
+
+The verb *folgen* 'to follow' typically takes *sein*, but there appear to be incidental instances of *haben* [@next a], though this might be typical of a slightly different meaning 'to obey' [@next b]. Similarly, the verb *begegnen* 'to meet' typically takes *sein*, but *haben* is attested [@next c].
+
+::: ex
+a. [...] wenn China und Nordkorea den Empfehlungen der Kommission gefolgt hätte.^[~~DWDS~~: Archiv der Gegenwart, 2001 [1953].]
+b. Das Kind hat seiner Mutter gefolgt.
+c. Er nannte Beispiele, wie er während seiner Präsidentschaft Notständen begegnen mußte und begegnet habe.^[~~DWDS~~: Archiv der Gegenwart, 2001 [1952]]
+:::
+
+### [ NA | NA ] *haben + Partizip* Transitive perfect {#sec:participles-haben-transitive-perfect}
+
+Almost all transitive verbs take a *haben* perfect. However, the choice of light verb (i.e. *haben* or *sein*) is not linked to the lexical verb root, as there are many verbs that can be used both as an intransitive and as a transitive verb [@sec:case-sein-causative]. With many such verbs, like *laufen* 'to walk' [@next a] or *segeln* 'to sail' [@next b], the intransitiv uses *sein*, while the transitiv uses *haben*.
+
+::: ex
+- Er ist durch die ganze Stadt gelaufen. \
+  Er hat den Marathon gelaufen
+- Er ist mit dem Boot nach Korsika gesegelt. \
+  Er hat das Boot nach Korsika gesegelt.
+:::
+
+Likewise, almost all transitive verbs allow also for a *sein* Zustandspassiv (see [@sec:participles-sein-zustandspassiv] for the few exceptions). The effect is that a transitive verb like *schreiben* 'to write' can both be used with a *haben + Partizip* construction ("Perfect") and a *sein + Partizip* construction ("Passive"). These are of course different diatheses, but the important point is that the lexical verb *schreiben* itself can be used both with *sein* and *haben*.
+
+::: ex
+a. Er hat einen Brief geschrieben.
+b. Der Brief ist geschrieben.
+:::
+
+### [ NA | NA ] *sein + Partizip* Transitive perfect
+
+There is only a very small group of transitive verbs that use only *sein* in the perfect, like *angehen* 'to tackle' or *loswerden* 'to get rid of' [cf. @grewendorf1989: 9; @strobl2007: 102, 107ff.].
+
+::: ex
+- Ich bin die Prüfung ruhig angegangen.
+- Ich bin den Verfolger losgeworden.
+:::
+
+**Attested Verbs**
+
+- *abfahren, ablaufen, abschreiten, angehen, durchgehen, eingehen, loswerden*
+
+ **Examples**
+
+- Wir sind die Papiere durchgegangen.
+- Wir sind den Vertrag eingegangen.
+- Ich bin die Piste abgefahren.
+- Ich bin den Weg abgelaufen.
+
+**Notes**
+
+The verb *laufen* allows for both *sein* and *haben* in the intransitive (see [@sec:participles-haben-sein-perfect]), while also allowing for a resultative accusative (see [@[@sec:case-accusative-addition]]). Because of this both *haben* and *sein* appear possible in transitive constructions [@next].
+
+::: ex
+- Ich habe den Marathon gelaufen.
+- Ich bin den Marathon gelaufen.
+:::
 
 ### --- Other Perfects --- {.unnumbered}
 
@@ -1179,6 +1231,7 @@ overlap with [@sec:preverb-transitive-with-unaccusative], but not the same class
 
 check Reflexive anticausative [@sec:reflexive-anticausative]: many do not allow for Zustandspassiv!
 
+- anhalten ('to stop') Ich halte den Bus an. *Der Bus ist angehalten. (only in meaning 'to admonish')
 - ärgern (Etwas ärgert den Lehrer / ^* Der Lehrer ist geärgert / verärgert)
 - brauchen (Er braucht ein Auto / ? Das Auto ist gebraucht / verbraucht)
 - drücken (Sorgen drücken mich.) ? Ich bin gedrückt / bedrückt

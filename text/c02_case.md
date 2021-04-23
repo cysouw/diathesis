@@ -473,23 +473,23 @@ Because this diathesis is unmarked it is difficult to decide whether this should
 
 **Attested Verbs**
 
-- *abnehmen, anfangen, anhalten, anziehen, aufhören, baden, beginnen, blinken, bremsen, duschen, fliegen, haften, heilen, kochen, landen, läuten, öffnen, rauchen, riechen, schließen, schmecken, starten, stoppen, umdrehen, wiegen, zählen, zünden*
+- *abnehmen, abreißen, abstoßen, anfangen, anhalten, aufmachen, backen, baden, beginnen, bewegen, braten, bremsen, duschen, fliegen, heilen, kochen, landen, läuten, öffnen, rauchen, schließen, spielen (Tonträger), starten, stoppen, umdrehen, wiegen, zählen, zünden*
 
 **Examples**
 
 - Der Doktor heilt die Wunde. Die Wunde hat geheilt. Die Wunde ist geheilt.
-- Der Mitarbeiter öffnet den Laden. Der Laden hat geöffnet. Der Laden ist geöffnet.
-- Ich habe den Bus angehalten. Der Bus hat angehalten. Der Bus ist angehalten.
+- Der Mitarbeiter öffnet den Laden. Der Laden hat geöffnet/aufgemacht. Der Laden ist geöffnet/aufgemacht.
 - Ich rauche eine Zigarette. Das Feuer hat geraucht. Die Zigarette ist geraucht.
 - Ich beginne einen Streit. Der Streit hat begonnen. Der Krieg ist begonnen.
 - Er landet das Flugzeug. Das Flugzeug hat gelandet. Das Flugzeug ist gelandet.
 - Ich wiege den Patienten vor und nach der Behandlung. Der Patient hat 50 Kilo gewogen. Der Patient ist gewogen.
-- Ich habe (dir) den Ausweis abgenommen. Der Regen hat abgenommen. Der Ausweis ist abgenommen.
 - Ich habe das Werk angefangen. Der Film hat angefangen. Das Werk ist angefangen, aber nicht vollendet.
 - Er hat mich geduscht. Ich habe geduscht.
 - Er zählt mich zu den Menschen. Ich habe zu den Menschen gezählt. Die Tage sind gezählt.
 - Ich habe das Boot umgedreht. Das Boot hat umgedreht. Das Boot ist umgedreht.
 - Ich habe die Bombe gezündet. Die Bombe hat gezündet.
+- Ich habe das Boot abgestoßen. Das Boot ist abgestoßen. Die Fähre hat abgestoßen.
+- Ich habe die Platte gespielt. Die Platte hat gespielt. Die Platte ist gespielt.
 
 **Notes**
 
@@ -500,6 +500,24 @@ a. Ich dusche.
 b. Ich dusche den Elefanten.
 c. Ich habe geduscht.
 d. Der Elefant ist geduscht.
+:::
+
+The verb *abnehmen* is possibly better analysed as two different lexemes, either with the meaning 'to take away' [@next a] or 'to reduce' [@next b].
+
+::: ex
+- Ich habe (dir) den Ausweis abgenommen. \
+  Der Ausweis ist (dir) abgenommen.
+- Der Regen hat abgenommen.
+:::
+
+The verb *anhalten* appears to be an exception. In the meaning 'to stop' this verb can clearly be used both transitively and intransitively with a *haben* Perfect [@next a]. However, the *sein* Zustandspassiv is not possible [@next b]. The lexeme *anhalten* has another meaning, viz. 'to admonish' which does allow the *sein* Zustandspassiv [@next c].
+
+::: ex
+- Ich habe den Bus angehalten. \
+  Der Bus hat angehalten.
+- ^* Der Bus ist angehalten.
+- Ich habe meinen Sohn angehalten, pünktlich zu sein. \
+  Mein Sohn ist angehalten (von mir)
 :::
 
 ### [ NAD | –ND ] *haben* Anticausative + dative
@@ -574,8 +592,8 @@ Although there is no overt difference between an unmarked anticausative and an u
 
 **Attested Verbs**
 
-- *altern, biegen, bleichen, brechen, fliehen, knicken, reifen, reißen, rollen, schmelzen, stürzen, trocknen*
-- *abbrechen, abbrennen, abknicken, abkühlen, antreten, austrocknen, einfrieren, einknicken, einreißen, erstaunen, ersticken, ertrinken, erzürnen, niederbrennen, umstürzen, überfahren, verbrennen, verderben, verdunsten, wegtreten, zerbrechen, zerknittern, zerreißen, zersplittern, zuklappen, zuschneien*
+- *altern, biegen, bleichen, brechen, fahren, knicken, reifen, reißen, rollen, schmelzen, stürzen, trocknen*
+- *abbrechen, abbrennen, abknicken, abkühlen, antreten, auftauen, austrocknen, einbiegen, einfliegen, einfrieren, einknicken, einreißen, erstaunen, ersticken, ertrinken, erzürnen, niederbrennen, umkehren, umstürzen, überfahren, verbrennen, verderben, verdunsten, wegtreten, zerbrechen, zerknittern, zerreißen, zersplittern, zuklappen, zuschneien*
 
 **Examples**
 
@@ -593,6 +611,7 @@ Although there is no overt difference between an unmarked anticausative and an u
 - Die Sonne schmilzt den Schnee. Die Eiswürfel sind geschmolzen.
 - Die Rede erzürnt mich. Die Rede hat mich erzürnt. Ich erzürne. Ich bin erzürnt.
 - Das Boot hat uns übergefahren. Wir sind übergefahren.
+- Der Zug ist gefahren. Er hat das Auto nach Hause gefahren.
 
 ### [ –N | NA ] *Umlaut* Causative {#sec:case-umlaut-causative}
 
@@ -728,7 +747,7 @@ e. Der Koran wird unterrichtet.
 
 ### [ NAD | N–D ] Accusative drop + dative
 
-This is the pattern as attested with the verb *danken* 'to thank' as exemplified in [@next a-c]. The accusative can be left out, but only when the dative is retained. The dative cannot be dropped. This seems to be very rare. There seems to be a generalisation that the accusative can normally not be dropped before also a governed dative is dropped (see also [@sec:prepositions-demotion-of-object]). Note that the sentence in [@next a] appears to be rejected by many German speakers, but it is clearly attested (cf. https://www.dwds.de/wb/danken).
+This is the pattern as attested with the verb *danken* 'to thank' as exemplified in [@next a-c]. The accusative can be left out, but only when the dative is retained. The dative cannot be dropped. This seems to be very rare. There seems to be a generalisation that the accusative can normally not be dropped before also a governed dative is dropped (see also [@sec:prepositions-demotion-of-object]). Note that the sentence in [@next a] appears to be rejected by many German speakers, but it is clearly attested.^[cf. https://www.dwds.de/wb/danken.]
 
 ::: ex
 a. Ich danke dem Arzt mein Leben.
@@ -885,7 +904,7 @@ d. Ich flüsterte ihm die Lösung ins Ohr.
 
 **Attested Verbs**
 
-- *atmen, hetzen, laufen, leben, schauen, schwimmen, singen, spielen, springen, tanzen*
+- *atmen, fliehen, hetzen, laufen, leben, schauen, schwimmen, singen, spielen, springen, tanzen*
 - Manner of speaking: *brüllen, flüstern, grölen, johlen, murmeln, schreien, stottern*
 
 **Examples**
@@ -898,8 +917,8 @@ d. Ich flüsterte ihm die Lösung ins Ohr.
 - Das Publikum johlte Beifall.
 - Ich flüstere die Lösung (in sein Ohr).
 - Er murmelt die Antwort (in seinen Bart).
-- Er schrie ihm seine Verachtung ins Gesicht.
-- Ich brüllte dem Schwerhörigen die Antwort ins Ohr.
+- Ich brüllte die Antwort.
+- er floh ihren Blick.
 
 ### [ – | A ] Weather resultative {#sec:case-accusative-addition-without-nominative}
 
