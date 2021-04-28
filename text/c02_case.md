@@ -165,10 +165,12 @@ An attempt has been made below to classify the examples of strictly intransitive
 
 Some of the 'living' verbs allow for accusative arguments in non-living related meanings.
 
+::: ex
 - Ich ziehe meine Hose aus.
 - Ich ziehe eine Wand ein.
 - Ich ziehe den Zaun um.
 - Ich ziehe die Karre weg.
+:::
 
 ### [ NA ] Nominative + accusative
 
@@ -558,12 +560,13 @@ Another different diathesis adding arguments to weather verbs is the addition of
 
 **Attested Verbs**
 
-- *regnen, stürmen, wehen*
+- *regnen, stürmen, tauen, wehen*
 
 **Examples**
 
 - Der Regen regnet täglich.
 - Das Wetter stürmt.
+- Der Schnee taut.
 
 ### --- [ Ø > SBJ > OBJ ] --- *Kausativ* {.unnumbered}
 
@@ -592,7 +595,7 @@ Although there is no overt difference between an unmarked anticausative and an u
 
 **Attested Verbs**
 
-- *altern, biegen, bleichen, brechen, fahren, knicken, reifen, reißen, rollen, schmelzen, stürzen, trocknen*
+- *altern, biegen, bleichen, brechen, fahren, knicken, reifen, reißen, rollen, schmelzen, stürzen, tauen, trocknen*
 - *abbrechen, abbrennen, abknicken, abkühlen, antreten, auftauen, austrocknen, einbiegen, einfliegen, einfrieren, einknicken, einreißen, erstaunen, ersticken, ertrinken, erzürnen, niederbrennen, umkehren, umstürzen, überfahren, verbrennen, verderben, verdunsten, wegtreten, zerbrechen, zerknittern, zerreißen, zersplittern, zuklappen, zuschneien*
 
 **Examples**
@@ -612,6 +615,7 @@ Although there is no overt difference between an unmarked anticausative and an u
 - Die Rede erzürnt mich. Die Rede hat mich erzürnt. Ich erzürne. Ich bin erzürnt.
 - Das Boot hat uns übergefahren. Wir sind übergefahren.
 - Der Zug ist gefahren. Er hat das Auto nach Hause gefahren.
+- Der Schnee ist getaut. Der Lava hat das Eis getaut.
 
 ### [ –N | NA ] *Umlaut* Causative {#sec:case-umlaut-causative}
 
@@ -957,8 +961,8 @@ d. ^* Meine Füße brennen dir.
 
 **Attested Verbs**
 
-- Bodily Sensations: *bluten, brennen, frieren, drücken, jucken, klopfen, rasen (Emotion), schmerzen, schwellen, schwindeln, stechen, tränen, zittern, weh tun*
-- Natural Processes: *anbrennen, blühen, brechen, dampfen, rosten, stinken, überkochen, verblühen, verfaulen, verrosten, verwelken, zufrieren, rauchen*
+- bodily sensations: *bluten, brennen, frieren, drücken, jucken, klopfen, rasen (Emotion), schmerzen, schwellen, schwindeln, stechen, tränen, zittern, weh tun*
+- natural processes: *anbrennen, blühen, brechen, dampfen, rosten, stinken, überkochen, verblühen, verfaulen, verrosten, verwelken, zufrieren, rauchen*
 - Others: *langen*
 
 **Examples**

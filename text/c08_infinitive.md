@@ -101,9 +101,13 @@ Also with gehen/fahren/kommne?
 
 ### *tun + Infinitiv* Progressive
 
-Substandard construction
+Substandard construction [@schwarz2004]
 
-- Ich tue dir ein Buch schenken
+- Ich tu dir ein Buch schenken.
+
+Better with fronting of infinitive [@schwarz2004: 15-18]
+
+- Schenken tu ich dur ein Buch.
 
 ### [ N ] *haben + Infinitiv* Possibility + manner adverbial {#sec:infinitive-haben-adverbial}
 

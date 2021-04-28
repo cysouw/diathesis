@@ -53,7 +53,7 @@ The following elements can only be used as verb prefixes in German [see @los2016
 - *entˈ-*: originally meaning 'against', cognate with Greek *anti*
 - *missˈ-*: originally meaning 'missing', still transparently cognate with modern German verb root *(ver)miss(en)*
 
-The prefix *geˈ-* only occurs in completely grammaticalised combinations, i.e. there are no verbs (anymore) with *ge-* in which the root is still transparently related to the *ge-* prefixed wordform (cf. [@sec:intro-lexical-meanings]). Pairs like *bieten* 'to offer' and *gebieten* 'to order' are thus simply treated as two completely separate lexemes here, and will consequently not occur among any of the diatheses (see [@sec:preverb-deponent]). In contrast, the addition of the prefix *missˈ-* is always completely transparent and never results in a diathesis, e.g. *achten* 'to respect' and *missachten* 'to disrespect' (see [@sec:preverb-intranstive-without-diathesis; @sec:preverb-transitive-without-diathesis]). That leaves the prefixes *beˈ-, erˈ-, verˈ-, zerˈ-, entˈ-*, all of these occur frequently. They induce various diathesis as discussed throughout this chapter.
+The prefix *geˈ-* only occurs in completely grammaticalised combinations, i.e. there are no verbs (anymore) with *ge-* in which the root is still transparently related to the *ge-* prefixed wordform (cf. [@sec:intro-lexical-meanings]). Pairs like *bieten* 'to offer' and *gebieten* 'to order' are thus simply treated as two completely separate lexemes here, and will consequently not occur among any of the diatheses (see [@sec:preverb-deponent]). In contrast, the addition of the prefix *missˈ-* is always completely transparent and never results in a diathesis, e.g. *achten* 'to respect' and *missachten* 'to disrespect' (see [@sec:preverb-intranstive-without-diathesis; @sec:preverb-transitive-without-diathesis]). That leaves the prefixes *beˈ-, erˈ-, verˈ-, zerˈ-, entˈ-*, and all of these occur frequently. They induce various diathesis as discussed throughout this chapter.
 
 The following prepositions can be used as preverbs:
 
@@ -61,14 +61,14 @@ The following prepositions can be used as preverbs:
 - The nine prepositions *ab, an, auf, aus, bei, ein (~in), nach, vor, zu* are frequently used as verb particles leading to diathesis.
 - The preposition *mit* only occurs as a verb particle in completely transparent derivation that never result in a diathesis, e.g. *arbeiten* 'to work' becomes *mitarbeiten* 'to work along' (see [@sec:preverb-intranstive-without-diathesis; @sec:preverb-transitive-without-diathesis]).
 - A few polysyllabic prepositions are only used very rarely as verb particles, namely *entlang, entgegen, gegenüber, hinter, neben, zwischen*. 
-- Crucially, the remaining prepositions are never used as verb particles with a verb root, namely *außer, bis, für, gegen, ohne, seit, von*. It is unclear to me whether there is any deeper reason for the absence of any such derivations.
+- Crucially, the remaining prepositions are never used as verb particles with a verb root, namely *außer, bis, für, gegen, ohne, seit, von* (with only incidental examples like *fürsprechen*). It is unclear to me whether there is any deeper reason for the absence of any such derivations.
 
 The two main groups of prepositional preverbs that are involved in diathesis show an intriguing semantic structure. Note that this semantic structure involves their prepositional meaning, not their function as preverbs:
 
 - the prefix/particle prepositions *durch, über, unter, um* describe a movement along an object, i.e. 'through, over, under, around', respectively.
 - the particle-only prepositions come in semantic pairs describing either a directional movement, i.e. *zu/ab* 'to/from' and *ein/aus* 'in/out', or a position, i.e. *vor/nach* 'before/after' and *bei/an/auf* 'near/on/on top'.
 
-Used as a preverb, the meaning of the preposition can be highly variable. For example, the verb *antanzen* [cf. @felfe2012: 1] has at least the following possible interpretations [@next]. In this chapter, I will only sporadically comment on these semantics details when they not also involve a diathesis.
+Used as a preverb, the meaning of the preposition can be highly variable. For example, the verb *antanzen* [cf. @felfe2012: 1] has at least the following possible interpretations [@next]. In this chapter, I will only sporadically comment on these semantics details.
 
 ::: ex
 a. Der Rüpel hat mich angetanzt. \
