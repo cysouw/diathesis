@@ -99,7 +99,7 @@ d. ^* Das Kind wird geschlafen.
 
 Crucially, the adnominal and adverbial usage of participles are not monoclausal. An adnominal participle is an alternative expression of a relative subordinate clause and an adverbial participle has the status of an adverbial subordinate clause. In contrast, the light-verb constructions with participles are monoclausal.
 
-### Adnominally used participles
+### Adnominally used participles {#sec:participles-adnominal-usage}
 
 The first observation of a restriction on participle usage goes back to the *Sprachlehre* of Carl Friedrich Aichinger [-@aichinger1754: 282 ff.]. He reserves the term ~~participium~~ for those stems that allow for an adnominal usage of their participles, like with *geputzt* in [@lllast]. His rationale for this restriction is that 'real' participles should allow for declension (like in Latin) and in German only the adnominal usage shows (minimal) declension. In contrast, participles that only occur in light-verb constructions, like *geschlafen* in [@last] are morphologically immutable in German. Inflected word forms like *geschlafene*, *geschlafenes* or *geschlafenen* do not exist in German. Aichinger proposes a separate name for such immutable participles, namely ~~supinum~~. This nomenclature is extremely unfortunate, because the German participle has no relation at all to the Latin supine, neither formally nor functionally. Being criticised for this terminology, Aichinger in a later reply explains that he uses the term 'Supinum' solely because the Latin supine is also an immutable verb from [e.g. @aichinger1776: 627]. Although there are many unfortunate terminological confusions in the history of linguistics, this inappropriate usage of the term 'Supinum' is regrettably still around in German grammatical literature to this day (with a history of transmission that deserves more in-depth study), most forcefully reinforced by the usage of this term in Bech [-@bech1955] and the large literature building on that influential work.
 
@@ -510,8 +510,19 @@ All verbs in German allow for a perfect alternation ("tense/aspect" form).
 
 "Ab 1300 und häufiger erst ab 1400 bildet auch das Verb *haben* Perfektformen (*hat gehabt*). Perfektbildungen der Modalverben sind erst ab Anfang des 16. Jahrhunderts belegt, wobei diese im Mittelhochdeutschen noch verschiedene Konkurrenzformen haben […]. Erst dann hat die Perfektgrammatikalisierung alle Verben des Deutschen erfasst und ist vollständig vollzogen." [@fischer2020: 258]
 
+
+Many verbal stems can be used both 
+
 Typical: trans haben, zustandspassiv intrans sein
+
+::: ex
+- Er schreibt das Buch. \
+  Er hat das Buch geschrieben.
+- Das Buch ist geschrieben.
+:::
+
 Special: unmarked causatives: intrans also exist in Präsens
+
 Some stems can be seen either as transitive anticausative or intransitive unaccusative (see [@sec:case-sein-causative])
 
 ::: ex
@@ -521,12 +532,11 @@ Some stems can be seen either as transitive anticausative or intransitive unaccu
   Das Buch ist verbrannt.
 :::
 
-
 Intransitives with two possibilities (see [@sec:participles-haben-sein-perfect])
 
 ::: ex
-a. Das Obst ist (komplett) gefault.
-b. Das Obst hat (vor sich hin) gefault.
+a. Das Glas ist (in tausend Scherben) gesplittert.
+b. Das Holz hat (zu leicht) gesplittert.
 :::
 
 A special kind of intransitives have *haben* with reflesive pronoun, but *sein* without (see [@sec:participles-haben-sein-perfect-reflexive-drop])
@@ -536,16 +546,9 @@ a. Der Zug hat sich verspätet.
 b. Der Zug ist verspätet.
 :::
 
-
-
-
-
-
-
-
 ### [ N | N ] *haben + Partizip* Intransitive Perfect {#sec:participles-haben-perfect}
 
-Many intransitive verbs like *lachen* 'to laugh' have a Perfect with the auxiliary *haben* [@next a]. Typically, the particple of such verbs cannot be used adnominally (see [@])
+Many intransitive verbs like *lachen* 'to laugh' have a Perfect with the auxiliary *haben* [@next a]. Typically, the particple of such verbs cannot be used adnominally [@next b], see [@#sec:participles-adnominal-usage], but the impersonal *werden* passive is possible [@next c], see [@sec:participles-werden-impersonal-passive].
 
 ::: ex
 a. Die Schüler lachen. \
@@ -554,6 +557,7 @@ b. ^* Die gelachte Schüler sind froh.
 c. Heute wurde viel gelacht.
 :::
 
+Although verbs with a *haben* Perfect are often though of as 'agentive' verbs, there are many verbs describing bodily processes, like *bluten* 'to bleed', or bodily sensations, like *jucken* 'to itch' that also take *haben* in the Perfect.
 
 **Attested Verbs**
 
@@ -620,52 +624,59 @@ Various preverb diatheses [e.g. @sec:preverb-intransitive-with-unaccusative; @se
 
 ### [ N | N ] *haben/sein + Partizip* Intransitive perfect {#sec:participles-haben-sein-perfect}
 
-There is a surprisingly large group of intransitive verbs that allow for both a *haben* and a *sein* Perfect. In most of these verbs there is a clear semantic difference between the constructions with these auxiliaries. In general, these verbs allow for both a 'process' interpretation (taking a *haben* Perfect) and an 'endpoint of the process' or 'result' interpretation (taking a *sein* Perfect). In this section I have collected intransitive verbs that allow for both auxiliaries [see also @hinze2007; gillmann2016 Ch. 5]. Additionally, the next [@sec:participles-haben-sein-perfect-reflexive-drop] discusses intranstive verbs that allow for a *haben* Perfect with a reflexive pronoun and a *sein* Perfect without a reflexive pronoun.
+There is a surprisingly large group of intransitive verbs that allow for both a *haben* and a *sein* Perfect. In most of these verbs there is a clear semantic difference between the constructions with these auxiliaries. In general, these verbs allow for both a 'process' interpretation (taking a *haben* Perfect) and an 'endpoint of the process' or 'result' interpretation (taking a *sein* Perfect). In this section I have collected intransitive verbs that allow for both auxiliaries [see also @hinze2007; gillmann2016 Ch. 5]. Additionally, the next [@sec:participles-haben-sein-perfect-reflexive-drop] discusses verbs that allow for an intransitive *haben* Perfect with a reflexive pronoun and an intransitive *sein* Perfect without a reflexive pronoun.
 
-A large group of *haben/sein* verbs describe natural processes, like *splittern* 'to sliver' [@next a] of *schimmeln* 'to mold' [@next b]. Such natural processes can both be used to describe a process (taking a *haben* Perfect) and the result of this process (taking a *sein* Perfect).
+A large group of *haben/sein* verbs describe natural processes, like *splittern* 'to sliver' [@next a] or *schimmeln* 'to mold' [@next b]. Such natural processes can both be used to describe a process (taking a *haben* Perfect) and the result of this process (taking a *sein* Perfect).
 
 ::: ex
 a. Das Glas ist (in tausend Scherben) gesplittert. \
-   Die Holz hat (zu sehr) gesplittert.
+   Das Holz hat (zu leicht) gesplittert.
 b. Das Obst ist (komplett) gefault. \
    Das Obst hat (vor sich hin) gefault.
 :::
 
+A similar situation is attested with a few verbs describing mental states, like *verzweifeln* 'to despair'. Interpreted as a state, duch verbs take a *sein* Perfect [@next a]. However, some verbs also allow an interpretation as a process leading the this state, and then take a *haben* Perfect [@next b].
+
 ::: ex
-a. Sie war ganz verzweifelt.
+a. Sie ist ganz verzweifelt.
 b. Und ich steh hier am teuflischen 17. Loch, wo so viele verzweifelt haben.^[~~DWDS~~: Die Zeit, 04.01.2001, Nr. 02]
 :::
 
+Many verbs of movement like *tanzen* 'to dance' [@next a] or *klettern* 'to climb' [@next b] allow for both a *haben* and *sein* Perfect. The *haben* Perfect can be interpreted as the 'regular' Perfect for movement verbs [@next a]. By being movement verbs, their meaning is inherently a process, which fits in perfectly with the general principle of the *haben* Perfect describing a process. In contrast, the usage with *sein* has a transgressive meaning in which a border is crossed [@next b]. By crossing this border, the verb in effect describes the endpoint of the transgression performed by the verb. 
 
-
-Many verbs of movement allow for both a *haben* and *sein* Perfect.
-
-Bewegungsverben: Grenzüberschreitung mit 'sein' (nur perfektive, nicht resultative!), Zustand mit 'haben' [ sein: NL | haben: N– ] antiresultative!?
+This difference between *haben* and *sein* is mirrorred in the case being used with so-called *Wechselprepositionen* like *in* and *auf*. Such prepositions take an accusative case case with a change-of-state, but a dative case when there is no change. This fits perfectly with the transgressive *sein* Perfekt necessitating an accusative *den* [@next b] and the *haben* Perfect taking a dative *dem* [@next c].
 
 ::: ex
-- Ich bin in den Raum (hinein) getanzt. \
-  Ich habe in dem Raum (herum) getanzt.
-- Der Junge ist auf den Berg (hinauf) geklettert. \ 
-  Der Junge hat auf dem Berg (herum) geklettert
+a. Ich habe getanzt. \
+   Der Junge hat geklettert.
+b. Ich bin in den Raum (hinein) getanzt. \
+   Der Junge ist auf den Berg (hinauf) geklettert.
+c. Ich habe in dem Raum (herum) getanzt. \
+   Der Junge hat auf dem Berg (herum) geklettert
 :::
 
-sein-accusative, haben-dativ special kind of movement???
+Another crucial difference between *sein* and *haben* with movement verbs is that the *sein* Perfect obligatorily needs a directional phrase like *nach Hause* [@next a,b], while the *haben* Perfect does not allow for such a directional phrase [@nnext a,b]. This difference offers a good explanation for the peculiar restrictions on the adnominal usage of the participle of movement verbs. Participles of movement verbs can only be used adnominally when combined with a directional phrase [@next c], as is expected for an intransitive verb with *sein* (cf. [@sec:participles-adnominal-usage]). In contrast, without a directional phrase the adnominal usage is not possible, as is expected for an intransitive verb with a *haben* Perfect.
+
+::: ex
+a. ^* Der Schüler ist gelaufen.
+b. Der Schüler ist nach Hause gelaufen.
+c. Der nach Hause gelaufene Schüler weint.
+:::
+
+::: ex
+a. Der Schüler hat gelaufen.
+b. ^* Der Schüler hat nach Hause gelaufen.
+c. ^* Der gelaufene Schüler weint.
+:::
+
+There are a few further verbs that take a *haben* Perfect, but also allow for a *sein* Perfect in transgressiv situations. For example, the verb *einbrechen* 'to commit burglary' allows for both [@next]. Although this verb is not a typical movement verb, the dative/accusative case change with *Wechselprepositionen* like *in* is also observed here.
 
 ::: ex
 a. Die Diebe sind in den Tresor eingebrochen.
 b. Die Diebe haben im Tresor eingebrochen.
 :::
 
-An even more intricate situation occurs with movement verbs like for example *laufen* 'to walk'. When used with a directional phrase like *nach Hause* 'home' this verb takes the auxiliary *sein* [@next a] and the participle with the directional phrase can be used adnominally [@next b]. In contrast, the auxiliary *haben* seems imcompatible with a directional phrase [@next c] and the participle without the directional phrase cannot be used adnominally [@next d].
-
-::: ex
-a. Der Schüler ist nach Hause gelaufen.
-b. Der nach Hause gelaufene Schüler weint.
-c. Der Schüler hat *(nach Hause) gelaufen.
-d. ^* Der gelaufene Schüler weint.
-:::
-
-Many verbs that describe a manner of motion can be used in different Perfect constructions (see [@sec:prepositions-manner-of-movement]). For example, a verb like *wackeln* 'to shake, to wiggle' can be used as a verb performing the action, and then it takes a *haben* Perfect [@next a]. Alternatively, it can be used to describe a manner-of-motion, and then it takes a *sein* Perfect [@next b].
+Many verbs that describe a manner-of-motion can be used in different Perfect constructions (see [@sec:prepositions-manner-of-movement]). For example, a verb like *wackeln* 'to shake, to wiggle' can be used as a verb performing the action, and then it takes a *haben* Perfect [@next a]. Alternatively, it can be used to describe a manner-of-motion, and then it takes a *sein* Perfect [@next b].
 
 ::: ex
 a. Er wackelt mit dem Schwanz. \
@@ -677,31 +688,36 @@ b. Er wackelt durch den Garten. \
 A similar phenomenon can be observed with some weather verbs, like *stürmen* 'to storm' (see [@sec:prepositions-weather-manner-movement]). When used as a description of a type of wheather it takes a *haben* Perfect [@next a]. However, when used (metaphorically) as a manner-of-movement description it takes a *sein* Perfect [@next b].
 
 ::: ex
-a. Es hat gestürmt.
-b. Sie sind in den Saal gestürmt.
+a. Es stürmt. \
+   Es hat gestürmt.
+b. Sie stürmen in den Saal. \
+   Sie sind in den Saal gestürmt.
 :::
 
 Anticausative verbs like *heilen* 'to heal' (see [@sec:case-haben-anticausative]) allow for both an intransitive *sein* Zustandspassiv [@next a] and a *haben* Perfect of the intransitive [@next b]. In effect, this results in intranstive verbs that allow for both *haben + Partizip* and a *sein + Partizip* construction. A similar situation is attested with some of the locative anticausative verbs, like *kleben* 'to stick to' [@nnext], see [@sec:prepositions-haben-caused-location].
 
 ::: ex
 a. Der Doktor heilt die Wunde. \
-   Der Doktor hat die Wunde geheilt.
+   Der Doktor hat die Wunde geheilt. \
    Die Wunde ist geheilt.
 b. Die Wunde heilt. \
    Die Wunde hat geheilt.
 :::
 
 ::: ex
-a. Ich habe den Teller an den Tisch geklebt.
-b. Der Teller hat am Tisch geklebt.
-c. Der Teller ist am Tisch geklebt.
+a. Ich klebe den Teller an den Tisch. \
+   Ich habe den Teller an den Tisch geklebt. \
+   Der Teller ist am Tisch geklebt.
+b. Der Teller klebt am Tisch. \
+   Der Teller hat am Tisch geklebt.
 :::
 
 **Attested Verbs**
 
 - Natural process verbs: *altern, faulen, gären, keimen, rosten, schimmeln, splittern, triefen, welken*
+- Mental state/process: *resignieren, verzweifeln*
+- Other: *einbrechen, münden*
 - Motion verbs: *fahren, hüpfen, klettern, klettern, kriechen, landen, laufen, reisen, reiten, rennen, rotieren, rutschen, schwimmen, segeln, wandern*
-- Other: *einbrechen, münden, verzweifeln*
 - Manner-of-motion verbs ([@sec:prepositions-manner-of-movement]): *irren, schwanken, stampfen, tanzen, wackeln*
 - Weather manner-of-motion verbs ([@sec:prepositions-weather-manner-movement]): *blitzen, donnern, hageln, regnen, stürmen, wehen*
 - Anticausative verbs ([@sec:case-haben-anticausative]): *abnehmen, abreißen, abstoßen, anfangen, anhalten, aufmachen, backen, baden, beginnen, bewegen, braten, bremsen, duschen, fliegen, heilen, kochen, landen, läuten, öffnen, rauchen, schließen, spielen (Tonträger), starten, stoppen, umdrehen, wiegen, zählen, zünden*
@@ -740,6 +756,14 @@ b. Der Schrank schließt sich. \
    Der Schrank hat sich geschlossen
 :::
 
+A similar situation also occurs with many endoreflexive verbs (though not all, cf. [@sec:reflexive-accusative-drop]) like *ausziehen* 'to undress' [@next a], resulting in both a reflexive *haben* Perfect [@next b] and a non-reflexive *sein* Perfect/Passiv [@next c]. 
+
+::: ex
+a. Der Patient zieht sich aus.
+b. Der Patient hat sich ausgezogen.
+c. Der Patient ist ausgezogen.
+:::
+
 Likewise, verbs that allow for both a reflexive conversive (*Reflexiv Erlebnispassiv* ([@sec:reflexive-preposition-passive]) and a *sein* Passiv (*Zustandspassiv*, [@sec:participles-sein-zustandspassiv]) have both a *sein* and a *haben* intransitive perfect. For example *aufregen* 'to upset' is a transitive verb [@next a]. This verb allows for a reflexive conversive, which results in a *haben* intransitive Perfect with a reflexive pronoun [@next b]. However, there is also a *sein* Perfect without reflexive pronoun [@next c], which is possibly best analysed as the *sein + Partizip* Passiv of the transitive [@next a].
 
 ::: ex
@@ -748,14 +772,6 @@ a. Der Lärm regt ihn auf. \
 b. Er regt sich auf (über den Lärm). \
    Er hat sich aufgeregt (über den Lärm).
 c. Er ist aufgeregt (wegen den Lärm).
-:::
-
-A similar situation also occurs with many endoreflexive verbs (though not all, cf. [@sec:reflexive-accusative-drop]) like *ausziehen* 'to undress' [@next a], resulting in both a reflexive *haben* Perfect [@next b] and a non-reflexive *sein* Perfect/Passiv [@next c]. 
-
-::: ex
-a. Der Patient zieht sich aus.
-b. Der Patient hat sich ausgezogen.
-c. Der Patient ist ausgezogen.
 :::
 
 **Attested Verbs**
@@ -781,11 +797,11 @@ c. Der Patient ist ausgezogen.
 
 ### [ ND | ND ] *haben + Partizip* Dative perfect
 
-Verbs with a dative argument are strictly split between *sein* and *haben*. There do not appear to be any verbs that allow for both. The grammatical status of the datives is slightly different among these verbs, see [@sec:case-nominative-dative; @sec:case-dative-drop; @sec:prepositions-dative-antipassive; @sec:preverb-dative-applicative] for detailed discussion. Similar to intransitives, the dative-verbs with *haben* like *antworten* 'to answer' [@next a] do not allow for a construction with an adnominal participle [@next b], but the impersonal *werden* passive is possible [@next c].
+Verbs with a dative argument are strictly split between *sein* and *haben*. There do not appear to be any verbs that allow for both. The grammatical status of the datives is slightly different among these verbs, see [@sec:case-nominative-dative; @sec:case-dative-drop; @sec:prepositions-dative-antipassive; @sec:preverb-dative-applicative] for detailed discussion. Similar to intransitives, the dative verbs with a *haben* Perfect, like *antworten* 'to answer' [@next a], do not allow for a construction with an adnominal participle [@next b], but the impersonal *werden* passive is possible [@next c].
 
 ::: ex
 a. Die Professorin hat dem Student geantwortet.
-b. ^* Der geantwortete Student …
+b. ^* Der geantwortete Student ist zufrieden.
 c. Heute wird dem Student geantwortet.
 :::
 
