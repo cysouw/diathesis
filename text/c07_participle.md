@@ -501,6 +501,8 @@ b. ^* Ich verstehe ein.
 
 ### --- *haben/sein* Perfect --- {.unnumbered}
 
+The combination of a light verb *haben* or *sein* with a participle is traditionally considered to be a single tense/aspect construction called ~~Perfekt~~ in German grammatical terminology.
+
 both can be used as epithesis and as diathesis. Most authors seem to agree that there are different constructions between epithesis and diathesis. However, strangely, most seem to suggest that haben/sein are the same construction as epithsis. Better solution: distinguish them all!
 
 haben+Parizip: "Prozessperfekt", Pertinenzpassiv
@@ -548,7 +550,7 @@ b. Der Zug ist verspätet.
 
 ### [ N | N ] *haben + Partizip* Intransitive Perfect {#sec:participles-haben-perfect}
 
-Many intransitive verbs like *lachen* 'to laugh' have a Perfect with the auxiliary *haben* [@next a]. Typically, the particple of such verbs cannot be used adnominally [@next b], see [@#sec:participles-adnominal-usage], but the impersonal *werden* passive is possible [@next c], see [@sec:participles-werden-impersonal-passive].
+Many intransitive verbs have a Perfect with the auxiliary *haben*, like *lachen* 'to laugh' [@next a]. Typically, the particple of such verbs cannot be used adnominally [@next b], see [@#sec:participles-adnominal-usage], but the impersonal *werden* passive is possible [@next c], see [@sec:participles-werden-impersonal-passive].
 
 ::: ex
 a. Die Schüler lachen. \
@@ -557,12 +559,12 @@ b. ^* Die gelachte Schüler sind froh.
 c. Heute wurde viel gelacht.
 :::
 
-Although verbs with a *haben* Perfect are often though of as 'agentive' verbs, there are many verbs describing bodily processes, like *bluten* 'to bleed', or bodily sensations, like *jucken* 'to itch' that also take *haben* in the Perfect.
+Although verbs with a *haben* Perfect are often though of as 'agentive' verbs, there are many non-agentive verbs, for example describing bodily processes (like *bluten* 'to bleed') or bodily sensations (like *jucken* 'to itch) that also take *haben* in the Perfect.
 
 **Attested Verbs**
 
-- agentive verbs: *arbeiten, lügen, lachen, weinen, schlafen, schwindeln, stechen, träumen, hupen, tun, sitzen*
-- bodily processes: *atmen, bluten, husten, niesen, pinkeln, schwitzen*
+- agentive verbs: *arbeiten, lügen, schwindeln (betrügen), hupen, stehen, sitzen, tun*
+- bodily processes: *atmen, bluten, husten, lachen, weinen, niesen, pinkeln, schlafen, schwitzen, träumen*
 - bodily sensations (see [@sec:case-possessor-of-nominative-to-dative-experiencer]): *brennen, frieren, drücken, jucken, klopfen, rasen (Emotion), schmerzen, tränen, zittern*
 - natural Processes (see [@sec:case-possessor-of-nominative-to-dative-experiencer]): *blühen, dampfen, stinken*
 - accusative addition (see [@sec:case-accusative-addition]): *laufen, leben, schauen, schwimmen, singen, spielen, springen, tanzen*
