@@ -501,7 +501,12 @@ b. ^* Ich verstehe ein.
 
 ### --- *haben/sein* Perfect --- {.unnumbered}
 
-The combination of a light verb *haben* or *sein* with a participle is traditionally considered to be a single tense/aspect construction called ~~Perfekt~~ in German grammatical terminology.
+The combination of the light verbs *haben* and *sein* with a participle is traditionally considered to be a single tense/aspect construction called ~~Perfekt~~ in German grammatical terminology. Given the latinate origin of much of modern grammatical theory, the wish for a German equivalent of the Latin ~~Perfectum~~ is perfectly understanble. However, it is far from obvious that there is such a unified construction in German.
+
+The most intriguing argument for a special *Perfekt* construction is that every verb stem in German has an epithetical construction with *haben* or *sein* with a participle.
+
+
+It is debatable whether these two constructions
 
 both can be used as epithesis and as diathesis. Most authors seem to agree that there are different constructions between epithesis and diathesis. However, strangely, most seem to suggest that haben/sein are the same construction as epithsis. Better solution: distinguish them all!
 

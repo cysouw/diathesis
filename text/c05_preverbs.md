@@ -155,7 +155,7 @@ c. Die Polizei jagte einen Verbrecher. \
 
 ### Preverbs with non-verbal stems {#sec:preverbs-other-stems}
 
-Preverbs typically are added to verbal roots. However, there are a few examples in which preverbs are added to non-verbal roots, constructing a verb in the process. For examples from adjectival roots like *grün* 'green' it is possible to derive a verb *begrünen* 'to plant' [@next]. This derivation typically has a causative function with the subject causing the object to become the adjectival predicate, see [@sec:preverb-adjectival-causative]. However, in a few incidental cases, the semantics are slightly different, like with *lustig* 'funny' and *belustigen* 'to amuse' [@nnext], see [@sec:prever-adjectival-addition].
+Preverbs typically are added to verbal roots. However, there are a few examples in which preverbs are added to non-verbal roots, constructing a verb in the process. For examples from adjectival roots like *grün* 'green' it is possible to derive a verb *begrünen* 'to plant' [@next]. This derivation typically has a causative function with the subject causing the object to become the adjectival predicate, see [@sec:preverb-adjectival-causative]. However, in a few incidental cases, the semantics are slightly different, like with *lustig* 'funny' and *belustigen* 'to amuse' [@nnext], see [@sec:preverb-adjectival-addition].
 
 ::: ex
 a. Der Balkon ist grün.
@@ -614,7 +614,7 @@ a. Die Kinder sind wach.
 b. Die Kinder erwachen.
 :::
 
-There are also prefixed adjectives in which an accusative object is added (see [@sec:preverb-adjectival-causative]).
+Note that there are also a few examples of prefixed adjectives in which an accusative object is added (see [@sec:preverb-adjectival-addition]).
 
 **Attested Verbs**
 
@@ -1174,7 +1174,7 @@ b. Sie verzaubert mich.
 - Ich verspiele mein letztes Geld. \
   (= Ich spiele, und am Ende habe ich dadurch *kein* Geld mehr.)
 
-### [ N– | NA ] Preverb adjectival accusative addition {#sec:prever-adjectival-addition}
+### [ N– | NA ] Preverb adjectival accusative addition {#sec:preverb-adjectival-addition}
 
 A few incidental adjectives lead to a special diathesis when they are derived into a verb by the addition of a preverb. Typically, such derived adjectives lead to causative semantics (see [@sec:preverb-adjectival-causative]). However, with *lustig* 'funny' the derived verb *belustigen* 'to amuse' adds an accusative object [@next].
 
@@ -1643,7 +1643,8 @@ c. Ich überarbeite den Text.
 
 **Attested Verbs**
 
-- 'ein  : *kalkulieren, rechnen*
+- beˈ  : *kämpfen*
+- 'ein : *kalkulieren, rechnen*
 
 #### *nach* Preverb governed applicative
 
@@ -1666,7 +1667,7 @@ c. Ich überarbeite den Text.
 
 **Attested Verbs**
 
-- beˈ  : *gutachten, herrschen, jammern, jubeln, klagen, lachen, reden, schmunzeln, spotten, sprechen, staunen, trauern, urteilen, weinen, zweifeln*
+- beˈ  : *gutachten, herrschen, jammern, jubeln, klagen, lachen, lächeln, reden, schmunzeln, spotten, sprechen, staunen, trauern, urteilen, weinen, zweifeln*
 - erˈ  : *forschen, lesen, lügen*
 - verˈ : *fluchen, klagen, spotten, schweigen*
 - 'aus : *plaudern, lachen*
@@ -2078,7 +2079,7 @@ b. Ich verbitte mir einen Kommentar von dir.
 
 **Attested Verbs**
 
-- beˈ-  : *dienen, folgen, lauschen, raten*
+- beˈ-  : *dienen, drohen, folgen, lauschen, raten*
 - verˈ- : *dienen, folgen*
 
 **Examples**

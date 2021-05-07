@@ -596,7 +596,7 @@ Although there is no overt difference between an unmarked anticausative and an u
 **Attested Verbs**
 
 - *altern, biegen, bleichen, brechen, fahren, knicken, reifen, reißen, rollen, schmelzen, stürzen, tauen, trocknen*
-- *abbrechen, abbrennen, abknicken, abkühlen, antreten, auftauen, austrocknen, einbiegen, einfliegen, einfrieren, einknicken, einreißen, erstaunen, ersticken, ertrinken, erzürnen, niederbrennen, umkehren, umstürzen, überfahren, verbrennen, verderben, verdunsten, wegtreten, zerbrechen, zerknittern, zerreißen, zersplittern, zuklappen, zuschneien*
+- *abbrechen, abbrennen, abknicken, abkühlen, abstumpfen, antreten, auftauen, austrocknen, einbiegen, einfliegen, einfrieren, einknicken, einreißen, ermatten, erstaunen, ersticken, ertrinken, erzürnen, niederbrennen, umkehren, umstürzen, überfahren, verbrennen, verderben, verdunsten, verrohen, wegtreten, zerbrechen, zerknittern, zerreißen, zersplittern, zuklappen, zuschneien*
 
 **Examples**
 
