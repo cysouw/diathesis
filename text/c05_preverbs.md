@@ -241,7 +241,7 @@ b. Das Schiff versinkt im Meer.
 
 ### [ N | N ] Preverb intransitives without diathesis {#sec:preverb-intranstive-without-diathesis}
 
-It is highly unusual for prefixed intransitive verbs to not show any valency change [@next a,b], not even a difference between the usage of the attributive participles [@next c,d]. It seems to be slightly more common for only the prefixed participle to be open for attributive usage (see [@sec:preverb-intransitive-with-unaccusative]).
+It is rather unusual for the prefixed version of intransitive verbs to not show any valency change [@next a,b], not even a difference between the usage of the attributive participles [@next c,d]. It seems to be slightly more common for only the prefixed participle to be open for attributive usage (see [@sec:preverb-intransitive-with-unaccusative]).
 
 ::: ex
 a. Die Milch kocht.
@@ -258,12 +258,21 @@ b. Die Milch kocht.
 c. Die Milch kocht über.
 :::
 
+The preverb *ˈmit-* is typically used with verbs that do not allow an attributive participle, neither in without preverb, nor with preverb (but see [@sec:preverb-intransitive-with-unaccusative] for a few exceptions with movement verbs).
+
+::: ex
+a. Der Student hat an dem Projekt gearbeitet.
+b. Der Student hat an dem Projekt mitgearbeitet.
+c. ^* Der gearbeitete Student ist fertig.
+d. ^* Der mitgearbeitete Student ist fertig.
+:::
+
 **Attested Verbs**
 
 - verˈ-  : *sinken, sterben, trocknen*
-- missˈ- : *klingen*
-- ˈmit-  : *arbeiten, brüllen, denken, essen, fahren, fliegen, fühlen, gehen, heulen, hören, kommen, kämpfen, lachen, laufen, leiden, lächeln, reden, schwingen, segeln, singen*
 - ˈüber- : *kochen*
+- missˈ- : *klingen*
+- ˈmit-  : *arbeiten, brüllen, denken, essen, fühlen, heulen, hören, kämpfen, lachen, leiden, lächeln, reden, schwingen, singen*
 
 **Examples**
 
@@ -377,6 +386,8 @@ c. Die verblühte Blume ist immer noch schön.
 
 - verˈ- : *blühen, bluten, faulen, dampfen, rosten, schimmeln, schwinden*
 - ˈein- : *rosten, schlafen*
+- ˈab-  : *reisen*
+- ˈmit-  : *fahren, fliegen, gehen, kommen, laufen, segeln*
 
 **Examples**
 
@@ -384,6 +395,8 @@ c. Die verblühte Blume ist immer noch schön.
   Die verschwundenen/*geschwundenen Vorräte ...
 - Die Äpfel verfaulen/faulen. \
   Die verfaulten/*gefaulten Äpfel ...
+- Die Gäste gehen/gehen mit. \
+  Die mitgegangene/*gegangene Gäste ...
 
 ### [ NA | NA ] Preverb transitives with patient-like object {#sec:preverb-transitive-with-unaccusative}
 
@@ -598,7 +611,7 @@ a. Die Lebensbedingungen sind heutzutage besser.
 b. Ich verbessere die Lebensbedingungen.
 :::
 
-With some verbs the causative also needs an umlaut, e.g. with *kurz* 'short' [@next a,b], or an umlaut is lost in the causative, e.g. with *böse* 'angry' [@next c,d]; see also [@sec:case-umlaut-adjectival-causative].
+With some verbs the causative also needs an umlaut [cf. @plank2015], e.g. with *kurz* 'short' [@next a,b], or an umlaut is lost in the causative, e.g. with *böse* 'angry' [@next c,d]; see also [@sec:case-umlaut-adjectival-causative].
 
 ::: ex
 a. Die Frist ist kurz.

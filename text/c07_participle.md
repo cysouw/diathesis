@@ -468,9 +468,7 @@ c. Er ist verhasst.
 
 **Notes**
 
-The finite verb *zacken* 'to produce indentation' is also attested, though rare [@next a], so *gezackt* might not be a good example of a participle without finite usage. 
-
-In contrast, the verb *schweifen* 'to ramble' exists [@next b], but is semantically not directly related to the participle *geschweift* 'curled'. Both seem independently derived from the noun *Schweif* 'bushy tail'. The same holds for the participle *gestreift* 'striped' and the verb *streifen* 'to roam, to streak', which are probably both independently related to the noun *Streifen* 'strip, band'.
+The finite verb *zacken* 'to produce indentation' is also attested, though rare [@next a], so *gezackt* might not be a good example of a participle without finite usage. In contrast, the verb *schweifen* 'to ramble' exists [@next b], but is semantically not directly related to the participle *geschweift* 'curled'. Both seem independently derived from the noun *Schweif* 'bushy tail'. The same holds for the participle *gestreift* 'striped' and the verb *streifen* 'to roam, to streak', which are probably both independently related to the noun *Streifen* 'strip, band'.
 
 ::: ex
 a. Die Streifen zackten sich über Schuhe, Bänke, Tische, Mäntel, Bettgitter.^[~~DWDS~~: Fichte, Hubert: Das Waisenhaus, Frankfurt a. M.: Fischer-Taschenbuch-Verl. 1988 [1965], S. 139.]
@@ -501,26 +499,23 @@ b. ^* Ich verstehe ein.
 
 ### --- *haben/sein* Perfect --- {.unnumbered}
 
-The combination of the light verbs *haben* and *sein* with a participle is traditionally considered to be a single tense/aspect construction called ~~Perfekt~~ in German grammatical terminology. Given the latinate origin of much of modern grammatical theory, the wish for a German equivalent of the Latin ~~Perfectum~~ is perfectly understanble. However, it is far from obvious that there is such a unified construction in German.
+The combination of the light verbs *haben* and *sein* with a participle is traditionally considered to be a single tense/aspect construction called ~~Perfekt~~ in German grammatical terminology. Given the latinate origin of much of modern grammatical theory, the wish for a German equivalent of the inflectional Latin ~~Perfectum~~ is perfectly understandable. However, it is far from obvious that this *Perfect* is a unified construction in German.
 
-The most intriguing argument for a special *Perfekt* construction is that every verb stem in German has an epithetical construction with *haben* or *sein* with a participle.
+The most intriguing argument in favour of a unified *Perfekt* construction is that every verb stem in German has an epithetical construction with *haben* or *sein* with a participle. In other words, every stem that allows for finite person/number agreement (i.e. *ich kauf-e, du kauf-st, er kauf-t*, etc.) also has at least one of the two constructions *haben + Partizip* or *sein + Partizip* without any change in role mapping (i.e. without diathesis). Such an universal applicability of a construction to all verbs is otherwise only attested (arguably) with *Modalverben* (see [@sec:infinitive-werden-modal] and subsequent sections). All the hundreds of other constructions discussed in this book always have a restricted domain of application (see [@sec:intro-domain-of-application]). The universal applicability of the *Perfekt* is known to have been developed in the late Middle Ages and was only completed in the 16th century with the development of a *haben + Partizip* construction for *Modalverben* [@fischer2020: 258].^[Fischer writes: "Ab 1300 und häufiger erst ab 1400 bildet auch das Verb *haben* Perfektformen (*hat gehabt*). Perfektbildungen der Modalverben sind erst ab Anfang des 16. Jahrhunderts belegt, wobei diese im Mittelhochdeutschen noch verschiedene Konkurrenzformen haben […]. Erst dann hat die Perfektgrammatikalisierung alle Verben des Deutschen erfasst und ist vollständig vollzogen." [@fischer2020: 258]] However, note that, for example, examples of *haben + dürfen* are still really rare in German. In the DWDS corpus only a few examples with *haben* in the conjunctive are attested.]
 
+In contrast, there are also various arguments against a unified *Perfekt* construction in German. First, there is a sizeably group of intransitive verbs that allow for both the *haben* and *sein* construction without any role-marking changes. There are intransitives with two possibilities, like *splittern* 'to splinter, to sliver' [@next], see [@sec:participles-haben-sein-perfect], and there is a special kind of intransitives that take *haben* with reflexive pronouns, but *sein* without reflexive pronouns [@nnext], see [@sec:participles-haben-sein-perfect-reflexive-drop].
 
-It is debatable whether these two constructions
+::: ex
+a. Das Glas ist (in tausend Scherben) gesplittert.
+b. Das Holz hat (zu leicht) gesplittert.
+:::
 
-both can be used as epithesis and as diathesis. Most authors seem to agree that there are different constructions between epithesis and diathesis. However, strangely, most seem to suggest that haben/sein are the same construction as epithsis. Better solution: distinguish them all!
+::: ex
+a. Der Zug hat sich verspätet.
+b. Der Zug ist verspätet.
+:::
 
-haben+Parizip: "Prozessperfekt", Pertinenzpassiv
-sein+Partizip: "Zustandsperfekt", Zustandspassiv
-
-All verbs in German allow for a perfect alternation ("tense/aspect" form). 
-
-"Ab 1300 und häufiger erst ab 1400 bildet auch das Verb *haben* Perfektformen (*hat gehabt*). Perfektbildungen der Modalverben sind erst ab Anfang des 16. Jahrhunderts belegt, wobei diese im Mittelhochdeutschen noch verschiedene Konkurrenzformen haben […]. Erst dann hat die Perfektgrammatikalisierung alle Verben des Deutschen erfasst und ist vollständig vollzogen." [@fischer2020: 258]
-
-
-Many verbal stems can be used both 
-
-Typical: trans haben, zustandspassiv intrans sein
+Second, verbs that allow for an accusative argument regularly allow for both a *haben* and a *sein* construction, although with a change in role-marking. Typically, verbs with an accusative take *haben + Partizip* without any role-marking changes (see [@sec:participles-haben-transitive-perfect], exceptions in [@sec:participles-sein-transitive-perfect]). In contrast, a passive-like diathesis in induced when used with *sein + Partizip*, either a *Zustandspassiv*, like with *schreiben* 'to write' [@next], see [@sec:participles-sein-zustandspassiv], or a similar *Erlebnispassiv*, like with *verärgern* 'to displease' [@nnext], see [@sec:participles-sein-conversive]. There are only very few exceptions that do not allow this diathesis, like *feiern* 'to celebrate' [@nnnext].
 
 ::: ex
 - Er schreibt das Buch. \
@@ -528,34 +523,37 @@ Typical: trans haben, zustandspassiv intrans sein
 - Das Buch ist geschrieben.
 :::
 
-Special: unmarked causatives: intrans also exist in Präsens
-
-Some stems can be seen either as transitive anticausative or intransitive unaccusative (see [@sec:case-sein-causative])
-
 ::: ex
-- Er verbrennt das Buch. \
-  Er hat das Buch verbrannt.
-- Das Buch verbrennt. \
-  Das Buch ist verbrannt.
+a. Die Nachricht verärgert den Leser. \
+   Die Nachricht hat den Leser verärgert.
+b. Der Leser ist verärgert über die Nachricht.
 :::
 
-Intransitives with two possibilities (see [@sec:participles-haben-sein-perfect])
-
 ::: ex
-a. Das Glas ist (in tausend Scherben) gesplittert.
-b. Das Holz hat (zu leicht) gesplittert.
+a. Sie feiert ihren Geburtstag. \
+   Sie hat ihren Geburststag gefeiert.
+b. ^* Der Geburtstag ist gefeiert.
 :::
 
-A special kind of intransitives have *haben* with reflesive pronoun, but *sein* without (see [@sec:participles-haben-sein-perfect-reflexive-drop])
+Finally, and most importantly, for all those cases in which multiple options are available, then the meaning of the *haben + Partizip* construction can be rather clearly distinguished from meaning of the *sein + Partizip* construction. Roughly speaking, the *haben + Partizip* construction describes a ~~'contiuous' completive~~ situation, i.e. the (intermediate) endpoint of a continuous process, while the *sein + Partizip* construction describes a ~~'changed' resultative~~ situation, i.e. the resulting state after some kind of change-of-state. There exist a long discussion about this difference, but the most telling diagnostic is the different compatibility of both constructions with temporal adverbial constituents [cf. @hohle1978: 42; @nedjalkov1988a: 412; @maienborn2007]. The (intermediate) endpoint in a process (i.e. completive) is consistent with a punctual temporal adverbial like *gestern* 'yesterday' or *vor zwei Wochen* 'two weeks ago' [@next]. In contrast, the new state after a change (i.e. resultative) is consistent with a durative temporal adverbial like *schon lange* 'already for a long time' or *seit zwei Wochen* 'since two weeks' [@nnext].
 
 ::: ex
-a. Der Zug hat sich verspätet.
-b. Der Zug ist verspätet.
+a. Der Zug hat sich gestern verspätet.
+b. ^* Der Zug hat sich schon lange verspätet.
 :::
+
+::: ex
+a. ^* Der Zug ist gestern verspätet.
+b. Der Zug ist schon lange verspätet.
+:::
+
+It is important to note that this semantic differentiation only holds for those verbs that allow for both the *haben + Partizip* and *sein + Partizip* constructions. The intransitive verbs that only allow for one of the two constructions cannot be separated along such easy semantic lines. The same difficulty to make a semantic distinction is also found for the verbs with nominative and dative arguments.
+
+Because of these differences, I prefer to consider the *haben* and *sein* Perfects (i.e. the constructions without role-marking change) as two different constructions, for example called *Prozessperfekt (haben)* and *Zustandsperfekt (sein)* in German. To adhere to tradition, both are still called *Perfekt*. The first part of the name *Zustand-* refers to the other *sein + Partizip* construction traditionally called *Zustandspassiv* (see [@sec:participles-sein-zustandspassiv]).
 
 ### [ N | N ] *haben + Partizip* Intransitive Perfect {#sec:participles-haben-perfect}
 
-Many intransitive verbs have a Perfect with the auxiliary *haben*, like *lachen* 'to laugh' [@next a]. Typically, the particple of such verbs cannot be used adnominally [@next b], see [@#sec:participles-adnominal-usage], but the impersonal *werden* passive is possible [@next c], see [@sec:participles-werden-impersonal-passive].
+Many intransitive verbs only have a Perfect with the auxiliary *haben*, like *lachen* 'to laugh' [@next a]. Typically, the particple of such verbs cannot be used adnominally [@next b], see [@sec:participles-adnominal-usage], but the impersonal *werden* passive is possible [@next c], see [@sec:participles-werden-impersonal-passive].
 
 ::: ex
 a. Die Schüler lachen. \
@@ -577,37 +575,31 @@ Although verbs with a *haben* Perfect are often though of as 'agentive' verbs, t
 
 ### [ N | N ] *sein + Partizip* Intransitive perfect {#sec:participles-sein-perfect}
 
-Intransitives are split between haben and sein, and a few verbs show variation (possible also meaning-related)
+There exist also a large group of intranstive verbs that only allow for a Perfect with the auxiliary *sein*, like *flüchten* 'to flee' [@next a]. In contrast to the intranstives with *haben*, the verbs with *sein* allow for an adnominal usage of the participle [@next b], but do not (easily) allow for an impersonal passive [@next c].
 
-- previous state -> change of state -> current state (sein+PP) "state after change"
-- process -> state at the end of the process (haben+PP) "state at end of process"
+::: ex
+a. Der Gefangene flüchtet. \
+   Der Gefangene ist geflüchtet.
+b. Der geflüchtete Gefangene wurde wieder gefasst.
+c. ^? Heute wird geflüchtet.
+:::
 
-=> 'resultative' Bedeutung: Kompatibel mit "schon seit zwei Tage" (typisch 'sein'-Zustandspassiv?), 
-=> 'perfektive' Bedeutung: Kompatibel mit "schon vor zwei Tage" (typisch 'werden'-Passiv?) "nach und nach" "allmählich" "gestern"
+There is a strong semantic tendency for the intranstives with *sein* to be more 'patientive'. Many of the verbs describe actions that are not performed deliberately, but more or less happen to the subject (e.g. *sterben* 'to die', *fallen* 'to fall' or *scheitern* 'to fail'). However, there are also many verbs that do not fit into this semantic characterisation (e.g. *flüchten* 'to flee', *gehen* 'to go' or *abreisen* 'to depart').
 
-=> many *sein* intransitives are ambigous:
-
-- Er ist seit gestern verreist (resultative/Zustandspassiv?)
-- Er ist gestern verreist (Perfekt)
-
-but (see below): 
-
-- Er ist jetzt endlich komplett verreist (Grenzüberschreitung!)
-- ^* Er ist vor sich hin verreist
-
-=> are there intransitive *sein* verbs that are not resultative? [@nedjalkov1988a: 417] ^* Er ist schon seit drei Jahre gestorben/gefallen/angekommen.
-
-=> Idea: all *sein* intransitives have a perfekt meaning, but some (most?) additionally have a resultative meaning.
-
-Various preverb diatheses [e.g. @sec:preverb-intransitive-with-unaccusative; @sec:preverb-intransitive-antiresultative]
+There seems to be only a restricted set of monomoorphemic verbs, but a much larger number of verbs with preverbs [e.g. @sec:preverb-intransitive-with-unaccusative; @sec:preverb-intransitive-antiresultative].
 
 **Attested Verbs**
 
 - monomorphemic: *bersten, beuteln, bleiben, bleichen, dorren, fallen, fliehen, fließen, flüchten, gehen, gleiten, kentern, kommen, krepieren, platzen, prallen, quellen, reifen, schlüpfen, scheitern, schreiten, schrumpfen, sein, sinken, sprießen, steigen, sterben, stolpern, strömen, traben, wachsen, weichen, werden*
-- with preverbs: *abbiegen, abhauen, abmagern, abreisen, absaufen, absteigen, abstürzen, anbrennen, ankommen, anschwellen, ansteigen, auffallen, aufstehen, aufsteigen, auftreten, aufwachen, aufwachsen, ausbleiben, ausbrechen, ausfallen, ausgehen, auslaufen, aussteigen, auswandern, ausweichen, ausziehen (wohnen), beitreten, degenerieren, detonieren, ˈdurchlaufen, ˈdurchsickern, ˈdurchfallen, ˈdurchgehen, eindringen, einfließen, einfrieren, einkehren, einreisen, einrosten, einschlafen, einsteigen, einstürzen, eintauchen, eintreffen, eintreten, emigrieren, entbrennen, entfliehen, entkommen, entstehen, erfrieren, erkranken, erlöschen, ermüden, erschallen, erscheinen, ertrinken, explodieren, fehlschlagen, gedeihen, gelangen, genesen, geschehen, herumgehen, hinfallen, mitgehen, mitkommen, nachkommen, stehenbleiben, ˈumfallen, ˈumsiedeln, ˈumziehen, ˈuntergehen, ˈuntertauchen, ˈüberkochen, verbleiben, verblühen, verbluten, verdampfen, verfaulen, verfallen, verhungern, verreisen, verrosten, verrutschen, verschimmeln, verschwinden, versinken, versterben, vertrocknen, verwelken, vorgehen, vorkommen, wegfallen, weggehen, weglaufen, wegrennen, zerfallen, zerrinnen, zufrieren, zuwachsen, zurückfahren, zurückgehen, zurückkommen, zurücklaufen, zurückrennen*
+- with fixed prefix: *degenerieren, detonieren, gedeihen, gelangen, genesen, geschehen, explodieren*
+- with preverb: *abbiegen, abhauen (weglaufen), abmagern, abreisen, absaufen, absteigen, abstürzen, anbrennen, ankommen, anschwellen, ansteigen, auffallen, aufstehen, aufsteigen, auftreten, aufwachen, aufwachsen, ausbleiben, ausbrechen, ausfallen, ausgehen, auslaufen, aussteigen, auswandern, ausweichen, ausziehen (wohnen), beitreten, ˈdurchlaufen, ˈdurchsickern, ˈdurchfallen, ˈdurchgehen, eindringen, einfließen, einfrieren, einkehren, einreisen, einrosten, einschlafen, einsteigen, einstürzen, eintauchen, eintreffen, eintreten, emigrieren, entbrennen, entfliehen, entkommen, entstehen, erfrieren, erkranken, erlöschen, ermüden, erschallen, erscheinen, ertrinken, fehlschlagen, herumgehen, hinfallen, mitgehen, mitkommen, nachkommen, stehenbleiben, ˈumfallen, ˈumsiedeln, ˈumziehen, ˈuntergehen, ˈuntertauchen, ˈüberkochen, verbleiben, verblühen, verbluten, verdampfen, verfaulen, verfallen, verhungern, verreisen, verrosten, verrutschen, verschimmeln, verschwinden, versinken, versterben, vertrocknen, verwelken, vorgehen, vorkommen, wegfallen, weggehen, weglaufen, wegrennen, zerfallen, zerrinnen, zufrieren, zuwachsen, zurückfahren, zurückgehen, zurückkommen, zurücklaufen, zurückrennen*
 
 **Examples**
 
+- Er ist ertrunken/verstorben/gestorben/gescheitert.
+- Er ist ausgebrochen/ausgegangen/ausgestiegen/ausgezogen.
+- Ich bin aufgestanden/durchgelaufen/umgezogen/verreist.
+- Der Junge ist gewachsen.
 - Der Baum ist gefallen.
 - Der Ballon ist geplatzt.
 - Meine Hoffnung ist geschwunden.
@@ -615,12 +607,9 @@ Various preverb diatheses [e.g. @sec:preverb-intransitive-with-unaccusative; @se
 - Die Flasche ist ausgelaufen.
 - Die Prophezeiung ist eingetroffen.
 - Die Kerze ist erloschen.
-- Er ist ertrunken/verstorben/gestorben/gewachsen/gescheitert.
 - Die Milch ist übergekocht.
 - Das Schiff ist versunken.
 - Das Kind ist eingeschlafen.
-- Ich bin aufgestanden/durchgelaufen/umgezogen/verreist.
-- Er ist ausgebrochen/ausgegangen/ausgestiegen/ausgezogen.
 - Die Blumen sind vertrocknet/verblüht.
 - Die Wunde ist zugewachsen.
 - Der Zug ist angekommen.
@@ -804,7 +793,7 @@ c. Er ist aufgeregt (wegen den Lärm).
 
 ### [ ND | ND ] *haben + Partizip* Dative perfect
 
-Verbs with a dative argument are strictly split between *sein* and *haben*. There do not appear to be any verbs that allow for both. The grammatical status of the datives is slightly different among these verbs, see [@sec:case-nominative-dative; @sec:case-dative-drop; @sec:prepositions-dative-antipassive; @sec:preverb-dative-applicative] for detailed discussion. Similar to intransitives, the dative verbs with a *haben* Perfect, like *antworten* 'to answer' [@next a], do not allow for a construction with an adnominal participle [@next b], but the impersonal *werden* passive is possible [@next c].
+Verbs with a dative argument are strictly split between *sein* and *haben*. There do not appear to be any verbs that allow for both. The grammatical status of the datives is slightly different among these verbs (, see [@sec:case-nominative-dative; @sec:case-dative-drop; @sec:prepositions-dative-antipassive; @sec:preverb-dative-applicative] for detailed discussion). Similar to intransitives, the dative verbs with a *haben* Perfect, like *antworten* 'to answer' [@next a], do not allow for a construction with an adnominal participle [@next b], but the impersonal *werden* passive is possible [@next c].
 
 ::: ex
 a. Die Professorin hat dem Student geantwortet.
@@ -818,7 +807,7 @@ c. Heute wird dem Student geantwortet.
 
 ### [ ND | ND ] *sein + Partizip* Dative perfect
 
-Similar to intransitives, the dative-verbs with *sein* like *gelingen* 'to succeed' [@next a] all appear to allow a construction with an adnominal participle [@next b], while the impersonal *werden* passive is not possible [@next c].
+Similar to intransitives, the dative-verbs with *sein*, like *gelingen* 'to succeed' [@next a], all appear to allow a construction with an adnominal participle [@next b], while the impersonal *werden* passive is not possible [@next c].
 
 ::: ex
 a. Das Gemälde ist mir gelungen.
@@ -859,7 +848,7 @@ a. Er hat einen Brief geschrieben.
 b. Der Brief ist geschrieben.
 :::
 
-### [ NA | NA ] *sein + Partizip* Transitive perfect
+### [ NA | NA ] *sein + Partizip* Transitive perfect {#sec:participles-sein-transitive-perfect}
 
 There is only a very small group of transitive verbs that use only *sein* in the perfect, like *angehen* 'to tackle' or *loswerden* 'to get rid of' [cf. @grewendorf1989: 9; @strobl2007: 102, 107ff.].
 
@@ -1270,7 +1259,7 @@ Nicht immer bei transitiv:
 Zustandspassiv: ähnlich zu adjektivische Prädikatskonstruktion (*Die Tür ist gelb*). Explizit nicht mit *geworden*
 weil dann Perfekt des *werden* Passiv (cf. Maienborn). [@maienborn2007]
 
-see also [@nedjalkov1988a]
+see also [@nedjalkov1988a], [@rapp1996]
 
 => 'resultative' Bedeutung: Kompatibel mit "schon seit zwei Tage" (typisch 'sein'-Passiv?)
 => 'perfektive' Bedeutung: Kompatibel mit "schon vor zwei Tage" (typisch 'werden'-Passiv?) (schon gestern)
