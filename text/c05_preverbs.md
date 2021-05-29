@@ -76,7 +76,7 @@ a. Der Rüpel hat mich angetanzt. \
 b. Das Brautpar hat den Ball angetanzt. \
    (= durch tanzen den Ball anfangen, cf. [@sec:preverb-applicative] with *auf*)
 c. Der Junge kam angetanzt. \
-   (= tanzend hinbewegen, cf. [@sec:participles-kommen-an])
+   (= tanzend hinbewegen, cf. [@sec:participles-kommen])
 d. Ich habe mir ein kaputtes Knie angetanzt. \
    (= durch tanzen etwas erreichen, cf [@sec:preverb-reflexive-resultative])
 e. Ich haben gegen die Resignation angetanzt. \
