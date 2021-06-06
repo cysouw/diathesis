@@ -612,7 +612,7 @@ There is a strong semantic tendency for the intranstives with *sein* to be more 
 
 **Attested Verbs**
 
-- monomorphemic: *bersten, beuteln, bleiben, bleichen, dorren, fallen, fliehen, fließen, flüchten, gehen, gleiten, kentern, kommen, krepieren, platzen, prallen, quellen, reifen, schlüpfen, scheitern, schreiten, schrumpfen, sein, sinken, sprießen, steigen, sterben, stolpern, strömen, traben, wachsen, weichen, werden*
+- monomorphemic: *bersten, beuteln, bleiben, dorren, fallen, fliehen, fließen, flüchten, gehen, gleiten, kentern, kommen, krepieren, platzen, prallen, quellen, reifen, schlüpfen, scheitern, schreiten, schrumpfen, sein, sinken, sprießen, steigen, sterben, stolpern, strömen, traben, wachsen, weichen, werden*
 - with fixed prefix: *degenerieren, detonieren, gedeihen, gelangen, genesen, geschehen, explodieren*
 - with preverb: *abbiegen, abhauen (weglaufen), abmagern, abreisen, absaufen, absteigen, abstürzen, anbrennen, ankommen, anschwellen, ansteigen, auffallen, aufstehen, aufsteigen, auftreten, aufwachen, aufwachsen, ausbleiben, ausbrechen, ausfallen, ausgehen, auslaufen, aussteigen, auswandern, ausweichen, ausziehen (wohnen), beitreten, ˈdurchlaufen, ˈdurchsickern, ˈdurchfallen, ˈdurchgehen, eindringen, einfließen, einfrieren, einkehren, einreisen, einrosten, einschlafen, einsteigen, einstürzen, eintauchen, eintreffen, eintreten, emigrieren, entbrennen, entfliehen, entkommen, entstehen, erfrieren, erkranken, erlöschen, ermüden, erschallen, erscheinen, ertrinken, fehlschlagen, herumgehen, hinfallen, mitgehen, mitkommen, nachkommen, stehenbleiben, ˈumfallen, ˈumsiedeln, ˈumziehen, ˈuntergehen, ˈuntertauchen, ˈüberkochen, verbleiben, verblühen, verbluten, verdampfen, verfaulen, verfallen, verhungern, verreisen, verrosten, verrutschen, verschimmeln, verschwinden, versinken, versterben, vertrocknen, verwelken, vorgehen, vorkommen, wegfallen, weggehen, weglaufen, wegrennen, zerfallen, zerrinnen, zufrieren, zuwachsen, zurückfahren, zurückgehen, zurückkommen, zurücklaufen, zurückrennen*
 
@@ -811,7 +811,7 @@ c. Er ist aufgeregt (wegen den Lärm).
 - Der Globus hat sich gedreht. Der Globus ist gedreht.
 - Er hat sich ausgeschlafen. Er ist ausgeschlafen.
 
-### [ ND | ND ] *haben + Partizip* Dative perfect
+### [ ND | ND ] *haben + Partizip* Dative perfect {#sec:participle-haben-perfect-dative}
 
 Verbs with a dative argument are strictly split between *sein* and *haben*. There do not appear to be any verbs that allow for both. The grammatical status of the datives is slightly different among these verbs (, see [@sec:case-nominative-dative; @sec:case-dative-drop; @sec:prepositions-dative-antipassive; @sec:preverb-dative-applicative] for detailed discussion). Similar to intransitives, the dative verbs with a *haben* Perfect, like *antworten* 'to answer' [@next a], do not allow for a construction with an adnominal participle [@next b], but the impersonal *werden* passive is possible [@next c].
 
@@ -825,7 +825,7 @@ c. Heute wird dem Student geantwortet.
 
 - *ähneln, angehören, antworten, beiliegen, beipflichten, bevorstehen, dienen, einleuchten, entsprechen, fehlen, gefallen, gehören, gelten, gleichen, gratulieren, helfen, imponieren, liegen (natürliche Begabung), missfallen, nacheifern, passen, schaden, schmecken, sitzen, trauen, vertrauen, zuhören, zureden*
 
-### [ ND | ND ] *sein + Partizip* Dative perfect
+### [ ND | ND ] *sein + Partizip* Dative perfect {#sec:participle-sein-perfect-dative}
 
 Similar to intransitives, the dative-verbs with *sein*, like *gelingen* 'to succeed' [@next a], all appear to allow a construction with an adnominal participle [@next b], while the impersonal *werden* passive is not possible [@next c].
 
@@ -1007,7 +1007,7 @@ The following attested verbs are only illutrative examples taken from the data a
 
 ### [ N | N ] *kommen + Partizip* Movement {#sec:participles-kommen}
 
-The *kommen + Partizip* construction [@next a] is very similar to a main verb *kommen* 'to come' with a secondary adverbial predicate [@nnext a]. Rothstein [@rothstein2007a; @rothstein2011] observed various structural differences between these constructions (see also the general discussion about participleas as secondary predicates in [@sec:participles-secondary-predicates]). The *kommen + Partizip* construction, like with *hüpfen* 'to hop', can be identified by the impossibility of adding the negating *un-* prefix to the participle [@next b] and by the clause-final position [@next c,d]. With secondary predicates like *verkleidet* 'dressed up' these syntactic characteristics are reversed [@nnext b-d]. 
+The *kommen + Partizip* construction [@next] is very similar to a main verb *kommen* 'to come' with a secondary adverbial predicate [@nnext]. Rothstein [@rothstein2007a; @rothstein2011] observed various structural differences between these constructions (see also the general discussion about participleas as secondary predicates in [@sec:participles-secondary-predicates]). The *kommen + Partizip* construction, like with *hüpfen* 'to hop', can be identified by the impossibility of adding the negating *un-* prefix to the participle [@next b] and by the clause-final position of the participle [@next c,d]. With secondary predicates like *verkleidet* 'dressed up' these syntactic characteristics are reversed [@nnext b-d]. 
 
 ::: ex
 - Er kommt gehüpft.
@@ -1038,7 +1038,7 @@ The *kommen + Partizip* construction is typically attested with intransitive ver
 - Er kam mir nachgelaufen
 :::
 
-A widely-discussed special variant is the construction with participles with a preverb *an-* [see @eisenberg2006: 266; @rothstein2007a: 162; @felfe2012: 194, 241]. Many of these *an-* verbs are only possible in this construction, i.e. they do not occur in finitie clauses [@rothstein2007a: 162]. Besides  with movement verbs like *reiten* 'to ride on horsback' [@next a], the *an-* construction also occurs with sound production verbs like *keuchen* 'to pant' [@next b]. These two possibilities are related to the manner-of-movement construction, see [@sec:prepositions-manner-of-movement], and the manner-of-speaking construction, see [@sec:case-accusative-addition].
+A widely-discussed special variant is the construction with participles with a preverb *an-* [see @eisenberg2006: 266; @rothstein2007a: 162; @felfe2012: 194, 241]. Many of these *an-* verbs are only possible in this construction, i.e. they do not occur in finite clauses [@rothstein2007a: 162]. Besides  with movement verbs, like *reiten* 'to ride on horsback' [@next a], the *an-* construction also occurs with sound production verbs, like *keuchen* 'to pant' [@next b]. These two possibilities are related to the manner-of-movement construction, see [@sec:prepositions-manner-of-movement], and the manner-of-speaking construction, see [@sec:case-accusative-addition].
 
 ::: ex
 - Er kommt angeritten. \
@@ -1136,81 +1136,120 @@ The *setzen + Partizip* construction appears to be only possible with the verb *
 
 ### [ N | – ] *werden + Partizip* Impersonal passive {#sec:participles-werden-impersonal-passive}
 
-note future meaning of adjective + werden!
-
-Ohne Subjekt *es*
-
-- Ich schenke dir Bücher. Geschenkt wird erst morgen.
-- In dieser Familie wird erst am 1. Weihnachtstag geschenkt.
-
-Wahrscheinlich nur möglich wenn Bare Antipassiv möglich ist: Ist das ein möglicher Test für obligatorische Akkusative?
-
-- Ich beschädige den alten Tisch.
-- ? Ich beschädige gerne.
-- ? Hier wird immer beschädigt.
+The impersonal passive is a widely discussed phenomenon in German grammar that occurs with some intransitive verbs.
 
 Auch für Intransitiva, aber nicht alle! nur agentiv
 
-- Die Jungs tanzen hier. Hier wird getanzt.
-- Ich bin eingeschlafen. * Hier wird eingeschlafen/verrostet/angekommen
+A special and very atypical characteristic of this diathesis is that there is no grammatical subject expressed. Typically in German, when a subject is dropped, then a valency-simulating pronoun *es* is inserted (see [@sec:intro-es]). However, in this diathesis any pronoun *es* is only position-simulating (i.e. it occurs when the first position of the sentence (*Vorfeld*) is empty). In contrast, when the first position is filled, the pronoun *es* is absent [@next b].
 
-Nicht immer bei *haben* intransitiv?
+::: ex
+- Das kleine Kind schläft.
+- Es wird jetzt geschlafen. \
+  Jetzt wird (*es) geschlafen.
+- Das kleine Kind schläft ein.
+- ^* Jetzt wird eingeschlafen.
+:::
 
-- garantieren, halten, werden
-- wetter verben: regnen, schneien, wehen
-- stören, nerven
-- Bodily Sensations: *bluten, frieren, jucken, schmerzen, schwellen, tränen*
-- Natural Processes: *blühen, dampfen, rosten, stinken*
-- Others: *langen*
+This diathesis has become famous in grammatical discussion becuase of the claimed correlation with unaccusativity (see [@sec:participles-restrictions]). Basically, the claim is that there is a correlation between the *sein/haben* selection in the Perfect and the possibility of the *werden* impersonal passive. Concretely, the claim is that (agentive) intransitive verbs with *haben* allow for the impersonal passive, while (patientive) intransitive verbs with *sein* do not. Although there indeed seems to be a tendency here, there are many counterexamples. For example, for verbs with *haben* like *lügen* 'to lie', *jucken* 'to itch' or *blühen* 'to blossom' it appears to be neigh impossible to use an impersonal passive. Possible examples are attested only with additional modal verbs like *können* or *dürfen* [@next].
 
-Die Zeit, 16.12.1983, Nr. 51
-In den Rieselfeldern Kann ungehemmt gestunken und gelärmt werden.
+::: ex
+- In den Rieselfeldern kann ungehemmt gestunken und gelärmt werden.^[DWDS: Die Zeit, 16.12.1983, Nr. 51]
+- Im Gericht gibt es Fragen, bei denen gelügt werden darf.^[http://www.rhetorik.ch/Aktuell/11/01_27/index.html, accessed June 4, 2021]
+:::
 
-frieren: Die Erdbeeren werden gefroren (eingefroren?)
+In contrast, intransitive verbs with *sein* mostly do not allow for the impersonal passive, though examples can be found rather easily in corpora [@next]. This phenomenon clearly needs more in-depth corpus research.
 
-- In diesem Haus wird gefroren
-- In dem Film wird viel geblutet
-- Es darf geblüht werden
+::: ex
+- Lange Zeit weiß niemand - Patrick eingeschlossen - wovor hier eigentlich geflohen wird.^[DWDS: Der Tagesspiegel, 05.01.2002]
+- Außerdem: Wie brutal ist das Betrachten eines Regenbogens, wenn nebenan krepiert wird?^[DWDS: Arjouni, Jakob: Chez Max, Zürich: Diogenes 2006, S. 61]
+- Auch 2001 soll mit zweistelliger Rate weiter gewachsen werden.^[DWDS: Berliner Zeitung, 30.05.2001]
+- In meiner Umgebung wird nicht gestorben.^[DWDS: Die Zeit, 05.03.2017]
+:::
 
-Wie mit NP verben? geht. aber schwierig
+In very special contexts this impersonal construction also seems possible with transitive verbs with accusative arguments like *überarbeiten* 'to rework' [@next a] or even ditransitive verbs like *geben* 'to give [@next b]. However, note that in all such cases it appears to be impossible to retain any of the non-subject arguments, so these impersonal passives can be analysed as being stacked on top of an action focus diathesis (see [@sec:adverbial-action-focus]) dropping the accusative role and leading to an intransitive verb.
 
-- früher wurde auf einer Hochzeit bestanden.
-- ? Es wird in der Klemme geraten.
+::: ex
+- Ich überarbeite den Aufsatz. \
+  Morgen wird überarbeitet!
+- Ich schenke dir die Bücher. \
+  Geschenkt wird erst morgen.
+- ^* Erst morgen wird dir geschenkt.
+:::
 
-Keine Argumentvererbung: nur Agens kann (mit Mühe) erhalten bleiben als 'durch' PP)
+There is a recurrent usage of the term *Reflexivpassiv* in the German grammatical literature [e.g. @eisenberg2006a: 131; @lasch2016: 119]. This does not appear to be a special diathesis, but rather a side-effect of the occurence of a reflexive pronoun. For example, verbs with obligatory reflexive pronouns retain this reflexive pronoun in an impersonal passive, like *konzentrieren* 'to concentrate' [@next a], see [@sec:reflexive-obligatory-accusative-reflexive ff.]. Also sentence constructions that include a reflexive pronoun because of another diathesis can be used with an impersonal passive (i.e. stacking of diatheses). For example *kümmern* 'to worry, to take care' [@next b] shows a conversive diathesis with an reflexive pronoun (see [@sec:reflexive-preposition-passive]) and retains this reflexive pronoun in an impersonal passive. Also regular 'self-inflicting' reflexive constructions can retain the reflexive pronoun. In summary, the *Reflexivpassiv* is not a separate phenomenon and the term should not be used.
 
-- Ich schenke dir zwei Bücher.
-- ? Hier wird geschenkt (durch die Eltern).
-- ^* Hier wird dir von mir zwei Bücher geschenkt (plural 'werden' notwendig!?)
-
-"Reflexivpassiv" only with obligatorily reflexive verrbs [@eisenberg2006a: 131]
-
-- Es wird sich jetzt endlich beeilt/entschlossen/vertragen/gekümmert
-- Hier wird sich nicht verkrochen/angestellt/verweigert
-
-[@lasch2016: 119] "Reflexivpassiv" also with regular 'self-inflicting' reflexive constructions
-
-- heute wird sich rasiert.
+::: ex
+- Die Regierung hat sich konzentriert auf die systemrelevanten Banken. \
+  Zunächst solle sich auf die systemrelevanten Banken konzentriert werden.^[DWDS: Die Zeit, 11.09.2012, Nr. 37]
+- Ich kümmere mich darum. \
+  Es wird sich jetzt endlich darum gekümmert.
+- Ich rasiere mich. \
+  Heute wird sich rasiert.
+:::
 
 ### [ ND | –D ] *werden + Partizip* Impersonal passive + dative
 
-Nicht bei *haben* verben mit Dativ argumente, nur wenige Ausnahmen.
+Only a small subset of all verbs with a dative argument allow for an impersonal passive. Although this appears to be slightly more common for verbs with a *haben* Perfect, like *entsprechen* 'to conform' or *helfen* 'to help' [@next], cf. [@sec:participle-haben-perfect-dative], there are also verbs with a *sein* Perfect that allow for an impersonal passive, like *enfliehen* 'to flee' or *beitreten* 'to join' [@nnext], cf. [@sec:participle-sein-perfect-dative].
 
-- Ihm wird geholfen/geantwortet/entsprochen/gratuliert/nachgeeifert/getraut
+::: ex
+- Seiber Bitte wird entsprochen.
 - Den Eltern wurde geholfen.
+:::
 
-With *sein*-dative verbs it seems to be even rarer, it at all possible
-
+::: ex
 - Dem Gefängnis wird entflohen.
 - Dem Verein wird beigetreten.
+:::
+
+**Attested Verbs**
+
+- *haben* Perfect: *antworten, beipflichten, bevorstehen, entsprechen, gratulieren, helfen, nacheifern, trauen, vertrauen, zuhören, zureden*
+- *sein* Perfect: *beitreten, folgen, nachgehen*
+
+**Examples**
+
+- Auch in diesem Fall wird dem Gesprächspartner zuerst beigepflichtet, indem [...].^[https://wortwuchs.net/stilmittel/concessio/, accessed 6 Juni 2021]
+- Ich weiß nicht, wie weit dem Zola-Roman gefolgt wird.^[DWDS: Klemperer, Victor: [Tagebuch] 1928. In: "Leben sammeln, nicht fragen wozu und warum", Berlin: Aufbau-Taschenbuch-Verl. 2000, S. 258]
+- Ich habe angeordnet, daß allen Spuren […] nachgegangen wird."^[DWDS: Der Spiegel, 16.01.1989]
 
 ### [ NP | –P ] *werden + Partizip* Impersonal passive + governed preposition
 
-- Auf den Professor wurde gewartet.
+Many, but not all, verbs with goverened prepositions (but without accusative arguements, cf [@sec:prepositions-governed-drop]) appear to allow for an impersonal passive, like *warten auf* 'to wait for' or *arbeiten an* 'to work on' [@next]. Note that these verbs all take a *haben* Perfekt.
+
+::: ex
+- Auf dem Professor wurde gewartet.
+- An dem Aufsatz wurde gearbeitet.
+::: 
+
+Many, but not all, verbs that allow for a reflexive conversive diathesis, like *empören* 'to appal' or *aufregen* 'to upset' [@next], cf. [@sec:reflexive-preposition-passive], also allow for a impersonal passive in the reflexive usage.
+
+::: ex
+- Über die Zerstörung der Schöpfung […] wird sich empört.^[DWDS: Berliner Zeitung, 24.11.2003]
+- In braver Einigkeit wird sich darüber aufgeregt, dass die Debattenkultur in Deutschland zu lahm, zu konsensuell, zu träge geworden sei.^[DWDS: Die Zeit, 12.09.2017]
+:::
+
+**Attested Verbs**
+
+Governed preposition verbs ([@sec:prepositions-governed-drop])
+
+- *über*  : *herrschen, siegen, triumphieren, lügen, reden, sprechen, schweigen, denken, meditieren, nachdenken, klagen, lachen, schimpfen, staunen, streiten, weinen*
+- *auf*   : *drängen, hoffen, rechnen, verzichten, warten, schimpfen*
+- *an*:   : *arbeiten, denken, klopfen, teilnehmen, zweifeln*
+- *um*:   : *streiten*
+
+Reflexive conversive verbs ([@sec:reflexive-preposition-passive])
+
+- *über*  : *aufregen, ärgern, begeistern, beschweren, empören, freuen, wundern*
+- *um*    : *kümmern*
+
+**Examples**
+
+- Als Erstes wird sich allgemein darüber gewundert, wie anders man doch aussehe und dass man sich dennoch wieder erkannt habe.^[DWDS: Berliner Zeitung, 01.12.2004]
+- Wenn du etwas falsch machst, wird sich um dich gekümmert.^[DWDS: Die Zeit, 24.09.2015]
 
 ### --- [ OBJ > SBJ > Ø ] --- {.unnumbered}
 
-### [ NA | –N ] *bleiben + Partizip* anticausative (*Kontinuativantikausativ*) {#sec:participles-bleiben-transitive}
+### [ NA | –N ] *bleiben + Partizip* Anticausative (*Kontinuativantikausativ*) {#sec:participles-bleiben-transitive}
 
 The construction *bleiben + Partizip* is both used with intransitive verbs (see [@sec:participles-bleiben-intransitive]) and with transtive verbs (this section). The verb *bleiben* has even more uses as a light verb (see [@sec:infinitive-bleiben; sec:zuinfinitive-bleiben; sec:zuminfinitive-bleiben]) and it can also be used as a main verb with a meaning 'to remain'. This widespread usage has lead to quite some discussion in the German grammatical literature about the unity of all these constructions [@eroms2000: 404; @helbig2001: 163; @kramer2004; @schlucker2007: 152; @lasch2016: 72]. Following the general approach in this book, all constructions are discussed separately. However, this is no way precludes any underlying connection between them.
 
@@ -1243,38 +1282,9 @@ Third, *bleiben + Partizip* is only possible with a small subset of all verbs th
 - Der Fußballer bleibt verwarnt
 - Das Fass bleibt gefüllt.
 
-### [ NA | –N ] *geben/zeigen + Partizip* Reflexive anticausative (*Präsentativantikausativ*) {#sec:participles-geben-reflexive-anticausative}
-
-geben Mit reflexivprononem!
-
-- Jemand schlägt ihn -> Er ist geschlagen -> Er gibt sich geschlagen
-- Er gibt sich geschlagen/besiegt (Jemand besiegt ihn)
-
-"state-of-mind": *geschlagen, entspannt, aufgeklärt*
-
-many not as finite verbs: *reserviert, gelöst, aufgeräumt*
-
-sowohl passives 'hingeben' (gibt sich geschlagen), wie auch aktives 'sich vortun' (gibt sich aufgeräumt)
-
-- Er gibt sich regional verwurzelt
-
-- Die Stille entspannt ihn. Er gibt sich entspannt.
-
-With *gewonnen*, the accusative of active is inanimate, while anticausative is animate!
-
-- Er gewinnt den Kampf. Er gibt sich gewonnen
-
-zeigen: *motivieren, überzeugen, erfüllen, befriedigen, ermutigen*
-
-Etwas motiviert das Orchester.
-Auch das Orchester zeigte sich motiviert.^[~~DWDS~~: Die Zeit, 08.04.1999, Nr. 15]
-
 ### [ NA | –N ] *aussehen/(er)scheinen/wirken + Partizip* Anticausative (*Apparitivantikausativ*) {#sec:participles-aussehen-anticausative}
 
 lat. apparere 'to appear'
-
-
-
 
 The retention of the agent seems possible using a *von* phrase, though examples are very rare [@next]. Note that examples with *wie von* phrases have to be discarded, as such phrases do not instantiate an agent.
 
@@ -1321,6 +1331,32 @@ The following attested verbs are only illutrative examples taken from the data a
 - *scheinen* : *abschließen, andeuten, anordnen, aufführen, aufgeben, aufheben, auflösen, aufrufen, aufzeichnen, ausschalten, ausschließen, beabsichtigen, beenden, begeistern, begründen, beseitigen, bestehlen, bestimmen, betreffen, einbetten, entfernen, entleihen, entscheiden, enttäuschen, erfinden, erledigen, erlöschen, erreichen, erschöpfen, falsifizieren, fassen, gebieten, hüllen, klären, lösen, machen, niederdrücken, retten, schließen, sichern, stützen, treffen, treiben, überfordern, überstehen, überwinden, überzeugen, umwittern, verbinden, verbreiten, verlieren, verstören, verwirklichen, vorzeichnen, wagen, wählen, würdigen, ziehen*
 - *wirken* : *ankleben, ankreiden, anspannen, aufmalen, auszeichnen, blockieren, darstellen, deplatzieren, deprimieren, entkrampfen, erleichtern, ermatten, hacken, kalkulieren, konstruieren, machen, pflegen, planen, quälen, rupfen, schreiben, stressen, überladen, übertreiben, verändern, verbergen, verfehlen, verkümmern, verlieren, verschließen, verstören, verzerren, zeichnen, zerfetzen, zersplittern, zurechstützen, zusammenhauen, zusammensuchen*
 
+### [ NA | –N ] *geben/zeigen + Partizip* Reflexive anticausative (*Präsentativantikausativ*) {#sec:participles-geben-reflexive-anticausative}
+
+geben Mit reflexivprononem!
+
+- Jemand schlägt ihn -> Er ist geschlagen -> Er gibt sich geschlagen
+- Er gibt sich geschlagen/besiegt (Jemand besiegt ihn)
+
+"state-of-mind": *geschlagen, entspannt, aufgeklärt*
+
+many not as finite verbs: *reserviert, gelöst, aufgeräumt*
+
+sowohl passives 'hingeben' (gibt sich geschlagen), wie auch aktives 'sich vortun' (gibt sich aufgeräumt)
+
+- Er gibt sich regional verwurzelt
+
+- Die Stille entspannt ihn. Er gibt sich entspannt.
+
+With *gewonnen*, the accusative of active is inanimate, while anticausative is animate!
+
+- Er gewinnt den Kampf. Er gibt sich gewonnen
+
+zeigen: *motivieren, überzeugen, erfüllen, befriedigen, ermutigen*
+
+Etwas motiviert das Orchester.
+Auch das Orchester zeigte sich motiviert.^[~~DWDS~~: Die Zeit, 08.04.1999, Nr. 15]
+
 ### [ NA | –N ] *stehen + Partizip* Anticausative
 
 Some instances of *stehen* with a participle appear to have an anticausative effect. However, such examples are quite rare and also rather idiomatic.
@@ -1361,6 +1397,8 @@ Nicht immer bei transitiv:
 - freuen (Die Nachricht freut mich / * Ich werde gefreut)
 - kennen (Ich kenne den Mann / * Der Mann wird gekannt)
 - wundern (Sein Verhalten wundert mich / * ich werde gewundert)
+
+not possible with [@sec:reflexive-preposition-passive] ????
 
 ### [ NA | pN ] *sein + Partizip* Passive (*Zustandspassiv*) {#sec:participles-sein-zustandspassiv}
 

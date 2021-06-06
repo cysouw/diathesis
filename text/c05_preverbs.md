@@ -1124,11 +1124,11 @@ Lipka [-@lipka1972: 93, 173] calls this diathesis 'Objektvertauschung' and McInt
 
 **Attested Verbs**
 
-- beˈ-   : *erben*
-- zerˈ-  : *fressen*
+- beˈ-   : *erben, rauben, stehlen*
+- zerˈ-  : *beißen, drücken, fressen, kauen*
 - überˈ- : *schwemmen*
 - ˈaus-  : *klopfen, lecken, packen, pressen, pumpen, rauben, schütten, trinken*
-- ˈan-   : *werfen*
+- ˈan-   : *fahren, werfen*
 - ˈab-   : *bürsten, ziehen*
 - ˈauf-  : *gießen*
 - ˈein-  : *packen, räumen*
