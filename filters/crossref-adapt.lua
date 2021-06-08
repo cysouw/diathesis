@@ -51,17 +51,15 @@ function changeEqID (span)
 end
 
 function changeLinks (link)
-  local prefix = ""
   if string.sub(link.target,1,5) == "#sec:" then
-    prefix = secPrefix
+    link.target = "#"..secPrefix..pandoc.utils.stringify(link.content)
   elseif string.sub(link.target,1,5) == "#tbl:" then
-    prefix = tblPrefix
+    link.target = "#"..tblPrefix..pandoc.utils.stringify(link.content)
   elseif string.sub(link.target,1,5) == "#fig:" then
-    prefix = figPrefix
+    link.target = "#"..figPrefix..pandoc.utils.stringify(link.content)
   elseif string.sub(link.target,1,4) == "#eq:" then
-    prefix = eqPrefix 
+    link.target = "#"..eqPrefix..pandoc.utils.stringify(link.content)
   end
-  link.target = "#"..prefix..pandoc.utils.stringify(link.content)
   return link
 end
 
