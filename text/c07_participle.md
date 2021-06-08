@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The term ~~participle~~ is used here as a name for a verb form known in German grammar as *Partizip II*, for example a verb form like *geschrieben* 'written' in [@next]. There is another *Partizip*, known in German grammar as *Partizip I*, but this word form plays a much more restricted role in the expression of diatheses and will be discussed separately in Chapter [-@sec:adj]. Constructions consisting of a participle combined with an auxiliary-like 'light' verb (i.e. a verb with limited lexical meaning) are manifold in German. They include constructions without diathesis, like the German *haben + Partizip* ~~Perfekt~~ [@next a], and constructions with diathesis, like the *werden + Partizip* ~~Vorgangspassiv~~ [@next b]. 
+The term ~~participle~~ is used here as a name for a verbform known in German grammar as *Partizip II*, for example *geschrieben* 'written' in [@next]. There is another *Partizip*, known in German grammar as *Partizip I*, but this word form plays a much more restricted role in the expression of diatheses and will be discussed separately in Chapter [-@sec:adj]. Constructions consisting of a participle combined with an auxiliary-like 'light' verb (i.e. a verb with limited lexical meaning) are manifold in German. They include constructions without diathesis, like the German *haben + Partizip* ~~Perfekt~~ [@next a], and constructions with diathesis, like the *werden + Partizip* ~~Vorgangspassiv~~ [@next b]. 
 
 ::: ex
 a. Ich habe einen Brief geschrieben.
@@ -57,7 +57,7 @@ German participles – in German grammar idiosyncratically known as *Partizip II
 - Typically, participles have a prefix *ge-*, like in *ge-kauf-t* (stem *kauf*), except when the stem already contains one of the prefixes *be-, er-, ver-, zer-, ent-*, like in *verkauf-t*. The prefix will appear between the stem and so-called verb particles *an-, ein-, vor*, etc., like in *ein-ge-kauf-t*.
 - Typically, participles have a suffix *-t*, like in *ge-kauf-t*, in some phonological surroundings with an epenthetic schwa, like in *ge-wart-et* (stem: *wart*). In a large, but closed, class of verbs the suffix is *-en*, like in *ge-lauf-en* (stem *lauf*), often combined with ablaut of the stem vowel, like in *ge-fund-en* (stem *find*).
 
-The allomorphs without *ge-* lead to another problem, because such participles are identical to third person singular finite verb forms (or first person plural when ending in *-en*). In [@next a] the word form *verkauft* is a finite third person singular, while in [@next b] it is a participle. However, given that the finite verbs show agreement with the subject, checking a different subject easily differentiates between these two homonyms, e.g. in the first person singular the finite verb changes to *verkaufe* [@next c], while the participle remains unchanged [@next d].
+The allomorphs without *ge-* lead to another problem, because such participles are identical to third person singular finite verb forms (or first person plural when ending in *-en*). In [@next a] the wordform *verkauft* is a finite third person singular, while in [@next b] it is a participle. However, given that the finite verbs show agreement with the subject, checking a different subject easily differentiates between these two homonyms, e.g. in the first person singular the finite verb changes to *verkaufe* [@next c], while the participle remains unchanged [@next d].
 
 ::: ex
 a. Er verkauft das Haus.
@@ -66,7 +66,7 @@ c. Ich verkaufe das Haus.
 d. Ich habe das Haus verkauft.
 :::
 
-The formation of participles is highly productive in German. Every verb stem (i.e. every stem that can be used with person-inflected finite morphology) allows for the formation of a participle. The formation of participles is so productive that speakers have no problem producing participles for newly invented pseudo-words. The reversal is not true though, as there exist many participles that do not have corresponding finite verb forms (see [@sec:participles-no-alternation]).^[Latzel [-@latzel1977: 73-76, citing and discussing data from Mater 1969 ] lists various verbs that do not allow for a participle. Most examples are very unusal verbs (e.g. *ornamentieren, leiben*), and most of the verbs listed clearly have participles (e.g. *ankeuchen: er kommt angekeucht; gutachten: ich habe gegutachtet; worthalten: ich habe wortgehalten*). The best examples of verbs without participles appear to be verbs with incorporated objects (e.g. *bausparen, wettlaufen*) that neither can be used in finite forms, nor as participle, but only as an infinitive. In these cases it is even questioniable whether these words should be classified as verbs at all. Some participles indeed appear to be very rare, like with *stammen, ^?^gestammt* 'to originate from' or *wogen, ^?^gewogt* 'to undulate'. However, examples are attested in corpora, e.g. *Wir haben keinen Hinweis darauf, woher der Geruch gestammt haben könnte* (~~DWDS~~: Die Zeit, 29.12.2014 online) or *Getanzt wird auch im Stehen nicht, nur gewogt.* (~~DWDS~~: Die Zeit, 16.04.2015, Nr. 16).]
+The formation of participles is highly productive in German. Every verb stem (i.e. every stem that can be used with person-inflected finite morphology) allows for the formation of a participle.^[Latzel [-@latzel1977: 73-76, citing and discussing data from Mater 1969 ] lists various verbs that do not allow for a participle. Most examples are very unusal verbs (e.g. *ornamentieren, leiben*), and most of the verbs listed clearly have participles (e.g. *ankeuchen: er kommt angekeucht; gutachten: ich habe gegutachtet; worthalten: ich habe wortgehalten*). The best examples of verbs without participles appear to be verbs with incorporated objects (e.g. *bausparen, wettlaufen*) that neither can be used in finite forms, nor as participle, but only as an infinitive. In these cases it is even questioniable whether these words should be classified as verbs at all. Some participles indeed appear to be very rare, like with *stammen, ^?^gestammt* 'to originate from' or *wogen, ^?^gewogt* 'to undulate'. However, examples are attested in corpora, e.g. *Wir haben keinen Hinweis darauf, woher der Geruch gestammt haben könnte* (~~DWDS~~: Die Zeit, 29.12.2014 online) or *Getanzt wird auch im Stehen nicht, nur gewogt.* (~~DWDS~~: Die Zeit, 16.04.2015, Nr. 16).] The formation of participles is so productive that speakers have no problem producing participles for newly invented pseudo-words. The reversal is not true though, as there exist many participles that do not have corresponding finite verb forms (see [@sec:participles-no-alternation]).
 
 ### Syntactic functions of participles
 
@@ -76,7 +76,7 @@ Participles, like *geputzt* 'cleaned' in [@next], can be used in three different
 a. Das geputzte Haus erstrahlt im Sonnenlicht.
 b. Er verkauft das Haus geputzt.
 c. Er hat das Haus geputzt.
-c. Das Haus wird geputzt.
+d. Das Haus wird geputzt.
 :::
 
 Arguably, these three functions are part of the spectrum of uses that are also available to German adjectives, like *leer* 'empty' in [@next]. Basically then, participles are morphologically derived verb forms that are syntactically alike to adjectives.
@@ -349,7 +349,7 @@ a. Mein Fahrrad erscheint schmutzig.
 a. Mein Fahrrad sieht schmutzig aus.
 :::
 
-The light verbs *geben* and *machen* both occur with reflexive pronouns and participles. With adjectives there are of course no reflexive pronouns present.
+The light verbs *geben* and *machen* both occur with reflexive pronouns and participles.
 
 ::: ex
 a. Er ist weltoffen. \
@@ -462,9 +462,9 @@ c. Er ist verhasst.
 
 **Attested Participles**
 
-- *ge-*  : geblümt, geflügelt, gelaunt, genarbt, geschweift, gesittet, gestreift, gezackt
-- *be-*  : begabt, behaart, berindet, beschürzt, besternt
-- *ver-* : verhasst, verblümt, verwitwet
+- *ge-*  : *geblümt, geflügelt, gelaunt, genarbt, geschweift, gesittet, gestreift, gezackt*
+- *be-*  : *begabt, behaart, berindet, beschürzt, besternt*
+- *ver-* : *verhasst, verblümt, verwitwet*
 
 **Notes**
 
@@ -986,19 +986,19 @@ Similar to the previous construction, the *lassen + Partizip* construction also 
 
 ### --- Others --- {.unnumbered}
 
-### [ N | N ] *aussehen/(er)scheinen/wirken + Partizip* Intransitive appearance {#sec:participles-scheinen-intransitive}
+### [ N | N ] *aussehen/(er)scheinen/wirken + Partizip* Intransitive appearance (*Apparitivperfekt*) {#sec:participles-scheinen-intransitive}
 
-The verbs *aussehen, scheinen, erscheinen, wirken* can be used with intransitive participles to describe the appearance of an event [@next]. Such constructions are analysed by Lasch [-@lasch2016: 253ff.] as *Askription mit modaler Relation*. With transitive participles these constructions lead to an anticausative diathesis, see [@sec:participles-aussehen-anticausative]. This construction is discussed in more depth in that section.
+The verbs *aussehen, scheinen, erscheinen, wirken* can be used with intransitive participles to describe the appearance of an event [@next]. Such constructions are analysed by Lasch [-@lasch2016: 253ff.] as *Askription mit modaler Relation*. For the German grammatical discussion, I propose to use the latinate name ~~apparitivperfekt~~ from lat. *apparere* 'to appear'. There is a close semantic connection to the *sein* Perfekt as shown by the compatibility with a durative temporal adverb like *seit gestern* [@next b]. With the light verbs *scheinen* and *erscheinen* an experiencer dative is regularly attested [@next c]. With transitive participles these constructions lead to an anticausative diathesis, see [@sec:participles-aussehen-anticausative]. This construction is discussed in more depth in that section. 
 
 ::: ex
 a. Die Pflanze wächst.
-b. Die Pflanze scheint/wirkt gewachsen.
+b. Die Pflanze scheint/wirkt seit gestern gewachsen.
 c. Die Pflanze erscheint mir gewachsen.
 :::
 
 **Attested Verbs**
 
-The following attested verbs are only illutrative examples taken from the data analysed by Lasch (2016).^[Data accessed on 24 May 2012, available online at <https://goo.gl/xUng8v> for *aussehen*, <https://goo.gl/Xj7EW6> for *erscheinen*, <https://goo.gl/5YvKiw> for *scheinen* and <https://goo.gl/yCai8B> for *wirken*.] There are many more verbs possible in these constructions, but these lists present a good sample of the kind of verbs that are actually attested.
+The following attested verbs are only illustrative examples taken from the data analysed by Lasch (2016).^[Data accessed on 24 May 2012, available online at <https://goo.gl/xUng8v> for *aussehen*, <https://goo.gl/Xj7EW6> for *erscheinen*, <https://goo.gl/5YvKiw> for *scheinen* and <https://goo.gl/yCai8B> for *wirken*.] There are many more verbs possible in these constructions, but these lists present a good sample of the kind of verbs that are actually attested.
 
 - *aussehen* : *abstürzen, einbilden, brechen, sterben, verkleiden, verkümmern, verregnen, verwildern*
 - *erscheinen* : *ausbrennen, ausdehnen, ausformen, ausreifen, bräunen, eignen, einbilden, hervorsteigen, verblühen, verdicken, vertrocknen, wachsen*
@@ -1136,28 +1136,26 @@ The *setzen + Partizip* construction appears to be only possible with the verb *
 
 ### [ N | – ] *werden + Partizip* Impersonal passive {#sec:participles-werden-impersonal-passive}
 
-The impersonal passive is a widely discussed phenomenon in German grammar that occurs with some intransitive verbs.
+The *werden + Partizip* impersonal passive is a widely discussed phenomenon in German grammar that occurs with some intransitive verbs [@next a,b]. A special and very atypical characteristic of this diathesis is that there is no grammatical subject expressed. Typically in German, when a subject is dropped, then a valency-simulating pronoun *es* is inserted (see [@sec:intro-es]). However, in this diathesis any pronoun *es* is only position-simulating (i.e. it occurs when the first position of the sentence, i.e. the *Vorfeld*, is empty). In contrast, when the first position is filled, the pronoun *es* is absent [@next b].
 
-Auch für Intransitiva, aber nicht alle! nur agentiv
-
-A special and very atypical characteristic of this diathesis is that there is no grammatical subject expressed. Typically in German, when a subject is dropped, then a valency-simulating pronoun *es* is inserted (see [@sec:intro-es]). However, in this diathesis any pronoun *es* is only position-simulating (i.e. it occurs when the first position of the sentence (*Vorfeld*) is empty). In contrast, when the first position is filled, the pronoun *es* is absent [@next b].
+This diathesis has become famous in grammatical discussion becuase of the claimed correlation with unaccusativity (see [@sec:participles-restrictions]). Basically, the claim is that there is a correlation between the *sein/haben* selection in the Perfect and the possibility of the *werden* impersonal passive. Concretely, the claim is that (agentive) intransitive verbs with *haben* allow for the impersonal passive [@next a.b], while (patientive) intransitive verbs with *sein* do not [@next c,d]. 
 
 ::: ex
-- Das kleine Kind schläft.
+- Das kleine Kind schläft. \
+  Das kleine Kind hat geschlafen
 - Es wird jetzt geschlafen. \
   Jetzt wird (*es) geschlafen.
-- Das kleine Kind schläft ein.
+- Das kleine Kind schläft ein. \
+  Das kleine Kind ist eingeschlafen.
 - ^* Jetzt wird eingeschlafen.
 :::
 
-This diathesis has become famous in grammatical discussion becuase of the claimed correlation with unaccusativity (see [@sec:participles-restrictions]). Basically, the claim is that there is a correlation between the *sein/haben* selection in the Perfect and the possibility of the *werden* impersonal passive. Concretely, the claim is that (agentive) intransitive verbs with *haben* allow for the impersonal passive, while (patientive) intransitive verbs with *sein* do not. Although there indeed seems to be a tendency here, there are many counterexamples. For example, for verbs with *haben* like *lügen* 'to lie', *jucken* 'to itch' or *blühen* 'to blossom' it appears to be neigh impossible to use an impersonal passive. Possible examples are attested only with additional modal verbs like *können* or *dürfen* [@next].
+Although there indeed seems to be a tendency here, there are many counterexamples. For example, with verbs with *haben + Partizip* like *lügen* 'to lie', *jucken* 'to itch' or *blühen* 'to blossom' it appears to be neigh impossible to use an impersonal passive. Possible examples are attested only with additional modal verbs like *können* or *dürfen* [@next]. In contrast, intransitive verbs with *sein* mostly do not allow for the impersonal passive, though examples can be found rather easily in corpora [@nnext]. This phenomenon clearly needs more in-depth corpus research.
 
 ::: ex
 - In den Rieselfeldern kann ungehemmt gestunken und gelärmt werden.^[DWDS: Die Zeit, 16.12.1983, Nr. 51]
-- Im Gericht gibt es Fragen, bei denen gelügt werden darf.^[http://www.rhetorik.ch/Aktuell/11/01_27/index.html, accessed June 4, 2021]
+- Im Gericht gibt es Fragen, bei denen gelügt werden darf.^[Attested on http://www.rhetorik.ch/Aktuell/11/01_27/index.html, accessed June 4, 2021]
 :::
-
-In contrast, intransitive verbs with *sein* mostly do not allow for the impersonal passive, though examples can be found rather easily in corpora [@next]. This phenomenon clearly needs more in-depth corpus research.
 
 ::: ex
 - Lange Zeit weiß niemand - Patrick eingeschlossen - wovor hier eigentlich geflohen wird.^[DWDS: Der Tagesspiegel, 05.01.2002]
@@ -1166,7 +1164,7 @@ In contrast, intransitive verbs with *sein* mostly do not allow for the imperson
 - In meiner Umgebung wird nicht gestorben.^[DWDS: Die Zeit, 05.03.2017]
 :::
 
-In very special contexts this impersonal construction also seems possible with transitive verbs with accusative arguments like *überarbeiten* 'to rework' [@next a] or even ditransitive verbs like *geben* 'to give [@next b]. However, note that in all such cases it appears to be impossible to retain any of the non-subject arguments, so these impersonal passives can be analysed as being stacked on top of an action focus diathesis (see [@sec:adverbial-action-focus]) dropping the accusative role and leading to an intransitive verb.
+In some specific contexts this impersonal construction also seems possible for transitive verbs with accusative arguments like *überarbeiten* 'to rework' [@next a] or even ditransitive verbs like *geben* 'to give [@next b]. However, note that in all such cases it appears to be impossible to retain any of the non-subject arguments, so these impersonal passives can be analysed as being stacked on top of an action focus diathesis (see [@sec:adverbial-action-focus]) dropping the accusative role and leading to an intransitive verb.
 
 ::: ex
 - Ich überarbeite den Aufsatz. \
@@ -1176,7 +1174,7 @@ In very special contexts this impersonal construction also seems possible with t
 - ^* Erst morgen wird dir geschenkt.
 :::
 
-There is a recurrent usage of the term *Reflexivpassiv* in the German grammatical literature [e.g. @eisenberg2006a: 131; @lasch2016: 119]. This does not appear to be a special diathesis, but rather a side-effect of the occurence of a reflexive pronoun. For example, verbs with obligatory reflexive pronouns retain this reflexive pronoun in an impersonal passive, like *konzentrieren* 'to concentrate' [@next a], see [@sec:reflexive-obligatory-accusative-reflexive ff.]. Also sentence constructions that include a reflexive pronoun because of another diathesis can be used with an impersonal passive (i.e. stacking of diatheses). For example *kümmern* 'to worry, to take care' [@next b] shows a conversive diathesis with an reflexive pronoun (see [@sec:reflexive-preposition-passive]) and retains this reflexive pronoun in an impersonal passive. Also regular 'self-inflicting' reflexive constructions can retain the reflexive pronoun. In summary, the *Reflexivpassiv* is not a separate phenomenon and the term should not be used.
+There is a recurrent usage of the term *Reflexivpassiv* in the German grammatical literature [e.g. @eisenberg2006a: 131; @lasch2016: 119]. This does not appear to be a special diathesis, but rather a side-effect of the occurence of a reflexive pronoun. For example, verbs with obligatory reflexive pronouns retain this reflexive pronoun in an impersonal passive, like *konzentrieren* 'to concentrate' [@next a], see [@sec:reflexive-obligatory-accusative-reflexive]. Also, sentence constructions that include a reflexive pronoun because of another diathesis can be used with an impersonal passive (i.e. stacking of diatheses). For example *kümmern* 'to worry, to take care' [@next b] shows a conversive diathesis with an reflexive pronoun (see [@sec:reflexive-preposition-passive]) and retains this reflexive pronoun in an impersonal passive. Also regular 'self-inflicting' reflexive constructions can retain the reflexive pronoun. In summary, the *Reflexivpassiv* is not a separate phenomenon and the term should prefereably not be used.
 
 ::: ex
 - Die Regierung hat sich konzentriert auf die systemrelevanten Banken. \
@@ -1192,7 +1190,7 @@ There is a recurrent usage of the term *Reflexivpassiv* in the German grammatica
 Only a small subset of all verbs with a dative argument allow for an impersonal passive. Although this appears to be slightly more common for verbs with a *haben* Perfect, like *entsprechen* 'to conform' or *helfen* 'to help' [@next], cf. [@sec:participle-haben-perfect-dative], there are also verbs with a *sein* Perfect that allow for an impersonal passive, like *enfliehen* 'to flee' or *beitreten* 'to join' [@nnext], cf. [@sec:participle-sein-perfect-dative].
 
 ::: ex
-- Seiber Bitte wird entsprochen.
+- Seiner Bitte wird entsprochen.
 - Den Eltern wurde geholfen.
 :::
 
@@ -1208,13 +1206,13 @@ Only a small subset of all verbs with a dative argument allow for an impersonal 
 
 **Examples**
 
-- Auch in diesem Fall wird dem Gesprächspartner zuerst beigepflichtet, indem [...].^[https://wortwuchs.net/stilmittel/concessio/, accessed 6 Juni 2021]
+- Auch in diesem Fall wird dem Gesprächspartner zuerst beigepflichtet, indem [...].^[Attested on https://wortwuchs.net/stilmittel/concessio/, accessed 6 Juni 2021]
 - Ich weiß nicht, wie weit dem Zola-Roman gefolgt wird.^[DWDS: Klemperer, Victor: [Tagebuch] 1928. In: "Leben sammeln, nicht fragen wozu und warum", Berlin: Aufbau-Taschenbuch-Verl. 2000, S. 258]
 - Ich habe angeordnet, daß allen Spuren […] nachgegangen wird."^[DWDS: Der Spiegel, 16.01.1989]
 
 ### [ NP | –P ] *werden + Partizip* Impersonal passive + governed preposition
 
-Many, but not all, verbs with goverened prepositions (but without accusative arguements, cf [@sec:prepositions-governed-drop]) appear to allow for an impersonal passive, like *warten auf* 'to wait for' or *arbeiten an* 'to work on' [@next]. Note that these verbs all take a *haben* Perfekt.
+Many, but not all, verbs with goverened prepositions (but without accusative arguments, cf [@sec:prepositions-governed-drop]) appear to allow for an impersonal passive, like *warten auf* 'to wait for' or *arbeiten an* 'to work on' [@next]. Note that these verbs all take a *haben* Perfekt.
 
 ::: ex
 - Auf dem Professor wurde gewartet.
@@ -1273,7 +1271,7 @@ Third, *bleiben + Partizip* is only possible with a small subset of all verbs th
 
 **Attested Verbs**
 
-- Only a few examplary verbs: *fangen, füllen, öffnen, schließen, verwarnen*
+- *fangen, füllen, öffnen, schließen, verwarnen*, etc.
 
 **Examples**
 
@@ -1284,28 +1282,32 @@ Third, *bleiben + Partizip* is only possible with a small subset of all verbs th
 
 ### [ NA | –N ] *aussehen/(er)scheinen/wirken + Partizip* Anticausative (*Apparitivantikausativ*) {#sec:participles-aussehen-anticausative}
 
-lat. apparere 'to appear'
+The four light verbs *aussehen*, *scheinen*, *erscheinen* and *wirken* can be used with participles in monoclausal constructions.  With intransitive verbs these light verbs do not induce any diathesis (see [@sec:participles-scheinen-intransitive]). In contrast, with transitive verbs these constructions result in an anticausative diathesis [@next]. Such constructions are analysed by Lasch [-@lasch2016: 253ff.] as *Askription mit modaler Relation*. For the German grammatical discussion, I propose to use the latinate name ~~apparitivantikausativ~~ from lat. *apparere* 'to appear'.
 
-The retention of the agent seems possible using a *von* phrase, though examples are very rare [@next]. Note that examples with *wie von* phrases have to be discarded, as such phrases do not instantiate an agent.
+::: ex
+- Der Sturm beschädigt das Dach des Hauses.
+- Das Dach des Hauses sieht beschädigt aus.
+:::
+
+The retention of the agent using a *von* phrase appears to be possible, though examples are very rare [@next]. Note that examples with *wie von* phrases have to be discarded, as such phrases do not instantiate an agent. Because of the very rare attestation of such agents I consider these diatheses as anticausatives, and not as passives.
 
 ::: ex
 - […] deren Zweige übrigens schon von der Sonnenhitze schnell verdorrt aussahen.^[DWDS: Keil, Ernst (Hrsg.): Die Gartenlaube. Jg. 2 (1854).]
 - Im Längsschnitt erscheint der helle Innenraum von zwei dunklen Linien	begrenzt.^[Lasch 2016, citing DWDS: Nultsch, Wilhelm, Allgemeine Botanik, Stuttgart: Thieme 1964, S. 52]
 - Zuletzt scheinen von diesem Prozeß die biblischen Gleichnisse betroffen.^[Lasch 2016, citing DWDS: Busch, Werner, Das sentimentalische Bild, München: Beck 1993, S. 284]
-- Auch bei der Messe in Györ […] wirkte der Papst […] von Strapazen gezeichnet.^[Lasch 2016, citing DWDS: Archiv der Gegenwart, 2001 [1996] ]
+- Auch bei der Messe in Györ […] wirkte der Papst […] von Strapazen gezeichnet.^[Lasch 2016, citing DWDS: Archiv der Gegenwart, 2001]
 :::
 
-Experiencer Dative 
-*aussehen* dative alternates with *für*, *wirken* dative alternates with *auf*
+All four light verb constructions are attested with an additional experiencer dative [@next]. This additional dative seems to be most frequent with *scheinen* and *erscheinen*. With *aussehen* [@next a] it is only very rarely attested and with *wirken* [@next d] an alternative *auf mich* instead of dative *mir* seems more common.
 
 ::: ex
 - […] der alte Kriegsheld sieht mir sehr determinirt aus […].^[DWDS: Wallenrodt, Johanna Isabella Eleonore von: Fritz, der Mann wie er nicht seyn sollte oder die Folgen einer übeln Erziehung. Bd. 2. Gera, 1800.]
 - Sein Gesicht erschien mir vertrocknet.^[Lasch 2016, citing DWDS: Blos, Wilhelm, Denkwürdigkeiten eines Sozialdemokraten, Band 1, München: G. Birk, 1914., S. 9306]
 - Der Titel […] scheint mir unglücklich gewählt.^[Lasch 2016, citing DWDS: Der Spiegel 23.02.1987]
-- Der Herr Assauer wirkte mir doch leicht angesäuselt.^[DWDS: Der Tagesspiegel, 30.05.2003]
+- Der Herr Assauer wirkte mir doch leicht angesäuselt.^[DWDS: Der Tagesspiegel, 30.05.2003] \
 :::
 
-The participles in these constructions are very close to secondary predicates (see [@sec:participles-secondary-predicates]). There is a range of constructions between clearly embedded constructions [@next a] and more clearly monoclausal constructions [@next d]. These constructions have a long history in the generative tradition under the heading of "subject raising", a major early discussion being Postal [-@postal1974].
+The participles that are used in these constructions are very similar to secondary predicates (see [@sec:participles-secondary-predicates]). There is a continuum of constructions between clearly embedded constructions [@next a], secondary predicate constructions [@next b,c], and clearly monoclausal constructions [@next d]. These constructions have a long history in the generative tradition under the heading of "subject raising". A major early discussion of this phenomenon can be found in Postal [-@postal1974].
 
 ::: ex
 a. (Ich finde, dass …) die Pflanze aussieht, [alsob sie nicht von dir versorgt worden ist].
@@ -1314,10 +1316,10 @@ c. (Ich finde, dass …) die Pflanze nicht [wie von dir versorgt] aussieht.
 d. (Ich finde, dass …) die Pflanze nicht [von dir versorgt] aussieht.
 :::
 
-The light verb *scheinen* can also occur with an extra *zu sein* construction [@next], which is analysed here as a stack of a *sein Perfekt* (see [@sec:participles-sein-perfect]) with a *scheine + zu + Infinitiv* construction (see [@sec:zuinfinitive-scheinen]). The two examples in [@next b,c] are thus two different constructions, though the semantic difference needs a deeper investigation. 
+The light verb *scheinen* can also occur with an extra *zu sein* construction [@next], which is analysed here as a stack of a *sein + Partizip* Perfect (see [@sec:participles-sein-perfect]) with a *scheinen + zu + Infinitiv* construction (see [@sec:zuinfinitive-scheinen]). The two examples in [@next b,c] are thus two different constructions, though the semantic difference needs a deeper investigation. 
 
 ::: ex
-a. Der Gast reist ab. \
+a. Der Gast reist ab.
 b. Der Gast scheint abgereist.
 c. Der Gast scheint abgereist zu sein.
 :::
@@ -1326,7 +1328,7 @@ c. Der Gast scheint abgereist zu sein.
 
 The following attested verbs are only illutrative examples taken from the data analysed by Lasch (2016).^[Data accessed on 24 May 2012, available online at <https://goo.gl/xUng8v> for *aussehen*, <https://goo.gl/Xj7EW6> for *erscheinen*, <https://goo.gl/5YvKiw> for *scheinen* and <https://goo.gl/yCai8B> for *wirken*.] There are many more verbs possible in these constructions, but these lists present a good sample of the kind of verbs that are actually attested.
 
-- *aussehen* : *abmagern, absperren, abtragen, altern, angreifen, anregen, anstrengen, ausschlagen, ausstopfen, begehen, bekümmern, beschädigen, besetzen, drucken, durchleiden, einengen, einrichten, entäuschen, entzücken, erhitzen, erschöpfen, handhaben, herstellen, improvisieren, knicken, marmorieren, miederschlagen, missgestalten, mitnehmen, möblieren, nähren, narkotisieren, pflegen, stechen, überwachen, verändern, verarbeiten, verbrennen, verjüngen, verlieren, vernichten, verschmutzen, verstören, verwüsten, vollenden, zerkratzen, zerquälen, zerrupfen, zerstreuen, zerzausen, zwingen*
+- *aussehen* : *absperren, abtragen, angreifen, anregen, anstrengen, ausschlagen, ausstopfen, begehen, bekümmern, beschädigen, besetzen, drucken, durchleiden, einengen, einrichten, entäuschen, entzücken, erhitzen, erschöpfen, handhaben, herstellen, improvisieren, knicken, marmorieren, miederschlagen, missgestalten, mitnehmen, möblieren, nähren, narkotisieren, pflegen, stechen, überwachen, verändern, verarbeiten, verbrennen, verjüngen, verlieren, vernichten, verschmutzen, verstören, verwüsten, vollenden, zerkratzen, zerquälen, zerrupfen, zerstreuen, zerzausen, zwingen*
 - *erscheinen* : *abschließen, anpassen, anzeigen, aufhängen, ausschalten, ausschließen, bedrohen, begrenzen, belasten, beziehen, binden, färben, geben, gefährden, kompromittieren, machen, rechtfertigen, sichern, verändern, verbinden*
 - *scheinen* : *abschließen, andeuten, anordnen, aufführen, aufgeben, aufheben, auflösen, aufrufen, aufzeichnen, ausschalten, ausschließen, beabsichtigen, beenden, begeistern, begründen, beseitigen, bestehlen, bestimmen, betreffen, einbetten, entfernen, entleihen, entscheiden, enttäuschen, erfinden, erledigen, erlöschen, erreichen, erschöpfen, falsifizieren, fassen, gebieten, hüllen, klären, lösen, machen, niederdrücken, retten, schließen, sichern, stützen, treffen, treiben, überfordern, überstehen, überwinden, überzeugen, umwittern, verbinden, verbreiten, verlieren, verstören, verwirklichen, vorzeichnen, wagen, wählen, würdigen, ziehen*
 - *wirken* : *ankleben, ankreiden, anspannen, aufmalen, auszeichnen, blockieren, darstellen, deplatzieren, deprimieren, entkrampfen, erleichtern, ermatten, hacken, kalkulieren, konstruieren, machen, pflegen, planen, quälen, rupfen, schreiben, stressen, überladen, übertreiben, verändern, verbergen, verfehlen, verkümmern, verlieren, verschließen, verstören, verzerren, zeichnen, zerfetzen, zersplittern, zurechstützen, zusammenhauen, zusammensuchen*
