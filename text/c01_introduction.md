@@ -1564,9 +1564,9 @@ a. Der Pförtner schließt die Tür.
 b. Die Tür bleibt geschlossen \*(von den Pförtner).
 :::
 
-### *Apparitivantikausativ* (*aussehen/erscheinen/wirken + Partizip*) {#sec:summary-apparitivantikausativ}
+### *Apparitivantikausativ* (*aussehen/(er)scheinen/wirken + Partizip*) {#sec:summary-apparitivantikausativ}
 
-The ~~Apparitivantikausativ~~ (full discussion in [@sec:participles-aussehen-anticausative] and subsequent sections) is constructed with one of the light verbs *aussehen*, *scheinen*, *erscheinen* and *wirken* with a participle of a transitive verb. The retention of the original agent as a prepositional phrase seems to be impossible, so this diathesis is classified as an anticausative here. With intransitive verbs this construction does not show any diathesis, called ~~Apparativperfekt~~ (see [@sec:summary-apparitivperfekt]).
+The ~~Apparitivantikausativ~~ (full discussion in [@sec:participles-aussehen-anticausative] and subsequent sections) is constructed with one of the light verbs *aussehen*, *scheinen*, *erscheinen* and *wirken* with a participle of a transitive verb. The retention of the original agent as a prepositional phrase seems to be mostly not possible, so this diathesis is classified as an anticausative here. With intransitive verbs this construction does not show any diathesis, called ~~Apparativperfekt~~ (see [@sec:summary-apparitivperfekt]).
 
 ::: ex
 a. Der Pförtner schließt die Tür.
@@ -2313,7 +2313,7 @@ b. Ich halte die Tür geschlossen.
 c. Ich lasse die Tür geschlossen.
 :::
 
-### *Apparitivperfekt* (*aussehen/erscheinen/wirken + Partizip*) {#sec:summary-apparitivperfekt}
+### *Apparitivperfekt* (*aussehen/(er)scheinen/wirken + Partizip*) {#sec:summary-apparitivperfekt}
 
 (full discussion in [@sec:participles-scheinen-intransitive] and subsequent sections). see also ~~Apparitivantikausativ~~ (see [@sec:summary-apparitivantikausativ])
 
@@ -2322,9 +2322,9 @@ a. Der Plan scheitert.
 b. Der Plan erscheint gescheitert.
 :::
 
-### *Origobewegung* (*kommen + an- Partizip*)
+### *Origobewegung* (*kommen + Partizip*)
 
-(full discussion in [@sec:participles-kommen-an] and subsequent sections)
+(full discussion in [@sec:participles-kommen] and subsequent sections)
 
 ::: ex
 a. Der Hund rennt.

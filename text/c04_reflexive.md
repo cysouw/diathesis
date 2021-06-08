@@ -1276,13 +1276,14 @@ c. Das Resultat rechnet sich (für mich).
 
 ### [ NA | PN ] Reflexive conversive {#sec:reflexive-preposition-passive}
 
-These verbs are similar to *sich* transitive anticausative, but the "von Geisterhand" reading is not possible. The original nominative can be retained as a prepositional phrase [@next a,b]. All these prepositional phrases are governed prepositions [@next c]. Interestingly, there appears to be a wide variety of propositions that are governed by the various verbs that allow for this diathesis. Note that the *werden* Passive is not possible for these verbs [@next d].
+These verbs are similar to *sich* transitive anticausative, but the "von Geisterhand" reading is not possible. The original nominative can be retained as a prepositional phrase [@next a,b]. All these prepositional phrases are governed prepositions [@next c]. Interestingly, there appears to be a wide variety of propositions that are governed by the various verbs that allow for this diathesis. Note that the *werden* Passive is not possible for these verbs [@next d], though an impersonal passive of the reflexive conversive is possible [@next e].
 
 ::: ex
 a. Der Preis empört den Kunden.
 b. Der Kunde empört sich über den Preis.
 c. Der Kunde empört sich darüber, dass der Preis schon wieder gestiegen ist.
 d. ^* Der Kunde wird empört durch den Preis.
+e. Über die Zerstörung der Schöpfung […] wird sich empört.^[DWDS: Berliner Zeitung, 24.11.2003]
 :::
 
 In many of these verbs, the role of the reflexive argument appears to be more of an experiencer than a real agent. A German name like 'Erlebnispassiv' might be suitable for this diathesis.

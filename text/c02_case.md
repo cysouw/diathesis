@@ -883,7 +883,7 @@ As there are already very few verbs with genitive arguments in German, there app
 
 I have tried to separate in this chapter between the demotion of an object (antipassive or drop, see [@sec:case-object-demotion]) and the promotion of an accusative (applicative or addition). However, for 'bare' diatheses I cannot find any substantive difference between these phenomena, except for a faint semantic impression that bare applicatives do not imply an accusative object (but allow it), while bare antipassive imply an accusative object (but allow it to be dropped). It remains a clear desideratum to put this intuitive differentiation on stricter grammatical footing.
 
-### --- [ Ø > OBJ ] --- *Resultatakkusativ {.unnumbered}
+### --- [ Ø > OBJ ] --- *Resultatakkusativ* {.unnumbered}
 
 ### [ N– | NA ] Accusative addition {#sec:case-accusative-addition}
 
@@ -909,7 +909,7 @@ d. Ich flüsterte ihm die Lösung ins Ohr.
 **Attested Verbs**
 
 - *atmen, fliehen, hetzen, laufen, leben, schauen, schwimmen, singen, spielen, springen, tanzen*
-- Manner of speaking: *brüllen, flüstern, grölen, johlen, murmeln, schreien, stottern*
+- Manner-of-speaking: *brüllen, flüstern, grölen, johlen, murmeln, schreien, stottern*
 
 **Examples**
 

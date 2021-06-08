@@ -778,7 +778,7 @@ f. ^* Ich schreibe an dich an dem Brief. [ NPP]
 
 ### --- [ PBJ > Ø ] --- {.unnumbered}
 
-### [ NP | N– ] Governed preposition drop
+### [ NP | N– ] Governed preposition drop {#sec:prepositions-governed-drop}
 
 Governed prepositions that can be dropped are frequent. There are even various verbs that allow for different governed prepositions [@next a,b].
 

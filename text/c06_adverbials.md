@@ -249,16 +249,18 @@ c. ^* Die Musik stimmt freundlich.
 
 ### [ ND ] Nominative + dative + adverbial
 
-The verb *bekommen* in the meaning 'to agree with someone' needs a dative and cannot be used without an adverbial [@next].
+The verb *bekommen* in the meaning 'to agree with someone' needs a dative and cannot be used without an adverbial [@next a,b]. The verb *fallen* can be used with either *schwer* or *leicht*, but apparently no other adverbials.
 
 ::: ex
 a. Das Essen bekommt mir schlecht.
 b. ^* Das Essen bekommt mir.
+c. Die Aufgabe fällt mir schwer/leicht.
+d. ^* Die Aufgabe fällt mir.
 :::
 
 **Attested Verbs**
 
-- bekommen
+- bekommen, fallen
 
 ### [ D ] Dative + adverbial {#sec:adverbials-dative}
 

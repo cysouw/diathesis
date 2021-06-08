@@ -132,7 +132,7 @@ DWDS query: haben leicht $p=VVINF &&! {reden, lachen, können}
 - 9	1871	Belletristik	Pocci, Franz von: Lustiges Komödienbüchlein. Bd. 4. München, 1871.	Der Herr Baron hat leicht trösten; ich bin und bleib' unglücklich, wenn ich meinen Casperl nimmer sieh.
 - 10	1848	Belletristik	Eckermann, Johann Peter: Gespräche mit Goethe in den letzten Jahren seines Lebens. Bd. 3. Leipzig, 1848.	Wer aber geliebt ist, hat leicht regieren.""
 
-### [ N ] *bleiben + Infinitiv*
+### [ N ] *bleiben + Infinitiv* {#sec:infinitive-bleiben}
 
 considered to be one word in german orthographie!
 
