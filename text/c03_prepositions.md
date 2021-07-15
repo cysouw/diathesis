@@ -319,7 +319,24 @@ c. Der Kuchen ist mir gut geraten.
 - Sie gab ihren Sohn für einen Künstler aus.
 - Ich begründe meine schlechte Leistung mit einer Krankheit.
 
-### [ NAL ] Obligatory local preposition {#sec:prepositions-obligatory-local}
+### [ NL ] Obligatory local preposition
+
+Some verbs appear to have an obligatory locational argument, like *wohnen* 'to live' [@next]. This seems to be widespread with verbs of living.
+
+::: ex
+- Sie wohnt in Berlin.
+- ^* Sie wohnt.
+:::
+
+**Attested Verbs**
+
+- Verbs of living: *einziehen, wohnen, übernachten*
+
+**Examples**
+
+- Die Sportler zogen in das Stadion ein.^[DWDS: Lemma *einziehen*.]
+
+### [ NAL ] Obligatory local preposition + accusative {#sec:prepositions-obligatory-local}
 
 The most obvious verbs in this class are historical ablaut causatives like *legen* 'to lay, to put down' [@next b] of posture verbs like *liegen* 'to lie' [@next a]. More examples are attested with obligatory reflexive pronoun, see [@sec:reflexive-obligatory-local].
 
@@ -332,6 +349,7 @@ b. Er legt den Hund in den Korb.
 
 - ablaut causatives: *legen, setzen, stellen*
 - To force something away: *drängen, scheuchen, schütten, treiben*
+- others: *verbringen*
 
 **Examples**
 
@@ -340,6 +358,7 @@ b. Er legt den Hund in den Korb.
 - Ich rücke die Stühle zur Seite.
 - Ich treibe die Kühe auf die Wiese.
 - Ich dränge ihn in die Ecke.
+- Ich verbringe meine Ferien in Italien.
 
 ### [ NP ] Accusative *es* + governed preposition {#sec:prepositions-nominative-es-preposition}
 

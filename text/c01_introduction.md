@@ -34,7 +34,7 @@ In this book, each diathesis has its own sub-subsection with an unique section h
 
 The current attempt to present an all-encompassing survey of German diatheses builds on a rich scholarly tradition (with many scholarly precursors to be cited in appropriate places throughout this work). A comparable and highly influential survey of diathesis for English is Levin [-@levin1993], followed by a similar attempt for German by Sauerland [-@sauerland1994]. A recent cross-linguistic survey of valency and diathesis in this tradition is edited by Malchukov & Comrie [-@malchukov2015a], which also includes data on German [@haspelmath2013a]. Independent of Levin's work, there is a long tradition in the German grammatical literature to investigate diathesis, e.g. as '*Konversenverhältnis der Aktanten*' [@eroms1980: 24; cf. @heringer1968]. An early attempt at a survey of various diatheses is presented by Höhle [-@hohle1978]. Basic summaries of german diathesis in the context of valency can be found in Eroms [-@eroms2000: Ch. 10] or Ágel [-@agel2000: Ch. 6]. There also are a few monographs about specific German diatheses [e.g. @leirbukt1997; @holl2010; @jager2013] and recently some corpus studies into the effect of specific diatheses on individual verbs have appeared [@devaere2018; @imo2018; @dux2020: Ch. 6].
 
-Diathesis is of course closely linked to the concept of valency, so the groundbreaking valency dictionary for German by Helbig and Schenkel [-@helbig1991] deserves mentioning. They identify the problem that certain verbs can be used in different constructions, but diatheses are not investigated consistently in their dictionary. Another highly influential valency dictionary for German, edited by Schumacher [-@schumacher1986], discusses passive diatheses for all verb. I see the current survey of German diatheses as a first step in extending such valency dictionaries into even more all-encompassing dictionaries that discuss all possible clause constructions for each verb.
+Diathesis is of course closely linked to the concept of valency, so the groundbreaking valency dictionary for German by Helbig and Schenkel [-@helbig1991] deserves mentioning. They identify the problem that certain verbs can be used in different constructions, but diatheses are not investigated consistently in their dictionary. Another highly influential valency dictionary for German, edited by Schumacher [-@schumacher1986; also the precursor @engel1978], discusses passive diatheses for all verb. I see the current survey of German diatheses as a first step in extending such valency dictionaries into even more all-encompassing dictionaries that discuss all possible clause constructions for each verb.
 
 ## Defining diathesis {#sec:intro-basic-definition}
 
@@ -295,7 +295,7 @@ b. Ich beschmiere die Wunde mit Salbe.
 
 ### Utterance valency and lexical roles
 
-Valency is traditionally interpreted as a fixed constructional characteristic of a lexical verb, e.g. the verb *geben* 'to give' is said to be ditransitive. A central thesis of this book is that this conception of valency is misguided. Individual verbs can (and normally will) be used in many different constructions with different valency (i.e. most verbs show some kind of diathesis). Consider for example the verb *wehen* 'to blow'. Such 'weather' verbs are often considered to have zero valency, which in German is characterised by an obligatory *es* pronoun [@next a]. However, the same verb can just as well be used as an intransitive [@next b,c], as a transitive with an accusative object [@next d], or even as a ditransitive with a dative and accusative object [@next e]. Note that the prepositional phrase in [@next c,d,e] cannot be left out, and its obligatory presence might be used to argue for argument-status of these prepositional phrases. The example in [@next e] then will be an example of the verb *wehen* with a valency of four.
+Valency is traditionally interpreted as a fixed constructional characteristic of a lexical verb, e.g. the verb *geben* 'to give' is said to be ditransitive.^[I will consider predicative adjectives also as verbs, e.g *bewusst sein* 'to be aware', *einig sein* 'to agree' or *ähnlich sein* 'to resemble'. In German, predicative adjectives use the copula *sein*, so in many other grammatical analyses such predicates have a special status. In contrast, they will simply be treated as a single (though multiword) verb here.] A central thesis of this book is that this conception of valency is misguided. Individual verbs can (and normally will) be used in many different constructions with different valency (i.e. most verbs show some kind of diathesis). Consider for example the verb *wehen* 'to blow'. Such 'weather' verbs are often considered to have zero valency, which in German is characterised by an obligatory *es* pronoun [@next a]. However, the same verb can just as well be used as an intransitive [@next b,c], as a transitive with an accusative object [@next d], or even as a ditransitive with a dative and accusative object [@next e]. Note that the prepositional phrase in [@next c,d,e] cannot be left out, and its obligatory presence might be used to argue for argument-status of these prepositional phrases. The example in [@next e] then will be an example of the verb *wehen* with a valency of four.
 
 ::: ex
 a. Heute weht es.
@@ -1648,28 +1648,28 @@ The ~~Rezipientenpassiv~~ (full discussion in [@sec:participles-bekommen-passive
 
 ::: ex
 a. Der Friseur schneidet mir die Haare.
-b. Ich bekomme die Haare geschnitten (von dem Friseur).
-:::
-
-### *Permissivpassiv* (*lassen + sich + Infinitiv*) {#sec:summary-permissivpassiv}
-
-The ~~Permissivpassiv~~ (full discussion in [@sec:infinitive-lassen-dative-reflexive-anticausative]) is constructed with the light verb *lassen* with an infinitive and an obligatory reflexive pronoun. Similar to the previous *Rezipientenpassiv*, when applied to a ditransitive clause with an accusative and a dative the original dative is turned into a new nominative subject (but now with a dative reflexive pronoun), like with *schenken* 'to gift' [@next]. Semantically, there is a permissive modality introduced. This is a rather different from diatheses with *lassen + sich + Infinitive* discussed earlier (see [@sec:summary-unpersonlicher-moglichkeitspassiv] and [-@sec:summary-moglichkeitspassiv]). However, there is a close link to the ~~Permissivinversiv~~ with transitive verbs (see [@sec:summary-permissivinversiv]). The permissive reading is also reminiscent of the *lassen + Infinitiv* ~~Permissivkausativ~~ (see [@sec:summary-permissivkausativ]).
-
-::: ex
-a. Der Verkäufer schenkt mir den Rechner.
-b. Ich lasse mir den Rechner schenken (von dem Verkäufer).
+b. Ich bekomme die Haare geschnitten (vom Friseur).
 :::
 
 ### *Pertinenzpassiv* (*haben + Partizip*) {#sec:summary-pertinenzpassiv}
 
-The ~~Pertinenzpassiv~~ (full discussion in [@sec:participles-haben-passive]) is a special construction because it looks identical to the *haben* perfekt (see [@sec:summary-haben-perfekt]), often even being ambiguous with it. However, the *Pertinenzpassiv* is functionally much closer to the previous two *Rezipientenpassive*. The new nominative subject *der Minister* 'the minister' [@next b] is the (dative) experiencer/benefactor of the cutting [@next a]. The original agent of the cutting *Friseur* 'barber' can only be retained with difficulty, so this diathesis looks closer to an anticausative. However, there is a well-known effect that this *Pertinenzpassiv* becomes much more common when stacked with a modal auxiliary like *wollen* 'to want' [@next c]. In such a stack, the original agent can clearly be retained.
+The ~~Pertinenzpassiv~~ (full discussion in [@sec:participles-haben-passive]) is a special construction because it looks identical to the *haben Perfekt* (see [@sec:summary-haben-perfekt]), often even being ambiguous among the two interpretations. However, the *Pertinenzpassiv* is functionally much closer to the *Rezipientenpassiv*. The new nominative subject *der Minister* 'the minister' [@next b] is the (dative) experiencer/benefactor of the cutting [@next a]. The original agent of the cutting *Friseur* 'barber' can only be retained with difficulty, so this diathesis looks closer to an anticausative. However, there is a well-known effect that this *Pertinenzpassiv* becomes much more common when stacked with a modal auxiliary like *wollen* 'to want' [@next c]. In such a stack, the original agent can clearly be retained.
 
-The designation *pertinenz* refers to the fact that the new subject is necessarily the possessor of the accusative object *Haare*, 'hair'. Such inherent possessors turn up in various diatheses, and all instances will be designated with the qualifier *pertinenz*. The most famous one is the ~~pertinenzdativ~~ (see [@sec:summary-pertinenzdativ]), but there are various others, like the ~~pertinenzinversiv~~ (see [@sec:summary-pertinenzinversiv]).
+The designation *pertinenz* refers to the fact that the new subject is necessarily the possessor of the accusative object *Haare*, 'hair'. Such inherent possessors turn up in various diatheses, and all instances will be designated with the qualifier *pertinenz*. The most famous one is the ~~pertinenzdativ~~ (see [@sec:summary-pertinenzdativ]), but there are various others, like the ~~pertinenzinversiv~~ (see [@sec:summary-pertinenzinversiv]) and the ~~ortspertinenzinversiv~~ (see [@sec:summary-ortspertinenzinversiv]).
 
 ::: ex
 a. Der Friseur schneidet dem Minister die Haare.
 b. Der Minister hat die Haare geschnitten ^?^(durch den Friseur).
-c. Der Minister will die Haare von dem Friseur geschnitten haben.
+c. Der Minister will die Haare vom Friseur geschnitten haben.
+:::
+
+### *Permissivpassiv* (*lassen + sich + Infinitiv*) {#sec:summary-permissivpassiv}
+
+The ~~Permissivpassiv~~ (full discussion in [@sec:infinitive-lassen-dative-reflexive-anticausative]) is constructed with the light verb *lassen* with an infinitive and an obligatory reflexive pronoun. Similar to the *Rezipientenpassiv*, when applied to a ditransitive clause with an accusative and a dative the original dative is turned into a new nominative subject (but now with a dative reflexive pronoun), like with *schenken* 'to gift' [@next]. Semantically, there is a permissive modality introduced. This is a rather different from diatheses with *lassen + sich + Infinitive* discussed earlier (see [@sec:summary-unpersonlicher-moglichkeitspassiv] and [-@sec:summary-moglichkeitspassiv]). However, there is a close link to the ~~Permissivinversiv~~ with transitive verbs (see [@sec:summary-permissivinversiv]). The permissive reading is also reminiscent of the *lassen + Infinitiv* ~~Permissivkausativ~~ (see [@sec:summary-permissivkausativ]).
+
+::: ex
+a. Der Verkäufer schenkt mir den Rechner.
+b. Ich lasse mir den Rechner schenken (von dem Verkäufer).
 :::
 
 ## Conversive diatheses ~~[OBJ › SBJ › PBJ]~~
@@ -1709,7 +1709,7 @@ b. Dieser letzte Schrank bleibt (mir) noch einzuräumen.
 
 ### *Pertinenzinversiv* (*haben + am + Infinitiv*) {#sec:summary-pertinenzinversiv}
 
-The ~~Pertinenzinversiv~~ (full discussion in [@sec:zuminfinitive-haben-am]), using the light verb *haben* with *am* and an infinitive, reverses the expression of the roles, though in the different direction from the previous *Restinversiv* (see [@sec:summary-restinversiv]). In this diathesis the dative is promoted to nominative, while the nominative is demoted to accusative [@next]. Further, the dative *dem Mieter* 'tenant' is necessarily the possessor (*pertinenz*) of the nominative *die Wohnung* 'apartment', i.e. it is a *pertinenzdativ* (see [@sec:summary-pertinenzdativ]). Both in form and meaning this diathesis is strongly connected to the ensuing ~~Ortspertinenzinversiv~~ (see [@sec:summary-ortspertinenzinversiv]), in which the dative is the possessor of the obligatory location. It seems possible that the preposition *am* in this diathesis is in some way related to the absence of any location here.
+The ~~Pertinenzinversiv~~ (full discussion in [@sec:zuminfinitive-haben-am]), using the light verb *haben* with *am* and an infinitive, reverses the expression of the roles, though in the different direction from the previous *Restinversiv* (see [@sec:summary-restinversiv]). In this diathesis the dative is promoted to nominative, while the nominative is demoted to accusative [@next]. Further, the dative *dem Mieter* 'tenant' is necessarily the possessor (*pertinenz*) of the nominative *die Wohnung* 'appartment', i.e. it is a *pertinenzdativ* (see [@sec:summary-pertinenzdativ]). Both in form and meaning this diathesis is strongly connected to the ensuing ~~Ortspertinenzinversiv~~ (see [@sec:summary-ortspertinenzinversiv]), in which the dative is the possessor of the obligatory location. It seems possible that the preposition *am* in this diathesis is in some way related to the absence of any location here.
 
 ::: ex
 a. Dem Mieter brennt die Wohnung.
@@ -2296,7 +2296,7 @@ b. Das Kind ist eingeschlafen.
 
 ### *Intransitiv Kontinuativperfekt* (*bleiben + Partizip*) {#sec:summary-intransitiv-kontinuativperfekt}
 
-(full discussion in [@sec:participles-bleiben-intransitive] and subsequent sections)
+(full discussion in [@sec:participles-bleiben-intransitive])
 
 ::: ex
 a. Der Schlüssel verschwindet.
@@ -2315,7 +2315,7 @@ c. Ich lasse die Tür geschlossen.
 
 ### *Apparitivperfekt* (*aussehen/(er)scheinen/wirken + Partizip*) {#sec:summary-apparitivperfekt}
 
-(full discussion in [@sec:participles-scheinen-intransitive] and subsequent sections). see also ~~Apparitivantikausativ~~ (see [@sec:summary-apparitivantikausativ])
+(full discussion in [@sec:participles-scheinen-intransitive]). see also ~~Apparitivantikausativ~~ (see [@sec:summary-apparitivantikausativ])
 
 ::: ex
 a. Der Plan scheitert.
@@ -2324,7 +2324,7 @@ b. Der Plan erscheint gescheitert.
 
 ### *Origobewegung* (*kommen + Partizip*)
 
-(full discussion in [@sec:participles-kommen] and subsequent sections)
+(full discussion in [@sec:participles-kommen])
 
 ::: ex
 a. Der Hund rennt.

@@ -4,6 +4,8 @@
 
 Always modal meanings???
 
+gehören + zu + Inf in old examples found sporadically in [@lasch2018]
+
 ## Definitions
 
 ## Deponent verbs without alternations

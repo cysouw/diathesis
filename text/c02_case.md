@@ -156,7 +156,7 @@ An attempt has been made below to classify the examples of strictly intransitive
 - Movement: *ankommen, ausgehen, eintreffen, rasen (schnell bewegen), reisen, untergehen, verreisen, verschwinden, schlendern, spazieren*
 - Bodily Functions: *niesen, pinkeln, brechen (übergeben), husten*
 - Sleeping: *aufstehen, aufwachen, einschlafen*
-- Living: *ausziehen, einziehen, umziehen, wegziehen, wohnen*
+- Living: *ausziehen, einziehen, umziehen, wegziehen*
 - Natural Process: *ertrinken, scheinen, sprießen, wachsen, schrumpfen*
 - Noun incorporation: *fernsehen, autofahren, seiltanzen, bergsteigen, kopfrechnen, notlanden, brustschwimmen, bruchrechnen, eislaufen, kopfstehen, probefahren, radfahren, windsurfen*
 - Various: *desertieren, enden, hupen, klingen*
@@ -211,7 +211,7 @@ The verbs in this class need both a nominative subject argument and a second dat
 
 **Attested Verbs**
 
-- *ähneln, angehören, antworten, begegnen, beipflichten, bleiben, einfallen, entgegen kommen, entgehen, entsprechen, gefallen, gegenüber treten, gehören, gelten, glauben (vertrauen), gleichen, glücken, imponieren, liegen, missfallen, nacheifern, schaden, stehen, trauen, unterlaufen, unterliegen, unterstehen, verfallen, widerfahren, zufallen, zureden, zustoßen, zuneigen*
+- *ähneln, ähnlich sein, angehören, antworten, begegnen, beipflichten, bleiben, einfallen, entgegen kommen, entgehen, entsprechen, gefallen, gegenüber treten, gehören, gelten, glauben (vertrauen), gleichen, glücken, imponieren, liegen, missfallen, nacheifern, schaden, stehen, trauen, unterlaufen, unterliegen, unterstehen, verfallen, widerfahren, zufallen, zureden, zustoßen, zuneigen*
 
 **Examples**
 
@@ -1021,8 +1021,8 @@ This alternation occurs with all verbs with the *von* and *für* dative antipass
 
 - Body tending: *heilen, kämmen, kratzen, küssen, maniküren, rasieren, streicheln, verbinden*
 - Injure: *auskugeln, brechen, verdrehen, verrenken, zerquetschen*
-- Destruction: *amputieren, beenden, beschädigen, ruinieren, schneiden, unterbrechen, versalzen, zerbrechen, zerknittern, zertreten*
-- Repair: *aktualisieren, korrigieren*
+- Destruction: *amputieren, beenden, beschädigen, kündigen, ruinieren, schneiden, unterbrechen, versalzen, zerbrechen, zerknittern, zertreten*
+- Repair: *aktualisieren, korrigieren, reparieren*
 - Others: *ausstellen, beantworten, dressieren, packen*
 
 **Examples**
@@ -1031,7 +1031,7 @@ This alternation occurs with all verbs with the *von* and *für* dative antipass
 - Ich versalze dir die Suppe. Ich versalze deine Suppe.
 - Ich habe mir das Bein gebrochen. Ich habe mein Bein gebrochen.
 - Ich ruiniere dir die Feier. Ich ruiniere deine Feier.
-- Ich beende dir den Vertrag. Ich beende deinen Vertrag.
+- Ich beende/kündige dir den Vertrag. Ich beende/kündige deinen Vertrag.
 
 **Notes**
 

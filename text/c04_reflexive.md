@@ -196,7 +196,7 @@ b. Ich entschließe mich dazu, eine Reise zu machen.
 - *in*    : *einfühlen, einhören, einkuscheln, einleben, einlesen, fügen, hineindenken, hineinversetzen, schicken (fügen), vergucken, verlieben, versuchen*
 - *mit*   : *abfinden, abgeben, abmühen, abquälen, auskennen, beeilen, befassen, begnügen, behelfen, beschäftigen, zufriedengeben*
 - *nach*  : *erkundigen, sehnen, umsehen* 
-- *über*  : *beschweren, erkundigen, ereifern, kaputtlachen, mokieren*
+- *über*  : *beschweren, einig sein, erkundigen, ereifern, kaputtlachen, mokieren*
 - *um*    : *balgen, bemühen, bewerben, mühen*
 - *von*   : *erholen, lossagen*
 - *vor*   : *schämen, verbeugen, verneigen*
@@ -381,18 +381,22 @@ It is exceedingly rare to have a dative *sich* without other arguments. A possib
 
 ### [ NA ] Obligatory dative reflexive + accusative {#sec:reflexive-obligatory-dative-accusative}
 
-A dative *sich* with an obligatory accusative is clearly attested, though not very frequent. Note that the meaning of these verbs all include some kind of appropriation. The prefix *er-* occurs recurrently with the meaning "to appropriate something successfully".
+A dative *sich* with an obligatory accusative is clearly attested, though not very frequent. Note that the meaning of these verbs all include some kind of (cognitive) appropriation, like with *vorstellen* 'image' [@next a]. The prefix *er-* occurs recurrently with the meaning "to appropriate something successfully", like with *erspielen* 'to win' [@next b].
+
+::: ex
+- Ich stelle mir das Ergebnis vor.
+- Ich erspiele mir einen Gewinn.
+:::
 
 **Attested Verbs**
 
-- Appropriate: *aneignen, anmaßen, ertanzen, ergeigen, erkämpfen, ermalen, ersingen, erspielen, langen*
-- Appropriate cognitively: *abquälen (erarbeiten), aneignen, angewöhnen, ausdenken, denken, einbilden, merken, vorstellen (denken)*
+- Appropriation verbs: *aneignen, anmaßen, ertanzen, ergeigen, erkämpfen, ermalen, ersingen, erspielen, langen*
+- Verbs of cognitive appropriation: *abquälen (erarbeiten), aneignen, angewöhnen, ausdenken, denken, einbilden, merken, vorstellen (denken)*
 - *verbitten, vornehmen*
 
 **Examples**
 
 - Ich denke mir das Ergebnis aus.
-- Ich stelle mir das Ergebnis vor.
 - Er langte sich ein Glas.
 - Ich muss mir jede Zeile abquälen.
 
@@ -547,7 +551,7 @@ a. Er kniet auf dem Kissen.
 b. Er kniet sich auf das Kissen.
 :::
 
-Bare anticausatives (see [@sec:case-haben-anticausative]) might seem to have a 'free' reflexive [@next a,b]. However, the construction with *sich* [@next b] is just a 'self-inflicting' reflexive of the transitive [@next c],
+Covert anticausatives (see [@sec:case-haben-anticausative]) might seem to have a 'free' reflexive [@next a,b]. However, the construction with *sich* [@next b] is just a 'self-inflicting' reflexive of the transitive [@next c].
 
 ::: ex
 a. Ich habe geduscht.
@@ -1276,17 +1280,26 @@ c. Das Resultat rechnet sich (für mich).
 
 ### [ NA | PN ] Reflexive conversive {#sec:reflexive-preposition-passive}
 
-These verbs are similar to *sich* transitive anticausative, but the "von Geisterhand" reading is not possible. The original nominative can be retained as a prepositional phrase [@next a,b]. All these prepositional phrases are governed prepositions [@next c]. Interestingly, there appears to be a wide variety of propositions that are governed by the various verbs that allow for this diathesis. Note that the *werden* Passive is not possible for these verbs [@next d], though an impersonal passive of the reflexive conversive is possible [@next e].
+These verbs are similar to *sich* transitive anticausative, but the "von Geisterhand" reading is not possible. The original nominative can be retained as a prepositional phrase [@next a,b]. All these prepositional phrases are governed prepositions [@next c]. Interestingly, there appears to be a wide variety of propositions that are governed by the various verbs that allow for this diathesis. In many of these verbs, the role of the reflexive argument appears to be more of an experiencer than a real agent. A German name like 'Erlebnispassiv' might be suitable for this diathesis.
 
 ::: ex
 a. Der Preis empört den Kunden.
 b. Der Kunde empört sich über den Preis.
 c. Der Kunde empört sich darüber, dass der Preis schon wieder gestiegen ist.
-d. ^* Der Kunde wird empört durch den Preis.
-e. Über die Zerstörung der Schöpfung […] wird sich empört.^[DWDS: Berliner Zeitung, 24.11.2003]
 :::
 
-In many of these verbs, the role of the reflexive argument appears to be more of an experiencer than a real agent. A German name like 'Erlebnispassiv' might be suitable for this diathesis.
+Note that the *werden* Passive is not possible for some of these verbs [@next a], though an impersonal passive of the reflexive conversive is possible [@next b]. The verbs with a *durch* alternation, like *lösen* 'to relase' [@nnext], there exist an interesting opposition between the reflexive conversive [@nnext b] and the *werden* passive [@nnext c].
+
+::: ex
+a. ^* Der Kunde wird empört durch den Preis.
+b. Über die Zerstörung der Schöpfung […] wird sich empört.^[DWDS: Berliner Zeitung, 24.11.2003]
+:::
+
+::: ex
+- Dieser Saft hat den Schleim gelöst.
+- Der Schleim hat sich durch diesen Saft gelöst.
+- Der Schleim wird durch diesen Saft gelöst.
+:::
 
 **Attested Verbs**
 
@@ -1339,8 +1352,8 @@ In many of these verbs, the role of the reflexive argument appears to be more of
 - Der Referenzstrahl überlagert den Pulslaser. Der Pulslaser überlagert sich dabei mit einem Referenzstrahl.
 - Der Anblick entsetzte sie. Bei diesem Anblick entsetzte sie sich.
 - Die Schule langweilt mich. Ich langweile mich in der Schule.
-- diese Arznei löst den Schleim. Der Schleim löst sich durch diese Arznei.
 - Die Rede erzürnt mich. Ich erzürne mich über die Rede.
+- Die gute Nachricht erheitert mich. Ich werde erheitert durch die gute Nachricht
 
 **Notes**
 
@@ -1500,7 +1513,7 @@ a. Ich befreunde mich mit ihm.
 b. Ich befreunde ihn.
 :::
 
-### --- [ OBJ > PBJ ] --- *Reflexive Antipassiv* {.unnumbered}
+### --- [ OBJ > PBJ ] --- *Reflexiv Antipassiv* {.unnumbered}
 
 ### [ NA | NP ] Reflexive governed antipassive {#sec:reflexive-accusative-antipassive}
 

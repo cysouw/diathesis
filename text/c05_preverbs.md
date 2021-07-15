@@ -412,9 +412,10 @@ e. Der geärgerte Schulkamerad schrieb: [...]^[~~DWDS~~: Büchner, Georg: Sämmt
 
 **Attested Verbs**
 
-- verˈ- : *ärgern, wundern*
-- beˈ-  : *merken*
+- verˈ- : *ärgern, brauchen, hassen, heiraten, wundern*
+- beˈ-  : *drücken, kennen, merken*
 - erˈ-  : *freuen*
+- zerˈ- : *kratzen*
 - ˈan-  : *ekeln*
 
 **Examples**

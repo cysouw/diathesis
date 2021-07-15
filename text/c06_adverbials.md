@@ -260,7 +260,7 @@ d. ^* Die Aufgabe fällt mir.
 
 **Attested Verbs**
 
-- bekommen, fallen
+- *bekommen, fallen*
 
 ### [ D ] Dative + adverbial {#sec:adverbials-dative}
 
