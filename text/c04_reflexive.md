@@ -756,7 +756,7 @@ a. Er stößt mich in den Teich.
 b. Ich stoße mich am Tisch.
 c. Ich bin auf ihn gestoßen.
 d. Er stößt mich an die Wand.
-e. Ich stosse mich in die Tiefe meiner Finsternis, um meine Finsternis zu erkennen^[http://bluemountain.princeton.edu/bluemtn/?a=d&d=bmtnabg19231201-01.2.2&, accessed 10 January 2019]
+e. Ich stosse mich in die Tiefe meiner Finsternis, um meine Finsternis zu erkennen^[Attested online at <http://bluemountain.princeton.edu/bluemtn/?a=d&d=bmtnabg19231201-01.2.2&>, accessed 10 January 2019.]
 :::
 
 ### [ ND | Nd ] Self-inflicting dative reflexive {#sec:reflexive-self-dative}
@@ -1292,7 +1292,7 @@ Note that the *werden* Passive is not possible for some of these verbs [@next a]
 
 ::: ex
 a. ^* Der Kunde wird empört durch den Preis.
-b. Über die Zerstörung der Schöpfung […] wird sich empört.^[DWDS: Berliner Zeitung, 24.11.2003]
+b. Über die Zerstörung der Schöpfung […] wird sich empört.^[~~DWDS~~: Berliner Zeitung, 24.11.2003]
 :::
 
 ::: ex
@@ -1653,7 +1653,7 @@ d. ^* Ich träume mich.
 - Die Motten fressen von/an den Pullover. Die Motten fressen sich durch den Pullover.
 - Bevor ich auf das Wasser gehe, muss ich meine Kür exakt im Kopf haben, ich denke mich quasi durch meinen Trick.^[~~DWDS~~: Die Zeit, 16.06.2009, Nr. 25.]
 - Er zitterte vor der Prüfung. Würzburg zitterte sich am Ende in die Playoffs.^[~~DWDS~~: Die Zeit, 07.05.2016.]
-- Schalke schießt sich aus der Krise.^[https://www.faz.net/aktuell/sport/2-0-gegen-hannover-schalke-schiesst-sich-aus-der-krise-1258798.html, accessed 30.03.21]
+- Schalke schießt sich aus der Krise.^[Attested online at <https://www.faz.net/aktuell/sport/2-0-gegen-hannover-schalke-schiesst-sich-aus-der-krise-1258798.html>, accessed 30 March 2021.]
 
 ### --- [ OBJ > OBJ ] --- {.unnumbered}
 

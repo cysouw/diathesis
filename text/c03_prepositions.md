@@ -334,7 +334,7 @@ Some verbs appear to have an obligatory locational argument, like *wohnen* 'to l
 
 **Examples**
 
-- Die Sportler zogen in das Stadion ein.^[DWDS: Lemma *einziehen*.]
+- Die Sportler zogen in das Stadion ein.^[~~DWDS~~: Lemma *einziehen*.]
 
 ### [ NAL ] Obligatory local preposition + accusative {#sec:prepositions-obligatory-local}
 
@@ -1541,13 +1541,13 @@ Er klopft den Aschenbecher leer.
 - Er schwindelt ihn auf die Liste.
 - Sie gräbt das Frühstück aus dem Rucksack.
 - Das Herz pumpt das Blut durch den Körper.
-- Das allgemeine politische Klima weht den Illegalen ins Gesicht.^[DWDS: Die Zeit, 30.07.2010]
-- Der Zeitgeist weht den üblichen Akustikschrott in die Besucherohren.^[DWDS: Die Zeit, 08.03.1996]
-- Die frische Brise kämmt die Palmen und weht den Flugsand auf die Promenade.^[DWDS: Die Zeit, 04.05.1990]
-- Man rückt und rutscht nicht dauernd auf seinem Stuhl hin und her, man vermeidet es, die anderen Besucher mit seinen langen Beinen zu behelligen, oder hustet den in der nächsten Reihe Sitzenden nicht ungeniert in den Nacken.^[DWDS: Oheim, Gertrud: Einmaleins des guten Tons, Gütersloh: Bertelsmann 1957, S. 296]
-- Ich huste den letzten Bissen Leberkäse auf den Rasen.^[DWDS: Lehner, Angela: Vater Unser, Berlin: Hanser 2019]
-- Man taute in der Sauna seine durchfrorenen Glieder auf und schwitzte den Schmutz aus den Poren.^[DWDS: Fresenius, Hanna: Sauna, Reinbek bei Hamburg: Rowohlt 1987, S. 15]
-- Der Meister war da, stampfte den Schnee von den Schuhen.^[DWDS: Weismantel, Leo: Die höllische Trinität, Berlin: Union-Verlag 1966, S. 54]
+- Das allgemeine politische Klima weht den Illegalen ins Gesicht.^[~~DWDS~~: Die Zeit, 30.07.2010]
+- Der Zeitgeist weht den üblichen Akustikschrott in die Besucherohren.^[~~DWDS~~: Die Zeit, 08.03.1996]
+- Die frische Brise kämmt die Palmen und weht den Flugsand auf die Promenade.^[~~DWDS~~: Die Zeit, 04.05.1990]
+- Man rückt und rutscht nicht dauernd auf seinem Stuhl hin und her, man vermeidet es, die anderen Besucher mit seinen langen Beinen zu behelligen, oder hustet den in der nächsten Reihe Sitzenden nicht ungeniert in den Nacken.^[~~DWDS~~: Oheim, Gertrud: Einmaleins des guten Tons, Gütersloh: Bertelsmann 1957, S. 296]
+- Ich huste den letzten Bissen Leberkäse auf den Rasen.^[~~DWDS~~: Lehner, Angela: Vater Unser, Berlin: Hanser 2019]
+- Man taute in der Sauna seine durchfrorenen Glieder auf und schwitzte den Schmutz aus den Poren.^[~~DWDS~~: Fresenius, Hanna: Sauna, Reinbek bei Hamburg: Rowohlt 1987, S. 15]
+- Der Meister war da, stampfte den Schnee von den Schuhen.^[~~DWDS~~: Weismantel, Leo: Die höllische Trinität, Berlin: Union-Verlag 1966, S. 54]
 
 **Notes**
 
@@ -1671,7 +1671,7 @@ b. Sie schimpft mich einen Narren
 
 **Examples**
 
-- Er sitzt immer am selben Platz bei Bier und Schnaps, flucht mich einen Tagedieb, einen Affen, Bananenfresser, einen, der schon längstens in eine Arbeitserziehungsanstalt gehöre.^[http://www.gruppe-4-w.de/forum/viewtopic.php?f=21&t=2047#p19030, accessed 29 Juli 2019]
+- Er sitzt immer am selben Platz bei Bier und Schnaps, flucht mich einen Tagedieb, einen Affen, Bananenfresser, einen, der schon längstens in eine Arbeitserziehungsanstalt gehöre.^[Attested online at <http://www.gruppe-4-w.de/forum/viewtopic.php?f=21&t=2047#p19030>, accessed 29 Juli 2019.]
 
 ### --- [ ADJ > OBJ ] --- *Benefaktivdativ* {.unnumbered}
 
@@ -1691,7 +1691,7 @@ a. Ich arbeite für den Chef.
 b. ^* Ich arbeite dem Chef.
 c. Ich gewinne das Geld für dich.
 d. ^^?^ Ich gewinne dir das Geld.
-e. Gib mir eine Waffe und ich gewinne dir jeden Krieg.^[http://www.kriegssinfonie.ch/2018/08/paradox/, accessed 10.01.19]
+e. Gib mir eine Waffe und ich gewinne dir jeden Krieg.^[Attested online at <http://www.kriegssinfonie.ch/2018/08/paradox/>, accessed 10 January 2019.]
 :::
 
 **Attested Verbs**

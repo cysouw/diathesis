@@ -83,7 +83,7 @@ e. Ich haben gegen die Resignation angetanzt. \
    (= sich gegen etwas stemmen)
 f. Er ist beim Chef angetanzt. \
    (= wurde herbei zitiert)
-g. Bewegungsfolgen werden nur angetanzt und immer wieder abgebrochen.^[DWDS: Neue Zürcher Zeitung, 30.09.2000] \
+g. Bewegungsfolgen werden nur angetanzt und immer wieder abgebrochen.^[~~DWDS~~: Neue Zürcher Zeitung, 30.09.2000] \
    (= die Bewegung nicht vollständig ausführen)
 :::
 

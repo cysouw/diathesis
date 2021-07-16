@@ -751,7 +751,7 @@ e. Der Koran wird unterrichtet.
 
 ### [ NAD | N–D ] Accusative drop + dative
 
-This is the pattern as attested with the verb *danken* 'to thank' as exemplified in [@next a-c]. The accusative can be left out, but only when the dative is retained. The dative cannot be dropped. This seems to be very rare. There seems to be a generalisation that the accusative can normally not be dropped before also a governed dative is dropped (see also [@sec:prepositions-demotion-of-object]). Note that the sentence in [@next a] appears to be rejected by many German speakers, but it is clearly attested.^[cf. https://www.dwds.de/wb/danken.]
+This is the pattern as attested with the verb *danken* 'to thank' as exemplified in [@next a-c]. The accusative can be left out, but only when the dative is retained. The dative cannot be dropped. This seems to be very rare. There seems to be a generalisation that the accusative can normally not be dropped before also a governed dative is dropped (see also [@sec:prepositions-demotion-of-object]). Note that the sentence in [@next a] appears to be rejected by many German speakers, but it is clearly attested.^[cf. <https://www.dwds.de/wb/danken>.]
 
 ::: ex
 a. Ich danke dem Arzt mein Leben.
