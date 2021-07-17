@@ -27,7 +27,6 @@ filters:
 - filters/count-para.lua
 - filters/pandoc-ling.lua
 - pandoc-crossref
-- filters/crossref-adapt.lua
 - citeproc
 
 metadata-files:

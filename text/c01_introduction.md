@@ -2305,7 +2305,7 @@ b. Der Schlüssel bleibt verschwunden.
 
 ### *Transitiv Kontinuativperfekt* (*halten/lassen + Partizip*)
 
-(*halten* [@sec:participles-halten-durative]) and *lassen* [@sec:participles-lassen-durative])
+(full discussion in [@sec:participles-halten-lassen-durative])
 
 ::: ex
 a. Ich schließe die Tür.
@@ -2320,6 +2320,15 @@ c. Ich lasse die Tür geschlossen.
 ::: ex
 a. Der Plan scheitert.
 b. Der Plan erscheint gescheitert.
+:::
+
+### *Erfolgsperfekt* (*bekommen/kriegen + Partizip*) {#sec:summary-}
+
+(full discussion in [@sec:participles-bekommen-achievement])
+
+::: ex
+a. Der Eigentümer vermietet die Wohnung.
+b. Der Eigentümer kriegt die Wohnung vermietet.
 :::
 
 ### *Origobewegung* (*kommen + Partizip*)

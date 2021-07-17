@@ -49,7 +49,7 @@ There are fourteen local groups of diatheses that seem prominent enough to be gi
 
 ## Delimiting governed prepositional phrases {#sec:prepositions-delimiting-governed-prepositional-phrases}
 
-### Identifying governed prepositions
+### Identifying governed prepositions {#sec:prepositions-identifying-governed-prepositions}
 
 As a general rule (with some exceptions with *für* and *durch* to be discussed below) I propose to identify prepositional phrases as lexically governed arguments when they allow for a paraphrase of the form *da-~~preposition~~, dass/was ~~sentence~~* (cf. Engelen 1986: 110-112). For example, the verb *warten* 'to await' has a possible governed preposition *auf* designating the object that is waited for [@next a]. In this reading, [@next a] can be paraphrased by [@next b] with a *darauf, dass* subordinate clause. The combination *warten auf* can best be considered a fixed collocation, to be translated into English as 'waiting for'. However, the preposition *auf* can also have its adverbial local meaning 'on top of' [@next c]. This leads to another interpretation in which the prepositional phrase is not a governed preposition but an adverbial phrase with a local meaning, paraphrased in [@next d]. These two readings can even be combined [@next e], with an interesting difference in case marking between the two prepositional phrases.
 
