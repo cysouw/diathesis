@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The term ~~participle~~ is used here as a name for a verb form known in German grammar as *Partizip II*, for example *geschrieben* 'written' in [@next]. There is another *Partizip*, known in German grammar as *Partizip I*, but this word form plays no role in the expression of diatheses. Constructions consisting of a participle combined with an auxiliary-like 'light' verb (i.e. a verb with limited lexical meaning) are manifold in German. They include constructions without diathesis, like the German *haben + Partizip* ~~Perfekt~~ [@next a], and constructions with diathesis, like the *werden + Partizip* ~~Vorgangspassiv~~ [@next b]. 
+The term ~~participle~~ is used here as the name for a verb form known in German grammar as *Partizip II*, for example *geschrieben* 'written' in [@next]. There is another *Partizip*, known in German grammar as *Partizip I*, but this word form plays no role in the expression of diatheses. Constructions consisting of a participle combined with an auxiliary-like 'light' verb (i.e. a verb with limited lexical meaning) are manifold in German. They include constructions without diathesis, like the German *haben + Partizip* ~~Perfekt~~ [@next a], and constructions with diathesis, like the *werden + Partizip* ~~Vorgangspassiv~~ [@next b]. 
 
 ::: ex
 a. Ich habe einen Brief geschrieben.
@@ -52,7 +52,7 @@ The following eleven diatheses seem prominent enough to grant them a German name
 
 ### Identifying participles {#sec:participles-identifying-participles}
 
-German participles – in German grammar idiosyncratically known as *Partizip II* – can rather straightforwardly be identified by their morphology. However, this identification is complicated by the existence of a wide range of allomorphs, which will only be succinctly summarised here [cf. @duden2009: 440, §613-614; @eisenberg2006: 201-202]:
+German participles – in German grammar idiosyncratically known as *Partizip II* – can rather straightforwardly be identified by their morphology. However, this identification is complicated by the existence of a wide range of allomorphy, which will only be succinctly summarised here [cf. @duden2009: 440, §613-614; @eisenberg2006: 201-202]:
 
 - Typically, participles have a prefix *ge-*, like in *ge-kauf-t* (stem *kauf*), except when the stem already contains one of the prefixes *be-, er-, ver-, zer-, ent-*, like in *verkauf-t*. The prefix will appear between the stem and so-called verb particles *an-, ein-, vor*, etc., like in *ein-ge-kauf-t*.
 - Typically, participles have a suffix *-t*, like in *ge-kauf-t*, in some phonological surroundings with an epenthetic schwa, like in *ge-wart-et* (stem: *wart*). In a large but closed class of verbs the suffix is *-en*, like in *ge-lauf-en* (stem *lauf*), often combined with ablaut of the stem vowel, like in *ge-fund-en* (stem *find*).
@@ -101,9 +101,9 @@ Crucially, the adnominal and adverbial usage of participles are not monoclausal.
 
 ### Adnominally used participles {#sec:participles-adnominal-usage}
 
-The first observation of a restriction on participle usage goes back to the *Sprachlehre* of Carl Friedrich Aichinger [-@aichinger1754: 282 ff.]. He reserves the term ~~participium~~ for those stems that allow for an adnominal usage of their participles, like with *geputzt* in [@lllast]. His rationale for this restriction is that 'real' participles should allow for declension (like in Latin) and in German only the adnominal usage shows (minimal) declension. In contrast, participles that only occur in light-verb constructions, like *geschlafen* in [@last] are morphologically immutable in German. Inflected word forms like *geschlafene*, *geschlafenes* or *geschlafenen* do not exist in German. Aichinger proposes a separate name for such immutable participles, namely ~~supinum~~. This nomenclature is unfortunate, because the German participle has no relation at all to the Latin supine, neither formally nor functionally. Being criticised for this terminology, Aichinger in a later reply explains that he uses the term 'Supinum' solely because the Latin supine is also an immutable verb from [@aichinger1776: 627]. Although there are many unfortunate terminological confusions in the history of linguistics, this usage of the term 'Supinum' is regrettably still around in German grammatical literature to this day (with a history of transmission that deserves more in-depth study), most forcefully reinforced by the usage of this term in Bech [-@bech1955] and the large literature building on that influential work.
+The first observation of a restriction on participle usage goes back to the *Sprachlehre* of Carl Friedrich Aichinger [-@aichinger1754: 282 ff.]. He reserves the term ~~participium~~ for those stems that allow for an adnominal usage of their participles, like with *geputzt* in [@lllast]. His rationale for this restriction is that 'real' participles should allow for declension (like in Latin) and in German only the adnominal usage shows (minimal) declension. In contrast, participles that only occur in light-verb constructions, like *geschlafen* in [@last] are morphologically immutable in German. Inflected word forms like *geschlafene*, *geschlafenes* or *geschlafenen* do not exist in German. Aichinger proposes a separate name for such immutable participles, namely ~~supinum~~. This nomenclature is unfortunate, because the German participle has no relation at all to the Latin supine, neither formally nor functionally. Being criticised for this terminology, Aichinger in a later reply explains that he uses the term *Supinum* solely because the Latin supine is also an immutable verb from [@aichinger1776: 627]. Although there are many unfortunate terminological confusions in the history of linguistics, this usage of the term *Supinum* is regrettably still around in German grammatical literature to this day (with a history of transmission that deserves more in-depth study), most forcefully reinforced by the usage of this term in Bech [-@bech1955] and the large literature building on that influential work.
 
-The basic observation of Aichinger, though, is sound. There is clearly a group of verbs in German that do not allow for an adnominal usage of their participle. The impossibility of participles to function adnominally is nowadays often included as one of the characteristics of 'unaccusative' intransitives (here called 'agentive'). Basically (and strongly simplified), the claim is that the verbs without adnominal participles are intransitive verbs that take the auxiliary *haben* in the perfect (see [@sec:participles-restrictions]). Empirically, this correlation appears to be rather strong, though it is not without exceptions. For example, the verb *schmerzen* 'to hurt' (participle *geschmerzt*) and the verb *lügen* 'to lie' (participle *gelogen*) both have a perfect with the auxiliary *haben* and their participles are typically not used adnominally. However, exceptions can be found [@next], though semantically these examples suggest a 'patientive' relation between the participle and the noun.
+The basic observation of Aichinger, though, is sound. There is clearly a group of verbs in German that do not allow for an adnominal usage of their participle. The impossibility of participles to function adnominally is nowadays often included as one of the characteristics of so-called unaccusative intransitives (here called 'agentive'). Basically (and strongly simplified), the claim is that the verbs without adnominal participles are intransitive verbs that take the auxiliary *haben* in the perfect (see [@sec:participles-restrictions]). Empirically, this correlation appears to be rather strong, though it is not without exceptions. For example, the verb *schmerzen* 'to hurt' (participle *geschmerzt*) and the verb *lügen* 'to lie' (participle *gelogen*) both have a perfect with the auxiliary *haben* and their participles are typically not used adnominally. However, exceptions can be found [@next], though semantically these examples suggest a 'patientive' relation between the participle and the noun.
 
 ::: ex
 a. Sein Körper hat geschmerzt. \
@@ -133,7 +133,7 @@ d. ^* Der gelaufene Schüler weint.
 
 ### Adverbially used participles {#sec:participles-secondary-predicates}
 
-Participles that can be used adnominally can also be used adverbially, as so-called depictive secondary predicates [@next a], see also [@sec:adverbials-depictive-predicates]. In such sentences, the participle functions syntactically like an adverb in the sentence structure [@next b]. The problem is that constructions with adverbial participles, like [@next a], are highly similar to light-verb constructions. For example, both constructions are coherent [@next c,d], see [@sec:intro-coherence] on the notion 'coherence'. 
+Participles that can be used adnominally can also be used adverbially, as so-called depictive secondary predicates [@next a], cf. also [@sec:adverbials-depictive-predicates]. In such sentences, the participle functions syntactically like an adverb in the sentence structure [@next b]. The problem is that constructions with adverbial participles, like [@next a], are highly similar to light-verb constructions. For example, both constructions are coherent [@next c,d], cf. [@sec:intro-coherence]. 
 
 ::: ex
 a. Er verkauft die Nägel gebogen.
@@ -153,10 +153,10 @@ c. Ihm wird ein Buch geschenkt.
 Synchronically, predicates as depictive secondary predicates and participles in light-verb constructions can be clearly separated. In the remainder of this section I will present five such criteria:
 
 i. Leaving out the participle.
-ii. Comparing the syntactic properties of participles and lexical adverbs.
+ii. Comparing the syntactic properties of participles to lexical adverbs.
 iii. Adding negation to the participle.
 iv. The semantic scope of the participle.
-v. Retention of arguments with participles.
+v. Retention of arguments with the participle.
 
 First, a participle as secondary predicate [@next a] can in most cases easily be identified by trying to leave it out of the sentence [@next b] or replace it with an adverb [@next c]. The finite predicate of the sentence (here *verkaufen*, 'to sell') should not change its meaning, and in general the meaning of the sentence will remain almost identical (except of course for the meaning of the missing or replaced participle).
 
@@ -211,7 +211,7 @@ Fifth and finally, in some circumstances arguments can be retained when particip
 
 ::: ex
 a. Der Balkon sieht *kaputt* aus. \
-   (replace *kaputt* with *Irgendjemand überlässt den Balkon dem Wetter* then it becomes:) \
+   (replacing *kaputt* with *Irgendjemand überlässt den Balkon dem Wetter*:) \
    Der Balkon sieht *dem Wetter überlassen* aus.
 b. ^* Der Balkon sieht überlassen aus.
 :::
@@ -220,16 +220,16 @@ Some more examples of such retained arguments are shown in [@next] with intransi
 
 ::: ex
 a. Er hustete *plötzlich*. \
-   (replace *plötzlich* with *Schmerzen quälen ihn* then it becomes:) \
+   (replacing *plötzlich* with *Schmerzen quälen ihn*:) \
    Er hustete *von Schmerzen gequält*.
 b. Der Beschuldigte fühlt sich *schlecht*. \
-   (replace *schlecht* with *Irgendjemand liefert ihn dem Gericht aus* then it becomes:) \
+   (replacing *schlecht* with *Irgendjemand liefert ihn dem Gericht aus*:) \
    Der Beschuldigte fühlt sich *dem Gericht ausgeliefert*.
 :::
 
 ### Temporal interpretation of participle constructions {#sec:participles-temporal-interpretation}
 
-A widely discussed property of participle construction is the temporal structure of the resulting expression [cf. @hohle1978: 42; @nedjalkov1988a: 412; @maienborn2007: 88; @businger2017: 162, among many others]. There is a recurrent difference between ~~tense-oriented~~ and ~~perfect-oriented~~ participle constructions ['perfect' in the sense of @comrie1976: Ch. 3]. The role of perfective and imperfective aspectual meanings is rather inconclusive, so I propose to focus on slightly odd opposition "tense vs. perfect" as the main diagnostic for the differences in temporal structure established by participle constructions. Note that in the German grammatical tradition there is a verb form called *Perfekt* that, confusingly, is primarily tense-oriented and not perfect-oriented (more on this below). 
+A widely discussed property of participle construction is the temporal structure of the resulting expression [cf. @hohle1978: 42; @nedjalkov1988a: 412; @maienborn2007: 88; @businger2017: 162, among many others]. There is a recurrent difference between ~~tense-oriented~~ and ~~perfect-oriented~~ participle constructions [perfect in the sense of @comrie1976: Ch. 3]. The role of perfective and imperfective aspectual meanings is rather inconclusive, so I propose to focus on slightly odd opposition "tense vs. perfect" as the main diagnostic for the differences in temporal structure established by participle constructions. Note that in the German grammatical tradition there is a verb form called *Perfekt* that, confusingly, is primarily tense-oriented and not perfect-oriented (more on this below). 
 
 A construction is ~~tense-oriented~~ when it is possible to add a punctual non-present temporal adverbial to the participle construction, like *gestern* 'yesterday', *morgen* 'tomorrow', or *vor zwei Tagen* 'two days ago'. Contemporaneous adverbials, like *jetzt* 'now' or *heute* 'today' are not useful to test for tense-orientation, as they are also compatible with perfect-orientation. For example, the *werden* Passive in [@next a] and the *bekommen* Dative Passive in [@next b] are both tense-oriented. In contrast, the *bleiben* anticausative in [@nnext a] and the *wissen* Opiniativ in [@nnext b] are both not tense-oriented.
 
@@ -589,7 +589,7 @@ a. Ich bin einverstanden.
 b. ^* Ich verstehe ein.
 :::
 
-**Attested Verbs**
+**Attested Participles**
 
 - *abgeneigt, bekannt, einverstanden, zerschunden*
 - *aus-* : *ausgeblufft, ausgedient, ausgekämpft, ausgeknabbert, ausgelitten, ausgepredigt, ausgeschätzelt, ausgesorgt, ausgespielt, ausgeträumt, ausgezaubert, ausstudiert*
@@ -599,9 +599,9 @@ b. ^* Ich verstehe ein.
 
 ### --- *haben/sein Perfekt* --- {.unnumbered}
 
-The combination of the light verbs *haben* and *sein* with a participle is traditionally considered to be a single tense/aspect construction called ~~Perfekt~~ in German grammatical terminology. Given the latinate origin of much of modern grammatical theory, the wish for a German equivalent of the inflectional Latin ~~Perfectum~~ is perfectly understandable. However, it is far from obvious that this *Perfect* is a unified construction in German.
+The combination of the light verbs *haben* and *sein* with a participle is traditionally considered to be a single tense/aspect construction called ~~Perfekt~~ in German grammatical terminology. Given the latinate origin of much of modern grammatical theory, the wish for a German equivalent of the inflectional Latin ~~Perfectum~~ is perfectly understandable. However, it is far from obvious that this *Perfekt* is a unified construction in German.
 
-The most intriguing argument in favour of a unified *Perfekt* construction is that every verb stem in German has an epithetical construction consisting of *haben* or *sein* with a participle. In other words, every stem that allows for finite person/number agreement (i.e. *ich kauf-e, du kauf-st, er kauf-t*, etc.) also has at least one of the two constructions *haben + Partizip* or *sein + Partizip* without any change in role mapping (i.e. without diathesis). Such an universal applicability of a construction to all verbs is otherwise only attested (arguably) with *Modalverben* (see [@sec:infinitive-werden-modal] and subsequent sections). All the hundreds of other constructions discussed in this book always have a restricted domain of application (see [@sec:intro-domain-of-application]). The universal applicability of the *Perfekt* is known to have been developed in the late Middle Ages and was only completed in the 16th century with the development of a *haben + Partizip* construction for *Modalverben* [@fischer2020: 258].^[Fischer writes: "Ab 1300 und häufiger erst ab 1400 bildet auch das Verb *haben* Perfektformen (*hat gehabt*). Perfektbildungen der Modalverben sind erst ab Anfang des 16. Jahrhunderts belegt, wobei diese im Mittelhochdeutschen noch verschiedene Konkurrenzformen haben […]. Erst dann hat die Perfektgrammatikalisierung alle Verben des Deutschen erfasst und ist vollständig vollzogen." [@fischer2020: 258]] However, examples with various *Modalverben* are still really rare in German. For example, in the ~~DWDS~~ corpus only a few examples of *haben gedurft* are attested, almost exclusively with *haben* in the conjunctive.
+The most intriguing argument in favour of a unified *Perfekt* construction is that every verb stem in German has an epithetical construction consisting of *haben* or *sein* with a participle. In other words, every stem that allows for finite person/number agreement (i.e. *ich kauf-e, du kauf-st, er kauf-t*, etc.) also has at least one of the two constructions *haben + Partizip* or *sein + Partizip* without any change in role mapping (i.e. without diathesis). Such an universal applicability of a construction to all verbs is otherwise only attested (arguably) with *Modalverben* (see [@sec:infinitive-werden-modal] and subsequent sections). All the hundreds of other constructions discussed in this book always have a restricted domain of application (cf. [@sec:intro-domain-of-application]). The universal applicability of the *Perfekt* is known to have been developed in the late Middle Ages and was only completed in the 16th century with the development of a *haben + Partizip* construction for *Modalverben* [@fischer2020: 258].^[Fischer writes: "Ab 1300 und häufiger erst ab 1400 bildet auch das Verb *haben* Perfektformen (*hat gehabt*). Perfektbildungen der Modalverben sind erst ab Anfang des 16. Jahrhunderts belegt, wobei diese im Mittelhochdeutschen noch verschiedene Konkurrenzformen haben […]. Erst dann hat die Perfektgrammatikalisierung alle Verben des Deutschen erfasst und ist vollständig vollzogen." [@fischer2020: 258]] However, examples of a *Perfekt* with various *Modalverben* are still really rare in German. For example, in the ~~DWDS~~ corpus only a few examples of *haben gedurft* are attested, almost exclusively with *haben* in the conjunctive.
 
 In contrast, there are also various arguments against a unified *Perfekt* construction in German. First, there is a sizeably group of intransitive verbs that allow for both the *haben* and the *sein* construction without any role-marking changes. There are intransitives with two possibilities, like *splittern* 'to splinter, to sliver' [@next], see [@sec:participles-haben-sein-perfect], and there is a special kind of intransitives that take *haben* with reflexive pronouns, but *sein* without reflexive pronouns, like *verspäten* 'to be late' [@nnext], see [@sec:participles-haben-sein-perfect-reflexive-drop].
 
@@ -922,7 +922,7 @@ c. Er ist aufgeregt (wegen den Lärm).
 
 ### [ ND | ND ] *haben + Partizip* Dative perfect {#sec:participle-haben-perfect-dative}
 
-Verbs with a dative argument are strictly split between *sein* and *haben*. There do not appear to be any verbs that allow for both. The grammatical status of the datives is slightly different among these verbs (, see [@sec:case-nominative-dative; @sec:case-dative-drop; @sec:prepositions-dative-antipassive; @sec:preverb-dative-applicative] for detailed discussion). Similar to intransitives, the dative verbs with a *haben* Perfect, like *antworten* 'to answer' [@next a], do not allow for a construction with an adnominal participle [@next b], but the impersonal *werden* passive is possible [@next c].
+Verbs with a dative argument are strictly split between *sein* and *haben*. There do not appear to be any verbs that allow for both. The grammatical status of the datives is slightly different among these verbs (see [@sec:case-nominative-dative; @sec:case-dative-drop; @sec:prepositions-dative-antipassive; @sec:preverb-dative-applicative] for detailed discussion). Similar to intransitives, the dative verbs with a *haben* Perfect, like *antworten* 'to answer' [@next a], do not allow for a construction with an adnominal participle [@next b], but the impersonal *werden* passive is possible [@next c].
 
 ::: ex
 a. Die Professorin hat dem Student geantwortet.
@@ -2287,11 +2287,11 @@ b. Die Qualifikation macht mich geeignet für den Job.
 
 ## Diatheses with object demotion
 
-Not Attested
+Not Attested.
 
 ## Diatheses with promotion to object
 
-Not Attested
+Not Attested.
 
 ## Symmetrical diatheses
 

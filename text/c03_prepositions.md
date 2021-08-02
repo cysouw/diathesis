@@ -604,6 +604,10 @@ c. Ich ärgere mich über deine Witze.
 - Der Brief des Entführers erschreckt mich. Der Entführer erschreckt mich mit einem Brief.
 - Der Brief beweist/bestätigt/erklärt/rechtfertigt meine Unschuld. Ich beweise/bestätige/erkläre/rechtfertige meine Unschuld mit dem Brief.
 
+**Notes**
+
+For a detailed discussion of the verb *erschrecken* and possible morphophonolical differences between the two alternants, see Plank & Lahiri [@plank2015: 29-31].
+
 ### [ NP | –N ] Intransitive fabricative
 
 ::: ex
@@ -662,7 +666,7 @@ c. Der Teller ist am Tisch geklebt.
 
 **Notes**
 
-The verb *hängen* still shows the difference between transitive causative and intransitive stative usage through different forms of the past *hing* vs. *hängte* [@next a,b] and the participle *gehangen* vs. *gehängt* [@next c,d]. Many speakers of German do not appear to have clear intuitions about any difference between these two inflectional alternatives anymore.
+The verb *hängen* still shows the difference between transitive causative and intransitive stative usage through different forms of the past *hing* vs. *hängte* [@next a,b] and the participle *gehangen* vs. *gehängt* [@next c,d]. Many speakers of German do not appear to have clear intuitions about any difference between these two inflectional alternatives anymore [see also @plank2015: 32-33].
 
 ::: ex
 a. Der Pullover hing im Schrank.
@@ -1135,7 +1139,7 @@ c. Ich und mein Freund heiraten miteinander.
 
 #### *nach* Antipassive
 
-Accusative objects that alternate with a *nach* prepositional phrase indicate an uncompleted action in the direction of an object (cf. Proost 2009).
+Accusative objects that alternate with a *nach* prepositional phrase indicate an uncompleted action in the direction of an object [cf. @proost2009].
 
 **Attested Verbs**
 

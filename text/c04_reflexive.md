@@ -391,7 +391,7 @@ A dative *sich* with an obligatory accusative is clearly attested, though not ve
 **Attested Verbs**
 
 - Appropriation verbs: *aneignen, anmaßen, ertanzen, ergeigen, erkämpfen, ermalen, ersingen, erspielen, langen*
-- Verbs of cognitive appropriation: *abquälen (erarbeiten), aneignen, angewöhnen, ausdenken, denken, einbilden, merken, vorstellen (denken)*
+- Verbs of cognitive appropriation: *abgewöhnen, abquälen (erarbeiten), aneignen, angewöhnen, ausdenken, denken, einbilden, merken, vorstellen (denken)*
 - *verbitten, vornehmen*
 
 **Examples**

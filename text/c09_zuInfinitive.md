@@ -274,6 +274,35 @@ Wo ist die Grenze zu lexikales *geben*?: vgl. *essen, trinken, tun, lesen, trage
 - Diese Tagebücher gab sie mir zu lesen.
 - Ich gebe ihm eine Tasche zu tragen.
 
+### [ –N | NA ] *lehren + zu + Infinitiv* {#sec:zuinfinitive-lehren}
+
+less frequent: koherent with zu + Infinitiv
+
+- Meine Worte gehen unter in den Liedern, die ich euch zu singen lehrte.^[~~DWDS~~: Brückner, Christine: Wenn du geredet hättest, Desdemona, Frankfurt a. M.: Ullstein 1986, S. 7]
+- Es ehrt den Historiker, wenn er die Spuren der Geschichte ausleuchtet, sie interpretiert und zu verstehen lehrt.^[~~DWDS~~: Berliner Zeitung, 08.03.2003]
+
+
+- Es ist bekannt, dass er den Schüler [gelehrt hat] die Spuren [zu verstehen].
+- Es ist bekannt, dass er den Schüler die Spuren [zu verstehen] [gelehrt hat].
+
+### [ –N | ND ] *helfen + zu + Infinitiv* Assistive {#sec:zuinfinitive-helfen}
+
+With *zu* both coherent and non-coherent:
+
++ AKK
+
+- Schon deshalb haben die Reifen nur ein einfaches Rillenprofil, das Aquaplaning zu verhindern hilft.^[~~DWDS~~: Die Zeit, 10.01.2013, Nr. 03]
+- … ein Rollenprofil, das hilft Aquaplaning zu verhindern.
+
++ Dat
+
+- Die Leute kümmern sich um dich, solange du ihnen zu gewinnen hilfst.^[~~DWDS~~: Die Zeit, 17.03.2016, Nr. 13]
+- … solange du ihnen hilfst zu gewinnen.
+
++ Dat + Akk
+
+- Bettelheim verteidigte darin den Märchen-Grusel, der den Kindern eigene Schrecken zu verarbeiten helfe.^[~~DWDS: Berliner Zeitung, 29.12.2003]
+
 ## Diatheses with object demotion
 
 not attested

@@ -22,7 +22,7 @@ Nach dem Aufstehen
 
 ### *sein + am + Infinitiv* Verlaufsform {#sec:zuminfinitive-sein-am}
 
-[@gargyan2010; krause2012]
+[@gargyan2010; krause2002]
 
 - Der Feind greift an.
 - Der Feind ist am Angreifen.
