@@ -820,7 +820,7 @@ b. Der Reporter spricht von einem historischen Ereignis. Der Reporter spricht da
 - *von*   : (Content of cognitive process) *träumen*
 - *auf*   : (Object of expectation) *drängen, hoffen, rechnen, verzichten, warten*
 - *auf*   : (Object of emotional reaction) *schimpfen*
-- *nach*  : (Object of smell/taste) *duftet, riechen, stinken, schnüffeln, schmecken*
+- *nach*  : (Object of smell/taste) *duften, riechen, stinken, schnüffeln, schmecken*
 - *vor*   : (Object of emotional reaction) *platzen, rasen (Emotion), schreien*
 - *an*:   : *arbeiten, denken, klopfen, scheitern, sterben, teilnehmen, zweifeln*
 - *um*:   : *streiten*

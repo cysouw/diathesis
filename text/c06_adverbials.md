@@ -439,14 +439,15 @@ A very similar diathesis is attested with transitives, see [@sec:adverbial-refle
 
 ### [ NA | –N ] Reflexive anticausative + depictive adverbial {#sec:adverbial-reflexive-transitive-anticausative}
 
-With many verbs an anticausative is only possible with a manner adverbial and a reflexive pronoun [@next]. There is a clear parallel to the diathesis for intransitives described in [@sec:adverbial-reflexive-drop].
+With many verbs an anticausative is only possible with an evaluative adverbial and a reflexive pronoun [@next]. There is a clear parallel to the diathesis for intransitives described in [@sec:adverbial-reflexive-drop]. The semantically highly similar *lassen + Infinitiv* construction [@next c] does not need the adverbial (see [@sec:infinitive-lassen-reflexive-anticausative]).
 
 ::: ex
 a. Ich scheine die Wurst mit diesem Messer.
 b. Die Wurst schneidet sich schwer mit diesem Messer.
+c. Die Wurst lässt sich mit diesem Messer schneiden.
 :::
 
-Kunze [-@kunze1996: 647] and Steinbach [-@steinbach1998] call this 'middle', Zifonun [-@zifonun2003] 'fazilitives Medium', Wiemer & Nedjalkov [-@wiemer2007: 465-466] classify it as a 'passive-like meaning of reflexive' and Kulikov [-@kulikov2011: 375-376] talks about a 'potential agentless passive'. Steinbach [-@steinbach1998: 25ff.] argues that the adverbial is not necessary in the 'middle' construction, but this is because he combines different constructions under the heading of 'middle'. The examples without adverbial are discussed here as a separate construction in [@sec:reflexive-anticausative].
+Kunze [-@kunze1996: 647] and Steinbach [-@steinbach1998] call this 'middle', Zifonun [-@zifonun2003] 'fazilitives Medium', Wiemer & Nedjalkov [-@wiemer2007: 465-466] classify it as a 'passive-like meaning of reflexive' and Kulikov [-@kulikov2011: 375-376] talks about a 'potential agentless passive'. Steinbach [-@steinbach1998: 25ff.] argues that the adverbial is not necessary in the 'middle' construction, but this is because he combines different constructions under the heading of 'middle'. His examples without adverbial are discussed here as a separate construction in [@sec:reflexive-anticausative].
 
 **Attested Verbs**
 

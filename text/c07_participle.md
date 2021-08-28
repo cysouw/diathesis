@@ -347,7 +347,7 @@ However, there is much more variation in the distribution of light-verb construc
 
 Table: Possible combinations of light-verbs with participles {#tbl:light-verb-constructions}
 
-Looking even further, there are many more light-verb constructions besides *sein*, *haben* and *werden* that can be included. For example, *bleiben + Partizip* (see [@sec:participles-bleiben-intransitive]) only seems possible with *einschlafen*, while *scheinen + Partizip* (see [@sec:participles-scheinen-intransitive]) seems possible with *einschlafen* and *fallen*, and *kommen + an- + Partizip* (see [@sec:participles-kommen]) only applies to *fallen* and *klettern*. This chapter will not attempts to answer the question how many different such verb classes are attested, but only takes the first step of presenting a list of possible light-verb constructions to be investigated in-depth in future research.
+Looking even further, there are many more light-verb constructions besides *sein*, *haben* and *werden* that can be included. For example, *bleiben + Partizip* (see [@sec:participles-bleiben-intransitive]) only seems possible with *einschlafen*, while *scheinen + Partizip* (see [@sec:participles-scheinen-intransitive]) seems possible with *einschlafen* and *fallen*, and *kommen + an- + Partizip* (see [@sec:participles-kommen]) only applies to *fallen* and *klettern*. Also of interest in this context is the possibility of various impersonal diatheses (see e.g. [@sec:adverbial-reflexive-drop] and [@sec:infinitive-lassen-reflexive-intransitive]). This chapter will not attempts to answer the question how many different such verb classes are attested, but only takes the first step of presenting a list of possible light-verb constructions to be investigated in-depth in future research.
 
 ### Different diatheses with the same light verb {#sec:participle-different-diatheses}
 
@@ -958,6 +958,33 @@ a. [...] wenn China und Nordkorea den Empfehlungen der Kommission gefolgt hätte
 b. Das Kind hat seiner Mutter gefolgt.
 c. Er nannte Beispiele, wie er während seiner Präsidentschaft Notständen begegnen mußte und begegnet habe.^[~~DWDS~~: Archiv der Gegenwart, 2001 [1952]]
 :::
+
+### [ NP | NP ] *sein + Partizip* Governed preposition perfect
+
+Almost all verbs with governed prepositions take a *haben* Perfect. Only a small group of such verbs take a *sein + Partizip* Perfect, for example *scheitern an* 'to fail' [@next a]. Only very few examples of obligatory local prepositions belong in this category, like *eintreten* 'enter' [@next b].
+
+::: ex
+- Ich scheitere an der Aufgabe.
+  Ich bin an der Aufgabe gescheitert.
+- Die Sportler treten in das Stadion ein.
+  Die Sportler sind in das Stadion eingezogen.
+:::
+
+**Attested Verbs**
+
+- *an*  : *scheitern, sterben*
+- *auf* : *kommen (einfallen)*
+- *aus* : *entkommen, entfliehen, entschlüpfen, entspringen, entwischen*
+- *bei* : *bleiben*
+- *in*  : *einziehen, geraten*
+- *vor* : *fliehen, flüchten, weichen*
+
+**Examples**
+
+- Ich bin nicht darauf gekommen.
+- Ich bin dabei geblieben.
+- Er ist in einer präkären Situation geraten.
+- Die Sportler sind in das Stadion eingezogen.
 
 ### [ NA | NA ] *haben + Partizip* Transitive perfect {#sec:participles-haben-transitive-perfect}
 

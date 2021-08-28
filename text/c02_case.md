@@ -961,7 +961,7 @@ d. ^* Meine Füße brennen dir.
 
 **Attested Verbs**
 
-- bodily sensations: *bluten, brennen, frieren, drücken, jucken, klopfen, rasen (Emotion), schmerzen, schwellen, schwindeln, stechen, tränen, zittern, weh tun*
+- bodily sensations: *bluten, brennen, frieren, drücken, jucken, klopfen, rasen (Emotion), schmerzen, schwellen, schwindeln, stechen, tränen, zittern, wachsen, weh tun*
 - natural processes: *anbrennen, blühen, brechen, dampfen, rosten, stinken, überkochen, verblühen, verfaulen, verrosten, verwelken, zufrieren, rauchen*
 - Others: *langen*
 
@@ -987,6 +987,7 @@ d. ^* Meine Füße brennen dir.
 - ? Mein Kopf schwindelt. Mir schwindelt der Kopf.
 - Mein Krug bricht. Mir bricht der Krug.
 - Mein Kopf raucht. Mir raucht der Kopf.
+- Mein Bart wächst. Mir wächst der Bart.
 
 **Notes**
 
