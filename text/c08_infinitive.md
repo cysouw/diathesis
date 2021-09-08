@@ -274,7 +274,7 @@ b. (= Der König sorgt dafür, dass er selbst getragen wird.)
 c. (= Es ist möglich den König zu tragen.)
 :::
 
-Verbs like *übersehen* 'to overlook' [@next a] or *erläutern* 'to elucidate' [@next b] only appear to allow for this epistemic interpretation with an additional evaluative adverbial like *leicht* 'easy' or *schwer* 'difficult' (cf. [@sec:adverbial-reflexive-transitive-anticausative]). More research is needed to establish what kind of verbs need such additional adverbials.
+Verbs like *übersehen* 'to overlook' [@next a] or *erläutern* 'to elucidate' [@next b] only appear to allow for this epistemic interpretation with the addition of an evaluative adverbial like *leicht* 'easy' or *schwer* 'difficult' (cf. [@sec:adverbial-reflexive-transitive-anticausative]). More research is needed to establish what kind of verbs need such additional adverbials.
 
 ::: ex
 - Der Dozent überseht den Rechtschreibfehler. \
@@ -417,7 +417,7 @@ b. Der Vater ärgert sich über den Stau. \
    Ich lasse meinen Vater sich über den Stau ärgern.
 :::
 
-However, double accusatives as produced by this diathesis [@next a] can be resolved by optionally changing the new accusative to a *von* prepositional phrase [@next b], or even dropping it altogether, inducing a passive reading with unknown agent [@next c].
+However, double accusatives as produced by this diathesis [@next a] can be resolved by optionally changing the new accusative to a *von* prepositional phrase [@next b], or even dropping it altogether, inducing an embedded anticausative reading with unknown agent [@next c]. Note that this is only possible with the causative reading and not with the permissive reading of the *lassen + Infinitiv* diathesis.
 
 [ –NA ] A wäscht B
 [ NAA ] Sie lässt A B waschen
@@ -431,12 +431,13 @@ c. Sie lässt die Kleider waschen. \
    (= Sie sorgt dafür, dass die Kleider gewaschen werden.)
 :::
 
-This replacement with *von* is impossible with some verbs [@nedjalkov1976: 7] like *ausziehen* 'to take off' [@nnext]. There might be a relation here to verbs that allow an endoreflexive diathesis ([@sec:reflexive-accusative-drop]), but that has to be investigated further. The *von* replacement also seems to restricted (or maybe even impossible) with verbs that do not have an accusative argument, like *antworten* 'to answer' [@nnext].
+This replacement with *von* is impossible with some verbs [@nedjalkov1976: 7] like *ausziehen* 'to take off' [@nnext]. There might be a relation here to verbs that allow an endoreflexive diathesis ([@sec:reflexive-accusative-drop]), but that has to be investigated further. With a stacked endoreflexive diathesis the *von* replacement is perfectly possible [@next d]. The *von* replacement also seems to be restricted (or maybe even impossible) for verbs that do not have an accusative argument, like *antworten* 'to answer' [@nnext].
 
 ::: ex
 a. Sein Sohn zieht die Jacke aus.
 b. Er lässt seinen Sohn die Jacke ausziehen.
 c. ^* Er lässt die Jacke von seinem Sohn ausziehen.
+d. Er lässt sich von seinem Sohn ausziehen.
 :::
 
 ::: ex
