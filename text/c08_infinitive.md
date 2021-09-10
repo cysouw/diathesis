@@ -417,7 +417,7 @@ b. Der Vater ärgert sich über die vielen Staus. \
    Die Nachrichten lassen meinen Vater sich über die vielen Staus ärgern.
 :::
 
-However, double accusatives as produced by this diathesis [@next a] can be resolved by optionally changing the new accusative to a *von* prepositional phrase [@next b], or even dropping it altogether, inducing a passive reading with unknown agent [@next c].
+However, double accusatives as produced by this diathesis [@next a] can be resolved by optionally changing the new accusative to a *von* prepositional phrase [@next b], or even dropping it altogether, inducing an embedded anticausative reading with unknown agent [@next c]. Note that this is only possible with the causative reading and not with the permissive reading of the *lassen + Infinitiv* diathesis.
 
 [ –NA ] A wäscht B
 [ NAA ] Sie lässt A B waschen
@@ -431,12 +431,13 @@ c. Sie lässt die Kleider waschen. \
    (= Sie sorgt dafür, dass die Kleider gewaschen werden.)
 :::
 
-This construction of *lassen + Infinitiv* with a *von* agent phrase might very well be considered a different diathesis. For example, it is impossible with some verbs [@nedjalkov1976: 7] like *ausziehen* 'to take off' [@nnext]. This impossibility seems to be widespread with verbs that allow an endoreflexive diathesis ([@sec:reflexive-accusative-drop]), but that has to be investigated further. The *von* replacement also seems to be restricted (or maybe even impossible) with verbs that do not have an accusative argument, like *antworten* 'to answer' [@nnext].
+This construction of *lassen + Infinitiv* with a *von* agent phrase might very well be considered a different diathesis. For example, it is impossible with some verbs [@nedjalkov1976: 7] like *ausziehen* 'to take off' [@nnext]. This impossibility seems to be widespread with verbs that allow an endoreflexive diathesis ([@sec:reflexive-accusative-drop]), but that has to be investigated further. With a stacked endoreflexive diathesis the *von* replacement is perfectly possible [@next d]. The *von* replacement also seems to be restricted (or maybe even impossible) for verbs that do not have an accusative argument, like *antworten* 'to answer' [@nnext].
 
 ::: ex
 a. Sein Sohn zieht die Jacke aus.
 b. Er lässt seinen Sohn die Jacke ausziehen.
 c. ^* Er lässt die Jacke von seinem Sohn ausziehen.
+d. Er lässt sich von seinem Sohn ausziehen.
 :::
 
 ::: ex
