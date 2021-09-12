@@ -1404,7 +1404,7 @@ b. Ich beraube dich des Buches.
 
 Among all the diatheses that are distinguished in this survey there are many that only occur in very specific situations or might otherwise be considered to be exceptions or incidental instances. However, there are also very many diatheses that are highly frequent and can be used with very many different verbs. Those major diatheses, that are of central importance to the grammatical structure of German, will be summarised in this chapter. Such a summary would normally be presented at the end of a book, but because of the often long-winding data-driven details of the subsequent descriptive chapters I decided to present this summary here at the end of the introductory deliberations. Take it as a quick appetiser of things to come, with ample links to the actual discussion in later chapters.
 
-To reiterate the basic premise of this book: in the subsequent chapters [-@sec:case] to [-@sec:zuminfinitive] I aim to present a complete list of all coherent, and thus monoclausal, clause structures in German (cf. [@sec:intro-coherence] on defining monoclausality). All in all, in those chapters there are 250+ separate sub-subsections that describe (often minor) variations of monoclausal structures. This diversity is condensed into 90+ major clause alternations as summarised in this chapter. Of those, about 70 are diatheses (i.e. clause alternations with role-remapping), while about 20 are epitheses (i.e. clause alternations without any change in role marking). All these counts should be taken with some leeway, because a lot depends on individual decisions about splitting or lumping structures into groups (e.g. how many *lassen + sich + infinitive* constructions are counted separately). Although the analysis of German clause alternations might look cleaner when lumping structures into larger groups, the diversity is actually not reduced, only hidden at the cost of larger within-group complexity.
+To reiterate the basic premise of this book: in the subsequent chapters [-@sec:case] to [-@sec:zuminfinitive] I aim to present a complete list of all coherent, and thus monoclausal, clause structures in German (cf. [@sec:intro-coherence] on defining monoclausality). All in all, in those chapters there are 250+ separate sub-subsections that describe (often minor) variations of monoclausal structures. This diversity is condensed into 90+ major clause alternations as summarised in this chapter. Of those, about 70 are diatheses (i.e. clause alternations with role-remapping), while about 20 are epitheses (i.e. clause alternations without any change in role marking). All these counts should be taken with some leeway, because a lot depends on individual decisions about splitting or lumping structures into groups (e.g. how many *lassen + infinitive* constructions are counted separately, cf [@sec:infinitive-guises-of-lassen]). Although the analysis of German clause alternations might look cleaner when lumping structures into larger groups, the diversity is actually not reduced, only hidden at the cost of larger within-group complexity.
 
 Besides a basic summary I also propose German names for all 90+ major derived monoclausal sentence structures. Using suitable names is a central aspect of (scientific) communication. In grammar, names are like instruments that allow us to abstract away from individual details and manipulate classes of utterances that show a specific abstract structure. However, naming is hard and can also lead to miscommunication. When re-using available terminology, the terms are easily recognised and remembered, but they carry the weight of history. Even when detailed definitions are given (as I have tried to do throughout this book), unintended interpretations of previous usage inevitably seep through. In contrast, inventing new names introduces more precision, but the downside are often cumbersome terms that are difficult to remember. 
 
@@ -1779,9 +1779,9 @@ c. (= Sie verursacht, dass ich die Kleider wasche.)
 d. (= Sie erlaubt, dass ich die Kleider wasche.)
 :::
 
-### *Machenkausativ* (*machen + Infinitiv*) {#sec-summary-machenkausativ}
+### *Agentivkausativ* (*machen + Infinitiv*) {#sec-summary-machenkausativ}
 
-The ~~Machenkausativ~~ (full discussion in [@sec:infinitive-machen]) is probably the most pure causative of all the various novative light verb with infinitive diathesis. It uses the light verb *machen* 'to make' and adds a causer. It is not in very widespread use and often sound like English calques, though it is probably an old Germanic construction.
+The ~~Agentivkausativ~~ (full discussion in [@sec:infinitive-machen]) is probably the most pure causative of all the various novative light verb with infinitive diathesis. It uses the light verb *machen* 'to make' and adds a causer. It is not in very widespread use and often sound like English calques, though it is probably an old Germanic construction.
 
 ::: ex
 a. Ich weine.
@@ -1854,6 +1854,15 @@ b. Sie weiß den Nachlass (im Archiv) gut aufgehoben. \
 :::
 
 This *Transitiv Opiniativ* can of course easily be united with the previous *Opiniativ* into a single diathesis by noticing, for example, that both can be rephrased with a complement clause with *sein* and a participle, compare [@llast b] and [@last b]. However, this implies that when both *Opiniativ* diatheses are united, then the *sein-Perfekt* in [@llast b], see [@sec:summary-sein-perfekt], and the *Zustandspassiv* in [@last b], see [@sec:summary-zustandspassiv], have to be united as well (there is a perfect parallelism here). Now, there is nothing against this second unification (see [@sec:participle-different-diatheses] for a discussion), but exactly this point has been rather controversially discussed in the German grammatical literature. So either both are unified, or both are separated. Because I have separated the *Zustandspassiv* and the *sein-Perfekt* in this summary, I consequently also separate the two *Opiniativ* diatheses.
+
+### *Passivkausativ* (*lassen + Infinitiv*) {#sec:summary-passivkausativ}
+
+The ~~Passivkausativ~~ (full discussion in [@sec:infinitive-lassen-passive-causative])
+
+::: ex
+a. Die Wäscherei reinigt den Teppich.
+b. Er lässt den Teppich (von der Wäscherei) reinigen.
+:::
 
 ## Antipassive diatheses ~~[OBJ › ADJ]~~
 

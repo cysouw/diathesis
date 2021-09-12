@@ -4,11 +4,14 @@
 
 - ~~[SBJ › Ø]~~ *lassen* ~~Unpersönlicher Möglichkeitspassiv~~ (see [@sec:infinitive-lassen-reflexive-intransitive ff.])
 - ~~[OBJ › SBJ › ADJ]~~ *lassen* ~~Möglichkeitsspassiv~~ (see [@sec:infinitive-lassen-reflexive-anticausative])
-- ~~[OBJ › SBJ › ADJ]~~ *lassen* ~~Erlaubnisrezipientenpassiv~~ (see [@sec:infinitive-lassen-dative-reflexive-anticausative])
-- ~~[OBJ › SBJ › OBJ]~~ *lassen* ~~Erlaubnisinversiv~~ (see [@sec:infinitive-lassen-dative-reflexive-inversive])
+- ~~[OBJ › SBJ › ADJ]~~ *lassen* ~~Permissivpassiv~~ (see [@sec:infinitive-lassen-reflexive-permissive-passive ff.])
+- ~~[OBJ › SBJ › OBJ]~~ *lassen* ~~Permissivinversiv~~ (see [@sec:infinitive-lassen-dative-reflexive-inversive])
 - ~~[OBJ › SBJ › OBJ]~~ *haben* ~~Ortspertinenzinversiv~~ (see [@sec:infinitive-haben])
-- ~~[Ø › SBJ › OBJ]~~ *lassen/machen/heißen/schicken/lehren/helfen* ~~Initiativ~~ (see [@sec:infinitive-lassen-causative ff.])
-- ~~[Ø › SBJ › OBJ]~~ *sehen/hören/fühlen/spüren/riechen/finden* ~~Sensativ~~ (see [@sec:infinitive-sehen ff.])
+- ~~[Ø › SBJ › OBJ]~~ *lassen* ~~Permissivkausativ~~ (see [@sec:infinitive-lassen-causative])
+- ~~[Ø › SBJ › OBJ]~~ *schicken* ~~Direktivkausativ~~ (see [@sec:infinitive-schicken])
+- ~~[Ø › SBJ › OBJ]~~ *machen* ~~Agentivkausativ~~ (see [@sec:infinitive-machen])
+- ~~[Ø › SBJ › OBJ]~~ *sehen/hören/fühlen/spüren* ~~Sensativ~~ (see [@sec:infinitive-sehen ff.])
+- ~~[Ø › SBJ › ADJ]~~ *lassen* ~~Passivkausativ~~ (see [@sec:infinitive-lassen-passive-causative])
 
 ## Definitions
 
@@ -31,13 +34,33 @@ benefactive (optionally) *helfen*
 
 [@schmid2005; @schallert2014]
 
-### The many guises of *lassen*
+### The many guises of *lassen* {#sec:infinitive-guises-of-lassen}
 
 [@eisenberg2006a: 369-371; @kotulkova2010a; @pitteroff2014]
 
-- causative
-- permissive
-- epistemtic
+- causation
+- permission
+- possibility
+
+
+
+| Section | Remapping | German Name | Reflexive | Interpretation |
+| :-----: | :-------: | :---------: | :-------: | :------------: |
+| [-@sec:infinitive-lassen-reflexive-intransitive]         | [ N \| – ]     | | | |
+| [-@sec:infinitive-lassen-reflexive-governed-preposition] | [ NP \| –P ]   | *Möglichkeitspassiv* | yes | possibility |
+| [-@sec:infinitive-lassen-reflexive-anticausative]        | [ NA \| pN ]   | | | |
+|                                                          |                | | | |
+| [-@sec:infinitive-lassen-reflexive-permissive-passive]   | [ NA \| pN ]   | | | |
+| [-@sec:infinitive-lassen-dative-reflexive]               | [ ND \| pN ]   | *Permissivpassiv* | yes | permission |
+| [-@sec:infinitive-lassen-dative-reflexive-anticausative] | [ NDA \| pNA ] | | | |
+|                                                          |                | | | |
+| [-@sec:infinitive-lassen-dative-reflexive-inversive]     | [ ND \| AN ]   | *Permissivinversiv* | yes | permission |
+|                                                          |                | | | |
+| [-@sec:infinitive-lassen-causative]                      | [ –N \| NA ]   | *Permissivkausativ* | no | causation/permission |
+|                                                          |                | | | |
+| [-@sec:infinitive-lassen-passive-causative]              | [ –NA \| NpA ] | *Passivkausativ* | no | causation |
+
+Table: Different diatheses with a *lassen + Infinitiv* construction {#tbl:lassen}
 
 ## Deponent verbs without alternations
 
@@ -106,16 +129,13 @@ The verbs *brauchen* and *heißen* are not very common in this construction.
 
 References [@groot2000; @vogel2007: 269ff.; @abraham2008; @konig2009]
 
-### *gehen + Infinitiv*
+### *gehen/fahren + Infinitiv* Absentive
 
-### *kommen + Infinitiv*
+- Er geht/fährt seinen Freund besuchen.
 
-### *fahren + Infinitiv*
+### *kommen + Infinitiv* Presentive
 
-Also with gehen/fahren/kommne?
-
-- Er kommt/geht hier immer die Zeitung lesen.
-- Er kommt/fährt seinen Freund besuchen.
+- Er kommt hier immer die Zeitung lesen.
 
 ### --- Others --- {.unnumbered}
 
@@ -182,7 +202,7 @@ Is this the only example?
 
 ### [ N | – ] *lassen + Infinitiv* Reflexive impersonal + adverbial {#sec:infinitive-lassen-reflexive-intransitive}
 
-When used with intransitive verbs like *arbeiten* 'to work' [@next a], the construction *lassen + Infinitiv* leads to an impersonal construction removing the nominative subject. This construction obligatorily includes a reflexive pronoun and an adverbial phrase expressing an evaluation [@next b]. The expected valency-simulating pronoun *es* is typically present, but it seems also possible to leave it out. The conditioning of the presence or absence of *es* needs more investigation [cf. @kunze1996: 649]. Semantically, this diatheses adds an epistemic notion of possibility to the meaning of the verb. There is a clear parallel to the impersonal construction without *lassen* in [@next c], see [@sec:adverbial-reflexive-drop]. This diathesis invokes an *Ersatzinfinitiv* [@next d].
+When used with intransitive verbs like *arbeiten* 'to work' [@next a], the construction *lassen + Infinitiv* leads to an impersonal construction removing the nominative subject. This construction obligatorily includes a reflexive pronoun and an adverbial phrase expressing an evaluation [@next b]. The expected valency-simulating pronoun *es* is typically present, but it seems also possible to leave it out. The conditioning of the presence or absence of *es* needs more investigation [cf. @kunze1996: 649]. Semantically, this diatheses adds an epistemic notion of possibility to the meaning of the verb. There is a clear parallel to the impersonal construction without *lassen* in [@next c], see [@sec:adverbial-reflexive-drop]. The *lassen + Infinitiv* diathesis invokes an *Ersatzinfinitiv* [@next d].
 
 ::: ex
 a. Ich arbeite zuhause.
@@ -198,7 +218,7 @@ Although it is possible to find examples without adverbial, these always seem to
 - Hier lässt es sich träumen!^[~~DWDS~~:Die Zeit, 12.12.2013, Nr. 50]
 :::
 
-This diathesis *lassen + sich + Infiniv + Adverbial* is structurally a stack of two constructions (see [@sec:intro-stacking] for the notion 'stack'). It combines an impersonal reflexive with adverbial [@next a], see [@sec:adverbial-reflexive-drop], and a *lassen + Infinitiv* diathesis [@next b], see [@sec:infinitive-lassen-causative]. However, the resulting combination of these two diatheses is semantically not transparent. The *lassen + Infinitiv* diatheses has two different interpretations, a causative [@next c] and a permissive [@next d]. Neither of these interpretations leads to the combined meaning of the *lassen + sich + Infiniv + Adverbial* stack as in [@last a]. For that reason I consider this combination to be a separate grammaticalised diathesis, i.e. a ~~fixed stack~~.
+This diathesis *lassen + sich + Infiniv + Adverbiale* is structurally a stack of two constructions (see [@sec:intro-stacking] for the notion 'stack'). It combines an impersonal reflexive with adverbial [@next a], see [@sec:adverbial-reflexive-drop], and a *lassen + Infinitiv* diathesis [@next b], see [@sec:infinitive-lassen-causative]. However, the resulting combination of these two diatheses is semantically not transparent. The *lassen + Infinitiv* diatheses has two different interpretations, a causative [@next c] and a permissive [@next d]. Neither of these interpretations leads to the combined meaning of the *lassen + sich + Infiniv + Adverbial* stack as in [@last a]. For that reason I consider this combination to be a separate grammaticalised diathesis, i.e. a ~~fixed stack~~.
 
 ::: ex
 a. Zuhause arbeitet es sich gut.
@@ -207,7 +227,7 @@ c. (= Sie sorgt dafür, dass ich arbeite.)
 d. (= Sie lässt mich in Ruhe um zu arbeiten.)
 :::
 
-This diathesis is not possible with many patientive intransitive verbs like *platzen* 'to burst' [@next a,b] or *bluten* 'to bleed' [@next c,d]. Note that this group of patientive intransitives is a different group of intransitives that takes a *sein + Partizip* Perfect (cf. [@sec:participles-restrictions]).
+This diathesis is not possible with many patientive intransitive verbs like *platzen* 'to burst' [@next a,b] or *bluten* 'to bleed' [@next c,d]. Note that this group of patientive intransitives is a different group of patientive intransitives that takes a *sein + Partizip* Perfect (cf. [@sec:participles-restrictions]).
 
 ::: ex
 a. Der Ballon platzt.
@@ -227,7 +247,7 @@ d. ^* Hier lässt es sich schwer bluten.
 
 - An der frischen Luft lässt es sich frei atmen.
 
-### [ NP | –P ] *lassen + Infinitiv* Reflexive impersonal + governed preposition
+### [ NP | –P ] *lassen + Infinitiv* Reflexive impersonal + governed preposition {#sec:infinitive-lassen-reflexive-governed-preposition}
 
 Verbs with governed prepositional phrases, like *zweifeln an* 'to doubt something' [@next a], show a similar diathesis as pure intransitives (see the previous [@sec:infinitive-lassen-reflexive-intransitive]). However, there is no adverbial evaluation necessary with these verbs. The status of the valency-simulating *es* is unclear, though my impression is that with governed prepositional phrases it is more widespread to leave *es* out [@next b]. Whether there really is a difference in the status of *es* depending on the presence of governed prepositional phrases needs more research.
 
@@ -247,19 +267,20 @@ b. ^* Nach Fisch lässt es sich stinken.
 
 - Almost all verbs with governed prepositions. Not possible with: *duften, riechen, stinken*
 
-### --- [ OBJ > SBJ > ADJ ] --- {.unnumbered}
+### --- [ OBJ > SBJ > ADJ ] --- *Möglichkeitsspassiv* {.unnumbered}
 
-### [ NA | pN ] *lassen + Infinitiv* Reflexive passive (*Möglichkeitsspassiv*) {#sec:infinitive-lassen-reflexive-anticausative}
+### [ NA | pN ] *lassen + Infinitiv* Reflexive epistemic passive {#sec:infinitive-lassen-reflexive-anticausative}
 
-With transitive verbs the light verb *lassen* with a reflexive pronoun and an infinitive results structurally in a passive diathesis [@next]. Compared to the previously discussed intransitive variant (see [@sec:infinitive-lassen-reflexive-intransitive], there is no adverbial evaluation necessary and the agent can be retained as an optional prepositional phrase with *von*. This diathesis invokes an *Ersatzinfinitiv* [@next c].
+With most transitive verbs the light verb *lassen* with a reflexive pronoun and an infinitive results structurally in a passive diathesis with an epistemic interpretation that something is possible [@next]. A small group of transitive verbs invoke a different interpretation, as discussed in the next [@sec:infinitive-lassen-reflexive-permissive-passive]. Compared to the previously discussed intransitive variant (see [@sec:infinitive-lassen-reflexive-intransitive], there is (i) no adverbial evaluation necessary and (ii) the agent can be retained as an optional prepositional phrase with *von*. This diathesis invokes an *Ersatzinfinitiv* [@next c].
 
 ::: ex
 a. Ich schließe den Schrank.
-b. Der Schrank lässt sich schließen (von mir).
+b. Der Schrank lässt sich schließen (von mir). \
+   (= Es ist möglich, dass ich den Schrank schließe.)
 c. Gestern hat sich der Schrank noch schließen lassen.
 :::
 
-Just as discussed previously with intransitives ([@sec:infinitive-lassen-reflexive-intransitive]), this diathesis might seem to be a transparent combination of a reflexive anticausative [@last a], see [@sec:reflexive-anticausative], and a *lassen + Infinitiv* diathesis [@last b], see [@sec:infinitive-lassen-causative]. However, semantically the combination of both leads to a different interpretation, so the combination is arguably a new construction. 
+Just as discussed previously with intransitives (see [@sec:infinitive-lassen-reflexive-intransitive]), this diathesis might seem to be a transparent combination of a reflexive anticausative [@next a], see [@sec:reflexive-anticausative], and a *lassen + Infinitiv* diathesis [@next b], see [@sec:infinitive-lassen-causative]. However, semantically the combination of both leads to a different interpretation, so the combination is arguably a new construction. 
 
 ::: ex
 a. Der Schrank schließt sich (von alleine).
@@ -274,36 +295,61 @@ b. (= Der König sorgt dafür, dass er selbst getragen wird.)
 c. (= Es ist möglich den König zu tragen.)
 :::
 
-Verbs like *übersehen* 'to overlook' [@next a] or *erläutern* 'to elucidate' [@next b] only appear to allow for this epistemic interpretation with an additional evaluative adverbial like *leicht* 'easy' or *schwer* 'difficult' (cf. [@sec:adverbial-reflexive-transitive-anticausative]). More research is needed to establish what kind of verbs cannot be used without such additional adverbials.
+Verbs like *übersehen* 'to overlook' [@next a] or *erläutern* 'to elucidate' [@next b] only appear to allow for this epistemic interpretation with an additional evaluative adverbial like *leicht* 'easy' or *schwer* 'difficult' (cf. [@sec:adverbial-reflexive-transitive-anticausative]). More research is needed to establish what kind of verbs necessarily need such an additional adverbial.
 
 ::: ex
 - Der Dozent überseht den Rechtschreibfehler. \
-  Solch ein Rechtschreibfehler lässt sich leicht (von dem Dozenten) übersehen.
+  Solch ein Rechtschreibfehler lässt sich leicht (vom Dozenten) übersehen.
 - Der Dozent erläutert den Begriff. \
-  Der Begriff lässt sich nur schwer (von dem Dozenten) erläutern.
-:::
-
-For some of the transitive verbs with a reflexive conversive, like *empören* 'to appall' [@next a], see [@sec:reflexive-preposition-passive], this diathesis has a different interpretation. The *lassen + sich + Infinitiv* diathesis [@next b] has a permissive interpretation ('permission') [@next c], not the epistemic interpretation ('possibility') discussed above [@next d].
-
-::: ex
-a. Der Witz empört mich (nicht). \
-   Ich empöre mich (nicht) über den Witz.
-b. Ich lasse mich (nicht) von dem Witz empören.
-c. (= Ich erlaube (nicht), dass ich von dem Witz empört werde.)
-d. (≠ Es ist (nicht) möglich, dass ich von dem Witz empört werde.)
+  Der Begriff lässt sich nur schwer (vom Dozenten) erläutern.
 :::
 
 **Attested Verbs**
 
-This diathesis seems possible with most transitive verbs, e.g. *empören, schließen, tragen*. Some verbs appear to expect an evaluative adverbial, e.g. *übersehen, erläutern*.
+- This diathesis seems possible with most transitive verbs, e.g. *bezweifeln, schließen, tragen*.
+- Some verbs appear to expect an evaluative adverbial, e.g. *übersehen, erläutern*.
 
 **Examples**
 
 - Ich bezweifele die Lösung. Die Lösung lässt sich bezweifeln.
 
-### [ ND | pN ] *lassen + Infinitiv* Dative reflexive passive {#sec:infinitive-lassen-dative-reflexive}
+### --- [ OBJ > SBJ > ADJ ] --- *Permissivpassiv* {.unnumbered}
 
-A few verbs, like *helfen* 'to help' [@next a] and *gratulieren* 'to congratulate' [@next b] show a dative reflexive passive with a permissive interpretation. This diathesis is much more common with an additional accusative, as extensively discussed in the next [@sec:infinitive-lassen-dative-reflexive-anticausative]. There seem to be only very few verbs with a dative (but not accusative) that allow for this passive diathesis. Most show a reflexive inversive diathesis (see [@sec:infinitive-lassen-dative-reflexive-inversive]).
+### [ NA | pN ] *lassen + Infinitiv* Reflexive permissive passive {#sec:infinitive-lassen-reflexive-permissive-passive}
+
+For some of the transitive verbs the *lassen + sich + Infinitiv* diathesis has a different interpretation from the previously described epistemic passive (see [@sec:infinitive-lassen-reflexive-anticausative]). For example, this diathesis of *empören* to appall' [@next a,b] has a permissive interpretation ('allowing something to happen') [@next c], not the epistemic interpretation ('it is possible that something happens') discussed above [@next d]. This interpretation is attested for a subset of those verbs that also allow for a reflexive conversive (see [@sec:reflexive-preposition-passive]).
+
+::: ex
+a. Der Witz empört mich.
+b. Ich lasse mich nicht von diesem Witz empören.
+c. (= Ich erlaube nicht, dass ich von diesem Witz empört werde.)
+d. (≠ Es ist nicht möglich, dass ich von diesem Witz empört werde.)
+:::
+
+Various verbs like *empören* 'to appall' describing negative emotions strongly prefer an additional negation with the *lassen + sich + Infinitiv* diathesis [@next a]. Reversely, verbs describing positive emotions like *begeistern* 'to enthuse' typically do not use a negation with this diathesis [@next b].
+
+::: ex
+a. ^^?^ Ich lasse mich von diesem Witz empören.
+b. Ich lasse mich von diesem Witz begeistern.
+:::
+
+**Attested Verbs**
+
+- Verbs of negative emotions, typicaly with negation: *ärgern, beruhigen, erschrecken, empören, erzürnen, langweilen, stören*
+- Verbs of positive emotions, typically without negation: *begeistern, belustigen, erheitern, unterhalten, quälen*
+
+**Examples**
+
+- Davon lasse ich mich nicht ärgern/stören.
+- Ich lasse mich nicht schnell erschrecken, sagen wir es so.^[~~DWDS~~: Der Tagesspiegel, 26.10.2003]
+- Mehr als zwei Minuten lässt man sich von so jemandem nicht langweilen.^[~~DWDS~~: Die Zeit, 18.05.2000, Nr. 21]
+- Davon lasse ich mich begeistern.
+- Man steht in bequemen Intervallen und liest die Zeitung oder läßt sich von den Burschen belustigen.^[~~DWDS~~: Kisch, Egon Erwin: Der rasende Reporter, Berlin: Aufbau-Taschenbuch-Verl. 1925, S. 7]
+- Eine Mehrheit von 59 Prozent dagegen lässt sich von Büttenreden erheitern.^[~~DWDS~~: Die Zeit, 05.03.2011]
+
+### [ ND | pN ] *lassen + Infinitiv* Dative reflexive permissive passive {#sec:infinitive-lassen-dative-reflexive}
+
+A few verbs, like *helfen* 'to help' [@next a] and *gratulieren* 'to congratulate' [@next b] show a dative reflexive passive with a permissive interpretation. This diathesis is much more common with an additional accusative, as extensively discussed in the next [@sec:infinitive-lassen-dative-reflexive-anticausative]. There seem to be only very few verbs with a dative (but not accusative) that allow for this passive diathesis. Various others show a reflexive inversive diathesis (see [@sec:infinitive-lassen-dative-reflexive-inversive]).
 
 ::: ex
 - Sie helft mir. \
@@ -324,16 +370,16 @@ A few verbs, like *helfen* 'to help' [@next a] and *gratulieren* 'to congratulat
 
 **Notes**
 
-The verb *kündigen* 'to terminate, to resign' [@next] is a special case, because it takes an accusative reflexive pronoun [@next b]. However, this might be explained by the flexibility to use the verb either with a dative or an accusative argument [@next a].
+The verb *kündigen* 'to terminate, to resign' [@next] is a special case, because it takes an accusative reflexive pronoun [@next a]. However, this might be explained by the flexibility to use the verb either with a dative or an accusative argument [@next b].
 
 ::: ex
-- Der Chef kündigt mir (mich).
-- Ich lässt mich (vom Chef) kündigen.
+- Ich lasse mich (vom Chef) kündigen.
+- Der Chef kündigt mir/mich.
 :::
 
-### [ NDA | pNA ] *lassen + Infinitiv* Dative reflexive passive + accusative (*Erlaubnisrezipientenpassiv*) {#sec:infinitive-lassen-dative-reflexive-anticausative}
+### [ NDA | pNA ] *lassen + Infinitiv* Dative reflexive permissive passive + accusative (*Permissivpassiv*) {#sec:infinitive-lassen-dative-reflexive-anticausative}
 
-Verbs with both a dative and an accusative, like *schenken* 'to gift' show a parallel passive diathesis to the reflexive passive (see [@sec:infinitive-lassen-reflexive-anticausative]), but now the dative is promoted to nominative subject [@next]. Semantically this diathesis is rather different from the previous passive, as [@next b] has a clear permissive meaning. Syntactically, there seems to be a close connection to the *bekommen + Partizip* passive ([@sec:participles-bekommen-passive]), which – though – lacks the permissive meaning [@next c].
+Verbs with both a dative and an accusative, like *schenken* 'to gift' show a parallel passive diathesis to the reflexive passive (see [@sec:infinitive-lassen-reflexive-permissive-passive]), but now the dative is promoted to nominative subject [@next]. Semantically this diathesis [@next b] has a clear permissive meaning. Syntactically, there seems to be a close connection to the *bekommen + Partizip* dative passive (see [@sec:participles-bekommen-passive]), which – though – lacks the permissive meaning [@next c].
 
 ::: ex
 a. Der Verkäufer schenkt mir den Rechner.
@@ -341,24 +387,27 @@ b. Ich lasse mir den Rechner schenken (vom Verkäufer).
 c. Ich bekomme den Rechner geschenkt (vom Verkäufer).
 :::
 
-This diathesis is also possible with other datives, like possessive datives [@next]. This diathesis invokes an *Ersatzinfinitiv* [@next d].
+This diathesis is also possible with other datives, like possessive datives [@next a] or benefactive datives [@next b]. Like alle *lassen + Infinitiv* constructions, this diathesis invokes an *Ersatzinfinitiv* [@next c].
 
 ::: ex
-a. Der Friseur schneidet meine Haare.
-b. Der Friseur schneidet mir die Haare.
-c. Ich lasse mir die Haare schneiden (vom Friseur).
-d. Ich habe mir die Haare schneiden lassen.
+a. Der Friseur schneidet meine Haare. \
+   Der Friseur schneidet mir die Haare. \
+   Ich lasse mir die Haare schneiden (vom Friseur).
+b. Mein Vater kocht mir eine Suppe. \
+   Ich lasse mir (von meinem Vater) eine Suppe kochen.
+c. Ich habe mir die Haare schneiden lassen.
 :::
 
-In this construction the semantics are rather transparently related to the *lassen + Infinitive* permissive diathesis ([@sec:infinitive-lassen-causative]). This can be clearly seen when a different dative recipient is used, like *sein Freund* 'his friend' [@next a]. First apply the *lassen + Infinitiv* causative [@next b] and subsequently replace the recipient with a self-inflicting reflexive pronoun *mir* [@next c]. The result is semantically the same as the fixed stack above in [@llast b]. However, structurally there is a crucial difference in the expression of the erstwhile agent *Verkäufer* 'seller', either being an accusative [@next c] or a prepositional phrase [@llast b].
+In this construction the semantics are rather transparently related to the *lassen + Infinitive* causative/permissive diathesis ([@sec:infinitive-lassen-causative]). This can be clearly seen when a different dative recipient is used, like *sein Freund* 'his friend' [@next a]. First apply the *lassen + Infinitiv* causative [@next b] and subsequently replace the recipient with a self-inflicting reflexive pronoun *mir* [@next c]. The result is semantically the same as the fixed stack discussed above, repeated here [@next d]. However, there are two key differences. First, structurally there is a crucial difference in the expression of the erstwhile agent *Verkäufer* 'seller', either being an accusative [@next c] or a prepositional phrase [@next d].
 
 ::: ex
 a. Der Verkäufer schenkt seinem Freund den Rechner.
 b. Ich lasse den Verkäufer seinem Freund den Rechner schenken.
 c. Ich lasse den Verkäufer mir den Rechner schenken.
+d. Ich lasse mir vom Verkäufer den Rechner schenken.
 :::
 
-Another difference to the transparent stack of causative plus self-inflicting reflexive [@last c] is that the fixed stack of *lassen + sich (Dativ) + Infinitive* [@lllast b] does not allow for a different recipient [@next]. In summary, this fixed stack is different from the transparent combination, but it is semantically closely related to it.
+Second, another difference to the transparent stack of causative plus self-inflicting reflexive [@last c] is that the fixed stack of *lassen + sich (Dativ) + Infinitive* does not allow for a different recipient [@next]. In summary, this fixed stack is different from the transparent combination, but it is semantically closely related to it.
 
 ::: ex
 a. Der Verkäufer schenkt seinem Freund den Rechner.
@@ -377,9 +426,9 @@ b. ^* Ich lasse seinem Freund den Rechner schenken (von dem Verkäufer).
 
 ### --- [ Ø > SBJ > OBJ ] --- {.unnumbered}
 
-### [ –N | NA ] *lassen + Infinitiv* Causative/permissive (*Permissivkausativ*) {#sec:infinitive-lassen-causative}
+### [ –N | NA ] *lassen + Infinitiv* Permissive causative (*Permissivkausativ*) {#sec:infinitive-lassen-causative}
 
-Although the *lassen +Infinitiv* is widely acknowledged in German grammar as a causative, the actual semantics are more variable than that. Basically there seem to be two major interpretations, a causative and a permissive [@next b]. This diathesis invokes the IPP *Ersatzinfinitiv* [@next c]. 
+Although the *lassen +Infinitiv* is widely acknowledged in German grammar as a causative, the actual semantics are more variable than that. Basically there seem to be two major interpretations, a causative and a permissive [@next b]. Enzinger [-@enzinger2012: 6-7] calls the permissive reading *Kontinuativ*. This diathesis typically invokes the IPP *Ersatzinfinitiv* [@next c]. The use of participle *gelassen* is possible [@next d], but seems to be restricted to the permissive interpretation [@enzinger2012: 34].
 
 ::: ex
 a. Ich wasche die Kleider.
@@ -387,9 +436,11 @@ b. Sie lässt mich die Kleider waschen. \
    (causative = Sie verursacht, dass ich die Kleider wasche.) \
    (permissive = Sie erlaubt, dass ich die Kleider wasche.)
 c. Sie hat mich die Kleider waschen *lassen*.
+d. Sie hat mich die Kleider waschen *gelassen*. \
+   (permissive = Sie hat erlaubt, dass ich die Kleider wasche.)
 :::
 
-Agentive intransitives like *schlafen* 'to sleep' prefer a permissive reading [@next a], while patientive intransitives like *einschlafen* 'to fall asleep' prefer a causative reading [@next b]. However, this appears only to a preference, not a semantic necessity. There are also clear ambiguous examples, like *arbeiten* 'to work' [@next c]. 
+Agentive intransitives like *schlafen* 'to sleep' prefer a permissive reading [@next a], while patientive intransitives like *einschlafen* 'to fall asleep' prefer a causative reading [@next b]. However, this appears only to a preference, not a semantic necessity. There are also clearly ambiguous examples, like *arbeiten* 'to work' [@next c]. 
 
 ::: ex
 a. Ich lasse das Kind schlafen. \
@@ -401,14 +452,7 @@ c. Ich lasse das Kind arbeiten. \
    (= Ich sorge dafür, dass das Kind arbeitet.)
 :::
 
-There are various verbs that do not allow for this diathesis [cf. @nedjalkov1976: 17], like *gefallen* 'to like' [@next a,b] that have a non-agentive nominative subject.
-
-::: ex
-a. Der Schlitten gefällt dem Jungen.
-b. ^* Der Verkäufer lässt den Schlitten dem Jungen gefallen.
-:::
-
-This diathesis can be applied to verbs of various argument structures. There is always a new nominative introduced, and the old nominative is demoted to an accusative. If there is already an accusative present as in [@llast] then the resulting construction simply has two accusative constituents. Such double accusatives are unusual in German because most role-remappings lead to a chain of remappings to not end up with identically marked constituents (see [@sec:intro-chaining] on the notion of a 'chain'). Any datives [@next a] or prepositional phrases [@next b] are simply left untouched by this diathesis.
+This diathesis can be applied to verbs of various argument structures. There is always a new nominative introduced, and the old nominative is demoted to an accusative. Other arguments are simply retained. If there is already an accusative present as in then the resulting construction simply has two accusative constituents. Such double accusatives are unusual in German because most role-remappings lead to a chain of remappings to not end up with identically marked constituents (see [@sec:intro-chaining] on the notion of a 'chain'). Any datives [@next a] or prepositional phrases [@next b] are simply left untouched by this diathesis.
 
 ::: ex
 a. Ich schreibe meiner Oma einen Brief. \
@@ -417,41 +461,18 @@ b. Der Vater ärgert sich über die vielen Staus. \
    Die Nachrichten lassen meinen Vater sich über die vielen Staus ärgern.
 :::
 
-However, double accusatives as produced by this diathesis [@next a] can be resolved by optionally changing the new accusative to a *von* prepositional phrase [@next b], or even dropping it altogether, inducing an embedded anticausative reading with unknown agent [@next c]. Note that this is only possible with the causative reading and not with the permissive reading of the *lassen + Infinitiv* diathesis.
-
-[ –NA ] A wäscht B
-[ NAA ] Sie lässt A B waschen
-[ NpA ] Sie lässt B von A waschen [ Ø > SBJ > ADJ ]
-[ N–A ] Sie lässt B waschen [ Ø > SBJ > Ø ]
+There are various verbs that do not allow for this diathesis [cf. @nedjalkov1976: 17], like *gefallen* 'to like' [@next a,b] that have a non-agentive nominative subject. However, the restrictions to the applicability of the *lassen* causative needs more in-depth investigation.
 
 ::: ex
-a. Sie lässt den Mitarbeiter die Kleider waschen.
-b. Sie lässt die Kleider vom Mitarbeiter waschen.
-c. Sie lässt die Kleider waschen. \
-   (= Sie sorgt dafür, dass die Kleider gewaschen werden.)
-:::
-
-This construction of *lassen + Infinitiv* with a *von* agent phrase might very well be considered a different diathesis. For example, it is impossible with some verbs [@nedjalkov1976: 7] like *ausziehen* 'to take off' [@nnext]. This impossibility seems to be widespread with verbs that allow an endoreflexive diathesis ([@sec:reflexive-accusative-drop]), but that has to be investigated further. With a stacked endoreflexive diathesis the *von* replacement is perfectly possible [@next d]. The *von* replacement also seems to be restricted (or maybe even impossible) for verbs that do not have an accusative argument, like *antworten* 'to answer' [@nnext].
-
-::: ex
-a. Sein Sohn zieht die Jacke aus.
-b. Er lässt seinen Sohn die Jacke ausziehen.
-c. ^* Er lässt die Jacke von seinem Sohn ausziehen.
-d. Er lässt sich von seinem Sohn ausziehen.
-:::
-
-::: ex
-a. Der Lehrer antwortet dem Schüler.
-b. Der Dekan lässt den Lehrer dem Schüler antworten.
-c. ^^?^ Der Dekan lässt dem Schüler vom Lehrer antworten.
-d. ^^?^ Der Dekan lässt dem Schüler antworten.
+a. Der Schlitten gefällt dem Jungen.
+b. ^* Der Verkäufer lässt den Schlitten dem Jungen gefallen.
 :::
 
 **Attested Verbs**
 
-- Almost all verbs, with some exceptions, e.g. it is not possible with *ähneln, bekommen, beschweren, gefallen, interessieren, missfallen, sich befinden, verunglücken*
+- Almost all verbs, with some exceptions, e.g. it is not possible with *ähneln, bekommen, beschweren, besitzen, gefallen, interessieren, kennen, missfallen, sich befinden, verunglücken*
 
-### [ –N | NA ] *schicken + Infinitiv* Causative (*Direktiv*) {#sec:infinitive-schicken}
+### [ –N | NA ] *schicken + Infinitiv* Causative (*Direktivkausativ*) {#sec:infinitive-schicken}
 
 The verb *schicken* allows for a construction with an infinitive [@next]. This diathesis expresses not a direct causation, but more a directive to somebody to do something. This diathesis does not invoke the IPP *Ersatzinfinitiv* [@next c].
 
@@ -483,12 +504,12 @@ b. Er schickt mich Bier holen.
  
 **Examples**
 
-- Du hast noch mehr als einmal gearbeitet und mich schlafen geschickt.
-- Doch als sie ihn später ein zweites Mal Wasser holen schickt, kommt Sachin aufgeregt zurück:
-- Wenn Manne seine Diener, zwei beflissene Penner, Bier holen schickt, dann ...
-- Gegen Nürnberg ließ Fairchild, diesmal wieder Angreifer, seinen aufgestauten Frust verbal an Referee Chvatal aus, der ihn mit einer Spieldauerstrafe duschen schickte.
+- Du hast noch mehr als einmal gearbeitet und mich schlafen geschickt.^[~~DWDS~~: Mauthner, Fritz: Wörterbuch der Philosophie. In: Bertram, Mathias (Hg.) Geschichte der Philosophie, Berlin: Directmedia Publ. 2000 [1910], S. 24606]
+- Doch als sie ihn später ein zweites Mal Wasser holen schickt, kommt Sachin aufgeregt zurück …^[~~DWDS~~: Die Zeit, 06.12.2012, Nr. 50]
+- Wenn Manne seine Diener, zwei beflissene Penner, Bier holen schickt, dann …^[~~DWDS~~: Die Zeit, 10.02.2005, Nr. 07]
+- Gegen Nürnberg ließ Fairchild, diesmal wieder Angreifer, seinen aufgestauten Frust verbal an Referee Chvatal aus, der ihn mit einer Spieldauerstrafe duschen schickte.^[~~DWDS~~: Berliner Zeitung, 19.02.2004]
 
-### [ –N | NA ] *machen + Infinitiv* Causative {#sec:infinitive-machen}
+### [ –N | NA ] *machen + Infinitiv* Causative (*Agentivkausativ*) {#sec:infinitive-machen}
 
 The verb *machen* can be used with an infinitive to express a causative meaning. This typically is found with intransitives, like *lachen* 'to laugh' [@next a], though incidental transitives are also attested, like *vergessen* 'to forget' [@next b]. Although this construction might look like an English calque ('he makes me laugh'), it is already attested in early German examples [@next c], so it seems to be an old Germanic construction. This diathesis does not invoke the IPP *Ersatzinfinitiv* [@next d]. 
 
@@ -633,6 +654,40 @@ old fashioned? Most examples in DWDS seem to be old, but still attested
 - Er hat seinen Teller auf den Tisch stehen *gefunden*.
 :::
 
+### --- [ Ø > SBJ > ADJ ] --- {.unnumbered}
+
+### [ –NA | NpA ] *lassen + Infinitiv* Passive causative (*Passivkausativ*) {#sec:infinitive-lassen-passive-causative}
+
+However, double accusatives as produced by this diathesis [@next a] can be resolved by optionally changing the new accusative to a *von* prepositional phrase [@next b], or even dropping it altogether, inducing an embedded anticausative reading with unknown agent [cf. @enzinger2012: 26]. Note that this is only possible with the causative reading and not with the permissive reading of the *lassen + Infinitiv* diathesis [@next c].
+
+::: ex
+a. Der Mitarbeiter wäscht die Teller. \
+   Sie lässt den Mitarbeiter die Teller waschen.
+b. Sie lässt die Teller von dem Mitarbeiter waschen.
+c. Sie lässt die Teller waschen. \
+   (= Sie sorgt dafür, dass die Teller gewaschen werden.) \
+   (≠ Sie erlaubt, dass die Teller gewaschen werden.)
+:::
+
+This construction of *lassen + Infinitiv* with a *von* agent phrase might very well be considered a different diathesis. For example, it is impossible with some verbs [@nedjalkov1976: 7; @enzinger2012: 27] like *ausziehen* 'to take off' [@next]. This impossibility seems to be widespread with verbs that allow an endoreflexive diathesis (see [@sec:reflexive-accusative-drop]), but that has to be investigated further. With a stacked endoreflexive diathesis the *von* replacement is perfectly possible [@next d]. The *von* replacement also seems to be restricted (or maybe even impossible) for verbs that do not have an accusative argument, like *antworten* 'to answer' [@nnext].
+
+::: ex
+a. Sein Sohn zieht die Jacke aus.
+b. Er lässt seinen Sohn die Jacke ausziehen.
+c. ^* Er lässt die Jacke von seinem Sohn ausziehen.
+d. Er zieht sich aus. \
+   Er lässt sich von seinem Sohn ausziehen.
+:::
+
+::: ex
+a. Der Lehrer antwortet dem Schüler.
+b. Der Dekan lässt den Lehrer dem Schüler antworten.
+c. ^^?^ Der Dekan lässt dem Schüler vom Lehrer antworten.
+d. ^^?^ Der Dekan lässt dem Schüler antworten.
+:::
+
+**Attested verbs**
+
 ## Diatheses with object demotion
 
 Not attested.
@@ -645,7 +700,7 @@ Not attested.
 
 ### --- [ OBJ > SBJ > OBJ ] --- {.unnumbered}
 
-### [ ND | AN ] *lassen + Infinitiv* Dative reflexive inversive (*Erlaubnisinversiv*) {#sec:infinitive-lassen-dative-reflexive-inversive}
+### [ ND | AN ] *lassen + Infinitiv* Dative reflexive inversive (*Permissivinversiv*) {#sec:infinitive-lassen-dative-reflexive-inversive}
 
 Most verbs with a dative (but no accusative) do not allow for a reflexive *lassen + Infinitive* construction (see [@sec:infinitive-lassen-dative-reflexive]). The few that do allow for such a construction, like *schmecken* 'to taste' [@next] show a special diathesis. The dative turns into a nominative subject and the erstwhile nominative turns into an accusative. The resulting construction has a permissive meaning and is clearly related to the reflexive *lassen + Infinitive* passive diatheses for ditransitive verbs (see [@sec:infinitive-lassen-dative-reflexive-anticausative])
 
