@@ -131,7 +131,7 @@ b. Es ist bekannt, dass ich morgen ein Haus kaufen will.
 c. ^* Es ist bekannt, dass ich morgen kaufen will ein Haus.
 :::
 
-Constructions with *zu* and infinitive are sometimes coherent, e.g. [@next] with finite verb *gibt*, and sometimes non-coherent, e.g. [@nnext] with finite verb *hofft*. The coherent construction in [@next a] is thus monoclausal, while the non-coherent construction in [@nnext a] consists of two clauses.
+Constructions with *zu* and infinitive are sometimes coherent, e.g. [@next] with the finite verb *geben* 'to give', and sometimes non-coherent, e.g. [@nnext] with the finite verb *behaupten* 'to claim'. The coherent construction in [@next a] is thus monoclausal, while the non-coherent construction in [@nnext a] consists of two clauses.
 
 ::: ex
 a. Der Protest gibt ihr zu denken.
@@ -140,12 +140,12 @@ c. ^* Es ist bekannt, dass der Protest gibt ihr zu denken.
 :::
 
 ::: ex
-a. Der Sportler hofft den Wettkampf zu gewinnen.
-b. ^* Es ist bekannt, dass der Sportler den Wettkampf zu gewinnen hofft.
-c. Es ist bekannt, dass der Sportler hofft den Wettkampf zu gewinnen.
+a. Der Sportler behauptet den Wettkampf zu gewinnen.
+b. ^* Es ist bekannt, dass der Sportler den Wettkampf zu gewinnen behauptet.
+c. Es ist bekannt, dass der Sportler behauptet den Wettkampf zu gewinnen.
 :::
 
-In some intermediate cases both orders are possible, as shown in [@next].
+In some intermediate cases both orders are possible, as shown with the finite verb *helfen* 'to help' in [@nnnext].
 
 ::: ex
 a. Ich helfe dir den Koffer zu tragen.
@@ -518,7 +518,7 @@ A diathetical operation is change that happens in the marking of the participant
 
 In the analysis of diathetical operations in this book I will use the following abbreviations, as summarised in [@fig:abbreviations]. First, ~~grammatical expressions~~, i.e. actual grammatical forms as identified in traditional German grammar, are abbreviated with single letters, shown at the right side of the figure. For case-marked noun phrases I will use the easily recognizable capital letters 'NADG' for nominative, accusative, dative and genitive respectively. As argued earlier (see [@sec:intro-arguments-utterance-valency]) there are also prepositional phrases that express lexically-determined roles. These will also be abbreviated with capital letters: 'L' for obligatory locations and 'P' for governed prepositional phrases.
 
-![Abbreviations used to describe role-remapping](figures/abbreviations.png){#fig:abbreviations}
+![Abbreviations used to describe role-remapping](../figures/abbreviations.png){#fig:abbreviations}
 
 Lower-cased letters are used for non-argument participants in the clause: 'p' for non-governed prepositional phrases and 'g' for adnominal genitives. Adnominal genitives become relevant because in some diatheses a newly introduced participant is inherently the possessor of another participant (see [@par:possraising]). Absence of a specific role will be indicated by a '–' dash. Lower-cased 'a' and 'd' are only used in [@sec:reflexive-no-diathesis] to indicate accusative and dative reflexive pronouns in referential usage. As described in much detail in that chapter, it is important to distinguish between reflexive pronouns in German that refer to a lexical role (i.e. 'referential' or 'real' reflexive constructions) and reflexive pronouns that mark a diathesis without referring to a separate role themselves. Those latter reflexive pronouns, that are not marking any role, are not abbreviated by lowercased 'a' or 'd'.
 
@@ -877,7 +877,7 @@ b. Die Motoren donnerten.
 
 Chained diatheses that involve the nominative subject are widespread in German (in contrast to the infrequent occurrence of isolated diatheses as discussed previously). [@fig:subjectchains] presents an overview of the different terms that I will use for these diatheses. The bold-faced terms are used for widely attested diatheses, while the other kinds of diatheses are only incidentally found. There is currently no evidence in German for the remappings that are left empty in the figure. There appears to be a preference for various kinds of demotion (i.e. the upper right corner of the figure), which fits nicely with the known typological preference of German for anticausative constructions [@haspelmath1993a: 101; @nichols2004: 189].
 
-![Names for chained macro-role remappings involving the subject](figures/subjectchains.png){#fig:subjectchains}
+![Names for chained macro-role remappings involving the subject](../figures/subjectchains.png){#fig:subjectchains}
 
 The upper right triangle of [@fig:subjectchains] are demotions, the lower left triangle are promotions, and the diagonal are examples of symmetrical diatheses. I will discuss all types in this order.
 
@@ -1090,7 +1090,7 @@ The situation with object diatheses is reversed from the previously discussed su
 The top left diatheses in [@fig:objectdiatheses] are demotions, while the bottom left ones are promotions.
 The bottom right is completely empty because these remappings are not diatheses anymore, but simply optional marking. There is a strong tendency for object demotions to be either unmarked or marked by reflexive pronouns in German, while the object promotions are typically marked by preverbs or obligatory adverbs. The exception to this generalisation are the so-called locative and delocative diatheses. With those, promotions (locatives) are formally unmarked, while demotions (delocatives) are marked by preverbs or obligatory adverbs. I have currently no explanation for this rather clear markedness pattern.
 
-![Names for isolated remappings without involvement of the subject](figures/objectdiatheses.png){#fig:objectdiatheses}
+![Names for isolated remappings without involvement of the subject](../figures/objectdiatheses.png){#fig:objectdiatheses}
 
 I will discuss the different role-remappings from [@fig:objectdiatheses] in four subsections. First, I will look at the various kinds of applicatives and antipassives (mid left and mid top), then at the objectives and deobjectives (top right and left bottom), followed by locative and delocative diatheses (mid bottom and mid right), and finally at the symmetrical exchanges (on the diagonal).
 
@@ -1312,7 +1312,7 @@ b. Ich bewundere die Ehrlichkeit bei ihm.
 
 Chains of object diatheses (i.e. chains with the object in the middle of the chain) can always be interpreted as a combination of two isolated ('single') diatheses from the previous section. However, not all theoretically possible combinations are attested (see [@fig:objectchains]). The pattern of which chains are attested is clearly not-random, though I do not have an insightful rationale for the distribution as shown in the figure.
 
-![Attested chains of object diathesis](figures/objectchains.png){#fig:objectchains}
+![Attested chains of object diathesis](../figures/objectchains.png){#fig:objectchains}
 
 #### Full applicatives {.unnumbered}
 
@@ -1781,7 +1781,7 @@ d. (= Sie erlaubt, dass ich die Kleider wasche.)
 
 ### *Agentivkausativ* (*machen + Infinitiv*) {#sec-summary-machenkausativ}
 
-The ~~Agentivkausativ~~ (full discussion in [@sec:infinitive-machen]) is probably the most pure causative of all the various novative light verb with infinitive diathesis. It uses the light verb *machen* 'to make' and adds a causer. It is not in very widespread use and often sound like English calques, though it is probably an old Germanic construction.
+The ~~Agentivkausativ~~ (full discussion in [@sec:infinitive-machen]) is probably the most pure causative of all the various novative light verb with infinitive diatheses. It uses the light verb *machen* 'to make' and adds a causer. It is not in very widespread use and often sound like English calques, though it is probably an old Germanic construction.
 
 ::: ex
 a. Ich weine.
@@ -1790,7 +1790,7 @@ b. Deine Späße machen mich weinen.
 
 ### *Direktivkausativ* (*schicken + Infinitiv*) {#sec-summary-direktivkausativ} 
 
-The ~~Direktiv~~ (full discussion in [@sec:infinitive-schicken]) is a causative with the extra semantic aspects that some form of instructions are given. This diathesis is constructed with the light verb *schicken* with infinitive. The meaning of the construction is rather close to the full lexical meaning of *schicken* 'to send'. However, this construction is coherent, and thus monoclausal [@next c].
+The ~~Direktivkausativ~~ (full discussion in [@sec:infinitive-schicken]) is a causative with the extra semantic aspects that some form of instructions are given. This diathesis is constructed with the light verb *schicken* with infinitive. The meaning of the construction is rather close to the full lexical meaning of *schicken* 'to send'. However, this construction is coherent, and thus monoclausal [@next c].
 
 ::: ex
 a. Er schläft
@@ -1821,9 +1821,9 @@ c. Ich bedenke, dass es schon spät ist. \
    Er gibt mir zu bedenken, dass es schon spät ist.
 :::
 
-### *Sensativ* (*sehen/hören/fühlen/spüren/riechen/finden* + Infinitiv) {#sec:summary-sensativ}
+### *Sensativ* (*sehen/hören/fühlen/spüren + Infinitiv*) {#sec:summary-sensativ}
 
-The ~~Sensativ~~ (full discussion in [@sec:infinitive-sehen] and subsequent sections) is a novative that consists of one of the verbs of sensation *sehen/hören/fühlen/spüren/riechen/finden* with an infinitive. The new nominative is an observer/experiencer of the main verb. The erstwhile nominative is turned into an accusative. The possibly leads to a double accusative construction when there already was an accusative present [@next a,b]. This diathesis can be used with all verbs that can be experienced as an observer. Note that these verbs of sensation can also be used with an explicit *dass* complement clause [@next c], but these constructions are not coherent, and thus no diatheses.
+The ~~Sensativ~~ (full discussion in [@sec:infinitive-sehen] and subsequent sections) is a novative that consists of one of the verbs of sensation *sehen/hören/fühlen/spüren/riechen/finden* with an infinitive. The new nominative is an observer/experiencer of the main verb. The erstwhile nominative is turned into an accusative. The possibly leads to a double accusative construction when there already was an accusative present [@next a,b]. This diathesis can be used with all verbs that can be experienced as an observer. Note that these verbs of sensation can also be used with an explicit *dass* complement clause [@next c], but such constructions are not coherent, and thus no diatheses.
 
 ::: ex
 a. Du gibst ihm einen Kuss.
@@ -1841,7 +1841,7 @@ b. Sie glaubt den Säugling eingeschlafen. \
    (= Sie glaubt, dass der Säugling eingeschlafen ist.)
 :::
 
-## Novative with demotion diatheses ~~[Ø › SBJ › ADJ]~~
+## Novative-with-demotion diatheses ~~[Ø › SBJ › ADJ]~~
 
 ### *Transitiv Opiniativ* (*wissen/glauben/sehen/finden + Partizip*) {#sec:summary-transitiv-opiniativ}
 
@@ -1857,11 +1857,11 @@ This *Transitiv Opiniativ* can of course easily be united with the previous *Opi
 
 ### *Passivkausativ* (*lassen + Infinitiv*) {#sec:summary-passivkausativ}
 
-The ~~Passivkausativ~~ (full discussion in [@sec:infinitive-lassen-passive-causative])
+The ~~Passivkausativ~~ (full discussion in [@sec:infinitive-lassen-passive-causative]) can be see as a variant of the *Permissivkausativ* (see [@sec:summary-permissivkausativ]). Both use the *lassen + Infinitiv* construction to add a new causer to the sentence. Additionally, in a *Passivkausativ* [@next b] the original nominative is demoted to a prepositional phrase (or it is left out completely).
 
 ::: ex
 a. Die Wäscherei reinigt den Teppich.
-b. Er lässt den Teppich (von der Wäscherei) reinigen.
+b. Der neue Besitzer lässt den Teppich (von der Wäscherei) reinigen.
 :::
 
 ## Antipassive diatheses ~~[OBJ › ADJ]~~
@@ -2361,15 +2361,25 @@ b. Ich will ein Haus bauen.
 c. Ich werde ein Haus bauen.
 :::
 
-### *Absentiv* (*sein/gehen/kommen/fahren* + Infinitiv)
+### *Absentiv* (*sein/gehen/fahren/kommen + Infinitiv*)
 
 (full discussion in [@sec:infinitive-sein-absentive] and subsequent sections)
 
 ::: ex
 a. Ich besuche meinen Freund.
 b. Ich bin meinen Freund besuchen.
-c. Ich gehe/komme/fahre meinen Freund besuchen.
+c. Ich gehe/fahre meinen Freund besuchen.
+d. Ich komme meinen Freund besuchen.
 :::
+
+### *Progressiv* (*tun + Infinitive*)
+
+(full discussion in [@sec:infinitive-tun])
+
+::: ex
+a. Ich schenke dir das Buch.
+b. ^^?^ Ich tu dir das Buch schenken.
+b. Schenken tu ich dir das Buch.
 
 ### *Kontinuativ* (*bleiben + Infinitiv*)
 
@@ -2460,17 +2470,17 @@ b. Der Feind ist am Angreifen.
 
 The light verbs listed in [@tbl:light-verbs] occur in more than one derived clause construction. Shown in the table is whether these constructions induce epithesis (E) or diathesis (D).
 
-|            | *Partizip* | *Infinitiv* | *zu(m)/am+Inf.* |
-| :--------- | :--------: | :---------: | :-------------: |
-| *haben*    |    D/E     |     D/E     |        D        |
-| *sein*     |    D/E     |      E      |       D/E       |
-| *bleiben*  |    D/E     |      E      |       D/E       |
-| *werden*   |     D      |      E      |        –        |
-| *scheinen* |    D/E     |      –      |        E        |
-| *bekommen* |     D      |      –      |        E        |
-| *wissen*   |     D      |      –      |        E        |
-| *sehen*    |     D      |      D      |        –        |
-| *lassen*   |     E      |      D      |        E        |
-| *kommen*   |     E      |      E      |        E        |
+|            | *Infinitiv* | *Partizip* | *zu(m)/am+Inf.* |
+| :--------- | :---------: | :--------: | :-------------: |
+| *haben*    |     D+E     |    D+E     |        D        |
+| *sein*     |      E      |    D+E     |       D+E       |
+| *bleiben*  |      E      |    D+E     |       D+E       |
+| *scheinen* |      –      |    D+E     |        E        |
+| *werden*   |      E      |     D      |        –        |
+| *bekommen* |      –      |     D      |        E        |
+| *wissen*   |      –      |     D      |        E        |
+| *sehen*    |      D      |     D      |        –        |
+| *lassen*   |      D      |     E      |        E        |
+| *kommen*   |      E      |     E      |        E        |
 
 Table: Summary of major light verbs (D = diathesis, E = Epithesis) {#tbl:light-verbs}

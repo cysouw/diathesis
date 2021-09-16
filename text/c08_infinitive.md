@@ -2,16 +2,36 @@
 
 ## Introduction
 
+Constructions with a light verb and an infinitive are widely discussed in German grammar. Without diathesis such constructions are for example found with modal verbs [@next a], see [@sec:infinitive-werden-modal]ff. or forming an ~~absentive~~ with *sein* [@next b], see [@sec:infinitive-sein-absentive]. Less widely discussed is an interesting construction of *haben* with infinitive and a positive adverbial [@next c], see [@sec:infinitive-haben-adverbial].
+
+::: ex
+- Die Schülerin muss/darf/will/kann die Pflanzen gießen.
+- Die Schülerin ist die Pflanzen gießen.
+- Die Schülerin hat gut reden.
+:::
+
+There are also various light verbs that induce a diathesis when used with an infinitive. For example, *lassen* induces a causative [@next a], see [@sec:infinitive-lassen-causative]. Various verbs of perception induce a special experientive construction, like *sehen* [@next b], see [@sec:infinitive-sehen]. Less widely discussed is the diathesis of *haben* with an infinitive of a position verb [@next c], see [@sec:infinitive-haben].
+
+::: ex
+- Die Lehrerin lässt die Schülerin die Pflanzen gießen.
+- Die Lehrerin sieht die Schülerin die Pflanzen gießen.
+- Die Lehrerin hat ihre Pflanzen auf der Fensterbank stehen.
+:::
+
+Following Bech [-@bech1955] such construction are often designated as *1. Status* in the German grammatical literature. However, this name is not very mnemonic, so I prefer to simply use the term ~~light verb + infinitive~~ constructions.
+
+There are 10 frequently occurring diatheses that use a light verb + infinitive construction and for which I propose a German name, as listed below. Note that the *lassen + Infinitiv* construction occurs in many different diatheses. A detailed discussion of these can be found in [@sec:infinitive-guises-of-lassen]. 
+
 - ~~[SBJ › Ø]~~ *lassen* ~~Unpersönlicher Möglichkeitspassiv~~ (see [@sec:infinitive-lassen-reflexive-intransitive ff.])
 - ~~[OBJ › SBJ › ADJ]~~ *lassen* ~~Möglichkeitsspassiv~~ (see [@sec:infinitive-lassen-reflexive-anticausative])
 - ~~[OBJ › SBJ › ADJ]~~ *lassen* ~~Permissivpassiv~~ (see [@sec:infinitive-lassen-reflexive-permissive-passive ff.])
 - ~~[OBJ › SBJ › OBJ]~~ *lassen* ~~Permissivinversiv~~ (see [@sec:infinitive-lassen-dative-reflexive-inversive])
 - ~~[OBJ › SBJ › OBJ]~~ *haben* ~~Ortspertinenzinversiv~~ (see [@sec:infinitive-haben])
+- ~~[Ø › SBJ › ADJ]~~ *lassen* ~~Passivkausativ~~ (see [@sec:infinitive-lassen-passive-causative])
 - ~~[Ø › SBJ › OBJ]~~ *lassen* ~~Permissivkausativ~~ (see [@sec:infinitive-lassen-causative])
 - ~~[Ø › SBJ › OBJ]~~ *schicken* ~~Direktivkausativ~~ (see [@sec:infinitive-schicken])
 - ~~[Ø › SBJ › OBJ]~~ *machen* ~~Agentivkausativ~~ (see [@sec:infinitive-machen])
 - ~~[Ø › SBJ › OBJ]~~ *sehen/hören/fühlen/spüren* ~~Sensativ~~ (see [@sec:infinitive-sehen ff.])
-- ~~[Ø › SBJ › ADJ]~~ *lassen* ~~Passivkausativ~~ (see [@sec:infinitive-lassen-passive-causative])
 
 ## Definitions
 
@@ -19,9 +39,7 @@
 
 Although surface structure clearly monoclausal, underlyingly there might be different structures, e.g [@harbert1977]
 
-[@bech1955] *1. Status*
-
-[@enzinger2012] (e.g. no passive: p. 36)
+### ACI *Akkusativ mit Infinitiv*
 
 ### IPP *Ersatzinfinitiv*
 
@@ -34,35 +52,87 @@ benefactive (optionally) *helfen*
 
 [@schmid2005; @schallert2014]
 
-### The many guises of *lassen* {#sec:infinitive-guises-of-lassen}
+### The many guises of *lassen + Infinitiv* {#sec:infinitive-guises-of-lassen}
 
-[@eisenberg2006a: 369-371; @kotulkova2010a; @pitteroff2014]
+It has been widely observed that there is a wide variety of uses of the *lassen + Infinitiv* construction in German [e.g. @eisenberg2006a: 369-371; @kotulkova2010a; @pitteroff2014]. In this chapter I will distinguish nine different diatheses that all use the *lassen + Infinitiv* construction, as summarised in [@tbl:lassen]. These nine are reduced to six groups, which I have given a German name (as shown in the table). However, these can be further reduced to basically three different options: a reflexive epistemic passive expression possibility (*(unpersönlicher) Möglichkeitspassiv*), a reflexive permissive passive (*Permissivpassiv, Permissivinversiv*) and a non-reflexive causative (*Permissivkausativ, Passivkausativ*). I will succinctly summarise these different options here. For a detailed discussion, please see the specific sections later in this chapter.
 
-- causation
-- permission
-- possibility
-
-
-
-| Section | Remapping | German Name | Reflexive | Interpretation |
-| :-----: | :-------: | :---------: | :-------: | :------------: |
-| [-@sec:infinitive-lassen-reflexive-intransitive]         | [ N \| – ]     | | | |
-| [-@sec:infinitive-lassen-reflexive-governed-preposition] | [ NP \| –P ]   | *Möglichkeitspassiv* | yes | possibility |
-| [-@sec:infinitive-lassen-reflexive-anticausative]        | [ NA \| pN ]   | | | |
-|                                                          |                | | | |
-| [-@sec:infinitive-lassen-reflexive-permissive-passive]   | [ NA \| pN ]   | | | |
-| [-@sec:infinitive-lassen-dative-reflexive]               | [ ND \| pN ]   | *Permissivpassiv* | yes | permission |
-| [-@sec:infinitive-lassen-dative-reflexive-anticausative] | [ NDA \| pNA ] | | | |
-|                                                          |                | | | |
-| [-@sec:infinitive-lassen-dative-reflexive-inversive]     | [ ND \| AN ]   | *Permissivinversiv* | yes | permission |
-|                                                          |                | | | |
-| [-@sec:infinitive-lassen-causative]                      | [ –N \| NA ]   | *Permissivkausativ* | no | causation/permission |
-|                                                          |                | | | |
-| [-@sec:infinitive-lassen-passive-causative]              | [ –NA \| NpA ] | *Passivkausativ* | no | causation |
+|                         Section                          |   Remapping    |     German Name      | Reflexive |    Interpretation    |
+| :------------------------------------------------------: | :------------: | :------------------: | :-------: | :------------------: |
+|     [-@sec:infinitive-lassen-reflexive-intransitive]     |   [ N \| – ]   | *Unpersönlicher Möglichkeitspassiv* |    yes    |     possibility      |
+| [-@sec:infinitive-lassen-reflexive-governed-preposition] |  [ NP \| –P ]  | *Unpersönlicher Möglichkeitspassiv* |    yes    |     possibility      |
+|    [-@sec:infinitive-lassen-reflexive-anticausative]     |  [ NA \| pN ]  | *Möglichkeitspassiv* |    yes    |     possibility      |
+|  [-@sec:infinitive-lassen-reflexive-permissive-passive]  |  [ NA \| pN ]  |  *Permissivpassiv*   |    yes    |      permission      |
+|        [-@sec:infinitive-lassen-dative-reflexive]        |  [ ND \| pN ]  |  *Permissivpassiv*   |    yes    |      permission      |
+| [-@sec:infinitive-lassen-dative-reflexive-anticausative] | [ NDA \| pNA ] |  *Permissivpassiv*   |    yes    |      permission      |
+|   [-@sec:infinitive-lassen-dative-reflexive-inversive]   |  [ ND \| AN ]  | *Permissivinversiv*  |    yes    |      permission      |
+|           [-@sec:infinitive-lassen-causative]            |  [ –N \| NA ]  | *Permissivkausativ*  |    no     | causation/permission |
+|       [-@sec:infinitive-lassen-passive-causative]        | [ –NA \| NpA ] |   *Passivkausativ*   |    no     |      causation       |
 
 Table: Different diatheses with a *lassen + Infinitiv* construction {#tbl:lassen}
 
+The *Möglichkeitspassiv* is typically attesed with transitive verbs with a clear agent, like *besteigen* 'to climb' [@next]. The accusative (*den Berg*) is promoted to nominative subject and the erstwhile subject is demoted to an optional *von* prepositional phrase. A reflexive pronoun is necessary, and the diathesis has an epistemic meaning expressing the possibility of the action. With agentive intransitive verbs, like *wandern* 'to hike' [@nnext a], this diathesis leads to an *unpersönlicher Möglichkeitspassiv*, often even without a valency-simulating *es*. The nominative subject is removed and an evaluative adverbial like *gut* is necessary. Verbs with a governed preposition, like *warten auf* 'to wait for' are slightly different as (i) the governed preposition is retained, (ii) the valency simulating *es* is impossible and (iii) no evaluative adverbial is necessary [@nnext b].
+
+::: ex
+~~Möglichkeitspassiv~~
+
+a. Der Besucher besteigt den Berg.
+b. Der Berg lässt sich (von dem Besucher) besteigen. \
+   (= Es ist (für den Besucher) möglich den Berg zu besteigen.)
+:::
+
+::: ex
+~~Unpersönlicher Möglichkeitspassiv~~
+
+a. Der Besucher wandert dort. \
+   Dort lässt (es) sich gut wandern.
+b. Der Besucher wartet auf ein Tattoo. \
+   Auf ein Tattoo lässt sich warten.^[Attested online at <https://www.t-online.de/nachrichten/deutschland/id_89453948/corona-lockerungen-die-haeme-ueber-die-friseuroeffnungen-ist-entlarvend-.html>, accessed 15 September 2021.]
+:::
+
+The *Permissivpassiv* has some similarities to the *Möglichkeitspassiv*, but enough differences to consider it a different diathesis. Both are passives and both need a reflexive pronoun, but the semantics, to role remapping, and the verbs that use the *Permissivpassiv* are completely different. Semantically, the *Permissivpassiv* expresses permission, sometimes almost causation. As for remapping of roles, this diathesis most typically promotes datives to nominative subject, like with *schenken* 'to gift' [@next a]. There is a special group of select transitive verbs in which the accusative is promoted to nominative subject, like *belustigen* 'to amuse' [@next b]. A second special group of verbs, like *gefallen* 'to please' [@nnext], promotes the dative, but demotes the original nominative to accusative, not to a prepositional phrase (i.e. an inversive diathesis, called *Permissivinversiv* here). 
+
+::: ex
+~~Permissivpassiv~~
+
+a. Mein Vater schenkt mir ein Fahrrad. \
+   Ich lasse mir ein Fahrrad schenken (von meinem Vater).
+b. Der Clown belustigt mich. \
+   Ich lasse mich von dem Clown belustigen.
+:::
+
+::: ex
+~~Permissivinversiv~~
+
+a. Dein Ton gefällt mir nicht.
+b. Ich lasse mir deinen Ton nicht gefallen.
+:::
+
+The *Permissivkausativ* and the closely related *Passivkausativ* add a new participant to the sentence who causes to event to happen.
+
+Except for the different role remapping, there is also a difference in applicability. Namely, there are various verbs that allow for a *Permissivkausativ* but not for a *Passivkausativ*, e.g. *ausziehen* 'to take off, to undress' [@nnext c].
+
+::: ex
+~~Permissivkausativ~~
+
+a. Der Schüler schreibt einen Test. \
+   Der Lehrer lässt den Schüler einen Test schreiben. \
+   (= Der Lehrer verursacht, dass der Schüler einen Test schreibt.)
+b. Der Schüler geht nach Hause. \
+   Der Lehrer lässt den Schüler nach Hause gehen. \
+   (= Der Lehrer erlaubt den Schüler nach Hause zu gehen.)
+:::
+
+::: ex
+~~Passivkausativ~~
+
+a. Der Schüler putzt den Tisch. \
+   Der Lehrer lässt den Tisch (von den Schüler) putzen.
+b. ^* Der Vater lässt die Jache (von seinem Sohn) ausziehen .
+:::
+
 ## Deponent verbs without alternations
+
+Not attested.
 
 ## Alternations without diathesis
 
@@ -129,17 +199,21 @@ The verbs *brauchen* and *heißen* are not very common in this construction.
 
 References [@groot2000; @vogel2007: 269ff.; @abraham2008; @konig2009]
 
-### *gehen/fahren + Infinitiv* Absentive
+### *gehen/fahren + Infinitiv* Abitive
+
+(from Lat. *abire* 'depart, go away')
 
 - Er geht/fährt seinen Freund besuchen.
 
-### *kommen + Infinitiv* Presentive
+### *kommen + Infinitiv* Aditive
+
+(from Lat. *adire* 'approach')
 
 - Er kommt hier immer die Zeitung lesen.
 
 ### --- Others --- {.unnumbered}
 
-### *tun + Infinitiv* Progressive
+### *tun + Infinitiv* Progressive {#sec:infinitive-tun}
 
 Substandard construction [@schwarz2004]
 
@@ -149,30 +223,7 @@ Better with fronting of infinitive [@schwarz2004: 15-18]
 
 - Schenken tu ich dur ein Buch.
 
-### *haben + Infinitiv* Possibility + manner adverbial {#sec:infinitive-haben-adverbial}
-
-With adverbs, typically *leicht* or *gut*. The meaning is modal in a special sense of "it is (easily) possible for someone".
-
-- Er hat leicht reden. ("ihm fällt das Reden leicht")
-- Er hat gut lachen.
-- Der Thiessen hat gut quasseln, denkt er.
-
-DWDS query: haben leicht $p=VVINF &&! {reden, lachen, können}
-
-(mit `@gut` noch mehr Beispiele)
-
-- 1	1998-07-13	Zeitung	Berliner Zeitung, 13.07.1998	Nike hatte leicht protzen:
-- 2	1993-02-26	Zeitung	Die Zeit, 26.02.1993, Nr. 09	Der Westen hat leicht richten.
-- 3	1983-12-09	Zeitung	Die Zeit, 09.12.1983, Nr. 50	Der hat leicht arbeiten, denn er hat den Vorzug, daß die Hand, die ihn bewegt, im Verborgenen bleibt.
-- 4	1978-10-20	Zeitung	Die Zeit, 20.10.1978, Nr. 43	Jungen haben leicht sagen: „Mädchen sind doof.“
-- 5	1972-04-28	Zeitung	Die Zeit, 28.04.1972, Nr. 17	Wer behauptet, es laufe in der Geschichte alles auf das gleiche hinaus, und als Beweis dafür Szenen liefert, die immer auf das gleiche hinauslaufen, der hat leicht beweisen; und er reproduziert gerade das, was er mit seiner Wut und Ironie zu verspotten und zu bekämpfen meint: Ideologie.
-- 6	1949-10-20	Zeitung	Die Zeit, 20.10.1949, Nr. 42	Man hat leicht sagen:
-- 7	1933-12-31	Belletristik	Werfel, Franz: Die Vierzig Tage des Musa Dagh I, Stockholm: Bermann - Fischer 1947 [1933], S. 168	Der Wali, der Mutessarif, der Kaimakam hatten leicht befehlen und verantwortlich machen.
-- 8	1896	Belletristik	Fontane, Theodor: Effi Briest. Berlin, 1896.	""Ach, Roswitha, der Geheimrat hat leicht verbieten, und Du hast es auch leicht, all' das nachzusprechen.
-- 9	1871	Belletristik	Pocci, Franz von: Lustiges Komödienbüchlein. Bd. 4. München, 1871.	Der Herr Baron hat leicht trösten; ich bin und bleib' unglücklich, wenn ich meinen Casperl nimmer sieh.
-- 10	1848	Belletristik	Eckermann, Johann Peter: Gespräche mit Goethe in den letzten Jahren seines Lebens. Bd. 3. Leipzig, 1848.	Wer aber geliebt ist, hat leicht regieren.""
-
-### *bleiben + Infinitiv* {#sec:infinitive-bleiben}
+### *bleiben + Infinitiv* Continuative {#sec:infinitive-bleiben}
 
 considered to be one word in german orthographie!
 
@@ -183,6 +234,24 @@ considered to be one word in german orthographie!
 
 - Er bleibt ihr Briefe schicken.
 
+### *haben + Infinitiv* Possibility + manner adverbial {#sec:infinitive-haben-adverbial}
+
+With adverbs, typically *leicht* or *gut*. The meaning is modal in a special sense of "it is (easily) possible for someone".
+
+::: ex
+- Er hat leicht reden. \
+  (= ihm fällt das Reden leicht.)
+- Nike hatte leicht protzen.^[~~DWDS~~: Berliner Zeitung, 13.07.1998]
+:::
+
+**Examples**
+
+- Jungen haben leicht sagen: "Mädchen sind doof."^[~~DWDS~~: Die Zeit, 20.10.1978, Nr. 43.]
+- Wer behauptet, es laufe in der Geschichte alles auf das gleiche hinaus, und als Beweis dafür Szenen liefert, die immer auf das gleiche hinauslaufen, der hat leicht beweisen.^[~~DWDS~~: Die Zeit, 28.04.1972, Nr. 17.]
+- Ach, Roswitha, der Geheimrat hat leicht verbieten, und Du hast es auch leicht, all' das nachzusprechen.^[~~DWDS~~: Fontane, Theodor: Effi Briest. Berlin, 1896.]
+- Der Herr Baron hat leicht trösten; ich bin und bleib' unglücklich, wenn ich meinen Casperl nimmer sieh.^[~~DWDS~~: Pocci, Franz von: Lustiges Komödienbüchlein. Bd. 4. München, 1871.]
+- Wer aber geliebt ist, hat leicht regieren.^[~~DWDS~~: Eckermann, Johann Peter: Gespräche mit Goethe in den letzten Jahren seines Lebens. Bd. 3. Leipzig, 1848.]
+
 ### *lernen + Infinitive*
 
 - Das Baby läuft.
@@ -192,9 +261,11 @@ considered to be one word in german orthographie!
 
 ### *legen + sich + Infinitiv*
 
-Is this the only example?
+The light verb *legen* with infinitive only appears to be used in a single expression with the main verb *schlafen* 'to sleep' [@next].
 
-- Er legt sich schlafen
+::: ex
+Er legt sich schlafen.
+:::
 
 ## Diatheses with subject demotion
 
@@ -349,7 +420,7 @@ b. Ich lasse mich von diesem Witz begeistern.
 
 ### [ ND | pN ] *lassen + Infinitiv* Dative reflexive permissive passive {#sec:infinitive-lassen-dative-reflexive}
 
-A few verbs, like *helfen* 'to help' [@next a] and *gratulieren* 'to congratulate' [@next b] show a dative reflexive passive with a permissive interpretation. This diathesis is much more common with an additional accusative, as extensively discussed in the next [@sec:infinitive-lassen-dative-reflexive-anticausative]. There seem to be only very few verbs with a dative (but not accusative) that allow for this passive diathesis. Various others show a reflexive inversive diathesis (see [@sec:infinitive-lassen-dative-reflexive-inversive]).
+A few verbs, like *helfen* 'to help' [@next a] and *gratulieren* 'to congratulate' [@next b] show a dative reflexive passive with a permissive interpretation. This diathesis is much more common with an additional accusative, as extensively discussed in the next [@sec:infinitive-lassen-dative-reflexive-anticausative]. There seem to be only very few verbs with a dative (but not accusative) that allow for this passive diathesis. Various other verbs with a dative show a reflexive inversive diathesis, to be discussed separately (see [@sec:infinitive-lassen-dative-reflexive-inversive]).
 
 ::: ex
 - Sie helft mir. \
@@ -379,7 +450,7 @@ The verb *kündigen* 'to terminate, to resign' [@next] is a special case, becaus
 
 ### [ NDA | pNA ] *lassen + Infinitiv* Dative reflexive permissive passive + accusative (*Permissivpassiv*) {#sec:infinitive-lassen-dative-reflexive-anticausative}
 
-Verbs with both a dative and an accusative, like *schenken* 'to gift' show a parallel passive diathesis to the reflexive passive (see [@sec:infinitive-lassen-reflexive-permissive-passive]), but now the dative is promoted to nominative subject [@next]. Semantically this diathesis [@next b] has a clear permissive meaning. Syntactically, there seems to be a close connection to the *bekommen + Partizip* dative passive (see [@sec:participles-bekommen-passive]), which – though – lacks the permissive meaning [@next c].
+Verbs with both a dative and an accusative, like *schenken* 'to gift' show a parallel passive diathesis to the *lassen* reflexive passive (see [@sec:infinitive-lassen-reflexive-permissive-passive]), but now the dative is promoted to nominative subject [@next]. Semantically this diathesis [@next b] has a clear permissive meaning. Syntactically, there seems to be a close connection to the *bekommen + Partizip* dative passive (see [@sec:participles-bekommen-passive]), which – though – lacks the permissive meaning [@next c].
 
 ::: ex
 a. Der Verkäufer schenkt mir den Rechner.
@@ -387,7 +458,7 @@ b. Ich lasse mir den Rechner schenken (vom Verkäufer).
 c. Ich bekomme den Rechner geschenkt (vom Verkäufer).
 :::
 
-This diathesis is also possible with other datives, like possessive datives [@next a] or benefactive datives [@next b]. Like alle *lassen + Infinitiv* constructions, this diathesis invokes an *Ersatzinfinitiv* [@next c].
+This diathesis is also possible with other datives, like possessive datives [@next a] or benefactive datives [@next b]. Like all *lassen + Infinitiv* constructions, this diathesis invokes an *Ersatzinfinitiv* [@next c].
 
 ::: ex
 a. Der Friseur schneidet meine Haare. \
@@ -428,7 +499,7 @@ b. ^* Ich lasse seinem Freund den Rechner schenken (von dem Verkäufer).
 
 ### [ –N | NA ] *lassen + Infinitiv* Permissive causative (*Permissivkausativ*) {#sec:infinitive-lassen-causative}
 
-Although the *lassen +Infinitiv* is widely acknowledged in German grammar as a causative, the actual semantics are more variable than that. Basically there seem to be two major interpretations, a causative and a permissive [@next b]. Enzinger [-@enzinger2012: 6-7] calls the permissive reading *Kontinuativ*. This diathesis typically invokes the IPP *Ersatzinfinitiv* [@next c]. The use of participle *gelassen* is possible [@next d], but seems to be restricted to the permissive interpretation [@enzinger2012: 34].
+Although the *lassen +Infinitiv* is widely acknowledged in German grammar as a causative, the actual semantics are more variable than that. Basically there seem to be two major interpretations, a causative and a permissive [@next b]. Enzinger [-@enzinger2012: 6-7] calls the permissive reading *Kontinuativ* as this interpretation typically expresses that a situation is allowed to persist or continue. This diathesis typically invokes the IPP *Ersatzinfinitiv* [@next c]. However, the use of participle *gelassen* is possible [@next d], but seems to be restricted to the permissive interpretation [@enzinger2012: 34].
 
 ::: ex
 a. Ich wasche die Kleider.
@@ -440,7 +511,7 @@ d. Sie hat mich die Kleider waschen *gelassen*. \
    (permissive = Sie hat erlaubt, dass ich die Kleider wasche.)
 :::
 
-Agentive intransitives like *schlafen* 'to sleep' prefer a permissive reading [@next a], while patientive intransitives like *einschlafen* 'to fall asleep' prefer a causative reading [@next b]. However, this appears only to a preference, not a semantic necessity. There are also clearly ambiguous examples, like *arbeiten* 'to work' [@next c]. 
+Durative intransitives like *schlafen* 'to sleep' prefer a permissive reading [@next a], while punctual intransitives like *einschlafen* 'to fall asleep' prefer a causative reading [@next b]. However, this appears only to a preference, not a semantic necessity. There are also clearly ambiguous examples, like *arbeiten* 'to work' [@next c]. Various other factors influencing the possibly interpretations are discussed by Enzinger [-@enzinger2012: 33-].
 
 ::: ex
 a. Ich lasse das Kind schlafen. \
@@ -633,20 +704,21 @@ kein IPP
 rare, no IPP
 
 ::: ex
-- Er riecht seine Mutter Milchreis kochen.
+Er riecht seine Mutter Milchreis kochen.
+:::
+
+**Examples**
+
 - Er schlug sich querfeldein, nahm meilenweite Umwege in Kauf, wenn er eine noch Stunden entfernte Schwadron Reiter auf sich zukommen roch.^[~~DWDS~~: Süskind, Patrick: Das Parfum, Zürich: Diogenes 1985, S. 4]
 - Seine Majestät hatte einen Streit im Haus gehört und etwas brennen gerochen.^[William M. Thackeray:
 Die Rose und der Ring. Übersetzung Jörg Karau 2009. Attested online at <https://www.joergkarau-texte.de/PDF/Die%20Rose%20und%20der%20Ring.pdf>, accessed 22 July 2021.]
-:::
+- Ich war gerade 20 Minuten draußen und hab bei 8°C zwei Familien unabhängig voneinander Grillen gerochen^[Note the non-standard capitalisatoin. Attested online at <https://twitter.com/oerthelius/status/1368214157347221508>, accessed 13 September 2021.]
 
 ### [ –N | NA ] *finden + Infinitiv* Experiencer
 
 Also *finden*, but no IPP
 
-old fashioned? Most examples in DWDS seem to be old, but still attested
-
-- Indessen hatte Perdikkas die Stadt, gegen die er gesandt war, bereits von den Einwohnern verlassen gefunden.^[~~DWDS~~: Droysen, Johann Gustav: Geschichte Alexanders des Großen. Hamburg, 1833.]
-- Er […] rauchte den Joint auf, den er dort liegen fand.^[~~DWDS~~: Der Tagesspiegel, 02.10.1998]
+old fashioned? Most examples in DWDS seem to be old, but still attested. Typically state-verbs?
 
 ::: ex
 - Sein Teller steht auf den Tisch.
@@ -654,6 +726,11 @@ old fashioned? Most examples in DWDS seem to be old, but still attested
 - Er hat seinen Teller auf den Tisch stehen *gefunden*.
 :::
 
+**Examples**
+
+- Indessen hatte Perdikkas die Stadt, gegen die er gesandt war, bereits von den Einwohnern verlassen gefunden.^[~~DWDS~~: Droysen, Johann Gustav: Geschichte Alexanders des Großen. Hamburg, 1833.]
+- Er […] rauchte den Joint auf, den er dort liegen fand.^[~~DWDS~~: Der Tagesspiegel, 02.10.1998]
+  
 ### --- [ Ø > SBJ > ADJ ] --- {.unnumbered}
 
 ### [ –NA | NpA ] *lassen + Infinitiv* Passive causative (*Passivkausativ*) {#sec:infinitive-lassen-passive-causative}

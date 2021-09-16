@@ -2029,6 +2029,7 @@ The few examples of this construction all have a governed preposition *in*.
 a. Das Desaster begründet die Hoffnung.
 b. Im Desaster liegt immer auch die Hoffnung begründet.
 c. Die Hoffnung liegt darin begründet, dass ...
+:::
 
 Most examples with a finite verb *liegen* and a participle have a different structure, like [@next]. In these examples the verb *liegen* has the literal meaning 'to lie' and the participle is a adverbial secondary predicate (see [@sec:participles-secondary-predicates]).
 
