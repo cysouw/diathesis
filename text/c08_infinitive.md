@@ -37,7 +37,7 @@ There are 10 frequently occurring diatheses that use a light verb + infinitive c
 
 ### Identifying the infinitive
 
-Although surface structure clearly monoclausal, underlyingly there might be different structures, e.g [@harbert1977]
+Although surface structure clearly monoclausal, underlyingly there might be different structures, e.g [@harbert1977] (DSA 706 ET 750 K49 -8)
 
 ### ACI *Akkusativ mit Infinitiv*
 
@@ -54,17 +54,19 @@ benefactive (optionally) *helfen*
 
 ### The many guises of *lassen + Infinitiv* {#sec:infinitive-guises-of-lassen}
 
-It has been widely observed that there is a wide variety of uses of the *lassen + Infinitiv* construction in German [e.g. @eisenberg2006a: 369-371; @kotulkova2010a; @pitteroff2014]. In this chapter I will distinguish nine different diatheses that all use the *lassen + Infinitiv* construction, as summarised in [@tbl:lassen]. These nine are reduced to six groups, which I have given a German name (as shown in the table). However, these can be further reduced to basically three different options: a reflexive epistemic passive expression possibility (*(unpersönlicher) Möglichkeitspassiv*), a reflexive permissive passive (*Permissivpassiv, Permissivinversiv*) and a non-reflexive causative (*Permissivkausativ, Passivkausativ*). I will succinctly summarise these different options here. For a detailed discussion, please see the specific sections later in this chapter.
+It has been widely observed that there is a wide variety of uses of the *lassen + Infinitiv* construction in German [e.g. @eisenberg2006a: 369-371; @kotulkova2010a; @pitteroff2014]. In this chapter I will distinguish nine different diatheses that all use the *lassen + Infinitiv* construction, as summarised in [@tbl:lassen]. These nine are reduced to six groups, which I have given a German name (as shown in the table). However, these can be further reduced to basically three different options: a reflexive epistemic passive expression possibility (*Möglichkeitspassiv*), a reflexive permissive passive (*Permissivpassiv, Permissivinversiv*) and a non-reflexive causative (*Permissivkausativ, Passivkausativ*). I will succinctly summarise these different options here. For a detailed discussion, please see the specific sections later in this chapter.
 
 |                         Section                          |   Remapping    |     German Name      | Reflexive |    Interpretation    |
 | :------------------------------------------------------: | :------------: | :------------------: | :-------: | :------------------: |
-|     [-@sec:infinitive-lassen-reflexive-intransitive]     |   [ N \| – ]   | *Unpersönlicher Möglichkeitspassiv* |    yes    |     possibility      |
-| [-@sec:infinitive-lassen-reflexive-governed-preposition] |  [ NP \| –P ]  | *Unpersönlicher Möglichkeitspassiv* |    yes    |     possibility      |
+|     [-@sec:infinitive-lassen-reflexive-intransitive]     |   [ N \| – ]   | *Möglichkeitspassiv* |    yes    |     possibility      |
+| [-@sec:infinitive-lassen-reflexive-governed-preposition] |  [ NP \| –P ]  | *Möglichkeitspassiv* |    yes    |     possibility      |
 |    [-@sec:infinitive-lassen-reflexive-anticausative]     |  [ NA \| pN ]  | *Möglichkeitspassiv* |    yes    |     possibility      |
+|                                                          |                |                      |           |                      |
 |  [-@sec:infinitive-lassen-reflexive-permissive-passive]  |  [ NA \| pN ]  |  *Permissivpassiv*   |    yes    |      permission      |
 |        [-@sec:infinitive-lassen-dative-reflexive]        |  [ ND \| pN ]  |  *Permissivpassiv*   |    yes    |      permission      |
 | [-@sec:infinitive-lassen-dative-reflexive-anticausative] | [ NDA \| pNA ] |  *Permissivpassiv*   |    yes    |      permission      |
 |   [-@sec:infinitive-lassen-dative-reflexive-inversive]   |  [ ND \| AN ]  | *Permissivinversiv*  |    yes    |      permission      |
+|                                                          |                |                      |           |                      |
 |           [-@sec:infinitive-lassen-causative]            |  [ –N \| NA ]  | *Permissivkausativ*  |    no     | causation/permission |
 |       [-@sec:infinitive-lassen-passive-causative]        | [ –NA \| NpA ] |   *Passivkausativ*   |    no     |      causation       |
 
@@ -107,9 +109,7 @@ a. Dein Ton gefällt mir nicht.
 b. Ich lasse mir deinen Ton nicht gefallen.
 :::
 
-The *Permissivkausativ* and the closely related *Passivkausativ* add a new participant to the sentence who causes to event to happen.
-
-Except for the different role remapping, there is also a difference in applicability. Namely, there are various verbs that allow for a *Permissivkausativ* but not for a *Passivkausativ*, e.g. *ausziehen* 'to take off, to undress' [@nnext c].
+The *Permissivkausativ* and the closely related *Passivkausativ* add a new participant to the sentence who causes to event to happen. However, there are various differences between the two variants of the causative. First, the erstwhile nominative is demoted to an accusative in the *Permissivkausativ* [@next], while it is demoted to an optional *von* prepositional phrase in the *passivkausativ* [@nnext b]. Besides the different in role remapping, there is also a difference in applicability. Namely, there are various verbs that allow for a *Permissivkausativ* but not for a *Passivkausativ*, e.g. *ausziehen* 'to take off, to undress' [@nnext c,d] is not compatible with a *Passivkausativ*. Finally, the *Permissivkausativ* can both have a causative [@next a] and a permissive [@next b] reading, while the *passivkausativ* cannot have a permissive interpretation, only the causative interpretation is possible [@nnext b].
 
 ::: ex
 ~~Permissivkausativ~~
@@ -126,8 +126,11 @@ b. Der Schüler geht nach Hause. \
 ~~Passivkausativ~~
 
 a. Der Schüler putzt den Tisch. \
-   Der Lehrer lässt den Tisch (von den Schüler) putzen.
-b. ^* Der Vater lässt die Jache (von seinem Sohn) ausziehen .
+   Der Lehrer lässt den Schüler den Tisch putzen.
+b. Der Lehrer lässt den Tisch (von dem Schüler) putzen.
+c. Der Sohn zieht die Jacke aus. \
+   Der Vater lässt seinen Sohn die Jacke auszeihen.
+b. ^* Der Vater lässt die Jacke (von seinem Sohn) ausziehen .
 :::
 
 ## Deponent verbs without alternations
@@ -138,11 +141,24 @@ Not attested.
 
 ### --- Modals --- {.unnumbered}
 
+### *dürfen/können/mögen/müssen/sollen/wollen + Infiniv* Modal verbs {#sec:infinitive-modals}
+
 These 'Modalverben' are coherent and have a so-called IPP 'Ersatzinfinitiv' construction.
 
 - Er darf das Haus bauen.
 - Er hat das Haus bauen dürfen.
 - Es ist bekannt, dass er das Haus [bauen] [hat dürfen].
+
+The verb *dürfen* reverses controll.
+
+- Ich bitte dich zu kommen.
+- Ich bitte dich kommen zu dürfen.
+
+Some of these verbs reverse the default "haben+Partizip" Interpretation.
+
+- Ich habe mein Auto repariert.
+- Ich will unbedingt mein Auto repariert haben.
+- Ich muss unbedingt mein Auto repariert haben
 
 ### *werden + Infiniv* Future {#sec:infinitive-werden-modal}
 
@@ -157,39 +173,13 @@ The light verb *werden* is also used as auxiliary in the Konjunktiv.
 
 - Ich würde gerne etwas essen.
 
-### *dürfen + Infiniv*
-
-The verb *dürfen* reverses controll.
-
-- Ich bitte dich zu kommen.
-- Ich bitte dich kommen zu dürfen.
-
-### *können + Infiniv*
-
-### *mögen/möchten + Infiniv*
-
-### *sollen + Infiniv*
-
-### *müssen + Infiniv* {#sec:infinitive-mussen}
-
-### *wollen + Infiniv* {#sec:infinitive-wollen}
-
-Some of these verbs reverse the default "haben+Partizip" Interpretation.
-
-- Ich habe mein Auto repariert.
-- Ich will unbedingt mein Auto repariert haben.
-- Ich muss unbedingt mein Auto repariert haben
-
 ### *brauchen + Infiniv* {#sec:infinitive-brauchen}
 
 with *zu* [@sec:zuinfinitive-brauchen]
 
-### *heißen + Infiniv*
-
 The verbs *brauchen* and *heißen* are not very common in this construction.
 
 - Du brauchst nur noch unterschreiben.
-- Von den Erwachsenen lernen, heißt Reife beweisen.
 
 ### --- Absentives --- {.unnumbered}
 
@@ -197,7 +187,7 @@ The verbs *brauchen* and *heißen* are not very common in this construction.
 
 - Ich bin dem Nachbarn mal eben den Teller zurückbringen.
 
-References [@groot2000; @vogel2007: 269ff.; @abraham2008; @konig2009]
+[@groot2000; @vogel2007: 269ff.; @abraham2008; @konig2009]
 
 ### *gehen/fahren + Infinitiv* Abitive
 
@@ -252,12 +242,16 @@ With adverbs, typically *leicht* or *gut*. The meaning is modal in a special sen
 - Der Herr Baron hat leicht trösten; ich bin und bleib' unglücklich, wenn ich meinen Casperl nimmer sieh.^[~~DWDS~~: Pocci, Franz von: Lustiges Komödienbüchlein. Bd. 4. München, 1871.]
 - Wer aber geliebt ist, hat leicht regieren.^[~~DWDS~~: Eckermann, Johann Peter: Gespräche mit Goethe in den letzten Jahren seines Lebens. Bd. 3. Leipzig, 1848.]
 
-### *lernen + Infinitive*
+### *lernen + Infinitiv*
 
 - Das Baby läuft.
 - Das Baby lernt laufen.
 - Ich schreibe meiner Oma einen Brief
 - Ich lerne meiner Oma einen Brief (zu) schreiben
+
+### *heißen + Infiniv*
+
+- Von den Erwachsenen lernen, heißt Reife beweisen.
 
 ### *legen + sich + Infinitiv*
 

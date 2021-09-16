@@ -66,7 +66,7 @@ Based on the definition of an alternation, a ~~clause alternation~~ is defined a
 - The meaning/function of the whole clause changes between the alternants. This functional difference is the whole point of having a clause alternation in the first place (see [@sec:intro-functional-analysis]).
 - A specific clause alternation is only applicable to a restricted set of verbs. The list of applicable verbs constitutes the domain of application of the alternation. Any semantic/syntactic characterisation of these applicable verbs should be seen as a summary of the domain of application, not its definition (see [@sec:intro-domain-of-application]).
 
-Clause alternations are widespread when auxiliaries are introduced, like modal *müssen* 'have to' [@next a], see [@sec:infinitive-mussen]. However, clause alternations are attested with many more different kinds of marking, like the verb particle *auf* marking completeness of the action [@next b], see [@sec:prepositions-accusative-antipassive], or the somewhat mysterious 'free' reflexive *sich* with verbs like *ansehen* 'look at' [@next c], see [@sec:reflexive-free-dative-sich-accusative]. Arguably, the special word order in German subordinate clauses (viz. the finite verb occurs clause-final) can also be considered to be a clause alternation [@next d].
+Clause alternations are widespread when auxiliaries are introduced, like modal *müssen* 'have to' [@next a], see [@sec:infinitive-modals]. However, clause alternations are attested with many more different kinds of marking, like the verb particle *auf* marking completeness of the action [@next b], see [@sec:prepositions-accusative-antipassive], or the somewhat mysterious 'free' reflexive *sich* with verbs like *ansehen* 'look at' [@next c], see [@sec:reflexive-free-dative-sich-accusative]. Arguably, the special word order in German subordinate clauses (viz. the finite verb occurs clause-final) can also be considered to be a clause alternation [@next d].
 
 ::: ex
 a. Er erledigt seine Hausaufgaben. \
@@ -92,11 +92,11 @@ The prototypical example of a diathesis is the *werden + Partizip* passive [@nex
 
 ::: ex
 a. Der Schreiner lackiert den Tisch. \
-   Der Tisch wurde von den Schreiner lackiert.
+   Der Tisch wurde von dem Schreiner lackiert.
 b. Ich koche den Kaffee. \
    Der Kaffee kocht.
 c. Der Fahrradfahrer fürchtet den Anstieg. \
-   Der Fahrradfahrer fürchtet sich vor den Anstieg.
+   Der Fahrradfahrer fürchtet sich vor dem Anstieg.
 :::
 
 Hidden in these succinct definitions there are various intricate grammatical concepts that need some more discussion in subsequent sections. The most general notions are discussed directly below, while the specific discussion of the analysis and classification of different kinds of diathesis is postponed for the next chapter.
@@ -145,7 +145,7 @@ b. ^* Es ist bekannt, dass der Sportler den Wettkampf zu gewinnen behauptet.
 c. Es ist bekannt, dass der Sportler behauptet den Wettkampf zu gewinnen.
 :::
 
-In some intermediate cases both orders are possible, as shown with the finite verb *helfen* 'to help' in [@nnnext].
+In some intermediate cases both orders are possible, as shown with the finite verb *helfen* 'to help' in [@next].
 
 ::: ex
 a. Ich helfe dir den Koffer zu tragen.
@@ -312,7 +312,7 @@ As a replacement of the traditional lexeme-specific notion of valency (e.g. *geb
 i. ~~blower~~: the blowing air, *Fahrtwind* 'headwind'.
 ii. ~~blowee~~: Object moved by the blowing air, *Mütze* 'cap'.
 iii. ~~blowing direction~~: Direction of movement induced by the blowing air, *vom Kopf* 'off the head'.
-iv. ~~blowee possessor~~: Possessor of the object moved by the blowing air, *mir* 'my'.
+iv. ~~blowing location possessor~~: Possessor of the locational object, in [@last e] the dative *mir* 'my'. This role is necessarily the possessor of the location *Kopf* 'head' where the blowing is taking place.
 
 Additionally, it is of course possible to define a notion of ~~lexeme valency~~, but this has to be a much more complex construct. For example, lexeme valency can be defined as the collection of all attested utterance valencies for a specific lexeme. To be precise, this lexeme valency also has to include an indexation of the lexical roles across all arguments. This addition is important to distinguish between, for example, the lexical valency of *kochen* 'to cook' [@next] and *essen* 'to eat' [@nnext]. Both can occur with a transitive and intransitive utterance valency, but the lexical roles that can be used in the intransitive differ. Specifically, the patient-role 'eaten object' of *essen* cannot be used as nominative subject in the intransitive [@nnext c], which is different from *kochen* [@next c]. In effect, these verbs have a different lexeme valency.
 
@@ -419,7 +419,7 @@ b. Wir haben es gut. (see [@sec:adverbials-accusative-es])
 
 ### Adjuncts
 
-Adjuncts, the counterparts of arguments, are phrases that are not specifically induced by the main verb of a clause. Typically, such adjuncts are adverbial prepositional phrases, see [@sec:prepositions-definition-non-governed]. Just like with arguments, adjunct status should not be linked to a lexical verb itself, but to the clause construction in which it is used. For example, the verb *tanzen* 'to dance' is typically considered to be an intransitive verb with optional (adjunct) locational prepositional phrases [@next a,b]. However, there is a crucial difference between these two locations, see [@sec:prepositions-manner-of-movement]. The static location *im Saal* 'in the hall' [@next a] remains optional in the perfect (with auxiliary *haben*), see [@next c,d], while the dynamic location *in den Saal* 'into the hall' becomes obligatory in the perfect (with auxiliary *sein*), see [@next e,f]. So, the obligatory location in [@next e] is an utterance argument (and as a consequence, the role of 'path' is a lexical role of such verbs of movement like *tanzen*).
+Adjuncts, the counterparts of arguments, are phrases that are not specifically induced by the main verb of a clause. Typically, such adjuncts are adverbial prepositional phrases, see [@sec:prepositions-definition-non-governed]. Just like with arguments, adjunct status should not be linked to a lexical verb itself, but to the clause construction in which it is used. For example, the verb *tanzen* 'to dance' is typically considered to be an intransitive verb with optional (adjunct) locational prepositional phrases [@next a,b]. However, there is a crucial difference between the two locations in these two examples, see [@sec:prepositions-manner-of-movement]. The static location *im Saal* 'in the hall' [@next a] remains optional in the perfect (with auxiliary *haben*), see [@next c,d], while the dynamic location *in den Saal* 'into the hall' becomes obligatory in the perfect (with auxiliary *sein*), see [@next e,f]. So, the obligatory location in [@next e] is an utterance argument (and as a consequence, the role of 'path' is a lexical role of such verbs of movement like *tanzen*).
 
 ::: ex
 a. Ich tanze (im Saal).
@@ -522,7 +522,7 @@ In the analysis of diathetical operations in this book I will use the following 
 
 Lower-cased letters are used for non-argument participants in the clause: 'p' for non-governed prepositional phrases and 'g' for adnominal genitives. Adnominal genitives become relevant because in some diatheses a newly introduced participant is inherently the possessor of another participant (see [@par:possraising]). Absence of a specific role will be indicated by a '–' dash. Lower-cased 'a' and 'd' are only used in [@sec:reflexive-no-diathesis] to indicate accusative and dative reflexive pronouns in referential usage. As described in much detail in that chapter, it is important to distinguish between reflexive pronouns in German that refer to a lexical role (i.e. 'referential' or 'real' reflexive constructions) and reflexive pronouns that mark a diathesis without referring to a separate role themselves. Those latter reflexive pronouns, that are not marking any role, are not abbreviated by lowercased 'a' or 'd'.
 
-Besides single-letter abbreviations I will also use capitalised three-letter abbreviations for a more abstract level of analysis. As summarised at the left side of [@fig:abbreviations], the grammatical expressions are grouped into sets of ~~grammatical macroroles~~, mostly along familiar lines. This grouping is not necessarily the best or most optimal grouping, but this grouping has emerged to be useful to organise the large diversity of diatheses in this book. The notion ~~subject (SBJ)~~ is used for governed nominative phrases that show agreement with the finite verb.^[There are various other nominatively-marked phrases in German grammar which are not included under this heading, e.g. the nominative in nominal or equational predication like *der Täter* in *Er ist der Täter*.] The other case-marked governed phrases are combined as ~~cased objects (OBJ)~~. The cased objects together with the ~~prepositional objects (PBJ)~~ form a superclass of objects. Non-governed phrases are separated in ~~overtly expressed adjuncts (ADJ)~~ and unexpressed roles ~~(Ø)~~. Although I will use this five-way distinction throughout this book ~~(SBJ, OBJ, PBJ, ADJ, Ø)~~, the five steps are not equidistant. The macro-roles ~~OBJ~~ and ~~PBJ~~ are rather closely related, and likewise are ~~ADJ~~ and ~~Ø~~ intimately linked. Collapsing these pairs results in the traditional subject-object-adjunct distinction.
+Besides single-letter abbreviations I will also use capitalised three-letter abbreviations for a more abstract level of analysis. As summarised at the left side of [@fig:abbreviations], the grammatical expressions are grouped into sets of ~~grammatical macroroles~~, mostly along familiar lines. This grouping is not necessarily the best or most optimal grouping, but this grouping has emerged to be useful to organise the large diversity of diatheses in this book. The notion ~~subject (SBJ)~~ is used for governed nominative phrases that show agreement with the finite verb.^[There are various other nominatively-marked phrases in German grammar which are not included under this heading, e.g. the nominative in nominal or equational predication like *der Täter* in *Er ist der Täter*.] The other case-marked governed phrases are combined as ~~cased objects (OBJ)~~. The cased objects together with the ~~prepositional objects (PBJ)~~ form a superclass of objects. Non-governed phrases are separated in ~~overtly expressed adjuncts (ADJ)~~ and unexpressed roles ~~zero (Ø)~~. Although I will use this five-way distinction throughout this book ~~(SBJ, OBJ, PBJ, ADJ, Ø)~~, the five steps are not equidistant. The macro-roles ~~OBJ~~ and ~~PBJ~~ are rather closely related, and likewise are ~~ADJ~~ and ~~Ø~~ intimately linked. Collapsing these pairs results in the traditional subject-object-adjunct distinction.
 
 {#par:corecase} There are some indications that the group of cased objects ~~(OBJ)~~ might be fruitfully separated into ~~core~~ (accusative) and ~~non-core~~ (dative/genitive). This would simplify the analysis of, for example, case change in object chains ([@sec:intro-object-chains]), the antipassive hierarchy ([@sec:prepositions-demotion-of-object]) and the case-marking of the reflexive pronoun ([@sec:reflexive-deponent]). However, in the majority of diatheses all three cases seem to behave as a uniform group, so I did not consistently pursue this separation.
 
@@ -599,13 +599,13 @@ Diatheses are applied one after the other, i.e. the order of the diatheses in a 
 ::: ex
 a. Der Lehrer hat die Aufgabe lösen wollen. \
    = Der Lehrer löst die Aufgabe \
-   +> *wollen* modal (see [@sec:infinitive-wollen]) \
+   +> *wollen* modal (see [@sec:infinitive-modals]) \
    +> *haben* perfect (see [@sec:participles-haben-perfect])
 b. Der Lehrer will die Aufgabe gelöst haben. \
    = Irgendjemand löst die Aufgabe für den Lehrer. \
    +> benefactive dative (see [@sec:prepositions-benefactive-dative]) \
    +> *haben* dative passive (see [@sec:participles-haben-passive]) \
-   +> *wollen* modal (see [@sec:infinitive-wollen])
+   +> *wollen* modal (see [@sec:infinitive-modals])
 :::
 
 With unmarked ('covert') diatheses such stacks can sometimes be tricky to tease apart. As an example, consider the arguably somewhat artificially constructed example in [@next] using the verb *schneiden* 'to cut'. It starts off in [@next a] as a basic transitive construction with a nominative and accusative argument. Yet, after various twists and turns it ends up on [@next g] with a nominative, two accusatives, a dative and an obligatory locational prepositional phrase.
@@ -750,7 +750,7 @@ b. Die Suppe schmeckt nach Pfefferminze
 When multiple diatheses are stacked, i.e. whey they are applied sequentially on top of each other, they are often structurally independent. For example, the verb *waschen* 'to wash' [@next a] can be used in a resultative construction [@next b] in which the role of washee *Hemd* 'shirt' is turned from an accusative into a location ~~[OBJ › PBJ]~~ and a new accusative object is introduced for the role of the result *Fleck* 'stain' ~~[Ø › OBJ]~~, see [@sec:prepositions-action-result]. Independent of this chained diathesis, the possessor of the object *Nachbar* 'neighbour' can be raised to genitive [@next c], see [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative].
 
 ::: ex
-~~[Ø › OBJ › PBJ, ADJ › OBJ]~~
+~~[Ø › OBJ › PBJ; ADJ › OBJ]~~
 
 a. Ich wasche das Hemd des Nachbarn.
 b. Ich wasche den Fleck aus dem Hemd des Nachbarn.
@@ -760,7 +760,7 @@ c. Ich wasche dem Nachbarn den Fleck aus dem Hemd.
 There are only a few incidental examples of such disjunct diatheses without stacking. The following four examples all only occur with a very limited number of verbs. First, the verb *deuten* can be used both the mean 'interpret' [@next a] and 'forebode' [@next b] with a rather transparent connection between the two. However, the role-remappings are quite complex, see [@sec:prepositions-anticausative-preposition-addition].
 
 ::: ex
-~~[Ø › PBJ, OBJ › SBJ › Ø]~~
+~~[Ø › PBJ; OBJ › SBJ › Ø]~~
 
 a. Ich deute den Traum. 
 b. Der Traum deutet auf nichts Gutes. 
@@ -769,7 +769,7 @@ b. Der Traum deutet auf nichts Gutes.
 Second, some preverbs lead to disjunct diatheses, like with *schweigen* 'to remain silent' and *verschweigen* 'to conceal' [@next], see [@sec:preverb-double-applicative].
 
 ::: ex
-~~[ADJ › OBJ, PBJ › OBJ]~~
+~~[ADJ › OBJ; PBJ › OBJ]~~
 
 a. Ich schweige zu dir über meinen Besuch.
 b. Ich verschweige dir meinen Besuch.
@@ -778,14 +778,14 @@ b. Ich verschweige dir meinen Besuch.
 Further examples are resultatives for a few verbs of naming like *schimpfen* 'to scold' [@next], see [@sec:prepositions-naming-result]. The disjunct diathesis in [@nnext] is less clear, as it might be better analysed as a stack, see [@sec:prepositions-nominative-demotion-dative-addition].
 
 ::: ex
-~~[Ø › OBJ, ADJ › OBJ]~~
+~~[Ø › OBJ; ADJ › OBJ]~~
 
 a. Sie schimpft auf mich.
 b. Sie schimpft mich einen Narren
 :::
 
 ::: ex
-~~[Ø › OBJ, SBJ › ADJ]~~
+~~[Ø › OBJ; SBJ › ADJ]~~
 
 a. Der Sommer ist kalt.
 b. Mir ist kalt im Sommer.
@@ -794,7 +794,7 @@ b. Mir ist kalt im Sommer.
 The only somewhat more widespread disjunct diathesis is the resultative construction that can arise with some apparently intransitive verbs like *schwitzen* 'to sweat' [@next]. This diathesis introduces two roles at once: a result *Fleck* 'stain' and an obligatory location *Hemd* 'shirt', see [@sec:prepositions-intransitive-location-as-result].
 
 ::: ex
-~~[Ø › OBJ, Ø › PBJ]~~
+~~[Ø › OBJ; Ø › PBJ]~~
 
 a. Ich schwitze.
 b. Ich schwitze einen Fleck in meinem Hemd.
@@ -943,7 +943,7 @@ a. Der Tisch brennt.
 b. Ich verbrenne den Tisch.
 :::
 
-The *sehen + Infinitiv* diathesis [@next], see [@sec:infinitive-sehen], adds a new nominative subject and the old nominative is turned into an accusative. This diathesis is thus structurally an example of a novative ~~[Ø › SBJ › OBJ]~~. However, the newly added nominative is not a causer. The new role is better described as an experiencer, so this diathesis can semantically be called an ~~experientive~~. Similarly constructions are also attested with light-verbs *hören*, *fühlen*, *spüren*, *riechen* and *finden*.
+The *sehen + Infinitiv* diathesis [@next], see [@sec:infinitive-sehen], adds a new nominative subject and the old nominative is turned into an accusative. This diathesis is thus structurally an example of a novative ~~[Ø › SBJ › OBJ]~~. However, the newly added nominative is not a causer. The new role is better described as an experiencer, so this diathesis can semantically be called an ~~experientive~~. Similarly constructions are also attested with light-verbs *hören*, *fühlen*, and *spüren*.
 
 ::: ex
 ~~Experientive novative [Ø › SBJ › OBJ]~~
@@ -1056,7 +1056,7 @@ a. Ein Tropfen hängt ihm an der Nase.
 b. Er hat einen Tropfen an der Nase hängen.
 :::
 
-At the other extreme, a ~~commutative [Ø › SBJ › Ø]~~ complete removes the old subject and introduces a completely new role as subject. I propose this term on the basis of Lat. *commutare* 'exchange, replace'. A German example of such a diathesis is the *wissen + Partizip* construction [@next], see [@sec:participles-geben-commutative]
+At the other extreme, a ~~commutative [Ø › SBJ › Ø]~~ complete removes the old subject and introduces a completely new role as subject. I propose this term on the basis of Lat. *commutare* 'exchange, replace'. A German example of such a diathesis is the *geben + Partizip* construction [@next], see [@sec:participles-geben-commutative]
 
 ::: ex
 ~~Commutative [Ø › SBJ › Ø]~~
