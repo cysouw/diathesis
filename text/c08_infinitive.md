@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Constructions with a light verb and an infinitive are widely discussed in German grammar. Without diathesis such constructions are for example found with modal verbs [@next a], see [@sec:infinitive-werden-modal]ff. or forming an ~~absentive~~ with *sein* [@next b], see [@sec:infinitive-sein-absentive]. Less widely discussed is an interesting construction of *haben* with infinitive and a positive adverbial [@next c], see [@sec:infinitive-haben-adverbial].
+Constructions with a light verb and an infinitive are widely discussed in German grammar. Such constructions are widespread without diathesis, for example in combination with modal verbs [@next a], see [@sec:infinitive-werden-modal]ff. or forming an ~~absentive~~ with *sein* [@next b], see [@sec:infinitive-sein-absentive]. Less widely discussed is an interesting construction of *haben* with infinitive and an adverbial [@next c], see [@sec:infinitive-haben-adverbial].
 
 ::: ex
 - Die Schülerin muss/darf/will/kann die Pflanzen gießen.
@@ -18,9 +18,9 @@ There are also various light verbs that induce a diathesis when used with an inf
 - Die Lehrerin hat ihre Pflanzen auf der Fensterbank stehen.
 :::
 
-Following Bech [-@bech1955] such construction are often designated as *1. Status* in the German grammatical literature. However, this name is not very transparent nor particularly mnemonic, so I prefer to simply use the term ~~light verb + infinitive~~ constructions.
+Following Bech [-@bech1955] such construction are often designated as *Erster Status* in the German grammatical literature. However, this name is not very transparent nor particularly mnemonic, so I prefer to simply use the term ~~light verb + infinitive~~ constructions.
 
-There are 10 frequently occurring diatheses that use a light verb + infinitive construction and for which I propose a German name, as listed below. Note that the *lassen + Infinitiv* construction occurs in many different diatheses. A detailed discussion of these can be found in [@sec:infinitive-guises-of-lassen]. 
+There are ten frequently occurring diatheses that use a light verb + infinitive construction and for which I propose a German name, as listed below. Note that the *lassen + Infinitiv* construction occurs in many different diatheses. A detailed discussion of these can be found in [@sec:infinitive-guises-of-lassen]. 
 
 - ~~[SBJ › Ø]~~ *lassen* ~~Unpersönlicher Möglichkeitspassiv~~ (see [@sec:infinitive-lassen-reflexive-intransitive ff.])
 - ~~[OBJ › SBJ › ADJ]~~ *lassen* ~~Möglichkeitsspassiv~~ (see [@sec:infinitive-lassen-reflexive-anticausative])
@@ -31,7 +31,7 @@ There are 10 frequently occurring diatheses that use a light verb + infinitive c
 - ~~[Ø › SBJ › OBJ]~~ *lassen* ~~Permissivkausativ~~ (see [@sec:infinitive-lassen-causative])
 - ~~[Ø › SBJ › OBJ]~~ *schicken* ~~Direktivkausativ~~ (see [@sec:infinitive-schicken])
 - ~~[Ø › SBJ › OBJ]~~ *machen* ~~Agentivkausativ~~ (see [@sec:infinitive-machen])
-- ~~[Ø › SBJ › OBJ]~~ *sehen/hören/fühlen/spüren* ~~Sensativ~~ (see [@sec:infinitive-sehen ff.])
+- ~~[Ø › SBJ › OBJ]~~ *sehen/hören/fühlen/spüren* ~~Perzeptiv~~ (see [@sec:infinitive-sehen ff.])
 
 ## General discussion
 
@@ -80,7 +80,7 @@ However, this hierachy should be interpreted rather loosely. The designation 'ca
 Further, the IPP *Ersatzinfinitiv* is not obligatory for benefactive *helfen* and perception verbs *sehen, hören*, but it is obligatory for modal verbs. This would actually nicely correspond to the hierarchy proposed, were it not for the verb *lassen*, which allows for both infinitive and participle [@next]. However, according to Enzinger [-@enzinger2012: 34] the sentence with a participle only allows for a permissive reading, so that would fit the designation 'causative' on the hierarchy.
 
 ::: ex
-a. Sie hat mich die Kleider waschen *lassen*.
+a. Sie hat mich die Kleider waschen *lassen*. \
    (causative = Sie verursacht, dass ich die Kleider wasche.) \
    (permissive = Sie erlaubt, dass ich die Kleider wasche.)
 b. Sie hat mich die Kleider waschen *gelassen*. \
@@ -184,8 +184,8 @@ The modal verbs *dürfen/können/mögen/müssen/sollen/wollen* are extensively d
 
 ::: ex
 - Er will das Haus bauen.
-- Er hat das Haus bauen wollen (^*^gewollt).
-- Es ist bekannt, dass er das Haus bauen hat wollen (^*^hat gewollt).
+- Er hat das Haus bauen wollen (^\*^gewollt).
+- Es ist bekannt, dass er das Haus bauen hat wollen (^\*^hat gewollt).
 :::
 
 One interesting effect that these modal verbs have on diathesis concerns the interpretation of the *haben + Partizip* construction. This construction has two different interpretations [@next a], either *Perfekt* (see [@sec:participles-haben-transitive-perfect]) or *Pertinenzpassiv* (see [@sec:participles-haben-passive]). In most uses, the *Perfekt* interpretation is the preferred reading. However, with an additional modal light verb only the *Pertinenzpassiv* interpretation is possible [@next b]. 
@@ -242,7 +242,7 @@ The ~~Absentive~~ is a construction that expresses that the subject participant 
   Ich bin schwimmen.
 - Ich bringe dem Nachbarn den Teller zurück. \
   Ich bin nur mal kurz dem Nachbarn den Teller zurückbringen.
-- Ich bin dem Nachbarn den Teller zurückbringen gewesen (^*^sein).
+- Ich bin dem Nachbarn den Teller zurückbringen gewesen (^\*^sein).
 :::
 
 The absentive can only be used with verbs that clearly include agency, so typical patientive verbs like *einschlafen* 'to fall asleep' do not allow for this construction (see [@sec:participles-sein-perfect]). In contrast, a verb like *schlafen* 'to sleep' does allow for an absentive construction, though it needs a suitable context [@next b]. Note that not all verbs with a *haben* Perfekt (often analysed as 'agentive', see [@sec:participles-haben-perfect]) allow for an absentive, like *sitzen* [@next c].
@@ -275,7 +275,7 @@ The absentive can only be used with verbs that clearly include agency, so typica
 
 ### --- Others --- {.unnumbered}
 
-### *tun + Infinitiv* Progressive {#sec:infinitive-tun}
+### *tun + Infinitiv* Progressive (*Progressiv*) {#sec:infinitive-tun}
 
 Substandard construction [@schwarz2004]
 
@@ -285,7 +285,7 @@ Better with fronting of infinitive [@schwarz2004: 15-18]
 
 - Schenken tu ich dur ein Buch.
 
-### *bleiben + Infinitiv* Continuative {#sec:infinitive-bleiben}
+### *bleiben + Infinitiv* Continuative (*Kontinuativ*) {#sec:infinitive-bleiben}
 
 considered to be one word in german orthographie!
 
@@ -296,7 +296,7 @@ considered to be one word in german orthographie!
 
 - Er bleibt ihr Briefe schicken.
 
-### *haben + Infinitiv* Exceptionality + manner adverbial {#sec:infinitive-haben-adverbial}
+### *haben + Infinitiv* Exceptionality + manner adverbial (*Exemptiv*) {#sec:infinitive-haben-adverbial}
 
 *Exemptiv* (from Lat. *exemptus* 'freed of')
 
