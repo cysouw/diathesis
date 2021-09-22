@@ -370,7 +370,7 @@ f. Er hofft auf eine gute Note.
 
 ### *es* Arguments {#sec:intro-es}
 
-A further kind of utterance-valency argument can be instantiated by *es*, the 3rd person nominative/accusative pronoun in the neuter gender. There are various uses of this pronoun that have to be distinguished. In the first three uses the pronouns *es* does not have argument-status (viz. phoric, correlative and position-simulating *es*). Only the fourth usage of *es* will be counted as an argument (viz. valency-simulating *es*). 
+A further kind of utterance-valency argument can be instantiated by *es*, the 3rd person nominative/accusative pronoun in the neuter gender. There are various uses of this pronoun that have to be distinguished. The most obvious use the pronouns *es* is for anaphoric reference (~~phoric~~ *es*). However, the next two uses not have argument-status (viz. ~~correlative~~ and ~~position-simulating~~ *es*). Most interestingly in the current context, the fourth usage of *es* does not have anaphoric reference, but will still be counted as an argument (viz. ~~valency-simulating~~ *es*). 
 
 First, *es* can be used for anaphoric reference to neuter nouns, as shown in [@next]. There are various other variants of such ~~phoric~~ usage, for example it also occurs without direct gender agreement [@czicza2014: Ch. 2]. 
 
@@ -1821,9 +1821,9 @@ c. Ich bedenke, dass es schon spät ist. \
    Er gibt mir zu bedenken, dass es schon spät ist.
 :::
 
-### *Sensativ* (*sehen/hören/fühlen/spüren + Infinitiv*) {#sec:summary-sensativ}
+### *Perzeptiv* (*sehen/hören/fühlen/spüren + Infinitiv*) {#sec:summary-sensativ}
 
-The ~~Sensativ~~ (full discussion in [@sec:infinitive-sehen] and subsequent sections) is a novative that consists of one of the verbs of sensation *sehen/hören/fühlen/spüren/riechen/finden* with an infinitive. The new nominative is an observer/experiencer of the main verb. The erstwhile nominative is turned into an accusative. The possibly leads to a double accusative construction when there already was an accusative present [@next a,b]. This diathesis can be used with all verbs that can be experienced as an observer. Note that these verbs of sensation can also be used with an explicit *dass* complement clause [@next c], but such constructions are not coherent, and thus no diatheses.
+The ~~Perzeptiv~~ (full discussion in [@sec:infinitive-sehen] and subsequent sections) is a novative that consists of one of the verbs of sensation *sehen/hören/fühlen/spüren* with an infinitive. The new nominative is an observer/experiencer of the main verb. The erstwhile nominative is turned into an accusative. The possibly leads to a double accusative construction when there already was an accusative present [@next a,b]. This diathesis can be used with all verbs that can be experienced as an observer. Note that these verbs of perception can also be used with an explicit *dass* complement clause [@next c], but such constructions are not coherent, and thus no diatheses.
 
 ::: ex
 a. Du gibst ihm einen Kuss.
@@ -2302,6 +2302,7 @@ b. Das Kind hat geschlafen.
 ::: ex
 a. Das Kind schläft ein.
 b. Das Kind ist eingeschlafen.
+:::
 
 ### *Intransitiv Kontinuativperfekt* (*bleiben + Partizip*) {#sec:summary-intransitiv-kontinuativperfekt}
 
@@ -2353,7 +2354,7 @@ b. Der Hund kommt angerannt.
 
 ### *Modalverben*
 
-(full discussion in [@sec:infinitive-werden-modal] and subsequent sections) (*brauchen/dürfen/können/mögen/möchten/müssen/sollen/werden/wollen + Infinitiv*)
+(full discussion in [@sec:infinitive-modals] and subsequent sections) *dürfen/können/mögen/möchten/müssen/sollen/wollen + Infinitiv*, also *werden/brauchen*
 
 ::: ex
 a. Ich baue ein Haus.
@@ -2379,7 +2380,8 @@ d. Ich komme meinen Freund besuchen.
 ::: ex
 a. Ich schenke dir das Buch.
 b. ^^?^ Ich tu dir das Buch schenken.
-b. Schenken tu ich dir das Buch.
+c. Schenken tu ich dir das Buch.
+:::
 
 ### *Kontinuativ* (*bleiben + Infinitiv*)
 
@@ -2390,7 +2392,7 @@ a. Er liegt im Bett.
 b. Er bliebt im Bett liegen.
 :::
 
-### (*haben + Infinitiv*)
+### *Exemptiv* (*haben + Infinitiv*)
 
 (full discussion in [@sec:infinitive-haben-adverbial]) with obligatory adverbial!
 
@@ -2401,7 +2403,7 @@ b. Er hat gut lachen.
 
 ## Infinitive epitheses with *zu/zum/am*
 
-### *Obligativinfinitiv* (*haben + zu + Infinitiv*)
+### *Obligativinfinitiv (mit 'zu')* (*haben + zu + Infinitiv*)
 
 (full discussion in [@sec:zuinfinitive-haben]) "können"
 
@@ -2410,7 +2412,7 @@ a. Die Schüler lösen die Aufgaben.
 b. Die Schüler haben die Aufgaben zu lösen.
 :::
 
-### *Potentialisinfinitiv* (*wissen + zu + Infinitiv*)
+### *Potentialisinfinitiv (mit 'zu')* (*wissen + zu + Infinitiv*)
 
 (full discussion in [@sec:zuinfinitive-wissen]) "müssen"
 
@@ -2419,7 +2421,7 @@ a. Der Lehrer begeistert die Schüler.
 b. Der Lehrer weiß die Schüler zu begeistern.
 :::
 
-### *Patiensinfinitiv* (*kommen + zu + Infinitiv*)
+### *Patiensinfinitiv (mit 'zu')* (*kommen + zu + Infinitiv*)
 
 (full discussion in [@sec:zuinfinitive-kommen]) "es passierte"
 
@@ -2428,7 +2430,7 @@ a. Sie stand neben mir.
 b. Sie kam neben mir zu stehen.
 :::
 
-### *Rezipienteninfinitiv* (*bekommen + zu + Infinitiv*)
+### *Rezipienteninfinitiv (mit 'zu')* (*bekommen + zu + Infinitiv*)
 
 (full discussion in [@sec:zuinfinitive-bekommen])
 
@@ -2437,7 +2439,7 @@ a. Er seiht einen Film.
 b. Er bekommt einen Film zu sehen.
 :::
 
-### *Erscheinungsinfinitiv* (*scheinen + zu + Infinitiv*)
+### *Erscheinungsinfinitiv (mit 'zu')* (*scheinen + zu + Infinitiv*)
 
 (full discussion in [@sec:zuinfinitive-scheinen])
 

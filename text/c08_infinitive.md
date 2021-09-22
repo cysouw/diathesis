@@ -18,7 +18,7 @@ There are also various light verbs that induce a diathesis when used with an inf
 - Die Lehrerin hat ihre Pflanzen auf der Fensterbank stehen.
 :::
 
-Following Bech [-@bech1955] such construction are often designated as *1. Status* in the German grammatical literature. However, this name is not very mnemonic, so I prefer to simply use the term ~~light verb + infinitive~~ constructions.
+Following Bech [-@bech1955] such construction are often designated as *1. Status* in the German grammatical literature. However, this name is not very transparent nor particularly mnemonic, so I prefer to simply use the term ~~light verb + infinitive~~ constructions.
 
 There are 10 frequently occurring diatheses that use a light verb + infinitive construction and for which I propose a German name, as listed below. Note that the *lassen + Infinitiv* construction occurs in many different diatheses. A detailed discussion of these can be found in [@sec:infinitive-guises-of-lassen]. 
 
@@ -33,24 +33,59 @@ There are 10 frequently occurring diatheses that use a light verb + infinitive c
 - ~~[Ø › SBJ › OBJ]~~ *machen* ~~Agentivkausativ~~ (see [@sec:infinitive-machen])
 - ~~[Ø › SBJ › OBJ]~~ *sehen/hören/fühlen/spüren* ~~Sensativ~~ (see [@sec:infinitive-sehen ff.])
 
-## Definitions
+## General discussion
 
 ### Identifying the infinitive
 
-Although surface structure clearly monoclausal, underlyingly there might be different structures, e.g [@harbert1977] (DSA 706 ET 750 K49 -8)
+The German infinitive is straigtforwardly identified as a wordform ending in *-en* [@next a] with an allomorph *-n* after stems ending in *-el/er* [@next b] [@duden2009: 443]. However, there is a general syncretism between the infinitive and the 1st and 3rd person plural present. For example, in [@next c] the word form *werden* is a 1st plural, while *laufen* is an infinitive. This can be ascertained when chaning the subject to singular. This infinitive is considered to be the citation form of a verb, for example occurring as the index entry in dictionaries. Functionally, the infinitive is a nominal form of the verb that regularly occurs preceded by an article [@next d]. In such usage, German orthography captitalises the infinitive.
 
-### ACI *Akkusativ mit Infinitiv*
+::: ex
+- lauf-en, versteh-en, werd-en
+- sammel-n, bedauer-n, änder-n
+- Wir werden laufen. \
+  Ich werde laufen.
+- Das Laufen fällt mir schwer.
+:::
+
+Given the immense influence of Latin grammar on grammatical theory, it is no surprise that the classical Latin *accusativus cum infinitivo* (ACI) construction is often used to desribe a similary phenomenon in German [@next]. In such constructions, the subject of the verb in the infinitive (viz. *putzen, kaufen*) ends up as an accusative. This construction is very widespread in Latin, but in German only applicable to the few light-verb + infinitive construction that add a new subject, like *sehen* and *schicken*. Although the surface structure in German are clearly monoclausal, underlyingly there might be a different structures for verbs like *sehen* with a biclausal *dass* alternative [see @harbert1977 for a discussion].
+
+::: ex
+- Sie sieht, dass der Mann den Tisch putzt. \
+  Sie sieht den Mann den Tisch putzen.
+- Sie schickt ihn Brot kaufen.
+:::
 
 ### IPP *Ersatzinfinitiv*
 
-diatheses: *sehen, hören, lassen*
+The *Ersatzinfinitiv* is a special syntactic phenomenon attested in West-Germanic languages [@schmid2005; @schallert2014]. It concerns the inflectional paradigm of some of the light verbs that are used with infinitives, like *können, sehen* or *lassen*. For example, the verb *sehen* has a regular perfect with *haben* and a participle *gesehen* [@next a]. However, when *sehen* is used as a light verb with an infinitive, then the perfect consists of *haben* with an infinitive *sehen* [@next b]. A participle would be ungrammatical in this construction [@next c]. Because the infinitive is used instead of the expected participle, this phenomenon is known as an *Ersatzinfinitiv* or 'infinitive instead of a participle' (Lat. *infinitivus pro participium*, IPP). Diachronically this is a relatively recent development, probably starting in the 14th/15th Century [cf. @coupe2015: Ch. 7 for a detailed diachronic study for Dutch].
 
-causative *lassen*, but not *schicken, machen*
-modals
-perception verbs (optionally) *sehen, hören*, but not *fühlen, spüren*
-benefactive (optionally) *helfen*
+::: ex
+- Sie sieht, dass er den Tisch putzt. \
+  Sie *hat gesehen*, dass er den Tisch putzt.
+- Sie sieht ihn den Tisch putzen. \
+  Sie *hat* ihn den Tisch putzen *sehen*.
+- ^* Sie *hat* ihn den Tisch putzen *gesehen*.
+:::
 
-[@schmid2005; @schallert2014]
+Based on data from various West-Germanic languages and dialects, Schmid [-@schmid2005: 32-33, 106] proposes an hierarchy of verb types that show this phenomenon [@next]. German fits nicely in this hierarchy (almost by definition, because German was used to propose the hierarchy in the first place). The German verbs inducing the *Ersatzinfinitiv* are causative *lassen*, modals *dürfen/können/mögen/müssen/sollen/wollen* and also *brauchen*, perception verbs *hören, sehen* and benefactive *helfen*.
+
+::: ex
+Implicational scale of IPP *Ersatzinfinitiv* verbs 
+
+causatives < modals < perception verbs < benefactives < duratives < inchoatives < control verbs
+:::
+
+However, this hierachy should be interpreted rather loosely. The designation 'causative' on the hierarchy is a misnomer. The verb *lassen* also induces the IPP in its other uses, viz. possibility and permission (see the next [@sec:infinitive-guises-of-lassen]). Conversely, other causative constructions like with *schicken* (see [@sec:infinitive-schicken]) and *machen* (see [@sec:infinitive-machen]) do not induce an IPP. Likewise, while the perception verbs *hören* and *sehen* induce an IPP, the syntactically similar perception verbs *fühlen* and *spüren* do not (see [@sec:infinitive-sehen]ff.).
+
+Further, the IPP *Ersatzinfinitiv* is not obligatory for benefactive *helfen* and perception verbs *sehen, hören*, but it is obligatory for modal verbs. This would actually nicely correspond to the hierarchy proposed, were it not for the verb *lassen*, which allows for both infinitive and participle [@next]. However, according to Enzinger [-@enzinger2012: 34] the sentence with a participle only allows for a permissive reading, so that would fit the designation 'causative' on the hierarchy.
+
+::: ex
+a. Sie hat mich die Kleider waschen *lassen*.
+   (causative = Sie verursacht, dass ich die Kleider wasche.) \
+   (permissive = Sie erlaubt, dass ich die Kleider wasche.)
+b. Sie hat mich die Kleider waschen *gelassen*. \
+   (only permissive = Sie hat erlaubt, dass ich die Kleider wasche.)
+:::
 
 ### The many guises of *lassen + Infinitiv* {#sec:infinitive-guises-of-lassen}
 
@@ -91,7 +126,7 @@ b. Der Besucher wartet auf ein Tattoo. \
    Auf ein Tattoo lässt sich warten.^[Attested online at <https://www.t-online.de/nachrichten/deutschland/id_89453948/corona-lockerungen-die-haeme-ueber-die-friseuroeffnungen-ist-entlarvend-.html>, accessed 15 September 2021.]
 :::
 
-The *Permissivpassiv* has some similarities to the *Möglichkeitspassiv*, but enough differences to consider it a different diathesis. Both are passives and both need a reflexive pronoun, but the semantics, to role remapping, and the verbs that use the *Permissivpassiv* are completely different. Semantically, the *Permissivpassiv* expresses permission, sometimes almost causation. As for remapping of roles, this diathesis most typically promotes datives to nominative subject, like with *schenken* 'to gift' [@next a]. There is a special group of select transitive verbs in which the accusative is promoted to nominative subject, like *belustigen* 'to amuse' [@next b]. A second special group of verbs, like *gefallen* 'to please' [@nnext], promotes the dative, but demotes the original nominative to accusative, not to a prepositional phrase (i.e. an inversive diathesis, called *Permissivinversiv* here). 
+The *Permissivpassiv* has some similarities to the *Möglichkeitspassiv*, but enough differences to consider it a different diathesis. Both are passives and both need a reflexive pronoun, but (i) the semantics, (ii) the role remapping, and (iii) the verbs that use the *Permissivpassiv* are completely different. Semantically, the *Permissivpassiv* expresses permission, sometimes almost causation. As for remapping of roles, this diathesis most typically promotes datives to nominative subject, like with *schenken* 'to gift' [@next a]. There is a special group of select transitive verbs in which the accusative is promoted to nominative subject, like *belustigen* 'to amuse' [@next b]. A second special group of verbs, like *gefallen* 'to please' [@nnext], promotes the dative, but demotes the original nominative to an accusative, not to a prepositional phrase (i.e. an inversive diathesis, called *Permissivinversiv* here). 
 
 ::: ex
 ~~Permissivpassiv~~
@@ -109,7 +144,7 @@ a. Dein Ton gefällt mir nicht.
 b. Ich lasse mir deinen Ton nicht gefallen.
 :::
 
-The *Permissivkausativ* and the closely related *Passivkausativ* add a new participant to the sentence who causes to event to happen. However, there are various differences between the two variants of the causative. First, the erstwhile nominative is demoted to an accusative in the *Permissivkausativ* [@next], while it is demoted to an optional *von* prepositional phrase in the *passivkausativ* [@nnext b]. Besides the different in role remapping, there is also a difference in applicability. Namely, there are various verbs that allow for a *Permissivkausativ* but not for a *Passivkausativ*, e.g. *ausziehen* 'to take off, to undress' [@nnext c,d] is not compatible with a *Passivkausativ*. Finally, the *Permissivkausativ* can both have a causative [@next a] and a permissive [@next b] reading, while the *passivkausativ* cannot have a permissive interpretation, only the causative interpretation is possible [@nnext b].
+The *Permissivkausativ* and the closely related *Passivkausativ* add a new participant to the sentence who causes to event to happen. However, there are various differences between the two variants of the causative. First, the erstwhile nominative is demoted to an accusative in the *Permissivkausativ* [@next], while it is demoted to an optional *von* prepositional phrase in the *passivkausativ* [@nnext]. Besides the different in role remapping, there is also a difference in applicability. Namely, there are various verbs that allow for a *Permissivkausativ* but not for a *Passivkausativ*, e.g. *ausziehen* 'to take off, to undress' [@nnext b,c] is not compatible with a *Passivkausativ*. Finally, the *Permissivkausativ* can both have a causative [@next a] and a permissive [@next b] reading, while the *passivkausativ* cannot have a permissive interpretation, only the causative interpretation is possible [@nnext a].
 
 ::: ex
 ~~Permissivkausativ~~
@@ -126,11 +161,11 @@ b. Der Schüler geht nach Hause. \
 ~~Passivkausativ~~
 
 a. Der Schüler putzt den Tisch. \
-   Der Lehrer lässt den Schüler den Tisch putzen.
-b. Der Lehrer lässt den Tisch (von dem Schüler) putzen.
-c. Der Sohn zieht die Jacke aus. \
+   Der Lehrer lässt den Tisch (von dem Schüler) putzen. \
+   (= Der Lehrer versursacht, dass der Tisch (von dem Schüler) geputzt wird.)
+b. Der Sohn zieht die Jacke aus. \
    Der Vater lässt seinen Sohn die Jacke auszeihen.
-b. ^* Der Vater lässt die Jacke (von seinem Sohn) ausziehen .
+c. ^* Der Vater lässt die Jacke (von seinem Sohn) ausziehen .
 :::
 
 ## Deponent verbs without alternations
@@ -141,59 +176,96 @@ Not attested.
 
 ### --- Modals --- {.unnumbered}
 
-### *dürfen/können/mögen/müssen/sollen/wollen + Infiniv* Modal verbs {#sec:infinitive-modals}
+The traditional modal verbs *dürfen/können/mögen/müssen/sollen/wollen* and the modal-like light verbs *werden* and *brauchen* can all be used in constructions with infinitives. There do not seem to be any restrictions on which verbs can occur as infinitives in such constructions.
 
-These 'Modalverben' are coherent and have a so-called IPP 'Ersatzinfinitiv' construction.
+### *dürfen/können/mögen/müssen/sollen/wollen + Infinitiv* Modal verbs {#sec:infinitive-modals}
 
-- Er darf das Haus bauen.
-- Er hat das Haus bauen dürfen.
-- Es ist bekannt, dass er das Haus [bauen] [hat dürfen].
+The modal verbs *dürfen/können/mögen/müssen/sollen/wollen* are extensively discussed in the German grammatical literature and will therefore not discussed in any detail here [e.g. see @duden2009: 556ff.]. In a construction with infinitives, these modal verbs induce an IPP *Ersatzinfinitiv* [@next].
 
-The verb *dürfen* reverses controll.
+::: ex
+- Er will das Haus bauen.
+- Er hat das Haus bauen wollen (^*^gewollt).
+- Es ist bekannt, dass er das Haus bauen hat wollen (^*^hat gewollt).
+:::
 
-- Ich bitte dich zu kommen.
-- Ich bitte dich kommen zu dürfen.
+One interesting effect that these modal verbs have on diathesis concerns the interpretation of the *haben + Partizip* construction. This construction has two different interpretations [@next a], either *Perfekt* (see [@sec:participles-haben-transitive-perfect]) or *Pertinenzpassiv* (see [@sec:participles-haben-passive]). In most uses, the *Perfekt* interpretation is the preferred reading. However, with an additional modal light verb only the *Pertinenzpassiv* interpretation is possible [@next b]. 
 
-Some of these verbs reverse the default "haben+Partizip" Interpretation.
+::: ex
+- Er hat sein Auto repariert. \
+  (*Perfekt* = Er repariert sein Auto, und das ist abgeschlossen.) \
+  (*Pertinenzpassiv* = Irgendjemand repariert das Auto für ihn.)
+- Er will sein Auto repariert haben. \
+  (nur *Pertinenzpassiv* = Er will, dass sein Auto repariert wird.)
+:::
 
-- Ich habe mein Auto repariert.
-- Ich will unbedingt mein Auto repariert haben.
-- Ich muss unbedingt mein Auto repariert haben
+### *werden + Infinitiv* Future {#sec:infinitive-werden-modal}
 
-### *werden + Infiniv* Future {#sec:infinitive-werden-modal}
+The light verb *werden* is traditionally classified as a temporal auxiliary use for future reference, but is only very rarely used as a real temporal future. The *Präsens* is mostly used for future time reference in German [@next a]. It is probably better to consider the *werden + Infinitiv* construction together with the other modal verbs. Note that there is a long discussion about the merits of this decision in the German grammatical tradition [e.g. @fabriciushansen1986: 141ff]. Crucially, the *werden + Infinitiv* can also be used with past-time reference [@next c] and the usage typically includes a modal implication of expectation and/or presumption. 
 
-The light verb *werden* is traditionally classified as a 'future' auxiliary, but is only very rarely used as a real temporal future (the *Präsens* is mostly used for future time reference in German). It is probably better to consider this construction together with the modal verbs (though note that there is a long discussion about the merits of this decision in the German grammatical tradition, e.g. Fabricius-Hansen 1986: 141ff.)
+::: ex
+- Der Feind greift morgen vielleicht an. \
+  Der Feind wird morgen vielleicht angreifen.
+- Seine Mutter wird sich damals gefreut haben. [@duden2009: 211]
+:::
 
-Modale Bedeutung: Erwartung, Vermutung
+It is undecidable whether the *werden + Infinitiv* construction induces an IPP *Ersatzinfinitiv* because constructions that would trigger such an IPP do not exist. A *werden + Infinitiv* [@next a] is incompatible with a stacked participle construction, like a *sein* perfekt [@next b], a *werden* passive [@next c], or a *gehören* passive [@next d].
 
-- Der Feind greift morgen vielleicht an.
-- Der Feind wird morgen vielleicht angreifen.
+::: ex
+- Die Biene wird mich stechen. \
+  (= *werden + Infinitiv Futur*)
+- ^* Die Biene ist mich stechen geworden/werden. \
+  (= stack of *werden + Infinitiv Futur* +> *sein + Partizip Perfekt*)
+- ^* Ich werde (von der Biene) stechen geworden/werden. \
+  (= stack of *werden + Infinitiv Futur* +> *werden + Partizip Vorgangspassiv*)^[Note that the reversed stack is perfectly possible, viz. *Ich werde (von der Biene) gestochen werden*, which is a stack of *werden + Partizip Vorgangspassiv* +> *werden + Infinitiv Futur*. However, this stack does not help decide whether an IPP occurs with the *werden* future.]
+- ^* Ich gehöre stechen geworden/werden. \
+  (= stack of *werden + Infinitiv Futur* +> *gehören + Partizip Normpassiv*)
+:::
 
-The light verb *werden* is also used as auxiliary in the Konjunktiv.
+### *brauchen + Infinitiv* {#sec:infinitive-brauchen}
 
-- Ich würde gerne etwas essen.
+The verb *brauchen* is typically used with *zu + Infinitiv* [@next a], see [@sec:zuinfinitive-brauchen]. However, it also occurs without *zu* [@next b]. Whether there is any semantic difference between these two options needs more in-depth investigation. Used without *zu* it seems only logical to include *brauchen* in the set of modal verbs [cf. @duden2009: 556]. The light verb *brauchen* is similar to the modal verbs in that it induces an IPP *Ersatzinfinitiv* [@next c].
 
-### *brauchen + Infiniv* {#sec:infinitive-brauchen}
-
-with *zu* [@sec:zuinfinitive-brauchen]
-
-The verbs *brauchen* and *heißen* are not very common in this construction.
-
+::: ex
+- Du brauchst nur noch zu unterschreiben.
 - Du brauchst nur noch unterschreiben.
+- Du hättest doch nur noch unterschreiben brauchen!
+:::
 
 ### --- Absentives --- {.unnumbered}
 
 ### *sein + Infinitiv* Absentive {#sec:infinitive-sein-absentive}
 
-- Ich bin dem Nachbarn mal eben den Teller zurückbringen.
+The ~~Absentive~~ is a construction that expresses that the subject participant is currently not present because of some activity that is being pursued. The grammatical concept was originally proposed by de Groot [-@groot2000]. For German, this phenomenon is recurrently be discussed in the literature [cf. @vogel2007: 269ff.; @abraham2008; @konig2009]. An activity like *schwimmen* 'to swim' can be used with light verb *sein* to indicate absence because of the swimming [@next a]. This construction is typically used with intransitive verbs, though there does not seem to be a strict prohibition of more complex activities with more arguments [@next b]. This construction does not induce an IPP *Ersatzinfinitiv* [@next c]
 
-[@groot2000; @vogel2007: 269ff.; @abraham2008; @konig2009]
+::: ex
+- Ich schwimme. \
+  Ich bin schwimmen.
+- Ich bringe dem Nachbarn den Teller zurück. \
+  Ich bin nur mal kurz dem Nachbarn den Teller zurückbringen.
+- Ich bin dem Nachbarn den Teller zurückbringen gewesen (^*^sein).
+:::
+
+The absentive can only be used with verbs that clearly include agency, so typical patientive verbs like *einschlafen* 'to fall asleep' do not allow for this construction (see [@sec:participles-sein-perfect]). In contrast, a verb like *schlafen* 'to sleep' does allow for an absentive construction, though it needs a suitable context [@next b]. Note that not all verbs with a *haben* Perfekt (often analysed as 'agentive', see [@sec:participles-haben-perfect]) allow for an absentive, like *sitzen* [@next c].
+
+::: ex
+- ^* Ich bin einschlafen.
+- Ich bin dann mal schlafen!
+- ^* Ich bin auf den Stuhl sitzen.
+:::
+
+**Attested Verbs**
+
+- agentive verbs like *bringen, schlafen, schwimmen, zurückbringen*, etc.
 
 ### *gehen/fahren + Infinitiv* Abitive
 
 (from Lat. *abire* 'depart, go away')
 
-- Er geht/fährt seinen Freund besuchen.
+::: ex
+- Er besucht seinen Freund. \
+  Er geht/fährt seinen Freund besuchen.
+- ^* Er geht einschlafen.
+:::
 
 ### *kommen + Infinitiv* Aditive
 
@@ -224,7 +296,9 @@ considered to be one word in german orthographie!
 
 - Er bleibt ihr Briefe schicken.
 
-### *haben + Infinitiv* Possibility + manner adverbial {#sec:infinitive-haben-adverbial}
+### *haben + Infinitiv* Exceptionality + manner adverbial {#sec:infinitive-haben-adverbial}
+
+*Exemptiv* (from Lat. *exemptus* 'freed of')
 
 With adverbs, typically *leicht* or *gut*. The meaning is modal in a special sense of "it is (easily) possible for someone".
 
@@ -653,7 +727,7 @@ Any lexical verb can be used in this construction as long as the verb can sensib
 - Sie hilft den Brief schreiben.
 :::
 
-### --- [ Ø > SBJ > OBJ ] --- *Sensativ* {.unnumbered}
+### --- [ Ø > SBJ > OBJ ] --- *Perzeptiv* {.unnumbered}
 
 Addition of a new subject who is experiencer of the embedding. Alternative explicit complement clause *dass*
 

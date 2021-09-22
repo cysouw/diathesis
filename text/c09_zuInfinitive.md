@@ -8,11 +8,15 @@ gehören + zu + Inf in old examples found sporadically in [@lasch2018]
 
 ## Definitions
 
+Is *zu* simply bound morphology? [@duden2009: 439]: unstressed, not separable, inside separable preverbs
+
+Probably best identified as a separate form of the verb, the *zu-Infinitiv*
+
 ## Deponent verbs without alternations
 
 ## Alternations without diathesis
 
-### *haben + zu + Infinitiv*{#sec:zuinfinitive-haben}
+### *haben + zu + Infinitiv* {#sec:zuinfinitive-haben}
 
 [@holl2010] "müssen" Interpretation
 
