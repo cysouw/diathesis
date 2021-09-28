@@ -62,7 +62,7 @@ Typisch für intransitive ('atelische') Zustandsverben: *liegen, wohnen, leben, 
 - Er kam auf das Thema zu sprechen.
 - Das kann dir teuer zu stehen kommen.
 - Sie ist zu glauben gekommen. (meistens Großgeschrieben, nur intransitives 'glauben' als religiöse Erfahrungen)
-- Heute ist das nächste Dendrobium zu blühen gekommen.
+- Jetzt ist sie hier im Torf auch zu blühen gekommen.^[Attested online at <https://www.orchideenkultur.net/index.php?topic=23522.0>, accessed 27 September 2021.]
 
 Ist es auch möglich mit transitive Verben? Oder ist das immer ein Vollverb *kommen* mit einem abgekürzten *um zu* Adverbialsatz?
 
@@ -100,6 +100,14 @@ moving towards modal status? [@sec:infinitive-brauchen]
 
 - Du brauchst die Kleider nicht zu waschen.
 - Es ist bekannt, dass du die Kleider nicht (zu?) waschen brauchst.
+
+### *lernen + zu + Infinitiv* {#sec:zuinfinitive-lernen}
+
+without *zu* see [@sec:infinitive-lernen]
+
+- Ich schreibe meiner Oma monatlich einen Brief. \
+  Ich lerne meiner Oma monatlich einen Brief (zu) schreiben.
+
 
 ## Diatheses with subject demotion
 

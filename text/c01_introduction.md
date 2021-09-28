@@ -812,7 +812,7 @@ One widespread term that I will avoid is the term 'middle' (and likewise the Lat
 
 The discussion about the different names for macrorole patterns will be split into four parts. First, the following two sections will present names for diatheses involving the nominative subject. Subsequent sections will discuss diatheses not involving the subject. In both discussions, a central distinction will be made between isolated diatheses and chained diatheses (see [@sec:intro-chaining]).
 
-### Isolated subject diatheses
+### Isolated subject diatheses {#sec:intro-isolated-subject-diathesis}
 
 Isolated diatheses that involve a nominative subject are not widespread in German. The only clearly attested kind is the drop of the subject ~~[SBJ › Ø]~~, i.e. the complete removal of the role marked as nominative subject without any further accompanying role-remapping or reintroduction of a new subject. This is typically attested with intransitive verbs: after removing the single available role, there is no other role introduced to fill the structural subject position. Semantically, such diatheses put the focus on the activity as described by the verb itself, so I propose to call them ~~verbative~~ diatheses. Note that there is a strong tendency for every German sentence to formally have a nominative subject with verb agreement. Consequently, such verbative diatheses almost always result in the presence of a valency-simulating nominative pronoun *es* (see [@sec:intro-es]). 
 
@@ -1426,6 +1426,8 @@ Yet, a central thesis of this book is that there is a further subdivision for bo
 
 Table: German terminology for clause types {#tbl:clause-types}
 
+## --- Diatheses remapping the subject --- {.unnnumbered}
+
 ## Verbative diatheses ~~[SBJ › Ø]~~
 
 ### *Verbativ* {#sec:summary-verbativ}
@@ -1864,6 +1866,8 @@ a. Die Wäscherei reinigt den Teppich.
 b. Der neue Besitzer lässt den Teppich (von der Wäscherei) reinigen.
 :::
 
+## --- Diatheses without remapping of the subject --- {.unnnumbered}
+
 ## Antipassive diatheses ~~[OBJ › ADJ]~~
 
 ### *Akkusativ Antipassiv* {#sec:summary-akkusativ-antipassiv}
@@ -2215,6 +2219,8 @@ b. ^* Ich presse den Saft.
 c. Ich presse die Zitrone aus.
 :::
 
+## --- Epitheses without any remapping --- {.unnnumbered}
+
 ## Reflexive epitheses
 
 ### *Selbstbezogener Reflexiv* {#sec:summary-reflexiv}
@@ -2392,7 +2398,7 @@ a. Er liegt im Bett.
 b. Er bliebt im Bett liegen.
 :::
 
-### *Exemptiv* (*haben + Infinitiv*)
+### *Exemptiv* (*haben + leicht/gut + Infinitiv*)
 
 (full discussion in [@sec:infinitive-haben-adverbial]) with obligatory adverbial!
 

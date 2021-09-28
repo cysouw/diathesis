@@ -1285,6 +1285,8 @@ The *setzen + Partizip* construction appears to be only possible with the verb *
 
 ### --- [ SBJ > Ø ] --- *Unpersönlicher Vorgangspassiv* {.unnumbered}
 
+To call the diatheses in this section 'passive' is actually a misnomer, because there is no promotion of an argument to subject status. Also the retention of the original subject is mostly not possible. The categorisation of diatheses as followed in this work would suggest that ~~verbative~~ would be a more suitable term (see[@sec:intro-isolated-subject-diathesis]). However, because the actual constructions (using light verbs *werden*, *sein* or *gehören*) shows a parallel to the real passives, the widespread use of the name *unpersönslicher Passiv* in the German grammatical tradition is retained here.
+
 ### [ N | – ] *werden + Partizip* Impersonal passive {#sec:participles-werden-impersonal-passive}
 
 The *werden + Partizip* impersonal passive is a widely discussed phenomenon in German grammar that occurs with some intransitive verbs [@next a,b]. A special and very atypical characteristic of this diathesis is that there is no grammatical subject expressed. Typically in German, when a subject is dropped, then a valency-simulating pronoun *es* is inserted (see [@sec:intro-es]). However, in this diathesis any occurring pronoun *es* is only position-simulating (i.e. it occurs when the first position of the sentence, i.e. the *Vorfeld*, is empty). In contrast, when the first position is filled, the pronoun *es* is absent [@next b].
@@ -1338,7 +1340,7 @@ There is a recurrent usage of the term *Reflexivpassiv* in the German grammatica
 
 ### [ NP | –P ] *werden + Partizip* Impersonal passive + governed preposition {#sec:participles-impersonal-passive-preposition}
 
-Many, but not all, verbs with governed prepositions (but without accusative argument, cf. [@sec:prepositions-governed-drop]) appear to allow for an impersonal passive, like *warten auf* 'to wait for' or *arbeiten an* 'to work on' [@next]. Note that these verbs all take a *haben + Partizip* Perfekt.
+Many, but not all, verbs with governed prepositions (but without accusative argument, cf. [@sec:prepositions-governed-drop]) appear to allow for an impersonal passive, like *warten auf* 'to wait for' or *arbeiten an* 'to work on' [@next]. Note that these verbs all take a *haben + Partizip* Perfekt. Although it seems possible to retain the original subject as a *von* prepositional phrase, I have not been able to find good examples of such subject retention.
 
 ::: ex
 - Auf dem Professor wurde gewartet.
@@ -1356,7 +1358,7 @@ Many, but not all, verbs that allow for a reflexive conversive diathesis, like *
 
 Governed preposition verbs (see [@sec:prepositions-governed-drop])
 
-- *über*  : *herrschen, siegen, triumphieren, lügen, reden, sprechen, schweigen, denken, meditieren, nachdenken, klagen, lachen, schimpfen, staunen, streiten, weinen*
+- *über*  : *herrschen, siegen, triumphieren, lügen, reden, sprechen, schweigen, denken, diskutieren, meditieren, nachdenken, klagen, lachen, schimpfen, staunen, streiten, weinen*
 - *auf*   : *abfahren (mögen), drängen, hoffen, rechnen, verzichten, warten, schimpfen*
 - *an*:   : *arbeiten, denken, klopfen, teilnehmen, zweifeln*
 - *um*:   : *streiten*
@@ -1405,7 +1407,7 @@ It appears to be impossible for intransitives to be used in an *sein + Partizip*
 - ^^?^ Während dem Protest ist viel gehupt.
 :::
 
-Such constructions only seem to be possible with an additional *worden* [@next], which is effectively a stack of an impersonal *werden + Partizip* Passive with a *sein + Partizip* Perfect (with the participle of *werden* showing up as the idiosyncratic form *werden*).
+Such constructions only seem to be possible with an additional *worden* [@next], which is effectively a stack of an impersonal *werden + Partizip* passive with a *sein + Partizip* perfect (with the participle of *werden* showing up as the idiosyncratic form *werden*).
 
 ::: ex
 - Da ist geschrien worden.
@@ -1414,12 +1416,12 @@ Such constructions only seem to be possible with an additional *worden* [@next],
 
 ### [ NP | -P ] *sein + Partizip* Impersonal passive + governed preposition
 
-It turns out to be astonishingly hard, but not impossible, to find examples of *sein* impersonal passives with governed prepositions, like e.g. with *denken* [@next a]. Constructions with an additional *worden* are widespread, but those are stacks of *werden* Passive with a Perfect [@next b], see [@sec:participles-sein-zustandspassiv] for a more in-depth discussion of this difference.
+It turns out to be astonishingly hard, but not impossible, to find examples of *sein* impersonal passives with governed prepositions, like e.g. with *denken* [@next a]. Constructions with an additional *worden* are widespread, but those are stacks of *werden* passive with a perfect [@next b], see [@sec:participles-sein-zustandspassiv] for a more in-depth discussion of this difference.
 
 ::: ex
 - Aber auch daran ist gedacht.
 - An nichts ist gearbeitet worden. \
-  (= An nichts wird gearbeitet. +> *sein + Partizip* Perfekt)
+  (= An nichts wird gearbeitet. +> *sein + Partizip* perfect)
 :::
 
 **Attested Verbs**
