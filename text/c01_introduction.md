@@ -1426,7 +1426,7 @@ Yet, a central thesis of this book is that there is a further subdivision for bo
 
 Table: German terminology for clause types {#tbl:clause-types}
 
-## --- Diatheses remapping the subject --- {.unnnumbered}
+## --- Diatheses with remapping of the subject --- {.unnumbered}
 
 ## Verbative diatheses ~~[SBJ › Ø]~~
 
@@ -1866,7 +1866,7 @@ a. Die Wäscherei reinigt den Teppich.
 b. Der neue Besitzer lässt den Teppich (von der Wäscherei) reinigen.
 :::
 
-## --- Diatheses without remapping of the subject --- {.unnnumbered}
+## --- Diatheses without remapping of the subject --- {.unnumbered}
 
 ## Antipassive diatheses ~~[OBJ › ADJ]~~
 
@@ -2219,7 +2219,7 @@ b. ^* Ich presse den Saft.
 c. Ich presse die Zitrone aus.
 :::
 
-## --- Epitheses without any remapping --- {.unnnumbered}
+## --- Epitheses without remapping --- {.unnumbered}
 
 ## Reflexive epitheses
 
@@ -2356,7 +2356,7 @@ a. Der Hund rennt.
 b. Der Hund kommt angerannt.
 :::
 
-## Infinitive epithesis
+## Infinitive epitheses
 
 ### *Modalverben*
 
@@ -2409,7 +2409,7 @@ b. Er hat gut lachen.
 
 ## Infinitive epitheses with *zu/zum/am*
 
-### *Obligativinfinitiv (mit 'zu')* (*haben + zu + Infinitiv*)
+### *Obligativ-zu-infinitiv* (*haben + zu + Infinitiv*)
 
 (full discussion in [@sec:zuinfinitive-haben]) "können"
 
@@ -2418,7 +2418,7 @@ a. Die Schüler lösen die Aufgaben.
 b. Die Schüler haben die Aufgaben zu lösen.
 :::
 
-### *Potentialisinfinitiv (mit 'zu')* (*wissen + zu + Infinitiv*)
+### *Potentialis-zu-infinitiv* (*wissen + zu + Infinitiv*)
 
 (full discussion in [@sec:zuinfinitive-wissen]) "müssen"
 
@@ -2427,7 +2427,7 @@ a. Der Lehrer begeistert die Schüler.
 b. Der Lehrer weiß die Schüler zu begeistern.
 :::
 
-### *Patiensinfinitiv (mit 'zu')* (*kommen + zu + Infinitiv*)
+### *Patiens-zu-infinitiv* (*kommen + zu + Infinitiv*)
 
 (full discussion in [@sec:zuinfinitive-kommen]) "es passierte"
 
@@ -2436,7 +2436,7 @@ a. Sie stand neben mir.
 b. Sie kam neben mir zu stehen.
 :::
 
-### *Rezipienteninfinitiv (mit 'zu')* (*bekommen + zu + Infinitiv*)
+### *Rezipienten-zu-infinitiv* (*bekommen + zu + Infinitiv*)
 
 (full discussion in [@sec:zuinfinitive-bekommen])
 
@@ -2445,7 +2445,7 @@ a. Er seiht einen Film.
 b. Er bekommt einen Film zu sehen.
 :::
 
-### *Erscheinungsinfinitiv (mit 'zu')* (*scheinen + zu + Infinitiv*)
+### *Erscheinungsinfinitiv* (*scheinen + zu + Infinitiv*)
 
 (full discussion in [@sec:zuinfinitive-scheinen])
 

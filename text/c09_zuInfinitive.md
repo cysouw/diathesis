@@ -14,6 +14,8 @@ Probably best identified as a separate form of the verb, the *zu-Infinitiv*
 
 ## Deponent verbs without alternations
 
+Not attested.
+
 ## Alternations without diathesis
 
 ### *haben + zu + Infinitiv* {#sec:zuinfinitive-haben}
@@ -40,7 +42,7 @@ b. Die Schüler haben die Aufgaben zu lösen.
 - Er hat nichts zu erwarten.
 - Der Fürst hatte (über) dieses Land zu befehlen
 
-### *wissen + zu + Infinitiv*{#sec:zuinfinitive-wissen}
+### *wissen + zu + Infinitiv* {#sec:zuinfinitive-wissen}
 
 "können" Interpretation
 
@@ -132,7 +134,6 @@ very rare
 With dative-verbs possible, though only with very few incidental examples [contrary to the claim in @holl2010: 18].
 
 - Ihm ist zu helfen/antworten/gratulieren/trauen
-
 
 ### --- [ SBJ > ADJ ] --- {.unnumbered}
 

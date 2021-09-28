@@ -18,7 +18,7 @@ There are also various light verbs that induce a diathesis when used with an inf
 - Die Lehrerin hat ihre Pflanzen auf der Fensterbank stehen.
 :::
 
-Following Bech [-@bech1955] such construction are often designated as *Erster Status* in the German grammatical literature. However, this name is not very transparent nor particularly mnemonic, so I prefer to simply use the term ~~light verb + infinitive~~ constructions.
+Following Bech [-@bech1955] such construction are often designated as *Erster Status* in the German grammatical literature. However, this name is not very transparent nor particularly mnemonic, so I prefer to simply use the term ~~light-verb-plus-infinitive~~ constructions.
 
 There are ten frequently occurring diatheses that use a light verb + infinitive construction and for which I propose a German name, as listed below. Note that the *lassen + Infinitiv* construction occurs in many different diatheses. A detailed discussion of these can be found in [@sec:infinitive-guises-of-lassen]. 
 
@@ -37,7 +37,7 @@ There are ten frequently occurring diatheses that use a light verb + infinitive 
 
 ### Identifying the infinitive
 
-The German infinitive [cf. @duden2009: 443] is straigtforwardly identified as a wordform ending in *-en* [@next a] with an allomorph *-n* after stems ending in *-el/er* [@next b]. This infinitive is considered to be the citation form of a verb, for example occurring as the index entry in dictionaries. Note that there is a widespread syncretism between the infinitive and the finite 1st and 3rd person plural present form of most verbs. For example, the wordform *werden* in [@next c] is a fintite 1st plural, while *laufen* is an infinitive. This can be ascertained by changing the subject to the singular [@next d], which shows the different agreement of the finite form *werde*, while the infinitive *laufen* does not change.
+The German infinitive [cf. @duden2009: 443] is straigtforwardly identified as a wordform ending in *-en* [@next a] with an allomorph *-n* after stems ending in *-el/er* [@next b]. This infinitive is considered to be the citation form of a verb, for example occurring as the index entry in dictionaries. Note that there is a widespread syncretism between the infinitive and the finite 1st and 3rd person plural present form of most verbs. For example, the wordform *werden* in [@next c] is a finite 1st plural, while *laufen* is an infinitive. This can be ascertained by changing the subject to the singular [@next d], which shows the different agreement of the finite form *werde*, while the infinitive *laufen* does not change.
 
 ::: ex
 - lauf-en, versteh-en, werd-en
@@ -73,7 +73,7 @@ Modal verbs (see [@sec:infinitive-modals]) are normally not used for nominal pre
 - Er kann den Dialekt dieser Gegend.
 :::
 
-Possession of a noun can be indicated by using the verb *haben* in German, though the possessed nouns typically need a determiner [@next a]. With mental states like *Schmerzen* 'pain' or *Geduld* 'patience' it is possible to use the same *haben* construction with bare nouns [@next b]. In a metaphorical sense such mental states can be considered a kind of possession. Compare that to the two different constructions using *haben* with an infinitive. The *Ortspertinenzinversiv* [@next c], see [@sec:infinitive-haben], still includes a sense of possession. The subject of this construction (here *Er* 'he') is necesserily the possessor of the object in the prepositional phrase (here *Nase* 'nose'). The second infinitive construction obligatory needs an adverbial like *leicht* (see [@sec:infinitive-haben-adverbial]). This construction has no relation to possession at all.
+Possession of a noun can be indicated by using the verb *haben* in German, though the possessed nouns typically need a determiner [@next a]. With mental states like *Schmerzen* 'pain' or *Geduld* 'patience' it is possible to use the same *haben* construction with bare nouns [@next b]. In a metaphorical sense such mental states can be considered a kind of possession. Compare that to the two different constructions using *haben* with an infinitive. The *Ortspertinenzinversiv* [@next c], see [@sec:infinitive-haben], still includes a sense of possession. The subject of this construction (here *Er* 'he') is necesserily the possessor of the object in the prepositional phrase (here *Nase* 'nose'). In contrast, the *Exemptiv* [@next d], see [@sec:infinitive-haben-adverbial] has no relation to possession at all.
 
 ::: ex
 - Ich habe eine Tasse.
@@ -82,24 +82,26 @@ Possession of a noun can be indicated by using the verb *haben* in German, thoug
 - Er hat leicht reden.
 :::
 
-A further kind of nominal predication uses the verb *heißen* 'to be named' [@duden2009: 813], indicating that the subject has a particular name [@next a]. Instead of a noun it is also possible to use infinitives, either without *zu* [@next b,c] or with *zu* [@next d,e]. Both these construction indicate equation, and it is unclear whether there is any difference between the equations with or without *zu*. Interestingly, both the subject and the predicate in such sentences need to be infinitives (and both either with or without *zu*). Note that the light verb *heißen* can also be used in a (somewhat old-fashioned) causative construction [@next f], which seems to be completely separate from the equation usage (see [@sec:infinitive-heißen]). The other causative light verbs *lassen, schicken, machen* likewise do not have a counterpart in nominal predication.
+A further kind of nominal predication uses the verb *heißen* 'to be named' [@duden2009: 813], indicating that the subject has a particular name [@next a]. Instead of a noun it is also possible to use infinitives, either without *zu* [@next b] or with *zu* [@next c]. Both these construction indicate equation, and it is unclear whether there is any difference between the equations with or without *zu*. Interestingly, both the subject and the predicate in such sentences need to be infinitives (and both either with or without *zu*). Note that the light verb *heißen* can also be used in a (somewhat old-fashioned) causative construction [@next d], which seems to be completely separate from the equation usage (see [@sec:infinitive-heißen]). The other causative light verbs *lassen, schicken, machen* likewise do not have a counterpart in nominal predication.
 
 ::: ex
-- Dieses Sternbild heißt Großer Bär.
-- Die Symbole abschaffen heißt die Freimaurerei abschaffen.^[~~DWDS~~: Die Zeit, 20.11.2017, Nr. 47]
-- Von den Erwachsenen lernen, heißt Reife beweisen.^[In: Leibniz-Institut für Deutsche Sprache: "Wörterbuch zur Verbvalenz". Grammatisches Informationssystem grammis. <https://grammis.ids-mannheim.de/verbs/view/400556/1>, accessed 27 September 2021.]
-- Diese Wahrheit zu akzeptieren, hieße zu resignieren.^[~~DWDS~~: Berliner Zeitung, 25.07.2005]
-- Eine Katze zu haben, heißt, sich um ein Lebewesen kümmern zu müssen.
+- Dieses Sternbild heißt Großer Bär.^[[@duden2009: 813]]
+- Die Symbole abschaffen heißt die Freimaurerei abschaffen.^[~~DWDS~~: Die Zeit, 20.11.2017, Nr. 47] \
+  Von den Erwachsenen lernen, heißt Reife beweisen.^[In: Leibniz-Institut für Deutsche Sprache: "Wörterbuch zur Verbvalenz". Grammatisches Informationssystem grammis. <https://grammis.ids-mannheim.de/verbs/view/400556/1>, accessed 27 September 2021.]
+- Diese Wahrheit zu akzeptieren, hieße zu resignieren.^[~~DWDS~~: Berliner Zeitung, 25.07.2005] \
+  Eine Katze zu haben, heißt, sich um ein Lebewesen kümmern zu müssen.^[[@duden2009: 813]]
 - Der Henker hieß ihn niederknieen.
 :::
 
 ### ACI *accusativus cum infinitivo* 
 
-Given the immense influence of Latin grammar on grammatical theory, it is no surprise that the classical Latin *accusativus cum infinitivo* (ACI) construction is often used to desribe a similary phenomenon in German [@next]. In such constructions, the subject of the verb in the infinitive (viz. *putzen, kaufen*) ends up as an accusative. This construction is very widespread in Latin, but in German only applicable to the few light-verb-plus-infinitive construction that add a new subject, viz causative verbs like *schicken* 'to send' and perception verbs like *sehen* 'to see'. Although the surface structure in German are clearly monoclausal, underlyingly there might be a different structures for verbs like *sehen* with a biclausal *dass* alternative [see @harbert1977 for a discussion].
+Given the immense influence of Latin grammar on grammatical theory, it is no surprise that the classical Latin *accusativus cum infinitivo* (ACI) construction is often used to desribe a similary phenomenon in German [@next]. In such constructions, the subject of the verb in the infinitive (viz. the logical subject of *putzen* and *kaufen*) ends up as an accusative. This construction is very widespread in Latin, but in German only applicable to the few light-verb-plus-infinitive construction that add a new subject, viz causative verbs like *schicken* 'to send' [@next a] and perception verbs like *sehen* 'to see' [@next b]. Although the surface structure in German are clearly monoclausal, underlyingly there might be a different structures for verbs like *sehen* with a biclausal *dass* alternative [see @harbert1977 for a discussion].
 
 ::: ex
-- Sie schickt ihn Brot kaufen.
-- Sie sieht, dass der Mann den Tisch putzt. \
+- Er kauft Brot. \
+  Sie schickt ihn Brot kaufen.
+- Der Mann putzt den Tisch. \
+  Sie sieht, dass der Mann den Tisch putzt. \
   Sie sieht den Mann den Tisch putzen.
 :::
 
@@ -115,7 +117,7 @@ The *Ersatzinfinitiv* is a special syntactic phenomenon attested in West-Germani
 - ^* Sie *hat* ihn den Tisch putzen *gesehen*.
 :::
 
-Based on data from various West-Germanic languages and dialects, Schmid [-@schmid2005: 32-33, 106] proposes an hierarchy of verb types that show this phenomenon [@next]. German fits nicely in this hierarchy (almost by definition, because German was used to propose the hierarchy in the first place). The German verbs inducing the *Ersatzinfinitiv* are causative *lassen*, modals *dürfen/können/mögen/müssen/sollen/wollen* and also *brauchen*, perception verbs *hören, sehen* and benefactive *helfen*.
+Based on data from various West-Germanic languages and dialects, Schmid [-@schmid2005: 32-33, 106] proposes an hierarchy of verb types that show this phenomenon [@next]. German fits nicely in this hierarchy (almost by definition, because German was used to propose the hierarchy in the first place). The German verbs inducing the IPP are causative *lassen*, modals *dürfen/können/mögen/müssen/sollen/wollen* and also *brauchen*, perception verbs *hören, sehen* and benefactive *helfen*.
 
 ::: ex
 Implicational scale of IPP *Ersatzinfinitiv* verbs 
@@ -248,12 +250,12 @@ An interesting supplementary effect that these modal verbs have on diathesis con
 
 ### *werden + Infinitiv* Future {#sec:infinitive-werden-modal}
 
-The light verb *werden* is traditionally classified as a temporal auxiliary use for future reference, but is only very rarely used as a real temporal future. The *Präsens* is mostly used for future time reference in German [@next a]. It is probably better to consider the *werden + Infinitiv* construction together with the other modal verbs. Note that there is a long discussion about the merits of this classification in the German grammatical tradition [e.g. @fabriciushansen1986: 141ff]. Crucially, the *werden + Infinitiv* can also be used with past-time reference [@next c] and the usage typically includes a modal implicature of expectation and/or presumption. 
+The light verb *werden* is traditionally classified as a temporal auxiliary use for future reference, but is only very rarely used as a real temporal future. The *Präsens* is mostly used for future time reference in German [@next a]. It is probably better to consider the *werden + Infinitiv* construction together with the other modal verbs as the usage typically includes a modal implicature of expectation and/or presumption [@next b]. There is a long discussion about the merits of this classification of *werden* as a modal verb in the German grammatical tradition [e.g. @fabriciushansen1986: 141ff]. Crucially, the *werden + Infinitiv* can also be used with past-time reference [@next c].
 
 ::: ex
-- Der Feind greift morgen vielleicht an. \
-  Der Feind wird morgen vielleicht angreifen.
-- Seine Mutter wird sich damals gefreut haben. [@duden2009: 211]
+- Der Feind greift morgen vielleicht an.
+- Der Feind wird morgen vielleicht angreifen.
+- Seine Mutter wird sich damals gefreut haben.^[[@duden2009: 211]]
 :::
 
 It is undecidable whether the *werden + Infinitiv* construction induces an IPP *Ersatzinfinitiv* because constructions that would trigger such an IPP do not exist. A *werden + Infinitiv* [@next a] is incompatible with a stacked participle construction, like a *sein* perfekt [@next b], a *werden* passive [@next c], or a *gehören* passive [@next d].
@@ -537,7 +539,7 @@ Verbs like *übersehen* 'to overlook' [@next a] or *erläutern* 'to elucidate' [
 
 ### [ NA | pN ] *lassen + Infinitiv* Reflexive permissive passive {#sec:infinitive-lassen-reflexive-permissive-passive}
 
-For some of the transitive verbs the *lassen + sich + Infinitiv* diathesis has a different interpretation from the previously described epistemic passive (see [@sec:infinitive-lassen-reflexive-anticausative]). For example, this diathesis of *empören* to appall' [@next a,b] has a permissive interpretation ('allowing something to happen') [@next c], not the epistemic interpretation ('it is possible that something happens') discussed above [@next d]. This interpretation is attested for a subset of those verbs that also allow for a reflexive conversive (see [@sec:reflexive-preposition-passive]).
+For some of the transitive verbs the *lassen + sich + Infinitiv* diathesis has a different interpretation from the previously described epistemic passive (see [@sec:infinitive-lassen-reflexive-anticausative]). For example, this diathesis of *empören* 'to appall' [@next a,b] has a permissive interpretation ('allowing something to happen') [@next c], not the epistemic interpretation ('it is possible that something happens') discussed above [@next d]. This interpretation is attested for a subset of those verbs that also allow for a reflexive conversive (see [@sec:reflexive-preposition-passive]).
 
 ::: ex
 a. Der Witz empört mich.
@@ -644,7 +646,39 @@ b. ^* Ich lasse seinem Freund den Rechner schenken (von dem Verkäufer).
 
 ## Diatheses with promotion to subject
 
-### --- [ Ø > SBJ > OBJ ] --- {.unnumbered}
+### --- [ Ø > SBJ > ADJ ] --- *Passivkausativ* {.unnumbered}
+
+### [ –NA | NpA ] *lassen + Infinitiv* Passive causative {#sec:infinitive-lassen-passive-causative}
+
+The *lassen + Infinitiv* causative diathesis (see the next [@sec:infinitive-lassen-causative]) can be used with almost all German verbs. With some verbs this diathesis results in a construction with two accusatives [@next a]. However, such double accusatives as produced by this diathesis can be resolved by optionally changing the new accusative to a *von* prepositional phrase [@next b], or even dropping it altogether [@next c], resulting in an embedded anticausative reading with unknown agent [cf. @enzinger2012: 26]. Note that this is only possible with the causative reading and not with the permissive reading of the *lassen + Infinitiv* diathesis [@next c].
+
+::: ex
+a. Der Mitarbeiter wäscht die Teller. \
+   Sie lässt den Mitarbeiter die Teller waschen.
+b. Sie lässt die Teller von dem Mitarbeiter waschen.
+c. Sie lässt die Teller waschen. \
+   (= Sie sorgt dafür, dass die Teller gewaschen werden.) \
+   (≠ Sie erlaubt, dass die Teller gewaschen werden.)
+:::
+
+This construction of *lassen + Infinitiv* with a *von* agent phrase might very well be considered a different diathesis. For example, it is impossible with some verbs [@nedjalkov1976: 7; @enzinger2012: 27] like *ausziehen* 'to take off' [@next]. This impossibility seems to be widespread with verbs that allow an endoreflexive diathesis (see [@sec:reflexive-accusative-drop]), but that has to be investigated further. With a stacked endoreflexive diathesis the *von* replacement is perfectly possible [@next d]. The *von* replacement also seems to be restricted (or maybe even impossible) for verbs that do not have an accusative argument, like *antworten* 'to answer' [@nnext].
+
+::: ex
+a. Sein Sohn zieht die Jacke aus.
+b. Er lässt seinen Sohn die Jacke ausziehen.
+c. ^* Er lässt die Jacke von seinem Sohn ausziehen.
+d. Er zieht sich aus. \
+   Er lässt sich von seinem Sohn ausziehen.
+:::
+
+::: ex
+a. Der Lehrer antwortet dem Schüler.
+b. Der Dekan lässt den Lehrer dem Schüler antworten.
+c. ^^?^ Der Dekan lässt dem Schüler vom Lehrer antworten.
+d. ^^?^ Der Dekan lässt dem Schüler antworten.
+:::
+
+### --- [ Ø > SBJ > OBJ ] --- *Kausativ* {.unnumbered}
 
 ### [ –N | NA ] *lassen + Infinitiv* Permissive causative (*Permissivkausativ*) {#sec:infinitive-lassen-causative}
 
@@ -699,7 +733,7 @@ The verb *schicken* allows for a construction with an infinitive [@next]. This d
 ::: ex
 a. Er schläft
 b. Ich schicke ihn schlafen.
-c. Ich habe ihn schlafen *geschickt*.
+c. Ich habe ihn schlafen geschickt (^\*^schicken).
 :::
 
 The meaning of the light verb *schicken* in this diathesis is rather close to the meaning of the full verb *schicken* 'to send' [@next a]. The diathesis with infinitive seems to be restricted to agentive intransitives [@next b,c].
@@ -739,7 +773,7 @@ a. Ich lache. \
 b. Ich vergesse die Verabredung. \
    Der Stress macht mich die Verabredung vergessen.
 c. Das Pulver von eines Schwanen Beiner auf eines Kopf gestreuet soll alsbald die Haar ausfallen machen.(Martin Zeiler, 1659)^[~~DWDS~~: Zeiller, Martin: Centvria III. Variarvm Quæstionvm. Bd. 3. Ulm, 1659.]
-d. Der Clown hat mich lachen *gemacht*.
+d. Der Clown hat mich lachen gemacht (^\*^machen).
 :::
 
 **Attested Verbs**
@@ -761,52 +795,13 @@ The verb *heißen* can also be used with an infinitive to express a causative me
 ::: ex
 a. Er kniete nieder.
 b. Der Henker hieß ihn niederknieen.
-c. Der Henker hat ihn niederknieen *geheißen*.
+c. Der Henker hat ihn niederknieen geheißen (^\*^heißen).
 :::
 
 #**Examples**
 
 - Eins von den Kindern hieß er zum Doktor laufen.^[~~DWDS~~: Ganghofer, Ludwig: Der Dorfapostel, Stuttgart: Adolf Bonz 1900, S. 124]
 - Hierauf hat mich der Vater in sein Arbeitsgemach geführt, hat mich auf den weichsten Sessel niedersitzen geheißen.^[~~DWDS~~: Rosegger, Peter: Die Schriften des Waldschulmeisters. Pest, 1875.]
-
-### [ –N | NA ] *lehren + Infinitiv* Assistive {#sec:infinitive-lehren}
-
-The verb *lehren* 'to teach' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ('the teacher') is introduced as a nominative and the erstwhile nominative is demoted to accusative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *lehren* remains completely transparently related to the full verb with the meaning 'to teach'. There is an alternative construction with *zu + Infinitive* (see [@sec:zuinfinitive-lehren]) that appears to have a highly similar meaning. More research is needed to elucidate any difference between these two constructions [@next b,c]. The *lehren + Infinitive* diathesis does not invoke the IPP *Ersatzinfinitiv* [@next d].
-
-::: ex
-a. Der Junge schwimmt.
-b. Die Mutter lehrt den Jungen schwimmen
-c. Die Mutter lehrt den Jungen zu schwimmen.
-d. Die Mutter hat den Jungen schwimmen *gelehrt*.
-:::
-
-There does not seem to be any syntactic restriction on the main lexical verbs that can be used in this diathesis. Any verb can be used as long as the verb can sensibly be conceived as something that can be taught. Any other arguments of the lexical verb simply are retained, which regularly leads to double accusatives [@next a,b].
-
-::: ex
-- Ich wasche mich.
-- Sie lehrt mich mich waschen.
-:::
-
-### [ –N | ND ] *helfen + Infinitiv* Assistive {#sec:infinitive-helfen}
-
-The verb *helfen* 'to help' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ('the helper') is introduced as a nominative and the erstwhile nominative is demoted to dative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *helfen* remains completely transparently related to the full verb with the meaning 'to help'. There is an alternative construction with *zu + Infinitive* [@next c], see [@sec:zuinfinitive-helfen], that appears to highly similar. More research is needed to elucidate any difference between these two constructions. The *helfen + Infinitive* diathesis allows the IPP *Ersatzinfinitiv* [@next d].
-
-::: ex
-- Ich trage den Koffer.
-- Er hilft mir den Koffer tragen.
-- Er hilft mir den Koffer zu tragen.
-- Er hat mir den Koffer tragen *geholfen*. \
-  Er hat mir den Koffer tragen *helfen*.
-:::
-
-Any lexical verb can be used in this construction as long as the verb can sensibly be conceived as something that can be helped with. Other arguments of the lexical verb simply are simply retained. However, the *helfen + Infinitive* construction seems to be dispreffered when the lexical verb has many arguments [@next a,b]. It appears to be more typical of construction with only a single lexical argument [@next c,d]. Note that this constuction is also typically used without the beneficiary of the helping being expressed, i.e. the agent of the lexical verb is dropped [@next d].
-
-::: ex
-- Ich schreibe dir einen Brief.
-- ^^?^ Sie hilft mir dir einen Brief schreiben.
-- Sie hilft mir schreiben.
-- Sie hilft den Brief schreiben.
-:::
 
 ### --- [ Ø > SBJ > OBJ ] --- *Perzeptiv* {.unnumbered}
 
@@ -877,7 +872,7 @@ Die Rose und der Ring. Übersetzung Jörg Karau 2009. Attested online at <https:
 
 ### [ –N | NA ] *finden + Infinitiv* Experiencer
 
-The verb *finden* (literally meaning 'to find', but in this construction the meaning is closer to *feststellen* 'to detect') cannot be used with a *dass* complement clause [@next a]. However, it is attested with an infinitive, similar to the previous *verba sentiendi* [@next b]. This infinitive construction typically occurs with stative verbs like *stehen, liegen, sitzen*. This construction does not allow for an IPP *Ersatzinfinitiv* [@next c,d].
+The verb *finden* (literally meaning 'to find', but in this construction the meaning is closer to *feststellen* 'to detect') cannot be used with a *dass* complement clause [@next a]. However, it is attested with an infinitive, similar to the previous *verba sentiendi* [@next b]. This infinitive construction typically occurs with position verbs like *stehen, liegen, sitzen*. This construction does not allow for an IPP *Ersatzinfinitiv* [@next c,d].
 
 ::: ex
 - Er stellte fest (^\*^findet), dass sein Teller auf den Tisch steht.
@@ -886,44 +881,55 @@ The verb *finden* (literally meaning 'to find', but in this construction the mea
 - Er […] rauchte den Joint auf, den er dort liegen fand.^[~~DWDS~~: Der Tagesspiegel, 02.10.1998]
 :::
 
+**Attested verbs**
+
+- position verbs: *stehen, liegen, sitzen*, etc.
+
 **Examples**
 
 - Der gütige Herr wollte weiterschreiten, als er einen Dritten bitterlich weinend am Straßenrand sitzen fand.^[~~DWDS~~: Süddeutsche Zeitung, 1995 [1945]]
 - Indessen hatte Perdikkas die Stadt, gegen die er gesandt war, bereits von den Einwohnern verlassen gefunden.^[~~DWDS~~: Droysen, Johann Gustav: Geschichte Alexanders des Großen. Hamburg, 1833.]
-  
-### --- [ Ø > SBJ > ADJ ] --- {.unnumbered}
+ 
+### --- [ Ø > SBJ > OBJ ] --- {.unnumbered}
 
-### [ –NA | NpA ] *lassen + Infinitiv* Passive causative (*Passivkausativ*) {#sec:infinitive-lassen-passive-causative}
+### [ –N | NA ] *lehren + Infinitiv* Assistive {#sec:infinitive-lehren}
 
-However, double accusatives as produced by this diathesis [@next a] can be resolved by optionally changing the new accusative to a *von* prepositional phrase [@next b], or even dropping it altogether, inducing an embedded anticausative reading with unknown agent [cf. @enzinger2012: 26]. Note that this is only possible with the causative reading and not with the permissive reading of the *lassen + Infinitiv* diathesis [@next c].
-
-::: ex
-a. Der Mitarbeiter wäscht die Teller. \
-   Sie lässt den Mitarbeiter die Teller waschen.
-b. Sie lässt die Teller von dem Mitarbeiter waschen.
-c. Sie lässt die Teller waschen. \
-   (= Sie sorgt dafür, dass die Teller gewaschen werden.) \
-   (≠ Sie erlaubt, dass die Teller gewaschen werden.)
-:::
-
-This construction of *lassen + Infinitiv* with a *von* agent phrase might very well be considered a different diathesis. For example, it is impossible with some verbs [@nedjalkov1976: 7; @enzinger2012: 27] like *ausziehen* 'to take off' [@next]. This impossibility seems to be widespread with verbs that allow an endoreflexive diathesis (see [@sec:reflexive-accusative-drop]), but that has to be investigated further. With a stacked endoreflexive diathesis the *von* replacement is perfectly possible [@next d]. The *von* replacement also seems to be restricted (or maybe even impossible) for verbs that do not have an accusative argument, like *antworten* 'to answer' [@nnext].
+The verb *lehren* 'to teach' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ('the teacher') is introduced as a nominative and the erstwhile nominative is demoted to accusative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *lehren* remains completely transparently related to the full verb with the meaning 'to teach'. There is an alternative construction with *zu + Infinitive* (see [@sec:zuinfinitive-lehren]) that appears to have a highly similar meaning. More research is needed to elucidate any difference between these two constructions [@next b,c]. The *lehren + Infinitive* diathesis does not invoke the IPP *Ersatzinfinitiv* [@next d].
 
 ::: ex
-a. Sein Sohn zieht die Jacke aus.
-b. Er lässt seinen Sohn die Jacke ausziehen.
-c. ^* Er lässt die Jacke von seinem Sohn ausziehen.
-d. Er zieht sich aus. \
-   Er lässt sich von seinem Sohn ausziehen.
+a. Der Junge schwimmt.
+b. Die Mutter lehrt den Jungen schwimmen
+c. Die Mutter lehrt den Jungen zu schwimmen.
+d. Die Mutter hat den Jungen schwimmen *gelehrt*.
 :::
+
+There does not seem to be any syntactic restriction on the main lexical verbs that can be used in this diathesis. Any verb can be used as long as the verb can sensibly be conceived as something that can be taught. Any other arguments of the lexical verb simply are retained, which regularly leads to double accusatives [@next a,b].
 
 ::: ex
-a. Der Lehrer antwortet dem Schüler.
-b. Der Dekan lässt den Lehrer dem Schüler antworten.
-c. ^^?^ Der Dekan lässt dem Schüler vom Lehrer antworten.
-d. ^^?^ Der Dekan lässt dem Schüler antworten.
+- Ich wasche mich.
+- Sie lehrt mich mich waschen.
 :::
 
-**Attested verbs**
+### [ –N | ND ] *helfen + Infinitiv* Assistive {#sec:infinitive-helfen}
+
+The verb *helfen* 'to help' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ('the helper') is introduced as a nominative and the erstwhile nominative is demoted to dative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *helfen* remains completely transparently related to the full verb with the meaning 'to help'. There is an alternative construction with *zu + Infinitive* [@next c], see [@sec:zuinfinitive-helfen], that appears to highly similar. More research is needed to elucidate any difference between these two constructions. The *helfen + Infinitive* diathesis allows the IPP *Ersatzinfinitiv* [@next d].
+
+::: ex
+- Ich trage den Koffer.
+- Er hilft mir den Koffer tragen.
+- Er hilft mir den Koffer zu tragen.
+- Er hat mir den Koffer tragen *geholfen*. \
+  Er hat mir den Koffer tragen *helfen*.
+:::
+
+Any lexical verb can be used in this construction as long as the verb can sensibly be conceived as something that can be helped with. Other arguments of the lexical verb simply are simply retained. However, the *helfen + Infinitive* construction seems to be dispreffered when the lexical verb has many arguments [@next a,b]. It appears to be more typical of construction with only a single lexical argument [@next c,d]. Note that this constuction is also typically used without the beneficiary of the helping being expressed, i.e. the agent of the lexical verb is dropped [@next d].
+
+::: ex
+- Ich schreibe dir einen Brief.
+- ^^?^ Sie hilft mir dir einen Brief schreiben.
+- Sie hilft mir schreiben.
+- Sie hilft den Brief schreiben.
+:::
 
 ## Diatheses with object demotion
 
