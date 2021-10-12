@@ -1246,7 +1246,6 @@ It seems to be somewhat unusual for verbs with dative – but no accusative – 
 - Ich entfliehe dem Gefängnis. Ich entfliehe aus dem Gefängnis.
 - Die Demonstranten wichen der Polizei. Sie wichen vor der Polizei.
 - Der Hut passt ihm. Der Hut passt zu ihm.
-- Die Fenster gehören dem Haus. Fenster gehören zu einem Haus.
 - Unsere Arbeit dient dem Fortschritt. Unsere Arbeit dient zur Meinungsbildung.
 - Ich gebiete dir. Ich gebiete über dich.
 - Er bedeutet mir viel. Er bedeutet viel für mich.
@@ -1255,6 +1254,7 @@ It seems to be somewhat unusual for verbs with dative – but no accusative – 
 - Ich folge dem Einbrecher. Sonnenschein folgt auf Regen.
 - Ich vertraue ihm. Ich vertraue auf seine Ehrlichkeit.
 - Die Bürger flohen dem Krieg. Sie flohen vor dem Krieg.
+- Der schnellfüßige Käfer ist lichtscheu und flieht dem Geräusch.^[~~DWDS~~: Die Landfrau, 12.09.1925]
 
 **Notes**
 

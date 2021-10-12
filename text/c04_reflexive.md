@@ -1075,6 +1075,10 @@ d. In diesem Buch handelt es sich darum, dass er eine Weltreise macht.
 
 - *handeln*
 
+**Examples**
+
+- In beiden Fällen handelt es sich um Briefromane.^[~~DWDS~~: Schwanitz, Dietrich: Bildung, Frankfurt a. M.: Eichborn 1999, S. 17.]
+
 ### --- [ OBJ > SBJ > Ø ] --- *Reflexiv Antikausativ* {.unnumbered}
 
 ### [ NA | –N ] Reflexive anticausative {#sec:reflexive-anticausative}

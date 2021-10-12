@@ -99,13 +99,19 @@ Die Bedeutung der Verben *sein/bleiben* scheint sehr lexikal. Eher keine speziel
 
 Only incidental examples?
 
-- Es ist zum Verzweifeln.
-- Es ist zum Heulen/totlachen.
-
 ::: ex
 a. Ich heule über den Schaden. 
 b. Der Schaden ist zum Heulen.
 :::
+
+**Attested Verbs**
+
+- *heulen, totlachen, verzweifeln*
+
+**Examples**
+
+- Es ist zum Verzweifeln.
+- Es ist zum Totlachen.
 
 ## Diatheses with promotion to subject
 
@@ -123,10 +129,15 @@ Patiens als Akkustiv (nur bei antikausative Verben?)
 - Der Stock bricht. Er kriegt den Stock zum brechen. (vgl. Er bricht den Stock.)
 - Der Mechaniker kriegt die Maschine in Bewegung (vgl. Die Maschine bewegt sich.)
 
-Patiens als Genitiv bei transitive Verben. [ –NA|NAg]
+### [ –NA | NAg ] *bringen/kriegen + zum + Infinitiv* causative
 
+Patiens als Genitiv bei transitive Verben.
+
+::: ex
+- Ich besuche meinen Opa.
 - Sie bringt mich zum Besuchen meines Opas.
 - Sie bringt mich zum Schenken des Buches (* an ihm)
+:::
 
 Agens als Genitiv nur bei dem Vollverb *bringen* (Jemanden irgendwo hinbringen). Das ist eine Nominalisierung.
 

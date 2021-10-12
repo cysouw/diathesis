@@ -187,11 +187,11 @@ c. Der Mantel sitzt nicht.
 
 ### [ N ] Nominative + reflexive + adverbial
 
-The obligatory reflexive verb *sich benehmen* 'to behave' also obligatorily needs an adverbial constituent to describe how to behave [@next a,b], except in imperatives [@next c] and in some light verb constructions [@next d], both of which have a conversational implicature of 'good' behavior. Note that there is a completely different meaning of *benehmen* without reflexive *sich*, meaning 'to deprive of' [@next e].
+The obligatory reflexive verb *sich benehmen* 'to behave' also preferably needs an adverbial constituent to describe how to behave [@next a,b], except in imperatives [@next c] and in some light verb constructions [@next d]. Without an adverbial all uses have a conversational implicature of 'good' behavior. Note that there is a completely different meaning of *benehmen* without reflexive *sich*, meaning 'to deprive of' [@next e].
 
 ::: ex
 a. Ich benehme mich anständig.
-b. ^* Ich benehme mich.
+b. ^^?^ Ich benehme mich.
 c. Benimm dich!
 d. Ich weiß mich zu benehmen.
 e. Der Schreck benimmt ihm den Atem.
