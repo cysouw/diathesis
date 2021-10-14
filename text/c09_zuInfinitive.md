@@ -8,9 +8,38 @@ gehören + zu + Inf in old examples found sporadically in [@lasch2018]
 
 ## Definitions
 
+### Morphological structure
+
 Is *zu* simply bound morphology? [@duden2009: 439]: unstressed, not separable, inside separable preverbs
 
 Probably best identified as a separate form of the verb, the *zu-Infinitiv*
+
+The element *zu* is obviously related to the preposition *zu*, which has a bewildering number of different uses in German.^[For example, see the listing of the ~~DWDS~~ at <https://www.dwds.de/wb/zu>.] Diachronically, there has been a development of an allative meaning 'towards' via a purpose meaning 'with the intend to' to the usage of *zu* in complement clauses. This grammaticalisation is widespread worldwide [@haspelmath1989] and well-described in Germanic languages [e.g. @smirnova2016 for German and @los2005 for English].
+
+### Coherence {#sec:zuinfinitive-coherence}
+
+Only constructions with obligatory coherence here!
+
+*lehren/helfen* with *zu* both coherent and non-coherent:
+
+::: ex
+- Es ist bekannt, dass er den Schüler [gelehrt hat] die Aufgaben [zu lösen].\
+  Es ist bekannt, dass er den Schüler die Aufgaben [zu lösen] [gelehrt hat].
+- Es ist bekannt, dass er dem Schüler [geholfen hat] die Aufgaben [zu lösen].\
+  Es ist bekannt, dass er dem Schüler die Aufgaben [zu lösen] [geholfen hat].
+:::
+
+less frequent: koherent with zu + Infinitiv
+
+::: ex
+- Meine Worte gehen unter in den Liedern, die ich euch zu singen lehrte.^[~~DWDS~~: Brückner, Christine: Wenn du geredet hättest, Desdemona, Frankfurt a. M.: Ullstein 1986, S. 7]
+- Es ehrt den Historiker, wenn er die Spuren der Geschichte ausleuchtet, sie interpretiert und zu verstehen lehrt.^[~~DWDS~~: Berliner Zeitung, 08.03.2003]
+:::
+
+::: ex
+- Die Leute kümmern sich um dich, solange du ihnen zu gewinnen hilfst.^[~~DWDS~~: Die Zeit, 17.03.2016, Nr. 13]
+- Bettelheim verteidigte darin den Märchen-Grusel, der den Kindern eigene Schrecken zu verarbeiten helfe.^[~~DWDS: Berliner Zeitung, 29.12.2003]
+:::
 
 ## Deponent verbs without alternations
 
@@ -123,6 +152,8 @@ Impersonal construction seem to be very rare [contrary to the claim in @holl2010
 
 I have not been able to find more examples
 
+no *es*!
+
 ### [ NP | -P ] *sein + zu + Infinitiv* Impersonal + governed preposition
 
 very rare
@@ -135,24 +166,51 @@ With dative-verbs possible, though only with very few incidental examples [contr
 
 - Ihm ist zu helfen/antworten/gratulieren/trauen
 
-### --- [ SBJ > ADJ ] --- {.unnumbered}
+### --- [ SBJ > ADJ ] --- *Auftragsherabstufung* {.unnumbered}
 
-### [ NA | pA ] *geben + zu + Infinitiv* subject demotion {#sec:zuinfinitive-geben-demotion}
+### [ NA | pA ] *geben + zu + Infinitiv* Subject demotion
 
-Immer mit *noch/viel/genug/reichlich/nichts* ?! 
+Complete examples are rare [@next a]. Construction is coherent [@next b]. [cf. @engel1996: 488]
 
-müssen, bereit liegen
+::: ex
+- Seine Fans kaufen ein Gesamtpaket. \
+  Stattdessen gibt es für seine Fans ein Gesamtpaket zu kaufen.^[~~DWDS~~: Die Zeit, 11.12.2013]
+- Stattdessen hat es für seine Fans ein Gesamtpaket zu kaufen gegeben.
+:::
 
-Agent retention with *für* ?!
-- Ich gewinnen einen Preis. Es gibt (für mich) einen Preis zu gewinnen.
+Typically with mit *noch/viel/genug/reichlich/nichts* instead of a nominal accusative ?! 
 
+::: ex
+- Reisende entdecken das Land.
+- Es gibt für Reisende noch viel zu entdecken.
+- ^* Es gibt für Reisende das Land zu entdecken.
+:::
+
+Typically without retained subject [@next a]. Without retained subject it is possible to keep the accusative [@next b]
+
+::: ex
+- Es gibt reichlich zu trinken. \
+  Gestern hat es reichlich zu trinken gegeben.
+- Ich gewinnen einen Preis. \
+  Es gibt einen Preis zu gewinnen.
+:::
+
+**Examples**
+
+- Noch einen anderen Grund gibt es für Nadella die freien Hersteller zu umgarnen.^[~~DWDS~~: Die Zeit, 03.04.2014, Nr. 15]
+- Es gibt jetzt wichtigeres zu tun.
+- Es gibt nichts zu klagen/essen/sehen/lachen/beachten/bereden/hören.
 - Es gibt noch viele Geschenke einzupacken.
 - Es gibt noch viele Probleme zu lösen.
-- Es gibt jetzt wichtigeres zu tun.
-- Es gibt nichts zu klagen.
-- Es gibt reichlich/nichts zu trinken/essen/sehen/lachen/tun/beachten/bereden/hören.
 
-### [ NA | pA ] *gelten + zu + Infinitiv*
+### [ NA | pA ] *gelten + zu + Infinitiv* Subject demotion
+
+[cf. @engel1996: 488-489]
+
+::: ex
+- Lanz verteidigt den Sieg.
+- Jetzt gilt es für Lanz den Sieg zu verteidigen.^[~~DWDS~~: Die Zeit, 02.11.2012]
+:::
 
 ::: ex
 a. Wir verlieren den Koffer nicht.
@@ -173,7 +231,36 @@ Ohne 'es' sehr ungewöhnlich?
 
 - Besonders in ökologischer Hinsicht gilt zu beachten, dass ... (https://books.google.de/books?id=3Q5pAQAAQBAJ&pg=PA28&lpg=PA28&dq=%22gilt+zu+beachten%22+-es+-das+-was&source=bl&ots=dyayRVpIPh&sig=ZMStPiBu-ljuDfqnMBenaW4ubbI&hl=en&sa=X&ved=2ahUKEwitp_PS1-_eAhVOzYUKHewlASwQ6AEwBXoECAgQAQ)
 
+### [ NA | pA ] *heißen + zu + Infinitiv* Subject demotion
+
+[cf. @engel1996: 489-490]
+
+- Heute heißt es die Zähne zusammenzubeißen. [cf. @engel1996: 489-490]
+
 ### --- [ OBJ > SBJ > Ø ] --- {.unnumbered}
+
+### [ NA | –N ] *stehen + zu + Infinitiv* Anticausative (*Kognitionsantikausativ*) {#sec:zuinfinitive-stehen-anticausative}
+
+"stehen ist nur mit einer Reihe von epistemischen Verben kombinierbar" [@holl2010: 10, fn. 4] Bedeutung "zwangsweise gelten" und "kann sich nur mit Verben verbinden, die eine Erwartung ausdrücken" [@engel1996: 481]
+
+::: ex
+a. Ich befürchte einen weiteren Beschäftigungsabbau.
+b. Ein weiterer Beschäftigungsabbau steht zu befürchten.
+:::
+
+Nur für Verben mit einer Satzeinbettung? *bedenken, befürchten, bezweifeln, vermuten, hoffen, erwarten, lesen*
+
+- Daher steht zu erwarten, dass ...
+- Es steht zu befürchten, dass ...
+
+Special:
+
+- Auf dem Buch stand zu lesen, dass ...
+
+Without sentence embedding predicates only very few incidental examples of anticausative
+
+- Das Haus steht zu verkaufen.
+- das Schlimmste steht zu befürchten.
 
 ### [ NA | –N ] *gehen + zu + Infinitiv* Possibility + manner adverbial {#sec:zuinfinitive-gehen-adverb}
 
@@ -194,30 +281,9 @@ Also with various manner adverbs?
 
 - *löschen, reparieren*
 
-### [ NA | –N ] *stehen + zu + Infinitiv* anticausative (*Kognitionsantikausativ*) {#sec:zuinfinitive-stehen-anticausative}
+### --- [ OBJ > SBJ > ADJ ] --- *Modalpassiv* {.unnumbered}
 
-::: ex
-a. Ich befürchte einen weiteren Beschäftigungsabbau.
-b. Ein weiterer Beschäftigungsabbau steht zu befürchten.
-:::
-
-Nur für Verben mit einer Satzeinbettung? *bedenken, befürchten, bezweifeln, vermuten, hoffen, erwarten, lesen*
-
-- Daher steht zu erwarten, dass ...
-- Es steht zu befürchten, dass ...
-
-Special
-
-- Auf dem Buch stand zu lesen, dass ...
-
-Without sentence embedding predicates only very few incidental examples of anticausative
-
-- Das Haus steht zu verkaufen.
-- das Schlimmste stand zu befürchten.
-
-### --- [ OBJ > SBJ > ADJ ] --- {.unnumbered}
-
-### [ NA | –N ] *sein + zu + Infinitiv* Passive (*Modalpassiv*) {#sec:zuinfinitiv-sein-passive}
+### [ NA | pN ] *sein + zu + Infinitiv* Passive {#sec:zuinfinitiv-sein-passive}
 
 "müssen" Interpretation does not allow for the retention of the agent
 
@@ -261,7 +327,7 @@ das auch?
 
 ### --- [ Ø > SBJ > OBJ ] --- *Auftragskausativ* {.unnumbered}
 
-### [ –NA | NDA ] *geben + zu + Infinitiv* causative {#sec:zuinfinitive-geben-causative}
+### [ –NA | NDA ] *geben + zu + Infinitiv* transitive causative {#sec:zuinfinitive-geben-causative}
 
 ::: ex
 a. Ich bedenke, dass es spät ist.
@@ -275,46 +341,18 @@ Typisch mit kognitive Verben mit Satzeinbettung: *bedenken, verstehen, erkennen,
 - Ich bedenke, dass ... Er gibt mir zu bedenken, dass ...
 - Auch Herr Beutler, der auf Lebenszeit gewählt ist, hat wiederholt zu erkennen gegeben, daß sein Herz nach einem anderen Ruhm, als an der Spitze der sächsischen Residenz zu stehen, nicht begehre.
 
-Sehr unüblich ohne Satzeinbettung?
+Sehr unüblich ohne Satzeinbettung? These seem to be fixed expressions.
 
-- Ich denke über etwas. Der Protest gibt mir darüber zu denken [ –NP | NDP ]
+- Der Protest gibt mir zu denken.
 - Die Liftjungen geben mir aber heute zu schaffen!
 
-Wo ist die Grenze zu lexikales *geben*?: vgl. *essen, trinken, tun, lesen, tragen, lernen*. Diese Konstruktionen sind kohärent! [ –NA | NDA]
+Wo ist die Grenze zu lexikales *geben*?: vgl. *essen, trinken, tun, lesen, tragen, lernen*. Diese Konstruktionen sind kohärent! zwei interpretationen: geben und verursachen
 
 - Er gibt mir Milch zu trinken.
 - Er gibt mir viel zu tragen.
 - Diese Tagebücher gab sie mir zu lesen.
 - Ich gebe ihm eine Tasche zu tragen.
-
-### [ –N | NA ] *lehren + zu + Infinitiv* {#sec:zuinfinitive-lehren}
-
-less frequent: koherent with zu + Infinitiv
-
-- Meine Worte gehen unter in den Liedern, die ich euch zu singen lehrte.^[~~DWDS~~: Brückner, Christine: Wenn du geredet hättest, Desdemona, Frankfurt a. M.: Ullstein 1986, S. 7]
-- Es ehrt den Historiker, wenn er die Spuren der Geschichte ausleuchtet, sie interpretiert und zu verstehen lehrt.^[~~DWDS~~: Berliner Zeitung, 08.03.2003]
-
-
-- Es ist bekannt, dass er den Schüler [gelehrt hat] die Spuren [zu verstehen].
-- Es ist bekannt, dass er den Schüler die Spuren [zu verstehen] [gelehrt hat].
-
-### [ –N | ND ] *helfen + zu + Infinitiv* Assistive {#sec:zuinfinitive-helfen}
-
-With *zu* both coherent and non-coherent:
-
-+ AKK
-
-- Schon deshalb haben die Reifen nur ein einfaches Rillenprofil, das Aquaplaning zu verhindern hilft.^[~~DWDS~~: Die Zeit, 10.01.2013, Nr. 03]
-- … ein Rollenprofil, das hilft Aquaplaning zu verhindern.
-
-+ Dat
-
-- Die Leute kümmern sich um dich, solange du ihnen zu gewinnen hilfst.^[~~DWDS~~: Die Zeit, 17.03.2016, Nr. 13]
-- … solange du ihnen hilfst zu gewinnen.
-
-+ Dat + Akk
-
-- Bettelheim verteidigte darin den Märchen-Grusel, der den Kindern eigene Schrecken zu verarbeiten helfe.^[~~DWDS: Berliner Zeitung, 29.12.2003]
+- »Das Blut dieser Frau komme über Sie und Ihre Kinder«, gab der Baron ihm noch zu schlucken.^[~~DWDS~~ A. Zweig, Junge Frau, S. 203]
 
 ## Diatheses with object demotion
 
@@ -354,6 +392,10 @@ Agent retention as dative?
 Typische für Verben mit einer Satzeinbettung (vgl. Holl 2010: 10): *abwarten, hoffen, prüfen, entscheiden, erwägen, untersuchen, sehen, beachten, erledigen*
 
 - Ich warte ab, ob es klappt. es bleibt abzuwarten, ob es klappt.
+
+[@engel1996: 478-479] "Das Modalitätsverb *bleiben* kann zahlreiche Verben regieren, die ein willkürliches Tun bezeichnen. Vorasussetzung ist dabei, daß dieses Tun zeitlich nachgeordnet ist, also im Zeitpunkt des Erforderlich-Seins noch aussteht."
+
+- Die Gesetzesvorlage bleibt zu diskutieren.
 
 Eventuell möglich ohne *es*?
 

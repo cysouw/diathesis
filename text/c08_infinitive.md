@@ -348,7 +348,7 @@ The *tun + Infinitiv* construction [@schwarz2004] is considered substandard and 
 
 ### *bleiben + Infinitiv* Continuative (*Kontinuativ*) {#sec:infinitive-bleiben}
 
-The construction *bleiben + Infinitiv* [cf. @eisenberg2006a: 351] is typicaly used with position verbs like *sitzen* 'to sit' or *liegen* 'to lie' [@next a]. This construction with *bleiben* indicates that the position is being maintained. Some verbs denoting activities also appear possible, but examples are difficult to find [@next b], see also further examples below. Note that the combination of *bleiben* with an infinitive of a position verb is often considered to be a single word in german orthography [@next c]. This construction does not induce an IPP *Ersatzinfinitiv* [@next c].
+The construction *bleiben + Infinitiv* [cf. @eisenberg2006a: 351; @engel1996: 476] is typicaly used with position verbs like *sitzen* 'to sit' or *liegen* 'to lie' [@next a]. This construction with *bleiben* indicates that the position is being maintained. Some verbs denoting activities also appear possible, but examples are difficult to find [@next b], see also further examples below. Note that the combination of *bleiben* with an infinitive of a position verb is often considered to be a single word in german orthography [@next c]. This construction does not induce an IPP *Ersatzinfinitiv* [@next c].
 
 ::: ex
 - Nora bleibt morgens immer ewig liegen. [@schlucker2007: 142]
@@ -790,7 +790,7 @@ d. Der Clown hat mich lachen gemacht (^\*^machen).
 
 ### [ –N | NA ] *heißen + Infinitiv* Causative {#sec:infinitive-heißen}
 
-The verb *heißen* can also be used with an infinitive to express a causative meaning, though this is rather old-fashioned [@next a,b]. This diathesis does not invoke the IPP *Ersatzinfinitiv* [@next c].
+The verb *heißen* can also be used with an infinitive to express a causative meaning [cf. @engel1996: 489], though this is rather old-fashioned [@next a,b]. This diathesis does not invoke the IPP *Ersatzinfinitiv* [@next c].
 
 ::: ex
 a. Er kniete nieder.
@@ -894,7 +894,7 @@ The verb *finden* (literally meaning 'to find', but in this construction the mea
 
 ### [ –N | NA ] *lehren + Infinitiv* Assistive {#sec:infinitive-lehren}
 
-The verb *lehren* 'to teach' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ('the teacher') is introduced as a nominative and the erstwhile nominative is demoted to accusative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *lehren* remains completely transparently related to the full verb with the meaning 'to teach'. There is an alternative construction with *zu + Infinitive* (see [@sec:zuinfinitive-lehren]) that appears to have a highly similar meaning. More research is needed to elucidate any difference between these two constructions [@next b,c]. The *lehren + Infinitive* diathesis does not invoke the IPP *Ersatzinfinitiv* [@next d].
+The verb *lehren* 'to teach' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ('the teacher') is introduced as a nominative and the erstwhile nominative is demoted to accusative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *lehren* remains completely transparently related to the full verb with the meaning 'to teach'. There is an alternative construction with *zu + Infinitive* (see [@sec:zuinfinitive-coherence]) that appears to have a highly similar meaning. More research is needed to elucidate any difference between these two constructions [@next b,c]. The *lehren + Infinitive* diathesis does not invoke the IPP *Ersatzinfinitiv* [@next d].
 
 ::: ex
 a. Der Junge schwimmt.
@@ -912,7 +912,7 @@ There does not seem to be any syntactic restriction on the main lexical verbs th
 
 ### [ –N | ND ] *helfen + Infinitiv* Assistive {#sec:infinitive-helfen}
 
-The verb *helfen* 'to help' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ('the helper') is introduced as a nominative and the erstwhile nominative is demoted to dative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *helfen* remains completely transparently related to the full verb with the meaning 'to help'. There is an alternative construction with *zu + Infinitive* [@next c], see [@sec:zuinfinitive-helfen], that appears to highly similar. More research is needed to elucidate any difference between these two constructions. The *helfen + Infinitive* diathesis allows the IPP *Ersatzinfinitiv* [@next d].
+The verb *helfen* 'to help' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ('the helper') is introduced as a nominative and the erstwhile nominative is demoted to dative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *helfen* remains completely transparently related to the full verb with the meaning 'to help'. There is an alternative construction with *zu + Infinitive* [@next c], see [@sec:zuinfinitive-coherence], that appears to highly similar. More research is needed to elucidate any difference between these two constructions. The *helfen + Infinitive* diathesis allows the IPP *Ersatzinfinitiv* [@next d].
 
 ::: ex
 - Ich trage den Koffer.

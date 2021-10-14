@@ -1479,13 +1479,13 @@ b. Ihm ist nicht zu trauen.
 
 ### *Auftragsherabstufung* (*geben/gelten + zu + Infinitiv*) {#sec:summary-austragsherabstufung}
 
-The ~~Auftragsherabstufung~~ (full discussion in [@sec:zuinfinitive-geben-demotion] and subsequent sections) uses a subjectless light verbs *gelten* [@next a] or *geben* [@next b] with *zu* and an infinitive. The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the light verbs are always in the third person singular, resulting in fixed expressions *es gibt* or *es gilt*. Any other argument is simply preserved, like the accusative *den Koffer* 'the suitcase' in the examples below. The removed subject can optionally be retained with a *für* prepositional phrase. These constructions semantically invoke some kind of assignment. Additionally, the *geben* diatheses (but not *gelten*) typically is used with some kind of quantification [@next b]. The *geben* diathesis is related to the *Auftragskausativ* (see [@sec:summary-auftragskausativ]).
+The ~~Auftragsherabstufung~~ (full discussion in [@sec:zuinfinitive-geben-demotion] and subsequent sections) uses a subjectless light verbs *gelten* [@next a] or *geben* [@next b] with *zu* and an infinitive. The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the light verbs are always in the third person singular, resulting in fixed expressions *es gibt* or *es gilt*. Any other argument is simply preserved, like the accusative *den Koffer* 'the suitcase' in the examples below. The removed subject can optionally be retained with a *für* prepositional phrase (though less easy with *es gibt*). These constructions semantically invoke some kind of assignment or possibility. Additionally, the *geben* diatheses (but not *gelten*) typically is used with some kind of quantification [@next b]. The *geben* diathesis is related to the *Auftragskausativ* (see [@sec:summary-auftragskausativ]).
 
 ::: ex
 a. Wir verlieren den Koffer nicht. \
-   jetzt gilt es (für uns) den Koffer nicht zu verlieren.
-b. Wir packen den Koffer ein. \
-   Es gibt (für uns) noch viele Koffer einzupacken.
+   Jetzt gilt es (für uns) den Koffer nicht zu verlieren.
+b. Wir kaufen den Koffer. \
+   In dem Laden gibt es den Koffer ^?^(für uns) zu kaufen.
 :::
 
 ## Conciliative diatheses ~~[ADJ › SBJ › Ø]~~
@@ -1813,7 +1813,7 @@ b. Ich schreibe einen Brief. \
 
 ### *Auftragskausativ* (*geben + zu + Infinitiv*) {#sec:summary-auftragskausativ}
 
-The ~~Auftragskausativ~~ (full discussion in [@sec:zuinfinitive-geben-causative]) adds a causer by using the light verb *geben* with *zu* and an infinitive. In this diathesis the erstwhile subject becomes a dative (not an accusative). In many examples of this diathesis the meaning of this diathesis is very close to the meaning of the lexical verb *geben* 'to give'. For example with the verb *trinken* 'to drink' [@next a] the diathesis implies both 'he causes X to drink Y' and 'he gives Y to X for drinking'. However, these constructions are coherent, and thus monoclausal [@next b], so, whatever the precise semantic interpretation, this is structurally clearly a diathesis. The light-verb status of *geben* is better exemplified with verbs that take clausal complements like *bedenken* 'to consider' [@next c].
+The ~~Auftragskausativ~~ (full discussion in [@sec:zuinfinitive-geben-causative]) adds a causer by using the light verb *geben* with *zu* and an infinitive. In this diathesis the erstwhile subject becomes a dative (not an accusative). In many examples of this diathesis the meaning of this diathesis is very close to the meaning of the lexical verb *geben* 'to give'. For example with the verb *trinken* 'to drink' [@next a] the diathesis implies both the literal interpretation 'he gives X to Y for drinking' and the causative interpretation 'he causes Y to drink X'. Whatever the interpretation, this construction is coherent, and thus monoclausal [@next b], so, whatever the precise semantic interpretation, this is structurally clearly a diathesis. The light-verb status of *geben* is better exemplified with verbs that take clausal complements like *bedenken* 'to consider' [@next c].
 
 ::: ex
 a. Das Kind trinkt Milch. \

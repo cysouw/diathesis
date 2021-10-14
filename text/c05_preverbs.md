@@ -91,12 +91,12 @@ The locational particles: *da(r)-, her-, hin-* are not further investigate here.
 
 ### Preverbal verbs prefer an accusative argument {#sec:preverbs-always-accusative}
 
-The central generalisation that can be extracted from the numerous examples in this chapter is that the structural effect of a preverb diathesis (by verb prefixes or verb particles) is to produce a verb with an accusative argument. This idea is for example foreshadowed by Kim (1983) "Die *be*-Verben fordern immer eine E_akk außer bei der Funktionsgruppe der 'Intensivierung', deren Basisverben durch Präfigierung sich reflexivieren" [@kim1983: 54]. Various different diatheses have to be distinguished though.
+The central generalisation that can be extracted from the numerous examples in this chapter is that the structural effect of a preverb diathesis (by verb prefixes or verb particles) is to produce a verb with an accusative argument. This idea is for example foreshadowed by Kim (1983) "Die *be*-Verben fordern immer eine E_akk außer bei der Funktionsgruppe der 'Intensivierung', deren Basisverben durch Präfigierung sich reflexivieren" [-@kim1983: 54]. Various different diatheses have to be distinguished though.
 
 First, many verbs that do not have an accusative argument before the diathesis are turned into a verb with an accusative argument by the preverb diathesis:
 
 - With some verbs an accusative argument is added to a verb when it is prefixed. This is for example attested with the diathesis from *schlafen* 'to sleep' to *verschlafen* 'to oversleep' in [@next a], see [@sec:preverb-accusative-addition].
-- Similarly, another constituent, like a prepositional phrase, can promoted to an accusative argument. This is for example attested with the diathesis from *steigen* 'to move on top' to *besteigen* 'to climb' in [@next b], see [@sec:preverb-applicative].
+- Similarly, another constituent, like a prepositional phrase, can be promoted to an accusative argument. This is for example attested with the diathesis from *steigen* 'to move on top' to *besteigen* 'to climb' in [@next b], see [@sec:preverb-applicative].
 - Alternatively, the diathesis can turn the nominative subject into an accusative argument, combined with the addition of a new causative nominative subject. This is for example attested with the diathesis from *brennen* 'to burn' to *verbrennen* 'to burn something' in [@next c], see [@sec:preverb-causative].
 
 ::: ex
@@ -141,7 +141,7 @@ c. Der Hund ist nach Hause gelaufen. Der nach Hause gelaufene Hund. \
 Finally, there are few exceptions to the generalisation that preverb alternations always have an accusative argument:
 
 - A very small group of verbs (± 3 example) appear to lose the accusative argument completely after the preverb diathesis. This is for example attested with the diathesis from *kaufen* 'to buy' to *einkaufen* 'to go shopping' in [@next a], see [@sec:preverb-accusative-drop].
-- A small group of intransitive verbs (± 7 examples) remains intransitive after a preverb diathesis. This is for example attested with the diathesis from *blühen* 'to blossom' to *verblühen* 'to wither' in [@next b], see [@sec:preverb-intransitive-with-unaccusative]. However, note that these verbs can be used as a nominal attribute ('patientive') after the diathesis, suggesting that that argument is more object-like.
+- A small group of intransitive verbs (± 7 examples) remains intransitive after a preverb diathesis. This is for example attested with the diathesis from *blühen* 'to blossom' to *verblühen* 'to wither' in [@next b], see [@sec:preverb-intransitive-with-unaccusative]. However, note that these verbs can be used as a nominal attribute ('patientive') after the diathesis, suggesting that that argument is more object-like after the diathesis.
 - The most frequent exception (± 25 examples) are intransitive verbs that show a prepositional phrase turning into a dative argument with a preverb diathesis. This is for example attested with the diathesis from *jagen* 'to hunt' to *nachjagen* 'to chase' in [@next c], see [@sec:preverb-dative-applicative].
 
 ::: ex
@@ -205,7 +205,7 @@ Preverbal verbs with existing roots, though no semantic relationship
 - *zergehen, zerlassen, zersetzen*
 :::
 
-In the extreme case, the original root of the preverbal verb does (not anymore) exist in German [@next].
+In the extreme case, the original root of the preverbal verb does not (anymore) exist in German [@next].
 
 ::: ex
 Preverbal verbs with non-existing verbal roots in German
@@ -241,7 +241,7 @@ b. Das Schiff versinkt im Meer.
 
 ### [ N | N ] Preverb intransitives without diathesis {#sec:preverb-intranstive-without-diathesis}
 
-It is rather unusual for the prefixed version of intransitive verbs to not show any valency change [@next a,b], not even a difference between the usage of the attributive participles [@next c,d]. It seems to be slightly more common for only the prefixed participle to be open for attributive usage (see [@sec:preverb-intransitive-with-unaccusative]).
+It is rather unusual for the prefixed version of ~~intransitive~~ verbs to not show any valency change [@next a,b], not even a difference between the usage of the attributive participles [@next c,d]. It seems to be slightly more common for only the prefixed participle to be open for attributive usage (see [@sec:preverb-intransitive-with-unaccusative]).
 
 ::: ex
 a. Die Milch kocht.
@@ -283,7 +283,7 @@ d. ^* Der mitgearbeitete Student ist fertig.
 
 ### [ NA | NA ] Preverb transitives without diathesis {#sec:preverb-transitive-without-diathesis}
 
-It is very common for transitive nominative-accusative verbs to remain transitive when prefixed [@next a]. The participles of both verbs can be used attributively [@next b]. The examples presented in this section are in no way intended to be a complete listing, but only serve as a illustration for this phenomenon. This group of preverb alternations without valency change appears to be very large.
+It is very common for ~~transitive~~ nominative-accusative verbs to remain transitive when prefixed [@next a]. The participles of both verbs can be used attributively [@next b]. The examples presented in this section are in no way intended to be a complete listing, but only serve as a illustration for this phenomenon. This group of preverb alternations without valency change appears to be very large.
 
 ::: ex
 a. Ich lagere die Kartoffeln im Keller. \
@@ -353,7 +353,7 @@ b. Die Vorstellung verspätet sich.
 
 ### --- Patientive alternations --- {.unnumbered}
 
-Some intransitives show a peculiar phenomenon when prefixed: they are still intransitive but become more patient-like in that the participle can be used attributively (one of the characteristics often discussed under the heading of the 'unaccusative hypothesis', see [@sec:participles-restrictions]). For example, the verbs *schlafen* 'to sleep' [@next a] and *einschlafen* 'to fall asleep' [@next b] are both intransitive. However, only *eingeschlafen* can be used attributively [@next c,d], see [@sec:preverb-intransitive-with-unaccusative].
+Some intransitives show a peculiar phenomenon when prefixed: they are still intransitive but the subject becomes more patient-like in that the participle can be used attributively (one of the characteristics often discussed under the heading of the 'unaccusative hypothesis', see [@sec:participles-restrictions]). For example, the verbs *schlafen* 'to sleep' [@next a] and *einschlafen* 'to fall asleep' [@next b] are both intransitive. However, only *eingeschlafen* can be used attributively [@next c,d], see [@sec:preverb-intransitive-with-unaccusative].
 
 ::: ex
 a. Der Junge schläft.
