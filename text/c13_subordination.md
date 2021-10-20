@@ -202,6 +202,8 @@ The transitive *angehen* 'attack' has a different meaning
 
 ### [ NPZ]
 
+preposition control
+
 **Attested Verbs**
 
 - *appellieren*
@@ -450,9 +452,23 @@ Dative control
 - Er winkt ihm weiter zu fahren. Er winkte ihm.
 - Seine Rückkehr bedeutete ihr einen Trost. Ich bedeute dem Kind zu gehen (veraltet 'belehren')
 
+### [ NPA | NPZ ]
+
+preposition control
+
+**Attested Verbs**
+
+- *erwarten, fordern, verlangen*
+
+**Examples**
+
+- Ich erwarte von dir eine Antwort. Ich erwarte von dir den Rasen zu mähen.
+
 ## Nominative subordination alternations
 
 ### [ NP | ZP]
+
+hidden control!
 
 **Attested Verbs**
 
@@ -685,7 +701,8 @@ Nominative control
 Only coherent constructions possible
 
 - Es ist bekannt, dass du ihm nicht zu helfen brauchst ^* du nicht brauchst Hilfe zu holen.
-- Es ist bekannt, dass ie ihren Enkeln Geld zu geben pflegt ^* sie pflegt ihren Ekeln Geld zu geben.
+- Es ist bekannt, dass sie ihren Enkeln Geld zu geben pflegt ^* sie pflegt ihren Ekeln Geld zu geben.
+- Die Alten haben gepflegt zu sagen ... (Mattioli, Pietro Andrea: Theatrvm Botanicvm, Das ist: Neu Vollkommenes Kräuter-Buch (Übers. Theodor Zwinger). Basel, 1690.)
 
 ### [ NP | NZ | -Z ] *anfangen, aufhören, beginnen* 
 

@@ -518,7 +518,7 @@ A diathetical operation is change that happens in the marking of the participant
 
 In the analysis of diathetical operations in this book I will use the following abbreviations, as summarised in [@fig:abbreviations]. First, ~~grammatical expressions~~, i.e. actual grammatical forms as identified in traditional German grammar, are abbreviated with single letters, shown at the right side of the figure. For case-marked noun phrases I will use the easily recognizable capital letters 'NADG' for nominative, accusative, dative and genitive respectively. As argued earlier (see [@sec:intro-arguments-utterance-valency]) there are also prepositional phrases that express lexically-determined roles. These will also be abbreviated with capital letters: 'L' for obligatory locations and 'P' for governed prepositional phrases.
 
-![Abbreviations used to describe role-remapping](../figures/abbreviations.png){#fig:abbreviations}
+![Abbreviations used to describe role-remapping](figures/abbreviations){#fig:abbreviations}
 
 Lower-cased letters are used for non-argument participants in the clause: 'p' for non-governed prepositional phrases and 'g' for adnominal genitives. Adnominal genitives become relevant because in some diatheses a newly introduced participant is inherently the possessor of another participant (see [@par:possraising]). Absence of a specific role will be indicated by a '–' dash. Lower-cased 'a' and 'd' are only used in [@sec:reflexive-no-diathesis] to indicate accusative and dative reflexive pronouns in referential usage. As described in much detail in that chapter, it is important to distinguish between reflexive pronouns in German that refer to a lexical role (i.e. 'referential' or 'real' reflexive constructions) and reflexive pronouns that mark a diathesis without referring to a separate role themselves. Those latter reflexive pronouns, that are not marking any role, are not abbreviated by lowercased 'a' or 'd'.
 
@@ -877,7 +877,7 @@ b. Die Motoren donnerten.
 
 Chained diatheses that involve the nominative subject are widespread in German (in contrast to the infrequent occurrence of isolated diatheses as discussed previously). [@fig:subjectchains] presents an overview of the different terms that I will use for these diatheses. The bold-faced terms are used for widely attested diatheses, while the other kinds of diatheses are only incidentally found. There is currently no evidence in German for the remappings that are left empty in the figure. There appears to be a preference for various kinds of demotion (i.e. the upper right corner of the figure), which fits nicely with the known typological preference of German for anticausative constructions [@haspelmath1993a: 101; @nichols2004: 189].
 
-![Names for chained macro-role remappings involving the subject](../figures/subjectchains.png){#fig:subjectchains}
+![Names for chained macro-role remappings involving the subject](figures/subjectchains){#fig:subjectchains}
 
 The upper right triangle of [@fig:subjectchains] are demotions, the lower left triangle are promotions, and the diagonal are examples of symmetrical diatheses. I will discuss all types in this order.
 
@@ -1090,7 +1090,7 @@ The situation with object diatheses is reversed from the previously discussed su
 The top left diatheses in [@fig:objectdiatheses] are demotions, while the bottom left ones are promotions.
 The bottom right is completely empty because these remappings are not diatheses anymore, but simply optional marking. There is a strong tendency for object demotions to be either unmarked or marked by reflexive pronouns in German, while the object promotions are typically marked by preverbs or obligatory adverbs. The exception to this generalisation are the so-called locative and delocative diatheses. With those, promotions (locatives) are formally unmarked, while demotions (delocatives) are marked by preverbs or obligatory adverbs. I have currently no explanation for this rather clear markedness pattern.
 
-![Names for isolated remappings without involvement of the subject](../figures/objectdiatheses.png){#fig:objectdiatheses}
+![Names for isolated remappings without involvement of the subject](figures/objectdiatheses){#fig:objectdiatheses}
 
 I will discuss the different role-remappings from [@fig:objectdiatheses] in four subsections. First, I will look at the various kinds of applicatives and antipassives (mid left and mid top), then at the objectives and deobjectives (top right and left bottom), followed by locative and delocative diatheses (mid bottom and mid right), and finally at the symmetrical exchanges (on the diagonal).
 
@@ -1312,7 +1312,7 @@ b. Ich bewundere die Ehrlichkeit bei ihm.
 
 Chains of object diatheses (i.e. chains with the object in the middle of the chain) can always be interpreted as a combination of two isolated ('single') diatheses from the previous section. However, not all theoretically possible combinations are attested (see [@fig:objectchains]). The pattern of which chains are attested is clearly not-random, though I do not have an insightful rationale for the distribution as shown in the figure.
 
-![Attested chains of object diathesis](../figures/objectchains.png){#fig:objectchains}
+![Attested chains of object diathesis](figures/objectchains){#fig:objectchains}
 
 #### Full applicatives {.unnumbered}
 

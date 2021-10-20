@@ -397,7 +397,7 @@ A special construction using *haben* with infinitive describes a situation in wh
 
 ### *lernen + Infinitiv* {#sec:infinitive-lernen}
 
-The verb *lernen* 'to learn' can both occur in a construction with an infinitive [@next a] and with *zu* plus infinitive [@next b], see also [@sec:zuinfinitive-lernen].
+The verb *lernen* 'to learn' can both occur in a construction with an infinitive [@next a] and with *zu* plus infinitive [@next b], see also [@sec:zuinfinitive-coherence].
 
 ::: ex
 - Das Baby läuft. \
@@ -798,7 +798,7 @@ b. Der Henker hieß ihn niederknieen.
 c. Der Henker hat ihn niederknieen geheißen (^\*^heißen).
 :::
 
-#**Examples**
+**Examples**
 
 - Eins von den Kindern hieß er zum Doktor laufen.^[~~DWDS~~: Ganghofer, Ludwig: Der Dorfapostel, Stuttgart: Adolf Bonz 1900, S. 124]
 - Hierauf hat mich der Vater in sein Arbeitsgemach geführt, hat mich auf den weichsten Sessel niedersitzen geheißen.^[~~DWDS~~: Rosegger, Peter: Die Schriften des Waldschulmeisters. Pest, 1875.]

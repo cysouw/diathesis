@@ -20,9 +20,20 @@ The element *zu* is obviously related to the preposition *zu*, which has a bewil
 
 Only constructions with obligatory coherence here!
 
-*lehren/helfen* with *zu* both coherent and non-coherent:
+[@wurmbrand2012: 318-319; @rapp2013]
+
+*anfangen, aufhören, beginnen, drohen, erlauben, heißen, helfen, lehren, lernen, verbieten, vergessen, verlangen, versprechen, versuchen, wagen* with *zu* both coherent and non-coherent:
+
+gedenken (old fashioned)
+
+nicht brauchen (= *müssen* 'must')
+scheinen (= *wirken* 'appear')
+drohen (= *in Gefahr sein* 'to be in danger of')
+gedenken (= *wollen* 'to want')
+verstehen (= *können* 'be able to')
 
 ::: ex
+- Der Schüler löst die Aufgaben. [ –NA | NDA ]
 - Es ist bekannt, dass er den Schüler [gelehrt hat] die Aufgaben [zu lösen].\
   Es ist bekannt, dass er den Schüler die Aufgaben [zu lösen] [gelehrt hat].
 - Es ist bekannt, dass er dem Schüler [geholfen hat] die Aufgaben [zu lösen].\
@@ -41,11 +52,51 @@ less frequent: koherent with zu + Infinitiv
 - Bettelheim verteidigte darin den Märchen-Grusel, der den Kindern eigene Schrecken zu verarbeiten helfe.^[~~DWDS: Berliner Zeitung, 29.12.2003]
 :::
 
+without *zu* see [@sec:infinitive-lernen]
+
+- Ich schreibe meiner Oma monatlich einen Brief. \
+  Ich lerne meiner Oma monatlich einen Brief (zu) schreiben.
+
+::: ex
+- Sie nimmt Platz.
+- Er hat sie geheißen, Platz zu nehmen
+:::
+
+(nominative control): Er hat den Brief geschrieben. Er hat den Brief zu schreiben begonnen. [ N | N ]
+
+raising?
+
+(accusative control): Jesus hat uns Gott neu zu verstehen gelehrt (Berliner Zeitung, 02.04.1994). [ -N | NA ]
+(dative control): Er verbietet mir den Brief zu schreiben. [ –N | ND ]
+(preposition control): Er verlangt von mir den Brief zu schreiben. [ –N | NP ]
+
+=> only obligatory coherent raising/kausativ is *geben*
+
+"lowering" ?!
+
+[ NA | pA ] *heißen + zu + Infinitiv* Subject demotion
+
+both coherent and non-coherent
+
+- Heute heißt es die Zähne zusammenzubeißen.^[[@engel1996: 489-490]]
+- Da hieß es für uns, still zu sitzen und zuzuhören.^[~~DWDS~~: Die Zeit, 22.11.2012, Nr. 48]
+- Dafür sind Radfahrern manche landschaftlich besonders schöne Abschnitte des Pilgerfußweges in Spanien verschlossen, wenn es auf schmalen, steinigen Wegen bergauf und bergab zu laufen heißt.^[~~DWDS~~: Die Zeit, 05.04.1991, Nr. 15]
+- das hätte geheißen, den Dritten Weltkrieg zu riskieren.^[Berliner Zeitung, 29.04.1995]
+
+Much variation possible?
+
+- Jetzt heißt es aufpassen/aufzupassen/aufgepasst.
+
+
 ## Deponent verbs without alternations
 
 Not attested.
 
 ## Alternations without diathesis
+
+## --- Modal-like --- (*Modalitätsverben*) {.unnumbered}
+
+*drohen* is also sometimes mentioned in this context ('Halbmodale'), but *drohen* is clearly both coheren and non-coherent.
 
 ### *haben + zu + Infinitiv* {#sec:zuinfinitive-haben}
 
@@ -71,16 +122,49 @@ b. Die Schüler haben die Aufgaben zu lösen.
 - Er hat nichts zu erwarten.
 - Der Fürst hatte (über) dieses Land zu befehlen
 
-### *wissen + zu + Infinitiv* {#sec:zuinfinitive-wissen}
+### *wissen/vermögen + zu + Infinitiv* {#sec:zuinfinitive-wissen}
 
 "können" Interpretation
 
 - Der Lehrer begeistert die Schüler.
 - Der Lehrer weiß die Schüler zu begeistern.
-- Es ist bekannt, dass der Lehre die Schüler zu begeistern weiß.
+- Es ist bekannt, dass der Lehrer die Schüler zu begeistern weiß.
 - Ich schätze deinen Einsatz.
 - Ich weiß deinen Einsatz zu schätzen.
 - Ich weiß ihn nirgends einzuordnen. (https://www.philaseiten.de/cgi-bin/index.pl?PR=51029)
+
+### *scheinen + zu + Infinitiv* {#sec:zuinfinitive-scheinen}
+
+[@pafel1989]
+
+- Er schläft. Er scheint zu schlafen. (... dass er zu schlafen scheint.)
+- Er kauft einen Kaffee. Er scheint einen Kaffee zu kaufen. (... dass er einen Kaffee zu kaufen scheint. )
+
+Only coherent construction possible
+
+- Es ist bekannt, dass er ihm ein Buch zu geben scheint.
+- ^* Es ist bekannt, dass er scheint ihm ein Buch zu geben.
+
+Additional dative experiencer possible
+
+- es regnet.
+- es scheint zu regnen.
+- es scheint mir zu regnen.
+
+### *brauchen + zu + Infinitiv* {#sec:zuinfinitive-brauchen}
+
+moving towards modal status? [@sec:infinitive-brauchen]
+
+Always with negation? meaning *nicht müssen*
+
+- Du brauchst die Kleider nicht zu waschen.
+- Es ist bekannt, dass du die Kleider nicht (zu?) waschen brauchst.
+
+### *pflegen + zu + Infinitiv*
+
+special meaning *gewöhnlich tun*
+
+- Sie pflegte laut zu lachen. Es ist bekannt, dass sie laut zu lachen pflegte.
 
 ### *kommen + zu + Infinitiv* {#sec:zuinfinitive-kommen}
 
@@ -118,28 +202,6 @@ Handlungsverben 5,6% [@jager2013: 201]
 
 - Ich habe mancherlei zu sehen bekommen
 
-### *scheinen + zu + Infinitiv* {#sec:zuinfinitive-scheinen}
-
-[@pafel1989]
-
-- Er schläft. Er scheint zu schlafen. (... dass er zu schlafen scheint.)
-- Er kauft einen Kaffee. Er scheint einen Kaffee zu kaufen. (... dass er einen Kaffee zu kaufen scheint. )
-
-### *brauchen + zu + Infinitiv* {#sec:zuinfinitive-brauchen}
-
-moving towards modal status? [@sec:infinitive-brauchen]
-
-- Du brauchst die Kleider nicht zu waschen.
-- Es ist bekannt, dass du die Kleider nicht (zu?) waschen brauchst.
-
-### *lernen + zu + Infinitiv* {#sec:zuinfinitive-lernen}
-
-without *zu* see [@sec:infinitive-lernen]
-
-- Ich schreibe meiner Oma monatlich einen Brief. \
-  Ich lerne meiner Oma monatlich einen Brief (zu) schreiben.
-
-
 ## Diatheses with subject demotion
 
 ### --- [ SBJ > Ø ] --- *Unpersönlicher Modalpassiv* {.unnumbered}
@@ -168,7 +230,9 @@ With dative-verbs possible, though only with very few incidental examples [contr
 
 ### --- [ SBJ > ADJ ] --- *Auftragsherabstufung* {.unnumbered}
 
-### [ NA | pA ] *geben + zu + Infinitiv* Subject demotion
+also *heißen*, but not always coheren
+
+### [ NA | pA ] *geben + zu + Infinitiv* Subject demotion {#sec:zuinfinitive-geben-demotion}
 
 Complete examples are rare [@next a]. Construction is coherent [@next b]. [cf. @engel1996: 488]
 
@@ -230,12 +294,6 @@ müssen, Plan
 Ohne 'es' sehr ungewöhnlich?
 
 - Besonders in ökologischer Hinsicht gilt zu beachten, dass ... (https://books.google.de/books?id=3Q5pAQAAQBAJ&pg=PA28&lpg=PA28&dq=%22gilt+zu+beachten%22+-es+-das+-was&source=bl&ots=dyayRVpIPh&sig=ZMStPiBu-ljuDfqnMBenaW4ubbI&hl=en&sa=X&ved=2ahUKEwitp_PS1-_eAhVOzYUKHewlASwQ6AEwBXoECAgQAQ)
-
-### [ NA | pA ] *heißen + zu + Infinitiv* Subject demotion
-
-[cf. @engel1996: 489-490]
-
-- Heute heißt es die Zähne zusammenzubeißen. [cf. @engel1996: 489-490]
 
 ### --- [ OBJ > SBJ > Ø ] --- {.unnumbered}
 
@@ -330,8 +388,10 @@ das auch?
 ### [ –NA | NDA ] *geben + zu + Infinitiv* transitive causative {#sec:zuinfinitive-geben-causative}
 
 ::: ex
-a. Ich bedenke, dass es spät ist.
-b. Er gibt mir zu bedenken, dass es spät ist.
+a. Ich bedenke, dass es schon spät ist.
+b. Er gibt mir zu bedenken, dass es schon spät ist.
+c. Er hat mir zu bedenken gegeben, dass es schon spät ist.
+d. ^* Er hat mir gegeben zu bedenken, dass es schon spät ist.
 :::
 
 zu $p=VVINF geben &&! es

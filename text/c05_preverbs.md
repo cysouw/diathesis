@@ -2062,7 +2062,7 @@ b. Er erzwingt ein Geständnis von ihm.
 
 **Attested Verbs**
 
-erˈ- : *bitten, fragen, pressen, zwingen*
+erˈ : *bitten, fragen, pressen, zwingen*
 
 **Examples**
 
