@@ -9,7 +9,7 @@ a. Das Gemälde wird (von einem Künstler) gemalt.
 b. Der Künstler malt ein Gemälde.
 :::
 
-This approach to diathesis, viz. different grammatical sentence structures that express approximately the same state-of-affairs, is applicable to a large number of grammatical phenomena in German. For example, some verbs allow for passive-like constructions without any *werden* auxiliary, often called 'anticausative' [@next a]. Other verbs allow for an alternation between a case-marked accusative and a prepositional phrase, often called 'antipassive' [@next b]. Further, there exist many different kinds of diathesis marked by a reflexive pronoun *sich* [@next c] or marked by preverbs like *ent-* [@next d]. Many auxiliary-like construction beyond the *werden + Infinitiv* passive also show diathesis, e.g. *sein + zu + Infinitiv* [@next e].^[Many examples in this book contain masculine nouns, not because of laziness on my behalf, but because their definite articles overtly show the different German cases (*der, des, dem, den*). Notwithstanding this grammatical preference, I will try to use examples with as much diversity as possible throughout this book.]
+This approach to diathesis, viz. different grammatical sentence structures that express approximately the same state-of-affairs, is applicable to a large number of grammatical phenomena in German. For example, some verbs allow for passive-like constructions without any *werden* auxiliary, often called 'anticausative' [@next a]. Other verbs allow for an alternation between a case-marked accusative and a prepositional phrase, often called 'antipassive' [@next b]. Further, there exist many different kinds of diathesis marked by a reflexive pronoun *sich* [@next c] or marked by preverbs like *ent-* [@next d]. Many auxiliary-like construction beyond the *werden + Infinitiv* passive also show diathesis, e.g. *sein + zu-Infinitiv* [@next e].^[Many examples in this book contain masculine nouns, not because of laziness on my behalf, but because their definite articles overtly show the different German cases (*der, des, dem, den*). Notwithstanding this grammatical preference, I will try to use examples with as much diversity as possible throughout this book.]
 
 ::: ex
 a. Der Doktor heilt den Schmerz. \
@@ -666,7 +666,7 @@ b. Der Lehrer lässt den Schüler die Aufgabe lösen.
 c. Diese Aufgabe lässt sich lösen.
 :::
 
-Similarly, the alternation using the light verb *gehen + zu + Infinitiv* necessarily needs an additional evaluative adverb or negation [@next], see [@sec:zuinfinitive-gehen-adverb]. The light verb construction does not seem possible without the adverbial [@next c].
+Similarly, the alternation using the light verb *gehen + zu-Infinitiv* necessarily needs an additional evaluative adverb or negation [@next], see [@sec:zuinfinitive-gehen-adverb]. The light verb construction does not seem possible without the adverbial [@next c].
 
 ::: ex
 a. Ich lösche die Dateien.
@@ -846,7 +846,7 @@ b. Hier wird getanzt.
 c. ^* Hier wird es getanzt.
 :::
 
-A different kind of isolated subject diathesis is ~~subject demotion~~ of the nominative subject to a prepositional phrase. An example is the *geben + zu + Infinitiv* [@next], see [@sec:zuinfinitive-geben-demotion]. In this diathesis, the subject is demoted to an optional non-governed prepositional phrase ~~[SBJ › ADJ]~~.
+A different kind of isolated subject diathesis is ~~subject demotion~~ of the nominative subject to a prepositional phrase. An example is the *geben + zu-Infinitiv* [@next], see [@sec:zuinfinitive-geben-demotion]. In this diathesis, the subject is demoted to an optional non-governed prepositional phrase ~~[SBJ › ADJ]~~.
 
 ::: ex
 ~~Subject demotion [SBJ › ADJ]~~
@@ -979,7 +979,7 @@ b. Ich lasse den Jungen schlafen. \
    (= Ich erlaube, das der Junge weiter schläft.)
 :::
 
-Finally, the *lehren/helfen + Infinitiv* diathesis [@next], see [@sec:infinitive-lehren], is a novative in which the role of the new subject is more of an assistant than a real causative. Therefor it is called here an ~~assistive~~ novative. Note that both *lehren* and *helfen* can also be used with *zu + Infinitiv*, but then the constructions are not coherent, so those constructions are not included among the diatheses.
+Finally, the *lehren/helfen + Infinitiv* diathesis [@next], see [@sec:infinitive-lehren], is a novative in which the role of the new subject is more of an assistant than a real causative. Therefor it is called here an ~~assistive~~ novative. Note that both *lehren* and *helfen* can also be used with *zu-Infinitiv*, but then the constructions are not coherent, so those constructions are not included among the diatheses.
 
 ::: ex
 ~~Assistive novative [Ø › SBJ › OBJ]~~
@@ -1038,7 +1038,7 @@ a. Dein Verhalten wundert mich.
 b. Ich bewundere dein Verhalten.
 :::
 
-Much more widespread in German are diatheses in which a nominative/accusative construction is inverted into a dative/nominative construction. This is for example attested for the *bleiben + zu + Infinitiv* diathesis [@next], see [@sec:zuinfinitive-bleiben]. Because dative and accusative are both classified here as ~~OBJ~~, this counts as an inversive diathesis. However, when a separation between core (accusative) and non-core (dative/genitive) case would be pursued (see [@par:corecase]), then this diathesis would be an example of demotion. There are two remappings, namely down from ~~SBJ~~ to ~~non-core OBJ~~ and up from ~~core OBJ~~ to ~~SBJ~~. When non-core is taken as being lower on the macrorole hierarchy [@ex:macrorolehierarchy] then the biggest jump is the jump down, which is the definition of demotion (see [@sec:intro-remapping]). Instead of adding a completely new set of categories I propose to simply split ~~inversive~~ and call this phenomenon ~~demoted inversive~~. 
+Much more widespread in German are diatheses in which a nominative/accusative construction is inverted into a dative/nominative construction. This is for example attested for the *bleiben + zu-Infinitiv* diathesis [@next], see [@sec:zuinfinitive-bleiben]. Because dative and accusative are both classified here as ~~OBJ~~, this counts as an inversive diathesis. However, when a separation between core (accusative) and non-core (dative/genitive) case would be pursued (see [@par:corecase]), then this diathesis would be an example of demotion. There are two remappings, namely down from ~~SBJ~~ to ~~non-core OBJ~~ and up from ~~core OBJ~~ to ~~SBJ~~. When non-core is taken as being lower on the macrorole hierarchy [@ex:macrorolehierarchy] then the biggest jump is the jump down, which is the definition of demotion (see [@sec:intro-remapping]). Instead of adding a completely new set of categories I propose to simply split ~~inversive~~ and call this phenomenon ~~demoted inversive~~. 
 
 ::: ex
 ~~Demoted inversive [OBJ › SBJ › OBJ]~~
@@ -1466,7 +1466,7 @@ a. Ich arbeite zuhause.
 b. Zuhause lässt (es) sich gut arbeiten.
 :::
 
-### *Unpersönlicher Modalpassiv* (*sein + zu + Infinitiv*) {#sec:summary-unpersonlicher-modalpassiv}
+### *Unpersönlicher Modalpassiv* (*sein + zu-Infinitiv*) {#sec:summary-unpersonlicher-modalpassiv}
 
 The ~~Unpersönlicher Modalpassiv~~ (full discussion in [@sec:zuinfinitive-sein-impersonal] and subsequent sections) consists of a light verb *sein* with *zu* and an infinitive. It is found with incidental intransitive verbs, but more typically with verbs with a dative argument (but no accusative) like *helfen* 'to help' or *trauen* 'to trust' [@next]. In this diathesis the nominative subject is dropped and cannot be retained in any other form. There is also no valency-simulating *es* present. The name 'passive' is actually besides the point for this diathesis, but it is used here because this construction is closely related to the ~~Modalpassiv~~ (see [@sec:summary-modalpassiv]).
 
@@ -1477,7 +1477,7 @@ b. Ihm ist nicht zu trauen.
 
 ## Demoted subject diatheses ~~[SBJ › ADJ]~~
 
-### *Auftragsherabstufung* (*geben/gelten + zu + Infinitiv*) {#sec:summary-austragsherabstufung}
+### *Auftragsherabstufung* (*geben/gelten + zu-Infinitiv*) {#sec:summary-austragsherabstufung}
 
 The ~~Auftragsherabstufung~~ (full discussion in [@sec:zuinfinitive-geben-demotion] and subsequent sections) uses a subjectless light verbs *gelten* [@next a] or *geben* [@next b] with *zu* and an infinitive. The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the light verbs are always in the third person singular, resulting in fixed expressions *es gibt* or *es gilt*. Any other argument is simply preserved, like the accusative *den Koffer* 'the suitcase' in the examples below. The removed subject can optionally be retained with a *für* prepositional phrase (though less easy with *es gibt*). These constructions semantically invoke some kind of assignment or possibility. Additionally, the *geben* diatheses (but not *gelten*) typically is used with some kind of quantification [@next b]. The *geben* diathesis is related to the *Auftragskausativ* (see [@sec:summary-auftragskausativ]).
 
@@ -1584,7 +1584,7 @@ a. Die Stille entspannt ihn.
 b. Er gibt sich entspannt \*(durch die Stille).
 :::
 
-### *Kognitionsantikausativ* (*stehen + zu + Infinitiv*) {#sec:summary-kognitionsantikausativ}
+### *Kognitionsantikausativ* (*stehen + zu-Infinitiv*) {#sec:summary-kognitionsantikausativ}
 
 The ~~Kognitionsantikausativ~~ (full discussion in [@sec:zuinfinitive-stehen-anticausative]) uses a light verb *stehen* with *zu* and infinitive. The original accusative object is promoted to subject and the erstwhile nominative subject cannot be retained, so this clearly is an anticausative diathesis. However, examples with an explicitly accusative noun phrase as in [@next a] are actually rare. Typically, this diatheses is found with cognitive predicates, like *befürchten* 'to fear', with a *dass* complement clause [@next b]. Functionally, this complement clause has the same status as an accusative object. Note that complement clauses typically come towards the end of the sentence in German, and then the first position of the sentence often has to be filled with a position-simulating pronoun *es* (which is removed when the first position is filled otherwise).
 
@@ -1615,7 +1615,7 @@ a. Der Pförtner schließt die Tür.
 b. Die Tür lässt sich schließen (von dem Pförtner).
 :::
 
-### *Modalpassiv* (*sein + zu + infinitive*) {#sec:summary-modalpassiv}
+### *Modalpassiv* (*sein + zu-Infinitiv*) {#sec:summary-modalpassiv}
 
 The ~~Modalpassiv~~ (full discussion in [@sec:zuinfinitiv-sein-passive]) is constructed using the light verb *sein* with *zu* and an infinitive. When applied to transitive verbs like *führen* 'to lead' [@next a] or *lösen* 'to solve' [@next b] this diathesis promotes the accusative to nominative subject. The erstwhile nominative subject can be retained as a prepositional phrase. This diathesis has two different interpretations. It can indicate either an deontic modality ('must') as in [@next a] or an ability ('can') as in [@next b]. Note that the subject retention with the preposition *für* is only possible in the ability-interpretation. The closely related *Unpersönlicher Modalpassiv* is used with intransitives and only allows for the deontic interpretation (see [@sec:summary-unpersonlicher-modalpassiv]).
 
@@ -1700,7 +1700,7 @@ d. Der Kunde ist empört über den Preis.
 
 ## Inversive diatheses ~~[OBJ › SBJ › OBJ]~~
 
-### *Restinversiv* (*bleiben + zu + Infinitiv*) {#sec:summary-restinversiv}
+### *Restinversiv* (*bleiben + zu-Infinitiv*) {#sec:summary-restinversiv}
 
 The ~~Restinversive~~ (full discussion in [@sec:zuinfinitive-bleiben]) uses the light verb *bleiben* with *zu* and an infinitive. This diathesis reverses the expression of the roles in that the accusative is promoted to a nominative, while the original nominative is demoted to an (optional) dative. Because the demotion is 'larger' than the promotion this would be called a ~~demoted inversive~~. Semantically, this diatheses expresses that (some part of) the patient is still left over to be applied to the verb.
 
@@ -1811,7 +1811,7 @@ b. Ich schreibe einen Brief. \
    Sie bringt mich zum Briefeschreiben.
 :::
 
-### *Auftragskausativ* (*geben + zu + Infinitiv*) {#sec:summary-auftragskausativ}
+### *Auftragskausativ* (*geben + zu-Infinitiv*) {#sec:summary-auftragskausativ}
 
 The ~~Auftragskausativ~~ (full discussion in [@sec:zuinfinitive-geben-causative]) adds a causer by using the light verb *geben* with *zu* and an infinitive. In this diathesis the erstwhile subject becomes a dative (not an accusative). In many examples of this diathesis the meaning of this diathesis is very close to the meaning of the lexical verb *geben* 'to give'. For example with the verb *trinken* 'to drink' [@next a] the diathesis implies both the literal interpretation 'he gives X to Y for drinking' and the causative interpretation 'he causes Y to drink X'. Whatever the interpretation, this construction is coherent, and thus monoclausal [@next b], so, whatever the precise semantic interpretation, this is structurally clearly a diathesis. The light-verb status of *geben* is better exemplified with verbs that take clausal complements like *bedenken* 'to consider' [@next c].
 
@@ -2358,9 +2358,9 @@ b. Der Hund kommt angerannt.
 
 ## Infinitive epitheses
 
-### *Modalverben*
+### *Modalverben* (*brauchen/dürfen/können/mögen/müssen/sollen/werden/wollen + Infinitiv*)
 
-(full discussion in [@sec:infinitive-modals] and subsequent sections) *dürfen/können/mögen/möchten/müssen/sollen/wollen + Infinitiv*, also *werden/brauchen*
+(full discussion in [@sec:infinitive-modals] and subsequent sections) *dürfen/können/mögen/müssen/sollen/wollen + Infinitiv*, also *werden/brauchen*
 
 ::: ex
 a. Ich baue ein Haus.
@@ -2407,27 +2407,38 @@ a. Er lacht.
 b. Er hat gut lachen.
 :::
 
-## Infinitive epitheses with *zu/zum/am*
+## *zu*-Infinitive epitheses
 
-### *Obligativ-zu-infinitiv* (*haben + zu + Infinitiv*)
+### *Habitualis* (*pflegen + zu-Infinitiv*)
 
-(full discussion in [@sec:zuinfinitive-haben]) "können"
+### *Obligativ* (*haben/brauchen + zu-Infinitiv*)
+
+(full discussion in [@sec:zuinfinitive-haben]) "müssen"
 
 ::: ex
 a. Die Schüler lösen die Aufgaben.
 b. Die Schüler haben die Aufgaben zu lösen.
 :::
 
-### *Potentialis-zu-infinitiv* (*wissen + zu + Infinitiv*)
+### *Kompetentiv* (*wissen/vermögen/verstehen + zu-Infinitiv*)
 
-(full discussion in [@sec:zuinfinitive-wissen]) "müssen"
+(full discussion in [@sec:zuinfinitive-wissen]) "können"
 
 ::: ex
 a. Der Lehrer begeistert die Schüler.
 b. Der Lehrer weiß die Schüler zu begeistern.
 :::
 
-### *Patiens-zu-infinitiv* (*kommen + zu + Infinitiv*)
+### *Evidentialis* (*scheinen/drohen/versprechen + zu-Infinitiv*)
+
+(full discussion in [@sec:zuinfinitive-scheinen])
+
+::: ex
+a. Er schläft.
+b. Er scheint zu schlafen.
+:::
+
+### *Versteckter Kausativ* (*bekommen/kommen/kriegen + zu-Infinitiv*)
 
 (full discussion in [@sec:zuinfinitive-kommen]) "es passierte"
 
@@ -2436,8 +2447,6 @@ a. Sie stand neben mir.
 b. Sie kam neben mir zu stehen.
 :::
 
-### *Rezipienten-zu-infinitiv* (*bekommen + zu + Infinitiv*)
-
 (full discussion in [@sec:zuinfinitive-bekommen])
 
 ::: ex
@@ -2445,13 +2454,15 @@ a. Er seiht einen Film.
 b. Er bekommt einen Film zu sehen.
 :::
 
-### *Erscheinungsinfinitiv* (*scheinen + zu + Infinitiv*)
+## *zum/am*-Infinitive epetheses
 
-(full discussion in [@sec:zuinfinitive-scheinen])
+### *Verlaufsform* (*sein + am + Infinitiv*)
+
+(full discussion in [@sec:zuminfinitive-sein-am])
 
 ::: ex
-a. Er schläft.
-b. Er scheint zu schlafen.
+a. Der Feind greift an.
+b. Der Feind ist am Angreifen.
 :::
 
 ### (*gehen/kommen/fahren + zum + Infinitiv*)
@@ -2463,15 +2474,6 @@ a. Sie schwimmt. \
    Sie geht zum Schwimmen.
 b. Das Auto steht vor der Ampel. \
    Das Auto kommt vor der Ampel zum Stehen.
-:::
-
-### *Verlaufsform* (*sein + am + Infinitiv*)
-
-(full discussion in [@sec:zuminfinitive-sein-am])
-
-::: ex
-a. Der Feind greift an.
-b. Der Feind ist am Angreifen.
 :::
 
 ## Summary of widespread light verbs

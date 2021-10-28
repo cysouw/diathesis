@@ -1118,7 +1118,7 @@ d. Ich ekle mich vor dem Essen.
 
 **Attested Verbs**
 
-- *ekeln, grauen, schauern, schwindeln*
+- *ekeln, grauen, gruseln, schauern, schwindeln*
 
 ### [ NAA | NAD ] Accusative-to-dative + accusative {#sec:case-double-accusative-dative-swap}
 

@@ -224,7 +224,68 @@ Not attested.
 
 ## Alternations without diathesis
 
-### --- Modals --- {.unnumbered}
+
+### --- Aspectual meaning  --- {.unnumbered}
+
+### *tun + Infinitiv* Progressive (*Progressiv*) {#sec:infinitive-tun}
+
+The *tun + Infinitiv* construction [@schwarz2004] is considered substandard and frowned upon in written German [@next a]. However, it is widespread in German dialects and also frequent in the spoken standard language, expressing a progressive aspect. The acceptability is strongly improved for many German speakers with fronting of infinitive [@next b], putting focus on the verb meaning and losing the progressive aspect [@schwarz2004: 15-18]. There does not appear to be any restriction as to which verbs can occur in this construction.
+
+::: ex
+- ^^?^ Ich tu dir das Buch schenken.
+- Schenken tu ich dir das Buch.
+:::
+
+### *bleiben + Infinitiv* Continuative (*Kontinuativ*) {#sec:infinitive-bleiben}
+
+The construction *bleiben + Infinitiv* [cf. @eisenberg2006a: 351; @engel1996: 476] is typicaly used with position verbs like *sitzen* 'to sit' or *liegen* 'to lie' [@next a]. This construction with *bleiben* indicates that the position is being maintained. Some verbs denoting activities also appear possible, but examples are difficult to find [@next b], see also further examples below. Note that the combination of *bleiben* with an infinitive of a position verb is often considered to be a single word in german orthography [@next c]. This construction does not induce an IPP *Ersatzinfinitiv* [@next c].
+
+::: ex
+- Nora bleibt morgens immer ewig liegen. [@schlucker2007: 142]
+- ^^?^ Er bleibt ihr Briefe schicken.
+- Nora ist morgens immer liegengeblieben (^\*^liegenbleiben).
+:::
+
+**Attested Verbs**
+
+- from DWDS dictionary: *stehenbleiben, klebenkleiben, hängenbleiben, liegenbleiben, sitzenbleiben, steckenbleiben*
+- other stative verbs: *bestehen, erhalten, haften, hocken, vergessen*
+- possibly also with activities: *laufen, leben, schicken*
+
+**Examples**
+
+- Drehe ich den Regler wieder nach rechts um Warmwasser zu fragen geht der Brenner wieder an und bleibt laufen obwohl kein Warmwasser gezapft wird.^[Attested online at <https://www.haustechnikdialog.de/Forum/t/242166/Viessmann-Vitopend-100-bleibt-laufen>, accessed 24 September 2021.]
+- Und wenn jemanden eine Schlange biss, so sah er die eherne Schlange an und blieb leben.^[Lutherbibel 1984: 4.Mose 21:9]
+- Die TPP-Grundzüge bleiben erhalten.^[~~DWDS~~: Die Zeit, 28.11.2017.]
+- Seine künstlerischen Leistungen bleiben bestehen, auch wenn man sie nun in anderem Licht betrachtet.^[~~DWDS~~: Die Zeit, 07.11.2017.]
+- Immer mehr bleiben hocken, wenn eine neue Übung beginnt.^[~~DWDS~~: Berliner Zeitung, 25.01.1996.]
+
+### *haben + leicht/gut + Infinitiv* Exceptionality (*Exemptiv*) {#sec:infinitive-haben-adverbial}
+
+A special construction using *haben* with infinitive describes a situation in which the subject is exempt of any difficulty, so I propose to call this construction ~~exemptive~~ (from Lat. *exemptus* 'freed of'). This construction obligatorily needs an adverb, most frequently *leicht* 'easy' [@next a] or *gut* 'well' [@next b]. Only incidentally other adverbs are attested, like *klug* 'clever' [@next c]. The main verbs seem to be restricted to intransitive verbs, most frequent are *reden* 'to talk' and *lachen* 'to smile'. The only examples with transitive verbs involve incorporated objects, which are argueably intransitive [@next d].
+
+::: ex
+- Er hat leicht reden. \
+  Nike hatte leicht protzen.^[~~DWDS~~: Berliner Zeitung, 13.07.1998]
+- Er hat gut lachen. \
+  Der Kanzler hat gut schimpfen.^[~~DWDS~~: Berliner Zeitung, 14.12.2002]
+- Du hast klug reden.^[~~DWDS~~: Neutsch, Erik: Spur der Steine, Halle: Mitteldeutscher Verl. 1964 S.7]
+- Wer im Rohr sitzt, hat gut Pfeifen schneiden.^[~~DWDS~~: Wander, Karl Friedrich Wilhelm (Hrsg.): Deutsches Sprichwörter-Lexikon. Bd. 3. Leipzig, 1873.]
+:::
+
+**Attested Verbs**
+
+- intransitive verbs, most frequently with *reden* and *lachen*.
+
+**Examples**
+
+- Jungen haben leicht sagen: "Mädchen sind doof."^[~~DWDS~~: Die Zeit, 20.10.1978, Nr. 43.]
+- Wer behauptet, es laufe in der Geschichte alles auf das gleiche hinaus, und als Beweis dafür Szenen liefert, die immer auf das gleiche hinauslaufen, der hat leicht beweisen.^[~~DWDS~~: Die Zeit, 28.04.1972, Nr. 17.]
+- Ach, Roswitha, der Geheimrat hat leicht verbieten, und Du hast es auch leicht, all' das nachzusprechen.^[~~DWDS~~: Fontane, Theodor: Effi Briest. Berlin, 1896.]
+- Der Herr Baron hat leicht trösten; ich bin und bleib' unglücklich, wenn ich meinen Casperl nimmer sieh.^[~~DWDS~~: Pocci, Franz von: Lustiges Komödienbüchlein. Bd. 4. München, 1871.]
+- Wer aber geliebt ist, hat leicht regieren.^[~~DWDS~~: Eckermann, Johann Peter: Gespräche mit Goethe in den letzten Jahren seines Lebens. Bd. 3. Leipzig, 1848.]
+
+### --- Modal meaning --- {.unnumbered}
 
 The traditional modal verbs *dürfen/können/mögen/müssen/sollen/wollen* and the modal-like light verbs *werden* and *brauchen* can all be used in constructions with infinitives. There do not seem to be any restrictions on which verbs can occur as infinitives in such constructions.
 
@@ -250,7 +311,7 @@ An interesting supplementary effect that these modal verbs have on diathesis con
 
 ### *werden + Infinitiv* Future {#sec:infinitive-werden-modal}
 
-The light verb *werden* is traditionally classified as a temporal auxiliary use for future reference, but is only very rarely used as a real temporal future. The *Präsens* is mostly used for future time reference in German [@next a]. It is probably better to consider the *werden + Infinitiv* construction together with the other modal verbs as the usage typically includes a modal implicature of expectation and/or presumption [@next b]. There is a long discussion about the merits of this classification of *werden* as a modal verb in the German grammatical tradition [e.g. @fabriciushansen1986: 141ff]. Crucially, the *werden + Infinitiv* can also be used with past-time reference [@next c].
+The light verb *werden* is traditionally classified as a temporal auxiliary use for future reference, but is only very rarely used as a real temporal future. The *Präsens* is mostly used for future time reference in German [@next a]. It is probably better to consider the *werden + Infinitiv* construction together with the other modal verbs as the usage typically includes a modal implicature of expectation and/or presumption [@next b]. There is a long discussion about the merits of this classification of *werden* as a modal verb in the German grammatical tradition [e.g. @fabriciushansen1986: 141ff], even with suggestions of evidential usage [@diewald2010: 170]. Crucially, the *werden + Infinitiv* can also be used with past-time reference [@next c].
 
 ::: ex
 - Der Feind greift morgen vielleicht an.
@@ -271,9 +332,9 @@ It is undecidable whether the *werden + Infinitiv* construction induces an IPP *
   (= stack of *werden + Infinitiv Futur* +> *gehören + Partizip Normpassiv*)
 :::
 
-### *brauchen + Infinitiv* {#sec:infinitive-brauchen}
+### *brauchen + Infinitiv* + Negation {#sec:infinitive-brauchen}
 
-The verb *brauchen* is typically used with *zu + Infinitiv* [@next a], see [@sec:zuinfinitive-brauchen]. However, it also occurs without *zu* [@next b]. Whether there is any semantic difference between these two options needs more in-depth investigation. Used without *zu* it seems only logical to include *brauchen* in the set of modal verbs [cf. @duden2009: 556]. The light verb *brauchen* is similar to the modal verbs in that it induces an IPP *Ersatzinfinitiv* [@next c].
+The verb *brauchen* 'to need' is typically used with *zu + Infinitiv* with some kind of negation [@next a], see [@sec:zuinfinitive-brauchen]. However, it also occurs without *zu* [@next b]. Whether there is any semantic difference between these two options needs more in-depth investigation. Used without *zu* it seems only logical to include *brauchen* in the set of modal verbs [cf. @duden2009: 556]. The light verb *brauchen* is similar to the modal verbs in that it induces an IPP *Ersatzinfinitiv* [@next c].
 
 ::: ex
 - Du brauchst nur noch zu unterschreiben.
@@ -337,67 +398,9 @@ Contrasting to the *gehen/fahren +Infinitiv* ~~abitive~~ there is also a *kommen
 
 ### --- Others --- {.unnumbered}
 
-### *tun + Infinitiv* Progressive (*Progressiv*) {#sec:infinitive-tun}
-
-The *tun + Infinitiv* construction [@schwarz2004] is considered substandard and frowned upon in written German [@next a]. However, it is widespread in German dialects and also frequent in the spoken standard language, expressing a progressive aspect. The acceptability is strongly improved for many German speakers with fronting of infinitive [@next b] [@schwarz2004: 15-18]. There does not appear to be any restriction as to which verbs can occur in this construction.
-
-::: ex
-- ^^?^ Ich tu dir das Buch schenken.
-- Schenken tu ich dir das Buch.
-:::
-
-### *bleiben + Infinitiv* Continuative (*Kontinuativ*) {#sec:infinitive-bleiben}
-
-The construction *bleiben + Infinitiv* [cf. @eisenberg2006a: 351; @engel1996: 476] is typicaly used with position verbs like *sitzen* 'to sit' or *liegen* 'to lie' [@next a]. This construction with *bleiben* indicates that the position is being maintained. Some verbs denoting activities also appear possible, but examples are difficult to find [@next b], see also further examples below. Note that the combination of *bleiben* with an infinitive of a position verb is often considered to be a single word in german orthography [@next c]. This construction does not induce an IPP *Ersatzinfinitiv* [@next c].
-
-::: ex
-- Nora bleibt morgens immer ewig liegen. [@schlucker2007: 142]
-- ^^?^ Er bleibt ihr Briefe schicken.
-- Nora ist morgens immer liegengeblieben (^\*^liegenbleiben).
-:::
-
-**Attested Verbs**
-
-- from DWDS dictionary: *stehenbleiben, klebenkleiben, hängenbleiben, liegenbleiben, sitzenbleiben, steckenbleiben*
-- other stative verbs: *bestehen, erhalten, haften, hocken, vergessen*
-- possibly also with activities: *laufen, leben, schicken*
-
-**Examples**
-
-- Drehe ich den Regler wieder nach rechts um Warmwasser zu fragen geht der Brenner wieder an und bleibt laufen obwohl kein Warmwasser gezapft wird.^[Attested online at <https://www.haustechnikdialog.de/Forum/t/242166/Viessmann-Vitopend-100-bleibt-laufen>, accessed 24 September 2021.]
-- Und wenn jemanden eine Schlange biss, so sah er die eherne Schlange an und blieb leben.^[Lutherbibel 1984: 4.Mose 21:9]
-- Die TPP-Grundzüge bleiben erhalten.^[~~DWDS~~: Die Zeit, 28.11.2017.]
-- Seine künstlerischen Leistungen bleiben bestehen, auch wenn man sie nun in anderem Licht betrachtet.^[~~DWDS~~: Die Zeit, 07.11.2017.]
-- Immer mehr bleiben hocken, wenn eine neue Übung beginnt.^[~~DWDS~~: Berliner Zeitung, 25.01.1996.]
-
-### *haben + leicht/gut + Infinitiv* Exceptionality (*Exemptiv*) {#sec:infinitive-haben-adverbial}
-
-A special construction using *haben* with infinitive describes a situation in which the subject is exempt of any difficulty, so I propose to call this construction ~~exemptive~~ (from Lat. *exemptus* 'freed of'). This construction obligatorily needs an adverb, most frequently *leicht* 'easy' [@next a] or *gut* 'well' [@next b]. Only incidentally other adverbs are attested, like *klug* 'clever' [@next c]. The main verbs seem to be restricted to intransitive verbs, most frequent are *reden* 'to talk' and *lachen* 'to smile'. The only examples with transitive verbs involve incorporated objects, which are argueably intransitive [@next d].
-
-::: ex
-- Er hat leicht reden. \
-  Nike hatte leicht protzen.^[~~DWDS~~: Berliner Zeitung, 13.07.1998]
-- Er hat gut lachen. \
-  Der Kanzler hat gut schimpfen.^[~~DWDS~~: Berliner Zeitung, 14.12.2002]
-- Du hast klug reden.^[~~DWDS~~: Neutsch, Erik: Spur der Steine, Halle: Mitteldeutscher Verl. 1964 S.7]
-- Wer im Rohr sitzt, hat gut Pfeifen schneiden.^[~~DWDS~~: Wander, Karl Friedrich Wilhelm (Hrsg.): Deutsches Sprichwörter-Lexikon. Bd. 3. Leipzig, 1873.]
-:::
-
-**Attested Verbs**
-
-- intransitive verbs, most frequently with *reden* and *lachen*.
-
-**Examples**
-
-- Jungen haben leicht sagen: "Mädchen sind doof."^[~~DWDS~~: Die Zeit, 20.10.1978, Nr. 43.]
-- Wer behauptet, es laufe in der Geschichte alles auf das gleiche hinaus, und als Beweis dafür Szenen liefert, die immer auf das gleiche hinauslaufen, der hat leicht beweisen.^[~~DWDS~~: Die Zeit, 28.04.1972, Nr. 17.]
-- Ach, Roswitha, der Geheimrat hat leicht verbieten, und Du hast es auch leicht, all' das nachzusprechen.^[~~DWDS~~: Fontane, Theodor: Effi Briest. Berlin, 1896.]
-- Der Herr Baron hat leicht trösten; ich bin und bleib' unglücklich, wenn ich meinen Casperl nimmer sieh.^[~~DWDS~~: Pocci, Franz von: Lustiges Komödienbüchlein. Bd. 4. München, 1871.]
-- Wer aber geliebt ist, hat leicht regieren.^[~~DWDS~~: Eckermann, Johann Peter: Gespräche mit Goethe in den letzten Jahren seines Lebens. Bd. 3. Leipzig, 1848.]
-
 ### *lernen + Infinitiv* {#sec:infinitive-lernen}
 
-The verb *lernen* 'to learn' can both occur in a construction with an infinitive [@next a] and with *zu* plus infinitive [@next b], see also [@sec:zuinfinitive-coherence].
+The verb *lernen* 'to learn' can both occur in a construction with an infinitive [@next a] and with *zu* plus infinitive [@next b], see also [@sec:zuinfinitive-coherence]. There is an obvious paralell to the verbs *lehren* 'to teach' ([@sec:infinitive-lehren]) and *helfen* 'to help' ([@sec:infinitive-helfen]), both of which add a new participant (the 'teacher' and the 'helper', respectivly). The verb *lernen* does not add a new participant, although the 'lerner' might be interpreted as a kind of 'self-helper/teacher'.
 
 ::: ex
 - Das Baby läuft. \

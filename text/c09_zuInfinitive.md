@@ -1,46 +1,71 @@
-# Light verb + *zu*-infinitive alternations {#sec:zuinfinitive}
+# Light verb + *zu* + infinitive alternations {#sec:zuinfinitive}
 
 ## Introduction
 
-Always modal meanings???
 
-gehören + zu + Inf in old examples found sporadically in [@lasch2018]
+Following Bech [-@bech1955] such construction are often designated as *Zweiter Status* in the German grammatical literature. However, this name is not very transparent nor particularly mnemonic, so I prefer to simply use the term ~~zu-Infinitiv~~ constructions.
 
-## Definitions
+
+
+
+## Defining *zu-Infinitiv* constructions
 
 ### Morphological structure
 
-Is *zu* simply bound morphology? [@duden2009: 439]: unstressed, not separable, inside separable preverbs
+The combination of *zu* with an infinitive is regularly written as two words in German orthography, like with the infinitive *kaufen* 'to buy' [@next a]. However, the combination is written as one word when the verb has a separable preverb, like *ein-* in *einkaufen* 'to shop' [@next b]. With such preverbs, *zu* is inserted between the preverb and the verbal stem.
 
-Probably best identified as a separate form of the verb, the *zu-Infinitiv*
+::: ex
+- Du brauchst nichts zu kaufen.
+- Du brauchst nicht einzukaufen.
+:::
 
-The element *zu* is obviously related to the preposition *zu*, which has a bewildering number of different uses in German.^[For example, see the listing of the ~~DWDS~~ at <https://www.dwds.de/wb/zu>.] Diachronically, there has been a development of an allative meaning 'towards' via a purpose meaning 'with the intend to' to the usage of *zu* in complement clauses. This grammaticalisation is widespread worldwide [@haspelmath1989] and well-described in Germanic languages [e.g. @smirnova2016 for German and @los2005 for English].
+From a purely grammatical perspective, *zu* is clearly bound morphology when used with an infinitive [cf. @duden2009: 439], because (i) it is always unstressed and (ii) it is not separable from the infinitive, not even by separable preverbs like *ein-*. The *zu-Infinitiv* is thus best considered to be a special non-finite verbform of German, just like the *Partizip* and the *Infinitiv*. Probably the only reason that *zu* is still written separately with simplex verbs is that there would be potential homographs when it was written without a space. For example, the *zu-Infinitiv* of the verb *schließen* 'to close' would be *zuschlíeßen* with unstressed *zu* and main stress on *schließ* [@next a], while the regular *Infinitiv* of the verb *zuschließen* 'to lock' would be *zúschließen* with stressed *zu* [@next b]. An alternative orthographic choice might of course be to indicate the primary stress in such cases of possible confusion. However, the separation by a space is entrenched in German orthography and is unlikely to change. But this should not distract from the fact that morphologically *zu* is clearly bound morphology.
 
-### Coherence {#sec:zuinfinitive-coherence}
+::: ex
+- Du brauchst die Tür nicht zu schließen.
+- Du sollst die Tür nicht zuschließen.
+:::
 
-Only constructions with obligatory coherence here!
+### Grammaticalisation {#sec:zuinfinitive-coherence}
+
+The element *zu* in the *zu-Infinitiv* is obviously related to the preposition *zu*, which has a bewildering number of different uses in German.^[For example, see the listing of the ~~DWDS~~ at <https://www.dwds.de/wb/zu>.] Diachronically, there has been a development from an originally allative meaning 'towards' via a purpose meaning 'with the intend to' to the usage of *zu* in complement clauses. This grammaticalisation pathway is widespread worldwide [@haspelmath1989] and well-described for Germanic languages [e.g. @smirnova2016 for German and @los2005 for English].
+
+This grammaticalisation pathway can be further extended as shown in [@next]. The verb *lehren* 'to teach' can actually be used in all three syntactic stages. In the first stage, the verb *lehren* is used with a *zu-Infinitiv* complement clause that is expressed after the main clause. Such constructions are non-coherent (see [@sec:intro-coherence]) and thus consist of two clauses. In the second stage, the verb *lehren* can also be used with a *zu-Infinitiv*, but now this infinitive is incorporated into the main clause. Such constructions are coherent and thus consists of just a single clause. Finally, in the third stage, the verb *lehren* is used with a bare infinitive without *zu*. Such constructions are always monoclausal. As an illustration of these different uses of the verb *lehren* I have added a corpus example of each usage in [@nnext], which show the various constructions in subordinate position.
+
+::: ex
+(1) *zu-Infinitiv* biclausal complement (*Ich habe ihn gelehrt, zu tanzen.*) \
+» (2) *zu-Infinitiv* monoclausal construction (*Ich habe ihn zu tanzen gelehrt.*) \
+» (3) *Infinitive* monoclausal construction (*Ich habe ihn tanzen gelehrt.*)
+:::
+
+::: ex
+- Wahrscheinlich auch, weil ihn die Erfahrung *gelehrt hat*, [niemals nie **zu sagen**].^[~~DWDS~~: Die Zeit, 28.07.2013]
+- Unser Abgott Theodor Fontane dagegen, der uns [so vieles in Stadt und Land **zu sehen**] *gelehrt hat*, scheint die Berliner Galerie kaum besucht zu haben.^[~~DWDS~~: Berliner Zeitung, 11.06.1998]
+- Was hast du den Indios für Possen angerichtet, daß sie dich [so schön **tanzen**] *gelehrt haben*?^[~~DWDS~~: Perutz, Leo: Die dritte Kugel, Reinbek bei Hamburg: Rowohlt 1988 [1915], S. 5]
+:::
+
+The third stage of thie grammaticalisation (i.e. monoclausal *Infinitive* constructions) was already discussed in the previous Chapter [-@sec:infinitive]. The focus of this chapter are the constructions in the second stage of this grammaticalisation pathway: monoclausal *zu-Infinitiv* constructions. This construction is attested with various matrix verbs that are always coherent when used with *zu-Infinitiv*, like *haben* [@next]. The basic test for coherence is to embed a sentence like [@next a] inside another main clause like *es ist bekannt, dass …* 'it is known that …'. Coherent monoclausal constructions, i.e. stage 2 in [@llast], can be identified by the obligatory position of the finite verb at the end of the clause [@next b,c].
+
+::: ex
+- Sie *hat* noch viele Jahre **zu leben**.
+- Es ist bekannt, dass sie noch viele Jahre **zu leben** *hat*.
+- ^* Es ist bekannt, dass sie *hat* noch viele Jahre **zu leben**.
+:::
+
+There is only a limited number of matrix verbs that allow for this monoclausal construction with *zu-Infinitiv* (i.e. stage 2). Most matrix verbs with a *zu-infinitive* result in biclausal non-coherent complement constructions (i.e. stage 1).
+
+
 
 [@wurmbrand2012: 318-319; @rapp2013]
 
-*anfangen, aufhören, beginnen, drohen, erlauben, heißen, helfen, lehren, lernen, verbieten, vergessen, verlangen, versprechen, versuchen, wagen* with *zu* both coherent and non-coherent:
+In the following, I will use the terminology from Colomo [-@colomo2010] who proposes the term ~~Modalitätsverb~~ for verbs that optionally allow for a coherent construction [@colomo2010: 167-175], in contrast to ~~Halbmodalverb~~ for verbs that obligatorily need a coherent construction [@colomo2010: Ch.6, using the term as proposed originally by Eisenberg]. Colomo discussed various other characteristics differentiating between *Modalitätsverben* and *Halbmodalverben* that I will ignore here.^[For some reason unclear to me, Colomo (following Eisenberg) only includes *scheinen, pflegen, drohen* and *versprechen* in her discussion of *Halbmodalverben*. All other coherently constructing *zu-Infinitiv* matrix verbs as discussed in this chapter are only marginally mentioned in her otherwise impressive study. ]
 
-gedenken (old fashioned)
+There is a substantial literature about *Modalitätsverben*
 
-nicht brauchen (= *müssen* 'must')
-scheinen (= *wirken* 'appear')
-drohen (= *in Gefahr sein* 'to be in danger of')
-gedenken (= *wollen* 'to want')
-verstehen (= *können* 'be able to')
+*anfangen, aufhören, beginnen, erlauben, heißen, helfen, lehren, lernen, verbieten, vergessen, verlangen, versprechen, versuchen, wagen* with *zu* both coherent and non-coherent:
 
-::: ex
-- Der Schüler löst die Aufgaben. [ –NA | NDA ]
-- Es ist bekannt, dass er den Schüler [gelehrt hat] die Aufgaben [zu lösen].\
-  Es ist bekannt, dass er den Schüler die Aufgaben [zu lösen] [gelehrt hat].
-- Es ist bekannt, dass er dem Schüler [geholfen hat] die Aufgaben [zu lösen].\
-  Es ist bekannt, dass er dem Schüler die Aufgaben [zu lösen] [geholfen hat].
-:::
-
-less frequent: koherent with zu + Infinitiv
+=> suchen (with meaning versuchen) seems always coherent! *versuchen* can be both...
+=> verstehen ('können')
 
 ::: ex
 - Meine Worte gehen unter in den Liedern, die ich euch zu singen lehrte.^[~~DWDS~~: Brückner, Christine: Wenn du geredet hättest, Desdemona, Frankfurt a. M.: Ullstein 1986, S. 7]
@@ -51,6 +76,9 @@ less frequent: koherent with zu + Infinitiv
 - Die Leute kümmern sich um dich, solange du ihnen zu gewinnen hilfst.^[~~DWDS~~: Die Zeit, 17.03.2016, Nr. 13]
 - Bettelheim verteidigte darin den Märchen-Grusel, der den Kindern eigene Schrecken zu verarbeiten helfe.^[~~DWDS: Berliner Zeitung, 29.12.2003]
 :::
+
+- Es ist bekannt, dass er dem Schüler [geholfen hat] die Aufgaben [zu lösen].\
+  Es ist bekannt, dass er dem Schüler die Aufgaben [zu lösen] [geholfen hat].
 
 without *zu* see [@sec:infinitive-lernen]
 
@@ -74,7 +102,7 @@ raising?
 
 "lowering" ?!
 
-[ NA | pA ] *heißen + zu + Infinitiv* Subject demotion
+[ NA | pA ] *heißen + zu-Infinitiv* Subject demotion
 
 both coherent and non-coherent
 
@@ -87,55 +115,100 @@ Much variation possible?
 
 - Jetzt heißt es aufpassen/aufzupassen/aufgepasst.
 
+gehören + zu + Inf in old examples found sporadically in [@lasch2018]
 
 ## Deponent verbs without alternations
 
-Not attested.
+This is not attested. Note that theoretically such verbs might occur in German, but as far as I am aware there do not exist any examples. The necessary observation would be a verb that can occur in a *zu-Infinitiv* construction [@next a], but cannot be used as a finite verb [@next b].
+
+::: ex
+- Der Lehrer weiß seine SchülerInnen zu überzeugen.
+- Der Lehrer überzeugt seine SchülerInnen.
+:::
 
 ## Alternations without diathesis
 
-## --- Modal-like --- (*Modalitätsverben*) {.unnumbered}
+### --- Aspectual meaning --- {.unnumbered}
 
-*drohen* is also sometimes mentioned in this context ('Halbmodale'), but *drohen* is clearly both coheren and non-coherent.
+### *pflegen + zu-Infinitiv* habitual {#sec:zuinfinitive-pflegen}
 
-### *haben + zu + Infinitiv* {#sec:zuinfinitive-haben}
+habitual imperfective meaning 'usually do X'
+*gewöhnlich tun, üblicherweise* 
+
+::: ex
+- Sie lacht laut.
+- Sie pflegte laut zu lachen. 
+- Es ist bekannt, dass sie laut zu lachen pflegte.
+:::
+
+[@colomo2010: 246-256] argues that the real semantic content of *pflegen + zu-Infinitiv* is not the habitual aspect, but that it is more closely related to modal meanings of other *zu-infinitiv* constructions.
+
+### *suchen + zu-Infinitiv* conative {#sec:zuinfinitive-suchen}
+
+The verb *suchen* 'to search' has a special usage with a *zu-Infinitiv* expressing the meaning 'to attempt to do something' [@next a]. In this usage, the meaning of *suchen* is very close to the meaning of *versuchen*, but it seems to restricted to a high-education written register in German. Crucially, in this meaning the verb *suchen* is a light verb because the construction *suchen + zu-infinitive* is obligatorily coherent [@next b,c]. Note that the semantically similar verb *versuchen* is not obligatorily coherent.
+
+::: ex
+- Skrupulös, vorsichtig und diszipliniert sucht Lindner deren Fehler zu vermeiden.^[~~DWDS~~: Die Zeit, 27.11.2017, Nr. 48]
+- Mit ihrem Namen ist ein blutiges Ereignis verbunden, das sie erfolglos zu verhindern gesucht hatte.^[~~DWDS~~: Die Zeit, 08.05.2003, Nr. 20]
+- ^* … das sie erfolglos gesucht hatte zu verhindern.
+:::
+
+There is an old tradition in Latin grammar to describe one of the possible meanings of the Latin present tense as a 'conative present' when it should be translated as an attempted action. Thus, it seems fitting to call the *suchen + zu-infinitive* diathesis a ~~conative~~.
+
+### --- Modal meaning --- {.unnumbered}
+
+### *haben + zu-Infinitiv* {#sec:zuinfinitive-haben}
 
 [@holl2010] "müssen" Interpretation
 
 ::: ex
 a. Die Schüler lösen die Aufgaben.
 b. Die Schüler haben die Aufgaben zu lösen.
+c. Es ist bekannt, dass die Schüler die Aufgaben zu lösen haben.
 :::
-
-- Ich laufe.
-- Ich habe zu laufen.
-- ^* Es ist bekannt, dass ich habe zu laufen.
-- Es ist bekannt, dass ich zu laufen habe.
 
 **Examples**
 
 - Was hat das zu bedeuten?
 - Du hast ihm zu helfen!
 - Er hat noch ein Jahr zu leben.
-- Der Bundesgerichtshof hat jetzt diese Streitfrage zu entscheiden. (E-VALBU)
+- Der Bundesgerichtshof hat jetzt diese Streitfrage zu entscheiden.
 - Er hat nichts zu befürchten.
-- Er hat nichts zu erwarten.
 - Der Fürst hatte (über) dieses Land zu befehlen
 
-### *wissen/vermögen + zu + Infinitiv* {#sec:zuinfinitive-wissen}
+### *brauchen + zu-Infinitiv* + Negation {#sec:zuinfinitive-brauchen}
+
+moving towards modal status? [@sec:infinitive-brauchen]
+Meaning *müssen* with additional negation *nicht, nichts, wenig, kein, niemand, nie, kaum, ohne dass* or modal particle *nur, bloß*
+
+::: ex
+- Er wäscht die Kleider selber.
+- Er brauch die Kleider nicht selber zu waschen.
+- Es ist bekannt, dass er die Kleider nicht selber zu waschen brauchst.
+:::
+
+### *wissen/vermögen/verstehen + zu-Infinitiv* {#sec:zuinfinitive-wissen}
 
 "können" Interpretation
 
+::: ex
 - Der Lehrer begeistert die Schüler.
 - Der Lehrer weiß die Schüler zu begeistern.
 - Es ist bekannt, dass der Lehrer die Schüler zu begeistern weiß.
-- Ich schätze deinen Einsatz.
+:::
+
+**Examples**
+
 - Ich weiß deinen Einsatz zu schätzen.
-- Ich weiß ihn nirgends einzuordnen. (https://www.philaseiten.de/cgi-bin/index.pl?PR=51029)
+- Ich weiß ihn nirgends einzuordnen.^[Attested online at <https://www.philaseiten.de/cgi-bin/index.pl?PR=51029>, accessed 26 October 2021.]
 
-### *scheinen + zu + Infinitiv* {#sec:zuinfinitive-scheinen}
+### --- Evidential meaning --- {.unnumbered}
 
-[@pafel1989]
+### *scheinen + zu-Infinitiv* {#sec:zuinfinitive-scheinen}
+
+scheinen (= *wirken als ob* 'appear')
+
+[@pafel1989; @diewald2010: 177 ff.]
 
 - Er schläft. Er scheint zu schlafen. (... dass er zu schlafen scheint.)
 - Er kauft einen Kaffee. Er scheint einen Kaffee zu kaufen. (... dass er einen Kaffee zu kaufen scheint. )
@@ -145,28 +218,24 @@ Only coherent construction possible
 - Es ist bekannt, dass er ihm ein Buch zu geben scheint.
 - ^* Es ist bekannt, dass er scheint ihm ein Buch zu geben.
 
-Additional dative experiencer possible
+Additional dative experiencer possible!
 
 - es regnet.
 - es scheint zu regnen.
 - es scheint mir zu regnen.
 
-### *brauchen + zu + Infinitiv* {#sec:zuinfinitive-brauchen}
+### *drohen/versprechen + zu-Infinitiv*
 
-moving towards modal status? [@sec:infinitive-brauchen]
+not in speech-act interpretation!
+drohen (= *in Gefahr sein* 'to be in danger of')
 
-Always with negation? meaning *nicht müssen*
+There is a tendency that speech-act uses are non-coherent, while evidential uses are coherent. However, this is not 100%
 
-- Du brauchst die Kleider nicht zu waschen.
-- Es ist bekannt, dass du die Kleider nicht (zu?) waschen brauchst.
+[@reis2005: 136-140] coherent in this usage!
 
-### *pflegen + zu + Infinitiv*
+### --- Covert causatives --- {.unnumbered}
 
-special meaning *gewöhnlich tun*
-
-- Sie pflegte laut zu lachen. Es ist bekannt, dass sie laut zu lachen pflegte.
-
-### *kommen + zu + Infinitiv* {#sec:zuinfinitive-kommen}
+### *kommen + zu-Infinitiv* {#sec:zuinfinitive-kommen}
 
 (kommen44 in E-VALBU)
 
@@ -184,7 +253,7 @@ Ist es auch möglich mit transitive Verben? Oder ist das immer ein Vollverb *kom
 - Sie kamen ihm zu helfen. Es ist bekannt, dass Sie gekommen sind ihm zu helfen.
 - Wir dürfen nicht zulassen, dass die Stationierung von Truppen zum Surrogat für Politik wird und dass Truppen, die in der Absicht zu helfen gekommen sind, im Laufe der Zeit als Eindringlinge und Besatzer wahrgenommen werden (https://docplayer.org/40817735-Clausewitz-gesellschaft-e-v-jahrbuch-eine-zusammenfassung-von-beitraegen-aus-der-arbeit-der-gesellschaft-2006.html)
 
-### *bekommen/kriegen + zu + Infinitiv* {#sec:zuinfinitive-bekommen}
+### *bekommen/kriegen + zu-Infinitiv* {#sec:zuinfinitive-bekommen}
 
 [@jager2013]
 
@@ -206,7 +275,7 @@ Handlungsverben 5,6% [@jager2013: 201]
 
 ### --- [ SBJ > Ø ] --- *Unpersönlicher Modalpassiv* {.unnumbered}
 
-### [ N | – ] *sein + zu + Infinitiv* Impersonal {#sec:zuinfinitive-sein-impersonal}
+### [ N | – ] *sein + zu-Infinitiv* Impersonal {#sec:zuinfinitive-sein-impersonal}
 
 Impersonal construction seem to be very rare [contrary to the claim in @holl2010: 18]
 
@@ -216,13 +285,13 @@ I have not been able to find more examples
 
 no *es*!
 
-### [ NP | -P ] *sein + zu + Infinitiv* Impersonal + governed preposition
+### [ NP | -P ] *sein + zu-Infinitiv* Impersonal + governed preposition
 
 very rare
 
 - und noch über einen Engel ist zu lachen.^[~~DWDS~~: Vischer, Friedrich Theodor von: Ästhetik oder Wissenschaft des Schönen. Bd. 1. Reutlingen u. a., 1846.]
 
-### [ ND | –D ] *sein + zu + Infinitiv* Impersonal + dative
+### [ ND | –D ] *sein + zu-Infinitiv* Impersonal + dative
 
 With dative-verbs possible, though only with very few incidental examples [contrary to the claim in @holl2010: 18].
 
@@ -232,7 +301,7 @@ With dative-verbs possible, though only with very few incidental examples [contr
 
 also *heißen*, but not always coheren
 
-### [ NA | pA ] *geben + zu + Infinitiv* Subject demotion {#sec:zuinfinitive-geben-demotion}
+### [ NA | pA ] *geben + zu-Infinitiv* Subject demotion {#sec:zuinfinitive-geben-demotion}
 
 Complete examples are rare [@next a]. Construction is coherent [@next b]. [cf. @engel1996: 488]
 
@@ -267,7 +336,7 @@ Typically without retained subject [@next a]. Without retained subject it is pos
 - Es gibt noch viele Geschenke einzupacken.
 - Es gibt noch viele Probleme zu lösen.
 
-### [ NA | pA ] *gelten + zu + Infinitiv* Subject demotion
+### [ NA | pA ] *gelten + zu-Infinitiv* Subject demotion
 
 [cf. @engel1996: 488-489]
 
@@ -297,7 +366,7 @@ Ohne 'es' sehr ungewöhnlich?
 
 ### --- [ OBJ > SBJ > Ø ] --- {.unnumbered}
 
-### [ NA | –N ] *stehen + zu + Infinitiv* Anticausative (*Kognitionsantikausativ*) {#sec:zuinfinitive-stehen-anticausative}
+### [ NA | –N ] *stehen + zu-Infinitiv* Anticausative (*Kognitionsantikausativ*) {#sec:zuinfinitive-stehen-anticausative}
 
 "stehen ist nur mit einer Reihe von epistemischen Verben kombinierbar" [@holl2010: 10, fn. 4] Bedeutung "zwangsweise gelten" und "kann sich nur mit Verben verbinden, die eine Erwartung ausdrücken" [@engel1996: 481]
 
@@ -320,7 +389,7 @@ Without sentence embedding predicates only very few incidental examples of antic
 - Das Haus steht zu verkaufen.
 - das Schlimmste steht zu befürchten.
 
-### [ NA | –N ] *gehen + zu + Infinitiv* Possibility + manner adverbial {#sec:zuinfinitive-gehen-adverb}
+### [ NA | –N ] *gehen + zu-Infinitiv* Possibility + manner adverbial {#sec:zuinfinitive-gehen-adverb}
 
 Only possible with very few verbs?
 
@@ -341,7 +410,7 @@ Also with various manner adverbs?
 
 ### --- [ OBJ > SBJ > ADJ ] --- *Modalpassiv* {.unnumbered}
 
-### [ NA | pN ] *sein + zu + Infinitiv* Passive {#sec:zuinfinitiv-sein-passive}
+### [ NA | pN ] *sein + zu-Infinitiv* Passive {#sec:zuinfinitiv-sein-passive}
 
 "müssen" Interpretation does not allow for the retention of the agent
 
@@ -385,7 +454,7 @@ das auch?
 
 ### --- [ Ø > SBJ > OBJ ] --- *Auftragskausativ* {.unnumbered}
 
-### [ –NA | NDA ] *geben + zu + Infinitiv* transitive causative {#sec:zuinfinitive-geben-causative}
+### [ –NA | NDA ] *geben + zu-Infinitiv* transitive causative {#sec:zuinfinitive-geben-causative}
 
 ::: ex
 a. Ich bedenke, dass es schon spät ist.
@@ -426,7 +495,7 @@ not attested
 
 ### --- [ OBJ > SBJ > OBJ ] --- {.unnumbered}
 
-### [ NA | DN ] *bleiben + zu + Infinitiv* Inversive (*Restinversiv*) {#sec:zuinfinitive-bleiben}
+### [ NA | DN ] *bleiben + zu-Infinitiv* Inversive (*Restinversiv*) {#sec:zuinfinitive-bleiben}
 
 ::: ex
 a. Ich räume den letzten Schrank ein.
