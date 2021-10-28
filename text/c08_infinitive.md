@@ -400,7 +400,7 @@ Contrasting to the *gehen/fahren +Infinitiv* ~~abitive~~ there is also a *kommen
 
 ### *lernen + Infinitiv* {#sec:infinitive-lernen}
 
-The verb *lernen* 'to learn' can both occur in a construction with an infinitive [@next a] and with *zu* plus infinitive [@next b], see also [@sec:zuinfinitive-coherence]. There is an obvious paralell to the verbs *lehren* 'to teach' ([@sec:infinitive-lehren]) and *helfen* 'to help' ([@sec:infinitive-helfen]), both of which add a new participant (the 'teacher' and the 'helper', respectivly). The verb *lernen* does not add a new participant, although the 'lerner' might be interpreted as a kind of 'self-helper/teacher'.
+The verb *lernen* 'to learn' can both occur in a construction with an infinitive [@next a] and with *zu* plus infinitive [@next b], see also [@sec:zuinfinitive-coherence]. There is an obvious paralell to the verbs *lehren* 'to teach' ([@sec:infinitive-lehren]) and *helfen* 'to help' ([@sec:infinitive-helfen]), both of which add a new participant (the 'teacher' and the 'helper', respectivly). The verb *lernen* does not add a new participant, although there is a strong implication of an unspoken teacher [@next b], except in case of natural developmental processes [@next a].
 
 ::: ex
 - Das Baby läuft. \

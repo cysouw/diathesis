@@ -5,7 +5,7 @@
 
 Following Bech [-@bech1955] such construction are often designated as *Zweiter Status* in the German grammatical literature. However, this name is not very transparent nor particularly mnemonic, so I prefer to simply use the term ~~zu-Infinitiv~~ constructions.
 
-
+here: coherent constructions with *zu-Infinitiv*, that do not allow non-coherent as an alternative
 
 
 ## Defining *zu-Infinitiv* constructions
@@ -44,7 +44,7 @@ This grammaticalisation pathway can be further extended as shown in [@next]. The
 - Was hast du den Indios für Possen angerichtet, daß sie dich [so schön **tanzen**] *gelehrt haben*?^[~~DWDS~~: Perutz, Leo: Die dritte Kugel, Reinbek bei Hamburg: Rowohlt 1988 [1915], S. 5]
 :::
 
-The third stage of thie grammaticalisation (i.e. monoclausal *Infinitive* constructions) was already discussed in the previous Chapter [-@sec:infinitive]. The focus of this chapter are the constructions in the second stage of this grammaticalisation pathway: monoclausal *zu-Infinitiv* constructions. This construction is attested with various matrix verbs that are always coherent when used with *zu-Infinitiv*, like *haben* [@next]. The basic test for coherence is to embed a sentence like [@next a] inside another main clause like *es ist bekannt, dass …* 'it is known that …'. Coherent monoclausal constructions, i.e. stage 2 in [@llast], can be identified by the obligatory position of the finite verb at the end of the clause [@next b,c].
+The focus of this chapter are the constructions in the second stage of this grammaticalisation pathway: monoclausal *zu-Infinitiv* constructions. This construction is attested with various matrix verbs that are coherent when used with *zu-Infinitiv*, like *haben* [@next]. The basic test for coherence is to embed a sentence like [@next a] inside another main clause like *es ist bekannt, dass …* 'it is known that …'. Coherent monoclausal constructions, i.e. stage 2 in [@llast], can in that context be identified by the obligatory position of the finite verb at the end of the clause [@next b,c]. 
 
 ::: ex
 - Sie *hat* noch viele Jahre **zu leben**.
@@ -52,74 +52,29 @@ The third stage of thie grammaticalisation (i.e. monoclausal *Infinitive* constr
 - ^* Es ist bekannt, dass sie *hat* noch viele Jahre **zu leben**.
 :::
 
-There is only a limited number of matrix verbs that allow for this monoclausal construction with *zu-Infinitiv* (i.e. stage 2). Most matrix verbs with a *zu-infinitive* result in biclausal non-coherent complement constructions (i.e. stage 1).
-
-
-
-[@wurmbrand2012: 318-319; @rapp2013]
-
-In the following, I will use the terminology from Colomo [-@colomo2010] who proposes the term ~~Modalitätsverb~~ for verbs that optionally allow for a coherent construction [@colomo2010: 167-175], in contrast to ~~Halbmodalverb~~ for verbs that obligatorily need a coherent construction [@colomo2010: Ch.6, using the term as proposed originally by Eisenberg]. Colomo discussed various other characteristics differentiating between *Modalitätsverben* and *Halbmodalverben* that I will ignore here.^[For some reason unclear to me, Colomo (following Eisenberg) only includes *scheinen, pflegen, drohen* and *versprechen* in her discussion of *Halbmodalverben*. All other coherently constructing *zu-Infinitiv* matrix verbs as discussed in this chapter are only marginally mentioned in her otherwise impressive study. ]
-
-There is a substantial literature about *Modalitätsverben*
-
-*anfangen, aufhören, beginnen, erlauben, heißen, helfen, lehren, lernen, verbieten, vergessen, verlangen, versprechen, versuchen, wagen* with *zu* both coherent and non-coherent:
-
-=> suchen (with meaning versuchen) seems always coherent! *versuchen* can be both...
-=> verstehen ('können')
+Because there is a grammaticalisation cline, there are various verbs that can be used in more than one of the different stages [@next]. Most matrix verbs with a *zu-infinitive* only allow biclausal non-coherent complement constructions [@next a]. These fall outside of the scope of this book. At the other extreme, some verbs only allow for monoclausal *Infinitiv* construction [@next f]. These were already discussed in the previous Chapter [-@sec:infinitive].
 
 ::: ex
-- Meine Worte gehen unter in den Liedern, die ich euch zu singen lehrte.^[~~DWDS~~: Brückner, Christine: Wenn du geredet hättest, Desdemona, Frankfurt a. M.: Ullstein 1986, S. 7]
-- Es ehrt den Historiker, wenn er die Spuren der Geschichte ausleuchtet, sie interpretiert und zu verstehen lehrt.^[~~DWDS~~: Berliner Zeitung, 08.03.2003]
+a. Only stage 1 (biclausal *zu-Infinitiv*): e.g. *schwören* 'to vow', *fragen* 'to ask'
+b. Both stage 1 and 2 (biclausal and monoclausal *zu-Infinitiv*): e.g. *anfangen* 'to begin', *versuchen* 'to attempt'
+c. All of stage 1, 2 and 3 are possible: e.g. *helfen*, 'to help', *lehren* 'to teach'
+d. Only stage 2 (monoclausal *zu-Infinitiv*): e.g. *haben* lit. 'to have, here: 'to must', *wissen* lit. 'to know, here: 'to can'
+e. Both stage 2 and 3 (monoclausal *zu-Infinitiv* and *Infinitiv*): e.g. *brauchen* lit. 'to need', here 'to must'
+f. Only stage 3 (monoclausal *Infinitiv*): e.g. *müssen* 'to must', *können* 'to can'
 :::
+
+The group of verbs that both allow stage 1 and 2 [@last b] are widely discussed in the German grammatical literature under the heading ~~modalitätsverben~~. Various lists are found in Wurmbrand [-@wurmbrand2003: 318-319] and Colomo [-@colomo2010: 167-175]. A survey of various structural and semantic aspects of this group is presented in Rapp & Wöllstein [-@rapp2013]. Typical *Modalitätsverben* are *anfangen, aufhören, beginnen, erlauben, heißen, verbieten, vergessen, verlangen, versuchen, wagen*. Examples of both options for *heißen* are shown in [@next]. Next, the group of verbs that allow all of the three stages [@last c] is small. This seems to be only possible for *helfen* 'to help', *lehren* 'to teach' and *lernen* 'to learn'. Likewise, the group of verbs that allow for both stage 2 and 3 [@last e] is small, as it seems only to consist of the verb *brauchen*. Finally, the verbs that only allow for stage 2 will be discussed in detail in this chapter.
 
 ::: ex
-- Die Leute kümmern sich um dich, solange du ihnen zu gewinnen hilfst.^[~~DWDS~~: Die Zeit, 17.03.2016, Nr. 13]
-- Bettelheim verteidigte darin den Märchen-Grusel, der den Kindern eigene Schrecken zu verarbeiten helfe.^[~~DWDS: Berliner Zeitung, 29.12.2003]
-:::
-
-- Es ist bekannt, dass er dem Schüler [geholfen hat] die Aufgaben [zu lösen].\
-  Es ist bekannt, dass er dem Schüler die Aufgaben [zu lösen] [geholfen hat].
-
-without *zu* see [@sec:infinitive-lernen]
-
-- Ich schreibe meiner Oma monatlich einen Brief. \
-  Ich lerne meiner Oma monatlich einen Brief (zu) schreiben.
-
-::: ex
-- Sie nimmt Platz.
-- Er hat sie geheißen, Platz zu nehmen
-:::
-
-(nominative control): Er hat den Brief geschrieben. Er hat den Brief zu schreiben begonnen. [ N | N ]
-
-raising?
-
-(accusative control): Jesus hat uns Gott neu zu verstehen gelehrt (Berliner Zeitung, 02.04.1994). [ -N | NA ]
-(dative control): Er verbietet mir den Brief zu schreiben. [ –N | ND ]
-(preposition control): Er verlangt von mir den Brief zu schreiben. [ –N | NP ]
-
-=> only obligatory coherent raising/kausativ is *geben*
-
-"lowering" ?!
-
-[ NA | pA ] *heißen + zu-Infinitiv* Subject demotion
-
-both coherent and non-coherent
-
-- Heute heißt es die Zähne zusammenzubeißen.^[[@engel1996: 489-490]]
-- Da hieß es für uns, still zu sitzen und zuzuhören.^[~~DWDS~~: Die Zeit, 22.11.2012, Nr. 48]
 - Dafür sind Radfahrern manche landschaftlich besonders schöne Abschnitte des Pilgerfußweges in Spanien verschlossen, wenn es auf schmalen, steinigen Wegen bergauf und bergab zu laufen heißt.^[~~DWDS~~: Die Zeit, 05.04.1991, Nr. 15]
-- das hätte geheißen, den Dritten Weltkrieg zu riskieren.^[Berliner Zeitung, 29.04.1995]
+- Das hätte geheißen, den Dritten Weltkrieg zu riskieren.^[Berliner Zeitung, 29.04.1995]
+:::
 
-Much variation possible?
-
-- Jetzt heißt es aufpassen/aufzupassen/aufgepasst.
-
-gehören + zu + Inf in old examples found sporadically in [@lasch2018]
+The matrix verbs that only allow for stage 2 will be discussed in detail in this chapter. There is some overlap with the ~~Halbmodalverben~~ as introduced by Eisenberg [e.g. -@eisenberg2006a: 362-365] and discussed in much Detail in Colomo [-@colomo2010: Ch.6]. However, that term is defined much more restricted to only include *pflegen, scheinen, drohen, versprechen*. The focus of the present chapter is more widely expanded.
 
 ## Deponent verbs without alternations
 
-This is not attested. Note that theoretically such verbs might occur in German, but as far as I am aware there do not exist any examples. The necessary observation would be a verb that can occur in a *zu-Infinitiv* construction [@next a], but cannot be used as a finite verb [@next b].
+This is not attested. Note that theoretically such verbs might occur in German, but as far as I am aware there do not exist any examples. The necessary observation would be a lexical verb that can occur in a *zu-Infinitiv* construction [@next a], but cannot be used as a finite verb [@next b]. The verb *überzeugen* in [@next] is thus no example, as the second sentence then would need to be ungrammatical.
 
 ::: ex
 - Der Lehrer weiß seine SchülerInnen zu überzeugen.
@@ -197,10 +152,20 @@ Meaning *müssen* with additional negation *nicht, nichts, wenig, kein, niemand,
 - Es ist bekannt, dass der Lehrer die Schüler zu begeistern weiß.
 :::
 
+
+
 **Examples**
 
 - Ich weiß deinen Einsatz zu schätzen.
 - Ich weiß ihn nirgends einzuordnen.^[Attested online at <https://www.philaseiten.de/cgi-bin/index.pl?PR=51029>, accessed 26 October 2021.]
+
+### *gehören + zu-Infinitiv*
+
+The construction *gehören + zu-Infinitiv* [@next] can be attested sporadically in older German texts with a modal meaning of 'ought to' [@lasch2018: 177-181]. This construction disappears from the DWDS corpus around 1800. The example below is from a 19th century collection of proverbs, which are typically in retaining extinct grammatical constructions.
+
+::: ex
+- Den Kauffleuthen vnd Bawren gehört zu trawen vnd glauben zu halten mit dem grossen hauffen.^[~~DWDS~~: Wander, Karl Friedrich Wilhelm (Hrsg.): Deutsches Sprichwörter-Lexikon. Bd. 2. Leipzig, 1870.]
+:::
 
 ### --- Evidential meaning --- {.unnumbered}
 

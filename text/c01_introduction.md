@@ -158,7 +158,7 @@ Maybe surprisingly, when the above definition of monoclausality is strictly foll
 ::: ex
 German verbs that can be used as light verbs 
 
-*anfangen, aufhören, aussehen, beginnen, bekommen, bleiben, brauchen, bringen, drohen, dürfen, erscheinen, fahren, finden, fühlen, geben, gehen, gehören, gelten, glauben, haben, halten, heißen, helfen, hören, kommen, kriegen, können, lassen, legen, lehren, liegen, machen, möchten, mögen, müssen, nehmen, pflegen, riechen, scheinen, schicken, sehen, sein, setzen, sollen, spüren, stehen, tun, versprechen, werden, wirken, wissen, wollen*
+*aussehen, bekommen, bleiben, brauchen, bringen, drohen, dürfen, erscheinen, fahren, finden, fühlen, geben, gehen, gehören, gelten, glauben, haben, halten, heißen, helfen, hören, kommen, kriegen, können, lassen, legen, lehren, lernen, liegen, machen, mögen, müssen, nehmen, pflegen, riechen, scheinen, schicken, sehen, sein, setzen, sollen, spüren, stehen, suchen, tun, vermögen, versprechen, verstehen, werden, wirken, wissen, wollen*
 :::
 
 ### Grammaticalisation of lexical meaning {#sec:intro-lexical-meanings}
