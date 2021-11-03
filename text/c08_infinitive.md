@@ -366,7 +366,8 @@ The absentive can only be used with verbs that clearly include agency, so typica
 
 **Attested Verbs**
 
-- agentive verbs like *bringen, schlafen, schwimmen, zurückbringen*, etc.
+- agentive verbs like *arbeiten, bringen, laufen, rennen, schlafen, schwimmen, zurückbringen*, etc.
+- not possible with non-agentive verbs like: *abkühlen, ankommen, aufstehen, bluten, einschlafen, fallen, husten, niesen, scheitern, stürzen, verrosten, wachsen, weinen*
 
 ### *gehen/fahren + Infinitiv* Abitive
 
@@ -466,7 +467,7 @@ d. ^* Hier lässt es sich schwer bluten.
 **Attested Verbs**
 
 - agentive intransitives like *atmen, laufen, leben, schwimmen, singen, spielen, springen, tanzen, träumen* etc.
-- not possible with patientive intransitives like *platzen, bluten*, etc.
+- not possible with patientive intransitives like *platzen, bluten, niesen, husten*, etc.
 
 **Examples**
 

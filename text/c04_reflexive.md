@@ -1420,7 +1420,7 @@ c. ^* Er verbrennt sich und das Buch.
 
 **Attested Verbs**
 
-- *abduschen, abhetzen, abwenden, anlehnen, anziehen, aufrichten, ausziehen, äußern, bewegen, entblößen, erheben, hinlegen, hinsetzen, hinstellen, neigen, organisieren, quälen, recken, räkeln, schneiden, strecken, täuschen, verbrennen, verschlafen, verschlucken*
+- *abduschen, abhetzen, abwenden, anlehnen, anziehen, aufrichten, ausziehen, äußern, bewegen, entblößen, erheben, hinlegen, hinsetzen, hinstellen, neigen, organisieren, quälen, recken, räkeln, schneiden, strecken, täuschen, verbrennen, verkleiden, verschlafen, verschlucken*
 
 **Examples**
 
@@ -1453,7 +1453,7 @@ Ach, Johanna, ich glaube, ich habe mich verschlafen.^[~~DWDS~~: Fontane, Theodor
 
 ### [ NAL | N–L ] Reflexive accusative drop + locative
 
-Though similar to the previous 'autocausative' alternations, the alternation in [@next a,b] looks very much like self-inflicted reflexive reference, even the conjunction seems to be perfectly possible [@next c]. It needs more investigation whether this alternation is really to be considered as a diathesis.
+Similar to the previous endoreflexive alternations, the alternation in [@next a,b] looks very much like self-inflicted reflexive reference, even though the conjunction seems to be perfectly possible [@next c]. It needs more investigation whether this alternation is really to be considered as a diathesis.
 
 ::: ex
 a. Er wirft die Kleider aufs Bett.
