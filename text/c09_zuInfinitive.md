@@ -1,4 +1,4 @@
-# Light verb + *zu* + infinitive alternations {#sec:zuinfinitive}
+# Light verb + *zu*-infinitive alternations {#sec:zuinfinitive}
 
 ## Introduction
 
@@ -7,10 +7,13 @@ Following Bech [-@bech1955] such construction are often designated as *Zweiter S
 
 here: coherent constructions with *zu-Infinitiv*, that do not allow non-coherent as an alternative
 
-- ~~[ SBJ > Ø ]~~ *sein* ~~Unpersönlicher Modalpassiv~~ (see [@sec:zuinfinitive-sein-impersonal ff.])
-- ~~[ SBJ > ADJ ]~~ *geben* ~~Wahldemotiv~~ (see [@sec:zuinfinitive-geben-demotion]
-- ~~[ SBJ > ADJ ]~~ *gelten* ~~Aufgabedemotiv~~ (see [@sec:zuinfinitive-gelten-demotion]
-- ~~[ OBJ > SBJ > Ø ]~~ *stehen* ~~Kognitionsantikausativ~~ (see [@sec:zuinfinitive-stehen-anticausative])
+The following eight diatheses with a *zu-Infinitiv* are attested regularly in German. Note that the light verbs *sein* and *geben* are both used in two different diatheses. The two *geben* diatheses are particularly different, both structurally and semantically.
+
+- ~~[ SBJ > Ø ]~~ *sein* ~~Unpersönlicher Modalpassiv~~ (see [@sec:zuinfinitive-sein-impersonal] ff.)
+- ~~[ SBJ > ADJ ]~~ *geben* ~~Möglichkeitsdemotiv~~ (see [@sec:zuinfinitive-geben-demotion]
+- ~~[ SBJ > ADJ ]~~ *gelten* ~~Notwendigkeitsdemotiv~~ (see [@sec:zuinfinitive-gelten-demotion]
+- ~~[ OBJ > SBJ > Ø ]~~ *gehen* ~~Unmöglichkeitsantikausativ~~ (see [@sec:zuinfinitive-gehen])
+- ~~[ OBJ > SBJ > Ø ]~~ *stehen* ~~Erwartungsantikausativ~~ (see [@sec:zuinfinitive-stehen])
 - ~~[ OBJ > SBJ > ADJ ]~~ *sein* ~~Modalpassiv~~ (see [@sec:zuinfinitiv-sein-passive])
 - ~~[ OBJ > SBJ > OBJ ]~~ *bleiben* ~~Restinversiv~~ (see [@sec:zuinfinitive-bleiben])
 - ~~[ Ø > SBJ > OBJ ]~~ *geben* ~~Auftragskausativ~~ (see [@sec:zuinfinitive-geben-causative])
@@ -23,14 +26,14 @@ The combination of *zu* with an infinitive is regularly written as two words in 
 
 ::: ex
 - Du brauchst nichts zu kaufen.
-- Du brauchst nicht einzukaufen.
+- Du brauchst nichts einzukaufen.
 :::
 
-From a purely grammatical perspective, *zu* is clearly bound morphology when used with an infinitive [cf. @duden2009: 439; @haider2010: 272-273], because (i) it is always unstressed and (ii) it is not separable from the infinitive, not even by separable preverbs like *ein-*. The *zu-Infinitiv* is thus best considered to be a special non-finite verbform of German, alongside the *Partizip* and the *Infinitiv*. Probably the only reason that *zu* is still written separately with simplex verbs is that there would be potential homographs when it would be written without a space. For example, the *zu-Infinitiv* of the verb *schließen* 'to close' would be *zuschlíeßen* with unstressed *zu* and main stress on *schließ* [@next a], while the regular *Infinitiv* of the verb *zuschließen* 'to lock' would be *zúschließen* with stressed *zu* [@next b]. An alternative orthographic choice might of course be to indicate the primary stress in such cases of possible confusion. However, the separation by a space is entrenched in German orthography and is unlikely to change. But this should not distract from the fact that morphologically *zu* is clearly bound morphology.
+From a purely grammatical perspective, *zu* is clearly bound morphology when used with an infinitive [cf. @duden2009: 439; @haider2010: 272-273], because (i) it is always unstressed and (ii) it is not separable from the infinitive, not even by separable preverbs like *ein-*. The *zu-Infinitiv* is thus best considered to be a special non-finite verbform of German, alongside the *Partizip* and the *Infinitiv*. Probably the only reason that *zu* is still written separately with simplex verbs is that there would be potential homographs when it would be written without a space. For example, the *zu-Infinitiv* of the verb *schließen* 'to close' would be *zuschlíeßen* with unstressed *zu* and main stress on *schließ* [@next a], while the regular *Infinitiv* of the verb *zuschließen* 'to lock' would be *zúschließen* with stressed *zu* [@next b]. An alternative orthographic choice might of course be to indicate the primary stress in such (rare) cases of possible confusion. However, the separation by a space is entrenched in German orthography and is unlikely to change, but this should not distract from the fact that morphologically *zu* is clearly bound morphology.
 
 ::: ex
 - Du brauchst die Tür nicht zu schließen.
-- Du sollst die Tür nicht zuschließen.
+- Du musst die Tür nicht zuschließen.
 :::
 
 ### Grammaticalisation {#sec:zuinfinitive-coherence}
@@ -92,7 +95,7 @@ All verbs that only allow for stage 2 [@llast d], or have a special meaning when
   Es ist bekannt, dass der Film eine Sensation zu werden verspricht.
 :::
 
-There is some overlap between the constructions discussed in this chapter and the ~~Halbmodalverben~~ as introduced by Eisenberg [e.g. -@eisenberg2006a: 362-365] and discussed in much detail in Colomo [-@colomo2010: Ch.6]. However, that term is defined in a much more restricted way to include only *pflegen, scheinen, drohen* and *versprechen*. The focus of the present chapter is more widely expanded. Crucially, Eisenbergs *Halbmodale* do not include the level 2 verbs with the most obvious modal meanings, viz. *haben, brauchen, wissen* and *verstehen* (see [@sec:zuinfinitive-haben]ff.).
+There is some overlap between the constructions discussed in this chapter and the ~~Halbmodalverben~~ as introduced by Eisenberg [e.g. -@eisenberg2006a: 362-365] and discussed in much detail in Colomo [-@colomo2010: Ch. 6]. However, that term is defined in a much more restricted way to include only *pflegen, scheinen, drohen* and *versprechen*. The focus of the present chapter is more widely expanded. Crucially, Eisenbergs *Halbmodale* do not include the level 2 verbs with the most obvious modal meanings, viz. *haben, brauchen, wissen* and *verstehen* (see [@sec:zuinfinitive-haben] ff.).
 
 ## Deponent verbs without alternations
 
@@ -134,7 +137,7 @@ There is an old tradition in Latin grammar to describe one of the possible meani
 
 ### --- Modal meaning --- {.unnumbered}
 
-### *wissen/verstehen + zu-Infinitiv* Capability {#sec:zuinfinitive-wissen}
+### *wissen/verstehen + zu-Infinitiv* Ability (*Abilitiv*)^[Note that Englisch *ability* comes from Latin *habilitas*, so a German name like ~~habilitiv~~ would probabliy be more precise. However, I prefer ~~abilitiv~~ because it is easier to understand due to the similarity to English. One can also invoke Medieval Latin *abilitas* as its origin, likewise with a dropped <h>.] {#sec:zuinfinitive-wissen}
 
 The construction *wissen + zu-Infinitiv* is only mentioned in-passing in the German grammatical literure [e.g. @engel1996: 483; @holl2010: 10; @duden2009: 426]. This ommission is all the more striking as it is widely ackowledged that the inflection of *wissen* shows various similarities to the *Modalverben* [@duden2009: 458-459, 481-482]. Actually, it is quite obvious that the *wissen + zu-Infinitiv* construction has a modal meaning expressing capability 'to be able to' [@next a]. This construction is obligatorily coherent [@next b,c].
 
@@ -157,7 +160,7 @@ Even less mentioned is *verstehen + zu-Infinitiv* [cf. @engel1996: 483], which l
 - Ich weiß deinen Einsatz zu schätzen.
 - Ich weiß ihn nirgends einzuordnen.^[Attested online at <https://www.philaseiten.de/cgi-bin/index.pl?PR=51029>, accessed 26 October 2021.]
 
-### *vermögen + zu-Infinitiv* Negative capability 
+### *vermögen + zu-Infinitiv* Negative ability 
 
 The construction *vermögen + zu-Infinitiv* is a formal-register expression meaning 'to be capable of something (with effort)' [cf. @engel1996: 482]. It is typically used with negation [@next a] and it is obligatorily coherent [@next b]. Incidental cases without negation are also attested [@next c].
 
@@ -167,7 +170,7 @@ The construction *vermögen + zu-Infinitiv* is a formal-register expression mean
 - Bisher habe die Industrie es vermocht, Rohstoffe immer noch effizienter und noch billiger zu fördern.^[~~DWDS~~: Die Zeit, 26.03.2015, Nr. 13.]
 :::
 
-### *haben + zu-Infinitiv* Obligation {#sec:zuinfinitive-haben}
+### *haben + zu-Infinitiv* Obligation (*Obligativ*) {#sec:zuinfinitive-haben}
 
 The *haben + zu-Infinitiv* construction, extensively discussed in Holl [-@holl2010] has a clear modal meaning of obligation [@next a,b], a clear parallel to the English *to have to* construction. This construction is obligatorily coherent [@next b].
 
@@ -297,7 +300,7 @@ This construction appears to be restricted to intransitive verbs. It might appea
 Jäger [-@jager2013] presents a detailed examination of the *bekommen/kriegen + zu-Infinitiv* construction [@next]. She concludes that the subject of such sentences is typically an experiencer [@jager2013: 235]. The centrality of the experiencer role is reminiscent of the *bekommen/kriegen/erhalten + Partizip* dative passive diathesis (see [@sec:participles-bekommen-passive]). However, both structurally and semantically these two constructions are clearly different.
 
 ::: ex
-- Ich habe auch sonst mancherlei zu sehen bekommen, was anderer Augen versagt bleibt.^[cited in Jäger [-@jager2013: 11] from ~~DWDS~~: Janitschek, Maria (1902): Die neue Eva, Leipzig: Seemann, S. 36138]
+Ich habe auch sonst mancherlei zu sehen bekommen, was anderer Augen versagt bleibt.^[cited in Jäger [-@jager2013: 11] from ~~DWDS~~: Janitschek, Maria (1902): Die neue Eva, Leipzig: Seemann, S. 36138]
 :::
 
 Jäger performed a corpus investigation and found that 77% of all examples used a verbs of sensation [@jager2013: 83], like *spüren* 'to feel' [@next a]. The second largest group with about 16% were verbs of consumption [@jager2013: 161], like *essen* 'to eat' [@next b]. Various agentive verbs make up a thrird group of about 6% [@jager2013: 201], like *packen* 'to grasp' [@next c].
@@ -325,51 +328,53 @@ Similar to the previous *kommen + zu-Infinitiv* construction (see [@sec:zuinfini
 The *sein + zu-Infinitiv* construction is typically used with transitive verbs as a passive with modal meaning expressing obligation (see [@sec:zuinfinitiv-sein-passive]). With intransitive constructions such a passive would lead to an impersonal construction, but this seems to be very rare [contrary to the claim in @holl2010: 18]. The example given by Holl is doubfull [@next] and I have not been able to find any more intransitive examples.
 
 ::: ex
-Ab 22 Uhr ist zu schlafen.^[Example from Holl [-@holl2010: 18].]
+Ab 22 Uhr ist zu schlafen. [@holl2010: 18]
 :::
 
 ### [ NP | -P ] *sein + zu-Infinitiv* Impersonal + governed preposition
 
-It is slightly more common to find impersonal *sein + zu-Infinitiv* constructions with governed prepositions, though this usage is still very rare [@next]. Note that the original nominative subject cannot be retained in another form, and it is not replaced by a valency-simulating pronun *es*. Because of the parallel to the *Modalpassiv* (see [@sec:zuinfinitiv-sein-passive]) I will call this diathesis ~~unpersönlicher Modalpassiv~~, although the name 'passive' is actually not fitting in this case.
-
-both können/müssen!
+It is slightly more common to find impersonal *sein + zu-Infinitiv* constructions with governed prepositions, though this usage is still very rare [@next]. Note that the original nominative subject cannot be retained in another form, and it is not replaced by a valency-simulating pronun *es*. Because of the parallel to the *Modalpassiv* (see [@sec:zuinfinitiv-sein-passive]) I will call this diathesis ~~unpersönlicher Modalpassiv~~, although the name 'passive' is actually not fitting in this case. Just as with the *Modalpassiv*, this construction can have either a deontic *müssen* interpretation [@next a] or an agentive *können* meaning [@next b], the latter typically with negation.
 
 ::: ex
+- Auf Ernst war wie immer lange zu warten. [@holl2010: 18]
 - Mit ihm ist nicht zu spaßen.
-- Auf Ernst war wie immer lange zu warten.^[Example from Holl [-@holl2010: 18].]
-- Daran ist zu arbeiten.^[~~DWDS~~: Die Zeit, 28.10.1999, Nr. 44.]
-- Und noch über einen Engel ist zu lachen, wenn man der Erzengel ist.^[~~DWDS~~: Vischer, Friedrich Theodor von: Ästhetik oder Wissenschaft des Schönen. Bd. 1. Reutlingen u. a., 1846.]
 :::
 
 **Attested verbs**
 
 - *arbeiten an, lachen über, spaßen mit, warten auf*
 
+**Examples**
+
+- Daran ist zu arbeiten.^[~~DWDS~~: Die Zeit, 28.10.1999, Nr. 44.]
+- Und noch über einen Engel ist zu lachen, wenn man der Erzengel ist.^[~~DWDS~~: Vischer, Friedrich Theodor von: Ästhetik oder Wissenschaft des Schönen. Bd. 1. Reutlingen u. a., 1846.]
+
 ### [ ND | –D ] *sein + zu-Infinitiv* Impersonal + dative
 
-Likewise, impersonal *sein + zu-Infinitiv* is possible with verbs taking a dative object, though this usage is exceedingly rare [@next]. Note that the original nominative subject cannot be retained and it is not replaced by a valency-simulating pronun *es*. Because of the parallel to the *Modalpassiv* (see [@sec:zuinfinitiv-sein-passive]) I will call this diathesis ~~unpersönlicher Modalpassiv~~, although the name 'passive' is actually not fitting in this case.
-
-"müssen" meaning, können in [@next b]
+Likewise, impersonal *sein + zu-Infinitiv* is possible with verbs taking a dative object, though this usage is exceedingly rare [@next]. Note that the original nominative subject cannot be retained and, while removed, it is not replaced by a valency-simulating pronun *es*. Because of the parallel to the *Modalpassiv* (see [@sec:zuinfinitiv-sein-passive]) I will call this diathesis ~~unpersönlicher Modalpassiv~~, although the name 'passive' is actually not fitting in this case. Just as with the *Modalpassiv*, this construction can have either a deontic *müssen* interpretation [@next a] or an agentive *können* meaning [@next b], the latter typically with negation.
 
 ::: ex
 - Und den Orchestermusikern ist zu gratulieren.^[~~DWDS~~: Die Zeit, 21.12.1990, Nr. 52.]
 - Auch ihm war nicht zu trauen.^[~~DWDS~~: Die Zeit, 15.09.2005, Nr. 38.]
-- Wer wirklich reif sein will für die Reifeprüfung, dem ist zu helfen.^[~~DWDS~~: Berliner Zeitung, 02.10.2000.]
-- Den tragenden Gründen dieser Stellungnahme ist beizutreten.^[~~DWDS~~: Die Zeit, 17.02.1984, Nr. 08.]
-- Auch mehrerer Einzelarbeiten zur Geschichte der Ostsiedlung ist zu gedenken.^[~~DWDS~~: Jahresberichte für deutsche Geschichte, 1939, S. 354.]
 :::
 
 **Attested Verbs**
 
 - *beitreten, gedenken, gratulieren, helfen, trauen*
 
+**Examples**
+
+- Wer wirklich reif sein will für die Reifeprüfung, dem ist zu helfen.^[~~DWDS~~: Berliner Zeitung, 02.10.2000.]
+- Den tragenden Gründen dieser Stellungnahme ist beizutreten.^[~~DWDS~~: Die Zeit, 17.02.1984, Nr. 08.]
+- Auch mehrerer Einzelarbeiten zur Geschichte der Ostsiedlung ist zu gedenken.^[~~DWDS~~: Jahresberichte für deutsche Geschichte, 1939, S. 354.]
+
 ### --- [ SBJ > ADJ ] --- {.unnumbered}
 
-### [ NA | pA ] *geben + zu-Infinitiv* Subject demotion (*Wahldemotiv*) {#sec:zuinfinitive-geben-demotion}
+### [ NA | pA ] *geben + zu-Infinitiv* Subject demotion (*Möglichkeitsdemotiv*) {#sec:zuinfinitive-geben-demotion}
 
 Transitive verbs can be used in a *geben + zu-Infinitiv* construction, demoting the nominative subject [cf. @engel1996: 488]. The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the light verbs are always in the third person singular, resulting in fixed expressions *es gibt* or *es hat gegeben*. The original nominative subject can be retained by a *für* prepositional phrase [@next b]. This construction is obligatorily coherent [@next c]. 
 
-Semantically, this construction expresses an option that is available to the original subject. Structurally, the subject is demoted (or even unexpressed). Because of these two characteristics I propose the somewhat cumbersome German designation ~~Wahldemotiv~~. Note that the same *geben + zu-Infinitiv* construction is also used for a semantically and structurally quite different causative construction, namely the *Auftragskausativ* (see [@sec:zuinfinitive-geben-causative]).
+Semantically, this construction expresses an option that is available to the original subject. Structurally, the subject is demoted (or even unexpressed). Because of these two characteristics I propose the somewhat cumbersome German designation ~~Möglichkeitsdemotiv~~. Note that the same *geben + zu-Infinitiv* construction is also used for a semantically and structurally quite different causative construction, namely the *Auftragskausativ* (see [@sec:zuinfinitive-geben-causative]).
 
 ::: ex
 - Seine Fans kaufen ein Gesamtpaket.
@@ -400,25 +405,22 @@ This constructions is most commonly used with an quantified adverb like *noch/vi
 - Es gibt noch viele Geschenke einzupacken.
 - Es gibt noch viele Probleme zu lösen.
 
-### [ NA | pA ] *gelten + zu-Infinitiv* Subject demotion (*Aufgabedemotiv*) {#sec:zuinfinitive-gelten-demotion}
+### [ NA | pA ] *gelten + zu-Infinitiv* Subject demotion (*Notwendigkeitdemotiv*) {#sec:zuinfinitive-gelten-demotion}
 
-The verb *gelten* can be with a *zu-Infinitiv* by demoting the orginal subject to an (optional) *für* prepositional phrase [@next]. As there is no replacement for the subject of the sentence, a valency-simulating pronoun *es* is introduced. This results in a fixed expression *es gilt* [cf. @engel1996: 488-489]. This construction expresses a goal to be reached, close to a modal 'must' meaning.
+The verb *gelten* can be with a *zu-Infinitiv* by demoting the orginal subject to an (optional) *für* prepositional phrase [@next a]. As there is no replacement for the subject of the sentence, a valency-simulating pronoun *es* is introduced. This results in a fixed expression *es gilt* [cf. @engel1996: 488-489]. This construction expresses a necessity, close to a modal 'must', and is only used in formal register.
 
-The *gelten + zu-Infinitiv* construction is typically coherent, viz. the finite verb *gilt* appears at the end of a subordinate clause [@nnext a]. However, it is possible to find non-coherent examples [@nnext b], indicating that this construction is not completely grammaticalised into a monoclausal construction. The non-coherent usage appears to be rare though.
-
-::: ex
-- Lanz verteidigt den Sieg.
-- Jetzt gilt es für Lanz den Sieg zu verteidigen.^[~~DWDS~~: Die Zeit, 02.11.2012]
-:::
+The *gelten + zu-Infinitiv* construction is typically coherent, viz. the finite verb *gilt* appears at the end of a subordinate clause [@next a]. However, it is possible to find non-coherent examples [@next b], indicating that this construction is not completely grammaticalised into a monoclausal construction. The coherent usage appears to be the more widespread, though.
 
 ::: ex
+- Lanz verteidigt den Sieg. \
+  Jetzt gilt es für Lanz den Sieg zu verteidigen.^[~~DWDS~~: Die Zeit, 02.11.2012]
 - Das alles ist die Aufgabe, die es zu lösen gilt.^[~~DWDS~~: Die Zeit, 05.07.2017, Nr. 28.]
 - Das ist eine Tradition, die es gilt zu erinnern und zu erhalten.^[~~DWDS~~: Berliner Zeitung, 09.11.1996.]
 :::
 
 **Examples**
 
-- Da war also der Punkt an dem es einzusetzen galt.^[[@bech1955: 220-222]]
+- Da war also der Punkt an dem es einzusetzen galt. [@bech1955: 220-222]
 - Das ist der Jackput, den es für uns zu knacken gilt.^[~~DWDS~~: Die Zeit, 16.11.2010.]
 - MINT-Berufe sind noch echte Männerdomänen, die es für Frauen zu erobern gilt.^[~~DWDS~~: Die Zeit, 13.06.2008, Nr. 25.]
 - Es gilt jetzt den Tisch zu putzen.
@@ -427,103 +429,103 @@ The *gelten + zu-Infinitiv* construction is typically coherent, viz. the finite 
 
 ### --- [ OBJ > SBJ > Ø ] --- {.unnumbered}
 
-### [ NA | –N ] *stehen + zu-Infinitiv* Anticausative (*Kognitionsantikausativ*) {#sec:zuinfinitive-stehen-anticausative}
+### [ NA | –N ] *stehen + zu-Infinitiv* Anticausative (*Erwartungsantikausativ*) {#sec:zuinfinitive-stehen}
 
-"stehen ist nur mit einer Reihe von epistemischen Verben kombinierbar" [@holl2010: 10, fn. 4] Bedeutung "zwangsweise gelten" und "kann sich nur mit Verben verbinden, die eine Erwartung ausdrücken" [@engel1996: 481]
+The construction *stehen + zu-Infinitiv* is used as an anticausative, expressing the expectation that the original accusative will come to pass. Examples with an explicit accusative noun phrase as in [@next a] are actually rare. Typically, this diatheses is found with cognitive predicates expressing an expectation [@engel1996: 481; @holl2010: 10, fn. 4], like *befürchten* 'to fear', with a *dass* complement clause [@next b]. Functionally, this complement clause has the same status as an accusative object, which becomes the subject after the application of the *stehen + zu-Infinitiv* diathesis. 
+
+Complement clauses typically move towards the end of the sentence in German, and then the first position of the sentence has to be filled. A position-simulating pronoun *es* is frequently used, resulting in a widespread collocation *es steht zu-Infinitiv* [@next b]. However, this pronoun *es* is removed when the first position of the sentence is filled otherwise, so this *es* has a completely different status compared to the obligatory valency-simulating *es* of *es gibt zu-Infinitiv* ([@sec:zuinfinitive-geben-demotion]) and *es gilt zu-Infinitiv* ([@sec:zuinfinitive-gelten-demotion]).
 
 ::: ex
-a. Ich befürchte einen weiteren Beschäftigungsabbau.
-b. Ein weiterer Beschäftigungsabbau steht zu befürchten.
+a. Ich befürchte einen weiteren Beschäftigungsabbau. \
+   Ein weiterer Beschäftigungsabbau steht zu befürchten.^[~~DWDS~~: Berliner Zeitung, 15.01.1999.]
+b. Jemand befürchtet, dass ihr Nachfolger das anders handhaben wird. \
+   Es steht zu befürchten, dass ihr Nachfolger das anders handhaben wird.^[~~DWDS~~: Die Zeit, 12.05.2016.]
+c. So steht zu befürchten, dass sich die innenpolitischen Gräben noch vertiefen.^[~~DWDS~~: Die Zeit, 07.05.2015, Nr. 19.]
 :::
 
-Nur für Verben mit einer Satzeinbettung? *bedenken, befürchten, bezweifeln, vermuten, hoffen, erwarten, lesen*
+Except for the verbs of expectation, there are two incidental, but quite frequent, verbs that can be used in this construction, namely *lesen* [@next a] and *verkaufen* [@next b]. Semantically, these do not seem to express any notion of expectation.
 
-- Daher steht zu erwarten, dass ...
-- Es steht zu befürchten, dass ...
-
-Special:
-
-- Auf dem Buch stand zu lesen, dass ...
-
-Without sentence embedding predicates only very few incidental examples of anticausative
-
-- Das Haus steht zu verkaufen.
-- das Schlimmste steht zu befürchten.
-
-### [ NA | –N ] *gehen + zu-Infinitiv* Possibility + manner adverbial {#sec:zuinfinitive-gehen-adverb}
-
-Only possible with very few verbs?
-
-"möglich" Interpretation. Immer mit Negation? (vgl. negative polarity)
-
-- Ich lösche die Dateien. Die Dateien gehen nicht zu löschen.
-- Ich schneide die Möhren. Die Möhren gehen nicht zu schneiden.
-
-Also with various manner adverbs?
-
-- Die Dateien gehen leicht/schwer zu löschen.
-
-[@helbig2001: 166] "können" interpretation: Das Radio geht zu reparieren.
-
-
-Die Zeit, 05.09.2009, Nr. 20 
-In den übrigen Abspielminuten fragt man sich: wie diese Musik eigentlich zu rezipieren geht.
-Berliner Zeitung, 21.07.2001 
-So sehr, dass eigentlich nichts mehr zu kitten geht.
-Die Zeit, 22.07.1977, Nr. 30 
-… der Bescheid, daß die Rampe auf keinen Fall zu bauen geht.
-
-**Examples**
-
-- … einen Flurschaden, der möglicherweise gar nicht mehr zu beheben ginge.^[~~DWDS~~: Die Zeit, 03.11.1972, Nr. 44.]
-
-Also possible: machen, was zu machen geht
+::: ex
+- Es stand zu lesen, dass die Mannschaft gegen den Trainer spielen würde.^[~~DWDS~~: Die Zeit, 03.09.2012.]
+- Luxuriöse Villa auf der Insel Brač steht zu verkaufen.^[Attested online at <https://www.croatia-property.net/de/property/luxuriose-villa-auf-der-insel-brac-zu-verkaufen-1991/>, accessed 8 November 2021.]
+:::
 
 **Attested Verbs**
 
-- *beheben, kitten, löschen, reparieren, rezipieren, schneiden*
+- Verbs of positive expectation: *bedenken, befürchten, erwarten, fürchten, hoffen, vermuten*
+- Verbs of negative expectation: *bezweifeln*
+- Others: *lesen, verkaufen*
 
-### --- [ OBJ > SBJ > ADJ ] --- *Modalpassiv* {.unnumbered}
+### [ NA | –N ] *gehen + zu-Infinitiv* Negative anticausative (*Unmöglichkeitsantikausativ*) {#sec:zuinfinitive-gehen}
 
-### [ NA | pN ] *sein + zu-Infinitiv* Passive {#sec:zuinfinitiv-sein-passive}
+The *gehen + zu-Infinitiv* anticausative [@next a] seems to be typical for an informal register. Most examples include a negation and only very few examples without negation are attested [@next b,c]. The construction expresses that something is impossible (or, without negation, possible).
 
-"müssen" Interpretation does not allow for the retention of the agent
+::: ex
+- Ich lösche die Datei. \
+  Die Datei geht nicht zu löschen.
+- Die temporäre Datei geht zu löschen, aber nicht die exe.^[Attested online at <https://administrator.de/forum/windows-7-probleme-nach-laufwerksbuchstaben-zuweisung-von-wechseldatentraegern-112602.html>, accessed 8 November 2021.]
+- Das Radio geht zu reparieren. [@helbig2001: 166]
+:::
 
-- Ich führe einen Hund an der Leine.
-- Hund sind an der Leine zu führen. (von ihren Besitzern)
-- Ich öffne das Fenster.
-- Das Fenster ist zu öffnen. (nur von bestimmte Personen)
+There is a special idiomatic construction *VERB, was zu VERB geht* [@next] that includes the *gehen + zu-Infinitiv* construction. There does not seem to be any obvious semantic relation to the monoclausal construction as discussed above. 
+
+::: ex
+- Die Sozialdemokraten haben […] verhindert, was nur zu verhindern ging.^[~~DWDS~~: Berliner Zeitung, 23.09.2000.]
+- Die […] Hochschulen haben versucht zu retten, was zu retten ging.^[~~DWDS~~: Berliner Zeitung, 17.05.2000.]
+- Was zu privatisieren ging, ist privatisiert.^[~~DWDS~~: Der Tagesspiegel, 14.07.2003.]
+:::
+
+**Attested Verbs**
+
+- *ändern, bauen, beheben, kitten, löschen, reparieren, rezipieren, schneiden, stopfen, verschließen*
+
+**Examples**
+
+- Dieses glas geht nicht zu schneiden weil es sicherheitsglas ist.^[Attested online at <https://www.gutefrage.net/frage/schneiden-einer-feuerfesten-scheibe>, accessed 8 November 2021.]
+- Leichtes Balsa geht zu schneiden, vor allem wenn es dunkles Balsa ist.^[Attested online at <https://www.rc-network.de/threads/portalfräse-mit-laser-nachrüsten.370360/page-4>, accessed 8 November 2021.]
+- In den übrigen Abspielminuten fragt man sich: wie diese Musik eigentlich zu rezipieren geht.^[~~DWDS~~: Die Zeit, 05.09.2009, Nr. 20.]
+- Ein Maul mehr ging nicht zu stopfen.^[~~DWDS~~: Am Ende der Welt X. Herzschnalzen Blog, 2010-06-01.]
+- So sehr, dass eigentlich nichts mehr zu kitten geht.^[~~DWDS~~: Berliner Zeitung, 21.07.2001.]
+- … der Bescheid, daß die Rampe auf keinen Fall zu bauen geht.^[~~DWDS~~: Die Zeit, 22.07.1977, Nr. 30.]
+- … einen Flurschaden, der möglicherweise gar nicht mehr zu beheben ginge.^[~~DWDS~~: Die Zeit, 03.11.1972, Nr. 44.]
+- Unser Quartier lag in einem Kellergeschoß, und mein Zimmer ging nicht zu verschließen.^[~~DWDS~~: Liliencron, Adda Freifrau von: Krieg und Frieden, Erinnerungen aus dem Leben einer Offiziersfrau. In: Simons, Oliver (Hg.) Deutsche Autobiographien 1690-1930, Berlin: Directmedia Publ. 2004 [1912], S. 45055.]
+- Was einmal geschehen, das geht nicht zu ändern.^[~~DWDS~~: Wander, Karl Friedrich Wilhelm (Hrsg.): Deutsches Sprichwörter-Lexikon. Bd. 1. Leipzig, 1867.]
+
+### --- [ OBJ > SBJ > ADJ ] --- {.unnumbered}
+
+### [ NA | pN ] *sein + zu-Infinitiv* Passive (*Modalpassiv*) {#sec:zuinfinitiv-sein-passive}
+
+When used with transitive verbs, the *sein + zu-Infinitiv* construction is a passive diathesis with a modal meaning. A passive is defined here as a promotion of the accusative object to nominative subject and the demotion (and typical complete deletion) of the original subject. Authors that argue against a passive status for this construction simply use other criteria [see @holl2010: 19].
+
+ Depending on the context, various modal interpretations are possible for the *sein + zu-Infinitiv* construction, as illustrated in [@next]. These examples show a *müssen* interpretation in [@next a], a *dürfen* interpretation in [@next b], a *können* interpretation in [@next c] and a *nicht brauchen* interpretation in [@next d]. The *müssen* and *können* interpretations seem to be the most frequent.
+
+::: ex
+- Ich führe einen Hund an der Leine. \
+  Hunde sind (von ihren Besitzern) an der Leine zu führen. 
+- Ich öffne das Fenster. \
+  Das Fenster ist (nur von bestimmte Personen) zu öffnen.
+- Du löst die Aufgabe. \
+  Die Aufgabe ist (für dich) leicht zu lösen.
+- Ich erwarte Hagel. \
+  Hagel ist nicht zu erwarten.
+:::
+
+There are various syntactic differences between the *müssen* and *können* interpretations [@holl2010: 18-21]. First, with the *müssen* interpretation [@last a] it is possible to retain the original agent with a *von* prepositional phrase, but this is very uncommon. The *für* agent retention [@last c] is only possible with *können* interpretation. Second, a *können* interpretation is forced by adding adverbials (including negation) like *einfach* 'easily' [@next a] or *schön* 'beautifully' [@next b].
+
+::: ex
+- Das Pult ist zu bedienen.
+  Das Pult ist einfach zu bedienen.
+- Der Weg ist zu gehen. \
+  Der Weg ist schön zu gehen.
+:::
+
+When used with verbs without an accusative argument, the *sein + zu-Infinitiv* construction can form an impersonal passive, though this is rare (see [@sec:zuinfinitive-sein-impersonal] ff.).
+
+**Examples**
+
 - Ein Loblied ist zu singen auf dieses Buch.^[~~DWDS~~: Die Zeit, 09.06.2005, Nr. 24]
-
-[@holl2010: 18-19] incidental *von* agent retention is possible, but very uncommon. *für* agent retention is only possible with "können" interpretation
-
-- Die Aufgaben sind von allen zu lösen
-
-"können" Interpretation (agent retention possible?! *für*)
-
-- Du löst die Aufgabe.
-- Die Aufgabe ist für dich leicht zu lösen.
-- Ich begründe meinen Rücktritt politisch.
 - Mein Rücktritt war nur politisch zu begründen.
-
-Weitere modale Interpretationsmöglichkeiten? brauchen?
-
-- Hagel ist nicht zu erwarten.
-
-Mit bewertung in "können" Interpretation. Notwendige adverbiale Bewertung um diese Lesart zu kriegen?
-
-- Das Pult ist einfach/mit Vorsicht zu bedienen.
-- Der Weg ist schön zu gehen.
-- Die Aufgabe ist schwer/schwierig/leicht/unmöglich zu lösen.
-
-Diese Konstruktion führt zu "raising/lowering"!?
-
-- Das Pult zu bedienen ist einfach. (* Das Pult zu bedienen ist mit Vorsicht)
-- Es ist einfach das Pult zu bedienen.
-
-das auch?
-
-- ? Mein Rücktritt zu begründen war politisch
+- Die Aufgabe ist unmöglich zu lösen.
 
 ## Diatheses with promotion to subject
 

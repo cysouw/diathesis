@@ -666,14 +666,6 @@ b. Der Lehrer lässt den Schüler die Aufgabe lösen.
 c. Diese Aufgabe lässt sich lösen.
 :::
 
-Similarly, the alternation using the light verb *gehen + zu-Infinitiv* necessarily needs an additional evaluative adverb or negation [@next], see [@sec:zuinfinitive-gehen-adverb]. The light verb construction does not seem possible without the adverbial [@next c].
-
-::: ex
-a. Ich lösche die Dateien.
-b. Die Dateien gehen leicht/schwer/nicht zu löschen.
-c. ^^?^ Die Dateien gehen zu löschen.
-:::
-
 ## Chaining {#sec:intro-chaining}
 
 ### Isolated diatheses
@@ -846,10 +838,10 @@ b. Hier wird getanzt.
 c. ^* Hier wird es getanzt.
 :::
 
-A different kind of isolated subject diathesis is ~~subject demotion~~ of the nominative subject to a prepositional phrase. An example is the *geben + zu-Infinitiv* [@next], see [@sec:zuinfinitive-geben-demotion]. In this diathesis, the subject is demoted to an optional non-governed prepositional phrase ~~[SBJ › ADJ]~~.
+A different kind of isolated subject diathesis is subject demotion of the nominative subject to a prepositional phrase. An example is the *geben + zu-Infinitiv* [@next], see [@sec:zuinfinitive-geben-demotion]. In this diathesis, the subject is demoted to an optional non-governed prepositional phrase ~~[SBJ › ADJ]~~. The demotion is the only role-remapping that is happening in this diathesis, so I propose to call such a diathesis a ~~Demotive~~.
 
 ::: ex
-~~Subject demotion [SBJ › ADJ]~~
+~~Demotive [SBJ › ADJ]~~
 
 a. Wir gewinnen einen Preis. 
 b. es gibt (für uns) einen Preis zu gewinnen.
@@ -858,7 +850,7 @@ b. es gibt (für uns) einen Preis zu gewinnen.
 Most isolated diatheses are only attested in incidental examples in German, like a subject demotion to a governed preposition ~~[SBJ › PBJ]~~ with *fehlen* shown in [@next], see [@sec:prepositions-nominative-demotion].
 
 ::: ex
-~~Subject demotion [SBJ › PBJ]~~
+~~Demotive [SBJ › PBJ]~~
 
 a. Das Geld fehlt ihm.
 b. Ihm fehlt es an Geld.
@@ -1475,20 +1467,20 @@ a. Ich traue ihm nicht.
 b. Ihm ist nicht zu trauen.
 :::
 
-## Demoted subject diatheses ~~[SBJ › ADJ]~~
+## Demotive diatheses ~~[SBJ › ADJ]~~
 
-### *Aufgabedemotiv* (*gelten + zu-Infinitiv*) {#sec:summary-aufgabedemotiv}
+### *Notwendigkeitsdemotiv* (*gelten + zu-Infinitiv*) {#sec:summary-notwendigkeitsdemotiv}
 
-The ~~Aufgabedemotiv~~ (full discussion in [@sec:zuinfinitive-gelten-demotion]) uses a subjectless light verb *gelten* with *zu* and an infinitive [@next]. The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the light verbs are always in the third person singular, resulting in fixed expressions *es gilt*. The removed subject can optionally be retained with a *für* prepositional phrase. Any other argument is simply preserved, like the accusative *den Koffer* 'the suitcase' in the example below.  This construction semantically invokes some kind of (self‑)assignment that should be fulfilled, i.e. a modal-like 'must' meaning. 
+The ~~Notwendigkeitsdemotiv~~ (full discussion in [@sec:zuinfinitive-gelten-demotion]) uses a subjectless light verb *gelten* with *zu* and an infinitive [@next]. The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the light verbs are always in the third person singular, resulting in fixed expressions *es gilt*. The removed subject can optionally be retained with a *für* prepositional phrase. Any other argument is simply preserved, like the accusative *den Koffer* 'the suitcase' in the example below.  This construction semantically invokes some kind of (self‑)assignment that should be fulfilled, i.e. a modal-like 'must' meaning. 
 
 ::: ex
 a. Wir verlieren den Koffer nicht.
 b. Jetzt gilt es (für uns) den Koffer nicht zu verlieren.
 :::
 
-### *Wahldemotiv* (*geben + zu-Infinitiv*) {#sec:summary-wahldemotiv}
+### *Möglichkeitsdemotiv* (*geben + zu-Infinitiv*) {#sec:summary-moglichkeitsdemotiv}
 
-The ~~Wahldemotiv~~ (full discussion in [@sec:zuinfinitive-geben-demotion]) uses a subjectless light verbs *geben* with *zu* and an infinitive [@next]. The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the light verbs are always in the third person singular, resulting in fixed expressions *es gibt*. The removed subject can optionally be retained with a *für* prepositional phrase, though this is less frequent compared to the previous *gelten + zu-Infinitive* diathesis (see [@sec:summary-aufgabedemotiv]). Any other argument is simply preserved, like the accusative *den Koffer* 'the suitcase' in the example below. The *Wahldemotiv* semantically invokes an option that is available to the original subject, i.e. a modal-like 'can' meaning. The construction *geben + zu-Infinitiv* is also used in a semantically and structurally quite different diathesis, namely the *Auftragskausativ* (see [@sec:summary-auftragskausativ]).
+The ~~Möglichkeitsdemotiv~~ (full discussion in [@sec:zuinfinitive-geben-demotion]) uses a subjectless light verbs *geben* with *zu* and an infinitive [@next]. The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the light verbs are always in the third person singular, resulting in fixed expressions *es gibt*. The removed subject can optionally be retained with a *für* prepositional phrase, though this is less frequent compared to the previous *gelten + zu-Infinitive* diathesis (see [@sec:summary-notwendigkeitsdemotiv]). Any other argument is simply preserved, like the accusative *den Koffer* 'the suitcase' in the example below. The *Möglichkeitsdemotiv* semantically invokes an option that is available to the original subject, i.e. a modal-like 'can' meaning. The construction *geben + zu-Infinitiv* is also used in a semantically and structurally quite different diathesis, namely the *Auftragskausativ* (see [@sec:summary-auftragskausativ]).
 
 ::: ex
 a. Wir kaufen den Koffer.
@@ -1591,15 +1583,25 @@ a. Die Stille entspannt ihn.
 b. Er gibt sich entspannt \*(durch die Stille).
 :::
 
-### *Kognitionsantikausativ* (*stehen + zu-Infinitiv*) {#sec:summary-kognitionsantikausativ}
+### *Erwartungsantikausativ* (*stehen + zu-Infinitiv*) {#sec:summary-erwartungsantikausativ}
 
-The ~~Kognitionsantikausativ~~ (full discussion in [@sec:zuinfinitive-stehen-anticausative]) uses a light verb *stehen* with *zu* and infinitive. The original accusative object is promoted to subject and the erstwhile nominative subject cannot be retained, so this clearly is an anticausative diathesis. However, examples with an explicitly accusative noun phrase as in [@next a] are actually rare. Typically, this diatheses is found with cognitive predicates, like *befürchten* 'to fear', with a *dass* complement clause [@next b]. Functionally, this complement clause has the same status as an accusative object. Note that complement clauses typically come towards the end of the sentence in German, and then the first position of the sentence often has to be filled with a position-simulating pronoun *es* (which is removed when the first position is filled otherwise).
+The ~~Erwartungsantikausativ~~ (full discussion in [@sec:zuinfinitive-stehen]) uses a light verb *stehen* with *zu* and an infinitive. The original accusative object is promoted to subject and the erstwhile nominative subject cannot be retained, so this clearly is an anticausative diathesis. However, examples with an explicitly accusative noun phrase as in [@next a] are actually rare. Typically, this diatheses is found with cognitive predicates expressing an expectation, like *befürchten* 'to fear', with a *dass* complement clause [@next b]. Functionally, this complement clause has the same status as an accusative object. Note that complement clauses typically come towards the end of the sentence in German, and then the first position of the sentence often has to be filled with a position-simulating pronoun *es* (which is removed when the first position is filled otherwise).
 
 ::: ex
 a. Ich befürchte einen weiteren Beschäftigungsabbau. \
    Ein weiterer Beschäftigungsabbau steht zu befürchten.
 b. Ich befürchte, dass er zu spät kommen wird. \
    Es steht zu befürchten, dass er zu spät kommen wird.
+:::
+
+### *Unmöglichkeitsantikausativ* (*gehen + zu-Infinitiv*) {#sec:summary-unmoglichkeitsantikausativ}
+
+The ~~Unmöglichkeitsantikausativ~~ (full discussion in [@sec:zuinfinitive-gehen]) uses a light verb *gehen* with *zu* and an infinitive. This anticausative diathesis is typical for an informal register, but written examples can be found going back to the 19th century. The construction is typically used with an additional negation [@next b], though in contemporary online writing it is also attested without negation [@next c]. Because of the negation, the typical usage of the *Unmöglichkeitsantikausativ* is to express the impossibility to change something.
+
+::: ex
+- Ich lösche die Datei. 
+- Die Datei geht nicht zu löschen.
+- Die Datei geht zu löschen.
 :::
 
 ## Passive diatheses ~~[OBJ › SBJ › ADJ]~~ 
@@ -1820,7 +1822,7 @@ b. Ich schreibe einen Brief. \
 
 ### *Auftragskausativ* (*geben + zu-Infinitiv*) {#sec:summary-auftragskausativ}
 
-The ~~Auftragskausativ~~ (full discussion in [@sec:zuinfinitive-geben-causative]) adds a causer by using the light verb *geben* with *zu* and an infinitive. In this diathesis the erstwhile subject becomes a dative (not an accusative). In many examples of this diathesis the meaning of this diathesis is very close to the meaning of the lexical verb *geben* 'to give'. For example with the verb *trinken* 'to drink' [@next a] the diathesis implies both the literal interpretation 'he gives X to Y for drinking' and the causative interpretation 'he causes Y to drink X'. Whatever the interpretation, this construction is coherent, and thus monoclausal [@next b], so, whatever the precise semantic interpretation, this is structurally clearly a diathesis. The light-verb status of *geben* is better exemplified with verbs that take clausal complements like *bedenken* 'to consider' [@next c]. The *geben + zu-Infinitiv* construction is also used for a semantically and structurally quite different diathesis, namely the *Wahldemotiv* (see [@sec:summary-wahldemotiv]).
+The ~~Auftragskausativ~~ (full discussion in [@sec:zuinfinitive-geben-causative]) adds a causer by using the light verb *geben* with *zu* and an infinitive. In this diathesis the erstwhile subject becomes a dative (not an accusative). In many examples of this diathesis the meaning of this diathesis is very close to the meaning of the lexical verb *geben* 'to give'. For example with the verb *trinken* 'to drink' [@next a] the diathesis implies both the literal interpretation 'he gives X to Y for drinking' and the causative interpretation 'he causes Y to drink X'. Whatever the interpretation, this construction is coherent, and thus monoclausal [@next b], so, whatever the precise semantic interpretation, this is structurally clearly a diathesis. The light-verb status of *geben* is better exemplified with verbs that take clausal complements like *bedenken* 'to consider' [@next c]. The *geben + zu-Infinitiv* construction is also used for a semantically and structurally quite different diathesis, namely the *Möglichkeits* (see [@sec:summary-moglichkeitsdemotiv]).
 
 ::: ex
 a. Das Kind trinkt Milch. \
@@ -2427,7 +2429,7 @@ a. Die Schüler lösen die Aufgaben.
 b. Die Schüler haben die Aufgaben zu lösen.
 :::
 
-### *Kompetentiv* (*wissen/vermögen/verstehen + zu-Infinitiv*)
+### *Abilitiv* (*wissen/vermögen/verstehen + zu-Infinitiv*)
 
 (full discussion in [@sec:zuinfinitive-wissen]) "können"
 
@@ -2457,7 +2459,7 @@ b. Sie kam neben mir zu stehen.
 (full discussion in [@sec:zuinfinitive-bekommen])
 
 ::: ex
-a. Er seiht einen Film.
+a. Er sieht einen Film.
 b. Er bekommt einen Film zu sehen.
 :::
 

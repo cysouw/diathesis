@@ -187,7 +187,7 @@ The number of monomorphemic 'strictly' transitive verbs seems to be very limited
 
 **Attested Verbs**
 
-- Monomorphemic: *bilden, brauchen, finden, freuen, grüßen, kennen, kriegen, merken, mögen, pflegen, tanken, wecken, wundern*
+- Monomorphemic: *bilden, brauchen, finden, freuen, grüßen, kennen, kriegen, merken, mögen, pflegen, tanken, wecken*
 - Verbpräfixes/particles: *abmessen, abschreiten, abwiegen, angehen, ansehen, ansetzen, begrüßen, beängstigen, behalten, bekommen, beruhigen, beschäftigen, darstellen, entschuldigen, erreichen, umfassen, unterbrechen, verachten, verletzen, verschwenden, zerreißen, zerstören*
 
 **Examples**
@@ -196,7 +196,6 @@ The number of monomorphemic 'strictly' transitive verbs seems to be very limited
 - Ich brauche einen Kaffee.
 - Der frische Kaffee freut mich.
 - Ich merke den Fehler zu spät.
-- Das Polizeiauto vor der Tür wundert ihn.
 - Ich trenne die Gruppe.
 - Ich entschuldige dich (bei der Chorprobe).
 - Ich setze das Messer an
