@@ -260,6 +260,59 @@ The construction *bleiben + Infinitiv* [cf. @eisenberg2006a: 351; @engel1996: 47
 - Seine künstlerischen Leistungen bleiben bestehen, auch wenn man sie nun in anderem Licht betrachtet.^[~~DWDS~~: Die Zeit, 07.11.2017.]
 - Immer mehr bleiben hocken, wenn eine neue Übung beginnt.^[~~DWDS~~: Berliner Zeitung, 25.01.1996.]
 
+### *sein + Infinitiv* Absentive {#sec:infinitive-sein-absentive}
+
+The ~~Absentive~~ is a construction that expresses that the subject participant is currently not present because of some activity that is being pursued. The grammatical concept was originally proposed by de Groot [-@groot2000]. For German, this phenomenon is widely discussed in the literature [cf. @vogel2007: 269ff.; @abraham2008; @konig2009]. An activity like *schwimmen* 'to swim' can be used in the infinitive with the light verb *sein* to indicate absence because of the swimming [@next a]. This construction is typically used with intransitive verbs, though there does not seem to be a strict prohibition of more complex activities with more arguments [@next b]. This construction does not induce an IPP *Ersatzinfinitiv* [@next c].
+
+::: ex
+- Ich schwimme. \
+  Ich bin schwimmen.
+- Ich bringe dem Nachbarn den Teller zurück. \
+  Ich bin nur mal kurz dem Nachbarn den Teller zurückbringen.
+- Ich bin dem Nachbarn den Teller zurückbringen gewesen (^\*^sein).
+:::
+
+The absentive can only be used with verbs that clearly include agency, so typical patientive verbs like *einschlafen* 'to fall asleep' do not allow for this construction (see [@sec:participles-sein-perfect]). In contrast, a verb like *schlafen* 'to sleep' does allow for an absentive construction, though it needs a suitable context [@next b]. Note that not all verbs with a *haben* Perfekt (often analysed as 'agentive', see [@sec:participles-haben-perfect]) allow for an absentive, for example *sitzen* 'to sit' does not [@next c].
+
+::: ex
+- ^* Ich bin einschlafen.
+- Ich bin dann mal schlafen!
+- ^* Ich bin auf den Stuhl sitzen.
+:::
+
+**Attested Verbs**
+
+- agentive verbs like *arbeiten, bringen, laufen, rennen, schlafen, schwimmen, zurückbringen*, etc.
+- not possible with non-agentive verbs like: *abkühlen, ankommen, aufstehen, bluten, einschlafen, fallen, husten, niesen, scheitern, stürzen, verrosten, wachsen, weinen*
+
+### *gehen/fahren + Infinitiv* Abitive
+
+Parallel to the *sein + Infinitiv* absentive, the light verbs *gehen* 'to go' and *fahren* 'to drive' can also be used to indicate (intended) absence because of an activity [@next a]. In accordance to their lexical meaning, these two light verbs place a focus on the movement away, leading to the absence. I propose the term ~~abitive~~ (from Lat. *abire* 'depart, go away') for this construction. This abitive construction does not induce an IPP *Ersatzinfinitiv* [@next c].
+
+::: ex
+- Er besucht seinen Freund. \
+  Er geht/fährt seinen Freund besuchen.
+- ^* Er geht einschlafen.
+- Er ist seinen Freund besuchen gegangen/gefahren (^\*^gehen/fahren)
+:::
+
+**Attested Verbs**
+
+- probably exactly the same verbs as can be used with *sein + Infinitive* absentive can also be used with *gehen/fahren + Infinitive*.
+
+### *kommen + Infinitiv* Aditive
+
+Contrasting to the *gehen/fahren +Infinitiv* ~~abitive~~ there is also a *kommen + Infinitiv* construction to express a movement towards a location where an activity takes place [@next a]. I propose the term ~~aditive~~ (from Lat. *adire* 'approach') for this construction. This aditive construction does not induce an IPP *Ersatzinfinitiv* [@next b].
+
+::: ex
+- Er kommt hier immer die Zeitung lesen.
+- Er ist hier immer die Zeitung lesen gekommen (^\*^kommen)
+:::
+
+**Attested Verbs**
+
+- probably exactly the same verbs as can be used with *sein + Infinitive* absentive can also be used with *kommen + Infinitive*.
+
 ### *haben + leicht/gut + Infinitiv* Exceptionality (*Exemptiv*) {#sec:infinitive-haben-adverbial}
 
 A special construction using *haben* with infinitive describes a situation in which the subject is exempt of any difficulty, so I propose to call this construction ~~exemptive~~ (from Lat. *exemptus* 'freed of'). This construction obligatorily needs an adverb, most frequently *leicht* 'easy' [@next a] or *gut* 'well' [@next b]. Only incidentally other adverbs are attested, like *klug* 'clever' [@next c]. The main verbs seem to be restricted to intransitive verbs, most frequent are *reden* 'to talk' and *lachen* 'to smile'. The only examples with transitive verbs involve incorporated objects, which are argueably intransitive [@next d].
@@ -332,70 +385,15 @@ It is undecidable whether the *werden + Infinitiv* construction induces an IPP *
   (= stack of *werden + Infinitiv Futur* +> *gehören + Partizip Normpassiv*)
 :::
 
-### *brauchen + Infinitiv* + Negation {#sec:infinitive-brauchen}
+### *brauchen + Infinitiv* Negative obligation {#sec:infinitive-brauchen}
 
-The verb *brauchen* 'to need' is typically used with *zu + Infinitiv* with some kind of negation [@next a], see [@sec:zuinfinitive-brauchen]. However, it also occurs without *zu* [@next b]. Whether there is any semantic difference between these two options needs more in-depth investigation. Used without *zu* it seems only logical to include *brauchen* in the set of modal verbs [cf. @duden2009: 556]. The light verb *brauchen* is similar to the modal verbs in that it induces an IPP *Ersatzinfinitiv* [@next c].
+The verb *brauchen* 'to need' is typically used with *zu-Infinitiv* with some kind of negation or a modal particle like *nur* or *bloß* [@next a], see [@sec:zuinfinitive-brauchen]. However, it also occurs without *zu* [@next b]. Whether there is any semantic difference between these two options needs more in-depth investigation. Used without *zu* it seems only logical to include *brauchen* in the set of modal verbs [cf. @duden2009: 556]. The light verb *brauchen* is similar to the modal verbs in that it induces an IPP *Ersatzinfinitiv* [@next c].
 
 ::: ex
 - Du brauchst nur noch zu unterschreiben.
 - Du brauchst nur noch unterschreiben.
 - Du hättest doch nur noch unterschreiben brauchen!
 :::
-
-### --- Absentives --- {.unnumbered}
-
-### *sein + Infinitiv* Absentive {#sec:infinitive-sein-absentive}
-
-The ~~Absentive~~ is a construction that expresses that the subject participant is currently not present because of some activity that is being pursued. The grammatical concept was originally proposed by de Groot [-@groot2000]. For German, this phenomenon is widely discussed in the literature [cf. @vogel2007: 269ff.; @abraham2008; @konig2009]. An activity like *schwimmen* 'to swim' can be used in the infinitive with the light verb *sein* to indicate absence because of the swimming [@next a]. This construction is typically used with intransitive verbs, though there does not seem to be a strict prohibition of more complex activities with more arguments [@next b]. This construction does not induce an IPP *Ersatzinfinitiv* [@next c].
-
-::: ex
-- Ich schwimme. \
-  Ich bin schwimmen.
-- Ich bringe dem Nachbarn den Teller zurück. \
-  Ich bin nur mal kurz dem Nachbarn den Teller zurückbringen.
-- Ich bin dem Nachbarn den Teller zurückbringen gewesen (^\*^sein).
-:::
-
-The absentive can only be used with verbs that clearly include agency, so typical patientive verbs like *einschlafen* 'to fall asleep' do not allow for this construction (see [@sec:participles-sein-perfect]). In contrast, a verb like *schlafen* 'to sleep' does allow for an absentive construction, though it needs a suitable context [@next b]. Note that not all verbs with a *haben* Perfekt (often analysed as 'agentive', see [@sec:participles-haben-perfect]) allow for an absentive, for example *sitzen* 'to sit' does not [@next c].
-
-::: ex
-- ^* Ich bin einschlafen.
-- Ich bin dann mal schlafen!
-- ^* Ich bin auf den Stuhl sitzen.
-:::
-
-**Attested Verbs**
-
-- agentive verbs like *arbeiten, bringen, laufen, rennen, schlafen, schwimmen, zurückbringen*, etc.
-- not possible with non-agentive verbs like: *abkühlen, ankommen, aufstehen, bluten, einschlafen, fallen, husten, niesen, scheitern, stürzen, verrosten, wachsen, weinen*
-
-### *gehen/fahren + Infinitiv* Abitive
-
-Parallel to the *sein + Infinitiv* absentive, the light verbs *gehen* 'to go' and *fahren* 'to drive' can also be used to indicate (intended) absence because of an activity [@next a]. In accordance to their lexical meaning, these two light verbs place a focus on the movement away, leading to the absence. I propose the term ~~abitive~~ (from Lat. *abire* 'depart, go away') for this construction. This abitive construction does not induce an IPP *Ersatzinfinitiv* [@next c].
-
-::: ex
-- Er besucht seinen Freund. \
-  Er geht/fährt seinen Freund besuchen.
-- ^* Er geht einschlafen.
-- Er ist seinen Freund besuchen gegangen/gefahren (^\*^gehen/fahren)
-:::
-
-**Attested Verbs**
-
-- probably exactly the same verbs as can be used with *sein + Infinitive* absentive can also be used with *gehen/fahren + Infinitive*.
-
-### *kommen + Infinitiv* Aditive
-
-Contrasting to the *gehen/fahren +Infinitiv* ~~abitive~~ there is also a *kommen + Infinitiv* construction to express a movement towards a location where an activity takes place [@next a]. I propose the term ~~aditive~~ (from Lat. *adire* 'approach') for this construction. This aditive construction does not induce an IPP *Ersatzinfinitiv* [@next b].
-
-::: ex
-- Er kommt hier immer die Zeitung lesen.
-- Er ist hier immer die Zeitung lesen gekommen (^\*^kommen)
-:::
-
-**Attested Verbs**
-
-- probably exactly the same verbs as can be used with *sein + Infinitive* absentive can also be used with *kommen + Infinitive*.
 
 ### --- Others --- {.unnumbered}
 
@@ -898,7 +896,7 @@ The verb *finden* (literally meaning 'to find', but in this construction the mea
 
 ### [ –N | NA ] *lehren + Infinitiv* Assistive {#sec:infinitive-lehren}
 
-The verb *lehren* 'to teach' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ('the teacher') is introduced as a nominative and the erstwhile nominative is demoted to accusative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *lehren* remains completely transparently related to the full verb with the meaning 'to teach'. There is an alternative construction with *zu + Infinitive* (see [@sec:zuinfinitive-coherence]) that appears to have a highly similar meaning. More research is needed to elucidate any difference between these two constructions [@next b,c]. The *lehren + Infinitive* diathesis does not invoke the IPP *Ersatzinfinitiv* [@next d].
+The verb *lehren* 'to teach' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ('the teacher') is introduced as a nominative and the erstwhile nominative is demoted to accusative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *lehren* remains completely transparently related to the full verb with the meaning 'to teach'. There is an alternative construction with *zu-Infinitive* (see [@sec:zuinfinitive-coherence]) that appears to have a highly similar meaning. More research is needed to elucidate any difference between these two constructions [@next b,c]. The *lehren + Infinitive* diathesis does not invoke the IPP *Ersatzinfinitiv* [@next d].
 
 ::: ex
 a. Der Junge schwimmt.
@@ -916,7 +914,7 @@ There does not seem to be any syntactic restriction on the main lexical verbs th
 
 ### [ –N | ND ] *helfen + Infinitiv* Assistive {#sec:infinitive-helfen}
 
-The verb *helfen* 'to help' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ('the helper') is introduced as a nominative and the erstwhile nominative is demoted to dative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *helfen* remains completely transparently related to the full verb with the meaning 'to help'. There is an alternative construction with *zu + Infinitive* [@next c], see [@sec:zuinfinitive-coherence], that appears to highly similar. More research is needed to elucidate any difference between these two constructions. The *helfen + Infinitive* diathesis allows the IPP *Ersatzinfinitiv* [@next d].
+The verb *helfen* 'to help' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ('the helper') is introduced as a nominative and the erstwhile nominative is demoted to dative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *helfen* remains completely transparently related to the full verb with the meaning 'to help'. There is an alternative construction with *zu-Infinitive* [@next c], see [@sec:zuinfinitive-coherence], that appears to highly similar. More research is needed to elucidate any difference between these two constructions. The *helfen + Infinitive* diathesis allows the IPP *Ersatzinfinitiv* [@next d].
 
 ::: ex
 - Ich trage den Koffer.

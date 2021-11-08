@@ -833,7 +833,7 @@ b. Der Teller klebt am Tisch. \
 - Natural process verbs: *altern, faulen, gären, keimen, rosten, schimmeln, splittern, triefen, welken*
 - Mental state/process: *resignieren, verzweifeln*
 - Other: *einbrechen, münden*
-- Motion verbs: *fahren, hüpfen, klettern, klettern, kriechen, landen, laufen, reisen, reiten, rennen, rotieren, rutschen, schwimmen, segeln, wandern*
+- Motion verbs: *fahren, hüpfen, klettern, kriechen, landen, laufen, reisen, reiten, rennen, rotieren, rutschen, schwimmen, segeln, wandern*
 - Manner-of-motion verbs ([@sec:prepositions-manner-of-movement]): *irren, schwanken, stampfen, tanzen, wackeln*
 - Weather manner-of-motion verbs ([@sec:prepositions-weather-manner-movement]): *blitzen, donnern, hageln, regnen, stürmen, wehen*
 - Anticausative verbs ([@sec:case-haben-anticausative]): *abnehmen, abreißen, abstoßen, anfangen, anhalten, aufmachen, backen, baden, beginnen, bewegen, braten, bremsen, duschen, fliegen, heilen, kochen, landen, läuten, öffnen, rauchen, schließen, spielen (Tonträger), starten, stoppen, umdrehen, wiegen, zählen, zünden*
@@ -1556,7 +1556,7 @@ c. (Ich finde, dass …) die Pflanze nicht [wie von dir versorgt] aussieht.
 d. (Ich finde, dass …) die Pflanze nicht [von dir versorgt] aussieht.
 :::
 
-The light verb *scheinen* can also occur with an extra *zu sein* construction [@next], which is analysed here as a stack of a *sein + Partizip* Perfect (see [@sec:participles-sein-perfect]) with a *scheinen + zu + Infinitiv* construction (see [@sec:zuinfinitive-scheinen]). The two examples in [@next b,c] are thus two different constructions, though the semantic difference needs a deeper investigation. 
+The light verb *scheinen* can also occur with an extra *zu sein* construction [@next], which is analysed here as a stack of a *sein + Partizip* Perfect (see [@sec:participles-sein-perfect]) with a *scheinen + zu-Infinitiv* construction (see [@sec:zuinfinitive-scheinen]). The two examples in [@next b,c] are thus two different constructions, though the semantic difference needs a deeper investigation. 
 
 ::: ex
 a. Der Gast reist ab.
