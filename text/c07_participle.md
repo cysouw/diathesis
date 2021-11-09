@@ -841,8 +841,8 @@ b. Der Teller klebt am Tisch. \
 
 **Examples**
 
-- Nach Medienberichten soll dies in einem erpresserischen System gemündet haben.^[~~DWDS~~: Die Zeit, 08.11.2015] \
-  Es ist die monatelange Stimmungsmache gegen Flüchtlinge, die den Hass säte, der in Tröglitz nun in Flammen gemündet ist.^[~~DWDS~~: Die Zeit, 04.04.2015]
+- Nach Medienberichten soll dies in einem erpresserischen System gemündet haben.^[~~DWDS~~: Die Zeit, 08.11.2015 (online).] \
+  Es ist die monatelange Stimmungsmache gegen Flüchtlinge, die den Hass säte, der in Tröglitz nun in Flammen gemündet ist.^[~~DWDS~~: Die Zeit, 04.04.2015 (online).]
 
 **Notes**
 
@@ -1265,7 +1265,7 @@ The *nehmen + Partizip* construction frequently occurs with *fangen* 'to catch' 
 
 **Examples**
 
-- Der mutmaßliche zweite Terrorverdächtige von Boston ist nach Polizeiangaben festgenommen genommen.^[~~DWDS~~: Die Zeit, 20.04.2013]
+- Der mutmaßliche zweite Terrorverdächtige von Boston ist nach Polizeiangaben festgenommen genommen.^[~~DWDS~~: Die Zeit, 20.04.2013 (online).]
 - Ich habe mich übrigens nie als Miteigentümer der Leuna-Werke verstanden und hätte sie 1990 nicht geschenkt genommen.^[~~DWDS~~: Die Zeit, 12.05.2005, Nr. 20]
 
 ### [ NA | NA ] *setzen + Partizip* Imprisonment
@@ -1314,7 +1314,7 @@ Although there indeed seems to be a tendency here, there are many counterexample
 - Lange Zeit weiß niemand - Patrick eingeschlossen - wovor hier eigentlich geflohen wird.^[~~DWDS~~: Der Tagesspiegel, 05.01.2002]
 - Außerdem: Wie brutal ist das Betrachten eines Regenbogens, wenn nebenan krepiert wird?^[~~DWDS~~: Arjouni, Jakob: Chez Max, Zürich: Diogenes 2006, S. 61]
 - Auch 2001 soll mit zweistelliger Rate weiter gewachsen werden.^[~~DWDS~~: Berliner Zeitung, 30.05.2001]
-- In meiner Umgebung wird nicht gestorben.^[~~DWDS~~: Die Zeit, 05.03.2017]
+- In meiner Umgebung wird nicht gestorben.^[~~DWDS~~: Die Zeit, 05.03.2017 (online).]
 :::
 
 In some specific contexts this impersonal construction also seems possible for transitive verbs with accusative arguments like *überarbeiten* 'to rework' [@next a] or even ditransitive verbs like *geben* 'to give [@next b]. However, note that in all such cases it appears to be impossible to retain any of the non-subject arguments, so these impersonal passives can be analysed as being stacked on top of an action focus diathesis (see [@sec:adverbial-action-focus]) dropping the accusative role and leading to an intransitive verb.
@@ -1351,7 +1351,7 @@ Many, but not all, verbs that allow for a reflexive conversive diathesis, like *
 
 ::: ex
 - Über die Zerstörung der Schöpfung […] wird sich empört.^[~~DWDS~~: Berliner Zeitung, 24.11.2003]
-- In braver Einigkeit wird sich darüber aufgeregt, dass die Debattenkultur in Deutschland zu lahm, zu konsensuell, zu träge geworden sei.^[~~DWDS~~: Die Zeit, 12.09.2017]
+- In braver Einigkeit wird sich darüber aufgeregt, dass die Debattenkultur in Deutschland zu lahm, zu konsensuell, zu träge geworden sei.^[~~DWDS~~: Die Zeit, 12.09.2017 (online).]
 :::
 
 **Attested Verbs**
@@ -1371,7 +1371,7 @@ Reflexive conversive verbs (see [@sec:reflexive-preposition-passive])
 **Examples**
 
 - Als Erstes wird sich allgemein darüber gewundert, wie anders man doch aussehe und dass man sich dennoch wieder erkannt habe.^[~~DWDS~~: Berliner Zeitung, 01.12.2004]
-- Wenn du etwas falsch machst, wird sich um dich gekümmert.^[~~DWDS~~: Die Zeit, 24.09.2015]
+- Wenn du etwas falsch machst, wird sich um dich gekümmert.^[~~DWDS~~: Die Zeit, 24.09.2015 (online).]
 
 ### [ ND | –D ] *werden + Partizip* Impersonal passive + dative {#sec:participles-impersonal-passive-dative}
 
@@ -1642,7 +1642,7 @@ A verb peculiar constructions occurs when a Perfect ist stacked on top of a *wer
 
 ::: ex
 - Die Tür ist geschlossen worden.
-- Tsipras schloss einen Rücktritt aus, der diskutiert geworden war, […].^[~~DWDS~~: Die Zeit, 23.07.2015]
+- Tsipras schloss einen Rücktritt aus, der diskutiert geworden war, […].^[~~DWDS~~: Die Zeit, 23.07.2015 (online).]
 - Als die Krise in ihrer ganzen Dimension erkannt geworden sei, habe die Regierung gut reagiert.^[~~DWDS~~: Die Zeit, 06.04.2015, Nr. 13]
 :::
 
@@ -1671,7 +1671,7 @@ The *werden + Partizip* passive is possible with most verbs that take an accusat
 
 - Verbs with obligatory quantified objects ([@sec:case-quantified-objects]): *dauern, enthalten, kosten, messen, rechnen, sparen, umfassen, wachsen, wiegen, zunehmen*
 - Verbs with reflexive conversive ([@sec:reflexive-preposition-passive]): *bekümmern, entwickeln, ergeben, empören, erstaunen, interessieren, freuen, kümmern, wundern*
-- Verbs of possession: *besitzen, erhalten, kriegen*
+- Verbs of possession: *bekommen, besitzen, erhalten, kriegen*
 - Other verbs without passive: *kennen, schmerzen (traurig machen, mit Akkusativ)*
 
 ### [ NA | pN ] *sein + Partizip* Passive (*Zustandspassiv*) {#sec:participles-sein-zustandspassiv}
@@ -1727,7 +1727,7 @@ Still, there are some transitive verbs that do not appear to allow a *Zustandspa
 The following verbs with accusative arguments do not seem to allow for a *sein + partizip* Passive:
 
 - *drücken (sorgen machen), feiern, fühlen, hören, kennen, kümmern, legen, lohnen, merken, mögen, passen, quälen, riechen, schmecken, schätzen (hochachter), sehen, setzen, stecken, verlangen, wissen, zeigen, zwicken*
-- Alternation with prefixes: *ärgern (verärgern), brauchen (verbrauchen), ekeln (anekeln), freuen (erfreuen), hassen (verhassen), heiraten (verheiraten), kratzen (zerkratzen), wundern (verwundern*
+- Alternation with prefixes: *ärgern (verärgern), brauchen (verbrauchen), ekeln (anekeln), freuen (erfreuen), hassen (verhassen), heiraten (verheiraten), kratzen (zerkratzen), wundern (verwundern)*
 - Different meaning of participle: *anhalten, ergeben, stören*
 
 **Examples**
@@ -2046,7 +2046,7 @@ b. Das Geschenk liegt in der Schublade versteckt.
 
 **Examples**
 
-- Trotz aller Fehltritte und Peinlichkeiten, die sich Hannah und Co. leisteten, vergaß Girls nicht, dass im größten Desaster immer auch die Hoffnung auf einen Neustart begründet liegt.^[~~DWDS~~: Die Zeit, 13.02.2017.]
+- Trotz aller Fehltritte und Peinlichkeiten, die sich Hannah und Co. leisteten, vergaß Girls nicht, dass im größten Desaster immer auch die Hoffnung auf einen Neustart begründet liegt.^[~~DWDS~~: Die Zeit, 13.02.2017 (online).]
 - Die Tatsachen aber sind hart, wie die Wahrheit, die in ihnen beschlossen liegt.^[~~DWDS~~: Die Zeit, 18.09.1964, Nr. 38.]
 - Radinsky begriff, welche Macht in Datenmassen verborgen liegt.^[~~DWDS~~: Die Zeit, 26.01.2017, Nr. 03.]
 
@@ -2215,7 +2215,7 @@ b. Ich weiß die Ostgebiete dem Kontrollrat unterstellt.
 
 Stacked with modal verbs:
 
-- Mancher Regierungsvertreter möchte es so verstanden wissen.^[~~DWDS~~: Die Zeit, 17.09.2017.]
+- Mancher Regierungsvertreter möchte es so verstanden wissen.^[~~DWDS~~: Die Zeit, 17.09.2017 (online).]
 - Wenn ich dich nicht so gut aufgehoben gewußt hätte, wäre ich Dir nachgefahren.^[~~DWDS~~: Müller-Jahnke, Clara: Ich bekenne. In: Deutsche Literatur von Frauen, Berlin: Directmedia Publ. 2001 [1904], S. 52626.]
 
 Stacked with self-inflicting reflexive alternation:
@@ -2287,13 +2287,13 @@ b. Du findest mich vom Alter verändert?
 
 **Examples**
 
-- Um die Sache zu prüfen, habe er im Urlaub mal einen Nacktbadestrand aufgesucht - und dort das Bild aus der Sauna bestätigt gefunden.^[~~DWDS~~: Die Zeit, 15.02.2016.]
+- Um die Sache zu prüfen, habe er im Urlaub mal einen Nacktbadestrand aufgesucht - und dort das Bild aus der Sauna bestätigt gefunden.^[~~DWDS~~: Die Zeit, 15.02.2016 (online).]
 
 Stacked with self-inflicting reflexive alternation:
 
 - Er fand sich bestätigt.
 - Sie fand sich genötigt, ja zu sagen.
-- Es heißt, sie habe sich damals in einem Interview falsch zitiert gefunden.^[~~DWDS~~: Die Zeit, 14.06.2010.]
+- Es heißt, sie habe sich damals in einem Interview falsch zitiert gefunden.^[~~DWDS~~: Die Zeit, 14.06.2010 (online).]
 
 ### --- [ ADJ > SBJ > OBJ ] --- {.unnumbered}
 

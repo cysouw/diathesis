@@ -960,8 +960,8 @@ d. Das Kind heult sich die Augen aus dem Kopf.
 **Examples**
 
 - Unkontrollierbar von einer Seite zur anderen schaukelte das Kleinkind und heulte sich die Augen aus dem Kopf, als Rupa Joshi den Raum betrat.^[~~DWDS~~: Die Zeit, 11.05.2015, Nr. 19.]
-- Sven Hannawald schreit sich die Seele aus dem Leib.^[~~DWDS~~: Die Zeit, 07.01.2018.]
-- An einem Abend in Davos sitzt ein Amerikaner chinesischer Herkunft in einem dunklen Pub und trinkt sich die Sorgen von der Seele.^[~~DWDS~~: Die Zeit, 20.01.2017.]
+- Sven Hannawald schreit sich die Seele aus dem Leib.^[~~DWDS~~: Die Zeit, 07.01.2018 (online).]
+- An einem Abend in Davos sitzt ein Amerikaner chinesischer Herkunft in einem dunklen Pub und trinkt sich die Sorgen von der Seele.^[~~DWDS~~: Die Zeit, 20.01.2017 (online).]
 - Sie tanzen/schreien sich die Seele aus dem Leib.
 - Sie rempelten rücksichtslos. Sie rempeln sich die Pakete aus der Hand.
 - Er trank sich den Stress aus dem Körper.
@@ -1656,7 +1656,7 @@ d. ^* Ich träume mich.
 - Ich lüge über mein Leben. Ich lüge mich durch mein Leben.
 - Die Motten fressen von/an den Pullover. Die Motten fressen sich durch den Pullover.
 - Bevor ich auf das Wasser gehe, muss ich meine Kür exakt im Kopf haben, ich denke mich quasi durch meinen Trick.^[~~DWDS~~: Die Zeit, 16.06.2009, Nr. 25.]
-- Er zitterte vor der Prüfung. Würzburg zitterte sich am Ende in die Playoffs.^[~~DWDS~~: Die Zeit, 07.05.2016.]
+- Er zitterte vor der Prüfung. Würzburg zitterte sich am Ende in die Playoffs.^[~~DWDS~~: Die Zeit, 07.05.2016 (online).]
 - Schalke schießt sich aus der Krise.^[Attested online at <https://www.faz.net/aktuell/sport/2-0-gegen-hannover-schalke-schiesst-sich-aus-der-krise-1258798.html>, accessed 30 March 2021.]
 
 ### --- [ OBJ > OBJ ] --- {.unnumbered}

@@ -2,12 +2,22 @@
 
 ## Introduction
 
+Besides regular infinitives, as discussed in the previous chapter, there are also light-verb construction with *zu* and an infinitive. The German particle *zu* is historically related to the English *to*, but they are used rather differently. In the German orthography, the *zu* element is regularly separated from the infinitive by a space. However, morphologically the *zu-Infinitive* is clearly one word and should be considered a special non-finite form of the verb along the participle and the infinitive (see [@sec:zuinfinitive-morphology]).
 
-Following Bech [-@bech1955] such construction are often designated as *Zweiter Status* in the German grammatical literature. However, this name is not very transparent nor particularly mnemonic, so I prefer to simply use the term *zu*-~~Infinitiv~~ constructions.
+The *zu-Infinitiv* can be combined with various light verbs to form monoclausal construction. This is widespread without diathesis, for example with light verbs *pflegen* [@next a], see [@sec:zuinfinitive-pflegen], and *haben* [@next b], see [@sec:zuinfinitive-haben]. However, the main focus of this chapter is on light verbs that induce diathesis, for example *sein* [@next c], see [@sec:zuinfinitiv-sein-passive], and *stehen* [@next d], see [@sec:zuinfinitive-stehen].
 
-here: coherent constructions with *zu-Infinitiv*, that do not allow non-coherent as an alternative
+::: ex
+- Sie pflegte laut zu lachen. 
+- Die Schüler haben die Aufgaben zu lösen.
+- Hunde sind an der Leine zu führen.
+- Ein weiterer Beschäftigungsabbau steht zu befürchten.
+:::
 
-The following eight diatheses with a *zu-Infinitiv* are attested regularly in German. Note that the light verbs *sein* and *geben* are both used in two different diatheses. The two *geben* diatheses are particularly different, both structurally and semantically.
+Following Bech [-@bech1955] such construction are often designated as *Zweiter Status* in the German grammatical literature. However, this name is not very transparent nor particularly mnemonic, so I prefer to simply use the term *zu*-~~Infinitiv~~ construction.
+
+One of the central issues with sentences that include a *zu-Infinitive* is whether such sentences are biclausal or monoclausal. There is actually a gramaticalisation cline with (non-coherent) biclausal structures on the one side and (coherent) monoclausal structures on the other side (see [@sec:zuinfinitive-grammaticalisation]). A major claim of this chapter is that all grammaticalised coherent monoclausal *zu-Infinitive* construction of the German language are discussed here, all diatheses as well as all epitheses (i.e. coherent constructions without role-remapping, see [@sec:zuinfinitive-epitheses]).
+
+The following eight diatheses with a *zu-Infinitiv* are attested regularly in German, so I propose a German name for them. Note that the light verbs *sein* and *geben* are both used in two different diatheses. The two *geben* diatheses are remarkably different, both structurally and semantically.
 
 - ~~[ SBJ > Ø ]~~ *sein* ~~Unpersönlicher Modalpassiv~~ (see [@sec:zuinfinitive-sein-impersonal] ff.)
 - ~~[ SBJ > ADJ ]~~ *geben* ~~Möglichkeitsdemotiv~~ (see [@sec:zuinfinitive-geben-demotion]
@@ -20,7 +30,7 @@ The following eight diatheses with a *zu-Infinitiv* are attested regularly in Ge
 
 ## Defining *zu-Infinitiv* constructions
 
-### Morphological structure
+### Morphological structure {#sec:zuinfinitive-morphology}
 
 The combination of *zu* with an infinitive is regularly written as two words in German orthography, like with the infinitive *kaufen* 'to buy' in [@next a]. However, the combination is written as one word when the verb has a separable preverb, like *ein-* in *einkaufen* 'to shop' [@next b]. With such preverbs, *zu* is inserted between the preverb and the verbal stem.
 
@@ -36,7 +46,7 @@ From a purely grammatical perspective, *zu* is clearly bound morphology when use
 - Du musst die Tür nicht zuschließen.
 :::
 
-### Grammaticalisation {#sec:zuinfinitive-coherence}
+### Grammaticalisation {#sec:zuinfinitive-grammaticalisation}
 
 The element *zu* in the *zu-Infinitiv* is obviously related to the preposition *zu*, which has a bewildering number of different uses in German.^[For example, see the listing of the ~~DWDS~~ at <https://www.dwds.de/wb/zu>.] Diachronically, there has been a development from an originally allative meaning 'towards' via a purpose meaning 'with the intend to' to the usage of *zu* in complement clauses. This grammaticalisation pathway is widespread worldwide [@haspelmath1989] and well-described for Germanic languages [e.g. @smirnova2016 for German and @los2005 for English].
 
@@ -53,7 +63,7 @@ Grammaticalisation pathway of infinitive constructions
 As an illustration of these different uses of the verb *lehren*, I have added a corpus example of each usage in [@next], which show the various constructions in subordinate position to clarify the differences.
 
 ::: ex
-- Wahrscheinlich auch, weil ihn die Erfahrung *gelehrt hat*, [niemals nie zu sagen].^[~~DWDS~~: Die Zeit, 28.07.2013]
+- Wahrscheinlich auch, weil ihn die Erfahrung *gelehrt hat*, [niemals nie zu sagen].^[~~DWDS~~: Die Zeit, 28.07.2013 (online).]
 - Unser Abgott Theodor Fontane dagegen, der uns [so vieles in Stadt und Land zu sehen] *gelehrt hat*, scheint die Berliner Galerie kaum besucht zu haben.^[~~DWDS~~: Berliner Zeitung, 11.06.1998]
 - Was hast du den Indios für Possen angerichtet, daß sie dich [so schön tanzen] *gelehrt haben*?^[~~DWDS~~: Perutz, Leo: Die dritte Kugel, Reinbek bei Hamburg: Rowohlt 1988 [1915], S. 5]
 :::
@@ -106,7 +116,7 @@ This is not attested. Note that theoretically such verbs might occur in German, 
 - Der Lehrer überzeugt seine SchülerInnen.
 :::
 
-## Alternations without diathesis
+## Alternations without diathesis {#sec:zuinfinitive-epitheses}
 
 ### --- Aspectual meaning --- {.unnumbered}
 
@@ -239,15 +249,15 @@ A detailed discussion of *drohen* and *versprechen* is presented by Diewald & Sm
 ::: ex
 Speech-act usage
 
-- Er hatte dem Konzern gedroht, Lebensmittel zu vergiften.^[~~DWDS~~: Die Zeit, 14.10.2015.]
-- Er hat versprochen, Marihuana zu legalisieren.^[~~DWDS~~: Die Zeit, 05.05.2016.]
+- Er hatte dem Konzern gedroht, Lebensmittel zu vergiften.^[~~DWDS~~: Die Zeit, 14.10.2015 (online).]
+- Er hat versprochen, Marihuana zu legalisieren.^[~~DWDS~~: Die Zeit, 05.05.2016 (online).]
 :::
 
 ::: ex
 Evidential usage
 
 - Das führt zu einem Problem, das Johanna Knüppel in den Wahnsinn zu treiben droht.^[~~DWDS~~: Die Zeit, 08.12.2017, Nr. 51.]
-- Die Pfänder hinter den Papieren waren Immobilien, deren Wert ständig weiter zu steigen versprach.^[~~DWDS~~: Die Zeit, 15.08.2017]
+- Die Pfänder hinter den Papieren waren Immobilien, deren Wert ständig weiter zu steigen versprach.^[~~DWDS~~: Die Zeit, 15.08.2017 (online).]
 :::
 
 Diewald & Smirnova [-@diewald2010: 191-217] analyse the coherent light-verb usage of *drohen* and *versprechen* as marking a ~~direct evidential~~, i.e. the speaker of the utterance has direct perceptual evidence for the proposition [@next]. There are various differences between *drohen* and *versprechen*. First, drohen is very frequent in its evidential coherent reading (80%), while versprechen (10%) is not [@diewald2010: 214]. Second, *drohen* can be used with animate/human subjects, while *versprechen* is restricted to inanimate subjects. Third, *drohen* implies a negative evaluation from the speaker's point of view, while *versprechen* implies a positive evaluation. Finally, *drohen* has no strong restrictions as to the verbs used as infinitive, the verbs are typically non-agentive but possibly intentional [@diewald2010: 197-199], while *versprechen* only allows for a restricted set of verbs that do not express agency [@diewald2010: 212].
@@ -342,7 +352,7 @@ It is slightly more common to find impersonal *sein + zu-Infinitiv* construction
 
 **Attested verbs**
 
-- *arbeiten an, lachen über, spaßen mit, warten auf*
+- *antworten auf, arbeiten an, lachen über, spaßen mit, warten auf*
 
 **Examples**
 
@@ -378,11 +388,11 @@ Semantically, this construction expresses an option that is available to the ori
 
 ::: ex
 - Seine Fans kaufen ein Gesamtpaket.
-- Stattdessen gibt es für seine Fans ein Gesamtpaket zu kaufen.^[~~DWDS~~: Die Zeit, 11.12.2013]
+- Stattdessen gibt es für seine Fans ein Gesamtpaket zu kaufen.^[~~DWDS~~: Die Zeit, 11.12.2013 (online).]
 - Stattdessen hat es für seine Fans ein Gesamtpaket zu kaufen gegeben.
 :::
 
-This constructions is most commonly used with an quantified adverb like *noch/viel/genug/reichlich/nichts* [@next b] instead of an nominal accusative object [@next c]. However, *geben + zu-Infinitiv* is typically used without the retained subject in a *für* phrase [@nnext a], and in such usage, without a retained subject, it is much more widespread to express a nominal accusative [@nnext b].
+This constructions is most commonly used with an quantified adverb like *viel/genug/reichlich/nichts* [@next b] instead of an nominal accusative object [@next c]. However, *geben + zu-Infinitiv* is typically used without the retained subject in a *für* phrase [@nnext a], and in such usage, without a retained subject, it is much more widespread to express a nominal accusative [@nnext b].
 
 ::: ex
 - Die Reisende entdecken das Land.
@@ -413,7 +423,7 @@ The *gelten + zu-Infinitiv* construction is typically coherent, viz. the finite 
 
 ::: ex
 - Lanz verteidigt den Sieg. \
-  Jetzt gilt es für Lanz den Sieg zu verteidigen.^[~~DWDS~~: Die Zeit, 02.11.2012]
+  Jetzt gilt es für Lanz den Sieg zu verteidigen.^[~~DWDS~~: Die Zeit, 02.11.2012 (online).]
 - Das alles ist die Aufgabe, die es zu lösen gilt.^[~~DWDS~~: Die Zeit, 05.07.2017, Nr. 28.]
 - Das ist eine Tradition, die es gilt zu erinnern und zu erhalten.^[~~DWDS~~: Berliner Zeitung, 09.11.1996.]
 :::
@@ -421,7 +431,7 @@ The *gelten + zu-Infinitiv* construction is typically coherent, viz. the finite 
 **Examples**
 
 - Da war also der Punkt an dem es einzusetzen galt. [@bech1955: 220-222]
-- Das ist der Jackput, den es für uns zu knacken gilt.^[~~DWDS~~: Die Zeit, 16.11.2010.]
+- Das ist der Jackput, den es für uns zu knacken gilt.^[~~DWDS~~: Die Zeit, 16.11.2010 (online).]
 - MINT-Berufe sind noch echte Männerdomänen, die es für Frauen zu erobern gilt.^[~~DWDS~~: Die Zeit, 13.06.2008, Nr. 25.]
 - Es gilt jetzt den Tisch zu putzen.
 - Es galt vielleicht einen Selbstmord zu verhüten.
@@ -439,14 +449,14 @@ Complement clauses typically move towards the end of the sentence in German, and
 a. Ich befürchte einen weiteren Beschäftigungsabbau. \
    Ein weiterer Beschäftigungsabbau steht zu befürchten.^[~~DWDS~~: Berliner Zeitung, 15.01.1999.]
 b. Jemand befürchtet, dass ihr Nachfolger das anders handhaben wird. \
-   Es steht zu befürchten, dass ihr Nachfolger das anders handhaben wird.^[~~DWDS~~: Die Zeit, 12.05.2016.]
+   Es steht zu befürchten, dass ihr Nachfolger das anders handhaben wird.^[~~DWDS~~: Die Zeit, 12.05.2016 (online).]
 c. So steht zu befürchten, dass sich die innenpolitischen Gräben noch vertiefen.^[~~DWDS~~: Die Zeit, 07.05.2015, Nr. 19.]
 :::
 
 Except for the verbs of expectation, there are two incidental, but quite frequent, verbs that can be used in this construction, namely *lesen* [@next a] and *verkaufen* [@next b]. Semantically, these do not seem to express any notion of expectation.
 
 ::: ex
-- Es stand zu lesen, dass die Mannschaft gegen den Trainer spielen würde.^[~~DWDS~~: Die Zeit, 03.09.2012.]
+- Es stand zu lesen, dass die Mannschaft gegen den Trainer spielen würde.^[~~DWDS~~: Die Zeit, 03.09.2012 (online).]
 - Luxuriöse Villa auf der Insel Brač steht zu verkaufen.^[Attested online at <https://www.croatia-property.net/de/property/luxuriose-villa-auf-der-insel-brac-zu-verkaufen-1991/>, accessed 8 November 2021.]
 :::
 
@@ -519,19 +529,46 @@ There are various syntactic differences between the *müssen* and *können* inte
   Der Weg ist schön zu gehen.
 :::
 
-When used with verbs without an accusative argument, the *sein + zu-Infinitiv* construction can form an impersonal passive, though this is rare (see [@sec:zuinfinitive-sein-impersonal] ff.).
+Verbs without an accusative argument can use the *sein + zu-Infinitiv* construction to form an impersonal passive, though this is rare (see [@sec:zuinfinitive-sein-impersonal] and subsequent sections). In contrast, most verbs with an accusative argument allow for this diathesis, but not all of them do. Holl [@holl2010: 19] argues that there is a difference between the verbs that allow for a *sein + zu-Infinitiv* passive and those verbs that allow for a *werden + Partizip* passive (cf [@sec:participles-werden-passive]), as exemplified with *bekommen* 'to get' [@next]. There are indeed a few more verbs with such a difference (*entwickeln, erhalten, kriegen, messen, rechnen*), but overall there appear to be actually quite good match between the applicability of both passives.
+
+::: ex
+- Die Bücher werden am Schalter im Lesesaal bekommen.
+- ^* Die Bücher sind am Schalter im Lesesaal zu bekommen.
+:::
+
+**Unattested Verbs**
+
+The following verbs with accusative arguments do not allow for a *sein + zu-Infinitiv* passive. There is strong overlap with the verbs that do not allow for a *werden + Partizip* passive (cf [@sec:participles-werden-passive]).
+
+- Verbs with obligatory quantified objects ([@sec:case-quantified-objects]): *dauern, enthalten, kosten, sparen, umfassen, wachsen, wiegen, zunehmen*
+- Verbs with reflexive conversive ([@sec:reflexive-preposition-passive]): *bekümmern, empören, ergeben, erstaunen, interessieren, freuen, kümmern, wundern*
+- Verbs of possession: *besitzen*
+- Other verbs without passive: *kennen, schmerzen (traurig machen, mit Akkusativ)*
 
 **Examples**
 
 - Ein Loblied ist zu singen auf dieses Buch.^[~~DWDS~~: Die Zeit, 09.06.2005, Nr. 24]
 - Mein Rücktritt war nur politisch zu begründen.
 - Die Aufgabe ist unmöglich zu lösen.
+- Kriterien sind zu entwickeln.^[~~DWDS~~: Die Zeit, 18.09.2008, Nr. 39.]
+- Das ist leicht zu rechnen.^[Attested online at <https://wohnwagen-forum.de/wwf/forum/index.php?thread/67750-stromzähler/&pageNo=2>, accessed 9 November 2021.]
+- Denn Leistung ist schwer zu messen.^[~~DWDS~~: Die Zeit, 21.09.2017 (online).]
+
+**Notes**
+
+The verb *kennen* 'to be acquainted with' used to be possible in this construction. The most recent example that I have been able to find is from Huge von Hofmannsthat [@next].
+
+::: ex
+Sie ist schwer zu kennen.^[~~DWDS~~: Hofmannsthal, Hugo von: Der Schwierige. In: Deutsche Literatur von Lessing bis Kafka, Berlin: Directmedia Publ. 2000 [1917], S. 92458.]
+:::
 
 ## Diatheses with promotion to subject
 
 ### --- [ Ø > SBJ > OBJ ] --- {.unnumbered}
 
-### [ –NA | NDA ] *geben + zu-Infinitiv* transitive causative (*Auftragskausativ*) {#sec:zuinfinitive-geben-causative}
+### [ –NA | NDA ] *geben + zu-Infinitiv* Causative (*Auftragskausativ*) {#sec:zuinfinitive-geben-causative}
+
+The *geben + zu-Infinitiv* construction has two rather different uses. It can be used with subject demotion and a modal meaning (see [@sec:zuinfinitive-geben-demotion]) or with subject promotion as a causative (this section). As a causative is widely used with a small set of verbs of cognition that take an embedded clause, like *bedenken* 'to consider' [@next a]. Included in the *geben + zu-Infinitiv* construction, this results in a causative 'to cause to consider' [@next b]. Such constructions are coherent [@next c,d].
 
 ::: ex
 a. Ich bedenke, dass es schon spät ist.
@@ -540,25 +577,40 @@ c. Er hat mir zu bedenken gegeben, dass es schon spät ist.
 d. ^* Er hat mir gegeben zu bedenken, dass es schon spät ist.
 :::
 
-zu $p=VVINF geben &&! es
+This causative construction is also widely attested with other verbs, e.g. *trinken* 'to drink' [@next]. With those verbs, the meaning of the *geben + zu-Infinitive* diathesis is very close to lexical *geben* 'to give'. For example *geben zu trinken* often simply means 'hand over some food to be consumed' [@next a]. However, it can also mean 'cause food to be consumed', typically in the context of little children [@next b]. Whatever the exact meaning, this construction is always coherent, as can be seen from the position of the verb *geben* in the examples below.
 
-Typisch mit kognitive Verben mit Satzeinbettung: *bedenken, verstehen, erkennen, erwägen*
+::: ex
+- Soldaten hätten ihnen zu essen und zu trinken gegeben.^[~~DWDS~~: Die Zeit, 12.05.2015 (online).]
+- Als Großmütter ihren Enkeln mit der Flasche ungesüßte Schokolade zu trinken gaben.^[~~DWDS~~: Die Zeit, 07.03.2013, Nr. 11.]
+:::
 
-- Ich bedenke, dass ... Er gibt mir zu bedenken, dass ...
-- Auch Herr Beutler, der auf Lebenszeit gewählt ist, hat wiederholt zu erkennen gegeben, daß sein Herz nach einem anderen Ruhm, als an der Spitze der sächsischen Residenz zu stehen, nicht begehre.
+**Attested Verbs**
 
-Sehr unüblich ohne Satzeinbettung? These seem to be fixed expressions.
+- Verbs of cognition: *bedenken, denken, erkennen, erwägen, verstehen*
+- Verbs of consumption: *beißen, essen, fressen, trinken, saufen, schlucken*
+- Other agentive verbs: *leben, lesen, lernen, lösen, tragen, schaffen (arbeiten), tun*
 
-- Der Protest gibt mir zu denken.
-- Die Liftjungen geben mir aber heute zu schaffen!
+**Examples**
 
-Wo ist die Grenze zu lexikales *geben*?: vgl. *essen, trinken, tun, lesen, tragen, lernen*. Diese Konstruktionen sind kohärent! zwei interpretationen: geben und verursachen
-
-- Er gibt mir Milch zu trinken.
+- Er gibt dem Kind Milch zu trinken.
 - Er gibt mir viel zu tragen.
-- Diese Tagebücher gab sie mir zu lesen.
+- Er gab mir ein Problem zu lösen.
 - Ich gebe ihm eine Tasche zu tragen.
+- Diese Tagebücher gab sie mir zu lesen.^[~~DWDS~~: Müller-Jahnke, Clara: Ich bekenne. In: Deutsche Literatur von Frauen, Berlin: Directmedia Publ. 2001 [1904], S. 52490.]
 - »Das Blut dieser Frau komme über Sie und Ihre Kinder«, gab der Baron ihm noch zu schlucken.^[~~DWDS~~ A. Zweig, Junge Frau, S. 203]
+- Die Liftjungen geben mir aber heute zu schaffen!^[~~DWDS~~: Kafka, Franz: Amerika. In: Deutsche Literatur von Lessing bis Kafka, Berlin: Directmedia Publ. 2000 [1914], S. 105459.]
+
+**Notes**
+
+The verb *leben* 'to live' is used in this construction with a slightly different meaning. As illustrated in [@next a] it does not mean 'to cause to live' but 'to predict to remain alive'.
+
+The verb *denken* 'to think' is typically stacked inside a modal *sollen/müssen + Infinitiv* [@next b] or a perfect *haben + Partizip* [@next c].
+
+::: ex
+- Der Arzt gab mir noch drei Wochen zu leben.
+- Sollte das nicht den Pazifisten zu denken geben?
+- Hoffentlich hat die Sendung auch Lehrern zu denken gegeben
+:::
 
 ## Diatheses with object demotion
 
@@ -574,37 +626,72 @@ not attested
 
 ### [ NA | DN ] *bleiben + zu-Infinitiv* Inversive (*Restinversiv*) {#sec:zuinfinitive-bleiben}
 
+The *bleiben + zu-Infinitive* diathesis shows many intricate details that are in need of a much deeper investigation than I can offer here. I have only been able to find some short discussions of this constructions, none of which go into much detail [@hohle1978: 48-50; @engel1996: 478-479; @colomo2010: 196-197].
+
+Basically, this diathesis is an passive-like construction, with the accusative being promoted to nominative subject. However, different from a passive, the original subject can be retained as a dative [@next a]. For that reason this diathesis is classified as an inversive. Because the demotion (N to D) is 'larger' than the promotion (A to N) this can be considered a 'demoted' inversive. Just like all diatheses, this construction is coherent [@next b]. 
+
+Semantically, this diatheses expresses that (some part of) the patient is still left over to be applied to the verb, so there is a rest still to be considered. For this reason I propose to use the German name ~~Restinversiv~~ for this diathesis.
+
 ::: ex
-a. Ich räume den letzten Schrank ein.
-b. Dieser letzte Schrank bleibt mir noch einzuräumen.
+- Der Inspektor klärt den Fall. \
+  Dem Inspektor bleibt nur noch der letzte Fall zu klären.
+- Ich habe gehört, dass dem Inspektor nur noch der letzte Fall zu klären bleibt.
 :::
 
-[@colomo2010: 196-197]
+The retention of the subject as a dative is rare in real usage [@next a-c]. However, a frequenct phenomenon with the *bleiben + zu-Infinitive* diathesis is that a quantified adverb is used instead of a nominal object, for example *viel, genügend, wenig, nichts anderes* [@nnext]. In such examples, the retention of the subject as a dative is widespread [@nnext b]. All such constructions are clearly coherent [@nnext c].
 
-(i) Dieser eine Schrank bleibt jetzt noch einzuräumen.
-(ii) Jetzt bleibt uns nur noch, diesen einen Schrank einzuräumen. (nicht kohärent!!!!)
-(iii) Dieser eine Schrank bleibt uns jetzt noch einzuräumen.
+::: ex
+- Jetzt bleibt nur noch, diesen Entwurf zu diskutieren. \
+  … weil jetzt nur noch dieser Entwurf zu diskutieren bleibt. [@hohle1978: 49]
+- Der Wahlleiter klärt den Wahltermin. \
+  Vorher jedoch bleibt der Wahltermin zu klären.^[~~DWDS~~: Die Zeit, 30.10.1987, Nr. 45.]
+- Ich berücksichtige den Glücksanspruch der Mutter. \
+  Aber ebenso bleibt der Glücksanspruch der Mutter auch zu berücksichtigen.^[~~DWDS~~: Die Zeit, 02.10.1970, Nr. 40.]
+:::
 
-Agent retention as dative?
+::: ex
+- Ich entdecke hier viel.
+- Hier bleibt mir noch viel zu entdecken.^[~~DWDS~~: Der Tagesspiegel, 09.03.2003.]
+- Es ist bekannt, dass mir hier noch viel zu entdecken bleibt.
+:::
 
-- Ich räume diesen Schrank ein.
-- Jetzt bleibt mir nur noch dieser Schrank einzuräumen.
-- Jemand klärt zwei Fragen.
-- Zwei Fragen bleiben zu klären.
+The *bleiben + zu-Infinitive* is commonly used with verbs that take a complement clause, like *abwarten* 'to wait and see' [@next a]. This construction is also coherent, because the order in the subordinate clause is *abzuwarten bleibt* and not *bleibt abzuwarten* [@next b]. The original *ob* complement clause, now twice embedded, remains extraposed at the end of the sentence. Retention of the original subject as dative seems impossible with such complement-taking verbs.
 
-- Ich berichte von X. Mir bleibt zu berichten von X
-- Ich wünsche nichts. Mir bleibt nichts zu wünschen übrig (???)
+::: ex
+- Ich warte ab, ob Paul wirklich kommt. \
+  Es bleibt abzuwarten, ob Paul wirklich kommt. [@holl2010: 10]
+- Wir müssen Gedult haben, weil abzuwarten bleibt, ob Paul wirklich kommt.
+:::
 
-Typische für Verben mit einer Satzeinbettung (vgl. Holl 2010: 10): *abwarten, hoffen, prüfen, entscheiden, erwägen, untersuchen, sehen, beachten, erledigen*
+**Attested Verbs**
 
-- Ich warte ab, ob es klappt. es bleibt abzuwarten, ob es klappt.
+- Verbs with complement clauses: *abwarten, beachten, berichten, diskutieren, entscheiden, erledigen, erwägen, hoffen, prüfen, sehen, untersuchen, wünschen*
+- Agentive verbs: *anmelden, berücksichtigen, einräumen, entdecken, klären, tun*
 
-[@engel1996: 478-479] "Das Modalitätsverb *bleiben* kann zahlreiche Verben regieren, die ein willkürliches Tun bezeichnen. Vorasussetzung ist dabei, daß dieses Tun zeitlich nachgeordnet ist, also im Zeitpunkt des Erforderlich-Seins noch aussteht."
+**Examples**
 
-- Die Gesetzesvorlage bleibt zu diskutieren.
+- Jetzt bleibt nur noch dieser eine Schrank einzuräumen. [@colomo2010: 196]
+- Zu diskutieren bleibt der mögliche Molekularmechanismus der Konversion.^[~~DWDS~~: Bresch, Carsten: Klassische und molekulare Genetik, Berlin u. a.: Springer 1965 [1964], S. 174.]
+- Der Zentrale bleibt noch genügend zu entscheiden, wenn man den Landtagen wieder mehr zu tun gibt.^[~~DWDS~~: Der Tagesspiegel, 16.10.2003.]
+- Viel bleibt nicht mehr zu berichten.^[~~DWDS~~: Berliner Zeitung, 24.02.1996.]
+- Ansonsten bleibt den Soldaten wenig zu tun.^[~~DWDS~~: Die Zeit, 01.01.1993, Nr. 01.]
+- Auf Erden bleibt der Kirche deshalb nichts anderes zu tun, als die Leidenden zu vertrösten auf den Jüngsten Tag.^[~~DWDS~~: Die Zeit, 16.09.2010, Nr. 38.]
+- Mir bleibt nur noch, Privatinsolvenz anzumelden.^[~~DWDS~~: Die Zeit, 22.09.2005, Nr. 39.]
 
-Eventuell möglich ohne *es*?
+**Notes**
 
-- Immerhin bleibt noch die Frage zu entscheiden, ob ...
-- Aus unserer Sicht bleibt zu hoffen, dass ..." (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=14&cad=rja&uact=8&ved=2ahUKEwis3vzH2O_eAhUqx4UKHTMRBRkQFjANegQIBxAB&url=https%3A%2F%2Fwww.t-online.de%2Fdigital%2Fid_74463900%2Fsi_3%2Fdie-exklusivsten-kameras-der-welt.html&usg=AOvVaw3Xn_CFi2fd89VjKPo_Gmqb)
+The situation with verbs that take a dative argument, like *danken* 'to thank' or *antworten* 'to answer' needs more investigation. the *bleiben + zu-Infinitive* construction seems to results in a double dative [@next b]. However, this construction does not appear to be coherent [@next c,d].
 
+::: ex
+- Ich danke dem Veranstalter für diese Ausstellung.
+- Mir bleibt, dem Veranstalter zu danken für diese Ausstellung.^[~~DWDS~~: Die Zeit, 02.05.1969, Nr. 18.]
+- Ich bin fast fertig, weil mir nur noch bleibt, dem Veranstalter zu danken.
+- ^^?^ Ich bin fast fertig, weil mir nur noch dem Veranstalter du danken bleibt.
+:::
+
+There is yet another construction with *bleiben* and a *zu-infinitiv*, shown in [@next] that needs more investigation. These constructions do not appear to be coherent.
+
+::: ex
+- Es bleibt der Ratschlag, Objekte gut zu prüfen.^[~~DWDS~~: Der Tagesspiegel, 24.12.2004.]
+- Es bleibt der Anspruch, die Region zu befrieden.^[~~DWDS~~: Die Zeit, 15.10.1998, Nr. 43.]
+:::

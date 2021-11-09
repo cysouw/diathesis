@@ -1545,9 +1545,9 @@ Er klopft den Aschenbecher leer.
 - Er schwindelt ihn auf die Liste.
 - Sie gräbt das Frühstück aus dem Rucksack.
 - Das Herz pumpt das Blut durch den Körper.
-- Das allgemeine politische Klima weht den Illegalen ins Gesicht.^[~~DWDS~~: Die Zeit, 30.07.2010]
-- Der Zeitgeist weht den üblichen Akustikschrott in die Besucherohren.^[~~DWDS~~: Die Zeit, 08.03.1996]
-- Die frische Brise kämmt die Palmen und weht den Flugsand auf die Promenade.^[~~DWDS~~: Die Zeit, 04.05.1990]
+- Das allgemeine politische Klima weht den Illegalen ins Gesicht.^[~~DWDS~~: Die Zeit, 30.07.2010 (online).]
+- Der Zeitgeist weht den üblichen Akustikschrott in die Besucherohren.^[~~DWDS~~: Die Zeit, 08.03.1996 (online).]
+- Die frische Brise kämmt die Palmen und weht den Flugsand auf die Promenade.^[~~DWDS~~: Die Zeit, 04.05.1990 (online).]
 - Man rückt und rutscht nicht dauernd auf seinem Stuhl hin und her, man vermeidet es, die anderen Besucher mit seinen langen Beinen zu behelligen, oder hustet den in der nächsten Reihe Sitzenden nicht ungeniert in den Nacken.^[~~DWDS~~: Oheim, Gertrud: Einmaleins des guten Tons, Gütersloh: Bertelsmann 1957, S. 296]
 - Ich huste den letzten Bissen Leberkäse auf den Rasen.^[~~DWDS~~: Lehner, Angela: Vater Unser, Berlin: Hanser 2019]
 - Man taute in der Sauna seine durchfrorenen Glieder auf und schwitzte den Schmutz aus den Poren.^[~~DWDS~~: Fresenius, Hanna: Sauna, Reinbek bei Hamburg: Rowohlt 1987, S. 15]

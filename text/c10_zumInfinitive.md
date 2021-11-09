@@ -106,12 +106,13 @@ b. Der Schaden ist zum Heulen.
 
 **Attested Verbs**
 
-- *heulen, totlachen, verzweifeln*
+- *empören, heulen, totlachen, verzweifeln*
 
 **Examples**
 
 - Es ist zum Verzweifeln.
 - Es ist zum Totlachen.
+- Die ganze Person ist zum Empören.^[Attested online at <https://headtopics.com/de/analyse-trumps-problemzone-3271583>, accessed 9 November 2021.]
 
 ## Diatheses with promotion to subject
 

@@ -256,8 +256,8 @@ The construction *bleiben + Infinitiv* [cf. @eisenberg2006a: 351; @engel1996: 47
 
 - Drehe ich den Regler wieder nach rechts um Warmwasser zu fragen geht der Brenner wieder an und bleibt laufen obwohl kein Warmwasser gezapft wird.^[Attested online at <https://www.haustechnikdialog.de/Forum/t/242166/Viessmann-Vitopend-100-bleibt-laufen>, accessed 24 September 2021.]
 - Und wenn jemanden eine Schlange biss, so sah er die eherne Schlange an und blieb leben.^[Lutherbibel 1984: 4.Mose 21:9]
-- Die TPP-Grundzüge bleiben erhalten.^[~~DWDS~~: Die Zeit, 28.11.2017.]
-- Seine künstlerischen Leistungen bleiben bestehen, auch wenn man sie nun in anderem Licht betrachtet.^[~~DWDS~~: Die Zeit, 07.11.2017.]
+- Die TPP-Grundzüge bleiben erhalten.^[~~DWDS~~: Die Zeit, 28.11.2017 (online).]
+- Seine künstlerischen Leistungen bleiben bestehen, auch wenn man sie nun in anderem Licht betrachtet.^[~~DWDS~~: Die Zeit, 07.11.2017 (online).]
 - Immer mehr bleiben hocken, wenn eine neue Übung beginnt.^[~~DWDS~~: Berliner Zeitung, 25.01.1996.]
 
 ### *sein + Infinitiv* Absentive {#sec:infinitive-sein-absentive}
@@ -399,7 +399,7 @@ The verb *brauchen* 'to need' is typically used with *zu-Infinitiv* with some ki
 
 ### *lernen + Infinitiv* {#sec:infinitive-lernen}
 
-The verb *lernen* 'to learn' can both occur in a construction with an infinitive [@next a] and with *zu* plus infinitive [@next b], see also [@sec:zuinfinitive-coherence]. There is an obvious paralell to the verbs *lehren* 'to teach' ([@sec:infinitive-lehren]) and *helfen* 'to help' ([@sec:infinitive-helfen]), both of which add a new participant (the 'teacher' and the 'helper', respectivly). The verb *lernen* does not add a new participant, although there is a strong implication of an unspoken teacher [@next b], except in case of natural developmental processes [@next a].
+The verb *lernen* 'to learn' can both occur in a construction with an infinitive [@next a] and with *zu* plus infinitive [@next b], see also [@sec:zuinfinitive-grammaticalisation]. There is an obvious paralell to the verbs *lehren* 'to teach' ([@sec:infinitive-lehren]) and *helfen* 'to help' ([@sec:infinitive-helfen]), both of which add a new participant (the 'teacher' and the 'helper', respectivly). The verb *lernen* does not add a new participant, although there is a strong implication of an unspoken teacher [@next b], except in case of natural developmental processes [@next a].
 
 ::: ex
 - Das Baby läuft. \
@@ -569,7 +569,7 @@ b. Ich lasse mich von diesem Witz begeistern.
 - Mehr als zwei Minuten lässt man sich von so jemandem nicht langweilen.^[~~DWDS~~: Die Zeit, 18.05.2000, Nr. 21]
 - Davon lasse ich mich begeistern.
 - Man steht in bequemen Intervallen und liest die Zeitung oder läßt sich von den Burschen belustigen.^[~~DWDS~~: Kisch, Egon Erwin: Der rasende Reporter, Berlin: Aufbau-Taschenbuch-Verl. 1925, S. 7]
-- Eine Mehrheit von 59 Prozent dagegen lässt sich von Büttenreden erheitern.^[~~DWDS~~: Die Zeit, 05.03.2011]
+- Eine Mehrheit von 59 Prozent dagegen lässt sich von Büttenreden erheitern.^[~~DWDS~~: Die Zeit, 05.03.2011 (online).]
 
 ### [ ND | pN ] *lassen + Infinitiv* Dative reflexive permissive passive {#sec:infinitive-lassen-dative-reflexive}
 
@@ -787,7 +787,7 @@ d. Der Clown hat mich lachen gemacht (^\*^machen).
 
 - Der Lärm macht mich schaudern.
 - Die Diktatur machte die Menschen ihr Schicksal passiv hinnehmen.
-- Und der harte Bass brandet in so tückischen Wellen durch die Halle, dass er die Hosenbeine flattern macht.^[~~DWDS~~: Die Zeit, 31.05.2007]
+- Und der harte Bass brandet in so tückischen Wellen durch die Halle, dass er die Hosenbeine flattern macht.^[~~DWDS~~: Die Zeit, 31.05.2007 (online).]
 - Spengler führt vor, wie der Gang der Geschichte die Menschen Idee und Wirklichkeit der eigenen Freiheit vergessen macht.^[~~DWDS~~: Die Zeit, 21.12.2017, Nr. 49]
 
 ### [ –N | NA ] *heißen + Infinitiv* Causative {#sec:infinitive-heißen}
@@ -830,7 +830,7 @@ The verb *hören* 'to hear' can both be used with a *dass* complement clause [@n
 - Ich höre dich das Lied singen.
 - Ich habe dich das Lied singen hören/gehört.
 - Während meiner Recherche habe ich Ulrike nicht singen hören.^[~~DWDS~~: Die Zeit, 18.01.2018, Nr. 01] \
-  Dort hat mich ein Erzieher auf dem Flur singen gehört.^[~~DWDS~~: Die Zeit, 15.09.2016]
+  Dort hat mich ein Erzieher auf dem Flur singen gehört.^[~~DWDS~~: Die Zeit, 15.09.2016 (online).]
 :::
 
 ### [ –N | NA ] *fühlen + Infinitiv* Experiencer
@@ -896,7 +896,7 @@ The verb *finden* (literally meaning 'to find', but in this construction the mea
 
 ### [ –N | NA ] *lehren + Infinitiv* Assistive {#sec:infinitive-lehren}
 
-The verb *lehren* 'to teach' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ('the teacher') is introduced as a nominative and the erstwhile nominative is demoted to accusative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *lehren* remains completely transparently related to the full verb with the meaning 'to teach'. There is an alternative construction with *zu-Infinitive* (see [@sec:zuinfinitive-coherence]) that appears to have a highly similar meaning. More research is needed to elucidate any difference between these two constructions [@next b,c]. The *lehren + Infinitive* diathesis does not invoke the IPP *Ersatzinfinitiv* [@next d].
+The verb *lehren* 'to teach' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ('the teacher') is introduced as a nominative and the erstwhile nominative is demoted to accusative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *lehren* remains completely transparently related to the full verb with the meaning 'to teach'. There is an alternative construction with *zu-Infinitive* (see [@sec:zuinfinitive-grammaticalisation]) that appears to have a highly similar meaning. More research is needed to elucidate any difference between these two constructions [@next b,c]. The *lehren + Infinitive* diathesis does not invoke the IPP *Ersatzinfinitiv* [@next d].
 
 ::: ex
 a. Der Junge schwimmt.
@@ -914,7 +914,7 @@ There does not seem to be any syntactic restriction on the main lexical verbs th
 
 ### [ –N | ND ] *helfen + Infinitiv* Assistive {#sec:infinitive-helfen}
 
-The verb *helfen* 'to help' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ('the helper') is introduced as a nominative and the erstwhile nominative is demoted to dative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *helfen* remains completely transparently related to the full verb with the meaning 'to help'. There is an alternative construction with *zu-Infinitive* [@next c], see [@sec:zuinfinitive-coherence], that appears to highly similar. More research is needed to elucidate any difference between these two constructions. The *helfen + Infinitive* diathesis allows the IPP *Ersatzinfinitiv* [@next d].
+The verb *helfen* 'to help' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ('the helper') is introduced as a nominative and the erstwhile nominative is demoted to dative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *helfen* remains completely transparently related to the full verb with the meaning 'to help'. There is an alternative construction with *zu-Infinitive* [@next c], see [@sec:zuinfinitive-grammaticalisation], that appears to highly similar. More research is needed to elucidate any difference between these two constructions. The *helfen + Infinitive* diathesis allows the IPP *Ersatzinfinitiv* [@next d].
 
 ::: ex
 - Ich trage den Koffer.
