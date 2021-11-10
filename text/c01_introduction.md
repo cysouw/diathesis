@@ -2270,7 +2270,7 @@ a. Ich esse den Apfel.
 b. Ich esse den Apfel auf.
 :::
 
-### *Patientives Präverb*
+### *Patientiv Präverb*
 
 (full discussion in [@sec:preverb-intransitive-with-unaccusative] and subsequent sections)
 
@@ -2420,9 +2420,16 @@ b. Er hat gut lachen.
 
 ### *Habitualis* (*pflegen + zu-Infinitiv*)
 
+(full discussion in [@sec:zuinfinitive-pflegen])
+
+::: ex
+- Sie lacht laut.
+- Sie pflegte laut zu lachen.
+:::
+
 ### *Obligativ* (*haben/brauchen + zu-Infinitiv*)
 
-(full discussion in [@sec:zuinfinitive-haben]) "müssen"
+(full discussion in [@sec:zuinfinitive-haben; @sec:zuinfinitive-brauchen])  "müssen"
 
 ::: ex
 a. Die Schüler lösen die Aufgaben.
@@ -2431,7 +2438,7 @@ b. Die Schüler haben die Aufgaben zu lösen.
 
 ### *Abilitiv* (*wissen/vermögen/verstehen + zu-Infinitiv*)
 
-(full discussion in [@sec:zuinfinitive-wissen]) "können"
+(full discussion in [@sec:zuinfinitive-wissen; @sec:zuinfinitive-vermogen]) "können"
 
 ::: ex
 a. Der Lehrer begeistert die Schüler.
@@ -2440,7 +2447,7 @@ b. Der Lehrer weiß die Schüler zu begeistern.
 
 ### *Evidentialis* (*scheinen/drohen/versprechen + zu-Infinitiv*)
 
-(full discussion in [@sec:zuinfinitive-scheinen])
+(full discussion in [@sec:zuinfinitive-scheinen; @sec:zuinfinitive-drohen])
 
 ::: ex
 a. Er schläft.

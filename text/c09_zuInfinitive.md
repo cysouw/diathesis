@@ -170,7 +170,7 @@ Even less mentioned is *verstehen + zu-Infinitiv* [cf. @engel1996: 483], which l
 - Ich weiß deinen Einsatz zu schätzen.
 - Ich weiß ihn nirgends einzuordnen.^[Attested online at <https://www.philaseiten.de/cgi-bin/index.pl?PR=51029>, accessed 26 October 2021.]
 
-### *vermögen + zu-Infinitiv* Negative ability 
+### *vermögen + zu-Infinitiv* Negative ability {#sec:zuinfinitive-vermogen}
 
 The construction *vermögen + zu-Infinitiv* is a formal-register expression meaning 'to be capable of something (with effort)' [cf. @engel1996: 482]. It is typically used with negation [@next a] and it is obligatorily coherent [@next b]. Incidental cases without negation are also attested [@next c].
 
