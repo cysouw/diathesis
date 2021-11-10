@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Besides regular infinitives, as discussed in the previous chapter, there are also light-verb construction with *zu* and an infinitive. The German particle *zu* is historically related to the English *to*, but they are used rather differently. In the German orthography, the *zu* element is regularly separated from the infinitive by a space. However, morphologically the *zu-Infinitive* is clearly one word and should be considered a special non-finite form of the verb along the participle and the infinitive (see [@sec:zuinfinitive-morphology]).
+Besides diatheses with regular infinitives, as discussed in the previous chapter, there are also light-verb constructions with *zu* and an infinitive. The German particle *zu* is historically an allative 'towards' preposition related to the English *to*, but synchronically they are used rather differently. In the German orthography, the *zu* element is regularly separated from the infinitive by a space. However, morphologically the *zu-Infinitive* is clearly one word and should be considered a special non-finite form of the verb along the participle and the infinitive (see [@sec:zuinfinitive-morphology]).
 
-The *zu-Infinitiv* can be combined with various light verbs to form monoclausal construction. This is widespread without diathesis, for example with light verbs *pflegen* [@next a], see [@sec:zuinfinitive-pflegen], and *haben* [@next b], see [@sec:zuinfinitive-haben]. However, the main focus of this chapter is on light verbs that induce diathesis, for example *sein* [@next c], see [@sec:zuinfinitiv-sein-passive], and *stehen* [@next d], see [@sec:zuinfinitive-stehen].
+The *zu-Infinitiv* can be combined with various light verbs to form monoclausal construction. This is widespread without diathesis, for example with light verbs *pflegen* [@next a], see [@sec:zuinfinitive-pflegen], and *haben* [@next b], see [@sec:zuinfinitive-haben]. However, the main focus of this chapter is on light verbs that induce diathesis when used with the *zu-Infinitiv*, for example *sein* [@next c], see [@sec:zuinfinitiv-sein-passive], and *stehen* [@next d], see [@sec:zuinfinitive-stehen].
 
 ::: ex
 - Sie pflegte laut zu lachen. 
@@ -13,9 +13,9 @@ The *zu-Infinitiv* can be combined with various light verbs to form monoclausal 
 - Ein weiterer Beschäftigungsabbau steht zu befürchten.
 :::
 
-Following Bech [-@bech1955] such construction are often designated as *Zweiter Status* in the German grammatical literature. However, this name is not very transparent nor particularly mnemonic, so I prefer to simply use the term *zu*-~~Infinitiv~~ construction.
+Following Bech [-@bech1955], construction with a *zu-Infinitiv* are often designated as *Zweiter Status* in the German grammatical literature. However, this name is not very transparent nor particularly mnemonic, so I prefer to simply use the term *zu*-~~Infinitiv~~ construction.
 
-One of the central issues with sentences that include a *zu-Infinitive* is whether such sentences are biclausal or monoclausal. There is actually a gramaticalisation cline with (non-coherent) biclausal structures on the one side and (coherent) monoclausal structures on the other side (see [@sec:zuinfinitive-grammaticalisation]). A major claim of this chapter is that all grammaticalised coherent monoclausal *zu-Infinitive* construction of the German language are discussed here, all diatheses as well as all epitheses (i.e. coherent constructions without role-remapping, see [@sec:zuinfinitive-epitheses]).
+One of the central issues with sentences that include a *zu-Infinitive* is whether such sentences are biclausal or monoclausal. There is actually a grammaticalisation cline with (non-coherent) biclausal structures on the one side and (coherent) monoclausal structures on the other side (see [@sec:zuinfinitive-grammaticalisation]). A major aim of this chapter is to list and discuss all grammaticalised coherent monoclausal *zu-Infinitive* construction of the German language, all diatheses as well as all epitheses.
 
 The following eight diatheses with a *zu-Infinitiv* are attested regularly in German, so I propose a German name for them. Note that the light verbs *sein* and *geben* are both used in two different diatheses. The two *geben* diatheses are remarkably different, both structurally and semantically.
 
@@ -39,7 +39,7 @@ The combination of *zu* with an infinitive is regularly written as two words in 
 - Du brauchst nichts einzukaufen.
 :::
 
-From a purely grammatical perspective, *zu* is clearly bound morphology when used with an infinitive [cf. @duden2009: 439; @haider2010: 272-273], because (i) it is always unstressed and (ii) it is not separable from the infinitive, not even by separable preverbs like *ein-*. The *zu-Infinitiv* is thus best considered to be a special non-finite verbform of German, alongside the *Partizip* and the *Infinitiv*. Probably the only reason that *zu* is still written separately with simplex verbs is that there would be potential homographs when it would be written without a space. For example, the *zu-Infinitiv* of the verb *schließen* 'to close' would be *zuschlíeßen* with unstressed *zu* and main stress on *schließ* [@next a], while the regular *Infinitiv* of the verb *zuschließen* 'to lock' would be *zúschließen* with stressed *zu* [@next b]. An alternative orthographic choice might of course be to indicate the primary stress in such (rare) cases of possible confusion. However, the separation by a space is entrenched in German orthography and is unlikely to change, but this should not distract from the fact that morphologically *zu* is clearly bound morphology.
+From a purely grammatical perspective, *zu* is clearly bound morphology when used with an infinitive [cf. @duden2009: 439; @haider2010: 272-273], because (i) it is always unstressed and (ii) it is not separable from the infinitive, not even by separable preverbs like *ein-*. The *zu-Infinitiv* is thus best considered to be a special non-finite verb form of German, alongside the *Partizip* and the *Infinitiv*. Probably the only reason that *zu* is still written separately with simplex verbs is that there would be potential homographs when it would be written without a space. For example, the *zu-Infinitiv* of the verb *schließen* 'to close' would be *zuschlíeßen* with unstressed *zu* and main stress on *schließ* [@next a], while the regular *Infinitiv* of the verb *zuschließen* 'to lock' would be *zúschließen* with stressed *zu* [@next b]. An alternative orthographic choice might of course be to indicate the primary stress in such (rare) cases of possible confusion. However, the separation by a space is entrenched in German orthography and is unlikely to change. Yet, this should not distract from the fact that morphologically *zu* is clearly bound morphology.
 
 ::: ex
 - Du brauchst die Tür nicht zu schließen.
@@ -60,7 +60,7 @@ Grammaticalisation pathway of infinitive constructions
 » (3) *Infinitive* monoclausal construction (*Ich habe ihn tanzen gelehrt.*)
 :::
 
-As an illustration of these different uses of the verb *lehren*, I have added a corpus example of each usage in [@next], which show the various constructions in subordinate position to clarify the differences.
+As an illustration of these different uses of the verb *lehren*, I have added a corpus example of each usage in [@next], which show the various constructions in subordinate position to clarify the structural differences.
 
 ::: ex
 - Wahrscheinlich auch, weil ihn die Erfahrung *gelehrt hat*, [niemals nie zu sagen].^[~~DWDS~~: Die Zeit, 28.07.2013 (online).]
@@ -76,7 +76,7 @@ The focus of this chapter are the constructions in the second stage of this gram
 - ^* Es ist bekannt, dass sie *hat* noch viele Jahre [zu leben].
 :::
 
-Because there is a grammaticalisation cline, there are various verbs that can be used in more than one of the three different stages [@next]. Most verbs with a *zu-infinitive* only allow biclausal non-coherent complement constructions [@next a]. These fall outside of the scope of this book. At the other extreme, some verbs only allow for monoclausal *Infinitiv* construction [@next f]. These were already discussed in the previous Chapter [-@sec:infinitive]. The group of verbs that allow for both stage 2 and 3 [@last e] is small, as it seems only to consist of the verbs *brauchen, helfen, lehren* and *lernen*. 
+Because there is a grammaticalisation cline, there are various verbs that can be used in more than one of the three different stages [@next]. Most verbs with a *zu-infinitive* actually only allow biclausal non-coherent complement constructions [@next a]. These fall outside of the scope of this book. At the other extreme, some verbs only allow for monoclausal *Infinitiv* construction [@next f]. These were already discussed in the previous Chapter [-@sec:infinitive]. The group of verbs that allow for both stage 2 and 3 [@last e] is small, as it seems only to consist of the verbs *brauchen, helfen, lehren* and *lernen*. 
 
 ::: ex
 Intermediate stages on the grammaticalisation pathway
@@ -89,14 +89,14 @@ e. **Both stage 2 and 3 possible** (monoclausal, both *zu-Infinitiv* and *Infini
 f. **Only stage 3 possible** (only monoclausal *Infinitiv*): e.g. *müssen* 'to must', *können* 'to can'
 :::
 
-Inbetween these extremes on are various further possibilities. First, the group of verbs that allow both stage 1 and 2 [@last b] without any obvious differences in meaning are widely discussed in the German grammatical literature under the heading ~~modalitätsverben~~. Various lists are found in Wurmbrand [-@wurmbrand2003: 318-319] and Colomo [-@colomo2010: 167-175], citing earlier literature. A survey of various structural and semantic aspects of this group is presented in Rapp & Wöllstein [-@rapp2013]. Typical *Modalitätsverben* with different possible sentence structure, but without different meaning, are *anfangen, aufhören, beginnen, erlauben, heißen, helfen, lehren, lernen, verbieten, vergessen, verlangen, versuchen, wagen*. Examples of both options for the verb *heißen* 'to mean' are shown in [@next]. These verbs will not be further discussed in this chapter.
+In between these extremes on are various further possibilities. First, the group of verbs that allow both stage 1 and 2 without any obvious differences in meaning [@last b] are widely discussed in the German grammatical literature under the heading ~~Modalitätsverben~~. Various lists are found in Wurmbrand [-@wurmbrand2003: 318-319] and Colomo [-@colomo2010: 167-175], citing earlier literature. A survey of various structural and semantic aspects of this group is presented in Rapp & Wöllstein [-@rapp2013]. Typical *Modalitätsverben* with different possible sentence structure, but without different meaning, are *anfangen, aufhören, beginnen, erlauben, heißen, helfen, lehren, lernen, verbieten, vergessen, verlangen, versuchen, wagen*. Examples of both options for the verb *heißen* 'to mean' are shown in [@next]. These verbs will not be further discussed in this chapter.
 
 ::: ex
 - Dafür sind Radfahrern manche landschaftlich besonders schöne Abschnitte des Pilgerfußweges in Spanien verschlossen, wenn es auf schmalen, steinigen Wegen bergauf und bergab zu laufen heißt.^[~~DWDS~~: Die Zeit, 05.04.1991, Nr. 15]
 - Das hätte geheißen, den Dritten Weltkrieg zu riskieren.^[Berliner Zeitung, 29.04.1995]
 :::
 
-All verbs that only allow for stage 2 [@llast d], or have a special meaning when used as stage 2 [@llast c], will be discussed in detail in this chapter. The explicit claim is that this chapter presents a complete list of such verbs. However, special care has to be taken with polysemies. Many of the verbs that are discussed in this chapter occur both in stage 1 and stage 2, but with clearly different meanings. For example, in its lexical meaning *versprechen* means 'to promise' and then it is not coherent [@next a]. In contrast, in its evidential meaning *versprechen* means something like 'there is evidence for it' and then it is coherent [@next b]. Although this correlation is not 100% perfect, there is a very strong tendency for the different meanings to also show different syntactic structions (see [@sec:zuinfinitive-drohen]).
+All verbs that only allow for stage 2 [@llast d], or have a special meaning when used as stage 2 [@llast c], will be discussed in detail in this chapter. The explicit claim is that this chapter presents a complete list of such verbs. However, special care has to be taken with polysemies. Many of the verbs that are discussed in this chapter occur both in stage 1 and stage 2, but with clearly different meanings. For example, in its lexical meaning *versprechen* means 'to promise' and then it is not coherent [@next a]. In contrast, in its evidential meaning *versprechen* means something like 'there is evidence for it' and then it is coherent [@next b]. Although this correlation is not 100% perfect, there is a very strong tendency for the different meanings to also show different syntactic constructions (see [@sec:zuinfinitive-drohen]).
 
 ::: ex
 - Er verspricht rechtzeitig nach Hause zu kommen. \
@@ -105,11 +105,11 @@ All verbs that only allow for stage 2 [@llast d], or have a special meaning when
   Es ist bekannt, dass der Film eine Sensation zu werden verspricht.
 :::
 
-There is some overlap between the constructions discussed in this chapter and the ~~Halbmodalverben~~ as introduced by Eisenberg [e.g. -@eisenberg2006a: 362-365] and discussed in much detail in Colomo [-@colomo2010: Ch. 6]. However, that term is defined in a much more restricted way to include only *pflegen, scheinen, drohen* and *versprechen*. The focus of the present chapter is more widely expanded. Crucially, Eisenbergs *Halbmodale* do not include the level 2 verbs with the most obvious modal meanings, viz. *haben, brauchen, wissen* and *verstehen* (see [@sec:zuinfinitive-haben] ff.).
+There is some overlap between the constructions discussed in this chapter and the ~~Halbmodalverben~~ as introduced by Eisenberg [e.g. -@eisenberg2006a: 362-365] and discussed in much detail in Colomo [-@colomo2010: Ch. 6]. However, that term is defined in a much more restricted way to include only *pflegen, scheinen, drohen* and *versprechen*. The focus of the present chapter is more widely expanded. Crucially, Eisenbergs *Halbmodale* do not include the level 2 verbs with the most obvious modal meanings, viz. *haben, brauchen, wissen* and *verstehen* (see [@sec:zuinfinitive-wissen] ff.).
 
 ## Deponent verbs without alternations
 
-This is not attested. Note that theoretically such verbs might occur in German, but as far as I am aware there do not exist any examples. The necessary observation would be a lexical verb that can occur in a *zu-Infinitiv* construction [@next a], but cannot be used as a finite verb [@next b]. The verb *überzeugen* in [@next] is thus no example, as the second sentence then would need to be ungrammatical.
+This is not attested. Note that theoretically such verbs might occur in German, but as far as I am aware there do not exist any examples. The necessary observation would be a lexical verb that can occur in a *zu-Infinitiv* construction [@next a], but cannot be used as a finite verb [@next b]. The verb *überzeugen* in [@next] is thus no example, as the second sentence then would have needed to be ungrammatical.
 
 ::: ex
 - Der Lehrer weiß seine SchülerInnen zu überzeugen.
@@ -124,7 +124,7 @@ This is not attested. Note that theoretically such verbs might occur in German, 
 
 The lexical verb *pflegen* means 'to nurse, to maintain'. However, in combination with a *zu-Infinitiv* the verb *pflegen* is one of the clearest examples of a construction that is always coherent, while at the same time it has a completely different meaning. The *pflegen + zu-Infinitiv* expresses a habitual aspect, meaning approximately something like 'to usually do something' [@next a,b]. Examples proving coherence are shown in [@next c,d]. 
 
-Colomo [-@colomo2010: 246-256] argues that the real semantic content of *pflegen + zu-Infinitiv* is not the habitual aspect, but that it is more closely related to modal meanings of other *zu-infinitiv* constructions. However, that analysis needs a lot of semantic trickery, and I do not see what is gained from it. I propose to simply consider the *pflegen + zu-Infinitiv* a ~~habitual~~ in German.
+Colomo [-@colomo2010: 246-256] argues that the real semantic content of *pflegen + zu-Infinitiv* is not the habitual aspect, but that it is more closely related to modal meanings of other *zu-Infinitiv* constructions. However, that analysis needs a lot of semantic trickery, and I do not see what is gained from it. I propose to simply consider the *pflegen + zu-Infinitiv* a ~~habitual~~ in German.
 
 ::: ex
 - Sie lacht laut.
@@ -135,7 +135,7 @@ Colomo [-@colomo2010: 246-256] argues that the real semantic content of *pflegen
 
 ### *suchen + zu-Infinitiv* Conative {#sec:zuinfinitive-suchen}
 
-The verb *suchen* 'to search' has a special usage with a *zu-Infinitiv* expressing the meaning 'to attempt to do something' [@next a]. In this usage, the meaning of *suchen* is very close to the meaning of *versuchen*, but it seems to restricted to a high-education written register in German. Crucially, in this meaning the verb *suchen* is a light verb because the construction *suchen + zu-infinitive* is obligatorily coherent [@next b,c]. Note that the semantically similar lexical verb *versuchen* is not obligatorily coherent.
+The verb *suchen* 'to search' has a special usage with a *zu-Infinitiv* expressing the meaning 'to attempt to do something' [@next a]. In this usage, the meaning of *suchen* is very close to the meaning of *versuchen* 'to try'. It seems to be restricted to a high-education written register in German. Crucially, in this meaning the verb *suchen* is a light verb because the construction *suchen + zu-infinitive* is obligatorily coherent [@next b,c]. Note that the semantically similar lexical verb *versuchen* is not obligatorily coherent.
 
 There is an old tradition in Latin grammar to describe one of the possible meanings of the Latin present tense as a 'conative present' when it should be translated as an attempted action. Thus, it seems fitting to call the *suchen + zu-infinitive* diathesis a ~~conative~~.
 
@@ -147,9 +147,9 @@ There is an old tradition in Latin grammar to describe one of the possible meani
 
 ### --- Modal meaning --- {.unnumbered}
 
-### *wissen/verstehen + zu-Infinitiv* Ability (*Abilitiv*)^[Note that Englisch *ability* comes from Latin *habilitas*, so a German name like ~~habilitiv~~ would probabliy be more precise. However, I prefer ~~abilitiv~~ because it is easier to understand due to the similarity to English. One can also invoke Medieval Latin *abilitas* as its origin, likewise with a dropped <h>.] {#sec:zuinfinitive-wissen}
+### *wissen/verstehen + zu-Infinitiv* Ability (*Abilitiv*)^[Note that Englisch *ability* comes from Latin *habilitas*, so a German name like ~~habilitiv~~ would probably be more precise. However, I prefer ~~abilitiv~~ because it is easier to understand due to the similarity to English. One can also invoke Medieval Latin *abilitas* as its origin, likewise with a dropped <h>.] {#sec:zuinfinitive-wissen}
 
-The construction *wissen + zu-Infinitiv* is only mentioned in-passing in the German grammatical literure [e.g. @engel1996: 483; @holl2010: 10; @duden2009: 426]. This ommission is all the more striking as it is widely ackowledged that the inflection of *wissen* shows various similarities to the *Modalverben* [@duden2009: 458-459, 481-482]. Actually, it is quite obvious that the *wissen + zu-Infinitiv* construction has a modal meaning expressing capability 'to be able to' [@next a]. This construction is obligatorily coherent [@next b,c].
+The construction *wissen + zu-Infinitiv* is only mentioned in-passing in the German grammatical literature [e.g. @engel1996: 483; @holl2010: 10; @duden2009: 426]. This omission is all the more striking as it is widely acknowledged that the inflection of *wissen* shows various similarities to the *Modalverben* [@duden2009: 458-459, 481-482]. Actually, it is quite obvious that the *wissen + zu-Infinitiv* construction has a modal meaning expressing capability 'to be able to' [@next a]. This construction is obligatorily coherent [@next b,c].
 
 ::: ex
 - Der Lehrer weiß die Schüler zu begeistern.
@@ -182,7 +182,7 @@ The construction *vermögen + zu-Infinitiv* is a formal-register expression mean
 
 ### *haben + zu-Infinitiv* Obligation (*Obligativ*) {#sec:zuinfinitive-haben}
 
-The *haben + zu-Infinitiv* construction, extensively discussed in Holl [-@holl2010] has a clear modal meaning of obligation [@next a,b], a clear parallel to the English *to have to* construction. This construction is obligatorily coherent [@next b].
+The *haben + zu-Infinitiv* construction, extensively discussed in Holl [-@holl2010] has a clear modal meaning of obligation [@next a,b]. There is a clear parallel to the English *to have to* construction. This construction is obligatorily coherent [@next b].
 
 ::: ex
 a. Die Schüler lösen die Aufgaben.
@@ -201,7 +201,7 @@ c. Es ist bekannt, dass die Schüler die Aufgaben zu lösen haben.
 
 ### *brauchen + zu-Infinitiv* Negative obligation {#sec:zuinfinitive-brauchen}
 
-The verb *brauchen* 'to need' is similar to its English couterpart in many ways. As a lexical verb it expresses a necessity for something [@next a]. It can also be combined with a *zu-Infinitiv*, though in German this construction obligatorily needs either a modal particle *nur* or *bloß* [@next b] or a negative element [@next c]. THe construction *brauchen + zu-Infinitiv* is typically combined with one of the following negations: *nicht, nichts, wenig, kein, niemand, nie, kaum, ohne dass*. Just like with English *to need* there is a tendency for the meaning of negated *brauchen* to shift from expressing a non-necessity to a non-obligation [@next c].
+The verb *brauchen* 'to need' is similar to its English counterpart in many ways. As a lexical verb it expresses a necessity for something [@next a]. It can also be combined with a *zu-Infinitiv*, though in German this construction obligatorily needs either a modal particle *nur* or *bloß* [@next b] or a negative element [@next c]. The construction *brauchen + zu-Infinitiv* is typically combined with one of the following negations: *nicht, nichts, wenig, kein, niemand, nie, kaum, ohne dass*. Just like with English *to need* there is a tendency for the meaning of negated *nicht brauchen* to shift from expressing a non-necessity to a non-obligation [@next c].
 
 ::: ex
 - Ich brauche ein Handtuch.
@@ -209,7 +209,7 @@ The verb *brauchen* 'to need' is similar to its English couterpart in many ways.
 - Niemand braucht es zu wissen.
 :::
 
-In colloquial usage *brauchen* can be used without *zu* [@next a], being on the border to being a *Modalverb* (see [@sec:infinitive-brauchen]). The *brauchen + zu-Infinitive* construction is obligatorily coherent [@next b].
+In colloquial usage *brauchen* can also be used without *zu* [@next a], being on the border to being a proper *Modalverb* (see [@sec:infinitive-brauchen]). The *brauchen + zu-Infinitive* construction is obligatorily coherent [@next b].
 
 ::: ex
 - Er braucht seine Kleider nicht selber (zu) waschen.
@@ -260,7 +260,7 @@ Evidential usage
 - Die Pfänder hinter den Papieren waren Immobilien, deren Wert ständig weiter zu steigen versprach.^[~~DWDS~~: Die Zeit, 15.08.2017 (online).]
 :::
 
-Diewald & Smirnova [-@diewald2010: 191-217] analyse the coherent light-verb usage of *drohen* and *versprechen* as marking a ~~direct evidential~~, i.e. the speaker of the utterance has direct perceptual evidence for the proposition [@next]. There are various differences between *drohen* and *versprechen*. First, drohen is very frequent in its evidential coherent reading (80%), while versprechen (10%) is not [@diewald2010: 214]. Second, *drohen* can be used with animate/human subjects, while *versprechen* is restricted to inanimate subjects. Third, *drohen* implies a negative evaluation from the speaker's point of view, while *versprechen* implies a positive evaluation. Finally, *drohen* has no strong restrictions as to the verbs used as infinitive, the verbs are typically non-agentive but possibly intentional [@diewald2010: 197-199], while *versprechen* only allows for a restricted set of verbs that do not express agency [@diewald2010: 212].
+Diewald & Smirnova [-@diewald2010: 191-217] analyse the coherent light-verb usage of *drohen* and *versprechen* as marking a ~~direct evidential~~, i.e. the speaker of the utterance has direct perceptual evidence for the proposition [@next]. There are various differences between *drohen* and *versprechen*. First, drohen is very frequent in its evidential coherent reading (80%), while versprechen (10%) is not [@diewald2010: 214]. Second, *drohen* can be used with animate/human subjects, while *versprechen* is restricted to inanimate subjects. Third, *drohen* implies a negative evaluation from the speaker's point of view, while *versprechen* implies a positive evaluation. Finally, *drohen* does not have strong restrictions as to which verbs can be used as infinitive. The verbs are typically non-agentive but possibly intentional [@diewald2010: 197-199]. In contrast, *versprechen* only allows for a restricted set of verbs that do not express agency [@diewald2010: 212].
 
 ::: ex
 Evidential interpretation of light-verb usage
@@ -278,14 +278,14 @@ Evidential interpretation of light-verb usage
 
 ### *kommen + zu-Infinitiv* Covertly caused state {#sec:zuinfinitive-kommen}
 
-The verb *kommen* 'to come' can be used with a *zu-Infinitiv* of some atelic intransitive verbs to express a state that is reached [@next]. This construction appears to express that there is some unexpressed force or agent that has caused the state to be reached, so I propose to call this construction a ~~covertly caused state~~. The meaning can be described as 'something happened, which led to the subject being in a specific state'. A parallel construction is frequently attested with nouns, like *Sie kam zu Reichtum, zu Ehren, zu Ende*.
+The verb *kommen* 'to come' can be used with a *zu-Infinitiv* of some atelic intransitive verbs to express a state that is reached [@next].^[see also Lesart 44 von *kommen* in the *Wörterbuch zur Verbvalenz*, available online at <https://grammis.ids-mannheim.de/verbs/view/400724/44>, accessed 3 November 2012.] This construction appears to express that there is some unexpressed force or agent that has caused the state to be reached, so I propose to call this construction a ~~covertly caused state~~. The meaning can be described as 'something happened, which led to the subject being in a specific state'. A parallel construction is frequently attested with nouns, like *Sie kam zu Reichtum/Ehren/Ende*.
 
 ::: ex
 - Plötzlich ist er neben ihr zu liegen gekommen.^[~~DWDS~~: Die Zeit, 07.08.1992, Nr. 33.]
 - Jetzt ist sie hier im Torf auch zu blühen gekommen.^[Attested online at <https://www.orchideenkultur.net/index.php?topic=23522.0>, accessed 27 September 2021.]
 :::
 
-This construction appears to be restricted to intransitive verbs. It might appear that transitive verbs also can occur in this constructions, like *helfen* in [@next a]. However, such examples are always examples of the literal *kommen*, i.e. the subject is intentionally moving towards some place to perform an action. Such constructions are not coherent and the *zu-Infinitiv* seems to be an abbreviated version of an adverbial *um zu-Infinitiv* subordinated clause [@next b].
+This construction appears to be restricted to intransitive verbs. It might appear that transitive verbs also can occur in this constructions, like with *helfen* in [@next a]. However, such examples are always examples of the literal *kommen*, i.e. the subject is intentionally moving towards some place to perform an action. Such constructions are not coherent and the *zu-Infinitiv* seems to be an abbreviated version of an adverbial *um zu-Infinitiv* subordinated clause [@next b].
 
 ::: ex
 - Sie kamen ihm zu helfen. 
@@ -295,7 +295,7 @@ This construction appears to be restricted to intransitive verbs. It might appea
 
 **Attested Verbs**
 
-- *liegen, wohnen, leben, glauben, blühen, sprechen, stehen*^[see also Lesart 44 von *kommen* in the *Wörterbuch zur Verbvalenz*, available online at <https://grammis.ids-mannheim.de/verbs/view/400724/44>, accessed 3 November 2012.]
+- *liegen, wohnen, leben, glauben, blühen, sprechen, stehen*
 
 **Examples**
 
@@ -307,20 +307,20 @@ This construction appears to be restricted to intransitive verbs. It might appea
 
 ### *bekommen/kriegen + zu-Infinitiv* Covertly caused experience {#sec:zuinfinitive-bekommen}
 
-Jäger [-@jager2013] presents a detailed examination of the *bekommen/kriegen + zu-Infinitiv* construction [@next]. She concludes that the subject of such sentences is typically an experiencer [@jager2013: 235]. The centrality of the experiencer role is reminiscent of the *bekommen/kriegen/erhalten + Partizip* dative passive diathesis (see [@sec:participles-bekommen-passive]). However, both structurally and semantically these two constructions are clearly different.
+Jäger [-@jager2013] presents a detailed examination of the *bekommen/kriegen + zu-Infinitiv* construction [@next]. She concludes that the subject of such sentences is typically an experiencer [@jager2013: 235]. The centrality of the experiencer role is reminiscent of the *bekommen/kriegen/erhalten + Partizip* dative passive diathesis, in which the recipient is promoted to subject (see [@sec:participles-bekommen-passive]). However, both structurally and semantically these two constructions are clearly different.
 
 ::: ex
 Ich habe auch sonst mancherlei zu sehen bekommen, was anderer Augen versagt bleibt.^[cited in Jäger [-@jager2013: 11] from ~~DWDS~~: Janitschek, Maria (1902): Die neue Eva, Leipzig: Seemann, S. 36138]
 :::
 
-Jäger performed a corpus investigation and found that 77% of all examples used a verbs of sensation [@jager2013: 83], like *spüren* 'to feel' [@next a]. The second largest group with about 16% were verbs of consumption [@jager2013: 161], like *essen* 'to eat' [@next b]. Various agentive verbs make up a thrird group of about 6% [@jager2013: 201], like *packen* 'to grasp' [@next c].
+Jäger performed a corpus investigation and found that 77% of all examples used a verb of sensation [@jager2013: 83], like *spüren* 'to feel' [@next a]. The second largest group with about 16% were verbs of consumption [@jager2013: 161], like *essen* 'to eat' [@next b]. Various agentive verbs make up a third group of about 6% [@jager2013: 201], like *packen* 'to grasp' [@next c].
 
 Similar to the previous *kommen + zu-Infinitiv* construction (see [@sec:zuinfinitive-kommen]), there is always some unexpressed force or agent at work that causes the subject to experience something, even with verbs that do not describe an experience, e.g. [@next c]. So I propose to call this construction a ~~covertly caused experience~~. 
 
 ::: ex
-- Das hat auch Wiesbaden zu spüren bekommen.
-- Den Tag über bekommen sie nichts Warmes zu essen.
-- Die Nacht war dunkel, und ich bekam nachher den Jammerkerl zu packen.
+- Das hat auch Wiesbaden zu spüren bekommen.^[~~DWDS~~: Die Zeit, 13.03.1958, Nr. 11.]
+- Den Tag über bekommen sie nichts Warmes zu essen.^[~~DWDS~~: Frisch, Karl von: Erinnerungen eines Biologen, Berlin: Springer 1957, S. 7.]
+- Die Nacht war dunkel, und ich bekam nachher den Jammerkerl zu packen.^[~~DWDS~~: Scheerbart, Paul: Immer mutig! In: Deutsche Literatur von Lessing bis Kafka, Berlin: Directmedia Publ. 2000 [1902], S. 144560.]
 :::
 
 **Attested Verbs**
@@ -335,7 +335,7 @@ Similar to the previous *kommen + zu-Infinitiv* construction (see [@sec:zuinfini
 
 ### [ N | – ] *sein + zu-Infinitiv* Impersonal {#sec:zuinfinitive-sein-impersonal}
 
-The *sein + zu-Infinitiv* construction is typically used with transitive verbs as a passive with modal meaning expressing obligation (see [@sec:zuinfinitiv-sein-passive]). With intransitive constructions such a passive would lead to an impersonal construction, but this seems to be very rare [contrary to the claim in @holl2010: 18]. The example given by Holl is doubfull [@next] and I have not been able to find any more intransitive examples.
+The *sein + zu-Infinitiv* construction is typically used with transitive verbs as a passive with modal meaning expressing obligation (see [@sec:zuinfinitiv-sein-passive]). With intransitive verbs such a passive would lead to an impersonal construction, but this seems to be very rare [contrary to the claim in @holl2010: 18]. The example given by Holl is doubtful [@next] and I have not been able to find any more intransitive examples.
 
 ::: ex
 Ab 22 Uhr ist zu schlafen. [@holl2010: 18]
@@ -343,7 +343,7 @@ Ab 22 Uhr ist zu schlafen. [@holl2010: 18]
 
 ### [ NP | -P ] *sein + zu-Infinitiv* Impersonal + governed preposition
 
-It is slightly more common to find impersonal *sein + zu-Infinitiv* constructions with governed prepositions, though this usage is still very rare [@next]. Note that the original nominative subject cannot be retained in another form, and it is not replaced by a valency-simulating pronun *es*. Because of the parallel to the *Modalpassiv* (see [@sec:zuinfinitiv-sein-passive]) I will call this diathesis ~~unpersönlicher Modalpassiv~~, although the name 'passive' is actually not fitting in this case. Just as with the *Modalpassiv*, this construction can have either a deontic *müssen* interpretation [@next a] or an agentive *können* meaning [@next b], the latter typically with negation.
+It is slightly more common to find impersonal *sein + zu-Infinitiv* constructions with governed prepositions, though this usage is still very rare [@next]. Note that the original nominative subject cannot be retained in another form, and it is not replaced by a valency-simulating pronoun *es*. Because of the parallel to the *Modalpassiv* (see [@sec:zuinfinitiv-sein-passive]) I will call this diathesis ~~unpersönlicher Modalpassiv~~, although the name 'passive' is actually not fitting in this case. Just as with the *Modalpassiv*, this construction can have either a deontic *müssen* interpretation [@next a] or an agentive *können* meaning [@next b], the latter typically with negation.
 
 ::: ex
 - Auf Ernst war wie immer lange zu warten. [@holl2010: 18]
@@ -361,7 +361,7 @@ It is slightly more common to find impersonal *sein + zu-Infinitiv* construction
 
 ### [ ND | –D ] *sein + zu-Infinitiv* Impersonal + dative
 
-Likewise, impersonal *sein + zu-Infinitiv* is possible with verbs taking a dative object, though this usage is exceedingly rare [@next]. Note that the original nominative subject cannot be retained and, while removed, it is not replaced by a valency-simulating pronun *es*. Because of the parallel to the *Modalpassiv* (see [@sec:zuinfinitiv-sein-passive]) I will call this diathesis ~~unpersönlicher Modalpassiv~~, although the name 'passive' is actually not fitting in this case. Just as with the *Modalpassiv*, this construction can have either a deontic *müssen* interpretation [@next a] or an agentive *können* meaning [@next b], the latter typically with negation.
+Similar to the previous section, impersonal *sein + zu-Infinitiv* is possible with some verbs taking a dative object, though this usage is exceedingly rare [@next]. Note that the original nominative subject cannot be retained and, while removed, it is not replaced by a valency-simulating pronoun *es*. Because of the parallel to the *Modalpassiv* (see [@sec:zuinfinitiv-sein-passive]) I will call this diathesis ~~unpersönlicher Modalpassiv~~, although the name 'passive' is actually not fitting in this case. Just as with the *Modalpassiv*, this construction can have either a deontic *müssen* interpretation [@next a] or an agentive *können* meaning [@next b], the latter typically with negation.
 
 ::: ex
 - Und den Orchestermusikern ist zu gratulieren.^[~~DWDS~~: Die Zeit, 21.12.1990, Nr. 52.]
@@ -382,7 +382,7 @@ Likewise, impersonal *sein + zu-Infinitiv* is possible with verbs taking a dativ
 
 ### [ NA | pA ] *geben + zu-Infinitiv* Subject demotion (*Möglichkeitsdemotiv*) {#sec:zuinfinitive-geben-demotion}
 
-Transitive verbs can be used in a *geben + zu-Infinitiv* construction, demoting the nominative subject [cf. @engel1996: 488]. The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the light verbs are always in the third person singular, resulting in fixed expressions *es gibt* or *es hat gegeben*. The original nominative subject can be retained by a *für* prepositional phrase [@next b]. This construction is obligatorily coherent [@next c]. 
+Transitive verbs can be used in a *geben + zu-Infinitiv* construction, demoting the nominative subject [cf. @engel1996: 488]. The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the finite verb is always in the third person singular, resulting in fixed expressions *es gibt* or *es hat gegeben*. The original nominative subject can be retained by a *für* prepositional phrase [@next b]. This construction is obligatorily coherent [@next c]. 
 
 Semantically, this construction expresses an option that is available to the original subject. Structurally, the subject is demoted (or even unexpressed). Because of these two characteristics I propose the somewhat cumbersome German designation ~~Möglichkeitsdemotiv~~. Note that the same *geben + zu-Infinitiv* construction is also used for a semantically and structurally quite different causative construction, namely the *Auftragskausativ* (see [@sec:zuinfinitive-geben-causative]).
 
@@ -392,7 +392,7 @@ Semantically, this construction expresses an option that is available to the ori
 - Stattdessen hat es für seine Fans ein Gesamtpaket zu kaufen gegeben.
 :::
 
-This constructions is most commonly used with an quantified adverb like *viel/genug/reichlich/nichts* [@next b] instead of an nominal accusative object [@next c]. However, *geben + zu-Infinitiv* is typically used without the retained subject in a *für* phrase [@nnext a], and in such usage, without a retained subject, it is much more widespread to express a nominal accusative [@nnext b].
+This constructions is commonly used with an quantified adverb like *viel/genug/reichlich/nichts* [@next b] instead of an nominal accusative object [@next c]. Also, *geben + zu-Infinitiv* is typically used without the retained subject in a *für* phrase [@nnext a]. Without a retained subject, the expression of a full nominal accusative is more widespread [@nnext b].
 
 ::: ex
 - Die Reisende entdecken das Land.
@@ -417,7 +417,7 @@ This constructions is most commonly used with an quantified adverb like *viel/ge
 
 ### [ NA | pA ] *gelten + zu-Infinitiv* Subject demotion (*Notwendigkeitdemotiv*) {#sec:zuinfinitive-gelten-demotion}
 
-The verb *gelten* can be with a *zu-Infinitiv* by demoting the orginal subject to an (optional) *für* prepositional phrase [@next a]. As there is no replacement for the subject of the sentence, a valency-simulating pronoun *es* is introduced. This results in a fixed expression *es gilt* [cf. @engel1996: 488-489]. This construction expresses a necessity, close to a modal 'must', and is only used in formal register.
+The verb *gelten* can be with a *zu-Infinitiv* by demoting the original subject to an (optional) *für* prepositional phrase [@next a]. As there is no replacement for the subject of the sentence, a valency-simulating pronoun *es* is introduced. This results in a fixed expression *es gilt* [cf. @engel1996: 488-489]. This construction expresses a necessity, close to a modal 'must', and is mainly used in a formal written register.
 
 The *gelten + zu-Infinitiv* construction is typically coherent, viz. the finite verb *gilt* appears at the end of a subordinate clause [@next a]. However, it is possible to find non-coherent examples [@next b], indicating that this construction is not completely grammaticalised into a monoclausal construction. The coherent usage appears to be the more widespread, though.
 
@@ -431,7 +431,7 @@ The *gelten + zu-Infinitiv* construction is typically coherent, viz. the finite 
 **Examples**
 
 - Da war also der Punkt an dem es einzusetzen galt. [@bech1955: 220-222]
-- Das ist der Jackput, den es für uns zu knacken gilt.^[~~DWDS~~: Die Zeit, 16.11.2010 (online).]
+- Das ist der Jackpot, den es für uns zu knacken gilt.^[~~DWDS~~: Die Zeit, 16.11.2010 (online).]
 - MINT-Berufe sind noch echte Männerdomänen, die es für Frauen zu erobern gilt.^[~~DWDS~~: Die Zeit, 13.06.2008, Nr. 25.]
 - Es gilt jetzt den Tisch zu putzen.
 - Es galt vielleicht einen Selbstmord zu verhüten.
@@ -453,11 +453,13 @@ b. Jemand befürchtet, dass ihr Nachfolger das anders handhaben wird. \
 c. So steht zu befürchten, dass sich die innenpolitischen Gräben noch vertiefen.^[~~DWDS~~: Die Zeit, 07.05.2015, Nr. 19.]
 :::
 
-Except for the verbs of expectation, there are two incidental, but quite frequent, verbs that can be used in this construction, namely *lesen* [@next a] and *verkaufen* [@next b]. Semantically, these do not seem to express any notion of expectation.
+Except for the verbs of expectation, there are two incidental, but quite frequent, verbs that can be used in this construction, namely *lesen* 'to read' [@next a] and *verkaufen* 'to sell' [@next b]. Semantically, these do not seem to express any notion of expectation. Crucially, the *stehen + zu-Infinitiv* construction is coherent with these two verbs [@next c,d].
 
 ::: ex
 - Es stand zu lesen, dass die Mannschaft gegen den Trainer spielen würde.^[~~DWDS~~: Die Zeit, 03.09.2012 (online).]
 - Luxuriöse Villa auf der Insel Brač steht zu verkaufen.^[Attested online at <https://www.croatia-property.net/de/property/luxuriose-villa-auf-der-insel-brac-zu-verkaufen-1991/>, accessed 8 November 2021.]
+- Es ist bekannt, dass es hier zu lesen steht.
+- Es ist bekannt, dass das Haus zu verkaufen steht.
 :::
 
 **Attested Verbs**
@@ -477,7 +479,7 @@ The *gehen + zu-Infinitiv* anticausative [@next a] seems to be typical for an in
 - Das Radio geht zu reparieren. [@helbig2001: 166]
 :::
 
-There is a special idiomatic construction *VERB, was zu VERB geht* [@next] that includes the *gehen + zu-Infinitiv* construction. There does not seem to be any obvious semantic relation to the monoclausal construction as discussed above. 
+There is a special idiomatic construction *VERB, was zu VERB geht* [@next] that includes the *gehen + zu-Infinitiv* construction. There does not seem to be any obvious semantic relation to the monoclausal construction as illustrated above. 
 
 ::: ex
 - Die Sozialdemokraten haben […] verhindert, was nur zu verhindern ging.^[~~DWDS~~: Berliner Zeitung, 23.09.2000.]
@@ -491,7 +493,7 @@ There is a special idiomatic construction *VERB, was zu VERB geht* [@next] that 
 
 **Examples**
 
-- Dieses glas geht nicht zu schneiden weil es sicherheitsglas ist.^[Attested online at <https://www.gutefrage.net/frage/schneiden-einer-feuerfesten-scheibe>, accessed 8 November 2021.]
+- Dieses glas geht nicht zu schneiden weil es Sicherheitsglas ist.^[Attested online at <https://www.gutefrage.net/frage/schneiden-einer-feuerfesten-scheibe>, accessed 8 November 2021.]
 - Leichtes Balsa geht zu schneiden, vor allem wenn es dunkles Balsa ist.^[Attested online at <https://www.rc-network.de/threads/portalfräse-mit-laser-nachrüsten.370360/page-4>, accessed 8 November 2021.]
 - In den übrigen Abspielminuten fragt man sich: wie diese Musik eigentlich zu rezipieren geht.^[~~DWDS~~: Die Zeit, 05.09.2009, Nr. 20.]
 - Ein Maul mehr ging nicht zu stopfen.^[~~DWDS~~: Am Ende der Welt X. Herzschnalzen Blog, 2010-06-01.]
@@ -505,9 +507,9 @@ There is a special idiomatic construction *VERB, was zu VERB geht* [@next] that 
 
 ### [ NA | pN ] *sein + zu-Infinitiv* Passive (*Modalpassiv*) {#sec:zuinfinitiv-sein-passive}
 
-When used with transitive verbs, the *sein + zu-Infinitiv* construction is a passive diathesis with a modal meaning. A passive is defined here as a promotion of the accusative object to nominative subject and the demotion (and typical complete deletion) of the original subject. Authors that argue against a passive status for this construction simply use other criteria [see @holl2010: 19].
+When used with transitive verbs, the *sein + zu-Infinitiv* construction is a passive diathesis with a modal meaning. A passive is defined here as a promotion of the accusative object to nominative subject and the demotion (and typically complete deletion) of the original subject. Authors that argue against a passive status for this construction simply use other criteria for what counts as 'passive' [see @holl2010: 19].
 
- Depending on the context, various modal interpretations are possible for the *sein + zu-Infinitiv* construction, as illustrated in [@next]. These examples show a *müssen* interpretation in [@next a], a *dürfen* interpretation in [@next b], a *können* interpretation in [@next c] and a *nicht brauchen* interpretation in [@next d]. The *müssen* and *können* interpretations seem to be the most frequent.
+Depending on the context, various modal interpretations are possible for the *sein + zu-Infinitiv* construction, as illustrated in [@next]. These examples show a *müssen* interpretation in [@next a], a *dürfen* interpretation in [@next b], a *können* interpretation in [@next c] and a *nicht brauchen* interpretation in [@next d]. The *müssen* and *können* interpretations appear to be the most frequent.
 
 ::: ex
 - Ich führe einen Hund an der Leine. \
@@ -520,7 +522,7 @@ When used with transitive verbs, the *sein + zu-Infinitiv* construction is a pas
   Hagel ist nicht zu erwarten.
 :::
 
-There are various syntactic differences between the *müssen* and *können* interpretations [@holl2010: 18-21]. First, with the *müssen* interpretation [@last a] it is possible to retain the original agent with a *von* prepositional phrase, but this is very uncommon. The *für* agent retention [@last c] is only possible with *können* interpretation. Second, a *können* interpretation is forced by adding adverbials (including negation) like *einfach* 'easily' [@next a] or *schön* 'beautifully' [@next b].
+There are various syntactic differences between the major *müssen* and *können* interpretations [@holl2010: 18-21]. First, with the *müssen* interpretation [@last a] it is possible to retain the original agent with a *von* prepositional phrase, but this is very uncommon. In contrast, the *für* agent retention [@last c] is only possible with the *können* interpretation. Second, a *können* interpretation can be forced by adding adverbials (including negation) like *einfach* 'easily' [@next a] or *schön* 'beautifully' [@next b].
 
 ::: ex
 - Das Pult ist zu bedienen.
@@ -529,11 +531,11 @@ There are various syntactic differences between the *müssen* and *können* inte
   Der Weg ist schön zu gehen.
 :::
 
-Verbs without an accusative argument can use the *sein + zu-Infinitiv* construction to form an impersonal passive, though this is rare (see [@sec:zuinfinitive-sein-impersonal] and subsequent sections). In contrast, most verbs with an accusative argument allow for this diathesis, but not all of them do. Holl [@holl2010: 19] argues that there is a difference between the verbs that allow for a *sein + zu-Infinitiv* passive and those verbs that allow for a *werden + Partizip* passive (cf [@sec:participles-werden-passive]), as exemplified with *bekommen* 'to get' [@next]. There are indeed a few more verbs with such a difference (*entwickeln, erhalten, kriegen, messen, rechnen*), but overall there appear to be actually quite good match between the applicability of both passives.
+Verbs without an accusative argument can used in the *sein + zu-Infinitiv* construction to form an impersonal passive, though this is rare (see [@sec:zuinfinitive-sein-impersonal] and subsequent sections). In contrast, most verbs with an accusative argument allow for this diathesis, but not all of them do. Holl [@holl2010: 19] argues that there is a difference between the verbs that allow for a *sein + zu-Infinitiv* passive and those verbs that allow for a *werden + Partizip* passive (cf [@sec:participles-werden-passive]), as exemplified with *bekommen* 'to get' [@next]. There are indeed a few more verbs that can be used with *sein + zu-Infinitiv* but not with *werden + Partizip* (e.g. *entwickeln, erhalten, kriegen, messen, rechnen*), but overall there actually appears to be quite good match between the applicability of both passives.
 
 ::: ex
-- Die Bücher werden am Schalter im Lesesaal bekommen.
-- ^* Die Bücher sind am Schalter im Lesesaal zu bekommen.
+- ^* Die Bücher werden am Schalter im Lesesaal bekommen.
+- Die Bücher sind am Schalter im Lesesaal zu bekommen.
 :::
 
 **Unattested Verbs**
@@ -556,7 +558,7 @@ The following verbs with accusative arguments do not allow for a *sein + zu-Infi
 
 **Notes**
 
-The verb *kennen* 'to be acquainted with' used to be possible in this construction. The most recent example that I have been able to find is from Huge von Hofmannsthat [@next].
+The verb *kennen* 'to be acquainted with' used to be possible in this construction. The most recent example that I have been able to find is from Huge von Hofmannsthal [@next].
 
 ::: ex
 Sie ist schwer zu kennen.^[~~DWDS~~: Hofmannsthal, Hugo von: Der Schwierige. In: Deutsche Literatur von Lessing bis Kafka, Berlin: Directmedia Publ. 2000 [1917], S. 92458.]
@@ -568,7 +570,7 @@ Sie ist schwer zu kennen.^[~~DWDS~~: Hofmannsthal, Hugo von: Der Schwierige. In:
 
 ### [ –NA | NDA ] *geben + zu-Infinitiv* Causative (*Auftragskausativ*) {#sec:zuinfinitive-geben-causative}
 
-The *geben + zu-Infinitiv* construction has two rather different uses. It can be used with subject demotion and a modal meaning (see [@sec:zuinfinitive-geben-demotion]) or with subject promotion as a causative (this section). As a causative is widely used with a small set of verbs of cognition that take an embedded clause, like *bedenken* 'to consider' [@next a]. Included in the *geben + zu-Infinitiv* construction, this results in a causative 'to cause to consider' [@next b]. Such constructions are coherent [@next c,d].
+The *geben + zu-Infinitiv* construction has two rather different uses. It can be used with subject demotion and a modal meaning (see [@sec:zuinfinitive-geben-demotion]) or with subject promotion and a causative meaning (this section). As a causative it is widely used with a small set of verbs of cognition that take an embedded clause, like *bedenken* 'to consider' [@next a]. Embedded in the *geben + zu-Infinitiv* construction, this results in a causative 'to cause to consider' [@next b]. Such constructions are coherent [@next c,d].
 
 ::: ex
 a. Ich bedenke, dass es schon spät ist.
@@ -577,7 +579,7 @@ c. Er hat mir zu bedenken gegeben, dass es schon spät ist.
 d. ^* Er hat mir gegeben zu bedenken, dass es schon spät ist.
 :::
 
-This causative construction is also widely attested with other verbs, e.g. *trinken* 'to drink' [@next]. With those verbs, the meaning of the *geben + zu-Infinitive* diathesis is very close to lexical *geben* 'to give'. For example *geben zu trinken* often simply means 'hand over some food to be consumed' [@next a]. However, it can also mean 'cause food to be consumed', typically in the context of little children [@next b]. Whatever the exact meaning, this construction is always coherent, as can be seen from the position of the verb *geben* in the examples below.
+This causative construction is also widely attested with other verbs, e.g. *trinken* 'to drink' [@next]. With those verbs, the meaning of the *geben + zu-Infinitive* diathesis is very close to lexical *geben* 'to give'. For example *geben zu trinken* often simply means 'hand over some drink to be consumed' [@next a]. However, it can also mean 'cause food to be consumed', typically in the context of little children [@next b]. Whatever the exact meaning, this construction is always coherent, as can be seen from the position of the verb *geben* in the examples below.
 
 ::: ex
 - Soldaten hätten ihnen zu essen und zu trinken gegeben.^[~~DWDS~~: Die Zeit, 12.05.2015 (online).]
@@ -604,7 +606,7 @@ This causative construction is also widely attested with other verbs, e.g. *trin
 
 The verb *leben* 'to live' is used in this construction with a slightly different meaning. As illustrated in [@next a] it does not mean 'to cause to live' but 'to predict to remain alive'.
 
-The verb *denken* 'to think' is typically stacked inside a modal *sollen/müssen + Infinitiv* [@next b] or a perfect *haben + Partizip* [@next c].
+The *geben +zu-Infinitiv* construction with the verb *denken* 'to think' is typically stacked inside a modal *sollen/müssen + Infinitiv* [@next b] or a perfect *haben + Partizip* [@next c].
 
 ::: ex
 - Der Arzt gab mir noch drei Wochen zu leben.
@@ -626,9 +628,9 @@ not attested
 
 ### [ NA | DN ] *bleiben + zu-Infinitiv* Inversive (*Restinversiv*) {#sec:zuinfinitive-bleiben}
 
-The *bleiben + zu-Infinitive* diathesis shows many intricate details that are in need of a much deeper investigation than I can offer here. I have only been able to find some short discussions of this constructions, none of which go into much detail [@hohle1978: 48-50; @engel1996: 478-479; @colomo2010: 196-197].
+The *bleiben + zu-Infinitive* diathesis shows many intricate details that are in need of a much deeper investigation than I can offer here. I have only been able to find a few short discussions of this construction in the literature, none of which go into much detail [@hohle1978: 48-50; @engel1996: 478-479; @colomo2010: 196-197].
 
-Basically, this diathesis is an passive-like construction, with the accusative being promoted to nominative subject. However, different from a passive, the original subject can be retained as a dative [@next a]. For that reason this diathesis is classified as an inversive. Because the demotion (N to D) is 'larger' than the promotion (A to N) this can be considered a 'demoted' inversive. Just like all diatheses, this construction is coherent [@next b]. 
+Basically, this diathesis is an passive-like construction, with the accusative being promoted to nominative subject. However, different from a passive, the original subject can be retained as a dative [@next a]. For that reason this diathesis is classified as an ~~inversive~~. Because the demotion (N to D) is 'larger' than the promotion (A to N), this diathesis can be considered a 'demoted' inversive. Just like all diatheses, this construction is coherent [@next b]. 
 
 Semantically, this diatheses expresses that (some part of) the patient is still left over to be applied to the verb, so there is a rest still to be considered. For this reason I propose to use the German name ~~Restinversiv~~ for this diathesis.
 
@@ -638,7 +640,7 @@ Semantically, this diatheses expresses that (some part of) the patient is still 
 - Ich habe gehört, dass dem Inspektor nur noch der letzte Fall zu klären bleibt.
 :::
 
-The retention of the subject as a dative is rare in real usage [@next a-c]. However, a frequenct phenomenon with the *bleiben + zu-Infinitive* diathesis is that a quantified adverb is used instead of a nominal object, for example *viel, genügend, wenig, nichts anderes* [@nnext]. In such examples, the retention of the subject as a dative is widespread [@nnext b]. All such constructions are clearly coherent [@nnext c].
+The retention of the subject as a dative is rare in real usage [@next a-c]. However, a frequent phenomenon with the *bleiben + zu-Infinitive* diathesis is that a quantified adverb is used instead of a nominal object, for example *viel, genügend, wenig, nichts anderes* [@nnext]. In such examples, the retention of the subject as a dative is widespread [@nnext b]. All such constructions are clearly coherent [@nnext c].
 
 ::: ex
 - Jetzt bleibt nur noch, diesen Entwurf zu diskutieren. \
@@ -660,7 +662,7 @@ The *bleiben + zu-Infinitive* is commonly used with verbs that take a complement
 ::: ex
 - Ich warte ab, ob Paul wirklich kommt. \
   Es bleibt abzuwarten, ob Paul wirklich kommt. [@holl2010: 10]
-- Wir müssen Gedult haben, weil abzuwarten bleibt, ob Paul wirklich kommt.
+- Wir müssen Geduld haben, weil abzuwarten bleibt, ob Paul wirklich kommt.
 :::
 
 **Attested Verbs**
@@ -680,7 +682,7 @@ The *bleiben + zu-Infinitive* is commonly used with verbs that take a complement
 
 **Notes**
 
-The situation with verbs that take a dative argument, like *danken* 'to thank' or *antworten* 'to answer' needs more investigation. the *bleiben + zu-Infinitive* construction seems to results in a double dative [@next b]. However, this construction does not appear to be coherent [@next c,d].
+The situation with verbs that take a dative argument, like *danken* 'to thank' or *antworten* 'to answer' needs more investigation. the *bleiben + zu-Infinitive* construction seems to results in sentences with a double dative [@next b]. However, this construction does not appear to be coherent [@next c,d].
 
 ::: ex
 - Ich danke dem Veranstalter für diese Ausstellung.
@@ -689,9 +691,11 @@ The situation with verbs that take a dative argument, like *danken* 'to thank' o
 - ^^?^ Ich bin fast fertig, weil mir nur noch dem Veranstalter du danken bleibt.
 :::
 
-There is yet another construction with *bleiben* and a *zu-infinitiv*, shown in [@next] that needs more investigation. These constructions do not appear to be coherent.
+There is yet another construction with *bleiben* and a *zu-Infinitiv*, shown in [@next], that needs more investigation. Basically, the *zu-Infinitive* clauses seem to be subordinate to the nouns *Ratschlag* 'advice' [@next a] and *Anspruch* 'aspiration' [@next b]. However, a better analysis is probably to consider these nouns as 'hidden' predicates, approximately *Ratschlag geben* 'to give advice' [@next c] and *Anspruch haben* 'to have an aspiration' [@next d]. Then the *bleiben + zu-Infinitive* construction is a regular anticausative here. However, note that this construction does not appear to be coherent. 
 
 ::: ex
 - Es bleibt der Ratschlag, Objekte gut zu prüfen.^[~~DWDS~~: Der Tagesspiegel, 24.12.2004.]
 - Es bleibt der Anspruch, die Region zu befrieden.^[~~DWDS~~: Die Zeit, 15.10.1998, Nr. 43.]
+- Jemand gab den Ratschlag, die Object gut zu prüfen.
+- Jemand hat den Anspruch, die Region zu befrieden.
 :::
