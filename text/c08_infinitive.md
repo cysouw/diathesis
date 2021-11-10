@@ -224,19 +224,18 @@ Not attested.
 
 ## Alternations without diathesis
 
-
 ### --- Aspectual meaning  --- {.unnumbered}
 
-### *tun + Infinitiv* Progressive (*Progressiv*) {#sec:infinitive-tun}
+### *tun + Infinitiv* Progressive {#sec:infinitive-tun}
 
-The *tun + Infinitiv* construction [@schwarz2004] is considered substandard and frowned upon in written German [@next a]. However, it is widespread in German dialects and also frequent in the spoken standard language, expressing a progressive aspect. The acceptability is strongly improved for many German speakers with fronting of infinitive [@next b], putting focus on the verb meaning and losing the progressive aspect [@schwarz2004: 15-18]. There does not appear to be any restriction as to which verbs can occur in this construction.
+The *tun + Infinitiv* construction [@schwarz2004] is considered substandard and frowned upon in written German [@next a]. However, it is widespread in German dialects and also frequent in the spoken standard language, expressing a progressive aspect. The acceptability is strongly improved for many German speakers with fronting of the infinitive [@next b], putting focus on the verb meaning and losing the progressive aspect [@schwarz2004: 15-18]. This second usage is more akin to English *do*-support than to a progressive aspect. There do not appear to be any restrictions as to which verbs can occur in this construction.
 
 ::: ex
 - ^^?^ Ich tu dir das Buch schenken.
 - Schenken tu ich dir das Buch.
 :::
 
-### *bleiben + Infinitiv* Continuative (*Kontinuativ*) {#sec:infinitive-bleiben}
+### *bleiben + Infinitiv* Continuative {#sec:infinitive-bleiben}
 
 The construction *bleiben + Infinitiv* [cf. @eisenberg2006a: 351; @engel1996: 476] is typicaly used with position verbs like *sitzen* 'to sit' or *liegen* 'to lie' [@next a]. This construction with *bleiben* indicates that the position is being maintained. Some verbs denoting activities also appear possible, but examples are difficult to find [@next b], see also further examples below. Note that the combination of *bleiben* with an infinitive of a position verb is often considered to be a single word in german orthography [@next c]. This construction does not induce an IPP *Ersatzinfinitiv* [@next c].
 
@@ -285,9 +284,9 @@ The absentive can only be used with verbs that clearly include agency, so typica
 - agentive verbs like *arbeiten, bringen, laufen, rennen, schlafen, schwimmen, zurückbringen*, etc.
 - not possible with non-agentive verbs like: *abkühlen, ankommen, aufstehen, bluten, einschlafen, fallen, husten, niesen, scheitern, stürzen, verrosten, wachsen, weinen*
 
-### *gehen/fahren + Infinitiv* Abitive
+### *gehen/fahren + Infinitiv* Abitive {#sec:infinitive-gehen-abitive}
 
-Parallel to the *sein + Infinitiv* absentive, the light verbs *gehen* 'to go' and *fahren* 'to drive' can also be used to indicate (intended) absence because of an activity [@next a]. In accordance to their lexical meaning, these two light verbs place a focus on the movement away, leading to the absence. I propose the term ~~abitive~~ (from Lat. *abire* 'depart, go away') for this construction. This abitive construction does not induce an IPP *Ersatzinfinitiv* [@next c].
+Parallel to the *sein + Infinitiv* absentive, the light verbs *gehen* 'to go' and *fahren* 'to drive' can also be used to indicate (intended) absence because of an activity [@next a]. In accordance to their lexical meaning, these two light verbs place a focus on the movement away, leading to the absence. I propose the term ~~abitive~~ (from Lat. *abire* 'to depart, to go away') for this construction. This abitive construction does not induce an IPP *Ersatzinfinitiv* [@next c].
 
 ::: ex
 - Er besucht seinen Freund. \
@@ -300,9 +299,9 @@ Parallel to the *sein + Infinitiv* absentive, the light verbs *gehen* 'to go' an
 
 - probably exactly the same verbs as can be used with *sein + Infinitive* absentive can also be used with *gehen/fahren + Infinitive*.
 
-### *kommen + Infinitiv* Aditive
+### *kommen + Infinitiv* Aditive {#sec:infinitive-kommen-aditive}
 
-Contrasting to the *gehen/fahren +Infinitiv* ~~abitive~~ there is also a *kommen + Infinitiv* construction to express a movement towards a location where an activity takes place [@next a]. I propose the term ~~aditive~~ (from Lat. *adire* 'approach') for this construction. This aditive construction does not induce an IPP *Ersatzinfinitiv* [@next b].
+Contrasting to the *gehen/fahren +Infinitiv* abitive there is also a *kommen + Infinitiv* construction to express a movement towards a location where an activity takes place [@next a]. I propose the term ~~aditive~~ (from Lat. *adire* 'to approach') for this construction. This aditive construction does not induce an IPP *Ersatzinfinitiv* [@next b].
 
 ::: ex
 - Er kommt hier immer die Zeitung lesen.
@@ -313,7 +312,7 @@ Contrasting to the *gehen/fahren +Infinitiv* ~~abitive~~ there is also a *kommen
 
 - probably exactly the same verbs as can be used with *sein + Infinitive* absentive can also be used with *kommen + Infinitive*.
 
-### *haben + leicht/gut + Infinitiv* Exceptionality (*Exemptiv*) {#sec:infinitive-haben-adverbial}
+### *haben + leicht/gut + Infinitiv* Exemptive {#sec:infinitive-haben-adverbial}
 
 A special construction using *haben* with infinitive describes a situation in which the subject is exempt of any difficulty, so I propose to call this construction ~~exemptive~~ (from Lat. *exemptus* 'freed of'). This construction obligatorily needs an adverb, most frequently *leicht* 'easy' [@next a] or *gut* 'well' [@next b]. Only incidentally other adverbs are attested, like *klug* 'clever' [@next c]. The main verbs seem to be restricted to intransitive verbs, most frequent are *reden* 'to talk' and *lachen* 'to smile'. The only examples with transitive verbs involve incorporated objects, which are argueably intransitive [@next d].
 

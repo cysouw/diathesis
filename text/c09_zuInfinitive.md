@@ -232,19 +232,19 @@ The coherent construction *scheinen + zu-Infinitiv* [@next] is similar to the En
 
 ::: ex
 - Er scheint ihm ein Buch zu geben.
-- Ich habe gehört, dass er ihm ein Buch zu geben scheint.
-- ^* Ich habe gehört, dass er scheint ihm ein Buch zu geben.
+- Ich habe gesehen, wie er ihm ein Buch zu geben scheint.
+- ^* Ich habe gesehen, wie er scheint ihm ein Buch zu geben.
 :::
 
 ::: ex
-- Er schläft.
-- Er scheint zu schlafen.
-- Er scheint mir zu schlafen.
+- Das Kind schläft.
+- Das Kind scheint zu schlafen.
+- Das Kind scheint mir zu schlafen.
 :::
 
 ### *drohen/versprechen + zu-Infinitiv* Direct evidence {#sec:zuinfinitive-drohen}
 
-A detailed discussion of *drohen* and *versprechen* is presented by Diewald & Smirnova [-@diewald2010: 191-217]. Basically, when used with a *zu-Infinitiv*, both verbs have a speech-act usage [@next], meaning 'to threaten' and 'to promise', respectively, and a grammaticalised light-verb usage [@nnext] with an evidential meaning. There is a very strong tendency that the speech-act uses are non-coherent, while evidential uses are coherent [@reis2005: 136-140].
+A detailed discussion of *drohen* and *versprechen* is presented by Diewald & Smirnova [-@diewald2010: 191-217]. Basically, when used with a *zu-Infinitiv*, both verbs have a speech-act usage [@next], meaning 'to threaten' and 'to promise', respectively, as well as a grammaticalised light-verb usage with an evidential meaning [@nnext]. There is a very strong tendency that the speech-act uses are non-coherent, while evidential uses are coherent [@reis2005: 136-140].
 
 ::: ex
 Speech-act usage
@@ -278,7 +278,7 @@ Evidential interpretation of light-verb usage
 
 ### *kommen + zu-Infinitiv* Covertly caused state {#sec:zuinfinitive-kommen}
 
-The verb *kommen* 'to come' can be used with a *zu-Infinitiv* of some atelic intransitive verbs to express a state that is reached [@next].^[see also Lesart 44 von *kommen* in the *Wörterbuch zur Verbvalenz*, available online at <https://grammis.ids-mannheim.de/verbs/view/400724/44>, accessed 3 November 2012.] This construction appears to express that there is some unexpressed force or agent that has caused the state to be reached, so I propose to call this construction a ~~covertly caused state~~. The meaning can be described as 'something happened, which led to the subject being in a specific state'. A parallel construction is frequently attested with nouns, like *Sie kam zu Reichtum/Ehren/Ende*.
+The verb *kommen* 'to come' can be used with a *zu-Infinitiv* of some intransitive verbs to express a state that is reached [@next].^[see also Lesart 44 von *kommen* in the *Wörterbuch zur Verbvalenz*, available online at <https://grammis.ids-mannheim.de/verbs/view/400724/44>, accessed 3 November 2012.] This construction conveys that there is some unexpressed force or agent that has caused the state to be reached, so I propose to call this construction a ~~covertly caused state~~. The meaning can be described as 'something happened, which led to the subject being in a specific state'. A parallel construction is frequently attested with nouns, like *Sie kam zu Reichtum/Ehren/Ende*.
 
 ::: ex
 - Plötzlich ist er neben ihr zu liegen gekommen.^[~~DWDS~~: Die Zeit, 07.08.1992, Nr. 33.]

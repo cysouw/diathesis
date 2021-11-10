@@ -2368,24 +2368,37 @@ b. Der Hund kommt angerannt.
 ## Infinitive epitheses
 
 ### *Modalverben* (*brauchen/dürfen/können/mögen/müssen/sollen/werden/wollen + Infinitiv*)
+{#sec:summary-modalverben}
 
 (full discussion in [@sec:infinitive-modals] and subsequent sections) *dürfen/können/mögen/müssen/sollen/wollen + Infinitiv*, also *werden/brauchen*
+
+Ersatzinfinitiv
 
 ::: ex
 a. Ich baue ein Haus.
 b. Ich will ein Haus bauen.
 c. Ich werde ein Haus bauen.
+d. Du brauchst nicht kommen.
 :::
 
 ### *Absentiv* (*sein/gehen/fahren/kommen + Infinitiv*)
 
-(full discussion in [@sec:infinitive-sein-absentive] and subsequent sections)
+The ~~Absentiv~~ (full discussion in [@sec:infinitive-sein-absentive]) uses *sein* with an infinitive to express that the subject is absent because s/he is pursuing the activity as described by the verb, i.e. *besuchen* 'to visit' in [@next a,b]. There are two closely related variants of this construction. First, the light verbs *gehen* and *fahren* with an infinitive [@next c] express that the subject is leaving to pursue the activity (full discussion in [@#sec:infinitive-gehen-abitive]). I propose to call this an ~~Abitiv~~, from Lat. *abire* 'to depart'. In contrast, the light verb *kommen* with an infinitive [@next d] conveys that the subject is approaching to pursue an activity (full discussion in [@#sec:infinitive-kommen-aditive]). I propose to call this an ~~Aditiv~~, from Lat. *adire* 'to approach'.
 
 ::: ex
 a. Ich besuche meinen Freund.
 b. Ich bin meinen Freund besuchen.
 c. Ich gehe/fahre meinen Freund besuchen.
 d. Ich komme meinen Freund besuchen.
+:::
+
+### *Kontinuativ* (*bleiben + Infinitiv*)
+
+(full discussion in [@sec:infinitive-sein-absentive])
+
+::: ex
+a. Er liegt im Bett.
+b. Er bliebt im Bett liegen.
 :::
 
 ### *Progressiv* (*tun + Infinitive*)
@@ -2396,15 +2409,6 @@ d. Ich komme meinen Freund besuchen.
 a. Ich schenke dir das Buch.
 b. ^^?^ Ich tu dir das Buch schenken.
 c. Schenken tu ich dir das Buch.
-:::
-
-### *Kontinuativ* (*bleiben + Infinitiv*)
-
-(full discussion in [@sec:infinitive-sein-absentive])
-
-::: ex
-a. Er liegt im Bett.
-b. Er bliebt im Bett liegen.
 :::
 
 ### *Exemptiv* (*haben + leicht/gut + Infinitiv*)
@@ -2420,54 +2424,76 @@ b. Er hat gut lachen.
 
 ### *Habitualis* (*pflegen + zu-Infinitiv*)
 
-(full discussion in [@sec:zuinfinitive-pflegen])
+The ~~Habitualis~~ (full discussion in [@sec:zuinfinitive-pflegen]) is an aspectual category that expresses an activity that is performed regularly as a habit. Such an aspect is widespread among the world's language and in German it can be expressed by using a light verb *pflegen* with a *zu-Infinitiv* [@next a,b]. The verb *pflegen* has a lexical meaning 'to nurse, to maintain', but in this construction this meaning has changed to a grammatical marker of aspect. This grammaticalisation has not only happened semantically, but also structurally. The *pflegen + zu-Infinitiv* construction is clearly monoclausal, as can be seen by the final position of the finite verb when used as a subordinate clause [@next c].
 
 ::: ex
 - Sie lacht laut.
-- Sie pflegte laut zu lachen.
+- Sie pflegt laut zu lachen.
+- Es ist bekannt, dass sie laut zu lachen pflegte.
 :::
 
 ### *Obligativ* (*haben/brauchen + zu-Infinitiv*)
 
-(full discussion in [@sec:zuinfinitive-haben; @sec:zuinfinitive-brauchen])  "müssen"
+The ~~Obligativ~~ (full discussion in [@sec:zuinfinitive-haben]) consist of the light verb *haben* with a *zu-Infinitiv* [@next a,b]. This construction is closely related to the English *to have to* construction, both in form an meaning. This epithesis expresses an obligation to perform an activity (i.e. *müssen*). The German construction is clearly monoclausal, because the finite verb is positioned at the end of the clause in subordinate position [@next c].
 
 ::: ex
 a. Die Schüler lösen die Aufgaben.
 b. Die Schüler haben die Aufgaben zu lösen.
+c. Es ist bekannt, dass die Schüler die Aufgaben zu lösen haben.
+:::
+
+A related construction uses the light verb *brauchen* 'to need' (full discussion in [@sec:zuinfinitive-brauchen]). When *brauchen* is used with a *zu-Infinitiv* it is necessary to add a negative element [@next a] or a particle like *nur* or *bloß* [@next b]. This construction is monoclausal [@next c]. Note that *brauchen* can also be used with a bare infinitive without *zu* without any obvious change in meaning (see [@sec:summary-modalverben]). The meaning of this construction is similar to English *need not*. It expresses 'not be obliged', but often it is quite close to 'should not' or even 'ought not'.
+
+::: ex
+- Du brauchst nicht zu schreien.
+- Du brauchst nur zu rufen.
+- Es ist bekannt, dass du nur (zu) rufen brauchst.
 :::
 
 ### *Abilitiv* (*wissen/vermögen/verstehen + zu-Infinitiv*)
 
-(full discussion in [@sec:zuinfinitive-wissen; @sec:zuinfinitive-vermogen]) "können"
+The ~~Abilitiv~~ (full discussion in [@sec:zuinfinitive-wissen]) uses the verb *wissen* with a *zu-Infinitiv* [@next a,b] in a coherent monoclausal construction [@next c]. The independent lexical verb *wissen* means 'to know', but in this construction it expresses the ability to perform an action (i.e *können*). Instead of *wissen* it is also possible to use the verb *verstehen*. Likewise, the lexical verb *verstehen* means 'to understand', but in this construction it is grammaticalised to express ablity. There is no obvious difference between *wissen* and *verstehen* when used in this construction. A more formal variant exists with the light verb *vermögen* (full discussion in [@sec:zuinfinitive-vermogen]).
 
 ::: ex
 a. Der Lehrer begeistert die Schüler.
-b. Der Lehrer weiß die Schüler zu begeistern.
+b. Der Lehrer weiß/versteht die Schüler zu begeistern.
+c. Es ist bekannt, dass der Lehrer die Schüler zu begeistern weiß/versteht.
 :::
 
 ### *Evidentialis* (*scheinen/drohen/versprechen + zu-Infinitiv*)
 
-(full discussion in [@sec:zuinfinitive-scheinen; @sec:zuinfinitive-drohen])
+The grammatical marking of evidentiality has been observed in languages all over the world. In German, a stricly grammaticalised ~~Evidentialis~~ exists in three variants. First, the verb *scheinen* with a *zu-Infinitiv* [@next a,b] is an inferential evidential in which the speaker expresses some confidence in the claimed state-of-affairs, mostly without definitive knowledge about it (full discussion in [@sec:zuinfinitive-scheinen]). So, this construction is a so-called indirect evidential. The verb *scheinen* has various different other uses, among them a lexical meaning expressing 'to shine'. However, in its evidential usage this construction is coherent monoclausal [@next c].
 
 ::: ex
-a. Er schläft.
-b. Er scheint zu schlafen.
+a. Das Kind schläft.
+b. Das Kind scheint zu schlafen.
+c. Es ist bekannt, dass das Kind zu schlafen scheint.
 :::
 
-### *Versteckter Kausativ* (*bekommen/kommen/kriegen + zu-Infinitiv*)
+Second, the verb *drohen* with a *zu-Infinitiv* [@next a] expresses that the speaker of the utterance has direct perceptual evidence for the proposition, while implying a negative evaluation from the speaker's point of view. Similarly, the verb *versprechen* with a *zu-Infinitiv* [@next b] also expresses a direct evidential, though now with a positive evaluation (full discussion in [@@sec:zuinfinitive-drohen]). Both verbs also have a speech-act usage, with *drohen* meaning 'to threaten' and *versprechen* 'to promise'. However, only in their evidential usage do these verbs construct coherently [@next c].
 
-(full discussion in [@sec:zuinfinitive-kommen]) "es passierte"
+::: ex
+a. Das Wetter droht schlecht zu werden.
+b. Das Wetter verspricht gut zu werden.
+c. Es ist bekannt, dass das Wetter schlecht zu werden droht/verspricht.
+:::
+
+### *Versteckter Kausativ* (*kommen/bekommen/kriegen + zu-Infinitiv*)
+
+The ~~Versteckter Kausativ~~ exists in two variants. The first kind (full discussion in [@sec:zuinfinitive-kommen]) uses the light verb *kommen* with a *zu-Infinitiv* [@next a,b]. This construction conveys that there is some unexpressed force or agent that has caused a state to be reached. It can only used with intransitive verbs like *stehen* and in obligatorily coherent [@next c]
 
 ::: ex
 a. Sie stand neben mir.
 b. Sie kam neben mir zu stehen.
+c. Es ist bekannt, dass sie neben mir zu stehen kam.
 :::
 
-(full discussion in [@sec:zuinfinitive-bekommen])
+The second kind (full discussion in [@sec:zuinfinitive-bekommen]) uses the light verbs *bekommen* or *kriegen* with a *zu-Infinitiv* [@next a,b]. Like with *kommen* above, there is an unnamed force or agent that causes the situation to come about. The light verb *bekommen/kriegen* are typically combined with transitive verbs of sensation and consumption.
 
 ::: ex
-a. Er sieht einen Film.
-b. Er bekommt einen Film zu sehen.
+a. Die Schüler sehen einen Film.
+b. Die Schüler bekommen/kriegen einen Film zu sehen.
+c. Es ist bekannt, dass die Schüler einen Film zu sehen bekommen/kriegen.
 :::
 
 ## *zum/am*-Infinitive epetheses
