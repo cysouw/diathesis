@@ -1044,147 +1044,9 @@ The verb *laufen* allows for both *sein* and *haben* in the intransitive (see [@
 - Ich bin den Marathon gelaufen.
 :::
 
-### --- Real perfects --- {.unnumbered}
+### --- Aspect --- {.unnumbered}
 
-### [ N | N ] *aussehen/(er)scheinen/wirken + Partizip* Intransitive appearance (*Apparitivperfekt*) {#sec:participles-scheinen-intransitive}
-
-The verbs *aussehen, scheinen, erscheinen, wirken* can be used with intransitive participles to describe the appearance of an event [@next]. Such constructions are analysed by Lasch [-@lasch2016: 253ff.] as *Askription mit modaler Relation*. For the German grammatical discussion, I propose to use the latinate name ~~apparitivperfekt~~ from lat. *apparere* 'to appear'. There is a close semantic connection to the *sein* Perfekt as shown by the compatibility with a durative temporal adverb like *seit gestern* [@next b]. With the light verbs *scheinen* and *erscheinen* an experiencer dative is regularly attested [@next c]. With transitive participles these constructions lead to an anticausative diathesis, see [@sec:participles-aussehen-anticausative]. This construction is discussed in more depth in that section. 
-
-::: ex
-a. Die Pflanze wächst.
-b. Die Pflanze scheint/wirkt seit gestern gewachsen.
-c. Die Pflanze erscheint mir gewachsen.
-:::
-
-**Attested Verbs**
-
-The following attested verbs are only illustrative examples taken from the data analysed by Lasch (2016).^[Data accessed on 24 May 2012, available online at <https://goo.gl/xUng8v> for *aussehen*, <https://goo.gl/Xj7EW6> for *erscheinen*, <https://goo.gl/5YvKiw> for *scheinen* and <https://goo.gl/yCai8B> for *wirken*.] There are many more verbs possible in these constructions, but these lists present a good sample of the kind of verbs that are actually attested.
-
-- *aussehen* : *abstürzen, einbilden, brechen, sterben, verkleiden, verkümmern, verregnen, verwildern*
-- *erscheinen* : *ausbrennen, ausdehnen, ausformen, ausreifen, bräunen, eignen, einbilden, hervorsteigen, verblühen, verdicken, vertrocknen, wachsen*
-- *scheinen* : *abreisen, brechen, entstehen, gefrieren, gelingen, geschehen, kommen, rücken, sein, verlorengehen, verschwinden, versinken, werden, zerbrechen, zurückziehen*
-- *wirken* : *ausschlafen, aussterben, brechen, schwellen, verirren, versinken*
-
-### [ N | N ] *bleiben + Partizip* Intransitive durative (*Intransitiv Kontinuativperfekt*) {#sec:participles-bleiben-intransitive}
-
-The *bleiben + Partizip* construction can be used both with some transitive verbs leading to an anticausative diathesis (see [@sec:participles-bleiben-transitive]), and with a few intransitives, but then without any diathesis. For example, verbs like *verschwinden* 'to vanish, to go missing' [@next a] or *zufrieren* 'to freeze over' [@next b] allow for this epithesis. There is a close connection to the *sein + Partizip* construction, though with an added notion of continuation.
-
-::: ex
-- Der Schlüssel verschwindet. \
-  Der Schlüssel bleibt verschwunden.
-- Der Binnensee ist zugefroren. \
-  Weihnachten rückt näher, und der Binnensee bleibt zugefroren.^[Attested online at <https://www.haz.de/Umland/Wunstorf/Nachrichten/Inselvogt-Zobel-von-Feuerwehr-gerettet>, accessed 16 July 2021.]
-:::
-
-The *bleiben + Partizip* construction is only possible with verbs that also allow for a *sein + Partizip* construction, though far from all verbs allow for both. In general, it turns out to be far from easy to find many examples of *bleiben + Partizip* with intransitive verbs, suggesting that there are strong restrictions on the application of this construction. There is a strong semantic intuition that only reversible events allow for a *bleiben + Partizip* construction [@helbig2001: 163; @schlucker2007: 152]. However, examples are attested with clearly irreversible events like *verbrennen* 'to burn' [@next a] or punctual events like *einschlafen* 'to fall asleep' [@next b]. The notion 'reversibility' is thus clearly not the whole explanation.
-
-::: ex
-- ^^?^ Das Buch bleibt verbrannt. \
-  Die Haut bleibt verbrannt, egal wieviel Sonnenmilch sie dann auftragen.^[Attested online at <https://www.leben-mit-ms.de/expertenrat/ms-kortison>, accessed 16 July 2021.]
-- ^^?^ Das Kind bleibt eingeschlafen. \
-  Alex rührt sich, aber bleibt eingeschlafen.^[Attested online at <https://blogs.cornell.edu/glp-spr58/2014/05/07/jesus-christus-und-ikea-in-wolfgang-beckers-goodbye-lenin/>, accessed 16 July 2021.]
-:::
-
-**Attested Verbs**
-
-- *erkranken, verbrennen, verrosten, verschimmeln, verschwinden, vertrocknen, verwelken, zufrieren*
-
-**Examples**
-
-- Die Blume bleibt verwelkt (verblüht).
-- Das Schloss bleibt verrostet.
-- Das Geschirr wurde gewaschen, aber selbst der Fach wo das Geschirr reinkommt, ist verschimmelt geblieben.^[Attested online at <https://www.holidaycheck.de/hrd/hl-miraflor-suites-hotel-sehr-viel-verbesserungspotenzial/2e0be7a4-3803-4fe7-a19a-910d17de92b8>, accessed 16 July 2021.]
-- Nur von 4000 Personen ist aktenkundig bekannt, daß sie verschwunden geblieben sind.^[Attested online at <https://www.zeit.de/1975/46/spurlos-verschwunden/seite-4>, accessed 16 July 2021.]
-- Die Köpfchen vertrockneten immer wieder, aber sie rappelte sich immer wieder auf. Seit 4 Wochen sind die Köpfchen vertrocknet geblieben.^[Attested online at <https://www.hausgarten.net/gartenforum/threads/carnivoren-winterruhe.32314>, accessed 16 July 2021.]
-- Ich bin auch nach der Schwangerschaft weiter an Diabetes erkrankt geblieben.^[Attested online at <https://www.hipp.de/forum/viewtopic.php?t=17551>, accessed 16 July 2021.]
-
-### [ NA | NA ] *halten/lassen + Partizip* Transitive durative (*Transitiv Kontinuativperfekt*) {#sec:participles-halten-lassen-durative}
-
-A widespread option for transitive verbs is to use the *halten + Partizip* construction to express the ongoing perseverance to prolong of the end state of the action, like with *schließen* 'to close' [@next]. The attested verbs listed below are only a few exemplary lexemes. This construction is applicable to a much wider group of verbs.
-
-::: ex
-- Er schließt die Tür.
-- Er hält die Tür geschlossen.
-:::
-
-Similar to the previous construction, the *lassen + Partizip* construction also can be used to express the causing the continuation of a state, like with *einschalten* 'to turn on' [@next]. Although this construction can be used with many different verbs, it turns out to be much more difficult to find suitable examples, which suggests that there are some additional constraints of the applicability of this construction.
-
-::: ex
-- Ich schalte den Fernseher ein.
-- Ich lasse den Fernseher eingeschaltet.
-:::
-
-**Attested Verbs**
-
-- halten: *ausstrecken, besetzen, drücken, fangen, richten, schließen, verbergen, verstecken*, etc.
-- lassen: *anlehnen, ausklammern, einschalten, öffnen, zudecken*
-
-**Examples**
-
-- Er hält seine Augen auf sie gerichtet.
-- Er hält den Brief verborgen.
-- Er hält das Personal gefangen.
-- Er hält den Raum besetzt.
-- Er hält die Taste gedrückt.
-- Er hält den Arm ausgestreckt.
-- Der Mann hatte den Zuleitungsschlauch ohne Zusatzsicherung mehrere Jahre hindurch geöffnet gelassen.^[~~DWDS~~: Der Tagesspiegel, 12.07.2004]
-- Die Tür hatte sie angelehnt gelassen, jetzt stand sie sperrangelweit offen.^[Die Zeit, 23.03.1990, Nr. 13]
-- Hätte man die Streitfragen wirklich ausgeklammert gelassen, dann wäre das Berlin-Abkommen ein großer Erfolg gewesen.^[Die Zeit, 08.03.1974, Nr. 11]
-
-### [ NA | NA ] *bekommen/kriegen + Partizip* Achievement (*Erfolgsperfekt*) {#sec:participles-bekommen-achievement}
-
-The construction of the light verbs *bekommen/kriegen + Partizip* is widely discussed as a dative passive (see [@sec:participles-bekommen-passive]). However, transitive verbs without dative arguments can occur in this construction with a completely different 'to be able to' interpretation [@next]. This usage is discussed as the '*bekommen*-Konstruktion 2' [@leirbukt1997: 15-16] or as the resultative usage of *bekommen/kriegen* [@lenz2013: 86, 238-239]. Different from the dative passive, the light verb *erhalten* is not possible in this resultative construction.
-
-::: ex
-- Ich koche einen Tee. 
-- Ich bekomme schon noch einen Tee gekocht! \
-  (= Ich schaffe es schon noch einen Tee zu kochen.)
-:::
-
-**Attested Verbs**
-
-- *kochen, öffnen, schließen, trocknen, vermieten, verschieben, zerbrechen*, etc.
-
-**Examples**
-
-- Wenn wir die Pforte geschlossen bekommen, verfassen wir nachträglich einen Bericht.^[Regnier, Sandra. 2017. *Die magische Pforte der Anderwelt*, p. 122. Available online at <https://books.google.de/books?id=Lhm1DgAAQBAJ&pg=122>, accessed 16 July 2021.]
-- Er kriegt den Stock zerbrochen.
-- Ich kriege den Schrank geöffnet
-- Er kriegt seine Kleider noch rechtzeitig getrocknet. 
-- Er kriegt den schweren Schrank auch alleine verschoben.
-- Er kriegt die Wohnung vermietet.
-
-### [ NA | NA ] *machen + Partizip* Resultative {#sec:participles-machen-resultative}
-
-This is one of the various alternations that occur with *machen + Partizip* (see [@sec:participle-different-diatheses]). With these experiencer verbs the alternation does not induce a diathesis.
-
-::: ex
-a. Der Verlust betrifft mich.
-b. Der Verlust macht mich betroffen.
-:::
-
-**Attested Verbs**
-
-- *betreffen, verbittern, verstören, verzagen*
-
-**Examples**
-
-- Das Geschehen macht mich verbittert.
-- Der Bericht hat mich verstört gemacht.
-- Den Jäcklein hatte der getrunkene Wein verzagt und verstört gemacht.^[~~DWDS~~: Perutz, Leo: Die dritte Kugel, Reinbek bei Hamburg: Rowohlt 1988 [1915], S. 217.]
-
-**Notes**
-
-There are various highly frequent examples of *machen + Partizip* in which the participle is not directly derived from a finite verb.
-
-- Das Geschäft macht mich angesehen.
-- Etwas macht mich erfahren.
-- Der Film macht ihn beliebt.
-- Der Rauch macht mich benommen.
-
-### --- Others --- {.unnumbered}
-
-### [ N | N ] *kommen + Partizip* Movement {#sec:participles-kommen}
+### [ N | N ] *kommen + Partizip* Movement towards (*Aditivprogressiv*) {#sec:participles-kommen}
 
 The *kommen + Partizip* construction [@next] is very similar to a main verb *kommen* 'to come' with a secondary adverbial predicate [@nnext]. Rothstein [@rothstein2007a; @rothstein2011] observed various structural differences between these constructions (see also the general discussion about participles as secondary predicates in [@sec:participles-secondary-predicates]). The *kommen + Partizip* construction, like with *hüpfen* 'to hop', can be identified by the impossibility of adding the negating *un-* prefix to the participle [@next b] and by the clause-final position of the participle [@next c,d]. With secondary predicates like *verkleidet* 'dressed up' these syntactic characteristics are reversed [@nnext b-d]. 
 
@@ -1217,7 +1079,7 @@ The *kommen + Partizip* construction is typically attested with intransitive ver
 - Er kam mir nachgelaufen
 :::
 
-A widely-discussed special variant is the construction with participles with a preverb *an-* [see @eisenberg2006: 266; @rothstein2007a: 162; @felfe2012: 194, 241]. Many of these *an-* verbs are only possible in this construction, i.e. they do not occur in finite clauses [@rothstein2007a: 162]. Besides  with movement verbs, like *reiten* 'to ride on horsback' [@next a], the *an-* construction also occurs with sound production verbs, like *keuchen* 'to pant' [@next b]. These two possibilities are related to the manner-of-movement construction, see [@sec:prepositions-manner-of-movement], and the manner-of-speaking construction, see [@sec:case-accusative-addition].
+A widely-discussed special variant is the construction with participles with a preverb *an-* [see @eisenberg2006: 266; @rothstein2007a: 162; @felfe2012: 194, 241]. Many of these *an-* verbs are only possible in this construction, i.e. they do not occur in finite clauses [@rothstein2007a: 162]. Besides with movement verbs, like *reiten* 'to ride on horsback' [@next a], the *an-* construction also occurs with sound production verbs, like *keuchen* 'to pant' [@next b]. These two possibilities are related to the manner-of-movement construction, see [@sec:prepositions-manner-of-movement], and the manner-of-speaking construction, see [@sec:case-accusative-addition].
 
 ::: ex
 - Er kommt angeritten. \
@@ -1249,6 +1111,168 @@ The secondary predicate usage is also possible with transitive verbs, but then t
 - Eine Kugel kommt geflogen.
 - Ein Vogel ist auf mich zugeflogen gekommen.
 - Er kam geschmückt, erregt, und gespannt zu Tische [Thomas Mann, cited from @rothstein2007a: 161]
+
+### [ N | N ] *bleiben + Partizip* Continuative (*Perfektkontinuativ*) {#sec:participles-bleiben-intransitive}
+
+The *bleiben + Partizip* construction can be used both with some transitive verbs leading to an anticausative diathesis (see [@sec:participles-bleiben-transitive]), and with a few intransitives, but then without any diathesis. For example, verbs like *verschwinden* 'to vanish, to go missing' [@next a] or *zufrieren* 'to freeze over' [@next b] allow for this epithesis. There is a close connection to the *sein + Partizip* construction, though with an added notion of continuation.
+
+::: ex
+- Der Schlüssel verschwindet. \
+  Der Schlüssel bleibt verschwunden.
+- Der Binnensee ist zugefroren. \
+  Weihnachten rückt näher, und der Binnensee bleibt zugefroren.^[Attested online at <https://www.haz.de/Umland/Wunstorf/Nachrichten/Inselvogt-Zobel-von-Feuerwehr-gerettet>, accessed 16 July 2021.]
+:::
+
+The *bleiben + Partizip* construction is only possible with verbs that also allow for a *sein + Partizip* construction, though far from all verbs allow for both. In general, it turns out to be far from easy to find many examples of *bleiben + Partizip* with intransitive verbs, suggesting that there are strong restrictions on the application of this construction. There is a strong semantic intuition that only reversible events allow for a *bleiben + Partizip* construction [@helbig2001: 163; @schlucker2007: 152]. However, examples are attested with clearly irreversible events like *verbrennen* 'to burn' [@next a] or punctual events like *einschlafen* 'to fall asleep' [@next b]. The notion 'reversibility' is thus clearly not the whole explanation.
+
+::: ex
+- ^^?^ Das Buch bleibt verbrannt. \
+  Die Haut bleibt verbrannt, egal wieviel Sonnenmilch sie dann auftragen.^[Attested online at <https://www.leben-mit-ms.de/expertenrat/ms-kortison>, accessed 16 July 2021.]
+- ^^?^ Das Kind bleibt eingeschlafen. \
+  Alex rührt sich, aber bleibt eingeschlafen.^[Attested online at <https://blogs.cornell.edu/glp-spr58/2014/05/07/jesus-christus-und-ikea-in-wolfgang-beckers-goodbye-lenin/>, accessed 16 July 2021.]
+:::
+
+**Attested Verbs**
+
+- *erkranken, verbrennen, verrosten, verschimmeln, verschwinden, vertrocknen, verwelken, zufrieren*
+
+**Examples**
+
+- Die Blume bleibt verwelkt (verblüht).
+- Das Schloss bleibt verrostet.
+- Das Geschirr wurde gewaschen, aber selbst der Fach wo das Geschirr reinkommt, ist verschimmelt geblieben.^[Attested online at <https://www.holidaycheck.de/hrd/hl-miraflor-suites-hotel-sehr-viel-verbesserungspotenzial/2e0be7a4-3803-4fe7-a19a-910d17de92b8>, accessed 16 July 2021.]
+- Nur von 4000 Personen ist aktenkundig bekannt, daß sie verschwunden geblieben sind.^[Attested online at <https://www.zeit.de/1975/46/spurlos-verschwunden/seite-4>, accessed 16 July 2021.]
+- Die Köpfchen vertrockneten immer wieder, aber sie rappelte sich immer wieder auf. Seit 4 Wochen sind die Köpfchen vertrocknet geblieben.^[Attested online at <https://www.hausgarten.net/gartenforum/threads/carnivoren-winterruhe.32314>, accessed 16 July 2021.]
+- Ich bin auch nach der Schwangerschaft weiter an Diabetes erkrankt geblieben.^[Attested online at <https://www.hipp.de/forum/viewtopic.php?t=17551>, accessed 16 July 2021.]
+
+### [ NA | NA ] *halten/lassen + Partizip* Caused continuative (*Kausativkontinuativ*) {#sec:participles-halten-lassen-durative}
+
+A widespread option for transitive verbs is to use the *halten + Partizip* construction to express the ongoing perseverance to prolong of the end state of the action, like with *schließen* 'to close' [@next]. The attested verbs listed below are only a few exemplary lexemes. This construction is applicable to a much wider group of verbs.
+
+::: ex
+- Er schließt die Tür.
+- Er hält die Tür geschlossen.
+:::
+
+Similar to the previous construction, the *lassen + Partizip* construction also can be used to express the causing the continuation of a state, like with *einschalten* 'to turn on' [@next]. Although this construction can be used with many different verbs, it turns out to be much more difficult to find suitable examples, which suggests that there are some additional constraints of the applicability of this construction.
+
+::: ex
+- Ich schalte den Fernseher ein.
+- Ich lasse den Fernseher eingeschaltet.
+:::
+
+**Attested Verbs**
+
+- halten: *ausstrecken, besetzen, drücken, fangen, richten, schließen, verbergen, verstecken*, etc.
+- lassen: *anlehnen, ausklammern, einschalten, öffnen, zudecken*
+
+**Examples**
+
+- Er hält seine Augen auf sie gerichtet.
+- Er hält den Brief verborgen.
+- Er hält das Personal gefangen.
+- Er hält den Raum besetzt.
+- Er hält die Taste gedrückt.
+- Er hält den Arm ausgestreckt.
+- Der Mann hatte den Zuleitungsschlauch ohne Zusatzsicherung mehrere Jahre hindurch geöffnet gelassen.^[~~DWDS~~: Der Tagesspiegel, 12.07.2004]
+- Die Tür hatte sie angelehnt gelassen, jetzt stand sie sperrangelweit offen.^[Die Zeit, 23.03.1990, Nr. 13]
+- Hätte man die Streitfragen wirklich ausgeklammert gelassen, dann wäre das Berlin-Abkommen ein großer Erfolg gewesen.^[Die Zeit, 08.03.1974, Nr. 11]
+
+### --- Mood --- {.unnumbered}
+
+### [ NA | NA ] *bekommen/kriegen + Partizip* Achievement (*Effekativ*) {#sec:participles-bekommen-achievement}
+
+The construction of the light verbs *bekommen/kriegen + Partizip* is widely discussed as a dative passive (see [@sec:participles-bekommen-passive]). However, transitive verbs without dative arguments can also occur in this construction with a completely different 'to be able to' interpretation [@next]. This usage is discussed as the '*bekommen*-Konstruktion 2' [@leirbukt1997: 15-16] or as the resultative usage of *bekommen/kriegen* [@lenz2013: 86, 238-239]. Different from the dative passive, the light verb *erhalten* is not possible in this resultative construction. I propose the German name ~~Effekativ~~ (from Lat. *effectus* 'accomplishment') for this construction.
+
+::: ex
+- Ich koche einen Tee. 
+- Ich bekomme schon noch einen Tee gekocht! \
+  (= Ich schaffe es schon noch, einen Tee zu kochen.)
+:::
+
+**Attested Verbs**
+
+- *kochen, öffnen, schließen, trocknen, vermieten, verschieben, zerbrechen*, etc.
+
+**Examples**
+
+- Wenn wir die Pforte geschlossen bekommen, verfassen wir nachträglich einen Bericht.^[Regnier, Sandra. 2017. *Die magische Pforte der Anderwelt*, p. 122. Available online at <https://books.google.de/books?id=Lhm1DgAAQBAJ&pg=122>, accessed 16 July 2021.]
+- Er kriegt den Stock zerbrochen.
+- Ich kriege den Schrank geöffnet
+- Er kriegt seine Kleider noch rechtzeitig getrocknet. 
+- Er kriegt den schweren Schrank auch alleine verschoben.
+- Er kriegt die Wohnung vermietet.
+
+### --- Evidentiality --- {.unnumbered}
+
+### [ N | N ] *scheinen/erscheinen + Partizip* Inferred evidence (*Perfektinferenz*) {#sec:participles-scheinen-intransitive}
+
+The light verbs *scheinen* and *erscheinen* are used with participles of some intransitive verbs to describe an inference being made by the speaker [@next]. There is a close semantic connection to the *sein* perfect as shown by the imcompatibility with many agentive intransitives [@next a,b] and by the compatibility with a durative temporal adverb like *seit einer Stunde* [@next c]. An additional experiencer dative is sometimes attested [@next d]. With transitive verbs this construction leads to an anticausative diathesis, see [@sec:participles-scheinen-anticausative]. This construction is discussed in more depth in that section. 
+
+These constructions are analysed by Lasch [-@lasch2016: 253ff.] as *Askription mit modaler Relation*. 
+However, I propose to categorise such construction as a kind of evidential, following the proposal by Diewald & Smirnova [@diewald2010: 177-191]. Diewald and Smirnova present an extensive discussion of the meaning of *scheinen* in various constructions, but, inexplicably, they did not include the construction with a participle. Still, their proposal that *scheinen* can express an inferential evidential also seems fitting for the participle construction. The German name ~~Perfektinferenz~~ is chosen because of the perfectivity of the main verb. It stands in opposition to the *Imperfektinferenz* construction, which uses a *zu-Infinitiv* (see [@sec:zuinfinitive-scheinen]).
+
+::: ex
+a. Das Kind schläft endlich ein. \
+   Das Kind scheint endlich eingeschlafen.
+b. \* Das Kind scheint geschlafen.
+b. Das Kind ist seit einer Stunde endlich eingeschlafen.
+d. Das Kind scheint mir endlich eingeschlafen.
+:::
+
+**Attested Verbs**
+
+The following attested verbs are only illustrative examples taken from the data analysed by Lasch (2016).^[Data accessed on 24 May 2012, available online at <https://goo.gl/xUng8v> for *aussehen*, <https://goo.gl/Xj7EW6> for *erscheinen*, <https://goo.gl/5YvKiw> for *scheinen* and <https://goo.gl/yCai8B> for *wirken*.] There are many more verbs possible in these constructions, but these lists present a good sample of the kind of verbs that are actually attested.
+
+- *scheinen* : *abreisen, brechen, entstehen, gefrieren, gelingen, geschehen, kommen, rücken, verlorengehen, verschwinden, versinken, werden, zerbrechen, zurückziehen*
+- *erscheinen* : *ausbrennen, ausdehnen, ausformen, ausreifen, bräunen, eignen, einbilden, hervorsteigen, verblühen, verdicken, vertrocknen, wachsen*
+
+
+### [ N | N ] *aussehen/wirken + Partizip* Sensory evidence (*Sinnesevidenz*) {#sec:participles-wirken-intransitive}
+
+The verbs *aussehen* and *wirken* can be used with participles of intransitive verbs to describe an evaluation of an event based on sensory evidence by the speaker [@next]. These constructions are analysed by Lasch [-@lasch2016: 253ff.] as *Askription mit modaler Relation*, but an evidential analysis seems more suitable. For *aussehen/wirken* I propose to categorise them as direkt evidential based on sensory evidence by the speaker. With transitive verbs these constructions lead to an anticausative diathesis, see [@sec:participles-wirken-anticausative].
+
+::: ex
+- Er schläft aus.
+- Er wirkt ausgeschlafen.
+:::
+
+**Attested Verbs**
+
+The following attested verbs are only illustrative examples taken from the data analysed by Lasch (2016).^[Data accessed on 24 May 2012, available online at <https://goo.gl/xUng8v> for *aussehen*, <https://goo.gl/Xj7EW6> for *erscheinen*, <https://goo.gl/5YvKiw> for *scheinen* and <https://goo.gl/yCai8B> for *wirken*.] There are many more verbs possible in these constructions, but these lists present a good sample of the kind of verbs that are actually attested.
+
+- *aussehen* : *abstürzen, einbilden, brechen, sterben, verkleiden, verkümmern, verregnen, verwildern*
+- *wirken* : *ausschlafen, aussterben, brechen, schwellen, verirren, versinken*
+
+### --- Other --- {.unnumbered}
+
+### [ NA | NA ] *machen + Partizip* Resultative {#sec:participles-machen-resultative}
+
+This is one of the various alternations that occur with *machen + Partizip* (see [@sec:participle-different-diatheses]). With these experiencer verbs the alternation does not induce a diathesis.
+
+::: ex
+a. Der Verlust betrifft mich.
+b. Der Verlust macht mich betroffen.
+:::
+
+**Attested Verbs**
+
+- *betreffen, verbittern, verstören, verzagen*
+
+**Examples**
+
+- Das Geschehen macht mich verbittert.
+- Der Bericht hat mich verstört gemacht.
+- Den Jäcklein hatte der getrunkene Wein verzagt und verstört gemacht.^[~~DWDS~~: Perutz, Leo: Die dritte Kugel, Reinbek bei Hamburg: Rowohlt 1988 [1915], S. 217.]
+
+**Notes**
+
+There are various highly frequent examples of *machen + Partizip* in which the participle is not directly derived from a finite verb.
+
+- Das Geschäft macht mich angesehen.
+- Etwas macht mich erfahren.
+- Der Film macht ihn beliebt.
+- Der Rauch macht mich benommen.
 
 ### [ NA | NA ] *nehmen + Partizip* Imprisonment
 
@@ -1520,40 +1544,22 @@ Third, *bleiben + Partizip* is only possible with a small subset of all verbs th
 - Der Fußballer bleibt verwarnt
 - Das Fass bleibt gefüllt.
 
-### [ NA | –N ] *aussehen/(er)scheinen/wirken + Partizip* Anticausative (*Apparitivantikausativ*) {#sec:participles-aussehen-anticausative}
+### [ NA | –N ] *scheinen/erscheinen + Partizip* Anticausative (*Inferenzantikausativ*) {#sec:participles-scheinen-anticausative}
 
-The four light verbs *aussehen*, *scheinen*, *erscheinen* and *wirken* can be used with participles in monoclausal constructions.  With intransitive verbs these light verbs do not induce any diathesis (see [@sec:participles-scheinen-intransitive]). In contrast, with transitive verbs these constructions result in an anticausative diathesis [@next]. Such constructions are analysed by Lasch [-@lasch2016: 253ff.] as *Askription mit modaler Relation*. For the German grammatical discussion, I propose to use the latinate name ~~apparitivantikausativ~~ from lat. *apparere* 'to appear'.
+The light verbs *scheinen* and *erscheinen* can be used with participles in monoclausal constructions. With intransitive verbs these light verbs do not induce any diathesis (see [@sec:participles-scheinen-intransitive]). In contrast, with transitive verbs these constructions result in an anticausative diathesis [@next]. Such constructions are analysed by Lasch [-@lasch2016: 253ff.] as *Askription mit modaler Relation*. However, inspired by the analysis by Diewald & Smirnova [@diewald2010: 177-191] it seems better to consider these expression as marking inferential evidence. As a German name I propose to use the term ~~Inferenzantikausativ~~.
 
 ::: ex
 - Der Sturm beschädigt das Dach des Hauses.
 - Das Dach des Hauses sieht beschädigt aus.
 :::
 
-The retention of the agent using a *von* phrase appears to be possible, though examples are very rare [@next]. Note that examples with *wie von* phrases have to be discarded, as such phrases do not instantiate an agent. Because of the very rare attestation of such agents I consider these diatheses as anticausatives, and not as passives.
+The retention of the agent using a *von* phrase appears to be possible, though examples are very rare [@next a,b]. Note that examples with *wie von* phrases have to be discarded, as such phrases do not instantiate an agent. Because of the very rare attestation of such agents I consider these diatheses to be anticausatives, not passives. These constructions are sometimes attested with an additional experiencer dative [@next c,d].
 
 ::: ex
-- […] deren Zweige übrigens schon von der Sonnenhitze schnell verdorrt aussahen.^[~~DWDS~~: Keil, Ernst (Hrsg.): Die Gartenlaube. Jg. 2 (1854).]
 - Im Längsschnitt erscheint der helle Innenraum von zwei dunklen Linien	begrenzt.^[Lasch 2016, citing DWDS: Nultsch, Wilhelm, Allgemeine Botanik, Stuttgart: Thieme 1964, S. 52]
 - Zuletzt scheinen von diesem Prozeß die biblischen Gleichnisse betroffen.^[Lasch 2016, citing DWDS: Busch, Werner, Das sentimentalische Bild, München: Beck 1993, S. 284]
-- Auch bei der Messe in Györ […] wirkte der Papst […] von Strapazen gezeichnet.^[Lasch 2016, citing DWDS: Archiv der Gegenwart, 2001]
-:::
-
-All four light verb constructions are attested with an additional experiencer dative [@next]. This additional dative seems to be most frequent with *scheinen* and *erscheinen*. With *aussehen* [@next a] it is only very rarely attested and with *wirken* [@next d] an alternative *auf mich* instead of dative *mir* seems more common.
-
-::: ex
-- […] der alte Kriegsheld sieht mir sehr determinirt aus […].^[~~DWDS~~: Wallenrodt, Johanna Isabella Eleonore von: Fritz, der Mann wie er nicht seyn sollte oder die Folgen einer übeln Erziehung. Bd. 2. Gera, 1800.]
-- Sein Gesicht erschien mir vertrocknet.^[Lasch 2016, citing DWDS: Blos, Wilhelm, Denkwürdigkeiten eines Sozialdemokraten, Band 1, München: G. Birk, 1914., S. 9306]
 - Der Titel […] scheint mir unglücklich gewählt.^[Lasch 2016, citing DWDS: Der Spiegel 23.02.1987]
-- Der Herr Assauer wirkte mir doch leicht angesäuselt.^[~~DWDS~~: Der Tagesspiegel, 30.05.2003] \
-:::
-
-The participles that are used in these constructions are very similar to secondary predicates (see [@sec:participles-secondary-predicates]). There is a continuum of constructions between clearly embedded constructions [@next a], secondary predicate constructions [@next b,c], and clearly monoclausal constructions [@next d]. These constructions have a long history in the generative tradition under the heading of "subject raising". A major early discussion of this phenomenon can be found in Postal [-@postal1974].
-
-::: ex
-a. (Ich finde, dass …) die Pflanze aussieht, [alsob sie nicht von dir versorgt worden ist].
-b. (Ich finde, dass …) die Pflanze [wie nicht von dir versorgt] aussieht.
-c. (Ich finde, dass …) die Pflanze nicht [wie von dir versorgt] aussieht.
-d. (Ich finde, dass …) die Pflanze nicht [von dir versorgt] aussieht.
+- Sein Gesicht erschien mir vertrocknet.^[Lasch 2016, citing DWDS: Blos, Wilhelm, Denkwürdigkeiten eines Sozialdemokraten, Band 1, München: G. Birk, 1914., S. 9306]
 :::
 
 The light verb *scheinen* can also occur with an extra *zu sein* construction [@next], which is analysed here as a stack of a *sein + Partizip* Perfect (see [@sec:participles-sein-perfect]) with a *scheinen + zu-Infinitiv* construction (see [@sec:zuinfinitive-scheinen]). The two examples in [@next b,c] are thus two different constructions, though the semantic difference needs a deeper investigation. 
@@ -1568,9 +1574,49 @@ c. Der Gast scheint abgereist zu sein.
 
 The following attested verbs are only illustrative examples taken from the data analysed by Lasch (2016).^[Data accessed on 24 May 2012, available online at <https://goo.gl/xUng8v> for *aussehen*, <https://goo.gl/Xj7EW6> for *erscheinen*, <https://goo.gl/5YvKiw> for *scheinen* and <https://goo.gl/yCai8B> for *wirken*.] There are many more verbs possible in these constructions, but these lists present a good sample of the kind of verbs that are actually attested.
 
-- *aussehen* : *absperren, abtragen, angreifen, anregen, anstrengen, ausschlagen, ausstopfen, begehen, bekümmern, beschädigen, besetzen, drucken, durchleiden, einengen, einrichten, entäuschen, entzücken, erhitzen, erschöpfen, handhaben, herstellen, improvisieren, knicken, marmorieren, miederschlagen, missgestalten, mitnehmen, möblieren, nähren, narkotisieren, pflegen, stechen, überwachen, verändern, verarbeiten, verbrennen, verjüngen, verlieren, vernichten, verschmutzen, verstören, verwüsten, vollenden, zerkratzen, zerquälen, zerrupfen, zerstreuen, zerzausen, zwingen*
-- *erscheinen* : *abschließen, anpassen, anzeigen, aufhängen, ausschalten, ausschließen, bedrohen, begrenzen, belasten, beziehen, binden, färben, geben, gefährden, kompromittieren, machen, rechtfertigen, sichern, verändern, verbinden*
 - *scheinen* : *abschließen, andeuten, anordnen, aufführen, aufgeben, aufheben, auflösen, aufrufen, aufzeichnen, ausschalten, ausschließen, beabsichtigen, beenden, begeistern, begründen, beseitigen, bestehlen, bestimmen, betreffen, einbetten, entfernen, entleihen, entscheiden, enttäuschen, erfinden, erledigen, erlöschen, erreichen, erschöpfen, falsifizieren, fassen, gebieten, hüllen, klären, lösen, machen, niederdrücken, retten, schließen, sichern, stützen, treffen, treiben, überfordern, überstehen, überwinden, überzeugen, umwittern, verbinden, verbreiten, verlieren, verstören, verwirklichen, vorzeichnen, wagen, wählen, würdigen, ziehen*
+- *erscheinen* : *abschließen, anpassen, anzeigen, aufhängen, ausschalten, ausschließen, bedrohen, begrenzen, belasten, beziehen, binden, färben, geben, gefährden, kompromittieren, machen, rechtfertigen, sichern, verändern, verbinden*
+
+### [ NA | –N ] *aussehen/wirken + Partizip* Anticausative (*Sinnesantikausativ*) {#sec:participles-wirken-anticausative}
+
+The verbs *aussehen* and *wirken* (both meaning 'to appear, to look') can be used with participles in monoclausal constructions. With intransitive verbs these light verbs do not induce any diathesis (see [@sec:participles-wirken-intransitive]). In contrast, with transitive verbs like *quälen* 'to agonise' [@next a] or *verändern* 'to change' [@next b] these constructions result in an anticausative diathesis. 
+
+::: ex
+- Die Erinnerung quält ihn. \
+  Er wirkt gequält.
+- Die Renovierung verändert den Bahnhof. \
+  Der Bahnhof sieht verändert aus.
+:::
+
+The retention of the agent using a *von* phrase appears to be possible, though examples are rare [@next]. Note that examples with *wie von* phrases have to be discarded, as such phrases do not instantiate an agent. It seems like the retention of an agent is more acceptable with verbs describing a mental state, like *quälen* [@last a], in contrast to verbs that describe a change of state, like *verändern* [@last b]. Because of the very rare attestation of such agents I consider these diatheses to be anticausatives, and not passives.
+
+::: ex
+- […] deren Zweige übrigens schon von der Sonnenhitze schnell verdorrt aussahen.^[~~DWDS~~: Keil, Ernst (Hrsg.): Die Gartenlaube. Jg. 2 (1854).]
+- Auch bei der Messe in Györ […] wirkte der Papst […] von Strapazen gezeichnet.^[Lasch 2016, citing DWDS: Archiv der Gegenwart, 2001]
+:::
+
+These constructions are attested with an additional experiencer dative, but this is very rare [@next]. With *aussehen* [@next a] it is only very rarely attested in older examples and with *wirken* it seems to be more common to use an *auf* prepositional phrase instead of a dative [@next b].
+
+::: ex
+- […] der alte Kriegsheld sieht mir sehr determinirt aus […].^[~~DWDS~~: Wallenrodt, Johanna Isabella Eleonore von: Fritz, der Mann wie er nicht seyn sollte oder die Folgen einer übeln Erziehung. Bd. 2. Gera, 1800.]
+- Der Herr Assauer wirkte mir doch leicht angesäuselt.^[~~DWDS~~: Der Tagesspiegel, 30.05.2003] \
+  Der Herr Assauer wirkte auf mich doch leicht angesäuselt.
+:::
+
+The participles that are used in these constructions are very similar to secondary predicates (see [@sec:participles-secondary-predicates]). There is a continuum of constructions between clearly embedded constructions [@next a], secondary predicate constructions [@next b,c], and clearly monoclausal constructions [@next d]. These constructions have a long history in the generative tradition under the heading of "subject raising". A major early discussion of this phenomenon can be found in Postal [-@postal1974].
+
+::: ex
+a. Ich finde, dass die Pflanze aussieht, [alsob sie nicht von dir versorgt worden ist].
+b. Ich finde, dass die Pflanze [wie nicht von dir versorgt] aussieht.
+c. Ich finde, dass die Pflanze nicht [wie von dir versorgt] aussieht.
+d. Ich finde, dass die Pflanze nicht [von dir versorgt] aussieht.
+:::
+
+**Attested Verbs**
+
+The following attested verbs are only illustrative examples taken from the data analysed by Lasch (2016).^[Data accessed on 24 May 2012, available online at <https://goo.gl/xUng8v> for *aussehen*, <https://goo.gl/Xj7EW6> for *erscheinen*, <https://goo.gl/5YvKiw> for *scheinen* and <https://goo.gl/yCai8B> for *wirken*.] There are many more verbs possible in these constructions, but these lists present a good sample of the kind of verbs that are actually attested.
+
+- *aussehen* : *absperren, abtragen, angreifen, anregen, anstrengen, ausschlagen, ausstopfen, begehen, bekümmern, beschädigen, besetzen, drucken, durchleiden, einengen, einrichten, entäuschen, entzücken, erhitzen, erschöpfen, handhaben, herstellen, improvisieren, knicken, marmorieren, miederschlagen, missgestalten, mitnehmen, möblieren, nähren, narkotisieren, pflegen, stechen, überwachen, verändern, verarbeiten, verbrennen, verjüngen, verlieren, vernichten, verschmutzen, verstören, verwüsten, vollenden, zerkratzen, zerquälen, zerrupfen, zerstreuen, zerzausen, zwingen*
 - *wirken* : *ankleben, ankreiden, anspannen, aufmalen, auszeichnen, blockieren, darstellen, deplatzieren, deprimieren, entkrampfen, erleichtern, ermatten, hacken, kalkulieren, konstruieren, machen, pflegen, planen, quälen, rupfen, schreiben, stressen, überladen, übertreiben, verändern, verbergen, verfehlen, verkümmern, verlieren, verschließen, verstören, verzerren, zeichnen, zerfetzen, zersplittern, zurechstützen, zusammenhauen, zusammensuchen*
 
 ### [ NA | –N ] *geben/zeigen + Partizip* Reflexive anticausative (*Präsentativantikausativ*) {#sec:participles-geben-reflexive-anticausative}
@@ -1624,6 +1670,34 @@ b. Die Worte stehen auf der Titelseite geschrieben.
 
 - Vielleicht auch, weil er weiß, dass die Truppen hinter ihm nicht geschlossen stehen.^[~~DWDS~~: Berliner Zeitung, 12.10.2004.]
 - Wenn die SPD nicht geschlossen stehe, werde es schwierig, den Wahlkampf durchzustehen.^[~~DWDS~~: Die Zeit, 29.09.2012, Nr. 40.]
+
+### [ NA | –N ] *gehen + Partizip* Anticausative
+
+The construction *gehen + Partizip* appears to be only possible in very few examples, like with *verlieren* 'to lose' [@next]. The retention of the agent as a dative is sometimes possible, but seems to be rather old-fashioned [@next b].
+
+::: ex
+a. Ich verliere den Ring.
+b. Der Ring geht (mir) verloren.
+:::
+
+The verb *gehen* is attested with various other participles, but these are different constructions. First, the construction [@next a] is an fixed construction **es geht* with a dative experiencer and an adverb describing a personal feeling. This adverb can sometimes look like a participle, like *ausgezeichnet* 'fine' or *beschissen* 'crappy', but these are idiomatic and their meaning is only metaphorically related to their finite verbs, e.g. *auszeichnen* 'to stand out' and *bescheißen* 'to screw somebody'. Second, the construction in [@next b] has a participle as a secondary predicate. In this sentence the verb *gehen* is the independent verb meaning 'to walk'.
+
+::: ex
+a. Mir geht es ausgezeichnet/gut.
+b. Er geht gebückt.
+:::
+
+**Attested Verbs**
+
+- *gewinnen, vergessen, verlieren*
+
+**Examples**
+
+- Und mit ein wenig Glück hätte das Spiel auch gewonnen gehen können.^[~~DWDS~~: Die Zeit, 16.11.2013, Nr. 47.]
+- "Natürlich denke ich darüber nach, weshalb ich das tue", sagt sie jetzt, den Blick auf die Straße gerichtet, "wie viel Lebensqualität mir verloren geht, was das überhaupt bringt."^[~~DWDS~~: Die Zeit, 09.07.2017, Nr. 28.]
+- "Sehen Sie," rief der Prinz mit Verdrusse, wie Sie sich von der Oberfläche hintergehen lassen, und wie leicht Sie mir gewonnen gehen!^[~~DWDS~~: Schiller, Friedrich: Der Geisterseher. Leipzig, 1789.]
+- Moderne Stiftungen […] bringen Themen aufs Tapet, die sonst vergessen gehen.^[~~DWDS~~: Die Zeit, 30.04.2014, Nr. 19.]
+
 
 ### --- [ OBJ > SBJ > ADJ ] --- *Passiv* {.unnumbered}
 
@@ -2364,25 +2438,6 @@ A similar, but more widespread diathesis is the *haben + am + Infinitiv* constru
   Er hatte Haare im Auge eingewachsen.
 - Wenn Sie bemerken, dass Sie Ihr Bein oder sogar zwei Beine geschwollen haben, dann die Frage: "Was tun?".^[Attested online at <https://clione.ru/de/treatment/treatment-has-swelled-up-the-leg-what-to-do-if-swelling-and-redness-of-the-feet>, accessed 13 Mai 2017.]
 - Wenn Sie Ihre Lippen geschwollen haben, müssen Sie behandelt werden.^[Attested online at <https://de.iliveok.com/health/warum-ist-die-lippe-geschwollen_106329i16005.html>, accessed 16 July 2021.]
-
-### [ NA | DN ] *gehen + Partizip* Inversive
-
-The construction *gehen + Partizip* appears to be only possible with *verlieren* and *gewinnen*. The possibility to retain the agent as a dative seems to be rather old-fashioned.
-
-::: ex
-a. Ich verliere den Ring.
-b. Der Ring geht mir verloren.
-:::
-
-**Attested Verbs**
-
-- *gewinnen, verlieren*
-
-**Examples**
-
-- Und mit ein wenig Glück hätte das Spiel auch gewonnen gehen können.^[~~DWDS~~: Die Zeit, 16.11.2013, Nr. 47.]
-- "Natürlich denke ich darüber nach, weshalb ich das tue", sagt sie jetzt, den Blick auf die Straße gerichtet, "wie viel Lebensqualität mir verloren geht, was das überhaupt bringt."^[~~DWDS~~: Die Zeit, 09.07.2017, Nr. 28.]
-- "Sehen Sie," rief der Prinz mit Verdrusse, wie Sie sich von der Oberfläche hintergehen lassen, und wie leicht Sie mir gewonnen gehen!^[~~DWDS~~: Schiller, Friedrich: Der Geisterseher. Leipzig, 1789.]
 
 ### --- [ Ø > SBJ > Ø ] --- {.unnumbered}
 

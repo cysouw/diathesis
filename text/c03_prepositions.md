@@ -1152,7 +1152,7 @@ Accusative objects that alternate with a *nach* prepositional phrase indicate an
 - Ich suche den Ring. Ich suche nach dem Ring.
 - Ich trete den Ball. Ich trete nach dem Ball.
 - Ich rufe dich. Ich rufe nach dir.
-- er fühlt seine Brieftasche. Er fühlt nach seiner Brieftasche.
+- Er fühlt seine Brieftasche. Er fühlt nach seiner Brieftasche.
 
 #### *von* Antipassive
 
@@ -1161,8 +1161,8 @@ Accusative objects that alternate with an *von* prepositional phrase occur typic
 ::: ex
 a. Ich esse einen Apfel. Ich esse von dem Apfel.
 b. Ich stehle die Blumen. Ich stehle von den Blumen.
-c. Ich weiß deine Telefonnummer. Ich weiß von dem Schmuck.
-d. Ich höre den Kampf in der Ferne. Ich höre von dem Kampf.
+c. Ich weiß deine Telefonnummer. Ich weiß von dem Schmuck, der gestohlen wurde.
+d. Ich höre den Kampf in der Ferne. Ich höre von dem Kampf in den Nachrichten.
 :::
 
 **Attested Verbs**

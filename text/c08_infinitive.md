@@ -224,11 +224,11 @@ Not attested.
 
 ## Alternations without diathesis
 
-### --- Aspectual meaning  --- {.unnumbered}
+### --- Aspect  --- {.unnumbered}
 
-### *tun + Infinitiv* Progressive {#sec:infinitive-tun}
+### *tun + Infinitiv* Verbfocus {#sec:infinitive-tun}
 
-The *tun + Infinitiv* construction [@schwarz2004] is considered substandard and frowned upon in written German [@next a]. However, it is widespread in German dialects and also frequent in the spoken standard language, expressing a progressive aspect. The acceptability is strongly improved for many German speakers with fronting of the infinitive [@next b], putting focus on the verb meaning and losing the progressive aspect [@schwarz2004: 15-18]. This second usage is more akin to English *do*-support than to a progressive aspect. There do not appear to be any restrictions as to which verbs can occur in this construction.
+The *tun + Infinitiv* construction [@schwarz2004] is considered substandard and frowned upon in written German [@next a]. However, it is widespread in German dialects and also frequent in the spoken standard language [@erb2001: Ch. 5]. The acceptability is strongly improved for many German speakers with fronting of the infinitive [@next b], putting focus on the verb meaning and losing any aspectual implication [@schwarz2004: 15-18]. This second usage is more akin to English *do*-support than to a progressive aspect.
 
 ::: ex
 - ^^?^ Ich tu dir das Buch schenken.
@@ -337,7 +337,7 @@ A special construction using *haben* with infinitive describes a situation in wh
 - Der Herr Baron hat leicht trösten; ich bin und bleib' unglücklich, wenn ich meinen Casperl nimmer sieh.^[~~DWDS~~: Pocci, Franz von: Lustiges Komödienbüchlein. Bd. 4. München, 1871.]
 - Wer aber geliebt ist, hat leicht regieren.^[~~DWDS~~: Eckermann, Johann Peter: Gespräche mit Goethe in den letzten Jahren seines Lebens. Bd. 3. Leipzig, 1848.]
 
-### --- Modal meaning --- {.unnumbered}
+### --- Mood --- {.unnumbered}
 
 The traditional modal verbs *dürfen/können/mögen/müssen/sollen/wollen* and the modal-like light verbs *werden* and *brauchen* can all be used in constructions with infinitives. There do not seem to be any restrictions on which verbs can occur as infinitives in such constructions.
 
@@ -394,7 +394,7 @@ The verb *brauchen* 'to need' is typically used with *zu-Infinitiv* with some ki
 - Du hättest doch nur noch unterschreiben brauchen!
 :::
 
-### --- Others --- {.unnumbered}
+### --- Other --- {.unnumbered}
 
 ### *lernen + Infinitiv* {#sec:infinitive-lernen}
 

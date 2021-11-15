@@ -13,9 +13,9 @@ The *zu-Infinitiv* can be combined with various light verbs to form monoclausal 
 - Ein weiterer Beschäftigungsabbau steht zu befürchten.
 :::
 
-Following Bech [-@bech1955], construction with a *zu-Infinitiv* are often designated as *Zweiter Status* in the German grammatical literature. However, this name is not very transparent nor particularly mnemonic, so I prefer to simply use the term *zu*-~~Infinitiv~~ construction.
+Following Bech [-@bech1955], construction with a *zu-Infinitiv* are often designated as *Zweiter Status* in the German grammatical literature. However, this name is not very transparent nor particularly mnemonic, so I prefer to simply use the term *zu*-~~Infinitiv~~ construction. One of the central issues with sentences that include a *zu-Infinitive* is the question whether such sentences are biclausal or monoclausal. There is actually a grammaticalisation cline with (non-coherent) biclausal structures on the one side and (coherent) monoclausal structures on the other side (see [@sec:zuinfinitive-grammaticalisation]). 
 
-One of the central issues with sentences that include a *zu-Infinitive* is whether such sentences are biclausal or monoclausal. There is actually a grammaticalisation cline with (non-coherent) biclausal structures on the one side and (coherent) monoclausal structures on the other side (see [@sec:zuinfinitive-grammaticalisation]). A major aim of this chapter is to list and discuss all grammaticalised coherent monoclausal *zu-Infinitive* construction of the German language, all diatheses as well as all epitheses.
+The major aim of this chapter is to list and discuss all grammaticalised coherent monoclausal *zu-Infinitive* construction of the German language, all diatheses as well as all epitheses. There is a strong tendency for the monoclausal *zu-Infinitiv* constructions to express some kind of imperfective aspect, as opposed to participle constructions (Chapter [-@sec:participle]) that tend to express perfective meanings. 
 
 The following eight diatheses with a *zu-Infinitiv* are attested regularly in German, so I propose a German name for them. Note that the light verbs *sein* and *geben* are both used in two different diatheses. The two *geben* diatheses are remarkably different, both structurally and semantically.
 
@@ -118,13 +118,13 @@ This is not attested. Note that theoretically such verbs might occur in German, 
 
 ## Alternations without diathesis {#sec:zuinfinitive-epitheses}
 
-### --- Aspectual meaning --- {.unnumbered}
+### --- Aspect --- {.unnumbered}
 
 ### *pflegen + zu-Infinitiv* Habitual {#sec:zuinfinitive-pflegen}
 
 The lexical verb *pflegen* means 'to nurse, to maintain'. However, in combination with a *zu-Infinitiv* the verb *pflegen* is one of the clearest examples of a construction that is always coherent, while at the same time it has a completely different meaning. The *pflegen + zu-Infinitiv* expresses a habitual aspect, meaning approximately something like 'to usually do something' [@next a,b]. Examples proving coherence are shown in [@next c,d]. 
 
-Colomo [-@colomo2010: 246-256] argues that the real semantic content of *pflegen + zu-Infinitiv* is not the habitual aspect, but that it is more closely related to modal meanings of other *zu-Infinitiv* constructions. However, that analysis needs a lot of semantic trickery, and I do not see what is gained from it. I propose to simply consider the *pflegen + zu-Infinitiv* a ~~habitual~~ in German.
+Colomo [-@colomo2010: 246-256] argues that the real semantic content of *pflegen + zu-Infinitiv* is not the habitual aspect, but that it is more closely related to modal meanings of other *zu-Infinitiv* constructions. However, that analysis needs a lot of semantic trickery, and I do not see what is gained from it. I propose to simply consider the *pflegen + zu-Infinitiv* a ~~Habituativ~~ in German.
 
 ::: ex
 - Sie lacht laut.
@@ -145,7 +145,7 @@ There is an old tradition in Latin grammar to describe one of the possible meani
 - ^* … ein Ereignis, … das sie erfolglos gesucht hatte zu verhindern.
 :::
 
-### --- Modal meaning --- {.unnumbered}
+### --- Mood --- {.unnumbered}
 
 ### *wissen/verstehen + zu-Infinitiv* Ability (*Abilitiv*)^[Note that Englisch *ability* comes from Latin *habilitas*, so a German name like ~~habilitiv~~ would probably be more precise. However, I prefer ~~abilitiv~~ because it is easier to understand due to the similarity to English. One can also invoke Medieval Latin *abilitas* as its origin, likewise with a dropped <h>.] {#sec:zuinfinitive-wissen}
 
@@ -224,11 +224,11 @@ The construction *gehören + zu-Infinitiv* expressed an obligation [@next]. It c
 Den Kauffleuthen vnd Bawren gehört zu trawen vnd glauben zu halten mit dem grossen hauffen.^[~~DWDS~~: Wander, Karl Friedrich Wilhelm (Hrsg.): Deutsches Sprichwörter-Lexikon. Bd. 2. Leipzig, 1870.]
 :::
 
-### --- Evidential meaning --- {.unnumbered}
+### --- Evidentiality --- {.unnumbered}
 
-### *scheinen + zu-Infinitiv* Indirect evidence {#sec:zuinfinitive-scheinen}
+### *scheinen + zu-Infinitiv* Indirect evidence (*Imperfektinferenz*) {#sec:zuinfinitive-scheinen}
 
-The coherent construction *scheinen + zu-Infinitiv* [@next] is similar to the English *seem + infinitive* construction and there has been a long tradition of applying an analysis of subject raising to this construction in German [see @olsen1981: 134-146 for a summary and refutation]. At least since Olsen the raising analysis is not used anymore [see also @pafel1989; @diewald2010: 177-191 for other analyses]. Diewald & Smirnova [-@diewald2010: 182] analyse *scheinen + zu-Infinitiv* as an inferential evidential in which the speaker expresses some confidence in the claimed state-of-affairs, mostly without definitive knowledge. So, this construction is an ~~indirect evidential~~. A special characteristic of this construction is that an additional dative experiencer can sometimes be added [@nnext].
+The coherent construction *scheinen + zu-Infinitiv* [@next] is similar to the English *seem + infinitive* construction. Because of this similarity, there has been a long tradition of applying a subject raising analysis to this construction in German [see @olsen1981: 134-146 for a summary and refutation]. However, the raising analysis is not used anymore, at least since Olsen [see also @pafel1989; @diewald2010: 177-191 for later analyses]. Diewald & Smirnova [-@diewald2010: 182] analyse *scheinen + zu-Infinitiv* as an inferential evidential in which the speaker expresses some confidence in the claimed event based on deduction from available knowledge. So, this construction is an inferential evidential. As a German name I propose ~~Imperfektinferenz~~ in opposition to the *Perfektinferenz* when used with a participle (see [@sec:participles-scheinen-intransitive]).
 
 ::: ex
 - Er scheint ihm ein Buch zu geben.
@@ -236,31 +236,32 @@ The coherent construction *scheinen + zu-Infinitiv* [@next] is similar to the En
 - ^* Ich habe gesehen, wie er scheint ihm ein Buch zu geben.
 :::
 
+A special characteristic of this construction is that an additional dative experiencer can sometimes be added [@next a]. Very sparingly *erscheinen* instead of *scheinen* is used with a *zu-Infinitive* [@next b]. The light verb *erscheinen* is much more commonly attested with a participle (see [@sec:participles-scheinen-intransitive]).
+
 ::: ex
-- Das Kind schläft.
-- Das Kind scheint zu schlafen.
 - Das Kind scheint mir zu schlafen.
+- Viele von ihnen hatten während des Vorwahlkampfs Hillary Clinton unterstützt, weil ihnen die Vorstellung eines schwarzen Präsidenten einfach zu kühn, zu vermessen erschien.^[~~DWDS~~: Die Zeit, 06.11.2008, Nr. 46.]
 :::
 
-### *drohen/versprechen + zu-Infinitiv* Direct evidence {#sec:zuinfinitive-drohen}
+### *drohen/versprechen + zu-Infinitiv* Direct evidence (*Wertungsevidenz*) {#sec:zuinfinitive-drohen}
 
-A detailed discussion of *drohen* and *versprechen* is presented by Diewald & Smirnova [-@diewald2010: 191-217]. Basically, when used with a *zu-Infinitiv*, both verbs have a speech-act usage [@next], meaning 'to threaten' and 'to promise', respectively, as well as a grammaticalised light-verb usage with an evidential meaning [@nnext]. There is a very strong tendency that the speech-act uses are non-coherent, while evidential uses are coherent [@reis2005: 136-140].
+A detailed discussion of *drohen* and *versprechen* is presented by Diewald & Smirnova [-@diewald2010: 191-217]. Basically, when used with a *zu-Infinitiv*, both verbs can either have a speech-act usage [@next], meaning 'to threaten' and 'to promise', respectively, or they can have a grammaticalised light-verb usage with an evidential meaning [@nnext]. There is a very strong tendency that the speech-act usage is syntactically non-coherent, while evidential usage is coherent [@reis2005: 136-140].
 
 ::: ex
-Speech-act usage
+Speech-act usage (non-coherent)
 
 - Er hatte dem Konzern gedroht, Lebensmittel zu vergiften.^[~~DWDS~~: Die Zeit, 14.10.2015 (online).]
 - Er hat versprochen, Marihuana zu legalisieren.^[~~DWDS~~: Die Zeit, 05.05.2016 (online).]
 :::
 
 ::: ex
-Evidential usage
+Evidential usage (coherent)
 
 - Das führt zu einem Problem, das Johanna Knüppel in den Wahnsinn zu treiben droht.^[~~DWDS~~: Die Zeit, 08.12.2017, Nr. 51.]
 - Die Pfänder hinter den Papieren waren Immobilien, deren Wert ständig weiter zu steigen versprach.^[~~DWDS~~: Die Zeit, 15.08.2017 (online).]
 :::
 
-Diewald & Smirnova [-@diewald2010: 191-217] analyse the coherent light-verb usage of *drohen* and *versprechen* as marking a ~~direct evidential~~, i.e. the speaker of the utterance has direct perceptual evidence for the proposition [@next]. There are various differences between *drohen* and *versprechen*. First, drohen is very frequent in its evidential coherent reading (80%), while versprechen (10%) is not [@diewald2010: 214]. Second, *drohen* can be used with animate/human subjects, while *versprechen* is restricted to inanimate subjects. Third, *drohen* implies a negative evaluation from the speaker's point of view, while *versprechen* implies a positive evaluation. Finally, *drohen* does not have strong restrictions as to which verbs can be used as infinitive. The verbs are typically non-agentive but possibly intentional [@diewald2010: 197-199]. In contrast, *versprechen* only allows for a restricted set of verbs that do not express agency [@diewald2010: 212].
+Diewald & Smirnova [-@diewald2010: 191-217] analyse the coherent light-verb usage of *drohen* and *versprechen* as marking a direct evidential, i.e. the speaker of the utterance has first-hand evidence for the proposition [@next]. There are various differences between *drohen* and *versprechen*. First, drohen is very frequent in its evidential coherent reading (80%), while versprechen (10%) is not [@diewald2010: 214]. Second, *drohen* can be used with animate/human subjects, while *versprechen* is restricted to inanimate subjects. Third, *drohen* does not have strong restrictions as to which verbs can be used as infinitive. The verbs are typically non-agentive but possibly intentional [@diewald2010: 197-199]. In contrast, *versprechen* only allows for a restricted set of verbs that do not express agency [@diewald2010: 212]. Finally, *drohen* implies a negative evaluation from the speaker's point of view, while *versprechen* implies a positive evaluation. Because of this evaluation I propose to use the German name ~~Wertungsevidenz~~ for this construction.
 
 ::: ex
 Evidential interpretation of light-verb usage
@@ -274,7 +275,7 @@ Evidential interpretation of light-verb usage
 - *drohen*: there are no strict restrictions, though agentive verbs are atypical.
 - *versprechen*: not with agentive verbs, most frequently used with *werden, enthalten, weichen, bieten*.
 
-### --- Covert causatives --- {.unnumbered}
+### --- Other --- {.unnumbered}
 
 ### *kommen + zu-Infinitiv* Covertly caused state {#sec:zuinfinitive-kommen}
 
