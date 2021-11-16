@@ -87,9 +87,7 @@ b. Er hat viele Träume geträumt.
 
 This construction is known as a 'cognate object' construction [e.g. @levin1993: 95-96], because the object is etymologically related to the verb. In many cases, this cognate object is simply a zero nominalisation ('conversion') of the verb stem (e.g. *schlafen - der Schlaf*, 'to sleep - the sleep'), but in some cases different nominalisations like the infinitive are used (e.g. *lächeln - das Lächeln*, 'to smile - the smile').
 
-Examples like [@last a,b] seem to suggest that intransitive verbs like *schlafen* 'to sleep' and *träumen* 'to dream' allow for accusative arguments. However, besides these cognate objects there are no other accusative arguments allowed with these verbs. Further, such cognate arguments seem to be theoretically possible for all verbs, though often quite some imagination is needed to find a suitable context to use verb and nominalised verb together.
-
-Because of their special status, such cognate object nominalisations are not counted as regular arguments. However, nominalisations are an interesting aspect of diathesis in itself and will be discussed extensively in Chapter [-@sec:nom].
+Examples like [@last a,b] seem to suggest that intransitive verbs like *schlafen* 'to sleep' and *träumen* 'to dream' allow for accusative arguments. However, besides these cognate objects there are no other accusative arguments allowed with these verbs. Further, such cognate arguments seem to be theoretically possible for all verbs, though often quite some imagination is needed to find a suitable context to use verb and nominalised verb together. Because of their special status, such cognate object nominalisations are not counted as regular arguments.
 
 ### Lexicalised noun-verb combinations
 

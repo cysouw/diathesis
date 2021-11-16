@@ -17,9 +17,6 @@ input-files:
 - text/c08_infinitive.md
 - text/c09_zuInfinitive.md
 - text/c10_zumInfinitive.md
-- text/c11_adjectives.md
-- text/c12_nouns.md
-- text/c13_subordination.md
 
 filters:
 - filters/setdate.lua

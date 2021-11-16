@@ -24,7 +24,7 @@ There are ten local groups of diatheses that seem prominent enough to be given a
 - ~~[ADJ › OBJ] Präverb Applikativ~~ (see [@sec:preverb-applicative])
 - ~~[ADJ › OBJ] Präverb Dativ Applikativ~~ (see [@sec:preverb-dative-applicative])
 - ~~[ADJ › OBJ › ADJ] Präverb Vollapplikativ~~ (see [@sec:preverb-applicative-antipassive])
-- ~~[PBJ › Ø] Präverb Antilokativ~~ (see [@sec:preverb-intransitive-antiresultative] ff.)
+- ~~[PBJ › Ø] Präverb Delokativ~~ (see [@sec:preverb-intransitive-antiresultative] ff.)
 - ~~[PBJ › OBJ › Ø] Präverb Antiresultativ~~ (see [@sec:preverb-location-antiresultative] ff.)
 - ~~[OBJ › ADJ] Präverb Dativ Antipassiv~~ (see [@sec:preverb-dative-antipassive])
 
@@ -970,9 +970,9 @@ b. Ich beschenke dich mit einem Buch.
 - Ich liefere dem Bäcker das Mehl. Ich beliefere den Bäcker mit dem Mehl.
 - Ich singe dir ein Lied. Ich besinge dich mit einem Lied.
 
-### --- [ PBJ > Ø ] --- *Präverb Antilokativ* {.unnumbered}
+### --- [ PBJ > Ø ] --- *Präverb Delokativ* {.unnumbered}
 
-### [ NL | N– ] Preverb intransitive antilocative {#sec:preverb-intransitive-antiresultative}
+### [ NL | N– ] Preverb intransitive delocative {#sec:preverb-intransitive-antiresultative}
 
 The unprefixed *steigen* necessarily needs a location describing the endpoint (result) of the action [@next a]. This location cannot be left out [@next b] and the participle cannot be used adnominally without the location [@next c,d]. In contrast, with the prefixed *aussteigen* both options are possible [@nnext].
 
@@ -1018,7 +1018,7 @@ d. Der ausgestiegene Mann rutscht aus.
 - Der Junge reist nach Japan. Der Junge verreist. \
   Der verreiste/?gereiste Junge.
 
-### [ NL | N– ] Preverb reflexive intransitive antilocative {#sec:preverb-reflexive-intransitive-antiresultative}
+### [ NL | N– ] Preverb reflexive intransitive delocative {#sec:preverb-reflexive-intransitive-antiresultative}
 
 This diathesis is similar to the previous diathesis (see [@sec:preverb-intransitive-antiresultative]) with the additional characteristics that the prefixed verbs like *verlaufen* 'to get lost' also needs a reflexive pronoun [@nnext].
 
@@ -1050,7 +1050,7 @@ d. Der verlaufene hund hat hunger.
 - Ich spekuliere auf einen Gewinn. Ich verspekuliere mich.
 - Er hängt an den Balken. Er erhängt sich (an den Balken).
 
-### [ NAL | NA– ] Preverb transitive antilocative {#sec:preverb-transitive-antiresultative}
+### [ NAL | NA– ] Preverb transitive delocative {#sec:preverb-transitive-antiresultative}
 
 Verbs of caused location (see [@sec:prepositions-haben-caused-location]) like *stecken* 'to put into' [@next a] cannot be used without the locative preposition [@next b]. In contrast, with the prefix *ver-* the verb *verstecken* 'to hide' can be used both with and without the location [@next c,d].
 

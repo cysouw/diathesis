@@ -38,7 +38,7 @@ There are six diatheses that seem prominent enough to be given a German name. I 
 - ~~[SBJ › Ø] Wertungsverbativ~~ (see [@sec:adverbial-reflexive-drop])
 - ~~[OBJ › SBJ › Ø] Wertungsantikausativ~~ (see [@sec:adverbial-reflexive-transitive-anticausative] ff.)
 - ~~[PBJ › Ø] Aktionsfokus~~ (see [@sec:adverbial-action-focus])
-- ~~[PBJ › ADJ] Adverb Antilokativ~~ (see [@sec:adverbs-antiresultative] ff.)
+- ~~[PBJ › ADJ] Adverb Delokativ~~ (see [@sec:adverbs-antiresultative] ff.)
 - ~~[ADJ › OBJ] Adverb Applikativ~~ (see [@sec:adverbials-applicative] ff.)
 - ~~[ADJ › OBJ › ADJ] Adverb Vollapplikativ~~ (see [@sec:adverbial-full-applicative])
 
@@ -584,7 +584,7 @@ d. Ich meine es.
 - Ich meine dich. Ich meine es ernst.
 - Wir haben viel Geld. Wir haben es gut.
 
-### --- [ PBJ > ADJ ] --- *Adverb Antilokativ* {.unnumbered}
+### --- [ PBJ > ADJ ] --- *Adverb Delokativ* {.unnumbered}
 
 ### [ NAL | NAp ] Transitive location drop + resultative adverbial {#sec:adverbs-antiresultative}
 

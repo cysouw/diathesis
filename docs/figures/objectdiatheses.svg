@@ -6,23 +6,20 @@
 <path transform="matrix(1,0,0,-1,0,200)" d="M 0 0 L 380 0 L 380 200 L 0 200 Z "/>
 </clipPath>
 <g clip-path="url(#cp0)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 0 200 L 380 200 L 380 0 L 0 0 Z " fill="#ffffff"/>
-<g id="Layer-1" data-name="P">
-<g id="Layer-2" data-name="P">
-<g id="Layer-3" data-name="P">
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 0 0 L 380 0 L 380 200 L 0 200 Z " fill="#ffffff"/>
 </g>
 <clipPath id="cp1">
 <path transform="matrix(1,0,0,-1,0,200)" d="M 218.5 5 L 362.1845 5 L 362.1845 80.5 L 362.6845 80.5 L 362.6845 157.5 L 362.1845 195 L 2 195 L 2 157 L 2 81 L 2 5 L 73.5 5 L 218.5 4.5 Z M 218.5 5 "/>
 </clipPath>
 <g clip-path="url(#cp1)">
 <clipPath id="cp2">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 0 0 L 380 0 L 380 200 L 0 200 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 74 169 L 146 169 L 146 195 L 74 195 Z "/>
 </clipPath>
 <g clip-path="url(#cp2)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 2 195 L 74 195 L 74 169 L 2 169 Z " fill="#7ef84b" fill-opacity="0"/>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 76 169 L 144 169 L 144 192 L 76 192 Z " fill-opacity="0"/>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 93 16)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 4.716 9.252001 11.502001 17.316002 21.429 24.876002 28.944003 33.498">To Cased </tspan></text>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 93 16)" font-size="9" font-family="LucidaGrande"><tspan y="0" x="35.748">&#x2028;</tspan></text>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 98 26)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 6.3180005 10.755001 13.203001 17.289002 21.096">Object</tspan></text>
 </g>
 </g>
 <clipPath id="cp3">
@@ -30,16 +27,12 @@
 </clipPath>
 <g clip-path="url(#cp3)">
 <clipPath id="cp4">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 74 169 L 146 169 L 146 195 L 74 195 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 146 169 L 218 169 L 218 195 L 146 195 Z "/>
 </clipPath>
 <g clip-path="url(#cp4)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 76 192 L 144 192 L 144 169 L 76 169 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 93.1655 15.7859959)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 4.806 9.342001 11.592001 17.406002 21.519001 25.029002 29.115002 33.669004 35.919004">To Cased  </tspan></text>
-<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 98.0075 25.785996)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 6.3180005 10.755001 13.203001 17.289002 21.141003">Object</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 148 169 L 216 169 L 216 192 L 148 192 Z " fill-opacity="0"/>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 158 16)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 4.716 9.252001 11.502001 17.757002 22.230004 26.631003 30.654004 34.020006 38.844007 42.912004 47.466005">To Governed </tspan></text>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 161 26)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 4.7790005 8.055001 12.078001 16.812 21.348 24.795 27.234002 30.078001 32.517004 37.053">Preposition</tspan></text>
 </g>
 </g>
 <clipPath id="cp5">
@@ -47,16 +40,13 @@
 </clipPath>
 <g clip-path="url(#cp5)">
 <clipPath id="cp6">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 146 169 L 218 169 L 218 195 L 146 195 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 218 169 L 290 169 L 290 195 L 218 195 Z "/>
 </clipPath>
 <g clip-path="url(#cp6)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 148 192 L 216 192 L 216 169 L 148 169 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 158.24 15.7859959)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 4.806 9.342001 11.592001 17.757002 22.230004 26.631003 30.654004 34.002004 38.880006 42.966005 47.520006">To Governed </tspan></text>
-<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 160.958 25.785996)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 4.869 8.145 12.168001 16.902 21.438 24.948 27.387001 30.231 32.670003 37.206">Preposition</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 220 169 L 288 169 L 288 192 L 220 192 Z " fill-opacity="0"/>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 249 16)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 4.716 9.252001">To </tspan></text>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 249 16)" font-size="9" font-family="LucidaGrande"><tspan y="0" x="11.502">&#x2028;</tspan></text>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 239 26)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 6.147001 10.701001 13.149001 17.874 22.698002 26.505002">Adjunct</tspan></text>
 </g>
 </g>
 <clipPath id="cp7">
@@ -64,16 +54,13 @@
 </clipPath>
 <g clip-path="url(#cp7)">
 <clipPath id="cp8">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 218 169 L 290 169 L 290 195 L 218 195 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 290 169 L 362.18449 169 L 362.18449 195 L 290 195 Z "/>
 </clipPath>
 <g clip-path="url(#cp8)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 220 192 L 288 192 L 288 169 L 220 169 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 249.329 15.7859959)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 4.806 9.342001 11.592001">To  </tspan></text>
-<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 239.249 25.785996)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 6.147001 10.701001 13.149001 17.928002 22.806002 26.658">Adjunct</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 292 169 L 360.18449 169 L 360.18449 192 L 292 192 Z " fill-opacity="0"/>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 321 16)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 4.716 9.252001">To </tspan></text>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 321 16)" font-size="9" font-family="LucidaGrande"><tspan y="0" x="11.502">&#x2028;</tspan></text>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 303 26)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 5.9490005 10.773001 14.733002 19.143002 23.814003 27.090003 31.113003 34.56 38.007 42.074998">Unexpressed</tspan></text>
 </g>
 </g>
 <clipPath id="cp9">
@@ -81,18 +68,11 @@
 </clipPath>
 <g clip-path="url(#cp9)">
 <clipPath id="cp10">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 290 169 L 362.18449 169 L 362.18449 195 L 290 195 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 74 157.25 L 146 157.25 L 146 169 L 74 169 Z "/>
 </clipPath>
 <g clip-path="url(#cp10)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 292 192 L 360.1845 192 L 360.1845 169 L 292 169 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 321.4212 15.7859959)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 4.806 9.342001 11.592001">To  </tspan></text>
-<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 302.6787 25.785996)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 5.9490005 10.827001 14.787001 19.197 23.868 27.144 31.167 34.677003 38.187005 42.273004">Unexpressed</tspan></text>
-</g>
-</g>
-</g>
-<g id="Layer-3" data-name="P">
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 76 157.25 L 144 157.25 L 144 166 L 76 166 Z " fill-opacity="0"/>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 96 39)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 8.13 9.63 12.552 14.052 18.264 21.792 23.424 24.924">[ &#x2026; &#x003e; OBJ ]</tspan></text>
 </g>
 </g>
 <clipPath id="cp11">
@@ -100,12 +80,11 @@
 </clipPath>
 <g clip-path="url(#cp11)">
 <clipPath id="cp12">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 0 0 L 380 0 L 380 200 L 0 200 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 146 157.25 L 218 157.25 L 218 169 L 146 169 Z "/>
 </clipPath>
 <g clip-path="url(#cp12)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 2 169 L 74 169 L 74 157 L 2 157 Z " fill="#c586c4" fill-opacity="0"/>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 148 157.25 L 216 157.25 L 216 166 L 148 166 Z " fill-opacity="0"/>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 169 39)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 8.13 9.63 12.552 14.052 17.412 20.94 22.572 24.072">[ &#x2026; &#x003e; PBJ ]</tspan></text>
 </g>
 </g>
 <clipPath id="cp13">
@@ -113,15 +92,11 @@
 </clipPath>
 <g clip-path="url(#cp13)">
 <clipPath id="cp14">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 74 157.25 L 146 157.25 L 146 169 L 74 169 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 218 157.5 L 290 157.5 L 290 169 L 218 169 Z "/>
 </clipPath>
 <g clip-path="url(#cp14)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 76 166 L 144 166 L 144 157.25 L 76 157.25 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 96.131 38.524003)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 8.13 9.63 12.93 14.43 18.642 22.17 24.102002 25.602002">[ &#x2026; &#x003e; OBJ ]</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 220 157.5 L 288 157.5 L 288 166 L 220 166 Z " fill-opacity="0"/>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 240 39)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 8.13 9.63 12.552 14.052 18.222 22.428002 24.060002 25.560002">[ &#x2026; &#x003e; ADJ ]</tspan></text>
 </g>
 </g>
 <clipPath id="cp15">
@@ -129,15 +104,11 @@
 </clipPath>
 <g clip-path="url(#cp15)">
 <clipPath id="cp16">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 146 157.25 L 218 157.25 L 218 169 L 146 169 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 290 157.5 L 362.18449 157.5 L 362.18449 169 L 290 169 Z "/>
 </clipPath>
 <g clip-path="url(#cp16)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 148 166 L 216 166 L 216 157.25 L 148 157.25 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 168.614 38.524003)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 8.13 9.63 12.93 14.43 17.676 21.204 23.136002 24.636002">[ &#x2026; &#x003e; PBJ ]</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 292 157.5 L 360.18449 157.5 L 360.18449 166 L 292 166 Z " fill-opacity="0"/>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 315 39)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 8.13 9.63 12.552 14.052 18.264 19.764">[ &#x2026; &#x003e; &#x00d8; ]</tspan></text>
 </g>
 </g>
 <clipPath id="cp17">
@@ -145,15 +116,12 @@
 </clipPath>
 <g clip-path="url(#cp17)">
 <clipPath id="cp18">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 218 157.5 L 290 157.5 L 290 169 L 218 169 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 2 131 L 73.75 131 L 73.75 157 L 2 157 Z "/>
 </clipPath>
 <g clip-path="url(#cp18)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 220 166 L 288 166 L 288 157.5 L 220 157.5 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 239.813 38.524003)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 8.13 9.63 12.93 14.43 18.6 22.806 24.737999 26.237999">[ &#x2026; &#x003e; ADJ ]</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 4 131 L 71.75 131 L 71.75 154 L 4 154 Z " fill-opacity="0"/>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 16 54)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 4.293 7.5690004 12.1050009 19.125 21.375 27.189 31.301999 34.748998 38.816995 43.370996">From Cased </tspan></text>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 26 64)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 6.3180005 10.755001 13.203001 17.289002 21.096">Object</tspan></text>
 </g>
 </g>
 <clipPath id="cp19">
@@ -161,19 +129,13 @@
 </clipPath>
 <g clip-path="url(#cp19)">
 <clipPath id="cp20">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 290 157.5 L 362.18449 157.5 L 362.18449 169 L 290 169 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 74.25 131 L 145.75 131 L 145.75 156.75 L 74.25 156.75 Z "/>
 </clipPath>
 <g clip-path="url(#cp20)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 292 166 L 360.1845 166 L 360.1845 157.5 L 292 157.5 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 314.9532 38.524003)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 8.13 9.63 12.93 14.43 18.642 20.142">[ &#x2026; &#x003e; &#x00d8; ]</tspan></text>
-</g>
-</g>
-</g>
-</g>
-<g id="Layer-2" data-name="P">
-<g id="Layer-3" data-name="P">
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 76.25 131 L 143.75 131 L 143.75 153.75 L 76.25 153.75 Z " fill-opacity="0"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 101 54)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 5.814 9.927 13.374001 17.397002">Case </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 101 54)" font-size="9" font-family="LucidaGrande"><tspan y="0" x="19.647">&#x2028;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 96 64)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 5.814 10.602 14.715 19.539002 23.904002">Change</tspan></text>
 </g>
 </g>
 <clipPath id="cp21">
@@ -181,16 +143,13 @@
 </clipPath>
 <g clip-path="url(#cp21)">
 <clipPath id="cp22">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 2 131 L 73.75 131 L 73.75 157 L 2 157 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 146.25 131 L 217.5 131 L 217.5 156.75 L 146.25 156.75 Z "/>
 </clipPath>
 <g clip-path="url(#cp22)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 4 154 L 71.75 154 L 71.75 131 L 4 131 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 16.068 53.785997)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 4.3650004 7.6410005 12.177 19.287 21.537 27.351002 31.464 34.974 39.059999 43.614">From Cased </tspan></text>
-<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 25.8825 63.785997)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 6.3180005 10.755001 13.203001 17.289002 21.141003">Object</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 148.25 131 L 215.5 131 L 215.5 153.75 L 148.25 153.75 Z " fill-opacity="0"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 168 54)" font-size="7" font-family="LinLibertineO"><tspan y="0" x="0 4.8650004 8.344001 11.767001 14.896002 17.514002 21.266003 24.430003">Governed</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 168 54)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="27.972"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 160 64)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 6.2550008 11.079 13.923 16.362 21.078001 25.191002 28.638003 32.085004 34.524003 38.925004">Antipassive</tspan></text>
 </g>
 </g>
 <clipPath id="cp23">
@@ -198,16 +157,11 @@
 </clipPath>
 <g clip-path="url(#cp23)">
 <clipPath id="cp24">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 74.25 131 L 145.75 131 L 145.75 156.75 L 74.25 156.75 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 218.5 131 L 289.5 131 L 289.5 156.5 L 218.5 156.5 Z "/>
 </clipPath>
 <g clip-path="url(#cp24)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 76.25 153.75 L 143.75 153.75 L 143.75 131 L 76.25 131 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 101.27 54.035997)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 5.814 9.927 13.437 17.460001 19.710001">Case  </tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 95.915 64.035999)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 5.814 10.656 14.769 19.647 24.147">Change</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 220.5 131 L 287.5 131 L 287.5 148.5 L 220.5 148.5 Z " fill-opacity="0"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 232 59)" font-size="9" font-family="LinLibertineOB" font-weight="bold"><tspan y="0" x="0 6.2910006 11.358001 14.337001 16.911002 21.663 25.947 29.556 33.165 35.739004 40.437005">Antipassive</tspan></text>
 </g>
 </g>
 <clipPath id="cp25">
@@ -215,17 +169,11 @@
 </clipPath>
 <g clip-path="url(#cp25)">
 <clipPath id="cp26">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 146.25 131 L 217.5 131 L 217.5 156.75 L 146.25 156.75 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 290.5 131 L 361.68449 131 L 361.68449 156.5 L 290.5 156.5 Z "/>
 </clipPath>
 <g clip-path="url(#cp26)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 148.25 153.75 L 215.5 153.75 L 215.5 131 L 148.25 131 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 167.903 54.035997)" font-size="7" font-family="LinLibertineO"><tspan y="0" x="0 4.7950007 8.274001 11.697001 14.826002 17.430003 21.224003 24.402003">Governed</tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 167.903 54.035997)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="27.944"> </tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 160.3335 64.035999)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 6.2550008 11.133001 13.977001 16.416 21.087002 25.2 28.710001 32.22 34.659 39.06">Antipassive</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 292.5 131 L 359.68449 131 L 359.68449 148.5 L 292.5 148.5 Z " fill-opacity="0"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 304 59)" font-size="9" font-family="LinLibertineOB" font-weight="bold"><tspan y="0" x="0 6.5070006 10.719 15.39 19.935002 22.536002 26.748002 30.663002 33.642004 36.216005 40.914007">Deobjective</tspan></text>
 </g>
 </g>
 <clipPath id="cp27">
@@ -233,15 +181,11 @@
 </clipPath>
 <g clip-path="url(#cp27)">
 <clipPath id="cp28">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 218.5 131 L 289.5 131 L 289.5 156.5 L 218.5 156.5 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 2 119 L 73.75 119 L 73.75 131 L 2 131 Z "/>
 </clipPath>
 <g clip-path="url(#cp28)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 220.5 148.5 L 287.5 148.5 L 287.5 131 L 220.5 131 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 230.1095 59.285997)" font-size="9" font-family="LinLibertineOB" font-weight="bold"><tspan y="0" x="0 6.66 12.204 15.426001 18.324002 23.553002 28.107003 31.950003 35.793004 38.691 43.380006">Antipassive</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 4 119 L 71.75 119 L 71.75 128 L 4 128 Z " fill-opacity="0"/>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 24 77)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 7.848 11.375999 13.007999 14.507999 17.43 18.93 23.424 24.924">[ OBJ &#x003e; &#x2026; ]</tspan></text>
 </g>
 </g>
 <clipPath id="cp29">
@@ -249,17 +193,11 @@
 </clipPath>
 <g clip-path="url(#cp29)">
 <clipPath id="cp30">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 290.5 131 L 361.68449 131 L 361.68449 156.5 L 290.5 156.5 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 74.25 119.25 L 145.75 119.25 L 145.75 131 L 74.25 131 Z "/>
 </clipPath>
 <g clip-path="url(#cp30)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 292.5 148.5 L 359.6845 148.5 L 359.6845 131 L 292.5 131 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 302.3457 59.285997)" font-size="9" font-family="LinLibertineOB" font-weight="bold"><tspan y="0" x="0 6.6060006 11.07 16.029 20.907 23.715 28.179 32.283 35.505 38.403 43.092004">Deobjective</tspan></text>
-</g>
-</g>
-</g>
-<g id="Layer-3" data-name="P">
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 76.25 119.25 L 143.75 119.25 L 143.75 128 L 76.25 128 Z " fill-opacity="0"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 94 77)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 7.848 11.375999 13.007999 14.507999 17.43 18.93 23.142 26.67 28.302 29.802">[ OBJ &#x003e; OBJ ]</tspan></text>
 </g>
 </g>
 <clipPath id="cp31">
@@ -267,15 +205,11 @@
 </clipPath>
 <g clip-path="url(#cp31)">
 <clipPath id="cp32">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 2 119 L 73.75 119 L 73.75 131 L 2 131 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 146.25 119.25 L 217.5 119.25 L 217.5 131 L 146.25 131 Z "/>
 </clipPath>
 <g clip-path="url(#cp32)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 4 128 L 71.75 128 L 71.75 119 L 4 119 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 24.006 76.524)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 7.848 11.375999 13.308 14.808 18.108 19.608 24.102 25.602">[ OBJ &#x003e; &#x2026; ]</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 148.25 119.25 L 215.5 119.25 L 215.5 128 L 148.25 128 Z " fill-opacity="0"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 166 77)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 7.848 11.375999 13.007999 14.507999 17.43 18.93 22.29 25.818 27.45 28.95">[ OBJ &#x003e; PBJ ]</tspan></text>
 </g>
 </g>
 <clipPath id="cp33">
@@ -283,15 +217,11 @@
 </clipPath>
 <g clip-path="url(#cp33)">
 <clipPath id="cp34">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 74.25 119.25 L 145.75 119.25 L 145.75 131 L 74.25 131 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 218.5 119.5 L 289.5 119.5 L 289.5 131 L 218.5 131 Z "/>
 </clipPath>
 <g clip-path="url(#cp34)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 76.25 128 L 143.75 128 L 143.75 119.25 L 76.25 119.25 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 93.542 76.524)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 7.848 11.375999 13.308 14.808 18.108 19.608 23.82 27.348 29.279999 30.779999">[ OBJ &#x003e; OBJ ]</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 220.5 119.5 L 287.5 119.5 L 287.5 128 L 220.5 128 Z " fill-opacity="0"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 238 77)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 7.848 11.375999 13.007999 14.507999 17.43 18.93 23.1 27.306 28.938 30.438">[ OBJ &#x003e; ADJ ]</tspan></text>
 </g>
 </g>
 <clipPath id="cp35">
@@ -299,15 +229,11 @@
 </clipPath>
 <g clip-path="url(#cp35)">
 <clipPath id="cp36">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 146.25 119.25 L 217.5 119.25 L 217.5 131 L 146.25 131 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 290.5 119.5 L 361.68449 119.5 L 361.68449 131 L 290.5 131 Z "/>
 </clipPath>
 <g clip-path="url(#cp36)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 148.25 128 L 215.5 128 L 215.5 119.25 L 148.25 119.25 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 165.9 76.524)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 7.848 11.375999 13.308 14.808 18.108 19.608 22.854 26.382 28.314 29.814">[ OBJ &#x003e; PBJ ]</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 292.5 119.5 L 359.68449 119.5 L 359.68449 128 L 292.5 128 Z " fill-opacity="0"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 313 77)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 7.848 11.375999 13.007999 14.507999 17.43 18.93 23.142 24.642">[ OBJ &#x003e; &#x00d8; ]</tspan></text>
 </g>
 </g>
 <clipPath id="cp37">
@@ -315,15 +241,12 @@
 </clipPath>
 <g clip-path="url(#cp37)">
 <clipPath id="cp38">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 218.5 119.5 L 289.5 119.5 L 289.5 131 L 218.5 131 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 2 93 L 73.75 93 L 73.75 119 L 2 119 Z "/>
 </clipPath>
 <g clip-path="url(#cp38)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 220.5 128 L 287.5 128 L 287.5 119.5 L 220.5 119.5 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 237.224 76.524)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 7.848 11.375999 13.308 14.808 18.108 19.608 23.778 27.984002 29.916 31.416">[ OBJ &#x003e; ADJ ]</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 4 93 L 71.75 93 L 71.75 116 L 4 116 Z " fill-opacity="0"/>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 9 92)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 4.293 7.5690004 12.1050009 19.125 21.375 27.630002 32.103 36.504 40.527 43.893 48.717004 52.785 57.339">From Governed </tspan></text>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 17 102)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 4.7790005 8.055001 12.078001 16.812 21.348 24.795 27.234002 30.078001 32.517004 37.053">Preposition</tspan></text>
 </g>
 </g>
 <clipPath id="cp39">
@@ -331,17 +254,13 @@
 </clipPath>
 <g clip-path="url(#cp39)">
 <clipPath id="cp40">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 290.5 119.5 L 361.68449 119.5 L 361.68449 131 L 290.5 131 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 74.25 93 L 145.75 93 L 145.75 118.75 L 74.25 118.75 Z "/>
 </clipPath>
 <g clip-path="url(#cp40)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 292.5 128 L 359.6845 128 L 359.6845 119.5 L 292.5 119.5 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 312.3642 76.524)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 7.848 11.375999 13.308 14.808 18.108 19.608 23.82 25.32">[ OBJ &#x003e; &#x00d8; ]</tspan></text>
-</g>
-</g>
-</g>
-<g id="Layer-3" data-name="P">
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 76.25 93 L 143.75 93 L 143.75 115.75 L 76.25 115.75 Z " fill-opacity="0"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 96 92)" font-size="7" font-family="LinLibertineO"><tspan y="0" x="0 4.8650004 8.344001 11.767001 14.896002 17.514002 21.266003 24.430003">Governed</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 96 92)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="27.972"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 89 102)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 6.2550008 10.926001 15.597001 17.973002 20.412003 24.219002 28.332 31.176 33.615 38.016004">Applicative</tspan></text>
 </g>
 </g>
 <clipPath id="cp41">
@@ -349,16 +268,12 @@
 </clipPath>
 <g clip-path="url(#cp41)">
 <clipPath id="cp42">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 2 93 L 73.75 93 L 73.75 119 L 2 119 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 146.25 93 L 217.75 93 L 217.75 118.75 L 146.25 118.75 Z "/>
 </clipPath>
 <g clip-path="url(#cp42)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 4 116 L 71.75 116 L 71.75 93 L 4 93 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 9.1425 91.786)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 4.3650004 7.6410005 12.177 19.287 21.537 27.702002 32.175004 36.576005 40.599004 43.947004 48.825006 52.911005 57.465005">From Governed </tspan></text>
-<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 16.833 101.786)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 4.869 8.145 12.168001 16.902 21.438 24.948 27.387001 30.231 32.670003 37.206">Preposition</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 148.25 93 L 215.75 93 L 215.75 115.75 L 148.25 115.75 Z " fill-opacity="0"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 161 92)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 4.7790005 8.055001 12.078001 16.812 21.348 24.795 27.234002 30.078001 32.517004 37.053 41.877004">Preposition </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 168 102)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 5.814 10.602 14.715 19.539002 23.904002">Change</tspan></text>
 </g>
 </g>
 <clipPath id="cp43">
@@ -366,17 +281,11 @@
 </clipPath>
 <g clip-path="url(#cp43)">
 <clipPath id="cp44">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 74.25 93 L 145.75 93 L 145.75 118.75 L 74.25 118.75 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 290.5 93 L 361.68449 93 L 361.68449 118.5 L 290.5 118.5 Z "/>
 </clipPath>
 <g clip-path="url(#cp44)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 76.25 115.75 L 143.75 115.75 L 143.75 93 L 76.25 93 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 96.028 92.036)" font-size="7" font-family="LinLibertineO"><tspan y="0" x="0 4.7950007 8.274001 11.697001 14.826002 17.430003 21.224003 24.402003">Governed</tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 96.028 92.036)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="27.944"> </tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 88.958 102.036)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 6.2550008 10.926001 15.597001 17.973002 20.412003 24.264004 28.377003 31.221003 33.660005 38.061006">Applicative</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 292.5 93 L 359.68449 93 L 359.68449 110.5 L 292.5 110.5 Z " fill-opacity="0"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 306 97)" font-size="9" font-family="LinLibertineOB" font-weight="bold"><tspan y="0" x="0 6.5070006 10.656 13.257 17.991002 21.906002 26.190003 29.169003 31.743002 36.441">Delocative</tspan></text>
 </g>
 </g>
 <clipPath id="cp45">
@@ -384,16 +293,11 @@
 </clipPath>
 <g clip-path="url(#cp45)">
 <clipPath id="cp46">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 146.25 93 L 217.75 93 L 217.75 118.75 L 146.25 118.75 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 2 81 L 73.75 81 L 73.75 93 L 2 93 Z "/>
 </clipPath>
 <g clip-path="url(#cp46)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 148.25 115.75 L 215.75 115.75 L 215.75 93 L 148.25 93 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 160.958 92.036)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 4.869 8.145 12.168001 16.902 21.438 24.948 27.387001 30.231 32.670003 37.206 42.084">Preposition </tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 167.915 102.036)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 5.814 10.656 14.769 19.647 24.147">Change</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 4 81 L 71.75 81 L 71.75 90 L 4 90 Z " fill-opacity="0"/>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 25 115)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 6.9960005 10.524 12.156 13.656 16.578001 18.078001 22.572 24.072">[ PBJ &#x003e; &#x2026; ]</tspan></text>
 </g>
 </g>
 <clipPath id="cp47">
@@ -401,12 +305,11 @@
 </clipPath>
 <g clip-path="url(#cp47)">
 <clipPath id="cp48">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 0 0 L 380 0 L 380 200 L 0 200 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 74.25 81.5 L 145.75 81.5 L 145.75 93 L 74.25 93 Z "/>
 </clipPath>
 <g clip-path="url(#cp48)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 218 119 L 290 119 L 290 93 L 218 93 Z " fill="#66e348" fill-opacity="0"/>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 76.25 81.5 L 143.75 81.5 L 143.75 90 L 76.25 90 Z " fill-opacity="0"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 94 115)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 6.9960005 10.524 12.156 13.656 16.578001 18.078001 22.29 25.818 27.45 28.95">[ PBJ &#x003e; OBJ ]</tspan></text>
 </g>
 </g>
 <clipPath id="cp49">
@@ -414,17 +317,11 @@
 </clipPath>
 <g clip-path="url(#cp49)">
 <clipPath id="cp50">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 290.5 93 L 361.68449 93 L 361.68449 118.5 L 290.5 118.5 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 146.25 81.25 L 217.75 81.25 L 217.75 93 L 146.25 93 Z "/>
 </clipPath>
 <g clip-path="url(#cp50)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 292.5 110.5 L 359.6845 110.5 L 359.6845 93 L 292.5 93 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 301.0227 97.286)" font-size="9" font-family="LinLibertineOB" font-weight="bold"><tspan y="0" x="0 6.66 12.204 15.426001 18.324002 21.249 26.271 30.375 34.929 38.151 41.049 45.738004">Antilocative</tspan></text>
-</g>
-</g>
-</g>
-<g id="Layer-3" data-name="P">
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 148.25 81.25 L 215.75 81.25 L 215.75 90 L 148.25 90 Z " fill-opacity="0"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 167 115)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 6.9960005 10.524 12.156 13.656 16.578001 18.078001 21.438002 24.966002 26.598002 28.098002">[ PBJ &#x003e; PBJ ]</tspan></text>
 </g>
 </g>
 <clipPath id="cp51">
@@ -432,15 +329,11 @@
 </clipPath>
 <g clip-path="url(#cp51)">
 <clipPath id="cp52">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 2 81 L 73.75 81 L 73.75 93 L 2 93 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 218.25 81.25 L 289.5 81.25 L 289.5 93 L 218.25 93 Z "/>
 </clipPath>
 <g clip-path="url(#cp52)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 4 90 L 71.75 90 L 71.75 81 L 4 81 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 24.489 114.524)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 6.882 10.41 12.342 13.842 17.142 18.642 23.136 24.636">[ PBJ &#x003e; &#x2026; ]</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 220.25 81.25 L 287.5 81.25 L 287.5 90 L 220.25 90 Z " fill-opacity="0"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 238 115)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 6.9960005 10.524 12.156 13.656 16.578001 18.078001 22.248002 26.454003 28.086003 29.586003">[ PBJ &#x003e; ADJ ]</tspan></text>
 </g>
 </g>
 <clipPath id="cp53">
@@ -448,15 +341,11 @@
 </clipPath>
 <g clip-path="url(#cp53)">
 <clipPath id="cp54">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 74.25 81.5 L 145.75 81.5 L 145.75 93 L 74.25 93 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 290.5 81.5 L 361.68449 81.5 L 361.68449 93 L 290.5 93 Z "/>
 </clipPath>
 <g clip-path="url(#cp54)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 76.25 90 L 143.75 90 L 143.75 81.5 L 76.25 81.5 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 94.025 114.524)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 6.882 10.41 12.342 13.842 17.142 18.642 22.854 26.382 28.314 29.814">[ PBJ &#x003e; OBJ ]</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 292.5 81.5 L 359.68449 81.5 L 359.68449 90 L 292.5 90 Z " fill-opacity="0"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 313 115)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 6.9960005 10.524 12.156 13.656 16.578001 18.078001 22.29 23.79">[ PBJ &#x003e; &#x00d8; ]</tspan></text>
 </g>
 </g>
 <clipPath id="cp55">
@@ -464,15 +353,13 @@
 </clipPath>
 <g clip-path="url(#cp55)">
 <clipPath id="cp56">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 146.25 81.25 L 217.75 81.25 L 217.75 93 L 146.25 93 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 2 55 L 73.5 55 L 73.5 81 L 2 81 Z "/>
 </clipPath>
 <g clip-path="url(#cp56)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 148.25 90 L 215.75 90 L 215.75 81.25 L 148.25 81.25 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 166.508 114.524)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 6.882 10.41 12.342 13.842 17.142 18.642 21.888 25.416 27.348 28.848">[ PBJ &#x003e; PBJ ]</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 4 55 L 71.5 55 L 71.5 78 L 4 78 Z " fill-opacity="0"/>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 28 130)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 4.293 7.5690004 12.1050009">From</tspan></text>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 28 130)" font-size="9" font-family="LucidaGrande"><tspan y="0" x="19.125">&#x2028;</tspan></text>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 23 140)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 6.147001 10.701001 13.149001 17.874 22.698002 26.505002">Adjunct</tspan></text>
 </g>
 </g>
 <clipPath id="cp57">
@@ -480,15 +367,11 @@
 </clipPath>
 <g clip-path="url(#cp57)">
 <clipPath id="cp58">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 218.25 81.25 L 289.5 81.25 L 289.5 93 L 218.25 93 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 74.5 55 L 145.5 55 L 145.5 80.5 L 74.5 80.5 Z "/>
 </clipPath>
 <g clip-path="url(#cp58)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 220.25 90 L 287.5 90 L 287.5 81.25 L 220.25 81.25 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 237.582 114.524)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 6.882 10.41 12.342 13.842 17.142 18.642 22.812 27.018002 28.95 30.45">[ PBJ &#x003e; ADJ ]</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 76.5 55 L 143.5 55 L 143.5 72.5 L 76.5 72.5 Z " fill-opacity="0"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 88 135)" font-size="9" font-family="LinLibertineOB" font-weight="bold"><tspan y="0" x="0 6.2910006 10.998 15.705 18.306 20.88 24.795 29.079 32.058004 34.632005 39.330007">Applicative</tspan></text>
 </g>
 </g>
 <clipPath id="cp59">
@@ -496,17 +379,13 @@
 </clipPath>
 <g clip-path="url(#cp59)">
 <clipPath id="cp60">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 290.5 81.5 L 361.68449 81.5 L 361.68449 93 L 290.5 93 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 218.25 55 L 289.75 55 L 289.75 80.75 L 218.25 80.75 Z "/>
 </clipPath>
 <g clip-path="url(#cp60)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 292.5 90 L 359.6845 90 L 359.6845 81.5 L 292.5 81.5 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 312.8472 114.524)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 6.882 10.41 12.342 13.842 17.142 18.642 22.854 24.354">[ PBJ &#x003e; &#x00d8; ]</tspan></text>
-</g>
-</g>
-</g>
-<g id="Layer-3" data-name="P">
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 220.25 55 L 287.75 55 L 287.75 77.75 L 220.25 77.75 Z " fill-opacity="0"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 239 130)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 6.147001 10.701001 13.149001 17.874 22.698002 26.505002">Adjunct</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 239 130)" font-size="9" font-family="LucidaGrande"><tspan y="0" x="29.349">&#x2028;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 240 140)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 5.814 10.602 14.715 19.539002 23.904002">Change</tspan></text>
 </g>
 </g>
 <clipPath id="cp61">
@@ -514,16 +393,11 @@
 </clipPath>
 <g clip-path="url(#cp61)">
 <clipPath id="cp62">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 2 55 L 73.5 55 L 73.5 81 L 2 81 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 2 43 L 73.5 43 L 73.5 55 L 2 55 Z "/>
 </clipPath>
 <g clip-path="url(#cp62)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 4 78 L 71.5 78 L 71.5 55 L 4 55 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 28.1065 129.78601)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 4.3650004 7.6410005 12.177 19.287">From </tspan></text>
-<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 22.999 139.786)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 6.147001 10.701001 13.149001 17.928002 22.806002 26.658">Adjunct</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 4 43 L 71.5 43 L 71.5 52 L 4 52 Z " fill-opacity="0"/>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 24 153)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 7.806 12.012001 13.644001 15.144001 18.066002 19.566002 24.060002 25.560002">[ ADJ &#x003e; &#x2026; ]</tspan></text>
 </g>
 </g>
 <clipPath id="cp63">
@@ -531,15 +405,11 @@
 </clipPath>
 <g clip-path="url(#cp63)">
 <clipPath id="cp64">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 74.5 55 L 145.5 55 L 145.5 80.5 L 74.5 80.5 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 74.5 43.5 L 145.5 43.5 L 145.5 55 L 74.5 55 Z "/>
 </clipPath>
 <g clip-path="url(#cp64)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 76.5 72.5 L 143.5 72.5 L 143.5 55 L 76.5 55 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 86.5955 135.28601)" font-size="9" font-family="LinLibertineOB" font-weight="bold"><tspan y="0" x="0 6.66 11.889 17.118 20.043 22.941 27.045 31.599 34.821 37.718999 42.408">Applicative</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 76.5 43.5 L 143.5 43.5 L 143.5 52 L 76.5 52 Z " fill-opacity="0"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 94 153)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 7.806 12.012001 13.644001 15.144001 18.066002 19.566002 23.778002 27.306002 28.938002 30.438002">[ ADJ &#x003e; OBJ ]</tspan></text>
 </g>
 </g>
 <clipPath id="cp65">
@@ -547,12 +417,11 @@
 </clipPath>
 <g clip-path="url(#cp65)">
 <clipPath id="cp66">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 0 0 L 380 0 L 380 200 L 0 200 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 146.5 43.5 L 217.75 43.5 L 217.75 55 L 146.5 55 Z "/>
 </clipPath>
 <g clip-path="url(#cp66)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 146 81 L 218 81 L 218 55 L 146 55 Z " fill="#5aceea" fill-opacity="0"/>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 148.5 43.5 L 215.75 43.5 L 215.75 52 L 148.5 52 Z " fill-opacity="0"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 166 153)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 7.806 12.012001 13.644001 15.144001 18.066002 19.566002 22.926003 26.454003 28.086003 29.586003">[ ADJ &#x003e; PBJ ]</tspan></text>
 </g>
 </g>
 <clipPath id="cp67">
@@ -560,16 +429,11 @@
 </clipPath>
 <g clip-path="url(#cp67)">
 <clipPath id="cp68">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 218.25 55 L 289.75 55 L 289.75 80.75 L 218.25 80.75 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 218.25 43.25 L 289.75 43.25 L 289.75 55 L 218.25 55 Z "/>
 </clipPath>
 <g clip-path="url(#cp68)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 220.25 77.75 L 287.75 77.75 L 287.75 55 L 220.25 55 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 239.249 130.03601)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 6.147001 10.701001 13.149001 17.928002 22.806002 26.658 29.502">Adjunct </tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 239.915 140.036)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 5.814 10.656 14.769 19.647 24.147">Change</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 220.25 43.25 L 287.75 43.25 L 287.75 52 L 220.25 52 Z " fill-opacity="0"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 237 153)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 7.806 12.012001 13.644001 15.144001 18.066002 19.566002 23.736002 27.942002 29.574002 31.074002">[ ADJ &#x003e; ADJ ]</tspan></text>
 </g>
 </g>
 <clipPath id="cp69">
@@ -577,14 +441,12 @@
 </clipPath>
 <g clip-path="url(#cp69)">
 <clipPath id="cp70">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 0 0 L 380 0 L 380 200 L 0 200 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 2 17 L 73.5 17 L 73.5 43 L 2 43 Z "/>
 </clipPath>
 <g clip-path="url(#cp70)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 290 81 L 362.1845 81 L 362.1845 55 L 290 55 Z " fill="#12f286" fill-opacity="0"/>
-</g>
-</g>
-<g id="Layer-3" data-name="P">
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 4 17 L 71.5 17 L 71.5 40 L 4 40 Z " fill-opacity="0"/>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 28 168)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 4.293 7.5690004 12.1050009 19.125">From </tspan></text>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 14 178)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 5.9490005 10.773001 14.733002 19.143002 23.814003 27.090003 31.113003 34.56 38.007 42.074998">Unexpressed</tspan></text>
 </g>
 </g>
 <clipPath id="cp71">
@@ -592,15 +454,11 @@
 </clipPath>
 <g clip-path="url(#cp71)">
 <clipPath id="cp72">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 2 43 L 73.5 43 L 73.5 55 L 2 55 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 74.5 17 L 145.5 17 L 145.5 42.5 L 74.5 42.5 Z "/>
 </clipPath>
 <g clip-path="url(#cp72)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 4 52 L 71.5 52 L 71.5 43 L 4 43 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 23.563 152.524)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 7.806 12.012001 13.944001 15.444001 18.744002 20.244002 24.738 26.238">[ ADJ &#x003e; &#x2026; ]</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 76.5 17 L 143.5 17 L 143.5 34.5 L 76.5 34.5 Z " fill-opacity="0"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 92 173)" font-size="9" font-family="LinLibertineOB" font-weight="bold"><tspan y="0" x="0 6.57 11.115 13.716 17.928 21.843 24.822 27.396 32.094">Objective</tspan></text>
 </g>
 </g>
 <clipPath id="cp73">
@@ -608,15 +466,11 @@
 </clipPath>
 <g clip-path="url(#cp73)">
 <clipPath id="cp74">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 74.5 43.5 L 145.5 43.5 L 145.5 55 L 74.5 55 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 146.5 17 L 217.5 17 L 217.5 42.5 L 146.5 42.5 Z "/>
 </clipPath>
 <g clip-path="url(#cp74)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 76.5 52 L 143.5 52 L 143.5 43.5 L 76.5 43.5 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 93.224 152.524)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 7.806 12.012001 13.944001 15.444001 18.744002 20.244002 24.456002 27.984002 29.916 31.416">[ ADJ &#x003e; OBJ ]</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 148.5 17 L 215.5 17 L 215.5 34.5 L 148.5 34.5 Z " fill-opacity="0"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 166 173)" font-size="9" font-family="LinLibertineOB" font-weight="bold"><tspan y="0" x="0 4.8420007 9.576 13.491 17.775 20.754 23.328 28.026">Locative</tspan></text>
 </g>
 </g>
 <clipPath id="cp75">
@@ -624,15 +478,11 @@
 </clipPath>
 <g clip-path="url(#cp75)">
 <clipPath id="cp76">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 146.5 43.5 L 217.75 43.5 L 217.75 55 L 146.5 55 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 2 5 L 73.5 5 L 73.5 17 L 2 17 Z "/>
 </clipPath>
 <g clip-path="url(#cp76)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 148.5 52 L 215.75 52 L 215.75 43.5 L 148.5 43.5 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 165.832 152.524)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 7.806 12.012001 13.944001 15.444001 18.744002 20.244002 23.490002 27.018002 28.95 30.45">[ ADJ &#x003e; PBJ ]</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 4 5 L 71.5 5 L 71.5 14 L 4 14 Z " fill-opacity="0"/>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 27 191)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 7.848 9.348 12.2699999 13.7699999 18.264 19.764">[ &#x00d8; &#x003e; &#x2026; ]</tspan></text>
 </g>
 </g>
 <clipPath id="cp77">
@@ -640,15 +490,11 @@
 </clipPath>
 <g clip-path="url(#cp77)">
 <clipPath id="cp78">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 218.25 43.25 L 289.75 43.25 L 289.75 55 L 218.25 55 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 74.5 5.5 L 145.5 5.5 L 145.5 17 L 74.5 17 Z "/>
 </clipPath>
 <g clip-path="url(#cp78)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 220.25 52 L 287.75 52 L 287.75 43.25 L 220.25 43.25 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 236.906 152.524)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 7.806 12.012001 13.944001 15.444001 18.744002 20.244002 24.414002 28.620003 30.552002 32.052003">[ ADJ &#x003e; ADJ ]</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 76.5 5.5 L 143.5 5.5 L 143.5 14 L 76.5 14 Z " fill-opacity="0"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 97 191)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 7.848 9.348 12.2699999 13.7699999 17.981999 21.509999 23.141999 24.641999">[ &#x00d8; &#x003e; OBJ ]</tspan></text>
 </g>
 </g>
 <clipPath id="cp79">
@@ -656,14 +502,11 @@
 </clipPath>
 <g clip-path="url(#cp79)">
 <clipPath id="cp80">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 0 0 L 380 0 L 380 200 L 0 200 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 146.5 5.5 L 217.5 5.5 L 217.5 17 L 146.5 17 Z "/>
 </clipPath>
 <g clip-path="url(#cp80)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 290 55 L 362.1845 55 L 362.1845 43 L 290 43 Z " fill="#1631a9" fill-opacity="0"/>
-</g>
-</g>
-<g id="Layer-3" data-name="P">
-<g id="Layer-4" data-name="P">
+<path transform="matrix(1,0,0,-1,0,200)" d="M 148.5 5.5 L 215.5 5.5 L 215.5 14 L 148.5 14 Z " fill-opacity="0"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 169 191)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 7.848 9.348 12.2699999 13.7699999 17.13 20.657999 22.289999 23.789999">[ &#x00d8; &#x003e; PBJ ]</tspan></text>
 </g>
 </g>
 <clipPath id="cp81">
@@ -671,140 +514,9 @@
 </clipPath>
 <g clip-path="url(#cp81)">
 <clipPath id="cp82">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 2 17 L 73.5 17 L 73.5 43 L 2 43 Z "/>
+<path transform="matrix(1,0,0,-1,0,200)" d="M 0 0 L 380 0 L 380 200 L 0 200 Z "/>
 </clipPath>
 <g clip-path="url(#cp82)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 4 40 L 71.5 40 L 71.5 17 L 4 17 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 28.1065 167.786)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 4.3650004 7.6410005 12.177 19.287">From </tspan></text>
-<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 14.3365 177.786)" font-size="9" font-family="LinLibertineO"><tspan y="0" x="0 5.9490005 10.827001 14.787001 19.197 23.868 27.144 31.167 34.677003 38.187005 42.273004">Unexpressed</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
-</g>
-</g>
-<clipPath id="cp83">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 218.5 5 L 362.1845 5 L 362.1845 80.5 L 362.6845 80.5 L 362.6845 157.5 L 362.1845 195 L 2 195 L 2 157 L 2 81 L 2 5 L 73.5 5 L 218.5 4.5 Z M 218.5 5 "/>
-</clipPath>
-<g clip-path="url(#cp83)">
-<clipPath id="cp84">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 74.5 17 L 145.5 17 L 145.5 42.5 L 74.5 42.5 Z "/>
-</clipPath>
-<g clip-path="url(#cp84)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 76.5 34.5 L 143.5 34.5 L 143.5 17 L 76.5 17 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 90.983 173.286)" font-size="9" font-family="LinLibertineOB" font-weight="bold"><tspan y="0" x="0 6.57 11.448 14.2560009 18.720002 22.824002 26.046002 28.944003 33.633005">Objective</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
-</g>
-</g>
-<clipPath id="cp85">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 218.5 5 L 362.1845 5 L 362.1845 80.5 L 362.6845 80.5 L 362.6845 157.5 L 362.1845 195 L 2 195 L 2 157 L 2 81 L 2 5 L 73.5 5 L 218.5 4.5 Z M 218.5 5 "/>
-</clipPath>
-<g clip-path="url(#cp85)">
-<clipPath id="cp86">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 146.5 17 L 217.5 17 L 217.5 42.5 L 146.5 42.5 Z "/>
-</clipPath>
-<g clip-path="url(#cp86)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 148.5 34.5 L 215.5 34.5 L 215.5 17 L 148.5 17 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 164.9585 173.286)" font-size="9" font-family="LinLibertineOB" font-weight="bold"><tspan y="0" x="0 5.1930005 10.215 14.319 18.873002 22.095002 24.993002 29.682002">Locative</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
-</g>
-</g>
-<clipPath id="cp87">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 218.5 5 L 362.1845 5 L 362.1845 80.5 L 362.6845 80.5 L 362.6845 157.5 L 362.1845 195 L 2 195 L 2 157 L 2 81 L 2 5 L 73.5 5 L 218.5 4.5 Z M 218.5 5 "/>
-</clipPath>
-<g clip-path="url(#cp87)">
-<clipPath id="cp88">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 0 0 L 380 0 L 380 200 L 0 200 Z "/>
-</clipPath>
-<g clip-path="url(#cp88)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 218 43 L 290 43 L 290 17 L 218 17 Z " fill="#e35910" fill-opacity="0"/>
-</g>
-<g id="Layer-4" data-name="P">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 290 43 L 362.1845 43 L 362.1845 17 L 290 17 Z " fill="#057510" fill-opacity="0"/>
-</g>
-</g>
-<g id="Layer-3" data-name="P">
-<g id="Layer-4" data-name="P">
-</g>
-</g>
-<clipPath id="cp89">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 218.5 5 L 362.1845 5 L 362.1845 80.5 L 362.6845 80.5 L 362.6845 157.5 L 362.1845 195 L 2 195 L 2 157 L 2 81 L 2 5 L 73.5 5 L 218.5 4.5 Z M 218.5 5 "/>
-</clipPath>
-<g clip-path="url(#cp89)">
-<clipPath id="cp90">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 2 5 L 73.5 5 L 73.5 17 L 2 17 Z "/>
-</clipPath>
-<g clip-path="url(#cp90)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 4 14 L 71.5 14 L 71.5 5 L 4 5 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 26.611 190.524)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 7.848 9.348 12.648 14.148 18.642 20.142">[ &#x00d8; &#x003e; &#x2026; ]</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
-</g>
-</g>
-<clipPath id="cp91">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 218.5 5 L 362.1845 5 L 362.1845 80.5 L 362.6845 80.5 L 362.6845 157.5 L 362.1845 195 L 2 195 L 2 157 L 2 81 L 2 5 L 73.5 5 L 218.5 4.5 Z M 218.5 5 "/>
-</clipPath>
-<g clip-path="url(#cp91)">
-<clipPath id="cp92">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 74.5 5.5 L 145.5 5.5 L 145.5 17 L 74.5 17 Z "/>
-</clipPath>
-<g clip-path="url(#cp92)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 76.5 14 L 143.5 14 L 143.5 5.5 L 76.5 5.5 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 96.272 190.524)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 7.848 9.348 12.648 14.148 18.36 21.888 23.82 25.32">[ &#x00d8; &#x003e; OBJ ]</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
-</g>
-</g>
-<clipPath id="cp93">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 218.5 5 L 362.1845 5 L 362.1845 80.5 L 362.6845 80.5 L 362.6845 157.5 L 362.1845 195 L 2 195 L 2 157 L 2 81 L 2 5 L 73.5 5 L 218.5 4.5 Z M 218.5 5 "/>
-</clipPath>
-<g clip-path="url(#cp93)">
-<clipPath id="cp94">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 146.5 5.5 L 217.5 5.5 L 217.5 17 L 146.5 17 Z "/>
-</clipPath>
-<g clip-path="url(#cp94)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 148.5 14 L 215.5 14 L 215.5 5.5 L 148.5 5.5 Z " fill-opacity="0"/>
-<g id="Layer-5" data-name="P">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 168.755 190.524)" font-size="6" font-family="LinLibertineO"><tspan y="0" x="0 2.1360002 3.6360002 7.848 9.348 12.648 14.148 17.394 20.921999 22.854 24.354">[ &#x00d8; &#x003e; PBJ ]</tspan></text>
-</g>
-</g>
-<g id="Layer-4" data-name="P">
-</g>
-</g>
-<clipPath id="cp95">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 218.5 5 L 362.1845 5 L 362.1845 80.5 L 362.6845 80.5 L 362.6845 157.5 L 362.1845 195 L 2 195 L 2 157 L 2 81 L 2 5 L 73.5 5 L 218.5 4.5 Z M 218.5 5 "/>
-</clipPath>
-<g clip-path="url(#cp95)">
-<clipPath id="cp96">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 0 0 L 380 0 L 380 200 L 0 200 Z "/>
-</clipPath>
-<g clip-path="url(#cp96)">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 218 17 L 290 17 L 290 5 L 218 5 Z " fill="#3df8e6" fill-opacity="0"/>
-</g>
-<g id="Layer-4" data-name="P">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 290 17 L 362.1845 17 L 362.1845 5 L 290 5 Z " fill="#d9448a" fill-opacity="0"/>
-</g>
-</g>
-</g>
-</g>
-<clipPath id="cp97">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 218.5 5 L 362.1845 5 L 362.1845 80.5 L 362.6845 80.5 L 362.6845 157.5 L 362.1845 195 L 2 195 L 2 157 L 2 81 L 2 5 L 73.5 5 L 218.5 4.5 Z M 218.5 5 "/>
-</clipPath>
-<g clip-path="url(#cp97)">
-<clipPath id="cp98">
-<path transform="matrix(1,0,0,-1,0,200)" d="M 0 0 L 380 0 L 380 200 L 0 200 Z "/>
-</clipPath>
-<g clip-path="url(#cp98)">
 <path transform="matrix(1,0,0,1,1,4)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 145 38.5 L 145 77 "/>
 <path transform="matrix(1,0,0,1,1,4)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#7f7f7f" d="M 145 77 L 145 114.5 "/>
 <path transform="matrix(1,0,0,1,1,4)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 145 114.5 L 145 153 "/>
@@ -838,8 +550,6 @@
 <path transform="matrix(1,0,0,1,1,4)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 361.1845 77 L 361.1845 115.5 "/>
 <path transform="matrix(1,0,0,1,1,4)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 72.5 191 L 145 191 "/>
 <path transform="matrix(1,0,0,1,1,4)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 145 191 L 217.5 191 "/>
-</g>
-</g>
 </g>
 </g>
 </g>

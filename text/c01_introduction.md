@@ -28,13 +28,17 @@ All in all, there are about 250 different German diatheses described in this boo
 
 It might come as a surprise that there are so many different diatheses in German, but my impression is that German is no exception among the world's languages in this respect. I expect that all languages have a wealth of different ways in which to construe a sentence around a lexical predicate. In a sense, diatheses allow for the expression of different perspectives on the event described, something that is arguably a common desire of any language user.
 
-This first chapter summarises the basic definitional properties of diathesis. The next Chapter [-@sec:structure] describes in detail how diatheses are analysed and classified. Chapter [-@sec:summary] presents a summary of the 70+ major German diatheses and proposes German names for those structures. Chapters [-@sec:case] to [-@sec:zuminfinitive] are the main, almost database-like, chapters discussing each sentence structure separately. Finally, Chapters [-@sec:adj] to [-@sec:subordination] discuss additional phenomena that are related to diathesis.
-
-In this book, each diathesis has its own sub-subsection with an unique section header that can be used as a name to refer to the diathesis (e.g. [@sec:participles-werden-passive] on the "*werden + Partizip* passive"). Many of these unique names are quite boring, but hopefully descriptively useful for future reference. Individual verbs (often with concrete examples) are listed with each diathesis to show the extend of its applicability. Neither these lists of verbs nor the examples are intended to be exhaustive in any way. They should be seen as a first step towards more in-depth research into individual diatheses or into the different constructional possibilities that exist for individual verbs.
+#### Previous research {.unnumbered}
 
 The current attempt to present an all-encompassing survey of German diatheses builds on a rich scholarly tradition (with many scholarly precursors to be cited in appropriate places throughout this work). A comparable and highly influential survey of diathesis for English is Levin [-@levin1993], followed by a similar attempt for German by Sauerland [-@sauerland1994]. A recent cross-linguistic survey of valency and diathesis in this tradition is edited by Malchukov & Comrie [-@malchukov2015a], which also includes data on German [@haspelmath2013a]. Independent of Levin's work, there is a long tradition in the German grammatical literature to investigate diathesis, e.g. as '*Konversenverhältnis der Aktanten*' [@eroms1980: 24; cf. @heringer1968]. An early attempt at a survey of various diatheses is presented by Höhle [-@hohle1978]. Basic summaries of german diathesis in the context of valency can be found in Eroms [-@eroms2000: Ch. 10] or Ágel [-@agel2000: Ch. 6]. There also are a few monographs about specific German diatheses [e.g. @leirbukt1997; @holl2010; @jager2013] and recently some corpus studies into the effect of specific diatheses on individual verbs have appeared [@devaere2018; @imo2018; @dux2020: Ch. 6].
 
 Diathesis is of course closely linked to the concept of valency, so the groundbreaking valency dictionary for German by Helbig and Schenkel [-@helbig1991] deserves mentioning. They identify the problem that certain verbs can be used in different constructions, but diatheses are not investigated consistently in their dictionary. Another highly influential valency dictionary for German, edited by Schumacher [-@schumacher1986; also the precursor @engel1978], discusses passive diatheses for all verb. I see the current survey of German diatheses as a first step in extending such valency dictionaries into even more all-encompassing dictionaries that discuss all possible clause constructions for each verb.
+
+#### Structure of this book {.unnumbered}
+
+This first chapter summarises the basic definitional properties of diathesis. The next Chapter [-@sec:structure] describes in detail how diatheses are analysed and classified. Chapter [-@sec:summary] presents a summary of the about 75 major German diatheses and proposes German names for those structures. As a small extra, Chapter [-@sec:epithesis] summarizes non-diathetical structures. Chapters [-@sec:case] to [-@sec:zuminfinitive] are the main, almost database-like, chapters discussing each sentence structure separately.
+
+In this book, each diathesis has its own sub-subsection with an unique section header that can be used as a name to refer to the diathesis (e.g. [@sec:participles-werden-passive] on the "*werden + Partizip* passive"). Many of these unique names are quite boring, but hopefully descriptively useful for future reference. Individual verbs (often with concrete examples) are listed with each diathesis to show the extend of its applicability. Neither these lists of verbs nor the examples are intended to be exhaustive in any way. They should be seen as a first step towards more in-depth research into individual diatheses or into the different constructional possibilities that exist for individual verbs.
 
 ## Defining diathesis {#sec:intro-basic-definition}
 
@@ -357,7 +361,7 @@ d. ^* Ich breche ein Loch.
 e. Ich breche den Felsen.
 :::
 
-Finally, all complement clauses are arguments [@next a,b], see Chapter [-@sec:subordination]. Complement clauses can be questioned by *was* [@next c] and pronominalised by a definite pronoun *es* [@next d] or an indefinite pronoun *(irgend)etwas* [@next e]. Complement clauses are thus syntactically highly similar to case marked noun phrases. Caution should be taken when interpreting pronominalised examples like [@next d,e], because it is not immediately obvious whether the pronouns are replacing a case-marked noun phrase or a complement clause. For example, with the verb *hoffen* [@next e] it is not possible to replace the pronoun *es* with a noun phrase, though a governed prepositional phrase with *auf* is possible [@next f].
+Finally, all complement clauses are arguments [@next a,b]. Complement clauses can be questioned by *was* [@next c] and pronominalised by a definite pronoun *es* [@next d] or an indefinite pronoun *(irgend)etwas* [@next e]. Complement clauses are thus syntactically highly similar to case marked noun phrases. Caution should be taken when interpreting pronominalised examples like [@next d,e], because it is not immediately obvious whether the pronouns are replacing a case-marked noun phrase or a complement clause. For example, with the verb *hoffen* [@next e] it is not possible to replace the pronoun *es* with a noun phrase, though a governed prepositional phrase with *auf* is possible [@next f].
 
 ::: ex
 a. Er hofft, dass er rechtzeitig kommt.
@@ -370,7 +374,7 @@ f. Er hofft auf eine gute Note.
 
 ### *es* Arguments {#sec:intro-es}
 
-A further kind of utterance-valency argument can be instantiated by *es*, the 3rd person nominative/accusative pronoun in the neuter gender. There are various uses of this pronoun that have to be distinguished. The most obvious use the pronouns *es* is for anaphoric reference (~~phoric~~ *es*). However, the next two uses not have argument-status (viz. ~~correlative~~ and ~~position-simulating~~ *es*). Most interestingly in the current context, the fourth usage of *es* does not have anaphoric reference, but will still be counted as an argument (viz. ~~valency-simulating~~ *es*). 
+A further kind of utterance-valency argument can be instantiated by *es*, the 3rd person nominative/accusative pronoun in the neuter gender. There are various uses of this pronoun that have to be distinguished. The most obvious use the pronouns *es* is for anaphoric reference (~~phoric~~ *es*). The next two uses do not have argument-status (viz. ~~correlative~~ and ~~position-simulating~~ *es*). Most interestingly in the current context, the fourth usage of *es* does not have anaphoric reference, but will still be counted as an argument (viz. ~~valency-simulating~~ *es*). 
 
 First, *es* can be used for anaphoric reference to neuter nouns, as shown in [@next]. There are various other variants of such ~~phoric~~ usage, for example it also occurs without direct gender agreement [@czicza2014: Ch. 2]. 
 
@@ -580,7 +584,7 @@ So, in summary, the role-remapping in the diathesis [@last] is categorised as:
 
 ### Combining diatheses
 
-Different diatheses can be applied one after the other, forming ~~stacks~~ of diatheses. The term 'stacking' is introduced here explicitly in opposition to 'subordinating'. Subordination (see Chapter [-@sec:subordination]) leads to non-coherent multi-clause constructions, while stacks always remain coherent and thus monoclausal.
+Different diatheses can be applied one after the other, forming ~~stacks~~ of diatheses. The term 'stacking' is introduced here explicitly in opposition to 'subordinating'. Subordination leads to non-coherent multi-clause constructions, while stacks always remain coherent and thus monoclausal.
 
 Stacked diatheses can lead to convoluted role-remappings. A beautiful example of such stacking of diatheses is given by Dixon [-@dixon2014: 252] for the Amazonian language Paumarí. Here, the root *noki-* 'to see' is transparently related to the meaning 'to show' through a series of derivational diatheses, viz. *noki-* 'to see', *noki-a-* 'to be visible', *na-noki-a-* 'to become visible', and finally *na-noki-a-hi-* 'to make become visible' i.e. 'to show'. 
 
@@ -2127,9 +2131,9 @@ b. Er macht die Wiese zu einem Garten.
 
 ## Delocative diatheses ~~[PBJ › Ø]~~
 
-### *Präverb Antilokativ* {#sec:summary-praverb-antilokativ}
+### *Präverb Delokativ* {#sec:summary-praverb-delokativ}
 
-The ~~Präverb Antilokativ~~ (full discussion in [@sec:preverb-intransitive-antiresultative] and subsequent sections) is a diathesis in which an obligatory location loses its obligatoriness by adding a preverb. For example, the diathesis between *steigen aus* and *aussteigen* 'to get out' [@next] shows a small but crucial difference in that the prepositional phrase *aus dem Auto* loses its obligatory status.
+The ~~Präverb Delokativ~~ (full discussion in [@sec:preverb-intransitive-antiresultative] and subsequent sections) is a diathesis in which an obligatory location loses its obligatoriness by adding a preverb. For example, the diathesis between *steigen aus* and *aussteigen* 'to get out' [@next] shows a small but crucial difference in that the prepositional phrase *aus dem Auto* loses its obligatory status.
 
 ::: ex
 a. Der Man steigt aus dem Auto.
@@ -2138,9 +2142,9 @@ c. Der Mann steigt (aus dem Auto) aus.
 d. Der Mann steigt aus.
 :::
 
-### *Adverb Antilokativ* {#sec:summary-adverb-antilokativ}
+### *Adverb Delokativ* {#sec:summary-adverb-delokativ}
 
-The ~~Adverb Antilokativ~~ (full discussion in [@sec:adverbs-antiresultative] and subsequent sections) is a parallel diathesis compared to the previous *Präverb Antilokativ* ([@sec:summary-praverb-antilokativ]). Instead of adding a preverb, this diathesis adds an obligatory resultative adverb, like *los* 'loose'. The diathesis between *binden* 'to tie' and *losbinden* 'to untie' removes the obligatory status of the locative prepositional phrase.
+The ~~Adverb Delokativ~~ (full discussion in [@sec:adverbs-antiresultative] and subsequent sections) is a parallel diathesis compared to the previous *Präverb Delokativ* ([@sec:summary-praverb-delokativ]). Instead of adding a preverb, this diathesis adds an obligatory resultative adverb, like *los* 'loose'. The diathesis between *binden* 'to tie' and *losbinden* 'to untie' removes the obligatory status of the locative prepositional phrase.
 
 ::: ex
 a. Ich binde den Hund an die Leine.
@@ -2227,7 +2231,7 @@ c. ^* Ich breche ein Loch.
 
 ### *Präverb Antiresultativ* {#sec:summary-antiresultativ}
 
-The ~~Präverb Antiresultativ~~ (full discussion in [@sec:preverb-location-antiresultative]) is the reverse of the previous *Resultativ* ([@sec:summary-resultativ]). Verbs like *pressen* 'to squeeze' [@next a] obligatorily take an accusative result, here *Saft* 'juice', and a prepositional object from which the result originates, here *aus der Zitrone* 'from the citron' [@next b]. With a preverb *auspressen* 'to squeeze' [@next c] the accusative result is dropped ('deobjective') and the originating prepositional object from which the result was produced is turned into a new accusative role ('applicative'). However, these two remappings are tightly intertwined and can only be used together. Semantically, there is a close connection to the *Präverb Antilokativ* diathesis ([@sec:summary-praverb-antilokativ]), though there is no chained remapping in the latter.
+The ~~Präverb Antiresultativ~~ (full discussion in [@sec:preverb-location-antiresultative]) is the reverse of the previous *Resultativ* ([@sec:summary-resultativ]). Verbs like *pressen* 'to squeeze' [@next a] obligatorily take an accusative result, here *Saft* 'juice', and a prepositional object from which the result originates, here *aus der Zitrone* 'from the citron' [@next b]. With a preverb *auspressen* 'to squeeze' [@next c] the accusative result is dropped ('deobjective') and the originating prepositional object from which the result was produced is turned into a new accusative role ('applicative'). However, these two remappings are tightly intertwined and can only be used together. Semantically, there is a close connection to the *Präverb Delokativ* diathesis ([@sec:summary-praverb-delokativ]), though there is no chained remapping in the latter.
 
 ::: ex
 a. Ich presse den Saft aus der Zitrone.
@@ -2235,11 +2239,11 @@ b. ^* Ich presse den Saft.
 c. Ich presse die Zitrone aus.
 :::
 
-# Summary of major epitheses
+# Summary of major epitheses {#sec:epithesis}
 
 ## Verbal categories reconsidered
 
-Browsing any grammatical description of verbal categories in German will mostly turn up discriptions of Latinate terms like *Plusquamperfekt* [@next a] or *Futur II* [@next b]. There is nothing wrong with those, except that there is so much more that is mostly only sparingly discussed, like the habitual [@next c] or the absentive [@next d]. For example, the Duden grammar spends 20 pages on tense marking [-@duden2009: 496-516], while other coherent verbal constructions are discussed in just four pages [-@duden2009: 848-852]. This chapter can be read as an attempt at a complete survey of all German verbal categories besides tense marking. 
+Browse any grammatical description of verbal categories in German, and Latinate terms like *Plusquamperfekt* [@next a] or *Futur II* [@next b] will surely pass by. There is nothing wrong with those terms, but they describe rather special combinations of verbal markers. In contrast, there are many basic verbal constructions that are mostly only sparingly discussed in German grammars, if at all, like a specialised *pflegen + zu-Infinitiv* habitual [@next c] or *sein + Infinitiv* absentive [@next d]. For example, the Duden grammar spends 20 pages on details of tense marking [-@duden2009: 496-516], while other coherent verbal constructions are discussed in just four pages [-@duden2009: 848-852]. This chapter can be read as an attempt at a complete survey of all German verbal categories besides tense marking. 
 
 ::: ex
 - Wer hatte dir die Adresse gegeben?

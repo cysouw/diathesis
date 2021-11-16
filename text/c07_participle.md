@@ -1,4 +1,4 @@
-# Light verb + participle alternations {#sec:participle}
+# Light-verb alternations with participles {#sec:participle}
 
 ## Introduction
 
