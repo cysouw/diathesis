@@ -38,7 +38,8 @@ The following eleven diatheses seem prominent enough to grant them a German name
 
 - ~~[SBJ › Ø]~~ *werden* ~~Unpersönlicher Vorgangspassiv~~ (see [@sec:participles-werden-impersonal-passive] ff.)
 - ~~[OBJ › SBJ › Ø]~~ *bleiben* ~~Kontinuativantikausativ~~ (see [@sec:participles-bleiben-transitive])
-- ~~[OBJ › SBJ › Ø]~~ *aussehen/(er)scheinen/wirken* ~~Apparitivantikausativ~~ (see [@sec:participles-aussehen-anticausative])
+- ~~[OBJ › SBJ › Ø]~~ *aussehen/wirken* ~~Sinnesantikausativ~~ (see [@sec:participles-wirken-anticausative])
+- ~~[OBJ › SBJ › Ø]~~ *scheinen/erscheinen* ~~Inferenzantikausativ~~ (see [@sec:participles-scheinen-anticausative])
 - ~~[OBJ › SBJ › Ø]~~ *geben/zeigen* ~~Präsentativantikausativ~~ (see [@sec:participles-geben-reflexive-anticausative])
 - ~~[OBJ › SBJ › PBJ]~~ *sein* ~~Erlebnispassiv~~ (see [@sec:participles-sein-conversive])
 - ~~[OBJ › SBJ › ADJ]~~ *sein* ~~Zustandspassiv~~ (see [@sec:participles-sein-zustandspassiv])
@@ -1037,7 +1038,7 @@ Movement verbs with the preverbs *ˈab-* (in the meaning 'along') and *ˈdurch-*
 
 **Notes**
 
-The verb *laufen* allows for both *sein* and *haben* in the intransitive (see [@sec:participles-haben-sein-perfect]), while also allowing for a resultative accusative (see [@[@sec:case-accusative-addition]]). Because of this both *haben* and *sein* appear possible in transitive constructions [@next].
+The verb *laufen* allows for both *sein* and *haben* in the intransitive (see [@sec:participles-haben-sein-perfect]), while also allowing for a resultative accusative (see [@sec:case-accusative-addition]). Because of this both *haben* and *sein* appear possible in transitive constructions [@next].
 
 ::: ex
 - Ich habe den Marathon gelaufen.

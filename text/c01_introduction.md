@@ -1646,7 +1646,7 @@ b. Die Schüler lösen die Aufgabe. \
 
 ### *Zustandspassiv* (*sein + Partizip*) {#sec:summary-zustandspassiv}
 
-The ~~Zustandspassiv~~ (full discussion in [@sec:participles-sein-zustandspassiv]) consists of a light verb *sein* with a participle [@next]. Although this diathesis is traditionally called 'passive' in German grammar, the status of the retained agent is problematic [@next b]. It might thus be better to consider this diathesis to be an anticausative. However, because of the long tradition I hold on to the term *Zustandspassiv*. The closely-related *sein + Partizip* ~~Erlebnispassiv~~ (see [@sec:summary-erlebnispassiv]) retains the subject with a governed preposition. Also the *sein + Partizip* ~~Perfekt~~ as found with some intransitive verbs (see [@sec:summary-sein-perfekt]) is arguably also the same construction, though applied to different verbs.
+The ~~Zustandspassiv~~ (full discussion in [@sec:participles-sein-zustandspassiv]) consists of a light verb *sein* with a participle [@next]. Although this diathesis is traditionally called 'passive' in German grammar, the status of the retained agent is problematic [@next b]. It might thus be better to consider this diathesis to be an anticausative. However, because of the long tradition I hold on to the term *Zustandspassiv*. The closely-related *sein + Partizip* ~~Erlebnispassiv~~ (see [@sec:summary-erlebnispassiv]) retains the subject with a governed preposition. Also the *sein + Partizip* ~~Perfekt~~ as found with some intransitive verbs (see [@sec:summary-zustandsperfekt]) is arguably also the same construction, though applied to different verbs.
 
 ::: ex
 a. Ich verkaufe den Schrank.
@@ -1673,7 +1673,7 @@ b. Ich bekomme die Haare geschnitten (vom Friseur).
 
 ### *Pertinenzpassiv* (*haben + Partizip*) {#sec:summary-pertinenzpassiv}
 
-The ~~Pertinenzpassiv~~ (full discussion in [@sec:participles-haben-passive]) is a special construction because it looks identical to the *haben Perfekt* (see [@sec:summary-haben-perfekt]), often even being ambiguous among the two interpretations. However, the *Pertinenzpassiv* is functionally much closer to the *Rezipientenpassiv*. The new nominative subject *der Minister* 'the minister' [@next b] is the (dative) experiencer/benefactor of the cutting [@next a]. The original agent of the cutting *Friseur* 'barber' can only be retained with difficulty, so this diathesis looks closer to an anticausative. However, there is a well-known effect that this *Pertinenzpassiv* becomes much more common when stacked with a modal auxiliary like *wollen* 'to want' [@next c]. In such a stack, the original agent can clearly be retained.
+The ~~Pertinenzpassiv~~ (full discussion in [@sec:participles-haben-passive]) is a special construction because it looks identical to the *haben Perfekt* (see [@sec:summary-prozessperfekt]), often even being ambiguous among the two interpretations. However, the *Pertinenzpassiv* is functionally much closer to the *Rezipientenpassiv*. The new nominative subject *der Minister* 'the minister' [@next b] is the (dative) experiencer/benefactor of the cutting [@next a]. The original agent of the cutting *Friseur* 'barber' can only be retained with difficulty, so this diathesis looks closer to an anticausative. However, there is a well-known effect that this *Pertinenzpassiv* becomes much more common when stacked with a modal auxiliary like *wollen* 'to want' [@next c]. In such a stack, the original agent can clearly be retained.
 
 The designation *pertinenz* refers to the fact that the new subject is necessarily the possessor of the accusative object *Haare*, 'hair'. Such inherent possessors turn up in various diatheses, and all instances will be designated with the qualifier *pertinenz*. The most famous one is the ~~pertinenzdativ~~ (see [@sec:summary-pertinenzdativ]), but there are various others, like the ~~pertinenzinversiv~~ (see [@sec:summary-pertinenzinversiv]) and the ~~ortspertinenzinversiv~~ (see [@sec:summary-ortspertinenzinversiv]).
 
@@ -1873,7 +1873,7 @@ b. Sie weiß den Nachlass (im Archiv) gut aufgehoben. \
    (= Sie weiß, dass der Nachlass (im Archiv) gut aufgehoben ist.)
 :::
 
-This *Transitiv Opiniativ* can of course easily be united with the previous *Opiniativ* into a single diathesis by noticing, for example, that both can be rephrased with a complement clause with *sein* and a participle, compare [@llast b] and [@last b]. However, this implies that when both *Opiniativ* diatheses are united, then the *sein-Perfekt* in [@llast b], see [@sec:summary-sein-perfekt], and the *Zustandspassiv* in [@last b], see [@sec:summary-zustandspassiv], have to be united as well (there is a perfect parallelism here). Now, there is nothing against this second unification (see [@sec:participle-different-diatheses] for a discussion), but exactly this point has been rather controversially discussed in the German grammatical literature. So either both are unified, or both are separated. Because I have separated the *Zustandspassiv* and the *sein-Perfekt* in this summary, I consequently also separate the two *Opiniativ* diatheses.
+This *Transitiv Opiniativ* can of course easily be united with the previous *Opiniativ* into a single diathesis by noticing, for example, that both can be rephrased with a complement clause with *sein* and a participle, compare [@llast b] and [@last b]. However, this implies that when both *Opiniativ* diatheses are united, then the *sein-Perfekt* in [@llast b], see [@sec:summary-zustandsperfekt], and the *Zustandspassiv* in [@last b], see [@sec:summary-zustandspassiv], have to be united as well (there is a perfect parallelism here). Now, there is nothing against this second unification (see [@sec:participle-different-diatheses] for a discussion), but exactly this point has been rather controversially discussed in the German grammatical literature. So either both are unified, or both are separated. Because I have separated the *Zustandspassiv* and the *sein-Perfekt* in this summary, I consequently also separate the two *Opiniativ* diatheses.
 
 ### *Passivkausativ* (*lassen + Infinitiv*) {#sec:summary-passivkausativ}
 
@@ -2235,7 +2235,7 @@ b. ^* Ich presse den Saft.
 c. Ich presse die Zitrone aus.
 :::
 
-# --- Summary of major epitheses ---
+# Summary of major epitheses
 
 ## Verbal categories reconsidered
 
@@ -2272,7 +2272,7 @@ Aditionally, I have added a section for epithetical construction that influence 
 
 ## Temporal aspect {#sec:epithesis-temporal-aspect}
 
-### *Prozessperfekt* (*haben + Partizip*) {#sec:summary-haben-perfekt}
+### *Prozessperfekt* (*haben + Partizip*) {#sec:summary-prozessperfekt}
 
 (full discussion in [@sec:participles-haben-perfect] and subsequent sections)
 
@@ -2281,7 +2281,7 @@ a. Das Kind schläft.
 b. Das Kind hat geschlafen.
 :::
 
-### *Zustandsperfekt* (*sein + Partizip*) {#sec:summary-sein-perfekt}
+### *Zustandsperfekt* (*sein + Partizip*) {#sec:summary-zustandsperfekt}
 
 (full discussion in [@sec:participles-sein-perfect] and subsequent sections)
 
@@ -2351,7 +2351,7 @@ b. Ich bin meinen Freund besuchen.
 
 ### *Abitiv* (*gehen/fahren + Infinitiv*) {#sec:summary-abitiv}
 
-The ~~Abitiv~~ (from Lat. *abire* 'to depart', full discussion in [@#sec:infinitive-gehen-abitive]) consistis of the light verbs *gehen* or *fahren* together with an infinitive [@next]. This construction express that the subject is leaving to pursue the activity as described by the verb. It is closely related to the *Absentiv* (see [@sec:summary-absentiv]).
+The ~~Abitiv~~ (from Lat. *abire* 'to depart', full discussion in [@sec:infinitive-gehen-abitive]) consistis of the light verbs *gehen* or *fahren* together with an infinitive [@next]. This construction express that the subject is leaving to pursue the activity as described by the verb. It is closely related to the *Absentiv* (see [@sec:summary-absentiv]).
 
 ::: ex
 a. Ich besuche meinen Freund.
@@ -2360,7 +2360,7 @@ b. Ich gehe/fahre meinen Freund besuchen.
 
 ### *Aditiv* (*kommen + Infinitiv*) {#sec:summary-aditiv}
 
-The ~~Aditive~~ (from Lat. *adire* 'to approach', full discussion in [@#sec:infinitive-kommen-aditive]) consists of the light verb *kommen* with an infinitive [@next]. It conveys that the subject is approaching to pursue an activity, i.e. the reversal of the *Abitiv* (see [@sec:summary-abitiv]).
+The ~~Aditive~~ (from Lat. *adire* 'to approach', full discussion in [@sec:infinitive-kommen-aditive]) consists of the light verb *kommen* with an infinitive [@next]. It conveys that the subject is approaching to pursue an activity, i.e. the reversal of the *Abitiv* (see [@sec:summary-abitiv]).
 
 ::: ex
 a. Ich besuche meinen Freund.
@@ -2439,7 +2439,7 @@ b. Der Lehrer weiß/versteht die Schüler zu begeistern.
 c. Es ist bekannt, dass der Lehrer die Schüler zu begeistern weiß/versteht.
 :::
 
-### *Effekativ* (*bekommen/kriegen + Partizip*) {#sec:summary-}
+### *Effekativ* (*bekommen/kriegen + Partizip*) {#sec:summary-effekativ}
 
 (full discussion in [@sec:participles-bekommen-achievement]) *können*
 
@@ -2493,7 +2493,7 @@ b. ^* Das Kind scheint geschlafen.
 
 ### *Negative Wertungsevidenz* (*drohen + zu-Infinitiv*)
 
-The marking of ~~Negative Wertungsevidenz~~ (full discussion in [@@sec:zuinfinitive-drohen]) consists of the verb *drohen* with a *zu-Infinitiv* [@next a]. This construction conveys that the speaker of the utterance has direct evidence for the proposition, while implying a negative evaluation from the speaker's point of view. When used as a speech-act verb *drohen* means 'to threaten' and can also be used with a *zu-Infinitiv*. However, only in its evidential usage will *drohen* construct coherently [@next b,c].
+The marking of ~~Negative Wertungsevidenz~~ (full discussion in [@sec:zuinfinitive-drohen]) consists of the verb *drohen* with a *zu-Infinitiv* [@next a]. This construction conveys that the speaker of the utterance has direct evidence for the proposition, while implying a negative evaluation from the speaker's point of view. When used as a speech-act verb *drohen* means 'to threaten' and can also be used with a *zu-Infinitiv*. However, only in its evidential usage will *drohen* construct coherently [@next b,c].
 
 ::: ex
 a. Das Wetter droht schlecht zu werden.
@@ -2503,7 +2503,7 @@ c. Es ist bekannt, dass er droht, das Licht auszuschalten.
 
 ### *Positive Wertungsevidenz* (*versprechen + zu-Infinitiv*)
 
-The marking of ~~Positive Wertungsevidenz~~ (full discussion in [@@sec:zuinfinitive-drohen]) is composed of the verb *versprechen* with a *zu-Infinitiv* [@next a]. Similar to the previous construction with *drohen*, the verb *versprechen* with a *zu-Infinitiv* also expresses a direct evidential, though now with a positive evaluation. When used as a speech-act verb *versprechen* 'means to promise' and is commonly used with a *zu-Infinitiv*. However, only in its evidential usage does *versprchen + zu-Infinitiv* construct coherently [@next b,c].
+The marking of ~~Positive Wertungsevidenz~~ (full discussion in [@sec:zuinfinitive-drohen]) is composed of the verb *versprechen* with a *zu-Infinitiv* [@next a]. Similar to the previous construction with *drohen*, the verb *versprechen* with a *zu-Infinitiv* also expresses a direct evidential, though now with a positive evaluation. When used as a speech-act verb *versprechen* 'means to promise' and is commonly used with a *zu-Infinitiv*. However, only in its evidential usage does *versprchen + zu-Infinitiv* construct coherently [@next b,c].
 
 ::: ex
 a. Das Wetter verspricht gut zu werden.

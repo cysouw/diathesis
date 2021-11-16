@@ -149,9 +149,9 @@ function countPara (doc)
         -- remove reference from text
         table.remove(doc.blocks[i].content, 1)
         -- remove possible space
-        if doc.blocks[i].content[1].tag == "Space" then
-          table.remove(doc.blocks[i].content, 1)
-        end
+--      if doc.blocks[i].content[1].tag == "Space" then
+--        table.remove(doc.blocks[i].content, 1)
+--        end
       end
 
       -- insert number
