@@ -270,7 +270,7 @@ b. Ich habe mir das Haus angesehen.
 
 Methodologically, I see the approach in this book as an attempt to unify grammatical research with lexicographic research, two aspects of linguistics that are often considered to be separate inquiries. In contrast to such a separation, I would like to propose a view of linguistics that might be called ~~grammar of the lexicon~~ [cf. @levin1993: 2-4, but one might just as well include all of construction grammar here]. In this approach, each grammatical phenomenon should always be linked to individual occurrences, either types (lexicon) or tokens (corpus). It is my experience from compiling the current compendium of diatheses that identifying and characterising a specific structure is really just 'step one' of grammatical research. Only by trying to find more examples, with different lexemes and in different contexts, it becomes clear how prominent and varying a grammatical structure really is.
 
-As as rule-of-thumb, I propose the ~~10-(examples)-in-10-(minutes)-rule~~ as 'step two' of grammatical research. If you think that a particular construction is widespread, or maybe typical for a specific class of words (e.g. typical for 'intransitives'), then take 10 minutes to search for examples, either in your own intuitions or in one of the many online databases or corpora. Resources like the *Digitales Wörterbuch der deutschen Sprache* ([DWDS](https://www.dwds.de)), the various online offerings of the *Institut für Deutsche Sprache* ([IDS](https://www1.ids-mannheim.de/onlineangebote)), or just a Google 'exact search' are really just a click away and completely rejuvenate linguistic research. If you are not able to list 10 examples in 10 minutes, then go back to the drawing board and reconsider your intuitions.
+As as rule-of-thumb, I propose the ~~10-in-10-rule~~ as 'step two' of grammatical research. If you think that a particular construction is widespread, or maybe typical for a specific class of words (e.g. typical for 'intransitives'), then take 10 minutes to search for examples, either in your own intuitions or in one of the many online databases or corpora. Resources like the *Digitales Wörterbuch der deutschen Sprache* ([DWDS](https://www.dwds.de)), the various online offerings of the *Institut für Deutsche Sprache* ([IDS](https://www1.ids-mannheim.de/onlineangebote)), or just a Google 'exact search' are really just a click away and completely rejuvenate linguistic research. If you are not able to list 10 examples in 10 minutes, then go back to the drawing board and reconsider your intuitions.
 
 Such a quick-and-dirty 10-minute survey of course still only represents a preliminary step. It is this level of detail that I have aimed for in this book. Each sub-subsection about an individual diathesis lists lexemes that can be used in this diathesis, and includes examples of the diathesis, either from my own intuitions or from any of the above mentioned databases. I plan to fine-tune these lists in future revisions of this book, but the real research is only yet to come. Next steps would be the in-depth investigation of individual diathesis by sampling examples in corpora and formulating predictive parameters to explain their usage. For example, De Vaere *et al.* [-@devaere2018] investigate the dative antipassive (see [@sec:prepositions-dative-antipassive-accusative]) for just a single lexeme *geben*. As there are hundreds of diatheses and hundreds of verbs listed in this book, this shows that there are tens of thousands of similar such research projects just waiting to be tackled.
 
@@ -280,11 +280,11 @@ Such a quick-and-dirty 10-minute survey of course still only represents a prelim
 
 In their cross-linguistic survey of diathesis, Zuñiga & Kittilä [-@zuniga2019] distinguish between the terms 'diathesis', 'diathetical operation', 'grammatical voice' and 'transitivity'. I completely subscribe to these conceptual distinctions. However, throughout this book I have decided to simplify the terminology and basically use the term 'diathesis' for all four concepts. Still, the concepts ~~valency~~ ([@sec:intro-valency]), ~~voice~~ ([@sec:intro-voice]), and ~~diathetical operation~~ ([@sec:intro-diathetical-operations]) are central in the analysis of the structure of a diathesis and will be discussed extensively in this chapter. Two new concepts are introduced as well, namely ~~stacking~~ ([@sec:intro-stacking]) and ~~chaining~~ ([@sec:intro-chaining]). Finally, I will present an extensive discussion about ~~naming~~ diatheses ([@sec:intro-naming]).
 
-A diathesis (as defined here) is an alternation between two clausal construction. To be more precise, this is what is called a 'diathetical operation' in Zuñiga & Kittilä [-@zuniga2019: 4], see [@sec:intro-diathetical-operations]. Each of the alternants show a different mapping of (grammatical) expressions onto (semantic) roles. Individually, each such mapping between expressions and roles is called a 'diathesis' in Zuñiga & Kittilä [-@zuniga2019: 4]. However, because I will only consider diathetical operations between an 'unmarked' basic clause and a 'marked' alternant, I have decided to simplify the terminology in this book. Both the alternation itself (Zuñiga & Kittilä's 'diathetical operation', e.g. 'causativisation') and the derived alternant (Zuñiga & Kittilä's 'diathesis', e.g. 'causative') will be referred to here simply as ~~diathesis~~. 
+A diathesis (as defined here) is an alternation between two clausal construction. To be more precise, this is what is called a 'diathetical operation' in Zuñiga & Kittilä [-@zuniga2019: 4], see [@sec:intro-diathetical-operations]. Each of the alternants show a different mapping of (grammatical) expressions onto (semantic) roles. Individually, each such mapping between expressions and roles is called a 'diathesis' in Zuñiga & Kittilä [-@zuniga2019: 4]. However, because I will only consider diathetical operations between an unmarked basic clause and a marked alternant, I have decided to simplify the terminology in this book. Both the alternation itself (Zuñiga & Kittilä's 'diathetical operation', e.g. 'causativisation') and the derived alternant (Zuñiga & Kittilä's 'diathesis', e.g. 'causative') will be referred to here simply as a ~~diathesis~~, from Greek *διάθεσις* 'placement in order, (re)arrangement'.
 
-A side-effect of this approach is that 'active' is not a diathesis, but simply the unmarked counterpart of a diathetical operation. Even stronger, I will refrain from using the term 'active' because it immediately conjures up 'passive' as its antithesis. This opposition is too much of an oversimplification as 'passive' is just one of the hundreds of possible diatheses. Also, the 'active' does not necessarily describes an action, so content-wise this term is likewise ill-fitting. As an alternative, I will use the term ~~basic clause~~ as the unmarked base of comparison for all clause alternations. A basic clause is a clause with a single (finite) verb from, either in the German *Präsens* or *Imperfekt* tense.^[Strictly speaking, a basic clause can also be a clause with a single finite verb form in the *Konjunktiv I* or *Konjunktiv II*. However, because these are rather rare nowadays I have hidden this option in this footnote.] All other verb forms, including the *Perfekt* and the other traditional German tense-aspect distinctions, are all ~~derived clauses~~, i.e. the result of some kind of clause alternations. A clause alternation without diathesis will be called ~~epithesis~~, from Greek *ἐπίθεσις* 'placement upon, imposition'. Epithesis is grammatical marking 'on top of' a basic clause.^[There appears to be a rare alternative usage to the term 'epithesis' in linguistics to indicate the addition of a sound to the end of the word, i.e. a special kind of epenthesis, see for example <http://www.websters1913.com/words/Epithesis>.] A clause alternation with diathesis is simple referred to as ~~diathesis~~, from Greek *διάθεσις* 'placement in order, (re)arrangement'.
+A side-effect of this approach is that 'active' is not a diathesis, but simply the unmarked counterpart of a diathetical operation. Even stronger, I will refrain from using the term 'active' because it immediately conjures up 'passive' as its antithesis. This opposition is too much of an oversimplification as 'passive' is just one of the hundreds of possible diatheses. Also, the 'active' does not necessarily describes an action, so content-wise this term is likewise ill-fitting. As an alternative, I will use the term ~~basic clause~~ as the unmarked base of comparison for all clause alternations. A basic clause is a clause with a single (finite) verb from, either in the German *Präsens* or *Imperfekt* tense.^[Strictly speaking, a basic clause can also be a clause with a single finite verb form in the *Konjunktiv I* or *Konjunktiv II*. However, because these are rather rare nowadays I have hidden this option in this footnote.] All other verb forms, including the *Perfekt* and the other traditional German tense-aspect distinctions, are all ~~derived clauses~~, i.e. the result of some kind of clause alternations. A clause alternation without diathesis will be called ~~epithesis~~, from Greek *ἐπίθεσις* 'placement upon, imposition'. Epithesis is grammatical marking 'on top of' a basic clause.^[There appears to be a rare alternative usage to the term 'epithesis' in linguistics to indicate the addition of a sound to the end of the word, i.e. a special kind of epenthesis, see for example <http://www.websters1913.com/words/Epithesis>.] A summary of all major epithetical constructions will be presented in the next Chapter [-@sec:epithesis].
 
-The actual linguistic marking of the diathesis (for example by verbal morphology or auxiliaries) is called 'grammatical voice' in Zuñiga & Kittilä [-@zuniga2019: 4]. In this book, each diathesis is defined as a combination of a (re-)mapping of roles and a specific kind of linguistic marking of the main predicate. So again, this extra terminological distinction is not necessary. The formal expression ('grammatical voice') is simply a definitional part of each diathesis here. Still, the different kinds of grammatical voice in German are used in this book as a major organisational characteristic for the separation of the data chapters (see [@sec:intro-voice]).
+The actual linguistic marking of the diathesis (for example by verbal morphology or auxiliaries) is called 'grammatical voice' in Zuñiga & Kittilä [-@zuniga2019: 4]. In this book, each diathesis is defined as a combination of a (re-)mapping of roles and a specific kind of linguistic marking of the main predicate. So again, this extra terminological distinction is not necessary. The formal expression ('grammatical voice') is simply a definitional part of each diathesis here. The different kinds of grammatical voice in German are used in this book as a major organisational characteristic for the separation of the data chapters (see [@sec:intro-voice]).
 
 The term 'transitivity' [@zuniga2019: 3; following @hopper1980] describes a (recurrent) connection between a diathetical operation and semantic effects on the meaning of the clause. For example, when an accusative argument is remapped onto a prepositional phrase, this often implies less involvement of the argument. The details of such semantic effects of each of the diatheses in this book is a fascinating topic, for which I unfortunately can only offer limited insights throughout. In practice, I assume that each diathesis as described here has some kind of semantic effect, but the details of these effect need much more detailed research that has to be provided by subsequent work.
 
@@ -1398,13 +1398,15 @@ b. Ich beraube dich des Buches.
 
 ## German names for German grammar
 
-Among all the diatheses that are distinguished in this survey there are many that only occur in very specific situations or might otherwise be considered to be exceptions or incidental instances. However, there are also very many diatheses that are highly frequent and can be used with very many different verbs. Those major diatheses, that are of central importance to the grammatical structure of German, will be summarised in this chapter. Such a summary would normally be presented at the end of a book, but because of the often long-winding data-driven details of the subsequent descriptive chapters I decided to present this summary here at the end of the introductory deliberations. Take it as a quick appetiser of things to come, with ample links to the actual discussion in later chapters.
+Among all the diatheses that are distinguished in this survey there are many that only occur in very specific situations or might otherwise be considered to be exceptions or incidental instances. In contrast, there are also very many diatheses that are highly frequent and can be used with very many different verbs. Those major diatheses, that are of central importance to the grammatical structure of German, will be summarised in this chapter. Such a summary would normally be presented at the end of a book, but because of the often long-winding data-driven details of the subsequent descriptive chapters, I decided to present this summary here at the end of the introductory deliberations. Take it as a quick appetiser of things to come, with ample links to the actual discussion in later chapters.
 
-To reiterate the basic premise of this book: in the chapters [-@sec:case] to [-@sec:zuminfinitive] I aim to present a complete list of all coherent, and thus monoclausal, clause structures in German (cf. [@sec:intro-coherence] on defining monoclausality). All in all, in those chapters there are 250+ separate sub-subsections that describe (often minor) variations of monoclausal structures. This diversity is condensed into about 100 major clause alternations as summarised here. Of those, about 75 are diatheses (i.e. clause alternations with role-remapping), while only about 25 are epitheses (i.e. clause alternations without any change in role marking). So, diathesis ('voice marking') is a much more diverse grammatical phenomenon than epithesis ('tense-aspect-mood' marking). All these counts should be taken with some leeway, because a lot depends on individual decisions about splitting or lumping structures into groups (e.g. how many *lassen + infinitive* constructions are counted separately, cf [@sec:infinitive-guises-of-lassen]). Although the analysis of German clause alternations might look cleaner when lumping structures into larger groups, the diversity is actually not reduced then, only hidden at the cost of larger within-group complexity.
+To reiterate the basic premise of this book: in the chapters [-@sec:case] to [-@sec:zuminfinitive] I aim to present a complete list of all coherent, and thus monoclausal, clause structures in German (cf. [@sec:intro-coherence] on defining monoclausality). All in all, in those chapters there are 250+ separate sub-subsections that describe (often minor) variations of monoclausal structures. This diversity is condensed into about 100 major clause alternations as summarised here. Of those, about 75 are diatheses (i.e. clause alternations with role-remapping, discussed in this chapter), while only about 25 are epitheses (i.e. clause alternations without any change in role marking, dicussed in the next chapter). So, diathesis ('voice marking') is a much more diverse grammatical phenomenon than epithesis ('tense-aspect-mood' marking). All these counts should be taken with some leeway, because a lot depends on individual decisions about splitting or lumping structures into groups (e.g. how many *lassen + infinitive* constructions are counted separately, cf [@sec:infinitive-guises-of-lassen]). Although the analysis of German clause alternations might look cleaner when lumping structures into larger groups, the diversity is actually not reduced then, only hidden at the cost of larger within-group complexity.
 
-Besides providing a basic summary (diatheses in this chapter, epitheses in the next), I also propose German names for all 100 major derived monoclausal sentence structures. Using suitable names is a central aspect of (scientific) communication. In grammar, names are like instruments that allow us to abstract away from individual details and manipulate classes of utterances that show a specific abstract structure. However, naming is hard and can also lead to miscommunication. When re-using available terminology, the terms are easily recognised and remembered, but they carry the weight of history. Even when detailed definitions are given (as I have tried to do throughout this book), unintended interpretations of previous usage inevitably seep through. In contrast, inventing new names introduces more precision, but the downside are often cumbersome terms that are difficult to remember. 
+Besides providing a basic summary, I also propose German names (sometimes based on Latin terms) for all 100 major derived monoclausal sentence structures. Using suitable names is a central aspect of (scientific) communication. In grammar, names are like instruments that allow us to abstract away from individual details and manipulate classes of utterances that show a specific abstract structure. However, naming is hard and can also lead to miscommunication. When re-using available terminology, the terms are easily recognised and remembered, but they carry the weight of history. Even when detailed definitions are given (as I have tried to do throughout this book), unintended interpretations of previous usage inevitably seep through. In contrast, inventing new names introduces more precision, but the downside is often cumbersome terms that are difficult to remember. 
 
 In naming diatheses in this book I have tried to strike a balance between precise naming and good readability. For the English names in the detailed discussions in the coming chapters, I have decided in favour or precision. Each phenomenon is newly named with often long descriptive and unique names. In contrast, for the German names in this chapter I try to reuse available terminology as much as possible. When necessary, I propose new names that attempt to evoke a functional description like *Reziprokativ* or *Erlebnispassiv*. However, the semantic characterisation has not been the main focus of this book, so it might become necessary to rename diatheses in the future once more detailed investigations have been performed. In some cases I have not been able to find a suitable semantic characterisation. For those diatheses I have resorted to using formal characteristics in the name, always written as separate words, like *Reflexiv Erlebnispassiv*
+
+#### Classification of diathesis {.unnumbered}
 
 In this chapter, the diatheses are organised in sections according to the macro-role remapping patterns as introduced in [@sec:intro-naming]. The different diatheses in each section are thus functionally highly similar, but they are structurally different. Inversely, there are various diatheses that structurally highly similar, but are nonetheless repeated in separate sections under different names. This is necessary because superficially identical diathesis can have rather different structural repercussions depending on the verb to which it is applied. This happens for examples with the *sein + Partizip* or the *lassen + sich + Infinitiv* constructions.
 
@@ -2243,7 +2245,7 @@ c. Ich presse die Zitrone aus.
 
 ## Verbal categories reconsidered
 
-Browse any grammatical description of verbal categories in German, and Latinate terms like *Plusquamperfekt* [@next a] or *Futur II* [@next b] will surely pass by. There is nothing wrong with those terms, but they describe rather special combinations of verbal markers. In contrast, there are many basic verbal constructions that are mostly only sparingly discussed in German grammars, if at all, like a specialised *pflegen + zu-Infinitiv* habitual [@next c] or *sein + Infinitiv* absentive [@next d]. For example, the Duden grammar spends 20 pages on details of tense marking [-@duden2009: 496-516], while other coherent verbal constructions are discussed in just four pages [-@duden2009: 848-852]. This chapter can be read as an attempt at a complete survey of all German verbal categories besides tense marking. 
+Browse any grammatical description of verbal categories in German and terms like *Plusquamperfekt* [@next a] or *Futur II* [@next b] will surely pass by. There is nothing wrong with those terms, but they describe very specific combinations of verbal markers that are mostly transparantly interpretable (e.g. *Plusquamperfekt* is simply a perfekt with past-tense finite verb). In contrast, there are many basic verbal constructions that are only sparingly discussed in German grammars, if at all. For example, the *pflegen + zu-Infinitiv* habitual [@next c] or the *sein + Infinitiv* absentive [@next d] are not widely acknowledged. As a case in point, the Duden grammar spends 20 pages on details of tense marking [-@duden2009: 496-516], while only a few select additional verbal constructions are discussed in just four pages [-@duden2009: 848-852]. This chapter can be read as an attempt at a complete survey of all those remaining German verbal categories, besides tense. 
 
 ::: ex
 - Wer hatte dir die Adresse gegeben?
@@ -2252,9 +2254,9 @@ Browse any grammatical description of verbal categories in German, and Latinate 
 - Ich bin einkaufen.
 :::
 
-This chapter arose as a side-effect of the main goal of this book, namely listing all German diatheses. To clearly delimit what counts as a diathesis, I also collected constructions that are structurally similar to diatheses, but that did not involve any role remapping. These structures are called ~~epitheses~~ and are listed in-full in the X.4 sections of the following chapters. This chapter summarises and organises the major epitheses that I have been able to find. I will also propose German names for all of these constructions.
+This chapter arose as a byproduct of the main goal of this book, namely listing all German diatheses. To clearly delimit what counts as a diathesis, I also collected constructions that are structurally similar to diatheses, but that did not involve any role remapping. These structures are called ~~epitheses~~ and are listed in-full in the respective X.4 sections of the following data chapters. This chapter summarises and organises the major epitheses that I have been able to find. I will also propose German names for all of these constructions.
 
-Quickly recapitulated, an ~~epithesis~~ is a monoclausal construction in which the lexical roles are not remapped in comparison to a basic clause (i.e. a clause with just a single finite lexical verb form). For example, a basic clause with the lexical verb *erzählen* 'to tell' [@next a] might have the roles of 'teller' (*Großvater*, nominative), 'tellee' (*Enkelin*, dative) and 'story told' (*Witz*, accusative). A construction like *pflegen + zu-Infinitiv* [@next b] is an epithesis because all these roles remain in exactly the same grammatical form. This construction is coherent because the finite *pflegte* is placed at the end in a subordinate situation.
+Quickly recapitulated, an ~~epithesis~~ is a monoclausal construction in which the lexical roles are not remapped in comparison to a basic clause (= a clause with just a single finite lexical verb form). For example, a basic clause with the finite verb *erzählen* 'to tell' [@next a] might have the roles of 'teller' (*Großvater*, nominative), 'tellee' (*Enkelin*, dative) and 'story told' (*Witz*, accusative). A construction like *pflegen + zu-Infinitiv* is an epithesis because when applied to *erzählen* all these roles remain encoded in exactly the same grammatical form [@next b]. Additionally, this construction is monoclausal because the finite *pflegte* is placed at the end in a subordinate situation (i.e. the clause is coherent, see [@sec:intro-coherence]).
 
 ::: ex
 - Der Großvater erzählt seiner Enkelin einen Witz.
@@ -2262,17 +2264,17 @@ Quickly recapitulated, an ~~epithesis~~ is a monoclausal construction in which t
 - Es ist bekannt, dass der Großvater seiner Enkelin einen Witz zu erzählen pflegte.
 :::
 
-The constructions listed in this chapter are not haphardly collected out of some infinite pool of possible analytical combinations of verb forms. Quite to the contrary, the constructions listed here are claimed to be an exhaustive list of all epithetical German verbal possibilities. Only some rare and/or old-fashioned constructions are left out from this summary. The list of epitheses in this chapter is quite long (about 25 major constructions), but manageable. Any 1000-plus-page grammar can easily add a few pages listing them all. It is also quite a bit less extensive in comparison to the list of all diatheses presented in the previous chapter (about 75 major constructions).
+The constructions listed in this chapter are not haphardly collected out of some infinite pool of possible analytical combinations of verb forms. Quite to the contrary, the constructions listed here are claimed to be an exhaustive list of all epithetical German verb forms. Only a few rare and/or old-fashioned constructions are left out from this summary (but they can still be found in the following data chapters). The list of major epitheses in this chapter is quite long (about 25 constructions), but manageable. Any 1000-plus-page grammar could easily add a few pages listing them all. This number of epitheses is also quite a bit less than the number of major diatheses presented in the previous chapter (about 75 constructions). This indicates that from a purely grammatical perspective, diathesis is a three-times more elaborate topic than epithesis. 
 
-The epitheses in this chapter thus map out all grammaticalised verbal forms of the German language. However, it is crucial to realise that not every lexical verb can be combined with each of these constructions. Just as with diatheses, each epithesis has a limited domain of applicability (cf. [@sec:intro-domain-of-application]). It is a very worthwhile future endeavour to specify these domains in more detail that I have been able to do here. A consequence of this is that one cannot simply take a random lexical verb and paradigmatically list all different epithetical forms for this verb, just like traditional grammars like to do. In contrast, it becomes a matter of lexicography to enumarate all epitheses that are compatible with each individual verb. 
+#### Classification of epitheses {.unnumbered}
 
-## Classification of epitheses
+The epithetical constructions listed in this chapter are basically organised along the lines of the ~~TAME~~ categorisation (tense-aspect-mood-evidentiality). This subdivision is not always clear-cut, it is more of a continuum. This means that the placement of a specific construction in one or the other group is more a matter of practical convenience than of strict definitional categorisation. 
 
-The epithetical constructions in this chapter are basically organised along the lines of the ~~TAME~~ (tense-aspect-mood-evidentiality) categories. This subdivision is not always clear-cut; it is more of a continuum. This means that the placement of a specific construction in one or the other category is mostly more a matter of practical convenience, more than of strict definitional categorisation. 
+~~Tense~~ will almost not be mentioned here, mainly because it does not play an important role in German epithesis. The discussion of ~~aspect~~ is separated into two kinds: temporal aspect ([@sec:epithesis-temporal-aspect]) and spatial aspect ([@sec:epithesis-spatial-aspect]). ~~Mood~~ includes the well-described modal verbs, but also some other less-widely discussed modal constructions ([@sec:epithesis-mood]). ~~Evidentiality~~ deals with the marking evidence that the speaker has for a statement. This turns out to be a very useful category for the analysis of various German epithetical constructions ([@sec:epithesis-evidentiality]). 
 
-~~Tense~~ will almost not be mentioned, mainly because it does not play an important role in German epithesis. The discussion of ~~aspect~~ is separated into two kinds: temporal aspect ([@sec:epithesis-temporal-aspect]) and spatial aspect ([@sec:epithesis-spatial-aspect]). ~~Mood~~ includes the well-described modal verbs, but also some other less-widely discussed modal constructions ([@sec:epithesis-mood]). ~~Evidentiality~~ deals with marking the evidence that the speaker has for a statement. This turns out to be a very useful category for the analysis of various German epithetical constructions ([@sec:epithesis-evidentiality]). 
+Aditionally, I have added a section with epithetical construction that change the ~~participant affectedness~~ ([@sec:epithesis-affectedness]). These constructions are intermediates between epithesis and diathesis. Structurally they are clearly epithetic, because there is no role-remapping. Yet, these constructions express a change in the relation between the participants and the lexical verb, so they might functionally be included in the realm of diathesis. 
 
-Aditionally, I have added a section for epithetical construction that influence ~~participant affectedness~~ ([@sec:epithesis-affectedness]). These constructions are intermediates between epithesis and diathesis. Structurally they are clearly epithetic, because there is no role-remapping. Yet, functionally they slightly change the relation between the participants and the lexical verb, so they belong squarely in the realm of diathetical function. 
+The epitheses listed in this chapter thus map out grammaticalised verbal categories of the German language. However, it is crucial to realise that not every lexical verb can be combined with each of these constructions. Just as with diatheses, each epithesis has a limited domain of applicability, i.e. each epithesis has a specific set of verbs that it can be applied to (cf. [@sec:intro-domain-of-application]). It is a very worthwhile future endeavour to specify these domains in more detail than I have been able to do here. Additionally, this restricted applicability means that one cannot simply take a random lexical verb and paradigmatically list all different epithetical forms for this verb, like traditional grammars like to do with tense forms. In contrast, it becomes a matter of lexicography to enumarate the epitheses that are compatible with each individual verb.
 
 ## Temporal aspect {#sec:epithesis-temporal-aspect}
 
@@ -2315,7 +2317,7 @@ The ~~Habituativ~~ (full discussion in [@sec:zuinfinitive-pflegen]) is an aspect
 
 ### *Zustandskontinuativ* (*bleiben + Infinitiv*)
 
-The ~~Zustandskontinuativ~~ (full discussion in [@sec:infinitive-bleiben]) is constructed with *bleiben* and an infinitive. It expresses that a state is continuing. This construction is frequently used with state verbs like *stehen, liegen, sitzen*, etc. [@next a,b]. These combinations are so prominent that their infinitives are ususually written as single words in German orthography, i.e. *stehenbleiben, liegenbleiben, sitzenbleiben*. These constructions are often even listed as single verbs in German dictionaries. Yet, there is no grammatical reason to give these combinations a special status compared to, for example, *wohnen bleiben* [@next c].
+The ~~Zustandskontinuativ~~ (full discussion in [@sec:infinitive-bleiben]) is constructed with *bleiben* and an infinitive. It expresses that a state is continuing. This construction is frequently used with state verbs like *stehen* 'to stand', *liegen* 'to lie', *sitzen* 'to sit', etc. [@next a,b]. These combinations are so prominent that their infinitives are ususually written as single words in German orthography, i.e. *stehenbleiben, liegenbleiben, sitzenbleiben*. These constructions are often even listed as single verbs in German dictionaries. Yet, there is no grammatical reason to give these combinations a special status compared to other constructions of *bleiben + Infinitiv* that are usually separated by a space, like for example *wohnen bleiben* 'to remain living somewhere'[@next c].
 
 ::: ex
 a. Er liegt im Bett.
@@ -2325,7 +2327,7 @@ c. Er bleibt in München wohnen.
 
 ### *Perfektkontinuativ* (*bleiben + Partizip*) {#sec:summary-perfektkontinuativ}
 
-The ~~Perfektkontinuativ~~ (full discussion in [@sec:participles-bleiben-intransitive]) is constructed with *bleiben* and a participle. Only participles of intransitive verbs can be used. Additionaly, applicable verbs need to have a *sein* perfect (see [@sec:summary-zustandsperfekt]) and should describe a potentially reversible event, like *verschwinden* 'to vanish' [@next]. When used with transitive verbs this construction results in an anticausative diathesis, here called the *Kontinuativantikausativ* (see [@sec:summary-kontinuativantikausativ]).
+The ~~Perfektkontinuativ~~ (full discussion in [@sec:participles-bleiben-intransitive]) is constructed with *bleiben* and a participle. Only participles of intransitive verbs can be used in this construction. Additionaly, applicable verbs need to have a *sein* perfect (see [@sec:summary-zustandsperfekt]) and should describe a potentially reversible event, like *verschwinden* 'to vanish' [@next]. When used with transitive verbs this construction results in an anticausative diathesis, here called the *Kontinuativantikausativ* (see [@sec:summary-kontinuativantikausativ]).
 
 ::: ex
 a. Der Schlüssel verschwindet.
@@ -2373,7 +2375,7 @@ b. Ich komme meinen Freund besuchen.
 
 ### *Aditivprogressiv* (*kommen + Partizip*)
 
-The ~~Aditivprogressiv~~ (full discussion in [@sec:participles-kommen]) expresses both a temporal aspect (progressive) and a spatial aspect (aditive). It uses the light verb *kommen* with a participle [@next a] to convey that the subject is approaching while performing a specific kind of movement. A frequent variant uses a participle with the prefix *an-* [@next b], even when the finite verb with this prefix does not exist. For example, the verb *anrennen* does not exist, only the participle *angerannt* exist in the construction with the light verb *kommen*.
+The ~~Aditivprogressiv~~ (full discussion in [@sec:participles-kommen]) expresses both a temporal aspect (progressive) and a spatial aspect (aditive). It uses the light verb *kommen* with a participle [@next a] to convey that the subject is approaching while performing a specific kind of movement. A frequent variant uses a participle with the prefix *an-*, even when the finite verb with this prefix does not exist. For example, the verb *anrennen* does not exist, only the participle *angerannt* exist in the construction with the light verb *kommen* [@next b].
 
 ::: ex
 a. Die Kinder laufen herbei. \
@@ -2401,8 +2403,7 @@ b. Das Auto steht vor der Ampel. \
 
 ## Mood {#sec:epithesis-mood}
 
-### *Modalverben* (*brauchen/dürfen/können/mögen/müssen/sollen/werden/wollen + Infinitiv*)
-{#sec:summary-modalverben}
+### *Modalverben* {#sec:summary-modalverben}
 
 (full discussion in [@sec:infinitive-modals] and subsequent sections) *dürfen/können/mögen/müssen/sollen/wollen + Infinitiv*, also *werden/brauchen*
 
@@ -2425,7 +2426,7 @@ b. Die Schüler haben die Aufgaben zu lösen.
 c. Es ist bekannt, dass die Schüler die Aufgaben zu lösen haben.
 :::
 
-A related construction uses the light verb *brauchen* 'to need' (full discussion in [@sec:zuinfinitive-brauchen]). When *brauchen* is used with a *zu-Infinitiv* a negative element [@next a] or a particle like *nur* or *bloß* [@next b] has to be present. This construction is monoclausal [@next c]. Note that *brauchen* can also be used with a bare infinitive without *zu* without any obvious change in meaning (see [@sec:summary-modalverben]). The meaning of this construction is similar to English *need not*. It expresses 'not to be obliged', but often it is quite close to 'should not' or even 'ought not'.
+A related construction uses the light verb *brauchen* 'to need' (full discussion in [@sec:zuinfinitive-brauchen]). When *brauchen* is used with a *zu-Infinitiv* a negative element [@next a] or a particle like *nur* or *bloß* [@next b] has to be present. This construction is monoclausal [@next c]. Note that *brauchen* can also be used with a bare infinitive without *zu* without any obvious change in meaning (see [@sec:summary-modalverben]). The meaning of this construction is similar to English *need not*. It expresses 'not be obliged', but often it is quite close to 'should not' or even 'ought not'.
 
 ::: ex
 - Du brauchst nicht zu schreien.
@@ -2477,7 +2478,7 @@ b. Es ist bekannt, dass der Plan zu scheitern scheint.
 
 ### *Perfektinferenz* (*scheinen/erscheinen + Partizip*) {#sec:summary-perfektinferenz}
 
-The marking of ~~Perfektinferenz~~ (full discussion in [@sec:participles-scheinen-intransitive]) consists of the verbs *scheinen* or *erscheinen* with a participle of an intransitive verb [@next a]. Typical 'agentive' intransitive verbs like *schlafen* 'to sleep' do not allow for this construction [@next b]. Similar to the previous *Imperfektinferenz* (see [@sec:summary-imperfektinferenz]) it expresses an inferential evidential in which the speaker indicates confidence in the state-of-affairs based on a deduction from available information. By using the participle, the event is marked as perfective. When used with a transitive verb the *(er)scheinen + Partizip* construction leads to an anticausative diathesis called *Inferenzantikausativ* here (see [@sec:summary-inferenzantikausativ]).
+The marking of ~~Perfektinferenz~~ (full discussion in [@sec:participles-scheinen-intransitive]) consists of the verbs *scheinen* or *erscheinen* with a participle of an intransitive verb [@next a]. Typical agentive intransitive verbs like *schlafen* 'to sleep' do not allow for this construction [@next b]. Similar to the previous *Imperfektinferenz* (see [@sec:summary-imperfektinferenz]) it expresses an inferential evidential in which the speaker indicates confidence in the state-of-affairs based on a deduction from available information. By using the participle, the event is marked as perfective. When used with a transitive verb the *(er)scheinen + Partizip* construction leads to an anticausative diathesis called *Inferenzantikausativ* here (see [@sec:summary-inferenzantikausativ]).
 
 ::: ex
 a. Der Plan scheitert. \
@@ -2487,7 +2488,7 @@ b. ^* Das Kind scheint geschlafen.
 
 ### *Sinnesevidenz* (*aussehen/wirken + Partizip*) {#sec:summary-sinnesevidenz}
 
-~~Sinnesevidenz~~ (full discussion in [@sec:participles-wirken-intransitive]) is marked by the verbs *aussehen* or *wirken* with a participle of an intransitive verb [@next]. Typical 'agentive' intransitive verbs like *schlafen* 'to sleep' do not allow for this construction [@next b]. This structure expresses that the speaker has first-hand knowledge based on sensory evidence that the state-of-affairs holds. When used with a transitive verb this construction results in an anticausative diathesis called *Sinnesantikausativ* (see [@sec:summary-sinnesantikausativ]).
+~~Sinnesevidenz~~ (full discussion in [@sec:participles-wirken-intransitive]) is marked by the verbs *aussehen* or *wirken* with a participle of an intransitive verb [@next]. Typical agentive intransitive verbs like *schlafen* 'to sleep' do not allow for this construction [@next b]. This structure expresses that the speaker has first-hand knowledge based on sensory evidence that the state-of-affairs holds. When used with a transitive verb this construction results in an anticausative diathesis called *Sinnesantikausativ* (see [@sec:summary-sinnesantikausativ]).
 
 ::: ex
 - Er schläft aus. \
@@ -2497,7 +2498,7 @@ b. ^* Das Kind scheint geschlafen.
 
 ### *Negative Wertungsevidenz* (*drohen + zu-Infinitiv*)
 
-The marking of ~~Negative Wertungsevidenz~~ (full discussion in [@sec:zuinfinitive-drohen]) consists of the verb *drohen* with a *zu-Infinitiv* [@next a]. This construction conveys that the speaker of the utterance has direct evidence for the proposition, while implying a negative evaluation from the speaker's point of view. When used as a speech-act verb *drohen* means 'to threaten' and can also be used with a *zu-Infinitiv*. However, only in its evidential usage will *drohen* construct coherently [@next b,c].
+The marking of ~~Negative Wertungsevidenz~~ (full discussion in [@sec:zuinfinitive-drohen]) consists of the verb *drohen* with a *zu-Infinitiv* [@next a]. This construction conveys that the speaker of the utterance has direct evidence for the proposition, while implying a negative evaluation from the speaker's point of view. When used as a speech-act verb *drohen* means 'to threaten' and can also be used with a *zu-Infinitiv*. However, only in its evidential usage will *drohen* construct coherently [@next b]. The meaning of 'to threaten' does not result in coherent constructions [@next c].
 
 ::: ex
 a. Das Wetter droht schlecht zu werden.
@@ -2507,7 +2508,7 @@ c. Es ist bekannt, dass er droht, das Licht auszuschalten.
 
 ### *Positive Wertungsevidenz* (*versprechen + zu-Infinitiv*)
 
-The marking of ~~Positive Wertungsevidenz~~ (full discussion in [@sec:zuinfinitive-drohen]) is composed of the verb *versprechen* with a *zu-Infinitiv* [@next a]. Similar to the previous construction with *drohen*, the verb *versprechen* with a *zu-Infinitiv* also expresses a direct evidential, though now with a positive evaluation. When used as a speech-act verb *versprechen* 'means to promise' and is commonly used with a *zu-Infinitiv*. However, only in its evidential usage does *versprchen + zu-Infinitiv* construct coherently [@next b,c].
+The marking of ~~Positive Wertungsevidenz~~ (full discussion in [@sec:zuinfinitive-drohen]) is composed of the verb *versprechen* with a *zu-Infinitiv* [@next a]. Similar to the previous construction with *drohen*, the verb *versprechen* with a *zu-Infinitiv* also expresses a direct evidential, though now with a positive evaluation. When used as a speech-act verb *versprechen* means 'to promise' and is commonly used with a *zu-Infinitiv*. However, only in its evidential usage will *versprechen + zu-Infinitiv* construct coherently [@next b]. The meaning of 'to promise' does not result in coherent constructions [@next c].
 
 ::: ex
 a. Das Wetter verspricht gut zu werden.
@@ -2564,6 +2565,15 @@ a. Ich habe das Haus angesehen.
 b. Ich habe mir das Haus angesehen.
 :::
 
+### *Reflexiv Adverb* 
+
+(full discussion in [@sec:adverbials-intransitive-reflexive-resultative] and subsequent sections)
+
+::: ex
+a. Ich schlafe.
+b. Ich schlafe mich gesund.
+:::
+
 ## Verb change?
 
 ### *Nicht-strukturelles Präverb* 
@@ -2595,32 +2605,23 @@ a. Ich laufe im Wald.
 b. Ich verlaufe mich im Wald.
 :::
 
-### *Reflexiv Adverb* 
-
-(full discussion in [@sec:adverbials-intransitive-reflexive-resultative] and subsequent sections)
-
-::: ex
-a. Ich schlafe.
-b. Ich schlafe mich gesund.
-:::
-
 ## Summary of widespread light verbs
 
-The light verbs listed in [@tbl:light-verbs] occur in more than one derived clause construction. Shown in the table is whether these constructions induce epithesis (E) or diathesis (D).
+The light verbs listed in [@tbl:light-verbs] occur in more than one derived clause construction. Shown in the table is whether these constructions induce epithesis (E) or diathesis (D). The ordering reflects an approximate top-left to bottom-right cline of the frequency of diathesis.
 
-|            | *Partizip* | *zu-Infinitiv | *Infinitiv* | *zum/am+Inf.* |
-| :--------- | :--------: | :-----------: | :---------: | :-----------: |
-| *haben*    |    D+E     |       E       |     D+E     |       D       |
-| *sein*     |    D+E     |       D       |      E      |      D+E      |
-| *bleiben*  |    D+E     |       D       |      E      |       E       |
-| *gehen*    |     D      |       D       |      E      |       E       |
-| *geben*    |     D      |       D       |      -      |       -       |
-| *sehen*    |     D      |       –       |      D      |       –       |
-| *scheinen* |    D+E     |       E       |      –      |       -       |
-| *bekommen* |    D+E     |       E       |      –      |       -       |
-| *wissen*   |     D      |       E       |      –      |       -       |
-| *werden*   |     D      |       –       |      E      |       –       |
-| *lassen*   |     E      |       E       |      D      |       -       |
-| *kommen*   |     E      |       E       |      E      |       E       |
+|            | *Partizip* | *zu-Infinitiv* | *Infinitiv* | *Präp.+Infinitiv* |
+| :--------- | :--------: | :------------: | :---------: | :---------------: |
+| *haben*    |    D+E     |       E        |     D+E     |         D         |
+| *sein*     |    D+E     |       D        |      E      |        D+E        |
+| *bleiben*  |    D+E     |       D        |      E      |         E         |
+| *gehen*    |     D      |       D        |      E      |         E         |
+| *geben*    |     D      |       D        |      -      |         -         |
+| *sehen*    |     D      |       –        |      D      |         –         |
+| *scheinen* |    D+E     |       E        |      –      |         -         |
+| *bekommen* |    D+E     |       E        |      –      |         -         |
+| *wissen*   |     D      |       E        |      –      |         -         |
+| *werden*   |     D      |       –        |      E      |         –         |
+| *lassen*   |     E      |       E        |      D      |         -         |
+| *kommen*   |     E      |       E        |      E      |         E         |
 
-Table: Summary of major light-verb constructions \ (D = diathesis, E = Epithesis) {#tbl:light-verbs}
+Table: Summary of recurrent light verbs in verbal constructions (D = diathesis, E = Epithesis) {#tbl:light-verbs}
