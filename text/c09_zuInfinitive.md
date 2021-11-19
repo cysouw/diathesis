@@ -91,6 +91,8 @@ f. **Only stage 3 possible** (only monoclausal *Infinitiv*): e.g. *müssen* 'to 
 
 In between these extremes on are various further possibilities. First, the group of verbs that allow both stage 1 and 2 without any obvious differences in meaning [@last b] are widely discussed in the German grammatical literature under the heading ~~Modalitätsverben~~. Various lists are found in Wurmbrand [-@wurmbrand2003: 318-319] and Colomo [-@colomo2010: 167-175], citing earlier literature. A survey of various structural and semantic aspects of this group is presented in Rapp & Wöllstein [-@rapp2013]. Typical *Modalitätsverben* with different possible sentence structure, but without different meaning, are *anfangen, aufhören, beginnen, erlauben, heißen, helfen, lehren, lernen, verbieten, vergessen, verlangen, versuchen, wagen*. Examples of both options for the verb *heißen* 'to mean' are shown in [@next]. These verbs will not be further discussed in this chapter.
 
+=> heißen, helfen, lehren also without *zu*
+
 ::: ex
 - Dafür sind Radfahrern manche landschaftlich besonders schöne Abschnitte des Pilgerfußweges in Spanien verschlossen, wenn es auf schmalen, steinigen Wegen bergauf und bergab zu laufen heißt.^[~~DWDS~~: Die Zeit, 05.04.1991, Nr. 15]
 - Das hätte geheißen, den Dritten Weltkrieg zu riskieren.^[Berliner Zeitung, 29.04.1995]

@@ -1482,9 +1482,18 @@ a. Wir verlieren den Koffer nicht.
 b. Jetzt gilt es (für uns) den Koffer nicht zu verlieren.
 :::
 
+### *Intransitiver Notwendigkeitsdemotiv* (*heißen + Infinitiv*) {#sec:summary-notwendigkeitsdemotiv}
+
+The ~~Intransitiver Notwendigkeitsdemotiv~~ (full discussion in [@sec:zuinfinitive-heißen-demotion]) consists of the verb *heißen* with an infinitive. The meaning of this constructions is very close to the previous *Notwendigkeitsdemotiv* construction (see [@sec:summary-notwendigkeitsdemotiv]). However, *heißen* can only be applied with intransitive verbs. Note that there is a completely separate causative usage of *heißen + Intransitiv*, but this *Agentivkausativ* appears to be rather old-fashioned (see [@sec-summary-machenkausativ]).
+
+::: ex
+a. Er redet weiter.
+b. Dann heißt es für ihn weiter reden.
+:::
+
 ### *Möglichkeitsdemotiv* (*geben + zu-Infinitiv*) {#sec:summary-moglichkeitsdemotiv}
 
-The ~~Möglichkeitsdemotiv~~ (full discussion in [@sec:zuinfinitive-geben-demotion]) uses a subjectless light verbs *geben* with *zu* and an infinitive [@next]. The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the light verbs are always in the third person singular, resulting in fixed expressions *es gibt*. The removed subject can optionally be retained with a *für* prepositional phrase, though this is less frequent compared to the previous *gelten + zu-Infinitive* diathesis (see [@sec:summary-notwendigkeitsdemotiv]). Any other argument is simply preserved, like the accusative *den Koffer* 'the suitcase' in the example below. The *Möglichkeitsdemotiv* semantically invokes an option that is available to the original subject, i.e. a modal-like 'can' meaning. The construction *geben + zu-Infinitiv* is also used in a semantically and structurally quite different diathesis, namely the *Auftragskausativ* (see [@sec:summary-auftragskausativ]).
+The ~~Möglichkeitsdemotiv~~ (full discussion in [@sec:zuinfinitive-geben-demotion]) uses a subjectless light verbs *geben* with *zu* and an infinitive [@next]. The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the light verbs are always in the third person singular, resulting in fixed expressions *es gibt*. The removed subject can optionally be retained with a *für* prepositional phrase, though this is less frequent compared to the *gelten + zu-Infinitive* diathesis (see [@sec:summary-notwendigkeitsdemotiv]). Any other argument is simply preserved, like the accusative *den Koffer* 'the suitcase' in the example below. The *Möglichkeitsdemotiv* semantically invokes an option that is available to the original subject, i.e. a modal-like 'can' meaning. The construction *geben + zu-Infinitiv* is also used in a semantically and structurally quite different diathesis, namely the *Auftragskausativ* (see [@sec:summary-auftragskausativ]).
 
 ::: ex
 a. Wir kaufen den Koffer.
@@ -1805,13 +1814,15 @@ c. (= Sie verursacht, dass ich die Kleider wasche.)
 d. (= Sie erlaubt, dass ich die Kleider wasche.)
 :::
 
-### *Agentivkausativ* (*machen + Infinitiv*) {#sec-summary-machenkausativ}
+### *Agentivkausativ* (*machen/heißen + Infinitiv*) {#sec-summary-machenkausativ}
 
-The ~~Agentivkausativ~~ (full discussion in [@sec:infinitive-machen]) is probably the most pure causative of all the various novative light verb with infinitive diatheses. It uses the light verb *machen* 'to make' and adds a causer. It is not in very widespread use and often sound like English calques, though it is probably an old Germanic construction.
+The ~~Agentivkausativ~~ (full discussion in [@sec:infinitive-machen]) is probably the most pure causative of all the various novative light verb with infinitive diatheses. It uses the light verb *machen* 'to make' and adds a causer [@next a]. It is not in widespread use and often sound like English calques, though it is probably an old Germanic construction. A highly similar construction uses the light verb *heißen* [@next b]. This seems to be rather old-fashioned (full discussion in [@sec:infinitive-heißen]).
 
 ::: ex
-a. Ich weine.
-b. Deine Späße machen mich weinen.
+a. Ich weine. \
+   Deine Späße machen mich weinen.
+b. Er kniete nieder. \
+   Der Henker hieß ihn niederknieen.
 :::
 
 ### *Direktivkausativ* (*schicken + Infinitiv*) {#sec-summary-direktivkausativ} 

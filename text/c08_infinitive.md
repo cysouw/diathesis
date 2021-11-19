@@ -386,7 +386,7 @@ It is undecidable whether the *werden + Infinitiv* construction induces an IPP *
 
 ### *brauchen + Infinitiv* Negative obligation {#sec:infinitive-brauchen}
 
-The verb *brauchen* 'to need' is typically used with *zu-Infinitiv* with some kind of negation or a modal particle like *nur* or *bloß* [@next a], see [@sec:zuinfinitive-brauchen]. However, it also occurs without *zu* [@next b]. Whether there is any semantic difference between these two options needs more in-depth investigation. Used without *zu* it seems only logical to include *brauchen* in the set of modal verbs [cf. @duden2009: 556]. The light verb *brauchen* is similar to the modal verbs in that it induces an IPP *Ersatzinfinitiv* [@next c].
+The verb *brauchen* 'to need' is typically used with *zu-Infinitiv* with some kind of negation or a modal particle like *nur* or *bloß* [@next a], see [@sec:zuinfinitive-brauchen]. However, it also occurs without *zu* [@next b]. Without *zu* it seems to be more typically used in sentences without objects. Whether there is any semantic difference between the usage with or without *zu* needs more in-depth investigation. When it is used without *zu* it seems only logical to include *brauchen* in the set of modal verbs [cf. @duden2009: 556]. The light verb *brauchen* is similar to the modal verbs in that it induces an IPP *Ersatzinfinitiv* [@next c].
 
 ::: ex
 - Du brauchst nur noch zu unterschreiben.
@@ -489,6 +489,39 @@ b. ^* Nach Fisch lässt es sich stinken.
 **Attested Verbs**
 
 - Almost all verbs with governed prepositions. Not possible with: *duften, riechen, stinken*
+
+### --- [ SBJ > ADJ ] --- {.unnumbered}
+
+### [ N | p ] *heißen + Infinitiv* Modal subject demotion (*Intransitiver Notwendigkeitsdemotiv*) {#sec:infinitive-heißen-demotion}
+
+The light verb *heißen* can be used with an infinitive in various different constructions. A widespread option is a demotive usage with intransitive verbs, like *warten* 'to wait' [@next a]. The original subject is demoted, but can optionally be retained as a *für* prepositional phrase. As there is no new subject introduced, an obligatory valency-simulating pronoun *es* is introduced. 
+
+Transitive verbs can be used in this construction, but only when the object does not have an article [@next b]. Such objects can be considered incorporated objects, and there is a recurrent debate in German orthography whether such objects should be written separated by a space or not. Semantically, this *heißen + Infinitive* construction is very close to the *gelten + zu-Infinitiv* (see [@sec:zuinfinitive-gelten-demotion]). Both express a kind of externally induced necessesity (i.e. modal "müssen").
+
+::: ex
+- Alles andere wartet. \
+  Für alles andere heißt es warten.^[~~DWDS~~: Die Zeit, 17.04.2017, Nr. 13.]
+- Und dann heißt es Daumen drücken.^[Die Zeit, 03.08.2017, Nr. 29.]
+:::
+
+There is some debate possible about whether this construction is coherent or not. When *heißen* is interpreted as a modal predicate expressing obligation, then it is clearly coherent [@next c]. However, there is a widespread other interpretation of *heißen* as a more lexical predicate with the meaning 'to be named'. In that interpretation it is mostly written with a colon, and that construction is not coherent [@next b].
+
+::: ex
+- Es ist bekannt, dass es dann Daumen drücken heißt.
+- Es ist bekannt, dass es dann heißt: Daumen drücken.
+:::
+
+Exactly the same construction *heißen + Infinitiv* can be also be used as a causative, although this usage is slightly old-fashioned (see [@sec:infinitive-heißen]). Sometimes both diatheses are possible, like with *niederknieen* 'to kneel down' [@next a]. The effect ist that *heißen + Infinitiv* can both induce a causative subject addition [@next b] and a modal subject demotion [@next c].
+
+::: ex
+- Er kniete nieder.
+- Der Henker hieß ihn niederknieen.
+- Da heiß es (für ihn) niederknieen.
+:::
+
+**Attested Verbs**
+
+- only intranstive verbs, or transitive verbs without objects or incorporated objects without article.
 
 ### --- [ OBJ > SBJ > ADJ ] --- *Möglichkeitsspassiv* {.unnumbered}
 
@@ -796,7 +829,7 @@ The verb *heißen* can also be used with an infinitive to express a causative me
 ::: ex
 a. Er kniete nieder.
 b. Der Henker hieß ihn niederknieen.
-c. Der Henker hat ihn niederknieen geheißen (^\*^heißen).
+c. Der Henker hat ihn niederknieen geheißen (\*heißen).
 :::
 
 **Examples**
