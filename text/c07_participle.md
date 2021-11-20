@@ -1146,26 +1146,18 @@ The *bleiben + Partizip* construction is only possible with verbs that also allo
 - Die Köpfchen vertrockneten immer wieder, aber sie rappelte sich immer wieder auf. Seit 4 Wochen sind die Köpfchen vertrocknet geblieben.^[Attested online at <https://www.hausgarten.net/gartenforum/threads/carnivoren-winterruhe.32314>, accessed 16 July 2021.]
 - Ich bin auch nach der Schwangerschaft weiter an Diabetes erkrankt geblieben.^[Attested online at <https://www.hipp.de/forum/viewtopic.php?t=17551>, accessed 16 July 2021.]
 
-### [ NA | NA ] *halten/lassen + Partizip* Caused continuative (*Kausativkontinuativ*) {#sec:participles-halten-lassen-durative}
+### [ NA | NA ] *halten + Partizip* Caused continuative (*Kausativkontinuativ*) {#sec:participles-halten-durative}
 
-A widespread option for transitive verbs is to use the *halten + Partizip* construction to express the ongoing perseverance to prolong of the end state of the action, like with *schließen* 'to close' [@next]. The attested verbs listed below are only a few exemplary lexemes. This construction is applicable to a much wider group of verbs.
+A widespread option for transitive verbs is to use the *halten + Partizip* construction to express the ongoing perseverance to prolong of the end state of the action, like with *schließen* 'to close' [@next]. The attested verbs listed below are only a few exemplary lexemes. This construction is applicable to a much wider group of verbs. Semantically, *halten + Partizip* expresses a clear agency of the caused continuative.
 
 ::: ex
 - Er schließt die Tür.
 - Er hält die Tür geschlossen.
 :::
 
-Similar to the previous construction, the *lassen + Partizip* construction also can be used to express the causing the continuation of a state, like with *einschalten* 'to turn on' [@next]. Although this construction can be used with many different verbs, it turns out to be much more difficult to find suitable examples, which suggests that there are some additional constraints of the applicability of this construction.
-
-::: ex
-- Ich schalte den Fernseher ein.
-- Ich lasse den Fernseher eingeschaltet.
-:::
-
 **Attested Verbs**
 
 - halten: *ausstrecken, besetzen, drücken, fangen, richten, schließen, verbergen, verstecken*, etc.
-- lassen: *anlehnen, ausklammern, einschalten, öffnen, zudecken*
 
 **Examples**
 
@@ -1175,6 +1167,20 @@ Similar to the previous construction, the *lassen + Partizip* construction also 
 - Er hält den Raum besetzt.
 - Er hält die Taste gedrückt.
 - Er hält den Arm ausgestreckt.
+
+### [ NA | NA ] *lassen + Partizip* Permissively caused continuative (*Permissivkausativkontinuativ*) {#sec:participles-lassen-durative}
+
+Similar to the previous construction, the *lassen + Partizip* construction also can be used to express the causing the continuation of a state, like with *einschalten* 'to turn on' [@next]. Although this construction can be used with many different verbs, it turns out to be much more difficult to find suitable examples, which suggests that there are some additional constraints of the applicability of this construction. Semantically, *lassen + Partizip* expresses a more passively caused continuative (cf. the permissive reading of *lassen* with infinitive, see [@sec:infinitive-guises-of-lassen]).
+
+::: ex
+- Ich schalte den Fernseher ein.
+- Ich lasse den Fernseher eingeschaltet.
+:::
+
+- lassen: *anlehnen, ausklammern, einschalten, öffnen, zudecken*
+
+**Examples**
+
 - Der Mann hatte den Zuleitungsschlauch ohne Zusatzsicherung mehrere Jahre hindurch geöffnet gelassen.^[~~DWDS~~: Der Tagesspiegel, 12.07.2004]
 - Die Tür hatte sie angelehnt gelassen, jetzt stand sie sperrangelweit offen.^[Die Zeit, 23.03.1990, Nr. 13]
 - Hätte man die Streitfragen wirklich ausgeklammert gelassen, dann wäre das Berlin-Abkommen ein großer Erfolg gewesen.^[Die Zeit, 08.03.1974, Nr. 11]

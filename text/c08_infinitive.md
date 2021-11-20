@@ -23,6 +23,7 @@ Following Bech [-@bech1955] such construction are often designated as *Erster St
 There are ten frequently occurring diatheses that use a light verb + infinitive construction and for which I propose a German name, as listed below. Note that the *lassen + Infinitiv* construction occurs in many different diatheses. A detailed discussion of these can be found in [@sec:infinitive-guises-of-lassen]. 
 
 - ~~[SBJ › Ø]~~ *lassen* ~~Unpersönlicher Möglichkeitspassiv~~ (see [@sec:infinitive-lassen-reflexive-intransitive ff.])
+- ~~[SBJ › ADJ]~~ *heißen* ~~Intransitiver Notwendigkeitsdemotiv~ (see [@sec:infinitive-heißen-demotion])
 - ~~[OBJ › SBJ › ADJ]~~ *lassen* ~~Möglichkeitsspassiv~~ (see [@sec:infinitive-lassen-reflexive-anticausative])
 - ~~[OBJ › SBJ › ADJ]~~ *lassen* ~~Permissivpassiv~~ (see [@sec:infinitive-lassen-reflexive-permissive-passive ff.])
 - ~~[OBJ › SBJ › OBJ]~~ *lassen* ~~Permissivinversiv~~ (see [@sec:infinitive-lassen-dative-reflexive-inversive])
@@ -139,7 +140,9 @@ b. Sie hat mich die Kleider waschen *gelassen*. \
 
 ### The many guises of *lassen + Infinitiv* {#sec:infinitive-guises-of-lassen}
 
-It has been widely observed that there is a wide variety of uses of the *lassen + Infinitiv* construction in German [e.g. @eisenberg2006a: 369-371; @kotulkova2010a; @pitteroff2014]. In this chapter I will distinguish nine different diatheses that all use the *lassen + Infinitiv* construction, as summarised in [@tbl:lassen]. These nine diatheses are reduced to six groups, which I have given a German name (as shown in the table). However, these can be further reduced to basically three different options: a reflexive epistemic passive, expressing possibility (*Möglichkeitspassiv*), a reflexive modal passive, expressing permission (*Permissivpassiv, Permissivinversiv*) and a non-reflexive causative (*Permissivkausativ, Passivkausativ*). I will succinctly summarise these different options here. For a detailed discussion, please see the sections as indicated in the table.
+It has been widely observed that there is a wide variety of uses of the *lassen + Infinitiv* construction in German [e.g. @eisenberg2006a: 369-371; @kotulkova2010a; @pitteroff2014]. In this chapter I will distinguish nine different diatheses that all use the *lassen + Infinitiv* construction, as summarised in [@tbl:lassen]. There is an additional epithetical usage of *lassen* with a participle that is discussion in [@sec:participles-lassen-durative].
+
+The nine diatheses are reduced to six groups, which I have given a German name (as shown in the table). However, these can be further reduced to basically three different options: a reflexive epistemic passive, expressing possibility (*Möglichkeitspassiv*), a reflexive modal passive, expressing permission (*Permissivpassiv, Permissivinversiv*) and a non-reflexive causative (*Permissivkausativ, Passivkausativ*). I will succinctly summarise these different options here. For a detailed discussion, please see the sections as indicated in the table.
 
 |                         Section                          |   Remapping    |     German Name      | Reflexive |    Interpretation    |
 | :------------------------------------------------------: | :------------: | :------------------: | :-------: | :------------------: |
@@ -496,7 +499,7 @@ b. ^* Nach Fisch lässt es sich stinken.
 
 The light verb *heißen* can be used with an infinitive in various different constructions. A widespread option is a demotive usage with intransitive verbs, like *warten* 'to wait' [@next a]. The original subject is demoted, but can optionally be retained as a *für* prepositional phrase. As there is no new subject introduced, an obligatory valency-simulating pronoun *es* is introduced. 
 
-Transitive verbs can be used in this construction, but only when the object does not have an article [@next b]. Such objects can be considered incorporated objects, and there is a recurrent debate in German orthography whether such objects should be written separated by a space or not. Semantically, this *heißen + Infinitive* construction is very close to the *gelten + zu-Infinitiv* (see [@sec:zuinfinitive-gelten-demotion]). Both express a kind of externally induced necessesity (i.e. modal "müssen").
+Transitive verbs can be used in this construction, but only when the object does not have an article [@next b]. Such objects can be considered to be incorporated objects, and there is a recurrent debate in German orthography whether such objects should be written separated by a space or not. Semantically, this *heißen + Infinitive* construction is very close to the *gelten + zu-Infinitiv* (see [@sec:zuinfinitive-gelten-demotion]). Both express a kind of externally induced necessesity (i.e. modal "müssen").
 
 ::: ex
 - Alles andere wartet. \
@@ -504,19 +507,19 @@ Transitive verbs can be used in this construction, but only when the object does
 - Und dann heißt es Daumen drücken.^[Die Zeit, 03.08.2017, Nr. 29.]
 :::
 
-There is some debate possible about whether this construction is coherent or not. When *heißen* is interpreted as a modal predicate expressing obligation, then it is clearly coherent [@next c]. However, there is a widespread other interpretation of *heißen* as a more lexical predicate with the meaning 'to be named'. In that interpretation it is mostly written with a colon, and that construction is not coherent [@next b].
+There is some debate possible about whether this construction is coherent or not. When *heißen* is interpreted as a modal predicate expressing obligation, then it is clearly coherent [@next c]. However, there is a widespread other interpretation of *heißen* as a more lexical predicate with the meaning 'to be named, to denote'. In that interpretation it is mostly written with a colon, and that construction is not coherent [@next b].
 
 ::: ex
 - Es ist bekannt, dass es dann Daumen drücken heißt.
 - Es ist bekannt, dass es dann heißt: Daumen drücken.
 :::
 
-Exactly the same construction *heißen + Infinitiv* can be also be used as a causative, although this usage is slightly old-fashioned (see [@sec:infinitive-heißen]). Sometimes both diatheses are possible, like with *niederknieen* 'to kneel down' [@next a]. The effect ist that *heißen + Infinitiv* can both induce a causative subject addition [@next b] and a modal subject demotion [@next c].
+Exactly the same construction *heißen + Infinitiv* can be also be used as a causative, although this usage is slightly old-fashioned (see [@sec:infinitive-heißen]). Sometimes both diatheses are possible, like with *niederknieen* 'to kneel down' [@next a]. Counterintuitively, the effect ist that *heißen + Infinitiv* can both induce a causative subject addition [@next b] and a modal subject demotion [@next c].
 
 ::: ex
 - Er kniete nieder.
 - Der Henker hieß ihn niederknieen.
-- Da heiß es (für ihn) niederknieen.
+- Vor dem Henker heiß es für ihn niederknieen.
 :::
 
 **Attested Verbs**
@@ -824,7 +827,7 @@ d. Der Clown hat mich lachen gemacht (^\*^machen).
 
 ### [ –N | NA ] *heißen + Infinitiv* Causative {#sec:infinitive-heißen}
 
-The verb *heißen* can also be used with an infinitive to express a causative meaning [cf. @engel1996: 489], though this is rather old-fashioned [@next a,b]. This diathesis does not invoke the IPP *Ersatzinfinitiv* [@next c].
+The verb *heißen* can also be used with an infinitive to express a causative meaning [cf. @engel1996: 489], though this is rather old-fashioned [@next a,b]. This diathesis does not invoke the IPP *Ersatzinfinitiv* [@next c]. Note that there is a different, apparently completely independent, demotive usage of *heißen + Infinitive* (see [@sec:infinitive-heißen-demotion]).
 
 ::: ex
 a. Er kniete nieder.

@@ -569,7 +569,7 @@ c. Der Regen hat die Luft abgekühlt.
 
 **Attested Verbs**
 
-- *ausruhen, ausschlafen, drehen, erbrechen, hinknien, knien, irren*
+- *ausruhen, ausschlafen, drehen, erbrechen, hinknien, knien, lohnen, irren*
 
 **Examples**
 
@@ -579,6 +579,7 @@ c. Der Regen hat die Luft abgekühlt.
 - Ich habe hingekniet. Ich habe mich hingekniet.
 - Er hat ausgeschlafen. Er hat sich ausgeschlafen.
 - Der Kranke hat mehrmals erbrochen. Der Betrunkene hat sich erbrochen.
+- Die Arbeit lohnt. Die Arbeit lohnt sich.
 
 **Notes**
 

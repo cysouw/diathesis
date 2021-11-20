@@ -19,14 +19,14 @@ The major aim of this chapter is to list and discuss all grammaticalised coheren
 
 The following eight diatheses with a *zu-Infinitiv* are attested regularly in German, so I propose a German name for them. Note that the light verbs *sein* and *geben* are both used in two different diatheses. The two *geben* diatheses are remarkably different, both structurally and semantically.
 
-- ~~[ SBJ > Ø ]~~ *sein* ~~Unpersönlicher Modalpassiv~~ (see [@sec:zuinfinitive-sein-impersonal] ff.)
-- ~~[ SBJ > ADJ ]~~ *geben* ~~Möglichkeitsdemotiv~~ (see [@sec:zuinfinitive-geben-demotion]
-- ~~[ SBJ > ADJ ]~~ *gelten* ~~Notwendigkeitsdemotiv~~ (see [@sec:zuinfinitive-gelten-demotion]
-- ~~[ OBJ > SBJ > Ø ]~~ *gehen* ~~Unmöglichkeitsantikausativ~~ (see [@sec:zuinfinitive-gehen])
-- ~~[ OBJ > SBJ > Ø ]~~ *stehen* ~~Erwartungsantikausativ~~ (see [@sec:zuinfinitive-stehen])
-- ~~[ OBJ > SBJ > ADJ ]~~ *sein* ~~Modalpassiv~~ (see [@sec:zuinfinitiv-sein-passive])
-- ~~[ OBJ > SBJ > OBJ ]~~ *bleiben* ~~Restinversiv~~ (see [@sec:zuinfinitive-bleiben])
-- ~~[ Ø > SBJ > OBJ ]~~ *geben* ~~Auftragskausativ~~ (see [@sec:zuinfinitive-geben-causative])
+- ~~[SBJ › Ø]~~ *sein* ~~Unpersönlicher Modalpassiv~~ (see [@sec:zuinfinitive-sein-impersonal] ff.)
+- ~~[SBJ › ADJ]~~ *geben* ~~Möglichkeitsdemotiv~~ (see [@sec:zuinfinitive-geben-demotion]
+- ~~[SBJ › ADJ]~~ *gelten* ~~Notwendigkeitsdemotiv~~ (see [@sec:zuinfinitive-gelten-demotion]
+- ~~[OBJ › SBJ › Ø]~~ *gehen* ~~Unmöglichkeitsantikausativ~~ (see [@sec:zuinfinitive-gehen])
+- ~~[OBJ › SBJ › Ø]~~ *stehen* ~~Erwartungsantikausativ~~ (see [@sec:zuinfinitive-stehen])
+- ~~[OBJ › SBJ › ADJ]~~ *sein* ~~Modalpassiv~~ (see [@sec:zuinfinitiv-sein-passive])
+- ~~[OBJ › SBJ › OBJ]~~ *bleiben* ~~Restinversiv~~ (see [@sec:zuinfinitive-bleiben])
+- ~~[Ø › SBJ › OBJ]~~ *geben* ~~Auftragskausativ~~ (see [@sec:zuinfinitive-geben-causative])
 
 ## Defining *zu-Infinitiv* constructions
 
@@ -76,7 +76,7 @@ The focus of this chapter are the constructions in the second stage of this gram
 - ^* Es ist bekannt, dass sie *hat* noch viele Jahre [zu leben].
 :::
 
-Because there is a grammaticalisation cline, there are various verbs that can be used in more than one of the three different stages [@next]. Most verbs with a *zu-infinitive* actually only allow biclausal non-coherent complement constructions [@next a]. These fall outside of the scope of this book. At the other extreme, some verbs only allow for monoclausal *Infinitiv* construction [@next f]. These were already discussed in the previous Chapter [-@sec:infinitive]. The group of verbs that allow for both stage 2 and 3 [@last e] is small, as it seems only to consist of the verbs *brauchen, helfen, lehren* and *lernen*. 
+Because there is a grammaticalisation cline, there are various verbs that can be used in more than one of the three different stages [@next]. Most verbs with a *zu-infinitive* actually only allow biclausal non-coherent complement constructions [@next a]. These fall outside of the scope of this book. At the other extreme, some verbs only allow for monoclausal *Infinitiv* construction [@next f]. These were already discussed in the previous Chapter [-@sec:infinitive]. The group of verbs that allow for both stage 2 and 3 [@last e] is small, as this only seems to be possible for the verbs *brauchen, heißen, helfen, lehren* and *lernen*. 
 
 ::: ex
 Intermediate stages on the grammaticalisation pathway
@@ -89,16 +89,14 @@ e. **Both stage 2 and 3 possible** (monoclausal, both *zu-Infinitiv* and *Infini
 f. **Only stage 3 possible** (only monoclausal *Infinitiv*): e.g. *müssen* 'to must', *können* 'to can'
 :::
 
-In between these extremes on are various further possibilities. First, the group of verbs that allow both stage 1 and 2 without any obvious differences in meaning [@last b] are widely discussed in the German grammatical literature under the heading ~~Modalitätsverben~~. Various lists are found in Wurmbrand [-@wurmbrand2003: 318-319] and Colomo [-@colomo2010: 167-175], citing earlier literature. A survey of various structural and semantic aspects of this group is presented in Rapp & Wöllstein [-@rapp2013]. Typical *Modalitätsverben* with different possible sentence structure, but without different meaning, are *anfangen, aufhören, beginnen, erlauben, heißen, helfen, lehren, lernen, verbieten, vergessen, verlangen, versuchen, wagen*. Examples of both options for the verb *heißen* 'to mean' are shown in [@next]. These verbs will not be further discussed in this chapter.
-
-=> heißen, helfen, lehren also without *zu*
+In between these extremes on are various further possibilities. First, the group of verbs that allow for both stage 1 and 2 without any obvious differences in meaning [@last b] are widely discussed in the German grammatical literature under the heading ~~Modalitätsverben~~. Various lists are found in Wurmbrand [-@wurmbrand2003: 318-319] and Colomo [-@colomo2010: 167-175], citing earlier literature. A short survey of various structural and semantic aspects of this group is presented in Rapp & Wöllstein [-@rapp2013]. From a quick search in the ~~DWDS~~ corpus it appears that the the following verbs are the most interesting for further research (i.e. these verbs are frequently attested with both sentence structures, but without obvious differences in meaning between those structures): *anfangen, aufhören, beabsichtigen, beginnen, erlauben, gedenken, glauben, heißen, helfen, hoffen, lehren, lernen, lieben, sich lohnen, machen, meinen, streben, trachten, sich trauen, vergessen, versuchen, vorgeben, wagen, wünschen*. Examples with the verb *wünschen* 'to wish' are shown in [@next]. These verbs will not be further discussed in this chapter, but they deserve more research.
 
 ::: ex
-- Dafür sind Radfahrern manche landschaftlich besonders schöne Abschnitte des Pilgerfußweges in Spanien verschlossen, wenn es auf schmalen, steinigen Wegen bergauf und bergab zu laufen heißt.^[~~DWDS~~: Die Zeit, 05.04.1991, Nr. 15]
-- Das hätte geheißen, den Dritten Weltkrieg zu riskieren.^[Berliner Zeitung, 29.04.1995]
+- Es gebe viele Stimmen in der CSU, die ihm gewünscht hätten, eine längere Auszeit zu nehmen.^[~~DWDS~~: Die Zeit, 23.11.2011 (online).]
+- Das war es was er zu hören gewünscht hatte.^[~~DWDS~~: Fontane, Theodor: Wanderungen durch die Mark Brandenburg. Bd. 4: Spreeland. Berlin, 1882.]
 :::
 
-All verbs that only allow for stage 2 [@llast d], or have a special meaning when used as stage 2 [@llast c], will be discussed in detail in this chapter. The explicit claim is that this chapter presents a complete list of such verbs. However, special care has to be taken with polysemies. Many of the verbs that are discussed in this chapter occur both in stage 1 and stage 2, but with clearly different meanings. For example, in its lexical meaning *versprechen* means 'to promise' and then it is not coherent [@next a]. In contrast, in its evidential meaning *versprechen* means something like 'there is evidence for it' and then it is coherent [@next b]. Although this correlation is not 100% perfect, there is a very strong tendency for the different meanings to also show different syntactic constructions (see [@sec:zuinfinitive-drohen]).
+All verbs that only allow for stage 2 [@llast d] and those that have a special meaning when used as stage 2 [@llast c] will be discussed in detail in this chapter. The explicit claim is that this chapter presents a complete list of such verbs. However, special care has to be taken with polysemies. Many of the verbs that are discussed in this chapter occur both in stage 1 and stage 2, but with clearly different meanings. For example, in its lexical meaning *versprechen* means 'to promise' and then it is not coherent [@next a]. In contrast, in its evidential meaning *versprechen* means something like 'there is evidence for it' and then it is coherent [@next b]. Although this correlation is not 100% perfect, there is a very strong tendency for the different meanings to also show different syntactic constructions (see [@sec:zuinfinitive-drohen]).
 
 ::: ex
 - Er verspricht rechtzeitig nach Hause zu kommen. \
@@ -135,19 +133,12 @@ Colomo [-@colomo2010: 246-256] argues that the real semantic content of *pflegen
 - ^* Es ist bekannt, dass sie pflegte laut zu lachen.
 :::
 
-### *suchen + zu-Infinitiv* Conative {#sec:zuinfinitive-suchen}
-
-The verb *suchen* 'to search' has a special usage with a *zu-Infinitiv* expressing the meaning 'to attempt to do something' [@next a]. In this usage, the meaning of *suchen* is very close to the meaning of *versuchen* 'to try'. It seems to be restricted to a high-education written register in German. Crucially, in this meaning the verb *suchen* is a light verb because the construction *suchen + zu-infinitive* is obligatorily coherent [@next b,c]. Note that the semantically similar lexical verb *versuchen* is not obligatorily coherent.
-
-There is an old tradition in Latin grammar to describe one of the possible meanings of the Latin present tense as a 'conative present' when it should be translated as an attempted action. Thus, it seems fitting to call the *suchen + zu-infinitive* diathesis a ~~conative~~.
-
-::: ex
-- Skrupulös, vorsichtig und diszipliniert sucht Lindner deren Fehler zu vermeiden.^[~~DWDS~~: Die Zeit, 27.11.2017, Nr. 48]
-- Mit ihrem Namen ist ein blutiges Ereignis verbunden, das sie erfolglos zu verhindern gesucht hatte.^[~~DWDS~~: Die Zeit, 08.05.2003, Nr. 20]
-- ^* … ein Ereignis, … das sie erfolglos gesucht hatte zu verhindern.
-:::
-
 ### --- Mood --- {.unnumbered}
+
+close to modal verbs
+- wissen/verstehen/vermögen = können
+- haben/brauchen/gehören = müssen/sollen
+- denken/belieben = wollen/mögen
 
 ### *wissen/verstehen + zu-Infinitiv* Ability (*Abilitiv*)^[Note that Englisch *ability* comes from Latin *habilitas*, so a German name like ~~habilitiv~~ would probably be more precise. However, I prefer ~~abilitiv~~ because it is easier to understand due to the similarity to English. One can also invoke Medieval Latin *abilitas* as its origin, likewise with a dropped <h>.] {#sec:zuinfinitive-wissen}
 
@@ -225,6 +216,44 @@ The construction *gehören + zu-Infinitiv* expressed an obligation [@next]. It c
 ::: ex
 Den Kauffleuthen vnd Bawren gehört zu trawen vnd glauben zu halten mit dem grossen hauffen.^[~~DWDS~~: Wander, Karl Friedrich Wilhelm (Hrsg.): Deutsches Sprichwörter-Lexikon. Bd. 2. Leipzig, 1870.]
 :::
+
+### *suchen + zu-Infinitiv* Conative {#sec:zuinfinitive-suchen}
+
+The verb *suchen* 'to search' has a special usage with a *zu-Infinitiv* expressing the meaning 'to attempt to do something' [@next a]. In this usage, the meaning of *suchen* is very close to the meaning of *versuchen* 'to try'. It seems to be restricted to a high-education written register in German. Crucially, in this meaning the verb *suchen* is a light verb because the construction *suchen + zu-infinitive* is obligatorily coherent [@next b,c]. Note that the semantically similar lexical verb *versuchen* is not obligatorily coherent.
+
+There is an old tradition in Latin grammar to describe one of the possible meanings of the Latin present tense as a 'conative present' (from Lat. *conor* 'to try') when* it should be translated as an attempted action. Thus, it seems fitting to call the *suchen + zu-infinitive* diathesis a ~~conative~~.
+
+::: ex
+- Skrupulös, vorsichtig und diszipliniert sucht Lindner deren Fehler zu vermeiden.^[~~DWDS~~: Die Zeit, 27.11.2017, Nr. 48]
+- Mit ihrem Namen ist ein blutiges Ereignis verbunden, das sie erfolglos zu verhindern gesucht hatte.^[~~DWDS~~: Die Zeit, 08.05.2003, Nr. 20]
+- ^* … ein Ereignis, … das sie erfolglos gesucht hatte zu verhindern.
+:::
+
+### *denken + zu-Infinitiv* Cogitative (*Kogitativ*) {#sec:zuinfinitiv-denken}
+
+In most contexts, the verb *denken* means 'to think'
+
+"beabsichtigen/wollen" not in meaning 'to think, to believe' *Cogitative* from Lat *cogitare* 'to consider, to intend'
+
+
+
+::: ex
+- Er denkt, mich überraschen zu können. \
+  Es ist bekannt, dass er denken, mich überraschen zu können.
+- ^* Es ist bekannt, dass er mich überraschen zu können denkt.
+- Ich denke ihn zu überraschen. \
+  Es ist bekannt, dass ich ihn zu überraschen denke.
+- ^^?^ Es ist bekannt, dass ich denke, ihn zu überraschen.
+:::
+
+**Examples**
+
+- Weil damals eine schicksalhafte Wahlschlacht anstand, die Putin für sich zu gewinnen dachte.^[~~DWDS~~: Die Zeit, 05.01.2006, Nr. 02.]
+- Der Prinz besah sich einige neue Juwelen, die er heimlich zu tragen dachte.^[~~DWDS~~: Klepper, Jochen: Der Vater, Gütersloh: Bertelsmann 1962 [1937], S. 452.]
+
+### *belieben + zu-Infinitiv* Desire {#sec:zuinfinitive-belieben}
+
+"wollen/mögen" slightly ironical
 
 ### --- Evidentiality --- {.unnumbered}
 

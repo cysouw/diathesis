@@ -2277,6 +2277,12 @@ Quickly recapitulated, an ~~epithesis~~ is a monoclausal construction in which t
 
 The constructions listed in this chapter are not haphardly collected out of some infinite pool of possible analytical combinations of verb forms. Quite to the contrary, the constructions listed here are claimed to be an exhaustive list of all epithetical German verb forms. Only a few rare and/or old-fashioned constructions are left out from this summary (but they can still be found in the following data chapters). The list of major epitheses in this chapter is quite long (about 25 constructions), but manageable. Any 1000-plus-page grammar could easily add a few pages listing them all. This number of epitheses is also quite a bit less than the number of major diatheses presented in the previous chapter (about 75 constructions). This indicates that from a purely grammatical perspective, diathesis is a three-times more elaborate topic than epithesis. 
 
+#### Characterising epitheses
+
+The epitheses listed in this chapter thus map out grammaticalised verbal categories of the German language. However, it is crucial to realise that not every lexical verb can be combined with each of these constructions. Just as with diatheses, each epithesis has a limited domain of applicability, i.e. each epithesis has a specific set of verbs that it can be applied to (cf. [@sec:intro-domain-of-application]). It is a very worthwhile future endeavour to specify these domains in more detail than I have been able to do here. Additionally, this restricted applicability means that one cannot simply take a random lexical verb and paradigmatically list all different epithetical forms for this verb, like traditional grammars like to do with tense forms. In contrast, it becomes a matter of lexicography to enumarate the epitheses that are compatible with each individual verb.
+
+The epithetic constructions listed in this chapter mostly have a rather clear semantic content. For example, the *pflegen + Infinitiv* epithesis, as mentioned earlier, expresses a habitual aspect. However, this construction is far from the only way to express habituality in German. It will typically be expressed with adverbs, like *regelmäßig* 'regularly' or some concrete timeframe with *jeden*, like *jeden Morgen* 'every morning'. So, the characterisation of *pflegen + Infinitiv* as an habitual verb form is actually only part of the story. What needs to be added is a more detailed description of the kind of contexts in which this construction is actually used. A famous case in point here is the *werden + Infinitive* construction, which is called *Futur* in the German grammatical tradition. Now, this construction can indeed express events in the future, so the name *Futur* is not wrong, but future event are much more commonly expressed with a simple present tense verb form. So, a more detailed characterisation of the *Futur* is necessary to explain when it is actually used (see [@sec:infinitive-werden-modal]).
+
 #### Classification of epitheses {.unnumbered}
 
 The epithetical constructions listed in this chapter are basically organised along the lines of the ~~TAME~~ categorisation (tense-aspect-mood-evidentiality). This subdivision is not always clear-cut, it is more of a continuum. This means that the placement of a specific construction in one or the other group is more a matter of practical convenience than of strict definitional categorisation. 
@@ -2284,8 +2290,6 @@ The epithetical constructions listed in this chapter are basically organised alo
 ~~Tense~~ will almost not be mentioned here, mainly because it does not play an important role in German epithesis. The discussion of ~~aspect~~ is separated into two kinds: temporal aspect ([@sec:epithesis-temporal-aspect]) and spatial aspect ([@sec:epithesis-spatial-aspect]). ~~Mood~~ includes the well-described modal verbs, but also some other less-widely discussed modal constructions ([@sec:epithesis-mood]). ~~Evidentiality~~ deals with the marking evidence that the speaker has for a statement. This turns out to be a very useful category for the analysis of various German epithetical constructions ([@sec:epithesis-evidentiality]). 
 
 Aditionally, I have added a section with epithetical construction that change the ~~participant affectedness~~ ([@sec:epithesis-affectedness]). These constructions are intermediates between epithesis and diathesis. Structurally they are clearly epithetic, because there is no role-remapping. Yet, these constructions express a change in the relation between the participants and the lexical verb, so they might functionally be included in the realm of diathesis. 
-
-The epitheses listed in this chapter thus map out grammaticalised verbal categories of the German language. However, it is crucial to realise that not every lexical verb can be combined with each of these constructions. Just as with diatheses, each epithesis has a limited domain of applicability, i.e. each epithesis has a specific set of verbs that it can be applied to (cf. [@sec:intro-domain-of-application]). It is a very worthwhile future endeavour to specify these domains in more detail than I have been able to do here. Additionally, this restricted applicability means that one cannot simply take a random lexical verb and paradigmatically list all different epithetical forms for this verb, like traditional grammars like to do with tense forms. In contrast, it becomes a matter of lexicography to enumarate the epitheses that are compatible with each individual verb.
 
 ## Temporal aspect {#sec:epithesis-temporal-aspect}
 
@@ -2345,14 +2349,22 @@ a. Der Schlüssel verschwindet.
 b. Der Schlüssel bleibt verschwunden.
 :::
 
-### *Kausativkontinuativ* (*lassen/halten + Partizip*)
+### *Kausativkontinuativ* (*halten + Partizip*)
 
-(full discussion in [@sec:participles-halten-lassen-durative])
+(full discussion in [@sec:participles-halten-durative]) *halten* active, *lassen* more passive, cf. Permissivkausativ [@sec:summary-permissivkausativ].
 
 ::: ex
 a. Ich schließe die Tür.
 b. Ich halte die Tür geschlossen.
-c. Ich lasse die Tür geschlossen.
+:::
+
+### *Permissivkausativkontinuativ* (*lassen + Partizip*)
+
+(full discussion in [@sec:participles-lassen-durative]) cf. *Permissivkausativ* [@sec:summary-permissivkausativ].
+
+::: ex
+- Ich schalte den Fernseher ein.
+- Ich lasse den Fernseher eingeschaltet.
 :::
 
 ## Spatial aspect {#sec:epithesis-spatial-aspect}
@@ -2429,7 +2441,7 @@ d. Du brauchst nicht kommen.
 
 ### *Obligativ* (*haben/brauchen + zu-Infinitiv*)
 
-The ~~Obligativ~~ (full discussion in [@sec:zuinfinitive-haben]) consist of the light verb *haben* with a *zu-Infinitiv* [@next a,b]. This construction is closely related to the English *to have to* construction, both in form an meaning. This epithesis expresses an obligation to perform an activity (i.e. similar to *müssen*). The German construction is clearly monoclausal, because the finite verb is positioned at the end of the clause in subordinate position [@next c].
+The ~~Obligativ~~ (full discussion in [@sec:zuinfinitive-haben]) consist of the light verb *haben* with a *zu-Infinitiv* [@next a,b]. This construction is closely related to the English *to have to* construction, both in form an meaning. This epithesis expresses an obligation to perform an activity (i.e. similar to modal *müssen*). The German construction is clearly monoclausal, because the finite verb is positioned at the end of the clause in subordinate position [@next c].
 
 ::: ex
 a. Die Schüler lösen die Aufgaben.
@@ -2447,7 +2459,7 @@ A related construction uses the light verb *brauchen* 'to need' (full discussion
 
 ### *Abilitiv* (*wissen/verstehen + zu-Infinitiv*)
 
-The ~~Abilitiv~~ (full discussion in [@sec:zuinfinitive-wissen]) uses the verb *wissen* with a *zu-Infinitiv* [@next a,b] in a coherent monoclausal construction [@next c]. The independent lexical verb *wissen* means 'to know', but in this construction it expresses the ability to perform an action (i.e. similar to *können*). Instead of *wissen* it is also possible to use the verb *verstehen*. Likewise, the verb *verstehen* has a lexical meaning, namely 'to understand', but in a construction with *zu-Infinitiv* it is grammaticalised to express ablity. There is no obvious difference between *wissen* and *verstehen* when used in this construction. A more formal variant exists with the light verb *vermögen* (full discussion in [@sec:zuinfinitive-vermogen]).
+The ~~Abilitiv~~ (full discussion in [@sec:zuinfinitive-wissen]) uses the verb *wissen* with a *zu-Infinitiv* [@next a,b] in a coherent monoclausal construction [@next c]. The independent lexical verb *wissen* means 'to know', but in this construction it expresses the ability to perform an action (i.e. similar to modal *können*). Instead of *wissen* it is also possible to use the verb *verstehen*. Likewise, the verb *verstehen* has a lexical meaning, namely 'to understand', but in a construction with *zu-Infinitiv* it is grammaticalised to express ablity. There is no obvious difference between *wissen* and *verstehen* when used in this construction. A more formal variant exists with the light verb *vermögen* (full discussion in [@sec:zuinfinitive-vermogen]).
 
 ::: ex
 a. Der Lehrer begeistert die Schüler.
@@ -2455,13 +2467,36 @@ b. Der Lehrer weiß/versteht die Schüler zu begeistern.
 c. Es ist bekannt, dass der Lehrer die Schüler zu begeistern weiß/versteht.
 :::
 
-### *Effekativ* (*bekommen/kriegen + Partizip*) {#sec:summary-effekativ}
+### *Kogitativ* (*denken + zu-Infinitiv*) {#sec:summary-kogitativ}
 
-(full discussion in [@sec:participles-bekommen-achievement]) *können*
+The ~~Kogitativ~~ (from Lat. *cogitare* 'to consider, to intend', full discussion in [@sec:zuinfinitiv-denken])  (i.e. similar to modal *wollen*) 
+
+A less frequent and slightly ironical alternative is the light verb *belieben* (full discussion in [@sec:zuinfinitive-belieben]).
 
 ::: ex
-a. Der Eigentümer vermietet die Wohnung.
-b. Der Eigentümer kriegt die Wohnung vermietet.
+- Ich denke ihn zu überraschen.
+- Es ist bekannt, dass ich ihn zu überraschen denke.
+- ^^?^ Es ist bekannt, dass ich denke, ihn zu überraschen.
+:::
+
+### *Konativ* (*suchen + zu-Infinitive*) {#sec:summary-konativ}
+
+The ~~Konativ~~ (from Lat. *conor* 'to try', full discussion in [@sec:zuinfinitive-suchen]) is a category that expresses an attempt at an activity. In German it can be expressed with *suchen + zu-Infinitiv* [@next a,b]. In this construction, the meaning of *suchen* is similar to *versuchen* 'to try' and not to the lexical meaning of *suchen* 'to search'. In the meaning of 'to try' the construction is coherent [@next c], while the semantically similar *versuchen* does not lead to coherent constructions [@next d]. 
+
+::: ex
+- Er hilft ihr.
+- Er suchte ihr zu helfen.
+- Es ist bekannt, dass er ihr zu helfen suchte.
+- Es ist bekannt, dass er versuchte, ihr zu helfen.
+:::
+
+### *Effekativ* (*bekommen/kriegen + Partizip*) {#sec:summary-effekativ}
+
+The aspired outcome of intending (see [@sec:summary-kogitativ]) or trying (see [@sec:summary-konativ]) is to achieve something. This can be expressed with the ~~Effekativ~~ (full discussion in [@sec:participles-bekommen-achievement]) *können*
+
+::: ex
+a. Der Eigentümer vermietet die Wohnung nicht.
+b. Der Eigentümer kriegt die Wohnung nicht vermietet.
 :::
 
 ### *Exemptiv* (*haben + Infinitiv*)
