@@ -118,7 +118,10 @@ b. Der Schaden ist zum Heulen.
 
 ### --- [ Ø > SBJ > OBJ ] --- {.unnumbered}
 
-### [ –N | NA ] *bringen/kriegen + zum + Infinitiv* causative (*Aktivitätskausativ*) {#sec:zuminfinitive-bringen-causative}
+### [ –N | NA ] *bringen + zum + Infinitiv* causative (*Aktivitätskausativ*) {#sec:zuminfinitive-bringen-causative}
+
+Auch mit *kriegen*? Keine gute Beispiele in DWDS! Ein Blog-Beispiel:
+- Wie krieg ich meinen O2 surfstick zum laufen?^[~~DWDS~~: kostenloses Netbook-OS Jolicloud. Max und Vio's Schreibblog, 2010-02-20.]
 
 ::: ex
 a. Ich weine.
@@ -130,7 +133,7 @@ Patiens als Akkustiv (nur bei antikausative Verben?)
 - Der Stock bricht. Er kriegt den Stock zum brechen. (vgl. Er bricht den Stock.)
 - Der Mechaniker kriegt die Maschine in Bewegung (vgl. Die Maschine bewegt sich.)
 
-### [ –NA | NAg ] *bringen/kriegen + zum + Infinitiv* causative
+### [ –NA | NAg ] *bringen + zum + Infinitiv* causative
 
 Patiens als Genitiv bei transitive Verben.
 
@@ -151,6 +154,28 @@ Andere Nominalisierungen?
 - Er bringt das Bild zur Versteigerung.
 - Er bringt die Akte in Bearbeitung.
 - Er bringt mich dazu ein Haus zu bauen.
+
+### [ –N | NA ] *halten + am + Infinitiv* Continuative Causative (*Kontinuitätskausativ*) {#sec:zuminfinitive-halten-causative}
+
+The *halten + am + Infinitiv* construction is used with intransitive verb, most typically with *laufen* [@next a]. It adds a new participant to the event that causes the process to keep ongoing. This construction is also frequently attested with verbs describing heat production, like *kochen* 'to cook' [@next b]. However, these verbs appear to be mostly used in a metaphorical sense.
+
+::: ex
+- Der so erzeugte Druck hielt die Partnerschaft am Laufen.^[~~DWDS~~: Berliner Zeitung, 28.05.1999.]
+- Photos, Interviews und Indiskretionen halten den Topf am Kochen.^[~~DWDS~~: Die Zeit, 20.01.1961, Nr. 04.]
+:::
+
+**Attested verbs**
+
+- *drehen, laufen, leben, lesen*
+- heat verbs: *brennen, brodeln, glimmen, kochen, köcheln, lodern, sieden, schwelen*
+
+**Examples**
+
+- Wer die Münze nicht am drehen halten kann, muss anscheinend einen Schnaps auf Ex trinken.^[Attested online at <https://pippin-unterwegs.de/hogmanay-in-glasgow/>, accessed 20.11.2021.]
+- Deshalb posten moderatoren immer in jedem thread und halten die diskussion am kochen.^[~~DWDS~~: Die Schönheit Des Simplexen, 2005-06-29.]
+- Das hält die SSH-Verbindung länger am leben.^[~~DWDS~~: Konstantin Filtschew WebLog, 2008-10-13.]
+- Die Frage, ob und wie A und B zusammenkommen, ist aber nicht das, was mich am Lesen hält.^[~~DWDS~~: Von Genrebetrachtungen und Happy Ends. Katastrophengebiet, 2011-06-05.]
+- Zubereitung: Den Fond erhitzen und am Sieden halten.^[~~DWDS~~: KOCHWERKSTATT Wo es so lecker ist!. koch-werkstatt.de, 2006-03-09.]
 
 ## Diatheses with object demotion
 

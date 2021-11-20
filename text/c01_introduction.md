@@ -1482,9 +1482,9 @@ a. Wir verlieren den Koffer nicht.
 b. Jetzt gilt es (für uns) den Koffer nicht zu verlieren.
 :::
 
-### *Intransitiver Notwendigkeitsdemotiv* (*heißen + Infinitiv*) {#sec:summary-notwendigkeitsdemotiv}
+### *Intransitiver Notwendigkeitsdemotiv* (*heißen + Infinitiv*) {#sec:summary-intrans-notwendigkeitsdemotiv}
 
-The ~~Intransitiver Notwendigkeitsdemotiv~~ (full discussion in [@sec:zuinfinitive-heißen-demotion]) consists of the verb *heißen* with an infinitive. The meaning of this constructions is very close to the previous *Notwendigkeitsdemotiv* construction (see [@sec:summary-notwendigkeitsdemotiv]). However, *heißen* can only be applied with intransitive verbs. Note that there is a completely separate causative usage of *heißen + Intransitiv*, but this *Agentivkausativ* appears to be rather old-fashioned (see [@sec-summary-machenkausativ]).
+The ~~Intransitiver Notwendigkeitsdemotiv~~ (full discussion in [@sec:infinitive-heißen-demotion]) consists of the verb *heißen* with an infinitive. The meaning of this constructions is very close to the previous *Notwendigkeitsdemotiv* construction (see [@sec:summary-notwendigkeitsdemotiv]). However, *heißen* can only be applied with intransitive verbs. Note that there is a completely separate causative usage of *heißen + Intransitiv*, but this *Agentivkausativ* appears to be rather old-fashioned (see [@sec:summary-machenkausativ]).
 
 ::: ex
 a. Er redet weiter.
@@ -1679,7 +1679,7 @@ b. Der Spieler gehört bestraft (durch den Schiedsrichter)
 
 ### *Rezipientenpassiv* (*bekommen/kriegen/erhalten + Partizip*) {#sec:summary-rezipientenpassiv}
 
-The ~~Rezipientenpassiv~~ (full discussion in [@sec:participles-bekommen-passive]) has become a mainstay in the German grammatical literature. It consists of the light verb *bekommen* with a participle (alternatively, the light verbs *kriegen* or *erhalten* can be used). With this diathesis, a dative recipient is turned into the nominative subject. Again, the erstwhile nominative can be retained as a prepositional phrase, though it mostly is not used (as with all passives).
+The ~~Rezipientenpassiv~~ (full discussion in [@sec:participles-bekommen-passive]) has become a mainstay in the German grammatical literature. It consists of the light verb *bekommen* with a participle (alternatively, the light verbs *kriegen* or *erhalten* can be used). With this diathesis, a dative recipient is turned into the nominative subject. Again, the erstwhile nominative can be retained as a prepositional phrase, though it mostly is not used (as with all passives). Note that the same construction can also be used in a different 'achievement' interpretation without diathesis, called *Effekativ* (see [@sec:summary-effekativ]).
 
 ::: ex
 a. Der Friseur schneidet mir die Haare.
@@ -1814,7 +1814,7 @@ c. (= Sie verursacht, dass ich die Kleider wasche.)
 d. (= Sie erlaubt, dass ich die Kleider wasche.)
 :::
 
-### *Agentivkausativ* (*machen/heißen + Infinitiv*) {#sec-summary-machenkausativ}
+### *Agentivkausativ* (*machen/heißen + Infinitiv*) {#sec:summary-machenkausativ}
 
 The ~~Agentivkausativ~~ (full discussion in [@sec:infinitive-machen]) is probably the most pure causative of all the various novative light verb with infinitive diatheses. It uses the light verb *machen* 'to make' and adds a causer [@next a]. It is not in widespread use and often sound like English calques, though it is probably an old Germanic construction. A highly similar construction uses the light verb *heißen* [@next b]. This seems to be rather old-fashioned (full discussion in [@sec:infinitive-heißen]).
 
@@ -1825,7 +1825,7 @@ b. Er kniete nieder. \
    Der Henker hieß ihn niederknieen.
 :::
 
-### *Direktivkausativ* (*schicken + Infinitiv*) {#sec-summary-direktivkausativ} 
+### *Direktivkausativ* (*schicken + Infinitiv*) {#sec:summary-direktivkausativ} 
 
 The ~~Direktivkausativ~~ (full discussion in [@sec:infinitive-schicken]) is a causative with the extra semantic aspects that some form of instructions are given. This diathesis is constructed with the light verb *schicken* with infinitive. The meaning of the construction is rather close to the full lexical meaning of *schicken* 'to send'. However, this construction is coherent, and thus monoclausal [@next c].
 
@@ -1835,7 +1835,21 @@ b. Ich schicke ihn schlafen.
 c. Es ist bekannt, dass ich ihn schlafen schicke.
 :::
 
-### *Aktivitätskausativ* (*bringen/kriegen + zum + Infinitiv*) {#sec:summary-aktivitatskausativ}
+### *Auftragskausativ* (*geben + zu-Infinitiv*) {#sec:summary-auftragskausativ}
+
+The ~~Auftragskausativ~~ (full discussion in [@sec:zuinfinitive-geben-causative]) adds a causer by using the light verb *geben* with *zu* and an infinitive. In this diathesis the erstwhile subject becomes a dative (not an accusative). In many examples of this diathesis the meaning of this diathesis is very close to the meaning of the lexical verb *geben* 'to give'. For example with the verb *trinken* 'to drink' [@next a] the diathesis implies both the literal interpretation 'he gives X to Y for drinking' and the causative interpretation 'he causes Y to drink X'. The light-verb status of *geben* is better exemplified together with verbs that take clausal complements like *bedenken* 'to consider' [@next c]. 
+
+Whatever the interpretation, this construction is coherent, and thus monoclausal [@next b], so, whatever the precise semantic interpretation, this is structurally clearly a diathesis. The *geben + zu-Infinitiv* construction is also used for a semantically and structurally quite different diathesis, namely the *Möglichkeitsdemotiv* (see [@sec:summary-moglichkeitsdemotiv]).
+
+::: ex
+a. Das Kind trinkt Milch. \
+   Er gibt dem Kind Milch zu trinken.
+b. Es ist bekannt, dass er dem Kind Milch zu trinken gibt.
+c. Ich bedenke, dass es schon spät ist. \
+   Er gibt mir zu bedenken, dass es schon spät ist.
+:::
+
+### *Aktivitätskausativ* (*bringen + zum + Infinitiv*) {#sec:summary-aktivitatskausativ}
 
 The ~~Aktivitätskausativ~~ (full discussion in [@sec:zuminfinitive-bringen-causative]) consists of the light verb *bringen* with *zum* and infinitive. This diathesis adds a nominative causer to intransitive verbs like *tanzen* 'to dance' [@next a]. Accusative objects of transitive verbs can only be expressed when incorporated, forming predicates like *Briefeschreiben* 'letter-writing' [@next b]. Such verbs with incorporated object are arguably intransitives.
 
@@ -1846,16 +1860,15 @@ b. Ich schreibe einen Brief. \
    Sie bringt mich zum Briefeschreiben.
 :::
 
-### *Auftragskausativ* (*geben + zu-Infinitiv*) {#sec:summary-auftragskausativ}
+### *Kontinuitätskausativ* (*halten + am + Infinitiv*) {#sec:summary-kontinuitatskausativ}
 
-The ~~Auftragskausativ~~ (full discussion in [@sec:zuinfinitive-geben-causative]) adds a causer by using the light verb *geben* with *zu* and an infinitive. In this diathesis the erstwhile subject becomes a dative (not an accusative). In many examples of this diathesis the meaning of this diathesis is very close to the meaning of the lexical verb *geben* 'to give'. For example with the verb *trinken* 'to drink' [@next a] the diathesis implies both the literal interpretation 'he gives X to Y for drinking' and the causative interpretation 'he causes Y to drink X'. Whatever the interpretation, this construction is coherent, and thus monoclausal [@next b], so, whatever the precise semantic interpretation, this is structurally clearly a diathesis. The light-verb status of *geben* is better exemplified with verbs that take clausal complements like *bedenken* 'to consider' [@next c]. The *geben + zu-Infinitiv* construction is also used for a semantically and structurally quite different diathesis, namely the *Möglichkeitsdemotiv* (see [@sec:summary-moglichkeitsdemotiv]).
+The ~~Kontinuitätskausativ~~ (full discussion in [@sec:zuminfinitive-halten-causative]) uses the light verb *halten* with *am* and an infinitive. This diathesis is similar to the previous *Aktivitätskausativ* in that it adds a causer to an intransitive verb. It is typically used with *laufen* [@next a] and other agentive intransitive verbs. Additionally, verbs describing heat production, like *brennen* 'to burn' [@next b], are frequently attested. The *halten + am + Infinitiv* diathesis expresses that a process is kept ongoing by the added causer. The light verb *halten* is also used in the related *Kausativkontinuativ* epithesis (see [@sec:summary-kausativkontinuativ]).
 
 ::: ex
-a. Das Kind trinkt Milch. \
-   Er gibt dem Kind Milch zu trinken.
-b. Es ist bekannt, dass er dem Kind Milch zu trinken gibt.
-c. Ich bedenke, dass es schon spät ist. \
-   Er gibt mir zu bedenken, dass es schon spät ist.
+- Der Laden läuft. \
+  Er hält den Laden am Laufen.
+- Das Feuer brennt. \
+  Disziplin hält das Feuer am Brennen.
 :::
 
 ### *Perzeptiv* (*sehen/hören/fühlen/spüren + Infinitiv*) {#sec:summary-sensativ}
@@ -2256,7 +2269,7 @@ c. Ich presse die Zitrone aus.
 
 ## Verbal categories reconsidered
 
-Browse any grammatical description of verbal categories in German and terms like *Plusquamperfekt* [@next a] or *Futur II* [@next b] will surely pass by. There is nothing wrong with those terms, but they describe very specific combinations of verbal markers that are mostly transparantly interpretable (e.g. *Plusquamperfekt* is simply a perfekt with past-tense finite verb). In contrast, there are many basic verbal constructions that are only sparingly discussed in German grammars, if at all. For example, the *pflegen + zu-Infinitiv* habitual [@next c] or the *sein + Infinitiv* absentive [@next d] are not widely acknowledged. As a case in point, the Duden grammar spends 20 pages on details of tense marking [-@duden2009: 496-516], while only a few select additional verbal constructions are discussed in just four pages [-@duden2009: 848-852]. This chapter can be read as an attempt at a complete survey of all those remaining German verbal categories, besides tense. 
+Browse any grammatical description of verbal categories in German and terms like *Plusquamperfekt* [@next a] or *Futur II* [@next b] will surely pass by. There is nothing wrong with those terms, but they just describe very specific combinations of verbal markers that are mostly transparantly interpretable (e.g. *Plusquamperfekt* is simply a perfekt with past-tense finite verb). In contrast, there are many basic verbal constructions that are only sparingly discussed in German grammars, if at all. The *pflegen + zu-Infinitiv* habitual [@next c] or the *sein + Infinitiv* absentive [@next d] are probably the most well-known among those, but they are still not widely acknowledged in general grammars of German. As a case in point, the Duden grammar spends 20 pages on details of tense marking [-@duden2009: 496-516], while only a few select additional verbal constructions are discussed in just four pages [-@duden2009: 848-852]. This chapter can be read as an attempt at a complete survey of all those remaining German verbal categories, besides tense. 
 
 ::: ex
 - Wer hatte dir die Adresse gegeben?
@@ -2267,7 +2280,7 @@ Browse any grammatical description of verbal categories in German and terms like
 
 This chapter arose as a byproduct of the main goal of this book, namely listing all German diatheses. To clearly delimit what counts as a diathesis, I also collected constructions that are structurally similar to diatheses, but that did not involve any role remapping. These structures are called ~~epitheses~~ and are listed in-full in the respective X.4 sections of the following data chapters. This chapter summarises and organises the major epitheses that I have been able to find. I will also propose German names for all of these constructions.
 
-Quickly recapitulated, an ~~epithesis~~ is a monoclausal construction in which the lexical roles are not remapped in comparison to a basic clause (= a clause with just a single finite lexical verb form). For example, a basic clause with the finite verb *erzählen* 'to tell' [@next a] might have the roles of 'teller' (*Großvater*, nominative), 'tellee' (*Enkelin*, dative) and 'story told' (*Witz*, accusative). A construction like *pflegen + zu-Infinitiv* is an epithesis because when applied to *erzählen* all these roles remain encoded in exactly the same grammatical form [@next b]. Additionally, this construction is monoclausal because the finite *pflegte* is placed at the end in a subordinate situation (i.e. the clause is coherent, see [@sec:intro-coherence]).
+Quickly recapitulated, an ~~epithesis~~ is a monoclausal construction in which the lexical roles are not remapped in comparison to a basic clause (= a clause with just a single finite lexical verb form). For example, a basic clause with the finite verb *erzählen* 'to tell' [@next a] might have the roles of 'teller' (*Großvater*, in the nominative), 'tellee' (*Enkelin*, in the dative) and 'story told' (*Witz*, in the accusative). A construction like *pflegen + zu-Infinitiv* is an epithesis because when applied to *erzählen* all these roles remain encoded in exactly the same grammatical form [@next b]. Additionally, this construction is monoclausal because the finite *pflegte* is placed at the end in a subordinate situation (i.e. the clause is coherent, see [@sec:intro-coherence]).
 
 ::: ex
 - Der Großvater erzählt seiner Enkelin einen Witz.
@@ -2275,13 +2288,15 @@ Quickly recapitulated, an ~~epithesis~~ is a monoclausal construction in which t
 - Es ist bekannt, dass der Großvater seiner Enkelin einen Witz zu erzählen pflegte.
 :::
 
-The constructions listed in this chapter are not haphardly collected out of some infinite pool of possible analytical combinations of verb forms. Quite to the contrary, the constructions listed here are claimed to be an exhaustive list of all epithetical German verb forms. Only a few rare and/or old-fashioned constructions are left out from this summary (but they can still be found in the following data chapters). The list of major epitheses in this chapter is quite long (about 25 constructions), but manageable. Any 1000-plus-page grammar could easily add a few pages listing them all. This number of epitheses is also quite a bit less than the number of major diatheses presented in the previous chapter (about 75 constructions). This indicates that from a purely grammatical perspective, diathesis is a three-times more elaborate topic than epithesis. 
+The constructions listed in this chapter are not haphardly collected out of some infinite pool of possible analytical combinations of verb forms. Quite to the contrary, the constructions listed here are claimed to be an exhaustive list of all epithetical German verb forms. Only a few rare and/or old-fashioned constructions are left out from this summary (but they can still be found in the following data chapters). The list of major epitheses in this chapter is quite long (about 25 constructions), but manageable. Any 1000-plus-page grammar could easily add a few pages listing them all (or at least the most commonly attested ones). This number of epitheses is also quite a bit less than the number of major diatheses presented in the previous chapter (about 75 constructions). This indicates that from a purely grammatical perspective, diathesis is a three-times more elaborate topic than epithesis. 
 
-#### Characterising epitheses
+#### Characterising epitheses {.unnumbered}
 
-The epitheses listed in this chapter thus map out grammaticalised verbal categories of the German language. However, it is crucial to realise that not every lexical verb can be combined with each of these constructions. Just as with diatheses, each epithesis has a limited domain of applicability, i.e. each epithesis has a specific set of verbs that it can be applied to (cf. [@sec:intro-domain-of-application]). It is a very worthwhile future endeavour to specify these domains in more detail than I have been able to do here. Additionally, this restricted applicability means that one cannot simply take a random lexical verb and paradigmatically list all different epithetical forms for this verb, like traditional grammars like to do with tense forms. In contrast, it becomes a matter of lexicography to enumarate the epitheses that are compatible with each individual verb.
+The epitheses listed in this chapter map out all grammaticalised verbal categories of the German language. However, it is crucial to realise that not every lexical verb can be combined with each of these constructions. Just as with diatheses, each epithesis has a limited domain of applicability, i.e. each epithesis has a specific set of verbs that it can be applied to (cf. [@sec:intro-domain-of-application]). It is a very worthwhile future endeavour to specify these domains in more detail than I have been able to do here. Additionally, this restricted applicability means that one cannot simply take a random lexical verb and paradigmatically list all different epithetical forms for this verb, like traditional grammars like to do with tense forms. Quite to the contrary, it becomes a matter of lexicography to enumarate the epitheses that are compatible with each individual verb.
 
-The epithetic constructions listed in this chapter mostly have a rather clear semantic content. For example, the *pflegen + Infinitiv* epithesis, as mentioned earlier, expresses a habitual aspect. However, this construction is far from the only way to express habituality in German. It will typically be expressed with adverbs, like *regelmäßig* 'regularly' or some concrete timeframe with *jeden*, like *jeden Morgen* 'every morning'. So, the characterisation of *pflegen + Infinitiv* as an habitual verb form is actually only part of the story. What needs to be added is a more detailed description of the kind of contexts in which this construction is actually used. A famous case in point here is the *werden + Infinitive* construction, which is called *Futur* in the German grammatical tradition. Now, this construction can indeed express events in the future, so the name *Futur* is not wrong, but future event are much more commonly expressed with a simple present tense verb form. So, a more detailed characterisation of the *Futur* is necessary to explain when it is actually used (see [@sec:infinitive-werden-modal]).
+Epitheses mostly express a rather clear semantic content, but they are not obligatorily used to express that content. For example, the *pflegen + Infinitiv* epithesis, as mentioned above, expresses a habitual aspect. However, this construction is far from the only way to express habituality in German. Habitual aspect will typically be expressed by a simple present verb from with some specific adverbs, like *regelmäßig* 'regularly' or a concrete timeframe with *jeden*, like *jeden Morgen* 'every morning'. So, the characterisation of *pflegen + Infinitiv* as an habitual verb form is actually only part of the story. What needs to be added is a more detailed description of the kind of contexts in which this construction is actually used, instead of other options available to the speaker. 
+
+This desideratum holds for all epitheses discussed here: it is necessary to specify what determines their usage. A famous case in point here is the *werden + Infinitive* construction, which is called *Futur* in the German grammatical tradition. This construction can indeed express events in the future, so the name *Futur* is not wrong. However, future event are much more commonly expressed with a simple present tense verb form. So, a more detailed characterisation of the *werden + Infinitiv* is necessary to explain when it is actually used (see [@sec:infinitive-werden-modal]).
 
 #### Classification of epitheses {.unnumbered}
 
@@ -2295,7 +2310,7 @@ Aditionally, I have added a section with epithetical construction that change th
 
 ### *Prozessperfekt* (*haben + Partizip*) {#sec:summary-prozessperfekt}
 
-(full discussion in [@sec:participles-haben-perfect] and subsequent sections)
+The ~~Prozessperfekt~~ (full discussion in [@sec:participles-haben-perfect] and subsequent sections) is proposed here as a specific name for the *haben + Partizip* construction [@next]. In the German grammatical tradition, the perfect is normally described as taking either *haben* or *sein*. However, there turn out to be surprisingly many verbs that allow for both, with a clear distinction in meaning (see [@sec:participles-haben-sein-perfect]). For that reason, I propose to use different names for both constructions. Note that the name *Perfekt* is developing into a misnomer, as the *haben + Partizip* appears to be taking over the function of past marking.
 
 ::: ex
 a. Das Kind schläft.
@@ -2304,7 +2319,7 @@ b. Das Kind hat geschlafen.
 
 ### *Zustandsperfekt* (*sein + Partizip*) {#sec:summary-zustandsperfekt}
 
-(full discussion in [@sec:participles-sein-perfect] and subsequent sections)
+The ~~Zustandsperfekt~~ (full discussion in [@sec:participles-sein-perfect] and subsequent sections) is proposed here as a name for the *sein + Partizip* epithesis [@next]. This name is explicitly intended to be reminiscent of the *Zustandspassiv* (see [@sec:summary-zustandspassiv]), because both construction are formally identical. The only difference is that they are applied to different verbs (and consquently have a different effect on the marking of the roles).
 
 ::: ex
 a. Das Kind schläft ein.
@@ -2313,7 +2328,7 @@ b. Das Kind ist eingeschlafen.
 
 ### *Progressiv* (*sein + am + Infinitiv*)
 
-(full discussion in [@sec:zuminfinitive-sein-am])
+The ~~Progressiv~~ (full discussion in [@sec:zuminfinitive-sein-am]) uses *sein* with the preposition *an* and an infinitive with a definite article *dem*. The combination *an + dem* is contracted to *am*. In this construction the infinitive is thus clearly a nominalised form of the verb, so it is regularly (though not universally) written with a capital letter in German orthography [@next b]. The *sein + am + Infinitiv* clearly expresses a progressive aspect, though its usage is frowned upon in a formal written register. In spoken language it appears to be pervasive, though.
 
 ::: ex
 a. Das Kind jammert dauernd.
@@ -2349,22 +2364,22 @@ a. Der Schlüssel verschwindet.
 b. Der Schlüssel bleibt verschwunden.
 :::
 
-### *Kausativkontinuativ* (*halten + Partizip*)
+### *Permissivkontinuativ* (*lassen + Partizip*)
 
-(full discussion in [@sec:participles-halten-durative]) *halten* active, *lassen* more passive, cf. Permissivkausativ [@sec:summary-permissivkausativ].
-
-::: ex
-a. Ich schließe die Tür.
-b. Ich halte die Tür geschlossen.
-:::
-
-### *Permissivkausativkontinuativ* (*lassen + Partizip*)
-
-(full discussion in [@sec:participles-lassen-durative]) cf. *Permissivkausativ* [@sec:summary-permissivkausativ].
+The ~~Permissivkontinuativ~~ (full discussion in [@sec:participles-lassen-durative]) uses the light verb *lassen* with a participle [@next]. The name establishes a connection to the *Permissivkausativ* (see [@sec:summary-permissivkausativ]), while highlighting the fact that semantically this construction is a continuative. It expresses the permission of the subject for a transitive action to continue.
 
 ::: ex
 - Ich schalte den Fernseher ein.
 - Ich lasse den Fernseher eingeschaltet.
+:::
+
+### *Kausativkontinuativ* (*halten + Partizip*) {#sec:summary-kausativkontinuativ}
+
+The ~~Kausativkontinuativ~~ (full discussion in [@sec:participles-halten-durative]) uses the light verb *halten* with a participle [@next]. It expresses an explicit action by the subject to keep an perfective state ongoing. The light verb *halten* is also used in the related *Kontinuitätskausativ* (see [@sec:summary-kontinuitatskausativ]).
+
+::: ex
+a. Ich schließe die Tür.
+b. Ich halte die Tür geschlossen.
 :::
 
 ## Spatial aspect {#sec:epithesis-spatial-aspect}
@@ -2469,14 +2484,14 @@ c. Es ist bekannt, dass der Lehrer die Schüler zu begeistern weiß/versteht.
 
 ### *Kogitativ* (*denken + zu-Infinitiv*) {#sec:summary-kogitativ}
 
-The ~~Kogitativ~~ (from Lat. *cogitare* 'to consider, to intend', full discussion in [@sec:zuinfinitiv-denken])  (i.e. similar to modal *wollen*) 
-
-A less frequent and slightly ironical alternative is the light verb *belieben* (full discussion in [@sec:zuinfinitive-belieben]).
+The ~~Kogitativ~~ (from Lat. *cogitare* 'to consider, to intend', full discussion in [@sec:zuinfinitiv-denken]) uses the verb *denken* with a *zu-Infinitiv* [@next a]. In this construction the verb *denken* has lost its lexical meaning 'to think'. Instead, it expresses an intention to perform a certain action (i.e. similar to modal *wollen*). In this light-verb usage it is coherent [@next b]. In its lexical meaning 'to think' it is not coherent [@next c]. A less frequent and slightly ironical alternative to *denken* is to use the light verb *belieben* (full discussion in [@sec:zuinfinitive-belieben]).
 
 ::: ex
-- Ich denke ihn zu überraschen.
+- Ich überrasche ihn. \
+  Ich denke ihn zu überraschen.
 - Es ist bekannt, dass ich ihn zu überraschen denke.
-- ^^?^ Es ist bekannt, dass ich denke, ihn zu überraschen.
+- Er denkt mich überasschen zu können. \
+  Es ist bekannt, dass er denkt, mich überraschen zu können.
 :::
 
 ### *Konativ* (*suchen + zu-Infinitive*) {#sec:summary-konativ}
@@ -2492,11 +2507,14 @@ The ~~Konativ~~ (from Lat. *conor* 'to try', full discussion in [@sec:zuinfiniti
 
 ### *Effekativ* (*bekommen/kriegen + Partizip*) {#sec:summary-effekativ}
 
-The aspired outcome of intending (see [@sec:summary-kogitativ]) or trying (see [@sec:summary-konativ]) is to achieve something. This can be expressed with the ~~Effekativ~~ (full discussion in [@sec:participles-bekommen-achievement]) *können*
+The aspired outcome of intending something (see [@sec:summary-kogitativ]) or of trying something (see [@sec:summary-konativ]) is to achieve something. This can be expressed with the ~~Effekativ~~ (from Lat. *effectus* 'accomplishment', full discussion in [@sec:participles-bekommen-achievement]), consisting of the light verbs *bekommen* or *kriegen* with a participle [@next a,b]. The same construction is also used for the *Rezepientenpassiv* (see [@sec:summary-rezipientenpassiv]). It is even possible to construct ambiguous sentences that can both have an *Effekativ* and a *Rezipientenpassiv* interpretation [@next c].
 
 ::: ex
 a. Der Eigentümer vermietet die Wohnung nicht.
 b. Der Eigentümer kriegt die Wohnung nicht vermietet.
+c. Der Zahnarzt kriegt den Zahn gezogen. \
+   (= Der Zahnarzt schafft es, den Zahn zu ziehen.) \
+   (= Dem Zahnarzt wird der Zahn gezogen.)
 :::
 
 ### *Exemptiv* (*haben + Infinitiv*)
@@ -2564,9 +2582,9 @@ c. Es ist bekannt, dass er verspricht, das Licht auszuschalten.
 
 ## Participant affectedness {#sec:epithesis-affectedness}
 
-### *Intransitiv versteckter Kausativ* (*kommen + zu-Infinitiv*)
+### *Verborgener Zustandskausativ* (*kommen + zu-Infinitiv*) {#sec:epithesis-zustandskausativ}
 
-The ~~Versteckter Kausativ~~ exists in two variants. The first kind (full discussion in [@sec:zuinfinitive-kommen]) uses the light verb *kommen* with a *zu-Infinitiv* [@next a,b]. This construction conveys that there is some unexpressed force or agent that has caused a state to be reached. It can only used with intransitive verbs like *stehen* and in obligatorily coherent [@next c]
+The covert causative exists in two variants. The first kind, ~~Verborgener Zustandskausativ~~ (full discussion in [@sec:zuinfinitive-kommen]), uses the light verb *kommen* with a *zu-Infinitiv* [@next a,b]. This construction conveys that there is some unexpressed force or agent that has caused a state to be reached. It can only used with intransitive state verbs like *stehen* and is obligatorily coherent [@next c]
 
 ::: ex
 a. Sie stand neben mir.
@@ -2574,9 +2592,9 @@ b. Sie kam neben mir zu stehen.
 c. Es ist bekannt, dass sie neben mir zu stehen kam.
 :::
 
-### *Transitiv versteckter Kausativ* (*bekommen/kriegen + zu-Infinitiv*)
+### *Verborgener Rezipientenkausativ* (*bekommen/kriegen + zu-Infinitiv*)
 
-The second kind (full discussion in [@sec:zuinfinitive-bekommen]) uses the light verbs *bekommen* or *kriegen* with a *zu-Infinitiv* [@next a,b]. Like with *kommen* above, there is an unnamed force or agent that causes the situation to come about. The light verb *bekommen/kriegen* are typically combined with transitive verbs of sensation, like *sehen* 'to see', and consumption, like *essen* 'to eat'.
+The ~~Verborgener Rezipientenkausativ~~ (full discussion in [@sec:zuinfinitive-bekommen]) uses the light verbs *bekommen* or *kriegen* with a *zu-Infinitiv* [@next a,b]. Like with *kommen* (see [@sec:epithesis-zustandskausativ]), there is an unnamed force or agent that causes the situation to come about. The light verb *bekommen/kriegen* is typically combined with a transitive verb of sensation, like *sehen* 'to see', or consumption, like *essen* 'to eat'. By using this covert causative construction, the nominative subject is semantically depicted as an experiencer of the verb. The centrality of the experiencer role is reminiscent of the *Rezipientenpassiv* (see [@])
 
 ::: ex
 a. Die Schüler sehen einen Film.
@@ -2620,42 +2638,11 @@ a. Ich schlafe.
 b. Ich schlafe mich gesund.
 :::
 
-## Verb change?
-
-### *Nicht-strukturelles Präverb* 
-
-(full discussion in [@sec:preverb-intranstive-without-diathesis] and subsequent sections)
-
-::: ex
-a. Ich esse den Apfel.
-b. Ich esse den Apfel auf.
-:::
-
-### *Patientiv Präverb*
-
-(full discussion in [@sec:preverb-intransitive-with-unaccusative] and subsequent sections)
-
-::: ex
-a. Die Blume hat geblüht.
-b. Die Blume ist verblüht.
-d. ^* Die geblühte Blume ist immer noch schön.
-c. Die verblühte Blume ist immer noch schön.
-:::
-
-### *Reflexiv Präverb* 
-
-(full discussion in [@sec:preverb-reflexive] and subsequent sections)
-
-::: ex
-a. Ich laufe im Wald.
-b. Ich verlaufe mich im Wald.
-:::
-
 ## Summary of widespread light verbs
 
 The light verbs listed in [@tbl:light-verbs] occur in more than one derived clause construction. Shown in the table is whether these constructions induce epithesis (E) or diathesis (D). The ordering reflects an approximate top-left to bottom-right cline of the frequency of diathesis.
 
-|            | *Partizip* | *zu-Infinitiv* | *Infinitiv* | *Präp.+Infinitiv* |
+|            | *Partizip* | *zu-Infinitiv* | *Infinitiv* | *Präposition-Infinitiv* |
 | :--------- | :--------: | :------------: | :---------: | :---------------: |
 | *haben*    |    D+E     |       E        |     D+E     |         D         |
 | *sein*     |    D+E     |       D        |      E      |        D+E        |

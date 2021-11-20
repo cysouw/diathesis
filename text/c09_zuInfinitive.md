@@ -235,8 +235,6 @@ In most contexts, the verb *denken* means 'to think'
 
 "beabsichtigen/wollen" not in meaning 'to think, to believe' *Cogitative* from Lat *cogitare* 'to consider, to intend'
 
-
-
 ::: ex
 - Er denkt, mich überraschen zu können. \
   Es ist bekannt, dass er denken, mich überraschen zu können.

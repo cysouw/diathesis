@@ -23,7 +23,7 @@ Following Bech [-@bech1955] such construction are often designated as *Erster St
 There are ten frequently occurring diatheses that use a light verb + infinitive construction and for which I propose a German name, as listed below. Note that the *lassen + Infinitiv* construction occurs in many different diatheses. A detailed discussion of these can be found in [@sec:infinitive-guises-of-lassen]. 
 
 - ~~[SBJ › Ø]~~ *lassen* ~~Unpersönlicher Möglichkeitspassiv~~ (see [@sec:infinitive-lassen-reflexive-intransitive ff.])
-- ~~[SBJ › ADJ]~~ *heißen* ~~Intransitiver Notwendigkeitsdemotiv~ (see [@sec:infinitive-heißen-demotion])
+- ~~[SBJ › ADJ]~~ *heißen* ~~Intransitiver Notwendigkeitsdemotiv~~ (see [@sec:infinitive-heißen-demotion])
 - ~~[OBJ › SBJ › ADJ]~~ *lassen* ~~Möglichkeitsspassiv~~ (see [@sec:infinitive-lassen-reflexive-anticausative])
 - ~~[OBJ › SBJ › ADJ]~~ *lassen* ~~Permissivpassiv~~ (see [@sec:infinitive-lassen-reflexive-permissive-passive ff.])
 - ~~[OBJ › SBJ › OBJ]~~ *lassen* ~~Permissivinversiv~~ (see [@sec:infinitive-lassen-dative-reflexive-inversive])

@@ -458,8 +458,8 @@ b. Er gibt sich weltoffen.
 The light verbs *machen*, *lassen*, *halten* and *finden* are both used with adjectives and participles. With adjectives they all induce a novative alternation, i.e. a new subject role is added (see [@par:novative]). However, with participles they lead to different kinds of diatheses. 
 
 i. The light verb *finden* adds an opinionator, both with adjectives and participles (see [@sec:participles-finden-opinionator]). 
-ii. The subject of the light-verb *lassen* has a permissive meaning with adjectives [@next b], but a durative meaning with participles (see [@sec:participles-halten-lassen-durative]). 
-iii. Similarly, the subject of *halten* has a causative meaning with adjectives [@next c] but like *lassen* it has a durative meaning when combined with participles (see [@sec:participles-halten-lassen-durative]). 
+ii. The subject of the light-verb *lassen* has a permissive meaning with adjectives [@next b], but an additional durative meaning with participles (see [@sec:participles-lassen-durative]). 
+iii. Similarly, the subject of *halten* has a causative meaning with adjectives [@next c] but like *lassen* it has an durative meaning when combined with participles (see [@sec:participles-halten-durative]). 
 iv. Finally, *machen* has many different uses with adjectives [@fehrmann2018: 218], among them a causative reading [@next d]. With participles, *machen* likewise induces various different kinds of construction, which need a similarly in-depth study as Fehrmann's study of adjectives (see [@par:machen]).
 
 ::: ex
@@ -650,11 +650,11 @@ a. Der Gefangene ist gestern geflüchtet.
 b. Der Gefangene ist schon lange geflüchtet.
 :::
 
-Because of these three differences, I prefer to consider the *haben* and *sein* Perfects as two different constructions, for example called *Prozessperfekt (haben)* and *Zustandsperfekt (sein)* in German. To adhere to tradition, both are still called *Perfekt*. The first part of the name *Zustandsperfekt* conjures up the other *sein + Partizip* construction traditionally called *Zustandspassiv* (see [@sec:participles-sein-zustandspassiv]).
+Because of these three differences, I prefer to consider the *haben* and *sein* Perfects as two different constructions, for example called ~~Prozessperfekt~~ (*haben*) and ~~Zustandsperfekt~~ (*sein*) in German. To adhere to tradition, both are still called *Perfekt*, although functionally these construction appear to move towards marking past tense. The first part of the name *Zustandsperfekt* conjures up the other *sein + Partizip* construction traditionally called *Zustandspassiv* (see [@sec:participles-sein-zustandspassiv]).
 
 ### [ N | N ] *haben + Partizip* Intransitive Perfect {#sec:participles-haben-perfect}
 
-Many intransitive verbs only have a Perfect with the auxiliary *haben*, like *lachen* 'to laugh' [@next a]. Typically, the participle of such verbs cannot be used adnominally [@next b], see [@sec:participles-adnominal-usage], but the impersonal *werden* passive is possible [@next c], see [@sec:participles-werden-impersonal-passive].
+Many intransitive verbs only have a perfect with the auxiliary *haben*, like *lachen* 'to laugh' [@next a]. Typically, the participle of such verbs cannot be used adnominally [@next b], see [@sec:participles-adnominal-usage], but the impersonal *werden* passive is possible [@next c], see [@sec:participles-werden-impersonal-passive].
 
 ::: ex
 a. Die Schüler lachen. \
@@ -663,7 +663,7 @@ b. ^* Die gelachte Schüler sind froh.
 c. Heute wurde viel gelacht.
 :::
 
-Although verbs with a *haben* Perfect are often though of as 'agentive' verbs, there are many non-agentive verbs, for example describing bodily processes (like *bluten* 'to bleed') or bodily sensations (like *jucken* 'to itch) that also take *haben* in the Perfect.
+Although verbs with a *haben* perfect are often though of as 'agentive' verbs, there are many non-agentive verbs, for example describing bodily processes (like *bluten* 'to bleed') or bodily sensations (like *jucken* 'to itch') that also take *haben* in the Perfect.
 
 **Attested Verbs**
 
@@ -1168,9 +1168,9 @@ A widespread option for transitive verbs is to use the *halten + Partizip* const
 - Er hält die Taste gedrückt.
 - Er hält den Arm ausgestreckt.
 
-### [ NA | NA ] *lassen + Partizip* Permissively caused continuative (*Permissivkausativkontinuativ*) {#sec:participles-lassen-durative}
+### [ NA | NA ] *lassen + Partizip* Permissive continuative (*Permissivkontinuativ*) {#sec:participles-lassen-durative}
 
-Similar to the previous construction, the *lassen + Partizip* construction also can be used to express the causing the continuation of a state, like with *einschalten* 'to turn on' [@next]. Although this construction can be used with many different verbs, it turns out to be much more difficult to find suitable examples, which suggests that there are some additional constraints of the applicability of this construction. Semantically, *lassen + Partizip* expresses a more passively caused continuative (cf. the permissive reading of *lassen* with infinitive, see [@sec:infinitive-guises-of-lassen]).
+Similar to the previous construction, the *lassen + Partizip* construction also can be used to express the continuation of a state, like with *einschalten* 'to turn on' [@next]. Although this construction can be used with many different verbs, it turns out to be much more difficult to find suitable examples, which suggests that there are some additional constraints of the applicability of this construction. Semantically, *lassen + Partizip* expresses permissive continuative (cf. the permissive reading of *lassen* with infinitive, see [@sec:infinitive-guises-of-lassen]).
 
 ::: ex
 - Ich schalte den Fernseher ein.
@@ -1189,12 +1189,14 @@ Similar to the previous construction, the *lassen + Partizip* construction also 
 
 ### [ NA | NA ] *bekommen/kriegen + Partizip* Achievement (*Effekativ*) {#sec:participles-bekommen-achievement}
 
-The construction of the light verbs *bekommen/kriegen + Partizip* is widely discussed as a dative passive (see [@sec:participles-bekommen-passive]). However, transitive verbs without dative arguments can also occur in this construction with a completely different 'to be able to' interpretation [@next]. This usage is discussed as the '*bekommen*-Konstruktion 2' [@leirbukt1997: 15-16] or as the resultative usage of *bekommen/kriegen* [@lenz2013: 86, 238-239]. Different from the dative passive, the light verb *erhalten* is not possible in this resultative construction. I propose the German name ~~Effekativ~~ (from Lat. *effectus* 'accomplishment') for this construction.
+The construction of the light verbs *bekommen/kriegen + Partizip* is widely discussed as a dative passive (*Rezepientenpassiv*, see [@sec:participles-bekommen-passive]). However, transitive verbs without dative arguments can also occur in this construction with a completely different 'to be able to' interpretation [@next]. This usage is discussed as the '*bekommen*-Konstruktion 2' [@leirbukt1997: 15-16] or as the resultative usage of *bekommen/kriegen* [@lenz2013: 86, 238-239]. Different from the dative passive, the light verb *erhalten* is not possible in this resultative construction. I propose the German name ~~Effekativ~~ (from Lat. *effectus* 'accomplishment') for this construction. In some situations it is even possible to construction ambiguous sentences, that can either have a *Effekativ* [@next b] or an *Rezepientenpassiv* [@next c] interpretation.
 
 ::: ex
 - Ich koche einen Tee. 
-- Ich bekomme schon noch einen Tee gekocht! \
-  (= Ich schaffe es schon noch, einen Tee zu kochen.)
+- Ich bekomme (schon noch) einen Tee gekocht! \
+  (= Ich schaffe es, einen Tee zu kochen.)
+- Ich bekomme (von meiner Mutter) einen Tee gekocht. \
+  (= Meine Mutter kocht einen Tee für mich.)
 :::
 
 **Attested Verbs**
