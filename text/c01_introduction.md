@@ -9,7 +9,7 @@ a. Das Gemälde wird (von einem Künstler) gemalt.
 b. Der Künstler malt ein Gemälde.
 :::
 
-This approach to diathesis, viz. different grammatical sentence structures that express approximately the same state-of-affairs, is applicable to a large number of grammatical phenomena in German. For example, some verbs allow for passive-like constructions without any *werden* auxiliary, often called 'anticausative' [@next a]. Other verbs allow for an alternation between a case-marked accusative and a prepositional phrase, often called 'antipassive' [@next b]. Further, there exist many different kinds of diathesis marked by a reflexive pronoun *sich* [@next c] or marked by preverbs like *ent-* [@next d]. Many auxiliary-like construction beyond the *werden + Infinitiv* passive also show diathesis, e.g. *sein + zu-Infinitiv* [@next e].^[Many examples in this book contain masculine nouns, not because of laziness on my behalf, but because their definite articles overtly show the different German cases (*der, des, dem, den*). Notwithstanding this grammatical preference, I will try to use examples with as much diversity as possible throughout this book.]
+This approach to diathesis, viz. different grammatical sentence structures that express approximately the same state-of-affairs, is applicable to a large number of grammatical phenomena in German. For example, some verbs allow for passive-like constructions without any *werden* auxiliary, often called 'anticausative' [@next a]. Other verbs allow for an alternation between a case-marked accusative and a prepositional phrase, often called 'antipassive' [@next b]. Further, there exist many different kinds of diathesis marked by a reflexive pronoun *sich* [@next c] or marked by preverbs like *ent-* [@next d]. Many auxiliary-like construction beyond the *werden + Infinitiv* passive also show diathesis, e.g. *sein + zu‑Infinitiv* [@next e].^[Many examples in this book contain masculine nouns, not because of laziness on my behalf, but because their definite articles overtly show the different German cases (*der, des, dem, den*). Notwithstanding this grammatical preference, I will try to use examples with as much diversity as possible throughout this book.]
 
 ::: ex
 a. Der Doktor heilt den Schmerz. \
@@ -842,7 +842,7 @@ b. Hier wird getanzt.
 c. ^* Hier wird es getanzt.
 :::
 
-A different kind of isolated subject diathesis is subject demotion of the nominative subject to a prepositional phrase. An example is the *geben + zu-Infinitiv* [@next], see [@sec:zuinfinitive-geben-demotion]. In this diathesis, the subject is demoted to an optional non-governed prepositional phrase ~~[SBJ › ADJ]~~. The demotion is the only role-remapping that is happening in this diathesis, so I propose to call such a diathesis a ~~Demotive~~.
+A different kind of isolated subject diathesis is subject demotion of the nominative subject to a prepositional phrase. An example is the *geben + zu‑Infinitiv* [@next], see [@sec:zuinfinitive-geben-demotion]. In this diathesis, the subject is demoted to an optional non-governed prepositional phrase ~~[SBJ › ADJ]~~. The demotion is the only role-remapping that is happening in this diathesis, so I propose to call such a diathesis a ~~Demotive~~.
 
 ::: ex
 ~~Demotive [SBJ › ADJ]~~
@@ -975,7 +975,7 @@ b. Ich lasse den Jungen schlafen. \
    (= Ich erlaube, das der Junge weiter schläft.)
 :::
 
-Finally, the *lehren/helfen + Infinitiv* diathesis [@next], see [@sec:infinitive-lehren], is a novative in which the role of the new subject is more of an assistant than a real causative. Therefor it is called here an ~~assistive~~ novative. Note that both *lehren* and *helfen* can also be used with *zu-Infinitiv*, but then the constructions are not coherent, so those constructions are not included among the diatheses.
+Finally, the *lehren/helfen + Infinitiv* diathesis [@next], see [@sec:infinitive-lehren], is a novative in which the role of the new subject is more of an assistant than a real causative. Therefor it is called here an ~~assistive~~ novative. Note that both *lehren* and *helfen* can also be used with *zu‑Infinitiv*, but then the constructions are not coherent, so those constructions are not included among the diatheses.
 
 ::: ex
 ~~Assistive novative [Ø › SBJ › OBJ]~~
@@ -1034,7 +1034,7 @@ a. Dein Verhalten wundert mich.
 b. Ich bewundere dein Verhalten.
 :::
 
-Much more widespread in German are diatheses in which a nominative/accusative construction is inverted into a dative/nominative construction. This is for example attested for the *bleiben + zu-Infinitiv* diathesis [@next], see [@sec:zuinfinitive-bleiben]. Because dative and accusative are both classified here as ~~OBJ~~, this counts as an inversive diathesis. However, when a separation between core (accusative) and non-core (dative/genitive) case would be pursued (see [@par:corecase]), then this diathesis would be an example of demotion. There are two remappings, namely down from ~~SBJ~~ to ~~non-core OBJ~~ and up from ~~core OBJ~~ to ~~SBJ~~. When non-core is taken as being lower on the macrorole hierarchy [@ex:macrorolehierarchy] then the biggest jump is the jump down, which is the definition of demotion (see [@sec:intro-remapping]). Instead of adding a completely new set of categories I propose to simply split ~~inversive~~ and call this phenomenon ~~demoted inversive~~. 
+Much more widespread in German are diatheses in which a nominative/accusative construction is inverted into a dative/nominative construction. This is for example attested for the *bleiben + zu‑Infinitiv* diathesis [@next], see [@sec:zuinfinitive-bleiben]. Because dative and accusative are both classified here as ~~OBJ~~, this counts as an inversive diathesis. However, when a separation between core (accusative) and non-core (dative/genitive) case would be pursued (see [@par:corecase]), then this diathesis would be an example of demotion. There are two remappings, namely down from ~~SBJ~~ to ~~non-core OBJ~~ and up from ~~core OBJ~~ to ~~SBJ~~. When non-core is taken as being lower on the macrorole hierarchy [@ex:macrorolehierarchy] then the biggest jump is the jump down, which is the definition of demotion (see [@sec:intro-remapping]). Instead of adding a completely new set of categories I propose to simply split ~~inversive~~ and call this phenomenon ~~demoted inversive~~. 
 
 ::: ex
 ~~Demoted inversive [OBJ › SBJ › OBJ]~~
@@ -1400,9 +1400,9 @@ b. Ich beraube dich des Buches.
 
 Among all the diatheses that are distinguished in this survey there are many that only occur in very specific situations or might otherwise be considered to be exceptions or incidental instances. In contrast, there are also very many diatheses that are highly frequent and can be used with very many different verbs. Those major diatheses, that are of central importance to the grammatical structure of German, will be summarised in this chapter. Such a summary would normally be presented at the end of a book, but because of the often long-winding data-driven details of the subsequent descriptive chapters, I decided to present this summary here at the end of the introductory deliberations. Take it as a quick appetiser of things to come, with ample links to the actual discussion in later chapters.
 
-To reiterate the basic premise of this book: in the chapters [-@sec:case] to [-@sec:zuminfinitive] I aim to present a complete list of all coherent, and thus monoclausal, clause structures in German (cf. [@sec:intro-coherence] on defining monoclausality). All in all, in those chapters there are 250+ separate sub-subsections that describe (often minor) variations of monoclausal structures. This diversity is condensed into about 100 major clause alternations as summarised here. Of those, about 75 are diatheses (i.e. clause alternations with role-remapping, discussed in this chapter), while only about 25 are epitheses (i.e. clause alternations without any change in role marking, dicussed in the next chapter). So, diathesis ('voice marking') is a much more diverse grammatical phenomenon than epithesis ('tense-aspect-mood' marking). All these counts should be taken with some leeway, because a lot depends on individual decisions about splitting or lumping structures into groups (e.g. how many *lassen + infinitive* constructions are counted separately, cf [@sec:infinitive-guises-of-lassen]). Although the analysis of German clause alternations might look cleaner when lumping structures into larger groups, the diversity is actually not reduced then, only hidden at the cost of larger within-group complexity.
+To reiterate the basic premise of this book: in the chapters [-@sec:case] to [-@sec:zuminfinitive] I aim to present a complete list of all coherent, and thus monoclausal, clause structures in German (cf. [@sec:intro-coherence] on defining monoclausality). All in all, in those chapters there are 250+ separate sub-subsections that describe (often minor) variations of monoclausal structures. This diversity is condensed into about 120 major clause alternations as summarised here. Of those, about 80 are diatheses (i.e. clause alternations with role-remapping, discussed in this chapter), while only about 40 are epitheses (i.e. clause alternations without any change in role marking, dicussed in the next chapter). So, diathesis ('voice marking') is a much more diverse grammatical phenomenon than epithesis ('tense-aspect-mood' marking). All these counts should be taken with some leeway, because a lot depends on individual decisions about splitting or lumping structures into groups (e.g. how many *lassen + infinitive* constructions are counted separately, cf [@sec:infinitive-guises-of-lassen]). Although the analysis of German clause alternations might look cleaner when lumping structures into larger groups, the diversity is actually not reduced then, only hidden at the cost of larger within-group complexity.
 
-Besides providing a basic summary, I also propose German names (sometimes based on Latin terms) for all 100 major derived monoclausal sentence structures. Using suitable names is a central aspect of (scientific) communication. In grammar, names are like instruments that allow us to abstract away from individual details and manipulate classes of utterances that show a specific abstract structure. However, naming is hard and can also lead to miscommunication. When re-using available terminology, the terms are easily recognised and remembered, but they carry the weight of history. Even when detailed definitions are given (as I have tried to do throughout this book), unintended interpretations of previous usage inevitably seep through. In contrast, inventing new names introduces more precision, but the downside is often cumbersome terms that are difficult to remember. 
+Besides providing a basic summary, I also propose German names (sometimes based on Latin terms) for all 120 major derived monoclausal sentence structures. Using suitable names is a central aspect of (scientific) communication. In grammar, names are like instruments that allow us to abstract away from individual details and manipulate classes of utterances that show a specific abstract structure. However, naming is hard and can also lead to miscommunication. When re-using available terminology, the terms are easily recognised and remembered, but they carry the weight of history. Even when detailed definitions are given (as I have tried to do throughout this book), unintended interpretations of previous usage inevitably seep through. In contrast, inventing new names introduces more precision, but the downside is often cumbersome terms that are difficult to remember. 
 
 In naming diatheses in this book I have tried to strike a balance between precise naming and good readability. For the English names in the detailed discussions in the coming chapters, I have decided in favour or precision. Each phenomenon is newly named with often long descriptive and unique names. In contrast, for the German names in this chapter I try to reuse available terminology as much as possible. When necessary, I propose new names that attempt to evoke a functional description like *Reziprokativ* or *Erlebnispassiv*. However, the semantic characterisation has not been the main focus of this book, so it might become necessary to rename diatheses in the future once more detailed investigations have been performed. In some cases I have not been able to find a suitable semantic characterisation. For those diatheses I have resorted to using formal characteristics in the name, always written as separate words, like *Reflexiv Erlebnispassiv*
 
@@ -1462,7 +1462,7 @@ a. Ich arbeite zuhause.
 b. Zuhause lässt (es) sich gut arbeiten.
 :::
 
-### *Unpersönlicher Modalpassiv* (*sein + zu-Infinitiv*) {#sec:summary-unpersonlicher-modalpassiv}
+### *Unpersönlicher Modalpassiv* (*sein + zu‑Infinitiv*) {#sec:summary-unpersonlicher-modalpassiv}
 
 The ~~Unpersönlicher Modalpassiv~~ (full discussion in [@sec:zuinfinitive-sein-impersonal] and subsequent sections) consists of a light verb *sein* with *zu* and an infinitive. It is found with incidental intransitive verbs, but more typically with verbs with a dative argument (but no accusative) like *helfen* 'to help' or *trauen* 'to trust' [@next]. In this diathesis the nominative subject is dropped and cannot be retained in any other form. There is also no valency-simulating *es* present. The name 'passive' is actually besides the point for this diathesis, but it is used here because this construction is closely related to the ~~Modalpassiv~~ (see [@sec:summary-modalpassiv]).
 
@@ -1473,7 +1473,7 @@ b. Ihm ist nicht zu trauen.
 
 ## Demotive diatheses ~~[SBJ › ADJ]~~
 
-### *Notwendigkeitsdemotiv* (*gelten + zu-Infinitiv*) {#sec:summary-notwendigkeitsdemotiv}
+### *Notwendigkeitsdemotiv* (*gelten + zu‑Infinitiv*) {#sec:summary-notwendigkeitsdemotiv}
 
 The ~~Notwendigkeitsdemotiv~~ (full discussion in [@sec:zuinfinitive-gelten-demotion]) uses a subjectless light verb *gelten* with *zu* and an infinitive [@next]. The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the light verbs are always in the third person singular, resulting in fixed expressions *es gilt*. The removed subject can optionally be retained with a *für* prepositional phrase. Any other argument is simply preserved, like the accusative *den Koffer* 'the suitcase' in the example below.  This construction semantically invokes some kind of (self‑)assignment that should be fulfilled, i.e. a modal-like 'must' meaning. 
 
@@ -1491,9 +1491,9 @@ a. Er redet weiter.
 b. Dann heißt es für ihn weiter reden.
 :::
 
-### *Möglichkeitsdemotiv* (*geben + zu-Infinitiv*) {#sec:summary-moglichkeitsdemotiv}
+### *Möglichkeitsdemotiv* (*geben + zu‑Infinitiv*) {#sec:summary-moglichkeitsdemotiv}
 
-The ~~Möglichkeitsdemotiv~~ (full discussion in [@sec:zuinfinitive-geben-demotion]) uses a subjectless light verbs *geben* with *zu* and an infinitive [@next]. The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the light verbs are always in the third person singular, resulting in fixed expressions *es gibt*. The removed subject can optionally be retained with a *für* prepositional phrase, though this is less frequent compared to the *gelten + zu-Infinitive* diathesis (see [@sec:summary-notwendigkeitsdemotiv]). Any other argument is simply preserved, like the accusative *den Koffer* 'the suitcase' in the example below. The *Möglichkeitsdemotiv* semantically invokes an option that is available to the original subject, i.e. a modal-like 'can' meaning. The construction *geben + zu-Infinitiv* is also used in a semantically and structurally quite different diathesis, namely the *Auftragskausativ* (see [@sec:summary-auftragskausativ]).
+The ~~Möglichkeitsdemotiv~~ (full discussion in [@sec:zuinfinitive-geben-demotion]) uses a subjectless light verbs *geben* with *zu* and an infinitive [@next]. The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the light verbs are always in the third person singular, resulting in fixed expressions *es gibt*. The removed subject can optionally be retained with a *für* prepositional phrase, though this is less frequent compared to the *gelten + zu‑Infinitive* diathesis (see [@sec:summary-notwendigkeitsdemotiv]). Any other argument is simply preserved, like the accusative *den Koffer* 'the suitcase' in the example below. The *Möglichkeitsdemotiv* semantically invokes an option that is available to the original subject, i.e. a modal-like 'can' meaning. The construction *geben + zu‑Infinitiv* is also used in a semantically and structurally quite different diathesis, namely the *Auftragskausativ* (see [@sec:summary-auftragskausativ]).
 
 ::: ex
 a. Wir kaufen den Koffer.
@@ -1521,6 +1521,15 @@ The ~~Kreationssubjektivierung~~ (full discussion in [@sec:prepositions-fabricat
 a. Der Lehrer überraschst mich mit der Aufgabe.
 b. Die Aufgabe überrascht mich.
 c. Der Lehrer überrascht mich damit, dass er die Aufgabe schon korrigiert hat.
+:::
+
+### *Auslösersubjektivierung* (*sein + zum + Infinitive*) {#sec:summary-auslosersubjektivierung}
+
+(full discussion in [@sec:zuminfinitive-sein-zum]) reversal of causation: PBJ creates event. Emotional event only!
+
+::: ex
+a. Ich heule über den Schaden. 
+b. Der Schaden ist zum Heulen.
 :::
 
 ## Anticausative diatheses ~~[OBJ › SBJ › Ø]~~
@@ -1607,7 +1616,7 @@ a. Die Stille entspannt ihn.
 b. Er gibt sich \*(durch die Stille) entspannt.
 :::
 
-### *Erwartungsantikausativ* (*stehen + zu-Infinitiv*) {#sec:summary-erwartungsantikausativ}
+### *Erwartungsantikausativ* (*stehen + zu‑Infinitiv*) {#sec:summary-erwartungsantikausativ}
 
 The ~~Erwartungsantikausativ~~ (full discussion in [@sec:zuinfinitive-stehen]) uses a light verb *stehen* with *zu* and an infinitive. The original accusative object is promoted to subject and the erstwhile nominative subject cannot be retained, so this clearly is an anticausative diathesis. However, examples with an explicitly accusative noun phrase as in [@next a] are actually rare. Typically, this diatheses is found with cognitive predicates expressing an expectation, like *befürchten* 'to fear', with a *dass* complement clause [@next b]. Functionally, this complement clause has the same status as an accusative object. Note that complement clauses typically come towards the end of the sentence in German, and then the first position of the sentence often has to be filled with a position-simulating pronoun *es* (which is removed when the first position is filled otherwise).
 
@@ -1618,7 +1627,7 @@ b. Ich befürchte, dass er zu spät kommen wird. \
    Es steht zu befürchten, dass er zu spät kommen wird.
 :::
 
-### *Unmöglichkeitsantikausativ* (*gehen + zu-Infinitiv*) {#sec:summary-unmoglichkeitsantikausativ}
+### *Unmöglichkeitsantikausativ* (*gehen + zu‑Infinitiv*) {#sec:summary-unmoglichkeitsantikausativ}
 
 The ~~Unmöglichkeitsantikausativ~~ (full discussion in [@sec:zuinfinitive-gehen]) uses a light verb *gehen* with *zu* and an infinitive. This anticausative diathesis is typical for an informal register, but written examples can be found going back to the 19th century. The construction is typically used with an additional negation [@next b], though in contemporary online writing it is also attested without negation [@next c]. Because of the negation, the typical usage of the *Unmöglichkeitsantikausativ* is to express the impossibility to change something.
 
@@ -1648,7 +1657,7 @@ a. Der Pförtner schließt die Tür.
 b. Die Tür lässt sich schließen (von dem Pförtner).
 :::
 
-### *Modalpassiv* (*sein + zu-Infinitiv*) {#sec:summary-modalpassiv}
+### *Modalpassiv* (*sein + zu‑Infinitiv*) {#sec:summary-modalpassiv}
 
 The ~~Modalpassiv~~ (full discussion in [@sec:zuinfinitiv-sein-passive]) is constructed using the light verb *sein* with *zu* and an infinitive. When applied to transitive verbs like *führen* 'to lead' [@next a] or *lösen* 'to solve' [@next b] this diathesis promotes the accusative to nominative subject. The erstwhile nominative subject can be retained as a prepositional phrase. This diathesis has two different interpretations. It can indicate either an deontic modality ('must') as in [@next a] or an ability ('can') as in [@next b]. Note that the subject retention with the preposition *für* is only possible in the ability-interpretation. The closely related *Unpersönlicher Modalpassiv* is used with intransitives and only allows for the deontic interpretation (see [@sec:summary-unpersonlicher-modalpassiv]).
 
@@ -1733,7 +1742,7 @@ d. Der Kunde ist empört über den Preis.
 
 ## Inversive diatheses ~~[OBJ › SBJ › OBJ]~~
 
-### *Restinversiv* (*bleiben + zu-Infinitiv*) {#sec:summary-restinversiv}
+### *Restinversiv* (*bleiben + zu‑Infinitiv*) {#sec:summary-restinversiv}
 
 The ~~Restinversive~~ (full discussion in [@sec:zuinfinitive-bleiben]) uses the light verb *bleiben* with *zu* and an infinitive. This diathesis reverses the expression of the roles in that the accusative is promoted to a nominative, while the original nominative is demoted to an (optional) dative. Because the demotion is 'larger' than the promotion this would be called a ~~demoted inversive~~. Semantically, this diatheses expresses that (some part of) the patient is still left over to be applied to the verb.
 
@@ -1742,9 +1751,9 @@ a. Ich räume den letzten Schrank ein.
 b. Dieser letzte Schrank bleibt (mir) noch einzuräumen.
 :::
 
-### *Pertinenzinversiv* (*haben + am + Infinitiv*) {#sec:summary-pertinenzinversiv}
+### *Pertinenzinversiv* (*haben + am‑Infinitiv*) {#sec:summary-pertinenzinversiv}
 
-The ~~Pertinenzinversiv~~ (full discussion in [@sec:zuminfinitive-haben-am]), using the light verb *haben* with *am* and an infinitive, reverses the expression of the roles, though in the different direction from the previous *Restinversiv* (see [@sec:summary-restinversiv]). In this diathesis the dative is promoted to nominative, while the nominative is demoted to accusative [@next]. Further, the dative *dem Mieter* 'tenant' is necessarily the possessor (*pertinenz*) of the nominative *die Wohnung* 'appartment', i.e. it is a *pertinenzdativ* (see [@sec:summary-pertinenzdativ]). Both in form and meaning this diathesis is strongly connected to the ensuing ~~Ortspertinenzinversiv~~ (see [@sec:summary-ortspertinenzinversiv]), in which the dative is the possessor of the obligatory location. It seems possible that the preposition *am* in this diathesis is in some way related to the absence of any location here.
+The ~~Pertinenzinversiv~~ (full discussion in [@sec:zuminfinitive-haben-am]), using the light verb *haben* with an *am‑Infinitiv*, reverses the expression of the roles, though in the different direction from the previous *Restinversiv* (see [@sec:summary-restinversiv]). In this diathesis the dative is promoted to nominative, while the nominative is demoted to accusative [@next]. Further, the dative *dem Mieter* 'tenant' is necessarily the possessor (*pertinenz*) of the nominative *die Wohnung* 'appartment', i.e. it is a *pertinenzdativ* (see [@sec:summary-pertinenzdativ]). Both in form and meaning this diathesis is strongly connected to the ensuing ~~Ortspertinenzinversiv~~ (see [@sec:summary-ortspertinenzinversiv]), in which the dative is the possessor of the obligatory location. It seems possible that the preposition *am* in this diathesis is in some way related to the absence of any location.
 
 ::: ex
 a. Dem Mieter brennt die Wohnung.
@@ -1753,7 +1762,7 @@ b. Der Mieter hat die Wohnung am Brennen.
 
 ### *Ortspertinenzinversiv* (*haben + Infinitiv*) {#sec:summary-ortspertinenzinversiv}
 
-The ~~Ortspertinenzinversiv~~ (full discussion in [@sec:infinitive-haben]) is closely related to the previous *pertinenzinversiv* (see [@sec:summary-pertinenzinversiv]). Again, a dative is promoted to nominative, while the nominative is demoted to accusative. Also in both diatheses, the participant expressed by the dative is necessarily the possessor (*pertinenz*) of another participant. The difference is that with the current *ortspertinenzinversiv* this 'other' participant is an obligatory location, e.g. *an der Nase* 'on the nose' in [@next]. The dative in this diathesis is thus an *ortspertinenzdativ* (see [@sec:summary-ortspertinenzdativ]). An interesting difference to the previous *Pertinenzinveriv* is that the infinitive does not take the preposition *am* here [@next c].
+The ~~Ortspertinenzinversiv~~ (full discussion in [@sec:infinitive-haben]) is closely related to the previous *Pertinenzinversiv* (see [@sec:summary-pertinenzinversiv]). Again, a dative is promoted to nominative, while the nominative is demoted to accusative. Also in both diatheses, the participant expressed by the dative is necessarily the possessor (*pertinenz*) of another participant. The difference is that with the current *Ortspertinenzinversiv* this 'other' participant is an obligatory location, e.g. *an der Nase* 'on the nose' in [@next]. The dative in this diathesis is thus an *Ortspertinenzdativ* (see [@sec:summary-ortspertinenzdativ]). An interesting difference to the previous *Pertinenzinveriv* is that the infinitive does not take the preposition *am* here [@next c].
 
 ::: ex
 a. Ein Tropfen hängt ihm an der Nase.
@@ -1835,11 +1844,11 @@ b. Ich schicke ihn schlafen.
 c. Es ist bekannt, dass ich ihn schlafen schicke.
 :::
 
-### *Auftragskausativ* (*geben + zu-Infinitiv*) {#sec:summary-auftragskausativ}
+### *Auftragskausativ* (*geben + zu‑Infinitiv*) {#sec:summary-auftragskausativ}
 
 The ~~Auftragskausativ~~ (full discussion in [@sec:zuinfinitive-geben-causative]) adds a causer by using the light verb *geben* with *zu* and an infinitive. In this diathesis the erstwhile subject becomes a dative (not an accusative). In many examples of this diathesis the meaning of this diathesis is very close to the meaning of the lexical verb *geben* 'to give'. For example with the verb *trinken* 'to drink' [@next a] the diathesis implies both the literal interpretation 'he gives X to Y for drinking' and the causative interpretation 'he causes Y to drink X'. The light-verb status of *geben* is better exemplified together with verbs that take clausal complements like *bedenken* 'to consider' [@next c]. 
 
-Whatever the interpretation, this construction is coherent, and thus monoclausal [@next b], so, whatever the precise semantic interpretation, this is structurally clearly a diathesis. The *geben + zu-Infinitiv* construction is also used for a semantically and structurally quite different diathesis, namely the *Möglichkeitsdemotiv* (see [@sec:summary-moglichkeitsdemotiv]).
+Whatever the interpretation, this construction is coherent, and thus monoclausal [@next b], so, whatever the precise semantic interpretation, this is structurally clearly a diathesis. The *geben + zu‑Infinitiv* construction is also used for a semantically and structurally quite different diathesis, namely the *Möglichkeitsdemotiv* (see [@sec:summary-moglichkeitsdemotiv]).
 
 ::: ex
 a. Das Kind trinkt Milch. \
@@ -1849,20 +1858,9 @@ c. Ich bedenke, dass es schon spät ist. \
    Er gibt mir zu bedenken, dass es schon spät ist.
 :::
 
-### *Aktivitätskausativ* (*bringen + zum + Infinitiv*) {#sec:summary-aktivitatskausativ}
+### *Kontinuitätskausativ* (*halten + am‑Infinitiv*) {#sec:summary-kontinuitatskausativ}
 
-The ~~Aktivitätskausativ~~ (full discussion in [@sec:zuminfinitive-bringen-causative]) consists of the light verb *bringen* with *zum* and infinitive. This diathesis adds a nominative causer to intransitive verbs like *tanzen* 'to dance' [@next a]. Accusative objects of transitive verbs can only be expressed when incorporated, forming predicates like *Briefeschreiben* 'letter-writing' [@next b]. Such verbs with incorporated object are arguably intransitives.
-
-::: ex
-a. Ich tanze. \
-   Die Musik bringt mich zum Tanzen. 
-b. Ich schreibe einen Brief. \
-   Sie bringt mich zum Briefeschreiben.
-:::
-
-### *Kontinuitätskausativ* (*halten + am + Infinitiv*) {#sec:summary-kontinuitatskausativ}
-
-The ~~Kontinuitätskausativ~~ (full discussion in [@sec:zuminfinitive-halten-causative]) uses the light verb *halten* with *am* and an infinitive. This diathesis is similar to the previous *Aktivitätskausativ* in that it adds a causer to an intransitive verb. It is typically used with *laufen* [@next a] and other agentive intransitive verbs. Additionally, verbs describing heat production, like *brennen* 'to burn' [@next b], are frequently attested. The *halten + am + Infinitiv* diathesis expresses that a process is kept ongoing by the added causer. The light verb *halten* is also used in the related *Kausativkontinuativ* epithesis (see [@sec:summary-kausativkontinuativ]).
+The ~~Kontinuitätskausativ~~ (full discussion in [@sec:zuminfinitive-halten-causative]) uses the light verb *halten* with *am‑Infinitiv*. This diathesis is similar to the previous *Aktivitätskausativ* in that it adds a causer to an intransitive verb. It is typically used with *laufen* [@next a] and other agentive intransitive verbs. Additionally, verbs describing heat production, like *brennen* 'to burn' [@next b], are frequently attested. The *halten + am‑Infinitiv* diathesis expresses that a process is kept ongoing by the added causer. The light verb *halten* is also used in the related *Kausativkontinuativ* epithesis (see [@sec:summary-kausativkontinuativ]).
 
 ::: ex
 - Der Laden läuft. \
@@ -2269,7 +2267,7 @@ c. Ich presse die Zitrone aus.
 
 ## Verbal categories reconsidered
 
-Browse any grammatical description of verbal categories in German and terms like *Plusquamperfekt* [@next a] or *Futur II* [@next b] will surely pass by. There is nothing wrong with those terms, but they just describe very specific combinations of verbal markers that are mostly transparantly interpretable (e.g. *Plusquamperfekt* is simply a perfekt with past-tense finite verb). In contrast, there are many basic verbal constructions that are only sparingly discussed in German grammars, if at all. The *pflegen + zu-Infinitiv* habitual [@next c] or the *sein + Infinitiv* absentive [@next d] are probably the most well-known among those, but they are still not widely acknowledged in general grammars of German. As a case in point, the Duden grammar spends 20 pages on details of tense marking [-@duden2009: 496-516], while only a few select additional verbal constructions are discussed in just four pages [-@duden2009: 848-852]. This chapter can be read as an attempt at a complete survey of all those remaining German verbal categories, besides tense. 
+Browse any grammatical description of verbal categories in German and terms like *Plusquamperfekt* [@next a] or *Futur II* [@next b] will surely pass by. There is nothing wrong with those terms, but they just describe very specific combinations of verbal markers that are mostly transparantly interpretable (e.g. *Plusquamperfekt* is simply a perfekt with past-tense finite verb). In contrast, there are many basic verbal constructions that are only sparingly discussed in German grammars, if at all. The *pflegen + zu‑Infinitiv* habitual [@next c] or the *sein + Infinitiv* absentive [@next d] are probably the most well-known among those, but they are still not widely acknowledged in general grammars of German. As a case in point, the Duden grammar spends 20 pages on details of tense marking [-@duden2009: 496-516], while only a few select additional verbal constructions are discussed in just four pages [-@duden2009: 848-852] and some incidental reference scatterd throughout. This chapter can be read as an attempt at a complete survey of all those remaining German verbal categories, besides tense. 
 
 ::: ex
 - Wer hatte dir die Adresse gegeben?
@@ -2278,9 +2276,9 @@ Browse any grammatical description of verbal categories in German and terms like
 - Ich bin einkaufen.
 :::
 
-This chapter arose as a byproduct of the main goal of this book, namely listing all German diatheses. To clearly delimit what counts as a diathesis, I also collected constructions that are structurally similar to diatheses, but that did not involve any role remapping. These structures are called ~~epitheses~~ and are listed in-full in the respective X.4 sections of the following data chapters. This chapter summarises and organises the major epitheses that I have been able to find. I will also propose German names for all of these constructions.
+This chapter arose as a byproduct of the main goal of this book, namely listing all German diatheses. To clearly delimit what counts as a diathesis, I also collected constructions that are structurally similar to diatheses, but that did not involve any role remapping. These structures are called ~~epitheses~~ and are listed in-full in the respective X.4 sections of the following data chapters. This chapter summarises and organises the major epitheses that I have been able to find. I will also propose Latinate-German names for all of these constructions.
 
-Quickly recapitulated, an ~~epithesis~~ is a monoclausal construction in which the lexical roles are not remapped in comparison to a basic clause (= a clause with just a single finite lexical verb form). For example, a basic clause with the finite verb *erzählen* 'to tell' [@next a] might have the roles of 'teller' (*Großvater*, in the nominative), 'tellee' (*Enkelin*, in the dative) and 'story told' (*Witz*, in the accusative). A construction like *pflegen + zu-Infinitiv* is an epithesis because when applied to *erzählen* all these roles remain encoded in exactly the same grammatical form [@next b]. Additionally, this construction is monoclausal because the finite *pflegte* is placed at the end in a subordinate situation (i.e. the clause is coherent, see [@sec:intro-coherence]).
+Quickly recapitulated, an ~~epithesis~~ is a monoclausal construction in which the lexical roles are not remapped in comparison to a basic clause (= a clause with just a single finite lexical verb form). For example, a basic clause with the finite verb *erzählen* 'to tell' [@next a] might have the roles of 'teller' (*Großvater*, in the nominative), 'tellee' (*Enkelin*, in the dative) and 'story told' (*Witz*, in the accusative). A construction like *pflegen + zu‑Infinitiv* is an epithesis because when applied to *erzählen* all these roles remain encoded in exactly the same grammatical form [@next b]. Additionally, this construction is monoclausal because the finite *pflegte* is placed at the end in a subordinate situation (i.e. the clause is coherent, see [@sec:intro-coherence]).
 
 ::: ex
 - Der Großvater erzählt seiner Enkelin einen Witz.
@@ -2288,21 +2286,21 @@ Quickly recapitulated, an ~~epithesis~~ is a monoclausal construction in which t
 - Es ist bekannt, dass der Großvater seiner Enkelin einen Witz zu erzählen pflegte.
 :::
 
-The constructions listed in this chapter are not haphardly collected out of some infinite pool of possible analytical combinations of verb forms. Quite to the contrary, the constructions listed here are claimed to be an exhaustive list of all epithetical German verb forms. Only a few rare and/or old-fashioned constructions are left out from this summary (but they can still be found in the following data chapters). The list of major epitheses in this chapter is quite long (about 25 constructions), but manageable. Any 1000-plus-page grammar could easily add a few pages listing them all (or at least the most commonly attested ones). This number of epitheses is also quite a bit less than the number of major diatheses presented in the previous chapter (about 75 constructions). This indicates that from a purely grammatical perspective, diathesis is a three-times more elaborate topic than epithesis. 
+The constructions listed in this chapter are not haphardly collected out of some infinite pool of possible analytical combinations of verb forms. Quite to the contrary, the constructions listed here are claimed to be an exhaustive list of all epithetical German verb forms. Only a few rare and/or old-fashioned constructions are left out from this summary (but they can still be found in the following data chapters). The list of major epitheses in this chapter is quite long (about 40 constructions), but manageable. Any 1000-plus-page grammar could easily add a few pages listing them all (or at least the most commonly attested ones). This number of epitheses is also quite a bit less than the number of major diatheses presented in the previous chapter (about 80 constructions). This indicates that from a purely grammatical perspective, diathesis is about a two-times more elaborate topic than epithesis. 
 
 #### Characterising epitheses {.unnumbered}
 
-The epitheses listed in this chapter map out all grammaticalised verbal categories of the German language. However, it is crucial to realise that not every lexical verb can be combined with each of these constructions. Just as with diatheses, each epithesis has a limited domain of applicability, i.e. each epithesis has a specific set of verbs that it can be applied to (cf. [@sec:intro-domain-of-application]). It is a very worthwhile future endeavour to specify these domains in more detail than I have been able to do here. Additionally, this restricted applicability means that one cannot simply take a random lexical verb and paradigmatically list all different epithetical forms for this verb, like traditional grammars like to do with tense forms. Quite to the contrary, it becomes a matter of lexicography to enumarate the epitheses that are compatible with each individual verb.
+The epitheses listed in this chapter map out all grammaticalised verbal categories of the German language. However, it is crucial to realise that not every lexical verb can be combined with each of these constructions. Just as with diatheses, each epithesis has a limited domain of applicability, i.e. each epithesis has a specific set of verbs to which can be applied (cf. [@sec:intro-domain-of-application]). It is a very worthwhile future endeavour to specify these domains in more detail than I have been able to do here. Additionally, this restricted applicability means that one cannot simply take a random lexical verb and paradigmatically list all different epithetical forms for this verb, like traditional grammars like to do with tense forms. Quite to the contrary, it becomes a matter of lexicographic research to determine which epitheses are compatible with each individual verb.
 
-Epitheses mostly express a rather clear semantic content, but they are not obligatorily used to express that content. For example, the *pflegen + Infinitiv* epithesis, as mentioned above, expresses a habitual aspect. However, this construction is far from the only way to express habituality in German. Habitual aspect will typically be expressed by a simple present verb from with some specific adverbs, like *regelmäßig* 'regularly' or a concrete timeframe with *jeden*, like *jeden Morgen* 'every morning'. So, the characterisation of *pflegen + Infinitiv* as an habitual verb form is actually only part of the story. What needs to be added is a more detailed description of the kind of contexts in which this construction is actually used, instead of other options available to the speaker. 
+Epitheses mostly express a rather clear semantic content, but they are not obligatorily used to express that content. For example, the *pflegen + Infinitiv* epithesis, as mentioned above, expresses a habitual aspect. However, this construction is far from the only way to express habituality in German. Habitual aspect will typically be expressed by a simple present verb from with some specific adverbs, like *regelmäßig* 'regularly' or a concrete timeframe with *jeden*, like *jeden Morgen* 'every morning'. So, the characterisation of *pflegen + Infinitiv* as an habitual verb form is actually only part of the story. What needs to be added in future research is a more detailed description of the kind of contexts in which this construction is actually used, in contrast to  other options available to the speaker. 
 
-This desideratum holds for all epitheses discussed here: it is necessary to specify what determines their usage. A famous case in point here is the *werden + Infinitive* construction, which is called *Futur* in the German grammatical tradition. This construction can indeed express events in the future, so the name *Futur* is not wrong. However, future event are much more commonly expressed with a simple present tense verb form. So, a more detailed characterisation of the *werden + Infinitiv* is necessary to explain when it is actually used (see [@sec:infinitive-werden-modal]).
+This desideratum holds for all epitheses discussed here: it is necessary to specify what determines their usage. A famous case in point here is the *werden + Infinitive* construction, which is called *Futur* in the German grammatical tradition (see [@sec:infinitive-werden-modal]). This construction can indeed express events in the future, so the name *Futur* is not wrong. However, future event are much more commonly expressed with a simple present tense verb form. So, a more detailed characterisation of the *werden + Infinitiv* is necessary to explain when it is actually used.
 
-#### Classification of epitheses {.unnumbered}
+#### Classifying epitheses {.unnumbered}
 
-The epithetical constructions listed in this chapter are basically organised along the lines of the ~~TAME~~ categorisation (tense-aspect-mood-evidentiality). This subdivision is not always clear-cut, it is more of a continuum. This means that the placement of a specific construction in one or the other group is more a matter of practical convenience than of strict definitional categorisation. 
+The epithetical constructions listed in this chapter are basically organised along the lines of the ~~TAME~~ categorisation (tense-aspect-modality-evidentiality). This subdivision is not always clear-cut, it is more of a continuum. This means that the placement of a specific construction in one or the other group is more a matter of practical convenience than of strict definitional categorisation. 
 
-~~Tense~~ will almost not be mentioned here, mainly because it does not play an important role in German epithesis. The discussion of ~~aspect~~ is separated into two kinds: temporal aspect ([@sec:epithesis-temporal-aspect]) and spatial aspect ([@sec:epithesis-spatial-aspect]). ~~Mood~~ includes the well-described modal verbs, but also some other less-widely discussed modal constructions ([@sec:epithesis-mood]). ~~Evidentiality~~ deals with the marking evidence that the speaker has for a statement. This turns out to be a very useful category for the analysis of various German epithetical constructions ([@sec:epithesis-evidentiality]). 
+~~Tense~~ will almost not be mentioned here, mainly because it does not play an important role in German epithesis. The discussion of ~~aspect~~ is separated into two kinds: temporal aspect ([@sec:epithesis-temporal-aspect]) and spatial aspect ([@sec:epithesis-spatial-aspect]). ~~Modality~~ includes the well-described modal verbs, but also some other less-widely discussed modal constructions ([@sec:epithesis-mood]). ~~Evidentiality~~ deals with the marking evidence that the speaker has for a statement. This turns out to be a very useful category for the analysis of various German epithetical constructions ([@sec:epithesis-evidentiality]). 
 
 Aditionally, I have added a section with epithetical construction that change the ~~participant affectedness~~ ([@sec:epithesis-affectedness]). These constructions are intermediates between epithesis and diathesis. Structurally they are clearly epithetic, because there is no role-remapping. Yet, these constructions express a change in the relation between the participants and the lexical verb, so they might functionally be included in the realm of diathesis. 
 
@@ -2326,23 +2324,32 @@ a. Das Kind schläft ein.
 b. Das Kind ist eingeschlafen.
 :::
 
-### *Progressiv* (*sein + am + Infinitiv*)
+### *Habituativ* (*pflegen + zu‑Infinitiv*)
 
-The ~~Progressiv~~ (full discussion in [@sec:zuminfinitive-sein-am]) uses *sein* with the preposition *an* and an infinitive with a definite article *dem*. The combination *an + dem* is contracted to *am*. In this construction the infinitive is thus clearly a nominalised form of the verb, so it is regularly (though not universally) written with a capital letter in German orthography [@next b]. The *sein + am + Infinitiv* clearly expresses a progressive aspect, though its usage is frowned upon in a formal written register. In spoken language it appears to be pervasive, though.
+The ~~Habituativ~~ (full discussion in [@sec:zuinfinitive-pflegen]) is an aspectual category that expresses an activity that is performed regularly as a habit. Such an aspect is widespread among the world's language and in German it can be expressed by using a light verb *pflegen* with a *zu‑Infinitiv* [@next a,b]. The verb *pflegen* has a lexical meaning 'to nurse, to maintain', but in this construction this meaning has changed to a grammatical marker of aspect. This grammaticalisation has not only happened semantically, but also structurally. The *pflegen + zu‑Infinitiv* construction is clearly monoclausal, as can be seen by the final position of the finite verb when used as a subordinate clause [@next c].
+
+::: ex
+- Sie lacht laut.
+- Sie pflegt laut zu lachen.
+- Es ist bekannt, dass sie laut zu lachen pflegte.
+:::
+
+### *Progressiv* (*sein + am‑Infinitiv*)
+
+The ~~Progressiv~~ (full discussion in [@sec:zuminfinitive-sein-am]) consists of *sein* with the prepositional *am‑Infinitiv*. In this construction the infinitive is clearly a nominalised form of the verb, so it is regularly (though not universally) written with a capital letter in German orthography [@next b]. The *sein + am‑Infinitiv* expresses a progressive aspect, though its usage is frowned upon in a formal written register. In spoken language it appears to be pervasive, though.
 
 ::: ex
 a. Das Kind jammert dauernd.
 b. Das Kind ist dauernd am Jammern.
 :::
 
-### *Habituativ* (*pflegen + zu-Infinitiv*)
+### *Progressivkontinuativ* (*bleiben + am‑Infinitiv*)
 
-The ~~Habituativ~~ (full discussion in [@sec:zuinfinitive-pflegen]) is an aspectual category that expresses an activity that is performed regularly as a habit. Such an aspect is widespread among the world's language and in German it can be expressed by using a light verb *pflegen* with a *zu-Infinitiv* [@next a,b]. The verb *pflegen* has a lexical meaning 'to nurse, to maintain', but in this construction this meaning has changed to a grammatical marker of aspect. This grammaticalisation has not only happened semantically, but also structurally. The *pflegen + zu-Infinitiv* construction is clearly monoclausal, as can be seen by the final position of the finite verb when used as a subordinate clause [@next c].
+(full discussion in [@sec:zuminfinitive-bleiben-am])
 
 ::: ex
-- Sie lacht laut.
-- Sie pflegt laut zu lachen.
-- Es ist bekannt, dass sie laut zu lachen pflegte.
+- Er lebt.
+- Er bliebt am Leben.
 :::
 
 ### *Zustandskontinuativ* (*bleiben + Infinitiv*)
@@ -2404,16 +2411,34 @@ b. Ich gehe/fahre meinen Freund besuchen.
 
 ### *Aditiv* (*kommen + Infinitiv*) {#sec:summary-aditiv}
 
-The ~~Aditive~~ (from Lat. *adire* 'to approach', full discussion in [@sec:infinitive-kommen-aditive]) consists of the light verb *kommen* with an infinitive [@next]. It conveys that the subject is approaching to pursue an activity, i.e. the reversal of the *Abitiv* (see [@sec:summary-abitiv]).
+The ~~Aditiv~~ (from Lat. *adire* 'to approach', full discussion in [@sec:infinitive-kommen-aditive]) consists of the light verb *kommen* with an infinitive [@next]. It conveys that the subject is approaching to pursue an activity, i.e. the reversal of the *Abitiv* (see [@sec:summary-abitiv]).
 
 ::: ex
 a. Ich besuche meinen Freund.
 b. Ich komme meinen Freund besuchen.
 :::
 
-### *Aditivprogressiv* (*kommen + Partizip*)
+### *Abitivfrequentativ* (*gehen/fahren + zum‑Infinitiv*)
 
-The ~~Aditivprogressiv~~ (full discussion in [@sec:participles-kommen]) expresses both a temporal aspect (progressive) and a spatial aspect (aditive). It uses the light verb *kommen* with a participle [@next a] to convey that the subject is approaching while performing a specific kind of movement. A frequent variant uses a participle with the prefix *an-*, even when the finite verb with this prefix does not exist. For example, the verb *anrennen* does not exist, only the participle *angerannt* exist in the construction with the light verb *kommen* [@next b].
+(full discussion in [@sec:zuminfinitive-gehen])
+
+::: ex
+- Sie schwimmt.
+- Sie geht zum Schwimmen.
+:::
+
+### *Aditivfrequentativ* (*kommen + vom‑Infinitiv*) {#sec:summary-prasentiv}
+
+(full discussion in [@sec:zuminfinitive-kommen-vom]) reversed absentiv?
+
+::: ex
+- Er ist einkaufen.
+- Er kommt vom Einkaufen.
+:::
+
+### *Aditivprogressiv* (*kommen + (an-) + Partizip*)
+
+The ~~Aditivprogressiv~~ (full discussion in [@sec:participles-kommen]) expresses both a temporal aspect (progressive) and a spatial aspect (aditive). It uses the light verb *kommen* with a participle [@next a] to convey that the subject is approaching while performing a specific kind of movement. A frequent variant uses a participle with the prefix *an-*, even when the finite verb with this prefix does not exist. For example, the verb *anrennen* does not exist, only the participle *angerannt* exist in the construction with the light verb *kommen* [@next b]. Note that there does not exists any symmetrically opposing abitive construction with *gehen*.
 
 ::: ex
 a. Die Kinder laufen herbei. \
@@ -2422,24 +2447,19 @@ b. Die Kinder rennen. \
    Die Kinder kommen angerannt.
 :::
 
-### (*gehen/fahren + zum + Infinitiv*)
+### *Positionsresultativ* (*kommen + zum‑Infinitiv*)
 
-(full discussion in [@sec:zuminfinitive-gehen])
+(full discussion in [@sec:zuminfinitive-kommen-zum])
 
-::: ex
-a. Sie schwimmt. \
-   Sie geht zum Schwimmen.
-
-:::
-
-### (*kommen + zum + Infinitiv*)
+Different semantics!
+There does not exists any symmetrically opposing abitive construction with *gehen*.
 
 ::: ex
-b. Das Auto steht vor der Ampel. \
-   Das Auto kommt vor der Ampel zum Stehen.
+- Das Auto steht vor der Ampel.
+- Das Auto kommt vor der Ampel zum Stehen.
 :::
 
-## Mood {#sec:epithesis-mood}
+## Modality {#sec:epithesis-mood}
 
 ### *Modalverben* {#sec:summary-modalverben}
 
@@ -2454,17 +2474,17 @@ c. Ich werde ein Haus bauen.
 d. Du brauchst nicht kommen.
 :::
 
-### *Obligativ* (*haben/brauchen + zu-Infinitiv*)
+### *Obligativ* (*haben/brauchen + zu‑Infinitiv*)
 
-The ~~Obligativ~~ (full discussion in [@sec:zuinfinitive-haben]) consist of the light verb *haben* with a *zu-Infinitiv* [@next a,b]. This construction is closely related to the English *to have to* construction, both in form an meaning. This epithesis expresses an obligation to perform an activity (i.e. similar to modal *müssen*). The German construction is clearly monoclausal, because the finite verb is positioned at the end of the clause in subordinate position [@next c].
+The ~~Obligativ~~ (full discussion in [@sec:zuinfinitive-haben]) consist of the light verb *haben* with a *zu‑Infinitiv* [@next a]. This construction is closely related to the English *to have to* construction, both in form an meaning. This epithesis expresses an obligation to perform an activity (i.e. similar to modal *müssen*). The German construction is clearly monoclausal, because the finite verb is positioned at the end of the clause in subordinate position [@next b].
 
 ::: ex
-a. Die Schüler lösen die Aufgaben.
-b. Die Schüler haben die Aufgaben zu lösen.
-c. Es ist bekannt, dass die Schüler die Aufgaben zu lösen haben.
+a. Die Schüler lösen die Aufgaben. \
+   Die Schüler haben die Aufgaben zu lösen.
+b. Es ist bekannt, dass die Schüler die Aufgaben zu lösen haben.
 :::
 
-A related construction uses the light verb *brauchen* 'to need' (full discussion in [@sec:zuinfinitive-brauchen]). When *brauchen* is used with a *zu-Infinitiv* a negative element [@next a] or a particle like *nur* or *bloß* [@next b] has to be present. This construction is monoclausal [@next c]. Note that *brauchen* can also be used with a bare infinitive without *zu* without any obvious change in meaning (see [@sec:summary-modalverben]). The meaning of this construction is similar to English *need not*. It expresses 'not be obliged', but often it is quite close to 'should not' or even 'ought not'.
+A related construction uses the light verb *brauchen* 'to need' (full discussion in [@sec:zuinfinitive-brauchen]). When *brauchen* is used with a *zu‑Infinitiv* a negative element [@next a] or a particle like *nur* or *bloß* [@next b] has to be present. This construction is monoclausal [@next c]. Note that *brauchen* can also be used with a bare infinitive without *zu* without any obvious change in meaning (see [@sec:summary-modalverben]). The meaning of this construction is similar to English *need not*. It expresses 'not be obliged', but often it is quite close to 'should not' or even 'ought not'.
 
 ::: ex
 - Du brauchst nicht zu schreien.
@@ -2472,19 +2492,19 @@ A related construction uses the light verb *brauchen* 'to need' (full discussion
 - Es ist bekannt, dass du nur (zu) rufen brauchst.
 :::
 
-### *Abilitiv* (*wissen/verstehen + zu-Infinitiv*)
+### *Abilitiv* (*wissen/verstehen + zu‑Infinitiv*)
 
-The ~~Abilitiv~~ (full discussion in [@sec:zuinfinitive-wissen]) uses the verb *wissen* with a *zu-Infinitiv* [@next a,b] in a coherent monoclausal construction [@next c]. The independent lexical verb *wissen* means 'to know', but in this construction it expresses the ability to perform an action (i.e. similar to modal *können*). Instead of *wissen* it is also possible to use the verb *verstehen*. Likewise, the verb *verstehen* has a lexical meaning, namely 'to understand', but in a construction with *zu-Infinitiv* it is grammaticalised to express ablity. There is no obvious difference between *wissen* and *verstehen* when used in this construction. A more formal variant exists with the light verb *vermögen* (full discussion in [@sec:zuinfinitive-vermogen]).
+The ~~Abilitiv~~ (full discussion in [@sec:zuinfinitive-wissen]) uses the verb *wissen* with a *zu‑Infinitiv* [@next a] in a coherent monoclausal construction [@next b]. The independent lexical verb *wissen* means 'to know', but in this construction it expresses the ability to perform an action (i.e. similar to modal *können*). Instead of *wissen* it is also possible to use the verb *verstehen*. Likewise, the verb *verstehen* has a lexical meaning, namely 'to understand', but in a construction with *zu‑Infinitiv* it is grammaticalised to express ablity. There is no obvious difference between *wissen* and *verstehen* when used in this construction. A more formal variant exists with the light verb *vermögen* (full discussion in [@sec:zuinfinitive-vermogen]).
 
 ::: ex
-a. Der Lehrer begeistert die Schüler.
-b. Der Lehrer weiß/versteht die Schüler zu begeistern.
-c. Es ist bekannt, dass der Lehrer die Schüler zu begeistern weiß/versteht.
+a. Der Lehrer begeistert die Schüler. \
+   Der Lehrer weiß/versteht die Schüler zu begeistern.
+b. Es ist bekannt, dass der Lehrer die Schüler zu begeistern weiß/versteht.
 :::
 
-### *Kogitativ* (*denken + zu-Infinitiv*) {#sec:summary-kogitativ}
+### *Kogitativ* (*denken + zu‑Infinitiv*) {#sec:summary-kogitativ}
 
-The ~~Kogitativ~~ (from Lat. *cogitare* 'to consider, to intend', full discussion in [@sec:zuinfinitiv-denken]) uses the verb *denken* with a *zu-Infinitiv* [@next a]. In this construction the verb *denken* has lost its lexical meaning 'to think'. Instead, it expresses an intention to perform a certain action (i.e. similar to modal *wollen*). In this light-verb usage it is coherent [@next b]. In its lexical meaning 'to think' it is not coherent [@next c]. A less frequent and slightly ironical alternative to *denken* is to use the light verb *belieben* (full discussion in [@sec:zuinfinitive-belieben]).
+The ~~Kogitativ~~ (from Lat. *cogitare* 'to consider, to intend', full discussion in [@sec:zuinfinitiv-denken]) uses the verb *denken* with a *zu‑Infinitiv* [@next a]. In this construction the verb *denken* has lost its lexical meaning 'to think'. Instead, it expresses an intention to perform a certain action (i.e. similar to modal *wollen*). In this light-verb usage it is coherent [@next b]. In its lexical meaning 'to think' it is not coherent [@next c]. A less frequent and slightly ironical alternative to *denken* is to use the light verb *belieben* (full discussion in [@sec:zuinfinitive-belieben]).
 
 ::: ex
 - Ich überrasche ihn. \
@@ -2494,45 +2514,47 @@ The ~~Kogitativ~~ (from Lat. *cogitare* 'to consider, to intend', full discussio
   Es ist bekannt, dass er denkt, mich überraschen zu können.
 :::
 
-### *Konativ* (*suchen + zu-Infinitive*) {#sec:summary-konativ}
+### *Konativ* (*suchen + zu‑Infinitive*) {#sec:summary-konativ}
 
-The ~~Konativ~~ (from Lat. *conor* 'to try', full discussion in [@sec:zuinfinitive-suchen]) is a category that expresses an attempt at an activity. In German it can be expressed with *suchen + zu-Infinitiv* [@next a,b]. In this construction, the meaning of *suchen* is similar to *versuchen* 'to try' and not to the lexical meaning of *suchen* 'to search'. In the meaning of 'to try' the construction is coherent [@next c], while the semantically similar *versuchen* does not lead to coherent constructions [@next d]. 
+The ~~Konativ~~ (from Lat. *conor* 'to try', full discussion in [@sec:zuinfinitive-suchen]) is a category that expresses an attempt at an activity. In German it can be expressed with *suchen + zu‑Infinitiv* [@next a]. In this construction, the meaning of *suchen* is similar to *versuchen* 'to try' and not to the lexical meaning of *suchen* 'to search'. In the meaning of 'to try' the construction is coherent [@next b], while the semantically similar *versuchen* does not result in a coherent construction [@next c]. 
 
 ::: ex
-- Er hilft ihr.
-- Er suchte ihr zu helfen.
+- Er hilft ihr. \
+  Er suchte ihr zu helfen.
 - Es ist bekannt, dass er ihr zu helfen suchte.
 - Es ist bekannt, dass er versuchte, ihr zu helfen.
 :::
 
 ### *Effekativ* (*bekommen/kriegen + Partizip*) {#sec:summary-effekativ}
 
-The aspired outcome of intending something (see [@sec:summary-kogitativ]) or of trying something (see [@sec:summary-konativ]) is to achieve something. This can be expressed with the ~~Effekativ~~ (from Lat. *effectus* 'accomplishment', full discussion in [@sec:participles-bekommen-achievement]), consisting of the light verbs *bekommen* or *kriegen* with a participle [@next a,b]. The same construction is also used for the *Rezepientenpassiv* (see [@sec:summary-rezipientenpassiv]). It is even possible to construct ambiguous sentences that can both have an *Effekativ* and a *Rezipientenpassiv* interpretation [@next c].
+The aspired outcome when intending something (see [@sec:summary-kogitativ]) or when trying something (see [@sec:summary-konativ]) is to achieve something. This acheivement can be expressed with the ~~Effekativ~~ (from Lat. *effectus* 'accomplishment', full discussion in [@sec:participles-bekommen-achievement]), consisting of the light verbs *bekommen* or *kriegen* with a participle [@next a]. The same construction is also used for the *Rezepientenpassiv* (see [@sec:summary-rezipientenpassiv]). It is even possible to construct ambiguous sentences that can both have an *Effekativ* and a *Rezipientenpassiv* interpretation [@next b].
 
 ::: ex
-a. Der Eigentümer vermietet die Wohnung nicht.
-b. Der Eigentümer kriegt die Wohnung nicht vermietet.
-c. Der Zahnarzt kriegt den Zahn gezogen. \
+a. Der Eigentümer vermietet die Wohnung nicht. \
+   Der Eigentümer kriegt die Wohnung nicht vermietet.
+b. Der Zahnarzt kriegt den Zahn gezogen. \
    (= Der Zahnarzt schafft es, den Zahn zu ziehen.) \
    (= Dem Zahnarzt wird der Zahn gezogen.)
 :::
 
-### *Exemptiv* (*haben + Infinitiv*)
+### *Fortunativ* (*haben + gut/leicht + Infinitiv*)
 
-(full discussion in [@sec:infinitive-haben-adverbial]) with obligatory adverbial *leicht/gut*
+The ~~Fortunativ~~ (from Lat. *fortunatus* 'blessed, lucky', full discussion in [@sec:infinitive-haben-adverbial]) consists of *haben* with an infinitive verb and an obligatory adverbial. The adverbial is almost always *leicht* 'easy' [@next a] or *gut* 'well' [@next b]. This construction expresses that the subject is in a fortunate situation to do something.
 
 ::: ex
-a. Er lacht.
-b. Er hat gut lachen.
+a. Er lacht. \
+   Er hat gut lachen.
+b. Er redet. \
+   Er hat leicht reden.
 :::
 
 ## Evidentiality {#sec:epithesis-evidentiality}
 
 The grammatical marking of evidentiality, i.e. linguistic structure by which the speaker indicates the evidence for the stated utterance, has been observed in languages all over the world. In German, grammaticalised evidentials exist in various variants. The German names for these categories distinguish between *Inferenz* for inferential evidentials and *Evidenz* for direct evidentials.
 
-### *Imperfektinferenz* (*scheinen + zu-Infinitiv*) {#sec:summary-imperfektinferenz}
+### *Imperfektinferenz* (*scheinen + zu‑Infinitiv*) {#sec:summary-imperfektinferenz}
 
-The marking of ~~Imperfektinferenz~~ (full discussion in [@sec:zuinfinitive-scheinen]) is expressed by the verb *scheinen* with a *zu-Infinitiv* [@next a]. This construction conveys an inferential evidential, in which the speaker expresses some confidence in the stated event based on a deduction from available information. There is also a closely related *Perfektinferenz* as discussed in the next [@sec:summary-perfektinferenz]. The main difference between the two is the perfectivity of the verb. By using the *zu-Infinitiv* the construction is marked as imperfect. The verb *scheinen* has various further uses, among them a lexical meaning expressing 'to shine'. Crucially, in its evidential usage with a *zu-Infinitiv* this construction is coherently monoclausal [@next b].
+The marking of ~~Imperfektinferenz~~ (full discussion in [@sec:zuinfinitive-scheinen]) is expressed by the verb *scheinen* with a *zu‑Infinitiv* [@next a]. This construction conveys an inferential evidential, in which the speaker expresses some confidence in the stated event based on a deduction from available information. There is also a closely related *Perfektinferenz* as discussed in the next [@sec:summary-perfektinferenz]. The main difference between the two is the perfectivity of the verb. By using the *zu‑Infinitiv* the construction is marked as imperfect. The verb *scheinen* has various further uses, among them a lexical meaning expressing 'to shine'. Crucially, in its evidential usage with a *zu‑Infinitiv* this construction is coherently monoclausal [@next b].
 
 ::: ex
 a. Der Plan scheitert. \
@@ -2560,9 +2582,9 @@ b. ^* Das Kind scheint geschlafen.
 - ^* Er wirkt geschlafen.
 :::
 
-### *Negative Wertungsevidenz* (*drohen + zu-Infinitiv*)
+### *Negative Wertungsevidenz* (*drohen + zu‑Infinitiv*)
 
-The marking of ~~Negative Wertungsevidenz~~ (full discussion in [@sec:zuinfinitive-drohen]) consists of the verb *drohen* with a *zu-Infinitiv* [@next a]. This construction conveys that the speaker of the utterance has direct evidence for the proposition, while implying a negative evaluation from the speaker's point of view. When used as a speech-act verb *drohen* means 'to threaten' and can also be used with a *zu-Infinitiv*. However, only in its evidential usage will *drohen* construct coherently [@next b]. The meaning of 'to threaten' does not result in coherent constructions [@next c].
+The marking of ~~Negative Wertungsevidenz~~ (full discussion in [@sec:zuinfinitive-drohen]) consists of the verb *drohen* with a *zu‑Infinitiv* [@next a]. This construction conveys that the speaker of the utterance has direct evidence for the proposition, while implying a negative evaluation from the speaker's point of view. When used as a speech-act verb *drohen* means 'to threaten' and can also be used with a *zu‑Infinitiv*. However, only in its evidential usage will *drohen* construct coherently [@next b]. The meaning of 'to threaten' does not result in coherent constructions [@next c].
 
 ::: ex
 a. Das Wetter droht schlecht zu werden.
@@ -2570,9 +2592,9 @@ b. Es ist bekannt, dass das Wetter schlecht zu werden droht.
 c. Es ist bekannt, dass er droht, das Licht auszuschalten.
 :::
 
-### *Positive Wertungsevidenz* (*versprechen + zu-Infinitiv*)
+### *Positive Wertungsevidenz* (*versprechen + zu‑Infinitiv*)
 
-The marking of ~~Positive Wertungsevidenz~~ (full discussion in [@sec:zuinfinitive-drohen]) is composed of the verb *versprechen* with a *zu-Infinitiv* [@next a]. Similar to the previous construction with *drohen*, the verb *versprechen* with a *zu-Infinitiv* also expresses a direct evidential, though now with a positive evaluation. When used as a speech-act verb *versprechen* means 'to promise' and is commonly used with a *zu-Infinitiv*. However, only in its evidential usage will *versprechen + zu-Infinitiv* construct coherently [@next b]. The meaning of 'to promise' does not result in coherent constructions [@next c].
+The marking of ~~Positive Wertungsevidenz~~ (full discussion in [@sec:zuinfinitive-drohen]) is composed of the verb *versprechen* with a *zu‑Infinitiv* [@next a]. Similar to the previous construction with *drohen*, the verb *versprechen* with a *zu‑Infinitiv* also expresses a direct evidential, though now with a positive evaluation. When used as a speech-act verb *versprechen* means 'to promise' and is commonly used with a *zu‑Infinitiv*. However, only in its evidential usage will *versprechen + zu‑Infinitiv* construct coherently [@next b]. The meaning of 'to promise' does not result in coherent constructions [@next c].
 
 ::: ex
 a. Das Wetter verspricht gut zu werden.
@@ -2582,9 +2604,9 @@ c. Es ist bekannt, dass er verspricht, das Licht auszuschalten.
 
 ## Participant affectedness {#sec:epithesis-affectedness}
 
-### *Verborgener Zustandskausativ* (*kommen + zu-Infinitiv*) {#sec:epithesis-zustandskausativ}
+### *Verborgener Zustandskausativ* (*kommen + zu‑Infinitiv*) {#sec:epithesis-zustandskausativ}
 
-The covert causative exists in two variants. The first kind, ~~Verborgener Zustandskausativ~~ (full discussion in [@sec:zuinfinitive-kommen]), uses the light verb *kommen* with a *zu-Infinitiv* [@next a,b]. This construction conveys that there is some unexpressed force or agent that has caused a state to be reached. It can only used with intransitive state verbs like *stehen* and is obligatorily coherent [@next c]
+The covert causative exists in two variants. The first kind, ~~Verborgener Zustandskausativ~~ (full discussion in [@sec:zuinfinitive-kommen]), uses the light verb *kommen* with a *zu‑Infinitiv* [@next a,b]. This construction conveys that there is some unexpressed force or agent that has caused a state to be reached. It can only used with intransitive state verbs like *stehen* and is obligatorily coherent [@next c]
 
 ::: ex
 a. Sie stand neben mir.
@@ -2592,9 +2614,9 @@ b. Sie kam neben mir zu stehen.
 c. Es ist bekannt, dass sie neben mir zu stehen kam.
 :::
 
-### *Verborgener Rezipientenkausativ* (*bekommen/kriegen + zu-Infinitiv*)
+### *Verborgener Rezipientenkausativ* (*bekommen/kriegen + zu‑Infinitiv*)
 
-The ~~Verborgener Rezipientenkausativ~~ (full discussion in [@sec:zuinfinitive-bekommen]) uses the light verbs *bekommen* or *kriegen* with a *zu-Infinitiv* [@next a,b]. Like with *kommen* (see [@sec:epithesis-zustandskausativ]), there is an unnamed force or agent that causes the situation to come about. The light verb *bekommen/kriegen* is typically combined with a transitive verb of sensation, like *sehen* 'to see', or consumption, like *essen* 'to eat'. By using this covert causative construction, the nominative subject is semantically depicted as an experiencer of the verb. The centrality of the experiencer role is reminiscent of the *Rezipientenpassiv* (see [@])
+The ~~Verborgener Rezipientenkausativ~~ (full discussion in [@sec:zuinfinitive-bekommen]) uses the light verbs *bekommen* or *kriegen* with a *zu‑Infinitiv* [@next a,b]. Like with *kommen* (see [@sec:epithesis-zustandskausativ]), there is an unnamed force or agent that causes the situation to come about. The light verb *bekommen/kriegen* is typically combined with a transitive verb of sensation, like *sehen* 'to see', or consumption, like *essen* 'to eat'. By using this covert causative construction, the nominative subject is semantically depicted as an experiencer of the verb. The centrality of the experiencer role is reminiscent of the *Rezipientenpassiv* (see [@sec:summary-rezipientenpassiv])
 
 ::: ex
 a. Die Schüler sehen einen Film.
@@ -2638,23 +2660,24 @@ a. Ich schlafe.
 b. Ich schlafe mich gesund.
 :::
 
-## Summary of widespread light verbs
+## Summary of recurrent light verbs
 
 The light verbs listed in [@tbl:light-verbs] occur in more than one derived clause construction. Shown in the table is whether these constructions induce epithesis (E) or diathesis (D). The ordering reflects an approximate top-left to bottom-right cline of the frequency of diathesis.
 
-|            | *Partizip* | *zu-Infinitiv* | *Infinitiv* | *Präposition-Infinitiv* |
-| :--------- | :--------: | :------------: | :---------: | :---------------: |
-| *haben*    |    D+E     |       E        |     D+E     |         D         |
-| *sein*     |    D+E     |       D        |      E      |        D+E        |
-| *bleiben*  |    D+E     |       D        |      E      |         E         |
-| *gehen*    |     D      |       D        |      E      |         E         |
-| *geben*    |     D      |       D        |      -      |         -         |
-| *sehen*    |     D      |       –        |      D      |         –         |
-| *scheinen* |    D+E     |       E        |      –      |         -         |
-| *bekommen* |    D+E     |       E        |      –      |         -         |
-| *wissen*   |     D      |       E        |      –      |         -         |
-| *werden*   |     D      |       –        |      E      |         –         |
-| *lassen*   |     E      |       E        |      D      |         -         |
-| *kommen*   |     E      |       E        |      E      |         E         |
+|            | *Partizip* | *zu‑Infinitiv* | *Infinitiv* | *Präposition‑Infinitiv* |
+| :--------- | :--------: | :------------: | :---------: | :---------------------: |
+| *haben*    |    D+E     |       E        |     D+E     |            D            |
+| *sein*     |    D+E     |       D        |      E      |           D+E           |
+| *bleiben*  |    D+E     |       D        |      E      |            E            |
+| *gehen*    |     D      |       D        |      E      |            E            |
+| *geben*    |     D      |       D        |      -      |            -            |
+| *sehen*    |     D      |       –        |      D      |            –            |
+| *werden*   |     D      |       –        |      E      |            –            |
+| *scheinen* |    D+E     |       E        |      –      |            -            |
+| *bekommen* |    D+E     |       E        |      –      |            -            |
+| *wissen*   |     D      |       E        |      –      |            -            |
+| *halten*   |     E      |       -        |      -      |            D            |
+| *lassen*   |     E      |       E        |      D      |            -            |
+| *kommen*   |     E      |       E        |      E      |            E            |
 
-Table: Summary of recurrent light verbs in verbal constructions (D = diathesis, E = Epithesis) {#tbl:light-verbs}
+Table: Summary of light verbs that occur in more than one derived clause construction (D = diathesis, E = epithesis) {#tbl:light-verbs}

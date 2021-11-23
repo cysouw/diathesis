@@ -775,7 +775,7 @@ d. ^* Ich verdanke mein Leben.
 
 Verbs that take a dative, but do not allow for an accusative, are well attested, though not very frequent in German. Some of those verbs do not allow the dative to be dropped (see [@sec:case-nominative-dative]) and a few allow for the dative to be replaced by a prepositional phrase (see [@sec:prepositions-dative-antipassive]) or by a possessor (see [@sec:case-possessor-of-nominative-to-dative-experiencer]). 
 
-In this section only those verbs are listed for which the only alternative for the dative is a complete drop. A few of the verbs in this class only allow for inanimate subjects, so these might be a special subclass (e.g. *beiliegen, bevorstehen, gelingen, geschehen, sitzen*). This difference can be formally shown by considering the possibility to replace the nominative subject with an embedded *zu-Infinitive* clause.
+In this section only those verbs are listed for which the only alternative for the dative is a complete drop. A few of the verbs in this class only allow for inanimate subjects, so these might be a special subclass (e.g. *beiliegen, bevorstehen, gelingen, geschehen, sitzen*). This difference can be formally shown by considering the possibility to replace the nominative subject with an embedded *zu‑Infinitive* clause.
 
 **Attested Verbs**
 

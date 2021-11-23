@@ -18,7 +18,7 @@ There are also various light verbs that induce a diathesis when used with an inf
 - Die Lehrerin hat ihre Pflanzen auf der Fensterbank stehen.
 :::
 
-Following Bech [-@bech1955] such construction are often designated as *Erster Status* in the German grammatical literature. However, this name is not very transparent nor particularly mnemonic, so I prefer to simply use the term ~~light-verb-plus-infinitive~~ constructions.
+Following Bech [-@bech1955] such construction are often designated as *Erster Status* in the German grammatical literature. However, this name is not very transparent nor particularly mnemonic, so I prefer to simply use the term ~~light-verb-plus‑Infinitive~~ constructions.
 
 There are ten frequently occurring diatheses that use a light verb + infinitive construction and for which I propose a German name, as listed below. Note that the *lassen + Infinitiv* construction occurs in many different diatheses. A detailed discussion of these can be found in [@sec:infinitive-guises-of-lassen]. 
 
@@ -55,7 +55,7 @@ Functionally, the infinitive is a nominal form of the verb that regularly occurs
 Das Laufen fällt mir schwer.
 :::
 
-Given the nominal nature of the infinitive, there is a close connection between light-verb-plus-infinitive constructions and nominal predication, i.e. constructions of a light verb with a bare noun (without determiner). Nominal predication in German is typically constructed with light verbs *werden*, *sein* or *bleiben* [@duden2009: 812-813]. The parallel between infinitives and nouns is obvious with the future meaning of *werden* [@next a], see [@sec:infinitive-werden-modal], and the continuative meaning of *bleiben* [@next b], see [@sec:infinitive-bleiben]. However, as illustrated in [@next c], the meaning of *sein* + noun ('identification') is quite different from *sein* + infinitive ('absentive'), see [@sec:infinitive-sein-absentive].
+Given the nominal nature of the infinitive, there is a close connection between light-verb-plus‑Infinitive constructions and nominal predication, i.e. constructions of a light verb with a bare noun (without determiner). Nominal predication in German is typically constructed with light verbs *werden*, *sein* or *bleiben* [@duden2009: 812-813]. The parallel between infinitives and nouns is obvious with the future meaning of *werden* [@next a], see [@sec:infinitive-werden-modal], and the continuative meaning of *bleiben* [@next b], see [@sec:infinitive-bleiben]. However, as illustrated in [@next c], the meaning of *sein* + noun ('identification') is quite different from *sein* + infinitive ('absentive'), see [@sec:infinitive-sein-absentive].
 
 ::: ex
 - Ich werde Vater. \
@@ -96,7 +96,7 @@ A further kind of nominal predication uses the verb *heißen* 'to be named' [@du
 
 ### ACI *accusativus cum infinitivo* 
 
-Given the immense influence of Latin grammar on grammatical theory, it is no surprise that the classical Latin *accusativus cum infinitivo* (ACI) construction is often used to desribe a similary phenomenon in German [@next]. In such constructions, the subject of the verb in the infinitive (viz. the logical subject of *putzen* and *kaufen*) ends up as an accusative. This construction is very widespread in Latin, but in German only applicable to the few light-verb-plus-infinitive construction that add a new subject, viz causative verbs like *schicken* 'to send' [@next a] and perception verbs like *sehen* 'to see' [@next b]. Speyer [@speyer2018a] discusses the history of these constructions in German, argueing that they are original Germanic (and possibly even proto-Indo-European). Although the surface structure in German are clearly monoclausal, underlyingly there might be a different structures for verbs like *sehen* with a biclausal *dass* alternative [see @harbert1977 for a discussion].
+Given the immense influence of Latin grammar on grammatical theory, it is no surprise that the classical Latin *accusativus cum infinitivo* (ACI) construction is often used to desribe a similary phenomenon in German [@next]. In such constructions, the subject of the verb in the infinitive (viz. the logical subject of *putzen* and *kaufen*) ends up as an accusative. This construction is very widespread in Latin, but in German only applicable to the few light-verb-plus‑Infinitive construction that add a new subject, viz causative verbs like *schicken* 'to send' [@next a] and perception verbs like *sehen* 'to see' [@next b]. Speyer [@speyer2018a] discusses the history of these constructions in German, argueing that they are original Germanic (and possibly even proto-Indo-European). Although the surface structure in German are clearly monoclausal, underlyingly there might be a different structures for verbs like *sehen* with a biclausal *dass* alternative [see @harbert1977 for a discussion].
 
 ::: ex
 - Er kauft Brot. \
@@ -315,9 +315,9 @@ Contrasting to the *gehen/fahren +Infinitiv* abitive there is also a *kommen + I
 
 - probably exactly the same verbs as can be used with *sein + Infinitive* absentive can also be used with *kommen + Infinitive*.
 
-### *haben + leicht/gut + Infinitiv* Exemptive {#sec:infinitive-haben-adverbial}
+### *haben + leicht/gut + Infinitiv* Fortunative {#sec:infinitive-haben-adverbial}
 
-A special construction using *haben* with infinitive describes a situation in which the subject is exempt of any difficulty, so I propose to call this construction ~~exemptive~~ (from Lat. *exemptus* 'freed of'). This construction obligatorily needs an adverb, most frequently *leicht* 'easy' [@next a] or *gut* 'well' [@next b]. Only incidentally other adverbs are attested, like *klug* 'clever' [@next c]. The main verbs seem to be restricted to intransitive verbs, most frequent are *reden* 'to talk' and *lachen* 'to smile'. The only examples with transitive verbs involve incorporated objects, which are argueably intransitive [@next d].
+The construction *haben + Infinitiv* describes a situation in which the subject is in a fortunate situation to do something, so I propose to call this construction ~~fortunative~~ (from Lat. *fortunatus* 'blessed, lucky'). This construction obligatorily needs an adverb, most frequently *leicht* 'easy' [@next a] or *gut* 'well' [@next b]. Only incidentally other adverbs are attested, like *klug* 'clever' [@next c]. The main verbs seem to be restricted to intransitive verbs, most frequent are *reden* 'to talk' and *lachen* 'to laugh'. Utterance verbs appear to be particularly common in this construction. The only examples with transitive verbs involve incorporated objects, which are argueably intransitive [@next d].
 
 ::: ex
 - Er hat leicht reden. \
@@ -330,7 +330,8 @@ A special construction using *haben* with infinitive describes a situation in wh
 
 **Attested Verbs**
 
-- intransitive verbs, most frequently with *reden* and *lachen*.
+- Utterance verbs: *protzen, reden, sagen, schimpfen, trösten, verbieten*
+- Others: *beweisen, lachen, regieren*.
 
 **Examples**
 
@@ -340,7 +341,7 @@ A special construction using *haben* with infinitive describes a situation in wh
 - Der Herr Baron hat leicht trösten; ich bin und bleib' unglücklich, wenn ich meinen Casperl nimmer sieh.^[~~DWDS~~: Pocci, Franz von: Lustiges Komödienbüchlein. Bd. 4. München, 1871.]
 - Wer aber geliebt ist, hat leicht regieren.^[~~DWDS~~: Eckermann, Johann Peter: Gespräche mit Goethe in den letzten Jahren seines Lebens. Bd. 3. Leipzig, 1848.]
 
-### --- Mood --- {.unnumbered}
+### --- Modality --- {.unnumbered}
 
 The traditional modal verbs *dürfen/können/mögen/müssen/sollen/wollen* and the modal-like light verbs *werden* and *brauchen* can all be used in constructions with infinitives. There do not seem to be any restrictions on which verbs can occur as infinitives in such constructions.
 
@@ -389,7 +390,7 @@ It is undecidable whether the *werden + Infinitiv* construction induces an IPP *
 
 ### *brauchen + Infinitiv* Negative obligation {#sec:infinitive-brauchen}
 
-The verb *brauchen* 'to need' is typically used with *zu-Infinitiv* with some kind of negation or a modal particle like *nur* or *bloß* [@next a], see [@sec:zuinfinitive-brauchen]. However, it also occurs without *zu* [@next b]. Without *zu* it seems to be more typically used in sentences without objects. Whether there is any semantic difference between the usage with or without *zu* needs more in-depth investigation. When it is used without *zu* it seems only logical to include *brauchen* in the set of modal verbs [cf. @duden2009: 556]. The light verb *brauchen* is similar to the modal verbs in that it induces an IPP *Ersatzinfinitiv* [@next c].
+The verb *brauchen* 'to need' is typically used with *zu‑Infinitiv* with some kind of negation or a modal particle like *nur* or *bloß* [@next a], see [@sec:zuinfinitive-brauchen]. However, it also occurs without *zu* [@next b]. Without *zu* it seems to be more typically used in sentences without objects. Whether there is any semantic difference between the usage with or without *zu* needs more in-depth investigation. When it is used without *zu* it seems only logical to include *brauchen* in the set of modal verbs [cf. @duden2009: 556]. The light verb *brauchen* is similar to the modal verbs in that it induces an IPP *Ersatzinfinitiv* [@next c].
 
 ::: ex
 - Du brauchst nur noch zu unterschreiben.
@@ -499,7 +500,7 @@ b. ^* Nach Fisch lässt es sich stinken.
 
 The light verb *heißen* can be used with an infinitive in various different constructions. A widespread option is a demotive usage with intransitive verbs, like *warten* 'to wait' [@next a]. The original subject is demoted, but can optionally be retained as a *für* prepositional phrase. As there is no new subject introduced, an obligatory valency-simulating pronoun *es* is introduced. 
 
-Transitive verbs can be used in this construction, but only when the object does not have an article [@next b]. Such objects can be considered to be incorporated objects, and there is a recurrent debate in German orthography whether such objects should be written separated by a space or not. Semantically, this *heißen + Infinitive* construction is very close to the *gelten + zu-Infinitiv* (see [@sec:zuinfinitive-gelten-demotion]). Both express a kind of externally induced necessesity (i.e. modal "müssen").
+Transitive verbs can be used in this construction, but only when the object does not have an article [@next b]. Such objects can be considered to be incorporated objects, and there is a recurrent debate in German orthography whether such objects should be written separated by a space or not. Semantically, this *heißen + Infinitive* construction is very close to the *gelten + zu‑Infinitiv* (see [@sec:zuinfinitive-gelten-demotion]). Both express a kind of externally induced necessesity (i.e. modal "müssen").
 
 ::: ex
 - Alles andere wartet. \
@@ -931,7 +932,7 @@ The verb *finden* (literally meaning 'to find', but in this construction the mea
 
 ### [ –N | NA ] *lehren + Infinitiv* Assistive {#sec:infinitive-lehren}
 
-The verb *lehren* 'to teach' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ('the teacher') is introduced as a nominative and the erstwhile nominative is demoted to accusative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *lehren* remains completely transparently related to the full verb with the meaning 'to teach'. There is an alternative construction with *zu-Infinitive* (see [@sec:zuinfinitive-grammaticalisation]) that appears to have a highly similar meaning. More research is needed to elucidate any difference between these two constructions [@next b,c]. The *lehren + Infinitive* diathesis does not invoke the IPP *Ersatzinfinitiv* [@next d].
+The verb *lehren* 'to teach' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ('the teacher') is introduced as a nominative and the erstwhile nominative is demoted to accusative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *lehren* remains completely transparently related to the full verb with the meaning 'to teach'. There is an alternative construction with *zu‑Infinitive* (see [@sec:zuinfinitive-grammaticalisation]) that appears to have a highly similar meaning. More research is needed to elucidate any difference between these two constructions [@next b,c]. The *lehren + Infinitive* diathesis does not invoke the IPP *Ersatzinfinitiv* [@next d].
 
 ::: ex
 a. Der Junge schwimmt.
@@ -949,7 +950,7 @@ There does not seem to be any syntactic restriction on the main lexical verbs th
 
 ### [ –N | ND ] *helfen + Infinitiv* Assistive {#sec:infinitive-helfen}
 
-The verb *helfen* 'to help' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ('the helper') is introduced as a nominative and the erstwhile nominative is demoted to dative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *helfen* remains completely transparently related to the full verb with the meaning 'to help'. There is an alternative construction with *zu-Infinitive* [@next c], see [@sec:zuinfinitive-grammaticalisation], that appears to highly similar. More research is needed to elucidate any difference between these two constructions. The *helfen + Infinitive* diathesis allows the IPP *Ersatzinfinitiv* [@next d].
+The verb *helfen* 'to help' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ('the helper') is introduced as a nominative and the erstwhile nominative is demoted to dative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *helfen* remains completely transparently related to the full verb with the meaning 'to help'. There is an alternative construction with *zu‑Infinitive* [@next c], see [@sec:zuinfinitive-grammaticalisation], that appears to highly similar. More research is needed to elucidate any difference between these two constructions. The *helfen + Infinitive* diathesis allows the IPP *Ersatzinfinitiv* [@next d].
 
 ::: ex
 - Ich trage den Koffer.

@@ -1347,7 +1347,7 @@ d. Die Arbeit beginnt.
 - *mit*  : *anfangen, beginnen, rechnen, zögern*
 - *an*   : *glauben (für Wahr halten), leiden*
 - *nach* : *verlangen*
-- *für*. : *büßen, garantieren, leben*
+- *für*  : *büßen, garantieren, leben*
 
 **Examples**
 
@@ -1384,7 +1384,7 @@ Some old-fashioned genitive arguments can be replaced by a governed preposition.
 
 ::: ex
 a. Ich denke der vergangenen Jahre.
-b. Ich denke an die vergangene Jahre.
+b. Ich denke an die vergangenen Jahre.
 c. Ich denke daran, dass ich Milch kaufen muss.
 :::
 
@@ -1593,7 +1593,7 @@ e. Ich befehle die Armee, während ich an der Front bin.
 
 ### [ NA– | NAP ] Performative result {#sec:prepositions-performative-result}
 
-A slightly different variant of a resultative constructions is found with various performative verbs that take a regular accusative [@next a]. As an alternative structure, these verbs also allow a construction with an accusative and a preposition [@next b]. The meaning of such constructions is parallel to the previous resultatives, in that the performative verb causes the result "accusative is prepositional object" [@next c]. Such constructions were named quite aptly "Ergänzende Wirkung" all the way back in the influential educational grammatical work of Karl Ferdinand Becker [@becker1833: 81] almost 200 years ago.
+A slightly different variant of a resultative constructions is found with various performative verbs that take a regular accusative [@next a]. As an alternative structure, these verbs also allow a construction with an accusative and a preposition [@next b] Note that the prepositional phrase cannot be left out in these constructions. The meaning of such constructions is parallel to the previous resultatives, in that the performative verb causes the result "accusative is prepositional object" [@next c]. Such constructions were named quite aptly "Ergänzende Wirkung" all the way back in the influential educational grammatical work of Karl Ferdinand Becker [@becker1833: 81] almost 200 years ago.
 
 ::: ex
 a. Er macht die Aufgaben. 

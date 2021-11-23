@@ -1185,7 +1185,7 @@ Similar to the previous construction, the *lassen + Partizip* construction also 
 - Die Tür hatte sie angelehnt gelassen, jetzt stand sie sperrangelweit offen.^[Die Zeit, 23.03.1990, Nr. 13]
 - Hätte man die Streitfragen wirklich ausgeklammert gelassen, dann wäre das Berlin-Abkommen ein großer Erfolg gewesen.^[Die Zeit, 08.03.1974, Nr. 11]
 
-### --- Mood --- {.unnumbered}
+### --- Modality --- {.unnumbered}
 
 ### [ NA | NA ] *bekommen/kriegen + Partizip* Achievement (*Effekativ*) {#sec:participles-bekommen-achievement}
 
@@ -1219,7 +1219,7 @@ The construction of the light verbs *bekommen/kriegen + Partizip* is widely disc
 The light verbs *scheinen* and *erscheinen* are used with participles of some intransitive verbs to describe an inference being made by the speaker [@next]. There is a close semantic connection to the *sein* perfect as shown by the imcompatibility with many agentive intransitives [@next a,b] and by the compatibility with a durative temporal adverb like *seit einer Stunde* [@next c]. An additional experiencer dative is sometimes attested [@next d]. With transitive verbs this construction leads to an anticausative diathesis, see [@sec:participles-scheinen-anticausative]. This construction is discussed in more depth in that section. 
 
 These constructions are analysed by Lasch [-@lasch2016: 253ff.] as *Askription mit modaler Relation*. 
-However, I propose to categorise such construction as a kind of evidential, following the proposal by Diewald & Smirnova [@diewald2010: 177-191]. Diewald and Smirnova present an extensive discussion of the meaning of *scheinen* in various constructions, but, inexplicably, they did not include the construction with a participle. Still, their proposal that *scheinen* can express an inferential evidential also seems fitting for the participle construction. The German name ~~Perfektinferenz~~ is chosen because of the perfectivity of the main verb. It stands in opposition to the *Imperfektinferenz* construction, which uses a *zu-Infinitiv* (see [@sec:zuinfinitive-scheinen]).
+However, I propose to categorise such construction as a kind of evidential, following the proposal by Diewald & Smirnova [@diewald2010: 177-191]. Diewald and Smirnova present an extensive discussion of the meaning of *scheinen* in various constructions, but, inexplicably, they did not include the construction with a participle. Still, their proposal that *scheinen* can express an inferential evidential also seems fitting for the participle construction. The German name ~~Perfektinferenz~~ is chosen because of the perfectivity of the main verb. It stands in opposition to the *Imperfektinferenz* construction, which uses a *zu‑Infinitiv* (see [@sec:zuinfinitive-scheinen]).
 
 ::: ex
 a. Das Kind schläft endlich ein. \
@@ -1522,7 +1522,7 @@ Impersonal passives with a dative are widespread with the light-verb *gehören* 
 
 ### [ NA | –N ] *bleiben + Partizip* Anticausative (*Kontinuativantikausativ*) {#sec:participles-bleiben-transitive}
 
-The construction *bleiben + Partizip* is both used with intransitive verbs (see [@sec:participles-bleiben-intransitive]) and with transitive verbs (this section). The verb *bleiben* has even more uses as a light verb (see [@sec:infinitive-bleiben; sec:zuinfinitive-bleiben; sec:zuminfinitive-bleiben]) and it can also be used as a main verb with a meaning 'to remain'. This widespread usage has lead to quite some discussion in the German grammatical literature about the unity of all these constructions [@eroms2000: 404; @helbig2001: 163; @kramer2004; @schlucker2007: 152; @lasch2016: 72]. Following the general approach in this book, all constructions are discussed separately. However, this is no way precludes any underlying connection between them.
+The construction *bleiben + Partizip* is both used with intransitive verbs (see [@sec:participles-bleiben-intransitive]) and with transitive verbs (this section). The verb *bleiben* has even more uses as a light verb (see [@sec:infinitive-bleiben; sec:zuinfinitive-bleiben]) and it can also be used as a main verb with a meaning 'to remain'. This widespread usage has lead to quite some discussion in the German grammatical literature about the unity of all these constructions [@eroms2000: 404; @helbig2001: 163; @kramer2004; @schlucker2007: 152; @lasch2016: 72]. Following the general approach in this book, all constructions are discussed separately. However, this is no way precludes any underlying connection between them.
 
 The name *Kontinuativantikausativ* for the transitive *bleiben + Partizip* construction is inspired by Helbig & Buscha [-@helbig2001: 163]. This construction is closely related to the stative *sein + Partizip* (see [@sec:participles-sein-zustandspassiv]), but adds a notion of continuation [@next a]. However, there are various further important differences between these two construction. First, because of the continuative semantics, a stacked Perfect ist not possible with *bleiben + Partizip* [@next b]. Second, *bleiben + Partizip* does not appear to allow for the retention of the agent, so it is truly an anticausative [@next c]. 
 
@@ -1571,7 +1571,7 @@ The retention of the agent using a *von* phrase appears to be possible, though e
 - Sein Gesicht erschien mir vertrocknet.^[Lasch 2016, citing DWDS: Blos, Wilhelm, Denkwürdigkeiten eines Sozialdemokraten, Band 1, München: G. Birk, 1914., S. 9306]
 :::
 
-The light verb *scheinen* can also occur with an extra *zu sein* construction [@next], which is analysed here as a stack of a *sein + Partizip* Perfect (see [@sec:participles-sein-perfect]) with a *scheinen + zu-Infinitiv* construction (see [@sec:zuinfinitive-scheinen]). The two examples in [@next b,c] are thus two different constructions, though the semantic difference needs a deeper investigation. 
+The light verb *scheinen* can also occur with an extra *zu sein* construction [@next], which is analysed here as a stack of a *sein + Partizip* Perfect (see [@sec:participles-sein-perfect]) with a *scheinen + zu‑Infinitiv* construction (see [@sec:zuinfinitive-scheinen]). The two examples in [@next b,c] are thus two different constructions, though the semantic difference needs a deeper investigation. 
 
 ::: ex
 a. Der Gast reist ab.
@@ -2400,11 +2400,11 @@ b. Die Qualifikation macht mich geeignet für den Job.
 
 ## Diatheses with object demotion
 
-Not Attested.
+Not attested.
 
 ## Diatheses with promotion to object
 
-Not Attested.
+Not attested.
 
 ## Symmetrical diatheses
 
