@@ -8,15 +8,18 @@ output-file: docs/fulltext.pdf
 input-files:
 - text/c00_preface.md
 - text/c01_introduction.md
-- text/c02_case.md
-- text/c03_prepositions.md
-- text/c04_reflexive.md
-- text/c05_preverbs.md
-- text/c06_adverbials.md
-- text/c07_participle.md
-- text/c08_infinitive.md
-- text/c09_zuInfinitive.md
-- text/c10_zumInfinitive.md
+- text/c02_structure.md
+- text/c03_summaryDia.md
+- text/c04_summaryEpi.md
+- text/c05_case.md
+- text/c06_prepositions.md
+- text/c07_reflexive.md
+- text/c08_preverbs.md
+- text/c09_adverbials.md
+- text/c10_participle.md
+- text/c11_infinitive.md
+- text/c12_zuInfinitive.md
+- text/c13_zumInfinitive.md
 
 filters:
 - filters/setdate.lua
