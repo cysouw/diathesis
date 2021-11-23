@@ -16,8 +16,16 @@ header-includes:
   html {
     font-size: 14pt;
   }
-  h1 {
+  h1 { <!-- more space before new chapter -->
     margin-top: 5em;
+  }
+  h1,h2,h3 { <!-- indent header text -->
+    text-indent: -70px;
+    margin-left: 70px;
+  }
+  .header-section-number { <!-- indent header text -->
+    display: inline-block;
+    margin: 0 0 0 60px;
   }
   p {
     margin-top: 0.5em;
