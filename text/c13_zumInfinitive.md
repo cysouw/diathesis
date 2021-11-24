@@ -2,10 +2,10 @@
 
 ## Introduction
 
-This final chapter takes a look at a class of constructions that consists of light verbs with a preposition‑Infinitive, like the *sein + am‑Infinitiv* progressiv [@next a], see [@sec:zuminfinitive-sein-am], or the *haben + am‑Infinitiv* inversive [@next b], see [@sec:zuminfinitive-haben-am]. Such constructions appear to be relatively new to the German language. The *am‑Infinitiv* progressive has seen most historical research, and the first tentative examples are from the 16th century [@gargyan2010: 124-132]. However, this construction only becomes clearly attested in the 19th century. The other examples discussed in this chapter have not yet seen proper diachronic investigation, but my impression is that these are all relatively recent developments. Accordingly, these constructions are considered colloquial and are regularly avoided in formal written language.
+This final chapter takes a look at a class of constructions that consists of light verbs with a preposition plus Infinitive, like the *sein + am‑Infinitiv* progressiv [@next a], see [@sec:zuminfinitive-sein-am], or the *haben + am‑Infinitiv* inversive [@next b], see [@sec:zuminfinitive-haben-am]. Such constructions appear to be relatively new to the German language. The *am‑Infinitiv* progressive has seen most historical research, and the first tentative examples are attested in the 16th century [@gargyan2010: 124-132]. However, this construction only becomes clearly attested in the 19th century. The other examples discussed in this chapter have not yet seen proper diachronic investigation, but my impression is that these are all relatively recent developments. Accordingly, these constructions are often considered colloquial and are regularly avoided in formal written language.
 
 ::: ex
-- Ich bin am arbeiten.
+- Ich bin am Arbeiten.
 - Der Jongleur hat unzähliche Teller am Drehen.
 :::
 
@@ -48,7 +48,7 @@ Adverbial meaning:
 - zum: teleological
 - vom: 
 
-=> *bleiben + zum + Infinitiv*
+=> *bleiben + zum‑Infinitiv*
 
 no special construction !!!
 
@@ -112,7 +112,7 @@ in subordinate position: PP can be separated from finite verb? PPs can occur wit
 
 Verbs with a governed preposition also show *Präpositionsinfinitiv* constructions
 
-=> *Aktivitätskausativ* (*bringen + zum + Infinitiv*) {#sec:summary-aktivitatskausativ}
+=> *Aktivitätskausativ* (*bringen + zum‑Infinitiv*) {#sec:summary-aktivitatskausativ}
 
 The ~~Aktivitätskausativ~~ consists of the light verb *bringen* with *zum* and infinitive. This diathesis adds a nominative causer to intransitive verbs like *tanzen* 'to dance' [@next a]. Accusative objects of transitive verbs can only be expressed when incorporated, forming predicates like *Briefeschreiben* 'letter-writing' [@next b]. Such verbs with incorporated object are arguably intransitives.
 
@@ -123,7 +123,7 @@ b. Ich schreibe einen Brief. \
    Sie bringt mich zum Briefeschreiben.
 :::
 
-=> [ –N | NA ] *bringen + zum + Infinitiv* causative (*Aktivitätskausativ*) {#sec:zuminfinitive-bringen-causative}
+=> [ –N | NA ] *bringen + zum‑Infinitiv* causative (*Aktivitätskausativ*) {#sec:zuminfinitive-bringen-causative}
 
 Sie bringt mich dazu, dass ich weine.
 Sie bringt mich dazu zu weinen
@@ -144,7 +144,7 @@ Patiens als Akkustiv (nur bei antikausative Verben?)
 Auch mit *kriegen*? Keine gute Beispiele in DWDS! Ein Blog-Beispiel:
 - Wie krieg ich meinen O2 surfstick zum laufen?^[~~DWDS~~: kostenloses Netbook-OS Jolicloud. Max und Vio's Schreibblog, 2010-02-20.]
 
-=> [ –NA | NAg ] *bringen + zum + Infinitiv* causative
+=> [ –NA | NAg ] *bringen + zum‑Infinitiv* causative
 
 Patiens als Genitiv bei transitive Verben.
 
@@ -166,7 +166,7 @@ Andere Nominalisierungen?
 - Er bringt die Akte in Bearbeitung.
 - Er bringt mich dazu ein Haus zu bauen.
 
-=> *hindern + am + Infinitiv* Prohibitive (*Prohibitiv*)
+=> *hindern + am‑Infinitiv* Prohibitive (*Prohibitiv*)
 
 Is this just *hindern an* with a special subordinate clause?
 
@@ -183,7 +183,7 @@ So werden die Cannabispflanzen am Blühen gehindert.
 
 - *atmen, blühen, erkunden, singen, schreiben*
 
-=> [ –N | NA ] *abhalten + vom + Infinitive* (*Präventivkausativ*)
+=> [ –N | NA ] *abhalten + vom + Infinitiv* (*Präventivkausativ*)
 
 Ich halte dich davon ab, dass du rauchst.
 Ich halte dich davon ab zu rauchen
@@ -210,7 +210,7 @@ Die Zeit, 12.07.1956, Nr. 28
 
 => examples of ongoing grammaticalisation?
 
-The verb *denken* has various slightly different meanings. Crucially in the current context, the combination *denken* with the preposition *an* means 'to remember, to not forget'. This preposition *an* is a governed preposition and can be used with a subordinate *daran, dass …* construction or a *daran + zu‑Infinitive* construction [@next a]. A different meaning for *denken*, viz. 'to plan, to intend', is attested without *an*, but with a *zu‑Infinitiv* [@next b], see also [@sec:zuinfinitiv-denken]. Now, contradictorily, *denken* with *ans‑Infinitiv* has the meaning 'to plan' [@next c], i.e. it does not have the same meaning as *denken* with *an*.
+The verb *denken* has various slightly different meanings. Crucially in the current context, the combination *denken* with the preposition *an* means 'to remember, to not forget'. This preposition *an* is a governed preposition and can be used with a subordinate *daran, dass …* construction or a *daran + zu‑Infinitiv* construction [@next a]. A different meaning for *denken*, viz. 'to plan, to intend', is attested without *an*, but with a *zu‑Infinitiv* [@next b], see also [@sec:zuinfinitiv-denken]. Now, contradictorily, *denken* with *ans‑Infinitiv* has the meaning 'to plan' [@next c], i.e. it does not have the same meaning as *denken* with *an*.
 
 ::: ex
 - Bitte denken an die Kinder! \
@@ -226,7 +226,7 @@ Not attested.
 
 ## Alternations without diathesis
 
-### *sein + am‑Infinitiv* Progressive (*Progresssiv*) {#sec:zuminfinitive-sein-am}
+### *sein + am‑Infinitiv* Progressive {#sec:zuminfinitive-sein-am}
 
 [@gargyan2010; krause2002]
 
@@ -276,7 +276,7 @@ Also "im" progressive [@gargyan2010: 25-26]
 
 - Die Preise sind im Steigen
 
-### *bleiben + am‑Infinitiv* progressive continuative (*Progressivkontinuativ*) {#sec:zuminfinitive-bleiben-am}
+### *bleiben + am‑Infinitiv* Progressive continuative (*Progressivkontinuativ*) {#sec:zuminfinitive-bleiben-am}
 
 Auch mit *bleiben*? intransitives
 
@@ -299,16 +299,18 @@ Dann seit ihr mit 16Euro im monat und viel Zeit auch bald 100ff und müsst nicht
 
 - *dampfen, jammern, kämpfen, leben, schwimmen*
 
-### *gehen/fahren + zum‑Infinitiv* (*Aditivfrequentativ*) {#sec:zuminfinitive-gehen}
+### *gehen/fahren + zum‑Infinitiv* Recurrent movement towards (*Aditivfrequentativ*) {#sec:zuminfinitive-gehen}
 
 habituall/iterative meaning? you won't use it if it happens just once
+
+Wikipedia: Auch im Deutschen gibt es frequentative oder iterative Verben. Diese sind oft mit dem Suffix -eln oder -ern vom ursprünglichen Verb abgeleitet, (kochen - köcheln, historically grübeln - graben, löchern - lochen, etc.)
 
 - Er geht heute zum Schwimmen.
 - Er fährt gleich zum Einkaufen.
 - Das können wir nämlich deshalb so gut, weil wir immer mit den Kleinen zum Schlittenfahren gegangen sind.^[~~DWDS~~: Berliner Zeitung, 20.02.1998.]
 - Ah ja, und dann bin ich zum Massieren gegangen.^[~~DWDS~~: Die Zeit, 17.06.1994, Nr. 25.]
 
-### *kommen + vom‑Infinitiv* Reversal of absentive (*Abitivfrequentativ*) {#sec:zuminfinitive-kommen-vom}
+### *kommen + vom‑Infinitiv* Recurrent movement from (*Abitivfrequentativ*) {#sec:zuminfinitive-kommen-vom}
 
 reverse of Absentiv, but very transparent... Iterative/habitual activity only?
 Semantically not the path important, but being returned from an activity
@@ -338,9 +340,9 @@ nicht "um zu" Bedeutung!!! This happens with a location that describes the goal 
 
 - *baden, beichten, einkaufen, essen, fischen, joggen, schwimmen, spielen, tanzen*
 
-### *kommen + zum‑Infinitiv* Resulted state (*Positionsresultativ*) {#sec:zuminfinitive-kommen-zum}
+### *kommen + zum‑Infinitiv* End of movement (*Bewegungsende*) {#sec:zuminfinitive-kommen-zum}
 
-The *kommen + zum‑Infinitiv* has a very specific interpretation to indicate that an activity has reached a point of stasis. For example *kommen zum Stehen* [@next a] or *kommen zu Erliegen* [@next b] both man 'to grind to a halt'. There only appear to be handful of verbs that can be used in this construction and they all describe a state the is reached.
+The *kommen + zum‑Infinitiv* has a very specific interpretation to indicate that a movement has reached an endpoint of stasis. For example *kommen zum Stehen* [@next a] means 'to grind to a halt'. The same construction can also be used metaphorically for other activities that come to a standstill, like the *Friedensverhandlungen* 'peace negotiations' in [@next b]. There only appear to be handful of verbs that can be used in this construction and they all describe that a state is reached at the end of a movement. In want of a better term, I will use the German name ~~Bewegungsende~~ for this construction.
 
 ::: ex
 - Das Auto kommt vor der Ampel zum Stehen.
@@ -372,7 +374,7 @@ Besides this stative usage, there are a few other sentence patterns that look si
 
 ### --- [ PBJ > SBJ > Ø ] --- {.unnumbered}
 
-### [ NP | –N ] *sein + zum‑Infinitive* Emotional trigger subject (*Auslösersubjektivierung*) {#sec:zuminfinitive-sein-zum}
+### [ NP | –N ] *sein + zum‑Infinitiv* Emotional trigger subject (*Auslösersubjektivierung*) {#sec:zuminfinitive-sein-zum}
 
 Only incidental examples? Emotional content!
 fabricative? Trigger of emotional reaction becomes subject! "Auslösersubjektivierung"
@@ -398,7 +400,7 @@ b. Der Schaden ist zum Heulen.
 
 ### [ –N | NA ] *halten + am‑Infinitiv* Continuative Causative (*Kontinuitätskausativ*) {#sec:zuminfinitive-halten-causative}
 
-The *halten + am + Infinitiv* construction is used with intransitive verb, most typically with *laufen* [@next a]. It adds a new participant to the event that causes the process to keep ongoing. This construction is also frequently attested with verbs describing heat production, like *kochen* 'to cook' [@next b]. However, these verbs appear to be mostly used in a metaphorical sense.
+The *halten + am‑Infinitiv* construction is used with intransitive verb, most typically with *laufen* [@next a]. It adds a new participant to the event that causes the process to keep ongoing. This construction is also frequently attested with verbs describing heat production, like *kochen* 'to cook' [@next b]. However, these verbs appear to be mostly used in a metaphorical sense.
 
 ::: ex
 - Der so erzeugte Druck hielt die Partnerschaft am Laufen.^[~~DWDS~~: Berliner Zeitung, 28.05.1999.]

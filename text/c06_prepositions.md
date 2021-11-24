@@ -195,7 +195,7 @@ c. Ich arbeite für dich
 d. ^* Ich arbeite dir
 :::
 
-Adverbial purposive *für* can be used with almost all verbs and can be identified by being paraphrased by *um zu INFINITIVE* phrase [@next a,b]. In this usage, it is also possible to use the paraphrase *dafür, dass* [@next c]. This is an obvious counterexample to the claim that this paraphrase identifies governed prepositions.
+Adverbial purposive *für* can be used with almost all verbs and can be identified by being paraphrased by *um zu Infinitiv* phrase [@next a,b]. In this usage, it is also possible to use the paraphrase *dafür, dass* [@next c]. This is an obvious counterexample to the claim that this paraphrase identifies governed prepositions.
 
 ::: ex
 a. Ich arbeite für ein besseres Leben.

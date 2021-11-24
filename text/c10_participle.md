@@ -1047,7 +1047,7 @@ The verb *laufen* allows for both *sein* and *haben* in the intransitive (see [@
 
 ### --- Aspect --- {.unnumbered}
 
-### [ N | N ] *kommen + Partizip* Movement towards (*Aditivprogressiv*) {#sec:participles-kommen}
+### [ N | N ] *kommen + (an-) + Partizip* Movement towards (*Aditivprogressiv*) {#sec:participles-kommen}
 
 The *kommen + Partizip* construction [@next] is very similar to a main verb *kommen* 'to come' with a secondary adverbial predicate [@nnext]. Rothstein [@rothstein2007a; @rothstein2011] observed various structural differences between these constructions (see also the general discussion about participles as secondary predicates in [@sec:participles-secondary-predicates]). The *kommen + Partizip* construction, like with *hüpfen* 'to hop', can be identified by the impossibility of adding the negating *un-* prefix to the participle [@next b] and by the clause-final position of the participle [@next c,d]. With secondary predicates like *verkleidet* 'dressed up' these syntactic characteristics are reversed [@nnext b-d]. 
 
@@ -1187,9 +1187,9 @@ Similar to the previous construction, the *lassen + Partizip* construction also 
 
 ### --- Modality --- {.unnumbered}
 
-### [ NA | NA ] *bekommen/kriegen + Partizip* Achievement (*Effekativ*) {#sec:participles-bekommen-achievement}
+### [ NA | NA ] *bekommen/kriegen + Partizip* Achievement (*Effektiv*) {#sec:participles-bekommen-achievement}
 
-The construction of the light verbs *bekommen/kriegen + Partizip* is widely discussed as a dative passive (*Rezepientenpassiv*, see [@sec:participles-bekommen-passive]). However, transitive verbs without dative arguments can also occur in this construction with a completely different 'to be able to' interpretation [@next]. This usage is discussed as the '*bekommen*-Konstruktion 2' [@leirbukt1997: 15-16] or as the resultative usage of *bekommen/kriegen* [@lenz2013: 86, 238-239]. Different from the dative passive, the light verb *erhalten* is not possible in this resultative construction. I propose the German name ~~Effekativ~~ (from Lat. *effectus* 'accomplishment') for this construction. In some situations it is even possible to construction ambiguous sentences, that can either have a *Effekativ* [@next b] or an *Rezepientenpassiv* [@next c] interpretation.
+The construction of the light verbs *bekommen/kriegen + Partizip* is widely discussed as a dative passive (*Rezepientenpassiv*, see [@sec:participles-bekommen-passive]). However, transitive verbs without dative arguments can also occur in this construction with a completely different 'to be able to' interpretation [@next]. This usage is discussed as the '*bekommen*-Konstruktion 2' [@leirbukt1997: 15-16] or as the resultative usage of *bekommen/kriegen* [@lenz2013: 86, 238-239]. Different from the dative passive, the light verb *erhalten* is not possible in this resultative construction. I propose the German name ~~Effektiv~~ (from Lat. *effectus* 'accomplishment') for this construction. In some situations it is even possible to construction ambiguous sentences, that can either have a *Effekativ* [@next b] or an *Rezepientenpassiv* [@next c] interpretation.
 
 ::: ex
 - Ich koche einen Tee. 
@@ -2026,7 +2026,7 @@ Starting from the very first mentioning of the *haben* dative passive a connecti
 - ^* Ich habe den Arm schon seit drei Stunden verbunden bekommen.
 :::
 
-There is a fascinating parallel between different kinds of *Pertinenzdativ* and different constructions with the light-verb *haben*. The *Pertinenzdativ* of an accusative object allows for a *haben + Partizip* diathesis [@next a], as discussed in this section. In contrast, a *Pertinenzdativ* of a local prepositional phrase with a positional verb (see [@sec:prepositions-possessor-of-location-to-dative-experiencer]) allows for a *haben + Infinitiv* diathesis [@next b], see [@sec:infinitive-haben]. Finally, a *Pertinenzdativ* of an intransitive verb (see [@sec:case-possessor-of-nominative-to-dative-experiencer]) allows for a *haben + am + Infinitive* diathesis [@next c], see [@sec:zuminfinitive-haben-am].
+There is a fascinating parallel between different kinds of *Pertinenzdativ* and different constructions with the light-verb *haben*. The *Pertinenzdativ* of an accusative object allows for a *haben + Partizip* diathesis [@next a], as discussed in this section. In contrast, a *Pertinenzdativ* of a local prepositional phrase with a positional verb (see [@sec:prepositions-possessor-of-location-to-dative-experiencer]) allows for a *haben + Infinitiv* diathesis [@next b], see [@sec:infinitive-haben]. Finally, a *Pertinenzdativ* of an intransitive verb (see [@sec:case-possessor-of-nominative-to-dative-experiencer]) allows for a *haben + am‑Infinitiv* diathesis [@next c], see [@sec:zuminfinitive-haben-am].
 
 ::: ex
 - Der Friseur schneidet die Haare des Lehrers. \
@@ -2429,7 +2429,7 @@ A similar diathesis for the possessor of an intransitive subject is attested, th
 - Er hat seinen Arm angeschwollen.
 :::
 
-A similar, but more widespread diathesis is the *haben + am + Infinitiv* constructions [@next], see [@sec:zuminfinitive-haben-am].
+A similar, but more widespread diathesis is the *haben + am‑Infinitiv* constructions [@next], see [@sec:zuminfinitive-haben-am].
 
 ::: ex
 - Meine Leitungen frieren zu.

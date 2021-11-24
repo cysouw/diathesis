@@ -302,14 +302,14 @@ The verbs *gehen*, see [@sec:adverbials-dative] and *langen*, see [@sec:case-pos
 
 ## Alternations without diathesis
 
-Depictive adverbials are a regular part of German grammar. In all German sentences there are many different possibilities to add depictive adverbials. In this chapter, I consider the addition of such an adverbial as a sort of alternation, which is arguably a stretch of the meaning of the term alternation. However, as will be shown in the next sections, there are actually various examples in which the addition of an adverbial induces a change in valency. Yet, it is of course extremely common to have such a diathesis without any change in valency. That is actually the 'normal' situation with depictive adverbials, as illustrated in [@next].
+Depictive adverbials are a regular part of German grammar. In all German sentences there are many different possibilities to add depictive adverbials. In this chapter, I consider the addition of such an adverbial as a sort of alternation, which is arguably a stretch of the meaning of the term alternation. However, as will be shown in this chapter, there are actually various examples in which the addition of an adverbial induces a change in valency. Yet, it is of course extremely common to have such a diathesis without any change in valency. That is actually the 'normal' situation with depictive adverbials, as illustrated in [@next].
 
 ::: ex
 a. Ich fahre nach Hause.
 b. Ich fahre schnell nach Hause.
 :::
 
-The situation is more interesting with resultative adverbials. There are many diatheses with resultative adverbials (as discussed throughout this chapter), but there also exist a few highly productive patterns in which the addition of a resultative adverb does not result in a diathesis. More research is needed to predict under what circumstances a diathesis occurs, and when not. In the next subsections I will present some illustrative examples in which there is no diathesis.
+The situation is more interesting with resultative adverbials. There are many diatheses with resultative adverbials (as discussed throughout this chapter), but there also exist a few highly productive patterns in which the addition of a resultative adverb does not result in a diathesis. More research is needed to predict under what circumstances a diathesis occurs, and when not. In the subsequent subsections I will present some illustrative examples in which there is no diathesis.
 
 ### [ N | N ] Intransitives + reflexive + resultative adverbial {#sec:adverbials-intransitive-reflexive-resultative}
 
@@ -320,7 +320,7 @@ Ich schlafe mich gesund. \
 (= Ich schlafe, und dadurch bin ich gesund.)
 :::
 
-The intransitive verbs that allow this seem to be strongly related to the 'agentive' class of intransitive (see [@sec:participles-restrictions]), while typical 'patientive' intransitives are not possible in this construction.
+The intransitive verbs that allow this seem to be strongly related to the agentive class of intransitive (see [@sec:participles-restrictions]), while typical patientive intransitives are not possible in this construction.
 
 ::: ex
 a. ^* Ich habe mich gesund eingeschlafen.

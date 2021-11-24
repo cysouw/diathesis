@@ -816,7 +816,9 @@ I will discuss the different role-remappings from [@fig:objectdiatheses] in four
 
 #### Applicatives & antipassives {.unnumbered}
 
-Applicatives and antipassives are very similar, though reversed. ~~applicatives [ADJ › OBJ]~~ change a prepositional phrase into a case-marked phrase, while ~~antipassives [OBJ › ADJ]~~ convert a case-marked phrase into a prepositional phrase. Given this affinity, instead of 'antipassive' it might be better to call such remappings 'antiapplicative' [e.g. @haspelmath2004c: 1132]. However, because the name 'antipassive' is already strongly entrenched in the grammatical literature, I decided not to add to the naming-confusion any more.
+Applicatives and antipassives are very similar, though reversed. ~~applicatives [ADJ › OBJ]~~ change a prepositional phrase into a case-marked phrase, while ~~antipassives [OBJ › ADJ]~~ convert a case-marked phrase into a prepositional phrase. Given this affinity, instead of 'antipassive' it might be better to call such remappings 'antiapplicative' [e.g. @haspelmath2004c: 1132] or 'deapplicative' (in line with the other names below).
+
+By removing or adding an object, applicatives and antipassives regularly change the transitivity of the sentence. However, because case marking in German is nominative/accusative aligned, changes in transitivity are not reflected in the marking of the subject. This is crucially different from languages with ergatively aligned case marking, in which antipassives also include a change in the marking of the subject, namely from ergative to absolutive. Terminologically, these two situations might be distinguished by using the term 'deapplicative' for nominative/accusative languages and reserve 'antipassive' for ergative/absolutive languages. I decided against that distinction and the term 'antipassive' will be used throughout in this book with this explicit caveat.
 
 Applicatives occur frequently with the addition of a preverb, like in the alternation between *steigen auf* 'to climb' and *besteigen* 'to mount' [@next], see [@sec:preverb-applicative].
 
