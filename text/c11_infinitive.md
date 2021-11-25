@@ -34,7 +34,7 @@ There are ten frequently occurring diatheses that use a light verb+infinitive co
 - ~~[Ø › SBJ › OBJ]~~ *machen* ~~Agentivkausativ~~ (see [@sec:infinitive-machen])
 - ~~[Ø › SBJ › OBJ]~~ *sehen/hören/fühlen/spüren* ~~Perzeptiv~~ (see [@sec:infinitive-sehen ff.])
 
-## General discussion
+## Characterising infinitive constructions
 
 ### Identifying the infinitive
 
@@ -69,7 +69,7 @@ Given the nominal nature of the infinitive, there is a close connection between 
 Modal verbs (see [@sec:infinitive-modals]) are normally not used for nominal predication. However, in recent political framing the nominal predication *Kanzler können* 'to know how to be a chancelor' has become famous [@next a], even leading to other modal verbs being used in the same construction [@next b]. Kubczak [-@kubczak2016] investigates the parallel of such usage to nominal constructions of ability like [@next c].
 
 ::: ex
-- Kurt Beck, der kann Kanzler.^[Nürnberger Nachrichten», 30.04.2007: 3, cited from Kubczak [-@kubczak2016: 128]] 
+- Kurt Beck, der kann Kanzler.^[Nürnberger Nachrichten, 30.04.2007: 3, cited from Kubczak [-@kubczak2016: 128]] 
 - Rosier darf Kanzler!^[Süddeutsche Zeitung, 03.08.2011, cited from Kubczak [-@kubczak2016: 129]]
 - Er kann den Dialekt dieser Gegend.
 :::
@@ -88,7 +88,7 @@ A further kind of nominal predication uses the verb *heißen* 'to be named' [@du
 ::: ex
 - Dieses Sternbild heißt Großer Bär.^[[@duden2009: 813]]
 - Die Symbole abschaffen heißt die Freimaurerei abschaffen.^[~~DWDS~~: Die Zeit, 20.11.2017, Nr. 47] \
-  Von den Erwachsenen lernen, heißt Reife beweisen.^[In: Leibniz-Institut für Deutsche Sprache: "Wörterbuch zur Verbvalenz". Grammatisches Informationssystem grammis. <https://grammis.ids-mannheim.de/verbs/view/400556/1>, accessed 27 September 2021.]
+  Von den Erwachsenen lernen, heißt Reife beweisen.^[In: Leibniz-Institut für Deutsche Sprache: *Wörterbuch zur Verbvalenz*. Grammatisches Informationssystem grammis. <https://grammis.ids-mannheim.de/verbs/view/400556/1>, accessed 27 September 2021.]
 - Diese Wahrheit zu akzeptieren, hieße zu resignieren.^[~~DWDS~~: Berliner Zeitung, 25.07.2005] \
   Eine Katze zu haben, heißt, sich um ein Lebewesen kümmern zu müssen.^[[@duden2009: 813]]
 - Der Henker hieß ihn niederknieen.
@@ -505,7 +505,7 @@ Transitive verbs can be used in this construction, but only when the object does
 ::: ex
 - Alles andere wartet. \
   Für alles andere heißt es warten.^[~~DWDS~~: Die Zeit, 17.04.2017, Nr. 13.]
-- Und dann heißt es Daumen drücken.^[Die Zeit, 03.08.2017, Nr. 29.]
+- Und dann heißt es Daumen drücken.^[~~DWDS~~: Die Zeit, 03.08.2017, Nr. 29.]
 :::
 
 There is some debate possible about whether this construction is coherent or not. When *heißen* is interpreted as a modal predicate expressing obligation, then it is clearly coherent [@next c]. However, there is a widespread other interpretation of *heißen* as a more lexical predicate with the meaning 'to be named, to denote'. In that interpretation it is mostly written with a colon, and that construction is not coherent [@next b].
@@ -853,7 +853,7 @@ The verb *sehen* 'to see' can both be used with a finite *dass* complement claus
 - Ich sehe, dass du dem Jungen ein Buch gibt.
 - Ich sehe dich dem Jungen ein Buch geben.
 - Ich habe dich dem Jungen das Buch geben sehen/gesehen.
-- Die Mutter war sehr ängstlich und hat ständig ihre Kinder unter einem Auto liegen sehen.^[Wörterbuch zur Verbvalenz, online at <https://grammis.ids-mannheim.de/verbs/view/400881/14>, accessed 22 July 2021] \
+- Die Mutter war sehr ängstlich und hat ständig ihre Kinder unter einem Auto liegen sehen.^[In: Leibniz-Institut für Deutsche Sprache: *Wörterbuch zur Verbvalenz*. Grammatisches Informationssystem grammis. <https://grammis.ids-mannheim.de/verbs/view/400881/14>, accessed 22 July 2021] \
   Bei ihrer Flucht habe sie auf den Hoteltreppen viele Leichen liegen gesehen.^[~~DWDS~~: ie Zeit, 27.11.2008, Nr. 48]
 :::
 
@@ -906,7 +906,7 @@ The verb *riechen* 'to smell' can be used with a *dass* complement clause [@next
 
 - Seine Majestät hatte einen Streit im Haus gehört und etwas brennen gerochen.^[William M. Thackeray:
 Die Rose und der Ring. Übersetzung Jörg Karau 2009. Attested online at <https://www.joergkarau-texte.de/PDF/Die%20Rose%20und%20der%20Ring.pdf>, accessed 22 July 2021.]
-- Ich war gerade 20 Minuten draußen und hab bei 8°C zwei Familien unabhängig voneinander Grillen gerochen^[Note the non-standard capitalisatoin. Attested online at <https://twitter.com/oerthelius/status/1368214157347221508>, accessed 13 September 2021.]
+- Ich war gerade 20 Minuten draußen und hab bei 8°C zwei Familien unabhängig voneinander Grillen gerochen^[Note the non-standard capitalisation. Attested online at <https://twitter.com/oerthelius/status/1368214157347221508>, accessed 13 September 2021.]
 
 ### [ –N | NA ] *finden+Infinitiv* Experiencer
 

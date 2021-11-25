@@ -310,7 +310,7 @@ Evidential interpretation of light-verb usage
 
 ### *kommen+zu‑Infinitiv* Covertly caused state (*Verborgener Zustandskausativ*) {#sec:zuinfinitive-kommen}
 
-The verb *kommen* 'to come' can be used with a *zu‑Infinitiv* of some intransitive verbs to express a state that is reached [@next].^[see also Lesart 44 von *kommen* in the *Wörterbuch zur Verbvalenz*, available online at <https://grammis.ids-mannheim.de/verbs/view/400724/44>, accessed 3 November 2012.] This construction conveys that there is some unexpressed force or agent that has caused the state to be reached, so I propose to call this construction a ~~covertly caused state~~. The meaning can be described as 'something happened, which led to the subject being in a specific state'. A parallel construction is frequently attested with nouns, like *Sie kam zu Reichtum/Ehren/Ende*.
+The verb *kommen* 'to come' can be used with a *zu‑Infinitiv* of some intransitive verbs to express a state that is reached [@next].^[see also Lesart 44 von *kommen* in the *Wörterbuch zur Verbvalenz*, available online at <https://grammis.ids-mannheim.de/verbs/view/400724/44>, accessed 3 November 2021.] This construction conveys that there is some unexpressed force or agent that has caused the state to be reached, so I propose to call this construction a ~~covertly caused state~~. The meaning can be described as 'something happened, which led to the subject being in a specific state'. A parallel construction is frequently attested with nouns, like *Sie kam zu Reichtum/Ehren/Ende*.
 
 ::: ex
 - Plötzlich ist er neben ihr zu liegen gekommen.^[~~DWDS~~: Die Zeit, 07.08.1992, Nr. 33.]

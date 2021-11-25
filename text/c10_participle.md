@@ -119,7 +119,7 @@ Further, many intransitive verbs with a *haben* perfect can be used with a resul
 a. Er hat geweint. \
    Ich höre laute Schreie und unverständlich *geweinte Worte* aus dem Nebenzimmer.^[~~DWDS~~: Die Zeit, 11.01.2006, Nr. 02.]
 b. Er hat getanzt. \
-   Besonders der im Biedermeierkostüm *getanzte Aschenbrödeltanz* mit Vertonung von Zepler ergab wirkungsvolle Bilder.^[~~DWDS~~: Berliner Tageblatt (Abend-Ausgabe, 12.03.1918.]
+   Besonders der im Biedermeierkostüm *getanzte Aschenbrödeltanz* mit Vertonung von Zepler ergab wirkungsvolle Bilder.^[~~DWDS~~: Berliner Tageblatt (Abend-Ausgabe), 12.03.1918.]
 :::
 
 An even more intricate detail occurs with some movement verbs like *laufen* 'to walk'. When used with a directional phrase like *nach Hause* 'home' this verb takes the auxiliary *sein* [@next a]
@@ -1181,9 +1181,9 @@ Similar to the previous construction, the *lassen+Partizip* construction also ca
 
 **Examples**
 
-- Der Mann hatte den Zuleitungsschlauch ohne Zusatzsicherung mehrere Jahre hindurch geöffnet gelassen.^[~~DWDS~~: Der Tagesspiegel, 12.07.2004]
-- Die Tür hatte sie angelehnt gelassen, jetzt stand sie sperrangelweit offen.^[Die Zeit, 23.03.1990, Nr. 13]
-- Hätte man die Streitfragen wirklich ausgeklammert gelassen, dann wäre das Berlin-Abkommen ein großer Erfolg gewesen.^[Die Zeit, 08.03.1974, Nr. 11]
+- Der Mann hatte den Zuleitungsschlauch ohne Zusatzsicherung mehrere Jahre hindurch geöffnet gelassen.^[~~DWDS~~: Der Tagesspiegel, 12.07.2004.]
+- Die Tür hatte sie angelehnt gelassen, jetzt stand sie sperrangelweit offen.^[~~DWDS~~: Die Zeit, 23.03.1990, Nr. 13.]
+- Hätte man die Streitfragen wirklich ausgeklammert gelassen, dann wäre das Berlin-Abkommen ein großer Erfolg gewesen.^[~~DWDS~~: Die Zeit, 08.03.1974, Nr. 11.]
 
 ### --- Modality --- {.unnumbered}
 
@@ -1565,10 +1565,10 @@ The light verbs *scheinen* and *erscheinen* can be used with participles in mono
 The retention of the agent using a *von* phrase appears to be possible, though examples are very rare [@next a,b]. Note that examples with *wie von* phrases have to be discarded, as such phrases do not instantiate an agent. Because of the very rare attestation of such agents I consider these diatheses to be anticausatives, not passives. These constructions are sometimes attested with an additional experiencer dative [@next c,d].
 
 ::: ex
-- Im Längsschnitt erscheint der helle Innenraum von zwei dunklen Linien	begrenzt.^[Lasch 2016, citing DWDS: Nultsch, Wilhelm, Allgemeine Botanik, Stuttgart: Thieme 1964, S. 52]
-- Zuletzt scheinen von diesem Prozeß die biblischen Gleichnisse betroffen.^[Lasch 2016, citing DWDS: Busch, Werner, Das sentimentalische Bild, München: Beck 1993, S. 284]
-- Der Titel […] scheint mir unglücklich gewählt.^[Lasch 2016, citing DWDS: Der Spiegel 23.02.1987]
-- Sein Gesicht erschien mir vertrocknet.^[Lasch 2016, citing DWDS: Blos, Wilhelm, Denkwürdigkeiten eines Sozialdemokraten, Band 1, München: G. Birk, 1914., S. 9306]
+- Im Längsschnitt erscheint der helle Innenraum von zwei dunklen Linien	begrenzt.^[Lasch 2016, citing ~~DWDS~~: Nultsch, Wilhelm, Allgemeine Botanik, Stuttgart: Thieme 1964, S. 52]
+- Zuletzt scheinen von diesem Prozeß die biblischen Gleichnisse betroffen.^[Lasch 2016, citing ~~DWDS~~: Busch, Werner, Das sentimentalische Bild, München: Beck 1993, S. 284]
+- Der Titel […] scheint mir unglücklich gewählt.^[Lasch 2016, citing ~~DWDS~~: Der Spiegel 23.02.1987]
+- Sein Gesicht erschien mir vertrocknet.^[Lasch 2016, citing ~~DWDS~~: Blos, Wilhelm, Denkwürdigkeiten eines Sozialdemokraten, Band 1, München: G. Birk, 1914., S. 9306]
 :::
 
 The light verb *scheinen* can also occur with an extra *zu sein* construction [@next], which is analysed here as a stack of a *sein+Partizip* Perfect (see [@sec:participles-sein-perfect]) with a *scheinen+zu‑Infinitiv* construction (see [@sec:zuinfinitive-scheinen]). The two examples in [@next b,c] are thus two different constructions, though the semantic difference needs a deeper investigation. 
@@ -1601,7 +1601,7 @@ The retention of the agent using a *von* phrase appears to be possible, though e
 
 ::: ex
 - […] deren Zweige übrigens schon von der Sonnenhitze schnell verdorrt aussahen.^[~~DWDS~~: Keil, Ernst (Hrsg.): Die Gartenlaube. Jg. 2 (1854).]
-- Auch bei der Messe in Györ […] wirkte der Papst […] von Strapazen gezeichnet.^[Lasch 2016, citing DWDS: Archiv der Gegenwart, 2001]
+- Auch bei der Messe in Györ […] wirkte der Papst […] von Strapazen gezeichnet.^[Lasch 2016, citing ~~DWDS~~: Archiv der Gegenwart, 2001]
 :::
 
 These constructions are attested with an additional experiencer dative, but this is very rare [@next]. With *aussehen* [@next a] it is only very rarely attested in older examples and with *wirken* it seems to be more common to use an *auf* prepositional phrase instead of a dative [@next b].
