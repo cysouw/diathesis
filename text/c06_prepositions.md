@@ -336,7 +336,7 @@ Some verbs appear to have an obligatory locational argument, like *wohnen* 'to l
 
 - Die Sportler zogen in das Stadion ein.^[~~DWDS~~: Lemma *einziehen*.]
 
-### [ NAL ] Obligatory local preposition + accusative {#sec:prepositions-obligatory-local}
+### [ NAL ] Obligatory local preposition+accusative {#sec:prepositions-obligatory-local}
 
 The most obvious verbs in this class are historical ablaut causatives like *legen* 'to lay, to put down' [@next b] of posture verbs like *liegen* 'to lie' [@next a]. More examples are attested with obligatory reflexive pronoun, see [@sec:reflexive-obligatory-local].
 
@@ -360,7 +360,7 @@ b. Er legt den Hund in den Korb.
 - Ich dränge ihn in die Ecke.
 - Ich verbringe meine Ferien in Italien.
 
-### [ NP ] Accusative *es* + governed preposition {#sec:prepositions-nominative-es-preposition}
+### [ NP ] Accusative *es*+governed preposition {#sec:prepositions-nominative-es-preposition}
 
 The verbs *absehen*, *anlegen* and *belassen* appear to have an obligatorily empty accusative pronoun *es*. Such non-phoric *es* mostly appears as a fall-back mechanism for missing subjects. However, with these verbs it is used for a missing object. Also, note that it does not seem to be possible to use any phoric object with these verbs.
 
@@ -403,7 +403,7 @@ Alternations without diathesis do not exist by definition for 'bare' alternation
 
 ### --- [ SBJ > Ø ] --- {.unnumbered}
 
-### [ NP | –P ] Nominative drop + governed preposition {#sec:prepositions-nominative-drop}
+### [ NP | –P ] Nominative drop+governed preposition {#sec:prepositions-nominative-drop}
 
 With verbs like *abhängen* the nominative can be dropped, and a valency-simulating pronoun *es* is inserted [@next a,b]. This pronoun *es* is not referential with verbs like this. For an apparently similar verb like *zeugen* this is different [@next c,d]: with this verb the pronoun *es* can only be interpreted referentially ('phoric').
 
@@ -439,7 +439,7 @@ d. Nur bei den Bässen hapert der Nachschub.^[~~DWDS~~: Die Zeit, 19.03.1993, Nr
 
 ### --- [ SBJ > ADJ ] --- {.unnumbered}
 
-### [ ND | pD ] Nominative demotion + dative {#sec:prepositions-nominative-demotion}
+### [ ND | pD ] Nominative demotion+dative {#sec:prepositions-nominative-demotion}
 
 Incidental verbs with nominative and dative arguments allow the nominative to be changed into a prepositional phrase with *an*, while at the same time the dative will be retained [@next a,b]. The result is a construction without nominative, so a pronoun *es* is inserted.
 
@@ -456,7 +456,7 @@ b. Ihm fehlt es an Geld.
 
 - Leider mangelt ihm jeglicher Stolz. Ihm mangelt es an Stolz.
 
-### [ N– | pD ] Nominative demotion + dative addition {#sec:prepositions-nominative-demotion-dative-addition}
+### [ N– | pD ] Nominative demotion+dative addition {#sec:prepositions-nominative-demotion-dative-addition}
 
 Some predicates take a nominative argument with non-sentient arguments [@next a], but a dative experiencer can only be used with the nominative demoted [@next b]. This only seems to occur with predicative constructions with copula *sein*. Maybe this diathesis is better analysed as a stack of two separate changes: a dropping of the nominative and an addition of the dative with [@next c] being an intermediate construction.
 
@@ -565,7 +565,7 @@ This alternation takes a (non-governed) prepositional phrase and turns it into a
 - Ich schmecke Pfefferminze in der Suppe. Die Suppe schmeckt nach Pfefferminze
 - Ich rieche Blume im Parfüm. Der Parfüm riecht nach Blume.
 
-### --- [ PBJ > SBJ > Ø ] --- *Kreationssubjektivierung* {.unnumbered}
+### --- [ PBJ > SBJ > Ø ] --- *Kreationsubjektivierung* {.unnumbered}
 
 ### [ NPA | –NA ] Transitive fabricative {#sec:prepositions-fabricative-accusative}
 
@@ -620,7 +620,7 @@ c. Die Änderung drängt.
 
 - *drängen*
 
-### [ NPD | –ND ] Fabricative + dative
+### [ NPD | –ND ] Fabricative+dative
 
 ::: ex
 a. Er droht mir mit Entlassung.
@@ -634,7 +634,7 @@ c. Die Entlassung droht mir.
 
 ### --- [ OBJ > SBJ > Ø ] --- *Ortsantikausativ* {.unnumbered}
 
-### [ NAL | –NL ] *haben* Anticausative + location {#sec:prepositions-haben-caused-location}
+### [ NAL | –NL ] *haben* Anticausative+location {#sec:prepositions-haben-caused-location}
 
 Some verbs allow for both an intransitive stative location [@next a] and caused location [@next b] construction. I analyse these verbs as anticausatives (cf. [@sec:case-haben-anticausative]).
 
@@ -675,7 +675,7 @@ c. Der Pullover hat im Schrank gehangen.
 d. Ich habe den Pullover in den Schrank gehängt.
 :::
 
-### [ NA– | –NP ] Anticausative + preposition addition {#sec:prepositions-anticausative-preposition-addition}
+### [ NA– | –NP ] Anticausative+preposition addition {#sec:prepositions-anticausative-preposition-addition}
 
 The preposition *auf* is a governed preposition [@next].
 
@@ -693,7 +693,7 @@ c. Der Traum deutet darauf, dass morgen alles wieder gut sein wird.
 
 ### --- [ Ø > SBJ > OBJ ] --- *Ortskausativ* {.unnumbered}
 
-### [ –NL | NAL ] *sein* Causative + location {#sec:prepositions-sein-caused-location}
+### [ –NL | NAL ] *sein* Causative+location {#sec:prepositions-sein-caused-location}
 
 Though similar to the *haben* causatives (see [@sec:prepositions-haben-caused-location]), these verbs only have the option of a *sein* perfect for the intransitive [@next a,b].
 
@@ -734,7 +734,7 @@ d. ^* Der Brief öffnet.
 
 The alternation with the verb *rücken* 'to move over' and *ziehen* 'to pull' are rather idiosyncratic. Possibly, these alternations constructions are better seen as different verbs.
 
-### [ –NL | NAL ] *Umlaut* Causative + location
+### [ –NL | NAL ] *Umlaut* Causative+location
 
 ::: ex
 Der Hund liegt in den Korb.
@@ -848,7 +848,7 @@ b. Der Reporter spricht von einem historischen Ereignis. Der Reporter spricht da
 - Ich rase vor Begeisterung. Mein Kopf rast.
 - Ich platze vor Neugier. Der Knoten platzt.
 
-### [ NAP | NA– ] Governed preposition drop + accusative
+### [ NAP | NA– ] Governed preposition drop+accusative
 
 Some verbs allow for the governed preposition to be dropped, but not the accusative argument [@next a-c].
 
@@ -879,7 +879,7 @@ c. ^* Ich bereite auf die Klausur vor.
 - Ich verlange Gehorsamkeit von dir.
 - Ich erfahre Neuigkeiten über die Versammlung.
 
-### [ NAP | N– – ] Governed preposition drop + accusative drop
+### [ NAP | N– – ] Governed preposition drop+accusative drop
 
 Different from the previous alternation, these verbs allow for both the preposition and the accusative to be dropped [@next a-c].
 
@@ -902,7 +902,7 @@ c. Ich warne vor den Gefahren.
 - Ich schütze die Menschheit vor den Gefahren.
 - Ich warne dich vor den Gefahren.
 
-### [ NDP | N–P ] Dative drop + governed preposition
+### [ NDP | N–P ] Dative drop+governed preposition
 
 With a dative argument, some verbs allow for the dative to be dropped, but the preposition to be retained [@next a-c]. This is the opposite structure as attested with accusative drop, as discussed above.
 
@@ -923,7 +923,7 @@ c. Ich rate zum Verkauf.
 - Ich berichte/erzähle (dir) über die Angelegenheit.
 - Ich berichte/erzähle (dir) von der Versammlung.
 
-### [ NDP | N– – ] Dative drop + governed preposition drop
+### [ NDP | N– – ] Dative drop+governed preposition drop
 
 Some verbs allow for both the dative and the preposition to be dropped, though mostly not both at the same time [@next]. Also note that the dative appears to be always the possessor of the prepositional phrase, so these diatheses might alternatively be analysed as a stack of two different diatheses, viz. a possessor raising [ NP–|NPg|NPD ] and a preposition drop [ NPD|N–D ].
 
@@ -1206,7 +1206,7 @@ d. Ich höre den Kampf in der Ferne. Ich höre von dem Kampf in den Nachrichten.
 - Ich werde später Bäcker. Ich werde noch zum Bäcker.
 - Ich finde mein Bett. Ich finde zu meinem Bett.
 
-### [ NLA | NLp ] Accusative antipassive + location
+### [ NLA | NLp ] Accusative antipassive+location
 
 With some verbs, like *drücken* 'to press' [@next] a locative prepositional phrase is obligatorily present. A similar situation occurs with *stoßen* 'to jab' [@nnext].
 
@@ -1264,7 +1264,7 @@ This seems to be very widespread with *zu* phrases in the interpretation *für d
 - Ich komme dir zu früh an. Ich komme zu früh an für deinen Geschmack.
 - Ich lüge dir zu viel. Ich lüge zuviel für deinen Geschmack.
 
-### [ NAD | NAp ] Dative antipassive + accusative {#sec:prepositions-dative-antipassive-accusative}
+### [ NAD | NAp ] Dative antipassive+accusative {#sec:prepositions-dative-antipassive-accusative}
 
 With an additional accusative argument it is widespread for dative arguments to have an alternative expression in the form of a prepositional phrase. However, it is much more difficult to characterise the difference between two such alternative expressions (cf. [@devaere2018] for an investigation for the verb *geben* and the large literature on the English dative alternation). There are only a few monosyllabic prepositions that can be used for this alternation.
 
@@ -1392,7 +1392,7 @@ c. Ich denke daran, dass ich Milch kaufen muss.
 
 - *an* : *denken*
 
-### [ NAG | NAP ] Genitive governed antipassive + accusative {#sec:prepositions-genitive-antipassive-accusative}
+### [ NAG | NAP ] Genitive governed antipassive+accusative {#sec:prepositions-genitive-antipassive-accusative}
 
 The genitive ditransitive in this group allow for an alternative formulation of the genitive argument as a prepositional phrase with *von* and subsequent dative noun phrase. Given a suitable context, such prepositional phrases can in most cases be left out.
 
@@ -1426,7 +1426,7 @@ The verb *entbinden* can be used as an intransitive verb with a meaning of 'to g
 
 ### --- [ Ø > OBJ ] --- {.unnumbered}
 
-### [ –P | DP ] Dative addition + governed preposition
+### [ –P | DP ] Dative addition+governed preposition
 
 This alternation allows for either a dative to be present or not with verbs that have no nominative argument. Consequently, a valency-simulating pronoun *es* is present.
 
@@ -1764,7 +1764,7 @@ d. Der Hund hat in sein Bein gebissen.
 e. Der Hund hat ihm ins Bein gebissen.
 :::
 
-### [ NALg | NALD ] Possessor-of-location to dative experiencer + accusative {#sec:prepositions-possessor-of-location-to-dative-experiencer-accusative}
+### [ NALg | NALD ] Possessor-of-location to dative experiencer+accusative {#sec:prepositions-possessor-of-location-to-dative-experiencer-accusative}
 
 Similar to the previous alternation, the verbs in this group also alternate the possessor of the prepositional phrase with a dative. However, differently from the previous group, these verbs also have an accusative arguments. These verbs are either causative alternants of the verbs from the previous group or verbs that allow for a resultative alternation (see [@sec:prepositions-intransitive-location-as-result]).
 

@@ -526,7 +526,7 @@ c. ^^?^ Der Vogel verfängt sich.
 
 ### [ NL | -N ] Preverb location anticausative {#sec:preverb-preposition-anticausative}
 
-Lipka [-@lipka1972: 93-94] calls this 'Subjektvertauschung', which he claims is 'quite frequent in German.' However, I do not know of any other examples of this diathesis except for the example given by Lipka, namely the diathesis between *laufen + aus* and *auslaufen*, both meaning approximately 'to empty' [@next a,b]. It might be that Lipka intended to use this term for what is commonly called 'anticausative', but then his example was ill-chosen. Hundsnurscher [-@hundsnurscher1968: 130ff.] discusses many examples that might be semantically similar, but do not show diathesis (e.g. *tröpfeln/auströpfeln*). For historical context, see Carlberg [-@carlberg1948] for more about the history of the terminology and the relation to metonymy. For the counterpart 'Objektvertauschung', see [@sec:preverb-location-antiresultative]
+Lipka [-@lipka1972: 93-94] calls this 'Subjektvertauschung', which he claims is 'quite frequent in German.' However, I do not know of any other examples of this diathesis except for the example given by Lipka, namely the diathesis between *laufen+aus* and *auslaufen*, both meaning approximately 'to empty' [@next a,b]. It might be that Lipka intended to use this term for what is commonly called 'anticausative', but then his example was ill-chosen. Hundsnurscher [-@hundsnurscher1968: 130ff.] discusses many examples that might be semantically similar, but do not show diathesis (e.g. *tröpfeln/auströpfeln*). For historical context, see Carlberg [-@carlberg1948] for more about the history of the terminology and the relation to metonymy. For the counterpart 'Objektvertauschung', see [@sec:preverb-location-antiresultative]
 
 ::: ex
 a. Das Wasser ist aus der Flasche gelaufen.
@@ -537,7 +537,7 @@ b. Die Flasche ist ausgelaufen.
 
 - ˈaus- : *laufen*
 
-### [ NP | –N ] Preverb preposition anticausative + reflexive loss
+### [ NP | –N ] Preverb preposition anticausative+reflexive loss
 
 ::: ex
 a. Ich kümmere mich nicht um die Pflanze.
@@ -681,7 +681,7 @@ c. Die Piraten erdolchen den Kapitän. \
 - ˈein- : *einbürgern, eingemeinden*
 - ˈab-  : *abgrenzen*
 
-### [ –NP | NAP ] Preverb causative + preposition
+### [ –NP | NAP ] Preverb causative+preposition
 
 Some causative alternations have a goverend preposition, like with *haften* 'to be liable for' [@next a]. The preposition becomes optional in the causative counterpart [@next b].
 
@@ -700,7 +700,7 @@ b. Die Polizisten verhaften die Eltern (für ihre Taten).
 - Die Landeklappen fahren aus dem Flügel. Der Pilot fährt die Landeklappen (aus dem Flügel) aus.
 - Der Kunde fährt in der Kutsche. Ich fahre den Kunden (in der Kutsche) aus.
 
-### [ –ND | NAD ] Preverb causative + dative
+### [ –ND | NAD ] Preverb causative+dative
 
 **Attested Verbs**
 
@@ -710,7 +710,7 @@ b. Die Polizisten verhaften die Eltern (für ihre Taten).
 
 - Seine Aussprache gleicht meinem Dialekt. Er gleicht seine Aussprache meinem Dialekt an.
 
-### [ -ND | NAP ] Preverb causative + dative antipassive
+### [ -ND | NAP ] Preverb causative+dative antipassive
 
 In the special case of the causative diathesis between *gleichen* 'to resemble' [@next a] and the prefixed form *vergleichen* 'to compare', the original dative argument turns into a governed preposition.
 
@@ -723,7 +723,7 @@ b. Er vergleicht mich mit einem Affen
 
 - verˈ- : *gleichen*
 
-### [ –NA | NDA ] Preverb dative causative + accusative {#sec:preverb-dative-causative}
+### [ –NA | NDA ] Preverb dative causative+accusative {#sec:preverb-dative-causative}
 
 Different from most causatives, the original nominative of *mieten* 'to rent' [@next a] turns into a dative with the prefixed form *vermieten* 'to lend' [@next b]. The more typical diathesis is a causative in which the original nominative turns into an accusative. However, with these verbs there is already an accusative present before the diathesis.
 
@@ -746,7 +746,7 @@ b. Er vermietet mir die Wohnung.
 
 ### --- [ Ø > SBJ > PBJ ] --- {.unnumbered}
 
-### [ –NA | NPA ] Preverb reversed fabricative + accusative {#sec:preverb-reversed-fabricative}
+### [ –NA | NPA ] Preverb reversed fabricative+accusative {#sec:preverb-reversed-fabricative}
 
 Different from most causatives, the original nominative of *freuen* 'to enjoy' [@next a] turns into a governed preposition with the prefixed form *erfreuen* 'to delight somebody' [@next b]. The more typical diathesis is a causative in which the original nominative turns into an accusative. However, with this verb there is already an accusative present before the diathesis.
 
@@ -761,7 +761,7 @@ b. Er erfreut mich mit einem Geschenk.
 
 ### --- [ ADJ > SBJ > OBJ ] --- {.unnumbered}
 
-### [ pNA | NA– ] Preverb reversed passive + accusative loss {#sec:preverb-inverted-passive-accusative-loss}
+### [ pNA | NA– ] Preverb reversed passive+accusative loss {#sec:preverb-inverted-passive-accusative-loss}
 
 The relation between *erben* 'inherit' and *enterben* 'disenherit' is peculiar, because the accusative argument *Schreibtisch* of *erben* in [@next a] cannot be expressed in any way with *enterben* [@next b].
 
@@ -796,7 +796,7 @@ c. Deine Arbeit erstaunt mich.
 
 - Ich warte auf den Test. Der Test erwartet mich.
 
-### [ PN | NA ] Preverb reversed conversive + reflexive loss
+### [ PN | NA ] Preverb reversed conversive+reflexive loss
 
 With the addition of the prefix, these verbs lose their reflexive pronoun [@next]. So, there is both a 'reversed' passive and a 'reversed' reflexive marking in these diatheses. Note that the causer of the transitive is expressed as a governed preposition [@next b].
 
@@ -881,7 +881,7 @@ b. Er verwählt sich.
 
 ### --- [ OBJ > ADJ ] --- *Präverb Dativ Antipassiv* {.unnumbered}
 
-### [ NAD | NAp ] Preverb dative antipassive + accusative {#sec:preverb-dative-antipassive}
+### [ NAD | NAp ] Preverb dative antipassive+accusative {#sec:preverb-dative-antipassive}
 
 With some verbs with dative and accusative roles, adding a preverb results in the omission of the dative. The dative can be retained as a prepositional phrase, but is typically omitted.
 
@@ -936,7 +936,7 @@ b. Ich verschenke meine Bücher (an den Kindergarten).
 
 - Ich fasse einen Entschluss. Ich befasse mich mit dem Entschluss.
 
-### [ NAA | NAp ] Preverb antipassive + accusative
+### [ NAA | NAp ] Preverb antipassive+accusative
 
 ::: ex
 - Ich lehre dich die Regeln.
@@ -949,7 +949,7 @@ b. Ich verschenke meine Bücher (an den Kindergarten).
 
 ### --- [ OBJ > OBJ > ADJ ] --- {.unnumbered}
 
-### [ NDA | NAp ] Preverb antipassive + dative-to-accusative {#sec:preverb-antipassive-dative-accusative}
+### [ NDA | NAp ] Preverb antipassive+dative-to-accusative {#sec:preverb-antipassive-dative-accusative}
 
 The antipassive typically results in a *mit* prepositional phrase.
 
@@ -1112,7 +1112,7 @@ d. Der Wind verweht die Blätter.
 
 ### --- [ PBJ > OBJ > Ø ] --- *Präverb Antiresultativ* {.unnumbered}
 
-### [ NLA | NA– ] Preverb applicative + accusative drop {#sec:preverb-location-antiresultative}
+### [ NLA | NA– ] Preverb applicative+accusative drop {#sec:preverb-location-antiresultative}
 
 This diathesis is the reversal of the "action result" diathesis (see [@sec:prepositions-action-result]). The result of a verb like *pressen* 'to squeeze' is *Saft* 'juice' [@next a]. With a preverb *auspressen* 'to squeeze' drops this accusative result and promotes the origin of the result *Zitrone* 'citron' [@next b].
 
@@ -1205,7 +1205,7 @@ b. Der Clown belustigt mich.
 
 - Die Aufgabe ist lästig. Die Aufgabe belästigt mich.
 
-### [ N–P | NAP ] Preverb accusative addition + preposition
+### [ N–P | NAP ] Preverb accusative addition+preposition
 
 The verb *büßen* 'to pay for something' needs a governed preposition, while *blicken* 'to gaze' needs a locative preposition. These prepositional phrases are optionally retained when the verbs are prefixed and obtain an additional accusative argument in the process.
 
@@ -1223,7 +1223,7 @@ b. Sie verbüßt ihre Strafe für die Tat.
 
 - Ich blicke in die Ferne. Ich erblicke ein Schiff (in der Ferne).
 
-### [ N–D | NAD ] Preverb accusative addition + dative
+### [ N–D | NAD ] Preverb accusative addition+dative
 
 ::: ex
 a. Sie vertraut mir.
@@ -1252,7 +1252,7 @@ b. Ich entgehe dem Urteil.
 - Ich komme. Ich entkomme einer Gefahr.
 - Das Kind wächst. Das Kind entwächst den Windeln.
 
-### [ N–A | NDA ] Preverb dative addition + accusative {#sec:preverb-dative-addition-accusative}
+### [ N–A | NDA ] Preverb dative addition+accusative {#sec:preverb-dative-addition-accusative}
 
 ::: ex
 a. Ich lese ein Buch.
@@ -1725,7 +1725,7 @@ c. ^^?^ Ich erbettele dir ein Stück Brot.
 - Ich spiele um den Sieg. Ich habe mir den Sieg erspielt.
 - Ich denke an den Plan. Ich denke mir den Plan aus.
 
-### [ NPD | NAD ] Preverb governed applicative + dative
+### [ NPD | NAD ] Preverb governed applicative+dative
 
 ::: ex
 a. Er droht mir mit Entlassung.
@@ -1741,7 +1741,7 @@ b. Er droht mir die Entlassung an.
 
 - Ich danke dir für deinen Einsatz. Ich verdanke dir mein Leben. 
 
-### [ NPp | NAD ] Preverb governed applicative + dative applicative {#sec:preverb-double-applicative}
+### [ NPp | NAD ] Preverb governed applicative+dative applicative {#sec:preverb-double-applicative}
 
 ::: ex
 a. Ich schweige zu dir über meinen Besuch.
@@ -1762,7 +1762,7 @@ b. Ich verschweige dir meinen Besuch.
 
 ### --- [ PBJ > OBJ > OBJ ] --- {.unnumbered}
 
-### [ NPA | NAD ] Preverb governed applicative + accusative-to-dative {#sec:preverb-applicative-accusative-to-dative}
+### [ NPA | NAD ] Preverb governed applicative+accusative-to-dative {#sec:preverb-applicative-accusative-to-dative}
 
 ::: ex
 a. Ich dränge dich zu einem Abo.
@@ -1814,7 +1814,7 @@ Some applicatives turn a prepositional phrase into a dative. For example, *stamm
 - Ich rede mit ihm. Ich rede ihm zu.
 - Ich nicke zu dem Kind. Ich nicke dem Kind zu.
 
-### [ NpA | NDA ] Preverb dative applicative + accusative
+### [ NpA | NDA ] Preverb dative applicative+accusative
 
 **Attested Verbs**
 
@@ -1885,7 +1885,7 @@ b. Das Haus erstrahlt in der Sonne.
 
 ### --- [ ADJ > OBJ > ADJ ] --- *Präverb Vollapplikativ* {.unnumbered}
 
-### [ NpA | NAp ] Preverb full applicative + *mit* antipassive {#sec:preverb-applicative-antipassive}
+### [ NpA | NAp ] Preverb full applicative+*mit* antipassive {#sec:preverb-applicative-antipassive}
 
 An applicative diathesis changes a prepositional phrase into an accusative. Such diatheses are frequently attested with preverbs (see [@sec:preverb-applicative]). When there is already an accusative present, like with *schreiben* [@next a], then the original accusative is demoted to a prepositional phrase. This combination of an applicative with an antipassive is called ~~full applicative~~. The most widespread antipassive demotion uses the preposition *mit*, like with *beschreiben* [@next b]. Less frequent are *in* antipassives (see [@sec:preverb-applicative-in-antipassive]) and *von* antipassives (see [@sec:preverb-applicative-von-antipassive]). Other prepositions are not attested for the antipassive part of a full applicative. There exist a more extensive variation in the prepositions that take part in the applicative part of the diathesis, e.g. *auf* in [@next].
 
@@ -2024,9 +2024,9 @@ See also Eisenberg [-@eisenberg2013: 245-246].
 - Ich binde einen Faden um das Paket. Ich binde das Paket mit dem Faden zu.
 - Ich wickele ein Tuch um dich. Ich umwickele dich mit einem Tuch.
 
-### [ NpA | NAp ] Preverb applicative + *in* antipassive {#sec:preverb-applicative-in-antipassive}
+### [ NpA | NAp ] Preverb applicative+*in* antipassive {#sec:preverb-applicative-in-antipassive}
 
-A second pattern of applicative + antipassive combinations uses an *in* antipassive. For example, the diathesis between *wickeln* 'to wrap' and *einwickeln* 'to wrap around' [@next] changes the original accusative *Tuch* 'cloth' into an prepositional phrase with *in*.
+A second pattern of applicative+antipassive combinations uses an *in* antipassive. For example, the diathesis between *wickeln* 'to wrap' and *einwickeln* 'to wrap around' [@next] changes the original accusative *Tuch* 'cloth' into an prepositional phrase with *in*.
 
 ::: ex
 - Ich wickle das Tuch um den Arm.
@@ -2051,9 +2051,9 @@ A second pattern of applicative + antipassive combinations uses an *in* antipass
 - Ich backe einen Kuchen mit einem Kilo Mehl. Ich verbacke ein Kilo Mehl in dem Kuchen.
 - Ich baue ein Haus mit den Steinen. Ich verbaue die Steine in dem Haus.
 
-### [ NpA | NAp ] Preverb applicative + *von* antipassive {#sec:preverb-applicative-von-antipassive}
+### [ NpA | NAp ] Preverb applicative+*von* antipassive {#sec:preverb-applicative-von-antipassive}
 
-A third less frequent applicatie + antipassive diathesis uses a *von* antipassive.
+A third less frequent applicatie+antipassive diathesis uses a *von* antipassive.
 
 ::: ex
 a. Er zwingt ihn zu einem Geständnis.
@@ -2069,7 +2069,7 @@ erˈ : *bitten, fragen, pressen, zwingen*
 - Ich bitte dich um einen Gefallen. Ich erbitte einen Gefallen von dir.
 - Ich frage dich nach dem Weg zum Bahnhof. Ich erfrage den Weg zum Bahnhof von dir.
 
-### [ NpA | NAp ] Preverb reflexive applicative + *von* antipassive
+### [ NpA | NAp ] Preverb reflexive applicative+*von* antipassive
 
 Counterexample to generalisation that non-self-inflicting reflexive pronouns are always accusative!
 
@@ -2103,7 +2103,7 @@ b. Ich verbitte mir einen Kommentar von dir.
 
 ### --- [ OBJ > OBJ > OBJ ] --- {.unnumbered}
 
-### [ NDA | NAG ] Preverb dative-to-accusative + accusative-to-genitive {#sec:preverb-dative-accusative-genitive}
+### [ NDA | NAG ] Preverb dative-to-accusative+accusative-to-genitive {#sec:preverb-dative-accusative-genitive}
 
 ::: ex
 a. Ich raube dir das Buch.

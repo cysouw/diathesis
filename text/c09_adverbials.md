@@ -160,7 +160,7 @@ There are various verbs in German that obligatorily need an adverbial, which are
 
 ### --- Verb with obligatory depictive adverbial --- {.unnumbered}
 
-### [ N ] Nominative + adverbial {#sec:adverbials-nominative}
+### [ N ] Nominative+adverbial {#sec:adverbials-nominative}
   
 Some verbs have obligatory manner adverbial arguments [@next a,b], called "Artergänzung" by Engelen [-@engelen1986: 140]. In some special situations the adverbial can be left out, but only with a subsequent strong evaluative implication. For example, with *aussehen* 'to look/appear' without an adverbial [@next c] there is a strong negative implication that somebody looks bad. In contrast, with a verb like *sitzen* 'to fit', the omission of the manner adverb implicates a positive fit [@nnext a,b]. Note that negation also can function syntactically as a manner adverbial in this context [@nnext c].
 
@@ -185,7 +185,7 @@ c. Der Mantel sitzt nicht.
 - Ich bleibe wachsam/ruhig
 - Sein Zeugnis ist schlecht ausgefallen.
 
-### [ N ] Nominative + reflexive + adverbial
+### [ N ] Nominative+reflexive+adverbial
 
 The obligatory reflexive verb *sich benehmen* 'to behave' also preferably needs an adverbial constituent to describe how to behave [@next a,b], except in imperatives [@next c] and in some light verb constructions [@next d]. Without an adverbial all uses have a conversational implicature of 'good' behavior. Note that there is a completely different meaning of *benehmen* without reflexive *sich*, meaning 'to deprive of' [@next e].
 
@@ -215,7 +215,7 @@ d. Ich führe mich wie ein Holzklotz auf.
 - Er gibt sich jovial.
 - Ich verhalte mich abwartend.
 
-### [ NP ] Nominative + governed preposition + adverbial
+### [ NP ] Nominative+governed preposition+adverbial
 
 Both the manner adverbial and the governed preposition cannot be left out with *halten* 'to think of' [@next].
 
@@ -229,7 +229,7 @@ c. ^* Ich halte von dir.
 
 - *halten*
 
-### [ NA ] Nominative + accusative + adverbial {#sec:adverbials-nominative-accusative}
+### [ NA ] Nominative+accusative+adverbial {#sec:adverbials-nominative-accusative}
 
 Both the manner adverbial and the accusative argument cannot be left out with *stimmen* 'to raise the atmosphere' [@next].
 
@@ -247,7 +247,7 @@ c. ^* Die Musik stimmt freundlich.
 
 - Er findet den Stuhl gut.
 
-### [ ND ] Nominative + dative + adverbial
+### [ ND ] Nominative+dative+adverbial
 
 The verb *bekommen* in the meaning 'to agree with someone' needs a dative and cannot be used without an adverbial [@next a,b]. The verb *fallen* can be used with either *schwer* or *leicht*, but apparently no other adverbials.
 
@@ -262,7 +262,7 @@ d. ^* Die Aufgabe fällt mir.
 
 - *bekommen, fallen*
 
-### [ D ] Dative + adverbial {#sec:adverbials-dative}
+### [ D ] Dative+adverbial {#sec:adverbials-dative}
 
 Because there is no nominative argument in this special construction with *gehen*, meaning 'to cope with life' [@next] a non-phoric *es* pronoun is necessary. Note that the same meaning of *gehen* also occurs in other impersonal constructions, see [@sec:adverbials-nominative-drop] and the dative here seems to be some kind of 'free' dative. 
 
@@ -276,7 +276,7 @@ Mir geht es gut.
 
 ### --- Alternation with obligatory depictive adverbials --- {.unnumbered}
 
-### [ N | – ] Nominative drop + depictive adverbial {#sec:adverbials-nominative-drop}
+### [ N | – ] Nominative drop+depictive adverbial {#sec:adverbials-nominative-drop}
 
 Some 'impersonal' verbs allow the presence or absence of a nominative subject [@next a,b]. Whether this is better interpreted as the loss or the addition of an agent is unclear. The impersonal verbs in the current category need an additional manner adverbial, negation or *wie* comparison clause.
 
@@ -311,7 +311,7 @@ b. Ich fahre schnell nach Hause.
 
 The situation is more interesting with resultative adverbials. There are many diatheses with resultative adverbials (as discussed throughout this chapter), but there also exist a few highly productive patterns in which the addition of a resultative adverb does not result in a diathesis. More research is needed to predict under what circumstances a diathesis occurs, and when not. In the subsequent subsections I will present some illustrative examples in which there is no diathesis.
 
-### [ N | N ] Intransitives + reflexive + resultative adverbial {#sec:adverbials-intransitive-reflexive-resultative}
+### [ N | N ] Intransitives+reflexive+resultative adverbial {#sec:adverbials-intransitive-reflexive-resultative}
 
 There is a special construction that apparently only exists for some intransitive verbs like *schlafen* 'to sleep' [@next a]. The verb is combined with a reflexive pronoun and a resultative secondary predicate. The meaning of this construction approximately amounts to 'by performing the verb, the secondary predicate is achieved' [@next b].
 
@@ -343,9 +343,9 @@ When the combination of adverbial and verb is considered to be a new lexicalised
 - Ich arbeite mich hoch.
 - Ich laufe mich glücklich.
 
-### [ NP | NP ] Governed proposition + reflexive + resultative adverbial
+### [ NP | NP ] Governed proposition+reflexive+resultative adverbial
 
-The same reflexive + adverbial alternation is attesed with some verbs that take a governed preposition, like *lachen* 'to laugh' [@next]. Note that the prepositional phrase can be retained.
+The same reflexive+adverbial alternation is attesed with some verbs that take a governed preposition, like *lachen* 'to laugh' [@next]. Note that the prepositional phrase can be retained.
 
 ::: ex
 a. Ich lache (über den Witz).
@@ -360,7 +360,7 @@ b. Ich lache mich tot (über den Witz).
 
 - Ich arbeite an einem Buch. Ich arbiete mich tot.
 
-### [ N | N ] Intransitives + resultative adverbial
+### [ N | N ] Intransitives+resultative adverbial
 
 Different from the verbs in the previous class, some intransitive verbs like *rennen* 'to run' allow for a secondary predicate without any other structural changes, resulting for example in *losrennen* 'to start running' [@next]. I consider this to be resultative secondary predicates because to the parallelism to the applicative diathese in [@sec:adverbials-applicative].
 
@@ -386,7 +386,7 @@ b. Der Junge ist losgerannt. Der losgerannte Junge.
 - Er redet/lacht los.
 - Der Eimer läuft leer.
 
-### [ NA | NA ] Transitives + resultative adverbial {#sec:adverbials-transitive-resultative}
+### [ NA | NA ] Transitives+resultative adverbial {#sec:adverbials-transitive-resultative}
 
 With transitive verbs, the addition of a resultative adverb does not lead to any role remapping. This appears to be a frequent phenomenon and the examples given are just a few illustrative cases. The diathesis-free alternation of these verbs is quite different from the effect resultative adverbs have on many intransitive verbs (see [@sec:adverbials-applicative]).
 
@@ -413,7 +413,7 @@ b. Der Händler kauft die Sklaven frei.
 
 ### --- [ SBJ > Ø ] --- *Wertungsverbativ* {.unnumbered}
 
-### [ N | – ] Reflexive intransitive drop + depictive adverbial {#sec:adverbial-reflexive-drop}
+### [ N | – ] Reflexive intransitive drop+depictive adverbial {#sec:adverbial-reflexive-drop}
 
 Many intransitives allow for a dropping of the nominative with a obligatory reflexive pronoun *sich* and an obligatory adverbial. Because of the dropped nominative there is an obligatory non-phoric *es* in such sentences [@next a]. Such constructions seem to be possible with very many intransitives, though with some verbs, like *aufstehen* 'rise' it is of debatable grammaticality [@next b]. More research is needed into the question which intransitive verbs do not allow this diathesis.
 
@@ -437,9 +437,9 @@ A very similar diathesis is attested with transitives, see [@sec:adverbial-refle
 
 ### --- [ OBJ > SBJ > Ø ] --- *Wertungsantikausativ* {.unnumbered}
 
-### [ NA | –N ] Reflexive anticausative + depictive adverbial {#sec:adverbial-reflexive-transitive-anticausative}
+### [ NA | –N ] Reflexive anticausative+depictive adverbial {#sec:adverbial-reflexive-transitive-anticausative}
 
-With many verbs an anticausative is only possible with an evaluative adverbial and a reflexive pronoun [@next]. There is a clear parallel to the diathesis for intransitives described in [@sec:adverbial-reflexive-drop]. The semantically highly similar *lassen + Infinitiv* construction [@next c] does not need the adverbial (see [@sec:infinitive-lassen-reflexive-anticausative]).
+With many verbs an anticausative is only possible with an evaluative adverbial and a reflexive pronoun [@next]. There is a clear parallel to the diathesis for intransitives described in [@sec:adverbial-reflexive-drop]. The semantically highly similar *lassen+Infinitiv* construction [@next c] does not need the adverbial (see [@sec:infinitive-lassen-reflexive-anticausative]).
 
 ::: ex
 a. Ich scheine die Wurst mit diesem Messer.
@@ -476,7 +476,7 @@ Some of these verbs can also occur with a 'free' dative, see [@sec:reflexive-fre
 - Ich habe (mir) das Konzert angehört. Das Konzert hört sich gut an.
 - Ich verdiene (mir) ein Vermögen. Ein Vermögen verdient sich leicht.
 
-### [ NA | –N ] Anticausative + depictive adverbial
+### [ NA | –N ] Anticausative+depictive adverbial
 
 The verb *riechen* 'to smell' allows for an anticausative alternation [@next a,b], but the intransitive obligatorily needs an adverbial. It is possible to leave out the adverbial, but then a strong negative entailment arises, i.e. without an adverbial the smell is bad [@next c]. Interestingly, with *schmecken* 'to taste' the absence of an adverbial leads to a positive entailment [@next d].
 
@@ -497,7 +497,7 @@ d. Das Essen schmeckt (gut).
 
 ### --- [ ADJ > SBJ > Ø ] --- {.unnumbered}
 
-### [ Np | –N ] Conciliative + depictive adverbial
+### [ Np | –N ] Conciliative+depictive adverbial
 
 Some verbs that have a typical instrument connected to the action allow for the instrument to be turned into the nominative subject, but only with the addition of an adverbial [@next].
 
@@ -524,7 +524,7 @@ Not attested.
 
 ### -- [ OBJ > Ø ] -- *Aktionsfokus* {.unnumbered}
 
-### [ NA | N– ] Action focus + depictive adverbial {#sec:adverbial-action-focus}
+### [ NA | N– ] Action focus+depictive adverbial {#sec:adverbial-action-focus}
 
 Most transitive verbs can be used without an accusative object. However, with some verbs this drop comes easier than for others. Real 'ambitransitive' verbs that occur both as transitive and as intransitive, but without needing any extra marking in the intransitive, are discussed in [@sec:case-accusative-drop]. For many transitive verbs the drop of the accusative is only possible in an strict action-oriented focus, like as a reply to a question like "what are you doing just now?" In effect, this implies that such intransitive usage always needs an adverbial specification
 
@@ -550,7 +550,7 @@ c. Morgen lese ich den ganzen Tag.
 - Er zählt die Stimmen. Er zählt leise vor sich hin.
 - Die Kinder zerstören die Sandburg. Kinder zerstören gerne.
 
-### [ NA | N– ] Endoreflexiv + depictive adverbial {#sec:adverbials-endoreflexive}
+### [ NA | N– ] Endoreflexiv+depictive adverbial {#sec:adverbials-endoreflexive}
 
 Similar to the endoreflexiv ([@sec:reflexive-accusative-drop]), but with obligatory depictive adverbial [@next].
 
@@ -564,7 +564,7 @@ c. ^* Ich fühle mich.
 
 - *fühlen*
 
-### [ NA | N– ] Accusative *es* + depictive adverbial {#sec:adverbials-accusative-es}
+### [ NA | N– ] Accusative *es*+depictive adverbial {#sec:adverbials-accusative-es}
 
 Some verbs allow for constructions with an possibly non-phoric *es* pronoun in the accusative, see [@sec:prepositions-nominative-es-preposition]. With some verbs in this construction a manner adverbial is also necessarily present [@next a,b]. Without the manner adverbial the only possible interpretation of the pronoun *es* is phoric [@next c].
 
@@ -586,7 +586,7 @@ d. Ich meine es.
 
 ### --- [ PBJ > ADJ ] --- *Adverb Delokativ* {.unnumbered}
 
-### [ NAL | NAp ] Transitive location drop + resultative adverbial {#sec:adverbs-antiresultative}
+### [ NAL | NAp ] Transitive location drop+resultative adverbial {#sec:adverbs-antiresultative}
 
 The locational prepositional phrase with verbs like *binden* 'to tie' is obligatory [@next]. In contrast, when adding a resultative adverbial to form *losbinden* 'to untie' the locational phrase is not obligatory anymore [@next c,d], cf. [@sec:preverb-transitive-antiresultative]. I currently only know of examples of this diathesis with adverbials *los*, *fest* and *weg*. However, I do not see any reason for other adverbials to be impossible.
 
@@ -610,7 +610,7 @@ d. Ich binde den Hund los.
 - Ich stecke das Geld in meiner Tasche. Ich stecke das Geld weg.
 - Die Arbeiter klopfen die Pflastersteine in den Bürgersteig. Die Arbeiter klopfen die letzten Pflastersteine fest.^[~~DWDS~~: Bild, 28.04.2005.]
 
-### [ NL | Np ] Intransitive location drop + resultative adverbial
+### [ NL | Np ] Intransitive location drop+resultative adverbial
 
 ::: ex
 a. Das Wasser läuft in die Badewanne.
@@ -621,7 +621,7 @@ b. Die Badewanne läuft voll (mit Wasser).
 
 - *voll* : *laufen*
 
-### [ NL | Np ] Intransitive location drop + reflexive + resultative adverbial
+### [ NL | Np ] Intransitive location drop+reflexive+resultative adverbial
 
 Similar to the previous group, some intransitives with obligatory location [@next a,b] can be used without this location when an adverbial is added [@next c]. However, with intransitives an additional reflexive pronoun is necessary.
 
@@ -637,7 +637,7 @@ b. Der Patient liegt sich wund (auf dem Bett).
 
 ### --- [ OBJ > ADJ ] --- {.unnumbered}
 
-### [ NA | Np ] Reflexive antipassive + resultative adverbial {#sec:adverbials-antipassive}
+### [ NA | Np ] Reflexive antipassive+resultative adverbial {#sec:adverbials-antipassive}
 
 The accusative object of *sehen* 'to see' is transformed into a prepositional phrase when adding the adverbial *satt* to form *sattessen* 'to eat full' [@next]. This antipassive diathesis is currently only attested with the adverb *satt*, but I do not see any prinicple reason for other adverbs to be impossible here. See [@sec:preverb-reflexive-antipassive] for similar examples with preverbs.
 
@@ -657,7 +657,7 @@ b. Ich sehe mich satt an dem Gemälde.
 
 ### --- [ ADJ > OBJ > Ø ] --- {.unnumbered}
 
-### [ NpA | NA– ] Applicative + accusative drop + resultative adverbial {#sec:adverbial-applicative-drop}
+### [ NpA | NA– ] Applicative+accusative drop+resultative adverbial {#sec:adverbial-applicative-drop}
 
 Adding a resultative adverbial to a transitive verb lead to an applicative diatheses. Any erstwhile prepositional phrase is turned into an accusative. With the adverbial *leer* it does not seem to be possible to retain the erstwhile accusative [@next]. In contrast, with the adverbial *voll* the retention of the accusative as a prepositional phrase is possible [@nnext].
 
@@ -679,7 +679,7 @@ b. Ich kaufe das Geschäft leer.
 
 ### --- [ Ø > OBJ ] --- {.unnumbered}
 
-### [ N– | NA ] Object addition + resultative adverbial
+### [ N– | NA ] Object addition+resultative adverbial
 
 Some intransitives, like *bellen* 'to bark' get a completely new role in the accusative with the addition of a resultative adverbial [@next]. This seems to be a special case of the more productive applicative as discusses in the next section.
 
@@ -698,7 +698,7 @@ b. Der Hund bellt die Kinder wach.
 
 ### --- [ ADJ > OBJ ] --- *Adverb Applikativ* {.unnumbered}
 
-### [ Np | NA ] Applicative + resultative adverbial {#sec:adverbials-applicative}
+### [ Np | NA ] Applicative+resultative adverbial {#sec:adverbials-applicative}
 
 This appears to be the most productive kind of diathesis with a resultative adverbial. An optional prepositional phrase of an intransitive verb like *niesen* 'to sneeze' [@next a] is reformulated as an accusative with the resultative adverbial, here *voll 'full' [@next b]. There are many different adverbials that induce this diatheses. The list presented below is in no way complete, but should just be seen as a set of random examples. With transitive verbs the addition of such resultative adverbs mostly does not lead to any role-remapping (see [@sec:adverbials-transitive-resultative]).
 
@@ -760,7 +760,7 @@ c. Ich laufe meine Schuhe bei den Marathon platt/kaputt.
 
 ### --- [ ADJ > OBJ > ADJ ] --- *Adverb Vollapplikativ* {.unnumbered}
 
-### [ NpA | NAp ] Applicative + *mit* antipassive + resultative adverbial {#sec:adverbial-full-applicative}
+### [ NpA | NAp ] Applicative+*mit* antipassive+resultative adverbial {#sec:adverbial-full-applicative}
 
 The adverbial *voll* induces a full applicative, promotion a prepositional phrase to accusative, while the erstwhile accusative can still be (optionally) retained as a *mit* prepositional phrase. The examples with *leer* in [@sec:adverbial-applicative-drop] are highly similar, but cannot retain the erstwhile accusative.
 

@@ -2,7 +2,7 @@
 
 ## Verbal categories reconsidered
 
-Browse any grammatical description of verbal categories in German and terms like *Plusquamperfekt* [@next a] or *Futur II* [@next b] will surely pass by. There is nothing wrong with those terms, but they just describe very specific combinations of verbal markers that are mostly transparantly interpretable (e.g. *Plusquamperfekt* is simply a perfekt with past-tense finite verb). In contrast, there are many basic verbal constructions that are only sparingly discussed in German grammars, if at all. The *pflegen + zu‑Infinitiv* habitual [@next c] or the *sein + Infinitiv* absentive [@next d] are probably the most well-known among those, but they are still not widely acknowledged in general grammars of German. As a case in point, the Duden grammar spends 20 pages on details of tense marking [-@duden2009: 496-516], while only a few select additional verbal constructions are discussed in just four pages [-@duden2009: 848-852] and some incidental reference scatterd throughout. This chapter can be read as an attempt at a complete survey of all those remaining German verbal categories, besides tense. 
+Browse any grammatical description of verbal categories in German and terms like *Plusquamperfekt* [@next a] or *Futur II* [@next b] will surely pass by. There is nothing wrong with those terms, but they just describe very specific combinations of verbal markers that are mostly transparantly interpretable (e.g. *Plusquamperfekt* is simply a perfekt with past-tense finite verb). In contrast, there are many basic verbal constructions that are only sparingly discussed in German grammars, if at all. The *pflegen+zu‑Infinitiv* habitual [@next c] or the *sein+Infinitiv* absentive [@next d] are probably the most well-known among those, but they are still not widely acknowledged in general grammars of German. As a case in point, the Duden grammar spends 20 pages on details of tense marking [-@duden2009: 496-516], while only a few select additional verbal constructions are discussed in just four pages [-@duden2009: 848-852] and some incidental reference scatterd throughout. This chapter can be read as an attempt at a complete survey of all those remaining German verbal categories, besides tense. 
 
 ::: ex
 - Wer hatte dir die Adresse gegeben?
@@ -13,7 +13,7 @@ Browse any grammatical description of verbal categories in German and terms like
 
 This chapter arose as a byproduct of the main goal of this book, namely listing all German diatheses. To clearly delimit what counts as a diathesis, I also collected constructions that are structurally similar to diatheses, but that did not involve any role remapping. These structures are called ~~epitheses~~ and are listed in-full in the respective X.4 sections of the following data chapters. This chapter summarises and organises the major epitheses that I have been able to find. I will also propose Latinate-German names for all of these constructions.
 
-Quickly recapitulated, an ~~epithesis~~ is a monoclausal construction in which the lexical roles are not remapped in comparison to a basic clause (= a clause with just a single finite lexical verb form). For example, a basic clause with the finite verb *erzählen* 'to tell' [@next a] might have the roles of 'teller' (*Großvater*, in the nominative), 'tellee' (*Enkelin*, in the dative) and 'story told' (*Witz*, in the accusative). A construction like *pflegen + zu‑Infinitiv* is an epithesis because when applied to *erzählen* all these roles remain encoded in exactly the same grammatical form [@next b]. Additionally, this construction is monoclausal because the finite *pflegte* is placed at the end in a subordinate situation (i.e. the clause is coherent, see [@sec:intro-coherence]).
+Quickly recapitulated, an ~~epithesis~~ is a monoclausal construction in which the lexical roles are not remapped in comparison to a basic clause (= a clause with just a single finite lexical verb form). For example, a basic clause with the finite verb *erzählen* 'to tell' [@next a] might have the roles of 'teller' (*Großvater*, in the nominative), 'tellee' (*Enkelin*, in the dative) and 'story told' (*Witz*, in the accusative). A construction like *pflegen+zu‑Infinitiv* is an epithesis because when applied to *erzählen* all these roles remain encoded in exactly the same grammatical form [@next b]. Additionally, this construction is monoclausal because the finite *pflegte* is placed at the end in a subordinate situation (i.e. the clause is coherent, see [@sec:intro-coherence]).
 
 ::: ex
 - Der Großvater erzählt seiner Enkelin einen Witz.
@@ -27,9 +27,9 @@ The constructions listed in this chapter are not haphardly collected out of some
 
 The epitheses listed in this chapter map out all grammaticalised verbal categories of the German language. However, it is crucial to realise that not every lexical verb can be combined with each of these constructions. Just as with diatheses, each epithesis has a limited domain of applicability, i.e. each epithesis has a specific set of verbs to which can be applied (cf. [@sec:intro-domain-of-application]). It is a very worthwhile future endeavour to specify these domains in more detail than I have been able to do here. Additionally, this restricted applicability means that one cannot simply take a random lexical verb and paradigmatically list all different epithetical forms for this verb, like traditional grammars like to do with tense forms. Quite to the contrary, it becomes a matter of lexicographic research to determine which epitheses are compatible with each individual verb.
 
-Epitheses mostly express a rather clear semantic content, but they are not obligatorily used to express that content. For example, the *pflegen + Infinitiv* epithesis, as mentioned above, expresses a habitual aspect. However, this construction is far from the only way to express habituality in German. Habitual aspect will typically be expressed by a simple present verb from with some specific adverbs, like *regelmäßig* 'regularly' or a concrete timeframe with *jeden*, like *jeden Morgen* 'every morning'. So, the characterisation of *pflegen + Infinitiv* as an habitual verb form is actually only part of the story. What needs to be added in future research is a more detailed description of the kind of contexts in which this construction is actually used, in contrast to  other options available to the speaker. 
+Epitheses mostly express a rather clear semantic content, but they are not obligatorily used to express that content. For example, the *pflegen+Infinitiv* epithesis, as mentioned above, expresses a habitual aspect. However, this construction is far from the only way to express habituality in German. Habitual aspect will typically be expressed by a simple present verb from with some specific adverbs, like *regelmäßig* 'regularly' or a concrete timeframe with *jeden*, like *jeden Morgen* 'every morning'. So, the characterisation of *pflegen+Infinitiv* as an habitual verb form is actually only part of the story. What needs to be added in future research is a more detailed description of the kind of contexts in which this construction is actually used, in contrast to  other options available to the speaker. 
 
-This desideratum holds for all epitheses discussed here: it is necessary to specify what determines their usage. A famous case in point here is the *werden + Infinitiv* construction, which is called *Futur* in the German grammatical tradition (see [@sec:infinitive-werden-modal]). This construction can indeed express events in the future, so the name *Futur* is not wrong. However, future event are much more commonly expressed with a simple present tense verb form. So, a more detailed characterisation of the *werden + Infinitiv* is necessary to explain when it is actually used.
+This desideratum holds for all epitheses discussed here: it is necessary to specify what determines their usage. A famous case in point here is the *werden+Infinitiv* construction, which is called *Futur* in the German grammatical tradition (see [@sec:infinitive-werden-modal]). This construction can indeed express events in the future, so the name *Futur* is not wrong. However, future event are much more commonly expressed with a simple present tense verb form. So, a more detailed characterisation of the *werden+Infinitiv* is necessary to explain when it is actually used.
 
 #### Classifying epitheses {.unnumbered}
 
@@ -43,27 +43,27 @@ Aditionally, I have added a section with epithetical construction that change th
 
 The grammatical marking of aspect is commonly defined as linguistic expressions that specify the 'internal temporal constituency of a situation' [@comrie1976: 3]. In this sense, the title of this section, ~~temporal aspect~~, might appear to be tautological. However, this designation is used here in opposition to a different set of categories specifying the spatial constituency of a situation, ~~spatial aspect~~, described in the next section. Temporal aspect in German includes a surprisingly large number of continuative expressions, besides constructions for the linguistically widespread habitual and progressive aspects.
 
-### *Prozessperfekt* (*haben + Partizip*) {#sec:summary-prozessperfekt}
+### *Prozessperfekt* (*haben+Partizip*) {#sec:summary-prozessperfekt}
 
-The ~~Prozessperfekt~~ (full discussion in [@sec:participles-haben-perfect] and subsequent sections) is proposed here as a specific name for the *haben + Partizip* construction [@next]. In the German grammatical tradition, the perfect is normally described as a verb form taking either *haben* or *sein*, depending on the lexical verb. However, there turn out to be surprisingly many verbs that allow for both, with a clear distinction in meaning (see [@sec:participles-haben-sein-perfect]). For that reason, I propose to use different names for both constructions. Note that the name *Perfekt* is developing into a misnomer, as the *haben + Partizip* appears to be taking over the function of past marking in contemporary German.
+The ~~Prozessperfekt~~ (full discussion in [@sec:participles-haben-perfect] and subsequent sections) is proposed here as a specific name for the *haben+Partizip* construction [@next]. In the German grammatical tradition, the perfect is normally described as a verb form taking either *haben* or *sein*, depending on the lexical verb. However, there turn out to be surprisingly many verbs that allow for both, with a clear distinction in meaning (see [@sec:participles-haben-sein-perfect]). For that reason, I propose to use different names for both constructions. Note that the name *Perfekt* is developing into a misnomer, as the *haben+Partizip* appears to be taking over the function of past marking in contemporary German.
 
 ::: ex
 a. Das Kind schläft.
 b. Das Kind hat geschlafen.
 :::
 
-### *Zustandsperfekt* (*sein + Partizip*) {#sec:summary-zustandsperfekt}
+### *Zustandsperfekt* (*sein+Partizip*) {#sec:summary-zustandsperfekt}
 
-The ~~Zustandsperfekt~~ (full discussion in [@sec:participles-sein-perfect] and subsequent sections) is proposed here as a name for the *sein + Partizip* epithesis [@next]. The first part of this name (*Zustand*) is explicitly intended to be reminiscent of the *Zustandspassiv* (see [@sec:summary-zustandspassiv]), because both construction are formally identical. The only difference is that they are applied to different verbs (and consquently have a different effect on the marking of the roles). The second part of the name (*Perfekt*) alludes to the traditional analysis of *sein* being an allomorph of the perfect auxiliary (alongside *haben*, see [@sec:summary-prozessperfekt]). However, because *sein* and *haben* are not in complementary distribution I propose to name them separately.
+The ~~Zustandsperfekt~~ (full discussion in [@sec:participles-sein-perfect] and subsequent sections) is proposed here as a name for the *sein+Partizip* epithesis [@next]. The first part of this name (*Zustand*) is explicitly intended to be reminiscent of the *Zustandspassiv* (see [@sec:summary-zustandspassiv]), because both construction are formally identical. The only difference is that they are applied to different verbs (and consquently have a different effect on the marking of the roles). The second part of the name (*Perfekt*) alludes to the traditional analysis of *sein* being an allomorph of the perfect auxiliary (alongside *haben*, see [@sec:summary-prozessperfekt]). However, because *sein* and *haben* are not in complementary distribution I propose to name them separately.
 
 ::: ex
 a. Das Kind schläft ein.
 b. Das Kind ist eingeschlafen.
 :::
 
-### *Habituativ* (*pflegen + zu‑Infinitiv*)
+### *Habituativ* (*pflegen+zu‑Infinitiv*)
 
-The ~~Habituativ~~ (full discussion in [@sec:zuinfinitive-pflegen]) is an aspectual category that expresses an activity that is performed regularly as a habit. Such an aspect is widespread among the world's language and in German it can be expressed by using a light verb *pflegen* with a *zu‑Infinitiv* [@next a,b]. The verb *pflegen* has a lexical meaning 'to nurse, to maintain', but in this construction this meaning has changed to a grammatical marker of aspect. This grammaticalisation has not only happened semantically, but also structurally. The *pflegen + zu‑Infinitiv* construction is clearly monoclausal, as can be seen by the final position of the finite verb when used as a subordinate clause [@next c].
+The ~~Habituativ~~ (full discussion in [@sec:zuinfinitive-pflegen]) is an aspectual category that expresses an activity that is performed regularly as a habit. Such an aspect is widespread among the world's language and in German it can be expressed by using a light verb *pflegen* with a *zu‑Infinitiv* [@next a,b]. The verb *pflegen* has a lexical meaning 'to nurse, to maintain', but in this construction this meaning has changed to a grammatical marker of aspect. This grammaticalisation has not only happened semantically, but also structurally. The *pflegen+zu‑Infinitiv* construction is clearly monoclausal, as can be seen by the final position of the finite verb when used as a subordinate clause [@next c].
 
 ::: ex
 - Sie lacht laut.
@@ -71,16 +71,16 @@ The ~~Habituativ~~ (full discussion in [@sec:zuinfinitive-pflegen]) is an aspect
 - Es ist bekannt, dass sie laut zu lachen pflegte.
 :::
 
-### *Progressiv* (*sein + am‑Infinitiv*) {#sec:summary-progressiv}
+### *Progressiv* (*sein+am‑Infinitiv*) {#sec:summary-progressiv}
 
-The ~~Progressiv~~ (full discussion in [@sec:zuminfinitive-sein-am]) consists of *sein* with the prepositional *am‑Infinitiv*. In this construction the infinitive is clearly a nominalised form of the verb, so it is regularly (though not universally) written with a capital letter in German orthography [@next b]. The *sein + am‑Infinitiv* expresses a progressive aspect, though its usage is frowned upon in a formal written register. In spoken language it appears to be pervasive, though.
+The ~~Progressiv~~ (full discussion in [@sec:zuminfinitive-sein-am]) consists of *sein* with the prepositional *am‑Infinitiv*. In this construction the infinitive is clearly a nominalised form of the verb, so it is regularly (though not universally) written with a capital letter in German orthography [@next b]. The *sein+am‑Infinitiv* expresses a progressive aspect, though its usage is frowned upon in a formal written register. In spoken language it appears to be pervasive, though.
 
 ::: ex
 a. Das Kind jammert dauernd.
 b. Das Kind ist dauernd am Jammern.
 :::
 
-### *Progressivkontinuativ* (*bleiben + am‑Infinitiv*)
+### *Progressivkontinuativ* (*bleiben+am‑Infinitiv*)
 
 The ~~Progressivkontinuativ~~ (full discussion in [@sec:zuminfinitive-bleiben-am]) is the first of various continuative constructions that use the light verb *bleiben*. Parallel to the *sein* progressive (see [@sec:summary-progressiv]), the *Progressivkontinuativ* [@next] uses *bleiben* with the *am‑Infinitiv* to express that an event is ongoing (progressive) and remains ongoing (continuative).
 
@@ -89,9 +89,9 @@ The ~~Progressivkontinuativ~~ (full discussion in [@sec:zuminfinitive-bleiben-am
 - Er bliebt am Leben.
 :::
 
-### *Zustandskontinuativ* (*bleiben + Infinitiv*)
+### *Zustandskontinuativ* (*bleiben+Infinitiv*)
 
-The ~~Zustandskontinuativ~~ (full discussion in [@sec:infinitive-bleiben]) is constructed with *bleiben* and an infinitive. It expresses that a state is continuing. This construction is frequently used with state verbs like *stehen* 'to stand', *liegen* 'to lie', *sitzen* 'to sit', etc. [@next a,b]. These combinations are so prominent that their infinitives are ususually written as single words in German orthography, i.e. *stehenbleiben, liegenbleiben, sitzenbleiben*. These constructions are often even listed as single verbs in German dictionaries. Yet, there is no grammatical reason to give these combinations a special status compared to other constructions of *bleiben + Infinitiv* that are usually separated by a space, like for example *wohnen bleiben* 'to remain living somewhere'[@next c].
+The ~~Zustandskontinuativ~~ (full discussion in [@sec:infinitive-bleiben]) is constructed with *bleiben* and an infinitive. It expresses that a state is continuing. This construction is frequently used with state verbs like *stehen* 'to stand', *liegen* 'to lie', *sitzen* 'to sit', etc. [@next a,b]. These combinations are so prominent that their infinitives are ususually written as single words in German orthography, i.e. *stehenbleiben, liegenbleiben, sitzenbleiben*. These constructions are often even listed as single verbs in German dictionaries. Yet, there is no grammatical reason to give these combinations a special status compared to other constructions of *bleiben+Infinitiv* that are usually separated by a space, like for example *wohnen bleiben* 'to remain living somewhere'[@next c].
 
 ::: ex
 a. Er liegt im Bett.
@@ -99,7 +99,7 @@ b. Er bliebt im Bett liegen.
 c. Er bleibt in München wohnen.
 :::
 
-### *Perfektkontinuativ* (*bleiben + Partizip*) {#sec:summary-perfektkontinuativ}
+### *Perfektkontinuativ* (*bleiben+Partizip*) {#sec:summary-perfektkontinuativ}
 
 The ~~Perfektkontinuativ~~ (full discussion in [@sec:participles-bleiben-intransitive]) is constructed with *bleiben* and a participle. Only participles of intransitive verbs can be used in this construction. Additionaly, applicable verbs need to have a *sein* perfect (see [@sec:summary-zustandsperfekt]) and should describe a potentially reversible event, like *verschwinden* 'to vanish' [@next]. When used with transitive verbs this construction results in an anticausative diathesis, here called the *Kontinuativantikausativ* (see [@sec:summary-kontinuativantikausativ]).
 
@@ -108,7 +108,7 @@ a. Der Schlüssel verschwindet.
 b. Der Schlüssel bleibt verschwunden.
 :::
 
-### *Permissivkontinuativ* (*lassen + Partizip*)
+### *Permissivkontinuativ* (*lassen+Partizip*)
 
 The ~~Permissivkontinuativ~~ (full discussion in [@sec:participles-lassen-durative]) uses the light verb *lassen* with a participle [@next]. The name establishes a connection to the *Permissivkausativ* (see [@sec:summary-permissivkausativ]), while highlighting the fact that semantically this construction is a continuative. It expresses the permission of the subject for a transitive action to continue.
 
@@ -117,7 +117,7 @@ The ~~Permissivkontinuativ~~ (full discussion in [@sec:participles-lassen-durati
 - Ich lasse den Fernseher eingeschaltet.
 :::
 
-### *Kausativkontinuativ* (*halten + Partizip*) {#sec:summary-kausativkontinuativ}
+### *Kausativkontinuativ* (*halten+Partizip*) {#sec:summary-kausativkontinuativ}
 
 The ~~Kausativkontinuativ~~ (full discussion in [@sec:participles-halten-durative]) uses the light verb *halten* with a participle [@next]. It expresses an explicit action by the subject to keep an perfective state ongoing. The light verb *halten* is also used in the related *Kontinuitätskausativ* (see [@sec:summary-kontinuitatskausativ]).
 
@@ -130,7 +130,7 @@ b. Ich halte die Tür geschlossen.
 
 The grammatical marking of ~~spatial aspect~~ expresses a change in the spatial constituency of an event. In German, there are few 'pure' examples of such spatial aspect, like the *Absentiv*. However, most categories described in this section actually combine spatial and temporal aspects. The light verb *gehen* and *kommen* are used here in various different, but highly similar constructions.
 
-### *Absentiv* (*sein + Infinitiv*) {#sec:summary-absentiv}
+### *Absentiv* (*sein+Infinitiv*) {#sec:summary-absentiv}
 
 The ~~Absentiv~~ (full discussion in [@sec:infinitive-sein-absentive]) uses *sein* with an infinitive to express that the subject participant is absent because s/he is pursuing the activity as described by the verb [@next]. An absentive is commonly classified as a kind of aspect. However, different from most aspectual categories it is not the temporal structure of the event that is modified, but the spatial structure.
 
@@ -139,7 +139,7 @@ a. Ich besuche meinen Freund.
 b. Ich bin meinen Freund besuchen.
 :::
 
-### *Abitiv* (*gehen/fahren + Infinitiv*) {#sec:summary-abitiv}
+### *Abitiv* (*gehen/fahren+Infinitiv*) {#sec:summary-abitiv}
 
 The ~~Abitiv~~ (from Lat. *abire* 'to depart', full discussion in [@sec:infinitive-gehen-abitive]) consistis of the light verbs *gehen* or *fahren* together with an infinitive [@next]. This construction express that the subject is leaving to pursue the activity as described by the verb. It is closely related to the *Absentiv* (see [@sec:summary-absentiv]).
 
@@ -148,7 +148,7 @@ a. Ich besuche meinen Freund.
 b. Ich gehe/fahre meinen Freund besuchen.
 :::
 
-### *Abitivfrequentativ* (*gehen/fahren + zum‑Infinitiv*) {#sec:summary-abitivfrequentativ}
+### *Abitivfrequentativ* (*gehen/fahren+zum‑Infinitiv*) {#sec:summary-abitivfrequentativ}
 
 The ~~Abitivfrequentativ~~ (full discussion in [@sec:zuminfinitive-gehen]) likewise uses *gehen* but now with a *zum‑Infinitiv* [@next]. It expresses a movement away (abitive) to pursue an activity that is frequently or habitually performed (frequentative). It can only be used with intransitive verbs. 
 
@@ -157,7 +157,7 @@ The ~~Abitivfrequentativ~~ (full discussion in [@sec:zuminfinitive-gehen]) likew
 - Sie geht zum Schwimmen.
 :::
 
-### *Aditiv* (*kommen + Infinitiv*) {#sec:summary-aditiv}
+### *Aditiv* (*kommen+Infinitiv*) {#sec:summary-aditiv}
 
 The ~~Aditiv~~ (from Lat. *adire* 'to approach', full discussion in [@sec:infinitive-kommen-aditive]) consists of the light verb *kommen* with an infinitive [@next]. It conveys that the subject is approaching to pursue an activity, i.e. the reversal of the *Abitiv* (see [@sec:summary-abitiv]).
 
@@ -166,7 +166,7 @@ a. Ich besuche meinen Freund.
 b. Ich komme meinen Freund besuchen.
 :::
 
-### *Aditivfrequentativ* (*kommen + vom‑Infinitiv*) {#sec:summary-prasentiv}
+### *Aditivfrequentativ* (*kommen+vom‑Infinitiv*) {#sec:summary-prasentiv}
 
 The ~~Aditivfrequentativ~~ (full discussion in [@sec:zuminfinitive-kommen-vom]) uses *kommen* with a *vom‑Infinitiv* [@next] to express the reversal of the *Abitivfrequentativ* (see [@sec:summary-abitivfrequentativ]). It conveys a movement approaching a point of reference (aditive) coming from an activity that is frequently or habitually performed (frequentative). It can only be used with intransitive verbs. Note that the preposition used with the *kommen-Aditivfrequentativ* is *vom*, different from the preposition *zum* that is used with the *gehen-Abitivfrequentativ*. There exists also a construction using *kommen* with *zum*, but that one has completely different semantics (see [@sec:summary-bewegungsende]).
 
@@ -175,7 +175,7 @@ The ~~Aditivfrequentativ~~ (full discussion in [@sec:zuminfinitive-kommen-vom]) 
 - Er kommt vom Einkaufen.
 :::
 
-### *Aditivprogressiv* (*kommen + (an-) + Partizip*)
+### *Aditivprogressiv* (*kommen+(an-)+Partizip*)
 
 The ~~Aditivprogressiv~~ (full discussion in [@sec:participles-kommen]) expresses both a temporal aspect (progressive) and a spatial aspect (aditive). It uses the light verb *kommen* with a participle [@next a] to convey that the subject is approaching while performing a specific kind of movement. A frequent variant uses a participle with the prefix *an-*, even when the finite verb with this prefix does not exist. For example, the verb *anrennen* does not exist, only the participle *angerannt* exist in the construction with the light verb *kommen* [@next b]. Note that there does not exists any symmetrically opposing abitive construction with *gehen*.
 
@@ -186,9 +186,9 @@ b. Die Kinder rennen. \
    Die Kinder kommen angerannt.
 :::
 
-### *Bewegungsende* (*kommen + zum‑Infinitiv*) {#sec:summary-bewegungsende}
+### *Bewegungsende* (*kommen+zum‑Infinitiv*) {#sec:summary-bewegungsende}
 
-The ~~Bewegungsende~~ (full discussion in [@sec:zuminfinitive-kommen-zum]) again uses the light verb *kommen* to express a spatial aspect, this time with a *zum‑Infinitiv* [@next]. However, in contrast the previous uses of *kommen*, this construction does not express an approaching movement. The *kommen + zum‑Infinitiv* indicates that a movement has come to an end. There does not exists any symmetrically opposing construction with *gehen*.
+The ~~Bewegungsende~~ (full discussion in [@sec:zuminfinitive-kommen-zum]) again uses the light verb *kommen* to express a spatial aspect, this time with a *zum‑Infinitiv* [@next]. However, in contrast the previous uses of *kommen*, this construction does not express an approaching movement. The *kommen+zum‑Infinitiv* indicates that a movement has come to an end. There does not exists any symmetrically opposing construction with *gehen*.
 
 ::: ex
 - Das Auto steht vor der Ampel.
@@ -201,7 +201,7 @@ The grammatical marking of ~~modality~~ expresses a personal stance of the speak
 
 ### *Modalverben* {#sec:summary-modalverben}
 
-The ~~Modalverben~~ (full discussion in [@sec:infinitive-modals]) are *dürfen*, *können*, *mögen*, *müssen*, *sollen* and *wollen*. These light verbs are combined with an infinitive [@next a]. Functionally, the light verbs *brauchen* [@next b], see [@sec:infinitive-brauchen], and *werden* [@next c], see [@sec:infinitive-werden-modal], should probably also be included in this group. Especially the status of *werden + Infinitiv* is widely discussed in the German grammatical literature. It is traditionally analysed as a marker of future tense, but future reference in German is mostly expressed without it. A modal meaning of expectation and/or presumption seems to be a more suitable analysis.
+The ~~Modalverben~~ (full discussion in [@sec:infinitive-modals]) are *dürfen*, *können*, *mögen*, *müssen*, *sollen* and *wollen*. These light verbs are combined with an infinitive [@next a]. Functionally, the light verbs *brauchen* [@next b], see [@sec:infinitive-brauchen], and *werden* [@next c], see [@sec:infinitive-werden-modal], should probably also be included in this group. Especially the status of *werden+Infinitiv* is widely discussed in the German grammatical literature. It is traditionally analysed as a marker of future tense, but future reference in German is mostly expressed without it. A modal meaning of expectation and/or presumption seems to be a more suitable analysis.
 
 ::: ex
 a. Ich baue ein Haus. \
@@ -210,7 +210,7 @@ b. Du brauchst nicht kommen.
 c. Ich werde ein Haus bauen.
 :::
 
-### *Obligativ* (*haben/brauchen + zu‑Infinitiv*)
+### *Obligativ* (*haben/brauchen+zu‑Infinitiv*)
 
 The ~~Obligativ~~ (full discussion in [@sec:zuinfinitive-haben]) consist of the light verb *haben* with a *zu‑Infinitiv* [@next a]. This construction is closely related to the English *to have to* construction, both in form and meaning. This epithesis expresses an obligation to perform an activity (i.e. similar to modal *müssen*). The German construction is clearly monoclausal, because the finite verb is positioned at the end of the clause in subordinate position [@next b].
 
@@ -228,7 +228,7 @@ A related construction uses the light verb *brauchen* 'to need' (full discussion
 - Es ist bekannt, dass du nur (zu) rufen brauchst.
 :::
 
-### *Abilitiv* (*wissen/verstehen + zu‑Infinitiv*)
+### *Abilitiv* (*wissen/verstehen+zu‑Infinitiv*)
 
 The ~~Abilitiv~~ (full discussion in [@sec:zuinfinitive-wissen]) uses the verb *wissen* with a *zu‑Infinitiv* [@next a] in a coherent monoclausal construction [@next b]. The independent lexical verb *wissen* means 'to know', but in this construction it expresses the ability to perform an action (i.e. similar to modal *können*). Instead of *wissen* it is also possible to use the verb *verstehen*. Likewise, the verb *verstehen* has a lexical meaning, namely 'to understand', but in a construction with *zu‑Infinitiv* it is grammaticalised to express ablity. There is no obvious difference between *wissen* and *verstehen* when used in this construction. A more formal variant exists with the light verb *vermögen* (full discussion in [@sec:zuinfinitive-vermogen]).
 
@@ -238,7 +238,7 @@ a. Der Lehrer begeistert die Schüler. \
 b. Es ist bekannt, dass der Lehrer die Schüler zu begeistern weiß/versteht.
 :::
 
-### *Kogitativ* (*denken + zu‑Infinitiv*) {#sec:summary-kogitativ}
+### *Kogitativ* (*denken+zu‑Infinitiv*) {#sec:summary-kogitativ}
 
 The ~~Kogitativ~~ (from Lat. *cogitare* 'to consider, to intend', full discussion in [@sec:zuinfinitiv-denken]) uses the verb *denken* with a *zu‑Infinitiv* [@next a]. In this construction the verb *denken* has lost its lexical meaning 'to think'. Instead, it expresses an intention to perform a certain action (i.e. similar to modal *wollen*). In this light-verb usage it is coherent [@next b]. In its lexical meaning 'to think' it is not coherent [@next c]. A less frequent and slightly ironical alternative to *denken* is to use the light verb *belieben* (full discussion in [@sec:zuinfinitive-belieben]).
 
@@ -250,9 +250,9 @@ The ~~Kogitativ~~ (from Lat. *cogitare* 'to consider, to intend', full discussio
   Es ist bekannt, dass er denkt, mich überraschen zu können.
 :::
 
-### *Konativ* (*suchen + zu‑Infinitiv*) {#sec:summary-konativ}
+### *Konativ* (*suchen+zu‑Infinitiv*) {#sec:summary-konativ}
 
-The ~~Konativ~~ (from Lat. *conor* 'to try', full discussion in [@sec:zuinfinitive-suchen]) is a category that expresses an attempt at an activity. In German it can be expressed with *suchen + zu‑Infinitiv* [@next a]. In this construction, the meaning of *suchen* is similar to *versuchen* 'to try' and not to the lexical meaning of *suchen* 'to search'. In the meaning of 'to try' the construction is coherent [@next b], while the semantically similar *versuchen* does not result in a coherent construction [@next c]. 
+The ~~Konativ~~ (from Lat. *conor* 'to try', full discussion in [@sec:zuinfinitive-suchen]) is a category that expresses an attempt at an activity. In German it can be expressed with *suchen+zu‑Infinitiv* [@next a]. In this construction, the meaning of *suchen* is similar to *versuchen* 'to try' and not to the lexical meaning of *suchen* 'to search'. In the meaning of 'to try' the construction is coherent [@next b], while the semantically similar *versuchen* does not result in a coherent construction [@next c]. 
 
 ::: ex
 - Er hilft ihr. \
@@ -261,7 +261,7 @@ The ~~Konativ~~ (from Lat. *conor* 'to try', full discussion in [@sec:zuinfiniti
 - Es ist bekannt, dass er versuchte, ihr zu helfen.
 :::
 
-### *Effektiv* (*bekommen/kriegen + Partizip*) {#sec:summary-effekativ}
+### *Effektiv* (*bekommen/kriegen+Partizip*) {#sec:summary-effekativ}
 
 The aspired outcome when intending something (see [@sec:summary-kogitativ]) or when trying something (see [@sec:summary-konativ]) is to achieve something. This acheivement can be expressed with the ~~Effektiv~~ (from Lat. *effectus* 'accomplishment', full discussion in [@sec:participles-bekommen-achievement]), consisting of the light verbs *bekommen* or *kriegen* with a participle [@next a]. The same construction is also used for the *Rezepientenpassiv* (see [@sec:summary-rezipientenpassiv]). It is even possible to construct ambiguous sentences that can both have an *Effekativ* and a *Rezipientenpassiv* interpretation [@next b].
 
@@ -273,7 +273,7 @@ b. Der Zahnarzt kriegt den Zahn gezogen. \
    (= Dem Zahnarzt wird der Zahn gezogen.)
 :::
 
-### *Fortunativ* (*haben + gut/leicht + Infinitiv*)
+### *Fortunativ* (*haben+gut/leicht+Infinitiv*)
 
 The ~~Fortunativ~~ (from Lat. *fortunatus* 'blessed, lucky', full discussion in [@sec:infinitive-haben-adverbial]) consists of *haben* with an infinitive verb and an obligatory adverbial. The adverbial is almost always *leicht* 'easy' [@next a] or *gut* 'well' [@next b]. This construction expresses that the subject is in a fortunate situation to perform the action described by the verb. It is only possible with intransitive verbs.
 
@@ -288,7 +288,7 @@ b. Er redet. \
 
 The grammatical marking of ~~evidentiality~~, i.e. linguistic structure by which the speaker indicates the evidence for the stated utterance, has been observed in languages all over the world. In German, grammaticalised evidentials exist in various variants. The German names for these categories distinguish between *Inferenz* for inferential evidentials and *Evidenz* for direct evidentials.
 
-### *Imperfektinferenz* (*scheinen + zu‑Infinitiv*) {#sec:summary-imperfektinferenz}
+### *Imperfektinferenz* (*scheinen+zu‑Infinitiv*) {#sec:summary-imperfektinferenz}
 
 The marking of ~~Imperfektinferenz~~ (full discussion in [@sec:zuinfinitive-scheinen]) is expressed by the verb *scheinen* with a *zu‑Infinitiv* [@next a]. This construction conveys an inferential evidential, in which the speaker expresses some confidence in the stated event based on a deduction from available information. There is also a closely related *Perfektinferenz* as discussed in the next [@sec:summary-perfektinferenz]. The main difference between the two is the perfectivity of the verb. By using the *zu‑Infinitiv* the construction is marked as imperfect. The verb *scheinen* has various further uses, among them a lexical meaning expressing 'to shine'. Crucially, in its evidential usage with a *zu‑Infinitiv* this construction is coherently monoclausal [@next b].
 
@@ -298,9 +298,9 @@ a. Der Plan scheitert. \
 b. Es ist bekannt, dass der Plan zu scheitern scheint.
 :::
 
-### *Perfektinferenz* (*scheinen/erscheinen + Partizip*) {#sec:summary-perfektinferenz}
+### *Perfektinferenz* (*scheinen/erscheinen+Partizip*) {#sec:summary-perfektinferenz}
 
-The marking of ~~Perfektinferenz~~ (full discussion in [@sec:participles-scheinen-intransitive]) consists of the verbs *scheinen* or *erscheinen* with a participle of an intransitive verb [@next a]. Typical agentive intransitive verbs like *schlafen* 'to sleep' do not allow for this construction [@next b]. Similar to the previous *Imperfektinferenz* (see [@sec:summary-imperfektinferenz]) it expresses an inferential evidential in which the speaker indicates confidence in the state-of-affairs based on a deduction from available information. By using the participle, the event is marked as perfective. When used with a transitive verb the *(er)scheinen + Partizip* construction leads to an anticausative diathesis called *Inferenzantikausativ* here (see [@sec:summary-inferenzantikausativ]).
+The marking of ~~Perfektinferenz~~ (full discussion in [@sec:participles-scheinen-intransitive]) consists of the verbs *scheinen* or *erscheinen* with a participle of an intransitive verb [@next a]. Typical agentive intransitive verbs like *schlafen* 'to sleep' do not allow for this construction [@next b]. Similar to the previous *Imperfektinferenz* (see [@sec:summary-imperfektinferenz]) it expresses an inferential evidential in which the speaker indicates confidence in the state-of-affairs based on a deduction from available information. By using the participle, the event is marked as perfective. When used with a transitive verb the *(er)scheinen+Partizip* construction leads to an anticausative diathesis called *Inferenzantikausativ* here (see [@sec:summary-inferenzantikausativ]).
 
 ::: ex
 a. Der Plan scheitert. \
@@ -308,7 +308,7 @@ a. Der Plan scheitert. \
 b. ^* Das Kind scheint geschlafen.
 :::
 
-### *Sinnesevidenz* (*aussehen/wirken + Partizip*) {#sec:summary-sinnesevidenz}
+### *Sinnesevidenz* (*aussehen/wirken+Partizip*) {#sec:summary-sinnesevidenz}
 
 ~~Sinnesevidenz~~ (full discussion in [@sec:participles-wirken-intransitive]) is marked by the verbs *aussehen* or *wirken* with a participle of an intransitive verb [@next]. Typical agentive intransitive verbs like *schlafen* 'to sleep' do not allow for this construction [@next b]. This structure expresses that the speaker has first-hand knowledge based on sensory evidence that the state-of-affairs holds. When used with a transitive verb this construction results in an anticausative diathesis called *Sinnesantikausativ* (see [@sec:summary-sinnesantikausativ]).
 
@@ -318,7 +318,7 @@ b. ^* Das Kind scheint geschlafen.
 - ^* Er wirkt geschlafen.
 :::
 
-### *Negative Wertungsevidenz* (*drohen + zu‑Infinitiv*)
+### *Negative Wertungsevidenz* (*drohen+zu‑Infinitiv*)
 
 The marking of ~~Negative Wertungsevidenz~~ (full discussion in [@sec:zuinfinitive-drohen]) consists of the verb *drohen* with a *zu‑Infinitiv* [@next a]. This construction conveys that the speaker of the utterance has direct evidence for the proposition, while implying a negative evaluation from the speaker's point of view. When used as a speech-act verb *drohen* means 'to threaten' and can also be used with a *zu‑Infinitiv*. However, only in its evidential usage will *drohen* construct coherently [@next b]. The meaning of 'to threaten' does not result in coherent constructions [@next c].
 
@@ -328,9 +328,9 @@ b. Es ist bekannt, dass das Wetter schlecht zu werden droht.
 c. Es ist bekannt, dass er droht, das Licht auszuschalten.
 :::
 
-### *Positive Wertungsevidenz* (*versprechen + zu‑Infinitiv*)
+### *Positive Wertungsevidenz* (*versprechen+zu‑Infinitiv*)
 
-The marking of ~~Positive Wertungsevidenz~~ (full discussion in [@sec:zuinfinitive-drohen]) is composed of the verb *versprechen* with a *zu‑Infinitiv* [@next a]. Similar to the previous construction with *drohen*, the verb *versprechen* with a *zu‑Infinitiv* also expresses a direct evidential, though now with a positive evaluation. When used as a speech-act verb *versprechen* means 'to promise' and is commonly used with a *zu‑Infinitiv*. However, only in its evidential usage will *versprechen + zu‑Infinitiv* construct coherently [@next b]. The meaning of 'to promise' does not result in coherent constructions [@next c].
+The marking of ~~Positive Wertungsevidenz~~ (full discussion in [@sec:zuinfinitive-drohen]) is composed of the verb *versprechen* with a *zu‑Infinitiv* [@next a]. Similar to the previous construction with *drohen*, the verb *versprechen* with a *zu‑Infinitiv* also expresses a direct evidential, though now with a positive evaluation. When used as a speech-act verb *versprechen* means 'to promise' and is commonly used with a *zu‑Infinitiv*. However, only in its evidential usage will *versprechen+zu‑Infinitiv* construct coherently [@next b]. The meaning of 'to promise' does not result in coherent constructions [@next c].
 
 ::: ex
 a. Das Wetter verspricht gut zu werden.
@@ -342,7 +342,7 @@ c. Es ist bekannt, dass er verspricht, das Licht auszuschalten.
 
 The grammatical marking of ~~participant affectedness~~ is one of the hallmarks of diathesis. However, by definition, diathesis has to include changes in the grammatical marking of the participants themselves. The alternations described in this section do not show any change in the marking of the participants, so, again by definition, they are classified as epitheses. However, functionally these constructions are close to diatheses.
 
-### *Verborgener Zustandskausativ* (*kommen + zu‑Infinitiv*) {#sec:epithesis-zustandskausativ}
+### *Verborgener Zustandskausativ* (*kommen+zu‑Infinitiv*) {#sec:epithesis-zustandskausativ}
 
 The covert causative exists in two variants. The first kind, ~~Verborgener Zustandskausativ~~ (full discussion in [@sec:zuinfinitive-kommen]), uses the light verb *kommen* with a *zu‑Infinitiv* [@next a,b]. This construction conveys that there is some unexpressed force or agent that has caused a state to be reached. It can only used with intransitive state verbs like *stehen* and is obligatorily coherent [@next c]
 
@@ -352,7 +352,7 @@ b. Sie kam neben mir zu stehen.
 c. Es ist bekannt, dass sie neben mir zu stehen kam.
 :::
 
-### *Verborgener Rezipientenkausativ* (*bekommen/kriegen + zu‑Infinitiv*)
+### *Verborgener Rezipientenkausativ* (*bekommen/kriegen+zu‑Infinitiv*)
 
 The ~~Verborgener Rezipientenkausativ~~ (full discussion in [@sec:zuinfinitive-bekommen]) uses the light verbs *bekommen* or *kriegen* with a *zu‑Infinitiv* [@next a,b]. Like with *kommen* (see [@sec:epithesis-zustandskausativ]), there is an unnamed force or agent that causes the situation to come about. The light verb *bekommen/kriegen* is typically combined with a transitive verb of sensation, like *sehen* 'to see', or consumption, like *essen* 'to eat'. By using this covert causative construction, the nominative subject is semantically depicted as an experiencer of the verb. The centrality of the experiencer role is reminiscent of the *Rezipientenpassiv* (see [@sec:summary-rezipientenpassiv])
 

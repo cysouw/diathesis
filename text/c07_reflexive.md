@@ -138,17 +138,17 @@ b. Er bezieht die Verdächtigung auf sein ungewöhnliches Benehmen.
 
 Among the verbs with obligatory *sich*, the following valency patterns are commonly attested:
 
-- Nominative + accusative *sich*
-- Nominative + accusative *sich* + governed preposition
-- Nominative + accusative *sich* + genitive
-- Nominative + dative *sich* + accusative
+- Nominative+accusative *sich*
+- Nominative+accusative *sich*+governed preposition
+- Nominative+accusative *sich*+genitive
+- Nominative+dative *sich*+accusative
 
 In contrast, verbs with the following valency patterns are unattested, or only attested rarely in special collocations:
 
-- Nominative + dative *sich*
-- Nominative + dative *sich* + governed preposition
-- Nominative + dative *sich* + genitive
-- Nominative + accusative *sich* + dative
+- Nominative+dative *sich*
+- Nominative+dative *sich*+governed preposition
+- Nominative+dative *sich*+genitive
+- Nominative+accusative *sich*+dative
 
 Comparing these two groups, the generalisation can be formulated that dative *sich* is only possible when there is an accusative argument present and the accusative *sich* is not possible with a dative argument present.
 
@@ -177,7 +177,7 @@ Vier Wanderer haben sich im Gebirge verirrt.
 - Die Segel bauchen sich im Winde.
 - Die neugeborenen Katzen behaaren sich allmählich.
 
-### [ NP ] Obligatory accusative reflexive + governed preposition
+### [ NP ] Obligatory accusative reflexive+governed preposition
 
 A widespread phenomenon are verbs with an obligatory accusative *sich* with a governed preposition (see [@sec:prepositions-delimiting-governed-prepositional-phrases]), like *entschließen* 'to decide' [@next a,b].
 
@@ -243,7 +243,7 @@ b. Ich habe mich mit ihm abgegeben.
 
 The verb *sich schicken* 'to acquiesce' is an old-fashioned meaning of *schicken* 'to send'. Another usage of the same verb stem typically occurs with *es* and negative polarity, meaning 'to be not suitable*: *es schickt sich nicht*.
 
-### [ Np ] Obligatory accusative reflexive + *mit* preposition (*Reciproka tantum*) {#sec:reflexive-real-reciprocals}
+### [ Np ] Obligatory accusative reflexive+*mit* preposition (*Reciproka tantum*) {#sec:reflexive-real-reciprocals}
 
 A special group of verbs in this class are verbs with an reciprocal *mit* preposition, like *einigen* 'to reach an agreement' [@next a]. On first notice, the *mit* phrase might look like a comitative argument [@nnext a]. Just like comitative phrases, reciprocal *mit* phrases are not governed prepositions, compare [@next b,c] and [@nnext b,c], see also [@sec:prepositions-comitative-intrumental]. However, different from comitative phrases, reciprocal *mit* phrases do not allow for the addition of *zusammen* [@next c], nor can *with* be replaced by *ohne* [@next d]. The addition of *zusammen* and the replacement with *ohne* is possible with comitative *mit* [@nnext c,d]. 
 
@@ -290,7 +290,7 @@ b. Ich treffe mich mit dir.
 
 The verb *streiten* 'to argue' seems to have a free reflexive, i.e. it can be used both with and without reflexive (see [#sec:reflexive-free-preposition]).
 
-### [ NL ] Obligatory accusative reflexive + local preposition {#sec:reflexive-obligatory-local}
+### [ NL ] Obligatory accusative reflexive+local preposition {#sec:reflexive-obligatory-local}
 
 A few verbs with obligatory *sich* additionally need an obligatory (adverbial) local prepositional phrase.
 
@@ -323,7 +323,7 @@ c. Der Unfall ereignete sich vor Sonnenuntergang.
 
 The verb *aufhalten* 'to stay' is possibly related in meaning to the verb *aufhalten* 'to stop something' discussed in [@sec:reflexive-preposition-passive]. 
 
-### [ ND ] Obligatory accusative reflexive + dative {#sec:reflexive-obligatory-accusative-sich-dative}
+### [ ND ] Obligatory accusative reflexive+dative {#sec:reflexive-obligatory-accusative-sich-dative}
 
 This pattern with an obligatory accusative reflexive with a dative is exceedingly rare. There are a few more verbs in which the dative is optional (see [@sec:reflexive-accusative-sich-dative-addition]). Semantically, these verbs are closely related to the verbs showing a dative passive diathesis (see [@sec:reflexive-sich-dative-passive]).
 
@@ -338,7 +338,7 @@ This pattern with an obligatory accusative reflexive with a dative is exceedingl
 - Ich widersetze mich dem Befehl.
 - In Scharen gesellt sie sich häufig dem Hausgeflügel zu. (DWDS)
 
-### [ NG ] Obligatory accusative reflexive + genitive
+### [ NG ] Obligatory accusative reflexive+genitive
 
 Accusative *sich* combined with an obligatory genitive argument is clearly attested, although all these uses are rather old-fashioned.
 
@@ -369,7 +369,7 @@ It is exceedingly rare to have a dative *sich* without other arguments. A possib
 
 - Ich gebe mir Mühe.
 
-### [ NP ] Obligatory dative reflexive + governed preposition
+### [ NP ] Obligatory dative reflexive+governed preposition
 
 **Attested Verbs**
 
@@ -379,7 +379,7 @@ It is exceedingly rare to have a dative *sich* without other arguments. A possib
 
 - Mit dieser Aufgabe tue ich mir schwer.
 
-### [ NA ] Obligatory dative reflexive + accusative {#sec:reflexive-obligatory-dative-accusative}
+### [ NA ] Obligatory dative reflexive+accusative {#sec:reflexive-obligatory-dative-accusative}
 
 A dative *sich* with an obligatory accusative is clearly attested, though not very frequent. Note that the meaning of these verbs all include some kind of (cognitive) appropriation, like with *vorstellen* 'image' [@next a]. The prefix *er-* occurs recurrently with the meaning "to appropriate something successfully", like with *erspielen* 'to win' [@next b].
 
@@ -435,7 +435,7 @@ b. Ich habe mich mit der Arbeit abgequält. ('plagen')
 
 Verbs with obligatory *sich* can be seen as just regular lexicalised verbs, which in turn are applicable to any of the alternations discussed in the previous two chapters. Curiously, such alternations seem to be rather rare. The attested cases will be discussed in this section. Arguably, these diatheses belong together with the diatheses from the previous two chapters
 
-### [ NP | –P ] Obligatory accusative reflexive + nominative drop
+### [ NP | –P ] Obligatory accusative reflexive+nominative drop
 
 The collocation *sich drehen um* 'to concern' can be used both with a regular nominative subject [@next a] and without [@next b]. This usage of this verb is clearly metaphorically derived from the local meaning 'to revolve around' [@next c], but in that usage the dropping of the nominative is not possible. This diathesis is the same as the drop described in [@sec:prepositions-nominative-drop].
 
@@ -450,7 +450,7 @@ d. ^* Bei dem Mond dreht es sich um die Erde.
 
 - *um* : *drehen*
 
-### [ ND | N– ] Obligatory accusative reflexive + dative drop {#sec:reflexive-accusative-sich-dative-addition}
+### [ ND | N– ] Obligatory accusative reflexive+dative drop {#sec:reflexive-accusative-sich-dative-addition}
 
 A small group of obligatorily intransitive *sich* verbs allow for a dative to be dropped [@next]. This diathesis is the same as the drop described in [sec:case-dative-drop] but with an additional reflexive pronoun in both alternants. The verbs in this class establish some further examples of the unusual situation of an accusative *sich* with a dative argument (see [@sec:reflexive-obligatory-accusative-sich-dative]).
 
@@ -475,7 +475,7 @@ This *ergeben* 'capitulate' is different from the prepositional passive *ergeben
 
 - Ich ergebe ihn der süssen Gnade unsers Herrn Jesu Christi.^[~~DWDS~~: Scriver, Christian: Das Verlohrne und wiedergefundene Schäfflein. Magdeburg, 1672.]
 
-### [ ND | NP ] Obligatory accusative reflexive + dative antipassive
+### [ ND | NP ] Obligatory accusative reflexive+dative antipassive
 
 In some of the (uncommon) verbs with an accusative *sich* and dative argument [@next a], the dative can be replaced by a (governed) prepositional phrase [@next b,c]. This diathesis is the same as described in [@sec:prepositions-dative-antipassive] for verbs without reflexive marking.
 
@@ -496,7 +496,7 @@ c. Die machistische Gesellschaft hat sich nicht geändert und die meisten Frauen
 - Er hatte sich (bei/an) ihm angebiedert.
 - Die Schülerin hat sich der Lehrerin eingeschmeichelt. Sie hatte sich bei der Lehrerin eingeschmeichelt.
 
-### [ NG | NP ] Obligatory accusative reflexive + genitive antipassive
+### [ NG | NP ] Obligatory accusative reflexive+genitive antipassive
 
 Some obligatorily *sich* verbs with a genitive argument allow for the genitive argument to be replaced by a (governed) prepositional phrase [@next a,b], just like the antipassives in [@sec:prepositions-genitive-antipassive-accusative]. Many of these constructions with a genitive are old-fashioned or even completely out of use [@next c,d]. Note that these prepositional phrases seem to be governed prepositions [@next a]
 
@@ -598,7 +598,7 @@ The verb *irren* without reflexive pronoun also seems to be old-fashioned [@next
 Es irrt der Mensch so lang er strebt.^[~~DWDS~~: Goethe, Faust: Prolog 317.]
 :::
 
-### [ NP | NP ] Free accusative reflexive + governed preposition {#sec:reflexive-free-preposition}
+### [ NP | NP ] Free accusative reflexive+governed preposition {#sec:reflexive-free-preposition}
 
 Although there is definitively a different 'feel' between [@next a,b], the difference is difficult to pin down. The sentence without *sich* seems to be more static, describing a fixed situation [@next a], while the variant with *sich* is more dynamic. However, whether this is an accurate description of the (fine) difference between these alternants with all verbs needs a more in-depth investigation.
 
@@ -643,7 +643,7 @@ c. Er sorgt dafür, dass es seiner Mutter gut geht.
 d. Er sorgt sich darum, dass es seiner Mutter gut geht.
 :::
 
-### [ NL | NL ] Free accusative reflexive + location
+### [ NL | NL ] Free accusative reflexive+location
 
 The verb *schleichen* 'to sneak' changes the perfect auxiliary from *sein* to *haben* with the additional reflexive.
 
@@ -656,7 +656,7 @@ b. Ich habe mich nach Hause geschlichen.
 
 - *schleichen*
 
-### [ NA | NA ] Free dative reflexive + accusative {#sec:reflexive-free-dative-sich-accusative}
+### [ NA | NA ] Free dative reflexive+accusative {#sec:reflexive-free-dative-sich-accusative}
 
 So-called 'free' datives [@next a,b] are widespread in German (see Section X). Such a dative can mostly also be used reflexively [@next c]. Comparing [@next a] with [@next c] seems to suggest a free dative *sich*. However, this is just a combination of a free dative and the regular self-inflicting reflexive usage.
 
@@ -806,7 +806,7 @@ c. Er spricht von sich.
 
 - *kämpfen, sprechen, etc.*
 
-### [ NAD | NAd ] Self-inflicting dative reflexive + accusative
+### [ NAD | NAd ] Self-inflicting dative reflexive+accusative
 
 For ditransitive verbs that allow for a nominative, accusative and dative argument it is extremely common to allow for a self-inflicting reflexive pronoun in the dative [@next a,b]. Only an illustrative selection of verbs are listed in this section.
 
@@ -858,7 +858,7 @@ f. Er wäscht sich den Rücken.
 - Ich drücke mir den Hörer ans Ohr.
 - Ich putze mir die Schuhe.
 
-### [ NAD | NaD ] Self-inflicting accusative reflexive + dative
+### [ NAD | NaD ] Self-inflicting accusative reflexive+dative
 
 In contrast to the previous reflexive construction, it is uncommon for ditransitive verbs to allow for a reflexive accusative [@next a,b]. The verbs listed here are surely not all that allow for this construction, but it is a rather restricted phenomenon and there do not seem to be very many more verbs of this kind.
 
@@ -911,7 +911,7 @@ b. Ich stelle mich dem Konsul vor.
 c. Ich stelle mir den Konsul vor.
 :::
 
-### [ NAG | NaG ] Self-inflicting accusative reflexive + genitive
+### [ NAG | NaG ] Self-inflicting accusative reflexive+genitive
 
 Because Genitive arguments are rare overall, there are also only very few examples of reflexive alternations like [@next a,b].
 
@@ -924,12 +924,12 @@ b. Ich bezichtigte mich erfundener phantastischer Staatsverbrechen.
 
 - *bezichtigen*
 
-### [ NAP | NAp ] Self-inflicting preposition reflexive + accusative
+### [ NAP | NAp ] Self-inflicting preposition reflexive+accusative
 
 - Ich behaupte immer nur gutes über dich. Er behauptet immer nur gutes über sich.
 - Er hat einen Topf neben ihm hingestellt. Er hat einen Topf neben sich hingestellt.
 
-### [ NLD | NLd ] Self-inflicting dative reflexive + location {#sec:reflexive-self-dative-location}
+### [ NLD | NLd ] Self-inflicting dative reflexive+location {#sec:reflexive-self-dative-location}
 
 Dative experiencers stemming from possessor raising (see [@sec:prepositions-possessor-of-location-to-dative-experiencer]) can also be self-inflicting [@next a,b], leading to possible dative reflexive pronouns [@next c].
 
@@ -943,7 +943,7 @@ c. Er klopft sich auf die Schulter.
 
 - *klopfen, etc.*
 
-### [ NALD | NALd ] Self-inflicting dative reflexive + accusative + location
+### [ NALD | NALd ] Self-inflicting dative reflexive+accusative+location
 
 These are intransitive verbs [@next a] that allow for a resultative construction [@next b], see [@sec:prepositions-intransitive-location-as-result] and possessor raising to a dative [@next c], see [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative], leading possibly to a dative reflexive *sich* pronoun [@next d]. This construction appears to be regularly taking an *aus* prepositional phrase.
 
@@ -1017,23 +1017,23 @@ c. Wir vertrauen uns (gegenseitig).
 
 - *ähneln, antworten, begegnen, danken, entgegen kommen, entgehen, entsprechen, folgen, gefallen, gegenüber treten, gleichen, gratulieren, helfen, imponieren, missfallen, nacheifern, schaden, vertrauen, zuhören*
 
-### [ NAG | NaG ] Accusative reciprocal + genitive
+### [ NAG | NaG ] Accusative reciprocal+genitive
 
 - Karl und Anna klagen sich gegenseitig des Diebstahls an.
 
-### [ NAP | NaP ] Accusative reciprocal + preposition
+### [ NAP | NaP ] Accusative reciprocal+preposition
 
 - Karl bereitet Anna auf den Auftritt vor. Karl und Anna bereiten sich gegenseitig auf den Auftritt vor.
 - Ich hindere dich am Waschen. Wir hindern uns gegenseitig am Waschen.
 
-### [ NAD | NAd ] Dative reciprocal + accusative
+### [ NAD | NAd ] Dative reciprocal+accusative
 
 *gegenseitig* necessary for disambiguation
 
 - Karl schenkt dem Jungen einen Kuchen. Karl und der Junge schenken sich (gegenseitig) einen Kuchen
 - Karl backt dem Jungen einen Kuchen. Karl und der Junge backen sich (gegenseitig) einen Kuchen
 
-### [ NDP | NdP ] Dative reciprocal + preposition
+### [ NDP | NdP ] Dative reciprocal+preposition
 
 - Karl und Anna gratulieren sich gegenseitig zum Geburtstag
 
@@ -1172,7 +1172,7 @@ a. Der Pullover wärmt mich. Ich wärme mich (mit dem Pullover).
 b. Ich wärme deine Finger. Ich wärme dir die Finger. Ich wärme mir die Finger.
 :::
 
-### [ NAD | –ND ] Reflexive anticausative + dative
+### [ NAD | –ND ] Reflexive anticausative+dative
 
 Some ditransitives allow for an anticausative marked with a reflexive pronoun [@next].
 
@@ -1204,7 +1204,7 @@ b. ^^?^ Der Schrank schließt sich dir.
 - Das Register erschließt ihm den Inhalt. Der Inhalt hat sich ihm erschlossen.
 - Ich biete dir eine Lösung an. Eine Lösung bietet sich dir an.
 
-### [ NAP | –NP ] Reflexive anticausative + governed preposition {#sec:reflexive-anticausative-governed-preposition}
+### [ NAP | –NP ] Reflexive anticausative+governed preposition {#sec:reflexive-anticausative-governed-preposition}
 
 Less widespread, some verbs with an accusative and a preposition allow for an anticausative marked with a reflexive pronoun [@next]. With the preposition *an* and *auf* the preposition is a governed preposition [@next c]. 
 
@@ -1224,7 +1224,7 @@ c. Der Mann erinnert sich daran, dass er einen Termin beim Arzt hat.
 - Ich habe die Kinder an Ordnung gewöhnt. Die Kinder haben sich an Ordnung gewöhnt.
 - Der Zeuge lenkt den Verdacht auf den Ehemann. Der Verdacht lenkte sich auf den Ehemann.
 
-### [ NAp | –Np] Reflexive anticausative + non-governed preposition
+### [ NAp | –Np] Reflexive anticausative+non-governed preposition
 
 With the preposition *mit* or *von* the prepositional phrase is not governed [@next]. There is a close affinity with *-einander* reciprocals [@next c], see Section: *sich einander* preposition reciprocal)
 
@@ -1249,7 +1249,7 @@ c. Die Lampe und das Stromnetz verbinden sich nicht miteinander.
 - Die Liebe verbindet Karl mit Anna. Karl verbindet sich mit Anna.
 - Seine Haarfarbe unterscheidet ihn von seinem Bruder. Er unterscheidet sich von seinem Bruder (durch seine Haarfarbe).
 
-### [ NAL | –NL ] Reflexive anticausative + location
+### [ NAL | –NL ] Reflexive anticausative+location
 
 Some verbs with a resultative alternation [@next a,b], see [@sec:prepositions-transitive-location-as-result], allow for a reflexive anticausative [@next c].
 
@@ -1452,7 +1452,7 @@ It appears to be that *sich verschlafen* is getting old-fashioned.
 Ach, Johanna, ich glaube, ich habe mich verschlafen.^[~~DWDS~~: Fontane, Theodor: Effi Briest. Berlin, 1896.]
 :::
 
-### [ NAL | N–L ] Reflexive accusative drop + locative
+### [ NAL | N–L ] Reflexive accusative drop+locative
 
 Similar to the previous endoreflexive alternations, the alternation in [@next a,b] looks very much like self-inflicted reflexive reference, even though the conjunction seems to be perfectly possible [@next c]. It needs more investigation whether this alternation is really to be considered as a diathesis.
 
@@ -1476,7 +1476,7 @@ b. Ich konzentriere mich auf das Spiel.
 c. Ich konzentriere mich darauf, das Spiel zu gewinnen.
 :::
 
-### [ NAD | N–D ] Reflexive accusative drop + dative
+### [ NAD | N–D ] Reflexive accusative drop+dative
 
 ::: ex
 a. Ich verweigere ihm die Einreise.

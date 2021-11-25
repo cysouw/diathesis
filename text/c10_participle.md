@@ -1,15 +1,15 @@
-# Light-verb alternations with participles {#sec:participle}
+# Light-verb alternations with *Partizip* {#sec:participle}
 
 ## Introduction
 
-The term ~~participle~~ is used here as the name for a verb form known in German grammar as *Partizip II*, for example *geschrieben* 'written' in [@next]. There is another *Partizip*, known in German grammar as *Partizip I*, but this word form plays no role in the expression of diatheses. Constructions consisting of a participle combined with an auxiliary-like 'light' verb (i.e. a verb with limited lexical meaning) are manifold in German. They include constructions without diathesis, like the German *haben + Partizip* ~~Perfekt~~ [@next a], and constructions with diathesis, like the *werden + Partizip* ~~Vorgangspassiv~~ [@next b]. 
+The term ~~participle~~ is used here as the name for a verb form known in German grammar as *Partizip II*, for example *geschrieben* 'written' in [@next]. There is another *Partizip*, known in German grammar as *Partizip I*, but this word form plays no role in the expression of diatheses. Constructions consisting of a participle combined with an auxiliary-like 'light' verb (i.e. a verb with limited lexical meaning) are manifold in German. They include constructions without diathesis, like the German *haben+Partizip* ~~Perfekt~~ [@next a], and constructions with diathesis, like the *werden+Partizip* ~~Vorgangspassiv~~ [@next b]. 
 
 ::: ex
 a. Ich habe einen Brief geschrieben.
 b. Der Brief wurde geschrieben.
 :::
 
-Diatheses consisting of light verbs with participles are widely acknowledged as crucial constructions of German grammar. For example, the *werden + Partizip* passive is often seen as the quintessential example of a diathesis. Other similar constructions are also extensively discussed, like *sein + Partizip* [@next a], known as ~~Zustandspassiv~~ (see [@sec:participles-sein-zustandspassiv]), and *bekommen + Partizip* [@next b], known as ~~Rezipientenpassiv~~ (see [@sec:participles-bekommen-passive]). Many others, though, are only sporadically discussed, like *gehören + Partizip* [@next c], here called ~~Normpassiv~~ (see [@sec:participles-gehoren-anticausative]).
+Diatheses consisting of light verbs with participles are widely acknowledged as crucial constructions of German grammar. For example, the *werden+Partizip* passive is often seen as the quintessential example of a diathesis. Other similar constructions are also extensively discussed, like *sein+Partizip* [@next a], known as ~~Zustandspassiv~~ (see [@sec:participles-sein-zustandspassiv]), and *bekommen+Partizip* [@next b], known as ~~Rezipientenpassiv~~ (see [@sec:participles-bekommen-passive]). Many others, though, are only sporadically discussed, like *gehören+Partizip* [@next c], here called ~~Normpassiv~~ (see [@sec:participles-gehoren-anticausative]).
 
 ::: ex
 a. Der Brief ist schon fertig geschrieben.
@@ -190,7 +190,7 @@ b. Er kauft die Schuhe nicht geputzt.
 c. Er kauft die Schuhe (nur) ungeputzt.
 :::
 
-In contrast, negation in a monoclausal light verb construction with a participle has a wide scope reading over the whole sentence. For example, in [@next a] the verb *bekommen* has two different readings. Either, as in [@next b], the verb *bekommen* is a full lexical verb with the meaning 'to get as a gift' and a narrow scope negation over the participle *nicht geputzt* (which is almost equivalent to *ungeputzt* 'uncleaned'), resulting in a meaning of 'he gets a gift of uncleaned shoes'. In this interpretation, the participle is a secondary predicate. Alternatively [@next c], *bekommen* can be interpreted as a light verb with a meaning 'to get something done for you' with a full verb as participle *geputzt* 'cleaned'. Together with the wide scope negation the meaning of the sentence then becomes 'he doesn't manage to get his shoes cleaned'. In this interpretation, the participle is part of a light verb construction *bekommen + Participle*, see [@sec:participles-bekommen-passive].
+In contrast, negation in a monoclausal light verb construction with a participle has a wide scope reading over the whole sentence. For example, in [@next a] the verb *bekommen* has two different readings. Either, as in [@next b], the verb *bekommen* is a full lexical verb with the meaning 'to get as a gift' and a narrow scope negation over the participle *nicht geputzt* (which is almost equivalent to *ungeputzt* 'uncleaned'), resulting in a meaning of 'he gets a gift of uncleaned shoes'. In this interpretation, the participle is a secondary predicate. Alternatively [@next c], *bekommen* can be interpreted as a light verb with a meaning 'to get something done for you' with a full verb as participle *geputzt* 'cleaned'. Together with the wide scope negation the meaning of the sentence then becomes 'he doesn't manage to get his shoes cleaned'. In this interpretation, the participle is part of a light verb construction *bekommen+Participle*, see [@sec:participles-bekommen-passive].
 
 ::: ex
 a. Er bekommt die Schuhe nicht geputzt.
@@ -265,12 +265,12 @@ The tense-oriented participle constructions are listed in [@next]. All others ar
 ::: ex
 Major ~~tense-oriented~~ participle constructions:
 
-- *werden + Partizip* Passive (see [@sec:participles-werden-passive])
-- *gehören + Partizip* Passive (see [@sec:participles-gehoren-anticausative])
-- *bekommen + Partizip* Dative Passive (see [@sec:participles-bekommen-passive])
-- *kommen + Partizip* Movement (see [@sec:participles-kommen])
-- *haben + Partizip* Perfect (see [@sec:participles-haben-perfect])
-- *sein + Partizip* Perfect (see [@sec:participles-sein-perfect])
+- *werden+Partizip* Passive (see [@sec:participles-werden-passive])
+- *gehören+Partizip* Passive (see [@sec:participles-gehoren-anticausative])
+- *bekommen+Partizip* Dative Passive (see [@sec:participles-bekommen-passive])
+- *kommen+Partizip* Movement (see [@sec:participles-kommen])
+- *haben+Partizip* Perfect (see [@sec:participles-haben-perfect])
+- *sein+Partizip* Perfect (see [@sec:participles-sein-perfect])
 :::
 
 Normally (except for the *haben/sein* Perfekt), when the light verb is in the *Präsens*, then the construction has present/future time reference [@next a]. Alternatively, when the light verb is marked as *Präteritum*, then the construction has past time reference and implies completion [@next b]. The time reference of perfect-oriented constructions works slightly different. When the light verb is in the *Präsens* then the resulting state is still in effect at the time of utterance [@nnext a]. In contrast, with the light verb in the *Präteritum* the resulting state has come to an end [@nnext b].
@@ -289,7 +289,7 @@ Normally (except for the *haben/sein* Perfekt), when the light verb is in the *P
   (↦ Die Tür ist nicht mehr offen.)
 :::
 
-The temporal interpretation of the *haben/sein + Partizip* Perfect is the exception to the basic regularities as stated above. There is a lot of fluidity in the temporal interpretation of the Perfect, with much dialectal variation, ongoing change, and idiosyncratic diversity [cf. @fischer2020]. Most importantly though, while the constructions are traditionally called *Perfekt* in the German grammatical tradition, they are always tense-oriented [@next a,b]. Individual verbs like *fliehen* 'to flee' also allow for a perfect orientation [@next d], but this option appears to be completely dependent on the specific lexical semantics of the verb.
+The temporal interpretation of the *haben/sein+Partizip* Perfect is the exception to the basic regularities as stated above. There is a lot of fluidity in the temporal interpretation of the Perfect, with much dialectal variation, ongoing change, and idiosyncratic diversity [cf. @fischer2020]. Most importantly though, while the constructions are traditionally called *Perfekt* in the German grammatical tradition, they are always tense-oriented [@next a,b]. Individual verbs like *fliehen* 'to flee' also allow for a perfect orientation [@next d], but this option appears to be completely dependent on the specific lexical semantics of the verb.
 
 ::: ex
 - Ich habe gestern (*morgen) geblutet. \
@@ -339,16 +339,16 @@ However, there is much more variation in the distribution of light-verb construc
 
 | verb           | *sein* | *haben* | *werden* |
 |:-------------- |:------:|:-------:|:--------:|
-| *einschlafen*  |   +    |    –    |     –    |
-| *fallen*       |   +    |    –    |     +    |
-| *rosten*       |   +    |    +    |     –    |
-| *klettern*     |   +    |    +    |     +    |
-| *bluten*       |   –    |    +    |     –    |
-| *schlafen*     |   –    |    +    |     +    |
+| *einschlafen*  |  +   |    –    |     –    |
+| *fallen*       |  +   |    –    |    +   |
+| *rosten*       |  +   |   +   |     –    |
+| *klettern*     |  +   |   +   |    +   |
+| *bluten*       |   –    |   +   |     –    |
+| *schlafen*     |   –    |   +   |    +   |
 
 Table: Possible combinations of light-verbs with participles {#tbl:light-verb-constructions}
 
-Looking even further, there are many more light-verb constructions besides *sein*, *haben* and *werden* that can be included. For example, *bleiben + Partizip* (see [@sec:participles-bleiben-intransitive]) only seems possible with *einschlafen*, while *scheinen + Partizip* (see [@sec:participles-scheinen-intransitive]) seems possible with *einschlafen* and *fallen*, and *kommen + an- + Partizip* (see [@sec:participles-kommen]) only applies to *fallen* and *klettern*. Also of interest in this context is the possibility of various impersonal diatheses (see e.g. [@sec:adverbial-reflexive-drop] and [@sec:infinitive-lassen-reflexive-intransitive]). This chapter will not attempts to answer the question how many different such verb classes are attested, but only takes the first step of presenting a list of possible light-verb constructions to be investigated in-depth in future research.
+Looking even further, there are many more light-verb constructions besides *sein*, *haben* and *werden* that can be included. For example, *bleiben+Partizip* (see [@sec:participles-bleiben-intransitive]) only seems possible with *einschlafen*, while *scheinen+Partizip* (see [@sec:participles-scheinen-intransitive]) seems possible with *einschlafen* and *fallen*, and *kommen+an-+Partizip* (see [@sec:participles-kommen]) only applies to *fallen* and *klettern*. Also of interest in this context is the possibility of various impersonal diatheses (see e.g. [@sec:adverbial-reflexive-drop] and [@sec:infinitive-lassen-reflexive-intransitive]). This chapter will not attempts to answer the question how many different such verb classes are attested, but only takes the first step of presenting a list of possible light-verb constructions to be investigated in-depth in future research.
 
 ### Different diatheses with the same light verb {#sec:participle-different-diatheses}
 
@@ -406,7 +406,7 @@ a. Der Friseur hat (mir) die Haare geschnitten.
 b. Der Friseur hat die Haare geschnitten (bekommen).
 :::
 
-{#par:machen} An exceedingly complex situation occurs with the light verb *machen*, which induces many different diatheses depending on the main verb. Fehrmann [-@fehrmann2018] extensively describes *machen + adjective* constructions, but he seems to have ignored the complex situation with participles. There seem to be at least the following possibilities: 
+{#par:machen} An exceedingly complex situation occurs with the light verb *machen*, which induces many different diatheses depending on the main verb. Fehrmann [-@fehrmann2018] extensively describes *machen+adjective* constructions, but he seems to have ignored the complex situation with participles. There seem to be at least the following possibilities: 
 
 i. No diathesis, leading to a resultative/stative interpretation [@next a], see [@sec:participles-machen-resultative].
 ii. A conciliative diathesis [@next b], see [@sec:participles-machen-conciliative].
@@ -431,7 +431,7 @@ e. Er vergisst den Verlust. \
 
 Because of the similarity between participles and adjectives, it is instructive to turn the tables and investigate light-verb constructions with lexical adjectives like *schmutzig* 'dirty' or *offen* 'open'. Most light verbs are used identically with adjective and participle constructions, but there are few interesting differences.
 
-The verbs *sein, werden, bleiben*, known as ~~Kopulaverben~~ in German grammar [e.g. @duden2009: 416], can be used both with participles and adjectives [@next]. However, note that the meaning of the construction *werden* differs crucially between the two. With participles, the *werden* construction is of course a passive (see [@sec:participles-werden-passive]), while it is more of a future with adjectives [@next c], cf. the *werden + Infinitiv* in [@sec:infinitive-werden-modal].
+The verbs *sein, werden, bleiben*, known as ~~Kopulaverben~~ in German grammar [e.g. @duden2009: 416], can be used both with participles and adjectives [@next]. However, note that the meaning of the construction *werden* differs crucially between the two. With participles, the *werden* construction is of course a passive (see [@sec:participles-werden-passive]), while it is more of a future with adjectives [@next c], cf. the *werden+Infinitiv* in [@sec:infinitive-werden-modal].
 
 ::: ex
 a. Mein Fahrrad ist schmutzig.
@@ -473,7 +473,7 @@ d. Ich mache mein Fahrrad schmutzig. \
    Der Verlust macht mich betroffen.
 :::
 
-The combination of *haben* with adjectives [@next] does not show any relationship to the *haben + Partizip* ~~perfect~~. However, it is possible to draw a connection to the other *haben + Partizip* construction, namely the ~~dative passive~~ [@next b], see [@sec:participles-haben-passive]. In both constructions the new subject (*sie*) is an experiencer, who is also the possessor of the object (*Rechnung, Haare*).
+The combination of *haben* with adjectives [@next] does not show any relationship to the *haben+Partizip* ~~perfect~~. However, it is possible to draw a connection to the other *haben+Partizip* construction, namely the ~~dative passive~~ [@next b], see [@sec:participles-haben-passive]. In both constructions the new subject (*sie*) is an experiencer, who is also the possessor of the object (*Rechnung, Haare*).
 
 ::: ex
 a. Sie hat noch eine Rechnung offen. \
@@ -602,7 +602,7 @@ b. ^* Ich verstehe ein.
 
 The combination of the light verbs *haben* and *sein* with a participle is traditionally considered to be a single tense/aspect construction called ~~Perfekt~~ in German grammatical terminology. Given the latinate origin of much of modern grammatical theory, the wish for a German equivalent of the inflectional Latin ~~Perfectum~~ is perfectly understandable. However, it is far from obvious that this *Perfekt* is a unified construction in German.
 
-The most intriguing argument in favour of a unified *Perfekt* construction is that every verb stem in German has an epithetical construction consisting of *haben* or *sein* with a participle. In other words, every stem that allows for finite person/number agreement (i.e. *ich kauf-e, du kauf-st, er kauf-t*, etc.) also has at least one of the two constructions *haben + Partizip* or *sein + Partizip* without any change in role mapping (i.e. without diathesis). Such an universal applicability of a construction to all verbs is otherwise only attested (arguably) with *Modalverben* (see [@sec:infinitive-werden-modal] and subsequent sections). All the hundreds of other constructions discussed in this book always have a restricted domain of application (cf. [@sec:intro-domain-of-application]). The universal applicability of the *Perfekt* is known to have been developed in the late Middle Ages and was only completed in the 16th century with the development of a *haben + Partizip* construction for *Modalverben* [@fischer2020: 258].^[Fischer writes: "Ab 1300 und häufiger erst ab 1400 bildet auch das Verb *haben* Perfektformen (*hat gehabt*). Perfektbildungen der Modalverben sind erst ab Anfang des 16. Jahrhunderts belegt, wobei diese im Mittelhochdeutschen noch verschiedene Konkurrenzformen haben […]. Erst dann hat die Perfektgrammatikalisierung alle Verben des Deutschen erfasst und ist vollständig vollzogen." [@fischer2020: 258]] However, examples of a *Perfekt* with various *Modalverben* are still really rare in German. For example, in the ~~DWDS~~ corpus only a few examples of *haben gedurft* are attested, almost exclusively with *haben* in the conjunctive.
+The most intriguing argument in favour of a unified *Perfekt* construction is that every verb stem in German has an epithetical construction consisting of *haben* or *sein* with a participle. In other words, every stem that allows for finite person/number agreement (i.e. *ich kauf-e, du kauf-st, er kauf-t*, etc.) also has at least one of the two constructions *haben+Partizip* or *sein+Partizip* without any change in role mapping (i.e. without diathesis). Such an universal applicability of a construction to all verbs is otherwise only attested (arguably) with *Modalverben* (see [@sec:infinitive-werden-modal] and subsequent sections). All the hundreds of other constructions discussed in this book always have a restricted domain of application (cf. [@sec:intro-domain-of-application]). The universal applicability of the *Perfekt* is known to have been developed in the late Middle Ages and was only completed in the 16th century with the development of a *haben+Partizip* construction for *Modalverben* [@fischer2020: 258].^[Fischer writes: "Ab 1300 und häufiger erst ab 1400 bildet auch das Verb *haben* Perfektformen (*hat gehabt*). Perfektbildungen der Modalverben sind erst ab Anfang des 16. Jahrhunderts belegt, wobei diese im Mittelhochdeutschen noch verschiedene Konkurrenzformen haben […]. Erst dann hat die Perfektgrammatikalisierung alle Verben des Deutschen erfasst und ist vollständig vollzogen." [@fischer2020: 258]] However, examples of a *Perfekt* with various *Modalverben* are still really rare in German. For example, in the ~~DWDS~~ corpus only a few examples of *haben gedurft* are attested, almost exclusively with *haben* in the conjunctive.
 
 In contrast, there are also various arguments against a unified *Perfekt* construction in German. First, there is a sizeably group of intransitive verbs that allow for both the *haben* and the *sein* construction without any role-marking changes. There are intransitives with two possibilities, like *splittern* 'to splinter, to sliver' [@next], see [@sec:participles-haben-sein-perfect], and there is a special kind of intransitives that take *haben* with reflexive pronouns, but *sein* without reflexive pronouns, like *verspäten* 'to be late' [@nnext], see [@sec:participles-haben-sein-perfect-reflexive-drop].
 
@@ -616,7 +616,7 @@ a. Der Zug hat sich verspätet.
 b. Der Zug ist verspätet.
 :::
 
-Second, transitive verbs with an accusative argument regularly allow for both a *haben* and a *sein* construction, although with a change in role-marking. So, the same verbal stem regularly occurs with both constructions, though with different diatheses. Typically, transitive verbs with an accusative take *haben + Partizip* without any role-marking changes (see [@sec:participles-haben-transitive-perfect], exceptions in [@sec:participles-sein-transitive-perfect]). In contrast, a passive-like diathesis is induced when used with *sein + Partizip*, either a *Zustandspassiv*, like with *schreiben* 'to write' [@next], see [@sec:participles-sein-zustandspassiv], or an *Erlebnispassiv*, like with *verärgern* 'to displease' [@nnext], see [@sec:participles-sein-conversive]. There are only very few exceptions that do not allow this diathesis, like *hören* 'to hear' [@nnnext].
+Second, transitive verbs with an accusative argument regularly allow for both a *haben* and a *sein* construction, although with a change in role-marking. So, the same verbal stem regularly occurs with both constructions, though with different diatheses. Typically, transitive verbs with an accusative take *haben+Partizip* without any role-marking changes (see [@sec:participles-haben-transitive-perfect], exceptions in [@sec:participles-sein-transitive-perfect]). In contrast, a passive-like diathesis is induced when used with *sein+Partizip*, either a *Zustandspassiv*, like with *schreiben* 'to write' [@next], see [@sec:participles-sein-zustandspassiv], or an *Erlebnispassiv*, like with *verärgern* 'to displease' [@nnext], see [@sec:participles-sein-conversive]. There are only very few exceptions that do not allow this diathesis, like *hören* 'to hear' [@nnnext].
 
 ::: ex
 - Er schreibt das Buch. \
@@ -636,9 +636,9 @@ a. Sie hört die Trompete. \
 b. ^* Die Trompete ist gehört.
 :::
 
-Third, and most importantly, for all those cases in which multiple options are available, the meaning of the *haben + Partizip* construction can be clearly distinguished from meaning of the *sein + Partizip* construction. Roughly speaking, the *haben + Partizip* construction describes a completed continuous situation (~~completive~~), i.e. the endpoint of a continuous process, while the *sein + Partizip* construction describes the result of a change (~~resultative~~), i.e. it describes the resulting state after some kind of change-of-state. There exist a long discussion about this difference, and there are various diagnostic differences, like the usage of temporal adverbials (see [@sec:participles-haben-sein-perfect] and [@sec:participles-haben-sein-perfect-reflexive-drop]). 
+Third, and most importantly, for all those cases in which multiple options are available, the meaning of the *haben+Partizip* construction can be clearly distinguished from meaning of the *sein+Partizip* construction. Roughly speaking, the *haben+Partizip* construction describes a completed continuous situation (~~completive~~), i.e. the endpoint of a continuous process, while the *sein+Partizip* construction describes the result of a change (~~resultative~~), i.e. it describes the resulting state after some kind of change-of-state. There exist a long discussion about this difference, and there are various diagnostic differences, like the usage of temporal adverbials (see [@sec:participles-haben-sein-perfect] and [@sec:participles-haben-sein-perfect-reflexive-drop]). 
 
-It is important to note that this semantic differentiation only holds for those verbs that allow for both the *haben + Partizip* and the *sein + Partizip* constructions. The verbs that only allow for one of the two constructions (including verbs with nominative and dative arguments) cannot be separated along such easy semantic lines. For example, there does not appear to be any restriction on temporal adverbials with verbs like *lachen* 'to laugh' with only a *haben* Perfect [@next], nor with *flüchten* 'to flee' with only a *sein* Perfect [@nnext].
+It is important to note that this semantic differentiation only holds for those verbs that allow for both the *haben+Partizip* and the *sein+Partizip* constructions. The verbs that only allow for one of the two constructions (including verbs with nominative and dative arguments) cannot be separated along such easy semantic lines. For example, there does not appear to be any restriction on temporal adverbials with verbs like *lachen* 'to laugh' with only a *haben* Perfect [@next], nor with *flüchten* 'to flee' with only a *sein* Perfect [@nnext].
 
 ::: ex
 a. Die Schüler haben gestern gelacht.
@@ -650,9 +650,9 @@ a. Der Gefangene ist gestern geflüchtet.
 b. Der Gefangene ist schon lange geflüchtet.
 :::
 
-Because of these three differences, I prefer to consider the *haben* and *sein* Perfects as two different constructions, for example called ~~Prozessperfekt~~ (*haben*) and ~~Zustandsperfekt~~ (*sein*) in German. To adhere to tradition, both are still called *Perfekt*, although functionally these construction appear to move towards marking past tense. The first part of the name *Zustandsperfekt* conjures up the other *sein + Partizip* construction traditionally called *Zustandspassiv* (see [@sec:participles-sein-zustandspassiv]).
+Because of these three differences, I prefer to consider the *haben* and *sein* Perfects as two different constructions, for example called ~~Prozessperfekt~~ (*haben*) and ~~Zustandsperfekt~~ (*sein*) in German. To adhere to tradition, both are still called *Perfekt*, although functionally these construction appear to move towards marking past tense. The first part of the name *Zustandsperfekt* conjures up the other *sein+Partizip* construction traditionally called *Zustandspassiv* (see [@sec:participles-sein-zustandspassiv]).
 
-### [ N | N ] *haben + Partizip* Intransitive Perfect {#sec:participles-haben-perfect}
+### [ N | N ] *haben+Partizip* Intransitive Perfect {#sec:participles-haben-perfect}
 
 Many intransitive verbs only have a perfect with the auxiliary *haben*, like *lachen* 'to laugh' [@next a]. Typically, the participle of such verbs cannot be used adnominally [@next b], see [@sec:participles-adnominal-usage], but the impersonal *werden* passive is possible [@next c], see [@sec:participles-werden-impersonal-passive].
 
@@ -674,7 +674,7 @@ Although verbs with a *haben* perfect are often though of as 'agentive' verbs, t
 - accusative addition (see [@sec:case-accusative-addition]): *leben, schauen, singen, spielen, springen, tanzen*
 - manner-of-speaking (see [@sec:case-accusative-addition]): *brüllen, flüstern, grölen, johlen, murmeln, schreien, stottern*
 
-### [ N | N ] *sein + Partizip* Intransitive perfect {#sec:participles-sein-perfect}
+### [ N | N ] *sein+Partizip* Intransitive perfect {#sec:participles-sein-perfect}
 
 There exist also a large group of intransitive verbs that only allow for a Perfect with the auxiliary *sein*, like *flüchten* 'to flee' [@next a]. In contrast to the intransitives with *haben*, the verbs with *sein* allow for an adnominal usage of the participle [@next b], but do not (easily) allow for an impersonal passive [@next c].
 
@@ -717,7 +717,7 @@ There is a strong semantic tendency for the intransitives with *sein* to be more
 - Die Ladung ist verrutscht.
 - Der Schnee ist zerronnen.
 
-### [ N | N ] *haben/sein + Partizip* Intransitive perfect {#sec:participles-haben-sein-perfect}
+### [ N | N ] *haben/sein+Partizip* Intransitive perfect {#sec:participles-haben-sein-perfect}
 
 There is a surprisingly large group of intransitive verbs that allow for both a *haben* and a *sein* Perfect. In most of these verbs there is a clear semantic difference between the constructions with these auxiliaries. In general, these verbs allow for both a 'completed process' interpretation (~~completive~~, taking a *haben* Perfect) and a 'new state after change' interpretation (~~resultative~~, taking a *sein* Perfect). In this section I have collected intransitive verbs that allow for both auxiliaries [see also @hinze2007; @gillmann2016: Ch. 5]. Additionally, the next [@sec:participles-haben-sein-perfect-reflexive-drop] discusses verbs that allow for an intransitive *haben* Perfect with a reflexive pronoun and an intransitive *sein* Perfect without a reflexive pronoun.
 
@@ -749,7 +749,7 @@ a. ^* Der Zug ist gestern verspätet.
 b. Der Zug ist schon lange verspätet.
 :::
 
-Exactly the same semantic differentiation is also attested with nominative/accusative verbs like *verärgern* 'to displease'. These verbs take a *haben + Partizip* Perfect with a completive meaning that allow for punctual adverbials [@next]. Most of these verbs also have a *sein + Partizip* Passive-like construction with a resultative meaning that allow for a durative adverbial [@nnext].
+Exactly the same semantic differentiation is also attested with nominative/accusative verbs like *verärgern* 'to displease'. These verbs take a *haben+Partizip* Perfect with a completive meaning that allow for punctual adverbials [@next]. Most of these verbs also have a *sein+Partizip* Passive-like construction with a resultative meaning that allow for a durative adverbial [@nnext].
 
 ::: ex
 a. Die Nachricht hat den Leser vor zwei Wochen verärgert.
@@ -811,7 +811,7 @@ b. Sie stürmen in den Saal. \
    Sie sind in den Saal gestürmt.
 :::
 
-Anticausative verbs like *heilen* 'to heal' (see [@sec:case-haben-anticausative]) allow for both an intransitive *sein* Zustandspassiv [@next a] and a *haben* Perfect of the intransitive [@next b]. In effect, this results in intransitive constructions with both *haben + Partizip* and *sein + Partizip*. A similar situation is attested with some of the locative anticausative verbs, like *kleben* 'to stick to' [@nnext], see [@sec:prepositions-haben-caused-location].
+Anticausative verbs like *heilen* 'to heal' (see [@sec:case-haben-anticausative]) allow for both an intransitive *sein* Zustandspassiv [@next a] and a *haben* Perfect of the intransitive [@next b]. In effect, this results in intransitive constructions with both *haben+Partizip* and *sein+Partizip*. A similar situation is attested with some of the locative anticausative verbs, like *kleben* 'to stick to' [@nnext], see [@sec:prepositions-haben-caused-location].
 
 ::: ex
 a. Der Doktor heilt die Wunde. \
@@ -854,7 +854,7 @@ The verb *schimmeln* with *sein* appears to be old-fashioned [@next a]. Likewise
 - Sie fand, daß er in der letzten Zeit stark gealtert hatte.^[~~DWDS~~: Die Grenzboten. Jg. 70, 1911, Viertes Vierteljahr.]
 :::
 
-### [ N | N ] *haben/sein + Partizip* Reflexive intransitive perfect {#sec:participles-haben-sein-perfect-reflexive-drop}
+### [ N | N ] *haben/sein+Partizip* Reflexive intransitive perfect {#sec:participles-haben-sein-perfect-reflexive-drop}
 
 Verbs verbs with an obligatory reflexive pronoun (see [@sec:reflexive-obligatory-accusative-reflexive] and subsequent sections) have a *haben* Perfect, like *verspäten* 'to be late' [@next a,b]. Many (but not all) have an alternative *sein* Perfect without reflexive pronoun [@next c]. This last construction is probably best analysed as a special kind of *Zustandspassiv* [@sec:participles-sein-zustandspassiv]. In effect, there are two different Perfect constructions, one with *haben* and a reflexive pronoun [@next b] and one with *sein* without a reflexive pronoun [@next c].
 
@@ -890,7 +890,7 @@ b. Der Patient hat sich ausgezogen.
 c. Der Patient ist ausgezogen.
 :::
 
-Likewise, verbs that allow for both a reflexive conversive (*Reflexiv Erlebnispassiv* ([@sec:reflexive-preposition-passive]) and a *sein* Passive (*Zustandspassiv*, [@sec:participles-sein-zustandspassiv]) have both a *sein* and a *haben* intransitive Perfect. For example *aufregen* 'to upset' is a transitive verb [@next a]. This verb allows for a reflexive conversive, which results in a *haben* intransitive Perfect with a reflexive pronoun [@next b]. However, there is also a *sein* Perfect without reflexive pronoun [@next c], which is possibly best analysed as the *sein + Partizip* Passive of the transitive [@next a].
+Likewise, verbs that allow for both a reflexive conversive (*Reflexiv Erlebnispassiv* ([@sec:reflexive-preposition-passive]) and a *sein* Passive (*Zustandspassiv*, [@sec:participles-sein-zustandspassiv]) have both a *sein* and a *haben* intransitive Perfect. For example *aufregen* 'to upset' is a transitive verb [@next a]. This verb allows for a reflexive conversive, which results in a *haben* intransitive Perfect with a reflexive pronoun [@next b]. However, there is also a *sein* Perfect without reflexive pronoun [@next c], which is possibly best analysed as the *sein+Partizip* Passive of the transitive [@next a].
 
 ::: ex
 a. Der Lärm regt ihn auf. \
@@ -921,7 +921,7 @@ c. Er ist aufgeregt (wegen den Lärm).
 - Der Globus hat sich gedreht. Der Globus ist gedreht.
 - Er hat sich ausgeschlafen. Er ist ausgeschlafen.
 
-### [ ND | ND ] *haben + Partizip* Dative perfect {#sec:participle-haben-perfect-dative}
+### [ ND | ND ] *haben+Partizip* Dative perfect {#sec:participle-haben-perfect-dative}
 
 Verbs with a dative argument are strictly split between *sein* and *haben*. There do not appear to be any verbs that allow for both. The grammatical status of the datives is slightly different among these verbs (see [@sec:case-nominative-dative; @sec:case-dative-drop; @sec:prepositions-dative-antipassive; @sec:preverb-dative-applicative] for detailed discussion). Similar to intransitives, the dative verbs with a *haben* Perfect, like *antworten* 'to answer' [@next a], do not allow for a construction with an adnominal participle [@next b], but the impersonal *werden* passive is possible [@next c].
 
@@ -935,7 +935,7 @@ c. Heute wird dem Student geantwortet.
 
 - *ähneln, angehören, antworten, beiliegen, beipflichten, bevorstehen, dienen, einleuchten, entsprechen, fehlen, gefallen, gehören, gelten, gleichen, gratulieren, helfen, imponieren, kündigen, liegen (natürliche Begabung), missfallen, nacheifern, passen, schaden, schmecken, sitzen (passen), trauen, vertrauen, zuhören, zureden*
 
-### [ ND | ND ] *sein + Partizip* Dative perfect {#sec:participle-sein-perfect-dative}
+### [ ND | ND ] *sein+Partizip* Dative perfect {#sec:participle-sein-perfect-dative}
 
 Similar to intransitives, the dative-verbs with *sein*, like *gelingen* 'to succeed' [@next a], all appear to allow a construction with an adnominal participle [@next b], while the impersonal *werden* passive is not possible [@next c].
 
@@ -960,9 +960,9 @@ b. Das Kind hat seiner Mutter gefolgt.
 c. Er nannte Beispiele, wie er während seiner Präsidentschaft Notständen begegnen mußte und begegnet habe.^[~~DWDS~~: Archiv der Gegenwart, 2001 [1952]]
 :::
 
-### [ NP | NP ] *sein + Partizip* Governed preposition perfect
+### [ NP | NP ] *sein+Partizip* Governed preposition perfect
 
-Almost all verbs with governed prepositions take a *haben* Perfect. Only a small group of such verbs take a *sein + Partizip* Perfect, for example *scheitern an* 'to fail' [@next a]. Only very few examples of obligatory local prepositions belong in this category, like *eintreten* 'enter' [@next b].
+Almost all verbs with governed prepositions take a *haben* Perfect. Only a small group of such verbs take a *sein+Partizip* Perfect, for example *scheitern an* 'to fail' [@next a]. Only very few examples of obligatory local prepositions belong in this category, like *eintreten* 'enter' [@next b].
 
 ::: ex
 - Ich scheitere an der Aufgabe.
@@ -987,7 +987,7 @@ Almost all verbs with governed prepositions take a *haben* Perfect. Only a small
 - Er ist in einer präkären Situation geraten.
 - Die Sportler sind in das Stadion eingezogen.
 
-### [ NA | NA ] *haben + Partizip* Transitive perfect {#sec:participles-haben-transitive-perfect}
+### [ NA | NA ] *haben+Partizip* Transitive perfect {#sec:participles-haben-transitive-perfect}
 
 Almost all transitive (nominative/accusative) verbs take a *haben* Perfect. However, the choice of light verb (i.e. *haben* or *sein*) is not linked to the lexical verb root, as there are many verbs that can be used both as an intransitive and as a transitive verb [@sec:case-sein-causative]. With many such verbs, like *laufen* 'to walk' [@next a] or *segeln* 'to sail' [@next b], the intransitiv uses *sein*, while the transitiv uses *haben*.
 
@@ -998,14 +998,14 @@ Almost all transitive (nominative/accusative) verbs take a *haben* Perfect. Howe
   Er hat das Boot nach Korsika gesegelt.
 :::
 
-Even stronger, almost all transitive verbs allow also for a *sein* Zustandspassiv (see [@sec:participles-sein-zustandspassiv] for only few exceptions). The effect is that a transitive verb like *schreiben* 'to write' can both be used with a *haben + Partizip* construction ('Perfect') and a *sein + Partizip* construction ('Passive'). These are of course different diatheses, but the important point is that the lexical verb *schreiben* itself can be used both with *sein* and *haben*.
+Even stronger, almost all transitive verbs allow also for a *sein* Zustandspassiv (see [@sec:participles-sein-zustandspassiv] for only few exceptions). The effect is that a transitive verb like *schreiben* 'to write' can both be used with a *haben+Partizip* construction ('Perfect') and a *sein+Partizip* construction ('Passive'). These are of course different diatheses, but the important point is that the lexical verb *schreiben* itself can be used both with *sein* and *haben*.
 
 ::: ex
 a. Er hat einen Brief geschrieben.
 b. Der Brief ist geschrieben.
 :::
 
-### [ NA | NA ] *sein + Partizip* Transitive perfect {#sec:participles-sein-transitive-perfect}
+### [ NA | NA ] *sein+Partizip* Transitive perfect {#sec:participles-sein-transitive-perfect}
 
 There is only a very small group of transitive (nominative/accusative) verbs that use only *sein* in the Perfect, like *angehen* 'to tackle' or *loswerden* 'to get rid of' [cf. @grewendorf1989: 9; @strobl2007: 102, 107ff.].
 
@@ -1047,9 +1047,9 @@ The verb *laufen* allows for both *sein* and *haben* in the intransitive (see [@
 
 ### --- Aspect --- {.unnumbered}
 
-### [ N | N ] *kommen + (an-) + Partizip* Movement towards (*Aditivprogressiv*) {#sec:participles-kommen}
+### [ N | N ] *kommen+(an-)+Partizip* Movement towards (*Aditivprogressiv*) {#sec:participles-kommen}
 
-The *kommen + Partizip* construction [@next] is very similar to a main verb *kommen* 'to come' with a secondary adverbial predicate [@nnext]. Rothstein [@rothstein2007a; @rothstein2011] observed various structural differences between these constructions (see also the general discussion about participles as secondary predicates in [@sec:participles-secondary-predicates]). The *kommen + Partizip* construction, like with *hüpfen* 'to hop', can be identified by the impossibility of adding the negating *un-* prefix to the participle [@next b] and by the clause-final position of the participle [@next c,d]. With secondary predicates like *verkleidet* 'dressed up' these syntactic characteristics are reversed [@nnext b-d]. 
+The *kommen+Partizip* construction [@next] is very similar to a main verb *kommen* 'to come' with a secondary adverbial predicate [@nnext]. Rothstein [@rothstein2007a; @rothstein2011] observed various structural differences between these constructions (see also the general discussion about participles as secondary predicates in [@sec:participles-secondary-predicates]). The *kommen+Partizip* construction, like with *hüpfen* 'to hop', can be identified by the impossibility of adding the negating *un-* prefix to the participle [@next b] and by the clause-final position of the participle [@next c,d]. With secondary predicates like *verkleidet* 'dressed up' these syntactic characteristics are reversed [@nnext b-d]. 
 
 ::: ex
 - Er kommt gehüpft.
@@ -1065,7 +1065,7 @@ The *kommen + Partizip* construction [@next] is very similar to a main verb *kom
 - Er kommt verkleidet aus seinem Zimmer.
 :::
 
-Rothstein also observes that these two different kinds of participles cannot be conjoined. A secondary predicate like *verkleidet* can be conjoined with adverbials like *froh* or *springend* [@next a]. In contrast, this is not possible with *gehüpft* [@next b]. Likewise *verkleidet* and *gehüpft* cannot be conjoined in a *kommen + Partizip* construction [@next c].
+Rothstein also observes that these two different kinds of participles cannot be conjoined. A secondary predicate like *verkleidet* can be conjoined with adverbials like *froh* or *springend* [@next a]. In contrast, this is not possible with *gehüpft* [@next b]. Likewise *verkleidet* and *gehüpft* cannot be conjoined in a *kommen+Partizip* construction [@next c].
 
 ::: ex
 - Er kommt froh, springend und verkleidet.
@@ -1073,7 +1073,7 @@ Rothstein also observes that these two different kinds of participles cannot be 
 - ^* Er kommt verkleidet und gehüpft.
 :::
 
-The *kommen + Partizip* construction is typically attested with intransitive verbs of movement like *hüpfen*. However, there are also examples of movement verbs with additional accusative [@next a] or dative [@next b] arguments. These possibilities need more in-depth investigation. 
+The *kommen+Partizip* construction is typically attested with intransitive verbs of movement like *hüpfen*. However, there are also examples of movement verbs with additional accusative [@next a] or dative [@next b] arguments. These possibilities need more in-depth investigation. 
 
 ::: ex
 - Er kommt den Berg herabgelaufen 
@@ -1103,7 +1103,7 @@ The secondary predicate usage is also possible with transitive verbs, but then t
 **Attested Verbs**
 
 - movement verbs: *fliegen, hüpfen, laufen, schwimmen, zufliegen*, etc.
-- *an-* verbs only attested in the *kommen + Participle* constructions: *andampfen, andonnern, anfliegen, anflitzen, anhetzen, anheulen, ankeuchen, ankriechen, anlatschen, anlaufen, anpreschen, anrasen, anrasseln, anrauschen, anreisen, anreiten, anrennen, anrücken*
+- *an-* verbs only attested in the *kommen+Participle* constructions: *andampfen, andonnern, anfliegen, anflitzen, anhetzen, anheulen, ankeuchen, ankriechen, anlatschen, anlaufen, anpreschen, anrasen, anrasseln, anrauschen, anreisen, anreiten, anrennen, anrücken*
 
 **Examples**
 
@@ -1113,9 +1113,9 @@ The secondary predicate usage is also possible with transitive verbs, but then t
 - Ein Vogel ist auf mich zugeflogen gekommen.
 - Er kam geschmückt, erregt, und gespannt zu Tische [Thomas Mann, cited from @rothstein2007a: 161]
 
-### [ N | N ] *bleiben + Partizip* Continuative (*Perfektkontinuativ*) {#sec:participles-bleiben-intransitive}
+### [ N | N ] *bleiben+Partizip* Continuative (*Perfektkontinuativ*) {#sec:participles-bleiben-intransitive}
 
-The *bleiben + Partizip* construction can be used both with some transitive verbs leading to an anticausative diathesis (see [@sec:participles-bleiben-transitive]), and with a few intransitives, but then without any diathesis. For example, verbs like *verschwinden* 'to vanish, to go missing' [@next a] or *zufrieren* 'to freeze over' [@next b] allow for this epithesis. There is a close connection to the *sein + Partizip* construction, though with an added notion of continuation.
+The *bleiben+Partizip* construction can be used both with some transitive verbs leading to an anticausative diathesis (see [@sec:participles-bleiben-transitive]), and with a few intransitives, but then without any diathesis. For example, verbs like *verschwinden* 'to vanish, to go missing' [@next a] or *zufrieren* 'to freeze over' [@next b] allow for this epithesis. There is a close connection to the *sein+Partizip* construction, though with an added notion of continuation.
 
 ::: ex
 - Der Schlüssel verschwindet. \
@@ -1124,7 +1124,7 @@ The *bleiben + Partizip* construction can be used both with some transitive verb
   Weihnachten rückt näher, und der Binnensee bleibt zugefroren.^[Attested online at <https://www.haz.de/Umland/Wunstorf/Nachrichten/Inselvogt-Zobel-von-Feuerwehr-gerettet>, accessed 16 July 2021.]
 :::
 
-The *bleiben + Partizip* construction is only possible with verbs that also allow for a *sein + Partizip* construction, though far from all verbs allow for both. In general, it turns out to be far from easy to find many examples of *bleiben + Partizip* with intransitive verbs, suggesting that there are strong restrictions on the application of this construction. There is a strong semantic intuition that only reversible events allow for a *bleiben + Partizip* construction [@helbig2001: 163; @schlucker2007: 152]. However, examples are attested with clearly irreversible events like *verbrennen* 'to burn' [@next a] or punctual events like *einschlafen* 'to fall asleep' [@next b]. The notion 'reversibility' is thus clearly not the whole explanation.
+The *bleiben+Partizip* construction is only possible with verbs that also allow for a *sein+Partizip* construction, though far from all verbs allow for both. In general, it turns out to be far from easy to find many examples of *bleiben+Partizip* with intransitive verbs, suggesting that there are strong restrictions on the application of this construction. There is a strong semantic intuition that only reversible events allow for a *bleiben+Partizip* construction [@helbig2001: 163; @schlucker2007: 152]. However, examples are attested with clearly irreversible events like *verbrennen* 'to burn' [@next a] or punctual events like *einschlafen* 'to fall asleep' [@next b]. The notion 'reversibility' is thus clearly not the whole explanation.
 
 ::: ex
 - ^^?^ Das Buch bleibt verbrannt. \
@@ -1146,9 +1146,9 @@ The *bleiben + Partizip* construction is only possible with verbs that also allo
 - Die Köpfchen vertrockneten immer wieder, aber sie rappelte sich immer wieder auf. Seit 4 Wochen sind die Köpfchen vertrocknet geblieben.^[Attested online at <https://www.hausgarten.net/gartenforum/threads/carnivoren-winterruhe.32314>, accessed 16 July 2021.]
 - Ich bin auch nach der Schwangerschaft weiter an Diabetes erkrankt geblieben.^[Attested online at <https://www.hipp.de/forum/viewtopic.php?t=17551>, accessed 16 July 2021.]
 
-### [ NA | NA ] *halten + Partizip* Caused continuative (*Kausativkontinuativ*) {#sec:participles-halten-durative}
+### [ NA | NA ] *halten+Partizip* Caused continuative (*Kausativkontinuativ*) {#sec:participles-halten-durative}
 
-A widespread option for transitive verbs is to use the *halten + Partizip* construction to express the ongoing perseverance to prolong of the end state of the action, like with *schließen* 'to close' [@next]. The attested verbs listed below are only a few exemplary lexemes. This construction is applicable to a much wider group of verbs. Semantically, *halten + Partizip* expresses a clear agency of the caused continuative.
+A widespread option for transitive verbs is to use the *halten+Partizip* construction to express the ongoing perseverance to prolong of the end state of the action, like with *schließen* 'to close' [@next]. The attested verbs listed below are only a few exemplary lexemes. This construction is applicable to a much wider group of verbs. Semantically, *halten+Partizip* expresses a clear agency of the caused continuative.
 
 ::: ex
 - Er schließt die Tür.
@@ -1168,9 +1168,9 @@ A widespread option for transitive verbs is to use the *halten + Partizip* const
 - Er hält die Taste gedrückt.
 - Er hält den Arm ausgestreckt.
 
-### [ NA | NA ] *lassen + Partizip* Permissive continuative (*Permissivkontinuativ*) {#sec:participles-lassen-durative}
+### [ NA | NA ] *lassen+Partizip* Permissive continuative (*Permissivkontinuativ*) {#sec:participles-lassen-durative}
 
-Similar to the previous construction, the *lassen + Partizip* construction also can be used to express the continuation of a state, like with *einschalten* 'to turn on' [@next]. Although this construction can be used with many different verbs, it turns out to be much more difficult to find suitable examples, which suggests that there are some additional constraints of the applicability of this construction. Semantically, *lassen + Partizip* expresses permissive continuative (cf. the permissive reading of *lassen* with infinitive, see [@sec:infinitive-guises-of-lassen]).
+Similar to the previous construction, the *lassen+Partizip* construction also can be used to express the continuation of a state, like with *einschalten* 'to turn on' [@next]. Although this construction can be used with many different verbs, it turns out to be much more difficult to find suitable examples, which suggests that there are some additional constraints of the applicability of this construction. Semantically, *lassen+Partizip* expresses permissive continuative (cf. the permissive reading of *lassen* with infinitive, see [@sec:infinitive-guises-of-lassen]).
 
 ::: ex
 - Ich schalte den Fernseher ein.
@@ -1187,9 +1187,9 @@ Similar to the previous construction, the *lassen + Partizip* construction also 
 
 ### --- Modality --- {.unnumbered}
 
-### [ NA | NA ] *bekommen/kriegen + Partizip* Achievement (*Effektiv*) {#sec:participles-bekommen-achievement}
+### [ NA | NA ] *bekommen/kriegen+Partizip* Achievement (*Effektiv*) {#sec:participles-bekommen-achievement}
 
-The construction of the light verbs *bekommen/kriegen + Partizip* is widely discussed as a dative passive (*Rezepientenpassiv*, see [@sec:participles-bekommen-passive]). However, transitive verbs without dative arguments can also occur in this construction with a completely different 'to be able to' interpretation [@next]. This usage is discussed as the '*bekommen*-Konstruktion 2' [@leirbukt1997: 15-16] or as the resultative usage of *bekommen/kriegen* [@lenz2013: 86, 238-239]. Different from the dative passive, the light verb *erhalten* is not possible in this resultative construction. I propose the German name ~~Effektiv~~ (from Lat. *effectus* 'accomplishment') for this construction. In some situations it is even possible to construction ambiguous sentences, that can either have a *Effekativ* [@next b] or an *Rezepientenpassiv* [@next c] interpretation.
+The construction of the light verbs *bekommen/kriegen+Partizip* is widely discussed as a dative passive (*Rezepientenpassiv*, see [@sec:participles-bekommen-passive]). However, transitive verbs without dative arguments can also occur in this construction with a completely different 'to be able to' interpretation [@next]. This usage is discussed as the '*bekommen*-Konstruktion 2' [@leirbukt1997: 15-16] or as the resultative usage of *bekommen/kriegen* [@lenz2013: 86, 238-239]. Different from the dative passive, the light verb *erhalten* is not possible in this resultative construction. I propose the German name ~~Effektiv~~ (from Lat. *effectus* 'accomplishment') for this construction. In some situations it is even possible to construction ambiguous sentences, that can either have a *Effekativ* [@next b] or an *Rezepientenpassiv* [@next c] interpretation.
 
 ::: ex
 - Ich koche einen Tee. 
@@ -1214,7 +1214,7 @@ The construction of the light verbs *bekommen/kriegen + Partizip* is widely disc
 
 ### --- Evidentiality --- {.unnumbered}
 
-### [ N | N ] *scheinen/erscheinen + Partizip* Inferred evidence (*Perfektinferenz*) {#sec:participles-scheinen-intransitive}
+### [ N | N ] *scheinen/erscheinen+Partizip* Inferred evidence (*Perfektinferenz*) {#sec:participles-scheinen-intransitive}
 
 The light verbs *scheinen* and *erscheinen* are used with participles of some intransitive verbs to describe an inference being made by the speaker [@next]. There is a close semantic connection to the *sein* perfect as shown by the imcompatibility with many agentive intransitives [@next a,b] and by the compatibility with a durative temporal adverb like *seit einer Stunde* [@next c]. An additional experiencer dative is sometimes attested [@next d]. With transitive verbs this construction leads to an anticausative diathesis, see [@sec:participles-scheinen-anticausative]. This construction is discussed in more depth in that section. 
 
@@ -1237,7 +1237,7 @@ The following attested verbs are only illustrative examples taken from the data 
 - *erscheinen* : *ausbrennen, ausdehnen, ausformen, ausreifen, bräunen, eignen, einbilden, hervorsteigen, verblühen, verdicken, vertrocknen, wachsen*
 
 
-### [ N | N ] *aussehen/wirken + Partizip* Sensory evidence (*Sinnesevidenz*) {#sec:participles-wirken-intransitive}
+### [ N | N ] *aussehen/wirken+Partizip* Sensory evidence (*Sinnesevidenz*) {#sec:participles-wirken-intransitive}
 
 The verbs *aussehen* and *wirken* can be used with participles of intransitive verbs to describe an evaluation of an event based on sensory evidence by the speaker [@next]. These constructions are analysed by Lasch [-@lasch2016: 253ff.] as *Askription mit modaler Relation*, but an evidential analysis seems more suitable. For *aussehen/wirken* I propose to categorise them as direkt evidential based on sensory evidence by the speaker. With transitive verbs these constructions lead to an anticausative diathesis, see [@sec:participles-wirken-anticausative].
 
@@ -1255,9 +1255,9 @@ The following attested verbs are only illustrative examples taken from the data 
 
 ### --- Other --- {.unnumbered}
 
-### [ NA | NA ] *machen + Partizip* Resultative {#sec:participles-machen-resultative}
+### [ NA | NA ] *machen+Partizip* Resultative {#sec:participles-machen-resultative}
 
-This is one of the various alternations that occur with *machen + Partizip* (see [@sec:participle-different-diatheses]). With these experiencer verbs the alternation does not induce a diathesis.
+This is one of the various alternations that occur with *machen+Partizip* (see [@sec:participle-different-diatheses]). With these experiencer verbs the alternation does not induce a diathesis.
 
 ::: ex
 a. Der Verlust betrifft mich.
@@ -1276,16 +1276,16 @@ b. Der Verlust macht mich betroffen.
 
 **Notes**
 
-There are various highly frequent examples of *machen + Partizip* in which the participle is not directly derived from a finite verb.
+There are various highly frequent examples of *machen+Partizip* in which the participle is not directly derived from a finite verb.
 
 - Das Geschäft macht mich angesehen.
 - Etwas macht mich erfahren.
 - Der Film macht ihn beliebt.
 - Der Rauch macht mich benommen.
 
-### [ NA | NA ] *nehmen + Partizip* Imprisonment
+### [ NA | NA ] *nehmen+Partizip* Imprisonment
 
-The *nehmen + Partizip* construction frequently occurs with *fangen* 'to catch' in the context of imprisonment [@next]. Incidental cases with other verbs are attested, but these seem to be highly unusual.
+The *nehmen+Partizip* construction frequently occurs with *fangen* 'to catch' in the context of imprisonment [@next]. Incidental cases with other verbs are attested, but these seem to be highly unusual.
 
 ::: ex
 - Er fängt den Dieb.
@@ -1301,9 +1301,9 @@ The *nehmen + Partizip* construction frequently occurs with *fangen* 'to catch' 
 - Der mutmaßliche zweite Terrorverdächtige von Boston ist nach Polizeiangaben festgenommen genommen.^[~~DWDS~~: Die Zeit, 20.04.2013 (online).]
 - Ich habe mich übrigens nie als Miteigentümer der Leuna-Werke verstanden und hätte sie 1990 nicht geschenkt genommen.^[~~DWDS~~: Die Zeit, 12.05.2005, Nr. 20]
 
-### [ NA | NA ] *setzen + Partizip* Imprisonment
+### [ NA | NA ] *setzen+Partizip* Imprisonment
 
-The *setzen + Partizip* construction appears to be only possible with the verb *fangen* 'to catch' in the context of imprisonment [@next].
+The *setzen+Partizip* construction appears to be only possible with the verb *fangen* 'to catch' in the context of imprisonment [@next].
 
 ::: ex
 - Er fängt den Dieb.
@@ -1320,9 +1320,9 @@ The *setzen + Partizip* construction appears to be only possible with the verb *
 
 To call the diatheses in this section 'passive' is actually a misnomer, because there is no promotion of an argument to subject status. Also the retention of the original subject is mostly not possible. The categorisation of diatheses as followed in this work would suggest that ~~verbative~~ would be a more suitable term (see[@sec:intro-isolated-subject-diathesis]). However, because the actual constructions (using light verbs *werden*, *sein* or *gehören*) shows a parallel to the real passives, the widespread use of the name *unpersönslicher Passiv* in the German grammatical tradition is retained here.
 
-### [ N | – ] *werden + Partizip* Impersonal passive {#sec:participles-werden-impersonal-passive}
+### [ N | – ] *werden+Partizip* Impersonal passive {#sec:participles-werden-impersonal-passive}
 
-The *werden + Partizip* impersonal passive is a widely discussed phenomenon in German grammar that occurs with some intransitive verbs [@next a,b]. A special and very atypical characteristic of this diathesis is that there is no grammatical subject expressed. Typically in German, when a subject is dropped, then a valency-simulating pronoun *es* is inserted (see [@sec:intro-es]). However, in this diathesis any occurring pronoun *es* is only position-simulating (i.e. it occurs when the first position of the sentence, i.e. the *Vorfeld*, is empty). In contrast, when the first position is filled, the pronoun *es* is absent [@next b].
+The *werden+Partizip* impersonal passive is a widely discussed phenomenon in German grammar that occurs with some intransitive verbs [@next a,b]. A special and very atypical characteristic of this diathesis is that there is no grammatical subject expressed. Typically in German, when a subject is dropped, then a valency-simulating pronoun *es* is inserted (see [@sec:intro-es]). However, in this diathesis any occurring pronoun *es* is only position-simulating (i.e. it occurs when the first position of the sentence, i.e. the *Vorfeld*, is empty). In contrast, when the first position is filled, the pronoun *es* is absent [@next b].
 
 This diathesis has become famous in grammatical discussion because of the claimed correlation with unaccusativity (see [@sec:participles-restrictions]). Basically, the claim is that there is a correlation between the *sein/haben* selection in the Perfect and the possibility of the *werden* impersonal passive. Concretely, the claim is that (agentive) intransitive verbs with *haben* allow for the impersonal passive [@next a.b], while (patientive) intransitive verbs with *sein* do not [@next c,d]. 
 
@@ -1336,7 +1336,7 @@ This diathesis has become famous in grammatical discussion because of the claime
 - ^* Jetzt wird eingeschlafen.
 :::
 
-Although there indeed seems to be a tendency here, there are many counterexamples. For example, with verbs with *haben + Partizip* like *lügen* 'to lie', *jucken* 'to itch' or *blühen* 'to blossom' it appears to be neigh impossible to use an impersonal passive. Possible examples are attested only with additional modal verbs like *können* or *dürfen* [@next]. In contrast, intransitive verbs with *sein* mostly do not allow for the impersonal passive, though examples can be found rather easily in corpora [@nnext]. This phenomenon clearly needs more in-depth corpus research.
+Although there indeed seems to be a tendency here, there are many counterexamples. For example, with verbs with *haben+Partizip* like *lügen* 'to lie', *jucken* 'to itch' or *blühen* 'to blossom' it appears to be neigh impossible to use an impersonal passive. Possible examples are attested only with additional modal verbs like *können* or *dürfen* [@next]. In contrast, intransitive verbs with *sein* mostly do not allow for the impersonal passive, though examples can be found rather easily in corpora [@nnext]. This phenomenon clearly needs more in-depth corpus research.
 
 ::: ex
 - In den Rieselfeldern kann ungehemmt gestunken und gelärmt werden.^[~~DWDS~~: Die Zeit, 16.12.1983, Nr. 51]
@@ -1371,9 +1371,9 @@ There is a recurrent usage of the term *Reflexivpassiv* in the German grammatica
   Heute wird sich rasiert.
 :::
 
-### [ NP | –P ] *werden + Partizip* Impersonal passive + governed preposition {#sec:participles-impersonal-passive-preposition}
+### [ NP | –P ] *werden+Partizip* Impersonal passive+governed preposition {#sec:participles-impersonal-passive-preposition}
 
-Many, but not all, verbs with governed prepositions (but without accusative argument, cf. [@sec:prepositions-governed-drop]) appear to allow for an impersonal passive, like *warten auf* 'to wait for' or *arbeiten an* 'to work on' [@next]. Note that these verbs all take a *haben + Partizip* Perfekt. Although it seems possible to retain the original subject as a *von* prepositional phrase, I have not been able to find good examples of such subject retention.
+Many, but not all, verbs with governed prepositions (but without accusative argument, cf. [@sec:prepositions-governed-drop]) appear to allow for an impersonal passive, like *warten auf* 'to wait for' or *arbeiten an* 'to work on' [@next]. Note that these verbs all take a *haben+Partizip* Perfekt. Although it seems possible to retain the original subject as a *von* prepositional phrase, I have not been able to find good examples of such subject retention.
 
 ::: ex
 - Auf dem Professor wurde gewartet.
@@ -1406,7 +1406,7 @@ Reflexive conversive verbs (see [@sec:reflexive-preposition-passive])
 - Als Erstes wird sich allgemein darüber gewundert, wie anders man doch aussehe und dass man sich dennoch wieder erkannt habe.^[~~DWDS~~: Berliner Zeitung, 01.12.2004]
 - Wenn du etwas falsch machst, wird sich um dich gekümmert.^[~~DWDS~~: Die Zeit, 24.09.2015 (online).]
 
-### [ ND | –D ] *werden + Partizip* Impersonal passive + dative {#sec:participles-impersonal-passive-dative}
+### [ ND | –D ] *werden+Partizip* Impersonal passive+dative {#sec:participles-impersonal-passive-dative}
 
 Only a small subset of all verbs with a dative argument allow for an impersonal passive. Although this appears to be slightly more common for verbs with a *haben* Perfect, like *entsprechen* 'to conform' or *helfen* 'to help' [@next], cf. [@sec:participle-haben-perfect-dative], there are also verbs with a *sein* Perfect that allow for an impersonal passive, like *enfliehen* 'to flee' or *beitreten* 'to join' [@nnext], cf. [@sec:participle-sein-perfect-dative].
 
@@ -1431,39 +1431,39 @@ Only a small subset of all verbs with a dative argument allow for an impersonal 
 - Ich weiß nicht, wie weit dem Zola-Roman gefolgt wird.^[~~DWDS~~: Klemperer, Victor: [Tagebuch] 1928. In: "Leben sammeln, nicht fragen wozu und warum", Berlin: Aufbau-Taschenbuch-Verl. 2000, S. 258]
 - Ich habe angeordnet, daß allen Spuren […] nachgegangen wird."^[~~DWDS~~: Der Spiegel, 16.01.1989]
 
-### [ N | – ] *sein + Partizip* Impersonal passive
+### [ N | – ] *sein+Partizip* Impersonal passive
 
-It appears to be impossible for intransitives to be used in an *sein + Partizip* impersonal passive. This section is only included to discuss the theoretical possibility of this construction, because there is a curious parallel with other impersonal constructions. Impersonal constructions with light verbs *werden*, *sein* and *gehören* occur with additional governed prepositions or datives (see the next sections), but a parallel construction with *sein* is (apparently) not attested for 'real' intransitives [@next].
+It appears to be impossible for intransitives to be used in an *sein+Partizip* impersonal passive. This section is only included to discuss the theoretical possibility of this construction, because there is a curious parallel with other impersonal constructions. Impersonal constructions with light verbs *werden*, *sein* and *gehören* occur with additional governed prepositions or datives (see the next sections), but a parallel construction with *sein* is (apparently) not attested for 'real' intransitives [@next].
 
 ::: ex
 - ^* Es ist geschlafen.
 - ^^?^ Während dem Protest ist viel gehupt.
 :::
 
-Such constructions only seem to be possible with an additional *worden* [@next], which is effectively a stack of an impersonal *werden + Partizip* passive with a *sein + Partizip* perfect (with the participle of *werden* showing up as the idiosyncratic form *werden*).
+Such constructions only seem to be possible with an additional *worden* [@next], which is effectively a stack of an impersonal *werden+Partizip* passive with a *sein+Partizip* perfect (with the participle of *werden* showing up as the idiosyncratic form *werden*).
 
 ::: ex
 - Da ist geschrien worden.
 - Vier Jahre ist geschlafen worden, jetzt sollen wir alles in vier Tagen machen.^[Attested online at <https://www.sueddeutsche.de/muenchen/dachau/brandschutz-karlsfeld-wohnhaeuser-kritik-1.5250267>, accessed 17 June 2021]
 :::
 
-### [ NP | -P ] *sein + Partizip* Impersonal passive + governed preposition
+### [ NP | -P ] *sein+Partizip* Impersonal passive+governed preposition
 
 It turns out to be astonishingly hard, but not impossible, to find examples of *sein* impersonal passives with governed prepositions, like e.g. with *denken* [@next a]. Constructions with an additional *worden* are widespread, but those are stacks of *werden* passive with a perfect [@next b], see [@sec:participles-sein-zustandspassiv] for a more in-depth discussion of this difference.
 
 ::: ex
 - Aber auch daran ist gedacht.
 - An nichts ist gearbeitet worden. \
-  (= An nichts wird gearbeitet. +> *sein + Partizip* perfect)
+  (= An nichts wird gearbeitet. +> *sein+Partizip* perfect)
 :::
 
 **Attested Verbs**
 
 - *denken*
 
-### [ ND | –D ] *sein + Partizip* Impersonal passive + dative
+### [ ND | –D ] *sein+Partizip* Impersonal passive+dative
 
-In constrast, *sein* impersonal passives with datives are easy to find. Most nominative/dative verbs that allow for a *werden* impersonal passive (see [@sec:participles-impersonal-passive-dative]) also seem to be possible with *sein + Partizip* [@next].
+In constrast, *sein* impersonal passives with datives are easy to find. Most nominative/dative verbs that allow for a *werden* impersonal passive (see [@sec:participles-impersonal-passive-dative]) also seem to be possible with *sein+Partizip* [@next].
 
 ::: ex
 - Dem Entschluss ist entsprochen. \
@@ -1478,9 +1478,9 @@ In constrast, *sein* impersonal passives with datives are easy to find. Most nom
 
 - *antworten, entsprechen, helfen, kündigen*
 
-### [ N | – ] *gehören + Partizip* Impersonal passive
+### [ N | – ] *gehören+Partizip* Impersonal passive
 
-The *gehören + Partizip* passive appears to occur in some examples with intransitive verbs, resulting in impersonal constructions. An in-depth introduction of the *gehören + Partizip* passive can be found in [@sec:participles-gehoren-anticausative]. The usage of this constructions with intransitive verbs needs more in-depth study, as many examples seem doubtful [@next a,b]. However, they are sparinlgy attested [@next c].
+The *gehören+Partizip* passive appears to occur in some examples with intransitive verbs, resulting in impersonal constructions. An in-depth introduction of the *gehören+Partizip* passive can be found in [@sec:participles-gehoren-anticausative]. The usage of this constructions with intransitive verbs needs more in-depth study, as many examples seem doubtful [@next a,b]. However, they are sparinlgy attested [@next c].
 
 ::: ex
 - ^^?^ In der Sauna gehört geschwitzt.
@@ -1488,9 +1488,9 @@ The *gehören + Partizip* passive appears to occur in some examples with intrans
 - Um die Uhrzeit gehört geschlafen.^[Attested online at <https://www.motor-talk.de/forum/empire-bikes-und-klaus-huelsmann-t3208043.html?page=7>, accessed 16 June 2021]
 :::
 
-### [ NP | –P ] *gehören + Partizip* Impersonal passive + governed preposition
+### [ NP | –P ] *gehören+Partizip* Impersonal passive+governed preposition
 
-Impersonal passive constructions with a governed preposition are attested with the light-verb *gehören* [@next]. Basically the same verbs that occur with *werden + Partizip* can also occur with *gehören + Partizip* (see [@sec:participles-impersonal-passive-preposition]), though more detailed study is necessary.
+Impersonal passive constructions with a governed preposition are attested with the light-verb *gehören* [@next]. Basically the same verbs that occur with *werden+Partizip* can also occur with *gehören+Partizip* (see [@sec:participles-impersonal-passive-preposition]), though more detailed study is necessary.
 
 ::: ex
 - Ich kämpfe gegen den Feind. \
@@ -1502,9 +1502,9 @@ Impersonal passive constructions with a governed preposition are attested with t
 
 - *diskutieren, kämpfen, streiten*
 
-### [ ND | –D ] *gehören + Partizip* Impersonal passive + dative
+### [ ND | –D ] *gehören+Partizip* Impersonal passive+dative
 
-Impersonal passives with a dative are widespread with the light-verb *gehören* [@next]. Such examples were already included in one of the first discussions of the *gehoren + Partizip* Passive [@reis1976: 70].
+Impersonal passives with a dative are widespread with the light-verb *gehören* [@next]. Such examples were already included in one of the first discussions of the *gehoren+Partizip* Passive [@reis1976: 70].
 
 ::: ex
 - Ich helfe dem Studenten. \
@@ -1520,11 +1520,11 @@ Impersonal passives with a dative are widespread with the light-verb *gehören* 
 
 ### --- [ OBJ > SBJ > Ø ] --- *Antikausativ* {.unnumbered}
 
-### [ NA | –N ] *bleiben + Partizip* Anticausative (*Kontinuativantikausativ*) {#sec:participles-bleiben-transitive}
+### [ NA | –N ] *bleiben+Partizip* Anticausative (*Kontinuativantikausativ*) {#sec:participles-bleiben-transitive}
 
-The construction *bleiben + Partizip* is both used with intransitive verbs (see [@sec:participles-bleiben-intransitive]) and with transitive verbs (this section). The verb *bleiben* has even more uses as a light verb (see [@sec:infinitive-bleiben; sec:zuinfinitive-bleiben]) and it can also be used as a main verb with a meaning 'to remain'. This widespread usage has lead to quite some discussion in the German grammatical literature about the unity of all these constructions [@eroms2000: 404; @helbig2001: 163; @kramer2004; @schlucker2007: 152; @lasch2016: 72]. Following the general approach in this book, all constructions are discussed separately. However, this is no way precludes any underlying connection between them.
+The construction *bleiben+Partizip* is both used with intransitive verbs (see [@sec:participles-bleiben-intransitive]) and with transitive verbs (this section). The verb *bleiben* has even more uses as a light verb (see [@sec:infinitive-bleiben; sec:zuinfinitive-bleiben]) and it can also be used as a main verb with a meaning 'to remain'. This widespread usage has lead to quite some discussion in the German grammatical literature about the unity of all these constructions [@eroms2000: 404; @helbig2001: 163; @kramer2004; @schlucker2007: 152; @lasch2016: 72]. Following the general approach in this book, all constructions are discussed separately. However, this is no way precludes any underlying connection between them.
 
-The name *Kontinuativantikausativ* for the transitive *bleiben + Partizip* construction is inspired by Helbig & Buscha [-@helbig2001: 163]. This construction is closely related to the stative *sein + Partizip* (see [@sec:participles-sein-zustandspassiv]), but adds a notion of continuation [@next a]. However, there are various further important differences between these two construction. First, because of the continuative semantics, a stacked Perfect ist not possible with *bleiben + Partizip* [@next b]. Second, *bleiben + Partizip* does not appear to allow for the retention of the agent, so it is truly an anticausative [@next c]. 
+The name *Kontinuativantikausativ* for the transitive *bleiben+Partizip* construction is inspired by Helbig & Buscha [-@helbig2001: 163]. This construction is closely related to the stative *sein+Partizip* (see [@sec:participles-sein-zustandspassiv]), but adds a notion of continuation [@next a]. However, there are various further important differences between these two construction. First, because of the continuative semantics, a stacked Perfect ist not possible with *bleiben+Partizip* [@next b]. Second, *bleiben+Partizip* does not appear to allow for the retention of the agent, so it is truly an anticausative [@next c]. 
 
 ::: ex
 - Die Tür bleibt geöffnet. \
@@ -1535,7 +1535,7 @@ The name *Kontinuativantikausativ* for the transitive *bleiben + Partizip* const
   Die Tür ist geöffnet durch den Wind.
 :::
 
-Third, *bleiben + Partizip* is only possible with a small subset of all verbs that allow for *sein + Partizip* [@next]. Helbig & Buscha [-@helbig2001: 163] also offer an explanation for the restricted applicability of this construction. They propose that only verbs that describe reversible events allow for this diathesis.
+Third, *bleiben+Partizip* is only possible with a small subset of all verbs that allow for *sein+Partizip* [@next]. Helbig & Buscha [-@helbig2001: 163] also offer an explanation for the restricted applicability of this construction. They propose that only verbs that describe reversible events allow for this diathesis.
 
 ::: ex
 - ^* Das Buch bleibt geschrieben
@@ -1553,7 +1553,7 @@ Third, *bleiben + Partizip* is only possible with a small subset of all verbs th
 - Der Fußballer bleibt verwarnt
 - Das Fass bleibt gefüllt.
 
-### [ NA | –N ] *scheinen/erscheinen + Partizip* Anticausative (*Inferenzantikausativ*) {#sec:participles-scheinen-anticausative}
+### [ NA | –N ] *scheinen/erscheinen+Partizip* Anticausative (*Inferenzantikausativ*) {#sec:participles-scheinen-anticausative}
 
 The light verbs *scheinen* and *erscheinen* can be used with participles in monoclausal constructions. With intransitive verbs these light verbs do not induce any diathesis (see [@sec:participles-scheinen-intransitive]). In contrast, with transitive verbs these constructions result in an anticausative diathesis [@next]. Such constructions are analysed by Lasch [-@lasch2016: 253ff.] as *Askription mit modaler Relation*. However, inspired by the analysis by Diewald & Smirnova [@diewald2010: 177-191] it seems better to consider these expression as marking inferential evidence. As a German name I propose to use the term ~~Inferenzantikausativ~~.
 
@@ -1571,7 +1571,7 @@ The retention of the agent using a *von* phrase appears to be possible, though e
 - Sein Gesicht erschien mir vertrocknet.^[Lasch 2016, citing DWDS: Blos, Wilhelm, Denkwürdigkeiten eines Sozialdemokraten, Band 1, München: G. Birk, 1914., S. 9306]
 :::
 
-The light verb *scheinen* can also occur with an extra *zu sein* construction [@next], which is analysed here as a stack of a *sein + Partizip* Perfect (see [@sec:participles-sein-perfect]) with a *scheinen + zu‑Infinitiv* construction (see [@sec:zuinfinitive-scheinen]). The two examples in [@next b,c] are thus two different constructions, though the semantic difference needs a deeper investigation. 
+The light verb *scheinen* can also occur with an extra *zu sein* construction [@next], which is analysed here as a stack of a *sein+Partizip* Perfect (see [@sec:participles-sein-perfect]) with a *scheinen+zu‑Infinitiv* construction (see [@sec:zuinfinitive-scheinen]). The two examples in [@next b,c] are thus two different constructions, though the semantic difference needs a deeper investigation. 
 
 ::: ex
 a. Der Gast reist ab.
@@ -1586,7 +1586,7 @@ The following attested verbs are only illustrative examples taken from the data 
 - *scheinen* : *abschließen, andeuten, anordnen, aufführen, aufgeben, aufheben, auflösen, aufrufen, aufzeichnen, ausschalten, ausschließen, beabsichtigen, beenden, begeistern, begründen, beseitigen, bestehlen, bestimmen, betreffen, einbetten, entfernen, entleihen, entscheiden, enttäuschen, erfinden, erledigen, erlöschen, erreichen, erschöpfen, falsifizieren, fassen, gebieten, hüllen, klären, lösen, machen, niederdrücken, retten, schließen, sichern, stützen, treffen, treiben, überfordern, überstehen, überwinden, überzeugen, umwittern, verbinden, verbreiten, verlieren, verstören, verwirklichen, vorzeichnen, wagen, wählen, würdigen, ziehen*
 - *erscheinen* : *abschließen, anpassen, anzeigen, aufhängen, ausschalten, ausschließen, bedrohen, begrenzen, belasten, beziehen, binden, färben, geben, gefährden, kompromittieren, machen, rechtfertigen, sichern, verändern, verbinden*
 
-### [ NA | –N ] *aussehen/wirken + Partizip* Anticausative (*Sinnesantikausativ*) {#sec:participles-wirken-anticausative}
+### [ NA | –N ] *aussehen/wirken+Partizip* Anticausative (*Sinnesantikausativ*) {#sec:participles-wirken-anticausative}
 
 The verbs *aussehen* and *wirken* (both meaning 'to appear, to look') can be used with participles in monoclausal constructions. With intransitive verbs these light verbs do not induce any diathesis (see [@sec:participles-wirken-intransitive]). In contrast, with transitive verbs like *quälen* 'to agonise' [@next a] or *verändern* 'to change' [@next b] these constructions result in an anticausative diathesis. 
 
@@ -1628,9 +1628,9 @@ The following attested verbs are only illustrative examples taken from the data 
 - *aussehen* : *absperren, abtragen, angreifen, anregen, anstrengen, ausschlagen, ausstopfen, begehen, bekümmern, beschädigen, besetzen, drucken, durchleiden, einengen, einrichten, entäuschen, entzücken, erhitzen, erschöpfen, handhaben, herstellen, improvisieren, knicken, marmorieren, miederschlagen, missgestalten, mitnehmen, möblieren, nähren, narkotisieren, pflegen, stechen, überwachen, verändern, verarbeiten, verbrennen, verjüngen, verlieren, vernichten, verschmutzen, verstören, verwüsten, vollenden, zerkratzen, zerquälen, zerrupfen, zerstreuen, zerzausen, zwingen*
 - *wirken* : *ankleben, ankreiden, anspannen, aufmalen, auszeichnen, blockieren, darstellen, deplatzieren, deprimieren, entkrampfen, erleichtern, ermatten, hacken, kalkulieren, konstruieren, machen, pflegen, planen, quälen, rupfen, schreiben, stressen, überladen, übertreiben, verändern, verbergen, verfehlen, verkümmern, verlieren, verschließen, verstören, verzerren, zeichnen, zerfetzen, zersplittern, zurechstützen, zusammenhauen, zusammensuchen*
 
-### [ NA | –N ] *geben/zeigen + Partizip* Reflexive anticausative (*Präsentativantikausativ*) {#sec:participles-geben-reflexive-anticausative}
+### [ NA | –N ] *geben/zeigen+Partizip* Reflexive anticausative (*Präsentativantikausativ*) {#sec:participles-geben-reflexive-anticausative}
 
-The diatheses *geben + Partizip* [@next a] and *zeigen + Partizip* [@next b] obligatorily need a reflexive pronoun. Both construction induce an anticausative diathesis in which the original agent cannot be retained. Semantically these two constructions are also rather similar as they both express a consciously induced appearance.
+The diatheses *geben+Partizip* [@next a] and *zeigen+Partizip* [@next b] obligatorily need a reflexive pronoun. Both construction induce an anticausative diathesis in which the original agent cannot be retained. Semantically these two constructions are also rather similar as they both express a consciously induced appearance.
 
 ::: ex
 - Die Musik entspannt ihn. \
@@ -1653,7 +1653,7 @@ This construction typically occurs with 'state-of-mind' verbs. Though note that 
 
 - Er gibt sich geschlagen/besiegt/gewonnen.
 
-### [ NA | –N ] *stehen + Partizip* Anticausative
+### [ NA | –N ] *stehen+Partizip* Anticausative
 
 Some instances of *stehen* with a participle appear to have an anticausative effect. However, such examples are quite rare and also rather idiomatic [@next].
 
@@ -1680,9 +1680,9 @@ b. Die Worte stehen auf der Titelseite geschrieben.
 - Vielleicht auch, weil er weiß, dass die Truppen hinter ihm nicht geschlossen stehen.^[~~DWDS~~: Berliner Zeitung, 12.10.2004.]
 - Wenn die SPD nicht geschlossen stehe, werde es schwierig, den Wahlkampf durchzustehen.^[~~DWDS~~: Die Zeit, 29.09.2012, Nr. 40.]
 
-### [ NA | –N ] *gehen + Partizip* Anticausative
+### [ NA | –N ] *gehen+Partizip* Anticausative
 
-The construction *gehen + Partizip* appears to be only possible in very few examples, like with *verlieren* 'to lose' [@next]. The retention of the agent as a dative is sometimes possible, but seems to be rather old-fashioned [@next b].
+The construction *gehen+Partizip* appears to be only possible in very few examples, like with *verlieren* 'to lose' [@next]. The retention of the agent as a dative is sometimes possible, but seems to be rather old-fashioned [@next b].
 
 ::: ex
 a. Ich verliere den Ring.
@@ -1710,9 +1710,9 @@ b. Er geht gebückt.
 
 ### --- [ OBJ > SBJ > ADJ ] --- *Passiv* {.unnumbered}
 
-### [ NA | pN ] *werden + Partizip* Passive (*Vorgangspassiv*) {#sec:participles-werden-passive}
+### [ NA | pN ] *werden+Partizip* Passive (*Vorgangspassiv*) {#sec:participles-werden-passive}
 
-The *werden + Partizip* ~~Vorgangspassiv~~ is the quintessential diathesis according to typical textbooks on German grammar. This diathesis promotes an accusative to nominative and (optionally) retains the original nominative as a prepositional *durch* or *von* phrase [@next]. Any further arguments (like datives or governed prepositions) are simply retained [@next c,d].
+The *werden+Partizip* ~~Vorgangspassiv~~ is the quintessential diathesis according to typical textbooks on German grammar. This diathesis promotes an accusative to nominative and (optionally) retains the original nominative as a prepositional *durch* or *von* phrase [@next]. Any further arguments (like datives or governed prepositions) are simply retained [@next c,d].
 
 ::: ex
 - Der Handwerker hat das Haus angemalt.
@@ -1721,7 +1721,7 @@ The *werden + Partizip* ~~Vorgangspassiv~~ is the quintessential diathesis accor
 - Der Schrank wird mir (von ihm) geschenkt.
 :::
 
-A verb peculiar constructions occurs when a Perfect ist stacked on top of a *werden* passive. The verb *werden* takes a *sein + Parizip* Perfect (see [@sec:participles-sein-perfect]), but the participle of *werden* in this Perfect construction is the idiosyncratic wordform *worden* and not the expected *geworden* [@next a]. This seems to be the only place in German in which the wordform *worden* is used. Note that it is easy to find examples of *geworden* as well [@next b,c], but the constructions with *worden* seems to be much more frequent. It is unclear whether there is any difference between the use of *worden* and *geworden* in this context.
+A verb peculiar constructions occurs when a Perfect ist stacked on top of a *werden* passive. The verb *werden* takes a *sein+Parizip* Perfect (see [@sec:participles-sein-perfect]), but the participle of *werden* in this Perfect construction is the idiosyncratic wordform *worden* and not the expected *geworden* [@next a]. This seems to be the only place in German in which the wordform *worden* is used. Note that it is easy to find examples of *geworden* as well [@next b,c], but the constructions with *worden* seems to be much more frequent. It is unclear whether there is any difference between the use of *worden* and *geworden* in this context.
 
 ::: ex
 - Die Tür ist geschlossen worden.
@@ -1729,9 +1729,9 @@ A verb peculiar constructions occurs when a Perfect ist stacked on top of a *wer
 - Als die Krise in ihrer ganzen Dimension erkannt geworden sei, habe die Regierung gut reagiert.^[~~DWDS~~: Die Zeit, 06.04.2015, Nr. 13]
 :::
 
-This *werden* passive typically occurs with transitive verbs with an accusative argument, though it is also frequently attested as an 'impersonal' passive with intransitive verbs (see [@sec:participles-werden-impersonal-passive]). Also some nominative + dative verbs allow for such an impersonal passive (see [@sec:participles-impersonal-passive-dative]). Reflexive pronouns in the accusative case do not count as an accusative arguments, as they will never be promoted to nominative subject. Some verbs with an accusative reflexive pronoun allow for an impersonal passive (see [@sec:participles-werden-impersonal-passive]).
+This *werden* passive typically occurs with transitive verbs with an accusative argument, though it is also frequently attested as an 'impersonal' passive with intransitive verbs (see [@sec:participles-werden-impersonal-passive]). Also some nominative+dative verbs allow for such an impersonal passive (see [@sec:participles-impersonal-passive-dative]). Reflexive pronouns in the accusative case do not count as an accusative arguments, as they will never be promoted to nominative subject. Some verbs with an accusative reflexive pronoun allow for an impersonal passive (see [@sec:participles-werden-impersonal-passive]).
 
-However, note that not all (nominative/accusative) transitive verbs allow for this *werden + Partizip* passive diathesis. For example, this diathesis is not possible for various verbs that also have a reflexive conversive diathesis (see [@sec:reflexive-preposition-passive]), like *wundern* 'to wonder' [@next]. The passive is also not possible with verbs with obligatory quantified object (see [@sec:case-quantified-objects]), like *wiegen* 'to weight' [@nnext]. Also verbs of possession, like *besitzen* 'to possess' [@nnnext] do not allow for a passive.
+However, note that not all (nominative/accusative) transitive verbs allow for this *werden+Partizip* passive diathesis. For example, this diathesis is not possible for various verbs that also have a reflexive conversive diathesis (see [@sec:reflexive-preposition-passive]), like *wundern* 'to wonder' [@next]. The passive is also not possible with verbs with obligatory quantified object (see [@sec:case-quantified-objects]), like *wiegen* 'to weight' [@nnext]. Also verbs of possession, like *besitzen* 'to possess' [@nnnext] do not allow for a passive.
 
 ::: ex
 - Sein Verhalten wundert mich.
@@ -1750,33 +1750,33 @@ However, note that not all (nominative/accusative) transitive verbs allow for th
 
 **Unattested Verbs**
 
-The *werden + Partizip* passive is possible with most verbs that take an accusative argument, except for the following ones:
+The *werden+Partizip* passive is possible with most verbs that take an accusative argument, except for the following ones:
 
 - Verbs with obligatory quantified objects ([@sec:case-quantified-objects]): *dauern, enthalten, kosten, messen, rechnen, sparen, umfassen, wachsen, wiegen, zunehmen*
 - Verbs with reflexive conversive ([@sec:reflexive-preposition-passive]): *bekümmern, entwickeln, ergeben, empören, erstaunen, interessieren, freuen, kümmern, wundern*
 - Verbs of possession: *bekommen, besitzen, erhalten, kriegen*
 - Other verbs without passive: *kennen, schmerzen (traurig machen, mit Akkusativ)*
 
-### [ NA | pN ] *sein + Partizip* Passive (*Zustandspassiv*) {#sec:participles-sein-zustandspassiv}
+### [ NA | pN ] *sein+Partizip* Passive (*Zustandspassiv*) {#sec:participles-sein-zustandspassiv}
 
-The second most widely discussed diathesis in the German grammatical literature (closely after the *werden + Partizip* passive) is the *sein + Partizip* ~~Zustandspassiv~~ [@nedjalkov1988a; @rapp1996; @maienborn2007, just to cite a few major contributions to this topic]. There is a long and ongoing discussion whether this construction should be considered a separate construction in its own right or not (see [@sec:participle-different-diatheses]). Following the discussion by Maienborn [-@maienborn2007] I will treat it as a separate construction here. The agent can optionally be retained, though with difficulty as with most passives.
+The second most widely discussed diathesis in the German grammatical literature (closely after the *werden+Partizip* passive) is the *sein+Partizip* ~~Zustandspassiv~~ [@nedjalkov1988a; @rapp1996; @maienborn2007, just to cite a few major contributions to this topic]. There is a long and ongoing discussion whether this construction should be considered a separate construction in its own right or not (see [@sec:participle-different-diatheses]). Following the discussion by Maienborn [-@maienborn2007] I will treat it as a separate construction here. The agent can optionally be retained, though with difficulty as with most passives.
 
 ::: ex
 - Der Postbote öffnet den Brief.
 - Der Brief ist schon (von dem Postboten) geöffnet.
 :::
 
-Crucially, there is an important difference between the *sein + Partizip* [@next a] and the *sein + Partizip + worden* constructions [@next b]. These are sometimes seen as free-choice alternatives, but they are clearly not interchangeable [cf. @maienborn2007]. The construction with *worden* is best analysed as a stack of a *werden + Partizip* Passive plus on top of that a *sein + Partizip* Perfect (with the special stipulation that the *sein + Partizip* Perfect of *werden* leads to an idiosyncratic participle *worden*, see [@sec:participles-werden-passive]).
+Crucially, there is an important difference between the *sein+Partizip* [@next a] and the *sein+Partizip+worden* constructions [@next b]. These are sometimes seen as free-choice alternatives, but they are clearly not interchangeable [cf. @maienborn2007]. The construction with *worden* is best analysed as a stack of a *werden+Partizip* Passive plus on top of that a *sein+Partizip* Perfect (with the special stipulation that the *sein+Partizip* Perfect of *werden* leads to an idiosyncratic participle *worden*, see [@sec:participles-werden-passive]).
 
 ::: ex
 - Der Brief ist geöffnet.
 - Der Brief ist geöffnet worden. \
   = Jemand öffnet den Brief. \
-  +> *werden + Partizip* Passiv (= Der Brief wird geöffnet.) \
-  +> *sein + Partizip* Perfect (= Der Brief ist geöffnet worden.)
+  +> *werden+Partizip* Passiv (= Der Brief wird geöffnet.) \
+  +> *sein+Partizip* Perfect (= Der Brief ist geöffnet worden.)
 :::
 
-The two constructions (with and without *worden*) have different temporal structures (see [@sec:participles-temporal-interpretation]). Crucially, the *sein + Partizip* ~~Zustandspassiv~~ [@next a] has a resultative meaning, which is consistent with a durative past temporal adverbial like *schon seit zwei Tagen* [@next b] but not with a past punctual adverbial like *vor zwei Tagen* or *gestern* [@next c]. In contrast, the *werden + Partizip* Passive plus *sein + Partizip* Perfect [@nnext a] has a completive meaning with a reversed temporal interpretation [@nnext b,c].
+The two constructions (with and without *worden*) have different temporal structures (see [@sec:participles-temporal-interpretation]). Crucially, the *sein+Partizip* ~~Zustandspassiv~~ [@next a] has a resultative meaning, which is consistent with a durative past temporal adverbial like *schon seit zwei Tagen* [@next b] but not with a past punctual adverbial like *vor zwei Tagen* or *gestern* [@next c]. In contrast, the *werden+Partizip* Passive plus *sein+Partizip* Perfect [@nnext a] has a completive meaning with a reversed temporal interpretation [@nnext b,c].
 
 ::: ex
 - Ich öffne den Brief.
@@ -1807,7 +1807,7 @@ Still, there are some transitive verbs that do not appear to allow a *Zustandspa
 
 **Unattested Verbs**
 
-The following verbs with accusative arguments do not seem to allow for a *sein + partizip* Passive:
+The following verbs with accusative arguments do not seem to allow for a *sein+partizip* Passive:
 
 - *drücken (sorgen machen), feiern, fühlen, hören, kennen, kümmern, legen, lohnen, merken, mögen, passen, quälen, riechen, schmecken, schätzen (hochachter), sehen, setzen, stecken, verlangen, wissen, zeigen, zwicken*
 - Alternation with prefixes: *ärgern (verärgern), brauchen (verbrauchen), ekeln (anekeln), freuen (erfreuen), hassen (verhassen), heiraten (verheiraten), kratzen (zerkratzen), wundern (verwundern)*
@@ -1844,7 +1844,7 @@ The following verbs with accusative arguments do not seem to allow for a *sein +
 
 **Notes**
 
-Some verbs have a *sein + Partizip* diathesis, but only with a rather strong semantic shift in the meaning of the verb. For example, *anhalten* means 'to stop', but *angehalten sein* means 'to be admonished' [@next a]. Likewise, *stören* means 'to disturb,', but *gestört sein* means 'to be crazy' [@next b] and *ergeben* means 'to yield', but *ergeben sein* means *to be devoted to* [@next c].
+Some verbs have a *sein+Partizip* diathesis, but only with a rather strong semantic shift in the meaning of the verb. For example, *anhalten* means 'to stop', but *angehalten sein* means 'to be admonished' [@next a]. Likewise, *stören* means 'to disturb,', but *gestört sein* means 'to be crazy' [@next b] and *ergeben* means 'to yield', but *ergeben sein* means *to be devoted to* [@next c].
 
 ::: ex
 - Ich halte den Bus an. \
@@ -1855,9 +1855,9 @@ Some verbs have a *sein + Partizip* diathesis, but only with a rather strong sem
   Ich weiß aber, daß Herr Dulles dem Frieden ergeben ist.^[~~DWDS~~: Archiv der Gegenwart, 2001 [1956]]
 :::
 
-### [ NA | pN ] *gehören + Partizip* Passive (*Normpassiv*) {#sec:participles-gehoren-anticausative}
+### [ NA | pN ] *gehören+Partizip* Passive (*Normpassiv*) {#sec:participles-gehoren-anticausative}
 
-The *gehören + Partizip* passive adds a normative aspect to the meaning of the passive. It expresses that something ought to happen. An early (short) discussion of this construction is given by Reis [-@reis1976: 70] and Höhle [-@hohle1978: 50-51], with slightly more elaboration in Engel [-@engel1996: 458], Eroms [-@eroms2000: 405-412] and Szátmari [-@szatmari2002: 179-182]. More recent discussions are found in Stathi [-@stathi2010] and Lasch [-@lasch2016: 84ff.]. This construction is widespread for transitive verbs like *verbrennen* 'to burn something' [@next a]. Any further arguments can be retained, like the dative *ihm* 'to him' with the verb *sagen* 'to say' [@next b]. The retention of the agent with a prepositional phrase seems to be perfectly possible [@next c], although not frequent.^[There are no examples of *gehören + Partizip* with a retained agent in the corpus compiled by Lasch [-@lasch2016], see <https://goo.gl/VPJbAb>. Höhle claims that the retention of the agent ist not possible [-@hohle1978: 50-51], though his examples seem perfectly acceptable to me.]
+The *gehören+Partizip* passive adds a normative aspect to the meaning of the passive. It expresses that something ought to happen. An early (short) discussion of this construction is given by Reis [-@reis1976: 70] and Höhle [-@hohle1978: 50-51], with slightly more elaboration in Engel [-@engel1996: 458], Eroms [-@eroms2000: 405-412] and Szátmari [-@szatmari2002: 179-182]. More recent discussions are found in Stathi [-@stathi2010] and Lasch [-@lasch2016: 84ff.]. This construction is widespread for transitive verbs like *verbrennen* 'to burn something' [@next a]. Any further arguments can be retained, like the dative *ihm* 'to him' with the verb *sagen* 'to say' [@next b]. The retention of the agent with a prepositional phrase seems to be perfectly possible [@next c], although not frequent.^[There are no examples of *gehören+Partizip* with a retained agent in the corpus compiled by Lasch [-@lasch2016], see <https://goo.gl/VPJbAb>. Höhle claims that the retention of the agent ist not possible [-@hohle1978: 50-51], though his examples seem perfectly acceptable to me.]
 
 ::: ex
 - Er verbrennt diese Buch. \
@@ -1876,7 +1876,7 @@ Various authors have listed verbs that allow for this construction. As examples,
 - Examples from [@stathi2010: 335]: *ablösen, abreißen, abschaffen, abschieben, abwählen, aufhängen, auflösen, ausmerzen, ausmustern, auspeitschen, aussortieren, austauschen, auswechseln, ausweisen, ausrotten, bedrohen, bestrafen, beschränken, beseitigen, bombardieren, diffamieren, disqualifizieren, einsperren, einschränken, eliminieren, entlassen, erschießen, hinrichten, kontrollieren, kritisieren, rausschmeißen, rauswerfen, schlachten, schlagen, schließen, steinigen, überwachen, umbringen, verbannen, verbieten, verhaften, vernichten, verprügeln, wegjagen, wegsperren*
 - Examples from [@lasch2016: 452]: *abbauen, ablösen, anreichern, absagen, abschaffen, abschneiden, abwählen, ändern, aufarbeiten, aufhängen, auflösen, aufnehmen, ausbauen, ausmerzen, ausschließen, aussortieren, beenden, begründen, beseitigen, besiegen, besteuern, bestrafen, diskutieren, eindämmen, einsperren, entkriminalisieren, entlassen, erschießen, ersetzen, erzählen, hauen, jäten, kappen, melken, nehmen, privatisieren, reformieren, schicken, schließen, schnallen, schützen, setzen, sprengen, stellen, streichen, testen, therapieren, trennen, überprüfen, übersetzen, umwenden, untersagen, verbieten, verbrennen, vergasen, verlachen, vertiefen, vertreiben, verweisen, ziehen*
 
-### [ NA | pN ] *machen + Partizip* Reflexive passive {#sec:participles-machen-reflexive-passive}
+### [ NA | pN ] *machen+Partizip* Reflexive passive {#sec:participles-machen-reflexive-passive}
 
 This is yet another diathesis involving the light verb *machen*, this time with an obligatory reflexive pronoun.
 
@@ -1895,7 +1895,7 @@ b. Er macht sich bei der Polizei verdächtigt.
 
 **Notes**
 
-There are various *machen + sich + Partizip* constructions that do not appear to be transparently related anymore to the finite usage of the main verb [@next].
+There are various *machen+sich+Partizip* constructions that do not appear to be transparently related anymore to the finite usage of the main verb [@next].
 
 ::: ex
 - Ich mache mich auf alles gefasst.
@@ -1905,7 +1905,7 @@ There are various *machen + sich + Partizip* constructions that do not appear to
 
 ### --- [ OBJ > SBJ > ADJ ] --- *Dativ Passiv* {.unnumbered}
 
-### [ ND | pN ] *bekommen/kriegen/erhalten + Partizip* Intransitive dative passive {#sec:participles-intransitive-bekommen-passive}
+### [ ND | pN ] *bekommen/kriegen/erhalten+Partizip* Intransitive dative passive {#sec:participles-intransitive-bekommen-passive}
 
 The *bekommen* dative passive is typically found with verbs with a dative that also have an accusative argument (see [@sec:participles-bekommen-passive]). Leirbukt [-@leirbukt1997: 64-67] only finds a single example without accusative in his corpus, but he lists various examples as presented by other authors. Examples with verbs like *helfen* 'to help' are questionable [@next a,b], but are widely attesed inside a modal constructions [@next c].
 
@@ -1925,7 +1925,7 @@ The *bekommen* dative passive is typically found with verbs with a dative that a
 - Auf diesem Wege möchte man gerne zum Geburtstag gratuliert bekommen.^[Attested online at <https://www.tafeldeko.de/news/geburtstagsgruesse-viele-moeglichkeiten-zu-gratulieren/>, accessed 16 July 2021.]
 - besonders aber hat Madame Lortzing die Schmeichelscenen mit dem Vater so schön und gut gespielt, daß sie bei jeder Scene hat applaudirt bekommen.^[Gräf, Hans Gerhard (ed.) *Goethes Ehe in Briefen* p. 401, available online <https://books.google.de/books?id=vehYBQAAQBAJ&pg=PA401-IA2>, accessed 16 July 2021.]
 
-### [ NDA | pNA ] *bekommen/kriegen/erhalten + Partizip* Dative passive (*Rezipientenpassiv*) {#sec:participles-bekommen-passive}
+### [ NDA | pNA ] *bekommen/kriegen/erhalten+Partizip* Dative passive (*Rezipientenpassiv*) {#sec:participles-bekommen-passive}
 
 The dative passive is widely discussed in the German grammatical literature under the name *Rezipientenpassiv*. Leirbukt* [-@leirbukt1997] presents a major monograph-sized investigation of this construction. This diathesis promotes the dative argument to nominative subject. For example, the dative *dem Schüler* of the verb *abnehmen* 'to take away' [@next a] is remapped to nominative *der Schüler* [@next b]. As with all passives, the original agent can be expressed with a *von* or *durch* prepositional phrase, though this is uncommon. Leirbukt [-@leirbukt1997: 130] finds 10-20% expressed agents, most using *von*, and almost all being semantically animate.
 
@@ -1947,9 +1947,9 @@ The choice between the light verbs *bekommen*, *kriegen* and *erhalten* does not
 - Sie schneidet ihm die Haare. \
   Er bekommt die Haare geschnitten.
 
-### [ NDA | pNA ] *haben + Partizip* Possessor passive (*Pertinenzpassiv*) {#sec:participles-haben-passive}
+### [ NDA | pNA ] *haben+Partizip* Possessor passive (*Pertinenzpassiv*) {#sec:participles-haben-passive}
 
-Transitive verbs that allow for a possessor-dative alternation (see [@sec:case-possessor-accusative-to-dative]) can be used in a very special *haben + Partizip* diathesis. For example, the possessor of the object of a verb like *reparieren* 'to repair' [@next a] can alternatively be expressed as a dative [@next b]. This dative can be promoted to subject in a *haben + Partizip* construction [@next c]. I propose to call this construction *Pertinenzpassiv*. Sentence [@next c] is highly ambiguous with a preference for the epithetical agentive reading 'I have repaired the computer' (*Perfekt*), so it needs a special context to be understood in the intended diathetical experiencer meaning 'The computer has been repaired on my behalf' (*Pertinenzpassiv*). As extensively discussed by Leirbukt [@leirbukt2000], inside a modal construction the diathetical reading is the preferred one, for example using *wollen*, 'to want' [@next d].
+Transitive verbs that allow for a possessor-dative alternation (see [@sec:case-possessor-accusative-to-dative]) can be used in a very special *haben+Partizip* diathesis. For example, the possessor of the object of a verb like *reparieren* 'to repair' [@next a] can alternatively be expressed as a dative [@next b]. This dative can be promoted to subject in a *haben+Partizip* construction [@next c]. I propose to call this construction *Pertinenzpassiv*. Sentence [@next c] is highly ambiguous with a preference for the epithetical agentive reading 'I have repaired the computer' (*Perfekt*), so it needs a special context to be understood in the intended diathetical experiencer meaning 'The computer has been repaired on my behalf' (*Pertinenzpassiv*). As extensively discussed by Leirbukt [@leirbukt2000], inside a modal construction the diathetical reading is the preferred one, for example using *wollen*, 'to want' [@next d].
 
 ::: ex
 a. Der erfahrene Techniker hat meinen Rechner repariert.
@@ -1969,7 +1969,7 @@ c. Ich will den Rechner von dem erfahrenen Techniker repariert haben.
 
 It is crucial for this *Pertinenzpassiv* that the possessor of the accusative can be expressed alternatively as a dative. It is exactly the set of those verbs that allow for such a *Pertinenzdativ* that also allow for a *Pertinentzpassiv*. It is neither all datives, nor all possessors, that allow for a *Pertinentzpassiv* [@hole2002: 175-177]. This interpretation is only available when both dative and possessor expressions are possible. Additionally, the *Pertinenzpassiv* is most easily applied with verbs that are typically outsourced, i.e. verbs that describe actions that are often performed by somebody else, i.e. *reparieren* 'to repair', *die Haare schneiden* 'to cut hair' or *den Arm brechen* 'to break an arm'.
 
-There are various tests to identify *haben + Partizip* construction as a diathesis. Businger [-@businger2017: 160-171] presents an extensive discussion of such criteria. I will present only two (major) criteria here. First, the two interpretation of the *haben + Partizip* constructions have different temporal interpretations (see [@sec:participles-temporal-interpretation]). The epithetical Perfekt is tense-oriented [@next a], while the diathetical experiencer interpretation is perfect-oriented [@next b]. This difference can be shown by adding temporal adverbial phrases. The punctual past *gestern* 'yesterday' invokes an epithetical reading [@next a], while a durative perfect *seit drei Tagen* 'since three days' invokes a diathetical reading [@next b].
+There are various tests to identify *haben+Partizip* construction as a diathesis. Businger [-@businger2017: 160-171] presents an extensive discussion of such criteria. I will present only two (major) criteria here. First, the two interpretation of the *haben+Partizip* constructions have different temporal interpretations (see [@sec:participles-temporal-interpretation]). The epithetical Perfekt is tense-oriented [@next a], while the diathetical experiencer interpretation is perfect-oriented [@next b]. This difference can be shown by adding temporal adverbial phrases. The punctual past *gestern* 'yesterday' invokes an epithetical reading [@next a], while a durative perfect *seit drei Tagen* 'since three days' invokes a diathetical reading [@next b].
 
 ::: ex
 - Ich habe den Rechner gestern repariert. \
@@ -2000,7 +2000,7 @@ Hole [-@hole2002: 177] claims that [@next a] without different subject (*Der Che
 - Der Chef will gerne Annas/sein Fenster geöffnet haben.
 :::
 
-There is a long scholarly history describing this experiencer reading of the *haben + Partizip* construction [e.g. @kruisinga1935: 122; @bech1955: 20-21; @stopp1957: 278; @seiler1973: 842-843; @latzel1977a: 289; @helbig1978: 42-43; @hohle1978: 46; @eroms2000: 395-396, 420-421]. The first more in-depth discussion is by Leirbukt [-@leirbukt1981; -@leirbukt2000], followed by Hole [-@hole2002], Rothstein [-@rothstein2007], and most recently Lasch [-@lasch2016: 87ff.] and Businger [-@businger2017: Ch. 4]. In the recent literature following Hole [-@hole2002], this construction is known as the ~~Partizipiale *haben*-Konfiguration (PHK)~~. I find this name rather cumbersome and uninformative. Alternatively, I propose to call this construction ~~Pertinenzpassiv~~ as there is an strong connection to the *Pertinenzdativ* (see [@sec:case-possessor-accusative-to-dative]) and the *Rezipientenpassiv* (see [@sec:participles-bekommen-passive]).
+There is a long scholarly history describing this experiencer reading of the *haben+Partizip* construction [e.g. @kruisinga1935: 122; @bech1955: 20-21; @stopp1957: 278; @seiler1973: 842-843; @latzel1977a: 289; @helbig1978: 42-43; @hohle1978: 46; @eroms2000: 395-396, 420-421]. The first more in-depth discussion is by Leirbukt [-@leirbukt1981; -@leirbukt2000], followed by Hole [-@hole2002], Rothstein [-@rothstein2007], and most recently Lasch [-@lasch2016: 87ff.] and Businger [-@businger2017: Ch. 4]. In the recent literature following Hole [-@hole2002], this construction is known as the ~~Partizipiale *haben*-Konfiguration (PHK)~~. I find this name rather cumbersome and uninformative. Alternatively, I propose to call this construction ~~Pertinenzpassiv~~ as there is an strong connection to the *Pertinenzdativ* (see [@sec:case-possessor-accusative-to-dative]) and the *Rezipientenpassiv* (see [@sec:participles-bekommen-passive]).
 
 The possibility of this diathesis without accusative object is observed by Rothstein [-@rothstein2007: 295-296], but his examples (*öffnen, schließen*) are not applicable, because they also occur as intransitives [@next]. Those verbs are covert anticausatives, see [@sec:case-haben-anticausative]. Still, there are incidental examples without accusative object, but they show a rather idiosyncratic remapping of roles as discussed in [@sec:participles-intransitive-haben-passive].
 
@@ -2026,7 +2026,7 @@ Starting from the very first mentioning of the *haben* dative passive a connecti
 - ^* Ich habe den Arm schon seit drei Stunden verbunden bekommen.
 :::
 
-There is a fascinating parallel between different kinds of *Pertinenzdativ* and different constructions with the light-verb *haben*. The *Pertinenzdativ* of an accusative object allows for a *haben + Partizip* diathesis [@next a], as discussed in this section. In contrast, a *Pertinenzdativ* of a local prepositional phrase with a positional verb (see [@sec:prepositions-possessor-of-location-to-dative-experiencer]) allows for a *haben + Infinitiv* diathesis [@next b], see [@sec:infinitive-haben]. Finally, a *Pertinenzdativ* of an intransitive verb (see [@sec:case-possessor-of-nominative-to-dative-experiencer]) allows for a *haben + am‑Infinitiv* diathesis [@next c], see [@sec:zuminfinitive-haben-am].
+There is a fascinating parallel between different kinds of *Pertinenzdativ* and different constructions with the light-verb *haben*. The *Pertinenzdativ* of an accusative object allows for a *haben+Partizip* diathesis [@next a], as discussed in this section. In contrast, a *Pertinenzdativ* of a local prepositional phrase with a positional verb (see [@sec:prepositions-possessor-of-location-to-dative-experiencer]) allows for a *haben+Infinitiv* diathesis [@next b], see [@sec:infinitive-haben]. Finally, a *Pertinenzdativ* of an intransitive verb (see [@sec:case-possessor-of-nominative-to-dative-experiencer]) allows for a *haben+am‑Infinitiv* diathesis [@next c], see [@sec:zuminfinitive-haben-am].
 
 ::: ex
 - Der Friseur schneidet die Haare des Lehrers. \
@@ -2051,9 +2051,9 @@ There is a fascinating parallel between different kinds of *Pertinenzdativ* and 
 
 ### --- [ OBJ > SBJ > PBJ ] --- {.unnumbered}
 
-### [ NA | PN ] *sein + Partizip* Conversive (*Erlebnispassiv*) {#sec:participles-sein-conversive}
+### [ NA | PN ] *sein+Partizip* Conversive (*Erlebnispassiv*) {#sec:participles-sein-conversive}
 
-A group of emotional verbs like *verärgern* 'to irritate' [@next a] shows a special diathesis. When used with a *sein + Partizip* construction, the original nominative subject (i.e. the cause of the emotional reaction, here *Nachricht* 'notice') can be retained as a governed preposition. This preposition differs between the verbs. For exanple, the verb *verärgern* induces the preposition *über* [@next b]. The special status of this preposition can be shown by using the *da + Preposition, dass* paraphrase [@next c], see [@sec:prepositions-identifying-governed-prepositions].
+A group of emotional verbs like *verärgern* 'to irritate' [@next a] shows a special diathesis. When used with a *sein+Partizip* construction, the original nominative subject (i.e. the cause of the emotional reaction, here *Nachricht* 'notice') can be retained as a governed preposition. This preposition differs between the verbs. For exanple, the verb *verärgern* induces the preposition *über* [@next b]. The special status of this preposition can be shown by using the *da+Preposition, dass* paraphrase [@next c], see [@sec:prepositions-identifying-governed-prepositions].
 
 ::: ex
 a. Die Nachricht verärgert mich.
@@ -2061,7 +2061,7 @@ b. Ich bin verärgert über die Nachricht.
 c. Ich bin verärgert darüber, dass die Nachricht verbreitet wurde.
 :::
 
-Some verbs that allow for this *sein + Partizip* conversive also allow for a reflexive conversive, like *amüsieren* 'to amuse' [@next], see [@sec:reflexive-preposition-passive]. However, not all verbs allow for both diatheses. For example *ärgern* 'to irritate' does not allow the *sein + Partizip* conversive, but does allow the reflexive conversive. [@nnext]. The verb *anwidern* 'to nauseate' shows the reverse distribution [@nnnext].
+Some verbs that allow for this *sein+Partizip* conversive also allow for a reflexive conversive, like *amüsieren* 'to amuse' [@next], see [@sec:reflexive-preposition-passive]. However, not all verbs allow for both diatheses. For example *ärgern* 'to irritate' does not allow the *sein+Partizip* conversive, but does allow the reflexive conversive. [@nnext]. The verb *anwidern* 'to nauseate' shows the reverse distribution [@nnnext].
 
 ::: ex
 a. Der Witz amüsiert mich.
@@ -2106,7 +2106,7 @@ d. ^* Ich habe mich von dem Witz angewidert.
 - Die Rede erzürnt mich. Ich bin erzürnt über die Rede.
 - Ein Desaster begründet die Hoffnung. Die Hoffnung ist im Desaster begründet.
 
-### [ NA | PN ] *liegen + Partizip* Conversive
+### [ NA | PN ] *liegen+Partizip* Conversive
 
 The few examples of this construction all have a governed preposition *in*.
 
@@ -2135,7 +2135,7 @@ b. Das Geschenk liegt in der Schublade versteckt.
 
 ### --- [ ADJ > SBJ > Ø ] --- {.unnumbered}
 
-### [ NpA | –NA ] *machen + Partizip* Conciliative {#sec:participles-machen-conciliative}
+### [ NpA | –NA ] *machen+Partizip* Conciliative {#sec:participles-machen-conciliative}
 
 This is yet another diathesis involving the light verb *machen*.
 
@@ -2211,7 +2211,7 @@ b. Der Dieb weiß sich von der Polizei verfolgt.
 
 ### --- [ Ø > SBJ > OBJ ] --- *Intransitiv Opiniativ* {.unnumbered}
 
-### [ –N | NA ] *wissen + Partizip* Intransitive opiniative {#sec:participles-wissen-experiencer}
+### [ –N | NA ] *wissen+Partizip* Intransitive opiniative {#sec:participles-wissen-experiencer}
 
 ::: ex
 a. Das Kind schläft ein.
@@ -2224,7 +2224,7 @@ b. Sie weiß das Kind eingeschlafen.
 
 **Examples**
 
-### [ –N | NA ] *glauben + Partizip* Intransitive opiniative {#sec:participles-glauben-opinionator}
+### [ –N | NA ] *glauben+Partizip* Intransitive opiniative {#sec:participles-glauben-opinionator}
 
 ::: ex
 a. Der Sieg kommt.
@@ -2239,7 +2239,7 @@ a. Er glaubte den Sieg gekommen.
 
 - Als die Tochter des Hauses, die schon längst für Jean Pauls Romane schwärmte, ihn sicher eingeschlafen glaubte, trat sie leise ins Zimmer, um ihn recht nach Herzenslust zu betrachten.^[~~DWDS~~: Parthey, Gustav: Jugenderinnerungen. Bd. 2. Berlin, [1871].]
 
-### [ –N | NA ] *sehen + Partizip* Intransitive opiniative
+### [ –N | NA ] *sehen+Partizip* Intransitive opiniative
 
 ::: ex
 a. Die UN scheitert.
@@ -2255,7 +2255,7 @@ b. Viele Menschen sehen die UN bereits gescheitert. \
 
 - Während viele Nichtregierungsorganisationen die UN bereits gescheitert sehen, hat Weltbank-Präsident James Wolfensohn noch Hoffnung.^[~~DWDS~~: Berliner Zeitung, 26.01.2005 .]
 
-### [ –N | NA ] *finden + Partizip* Intransitive opiniative {#sec:participles-finden-opinionator}
+### [ –N | NA ] *finden+Partizip* Intransitive opiniative {#sec:participles-finden-opinionator}
 
 ::: ex
 a. Er wächst.
@@ -2273,7 +2273,7 @@ b. Ich finde ihn gewachsen.
 
 ### --- [ Ø > SBJ > ADJ ] --- *Transitiv Opiniativ* {.unnumbered}
 
-### [ –NA | NpA ] *wissen + Partizip* Transitive opiniative {#sec:participles-wissen-commutative}
+### [ –NA | NpA ] *wissen+Partizip* Transitive opiniative {#sec:participles-wissen-commutative}
 
 ::: ex
 a. Das Archiv hebt den Nachlass auf.
@@ -2312,7 +2312,7 @@ Stacked with self-inflicting reflexive alternation:
 - Sie wussten sich durch ihn gewahrt.
 - Sie wusste sich beschützt.
 
-### [ –NA | NpA ] *glauben + Partizip* Transitive opiniative
+### [ –NA | NpA ] *glauben+Partizip* Transitive opiniative
 
 ::: ex
 a. Der Wind zerreist das Seil.
@@ -2335,7 +2335,7 @@ Stacked with self-inflicting reflexive alternation:
 - Er glaubte sich verraten/zurückversetzt/verfolgt/benachteiligt.
 - Weil sie sich von ihrem Vater nicht geliebt glaubte, flüchtete Irmgard mit 17 Jahren trotzig zu den Diakonissinnen, um Krankenschwester zu werden.^[~~DWDS~~: Leinemann, Jürgen, Dr Spiegel 09.05.1988, S.140.]
 
-### [ –NA | NpA ] *sehen + Partizip* Transitive opiniative
+### [ –NA | NpA ] *sehen+Partizip* Transitive opiniative
 
 ::: ex
 a. Der Autor bricht das Vertrauen.
@@ -2357,7 +2357,7 @@ Stacked with self-inflicting reflexive alternation:
 - Ich sehe mich bestärkt durch viele Diskussionen und Privatmeinungen.
 - Auch der Verwaltungsrath der »Steyrermühl« hat sich bemüssigt gesehen, einen Rechtfertigungsversuch wegen der von ihm begangenen Stempelentwendung zu unternehmen.^[~~DWDS~~: Kraus, Karl, Die Fackel, 20.03.1900, S.9.]
 
-### [ –NA | NpA ] *finden + Partizip* Transitive opiniative {#sec:participle-finden-transitive-opiniative}
+### [ –NA | NpA ] *finden+Partizip* Transitive opiniative {#sec:participle-finden-transitive-opiniative}
 
 ::: ex
 a. Das Alter verändert mich.
@@ -2380,7 +2380,7 @@ Stacked with self-inflicting reflexive alternation:
 
 ### --- [ ADJ > SBJ > OBJ ] --- {.unnumbered}
 
-### [ pN | NA ] *machen + Partizip* Inverted passive with reflexive loss {#sec:participles-machen-inverted-passive}
+### [ pN | NA ] *machen+Partizip* Inverted passive with reflexive loss {#sec:participles-machen-inverted-passive}
 
 One of the many different diathesis with the light-verb *machen*.
 
@@ -2410,7 +2410,7 @@ Not attested.
 
 ### --- [ OBJ > SBJ > OBJ ] --- {.unnumbered}
 
-### [ DN | NA ] *haben + Partizip* Intransitive possessor passive {#sec:participles-intransitive-haben-passive}
+### [ DN | NA ] *haben+Partizip* Intransitive possessor passive {#sec:participles-intransitive-haben-passive}
 
 A few incidental intransitive verbs allow for a special variant of the possessor passive diathesis [@sec:participles-haben-passive]. In the possessor passive, the possessor of an accusative object [@next a] is remapped to nominative subject [@next c]. This is only possible with possessors that can alternatively be expressed as a dative [@next b].
 
@@ -2420,7 +2420,7 @@ A few incidental intransitive verbs allow for a special variant of the possessor
 - Ich habe die Haare geschnitten.
 :::
 
-A similar diathesis for the possessor of an intransitive subject is attested, though it is very rare [cf. @businger2017: 162-163]. An example is the verb *anschwellen* 'to swell', for which the possessor of the subject [@next a] can be expressed as dative [@next b] and as subject in a *haben + Partizip* construction [@next c]. In these intransitive examples, it seems even possible to repeat the possessor adnominally [@next d].
+A similar diathesis for the possessor of an intransitive subject is attested, though it is very rare [cf. @businger2017: 162-163]. An example is the verb *anschwellen* 'to swell', for which the possessor of the subject [@next a] can be expressed as dative [@next b] and as subject in a *haben+Partizip* construction [@next c]. In these intransitive examples, it seems even possible to repeat the possessor adnominally [@next d].
 
 ::: ex
 - Sein Arm schwellt an.
@@ -2429,7 +2429,7 @@ A similar diathesis for the possessor of an intransitive subject is attested, th
 - Er hat seinen Arm angeschwollen.
 :::
 
-A similar, but more widespread diathesis is the *haben + am‑Infinitiv* constructions [@next], see [@sec:zuminfinitive-haben-am].
+A similar, but more widespread diathesis is the *haben+am‑Infinitiv* constructions [@next], see [@sec:zuminfinitive-haben-am].
 
 ::: ex
 - Meine Leitungen frieren zu.
@@ -2450,7 +2450,7 @@ A similar, but more widespread diathesis is the *haben + am‑Infinitiv* constru
 
 ### --- [ Ø > SBJ > Ø ] --- {.unnumbered}
 
-### [ –NA | N–A ] *machen + Partizip* Commutative {#sec:participles-machen-commutative}
+### [ –NA | N–A ] *machen+Partizip* Commutative {#sec:participles-machen-commutative}
 
 One of the many different diathesis with the light-verb *machen*.
 
@@ -2463,7 +2463,7 @@ b. Ich mache den Verlust vergessen.
 
 - *vergessen*
 
-### [ –NA | N–A ] *geben + Partizip* Commutative {#sec:participles-geben-commutative}
+### [ –NA | N–A ] *geben+Partizip* Commutative {#sec:participles-geben-commutative}
 
 Apparently only possible with the main verb *verlieren*. Note that the the person losing something [@next a] is not necessarily the same person as the person declaring the loss [@next b].
 

@@ -20,12 +20,12 @@ header-includes:
     margin-top: 5em;
   }
   h1, h2, h3 {
-    text-indent: -70px;
+    text-indent: -60px;
     margin-left: 70px;
   }
   .header-section-number {
     display: inline-block;
-    margin: 0 0 0 60px;
+    margin-left: 50px;
   }
   p {
     margin-top: 0.5em;
