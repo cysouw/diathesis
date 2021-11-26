@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Besides diatheses with regular infinitives, as discussed in the previous chapter, there are also light-verb constructions with *zu* and an infinitive. The German particle *zu* is historically an allative 'towards' preposition related to the English *to*, but synchronically they are used rather differently. In the German orthography, the *zu* element is regularly separated from the infinitive by a space. However, morphologically the *zu‑Infinitiv* is clearly one word and should be considered a special non-finite form of the verb along the participle and the infinitive (see [@sec:zuinfinitive-morphology]).
+Besides diatheses with regular infinitives, as discussed in the previous chapter, there are also light-verb constructions with *zu* and an infinitive. The German particle *zu* is historically an allative 'towards' preposition related to English *to*. In the German orthography, the *zu* element is regularly separated from the infinitive by a space. However, morphologically the *zu‑Infinitiv* is clearly one word and should be considered a special non-finite form of the verb along the participle and the infinitive (see [@sec:zuinfinitive-morphology]).
 
 The *zu‑Infinitiv* can be combined with various light verbs to form monoclausal construction. This is widespread without diathesis, for example with light verbs *pflegen* [@next a], see [@sec:zuinfinitive-pflegen], and *haben* [@next b], see [@sec:zuinfinitive-haben]. However, the main focus of this chapter is on light verbs that induce diathesis when used with the *zu‑Infinitiv*, for example *sein* [@next c], see [@sec:zuinfinitiv-sein-passive], and *stehen* [@next d], see [@sec:zuinfinitive-stehen].
 
@@ -13,7 +13,9 @@ The *zu‑Infinitiv* can be combined with various light verbs to form monoclausa
 - Ein weiterer Beschäftigungsabbau steht zu befürchten.
 :::
 
-Following Bech [-@bech1955], construction with a *zu‑Infinitiv* are often designated as *Zweiter Status* in the German grammatical literature. However, this name is not very transparent nor particularly mnemonic, so I prefer to simply use the term *zu*-~~Infinitiv~~ construction. One of the central issues with sentences that include a *zu‑Infinitiv* is the question whether such sentences are biclausal or monoclausal. There is actually a grammaticalisation cline with (non-coherent) biclausal structures on the one side and (coherent) monoclausal structures on the other side (see [@sec:zuinfinitive-grammaticalisation]). 
+Following Bech [-@bech1955], construction with a *zu‑Infinitiv* are often designated as *Zweiter Status* in the German grammatical literature. However, this name is not very transparent nor particularly mnemonic, so I prefer to simply use the term *zu‑Infinitiv* construction.
+
+One of the central issues with sentences that include a *zu‑Infinitiv* is the question whether such sentences are biclausal or monoclausal. There is actually a grammaticalisation cline with (non-coherent) biclausal structures on the one side and (coherent) monoclausal structures on the other side (see [@sec:zuinfinitive-grammaticalisation]). 
 
 The major aim of this chapter is to list and discuss all grammaticalised coherent monoclausal *zu‑Infinitiv* construction of the German language, all diatheses as well as all epitheses. There is a strong tendency for the monoclausal *zu‑Infinitiv* constructions to express some kind of imperfective aspect, as opposed to participle constructions (Chapter [-@sec:participle]) that tend to express perfective meanings. 
 
@@ -41,7 +43,7 @@ The combination of *zu* with an infinitive is regularly written as two words in 
 
 From a purely grammatical perspective, *zu* is clearly bound morphology when used with an infinitive [cf. @duden2009: 439; @haider2010: 272-273], because (i) it is always unstressed and (ii) it is not separable from the infinitive, not even by separable preverbs like *ein-*. The combination of *zu* plus infinitive is thus best considered to be a special non-finite verb form of German, alongside the *Partizip* and the *Infinitiv*. I propose to simply call it the *zu‑Infinitiv*.
 
-Probably the only reason that simplex verbs still have a written space between *zu* and the infinitive is that there would be some homographs when the two parts would be written without a space. For example, the *zu‑Infinitiv* of the verb *schließen* 'to close' would be *zuschlíeßen* with unstressed *zu* and main stress on *schließ* [@next a], while the regular *Infinitiv* of the verb *zuschließen* 'to lock' would be *zúschließen* with stressed *zu* [@next b]. Obvioudly, an alternative orthographic choice would be to indicate the primary stress in such (rare) cases of possible confusion (e.g. by a diacritic). However, the separation by a space is entrenched in German orthography and is unlikely to change. Yet, this should not distract from the fact that morphologically *zu* is clearly bound morphology.
+Probably the only reason that simplex verbs still have a written space between *zu* and the infinitive is that homographs would be introduced when the two parts would be written without a space. For example, the *zu‑Infinitiv* of the verb *schließen* 'to close' would be *zuschlíeßen* with unstressed *zu* and main stress on *schließ* [@next a], while the regular *Infinitiv* of the verb *zuschließen* 'to lock' would be *zúschließen* with stressed *zu* [@next b]. Obviously, an alternative orthographic choice would be to indicate the primary stress in such (rare) cases of possible confusion (e.g. by a diacritic). However, the separation by a space is entrenched in German orthography and is unlikely to change. Yet, this should not distract from the fact that morphologically *zu* is clearly bound morphology.
 
 ::: ex
 - Du brauchst die Tür nicht zu schließen.
@@ -50,7 +52,7 @@ Probably the only reason that simplex verbs still have a written space between *
 
 ### Grammaticalisation {#sec:zuinfinitive-grammaticalisation}
 
-The element *zu* in the *zu‑Infinitiv* is obviously related to the preposition *zu*, which has a bewildering number of different uses in German.^[For example, see the listing of the ~~DWDS~~ at <https://www.dwds.de/wb/zu>.] Diachronically, there has been a development from an originally allative meaning 'towards' via a purpose meaning 'with the intend to' to the usage of *zu* in complement clauses. This grammaticalisation pathway is widespread worldwide [@haspelmath1989] and well-described for Germanic languages [e.g. @smirnova2016 for German and @los2005 for English].
+The element *zu* in the *zu‑Infinitiv* is obviously related to the preposition *zu*, which has a bewildering number of different uses in German.^[For example, see the listing of the ~~DWDS~~ at <https://www.dwds.de/wb/zu>.] Diachronically, there has been a development from an originally allative meaning 'towards' via a purpose meaning 'with the intend to' to the usage of *zu* in complement clauses. This grammaticalisation pathway is widespread worldwide [@haspelmath1989] and well-described for Germanic languages [e.g. @smirnova2016 for German; @los2005 for English].
 
 This grammaticalisation pathway can be further extended as shown in [@next]. The verb *lehren* 'to teach' can actually be used in all three syntactic stages. In the first stage, the verb *lehren* is used with a *zu‑Infinitiv* complement clause that is expressed after the main clause. Such constructions are non-coherent and thus consist of two clauses. In the second stage, the verb *lehren* can also be used with a *zu‑Infinitiv*, but now this infinitive is incorporated into the main clause. Such constructions are coherent and thus consists of just a single clause. Finally, in the third stage, the verb *lehren* is used with a bare infinitive without *zu*. Such constructions are always monoclausal. 
 
@@ -65,20 +67,20 @@ Grammaticalisation pathway of infinitive constructions
 As an illustration of these different uses of the verb *lehren*, I have added a corpus example of each usage in [@next], which show the various constructions in subordinate position to clarify the structural differences.
 
 ::: ex
-- Wahrscheinlich auch, weil ihn die Erfahrung *gelehrt hat*, [niemals nie zu sagen].^[~~DWDS~~: Die Zeit, 28.07.2013 (online).]
-- Unser Abgott Theodor Fontane dagegen, der uns [so vieles in Stadt und Land zu sehen] *gelehrt hat*, scheint die Berliner Galerie kaum besucht zu haben.^[~~DWDS~~: Berliner Zeitung, 11.06.1998]
-- Was hast du den Indios für Possen angerichtet, daß sie dich [so schön tanzen] *gelehrt haben*?^[~~DWDS~~: Perutz, Leo: Die dritte Kugel, Reinbek bei Hamburg: Rowohlt 1988 [1915], S. 5]
+- Wahrscheinlich auch, weil ihn die Erfahrung [gelehrt hat], [niemals nie zu sagen].^[~~DWDS~~: Die Zeit, 28.07.2013 (online).]
+- Unser Abgott Theodor Fontane dagegen, der uns [so vieles in Stadt und Land zu sehen] [gelehrt hat], scheint die Berliner Galerie kaum besucht zu haben.^[~~DWDS~~: Berliner Zeitung, 11.06.1998]
+- Was hast du den Indios für Possen angerichtet, daß sie dich [so schön tanzen] [gelehrt haben] ?^[~~DWDS~~: Perutz, Leo: Die dritte Kugel, Reinbek bei Hamburg: Rowohlt 1988 [1915], S. 5]
 :::
 
-The focus of this chapter are the constructions in the second stage of this grammaticalisation pathway: monoclausal *zu‑Infinitiv* constructions. This construction is attested with various verbs that are coherent when used with *zu‑Infinitiv*, like *haben* [@next]. A simple test for coherence is to embed a sentence like [@next a] inside another main clause like *es ist bekannt, dass…* 'it is known that …' (see [@sec:intro-coherence]). Coherent monoclausal constructions, i.e. stage 2 in [@llast], can then be identified by the obligatory position of the finite verb at the end of the clause [@next b]. A finite verb before the *zu‑Infinitiv* is not possible [@next c]. 
+The focus of this chapter are the constructions in the second stage of this grammaticalisation pathway: monoclausal *zu‑Infinitiv* constructions. This kind of construction is attested with various verbs that are coherent when used with *zu‑Infinitiv*, like *haben* [@next]. A simple test for coherence is to embed a sentence like [@next a] inside another main clause like *es ist bekannt, dass…* 'it is known that…' (see [@sec:intro-coherence]). Coherent monoclausal constructions, i.e. stage 2 in [@llast], can then be identified by the obligatory position of the finite verb at the end of the clause [@next b]. A finite verb before the *zu‑Infinitiv* is not possible [@next c]. 
 
 ::: ex
-- Sie *hat* noch viele Jahre [zu leben].
-- Es ist bekannt, dass sie noch viele Jahre [zu leben] *hat*.
-- ^* Es ist bekannt, dass sie *hat* noch viele Jahre [zu leben].
+- Sie [hat] noch viele Jahre [zu leben].
+- Es ist bekannt, dass sie noch viele Jahre [zu leben] [hat].
+- ^* Es ist bekannt, dass sie [hat] noch viele Jahre [zu leben].
 :::
 
-Because there is a grammaticalisation cline, there are various verbs that can be used in more than one of the three different stages [@next]. Most verbs with a *zu‑Infinitiv* actually only allow biclausal non-coherent complement constructions [@next a]. These fall outside of the scope of this book. At the other extreme, some verbs only allow for monoclausal *Infinitiv* construction [@next f]. These were already discussed in the previous Chapter [-@sec:infinitive]. The group of verbs that allow for both stage 2 and 3 [@last e] is small, as this only seems to be possible for the verbs *brauchen, heißen, helfen, lehren* and *lernen*. 
+Because there is a grammaticalisation cline, there are various verbs that can be used in more than one of these three different stages, as summarised in  [@next]. Most verbs with a *zu‑Infinitiv* actually only allow for the first option: biclausal non-coherent complement constructions [@next a]. These fall outside of the scope of this book. At the other extreme, some verbs only allow for monoclausal *Infinitiv* construction [@next f]. These were already discussed in the previous Chapter [-@sec:infinitive]. The group of verbs that allow for both stage 2 and 3 [@last e] is small, as this only seems to be possible for the verbs *brauchen, heißen, helfen, lehren* and *lernen*. 
 
 ::: ex
 Intermediate stages on the grammaticalisation pathway
@@ -91,7 +93,7 @@ e. **Both stage 2 and 3 possible** (monoclausal, both *zu‑Infinitiv* and *Infi
 f. **Only stage 3 possible** (only monoclausal *Infinitiv*): e.g. *müssen* 'to must', *können* 'to can'
 :::
 
-In between these extremes on are various further possibilities. First, the group of verbs that allow for both stage 1 and 2 without any obvious differences in meaning [@last b] are widely discussed in the German grammatical literature under the heading ~~Modalitätsverben~~. Various lists are found in Wurmbrand [-@wurmbrand2003: 318-319] and Colomo [-@colomo2010: 167-175], citing earlier literature. A short survey of various structural and semantic aspects of this group is presented in Rapp & Wöllstein [-@rapp2013]. From a quick search in the ~~DWDS~~ corpus it appears that the the following verbs are the most interesting for further research (i.e. these verbs are frequently attested with both sentence structures, but without obvious differences in meaning between those structures): *anfangen, aufhören, beabsichtigen, beginnen, erlauben, gedenken, glauben, heißen, helfen, hoffen, lehren, lernen, lieben, sich lohnen, machen, meinen, streben, trachten, sich trauen, vergessen, versuchen, vorgeben, wagen, wünschen*. Examples with the verb *wünschen* 'to wish' are shown in [@next]. These verbs will not be further discussed in this chapter, but they deserve more research.
+In between these extremes there are various further possibilities. First, the group of verbs that allow for both stage 1 and 2 without any obvious differences in meaning [@last b] are widely discussed in the German grammatical literature under the heading ~~Modalitätsverben~~. Various lists are found in Wurmbrand [-@wurmbrand2003: 318-319] and Colomo [-@colomo2010: 167-175], citing earlier literature. A short survey of various structural and semantic aspects of this group is presented in Rapp & Wöllstein [-@rapp2013]. From a quick search in the ~~DWDS~~ corpus it appears that the the following verbs are the most interesting for further research (i.e. these verbs are frequently attested with both sentence structures, but without obvious differences in meaning between those structures): *anfangen, aufhören, beabsichtigen, beginnen, erlauben, gedenken, glauben, heißen, helfen, hoffen, lehren, lernen, lieben, sich lohnen, machen, meinen, streben, trachten, sich trauen, vergessen, versuchen, vorgeben, wagen, wünschen*. Examples with the verb *wünschen* 'to wish' are shown in [@next]. These verbs will not be further discussed in this chapter, but they deserve more research.
 
 ::: ex
 - Es gebe viele Stimmen in der CSU, die ihm gewünscht hätten, eine längere Auszeit zu nehmen.^[~~DWDS~~: Die Zeit, 23.11.2011 (online).]

@@ -322,7 +322,7 @@ b. Der Lehrer beantwortet deine Frage.
 c. Deine Frage beantwortet sich von selbst.
 :::
 
-Diatheses are applied one after the other, i.e. the order of the diatheses in a stack is of crucial importance. Basically, a stack is just a list of clause altenations applied one after the other. Semantically this means that each subsequent clause alternation has scope over the previous one. This can for example be written down using a symbol like +> to indicate the additive (+) and sequential (>) nature of the combination. The stack above can then be analysed as: [@last c] = [@last a] +> *be-* applicative +> reflexive anticausative. This notation leads to concise analyses, as for example shown in [@next] for the difference between [@next a] and [@next b]. 
+Diatheses are applied one after the other, i.e. the order of the diatheses in a stack is of crucial importance. Basically, a stack is just a list of clause alternations applied one after the other. Semantically this means that each subsequent clause alternation has scope over the previous one. This can for example be written down using a symbol like +> to indicate the additive (+) and sequential (>) nature of the combination. The stack above can then be analysed as: [@last c] = [@last a] +> *be-* applicative +> reflexive anticausative. This notation leads to concise analyses, as for example shown in [@next] for the difference between [@next a] and [@next b]. 
 
 ::: ex
 a. Der Lehrer hat die Aufgabe lösen wollen. \
