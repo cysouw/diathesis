@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The term ~~participle~~ is used here as the name for a verb form known in German grammar as *Partizip II*, for example *geschrieben* 'written' in [@next]. There is another *Partizip*, known in German grammar as *Partizip I*, but this word form plays no role in the expression of diatheses. Constructions consisting of a participle combined with an auxiliary-like 'light' verb (i.e. a verb with limited lexical meaning) are manifold in German. They include constructions without diathesis, like the German *haben+Partizip* ~~Perfekt~~ [@next a], and constructions with diathesis, like the *werden+Partizip* ~~Vorgangspassiv~~ [@next b]. 
+The term ~~participle~~ is used here as the name for a verb form known in German grammar as *Partizip II*, for example *geschrieben* 'written' in [@next]. There is another *Partizip*, known in German grammar as *Partizip I*, but this wordform plays no role in the expression of diatheses. Constructions consisting of such a participle combined with an auxiliary-like light verb (i.e. a verb with limited lexical meaning) are manifold in German. They include constructions without diathesis, like the German *haben+Partizip* ~~Perfekt~~ [@next a], and constructions with diathesis, like the *werden+Partizip* ~~Vorgangspassiv~~ [@next b]. 
 
 ::: ex
 a. Ich habe einen Brief geschrieben.

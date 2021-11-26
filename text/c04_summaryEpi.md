@@ -80,9 +80,20 @@ a. Das Kind jammert dauernd.
 b. Das Kind ist dauernd am Jammern.
 :::
 
-### *Progressivkontinuativ* (*bleiben+am‑Infinitiv*)
+### *Mutativprogressiv* (*sein+im‑Infinitiv*) 
 
-The ~~Progressivkontinuativ~~ (full discussion in [@sec:zuminfinitive-bleiben-am]) is the first of various continuative constructions that use the light verb *bleiben*. Parallel to the *sein* progressive (see [@sec:summary-progressiv]), the *Progressivkontinuativ* [@next] uses *bleiben* with the *am‑Infinitiv* to express that an event is ongoing (progressive) and remains ongoing (continuative).
+The ~~Mutativprogressiv~~ (full discussion in [@sec:zuminfinitive-sein-im]) is a variant of the *Progressiv* (see [@sec:summary-progressiv]), using the preposition *im* instead of *am*. The *sein+im‑Infinitiv* is much less frequent than the *am* progressive. However, the available examples suggest a clear semantic characterisation. The *im* progressive is typically used with verbs that either describe an ongoing process of increase [@next a] or an ongoing process of decrease [@next b].
+
+::: ex
+- Die eigene Fahrerflotte entsteht. \
+  Die eigene Fahrerflotte ist im Entstehen
+- Die Schwerllung klingt ab. \
+  Die Schwellung ist im Abklingen.
+:::
+
+### *Kontinuativprogressiv* (*bleiben+am‑Infinitiv*)
+
+The ~~Kontinuativprogressiv~~ (full discussion in [@sec:zuminfinitive-bleiben-am]) is the first of various continuative constructions that use the light verb *bleiben*. Parallel to the *sein* progressive (see [@sec:summary-progressiv]), the *Progressivkontinuativ* [@next] uses *bleiben* with the *am‑Infinitiv* to express that an event is ongoing (progressive) and remains ongoing (continuative).
 
 ::: ex
 - Er lebt.
@@ -148,15 +159,6 @@ a. Ich besuche meinen Freund.
 b. Ich gehe/fahre meinen Freund besuchen.
 :::
 
-### *Abitivfrequentativ* (*gehen/fahren+zum‑Infinitiv*) {#sec:summary-abitivfrequentativ}
-
-The ~~Abitivfrequentativ~~ (full discussion in [@sec:zuminfinitive-gehen]) likewise uses *gehen* but now with a *zum‑Infinitiv* [@next]. It expresses a movement away (abitive) to pursue an activity that is frequently or habitually performed (frequentative). It can only be used with intransitive verbs. 
-
-::: ex
-- Sie schwimmt.
-- Sie geht zum Schwimmen.
-:::
-
 ### *Aditiv* (*kommen+Infinitiv*) {#sec:summary-aditiv}
 
 The ~~Aditiv~~ (from Lat. *adire* 'to approach', full discussion in [@sec:infinitive-kommen-aditive]) consists of the light verb *kommen* with an infinitive [@next]. It conveys that the subject is approaching to pursue an activity, i.e. the reversal of the *Abitiv* (see [@sec:summary-abitiv]).
@@ -166,9 +168,31 @@ a. Ich besuche meinen Freund.
 b. Ich komme meinen Freund besuchen.
 :::
 
+### *Absentivfrequentativ* (*sein+beim‑Infinitiv*) {#sec:summary-absentivfrequentativ}
+
+The ~~Absentivfrequentativ~~ (full discussion in [@sec:zuminfinitiv-sein-beim]) is a variant of the *Absentiv* (see [@sec:summary-absentiv]). It also uses the verb *sein*, but now with a *beim‑Infinitiv* [@next]. It still expresses that the subject is not present (absentive), but there is a an extra semantic aspect added, namely that the activity if performed regularly or habitually (frequentative). 
+
+Parallel to the previous *Absentiv/Abitiv/Aditiv* there also exist frequentative variants of all these three constructions using the following prepositions: *sein beim*, *gehen/fahren zum* and *kommen vom*.
+
+::: ex
+- Ich arbeite.
+- Ich bin beim Arbeiten.
+:::
+
+### *Abitivfrequentativ* (*gehen/fahren+zum‑Infinitiv*) {#sec:summary-abitivfrequentativ}
+
+The ~~Abitivfrequentativ~~ (full discussion in [@sec:zuminfinitive-gehen]) uses *gehen/fahren*, just like the *Abitiv* (see [@sec:summary-abitiv]), but now with a *zum‑Infinitiv* [@next]. It expresses a movement away (abitive) to pursue an activity that is frequently or habitually performed (frequentative).
+
+::: ex
+- Sie schwimmt.
+- Sie geht zum Schwimmen.
+:::
+
 ### *Aditivfrequentativ* (*kommen+vom‑Infinitiv*) {#sec:summary-prasentiv}
 
-The ~~Aditivfrequentativ~~ (full discussion in [@sec:zuminfinitive-kommen-vom]) uses *kommen* with a *vom‑Infinitiv* [@next] to express the reversal of the *Abitivfrequentativ* (see [@sec:summary-abitivfrequentativ]). It conveys a movement approaching a point of reference (aditive) coming from an activity that is frequently or habitually performed (frequentative). It can only be used with intransitive verbs. Note that the preposition used with the *kommen-Aditivfrequentativ* is *vom*, different from the preposition *zum* that is used with the *gehen-Abitivfrequentativ*. There exists also a construction using *kommen* with *zum*, but that one has completely different semantics (see [@sec:summary-bewegungsende]).
+The ~~Aditivfrequentativ~~ (full discussion in [@sec:zuminfinitive-kommen-vom]) uses *kommen* with a *vom‑Infinitiv* [@next] to express the reversal of the *Abitivfrequentativ* (see [@sec:summary-abitivfrequentativ]). It conveys a movement approaching a point of reference (aditive) coming from an activity that is frequently or habitually performed (frequentative).
+
+Note that the preposition used with *kommen* is *vom*. There exists also a construction using *kommen* with *zum*, but that one has completely different semantics (see [@sec:summary-bewegungsende]).
 
 ::: ex
 - Er ist einkaufen.

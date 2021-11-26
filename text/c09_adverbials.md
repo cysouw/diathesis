@@ -2,7 +2,7 @@
 
 ## Introduction
 
-It might come as a surprise that adverbials play a role in valency and diathesis. However, on closer inspection it quickly becomes clear that there are various verbs that obligatorily need an adverbial complement, like *sich verhalten* 'to behave' [@next], which shows that adverbials have to be considered when determining the valency of verbs.
+It might come as a surprise that adverbials play a role in valency and diathesis. However, on closer inspection it is obvious that there are various verbs that obligatorily need an adverbial complement, like *sich verhalten* 'to behave' [@next], which show that adverbials have to be considered when determining the valency of verbs.
 
 ::: ex
 a. Ich verhalte mich tapfer.
@@ -46,7 +46,7 @@ There are six diatheses that seem prominent enough to be given a German name. I 
 
 ### Adverbials and adverbs
 
-Adverbials are defined here strictly syntactically as a word or phrase that modifies the main predicate of a sentence. When such an adverbial consists of a single word that cannot be used in other syntactic functions, then such a word is called an ~~adverb~~. There exist an arguably rather small class of such purely adverbial words in German with restricted semantic possibilities, namely local, e.g. *hier, oben, dort* [@next a], temporal, e.g. *gestern, später, immer* [@next b], causal, e.g. *deshalb, dennoch, folglich* [@next c] and modal, e.g. *ebenfalls, fast, ganz* [@next d].
+Adverbials are defined here strictly syntactically as a word or phrase that modifies the main predicate of a sentence. When such an adverbial consists of a single word that cannot be used in other syntactic functions, then such a word is called an ~~adverb~~. There exists an arguably rather small class of such purely adverbial words in German with restricted semantic possibilities, namely local, e.g. *hier, oben, dort* [@next a], temporal, e.g. *gestern, später, immer* [@next b], causal, e.g. *deshalb, dennoch, folglich* [@next c] and modal, e.g. *ebenfalls, fast, ganz* [@next d].
 
 ::: ex
 a. Das Flugzeug ist dort gelandet.
@@ -78,14 +78,14 @@ Adjectives (and adjectival verbforms like participles, see [@sec:participles-sec
 
 ### Adjectives as depictive secondary predicates {#sec:adverbials-depictive-predicates}
 
-Given the right context, all German adjectives like *klein* can be used as ~~depictive~~ secondary predicates, i.e. they can be used syntactically both as adjectives [@next a] and as adverbs [@next b]. 
+Given the right context, all German adjectival stems like *klein* 'small' can be used as ~~depictive~~ secondary predicates, i.e. they can be used syntactically both as adjectives [@next a] and as adverbs [@next b]. 
 
 ::: ex
 a. Das kleine Kind ist geboren.
 b. Das Kind ist klein geboren.
 :::
 
-Depending on the context and their placement inside the sentence, such depictive adjectival adverbs can describe some characteristic to different constituents in the sentence, like to an accusative object [@next a], a nominative subject [@next b] or a predicate [@next c].
+Depending on the context and their placement inside the sentence, such depictive adjectival adverbs can ascribe a characteristic to different constituents in the sentence, like to an accusative object [@next a], a nominative subject [@next b] or a predicate [@next c].
 
 ::: ex
 a. Ich habe meine Hose eng gekauft.
@@ -109,18 +109,19 @@ b. Ich habe den Laden, der ganz leer war, gekauft.
 c. Ich habe Artikel im Laden gekauft, bis der Laden leer war.
 :::
 
-There are various differences between the depictive [@last b] and resultative [@last c] interpretation. First, the accusative object in the resultative interpretation [@last c] is a completely new role for the main lexical verb *kaufen*. The addition of such a new role can lead to the appearance of new accusative constituents for otherwise 'intransitive' verbs like *fischen* 'to fish' or *niesen* 'to sneeze [@next a,b].
+There are various differences between the depictive [@last b] and resultative [@last c] interpretation. First, the accusative object in the resultative interpretation [@last c] is a completely new role for the main lexical verb *kaufen*. The addition of such a new role can lead to the appearance of new accusative constituents for otherwise intransitive verbs like *fischen* 'to fish' or *niesen* 'to sneeze [@next a,b].
 
 ::: ex
 a. Ich habe den Teich leer gefischt.
 b. Ich habe das Taschentuch voll geniest.
 :::
 
-Second, participles can be used as depictive adverbials [@next], see also [@sec:participles-secondary-predicates]. In contrast, participles never function as resultative adverbials. 
+Second, participles can be used as depictive adverbials [@next b], see also [@sec:participles-secondary-predicates]. In contrast, participles never function as resultative adverbials [@next c]. 
 
 ::: ex
-a. Ich habe den Laden *leer* gekauft.
-a. Ich habe den Laden *gereinigt* gekauft.
+a. Ich habe den Laden gereinigt gekauft. 
+b. = Ich habe den Laden gekauft als der gereinigt war.
+c. ≠ Ich habe im Laden gekauft bis der Laden gereinigt war.
 :::
 
 Third, resultative adjectival predicates in German do not seem to be possible in combination with verb particles [@next a-d]. This is not just a semantic incompatibility, but also a syntactic one. The resultative adjectival predicates syntactically take the same place in the sentence as the verb particles. The preferred analysis of the resultative constructions in German is to consider the combination of adjective and verb as a complex predicate, i.e. *vollschenken* 'to pour until full' [@next a] or *leerräumen* 'to empty' [@next c], parallel to verb with particles like *einschenken* 'to pour' [@next c] and *ausräumen* 'to empty' [@next d].
@@ -139,7 +140,7 @@ a. Sie kauft die Nägel krum ein.
 b. Ich habe mein Fahrrad grün angestrichen.
 :::
 
-The most frequent resultative adjectival predicates in German are *leer-, voll-, tot-, fest-* [@eisenberg2013: 322-323], but many others are also attested [@next a-c], e.g. *stillschweigen, fertigstellen, vollquatschen, festschrauben, plattlaufen*. Additionally, a datives from raised possessors are often possible [@next b], see [@sec:case-possessor-accusative-to-dative], including subsequent reflexive constructions [@next c]. The Duden grammar [-@duden2009: 790] presents *Er hält/macht den Tisch sauber* as examples of resultative adverbial constructions. However, these examples are probably better analysed as adjectival predicates with light verbs *halten/machen*, cf. [@sec:participles-adjectives-light-verb-constructions].]
+The most frequent resultative adjectival predicates in German are *leer-, voll-, tot-, fest-* [@eisenberg2013: 322-323], but many others are also attested [@next a-c], e.g. *stillschweigen, fertigstellen, vollquatschen, festschrauben, plattlaufen*. Additionally, datives from raised possessors are often possible [@next b], see [@sec:case-possessor-accusative-to-dative], including subsequent reflexive constructions [@next c]. The Duden grammar [-@duden2009: 790] presents *Er hält/macht den Tisch sauber* as examples of resultative adverbial constructions. However, these examples are probably better analysed as adjectival predicates with light verbs *halten/machen*, cf. [@sec:participles-adjectives-light-verb-constructions].]
 
 ::: ex
 a. Er niest das Taschentuch voll.
