@@ -70,7 +70,7 @@ As an illustration of these different uses of the verb *lehren*, I have added a 
 - Was hast du den Indios für Possen angerichtet, daß sie dich [so schön tanzen] *gelehrt haben*?^[~~DWDS~~: Perutz, Leo: Die dritte Kugel, Reinbek bei Hamburg: Rowohlt 1988 [1915], S. 5]
 :::
 
-The focus of this chapter are the constructions in the second stage of this grammaticalisation pathway: monoclausal *zu‑Infinitiv* constructions. This construction is attested with various verbs that are coherent when used with *zu‑Infinitiv*, like *haben* [@next]. A simple test for coherence is to embed a sentence like [@next a] inside another main clause like *es ist bekannt, dass …* 'it is known that …' (see [@sec:intro-coherence]). Coherent monoclausal constructions, i.e. stage 2 in [@llast], can then be identified by the obligatory position of the finite verb at the end of the clause [@next b]. A finite verb before the *zu‑Infinitiv* is not possible [@next c]. 
+The focus of this chapter are the constructions in the second stage of this grammaticalisation pathway: monoclausal *zu‑Infinitiv* constructions. This construction is attested with various verbs that are coherent when used with *zu‑Infinitiv*, like *haben* [@next]. A simple test for coherence is to embed a sentence like [@next a] inside another main clause like *es ist bekannt, dass…* 'it is known that …' (see [@sec:intro-coherence]). Coherent monoclausal constructions, i.e. stage 2 in [@llast], can then be identified by the obligatory position of the finite verb at the end of the clause [@next b]. A finite verb before the *zu‑Infinitiv* is not possible [@next c]. 
 
 ::: ex
 - Sie *hat* noch viele Jahre [zu leben].

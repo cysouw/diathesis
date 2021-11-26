@@ -68,7 +68,7 @@ d. Er sieht ihn.
 e. Jemand sieht etwas.
 :::
 
-Second, prepositional phrases [@next a] are arguments of an utterance when they can be replaced by a complement clause of the form *da(r)+preposition, dass ...* [@next b]. All details of the difficult question when to treat such governed prepositional phrases as arguments are discussed in [@sec:prepositions-delimiting-governed-prepositional-phrases].
+Second, prepositional phrases [@next a] are arguments of an utterance when they can be replaced by a complement clause of the form *da(r)+preposition, dass…* [@next b]. All details of the difficult question when to treat such governed prepositional phrases as arguments are discussed in [@sec:prepositions-delimiting-governed-prepositional-phrases].
 
 ::: ex
 a. Der Weltreisende wartet auf einen Zug.
@@ -719,7 +719,7 @@ c. Der Wettkampf endet (durch den Gong).
 d. Der Gong beendet den Wettkampf.
 :::
 
-A ~~reversed conversive [PBJ › SBJ › OBJ]~~ differs from a reversed passive in that the prepositional phrase is a lexically governed preposition, as can be identified by a possible  *da+preposition, dass ...* paraphrase. This is for example attested for the diatheses between *staunen über* 'to marvel' and *erstaunen* 'to amaze' [@next], see [@sec:preverb-inverted-passives].
+A ~~reversed conversive [PBJ › SBJ › OBJ]~~ differs from a reversed passive in that the prepositional phrase is a lexically governed preposition, as can be identified by a possible  *da+preposition, dass…* paraphrase. This is for example attested for the diatheses between *staunen über* 'to marvel' and *erstaunen* 'to amaze' [@next], see [@sec:preverb-inverted-passives].
 
 ::: ex
 ~~Reversed conversive [PBJ › SBJ › OBJ]~~
