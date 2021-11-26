@@ -181,7 +181,7 @@ c. Der Mantel sitzt nicht.
 
 - *ausfallen, aussehen, bleiben, gelaunt sein, sitzen (passen)*
 
-**Examples**
+**Further Examples**
 
 - Ich bleibe wachsam/ruhig
 - Sein Zeugnis ist schlecht ausgefallen.
@@ -211,7 +211,7 @@ d. Ich führe mich wie ein Holzklotz auf.
 
 - Behaviour: *aufführen, benehmen, geben (vorzeigen), gebärden, verhalten*
 
-**Examples**
+**Further Examples**
 
 - Er gibt sich jovial.
 - Ich verhalte mich abwartend.
@@ -244,7 +244,7 @@ c. ^* Die Musik stimmt freundlich.
 
 - *finden, stimmen*
 
-**Examples**
+**Further Examples**
 
 - Er findet den Stuhl gut.
 
@@ -290,7 +290,7 @@ b. Jetzt langt es aber!
 
 - Impersonals: *aussehen, erscheinen, funktionieren, gehen, klappen, langen*
 
-**Examples**
+**Further Examples**
 
 - Hier sieht es gut aus. Er sieht gut aus.
 - So geht es jahrelang, bis es 1982 dann gar nicht mehr geht. Das Radeln geht gut.
@@ -337,7 +337,7 @@ When the combination of adverbial and verb is considered to be a new lexicalised
 
 - *arbeiten, lachen, laufen, reden, schlafen, sitzen, sparen*, etc.
 
-**Examples**
+**Further Examples**
 
 - Ich lache mich tot/kaputt/schlapp
 - Ich spare mich reich.
@@ -357,7 +357,7 @@ b. Ich lache mich tot (über den Witz).
 
 - *tot* : *arbeiten, lachen*
 
-**Examples**
+**Further Examples**
 
 - Ich arbeite an einem Buch. Ich arbiete mich tot.
 
@@ -382,7 +382,7 @@ b. Der Junge ist losgerannt. Der losgerannte Junge.
 - *los* : *lachen, reden, rennen*
 - *leer* : *laufen*
 
-**Examples**
+**Further Examples**
 
 - Er redet/lacht los.
 - Der Eimer läuft leer.
@@ -404,7 +404,7 @@ b. Der Händler kauft die Sklaven frei.
 - *platt* : *walzen*
 - *gut* : *machen*
 
-**Examples**
+**Further Examples**
 
 - Ich schieße den Bären. Ich schieße den Bären tot.
 - Ich koche den Reis. Ich koche den Reis kaputt.
@@ -430,7 +430,7 @@ A very similar diathesis is attested with transitives, see [@sec:adverbial-refle
 - very many intransitives allow for this construction, like *leben, tanzen, lachen, ertrinken* etc.
 - however, there are many exceptions like *aufstehen, beginnen, stinken* etc.
 
-**Examples**
+**Further Examples**
 
 - Beim Kanufahren ertrinkt es sich leichter als bei der Aquarellmalerei.
 - Hier lebt es sich gut.
@@ -454,7 +454,7 @@ Kunze [-@kunze1996: 647] and Steinbach [-@steinbach1998] call this 'middle', Zif
 
 - *anfühlen, anhören, fahren, finden, gehen, laufen, lesen, lernen, malen, schneiden, schreiben, spielen, springen, tanzen, verdienen, verkaufen*
 
-**Examples**
+**Further Examples**
 
 - Ich fahre einen Lastwagen. Der Lastwagen fährt sich gut.
 - Ich verkaufe das Buch. Das Buch verkauft sich gut.
@@ -492,7 +492,7 @@ d. Das Essen schmeckt (gut).
 
 - *riechen, schmecken*
 
-**Examples**
+**Further Examples**
 
 - Ich schmecke den Rotwein in der Soße. Der Rotwein schmeckt (mir) gut.
 
@@ -513,7 +513,7 @@ d. Das Messer schneidet gut.
 
 - *schneiden, schreiben*
 
-**Examples**
+**Further Examples**
 
 - Ich schreibe den Brief mit einem Füller. Der Füller schreibt gut.
 
@@ -545,7 +545,7 @@ c. Morgen lese ich den ganzen Tag.
 
 - *lesen, rechnen, sehen, zählen, zerstören* etc.
 
-**Examples**
+**Further Examples**
 
 - Du hast die Aufgabe falsch gerechnet. Meine Tochter rechnet gerne mit Brüchen.
 - Er zählt die Stimmen. Er zählt leise vor sich hin.
@@ -580,7 +580,7 @@ d. Ich meine es.
 
 - *haben, meinen*
 
-**Examples**
+**Further Examples**
 
 - Ich meine dich. Ich meine es ernst.
 - Wir haben viel Geld. Wir haben es gut.
@@ -603,7 +603,7 @@ d. Ich binde den Hund los.
 - *los/fest* : *binden, haken, klopfen, schnallen, schrauben*
 - *weg* : *pumpen, pusten, schleudern, senden, stecken*
 
-**Examples**
+**Further Examples**
 
 - Die Pumpe pumpt das Wasser aus dem Keller. Die Pumpe pumpt das Wasser weg.
 - Ich puste die Asche vom Tisch. Ich puste die Asche weg.
@@ -651,7 +651,7 @@ b. Ich sehe mich satt an dem Gemälde.
 
 - *satt* : *essen, sehen, lesen*
 
-**Examples**
+**Further Examples**
 
 - Ich esse die Bouletten. Ich esse mich satt an den Bouletten.
 - Ich lese die Artikel. Ich lese mich satt an den Artikeln.
@@ -671,7 +671,7 @@ b. Ich kaufe das Geschäft leer.
 
 - *leer* : *essen, kaufen, pumpen*
 
-**Examples**
+**Further Examples**
 
 - Ich esse die Kartoffel von dem Teller. Ich esse den Teller leer.
 - Ich pumpe das Wasser aus dem Keller. Ich pumpe den Keller leer.
@@ -693,7 +693,7 @@ b. Der Hund bellt die Kinder wach.
 - *wach* : *bellen*
 - *kaputt* : *fallen, sparen*
 
-**Examples**
+**Further Examples**
 
 - Ich falle. Ich falle meine Hose kaputt.
 
@@ -732,7 +732,7 @@ b. Ich rede dein Benehmen gut.
 - *nieder* : *diskutieren, boxen*
 - *frei*   : *beten, bitten*
 
-**Examples**
+**Further Examples**
 
 - Ich fische in dem Teich. Ich fische den Teich leer.
 - Ich weine in das Taschentuch. Ich weine das Taschentuch nass.
@@ -774,7 +774,7 @@ b. Ich schenke das Glas voll (mit Wein).
 
 - *voll* : *kritzeln, laden, laufen, packen, pumpen, schenken, schreiben, tanken*
 
-**Examples**
+**Further Examples**
 
 - Ich kritzele/schreibe Buchstaben in dem Buch. Ich kritzele/schreibe das Buch voll (mit Buchstaben).
 - Ich lade Heu auf den Wagen. Ich lade den Wagen voll (mit Heu).

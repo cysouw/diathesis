@@ -693,7 +693,7 @@ There is a strong semantic tendency for the intransitives with *sein* to be more
 - with fixed prefix: *degenerieren, detonieren, gedeihen, gelangen, genesen, geschehen, explodieren*
 - with preverb: *abbiegen, abhauen (weglaufen), abmagern, abreisen, absaufen, absteigen, abstürzen, anbrennen, ankommen, anschwellen, ansteigen, auffallen, aufstehen, aufsteigen, auftreten, aufwachen, aufwachsen, ausbleiben, ausbrechen, ausfallen, ausgehen, auslaufen, aussteigen, auswandern, ausweichen, ausziehen (wohnen), beitreten, ˈdurchlaufen, ˈdurchsickern, ˈdurchfallen, ˈdurchgehen, eindringen, einfließen, einfrieren, einkehren, einreisen, einrosten, einschlafen, einsteigen, einstürzen, eintauchen, eintreffen, eintreten, emigrieren, entbrennen, entfliehen, entkommen, entstehen, erfrieren, erkranken, erlöschen, ermüden, erschallen, erscheinen, ertrinken, fehlschlagen, herumgehen, hinfallen, mitgehen, mitkommen, nachkommen, stehenbleiben, ˈumfallen, ˈumsiedeln, ˈumziehen, ˈuntergehen, ˈuntertauchen, ˈüberkochen, verbleiben, verblühen, verbluten, verdampfen, verfaulen, verfallen, verhungern, verreisen, verrosten, verrutschen, verschimmeln, verschwinden, versinken, versterben, vertrocknen, verwelken, vorgehen, vorkommen, wegfallen, weggehen, weglaufen, wegrennen, zerfallen, zerrinnen, zufrieren, zuwachsen, zurückfahren, zurückgehen, zurückkommen, zurücklaufen, zurückrennen*
 
-**Examples**
+**Further Examples**
 
 - Er ist ertrunken/verstorben/gestorben/gescheitert.
 - Er ist ausgebrochen/ausgegangen/ausgestiegen/ausgezogen.
@@ -840,7 +840,7 @@ b. Der Teller klebt am Tisch. \
 - Anticausative verbs ([@sec:case-haben-anticausative]): *abnehmen, abreißen, abstoßen, anfangen, anhalten, aufmachen, backen, baden, beginnen, bewegen, braten, bremsen, duschen, fliegen, heilen, kochen, landen, läuten, öffnen, rauchen, schließen, spielen (Tonträger), starten, stoppen, umdrehen, wiegen, zählen, zünden*
 - Location anticausative verbs ([@sec:prepositions-haben-caused-location]): *hängen, kleben, lehnen, stecken*
 
-**Examples**
+**Further Examples**
 
 - Nach Medienberichten soll dies in einem erpresserischen System gemündet haben.^[~~DWDS~~: Die Zeit, 08.11.2015 (online).] \
   Es ist die monatelange Stimmungsmache gegen Flüchtlinge, die den Hass säte, der in Tröglitz nun in Flammen gemündet ist.^[~~DWDS~~: Die Zeit, 04.04.2015 (online).]
@@ -907,7 +907,7 @@ c. Er ist aufgeregt (wegen den Lärm).
 - Reflexive conversive verbs ([@sec:reflexive-preposition-passive]): *anstrengen, aufregen, begeistern, beschäftigen, empören, entspannen, entwickeln, erfreuen, erschrecken, erstaunen, erzürnen, interessieren, langweilen*
 - Endoreflexive verbs ([@sec:reflexive-accusative-drop]): *abduschen, abhetzen, abwenden, anlehnen, anziehen, aufrichten, ausziehen, bewegen, entblößen, hinlegen, hinsetzen, hinstellen, neigen, organisieren, quälen, strecken, verbrennen*
   
-**Examples**
+**Further Examples**
 
 - Die Milch hat gekocht. Die Milch ist gekocht.
 - Das Flugzeug hat gelandet. Das Flugzeug ist gelandet.
@@ -980,7 +980,7 @@ Almost all verbs with governed prepositions take a *haben* Perfect. Only a small
 - *in*  : *einziehen, geraten*
 - *vor* : *fliehen, flüchten, weichen*
 
-**Examples**
+**Further Examples**
 
 - Ich bin nicht darauf gekommen.
 - Ich bin dabei geblieben.
@@ -1028,7 +1028,7 @@ Movement verbs with the preverbs *ˈab-* (in the meaning 'along') and *ˈdurch-*
 - *-gehen*  : *angehen, durchgehen, eingehen, hinabgehen, hinaufgehen, hochgehen*
 - others    : *loswerden*
 
- **Examples**
+ **Further Examples**
 
 - Wir sind die Papiere durchgegangen.
 - Wir sind den Vertrag eingegangen.
@@ -1105,7 +1105,7 @@ The secondary predicate usage is also possible with transitive verbs, but then t
 - movement verbs: *fliegen, hüpfen, laufen, schwimmen, zufliegen*, etc.
 - *an-* verbs only attested in the *kommen+Participle* constructions: *andampfen, andonnern, anfliegen, anflitzen, anhetzen, anheulen, ankeuchen, ankriechen, anlatschen, anlaufen, anpreschen, anrasen, anrasseln, anrauschen, anreisen, anreiten, anrennen, anrücken*
 
-**Examples**
+**Further Examples**
 
 - Er kam aus dem Haus gelaufen.
 - Er kam zum Ufer geschwommen.
@@ -1137,7 +1137,7 @@ The *bleiben+Partizip* construction is only possible with verbs that also allow 
 
 - *erkranken, verbrennen, verrosten, verschimmeln, verschwinden, vertrocknen, verwelken, zufrieren*
 
-**Examples**
+**Further Examples**
 
 - Die Blume bleibt verwelkt (verblüht).
 - Das Schloss bleibt verrostet.
@@ -1159,7 +1159,7 @@ A widespread option for transitive verbs is to use the *halten+Partizip* constru
 
 - halten: *ausstrecken, besetzen, drücken, fangen, richten, schließen, verbergen, verstecken*, etc.
 
-**Examples**
+**Further Examples**
 
 - Er hält seine Augen auf sie gerichtet.
 - Er hält den Brief verborgen.
@@ -1179,7 +1179,7 @@ Similar to the previous construction, the *lassen+Partizip* construction also ca
 
 - lassen: *anlehnen, ausklammern, einschalten, öffnen, zudecken*
 
-**Examples**
+**Further Examples**
 
 - Der Mann hatte den Zuleitungsschlauch ohne Zusatzsicherung mehrere Jahre hindurch geöffnet gelassen.^[~~DWDS~~: Der Tagesspiegel, 12.07.2004.]
 - Die Tür hatte sie angelehnt gelassen, jetzt stand sie sperrangelweit offen.^[~~DWDS~~: Die Zeit, 23.03.1990, Nr. 13.]
@@ -1203,7 +1203,7 @@ The construction of the light verbs *bekommen/kriegen+Partizip* is widely discus
 
 - *kochen, öffnen, schließen, trocknen, vermieten, verschieben, zerbrechen*, etc.
 
-**Examples**
+**Further Examples**
 
 - Wenn wir die Pforte geschlossen bekommen, verfassen wir nachträglich einen Bericht.^[Regnier, Sandra. 2017. *Die magische Pforte der Anderwelt*, p. 122. Available online at <https://books.google.de/books?id=Lhm1DgAAQBAJ&pg=122>, accessed 16 July 2021.]
 - Er kriegt den Stock zerbrochen.
@@ -1268,7 +1268,7 @@ b. Der Verlust macht mich betroffen.
 
 - *betreffen, verbittern, verstören, verzagen*
 
-**Examples**
+**Further Examples**
 
 - Das Geschehen macht mich verbittert.
 - Der Bericht hat mich verstört gemacht.
@@ -1296,7 +1296,7 @@ The *nehmen+Partizip* construction frequently occurs with *fangen* 'to catch' in
 
 - *fangen, festnehmen, schenken*
 
-**Examples**
+**Further Examples**
 
 - Der mutmaßliche zweite Terrorverdächtige von Boston ist nach Polizeiangaben festgenommen genommen.^[~~DWDS~~: Die Zeit, 20.04.2013 (online).]
 - Ich habe mich übrigens nie als Miteigentümer der Leuna-Werke verstanden und hätte sie 1990 nicht geschenkt genommen.^[~~DWDS~~: Die Zeit, 12.05.2005, Nr. 20]
@@ -1401,7 +1401,7 @@ Reflexive conversive verbs (see [@sec:reflexive-preposition-passive])
 - *über*  : *aufregen, ärgern, begeistern, beschweren, empören, freuen, wundern*
 - *um*    : *kümmern*
 
-**Examples**
+**Further Examples**
 
 - Als Erstes wird sich allgemein darüber gewundert, wie anders man doch aussehe und dass man sich dennoch wieder erkannt habe.^[~~DWDS~~: Berliner Zeitung, 01.12.2004]
 - Wenn du etwas falsch machst, wird sich um dich gekümmert.^[~~DWDS~~: Die Zeit, 24.09.2015 (online).]
@@ -1425,7 +1425,7 @@ Only a small subset of all verbs with a dative argument allow for an impersonal 
 - *haben* Perfect: *antworten, beipflichten, bevorstehen, entsprechen, gratulieren, helfen, nacheifern, trauen, vertrauen, zuhören, zureden*
 - *sein* Perfect: *beitreten, folgen, nachgehen*
 
-**Examples**
+**Further Examples**
 
 - Auch in diesem Fall wird dem Gesprächspartner zuerst beigepflichtet, indem [...].^[Attested online at <https://wortwuchs.net/stilmittel/concessio/>, accessed 6 Juni 2021]
 - Ich weiß nicht, wie weit dem Zola-Roman gefolgt wird.^[~~DWDS~~: Klemperer, Victor: [Tagebuch] 1928. In: "Leben sammeln, nicht fragen wozu und warum", Berlin: Aufbau-Taschenbuch-Verl. 2000, S. 258]
@@ -1546,7 +1546,7 @@ Third, *bleiben+Partizip* is only possible with a small subset of all verbs that
 
 - *fangen, füllen, öffnen, schließen, verwarnen*, etc.
 
-**Examples**
+**Further Examples**
 
 - Die Tür bleibt geschlossen
 - Der Betrüger bleibt gefangen
@@ -1649,7 +1649,7 @@ This construction typically occurs with 'state-of-mind' verbs. Though note that 
 
 - *aufklären, befriedigen, besiegen, entspannen, erfüllen, ermutigen, lösen, motivieren, schlagen, überzeugen*
 
-**Examples**
+**Further Examples**
 
 - Er gibt sich geschlagen/besiegt/gewonnen.
 
@@ -1675,7 +1675,7 @@ b. Die Worte stehen auf der Titelseite geschrieben.
 
 - *korrigieren, öffnen, schließen*
 
-**Examples**
+**Further Examples**
 
 - Vielleicht auch, weil er weiß, dass die Truppen hinter ihm nicht geschlossen stehen.^[~~DWDS~~: Berliner Zeitung, 12.10.2004.]
 - Wenn die SPD nicht geschlossen stehe, werde es schwierig, den Wahlkampf durchzustehen.^[~~DWDS~~: Die Zeit, 29.09.2012, Nr. 40.]
@@ -1700,7 +1700,7 @@ b. Er geht gebückt.
 
 - *gewinnen, vergessen, verlieren*
 
-**Examples**
+**Further Examples**
 
 - Und mit ein wenig Glück hätte das Spiel auch gewonnen gehen können.^[~~DWDS~~: Die Zeit, 16.11.2013, Nr. 47.]
 - "Natürlich denke ich darüber nach, weshalb ich das tue", sagt sie jetzt, den Blick auf die Straße gerichtet, "wie viel Lebensqualität mir verloren geht, was das überhaupt bringt."^[~~DWDS~~: Die Zeit, 09.07.2017, Nr. 28.]
@@ -1813,7 +1813,7 @@ The following verbs with accusative arguments do not seem to allow for a *sein+p
 - Alternation with prefixes: *ärgern (verärgern), brauchen (verbrauchen), ekeln (anekeln), freuen (erfreuen), hassen (verhassen), heiraten (verheiraten), kratzen (zerkratzen), wundern (verwundern)*
 - Different meaning of participle: *anhalten, ergeben, stören*
 
-**Examples**
+**Further Examples**
 
 - Er feiert seinen Geburtstag. *Der Geburtstag ist gefeiert.
 - Er fühlt den Stich. *Der Stich ist gefühlt.
@@ -1889,7 +1889,7 @@ b. Er macht sich bei der Polizei verdächtigt.
 
 - *fürchten, verdächtigen*
 
-**Examples**
+**Further Examples**
 
 - Die Lehrer fürchten ihn. Er hat sich gefürchtet gemacht (bei den Lehrern).
 
@@ -1919,7 +1919,7 @@ The *bekommen* dative passive is typically found with verbs with a dative that a
 
 - Examples from Leirbukt [-@leirbukt1997: 64]: *applaudieren, assistieren, beipflichten, danken, drohen, gratulieren, heimleuchten, pfeifen, schmeicheln, widersprechen, zuarbeiten, zujubeln, zuwinken*
 
-**Examples**
+**Further Examples**
 
 - Er bekommt zugearbeitet/beigepflichtet/gedankt.
 - Auf diesem Wege möchte man gerne zum Geburtstag gratuliert bekommen.^[Attested online at <https://www.tafeldeko.de/news/geburtstagsgruesse-viele-moeglichkeiten-zu-gratulieren/>, accessed 16 July 2021.]
@@ -1940,7 +1940,7 @@ The choice between the light verbs *bekommen*, *kriegen* and *erhalten* does not
 
 - Leirbukt [@leirbukt1997: 68-99] lists hundreds of verbs organised in many semantic classes.
 
-**Examples**
+**Further Examples**
 
 - Ich baue dir ein Haus. \
   Du bekommst (von mir) ein Haus gebaut.
@@ -2044,7 +2044,7 @@ There is a fascinating parallel between different kinds of *Pertinenzdativ* and 
 - Repair: *aktualisieren, korrigieren, reparieren, verbinden*
 - Manipulation: *aufstellen, einbauen, einrüsten, versperren*
 
-**Examples**
+**Further Examples**
 
 - Während der Brexit-Kampagne wetterte Boris Johnson unermüdlich gegen die Europäische Union - jetzt nimmt er als britischer Außenminister erstmals an einer Sitzung mit Amtskollegen in Brüssel teil. Erste Beobachtung: Er hat die Haare geschnitten.^[Attested online at <https://www.n-tv.de/der_tag/Boris-Johnson-in-Bruessel-ganz-handzahm-article18215036.html>, accessed 15 July 2021.]
 - Bei der zweiten Attacke, die wieder in ihrem Haus stattfindet, reißt sie ihm die Ski-Maske vom Gesicht, erkennt ihn und jagt ihm eine Schere durch die Hand, die sie von ihrem Schreibtisch ergattern konnte, woraufhin er flüchtet. Am nächsten Tag begegnen sie sich auf der Straße vor ihren Häusern. Er hat die Hand verbunden.^[Attested online at <https://andreas-huckele.de/elle-ein-film-von-paul-verhoeven-mit-isabelle-huppert-ein-kinoabend-zum-selberdenken/>, accessed 15 July 2021.]
@@ -2092,7 +2092,7 @@ d. ^* Ich habe mich von dem Witz angewidert.
 - *mit*  : *beschäftigen*
 - *durch*: *entspannen*
 
-**Examples**
+**Further Examples**
 
 - Der Geruch hat ihn angewidert. Er ist angewidert von dem Geruch.
 - Der Witz hat ihn amüsiert. Er ist amüsiert über den Witz.
@@ -2127,7 +2127,7 @@ b. Das Geschenk liegt in der Schublade versteckt.
 
 - *begründen, beschließen, verbergen*
 
-**Examples**
+**Further Examples**
 
 - Trotz aller Fehltritte und Peinlichkeiten, die sich Hannah und Co. leisteten, vergaß Girls nicht, dass im größten Desaster immer auch die Hoffnung auf einen Neustart begründet liegt.^[~~DWDS~~: Die Zeit, 13.02.2017 (online).]
 - Die Tatsachen aber sind hart, wie die Wahrheit, die in ihnen beschlossen liegt.^[~~DWDS~~: Die Zeit, 18.09.1964, Nr. 38.]
@@ -2148,7 +2148,7 @@ b. Die Bezahlung macht den Job begehrt.
 
 - *begehren, beschämen*
 
-**Examples**
+**Further Examples**
 
 - Sie beschämt mich durch ihre Großmut. Ihre Großmut macht mich beschämt.
 
@@ -2222,7 +2222,7 @@ b. Sie weiß das Kind eingeschlafen.
 
 - *einschlafen*
 
-**Examples**
+**Further Examples**
 
 ### [ –N | NA ] *glauben+Partizip* Intransitive opiniative {#sec:participles-glauben-opinionator}
 
@@ -2235,7 +2235,7 @@ a. Er glaubte den Sieg gekommen.
 
 - *einschlafen, kommen*
 
-**Examples**
+**Further Examples**
 
 - Als die Tochter des Hauses, die schon längst für Jean Pauls Romane schwärmte, ihn sicher eingeschlafen glaubte, trat sie leise ins Zimmer, um ihn recht nach Herzenslust zu betrachten.^[~~DWDS~~: Parthey, Gustav: Jugenderinnerungen. Bd. 2. Berlin, [1871].]
 
@@ -2251,7 +2251,7 @@ b. Viele Menschen sehen die UN bereits gescheitert. \
 
 - *scheitern*
 
-**Examples**
+**Further Examples**
 
 - Während viele Nichtregierungsorganisationen die UN bereits gescheitert sehen, hat Weltbank-Präsident James Wolfensohn noch Hoffnung.^[~~DWDS~~: Berliner Zeitung, 26.01.2005 .]
 
@@ -2266,7 +2266,7 @@ b. Ich finde ihn gewachsen.
 
 - *gelingen, scheitern, wachsen*
 
-**Examples**
+**Further Examples**
 
 - Ich finde das Projekt gescheitert.
 - Ich finde das Kunstwerk sehr gelungen.
@@ -2291,7 +2291,7 @@ b. Ich weiß die Ostgebiete dem Kontrollrat unterstellt.
 
 - *aufheben, lieben, regeln, unterstellen, verstehen*
 
-**Examples**
+**Further Examples**
 
 - ... wenn er die materiellen Fragen vor der Eheschließung geregelt weiß.^[~~DWDS~~: Gerling, Reinhold: Was muß man vor der Ehe von der Ehe wissen? In: ders., Das große Aufklärungswerk für Braut- und Eheleute, Dresden: Buchversand Gutenberg 1933 [1901], S. 207.]
 - Sie schob den Hausarzt vor, den sie von dem Jungen wie einen Freund geliebt wußte.^[~~DWDS~~: Bodenreuth, Friedrich [d.i. Jaksch, Friedrich]: Alle Wasser Böhmens fließen nach Deutschland, Berlin: Büchergilde Gutenberg 1938 [1937], S. 22.]
@@ -2324,7 +2324,7 @@ b. Er glaubt das Seil vom Wind zerrissen. \
 
 - *benachteiligen, entschuldigen, erreichen, lieben, verfolgen, verlieren, verraten, zerreißen*
 
-**Examples**
+**Further Examples**
 
 - Er glaubte den Ring verloren.
 - Er glaubte den Sieg erreicht.
@@ -2346,7 +2346,7 @@ b. Die Zeitung sieht das Vertrauen durch den Autor gebrochen.
 
 - *bestärken, bestätigen, brechen, nötigen, verpflichten, zwingen*
 
-**Examples**
+**Further Examples**
 
 - Während die WAZ das Vertrauen und den Gesellschaftervertrag gebrochen sieht und juristisch gegen Dichand vorgeht, wehrt sich Dichand publizistisch.^[~~DWDS~~: Der Tagesspiegel, 24.01.2003.]
 
@@ -2368,7 +2368,7 @@ b. Du findest mich vom Alter verändert?
 
 - *bestätigen, nötigen, verändern*
 
-**Examples**
+**Further Examples**
 
 - Um die Sache zu prüfen, habe er im Urlaub mal einen Nacktbadestrand aufgesucht - und dort das Bild aus der Sauna bestätigt gefunden.^[~~DWDS~~: Die Zeit, 15.02.2016 (online).]
 
@@ -2393,7 +2393,7 @@ b. Die Qualifikation macht mich geeignet für den Job.
 
 - *besaufen, eignen, konzentrieren*
 
-**Examples**
+**Further Examples**
 
 - Ich konzentriere mich (durch den Kaffee). Der Kaffee macht mich konzentriert.
 - Ich besaufe mich (mit Wein). Der Wein macht mich besoffen.
@@ -2441,7 +2441,7 @@ A similar, but more widespread diathesis is the *haben+am‑Infinitiv* construct
 
 - *einwachsen, schwellen, zufrieren*
 
-**Examples**
+**Further Examples**
 
 - Ihm sind Haare im Auge eingewachsen. \
   Er hatte Haare im Auge eingewachsen.

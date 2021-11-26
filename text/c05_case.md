@@ -188,7 +188,7 @@ The number of monomorphemic 'strictly' transitive verbs seems to be very limited
 - Monomorphemic: *bilden, brauchen, finden, freuen, grüßen, kennen, kriegen, merken, mögen, pflegen, tanken, wecken*
 - Verbpräfixes/particles: *abmessen, abschreiten, abwiegen, angehen, ansehen, ansetzen, begrüßen, beängstigen, behalten, bekommen, beruhigen, beschäftigen, darstellen, entschuldigen, erreichen, umfassen, unterbrechen, verachten, verletzen, verschwenden, zerreißen, zerstören*
 
-**Examples**
+**Further Examples**
 
 - Die Schüler bilden eine Klasse.
 - Ich brauche einen Kaffee.
@@ -210,7 +210,7 @@ The verbs in this class need both a nominative subject argument and a second dat
 
 - *ähneln, ähnlich sein, angehören, antworten, begegnen, beipflichten, bleiben, einfallen, entgegen kommen, entgehen, entsprechen, gefallen, gegenüber treten, gehören, gelten, glauben (vertrauen), gleichen, glücken, imponieren, liegen, missfallen, nacheifern, schaden, stehen, trauen, unterlaufen, unterliegen, unterstehen, verfallen, widerfahren, zufallen, zureden, zustoßen, zuneigen*
 
-**Examples**
+**Further Examples**
 
 - Ich gehöre der Gruppe an.
 - Ich begegne einer Überraschung.
@@ -249,7 +249,7 @@ There are a few verbs in German that have a genitive argument. These verbs are s
 
 - *entraten, entübrigen, ermangeln, gedenken, harren, Herr werden, walten*
 
-**Examples**
+**Further Examples**
 
 - Ich muss leider seiner Mitarbeit entraten. (Meaning like *verzichten*)
 - Die Methode entübrigt des Putzens.
@@ -267,7 +267,7 @@ This class consists of the classical ditransitive verbs with an obligatory nomin
 
 - *abgewöhnen, benehmen, bescheren, schulden, überlassen, verdanken, vorsagen, widmen, zutrauen, schenken*
 
-**Examples**
+**Further Examples**
 
 - Wir müssen ihm die Unpünktlichkeit abgewöhnen.
 - Der Schreck benimmt ihm den Atem.
@@ -340,7 +340,7 @@ d. Die Miete wird monatlich gezahlt.
 - Quantity: *enthalten, kosten, rechnen, sparen, wachsen, wiegen, zunehmen*
 - Quantity of time: *dauern*
 
-**Examples**
+**Further Examples**
 
 - Der Laster wiegt einen Zentner. Wieviel/was wiegt der Laster?
 - Der Tisch kostet ein Jahresgehalt. Wieviel/was kostet der Tisch?
@@ -369,7 +369,7 @@ b. ^* Ein Egoist wird dich genannt.
 
 - *heißen, nennen, schelten, schimpfen, schmähen, taufen*
 
-**Examples**
+**Further Examples**
 
 - UN-Beamte und internationale Medien heißen den 59-Jährigen weniger schmeichelhaft einen »Psychopathen« oder »Afrikas Miloevi«.^[~~DWDS~~: Die Zeit, 24.05.2007, Nr. 22.]
 - Er nennt den Gründer der Sowjetunion einen Verräter.^[~~DWDS~~: Die Zeit, 31.10.2017 online.]
@@ -397,7 +397,7 @@ b. Hier stinkt es aber.
 
 - Dispersion Verbs: *abkühlen, blühen, dampfen, duften, klingeln, knistern, krachen, riechen, spriessen, stinken*
 
-**Examples**
+**Further Examples**
 
 - Der Nachbar klingelt an der Tür. An der Tür klingelt es. 
 - Der Müll riecht. Hier riecht es. 
@@ -417,7 +417,7 @@ b. Dieses Jahr gibt es einen guten Wein.
 
 - *brauchen, geben*
 
-**Examples**
+**Further Examples**
 
 - Ich brauche euch. Es braucht alle im Kampf gegen die Diktatur. 
 - Der Verkäufer gibt den Lutscher gratis dazu. Den Lutscher gibt es gratis dazu.
@@ -474,7 +474,7 @@ Because this diathesis is unmarked it is difficult to decide whether this should
 
 - *abnehmen, abreißen, abstoßen, anfangen, anhalten, aufmachen, backen, baden, beginnen, bewegen, braten, bremsen, duschen, fliegen, heilen, kochen, landen, läuten, öffnen, rauchen, schließen, spielen (Tonträger), starten, stoppen, umdrehen, wiegen, zählen, zünden*
 
-**Examples**
+**Further Examples**
 
 - Der Doktor heilt die Wunde. Die Wunde hat geheilt. Die Wunde ist geheilt.
 - Der Mitarbeiter öffnet den Laden. Der Laden hat geöffnet/aufgemacht. Der Laden ist geöffnet/aufgemacht.
@@ -559,7 +559,7 @@ Another different diathesis adding arguments to weather verbs is the addition of
 
 - *regnen, stürmen, tauen, wehen*
 
-**Examples**
+**Further Examples**
 
 - Der Regen regnet täglich.
 - Das Wetter stürmt.
@@ -595,7 +595,7 @@ Although there is no overt difference between an unmarked anticausative and an u
 - *altern, biegen, bleichen, brechen, fahren, knicken, reifen, reißen, rollen, schmelzen, stürzen, tauen, trocknen*
 - *abbrechen, abbrennen, abknicken, abkühlen, abstumpfen, antreten, auftauen, austrocknen, einbiegen, einfliegen, einfrieren, einknicken, einreißen, ermatten, erstaunen, ersticken, ertrinken, erzürnen, niederbrennen, umkehren, umstürzen, überfahren, verbrennen, verderben, verdunsten, verrohen, wegtreten, zerbrechen, zerknittern, zerreißen, zersplittern, zuklappen, zuschneien*
 
-**Examples**
+**Further Examples**
 
 - Er verbrennt die Papiere. Die Papiere verbrennen. Die Papiere sind verbrannt.
 - Die Streitkräfte stürzen die Regierung. Die Regierung ist gestürzt.
@@ -627,7 +627,7 @@ b. Ich habe den Baum gefällt.
 
 - *biegen/beugen, fallen/fällen, saugen/säugen, sinken/senken, springen/sprengen*
 
-**Examples**
+**Further Examples**
 
 - Das Schiff sinkt. Ich senke die Fahne.
 - Der Hund springt. Ich sprenge das Gebäude.
@@ -700,7 +700,7 @@ What is left over is just an apparently very small group of transitive verbs tha
 
 - *angreifen, feiern, nerven, regieren, stören, studieren, wählen*
 
-**Examples**
+**Further Examples**
 
 - Du störst die Veranstaltung. Du störst.
 - Er regiert das Land. Die Vernunft regiert hier.
@@ -730,7 +730,7 @@ d. Er nennt den Namen des Kindes.
 
 - *abfragen, lehren*
 
-**Examples**
+**Further Examples**
 
 - Die alte Dame fragt den Schüler Englischvokabeln ab.^[~~DWDS~~: Die Zeit, 19.11.2009, Nr. 48.] 
 
@@ -781,7 +781,7 @@ In this section only those verbs are listed for which the only alternative for t
 
 - *auffallen, beiliegen, beitreten, bevorstehen, einleuchten, entkommen, entwischen, erscheinen, fehlen, folgen, gelingen, geschehen, gratulieren, helfen, passieren, schmecken, sitzen, unterliegen, weglaufen, zuhören, zulaufen*
 
-**Examples**
+**Further Examples**
 
 - Ihre Fehler fallen (mir) auf.
 - Das Formular liegt (dem Schreiben) bei.
@@ -815,7 +815,7 @@ c. Ich verbiete das Rauchen.
 - Verbal performatives: *aussprechen, befehlen, beschreiben, beweisen, bieten, empfehlen, erlauben, erzählen, gestehen, gestatten, mitteilen, nahelegen, nennen, verbieten, verraten, verschreiben, versprechen, verweigern, vorschlagen, vorschreiben, wünschen, zuneigen*
 - Non-verbal performatives: *reichen, vorführen, vormachen, zahlen*
 
-**Examples**
+**Further Examples**
 
 - Ich spreche (dir) den Dank aus.
 - Ich erzähle (dir) eine Geschichte.
@@ -868,7 +868,7 @@ As there are already very few verbs with genitive arguments in German, there app
 
 - *anklagen, belehren, besinnen, bezichtigen, überführen, würdigen*
 
-**Examples**
+**Further Examples**
 
 - Er würdigte den Vorschlag einer eingehenden Prüfung. Er würdigt den Vorschlag.
 - Ich bezichtige dich nicht des Diebstahls. Ich bezichtige dich nicht.
@@ -908,7 +908,7 @@ d. Ich flüsterte ihm die Lösung ins Ohr.
 - *atmen, fliehen, hetzen, laufen, leben, schauen, schwimmen, singen, spielen, springen, tanzen*
 - Manner-of-speaking: *brüllen, flüstern, grölen, johlen, murmeln, schreien, stottern*
 
-**Examples**
+**Further Examples**
 
 - Er hat die 400 meter geschwommen.
 - Er hat ein Lied gesungen.
@@ -938,7 +938,7 @@ a. Es schneit Absagen
 
 - Weather verbs: *schneien, hageln, regnen*
 
-**Examples**
+**Further Examples**
 
 - Es schneit. Gestern hat es dicke Flocken geschneit.
 - Es regnet. Gestern hat es nur einzelne Tropfen geregnet.
@@ -962,7 +962,7 @@ d. ^* Meine Füße brennen dir.
 - natural processes: *anbrennen, blühen, brechen, dampfen, rosten, stinken, überkochen, verblühen, verfaulen, verrosten, verwelken, zufrieren, rauchen*
 - Others: *langen*
 
-**Examples**
+**Further Examples**
 
 - Meine Füße brennen. Mir brennen die Füße.
 - Meine Nase friert. Mir friert die Nase.
@@ -1023,7 +1023,7 @@ This alternation occurs with all verbs with the *von* and *für* dative antipass
 - Repair: *aktualisieren, korrigieren, reparieren*
 - Others: *ausstellen, beantworten, dressieren, packen*
 
-**Examples**
+**Further Examples**
 
 - Ich beschädige dir das Auto. Ich beschädige dein Auto.
 - Ich versalze dir die Suppe. Ich versalze deine Suppe.
@@ -1094,7 +1094,7 @@ b. Der Hebel nutzt dem Arbeiter wenig.
 
 - *nutzen, schmecken*
 
-**Examples**
+**Further Examples**
 
 - Ich schmecke den Knoblauch nicht. Knoblauch schmeckt mir nicht.
 
@@ -1130,7 +1130,7 @@ b. Er lehrt mir den Trick.
 
 - *kosten, lehren, nennen*
 
-**Examples**
+**Further Examples**
 
 - Ich nenne dich einen Egoisten. Ich nenne dir drei Möglichkeiten.
 - Das Buch kostet mich keinen Pfennig. Das wird mir noch viel kosten.
@@ -1152,7 +1152,7 @@ b. Man achtete uns nicht.
 
 - *achten*
 
-**Examples**
+**Further Examples**
 
 - Es ist gut zu Markte zu gehen bei ihnen, denn sie achten des Reichtums und Goldbesitzes gar gering.^[~~DWDS~~: Perutz, Leo: Die dritte Kugel, Reinbek bei Hamburg: Rowohlt 1988 [1915], S. 36.]
 - Niemand achtete des gähnenden Abgrundes.^[~~DWDS~~: May, Karl: Winnetou IV, Berlin: Neues Leben 1993 [1910], S. 435.]

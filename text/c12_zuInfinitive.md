@@ -160,7 +160,7 @@ Even less mentioned is *verstehen+zu‑Infinitiv* [cf. @engel1996: 483], which l
 - ^* Er hat verstanden zu siegen.
 :::
 
-**Examples**
+**Further Examples**
 
 - Ich weiß deinen Einsatz zu schätzen.
 - Ich weiß ihn nirgends einzuordnen.^[Attested online at <https://www.philaseiten.de/cgi-bin/index.pl?PR=51029>, accessed 26 October 2021.]
@@ -185,7 +185,7 @@ b. Die Schüler haben die Aufgaben zu lösen.
 c. Es ist bekannt, dass die Schüler die Aufgaben zu lösen haben.
 :::
 
-**Examples**
+**Further Examples**
 
 - Was hat das zu bedeuten?
 - Du hast ihm zu helfen!
@@ -246,7 +246,7 @@ In most contexts, the verb *denken* means 'to think'
 - ^^?^ Es ist bekannt, dass ich denke, ihn zu überraschen.
 :::
 
-**Examples**
+**Further Examples**
 
 - Weil damals eine schicksalhafte Wahlschlacht anstand, die Putin für sich zu gewinnen dachte.^[~~DWDS~~: Die Zeit, 05.01.2006, Nr. 02.]
 - Der Prinz besah sich einige neue Juwelen, die er heimlich zu tragen dachte.^[~~DWDS~~: Klepper, Jochen: Der Vater, Gütersloh: Bertelsmann 1962 [1937], S. 452.]
@@ -329,7 +329,7 @@ This construction appears to be restricted to intransitive verbs. It might appea
 
 - *liegen, wohnen, leben, glauben, blühen, sprechen, stehen*
 
-**Examples**
+**Further Examples**
 
 - Er kam auf das Thema zu sprechen.
 - Sie kam neben mir zu stehen.
@@ -386,7 +386,7 @@ It is slightly more common to find impersonal *sein+zu‑Infinitiv* construction
 
 - *antworten auf, arbeiten an, lachen über, spaßen mit, warten auf*
 
-**Examples**
+**Further Examples**
 
 - Daran ist zu arbeiten.^[~~DWDS~~: Die Zeit, 28.10.1999, Nr. 44.]
 - Und noch über einen Engel ist zu lachen, wenn man der Erzengel ist.^[~~DWDS~~: Vischer, Friedrich Theodor von: Ästhetik oder Wissenschaft des Schönen. Bd. 1. Reutlingen u. a., 1846.]
@@ -404,7 +404,7 @@ Similar to the previous section, impersonal *sein+zu‑Infinitiv* is possible wi
 
 - *beitreten, gedenken, gratulieren, helfen, trauen*
 
-**Examples**
+**Further Examples**
 
 - Wer wirklich reif sein will für die Reifeprüfung, dem ist zu helfen.^[~~DWDS~~: Berliner Zeitung, 02.10.2000.]
 - Den tragenden Gründen dieser Stellungnahme ist beizutreten.^[~~DWDS~~: Die Zeit, 17.02.1984, Nr. 08.]
@@ -439,7 +439,7 @@ This constructions is commonly used with an quantified adverb like *viel/genug/r
   Es gibt einen Preis zu gewinnen.
 :::
 
-**Examples**
+**Further Examples**
 
 - Noch einen anderen Grund gibt es für Nadella die freien Hersteller zu umgarnen.^[~~DWDS~~: Die Zeit, 03.04.2014, Nr. 15]
 - Es gibt jetzt wichtigeres zu tun.
@@ -460,7 +460,7 @@ The *gelten+zu‑Infinitiv* construction is typically coherent, viz. the finite 
 - Das ist eine Tradition, die es gilt zu erinnern und zu erhalten.^[~~DWDS~~: Berliner Zeitung, 09.11.1996.]
 :::
 
-**Examples**
+**Further Examples**
 
 - Da war also der Punkt an dem es einzusetzen galt. [@bech1955: 220-222]
 - Das ist der Jackpot, den es für uns zu knacken gilt.^[~~DWDS~~: Die Zeit, 16.11.2010 (online).]
@@ -523,7 +523,7 @@ There is a special idiomatic construction *VERB, was zu VERB geht* [@next] that 
 
 - *ändern, bauen, beheben, kitten, löschen, reparieren, rezipieren, schneiden, stopfen, verschließen*
 
-**Examples**
+**Further Examples**
 
 - Dieses glas geht nicht zu schneiden weil es Sicherheitsglas ist.^[Attested online at <https://www.gutefrage.net/frage/schneiden-einer-feuerfesten-scheibe>, accessed 8 November 2021.]
 - Leichtes Balsa geht zu schneiden, vor allem wenn es dunkles Balsa ist.^[Attested online at <https://www.rc-network.de/threads/portalfräse-mit-laser-nachrüsten.370360/page-4>, accessed 8 November 2021.]
@@ -579,7 +579,7 @@ The following verbs with accusative arguments do not allow for a *sein+zu‑Infi
 - Verbs of possession: *besitzen*
 - Other verbs without passive: *kennen, schmerzen (traurig machen, mit Akkusativ)*
 
-**Examples**
+**Further Examples**
 
 - Ein Loblied ist zu singen auf dieses Buch.^[~~DWDS~~: Die Zeit, 09.06.2005, Nr. 24]
 - Mein Rücktritt war nur politisch zu begründen.
@@ -624,7 +624,7 @@ This causative construction is also widely attested with other verbs, e.g. *trin
 - Verbs of consumption: *beißen, essen, fressen, trinken, saufen, schlucken*
 - Other agentive verbs: *leben, lesen, lernen, lösen, tragen, schaffen (arbeiten), tun*
 
-**Examples**
+**Further Examples**
 
 - Er gibt dem Kind Milch zu trinken.
 - Er gibt mir viel zu tragen.
@@ -702,7 +702,7 @@ The *bleiben+zu‑Infinitiv* is commonly used with verbs that take a complement 
 - Verbs with complement clauses: *abwarten, beachten, berichten, diskutieren, entscheiden, erledigen, erwägen, hoffen, prüfen, sehen, untersuchen, wünschen*
 - Agentive verbs: *anmelden, berücksichtigen, einräumen, entdecken, klären, tun*
 
-**Examples**
+**Further Examples**
 
 - Jetzt bleibt nur noch dieser eine Schrank einzuräumen. [@colomo2010: 196]
 - Zu diskutieren bleibt der mögliche Molekularmechanismus der Konversion.^[~~DWDS~~: Bresch, Carsten: Klassische und molekulare Genetik, Berlin u. a.: Springer 1965 [1964], S. 174.]

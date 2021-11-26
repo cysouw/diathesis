@@ -254,7 +254,7 @@ The construction *bleiben+Infinitiv* [cf. @eisenberg2006a: 351; @engel1996: 476]
 - other stative verbs: *bestehen, erhalten, haften, hocken, vergessen*
 - possibly also with activities: *laufen, leben, schicken*
 
-**Examples**
+**Further Examples**
 
 - Drehe ich den Regler wieder nach rechts um Warmwasser zu fragen geht der Brenner wieder an und bleibt laufen obwohl kein Warmwasser gezapft wird.^[Attested online at <https://www.haustechnikdialog.de/Forum/t/242166/Viessmann-Vitopend-100-bleibt-laufen>, accessed 24 September 2021.]
 - Und wenn jemanden eine Schlange biss, so sah er die eherne Schlange an und blieb leben.^[Lutherbibel 1984: 4.Mose 21:9]
@@ -333,7 +333,7 @@ The construction *haben+Infinitiv* describes a situation in which the subject is
 - Utterance verbs: *protzen, reden, sagen, schimpfen, trösten, verbieten*
 - Others: *beweisen, lachen, regieren*.
 
-**Examples**
+**Further Examples**
 
 - Jungen haben leicht sagen: "Mädchen sind doof."^[~~DWDS~~: Die Zeit, 20.10.1978, Nr. 43.]
 - Wer behauptet, es laufe in der Geschichte alles auf das gleiche hinaus, und als Beweis dafür Szenen liefert, die immer auf das gleiche hinauslaufen, der hat leicht beweisen.^[~~DWDS~~: Die Zeit, 28.04.1972, Nr. 17.]
@@ -470,7 +470,7 @@ d. ^* Hier lässt es sich schwer bluten.
 - agentive intransitives like *atmen, laufen, leben, schwimmen, singen, spielen, springen, tanzen, träumen* etc.
 - not possible with patientive intransitives like *platzen, bluten, niesen, husten*, etc.
 
-**Examples**
+**Further Examples**
 
 - An der frischen Luft lässt es sich frei atmen.
 
@@ -569,7 +569,7 @@ Verbs like *übersehen* 'to overlook' [@next a] or *erläutern* 'to elucidate' [
 - This diathesis seems possible with most transitive verbs, e.g. *bezweifeln, schließen, tragen*.
 - Some verbs appear to expect an evaluative adverbial, e.g. *übersehen, erläutern*.
 
-**Examples**
+**Further Examples**
 
 - Ich bezweifele die Lösung. Die Lösung lässt sich bezweifeln.
 
@@ -598,7 +598,7 @@ b. Ich lasse mich von diesem Witz begeistern.
 - Verbs of negative emotions, typicaly with negation: *ärgern, beruhigen, erschrecken, empören, erzürnen, langweilen, stören*
 - Verbs of positive emotions, typically without negation: *begeistern, belustigen, erheitern, unterhalten, quälen*
 
-**Examples**
+**Further Examples**
 
 - Davon lasse ich mich nicht ärgern/stören.
 - Ich lasse mich nicht schnell erschrecken, sagen wir es so.^[~~DWDS~~: Der Tagesspiegel, 26.10.2003]
@@ -624,7 +624,7 @@ A few verbs, like *helfen* 'to help' [@next a] and *gratulieren* 'to congratulat
 
 - *gratulieren, helfen, imponieren*
 
-**Examples**
+**Further Examples**
 
 - Ich lasse mir nicht davon imponieren, aber ich rechne damit.^[~~DWDS~~: Die Grenzboten. Jg. 65, 1906, Viertes Vierteljahr.]
 
@@ -678,7 +678,7 @@ b. ^* Ich lasse seinem Freund den Rechner schenken (von dem Verkäufer).
 
 - *schenken, schneiden, verbieten*, etc.
 
-**Examples**
+**Further Examples**
 
 - Ich verbiete ihr das Rauchen nicht. Sie lässt sich (von mir) das Rauchen nicht verbieten.
 
@@ -794,7 +794,7 @@ b. Er schickt mich Bier holen.
 - agentive intransitives: *duschen, einkaufen, schlafen*, etc.
 - transitives: *holen*
  
-**Examples**
+**Further Examples**
 
 - Du hast noch mehr als einmal gearbeitet und mich schlafen geschickt.^[~~DWDS~~: Mauthner, Fritz: Wörterbuch der Philosophie. In: Bertram, Mathias (Hg.) Geschichte der Philosophie, Berlin: Directmedia Publ. 2000 [1910], S. 24606]
 - Doch als sie ihn später ein zweites Mal Wasser holen schickt, kommt Sachin aufgeregt zurück …^[~~DWDS~~: Die Zeit, 06.12.2012, Nr. 50]
@@ -819,7 +819,7 @@ d. Der Clown hat mich lachen gemacht (^\*^machen).
 - intransitives: *flattern, frösteln, lachen, leiden, schaudern, weinen*
 - transitives: *hinnehmen, vergessen*
 
-**Examples**
+**Further Examples**
 
 - Der Lärm macht mich schaudern.
 - Die Diktatur machte die Menschen ihr Schicksal passiv hinnehmen.
@@ -836,7 +836,7 @@ b. Der Henker hieß ihn niederknieen.
 c. Der Henker hat ihn niederknieen geheißen (\*heißen).
 :::
 
-**Examples**
+**Further Examples**
 
 - Eins von den Kindern hieß er zum Doktor laufen.^[~~DWDS~~: Ganghofer, Ludwig: Der Dorfapostel, Stuttgart: Adolf Bonz 1900, S. 124]
 - Hierauf hat mich der Vater in sein Arbeitsgemach geführt, hat mich auf den weichsten Sessel niedersitzen geheißen.^[~~DWDS~~: Rosegger, Peter: Die Schriften des Waldschulmeisters. Pest, 1875.]
@@ -902,7 +902,7 @@ The verb *riechen* 'to smell' can be used with a *dass* complement clause [@next
 - Er schlug sich querfeldein, nahm meilenweite Umwege in Kauf, wenn er eine noch Stunden entfernte Schwadron Reiter auf sich zukommen roch.^[~~DWDS~~: Süskind, Patrick: Das Parfum, Zürich: Diogenes 1985, S. 4]
 :::
 
-**Examples**
+**Further Examples**
 
 - Seine Majestät hatte einen Streit im Haus gehört und etwas brennen gerochen.^[William M. Thackeray:
 Die Rose und der Ring. Übersetzung Jörg Karau 2009. Attested online at <https://www.joergkarau-texte.de/PDF/Die%20Rose%20und%20der%20Ring.pdf>, accessed 22 July 2021.]
@@ -923,7 +923,7 @@ The verb *finden* (literally meaning 'to find', but in this construction the mea
 
 - position verbs: *stehen, liegen, sitzen*, etc.
 
-**Examples**
+**Further Examples**
 
 - Der gütige Herr wollte weiterschreiten, als er einen Dritten bitterlich weinend am Straßenrand sitzen fand.^[~~DWDS~~: Süddeutsche Zeitung, 1995 [1945]]
 - Indessen hatte Perdikkas die Stadt, gegen die er gesandt war, bereits von den Einwohnern verlassen gefunden.^[~~DWDS~~: Droysen, Johann Gustav: Geschichte Alexanders des Großen. Hamburg, 1833.]
@@ -1002,7 +1002,7 @@ c. Ich lasse mir den Bart wachsen.
 
 - *entgehen, entgleiten, entwischen, gefallen, kosten, passieren, schmecken, wachsen*
 
-**Examples**
+**Further Examples**
 
 - Der Spaß entgeht mir. Den Spaß lasse ich mir nicht entgehen.
 - Der Eintritt kostet mir 10 Euro. Ich lasse mir den Eintritt 10 Euro kosten.
@@ -1037,7 +1037,7 @@ There is a curious parallel between this diathesis and the *haben+am‑Infinitiv
 - Position verbs: *liegen, stehen, sitzen, hängen, stecken*
 - Manner of position verbs: *haften, kleben, lehnen, pendeln*
 
-**Examples**
+**Further Examples**
 
 - Der Teller steht ihm auf den Tisch. \
   Er hat den Teller auf den Tisch stehen.

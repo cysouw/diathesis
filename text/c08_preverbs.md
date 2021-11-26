@@ -274,7 +274,7 @@ d. ^* Der mitgearbeitete Student ist fertig.
 - missˈ- : *klingen*
 - ˈmit-  : *arbeiten, brüllen, denken, essen, fühlen, heulen, hören, kämpfen, lachen, leiden, lächeln, reden, schwingen, singen*
 
-**Examples**
+**Further Examples**
 
 - Das Schiff sinkt. Das Schiff versinkt. \
   Das gesunkene/versunkene Schiff ...
@@ -303,7 +303,7 @@ b. Die gelagerten Kartoffeln. \
 - ˈmit-   : *ansehen, benutzen, bezahlen, bieten, bringen, erleben, feiern, garen, geben, gestalten, kochen, lesen, liefern, nehmen, nutzen, planen, regieren, schicken, schreiben*
 - ˈunter- : *bringen*
 
-**Examples**
+**Further Examples**
 
 - Ich fürchte den Tod. Ich befürchte ein schlechtes Ergebnis.
 - Ich halte die Stellung. Ich halte den Kampf durch.
@@ -332,7 +332,7 @@ b. Das kühle Wasser schmeckt. \
 - erˈ-  : *rot, krank, wach*
 - ˈab-  : *kühl, mager*
 
-**Examples**
+**Further Examples**
 
 - Der Hund ist wach. Der Hund erwacht. Der wache/erwachte Hund ...
 - Der Junge ist rot. Der Junge errötet. Der rote/errötete Junge ...
@@ -389,7 +389,7 @@ c. Die verblühte Blume ist immer noch schön.
 - ˈab-  : *reisen*
 - ˈmit-  : *fahren, fliegen, gehen, kommen, laufen, segeln*
 
-**Examples**
+**Further Examples**
 
 - Die Vorräte verschwinden/schwinden. \
   Die verschwundenen/*geschwundenen Vorräte ...
@@ -418,7 +418,7 @@ e. Der geärgerte Schulkamerad schrieb: [...]^[~~DWDS~~: Büchner, Georg: Sämmt
 - zerˈ- : *kratzen*
 - ˈan-  : *ekeln*
 
-**Examples**
+**Further Examples**
 
 - Spinnen ekeln den Mann. Spinnen ekeln den Mann an. \
   Der angeekelte/*geekelte Mann.
@@ -449,7 +449,7 @@ d. Ich überarbeite mich.
 - ˈdurch- : *lügen, mogeln*
 - ˈein-   : *arbeiten, singen*
 
-**Examples**
+**Further Examples**
 
 - Ich lüge. Ich lüge mich durch.
 - Ich esse. Ich überesse mich.
@@ -478,7 +478,7 @@ b. Ich sehe dich an.
 - erˈ- : *kaufen*
 - ˈan- : *hören, sehen, trainieren, üben*
 
-**Examples**
+**Further Examples**
 
 - Ich übe den Tango. Ich übe mir den Tango an.
 - Ich habe den Tango trainiert. Ich habe mir den Tango antrainiert.
@@ -518,7 +518,7 @@ c. ^^?^ Der Vogel verfängt sich.
 - erˈ-  : *strecken*
 - verˈ- : *fangen*
 
-**Examples**
+**Further Examples**
 
 - Der Schuster streckt die Stiefel. Der Wald erstreckt sich bis zum Gebirge.
 
@@ -571,7 +571,7 @@ b. Ich beende den Wettkampf.
 - zerˈ- : *knirschen*
 - ˈan-  : *brutzeln, treiben*
 
-**Examples**
+**Further Examples**
 
 - Paul und Marie heiraten. Ich verheirate Paul und Marie.
 - Das Holz brennt. Ich verbrenne das Holz.
@@ -638,7 +638,7 @@ Note that there are also a few examples of prefixed adjectives in which an accus
 - zerˈ- : *mürbe*
 - entˈ- : *rund*
 
-**Examples**
+**Further Examples**
 
 - Du bist frei. Ich befreie dich.
 - Der Balkon ist grün. Ich begrüne den Balkon.
@@ -695,7 +695,7 @@ b. Die Polizisten verhaften die Eltern (für ihre Taten).
 - verˈ- : *haften*
 - ˈaus- : *fahren*
 
-**Examples**
+**Further Examples**
 
 - Die Landeklappen fahren aus dem Flügel. Der Pilot fährt die Landeklappen (aus dem Flügel) aus.
 - Der Kunde fährt in der Kutsche. Ich fahre den Kunden (in der Kutsche) aus.
@@ -706,7 +706,7 @@ b. Die Polizisten verhaften die Eltern (für ihre Taten).
 
 - ˈan- : *gleichen*
 
-**Examples**
+**Further Examples**
 
 - Seine Aussprache gleicht meinem Dialekt. Er gleicht seine Aussprache meinem Dialekt an.
 
@@ -737,7 +737,7 @@ b. Er vermietet mir die Wohnung.
 - verˈ- : *erben, futtern, kaufen, leihen, mieten, pachten, pfänden*
 - beˈ-  : *kennen* 
 
-**Examples**
+**Further Examples**
 
 - Die Pferde futtern das Tiermehl. Er verfuttert den Pferden das Tiermehl.
 - Ich kaufe das Haus. Er verkauft mir das Haus.
@@ -792,7 +792,7 @@ c. Deine Arbeit erstaunt mich.
 
 - erˈ- : *staunen, warten*
 
-**Examples**
+**Further Examples**
 
 - Ich warte auf den Test. Der Test erwartet mich.
 
@@ -837,7 +837,7 @@ These verbs are counterexamples to the predominant pattern that preverbs induce 
 - erˈ-  : *trinken*
 - ˈein- : *kaufen, greifen*
 
-**Examples**
+**Further Examples**
 
 - Die Polizei hat den Dieb gegriffen. Die Polizei hat eingegriffen.
 - Ich trinke das Wasser. Ich ertrinke.
@@ -870,7 +870,7 @@ b. Er verwählt sich.
 - verˈ-  : *greifen, hören, lesen, messen, sprechen, schlucken, schreiben, wählen*
 - überˈ- : *heben* 
 
-**Examples**
+**Further Examples**
 
 - Ich schlucke die Tablette. Ich habe mich verschluckt.
 - Er schreibt einen Brief. Er verschreibt sich. 
@@ -898,7 +898,7 @@ b. Ich verschenke meine Bücher (an den Kindergarten).
 - ˈab-    : *geben, senden, schicken*
 - ˈdurch- : *reichen*
   
-**Examples**
+**Further Examples**
 
 - Er hat dem Lehrer die Arbeit gebracht. Er hat die Leistung erbracht (für den Lehrer).
 - Ich schenke dir ein Buch. Ich verschenke das Buch an dich.
@@ -932,7 +932,7 @@ b. Ich verschenke meine Bücher (an den Kindergarten).
 - verˈ- : *kalkulieren, schätzen, tun*
 - beˈ-  : *fassen*
 
-**Examples**
+**Further Examples**
 
 - Ich fasse einen Entschluss. Ich befasse mich mit dem Entschluss.
 
@@ -1001,7 +1001,7 @@ d. Der ausgestiegene Mann rutscht aus.
 - ˈan-    : *kommen*
 - ˈauf-   : *stehen*
 
-**Examples**
+**Further Examples**
 
 - Das Blut ist durch den Verband gesickert. Das Blut ist durchgesickert.
 - Ich bin durch den Wald gelaufen. Ich bin durchgelaufen.
@@ -1042,7 +1042,7 @@ d. Der verlaufene hund hat hunger.
 - erˈ-  : *hängen*
 - beˈ-  : *eilen*
 
-**Examples**
+**Further Examples**
 
 - Ich fahre nach Dresden. Ich verfahre mich (auf dem Weg nach Dresden).
 - Ich irre durch den Garten. Ich verirre mich (im Garten).
@@ -1084,7 +1084,7 @@ d. Der Wind verweht die Blätter.
 - ˈauf-   : *setzen*
 - ˈan-    : *kleben, treiben, spülen*
 
-**Examples**
+**Further Examples**
 
 - Ich treibe die Mücken aus dem Haus. Ich vertreibe die Mücken.
 - Ich reiße die Blätter von dem Strauch. Ich reiße die Blätter ab.
@@ -1134,7 +1134,7 @@ Lipka [-@lipka1972: 93, 173] calls this diathesis 'Objektvertauschung' and McInt
 - ˈauf-  : *gießen*
 - ˈein-  : *packen, räumen*
 
-**Examples**
+**Further Examples**
 
 - Ich erbe die Uhr von meinem Vater. Ich beerbe meinen Vater.
 - Ich klopfe den Staub von dem Mantel. Ich klopfe den Mantel aus.
@@ -1173,7 +1173,7 @@ b. Sie verzaubert mich.
 - ˈan-  : *blinzeln, fauchen, hupen, leuchten*
 - ˈab-  : *schreiten*
 
-**Examples**
+**Further Examples**
 
 - Ich schlafe (während der Vorlesung). Ich verschlafe die Vorlesung
 - Der Fotograf wackelt. Der Fotograf verwackelt das Foto.
@@ -1201,7 +1201,7 @@ b. Der Clown belustigt mich.
 
 - beˈ- : *lustig, lästig*
 
-**Examples**
+**Further Examples**
 
 - Die Aufgabe ist lästig. Die Aufgabe belästigt mich.
 
@@ -1219,7 +1219,7 @@ b. Sie verbüßt ihre Strafe für die Tat.
 - erˈ-  : *blicken*
 - verˈ- : *büßen*
 
-**Examples**
+**Further Examples**
 
 - Ich blicke in die Ferne. Ich erblicke ein Schiff (in der Ferne).
 
@@ -1247,7 +1247,7 @@ b. Ich entgehe dem Urteil.
 
 - entˈ- : *gehen, kommen, wachsen, zaubern*
 
-**Examples**
+**Further Examples**
 
 - Ich komme. Ich entkomme einer Gefahr.
 - Das Kind wächst. Das Kind entwächst den Windeln.
@@ -1266,7 +1266,7 @@ b. Ich lese dir ein Buch vor.
 - ˈzu-   : *werfen*
 - ˈüber- : *werfen*
 
-**Examples**
+**Further Examples**
 
 - Ich nehme die Einkäufe (in die Hand). Ich nehme ihr die Einkäufe ab.
 - Ich habe den Ball geworfen. Ich habe dir den Ball zugeworfen
@@ -1304,7 +1304,7 @@ b. Ich verbitte mir dein Verhalten.
 - verˈ- : *bitten*
 - ˈan-  : *essen, tanzen, trinken*
 
-**Examples**
+**Further Examples**
 
 - Ich arbeite, und am Ende habe ich dadurch ein Vermögen. Ich erarbeite mir ein Vermögen.
 - Ich esse, um am Ende habe ich dadurch einen dicken Bauch. Ich esse mir einen Bach an.
@@ -1347,7 +1347,7 @@ b. Ich sehe ihm die Müdigkeit an.
 
 - ˈan- : *hören, sehen*
 
-**Examples**
+**Further Examples**
 
 - Ich höre seine Müdigkeit. Ich höre ihm die Müdigkeit an.
 
@@ -1377,7 +1377,7 @@ Note that the prepositions *über, unter, um, durch* appear to have a special st
 - zerˈ : *nagen, kratzen, reiben, reißen*
 - 'an  : *fahren, fassen, knabbern*
 
-**Examples**
+**Further Examples**
 
 - Der Hund kratzt an der Tür. Der Hund zerkratzt die Tür.
 - Ich fahre an den Bodensee. Ich fahre den Bodensee an.
@@ -1398,7 +1398,7 @@ Note that the prepositions *über, unter, um, durch* appear to have a special st
 - 'ein : *drücken, hämmern, klagen, laufen, reiten, schlagen, schießen, treten*
 - 'an  : *spucken, stampfen, tanzen*
 
-**Examples**
+**Further Examples**
 
 - Ich blicke auf meinen Freund. Ich erblicke meinen Freund.
 - Ich steige auf den Berg. Ich ersteige den Berg. 
@@ -1425,7 +1425,7 @@ b. Ich schlage durch die Scheibe. \
 - durchˈ : *dringen, fahren, fließen, laufen, schauen, schlagen, streifen, ziehen*
 - 'durch : *beißen, blättern, bohren, fahren, fließen, laufen, schlagen*
 
-**Examples**
+**Further Examples**
 
 - Ich fahre durch das Dorf. Ich durchfahre das Dorf.
 - Der Regen dringt durch den Vorhang. Der Regen durchdringt den Vorhang.
@@ -1468,7 +1468,7 @@ There are various still transparent derivations in which their is a rather stron
 - 'um  : *fahren, stoßen*
 - 'auf : *stoßen*
 
-**Examples**
+**Further Examples**
 
 - Ich fahre gegen das Auto. Ich fahre das Auto an.
 - Ich stoße gegen die Tür. Ich stoße die Tür auf.
@@ -1487,7 +1487,7 @@ There are various still transparent derivations in which their is a rather stron
 - zerˈ   : *bohren, stechen, wühlen*
 - durchˈ : *bohren, leuchten, suchen*
 
-**Examples**
+**Further Examples**
 
 - Er sticht (mit der Nadel) in den Finger. Er zersticht den Finger (mit der Nadel).
 - Ich wühle im Haar. Ich zerwühle das Haar.
@@ -1508,7 +1508,7 @@ There are various still transparent derivations in which their is a rather stron
 - erˈ   : *schwindeln*
 - überˈ : *reden*
 
-**Examples**
+**Further Examples**
 
 - Ich verheize das Holz. Ich heize mit Holz.
 - Ich schlampe mit meinen Aufgaben. Ich verschlampe meine Aufgaben
@@ -1529,7 +1529,7 @@ There are various still transparent derivations in which their is a rather stron
 - erˈ : *bohren, fragen, jagen, greifen, lauschen, reichen, schauen, spähen, tasten*
 - 'aus : *graben*
 
-**Examples**
+**Further Examples**
 
 - Ich grabe nach den Schatz. Ich grabe den Schatz aus.
 
@@ -1544,7 +1544,7 @@ There are various still transparent derivations in which their is a rather stron
 
 - überˈ : *fahren, fliegen, rollen, schreiten, springen*
 
-**Examples**
+**Further Examples**
 
 - Ich fahre über den Polizisten. Ich überfahre den Polizisten.
 
@@ -1560,7 +1560,7 @@ There are various still transparent derivations in which their is a rather stron
 - umˈ : *fahren, kreisen*
 - 'ein : *kreisen* 
 
-**Examples**
+**Further Examples**
 
 - Die Truppen kreisen um das Dorf. Die Truppen umkreisen das Dorf. Die Truppen kreisen das Dorf ein.
 
@@ -1588,7 +1588,7 @@ There are various still transparent derivations in which their is a rather stron
 - erˈ : *blicken, greifen, reichen*
 - 'an : *beten, blicken, brüllen, grinsen, klagen, lachen, reden, schauen, schreien, singen, sprechen, winken*
 
-**Examples**
+**Further Examples**
 
 - Der Mantel reicht bis zu meinen Füßen. Der Mantel erreicht meine Füße.
 - Ich spreche zu dem Mann. Ich spreche den Mann an.
@@ -1618,7 +1618,7 @@ c. Ich überarbeite den Text.
 - durchˈ : *denken*
 - 'aus   : *arbeiten*
 
-**Examples**
+**Further Examples**
 
 - Ich arbeite an dem Plan. Ich arbeite den Plan aus.
 - Die Klasse arbeitet an dem Begriff "Realismus". Die Klasse erarbeitet den Begriff "Realismus".
@@ -1632,7 +1632,7 @@ c. Ich überarbeite den Text.
 - beˈ : *achten, antworten, deuten*
 - erˈ : *sinnen, warten*
 
-**Examples**
+**Further Examples**
 
 - Ich antworte auf deine Frage. Ich beantworte deine Frage.
 - Die Weltausstellung deutet auf den Frieden. Das Gesetz bedeutet das Ende für Dieselautos.
@@ -1686,7 +1686,7 @@ c. Ich überarbeite den Text.
 - verˈ : *fluchen, klagen, spotten, schweigen*
 - 'aus : *plaudern, lachen*
 
-**Examples**
+**Further Examples**
 
 - Ich plauderte über mein Geheimnis. Ich plauderte das Geheimnis aus.
 - Ich lache über dich. Ich lache dich aus.
@@ -1719,7 +1719,7 @@ c. ^^?^ Ich erbettele dir ein Stück Brot.
 - erˈ- : *betteln, hoffen, sehnen, spielen, träumen*
 - ˈaus- : *denken*
 
-**Examples**
+**Further Examples**
 
 - Ich hoffe auf einen schönen Geburtstag. Ich erhoffe mir einen schönen Geburtstag.
 - Ich spiele um den Sieg. Ich habe mir den Sieg erspielt.
@@ -1737,7 +1737,7 @@ b. Er droht mir die Entlassung an.
 - verˈ- : *danken*
 - ˈan-  : *drohen* 
 
-**Examples**
+**Further Examples**
 
 - Ich danke dir für deinen Einsatz. Ich verdanke dir mein Leben. 
 
@@ -1754,7 +1754,7 @@ b. Ich verschweige dir meinen Besuch.
 - ˈvor- : *heulen, lügen*
 - ˈab-  : *schwatzen*
 
-**Examples**
+**Further Examples**
 
 - Ich spreche (mit dir) über das Buch. Ich verspreche dir das Buch.
 - Ich lüge (zu dir) über meine Leistung. Ich lüge dir eine Geschichte vor.
@@ -1774,7 +1774,7 @@ b. Ich dränge dir ein Abo auf.
 - ˈab-  : *gewöhnen*
 - ˈauf- : *drängen*
 
-**Examples**
+**Further Examples**
 
 - Ich gewöhne die Kinder an Sauberkeit. Sie gewöhnt mir das Rauchen ab.
 
@@ -1798,7 +1798,7 @@ Some applicatives turn a prepositional phrase into a dative. For example, *stamm
 - ˈzu-   : *arbeiten, lachen, laufen, nicken, reden*
 - ˈbei-  : *liegen, stehen, stimmen*
 
-**Examples**
+**Further Examples**
 
 - Ich lache freundlich zu dir. Ich lache dir freundlich zu.
 - Der Wagen fuhr zu mir. Der Wagen fuhr auf mich zu.
@@ -1829,7 +1829,7 @@ Some applicatives turn a prepositional phrase into a dative. For example, *stamm
 - ˈauf-   : *packen*
 - ˈum-    : *wickeln*
 
-**Examples**
+**Further Examples**
 
 - Ich kläre die Frage (mit dir). Ich erkläre dir die Antwort.
 - Ich habe ein Schild an die Wand gehängt. Ich habe meinem Widersacher einen Prozess angehängt.
@@ -1879,7 +1879,7 @@ b. Das Haus erstrahlt in der Sonne.
 - erˈ-  : *strahlen*
 - ˈzu-  : *wachsen*
 
-**Examples**
+**Further Examples**
 
 - Der Efeu wächst an der Hauswand. Die Hauswand wächst durch den Efeu zu.
 
@@ -1907,7 +1907,7 @@ b. Ich beschreibe das Papier mit Buchstaben.
 - verˈ- : *füttern, nageln* 
 - 'an-  : *malen*
 
-**Examples**
+**Further Examples**
 
 - Der Händler liefert die Waren an den Kaufmann. Der Händler beliefert den Kaufmann mit den Waren.
 - Ich verfüttere das Brot an die Enten. Ich füttere die Enten mit Brot.
@@ -1930,7 +1930,7 @@ b. Ich beschreibe das Papier mit Buchstaben.
 - 'auf-   : *gießen*
 - 'zu-    : *bauen, drücken, kleben*
 
-**Examples**
+**Further Examples**
 
 - Ich segele mein Boot auf den See. Ich besegle den See mit meinem Boot.
 - Ich lege den Teppich auf den Flur. Ich belege den Flur mit dem Teppich
@@ -1956,7 +1956,7 @@ b. Ich beschreibe das Papier mit Buchstaben.
 
 - beˈ- : *kochen, singen*
 
-**Examples**
+**Further Examples**
 
 - Ich koche eine Suppe für dich. Ich bekoche dich mit einer Suppe.
 
@@ -1975,7 +1975,7 @@ b. Ich beschreibe das Papier mit Buchstaben.
 - 'ein- : *füllen, massieren, reiben*
 - 'zu-  : *mauern, schaufeln, schütten*
 
-**Examples**
+**Further Examples**
 
 - Ich verheize Kohle im Raum. Ich heize den Raum mit Kohle.
 - Ich rauche eine Zigarette im Schlafzimmer. Ich verrauche das Schlafzimmer mit einer Zigarette.
@@ -2001,7 +2001,7 @@ See also Eisenberg [-@eisenberg2013: 245-246].
 - beˈ-   : *spannen*
 - überˈ- : *gießen, malen, pinseln, schütten, streichen, streuen, ziehen*
 
-**Examples**
+**Further Examples**
 
 - Ich gieße Wasser über die Blumen. Ich übergieße die Blumen mit Wasser.
 
@@ -2018,7 +2018,7 @@ See also Eisenberg [-@eisenberg2013: 245-246].
 - umˈ-  : *stellen, wickeln*
 - 'zu-  : *binden*
 
-**Examples**
+**Further Examples**
 
 - Ich stelle Kerzen um das Grab. Ich umstelle das Grab mit Kerzen.
 - Ich binde einen Faden um das Paket. Ich binde das Paket mit dem Faden zu.
@@ -2042,7 +2042,7 @@ A second pattern of applicative+antipassive combinations uses an *in* antipassiv
 - 'ein- (für) : *graben*
 - 'ein- (um)  : *wickeln*
 
-**Examples**
+**Further Examples**
 
 - Ich grabe/buddele ein Loch für den Schatz. Ich vergrabe/verbuddele den Schatz im Loch.
 - Ich grabe ein Loch für meinen Hund. Ich begrabe meinen Hund in dem Loch.
@@ -2064,7 +2064,7 @@ b. Er erzwingt ein Geständnis von ihm.
 
 erˈ : *bitten, fragen, pressen, zwingen*
 
-**Examples**
+**Further Examples**
 
 - Ich bitte dich um einen Gefallen. Ich erbitte einen Gefallen von dir.
 - Ich frage dich nach dem Weg zum Bahnhof. Ich erfrage den Weg zum Bahnhof von dir.
@@ -2096,7 +2096,7 @@ b. Ich verbitte mir einen Kommentar von dir.
 - beˈ-  : *dienen, drohen, folgen, lauschen, raten*
 - verˈ- : *dienen, folgen*
 
-**Examples**
+**Further Examples**
 
 - Ich rate dir (zum Plan). Ich berate dich (in dem Fall).
 - Ich folge dem Rat. Ich befolge den Rat.

@@ -169,7 +169,7 @@ Vier Wanderer haben sich im Gebirge verirrt.
 - Body process: *akklimatisieren, erkälten, räuspern, verkühlen, übergeben, wohlfühlen*
 - Natural process: *abregnen, anfinden, bauchen, behaaren, bewahrheiten, bewölken, eintrüben, entspinnen, herauskristallisieren, jähren, rentieren, verästeln, verpuppen, verzweigen*
 
-**Examples**
+**Further Examples**
 
 - Die Autofahrer, die im Stau stehen, müssen sich gedulden.
 - Die S-Bahn hat sich wieder einmal verspätet.
@@ -202,7 +202,7 @@ b. Ich entschließe mich dazu, eine Reise zu machen.
 - *vor*   : *schämen, verbeugen, verneigen*
 - *zu*    : *eignen, entscheiden, entschließen, gesellen, versteigen*
 
-**Examples**
+**Further Examples**
 
 - Das Parlament befasst sich mit dem neuen Gesetz.
 - Ich erhole mich von der Anstrengung.
@@ -267,7 +267,7 @@ d. Ich habe mich ohne meinen Nachbar betrunken.
 
 - *alliieren, anfreunden, anlegen, aussprechen, beratschlagen, duellieren, einigen, solidarisieren, streiten, überwerfen, unterhalten (sprechen), verabreden, verbrüdern, verbünden, verfeinden, verklemmen, verkrachen, verloben, verschwören, vertragen*
 
-**Examples**
+**Further Examples**
 
 - Sie hat sich mit ihrem Mann überworfen.
 - Ich lege mich mit ihm an. ('Ich streite mit ihm')
@@ -303,7 +303,7 @@ b. ^* Das Rathaus befindet sich.
 
 - *aalen, ansiedeln, anstellen, aufhalten (befinden), befinden, begeben, einfressen, einschleichen, ereignen, ergießen, fläzen, niederlassen, scheren, suhlen, umsehen, verkriechen, verschanzen, zubewegen, zurechtfinden, zutragen*
 
-**Examples**
+**Further Examples**
 
 - Auf der A 8 hat sich ein Unfall ereignet.
 - Ich halte mich in der Vestibule auf.
@@ -331,7 +331,7 @@ This pattern with an obligatory accusative reflexive with a dative is exceedingl
 
 - *bücken (fügen), hingeben (eifrig widmen), widersetzen, zugesellen*
 
-**Examples**
+**Further Examples**
 
 - Ich hab mich der Aufgabe hingegeben.
 - Europa bückt sich dem Willen der USA.
@@ -346,7 +346,7 @@ Accusative *sich* combined with an obligatory genitive argument is clearly attes
 
 - *bedienen, befleißigen, bemächtigen, bemüßigen, berauben, entäußern, enthalten, entledigen, entsinnen, erfreuen, erwehren*
 
-**Examples**
+**Further Examples**
 
 - Ich habe mich des Sparens befleißigt.
 - Ich habe mich der Herrschaft bemächtigt.
@@ -365,7 +365,7 @@ It is exceedingly rare to have a dative *sich* without other arguments. A possib
 
 - *Mühe geben*
 
-**Examples**
+**Further Examples**
 
 - Ich gebe mir Mühe.
 
@@ -375,7 +375,7 @@ It is exceedingly rare to have a dative *sich* without other arguments. A possib
 
 - *schwertun*
 
-**Examples**
+**Further Examples**
 
 - Mit dieser Aufgabe tue ich mir schwer.
 
@@ -394,7 +394,7 @@ A dative *sich* with an obligatory accusative is clearly attested, though not ve
 - Verbs of cognitive appropriation: *abgewöhnen, abquälen (erarbeiten), aneignen, angewöhnen, ausdenken, denken, einbilden, merken, vorstellen (denken)*
 - Others: *verbitten, vornehmen*
 
-**Examples**
+**Further Examples**
 
 - Ich denke mir das Ergebnis aus.
 - Er langte sich ein Glas.
@@ -464,7 +464,7 @@ b. Die Rebellen ergeben sich der Polizei.
 - Subordinate: *ergeben, fügen*
 - Oppose: *emanzipieren, widersetzen* 
 
-**Examples**
+**Further Examples**
 
 - Er widersetzte sich. Er widersetzte sich dem Vater.
 - Er fügte sich (trotz vieler Bedenken). Er fügte sich dem Willen seines Vaters.
@@ -489,7 +489,7 @@ c. Die machistische Gesellschaft hat sich nicht geändert und die meisten Frauen
 
 - Submission: *anbiedern, beugen, einschmeicheln, fügen*
 
-**Examples**
+**Further Examples**
 
 - Ich beuge mich seinem Willen. Ich beuge mich vor seinem Willen.
 - Ich füge mich deinem Willen. Ich füge mich nach deinem Willen.
@@ -515,7 +515,7 @@ e. Ich denke daran, dass du morgen Geburtstag hast.
 - *auf*  : *besinnen*
 - *zu*.  : *bequemen, erdreisen, erfrechen*
 
-**Examples**
+**Further Examples**
 
 - Ich schäme mich meines Vergehens. Ich schäme mich für mein Vergehen.
 - Sie brüstet sich ihrer Vergangenheit. Sie brüstet sich mit ihrem großen Freundeskreis.
@@ -571,7 +571,7 @@ c. Der Regen hat die Luft abgekühlt.
 
 - *ausruhen, ausschlafen, drehen, erbrechen, hinknien, knien, lohnen, irren*
 
-**Examples**
+**Further Examples**
 
 - Ich ruhe aus. Ich ruhe mich aus.
 - Ich habe geirrt. Ich habe mich geirrt.
@@ -611,7 +611,7 @@ b. Ich streite mich mit dir um die Wurst.
 
 - *entscheiden, erstaunen, sorgen, streiten*
 
-**Examples**
+**Further Examples**
 
 - Ich entscheide für den Angriff. Ich entscheide mich für den Angriff.
 - Ich erstaune über das viele Geld. Ich erstaune mich über das viele Geld.
@@ -678,7 +678,7 @@ c. Ich habe mir das Haus angesehen.
 
 - *anhören, ansehen, ausdenken, erbetteln, erdenken, erhandeln, ersparen (money), erspielen, überlegen, verdienen*
 
-**Examples**
+**Further Examples**
 
 - Ich verdiene ein Vermögen mit Werbung. Ich verdiene mir ein Vermögen mit Werbung.
 - Ich höre die Musik an. Ich höre mir deinen Vorschlag an.
@@ -742,7 +742,7 @@ The crucial difference between a 'self-inflicted' reflexive construction and the
 - Others: *aufhängen, erschießen, schützen*
 - Work: *beschäftigen, bewerben, vorstellen*
 
-**Examples**
+**Further Examples**
 
 - Ich bewerbe den Wein bei den Kunden. Der Student bewirbt sich (selbst) bei vielen Universitäten.
 - Er hat den Teilnehmer hingesetzt/hingelegt/hingestellt. Sie hat sich hingesetzt/hingelegt/hingestellt.
@@ -781,7 +781,7 @@ b. Er baut sich ein Haus.
 
 - *antworten, begegnen, gefallen, gleichen, helfen, missfallen, schaden, etc.*
 
-**Examples**
+**Further Examples**
 
 - Ich gefalle dir. Ich gefalle mir.
 - Ich schade dir. Ich schade mir
@@ -822,7 +822,7 @@ b. Ich schenke mir (selbst) eine Tafel Schokolade.
 - Messaging: *erklären, erzählen, mailen, sagen, schreiben*
 - Others: *aufdrängen, einprägen*
 
-**Examples**
+**Further Examples**
 
 - Ich gestatte mir noch einen Keks.
 - Ich sage es mir immer wieder.
@@ -853,7 +853,7 @@ f. Er wäscht sich den Rücken.
 - Verbs with *für* ditransitive dative alternation (see Section X, e.g. *backen, putzen*)
 - Verbs with possessor-of-accusative dative alternation (see Section X, e.g. *versalzen, zerbrechen*)
 
-**Examples**
+**Further Examples**
 
 - Ich drücke mir den Hörer ans Ohr.
 - Ich putze mir die Schuhe.
@@ -885,7 +885,7 @@ Many of these verbs seem to have a rather special meaning with a reflexive prono
 - Oppose: *entgegensetzen, entgegenstellen, entziehen, gegenüberstellen*
 - Disclose: *anschließen, anvertrauen, aussetzen, erklären, präsentieren, vorstellen (präsentieren), zeigen*
 
-**Examples**
+**Further Examples**
 
 - Ich entziehe dir das Wort. Ich entziehe mich meiner Pflicht.
 - Das Land gibt seine besten Männer dem Kriege hin. Ich gebe mich dem Geliebten hin.
@@ -958,7 +958,7 @@ d. Das Kind heult sich die Augen aus dem Kopf.
 
 - *heulen, schreien, trinken, etc.*
 
-**Examples**
+**Further Examples**
 
 - Unkontrollierbar von einer Seite zur anderen schaukelte das Kleinkind und heulte sich die Augen aus dem Kopf, als Rupa Joshi den Raum betrat.^[~~DWDS~~: Die Zeit, 11.05.2015, Nr. 19.]
 - Sven Hannawald schreit sich die Seele aus dem Leib.^[~~DWDS~~: Die Zeit, 07.01.2018 (online).]
@@ -988,7 +988,7 @@ The scope of this section is very similar to Wiemer & Nedjalkov [-@wiemer2007], 
 
 - *achten, begrüßen, bekämpfen, belügen, bemerken, beruhigen, beschäftigen, brauchen, erwarten, finden, grüßen, glauben, hassen, hören, kennen, kreuzen, lieben, loben, mögen, pflegen, prügeln, schlagen, sehen, stören, suchen, treffen, treten, verachten, verdächtigen, verstehen, vertragen, wecken*
 
-**Examples**
+**Further Examples**
 
 - Karl achtet Anna. Karl und Anna achten sich. 
 - Der Weg kreuzt die Landstrasse. Die Strassen kreuzen sich.
@@ -1048,7 +1048,7 @@ Reflexive verbs with a preposition are needed for this! all prepositions with hu
 - All verbs from: *sich* Intransitive Reflexive (e.g. *sorgen, streiten, unterscheiden*)
 - Verbs with possibly two human participants from: *sich* Preposition Passive (e.g. *ärgern, interessieren, kümmern*)
 
-**Examples**
+**Further Examples**
 
 - Karl einigt sich mit Anna. Karl und Anna einigen sich (miteinander).
 - Karl trennt sich von Anna. Karl und Anna trennen sich (voneinander).
@@ -1076,7 +1076,7 @@ d. In diesem Buch handelt es sich darum, dass er eine Weltreise macht.
 
 - *handeln*
 
-**Examples**
+**Further Examples**
 
 - In beiden Fällen handelt es sich um Briefromane.^[~~DWDS~~: Schwanitz, Dietrich: Bildung, Frankfurt a. M.: Eichborn 1999, S. 17.]
 
@@ -1125,7 +1125,7 @@ This alternation is probably more frequent in the Perfekt, because there is no f
 - Change of physical state: *abkühlen, ablagern, ablösen, abnutzen, abschalten, abschwächen, abseilen, auflösen, aufwärmen, ausschalten, beziehen, einfügen, einschalten, eindrücken, entzünden, erwärmen, färben, festigen, füllen, gliedern, komplizieren, leeren, stürzen, verändern, verbessern, vereinfachen, verhaken, verschlechtern, verwandeln, wärmen*
 - Others: *ansammeln, bessern, bestätigen, erfüllen, entscheiden, konstituieren, lohnen, mildern, unterwerfen, wiederholen, zeigen*
 
-**Examples**
+**Further Examples**
 
 - Ich schließe den Schrank. Der Schrank schließt sich. 
 - Sie hat ein neues Kapitel in dem Buch eingefügt. Das Kapitel hat sich harmonisch in das Buch eingefügt.
@@ -1192,7 +1192,7 @@ b. ^^?^ Der Schrank schließt sich dir.
 
 - *anbieten, aufdrängen, bieten, einprägen, empfehlen, erklären, erschließen, eröffnen, hinzufügen, nähern*
 
-**Examples**
+**Further Examples**
 
 - Ich füge dem Gesetz einen Paragraphen hinzu. Der Paragraph fügt sich dem Gesetz hinzu.
 - Er näherte seine Hand dem Lichtschalter. Seine Hand näherte sich dem Lichtschalter. 
@@ -1219,7 +1219,7 @@ c. Der Mann erinnert sich daran, dass er einen Termin beim Arzt hat.
 - *an*  : *erinnern, gewöhnen*
 - *auf* : *lenken*
 
-**Examples**
+**Further Examples**
 
 - Ich habe die Kinder an Ordnung gewöhnt. Die Kinder haben sich an Ordnung gewöhnt.
 - Der Zeuge lenkt den Verdacht auf den Ehemann. Der Verdacht lenkte sich auf den Ehemann.
@@ -1240,7 +1240,7 @@ c. Die Lampe und das Stromnetz verbinden sich nicht miteinander.
 - *mit/von* : *ernähren, nähren*
 - *von* : *trennen, unterscheiden*
 
-**Examples**
+**Further Examples**
 
 - Meine Mutter nährt mich mit Milch. Ich nähre mich mit (von) Milch
 - Meine Mutter ernährt mich mit Früchten. Ich ernähre mich mit (von) den Früchten.
@@ -1263,7 +1263,7 @@ c. Die Straße hat sich früher durch das Dorf gezogen.
 
 - *häufen, ziehen*
 
-**Examples**
+**Further Examples**
 
 - Er häufte die Geschenke auf den Tisch. Die Geschenke häuften sich auf den Tisch.
 
@@ -1320,7 +1320,7 @@ b. Über die Zerstörung der Schöpfung […] wird sich empört.^[~~DWDS~~: Berl
 - *bei*   : *anstrengen, beruhigen, entsetzen*
 - *durch* : *auszeichnen, entspannen, lösen, verraten*
 
-**Examples**
+**Further Examples**
 
 - Der Klang freut den Komponisten. Der Komponist freut sich über den Klang.
 - Der Anblick entsetzt mich. Ich entsetze mich bei dem Anblick.
@@ -1382,7 +1382,7 @@ These alternations are ongoing replacements of old-fashioned constructions. The 
 
 - *ekeln, grauen*
 
-**Examples**
+**Further Examples**
 
 - Mich ekelt (es) vor dem Spinat. Ich ekele mich vor dem Spinat.
 - Mich graut es. Ich graue mich.
@@ -1423,7 +1423,7 @@ c. ^* Er verbrennt sich und das Buch.
 
 - *abduschen, abhetzen, abwenden, anlehnen, anziehen, aufrichten, ausziehen, äußern, bewegen, entblößen, erheben, hinlegen, hinsetzen, hinstellen, neigen, organisieren, quälen, recken, räkeln, schneiden, strecken, täuschen, verbrennen, verkleiden, verschlafen, verschlucken*
 
-**Examples**
+**Further Examples**
 
 - Er verschluckt die Tabletten. Er verschluckt sich.
 - Er verschläft die Veranstaltung. Er verschläft sich.
@@ -1503,7 +1503,7 @@ c. ^* Ich treffe mich damit, dass du krank bist.
 
 - *befreunden, prügeln, schlagen, treffen, verstehen*
 
-**Examples**
+**Further Examples**
 
 - Ich schlage dich. Ich schlage mich mit dir.
 - Ich verstehe dich. Ich verstehe mich gut mit dir.
@@ -1543,7 +1543,7 @@ e. Ich beklage mich darüber, dass es so laut ist
 - *vor*  : *distanzieren, fürchten, scheuen*
 - *zu*   : *bekennen*
 
-**Examples**
+**Further Examples**
 
 - Ich fürchte den Ausgang des Verfahrens. Ich fürchte mich vor dem Ausgang des Verfahrens.
 - Ich entschuldige den Vorfall. Ich entschuldige mich für den Vorfall.
@@ -1597,7 +1597,7 @@ b. Der Volksstamm unterwarf sich dem Eroberer.
 
 - Subordinate: *stellen, unterwerfen*
 
-**Examples**
+**Further Examples**
 
 - Der Polizist stellte den Einbrecher. Der Einbrecher stellte sich dem Polizisten.
 
@@ -1616,7 +1616,7 @@ b. Ich erbarmte mich des Kranken. \
 
 - *erbarmen, erfreuen*
 
-**Examples**
+**Further Examples**
 
 - Das Geschenk erfreut mich. Ich erfreue mich bester Gesundheit.
 
@@ -1650,7 +1650,7 @@ d. ^* Ich träume mich.
 
 - *arbeiten, denken, fressen, kämpfen, lügen, träumen, zittern*
 
-**Examples**
+**Further Examples**
 
 - Er arbeitet an den Daten. Er arbeitet sich durch die Daten.
 - Ich kämpfe mit den Wellen. Ich kämpfe mich durch die Wellen.
@@ -1675,7 +1675,7 @@ b. Er nimmt sich des Problemes an. ('kümmern')
 
 - *annehmen, bedenken*
 
-**Examples**
+**Further Examples**
 
 - Ich bedenke einen Grund. ('beachten')
 - Ich bedenke mich eines Grundes. ('besinnen')

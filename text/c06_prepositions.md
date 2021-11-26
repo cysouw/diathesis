@@ -272,7 +272,7 @@ d. ^* Er gewöhnt seinen Sohn.
 - *von*  : *handeln, kommen*
 - *zu*   : *neigen, passen, stehen*
 
-**Examples**
+**Further Examples**
 
 - Ich bestehe auf eine Hochzeit.
 - Ich baue auf deine Unterstützung.
@@ -310,7 +310,7 @@ c. Der Kuchen ist mir gut geraten.
 - *für*  : *ausgeben (bezeichnen)*
 - *mit*  : *begründen*
 
-**Examples**
+**Further Examples**
 
 - Er gewöhnt seinen Sohn an den Geschmack.
 - Er hat viel Arbeit an das Haus gewandt.
@@ -332,7 +332,7 @@ Some verbs appear to have an obligatory locational argument, like *wohnen* 'to l
 
 - Verbs of living: *einziehen, wohnen, übernachten*
 
-**Examples**
+**Further Examples**
 
 - Die Sportler zogen in das Stadion ein.^[~~DWDS~~: Lemma *einziehen*.]
 
@@ -351,7 +351,7 @@ b. Er legt den Hund in den Korb.
 - To force something away: *drängen, scheuchen, schütten, treiben*
 - others: *verbringen*
 
-**Examples**
+**Further Examples**
 
 - Ich stecke einen Schatz in ein Versteck.
 - Ich scheuche die Mücken aus dem Haus.
@@ -369,7 +369,7 @@ The verbs *absehen*, *anlegen* and *belassen* appear to have an obligatorily emp
 - *auf* : *absehen, anlegen*
 - *bei* : *belassen*
 
-**Examples**
+**Further Examples**
 
 - Ich habe es auf ihn abgesehen.
 - Ich lege es darauf an, dass ich zu spät komme.
@@ -389,7 +389,7 @@ c. Karl kooperiert mit Anna [zusammen mit seinem Freund].
 
 - *anstoßen (zuprosten), debatieren, kooperieren, spielen, streiten, unterhandeln*
 
-**Examples**
+**Further Examples**
 
 - Karl debattiert mit Anna. Karl und Anna debattieren miteinander.
 - Karl streitet mit Anna. Karl und Anna streiten miteinander.
@@ -421,7 +421,7 @@ d. Es zeugt von deinem Einsatz.
 - *an*  : *hapern*
 - *bei* : *hapern*
 
-**Examples**
+**Further Examples**
 
 - Der Platz wimmelt von Kindern. Hier wimmelt es von Kindern. 
 - Ich komme zu einem harmlosen Ergebnis. Gestern kam es zu einem Streit.
@@ -452,7 +452,7 @@ b. Ihm fehlt es an Geld.
 
 - *an*: *fehlen, mangeln*
 
-**Examples**
+**Further Examples**
 
 - Leider mangelt ihm jeglicher Stolz. Ihm mangelt es an Stolz.
 
@@ -470,7 +470,7 @@ c. Es ist kalt (im Sommer).
 
 - *kalt sein, langweilig sein, zum Heulen sein*
 
-**Examples**
+**Further Examples**
 
 - Mir ist zum Heulen im Sommer. Der Sommer ist zum Heulen. 
 - Mir ist langweilig im Sommer. Der Sommer ist langweilig.
@@ -501,7 +501,7 @@ d. Mir passt der Anzug.
 - *an*  : *zunehmen*
 - *in*  : *passen*
 
-**Examples**
+**Further Examples**
 
 - Er quietscht mit den Reifen. Die Reifen quietschen.
 - Er rasselt mit den Ketten. Die Ketten rasseln.
@@ -526,7 +526,7 @@ The instrumental *mit* phrase is a real non-governed instrument, i.e. an inanima
 - Instruments of physical action: *beladen, füllen, öffnen, schließen*
 - Instruments of adornment: *anleuchten, bedecken, schmücken, verschmutzen, verstopfen*
 
-**Examples**
+**Further Examples**
 
 - Ich treffe den Nagel mit einem Hammer. Der Hammer trifft einen Nagel.
 - Ich öffne die Tür mit dem Schlüssel. Der Schlüssel öffnet die Tür.
@@ -560,7 +560,7 @@ This alternation takes a (non-governed) prepositional phrase and turns it into a
 
 - *riechen, schmecken*
 
-**Examples**
+**Further Examples**
 
 - Ich schmecke Pfefferminze in der Suppe. Die Suppe schmeckt nach Pfefferminze
 - Ich rieche Blume im Parfüm. Der Parfüm riecht nach Blume.
@@ -594,7 +594,7 @@ c. Ich ärgere mich über deine Witze.
 - Verbs of influence: *beschäftigen, bewirken*
 - Verbs of proof: *bestätigen, beweisen, erklären, rechtfertigen*
 
-**Examples**
+**Further Examples**
 
 - Die Späße des Komikers belustigten das Publikum. Der Komiker belustigte das Publikum mit seinen Späßen. 
 - Der Blumenstrauß erfreut den Mann. Ich erfreue den Mann mit einem Blumenstrauß.
@@ -655,7 +655,7 @@ c. Der Teller ist am Tisch geklebt.
 
 - *hängen, klappen, kleben, lehnen, stecken, treiben*
 
-**Examples**
+**Further Examples**
 
 - Ich habe das Buch in meine Tasche gesteckt. Das Buch steckt in meiner Tasche.
 - Der Zettel klebt an der Tür. Ich klebe den Zettel an die Tür.
@@ -723,7 +723,7 @@ d. ^* Der Brief öffnet.
 
 - *fahren, hetzen, rücken, stürzen, ziehen*
 
-**Examples**
+**Further Examples**
 
 - Ich rücke den Tisch zur Seite. Die Soldaten rücken in die Kaserne.
 - Das hohe Gehalt zieht ihn nach Australien. Er zieht nach Australien.
@@ -745,7 +745,7 @@ Ich lege den Hund in den Korb.
 
 - *liegen/legen, schwimmen/schwemmen, sitzen/setzen, stehen/stellen*
 
-**Examples**
+**Further Examples**
 
 - Das Pferd schwimmt im Fluss. Ich schwemme das Pferd im Fluss.
 
@@ -825,7 +825,7 @@ b. Der Reporter spricht von einem historischen Ereignis. Der Reporter spricht da
 - *an*:   : *arbeiten, denken, klopfen, scheitern, sterben, teilnehmen, zweifeln*
 - *um*:   : *streiten*
 
-**Examples**
+**Further Examples**
 
 - Es herrscht Übereinstimmung über die Frage.
 - Ich rede über die Angelegenheit.
@@ -866,7 +866,7 @@ c. ^* Ich bereite auf die Klausur vor.
 - *auf*  : *vorbereiten*
 - *von*  : *unterscheiden, verlangen*
 
-**Examples**
+**Further Examples**
 
 - Ich behaupte das Gegenteil über die Angelegenheit.
 - Ich hindere dich am Essen.
@@ -895,7 +895,7 @@ c. Ich warne vor den Gefahren.
 - *von*  (Origin of report): *erfahren, hören*
 - *vor*: *schützen, warnen*
 
-**Examples**
+**Further Examples**
 
 - Ich informiere die Anwesenden über die Angelegenheit.
 - Ich erzähle die Geschichte über die Angelegenheit.
@@ -941,7 +941,7 @@ d. ^^?^ Ich gratuliere.
 - *für*  : *danken*
 - *auf*  : *antworten*
 
-**Examples**
+**Further Examples**
 
 - Ich gratuliere (dir) zu deinem Geburtstag.
 - Ich schaue (dir) zu beim Kochen.
@@ -999,7 +999,7 @@ b. Ich schlecke mein Eis. Ich schlecke an meinem Eis.
 - Partial object construction: *basteln, bauen, graben, malen, nähen, stricken, schreiben*
 - Gain/Loss: *gewinnen, verdienen, verlieren*
 
-**Examples**
+**Further Examples**
 
 - Ich knabbere meinen Keks. Ich knabbere an meinem Keks.
 - Ich schlürfe meinen Tee. Ich schlürfe an meinem Tee.
@@ -1043,7 +1043,7 @@ c. Ich blase die Trompete. Ich blase auf der Trompete.
 - Playing musical instruments: *blasen, schlagen, spielen, üben*
 - Personal interaction: *hören, sprechen, treffen (begegnen)*
 
-**Examples**
+**Further Examples**
 
 - Ich küsse deine Wange. Ich küsse auf deine Wange.
 - Ich treffe das Tor. Ich treffe auf das Tor.
@@ -1072,7 +1072,7 @@ This alternation seems to be typical for objects of reading.
 
 - *lesen, vorlesen, zitieren*
 
-**Examples**
+**Further Examples**
 
 - Ich lese das Buch vor. Ich lese aus dem Buch vor.
 
@@ -1084,7 +1084,7 @@ Accusative objects that alternate with an *in* prepositional phrase seem to be r
 
 - *beißen, bestehen (Erfolg haben), entscheiden, lesen, gewinnen, korrigieren, schneiden, spielen, stürmen, zwicken*
 
-**Examples**
+**Further Examples**
 
 - Der Hund beißt sein Bein. Der Hund beißt in sein Bein.
 - Ich bestehe die Prüfung. Ich bestehe in der Prüfung.
@@ -1111,7 +1111,7 @@ b. Ich fliege das Flugzeug. Ich fliege mit dem Flugzeug.
 - Instrument: *handeln, schießen, werfen*
 - Instrument of transport: *fahren, fliegen, rangieren, segeln*
 
-**Examples**
+**Further Examples**
 
 - Ich werfe den Dreck. Ich werfe mit Dreck.
 - Ich handele Aktien. Ich handele mit Aktien.
@@ -1133,7 +1133,7 @@ c. Ich und mein Freund heiraten miteinander.
 
 - *heiraten, sprechen*
 
-**Examples**
+**Further Examples**
 
 - Ich spreche den Abteilungsleiter. Ich spreche mit dem Abteilungsleiter
 
@@ -1146,7 +1146,7 @@ Accusative objects that alternate with a *nach* prepositional phrase indicate an
 - Attempted action towards: *fühlen, greifen, schlagen, rufen, sehen, suchen, treten*
 - Object of hunting: *angeln, fischen, jagen*
 
-**Examples**
+**Further Examples**
 
 - Ich sehe dich. Ich sehe nach dir
 - Ich suche den Ring. Ich suche nach dem Ring.
@@ -1172,7 +1172,7 @@ d. Ich höre den Kampf in der Ferne. Ich höre von dem Kampf in den Nachrichten.
 - Hand over a part of Accusative: *anbieten, aushändigen, besorgen, bringen, geben, liefern, schicken, schenken, senden, überreichen, überweisen, verkaufen*
 - Take away a part of: *abknöpfen, abnehmen, ausspannen, enteignen, entfernen, entlehnen, entleihen, entnehmen, entwenden, entziehen, klauen, nehmen, rauben, stehlen, wegnehmen*
 
-**Examples**
+**Further Examples**
 
 - Ich nasche ein par Beeren. Ich nasche von den Beeren.
 - Ich koste den Wein. Ich koste von dem Wein.
@@ -1189,7 +1189,7 @@ d. Ich höre den Kampf in der Ferne. Ich höre von dem Kampf in den Nachrichten.
 - Object of cognitive process: *reflektieren*
 - Object of communication: *diskutieren*
 
-**Examples**
+**Further Examples**
 
 - Ich verfüge einen Einreisestopp. Ich verfüge über viel Geld.
 - Ich bestimme die Reihenfolge. Ich bestimme über die Reihenfolge.
@@ -1200,7 +1200,7 @@ d. Ich höre den Kampf in der Ferne. Ich höre von dem Kampf in den Nachrichten.
 
 - *halten, werden, finden*
 
-**Examples**
+**Further Examples**
 
 - Ich halte dich. Ich halte zu dir.
 - Ich werde später Bäcker. Ich werde noch zum Bäcker.
@@ -1241,7 +1241,7 @@ It seems to be somewhat unusual for verbs with dative – but no accusative – 
 - *über* : *gebieten*
 - *vor*  : (movement away from) *fliehen, flüchten, weichen*
 
-**Examples**
+**Further Examples**
 
 - Ich entfliehe dem Gefängnis. Ich entfliehe aus dem Gefängnis.
 - Die Demonstranten wichen der Polizei. Sie wichen vor der Polizei.
@@ -1283,7 +1283,7 @@ The replacement of a dative with an *an* prepositional phrase is a common altern
 - Giving message to dative: *berichten, erklären, erteilen, faxen, mailen, schreiben, vorlegen, vorstellen*
 - Various: *anpassen*
 
-**Examples**
+**Further Examples**
 
 - Er berichtet dem Vorstand alles. Er berichtet alles an den Vorstand.
 - Ich schicke meiner Mutter Blumen. Ich schicke Blumen an meine Mutter.
@@ -1302,7 +1302,7 @@ Various verbs also allow for a *zu* dative alternation.
 
 - Removing object from dative: *abknöpfen, abnehmen, ausspannen, borgen, enteignen, entfernen, entlehnen, entleihen, entnehmen, entwenden, entziehen, klauen, nehmen, rauben, stehlen, wegnehmen*
 
-**Examples**
+**Further Examples**
 
 - Ich klaue dir die Blumen. Ich klaue die Blumen von dir.
 - Er entzieht ihr das Sorgerecht. Er entzieht das Sorgerecht von ihr.
@@ -1313,7 +1313,7 @@ Various verbs also allow for a *zu* dative alternation.
 
 - Hiding object from dative: *verbergen, verheimlichen, verschweigen*
 
-**Examples**
+**Further Examples**
 
 - Ich verschweige dir das Geheimnis. Ich verschweige das Geheimnis vor dir.
 
@@ -1324,7 +1324,7 @@ Various verbs also allow for a *zu* dative alternation.
 - Moving object towards dative: *besorgen, bringen, liefern, schicken, schleudern, senden, werfen*
 - Imaginary object moving towards dative: *sagen, zuordnen*
 
-**Examples**
+**Further Examples**
 
 - Ich bringe dir die Waren. Ich bringe die Waren zu dir.
 - Ich liefere dir die Waren. Ich liefere die Waren zu dir.
@@ -1349,7 +1349,7 @@ d. Die Arbeit beginnt.
 - *nach* : *verlangen*
 - *für*  : *büßen, garantieren, leben*
 
-**Examples**
+**Further Examples**
 
 - Ich fange mein Studium an. Ich fange mit meinem Studium an.
 - Ich rechne eine Flasche Wein pro Person. Ich rechne mit einer Flasche Wein pro Person
@@ -1374,7 +1374,7 @@ b. Ich leide an einer Krankheit.
 
 - *auf*  : *vertrauen*
 
-**Examples**
+**Further Examples**
 
 - Ich vertraue dir. Ich vertraue auf dich. Ich vertraue darauf, dass du die Arbeit machst
 
@@ -1408,7 +1408,7 @@ c. Ich erinnere dich daran, dass du Milch kaufen sollst.
 
 - Separate from: *befreien, berauben, entbinden, entheben, verweisen*
 
-**Examples**
+**Further Examples**
 
 - Ich beraube dich deiner Rechte. Er beraubt dich von deinen Rechten
 - Ich entbinde dich deiner Pflicht. Ich entbinde dich von deiner Pflicht.
@@ -1436,7 +1436,7 @@ This alternation allows for either a dative to be present or not with verbs that
 - *um*  : *gehen*
 - *an*  : *fehlen, liegen*
 
-**Examples**
+**Further Examples**
 
 - Es kommt an auf die Eleganz. Mir kommt es an auf die Eleganz.
 - Es geht um ihre Identität. Den Polen geht es um ihre Identität.
@@ -1460,7 +1460,7 @@ c. ^* ich bin getanzt.
 
 - *irren, klettern, kriechen, schwanken, stampfen, tanzen, wackeln*
 
-**Examples**
+**Further Examples**
 
 - Ich habe gestampft. Ich bin durch den Garten gestampft/geschwankt/getanzt
 - Der Pinguin hat mit dem Kopf gewackelt. Der Pinguin ist durch meine Beine gewackelt.
@@ -1486,7 +1486,7 @@ b. Sie stürmten in den Saal.
 
 - *blitzen, donnern, hageln, regnen, stürmen, wehen*
 
-**Examples**
+**Further Examples**
 
 - Die Bomben hagelten auf die Stadt.
 - Seine Zähne blitzten in der Sonne.
@@ -1531,7 +1531,7 @@ Er klopft den Aschenbecher leer.
 - Weather Verbs: *regnen, wehen*
 - Others: *graben (aus), klingeln, schwindeln*
 
-**Examples**
+**Further Examples**
 
 - Er klopft den Schnee von seinen Schuhen.
 - Der Wind weht die Blätter durch die Luft.
@@ -1579,7 +1579,7 @@ e. Ich befehle die Armee, während ich an der Front bin.
 
  - *befehlen, dirigieren, graben, hetzen, jagen, peitschen, schneiden, ziehen*
 
-**Examples**
+**Further Examples**
 
 - Ich dirigiere das Orchester. Ich dirigiere den Wagen zum Bahnhof
 - Der Bauer hat den Pflug gezogen. Ich habe den Faden durch das Nadelöhr gezogen.
@@ -1609,7 +1609,7 @@ Maybe the *als* alternation has to treated as a separate diathesis.
 - *für* : *halten, erklären*
 - *als* : *ansehen, benennen, betrachten, bezeichnen, empfinden*
 
-**Examples**
+**Further Examples**
 
 - Sie erklärte das Problem. Sie erklärte die Behauptung für eine Lüge.
 - Ich betrachte dich. Ich betrachte dich als einen Freund.
@@ -1649,7 +1649,7 @@ b. Er kämmt dir die Läuse aus den Haaren.
 
 - *brechen, bügeln, erwarten, filtern, kämmen, polieren, schneiden, waschen, wischen*
 
-**Examples**
+**Further Examples**
 
 - Er polierte den Fleck von der Gabel. Er polierte die Gabel.
 - Er filterte den Schmutz aus dem Wasser. Er filterte das Wasser.
@@ -1673,7 +1673,7 @@ b. Sie schimpft mich einen Narren
 
 - *schimpfen, fluchen*
 
-**Examples**
+**Further Examples**
 
 - Er sitzt immer am selben Platz bei Bier und Schnaps, flucht mich einen Tagedieb, einen Affen, Bananenfresser, einen, der schon längstens in eine Arbeitserziehungsanstalt gehöre.^[Attested online at <http://www.gruppe-4-w.de/forum/viewtopic.php?f=21&t=2047#p19030>, accessed 29 Juli 2019.]
 
@@ -1706,7 +1706,7 @@ e. Gib mir eine Waffe und ich gewinne dir jeden Krieg.^[Attested online at <http
 - Food production: *angeln, fischen, jagen, kauen, schießen, töten*
 - Household tending: *aufwärmen, ausbessern, bleichen, erneuern, backen, bügeln, gießen, kochen, nähen, ordnen, packen, pflegen, putzen, reinigen, reparieren, waschen, wischen*
 
-**Examples**
+**Further Examples**
 
 - Ich stelle dir einen Pass aus. Ich stelle für dich einen Pass aus.
 - Ich halte dir den Kaffee. Ich halte den Kaffee für dich.
@@ -1740,7 +1740,7 @@ c. ^* Der Affe saß sich auf seine Schulter.
 - Bodily Contact: *beißen, boxen, fallen, klopfen, laufen, schauen, stechen, steigen, zwicken*
 - Position: *hängen, liegen, stehen, stecken, sitzen*
 
-**Examples**
+**Further Examples**
 
 - Der Regen läuft mir in die Schuhe. Der Regen läuft in meine Schuhe.
 - Er steht mir zur Seite. Er steht zur meiner Seite.
@@ -1779,7 +1779,7 @@ b. Ich lege dir den Brief auf den Schreibtisch.
 - Bodily actions: *husten, spucken*
 - Transitive caused location: *brechen, bügeln, erwarten, filtern, jagen, kämmen, polieren, schneiden, waschen, wischen*
 
-**Examples**
+**Further Examples**
 
 - ich setze das Kind auf deinen Schoß. Ich setze dir das Kind auf den Schoß.
 - Ich hänge den Pullover in deinen Schrank. Ich hänge dir den Pullover in den Schrank.
@@ -1823,7 +1823,7 @@ c. Ich bewundere ihn dafür, dass er ehrlich ist.
 
 - Emotional stance: *achten (Respekt), bewundern, feiern, lieben, loben, hassen, unterstützen, verurteilen*
 
-**Examples**
+**Further Examples**
 
 - Ich lobe den Schüler für seinen Fleiß. Ich lobe den Fleiß des Schülers.
 - Ich entschuldige den Dieb für seine Tat. Ich entschuldige die Tat des Diebes.
@@ -1874,7 +1874,7 @@ c. Ich zerschneide das Blatt Papier.
 - dissection: *brechen, hacken, sägen, schneiden*
 - others: *schießen, vergleichen*
 
-**Examples**
+**Further Examples**
 
 - Er stopft Federn in die Kissen. Er stopft die Kissen (mit Federn).
 - Er gießt Wasser an die Blumen. Er gießt die Blumen (mit Wasser).
@@ -1913,7 +1913,7 @@ b. Ich bewundere die Ehrlichkeit bei ihm.
 
 - *bekämpfen, bemerken, bewundern, erwarten*
 
-**Examples**
+**Further Examples**
 
 - Ich bemerke bei ihm eine Langeweile. Ich bemerke seine Langeweile.
 - Ich bekämpfe bei ihm den Schmerz. Ich bekämpfe seinen Schmerz.
