@@ -494,9 +494,9 @@ b. ^* Nach Fisch lässt es sich stinken.
 
 - Almost all verbs with governed prepositions. Not possible with: *duften, riechen, stinken*
 
-### --- [ SBJ > ADJ ] --- {.unnumbered}
+### --- [ SBJ > ADJ ] --- *Intransitiver Notwendigkeitsdemotiv* {.unnumbered}
 
-### [ N | p ] *heißen+Infinitiv* Modal subject demotion (*Intransitiver Notwendigkeitsdemotiv*) {#sec:infinitive-heißen-demotion}
+### [ N | p ] *heißen+Infinitiv* Modal subject demotion {#sec:infinitive-heißen-demotion}
 
 The light verb *heißen* can be used with an infinitive in various different constructions. A widespread option is a demotive usage with intransitive verbs, like *warten* 'to wait' [@next a]. The original subject is demoted, but can optionally be retained as a *für* prepositional phrase. As there is no new subject introduced, an obligatory valency-simulating pronoun *es* is introduced. 
 
@@ -637,7 +637,7 @@ The verb *kündigen* 'to terminate, to resign' [@next] is a special case, becaus
 - Der Chef kündigt mir/mich.
 :::
 
-### [ NDA | pNA ] *lassen+Infinitiv* Dative reflexive permissive passive+accusative (*Permissivpassiv*) {#sec:infinitive-lassen-dative-reflexive-anticausative}
+### [ NDA | pNA ] *lassen+Infinitiv* Dative reflexive permissive passive+accusative {#sec:infinitive-lassen-dative-reflexive-anticausative}
 
 Verbs with both a dative and an accusative, like *schenken* 'to gift' show a parallel passive diathesis to the *lassen* reflexive passive (see [@sec:infinitive-lassen-reflexive-permissive-passive]), but now the dative is promoted to nominative subject [@next]. Semantically this diathesis [@next b] has a clear permissive meaning. Syntactically, there seems to be a close connection to the *bekommen+Partizip* dative passive (see [@sec:participles-bekommen-passive]), which – though – lacks the permissive meaning [@next c].
 
@@ -684,9 +684,9 @@ b. ^* Ich lasse seinem Freund den Rechner schenken (von dem Verkäufer).
 
 ## Diatheses with promotion to subject
 
-### --- [ Ø > SBJ > ADJ ] --- *Passivkausativ* {.unnumbered}
+### --- [ Ø > SBJ > ADJ ] --- {.unnumbered}
 
-### [ –NA | NpA ] *lassen+Infinitiv* Passive causative {#sec:infinitive-lassen-passive-causative}
+### [ –NA | NpA ] *lassen+Infinitiv* Passive causative (*Passivkausativ*) {#sec:infinitive-lassen-passive-causative}
 
 The *lassen+Infinitiv* causative diathesis (see the next [@sec:infinitive-lassen-causative]) can be used with almost all German verbs. With some verbs this diathesis results in a construction with two accusatives [@next a]. However, such double accusatives as produced by this diathesis can be resolved by optionally changing the new accusative to a *von* prepositional phrase [@next b], or even dropping it altogether [@next c], resulting in an embedded anticausative reading with unknown agent [cf. @enzinger2012: 26]. Note that this is only possible with the causative reading and not with the permissive reading of the *lassen+Infinitiv* diathesis [@next c].
 
@@ -716,7 +716,7 @@ c. ^^?^ Der Dekan lässt dem Schüler vom Lehrer antworten.
 d. ^^?^ Der Dekan lässt dem Schüler antworten.
 :::
 
-### --- [ Ø > SBJ > OBJ ] --- *Kausativ* {.unnumbered}
+### --- [ Ø > SBJ > OBJ ] --- {.unnumbered}
 
 ### [ –N | NA ] *lassen+Infinitiv* Permissive causative (*Permissivkausativ*) {#sec:infinitive-lassen-causative}
 

@@ -412,9 +412,9 @@ b. Der Händler kauft die Sklaven frei.
 
 ## Diatheses with subject demotion
 
-### --- [ SBJ > Ø ] --- *Wertungsverbativ* {.unnumbered}
+### --- [ SBJ > Ø ] --- {.unnumbered}
 
-### [ N | – ] Reflexive intransitive drop+depictive adverbial {#sec:adverbial-reflexive-drop}
+### [ N | – ] Reflexive intransitive drop+depictive adverbial (*Wertungsverbativ*) {#sec:adverbial-reflexive-drop}
 
 Many intransitives allow for a dropping of the nominative with a obligatory reflexive pronoun *sich* and an obligatory adverbial. Because of the dropped nominative there is an obligatory non-phoric *es* in such sentences [@next a]. Such constructions seem to be possible with very many intransitives, though with some verbs, like *aufstehen* 'rise' it is of debatable grammaticality [@next b]. More research is needed into the question which intransitive verbs do not allow this diathesis.
 
@@ -436,9 +436,9 @@ A very similar diathesis is attested with transitives, see [@sec:adverbial-refle
 - Hier lebt es sich gut.
 - In diesem Saal tanzt es sich gut.
 
-### --- [ OBJ > SBJ > Ø ] --- *Wertungsantikausativ* {.unnumbered}
+### --- [ OBJ > SBJ > Ø ] --- {.unnumbered}
 
-### [ NA | –N ] Reflexive anticausative+depictive adverbial {#sec:adverbial-reflexive-transitive-anticausative}
+### [ NA | –N ] Reflexive anticausative+depictive adverbial (*Wertungsantikausativ*) {#sec:adverbial-reflexive-transitive-anticausative}
 
 With many verbs an anticausative is only possible with an evaluative adverbial and a reflexive pronoun [@next]. There is a clear parallel to the diathesis for intransitives described in [@sec:adverbial-reflexive-drop]. The semantically highly similar *lassen+Infinitiv* construction [@next c] does not need the adverbial (see [@sec:infinitive-lassen-reflexive-anticausative]).
 
@@ -523,9 +523,9 @@ Not attested.
 
 ## Diatheses with object demotion
 
-### -- [ OBJ > Ø ] -- *Aktionsfokus* {.unnumbered}
+### -- [ OBJ > Ø ] -- {.unnumbered}
 
-### [ NA | N– ] Action focus+depictive adverbial {#sec:adverbial-action-focus}
+### [ NA | N– ] Action focus+depictive adverbial (*Aktionsfokus*) {#sec:adverbial-action-focus}
 
 Most transitive verbs can be used without an accusative object. However, with some verbs this drop comes easier than for others. Real 'ambitransitive' verbs that occur both as transitive and as intransitive, but without needing any extra marking in the intransitive, are discussed in [@sec:case-accusative-drop]. For many transitive verbs the drop of the accusative is only possible in an strict action-oriented focus, like as a reply to a question like "what are you doing just now?" In effect, this implies that such intransitive usage always needs an adverbial specification
 
@@ -585,9 +585,9 @@ d. Ich meine es.
 - Ich meine dich. Ich meine es ernst.
 - Wir haben viel Geld. Wir haben es gut.
 
-### --- [ PBJ > ADJ ] --- *Adverb Delokativ* {.unnumbered}
+### --- [ PBJ > ADJ ] --- {.unnumbered}
 
-### [ NAL | NAp ] Transitive location drop+resultative adverbial {#sec:adverbs-antiresultative}
+### [ NAL | NAp ] Transitive location drop+resultative adverbial (*Adverb Delokativ*) {#sec:adverbs-antiresultative}
 
 The locational prepositional phrase with verbs like *binden* 'to tie' is obligatory [@next]. In contrast, when adding a resultative adverbial to form *losbinden* 'to untie' the locational phrase is not obligatory anymore [@next c,d], cf. [@sec:preverb-transitive-antiresultative]. I currently only know of examples of this diathesis with adverbials *los*, *fest* and *weg*. However, I do not see any reason for other adverbials to be impossible.
 
@@ -697,9 +697,9 @@ b. Der Hund bellt die Kinder wach.
 
 - Ich falle. Ich falle meine Hose kaputt.
 
-### --- [ ADJ > OBJ ] --- *Adverb Applikativ* {.unnumbered}
+### --- [ ADJ > OBJ ] --- {.unnumbered}
 
-### [ Np | NA ] Applicative+resultative adverbial {#sec:adverbials-applicative}
+### [ Np | NA ] Applicative+resultative adverbial (*Adverb Applikativ*) {#sec:adverbials-applicative}
 
 This appears to be the most productive kind of diathesis with a resultative adverbial. An optional prepositional phrase of an intransitive verb like *niesen* 'to sneeze' [@next a] is reformulated as an accusative with the resultative adverbial, here *voll 'full' [@next b]. There are many different adverbials that induce this diatheses. The list presented below is in no way complete, but should just be seen as a set of random examples. With transitive verbs the addition of such resultative adverbs mostly does not lead to any role-remapping (see [@sec:adverbials-transitive-resultative]).
 
@@ -759,9 +759,9 @@ c. Ich laufe meine Schuhe bei den Marathon platt/kaputt.
 
 ## Symmetrical diatheses
 
-### --- [ ADJ > OBJ > ADJ ] --- *Adverb Vollapplikativ* {.unnumbered}
+### --- [ ADJ > OBJ > ADJ ] --- {.unnumbered}
 
-### [ NpA | NAp ] Applicative+*mit* antipassive+resultative adverbial {#sec:adverbial-full-applicative}
+### [ NpA | NAp ] Applicative+*mit* antipassive+resultative adverbial (*Adverb Vollapplikativ*) {#sec:adverbial-full-applicative}
 
 The adverbial *voll* induces a full applicative, promotion a prepositional phrase to accusative, while the erstwhile accusative can still be (optionally) retained as a *mit* prepositional phrase. The examples with *leer* in [@sec:adverbial-applicative-drop] are highly similar, but cannot retain the erstwhile accusative.
 

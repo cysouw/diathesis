@@ -181,7 +181,7 @@ Not attested.
 
 ### --- Temporal Aspect --- {.unnumbered}
 
-### *sein+am‑Infinitiv* Progressive {#sec:zuminfinitive-sein-am}
+### *sein+am‑Infinitiv* Progressive (*Progressiv*) {#sec:zuminfinitive-sein-am}
 
 The *sein+am‑Infinitiv* progressive has already extensively been investigated [@krause2002; @gargyan2010] and I will not repeat all results from those investigations here. This construction can be used with intransitive verbs to mark an ongoing activity [@next a]. It is considered colloquial and frowned upon in formal writing, but it is in widespread use. Transitive verbs can only be used with incorporated objects without article [@next b], which are arguably intransitive (see [@sec:case-incorporation]). The variant with an separated object without article is only used in a small patch at the Dutch border of the German speaker area [@next c].^[Verlaufsform mit 'am'. In: Elspaß, Stephan & Robert Möller. 2003ff. Atlas zur deutschen Alltagssprache (AdA). Online at <https://www.atlas-alltagssprache.de/r10-f10abcd>, accessed 29 November 2021.]
 

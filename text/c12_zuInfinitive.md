@@ -139,12 +139,7 @@ Colomo [-@colomo2010: 246-256] argues that the real semantic content of *pflegen
 
 ### --- Modality --- {.unnumbered}
 
-close to modal verbs
-- wissen/verstehen/vermögen = können
-- haben/brauchen/gehören = müssen/sollen
-- denken/belieben = wollen/mögen
-
-### *wissen/verstehen+zu‑Infinitiv* Ability (*Abilitiv*)^[Note that Englisch *ability* comes from Latin *habilitas*, so a German name like ~~habilitiv~~ would probably be more precise. However, I prefer ~~abilitiv~~ because it is easier to understand due to the similarity to English. One can also invoke Medieval Latin *abilitas* as its origin, likewise with a dropped <h>.] {#sec:zuinfinitive-wissen}
+### *wissen/verstehen+zu‑Infinitiv* Ability (*Abilitiv*) {#sec:zuinfinitive-wissen}
 
 The construction *wissen+zu‑Infinitiv* is only mentioned in-passing in the German grammatical literature [e.g. @engel1996: 483; @holl2010: 10; @duden2009: 426]. This omission is all the more striking as it is widely acknowledged that the inflection of *wissen* shows various similarities to the *Modalverben* [@duden2009: 458-459, 481-482]. Actually, it is quite obvious that the *wissen+zu‑Infinitiv* construction has a modal meaning expressing capability 'to be able to' [@next a]. This construction is obligatorily coherent [@next b,c].
 

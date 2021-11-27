@@ -1431,6 +1431,8 @@ Only a small subset of all verbs with a dative argument allow for an impersonal 
 - Ich weiß nicht, wie weit dem Zola-Roman gefolgt wird.^[~~DWDS~~: Klemperer, Victor: [Tagebuch] 1928. In: "Leben sammeln, nicht fragen wozu und warum", Berlin: Aufbau-Taschenbuch-Verl. 2000, S. 258]
 - Ich habe angeordnet, daß allen Spuren […] nachgegangen wird."^[~~DWDS~~: Der Spiegel, 16.01.1989]
 
+### --- [ SBJ > Ø ] --- {.unnumbered}
+
 ### [ N | – ] *sein+Partizip* Impersonal passive
 
 It appears to be impossible for intransitives to be used in an *sein+Partizip* impersonal passive. This section is only included to discuss the theoretical possibility of this construction, because there is a curious parallel with other impersonal constructions. Impersonal constructions with light verbs *werden*, *sein* and *gehören* occur with additional governed prepositions or datives (see the next sections), but a parallel construction with *sein* is (apparently) not attested for 'real' intransitives [@next].
@@ -1518,7 +1520,7 @@ Impersonal passives with a dative are widespread with the light-verb *gehören* 
 
 - *antworten, entsprechen, helfen, kündigen*
 
-### --- [ OBJ > SBJ > Ø ] --- *Antikausativ* {.unnumbered}
+### --- [ OBJ > SBJ > Ø ] --- {.unnumbered}
 
 ### [ NA | –N ] *bleiben+Partizip* Anticausative (*Kontinuativantikausativ*) {#sec:participles-bleiben-transitive}
 
@@ -1708,7 +1710,7 @@ b. Er geht gebückt.
 - Moderne Stiftungen […] bringen Themen aufs Tapet, die sonst vergessen gehen.^[~~DWDS~~: Die Zeit, 30.04.2014, Nr. 19.]
 
 
-### --- [ OBJ > SBJ > ADJ ] --- *Passiv* {.unnumbered}
+### --- [ OBJ > SBJ > ADJ ] --- {.unnumbered}
 
 ### [ NA | pN ] *werden+Partizip* Passive (*Vorgangspassiv*) {#sec:participles-werden-passive}
 
@@ -1903,7 +1905,7 @@ There are various *machen+sich+Partizip* constructions that do not appear to be 
 - Die Loyalität macht sich bezahlt.
 :::
 
-### --- [ OBJ > SBJ > ADJ ] --- *Dativ Passiv* {.unnumbered}
+### --- [ OBJ > SBJ > ADJ ] --- {.unnumbered}
 
 ### [ ND | pN ] *bekommen/kriegen/erhalten+Partizip* Intransitive dative passive {#sec:participles-intransitive-bekommen-passive}
 
