@@ -1712,7 +1712,7 @@ b. Er geht gebückt.
 
 ### [ NA | pN ] *werden+Partizip* Passive (*Vorgangspassiv*) {#sec:participles-werden-passive}
 
-The *werden+Partizip* ~~Vorgangspassiv~~ is the quintessential diathesis according to typical textbooks on German grammar. This diathesis promotes an accusative to nominative and (optionally) retains the original nominative as a prepositional *durch* or *von* phrase [@next]. Any further arguments (like datives or governed prepositions) are simply retained [@next c,d].
+The *werden+Partizip* ~~Vorgangspassiv~~ is the quintessential diathesis according to typical textbooks on German grammar. This diathesis promotes an accusative to nominative and (optionally) retains the original nominative as a prepositional *durch* or *von* phrase [@next], but see [@sec:prepositions-durch] for a discussion of the status of these prepositions. Any further arguments, like datives or governed prepositions, are simply retained [@next c,d].
 
 ::: ex
 - Der Handwerker hat das Haus angemalt.

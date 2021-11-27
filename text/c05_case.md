@@ -54,7 +54,7 @@ e. Ich beschuldige den Verdächtigten [des Diebstahls] von weiteren Gegenstände
 
 ### Quantified object
 
-A special kind of arguments are quantified objects [cf. "Mensuralergänzung", @eroms2000: 203-204], exemplified in [@next a-e]. Quantified objects are overtly marked accusative objects that often contain numerals, like in [@next d] or [@next e], in which *einen* is not an article, but the numeral one. Except for numerals, the quantification can also be instantiated by adjectives (e.g. *ganzen* in [@next a]), indefinites (e.g. *jeden* in [@next b]) or measure phrases (e.g. *zu laut* in [@next c]).
+A special kind of arguments are quantified objects [cf. "Mensuralergänzung", @eroms2000: 203-204], exemplified in [@next a-e]. Quantified objects are overtly marked accusative objects that often contain numerals, like in [@next d] or [@next e], in which *einen* is not an article, but the numeral one. Except for numerals, the quantification can also be instantiated by adjectives, e.g. *ganzen* 'complete' in [@next a], indefinites, e.g. *jeden* 'each' in [@next b], or measure phrases, e.g. *zu laut* 'too noisy' in [@next c].
 
 ::: ex
 a. Er schläft den ganzen Tag. (*wie lange?* 'how long')
@@ -64,11 +64,11 @@ d. Er ist drei mal gefallen. (*wie oft?* 'how often')
 e. Er steigt einen Stock höher. (*wo?* 'where')
 :::
 
-These quantified constituents are not governed arguments. First, they can easily be left out (all verbs in the examples are typical intransitive verbs). Second, and more importantly, they cannot be replaced by a pronoun nor be questioned by a question pronoun (viz. *wen/was*). Instead, they are questioned by adverbial interrogative words as listed at the examples above, indicating that the quantified constituents are adverbial phrases, not governed arguments. Still, there are a few verbs that obligatorily need such a quantified object. These will be discussed in [@sec:case-quantified-objects].
+These quantified constituents are not governed arguments. First, they can easily be left out (all verbs in the examples are typical intransitive verbs). Second, and more importantly, they cannot be replaced by a pronoun nor be questioned by a question pronoun (viz. *wen/was*). Instead, they are questioned by adverbial interrogative words as listed at the examples above, indicating that the quantified constituents are adverbial phrases, not arguments. Still, there are a few verbs that obligatorily need such a quantified object, and in those cases quantified constituents can be considered arguments. These will be discussed in [@sec:case-quantified-objects].
 
 ### Named objects
 
-A special group of verbs can be used to performatively name persons or things. As proper names, such arguments are arguably without case in standard German [@next a], but with regular nouns these phrases are clearly accusatives [@next b]. The effect are constructions with two accusative arguments. These arguments are normally questioned by the manner interrogative *wie* 'how', though in some situations *was* 'what' seems possible [@next c]. The small group of verbs that obligatorily takes such arguments will be discussed in [@sec:case-named-objects].
+A special group of verbs can be used to performatively name persons or things. As proper names, such arguments are arguably without case in standard German [@next a], but with regular nouns these phrases are clearly accusatives [@next b]. The result of such accusatively marked names are constructions with two accusative arguments. These arguments are normally questioned by the manner interrogative *wie* 'how', though in some situations *was* 'what' seems possible [@next c]. The small group of verbs that obligatorily takes such arguments will be discussed in [@sec:case-named-objects].
 
 ::: ex
 a. Ich nenne dich [ Lukas].
@@ -85,11 +85,11 @@ a. Er hat einen gesunden Schlaf geschlafen.
 b. Er hat viele Träume geträumt.
 :::
 
-This construction is known as a 'cognate object' construction [e.g. @levin1993: 95-96], because the object is etymologically related to the verb. In many cases, this cognate object is simply a zero nominalisation ('conversion') of the verb stem (e.g. *schlafen - der Schlaf*, 'to sleep - the sleep'), but in some cases different nominalisations like the infinitive are used (e.g. *lächeln - das Lächeln*, 'to smile - the smile').
+This construction is known as a 'cognate object' construction [e.g. @levin1993: 95-96], because the object is etymologically related to the verb. In many cases, this cognate object is simply a zero nominalisation (conversion) of the verb stem (e.g. *schlafen - der Schlaf*, 'to sleep - the sleep'), but in some cases different nominalisations like the infinitive are used (e.g. *lächeln - das Lächeln*, 'to smile - the smile').
 
-Examples like [@last a,b] seem to suggest that intransitive verbs like *schlafen* 'to sleep' and *träumen* 'to dream' allow for accusative arguments. However, besides these cognate objects there are no other accusative arguments allowed with these verbs. Further, such cognate arguments seem to be theoretically possible for all verbs, though often quite some imagination is needed to find a suitable context to use verb and nominalised verb together. Because of their special status, such cognate object nominalisations are not counted as regular arguments.
+Examples like [@last a,b] seem to suggest that intransitive verbs like *schlafen* 'to sleep' and *träumen* 'to dream' allow for accusative arguments. However, besides these cognate objects there are no other accusative arguments allowed with these verbs. Further, such cognate objects seem to be theoretically possible for all verbs, though often quite some imagination is needed to find a suitable context to use verb and nominalised verb together. Because of their special status, such cognate object nominalisations are not counted as regular arguments here.
 
-### Lexicalised noun-verb combinations
+### Lexicalised noun-verb combinations {#sec:case-incorporation}
 
 There is a common pattern in German in which nouns are combined with a verb, like *eislaufen* 'ice skating'. Such constructions are highly reminiscent of the typologically widespread process of noun incorporation. However, in German such noun incorporation only occurs with individual lexeme combinations, so they are probably better interpreted as grammaticalised noun-verb collocations [@eisenberg2013: 324-327; @gallmann1999; -@gallmann2015]. 
 
@@ -101,7 +101,7 @@ b. Er hat bittere Tränen geweint.
 c. Er stirbt einen qualvollen Tod.
 :::
 
-The typical examples like *Blut* 'blood' in [@last a] do not show much indication of case-marking. It is clearly not a genitive (because then it should have been *Blutes*), but nominative, dative or accusative are all possible. The few examples with determiners and/or adjectives seem to indicate that these constituents are accusatives. However, even in undoubtedly accusative examples like [@last c] the accusative is not an argument, because it is strange (if not completely ungrammatical) to pronominalise [@next a] or question [@next b] this accusative. Just like cognate objects, such nouns in lexicalised noun-verb combinations are not arguments.
+The typical examples like *Blut* 'blood' in [@last a] do not show much indication of case-marking. It is clearly not a genitive (because then it should have been *Blutes*), but nominative, dative or accusative are all possible. The few examples with determiners and/or adjectives seem to indicate that these constituents are accusatives. However, even in undoubtedly accusative examples like [@last c] the accusative is not an argument, because it is strange (if not completely ungrammatical) to pronominalise [@next a] or question [@next b] this accusative. Just like cognate objects, such nouns in lexicalised noun-verb combinations are not counted as arguments here.
 
 ::: ex
 a. ^* Er stirbt es.
@@ -110,7 +110,7 @@ b. ^^?^ Was ist er gestorben?
 
 ### Adnominal case-marked constituents
 
-Semantically, adnominal constituents are easily identified as modifiers inside a noun phrase. However, there is no formal difference between adnominal and sentential case-marked constituents, leading possibly to ambiguous sentences like [@next a]. In this sentence, both the accusative constituent for the accusee *den Verdächtigen* and the genitive constituent for the accusation *des Diebstahls* can be read as arguments being governed by the verb *beschuldigen* 'to accuse' [@next b]. Alternatively, these two constituents can be interpreted as a single complex noun phrase, as can be seen by the possibility to add a further constituent describing a different accusation [@next c]. Adnominal constituents are (obviously) not arguments.
+Semantically, adnominal constituents are easily identified as modifiers inside a noun phrase. However, there is no formal difference between adnominal and sentential case-marked constituents, leading possibly to ambiguous sentences like [@next a]. In this sentence, both the accusative constituent for the accusee *den Verdächtigen* and the genitive constituent for the accusation *des Diebstahls* can be read as arguments being governed by the verb *beschuldigen* 'to accuse' [@next b]. Alternatively, these two constituents can be interpreted as a single complex noun phrase, as can be seen by the possibility to add a further constituent describing a different accusation [@next c]. Adnominal constituents are (obviously) not counted as arguments here.
 
 ::: ex
 a. Ich beschuldige den Verdächtigten des Diebstahls.
@@ -378,7 +378,7 @@ b. ^* Ein Egoist wird dich genannt.
 
 ## Alternations without diathesis
 
-Alternations without diathesis do not exist by definition for 'bare' alternations as discussed in this chapter. As noted in the introduction, this chapter discusses alternations that are only recognisable by the fact that there is a diathesis, without any other linguistic indication of the valency alternation. In other chapters this category will be well represented.
+This section is empty. It is only added here for the numbering to be parallel across chapters. By definition, alternations without diathesis do not exist for covert alternations as discussed in this chapter. In other chapters this section will be well represented by many examples.
 
 ## Diatheses with subject demotion
 
@@ -592,8 +592,8 @@ Although there is no overt difference between an unmarked anticausative and an u
 
 **Attested Verbs**
 
-- *altern, biegen, bleichen, brechen, fahren, knicken, reifen, reißen, rollen, schmelzen, stürzen, tauen, trocknen*
-- *abbrechen, abbrennen, abknicken, abkühlen, abstumpfen, antreten, auftauen, austrocknen, einbiegen, einfliegen, einfrieren, einknicken, einreißen, ermatten, erstaunen, ersticken, ertrinken, erzürnen, niederbrennen, umkehren, umstürzen, überfahren, verbrennen, verderben, verdunsten, verrohen, wegtreten, zerbrechen, zerknittern, zerreißen, zersplittern, zuklappen, zuschneien*
+- Monomorphemic verb: *altern, biegen, bleichen, brechen, fahren, knicken, reifen, reißen, rollen, schmelzen, stürzen, tauen, trocknen*
+- Verb prefixes: *abbrechen, abbrennen, abknicken, abkühlen, abstumpfen, antreten, auftauen, austrocknen, einbiegen, einfliegen, einfrieren, einknicken, einreißen, ermatten, erstaunen, ersticken, ertrinken, erzürnen, niederbrennen, umkehren, umstürzen, überfahren, verbrennen, verderben, verdunsten, verrohen, wegtreten, zerbrechen, zerknittern, zerreißen, zersplittern, zuklappen, zuschneien*
 
 **Further Examples**
 
