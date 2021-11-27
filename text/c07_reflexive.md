@@ -56,7 +56,7 @@ There are six diatheses that seem prominent enough to be given a German name. I 
 - ~~[OBJ › Ø] Endoreflexiv~~ (see [@sec:reflexive-accusative-drop] ff.)
 - ~~[OBJ › ADJ] Reziprokativ~~ (see [@sec:reflexive-mit-antipassive])
 - ~~[OBJ › PBJ] Reflexiv Antipassiv~~ (see [@sec:reflexive-accusative-antipassive])
-- ~~[PBJ › PBJ] Reflexiv Resultativ~~ (see [@sec:reflexive-resultative])
+- ~~[PBJ › PBJ] Reflexiv Verursachte Bewegung~~ (see [@sec:reflexive-resultative])
 
 ## Characteristics of reflexive pronouns
 
@@ -1633,11 +1633,11 @@ b. Ich bin mir keiner Schuld bewust.
 
 - *bewusst sein*
 
-### --- [ PBJ > PBJ ] --- *Reflexiv Resultativ* {.unnumbered}
+### --- [ PBJ > PBJ ] --- *Reflexiv Verursachte Bewegung* {.unnumbered}
 
 ### [ NP | NL ] Reflexive location-as-result {#sec:reflexive-resultative}
 
-A verb like *träumen* 'to dream' has a governed preposition *von* [@next a,b]. With a reflexive pronoun *sich träumen* a locative adverbial is needed, e.g a prepositional phrase with *nach* 'to' [@next c,d]. The meaning of this construction is that by performing the verb (i.e. by dreaming) the locational description is achieved (i.e. being in New York). The location always appears to be describing a movement, with *durch* 'through' being the most productive.
+A verb like *träumen* 'to dream' has a governed preposition *von* [@next a,b]. With a reflexive pronoun *sich träumen* a locative adverbial is needed, e.g a prepositional phrase with *nach* 'to' [@next c,d]. The meaning of this construction is that by performing the verb (i.e. by dreaming) the locational description is achieved (i.e. being in New York). The location always appears to be describing a movement, with *durch* 'through' being the most productive. There seems to be a close connection to the forced movement diathesis (see [@sec:prepositions-transitive-location-as-result]).
 
 ::: ex
 a. Ich träume von New York. 

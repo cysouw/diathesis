@@ -2,20 +2,20 @@
 
 ## Introduction
 
-Under the heading ~~preverb~~ I will subsume here two different constructions, known in German linguistics as *Verbpräfixe* 'verb prefixes' [@next a] and *Verbpartikel* 'verb particles' [@next b]. These constructions have clearly different syntactic characteristics (see [@sec:preverbs-prefixes-particles]), but from the perspective of valency alternations they appear to function highly similar. For a discussion of term 'preverb' as a cover term for both constructions, see Booij & van Kemenade [-@booij2003b]. 
+Under the heading ~~preverb~~ I will subsume two different constructions, known in the German linguistic tradition as *Verbpräfixe* 'verb prefixes' [@next a] and *Verbpartikel* 'verb particles' [@next b]. These constructions have clearly different syntactic characteristics (see [@sec:preverbs-prefixes-particles]), but from the perspective of valency alternations they appear to function highly similar. For a discussion of term 'preverb' as a cover term for both constructions, see Booij & van Kemenade [-@booij2003b]. 
 
 ::: ex
 a. Ich umfahre den Polizisten.
 b. Ich fahre den Polizisten um.
 :::
 
-There is a massive literature on the German alternations induced by verb prefixes and verb particles, including complete monographs on individual preverbs (e.g. Felfe [-@felfe2012] on the many different alternations with the particle *an-*). However, most of this literature focusses on the semantic difference between a bare verb and a verb with a preverb. Changes in valency are mostly discussed only as an aside. In contrast, in this chapter the meaning of the preverbs will only play a secondary role. The focus will be on the valency changing effect the prefixes have with some verbs [cf. @eroms1980; @kim1983; @gunther1987; @wunderlich1987; @wunderlich1997; @geist2016 for similar approaches].
+There is a massive literature on the German alternations induced by verb prefixes and verb particles, including complete monographs on individual preverbs, for example Felfe [-@felfe2012] on the many different alternations with the particle *an-*. However, most of this literature focusses on the semantic difference between a bare verb and a verb with a preverb. Changes in valency are mostly discussed only as an aside. In contrast, in this chapter the meaning of the preverbs will only play a secondary role. The focus will be on the valency change induced by the preverbs [cf. @eroms1980; @kim1983; @gunther1987; @wunderlich1987; @wunderlich1997; @geist2016 for similar approaches].
 
 The central generalisation that can be extracted from the numerous examples in this chapter is that the structural effect of a preverb diathesis is to produce a verb with an accusative argument. This generalisation does not hold without special definitional stipulations (e.g. accusative reflexive pronouns have to be included) and there are various counterexamples (e.g. diatheses resulting in dative arguments), but overall the generalisation seems to be exceptionally strong (see [@sec:preverbs-always-accusative]). In a very broad sense, preverb diatheses can be seen as some kind of counterpart to reflexive diatheses as discussed in the previous chapter. Reflexive diatheses generally reduce the valency, while preverb diatheses tend to increase the valency.
 
-As is customary in German grammar, I will restrict the notion of verb particles to morphemes that are related to prepositions. There are very many other morphemes that behave syntactically rather similar to particles, but which are related to adverbials/adjectives. These adverbial/adjectival preverbs are much more limited in the kind of diatheses that they induce, so I have decided to discuss them separately in the next chapter under the heading of adverbial alternations.
+As is customary in German grammar, I will restrict the class of verb particles to morphemes that are related to prepositions. There are very many other morphemes that behave syntactically rather similar to particles, but which are related to adverbials/adjectives. These adverbial/adjectival preverbs are much more limited in the kind of diatheses that they induce, so I have decided to discuss them separately in the next chapter under the heading of adverbial alternations.
 
-There are ten local groups of diatheses that seem prominent enough to be given a German name. I propose the following names for these:
+There are 11 diatheses that are sufficiently prominent to be given a German name. I propose the following names for these:
 
 - ~~[Ø › SBJ › OBJ] Präverb Kausativ~~ (see [@sec:preverb-causative] ff.)
 - ~~[Ø › OBJ] Präverb Akkusativ~~ (see [@sec:preverb-accusative-addition] ff.)
@@ -26,6 +26,7 @@ There are ten local groups of diatheses that seem prominent enough to be given a
 - ~~[ADJ › OBJ › ADJ] Präverb Vollapplikativ~~ (see [@sec:preverb-applicative-antipassive])
 - ~~[PBJ › Ø] Präverb Delokativ~~ (see [@sec:preverb-intransitive-antiresultative] ff.)
 - ~~[PBJ › OBJ › Ø] Präverb Antiresultativ~~ (see [@sec:preverb-location-antiresultative] ff.)
+- ~~[OBJ › Ø] Präverb Endoreflexiv~~ (see [@sec:preverb-reflexive-accusative-drop])
 - ~~[OBJ › ADJ] Präverb Dativ Antipassiv~~ (see [@sec:preverb-dative-antipassive])
 
 ## Characterising preverbs
@@ -53,15 +54,15 @@ The following elements can only be used as verb prefixes in German [see @los2016
 - *entˈ-*: originally meaning 'against', cognate with Greek *anti*
 - *missˈ-*: originally meaning 'missing', still transparently cognate with modern German verb root *(ver)miss(en)*
 
-The prefix *geˈ-* only occurs in completely grammaticalised combinations, i.e. there are no verbs (anymore) with *ge-* in which the root is still transparently related to the *ge-* prefixed wordform (cf. [@sec:intro-lexical-meanings]). Pairs like *bieten* 'to offer' and *gebieten* 'to order' are thus simply treated as two completely separate lexemes here, and will consequently not occur among any of the diatheses (see [@sec:preverb-deponent]). In contrast, the addition of the prefix *missˈ-* is always completely transparent and never results in a diathesis, e.g. *achten* 'to respect' and *missachten* 'to disrespect' (see [@sec:preverb-intranstive-without-diathesis; @sec:preverb-transitive-without-diathesis]). That leaves the prefixes *beˈ-, erˈ-, verˈ-, zerˈ-, entˈ-*, and all of these occur frequently. They induce various diathesis as discussed throughout this chapter.
+The prefix *geˈ-* only occurs in completely grammaticalised combinations, i.e. there are no verbs (anymore) in which the root is still transparently related to the *ge-* prefixed wordform (cf. [@sec:intro-lexical-meanings]). Pairs like *bieten* 'to offer' and *gebieten* 'to order' are thus simply treated as two completely separate lexemes here, and will consequently not occur among any of the diatheses (see [@sec:preverb-deponent]). In contrast, the addition of the prefix *missˈ-* is always completely transparent and never results in a diathesis, e.g. *achten* 'to respect' and *missachten* 'to disrespect' (see [@sec:preverb-intranstive-without-diathesis; @sec:preverb-transitive-without-diathesis]). That leaves the prefixes *beˈ-, erˈ-, verˈ-, zerˈ-, entˈ-*, and all of these occur frequently. They induce various diathesis as discussed throughout this chapter.
 
 The following prepositions can be used as preverbs:
 
 - The four prepositions *durch, über, um, unter* can be used both as verb prefixes and as verb particles leading to diathesis.
-- The nine prepositions *ab, an, auf, aus, bei, ein (~in), nach, vor, zu* are frequently used as verb particles leading to diathesis.
+- The nine prepositions *ab, an, auf, aus, bei, ein (=in), nach, vor, zu* are frequently used as verb particles leading to diathesis.
 - The preposition *mit* only occurs as a verb particle in completely transparent derivation that never result in a diathesis, e.g. *arbeiten* 'to work' becomes *mitarbeiten* 'to work along' (see [@sec:preverb-intranstive-without-diathesis; @sec:preverb-transitive-without-diathesis]).
 - A few polysyllabic prepositions are only used very rarely as verb particles, namely *entlang, entgegen, gegenüber, hinter, neben, zwischen*. 
-- Crucially, the remaining prepositions are never used as verb particles with a verb root, namely *außer, bis, für, gegen, ohne, seit, von* (with only incidental examples like *fürsprechen*). It is unclear to me whether there is any deeper reason for the absence of any such derivations.
+- Crucially, the remaining prepositions are never used as verb particles with a verb root, namely *außer, bis, für, gegen, ohne, seit, von*. There exist only incidental examples like *fürsprechen*. It is unclear to me whether there is any deeper reason for the absence of any such derivations.
 
 The two main groups of prepositional preverbs that are involved in diathesis show an intriguing semantic structure. Note that this semantic structure involves their prepositional meaning, not their function as preverbs:
 
@@ -87,7 +88,7 @@ g. Bewegungsfolgen werden nur angetanzt und immer wieder abgebrochen.^[~~DWDS~~:
    (= die Bewegung nicht vollständig ausführen)
 :::
 
-The locational particles: *da(r)-, her-, hin-* are not further investigate here. They appear not to induce any diathesis when combined with a verb.
+The locational particles: *da(r)-, her-, hin-* are not further investigate here. They do not appear to induce any diathesis when combined with a verb.
 
 ### Preverbal verbs prefer an accusative argument {#sec:preverbs-always-accusative}
 
@@ -486,7 +487,7 @@ b. Ich sehe dich an.
 
 ## Diatheses with subject demotion
 
-Keeping with the observation that preverb alternations tend to produce nominative/accusative constructions (see [@sec:preverbs-always-accusative]), preverb diatheses with subject demotion are exceedingly rare.   
+All examples in the following sections result in intranstive verbs. Keeping with the observation that preverb alternations tend to produce nominative/accusative constructions (see [@sec:preverbs-always-accusative]), preverb diatheses with subject demotion are exceedingly rare. Almost all the attested examples use verb prefixes. Examples with verb particles are almost non-existing. 
 
 ### --- [ OBJ > SBJ > Ø ] --- {.unnumbered}
 
@@ -526,7 +527,7 @@ c. ^^?^ Der Vogel verfängt sich.
 
 ### [ NL | -N ] Preverb location anticausative {#sec:preverb-preposition-anticausative}
 
-Lipka [-@lipka1972: 93-94] calls this 'Subjektvertauschung', which he claims is 'quite frequent in German.' However, I do not know of any other examples of this diathesis except for the example given by Lipka, namely the diathesis between *laufen+aus* and *auslaufen*, both meaning approximately 'to empty' [@next a,b]. It might be that Lipka intended to use this term for what is commonly called 'anticausative', but then his example was ill-chosen. Hundsnurscher [-@hundsnurscher1968: 130ff.] discusses many examples that might be semantically similar, but do not show diathesis (e.g. *tröpfeln/auströpfeln*). For historical context, see Carlberg [-@carlberg1948] for more about the history of the terminology and the relation to metonymy. For the counterpart 'Objektvertauschung', see [@sec:preverb-location-antiresultative]
+Lipka [-@lipka1972: 93-94] calls this 'Subjektvertauschung', which he claims is 'quite frequent in German.' However, I do not know of any other examples of this diathesis except for the example given by Lipka, namely the diathesis between *laufen+aus* and *auslaufen*, both meaning approximately 'to empty' [@next a,b]. It might be that Lipka intended to use this term for anticausatives in general (which indeed are quite common in German), but then his example using a preverb was ill-chosen. Hundsnurscher [-@hundsnurscher1968: 130ff.] discusses many examples that might be semantically similar, but do not show diathesis (e.g. *tröpfeln/auströpfeln*). For historical context, see Carlberg [-@carlberg1948] for more about the history of the terminology and the relation to metonymy. For the counterpart 'Objektvertauschung', see [@sec:preverb-location-antiresultative]
 
 ::: ex
 a. Das Wasser ist aus der Flasche gelaufen.

@@ -137,6 +137,15 @@ Colomo [-@colomo2010: 246-256] argues that the real semantic content of *pflegen
 - ^* Es ist bekannt, dass sie pflegte laut zu lachen.
 :::
 
+### *belieben+zu‑Infinitiv* Habitual {#sec:zuinfinitive-belieben}
+
+The verb *belieben* can be used with a *zu‑Infinitiv*, but only in rather archaic and mostly ironic usage. When interpreted literally, such structures convey a habitual action by the subject. However, interpreted ironically it normally means that the speaker disagrees with the action [@next a]. This even leads to contexts in which the construction is used to express 'you should reconsider your actions' [@next b].
+
+::: ex
+- Der Herr belieben zu scherzen.
+- Schmoller beliebe zu überlegen, dass er in diesem Satze seine Meinung plötzlich ändert.^[~~DWDS~~: Menger, Carl: Die Irrthümer des Historismus in der deutschen Nationalökonomie. Wien, 1884.]
+:::
+
 ### --- Modality --- {.unnumbered}
 
 ### *wissen/verstehen+zu‑Infinitiv* Ability (*Abilitiv*) {#sec:zuinfinitive-wissen}
@@ -230,9 +239,7 @@ There is an old tradition in Latin grammar to describe one of the possible meani
 
 ### *denken+zu‑Infinitiv* Cogitative (*Kogitativ*) {#sec:zuinfinitiv-denken}
 
-In most contexts, the verb *denken* means 'to think'
-
-"beabsichtigen/wollen" not in meaning 'to think, to believe' *Cogitative* from Lat *cogitare* 'to plan, to intend'
+In most contexts, the verb *denken* means 'to think, to believe'. In this meaning, a *zu‑Infinitiv* consstruction is not coherent [@next a,b]. However, with a *zu‑Infinitiv* in a coherent construction, the verb *denken* means 'to plan, to intend' [@next c,d]. I propose to call this construction a *cogitative* (from Lat. *cogitare* 'to plan, to intend').
 
 ::: ex
 - Er denkt, mich überraschen zu können. \
@@ -247,10 +254,6 @@ In most contexts, the verb *denken* means 'to think'
 
 - Weil damals eine schicksalhafte Wahlschlacht anstand, die Putin für sich zu gewinnen dachte.^[~~DWDS~~: Die Zeit, 05.01.2006, Nr. 02.]
 - Der Prinz besah sich einige neue Juwelen, die er heimlich zu tragen dachte.^[~~DWDS~~: Klepper, Jochen: Der Vater, Gütersloh: Bertelsmann 1962 [1937], S. 452.]
-
-### *belieben+zu‑Infinitiv* Desire {#sec:zuinfinitive-belieben}
-
-"wollen/mögen" slightly ironical
 
 ### --- Evidentiality --- {.unnumbered}
 

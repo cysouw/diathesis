@@ -274,18 +274,16 @@ The structure of this book is somewhat unusual for a scholarly monograph. It is 
 
 The book consists of three different parts. First, Chapter 1 and 2 discuss the major theoretical considerations that guide the collection and organisation of the data. This is the part to read for insights into the nature of diathesis and sundry topics. Second, Chapter 3 and 4 are the closest that this book has to offer in the way of a conclusion. Each of these chapters present an astonishingly long list of grammatical constructions, summarising major linguistic structures as identified in the rest of the book. These summaries are intended to be a quick entry into the actual German language data, with ample cross-references to the following encyclopaedia. Finally, Chapter 5 to 13 make up the actual encyclopaedia, with separate sub-subsections about individual phenomena. Each of these sub-subsections is a fragment of a research project, sometimes mundane, but often full of surpising avenues for future research. 
 
-Going through the chapters in more detail, this first chapter summarised the basic definitional properties of diathesis. The next Chapter [-@sec:structure] describes in detail how diatheses are analysed and classified. Chapter [-@sec:summary] presents a summary of the about 80 major German diatheses and proposes German names for those structures. As a small extra, Chapter [-@sec:epithesis] summarises all about 40 non-diathetical structures and provides an unconventional approach to the analysis of verbal categories of German. 
-
-Chapters [-@sec:case] to [-@sec:zuminfinitive] are the core part of this book. These chapter are database-like texts, discussing each clause structure separately. All of these chapters have exactly the same internal structure. Sometimes certain sections are empty, because there is no grammatical structure in that category. However, the headers of those empty sections have been preserved for the sake of parallel numbering across chapters. The following structure is used in all data chapters:
+Going through the chapters in more detail, this first chapter summarised the basic definitional properties of diathesis. The next Chapter [-@sec:structure] describes in detail how diatheses are analysed and classified. Chapter [-@sec:summary] presents a summary of the about 80 major German diatheses and proposes German names for those structures. As a small extra, Chapter [-@sec:epithesis] summarises all about 40 non-diathetical structures and provides an unconventional approach to the analysis of verbal categories of German. Chapters [-@sec:case] to [-@sec:zuminfinitive] are the core part of this book. These chapter are database-like texts, discussing each clause structure separately. All of these chapters have exactly the same internal structure. Sometimes certain sections are empty, because there is no grammatical structure in that category. However, the headers of those empty sections have been preserved for the sake of parallel numbering across chapters. The following structure is used in all data chapters:
 
 - Section X.1 is a concise introduction into the kind of diatheses discussed.
-- Section X.2 is a detailed discussion of the definition and delimitation of the grammatical phenomenon discussed.
-- Section X.3 lists examples that formally look like a diathesis, but there is no alternation at all.
-- Section X.4 lists alternation that have a similar structure to the diatheses discussed, but there is no diathesis.
+- Section X.2 is a detailed discussion of the grammatical definitions.
+- Section X.3 lists examples that look like a diathesis, but there is no alternation.
+- Section X.4 lists alternation with the relevant structure, but there is no diathesis.
 - Section X.5 lists diatheses with subject demotion.
 - Section X.6 lists diatheses with subject promotion.
-- Section X.7 lists diatheses with object demotion (without change of subject marking).
-- Section X.8 lists diatheses with object promotion (without change of subject marking).
-- Section X.9 lists symmetrical diatheses that do not clearly fall in one of the above categories.
+- Section X.7 lists diatheses with object demotion.
+- Section X.8 lists diatheses with object promotion.
+- Section X.9 lists symmetrical diatheses that do not fit into the above categories.
 
 In these data chapters, each diathesis has its own sub-subsection with an unique section header that can be used as a name to refer to the diathesis (e.g. [@sec:participles-werden-passive] on the "*werden+Partizip* passive"). Many of these unique names are quite boring, but hopefully descriptively useful for future reference. Individual verbs (often with concrete examples) are listed with each diathesis to show the extend of its applicability. Neither these lists of verbs nor the examples are intended to be exhaustive in any way. They should be seen as a first step towards more in-depth research into individual diatheses or into the different constructional possibilities that exist for individual verbs.

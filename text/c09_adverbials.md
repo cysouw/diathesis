@@ -37,7 +37,7 @@ There are six diatheses that seem prominent enough to be given a German name. I 
 
 - ~~[SBJ › Ø] Wertungsverbativ~~ (see [@sec:adverbial-reflexive-drop])
 - ~~[OBJ › SBJ › Ø] Wertungsantikausativ~~ (see [@sec:adverbial-reflexive-transitive-anticausative] ff.)
-- ~~[PBJ › Ø] Aktionsfokus~~ (see [@sec:adverbial-action-focus])
+- ~~[OBJ › Ø] Aktionsfokus~~ (see [@sec:adverbial-action-focus])
 - ~~[PBJ › ADJ] Adverb Delokativ~~ (see [@sec:adverbs-antiresultative] ff.)
 - ~~[ADJ › OBJ] Adverb Applikativ~~ (see [@sec:adverbials-applicative] ff.)
 - ~~[ADJ › OBJ › ADJ] Adverb Vollapplikativ~~ (see [@sec:adverbial-full-applicative])

@@ -517,50 +517,6 @@ a. Die Wäscherei reinigt den Teppich.
 b. Der neue Besitzer lässt den Teppich (von der Wäscherei) reinigen.
 :::
 
-## Antipassive diatheses ~~[OBJ › ADJ]~~
-
-### *Akkusativ Antipassiv* {#sec:summary-akkusativ-antipassiv}
-
-The unmarked ~~Akkusativ Antipassiv~~ (full discussion in [@sec:prepositions-accusative-antipassive] and subsequent sections) is a diathesis in which an accusative argument alternates with a prepositional phrase. This typically occurs without any overt marking other than the antipassive alternation itself. For example, the verb *schießen* 'to shoot' can be used both with an accusative and with an *auf* prepositional phrase [@next a]. The semantic effect of this diathesis is that the object is less affected when marked as a prepositional phrase. In some instances, like with *glauben an* 'to believe in' [@next b] the prepositional phrase is a governed preposition (see [@sec:prepositions-governed-antipassive]). 
-
-::: ex
-a. Ich schieße den Bären. \
-   Ich schieße auf den Bären.
-b. Ich glaube deine Aussage. \
-   Ich glaube an deiner Aussage. \
-   Ich glaube daran, dass deine Aussage stimmt.
-:::
-
-### *Dativ Antipassiv* {#sec:summary-dativ-antipassiv}
-
-The unmarked ~~Dativ Antipassiv~~ (full discussion in [@sec:prepositions-dative-antipassive] and subsequent sections) is a diathesis in which a dative argument alternates with a prepositional phrase. In a few instances this is attested with a dative without accusative, like with *weichen* 'to give way' [@next a]. More widespread this diathesis is found with verbs like *berichten* 'to report' [@next b] that allow for both an accusative and dative argument.
-
-::: ex
-a. Die Demonstranten wichen der Polizei. \
-   Sie wichen vor der Polizei.
-b. Er berichtet dem Vorstand die Ergebnisse der Untersuchung. \
-   Er berichtet die Ergebnisse an den Vorstand.
-:::
-
-### *Reflexiv Antipassiv* {#sec:summary-reflexiv-antipassiv}
-
-The ~~Reflexiv Antipassiv~~ (full discussion in [@sec:reflexive-accusative-antipassive]) is an antipassive in which additionally a reflexive pronoun is added. For example, the verb *beklagen* 'to lament' [@next] has a lamented object role *Lärm* 'noise' in the accusative [@next a] or in a prepositional phrase with *über* [@next b]. The reflexive pronoun in [@next b] is not a self-inflicting reflexive, i.e. the lamenting is not about oneself. These reflexive antipassives always have governed prepositional phrases [@next c].
-
-::: ex
-a. Ich beklage den Lärm.
-b. Ich beklage mich über den Lärm.
-c. Ich beklage mich darüber, dass es so laut ist
-:::
-
-### *Reziprokativ* {#sec:summary-reziprokativ}
-
-The ~~Reziprokativ~~ (full discussion in [@sec:reflexive-mit-antipassive]) is a special kind of antipassive in which an accusative is replaced by a *mit* prepositional phrase and additionally a reflexive pronoun is added, as shown for the verb *treffen* 'to meet' in [@next]. This reflexive pronoun does not have self-inflicting reference, i.e. the meeting is not with oneself. Semantically this diathesis is found with some verbs that can be construed as either reciprocal or non-reciprocal. For example, the verb *treffen* 'to meet' can be used without reflexive pronoun [@next a] meaning something like 'to bump into someone', while with a reflexive pronoun the meaning is clearly reciprocal 'to meet' [@next b].
-
-::: ex
-a. Ich treffe dich.
-b. Ich treffe mich mit dir.
-:::
-
 ## Applicative diatheses ~~[ADJ › OBJ]~~ 
 
 ### *Präverb Applikativ* {#sec:summary-praverb-applikativ}
@@ -630,6 +586,59 @@ a. Ich koche eine Suppe für dich.
 b. Ich koche dir eine Suppe.
 c. Ich arbeite für dich.
 d. ^* Ich arbeite dir.
+:::
+
+## Antipassive diatheses ~~[OBJ › ADJ]~~
+
+### *Akkusativ Antipassiv* {#sec:summary-akkusativ-antipassiv}
+
+The unmarked ~~Akkusativ Antipassiv~~ (full discussion in [@sec:prepositions-accusative-antipassive] and subsequent sections) is a diathesis in which an accusative argument alternates with a prepositional phrase. This typically occurs without any overt marking other than the antipassive alternation itself. For example, the verb *schießen* 'to shoot' can be used both with an accusative and with an *auf* prepositional phrase [@next a]. The semantic effect of this diathesis is that the object is less affected when marked as a prepositional phrase. In some instances, like with *glauben an* 'to believe in' [@next b] the prepositional phrase is a governed preposition (see [@sec:prepositions-governed-antipassive]). 
+
+::: ex
+a. Ich schieße den Bären. \
+   Ich schieße auf den Bären.
+b. Ich glaube deine Aussage. \
+   Ich glaube an deiner Aussage. \
+   Ich glaube daran, dass deine Aussage stimmt.
+:::
+
+### *Dativ Antipassiv* {#sec:summary-dativ-antipassiv}
+
+The unmarked ~~Dativ Antipassiv~~ (full discussion in [@sec:prepositions-dative-antipassive] and subsequent sections) is a diathesis in which a dative argument alternates with a prepositional phrase. In a few instances this is attested with a dative without accusative, like with *weichen* 'to give way' [@next a]. More widespread this diathesis is found with verbs like *berichten* 'to report' [@next b] that allow for both an accusative and dative argument.
+
+::: ex
+a. Die Demonstranten wichen der Polizei. \
+   Sie wichen vor der Polizei.
+b. Er berichtet dem Vorstand die Ergebnisse der Untersuchung. \
+   Er berichtet die Ergebnisse an den Vorstand.
+:::
+
+### *Präverb Dativ Antipassiv* {#sec:summary-praverb-dativ-antipassiv}
+
+The ~~Präverb Dativ Antipassiv~~ (full discussion in [@sec:preverb-dative-antipassive]) is a diathesis in which a preverb induces the demotion of a dative argument. For example, *schenken* 'to gift' [@next a] has a dative recipient, while *verschenken* 'to give away' [@next b] has no dative anymore. The dative can be retained as a prepositional phrase, but it is typically omitted.
+
+::: ex
+a. Ich schenke dem Kindergarten meine Bücher.
+b. Ich verschenke meine Bücher (an den Kindergarten).
+:::
+
+### *Reflexiv Antipassiv* {#sec:summary-reflexiv-antipassiv}
+
+The ~~Reflexiv Antipassiv~~ (full discussion in [@sec:reflexive-accusative-antipassive]) is an antipassive in which additionally a reflexive pronoun is added. For example, the verb *beklagen* 'to lament' [@next] has a lamented object role *Lärm* 'noise' in the accusative [@next a] or in a prepositional phrase with *über* [@next b]. The reflexive pronoun in [@next b] is not a self-inflicting reflexive, i.e. the lamenting is not about oneself. These reflexive antipassives always have governed prepositional phrases [@next c].
+
+::: ex
+a. Ich beklage den Lärm.
+b. Ich beklage mich über den Lärm.
+c. Ich beklage mich darüber, dass es so laut ist
+:::
+
+### *Reziprokativ* {#sec:summary-reziprokativ}
+
+The ~~Reziprokativ~~ (full discussion in [@sec:reflexive-mit-antipassive]) is a special kind of antipassive in which an accusative is replaced by a *mit* prepositional phrase and additionally a reflexive pronoun is added, as shown for the verb *treffen* 'to meet' in [@next]. This reflexive pronoun does not have self-inflicting reference, i.e. the meeting is not with oneself. Semantically this diathesis is found with some verbs that can be construed as either reciprocal or non-reciprocal. For example, the verb *treffen* 'to meet' can be used without reflexive pronoun [@next a] meaning something like 'to bump into someone', while with a reflexive pronoun the meaning is clearly reciprocal 'to meet' [@next b].
+
+::: ex
+a. Ich treffe dich.
+b. Ich treffe mich mit dir.
 :::
 
 ## Objective diatheses ~~[Ø › OBJ]~~

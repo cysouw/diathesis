@@ -20,7 +20,7 @@ There are also various light verbs that induce a diathesis when used with an inf
 
 Following Bech [-@bech1955] such construction are often designated as *Erster Status* in the German grammatical literature. However, this name is not very transparent nor particularly mnemonic, so I prefer to simply use the term ~~light-verb-plus‑Infinitive~~ constructions.
 
-There are ten frequently occurring diatheses that use a light verb+infinitive construction and for which I propose a German name, as listed below. Note that the *lassen+Infinitiv* construction occurs in many different diatheses. A detailed discussion of these can be found in [@sec:infinitive-guises-of-lassen]. 
+There are eleven frequently occurring diatheses that use a light verb+infinitive construction and for which I propose a German name, as listed below. Note that the *lassen+Infinitiv* construction occurs in many different diatheses. A detailed discussion of these can be found in [@sec:infinitive-guises-of-lassen]. 
 
 - ~~[SBJ › Ø]~~ *lassen* ~~Unpersönlicher Möglichkeitspassiv~~ (see [@sec:infinitive-lassen-reflexive-intransitive ff.])
 - ~~[SBJ › ADJ]~~ *heißen* ~~Intransitiver Notwendigkeitsdemotiv~~ (see [@sec:infinitive-heißen-demotion])
