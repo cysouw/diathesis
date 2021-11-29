@@ -573,7 +573,7 @@ The ~~Ortspertinenzdativ~~ (full discussion in [@sec:prepositions-possessor-of-l
 a. Das Hemd hing aus seiner Hose. \
    Das Hemd hing ihm aus der Hose. 
 b. Es weht. \
-   Der Wind weht die Blätter in meinem Gesicht. \
+   Der Wind weht die Blätter in mein Gesicht. \
    Der Wind weht mir die Blätter ins Gesicht.
 :::
 
@@ -598,7 +598,7 @@ The unmarked ~~Akkusativ Antipassiv~~ (full discussion in [@sec:prepositions-acc
 a. Ich schieße den Bären. \
    Ich schieße auf den Bären.
 b. Ich glaube deine Aussage. \
-   Ich glaube an deiner Aussage. \
+   Ich glaube an deine Aussage. \
    Ich glaube daran, dass deine Aussage stimmt.
 :::
 
@@ -751,8 +751,8 @@ The ~~Verursachte Bewegung~~ diathesis is attested in two variants. With intrans
 
 ::: ex
 a. Ich schwitze. \
-   Ich schwitze einen Fleck in meinem Hemd. \
-   (= Ich schwitze, und dadurch entsteht ein Fleck in mein Hemd.)
+   Ich schwitze einen Fleck in mein Hemd. \
+   (= Ich schwitze, und dadurch entsteht ein Fleck in meinem Hemd.)
 b. Ich befehle eine Armee. \
    Ich befehle die Armee an die Front. \
    (= Ich befehle, und dadurch geht die Armee an die Front.)
