@@ -417,7 +417,7 @@ A prototypical example of a chained diathesis involving the nominative subject i
 ~~[OBJ › SBJ › ADJ]~~
 
 a. Der Lehrling backt den Kuchen.
-b. Der Kuchen wird gebacken (von den Lehrling).
+b. Der Kuchen wird gebacken (von dem Lehrling).
 :::
 
 Diatheses without involvement of the nominative subject are more flexible, in that both isolated and chained diatheses are common. A typical example of a chained diathesis is a full applicative induces by the preverb *be-* [@next]. In this example, a prepositional phrase *für ihre Freundin* 'for her friend' is remapped to an accusative ~~[ADJ › OBJ]~~ while the erstwhile accusative *Essen* 'food' is turned into a prepositional phrase ~~[OBJ › ADJ]~~.
@@ -439,7 +439,7 @@ Among chained diatheses there is a group of frequently recurring remapping patte
 ~~[Ø › OBJ › SBJ › Ø]~~
 
 a. Der Vater hat ein Buch gelesen.
-b. Der Vater hat dem Jungen ein Buch vorgelesene.
+b. Der Vater hat dem Jungen ein Buch vorgelesen.
 c. Der Junge bekommt ein Buch vorgelesen.
 :::
 
@@ -517,7 +517,7 @@ The only somewhat more widespread disjunct diathesis is the resultative construc
 ~~[Ø › OBJ; Ø › PBJ]~~
 
 a. Ich schwitze.
-b. Ich schwitze einen Fleck in meinem Hemd.
+b. Ich schwitze einen Fleck in mein Hemd.
 :::
 
 ## Naming {#sec:intro-naming}
@@ -636,7 +636,7 @@ For the next diathesis, I propose the term ~~fabricative [PBJ › SBJ ›�
 ::: ex
 ~~Fabricative [PBJ › SBJ › Ø]~~
 
-a. Der Lehrer überraschst mich mit seiner Aufgabe.
+a. Der Lehrer überrascht mich mit seiner Aufgabe.
 b. Die Aufgabe überrascht mich.
 c. Der Lehrer überrascht mich damit, dass er die Aufgabe schon korrigiert hat.
 :::
@@ -696,7 +696,7 @@ b. Ich lasse den Jungen einschlafen. \
 
 a. Der Junge schläft.
 b. Ich lasse den Jungen schlafen. \
-   (= Ich erlaube, das der Junge weiter schläft.)
+   (= Ich erlaube, dass der Junge weiter schläft.)
 :::
 
 Finally, the *lehren/helfen+Infinitiv* diathesis [@next], see [@sec:infinitive-lehren], is a novative in which the role of the new subject is more of an assistant than a real causative. Therefor it is called here an ~~assistive~~ novative. Note that both *lehren* and *helfen* can also be used with *zu‑Infinitiv*, but then the constructions are not coherent, so those constructions are not included among the diatheses.
@@ -980,13 +980,13 @@ b. Ich befehle die Armee an die Front. \
    (= Ich befehle, und dadurch geht die Armee an die Front.)
 :::
 
-Even more noteworthy, such a locative diathesis is also possible with many intransitive verbs like *schwitzen* 'to sweat' [@next a]. With such verbs, a locative diathesis not only adds a location, like *in meinem Hemd* 'in my shirt', but also an resultative accusative object, like *einen Fleck* 'a stain' [@next b], see [@sec:prepositions-intransitive-location-as-result].
+Even more noteworthy, such a locative diathesis is also possible with many intransitive verbs like *schwitzen* 'to sweat' [@next a]. With such verbs, a locative diathesis not only adds a location, like *in mein Hemd* 'in my shirt', but also an resultative accusative object, like *einen Fleck* 'a stain' [@next b], see [@sec:prepositions-intransitive-location-as-result].
 
 ::: ex
 ~~Locative (resultative) [Ø › PBJ, Ø › OBJ]~~
 
 a. Ich schwitze.
-b. Ich schwitze einen Fleck in meinem Hemd. \
+b. Ich schwitze einen Fleck in mein Hemd. \
    (= Ich schwitze, und dadurch ist ein Fleck in meinem Hemd.)
 :::
 
@@ -1012,7 +1012,7 @@ a. Ich folge dem Auto.
 b. Ich verfolge das Auto.
 :::
 
-A ~~governed preposition change [PBJ › PBJ]~~ occurs in a special kind of construction with a reflexive pronouns that induces a change in lexical specific prepositions, like *arbeiten an* 'to work on' changing into *sich arbeiten durch* 'to work through' [@next], see [@sec:reflexive-resultative].
+A ~~governed preposition change [PBJ › PBJ]~~ occurs in a special kind of construction with a reflexive pronouns that induces a change in lexical specific prepositions, like *arbeiten an* 'to work on' changing into *sich durcharbeiten* 'to work through' [@next], see [@sec:reflexive-resultative].
 
 ::: ex
 ~~Governed preposition change [PBJ › PBJ]~~
