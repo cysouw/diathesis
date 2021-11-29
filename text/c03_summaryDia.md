@@ -48,27 +48,27 @@ a. Wir leben in diesem Haus.
 b. Hier lebt es sich gut.
 :::
 
-### *Unpersönlicher Vorgangspassiv* (*werden+Partizip*) {#sec:summary-unpersonlicher-vorgangspassiv}
+### *Unpersönliches Vorgangspassiv* (*werden+Partizip*) {#sec:summary-unpersonlicher-vorgangspassiv}
 
-The ~~Unpersönlicher Vorgangspassiv~~ is a construction consisting of the light verb *werden* with a participle of an intransitive verb (full discussion in [@sec:participles-werden-impersonal-passive]). Only ~~agentive~~ ('unergative') intransitive verbs like *tanzen* 'to dance' [@next] or *schlafen* 'to sleep' allow for this construction without any nominative subject (not even a valency-simulating *es* is needed). The name 'passive' is rather unfitting for this diathesis, but it is retained here because of widespread usage. This construction is arguably closely related to the ~~Vorgangspassiv~~ for transitive verbs (see [@sec:summary-vorgangspassiv]).
+The ~~Unpersönliches Vorgangspassiv~~ is a construction consisting of the light verb *werden* with a participle of an intransitive verb (full discussion in [@sec:participles-werden-impersonal-passive]). Only ~~agentive~~ ('unergative') intransitive verbs like *tanzen* 'to dance' [@next] or *schlafen* 'to sleep' allow for this construction without any nominative subject (not even a valency-simulating *es* is needed). The name 'passive' is rather unfitting for this diathesis, but it is retained here because of widespread usage. This construction is arguably closely related to the ~~Vorgangspassiv~~ for transitive verbs (see [@sec:summary-vorgangspassiv]).
 
 ::: ex
 a. Die Jungs tanzen.
 b. Jetzt wird getanzt!
 :::
 
-### *Unpersönlicher Möglichkeitspassiv* (*lassen+sich+Infinitiv*) {#sec:summary-unpersonlicher-moglichkeitspassiv}
+### *Unpersönliches Möglichkeitspassiv* (*lassen+sich+Infinitiv*) {#sec:summary-unpersonlicher-moglichkeitspassiv}
 
-The ~~Unpersönlicher Möglichkeitspassiv~~ consists of the light verb *lassen* with the infinitive of an intransitive verb (full discussion in [@sec:infinitive-lassen-reflexive-intransitive]). This construction obligatory includes a reflexive pronoun and an evaluating adverbial expression like *gut* 'fine'. A valency-simulating pronoun *es* appears to be optional. Similar to the previous diathesis, this diathesis also seems to be restricted to agentive intransitive verbs like *arbeiten* 'to work' [@next]. Likewise, the name 'passive' is ill-fitting here, but it is used because of the parallelism to the previous diathesis. This construction is arguably closely related to the ~~Möglichkeitspassiv~~ for transitive verbs (see [@sec:summary-moglichkeitspassiv]).
+The ~~Unpersönliches Möglichkeitspassiv~~ consists of the light verb *lassen* with the infinitive of an intransitive verb (full discussion in [@sec:infinitive-lassen-reflexive-intransitive]). This construction obligatory includes a reflexive pronoun and an evaluating adverbial expression like *gut* 'fine'. A valency-simulating pronoun *es* appears to be optional. Similar to the previous diathesis, this diathesis also seems to be restricted to agentive intransitive verbs like *arbeiten* 'to work' [@next]. Likewise, the name 'passive' is ill-fitting here, but it is used because of the parallelism to the previous diathesis. This construction is arguably closely related to the ~~Möglichkeitspassiv~~ for transitive verbs (see [@sec:summary-moglichkeitspassiv]).
 
 ::: ex
 a. Ich arbeite zuhause.
 b. Zuhause lässt (es) sich gut arbeiten.
 :::
 
-### *Unpersönlicher Modalpassiv* (*sein+zu‑Infinitiv*) {#sec:summary-unpersonlicher-modalpassiv}
+### *Unpersönliches Modalpassiv* (*sein+zu‑Infinitiv*) {#sec:summary-unpersonlicher-modalpassiv}
 
-The ~~Unpersönlicher Modalpassiv~~ (full discussion in [@sec:zuinfinitive-sein-impersonal] and subsequent sections) consists of a light verb *sein* with *zu* and an infinitive. It is found with incidental intransitive verbs, but more typically with verbs with a dative argument (but no accusative) like *helfen* 'to help' or *trauen* 'to trust' [@next]. In this diathesis the nominative subject is dropped and cannot be retained in any other form. There is also no valency-simulating *es* present. The name 'passive' is actually besides the point for this diathesis, but it is used here because this construction is closely related to the ~~Modalpassiv~~ (see [@sec:summary-modalpassiv]).
+The ~~Unpersönliches Modalpassiv~~ (full discussion in [@sec:zuinfinitive-sein-impersonal] and subsequent sections) consists of a light verb *sein* with *zu* and an infinitive. It is found with incidental intransitive verbs, but more typically with verbs with a dative argument (but no accusative) like *helfen* 'to help' or *trauen* 'to trust' [@next]. In this diathesis the nominative subject is dropped and cannot be retained in any other form. There is also no valency-simulating *es* present. The name 'passive' is actually besides the point for this diathesis, but it is used here because this construction is closely related to the ~~Modalpassiv~~ (see [@sec:summary-modalpassiv]).
 
 ::: ex
 a. Ich traue ihm nicht.
@@ -122,7 +122,7 @@ b. Der Schlüssel öffnet die Tür.
 The ~~Kreationsubjektivierung~~ (full discussion in [@sec:prepositions-fabricative-accusative]) on first notice looks very similar to the previous *Instrumentsubjektivierung*. In both diatheses a *mit* prepositional phrase is promoted to nominative subject. However, with verb like *überraschen* 'to surprise' [@next] the prepositional phrase does not represent an instrument, but a creation of the subject *Lehrer* 'teacher'. This semantic difference is paralleled by a structural difference, namely that the *mit* prepositional phrase is a governed preposition [@next c]. The verbs that allow for a *Kreationsubjektivierung* show a substantial overlap with the verbs that allow for the ~~Reflexiv Erlebnispassiv~~ (see [@sec:summary-reflexiv-erlebnispassiv]), though the two groups are not identical.
 
 ::: ex
-a. Der Lehrer überraschst mich mit der Aufgabe.
+a. Der Lehrer überrascht mich mit der Aufgabe.
 b. Die Aufgabe überrascht mich.
 c. Der Lehrer überrascht mich damit, dass er die Aufgabe schon korrigiert hat.
 :::
@@ -185,7 +185,7 @@ d. Das Buch ist verkauft.
 
 ### *Kontinuativantikausativ* (*bleiben+Partizip*) {#sec:summary-kontinuativantikausativ}
 
-The ~~Kontinuativantikausativ~~ (full discussion in [@sec:participles-bleiben-transitive]) is closely related to the *sein Zustandspassiv* (see [@sec:summary-zustandspassiv]), but now the light verb *bleiben* is used with a participle [@next]. Both *sein* and *bleiben* are known as auxiliaries (~~Kopulaverben~~) in German grammar, so this parallel construction is not unexpected. However, not all verbs can be equally used in both constructions. For example, verbs like *schreiben* 'to write' or *waschen* 'to wash' are fine with the *sein-Zustandspassiv* but not with the *bleiben-Kontinuativantikausativ*. Also the retention of the original agent as a prepositional phrase seems to be impossible here, so this diathesis is classified as an anticausative [@next b]. This anticausative is only attested with transitive verbs. The same *bleiben+Partizip* construction can be used with intransitive verbs, but then it does not induce a diathesis and will be called ~~Perfektkontinuativ~~ (see [@sec:summary-perfektkontinuativ]).
+The ~~Kontinuativantikausativ~~ (full discussion in [@sec:participles-bleiben-transitive]) is closely related to the *sein-Zustandspassiv* (see [@sec:summary-zustandspassiv]), but now the light verb *bleiben* is used with a participle [@next]. Both *sein* and *bleiben* are known as auxiliaries (~~Kopulaverben~~) in German grammar, so this parallel construction is not unexpected. However, not all verbs can be equally used in both constructions. For example, verbs like *schreiben* 'to write' or *waschen* 'to wash' are fine with the *sein-Zustandspassiv* but not with the *bleiben-Kontinuativantikausativ*. Also the retention of the original agent as a prepositional phrase seems to be impossible here, so this diathesis is classified as an anticausative [@next b]. This anticausative is only attested with transitive verbs. The same *bleiben+Partizip* construction can be used with intransitive verbs, but then it does not induce a diathesis and will be called ~~Perfektkontinuativ~~ (see [@sec:summary-perfektkontinuativ]).
 
 ::: ex
 a. Der Pförtner schließt die Tür.
@@ -246,7 +246,7 @@ The ~~Unmöglichkeitsantikausativ~~ (full discussion in [@sec:zuinfinitive-gehen
 
 ### *Vorgangspassiv* (*werden+Partizip*) {#sec:summary-vorgangspassiv}
 
-The ~~Vorgangspassiv~~ (full discussion in [@sec:participles-werden-passive]) is the infamous diathesis consisting of a light verb *werden* with a participle. Passives are very similar to anticausatives in that the transitive object is turned into the intransitive subject [@next]. The special characteristic of a passive is that the transitive subject can be optionally retained as a prepositional *von* or *durch* phrase. However, note that this prepositional phrase is normally not used. The same *werden+Partizip* construction leads to a different diathesis with intransitive verbs, namely the *Unpersönlicher Passiv* (see [@sec:summary-unpersonlicher-vorgangspassiv]).
+The ~~Vorgangspassiv~~ (full discussion in [@sec:participles-werden-passive]) is the infamous diathesis consisting of a light verb *werden* with a participle. Passives are very similar to anticausatives in that the transitive object is turned into the intransitive subject [@next]. The special characteristic of a passive is that the transitive subject can be optionally retained as a prepositional *von* or *durch* phrase. However, note that this prepositional phrase is normally not used. The same *werden+Partizip* construction leads to a different diathesis with intransitive verbs, namely the *Unpersönliches Passiv* (see [@sec:summary-unpersonlicher-vorgangspassiv]).
 
 ::: ex
 a. Ich verkaufe den Schrank.
@@ -255,7 +255,7 @@ b. Der Schrank wird verkauft (von mir).
 
 ### *Möglichkeitspassiv* (*lassen+sich+Infinitiv*) {#sec:summary-moglichkeitspassiv}
 
-The ~~Möglichkeitspassiv~~ (full discussion in [@sec:infinitive-lassen-reflexive-anticausative]) consists of the light verb *lassen* with infinitive and an obligatory reflexive pronoun [@next]. The agent can be retained as a *von* prepositional phrase, so this diathesis is a passive. The same construction applied to intransitive verbs leads to a different diathesis, namely the *Unpersönlicher Möglichkeitspassiv* (see [@sec:summary-unpersonlicher-moglichkeitspassiv]).
+The ~~Möglichkeitspassiv~~ (full discussion in [@sec:infinitive-lassen-reflexive-anticausative]) consists of the light verb *lassen* with infinitive and an obligatory reflexive pronoun [@next]. The agent can be retained as a *von* prepositional phrase, so this diathesis is a passive. The same construction applied to intransitive verbs leads to a different diathesis, namely the *Unpersönliches Möglichkeitspassiv* (see [@sec:summary-unpersonlicher-moglichkeitspassiv]).
 
 ::: ex
 a. Der Pförtner schließt die Tür.
@@ -264,7 +264,7 @@ b. Die Tür lässt sich schließen (von dem Pförtner).
 
 ### *Modalpassiv* (*sein+zu‑Infinitiv*) {#sec:summary-modalpassiv}
 
-The ~~Modalpassiv~~ (full discussion in [@sec:zuinfinitiv-sein-passive]) is constructed using the light verb *sein* with *zu* and an infinitive. When applied to transitive verbs like *führen* 'to lead' [@next a] or *lösen* 'to solve' [@next b] this diathesis promotes the accusative to nominative subject. The erstwhile nominative subject can be retained as a prepositional phrase. This diathesis has two different interpretations. It can indicate either an deontic modality ('must') as in [@next a] or an ability ('can') as in [@next b]. Note that the subject retention with the preposition *für* is only possible in the ability-interpretation. The closely related *Unpersönlicher Modalpassiv* is used with intransitives and only allows for the deontic interpretation (see [@sec:summary-unpersonlicher-modalpassiv]).
+The ~~Modalpassiv~~ (full discussion in [@sec:zuinfinitiv-sein-passive]) is constructed using the light verb *sein* with *zu* and an infinitive. When applied to transitive verbs like *führen* 'to lead' [@next a] or *lösen* 'to solve' [@next b] this diathesis promotes the accusative to nominative subject. The erstwhile nominative subject can be retained as a prepositional phrase. This diathesis has two different interpretations. It can indicate either an deontic modality ('must') as in [@next a] or an ability ('can') as in [@next b]. Note that the subject retention with the preposition *für* is only possible in the ability-interpretation. The closely related *Unpersönliches Modalpassiv* is used with intransitives and only allows for the deontic interpretation (see [@sec:summary-unpersonlicher-modalpassiv]).
 
 ::: ex
 a. Der Besitzer führt den Hund an der Leine. \
@@ -284,7 +284,7 @@ b. Der Schrank ist verkauft ^?^(von mir).
 
 ### *Normpassiv* (*gehören+Partizip*) {#sec:summary-normpassiv}
 
-The ~~Normpassiv~~ (full discussion in [@sec:participles-gehoren-anticausative]) consists of the light verb *gehören* with a participle. It is only attested with verbs with accusative objects, like *bestrafen* 'to punish' [@next]. The diathesis expresses that the main verb ought to be applied to the object. The original subject an optionally be retained as a prepositional phrase. 
+The ~~Normpassiv~~ (full discussion in [@sec:participles-gehoren-anticausative]) consists of the light verb *gehören* with a participle. It is only attested with verbs with accusative objects, like *bestrafen* 'to punish' [@next]. The diathesis expresses that the main verb ought to be applied to the object. The original subject can optionally be retained as a prepositional phrase. 
 
 ::: ex
 a. Der Schiedsrichter bestraft den Spieler.
@@ -476,7 +476,7 @@ The ~~Kontinuitätskausativ~~ (full discussion in [@sec:zuminfinitive-halten-cau
 
 ### *Perzeptiv* (*sehen/hören/fühlen/spüren+Infinitiv*) {#sec:summary-sensativ}
 
-The ~~Perzeptiv~~ (full discussion in [@sec:infinitive-sehen] and subsequent sections) is a novative that consists of one of the verbs of sensation *sehen/hören/fühlen/spüren* with an infinitive. The new nominative is an observer/experiencer of the main verb. The erstwhile nominative is turned into an accusative. The possibly leads to a double accusative construction when there already was an accusative present [@next a,b]. This diathesis can be used with all verbs that can be experienced as an observer. Note that these verbs of perception can also be used with an explicit *dass* complement clause [@next c], but such constructions are not coherent, and thus no diatheses.
+The ~~Perzeptiv~~ (full discussion in [@sec:infinitive-sehen] and subsequent sections) is a novative that consists of one of the verbs of sensation *sehen/hören/fühlen/spüren* with an infinitive. The new nominative is an observer/experiencer of the main verb. The erstwhile nominative is turned into an accusative. That possibly leads to a double accusative construction when there already was an accusative present [@next a,b]. This diathesis can be used with all verbs that can be experienced as an observer. Note that these verbs of perception can also be used with an explicit *dass* complement clause [@next c], but such constructions are not coherent, and thus no diatheses.
 
 ::: ex
 a. Du gibst ihm einen Kuss.
