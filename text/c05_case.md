@@ -73,7 +73,7 @@ A special group of verbs can be used to performatively name persons or things. A
 ::: ex
 a. Ich nenne dich [ Lukas].
 b. Ich nenne dich [einen Egoisten].
-c. Was nennst du dein eigen?
+c. Was nennst du dein Eigen?
 :::
 
 ### Cognate objects
@@ -196,7 +196,7 @@ The number of monomorphemic 'strictly' transitive verbs seems to be very limited
 - Ich merke den Fehler zu spät.
 - Ich trenne die Gruppe.
 - Ich entschuldige dich (bei der Chorprobe).
-- Ich setze das Messer an
+- Ich setze das Messer an.
 - Ich messe den Abstand ab.
 - Ich schreite den roten Teppich ab.
 - Ich wiege den Reis ab.
@@ -355,7 +355,7 @@ A special group of verbs can be used to performatively name persons or things. A
 ::: ex
 a. Ich nenne dich [ Lukas].
 b. Ich nenne dich [einen Egoisten].
-c. Was nennst du dein eigen?
+c. Was nennst du dein Eigen?
 :::
 
 The name in such naming constructions cannot be passivised [@next a,b], which also indicates that these accusative arguments have a special status in the grammar of the German language.
@@ -910,7 +910,7 @@ d. Ich flüsterte ihm die Lösung ins Ohr.
 
 **Further Examples**
 
-- Er hat die 400 meter geschwommen.
+- Er hat die 400 Meter geschwommen.
 - Er hat ein Lied gesungen.
 - Er hat einen Walzer gespielt.
 - Ich lebe die Freiheit.
