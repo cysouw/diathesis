@@ -178,7 +178,7 @@ The non-governed comitative and instrumental interpretation of *mit* can be adde
 ::: ex
 a. Ich kämpfe mit der Krankheit. \
    Ich kämpfe damit, dass ich krank bin.
-b. Du überraschst mich mit dem Geschenk. \
+b. Du überrascht mich mit dem Geschenk. \
    Das Geschenk überrascht mich. 
 c. Er füllt die Flasche mit Schnaps. \
    Er füllt den Schnaps in die Flasche.
@@ -629,7 +629,7 @@ c. Ich ärgere mich über deine Witze.
 
 **Notes**
 
-For a detailed discussion of the verb *erschrecken* and possible morphophonolical differences between the two alternants, see Plank & Lahiri [@plank2015: 29-31].
+For a detailed discussion of the verb *erschrecken* and possible morphophonological differences between the two alternants, see Plank & Lahiri [@plank2015: 29-31].
 
 ### [ NP | –N ] Intransitive fabricative
 
@@ -980,7 +980,7 @@ A commonly occurring alternation is that an accusative object can be reformulate
 ::: ex
 a. Ich schieße den Bären. Ich schieße auf den Bären.
 b. Ich baue ein Haus. Ich baue an einem Haus.
-c. Ich sitze auf den Stuhl. ^* Ich sitze den Stuhl.
+c. Ich sitze auf dem Stuhl. ^* Ich sitze den Stuhl.
 :::
 
 There appear to be only a small selection of prepositions that can be used in such alternations, which will be discussed in turn in subsequent subsections.
@@ -998,7 +998,7 @@ There appear to be only a small selection of prepositions that can be used in su
 It is important to realise that many verbs allow for more than one of these alternations, depending on the reading of the verb/object combination [@next a,b]. With the same verb, there might even be combinations that do not allow for any prepositional alternation [@next c-e].
 
 ::: ex
-a. Er spielt die Geige. Er spielt auf der Geige
+a. Er spielt die Geige. Er spielt auf der Geige.
 b. Er spielt den letzen Akt. Er spielt in dem letzen Akt.
 c. Er spielt Billard.
 d. Er spielt einen Walzer.
@@ -1158,7 +1158,7 @@ c. Ich und mein Freund heiraten miteinander.
 
 **Further Examples**
 
-- Ich spreche den Abteilungsleiter. Ich spreche mit dem Abteilungsleiter
+- Ich spreche den Abteilungsleiter. Ich spreche mit dem Abteilungsleiter.
 
 #### *nach* Antipassive
 
@@ -1171,7 +1171,7 @@ Accusative objects that alternate with a *nach* prepositional phrase indicate an
 
 **Further Examples**
 
-- Ich sehe dich. Ich sehe nach dir
+- Ich sehe dich. Ich sehe nach dir.
 - Ich suche den Ring. Ich suche nach dem Ring.
 - Ich trete den Ball. Ich trete nach dem Ball.
 - Ich rufe dich. Ich rufe nach dir.
@@ -1199,7 +1199,7 @@ d. Ich höre den Kampf in der Ferne. Ich höre von dem Kampf in den Nachrichten.
 
 - Ich nasche ein par Beeren. Ich nasche von den Beeren.
 - Ich koste den Wein. Ich koste von dem Wein.
-- Ich trinke den Wein. Ich trinke von den Wein.
+- Ich trinke den Wein. Ich trinke von dem Wein.
 - Ich kaufe Trauben. Ich kaufe von den Trauben.
 - Ich verstehe Chemie gut. Ich verstehe viel von Chemie.
 - Er probiert/versucht die Torte. Er probiert/versucht von der Torte.
@@ -1399,7 +1399,7 @@ b. Ich leide an einer Krankheit.
 
 **Further Examples**
 
-- Ich vertraue dir. Ich vertraue auf dich. Ich vertraue darauf, dass du die Arbeit machst
+- Ich vertraue dir. Ich vertraue auf dich. Ich vertraue darauf, dass du die Arbeit machst.
 
 ### [ NG | NP ] Genitive governed antipassive {#sec:prepositions-genitive-antipassive}
 
@@ -1433,11 +1433,11 @@ c. Ich erinnere dich daran, dass du Milch kaufen sollst.
 
 **Further Examples**
 
-- Ich beraube dich deiner Rechte. Er beraubt dich von deinen Rechten
+- Ich beraube dich deiner Rechte. Er beraubt dich von deinen Rechten.
 - Ich entbinde dich deiner Pflicht. Ich entbinde dich von deiner Pflicht.
 - Ich enthebe dich deines Amtes. Ich enthebe dich von deinem Amt.
 - Ich verweise dich des Spielfeldes. Ich verweise dich von dem Spielfeld.
-- Ich befreie dich des Regenten. Ich befreie dich von den Regenten.
+- Ich befreie dich des Regenten. Ich befreie dich von dem Regenten.
 
 **Notes**
 
@@ -1563,7 +1563,7 @@ Er klopft den Aschenbecher leer.
 - Sie pustet den Staub vom Tisch.
 - Er spuckte die Kirschkerne ins Gras.
 - Ich schlafe den Rausch aus meinem Kopf.
-- Ich schwitze einen Fleck in meinem Hemd.
+- Ich schwitze einen Fleck in mein Hemd.
 - Er klingelt mich aus dem Bett.
 - Er schwindelt ihn auf die Liste.
 - Sie gräbt das Frühstück aus dem Rucksack.
@@ -1838,7 +1838,7 @@ This alternation is the German equivalents of the "Possessor Object" alternation
 
 ::: ex
 a. Ich bewundere seine Ehrlichkeit.
-b. Ich bewundere ihn für/wegen seine Ehrlichkeit.
+b. Ich bewundere ihn für/wegen seine/r Ehrlichkeit.
 c. Ich bewundere ihn dafür, dass er ehrlich ist.
 :::
 
@@ -1901,7 +1901,7 @@ c. Ich zerschneide das Blatt Papier.
 
 - Er stopft Federn in die Kissen. Er stopft die Kissen (mit Federn).
 - Er gießt Wasser an die Blumen. Er gießt die Blumen (mit Wasser).
-- Ich breche Stücke aus der Wand. Ich breche die Wand in Stücken. 
+- Ich breche Stücke aus der Wand. Ich breche die Wand in Stücke. 
 - Ich säge Bretter aus dem Baum. Ich säge den Baum zu Brettern.
 
 **Notes**
@@ -1918,7 +1918,7 @@ The verb *vergleichen* 'to compare' allows for the flipping of roles [@next a,b]
 
 ::: ex
 a. Er vergleicht mich mit einem Affen.
-b. Er vergleicht einen Affe mit mir.
+b. Er vergleicht einen Affen mit mir.
 :::
 
 ### --- [ ADJ > ADJ ] Adjunct change {.unnumbered}
