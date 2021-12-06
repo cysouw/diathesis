@@ -97,7 +97,7 @@ The ~~Kontinuativprogressiv~~ (full discussion in [@sec:zuminfinitive-bleiben-am
 
 ::: ex
 - Er lebt.
-- Er bliebt am Leben.
+- Er bleibt am Leben.
 :::
 
 ### *Zustandskontinuativ* (*bleiben+Infinitiv*)
@@ -106,7 +106,7 @@ The ~~Zustandskontinuativ~~ (full discussion in [@sec:infinitive-bleiben]) is co
 
 ::: ex
 a. Er liegt im Bett.
-b. Er bliebt im Bett liegen.
+b. Er bleibt im Bett liegen.
 c. Er bleibt in München wohnen.
 :::
 
@@ -413,8 +413,8 @@ The ~~Reziprok~~ (full discussion in [@sec:reflexive-accusative-reciprocal] and 
 (iv) The reflexive pronoun/*einander* marks that both participants take both roles simultaneously.
 
 ::: ex
-a. Die Strassen kreuzen den Fluss.
-b. Die Strassen kreuzen sich (gegenseitig).
+a. Die Straßen kreuzen den Fluss.
+b. Die Straßen kreuzen sich (gegenseitig).
 :::
 
 ### *Freier Reflexiv*
