@@ -258,16 +258,16 @@ A special group of verbs in this class are verbs with an reciprocal *mit* prepos
 Verbs with reciprocal *mit* are sometimes called "real reciprocals" [or "reciproca tantum", @wiemer2007: 467-468] because they can be considered to be inherently reciprocal, although they still can have a singular subject (see [@sec:reflexive-accusative-reciprocal] for the reciprocal constructions with plural subjects).
 
 ::: ex
-a. Ich habe mich mit meinem Nachbar geeinigt.
+a. Ich habe mich mit meinem Nachbarn geeinigt.
 b. ^* Ich habe mich damit geeinigt, dass der Nachbar geht.
-c. ^* Ich habe mich zusammen mit meinem Nachbar geeinigt.
-d. ^* Ich habe mich ohne meinen Nachbar geeignet.
+c. ^* Ich habe mich zusammen mit meinem Nachbarn geeinigt.
+d. ^* Ich habe mich ohne meinen Nachbarn geeignet.
 :::
 
 ::: ex
-a. Ich habe mich mit meinem Nachbar betrunken.
-b. ^* Ich habe mich damit betrunken, dass der Nachbar geht.
-c. Ich habe mich zusammen mit meinem Nachbar betrunken.
+a. Ich habe mich mit meinem Nachbarn betrunken.
+b. ^* Ich habe mich damit betrunken, dass der Nachbarn geht.
+c. Ich habe mich zusammen mit meinem Nachbarn betrunken.
 d. Ich habe mich ohne meinen Nachbar betrunken.
 :::
 
@@ -674,7 +674,7 @@ b. Ich habe ihm ein Haus gebaut.
 c. Ich habe mir ein Haus gebaut.
 :::
 
-In contrast, the verb *ansehen* 'observe' also allows for a construction with and without reflexive pronoun [@next a,c], but it is not possible to use a non-coreferential dative [@next b]. Such verbs are much less common and will be listed here. All verbs know to me have preverbs (see Chapter X).
+In contrast, the verb *ansehen* 'observe' also allows for a construction with and without reflexive pronoun [@next a,c], but it is not possible to use a non-coreferential dative [@next b]. Such verbs are much less common and will be listed here. All verbs known to me have preverbs (see Chapter X).
 
 ::: ex
 a. Ich habe das Haus angesehen.
@@ -792,8 +792,8 @@ b. Er baut sich ein Haus.
 **Further Examples**
 
 - Ich gefalle dir. Ich gefalle mir.
-- Ich schade dir. Ich schade mir
-- Ich helfe dir. Ich helfe mir
+- Ich schade dir. Ich schade mir.
+- Ich helfe dir. Ich helfe mir.
 
 ### [ NP | Np ] Self-inflicting prepositional reflexive
 
@@ -999,7 +999,7 @@ The scope of this section is very similar to Wiemer & Nedjalkov [-@wiemer2007], 
 **Further Examples**
 
 - Karl achtet Anna. Karl und Anna achten sich. 
-- Der Weg kreuzt die Landstrasse. Die Strassen kreuzen sich.
+- Der Weg kreuzt die Landstraße. Die Straßen kreuzen sich.
 - Karl glaubt Anna. Karl und Anna glauben sich.
 
 **Notes**
@@ -1097,7 +1097,7 @@ A widespread phenomenon is the use of reflexive pronouns to mark an an anticausa
 ::: ex
 a. Ich schließe die Tür. \
    Die Tür schließt sich.
-b. ^* Die Tür schließt sich selbt.
+b. ^* Die Tür schließt sich selbst.
 c. Die Tür schließt sich von alleine.
 d. Die Tür hat sich von alleine geschlossen.
 :::
@@ -1242,7 +1242,7 @@ c. Die Lampe und das Stromnetz verbinden sich nicht miteinander.
 
 **Further Examples**
 
-- Meine Mutter nährt mich mit Milch. Ich nähre mich mit (von) Milch
+- Meine Mutter nährt mich mit Milch. Ich nähre mich mit (von) Milch.
 - Meine Mutter ernährt mich mit Früchten. Ich ernähre mich mit (von) den Früchten.
 - Ich vermische das Wasser mit dem Saft. Das Wasser vermischt sich mit dem Saft.
 - Ich trenne die Lampe vom Stromnetz. Die Lampe trennt sich dauernd vom Stromnetz.
@@ -1349,7 +1349,7 @@ b. Über die Zerstörung der Schöpfung […] wird sich empört.^[~~DWDS~~: Berl
 - Der Dialekt verrät dich. Du verrätst dich durch deinen Dialekt.
 - Das Problem beschäftigt mich. Ich beschäftige mich mit dem Problem.
 - Große Selbstständigkeit zeichnet ihn aus. Er zeichnet sich aus durch große Selbstständigkeit.
-- Die Felsküste bricht die Wellen. Die Wellen brechen sich an der Felsküste
+- Die Felsküste bricht die Wellen. Die Wellen brechen sich an der Felsküste.
 - Die Milch nährt mich. Ich nähre mich von Milch.
 - Das Wasser spiegelt den Baum. Der Baum spiegelt sich im Wasser.
 - Die Kette schmückt den Baum. Er schmückt sich mit einer Kette.
@@ -1358,7 +1358,7 @@ b. Über die Zerstörung der Schöpfung […] wird sich empört.^[~~DWDS~~: Berl
 - Der Anblick entsetzte sie. Bei diesem Anblick entsetzte sie sich.
 - Die Schule langweilt mich. Ich langweile mich in der Schule.
 - Die Rede erzürnt mich. Ich erzürne mich über die Rede.
-- Die gute Nachricht erheitert mich. Ich werde erheitert durch die gute Nachricht
+- Die gute Nachricht erheitert mich. Ich werde erheitert durch die gute Nachricht.
 
 **Notes**
 
@@ -1529,7 +1529,7 @@ a. Ich beklage den Lärm.
 b. Ich beklage mich (*selbst) über den Lärm.
 c. ^* Ich beklage.
 d. Ich beklage mich.
-e. Ich beklage mich darüber, dass es so laut ist
+e. Ich beklage mich darüber, dass es so laut ist.
 :::
 
 **Attested Verbs**
@@ -1551,11 +1551,11 @@ e. Ich beklage mich darüber, dass es so laut ist
 - Ich rechtfertige mein Vorgehen. Ich rechtfertige mich für mein Vorgehen.
 - Ich bespreche die Angelegenheit (mit dir). Ich bespreche mich (mit dir) über die Angelegenheit.
 - Ich wage den Sprung. Ich wage mich an der Aufgabe.
-- Der Schauspieler versucht die neue Rolle. Der Schauspieler versucht sich in der neuen Rolle
+- Der Schauspieler versucht die neue Rolle. Der Schauspieler versucht sich in der neuen Rolle.
 - Er übt die Kunst des Zeichnens. Er übt sich in der Kunst des Zeichnens.
 - Er überstürzte seine Abreise. Er überstürzte sich bei seiner Abreise.
 - Ich bekenne die Tat. Ich bekenne mich zu der Tat.
-- Ich behaupte den ersten Platz. Ich behaupte mich in meine neue Stelle.
+- Ich behaupte den ersten Platz. Ich behaupte mich in meiner neue Stelle.
 - Ich trenne die Gruppe. Ich trenne mich von der Gruppe.
 - Er distanzierte den Gegner. Er distanzierte sich von seinem Gegner.
 
@@ -1626,7 +1626,7 @@ There used to be a reflexive verb *bewissen* in Early New High German, but only 
 
 ::: ex
 a. Das Problem ist mir bewusst.
-b. Ich bin mir keiner Schuld bewust.
+b. Ich bin mir keiner Schuld bewusst.
 :::
 
 **Attested Verbs**
