@@ -134,7 +134,7 @@ Third, some verbs appear to be counterexamples to the generalisation of accusati
 a. Er schreibt einen Brief. \
    Er verschreibt sich.
 b. Der Mitarbeiter arbeitet zu viel. \
-   Der Mitarbeiter überarbeite sich.
+   Der Mitarbeiter überarbeitet sich.
 c. Der Hund ist nach Hause gelaufen. Der nach Hause gelaufene Hund. \
    Der Hund hat sich im Wald verlaufen. *Der im Wald verlaufene Hund.
 :::
@@ -578,7 +578,7 @@ b. Ich beende den Wettkampf.
 - Das Holz brennt. Ich verbrenne das Holz.
 - Die Bremsen knirschen. Ich zerknirsche die Steine.
 - Der Braten brutzelt im Ofen. Ich habe den Braten angebrutzelt.
-- Die Wrackteile treiben im Wasser. Der Sturm treibt die Wrackteile an
+- Die Wrackteile treiben im Wasser. Der Sturm treibt die Wrackteile an.
 - Das Kind atmet. Ich beatme das Kind.
 
 **Notes**
@@ -587,7 +587,7 @@ With some of the verbs, the causer can occur as prepositional phrase with *durch
 
 ::: ex
 a. Ich lebe durch den Arzt.
-b. Der Arzt belebt mich
+b. Der Arzt belebt mich.
 :::
 
 ### [ –N | NA ] Preverb adjectival causative {#sec:preverb-adjectival-causative}
@@ -658,8 +658,8 @@ Preverbs can also be added to nominal roots, deriving a causative verb in the pr
 ::: ex
 a. Ich beschädige den Zaun. \
    (= Ich verursache, dass der Zaun Schaden hat.)
-b. Der Beambte bürgert den Flüchtlich ein. \
-   (= Der Beambte verursacht, dass der Flüchtling zum Bürger wird.)
+b. Der Beamte bürgert den Flüchtlich ein. \
+   (= Der Beamte verursacht, dass der Flüchtling zum Bürger wird.)
 :::
 
 The prefix *entˈ-* includes in inherent negation, leading to verbs that express that the object does not have the nominal preperty, like *entwaffnen* 'to disarm, i.e. to cause not to have arms] [@next b]. The prefix *erˈ-* seems to have a slightly different role-structure in that there is an experiencer involved, either the subject, like in *erbeuten* [@next b], or the object, like in *erdolchen* [@next b].
@@ -742,7 +742,7 @@ b. Er vermietet mir die Wohnung.
 
 - Die Pferde futtern das Tiermehl. Er verfuttert den Pferden das Tiermehl.
 - Ich kaufe das Haus. Er verkauft mir das Haus.
-- Die Polizei pfändet mein Vermögen. Ich verpfände dir mein Vermögen
+- Die Polizei pfändet mein Vermögen. Ich verpfände dir mein Vermögen.
 - Du kennst meine Absicht. Ich bekenne dir meine Absicht.
 
 ### --- [ Ø > SBJ > PBJ ] --- {.unnumbered}
@@ -904,7 +904,7 @@ b. Ich verschenke meine Bücher (an den Kindergarten).
 - Er hat dem Lehrer die Arbeit gebracht. Er hat die Leistung erbracht (für den Lehrer).
 - Ich schenke dir ein Buch. Ich verschenke das Buch an dich.
 - Ich schreibe dir einen Brief. Ich unterschreibe einen Brief an dich.
-- Ich geben dem Handwerker den Auftrag, Ich vergebe den Auftrag an den Handwerker.
+- Ich gebe dem Handwerker den Auftrag, Ich vergebe den Auftrag an den Handwerker.
 - Ich schicke dir den Brief. Ich habe den Brief abgeschickt.
 - Ich reiche dir das Essen. Ich habe das Essen durchgereicht.
 
@@ -1026,15 +1026,15 @@ This diathesis is similar to the previous diathesis (see [@sec:preverb-intransit
 ::: ex
 a. Der Hund ist nach Hause gelaufen.
 b. ^* Der Hund ist gelaufen.
-c. Der nach Hause gelaufene Hund hat hunger.
-d. ^* Der gelaufene Hund hat hunger.
+c. Der nach Hause gelaufene Hund hat Hunger.
+d. ^* Der gelaufene Hund hat Hunger.
 :::
 
 ::: ex
 a. Der Hund hat sich im Wald verlaufen.
 b. Der Hund hat sich verlaufen.
-c. Der im Wald verlaufene Hund hat hunger.
-d. Der verlaufene hund hat hunger.
+c. Der im Wald verlaufene Hund hat Hunger.
+d. Der verlaufene Hund hat Hunger.
 :::
 
 **Attested Verbs**
@@ -1049,7 +1049,7 @@ d. Der verlaufene hund hat hunger.
 - Ich irre durch den Garten. Ich verirre mich (im Garten).
 - Ich laufe in den Garten. Ich verlaufe mich (im Garten).
 - Ich spekuliere auf einen Gewinn. Ich verspekuliere mich.
-- Er hängt an den Balken. Er erhängt sich (an den Balken).
+- Er hängt an dem Balken. Er erhängt sich (an dem Balken).
 
 ### [ NAL | NA– ] Preverb transitive delocative {#sec:preverb-transitive-antiresultative}
 
@@ -1090,7 +1090,7 @@ d. Der Wind verweht die Blätter.
 - Ich treibe die Mücken aus dem Haus. Ich vertreibe die Mücken.
 - Ich reiße die Blätter von dem Strauch. Ich reiße die Blätter ab.
 - Er hängt die Wäsche an die Leine. Er hängt die Wäsche ab.
-- Ich stecke das Taschentuch in meiner Tasche. Ich stecke das Taschentuch ein.
+- Ich stecke das Taschentuch in meine Tasche. Ich stecke das Taschentuch ein.
 - Ich habe den Faden durch das Nadelöhr gezogen. Ich habe den Faden durchgezogen.
 - Ich bringe den Antrag zur Sitzung. Ich bringe den Antrag durch.
 - Ich setze die Forderung auf die Tagesordnung. Ich setze die Forderung durch.
@@ -1139,7 +1139,7 @@ Lipka [-@lipka1972: 93, 173] calls this diathesis 'Objektvertauschung' and McInt
 
 - Ich erbe die Uhr von meinem Vater. Ich beerbe meinen Vater.
 - Ich klopfe den Staub von dem Mantel. Ich klopfe den Mantel aus.
-- Ich packe den Pullover in meinem Koffer. Ich packe meinen Koffer aus/ein.
+- Ich packe den Pullover in meinen Koffer. Ich packe meinen Koffer aus/ein.
 - Ich pumpe das Wasser aus dem Keller. Ich pumpe den Keller aus.
 - Ich trinke Wasser aus meiner Tasse. Ich trinke meine Tasse aus.
 - Ich raube das Gemälde aus der Wohnung. Ich raube die Wohnung aus.
@@ -1270,7 +1270,7 @@ b. Ich lese dir ein Buch vor.
 **Further Examples**
 
 - Ich nehme die Einkäufe (in die Hand). Ich nehme ihr die Einkäufe ab.
-- Ich habe den Ball geworfen. Ich habe dir den Ball zugeworfen
+- Ich habe den Ball geworfen. Ich habe dir den Ball zugeworfen.
 - Ich habe den Schal geworfen. Ich habe dir den Schal übergeworfen.
 
 ### --- [ Ø > OBJ ] --- *Präverb Reflexiv Akkusativ* {.unnumbered}
@@ -1308,7 +1308,7 @@ b. Ich verbitte mir dein Verhalten.
 **Further Examples**
 
 - Ich arbeite, und am Ende habe ich dadurch ein Vermögen. Ich erarbeite mir ein Vermögen.
-- Ich esse, um am Ende habe ich dadurch einen dicken Bauch. Ich esse mir einen Bach an.
+- Ich esse, und am Ende habe ich dadurch einen dicken Bauch. Ich esse mir einen Bauch an.
 
 **Notes**
 
@@ -1368,7 +1368,7 @@ Note that the prepositions *über, unter, um, durch* appear to have a special st
 #### *an* Preverb applicative
 
 ::: ex
-- Der Efeu wuchern an der Mauer.
+- Der Efeu wuchert an der Mauer.
 - Der Efeu bewuchert die Mauer.
 :::
 
@@ -1408,7 +1408,7 @@ Note that the prepositions *über, unter, um, durch* appear to have a special st
 - Ich klage auf Schadensersatz. Ich klage das Geld ein.
 - Ich reite auf einem Pferd. Ich reite das Pferd ein.
 - Ich laufe auf meinen neuen Schuhen. Ich laufe meine neue Schuhe ein.
-- Das Brautpar tanzt auf den Ball. Das Brautpar hat den Ball angetanzt.
+- Das Brautpar tanzt auf dem Ball. Das Brautpar hat den Ball angetanzt.
 
 #### *durch* Preverb applicative
 
@@ -1436,7 +1436,7 @@ b. Ich schlage durch die Scheibe. \
 - Ich schaue durch das Mikroskop. Ich durchschaue deine List.
 - Ich schlage durch die Scheibe. Ich durchschlage die Scheibe.
 - Ich blättere durch das Buch. Ich blättere das Buch durch.
-- Ich bohre durch den Brett. Ich bohre das Brett durch.
+- Ich bohre durch das Brett. Ich bohre das Brett durch.
 - Ich schlage durch die Scheibe. Ich schlage die Scheibe durch.
 - Ich fahre durch das Dorf. Ich fahre das Dorf durch.
 - Ich laufe durch den Wald. Ich laufe den Wald durch.
@@ -1478,7 +1478,7 @@ There are various still transparent derivations in which their is a rather stron
 #### *in* Preverb applicative
 
 ::: ex
-- Ich bohre in dem Brett. 
+- Ich bohre in das Brett. 
 - Ich zerbohre das Brett.
 :::
 
@@ -1493,7 +1493,7 @@ There are various still transparent derivations in which their is a rather stron
 - Er sticht (mit der Nadel) in den Finger. Er zersticht den Finger (mit der Nadel).
 - Ich wühle im Haar. Ich zerwühle das Haar.
 - Ich leuchte in jeden Winkel. Ich durchleuchte jeden Winkel.
-- Ich bohre in dem Brett. Ich durchbohre das Brett.
+- Ich bohre in das Brett. Ich durchbohre das Brett.
 - Ich suche in der Wohnung. Ich durchsuche die Wohnung.
 
 #### *mit* Preverb applicative
@@ -1512,8 +1512,8 @@ There are various still transparent derivations in which their is a rather stron
 **Further Examples**
 
 - Ich verheize das Holz. Ich heize mit Holz.
-- Ich schlampe mit meinen Aufgaben. Ich verschlampe meine Aufgaben
-- Ich zögere mit den Massnahmen. Ich verzögere die Massnahmen
+- Ich schlampe mit meinen Aufgaben. Ich verschlampe meine Aufgaben.
+- Ich zögere mit den Maßnahmen. Ich verzögere die Maßnahmen
 - Ich zögere mit der Abreise. Ich verzögere die Abreise.
 - Ich schwindele mit meinem Darlehen. Ich erschwindele (mir) mein Darlehen.
 
@@ -1532,7 +1532,7 @@ There are various still transparent derivations in which their is a rather stron
 
 **Further Examples**
 
-- Ich grabe nach den Schatz. Ich grabe den Schatz aus.
+- Ich grabe nach dem Schatz. Ich grabe den Schatz aus.
 
 #### *über* Preverb applicative
 
@@ -1641,7 +1641,7 @@ c. Ich überarbeite den Text.
 #### *gegen* Preverb governed applicative
 
 ::: ex
-- Ich kämpfe gegen dem Unrecht.
+- Ich kämpfe gegen das Unrecht.
 - Ich bekämpfe das Unrecht.
 :::
 
@@ -1844,7 +1844,7 @@ Some applicatives turn a prepositional phrase into a dative. For example, *stamm
 - Ich locke Töne aus dem Instrument. Ich entlocke dem Instrument einige Töne.
 - Ich packe noch weitere Lasten auf den Esel. Ich packe dem Esel noch weitere Lasten auf.
 - Ich wickele ein Tuch um dich. Ich wickele dir ein Tuch um.
-- Sie klebt einen Bart an ihm. Sie klebt ihm einen Bart an.
+- Sie klebt einen Bart an ihn. Sie klebt ihm einen Bart an.
 
 ## Symmetrical diatheses
 
@@ -1857,7 +1857,7 @@ The alternation between *wundern* 'to amaze' [@next a] and *bewundern* 'to be in
 ::: ex
 a. Dein Verhalten wundert mich.
 b. Ich bewundere dein Verhalten.
-c. Ich wunder mich über dein Verhalten.
+c. Ich wundere mich über dein Verhalten.
 :::
 
 **Attested Verbs**
@@ -1934,7 +1934,7 @@ b. Ich beschreibe das Papier mit Buchstaben.
 **Further Examples**
 
 - Ich segele mein Boot auf den See. Ich besegle den See mit meinem Boot.
-- Ich lege den Teppich auf den Flur. Ich belege den Flur mit dem Teppich
+- Ich lege den Teppich auf den Flur. Ich belege den Flur mit dem Teppich.
 - Ich gieße Wasser auf den Tee. Ich gieße den Tee mit Wasser auf.
 - Ich schmiere Salbe auf die Wunde. Ich beschmiere die Wunde mit Salbe.
 - Ich kleckere die Tinte auf die Bluse. Ich bekleckere meine Bluse mit Tinte.
@@ -1944,7 +1944,7 @@ b. Ich beschreibe das Papier mit Buchstaben.
 - Die Baufirma baut neue Häuser auf die Freifläche. Die Baufirma baut die Freifläche mit Häusern zu.
 - Ich drücke meinen Finger auf die Wunde. Ich drücke die Wunde mit meinem Finger zu.
 - Ich klebe ein Pflaster auf die Lücke. Ich klebe die Lücke mit einem Pflaster zu.
-- Ich lege Fließen auf den Boden. Ich belegen den Boden mit Fließen.
+- Ich lege Fliesen auf den Boden. Ich belege den Boden mit Fliesen.
 
 #### *für* Preverb full applicative
 
@@ -1982,10 +1982,10 @@ b. Ich beschreibe das Papier mit Buchstaben.
 - Ich rauche eine Zigarette im Schlafzimmer. Ich verrauche das Schlafzimmer mit einer Zigarette.
 - Er hat den Schnaps eingefüllt (in die Flasche). Er füllt die Flasche (mit Schnaps). 
 - Ich massiere die Creme in den Muskel ein. Ich massiere den Muskel (mit einer Salbe). 
-- Ich steche das Messer in den Mann. Ich ersteche den Mann mit dem Messer
+- Ich steche das Messer in den Mann. Ich ersteche den Mann mit dem Messer.
 - Er mauert das Fundament in dem Loch. Er mauert das Loch mit dem Fundament zu.
 - Ich habe Kohle in den Keller geschaufelt. Ich habe den Keller mit Kohle zugeschaufelt.
-- Ich stelle den Schrank im Korridor. Ich verstelle den Korridor mit dem Schrank.
+- Ich stelle den Schrank in den Korridor. Ich verstelle den Korridor mit dem Schrank.
 - Er hatte Feldsteinen in den Zugang gebaut. Er hatte den Zugang zu seinem Garten mit Feldsteinen verbaut.
 
 #### *über* Preverb full applicative
