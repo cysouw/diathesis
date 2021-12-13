@@ -16,7 +16,7 @@ a. Ich lebe hier. \
    Hier lebt es sich gut.
 b. Ich fahre den Lastwagen. \
    Der Lastwagen fährt sich gut.
-c. Ich fische in den Teich. \
+c. Ich fische in dem Teich. \
    Ich habe den Teich leergefischt.
 d. Ich sehe das Gemälde. \
    Ich sehe mich satt an dem Gemälde.
@@ -61,7 +61,7 @@ There are some special context in which some of these adverbs can be used to mod
 a. Das Flugzeug dort finde ich schöner. 
 b. Das Flugzeug gestern fand ich schöner.
 c. ^* Das Flugzeug große fand ich schöner.
-d. Das Flugzeug mit den großen Fenster finde ich schöner.
+d. Das Flugzeug mit dem großen Fenster finde ich schöner.
 :::
 
 Except for adverbs there are many other kinds of expressions that can fill the syntactic role of adverbial, like prepositional phrases [@next a], quantified objects [@next b], see [@sec:case-quantified-objects}], or adverbial clauses [@next c]. Also negation [@next d] and comparison phrases [@next e] are syntactically highly similar to adverbials. For example, various verbs that obligatorily need an adverbial alternatively allow a negation or comparison phrase to fill the necessary adverbial slot (see e.g. [@sec:adverbials-nominative]).
@@ -183,7 +183,7 @@ c. Der Mantel sitzt nicht.
 
 **Further Examples**
 
-- Ich bleibe wachsam/ruhig
+- Ich bleibe wachsam/ruhig.
 - Sein Zeugnis ist schlecht ausgefallen.
 
 ### [ N ] Nominative+reflexive+adverbial
@@ -339,7 +339,7 @@ When the combination of adverbial and verb is considered to be a new lexicalised
 
 **Further Examples**
 
-- Ich lache mich tot/kaputt/schlapp
+- Ich lache mich tot/kaputt/schlapp.
 - Ich spare mich reich.
 - Ich arbeite mich hoch.
 - Ich laufe mich glücklich.
@@ -359,7 +359,7 @@ b. Ich lache mich tot (über den Witz).
 
 **Further Examples**
 
-- Ich arbeite an einem Buch. Ich arbiete mich tot.
+- Ich arbeite an einem Buch. Ich arbeite mich tot.
 
 ### [ N | N ] Intransitives+resultative adverbial
 
@@ -443,7 +443,7 @@ A very similar diathesis is attested with transitives, see [@sec:adverbial-refle
 With many verbs an anticausative is only possible with an evaluative adverbial and a reflexive pronoun [@next]. There is a clear parallel to the diathesis for intransitives described in [@sec:adverbial-reflexive-drop]. The semantically highly similar *lassen+Infinitiv* construction [@next c] does not need the adverbial (see [@sec:infinitive-lassen-reflexive-anticausative]).
 
 ::: ex
-a. Ich scheine die Wurst mit diesem Messer.
+a. Ich schneide die Wurst mit diesem Messer.
 b. Die Wurst schneidet sich schwer mit diesem Messer.
 c. Die Wurst lässt sich mit diesem Messer schneiden.
 :::
@@ -458,7 +458,7 @@ Kunze [-@kunze1996: 647] and Steinbach [-@steinbach1998] call this 'middle', Zif
 
 - Ich fahre einen Lastwagen. Der Lastwagen fährt sich gut.
 - Ich verkaufe das Buch. Das Buch verkauft sich gut.
-- Ich schreibe Briefe mit einem Bleistift. Briefe schreiben sich schlecht mit einem Bleistift
+- Ich schreibe Briefe mit einem Bleistift. Briefe schreiben sich schlecht mit einem Bleistift.
 - Ich finde neue Freunde. Neue Freunde finden sich nur schwer.
 - Ich male ein Bild. Das Bild hat sich wie von alleine gemalt.
 - Ich spiele Klavier. Das Klavier spielt sich angenehm.
@@ -483,7 +483,7 @@ The verb *riechen* 'to smell' allows for an anticausative alternation [@next a,b
 
 ::: ex
 a. Ich rieche den Duft.
-b. Der Duft riecht gut
+b. Der Duft riecht gut.
 c. Der Müll riecht (schlecht).
 d. Das Essen schmeckt (gut).
 :::
@@ -608,7 +608,7 @@ d. Ich binde den Hund los.
 - Die Pumpe pumpt das Wasser aus dem Keller. Die Pumpe pumpt das Wasser weg.
 - Ich puste die Asche vom Tisch. Ich puste die Asche weg.
 - Ich sende das Paket nach Hause. Ich sende das Paket weg.
-- Ich stecke das Geld in meiner Tasche. Ich stecke das Geld weg.
+- Ich stecke das Geld in meine Tasche. Ich stecke das Geld weg.
 - Die Arbeiter klopfen die Pflastersteine in den Bürgersteig. Die Arbeiter klopfen die letzten Pflastersteine fest.^[~~DWDS~~: Bild, 28.04.2005.]
 
 ### [ NL | Np ] Intransitive location drop+resultative adverbial
@@ -754,7 +754,7 @@ Some of these verbs allow for the addition of an accusative result [@next a,b], 
 ::: ex
 a. Ich laufe auf meinen neuen Schuhen.
 b. Ich laufe den Marathon auf meinen neuen Schuhen.
-c. Ich laufe meine Schuhe bei den Marathon platt/kaputt.
+c. Ich laufe meine Schuhe bei dem Marathon platt/kaputt.
 :::
 
 ## Symmetrical diatheses
@@ -778,6 +778,6 @@ b. Ich schenke das Glas voll (mit Wein).
 
 - Ich kritzele/schreibe Buchstaben in dem Buch. Ich kritzele/schreibe das Buch voll (mit Buchstaben).
 - Ich lade Heu auf den Wagen. Ich lade den Wagen voll (mit Heu).
-- Ich packe die Einkäufe in den Wagen. Ich packe den Wagen voll (mit Einkäufe).
+- Ich packe die Einkäufe in den Wagen. Ich packe den Wagen voll (mit Einkäufen).
 - Ich pumpe Luft in den Reifen. Ich pumpe den Reifen voll (mit Luft).
 - Ich tanke Benzin in das Auto. Ich tanke das Auto voll (mit Benzin).
