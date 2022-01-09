@@ -36,7 +36,7 @@ After all such adverbial uses are discarded, there still remain many auxiliary-l
 
 The following twelve diatheses seem prominent enough to grant them a German name. I propose the following names:
 
-- ~~[SBJ › Ø]~~ *werden* ~~Unpersönlicher Vorgangspassiv~~ (see [@sec:participles-werden-impersonal-passive] ff.)
+- ~~[SBJ › Ø]~~ *werden* ~~Unpersönliches Vorgangspassiv~~ (see [@sec:participles-werden-impersonal-passive] ff.)
 - ~~[OBJ › SBJ › Ø]~~ *bleiben* ~~Kontinuativantikausativ~~ (see [@sec:participles-bleiben-transitive])
 - ~~[OBJ › SBJ › Ø]~~ *aussehen/wirken* ~~Sinnesantikausativ~~ (see [@sec:participles-wirken-anticausative])
 - ~~[OBJ › SBJ › Ø]~~ *scheinen/erscheinen* ~~Inferenzantikausativ~~ (see [@sec:participles-scheinen-anticausative])
@@ -58,7 +58,7 @@ German participles – in German grammar idiosyncratically known as *Partizip II
 - Typically, participles have a prefix *ge-*, like in *ge-kauf-t* (stem *kauf*), except when the stem already contains one of the prefixes *be-, er-, ver-, zer-, ent-*, like in *verkauf-t*. The prefix will appear between the stem and so-called verb particles *an-, ein-, vor*, etc., like in *ein-ge-kauf-t*.
 - Typically, participles have a suffix *-t*, like in *ge-kauf-t*, in some phonological surroundings with an epenthetic schwa, like in *ge-wart-et* (stem: *wart*). In a large but closed class of verbs the suffix is *-en*, like in *ge-lauf-en* (stem *lauf*), often combined with ablaut of the stem vowel, like in *ge-fund-en* (stem *find*).
 
-The allomorphs without *ge-* show show syncretism, because such participles are identical to third person singular finite verb forms (or first person plural when ending in *-en*). In [@next a] the wordform *verkauft* is a finite third person singular, while in [@next b] it is a participle. However, given that the finite verbs show agreement with the subject, checking a different subject easily differentiates between these two homonyms, e.g. in the first person singular the finite verb changes to *verkaufe* [@next c], while the participle remains unchanged [@next d].
+The allomorphs without *ge-* show syncretism, because such participles are identical to third person singular finite verb forms (or first person plural when ending in *-en*). In [@next a] the wordform *verkauft* is a finite third person singular, while in [@next b] it is a participle. However, given that the finite verbs show agreement with the subject, checking a different subject easily differentiates between these two homonyms, e.g. in the first person singular the finite verb changes to *verkaufe* [@next c], while the participle remains unchanged [@next d].
 
 ::: ex
 a. Er verkauft das Haus.
@@ -241,7 +241,7 @@ A construction is ~~tense-oriented~~ when it is possible to add a punctual non-p
 
 ::: ex
 - ^* Die Tür bleibt morgen geöffnet.
-- ^* Sie weiß ihr kind gestern/morgen eingeschlafen.
+- ^* Sie weiß ihr Kind gestern/morgen eingeschlafen.
 :::
 
 Two conditions have to be met to identify a construction as being ~~perfect-oriented~~, namely (i) the process has to be completed and (ii) the resulting state-of-affairs remains intact after this completion. These two conditions can be tested in German by observing that (i) in a context stating the completion (ii) it is possible to add an 'ongoing' temporal adverbial, like retrospective *schon lange* 'for a long time' and *seit zwei Stunden* 'since two hours', or prospective *für zwei Stunden* 'for two hours' and *bis morgen* 'until tomorrow'. For example, the *bleiben* and *wissen* participle constructions are perfect-oriented [@next]. As discussed previously, these constructions are not tense-oriented [@last]. In general, most constructions are either perfect-oriented or past-oriented with only few exceptions. Congruously, the tense-oriented constructions with *werden* and *bekommen* [@llast] are not perfect-oriented [@nnext]. Note that the first condition of perfect-orientation (viz. that the process has to be completed) is crucial here. A sentence like *Das Auto wird seit zwei Stunden repariert* is grammatically perfectly fine in German, but only with an imperfective durative interpretation, i.e. the process is not completed, but still ongoing.
@@ -250,7 +250,7 @@ Two conditions have to be met to identify a construction as being ~~perfect-orie
 - (Kontext: Die Tür ist offen.) \
   Die Tür bleibt bis morgen geöffnet.
 - (Kontext: Das Kind schläft.) \
-  Sie weiß ihr kind schon seit zwei Stunden eingeschlafen.
+  Sie weiß ihr Kind schon seit zwei Stunden eingeschlafen.
 :::
 
 ::: ex
@@ -926,9 +926,9 @@ c. Er ist aufgeregt (wegen den Lärm).
 Verbs with a dative argument are strictly split between *sein* and *haben*. There do not appear to be any verbs that allow for both. The grammatical status of the datives is slightly different among these verbs (see [@sec:case-nominative-dative; @sec:case-dative-drop; @sec:prepositions-dative-antipassive; @sec:preverb-dative-applicative] for detailed discussion). Similar to intransitives, the dative verbs with a *haben* Perfect, like *antworten* 'to answer' [@next a], do not allow for a construction with an adnominal participle [@next b], but the impersonal *werden* passive is possible [@next c].
 
 ::: ex
-a. Die Professorin hat dem Student geantwortet.
+a. Die Professorin hat en geantwortet.
 b. ^* Der geantwortete Student ist zufrieden.
-c. Heute wird dem Student geantwortet.
+c. Heute wird dem Studenten geantwortet.
 :::
 
 **Attested Verbs**
@@ -993,7 +993,7 @@ Almost all transitive (nominative/accusative) verbs take a *haben* Perfect. Howe
 
 ::: ex
 - Er ist durch die ganze Stadt gelaufen. \
-  Er hat den Marathon gelaufen
+  Er hat den Marathon gelaufen.
 - Er ist mit dem Boot nach Korsika gesegelt. \
   Er hat das Boot nach Korsika gesegelt.
 :::
@@ -1076,8 +1076,8 @@ Rothstein also observes that these two different kinds of participles cannot be 
 The *kommen+Partizip* construction is typically attested with intransitive verbs of movement like *hüpfen*. However, there are also examples of movement verbs with additional accusative [@next a] or dative [@next b] arguments. These possibilities need more in-depth investigation. 
 
 ::: ex
-- Er kommt den Berg herabgelaufen 
-- Er kam mir nachgelaufen
+- Er kommt den Berg herabgelaufen. 
+- Er kam mir nachgelaufen.
 :::
 
 A widely-discussed special variant is the construction with participles with a preverb *an-* [see @eisenberg2006: 266; @rothstein2007a: 162; @felfe2012: 194, 241]. Many of these *an-* verbs are only possible in this construction, i.e. they do not occur in finite clauses [@rothstein2007a: 162]. Besides with movement verbs, like *reiten* 'to ride on horsback' [@next a], the *an-* construction also occurs with sound production verbs, like *keuchen* 'to pant' [@next b]. These two possibilities are related to the manner-of-movement construction, see [@sec:prepositions-manner-of-movement], and the manner-of-speaking construction, see [@sec:case-accusative-addition].
@@ -1207,7 +1207,7 @@ The construction of the light verbs *bekommen/kriegen+Partizip* is widely discus
 
 - Wenn wir die Pforte geschlossen bekommen, verfassen wir nachträglich einen Bericht.^[Regnier, Sandra. 2017. *Die magische Pforte der Anderwelt*, p. 122. Available online at <https://books.google.de/books?id=Lhm1DgAAQBAJ&pg=122>, accessed 16 July 2021.]
 - Er kriegt den Stock zerbrochen.
-- Ich kriege den Schrank geöffnet
+- Ich kriege den Schrank geöffnet.
 - Er kriegt seine Kleider noch rechtzeitig getrocknet. 
 - Er kriegt den schweren Schrank auch alleine verschoben.
 - Er kriegt die Wohnung vermietet.
@@ -1316,7 +1316,7 @@ The *setzen+Partizip* construction appears to be only possible with the verb *fa
 
 ## Diatheses with subject demotion
 
-### --- [ SBJ > Ø ] --- *Unpersönlicher Vorgangspassiv* {.unnumbered}
+### --- [ SBJ > Ø ] --- *Unpersönliches Vorgangspassiv* {.unnumbered}
 
 To call the diatheses in this section 'passive' is actually a misnomer, because there is no promotion of an argument to subject status. Also the retention of the original subject is mostly not possible. The categorisation of diatheses as followed in this work would suggest that ~~verbative~~ would be a more suitable term (see[@sec:intro-isolated-subject-diathesis]). However, because the actual constructions (using light verbs *werden*, *sein* or *gehören*) shows a parallel to the real passives, the widespread use of the name *unpersönslicher Passiv* in the German grammatical tradition is retained here.
 
