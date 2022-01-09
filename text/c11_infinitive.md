@@ -91,7 +91,7 @@ A further kind of nominal predication uses the verb *heißen* 'to be named' [@du
   Von den Erwachsenen lernen, heißt Reife beweisen.^[In: Leibniz-Institut für Deutsche Sprache: *Wörterbuch zur Verbvalenz*. Grammatisches Informationssystem grammis. <https://grammis.ids-mannheim.de/verbs/view/400556/1>, accessed 27 September 2021.]
 - Diese Wahrheit zu akzeptieren, hieße zu resignieren.^[~~DWDS~~: Berliner Zeitung, 25.07.2005] \
   Eine Katze zu haben, heißt, sich um ein Lebewesen kümmern zu müssen.^[[@duden2009: 813]]
-- Der Henker hieß ihn niederknieen.
+- Der Henker hieß ihn niederknien.
 :::
 
 ### ACI *accusativus cum infinitivo* 
@@ -515,12 +515,12 @@ There is some debate possible about whether this construction is coherent or not
 - Es ist bekannt, dass es dann heißt: Daumen drücken.
 :::
 
-Exactly the same construction *heißen+Infinitiv* can be also be used as a causative, although this usage is slightly old-fashioned (see [@sec:infinitive-heißen]). Sometimes both diatheses are possible, like with *niederknieen* 'to kneel down' [@next a]. Counterintuitively, the effect ist that *heißen+Infinitiv* can both induce a causative subject addition [@next b] and a modal subject demotion [@next c].
+Exactly the same construction *heißen+Infinitiv* can be also be used as a causative, although this usage is slightly old-fashioned (see [@sec:infinitive-heißen]). Sometimes both diatheses are possible, like with *niederknien* 'to kneel down' [@next a]. Counterintuitively, the effect ist that *heißen+Infinitiv* can both induce a causative subject addition [@next b] and a modal subject demotion [@next c].
 
 ::: ex
 - Er kniete nieder.
-- Der Henker hieß ihn niederknieen.
-- Vor dem Henker heiß es für ihn niederknieen.
+- Der Henker hieß ihn niederknien.
+- Vor dem Henker heiß es für ihn niederknien.
 :::
 
 **Attested Verbs**
@@ -558,7 +558,7 @@ c. (= Es ist möglich den König zu tragen.)
 Verbs like *übersehen* 'to overlook' [@next a] or *erläutern* 'to elucidate' [@next b] only appear to allow for this epistemic interpretation with an additional evaluative adverbial like *leicht* 'easy' or *schwer* 'difficult' (cf. [@sec:adverbial-reflexive-transitive-anticausative]). More research is needed to establish what kind of verbs necessarily need such an additional adverbial.
 
 ::: ex
-- Der Dozent überseht den Rechtschreibfehler. \
+- Der Dozent übersieht den Rechtschreibfehler. \
   Solch ein Rechtschreibfehler lässt sich leicht (vom Dozenten) übersehen.
 - Der Dozent erläutert den Begriff. \
   Der Begriff lässt sich nur schwer (vom Dozenten) erläutern.
@@ -612,7 +612,7 @@ b. Ich lasse mich von diesem Witz begeistern.
 A few verbs, like *helfen* 'to help' [@next a] and *gratulieren* 'to congratulate' [@next b] show a dative reflexive passive with a permissive interpretation. This diathesis is much more common with an additional accusative, as extensively discussed in the next [@sec:infinitive-lassen-dative-reflexive-anticausative]. There seem to be only very few verbs with a dative (but not accusative) that allow for this passive diathesis. Various other verbs with a dative show a reflexive inversive diathesis, to be discussed separately (see [@sec:infinitive-lassen-dative-reflexive-inversive]).
 
 ::: ex
-- Sie helft mir. \
+- Sie hilft mir. \
   Ich lasse mir von ihr helfen. \
   (= Ich erlaube, dass sie mir hilft.)
 - Sie gratuliert mir. \
@@ -769,7 +769,7 @@ b. ^* Der Verkäufer lässt den Schlitten dem Jungen gefallen.
 The verb *schicken* allows for a construction with an infinitive [@next]. This diathesis expresses not a direct causation, but more a directive to somebody to do something. This diathesis does not invoke the IPP *Ersatzinfinitiv* [@next c].
 
 ::: ex
-a. Er schläft
+a. Er schläft.
 b. Ich schicke ihn schlafen.
 c. Ich habe ihn schlafen geschickt (^\*^schicken).
 :::
@@ -832,8 +832,8 @@ The verb *heißen* can also be used with an infinitive to express a causative me
 
 ::: ex
 a. Er kniete nieder.
-b. Der Henker hieß ihn niederknieen.
-c. Der Henker hat ihn niederknieen geheißen (\*heißen).
+b. Der Henker hieß ihn niederknien.
+c. Der Henker hat ihn niederknien geheißen (\*heißen).
 :::
 
 **Further Examples**
@@ -850,7 +850,7 @@ The following perception verbs (Lat. *verba sentiendi*, German *Wahrnehmungsverb
 The verb *sehen* 'to see' can both be used with a finite *dass* complement clause [@next a] and with an infinitive construction [@next b]. This infinitive construction allows for an IPP *Ersatzinfinitiv* [@next c,d].
 
 ::: ex
-- Ich sehe, dass du dem Jungen ein Buch gibt.
+- Ich sehe, dass du dem Jungen ein Buch gibst.
 - Ich sehe dich dem Jungen ein Buch geben.
 - Ich habe dich dem Jungen das Buch geben sehen/gesehen.
 - Die Mutter war sehr ängstlich und hat ständig ihre Kinder unter einem Auto liegen sehen.^[In: Leibniz-Institut für Deutsche Sprache: *Wörterbuch zur Verbvalenz*. Grammatisches Informationssystem grammis. <https://grammis.ids-mannheim.de/verbs/view/400881/14>, accessed 22 July 2021] \
@@ -913,9 +913,9 @@ Die Rose und der Ring. Übersetzung Jörg Karau 2009. Attested online at <https:
 The verb *finden* (literally meaning 'to find', but in this construction the meaning is closer to *feststellen* 'to detect') cannot be used with a *dass* complement clause [@next a]. However, it is attested with an infinitive, similar to the previous *verba sentiendi* [@next b]. This infinitive construction typically occurs with position verbs like *stehen, liegen, sitzen*. This construction does not allow for an IPP *Ersatzinfinitiv* [@next c,d].
 
 ::: ex
-- Er stellte fest (^\*^findet), dass sein Teller auf den Tisch steht.
-- Er fand seinen Teller auf den Tisch stehen.
-- Er hat seinen Teller auf den Tisch stehen gefunden (^\*^finden).
+- Er stellte fest (^\*^findet), dass sein Teller auf dem Tisch steht.
+- Er fand seinen Teller auf dem Tisch stehen.
+- Er hat seinen Teller auf dem Tisch stehen gefunden (^\*^finden).
 - Er […] rauchte den Joint auf, den er dort liegen fand.^[~~DWDS~~: Der Tagesspiegel, 02.10.1998]
 :::
 
@@ -936,7 +936,7 @@ The verb *lehren* 'to teach' can be used as a light verb with infinitive. The co
 
 ::: ex
 a. Der Junge schwimmt.
-b. Die Mutter lehrt den Jungen schwimmen
+b. Die Mutter lehrt den Jungen schwimmen.
 c. Die Mutter lehrt den Jungen zu schwimmen.
 d. Die Mutter hat den Jungen schwimmen *gelehrt*.
 :::
@@ -1039,6 +1039,6 @@ There is a curious parallel between this diathesis and the *haben+am‑Infinitiv
 
 **Further Examples**
 
-- Der Teller steht ihm auf den Tisch. \
-  Er hat den Teller auf den Tisch stehen.
+- Der Teller steht ihm auf dem Tisch. \
+  Er hat den Teller auf dem Tisch stehen.
 - Viola Kleßmann aus Charlottenburg gehört nicht zu denen, die am Ende einen roten Punkt an ihrer Teilnehmernummer kleben haben.^[~~DWDS~~: Berliner Zeitung, 28.07.2003.]
