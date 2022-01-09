@@ -198,7 +198,7 @@ c. Es ist bekannt, dass die Schüler die Aufgaben zu lösen haben.
 - Er hat noch ein Jahr zu leben.
 - Der Bundesgerichtshof hat jetzt diese Streitfrage zu entscheiden.
 - Er hat nichts zu befürchten.
-- Der Fürst hatte (über) dieses Land zu befehlen
+- Der Fürst hatte (über) dieses Land zu befehlen.
 
 ### *brauchen+zu‑Infinitiv* Negative obligation {#sec:zuinfinitive-brauchen}
 
@@ -243,7 +243,7 @@ In most contexts, the verb *denken* means 'to think, to believe'. In this meanin
 
 ::: ex
 - Er denkt, mich überraschen zu können. \
-  Es ist bekannt, dass er denken, mich überraschen zu können.
+  Es ist bekannt, dass er denkt, mich überraschen zu können.
 - ^* Es ist bekannt, dass er mich überraschen zu können denkt.
 - Ich denke ihn zu überraschen. \
   Es ist bekannt, dass ich ihn zu überraschen denke.
@@ -427,7 +427,7 @@ Semantically, this construction expresses an option that is available to the ori
 This constructions is commonly used with an quantified adverb like *viel/genug/reichlich/nichts* [@next b] instead of an nominal accusative object [@next c]. Also, *geben+zu‑Infinitiv* is typically used without the retained subject in a *für* phrase [@nnext a]. Without a retained subject, the expression of a full nominal accusative is more widespread [@nnext b].
 
 ::: ex
-- Die Reisende entdecken das Land.
+- Die Reisenden entdecken das Land.
 - Es gibt für Reisende noch viel zu entdecken.
 - ^* Es gibt für Reisende das Land zu entdecken.
 :::
@@ -467,7 +467,7 @@ The *gelten+zu‑Infinitiv* construction is typically coherent, viz. the finite 
 - MINT-Berufe sind noch echte Männerdomänen, die es für Frauen zu erobern gilt.^[~~DWDS~~: Die Zeit, 13.06.2008, Nr. 25.]
 - Es gilt jetzt den Tisch zu putzen.
 - Es galt vielleicht einen Selbstmord zu verhüten.
-- Es galt keine Zeit zu verlieren
+- Es galt keine Zeit zu verlieren.
 
 ### --- [ OBJ > SBJ > Ø ] --- {.unnumbered}
 
@@ -728,6 +728,6 @@ There is yet another construction with *bleiben* and a *zu‑Infinitiv*, shown i
 ::: ex
 - Es bleibt der Ratschlag, Objekte gut zu prüfen.^[~~DWDS~~: Der Tagesspiegel, 24.12.2004.]
 - Es bleibt der Anspruch, die Region zu befrieden.^[~~DWDS~~: Die Zeit, 15.10.1998, Nr. 43.]
-- Jemand gab den Ratschlag, die Object gut zu prüfen.
+- Jemand gab den Ratschlag, die Objekte gut zu prüfen.
 - Jemand hat den Anspruch, die Region zu befrieden.
 :::
