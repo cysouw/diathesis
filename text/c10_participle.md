@@ -1328,7 +1328,7 @@ This diathesis has become famous in grammatical discussion because of the claime
 
 ::: ex
 - Das kleine Kind schläft. \
-  Das kleine Kind hat geschlafen
+  Das kleine Kind hat geschlafen.
 - Es wird jetzt geschlafen. \
   Jetzt wird (*es) geschlafen.
 - Das kleine Kind schläft ein. \
@@ -1376,7 +1376,7 @@ There is a recurrent usage of the term *Reflexivpassiv* in the German grammatica
 Many, but not all, verbs with governed prepositions (but without accusative argument, cf. [@sec:prepositions-governed-drop]) appear to allow for an impersonal passive, like *warten auf* 'to wait for' or *arbeiten an* 'to work on' [@next]. Note that these verbs all take a *haben+Partizip* Perfekt. Although it seems possible to retain the original subject as a *von* prepositional phrase, I have not been able to find good examples of such subject retention.
 
 ::: ex
-- Auf dem Professor wurde gewartet.
+- Auf den Professor wurde gewartet.
 - An dem Aufsatz wurde gearbeitet.
 ::: 
 
@@ -1540,8 +1540,8 @@ The name *Kontinuativantikausativ* for the transitive *bleiben+Partizip* constru
 Third, *bleiben+Partizip* is only possible with a small subset of all verbs that allow for *sein+Partizip* [@next]. Helbig & Buscha [-@helbig2001: 163] also offer an explanation for the restricted applicability of this construction. They propose that only verbs that describe reversible events allow for this diathesis.
 
 ::: ex
-- ^* Das Buch bleibt geschrieben
-- ^* Das Auto bleibt gewaschen
+- ^* Das Buch bleibt geschrieben.
+- ^* Das Auto bleibt gewaschen.
 :::
 
 **Attested Verbs**
@@ -1550,9 +1550,9 @@ Third, *bleiben+Partizip* is only possible with a small subset of all verbs that
 
 **Further Examples**
 
-- Die Tür bleibt geschlossen
-- Der Betrüger bleibt gefangen
-- Der Fußballer bleibt verwarnt
+- Die Tür bleibt geschlossen.
+- Der Betrüger bleibt gefangen.
+- Der Fußballer bleibt verwarnt.
 - Das Fass bleibt gefüllt.
 
 ### [ NA | –N ] *scheinen/erscheinen+Partizip* Anticausative (*Inferenzantikausativ*) {#sec:participles-scheinen-anticausative}
@@ -1826,7 +1826,7 @@ The following verbs with accusative arguments do not seem to allow for a *sein+p
 - Ich merke den Schmerz. *Der Schmerz ist gemerkt.
 - Ich mag den Mann. *Der Mann ist gemocht.
 - Ich passe den Anzug. *Der Anzug ist gepasst.
-- Die Schuldgefühle quälen Ihn. *Er ist gequält.
+- Die Schuldgefühle quälen ihn. *Er ist gequält.
 - Ich rieche/schmecke den Braten. *Der Braten ist gerochen/geschmeckt.
 - Er schätz seinen Mitarbeiter. *Sein Mitarbeiter ist geschätzt.
 - Er sieht das Haus. *Das Haus ist gesehen.
@@ -1862,7 +1862,7 @@ Some verbs have a *sein+Partizip* diathesis, but only with a rather strong seman
 The *gehören+Partizip* passive adds a normative aspect to the meaning of the passive. It expresses that something ought to happen. An early (short) discussion of this construction is given by Reis [-@reis1976: 70] and Höhle [-@hohle1978: 50-51], with slightly more elaboration in Engel [-@engel1996: 458], Eroms [-@eroms2000: 405-412] and Szátmari [-@szatmari2002: 179-182]. More recent discussions are found in Stathi [-@stathi2010] and Lasch [-@lasch2016: 84ff.]. This construction is widespread for transitive verbs like *verbrennen* 'to burn something' [@next a]. Any further arguments can be retained, like the dative *ihm* 'to him' with the verb *sagen* 'to say' [@next b]. The retention of the agent with a prepositional phrase seems to be perfectly possible [@next c], although not frequent.^[There are no examples of *gehören+Partizip* with a retained agent in the corpus compiled by Lasch [-@lasch2016], see <https://goo.gl/VPJbAb>. Höhle claims that the retention of the agent ist not possible [-@hohle1978: 50-51], though his examples seem perfectly acceptable to me.]
 
 ::: ex
-- Er verbrennt diese Buch. \
+- Er verbrennt dieses Buch. \
   Dieses Buch gehört verbrannt.
 - Hanna sagt ihm die Meinung. \
   Ihm gehört die Meinung gesagt.
@@ -1997,7 +1997,7 @@ Hole [-@hole2002: 177] claims that [@next a] without different subject (*Der Che
 
 ::: ex
 - Der Chef (der in Annas Büro sitzt) hat Annas Fenster geöffnet. \
-  (= ^?^ Irgendjemand hat Annas Fenster für die Chef geöffnet.)
+  (= ^?^ Irgendjemand hat Annas Fenster für den Chef geöffnet.)
 - Der Chef hätte gerne Annas/sein Fenster geöffnet.
 - Der Chef will gerne Annas/sein Fenster geöffnet haben.
 :::
@@ -2033,8 +2033,8 @@ There is a fascinating parallel between different kinds of *Pertinenzdativ* and 
 ::: ex
 - Der Friseur schneidet die Haare des Lehrers. \
   Der Lehrer hat die Haare geschnitten.
-- Der Affe sitzt auf meinen Schulter. \
-  Ich habe den Affen auf meine Schulter sitzen.
+- Der Affe sitzt auf meiner Schulter. \
+  Ich habe den Affen auf meiner Schulter sitzen.
 - Mein Haus brennt. \
   Ich habe mein Haus am brennen.
 :::
@@ -2103,7 +2103,7 @@ d. ^* Ich habe mich von dem Witz angewidert.
 - Die Nachricht verärgert mich. Ich bin verärgert über die Nachricht.
 - Die Nachricht verstört mich. Ich bin verstört über die Nachricht.
 - Die Schule langweilt mich. Ich bin gelangweilt von der Schule.
-- Deine Massage entspannt mich. Ich bin entspannt durch deinen Massage.
+- Deine Massage entspannt mich. Ich bin entspannt durch deine Massage.
 - Deine Leistung entsetzt mich. Ich bin entsetzt über deine Leistung.
 - Die Rede erzürnt mich. Ich bin erzürnt über die Rede.
 - Ein Desaster begründet die Hoffnung. Die Hoffnung ist im Desaster begründet.
@@ -2172,7 +2172,7 @@ In testing for these constructions with *finden* and *sehen* [@next], note that 
 ::: ex
 a. Er sieht seinen Erfolg bedroht. \
    (= Er glaubt, dass sein Erfolg bedroht ist.)
-b. Er findet das Kunstwert gelungen. \
+b. Er findet das Kunstwerk gelungen. \
    (= Er ist überzeugt, dass das Kunstwerk gelungen ist.)
 :::
 
@@ -2306,8 +2306,8 @@ Stacked with modal verbs:
 Stacked with self-inflicting reflexive alternation:
 
 - Er wusste sich verstanden.
-- Hugo wußte sich geliebt.
-- Er wußte sich von Gott geschaffen.
+- Hugo wusste sich geliebt.
+- Er wusste sich von Gott geschaffen.
 - Sie wusste sich umstellt.
 - Er weiß sich verfolgt und beobachtet.
 - Man weiß sich dabei nicht gesichert.
@@ -2355,7 +2355,7 @@ b. Die Zeitung sieht das Vertrauen durch den Autor gebrochen.
 Stacked with self-inflicting reflexive alternation:
 
 - Ich sehe mich bestätigt.
-- Ich sehe mich gezwungen/genötigt/verpflichtet, dass≤
+- Ich sehe mich gezwungen/genötigt/verpflichtet, dass
 - Ich sehe mich bestärkt durch viele Diskussionen und Privatmeinungen.
 - Auch der Verwaltungsrath der »Steyrermühl« hat sich bemüssigt gesehen, einen Rechtfertigungsversuch wegen der von ihm begangenen Stempelentwendung zu unternehmen.^[~~DWDS~~: Kraus, Karl, Die Fackel, 20.03.1900, S.9.]
 
@@ -2425,8 +2425,8 @@ A few incidental intransitive verbs allow for a special variant of the possessor
 A similar diathesis for the possessor of an intransitive subject is attested, though it is very rare [cf. @businger2017: 162-163]. An example is the verb *anschwellen* 'to swell', for which the possessor of the subject [@next a] can be expressed as dative [@next b] and as subject in a *haben+Partizip* construction [@next c]. In these intransitive examples, it seems even possible to repeat the possessor adnominally [@next d].
 
 ::: ex
-- Sein Arm schwellt an.
-- Ihm schwellt der Arm an.
+- Sein Arm schwillt an.
+- Ihm schwillt der Arm an.
 - Er hat den Arm angeschwollen.
 - Er hat seinen Arm angeschwollen.
 :::
