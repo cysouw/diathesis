@@ -138,7 +138,7 @@ Summarising, verbs with a governed preposition allow for a construction that is 
 A possible example in an early stage of a grammaticalisation is the verb *denken*. The verb *denken* has various slightly different meanings. Crucially in the current context, the combination *denken an* means 'to remember, to not forget' [@next a]. This preposition *an* is a governed preposition and can be used with a subordinate *daran, dass…* construction [@next b] or a *daran+zu‑Infinitiv* construction [@next c]. A different meaning for *denken* 'to plan, to consider' is attested without *an*, but with a *zu‑Infinitiv* [@next d], see also [@sec:zuinfinitiv-denken]. Now, contradictorily, *denken+ans‑Infinitiv* has the meaning 'to plan' [@next e], i.e. it does not have the same meaning as *denken an*. The meaning of the *denken+ans‑Infinitiv* construction is thus separated from *denken an* and might be classified as a *Präpositionsinfinitiv*.
 
 ::: ex
-- Bitte denken an die Kinder!
+- Bitte denke an die Kinder!
 - Bitte denke daran, dass du die Kinder abholen sollst.
 - Bitte denke daran, die Kinder abzuholen! 
 - Er denkt morgen zu verreisen.
@@ -381,7 +381,7 @@ The *sein+zum‑Infinitiv* diathesis appears only to apply to verbs of emotion, 
 
 ::: ex
 a. Ich heule über den Schaden. \
-   ich heule darüber, dass der Schaden so groß ist.
+   Ich heule darüber, dass der Schaden so groß ist.
 b. Der Schaden ist zum Heulen.
 c. Es ist zum Heulen.
 :::
