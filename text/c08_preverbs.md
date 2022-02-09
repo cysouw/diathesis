@@ -568,7 +568,7 @@ b. Ich beende den Wettkampf.
 **Attested Verbs**
 
 - beˈ-  : *atmen, leben, enden*
-- verˈ- : *heiraten, brennen*
+- verˈ- : *ankern, heiraten, brennen*
 - zerˈ- : *knirschen*
 - ˈan-  : *brutzeln, treiben*
 
