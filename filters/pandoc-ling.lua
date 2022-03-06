@@ -1,7 +1,8 @@
 --[[
 pandoc-linguex: make interlinear glossing with pandoc
 
-Copyright © 2021 Michael Cysouw <cysouw@mac.com>
+Version 1.5
+Copyright © 2021, 2022 Michael Cysouw <cysouw@mac.com>
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
@@ -211,7 +212,8 @@ function addDivToHeader (head)
       and head.level == 1 
       and head.classes[1] ~= "unnumbered"
   then
-    return pandoc.Div(head, pandoc.Attr(nil, {"restart"}))
+    head.attr = {id = head.identifier, class = "restart"}
+    return pandoc.Div(head)
   end
 end
 
@@ -223,9 +225,10 @@ function processDiv (div)
 
   -- keep track of chapters (header == 1)
   -- included in this loop by trick "addDivToHeader"
-  if div.classes[1] == "restart" then
+  if div.content[1].tag == "Header" and div.content[1].classes[1] == "restart"  then
     chapter = chapter + 1
     counterInChapter = 0
+    div.content[1].attr = {id = div.content[1].identifier, class = ""}
     -- remove div
     return div.content
   end
@@ -258,8 +261,10 @@ function processDiv (div)
     if FORMAT:match "latex" or FORMAT:match "beamer" then
       example = texMakeExample(parsedDiv)
     else
+      example = parsedDiv.examples
       example = pandocMakeExample(parsedDiv)
-      example = pandoc.Div(example, pandoc.Attr("ex"..parsedDiv.number) )
+      example = pandoc.Div(example)
+      example.attr = {id = "ex"..parsedDiv.number}
     end
 
     -- return to global setting
@@ -540,15 +545,13 @@ function pandocMakeExample (parsedDiv)
 
   -- Add example number to top left of first table
   local numberParen = pandoc.Plain( "("..parsedDiv.number..")" )
-  example[1].bodies[1].body[1][2][1].contents[1] = numberParen
+  example[1].bodies[1].body[1].cells[1].contents[1] = numberParen
   
   -- set class and vertical align for noFormat
   if noFormat then
-    example[1].bodies[1].body[1][2][1].attr = 
-      pandoc.Attr(nil, {"linguistic-example-number"}, {style = "vertical-align: middle;"})
+    example[1].bodies[1].body[1].cells[1].attr = {class = "linguistic-example-number", style = "vertical-align: middle;"}
   else
-    example[1].bodies[1].body[1][2][1].attr = 
-      pandoc.Attr(nil, {"linguistic-example-number"}, {style = "vertical-align: top;"})
+    example[1].bodies[1].body[1].cells[1].attr = {class = "linguistic-example-number", style = "vertical-align: top;"}
   end
 
   return example
@@ -559,8 +562,7 @@ function pandocNoFormat (parsedDiv)
   -- make a simple 1x2 table with the whole div in the second cell
   local example = turnIntoTable({{ {}, {parsedDiv.examples[1]} } } , 2, 0)
   -- set class of content
-  example.bodies[1].body[1][2][2].attr = 
-    pandoc.Attr(nil, {"linguistic-example-content"})
+  example.bodies[1].body[1].cells[2].attr = {class = "linguistic-example-content"}
 
   return example
 end
@@ -600,18 +602,15 @@ function pandocMakeSingle (parsedDiv)
   local example = turnIntoTable(rowContent, nCols, judgeCol)
 
   -- set class of content
-    example.bodies[1].body[nRows][2][nCols].attr = 
-      pandoc.Attr(nil, {"linguistic-example-content"})
+  example.bodies[1].body[nRows].cells[nCols].attr = {class = "linguistic-example-content"}
   -- set class of preamble
   if preamble ~= nil then
-    example.bodies[1].body[1][2][nCols].attr = 
-      pandoc.Attr(nil, {"linguistic-example-preamble"})
+    example.bodies[1].body[1].cells[nCols].attr = {class = "linguistic-example-preamble"}
   end
   -- set class of judgment
-    if judgeCol > 1 then
-    example.bodies[1].body[nRows][2][judgeCol].attr = 
-      pandoc.Attr(nil, {"linguistic-example-judgement"})
-    end
+  if judgeCol > 1 then
+    example.bodies[1].body[nRows].cells[judgeCol].attr = {class = "linguistic-example-judgement"}
+  end
 
   return example
 end
@@ -686,40 +685,33 @@ function pandocMakeInterlinear (parsedDiv, label, forceJudge)
   -- set class of preamble and extend cell
   if preamble ~= nil then
     ps = 1
-    example.bodies[1].body[1][2][2].attr = 
-      pandoc.Attr(nil, {"linguistic-example-preamble"})
-    example.bodies[1].body[1][2][2].col_span = nCols - 1
+    example.bodies[1].body[1].cells[2].attr = {class = "linguistic-example-preamble"}
+    example.bodies[1].body[1].cells[2].col_span = nCols - 1
   end
   -- set class of label
   if label ~= nil then
     ls = 1
-    example.bodies[1].body[1][2][2+ps].attr = 
-      pandoc.Attr(nil, {"linguistic-example-label"})
+    example.bodies[1].body[1].cells[2+ps].attr = {class = "linguistic-example-label"}
   end
   -- set class of header and extend cell
   if headerPresent then
     hs = 1
-    example.bodies[1].body[1+ps][2][2+ls+js].attr = 
-      pandoc.Attr(nil, {"linguistic-example-header", "linguistic-example-content"})
-    example.bodies[1].body[1+ps][2][2+ls+js].col_span = nCols-1-ls-js
+    example.bodies[1].body[1+ps].cells[2+ls+js].attr = {class =  "linguistic-example-header linguistic-example-content"}
+    example.bodies[1].body[1+ps].cells[2+ls+js].col_span = nCols-1-ls-js
   end
   -- set class of translation and extend cell
-  example.bodies[1].body[nRows][2][2+ls+js].attr = 
-    pandoc.Attr(nil, {"linguistic-example-translation", "linguistic-example-content"})
-  example.bodies[1].body[nRows][2][2+ls+js].col_span = nCols-1-ls-js
+  example.bodies[1].body[nRows].cells[2+ls+js].attr = {class = "linguistic-example-translation linguistic-example-content"}
+  example.bodies[1].body[nRows].cells[2+ls+js].col_span = nCols-1-ls-js
   -- set class of judgment
   if judgeCol > 1 then
-    example.bodies[1].body[1+hs+ps][2][2+ls].attr = 
-      pandoc.Attr(nil, {"linguistic-example-judgement"})
+    example.bodies[1].body[1+hs+ps].cells[2+ls].attr = {class = "linguistic-example-judgement"}
   end
   -- set class of source and gloss
   local ssCol = 3 + ls -- sourcestart columns
   local ssRow = 1 + hs + ps -- sourcestart row
   for i=ssCol,nCols do
-    example.bodies[1].body[ssRow][2][i].attr = 
-      pandoc.Attr(nil, {"linguistic-example-source", "linguistic-example-content"})
-    example.bodies[1].body[ssRow+1][2][i].attr = 
-      pandoc.Attr(nil, {"linguistic-example-gloss", "linguistic-example-content"})
+    example.bodies[1].body[ssRow].cells[i].attr = {class = "linguistic-example-source linguistic-example-content"}
+    example.bodies[1].body[ssRow+1].cells[i].attr = {class = "linguistic-example-gloss linguistic-example-content"}
   end
 
   return example
@@ -760,12 +752,13 @@ function pandocMakeList (parsedDiv, from, to, forceJudge)
   local labels = {}
   for i=from,to do 
     local label = pandoc.Str(string.char(96+i)..".")
-    table.insert(rowContent[i], 1, { pandoc.Plain(label) })
+    table.insert(rowContent[i - from + 1], 1, { pandoc.Plain(label) })
   end
     nCols = nCols + 1
     judgeCol = judgeCol + 1
   -- add preamble
   local preamble = parsedDiv.preamble
+  if from ~= 1 then preamble = nil end
   if preamble ~= nil then
     table.insert(rowContent, 1, {{ preamble }} )
     nRows = nRows + 1
@@ -781,23 +774,19 @@ function pandocMakeList (parsedDiv, from, to, forceJudge)
   local start = 1
   if preamble ~= nil then start = 2 end
   for i=start,nRows do
-    example.bodies[1].body[i][2][nCols].attr = 
-      pandoc.Attr(nil, {"linguistic-example-content"})
-    example.bodies[1].body[i][2][2].attr = 
-      pandoc.Attr(nil, {"linguistic-example-label"})
+    example.bodies[1].body[i].cells[nCols].attr = {class = "linguistic-example-content"}
+    example.bodies[1].body[i].cells[2].attr = {class = "linguistic-example-label"}
   end
   -- set class of judgment
   if judgeCol > 1 then
     for i=start,#example.bodies[1].body do
-      example.bodies[1].body[i][2][judgeCol].attr = 
-        pandoc.Attr(nil, {"linguistic-example-judgement"})
+      example.bodies[1].body[i].cells[judgeCol].attr = {class = "linguistic-example-judgement"}
     end
   end
   -- set class of preamble and extend cell
   if preamble ~= nil then
-    example.bodies[1].body[1][2][2].attr = 
-      pandoc.Attr(nil, {"linguistic-example-preamble"})
-    example.bodies[1].body[1][2][2].col_span = nCols - 1
+    example.bodies[1].body[1].cells[2].attr = {class = "linguistic-example-preamble"}
+    example.bodies[1].body[1].cells[2].col_span = nCols - 1
   end
 
   return example
@@ -809,7 +798,8 @@ function pandocMakeMixedList (parsedDiv)
 
   -- mix of interlinear and (groups of) single examples
   -- returns a list of tables
-  local result = {}
+  local result        = {}
+  local isInterlinear = {} -- whether result at index i is an interlinear example
   local resultCount = 1
   local from = 1
 
@@ -820,21 +810,24 @@ function pandocMakeMixedList (parsedDiv)
   for i=1,#judgements do
     judgeSize = math.max(judgeSize, utf8.len(judgements[i]))
   end
-  --if judgeSize > 0 then 
+  -- if judgeSize > 0 then 
     forceJudge = true
-  --end
+  -- end
 
   for i=1,#parsedDiv.kind do
     if parsedDiv.kind[i] == "interlinear" then
       local label = i
-      result[resultCount] = pandocMakeInterlinear(parsedDiv, label, forceJudge)
+      result[resultCount]        = pandocMakeInterlinear(parsedDiv, label, forceJudge)
+      isInterlinear[resultCount] = true
       resultCount = resultCount + 1
     elseif parsedDiv.kind[i] == "single" then
       if i==1 or parsedDiv.kind[i-1] ~= "single" then
         from = i
-      elseif parsedDiv.kind[i+1] ~= "single" then
+      end
+      if parsedDiv.kind[i+1] ~= "single" then
         local to = i
-        result[resultCount] = pandocMakeList(parsedDiv, from, to, forceJudge)
+        result[resultCount]        = pandocMakeList(parsedDiv, from, to, forceJudge)
+        isInterlinear[resultCount] = false
         resultCount = resultCount + 1
       end
     end
@@ -848,13 +841,22 @@ function pandocMakeMixedList (parsedDiv)
     -- For better alignment with example number
     -- add invisibles in first column 
     -- not a very elegant solution, but portable across formats
-    result[i].bodies[1].body[1][2][1].contents[1] = 
+    result[i].bodies[1].body[1].cells[1].contents[1] = 
       pandoc.Plain(spaceForNumber)
     -- For even better alignment, add column-width to judgement column
     -- note: this is probably not portable outside html
-    if forceJudge then
-      result[i].bodies[1].body[2][2][3].attr = 
-        pandoc.Attr(nil, { "linguistic-judgement" }, { width = spaceForJudge.."px"} )
+    if forceJudge  then
+      if isInterlinear[i] then
+        result[i].bodies[1].body[2].cells[3].attr = 
+          pandoc.Attr(nil, { "linguistic-judgement" }, { width = spaceForJudge.."px"} )
+      else
+        local row = 1
+        if i == 1 and parsedDiv.preamble ~= nil then
+          row = 2
+        end
+        result[i].bodies[1].body[row].cells[3].attr = 
+          pandoc.Attr(nil, { "linguistic-judgement" }, { width = spaceForJudge.."px"} )
+      end
     end
   end
   return result
@@ -994,7 +996,7 @@ function texMakeExpex (parsedDiv)
       judgeMax = judgements[i]
     end
   end
-  local judgeOffset = "[*="..string.gsub(pandoc.utils.stringify(judgeMax), "([#$%&_{}~^])", "\\%1").."]"
+  local judgeOffset = "[*="..string.gsub(pandoc.utils.stringify(judgeMax), "([#$%%&_{}~^])", "\\%1").."]"
 
   for i=1,#kind do
     if judgements[i] == nil then 
@@ -1189,7 +1191,7 @@ function texMakeGb4e (parsedDiv)
       judgeMax = judgements[i]
     end
   end
-  local judgeOffset = "\\judgewidth{"..string.gsub(pandoc.utils.stringify(judgeMax), "([#$%&_{}~^])", "\\%1").."}"
+  local judgeOffset = "\\judgewidth{"..string.gsub(pandoc.utils.stringify(judgeMax), "([#$%%&_{}~^])", "\\%1").."}"
 
   for i=1,#kind do
     if judgements[i] == nil then 
@@ -1290,7 +1292,7 @@ function texMakeLangsci (parsedDiv)
       judgeMax = judgements[i]
     end
   end
-  local judgeOffset = "\\judgewidth{"..string.gsub(pandoc.utils.stringify(judgeMax), "([#$%&_{}~^])", "\\%1").."}"
+  local judgeOffset = "\\judgewidth{"..string.gsub(pandoc.utils.stringify(judgeMax), "([#$%%&_{}~^])", "\\%1").."}"
 
   for i=1,#kind do
     if judgements[i] == nil then
@@ -1462,7 +1464,7 @@ end
 function removeTmpTargetrefs (cite)
   -- remove temporary cites for resolving Next-style reference
   if cite.content[1].text == "@Target" then
-    return pandoc.Plain({})
+    return pandoc.Str("")
   end 
 end
 
