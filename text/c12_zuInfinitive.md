@@ -306,7 +306,7 @@ Evidential interpretation of light-verb usage
 - *drohen*: there are no strict restrictions, though agentive verbs are atypical.
 - *versprechen*: not with agentive verbs, most frequently used with *werden, enthalten, weichen, bieten*.
 
-### --- Participant Affectedness --- {.unnumbered}
+### --- Covert causation --- {.unnumbered}
 
 ### *kommen+zu‑Infinitiv* Covertly caused state (*Verborgener Zustandskausativ*) {#sec:zuinfinitive-kommen}
 
@@ -638,7 +638,7 @@ This causative construction is also widely attested with other verbs, e.g. *trin
 
 The verb *leben* 'to live' is used in this construction with a slightly different meaning. As illustrated in [@next a] it does not mean 'to cause to live' but 'to predict to remain alive'.
 
-The *geben +zu‑Infinitiv* construction with the verb *denken* 'to think' is typically stacked inside a modal *sollen/müssen+Infinitiv* [@next b] or a perfect *haben+Partizip* [@next c].
+The *geben+zu‑Infinitiv* construction with the verb *denken* 'to think' is typically stacked inside a modal *sollen/müssen+Infinitiv* [@next b] or a perfect *haben+Partizip* [@next c].
 
 ::: ex
 - Der Arzt gab mir noch drei Wochen zu leben.
