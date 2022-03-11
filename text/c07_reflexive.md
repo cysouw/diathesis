@@ -424,7 +424,7 @@ b. Ich (be)merke seine Absicht
 c. Du darfst dir das nicht (an)merken lassen
 :::
 
-The verb *vorstellen* also has two rather different meanings. In this construction with an obligatory dative *sich* it means 'to imagine' [@next a]. The other meaning 'to introduce' [@next b,c] has a possible accusative reflexive (see Section X).
+The verb *vorstellen* also has two rather different meanings. In this construction with an obligatory dative *sich* it means 'to imagine' [@next a]. The other meaning 'to introduce' [@next b,c] has a possible accusative reflexive (see [@#sec:reflexive-self-inflicting-accusative]).
 
 ::: ex
 a. Ich stelle mir den Konsul vor.
@@ -666,7 +666,7 @@ b. Ich habe mich nach Hause geschlichen.
 
 ### [ NA | NA ] Free dative reflexive+accusative {#sec:reflexive-free-dative-sich-accusative}
 
-So-called 'free' datives [@next a,b] are widespread in German (see Section X). Such a dative can mostly also be used reflexively [@next c]. Comparing [@next a] with [@next c] seems to suggest a free dative *sich*. However, this is just a combination of a free dative and the regular self-inflicting reflexive usage.
+So-called 'free' benefactive datives [@next a,b] are widespread in German (see [@#sec:prepositions-benefactive-dative]). Such a dative can in most cases also be used reflexively [@next c]. Comparing [@next a] with [@next c] seems to suggest a free reflexive *sich* in the dative. However, this example is just a combination of a benefactive dative and the regular self-inflicting reflexive usage.
 
 ::: ex
 a. Ich habe ein Haus gebaut.
@@ -758,7 +758,7 @@ The crucial difference between a 'self-inflicted' reflexive construction and the
 
 **Notes**
 
-The verb *stoßen* 'to push' has an interesting change in preferred prepositional adjunct between non-reflexive [@next a] and reflexive usage [@next b], in accordance to the verb semantics. Pushing something else will normally result in a movement, e.g. into or out of somewhere. Conversely, pushing oneself will typically be against something. The 'Zustandspassiv' (see Section X) again changes the direction of movement and accordingly the preposition [@next c]. However, these conventional implicatures can be changed by a suitable context [@next d,e].
+The verb *stoßen* 'to push' has an interesting change in preferred prepositional adjunct between non-reflexive [@next a] and reflexive usage [@next b], in accordance to the verb semantics. Pushing something else will normally result in a movement, e.g. into or out of somewhere. Conversely, pushing oneself will typically be against something. The 'Zustandspassiv' (see [@#sec:participles-sein-zustandspassiv]) again changes the direction of movement and accordingly the preposition [@next c]. However, these conventional implicatures can be changed by a suitable context [@next d,e].
 
 ::: ex
 a. Er stößt mich in den Teich.
@@ -770,7 +770,7 @@ e. Ich stosse mich in die Tiefe meiner Finsternis, um meine Finsternis zu erkenn
 
 ### [ ND | Nd ] Self-inflicting dative reflexive {#sec:reflexive-self-dative}
 
-Verbs with a dative argument (see Section X) can often be used reflexively, although such usage often has a rather poetic or humorous touch to it [@next a-c]. The verbs listed here can surely be extended when (even) more poetic freedom is allowed. However, this construction does not appear to be very frequent.^[The accusative *einen Augenblick* in [@next c] is not a governed argument, but a temporal quantified object, see [@sec:case-quantified-objects].]
+Verbs with a dative argument can often be used reflexively, although such usage often has a rather poetic or humorous touch to it [@next a-c]. The verbs listed here can surely be extended when (even) more poetic freedom is allowed. However, this construction does not appear to be very frequent.^[The accusative *einen Augenblick* in [@next c] is not a governed argument, but a temporal quantified object, see [@sec:case-quantified-objects].]
 
 ::: ex
 a. Ich begegne mir selbst mit größter Achtung.
@@ -838,7 +838,7 @@ b. Ich schenke mir (selbst) eine Tafel Schokolade.
 - Er drängt mir eine Theorie auf. Er drängt sich mir auf.
 - Ich habe mir eine Decke übergelegt/übergeworfen.
 
-With verbs that allow for the possessor-of-accusative dative alternation ("possessor datives", see Section X, e.g. *versalzen, zerbrechen*) this dative reflexive can lead to sentences with three coreferent words [@next a,b].
+With verbs that allow for the possessor-of-accusative dative alternation ("possessor datives", see [#sec:case-possessor-accusative-to-dative], e.g. *versalzen, zerbrechen*) this dative reflexive can lead to sentences with three coreferent words [@next a,b].
 
 ::: ex
 a. Ich putze mir meine Schuhe.
@@ -858,8 +858,8 @@ f. Er wäscht sich den Rücken.
 
 **Attested Verbs**
 
-- Verbs with *für* ditransitive dative alternation (see Section X, e.g. *backen, putzen*)
-- Verbs with possessor-of-accusative dative alternation (see Section X, e.g. *versalzen, zerbrechen*)
+- Verbs with *für* benefactive dative alternation (see [@sec:prepositions-benefactive-dative], e.g. *backen, putzen*)
+- Verbs with possessor-of-accusative dative alternation (see [@sec:case-possessor-accusative-to-dative], e.g. *versalzen, zerbrechen*)
 
 **Further Examples**
 
@@ -1122,7 +1122,7 @@ There is some discussion in the literature [@schafer2007: 35ff.; @kurogo2016] ab
 
 - Change of position: *ändern, bewegen, drehen, lockern, öffnen, schließen, spalten, teilen, verschieben, versammeln*
 - Change of dimension: *abschwächen, ansparen, ausbreiten, ausdehnen, beschleunigen, beschränken, entfalten, erhöhen, erweitern, senken, steigern, verändern, verbessern, verbreiten, verdoppeln, verengen, vergrößern, verkleinern, verkürzen, verlangsamen, verlängern, vermehren, verringern, verstärken*
-- Change of physical state: *abkühlen, ablagern, ablösen, abnutzen, abschalten, abschwächen, abseilen, auflösen, aufwärmen, ausschalten, beziehen, einfügen, einschalten, eindrücken, entzünden, erwärmen, färben, festigen, füllen, gliedern, komplizieren, leeren, stürzen, verändern, verbessern, vereinfachen, verhaken, verschlechtern, verwandeln, wärmen*
+- Change of physical state: *abkühlen, ablagern, ablösen, abnutzen, abschalten, abschwächen, abseilen, auflösen, aufwärmen, ausschalten, beziehen, einfügen, einschalten, eindrücken, entzünden, erwärmen, färben, festigen, füllen, gliedern, komplizieren, leeren, verändern, verbessern, vereinfachen, verhaken, verschlechtern, verwandeln, wärmen*
 - Others: *ansammeln, bessern, bestätigen, erfüllen, entscheiden, konstituieren, lohnen, mildern, unterwerfen, wiederholen, zeigen*
 
 **Further Examples**
@@ -1147,16 +1147,6 @@ There is some discussion in the literature [@schafer2007: 35ff.; @kurogo2016] ab
 - Er erfüllt meine Wünsche. Meine Wünsche erfüllen sich.
 
 **Notes**
-
-The verb *stürzen* both has a bare anticausative alternation (a,b, see Section X) and a *sich* anticausative alternation [@next a,c]. In the present tense, this leads to an interesting opposition [@next d,e].
-
-::: ex
-a. Er hat mich ins Wasser gestürzt.
-b. Ich bin ins Wasser gestürzt.
-c. Ich habe mich ins Wasser gestürzt.
-d. Ich stürze ins Wasser.
-e. Ich stürze mich ins Wasser.
-:::
 
 The verb *beziehen* has various rather different meanings. For the anticausative alternation it means 'to cover' [@next a], with the anticausative having a specific meaning concerning the weather [@next b].
 

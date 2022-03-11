@@ -1714,7 +1714,7 @@ b. Er geht gebückt.
 
 ### [ NA | pN ] *werden+Partizip* Passive (*Vorgangspassiv*) {#sec:participles-werden-passive}
 
-The *werden+Partizip* ~~Vorgangspassiv~~ is the quintessential diathesis according to typical textbooks on German grammar. This diathesis promotes an accusative to nominative and (optionally) retains the original nominative as a prepositional *durch* or *von* phrase [@next], but see [@sec:prepositions-durch] for a discussion of the status of these prepositions. Any further arguments, like datives or governed prepositions, are simply retained [@next c,d].
+The *werden+Partizip* ~~Vorgangspassiv~~ is the quintessential diathesis according to typical textbooks on German grammar. This diathesis promotes an accusative to nominative and (optionally) retains the original nominative, typically as a prepositional *durch* or *von* phrase [@next], but see [@sec:prepositions-durch] for a discussion of the status of these prepositions. Pape-Müller [@papemuller1980: 77-85] discusses various other grammatical possibilities to express the agent. Any further arguments, like datives or governed prepositions, are simply retained [@next c,d].
 
 ::: ex
 - Der Handwerker hat das Haus angemalt.
@@ -1768,17 +1768,17 @@ The second most widely discussed diathesis in the German grammatical literature 
 - Der Brief ist schon (von dem Postboten) geöffnet.
 :::
 
-Crucially, there is an important difference between the *sein+Partizip* [@next a] and the *sein+Partizip+worden* constructions [@next b]. These are sometimes seen as free-choice alternatives, but they are clearly not interchangeable [cf. @maienborn2007]. The construction with *worden* is best analysed as a stack of a *werden+Partizip* Passive plus on top of that a *sein+Partizip* Perfect (with the special stipulation that the *sein+Partizip* Perfect of *werden* leads to an idiosyncratic participle *worden*, see [@sec:participles-werden-passive]).
+Crucially, there is an important difference between the *sein+Partizip* [@next a] and the *sein+Partizip+worden* constructions [@next b]. These are sometimes seen as free-choice alternatives, but they are clearly not interchangeable [cf. @maienborn2007]. The construction with *worden* is best analysed as a stack of a *werden+Partizip* passive plus on top of that a *sein+Partizip* perfect (with the special stipulation that the *sein+Partizip* perfect of *werden* leads to an idiosyncratic participle *worden*, see [@sec:participles-werden-passive]).
 
 ::: ex
 - Der Brief ist geöffnet.
 - Der Brief ist geöffnet worden. \
   = Jemand öffnet den Brief. \
-  +> *werden+Partizip* Passiv (= Der Brief wird geöffnet.) \
-  +> *sein+Partizip* Perfect (= Der Brief ist geöffnet worden.)
+  +> *werden+Partizip Passiv* (= Der Brief wird geöffnet.) \
+  +> *sein+Partizip Perfekt* (= Der Brief ist geöffnet worden.)
 :::
 
-The two constructions (with and without *worden*) have different temporal structures (see [@sec:participles-temporal-interpretation]). Crucially, the *sein+Partizip* ~~Zustandspassiv~~ [@next a] has a resultative meaning, which is consistent with a durative past temporal adverbial like *schon seit zwei Tagen* [@next b] but not with a past punctual adverbial like *vor zwei Tagen* or *gestern* [@next c]. In contrast, the *werden+Partizip* Passive plus *sein+Partizip* Perfect [@nnext a] has a completive meaning with a reversed temporal interpretation [@nnext b,c].
+The two constructions (with and without *worden*) have different temporal structures (see [@sec:participles-temporal-interpretation]). Crucially, the *sein+Partizip* ~~Zustandspassiv~~ [@next a] has a resultative meaning, which is consistent with a durative past temporal adverbial like *schon seit zwei Tagen* [@next b] but not with a past punctual adverbial like *vor zwei Tagen* or *gestern* [@next c]. In contrast, the *werden+Partizip* passive plus *sein+Partizip* perfect [@nnext a] has a completive meaning with a reversed temporal interpretation [@nnext b,c].
 
 ::: ex
 - Ich öffne den Brief.
@@ -1811,8 +1811,8 @@ Still, there are some transitive verbs that do not appear to allow a *Zustandspa
 
 The following verbs with accusative arguments do not seem to allow for a *sein+partizip* Passive:
 
-- *drücken (sorgen machen), feiern, fühlen, hören, kennen, kümmern, legen, lohnen, merken, mögen, passen, quälen, riechen, schmecken, schätzen (hochachter), sehen, setzen, stecken, verlangen, wissen, zeigen, zwicken*
-- Alternation with prefixes: *ärgern (verärgern), brauchen (verbrauchen), ekeln (anekeln), freuen (erfreuen), hassen (verhassen), heiraten (verheiraten), kratzen (zerkratzen), wundern (verwundern)*
+- Impossible: *drücken (sorgen machen), feiern, fühlen, hören, kennen, kümmern, legen, lohnen, merken, mögen, passen, quälen, riechen, schmecken, schätzen (hochachter), sehen, setzen, stecken, verlangen, wissen, zeigen, zwicken*
+- Impossible, but alternation with prefixes: *ärgern (verärgern), brauchen (verbrauchen), ekeln (anekeln), freuen (erfreuen), hassen (verhassen), heiraten (verheiraten), kratzen (zerkratzen), wundern (verwundern)*
 - Different meaning of participle: *anhalten, ergeben, stören*
 
 **Further Examples**
@@ -2235,11 +2235,13 @@ a. Er glaubte den Sieg gekommen.
 
 **Attested Verbs**
 
-- *einschlafen, kommen*
+- *einschlafen, kommen, verirren*
 
 **Further Examples**
 
+- Als man die Band schon fast eingeschlafen glaubt kommt der Song zurück und kann mich diesmal sogar richtig begeistern.^[Attested online at https://www.metal1.info/metal-reviews/code-nouveau-gloaming/, accessed 11 March 2022]
 - Als die Tochter des Hauses, die schon längst für Jean Pauls Romane schwärmte, ihn sicher eingeschlafen glaubte, trat sie leise ins Zimmer, um ihn recht nach Herzenslust zu betrachten.^[~~DWDS~~: Parthey, Gustav: Jugenderinnerungen. Bd. 2. Berlin, [1871].]
+- Erbarmen wir uns derer, die wir verirrt glauben.^[Heinrich Böll, *Für Alexander S. zum 65. Geburtstag*.]
 
 ### [ –N | NA ] *sehen+Partizip* Intransitive opiniative
 

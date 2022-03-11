@@ -386,7 +386,7 @@ This section is empty. It is only added here for the numbering to be parallel ac
 
 ### [ N | – ] Nominative drop {#sec:case-nominative-drop}
 
-In German, the nominative constituent shows agreement with the verb. It is typically not possible to have a sentence without this nominative constituent. For the few verbs that allow the nominative to be absent, a dummy pronoun *es* has to be inserted (see Section X for more details on this pronoun). For weather verbs like *regnen* 'to rain' it is arguably not a nominative that is dropped, but a nominative that is optionally added. I will discuss these two situation separately, although there is no overt grammatical distinction between a verb that allows for an optional nominative drop or an optional nominative addition (see [@sec:case-nominative-addition] for the nominative addition). For some intransitive 'dispersion' verbs like *stinken* 'to stink' [@next a] it is possible to leave out the origin of the dispersion [@next b] to indicate the effect without knowledge of the cause. 
+In German, the nominative constituent shows agreement with the verb. It is typically not possible to have a sentence without this nominative constituent. For the few verbs that allow the nominative to be absent, a dummy pronoun *es* has to be inserted (see [@sec:intro-es] for more details on this pronoun). For weather verbs like *regnen* 'to rain' it is arguably not a nominative that is dropped, but a nominative that is optionally added. I will discuss these two situation separately, although there is no overt grammatical distinction between a verb that allows for an optional nominative drop or an optional nominative addition (see [@sec:case-nominative-addition] for the nominative addition). For some intransitive 'dispersion' verbs like *stinken* 'to stink' [@next a] it is possible to leave out the origin of the dispersion [@next b] to indicate the effect without knowledge of the cause. 
 
 ::: ex
 a. Der Müll stinkt.
@@ -459,7 +459,11 @@ d. Insofern entbehrt es jeglichen Beweises.
 
 ### [ NA | –N ] *haben* Anticausative {#sec:case-haben-anticausative}
 
-A typical anticausative verb allows for both a transitive [@next a] and an intransitive [@next b] in which the intransitive nominative is the same participant as the accusative from the transitive. This is attested by verbs like *kochen* 'to cook' (a,b). However, with this verb the Perfect of the intransitive exist both with auxiliaries *haben* [@next c] and *sein* [@next d]. Semantically, the *haben* construction [@next c] seems to be the regular Perfect of the intransitive [@next b]. The *sein* construction [@next d] is probably best analysed as the 'Zustandspassiv' (see Section X) of the transitive [@next a]. Levin [-@levin1993: 31] used the label "Induced Action Alternation" for a similar alternation in English.
+A typical anticausative verb allows for both a transitive [@next a] and an intransitive [@next b] in which the intransitive nominative is the same participant as the accusative from the transitive. This is attested by verbs like *kochen* 'to cook'. However, because this diathesis is formally unmarked it is difficult to decide whether this should be classified as an anticausative or as a causative [cf. @scheibl2006: 355]. 
+
+Whatever the ultimate best analysis will be, it is important to realize that there are two different classes of verbs in German. With verbs like *kochen* the perfect of the intransitive exist both with auxiliaries *haben* [@next c] and *sein* [@next d]. In contrast, with verbs like *zerbrechen* 'to break' the intransitive perfect only allows for *sein* (see [@#sec:case-sein-causative]). These two classes of verbs should be distinguished, and I propose to consider the *kochen*-class as an anticausative (this section) and the *zerbrechen*-class as a causative (see [@#sec:case-sein-causative] for some more discussion on this point).
+
+Semantically, the *haben* construction in [@next c] seems to be the regular Perfect of the intransitive [@next b]. The *sein* construction in [@next d] is probably best analysed as the *Zustandspassiv* (see [@sec:participles-sein-zustandspassiv]) of the transitive [@next a]. 
 
 ::: ex
 a. Ich koche den Kaffee.
@@ -468,7 +472,7 @@ c. Der Kaffee hat gekocht.
 d. Der Kaffee ist gekocht.
 :::
 
-Because this diathesis is unmarked it is difficult to decide whether this should be classified as an anticausative or as a causative. Because of the option for a 'Zustandspassiv' I have categorised this alternation here as an anticausative [cf. @scheibl2006: 355]. A highly similar construction with only a singly intransitive Perfekt auxiliary is discussed below as a causative (see [@sec:case-sein-causative]).
+Levin [-@levin1993: 31] used the label 'Induced Action Alternation' for a similar alternation in English.
 
 **Attested Verbs**
 
@@ -569,50 +573,97 @@ Another different diathesis adding arguments to weather verbs is the addition of
 
 ### [ –N | NA ] *sein* Causative {#sec:case-sein-causative}
 
-A typical causative verb allows for both a transitive [@next a] and an intransitive [@next b,c] in which the nominative of the intransitive is the same as the accusative from the transitive.
+A typical causative verb like *zerbrechen* 'to break' allows for both a intransitive [@next a] and a transitive [@next b] in which the nominative of the intransitive is the same as the accusative from the transitive.
 
 ::: ex
-a. Der Junge zerbricht den Krug.
-b. Der Krug zerbricht.
+a. Der Krug zerbricht.
+b. Der Junge zerbricht den Krug.
 c. Der Krug ist zerbrochen.
 d. ^* Der Krug hat zerbrochen.
 :::
 
-There is a crucial difference between the verbs discussed here that only have a perfect with *sein* in the intransitive [@last c,d] and the anticausatives that allow for both *haben* and *sein* in the intransitive Perfekt (see [@sec:case-haben-anticausative]). 
-
-The intransitive Perfekt with *sein* is strongly reminiscent of an anticausative construction known in German linguistics as the 'Zustandspassiv' (see Section X). However, that construction is available for a much larger group of predicates like *bauen* 'to build' [@next a-c]. Crucially different from *zerbrechen*, a verb like *bauen* does not allow for the anticausative to occur in the present tense [@next b].
+The crucial characteristic of the verbs discussed in this section is that they only allow for a perfect with *sein* in the intransitive [@last c,d]. This differentiates these verbs from verbs like *kochen* 'to cook' that allow for both *haben* and *sein* in the intransitive perfekt [@next]. I propose to analyse the verbs like *zerbrechen* with only *sein* in the intransitive as causatives (this section), while verbs like *kochen* with both *haben* and *sein* in the intranstive as anticausatives (see [@sec:case-haben-anticausative]).
 
 ::: ex
-a. Der Junge baut ein Haus.
-b. ^* Das Haus baut.
-c. Das Haus ist gebaut.
+a. Der Kaffee kocht.
+b. Der Junge kocht den Kaffee.
+c. Der Kaffee ist gekocht.
+d. Der Kaffee hat gekocht.
 :::
 
-Although there is no overt difference between an unmarked anticausative and an unmarked causative, I opted to call this alternation a causative. Verbs like *zerbrechen* that allow for a *sein* bare anticausative are typically verbs that describe a process that can be caused by a natural process, although this process can also be instigated by an external agent.
+Although there is no overt difference between an unmarked anticausative and an unmarked causative, there are a few indications for this analysis. First, many verbs with only *sein* in the intransitive have preverbs like *zer-* (see Chapter [-@sec:preverbs] on preverbal diatheses). There are even very many verbs that belong in this class both with and without preverb, e.g. compare *brechen* 'to break in [@next] with *zerbrechen* 'to break' in [@llast]. Such preverbal derivations typically result in transtive constructions. Also note that there are very many (though not exclusively) verbs denoting natural process in this class.
+
+::: ex
+a. Der Stock bricht.
+b. Ich breche den Stock.
+c. Der Stock ist gebrochen.
+d. ^* Der Stock hat gebrochen.
+:::
+
+Finally, note that the intransitive Perfekt with *sein* is strongly reminiscent of an anticausative construction known in German linguistics as the *Zustandspassiv* (see [@sec:participles-sein-zustandspassiv]). However, that construction is available for a much larger group of predicates like *bauen* 'to build' [@next b,c]. Crucially different from *zerbrechen*, a verb like *bauen* does not allow for the anticausative to occur in the present tense [@next a].
+
+::: ex
+a. ^* Das Haus baut.
+b. Der Junge baut ein Haus.
+c. Das Haus ist gebaut.
+d. ^* Das Haus hat gebaut.
+:::
 
 **Attested Verbs**
 
-- Monomorphemic verb: *altern, biegen, bleichen, brechen, fahren, knicken, reifen, reißen, rollen, schmelzen, stürzen, tauen, trocknen*
-- Verb prefixes: *abbrechen, abbrennen, abknicken, abkühlen, abstumpfen, antreten, auftauen, austrocknen, einbiegen, einfliegen, einfrieren, einknicken, einreißen, ermatten, erstaunen, ersticken, ertrinken, erzürnen, niederbrennen, umkehren, umstürzen, überfahren, verbrennen, verderben, verdunsten, verrohen, wegtreten, zerbrechen, zerknittern, zerreißen, zersplittern, zuklappen, zuschneien*
+- Verbs with preverb variants: *biegen (einbiegen), bleichen (erbleiben, verbleichen), bräunen (anbräunen), brechen (abbrechen, zerbrechen), brennen (abbrennen, niederbrennen, verbrennen), fahren (ǘberfahren), fliegen (einfliegen), frieren (einfrieren), klappen (aufklappen, zuklappen), knicken (abknicken, einknicken), reißen (abreißen, einreißen, zerreißen), rollen (ausrollen), staunen (erstaunen), stürzen (umstürzen), tauen (auftauen), treten (antreten, wegtreten), trocknen (austrocknen)*
+- Preverbal verbs from adjectival roots: *abkühlen, ermatten, verrohen, abstumpfen*
+- Preverbal verbs rom nominal roots: *erzürnen, verdunsten, zersplittern*
+- Others: *altern, ersticken, ertrinken, fliehen, reifen, verderben, zuschneien*
 
 **Further Examples**
 
-- Er verbrennt die Papiere. Die Papiere verbrennen. Die Papiere sind verbrannt.
-- Die Streitkräfte stürzen die Regierung. Die Regierung ist gestürzt.
-- Der Regen hat die Luft abgekühlt. Die Luft kühlt ab durch den Regen. Die Luft ist durch den Regen abgekühlt.
-- Der Sturm hat Äste und Stämme eingeknickt. Der Stamm knickt ein. Der Stamm ist eingeknickt.
-- Der Garten ist zugeschneit. Der Garten schneit zu. Der Schnee hat den Garten zugeschneit.
-- Das Dorf brennt bis auf die Grundmauern nieder. Das Dorf ist niedergebrannt. Ich habe das Dorf niedergebrannt.
-- Die Sonne hat die Frucht gereift. Die Frucht reift. Die Frucht ist gereift.
-- Ich habe den Urlaub angetreten. Ich bin zum Dienst angetreten.
-- Ich habe den Ball weggetreten. Ich bin weggetreten.
-- Ich habe den Lärm der Stadt geflohen. Ich bin aus dem Gefängnis geflohen.
-- Die Welle knickt den Mast des Bootes. Der Mast knickt.
-- Die Sonne schmilzt den Schnee. Die Eiswürfel sind geschmolzen.
-- Die Rede erzürnt mich. Die Rede hat mich erzürnt. Ich erzürne. Ich bin erzürnt.
-- Das Boot hat uns übergefahren. Wir sind übergefahren.
-- Der Zug ist gefahren. Er hat das Auto nach Hause gefahren.
-- Der Schnee ist getaut. Der Lava hat das Eis getaut.
+- Die Regierung stürzt/ist gestürzt. \
+  Die Streitkräfte stürzen die Regierung. 
+- Der Zug fährt/ist gefahren. \
+  Er hat das Auto nach Hause gefahren.
+- Der Mast knickt/ist geknickt. \
+  Die Welle knickt den Mast des Bootes. 
+- Der Schnee taut/ist getaut. \
+  Der Lava hat das Eis getaut.
+- Die Eiswürfel schmelzen/sind geschmolzen. \
+  Die Arbeiter schmelzten 26,31 Tonnen Stahl je Stunde.
+- Die deutsche Gesellschaft altert/ist gealtert. \
+  Der Kummer hat sie gealtert. 
+- Die Papiere verbrennen/sind verbrannt. \
+  Er verbrennt die Papiere.
+- Die Luft kühlt ab durch den Regen. Die Luft ist durch den Regen abgekühlt. \
+  Der Regen hat die Luft abgekühlt. 
+- Der Stamm knickt ein/ist eingeknickt. \
+  Der Sturm hat Äste und Stämme eingeknickt. 
+- Das Dorf brennt bis auf die Grundmauern nieder. Das Dorf ist niedergebrannt. \
+  Die Soldaten haben das Dorf niedergebrannt.
+- ich trete an. Ich bin zum Dienst angetreten. \
+  Ich habe den Urlaub angetreten. 
+- Er erzürnte sehr über die Nachricht. Er ist erzürnt. \
+  Die Rede erzürnt mich. Die Rede hat mich erzürnt. 
+- Wir sind übergefahren. \
+  Das Boot hat uns übergefahren. 
+
+**Notes**
+
+The verbs *zuschneien* 'to be blocked by snow' [@next a] and *reifen* 'to mature' [@next b] only appear to be possible as transitives with weather agents (see [@sec:case-nominative-addition]).
+
+::: ex
+- Der Garten ist zugeschneit. Der Garten schneit zu. \
+  Der Schnee hat den Garten zugeschneit.
+- Die Frucht reift. Die Frucht ist gereift. \
+  Die Sonne hat die Frucht gereift. 
+:::
+
+The verb *fliehen* 'to flee' can be used transitively, but this seems to be unusual [@next a]. The intranstive and transitive uses of *wegtreten* seem to be rather far apart semantically, meaning 'to kick away' vs. 'to step away' [@next b].
+
+::: ex
+- Er floh vor dem Feind. \
+  Er floh ihren Blick.
+- Ich bin weggetreten. \
+  Ich habe den Ball weggetreten.
+:::
 
 ### [ –N | NA ] *Umlaut* Causative {#sec:case-umlaut-causative}
 
@@ -717,7 +768,7 @@ b. Er lehrt den Koran.
 c. Er lehrt an einer Hochschule.
 :::
 
-Double accusatives also regularly appear with quantified objects [@next a, see [@sec:case-quantified-objects]] and named objects (b, see Section X). Also these verbs regularly allow for one of the accusatives to be dropped [@next c,d].
+Double accusatives also regularly appear with quantified objects [@next a], see [@sec:case-quantified-objects], and named objects [@next b], see [@sec:case-named-objects]. Also these verbs regularly allow for one of the accusatives to be dropped [@next c,d].
 
 ::: ex
 a. Das Buch kostet mich keinen Pfennig. 
@@ -903,6 +954,8 @@ c. Ich flüsterte die Lösung in sein Ohr.
 d. Ich flüsterte ihm die Lösung ins Ohr.
 :::
 
+These verbs are formally similar to verbs that allow for an accusative to be dropped (see [@sec:case-accusative-drop]). The only difference between these two classes is a (rather vague) semantic intuition about whether the intransitive or the transitive meaning is more 'basic'. As a rule-of-thumb the verbs in this section have an object that is the result of the action as described by the verb (hence the German name ~~Resultatakkusativ~~). Whether this is a useful separation has to be determined by future research.
+
 **Attested Verbs**
 
 - *atmen, fliehen, hetzen, laufen, leben, schauen, schwimmen, singen, spielen, springen, tanzen*
@@ -1033,7 +1086,7 @@ This alternation occurs with all verbs with the *von* and *für* dative antipass
 
 **Notes**
 
-There is an interesting difference between the *für* alternant [@next b] and the possessive alternant [@next c] of the same verb, showing that there is an ambiguity of the datives in [@next a].
+There is an interesting difference between the *für* benefactive alternant [@next b] and the possessive alternant [@next c] of the same verb, showing that there is an ambiguity of the datives in [@next a].
 
 ::: ex
 a. Ich koche dir eine Suppe.

@@ -99,7 +99,7 @@ Adverbs, i.e. single-word adverbials that cannot function as adjectives, only al
 Ich habe meine Hose gestern gekauft.
 :::
 
-### Adjectives as resultative secondary predicates
+### Adjectives as resultative secondary predicates {#sec:adverbials-resultative-predicates}
 
 There is a different ~~resultative~~ construction with adjectival adverbs that superficially looks highly similar to the previous depictive examples, but it turns out to be a radically different construction. The adjectival adverb *leer* 'empty' in [@next a] can be interpreted, like in the previous examples, as a depictive predicate with the meaning 'I have bought the store as it was empty' [@next b]. Alternatively, it can be interpreted resultatively with the meaning 'I have bought everything that was in the store, with the result that the store was empty afterwards' [@next c].
 
@@ -527,29 +527,27 @@ Not attested.
 
 ### [ NA | N– ] Action focus+depictive adverbial (*Aktionsfokus*) {#sec:adverbial-action-focus}
 
-Most transitive verbs can be used without an accusative object. However, with some verbs this drop comes easier than for others. Real 'ambitransitive' verbs that occur both as transitive and as intransitive, but without needing any extra marking in the intransitive, are discussed in [@sec:case-accusative-drop]. For many transitive verbs the drop of the accusative is only possible in an strict action-oriented focus, like as a reply to a question like "what are you doing just now?" In effect, this implies that such intransitive usage always needs an adverbial specification
+Many transitive verbs can be used without an accusative object. However, with some verbs this drop comes easier than for others. Real 'ambitransitive' verbs that occur both as transitive and as intransitive, but without needing any extra marking in the intransitive, are discussed in [@sec:case-accusative-drop]. For some transitive verbs, like *sehen* 'to see' [@next], the drop of the accusative is only possible in combination with an adverbial specification [@next b,c]. What seems to happen here, is that the focus of the utterance becomes the action itself, i.e. the 'seeing'. However, this only makes sense with the addition of a specification of the action by an adverbial describing the manner in which the 'seeing' is taking place.
 
 ::: ex
 a. Ich sehe das Haus.
-b. ^^?^ Ich sehe.
+b. ^* Ich sehe.
 c. Ich sehe gut.
 :::
 
 ::: ex
-a. Ich lese ein Buch.
-b. ^^?^ Ich lese.
-c. Morgen lese ich den ganzen Tag.
+a. Die Kinder zerstören die Sandburg.
+b. ^^?^ Die Kinder zerstören.
+c. Kinder zerstören halt gerne.
 :::
 
 **Attested Verbs**
 
-- *lesen, rechnen, sehen, zählen, zerstören* etc.
+- *schenken, sehen, zerstören*
 
 **Further Examples**
 
-- Du hast die Aufgabe falsch gerechnet. Meine Tochter rechnet gerne mit Brüchen.
-- Er zählt die Stimmen. Er zählt leise vor sich hin.
-- Die Kinder zerstören die Sandburg. Kinder zerstören gerne.
+- Ich schenke nur zu Weihnachten und Geburtstagen. *Ich schenke.
 
 ### [ NA | N– ] Endoreflexiv+depictive adverbial {#sec:adverbials-endoreflexive}
 

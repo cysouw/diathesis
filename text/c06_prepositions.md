@@ -269,6 +269,13 @@ This section summarises verbs that obligatorily need a governed preposition. Som
 - Ich baue darauf, dass du mich unterstützt.
 :::
 
+
+
+::: ex
+- Die Firma stand vor der Übergabe an einen Manager.
+- Der Planet Krypton steht kurz davor, zu explodieren.
+:::
+
 **Attested Verbs**
 
 - *an*   : *appellieren*
@@ -280,6 +287,7 @@ This section summarises verbs that obligatorily need a governed preposition. Som
 - *mit*  : *brechen (sich abwenden), kämpfen, spielen*
 - *über* : *handeln*
 - *von*  : *handeln, kommen*
+- *vor*  : *stehen*
 - *zu*   : *neigen, passen, stehen*
 
 **Further Examples**
@@ -666,7 +674,7 @@ a. Ich hänge den Pullover in den Schrank.
 b. Der Pullover hängt im Schrank.
 :::
 
-These verbs use a *haben* perfect both in the intransitive and transitive usage [@next a,b]. The "Zustandspassiv" of the transitive is sometimes also possible, leading to another intransitive construction with the auxiliary *sein* [@next c].
+These verbs use a *haben* perfect both in the intransitive and transitive usage [@next a,b]. The *Zustandspassiv* of the transitive is sometimes also possible, leading to another intransitive construction with the auxiliary *sein* [@next c].
 
 ::: ex
 a. Ich habe den Teller an den Tisch geklebt.
@@ -1281,7 +1289,7 @@ It seems to be somewhat unusual for verbs with dative – but no accusative – 
 
 **Notes**
 
-This seems to be very widespread with *zu* phrases in the interpretation *für den Geschmack von* Dative (cf. *dativus iudicantis*, Hole 2014: 6-7)).
+An extra dative seems to be very widespread with *zu* phrases in the interpretation *für den Geschmack von* Dative [cf. *dativus iudicantis*, @hole2014: 6-7]. This construction might be better considered to be an additional diathesis by itself.
 
 - Paul fuhr seiner Mutter zu schnell. Paul fuhr zu schnell für den Geschmack von seiner Mutter.
 - Ich komme dir zu früh an. Ich komme zu früh an für deinen Geschmack.
@@ -1541,7 +1549,7 @@ f. Er klopft mir den Schnee von den (meinen) Schuhen.
 f. Er klopft sich den Schnee von den Schuhen.
 :::
 
-This construction is closely related to adjectival resultative secondary predicates (see Section X) as in [@next].
+This construction is closely related to adjectival resultative secondary predicates as in [@next], see also [@sec:adverbials-resultative-predicates].
 
 ::: ex
 Er klopft den Aschenbecher leer.
@@ -1649,21 +1657,25 @@ For some verbs there appears to be a rather clear lexicalisation of the meaning 
 
 ### [ NA– | NLA ] Action result {#sec:prepositions-action-result}
 
-This alternation occurs with some transitive verbs like *brechen* 'to break' [@next a-g], cf. the *wipe* alternation in English from Levin [-@levin1993: 53]. Note that the accusatives at both sides of the alternation do not refer to the same roles. The original accusative is recast as a location, and a new accusative is introduced as the result of the action.
+This alternation occurs with some transitive verbs like *brechen* 'to break' [@next a,b], cf. the *wipe* alternation in English from Levin [-@levin1993: 53]. Note that the accusatives at both sides of the alternation do not refer to the same roles. The original accusative *Stein* 'stone' [@next a] is recast as a location [@next b], which is obligatory [@next c]. A new accusative *Kristall* 'crystal' is introduced as the result of the action. Typically the result is actually the removal of something, like *Fleck* 'stain' in [@nnext].
 
 ::: ex
-a. Ich breche den Felsen.
-b. Ich breche ein Loch in den Felsen.
-c. ^* Ich breche ein Loch.
-d. Durch das Brechen des Felsens sorge ich dafür, dass ein Loch darin entsteht.
-e. Ich breche ein Kristal aus dem Stein.
-f. ^* Ich breche ein Kristal.
-f. Durch das Brechen des Steins sorge ich dafür, dass ein Kristal heraus kommt.
+a. Ich breche den Stein.
+b. Ich breche einen Kristall aus dem Stein. \
+   (= Durch das Brechen des Steins sorge ich dafür, dass ein Kristall heraus kommt.)
+c. ^* Ich breche einen Kristall.
+:::
+
+::: ex
+a. Ich wasche meine Hose.
+b. Ich wasche den Fleck aus meiner Hose. 
+c. ^* Ich wasche den Fleck.
 :::
 
 These verbs also allow for a subsequent alternation [@next a,b], namely to raise a possessor from the prepositional phrase to a dative (see [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative]).
 
 ::: ex
+a. Er kämmt deine Haare.
 a. Er kämmt die Läuse aus deinen Haaren. 
 b. Er kämmt dir die Läuse aus den Haaren.
 :::
@@ -1681,7 +1693,6 @@ b. Er kämmt dir die Läuse aus den Haaren.
 - Ich schneide ein Loch in den Teppich. Ich schneide den Teppich.
 - Ich bügle die Falten aus dem Hemd. Ich bügle das Hemd.
 - Ich breche eine Tür in den Felsen. Ich breche den Felsen.
-- Ich wasche den Fleck aus der Hose. Ich wasche die Hose.
 
 ### [ Np– | NAA ] Naming result {#sec:prepositions-naming-result}
 

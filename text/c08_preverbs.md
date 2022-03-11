@@ -592,7 +592,7 @@ b. Der Arzt belebt mich.
 
 ### [ –N | NA ] Preverb adjectival causative {#sec:preverb-adjectival-causative}
 
-Many adjectives can be turned into verbs by adding a prefix. The semantic effect is to turn a state, like *grün sein* 'to be green [@next a] into a causative process *begrünen* 'to make green' [@next b].
+Many adjectives can be turned into verbs by adding a prefix. The semantic effect is to turn a state, like *grün sein* 'to be green [@next a] into a causative process *begrünen* 'to make green' [@next b]. Note that in some cases possible intermediate verbs like *grünen* existed (or still exist). However, the vebrs in this section consists of examples in which such an intermediate non-preverbal form is not, or only very rarely, attested.
 
 ::: ex
 a. Der Balkon ist grün.
@@ -1814,6 +1814,7 @@ Some applicatives turn a prepositional phrase into a dative. For example, *stamm
 - Die Polizei jagte auf einen Verbrecher. Die Polizei jagte dem Verbrecher nach.
 - Ich rede mit ihm. Ich rede ihm zu.
 - Ich nicke zu dem Kind. Ich nicke dem Kind zu.
+- Er floh vor dem Feind. Er entfloh der Gefahr.
 
 ### [ NpA | NDA ] Preverb dative applicative+accusative
 

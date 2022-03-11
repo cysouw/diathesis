@@ -197,7 +197,7 @@ a. Dein Ton gefällt mir nicht.
 b. Ich lasse mir deinen Ton nicht gefallen.
 :::
 
-The *Permissivkausativ* and the closely related *Passivkausativ* add a new participant to the sentence who causes to event to happen. Although both causatives are similar, there are various differences between the two variants of the causative. First, the erstwhile nominative is demoted to an accusative in the *Permissivkausativ* [@next], while it is demoted to an optional *von* prepositional phrase in the *passivkausativ* [@nnext]. Besides the different in role remapping, there is also a difference in applicability. Namely, there are various verbs that allow for a *Permissivkausativ* but not for a *Passivkausativ*. For examples, the verb *ausziehen* 'to take off, to undress' [@nnext b,c] is not compatible with a *Passivkausativ*. Finally, the *Permissivkausativ* can both have a causative [@next a] and a permissive [@next b] reading, while the *passivkausativ* cannot have a permissive interpretation, only the causative interpretation is possible [@nnext a].
+The *Permissivkausativ* and the closely related *Passivkausativ* add a new participant to the sentence who causes the event to happen. Although both causatives are similar, there are various differences between the two variants of the causative. First, the erstwhile nominative is demoted to an accusative in the *Permissivkausativ* [@next], while it is demoted to an optional *von* prepositional phrase in the *Passivkausativ* [@nnext]. Besides the difference in role remapping, there is also a difference in applicability. Namely, there are various verbs that allow for a *Permissivkausativ* but not for a *Passivkausativ*. For examples, the verb *ausziehen* 'to take off, to undress' [@nnext b,c] is not compatible with a *Passivkausativ*. Finally, the *Permissivkausativ* can both have a causative [@next a] and a permissive [@next b] reading, while the *Passivkausativ* cannot have a permissive interpretation, only the causative interpretation is possible [@nnext a].
 
 ::: ex
 ~~Permissivkausativ~~
@@ -854,7 +854,7 @@ The verb *sehen* 'to see' can both be used with a finite *dass* complement claus
 - Ich sehe dich dem Jungen ein Buch geben.
 - Ich habe dich dem Jungen das Buch geben sehen/gesehen.
 - Die Mutter war sehr ängstlich und hat ständig ihre Kinder unter einem Auto liegen sehen.^[In: Leibniz-Institut für Deutsche Sprache: *Wörterbuch zur Verbvalenz*. Grammatisches Informationssystem grammis. <https://grammis.ids-mannheim.de/verbs/view/400881/14>, accessed 22 July 2021] \
-  Bei ihrer Flucht habe sie auf den Hoteltreppen viele Leichen liegen gesehen.^[~~DWDS~~: ie Zeit, 27.11.2008, Nr. 48]
+  Bei ihrer Flucht habe sie auf den Hoteltreppen viele Leichen liegen gesehen.^[~~DWDS~~: Die Zeit, 27.11.2008, Nr. 48]
 :::
 
 ### [ –N | NA ] *hören+Infinitiv* Experiencer
