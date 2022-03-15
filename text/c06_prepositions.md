@@ -1533,7 +1533,7 @@ With some apparently intransitive verbs there exist special constructions with a
 
 However, the verb *klopfen* is very regularly used in construction like [@next d] with an accusative and a prepositional phrase. Both have to occur together, as leaving out either the prepositional phrase [@next e] or the Accusative [@next f] is not possible. This prepositional phrase is a locative and not a governed argument, because it cannot be replaced by a *davon, dass…* Phrase.
 
-The meaning of this special construction [@next d] is also special. The meaning is something like: by doing the action of the intransitive verb, nominative causes accusative to move in the direction described by the prepositional phrase [@next g], cf. Goldberg's (2006: 73) famous example "She sneezed the foam off the cappuccino."
+The meaning of this special construction [@next d] is also special. The meaning is something like: by doing the action of the intransitive verb, nominative causes accusative to move in the direction described by the prepositional phrase [@next g], cf. Goldberg's (2006: 73) famous example *She sneezed the foam off the cappuccino*.
 
 Note that with possessor raising (see [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative]) it is even possible to add an additional dative argument, leading to an 'intransitive' verb with an obligatory dative, accusative and prepositional argument [@next h]. This dative can also be turned into a reflexive [@next i].
 
@@ -1624,7 +1624,7 @@ e. Ich befehle die Armee, während ich an der Front bin.
 
 ### [ NA– | NAP ] Performative result {#sec:prepositions-performative-result}
 
-A slightly different variant of a resultative constructions is found with various performative verbs that take a regular accusative [@next a]. As an alternative structure, these verbs also allow a construction with an accusative and a preposition [@next b] Note that the prepositional phrase cannot be left out in these constructions. The meaning of such constructions is parallel to the previous resultatives, in that the performative verb causes the result "accusative is prepositional object" [@next c]. Such constructions were named quite aptly "Ergänzende Wirkung" all the way back in the influential educational grammatical work of Karl Ferdinand Becker [@becker1833: 81] almost 200 years ago.
+A slightly different variant of a resultative constructions is found with various performative verbs that take a regular accusative [@next a]. As an alternative structure, these verbs also allow a construction with an accusative and a preposition [@next b] Note that the prepositional phrase cannot be left out in these constructions. The meaning of such constructions is parallel to the previous resultatives, in that the performative verb causes the result [@next c]. Such constructions were named quite aptly "Ergänzende Wirkung" all the way back in the influential educational grammatical work of Karl Ferdinand Becker [@becker1833: 81] almost 200 years ago.
 
 ::: ex
 a. Er macht die Aufgaben. 
@@ -1715,7 +1715,7 @@ b. Sie schimpft mich einen Narren
 
 ### [ NAp | NAD ] *für* Benefactive dative {#sec:prepositions-benefactive-dative}
 
-The alternation of a dative with a *für* prepositional phrase is very widespread [@next a,b]. It can be used with verbs that can be performed on behalf of somebody else "nach deinem Wunsch" (benefactive/dativus commodi). In German grammar it is sometimes referred to as a 'free dative' because it can be easily dropped completely. As Eisenberg [-@eisenberg2006a: 298] remarks, it is widespread, but cannot be used with all verbs and is thus a device for the subclassification of verbs.
+The alternation of a dative with a *für* prepositional phrase is very widespread [@next a,b]. It can be used with verbs that can be performed on behalf of somebody else (i.e. ~~benefactive~~, sometimes called ~~dativus commodi~~). In German grammar it is sometimes referred to as a 'free dative' because it can be easily dropped completely. As Eisenberg [-@eisenberg2006a: 298] remarks, such datives are widespread, but cannot be used with all verbs and are thus a phenomenon that can be used for the subclassification of verbs.
 
 ::: ex
 a. Ich koche dir eine Suppe.
@@ -1761,7 +1761,7 @@ c. ^* Der Affe saß ihm ruhig.
 d. Der Affe saß auf seiner Schulter.
 :::
 
-Coreference ("reflexive double marking") is possible between dative and possessor [@next a], but in the third person this does not lead to a reflexive *sich* [@next b,c]. This is a clear indication that the dative and the possessor have to refer to the same participant. It is impossible for them to be not coreferent, so there is no possible confusion in the third person, so there is no need for a disambiguating reflexive pronoun.
+Coreference (i.e. reflexive double marking) is possible between dative and possessor [@next a], but in the third person this does not lead to a reflexive *sich* [@next b,c]. This is a clear indication that the dative and the possessor have to refer to the same participant. It is impossible for them to be not coreferent, so there is no possible confusion in the third person, so there is no need for a disambiguating reflexive pronoun.
 
 ::: ex
 a. Der Affe saß mir auf meiner Schulter.

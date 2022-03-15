@@ -1041,7 +1041,7 @@ d. ^* Meine Füße brennen dir.
 
 **Notes**
 
-Coreference ("reflexive double marking") is possible [@next a], but in the third person this does not lead to a reflexive pronoun *sich* [@next b,c]:
+Coreference (i.e 'reflexive double marking') is possible [@next a], but in the third person this does not lead to a reflexive pronoun *sich* [@next b,c]:
 
 ::: ex
 a. Mir stinken meine Socken.

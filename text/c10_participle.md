@@ -230,7 +230,7 @@ b. Der Beschuldigte fühlt sich *schlecht*. \
 
 ### Temporal interpretation of participle constructions {#sec:participles-temporal-interpretation}
 
-A widely discussed property of participle construction is the temporal structure of the resulting expression [cf. @hohle1978: 42; @nedjalkov1988a: 412; @maienborn2007: 88; @businger2017: 162, among many others]. There is a recurrent difference between ~~tense-oriented~~ and ~~perfect-oriented~~ participle constructions [perfect in the sense of @comrie1976: Ch. 3]. The role of perfective and imperfective aspectual meanings is rather inconclusive, so I propose to focus on slightly odd opposition "tense vs. perfect" as the main diagnostic for the differences in temporal structure established by participle constructions. Note that in the German grammatical tradition there is a verb form called *Perfekt* that, confusingly, is primarily tense-oriented and not perfect-oriented (more on this below). 
+A widely discussed property of participle construction is the temporal structure of the resulting expression [cf. @hohle1978: 42; @nedjalkov1988a: 412; @maienborn2007: 88; @businger2017: 162, among many others]. There is a recurrent difference between ~~tense-oriented~~ and ~~perfect-oriented~~ participle constructions [perfect in the sense of @comrie1976: Ch. 3]. The role of perfective and imperfective aspectual meanings is rather inconclusive, so I propose to focus on slightly odd opposition 'tense vs. perfect' as the main diagnostic for the differences in temporal structure established by participle constructions. Note that in the German grammatical tradition there is a verb form called *Perfekt* that, confusingly, is primarily tense-oriented and not perfect-oriented (more on this below). 
 
 A construction is ~~tense-oriented~~ when it is possible to add a punctual non-present temporal adverbial to the participle construction, like *gestern* 'yesterday', *morgen* 'tomorrow', or *vor zwei Tagen* 'two days ago'. Contemporaneous adverbials, like *jetzt* 'now' or *heute* 'today' are not useful to test for tense-orientation, as they are also compatible with perfect-orientation. For example, the *werden* Passive in [@next a] and the *bekommen* Dative Passive in [@next b] are both tense-oriented. In contrast, the *bleiben* anticausative in [@nnext a] and the *wissen* Opiniativ in [@nnext b] are both not tense-oriented.
 
@@ -335,16 +335,16 @@ c. Jetzt wird geschlafen.
 d. ^* Das geschlafene Kind schnarcht.
 :::
 
-However, there is much more variation in the distribution of light-verb constructions besides just agentives and patientives, as summarised in [@tbl:light-verb-constructions]. Basically, every theoretical possibility of light-verb construction is attested (except for neither *sein* nor *haben*). The real challenge concealed behind the unaccusativity hypothesis is the question how widespread all of these possibilities are. The *einschlafen*-class ("patientive") and the *schlafen*-class ("agentive") are undoubtedly large classes of intransitive verbs in German. However, it is a clear desideratum for research in corpus-based lexicology to exhaustively classify verbs in this way. Only then will it be possible to judge which classes are significant for German grammar (and which classes, if any, consist of only incidental exceptional examples).
+However, there is much more variation in the distribution of light-verb constructions besides just agentives and patientives, as summarised in [@tbl:light-verb-constructions]. Basically, every theoretical possibility of light-verb construction is attested (except for neither *sein* nor *haben*). The real challenge concealed behind the unaccusativity hypothesis is the question how widespread all of these possibilities are. The *einschlafen*-class (~~patientive~~) and the *schlafen*-class (~~agentive~~) are undoubtedly large classes of intransitive verbs in German. However, it is a clear desideratum for research in corpus-based lexicology to exhaustively classify verbs in this way. Only then will it be possible to judge which classes are significant for German grammar (and which classes, if any, consist of only incidental exceptional examples).
 
 | verb           | *sein* | *haben* | *werden* |
 |:-------------- |:------:|:-------:|:--------:|
-| *einschlafen*  |  +   |    –    |     –    |
-| *fallen*       |  +   |    –    |    +   |
-| *rosten*       |  +   |   +   |     –    |
-| *klettern*     |  +   |   +   |    +   |
-| *bluten*       |   –    |   +   |     –    |
-| *schlafen*     |   –    |   +   |    +   |
+| *einschlafen*  |   +    |    –    |     –    |
+| *fallen*       |   +    |    –    |    +     |
+| *rosten*       |   +    |    +    |     –    |
+| *klettern*     |   +    |    +    |    +     |
+| *bluten*       |   –    |    +    |     –    |
+| *schlafen*     |   –    |    +    |    +     |
 
 Table: Possible combinations of light-verbs with participles {#tbl:light-verb-constructions}
 
@@ -1429,7 +1429,7 @@ Only a small subset of all verbs with a dative argument allow for an impersonal 
 
 - Auch in diesem Fall wird dem Gesprächspartner zuerst beigepflichtet, indem [...].^[Attested online at <https://wortwuchs.net/stilmittel/concessio/>, accessed 6 Juni 2021]
 - Ich weiß nicht, wie weit dem Zola-Roman gefolgt wird.^[~~DWDS~~: Klemperer, Victor: [Tagebuch] 1928. In: "Leben sammeln, nicht fragen wozu und warum", Berlin: Aufbau-Taschenbuch-Verl. 2000, S. 258]
-- Ich habe angeordnet, daß allen Spuren […] nachgegangen wird."^[~~DWDS~~: Der Spiegel, 16.01.1989]
+- Ich habe angeordnet, daß allen Spuren […] nachgegangen wird.^[~~DWDS~~: Der Spiegel, 16.01.1989]
 
 ### --- [ SBJ > Ø ] --- {.unnumbered}
 

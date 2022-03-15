@@ -255,7 +255,7 @@ The verb *sich schicken* 'to acquiesce' is an old-fashioned meaning of *schicken
 
 A special group of verbs in this class are verbs with an reciprocal *mit* preposition, like *einigen* 'to reach an agreement' [@next a]. On first notice, the *mit* phrase might look like a comitative argument [@nnext a]. Just like comitative phrases, reciprocal *mit* phrases are not governed prepositions, compare [@next b,c] and [@nnext b,c], see also [@sec:prepositions-comitative-intrumental]. However, different from comitative phrases, reciprocal *mit* phrases do not allow for the addition of *zusammen* [@next c], nor can *with* be replaced by *ohne* [@next d]. The addition of *zusammen* and the replacement with *ohne* is possible with comitative *mit* [@nnext c,d]. 
 
-Verbs with reciprocal *mit* are sometimes called "real reciprocals" [or "reciproca tantum", @wiemer2007: 467-468] because they can be considered to be inherently reciprocal, although they still can have a singular subject (see [@sec:reflexive-accusative-reciprocal] for the reciprocal constructions with plural subjects).
+Verbs with reciprocal *mit* are sometimes called 'real' reciprocals [or "reciproca tantum", @wiemer2007: 467-468] because they can be considered to be inherently reciprocal, although they still can have a singular subject (see [@sec:reflexive-accusative-reciprocal] for the reciprocal constructions with plural subjects).
 
 ::: ex
 a. Ich habe mich mit meinem Nachbarn geeinigt.
@@ -389,7 +389,7 @@ It is exceedingly rare to have a dative *sich* without other arguments. A possib
 
 ### [ NA ] Obligatory dative reflexive+accusative {#sec:reflexive-obligatory-dative-accusative}
 
-A dative *sich* with an obligatory accusative is clearly attested, though not very frequent. Note that the meaning of these verbs all include some kind of (cognitive) appropriation, like with *vorstellen* 'image' [@next a]. The prefix *er-* occurs recurrently with the meaning "to appropriate something successfully", like with *erspielen* 'to win' [@next b].
+A dative *sich* with an obligatory accusative is clearly attested, though not very frequent. Note that the meaning of these verbs all include some kind of (cognitive) appropriation, like with *vorstellen* 'image' [@next a]. The prefix *er-* occurs recurrently with the meaning 'to appropriate something successfully', like with *erspielen* 'to win' [@next b].
 
 ::: ex
 - Ich stelle mir das Ergebnis vor.
@@ -778,7 +778,7 @@ b. Ich antworte mir dann mal selber.
 c. Ich gleiche mir nicht einen Augenblick.^[~~DWDS~~: Goethe: Schertz, List und Rache.]
 :::
 
-Note: also possible with "free" datives?
+Note: also possible with 'free' datives?
 
 ::: ex
 a. Ich baue ihm ein Haus. 
@@ -838,7 +838,7 @@ b. Ich schenke mir (selbst) eine Tafel Schokolade.
 - Er drängt mir eine Theorie auf. Er drängt sich mir auf.
 - Ich habe mir eine Decke übergelegt/übergeworfen.
 
-With verbs that allow for the possessor-of-accusative dative alternation ("possessor datives", see [#sec:case-possessor-accusative-to-dative], e.g. *versalzen, zerbrechen*) this dative reflexive can lead to sentences with three coreferent words [@next a,b].
+With verbs that allow for the possessor-of-accusative dative alternation ('possessor datives', see [#sec:case-possessor-accusative-to-dative], e.g. *versalzen, zerbrechen*) this dative reflexive can lead to sentences with three coreferent words [@next a,b].
 
 ::: ex
 a. Ich putze mir meine Schuhe.
@@ -1275,7 +1275,7 @@ c. Das Resultat rechnet sich (für mich).
 
 ### [ NA | PN ] Reflexive conversive {#sec:reflexive-preposition-passive}
 
-These verbs are similar to *sich* transitive anticausative, but the "von Geisterhand" reading is not possible. The original nominative can be retained as a prepositional phrase [@next a,b]. All these prepositional phrases are governed prepositions [@next c]. Interestingly, there appears to be a wide variety of propositions that are governed by the various verbs that allow for this diathesis. In many of these verbs, the role of the reflexive argument appears to be more of an experiencer than a real agent. A German name like 'Erlebnispassiv' might be suitable for this diathesis.
+These verbs are similar to *sich* transitive anticausative, but the 'von Geisterhand' reading is not possible. The original nominative can be retained as a prepositional phrase [@next a,b]. All these prepositional phrases are governed prepositions [@next c]. Interestingly, there appears to be a wide variety of propositions that are governed by the various verbs that allow for this diathesis. In many of these verbs, the role of the reflexive argument appears to be more of an experiencer than a real agent. A German name like 'Erlebnispassiv' might be suitable for this diathesis.
 
 ::: ex
 a. Der Preis empört den Kunden.

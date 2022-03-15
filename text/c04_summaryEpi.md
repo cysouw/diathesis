@@ -37,7 +37,7 @@ The epithetical constructions listed in this chapter are basically organised alo
 
 ~~Tense~~ will almost not be mentioned here, mainly because it does not play an important role in German epithesis. The discussion of ~~aspect~~ is separated into two kinds: temporal aspect ([@sec:epithesis-temporal-aspect]) and spatial aspect ([@sec:epithesis-spatial-aspect]). ~~Modality~~ includes the well-described modal verbs, but also some other less-widely discussed modal constructions ([@sec:epithesis-mood]). ~~Evidentiality~~ deals with the marking evidence that the speaker has for a statement. This turns out to be a very useful category for the analysis of various German epithetical constructions ([@sec:epithesis-evidentiality]). 
 
-Additionally, I have added a section with epithetical construction that are functionally alike to a diathesis, but there is not formal remapping of roles. These constructions can be considered to be on the boundary between epithesis and diathesis. Structurally they are clearly epithetic, because there is no role-remapping. Yet, these constructions express a change in the relation between the participants and the lexical verb, so they might functionally be included in the realm of diathesis. For lack of a better term I have called them ~~diathetical epentheses~~ ([@sec:epithesis-diathetical]).
+Additionally, I have added a section with epithetical construction that are functionally alike to a diathesis, but there is not formal remapping of roles. These constructions can be considered to be on the boundary between epithesis and diathesis. Structurally they are clearly epithetic, because there is no role-remapping. Yet, these constructions express a change in the relation between the participants and the lexical verb, so they might functionally be included in the realm of diathesis. For lack of a better term I have called them ~~diathetical epetheses~~ ([@sec:epithesis-diathetical]).
 
 ## Temporal aspect {#sec:epithesis-temporal-aspect}
 
@@ -362,9 +362,9 @@ b. Es ist bekannt, dass das Wetter gut zu werden verspricht.
 c. Es ist bekannt, dass er verspricht, das Licht auszuschalten.
 :::
 
-## Diathetical epentheses {#sec:epithesis-diathetical}
+## Diathetical epethesis {#sec:epithesis-diathetical}
 
-By definition, diathesis has to include changes to the grammatical marking of the participants. The alternations described in this section do not show any change in the marking of the participants, so, again by definition, they are classified as epitheses. However, functionally these constructions are close to diatheses in that the relation between the participants and the verb is changed in some way.
+By definition, diathesis has to include changes to the grammatical marking of the participants. The alternations described in this section do not show any change in the marking of the participants, so, again by definition, they are classified as examples of epithesis. However, functionally these constructions are close to diatheses in that the relation between the participants and the verb is changed in some way.
 
 ### *Verborgener Zustandskausativ* (*kommen+zu‑Infinitiv*) {#sec:epithesis-zustandskausativ}
 

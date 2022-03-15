@@ -1115,7 +1115,7 @@ d. Der Wind verweht die Blätter.
 
 ### [ NLA | NA– ] Preverb applicative+accusative drop {#sec:preverb-location-antiresultative}
 
-This diathesis is the reversal of the "action result" diathesis (see [@sec:prepositions-action-result]). The result of a verb like *pressen* 'to squeeze' is *Saft* 'juice' [@next a]. With a preverb *auspressen* 'to squeeze' drops this accusative result and promotes the origin of the result *Zitrone* 'citron' [@next b].
+This diathesis is the reversal of the ~~action result~~ diathesis (see [@sec:prepositions-action-result]). The result of a verb like *pressen* 'to squeeze' is *Saft* 'juice' [@next a]. With a preverb *auspressen* 'to squeeze' drops this accusative result and promotes the origin of the result *Zitrone* 'citron' [@next b].
 
 ::: ex
 a. Ich presse den Saft aus der Zitrone.

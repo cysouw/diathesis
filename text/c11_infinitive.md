@@ -500,7 +500,7 @@ b. ^* Nach Fisch lässt es sich stinken.
 
 The light verb *heißen* can be used with an infinitive in various different constructions. A widespread option is a demotive usage with intransitive verbs, like *warten* 'to wait' [@next a]. The original subject is demoted, but can optionally be retained as a *für* prepositional phrase. As there is no new subject introduced, an obligatory valency-simulating pronoun *es* is introduced. 
 
-Transitive verbs can be used in this construction, but only when the object does not have an article [@next b]. Such objects can be considered to be incorporated objects, and there is a recurrent debate in German orthography whether such objects should be written separated by a space or not. Semantically, this *heißen+Infinitiv* construction is very close to the *gelten+zu‑Infinitiv* (see [@sec:zuinfinitive-gelten-demotion]). Both express a kind of externally induced necessesity (i.e. modal "müssen").
+Transitive verbs can be used in this construction, but only when the object does not have an article [@next b]. Such objects can be considered to be incorporated objects, and there is a recurrent debate in German orthography whether such objects should be written separated by a space or not. Semantically, this *heißen+Infinitiv* construction is very close to the *gelten+zu‑Infinitiv* (see [@sec:zuinfinitive-gelten-demotion]). Both express a kind of externally induced necessesity (i.e. modal *müssen*).
 
 ::: ex
 - Alles andere wartet. \
