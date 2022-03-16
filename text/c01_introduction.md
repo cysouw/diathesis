@@ -32,8 +32,6 @@ It might come as a surprise that there are so many different diatheses in German
 
 A diathesis is defined here as special kind of alternation between two different clause constructions. To properly define the notion 'diathesis', I will first define 'alternation' in general. Next, the definition of 'clause alternation' will be built on that basis. Finally, a diathesis will then be defined as special kind of clause alternation. A few crucial concepts that are used in the following definitions will be discussed in more detail in subsequent sections.
 
-#### Alternation {.unnumbered}
-
 An ~~alternation~~ (or simply 'grammatical marking') is defined as follows:
 
 - An alternation consist of two different linguistic constructions, i.e. there are two alternants.
@@ -47,8 +45,6 @@ Alternations are the basis of all grammatical analysis.^[There is an interesting
 i. morphological oppositions, like singular *Haus* 'house' vs. plural *Häuser* 'houses'.
 ii. oppositions of grammatical forms, like synthetic present *er schläft* 'he sleeps' vs. analytic perfect *er hat geschlafen* 'he has slept' 
 iii. different sentence constructions attested with specific verbs, like transitive *Ich verkaufe das Buch* 'I sell the book' vs. reflexive anticausative with obligatory adverbial *Das Buch verkauft sich gut* 'the book is selling well' (see [@sec:adverbial-reflexive-transitive-anticausative]).
-
-#### Clause alternation {.unnumbered}
 
 Based on the definition of an alternation, a ~~clause alternation~~ is defined as follows:
 
@@ -70,8 +66,6 @@ c. Er hat das Haus angesehen. \
 d. Er erledigt seine Hausaufgaben. \
    Ich hoffe, dass er seine Hausaufgaben erledigt.
 :::
-
-#### Diathesis {.unnumbered}
 
 Based on the notion of a clause alternation, a ~~diathesis~~ (sometimes also known as 'valency alternation') is defined as follows:
 

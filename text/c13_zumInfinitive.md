@@ -447,7 +447,7 @@ The *haben+am‑Infinitiv* construction is a fascinating construction that needs
 
 The basic clause of this diathesis has an agentive intransitive verb, like *brennen* 'to burn' [@next a]. A new subject is added to the sentence, and the old subject is demoted to accusative [@next b]. This new subject is an experiencer of the original basic clause, which can also be expressed as an experiencer dative [@next c], see [@sec:case-possessor-of-nominative-to-dative-experiencer]. This experiencer is always inherently the possessor of the original subject [@next d]. 
 
-This means that the subject of a *haben+am‑Infinitiv* construction (here *Der Student* 'the student') is always inherently the possessor of the object of this construction (here *die Wohnung* 'the apartment'). All diathesis that include such inherent possession are have the word *pertinenz* as part of their German name. The current diathesis is thus called ~~Pertinenzinversiv~~.
+This means that the subject of a *haben+am‑Infinitiv* construction (here *Der Student* 'the student') is always inherently the possessor of the object of this construction (here *die Wohnung* 'the apartment'). All diathesis that include such inherent possession are have the word *pertinenz* as part of their German name. The current diathesis is thus called ~~Pertinenzinversiv~~. This diathesis is closely related to the *Ortspertinenzinversive*, see [@sec:infinitive-haben]. Both diatheses are semantically and structurally similar, though curiously the *Ortspertinenzinversive* uses a *haben+Infinitiv* construction without *am*.
 
 ::: ex
 a. Die Wohnung brennt.

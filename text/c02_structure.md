@@ -6,7 +6,7 @@ In their cross-linguistic survey of diathesis, Zuñiga & Kittilä [-@zuniga2019]
 
 A diathesis (as defined here) is an alternation between two clausal construction. To be more precise, this is what is called a 'diathetical operation' in Zuñiga & Kittilä [-@zuniga2019: 4], see [@sec:intro-diathetical-operations]. Each of the alternants show a different mapping of (grammatical) expressions onto (semantic) roles. Individually, each such mapping between expressions and roles is called a 'diathesis' in Zuñiga & Kittilä [-@zuniga2019: 4]. However, because I will only consider diathetical operations between an unmarked basic clause and a marked alternant, I have decided to simplify the terminology in this book. Both the alternation itself (Zuñiga & Kittilä's 'diathetical operation', e.g. 'causativisation') and the derived alternant (Zuñiga & Kittilä's 'diathesis', e.g. 'causative') will be referred to here simply as a ~~diathesis~~, from Greek *διάθεσις* 'placement in order, (re)arrangement'.
 
-A side-effect of this approach is that 'active' is not a diathesis, but simply the unmarked counterpart of a diathetical operation. Even stronger, I will refrain from using the term 'active' because it immediately conjures up 'passive' as its antithesis. This opposition is too much of an oversimplification as 'passive' is just one of the hundreds of possible diatheses. Also, the 'active' does not necessarily describes an action, so content-wise this term is also ill-fitting. As an alternative, I will use the term ~~basic clause~~ as the unmarked base of comparison for all clause alternations. A basic clause is a clause with a single (finite) verb from, either in the German *Präsens* or *Imperfekt* tense.^[Strictly speaking, a basic clause can also be a clause with a single finite verb form in the *Konjunktiv I* or *Konjunktiv II*. However, because these are rather rare nowadays I have hidden this option in this footnote.] All other verb forms, including the *Perfekt* and the other traditional German tense-aspect distinctions, are all ~~derived clauses~~, i.e. the result of some kind of clause alternations. A clause alternation without diathesis will be called ~~epithesis~~, from Greek *ἐπίθεσις* 'placement upon, imposition'. Epithesis is grammatical marking 'on top of' a basic clause.^[There appears to be a rare alternative usage to the term 'epithesis' in linguistics to indicate the addition of a sound to the end of the word, i.e. a special kind of epenthesis, see for example <http://www.websters1913.com/words/Epithesis>.] A summary of all major epithetical constructions will be presented in the next Chapter [-@sec:epithesis].
+A side-effect of this approach is that 'active' is not a diathesis, but simply the unmarked counterpart of a diathetical operation. Even stronger, I will refrain from using the term 'active' because it immediately conjures up 'passive' as its antithesis. This opposition is too much of an oversimplification as 'passive' is just one of the hundreds of possible diatheses. Also, the 'active' does not necessarily describes an action, so content-wise this term is also ill-fitting. As an alternative, I will use the term ~~basic clause~~ as the unmarked base of comparison for all clause alternations. A basic clause is a clause with a single (finite) verb from, either in the German *Präsens* or *Präteritum* tense.^[Strictly speaking, a basic clause can also be a clause with a single finite verb form in the *Konjunktiv I* or *Konjunktiv II*. However, because these are rather rare nowadays I have hidden this option in this footnote.] All other verb forms, including the *Perfekt* and the other traditional German tense-aspect distinctions, are all ~~derived clauses~~, i.e. the result of some kind of clause alternations. A clause alternation without diathesis will be called ~~epithesis~~, from Greek *ἐπίθεσις* 'placement upon, imposition'. Epithesis is grammatical marking 'on top of' a basic clause.^[There appears to be a rare alternative usage to the term 'epithesis' in linguistics to indicate the addition of a sound to the end of the word, i.e. a special kind of epenthesis, see for example <http://www.websters1913.com/words/Epithesis>.] A summary of all major epithetical constructions will be presented in the next Chapter [-@sec:epithesis].
 
 The actual linguistic marking of the diathesis (for example by verbal morphology or auxiliaries) is called 'grammatical voice' in Zuñiga & Kittilä [-@zuniga2019: 4]. In this book, each diathesis is defined as a combination of a (re-)mapping of roles and a specific kind of linguistic marking of the main predicate. So again, this extra terminological distinction is not necessary. The formal expression ('grammatical voice') is simply a definitional part of each diathesis here. The different kinds of grammatical voice in German are used in this book as a major organisational characteristic for the separation of the data chapters (see [@sec:intro-voice]).
 
@@ -324,7 +324,7 @@ b. Der Lehrer beantwortet deine Frage.
 c. Deine Frage beantwortet sich von selbst.
 :::
 
-Diatheses are applied one after the other, i.e. the order of the diatheses in a stack is of crucial importance. Basically, a stack is just a list of clause alternations applied one after the other. Semantically this means that each subsequent clause alternation has scope over the previous one. This can for example be written down using a symbol like +> to indicate the additive (+) and sequential (>) nature of the combination. The stack above can then be analysed as: [@last c] = [@last a] +> *be-* applicative +> reflexive anticausative. This notation leads to concise analyses, as for example shown in [@next] for the difference between [@next a] and [@next b]. 
+Diatheses are applied one after the other, i.e. the order of the diatheses in a stack is of crucial importance in most cases (unordered stacks exist, but are unusual, see [@sec:intro-disjunct-diatheses]). Basically, a stack is just a list of clause alternations applied one after the other. Semantically this means that each subsequent clause alternation has scope over the previous one. This can for example be written down using a symbol like +> to indicate the additive (+) and sequential (>) nature of the combination. The stack above can then be analysed as: [@last c] = [@last a] +> *be-* applicative +> reflexive anticausative. This notation leads to concise analyses, as for example shown in [@next] for the difference between [@next a] and [@next b]. 
 
 ::: ex
 a. Der Lehrer hat die Aufgabe lösen wollen. \
@@ -406,7 +406,7 @@ Many diatheses just remap a single role. Such sole diatheses are called ~~isolat
 
 ### Chained diatheses
 
-When two roles are remapped by a single diathesis it is surprisingly frequent for them to be chained. In a ~~chained diathesis~~ the resulting form of one remapping is the start of the second. This can be conceptualised as a 'push' chain in which one remapping induces another because German grammar strongly disprefers multiple constituents of the same kind (e.g. two accusatives) in the same clause.
+When two roles are remapped by a single diathesis it is surprisingly frequent for them to be chained. In a ~~chained diathesis~~ the resulting form of one remapping is the start of the second. This can be conceptualised as a 'push' chain in which one remapping induces another. A reason for the prevalence of such chains might be that German grammar strongly disprefers multiple constituents of the same kind (e.g. two accusatives) in the same clause.
 
 Chained diatheses typically occur when the nominative subject is involved in the diathesis. There can only be a single nominative subject in a German clause, and it is highly unusual to have a sentence without a nominative subject. This implies that any diathesis involving the nominative subject typically includes two remappings, namely one from something else to nominative and a second remapping of the erstwhile nominative to something else.
 
@@ -424,7 +424,7 @@ Diatheses without involvement of the nominative subject are more flexible, in th
 ::: ex
 ~~[ADJ › OBJ › ADJ]~~
 
-a. Sie kochte kubanisches Essen für ihre Freundin.
+a. Sie kocht kubanisches Essen für ihre Freundin.
 b. Sie bekocht ihre Freundin mit kubanischem Essen.
 :::
 
@@ -462,14 +462,14 @@ a. Der Koch schmeckt die Pfefferminze in der Suppe.
 b. Die Suppe schmeckt nach Pfefferminze
 :::
 
-### Disjunct diatheses
+### Disjunct diatheses {#sec:intro-disjunct-diatheses}
 
 ~~disjunct diatheses~~ consist of a combination of multiple role-remappings that are not linked to each other. Just as with the multi-chained diatheses from the previous section, disjunct diatheses regularly occur as the result of stacking of diatheses. In contrast, they are very rare in individual diatheses.
 
-When multiple diatheses are stacked, i.e. whey they are applied sequentially on top of each other, they are often structurally independent. For example, the verb *waschen* 'to wash' [@next a] can be used in a resultative construction [@next b] in which the role of washee *Hemd* 'shirt' is turned from an accusative into a location ~~[OBJ › PBJ]~~ and a new accusative object is introduced for the role of the result *Fleck* 'stain' ~~[Ø › OBJ]~~, see [@sec:prepositions-action-result]. Independent of this chained diathesis, the possessor of the object *Nachbar* 'neighbour' can be raised to genitive [@next c], see [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative].
+When multiple diatheses are stacked, i.e. whey they are applied sequentially on top of each other, they are sometimes structurally independent (and thus unordered). For example, the verb *waschen* 'to wash' [@next a] can be used in a resultative construction [@next b] in which the role of washee *Hemd* 'shirt' is turned from an accusative into a location ~~[OBJ › PBJ]~~ and a new accusative object is introduced for the role of the result *Fleck* 'stain' ~~[Ø › OBJ]~~, see [@sec:prepositions-action-result]. Independent of this chained diathesis, the possessor of the object *Nachbar* 'neighbour' can be raised to genitive [@next c], see [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative].
 
 ::: ex
-~~[Ø › OBJ › PBJ; ADJ › OBJ]~~
+~~[Ø › OBJ › PBJ + ADJ › OBJ]~~
 
 a. Ich wasche das Hemd des Nachbarn.
 b. Ich wasche den Fleck aus dem Hemd des Nachbarn.
@@ -479,7 +479,7 @@ c. Ich wasche dem Nachbarn den Fleck aus dem Hemd.
 There are only a few incidental examples of such disjunct diatheses without stacking. The following four examples all only occur with a very limited number of verbs. First, the verb *deuten* can be used both to mean 'interpret' [@next a] and 'forebode' [@next b] with a rather transparent connection between the two. However, the role-remappings are quite complex, see [@sec:prepositions-anticausative-preposition-addition].
 
 ::: ex
-~~[Ø › PBJ; OBJ › SBJ › Ø]~~
+~~[Ø › PBJ + OBJ › SBJ › Ø]~~
 
 a. Ich deute den Traum. 
 b. Der Traum deutet auf nichts Gutes. 
@@ -488,7 +488,7 @@ b. Der Traum deutet auf nichts Gutes.
 Second, some preverbs lead to disjunct diatheses, like with *schweigen* 'to remain silent' and *verschweigen* 'to conceal' [@next], see [@sec:preverb-double-applicative].
 
 ::: ex
-~~[ADJ › OBJ; PBJ › OBJ]~~
+~~[ADJ › OBJ + PBJ › OBJ]~~
 
 a. Ich schweige zu dir über meinen Besuch.
 b. Ich verschweige dir meinen Besuch.
@@ -497,14 +497,14 @@ b. Ich verschweige dir meinen Besuch.
 Further examples are resultatives for a few verbs of naming like *schimpfen* 'to scold' [@next], see [@sec:prepositions-naming-result]. The disjunct diathesis in [@nnext] is less clear, as it might be better analysed as a stack, see [@sec:prepositions-nominative-demotion-dative-addition].
 
 ::: ex
-~~[Ø › OBJ; ADJ › OBJ]~~
+~~[Ø › OBJ + ADJ › OBJ]~~
 
 a. Sie schimpft auf mich.
 b. Sie schimpft mich einen Narren
 :::
 
 ::: ex
-~~[Ø › OBJ; SBJ › ADJ]~~
+~~[Ø › OBJ + SBJ › ADJ]~~
 
 a. Der Sommer ist kalt.
 b. Mir ist kalt im Sommer.
@@ -513,7 +513,7 @@ b. Mir ist kalt im Sommer.
 The only somewhat more widespread disjunct diathesis is the resultative construction that can arise with some apparently intransitive verbs like *schwitzen* 'to sweat' [@next]. This diathesis introduces two roles at once: a result *Fleck* 'stain' and an obligatory location *Hemd* 'shirt', see [@sec:prepositions-intransitive-location-as-result].
 
 ::: ex
-~~[Ø › OBJ; Ø › PBJ]~~
+~~[Ø › OBJ + Ø › PBJ]~~
 
 a. Ich schwitze.
 b. Ich schwitze einen Fleck in mein Hemd.
@@ -529,11 +529,11 @@ In this section I will describe in more detail how these names are used and defi
 
 One widespread term that I will avoid is the term 'middle' (and likewise the Latinate equivalent term 'medium'). This term for a diathesis is already attested as *μεσότης* in the oldest known Greek grammatical text, the *τέχνη γραμματική* of Dionysius Thrax, and it has become a mainstay in the grammatical literature ever since.^[Thrax writes: *διαθέσεις εἰσὶ τρεῖς, ἐνέργεια, πάθος, μεσότης* "there are three diatheses, active, passive and middle" [@uhlig1883: 48].] The phenomena that are called 'middle' in the literature are highly variable, and there is no consensus about what kind of diathesis this term is supposed to designate, other than something that is neither active nor passive [see @zuniga2019: 168-177 for a thorough summary of the complex philological history of the term middle/medium]. Such a broad and ill-defined term is not useful for a detailed analysis of the large variety of attested role-remappings in German.
 
-The discussion about the different names for macrorole patterns will be split into four parts. First, the following two sections will present names for diatheses involving the nominative subject. Subsequent sections will discuss diatheses not involving the subject. In both discussions, a central distinction will be made between isolated diatheses and chained diatheses (see [@sec:intro-chaining]).
+The discussion about the different names for macrorole patterns will be split into four parts. First, the next two sections will present names for diatheses involving the nominative subject. Subsequent sections will discuss diatheses not involving the subject. In both discussions, a central distinction will be made between isolated diatheses and chained diatheses (cf. [@sec:intro-chaining]).
 
 ### Isolated subject diatheses {#sec:intro-isolated-subject-diathesis}
 
-Isolated diatheses that involve a nominative subject are not widespread in German. The most widespread kind is the drop of the subject ~~[SBJ › Ø]~~, i.e. the complete removal of the role marked as nominative subject without any further accompanying role-remapping or reintroduction of a new subject. This is typically attested with intransitive verbs: after removing the single available role, there is no other role introduced to fill the structural subject position. Semantically, such diatheses put the focus on the activity as described by the verb itself, so I propose to call them ~~verbative~~ diatheses.^[Unfortunately, there is another use of the term *Verbativ* in the German grammatical tradtition, which originates in the work of Engel [e.g. @engel1996: 198, 251, 347]. Engel's concept is completely different from my concept here. We just happened to stumble upon the same neologism.] Note that there is a strong tendency for every German sentence to formally have a nominative subject with verb agreement. Consequently, such verbative diatheses almost always result in the presence of a valency-simulating nominative pronoun *es* (see [@sec:intro-es]). 
+{#par:verbative} Isolated diatheses that involve a nominative subject are not widespread in German. The most widespread kind is the drop of the subject ~~[SBJ › Ø]~~, i.e. the complete removal of the role marked as nominative subject without any further accompanying role-remapping or reintroduction of a new subject. This is typically attested with intransitive verbs: after removing the single available role, there is no other role introduced to fill the structural subject position. Semantically, such diatheses put the focus on the activity as described by the verb itself, so I propose to call them ~~verbative~~ diatheses.^[Unfortunately, there is another use of the term *Verbativ* in the German grammatical tradtition, which originates in the work of Engel [e.g. @engel1996: 198, 251, 347]. Engel's concept is completely different from my concept here. We just happened to stumble upon the same neologism.] Note that there is a strong tendency for every German sentence to formally have a nominative subject with verb agreement. Consequently, such verbative diatheses almost always result in the presence of a valency-simulating nominative pronoun *es* (see [@sec:intro-es]). 
 
 A ~~verbative~~ diathesis is attested with verbs like *stinken* 'to stink' [@next], see [@sec:case-nominative-drop]. In a sentence like *es stinkt* the pronoun *es* can of course simply be an anaphor, like in [@next b]. In such a sentence, the role of 'stinker' is still present and there is no diathesis at all. However, in other contexts [@next c] the verb *stinken* is used without implied subject. This is typically attested in contexts in which some odour is attested, but the originator is not known.
 
@@ -545,7 +545,7 @@ b. Das schmutzige Tuch, es stinkt!
 c. Hier stinkt es.
 :::
 
-Another example of a verbative diathesis is illustrated with the verb *leben* 'to live' [@next]. Many such intransitive verbs can be used without a subject in a habitual sense, but this is only possible with an obligatory adverbial qualification like *gut* [@next b,c], see [@sec:adverbial-reflexive-drop].
+Another example of a verbative diathesis is illustrated with the verb *leben* 'to live' [@next], see [@sec:adverbial-reflexive-drop]. Many such intransitive verbs can be used without a subject in a habitual sense, but this is only possible with an obligatory adverbial qualification like *gut* [@next b,c].
 
 ::: ex
 ~~Verbative [SBJ › Ø]~~
@@ -555,7 +555,7 @@ b. In diesem Haus lebt es sich gut.
 c. ^* In diesem Haus lebt es sich.
 :::
 
-Also the so-called impersonal passive consisting of *werden+Partizip* [@next] is an example of a verbative diathesis, in this case even without any valency-simulating *es*, see [@sec:participles-werden-impersonal-passive].
+Also the so-called impersonal passive consisting of *werden+Partizip* [@next], see [@sec:participles-werden-impersonal-passive], is an example of a verbative diathesis, in this case even without any valency-simulating *es*.
 
 ::: ex
 ~~Verbative [SBJ › Ø]~~
@@ -565,7 +565,7 @@ b. Hier wird getanzt.
 c. ^* Hier wird es getanzt.
 :::
 
-A different kind of isolated subject diathesis is subject demotion of the nominative subject to a prepositional phrase. An example is the *geben+zu‑Infinitiv* [@next], see [@sec:zuinfinitive-geben-demotion]. In this diathesis, the subject is demoted to an optional non-governed prepositional phrase ~~[SBJ › ADJ]~~. The demotion is the only role-remapping that is happening in this diathesis, so I propose to call such a diathesis a ~~Demotive~~.
+{#par:demotive} A different kind of isolated subject diathesis is subject demotion of the nominative subject to a prepositional phrase. An example is the *geben+zu‑Infinitiv* [@next], see [@sec:zuinfinitive-geben-demotion]. In this diathesis, the subject is demoted to an optional non-governed prepositional phrase ~~[SBJ › ADJ]~~. The demotion is the only role-remapping that is happening in this diathesis, so I propose to call such a diathesis a ~~Demotive~~.
 
 ::: ex
 ~~Demotive [SBJ › ADJ]~~
@@ -574,7 +574,7 @@ a. Wir gewinnen einen Preis.
 b. es gibt (für uns) einen Preis zu gewinnen.
 :::
 
-Most isolated diatheses are only attested in incidental examples in German, like a subject demotion to a governed preposition ~~[SBJ › PBJ]~~ with *fehlen* shown in [@next], see [@sec:prepositions-nominative-demotion].
+The other isolated subject diatheses are only attested in incidental examples in German, like a subject demotion to a governed preposition ~~[SBJ › PBJ]~~ with *fehlen* shown in [@next], see [@sec:prepositions-nominative-demotion].
 
 ::: ex
 ~~Demotive [SBJ › PBJ]~~
@@ -594,15 +594,15 @@ b. Die Motoren donnerten.
 
 ### Chained subject diatheses
 
-Chained diatheses that involve the nominative subject are widespread in German (in contrast to the infrequent occurrence of isolated diatheses as discussed previously). [@fig:subjectchains] presents an overview of the different terms that I will use for these diatheses. The bold-faced terms are used for widely attested diatheses, while the other kinds of diatheses are only incidentally found. There is currently no evidence in German for the remappings that are left empty in the figure. There appears to be a preference for various kinds of demotion (i.e. the upper right corner of the figure), which fits nicely with the known typological preference of German for anticausative constructions [@haspelmath1993a: 101; @nichols2004: 189].
+Chained diatheses that involve the nominative subject are widespread in German (in contrast to the infrequent occurrence of isolated diatheses as discussed previously). [@fig:subjectchains] presents an overview of the different terms that I will use for these diatheses. The bold-faced terms are used for widely attested diatheses, while the other kinds of diatheses are only incidentally found. There is currently no evidence in German for the existence of the remappings that are left empty in the figure. There appears to be a preference for various kinds of demotion (i.e. the upper right corner of the figure), which fits nicely with the known typological preference of German for anticausative constructions [@haspelmath1993a: 101; @nichols2004: 189].
 
 ![Names for chained macro-role remappings involving the subject](figures/subjectchains){#fig:subjectchains}
 
 The upper right triangle of [@fig:subjectchains] are demotions, the lower left triangle are promotions, and the diagonal are examples of symmetrical diatheses. I will discuss all types in this order.
 
-#### Demotions {.unnumbered}
+#### Demotions {#sec:intro-subject-demotions}
 
-The most extreme kind of demotion is an ~~anticausative [OBJ › SBJ › Ø]~~. The typical characteristic of an anticausative is the complete removal of the nominative subject that is the causer of the action/state of the clause. Filling the syntactic gap, a case-marked argument (typically the accusative) is promoted to subject. This is a widespread kind of diathesis. An example is the reflexive anticausative with verb like *schliessen* 'to close' [@next], see [@sec:reflexive-anticausative].
+{#par:anticausative} The most extreme kind of demotion is an ~~anticausative [OBJ › SBJ › Ø]~~. The typical characteristic of an anticausative is the complete removal of the nominative subject that is the causer of the action/state of the clause. Filling the syntactic gap, a case-marked argument (typically the accusative) is promoted to subject. This is a widespread kind of diathesis. An example is the reflexive anticausative with verb like *schliessen* 'to close' [@next], see [@sec:reflexive-anticausative].
 
 ::: ex
 ~~Anticausative [OBJ › SBJ › Ø]~~
@@ -611,7 +611,7 @@ a. Ich schließe die Tür.
 b. Die Tür schließt sich (von alleine). 
 :::
 
-Very similar to an anticausative is the ~~passive [OBJ › SBJ › ADJ]~~. The main difference between the two (a distinction which is often difficult to delimit) is that for a passive the original subject is still implied and can optionally be overtly expressed [@next]. In contrast, for an anticausative the original subject is completely removed and a phrase like *by itself* can typically be added. As an example of a passive diathesis in [@next] is the *bekommen Rezipientenpassiv* in which a dative is promoted to subject [@sec:participles-bekommen-passive]
+{#par:passive} Very similar to an anticausative is the ~~passive [OBJ › SBJ › ADJ]~~. The main difference between the two (a distinction which is often difficult to delimit) is that for a passive the original subject is still implied and can optionally be overtly expressed [@next]. In contrast, for an anticausative the original subject is completely removed and a phrase like *by itself* can typically be added. As an example of a passive diathesis in [@next] is the *bekommen Rezipientenpassiv* in which a dative is promoted to subject [@sec:participles-bekommen-passive]
 
 ::: ex
 ~~Passive [OBJ › SBJ › ADJ]~~
@@ -620,7 +620,7 @@ a. Ihr Freund kocht ihr eine Suppe.
 b. Sie bekommt von ihrem Freund eine Suppe gekocht.
 :::
 
-A ~~conversive [OBJ › SBJ › PBJ]~~ looks similar to a passive, except that the prepositional phrase is a lexically governed preposition, so it has a more object-like grammatical status. An example is the verb *empören* 'to appall' [@next a] with the reflexive diathesis *sich empören über* 'to be outraged about' [@next b,c], see [@sec:reflexive-preposition-passive]. The term conversive is adapted from Kulikov [-@kulikov2011: 380].
+{#par:conversive} A ~~conversive [OBJ › SBJ › PBJ]~~ looks similar to a passive, except that the prepositional phrase is a lexically governed preposition, so it has a more object-like grammatical status. An example is the verb *empören* 'to appall' [@next a] with the reflexive diathesis *sich empören über* 'to be outraged about' [@next b,c], see [@sec:reflexive-preposition-passive]. The term conversive is adapted from Kulikov [-@kulikov2011: 380].
 
 ::: ex
 ~~Conversive [OBJ › SBJ › PBJ]~~
@@ -630,7 +630,7 @@ b. Der Kunde empört sich über den Preis.
 c. Der Kunde empört sich darüber, dass der Preis schon wieder gestiegen ist.
 :::
 
-For the next diathesis, I propose the term ~~fabricative [PBJ › SBJ › Ø]~~ based on Lat. *fabrica* 'plan, trick, workmanship'. This term is used for a diathesis in German in which a fabricated product can be expressed either as a governed prepositional phrase or as a nominative subject. This diathesis occurs for example with various verbs of emotional interactions like *überraschen* 'to surprise' [@next a], see [@sec:prepositions-fabricative-accusative]. To understand this diathesis, a distinction is needed between the role of the 'fabricator' (here: *Lehrer*, 'teacher') and the role of the 'fabricated product', which induces the emotion (here: *Aufgabe*, 'assignment'). The *mit* prepositional phrase that expresses the fabricated product in [@next a] is a governed preposition [@next c]. The diathesis promotes this fabricated product to nominative subject and the fabricator is removed from the expression [@next b]. The experiencer in the accusative *mich* remains unchanged.
+{#par:fabricative} For the next diathesis, I propose the term ~~fabricative [PBJ › SBJ › Ø]~~ based on Lat. *fabrica* 'plan, trick, workmanship'. This term is used for a diathesis in German in which a fabricated product can be expressed either as a governed prepositional phrase or as a nominative subject. This diathesis occurs for example with various verbs of emotional interactions like *überraschen* 'to surprise' [@next a], see [@sec:prepositions-fabricative-accusative]. To understand this diathesis, a distinction is needed between the role of the 'fabricator' (here: *Lehrer*, 'teacher') and the role of the 'fabricated product', which induces the emotion (here: *Aufgabe*, 'assignment'). The *mit* prepositional phrase that expresses the fabricated product in [@next a] is a governed preposition [@next c]. The diathesis promotes this fabricated product to nominative subject and the fabricator is removed from the expression [@next b]. The experiencer in the accusative *mich* remains unchanged.
 
 ::: ex
 ~~Fabricative [PBJ › SBJ › Ø]~~
@@ -640,7 +640,7 @@ b. Die Aufgabe überrascht mich.
 c. Der Lehrer überrascht mich damit, dass er die Aufgabe schon korrigiert hat.
 :::
 
-A similar kind of diathesis is called here a ~~conciliative [ADJ › SBJ › Ø]~~ based on Lat. *conciliator* 'intermediary, mediator'. In a conciliative an external object (typically an instrument) is promoted to subject [@next], see [@sec:prepositions-transitive-conciliative]. The conciliative and fabricative in German both regularly use a prepositional phrase with *mit*, but the grammatical status is clearly different. The *mit* phrase in a conciliative is an optional adjunct [@next], while the *mit* phrase in a fabricative is a governed preposition [@last]. This grammatical difference is paralleled by a functional difference in the role that is promoted to subject: a conciliative concerns a (typically tangible) instrument that is used by an agent, while a fabricative promotes a (typically intangible) creation that is produced by the agent.
+{#par:conciliative} A similar kind of diathesis is called here a ~~conciliative [ADJ › SBJ › Ø]~~ based on Lat. *conciliator* 'intermediary, mediator'. In a conciliative an external object (typically an instrument) is promoted to subject [@next], see [@sec:prepositions-transitive-conciliative]. The conciliative and fabricative in German both regularly use a prepositional phrase with *mit*, but the grammatical status is clearly different. The *mit* phrase in a conciliative is an optional adjunct [@next], while the *mit* phrase in a fabricative is a governed preposition [@last]. This grammatical difference is paralleled by a functional difference in the role that is promoted to subject: a conciliative concerns a (typically tangible) instrument that is used by an agent, while a fabricative promotes a (typically intangible) creation that is produced by the agent.
 
 ::: ex
 ~~Conciliative [ADJ › SBJ › Ø]~~
@@ -649,7 +649,7 @@ a. Der Doktor heilt die Wunde mit einer Salbe.
 b. Die Salbe heilt die Wunde.
 :::
 
-#### Promotions {.unnumbered}
+#### Promotions {#sec:intro-subject-promotions}
 
 {#par:novative} The most widespread promotion to subject attested in German is the diathesis with role-remapping ~~[Ø › SBJ › OBJ]~~, called ~~novative~~ here (based on Lat. *novare* 'renew, refresh, change'). This role-remapping is best known as 'causative', but this semantic characterisation does not hold for all examples of this diathesis. Various other novative diatheses exist in which the new nominative is not a causer but an experiencer, opionator or a permission giver. 
 
@@ -662,7 +662,7 @@ a. Der Tisch brennt.
 b. Ich verbrenne den Tisch.
 :::
 
-The *sehen+Infinitiv* diathesis [@next], see [@sec:infinitive-sehen], adds a new nominative subject and the old nominative is turned into an accusative. This diathesis is thus structurally an example of a novative ~~[Ø › SBJ › OBJ]~~. However, the newly added nominative is not a causer. The new role is better described as an experiencer, so this diathesis can semantically be called an ~~experientive~~. Similarly constructions are also attested with light-verbs *hören*, *fühlen*, and *spüren*.
+{#par:experientive} The *sehen+Infinitiv* diathesis [@next], see [@sec:infinitive-sehen], adds a new nominative subject and the old nominative is turned into an accusative. This diathesis is thus structurally an example of a novative ~~[Ø › SBJ › OBJ]~~. However, the newly added nominative is not a causer. The new role is better described as an experiencer, so this diathesis can semantically be called an ~~experientive~~. Similar constructions are also attested with light-verbs *hören*, *fühlen*, and *spüren*.
 
 ::: ex
 ~~Experientive novative [Ø › SBJ › OBJ]~~
@@ -671,7 +671,7 @@ a. Der Junge putzt den Tisch.
 b. Ich sehe den Jungen den Tisch putzen.
 :::
 
-{#para:opiniative} The *finden+Partizip* diathesis [@next], see [@sec:participles-finden-opinionator] similarly adds a new nominative subject while the old nominative is turned into an accusative. The role of the new nominative is best characterised as somebody having an opinion, so this diathesis can semantically be called an ~~opiniative~~. The main verb is typically a patientive intransitive predicate like *scheitern*, 'to fail', see [@sec:participles-restrictions]. Similar constructions also exist with light verbs *wissen*, *sehen* and *glauben*.
+{#par:opiniative} The *finden+Partizip* diathesis [@next], see [@sec:participles-finden-opinionator] also adds a new nominative subject while the old nominative is turned into an accusative. The role of the new nominative is best characterised as somebody having an opinion, so this diathesis can semantically be called an ~~opiniative~~. The main verb is typically a patientive intransitive predicate like *scheitern*, 'to fail', see [@sec:participles-restrictions]. Similar constructions also exist with light verbs *wissen*, *sehen* and *glauben*.
 
 ::: ex
 ~~Opiniative novative [Ø › SBJ › OBJ]~~
@@ -680,7 +680,7 @@ a. Das Projekt scheitert.
 b. Ich finde das Projekt gescheitert.
 :::
 
-Likewise, the *lassen+Infinitiv* diathesis [@next], see [@sec:infinitive-lassen-causative] is also structurally a novative ~~[Ø › SBJ › OBJ]~~. This diathesis has multiple possible interpretations, among them also a causative reading [@next]. However, in the example in [@nnext] the newly added nominative is allowing the action to happen, not causing it, so this diathesis can semantically be called a ~~permissive~~. This second interpretation typically happens with agentive intransitive predicates like *schlafen* 'to sleep', see [@sec:participles-restrictions]. However, note that in both examples the other interpretation is also possible, albeit only is specially crafted contexts. 
+The *lassen+Infinitiv* diathesis [@next], see [@sec:infinitive-lassen-causative] is also structurally a novative ~~[Ø › SBJ › OBJ]~~. This diathesis has multiple possible interpretations, among them also a causative reading [@next]. However, in the example in [@nnext] the newly added nominative is allowing the action to happen, not causing it, so this diathesis can semantically be called a ~~permissive~~. This second interpretation typically happens with agentive intransitive predicates like *schlafen* 'to sleep', see [@sec:participles-restrictions]. However, note that in both examples the other interpretation is also possible, albeit only is specially crafted contexts. 
 
 ::: ex
 ~~Causative novative [Ø › SBJ › OBJ]~~
@@ -708,7 +708,26 @@ a. Der Sohn faltet die Wäsche.
 b. Der Vater lehrt seinem Sohn die Wäsche falten.
 :::
 
-All other promotions are rare. A ~~reversed passive [ADJ › SBJ › OBJ]~~ demotes the subject to object and at the same time promotes a new subject from an erstwhile adjunct role. An example in German is the diathesis from *erben* 'to inherit' to *enterben* 'to disinherit' [@next a,b], see [@sec:preverb-inverted-passive-accusative-loss]. This is semantically very close to a causative ~~[Ø › SBJ › OBJ]~~, in which the newly introduced causer can sometimes be expressed as an adjunct [@next c,d]. This affinity between a reversed passive and a causative is reminiscent of the affinity between a passive and an anticausative. In both pairs, the difference amounts to a switch between the closely related macro-role of an optional adjunct ~~(ADJ)~~ and being completely unexpressed ~~(Ø)~~.
+The ~~novative with extended demotion [Ø › SBJ › PBJ]~~ is extremely rare in German. The name is adapted from Kulikov [-@kulikov2011: 388] to denote a diathesis in which the demotion accmopanying the novative is not just ~~[SBJ › OBJ]~~ but ~~[SBJ › PBJ]~~. The diathesis between *freuen* 'to be pleased' and *erfreuen* 'to please' [@next] might be an example because *mit* is a governed preposition [@next c], see [@sec:preverb-reversed-fabricative].
+
+::: ex
+~~Novative with extended demotion [Ø › SBJ › PBJ]~~
+
+a. Das Geschenk freut mich.
+b. Er erfreut mich mit einem Geschenk.
+c. Er erfeut mich damit, dass er mich besucht.
+:::
+
+{#par:novativedemotion} Slightly more widespread, a ~~novative with extreme demotion [Ø › SBJ › ADJ]~~ is a novative diathesis that almost completely removes the erstwhile subject. This is attested in an interesting group of constructions using light verbs like *finden* with a participle and a transitive main verb like *aufheben* 'to preserve' [@next], see [@sec:participle-finden-transitive-opiniative]. With this diathesis, there is a new opiniator introduced, just like with the opiniative above (see [@par:opiniative]). However, the erstwhile nominative subject is now demoted to an optional prepositional phrase.
+
+::: ex
+~~Novative with extreme demotion [Ø › SBJ › ADJ]~~
+
+a. Das Archiv hebt den Nachlass auf.
+b. Ich finde den Nachlass (im Archiv) gut aufgehoben.
+:::
+
+The remaining types of promotions are rare. A ~~reversed passive [ADJ › SBJ › OBJ]~~ demotes the subject to object and at the same time promotes a new subject from an erstwhile adjunct role. An example in German is the diathesis from *erben* 'to inherit' to *enterben* 'to disinherit' [@next a,b], see [@sec:preverb-inverted-passive-accusative-loss]. This is semantically very close to a causative ~~[Ø › SBJ › OBJ]~~, in which the newly introduced causer can sometimes be expressed as an adjunct [@next c,d]. This affinity between a reversed passive and a causative is reminiscent of the affinity between a passive and an anticausative. In both pairs, the difference amounts to a switch between the closely related macro-role of an optional adjunct ~~(ADJ)~~ and being completely unexpressed ~~(Ø)~~.
 
 ::: ex
 ~~Reversed passive [ADJ › SBJ › OBJ]~~
@@ -719,7 +738,7 @@ c. Der Wettkampf endet (durch den Gong).
 d. Der Gong beendet den Wettkampf.
 :::
 
-A ~~reversed conversive [PBJ › SBJ › OBJ]~~ differs from a reversed passive in that the prepositional phrase is a lexically governed preposition, as can be identified by a possible  *da+preposition, dass…* paraphrase. This is for example attested for the diatheses between *staunen über* 'to marvel' and *erstaunen* 'to amaze' [@next], see [@sec:preverb-inverted-passives].
+Finally, a ~~reversed conversive [PBJ › SBJ › OBJ]~~ differs from a reversed passive in that the prepositional phrase is a lexically governed preposition, as can be identified by a possible  *da+preposition, dass…* paraphrase. This is for example attested for the diatheses between *staunen über* 'to marvel' and *erstaunen* 'to amaze' [@next], see [@sec:preverb-inverted-passives].
 
 ::: ex
 ~~Reversed conversive [PBJ › SBJ › OBJ]~~
@@ -729,27 +748,9 @@ b. Deine Arbeit erstaunt mich.
 c. Ich staune darüber, dass du schon fertig bist.
 :::
 
-The ~~novative with extended demotion [Ø › SBJ › PBJ]~~ is extremely rare in German. The name is adapted from Kulikov [-@kulikov2011: 388]. The diathesis between *freuen* 'to be pleased' and *erfreuen* 'to please' [@next] might be an example, see [@sec:preverb-reversed-fabricative].
+#### Symmetrical subject diatheses {#sec:intro-symmetrical-subject}
 
-::: ex
-~~Novative with extended demotion [Ø › SBJ › PBJ]~~
-
-a. Das Geschenk freut mich.
-b. Er erfreut mich mit einem Geschenk.
-:::
-
-Finally, a ~~novative with extreme demotion [Ø › SBJ › ADJ]~~ almost completely removes the erstwhile subject. This is attested in an interesting group of constructions using light verbs like *finden* with a participle and a transitive main verb like *aufheben* 'to preserve' [@next], see [@sec:participle-finden-transitive-opiniative]. With this diathesis, there is a new opiniator introduced, just like with the opiniative above (see [@para:opiniative]). However, the erstwhile nominative subject is now demoted to an optional prepositional phrase.
-
-::: ex
-~~Novative with extreme demotion [Ø › SBJ › ADJ]~~
-
-a. Das Archiv hebt den Nachlass auf.
-b. Ich finde den Nachlass (im Archiv) gut aufgehoben.
-:::
-
-#### Symmetrical subject diatheses {.unnumbered}
-
-Completely symmetrical diatheses involving the subject are rare in German. An ~~inversive [OBJ › SBJ › OBJ]~~ is a diathesis that switches subject and object. This term is proposed by Malchukov [-@malchukov2015: 99-100] in reminiscence of the so-called 'inverse' marking found in Algonquian languages. An inversive diathesis is designated as a "symmetric conversive" by Kulikov [-@kulikov2011: 380]. An example of an inversive is the diathesis between *wundern* 'to puzzle' and *bewundern* 'to admire' [@next], see [@sec:preverb-accusative-inversive].
+{#par:inversive} Completely symmetrical diatheses involving the subject are rare in German. A perfectly symmetrical ~~inversive [OBJ › SBJ › OBJ]~~ is a diathesis that switches subject and object. This term is proposed by Malchukov [-@malchukov2015: 99-100] in reminiscence of the so-called 'inverse' marking found in Algonquian languages. An inversive diathesis is designated as a "symmetric conversive" by Kulikov [-@kulikov2011: 380]. An example of an inversive is the diathesis between *wundern* 'to puzzle' and *bewundern* 'to admire' [@next], see [@sec:preverb-accusative-inversive].
 
 ::: ex
 ~~Inversive [OBJ › SBJ › OBJ]~~
@@ -758,7 +759,7 @@ a. Dein Verhalten wundert mich.
 b. Ich bewundere dein Verhalten.
 :::
 
-Much more widespread in German are diatheses in which a nominative/accusative construction is inverted into a dative/nominative construction. This is for example attested for the *bleiben+zu‑Infinitiv* diathesis [@next], see [@sec:zuinfinitive-bleiben]. Because dative and accusative are both classified here as ~~OBJ~~, this counts as an inversive diathesis. However, when a separation between core (accusative) and non-core (dative/genitive) case would be pursued (see [@par:corecase]), then this diathesis would be an example of demotion. There are two remappings, namely down from ~~SBJ~~ to ~~non-core OBJ~~ and up from ~~core OBJ~~ to ~~SBJ~~. When non-core is taken as being lower on the macrorole hierarchy [@ex:macrorolehierarchy] then the biggest jump is the jump down, which is the definition of demotion (see [@sec:intro-remapping]). Instead of adding a completely new set of categories I propose to simply split ~~inversive~~ and call this phenomenon ~~demoted inversive~~. 
+Much more widespread in German are diatheses in which a nominative/accusative construction is inverted into a dative/nominative construction. This is for example attested for the *bleiben+zu‑Infinitiv* diathesis [@next], see [@sec:zuinfinitive-bleiben]. Because dative and accusative are both classified here as ~~OBJ~~, this counts as an inversive diathesis. However, when a separation between core (accusative) and non-core (dative/genitive) case would be pursued (see [@par:corecase]), then this diathesis would be an example of demotion. There are two remappings, namely down from ~~SBJ~~ to ~~non-core-OBJ~~ and up from ~~core-OBJ~~ to ~~SBJ~~. When non-core is taken as being lower on the macrorole hierarchy [@ex:macrorolehierarchy] then the biggest jump is the jump down, which is the definition of demotion (see [@sec:intro-remapping]). Instead of adding a completely new set of categories I propose to simply split ~~inversive~~ into two subtypes and call this phenomenon ~~demoted inversive~~. 
 
 ::: ex
 ~~Demoted inversive [OBJ › SBJ › OBJ]~~
@@ -807,14 +808,14 @@ b. Der Platz wimmelt von Kindern.
 
 The situation with object diatheses is reversed from the previously discussed subject diatheses. With object diatheses, isolated diatheses are much more widespread and they occur with a wide variety of role-remappings, see [@fig:objectdiatheses]. In contrast, chained diatheses are less widespread and can mostly be analysed as a combination of multiple isolated diatheses.
 
-The top left diatheses in [@fig:objectdiatheses] are demotions, while the bottom left ones are promotions.
+The top right diatheses in [@fig:objectdiatheses] are demotions, while the bottom left ones are promotions.
 The bottom right is completely empty because these remappings are not diatheses anymore, but simply optional marking. There is a strong tendency for object demotions to be either unmarked or marked by reflexive pronouns in German, while the object promotions are typically marked by preverbs or obligatory adverbs. The exception to this generalisation are the so-called locative and delocative diatheses. With those, promotions (locatives) are formally unmarked, while demotions (delocatives) are marked by preverbs or obligatory adverbs. I have currently no explanation for this rather clear markedness pattern.
 
 ![Names for isolated remappings without involvement of the subject](figures/objectdiatheses){#fig:objectdiatheses}
 
 I will discuss the different role-remappings from [@fig:objectdiatheses] in four subsections. First, I will look at the various kinds of applicatives and antipassives (mid left and mid top), then at the objectives and deobjectives (top right and left bottom), followed by locative and delocative diatheses (mid bottom and mid right), and finally at the symmetrical exchanges (on the diagonal).
 
-#### Applicatives & antipassives {.unnumbered}
+#### Applicatives & antipassives 
 
 Applicatives and antipassives are very similar, though reversed. ~~applicatives [ADJ › OBJ]~~ change a prepositional phrase into a case-marked phrase, while ~~antipassives [OBJ › ADJ]~~ convert a case-marked phrase into a prepositional phrase. Given this affinity, instead of 'antipassive' it might be better to call such remappings 'antiapplicative' [e.g. @haspelmath2004c: 1132] or 'deapplicative' (in line with the other names below).
 
@@ -829,7 +830,7 @@ a. Sie steigt auf den Berg.
 b. Sie besteigt den Berg.
 :::
 
-Antipassives in German are often unmarked (see further below), but an example of an antipassive with a clear direction is the alternation between *treffen* 'to meet' and reflexive *sich treffen mit* 'to meet with [@next], see [@sec:reflexive-mit-antipassive].
+Antipassives in German are often unmarked (see further below), but an example of an antipassive with a clear markedness direction is the alternation between *treffen* 'to meet' and reflexive *sich treffen mit* 'to meet with [@next], see [@sec:reflexive-mit-antipassive].
 
 ::: ex
 ~~Antipassive [OBJ › ADJ]~~
@@ -838,7 +839,7 @@ a. Ich treffe dich.
 b. Ich treffe mich mit dir.
 :::
 
-The object of applicatives and antipassives is typically an accusative, but datives are also attested. An example of a dative applicative is the alternation between *stammen aus* 'to hail from' and *entstammen* 'to be descended from' [@next], see [@sec:preverb-dative-applicative]. An example of a dative antipassive is the covert alternation of *berichten* 'to report' [@nnext], see  [@sec:prepositions-dative-antipassive-accusative].
+The object of applicatives and antipassives is typically an accusative, but datives can also be targeted. An example of a dative applicative is the alternation between *stammen aus* 'to hail from' and *entstammen* 'to be descended from' [@next], see [@sec:preverb-dative-applicative]. An example of a dative antipassive is the covert alternation of *berichten* 'to report' [@nnext], see  [@sec:prepositions-dative-antipassive-accusative].
 
 ::: ex
 ~~Dative applicative [ADJ › OBJ]~~
@@ -854,7 +855,7 @@ a. Er berichtet dem Vorstand alles.
 b. Er berichtet alles an den Vorstand.
 :::
 
-In the discussion of diatheses in this book I consistently distinguish ~~governed applicatives [PBJ › OBJ]~~ and ~~governed antipassives [OBJ › PBJ]~~ when the prepositional phrase is a governed preposition. An example of a governed applicative is the diathesis between *arbeiten an* 'to work on' (with a governed preposition *an*) and *bearbeiten* 'to edit, adapt' [@next], see [@sec:preverb-governed-applicative]. An example of a governed antipassive is the diathesis between *beklagen* 'to lament' and *sich beklagen* 'to complain' (with a governed preposition *über*) [@nnext], see [@sec:reflexive-accusative-antipassive]. However, the differentiation between the governed and non-governed applicative/antipassive does not currently allow for any promising semantic or structural generalisations, so this differentiation might grammatically be unnecessary. I have indicated this close affinity graphically in [@fig:objectdiatheses] by surrounding thick lines.
+In the discussion of diatheses in this book I consistently distinguish ~~governed applicatives [PBJ › OBJ]~~ and ~~governed antipassives [OBJ › PBJ]~~ when the prepositional phrase is a governed preposition. An example of a governed applicative is the diathesis between *arbeiten an* 'to work on' (with a governed preposition *an*) and *bearbeiten* 'to edit, adapt' [@next], see [@sec:preverb-governed-applicative]. An example of a governed antipassive is the diathesis between *beklagen* 'to lament' and *sich beklagen* 'to complain' (with a governed preposition *über*) [@nnext], see [@sec:reflexive-accusative-antipassive]. However, the differentiation between the governed and non-governed applicative/antipassive does not currently allow for any promising semantic or structural generalisations, so this differentiation might grammatically be unnecessary.
 
 ::: ex
 ~~Governed applicative [PBJ › OBJ]~~ 
@@ -874,7 +875,7 @@ b. Ich beklage mich darüber, dass es so laut ist.
 
 There are a many diatheses with a role-remapping between adjunct and object that do not have any overt indication of a direction. Without explicit marking it is difficult to decide whether such diatheses are cases of (applicative) promotion ~~[ADJ › OBJ]~~ or (antipassive) demotion ~~[OBJ › ADJ]~~. For the sake of organisation in this book I classify such covert alternations on the basis of (debatable) semantic intuitions.
 
-Most covert diatheses with an alternation between prepositional phrases and case-marked arguments are classified here as ~~antipassive~~, like in the alternation between *schießen auf* 'to aim at' and *schießen* 'to shoot' [@next a], see [@sec:prepositions-accusative-antipassive]. This is also widespread with datives [@next b], see [@sec:prepositions-dative-antipassive-accusative]. In such examples, I judge the case-marking to be more basic than the prepositional phrase. In contrast, there is a widespread alternation between datives and *für* prepositional phrases [@next], that I classify as an ~~applicative~~, see [@sec:prepositions-benefactive-dative]. In this example the dative seems to be the derived construction.
+Most covert diatheses with an alternation between prepositional phrases and case-marked arguments are classified here as ~~antipassive~~, like in the alternation between *schießen auf* 'to aim at' and *schießen* 'to shoot' [@next a], see [@sec:prepositions-accusative-antipassive]. This is also widespread with datives [@next b], see [@sec:prepositions-dative-antipassive-accusative]. In such examples, I judge the case-marking to be more basic than the prepositional phrase. 
 
 ::: ex
 ~~Covert antipassive [OBJ › ADJ]~~
@@ -885,6 +886,8 @@ b. Ich schreibe dir einen Brief. \
    Ich schreibe einen Brief an dich.
 :::
 
+In contrast, there is a widespread alternation between datives and *für* prepositional phrases [@next] that I classify as an ~~applicative~~, see [@sec:prepositions-benefactive-dative]. In this example the dative seems to be the derived construction.
+
 ::: ex
 ~~Covert applicative (benefactor raising) [ADJ › OBJ]~~
 
@@ -892,7 +895,7 @@ a. Er kocht eine Suppe für mich.
 b. Er kocht mir eine Suppe.
 :::
 
-{#par:possraising} There is a further kind of covert diathesis with a dative object, conventionally called ~~possessor raising~~. In such diatheses there is an alternation between a possessor (typically expressed as an adnominal genitive) and a dative [@next]. The dative can alternate with the possessor of a nominative subject (see [@sec:case-possessor-of-nominative-to-dative-experiencer]), an accusative object (see [@sec:case-possessor-accusative-to-dative]) or a location (see [@sec:prepositions-possessor-of-location-to-dative-experiencer]). Following convention, I classify these diatheses as promotion ~~[ADJ › OBJ]~~
+{#par:possraising} There is a further kind of covert diathesis with a dative object, conventionally called ~~possessor raising~~. In such diatheses there is an alternation between a possessor (typically expressed as an adnominal genitive) and a dative [@next]. The dative can alternate with the possessor of a nominative subject (see [@sec:case-possessor-of-nominative-to-dative-experiencer]), an accusative object (see [@sec:case-possessor-accusative-to-dative]) or a location (see [@sec:prepositions-possessor-of-location-to-dative-experiencer]). Following widespread convention, I classify these diatheses as promotion ~~[ADJ › OBJ]~~
 
 ::: ex
 ~~Covert applicative (possessor raising) [ADJ › OBJ]~~
@@ -901,7 +904,7 @@ a. Er schneidet meine Haare.
 b. Er schneidet mir die Haare.
 :::
 
-These two covert kinds of dative applicative are semantically and structurally clearly distinct. The datives that show a possessive alternation [@last] are semantically experiencers. In contrast, datives that alternate with *für* prepositional phrases [@llast] are semantically benefactors. In especially crafted context it is possible to evoke either reading for the same sentence, [@next].
+These two covert kinds of dative applicative (viz. benefactor and possessor applicative) are semantically and structurally clearly distinct. The datives that show a possessive alternation [@last] are semantically experiencers. In contrast, datives that alternate with *für* prepositional phrases [@llast] are semantically benefactors. In especially crafted context it is possible to evoke either reading for the same sentence, [@next].
 
 ::: ex
 a. ^^?^ Ich schneide dir (zuliebe) in den (meinen) Finger. \
@@ -910,7 +913,7 @@ b. Ich schneide dir in den (deinen) Finger. \
     (= Ich schneide in deinen Finger.)
 :::
 
-#### Objectives & deobjectives {.unnumbered}
+#### Objectives & deobjectives 
 
 A ~~deobjective diathesis [OBJ › Ø]~~ is a diathesis that drops an object, i.e. a role cannot be expressed anymore [the term is taken from @haspelmath2004c: 1131]. A deobjective drop is illustrated in [@next] with an alternation from *kaufen* 'to buy' to *einkaufen* 'to shop', see [@sec:preverb-accusative-drop] for an extensive discussion.
 
@@ -939,7 +942,7 @@ a. Sie zaubert.
 b. Sie verzaubert mich.
 :::
 
-A semantically special subgroup of object additions are ~~resultatives~~. A resultative diatheses adds an object that is the result of performing the activity described by the predicate.^[Confusingly, the term "resultative" is also used in the literature with an aspectual meaning, namely to indicate a special kind of state induced as the result of performing the predicate [e.g. @nedjalkov1988a].] An overtly marked resultative is illustrated in [@next] with the diathesis between *arbeiten* 'to work' and the inherent reflexive *sich etwas erarbeiten* 'to acquire something through work', see [@sec:preverb-reflexive-resultative]. The result of the work is added as an object in [@next b].
+A semantically special subgroup of object additions are ~~resultatives~~. A resultative diathesis adds an object that is the result of performing the activity described by the predicate.^[Confusingly, the term "resultative" is also used in the literature with an aspectual meaning, namely to indicate a special kind of state induced as the result of performing the predicate [e.g. @nedjalkov1988a].] An overtly marked resultative is illustrated in [@next] with the diathesis between *arbeiten* 'to work' and the inherent reflexive *sich etwas erarbeiten* 'to acquire something through work', see [@sec:preverb-reflexive-resultative]. The result of the work is added as an object in [@next b].
 
 ::: ex
 ~~Objective (resultative) [Ø › OBJ]~~
@@ -968,7 +971,7 @@ b. Er stotterte eine Entschuldigung. \
    (= Er stotterte, und das Resultat ist eine Entschuldigung.)
 :::
 
-#### Locatives & delocatives {.unnumbered}
+#### Locatives & delocatives 
 
 A ~~Locative diathesis [Ø › PBJ]~~ is a diatheses that adds an obligatory locational propositional phrase ~~PBJ~~ to the clause.^[There is no connection between a locative diathesis and a locative case. Both terms simply use the word *locative* to describe the fact that the marking of location is concerned.]  For example, the transitive *befehlen* 'to order' marks the ordered person as an accusative [@next a]. With an (directional) locative phrase *an die Front* 'to the frontline' the sentence gets a caused-motion or resultative reading [@next b], see [@sec:prepositions-transitive-location-as-result].
 
@@ -1001,7 +1004,7 @@ c. Ich verstecke das Geschenk in dem Schrank.
 d. Ich verstecke das Geschenk.
 :::
 
-#### Symmetrical object diatheses {.unnumbered}
+#### Symmetrical object diatheses 
 
 Symmetrical object diatheses are rare in German. A ~~case change [OBJ › OBJ]~~ is illustrated in [@next] by the alternation between *folgen* 'to follow' (with dative) and *verfolgen* 'to chase' (with accusative), see [@sec:preverb-dative-accusative].
 
@@ -1036,7 +1039,7 @@ Chains of object diatheses (i.e. chains with the object in the middle of the cha
 
 ![Attested chains of object diathesis](figures/objectchains){#fig:objectchains}
 
-#### Full applicatives {.unnumbered}
+#### Full applicatives 
 
 The patterns in the center of the figure are the most frequent chains with an object, called collectively ~~full applicative [ADJ › OBJ › ADJ]~~. These diatheses are combinations of an applicative promotion ~~[ADJ › OBJ]~~ and an antipassive demotion ~~[OBJ › ADJ]~~. A typical example is the diathesis between *werfen* 'to throw' and *bewerfen* 'to throw at' [@next], see [@sec:preverb-applicative-antipassive]. In such examples a prepositional phrase turns into an accusative, and the erstwhile accusative into a prepositional phrase.
 
@@ -1060,16 +1063,16 @@ b. Er erzwingt ein Geständnis von ihm.
 A special case of a full applicative is illustrated here with the verb *bewundern* 'to admire' [@next], see [@sec:perpositions-possessor-applicative]. This verb (and others like it) show a combination of a possessor raising applicative ~~[ADJ › OBJ]~~ and a governed antipassive ~~[OBJ › PBJ]~~ leading to a full applicative chain ~~[ADJ › OBJ › PBJ]~~.
 
 ::: ex
-~~Applicative (possessor raising)+governed antipassive [ADJ › OBJ › PBJ]~~
+~~Possessor raising applicative+governed antipassive [ADJ › OBJ › PBJ]~~
 
 a. Ich bewundere seine Ehrlichkeit.
 b. Ich bewundere ihn für seine Ehrlichkeit.
 c. Ich bewundere ihn dafür, dass er ehrlich ist.
 :::
 
-#### Objectives & deobjectives {.unnumbered}
+#### Chained objectives & deobjectives 
 
-At the right and at the bottom of [@fig:objectchains] are chains that involve the addition or drop of a lexical role. An objective ~~[Ø › OBJ]~~ is typically chained with an antipassive ~~[OBJ › PBJ/ADJ]~~, resulting in a chain ~~[Ø › OBJ › PBJ]~~. This is attested in the resultative object addition with the verb *schneiden* to cut [@next], see [@sec:prepositions-action-result]. A new object, that is the result of the cutting, is introduced, while the old object is turned into a prepositional phrase [@next a,b]. This prepositional phrase cannot be left out [@next c], so it classified here as an obligatory location (~~PBJ~~).
+At the extreme right and bottom of [@fig:objectchains] are chains that involve the addition or drop of a lexical role. An objective ~~[Ø › OBJ]~~ is typically chained with an antipassive ~~[OBJ › PBJ/ADJ]~~, resulting in a chain ~~[Ø › OBJ › PBJ]~~. This is attested in the resultative object addition illustrated here with the verb *schneiden* to cut [@next], see [@sec:prepositions-action-result]. A new object, that is the result of the cutting, is introduced, while the old object is turned into a prepositional phrase [@next a,b]. This prepositional phrase cannot be left out [@next c], so it classified here as an obligatory location (~~PBJ~~).
 
 ::: ex
 ~~Antipassive+objective (resultative) [Ø › OBJ › PBJ]~~
@@ -1089,9 +1092,9 @@ b. ^* Ich klopfe den Staub.
 c. Ich klopfe meinen Mantel aus.
 :::
 
-#### Case changes {.unnumbered}
+#### Chained case changes 
 
-Finally, there are a few chains involving a change of case at the top and the left of [@fig:objectchains]. Note that when a case-change dative/genitive-to-accusative is seen as a promotion, and the reverse as a demotion (cf. [@par:corecase]), than the following diatheses can be interpreted as further examples of full applicatives. 
+Finally, there are a few chains involving a change of case at the top and the left of [@fig:objectchains]. Note that a case change of dative/genitive to accusative can be seen as a promotion (and the reverse as a demotion, cf. [@par:corecase]), but that perspective will not be followed here. 
 
 Example [@next] shows a combination of a dative-to-accusative case change with an antipassive, resulting in a chain ~~[OBJ › OBJ › ADJ]~~. The verb *schenken* 'to gift' takes a recipient in the dative and a patient in the accusative, while the derived *beschenken* 'to gift' turns the accusative into a prepositional phrase (i.e. antipassive) and changes the dative *dir* into an accusative *dich* (see [@sec:preverb-antipassive-dative-accusative]).
 
@@ -1102,7 +1105,7 @@ a. Ich schenke dir ein Buch.
 b. Ich beschenke dich mit einem Buch.
 :::
 
-The reverse situation, i.e. a chain ~~[ADJ › OBJ › OBJ]~~, is attested with the diathesis between *drängen* 'to urge' and the marked *aufdrängen* 'to impose' [@next], see [@sec:preverb-applicative-accusative-to-dative]. In this example a prepositional phrase changes into an accusative (i.e. applicative), while the accusative *dich* changes to dative *dir*.
+The reverse situation, i.e. a chain ~~[ADJ › OBJ › OBJ]~~, is attested with the diathesis between *drängen* 'to urge' and the derived *aufdrängen* 'to impose' [@next], see [@sec:preverb-applicative-accusative-to-dative]. In this example a prepositional phrase changes into an accusative (i.e. applicative), while the accusative *dich* changes to dative *dir*.
 
 ::: ex
 ~~Applicative+case change [ADJ › OBJ › OBJ]~~

@@ -2,21 +2,19 @@
 
 ## German names for German grammar
 
-Among all the diatheses that are distinguished in this survey there are many that only occur in very specific situations or might otherwise be considered to be exceptions or incidental instances. In contrast, there are also very many diatheses that are highly frequent and can be used with very many different verbs. Those major diatheses, that are of central importance to the grammatical structure of German, will be summarised in this chapter. Such a summary would normally be presented at the end of a book, but because of the often long-winding data-driven details of the subsequent descriptive chapters, I decided to present this summary here at the end of the introductory deliberations. Take it as a quick appetiser of things to come, with ample links to the actual discussion in later chapters.
+Among all the more than 250 diatheses that are distinguished in this survey there are some major ones that are frequently attested and can be used with very many different verbs, and there are some that only occur in very specific situations or might otherwise be considered to be exceptions or incidental instances. The major diatheses, that are of central importance to the grammatical structure of German, will be summarised in this chapter. Such a summary would normally be presented at the end of a book, but because of the often long-winding data-driven details of the subsequent descriptive chapters, I decided to present this summary here at the end of the introductory deliberations. Take it as a quick appetiser of things to come, with ample links to the actual discussion in later chapters. This chapter also provides a sketch of how diathesis could be approached in practical grammars of the German language.
 
-To reiterate the basic premise of this book: in the chapters [-@sec:case] to [-@sec:zuminfinitive] I aim to present a complete list of all coherent, and thus monoclausal, clause structures in German (cf. [@sec:intro-coherence] on defining monoclausality). All in all, in those chapters there are 250+ separate sub-subsections that describe (often minor) variations of monoclausal structures. This diversity is condensed into about 120 major clause alternations as summarised here. Of those, about 80 are diatheses (i.e. clause alternations with role-remapping, discussed in this chapter), while only about 40 are epitheses (i.e. clause alternations without any change in role marking, discussed in the next chapter). So, diathesis ('voice marking') is a much more diverse grammatical phenomenon than epithesis ('tense-aspect-mood' marking). All these counts should be taken with some leeway, because a lot depends on individual decisions about splitting or lumping structures into groups (e.g. how many *lassen+Infinitiv* constructions are counted separately, cf [@sec:infinitive-guises-of-lassen]). Although the analysis of German clause alternations might look cleaner when lumping structures into larger groups, the diversity is actually not reduced then, only hidden at the cost of larger within-group complexity.
+To reiterate the basic premise of this book: in the chapters [-@sec:case] to [-@sec:zuminfinitive] I aim to present a complete list of all coherent, and thus monoclausal, clause structures in German (cf. [@sec:intro-coherence] on defining monoclausality). All in all, in those chapters there are more than 250 separate sub-subsections that describe (often minor) variations of monoclausal structures. This diversity is condensed into about 120 major clause alternations as summarised here. Of those, about 80 are diatheses (i.e. clause alternations with role-remapping, discussed in this chapter), while only about 40 are epitheses (i.e. clause alternations without any change in role marking, discussed in the next chapter). So, diathesis ('voice marking') is a much more diverse grammatical phenomenon than epithesis ('tense-aspect-mood' marking). All these counts should be taken with some leeway, because a lot depends on individual decisions about splitting or lumping structures into groups (e.g. how many *lassen+Infinitiv* constructions are counted separately, cf [@sec:infinitive-guises-of-lassen]). Although the analysis of German clause alternations might look cleaner when lumping structures into larger groups, that would not reduce the attested diversity, it would only hide the variation at the cost of larger within-group complexity.
 
-Besides providing a basic summary, I also propose German names (sometimes based on Latin terms) for all 120 major derived monoclausal sentence structures. Using suitable names is a central aspect of (scientific) communication. In grammar, names are like instruments that allow us to abstract away from individual details and manipulate classes of utterances that show a specific abstract structure. However, naming is hard and can also lead to miscommunication. When re-using available terminology, the terms are easily recognised and remembered, but they carry the weight of history. Even when detailed definitions are given (as I have tried to do throughout this book), unintended interpretations of previous usage inevitably seep through. In contrast, inventing new names introduces more precision, but the downside is often cumbersome terms that are difficult to remember. 
+Besides providing a basic summary, I also propose German names (sometimes based on Latinate terms) for all 120 major derived monoclausal sentence structures. Using suitable names is a central aspect of (scientific) communication. In grammar, names are like instruments that allow us to abstract away from individual details and manipulate classes of utterances that show a specific abstract structure. However, naming is hard and can also lead to miscommunication. When re-using available terminology, the terms are easily recognised and remembered, but they carry the weight of history. Even when detailed definitions are given (as I have tried to do throughout this book), unintended interpretations of previous usage inevitably seep through. In contrast, inventing new names introduces more precision, but the downside is often cumbersome terms that are difficult to remember. 
 
 In naming diatheses in this book I have tried to strike a balance between precise naming and good readability. For the English names in the detailed discussions in the coming chapters, I have decided in favour or precision. Each phenomenon is newly named with often long descriptive and unique names. In contrast, for the German names in this chapter I try to reuse available terminology as much as possible. When necessary, I propose new names that attempt to evoke a functional description like *Reziprokativ* or *Erlebnispassiv*. However, the semantic characterisation has not been the main focus of this book, so it might become necessary to rename diatheses in the future once more detailed investigations have been performed. In some cases I have not been able to find a suitable semantic characterisation. For those diatheses I have resorted to using formal characteristics in the name, always written as separate words, like *Reflexiv Erlebnispassiv*
 
-#### Classification of diathesis {.unnumbered}
+In this chapter, the diatheses are organised in sections according to the grammatical macro-role remapping patterns as introduced in [@sec:intro-naming]. The different diatheses in each section are thus functionally highly similar, but they are structurally different. Inversely, there are various diatheses that structurally highly similar, but are nonetheless repeated in separate sections under different names. This is necessary because superficially identical diathesis can have rather different structural repercussions depending on the verb to which it is applied. This happens for examples with the *sein+Partizip* or the *lassen+sich+Infinitiv* constructions.
 
-In this chapter, the diatheses are organised in sections according to the macro-role remapping patterns as introduced in [@sec:intro-naming]. The different diatheses in each section are thus functionally highly similar, but they are structurally different. Inversely, there are various diatheses that structurally highly similar, but are nonetheless repeated in separate sections under different names. This is necessary because superficially identical diathesis can have rather different structural repercussions depending on the verb to which it is applied. This happens for examples with the *sein+Partizip* or the *lassen+sich+Infinitiv* constructions.
+Before diving into the daunting diversity of German diathesis, a short note on German names for different clause types is in order (summarised in [@tbl:clause-types]). The distinction between sentence (German: ~~Satz~~) and clause (German: ~~Teilsatz~~) is customary made in the German grammatical literature when a precise description is needed. However, the term *Satz* is often used as a shorthand for both. Subdividing clauses, there is of course a basic distinction between main clause (German: ~~Hauptsatz~~, more precise would be ~~Selbständiger Teilsatz~~) and subordinate clause (German: ~~Nebensatz~~ or alternatively ~~Untergeordneter Teilsatz~~). 
 
-Before diving into the daunting diversity of German diathesis, a short note on German names for different clause types is in order (see [@tbl:clause-types]). The distinction between sentence (German: ~~Satz~~) and clause (German: ~~Teilsatz~~) is customary made in the German grammatical literature when a precise description is needed. However, the term *Satz* is often used as a shorthand for both. Subdividing clauses, there is of course a basic distinction between main clause (German: ~~Hauptsatz~~, more precise would be ~~Selbständiger Teilsatz~~) and subordinate clause (German: ~~Nebensatz~~ or alternatively ~~Untergeordneter Teilsatz~~). 
-
-Yet, a central thesis of this book is that there is a further subdivision for both main and subordinate clauses into three different kinds of clauses (see [@sec:intro-terminology]). First, a 'basic clause' is a clause with a single finite verb form in the *Präsens* or *Imperfekt*. For German I propose the term ~~Basissatz~~, or, to be more precise, ~~Grundlegender Teilsatz~~. Second, an 'epithesis' is a clause alternant without role-remapping. For German I propose either the German neologism ~~Übersatz~~ or the Greek-inspired ~~Epithese~~, or, to be more precise, ~~Erweiterter Teilsatz~~. Finally, a diathesis is a clause with role-remapping. For German I propose the German neologism ~~Wechselsatz~~ or the Greek-inspired ~~Diathese~~, or, to be more precise, ~~Umgestellter Teilsatz~~.
+Yet, a central thesis of this book is that there is a further subdivision for both main and subordinate clauses into three different kinds of clauses (see [@sec:intro-terminology]). First, a 'basic clause' is a clause with a single finite verb form in the *Präsens* or *Präteritum*. For German I propose the term ~~Basissatz~~, or, to be more precise, ~~Grundlegender Teilsatz~~. Second, an 'epithesis' is a clause alternant without role-remapping. For German I propose either the German neologism ~~Übersatz~~ or the Greek-inspired ~~Epithese~~, or, to be more precise, ~~Erweiterter Teilsatz~~. Finally, a diathesis is a clause with role-remapping. For German I propose the German neologism ~~Wechselsatz~~ or the Greek-inspired ~~Diathese~~, or, to be more precise, ~~Umgestellter Teilsatz~~.
 
 |    English Term    |        German Term         |    Short German Term     |
 | :----------------: | :------------------------: | :----------------------: |
@@ -30,9 +28,11 @@ Table: German terminology for clause types {#tbl:clause-types}
 
 ## Verbative diatheses ~~[SBJ › Ø]~~
 
+A ~~verbative~~ is a diathesis that completely removes the role marked as nominative subject without introducing a new subject. For details on the definition see [@sec:intro-isolated-subject-diathesis], specifically starting at [@par:verbative].
+
 ### *Verbativ* {#sec:summary-verbativ}
 
-The unmarked ~~Verbativ~~ (full discussion in [@sec:case-nominative-drop] and subsequent sections) is typically found with dispersion verbs like *stinken* 'to stink', *klingeln* 'to ring' or *krachen* 'to crunch' [@next a]. These verbs allow for an construction without explicit nominative subject describing a general situation with unknown cause. To replace the nominative subject a valency-simulating pronoun *es* is used [@next b]. Additionally, various verbs that allow for impersonal constructions like *es gibt* 'there exist' or *es wimmelt von* 'to swarm' belong to this category of diatheses.
+The unmarked ~~Verbativ~~ (full discussion in [@sec:case-nominative-drop] and subsequent sections) is typically found with dispersion verbs like *stinken* 'to stink', *klingeln* 'to ring' or *krachen* 'to crunch' [@next a]. These verbs allow for a construction without explicit nominative subject when describing a general situation with unknown cause. An obligatory valency-simulating pronoun *es* is used as a replacement of the nominative subject [@next b].
 
 ::: ex
 a. Der Müll stinkt.
@@ -41,7 +41,7 @@ b. Hier stinkt es aber.
 
 ### *Wertungsverbativ* {#sec:summary-wertungsverbativ}
 
-The ~~Wertungsverbativ~~ (full discussion in [@sec:adverbial-reflexive-drop]) similarly replaces the nominative subject by a valency-simulating *es*. Additionally, this diathesis obligatorily needs a reflexive pronoun and an adverbial phrase describing an evaluation, like *gut* 'fine' or *angenehm* 'pleasantly'. The *Wertungsverbativ* is typically used with agentive intransitive verbs like *leben* 'to live' or *tanzen* 'to dance' and describes a habitual situation. This diathesis is arguably closely related to the ~~Wertungsantikausativ~~ (see [@sec:summary-wertungsantikausativ]).
+The ~~Wertungsverbativ~~ (full discussion in [@sec:adverbial-reflexive-drop]) similarly replaces the nominative subject by a valency-simulating *es*. Additionally, this diathesis obligatorily needs a reflexive pronoun and an adverbial phrase describing an evaluation, like *gut* 'fine' or *angenehm* 'pleasantly'. The *Wertungsverbativ* is typically used with agentive intransitive verbs like *leben* 'to live' or *tanzen* 'to dance' and describes a habitual situation. This diathesis is closely related to the ~~Wertungsantikausativ~~ for transitive verbs (see [@sec:summary-wertungsantikausativ]).
 
 ::: ex
 a. Wir leben in diesem Haus.
@@ -50,7 +50,7 @@ b. Hier lebt es sich gut.
 
 ### *Unpersönliches Vorgangspassiv* (*werden+Partizip*) {#sec:summary-unpersonlicher-vorgangspassiv}
 
-The ~~Unpersönliches Vorgangspassiv~~ is a construction consisting of the light verb *werden* with a participle of an intransitive verb (full discussion in [@sec:participles-werden-impersonal-passive]). Only ~~agentive~~ ('unergative') intransitive verbs like *tanzen* 'to dance' [@next] or *schlafen* 'to sleep' allow for this construction without any nominative subject (not even a valency-simulating *es* is needed). The name 'passive' is rather unfitting for this diathesis, but it is retained here because of widespread usage. This construction is arguably closely related to the ~~Vorgangspassiv~~ for transitive verbs (see [@sec:summary-vorgangspassiv]).
+The ~~Unpersönlicher Vorgangspassiv~~ is a construction consisting of the light verb *werden* with a participle of an intransitive verb (full discussion in [@sec:participles-werden-impersonal-passive]). Only ~~agentive~~ ('unergative') intransitive verbs like *tanzen* 'to dance' [@next] or *schlafen* 'to sleep' allow for this construction without any nominative subject (not even a valency-simulating *es* is needed). The name 'passive' is rather unfitting for this diathesis, but it is retained here because of widespread usage. This construction is closely related to the ~~Vorgangspassiv~~ for transitive verbs (see [@sec:summary-vorgangspassiv]).
 
 ::: ex
 a. Die Jungs tanzen.
@@ -59,7 +59,7 @@ b. Jetzt wird getanzt!
 
 ### *Unpersönliches Möglichkeitspassiv* (*lassen+sich+Infinitiv*) {#sec:summary-unpersonlicher-moglichkeitspassiv}
 
-The ~~Unpersönliches Möglichkeitspassiv~~ consists of the light verb *lassen* with the infinitive of an intransitive verb (full discussion in [@sec:infinitive-lassen-reflexive-intransitive]). This construction obligatory includes a reflexive pronoun and an evaluating adverbial expression like *gut* 'fine'. A valency-simulating pronoun *es* appears to be optional. Similar to the previous diathesis, this diathesis also seems to be restricted to agentive intransitive verbs like *arbeiten* 'to work' [@next]. Likewise, the name 'passive' is ill-fitting here, but it is used because of the parallelism to the previous diathesis. This construction is arguably closely related to the ~~Möglichkeitspassiv~~ for transitive verbs (see [@sec:summary-moglichkeitspassiv]).
+The ~~Unpersönlicher Möglichkeitspassiv~~ consists of the light verb *lassen* with the infinitive of an intransitive verb (full discussion in [@sec:infinitive-lassen-reflexive-intransitive]). This construction obligatory includes a reflexive pronoun and an evaluating adverbial expression like *gut* 'fine'. A valency-simulating pronoun *es* appears to be optional. Similar to the previous diathesis, this diathesis also seems to be restricted to agentive intransitive verbs like *arbeiten* 'to work' [@next]. Likewise, the name 'passive' is ill-fitting here, but it is used because of the parallelism to the previous diathesis. This construction is closely related to the ~~Möglichkeitspassiv~~ for transitive verbs (see [@sec:summary-moglichkeitspassiv]).
 
 ::: ex
 a. Ich arbeite zuhause.
@@ -68,7 +68,7 @@ b. Zuhause lässt (es) sich gut arbeiten.
 
 ### *Unpersönliches Modalpassiv* (*sein+zu‑Infinitiv*) {#sec:summary-unpersonlicher-modalpassiv}
 
-The ~~Unpersönliches Modalpassiv~~ (full discussion in [@sec:zuinfinitive-sein-impersonal] and subsequent sections) consists of a light verb *sein* with *zu* and an infinitive. It is found with incidental intransitive verbs, but more typically with verbs with a dative argument (but no accusative) like *helfen* 'to help' or *trauen* 'to trust' [@next]. In this diathesis the nominative subject is dropped and cannot be retained in any other form. There is also no valency-simulating *es* present. The name 'passive' is actually besides the point for this diathesis, but it is used here because this construction is closely related to the ~~Modalpassiv~~ (see [@sec:summary-modalpassiv]).
+The ~~Unpersönlicher Modalpassiv~~ (full discussion in [@sec:zuinfinitive-sein-impersonal] and subsequent sections) consists of a light verb *sein* with *zu* and an infinitive. It is found with incidental intransitive verbs, but more typically with verbs with a dative argument (but no accusative) like *helfen* 'to help' or *trauen* 'to trust' [@next]. In this diathesis the nominative subject is dropped and cannot be retained in any other form. There is also no valency-simulating *es* present. The name 'passive' is actually besides the point for this diathesis, but it is used here because this construction is closely related to the ~~Modalpassiv~~ (see [@sec:summary-modalpassiv]).
 
 ::: ex
 a. Ich traue ihm nicht.
@@ -77,9 +77,11 @@ b. Ihm ist nicht zu trauen.
 
 ## Demotive diatheses ~~[SBJ › ADJ]~~
 
+A ~~demotive~~ is a diathesis that removes the role marked as nominative subject, though this role can still optionally be expressed as a prepositional phrase. For details on the definition see [@sec:intro-isolated-subject-diathesis], specifically starting at [@par:demotive].
+
 ### *Notwendigkeitsdemotiv* (*gelten+zu‑Infinitiv*) {#sec:summary-notwendigkeitsdemotiv}
 
-The ~~Notwendigkeitsdemotiv~~ (full discussion in [@sec:zuinfinitive-gelten-demotion]) uses a subjectless light verb *gelten* with *zu* and an infinitive [@next]. The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the light verbs are always in the third person singular, resulting in fixed expressions *es gilt*. The removed subject can optionally be retained with a *für* prepositional phrase. Any other argument is simply preserved, like the accusative *den Koffer* 'the suitcase' in the example below.  This construction semantically invokes some kind of (self‑)assignment that should be fulfilled, i.e. a modal-like 'must' meaning. 
+The ~~Notwendigkeitsdemotiv~~ (full discussion in [@sec:zuinfinitive-gelten-demotion]) uses a subjectless light verb *gelten* with *zu* and an infinitive [@next]. The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the light verb *gelten* is always in the third person singular, resulting in fixed expressions *es gilt*. The removed subject can optionally be retained with a *für* prepositional phrase. Any other argument is simply preserved, like the accusative *den Koffer* 'the suitcase' in the example below.  This construction semantically invokes some kind of (self‑)assignment that should be fulfilled, i.e. a modal-like 'must' meaning. 
 
 ::: ex
 a. Wir verlieren den Koffer nicht.
@@ -88,7 +90,7 @@ b. Jetzt gilt es (für uns) den Koffer nicht zu verlieren.
 
 ### *Intransitiver Notwendigkeitsdemotiv* (*heißen+Infinitiv*) {#sec:summary-intrans-notwendigkeitsdemotiv}
 
-The ~~Intransitiver Notwendigkeitsdemotiv~~ (full discussion in [@sec:infinitive-heißen-demotion]) consists of the verb *heißen* with an infinitive. The meaning of this constructions is very close to the previous *Notwendigkeitsdemotiv* construction (see [@sec:summary-notwendigkeitsdemotiv]). However, *heißen* can only be applied with intransitive verbs. Note that there is a completely separate causative usage of *heißen+Intransitiv*, but this *Agentivkausativ* appears to be rather old-fashioned (see [@sec:summary-machenkausativ]).
+The ~~Intransitiver Notwendigkeitsdemotiv~~ (full discussion in [@sec:infinitive-heißen-demotion]) consists of the verb *heißen* with an infinitive. The meaning of this constructions is very close to the previous *Notwendigkeitsdemotiv* construction (see [@sec:summary-notwendigkeitsdemotiv]). The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the light verb *heißen* is always in the third person singular, resulting in fixed expressions *es heißt*. The removed subject can optionally be retained with a *für* prepositional phrase. However, different from *gelten+Infinitiv*, the construction *heißen+Infinitiv* can only be applied to intransitive verbs. Note that there also exists a completely separate causative usage of *heißen+Infinitiv*, but this *Agentivkausativ* appears to be rather old-fashioned (see [@sec:summary-machenkausativ]).
 
 ::: ex
 a. Er redet weiter.
@@ -106,6 +108,8 @@ b. In dem Laden gibt es den Koffer ^?^(für uns) zu kaufen.
 
 ## Conciliative diatheses ~~[ADJ › SBJ › Ø]~~
 
+A ~~conciliative~~ is a diathesis that completely removes the role marked as subject and promotes an instrument to be the new subject. For details on the definition see [@sec:intro-subject-demotions], specifically starting at [@par:conciliative].
+
 ### *Instrumentsubjektivierung* {#sec:summary-instrumentsubjektivierung}
 
 The ~~Instrumentsubjektivierung~~ (full discussion in [@sec:prepositions-intransitive-preposition-anticausative] and subsequent sections) promotes an instrument to nominative subject. For example, the instrument *Schlüssel* 'key' of the verb *öffnen* 'to open' is expressed with a *mit* prepositional phrase in [@next a]. Alternatively, it can be expressed with a nominative as in [@next b]. In that construction, the original agent cannot be expressed anymore. This diathesis looks very similar to the *Kreationsubjektivierung* (see [@sec:summary-kreationsubjektivierung]), but there are crucial semantic and structural differences (discussed below). 
@@ -117,9 +121,11 @@ b. Der Schlüssel öffnet die Tür.
 
 ## Fabricative diatheses ~~[PBJ › SBJ › Ø]~~
 
+A ~~fabricative~~ is a diathesis that completely removes the role marked as subject and promotes an fabricated entity to be the new subject. For details on the definition see [@sec:intro-subject-demotions], specifically starting at [@par:fabricative].
+
 ### *Kreationsubjektivierung* {#sec:summary-kreationsubjektivierung}
 
-The ~~Kreationsubjektivierung~~ (full discussion in [@sec:prepositions-fabricative-accusative]) on first notice looks very similar to the previous *Instrumentsubjektivierung*. In both diatheses a *mit* prepositional phrase is promoted to nominative subject. However, with a verb like *überraschen* 'to surprise' [@next] the prepositional phrase does not represent an instrument, but a fabrication by the subject of the sentence, viz. *Lehrer* 'teacher'. This semantic difference is paralleled by a structural difference, namely that the *mit* prepositional phrase is a governed preposition [@next c]. Note that the verbs that allow for a *Kreationsubjektivierung* show a substantial overlap with the verbs that allow for the ~~Reflexiv Erlebnispassiv~~ (see [@sec:summary-reflexiv-erlebnispassiv]), though the two groups are not identical.
+The ~~Kreationsubjektivierung~~ (full discussion in [@sec:prepositions-fabricative-accusative]) on first notice looks very similar to the previous *Instrumentsubjektivierung*. In both diatheses a *mit* prepositional phrase is promoted to nominative subject. However, with a verb like *überraschen* 'to surprise' [@next] the noun in the prepositional phrase, *Aufgabe* 'task', does not represent an instrument, but a fabrication by the subject of the sentence, *Lehrer* 'teacher'. This semantic difference is paralleled by a structural difference, namely that the *mit* prepositional phrase is a governed preposition [@next c]. Note that the verbs that allow for a *Kreationsubjektivierung* show a substantial overlap with the verbs that allow for the ~~Reflexiv Erlebnispassiv~~ (see [@sec:summary-reflexiv-erlebnispassiv]), though the two groups are not identical.
 
 ::: ex
 a. Der Lehrer überrascht mich mit der Aufgabe.
@@ -129,19 +135,21 @@ c. Der Lehrer überrascht mich damit, dass er die Aufgabe schon korrigiert hat.
 
 ### *Auslösersubjektivierung* (*sein+zum-Infinitiv*) {#sec:summary-auslosersubjektivierung}
 
-The ~~Auslösersubjektivierung~~ (full discussion in [@sec:zuminfinitive-sein-zum]) is constructed with the light verb *sein* with a *zum‑Infinitiv*. This diathesis can be applied to verbs of emotion with a governed preposition describing the trigger of the emotion. For example, *heulen* 'to whine' [@next a] uses the governed preposition *über* to describe the trigger, here *Schaden* 'damage'. The result of the diathesis is that the trigger of the emotion is promoted to nominative subject [@next b]. The original subject, i.e. the perceiver of the emotion, cannot be expressed anymore.
+The ~~Auslösersubjektivierung~~ (full discussion in [@sec:zuminfinitive-sein-zum]) is constructed with the light verb *sein* with a *zum‑Infinitiv*. This diathesis can be applied to verbs of emotion with a governed preposition describing the trigger of the emotion. For example, *heulen* 'to whine' [@next a] uses the governed preposition *über* to describe the trigger, here *Schaden* 'damage' [@next b]. The result of the diathesis is that the trigger of the emotion is promoted to nominative subject [@next c]. The original subject, i.e. the perceiver of the emotion, cannot be expressed anymore.
 
 ::: ex
-a. Ich heule über den Schaden. \
-   Ich heule darüber, dass der Schaden so groß ist.
-b. Der Schaden ist zum Heulen.
+a. Ich heule über den Schaden.
+b. Ich heule darüber, dass der Schaden so groß ist.
+c. Der Schaden ist zum Heulen.
 :::
 
 ## Anticausative diatheses ~~[OBJ › SBJ › Ø]~~
 
+An ~~anticausative~~ is a diathesis that completely removes the role marked as subject and promotes an object to be the new subject. For details on the definition see [@sec:intro-subject-demotions], specifically starting at [@par:anticausative].
+
 ### *Antikausativ* {#sec:summary-antikausativ}
 
-The unmarked ~~Antikausativ~~ (full discussion in [@sec:case-haben-anticausative] and subsequent sections) is attested with verbs like *öffnen* 'to open' or *kochen* 'to cook'. These verbs occur both as transitive [@next a] and intransitive [@next b] without any further grammatical marking. Crucially, the object of the transitive is the subject of the intransitive. Because this diathesis is unmarked, there is no formal indication of a direction. So, this diathesis could just as well be interpreted as a causative. However, there is a formal difference between verbs that allow for both a *haben* and *sein* in the intransitive [@next c,d] and those that only allow for a *sein* in the intransitive. There seems to be an interesting semantic correlate to this formal difference in that the verbs that allow for both *haben* and *sein* seem primarily transitiv. Consequentially this group is called ~~Antikausativ~~, while the second group with only *sein* is called ~~Kausativ~~ (see [@sec:summary-kausativ]).
+The unmarked ~~Antikausativ~~ (full discussion in [@sec:case-haben-anticausative] and subsequent sections) is attested with verbs like *öffnen* 'to open' or *kochen* 'to cook'. These verbs occur both as transitive [@next a] and intransitive [@next b] without any further grammatical marking. Crucially, the object of the transitive is the subject of the intransitive. Because this diathesis is unmarked, there is no formal indication of a direction. So, this diathesis could just as well be interpreted as a causative. However, there is a formal difference between verbs that allow for both a *haben* and *sein* in the intransitive [@next c,d] and those that only allow for a *sein* in the intransitive. There seems to be an interesting semantic correlate to this formal difference in that the verbs that allow for both *haben* and *sein* seem primarily transitiv. Consequentially this group is called ~~Antikausativ~~ (this section), while the second group with only *sein* is called ~~Kausativ~~ (see [@sec:summary-kausativ]).
 
 ::: ex
 a. Der Mitarbeiter öffnet den Laden.
@@ -244,9 +252,11 @@ The ~~Unmöglichkeitsantikausativ~~ (full discussion in [@sec:zuinfinitive-gehen
 
 ## Passive diatheses ~~[OBJ › SBJ › ADJ]~~ 
 
+A ~~passive~~ is a diathesis that removes the role marked as subject and promotes an object to be the new subject. The erstwhile subject can optionally be expressed as a prepositional phrase. For details on the definition see [@sec:intro-subject-demotions], specifically starting at [@par:passive].
+
 ### *Vorgangspassiv* (*werden+Partizip*) {#sec:summary-vorgangspassiv}
 
-The ~~Vorgangspassiv~~ (full discussion in [@sec:participles-werden-passive]) is the infamous diathesis consisting of a light verb *werden* with a participle. Passives are very similar to anticausatives in that the transitive object is turned into the intransitive subject [@next]. The special characteristic of a passive is that the transitive subject can be optionally retained, typically as a prepositional *von* or *durch* phrase. However, note that this prepositional phrase is normally not used. The same *werden+Partizip* construction leads to a different diathesis with intransitive verbs, namely the *Unpersönliches Passiv* (see [@sec:summary-unpersonlicher-vorgangspassiv]).
+The ~~Vorgangspassiv~~ (full discussion in [@sec:participles-werden-passive]) is the infamous diathesis consisting of a light verb *werden* with a participle. Passives are very similar to anticausatives in that the transitive object is turned into the intransitive subject [@next]. The special characteristic of a passive is that the transitive subject can be optionally retained, typically as a prepositional *von* or *durch* phrase. However, note that this prepositional phrase is normally not used. The same *werden+Partizip* construction leads to a different diathesis with intransitive verbs, namely the *unpersönlicher Passiv* (see [@sec:summary-unpersonlicher-vorgangspassiv]).
 
 ::: ex
 a. Ich verkaufe den Schrank.
@@ -255,7 +265,7 @@ b. Der Schrank wird verkauft (von mir).
 
 ### *Möglichkeitspassiv* (*lassen+sich+Infinitiv*) {#sec:summary-moglichkeitspassiv}
 
-The ~~Möglichkeitspassiv~~ (full discussion in [@sec:infinitive-lassen-reflexive-anticausative]) consists of the light verb *lassen* with infinitive and an obligatory reflexive pronoun [@next]. The agent can be retained as a *von* prepositional phrase, so this diathesis is a passive. The same construction applied to intransitive verbs leads to a different diathesis, namely the *Unpersönliches Möglichkeitspassiv* (see [@sec:summary-unpersonlicher-moglichkeitspassiv]).
+The ~~Möglichkeitspassiv~~ (full discussion in [@sec:infinitive-lassen-reflexive-anticausative]) consists of the light verb *lassen* with infinitive and an obligatory reflexive pronoun [@next]. The agent can be retained as a *von* prepositional phrase, so this diathesis is a passive. The same construction applied to intransitive verbs leads to a different diathesis, namely the *unpersönlicher Möglichkeitspassiv* (see [@sec:summary-unpersonlicher-moglichkeitspassiv]).
 
 ::: ex
 a. Der Pförtner schließt die Tür.
@@ -264,7 +274,7 @@ b. Die Tür lässt sich schließen (von dem Pförtner).
 
 ### *Modalpassiv* (*sein+zu‑Infinitiv*) {#sec:summary-modalpassiv}
 
-The ~~Modalpassiv~~ (full discussion in [@sec:zuinfinitiv-sein-passive]) is constructed using the light verb *sein* with *zu* and an infinitive. When applied to transitive verbs like *führen* 'to lead' [@next a] or *lösen* 'to solve' [@next b] this diathesis promotes the accusative to nominative subject. The erstwhile nominative subject can be retained as a prepositional phrase. This diathesis has two different interpretations. It can indicate either an deontic modality ('must') as in [@next a] or an ability ('can') as in [@next b]. Note that the subject retention with the preposition *für* is only possible in the ability-interpretation. The closely related *Unpersönliches Modalpassiv* is used with intransitives and only allows for the deontic interpretation (see [@sec:summary-unpersonlicher-modalpassiv]).
+The ~~Modalpassiv~~ (full discussion in [@sec:zuinfinitiv-sein-passive]) is constructed using the light verb *sein* with *zu* and an infinitive. When applied to transitive verbs like *führen* 'to lead' [@next a] or *lösen* 'to solve' [@next b] this diathesis promotes the accusative to nominative subject. The erstwhile nominative subject can be retained as a prepositional phrase. This diathesis has two different interpretations. It can indicate either an deontic modality ('must') as in [@next a] or an ability ('can') as in [@next b]. Note that the subject retention with the preposition *für* is only possible in the ability-interpretation. The closely related *unpersönlicher Modalpassiv* is used with intransitives and only allows for the deontic interpretation (see [@sec:summary-unpersonlicher-modalpassiv]).
 
 ::: ex
 a. Der Besitzer führt den Hund an der Leine. \
@@ -275,7 +285,7 @@ b. Die Schüler lösen die Aufgabe. \
 
 ### *Zustandspassiv* (*sein+Partizip*) {#sec:summary-zustandspassiv}
 
-The ~~Zustandspassiv~~ (full discussion in [@sec:participles-sein-zustandspassiv]) consists of a light verb *sein* with a participle [@next]. Although this diathesis is traditionally called 'passive' in German grammar, the status of the retained agent is problematic and appears to be strongly dependent on the verb [@next b,c]. It might thus be better to consider this diathesis to be an anticausative. However, because of the long tradition I hold on to the term *Zustandspassiv*. The closely-related *sein+Partizip* ~~Erlebnispassiv~~ (see [@sec:summary-erlebnispassiv]) retains the subject with a governed preposition. Also the *sein+Partizip* ~~Perfekt~~ as found with some intransitive verbs is arguably the same construction, though applied to different verbs (see [@sec:summary-zustandsperfekt]).
+The ~~Zustandspassiv~~ (full discussion in [@sec:participles-sein-zustandspassiv]) consists of a light verb *sein* with a participle [@next]. Although this diathesis is traditionally called 'passive' in German grammar, the status of the retained agent is problematic and appears to be strongly dependent on the verb [@next b,c]. It might thus be better to consider this diathesis to be an anticausative. However, because of the long tradition I hold on to the term *Zustandspassiv* and the analysis of it being a passive. The closely-related *sein+Partizip* ~~Erlebnispassiv~~ (see [@sec:summary-erlebnispassiv]) retains the subject with a governed preposition. Also the *sein+Partizip* ~~Perfekt~~ as attested with some intransitive verbs is arguably the same construction, though applied to different verbs (see [@sec:summary-zustandsperfekt]).
 
 ::: ex
 a. Ich verkaufe den Schrank.
@@ -294,7 +304,7 @@ b. Der Spieler gehört bestraft (durch den Schiedsrichter)
 
 ### *Rezipientenpassiv* (*bekommen/kriegen/erhalten+Partizip*) {#sec:summary-rezipientenpassiv}
 
-The ~~Rezipientenpassiv~~ (full discussion in [@sec:participles-bekommen-passive]) has become a mainstay in the German grammatical literature. It consists of the light verb *bekommen* with a participle (alternatively, the light verbs *kriegen* or *erhalten* can be used). With this diathesis, a dative recipient is turned into the nominative subject. Again, the erstwhile nominative can be retained as a prepositional phrase, though it mostly is not used (as with all passives). Note that the same construction can also be used in a different 'achievement' interpretation without diathesis, called *Effektiv* (see [@sec:summary-effekativ]).
+The ~~Rezipientenpassiv~~ (full discussion in [@sec:participles-bekommen-passive]) has become a mainstay in the German grammatical literature. It consists of the light verb *bekommen* with a participle (alternatively, the light verbs *kriegen* or *erhalten* can be used). With this diathesis, a dative recipient is turned into the nominative subject. Again, the erstwhile nominative can be retained as a prepositional phrase, though it mostly is not used (as with all passives). Note that the same construction can also be used in a different 'achievement' interpretation without diathesis, called *Effektiv* here (see [@sec:summary-effekativ]).
 
 ::: ex
 a. Der Friseur schneidet mir die Haare.
@@ -303,7 +313,7 @@ b. Ich bekomme die Haare geschnitten (vom Friseur).
 
 ### *Pertinenzpassiv* (*haben+Partizip*) {#sec:summary-pertinenzpassiv}
 
-The ~~Pertinenzpassiv~~ (full discussion in [@sec:participles-haben-passive]) is a special construction because it looks identical to the *haben Perfekt* (see [@sec:summary-prozessperfekt]), often even being ambiguous among the two interpretations. However, the *Pertinenzpassiv* is functionally much closer to the *Rezipientenpassiv*. The new nominative subject *der Minister* 'the minister' [@next b] is the (dative) experiencer/benefactor of the cutting [@next a]. The original agent of the cutting *Friseur* 'barber' can only be retained with difficulty, so this diathesis looks closer to an anticausative. However, there is a well-known effect that this *Pertinenzpassiv* becomes much more common when stacked with a modal auxiliary like *wollen* 'to want' [@next c]. In such a stack, the original agent can clearly be retained.
+The ~~Pertinenzpassiv~~ (full discussion in [@sec:participles-haben-passive]) is a special construction because it looks identical to the *haben Prozessperfekt* (see [@sec:summary-prozessperfekt]), often even being ambiguous among the two interpretations. However, the *Pertinenzpassiv* is functionally much closer to the *Rezipientenpassiv*. The new nominative subject *der Minister* 'the minister' [@next b] is the (dative) experiencer/benefactor of the cutting [@next a]. The original agent of the cutting *Friseur* 'barber' can only be retained with difficulty, so this diathesis looks closer to an anticausative. However, there is a well-known effect that this *Pertinenzpassiv* becomes much more common when stacked with a modal auxiliary like *wollen* 'to want' [@next c]. In such a stack, the original agent can clearly be retained.
 
 The designation *pertinenz* refers to the fact that the new subject is necessarily the possessor of the accusative object *Haare*, 'hair'. Such inherent possessors turn up in various diatheses, and all instances will be designated with the qualifier *pertinenz*. The most famous one is the ~~Pertinenzdativ~~ (see [@sec:summary-pertinenzdativ]), but there are various others, like the ~~pertinenzinversiv~~ (see [@sec:summary-pertinenzinversiv]) and the ~~Ortspertinenzinversiv~~ (see [@sec:summary-ortspertinenzinversiv]).
 
@@ -324,9 +334,11 @@ b. Ich lasse mir den Rechner schenken (von dem Verkäufer).
 
 ## Conversive diatheses ~~[OBJ › SBJ › PBJ]~~
 
+A ~~conversive~~ is a diathesis that removes the role marked as subject and promotes an object to be the new subject. The erstwhile subject can optionally be expressed as a goverened prepositional phrase. For details on the definition see [@sec:intro-subject-demotions], specifically starting at [@par:conversive].
+
 ### *Erlebnispassiv* (*sein+Partizip*) {#sec:summary-erlebnispassiv}
 
-The ~~Erlebnispassiv~~ (full discussion in [@sec:participles-sein-conversive]) is constructed with the light verb *sein* and a participle. The form of this diathesis is identical to the *Zustandspassiv* (see [@sec:summary-zustandspassiv]), but there is a crucial difference in the remapping of the original nominative. Verbs that take a *Zustandspassiv*, like *öffnen* 'to open' only allow for the retention of the nominative with a *von* prepositional phrase, and only in special circumstances. In contrast, the verbs that take the *Erlebnispassiv* can regularly retain the agent with a governed preposition. For example, *verärgern* 'to displease' can express the original nominative with an *über* prepositional phrase [@next b], which is a governed preposition [@next c]. Verbs that take the *Erlebnispassiv* are typically verbs the express an experience.
+The ~~Erlebnispassiv~~ (full discussion in [@sec:participles-sein-conversive]) is constructed with the light verb *sein* and a participle. The form of this diathesis is identical to the *Zustandspassiv* (see [@sec:summary-zustandspassiv]), but there is a crucial difference in the remapping of the original nominative. Verbs that take a *Zustandspassiv*, like *öffnen* 'to open' only allow for the retention of the nominative with a *von* prepositional phrase, and only in special circumstances. In contrast, the verbs that take the *Erlebnispassiv* can regularly retain the agent with a governed preposition. For example, with the verb *verärgern* 'to displease' the original nominative can be expressed with an *über* prepositional phrase [@next b], which is a governed preposition [@next c]. Verbs that take the *Erlebnispassiv* are typically verbs the express an experience.
 
 ::: ex
 a. Die Nachricht verärgert mich.
@@ -348,9 +360,11 @@ d. Der Kunde ist empört über den Preis.
 
 ## Inversive diatheses ~~[OBJ › SBJ › OBJ]~~
 
+An ~~inversive~~ diathesis is a diathesis that switches subject and object. For details on the definition see [@sec:intro-symmetrical-subject], specifically starting at [@par:inversive].
+
 ### *Restinversiv* (*bleiben+zu‑Infinitiv*) {#sec:summary-restinversiv}
 
-The ~~Restinversiv~~ (full discussion in [@sec:zuinfinitive-bleiben]) uses the light verb *bleiben* with *zu* and an infinitive. This diathesis reverses the expression of the roles in that the accusative is promoted to a nominative, while the original nominative is demoted to an (optional) dative. Because the demotion is 'larger' than the promotion this would be called a ~~demoted inversive~~. Semantically, this diatheses expresses that (some part of) the patient is still left over to be applied to the verb.
+The ~~Restinversiv~~ (full discussion in [@sec:zuinfinitive-bleiben]) uses the light verb *bleiben* with *zu* and an infinitive. This diathesis reverses the expression of the subject and object roles, in that the accusative is promoted to a nominative, while the original nominative is demoted to an (optional) dative. Because the demotion is 'larger' than the promotion this can be called a ~~demoted inversive~~. Semantically, this diatheses expresses that (some part of) the patient is still left over to be applied to the verb.
 
 ::: ex
 a. Ich räume den letzten Schrank ein.
@@ -359,7 +373,9 @@ b. Dieser letzte Schrank bleibt (mir) noch einzuräumen.
 
 ### *Pertinenzinversiv* (*haben+am‑Infinitiv*) {#sec:summary-pertinenzinversiv}
 
-The ~~Pertinenzinversiv~~ (full discussion in [@sec:zuminfinitive-haben-am]), using the light verb *haben* with an *am‑Infinitiv*, reverses the expression of the roles, though in the different direction from the previous *Restinversiv* (see [@sec:summary-restinversiv]). In this diathesis the dative is promoted to nominative, while the nominative is demoted to accusative [@next]. Further, the dative *dem Mieter* 'tenant' is necessarily the possessor (*pertinenz*) of the nominative *die Wohnung* 'apartment', i.e. it is a *pertinenzdativ* (see [@sec:summary-pertinenzdativ]). Both in form and meaning this diathesis is strongly connected to the ensuing ~~Ortspertinenzinversiv~~ (see [@sec:summary-ortspertinenzinversiv]), in which the dative is the possessor of the obligatory location. It seems possible that the preposition *am* in this diathesis is in some way related to the absence of any location.
+The ~~Pertinenzinversiv~~ (full discussion in [@sec:zuminfinitive-haben-am]) is constructed with the light verb *haben* with an *am‑Infinitiv*. This diathesis also reverses the expression of the subject and object roles, though in the different direction from the previous *Restinversiv* (see [@sec:summary-restinversiv]). In this diathesis the dative is promoted to nominative, while the nominative is demoted to accusative [@next]. Because the promotion is 'larger' than the demotion this can be called a ~~promoted inversive~~. 
+
+Further, the dative *dem Mieter* 'tenant' is necessarily the possessor (*pertinenz*) of the nominative *die Wohnung* 'apartment', so it is a *Pertinenzdativ* (see [@sec:summary-pertinenzdativ]). Both in form and meaning this diathesis is strongly connected to the ensuing ~~Ortspertinenzinversiv~~ (see [@sec:summary-ortspertinenzinversiv]), in which the dative is the possessor of the obligatory location.
 
 ::: ex
 a. Dem Mieter brennt die Wohnung.
@@ -368,7 +384,7 @@ b. Der Mieter hat die Wohnung am Brennen.
 
 ### *Ortspertinenzinversiv* (*haben+Infinitiv*) {#sec:summary-ortspertinenzinversiv}
 
-The ~~Ortspertinenzinversiv~~ (full discussion in [@sec:infinitive-haben]) is closely related to the previous *Pertinenzinversiv* (see [@sec:summary-pertinenzinversiv]). Again, a dative is promoted to nominative, while the nominative is demoted to accusative. Also in both diatheses, the participant expressed by the dative is necessarily the possessor (*pertinenz*) of another participant. The difference is that with the current *Ortspertinenzinversiv* this 'other' participant is an obligatory location, e.g. *an der Nase* 'on the nose' in [@next]. The dative in this diathesis is thus an *Ortspertinenzdativ* (see [@sec:summary-ortspertinenzdativ]). An interesting difference to the otherwise highly similar *Pertinenzinversiv* in [@last b] is that the infinitive *Hängen* does not allow for the preposition *am* in this construction [@next c].
+The ~~Ortspertinenzinversiv~~ (full discussion in [@sec:infinitive-haben]) is closely related to the previous *Pertinenzinversiv* (see [@sec:summary-pertinenzinversiv]). Again, a dative is promoted to nominative, while the nominative is demoted to accusative. Also in both diatheses, the participant expressed by the dative is necessarily the possessor (*pertinenz*) of another participant. The difference is that with the current *Ortspertinenzinversiv* this other participant is an obligatory location, e.g. *an der Nase* 'on the nose' in [@next]. The dative in this diathesis is thus an *Ortspertinenzdativ* (see [@sec:summary-ortspertinenzdativ]). An further curious difference to the otherwise highly similar *Pertinenzinversiv* in [@last b] is that the infinitive *hängen* does not allow for the preposition *am* in this construction [@next c].
 
 ::: ex
 a. Ein Tropfen hängt ihm an der Nase.
