@@ -91,7 +91,7 @@ Examples like [@last a,b] seem to suggest that intransitive verbs like *schlafen
 
 ### Lexicalised noun-verb combinations {#sec:case-incorporation}
 
-There is a common pattern in German in which nouns are combined with a verb, like *eislaufen* 'ice skating'. Such constructions are highly reminiscent of the typologically widespread process of noun incorporation. However, in German such noun incorporation only occurs with individual lexeme combinations, so they are probably better interpreted as grammaticalised noun-verb collocations [@eisenberg2013: 324-327; @gallmann1999; -@gallmann2015]. 
+There is a common pattern in German in which nouns are combined with a verb, like *eislaufen* 'ice skating'. Such constructions are highly reminiscent of the typologically widespread process of noun incorporation. However, in German such noun incorporation only occurs with individual lexeme combinations, so they are probably better interpreted as grammaticalised noun-verb collocations [@eisenberg2006: 339ff; @gallmann1999]. 
 
 Most such combinations are written as separate words in German orthography, e.g. *Wache stehen* 'stand guard', so they might look like nominal arguments. However, they normally do not allow for any determiners or modifiers [@next a]. Only very few fixed combinations allow for an adjective [@next b] and/or a determiner [@next c].
 

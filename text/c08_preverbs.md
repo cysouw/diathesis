@@ -1783,7 +1783,7 @@ b. Ich dränge dir ein Abo auf.
 
 ### [ Np | ND ] Preverb dative applicative {#sec:preverb-dative-applicative}
 
-Some applicatives turn a prepositional phrase into a dative. For example, *stammen* 'to descent from' is used with a preposition *aus* [@next a]. This role is turned into a dative with the preverb *entstammen* 'to be descended from'.  Note that these are never governed prepositions [for *ent-*, see also @eisenberg2013: 252].
+Some applicatives turn a prepositional phrase into a dative. For example, *stammen* 'to descent from' is used with a preposition *aus* [@next a]. This role is turned into a dative with the preverb *entstammen* 'to be descended from'.  Note that these are never governed prepositions [for *ent-*, see also @eisenberg2006: 263-264].
 
 ::: ex
 - Ich stamme aus einem Adelsgeschlecht. 
@@ -1991,7 +1991,7 @@ b. Ich beschreibe das Papier mit Buchstaben.
 
 #### *über* Preverb full applicative
 
-See also Eisenberg [-@eisenberg2013: 245-246].
+See also Eisenberg [-@eisenberg2006: 257-258].
 
 ::: ex
 - Ich streue Zucker über den Kuchen. 

@@ -140,7 +140,7 @@ a. Sie kauft die Nägel krum ein.
 b. Ich habe mein Fahrrad grün angestrichen.
 :::
 
-The most frequent resultative adjectival predicates in German are *leer-, voll-, tot-, fest-* [@eisenberg2013: 322-323], but many others are also attested [@next a-c], e.g. *stillschweigen, fertigstellen, vollquatschen, festschrauben, plattlaufen*. Additionally, datives from raised possessors are often possible [@next b], see [@sec:case-possessor-accusative-to-dative], including subsequent reflexive constructions [@next c]. The Duden grammar [-@duden2009: 790] presents *Er hält/macht den Tisch sauber* as examples of resultative adverbial constructions. However, these examples are probably better analysed as adjectival predicates with light verbs *halten/machen*, cf. [@sec:participles-adjectives-light-verb-constructions].]
+Productive resultative adjectival predicates in German are *leer-, voll-, tot-, fest-* [@fuhrhop2012: 79-80], but many others are also attested [@next a-c], e.g. *stillschweigen, fertigstellen, vollquatschen, festschrauben, plattlaufen*. Additionally, datives from raised possessors are often possible [@next b], see [@sec:case-possessor-accusative-to-dative], including subsequent reflexive constructions [@next c]. The Duden grammar [-@duden2009: 790] presents *Er hält/macht den Tisch sauber* as examples of resultative adverbial constructions. However, these examples are probably better analysed as adjectival predicates with light verbs *halten/machen*, cf. [@sec:participles-adjectives-light-verb-constructions].]
 
 ::: ex
 a. Er niest das Taschentuch voll.
