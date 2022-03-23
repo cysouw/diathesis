@@ -1301,7 +1301,7 @@ b. Über die Zerstörung der Schöpfung […] wird sich empört.^[~~DWDS~~: Berl
 - *über*  : (Object of emotional reaction): *aufregen, ärgern, begeistern, beschweren, empören, erschrecken, erstaunen, erzürnen, freuen, wundern*
 - *an*    : (Object of emotional reaction): *belustigen, brechen, stören, erfreuen, erheitern*
 - *von*   : *nähren, verabschieden*
-- *aus*   : *bilden, entwickeln, ergeben*
+- *aus*   : *bilden, entwickeln, ergeben, speisen*
 - *vor*   : *drücken*
 - *um*    : *bekümmern, kümmern*
 - *in*    : *langweilen, spiegeln*
@@ -1349,6 +1349,7 @@ b. Über die Zerstörung der Schöpfung […] wird sich empört.^[~~DWDS~~: Berl
 - Die Schule langweilt mich. Ich langweile mich in der Schule.
 - Die Rede erzürnt mich. Ich erzürne mich über die Rede.
 - Die gute Nachricht erheitert mich. Ich werde erheitert durch die gute Nachricht.
+- Das Geld speist seine Macht. Seine Macht speist sich daraus, dass er Dinge erledigt.
 
 **Notes**
 
@@ -1630,9 +1631,10 @@ b. Ich bin mir keiner Schuld bewusst.
 A verb like *träumen* 'to dream' has a governed preposition *von* [@next a,b]. With a reflexive pronoun *sich träumen* a locative adverbial is needed, e.g a prepositional phrase with *nach* 'to' [@next c,d]. The meaning of this construction is that by performing the verb (i.e. by dreaming) the locational description is achieved (i.e. being in New York). The location always appears to be describing a movement, with *durch* 'through' being the most productive. There seems to be a close connection to the forced movement diathesis (see [@sec:prepositions-transitive-location-as-result]).
 
 ::: ex
-a. Ich träume von New York. 
-b. Ich träume davon nach New York zu reisen.
-c. Ich träume mich nach New York.
+a. Ich träume von New York. \
+   (= Ich träume davon nach New York zu reisen.)
+c. Ich träume mich nach New York. \
+   (= Ich träume, und im Traum bin ich in New York.)
 d. ^* Ich träume mich.
 :::
 
@@ -1646,7 +1648,7 @@ d. ^* Ich träume mich.
 - Ich kämpfe mit den Wellen. Ich kämpfe mich durch die Wellen.
 - Ich lüge über mein Leben. Ich lüge mich durch mein Leben.
 - Die Motten fressen von/an den Pullover. Die Motten fressen sich durch den Pullover.
-- Bevor ich auf das Wasser gehe, muss ich meine Kür exakt im Kopf haben, ich denke mich quasi durch meinen Trick.^[~~DWDS~~: Die Zeit, 16.06.2009, Nr. 25.]
+- Bevor ich auf das Eis gehe, muss ich meine Kür exakt im Kopf haben, ich denke mich quasi durch meinen Trick.^[~~DWDS~~: Die Zeit, 16.06.2009, Nr. 25.]
 - Er zitterte vor der Prüfung. Würzburg zitterte sich am Ende in die Playoffs.^[~~DWDS~~: Die Zeit, 07.05.2016 (online).]
 - Schalke schießt sich aus der Krise.^[Attested online at <https://www.faz.net/aktuell/sport/2-0-gegen-hannover-schalke-schiesst-sich-aus-der-krise-1258798.html>, accessed 30 March 2021.]
 

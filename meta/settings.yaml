@@ -10,8 +10,8 @@ margin-right: 4cm
 # pandoc-crossref settings
 
 secPrefix: 
-  - Section
-  - Sections
+  - Sec­tion
+  - Sec­tions
 tblPrefix:
   - Table
   - Tables

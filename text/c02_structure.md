@@ -103,7 +103,8 @@ A further kind of utterance-valency argument can be instantiated by *es*, the 3r
 First, *es* can be used for anaphoric reference to neuter nouns, typically with gender agreement as shown in [@next]. There are many variants of such ~~phoric~~ usage, extensively discussed by Czicza [-@czicza2014: Ch. 2]. 
 
 ::: ex
-Das Mädchen weint. Ich tröste es.
+Das Mädchen weint. \
+Ich tröste es.
 :::
 
 Second, another kind of referential *es* occurs with some non-finite complement clauses. By definition, a complement clause replaces an argument [@next a], but in some cases a pronoun *es* remains in place of the original argument, side by side with the complement clause [@next b]. This is known as a ~~correlative~~ *es* [@czicza2014: 79ff.].
@@ -708,7 +709,7 @@ a. Der Sohn faltet die Wäsche.
 b. Der Vater lehrt seinem Sohn die Wäsche falten.
 :::
 
-The ~~novative with extended demotion [Ø › SBJ › PBJ]~~ is extremely rare in German. The name is adapted from Kulikov [-@kulikov2011: 388] to denote a diathesis in which the demotion accmopanying the novative is not just ~~[SBJ › OBJ]~~ but ~~[SBJ › PBJ]~~. The diathesis between *freuen* 'to be pleased' and *erfreuen* 'to please' [@next] might be an example because *mit* is a governed preposition [@next c], see [@sec:preverb-reversed-fabricative].
+{#par:novativedemotion} The ~~novative with extended demotion [Ø › SBJ › PBJ]~~ is extremely rare in German. The name is adapted from Kulikov [-@kulikov2011: 388] to denote a diathesis in which the demotion accmopanying the novative is not just ~~[SBJ › OBJ]~~ but ~~[SBJ › PBJ]~~. The diathesis between *freuen* 'to be pleased' and *erfreuen* 'to please' [@next] might be an example because *mit* is a governed preposition [@next c], see [@sec:preverb-reversed-fabricative].
 
 ::: ex
 ~~Novative with extended demotion [Ø › SBJ › PBJ]~~
@@ -718,7 +719,7 @@ b. Er erfreut mich mit einem Geschenk.
 c. Er erfeut mich damit, dass er mich besucht.
 :::
 
-{#par:novativedemotion} Slightly more widespread, a ~~novative with extreme demotion [Ø › SBJ › ADJ]~~ is a novative diathesis that almost completely removes the erstwhile subject. This is attested in an interesting group of constructions using light verbs like *finden* with a participle and a transitive main verb like *aufheben* 'to preserve' [@next], see [@sec:participle-finden-transitive-opiniative]. With this diathesis, there is a new opiniator introduced, just like with the opiniative above (see [@par:opiniative]). However, the erstwhile nominative subject is now demoted to an optional prepositional phrase.
+Slightly more widespread, a ~~novative with extreme demotion [Ø › SBJ › ADJ]~~ is a novative diathesis that almost completely removes the erstwhile subject. This is attested in an interesting group of constructions using light verbs like *finden* with a participle and a transitive main verb like *aufheben* 'to preserve' [@next], see [@sec:participle-finden-transitive-opiniative]. With this diathesis, there is a new opiniator introduced, just like with the opiniative above (see [@par:opiniative]). However, the erstwhile nominative subject is now demoted to an optional prepositional phrase.
 
 ::: ex
 ~~Novative with extreme demotion [Ø › SBJ › ADJ]~~
@@ -815,7 +816,7 @@ The bottom right is completely empty because these remappings are not diatheses 
 
 I will discuss the different role-remappings from [@fig:objectdiatheses] in four subsections. First, I will look at the various kinds of applicatives and antipassives (mid left and mid top), then at the objectives and deobjectives (top right and left bottom), followed by locative and delocative diatheses (mid bottom and mid right), and finally at the symmetrical exchanges (on the diagonal).
 
-#### Applicatives & antipassives 
+#### Applicatives & antipassives {#sec:intro-applicative-antipassive}
 
 Applicatives and antipassives are very similar, though reversed. ~~applicatives [ADJ › OBJ]~~ change a prepositional phrase into a case-marked phrase, while ~~antipassives [OBJ › ADJ]~~ convert a case-marked phrase into a prepositional phrase. Given this affinity, instead of 'antipassive' it might be better to call such remappings 'antiapplicative' [e.g. @haspelmath2004c: 1132] or 'deapplicative' (in line with the other names below).
 
@@ -913,7 +914,7 @@ b. Ich schneide dir in den (deinen) Finger. \
     (= Ich schneide in deinen Finger.)
 :::
 
-#### Objectives & deobjectives 
+#### Objectives & deobjectives {#sec:intro-objective-deobjective}
 
 A ~~deobjective diathesis [OBJ › Ø]~~ is a diathesis that drops an object, i.e. a role cannot be expressed anymore [the term is taken from @haspelmath2004c: 1131]. A deobjective drop is illustrated in [@next] with an alternation from *kaufen* 'to buy' to *einkaufen* 'to shop', see [@sec:preverb-accusative-drop] for an extensive discussion.
 
@@ -933,7 +934,7 @@ a. Er verbrennt das Buch.
 b. Er verbrennt sich.
 :::
 
-An ~~objective diathesis [Ø › OBJ]~~ is a diathesis that adds a new object, i.e. a completely new role is introduced in the form of an object. An example of an overtly marked object addition is the alternation from *zaubern* 'to perform magic' to  *verzaubern* 'to enchant' [@next]. Additions are frequently attested with preverbs like *ver-*, see [@sec:preverb-accusative-addition].
+{#par:objective} An ~~objective diathesis [Ø › OBJ]~~ is a diathesis that adds a new object, i.e. a completely new role is introduced in the form of an object. An example of an overtly marked object addition is the alternation from *zaubern* 'to perform magic' to  *verzaubern* 'to enchant' [@next]. Additions are frequently attested with preverbs like *ver-*, see [@sec:preverb-accusative-addition].
 
 ::: ex
 ~~Objective [Ø › OBJ]~~
@@ -971,9 +972,9 @@ b. Er stotterte eine Entschuldigung. \
    (= Er stotterte, und das Resultat ist eine Entschuldigung.)
 :::
 
-#### Locatives & delocatives 
+#### Locatives & delocatives {#sec:intro-locative-delocative}
 
-A ~~Locative diathesis [Ø › PBJ]~~ is a diatheses that adds an obligatory locational propositional phrase ~~PBJ~~ to the clause.^[There is no connection between a locative diathesis and a locative case. Both terms simply use the word *locative* to describe the fact that the marking of location is concerned.]  For example, the transitive *befehlen* 'to order' marks the ordered person as an accusative [@next a]. With an (directional) locative phrase *an die Front* 'to the frontline' the sentence gets a caused-motion or resultative reading [@next b], see [@sec:prepositions-transitive-location-as-result].
+A ~~Locative diathesis [Ø › PBJ]~~ is a diatheses that adds an obligatory locational phrase ~~PBJ~~ to the clause.^[There is no connection between a locative diathesis and a locative case. Both terms simply use the word *locative* to describe the fact that the marking of location is concerned.]  For example, the transitive *befehlen* 'to order' marks the ordered person as an accusative [@next a]. With an (directional) locative phrase *an die Front* 'to the frontline' the sentence gets a caused-motion or resultative reading [@next b], see [@sec:prepositions-transitive-location-as-result].
 
 ::: ex
 ~~Locative (caused motion) [Ø › PBJ]~~
@@ -993,7 +994,7 @@ b. Ich schwitze einen Fleck in mein Hemd. \
    (= Ich schwitze, und dadurch ist ein Fleck in meinem Hemd.)
 :::
 
-The reversal of a locative diathesis is a ~~delocative diathesis [PBJ › Ø]~~. In such a diathesis an obligatory location loses its obligatory status. An example of such a diathesis is shown in [@next] with the alternation between *stecken* 'to put into' and *verstecken* 'to hide'. The verb *stecken* needs an obligatory location [@next a,b]. Such an obligatory location is classified here as a prepositional object ~~PBJ~~ (see [@sec:intro-arguments-utterance-valency]). The situation is different with the verb *verstecken*. With this verb the location is an optional adjunct and can be left out (see [@sec:preverb-transitive-antiresultative] for an extensive discussion).
+{#par:delocative} The reversal of a locative diathesis is a ~~delocative diathesis [PBJ › Ø]~~. In such a diathesis an obligatory location loses its obligatory status. An example of such a diathesis is shown in [@next] with the alternation between *stecken* 'to put into' and *verstecken* 'to hide'. The verb *stecken* needs an obligatory location [@next a,b]. Such an obligatory location is classified here as a prepositional object ~~PBJ~~ (see [@sec:intro-arguments-utterance-valency]). The situation is different with the verb *verstecken*. With this verb the location is an optional adjunct and can be left out (see [@sec:preverb-transitive-antiresultative] for an extensive discussion).
 
 ::: ex
 ~~Delocative [PBJ › Ø]~~
@@ -1004,7 +1005,7 @@ c. Ich verstecke das Geschenk in dem Schrank.
 d. Ich verstecke das Geschenk.
 :::
 
-#### Symmetrical object diatheses 
+#### Symmetrical object diatheses {#sec:intro-symmetrical-object}
 
 Symmetrical object diatheses are rare in German. A ~~case change [OBJ › OBJ]~~ is illustrated in [@next] by the alternation between *folgen* 'to follow' (with dative) and *verfolgen* 'to chase' (with accusative), see [@sec:preverb-dative-accusative].
 
@@ -1039,7 +1040,7 @@ Chains of object diatheses (i.e. chains with the object in the middle of the cha
 
 ![Attested chains of object diathesis](figures/objectchains){#fig:objectchains}
 
-#### Full applicatives 
+#### Chained applicatives {#sec:intro-chained-applicative}
 
 The patterns in the center of the figure are the most frequent chains with an object, called collectively ~~full applicative [ADJ › OBJ › ADJ]~~. These diatheses are combinations of an applicative promotion ~~[ADJ › OBJ]~~ and an antipassive demotion ~~[OBJ › ADJ]~~. A typical example is the diathesis between *werfen* 'to throw' and *bewerfen* 'to throw at' [@next], see [@sec:preverb-applicative-antipassive]. In such examples a prepositional phrase turns into an accusative, and the erstwhile accusative into a prepositional phrase.
 
@@ -1070,7 +1071,7 @@ b. Ich bewundere ihn für seine Ehrlichkeit.
 c. Ich bewundere ihn dafür, dass er ehrlich ist.
 :::
 
-#### Chained objectives & deobjectives 
+#### Chained objectives & deobjectives {#sec:intro-chained-objective-deobjective}
 
 At the extreme right and bottom of [@fig:objectchains] are chains that involve the addition or drop of a lexical role. An objective ~~[Ø › OBJ]~~ is typically chained with an antipassive ~~[OBJ › PBJ/ADJ]~~, resulting in a chain ~~[Ø › OBJ › PBJ]~~. This is attested in the resultative object addition illustrated here with the verb *schneiden* to cut [@next], see [@sec:prepositions-action-result]. A new object, that is the result of the cutting, is introduced, while the old object is turned into a prepositional phrase [@next a,b]. This prepositional phrase cannot be left out [@next c], so it classified here as an obligatory location (~~PBJ~~).
 

@@ -765,7 +765,7 @@ d. ^* Der Brief öffnet.
 
 The alternation with the verb *rücken* 'to move over' and *ziehen* 'to pull' are rather idiosyncratic. Possibly, these alternations constructions are better seen as different verbs.
 
-### [ –NL | NAL ] *Umlaut* Causative+location
+### [ –NL | NAL ] *Umlaut* Causative+location {#sec:prepositions-umlaut-caused-location}
 
 ::: ex
 Der Hund liegt in den Korb.
@@ -1287,14 +1287,6 @@ It seems to be somewhat unusual for verbs with dative – but no accusative – 
 - Die Bürger flohen dem Krieg. Sie flohen vor dem Krieg.
 - Der schnellfüßige Käfer ist lichtscheu und flieht dem Geräusch.^[~~DWDS~~: Die Landfrau, 12.09.1925]
 
-**Notes**
-
-An extra dative seems to be very widespread with *zu* phrases in the interpretation *für den Geschmack von* Dative [cf. *dativus iudicantis*, @hole2014: 6-7]. This construction might be better considered to be an additional diathesis by itself.
-
-- Paul fuhr seiner Mutter zu schnell. Paul fuhr zu schnell für den Geschmack von seiner Mutter.
-- Ich komme dir zu früh an. Ich komme zu früh an für deinen Geschmack.
-- Ich lüge dir zu viel. Ich lüge zuviel für deinen Geschmack.
-
 ### [ NAD | NAp ] Dative antipassive+accusative {#sec:prepositions-dative-antipassive-accusative}
 
 With an additional accusative argument it is widespread for dative arguments to have an alternative expression in the form of a prepositional phrase. However, it is much more difficult to characterise the difference between two such alternative expressions (cf. [@devaere2018] for an investigation for the verb *geben* and the large literature on the English dative alternation). There are only a few monosyllabic prepositions that can be used for this alternation.
@@ -1624,15 +1616,13 @@ e. Ich befehle die Armee, während ich an der Front bin.
 
 ### [ NA– | NAP ] Performative result {#sec:prepositions-performative-result}
 
-A slightly different variant of a resultative constructions is found with various performative verbs that take a regular accusative [@next a]. As an alternative structure, these verbs also allow a construction with an accusative and a preposition [@next b] Note that the prepositional phrase cannot be left out in these constructions. The meaning of such constructions is parallel to the previous resultatives, in that the performative verb causes the result [@next c]. Such constructions were named quite aptly "Ergänzende Wirkung" all the way back in the influential educational grammatical work of Karl Ferdinand Becker [@becker1833: 81] almost 200 years ago.
+A slightly different variant of a resultative constructions is found with various performative verbs that take a regular accusative [@next a]. As an alternative structure, these verbs also allow a construction with an accusative and a prepositional phrase [@next b]. Note that the prepositional phrase cannot be left out in these constructions. The meaning of such constructions is parallel to the previous resultatives in that the performative verb causes the result. Such constructions were named quite aptly "Ergänzende Wirkung" all the way back in the influential educational grammatical work of Karl Ferdinand Becker [-@becker1833: 81] almost 200 years ago.
 
 ::: ex
 a. Er macht die Aufgaben. 
-b. Er macht die Wiese zu einem Garten.
-c. Er macht etwas, und das Ergebnis ist: Die Wiese ist ein Garten.
+b. Er macht die Wiese zu einem Garten. \
+   (= Er macht etwas, und das Ergebnis ist: Die Wiese ist ein Garten.)
 :::
-
-Maybe the *als* alternation has to treated as a separate diathesis.
 
 **Attested Verbs**
 
@@ -1686,13 +1676,18 @@ b. Er kämmt dir die Läuse aus den Haaren.
 
 **Further Examples**
 
-- Er polierte den Fleck von der Gabel. Er polierte die Gabel.
-- Er filterte den Schmutz aus dem Wasser. Er filterte das Wasser.
-- Er wischte das Wasser von dem Tisch. Er wischte den Tisch.
-- Er kämmte die Läuse aus den Haaren. Er kämmte die Haare.
-- Ich schneide ein Loch in den Teppich. Ich schneide den Teppich.
-- Ich bügle die Falten aus dem Hemd. Ich bügle das Hemd.
-- Ich breche eine Tür in den Felsen. Ich breche den Felsen.
+- Er polierte die Gabel. \
+  Er polierte den Fleck von der Gabel.
+- Er filterte das Wasser. \
+  Er filterte den Schmutz aus dem Wasser.
+- Er wischte den Tisch. \
+  Er wischte das Wasser von dem Tisch.
+- Ich schneide den Teppich. \
+  Ich schneide ein Loch in den Teppich.
+- Ich bügle das Hemd. \
+  Ich bügle die Falten aus dem Hemd.
+- Ich breche den Felsen. \
+  Ich breche einen Durchgang in den Felsen. 
 
 ### [ Np– | NAA ] Naming result {#sec:prepositions-naming-result}
 
@@ -1747,6 +1742,22 @@ e. Gib mir eine Waffe und ich gewinne dir jeden Krieg.^[Attested online at <http
 - Er stimmt mir den Kontrabas. Er stimmt den Kontrabass für mich. (*stimmen* 'to tune', a different meaning from *stimmen* 'to vote' that does not allow this diathesis)
 - Ich töte dir den Hasen. Ich töte den Hasen für dich.
 - Ich garantiere dir den Erfolg. Ich garantiere den Erfolg für dich.
+
+### [ Np | ND ] *für deinen Geschmack* Judgement dative {#sec:prepositions-judgement-dative}
+
+An extra dative can be introduced together with an obligatory *zu/genug* phrase in the interpretation of an evaluator *für den Geschmack von* [also known as *dativus iudicantis*, e.g. @hole2014: 6-7, 172-176]. It is typically used with intransitive verbs [@next a], though transitive construction seem possible [@next b].
+
+::: ex
+- Paul fuhr zu schnell/schnell genug für den Geschmack von seiner Mutter. \
+  Paul fuhr seiner Mutter zu schnell/schnell genug.
+- Der Student beantwortete die Frage nicht schnell genug für den Geschmack der Professorin. \
+  Der Student beantwortete der Professorin die Frage nicht schnell genug.
+:::
+
+**Further Examples**
+
+- Der Zug kommt dir zu früh an. Der Zug kommt zu früh an für deinen Geschmack.
+- Ich lüge dir zu viel. Ich lüge zuviel für deinen Geschmack.
 
 ### --- [ ADJ > OBJ ] --- *Ortspertinenzdativ* {.unnumbered}
 
@@ -1878,14 +1889,16 @@ b. Der Platz wimmelt von Kindern.
 
 ### [ NAp | NpA ] Full applicative {#sec:prepositions-instrument-applicative}
 
-In German, applicatives are typically attested with verbal prefixes like *be-* [@next a] or verbal particles like *ein-* [@next b], see [@sec:preverb-promotion-to-object]. In such alternations, the role that is marked as an accusative object changes. The accusative argument is the one that is more affected, so changing the accusative role also changes the perspective of the action (similar to what happens with antipassives, see [@sec:prepositions-accusative-antipassive]). 
+In German, full applicatives are typically attested with verbal prefixes like *be-* [@next a] or verbal particles like *ein-* [@next b], see [@sec:preverb-promotion-to-object]. In such alternations, the role that is marked with the accusative case changes. An accusatively marked argument is typically more affected than a prepositional object, so changing which role is marked in the accusative also changes the perspective of the action (similar to what happens with antipassives, see [@sec:prepositions-accusative-antipassive]). 
 
 ::: ex
-a. Ich werfe Dreck auf dich. Ich bewerfe dich mit Dreck.
-b. Ich wickle das Tuch um den Arm. Ich wickle den Arm in dem Tuch ein.
+a. Ich werfe Dreck auf dich. \
+   Ich bewerfe dich mit Dreck.
+b. Ich wickle das Tuch um den Arm. \
+   Ich wickle den Arm in dem Tuch ein.
 :::
 
-With a few verbs this alternation is attested without a verbal prefix or particle. In most cases this includes an optional *mit* instrument that alternates with an accusative object [@next a-c], cf. the English 'spray/load' alternation from Levin [-@levin1993: 50-51]. This instrument alternation is closely related to the *mit* antipassive (see [@sec:prepositions-mit-antipassive]). In addition to the antipassive, in this case another accusative alternates with a locative preposition that is obligatorily present [@next c,d].
+With a few verbs this alternation is attested without a verbal prefix or particle. In most cases this includes an optional *mit* instrument that alternates with an accusative object [@next a-c], cf. the English 'spray/load' alternation from Levin [-@levin1993: 50-51]. This instrument alternation is closely related to the *mit* antipassive (see [@sec:prepositions-mit-antipassive]). In addition to the *mit* antipassive, in this diathesis another accusative alternates with a locative preposition that is obligatorily present [@next c,d], reminiscent of 
 
 ::: ex
 a. Er füllt die Flasche mit Schnaps.
@@ -1925,7 +1938,7 @@ b. Ich schieße den Bären mit einer Kugel.
 c. Ich schieße mit einer Kugel auf den Bären
 :::
 
-The verb *vergleichen* 'to compare' allows for the flipping of roles [@next a,b]. This alternation is slightly different from the other verbs in this class as there is not location involved.
+The verb *vergleichen* 'to compare' allows for the flipping of roles [@next a,b]. This alternation is slightly different from the other verbs in this class as there is no location involved.
 
 ::: ex
 a. Er vergleicht mich mit einem Affen.

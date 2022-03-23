@@ -402,7 +402,7 @@ c. Es ist zum Heulen.
 
 ### [ –N | NA ] *halten+am‑Infinitiv* Continuative causative (*Kontinuitätskausativ*) {#sec:zuminfinitive-halten-causative}
 
-The *halten+am‑Infinitiv* construction is used with intransitive verb, most typically with *am Laufen* 'to walk' [@next a]. It adds a new participant to the event that causes the process to continue. This construction is also frequently attested with verbs describing heat production, like *kochen* 'to cook' [@next b]. However, these cooking verbs appear to be mostly used in a metaphorical sense. Surely, expression like *halten am Kochen* 'to keep something cooking' can be used in a literal sense in a conversation about cooking. However, such an expression is more frequently used in a metaphorical sense of 'to keep some discussion alive' [@next b].
+The *halten+am‑Infinitiv* construction is used with agentive intransitive verb, most typically with *am Laufen* 'to walk' [@next a]. However, the subject of the intransitive has to be an inanimate entity. The *halten+am‑Infinitiv* diathesis adds a new participant to the event that causes the process to continue. This construction is also frequently attested with verbs describing heat production, like *kochen* 'to cook' [@next b]. However, these cooking verbs appear to be mostly used in a metaphorical sense. Surely, expression like *halten am Kochen* 'to keep something cooking' can be used in a literal sense in a conversation about cooking. However, such an expression is more frequently used in a metaphorical sense of 'to keep some discussion alive' [@next b].
 
 ::: ex
 - Der so erzeugte Druck hielt die Partnerschaft am Laufen.^[~~DWDS~~: Berliner Zeitung, 28.05.1999.]
