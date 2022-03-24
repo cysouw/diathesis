@@ -50,7 +50,7 @@ Different from [@last], some preposition+article+infinitive combinations have sp
 
 By definition, a combination of preposition+article+infinitive is a grammaticalised *Präpositionsinfinitiv* when the following characteristics hold. These characteristics will be illustrated in more detail below.
 
-(i) The preposition and the article are fused.
+(i) The preposition and the article are obligatorily fused.
 (ii) The fused preposition/article is always unstressed (e.g. contrastive focus is not possible).
 (iii) The fused preposition/article is inseparable into its component pieces. 
 (iv) The infinitive does not allow for any attributive modifiers, neither pre-nominal adjectives nor post-nominal genitives or prepositional phrases.
@@ -145,13 +145,15 @@ A possible example in an early stage of a grammaticalisation is the verb *denken
 - Viele Junge denken ans Auswandern.^[~~DWDS~~: Die Zeit, 04.03.2013, Nr. 10.]
 :::
 
-Another possible candidate for grammaticalisation is the verb *bringen*. The verb *bringen* 'to bring', without *zu* [@next a], has a rather different meaning compared to *bringen zu* 'to provoke', with a governed preposition *zu* [@next b]. This might be a first step in a development towards a new *Präpositionsinfinitiv* construction. However, currently there is simply a bifurcation between a verb *bringen* and a verb *bringen zu*. There is not (yet) a semantic distinction between a *bringen zu* with a *Präpositionsinfinitiv* and a *bringen zu* without that option.
+Another candidate for grammaticalisation is the verb *bringen*. The verb *bringen* 'to bring' without *zu* [@next a] has a rather different meaning compared to *bringen zu* 'to provoke, to cause' with a governed preposition *zu* [@next b]. This might be a first step in a development towards a new *Präpositionsinfinitiv* construction. However, currently there is simply a bifurcation between a verb *bringen* and a verb *bringen zu*. Crucially, *bringen zu* allows for modification of the infinitive [@next c]. A completely grammaticalised *Präpositionsinfinitiv* is arguably very close in this construction.
 
 ::: ex
 - Sie bringt mich nach Hause.
 - Sie bringt mich immer zum Weinen. \
-  Sie bringt mich immer dazu, zu weinen. \
-  Sie bringt mich immer dazu, dass ich weine.
+  Sie bringt mich immer dazu, zu weinen.
+- […] wenn […] ein wilder Föhn […] die weichen Schneemassen […] zum schnellen Schmelzen bringt.^[~~DWDS~~: Voß, Richard: Zwei Menschen, Stuttgart: Engelhorn 1911 [1949], S. 52.] \
+  Wer es zum aktiven Offizier gebracht hat […].^[~~DWDS~~: Süddeutsche Zeitung, 1995 [1945].] \
+  Er hätte vielleicht sogar auf diese Art seine Flucht zum guten Ende bringen können.^[~~DWDS~~: Seghers, Anna: Das siebte Kreuz, Berlin: Aufbau-Taschenbuch-Verl. 2002 [1942], S. 207.]
 :::
 
 A example of a light verb that has already separated from its lexical meaning is *kommen+zum‑Infinitiv* 'end of movement', which has a different meaning from *kommen+zu‑Infinitiv* 'to have time for' (see [@sec:zuminfinitive-kommen-zum]).

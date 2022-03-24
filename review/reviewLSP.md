@@ -101,7 +101,7 @@ One productive pattern is missing ‘stehen davor zu + Infinitive’, e.g., ‘E
 The notion ‘Affectedness’ is used differently by different authors. How is the term used in the current volume? I am not sure why, for example, ‘selbstbezogener Reflexiv’ (p. 92) and ‘Reziprok’ (p. 93) is subsumed under the notion of ‘affectedness’. The notion ‘affectedness’ needs a precise explication in the book.
 I wonder in how far the examples in 4.38 (p. 93) display a (slight) difference in affectedness of the subject-referent. Is this mere intuition or supported by linguistic test criteria?
 
-> The term 'affectedness' in chapter 4 was indeed unfortunate. I have changed it to the more non-commital 'diathetical epethesis'. This is clearly not an ideal name, and I look forward to a better analysis of the phenomena discussed under this heading. Note that there are a few incidental uses of the word 'affectedness' still in the book, but in these cases the word is clearly used atheoretically.
+> The term 'affectedness' in chapter 4 was indeed unfortunate. I have changed it to the more non-commital 'diathetical epithesis'. This is clearly not an ideal name, and I look forward to a better analysis of the phenomena discussed under this heading. Note that there are a few incidental uses of the word 'affectedness' still in the book, but in these cases the word is clearly used atheoretically.
 
 Closely related is the discussion of the distinction between unmarked anticausatives and unmarked causatives (p. 110). There seems to be an intuitive decision for analyzing the examples in 5.33 as an instance of a causative alternation. One wonders whether this can be substantiated by linguistic test criteria. One could argue, for example, that a gebautes Haus always presupposes that someone has built the house. There is definitely some semantics literature dealing with this issue (one could start with Andrew Koontz-Garbooden’s work). Anyway, a decision to analyze the example in terms of this or that category should be supported by linguistics criteria and not mere intuition.
 
@@ -357,15 +357,42 @@ What is the reason for analyzing this construction as a type of ‘passive’?
 > no, there is no such implication. Also note that the term 'resultative' has multiple different meanings in grammatical theory. See fn. 6 in Chapter 2.
 
 - p. 82 ‘is placed at the end in a subordinate situation’: not the situation is subordinated but the clause.
+
+> changed
+
 - p. 82 ‘has a specific set of verbs to which can’: ‘to which it can’
+
+> done
+
 - p. 84 4.6b The sentence has a habitual rather than a progressive interpretation due to ‘dauernd’. You can drop ‘dauernd’ and the progressive reading obtains.
+
+> changed adverb and reformulated explanation
+
 - p. 87 In the discussion of the absentiv, it is claimed that the subject is not present. ‘Subject’ is a grammatical term and there is definitely a subject in the sentence. What is meant is that the subject referent is not present. But not present where? In how far does ‘Ich bin beim Arbeiten’ mean that the subject referent of I is not present? For me, the sentence has a progressive interpretative. Wouldn’t be ‘Ich bin bei der Arbeit’ closer to what is usually called ‘absentiv’?
+
+> Explanation rephrased. The construction in isolation is indeed some kind of progressiv, but in context it can only be used when the intended meaning is that the participant is absent. This is also the general consensus in the literature as discussed in the main discussion in Chapter 11
+
 - p. 88 4.20b Here we have a Funkionsverbgefüge again.
+
+> again, please consider my definition carefully: this construction has a non-derived infinitive *stehen*, so I consider this still within the realm of diathesis, though on the boundary. I call this construction a *Präpositionsinfinitiv* which consist of preposition+article+infinitive. Funktionsverbgefüge starts when the verb is overtly derived into a noun by a nominalising suffix.
+
 - p. 88 Concerning 4.3.8., it is claimed that no symmetrical construction with gehen exists but we find other constructions like zum Stehen bringen.
+
+> That is a highly interesting construction, discussed at the end of 13.2.2. After long deliberation I have decided that the *bringen+zum+Infinitiv* construction is not yet grammaticalised, altough it is argueably close. The arguments are laid out in detail in that section. Note that when this construction is considered as s grammaticalised construction, then it would be a kind of causative, so it is functionally not the counterpart of *kommen+zum+Infintiiv*.
+
 - p. 89 4.25b The sentence is ungrammatical but it would be fine with gedenke rather than denke. 
 - p. 89 4.26b (as well as the second sentence in a): I do not like the sentences. Are they attested?
+
+> yes they are, see the full discussion in Chapter 12 as referenced. They are arguably old-fashioned or at least highly elaborate to the point of being poetic. I have added some lines to explain this status more clearly (both here and in the full discussion in Chapter 12).
+
 - p. 91 Is the example in 4.32 really (not) coherent, one can say dass das Wetter drohnt schlecht zu werden; dass er das Licht auszuschalten droht. I am not sure whether the contrast - proposed by the author really exists. The same for 4.33 on page 92 dass er immer wieder das Licht auszuschalten verspricht. I would even prefer these structures in sentences like Dass er immer wieder das Licht auszuschalten verspricht und doch nicht tut, ärgert mich sehr.
+
+> The contrast as proposed is extensively discussed by Diewald & Smirnova (2010) as extensively covered in the full discussion of this construction in Chapter 12 (as references in the text). There is indeed some leeway, but I'm quite convinced by their analysis as repeated here. Note that the short introduction here cannot present all details (and is not planned to be).
+
 - p. 96 ‘the possible connections attested between construction’: ‘constructions’
+
+
+
 - p. 97 Concerning 5.2.2 I wonder whether ‘quantified’ is the right predicate. Laut, as in 5.3.c, is clearly not an instance of quantification. (Also 5.15 on page 104)
 - p. 98 The lexicalized noun-verb combinations are compared with noun incorporation. The noun-verb form are, in various instances, not a morphological word which is clearly different from noun incorporation. E.g., Er stand die ganze Nacht über Wache. This extends to page 100, there ‘noun incorporation’ is listed as a category of attested verbs. It might be worth comparing it with pseudo-incorporation, see, for example, the introduction in Borik & Gehrke (2015).
 - p. 98 5.7b I agree that a question with was is impossible (not ‘?’ but ‘*’) but you can ask Wie ist er gestorben? – Einen qualvollen Tod!

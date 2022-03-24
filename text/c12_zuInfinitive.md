@@ -239,7 +239,7 @@ There is an old tradition in Latin grammar to describe one of the possible meani
 
 ### *denken+zu‑Infinitiv* Cogitative (*Kogitativ*) {#sec:zuinfinitiv-denken}
 
-In most contexts, the verb *denken* means 'to think, to believe'. In this meaning, a *zu‑Infinitiv* consstruction is not coherent [@next a,b]. However, with a *zu‑Infinitiv* in a coherent construction, the verb *denken* means 'to plan, to intend' [@next c,d]. I propose to call this construction a *cogitative* (from Lat. *cogitare* 'to plan, to intend').
+In most contexts, the verb *denken* means 'to think, to believe'. In this meaning, a *zu‑Infinitiv* construction is not coherent [@next a,b]. In contrast, with a *zu‑Infinitiv* in a coherent construction, the verb *denken* means 'to plan, to intend' [@next c,d]. This usage of *denken* is arguably somewhat special, either old-fashioned or simply slighly poetic. I propose to call this coherent monoclausal construction a *cogitative* (from Lat. *cogitare* 'to plan, to intend').
 
 ::: ex
 - Er denkt, mich überraschen zu können. \
@@ -257,7 +257,7 @@ In most contexts, the verb *denken* means 'to think, to believe'. In this meanin
 
 ### --- Evidentiality --- {.unnumbered}
 
-### *scheinen+zu‑Infinitiv* Indirect evidence (*Imperfektinferenz*) {#sec:zuinfinitive-scheinen}
+### *scheinen+zu‑Infinitiv* Inferential evidence (*Imperfektinferenz*) {#sec:zuinfinitive-scheinen}
 
 The coherent construction *scheinen+zu‑Infinitiv* [@next] is similar to the English *seem+Infinitiv* construction. Because of this similarity, there has been a long tradition of applying a subject raising analysis to this construction in German [see @olsen1981: 134-146 for a summary and refutation]. However, the raising analysis is not used anymore, at least since Olsen [see also @pafel1989; @diewald2010: 177-191 for later analyses]. Diewald & Smirnova [-@diewald2010: 182] analyse *scheinen+zu‑Infinitiv* as an inferential evidential in which the speaker expresses some confidence in the claimed event based on deduction from available knowledge. So, this construction is an inferential evidential. As a German name I propose ~~Imperfektinferenz~~ in opposition to the *Perfektinferenz* when used with a participle (see [@sec:participles-scheinen-intransitive]).
 

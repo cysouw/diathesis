@@ -58,7 +58,7 @@ c. ^* Der Fond isst immer noch.
 
 ### Arguments of utterance valency {#sec:intro-arguments-utterance-valency}
 
-The lexical roles of a specific verb are defined as those participants that are treated as an argument in at least one of the possible utterance valencies of this verb. So, to identify lexical roles, a strict definition of the arguments of utterance valency is needed. The following kinds of arguments are identified. First, all case marked noun phrase constituents are arguments, with a few exceptions that will be discussed in [@sec:case-delimiting-arguments]. Basically, case marked arguments [@next a] can be questioned by question pronouns *wer* or *was*, including their case forms *wem*, *wen* and *wessen* [@next b,c]. Further, they can be pronominalised by personal pronouns [@next d] or indefinite pronouns *(irgend)jemand* or *(irgend)etwas* [@next e].
+The lexical roles of a specific verb are defined as those participants that are treated as an argument in at least one of the possible utterance valencies of this verb. So, to identify lexical roles, a strict definition of the arguments of utterance valency is needed. The following kinds of arguments are identified. First, all case marked noun phrase constituents are arguments, with a few exceptions that will be discussed in [@sec:case-delimiting-arguments]. Basically, case marked arguments [@next a] can be questioned by question pronouns *wer* or *was*, including their case forms *wem*, *wen* and *wessen* [@next b,c]. Further, they can be pronominalized by personal pronouns [@next d] or indefinite pronouns *(irgend)jemand* or *(irgend)etwas* [@next e].
 
 ::: ex
 a. Der Löwe sieht einen Vogel.
@@ -227,12 +227,14 @@ a. Ich wasche meine Kleider.
 b. Sie lässt mich meine Kleider waschen.
 :::
 
-Chapter [-@sec:zuinfinitive] investigates light verbs with *zu* plus an infinitive, like the *sein+zu‑Infinitiv* passive [@next]. And finally, Chapter [-@sec:zuminfinitive] looks at the combinations with prepositions plus an infinitive, like the *halten+am‑Infinitiv* causative [@nnext].
+Chapter [-@sec:zuinfinitive] investigates light verbs with *zu* plus an infinitive, like the *sein+zu‑Infinitiv* passive [@next]. The combination of *zu* with an infinitive is arguably completely grammaticalised and is simply considered here as yet another non-finite verb form of German, alongside *Partizip* and *Infinitiv*. I propose to call it the *zu-Infinitiv*.
 
 ::: ex
 a. Ich führe einen Hund an der Leine.
 b. Ein Hund ist an der Leine zu führen.
 :::
+
+Finally, Chapter [-@sec:zuminfinitive] looks at the combinations of prepositions, article and an infinitive, like the *halten+am‑Infinitiv* causative [@nnext]. In such constructions, the preposition and article are obligatorily fused (*an*+*dem*>*am*) and this fused combination cannot be separated from the infinitive. Such completely grammaticalised constructions appear to be rather recent in German and are often considered substandard. Only a few of such combinations pass all the tests for complete grammaticalisation. When all tests apply, then I consider the combination of preposition+article+infinitive to be yet another non-finite verb form of German, alongside *Partizip*, *Infinitiv* and *zu-Infinitiv*. I propose to call it the *Präpositionsinfinitiv*.
 
 ::: ex
 a. Das Feuer brennt.
@@ -245,7 +247,7 @@ b. Der Wind hält das Feuer am Brennen.
 
 A diathetical operation is a change that happens to the marking of the participants in a diathesis. One of the central definitional properties of a diathesis is that the coding of at least one of the participants has to change, for example a participant erstwhile coded with an accusative turns into a prepositional phrase. Because the role of the participant remains the same (again, by definition), such a change amounts to the mapping of a role onto a different grammatical form. I will call this process ~~role-remapping~~.
 
-In the analysis of diathetical operations in this book I will use the following abbreviations, as summarised in [@fig:abbreviations]. First, ~~grammatical expressions~~, i.e. actual grammatical forms as identified in traditional German grammar, are abbreviated with single letters, shown at the right side of the figure. For case-marked noun phrases I will use the easily recognizable capital letters 'NADG' for nominative, accusative, dative and genitive respectively. As argued earlier (see [@sec:intro-arguments-utterance-valency]) there are also prepositional phrases that express lexically-determined roles. These will also be abbreviated with capital letters: 'L' for obligatory locations and 'P' for governed prepositional phrases.
+In the analysis of diathetical operations in this book I will use the following abbreviations, as summarised in [@fig:abbreviations]. First, ~~grammatical expressions~~, i.e. actual grammatical forms as identified in traditional German grammar, are abbreviated with single letters, shown at the right side of the figure. For case-marked noun phrases I will use the easily recognisable capital letters 'NADG' for nominative, accusative, dative and genitive respectively. As argued earlier (see [@sec:intro-arguments-utterance-valency]) there are also prepositional phrases that express lexically-determined roles. These will also be abbreviated with capital letters: 'L' for obligatory locations and 'P' for governed prepositional phrases.
 
 ![Abbreviations used to describe role-remapping](figures/abbreviations){#fig:abbreviations}
 
@@ -534,7 +536,7 @@ The discussion about the different names for macrorole patterns will be split in
 
 ### Isolated subject diatheses {#sec:intro-isolated-subject-diathesis}
 
-{#par:verbative} Isolated diatheses that involve a nominative subject are not widespread in German. The most widespread kind is the drop of the subject ~~[SBJ › Ø]~~, i.e. the complete removal of the role marked as nominative subject without any further accompanying role-remapping or reintroduction of a new subject. This is typically attested with intransitive verbs: after removing the single available role, there is no other role introduced to fill the structural subject position. Semantically, such diatheses put the focus on the activity as described by the verb itself, so I propose to call them ~~verbative~~ diatheses.^[Unfortunately, there is another use of the term *Verbativ* in the German grammatical tradtition, which originates in the work of Engel [e.g. @engel1996: 198, 251, 347]. Engel's concept is completely different from my concept here. We just happened to stumble upon the same neologism.] Note that there is a strong tendency for every German sentence to formally have a nominative subject with verb agreement. Consequently, such verbative diatheses almost always result in the presence of a valency-simulating nominative pronoun *es* (see [@sec:intro-es]). 
+{#par:verbative} Isolated diatheses that involve a nominative subject are not widespread in German. The most widespread kind is the drop of the subject ~~[SBJ › Ø]~~, i.e. the complete removal of the role marked as nominative subject without any further accompanying role-remapping or reintroduction of a new subject. This is typically attested with intransitive verbs: after removing the single available role, there is no other role introduced to fill the structural subject position. Semantically, such diatheses put the focus on the activity as described by the verb itself, so I propose to call them ~~verbative~~ diatheses.^[Unfortunately, there is another use of the term *Verbativ* in the German grammatical tradition, which originates in the work of Engel [e.g. @engel1996: 198, 251, 347]. Engel's concept is completely different from my concept here. We just happened to stumble upon the same neologism.] Note that there is a strong tendency for every German sentence to formally have a nominative subject with verb agreement. Consequently, such verbative diatheses almost always result in the presence of a valency-simulating nominative pronoun *es* (see [@sec:intro-es]). 
 
 A ~~verbative~~ diathesis is attested with verbs like *stinken* 'to stink' [@next], see [@sec:case-nominative-drop]. In a sentence like *es stinkt* the pronoun *es* can of course simply be an anaphor, like in [@next b]. In such a sentence, the role of 'stinker' is still present and there is no diathesis at all. However, in other contexts [@next c] the verb *stinken* is used without implied subject. This is typically attested in contexts in which some odour is attested, but the originator is not known.
 
@@ -709,14 +711,14 @@ a. Der Sohn faltet die Wäsche.
 b. Der Vater lehrt seinem Sohn die Wäsche falten.
 :::
 
-{#par:novativedemotion} The ~~novative with extended demotion [Ø › SBJ › PBJ]~~ is extremely rare in German. The name is adapted from Kulikov [-@kulikov2011: 388] to denote a diathesis in which the demotion accmopanying the novative is not just ~~[SBJ › OBJ]~~ but ~~[SBJ › PBJ]~~. The diathesis between *freuen* 'to be pleased' and *erfreuen* 'to please' [@next] might be an example because *mit* is a governed preposition [@next c], see [@sec:preverb-reversed-fabricative].
+{#par:novativedemotion} The ~~novative with extended demotion [Ø › SBJ › PBJ]~~ is extremely rare in German. The name is adapted from Kulikov [-@kulikov2011: 388] to denote a diathesis in which the demotion accompanying the novative is not just ~~[SBJ › OBJ]~~ but ~~[SBJ › PBJ]~~. The diathesis between *freuen* 'to be pleased' and *erfreuen* 'to please' [@next] might be an example because *mit* is a governed preposition [@next c], see [@sec:preverb-reversed-fabricative].
 
 ::: ex
 ~~Novative with extended demotion [Ø › SBJ › PBJ]~~
 
 a. Das Geschenk freut mich.
 b. Er erfreut mich mit einem Geschenk.
-c. Er erfeut mich damit, dass er mich besucht.
+c. Er erfreut mich damit, dass er mich besucht.
 :::
 
 Slightly more widespread, a ~~novative with extreme demotion [Ø › SBJ › ADJ]~~ is a novative diathesis that almost completely removes the erstwhile subject. This is attested in an interesting group of constructions using light verbs like *finden* with a participle and a transitive main verb like *aufheben* 'to preserve' [@next], see [@sec:participle-finden-transitive-opiniative]. With this diathesis, there is a new opiniator introduced, just like with the opiniative above (see [@par:opiniative]). However, the erstwhile nominative subject is now demoted to an optional prepositional phrase.
