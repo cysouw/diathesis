@@ -15,7 +15,7 @@ b. Ich verbrenne den Tisch. \
 
 The crucial (and somewhat problematic) aspect of such alternations is that there is no formal indication of the presence of a diathesis except for the marking of the arguments themselves. The prototypical diathesis (as defined [@sec:intro-basic-definition]) includes some overt linguistic marking that indicates that a diathesis has taken place (i.e. some affix, particle, light verb, or other morphosyntactic means). And indeed, all diatheses that will be discussed in subsequent chapters will be of that kind. In contrast, the diatheses discussed in this chapter and the next chapter are 'covert' alternations, or 'zero marked' alternations, in that there is no other indication of a diathesis, except for the marking of the arguments themselves [@zuniga2019 introduce the term 'covert' diathesis for this]. The problem with such covert diatheses is that there is no overt directionality in the alternation -- there is no way to distinguish between a base form and a derived form. Both alternants have an equal status as far as the morphosyntax is concerned. I have attempted to infer a direction based on parallels to other diatheses.
 
-The unmarked nature of covert diatheses implies that there is some slight redundancy and fuzziness in presentation. This redundancy arises because, for example, when a verb occurs in four different constructions, then there are logically six different alternations (viz. 1-2, 1-3, 1-4, 2-3, 2-4, 3-4). I have nonetheless decided to approach the descriptive organisation in this chapter from the perspective of such pairwise alternations, because (i) it highlights the possible connections attested between construction, and (ii) very many verbs appear only to occur in just one or two alternations anyway (with only a smaller subset of verbs appearing across many different constructions).
+The unmarked nature of covert diatheses implies that there is some slight redundancy and fuzziness in presentation. This redundancy arises because, for example, when a verb occurs in four different constructions, then there are logically six different alternations (viz. 1-2, 1-3, 1-4, 2-3, 2-4, 3-4). I have nonetheless decided to approach the descriptive organisation in this chapter from the perspective of such pairwise alternations, because (i) it highlights the possible connections attested between constructions, and (ii) very many verbs appear only to occur in just one or two alternations anyway (with only a smaller subset of verbs appearing across many different constructions).
 
 There are seven local groups of diatheses that seem prominent enough to be given a German name. I propose the following names for these:
 
@@ -91,7 +91,7 @@ Examples like [@last a,b] seem to suggest that intransitive verbs like *schlafen
 
 ### Lexicalised noun-verb combinations {#sec:case-incorporation}
 
-There is a common pattern in German in which nouns are combined with a verb, like *eislaufen* 'ice skating'. Such constructions are highly reminiscent of the typologically widespread process of noun incorporation. However, in German such noun incorporation only occurs with individual lexeme combinations, so they are probably better interpreted as grammaticalised noun-verb collocations [@eisenberg2006: 339ff; @gallmann1999]. 
+There is a common pattern in German in which nouns are combined with a verb, like *eislaufen* 'ice skating'. Such constructions are highly reminiscent of the typologically widespread process of noun incorporation. However, in German such noun incorporation only occurs with individual lexeme combinations, so they are probably better interpreted as grammaticalised noun-verb collocations [@eisenberg2006: 339ff; @gallmann1999]. For a survey of different kinds of noun incorporation see Berik & Gehrke [-@berik2015]. Using their terminology, the German constructions might probably best be analysed as 'pseudo' incorporation.
 
 Most such combinations are written as separate words in German orthography, e.g. *Wache stehen* 'stand guard', so they might look like nominal arguments. However, they normally do not allow for any determiners or modifiers [@next a]. Only very few fixed combinations allow for an adjective [@next b] and/or a determiner [@next c].
 
@@ -101,11 +101,12 @@ b. Er hat bittere Tränen geweint.
 c. Er stirbt einen qualvollen Tod.
 :::
 
-The typical examples like *Blut* 'blood' in [@last a] do not show much indication of case-marking. It is clearly not a genitive (because then it should have been *Blutes*), but nominative, dative or accusative are all possible. The few examples with determiners and/or adjectives seem to indicate that these constituents are accusatives. However, even in undoubtedly accusative examples like [@last c] the accusative is not an argument, because it is strange (if not completely ungrammatical) to pronominalise [@next a] or question [@next b] this accusative. Just like cognate objects, such nouns in lexicalised noun-verb combinations are not counted as arguments here.
+The typical examples like *Blut* 'blood' in [@last a] do not show much indication of case-marking. It is clearly not a genitive (because then it should have been *Blutes*), but nominative, dative or accusative are all possible. The few examples with determiners and/or adjectives seem to indicate that these constituents are accusatives. However, even in undoubtedly accusative examples like [@last c] the accusative is not an argument, because it is strange (if not completely ungrammatical) to pronominalise [@next a] or question [@next b] this accusative. Also as an answer to a manner question it seems unusable [@next c]. Just like cognate objects, such nouns in lexicalised noun-verb combinations are not counted as arguments here.
 
 ::: ex
 a. ^* Er stirbt es.
-b. ^^?^ Was ist er gestorben?
+b. ^* Was ist er gestorben?
+c. Wie ist er gestorben? ^?^ Einen qualvollen Tod.
 :::
 
 ### Adnominal case-marked constituents
@@ -166,7 +167,7 @@ Some of the 'living' verbs allow for accusative arguments in non-living related 
 ::: ex
 - Ich ziehe meine Hose aus.
 - Ich ziehe eine Wand ein.
-- Ich ziehe den Zaun um.
+- Ich ziehe die Zugbrücke auf.
 - Ich ziehe die Karre weg.
 :::
 
@@ -174,7 +175,7 @@ Some of the 'living' verbs allow for accusative arguments in non-living related 
 
 The verbs in this class are strict transitives: they need a nominative subject argument and an additional accusative argument. Further arguments are not allowed, and no governed prepositions are allowed either. It turns out that this group is not very large, because very many verbs allow for dative arguments (traditionally called 'free' datives, but that term will be ignored here) or alternations with governed prepositions. For example, an apparently typical transitive verb like *bauen* 'to build' allows for a dative to mark the beneficiary of the building, as in *Ich baue dir ein Haus* 'I will build a house for you'. Conversely, there are also many apparently typical transitive verbs that can just as well be used without accusative object, including well-known ambitransitive verbs like *essen* 'to eat'. Still, the current set of verbs attested for this class can easily be extended and is not at all intended to be complete. 
 
-Verbprefixes and verbparticles (see Chapter [-@sec:preverbs]) regularly induce an applicative alternation and subsequently often lexicalise, leading to transitive verbs [@next a,b]. 
+Preverbs (see Chapter [-@sec:preverbs]) regularly induce an applicative alternation and subsequently often lexicalise, leading to transitive verbs [@next a,b]. 
 
 ::: ex
 a. Ich schreite über den Teppich.
@@ -186,7 +187,7 @@ The number of monomorphemic 'strictly' transitive verbs seems to be very limited
 **Attested Verbs**
 
 - Monomorphemic: *bilden, brauchen, finden, freuen, grüßen, kennen, kriegen, merken, mögen, pflegen, tanken, wecken*
-- Verbpräfixes/particles: *abmessen, abschreiten, abwiegen, angehen, ansehen, ansetzen, begrüßen, beängstigen, behalten, bekommen, beruhigen, beschäftigen, darstellen, entschuldigen, erreichen, umfassen, unterbrechen, verachten, verletzen, verschwenden, zerreißen, zerstören*
+- With preverbs: *abmessen, abschreiten, abwiegen, angehen, ansehen, ansetzen, begrüßen, beängstigen, behalten, bekommen, beruhigen, beschäftigen, darstellen, entschuldigen, erreichen, umfassen, unterbrechen, verachten, verletzen, verschwenden, zerreißen, zerstören*
 
 **Further Examples**
 
@@ -243,7 +244,7 @@ The following verbs also exist as intransitive 'only nominative' verbs (see [@se
 
 ### [ NG ] Nominative+genitive {#sec:case-nominative-genitive}
 
-There are a few verbs in German that have a genitive argument. These verbs are slowly disappearing from the German language, and many of the verbs that are still around are considered rather old fashioned. It is out of an aim of completeness that these verbs are listed here, as they do not play an important role anymore in the current German language. The verbs listed here need a genitive Argument and there seems to be no possibility for alternations with other case or adpositional marking.
+There are a few verbs in German that have a genitive argument. These verbs are slowly disappearing from the German language, and many of the verbs that are still around are considered rather old fashioned. It is out of an aim of completeness that these verbs are listed here, as they do not play an important role anymore in the current German language. The verbs listed here need a genitive argument and there seems to be no possibility for alternations with other case or adpositional marking.
 
 **Attested Verbs**
 
@@ -281,7 +282,7 @@ This class consists of the classical ditransitive verbs with an obligatory nomin
 
 ### [ NAG ] Nominative+accusative+genitive
 
-There are also verbs that allow nominative, accusative and genitive, but those verbs often have a possible alternation dropping the genitive, which will be discussed in [@sec:case-accusative-genitive-drop]. In a few cases, the genitive argument seems to be in the process to be replaced by an accusative (see Sections [@sec:case-genitive-accusative-swap; sec:case-genitive-accusative-dative-swap]).
+There are also verbs that allow nominative, accusative and genitive, but those verbs often have a possible alternation dropping the genitive, which will be discussed in [@sec:case-accusative-genitive-drop]. In a few cases, the genitive argument seems to be in the process to be replaced by an accusative (see Sections [@sec:case-genitive-accusative-swap; sec:case-genitive-accusative-dative-swap]). There do not seem to be any verbs that only allow for a construction with case-marked nominative, accusative and genitive arguments.
 
 ### [ NAA ] Nominative+accusative+accusative
 
@@ -315,9 +316,9 @@ d. Er ist drei mal gefallen. (*wie oft?* 'how often')
 e. Er steigt einen Stock höher. (*wo?* 'where')
 :::
 
-These quantified constituents are not governed arguments. First, they can easily be left out (all verbs in the examples are typical intransitive verbs). Second, and more importantly, they cannot be replaced by a pronoun nor be questioned by a question pronoun (viz. *wen/was*). Instead, they are questioned by adverbial interrogative words as listed at the examples above, indicating that the quantified constituents are adverbial phrases, not governed arguments. 
+These quantified constituents are not arguments. First, they can easily be left out (all verbs in the examples are typical intransitive verbs). Second, and more importantly, they cannot be replaced by a pronoun nor be questioned by a question pronoun (viz. *wen/was*). Instead, they are questioned by adverbial interrogative words as listed at the examples above, indicating that the quantified constituents are adverbial phrases, not governed arguments. 
 
-Yet, there is a special class of verbs that appear to obligatorily need such a quantified object. These objects are interrogated by *wie viel?* 'how much' (though interrogation with *was* 'what' seems also possible with some of them). Though debatable, I tend to classify these accusative constituents as arguments. Whatever the interpretation, when they are arguments, but also when these constituents are not considered to be arguments, then there is still something special with these verbs.
+Yet, there is a special class of verbs that appear to obligatorily need such a quantified object, called ~~measure stative dimensional verbs~~ in Gamerschlag [-@gamerschlag2014: 318]. These objects are interrogated by *wie viel?* 'how much' (though interrogation with *was* 'what' seems also possible with some of them). Though debatable, I tend to classify these accusative constituents as arguments. Whatever the interpretation, when they are arguments, but also when these constituents are not considered to be arguments, then there is still something special with these verbs.
 
 A further argument to consider these accusative constituents as something special is that these verbs cannot be passivised, just like typical intransitive verbs [@next a]. Even with non-quantified objects, these verbs still prohibit passivisation [@next b].
 
@@ -337,7 +338,7 @@ d. Die Miete wird monatlich gezahlt.
 
 **Attested Verbs**
 
-- Quantity: *enthalten, kosten, rechnen, sparen, wachsen, wiegen, zunehmen*
+- Quantity: *enthalten, fassen ('Fassungsvermögen haben'), kosten, rechnen, sparen, wachsen, wiegen, zunehmen*
 - Quantity of time: *dauern*
 
 **Further Examples**
@@ -345,8 +346,8 @@ d. Die Miete wird monatlich gezahlt.
 - Der Laster wiegt einen Zentner. Wieviel/was wiegt der Laster?
 - Der Tisch kostet ein Jahresgehalt. Wieviel/was kostet der Tisch?
 - Der Knochen wächst einen Millimeter pro Tag. Wieviel/*was wächst der Knochen?
-- Ich rechne eine Flasche Wein pro Person. Wieviel/?was rechnest du pro Person?
-- Er hat zehn kilo zugenommen. Wieviel/*was hat er zugenommen?
+- Ich rechne eine Flasche Wein pro Person. Wieviel/^?^was rechnest du pro Person?
+- Er hat zehn Kilo zugenommen. Wieviel/*was hat er zugenommen?
 
 ### [ NAA ] Nominative+accusative+named object {#sec:case-named-objects}
 
@@ -402,7 +403,7 @@ b. Hier stinkt es aber.
 - Der Nachbar klingelt an der Tür. An der Tür klingelt es. 
 - Der Müll riecht. Hier riecht es. 
 - Das Wasser kühlt ab. Morgen kühlt es ab.
-- Das kochen klappt noch nicht so gut. Jetzt klappt es. 
+- Das Kochen klappt noch nicht so gut. Jetzt klappt es. 
 
 ### [ NA | –A ] Nominative drop+accusative {#sec:case-nominativ-drop-accusative}
 
@@ -476,23 +477,34 @@ Levin [-@levin1993: 31] used the label 'Induced Action Alternation' for a simila
 
 **Attested Verbs**
 
-- *abnehmen, abreißen, abstoßen, anfangen, anhalten, aufmachen, backen, baden, beginnen, bewegen, braten, bremsen, duschen, fliegen, heilen, kochen, landen, läuten, öffnen, rauchen, schließen, spielen (Tonträger), starten, stoppen, umdrehen, wiegen, zählen, zünden*
+- *abnehmen, abreißen, abstoßen, anfangen, anhalten, aufmachen, backen, baden, beginnen, bewegen, braten, bremsen, duschen, fliegen, kochen, landen, läuten, öffnen, rauchen, schließen, spielen ('Tonträger'), starten, stoppen, umdrehen, wiegen, zählen, zünden*
 
 **Further Examples**
 
-- Der Doktor heilt die Wunde. Die Wunde hat geheilt. Die Wunde ist geheilt.
-- Der Mitarbeiter öffnet den Laden. Der Laden hat geöffnet/aufgemacht. Der Laden ist geöffnet/aufgemacht.
-- Ich rauche eine Zigarette. Das Feuer hat geraucht. Die Zigarette ist geraucht.
-- Ich beginne einen Streit. Der Streit hat begonnen. Der Krieg ist begonnen.
-- Er landet das Flugzeug. Das Flugzeug hat gelandet. Das Flugzeug ist gelandet.
-- Ich wiege den Patienten vor und nach der Behandlung. Der Patient hat 50 Kilo gewogen. Der Patient ist gewogen.
-- Ich habe das Werk angefangen. Der Film hat angefangen. Das Werk ist angefangen, aber nicht vollendet.
-- Er hat mich geduscht. Ich habe geduscht.
-- Er zählt mich zu den Menschen. Ich habe zu den Menschen gezählt. Die Tage sind gezählt.
-- Ich habe das Boot umgedreht. Das Boot hat umgedreht. Das Boot ist umgedreht.
-- Ich habe die Bombe gezündet. Die Bombe hat gezündet.
-- Ich habe das Boot abgestoßen. Das Boot ist abgestoßen. Die Fähre hat abgestoßen.
-- Ich habe die Platte gespielt. Die Platte hat gespielt. Die Platte ist gespielt.
+- Der Mitarbeiter öffnet den Laden/macht den Laden auf. \
+  Der Laden hat geöffnet/aufgemacht. Der Laden ist geöffnet/aufgemacht.
+- Ich rauche eine Zigarette. \
+  Das Feuer hat geraucht. Die Zigarette ist geraucht.
+- Ich beginne einen Streit. \
+  Der Streit hat begonnen. Der Krieg ist begonnen.
+- Er landet das Flugzeug. \
+  Das Flugzeug hat gelandet. Das Flugzeug ist gelandet.
+- Ich wiege den Patienten vor und nach der Behandlung. \
+  Der Patient hat 50 Kilo gewogen. Der Patient ist schon gewogen.
+- Ich habe das Werk angefangen. \
+  Der Film hat angefangen. Das Werk ist angefangen, aber nicht vollendet.
+- Er hat das Baby geduscht. \
+  Ich habe geduscht. Das Baby ist geduscht.
+- Er zählt mich zu den Menschen. \
+  Ich habe zu den Menschen gezählt. Die Tage sind gezählt.
+- Ich habe das Boot umgedreht. \
+  Das Boot hat vor dem Hafen umgedreht. Das Boot ist umgedreht.
+- Ich habe die Bombe gezündet. \
+  Die Bombe hat gezündet. Die Bombe ist gezündet.
+- Ich habe das Boot abgestoßen. \
+  Die Fähre hat abgestoßen. Das Boot ist abgestoßen.^[~~DWDS~~: https://www.dwds.de/wb/abstoßen, accessed on 25 March 2022.]
+- Ich habe die Platte gespielt. \
+  Die Platte hat gespielt. Die Platte ist gespielt.
 
 **Notes**
 
@@ -520,7 +532,7 @@ The verb *anhalten* appears to be an exception. In the meaning 'to stop' this ve
   Der Bus hat angehalten.
 - ^* Der Bus ist angehalten.
 - Ich habe meinen Sohn angehalten, pünktlich zu sein. \
-  Mein Sohn ist angehalten (von mir)
+  Mein Sohn ist angehalten, pünktlich zu sein.
 :::
 
 ### [ NAD | –ND ] *haben* Anticausative+dative
@@ -614,36 +626,38 @@ d. ^* Das Haus hat gebaut.
 - Verbs with preverb variants: *biegen (einbiegen), bleichen (erbleiben, verbleichen), bräunen (anbräunen), brechen (abbrechen, zerbrechen), brennen (abbrennen, niederbrennen, verbrennen), fahren (ǘberfahren), fliegen (einfliegen), frieren (einfrieren), klappen (aufklappen, zuklappen), knicken (abknicken, einknicken), reißen (abreißen, einreißen, zerreißen), rollen (ausrollen), staunen (erstaunen), stürzen (umstürzen), tauen (auftauen), treten (antreten, wegtreten), trocknen (austrocknen)*
 - Preverbal verbs from adjectival roots: *abkühlen, ermatten, verrohen, abstumpfen*
 - Preverbal verbs rom nominal roots: *erzürnen, verdunsten, zersplittern*
-- Others: *altern, ersticken, ertrinken, fliehen, reifen, verderben, zuschneien*
+- Others: *altern, ersticken, ertrinken, fliehen, heilen reifen, verderben, zuschneien*
 
 **Further Examples**
 
 - Die Regierung stürzt/ist gestürzt. \
   Die Streitkräfte stürzen die Regierung. 
 - Der Zug fährt/ist gefahren. \
-  Er hat das Auto nach Hause gefahren.
+  Er fährt das Auto nach Hause.
 - Der Mast knickt/ist geknickt. \
   Die Welle knickt den Mast des Bootes. 
 - Der Schnee taut/ist getaut. \
-  Der Lava hat das Eis getaut.
+  Der Lava taut das Eis.
 - Die Eiswürfel schmelzen/sind geschmolzen. \
-  Die Arbeiter schmelzten 26,31 Tonnen Stahl je Stunde.
+  Die Arbeiter schmelzen 26,31 Tonnen Stahl je Stunde.
 - Die deutsche Gesellschaft altert/ist gealtert. \
-  Der Kummer hat sie gealtert. 
+  Der Kummer altert sie. 
 - Die Papiere verbrennen/sind verbrannt. \
   Er verbrennt die Papiere.
 - Die Luft kühlt ab durch den Regen. Die Luft ist durch den Regen abgekühlt. \
-  Der Regen hat die Luft abgekühlt. 
+  Der Regen kühlt die Luft ab. 
 - Der Stamm knickt ein/ist eingeknickt. \
-  Der Sturm hat Äste und Stämme eingeknickt. 
+  Der Sturm knickt die Äste und Stämme ein. 
 - Das Dorf brennt bis auf die Grundmauern nieder. Das Dorf ist niedergebrannt. \
-  Die Soldaten haben das Dorf niedergebrannt.
+  Die Soldaten brennen das Dorf nieder.
 - ich trete an. Ich bin zum Dienst angetreten. \
-  Ich habe den Urlaub angetreten. 
+  Ich trete den Urlaub an. 
 - Er erzürnte sehr über die Nachricht. Er ist erzürnt. \
-  Die Rede erzürnt mich. Die Rede hat mich erzürnt. 
-- Wir sind übergefahren. \
-  Das Boot hat uns übergefahren. 
+  Die Rede erzürnt mich.
+- Wir fahren über (mit der Fähre). Wir sind übergefahren. \
+  Die Fähre fährt uns über. 
+- Die Wunde heilt. Die Wunde ist geheilt. \
+  Der Doktor heilt die Wunde.
 
 **Notes**
 
@@ -656,12 +670,12 @@ The verbs *zuschneien* 'to be blocked by snow' [@next a] and *reifen* 'to mature
   Die Sonne hat die Frucht gereift. 
 :::
 
-The verb *fliehen* 'to flee' can be used transitively, but this seems to be unusual [@next a]. The intranstive and transitive uses of *wegtreten* seem to be rather far apart semantically, meaning 'to kick away' vs. 'to step away' [@next b].
+The verb *fliehen* 'to flee' can be used transitively, but this seems to be unusual [@next a]. The intransitive and transitive uses of *wegtreten* seem to be rather far apart semantically, meaning 'to step away' vs. 'to kick away' [@next b].
 
 ::: ex
 - Er floh vor dem Feind. \
   Er floh ihren Blick.
-- Ich bin weggetreten. \
+- Ich bin (von der Tür) weggetreten. \
   Ich habe den Ball weggetreten.
 :::
 

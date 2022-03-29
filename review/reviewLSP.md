@@ -391,30 +391,89 @@ What is the reason for analyzing this construction as a type of ‘passive’?
 
 - p. 96 ‘the possible connections attested between construction’: ‘constructions’
 
-
+> done
 
 - p. 97 Concerning 5.2.2 I wonder whether ‘quantified’ is the right predicate. Laut, as in 5.3.c, is clearly not an instance of quantification. (Also 5.15 on page 104)
+
+> But I think (with some leeway) the phrase *einen Tick zu laut* can be considered as a kind of quantification. That is what intended. I call it a 'measure phrase' in the text. No change.
+
 - p. 98 The lexicalized noun-verb combinations are compared with noun incorporation. The noun-verb form are, in various instances, not a morphological word which is clearly different from noun incorporation. E.g., Er stand die ganze Nacht über Wache. This extends to page 100, there ‘noun incorporation’ is listed as a category of attested verbs. It might be worth comparing it with pseudo-incorporation, see, for example, the introduction in Borik & Gehrke (2015).
+
+> Thanks for the tip. I have added a few lines and the useful reference! However, for the purpose of the current book it is not really important what kind of noun incorporation is present in such cases.
+
 - p. 98 5.7b I agree that a question with was is impossible (not ‘?’ but ‘*’) but you can ask Wie ist er gestorben? – Einen qualvollen Tod!
+
+> To me that answer sounds really strange. However, I have added this option (though with a question mark still!).
+
 - p. 100 5.11c Um is a preposition is this case and requires an argument Ich ziehe den Zaun um das Feld. Otherwise you can say Ich ziehe um (nach Köln) and even Der Zoo zieht die Seelöwen um.
+
+> right! I was confused, it was meant to be parallel to *umwerfen* and the like. Changed to *aufziehen*
+
 - p. 102 ‘The verbs listed here need a genitive Argument’: ‘argument’
+
+> done
+
 - p. 110 ‘Ich bin weggetreten’: This also has the meaning ‘being unconscious’; this is the dominant interpretation for me
-- p. 110 ‘Ich habe den Lärm der Stadt entflohen‘: I only accept sein; dialectal variation?
+
+> changed to example to prevent this interpretation.
+
+- p. 110 ‘Ich habe den Lärm der Stadt entflohen‘: I only accept sein; dialectal variation? 
+
+> Section is rather strongly reformulated. The verb *entfliehen* is removed.
+
 - p. 110 Concerning the ‘further examples’: What is the rationale behind the listing? Sometimes
 the list includes the perfect of the transitive verb, sometimes not. 
+
+> Examples are harmonized to always show intransitive present and perfect, but only transitive present.
+
 - p. 111 ‘The Schreck benimmt ihm den Atem’: Without be-
+
+> DWDS lists this also with *be-* https://www.dwds.de/wb/benehmen
+
 - p. 111 5.3.7 Why are there no examples?
+
+> Because there do not seem to be any verbs (anymore?) that **only** allow for this constructions. I have rephrase the text slightly to make this clearer.
+
 - p. 104 ‘Er hat zehn kilo zugenommen’: Kilo
+
+> done
+
 - p. 104 For verbs like wiegen and kosten have a look at Gamerschlag (2014), there you find a useful discussion of the interpretation as well as argument realization of these verbs.
+
+> Thank you for the reference. Impressive work. However, because of the semantic approach the listings of Gamerschlag are difficult to relate to my strongly syntactically-determined classes. I have added a reference to his work.
+
 - p. 106 ‘Das kochen klappt noch nicht so gut.’: Kochen
-- p. 107 5.5.4 Is this just an instance of ‘impersonal passive’? If yes, say so. If not, this would
-also be interesting to know.
+
+> done
+
+- p. 107 5.5.4 Is this just an instance of ‘impersonal passive’? If yes, say so. If not, this would also be interesting to know.
+
+> This comment is not clear to me. The 'impersonal passive' is a concrete construction *werden+Partizip* with intransitive verbs. The constructions discussed in Section 5.5. are clearly different constructions, though there is indeed a similarity in that both belong to the class of 'verbative' diatheses (see, e.g. 2.7.2 and 3.2). Nothing changed.
+
 - p. 107 ‘Die Wunde hat geheilt’: Odd, I only accept sein
+
+> I agree, this is erroneously added here. removed
+
 - p. 108 ‘Die Fähre hat abgestoßen’: That’s ungrammatical (at least for me). Due you have an attested example?
+
+> I took this from DWDS "die Fähre ist, hat (vom Lande) abgestoßen" https://www.dwds.de/wb/abstoßen. I have added this reference.
+
 - p. 108 Besides ‘Die Bombe hat gezündet’ also ‘Die Bome ist gezündet’ is possible. Which is worth mentioning since you mention the variation between sein and haben regarding duschen in 5.26.
+
+> Indeed. That sentence should have been here. Added.
+
 - p. 108 5.28c The second sentence is incomplete: Mein Sohn ist angehalten pünktlich zu sein; I think adding von mir is not acceptable. But this would be worth checking in a corpus as there might be sentences of this type in which adding a von-PP is acceptable.
+
+> Sentence completed. I agree that the *von* phrase is problematic here, but at this place in the book that is not important. I have removed the *von* phrase.
+
 - p. 111 5.6.3 Further verbs: sitzen – setzen, liegen legen
+
+> They belong in 6.6.2 as they need a locational phrase. But thanks for the tip!
+
 - p. 112 The examples in 5.37 and 5.38 illustrate different types of illustrations. Either you discuss this in more details or you should you list examples exemplifying the same type of alternation. The conative alternation in 5.37c is something different from the plain intransitive use of essen or backen in 5.37b and 5.38c.
+
+
+
 - p. 113 5.42 The examples contain different uses of unterrichten, in b. and e. it means ‘teach’, in c. and d. it means ‘report, notify’ and in a. it can mean both. It might be worth distinguishing between the different uses to check systematically whether the alternations are dependent on the verb’s meaning (use).
 - p. 114 5.43a The example is odd, at least for me.
 - p. 114 In 5.7.4 it is stated that some verbs only allow inanimate subjects; one of the examples is sitzen. This is related to a specific interpretation of sitzen, right? Like in Die Jacke sitzt (mir) gut.
