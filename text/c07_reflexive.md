@@ -559,7 +559,7 @@ a. Er kniet auf dem Kissen.
 b. Er kniet sich auf das Kissen.
 :::
 
-Covert anticausatives (see [@sec:case-haben-anticausative]) might seem to have a 'free' reflexive [@next a,b]. However, the construction with *sich* [@next b] is just a 'self-inflicting' reflexive of the transitive [@next c].
+Covert anticausatives (see [@sec:case-haben-anticausative]) might seem to have a 'free' reflexive [@next a,b]. However, the construction with *sich* [@next b] is just a self-inflicting reflexive of the transitive [@next c].
 
 ::: ex
 a. Ich habe geduscht.
@@ -615,6 +615,14 @@ a. Ich streite mit dir um die Wurst.
 b. Ich streite mich mit dir um die Wurst.
 :::
 
+Covert causatives (see [@sec:prepositions-haben-caused-location] and [-@sec:prepositions-sein-caused-location]) might seem to have a 'free' *sich* [@next a,b]. However, this is not the case because the construction with *sich* [@next b] is just a reflexive of the transitive [@next c].
+
+::: ex
+a. Ich stürze ins Wasser.
+b. Ich stürze mich ins Wasser.
+c. Ich stürze den Elefanten ins Wasser.
+:::
+
 **Attested Verbs**
 
 - *entscheiden, erstaunen, sorgen, streiten*
@@ -632,14 +640,6 @@ The verb *entscheiden* 'to decide' allows for an accusative [@next a], but not f
 a. Ich entscheide den Fall.
 b. ^* Ich entscheide mich den Fall.
 c. Ich entscheide mich für den Angriff.
-:::
-
-Prepositional causatives (see [@sec:prepositions-haben-caused-location; @sec:prepositions-sein-caused-location]) also might seem to have a 'free' *sich* [@next a,b]. However, this is not the case because the construction with *sich* [@next b] is just a reflexive of the transitive [@next c].
-
-::: ex
-a. Ich stürze ins Wasser.
-b. Ich stürze mich ins Wasser.
-c. Ich stürze den Elefanten ins Wasser.
 :::
 
 The verb *sorgen* 'to take care of' changes preposition with the addition of *sich* [@next a,b], Both prepositions are governed prepositions [@next c,d]. Such an alternation between different governed prepositions might be considered a whole new class of diatheses not yet acknowledged in this study.
@@ -666,7 +666,7 @@ b. Ich habe mich nach Hause geschlichen.
 
 ### [ NA | NA ] Free dative reflexive+accusative {#sec:reflexive-free-dative-sich-accusative}
 
-So-called 'free' benefactive datives [@next a,b] are widespread in German (see [@#sec:prepositions-benefactive-dative]). Such a dative can in most cases also be used reflexively [@next c]. Comparing [@next a] with [@next c] seems to suggest a free reflexive *sich* in the dative. However, this example is just a combination of a benefactive dative and the regular self-inflicting reflexive usage.
+So-called 'free' benefactive datives [@next a,b] are widespread in German (see [@sec:prepositions-benefactive-dative]). Such a dative can in most cases also be used reflexively [@next c]. Comparing [@next a] with [@next c] seems to suggest a free reflexive *sich* in the dative. However, this example is just a combination of a benefactive dative and the regular self-inflicting reflexive usage.
 
 ::: ex
 a. Ich habe ein Haus gebaut.
@@ -674,7 +674,7 @@ b. Ich habe ihm ein Haus gebaut.
 c. Ich habe mir ein Haus gebaut.
 :::
 
-In contrast, the verb *ansehen* 'observe' also allows for a construction with and without reflexive pronoun [@next a,c], but it is not possible to use a non-coreferential dative [@next b]. Such verbs are much less common and will be listed here. All verbs known to me have preverbs (see Chapter X).
+In contrast, the verb *ansehen* 'observe' also allows for a construction with and without reflexive pronoun [@next a,c], but it is not possible to use a non-coreferential dative [@next b]. Such verbs are much less common and will be listed here. All such verbs known to me have preverbs (see Chapter [-@sec:preverbs]).
 
 ::: ex
 a. Ich habe das Haus angesehen.
