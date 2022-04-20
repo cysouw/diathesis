@@ -53,7 +53,7 @@ There are fourteen local groups of diatheses that seem prominent enough to be gi
 
 ### Identifying governed prepositions {#sec:prepositions-identifying-governed-prepositions}
 
-As a general rule (with some exceptions with *für* and *durch* to be discussed below) I propose to identify prepositional phrases as lexically governed arguments when they allow for a paraphrase of the form *da*-~~preposition~~, *dass/was* ~~clause~~ (cf. Engelen 1986: 110-112). For example, the verb *warten* 'to await' has a possible governed preposition *auf* designating the object that is waited for [@next a]. In this reading, [@next a] can be paraphrased by [@next b] with a *darauf, dass* subordinate clause. The combination *warten auf* can best be considered a fixed collocation, to be translated into English as 'waiting for'. However, the preposition *auf* can also have its adverbial local meaning 'on top of' [@next c]. This leads to another interpretation in which the prepositional phrase is not a governed preposition but an adverbial phrase with a local meaning, paraphrased in [@next d]. These two readings can even be combined [@next e], with an interesting difference in case marking between the two prepositional phrases.
+As a general rule (with only few exceptions, see below) I propose to define prepositional phrases as lexically governed arguments when they allow for a paraphrase of the form *da*-~~preposition~~, *dass* ~~clause~~ (cf. Engelen 1986: 110-112). For example, the verb *warten* 'to await' has a possible governed preposition *auf* designating the object that is waited for [@next a]. In this reading, [@next a] can be paraphrased by [@next b] with a *darauf, dass* subordinate clause. The combination *warten auf* can best be considered a fixed collocation, to be translated into English as 'waiting for'. However, the preposition *auf* can also have its adverbial local meaning 'on top of' [@next c]. This leads to another interpretation in which the prepositional phrase is not a governed preposition but an adverbial phrase with a local meaning, paraphrased in [@next d]. These two readings can even be combined [@next e], with an interesting difference in case marking between the two prepositional phrases.
 
 ::: ex
 a. Der König wartet auf seinen neuen Thron.
@@ -63,14 +63,14 @@ c. Der König wartet, während er auf seinem alten Thron sitzt.
 d. Der König wartet auf seinem alten Thron auf seinen neuen Thron.
 :::
 
-The possibility of a *da+Präposition, dass* construction has a parallel in question constructions with *wo(r)+Preposition* [@next a]. The local interpretation is questioned with a bare question word *wo* [@next b]
+The possibility of a *da+Präposition, dass* construction has a parallel in question constructions with *wo(r)+Preposition* [@next a]. The local interpretation is questioned with a bare question word *wo* [@next b].
 
 ::: ex
 a. Worauf wartet der König?
 b. Wo wartet der König?
 :::
 
-Some prepositional phrases without the *da+Präposition, dass* paraphrase still have a special status as an argument-like role of a verb, namely when they can be substituted by a case-marked constituent. This is typical for antipassive alternations like [@next a], in which the accusative role *den Bären* can alternatively be expressed by a prepositional phrase *auf den Bären* with a difference in affectedness of the object, see [@sec:prepositions-accusative-antipassive]. Note that in this situation the prepositional phrase cannot be replaced by a *darauf, dass* phrase. Not all prepositional phrases allow such an alternation, notably most local expressions do not [@next b]. However, there are also some distinctly local expressions that allow for an antipassive alternation [@next c].
+Some prepositional phrases without the option of a *da+Präposition, dass* paraphrase still have a special status as an argument-like role of a verb, namely when they can be substituted by a case-marked constituent. This is typical for antipassive alternations like [@next a], in which the accusative role *den Bären* can alternatively be expressed by a prepositional phrase *auf den Bären* with a difference in affectedness of the object, see [@sec:prepositions-accusative-antipassive]. In this situation the prepositional phrase cannot be replaced by a *darauf, dass* phrase, so it is not a governed preposition. However, because of the alternation with a case marked constituent, this participant (viz. *Bär*) is still an argument. Not all prepositional phrases allow such an alternation, notably most local expressions do not [@next b]. However, there are also some distinctly local expressions that still allow for an antipassive alternation [@next c]. In general, the semantic content is not a suitable definition of argument status.
 
 ::: ex
 a. Ich schieße auf den Bären. Ich schieße den Bären. 
@@ -80,7 +80,7 @@ c. Ich reite auf dem Pferd. Ich reite das Pferd.
 
 ### Identifying non-governed prepositions {#sec:prepositions-definition-non-governed}
 
-Non-governed prepositional phrases are typically adverbial phrases, describing either a local [@next a], temporal [@next b], manner [@next c] or purpose/causal [@next d] situation. Some such adverbial prepositional phrases do not have an article after the preposition, like in *gegen Abend* 'early evening', *aus Gold* 'golden', or *mit größter Sorgfalt* 'carefully'.
+Non-governed prepositional phrases are typically adverbial phrases, describing either a local [@next a], temporal [@next b], manner [@next c] or purpose/causal [@next d] situation. In some contexts, such adverbial prepositional phrases do not have an article after the preposition, like in *gegen Abend* 'early evening', *aus Gold* 'golden', or *mit größter Sorgfalt* 'carefully'.
 
 ::: ex
 a. Ich arbeite in dem Arbeitszimmer.
@@ -89,23 +89,27 @@ c. Ich arbeite aus Leidenschaft.
 d. Ich arbeite wegen des Regens.
 :::
 
-Adverbial prepositional phrases can easily be identified by considering how this information can be questioned and by which proforms or adverbs the information can be replaced. However, there are various special considerations to be discussed in the following section.
+Adverbial non-governed prepositional phrases can easily be identified by considering (i) how this information can be questioned and (ii) by which proforms or adverbs the information can be replaced [@next]. However, there are various special considerations to be discussed in the following section. Specifically, a few prepositional phrases allow for the question/replacement tests listed below (so the tests suggest they are non-governed), but they also allow for a *da+Präposition, dass* paraphrase (so the test suggests they are governed). This happens with purposive *für*, see [@sec:prepositions-fur], and causal *von/durch*, see [@sec:prepositions-durch]. It seems to make most sense to consider these to be non-governed adverbial phrases.
 
-- Local prepositional phrases
-  - questioned by *wo/wohin/woher?* 'where'
-  - replaceable by proforms *hier/da/dort* 'here/there'
-  - replaceable by local adverbs like *zuhause* 'at home' or *draußen* 'outside'.
-- Temporal prepositional phrases
-  - questioned by *wann?* 'when'
-  - replaceable by proforms *dann/damals* 'then'
-  - replaceable by temporal adverbs like *gestern* 'yesterday' or *morgen* 'tomorrow'.
-- Manner prepositional phrases
-  - questioned by *wie?* 'how'
-  - replaceable by proforms *so* 'thus'
-  - replaceable by manner adverbs like *schnell* 'quickly' or *viel* 'a lot'.
-- Purpose/cause prepositional phrases
-  - questioned by *warum?* 'why'
-  - replaceable by proforms *deshalb/darum* 'therefore'.
+::: ex
+Identifying non-governed prepositional phrases
+
+- Local prepositional phrases: \
+  are questioned by *wo/wohin/woher?* 'where', \
+  are replaceable by proforms *hier/da/dort* 'here/there', \
+  are replaceable by local adverbs like *zuhause* 'at home' or *draußen* 'outside'.
+- Temporal prepositional phrases: \
+  are questioned by *wann?* 'when', \
+  are replaceable by proforms *dann/damals* 'then', \
+  are replaceable by temporal adverbs like *gestern* 'yesterday' or *morgen* 'tomorrow'.
+- Manner prepositional phrases: \
+  are questioned by *wie?* 'how', \
+  are replaceable by proforms *so* 'thus', \
+  are replaceable by manner adverbs like *schnell* 'quickly' or *viel* 'a lot'.
+- Purpose/cause prepositional phrases: \
+  are questioned by *warum?* 'why', \
+  are replaceable by proforms *deshalb/darum* 'therefore'.
+:::
 
 ### Locational prepositional phrases
 
@@ -137,12 +141,12 @@ c. ^* Der Ball fällt dem Spieler.
 ::: ex
 a. Ich habe (in dem Garten) getanzt.
 b. Ich bin durch den Garten getanzt.
-c. ^* ich bin getanzt.
+c. ^* Ich bin getanzt.
 :::
 
 ### Comitative/instrumental *mit* and *ohne* {#sec:prepositions-comitative-intrumental}
 
-The prepositions *mit* 'with' (and its negative counterpart *ohne* 'without') have a special status in German. With human participants they have a comitative interpretation [@next], These are questioned with *mit wem*. With non-human participants an instrumental reading is provoked [@nnext]. These are questioned with *womit*. Except for this different interrogative, The comitative interpretation can also be identified by the possibility to add *zusammen*, which is not possible in the instrumental reading. 
+The prepositions *mit* 'with' (and its negative counterpart *ohne* 'without') have a special status in German. With human participants they have a ~~comitative~~ interpretation [@next], These are questioned with *mit wem*. With non-human participants an ~~instrumental~~ reading is provoked [@nnext]. These are questioned with *womit*. Except for this different interrogative, the comitative interpretation can also be identified by the possibility to add *zusammen*, which is not possible in the instrumental reading. 
 
 ::: ex
 a. Ich arbeite mit meinem Freund.
@@ -151,9 +155,9 @@ c. Ich arbeite zusammen mit meinem Freund.
 :::
  
 ::: ex
-a. Ich arbeite mit einem Hammer
+a. Ich arbeite mit einem Hammer.
 b. Womit arbeitest du?
-c. ^* Ich arbeite zusammen mit einem Hammer
+c. ^* Ich arbeite zusammen mit einem Hammer.
 :::
 
 Both of these reading are non-governed prepositional phrases because the *damit, dass* periphrasis is not possible [@next]. Another characteristic of such non-governed *mit* is that it can be replaced by the negative *ohne*, of course with a negated meaning [@nnext].
@@ -168,9 +172,9 @@ a. Ich arbeite ohne meinen Freund.
 b. Ich arbeite ohne einen Hammer.
 :::
 
-The non-governed comitative and instrumental interpretation of *mit* can be added to practically every verb, given a sensible context. In those contexts, the comitative and instrumental roles are not lexical roles, in the sense that they describe a role that is not specific for the main verb of the sentence. However, many verbs have a *mit* prepositional phrase that expresses a lexeme-specific role. This occurs in the following situations (with some verbs allowing for multiple options):
+The non-governed comitative and instrumental interpretation of *mit* can be added to practically every verb, given a sensible context. In those contexts, the comitative and instrumental roles are not lexical roles, in the sense that they describe a role that is not specific for the main verb of the sentence. However, many verbs have a *mit* prepositional phrase that expresses a lexeme-specific role. With those verbs the *mit* phrase is an argument. This occurs in the following situations (with some verbs allowing for multiple options):
 
-- Verbs, like *kämpfen* 'to fight' [@next a], for which the *mit* prepositional phrase is a governed preposition, i.e. it can be replaced by a *damit, dass* complement clause, see [@sec:prepositions-transitive-governed; @sec:prepositions-fabricative-accusative; @sec:prepositions-governed-antipassive] and with reflexive pronouns in [@sec:reflexive-preposition-passive].
+- Verbs, like *kämpfen* 'to fight' [@next a], for which the *mit* prepositional phrase is a governed preposition, i.e. it can be replaced by a *damit, dass* complement clause and it is difficult to drop, see [@sec:prepositions-transitive-governed; @sec:prepositions-fabricative-accusative; @sec:prepositions-governed-antipassive] and with reflexive pronouns in [@sec:reflexive-preposition-passive].
 - Verbs, like *überraschen* 'to surprise' [@next b], for which the *mit* prepositional phrase shows an alternation with a nominative subject, see [@sec:prepositions-transitive-conciliative; @sec:prepositions-intransitive-preposition-anticausative; @sec:prepositions-fabricative-accusative] and with reflexive pronouns in [@sec:reflexive-preposition-passive].
 - Verbs, like *füllen* 'to fill' [@next c], for which the *mit* prepositional phrase shows an alternation with an accusative object, see [@sec:prepositions-governed-antipassive; @sec:prepositions-mit-antipassive; @sec:prepositions-mit-reciprocal-antipassive; @sec:prepositions-instrument-applicative], with reflexive pronouns in [@sec:reflexive-mit-antipassive] and with preverbs in [@sec:preverb-antipassive-dative-accusative; @sec:preverb-applicative; @sec:preverb-applicative-antipassive]
 - Verbs, like *einigen* 'to agree' [@next d], for which the *mit* prepositional phrase expresses a lexical-specific reciprocal role as indicated by the option to use *miteinander*, see [@sec:prepositions-bare-reciprocal], [-@sec:prepositions-mit-reciprocal-antipassive] and with reflexive pronouns in [@sec:reflexive-real-reciprocals], [-@sec:reflexive-mit-antipassive].
@@ -186,28 +190,28 @@ d. Ich einige mich mit dir. \
    Wir einigen uns miteinander.
 :::
 
-### Purposive/beneficiary *für*
+### Purposive/beneficiary *für* {#sec:prepositions-fur}
 
-The preposition *für* has a beneficiary reading with human participants and a general purpose interpretation with non-human participants. Beneficiary *für* often appears in alternation with a dative [@next a], see [@sec:prepositions-dative-antipassive-accusative]. However, a beneficiary *für* is also possible with many more verbs as an adverbial phrase [@next b] without such an alternation being possible [@next c].
+The preposition *für* has a ~~beneficiary~~ reading with human participants and a more general ~~purposive~~ interpretation with non-human participants. Beneficiary *für* often appears in alternation with a dative [@next a,b], see [@sec:prepositions-dative-antipassive-accusative]. However, a beneficiary *für* is possible with many more verbs as an adverbial phrase [@next c] with such a dative alternation being impossible [@next d].
 
 ::: ex
-a. Ich kaufe dir ein Buch. \
-   Ich kaufe ein Buch für dich.
-b. Ich arbeite für dich. \
-c. ^* Ich arbeite dir
+a. Ich kaufe ein Buch für dich.
+b. Ich kaufe dir ein Buch.
+c. Ich arbeite für dich.
+d. ^* Ich arbeite dir
 :::
 
-Adverbial purposive *für* can be used with almost all verbs and can be identified by being paraphrased by *um zu-Infinitiv* phrase [@next a,b]. In this usage, it is also possible to use the paraphrase *dafür, dass* [@next c]. This is an obvious counterexample to the claim that this paraphrase identifies governed prepositions.
+Adverbial purposive *für* can be used with almost all verbs and can be identified by the possibility to be paraphrased by an *um zu-Infinitiv* phrase [@next a,b]. In this usage, it is also possible to use the paraphrase *dafür, dass* [@next c]. This is an obvious exception to the claim that this paraphrase identifies governed prepositions.
 
 ::: ex
 a. Ich arbeite für ein besseres Leben.
-b. Ich arbeite um ein besseres Leben zu haben.
-c. Ich arbeite dafür, dass ich ein besseres Leben habe.
+b. Ich arbeite um ein besseres Leben zu bekommen.
+c. Ich arbeite dafür, dass ich ein besseres Leben bekomme.
 :::
 
-### Cause *durch* and *von* {#sec:prepositions-durch}
+### Causal *durch* and *von* {#sec:prepositions-durch}
 
-The preposition *durch*, roughly meaning 'through' in its spatial meaning [@next a], has a widespread adverbial usage describing a cause [@next b]. In this non-governed adverbial usage it is possible to use the paraphrase *dadurch, dass* [@next c]. Together with purposive *für* from the previous section, this is a second exception to the claim that this *da-* paraphrase is an indication of governed usage.
+The preposition *durch*, roughly meaning 'through' in its spatial meaning [@next a], has a widespread adverbial usage describing a ~~cause~~ [@next b]. In this non-governed adverbial usage it is often still possible to use the paraphrase *dadurch, dass* [@next c]. Together with purposive *für* from the previous section, this is a second exception to the claim that this *da-* paraphrase is an indication of governed usage.
 
 ::: ex
 a. Ich laufe durch den Regen.
@@ -215,7 +219,7 @@ b. Ich verspäte mich durch den Regen.
 c. Ich verspäte mich dadurch, dass es regnet.
 :::
 
-The preposition *von*, roughly meaning 'from' in its spatial meaning [@next a], can also be used for a cause [@next b]. In this non-governed causal usage it is possible to use the paraphrase *davon, dass* [@next c]
+The preposition *von*, roughly meaning 'from' in its spatial meaning [@next a], can also be used for a cause [@next b]. In this non-governed causal usage it is likewise possible to use the paraphrase *davon, dass* [@next c]. This is the third (and last) exception to the test that the *da-* paraphrase is an indication of governed usage.
 
 ::: ex
 a. Sie kommt von dem Arzt.
@@ -223,11 +227,12 @@ b. Sie erwachte von dem Regen.
 c. Sie erwachte davon, dass es regnete.
 :::
 
-This causal *durch* and *von* are also found in passives [@next a] as a way to express the demoted agent. Actually, this usage of *durch* in passives can be seen as a regular causal usage [@next b], and might thus not be an integral part of the passive construction (see [@sec:participles-werden-passive] on the *werden* passive). 
+This causal *durch* and *von* are also found in passives [@next a] as a way to express the demoted agent. Actually, this usage of *von* and *durch* in passives can be seen as an instance of a regular causal usage [@next] and might thus not be an integral part of the passive construction (see [@sec:participles-werden-passive] on the *werden* passive). 
 
 ::: ex
-a. Das Haus wird gebaut durch mich.
-b. Das Haus wird dadurch gebaut, dass ich einen Stein auf den anderen lege.
+a. Der Sturm zerstörte das Haus.
+a. Das Haus wurde zerstört durch den Sturm.
+b. Das Haus wurde dadurch zerstört, dass es vernachlässigt wurde.
 :::
 
 ### Adnominal prepositional phrases
@@ -246,8 +251,8 @@ There are a few verbs that necessarily need a governed preposition. The number o
 ::: ex
 a. Ich komme nicht auf die Lösung.
 b. Ich komme gleich nach Hause.
-c. Ich breche mit meiner Vergangenheit.
-d. Ich breche den Spiegel.
+c. Er bricht mit seiner Vergangenheit.
+d. Er bricht das Brot.
 :::
 
 Only very few verbs seem to have an obligatory preposition and no other meaning without the preposition, like *appellieren* 'to appeal' [@next a,b] and *gewöhnen* 'to accustom' [@next c,d].
@@ -269,11 +274,15 @@ This section summarises verbs that obligatorily need a governed preposition. Som
 - Ich baue darauf, dass du mich unterstützt.
 :::
 
-
+Not all collocations of verbs with a preposition are governed phrases. For example, *stehen vor* [@next a] and *stehen zu* [@next b] are governed, while *stehen zur Diskussion* [@next c] is not.
 
 ::: ex
-- Die Firma stand vor der Übergabe an einen Manager.
-- Der Planet Krypton steht kurz davor, zu explodieren.
+- Die Firma stand vor der Übergabe an einen Manager. \
+  Der Planet Krypton steht kurz davor, zu explodieren.
+- Ich stehe zu meiner Zusage. \
+  Ich stehe dazu, daß wir nicht statistikorientiert arbeiten.^[~~DWDS~~: Berliner Zeitung, 05.11.1996.]
+- Das Problem steht zur Diskussion. \
+   \* Das Problem steht dazu, daß ...
 :::
 
 **Attested Verbs**
@@ -283,7 +292,6 @@ This section summarises verbs that obligatorily need a governed preposition. Som
 - *aus*  : *bestehen*
 - *bei*  : *bleiben*
 - *für*  : *sprechen*
-- *in*   : *geraten*
 - *mit*  : *brechen (sich abwenden), kämpfen, spielen*
 - *über* : *handeln*
 - *von*  : *handeln, kommen*
@@ -293,29 +301,23 @@ This section summarises verbs that obligatorily need a governed preposition. Som
 **Further Examples**
 
 - Ich bestehe auf eine Hochzeit.
-- Ich stehe zu meiner Zusage.
-- Das Problem steht zur Diskussion.
-- Das Buch handelt von der Vergangenheit.
-- Das Buch handelt über die Relativitätstheorie.
-- Ich bin in die Klemme geraten.
 - Ich achte auf die Kinder.
 - Sie bleibt bei ihrer Überzeugung.
 - Mein Körper besteht aus Knochen.
 - Die Verhältnisse sprechen für ein baldiges Ende.
 - Der Schaden kam von dem Sturm.
-- Ich kämpfe mit der Krankheit (zusammen mit dem Doktor).
+- Ich kämpfe mit der Krankheit.
 - Ich spiele mit dem Gedanken.
 - Sie bricht mit ihrer Familie.
 - Die Farbe passt zu dir.
 
 **Notes**
 
-For the verb *geraten* the prepositions *in* accounts for most collocations. However, many other prepositions also occur with the verb [@next a,b]. Without any preposition it seems to be rather unusual [@next c].
+The combination *handeln Über* is attested [@next a], but infrequent. *handeln von* seems to be preferred [@next b].
 
 ::: ex
-a. Die Kinder geraten nach ihrem Vater.
-b. Die SPD gerät unter Zugzwang.
-c. Der Kuchen ist mir gut geraten.
+- Ihre Texte handeln über Dinge, die sie jetzt beschäftigen.^[~~DWDS~~: Die Zeit, 21.12.2005, Nr. 51.]
+- Das Buch handelt von der Vergangenheit.
 :::
 
 ### [ NAP ] Governed preposition+accusative
@@ -337,7 +339,7 @@ Some verbs, like *erinnern* 'to remind' [@next], combine a governed preposition 
 **Further Examples**
 
 - Er gewöhnt seinen Sohn an den Geschmack.
-- Er hat viel Arbeit an das Haus gewandt.
+- Er hat viel Arbeit an das Haus gewandt.^[Attested at https://www.dwds.de/wb/wenden, accessed 18 April 2022.]
 - Er hat mich über die Lage aufgeklärt.
 - Sie gab ihren Sohn für einen Künstler aus.
 - Ich begründe meine schlechte Leistung mit einer Krankheit.
@@ -388,8 +390,8 @@ b. Er legt den Hund in den Korb.
 The verb *belassen bei* 'to rest a matter with' [@next] appears to have an obligatorily empty accusative pronoun *es*. Such non-phoric pronouns *es* mostly appears as a fall-back mechanism for missing subjects (see [@sec:intro-es]). However, with this verb it is used for a missing object. It does not seem to be possible to use any phoric object with this verb.
 
 ::: ex
-- Die Polizistin belässt es bei einer Warnung.
-- Die Polizistin belässt es dabei, mich zu warnen.
+- Die Polizistin belässt es bei einer Verwarnung.
+- Die Polizistin belässt es dabei, mich zu verwarnen.
 :::
 
 **Attested Verbs**
@@ -454,8 +456,10 @@ d. Es zeugt von deinem Einsatz.
 
 **Further Examples**
 
-- Der Platz wimmelt von Kindern. Hier wimmelt es von Kindern. 
-- Ich komme zu einem harmlosen Ergebnis. Gestern kam es zu einem Streit.
+- Der Platz wimmelt von Kindern. \
+  Hier wimmelt es von Kindern. 
+- Ich komme zu einem harmlosen Ergebnis. \
+  Gestern kam es zu einem Streit.
 
 **Notes**
 
@@ -674,7 +678,7 @@ a. Ich hänge den Pullover in den Schrank.
 b. Der Pullover hängt im Schrank.
 :::
 
-These verbs use a *haben* perfect both in the intransitive and transitive usage [@next a,b]. The *Zustandspassiv* of the transitive is sometimes also possible, leading to another intransitive construction with the auxiliary *sein* [@next c].
+These verbs use a *haben* perfect both in the intransitive and transitive usage [@next a,b]. The *Zustandspassiv* of the transitive is also possible, leading to another intransitive construction with the auxiliary *sein* [@next c].
 
 ::: ex
 a. Ich habe den Teller an den Tisch geklebt.
@@ -688,20 +692,26 @@ c. Der Teller ist am Tisch geklebt.
 
 **Further Examples**
 
-- Ich habe das Buch in meine Tasche gesteckt. Das Buch steckt in meiner Tasche.
-- Der Zettel klebt an der Tür. Ich klebe den Zettel an die Tür.
-- Der Besen lehnt am Zaun. Ich lehne den Besen an den Zaun.
-- Der Brief steckt im Briefkasten. Ich stecke den Brief in den Briefkasten
-- Er treibt im Wasser. Ich treibe ihn aus dem Haus.
-- Er klappt den Sitz nach hinten. Der Sitz klappt nach hinten. Der Sitz ist nach hinten geklappt.
+- Ich habe das Buch in meine Tasche gesteckt. \
+  Das Buch steckt in meiner Tasche.
+- Ich klebe den Zettel an die Tür. \
+  Der Zettel klebt an der Tür.
+- Ich lehne den Besen an den Zaun. \
+  Der Besen lehnt am Zaun. 
+- Ich stecke den Brief in den Briefkasten. \
+  Der Brief steckt im Briefkasten. 
+- Ich treibe ihn aus dem Haus. \
+  Er treibt im Wasser. 
+- Er klappt den Sitz nach hinten. \
+  Der Sitz klappt nach hinten. Der Sitz ist nach hinten geklappt.
 
 **Notes**
 
-The verb *hängen* still shows the difference between transitive causative and intransitive stative usage through different forms of the past *hing* vs. *hängte* [@next a,b] and the participle *gehangen* vs. *gehängt* [@next c,d]. Many speakers of German do not appear to have clear intuitions about any difference between these two inflectional alternatives anymore [see also @plank2015: 32-33].
+{#par:hängen} The verb *hängen* still shows the difference between transitive causative and intransitive stative usage through different forms of the past *hing* vs. *hängte* [@next a,b] and the participle *gehangen* vs. *gehängt* [@next c,d]. Many speakers of German do not appear to have clear intuitions about any difference between these two inflectional alternatives anymore [see also @plank2015: 32-33].
 
 ::: ex
 a. Der Pullover hing im Schrank.
-b. Ich hängte den Pullover in den Schrank.
+b. ^^?^ Ich hängte den Pullover in den Schrank.
 c. Der Pullover hat im Schrank gehangen.
 d. Ich habe den Pullover in den Schrank gehängt.
 :::

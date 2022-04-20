@@ -468,42 +468,128 @@ the list includes the perfect of the transitive verb, sometimes not.
 
 - p. 111 5.6.3 Further verbs: sitzen – setzen, liegen legen
 
-> They belong in 6.6.2 as they need a locational phrase. But thanks for the tip!
+> These verbs belong in 6.6.2 as they need a locational phrase.
 
 - p. 112 The examples in 5.37 and 5.38 illustrate different types of illustrations. Either you discuss this in more details or you should you list examples exemplifying the same type of alternation. The conative alternation in 5.37c is something different from the plain intransitive use of essen or backen in 5.37b and 5.38c.
 
-
+> Reformulated to make it clearer that the *essen, backen, sehen* examples are **not** part of this diathesis.
 
 - p. 113 5.42 The examples contain different uses of unterrichten, in b. and e. it means ‘teach’, in c. and d. it means ‘report, notify’ and in a. it can mean both. It might be worth distinguishing between the different uses to check systematically whether the alternations are dependent on the verb’s meaning (use).
+
+> Slightly changed examples and explicitly added that the meaning 'notify' is not intended here.
+
 - p. 114 5.43a The example is odd, at least for me.
+
+> I took it from DWDS "ich danke ihm mein Leben". I have added a reference to that source.
+
 - p. 114 In 5.7.4 it is stated that some verbs only allow inanimate subjects; one of the examples is sitzen. This is related to a specific interpretation of sitzen, right? Like in Die Jacke sitzt (mir) gut.
+
+> Yes: that is exactly the last example as listed in the section 'Further Examples'
+
 - p. 115 ‘this diathesis seem to be restricted’: seems
-- p. 115 ‘Ich spreche dir den Dank aus’: either without den or something like den Dank aller
-Kollegen
+
+> Done
+
+- p. 115 ‘Ich spreche dir den Dank aus’: either without den or something like den Dank aller Kollegen
+
+> changed accordingly
+
 - p. 116 ‘The verb nahelegen is is’: delete one ‘is’ 
+
+> done
+
 - p. 116 ‘to read aloud*: wrong symbol
+
+> corrected
+
 - p. 116 ‘I h bezichtige dich nicht’: Only possible in a context like: ‘Du bezichtigst mich des Diebstahls. Nein, ich bezichtige dich nicht.‘ But even here, I think the genitive NP is highly missing.
+
+> I agree. Verb removed here. I have added it to Section 5.3.7, which was discussed above already. That section didn't have any examples, but now *bezichtigen* is the only one.
+
 - p. 117 ‘Er hat die 400 meter geschwommen.’: Meter
+
+> done
+
 - p. 118 ‘er floh ihren Blick’: Er
+
+> done
+
 - p. 118 5.51 Punctuation mark is missing
+
+> added
+
 - p. 119 ‘Mir dampft der Tee’/‘Mir stinken die Socken’: Strange sentences; attested? Stinken with a dative subject does not mean ‘smell’ but (roughly) ‘dislike’.
+
+> agree, removed this example. There is a nice neologism "mir dampft die Bluse", but that is not (yet?) relevant 😁 https://www.handelsblatt.com/arts_und_style/aus-aller-welt/filmsprueche-von-bud-spencer-mir-dampft-ja-schon-die-bluse/13800342.html
+
 - p. 119 ‘Mein Kopf schwindelt. Mir schwindelt der Kopf’: I think both sentenes are rather strange.
+
+> agree, example removed
+
 - p. 120 5.56 The contrast between b. and c. is due to the determiner: Ich koche deine Suppe für dich (deine Lieblingssuppe) and Ich koche die Suppe für dich (die, die du bestellt hast) are ok. The same for the examples in 5.58.
+
+> I have reformulated the text to make clearer why I think these examples are noteworthy.
+
 - p. 122 5.64a This rather is odd, therefore it would be worth citing an attested example. 
+
+> The example is from the DWDS dictionary. I have added a link.
+
 - p. 128 6.11c ‘ich bin getanzt‘: Ich
+
+> done
+
 - p. 129 ‘The comitative interpretation’: the
+
+> done
+
 - p. 129 6.13a/c Punctuation marks missing
+
+> done
+
 - p. 129 6.16 What about sentences like Ich kämpfe mit dem Schwert; the PP cannot easily dropped
+
+> That is exactly the point I'm trying to make here. I have added a sentence to make this clearer
+
 - p. 130 6.17 Is there something missing between b. and c.?
+
+> No. Slight reordering of the example to remove any possibly confusion. Oh: I found the problem: in the PDF there was a layout error with too much whitespace.
+
 - p. 130 ‘paraphrased by um zu-Infitive phrase’: either ‘an um zu-Infitive phrase’ or ‘phrases’
+
+> rephrased
+
 - p. 130 6.18c I think bekomme is preferred over habe, if arbeiten is in the present tense.
+
+> Indeed, sound better. Changed.
+
 - p. 130 6.21a Only a von-PP not a durch-PP is possible.
+
+> changed example
+
 - p. 131 6.23b This only works with zerbrechen not with brechen. Or you add a result-XP Ich breche den Spiegel entzwei/kaputt/in Teile.
+
+> nice observation. Seems to be dependent on the noun. Changed *Spiegel* to *Brot*
+
 - p. 132 ‘Das Problem steht zur Diskussion’: zur Diskussion stehen is a Funktionsverbgefüge; similarly unter Zugzwang geraten in 6.26b
+
+> Indeed. And they do not allow for a *da-* paraphrase. I have removed them, and some others that likewise were listed here erroneously.
+
 - p. 132 ‘Das Buch handelt über die Relativitätstheorie’: I prefer von
+
+> I have the same intuition. *über* is attested, though rare. I have added a corpus example.
+
 - p. 133 ‘Er hat viel Arbeit an das Haus gewandt’: Totally unacceptable
-- p. 134 6.30 Verwarnung/verwarmen instead of Warnung/warnen would be more idiomatic. 
+
+> This example is taken from the DWDS dictionary. I have added a link.
+
+- p. 134 6.30 Verwarnung/verwarmen instead of Warnung/warnen would be more idiomatic.
+
+> changed
+
 - p. 134 6.32b The sentence is acceptable in the right context, it means ‘Karl is cooperative’.
+
+> But only in very special circumstances. I have not changed this example.
+
 - p. 135 ‘Ich komme zu einem harmlosen Ergebnis. Gestern kam es zu einem Streit.’: The pair of examples contains different Funktionsvebrgefüge.
 - p. 135 6.34a The example means ‘He is missing/longing for his money’ not ‘He is lacking money’.
 - p. 136 6.35b Compare Mir ist kalt with Ich bin kalt; it is a well-known cross-linguistically that experiencer subjects are realized in the dative case.

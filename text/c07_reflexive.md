@@ -424,7 +424,7 @@ b. Ich (be)merke seine Absicht
 c. Du darfst dir das nicht (an)merken lassen
 :::
 
-The verb *vorstellen* also has two rather different meanings. In this construction with an obligatory dative *sich* it means 'to imagine' [@next a]. The other meaning 'to introduce' [@next b,c] has a possible accusative reflexive (see [@#sec:reflexive-self-inflicting-accusative]).
+The verb *vorstellen* also has two rather different meanings. In this construction with an obligatory dative *sich* it means 'to imagine' [@next a]. The other meaning 'to introduce' [@next b,c] has a possible accusative reflexive (see [@sec:reflexive-self-inflicting-accusative]).
 
 ::: ex
 a. Ich stelle mir den Konsul vor.
@@ -758,7 +758,7 @@ The crucial difference between a 'self-inflicted' reflexive construction and the
 
 **Notes**
 
-The verb *stoßen* 'to push' has an interesting change in preferred prepositional adjunct between non-reflexive [@next a] and reflexive usage [@next b], in accordance to the verb semantics. Pushing something else will normally result in a movement, e.g. into or out of somewhere. Conversely, pushing oneself will typically be against something. The 'Zustandspassiv' (see [@#sec:participles-sein-zustandspassiv]) again changes the direction of movement and accordingly the preposition [@next c]. However, these conventional implicatures can be changed by a suitable context [@next d,e].
+The verb *stoßen* 'to push' has an interesting change in preferred prepositional adjunct between non-reflexive [@next a] and reflexive usage [@next b], in accordance to the verb semantics. Pushing something else will normally result in a movement, e.g. into or out of somewhere. Conversely, pushing oneself will typically be against something. The 'Zustandspassiv' (see [@sec:participles-sein-zustandspassiv]) again changes the direction of movement and accordingly the preposition [@next c]. However, these conventional implicatures can be changed by a suitable context [@next d,e].
 
 ::: ex
 a. Er stößt mich in den Teich.
