@@ -1571,6 +1571,34 @@ c. Ich vertiefe meine Kenntnisse. Ich vertiefe mich in mein Buch.
 
 Not attested.
 
+### [ N– | NL ] Reflexive manner of movement
+
+Intransitive verbs that do not describe a movement, like 
+
+close to adverbials [@sec:adverbials-intransitive-reflexive-resultative]
+
+'by moving in'
+
+**Attested Verbs**
+
+- *essen, fallen, fressen, liegen, trinken, schießen, schlafen, schwitzen, zittern*
+
+**Further Examples**
+
+- Ich aß und trank mich durch Deutschland.^[~~DWDS~~: Die Zeit, 16.04.1998, Nr. 17.]
+- Die herumwieselnden Köche schwitzen sich durch verschiedene Runden.^[~~DWDS~~: Die Zeit, 20.04.2016 (online).]
+- Sie schläft sich in ihren Tod.^[~~DWDS~~: Berliner Zeitung, 05.04.1997.]
+- Die Motten fressen sich durch den Pullover.
+- Die Städte fraßen sich ins Umland.^[~~DWDS~~: Die Zeit, 23.01.2017, Nr. 02.]
+- Würzburg zitterte sich am Ende in die Playoffs.^[~~DWDS~~: Die Zeit, 07.05.2016 (online).]
+- Schalke schießt sich aus der Krise.^[Attested online at <https://www.faz.net/aktuell/sport/2-0-gegen-hannover-schalke-schiesst-sich-aus-der-krise-1258798.html>, accessed 30 March 2021.]
+- Sie fallen/liegen sich in die Arme.
+
+
+### [ N–– | NAL ]
+
+- Er hustet sich die Seele aus dem Leib.
+
 ## Symmetrical diatheses
 
 ### --- [ OBJ > SBJ > OBJ ] --- {.unnumbered}
@@ -1647,10 +1675,7 @@ d. ^* Ich träume mich.
 - Er arbeitet an den Daten. Er arbeitet sich durch die Daten.
 - Ich kämpfe mit den Wellen. Ich kämpfe mich durch die Wellen.
 - Ich lüge über mein Leben. Ich lüge mich durch mein Leben.
-- Die Motten fressen von/an den Pullover. Die Motten fressen sich durch den Pullover.
 - Bevor ich auf das Eis gehe, muss ich meine Kür exakt im Kopf haben, ich denke mich quasi durch meinen Trick.^[~~DWDS~~: Die Zeit, 16.06.2009, Nr. 25.]
-- Er zitterte vor der Prüfung. Würzburg zitterte sich am Ende in die Playoffs.^[~~DWDS~~: Die Zeit, 07.05.2016 (online).]
-- Schalke schießt sich aus der Krise.^[Attested online at <https://www.faz.net/aktuell/sport/2-0-gegen-hannover-schalke-schiesst-sich-aus-der-krise-1258798.html>, accessed 30 March 2021.]
 
 ### --- [ OBJ > OBJ ] --- {.unnumbered}
 

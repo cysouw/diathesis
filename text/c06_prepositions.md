@@ -53,7 +53,7 @@ There are fourteen local groups of diatheses that seem prominent enough to be gi
 
 ### Identifying governed prepositions {#sec:prepositions-identifying-governed-prepositions}
 
-As a general rule (with only few exceptions, see below) I propose to define prepositional phrases as lexically governed arguments when they allow for a paraphrase of the form *da*-~~preposition~~, *dass* ~~clause~~ (cf. Engelen 1986: 110-112). For example, the verb *warten* 'to await' has a possible governed preposition *auf* designating the object that is waited for [@next a]. In this reading, [@next a] can be paraphrased by [@next b] with a *darauf, dass* subordinate clause. The combination *warten auf* can best be considered a fixed collocation, to be translated into English as 'waiting for'. However, the preposition *auf* can also have its adverbial local meaning 'on top of' [@next c]. This leads to another interpretation in which the prepositional phrase is not a governed preposition but an adverbial phrase with a local meaning, paraphrased in [@next d]. These two readings can even be combined [@next e], with an interesting difference in case marking between the two prepositional phrases.
+As a general rule (with only few exceptions, see below) I propose to define prepositional phrases as lexically governed arguments when they allow for a paraphrase of the form *da*-~~preposition~~, *dass* ~~clause~~ (cf. Engelen 1986: 110-112). For example, the verb *warten* 'to await' has a possible governed preposition *auf* designating the object that is waited for [@next a]. In this reading, [@next a] can be paraphrased by [@next b] with a *darauf, dass* subordinate clause. This combination *warten auf* can best be considered a fixed collocation, to be translated into English as 'waiting for'. However, the preposition *auf* can also have its adverbial local meaning 'on top of' [@next c]. This leads to another interpretation in which the prepositional phrase is not a governed preposition but an adverbial phrase with a local meaning, paraphrased in [@next d]. These two readings can even be combined [@next e], with an interesting difference in case marking between the two prepositional phrases.
 
 ::: ex
 a. Der König wartet auf seinen neuen Thron.
@@ -63,7 +63,7 @@ c. Der König wartet, während er auf seinem alten Thron sitzt.
 d. Der König wartet auf seinem alten Thron auf seinen neuen Thron.
 :::
 
-The possibility of a *da+Präposition, dass* construction has a parallel in question constructions with *wo(r)+Preposition* [@next a]. The local interpretation is questioned with a bare question word *wo* [@next b].
+The possibility of a *da+Präposition, dass* paraphrase for governed prepositional phrases has a parallel in question-constructions with *wo(r)+Preposition* [@next a]. In contrast, the local interpretation of a prepositional phrase is questioned with a bare question word *wo* [@next b].
 
 ::: ex
 a. Worauf wartet der König?
@@ -73,9 +73,12 @@ b. Wo wartet der König?
 Some prepositional phrases without the option of a *da+Präposition, dass* paraphrase still have a special status as an argument-like role of a verb, namely when they can be substituted by a case-marked constituent. This is typical for antipassive alternations like [@next a], in which the accusative role *den Bären* can alternatively be expressed by a prepositional phrase *auf den Bären* with a difference in affectedness of the object, see [@sec:prepositions-accusative-antipassive]. In this situation the prepositional phrase cannot be replaced by a *darauf, dass* phrase, so it is not a governed preposition. However, because of the alternation with a case marked constituent, this participant (viz. *Bär*) is still an argument. Not all prepositional phrases allow such an alternation, notably most local expressions do not [@next b]. However, there are also some distinctly local expressions that still allow for an antipassive alternation [@next c]. In general, the semantic content is not a suitable definition of argument status.
 
 ::: ex
-a. Ich schieße auf den Bären. Ich schieße den Bären. 
-b. Ich sitze auf dem Stuhl. ^* Ich sitze den Stuhl.
-c. Ich reite auf dem Pferd. Ich reite das Pferd.
+a. Ich schieße auf den Bären. \
+   Ich schieße den Bären. 
+b. Ich sitze auf dem Stuhl. \
+   \* Ich sitze den Stuhl.
+c. Ich reite auf dem Pferd. \
+   Ich reite das Pferd.
 :::
 
 ### Identifying non-governed prepositions {#sec:prepositions-definition-non-governed}
@@ -146,7 +149,7 @@ c. ^* Ich bin getanzt.
 
 ### Comitative/instrumental *mit* and *ohne* {#sec:prepositions-comitative-intrumental}
 
-The prepositions *mit* 'with' (and its negative counterpart *ohne* 'without') have a special status in German. With human participants they have a ~~comitative~~ interpretation [@next], These are questioned with *mit wem*. With non-human participants an ~~instrumental~~ reading is provoked [@nnext]. These are questioned with *womit*. Except for this different interrogative, the comitative interpretation can also be identified by the possibility to add *zusammen*, which is not possible in the instrumental reading. 
+The prepositions *mit* 'with' and its negative counterpart *ohne* 'without' have a special status in German. With human participants they have a ~~comitative~~ interpretation [@next], These are questioned with *mit wem*. With non-human participants an ~~instrumental~~ reading is provoked [@nnext]. These are questioned with *womit*. Except for this different interrogative, the comitative interpretation can also be identified by the possibility to add *zusammen*, which is not possible in the instrumental reading. 
 
 ::: ex
 a. Ich arbeite mit meinem Freund.
@@ -192,7 +195,7 @@ d. Ich einige mich mit dir. \
 
 ### Purposive/beneficiary *für* {#sec:prepositions-fur}
 
-The preposition *für* has a ~~beneficiary~~ reading with human participants and a more general ~~purposive~~ interpretation with non-human participants. Beneficiary *für* often appears in alternation with a dative [@next a,b], see [@sec:prepositions-dative-antipassive-accusative]. However, a beneficiary *für* is possible with many more verbs as an adverbial phrase [@next c] with such a dative alternation being impossible [@next d].
+The preposition *für* has a ~~beneficiary~~ reading with human participants and a more general ~~purposive~~ interpretation with non-human participants. Beneficiary *für* often appears in alternation with a dative [@next a,b], see [@sec:prepositions-dative-antipassive-accusative]. However, a beneficiary *für* is possible with many more verbs as an adverbial phrase [@next c], with such a dative alternation being impossible [@next d].
 
 ::: ex
 a. Ich kaufe ein Buch für dich.
@@ -231,8 +234,8 @@ This causal *durch* and *von* are also found in passives [@next a] as a way to e
 
 ::: ex
 a. Der Sturm zerstörte das Haus.
-a. Das Haus wurde zerstört durch den Sturm.
-b. Das Haus wurde dadurch zerstört, dass es vernachlässigt wurde.
+b. Das Haus wurde zerstört durch den Sturm.
+c. Das Haus wurde dadurch zerstört, dass es vernachlässigt wurde.
 :::
 
 ### Adnominal prepositional phrases
@@ -241,12 +244,12 @@ Prepositional phrases can of course also be used adnominally, i.e. they modify a
 
 ::: ex
 a. In seinem Korb knabbert [der Hund] [an der Leine].
-b. An seinem Korb knabbert [der Hund an der Leine].
+b. In seinem Korb knabbert [der Hund an der Leine].
 :::
 
 ## Deponent verbs without alternations
 
-There are a few verbs that necessarily need a governed preposition. The number of such obligatory verb-preposition combinations is surprisingly small in German. Most governed prepositional phrases can easily be dropped or show other alternations (as discussed in the remainder of this chapter). Most verbs that obligatorily occur together with a preposition have developed a special meaning for the verb-preposition combination, like *kommen auf* 'to conceive' vs. *kommen* 'to come' [@next a,b] and *brechen mit* 'to cease relations' vs. *brechen* 'to break' [@next c,d]
+There are a few verbs that necessarily need a governed preposition. The number of such obligatory verb-preposition combinations is surprisingly small in German. Most governed prepositional phrases can easily be dropped or show other alternations (as discussed in the remainder of this chapter). Most verbs that obligatorily occur together with a preposition have developed a special meaning for the verb+preposition combination, like *kommen auf* 'to conceive' vs. *kommen* 'to come' [@next a,b] and *brechen mit* 'to cease relations' vs. *brechen* 'to break' [@next c,d]
 
 ::: ex
 a. Ich komme nicht auf die Lösung.
@@ -282,7 +285,7 @@ Not all collocations of verbs with a preposition are governed phrases. For examp
 - Ich stehe zu meiner Zusage. \
   Ich stehe dazu, daß wir nicht statistikorientiert arbeiten.^[~~DWDS~~: Berliner Zeitung, 05.11.1996.]
 - Das Problem steht zur Diskussion. \
-   \* Das Problem steht dazu, daß ...
+  \* Das Problem steht dazu, daß ...
 :::
 
 **Attested Verbs**
@@ -417,7 +420,7 @@ d. Karl kooperiert mit Anna [zusammen mit seinem Freund].
 
 **Attested Verbs**
 
-- *anstoßen (zuprosten), debatieren, kooperieren, spielen, streiten, unterhandeln*
+- *anstoßen (zuprosten), debattieren, kooperieren, spielen, streiten, unterhandeln*
 
 **Further Examples**
 
@@ -438,7 +441,7 @@ This section is empty. It is only added here for the numbering to be parallel ac
 
 ### [ NP | –P ] Nominative drop+governed preposition {#sec:prepositions-nominative-drop}
 
-With verbs like *abhängen* the nominative can be dropped, and a valency-simulating pronoun *es* is inserted [@next a,b]. This pronoun *es* is not referential with verbs like this. For an apparently similar verb like *zeugen* this is different [@next c,d]: with this verb the pronoun *es* can only be interpreted referentially ('phoric').
+With verbs like *abhängen von* 'depend on' the nominative can be dropped, and a valency-simulating pronoun *es* is inserted [@next a,b]. This pronoun *es* is not referential with verbs like this. For an apparently similar verb like *zeugen von* 'to be evidence of' this is different [@next c,d]: with this verb the pronoun *es* can only be interpreted referentially ('phoric'), so it does not belong in this class.
 
 ::: ex
 a. Mein Leben hängt von dir ab.
@@ -463,10 +466,10 @@ d. Es zeugt von deinem Einsatz.
 
 **Notes**
 
-Some dictionaries list *hapern* 'to be lacking' as having obligatory *es* [@next a]. However, in corpora there are various examples with a nominative subject [@next b,c].
+Some dictionaries list *hapern an* 'to be lacking' as having obligatory *es* [@next a]. However, in corpora there are various examples with a nominative subject [@next b,c].
 
 ::: ex
-a. Es hapert an der Versorgung.
+a. Es hapert an der Versorgung.^[Attested at https://www.dwds.de/wb/hapern, accessed 23 April 2022.]
 b. Denn der Vergleich hapert immer.^[~~DWDS~~: Die Zeit, 29.12.2010, Nr. 52.]
 c. Eine mögliche Wiedergeburt der Grünen [...] hapert an drei Stellen.^[~~DWDS~~: Der Tagesspiegel, 26.03.2001.]
 d. Nur bei den Bässen hapert der Nachschub.^[~~DWDS~~: Die Zeit, 19.03.1993, Nr. 12.]
@@ -476,7 +479,7 @@ d. Nur bei den Bässen hapert der Nachschub.^[~~DWDS~~: Die Zeit, 19.03.1993, Nr
 
 ### [ ND | pD ] Nominative demotion+dative {#sec:prepositions-nominative-demotion}
 
-Incidental verbs with nominative and dative arguments allow the nominative to be changed into a prepositional phrase with *an*, while at the same time the dative will be retained [@next a,b]. The result is a construction without nominative, so a pronoun *es* is inserted.
+Incidental verbs with nominative and dative arguments allow the nominative to be changed into a prepositional phrase with *an*, while at the same time the dative will be retained, like with *fehlen* 'to lack' [@next a,b]. The result is a construction without nominative, so a pronoun *es* is inserted.
 
 ::: ex
 a. Das Geld fehlt ihm.
@@ -489,11 +492,12 @@ b. Ihm fehlt es an Geld.
 
 **Further Examples**
 
-- Leider mangelt ihm jeglicher Stolz. Ihm mangelt es an Stolz.
+- Leider mangelt ihm jeglicher Stolz. \
+  Ihm mangelt es an Stolz.
 
 ### [ N– | pD ] Nominative demotion+dative addition {#sec:prepositions-nominative-demotion-dative-addition}
 
-Some predicates take a nominative argument with non-sentient arguments [@next a], but a dative experiencer can only be used with the nominative demoted [@next b]. This only seems to occur with predicative constructions with copula *sein*. Maybe this diathesis is better analysed as a stack of two separate changes: a dropping of the nominative and an addition of the dative with [@next c] being an intermediate construction.
+Some verbs take a nominative argument with non-sentient arguments [@next a], but a dative experiencer can only be used with the nominative demoted [@next b]. This only seems to occur with predicative constructions with copula *sein*. Maybe this diathesis is better analysed as a stack of two separate changes: a dropping of the nominative and an addition of the dative, with [@next c] being an intermediate construction.
 
 ::: ex
 a. Der Sommer ist kalt.
@@ -507,14 +511,16 @@ c. Es ist kalt (im Sommer).
 
 **Further Examples**
 
-- Mir ist zum Heulen im Sommer. Der Sommer ist zum Heulen. 
-- Mir ist langweilig im Sommer. Der Sommer ist langweilig.
+- Mir ist zum Heulen im Sommer. \
+  Der Sommer ist zum Heulen. 
+- Mir ist langweilig im Sommer. \
+  Der Sommer ist langweilig.
 
 ### --- [ ADJ > SBJ > Ø ] --- *Instrumentsubjektivierung* {.unnumbered}
 
 ### [ Np | –N ] Intransitive conciliative {#sec:prepositions-intransitive-preposition-anticausative}
 
-A ~~conciliative~~ is a diathesis in which an instrument-like artefact is promoted to nominative subject. This instrument is an intermediate (Lat. *conciliator*, 'intermediary/mediator') that is used by an agent to reach a certain goal. For intransitive verbs a (non-governed) prepositional constituent alternates with a nominative subject [@next a,b].
+A ~~conciliative~~ (from Lat. *conciliator*, 'intermediary/mediator') is a diathesis in which an instrument-like artefact is promoted to nominative subject. This instrument is an intermediate that is used by an agent to reach a certain goal. For intransitive verbs a (non-governed) prepositional constituent alternates with a nominative subject [@next a,b].
 
 ::: ex
 a. Er klappert mit der Tür.
@@ -563,22 +569,34 @@ The instrumental *mit* phrase is a real non-governed instrument, i.e. an inanima
 
 **Further Examples**
 
-- Ich treffe den Nagel mit einem Hammer. Der Hammer trifft einen Nagel.
-- Ich öffne die Tür mit dem Schlüssel. Der Schlüssel öffnet die Tür.
-- Ich zerstöre das Gebäude mit einer Bombe. Meine Bombe zerstört das Gebäude.
-- Ich fülle meinen Magen mit Reis. Der Reis füllt meinen Magen.
-- Ich schmücke den Baum mit Kugeln. Die Kugeln schmücken den Baum.
-- Ich verstopfe den Durchfluss mit Steinen. Die Steine verstopfen den Durchfluss.
-- Ich verschmutze die Küche mit dem Sand unter meinen Schuhen. Der Sand verschmutzt die Küche.
-- Der Mörder erstickt den Mann mit einem Kissen. Das Kissen erstickt den Mann.
-- Der Mörder tötet den Mann mit einem Messer. Das Messer tötet den Mann.
-- Du leuchtest mich an mit der Lampe. Die Lampe leuchtet mich an.
-- Ich bedecke den Tisch mit einem Tuch. Das Tuch bedeckt den Tisch.
-- Ich mahle die Kaffeebohnen mit der Maschine. Die Maschine mahlt die Kaffeebohnen.
+- Ich treffe den Nagel mit einem Hammer. \
+  Der Hammer trifft einen Nagel.
+- Ich öffne die Tür mit dem Schlüssel. \
+  Der Schlüssel öffnet die Tür.
+- Ich zerstöre das Gebäude mit einer Bombe. \
+  Meine Bombe zerstört das Gebäude.
+- Ich fülle meinen Magen mit Reis. \
+  Der Reis füllt meinen Magen.
+- Ich schmücke den Baum mit Kugeln. \
+  Die Kugeln schmücken den Baum.
+- Ich verstopfe den Durchfluss mit Steinen. \
+  Die Steine verstopfen den Durchfluss.
+- Ich verschmutze die Küche mit dem Sand unter meinen Schuhen. \
+  Der Sand verschmutzt die Küche.
+- Der Mörder erstickt den Mann mit einem Kissen. \
+  Das Kissen erstickt den Mann.
+- Der Mörder tötet den Mann mit einem Messer. \
+  Das Messer tötet den Mann.
+- Du leuchtest mich an mit der Lampe. \
+  Die Lampe leuchtet mich an.
+- Ich bedecke den Tisch mit einem Tuch. \
+  Das Tuch bedeckt den Tisch.
+- Ich mahle die Kaffeebohnen mit der Maschine. \
+  Die Maschine mahlt die Kaffeebohnen.
 
 **Notes**
 
-Not all instruments allow for this diathesis [@next].
+Not all instruments allow for this diathesis [@next]. This difference suggests that there are at least two different kinds of 'instruments' [cf. @hooste2018].
 
 ::: ex
 a. Ich belade den Laster mit einem Kran.
@@ -591,22 +609,27 @@ b. ^* Meine Hände beladen den Laster.
 
 This alternation takes a (non-governed) prepositional phrase and turns it into a nominative. However, different from the previous anticausatives, the original nominative agent cannot be retained, and the original accusative is transformed into a prepositional phrase with *nach*.
 
+::: ex
+- Ich schmecke Pfefferminze in der Suppe. 
+- Die Suppe schmeckt nach Pfefferminze.
+:::
+
 **Attested Verbs**
 
 - *riechen, schmecken*
 
 **Further Examples**
 
-- Ich schmecke Pfefferminze in der Suppe. Die Suppe schmeckt nach Pfefferminze
-- Ich rieche Blume im Parfüm. Der Parfüm riecht nach Blume.
+- Ich rieche Blume im Parfüm. \
+  Der Parfüm riecht nach Blume.
 
 ### --- [ PBJ > SBJ > Ø ] --- *Kreationsubjektivierung* {.unnumbered}
 
 ### [ NPA | –NA ] Transitive fabricative {#sec:prepositions-fabricative-accusative}
 
-A ~~fabricative~~ (Lat *fabrica*, 'plan, trick, workmanship') is a diathesis that superficially looks very similar to a conciliative in German because in both diatheses a *mit* prepositional phrase is promoted to nominative subject. The central difference is that the *mit* prepositional phrase in a fabricative diathesis is a governed preposition. This structural difference has a parallel semantic difference in that the fabricative *mit* phrase is an object that is produced by the agent.
+A ~~fabricative~~ (from Lat *fabrica*, 'plan, trick, workmanship') is a diathesis that superficially looks very similar to a conciliative ([@sec:prepositions-intransitive-preposition-anticausative]) because in both diatheses a *mit* prepositional phrase is promoted to nominative subject. The central difference is that in a fabricative diathesis the *mit* prepositional phrase is a governed preposition. This structural difference has a parallel semantic difference in that the fabricative *mit* phrase is an object that is produced by the agent.
 
-This diathesis occurs (among others) with verbs of emotional interactions like *überraschen* 'to surprise' [@next a]. To understand this diathesis, a distinction is needed between the role of the 'fabricator', who produces the source (here: *Lehrer*, 'teacher') and the role of the 'fabricated product', which induces the emotion (here: *Aufgabe*, 'assignment'). The fabricator can be expressed with an adnominal genitive ('possessor') of the product [@next a,b]. The *mit* prepositional phrase expressing the fabricated product in [@next a] is a governed preposition [@next c]. As a result of the diathesis, the fabricated product is be promoted to nominative subject and the fabricator is removed from the expression [@next a,b]. The experiencer in the accusative remains unchanged.
+This diathesis occurs (among others) with verbs of emotional interactions like *überraschen* 'to surprise' [@next a]. To understand this diathesis, a distinction is needed between the role of the 'fabricator', who produces the thing that evokes the emotion (here: *Lehrer*, 'teacher') and the role of the 'fabricated product', which induces the emotion (here: *Aufgabe*, 'assignment'). The fabricator can be expressed with an adnominal genitive ('possessor') of the product [@next a,b]. The *mit* prepositional phrase expressing the fabricated product in [@next a] is a governed preposition [@next c]. As a result of the diathesis, the fabricated product is be promoted to nominative subject and the fabricator is removed from the expression [@next a,b]. The experiencer in the accusative *mich* remains unchanged.
 
 ::: ex
 a. Der Lehrer überraschst mich mit seiner Aufgabe.
@@ -614,7 +637,7 @@ b. Die Aufgabe (des Lehrers) überrascht mich.
 c. Der Lehrer überrascht mich damit, dass er die Aufgabe schon korrigiert hat.
 :::
 
-There is a large overlap (but also an interesting difference) between the verbs that allow for this diathesis and the verbs that allow for a reflexive variant [@next c], see [@sec:reflexive-preposition-passive]. Some verbs, like *ärgern* 'to irritate' in [@next] allow for both diatheses, but other verbs only take part in one or the other.
+There is a large overlap (but also an interesting difference) between the verbs that allow for this diathesis and the verbs that allow for a reflexive variant [@next c], see [@sec:reflexive-preposition-passive]. Some verbs, like *ärgern* 'to irritate' in [@next] allow for both diatheses, but other verbs only take part in one or the other diathesis.
 
 ::: ex
 a. Du ärgerst mich mit deinen Witzen.
@@ -631,19 +654,28 @@ c. Ich ärgere mich über deine Witze.
 
 **Further Examples**
 
-- Die Späße des Komikers belustigten das Publikum. Der Komiker belustigte das Publikum mit seinen Späßen. 
-- Der Blumenstrauß erfreut den Mann. Ich erfreue den Mann mit einem Blumenstrauß.
-- Deine Aussagen verwirren mich. Ich verwirre dich mit meinen Aussagen.
-- Der Lärm des Zuges ärgert mich. Der Zug ärgert mich mit seinem Lärm.
-- Deine Witze beschäftigen/entspannen mich. Du beschäftigst/entspannst mich mit deinen Witzen.
-- Der Brief des Entführers erschreckt mich. Der Entführer erschreckt mich mit einem Brief.
-- Der Brief beweist/bestätigt/erklärt/rechtfertigt meine Unschuld. Ich beweise/bestätige/erkläre/rechtfertige meine Unschuld mit dem Brief.
+- Die Späße des Komikers belustigten das Publikum. \
+  Der Komiker belustigte das Publikum mit seinen Späßen. 
+- Der Blumenstrauß erfreut den Mann. \
+  Ich erfreue den Mann mit einem Blumenstrauß.
+- Deine Aussagen verwirren mich. \
+  Ich verwirre dich mit meinen Aussagen.
+- Der Lärm des Zuges ärgert mich. \
+  Der Zug ärgert mich mit seinem Lärm.
+- Deine Witze beschäftigen/entspannen mich. \
+  Du beschäftigst/entspannst mich mit deinen Witzen.
+- Der Brief des Entführers erschreckt mich. 
+  Der Entführer erschreckt mich mit einem Brief.
+- Der Brief beweist/bestätigt/erklärt/rechtfertigt meine Unschuld. 
+  Ich beweise/bestätige/erkläre/rechtfertige meine Unschuld mit dem Brief.
 
 **Notes**
 
 For a detailed discussion of the verb *erschrecken* and possible morphophonological differences between the two alternants, see Plank & Lahiri [@plank2015: 29-31].
 
 ### [ NP | –N ] Intransitive fabricative
+
+The verb *drängen* 'to urge' [@next] shows a special diathesis which is a variant of the previous fabricative. In this case, the role expressed with the governed preposition *auf* [@next a,b] is turned into a nominative with a meaning of 'to be urgent' [@next c].
 
 ::: ex
 a. Ich dränge auf eine Änderung.
@@ -656,6 +688,8 @@ c. Die Änderung drängt.
 - *drängen*
 
 ### [ NPD | –ND ] Fabricative+dative
+
+The verb *drohen* 'to threaten' [@next] exhibits a fabricative diathesis with an additional dative argument. The governed preposition *mit* [@next a.b] can be turned into a nominative [@next c].
 
 ::: ex
 a. Er droht mir mit Entlassung.
@@ -671,7 +705,7 @@ c. Die Entlassung droht mir.
 
 ### [ NAL | –NL ] *haben* Anticausative+location {#sec:prepositions-haben-caused-location}
 
-Some verbs allow for both an intransitive stative location [@next a] and caused location [@next b] construction. I analyse these verbs as anticausatives (cf. [@sec:case-haben-anticausative]).
+Some verbs allow for both an intransitive stative location [@next a] and caused location [@next b] construction. I analyse these verbs as anticausatives (cf. [@sec:case-haben-anticausative] for a similar diathesis without an obligatory locational phrase).
 
 ::: ex
 a. Ich hänge den Pullover in den Schrank.
@@ -718,7 +752,7 @@ d. Ich habe den Pullover in den Schrank gehängt.
 
 ### [ NA– | –NP ] Anticausative+preposition addition {#sec:prepositions-anticausative-preposition-addition}
 
-The preposition *auf* is a governed preposition [@next].
+The verb *deuten* [@next] shows a special diathesis in which the accusative is turned into a nominative, but only with an additional obligatory *auf* prepositional phrase [@next a,b]. The preposition *auf* is a governed preposition [@next b,c]. Although clearly related, these two uses of *deuten* are semantically already quite far apart, meaning approximately 'to interpret' [@next a] vs. 'to forebode' [@next b].
 
 ::: ex
 a. Ich deute den Traum. 
@@ -736,7 +770,7 @@ c. Der Traum deutet darauf, dass morgen alles wieder gut sein wird.
 
 ### [ –NL | NAL ] *sein* Causative+location {#sec:prepositions-sein-caused-location}
 
-Though similar to the *haben* causatives (see [@sec:prepositions-haben-caused-location]), these verbs only have the option of a *sein* perfect for the intransitive [@next a,b].
+Though superficially similar to the *haben* anticausatives (see [@sec:prepositions-haben-caused-location]), the verbs in this section are different in that they only have the option of a *sein* perfect for the intransitive [@next a,b]. The transitive causative diathesis takes *haben* in the perfect [@next c].
 
 ::: ex
 a. Der Elefant ist ins Wasser gestürzt.
@@ -744,7 +778,7 @@ b. ^* Der Elefant hat ins Wasser gestürzt.
 c. Ich habe den Elefanten ins Wasser gestürzt.
 :::
 
-This alternation is strongly reminiscent of the *Zustandspassiv* (see [@sec:participles-sein-zustandspassiv]), but there is a crucial difference in that with *stürzen* both the transitive [@next a,b] and the intransitive [@next c,d] can occur in the present tense. This is crucially different from regular transitive verbs like *öffnen* [@nnext] for which the intransitive present is not possible [@nnext d].
+This alternation is strongly reminiscent of the *Zustandspassiv* (see [@sec:participles-sein-zustandspassiv]), but there is a crucial difference in that with *stürzen* 'to plunge' both the transitive [@next a,b] and the intransitive [@next c,d] can occur in the present tense. This is crucially different from regular transitive verbs with a *Zustandspassiv*, like *putzen* 'to clean' [@nnext], for which an intransitive present is not possible [@nnext d].
 
 ::: ex
 a. Ich habe den Elefanten ins Wasser gestürzt.
@@ -754,10 +788,10 @@ d. Der Elefant stürzt ins Wasser.
 :::
 
 ::: ex
-a. Ich habe den Brief geöffnet.
-b. Ich öffne den Brief.
-c. Der Brief ist geöffnet.
-d. ^* Der Brief öffnet.
+a. Ich habe den Tisch geputzt.
+b. Ich putze den Tisch.
+c. Der Tisch ist geputzt.
+d. ^* Der Tisch putzt.
 :::
 
 **Attested Verbs**
@@ -766,10 +800,14 @@ d. ^* Der Brief öffnet.
 
 **Further Examples**
 
-- Ich rücke den Tisch zur Seite. Die Soldaten rücken in die Kaserne.
-- Das hohe Gehalt zieht ihn nach Australien. Er zieht nach Australien.
-- Er hat uns nach Hause gefahren. Wir sind nach Hause gefahren.
-- Der Hund ist durch den Wald gehetzt. Der Hund hat den Hasen durch den Wald gehetzt.
+- Der Hund ist durch den Wald gehetzt. \
+  Der Hund hat den Hasen durch den Wald gehetzt.
+- Ich rücke den Tisch zur Seite. \
+  Die Soldaten rücken in die Kaserne.^[Attested on https://www.dwds.de/wb/rücken, accessed 23 April 2022.]
+- Das hohe Gehalt zieht ihn nach Australien. \
+  Er zieht nach Australien.
+- Er hat uns nach Hause gefahren. \
+  Wir sind nach Hause gefahren.
 
 **Notes**
 
@@ -777,9 +815,11 @@ The alternation with the verb *rücken* 'to move over' and *ziehen* 'to pull' ar
 
 ### [ –NL | NAL ] *Umlaut* Causative+location {#sec:prepositions-umlaut-caused-location}
 
+Vestiges of the old Germanic causative suffix *-jan* can still be found in some verb pairs in contemporary German, as illustrated with the pair *liegen/legen* 'to lie/to lay' [@next]. The verbs in this section obligatorily need a location. Similar causative verb pairs without obligatory location are discussion in [@sec:case-umlaut-causative].
+
 ::: ex
-Der Hund liegt in den Korb.
-Ich lege den Hund in den Korb.
+- Der Hund liegt in dem Korb.
+- Ich lege den Hund in den Korb.
 :::
 
 **Attested Verbs**
@@ -788,7 +828,8 @@ Ich lege den Hund in den Korb.
 
 **Further Examples**
 
-- Das Pferd schwimmt im Fluss. Ich schwemme das Pferd im Fluss.
+- Das Pferd schwimmt im Fluss. \
+  Er schwemmte die Pferde im Fluss.^[Attested on https://www.dwds.de/wb/schwemmen, accessed 23 April 2022.]
 
 ## Diatheses with object demotion {#sec:prepositions-demotion-of-object}
 
@@ -808,7 +849,7 @@ b. Ich schieße auf den Bären.
 c. ^* Ich schieße darauf, dass der Bär kommt.
 :::
 
-There are just a few 'drop'-alternations that are missing, and these missing alternations suggest an interesting generalisation. Missing are the alternations [ NAP | N-P ], [ NPD | N-D ] and (from the previous chapter) [ NAD | N-D ]. These apparently dispreferred alternations suggest that a dative argument has to be dropped before a governed preposition can be dropped, and likewise, a governed preposition has to be dropped before an accusative argument can be dropped, i.e there is a dropping-hierarchy [@next a].
+There are just a few 'drop'-alternations that are missing, and these missing alternations suggest an interesting generalisation. Missing are the alternations ~~[NAP | N-P ]~~, ~~[NPD | N-D]~~ and (from the previous chapter) ~~[NAD | N-D ]~~. These apparently dispreferred alternations suggest that a dative argument has to be dropped before a governed preposition can be dropped, and likewise, a governed preposition has to be dropped before an accusative argument can be dropped, i.e there is a dropping-hierarchy [@next a].
 
 ::: ex
 Drop hierarchy: dative > preposition > accusative
@@ -820,35 +861,37 @@ A similar generalisation can be made for antipassives. If a verb has various cas
 Antipassive hierarchy: dative/genitive > accusative
 :::
 
-Some verbs allow for both a dative and an accusative antipassive. There appears to be recurrent restrictions on the co-occurrence of accusative and dative prepositional alternations, with attested patterns as shown for *schießen* 'to shoot' in [@next a-f] and *schreiben* 'to write' [@next a-f]. The generalisation seem to be (i) that the accusative cannot be demoted into a preposition when there is still a dative around and (ii) dative and accusative can only be both demoted to a preposition if one of the prepositions is *für* (this is a further indication that the *für* diatheses are better analysed as promotions, see [@sec:prepositions-benefactive-dative]).
+Some verbs allow for both a dative and an accusative antipassive. There appears to be recurrent restrictions on the co-occurrence of accusative and dative prepositional alternations, with attested patterns as shown for *schießen* 'to shoot' in [@next a-f] and *schreiben* 'to write' [@next a-f]. The generalisation seems to be (i) that the accusative cannot be demoted into a preposition when there is still a dative around and (ii) dative and accusative can only be both demoted to a preposition if one of the prepositions is *für* (this is a further indication that the *für*-to-dative diatheses are better analysed as promotions, see [@sec:prepositions-benefactive-dative]).
 
 ::: ex
-a. Ich schieße dir den Bären. [ NAD]
-b. Ich schieße für dich. [ N-P]
-c. Ich schieße auf den Bären. [ NP- ]
-d. Ich schieße den Bären für dich. [ NAP]
-e. ^* Ich schieße dir auf den Bären. [ NPD]
-f. Ich schieße für dich auf den Bären. [ NPP]
+a. Ich schieße dir den Bären. ~~[NAD]~~
+b. Ich schieße für dich. ~~[N-P]~~
+c. Ich schieße auf den Bären. ~~[NP-]~~
+d. Ich schieße den Bären für dich. ~~[NAP]~~
+e. ^* Ich schieße dir auf den Bären. ~~[NPD]~~
+f. Ich schieße für dich auf den Bären. ~~[NPP]~~
 :::
 
 ::: ex
-a. Ich schreibe dir den Brief. [ NAD]
-b. Ich schreibe an dich. [ N-P]
-c. Ich schreibe an den Brief. [ NP- ]
-d. Ich schreibe den Brief an dich. [ NAP]
-e. ^* Ich schreibe dir an dem Brief. [ NPD]
-f. ^* Ich schreibe an dich an dem Brief. [ NPP]
+a. Ich schreibe dir den Brief. ~~[NAD]~~
+b. Ich schreibe an dich. ~~[N-P]~~
+c. Ich schreibe an dem Brief. ~~[NP-]~~
+d. Ich schreibe den Brief an dich. ~~[NAP]~~
+e. ^* Ich schreibe dir an dem Brief. ~~[NPD]~~
+f. ^* Ich schreibe an dich an dem Brief. ~~[NPP]~~
 :::
 
 ### --- [ PBJ > Ø ] --- {.unnumbered}
 
 ### [ NP | N– ] Governed preposition drop {#sec:prepositions-governed-drop}
 
-Governed prepositions that can be dropped are frequent. There are even various verbs that allow for different governed prepositions [@next a,b].
+Governed prepositions that can be dropped are frequent. There are even various verbs that allow for different governed prepositions, like *sprechen über* and *sprechen von* in [@next a,b].
 
 ::: ex
-a. Die Leute sprechen über die Wahl. Die Leute sprechen darüber, dass es einen neuen Präsidenten gibt.
-b. Der Reporter spricht von einem historischen Ereignis. Der Reporter spricht davon, dass es ein historisches Ereignis ist.
+a. Die Leute sprechen über die Wahl. \
+   Die Leute sprechen darüber, dass es einen neuen Präsidenten gibt.
+b. Der Reporter spricht von einem historischen Ereignis. \
+   Der Reporter spricht davon, dass es ein historisches Ereignis ist.
 :::
 
 **Attested Verbs**
@@ -863,8 +906,8 @@ b. Der Reporter spricht von einem historischen Ereignis. Der Reporter spricht da
 - *auf*   : (Object of emotional reaction) *schimpfen*
 - *nach*  : (Object of smell/taste) *duften, riechen, stinken, schnüffeln, schmecken*
 - *vor*   : (Object of emotional reaction) *platzen, rasen (Emotion), schreien*
-- *an*:   : *arbeiten, denken, klopfen, scheitern, sterben, teilnehmen, zweifeln*
-- *um*:   : *streiten*
+- *an*    : *arbeiten, denken, klopfen, scheitern, sterben, teilnehmen, zweifeln*
+- *um*    : *streiten*
 
 **Further Examples**
 
@@ -887,7 +930,7 @@ b. Der Reporter spricht von einem historischen Ereignis. Der Reporter spricht da
 - Ich streite um meine Freiheit.
 - Ich klopfe an der Tür. (vgl. Ich klopfe den Takt)
 - Ich rase vor Begeisterung. Mein Kopf rast.
-- Ich platze vor Neugier. Der Knoten platzt.
+- Ich platze vor Neugier. Der Ballon platzt.
 
 ### [ NAP | NA– ] Governed preposition drop+accusative
 
@@ -959,14 +1002,14 @@ c. Ich rate zum Verkauf.
 - *über* : *berichten, erzählen*
 - *von*  : *berichten, erzählen*
 
-** Examples**
+**Further Examples**
 
 - Ich berichte/erzähle (dir) über die Angelegenheit.
 - Ich berichte/erzähle (dir) von der Versammlung.
 
 ### [ NDP | N– – ] Dative drop+governed preposition drop
 
-Some verbs allow for both the dative and the preposition to be dropped, though mostly not both at the same time [@next]. Also note that the dative appears to be always the possessor of the prepositional phrase, so these diatheses might alternatively be analysed as a stack of two different diatheses, viz. a possessor raising [ NP–|NPg|NPD ] and a preposition drop [ NPD|N–D ].
+Some verbs allow for both the dative and the preposition to be dropped, though mostly not both at the same time [@next]. Also note that the dative appears to be always the possessor of the referent in the prepositional phrase, so these drops might alternatively be analysed as a stack of two different diatheses, viz. a possessor raising ~~[NP– | NPg | NPD]~~ and a preposition drop ~~[NPD | N–D]~~.
 
 ::: ex
 a. Ich gratuliere dir zu deinem Geburtstag.
@@ -993,12 +1036,15 @@ d. ^^?^ Ich gratuliere.
 
 ### [ NA | Np ] Accusative antipassive {#sec:prepositions-accusative-antipassive}
 
-A commonly occurring alternation is that an accusative object can be reformulated as a prepositional phrase. In such alternations, the construction with the prepositional phrase typically indicates a less transitive situation, e.g. the object is less affected [@next a] or the action only partially completed [@next b]. Note that this alternation does not work in the other direction, i.e. when a verb occurs with a prepositional phrase, then it is mostly not the case that it can be used with the same object as an accusative [@next c].
+A commonly occurring diathesis in German is an ~~antipassive~~, in which an accusative object can be reformulated as a prepositional phrase. In such alternations, the construction with the prepositional phrase typically indicates a less transitive situation, e.g. one in which the object is less affected [@next a] or the action only partially completed [@next b]. Note that this alternation does not work in the other direction, i.e. when a verb occurs with a prepositional phrase, then it is mostly not the case that it can be used with the same referent as an accusative [@next c].
 
 ::: ex
-a. Ich schieße den Bären. Ich schieße auf den Bären.
-b. Ich baue ein Haus. Ich baue an einem Haus.
-c. Ich sitze auf dem Stuhl. ^* Ich sitze den Stuhl.
+a. Ich schieße den Bären. \
+   Ich schieße auf den Bären.
+b. Ich baue ein Haus. \
+   Ich baue an einem Haus.
+c. Ich sitze auf dem Stuhl. \
+   \* Ich sitze den Stuhl.
 :::
 
 There appear to be only a small selection of prepositions that can be used in such alternations, which will be discussed in turn in subsequent subsections.
@@ -1010,141 +1056,200 @@ There appear to be only a small selection of prepositions that can be used in su
 - *mit*  : Object as instrument or reciprocal activity
 - *nach* : Less affected object of action in the direction of object
 - *von*  : Partial usage of object
-- *über* : Object of control, communication, cognitive content
+- *über* : Object of control, communication, or cognitive content
 - *zu*   : Direction
 
-It is important to realise that many verbs allow for more than one of these alternations, depending on the reading of the verb/object combination [@next a,b]. With the same verb, there might even be combinations that do not allow for any prepositional alternation [@next c-e].
+It is important to realise that many verbs allow for more than one of these alternations, depending on the reading of the verb/object combination, illustrated here with the verb *spielen*, 'to play' [@next a,b]. With the same verb, there might even be readings that do not allow for any prepositional alternation [@next c-e].
 
 ::: ex
-a. Er spielt die Geige. Er spielt auf der Geige.
-b. Er spielt den letzen Akt. Er spielt in dem letzen Akt.
+a. Er spielt die Geige. \
+   Er spielt auf der Geige.
+b. Er spielt den letzen Akt. \
+   Er spielt in dem letzen Akt.
 c. Er spielt Billard.
 d. Er spielt einen Walzer.
 e. Er spielt den Narren.
 :::
 
-Some verbs additionally take a reflexive pronoun with an antipassive alternation (see [@sec:reflexive-accusative-antipassive]). It is an open question, why some verbs need such an additional reflexive pronoun.
+Some verbs, like *beklagen* 'to complain' [@next], additionally take a reflexive pronoun with an antipassive alternation (see [@sec:reflexive-accusative-antipassive]). It is an open question why some verbs need such an additional reflexive pronoun in an antipassive diathesis.
+
+::: ex
+a. Ich beklage den Lärm.
+b. Ich beklage mich über den Lärm.
+:::
+
+An antipassive diathesis has to be distinguished from differential object marking. With differential object marking (~~DOM~~) the marking of the object is determined by the object itself, typically by animacy. For example, the German verb *beißen* 'to bite' takes an accusative object with animate objects [@next a], while inanimate object need a prepositional phrase [@next b]. Similar effect are attested with *zwicken* 'to pinch', *schlagen* 'to hit', *treten* 'to kick' and possibly *kratzen* 'to scratch' [@fleischhauer2018]. It seems to be a promising avenue of research to explain differential object marking as the result of a grammaticalised antipassive diathesis.
+
+::: ex
+- Der Hund biss den Jungen. \
+  ^?^ Der Hund biss in den Jungen.
+- Der Hund biss in den Knochen. \
+  \* Der Hund biss den Knochen.
+:::
 
 #### *an* Antipassive
 
-Accusative objects that alternate with an *an* prepositional phrase indicate partially completed actions [@next a] and is also typically used when there is bodily contact to the object [@next b].
+Accusative objects that alternate with an *an* prepositional phrase indicate partially completed actions, like with *bauen an* 'to be busy building' [@next a] and is also typically used when there is bodily contact to the object, like with *schlecken an* 'to lick' [@next b].
 
 ::: ex
-a. Ich baue ein Haus. Ich baue an einem Haus.
-b. Ich schlecke mein Eis. Ich schlecke an meinem Eis.
+a. Ich baue ein Haus. \
+   Ich baue an einem Haus.
+b. Ich schlecke mein Eis. \
+   Ich schlecke an meinem Eis.
 :::
 
 **Attested Verbs**
 
-- Bodily contact: *fühlen, knabbern, kratzen, lutschen, riechen, saugen, schnüffeln, schlecken, schlürfen, schnuppern, stoßen, streicheln, treten, üben, ziehen, zupfen*
+- Bodily contact: *fühlen, knabbern, kratzen, lutschen, riechen, saugen, schnüffeln, schlecken, schlürfen, schnuppern, stoßen, üben, ziehen, zupfen*
 - Partial object construction: *basteln, bauen, graben, malen, nähen, stricken, schreiben*
 - Gain/Loss: *gewinnen, verdienen, verlieren*
 
 **Further Examples**
 
-- Ich knabbere meinen Keks. Ich knabbere an meinem Keks.
-- Ich schlürfe meinen Tee. Ich schlürfe an meinem Tee.
-- Ich fühle deinen heißen Kopf. Ich fühle an deinem heißen Kopf.
-- Ich rieche die Blume. Ich rieche an der Blume.
-- Ich kratze meinen Arm. Ich kratze an meinem Arm.
-- Ich zupfe die Saite. Ich zupfe an einer Saite
-- Ich male ein Bild. Ich male an einem Bild.
-- Ich schreibe einen Roman. Ich schreibe an einem Roman.
-- Ich grabe ein Loch. Ich grabe an einem Loch.
-- Wir schnuppern den guten Bratenduft. Der Hund schnuppert an den Abfällen.
+- Ich knabbere meinen Keks. \
+  Ich knabbere an meinem Keks.
+- Ich schlürfe meinen Tee. \
+  Ich schlürfe an meinem Tee.
+- Ich fühle deinen heißen Kopf. \
+  Ich fühle an deinem heißen Kopf.
+- Ich rieche die Blume. \
+  Ich rieche an der Blume.
+- Ich zupfe die Saite. \
+  Ich zupfe an einer Saite
+- Ich male ein Bild. \
+  Ich male an einem Bild.
+- Ich schreibe einen Roman. \
+  Ich schreibe an einem Roman.
+- Ich grabe ein Loch. \
+  Ich grabe an einem Loch.
+- Wir schnuppern den guten Bratenduft. \
+  Der Hund schnuppert an den Abfällen.
 
 **Notes**
 
-For the verb *verdienen* 'to earn' it is unclear whether these two uses should be categorised as different meanings [@next a,b].
+The verb *kratzen* 'to scratch' appears to loose the possibility to be used with an accusative inanimate object. Examples with an accusative like [@next a] are only attested in older German texts and sound strange in current German. It sounds much better with a dative possessor [@next b], see [@sec:case-possessor-accusative-to-dative]. With animate objects an accusative seems to be still possible [@next c], so this verb appears to be developing  in the direction of showing differential object marking. With inanimate objects a prepositional phrase with *an* is preferred [@next d].
+
+::: ex
+- Er kratzte den Kopf.^[~~DWDS~~: Hauptmann, Gerhart: Der Narr in Christo Emanuel Quint, Berlin: Aufbau-Verl. 1962(1910), S. 318.]
+- Ich kratze mir den Kopf.
+- Die Katze kratzt mich.
+- Die Katze kratzt an der Tür.
+:::
+
+For the verb *verdienen* 'to earn' it is unclear whether these two uses should maybe better be categorised as different meanings [@next a,b].
 
 ::: ex
 a. Er verdient den Nobelpreis.
 b. Er verdient an dem Geschäft
 :::
 
-Note the absence of a determiner in the following cases:
+Note the absence of a determiner in the following examples [@next].
 
-- Ich gewinne Sicherheit. Ich gewinne an Sicherheit.
-- Wir verlieren Höhe. Wir verlieren an Höhe.
+::: ex
+- Ich gewinne Sicherheit. \
+  Ich gewinne an Sicherheit.
+- Wir verlieren Höhe. \
+  Wir verlieren an Höhe.
+:::
 
 #### *auf* Antipassive
 
-Accusative objects that alternate with an *auf* prepositional phrase indicate partially affected objects, either with actions on top of an object [@next a] or with a finished action in the direction of an object [@next b]. Also the playing of musical instruments [@next c] show this alternation.
+Accusative objects that alternate with an *auf* prepositional phrase indicate partially affected objects, either with actions on top of an object, like with *reiten* 'to ride' [@next a], or with a finished action in the direction of an object, like with *schießen* 'to shoot' [@next b]. Also verbs denoting the playing of musical instruments, like *blasen* 'to blow' [@next c], show this alternation.
 
 ::: ex
-a. Er reitet das Pferd. Er reitet auf dem Pferd.
-b. Ich schieße den Bären. Ich schieße auf den Bären.
-c. Ich blase die Trompete. Ich blase auf der Trompete.
+a. Er reitet das Pferd. \
+   Er reitet auf dem Pferd.
+b. Ich schieße den Bären. \
+   Ich schieße auf den Bären.
+c. Ich blase die Trompete. \
+   Ich blase auf der Trompete.
 :::
 
 **Attested Verbs**
 
 - Action on top of Object: *reiten*
-- Contact: *jagen, kauen, küssen, schießen, treffen (schlagen), treten*
+- Contact: *jagen, kauen, schießen, treten*
 - Playing musical instruments: *blasen, schlagen, spielen, üben*
 - Personal interaction: *hören, sprechen, treffen (begegnen)*
 
 **Further Examples**
 
-- Ich küsse deine Wange. Ich küsse auf deine Wange.
-- Ich treffe das Tor. Ich treffe auf das Tor.
-- Ich schlage die Trommel. Ich schlage auf die Trommel.
-- Ich spiele Klavier. Ich spiele auf dem Klavier.
-- Ich spreche Englisch. Ich spreche auf Englisch.
-- Ich kaue mein Brot. Ich kaue auf meinem Brot.
-- Ich treffe Anna. Ich treffe auf Anna.
+- Ich schlage die Trommel. \
+  Ich schlage auf die Trommel.
+- Ich spiele Klavier. \
+  Ich spiele auf dem Klavier.
+- Ich kaue mein Brot. \
+  Ich kaue auf meinem Brot.
+- Ich treffe Anna. \
+  Ich treffe auf Anna.
 
 **Notes**
 
-The verbs *hören* [@next a,b] and *achten* [@next c,d] show considerable semantic shift in this alternation.
+The following verbs show considerable semantic shift in this alternation: *hören* 'to hear' vs. 'to obey' [@next a], *achten* 'to respect' vs. 'to look after' [@next b] and *sprechen* 'be able to speak a foreign language' vs. 'to speak in a foreign language' [@next c].
 
 ::: ex
-a. Ich habe sie gehört.
-b. Ich habe auf sie gehört.
-c. Ich achte dich.
-d. Ich achte auf dich.
+a. Ich habe sie gehört. \
+   Ich habe auf sie gehört.
+b. Ich achte dich. \
+   Ich achte auf dich.
+c  Ich spreche Englisch. \
+   Ich spreche auf Englisch.
 :::
 
 #### *aus* Antipassive
 
-This alternation seems to be typical for objects of reading.
+This alternation seems to be typical for objects of reading, like *vorlesen* 'to read aloud' [@next].
+
+::: ex
+- Ich lese das Buch vor. 
+- Ich lese aus dem Buch vor.
+:::
 
 **Attested Verbs**
 
 - *lesen, vorlesen, zitieren*
 
-**Further Examples**
-
-- Ich lese das Buch vor. Ich lese aus dem Buch vor.
-
 #### *in* Antipassive {#sec:prepositions-in-antipassive}
 
-Accusative objects that alternate with an *in* prepositional phrase seem to be rather uncommon. It only occurs when the action includes an aspect of occurring inside of an object. The prepositional alternate indicates partial completion of the action, very similarly to the *an* Antipassive.
+Accusative objects that alternate with an *in* prepositional phrase seem to be rather uncommon. It only occurs when the action includes an aspect of occurring inside of an object. The prepositional alternate indicates partial completion of the action, like with *lesen* 'to read' [@next].
+
+::: ex
+- Ich lese das Buch.
+- Ich lese in dem Buch.
+:::
 
 **Attested Verbs**
 
-- *beißen, bestehen (Erfolg haben), entscheiden, lesen, gewinnen, korrigieren, schneiden, spielen, stürmen, zwicken*
+- *bestehen (Erfolg haben), entscheiden, lesen, gewinnen, korrigieren, schneiden, spielen, stürmen (wild bewegen), treffen (Ziel)*
 
 **Further Examples**
 
-- Der Hund beißt sein Bein. Der Hund beißt in sein Bein.
-- Ich bestehe die Prüfung. Ich bestehe in der Prüfung.
-- Ich lese das Buch. Ich lese in dem Buch.
-- Ich gewinne das Spiel. Ich gewinne in dem Spiel.
-- Er spielt den letzten Akt. Er spielt in dem letzten Akt.
-- Ich korrigiere die Arbeit. Ich korrigiere in der Arbeit.
-- Ich entscheide den Fall. Ich entscheide in dem Fall.
-- Ich schneide meinen Finger. Ich schneide in meinen Finger.
-- Ich zwicke deinen Arm. Ich zwicke in deinen Arm.
-- Die Soldaten stürmen das Kastell. Sie stürmen in den Saal. (different meaning from the weather verb *stürmen* 'to storm')
+- Ich bestehe die Prüfung. \
+  Ich bestehe in der Prüfung.
+- Ich gewinne das Spiel. \
+  Ich gewinne in dem Spiel.
+- Ich treffe das Tor. \
+  Ich treffe in das Tor.
+- Er spielt den letzten Akt. \
+  Er spielt in dem letzten Akt.
+- Ich korrigiere die Arbeit. \
+  Ich korrigiere in der Arbeit.
+- Ich entscheide den Fall. \
+  Ich entscheide in dem Fall.
+- Ich schneide meinen Finger. \
+  Ich schneide in meinen Finger.
+- Die Soldaten stürmen das Kastell. \
+  Sie stürmen in den Saal.
 
 #### *mit* Instrumental antipassive {#sec:prepositions-mit-antipassive}
 
-Accusative objects that alternate with a *mit* prepositional phrase indicate partially affected objects, typically those that can be construed as an instrument [@next a] or an instrument of transport [@next b].
+Accusative objects that alternate with a *mit* prepositional phrase indicate partially affected objects, typically those that can be construed as an instrument, like with *schießen* 'to shoot' [@next a], or an instrument of transport, like with *fliegen* 'to fly' [@next b].
 
 ::: ex
-a. Ich schieße eine Kugel. Ich schieße mit einer Kugel.
-b. Ich fliege das Flugzeug. Ich fliege mit dem Flugzeug.
+a. Ich schieße eine Kugel. \
+   Ich schieße mit einer Kugel.
+b. Ich fliege das Flugzeug. \
+   Ich fliege mit dem Flugzeug.
 :::
 
 **Attested Verbs**
@@ -1154,33 +1259,39 @@ b. Ich fliege das Flugzeug. Ich fliege mit dem Flugzeug.
 
 **Further Examples**
 
-- Ich werfe den Dreck. Ich werfe mit Dreck.
-- Ich handele Aktien. Ich handele mit Aktien.
-- Ich rangiere den Wagen. Ich rangiere mit dem Wagen.
-- Er segelt eine Jolle. Er segelt mit einer Jolle
-- Er fährt einen Laster. Er fährt mit einem Laster.
+- Ich werfe den Dreck. \
+  Ich werfe mit Dreck.
+- Ich handele Aktien. \
+  Ich handele mit Aktien.
+- Ich rangiere den Wagen. \
+  Ich rangiere mit dem Wagen.
+- Er segelt eine Jolle. \
+  Er segelt mit einer Jolle
+- Er fährt einen Laster. \
+  Er fährt mit seinem Laster in die Berge.
 
 #### *mit* Reciprocal antipassive {#sec:prepositions-mit-reciprocal-antipassive}
 
-A very small group of verbs show an antipassive in which the *mit* prepositional phrase is a reciprocal role. This role can be identified by the possibility to add *miteinander* (cf. [@sec:prepositions-bare-reciprocal] for verbs with a similar role, but without the antipassive alternation).
+A very small group of verbs show an antipassive in which the *mit* prepositional phrase is a reciprocal role, like with *sprechen* 'to speak' [@next]. This role can be identified by the possibility to add *miteinander* (cf. [@sec:prepositions-bare-reciprocal] for verbs with a similar role, but without the antipassive alternation).
 
 ::: ex
-a. Ich heirate meinen Freund.
-b. Ich heirate mit meinem Freund.
-c. Ich und mein Freund heiraten miteinander.
+- Ich spreche den Abteilungsleiter. 
+- Ich spreche mit dem Abteilungsleiter.
+- Der Abteilungsleiter und ich sprechen miteinander.
 :::
 
 **Attested Verbs**
 
-- *heiraten, sprechen*
-
-**Further Examples**
-
-- Ich spreche den Abteilungsleiter. Ich spreche mit dem Abteilungsleiter.
+- *sprechen*
 
 #### *nach* Antipassive
 
-Accusative objects that alternate with a *nach* prepositional phrase indicate an uncompleted action in the direction of an object [cf. @proost2009].
+Accusative objects that alternate with a *nach* prepositional phrase indicate an uncompleted purposeful action in the direction of an object [cf. @proost2009], like with *suchen* 'to search' [@next].
+
+::: ex
+- Ich suche den Ring.
+- Ich suche nach dem Ring.
+:::
 
 **Attested Verbs**
 
@@ -1189,40 +1300,60 @@ Accusative objects that alternate with a *nach* prepositional phrase indicate an
 
 **Further Examples**
 
-- Ich sehe dich. Ich sehe nach dir.
-- Ich suche den Ring. Ich suche nach dem Ring.
-- Ich trete den Ball. Ich trete nach dem Ball.
-- Ich rufe dich. Ich rufe nach dir.
-- Er fühlt seine Brieftasche. Er fühlt nach seiner Brieftasche.
+- Ich sehe dich. \
+  Ich sehe nach dir.
+- Ich trete den Ball. \
+  Ich trete nach dem Ball.
+- Ich rufe dich. \
+  Ich rufe nach dir.
+- Er fühlt seine Brieftasche. \
+  Er fühlt nach seiner Brieftasche.
 
 #### *von* Antipassive
 
-Accusative objects that alternate with an *von* prepositional phrase occur typically with consumption verbs, indicating that the consumption is only partially completed [@next a]. Also actions that designate a transaction of an object that can be a part of something [@next b]. In some contexts the verbs *wissen* 'to know' [@next c] and *hören* 'to hear' [@next d] also show this alternation.
+Accusative objects that alternate with a *von* prepositional phrase occur typically with consumption verbs, indicating that the consumption is only partially completed, like with *essen* 'to eat' [@next a]. Also actions that designate a transaction of an (part of an) object, like with *stehlen* 'to steal' [@next b]. In some contexts the verbs *wissen* 'to know' [@next c] and *hören* 'to hear' [@next d] also show this alternation.
 
 ::: ex
-a. Ich esse einen Apfel. Ich esse von dem Apfel.
-b. Ich stehle die Blumen. Ich stehle von den Blumen.
-c. Ich weiß deine Telefonnummer. Ich weiß von dem Schmuck, der gestohlen wurde.
-d. Ich höre den Kampf in der Ferne. Ich höre von dem Kampf in den Nachrichten.
+a. Ich esse einen Apfel. \
+   Ich esse von dem Apfel.
+b. Ich stehle die Blumen. \
+   Ich stehle von den Blumen.
+c. Ich weiß deine Telefonnummer. \
+   Ich weiß von dem Schmuck, der gestohlen wurde.
+d. Ich höre den Kampf in der Ferne. \
+   Ich höre von dem Kampf in den Nachrichten.
 :::
 
 **Attested Verbs**
 
 - Eat a part of: *essen, fressen, naschen, kosten, knabbern, probieren, trinken, versuchen*
 - Know a part of: *hören, verstehen, wissen*
-- Hand over a part of Accusative: *anbieten, aushändigen, besorgen, bringen, geben, liefern, schicken, schenken, senden, überreichen, überweisen, verkaufen*
+- Hand over a part of: *anbieten, aushändigen, besorgen, bringen, geben, liefern, schicken, schenken, senden, überreichen, überweisen, verkaufen*
 - Take away a part of: *abknöpfen, abnehmen, ausspannen, enteignen, entfernen, entlehnen, entleihen, entnehmen, entwenden, entziehen, klauen, nehmen, rauben, stehlen, wegnehmen*
 
 **Further Examples**
 
-- Ich nasche ein par Beeren. Ich nasche von den Beeren.
-- Ich koste den Wein. Ich koste von dem Wein.
-- Ich trinke den Wein. Ich trinke von dem Wein.
-- Ich kaufe Trauben. Ich kaufe von den Trauben.
-- Ich verstehe Chemie gut. Ich verstehe viel von Chemie.
-- Er probiert/versucht die Torte. Er probiert/versucht von der Torte.
+- Ich nasche ein paar Beeren. \
+  Ich nasche von den Beeren.
+- Ich koste den Wein. \
+  Ich koste von dem Wein.
+- Ich trinke den Wein. \
+  Ich trinke von dem Wein.
+- Ich kaufe Trauben. \
+  Ich kaufe von den Trauben.
+- Ich verstehe Chemie gut. \
+  Ich verstehe viel von Chemie.
+- Er probiert/versucht die Torte. \
+  Er probiert/versucht von der Torte.
 
 #### *über* Antipassive
+
+The *über* antipassive is used with some verbs of control, like *bestimmen* 'to decide' [@next].
+
+::: ex
+- Ich bestimme die Reihenfolge.
+- Ich bestimme über die Reihenfolge.
+:::
 
 **Attested Verbs**
 
@@ -1232,10 +1363,28 @@ d. Ich höre den Kampf in der Ferne. Ich höre von dem Kampf in den Nachrichten.
 
 **Further Examples**
 
-- Ich verfüge einen Einreisestopp. Ich verfüge über viel Geld.
-- Ich bestimme die Reihenfolge. Ich bestimme über die Reihenfolge.
+- Wir diskutieren das Vorschlag. \
+  Wir diskutieren über den Vorschlag.
+- Diese Schlacht entschied den Ausgang des Krieges. \
+  Dieser Augenblick entschied über das ganze Leben^[Attested at https://www.dwds.de/wb/entscheiden, accessed 27 April 2022.]
+
+**Notes**
+
+The verb *verfügen* has two rather different meanings in the antipassive diathesis, viz. 'to mandate' with an accusative [@next a] and 'to have control over' with a prepositional phrase [@next b]
+
+::: ex
+- Ich verfüge einen Einreisestopp.
+- Ich verfüge über viel Geld.
+:::
 
 #### *zu* Antipassive
+
+The antipassive variant with *zu* is somewhat troublesome as all examples known to me are quite idiosyncratic, like *finden* 'to find' [@next]. Maybe it is better to consider these diatheses as separate lexicalised constructions. However, I think the examples listed here are interesting enough to consider this as a possible diathesis.
+
+::: ex
+- Sie findet ihn.
+- Sie konnte blind und taub sein, aber sie fand zu ihm.^[~~DWDS~~: Kopetzky, Steffen: Grand Tour, Frankfurt am Main: Eichborn 2002, S. 239.]
+:::
 
 **Attested Verbs**
 
@@ -1243,23 +1392,24 @@ d. Ich höre den Kampf in der Ferne. Ich höre von dem Kampf in den Nachrichten.
 
 **Further Examples**
 
-- Ich halte dich. Ich halte zu dir.
-- Ich werde später Bäcker. Ich werde noch zum Bäcker.
-- Ich finde mein Bett. Ich finde zu meinem Bett.
+- Ich halte dich. \
+  Ich halte zu dir.
+- Ich werde später Bäcker. \
+  Ich werde noch zum Bäcker.
 
 ### [ NLA | NLp ] Accusative antipassive+location
 
-With some verbs, like *drücken* 'to press' [@next] a locative prepositional phrase is obligatorily present. A similar situation occurs with *stoßen* 'to jab' [@nnext].
+With some verbs, like *drücken* 'to press' [@next a], a locative prepositional phrase is obligatorily present. The accusative instrument *Finger* 'finger' can be changed to an optional *mit* prepositional phrase [@next b], but the location cannot be removed [@next c]. A similar situation occurs with *stoßen* 'to jab' [@nnext], though the *mit* instrument cannot (easily) be removed in this case either.
 
 ::: ex
-a. Er drückt auf den Knopf (mit einem Finger).
-b. Er drückt den Finger auf den Knopf.
+a. Er drückt seinen Finger auf den Knopf.
+b. Er drückt auf den Knopf (mit seinem Finger).
 c. ^* Er drückt den Finger.
 :::
 
 ::: ex
-a. Er stößt in die Wunde (mit dem Messer).
 b. Er stößt das Messer in die Wunde.
+a. Er stößt in die Wunde mit dem Messer.
 c. ^* Er stößt das Messer. 
 :::
 
@@ -1271,7 +1421,12 @@ c. ^* Er stößt das Messer.
 
 ### [ ND | Np ] Dative antipassive {#sec:prepositions-dative-antipassive}
 
-It seems to be somewhat unusual for verbs with dative – but no accusative – to allow for a prepositional expression of the dative. There are just a handful of cases with the following prepositions. The meaning of these prepositional phrases seem to be very close to the locational meaning (e.g. *aus* is used for arguments moving out of something, etc.).
+It seems to be somewhat unusual for verbs with dative but without accusative to allow for a prepositional expression of the dative, like with *entfliehen* 'to flee' [@next]. There are just a handful of cases with the prepositions as listed below. The meaning of these prepositional phrases seem to be very close to the locational meaning (e.g. *aus* is used for arguments moving out of something, etc.). Note that such a dative antipassive is much more common with verbs that also have an accusative argument (see [@sec:prepositions-dative-antipassive-accusative]).
+
+::: ex
+- Ich entfliehe dem Gefängnis.
+- Ich entfliehe aus dem Gefängnis.
+:::
 
 **Attested Verbs**
 
@@ -1284,22 +1439,31 @@ It seems to be somewhat unusual for verbs with dative – but no accusative – 
 
 **Further Examples**
 
-- Ich entfliehe dem Gefängnis. Ich entfliehe aus dem Gefängnis.
-- Die Demonstranten wichen der Polizei. Sie wichen vor der Polizei.
-- Der Hut passt ihm. Der Hut passt zu ihm.
-- Unsere Arbeit dient dem Fortschritt. Unsere Arbeit dient zur Meinungsbildung.
-- Ich gebiete dir. Ich gebiete über dich.
-- Er bedeutet mir viel. Er bedeutet viel für mich.
-- Das Examen steht mir bevor. Das Examen steht für mich bevor.
-- Es blieben dem Bergsteiger noch zwei Schokoriegel. Da sie zu spät kamen, blieben für sie nur die hinteren Bänke
-- Ich folge dem Einbrecher. Sonnenschein folgt auf Regen.
-- Ich vertraue ihm. Ich vertraue auf seine Ehrlichkeit.
-- Die Bürger flohen dem Krieg. Sie flohen vor dem Krieg.
+- Die Demonstranten wichen der Polizei. \
+  Und er wich vor keiner Drohung, keiner Gewalt.^[~~DWDS~~:  Die Zeit, 15.05.1981, Nr. 21.]
+- Der Hut passt ihm. \
+  Der Hut passt zu ihm.
+- Unsere Arbeit dient dem Fortschritt. \
+  Unsere Arbeit dient zur Meinungsbildung.
+- Ich gebiete dir. \
+  Ich gebiete über dich.
+- Er bedeutet mir viel. \
+  Er bedeutet viel für mich.
+- Das Examen steht mir bevor. \
+  Das Examen steht für mich bevor.
+- Es blieben dem Bergsteiger noch zwei Schokoriegel. \
+  Da sie zu spät kamen, blieben für sie nur die hinteren Bänke
+- Ich folge dem Einbrecher. \
+  Sonnenschein folgt auf Regen.
+- Ich vertraue ihm. \
+  Ich vertraue auf seine Ehrlichkeit.
+- Die Bürger flohen dem Krieg. \
+  Sie flohen vor dem Krieg.
 - Der schnellfüßige Käfer ist lichtscheu und flieht dem Geräusch.^[~~DWDS~~: Die Landfrau, 12.09.1925]
 
 ### [ NAD | NAp ] Dative antipassive+accusative {#sec:prepositions-dative-antipassive-accusative}
 
-With an additional accusative argument it is widespread for dative arguments to have an alternative expression in the form of a prepositional phrase. However, it is much more difficult to characterise the difference between two such alternative expressions (cf. [@devaere2018] for an investigation for the verb *geben* and the large literature on the English dative alternation). There are only a few monosyllabic prepositions that can be used for this alternation.
+With an additional accusative argument it is widespread for dative arguments to have an alternative expression in the form of a prepositional phrase. However, it is rather difficult to characterise the semantic difference between two such alternating expressions (cf. [@devaere2018] for an investigation for the verb *geben* and the large literature on the English dative alternation). There are only a few monosyllabic prepositions that can be used for this alternation:
 
 - *an*  : Moving towards
 - *von* : Removing from
@@ -1308,49 +1472,65 @@ With an additional accusative argument it is widespread for dative arguments to 
 
 #### *an* Ditransitive dative alternation
 
-The replacement of a dative with an *an* prepositional phrase is a common alternation (cf. Adler 2011). For a detailed analysis of this alternation with the verb *geben*, see De Vaere et al. [-@devaere2018] In all cases there is some kind of giving of the accusative object to the dative object implied.
+The replacement of a dative with an *an* prepositional phrase is a common alternation (cf. Adler 2011). For a detailed analysis of this alternation with the verb *geben*, see De Vaere et al. [-@devaere2018]. In all cases there is some kind of giving of the accusative object to the dative object implied.
 
 **Attested Verbs**
 
-- Giving object to dative: *abgeben, abtreten, anbieten, anvertrauen, aushändigen, borgen, geben, leihen, liefern, schicken, schenken, senden, spenden, übergeben, überreichen, überweisen, vergeben, vererben, verkaufen, vermachen, vermieten, zeigen*
+- Giving object to dative: *abgeben, abtreten, anbieten, anvertrauen, aushändigen, borgen, geben, leihen, liefern, schicken, schenken, senden, spenden, übergeben, überreichen, überweisen, vergeben, vererben, verkaufen, vermachen, vermieten*
 - Giving message to dative: *berichten, erklären, erteilen, faxen, mailen, schreiben, vorlegen, vorstellen*
-- Various: *anpassen*
+- Others: *anpassen*
 
 **Further Examples**
 
-- Er berichtet dem Vorstand alles. Er berichtet alles an den Vorstand.
-- Ich schicke meiner Mutter Blumen. Ich schicke Blumen an meine Mutter.
-- Ich schreibe dir einen Brief. Ich schreibe einen Brief an dich.
-- Er verkaufte dem Kunden das Auto. Er verkaufte das Auto an den Kunden.
-- Er zeigt das Haus dem Käufer. Er zeigt das Haus an den Käufer.
-- Ich passe die Hose deinem Bein an. Ich passe die Hose an dein Bein an.
+- Er berichtet dem Vorstand alles. \
+  Er berichtet alles an den Vorstand.
+- Ich schicke meiner Mutter Blumen. \
+  Ich schicke Blumen an meine Mutter.
+- Ich schreibe dir einen Brief. \
+  Ich schreibe einen Brief an dich.
+- Er verkaufte dem Kunden das Auto. \
+  Er verkaufte das Auto an den Kunden.
+- Ich passe die Hose deinem Bein an. \
+  Ich passe die Hose an dein Bein an.
 
 **Notes**
 
-Various verbs also allow for a *zu* dative alternation.
+Various verbs in this class also allow for a *zu* dative alternation (see below).
 
 #### *von* Ditransitive dative alternation
 
+The *von* dative antipassive is typically used with verbs that express a removal of an accusative object from the dative object, like with *klauen* 'to steel' [@next].
+
+::: ex
+- Ich klaue dir die Blumen. 
+- Ich klaue die Blumen von dir.
+:::
+
 **Attested Verbs**
 
-- Removing object from dative: *abknöpfen, abnehmen, ausspannen, borgen, enteignen, entfernen, entlehnen, entleihen, entnehmen, entwenden, entziehen, klauen, nehmen, rauben, stehlen, wegnehmen*
-
-**Further Examples**
-
-- Ich klaue dir die Blumen. Ich klaue die Blumen von dir.
-- Er entzieht ihr das Sorgerecht. Er entzieht das Sorgerecht von ihr.
+- Removing object from dative: *abknöpfen, abnehmen, ausspannen, borgen, enteignen, entfernen, entlehnen, entleihen, entnehmen, entwenden, klauen, nehmen, rauben, stehlen, wegnehmen*
 
 #### *vor* Ditransitive dative alternation
+
+The *vor* dative antipassive is typically used with verbs expressing an action that hides the accusative object from the dative object, like with *verschweigen* 'to conceal' [@next].
+
+::: ex
+- Ich verschweige dir das Geheimnis.
+- Ich verschweige das Geheimnis vor dir.
+:::
 
 **Attested Verbs**
 
 - Hiding object from dative: *verbergen, verheimlichen, verschweigen*
 
-**Further Examples**
-
-- Ich verschweige dir das Geheimnis. Ich verschweige das Geheimnis vor dir.
-
 #### *zu* Ditransitive dative alternation
+
+The *zu* dative antipassive is typically used with verbs expressing the movement of the accusative object to the dative object, like with *bringen* 'to bring' [@next].
+
+::: ex
+- Ich bringe dir die Waren. 
+- Ich bringe die Waren zu dir.
+:::
 
 **Attested Verbs**
 
@@ -1359,14 +1539,18 @@ Various verbs also allow for a *zu* dative alternation.
 
 **Further Examples**
 
-- Ich bringe dir die Waren. Ich bringe die Waren zu dir.
-- Ich liefere dir die Waren. Ich liefere die Waren zu dir.
-- Ich sage dir einen Satz. Ich sage einen Satz zu dir.
-- Ich ordne das Verb einer Gruppe zu. Ich ordne das Verb zu einer Gruppe zu.
+- Ich liefere dir die Waren. \
+  Ich liefere die Waren zu dir.
+- Ich sage dir einen Satz. \
+  Ich sage einen Satz zu dir.
+- Ich ordne das Verb einer Gruppe zu. \
+  Ich ordne das Verb zu einer Gruppe zu.
 
 ### --- [ OBJ > PBJ ] --- {.unnumbered}
 
 ### [ NA | NP ] Accusative governed antipassive {#sec:prepositions-governed-antipassive}
+
+The verb *beginnen* 'to begin' illustrates an accusative antipassive [@next a,b]. Different from the previously discussed accusative antipassives (see [@sec:prepositions-accusative-antipassive]), in this example the *mit* prepositional phrase is a governed preposition [@next c]. All verbs in this section have antipassives with governed prepositions. Note that the verb *beginnen* also shows a different, completely independent, anticausative diathesis (see [@sec:case-haben-anticausative]) in which the accusative is promoted to nominative [@next d].
 
 ::: ex
 a. Ich beginne die Arbeit.
@@ -1384,36 +1568,47 @@ d. Die Arbeit beginnt.
 
 **Further Examples**
 
-- Ich fange mein Studium an. Ich fange mit meinem Studium an.
-- Ich rechne eine Flasche Wein pro Person. Ich rechne mit einer Flasche Wein pro Person
-- Ich zögere mit den Maßnahmen. Ich zögere damit, Maßnahmen zu nehmen.
-- Ich büße meine Missetat. Ich büße für meine Missetat.
-- Ich garantiere den Erfolg. Ich garantiere für den Erfolg.
-- Ich lebe meinen Beruf. Ich lebe für meinen Beruf.
-- Ich glaube deine Aussage. Ich glaube an deiner Aussage.
+- Ich fange mein Studium an. \
+  Ich fange mit meinem Studium an.
+- Ich rechne eine Flasche Wein pro Person. \
+  Ich rechne mit einer Flasche Wein pro Person
+- Ich zögere mit den Maßnahmen. \
+  Ich zögere damit, Maßnahmen zu ergreifen.
+- Ich büße meine Missetat. \
+  Ich büße für meine Missetat.
+- Ich garantiere den Erfolg. \
+  Ich garantiere für den Erfolg.
+- Ich lebe meinen Beruf. \
+  Ich lebe für meinen Beruf.
+- Ich glaube deine Aussage. \
+  Ich glaube an deiner Aussage.
 
 **Notes**
 
-Note the absence of a determiner with *leiden*:
+Note the absence of a determiner for the accusative with *leiden* 'to suffer' [@next].
 
 ::: ex
 a. Ich leide große Schmerzen.
 b. Ich leide an einer Krankheit.
-::: 
+:::
 
 ### [ ND | NP ] Dative governed antipassive
+
+The verb *vertrauen* 'to trust' [@next] is currently the only known example of a verb showing a dative antipassive with a governed preposition.
+
+::: ex
+- Ich vertraue dir. 
+- Ich vertraue auf dich. 
+- Ich vertraue darauf, dass du die Arbeit machst.
+:::
 
 **Attested Verbs**
 
 - *auf*  : *vertrauen*
 
-**Further Examples**
-
-- Ich vertraue dir. Ich vertraue auf dich. Ich vertraue darauf, dass du die Arbeit machst.
-
 ### [ NG | NP ] Genitive governed antipassive {#sec:prepositions-genitive-antipassive}
 
-Some old-fashioned genitive arguments can be replaced by a governed preposition. Yet, this seems to be highly unusual for genitives without accusatives [@next a,b]. Note that the prepositional phrase is governed [@next c].
+Some old-fashioned genitive arguments can be replaced by a governed preposition. Yet, this seems to be highly unusual for genitives without accusatives. The only known case is *denken* 'to remember' [@next a,b]. Note that the prepositional phrase is governed [@next c].
 
 ::: ex
 a. Ich denke der vergangenen Jahre.
@@ -1427,9 +1622,9 @@ c. Ich denke daran, dass ich Milch kaufen muss.
 
 ### [ NAG | NAP ] Genitive governed antipassive+accusative {#sec:prepositions-genitive-antipassive-accusative}
 
-The genitive ditransitive in this group allow for an alternative formulation of the genitive argument as a prepositional phrase with *von* and subsequent dative noun phrase. Given a suitable context, such prepositional phrases can in most cases be left out.
+The genitive ditransitives in this group allow for an alternative formulation of the genitive argument as a prepositional phrase with *von*. Given a suitable context, such prepositional phrases can in most cases be left out.
 
-As with many genitives in German, some verbs are losing the possibility to occur with a genitive, leaving other alternants as the only option. For example, the verb *erinnern* 'remind' could be used with a genitive until ±1850 [@next a]. Today, the preposition seems to be only possibility [@next b]. Note that the prepositions with these verbs are governed prepositions [@next c].
+As genitive arguments are generally disappearing in German, many verbs in this section are also losing the possibility to occur with a genitive, leaving the antipassive alternant as the only option. For example, the verb *erinnern* 'to remind' could be used with a genitive until ±1850 [@next a]. Today, the prepositional *an* antipassive seems to be only possibility [@next b]. Note that the prepositions with the verbs in this section are governed prepositions [@next c].
 
 ::: ex
 a. Ich erinnere dich des Versprechens.
@@ -1439,21 +1634,26 @@ c. Ich erinnere dich daran, dass du Milch kaufen sollst.
 
 **Attested Verbs**
 
-- Separate from: *befreien, berauben, entbinden, entheben, verweisen*
+- Separate from: *befreien, entbinden, entheben, verweisen*
 
 **Further Examples**
 
-- Ich beraube dich deiner Rechte. Er beraubt dich von deinen Rechten.
-- Ich entbinde dich deiner Pflicht. Ich entbinde dich von deiner Pflicht.
-- Ich enthebe dich deines Amtes. Ich enthebe dich von deinem Amt.
-- Ich verweise dich des Spielfeldes. Ich verweise dich von dem Spielfeld.
-- Ich befreie dich des Regenten. Ich befreie dich von dem Regenten.
+- Ich entbinde dich deiner Pflicht. \
+  Ich entbinde dich von deiner Pflicht.
+- Ich enthebe dich deines Amtes. \
+  Ich enthebe dich von deinem Amt.
+- Ich verweise dich des Spielfeldes. \
+  Ich verweise dich von dem Spielfeld.
+- Ich befreie dich des Regenten. \
+  Ich befreie dich von dem Regenten.
 
 **Notes**
 
-The verb *entbinden* can be used as an intransitive verb with a meaning of 'to give birth'. In the meaning as discussed here it seems not to be possible to completely drop the genitive or *von* phrase. This also seems to hold for *entheben* and *verweisen*. The usage of *befreien* with a Genitive seems to be lost in the 19th Century.
+The verb *entbinden* can be used as an intransitive verb with a meaning of 'to give birth'. However, in the meaning 'to absolve' as discussed here it seems not to be possible to completely drop the genitive or *von* phrase. This also seems to hold for *entheben* 'to depose' and *verweisen* 'to expel'. The usage of *befreien* 'to free' with a genitive seems to have been lost in the 19th Century [@next].
 
-- Das allgemeine Völkerrecht befreit die Person des feindlichen Regenten.^[~~DWDS~~: Klüber, Johann Ludwig: Europäisches Völkerrecht. Bd. 2. Stuttgart, 1821.]
+::: ex
+Das allgemeine Völkerrecht befreit die Person des feindlichen Regenten.^[~~DWDS~~: Klüber, Johann Ludwig: Europäisches Völkerrecht. Bd. 2. Stuttgart, 1821.]
+:::
 
 ## Diatheses with promotion to object
 
@@ -1461,7 +1661,13 @@ The verb *entbinden* can be used as an intransitive verb with a meaning of 'to g
 
 ### [ –P | DP ] Dative addition+governed preposition
 
-This alternation allows for either a dative to be present or not with verbs that have no nominative argument. Consequently, a valency-simulating pronoun *es* is present.
+This alternation allows for either a dative to be present or not with verbs that have no nominative argument, but with a governed preposition, like *liegen an* 'to depend on'. Consequently, a valency-simulating pronoun *es* is present in all alternants.
+
+::: ex
+- Es liegt am Geld.
+- Es liegt mir viel am Geld.
+- Es liegt mir daran, dass du es erfährst.
+:::
 
 **Attested Verbs**
 
@@ -1471,44 +1677,56 @@ This alternation allows for either a dative to be present or not with verbs that
 
 **Further Examples**
 
-- Es kommt an auf die Eleganz. Mir kommt es an auf die Eleganz.
-- Es geht um ihre Identität. Den Polen geht es um ihre Identität.
-- Es fehlt an Geld. Ihm fehlt es an Geld.
-- Es liegt am Geld. Es liegt mir viel am Geld. Es liegt mir daran, dass du es erfährst.
+- Es kommt auf die Eleganz an. \
+  Mir kommt es auf die Eleganz an.
+- Es geht um ihre Identität. \
+  Den Polen geht es um ihre Identität.
+- Es fehlt an Geld. \
+  Ihm fehlt es an Geld.
 
 ### --- [ Ø > PBJ ] --- *Bewegungsart* {.unnumbered}
 
 ### [ N– | NL ] Manner of movement {#sec:prepositions-manner-of-movement}
 
-Some movement verbs allow for the following two kinds of constructions. First a regular intransitive construction expressing the movement [@next a] and, second, a construction with a local prepositional phrase in which the movement verb expresses the manner of movement [@next b]. Syntactically, there is a crucial difference between these two constructions in that the *Perfekt* auxiliary changes between *haben* [@next a] and *sein* [@next b]. In the *Perfekt* construction with *sein* the local prepositional phrase cannot be left out [@next c].
+Many movement verbs, like *tanzen* 'to dance' [@next], allow for the following two kinds of constructions. First, a regular intransitive construction expressing the movement with an optional location [@next a] and, second, a construction with an obligatory local prepositional phrase in which the movement verb expresses the manner of movement [@next b]. Syntactically, there is a crucial difference between these two constructions in that the perfect auxiliary changes between *haben* [@next a] and *sein* [@next b]. The local prepositional phrase cannot be left out in the perfect construction with *sein* [@next c].
 
 ::: ex
 a. Ich habe (in dem Garten) getanzt.
 b. Ich bin durch den Garten getanzt. \
    (= Ich habe mich tanzend durch den Garten bewegt.)
-c. ^* ich bin getanzt.
+c. ^* Ich bin getanzt.
+:::
+
+This alternation is typically used to explain the difference between using a dative or an accusative with the so-called *Wechselpräpositionen* like *in* or *auf*. For example, the verb *klettern* 'to climb' can be used with *auf*+dative [@next a] and with *auf*+accusative [@next b]. With the dative the action takes place at the location ('climbing while being on top of the mountain'). In contrast, with the accusative there is a movement that changes location ('climbing with the goal to reach the mountain'). However, syntactically there is much more going on than simply a difference in case marking. As proposed here, there is actually a diathesis between using the verb *klettern* (i) to describe an activity with perfect auxiliary *haben* and an optional location phrase [@next a] and (ii) to describe a manner of movement with a perfect auxiliary *sein* and an obligatory location phrase [@next b].
+
+::: ex
+- Ich klettere auf dem Berg. \
+  Ich habe gestern (auf dem Berg) geklettert.
+- Ich klettere auf den Berg. \
+  Ich bin gestern \*(auf den Berg) geklettert.
 :::
 
 **Attested Verbs**
 
-- *irren, klettern, kriechen, schwanken, stampfen, tanzen, wackeln*
+- *irren, klettern, kriechen, schlingern, schwanken, schweben, stampfen, tanzen, wackeln*
 
 **Further Examples**
 
-- Ich habe gestampft. Ich bin durch den Garten gestampft/geschwankt/getanzt
-- Der Pinguin hat mit dem Kopf gewackelt. Der Pinguin ist durch meine Beine gewackelt.
-- Ich habe gestern geklettert. Ich bin gestern auf den Berg geklettert.
+- Ich habe gestampft. \
+  Ich bin durch den Garten gestampft/geschwankt/getanzt.
+- Der Pinguin hat mit dem Kopf gewackelt. \
+  Der Pinguin ist durch meine Beine gewackelt.
 
 ### [ – – | NL ] Weather-like manner of movement {#sec:prepositions-weather-manner-movement}
 
-Many weather verbs like *wehen* 'to blow' [@next] allow for a nominative subject that is moving in a weather-like manner, often induced by a weather phenomenon. In such constructions are location seems obligatory.
+Many weather verbs like *wehen* 'to blow' [@next] allow for a nominative subject that is moving in a weather-like manner, often induced by a weather phenomenon. In such constructions the locational phrase seems obligatory.
 
 ::: ex
 a. Es weht.
 b. Die Blätter wehen durch die Luft.
 :::
 
-There appears to be a slight semantic difference between examples in which the nominative subject is a patient-like argument of the weather phenomenon, like in [@last], and example in which an action is performed in a way reminiscent of the weather phenomenon, like in [@next].
+There appears to be a slight semantic difference between examples in which the nominative subject is a patient-like argument of the weather phenomenon, like in [@last], and examples in which an action is performed in a way reminiscent of the weather phenomenon, like in [@next].
 
 ::: ex
 a. Es stürmt.
@@ -1533,11 +1751,11 @@ In the analysis of resultative constructions, there is a recurrent suggestion in
 
 With some apparently intransitive verbs there exist special constructions with an accusative argument and an obligatorily present prepositional phrase. For example, the verb *klopfen* 'to knock' is regularly used as an intransitive [@next a] possibly with an *an* prepositional phrase [@next b]. Accusative arguments are normally not possible, except for a very few special nouns related to music [@next c].
 
-However, the verb *klopfen* is very regularly used in construction like [@next d] with an accusative and a prepositional phrase. Both have to occur together, as leaving out either the prepositional phrase [@next e] or the Accusative [@next f] is not possible. This prepositional phrase is a locative and not a governed argument, because it cannot be replaced by a *davon, dass…* Phrase.
+However, the verb *klopfen* is very regularly used in construction like [@next d] with an accusative and a prepositional phrase. Both have to occur together, as leaving out either the prepositional phrase [@next e] or the accusative [@next f] is not possible. This prepositional phrase is a locative and not a governed argument, because it cannot be replaced by a *davon, dass* phrase.
 
-The meaning of this special construction [@next d] is also special. The meaning is something like: by doing the action of the intransitive verb, nominative causes accusative to move in the direction described by the prepositional phrase [@next g], cf. Goldberg's (2006: 73) famous example *She sneezed the foam off the cappuccino*.
+The meaning of this special construction [@next d] is also special. The meaning is something like: by doing the action of the intransitive verb, nominative causes accusative to move in the direction described by the prepositional phrase [@next g], cf. Goldberg's [-@goldberg2006: 73] famous example *She sneezed the foam off the cappuccino*.
 
-Note that with possessor raising (see [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative]) it is even possible to add an additional dative argument, leading to an 'intransitive' verb with an obligatory dative, accusative and prepositional argument [@next h]. This dative can also be turned into a reflexive [@next i].
+Note that with possessor raising (see [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative]) it is even possible to add an additional dative argument, leading to an 'intransitive' verb *klopfen* with an obligatory dative, accusative and prepositional argument [@next h]. This dative can also be turned into a reflexive [@next i].
 
 ::: ex
 a. Das Herz klopft ganz regelmäßig.
@@ -1576,7 +1794,7 @@ Er klopft den Aschenbecher leer.
 - Ich schwitze einen Fleck in mein Hemd.
 - Er klingelt mich aus dem Bett.
 - Er schwindelt ihn auf die Liste.
-- Sie gräbt das Frühstück aus dem Rucksack.
+- Sie gräbt die Kartoffeln aus dem Boden.
 - Das Herz pumpt das Blut durch den Körper.
 - Das allgemeine politische Klima weht den Illegalen ins Gesicht.^[~~DWDS~~: Die Zeit, 30.07.2010 (online).]
 - Der Zeitgeist weht den üblichen Akustikschrott in die Besucherohren.^[~~DWDS~~: Die Zeit, 08.03.1996 (online).]
@@ -1588,24 +1806,25 @@ Er klopft den Aschenbecher leer.
 
 **Notes**
 
-This construction is also found in fixed (metaphorical) expressions.
+This construction is also found in fixed (metaphorical) expressions [@next].
 
 ::: ex
 a. Er trinkt seine Freunde unter den Tisch.
 b. Er spielt den Gegner an die Wand.
-c. Ich schlafe ein Loch in den Tag.
+c. Der Student im vierten Stock schläft mal wieder ein Loch in den Tag.^[Attested online at https://universal_lexikon.de-academic.com/232141/Ein_Loch_in_den_Tag_schlafen, accessed 25 Juli 2022.]
 :::
 
 ### [ NA– | NAL ] Transitive forced movement {#sec:prepositions-transitive-location-as-result}
 
-Similar to intransitive resultatives (see [@sec:prepositions-intransitive-location-as-result]), some transitive verbs [@next a] alternate with a location as result [@next b,c]. There is a slightly different construction with a dative after the preposition *an* [@next d]. In this example the prepositional phrase simply expresses the location in which the action is taking place [@next e], so there is no valency alternation. 
+Similar to intransitive resultatives (see [@sec:prepositions-intransitive-location-as-result]), some transitive verbs like *befehlen* 'to order' [@next a] alternate with a location as result [@next b,c]. There is a slightly different construction with a dative after the preposition *an* [@next d]. In this example the prepositional phrase simply expresses the location in which the action is taking place, or it is an adnominal phrase. In both interpretations there is no valency alternation. 
 
 ::: ex
 a. Ich befehle eine Armee.
 b. Ich befehle die Armee an die Front.
 c. Ich befehle, und das Resultat ist: die Armee ist an der Front.
-d. Ich befehle die Armee an der Front.
-e. Ich befehle die Armee, während ich an der Front bin.
+d. Ich befehle die Armee an der Front. \
+   (= Ich befehle die Armee, während ich an der Front bin.) \
+   (= Ich befehle die Armee, die an der Front ist.)
 :::
 
 **Attested Verbs**
@@ -1614,19 +1833,26 @@ e. Ich befehle die Armee, während ich an der Front bin.
 
 **Further Examples**
 
-- Ich dirigiere das Orchester. Ich dirigiere den Wagen zum Bahnhof
-- Der Bauer hat den Pflug gezogen. Ich habe den Faden durch das Nadelöhr gezogen.
-- Ich jage den Hund. Ich jage den Hund aus dem Zimmer.
-- Ich hetze den Hund. Ich hetze den Hund auf dich.
-- Ich grabe ein Loch. Die Skifahrer gruben Spuren in den Schnee.
-- Ich schneide meine Nägel. Ich schneide den Apfel in Stücke.
-- der Kutscher peitschte das Pferd. Ein Tornado peitscht Tausende von Haien aus dem Meer.
+- Ich dirigiere das Orchester. \
+  Ich dirigiere den Wagen zum Bahnhof
+- Der Bauer hat den Pflug gezogen. \
+  Ich habe den Faden durch das Nadelöhr gezogen.
+- Ich jage den Hund. \
+  Ich jage den Hund aus dem Zimmer.
+- Ich hetze den Hund. \
+  Ich hetze den Hund auf dich.
+- Ich grabe ein Loch. \
+  Die Skifahrer gruben Spuren in den Schnee.
+- Ich schneide meine Nägel. \
+  Ich schneide den Apfel in Stücke.
+- Der Kutscher peitschte das Pferd. \
+  Ein Tornado peitscht Tausende von Haien aus dem Meer.
 
 ### --- [ Ø > PBJ ] --- *Ergänzende Wirkung* {.unnumbered}
 
 ### [ NA– | NAP ] Performative result {#sec:prepositions-performative-result}
 
-A slightly different variant of a resultative constructions is found with various performative verbs that take a regular accusative [@next a]. As an alternative structure, these verbs also allow a construction with an accusative and a prepositional phrase [@next b]. Note that the prepositional phrase cannot be left out in these constructions. The meaning of such constructions is parallel to the previous resultatives in that the performative verb causes the result. Such constructions were named quite aptly "Ergänzende Wirkung" all the way back in the influential educational grammatical work of Karl Ferdinand Becker [-@becker1833: 81] almost 200 years ago.
+A slightly different variant of a resultative constructions is found with various performative verbs that take a regular accusative, like *machen* 'to make/create' [@next a]. As an alternative structure, these verbs also allow for a construction with an accusative and a prepositional phrase [@next b]. Note that the prepositional phrase cannot be left out in these constructions. The meaning of such constructions is parallel to the previous resultatives in that the performative verb causes the result. Such constructions were named quite aptly "Ergänzende Wirkung" all the way back in the influential educational grammatical work of Karl Ferdinand Becker [-@becker1833: 81] almost 200 years ago.
 
 ::: ex
 a. Er macht die Aufgaben. 
@@ -1642,33 +1868,34 @@ b. Er macht die Wiese zu einem Garten. \
 
 **Further Examples**
 
-- Sie erklärte das Problem. Sie erklärte die Behauptung für eine Lüge.
-- Ich betrachte dich. Ich betrachte dich als einen Freund.
-- Ich sehe dich an. Ich sehe dich als einen Freund an.
+- Sie erklärte das Problem. \
+  Sie erklärte die Behauptung für eine Lüge.
+- Ich betrachte dich. \
+  Ich betrachte dich als einen Freund.
+- Ich sehe dich an. \
+  Ich sehe dich als einen Freund an.
 
 **Notes**
 
-For some verbs there appears to be a rather clear lexicalisation of the meaning of the verb between the two alternants, i.e. it is questionable, whether the alternant should still be considered to be the same verb.
+For some verbs there appears to be a rather clear lexicalisation of the meaning of the verb between the two alternants, i.e. it is questionable, whether the alternant should still be considered to be the same verb with *halten*, meaning either 'to hold' or 'to consider' [@next a] and *erklären*, meaning either 'to explain' or 'to declare' [@next b].
 
-- Ich halte das Schwert. Ich halte dich für einen Scharlatan.
-- Sie erklärte die Lösung. Sie erklärte den Kandidaten zum Geschäftsführer.
+::: ex
+- Ich halte das Schwert. \
+  Ich halte dich für einen Scharlatan.
+- Sie erklärte die Lösung. \
+  Sie erklärte den Kandidaten zum Geschäftsführer.
+:::
 
 ### --- [ Ø > OBJ > PBJ ] --- *Resultativ* {.unnumbered}
 
 ### [ NA– | NLA ] Action result {#sec:prepositions-action-result}
 
-This alternation occurs with some transitive verbs like *brechen* 'to break' [@next a,b], cf. the *wipe* alternation in English from Levin [-@levin1993: 53]. Note that the accusatives at both sides of the alternation do not refer to the same roles. The original accusative *Stein* 'stone' [@next a] is recast as a location [@next b], which is obligatory [@next c]. A new accusative *Kristall* 'crystal' is introduced as the result of the action. Typically the result is actually the removal of something, like *Fleck* 'stain' in [@nnext].
-
-::: ex
-a. Ich breche den Stein.
-b. Ich breche einen Kristall aus dem Stein. \
-   (= Durch das Brechen des Steins sorge ich dafür, dass ein Kristall heraus kommt.)
-c. ^* Ich breche einen Kristall.
-:::
+This alternation occurs with some transitive verbs like *waschen* 'to wash' [@next a,b], cf. the *wipe* alternation in English from Levin [-@levin1993: 53]. Note that the accusatives at both sides of the alternation do not refer to the same roles. The original accusative *Hose* 'trousers' [@next a] is recast as a location [@next b], which is obligatory [@next c]. A new accusative *Fleck* 'stain' is introduced as the result of the action. Typically the result is actually the removal of something, like *Fleck* 'stain' in [@next].
 
 ::: ex
 a. Ich wasche meine Hose.
-b. Ich wasche den Fleck aus meiner Hose. 
+b. Ich wasche den Fleck aus meiner Hose. \
+   (= Durch das Waschen meiner Hose sorge ich dafür, dass der Fleck heraus kommt.)
 c. ^* Ich wasche den Fleck.
 :::
 
@@ -1720,7 +1947,7 @@ b. Sie schimpft mich einen Narren
 
 ### [ NAp | NAD ] *für* Benefactive dative {#sec:prepositions-benefactive-dative}
 
-The alternation of a dative with a *für* prepositional phrase is very widespread [@next a,b]. It can be used with verbs that can be performed on behalf of somebody else (i.e. ~~benefactive~~, sometimes called ~~dativus commodi~~). In German grammar it is sometimes referred to as a 'free dative' because it can be easily dropped completely. As Eisenberg [-@eisenberg2006a: 298] remarks, such datives are widespread, but cannot be used with all verbs and are thus a phenomenon that can be used for the subclassification of verbs.
+The alternation of a dative with a *für* prepositional phrase is very widespread [@next a,b]. It can be used with verbs that can be performed on behalf of somebody else (i.e. ~~benefactive~~, sometimes called ~~dativus commodi~~). In German grammar it is sometimes referred to as a 'free dative' because it can be easily dropped completely. As Eisenberg [-@eisenberg2006a: 298] remarks, such datives are widespread, but cannot be used with all verbs and are thus a phenomenon that can be used for the sub-classification of verbs. Also note that this diathesis should be strongly differentiated from other 'free datives', specifically possessor datives (see especially [@sec:case-possessor-accusative-to-dative; but also @sec:prepositions-possessor-of-location-to-dative-experiencer]) 
 
 ::: ex
 a. Ich koche dir eine Suppe.
@@ -1747,47 +1974,46 @@ e. Gib mir eine Waffe und ich gewinne dir jeden Krieg.^[Attested online at <http
 
 **Further Examples**
 
-- Ich stelle dir einen Pass aus. Ich stelle für dich einen Pass aus.
-- Ich halte dir den Kaffee. Ich halte den Kaffee für dich.
-- Er stimmt mir den Kontrabas. Er stimmt den Kontrabass für mich. (*stimmen* 'to tune', a different meaning from *stimmen* 'to vote' that does not allow this diathesis)
-- Ich töte dir den Hasen. Ich töte den Hasen für dich.
-- Ich garantiere dir den Erfolg. Ich garantiere den Erfolg für dich.
+- Ich stelle dir einen Pass aus. \
+  Ich stelle für dich einen Pass aus.
+- Ich halte dir den Kaffee. \
+  Ich halte den Kaffee für dich.
+- Er stimmt mir den Kontrabass. \
+  Er stimmt den Kontrabass für mich.^[The verb *stimmen* here means 'to tune an instrument', a different meaning from *stimmen* 'to vote' that does not allow for this diathesis.]
+- Ich töte dir den Hasen. \
+  Ich töte den Hasen für dich.
+- Ich garantiere dir den Erfolg. \
+  Ich garantiere den Erfolg für dich.
 
 ### [ Np | ND ] *für deinen Geschmack* Judgement dative {#sec:prepositions-judgement-dative}
 
-An extra dative can be introduced together with an obligatory *zu/genug* phrase in the interpretation of an evaluator *für den Geschmack von* [also known as *dativus iudicantis*, e.g. @hole2014: 6-7, 172-176]. It is typically used with intransitive verbs [@next a], though transitive construction seem possible [@next b].
+A dative can be introduced together with an obligatory *zu/genug* phrase in the interpretation of an evaluator *für den Geschmack von* [also known as *dativus iudicantis*, e.g. @hole2014: 6-7, 172-176]. It is typically used with intransitive verbs [@next a], though transitive construction seem possible [@next b]. More research is needed to establish any restrictions for the kind of verbs with which this dative can be used.
 
 ::: ex
-- Paul fuhr zu schnell/schnell genug für den Geschmack von seiner Mutter. \
-  Paul fuhr seiner Mutter zu schnell/schnell genug.
+- Paul fuhr zu schnell für den Geschmack von seiner Mutter. \
+  Paul fuhr seiner Mutter zu schnell.
 - Der Student beantwortete die Frage nicht schnell genug für den Geschmack der Professorin. \
   Der Student beantwortete der Professorin die Frage nicht schnell genug.
 :::
 
 **Further Examples**
 
-- Der Zug kommt dir zu früh an. Der Zug kommt zu früh an für deinen Geschmack.
-- Ich lüge dir zu viel. Ich lüge zuviel für deinen Geschmack.
+- Der Zug kommt dir zu früh an. \
+  Der Zug kommt zu früh an für deinen Geschmack.
+- Ich lüge dir zu viel. \
+  Ich lüge zu viel für deinen Geschmack.
 
 ### --- [ ADJ > OBJ ] --- *Ortspertinenzdativ* {.unnumbered}
 
 ### [ NLg | NLD ] Possessor-of-location to dative experiencer {#sec:prepositions-possessor-of-location-to-dative-experiencer}
 
-An alternation for datives is that the dative can be expressed alternatively as a possessor inside a prepositional phrase. This happens with some verbs that can be used intransitively [@next a] or with a dative [@next b]. However, this dative cannot be used without an additional prepositional phrase [@next c]. In these cases, the dative can be alternatively expressed as the possessor of the prepositional object [@next d].
+Some datives can be expressed alternatively as a possessor inside a prepositional phrase. This happens with some verbs that can be used intransitively [@next a] or with a dative [@next b]. However, this dative cannot be used without an additional prepositional phrase [@next c]. In these cases, the dative can be alternatively expressed as the possessor of the prepositional object [@next d].
 
 ::: ex
 a. Der Affe saß ruhig.
 b. Der Affe saß ihm auf der Schulter.
 c. ^* Der Affe saß ihm ruhig.
 d. Der Affe saß auf seiner Schulter.
-:::
-
-Coreference (i.e. reflexive double marking) is possible between dative and possessor [@next a], but in the third person this does not lead to a reflexive *sich* [@next b,c]. This is a clear indication that the dative and the possessor have to refer to the same participant. It is impossible for them to be not coreferent, so there is no possible confusion in the third person, so there is no need for a disambiguating reflexive pronoun.
-
-::: ex
-a. Der Affe saß mir auf meiner Schulter.
-b. Der Affe saß ihm auf seiner Schulter.
-c. ^* Der Affe saß sich auf seine Schulter.
 :::
 
 **Attested Verbs**
@@ -1797,31 +2023,39 @@ c. ^* Der Affe saß sich auf seine Schulter.
 
 **Further Examples**
 
-- Der Regen läuft mir in die Schuhe. Der Regen läuft in meine Schuhe.
-- Er steht mir zur Seite. Er steht zur meiner Seite.
-- Er schaut mir über die Schulter. Er schaut über meine Schulter
-- Das Hemd hing ihm aus der Hose. Das Hemd hing aus seiner Hose.
-- Ich steige dir auf die Füße. Ich steige auf deine Füße.
-- Ich falle dir vor die Füße. Ich falle vor deinen Füßen.
-- Ich klopfe dir auf die Schulter. Ich klopfe auf deine Schulter.
-- Die Biene sticht mir in den Arm. Die Biene sticht in meinen Arm.
-- Ich zwicke dir in die Wange. Ich zwicke in deine Wange.
+- Der Regen läuft mir in die Schuhe. \
+  Der Regen läuft in meine Schuhe.
+- Das Wasser steht mir bis zum Bauch. \
+  Das Wasser steht bis zu meinem Bauch.
+- Er schaut mir über die Schulter. \
+  Er schaut über meine Schulter
+- Das Hemd hing ihm aus der Hose. \
+  Das Hemd hing aus seiner Hose.
+- Ich steige dir auf die Füße. \
+  Ich steige auf deine Füße.
+- Ich falle dir vor die Füße. \
+  Ich falle vor deine Füßen.
+- Ich klopfe dir auf die Schulter. \
+  Ich klopfe auf deine Schulter.
+- Die Biene sticht mir in den Arm. \
+  Die Biene sticht in meinen Arm.
+- Ich zwicke dir in die Wange. \
+  Ich zwicke in deine Wange.
 
 **Notes**
 
-The verb *beißen* 'to bite' can also be used transitively with an accusative argument [@next a-c], or with the dative alternation [@next d,e], leading to two different options to encode the object of the biting.
+The verb *beißen* 'to bite' can be used transitively with an animate accusative argument [@next a], or with the dative alternation [@next b], leading to two different options to encode the object of the biting, cf. accusative *ihn* [@next a] with dative *ihm* [@next b].
 
 ::: ex
-a. Der Hund hat ihn ins Bein gebissen.
-b. Der Hund hat ihn gebissen.
-c. Der Hund hat sein Bein gebissen.
-d. Der Hund hat in sein Bein gebissen.
-e. Der Hund hat ihm ins Bein gebissen.
+a. Der Hund hat ihn gebissen. \
+   Der Hund hat *ihn* ins Bein gebissen.
+b. Der Hund hat in sein Bein gebissen. \
+   Der Hund hat *ihm* ins Bein gebissen.
 :::
 
 ### [ NALg | NALD ] Possessor-of-location to dative experiencer+accusative {#sec:prepositions-possessor-of-location-to-dative-experiencer-accusative}
 
-Similar to the previous alternation, the verbs in this group also alternate the possessor of the prepositional phrase with a dative. However, differently from the previous group, these verbs also have an accusative arguments. These verbs are either causative alternants of the verbs from the previous group or verbs that allow for a resultative alternation (see [@sec:prepositions-intransitive-location-as-result]).
+Similar to the previous alternation, the verbs in this group also alternate the possessor of the prepositional phrase with a dative. However, differently from the previous group, these verbs also have an accusative argument. These verbs are either causative alternants of the verbs from the previous group or verbs that allow for a resultative alternation (see [@sec:prepositions-intransitive-location-as-result]).
 
 ::: ex
 a. Ich lege den Brief auf deinen Schreibtisch.
@@ -1836,37 +2070,52 @@ b. Ich lege dir den Brief auf den Schreibtisch.
 
 **Further Examples**
 
-- ich setze das Kind auf deinen Schoß. Ich setze dir das Kind auf den Schoß.
-- Ich hänge den Pullover in deinen Schrank. Ich hänge dir den Pullover in den Schrank.
-- Ich klebe einen Zettel auf deine Tür. Ich klebe dir einen Zettel auf die Tür.
-- Ich lehne den Besen an deinen Zaun. Ich lehne dir den Besen an den Zaun.
-- Ich klopfe den Schnee von deinem Mantel. Ich klopfe dir den Schnee von dem Mantel.
-- Ich huste meine Schwindsucht in dein Gesicht. Ich huste dir meine Schwindsucht ins Gesicht.
-- Ich spucke den Kern in deine Suppe. Ich spucke dir den Kern in die Suppe.
-- Er poliert den Fleck von deiner Gabel. Er poliert dir den Fleck von der Gabel.
-- Er filtert den Schmutz aus deinem Wasser. Er filtert dir den Schmutz aus dem Wasser.
-- Er wischt das Wasser von deinem Tisch. Er wischte dir das Wasser von dem Tisch.
-- Er kämmt die Läuse aus deinen Haaren. Er kämmt dir die Läuse aus den Haaren.
-- Ich schneide ein Loch in deinen Teppich. Ich schneide dir ein Loch in den Teppich.
-- Ich bügle die Falten aus deinem Hemd. Ich bügle dir die Falten aus dem Hemd.
-- Ich breche eine Tür in deine Wand. Ich breche dir eine Tür in die Wand.
-- Ich wasche den Fleck aus deiner Hose. Ich wasche dir den Fleck aus der Hose.
-- Er häufte mir das ganze Kleingeld in die Hand [ DWDS: Böll, Wort 133]
-- Ich jage dir den Anwalt auf den Hals.
+- Ich setze das Kind auf deinen Schoß. \
+  Ich setze dir das Kind auf den Schoß.
+- Ich hänge den Pullover in deinen Schrank. \
+  Ich hänge dir den Pullover in den Schrank.
+- Ich klebe einen Zettel auf deine Tür. \
+  Ich klebe dir einen Zettel auf die Tür.
+- Ich lehne den Besen an deinen Zaun. \
+  Ich lehne dir den Besen an den Zaun.
+- Ich klopfe den Schnee von deinem Mantel. \
+  Ich klopfe dir den Schnee von dem Mantel.
+- Ich huste meine Schwindsucht in dein Gesicht. \
+  Ich huste dir meine Schwindsucht ins Gesicht.
+- Ich spucke den Kern in deine Suppe. \
+  Ich spucke dir den Kern in die Suppe.
+- Er poliert den Fleck von deiner Gabel. \
+  Er poliert dir den Fleck von der Gabel.
+- Er filtert den Schmutz aus deinem Wasser. \
+  Er filtert dir den Schmutz aus dem Wasser.
+- Er wischt das Wasser von deinem Tisch. \
+  Er wischte dir das Wasser von dem Tisch.
+- Er kämmt die Läuse aus deinen Haaren. \
+  Er kämmt dir die Läuse aus den Haaren.
+- Ich schneide ein Loch in deinen Teppich. \
+  Ich schneide dir ein Loch in den Teppich.
+- Ich bügle die Falten aus deinem Hemd. \
+  Ich bügle dir die Falten aus dem Hemd.
+- Ich breche eine Tür in deine Wand. \
+  Ich breche dir eine Tür in die Wand.
+- Ich wasche den Fleck aus deiner Hose. \
+  Ich wasche dir den Fleck aus der Hose.
+- Er häufte mir das ganze Kleingeld in die Hand.^[~~DWDS~~: Böll, Wort 133.]
 
 **Notes**
 
 This construction is frequently used metaphorically [@next].
 
 ::: ex
-Er fragt mir ein Loch in den Bauch.
+- Er fragt mir ein Loch in den Bauch.
+- Ich jage dir den Anwalt auf den Hals.
 :::
 
 ### --- [ ADJ > OBJ > PBJ ] --- *Pertinenzakkusativ* {.unnumbered}
 
 ### [ NAg | NPA ] Possessor-of-accusative applicative {#sec:perpositions-possessor-applicative}
 
-This alternation is the German equivalents of the "Possessor Object" alternation in English from Levin [-@levin1993: 73]. The possessor of an accusative becomes an accusative, and the erstwhile accusative is demoted to a prepositional phrase. The preposition (typically *für*) appears to be a governed preposition.
+This alternation is the German equivalents of the "Possessor Object" alternation in English from Levin [-@levin1993: 73]. The possessor of an accusative becomes an accusative and the erstwhile accusative is demoted to a prepositional phrase. The preposition (typically *für*) appears to be a governed preposition.
 
 ::: ex
 a. Ich bewundere seine Ehrlichkeit.
@@ -1880,9 +2129,12 @@ c. Ich bewundere ihn dafür, dass er ehrlich ist.
 
 **Further Examples**
 
-- Ich lobe den Schüler für seinen Fleiß. Ich lobe den Fleiß des Schülers.
-- Ich entschuldige den Dieb für seine Tat. Ich entschuldige die Tat des Diebes.
-- Die Delegierten feiern ihn für sein Nein zum Irak-Krieg. Die Delegierten feiern sein Nein zum Irak-Krieg.
+- Ich lobe den Schüler für seinen Fleiß. \
+  Ich lobe den Fleiß des Schülers.
+- Ich entschuldige den Dieb für seine Tat. \
+  Ich entschuldige die Tat des Diebes.
+- Die Delegierten feiern ihn für sein Nein zum Irak-Krieg. \
+  Die Delegierten feiern sein Nein zum Irak-Krieg.
 
 ## Symmetrical diatheses
 
@@ -1890,10 +2142,16 @@ c. Ich bewundere ihn dafür, dass er ehrlich ist.
 
 ### [ Np | pN ] Commutative {#sec:prepositions-subject-switch}
 
+The verb *wimmeln* 'to swarm/teem' [@next] has two different constructional possibilities that seem structurally completely reversed without any overt marking.
+
 ::: ex
 a. Die Kinder wimmeln auf den Platz.
 b. Der Platz wimmelt von Kindern. 
 :::
+
+**Attested Verbs**
+
+- *wimmeln*
 
 ### --- [ ADJ > OBJ > ADJ ] --- *Vollapplikativ* {.unnumbered}
 
@@ -1908,7 +2166,7 @@ b. Ich wickle das Tuch um den Arm. \
    Ich wickle den Arm in dem Tuch ein.
 :::
 
-With a few verbs this alternation is attested without a verbal prefix or particle. In most cases this includes an optional *mit* instrument that alternates with an accusative object [@next a-c], cf. the English 'spray/load' alternation from Levin [-@levin1993: 50-51]. This instrument alternation is closely related to the *mit* antipassive (see [@sec:prepositions-mit-antipassive]). In addition to the *mit* antipassive, in this diathesis another accusative alternates with a locative preposition that is obligatorily present [@next c,d], reminiscent of 
+With a few verbs this alternation is attested without a verbal prefix or particle. In most cases this includes an optional *mit* instrument that alternates with an accusative object [@next a-c], cf. the English 'spray/load' alternation from Levin [-@levin1993: 50-51]. This instrument alternation is closely related to the *mit* antipassive (see [@sec:prepositions-mit-antipassive]). In addition to the *mit* antipassive, in this diathesis another accusative alternates with a locative preposition that is obligatorily present [@next c,d].
 
 ::: ex
 a. Er füllt die Flasche mit Schnaps.
@@ -1933,10 +2191,14 @@ c. Ich zerschneide das Blatt Papier.
 
 **Further Examples**
 
-- Er stopft Federn in die Kissen. Er stopft die Kissen (mit Federn).
-- Er gießt Wasser an die Blumen. Er gießt die Blumen (mit Wasser).
-- Ich breche Stücke aus der Wand. Ich breche die Wand in Stücke. 
-- Ich säge Bretter aus dem Baum. Ich säge den Baum zu Brettern.
+- Er stopft Federn in die Kissen. \
+  Er stopft die Kissen (mit Federn).
+- Er gießt Wasser auf die Blumen. \
+  Er gießt die Blumen (mit Wasser).
+- Ich breche Stücke aus der Wand. \
+  Ich breche die Wand in Stücke. 
+- Ich säge Bretter aus dem Baum. \
+  Ich säge den Baum zu Brettern.
 
 **Notes**
 
@@ -1955,7 +2217,7 @@ a. Er vergleicht mich mit einem Affen.
 b. Er vergleicht einen Affen mit mir.
 :::
 
-### --- [ ADJ > ADJ ] Adjunct change {.unnumbered}
+### --- [ ADJ > ADJ ] Adjunct change --- {.unnumbered}
 
 ### [ NAg | NAp ] Possessor-of-accusative to preposition {#sec:prepositions-possessor-to-preposition}
 
@@ -1972,6 +2234,9 @@ b. Ich bewundere die Ehrlichkeit bei ihm.
 
 **Further Examples**
 
-- Ich bemerke bei ihm eine Langeweile. Ich bemerke seine Langeweile.
-- Ich bekämpfe bei ihm den Schmerz. Ich bekämpfe seinen Schmerz.
-- Ich erwarte von dir einen Besuch. Ich erwarte deinen Besuch.
+- Ich bemerke bei ihm eine Langeweile. \
+  Ich bemerke seine Langeweile.
+- Ich bekämpfe bei ihm den Schmerz. \
+  Ich bekämpfe seinen Schmerz.
+- Ich erwarte von dir einen Besuch. \
+  Ich erwarte deinen Besuch.

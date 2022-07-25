@@ -321,14 +321,15 @@ Ich schlafe mich gesund. \
 (= Ich schlafe, und dadurch bin ich gesund.)
 :::
 
-The intransitive verbs that allow this seem to be strongly related to the agentive class of intransitive (see [@sec:participles-restrictions]), while typical patientive intransitives are not possible in this construction.
+The intransitive verbs that allow this seem to be strongly related to the agentive class of intransitive (see [@sec:participles-restrictions]), while typical patientive intransitives are not possible in this construction, though note [@next f].
 
 ::: ex
 a. ^* Ich habe mich gesund eingeschlafen.
 b. ^* Ich scheitere mich reich.
 c. ^* Ich sterbe mich tot.
+e. ^* Der Zug ist sich gut angekommen.
 d. ^* Ich wachse mich groß.
-e. ^^?^ Der Zug ist sich gut angekommen.
+f. Der Wald wächst sich zu Tode.
 :::
 
 When the combination of adverbial and verb is considered to be a new lexicalised predicate (i.e. *totlachen, hocharbeiten*), then these predicates would be obligatorily reflexive (alike to the verbs in [@sec:reflexive-obligatory-accusative-reflexive]).

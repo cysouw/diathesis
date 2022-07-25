@@ -173,7 +173,7 @@ Some of the 'living' verbs allow for accusative arguments in non-living related 
 
 ### [ NA ] Nominative+accusative
 
-The verbs in this class are strict transitives: they need a nominative subject argument and an additional accusative argument. Further arguments are not allowed, and no governed prepositions are allowed either. It turns out that this group is not very large, because very many verbs allow for dative arguments (traditionally called 'free' datives) or alternations with governed prepositions. For example, an apparently typical transitive verb like *bauen* 'to build' allows for a dative to mark the beneficiary of the building, as in *Ich baue dir ein Haus* 'I will build a house for you' (see [@sec:prepositions-benefactive-dative]). Conversely, there are also many apparently typical transitive verbs that can just as well be used without accusative object, including well-known ambitransitive verbs like *essen* 'to eat' (see [@sec:case-accusative-drop]). All such verbs are discussed in their respective sections. Still, even with all such verbs removed, the current set of 'pure' transtive verbs can easily be extended and the current listing is not at all intended to be complete. 
+The verbs in this class are strict transitives: they need a nominative subject argument and an additional accusative argument. Further arguments are not allowed, and no governed prepositions are allowed either. It turns out that this group is not very large, because very many verbs allow for dative arguments (traditionally called 'free' datives) or alternations with governed prepositions. For example, an apparently typical transitive verb like *bauen* 'to build' allows for a dative to mark the beneficiary of the building, as in *Ich baue dir ein Haus* 'I will build a house for you' (see [@sec:prepositions-benefactive-dative]). Conversely, there are also many apparently typical transitive verbs that can just as well be used without accusative object, including well-known ambitransitive verbs like *essen* 'to eat' (see [@sec:case-accusative-drop]). All such verbs are discussed in their respective sections. Still, even with all such verbs removed, the current set of 'pure' transitive verbs can easily be extended and the current listing is not at all intended to be complete. 
 
 The number of monomorphemic 'strictly' transitive verbs seems to be very limited. Preverbs (see Chapter [-@sec:preverbs]) regularly induce an applicative alternation and subsequently often lexicalise, leading to transitive verbs [@next a,b]. 
 
@@ -356,7 +356,7 @@ d. Die Miete wird monatlich gezahlt.
 
 **Attested Verbs**
 
-- Quantity: *enthalten, fassen ('Fassungsvermögen haben'), kosten, rechnen, sparen, wachsen, wiegen, zunehmen*
+- Quantity: *enthalten, fassen ('Fassungsvermögen haben'), kosten, rechnen, sparen, vorrücken, wachsen, wiegen, zunehmen*
 - Quantity of time: *dauern*
 
 **Further Examples**
@@ -366,6 +366,7 @@ d. Die Miete wird monatlich gezahlt.
 - Der Knochen wächst einen Millimeter pro Tag. Wieviel/*was wächst der Knochen?
 - Ich rechne eine Flasche Wein pro Person. Wieviel/^?^was rechnest du pro Person?
 - Er hat zehn Kilo zugenommen. Wieviel/*was hat er zugenommen?
+- Sie dürfen […] den eigenen Spielstein ein Feld vorrücken.^[~~DWDS~~: Berliner Zeitung, 15.01.2000.]
 
 ### [ NAA ] Nominative+accusative+named object {#sec:case-named-objects}
 
@@ -494,7 +495,7 @@ b. Insofern entbehrt es jeglichen Beweises.
 
 A typical anticausative verb allows for both a transitive [@next a] and an intransitive construction [@next b], in which the intransitive nominative is the same participant as the transitive accusative. This is attested in German with verbs like *kochen* 'to cook' [@next]. However, because this diathesis is formally unmarked it is difficult to decide whether this should be classified as an anticausative or as a causative [cf. @scheibl2006: 355]. 
 
-Whatever the ultimate best analysis will be, it is important to realize that there are two different classes of verbs in German. With verbs like *kochen* the perfect of the intransitive exist both with auxiliaries *haben* [@next c] and *sein* [@next d]. In contrast, with verbs like *zerbrechen* 'to break' the intransitive perfect only allows for *sein* (see [@sec:case-sein-causative] for an extensive discussion). These two classes of verbs should be distinguished and I propose to consider the *kochen*-class as an anticausative (this section) and the *zerbrechen*-class as a causative (see [@sec:case-sein-causative]).
+Whatever the ultimate best analysis will be, it is important to realise that there are two different classes of verbs in German. With verbs like *kochen* the perfect of the intransitive exist both with auxiliaries *haben* [@next c] and *sein* [@next d]. In contrast, with verbs like *zerbrechen* 'to break' the intransitive perfect only allows for *sein* (see [@sec:case-sein-causative] for an extensive discussion). These two classes of verbs should be distinguished and I propose to consider the *kochen*-class as an anticausative (this section) and the *zerbrechen*-class as a causative (see [@sec:case-sein-causative]).
 
 Semantically, the intransitive *haben* construction in [@next c] seems to be the regular perfect of the intransitive [@next b]. The *sein* construction in [@next d] is probably best analysed as the *Zustandspassiv* (see [@sec:participles-sein-zustandspassiv]) of the transitive [@next a]. 
 
@@ -649,14 +650,14 @@ c. Der Stock ist gebrochen.
 d. ^* Der Stock hat gebrochen.
 :::
 
-Second, there are very many (though not exclusively) verbs denoting natural process in this class, which semantically can be argued to be basically intransitive.
+Second, there are very many (though not exclusively) verbs denoting natural process in this class, like *altern* 'to age' or *verderben* 'to rot', which can be argued semantically to be basically intransitive.
 
 **Attested Verbs**
 
-- Verbs with preverb variants: *biegen (einbiegen), bleichen (erbleiben, verbleichen), bräunen (anbräunen), brechen (abbrechen, zerbrechen), brennen (abbrennen, niederbrennen, verbrennen), fahren (ǘberfahren), fliegen (einfliegen), frieren (einfrieren), klappen (aufklappen, zuklappen), knicken (abknicken, einknicken), reißen (abreißen, einreißen, zerreißen), rollen (ausrollen), staunen (erstaunen), stürzen (umstürzen), tauen (auftauen), treten (antreten, wegtreten), trocknen (austrocknen)*
+- Verbs with preverb variants: *biegen (einbiegen), bleichen (erbleichen, verbleichen), bräunen (anbräunen), brechen (abbrechen, zerbrechen), brennen (abbrennen, niederbrennen, verbrennen), fahren (ǘberfahren), fliegen (einfliegen), frieren (einfrieren), klappen (aufklappen, zuklappen), knicken (abknicken, einknicken), reißen (abreißen, einreißen, zerreißen), rollen (ausrollen), staunen (erstaunen), stürzen (umstürzen), tauen (auftauen), treten (antreten, wegtreten), trocknen (austrocknen), wirbeln (aufwirbeln)*
 - Preverbal verbs from adjectival roots: *abkühlen, ermatten, verrohen, abstumpfen*
-- Preverbal verbs rom nominal roots: *erzürnen, verdunsten, zersplittern*
-- Others: *altern, ersticken, ertrinken, fliehen, heilen reifen, verderben, zuschneien*
+- Preverbal verbs from nominal roots: *erzürnen, verdunsten, zersplittern*
+- Others: *altern, ersticken, ertrinken, fliehen, heilen, reifen, verderben, vorrücken, zuschneien*
 
 **Further Examples**
 
@@ -711,7 +712,7 @@ The verb *fliehen* 'to flee' can be used transitively, but this seems to be unus
 
 ### [ –N | NA ] *Umlaut* Causative {#sec:case-umlaut-causative}
 
-Originally based on a Germanic suffix *-jan*, which turned into an umlaut, some verbs have an intransitive (e.g. *fallen* 'to fall') and a transative causative (e.g. *fällen* 'to fell') only separated by a vowel-quality difference [@next].
+Originally based on a Germanic suffix *-jan*, which turned into an umlaut, some verbs have an intransitive (e.g. *fallen* 'to fall') and a transitive causative (e.g. *fällen* 'to fell') only separated by a vowel-quality difference [@next].
 
 ::: ex
 a. Der Baum ist gefallen.
@@ -745,7 +746,7 @@ b. Ich schwärze den Text.
 
 ### [ A | N ] Accusative-to-nominative promotion
 
-Some verbs with experiencer subjects needed an accusative subject in older stages of German [cf. @nubling2006: 103-104], but these verbs either were completely lost, like *dürsten* 'to be thursty' [@next a], or the accusative tends to be replaced by a nominative, like with *frieren* 'to be cold' [@next b,c]. The verb *frieren* with a human experiencer is currently in the middle of this transition, allowing for both constructions.
+Some verbs with experiencer subjects needed an accusative subject in older stages of German [cf. @nubling2006: 103-104], but these verbs either were completely lost, like *dürsten* 'to be thirsty' [@next a], or the accusative tends to be replaced by a nominative, like with *frieren* 'to be cold' [@next b,c]. The verb *frieren* with a human experiencer is currently in the middle of this transition, allowing for both constructions.
 
 ::: ex
 a. Mich dürstet.
@@ -976,13 +977,14 @@ Given that there are already very few verbs with genitive arguments in German, i
 
 **Attested Verbs**
 
-- *anklagen, belehren, besinnen, überführen, würdigen*
+- *anklagen, belehren, berauben, besinnen, überführen, würdigen*
 
 **Further Examples**
 
 - Ich klage dich des Diebstahls an. Ich klage dich an.
 - Ich belehre dich eines Besseren. Ich belehre dich.
 - Ich überführe den Mörder eines Verbrechens. Ich werde den Mörder überführen.
+- Ich beraube dich deiner Rechte. Er beraubt dich.
 
 ## Diatheses with promotion to object
 
@@ -1187,7 +1189,7 @@ d. Ein Geschenk erwartet dich.
 
 ### [ NA | DN ] Accusative/dative inversive
 
-The verb *nutzen* either meand 'to use' [@next a] or 'to benefit' [@next b] with almost reversed argument marking.
+The verb *nutzen* either means 'to use' [@next a] or 'to benefit' [@next b] with almost reversed argument marking.
 
 ::: ex
 a. Der Arbeiter nutzt den Hebel.

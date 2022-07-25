@@ -591,66 +591,246 @@ the list includes the perfect of the transitive verb, sometimes not.
 > But only in very special circumstances. I have not changed this example.
 
 - p. 135 ‘Ich komme zu einem harmlosen Ergebnis. Gestern kam es zu einem Streit.’: The pair of examples contains different Funktionsvebrgefüge.
+
+> I disagree that this is a *Funktionsverbsgefüge* because *kommen dazu, dass* seems to be prominent. However, there is indeed a question whether all these construction still mean the same. I decided to keep this example in., and I hope that such example might bring up more discusion.
+
 - p. 135 6.34a The example means ‘He is missing/longing for his money’ not ‘He is lacking money’.
+
+> There is indeed some slight semantic shift in the meaning of *fehlen* here, but I have kept the example in so the two options can more easily be compared. A different choice of nouns might become more idiosyncrativ.
+
 - p. 136 6.35b Compare Mir ist kalt with Ich bin kalt; it is a well-known cross-linguistically that experiencer subjects are realized in the dative case.
+
+> Agree, but this book is about German.
+
 - p. 138 6.39d Hände is not a real instrument but – following the analysis of Van Valin & Wilkins (1996) – an implement. It might be worth taking this into account as it explains the ungrammaticality of the example. See, also, Van Hooste (2018).
+
+> Thanks for the references, I added a bit more discussion at this point. However, note (as an aside) that I do not agree with the notion of 'explain' as proposed in this comment. The different usage defines the grouping of roles IMO, so any explanation on this basis would be circular.
+
 - p. 138 ‘who produces the source’: If ‘source’ is intended to be a grammatical term, you should rephrase is by ‘the referent of the source argument’ or something like this. Otherwise, I am not sure what this sentence is intended to mean. I also think that ‘produce’ is not appropriate (see comment above).
+
+> rephrased
+
 - p. 141 It is claimed that the ‘present tense’ is not possible for intransitive öffnen. If this is really what the author wants to say, it is wrong. Die Tür öffnet automatisch [...]. https://www.welt.de/wirtschaft/webwelt/article179800530/Smart-Locks-Diese-smarten-Schloesser-oeffnen-dieHaustuer-selbststaendig.html; 03.01.2022
+
+> Thanks for pointing this out. The verb *öffnen* was a poor choice here for the point I wanted to make. I have replaced the examples based on the verb *putzen*.
+
 - p. 141 6.50d The example is odd, but ‘Der Zoo öffnet’ is fine.
+
+> see above
+
 - p. 141 ‘Die Soldaten rücken in die Kaserne’: I think the right verb is einrücken not just rücken
+
+> This example is from the DWDS dictionary. I have added a link.
+
 - p. 141 ‘Das hohe Gehalt zieht ihn nach Australien. Er zieht nach Australien’: These are two different meanings of ziehen.
+
+> I agree that there is some semantic shift here, but the similarity between the meaning is striking nonetheless. I leave this example in.
+
 - p. 141 ‘Ich schwemme das Pferd im Fluß’: Totally ungrammatical
+
+> The example is taken from the DWDS dictionary. I have added a link.
+
 - p. 141 6.51 in dem Korb
+
+> done
+
 - p. 142 ‘The generalization seem to be’: seems
+
+> done
+
 - p. 143 6.57c dem Brief
+
+> done
+
 - p. 144 ‘Der Knoten platzt’: This is an idiom, a better example would be ‘Der Ballon platzt’
+
+> Agree. Changed.
+
 - p. 145 **Examples**: Why ‘*’?
+
+> Markdown to Latex to PDF conversion error :)
+
 - p. 145 ‘The possessor of the prepositional phrase’: It is not the possessor of the phrase but of its referent.
+
+> rephrased
+
 - p. 147 For argument alternations concerning kratzen cf. Fleischhauer (2018). Also for beißen, zwicken (page 149, 163) and schlagen, treten (page 150).
+
+> great article, it is discussed in the text. However, I think *kratzen* does not belong in (9a), it seems to have rather different morphosyntactic characteristics (I have added some discussion about this verb). *zwicken* does not occur in the article, but you are right that it is wrongly listed here.
+
 - p. 148 In how far does affectedness play a role in the examples in 6.67a and c? What notion of ‘affectedness’ is used in this analysis?
-- p. 148 ‘Ich küsse auf deine Wange’: Ich küsse dich auf deine Wange.   
+
+> All antipassives seems to be related to some kind of change in affectedness. I explicitly refrain from any detailed semantic analysis in this book, so other than some broad indications I will not go into detail here.
+
+- p. 148 ‘Ich küsse auf deine Wange’: Ich küsse dich auf deine Wange.  
+
+> right, *küssen* is wrong here. removed.
+
 - p. 148 ‘Ich treffe auf das Tor’: I prefer in rather than auf. I think the preposition has a spatial meaning and use can say something like Ich treffe ihn auf den Kopf or Ich treffe auf das Auto meaning ‘on top of the car’.
+
+> moved *treffen* to *in* antipassive
+
 - p. 148 ‘Ich spreche Englisch. Ich spreche auf English’: This alternation shows contrast between having an abilitiy and doing something in a specific way. The first sentence means ‘I have the ability to speak English’ and the second one means ‘I am speaking in English’.
+
+> Indeed. And such a change in meaning is typical for diatheses! I have added a note on this difference.
+
 - p. 148 ‘The verbs hören and achten show considerable semantic shift in this alternation’: Be more precise, how are they shifting? As I mentioned above, the same is true of other verbs.
+
+> It goes beyond the current book to delve into all the different lexical changes. I just make some notes here and there for future research. No change.
+
 - p. 149 Further examples of 6.7.6.5: Does affectedness really play a role? Is it not the case that the subject referent plays a different role in the two sentences of each pair? The last sentence for example expresses a contrast for the subject being either the ‘Fahrer’ (first sentence) or just a ‘Mitfahrer’ (second sentence)?
+
+> The intended meaning is of an instrument with which the driving is performed, not the comitative of the driving. I have slightly changed the example to prevent this confusion.
+
 - p. 150 6.70b I prefer the sentence without mit. 6.70c I prefer einander rather than miteinander. 
+
+> right. I did some quick corpus research and I have to agree that this was wrong. *Heiraten* indeed does not seem to occur at all this a *mit* comitative. Removed example and verb from this section. 
+
 - p. 150 ‘Accusative objects that alternate with an von prepositional phrase’: a
+
+> done
+
 - p. 151 ‘Ich nasche ein par Beeren’: paar
+
+> done
+
 - p. 151 ‘Ich verfüge einen Einreisestopp. Ich verfüge über viel Geld’: Two entirely different senses. The first sentence means ‘to order something’, the second one means ‘to have something at one’s disposal’. The same is true of the pair ‘Ich halte dich. Ich halte zu dir’. I am not sure whether it makes sense comparing such sentence pairs. I do not think that the different interpretations are derived by the alternation but that each sense has its own argument realization pattern. Thus, in my view it does not make sense speaking of an alternation in such cases.
+
+> I agree that there is quite some semantic difference in these examples, but they are still close enough together to be 'on the list' of considerations. As I have done with all such examples, I have added a note section to explain the problematic situation. The *zu* cases are all borderline, and I have explicitly said to.
+
 - p. 151 6.72c The sentence is ok, why ‘*’?
+
+> I disagree. This sentence is not OK without a location prepositional phrase. I have tried to find an example without such a location, but I was unable. No change.
+
 - p. 151 6.73a I think the PP is not optional but required in this example.
+
+> Indeed, that is an interesting difference between the two examples listed here. I have a few lines to highlight this difference.
+
 - p. 152 ‘Sie wichen vor der Polizei’: The sentence is ungrammatical without zurück.
+
+> I disagree: there are attested examples. I have replaced the constructed example with an attested corpus example.
+
 - p. 153 ‘Ich zeige das Haus an den Käufer’: ungrammatical; the same with ‘Er entzieht das Sorgerecht von ihr‘.
+
+> I agree. Both examples have been removed.
+
 - p. 154 ‘Ich zögere damit, Maßnahmen zu nehmen.’: Nehmen does not work here, use ergreifen instead.
+
+> Great improvement. done.
+
 - p. 155 ‘The genitive ditransitive in this group allow’: allows 
+
+> corrected
+
 - p. 155 ‘Er beraubt dich von deinen Rechten’: ungrammatical
+
+> Indeed. Moved verb to another section in Chapter 5
+
 - p. 156 ‘Es kommt an auf die Eleganz. Mir kommt es an auf die Eleganz.’: In both sentences, an should go to the end of the sentence.
+
+> changed
+
 - p. 156 6.78c Start with a capital letter.
+
+> done
+
 - p. 157 First example without punction mark.
+
+> corrected
+
 - p. 157 ‘In such constructions are location seems obligatory’: the instead of are?
+
+> corrected
+
 - p. 157 ‘like in (6.79), and example’: examples (?)
+
+> corrected
+
 - p. 157 ‘or the Accusative’: accusative
+
+> corrected
+
 - p. 157 ‘dass... Phrase’: phrase
+
+> corrected
+
 - p. 158 ‘ich schwitze einen Fleck in meinen Hemd.’: mein Hemd
+
+> corrected
+
 - p. 158 ‘Sie gräbt das Frühstück aus dem Rucksack’: graben is used metaphorically, why don’t you use an example like: ‘Sie gräbt die Kartoffeln aus dem Boden’?
+
+> good suggestion, changed accordingly.
+
 - p. 159 6.83c Is this really an attested example? Even if, it is clearly idiomatic.
+
+> added a corpus example instead
+
 - p. 159 6.84d The sentence can also mean: ‘Ich befehlige die Armee, die an der Front ist‘ 
+
+> added a sentence indicating this interpretation
+
 - p. 159 Last one of the further examples: Start with a capital letter
+
+> corrected
+
 - p. 160 Punctuation mark missing after the second sentence.
+
+> corrected
+
 - p. 160 ‘Maybe the als alternation’: What kind of alternation is meant?
+
+> removed from the text
+
 - p. 161 6.86a Does not work for me, better ‘Ich breche das Brot’ but even this is somehow strange. I prefer a resultative-XP (Ich breche XY in zwei Teile) or the prefix zer(Ich zerbreche den Stein). Similarly for example g. (Durch das Zerbrechen des Steins...).
 Although in the further examples (why does the brechen-example occur there again?).
+
+> changed example from *brechen* to *waschen*
+
 - p. 161. brechen does not fit into the class of verbs listed under ‘attested examples’ as brechen is the only resultative verb (the other verbs are non-resultative).
+
+> Depends on the definition of 'resultative', a highly polysemous term in German linguistics. But anyway: the whole approach of this book is that the list of verbs for each diathesis is inductively produced. Whether or not the resulting verbs form a closely-knit semantic class or not is secondary.
+
 - p. 161 6.86e/f einen Kristall
+
+> corrected (but later complete example removed)
+
 - p. 162d I think the example is ok. Attested: Ich gewinne dir den Hauptpreis. 5 https://www.wattpad.com/amp/1012317047; 06.01.2022
+
+> I think that is exactly what I say in the text. No change
+
 - p. 163 6.92a/b I think the examples are strange and I prefer the sentences without dative - pronouns.
+
+> I agree. The whole point about coreference has been removed. It was only tangentially important anyway.
+
 - p. 163 ‘Er steht mir zur Seite. Er steht zu meiner Seite.’: Two distinct meanings; the first sentence either contains a Funktionsverbgefüge or an idiom (depending on the analysis).
+
+> I agree, changed the example to a less idiomatic expression.
+
 - p. 163 ‘Ich falle vor deinen Füßen’: deine
+
+> corrected
+
 - p. 164 ‘verbs are have an accusative arguments’: argument
+
+> corrected
+
 - p. 164 Start the first of the further examples with a capital letter.
+
+> corrected
+
 - p. 164 Although ‘Ich jage dir den Anwalt auf den Hals’ is acceptable, the sentence ‘Ich jage den Anwalt auf deinen Hals’ is not. The example is an idiom, I think.
+
+> I have added a note for this observation. thx.
+
 - p. 165 ‘wegen seine Ehrlichkeit’: seiner
+
+> corrected
+
 - p. 166 ‘Er gießt Wasser an die Blumen’: This example is somehow strange. Maybe you can use an attested sentence?
+
+> changed *an* to *auf*. That is attested frequently. 
+
 - p. 171 7.6b Why is the sentence marked as ungrammatical? The sentence is perfectly acceptable!
 - p. 172 7.8b Punctuation mark is missing.
 - p. 172 7.7b/7.8b In the right context, the sentences are all right.
