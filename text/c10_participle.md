@@ -650,7 +650,7 @@ Keller & Sorace [@keller2003: 78, 90] define groups of predicates based on seman
 
 Similarly, Graf *et al.* [-@graf2017: 90] investigate six German verbs, viz. *fliegen* ‘to fly’, *rollen* ‘to roll’, *schweben* ‘to float, hover’, *schlingern* ‘to swerve, lurch’, *schwimmen* ‘to swim, float’, and *wirbeln* ‘to swirl, whirl’. However, these verbs belong to at least three clearly different syntactic groups determining *haben* vs. *sein*, so it seems unwarrented to treat them as a unitary group and simply average any effects as a gradient:
 
-- Manner of movement verbs, see [@sec:prepositions-manner-of-movement]: *schlingern, schweben*
+- Manner-of-movement verbs, see [@sec:prepositions-manner-of-movement]: *schlingern, schweben*
 - *sein* causative verbs, see [@sec:case-sein-causative]: *rollen, wirbeln*
 - Intransitive motion verbs, see [@sec:participles-haben-sein-perfect]: *fliegen, schwimmen*
 
@@ -2064,7 +2064,7 @@ There is a fascinating parallel between different kinds of *Pertinenzdativ* and 
 
 ### [ NA | PN ] *sein+Partizip* Conversive (*Erlebnispassiv*) {#sec:participles-sein-conversive}
 
-A group of emotional verbs like *verärgern* 'to irritate' [@next a] shows a special diathesis. When used with a *sein+Partizip* construction, the original nominative subject (i.e. the cause of the emotional reaction, here *Nachricht* 'notice') can be retained as a governed preposition. This preposition differs between the verbs. For exanple, the verb *verärgern* induces the preposition *über* [@next b]. The special status of this preposition can be shown by using the *da+Preposition, dass* paraphrase [@next c], see [@sec:prepositions-identifying-governed-prepositions].
+A group of emotional verbs like *verärgern* 'to irritate' [@next a] shows a special diathesis with the light verb *sein*. When used with a *sein+Partizip* construction, the original nominative subject (i.e. the cause of the emotional reaction, here *Nachricht* 'notice') can be retained as a governed preposition. This preposition differs between the verbs. For example, the verb *verärgern* induces the preposition *über* [@next b]. The special status of this preposition can be shown by using the *da+Preposition, dass* paraphrase [@next c], see [@sec:prepositions-identifying-governed-prepositions].
 
 ::: ex
 a. Die Nachricht verärgert mich.
@@ -2097,11 +2097,10 @@ d. ^* Ich habe mich von dem Witz angewidert.
 
 **Attested Verbs**
 
-- *von*  : *anekeln, anstrengen, anwidern, langweilen*
-- *über* : *amüsieren, aufregen, begeistern, entsetzen, enttäuschen, empören, erfreuen, erstaunen, erzürnen, überraschen, verärgern, verstören, verwundern*
-- *in*   : *begründen, interessieren*
-- *mit*  : *beschäftigen*
-- *durch*: *entspannen*
+- *in*   : *begründen, faszinieren, interessieren*
+- *mit*  : *beschäftigen, schmücken*
+- *über* : *amüsieren, aufregen, begeistern, beunruhigen, empören, entsetzen, enttäuschen, erfreuen, erstaunen, erzürnen, überraschen, verärgern, verstören, verwundern*
+- *von*  : *anekeln, anstrengen, anwidern, beruhigen, entspannen, langweilen, quälen*
 
 **Further Examples**
 

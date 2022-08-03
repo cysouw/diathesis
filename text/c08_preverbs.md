@@ -9,7 +9,7 @@ a. Ich umfahre den Polizisten.
 b. Ich fahre den Polizisten um.
 :::
 
-There is a massive literature on the German alternations induced by verb prefixes and verb particles, including complete monographs on individual preverbs, for example Felfe [-@felfe2012] on the many different alternations with the particle *an-*. However, most of this literature focusses on the semantic difference between a bare verb and a verb with a preverb. Changes in valency are mostly discussed only as an aside. In contrast, in this chapter the meaning of the preverbs will only play a secondary role. The focus will be on the valency change induced by the preverbs [cf. @eroms1980; @kim1983; @gunther1987; @wunderlich1987; @wunderlich1997; @geist2016 for similar approaches].
+There is a massive literature on the German alternations induced by verb prefixes and verb particles, including complete monographs on individual preverbs, for example Felfe [-@felfe2012] on the many different alternations with the particle *an-*. However, most of this literature focusses on the semantic difference between a bare verb and a verb with a preverb. Changes in valency are mostly discussed only as an aside. In contrast, in this chapter the meaning of the preverbs will only play a secondary role. The focus will be on the valency change induced by the preverbs [cf. @eroms1980; @kim1983; @gunther1987; @wunderlich1987; @wunderlich1997; @geist2016 for similar approaches]. Stiebels [@-stiebels1996] attempts to combine a lexical-semantic analysis with the structural changes induced by preverbs. 
 
 The central generalisation that can be extracted from the numerous examples in this chapter is that the structural effect of a preverb diathesis is to produce a verb with an accusative argument. This generalisation does not hold without special definitional stipulations (e.g. accusative reflexive pronouns have to be included) and there are various counterexamples (e.g. diatheses resulting in dative arguments), but overall the generalisation seems to be exceptionally strong (see [@sec:preverbs-always-accusative]). In a very broad sense, preverb diatheses can be seen as some kind of counterpart to reflexive diatheses as discussed in the previous chapter. Reflexive diatheses generally reduce the valency, while preverb diatheses tend to increase the valency.
 
@@ -295,7 +295,7 @@ b. Die gelagerten Kartoffeln. \
  
 **Attested Verbs**
 
-- verˈ-   : *lagern*
+- verˈ-   : *jagen, lagern*
 - beˈ-    : *fürchten, grüßen*
 - missˈ-  : *achten, billigen, blicken, brauchen, deuten, gönnen, handeln, hören, interpretieren, trauen, verstehen*
 - ˈan-    : *sehen*
@@ -306,14 +306,22 @@ b. Die gelagerten Kartoffeln. \
 
 **Further Examples**
 
-- Ich fürchte den Tod. Ich befürchte ein schlechtes Ergebnis.
-- Ich halte die Stellung. Ich halte den Kampf durch.
-- Ich bringe dich nach Hause. Ich bringe dich in dem Haus unter.
-- Ich sehe dich. Ich sehe dich an.
-- Ich fürchte das Prüfungsergebnis. Ich befürchte ein schlechtes Prüfungsergebnis.
-- Ich grüße dich. Ich begrüße dich.
-- Ich achte ihn. Ich missachte ihn.
-- Ich billige den Plan. Ich missbillige den Plan.
+- Ich fürchte den Tod. \
+  Ich befürchte ein schlechtes Ergebnis.
+- Ich halte die Stellung. \
+  Ich halte den Kampf durch.
+- Ich bringe dich nach Hause. \
+  Ich bringe dich in dem Haus unter.
+- Ich sehe dich. \
+  Ich sehe dich an.
+- Ich fürchte das Prüfungsergebnis. \
+  Ich befürchte ein schlechtes Prüfungsergebnis.
+- Ich grüße dich. \
+  Ich begrüße dich.
+- Ich achte ihn. \
+  Ich missachte ihn.
+- Ich billige den Plan. \
+  Ich missbillige den Plan.
 
 ### --- Preverb adjectives without diathesis --- {.unnumbered}
 
@@ -445,7 +453,7 @@ d. Ich überarbeite mich.
 
 **Attested Verbs**
 
-- verˈ-   : *laufen*
+- verˈ-   : *fahren, laufen, rechnen*
 - überˈ-  : *arbeiten, essen*
 - ˈdurch- : *lügen, mogeln*
 - ˈein-   : *arbeiten, singen*
@@ -487,7 +495,7 @@ b. Ich sehe dich an.
 
 ## Diatheses with subject demotion
 
-All examples in the following sections result in intranstive verbs. Keeping with the observation that preverb alternations tend to produce nominative/accusative constructions (see [@sec:preverbs-always-accusative]), preverb diatheses with subject demotion are exceedingly rare. Almost all the attested examples use verb prefixes. Examples with verb particles are almost non-existing. 
+All examples in the following sections result in intransitive verbs. Keeping with the observation that preverb alternations tend to produce nominative/accusative constructions (see [@sec:preverbs-always-accusative]), preverb diatheses with subject demotion are exceedingly rare. Almost all the attested examples use verb prefixes. Examples with verb particles are almost non-existing. 
 
 ### --- [ OBJ > SBJ > Ø ] --- {.unnumbered}
 
@@ -590,6 +598,18 @@ a. Ich lebe durch den Arzt.
 b. Der Arzt belebt mich.
 :::
 
+### [ -N | NA ] Preverb causative with reflexive loss
+
+An apparently idiosyncratic example is *schämen* 'to be ashamed' which takes an obligatory reflexive pronoun [@next a]. With the preverb *beschämen* 'to shame' is clearly a causative, but without a reflexive [@next b].
+
+::: ex
+- Ich schäme mich.
+- Sie beschämt mich.
+
+**Attested Verbs**
+
+- beˈ-  : *schämen*
+
 ### [ –N | NA ] Preverb adjectival causative {#sec:preverb-adjectival-causative}
 
 Many adjectives can be turned into verbs by adding a prefix. The semantic effect is to turn a state, like *grün sein* 'to be green [@next a] into a causative process *begrünen* 'to make green' [@next b]. Note that in some cases possible intermediate verbs like *grünen* existed (or still exist). However, the vebrs in this section consists of examples in which such an intermediate non-preverbal form is not, or only very rarely, attested.
@@ -633,8 +653,8 @@ Note that there are also a few examples of prefixed adjectives in which an accus
 
 **Attested Verbs**
 
-- beˈ-  : *ängstig, fähig, frei, günstig, grün, ruhig, schuldig, schwer*
-- erˈ-  : *bitter, böse, hart, hell, hoch, kalt, leichter, matt, müde, munter, mutig, neu, niedrig, rege, schlaff, weich*
+- beˈ-  : *ängstig, fähig, frei, günstig, grün, ruhig, schuldig, schwer, unruhig*
+- erˈ-  : *bitter, böse, hart, hell, hoch, kalt, leichter, matt, müde, munter, mutig, neu, niedrig, rege, schlaff, warm, weich*
 - verˈ- : *besser, breit, deutlich, dunkel, edel, einfach, eng, größer, harmlos, herrlich, länger, niedlich, klein, kurz, länger, langsam, mehr, schön, schöner, start*
 - zerˈ- : *mürbe*
 - entˈ- : *rund*
@@ -658,11 +678,11 @@ Preverbs can also be added to nominal roots, deriving a causative verb in the pr
 ::: ex
 a. Ich beschädige den Zaun. \
    (= Ich verursache, dass der Zaun Schaden hat.)
-b. Der Beamte bürgert den Flüchtlich ein. \
+b. Der Beamte bürgert den Flüchtling ein. \
    (= Der Beamte verursacht, dass der Flüchtling zum Bürger wird.)
 :::
 
-The prefix *entˈ-* includes in inherent negation, leading to verbs that express that the object does not have the nominal preperty, like *entwaffnen* 'to disarm, i.e. to cause not to have arms] [@next b]. The prefix *erˈ-* seems to have a slightly different role-structure in that there is an experiencer involved, either the subject, like in *erbeuten* [@next b], or the object, like in *erdolchen* [@next b].
+The prefix *entˈ-* includes in inherent negation, leading to verbs that express that the object does not have the nominal property, like *entwaffnen* 'to disarm, i.e. to cause not to have arms] [@next b]. The prefix *erˈ-* seems to have a slightly different role-structure in that there is an experiencer involved, either the subject, like in *erbeuten* [@next b], or the object, like in *erdolchen* [@next b].
 
 ::: ex
 a. Der Polizist entwaffnet den Dieb. \
@@ -681,6 +701,19 @@ c. Die Piraten erdolchen den Kapitän. \
 - entˈ- : *entkalken, entthronen, entrinden, entsalzen, entschlüsseln, entwaffnen, entwalden, entwassern, entziffern*
 - ˈein- : *einbürgern, eingemeinden*
 - ˈab-  : *abgrenzen*
+- ˈauf- : *auftischen*
+
+A special subclass of nouns produced a inherently reciprocal verb when combined with a preverb. For example, the noun *Bruder* 'brother' is the basis of the verb *verbrüdern* 'to fraternise', i.e. 'to become brothers' [@next]. This verb is inherently reciprocal (~~reciproca tantum~~), see [@sec:reflexive-real-reciprocals].
+
+::: ex
+- Wir verbrüdern uns (miteinander). \
+  (= Wir machen uns zu Brüdern.)
+:::
+
+**Attested Verbs**
+
+- ˈan-  : *anfreunden*
+- verˈ- : *verbrüdern, verbünden, verfeinden*
 
 ### [ –NP | NAP ] Preverb causative+preposition
 
@@ -1127,6 +1160,7 @@ Lipka [-@lipka1972: 93, 173] calls this diathesis 'Objektvertauschung' and McInt
 **Attested Verbs**
 
 - beˈ-   : *erben, rauben, stehlen*
+- verˈ-  : *drängen, legen, scheuchen, stellen, treiben*
 - zerˈ-  : *beißen, drücken, fressen, kauen*
 - überˈ- : *schwemmen*
 - ˈaus-  : *klopfen, lecken, packen, pressen, pumpen, rauben, schütten, trinken*
@@ -1137,20 +1171,36 @@ Lipka [-@lipka1972: 93, 173] calls this diathesis 'Objektvertauschung' and McInt
 
 **Further Examples**
 
-- Ich erbe die Uhr von meinem Vater. Ich beerbe meinen Vater.
-- Ich klopfe den Staub von dem Mantel. Ich klopfe den Mantel aus.
-- Ich packe den Pullover in meinen Koffer. Ich packe meinen Koffer aus/ein.
-- Ich pumpe das Wasser aus dem Keller. Ich pumpe den Keller aus.
-- Ich trinke Wasser aus meiner Tasse. Ich trinke meine Tasse aus.
-- Ich raube das Gemälde aus der Wohnung. Ich raube die Wohnung aus.
-- Die Motten fressen ein Loch in den Pullover. Die Motten zerfressen den Pullover.
-- Die Welle hat das Holz an Land geschwemmt. Die Welle hat das Land überschwemmt.
-- Ich schütte das Wasser aus dem Eimer. Ich schütte den Eimer aus.
-- Ich werfe Kohle auf den Grill. Ich werfe den Grill an.
-- Ich bürste den Staub von dem Rock. Ich bürste den Rock ab.
-- Ich gieße Wasser auf den Tee. Ich gieße den Tee auf.
-- Ich räume meine Sachen in die neue Wohnung. Ich räume die neue Wohnung ein.
-- Ich ziehe das Laken von dem Bett. Ich ziehe das Bett ab.
+- Ich erbe die Uhr von meinem Vater. \
+  Ich beerbe meinen Vater.
+- Ich klopfe den Staub von dem Mantel. \
+  Ich klopfe den Mantel aus.
+- Ich packe den Pullover in meinen Koffer. \
+  Ich packe meinen Koffer aus/ein.
+- Ich pumpe das Wasser aus dem Keller. \
+  Ich pumpe den Keller aus.
+- Ich trinke Wasser aus meiner Tasse. \
+  Ich trinke meine Tasse aus.
+- Ich raube das Gemälde aus der Wohnung. \
+  Ich raube die Wohnung aus.
+- Die Motten fressen ein Loch in den Pullover. \
+  Die Motten zerfressen den Pullover.
+- Die Welle hat das Holz an Land geschwemmt. \
+  Die Welle hat das Land überschwemmt.
+- Ich schütte das Wasser aus dem Eimer. \
+  Ich schütte den Eimer aus.
+- Ich werfe Kohle auf den Grill. \
+  Ich werfe den Grill an.
+- Ich bürste den Staub von dem Rock. \
+  Ich bürste den Rock ab.
+- Ich gieße Wasser auf den Tee. \
+  Ich gieße den Tee auf.
+- Ich räume meine Sachen in die neue Wohnung. \
+  Ich räume die neue Wohnung ein.
+- Ich ziehe das Laken von dem Bett. \
+  Ich ziehe das Bett ab.
+- Ich treibe die Kühe auf die Weide. \
+  Ich vertreibe die Kühe.
 
 ## Diatheses with promotion to object {#sec:preverb-promotion-to-object}
 
@@ -1796,27 +1846,49 @@ Some applicatives turn a prepositional phrase into a dative. For example, *stamm
 - entˈ-  : *eilen, fliegen, fliehen, fließen, gehen, gleiten, kommen, laufen, springen, sprießen, steigen, stammen, strömen, wachsen, weichen*
 - ˈan-   : *hängen (gehangen)*
 - ˈnach- : *fahren, gehen, hinken, jagen, laufen, reiten, rennen, schwimmen, rufen, schreien, schauen, sehen*
-- ˈzu-   : *arbeiten, lachen, laufen, nicken, reden*
+- ˈzu-   : *arbeiten, hören, lachen, lächeln, laufen, nicken, prosten, reden, sich wenden, schauen, trinken, winken, zwinkern*
 - ˈbei-  : *liegen, stehen, stimmen*
 
 **Further Examples**
 
-- Ich lache freundlich zu dir. Ich lache dir freundlich zu.
-- Der Wagen fuhr zu mir. Der Wagen fuhr auf mich zu.
-- Er arbeitet für mich. Er arbeitet mir zu.
-- Meine Freunde haben zu mir geredet. Meine Freunde haben mir zugeredet.
-- Sein Referat mangelt an jeglicher Sachkenntnis. Sein Referat ermangelt jeglicher Sachkenntnis.
-- Die Kinder haben immer mit Liebe an ihren Eltern gehangen. Seine Vergangenheit hat ihm noch angehangen.
-- Ich rufe nach dir. Ich rufe dir nach.
-- Ich gehe hinter dir. Ich gehe dir nach.
-- Er fährt in ihrer Spur. Er ist ihrer Spur nachgefahren.
-- Die Rechnung liegt in dem Brief. Die Rechnung liegt dem Brief bei.
-- Die Polizei jagte auf einen Verbrecher. Die Polizei jagte dem Verbrecher nach.
-- Ich rede mit ihm. Ich rede ihm zu.
-- Ich nicke zu dem Kind. Ich nicke dem Kind zu.
-- Er floh vor dem Feind. Er entfloh der Gefahr.
+- Ich lache freundlich zu dir. \
+  Ich lache dir freundlich zu.
+- Der Wagen fuhr zu mir. \
+  Der Wagen fuhr auf mich zu.
+- Er arbeitet für mich. \
+  Er arbeitet mir zu.
+- Meine Freunde haben zu mir geredet. \
+  Meine Freunde haben mir zugeredet.
+- Sein Referat mangelt an jeglicher Sachkenntnis. \
+  Sein Referat ermangelt jeglicher Sachkenntnis.
+- Die Kinder haben immer mit Liebe an ihren Eltern gehangen. \
+  Seine Vergangenheit hat ihm noch angehangen.
+- Ich rufe nach dir. \
+  Ich rufe dir nach.
+- Ich gehe hinter dir. \
+  Ich gehe dir nach.
+- Er fährt in ihrer Spur. \
+  Er ist ihrer Spur nachgefahren.
+- Die Rechnung liegt in dem Brief. \
+  Die Rechnung liegt dem Brief bei.
+- Die Polizei jagte auf einen Verbrecher. \
+  Die Polizei jagte dem Verbrecher nach.
+- Ich rede mit ihm. \
+  Ich rede ihm zu.
+- Ich nicke zu dem Kind. \
+  Ich nicke dem Kind zu.
+- Er floh vor dem Feind. \
+  Er entfloh der Gefahr.
+- Ich wende mich zu dir. \
+  Ich wende mich dir zu.
 
 ### [ NpA | NDA ] Preverb dative applicative+accusative
+
+- [NAp-] Er flüstert etwas zu ihr.
+- [NAD-] Er flüstert ihr etwas zu. (preverb!!!)
+- [NADL] Er flüstert ihr etwas ins Ohr (resultative!!!)
+
+*zu-* pattern productive ?! [@wiemer2007: 472]: this diathesis mostly with verbs of communication!
 
 **Attested Verbs**
 
@@ -1824,28 +1896,42 @@ Some applicatives turn a prepositional phrase into a dative. For example, *stamm
 - entˈ-   : *locken, nehmen, reißen, ziehen*
 - ˈan-    : *hängen (gehängt), kleben, stecken*
 - ˈab-    : *gewinnen, handeln, nehmen*
+- ˈauf-   : *packen*
+- ˈaus-   : *setzen, treiben, ziehen*
 - ˈbei-   : *fügen, legen, mischen*
 - ˈüber-  : *legen, werfen*
-- ˈunter- : *schieben*
-- ˈaus-   : *setzen, treiben, ziehen*
-- ˈauf-   : *packen*
 - ˈum-    : *wickeln*
+- ˈunter- : *schieben*
+- ˈzu-    : *flüstern, pfeifen, rufen, schreien, spielen, tuscheln, treiben*
 
 **Further Examples**
 
-- Ich kläre die Frage (mit dir). Ich erkläre dir die Antwort.
-- Ich habe ein Schild an die Wand gehängt. Ich habe meinem Widersacher einen Prozess angehängt.
-- Ich nehme das Geld von dir. Ich nehme dir das Geld ab.
-- Ich füge eine Zollerklärung zu dem Paket. Ich füge dem Paken eine Zollerklärung bei.
-- Ich ziehe eine Feder aus dem Vogel. Ich ziehe dem Vogel eine Feder aus.
-- Ich schiebe den Stuhl unter den Tisch. Ich schiebe dir ein Kissen unter.
-- Ich treibe den Eigensinn aus dem Kind. Ich treibe dem Kind den Eigensinn aus.
-- Ich habe den Hund in seine Hütte gesetzt. Ich habe den Hund der Kälte ausgesetzt.
-- Ich nehme das Geld aus der Brieftasche. Ich entnehme der Brieftasche das Geld.
-- Ich locke Töne aus dem Instrument. Ich entlocke dem Instrument einige Töne.
-- Ich packe noch weitere Lasten auf den Esel. Ich packe dem Esel noch weitere Lasten auf.
-- Ich wickele ein Tuch um dich. Ich wickele dir ein Tuch um.
-- Sie klebt einen Bart an ihn. Sie klebt ihm einen Bart an.
+- Ich kläre die Frage (mit dir). \
+  Ich erkläre dir die Antwort.
+- Ich habe ein Schild an die Wand gehängt. \
+  Ich habe meinem Widersacher einen Prozess angehängt.
+- Ich nehme das Geld von dir. \
+  Ich nehme dir das Geld ab.
+- Ich füge eine Zollerklärung zu dem Paket. \
+  Ich füge dem Paket eine Zollerklärung bei.
+- Ich ziehe eine Feder aus dem Vogel. \
+  Ich ziehe dem Vogel eine Feder aus.
+- Ich schiebe den Stuhl unter den Tisch. \
+  Ich schiebe dir ein Kissen unter.
+- Ich treibe den Eigensinn aus dem Kind. \
+  Ich treibe dem Kind den Eigensinn aus.
+- Ich habe den Hund in seine Hütte gesetzt. \
+  Ich habe den Hund der Kälte ausgesetzt.
+- Ich nehme das Geld aus der Brieftasche. \
+  Ich entnehme der Brieftasche das Geld.
+- Ich locke Töne aus dem Instrument. \
+  Ich entlocke dem Instrument einige Töne.
+- Ich packe noch weitere Lasten auf den Esel. \
+  Ich packe dem Esel noch weitere Lasten auf.
+- Ich wickele ein Tuch um dich. \
+  Ich wickele dir ein Tuch um.
+- Sie klebt einen Bart an ihn. \
+  Sie klebt ihm einen Bart an.
 
 ## Symmetrical diatheses
 

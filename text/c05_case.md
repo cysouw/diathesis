@@ -261,7 +261,7 @@ There are a few verbs in German that have a genitive argument. These verbs are s
 
 **Further Examples**
 
-- Ich muss leider seiner Mitarbeit entraten. (Meaning like *verzichten*)
+- Ich muss leider seiner Mitarbeit entraten. ('verzichten')
 - Die Methode entübrigt des Putzens.
 - Der Versuch ermangelt jeglicher Vernunft.
 - Ich gedenke der Toten.
@@ -361,11 +361,16 @@ d. Die Miete wird monatlich gezahlt.
 
 **Further Examples**
 
-- Der Laster wiegt einen Zentner. Wieviel/was wiegt der Laster?
-- Der Tisch kostet ein Jahresgehalt. Wieviel/was kostet der Tisch?
-- Der Knochen wächst einen Millimeter pro Tag. Wieviel/*was wächst der Knochen?
-- Ich rechne eine Flasche Wein pro Person. Wieviel/^?^was rechnest du pro Person?
-- Er hat zehn Kilo zugenommen. Wieviel/*was hat er zugenommen?
+- Der Laster wiegt einen Zentner. \
+  Wieviel/was wiegt der Laster?
+- Der Tisch kostet ein Jahresgehalt. \
+  Wieviel/was kostet der Tisch?
+- Der Knochen wächst einen Millimeter pro Tag. \
+  Wieviel/*was wächst der Knochen?
+- Ich rechne eine Flasche Wein pro Person. \
+  Wieviel/^?^was rechnest du pro Person?
+- Er hat zehn Kilo zugenommen. \
+  Wieviel/*was hat er zugenommen?
 - Sie dürfen […] den eigenen Spielstein ein Feld vorrücken.^[~~DWDS~~: Berliner Zeitung, 15.01.2000.]
 
 ### [ NAA ] Nominative+accusative+named object {#sec:case-named-objects}
@@ -426,10 +431,14 @@ b. Der Wind weht.
 
 **Further Examples**
 
-- Der Nachbar klingelt an der Tür. An der Tür klingelt es. 
-- Der Müll riecht. Hier riecht es. 
-- Das Wasser kühlt ab. Morgen kühlt es ab.
-- Das Kochen klappt noch nicht so gut. Jetzt klappt es. 
+- Der Nachbar klingelt an der Tür. \
+  An der Tür klingelt es. 
+- Der Müll riecht. \
+  Hier riecht es unangenehm. 
+- Das Wasser kühlt ab. \
+  Morgen kühlt es ab.
+- Das Kochen klappt noch nicht so gut. \
+  Jetzt klappt es. 
 
 ### [ NA | –A ] Nominative drop+accusative {#sec:case-nominativ-drop-accusative}
 
@@ -451,7 +460,8 @@ b. Dieses Jahr gibt es einen guten Wein.
 
 **Further Examples**
 
-- Der Verkäufer gibt den Lutscher gratis dazu. Den Lutscher gibt es gratis dazu.
+- Der Verkäufer gibt den Lutscher gratis dazu. \
+  Den Lutscher gibt es gratis dazu.
 
 ### [ ND | –D ] Nominative drop+dative {#sec:case-nominativ-drop-dative}
 
@@ -725,9 +735,12 @@ b. Ich habe den Baum gefällt.
 
 **Further Examples**
 
-- Das Schiff sinkt. Ich senke die Fahne.
-- Der Hund springt. Ich sprenge das Gebäude.
-- Das Kind saugt. Die Mutter säugt das Kind.
+- Das Schiff sinkt. \
+  Ich senke die Fahne.
+- Der Hund springt. \
+  Ich sprenge das Gebäude.
+- Das Kind saugt. \
+  Die Mutter säugt das Kind.
 
 ### [ –N | NA ] *Umlaut* Adjectival causative {#sec:case-umlaut-adjectival-causative}
 
@@ -805,9 +818,12 @@ What is left over is just an apparently small group of transitive verbs that all
 
 **Further Examples**
 
-- Er regiert das Land. Die Vernunft regiert hier.
-- Er studiert den Fahrplan. Er studiert von früh bis abends.
-- Der deutsche Staatssekretär nervt den malischen Minister. Du nervst.
+- Er regiert das Land. \
+  Die Vernunft regiert hier.
+- Er studiert den Fahrplan. \
+  Er studiert von früh bis abends.
+- Der deutsche Staatssekretär nervt den malischen Minister. \
+  Du nervst.
 
 ### [ NAA | NA– ] Accusative drop+accusative {#sec:case-double-accusative-drop}
 
@@ -918,12 +934,12 @@ c. Ich verbiete das Rauchen.
 
 **Attested Verbs**
 
-- Verbal performatives: *aussprechen, befehlen, beschreiben, beweisen, bieten, empfehlen, erlauben, erzählen, gestehen, gestatten, mitteilen, nahelegen, nennen, verbieten, verraten, verschreiben, versprechen, verweigern, vorschlagen, vorschreiben, wünschen, zuneigen*
+- Verbal performatives: *aussprechen, befehlen, beschreiben, beweisen, bieten, empfehlen, erlauben, erzählen, gestehen, gestatten, mitteilen, nahelegen, nennen, verbieten, verraten, verschreiben, versprechen, verweigern, vorschlagen, vorschreiben, wünschen*
 - Non-verbal performatives: *reichen, vorführen, vormachen, zahlen*
 
 **Further Examples**
 
-- Ich spreche (dir) den Dank alles Kollegen aus.
+- Ich spreche (dir) den Dank aller Kollegen aus.
 - Ich erzähle (dir) eine Geschichte.
 - Ich nenne (dir) den Namen.
 - Ich verbiete (dir) das Rauchen.
@@ -933,11 +949,11 @@ c. Ich verbiete das Rauchen.
 - Ich mache (dir) die Tanzschritte vor.
 - Die Gesetze schreiben (dir) eine solche Überprüfung vor.
 - Ich wünsche (dir) ein schönes Leben.
-- Er hatte ihr seinen Kopf zugeneigt. Ich neige dieser Ansicht zu.
-- Ich lege dir den Rücktritt nahe. Das Foto legt seine Schuld nahe.
 - Ich befehle (dir) Gehorsamkeit.
 - Ich schlage (dir) ein Kompromiss vor.
 - Ich beweise (dir) meine Unschuld.
+- Ich lege dir den Rücktritt nahe. \
+  Das Foto legt seine Schuld nahe.
 
 **Notes**
 
@@ -981,10 +997,14 @@ Given that there are already very few verbs with genitive arguments in German, i
 
 **Further Examples**
 
-- Ich klage dich des Diebstahls an. Ich klage dich an.
-- Ich belehre dich eines Besseren. Ich belehre dich.
-- Ich überführe den Mörder eines Verbrechens. Ich werde den Mörder überführen.
-- Ich beraube dich deiner Rechte. Er beraubt dich.
+- Ich klage dich des Diebstahls an. \
+  Ich klage dich an.
+- Ich belehre dich eines Besseren. \
+  Ich belehre dich.
+- Ich überführe den Mörder eines Verbrechens. \
+  Ich werde den Mörder überführen.
+- Ich beraube dich deiner Rechte. \
+  Er beraubt dich.
 
 ## Diatheses with promotion to object
 
@@ -1049,8 +1069,10 @@ b. Im Jahre 1932 hagelte es einen Schauer neuer Gesetze. \
 
 **Further Examples**
 
-- Es schneit. Gestern hat es dicke Flocken geschneit.
-- Es regnet. Gestern hat es nur einzelne Tropfen geregnet.
+- Es schneit. \
+  Gestern hat es dicke Flocken geschneit.
+- Es regnet. \
+  Gestern hat es nur einzelne Tropfen geregnet.
   
 ### --- [ ADJ > OBJ ] --- *Pertinenzdativ* {.unnumbered}
 
@@ -1211,9 +1233,9 @@ I know of only a few verbs with this very special passive-like diathesis. There 
 
 Some verbs allow for the same role being expressed with different case marking. These seem to be all incidental cases, mostly verbs in the midst of a diachronic change.
 
-### [ A | D ] Accusative-to-dative
+### [ A | D ] Accusative-to-dative {#sec:case-accusative-dative}
 
-A few experiencer verbs with an original accusative argument are currently considered rather old-fashioned in German [@next a]. Instead of the original accusative sometimes they are attested with a dative [@next b]. Note that some of these verbs also have a governed preposition [@next c] and a reflexive alternation [@next d].
+A few experiencer verbs with an original accusative argument are currently considered rather old-fashioned in German [@next a]. Instead of the original accusative sometimes they are attested with a dative [@next b]. Note that some of these verbs also have a governed preposition [@next c] and a reflexive alternation [@next d], see also [@sec:reflexive-accusative-to-nominative].
 
 ::: ex
 a. Mich graut.

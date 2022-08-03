@@ -26,13 +26,13 @@ c. Er schaut über meine Schulter. \
    Er schaut mir über die Schulter. 
 :::
 
-Prepositional phrases in German are partly governed arguments and partly non-governed adverbial phrases. This distinction is not overtly marked and leads to recurrent ambiguity, e.g. between *warten auf* 'to wait for something' and *warten auf* 'to wait while being on top of something' [@next]. It is of central importance to clearly delimit governed from non-governed prepositions, as discussed extensively in [@sec:prepositions-delimiting-governed-prepositional-phrases]).
+Prepositional phrases in German are partly governed arguments and partly non-governed adverbial phrases. This distinction is not overtly marked and leads to recurrent ambiguity, e.g. between *warten auf* 'to wait for something' and *warten auf* 'to wait while being on top of something' [@next]. It is of central importance to clearly delimit governed from non-governed prepositions, as discussed extensively in [@sec:prepositions-delimiting-governed-prepositional-phrases].
 
 ::: ex
 Der König wartet auf seinem alten Thron auf seinen neuen Thron.
 :::
 
-There are fourteen local groups of diatheses that seem prominent enough to be given a German name. I propose the following names for these:
+There are fifteen local groups of diatheses that seem prominent enough to be given a German name. I propose the following names for these:
 
 - ~~[ADJ › SBJ › Ø] Instrumentsubjektivierung~~ (see [@sec:prepositions-intransitive-preposition-anticausative] ff.)
 - ~~[PBJ › SBJ › Ø] Kreationsubjektivierung~~ (see [@sec:prepositions-fabricative-accusative] ff.)
@@ -43,6 +43,7 @@ There are fourteen local groups of diatheses that seem prominent enough to be gi
 - ~~[Ø › PBJ] Ergänzende Wirkung~~ (see [@sec:prepositions-performative-result]
 - ~~[Ø › OBJ › PBJ] Resultativ~~ (see [@sec:prepositions-action-result])
 - ~~[ADJ › OBJ] Benefaktivdativ~~ (see [@sec:prepositions-benefactive-dative])
+- ~~[ADJ › OBJ] Beurteilerdativ~~ (see [@sec:prepositions-judgement-dative])
 - ~~[ADJ › OBJ] Ortspertinenzdativ~~ (see [@sec:prepositions-possessor-of-location-to-dative-experiencer] ff.)
 - ~~[ADJ › OBJ › PBJ] Pertinenzakkusativ~~ (see [@sec:perpositions-possessor-applicative])
 - ~~[ADJ › OBJ › ADJ] Vollapplikativ~~ (see [@sec:prepositions-instrument-applicative])
@@ -133,7 +134,7 @@ b. ^* Der Unfall ereignete sich.
 c. Der Unfall ereignete sich vor Sonnenuntergang.
 :::
 
-Some locations become obligatory through diatheses, for example with datives that are introduced by raising possessors [@next], see [@sec:prepositions-possessor-of-location-to-dative-experiencer], or dynamic 'manner of movement' prepositional phrases [@nnext], see [@sec:prepositions-manner-of-movement].
+Some locations become obligatory through diatheses, for example with datives that are introduced by raising possessors [@next], see [@sec:prepositions-possessor-of-location-to-dative-experiencer], or dynamic 'manner-of movement' prepositional phrases [@nnext], see [@sec:prepositions-manner-of-movement].
 
 ::: ex
 a. Der Ball fällt (auf dem Boden).
@@ -409,18 +410,19 @@ The verb *belassen bei* 'to rest a matter with' [@next] appears to have an oblig
 
 ### [ Np ] Bare reciprocal *mit* {#sec:prepositions-bare-reciprocal}
 
-A few verbs have a special obligatory reciprocal role marked with the preposition *mit*, e.g. *kooperieren* 'to cooperate' [@next a,b]. This role can be identified by the alternative formulation with a plural subject and the reciprocal marker *miteinander* [@next c]. It is possible to add an additional comitative prepositional phrase *zusammen mit*, but not as an alternative for the reciprocal role [@next d].
+A few verbs have a special obligatory reciprocal role marked with the preposition *mit* [cf. @wiemer2007: 497], e.g. *kooperieren* 'to cooperate' [@next a], which can normally not be used with a singular subject without the *mit* phrase [@next b]. Such verbs can be identified by the alternative formulation with a plural subject and the reciprocal marker *miteinander* [@next c], but not with *sich* [@next d]. It is possible to add an additional comitative prepositional phrase *zusammen mit*, but not as an alternative for the reciprocal role [@next e].
 
 ::: ex
 a. Karl kooperiert mit Anna.
 b. ^* Karl kooperiert.
 c. Karl und Anna kooperieren miteinander.
+d. ^* Karl und Anna kooperieren sich.
 d. Karl kooperiert mit Anna [zusammen mit seinem Freund].
 :::
 
 **Attested Verbs**
 
-- *anstoßen (zuprosten), debattieren, kooperieren, spielen, streiten, unterhandeln*
+- *anstoßen (zuprosten), debattieren, diskutieren, fechten, kämpfen, kommunizieren, konkurrieren, kooperieren, korrespondieren, ringen, rivalisieren, spielen, streiten, unterhandeln, verhandeln, wetteifern*
 
 **Further Examples**
 
@@ -428,8 +430,8 @@ d. Karl kooperiert mit Anna [zusammen mit seinem Freund].
   Karl und Anna debattieren miteinander.
 - Karl streitet mit Anna. \
   Karl und Anna streiten miteinander.
-- Der Mann hat mit seinem Freund angestoßen. \
-  Der Mann und sein Freund haben miteinander angestoßen.
+- Karl hat mit seinem Freund angestoßen. \
+  Karl und sein Freund haben miteinander angestoßen.
 
 ## Alternations without diathesis
 
@@ -544,10 +546,14 @@ d. Mir passt der Anzug.
 
 **Further Examples**
 
-- Er quietscht mit den Reifen. Die Reifen quietschen.
-- Er rasselt mit den Ketten. Die Ketten rasseln.
-- Wir ratterten mit dem Bus ins Inselinnere. Der Bus ratterte ins Inselinnere.
-- Der Sturm nimmt an Stärke zu. Die Stärke des Sturmes nimmt zu.
+- Er quietscht mit den Reifen. \
+  Die Reifen quietschen.
+- Er rasselt mit den Ketten. \
+  Die Ketten rasseln.
+- Wir ratterten mit dem Bus ins Inselinnere. \
+  Der Bus ratterte ins Inselinnere.
+- Der Sturm nimmt an Stärke zu. \
+  Die Stärke des Sturmes nimmt zu.
 
 ### [ NpA | –NA ] Transitive conciliative {#sec:prepositions-transitive-conciliative}
 
@@ -664,9 +670,9 @@ c. Ich ärgere mich über deine Witze.
   Der Zug ärgert mich mit seinem Lärm.
 - Deine Witze beschäftigen/entspannen mich. \
   Du beschäftigst/entspannst mich mit deinen Witzen.
-- Der Brief des Entführers erschreckt mich. 
+- Der Brief des Entführers erschreckt mich. \
   Der Entführer erschreckt mich mit einem Brief.
-- Der Brief beweist/bestätigt/erklärt/rechtfertigt meine Unschuld. 
+- Der Brief beweist/bestätigt/erklärt/rechtfertigt meine Unschuld. \
   Ich beweise/bestätige/erkläre/rechtfertige meine Unschuld mit dem Brief.
 
 **Notes**
@@ -1686,7 +1692,7 @@ This alternation allows for either a dative to be present or not with verbs that
 
 ### --- [ Ø > PBJ ] --- *Bewegungsart* {.unnumbered}
 
-### [ N– | NL ] Manner of movement {#sec:prepositions-manner-of-movement}
+### [ N– | NL ] Manner-of-movement {#sec:prepositions-manner-of-movement}
 
 Many movement verbs, like *tanzen* 'to dance' [@next], allow for the following two kinds of constructions. First, a regular intransitive construction expressing the movement with an optional location [@next a] and, second, a construction with an obligatory local prepositional phrase in which the movement verb expresses the manner of movement [@next b]. Syntactically, there is a crucial difference between these two constructions in that the perfect auxiliary changes between *haben* [@next a] and *sein* [@next b]. The local prepositional phrase cannot be left out in the perfect construction with *sein* [@next c].
 
@@ -1706,9 +1712,16 @@ This alternation is typically used to explain the difference between using a dat
   Ich bin gestern \*(auf den Berg) geklettert.
 :::
 
+A similar diathesis exists with non-movement verbs, like *schwitzen* 'to sweat' [@next]. However, with such verbs an additional reflexive pronoun is necessary (see [@sec:reflexive-manner-of-movement]).
+
+::: ex
+- Die Köche schwitzen.
+- Die herumwieselnden Köche schwitzen sich durch verschiedene Runden.^[~~DWDS~~: Die Zeit, 20.04.2016 (online).]
+:::
+
 **Attested Verbs**
 
-- *irren, klettern, kriechen, schlingern, schwanken, schweben, stampfen, tanzen, wackeln*
+- *irren, klettern, kriechen, schleichen, schlingern, schwanken, schweben, stampfen, tanzen, wackeln*
 
 **Further Examples**
 
@@ -1717,7 +1730,7 @@ This alternation is typically used to explain the difference between using a dat
 - Der Pinguin hat mit dem Kopf gewackelt. \
   Der Pinguin ist durch meine Beine gewackelt.
 
-### [ – – | NL ] Weather-like manner of movement {#sec:prepositions-weather-manner-movement}
+### [ – – | NL ] Weather-like manner-of-movement {#sec:prepositions-weather-manner-movement}
 
 Many weather verbs like *wehen* 'to blow' [@next] allow for a nominative subject that is moving in a weather-like manner, often induced by a weather phenomenon. In such constructions the locational phrase seems obligatory.
 
@@ -1745,7 +1758,7 @@ b. Sie stürmten in den Saal.
 
 ### --- [ Ø > PBJ ] --- *Verursachte Bewegung* {.unnumbered}
 
-In the analysis of resultative constructions, there is a recurrent suggestion in the literature to distinguish between 'cause to go' and 'cause to become' semantics (e.g. [@mcintyre2003: 120]). I will use the designation 'location-as-result' for the former and names like 'action result' or 'performative result' for the latter here.
+In the analysis of resultative constructions, there is a recurrent suggestion in the literature to distinguish between 'cause to go' and 'cause to become' semantics (e.g. [@mcintyre2003: 120]). I will use the designation 'forced movement' for the former and names like 'action result' or 'performative result' for the latter here.
 
 ### [ N– – | NAL ] Intransitive forced movement {#sec:prepositions-intransitive-location-as-result}
 
@@ -1816,7 +1829,7 @@ c. Der Student im vierten Stock schläft mal wieder ein Loch in den Tag.^[Attest
 
 ### [ NA– | NAL ] Transitive forced movement {#sec:prepositions-transitive-location-as-result}
 
-Similar to intransitive resultatives (see [@sec:prepositions-intransitive-location-as-result]), some transitive verbs like *befehlen* 'to order' [@next a] alternate with a location as result [@next b,c]. There is a slightly different construction with a dative after the preposition *an* [@next d]. In this example the prepositional phrase simply expresses the location in which the action is taking place, or it is an adnominal phrase. In both interpretations there is no valency alternation. 
+Similar to intransitive resultatives (see [@sec:prepositions-intransitive-location-as-result]), some transitive verbs like *befehlen* 'to order' [@next a] alternate with a forced movement construction [@next b,c]. Note that there is a slightly different construction (without diathesis) with a dative after the preposition *an* [@next d]. In this example the prepositional phrase simply expresses the location in which the action is taking place, or it is an adnominal phrase. In both interpretations there is no valency alternation. 
 
 ::: ex
 a. Ich befehle eine Armee.
@@ -1829,7 +1842,7 @@ d. Ich befehle die Armee an der Front. \
 
 **Attested Verbs**
 
- - *befehlen, dirigieren, graben, hetzen, jagen, peitschen, schneiden, ziehen*
+- *befehlen, dirigieren, graben, hetzen, jagen, peitschen, schneiden, ziehen*
 
 **Further Examples**
 
@@ -1864,7 +1877,7 @@ b. Er macht die Wiese zu einem Garten. \
 
 - *zu*  : *erklären, machen*
 - *für* : *halten, erklären*
-- *als* : *ansehen, benennen, betrachten, bezeichnen, empfinden*
+- *als* : *ansehen, benennen, betrachten, bezeichnen, empfinden, empfehlen, vorschlagen, wünschen*
 
 **Further Examples**
 
@@ -1874,6 +1887,10 @@ b. Er macht die Wiese zu einem Garten. \
   Ich betrachte dich als einen Freund.
 - Ich sehe dich an. \
   Ich sehe dich als einen Freund an.
+- Ich schlage einen Kompromiss vor. \
+  Er schlug den Abgeordneten Kai Wegner als Generalsekretär vor.^[~~DWDS~~: Berliner Zeitung, 26.05.2003.]
+- Ich empfehle diese Kandidatin. \
+  Andrea Fischer empfahl sich den Delegierten als Politikerin.^[~~DWDS~~: Der Tagesspiegel, 19.01.2002.]
 
 **Notes**
 
@@ -1884,6 +1901,15 @@ For some verbs there appears to be a rather clear lexicalisation of the meaning 
   Ich halte dich für einen Scharlatan.
 - Sie erklärte die Lösung. \
   Sie erklärte den Kandidaten zum Geschäftsführer.
+:::
+
+The verb *wünschen* 'to wish' can be used in a construction with *als* [@next a] and it was possible with *zu* [@next b]. However, both options seem to be much more common with an additional reflexive pronoun [@next c,d].
+
+::: ex
+- Kaum etwas wünscht die Fraktionsspitze mehr als Ruhe an der fraktionsinternen Gesundheitsfront.^[~~DWDS~~: Berliner Zeitung, 25.11.2004.]
+- Ihre Majestät wünscht den Freiherrn von Stein zum Rathgeber des Königs?^[~~DWDS~~: Alexis, Willibald: Ruhe ist die erste Bürgerpflicht oder Vor fünfzig Jahren. Bd. 5. Berlin, 1852.]
+- Nur 36 Prozent wünschen sich den SPD-Parteichef als Kanzler.^[~~DWDS~~: Die Zeit, 09.03.2016 (online).]
+- Dr. Malan wünschte sich den vierundsiebzigjährigen Meneer Havenga zum Nachfolger.^[~~DWDS~~: Die Zeit, 16.12.1954, Nr. 50.]
 :::
 
 ### --- [ Ø > OBJ > PBJ ] --- *Resultativ* {.unnumbered}
@@ -1984,6 +2010,8 @@ e. Gib mir eine Waffe und ich gewinne dir jeden Krieg.^[Attested online at <http
   Ich töte den Hasen für dich.
 - Ich garantiere dir den Erfolg. \
   Ich garantiere den Erfolg für dich.
+
+### --- [ ADJ > OBJ ] --- *Beurteilerdativ* {.unnumbered}
 
 ### [ Np | ND ] *für deinen Geschmack* Judgement dative {#sec:prepositions-judgement-dative}
 
@@ -2217,7 +2245,7 @@ a. Er vergleicht mich mit einem Affen.
 b. Er vergleicht einen Affen mit mir.
 :::
 
-### --- [ ADJ > ADJ ] Adjunct change --- {.unnumbered}
+### --- [ ADJ > ADJ ] --- {.unnumbered}
 
 ### [ NAg | NAp ] Possessor-of-accusative to preposition {#sec:prepositions-possessor-to-preposition}
 

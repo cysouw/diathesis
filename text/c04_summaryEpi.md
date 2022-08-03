@@ -392,7 +392,7 @@ The ~~Selbstbezogener Reflexiv~~ (full discussion in [@sec:reflexive-self-inflic
 
 The *Selbstbezogener Reflexiv* can be identified by the following characteristics: 
 
-(i) There is a reflexive pronoun in the sentence.
+(i) There is a reflexive pronoun in the sentence that can be negated and stressed.
 (ii) The pronoun *selbst* can optionally be added.
 (iii) The roles of the verb do not change, i.e. [@next b] still contains the roles of 'washer' and 'washee'.
 (iv) The reflexive pronoun references an object role (here 'washee').

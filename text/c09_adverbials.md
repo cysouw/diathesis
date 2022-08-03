@@ -314,7 +314,7 @@ The situation is more interesting with resultative adverbials. There are many di
 
 ### [ N | N ] Intransitives+reflexive+resultative adverbial {#sec:adverbials-intransitive-reflexive-resultative}
 
-There is a special construction that apparently only exists for some intransitive verbs like *schlafen* 'to sleep' [@next a]. The verb is combined with a reflexive pronoun and a resultative secondary predicate. The meaning of this construction approximately amounts to 'by performing the verb, the secondary predicate is achieved' [@next b].
+There is a special construction that apparently only exists for some intransitive verbs, like *schlafen* 'to sleep' [@next a]. The verb is combined with a reflexive pronoun and a resultative secondary predicate. The meaning of this construction approximately amounts to 'by performing the verb, the secondary predicate is achieved' [@next b].
 
 ::: ex
 Ich schlafe mich gesund. \

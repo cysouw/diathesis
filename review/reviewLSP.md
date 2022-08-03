@@ -832,77 +832,280 @@ Although in the further examples (why does the brechen-example occur there again
 > changed *an* to *auf*. That is attested frequently. 
 
 - p. 171 7.6b Why is the sentence marked as ungrammatical? The sentence is perfectly acceptable!
+
+> hmmm, interesting opinion. I cannot find any reasonably interpretation of what this sentence should mean. The intended meaning would be "er sorgt dafür, dass ich ihn wasche", but in that meaning the usage of a reflexive pronoun is completely out for me. Or am I missing a different interpretation? I have added a bit more explanation about my proposed argument.
+
 - p. 172 7.8b Punctuation mark is missing.
+
+> corrected
+
 - p. 172 7.7b/7.8b In the right context, the sentences are all right.
+
+> that is exactly what I say in the text. The question marks are explicitly explained as meaning that there is something very peculiar going on in these constructions. No change.
+
 - p. 173 7.12b The sentence is okay, e.g. ‘Ich habe dich hierher bemüht, weil...’
-- p. 173 7.3.1 The combination of verand reflexive pronoun results in an erratic interpretation and is very productive in German (cf. Stiebels 1996). Further verbs: verwählen, verlaufen, verfahren, verschreiben, verrechnen, verlesen, versprechen + sich. Without sich a different interpretation result: sich verschreiben ‘write something wrong’ vs etwas verschreiben ‘prescribe’.
+
+> Again, that is the point of the question mark here. No change.
+
+- p. 173 7.3.1 The combination of ver and reflexive pronoun results in an erratic interpretation and is very productive in German (cf. Stiebels 1996). Further verbs: verwählen, verlaufen, verfahren, verschreiben, verrechnen, verlesen, versprechen + sich. Without sich a different interpretation result: sich verschreiben ‘write something wrong’ vs etwas verschreiben ‘prescribe’.
+
+> All possible combinations with preverbs like *ver-* are discussed extensively in Chapter 8.
+
 - p. 174 ‘Die neugeborenen Katzen behaaren sich allmählich’: This is totally out! 
+
+> this is an example from DWDS. I have added the reference.
+
 - p. 175 ‘Die Krankheit äußert sich durch das Fieber’: More idiomatic without das.
+
+> changed object to *den Ausschlag*
+
 - p. 176 7.21b I think the example is ok: Das erste Zahnrad hat sich mit dem zweiten verklemmt. Maybe you can find an attested example.
+
+> Indeed! I have been able to find an example and thus removed the note about the exceptionality of this verb.
+
 - p. 176 7.22b The reflexive is not required, cf. Heute treffe ich meine alten Lehrer. 
+
+> Indeed, *treffen* does not belong here. Example (and verb) removed from this section
+
 - p. 176 The reference to the section below 7.22 is wrong. Similarly on page 179.
+
+> corrected
+
 - p. 177 7.24b I disagree; what about a sentence like Dieser Vorfall, den alle nur eine Einbildung gehalten haben, ereignete sich (aber) wirklich/tatsächlich.
+
+> I agree. *zutragen* and *ereignen* are moved to the section without obligatory local phrase.
+
 - p. 177 ‘Europa bückt sich dem Willen der USA’: You cannot use bücken here, take beugen.
+
+> Indeed. corrected
+
 - p. 177 ‘In Scharen gesellt sies ich häufig dem Hausgeflügel zu. (DWDS)’: Usually, the source
 is not mentioned directly following the example but in a footnote. Be consistent please. 
+
+> source added in footnote
+
 - p. 178 ‘Mit dieser Aufgabe tue ich mir schwer’: mich
+
+> corrected
+
 - p. 178 ‘Er langte sich ein Glas’: Does not work for me.
+
+> Example is from DWDS, I have added a reference.
+
 - p. 178 7.27 Punctuation marks are missing.
+
+> corrected
+
 - p. 180 7.32b mein
+
+> corrected
+
 - p. 180 ‘Er hat sich bei/an ihm angebiedert’: an requires accusative, not dative
+
+> *an* removed
+
 - p. 180 ‘Die Schülerin hat sich der Lehrerin eingeschmeichelt’: ungrammatical without bei
+
+> Indeed. Changed to an example with *anschmeicheln*.
+
 - p. 181 ‘Die Tochter bequemte sich ihres Wunsches’: Does not work, better Die Tochter
 bequemte sich ihrem Wunsch zu entsprechen.
-- p. 181 ‘Mit welchem Ziel hätten wir uns dazu erdreisten können’: better sollen dann können - p. 181 7.34 I find both examples unacceptable.
+
+> Indeed, this example is strange. I recategorised the verb *sich bequemen* because the construction with genitive was wrong.
+
+- p. 181 ‘Mit welchem Ziel hätten wir uns dazu erdreisten können’: better sollen dann können 
+
+> This is a corpus example. I added the reference (which I had forgotten)
+
+- p. 181 7.34 I find both examples unacceptable.
+
+> Indeed. I cannot reconstruct where I found these examples. removed.
+
 - p. 181f. 7.4.1 I do not think that the reflexive version entails a change of state (at least not in the mentioned example as you can say Er kniete sich stundenlang auf den Boden which is clearly an activity predicate and not an achievement/accomplishment predicate).
+
+> I have toned down the claim that I want to make as a tendency. Indeed: both seem possible but from some informal corpus research there seems to be a tendency as described in the text (and the example above would be atypical). However, as stated clearly in the text: this a fascinating topic that needs more research!
+
 - p. 182 ‘Die Erde dreht’: Strange but better if you say: Die Erde dreht und dreht.
+
+> This is an interesting case and I have added a note highlighting this verb. Many speakers of German consider this ungrammatical, but it is clearly attested. More research is needed here!
+
 - p. 182 ‘Ich habe hingekniet’: Odd, Ich habe mich hingekniet.
+
+> similar to the previous. I have added a corpus example. It is clearly attested, though often considered 'wrong'
+
 - p. 182 7.38a Why ‚?‘, the sentence is totally acceptable.
-- p. 183 ‘Ich entscheide für den Angriff’: Odd, entscheide mich is the only acceptable version - p. 183 ‘Ich erstaune mich über das viele Geld’: Odd, only without reflexive pronoun
+
+> it depends. As I note, this is again an interesting example for which the acceptability is really unclear. No change.
+
+- p. 183 ‘Ich entscheide für den Angriff’: Odd, entscheide mich is the only acceptable version 
+
+> It's odd, but clearly attested. I have added a corpus example
+
+- p. 183 ‘Ich erstaune mich über das viele Geld’: Odd, only without reflexive pronoun
+
+> likewise, indeed odd, but attested. I have added a corpus example
+
 - p. 183 7.43 sorgen and sich sorgen have different meanings
+
+> Indeed, I have added an additional sentence to the note dealing with this verb.
+
 - p. 183 7.4.2 Have a look on Wiskandt (2021) for constraints on reflexive marking in
 combination with psych predicates in German.
+
+> Thanks for the tip! Included in Section on Reflexive Conversive.
+
 - p. 185 ‘Er hat alles erspart’: Odd
+
+> I have replaced the examples with sentences from the DWDS dictionary
+
 - p. 187 ‘also possible with “free” datives?’: Why ‘?’
+
+> That was a "note to self" to remind me to say something here. I forgot to formulate this point. I have decided simply to remove this.
+
 - p. 187 Further examples below 7.54: Punctuations marks are missing
+
+> corrected
+
 - p. 189 ‘Ich ordne die Pflanze einer Systematik unter’: I think einordnen (without unter) would be more idomatic. But you can use a different example: Ich ordne meine weiteren Pläne deinen Wünschen unter.
+
+> changed
+
 - p. 190 7.65b: Odd
+
+> yes, indeed odd. There is something special going on in these constructions, viz. it seems only to be possible with certain semantic contexts that make the non-reflexive construction odd. I have added a note as to this point. More research needed!
+
 - p. 191 Is the section on ‘Reciprocal alternations’ complete? I somehow have the feeling that something is missing here.
+
+> Yes indeed. This whole section was unfinished. Completed now.
+
 - p. 191 7.66 Start with capital letters, punctuation marks are missing.
+
+> corrected
+
 - p. 192 7.4.18/7.4.19 Punctuation marks are missing in the examples.
+
+> corrected
+
 - p. 192 7.4.20 Is this the final text? Somehow this seems to be incomplete.
+
+> indeed. finished now.
+
 - p. 193 Punctuation marks are (partially) missing in the further examples on the top of the page. 
+
+> corrected
+
 - p. 193 7.69b The example is strange, I prefer Bei diesem Buch handelt es sich um ein Linguistikbuch. The example listet under ‘further examples’ is acceptable as well.
+
+> changed
+
 - p. 193 7.5.2 First sentence, repetition of an.
-- p. 195 ‘Wir wollen das Problem nicht (noch mehr) komplizieren’: verkomplizieren (the same
-for the second sentence)
+
+> corrected
+
+- p. 195 ‘Wir wollen das Problem nicht (noch mehr) komplizieren’: verkomplizieren (the same for the second sentence)
+
+> DWDS also lists *komplizieren*, so I will include both *komplizieren* and *verkomplizieren*
+
 - p. 195 ‘Ich bessere die Straße’: Here you need the verb ausbessern or verbessern might also work.
+
+> This usage of bessern is from the DWDS dictionary. I have added an example from there. *verbessern* has a regular self-inflicting reflexive, not a reflexive anticausative, so it does not belong here. *ausbessern* does not seem to be possible at all with a reflexive pronoun, a quick search only gives examples from before 1800 (also interesting!).
+
 - p. 196 7.77b Ungrammatical
-- p. 196 ‘Der Paragraph fügt sich dem Gesetz hinzu’: Strange, it somehow induced agentivity on
-side of the Paragraph.
-- p. 196 ‘Der Bauplan erklärt sich dem Benutzer’: Strange but it improves if you add ‘von ganz
-alleine’.
+
+> Agree. I have changed the conclusion here. I now claim that benefactive 'free' datives are not possible with a reflexive anticausative.
+
+- p. 196 ‘Der Paragraph fügt sich dem Gesetz hinzu’: Strange, it somehow induced agentivity on side of the Paragraph.
+
+> Agree. I removed the verb from this section.
+
+- p. 196 ‘Der Bauplan erklärt sich dem Benutzer’: Strange but it improves if you add ‘von ganz alleine’.
+
+> nice improvement. changed.
+
 - p. 197 ‘Ich nähre mich mit (von) Milch’: Here you need ernähren, also on page 199.
+
+> DWDS also lists *nähren* in this usage. no change.
+
 - p. 198 ‘Ich entsetze mich bei dem Anblick’: über instead of bei
+
+> corrected
+
 - p. 198 ‘Ich habe mich erfreut an der Musik’: erfreut should go to the end.
+
+> corrected
+
 - p. 199 ‘Das Alter beschwert mich’: Odd
+
+> This diathesis with *beschweren* is indeed odd. I have added a note about this verb.
+
 - p. 199 ‘Ich unterhalte das Publikum. Das Publikum unterhält sich mit mir’: Two completely different verb meanings. The same for the two examples with drücken.
+
+> *unterhalten*: changed examples to clearly evoke the intended meanings. *drücken*: indeed, differences are too large to consider them as alternates. moved verb to different category.
+
 - p. 199 Check for missing punctuation marks.
+
+> checked
+
 - p. 199 ‘Ich werde erheitert durch die gute Nachricht’: erheitert should go to the end.
+
+> example replaced
+
 - p. 200 ‘Ich graue mich’: odd without vor-PP.
+
+> added
+
 - p. 201 ‘verbs that hurt’: verbs cannot hurt, you probably mean the activity denoted by the verb. 
+
+> rephrased
+
 - p. 201 7.88c Why ‘*’? I think it is ok.
+
+> as noted in the text: only in a very special interpretation. no change.
+
 - p. 201 ‘Er verschläft sich’: Odd, but better if you say ‘Er verschläft sich um 10 Minuten’
+
+> There is a note about the old-fashioned nature of this construction. I removed the example from "further examples".
+
 - p. 201 7.89c das not den
+
+> no, the point is that this construction with an accusative is impossible. Explanation in the text extended to make this point clearer.
+
 - p. 202 7.90 Why not earlier?
+
+> see above
+
 - p. 203 7.95b Really? Is this attested?
+
+> Yes, I added an example from the internet. It is an English calque.
+
 - p. 204 ‘Ich wage mich an der Aufgabe’: die
+
+> corrected
+
 - p. 204 ‘Der Schauspieler versucht sich in der neuen Rolle’: Punctuation mark missing
+
+> corrected
+
 - p. 204 ‘Ich behaupte mich in meine neue Stelle’: meiner neuen
+
+> corrected
+
 - p. 204 7.98b Also an erratic verb (see above)
+
+> I'm not too much interested in such semantic classififactions. no change here.
+
 - p. 205 7.9.3 Why is not source for Early New High German given?
+
+> added
+
 - p. 206 ‘Die Motten fressen von/an den Pullover’: dem
+
+> sentence removed
+
 - p. 206 The two examples with bedenken are unacceptable!
+
+> Archaic is better. I have added real examples and noted that this is not contemporary German anymore.
+
 - p. 207 ‘a discussion of term’: ‘the term’ or just delete ‘term’
 - p. 208 8.2.1 Be more precise with elements can intervene between particle and verb (comes later in the book but should be mentioned here already).
 - p. 209 8.3b Really attested? Strange example.

@@ -1018,16 +1018,18 @@ a. Ich folge dem Auto.
 b. Ich verfolge das Auto.
 :::
 
-A ~~governed preposition change [PBJ › PBJ]~~ occurs in a special kind of construction with a reflexive pronouns that induces a change in lexical specific prepositions, like *arbeiten an* 'to work on' changing into *sich durcharbeiten* 'to work through' [@next], see [@sec:reflexive-resultative].
+A ~~governed preposition change [PBJ › PBJ]~~ does occur in German, but such diatheses have not been explicitly collected in this book. Possible examples are *arbeiten an* 'to work on' [@next a] changing into *sich durcharbeiten* 'to work through' [@next b] or *sorgen für* 'take care of' [@next c] changing into *sich sorgen um* 'to worry about' [@next d].
 
 ::: ex
 ~~Governed preposition change [PBJ › PBJ]~~
 
 a. Er arbeitet an den Daten. 
 b. Er arbeitet sich durch die Daten.
+c. Er sorgt für seine Mutter.
+d. Er sorgt sich um seine Mutter.
 :::
 
-An ~~adjunct change [ADJ › ADJ]~~ is, according to the definitions, not a diathesis at all, as adjuncts are not lexically specific. However, the change between a possessor and a prepositional phrase as shown in [@next] can be seen as as a borderline examples, see [@sec:prepositions-possessor-to-preposition].
+An ~~adjunct change [ADJ › ADJ]~~ is, according to the definitions, not a diathesis at all, as adjuncts are not lexically specific. However, the change between a possessor *dein* 'your' [@next a] and a non-governed prepositional phrase *von dir* 'from you' [@next b] can be seen as as a borderline examples, see [@sec:prepositions-possessor-to-preposition].
 
 ::: ex
 ~~Adjunct change [ADJ › ADJ]~~

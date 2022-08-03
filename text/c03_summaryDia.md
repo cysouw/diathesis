@@ -637,6 +637,16 @@ b. Ich glaube deine Aussage. \
    Ich glaube daran, dass deine Aussage stimmt.
 :::
 
+### *Reflexiv Akkusativ Antipassiv* {#sec:summary-reflexiv-antipassiv}
+
+The ~~Reflexiv Akkusativ Antipassiv~~ (full discussion in [@sec:reflexive-accusative-antipassive]) is an accusative antipassive in which additionally a reflexive pronoun is added. For example, the verb *beklagen* 'to lament' [@next] has a lamented object-role *Lärm* 'noise' that is expressed either as an accusative [@next a] or as a prepositional phrase with *über* [@next b]. The reflexive pronoun in [@next b] is not a self-inflicting reflexive, i.e. the lamenting is not about oneself. These reflexive antipassives always have governed prepositional phrases [@next c].
+
+::: ex
+a. Ich beklage den Lärm.
+b. Ich beklage mich über den Lärm.
+c. Ich beklage mich darüber, dass es so laut ist
+:::
+
 ### *Dativ Antipassiv* {#sec:summary-dativ-antipassiv}
 
 The unmarked ~~Dativ Antipassiv~~ (full discussion in [@sec:prepositions-dative-antipassive] and subsequent sections) is a diathesis in which a dative argument alternates with a prepositional phrase. In a few instances this is attested with a dative without accusative, like with *entfliehen* 'to escape' [@next a]. However, this diathesis is more widespread with verbs like *berichten* 'to report' [@next b] that allow for both an accusative and a dative argument.
@@ -655,16 +665,6 @@ The ~~Präverb Dativ Antipassiv~~ (full discussion in [@sec:preverb-dative-antip
 ::: ex
 a. Ich schenke dem Kindergarten meine Bücher.
 b. Ich verschenke meine Bücher (an den Kindergarten).
-:::
-
-### *Reflexiv Antipassiv* {#sec:summary-reflexiv-antipassiv}
-
-The ~~Reflexiv Antipassiv~~ (full discussion in [@sec:reflexive-accusative-antipassive]) is an antipassive in which additionally a reflexive pronoun is added. For example, the verb *beklagen* 'to lament' [@next] has a lamented object-role *Lärm* 'noise' that is expressed either as an accusative [@next a] or as a prepositional phrase with *über* [@next b]. The reflexive pronoun in [@next b] is not a self-inflicting reflexive, i.e. the lamenting is not about oneself. These reflexive antipassives always have governed prepositional phrases [@next c].
-
-::: ex
-a. Ich beklage den Lärm.
-b. Ich beklage mich über den Lärm.
-c. Ich beklage mich darüber, dass es so laut ist
 :::
 
 ### *Reziprokativ* {#sec:summary-reziprokativ}
@@ -776,9 +776,11 @@ b. Ich fühle den Schmerz. \
 
 A ~~locative diathesis~~ is a diathesis in which an obligatory locational phrase is added to the clause. For details on the definition see [@sec:intro-locative-delocative]. Note that there is no di­rect grammatical connection between a locative *diathesis* and a locative *case*. Both terms simply use the same modifier because both are somehow related to the marking of location.
 
-### *Bewegungsart* {#sec:summary-bewegunsart}
+### *Bewegungsart* {#sec:summary-bewegungsart}
 
-The ~~Bewegungsart~~ diathesis (full discussion in [@sec:prepositions-manner-of-movement] and subsequent sections) is a diathesis that is specifically attested with verbs of movement like *tanzen* 'to dance' [@next]. In some contexts, movement verbs take an obligatory locational phrase. This obligatory location coincides with the choice of auxiliary in the perfect, i.e. *haben* or *sein*. There is a crucial difference between these two options in that with *sein* in the perfect there is an additional directional phrase necessary [@next c,d]. Semantically, this construction expresses primarily a movement, here *durch den Garten* 'through the garden', in which the main lexical verb *tanzen* 'to dance' designates what kind of movement is performed. In a sense, the main lexical verb functions more like an adverbial designation in such constructions, i.e. *sich tanzend bewegen* 'to move in a dancing manner'.
+The ~~Bewegungsart~~ diathesis (full discussion in [@sec:prepositions-manner-of-movement] and subsequent sections) is a diathesis that is specifically attested with verbs of movement like *tanzen* 'to dance' [@next]. In some contexts, movement verbs take an obligatory locational phrase. This obligatory location coincides with the choice of auxiliary in the perfect, i.e. *haben* or *sein*. There is a crucial difference between these two options in that with *sein* in the perfect there is an additional directional phrase necessary [@next c,d]. 
+
+Semantically, this construction expresses primarily a movement, here *durch den Garten* 'through the garden', in which the main lexical verb *tanzen* 'to dance' designates what kind of movement is performed. In a sense, the main lexical verb functions more like an adverbial designation in such constructions, i.e. *sich tanzend bewegen* 'to move in a dancing manner'. The same construction can also be used with non-movement verbs, but then an additional reflexive pronoun is necessary (see [@sec:summary-reflexiv-bewegungsart]).
 
 ::: ex
 a. Ich habe im Garten getanzt.
@@ -786,6 +788,16 @@ b. Ich habe getanzt.
 c. Ich bin durch den Garten getanzt. \
    (= Ich habe mich tanzend durch den Garten bewegt.)
 d. ^* Ich bin getanzt.
+:::
+
+### *Reflexiv Bewegungsart* {#sec:summary-reflexiv-bewegungsart}
+
+The ~~Reflexiv Bewegungsart~~ diathesis (full discussion in [@sec:reflexive-manner-of-movement]) is the same diathesis as the non-reflexive *Bewegungsart* diathesis in [@sec:summary-bewegungsart] but with an additional reflexive pronoun. This extra reflexive pronoun has to be added for non-movement verbs like *zittern* 'to shiver' [@next a,b]. With the reflexive pronoun there needs to be an obligatory movement phrase [@next c]. Semantically, this construction describes an movement ('going to the playoffs') that is achieved (metaphorically) by performing the intransitive verb (i.e. by shivering).
+
+::: ex
+- Das Kind zittert (vor Kälte).
+- Die Mannschaft zitterte sich in die Playoffs.
+- ^* Die Mannschaft zittert sich.
 :::
 
 ### *Verursachte Bewegung* {#sec:summary-verursachte-bewegung}
@@ -835,22 +847,6 @@ a. Ich binde den Hund an die Leine.
 b. ^* Ich binde den Hund.
 c. Ich binde den Hund (von der Leine) los.
 d. Ich binde den Hund los.
-:::
-
-## Governed preposition change ~~[PBJ › PBJ]~~
-
-A ~~Governed preposition change~~ is a diathesis that changes a governed prepositional phrase into an obligatory location. For details on the definition see [@sec:intro-symmetrical-object].
-
-### *Reflexiv verursachte Bewegung* {#sec:summary-reflexiv-verursachte-bewegung}
-
-The ~~Reflexiv verursachte Bewegung~~ (full discussion in [@sec:reflexive-resultative]) is a special variant of the *Verursachte Bewegung* ([@sec:summary-verursachte-bewegung]). In this diathesis, a verb like *träumen von* 'to dream' that takes a governed prepositional phrase [@next a] can alternatively be used with a reflexive pronoun [@next b]. With the reflexive pronoun there needs to be an obligatory movement phrase instead of the governed prepositional phrase [@next c]. Semantically, this construction describes an (imaginary) movement that is caused by the main verb.
-
-::: ex
-a. Ich träume von New York. \
-   (= Ich träume davon nach New York zu reisen.)
-b. Ich träume mich nach New York. \
-   (= Ich träume, und im Traum bin ich in New York.)
-c. ^* Ich träume mich.
 :::
 
 ## Chained applicative diatheses ~~[ADJ › OBJ › ADJ]~~

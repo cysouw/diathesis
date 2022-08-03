@@ -418,6 +418,14 @@ There are also some examples with the light verb *erhalten* instead of *halten* 
 - Das Feuer, das den Geist der Liebe lebendig erhält, kann nur von oben her entzündet und am Brennen erhalten werden.^[~~DWDS~~: Die Zeit, 02.08.1951, Nr. 31.]
 :::
 
+The semantically opposite *hindern am* 'to prevent' is not (yet?) grammaticalised. Although it is frequently used with *am Infinitiv* [@next a], it does not show the characteristics of a grammaticalised *Präpositionsinfinitiv* (see [@sec:zuminfinitive-structure]). For example, it can be used with an adjectival modifier [@next b] and the preposition *am* can also be expressed as *an dem* [@next c].
+
+::: ex
+- Zwei Zeugen hätten die sechsköpfige Gruppe am Betreten gehindert.^[~~DWDS~~: Die Zeit, 14.03.2014, Nr. 11.]
+- Er hat die Pommern nicht nur am rechtzeitigen Entkommen gehindert […].^[~~DWDS~~: Die Zeit, 20.03.2014, Nr. 13.]
+- […] haben sie ihn so lange an dem Ziel seines Lebens gehindert.^[~~DWDS~~: Die Zeit, 27.04.1990, Nr. 18.]
+
+
 **Attested Verbs**
 
 - *drehen, laufen, leben, lesen*
