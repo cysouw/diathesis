@@ -1107,6 +1107,9 @@ combination with psych predicates in German.
 > Archaic is better. I have added real examples and noted that this is not contemporary German anymore.
 
 - p. 207 ‘a discussion of term’: ‘the term’ or just delete ‘term’
+
+> corrected
+
 - p. 208 8.2.1 Be more precise with elements can intervene between particle and verb (comes later in the book but should be mentioned here already).
 - p. 209 8.3b Really attested? Strange example.
 - p. 211 8.6c Please explain what the examples show.

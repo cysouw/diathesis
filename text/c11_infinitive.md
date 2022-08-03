@@ -876,7 +876,7 @@ The verb *fühlen* 'to feel' can both be used with a *dass* complement clause [@
 ::: ex
 - Er fühlt, dass die Ameisen über seinen Arm laufen.
 - Er fühlt die Ameisen über seinen Arm laufen.
-- Er hat die Ameisen über seinen Arm laufen gefühlt (^\*^fühlen).
+- Er hat die Ameisen über seinen Arm laufen gefühlt (\*fühlen).
 - Auf so anrührende Weise wie in Asmara haben wir uns selten unterhalten gefühlt.^[~~DWDS~~: Die Zeit, 16.12.2010, Nr. 51]
 :::
 
