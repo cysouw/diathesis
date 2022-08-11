@@ -302,16 +302,16 @@ There are also verbs that allow nominative, accusative and genitive, but those v
 
 - *bezichtigen*
 
-### [ NAA ] Nominative+accusative+accusative
+### [ NAA ] Nominative+accusative+accusative {#sec:case-double-accusative}
 
-There are a few situations in which verbs allow for two accusative objects, like with *lehren* [@next a] or *abfragen* [@next b]. However, all of these verbs also allow for other constructions, either dropping one of the accusative arguments (see [@sec:case-double-accusative-drop]) or allowing an alternation between an accusative and a dative (see [@sec:case-double-accusative-dative-swap]). There do not seem to be any verbs that obligatorily need two accusative objects.
+There are a few verbs that allow for two accusative objects, like with *lehren* [@next a] or *abfragen* [@next b]. However, all of these verbs also allow for other constructions, either dropping one of the accusative arguments (see [@sec:case-double-accusative-drop]) or allowing an alternation between an accusative and a dative (see [@sec:case-double-accusative-dative-swap]). There do not seem to be any verbs that obligatorily need two accusative objects.
 
 ::: ex
 a. Er lehrt mich den Trick.
 b. Er fragt mich den Stoff ab.
 :::
 
-Double accusatives further regularly appear with quantified objects [@next a], see [@sec:case-quantified-objects], and with named objects [@next b], see [@sec:case-named-objects]. Also these verbs regularly allow for one of the accusatives to be dropped [@next c,d].
+Double accusatives further appear with quantified objects [@next a], see [@sec:case-quantified-objects], and with named objects [@next b], see [@sec:case-named-objects]. Also these verbs regularly allow for one of the accusatives to be dropped [@next c,d].
 
 ::: ex
 a. Das Buch kostet mich keinen Pfennig. 
@@ -319,6 +319,8 @@ b. Ich nenne dich einen Egoisten.
 c. Das Buch kostet viel.
 d. Er nennt den Namen des Kindes.
 :::
+
+In summary, there are only few verbs in German with double accusatives. In general, there seems to be a strong generalisation that the German language disprefers verbs that govern multiple noun phrases in the same case. However, there are a few diatheses that result in multiple accusatives in the same clause (see [@sec:infinitive-aci]).
 
 ### --- Adverbial case-marked arguments --- {.unnumbered}
 
@@ -518,32 +520,43 @@ d. Der Kaffee ist gekocht.
 
 **Attested Verbs**
 
-- *abnehmen, abreißen, abstoßen, anfangen, anhalten, aufmachen, backen, baden, beginnen, bewegen, braten, bremsen, duschen, fliegen, kochen, landen, läuten, öffnen, rauchen, schließen, spielen (eines Tonträgers), starten, stoppen, umdrehen, wiegen, zählen, zünden*
+- *abnehmen, abreißen, abstoßen, anfangen, anhalten, aufmachen, backen, baden, beginnen, bewegen, braten, bremsen, duschen, fliegen, kochen, landen, läuten, öffnen, rauchen, schließen, spielen (eines Tonträgers), starten, stoppen, umdrehen, umgeben, wiegen, zählen, zünden*
 
 **Further Examples**
 
 - Er landet das Flugzeug. \
-  Das Flugzeug hat gelandet. Das Flugzeug ist gelandet.
+  Das Flugzeug hat gelandet. \
+  Das Flugzeug ist gelandet.
 - Ich habe die Bombe gezündet. \
-  Die Bombe hat gezündet. Die Bombe ist gezündet.
+  Die Bombe hat gezündet. \
+  Die Bombe ist gezündet.
 - Der Mitarbeiter öffnet den Laden/macht den Laden auf. \
-  Der Laden hat geöffnet/aufgemacht. Der Laden ist geöffnet/aufgemacht.
+  Der Laden hat geöffnet/aufgemacht. \
+  Der Laden ist geöffnet/aufgemacht.
 - Ich rauche eine Zigarette. \
-  Das Feuer hat geraucht. Die Zigarette ist geraucht.
+  Das Feuer hat geraucht. \
+  Die Zigarette ist geraucht.
 - Ich beginne einen Streit. \
-  Der Streit hat begonnen. Der Krieg ist begonnen.
+  Der Streit hat begonnen. \
+  Der Krieg ist begonnen.
 - Ich wiege den Patienten vor und nach der Behandlung. \
-  Der Patient hat 50 Kilo gewogen. Der Patient ist schon gewogen.
+  Der Patient hat 50 Kilo gewogen. \
+  Der Patient ist schon gewogen.
 - Ich habe das Werk angefangen. \
-  Der Film hat angefangen. Das Werk ist angefangen, aber nicht vollendet.
+  Der Film hat angefangen. \
+  Das Werk ist angefangen, aber nicht vollendet.
 - Er zählt mich zu den Menschen. \
-  Ich habe zu den Menschen gezählt. Die Tage sind gezählt.
+  Ich habe zu den Menschen gezählt. \
+  Die Tage sind gezählt.
 - Ich habe das Boot umgedreht. \
-  Das Boot hat vor dem Hafen umgedreht. Das Boot ist umgedreht.
+  Das Boot hat vor dem Hafen umgedreht. \
+  Das Boot ist umgedreht.
 - Ich habe das Boot abgestoßen. \
-  Die Fähre hat abgestoßen. Das Boot ist abgestoßen.^[~~DWDS~~: https://www.dwds.de/wb/abstoßen, accessed on 25 March 2022.]
+  Die Fähre hat abgestoßen. 
+  Das Boot ist abgestoßen.^[~~DWDS~~: https://www.dwds.de/wb/abstoßen, accessed on 25 March 2022.]
 - Ich habe die Platte gespielt. \
-  Die Platte hat gespielt. Die Platte ist gespielt.
+  Die Platte hat gespielt. 
+  Die Platte ist gespielt.
 
 **Notes**
 
@@ -612,13 +625,14 @@ b. ^* Die Blätter wehen.
 
 **Attested Verbs**
 
-- *regnen, stürmen, tauen, wehen*
+- *dunkeln, regnen, stürmen, tauen, wehen*
 
 **Further Examples**
 
 - Der Regen regnet täglich.
 - Das Wetter stürmt.
 - Der Schnee taut.
+- Der Abend dunkelt.
 
 ### --- [ Ø > SBJ > OBJ ] --- *Kausativ* {.unnumbered}
 
@@ -667,7 +681,7 @@ Second, there are very many (though not exclusively) verbs denoting natural proc
 - Verbs with preverb variants: *biegen (einbiegen), bleichen (erbleichen, verbleichen), bräunen (anbräunen), brechen (abbrechen, zerbrechen), brennen (abbrennen, niederbrennen, verbrennen), fahren (ǘberfahren), fliegen (einfliegen), frieren (einfrieren), klappen (aufklappen, zuklappen), knicken (abknicken, einknicken), reißen (abreißen, einreißen, zerreißen), rollen (ausrollen), staunen (erstaunen), stürzen (umstürzen), tauen (auftauen), treten (antreten, wegtreten), trocknen (austrocknen), wirbeln (aufwirbeln)*
 - Preverbal verbs from adjectival roots: *abkühlen, ermatten, verrohen, abstumpfen*
 - Preverbal verbs from nominal roots: *erzürnen, verdunsten, zersplittern*
-- Others: *altern, ersticken, ertrinken, fliehen, heilen, reifen, verderben, vorrücken, zuschneien*
+- Others: *altern, ersticken, ertrinken, fliehen, heilen, reifen, verderben, verqualmen, vorrücken, zuschneien*
 
 **Further Examples**
 
@@ -699,6 +713,8 @@ Second, there are very many (though not exclusively) verbs denoting natural proc
   Die Fähre fährt uns über. 
 - Die Wunde heilt. Die Wunde ist geheilt. \
   Der Doktor heilt die Wunde.
+- Die Zigarren verqualmen den Raum. \
+  Der Raum verqualmt.
 
 **Notes**
 
@@ -753,7 +769,7 @@ b. Ich schwärze den Text.
 
 **Attested Verbs**
 
-- *voll/füllen, glatt/glätten, hart/härten, schwarz/schwärzen, warm/wärmen*
+- *voll/füllen, glatt/glätten, hart/härten, kurz/kürzen, schwarz/schwärzen, warm/wärmen*
 
 ### --- [ OBJ > SBJ ] --- {.unnumbered}
 

@@ -42,7 +42,7 @@ d. Er schlug seine Mitbewerber. \
    Seine Mitbewerber geben sich geschlagen.
 :::
 
-Amidst the large variety of diatheses with reflexive pronouns, there are a few generalisations that stand out:
+{#par:reflexive-generalisations} Amidst the large variety of diatheses with reflexive pronouns, there are a few generalisations that stand out:
 
 - Diatheses with reflexive pronouns are valency-reducing alternations (main counterexamples in [@sec:reflexive-manner-of-movement], idiosyncratic counterexamples in [@sec:reflexive-accusative-to-nominative]).
 - Diatheses with reflexive pronouns exclusively use the accusative reflexive pronoun, never the dative (idiosyncratic counterexamples in [@sec:reflexive-genitive-passive-dative], and there is a productive dative pattern with *lassen*, see [@sec:infinitive-lassen-dative-reflexive-anticausative]).
@@ -180,9 +180,9 @@ Vier Wanderer haben sich im Gebirge verirrt.
 **Attested Verbs**
 
 - Behaviour: *abmühen, abrackern, abstrampeln, aufführen, aufrappeln, beeilen, benehmen, betrinken, besaufen, bücken, daranmachen, davonstehlen, durchlavieren, durchmogeln, durchwursteln, echauffieren, einigeln, erhängen, ermannen, fortbilden, gedulden, herausreden, hervortun, hinauswagen, sputen*
-- Wrong behaviour (with *ver-*): *verfahren, verhalten, verhaspeln, verirren, verkalkulieren, verlaufen, verplappern, verschreiben (falsch schreiben), verspäten, verspekulieren, versprechen (falsch sprechen), verrennen, vertun, verwählen, verzählen*
+- (Erratic) behaviour with *ver-*: *verfahren, verhalten, verhaspeln, verirren, verkalkulieren, verlaufen, verplappern, verschreiben (falsch schreiben), verspäten, verspekulieren, versprechen (falsch sprechen), verrennen, vertun, verwählen, verzählen*
 - Body process: *akklimatisieren, erkälten, räuspern, verkühlen, übergeben, wohlfühlen*
-- Natural process: *abregnen, anfinden, bauchen, behaaren, bewahrheiten, bewölken, eintrüben, entspinnen, ereignen, herauskristallisieren, jähren, rentieren, verästeln, verpuppen, verzweigen, zutragen*
+- Natural process: *abregnen, anfinden, bauchen, behaaren, bewahrheiten, bewölken, eintrüben, entspinnen, ereignen, herauskristallisieren, jähren, rentieren, verästeln, verfärben, verpuppen, verzweigen, zutragen*
 
 **Further Examples**
 
@@ -336,12 +336,13 @@ Ich hab mich der Aufgabe hingegeben.
 
 **Attested Verbs**
 
-- *beugen (fügen), fügen, hingeben (eifrig widmen), unterwerfen, widersetzen, zugesellen*
+- *anschließen, beugen (fügen), fügen, hingeben (eifrig widmen), unterwerfen, widersetzen, zugesellen*
 
 **Further Examples**
 
 - Europa beugt sich dem Willen der USA.
 - Ich widersetze mich dem Befehl.
+- Ich werde mich deinem Vorschlag anschließen.
 - In Scharen gesellt sie sich häufig dem Hausgeflügel zu.^[~~DWDS~~: Natzmer, Gert von: Tierstaaten und Tiergesellschaften, Berlin: Safari-Verl. 1967, S. 209.]
 
 ### [ NG ] Obligatory accusative reflexive+genitive {#sec:reflexive-obligatory-accusative-genitive}
@@ -368,15 +369,16 @@ Ich entledige mich meines Gegners.
 
 ### [ N ] Obligatory dative reflexive {#sec:reflexive-obligatory-dative}
 
-It is exceedingly rare to have a dative *sich* without other arguments. A possible example is the (arguably lexicalised) collocation *sich Mühe geben* 'to make an effort' [@next].
+It is exceedingly rare to have a dative *sich* without other arguments. A possible example is the (arguably lexicalised) collocation *sich Mühe geben* 'to make an effort' [@next a]. Also, the verb *behelfen* 'to manage' is apparently becoming acceptable with a dative reflexive pronoun in online communication [@strecker2017].
 
 ::: ex
-Ich gebe mir Mühe.
+- Ich gebe mir Mühe.
+- Ich behelfe mich (mir).
 :::
 
 **Attested Verbs**
 
-- *Mühe geben*
+- *behelfen, Mühe geben*
 
 ### [ NA ] Obligatory dative reflexive+accusative {#sec:reflexive-obligatory-dative-accusative}
 
@@ -700,7 +702,7 @@ c. Ich habe mir das Haus angesehen.
 
 **Attested Verbs**
 
-- *anhören, ansehen, ausdenken, erbetteln, erdenken, erhandeln, ersparen (Geld), erspielen, überlegen, verdienen, wünschen*
+- *anhören, ansehen, ausdenken, erbetteln, erdenken, erhandeln, erkämpfen, erschwimmen, ersehnen, ersparen (Geld), erspielen, erwandern, überlegen, verdienen, wünschen*
 
 **Further Examples**
 
@@ -716,7 +718,16 @@ c. Ich habe mir das Haus angesehen.
   Ich erhandele mir ein Vorrecht.
 - Die USA wünschen ein europäisches Fluggastdaten-Register.^[~~DWDS~~: Die Zeit, 08.09.2015 (online).] \
   Ich wünsche mir ein Fahrrad.
-- Das genügt den Theoretikern jedoch, sich vier Arten von schwarzen Löchern zu erdenken.^[~~DWDS~~: Die Zeit, 27.08.1971, Nr. 35.]
+- Könnte ja sein, dass gerade niemand etwas Neues erdenkt und erfindet.^[~~DWDS~~: Die Zeit, 07.09.2017, Nr. 37.] \
+  Das genügt den Theoretikern jedoch, sich vier Arten von schwarzen Löchern zu erdenken.^[~~DWDS~~: Die Zeit, 27.08.1971, Nr. 35.]
+- Schwerkranke ersehnen solche Botschaften.^[~~DWDS~~: Die Zeit, 07.04.2017, Nr. 10.] \
+  Sie ersehnen sich menschlich zugewandte und gerechte Gesten der Erkenntnis.^[~~DWDS~~: Berliner Zeitung, 19.03.1999.]
+- Das erste EM-Gold für die Gastgeber erschwamm Adam Peaty.^[~~DWDS~~: Die Zeit, 17.05.2016 (online).] \
+  Zumindest Völker erschwimmt sich jährlich einen fünfstelligen Betrag.^[~~DWDS~~: Berliner Zeitung, 16.03.2000.]
+- Er erwanderte seine neue Heimat.^[~~DWDS~~: Zeit Magazin, 20.09.2012, Nr. 39.] \
+  Sie erwandert sich die Atlantikküste.^[~~DWDS~~: Die Zeit, 24.05.2007, Nr. 22.]
+- Die Armee hat den Sieg erkämpft. \
+  Der Sportler hat sich den ersten Platz erkämpft.
 
 **Notes**
 
@@ -1225,10 +1236,10 @@ There is some discussion in the literature [@schafer2007: 35ff.; @kurogo2016] ab
 
 **Attested Verbs**
 
-- Change of position: *ändern, auftun, bewegen, drehen, lockern, öffnen, schließen, senken, spalten, teilen, verschieben, versammeln*
-- Change of dimension: *abschwächen, ansparen, ausbreiten, ausdehnen, beschleunigen, beschränken, entfalten, erhöhen, erweitern, steigern, verändern, verbessern, verbreiten, verdoppeln, verengen, vergrößern, verkleinern, verkürzen, verlangsamen, verlängern, vermehren, verringern, verstärken*
-- Change of physical state: *abkühlen, ablagern, ablösen, abnutzen, abschalten, abschwächen, abseilen, auflösen, aufwärmen, ausschalten, beziehen, brechen (Wellen), einfügen, einschalten, eindrücken, entzünden, erwärmen, färben, festigen, füllen, gliedern, komplizieren, leeren, verändern, verbessern, vereinfachen, verhaken, verkomplizieren, verschlechtern, verwandeln, wärmen*
-- Others: *ansammeln, bessern, bestätigen, erfüllen, entscheiden, konstituieren, lohnen, mildern, unterwerfen, wiederholen, zeigen*
+- Change of position: *ändern, auftun, bewegen, drehen, lockern, öffnen, schließen, senken, spalten, teilen, umgeben, verschieben, versammeln*
+- Change of dimension: *abschwächen, ansammeln, ansparen, ausbreiten, ausdehnen, beschleunigen, beschränken, entfalten, erhöhen, erweitern, steigern, verändern, verbessern, verbreiten, verdoppeln, verengen, vergrößern, verkleinern, verkürzen, verlangsamen, verlängern, vermehren, verringern, verstärken, verteuern*
+- Change of physical state: *abkühlen, ablagern, ablösen, abnutzen, abschalten, abschwächen, abseilen, auflösen, aufwärmen, ausschalten, beziehen, brechen (Wellen), erleuchten, einfügen, einschalten, eindrücken, entzünden, erwärmen, färben, festigen, füllen, gliedern, komplizieren, leeren, runden, röten, verändern, verbessern, vereinfachen, verhaken, verkomplizieren, verschlechtern, verwandeln, wärmen*
+- Others: *bessern, bestätigen, erfüllen, entscheiden, konstituieren, lohnen, mildern, unterwerfen, wiederholen, zeigen*
 
 **Further Examples**
 
@@ -1264,14 +1275,23 @@ There is some discussion in the literature [@schafer2007: 35ff.; @kurogo2016] ab
   Die Nachricht bestätigt sich.
 - Wir wollen das Problem nicht (noch mehr) (ver)komplizieren. \
   Die Lage hat sich in den letzten Tagen (ver)kompliziert.
-- Der Dichter feilte und besserte an jedem Satz.^[Attested online at https://www.dwds.de/wb/bessern, accessed 1 August 2022.] \
-  Das Wetter bessert sich.
 - Er erfüllt meine Wünsche. \
   Meine Wünsche erfüllen sich.
 - Ich drehe die Kurbel. \
   Die Kurbel dreht sich.
 - Die Felsenküste bricht die Wellen. \
   Die Wellen brechen sich an der Felsenküste.
+- Die Flammen röteten die Gesichter der Umstehenden.
+  Im Herbst rötet sich das Laub der Bäume.
+- Ein Blick auf die Tabelle besserte seine Laune zusätzlich auf.^[~~DWDS~~: Die Zeit, 15.02.2016 (online).] \
+  Seine Laune bessert sich zusehends.
+- Er rundet seine Lippen. \
+  Seine Lippen runden sich.
+- Er hat sich mit einem Mitarbeiterstab umgeben.
+- Hohe Transportkosten verteuern die Preise.
+  Die Preise verteuern sich.
+- Ich erleuchte die Bühne. \
+  Die Bühne erleuchtet sich.
 
 **Notes**
 
@@ -1740,7 +1760,7 @@ Wiemer and Nedjalkov [-@wiemer2007: 464-465] call such verbs 'deaccusatives' and
 
 ::: ex
 a. Ich beklage den Lärm.
-b. Ich beklage mich (*selbst) über den Lärm.
+b. Ich beklage mich (\*selbst) über den Lärm.
 c. ^* Ich beklage.
 d. Ich beklage mich.
 e. Ich beklage mich darüber, dass es so laut ist.
@@ -1961,7 +1981,7 @@ b. Ich erbarmte mich des Kranken. \
 
 ### [ ND | GN ] Reflexive dative/genitive inversive {#sec:reflexive-genitive-passive-dative}
 
-There used to be a reflexive verb *bewissen* 'to know about' [@pfeiffer1993: *wissen*, accessed 2 August 2022] in Early New High German, but only the construction with the participle *bewusst* is still in contemporary use. The non-reflexive construction [@next a] is probably a later addition. As a synchronic diathesis this alternation is a rare example of a dative reflexive without accusative.
+There used to be a reflexive verb *bewissen* 'to know about' in Early New High German [@pfeiffer1993]^[Entry *wissen* at https://www.dwds.de/wb/etymwb/wissen accessed 2 August 2022]. but only the construction with the participle *bewusst* is still in contemporary use. The non-reflexive construction [@next a] is probably a later addition. As a synchronic diathesis this alternation is a rare example of a dative reflexive without accusative.
 
 ::: ex
 a. Das Problem ist mir bewusst.

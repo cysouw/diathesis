@@ -541,9 +541,9 @@ b. Der neue Besitzer lässt den Teppich (von der Wäscherei) reinigen.
 
 An ~~applicative~~ is a diathesis in which a prepositional phrase is promoted to an object. For details on the definition see [@sec:intro-applicative-antipassive]. Applicatives in German are typically marked by a preverb or an adverb, though possessor and benefactor datives are also included under this heading.
 
-### *Präverb Applikativ* {#sec:summary-praverb-applikativ}
+### *Präverb Akkusativ Applikativ* {#sec:summary-praverb-applikativ}
 
-The ~~Präverb Applikativ~~ (full discussion in [@sec:preverb-applicative] and subsequent sections) is a diathesis in which a prepositional phrase of an intransitive verb is turned into an accusative through the addition of a preverb. For example, the alternation from *steigen* to *besteigen* 'to climb' additionally induces a change from a preposition phrase with *auf* to an accusative [@next a,b]. There is a wide variety in preverbs (both *Verbpräfixe* and *Verbpartikel*) and a wide variety of prepositions that show such a diathesis. This diathesis is also attested with governed prepositions, for example with *an* as used with the verb *arbeiten* 'to work' [@next c]. The prepositional phrase turns into an accusative with *erarbeiten* 'to work something out' (full discussion in [@sec:preverb-governed-applicative]). A closely related diathesis called *Präverb Vollapplikativ* is attested with transitive verbs (see [@sec:summary-praverb-vollapplikativ]).
+The ~~Präverb Akkusativ Applikativ~~ (full discussion in [@sec:preverb-applicative] and subsequent sections) is a diathesis in which a prepositional phrase of an intransitive verb is turned into an accusative through the addition of a preverb. For example, the alternation from *steigen* to *besteigen* 'to climb' additionally induces a change from a preposition phrase with *auf* to an accusative [@next a,b]. There is a wide variety in preverbs (both *Verbpräfixe* and *Verbpartikel*) and a wide variety of prepositions that show such a diathesis. This diathesis is also attested with governed prepositions, for example with *an* as used with the verb *arbeiten* 'to work' [@next c]. The prepositional phrase turns into an accusative with *erarbeiten* 'to work something out' (full discussion in [@sec:preverb-governed-applicative]). A closely related diathesis called *Präverb Vollapplikativ* is attested with transitive verbs (see [@sec:summary-praverb-vollapplikativ]).
 
 ::: ex
 a. Ich steige auf den Berg.
@@ -553,9 +553,9 @@ c. Ich arbeite an einem Plan. \
 d. Ich erarbeite einen Plan.
 :::
 
-### *Adverb Applikativ* {#sec:summary-adverb-applikativ}
+### *Adverb Akkusativ Applikativ* {#sec:summary-adverb-applikativ}
 
-The ~~Adverb Applikativ~~ (full discussion in [@sec:adverbials-applicative]) is also an alternation that turns a prepositional phrase into an accusative, though in this instance the diathesis is induces by a resultative adverbial, like *leer* 'empty' or *gesund* 'healthy'. When used with an intransitive verb like *fischen* 'to fish' [@next a] the prepositional phrase is turned into an accusative. The effect of this diathesis is that the new accusative *Teich* 'pond' is in the state described by the adverbial *leer* 'empty' as a result of the verbal action *fischen* 'to fish' [@next b]. This diathesis is also attested with governed prepositions, for example with the verb *beten für* 'to pray for' [@next c,d]. A closely related *Adverb Vollapplikativ* diathesis is attested with transitive verbs (see [@sec:summary-adverb-vollapplikativ]).
+The ~~Adverb Akkusativ Applikativ~~ (full discussion in [@sec:adverbials-applicative]) is also an alternation that turns a prepositional phrase into an accusative, though in this instance the diathesis is induces by a resultative adverbial, like *leer* 'empty' or *gesund* 'healthy'. When used with an intransitive verb like *fischen* 'to fish' [@next a] the prepositional phrase is turned into an accusative. The effect of this diathesis is that the new accusative *Teich* 'pond' is in the state described by the adverbial *leer* 'empty' as a result of the verbal action *fischen* 'to fish' [@next b]. This diathesis is also attested with governed prepositions, for example with the verb *beten für* 'to pray for' [@next c,d]. A closely related *Adverb Vollapplikativ* diathesis is attested with transitive verbs (see [@sec:summary-adverb-vollapplikativ]).
 
 ::: ex
 a. Ich fische im Teich.
@@ -698,6 +698,15 @@ a. Sie zaubert.
 b. Sie verzaubert mich.
 :::
 
+### *Präverb Reflexiv Akkusativ* {#sec:summary-praverb-reflexiv-akkusativ}
+
+The ~~Präverb Reflexiv Akkusativ~~ (full discussion in [@sec:preverb-reflexive-resultative]) is a special variant of an objective diathesis in that the addition of the preverb leads to a new accusative argument, but also includes an obligatory reflexive pronoun. The new accusative role is semantically the result of the action of the main verb, which is actually similar to the *Resultatakkusativ* ([@sec:summary-resultatakkusativ]) and different from the *Präverb Akkusativ* ([@sec:summary-praverb-akkusativ]). For example, the diathesis from *tanzen* 'to dance' to *antanzen* 'to incur from dancing' [@next] adds the incurrence *Muskelkater* 'sore muscles' and a dative reflexive pronoun *mir*.
+
+::: ex
+a. Ich habe gestern viel getanzt.
+b. Ich habe mir gestern einen Muskelkater angetanzt.
+:::
+
 ### *Präverb Dativ* {#sec:summary-praverb-dativ}
 
 The ~~Präverb Dativ~~ (full discussion in [@sec:preverb-dative-addition] and subsequent sections) is similar to the previous *Präverb Akkusativ* in that the addition of the preverb also induces a new role, in this diathesis marked with a dative case. This diathesis is attested both with intransitive verbs like *gehen* 'to walk' when derived into preverbal *entgehen* 'to evade' [@next a] and with transitive verbs like *lesen* 'to read' when derived into preverbal *vorlesen* 'to read out' [@next b].
@@ -707,15 +716,6 @@ a. Ich gehe (nach Hause). \
    Ich entgehe dem Urteil.
 b. Ich lese ein Buch. \
    Ich lese dir ein Buch vor.
-:::
-
-### *Präverb Reflexiv Akkusativ* {#sec:summary-praverb-reflexiv-akkusativ}
-
-The ~~Präverb Reflexiv Akkusativ~~ (full discussion in [@sec:preverb-reflexive-resultative]) is a special variant of an objective diathesis in that the addition of the preverb leads to a new accusative argument, but also includes an obligatory reflexive pronoun. The new accusative role is semantically the result of the action of the main verb, which is similar to the *Resultatakkusativ* ([@sec:summary-resultatakkusativ]), but different from the ~~Präverb Akkusativ~~ ([@sec:summary-praverb-akkusativ]). For example, the diathesis from *tanzen* 'to dance' to *antanzen* 'to incur from dancing' [@next] adds the incurrence *Muskelkater* 'sore muscles' and a reflexive pronoun.
-
-::: ex
-a. Ich habe gestern viel getanzt.
-b. Ich habe mir gestern einen Muskelkater angetanzt.
 :::
 
 ## Deobjective diatheses ~~[OBJ › Ø]~~

@@ -291,16 +291,16 @@ Not all collocations of verbs with a preposition are governed phrases. For examp
 
 **Attested Verbs**
 
-- *an*   : *appellieren*
-- *auf*  : *achten (aufpassen), bauen, bestehen, hoffen, kommen, vertrauen*
-- *aus*  : *bestehen*
-- *bei*  : *bleiben*
-- *für*  : *sprechen*
-- *mit*  : *brechen (sich abwenden), kämpfen, spielen*
-- *über* : *handeln*
-- *von*  : *handeln, kommen*
-- *vor*  : *stehen*
-- *zu*   : *neigen, passen, stehen*
+- an   : *appellieren*
+- auf  : *achten (aufpassen), bauen, bestehen, hoffen, kommen, vertrauen*
+- aus  : *bestehen*
+- bei  : *bleiben*
+- für  : *sprechen*
+- mit  : *brechen (sich abwenden), kämpfen, spielen*
+- über : *handeln*
+- von  : *handeln, kommen*
+- vor  : *stehen*
+- zu   : *neigen, passen, stehen*
 
 **Further Examples**
 
@@ -335,10 +335,10 @@ Some verbs, like *erinnern* 'to remind' [@next], combine a governed preposition 
 
 **Attested Verbs**
 
-- *an*   : *erinnern, gewöhnen, wenden*
-- *über* : *aufklären*
-- *für*  : *ausgeben (bezeichnen)*
-- *mit*  : *begründen*
+- an   : *erinnern, gewöhnen, wenden*
+- über : *aufklären*
+- für  : *ausgeben (bezeichnen)*
+- mit  : *begründen*
 
 **Further Examples**
 
@@ -359,11 +359,7 @@ Some verbs appear to have an obligatory locational argument, like *wohnen* 'to l
 
 **Attested Verbs**
 
-- Verbs of living: *einziehen, wohnen, übernachten*
-
-**Further Examples**
-
-- Die Sportler zogen in das Stadion ein.^[~~DWDS~~: Lemma *einziehen*.]
+- *wohnen, übernachten*
 
 ### [ NAL ] Obligatory local preposition+accusative {#sec:prepositions-obligatory-local}
 
@@ -400,8 +396,8 @@ The verb *belassen bei* 'to rest a matter with' [@next] appears to have an oblig
 
 **Attested Verbs**
 
-- *auf* : *absehen*
-- *bei* : *belassen*
+- auf : *absehen*
+- bei : *belassen*
 
 **Further Examples**
 
@@ -454,10 +450,10 @@ d. Es zeugt von deinem Einsatz.
 
 **Attested Verbs**
 
-- *von* : *abhängen, wimmeln*
-- *zu*  : *kommen*
-- *an*  : *hapern*
-- *bei* : *hapern*
+- von : *abhängen, wimmeln*
+- zu  : *kommen*
+- an  : *hapern*
+- bei : *hapern*
 
 **Further Examples**
 
@@ -490,7 +486,7 @@ b. Ihm fehlt es an Geld.
 
 **Attested Verbs**
 
-- *an*: *fehlen, mangeln*
+- an: *fehlen, mangeln*
 
 **Further Examples**
 
@@ -540,9 +536,9 @@ d. Mir passt der Anzug.
 
 **Attested Verbs**
 
-- *mit* : (Noise production) *klappern, klingeln, quietschen, rasseln, rattern*
-- *an*  : *zunehmen*
-- *in*  : *passen*
+- mit : (Noise production) *klappern, klingeln, quietschen, rasseln, rattern*
+- an  : *zunehmen*
+- in  : *passen*
 
 **Further Examples**
 
@@ -902,22 +898,21 @@ b. Der Reporter spricht von einem historischen Ereignis. \
 
 **Attested Verbs**
 
-- *über*  : (Object of control) *herrschen, siegen, triumphieren*
-- *über*  : (Content of report) *lügen, reden, sprechen, schweigen*
-- *über*  : (Content of cognitive process) *denken, meditieren, nachdenken*
-- *über*  : (Object of emotional reaction) *klagen, lachen, schimpfen, staunen, streiten, weinen*
-- *von*   : (Content of report) *reden, sprechen*
-- *von*   : (Content of cognitive process) *träumen*
-- *auf*   : (Object of expectation) *drängen, hoffen, rechnen, verzichten, warten*
-- *auf*   : (Object of emotional reaction) *schimpfen*
-- *nach*  : (Object of smell/taste) *duften, riechen, stinken, schnüffeln, schmecken*
-- *vor*   : (Object of emotional reaction) *platzen, rasen (Emotion), schreien*
-- *an*    : *arbeiten, denken, klopfen, scheitern, sterben, teilnehmen, zweifeln*
-- *um*    : *streiten*
+- über  : (Object of control) *siegen, triumphieren*
+- über  : (Content of report) *lügen, reden, sprechen, schweigen*
+- über  : (Content of cognitive process) *denken, meditieren, nachdenken*
+- über  : (Object of emotional reaction) *klagen, lachen, schimpfen, staunen, streiten, weinen*
+- von   : (Content of report) *reden, sprechen*
+- von   : (Content of cognitive process) *träumen*
+- auf   : (Object of expectation) *drängen, hoffen, rechnen, verzichten, warten*
+- auf   : (Object of emotional reaction) *schimpfen*
+- nach  : (Object of smell/taste) *duften, riechen, stinken, schnüffeln, schmecken*
+- vor   : (Object of emotional reaction) *platzen, rasen (Emotion), schreien*
+- an    : *arbeiten, denken, scheitern, sterben, teilnehmen, zweifeln*
+- um    : *streiten*
 
 **Further Examples**
 
-- Es herrscht Übereinstimmung über die Frage.
 - Ich rede über die Angelegenheit.
 - Ich spreche von den Plänen.
 - Ich rede von den Plänen.
@@ -934,9 +929,10 @@ b. Der Reporter spricht von einem historischen Ereignis. \
 - Ich schimpfe auf dich.
 - Der Müll stinkt nach Fisch.
 - Ich streite um meine Freiheit.
-- Ich klopfe an der Tür. (vgl. Ich klopfe den Takt)
-- Ich rase vor Begeisterung. Mein Kopf rast.
-- Ich platze vor Neugier. Der Ballon platzt.
+- Ich rase vor Begeisterung. \
+  Mein Kopf rast.
+- Ich platze vor Neugier. \
+  Der Ballon platzt.
 
 ### [ NAP | NA– ] Governed preposition drop+accusative
 
@@ -950,11 +946,11 @@ c. ^* Ich bereite auf die Klausur vor.
 
 **Attested Verbs**
 
-- *über* : *behaupten, erfahren*
-- *an*   : *beteiligen, erkennen, hindern, rächen*
-- *zu*   : *treffen*
-- *auf*  : *vorbereiten*
-- *von*  : *unterscheiden, verlangen*
+- über : *behaupten, herrschen, erfahren*
+- an   : *beteiligen, erkennen, hindern, rächen*
+- zu   : *treffen*
+- auf  : *vorbereiten*
+- von  : *unterscheiden, verlangen*
 
 **Further Examples**
 
@@ -968,8 +964,66 @@ c. ^* Ich bereite auf die Klausur vor.
 - Ich unterscheide A von B.
 - Ich verlange Gehorsamkeit von dir.
 - Ich erfahre Neuigkeiten über die Versammlung.
+- Es herrscht Übereinstimmung über die Frage.
 
-### [ NAP | N– – ] Governed preposition drop+accusative drop
+### [ NL | N– ] Location preposition drop {#sec:prepositions-location-drop}
+
+A special variant of a dropped preposition of is the removal of an obligatory locational phrase. The verb *steigen* 'to mount' has an obligatory locational phrase with an agentive subject [@next a,b]. The analysis that the subject is agentive is reinforced by the impossibility for the participle to be used attributively without the locational phrase [@next c,d], cf. [@sec:participles-adnominal-usage].
+
+::: ex
+- Der Mann steigt aus dem Auto.
+- ^* Der Mann steigt.
+- Der aus dem Auto gestiegene Mann […].
+- ^* Der gestiegene Mann […].
+:::
+
+Though crucially, the verb *steigen* can also be used without a locational phrase in the meaning 'to rise' [@next a] with various inanimate subjects.^[I thank Jens Fleischhauer for this observation.] In such uses the participle can be used attributively [@next b]. 
+
+::: ex
+- Die Temperatur steigt.
+- Die gestiegene Temperatur […].
+:::
+
+The verbs that allow for such a diathesis have a clear difference in meaning between the two uses, one more agentive and the other more patientive (cf. [@sec:participles-restrictions]).
+
+- *eilen*: 'to hurry' vs. 'to be urgent'
+- *laufen*: 'to walk' vs. 'to be in progress'
+- *steigen*: 'to mount' vs. 'to rise'
+- *stehen*: 'to stand' vs. 'to be stopped'
+- *ziehen*: 'to pull' vs 'to brew'
+
+**Attested Verbs**
+
+- *eilen, laufen, steigen, stehen, ziehen*
+
+**Further Examples**
+
+- Ich ziehe am Seil. \
+  Der Tee zieht.
+- Ich stehe in der Wohnung. \
+  Die Uhr steht.
+- Ich bin nach Hause gelaufen. \
+  Das Spiel ist gelaufen.
+- Ich eile nach Hause.
+  Der Brief eilt.
+
+### [ NAL | NA– ] Location preposition drop+accusative
+
+The verb *durchziehen* needs a location phrase when used in the meaning 'to pull through' [@next a], but not when it is used in the meaning 'to see through' [@next b].
+
+::: ex
+- Ich habe den Faden durch das Nadelöhr durchgezogen.
+- ^^?^ Ich habe den Faden durchgezogen.
+- Ich habe die Reform durchgezogen.
+:::
+
+**Attested Verbs**
+
+- *durchziehen*
+
+### --- [ OBJ > Ø ] --- {.unnumbered}
+
+### [ NAP | N–P ] Accusative drop+governed preposition
 
 Different from the previous alternation, these verbs allow for both the preposition and the accusative to be dropped [@next a-c].
 
@@ -981,16 +1035,16 @@ c. Ich warne vor den Gefahren.
 
 **Attested Verbs**
 
-- *über* (Content of report): *erzählen, hören, informieren, schreiben*
-- *von*  (Origin of report): *erfahren, hören*
-- *vor*: *schützen, warnen*
+- über : (Content of report) *erzählen, hören, informieren, schreiben*
+- von  : (Origin of report) *erfahren, hören*
+- vor  : (Protection) *schützen, warnen*
 
 **Further Examples**
 
-- Ich informiere die Anwesenden über die Angelegenheit.
-- Ich erzähle die Geschichte über die Angelegenheit.
-- Ich schütze die Menschheit vor den Gefahren.
-- Ich warne dich vor den Gefahren.
+- Ich informiere (die Anwesenden) über die Angelegenheit.
+- Ich erzähle (die Geschichte) über die Angelegenheit.
+- Ich schütze (die Menschheit) vor den Gefahren.
+- Ich warne (dich) vor den Gefahren.
 
 ### [ NDP | N–P ] Dative drop+governed preposition
 
@@ -1004,9 +1058,9 @@ c. Ich rate zum Verkauf.
 
 **Attested Verbs**
 
-- *zu*   : *raten*
-- *über* : *berichten, erzählen*
-- *von*  : *berichten, erzählen*
+- zu   : *raten*
+- über : *berichten, erzählen*
+- von  : *berichten, erzählen*
 
 **Further Examples**
 
@@ -1026,10 +1080,10 @@ d. ^^?^ Ich gratuliere.
 
 **Attested Verbs**
 
-- *zu*   : *gratulieren*
-- *bei*  : *zuschauen*
-- *für*  : *danken*
-- *auf*  : *antworten*
+- zu   : *gratulieren*
+- bei  : *zuschauen*
+- für  : *danken*
+- auf  : *antworten*
 
 **Further Examples**
 
@@ -1055,15 +1109,15 @@ c. Ich sitze auf dem Stuhl. \
 
 There appear to be only a small selection of prepositions that can be used in such alternations, which will be discussed in turn in subsequent subsections.
 
-- *an*   : Partially completed action and/or bodily contact with object
-- *auf*  : Action in the direction of object or object as musical instrument
-- *aus*  : Object of reading
-- *in*   : Partially completed action inside object
-- *mit*  : Object as instrument or reciprocal activity
-- *nach* : Less affected object of action in the direction of object
-- *von*  : Partial usage of object
-- *über* : Object of control, communication, or cognitive content
-- *zu*   : Direction
+- an   : Partially completed action and/or bodily contact with object
+- auf  : Action in the direction of object or object as musical instrument
+- aus  : Object of reading
+- in   : Partially completed action inside object
+- mit  : Object as instrument or reciprocal activity
+- nach : Less affected object of action in the direction of object
+- von  : Partial usage of object
+- über : Object of control, communication, or cognitive content
+- zu   : Direction
 
 It is important to realise that many verbs allow for more than one of these alternations, depending on the reading of the verb/object combination, illustrated here with the verb *spielen*, 'to play' [@next a,b]. With the same verb, there might even be readings that do not allow for any prepositional alternation [@next c-e].
 
@@ -1436,12 +1490,12 @@ It seems to be somewhat unusual for verbs with dative but without accusative to 
 
 **Attested Verbs**
 
-- *aus*  : (movement out of) *entkommen, entfliehen, entschlüpfen, entspringen, entwischen*
-- *für*  : (on behalf of) *bedeuten, bevorstehen, bleiben*
-- *auf*  : *folgen*
-- *zu*   : (belonging to) *dienen, gehören, passen*
-- *über* : *gebieten*
-- *vor*  : (movement away from) *fliehen, flüchten, weichen*
+- aus  : (movement out of) *entkommen, entfliehen, entschlüpfen, entspringen, entwischen*
+- für  : (on behalf of) *bedeuten, bevorstehen, bleiben*
+- auf  : *folgen*
+- zu   : (belonging to) *dienen, gehören, passen*
+- über : *gebieten*
+- vor  : (movement away from) *fliehen, flüchten, weichen*
 
 **Further Examples**
 
@@ -1471,10 +1525,10 @@ It seems to be somewhat unusual for verbs with dative but without accusative to 
 
 With an additional accusative argument it is widespread for dative arguments to have an alternative expression in the form of a prepositional phrase. However, it is rather difficult to characterise the semantic difference between two such alternating expressions (cf. [@devaere2018] for an investigation for the verb *geben* and the large literature on the English dative alternation). There are only a few monosyllabic prepositions that can be used for this alternation:
 
-- *an*  : Moving towards
-- *von* : Removing from
-- *vor* : Hiding from
-- *zu*  : Moving towards
+- an  : Moving towards
+- von : Removing from
+- vor : Hiding from
+- zu  : Moving towards
 
 #### *an* Ditransitive dative alternation
 
@@ -1567,10 +1621,10 @@ d. Die Arbeit beginnt.
 
 **Attested Verbs**
 
-- *mit*  : *anfangen, beginnen, rechnen, zögern*
-- *an*   : *glauben (für Wahr halten), leiden*
-- *nach* : *verlangen*
-- *für*  : *büßen, garantieren, leben*
+- mit  : *anfangen, beginnen, rechnen, zögern*
+- an   : *glauben (für Wahr halten), leiden*
+- nach : *verlangen*
+- für  : *büßen, garantieren, leben*
 
 **Further Examples**
 
@@ -1610,7 +1664,7 @@ The verb *vertrauen* 'to trust' [@next] is currently the only known example of a
 
 **Attested Verbs**
 
-- *auf*  : *vertrauen*
+- auf  : *vertrauen*
 
 ### [ NG | NP ] Genitive governed antipassive {#sec:prepositions-genitive-antipassive}
 
@@ -1624,7 +1678,7 @@ c. Ich denke daran, dass ich Milch kaufen muss.
 
 **Attested Verbs**
 
-- *an* : *denken*
+- an : *denken*
 
 ### [ NAG | NAP ] Genitive governed antipassive+accusative {#sec:prepositions-genitive-antipassive-accusative}
 
@@ -1677,9 +1731,9 @@ This alternation allows for either a dative to be present or not with verbs that
 
 **Attested Verbs**
 
-- *auf* : *ankommen*
-- *um*  : *gehen*
-- *an*  : *fehlen, liegen*
+- auf : *ankommen*
+- um  : *gehen*
+- an  : *fehlen, liegen*
 
 **Further Examples**
 
@@ -1875,9 +1929,9 @@ b. Er macht die Wiese zu einem Garten. \
 
 **Attested Verbs**
 
-- *zu*  : *erklären, machen*
-- *für* : *halten, erklären*
-- *als* : *ansehen, benennen, betrachten, bezeichnen, empfinden, empfehlen, vorschlagen, wünschen*
+- zu  : *erklären, machen*
+- für : *halten, erklären*
+- als : *ansehen, benennen, betrachten, bezeichnen, empfinden, empfehlen, vorschlagen, wünschen*
 
 **Further Examples**
 
@@ -2093,7 +2147,7 @@ b. Ich lege dir den Brief auf den Schreibtisch.
 **Attested Verbs**
 
 - Causative position verbs: *hängen, häufen, kleben, klopfen, lehnen, legen, stellen, stecken, setzen*
-- Bodily actions: *husten, spucken*
+- Bodily actions: *flüstern, husten, spucken*
 - Transitive caused location: *brechen, bügeln, erwarten, filtern, jagen, kämmen, polieren, schneiden, waschen, wischen*
 
 **Further Examples**
@@ -2128,6 +2182,8 @@ b. Ich lege dir den Brief auf den Schreibtisch.
   Ich breche dir eine Tür in die Wand.
 - Ich wasche den Fleck aus deiner Hose. \
   Ich wasche dir den Fleck aus der Hose.
+- Er flüstert den Code in mein Ohr. \
+  Er flüstert mir den Code ins Ohr.
 - Er häufte mir das ganze Kleingeld in die Hand.^[~~DWDS~~: Böll, Wort 133.]
 
 **Notes**

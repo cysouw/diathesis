@@ -94,17 +94,23 @@ A further kind of nominal predication uses the verb *heißen* 'to be named' [@du
 - Der Henker hieß ihn niederknien.
 :::
 
-### ACI *accusativus cum infinitivo* 
+### ACI *accusativus cum infinitivo* {#sec:infinitive-aci}
 
-Given the immense influence of Latin grammar on grammatical theory, it is no surprise that the classical Latin *accusativus cum infinitivo* (ACI) construction is often used to desribe a similary phenomenon in German [@next]. In such constructions, the subject of the verb in the infinitive (viz. the logical subject of *putzen* and *kaufen*) ends up as an accusative. This construction is very widespread in Latin, but in German only applicable to the few light-verb-plus‑Infinitive construction that add a new subject, viz causative verbs like *schicken* 'to send' [@next a] and perception verbs like *sehen* 'to see' [@next b]. Speyer [@speyer2018a] discusses the history of these constructions in German, argueing that they are original Germanic (and possibly even proto-Indo-European). Although the surface structure in German are clearly monoclausal, underlyingly there might be a different structures for verbs like *sehen* with a biclausal *dass* alternative [see @harbert1977 for a discussion].
+Given the immense influence of Latin grammar on grammatical theory, it is no surprise that the classical Latin *accusativus cum infinitivo* (ACI) construction is often used to describe a similar phenomenon in German. In such light-verb-plus-infinitive diatheses, the subject of the verb in the infinitive, viz. the nominative subject of *kaufen* and *putzen* in [@next], ends up as an accusative. This regularly results in sentences with multiple noun phrases in the accusative, namely when already an accusative argument was present before the diathesis. Such double accusatives are highly unusual in German outside of these constructions (see [@sec:case-double-accusative]).
+
+This ACI construction is very widespread in Latin, but in German only attested with the few light-verb-plus‑infinitive construction that add a new subject (see [@sec:infinitive-promotion-to-subject]), namely causative light verbs like *schicken* 'to send' [@next a] and perception light verbs like *sehen* 'to see' [@next b]. As a cover term for such diatheses, I have proposed the term ~~novative~~ in [@sec:intro-subject-promotions]. So, ACI constructions are the result of novative diatheses that use a light-verb-plus-infinitive construction.
 
 ::: ex
-- Er kauft Brot. \
-  Sie schickt ihn Brot kaufen.
+- Er kauft einen Topf. \
+  Sie schickt ihn einen Topf kaufen.
 - Der Mann putzt den Tisch. \
   Sie sieht, dass der Mann den Tisch putzt. \
   Sie sieht den Mann den Tisch putzen.
 :::
+
+Although the surface structure of these constructions in German is clearly monoclausal, underlyingly there might be different structures between light verbs like *schicken* [@last a], that only allow for an infinitive construction, and light verbs like *sehen* [@last b], that additionally allow for a biclausal *dass* alternative [see @harbert1977 for a discussion].
+
+Speyer [@speyer2018a] discusses the history of these constructions in German, arguing that they are originally Germanic (and possibly even proto-Indo-European) and not calques from Latin. 
 
 ### IPP *Ersatzinfinitiv*
 
@@ -682,7 +688,7 @@ b. ^* Ich lasse seinem Freund den Rechner schenken (von dem Verkäufer).
 
 - Ich verbiete ihr das Rauchen nicht. Sie lässt sich (von mir) das Rauchen nicht verbieten.
 
-## Diatheses with promotion to subject
+## Diatheses with promotion to subject {#sec:infinitive-promotion-to-subject}
 
 ### --- [ Ø > SBJ > ADJ ] --- {.unnumbered}
 

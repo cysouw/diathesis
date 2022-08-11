@@ -1104,87 +1104,306 @@ combination with psych predicates in German.
 
 - p. 206 The two examples with bedenken are unacceptable!
 
-> Archaic is better. I have added real examples and noted that this is not contemporary German anymore.
+> 'Archaic' is more like it. I have added real examples and noted that this is not contemporary German anymore.
 
 - p. 207 ‘a discussion of term’: ‘the term’ or just delete ‘term’
 
 > corrected
 
 - p. 208 8.2.1 Be more precise with elements can intervene between particle and verb (comes later in the book but should be mentioned here already).
+
+> added
+
 - p. 209 8.3b Really attested? Strange example.
+
+> This usage is attested, though maybe the transitive structure is strange. I have added a different example from some online source.
+
 - p. 211 8.6c Please explain what the examples show.
+
+> They are references in the text above the example. No change.
+
 - p. 211 The contrast between blühen and verblühen is easily explained: verblühen denotes a change of state but blühen not (necessarily): Die Blumen blühen schon seit drei Tage/*Die Blumen verblühen schon seit drei Tagen. See also your data in 8.25 on page 217 which point into the same direction. It might be worth relating the discussion of the data.
+
+> Such post-hoc semantic arguments are unlikely to help us really with the structure of the language, as I have tried to lay out in this book. Yes, I agree that in this case the prefix *ver-* does something like making it stative. However, this is completely idiosyncratic! The prefix *ver-* literally has dozens of other uses, and it is completely unclear how to predict which one applies with which verb. That is the real challenge. No change.
+
 - p. 212 8.2.3 Begrünen is derived from the verb grünen and not from the adjective grün (although grünen is derived from the adjective). Similarly, versalzen is derived from salzen which is derived from Salz.
+
+> I changed both examples here. Actually, the derivation pathway is rather unclear, and I have added some more explanation in Section 8.6.2/3 about why I think these examples (Salz, grün) are interesting, although verbs like *salzen* and *grünen* are attested.
+
 - p. 212 ‘to cause somebody to not have a weapen’: weapon
+
+> corrected
+
 - p. 212 8.12b begraben is also used metaphorically Ich begrabe meine Pläne; in this use no PP is allowed.
+
+> Interesting, but I decided to ignore this detail.
+
 - p. 213 8.15b On aufessen and the prefixation of other incremental verbs, see Fleischhauer & Czardybon (2016).
+
+> I am not that interested here in the semantic contribution of the preverb to the result, but in the different syntactic effects that the preverb might induce. The notion of 'incremental' verbs from that paper do not seem to have any predictive power for syntactic behaviour of verbs. No change.
+
 - p. 214 ‘neither in without preverb’: delete in
+
+> corrected
+
 - p. 214 Concerning 8.19: Be more precise with respect to the particle as ‘der arbeitende Student’ as well as ‘der mitarbeitende Student’ are possible. Similarly for 8.23 on page 216.
+
+> As discussed in Chapter 10, the *Partizip I* is not really of interest in the current context. Actually, as discussed extensively there, the two participles in German have a rather different status when it comes to diathesis. no change.
+
 - p. 215 Further examples: One pair of examples illustrating fürchten might be enough.
+
+> agree. removed one.
+
 - p. 215 I think abkühlen is derived from the verb kühlen and not directly from the adjective kühl. There also exists verbs like kranken, wachen, röten such that the prefixed verbs are not directly derived from the adjective but from the deadjectival verbs.
+
+> as discussed previously, I am not sure about the impact of those intermediate verbs. I have added some lines to explain this problem.
+
 - p. 217 ‘*geschwundenen Vorräte’: not ungrammatical: Gerne informieren wir Sie hiermit über eine besondere Aktion, damit Sie Ihre während der Pandemie geschwundenen Vorräte wieder auffüllen können. (https://www.apeval.ch/wallis/renommierte-raclettekase-hochqualitative-weine.html; 06.01.2022) The same for *die gefaulten Äpfel (various attestations at Google). Also: *die gegangenen Gäste, e.g. Die eben gegangenen Gäste haben gar nicht bezahlt. This somehow questions the view expressed in 8.4.5
+
+> interesting examples. I agree about *geschwunden*. removed. However: *gefaulte* is definitely old: all examples are either from old sources (pre 1850) or backtranslations (https://www.niederbayern-wiki.de/wiki/Gefaulte_Erdäpfel). I added a footnote. I have checked all others, and there is definitively something really interesting going on here, as they are possible with additional modifiers. I have added some more discussion in the text about this.
+
 - p. 218 8.4.7 Here again are erratic verbs. Somehow you are missing semantic generalizations which might be easily possible.
+
+> again: there is no semantic generalisation! at least not in the sense that I would find interesting here. Yes, there are post-hoc similarities between verbs that are found in each one of the hundreds of classes that I propose in this book, and I incidentally remark on such semantic similarities. However, these semantic factors **never** appear to have an explanatory force, in that they can predict which verbs have which syntactic behaviour. No change.
+
 - p. 219 8.28b The reflexive is optional: Ich sehe gerade ein Buch an.
+
+> good catch: this verb was also discussed in the chapter on reflexives as an example of 'free' reflexives. I added a link to that section.
+
 - p. 219 ‘Ich übe mir den Tango an’: anüben does not exist.
+
+> It does, but it indeed seems to be old-fashioned. I have added a note about this verb.
+
 - p. 221 ‘Ich verheirate Paul und Marie’: I prefer verheiraten mit.
+
+> It's difficult to find corpus evidence on this. I just asked a few colleagues, and all preferred *und*. no change
+
 - p. 221 ‘Der Sturm treibt die Wrackteile an’: Punctuation mark is missing. 
+
+> corrected
+
 - p. 221 8.35a The sentence is strange!
+
+> I agree, that's why the comment is in a note. I played it down even more and changed the example to make it less strange.
+
 - p. 221 8.63 Add Die Pflanze grünen
+
+> changed example, as discussed above.
+
 - p. 222 I think verbessern is derived from the verb bessern not directly from the comparative.
+
+> I added this possibility
+
 - p. 222 I do not think that the meaning of erbitten can be derived from the adjective bitter. According to the DWDS, it is early used figuratively and the literal meaning ‘bitter machen’ is rather rare. I also think that entrunden is derived from runden and not from rund.
+
+> I added a note about *bittern*. Interestingly, *verbittern* and *bitter* still exist, while *bittern* is lost long ago. I agree as to *entrunden*: removed from this section.
+
 - p. 223 Beschädigen is derived from schädigen (Rauchen schädigt die Lunge) but not directly from Schaden.
+
+> Example changed to an unequivocal example of direct derivation from a nominal stem
+
 - p. 223 ‘to cause not to have arms]’: Why ‘]’?
+
+> typo, corrected
+
 - p. 223 ‘The prefix entincludes in’: an
+
+> corrected
+
 - p. 223 8.42c in dem Kapitän rather than in den Kapitän
+
+> corrected
+
 - p. 223 8.42 Wouldn’t is better to provide English paraphrases?
+
+> I decided throughout the book to only use English translations in the main text. All examples remain purely monolingual German. no change.
+
 - p. 223 8.43 The verbs have to distinct meanings. The same for the attested verbs below 8.43.
+
+> I added a short note about this semantic shift.
+
 - p. 224 ‘Er verfuttert den Pferden das Tiermehl’: verfüttern (or füttert X an Y) but futtern cannot be used.
+
+> changed to *verfüttern*
+
 - p. 226 ‘to wonder:’ is missing
+
+> corrected
+
 - p. 226 8.50c Punctuation mark is missing 
+
+> corrected
+
 - p. 226 ‘an accusative arguemnt’: argument 
+
+> corrected
+
 - p. 226 ‘Die Polizei hat den Dieb gegriffen’: ergriffen but you can say ‘Der Polizist hat die Kaffeetasse gegriffen’; greifen and eingreifen are different lexemes. The same is true of trinken and ertrinken.
+
+> I added a note about the (strong) semantic change in these examples, and I changed the example with *gegriffen*. Note that the DWDS dictionary explicitly lists *den Dieb greifen*, though I couldn't find any actual example, so I changed it.
+
 - p. 227 8.52b mir instead of mich
+
+> nope, corpus example say differently. I added some discussion about the uncertainty pertaining to the case with *behelfen*.
+
 - p. 227 8.53 For a look at Stiebels (1996) for erratic verbs.
+
+> added a note with reference to the text.
+
 - p. 229 ‘Ich gebe dem Buch einen Umschlag’: Might be ok in a context (technical use) but out of context the sentence is somehow strange as a book cannot be a recipient. If one accepts the sentence, it means ‘I am decorating the book with a cover’ or ‘I am producing a cover for it’.
+
+> example *umgeben* removed.
+
 - p. 229 ‘Ich besinge dich mit einem Lied’: in rather than mit. (Der Schlottwitzer Heimatmusiker Hanskarl König hat ein neues Lind veröffentlicht. In diesem besingt er Sachsens Dampfeisenbahnen. https://www.saechsische.de/glashuette/glashuette-schlottwitzer-besingt-die-schmalspurbahnen-5578593- plus.html; 07.01.2022) Also possible without PP (Die Klasse 4c besingt den Herbst https://www.ggs-paffrath.de/201718-2/schuljahr-201516/die-klasse-4c-besingt-den-herbst-2/; 07.01.2022).
+
+> changed
+
 - p. 229 It is claimed that unprefixed steigen necessarily requires a location-PP but consider examples like Die Temperatur/Der Goldpreis/Das Flugzeug steigt. For an intensive discussion of steigen cf. Löbner (1979) and Fleischhauer & Gamerschlag (2014).
+
+> This is an interesting observation about the verb *steigen*, and I have included a completely new subsection in Chapter 6 about this. I have trouble with including references to the works mentioned, because they do not discuss the difference between the meaning 'to mount' and 'to rise' for *steigen* and the correlated diathesis. 
+
 - p. 229 8.59a Mann instead of Man
+
+> corrected
+
 - p. 230 ‘Ich bin durchgelaufen’: durch does not have a spatial meaning but means ‘without a pause’
+
+> changed to "der Kaffee"
+
 - p. 230 ‘Der Gefangene bricht aus dem Gefängnis’: bricht aus dem Gefängnis aus; the same with Ich ziehe aus dem Haus, here you need Ich ziehe aus dem Gefängnis aus.
+
+> I changed both these example to clear up any confusion about the intended meaning of these verbs.
+
 - p. 230 8.61b Why ‘*’? The sentence is all right
 - p. 230 8.61c/d Hunger with capital letter; the same in 8.62 for Hunger and Hund.
 - p. 230 8.62c The sentence is not acceptable; the same for the sentence in d.
+
+> I have replaced the example, because movement verbs like *laufen* are problematic in different ways, that are not relevant at this point.
+
 - p. 231 ‘Ich habe den Faden durchgezogen’: a durch-PP is missing and it is, if left out, implicit. You can only leave it out if it is inferable from the context.
+
+> I agree, this verb is not right in this section. removed.
+
 - p. 232 ‘Ich schenke den Wein in das Glas’: in das Glase in 
+
+> indeed, this usage is old-fashioned. I added note with corpus examples.
+
 - p. 233 ‘effect of the addition of preverb’: of a/the preverb
+
+> corrected
+
 - p. 232 ‘Die Aufgabe belästigt mich’: The example is odd and I think belästigen requires an animate subject argument.
+
+> changed to *Mücken*
+
 - p. 235 8.8.7 I think the sentences in the further examples should be presented in a different order.
+
+> changed accordingly
+
 - p. 8.78b Punctuation mark is missing.
+
+> corrected
+
 - p. 237 8.79a wuchert not wuchern
+
+> corrected
+
 - p. 237 ‘Ich laufe auf meinen neuen Schuhen’: in not auf
+
+> changed
+
 - p. 237 ‘Das Brautpaar tanzt auf den Ball’: dem Ball; ‘Das Brautpaar hat den Ball angetanzt’: I think antanzen (at least in this use) does not exist.
+
+> it does (see the comment at the start of this chapter), but this example is probably indeed strange. I have removed this verb from this section.
+
 - p. 238 Further examples of 8.8.10.3: A number of the examples occurs repeatedly (partially already on page 237).
+
+> They are different, but I have reordered and cleaned the list of examples.
+
 - p. 238 ‘in which there is’: there
+
+> corrected
+
 - p. 238 8.82a I find the first sentence strange, although the second one is fine.
+
+> agree. Moved *boxen* to a different section
+
 - p. 239 8.84c: Does not work for me.
+
+> there is no "c" example here.
+
 - p. 239 ‘Ich verschlampe meine Aufgaben’ and ‘Ich verzögere die Maßnahmen’: Punctuation marks are missing
+
+> corrected
+
 - p. 240 8.89a The example is strange; maybe ‘Das Wasser spült unter der Straße entlang‘, otherwise spülen is used as meaning ‘to clean dishes’.
+
+> indeed, both verbs are strange here. Removed.
+
 - p. 240 8.90a The sentence is ungrammatical with the zu-PP. The same for Ich klage zu dir below. And also Ich lüge zu dir on page 243.
-- p. 241 ‘into an aaccusative arguement’: argument 
+
+> indeed, examples re-classified into different sections.
+
+- p. 241 ‘into an aaccusative arguement’: argument
+
+> corrected
+
 - p. 241 8.92a das Unrecht
+
+> corrected
+
 - p. 242 8.94d The sentence does not work, the only alternative to (a) is Ich strebe ein hohes Amt an.
+
+> indeed: *bestreben* replaced by *anstreben*.
+
 - p. 243 8.97c/d: Both sentences are fine.
+
+> reformulated this section.
+
 - p. 245 ‘Die Polizei jagte auf einen Verbrecher’: without auf
+
+> Indeed. This verb is completely wrongly placed here in this section.
+
 - p. 245 ‘Ich füge eine Zollerklärung zu dem Paket’: Ich füge eine Zollerklärung dem Paket zu
+
+> with a different word order this maybe sounds better? It is definitively attested with a prepositional *zu* phrase, e.g. DWDS *zu diesen wertvollen Geschenken fügte er noch eine besondere Kostbarkeit*
+
 - p. 247 ‘Ich male die Wand an mit einem Gemälde’: Ich male die Wand mit Farbe an; Gemälde is not possible and an should go to the end.
+
+> changed accordingly
+
 - p. 247 8.106 is identical to 8.104
+
+> changed to a different example
+
 - p. 247 ‘Ich besegle den See mit meinem Boot’: I am not sure whether besegln exists; use an attested example please.
+
+> Duden includes *besegeln*, dozens of exampels in DWDS. Changed orthography.
+
 - p. 247 ‘Ich belege den Flur mit einem Teppich’: Does not work but use ‘Ich belege das Brot mit Käse’; like in other examples, the alternation affects the selectional restricts which might also be worth mentioning in the volume. You do not need the last example on the page as it illustrated legen/belegen again.
+
+> *Teppich* example removed. Selectional restrictions are very interesting, but the current book is already long enough. That has to wait for subsequent research.
+
 - p. 248 8.107b in not mit but than the referent of dich is the topic of the song.
+
+> changed the example to an attested example from the DWDS corpus.
+
 - p. 248 ‘Ich verrauche das Schlafzimmer mit einer Zigarette’: No! What you mean is verqualmen.
+
+> actually, DWDS gives exactly this example with *verrauchen*, so I added a reference. *verqualmen* is an interesting example in different respects, I have added that verb in various places in the book. thanks.
+
 - p. 248 ‘Ich stelle den Schrank im Korridor’: in den Korridor
+
+> corrected
+
 - p. 248 ‘Er hat Feldsteinen in den Zugang gebaut’: Feldsteine
+
+> corrected
+
 - p. 249 8.110a um den Arm or auf/über die Wunde but not um die Wunde 
+
+> changed to *Arm*
+
 - p. 251 The sentence after example 9.1 is incomplete.
 - p. 251 9.2c in dem Teich
 - p. 252 ‘it remain unclear’: remains
