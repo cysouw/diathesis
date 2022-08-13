@@ -1405,40 +1405,149 @@ combination with psych predicates in German.
 > changed to *Arm*
 
 - p. 251 The sentence after example 9.1 is incomplete.
+
+> No, but rephrased to make the sentence structure clearer.
+
 - p. 251 9.2c in dem Teich
+
+> corrected
+
 - p. 252 ‘it remain unclear’: remains
+
+> corrected
+
 - p. 252 ‘There are some special context’: contexts
+
+> corrected
+
 - p. 253 Rather than speaking of a comparison phrase it might be more accurate speaking of an equative construction since a (verbal) comparative looks differently (e.g. Das Flugzeug ist teurer als das Boot; Das Flugzeug rast mehr als das Boot).
+
+> I agree. changed.
+
 - p. 253 It is stated that adverbials like gestern have scope over the predicate but it is widely assumed that they do not modify the predicate but (semantically speaking) the entire situation and therefore have larger structures within their scope.
+
+> rephrased
+
 - p. 254 9.10a The sentence also has the meaning ‘I bought a store and it (= the store) was empty’, cf. 9.12
+
+> that is the meaning of the paraphrase 9.10b. I rephrased the text to make this clearer.
+
 - p. 254 ‘The preferred analysis of the resultative construction’: preferred by whom? References?
+
+> rephrased. The interpretation as a complex predicate is illustrated by the inclusion of such combinations as separate entries in dictionaries. Added links.
+
 - p. 255 On the top of the page, it is argued against an analysis of ‘Der Duden’. The argumentation why the author’s analysis is preferred is missing. Please provide arguments supporting your analysis.
+
+> these arguments are presented elsewhere, as indicated in the text.
+
 - p. 255 Section 10.2.8.]: delete ‘]’
+
+> done
+
 - p. 255 9.17 & 9.18 Also Das Buch kostet viel vs. Das Buch kostet (aber). See Gamerschlag (2014) for such verbs/verb uses.
+
+> Discussed in Chapter 5, but added a reference here.
+
 - p. 256 9.19e nimmt instead of benimmt
+
+> *benehmen* also works. Listed in DWDS and numerous corpus examples. I replaced this example with a corpus example.
+
 - p. 256 ‘similarly always needs’: need
+
+> corrected
+
 - p. 256 9.20c: OK in context: Du führst dich heute aber wieder auf.
+
+> Conversational implicature of "bad" behaviour. I repeated this point once again here.
+
 - p. 257 9.23b The sentence is ok, especially if you add nicht at the end. 
+
+> Conversational implicature of "bad". Added a sentence about this detail.
+
 - p. 259 9.28e The sentence is ungrammatical.
+
+> Indeed. changed.
+
 - p. 259 ‘Ich lache mich tot/kaput/schlapp’: Punctuation mark is missing.
+
+> corrected
+
 - p. 259 ‘Ich arbiete mich tot’: arbeite
+
+> corrected
+
 - p. 260 9.30a I prefer ist rather than hat.
+
+> added that option. That is not the point here.
+
 - p. 260 ‘Ich koche den Reis kauptt’: Kaputt does not work here but you can use gar. 
+
+> In culinary contexts *kaputtkochen* is perfectly fine, in the meaning *zerkochen*. no change.
+
 - p. 261 ‘nominative with a obligatory’: an
+
+> corrected
+
 - p. 261 ‘also note that connection’: the connection 
+
+> corrected
+
 - p. 261 9.34a schneide not scheine
-- p. 262 9.35b Punctuation mark is missing. See also Gamerschlag (2014) for a discussion of similar data.
+
+> corrected
+
+- p. 262 9.35b Punctuation mark is missing. 
+  
+> corrected
+
+- See also Gamerschlag (2014) for a discussion of similar data.
+
+> no, that paper is not about similar data as discussed in this section. The paper is relevant in other parts, and referenced there.
+
 - p. 264 9.39c Not ungrammatical but a real reflexive!
+
+> a note about this possible explanation added.
+
 - p. 264 9.41b I think such sentences are attested but with different arguments: Diese Maßnahme bindet zu viele Finanzmittel. But this might be a metaphorical use of binden.
+
+> I decided to ignore this detail.
+
 - p. 265 ‘Ich steckt das Geld in meiner Tasche’: meine
+
+> corrected
+
 - p. 265 9.7.7 There you use sattessen rather than sattsehen and I think it should be sattsehen.
+
+> corrected
+
 - p. 266 ‘to a transitive verb lead’: leads
+
+> corrected
+
 - p. 266 ‘as discusses’: as discussed; in the following line, the example is not done correctly.
+
+> corrected
+
 - p. 266 ‘Ich falle meine Hose kaputt’: I do not like the sentence, is this attested?
+
+> yes. I added an example.
+
 - p. 267 line 3 ‘voll’ should be in italics; delete * in front of ‘voll’
+
+> corrected
+
 - p. 268 9.48b in instead of auf
+
+> changed
+
 - p. 268 ‘Ich kritzle/schreibe Buchstaben in dem Buch’: das Buch
+
+> corrected
+
 - p. 268 ‘Ich packe den Wagen voll (mit Einkäufe)’: Einkäufen
+
+> corrected
+
 - p. 271 ‘The allomorphs without geshow show’: repetition
 - p. 273 10.8b I prefer gelogen to go to the end.
 - p. 273 Weinen is mentioned as being a manner of speaking verb, is this really justified? I do not think that this is appropriate.

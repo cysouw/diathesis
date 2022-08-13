@@ -117,7 +117,7 @@ Identifying non-governed prepositional phrases
 
 ### Locational prepositional phrases
 
-As a general rule, locational prepositional phrases are not governed by a verb. However, there are a few verbs that obligatory need a local preposition [@next], see [@sec:prepositions-obligatory-local] and [-@sec:reflexive-obligatory-local].
+As a general rule, locational prepositional phrases are not governed by a verb. However, there are a few verbs that obligatory need a local preposition [@next], see [@sec:prepositions-obligatory-local-accusative] and [-@sec:reflexive-obligatory-local].
 
 ::: ex
 a. Er steckt den Zettel in die Tasche.
@@ -348,9 +348,9 @@ Some verbs, like *erinnern* 'to remind' [@next], combine a governed preposition 
 - Sie gab ihren Sohn für einen Künstler aus.
 - Ich begründe meine schlechte Leistung mit einer Krankheit.
 
-### [ NL ] Obligatory local preposition
+### [ NL ] Obligatory local preposition {#sec:prepositions-obligatory-local}
 
-Some verbs appear to have an obligatory locational argument, like *wohnen* 'to live' [@next]. This seems to be typical with verbs of living.
+Some verbs appear to have an obligatory locational argument, like *wohnen* 'to live' [@next], cf. the classes 'Extent' and 'Location' in Gamerschlag [-@gamerschlag2014: 319-321].
 
 ::: ex
 - Sie wohnt in Berlin.
@@ -359,9 +359,16 @@ Some verbs appear to have an obligatory locational argument, like *wohnen* 'to l
 
 **Attested Verbs**
 
-- *wohnen, übernachten*
+- *entspringen, münden, spielen (zutragen), wohnen, übernachten, zeigen*
 
-### [ NAL ] Obligatory local preposition+accusative {#sec:prepositions-obligatory-local}
+**Further Examples**
+
+- Der Wegweiser zeigt nach Norden.
+- Der Fluss entspringt aus den Bergen.
+- Der Rhein mündet in die Nordsee.
+- Der Film spielt in Italien.
+
+### [ NAL ] Obligatory local preposition+accusative {#sec:prepositions-obligatory-local-accusative}
 
 The most obvious verbs in this class are historical ablaut causatives like *legen* 'to lay, to put down' [@next b] of posture verbs like *liegen* 'to lie' [@next a]. More examples are attested with obligatory reflexive pronoun, see [@sec:reflexive-obligatory-local].
 
@@ -567,7 +574,7 @@ The instrumental *mit* phrase is a real non-governed instrument, i.e. an inanima
 - Instruments of destruction: *mahlen, schneiden, zerbrechen, zerschneiden, zerstören*
 - Instruments of killing and healing: *ersticken, heilen, töten, umbringen*
 - Instruments of physical action: *beladen, füllen, öffnen, schließen*
-- Instruments of adornment: *anleuchten, bedecken, schmücken, verschmutzen, verstopfen*
+- Instruments of adornment: *anleuchten, bedecken, gliedern, schmücken, verschmutzen, verstopfen*
 
 **Further Examples**
 
@@ -595,6 +602,8 @@ The instrumental *mit* phrase is a real non-governed instrument, i.e. an inanima
   Das Tuch bedeckt den Tisch.
 - Ich mahle die Kaffeebohnen mit der Maschine. \
   Die Maschine mahlt die Kaffeebohnen.
+- Ich gliedere den Garten mit Baumreihen. \
+  Baumreihen gliedern den Garten.
 
 **Notes**
 
@@ -851,10 +860,10 @@ b. Ich schieße auf den Bären.
 c. ^* Ich schieße darauf, dass der Bär kommt.
 :::
 
-There are just a few 'drop'-alternations that are missing, and these missing alternations suggest an interesting generalisation. Missing are the alternations ~~[NAP | N-P ]~~, ~~[NPD | N-D]~~ and (from the previous chapter) ~~[NAD | N-D ]~~. These apparently dispreferred alternations suggest that a dative argument has to be dropped before a governed preposition can be dropped, and likewise, a governed preposition has to be dropped before an accusative argument can be dropped, i.e there is a dropping-hierarchy [@next a].
+There are just a few deobjective 'drop'-alternations that are missing, and these missing alternations suggest an interesting generalisation. Missing are the alternations ~~[NAP | N-P ]~~, ~~[NPD | N-D]~~ and (from the previous chapter) ~~[NAD | N-D ]~~. These apparently dispreferred alternations suggest that a dative argument has to be dropped before a governed preposition can be dropped, and likewise, a governed preposition has to be dropped before an accusative argument can be dropped, i.e there is a deobjective hierarchy [@next a].
 
 ::: ex
-Drop hierarchy: dative > preposition > accusative
+Deobjective hierarchy: dative > preposition > accusative
 :::
 
 A similar generalisation can be made for antipassives. If a verb has various case marked objects, then dative and genitive objects can have an antipassive alternation. In contrast, an accusative can only have antipassive alternation when there are no genitive or dative arguments. Note that the drop hierarchy and the antipassive hierarchy are not contradictory, but there is currently insufficient evidence to claim that they are the same hierarchy.
@@ -1836,7 +1845,7 @@ f. Er klopft mir den Schnee von den (meinen) Schuhen.
 f. Er klopft sich den Schnee von den Schuhen.
 :::
 
-This construction is closely related to adjectival resultative secondary predicates as in [@next], see also [@sec:adverbials-resultative-predicates].
+This construction is closely related to adjectival resultative secondary predicates as in [@next], see also [@sec:adverbial-resultative-predicates].
 
 ::: ex
 Er klopft den Aschenbecher leer.

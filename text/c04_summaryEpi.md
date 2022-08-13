@@ -429,7 +429,7 @@ b. Ich habe das Haus angesehen.
 
 ### *Resultativer Reflexiv* 
 
-The ~~Resultativer Reflexiv~~ (full discussion in [@sec:adverbials-intransitive-reflexive-resultative]) is an alternation that can be used with a subset of all intransitive verbs, for example *schlafen* 'to sleep' [@next a]. By adding a reflexive pronoun and an adverbial, like *gesund* 'healthy' [@next b], the sentence expresses that the subject participant achieves a state (expressed by the adverbial) by performing an action (expressed by the verb). In other words, [@next b] means approximately 'By sleeping I will become healthy'. 
+The ~~Resultativer Reflexiv~~ (full discussion in [@sec:adverbial-intransitive-reflexive-resultative]) is an alternation that can be used with a subset of all intransitive verbs, for example with *schlafen* 'to sleep' [@next a]. By adding a reflexive pronoun and an adverbial, like *gesund* 'healthy' [@next b], the sentence expresses that the subject participant achieves a state (expressed by the adverbial) by performing an action (expressed by the verb). In other words, [@next b] means approximately 'By sleeping I will become healthy'. 
 
 ::: ex
 a. Ich schlafe.

@@ -143,7 +143,7 @@ There are also a few rare cases in which there is a valency-simulating *es* in w
 
 ::: ex
 a. Ich habe es auf ihn abgesehen. (see [@sec:prepositions-nominative-es-preposition])
-b. Wir haben es gut. (see [@sec:adverbials-accusative-es])
+b. Wir haben es gut. (see [@sec:adverbial-accusative-es])
 :::
 
 ### Adjuncts
@@ -167,7 +167,7 @@ The formal linguistic marking of a diathesis, for example by verbal morphology o
 
 - zero-marked 'covert' diatheses (Chapters [-@sec:case; -@sec:prepositions])
 - diatheses marked by reflexive pronouns (Chapter [-@sec:reflexive])
-- diatheses marked by adverbials or preverbs (Chapters [-@sec:preverbs; -@sec:adverbials])
+- diatheses marked by adverbials or preverbs (Chapters [-@sec:preverbs; -@sec:adverbial])
 - diatheses marked by light-verb constructions (Chapters [-@sec:participle; -@sec:infinitive; -@sec:zuinfinitive; -@sec:zuminfinitive])
 
 The first two chapters deal with diatheses that are not overtly marked as such, i.e. they deal with 'covert' diatheses. Because there is no marking on either of the two alternants, it is often difficult to discern a direction in such equipollent alternations. In Chapter [-@sec:case] I will discuss diatheses that only differ in the marking of case, for example unmarked anticausatives like [@next]. Chapter [-@sec:prepositions] deals with unmarked diatheses in which at least on of the alternants is a prepositional phrase, for example unmarked antipassive like [@nnext].
@@ -201,7 +201,7 @@ a. Ich steige auf den Berg.
 b. Ich besteige den Berg.
 :::
 
-Closely related to preverbs are resultative adverbials that induce diathesis, like the applicative with *leer* in [@next]. There exist also diatheses induced by depictive adverbials, like the reflexive anticausative with *gut* in [@nnext]. Although these two kinds of adverbials, resultative vs. depictive, occur in rather different kinds of diathesis, for convenience both phenomena are combined into a single chapter on adverbially marked diatheses in Chapter [-@sec:adverbials].
+Closely related to preverbs are resultative adverbials that induce diathesis, like the applicative with *leer* in [@next]. There exist also diatheses induced by depictive adverbials, like the reflexive anticausative with *gut* in [@nnext]. Although these two kinds of adverbials, resultative vs. depictive, occur in rather different kinds of diathesis, for convenience both phenomena are combined into a single chapter on adverbially marked diatheses in Chapter [-@sec:adverbial].
 
 ::: ex
 a. Ich habe in dem Teich gefischt.

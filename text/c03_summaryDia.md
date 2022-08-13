@@ -555,7 +555,7 @@ d. Ich erarbeite einen Plan.
 
 ### *Adverb Akkusativ Applikativ* {#sec:summary-adverb-applikativ}
 
-The ~~Adverb Akkusativ Applikativ~~ (full discussion in [@sec:adverbials-applicative]) is also an alternation that turns a prepositional phrase into an accusative, though in this instance the diathesis is induces by a resultative adverbial, like *leer* 'empty' or *gesund* 'healthy'. When used with an intransitive verb like *fischen* 'to fish' [@next a] the prepositional phrase is turned into an accusative. The effect of this diathesis is that the new accusative *Teich* 'pond' is in the state described by the adverbial *leer* 'empty' as a result of the verbal action *fischen* 'to fish' [@next b]. This diathesis is also attested with governed prepositions, for example with the verb *beten für* 'to pray for' [@next c,d]. A closely related *Adverb Vollapplikativ* diathesis is attested with transitive verbs (see [@sec:summary-adverb-vollapplikativ]).
+The ~~Adverb Akkusativ Applikativ~~ (full discussion in [@sec:adverbial-applicative]) is also an alternation that turns a prepositional phrase into an accusative, though in this instance the diathesis is induces by a resultative adverbial, like *leer* 'empty' or *gesund* 'healthy'. When used with an intransitive verb like *fischen* 'to fish' [@next a] the prepositional phrase is turned into an accusative. The effect of this diathesis is that the new accusative *Teich* 'pond' is in the state described by the adverbial *leer* 'empty' as a result of the verbal action *fischen* 'to fish' [@next b]. This diathesis is also attested with governed prepositions, for example with the verb *beten für* 'to pray for' [@next c,d]. A closely related *Adverb Vollapplikativ* diathesis is attested with transitive verbs (see [@sec:summary-adverb-vollapplikativ]).
 
 ::: ex
 a. Ich fische im Teich.
@@ -763,7 +763,7 @@ b. Er äußert sich über den Fall.
 
 ### *Präverb Endoreflexiv* {#sec:summary-praverb-endoreflexiv}
 
-The ~~Präverb Endoreflexiv~~ (full discussion in [@sec:preverb-reflexive-accusative-drop]) is similar to the previous *Endoreflexiv* ([@sec:summary-endoreflexiv]) but with the addition of a preverb. For example, the verb *wählen* 'to choose/to dial' shows a diathesis with *sich verwählen* 'to misdial' [@next a] in which the accusative object is dropped. There are also a few very special endoreflexive verbs in which an adverbial is necessary instead of a preverb, for example *fühlen* 'to feel' [@next b], see [@sec:adverbials-endoreflexive].
+The ~~Präverb Endoreflexiv~~ (full discussion in [@sec:preverb-reflexive-accusative-drop]) is similar to the previous *Endoreflexiv* ([@sec:summary-endoreflexiv]) but with the addition of a preverb. For example, the verb *wählen* 'to choose/to dial' shows a diathesis with *sich verwählen* 'to misdial' [@next a] in which the accusative object is dropped. There are also a few very special endoreflexive verbs in which an adverbial is necessary instead of a preverb, for example *fühlen* 'to feel' [@next b], see [@sec:adverbial-endoreflexive].
 
 ::: ex
 a. Er wählt die falsche Nummer. \
@@ -840,7 +840,7 @@ d. Der Mann steigt aus.
 
 ### *Adverb Delokativ* {#sec:summary-adverb-delokativ}
 
-The ~~Adverb Delokativ~~ (full discussion in [@sec:adverbs-antiresultative] and subsequent sections) is a parallel diathesis to the previous *Präverb Delokativ* ([@sec:summary-praverb-delokativ]). Instead of adding a preverb, this diathesis adds an obligatory resultative adverb, like *los(e)* 'loose'. The diathesis between *binden* 'to tie' and *losbinden* 'to untie' removes the obligatory status of the locative prepositional phrase.
+The ~~Adverb Delokativ~~ (full discussion in [@sec:adverbial-antiresultative] and subsequent sections) is a parallel diathesis to the previous *Präverb Delokativ* ([@sec:summary-praverb-delokativ]). Instead of adding a preverb, this diathesis adds an obligatory resultative adverb, like *los(e)* 'loose'. The diathesis between *binden* 'to tie' and *losbinden* 'to untie' removes the obligatory status of the locative prepositional phrase.
 
 ::: ex
 a. Ich binde den Hund an die Leine.

@@ -583,7 +583,7 @@ c. Der Regen hat die Luft abgekühlt.
 
 **Attested Verbs**
 
-- *ausruhen, ausschlafen, drehen, erbrechen, hinknien, irren, knien, lohnen*
+- *ausruhen, ausschlafen, drehen, erbrechen, halten (Zustand), hinknien, irren, knien, lohnen*
 
 **Further Examples**
 
@@ -599,6 +599,8 @@ c. Der Regen hat die Luft abgekühlt.
   Der Betrunkene hat sich erbrochen.
 - Die Arbeit lohnt. \
   Die Arbeit lohnt sich.
+- Geheimnisse halten sich lange.^[~~DWDS~~: Berliner Zeitung, 06.05.1995.] \
+  Denn Bronzeskulpturen halten lange.^[~~DWDS~~: Berliner Zeitung, 26.11.1994.]
 
 **Notes**
 
@@ -1368,7 +1370,7 @@ d. ^* Die Straße hat sich gezogen.
 
 **Attested Verbs**
 
-- *bohren, eingraben, häufen, ziehen*
+- *bohren, eingraben, gliedern, häufen, ziehen*
 
 **Further Examples**
 
@@ -1378,6 +1380,8 @@ d. ^* Die Straße hat sich gezogen.
   Die Frösche graben sich in den Schlamm ein.
 - Der Bauarbeiter bohrt den Presslufthammer in den Asphalt. \
   Der Pressluftbohrer bohrt sich in den Asphalt.
+- Er hatte das Buch in einzelne Kapitel gegliedert. \
+  Das Buch gliedert sich in drei Kapitel.
 
 ### [ NAP | –NP ] Reflexive anticausative+governed preposition {#sec:reflexive-anticausative-governed-preposition}
 
@@ -1862,7 +1866,7 @@ d. ^* Ich träume mich.
   Würzburg zitterte sich am Ende in die Playoffs.^[~~DWDS~~: Die Zeit, 07.05.2016 (online).]
 :::
 
-This diathesis is exceptional, because an extra obligatory argument is introduced together with the reflexive pronoun. This is a clear counterexample to the generalisation that reflexive diatheses are demoting. This construction is closely related to a reflexive usage of intransitive verbs with an obligatory resultative adverbial, like with *schlafen* 'to sleep' [@next]. This diathesis is discussed in more detail in [@sec:adverbials-intransitive-reflexive-resultative].
+This diathesis is exceptional, because an extra obligatory argument is introduced together with the reflexive pronoun. This is a clear counterexample to the generalisation that reflexive diatheses are demoting. This construction is closely related to a reflexive usage of intransitive verbs with an obligatory resultative adverbial, like with *schlafen* 'to sleep' [@next]. This diathesis is discussed in more detail in [@sec:adverbial-intransitive-reflexive-resultative].
 
 ::: ex
 - Ich schlafe.

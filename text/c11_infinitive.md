@@ -444,7 +444,7 @@ c. Zuhause arbeitet es sich gut.
 d. Früher hat es sich hier immer gut arbeiten lassen.
 :::
 
-Although it is possible to find examples without adverbial, these always seem to have a strong evaluative implicature (cf. [@sec:adverbials-nominative]). For example, in the examples in [@next] the implication is that the life or dreams are good.
+Although it is possible to find examples without adverbial, these always seem to have a strong evaluative implicature (cf. [@sec:adverbial-nominative]). For example, in the examples in [@next] the implication is that the life or dreams are good.
 
 ::: ex
 - Hier lässt es sich leben.^[~~DWDS~~: Die Zeit, 05.01.2012, Nr. 02]

@@ -133,7 +133,7 @@ d. ^* Der gelaufene Schüler weint.
 
 ### Adverbially used participles {#sec:participles-secondary-predicates}
 
-Participles that can be used adnominally can also be used adverbially, as so-called depictive secondary predicates [@next a], cf. also [@sec:adverbials-depictive-predicates]. In such sentences, the participle functions syntactically like an adverb in the sentence structure [@next b]. The problem is that constructions with adverbial participles, like [@next a], are highly similar to light-verb constructions. For example, both constructions are coherent [@next c,d], cf. [@sec:intro-coherence]. 
+Participles that can be used adnominally can also be used adverbially, as so-called depictive secondary predicates [@next a], cf. also [@sec:adverbial-depictive-predicates]. In such sentences, the participle functions syntactically like an adverb in the sentence structure [@next b]. The problem is that constructions with adverbial participles, like [@next a], are highly similar to light-verb constructions. For example, both constructions are coherent [@next c,d], cf. [@sec:intro-coherence]. 
 
 ::: ex
 a. Er verkauft die Nägel gebogen.
@@ -573,7 +573,7 @@ a. Die Streifen zackten sich über Schuhe, Bänke, Tische, Mäntel, Bettgitter.^
 b. Man schweifte wie auf einem riesigen Schuttplatz jenseits der Ränder der bekannten Welt.^[~~DWDS~~: Jünger, Ernst: In Stahlgewittern, Stuttgart: Klett-Cotta 1994 [1920], S. 110.]
 :::
 
-The participle *gelaunt* (from noun *Laune* 'mood') and *geregnet* (from noun *Regen*, 'rain') obligatorily needs a manner adverbial, see [@sec:adverbials-nominative].
+The participle *gelaunt* (from noun *Laune* 'mood') and *geregnet* (from noun *Regen*, 'rain') obligatorily needs a manner adverbial, see [@sec:adverbial-nominative].
 
 ::: ex
 a. Ich bin gut gelaunt.
@@ -2186,7 +2186,7 @@ b. Er findet das Kunstwerk gelungen. \
    (= Er ist überzeugt, dass das Kunstwerk gelungen ist.)
 :::
 
-In identifying these constructions, care has again to be taken with the verbs *finden* and *sehen*. These verbs occur in superficially similar constructions, as exemplified in [@next], which actually have a completely different underlying structure. In these examples the verbs *finden* and *sehen* are used in their literal transitive meaning of finding/seeing an object. Additionally, thse sentences are modified by a depictive secondary predicate in the form of a participle, as extensively discussed in [@sec:participles-secondary-predicates].^[The verb *finden* can also be combined with a regular adverb like in *das finde ich gut*, see [@sec:adverbials-nominative-accusative]. This does not appear to be possible with the other opiniative verbs *wissen*, *glauben* and *sehen*.] In this these constructions, it is not possible to paraphrase the participle with a *dass* complement clause.
+In identifying these constructions, care has again to be taken with the verbs *finden* and *sehen*. These verbs occur in superficially similar constructions, as exemplified in [@next], which actually have a completely different underlying structure. In these examples the verbs *finden* and *sehen* are used in their literal transitive meaning of finding/seeing an object. Additionally, thse sentences are modified by a depictive secondary predicate in the form of a participle, as extensively discussed in [@sec:participles-secondary-predicates].^[The verb *finden* can also be combined with a regular adverb like in *das finde ich gut*, see [@sec:adverbial-nominative-accusative]. This does not appear to be possible with the other opiniative verbs *wissen*, *glauben* and *sehen*.] In this these constructions, it is not possible to paraphrase the participle with a *dass* complement clause.
 
 ::: ex
 a. Sie findet ihn am Schreibtisch eingeschlafen. \
