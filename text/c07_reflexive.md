@@ -313,7 +313,7 @@ b. ^* Das Rathaus befindet sich.
 
 **Attested Verbs**
 
-- *aalen, ansiedeln, anstellen, aufhalten (befinden), befinden, begeben, einfressen, einschleichen, ergießen, fläzen, niederlassen, scheren, suhlen, umsehen, verkriechen, verschanzen, zubewegen, zurechtfinden*
+- *aalen, ansiedeln, anstellen, aufhalten (befinden), befinden, begeben, einfressen, einschleichen, ergießen, fläzen, fressen, niederlassen, scheren, suhlen, umsehen, verkriechen, verschanzen, zubewegen, zurechtfinden*
 
 **Further Examples**
 
@@ -321,6 +321,7 @@ b. ^* Das Rathaus befindet sich.
 - Ich aale mich in der Sonne.
 - Der Schmutz hatte sich tief in die bröckligen Wände eingefressen.
 - Er schert sich nach Hause.
+- Die Reifen fressen sich in den Schnee.
 
 **Notes**
 
@@ -1240,7 +1241,7 @@ There is some discussion in the literature [@schafer2007: 35ff.; @kurogo2016] ab
 
 - Change of position: *ändern, auftun, bewegen, drehen, lockern, öffnen, schließen, senken, spalten, teilen, umgeben, verschieben, versammeln*
 - Change of dimension: *abschwächen, ansammeln, ansparen, ausbreiten, ausdehnen, beschleunigen, beschränken, entfalten, erhöhen, erweitern, steigern, verändern, verbessern, verbreiten, verdoppeln, verengen, vergrößern, verkleinern, verkürzen, verlangsamen, verlängern, vermehren, verringern, verstärken, verteuern*
-- Change of physical state: *abkühlen, ablagern, ablösen, abnutzen, abschalten, abschwächen, abseilen, auflösen, aufwärmen, ausschalten, beziehen, brechen (Wellen), erleuchten, einfügen, einschalten, eindrücken, entzünden, erwärmen, färben, festigen, füllen, gliedern, komplizieren, leeren, runden, röten, verändern, verbessern, vereinfachen, verhaken, verkomplizieren, verschlechtern, verwandeln, wärmen*
+- Change of physical state: *abkühlen, ablagern, ablösen, abnutzen, abschalten, abschwächen, abseilen, auflösen, aufwärmen, ausschalten, beziehen, brechen (Wellen), erleuchten, einfügen, einschalten, eindrücken, entzünden, erwärmen, färben, festigen, festhaken, festfahren, füllen, gliedern, komplizieren, leeren, runden, röten, verändern, verbessern, vereinfachen, verhaken, verkomplizieren, verschlechtern, verwandeln, wärmen*
 - Others: *bessern, bestätigen, erfüllen, entscheiden, konstituieren, lohnen, mildern, unterwerfen, wiederholen, zeigen*
 
 **Further Examples**
@@ -1357,7 +1358,7 @@ d. ^* Meine Wünsche erfüllen sich mir.
 - Er entzieht mir das Wort. \
   Ich entziehe mich meiner Pflicht.
 
-### [ NAL | –NL ] Reflexive anticausative+location
+### [ NAL | –NL ] Reflexive anticausative+location {#sec:reflexive-anticausative-location}
 
 Some (but not all) verbs with a resultative alternation ([@sec:prepositions-transitive-location-as-result]), like *ziehen* 'to pull' [@next a,b] allow for a reflexive anticausative [@next c]. This results in an accusative reflexive pronoun with an obligatory locational phrase. Leaving out the location is ungrammatical [@next d].
 
@@ -1370,7 +1371,7 @@ d. ^* Die Straße hat sich gezogen.
 
 **Attested Verbs**
 
-- *bohren, eingraben, gliedern, häufen, ziehen*
+- *bohren, eingraben, gliedern, häufen, saugen, ziehen*
 
 **Further Examples**
 
@@ -1382,6 +1383,8 @@ d. ^* Die Straße hat sich gezogen.
   Der Pressluftbohrer bohrt sich in den Asphalt.
 - Er hatte das Buch in einzelne Kapitel gegliedert. \
   Das Buch gliedert sich in drei Kapitel.
+- Er saugt den Rauch in seine Lunge. \
+  Der Wein saugt sich in das Taschentuch.
 
 ### [ NAP | –NP ] Reflexive anticausative+governed preposition {#sec:reflexive-anticausative-governed-preposition}
 
@@ -1706,7 +1709,12 @@ d. Die Frauen warfen sich und ihre Kinder vor mein Pferd und baten um Hilfe.^[~~
 
 **Attested Verbs**
 
-- *fokussieren, konzentrieren, legen, setzen, stellen, werfen*
+- *fokussieren, konzentrieren, pressen, legen, setzen, stellen, werfen*
+
+**Further Examples**
+
+- Sie presste die Hand auf das Herz. \
+  Sie presste sich an die Hauswand.
 
 **Notes**
 
@@ -1866,7 +1874,7 @@ d. ^* Ich träume mich.
   Würzburg zitterte sich am Ende in die Playoffs.^[~~DWDS~~: Die Zeit, 07.05.2016 (online).]
 :::
 
-This diathesis is exceptional, because an extra obligatory argument is introduced together with the reflexive pronoun. This is a clear counterexample to the generalisation that reflexive diatheses are demoting. This construction is closely related to a reflexive usage of intransitive verbs with an obligatory resultative adverbial, like with *schlafen* 'to sleep' [@next]. This diathesis is discussed in more detail in [@sec:adverbial-intransitive-reflexive-resultative].
+This diathesis is exceptional, because an extra obligatory argument is introduced together with the reflexive pronoun. This is a clear counterexample to the generalisation that reflexive diatheses are demoting. This construction is closely related to a reflexive usage of intransitive verbs with an obligatory resultative adverbial, like with *schlafen* 'to sleep' [@next]. This diathesis is discussed in more detail in [@sec:adverbial-intransitive-resultative].
 
 ::: ex
 - Ich schlafe.
@@ -1879,7 +1887,7 @@ Although not all verbs listed below are strictly intransitive (e.g. *essen, trin
 
 - Food processing: *essen, fressen, trinken*
 - Bodily processes: *denken, dösen, schlafen, schwitzen, träumen, zittern*
-- Others: *arbeiten, fallen, kämpfen, liegen, lügen, schießen, schleichen*
+- Intransitve actions: *arbeiten, fallen, kämpfen, liegen, lügen, schießen, schleichen, schwimmen*
 
 **Further Examples**
 
@@ -1894,6 +1902,7 @@ Although not all verbs listed below are strictly intransitive (e.g. *essen, trin
 - Ich kämpfe mich durch die Wellen.
 - Ich lüge mich durch mein Leben.
 - Sie fallen/liegen sich in die Arme.
+- Am Dienstag schwamm sich Phelps dann schon wieder selbst in die Schlagzeilen.^[~~DWDS~~: Der Tagesspiegel, 19.08.2004.]
 
 **Notes**
 

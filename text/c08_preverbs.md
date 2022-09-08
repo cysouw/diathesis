@@ -25,7 +25,7 @@ There are 11 diatheses that are sufficiently prominent to be given a German name
 - ~~[ADJ › OBJ] Präverb Dativ Applikativ~~ (see [@sec:preverb-dative-applicative])
 - ~~[ADJ › OBJ › ADJ] Präverb Vollapplikativ~~ (see [@sec:preverb-applicative-antipassive])
 - ~~[PBJ › Ø] Präverb Delokativ~~ (see [@sec:preverb-intransitive-antiresultative] ff.)
-- ~~[PBJ › OBJ › Ø] Präverb Antiresultativ~~ (see [@sec:preverb-location-antiresultative] ff.)
+- ~~[PBJ › OBJ › Ø] Präverb Ganzobjektiv~~ (see [@sec:preverb-location-antiresultative] ff.)
 - ~~[OBJ › Ø] Präverb Endoreflexiv~~ (see [@sec:preverb-reflexive-accusative-drop])
 - ~~[OBJ › ADJ] Präverb Dativ Antipassiv~~ (see [@sec:preverb-dative-antipassive])
 
@@ -53,8 +53,9 @@ The following elements can only be used as ~~verb prefixes~~ in German [see @los
 - *zerˈ-*, originally meaning 'in two', cognate with Latin *dis-*
 - *entˈ-*, originally meaning 'against', cognate with Greek *anti*
 - *missˈ-*, originally meaning 'missing', still transparently cognate with modern German verb root *(ver)miss(en)*
+- *widerˈ-*, originally meaning 'against', still transparently cognate with modern German *wieder*
 
-The prefix *geˈ-* only occurs in completely grammaticalised combinations, i.e. there are no verbs (anymore) in which the root is still transparently related to the *geˈ-* prefixed wordform (cf. [@sec:intro-lexical-meanings]). Pairs like *bieten* 'to offer' and *gebieten* 'to order' are thus simply treated here as two completely separate lexemes here, and will consequently not occur among any of the diatheses discussed below (examples in [@sec:preverb-deponent]). In contrast, the addition of the prefix *missˈ-* is always completely transparent and never results in a diathesis, e.g. *achten* 'to respect' and *missachten* 'to disrespect' (examples in [@sec:preverb-intranstive-without-diathesis; @sec:preverb-transitive-without-diathesis]). That leaves the prefixes *beˈ-, erˈ-, verˈ-, zerˈ-* and *entˈ-*, and these all occur frequently. They induce various diathesis as discussed throughout this chapter and they do not appear to have any preference for a special kind of diathesis.
+The prefix *geˈ-* only occurs in completely grammaticalised combinations, i.e. there are no verbs (anymore) in which the root is still transparently related to the *geˈ-* prefixed wordform (cf. [@sec:intro-lexical-meanings]). Pairs like *bieten* 'to offer' and *gebieten* 'to order' are thus simply treated here as two completely separate lexemes here, and will consequently not occur among any of the diatheses discussed below (examples in [@sec:preverb-deponent]). In contrast, the addition of the prefix *missˈ-* is always completely transparent and never results in a diathesis, e.g. *achten* 'to respect' and *missachten* 'to disrespect' (examples in [@sec:preverb-intranstive-without-diathesis; @sec:preverb-transitive-without-diathesis]). The prefix *widerˈ-* only occurs in a few fixed combinations (see [@sec:preverb-dative-applicative]). That leaves the prefixes *beˈ-, erˈ-, verˈ-, zerˈ-* and *entˈ-*, and these all occur frequently. They induce various diathesis as discussed throughout this chapter and they do not appear to have any preference for a special kind of diathesis.
 
 Turning now to the ~~verb particles~~, the following prepositions can be used as preverbs:
 
@@ -87,8 +88,6 @@ f. Er ist beim Chef angetanzt. \
 g. Bewegungsfolgen werden nur angetanzt und immer wieder abgebrochen.^[~~DWDS~~: Neue Zürcher Zeitung, 30.09.2000] \
    (= nicht vollständig ausführen)
 :::
-
-The locational particles: *da(r)-, her-* and *hin-* are not further investigate here. They do not appear to induce any diathesis when combined with a verb stem.
 
 ### Preverb-verbs prefer an accusative argument {#sec:preverbs-always-accusative}
 
@@ -1068,20 +1067,9 @@ The verb *lehren* 'to teach' [@next a] shows a slight variant of the previous an
 
 - beˈ- : *lehren*
 
-### [ ND | Np ] Preverb dative antipassive+reflexive
+### --- [ OBJ > ADJ ] --- *Präverb Dativ Antipassiv*  {.unnumbered}
 
-The diathesis between *danken* and *bedanken*, both meaning 'to thank' [@next], is a dative antipassive. The dative is turned into a prepositional phrase. Additionally, an obligatory accusative reflexiv pronoun is introduced.
-
-::: ex
-- Ich danke dir.
-- Ich bedanke mich bei dir.
-:::
-
-**Attested Verbs**
-
-- beˈ- : *danken*
-
-### [ NAD | NAp ] Preverb dative antipassive+accusative (*Präverb Dativ Antipassiv*) {#sec:preverb-dative-antipassive}
+### [ NAD | NAp ] Preverb dative antipassive+accusative {#sec:preverb-dative-antipassive}
 
 Adding a preverb to various ditransitive verbs with dative and accusative arguments, like *schenken* 'to gift' [@next a], frequently results in the omission of the dative, like *verschenken* 'to give away' [@next b]. The dative can be retained as a prepositional phrase, but is typically omitted. This diathesis appears to be widespread with ditransitive verbs. Because there is an accusative constituent in the sentence, this preverb diathesis does not necessitate a reflexive pronoun.
 
@@ -1112,6 +1100,19 @@ b. Ich verschenke meine Bücher (an den Kindergarten).
   Ich habe den Brief abgeschickt.
 - Ich reiche dir das Essen. \
   Ich habe das Essen durchgereicht.
+
+### [ ND | Np ] Preverb dative antipassive+reflexive
+
+The diathesis between *danken* and *bedanken*, both meaning 'to thank' [@next], is a dative antipassive. The dative is turned into a prepositional phrase. Additionally, an obligatory accusative reflexiv pronoun is introduced.
+
+::: ex
+- Ich danke dir.
+- Ich bedanke mich bei dir.
+:::
+
+**Attested Verbs**
+
+- beˈ- : *danken*
 
 ### --- [ OBJ > OBJ > ADJ ] --- {.unnumbered}
 
@@ -1254,7 +1255,7 @@ d. Der Wind verweht die Blätter.
 **Attested Verbs**
 
 - verˈ-   : *drängen, jagen, stecken, gießen, schütten, treiben, rücken, schieben, scheuchen, sprühen, stoßen, streichen, wehen*
-- zerˈ-   : *hacken, reißen, sägen, schneiden*
+- zerˈ-   : *hacken, reißen, sägen, schneiden, teilen*
 - ˈdurch- : *bringen, setzen*
 - ˈum-    : *setzen*
 - ˈunter- : *binden*
@@ -1321,23 +1322,23 @@ The verb *schenken* 'to pour' used to be common in a context of pouring a drink 
 - Sie schenkten Wein ein.
 :::
 
-### --- [ PBJ > OBJ > Ø ] --- *Präverb Antiresultativ* {.unnumbered}
+### --- [ PBJ > OBJ > Ø ] --- *Präverb Ganzobjektiv* {.unnumbered}
 
 ### [ NLA | NA– ] Preverb applicative+accusative drop {#sec:preverb-location-antiresultative}
 
-This diathesis is the reversal of the ~~action result~~ diathesis (see [@sec:prepositions-action-result]). The result of a verb like *pressen* 'to squeeze' is *Saft* 'juice' [@next a]. With a preverb, the verb *auspressen* 'to squeeze' drops this accusative result and promotes the origin of the result *Zitrone* 'citron' to accusative [@next b].
+This diathesis is the reversal of the ~~part object exchange~~ diathesis (see [@sec:prepositions-action-result]). The result of a verb like *pressen* 'to squeeze' is *Saft* 'juice' [@next a]. With a preverb, the verb *auspressen* 'to squeeze' drops this accusative result and promotes the container of the result *Zitrone* 'citron' to accusative [@next b].
 
 ::: ex
 a. Ich presse den Saft aus der Zitrone.
 b. Ich presse die Zitrone aus.
 :::
 
-Lipka [-@lipka1972: 93, 173] calls this diathesis *Objektvertauschung* and McIntyre [-@mcintyre2001: 275-277] 'landmark flexibility'. For historical context on this diathesis, see Carlberg [@carlberg1948] and Hundsnurscher [-@hundsnurscher1968: 127]. Lipka opposes this diathesis to *Subjektvertauschung*, which is discussed in [@sec:preverb-preposition-anticausative].
+Lipka [-@lipka1972: 93, 173] calls this diathesis *Objektvertauschung* and McIntyre [-@mcintyre2001: 275-277] 'landmark flexibility'. For historical context on this diathesis, see Carlberg [-@carlberg1948] and Hundsnurscher [-@hundsnurscher1968: 127]. Lipka opposes this diathesis to *Subjektvertauschung*, which is discussed in [@sec:preverb-preposition-anticausative].
 
 **Attested Verbs**
 
 - beˈ-   : *erben, rauben, stehlen*
-- verˈ-  : *drängen, legen, scheuchen, stellen, treiben*
+- verˈ-  : *legen, stellen*
 - zerˈ-  : *beißen, drücken, fressen, kauen*
 - überˈ- : *schwemmen*
 - ˈaus-  : *klopfen, lecken, packen, pressen, pumpen, rauben, schütten, trinken*
@@ -1376,8 +1377,6 @@ Lipka [-@lipka1972: 93, 173] calls this diathesis *Objektvertauschung* and McInt
   Ich räume die neue Wohnung ein.
 - Ich ziehe das Laken von dem Bett. \
   Ich ziehe das Bett ab.
-- Ich treibe die Kühe auf die Weide. \
-  Ich vertreibe die Kühe.
 
 ## Diatheses with promotion to object {#sec:preverb-promotion-to-object}
 
@@ -1919,7 +1918,7 @@ There are various still transparent derivations in which there is a rather stron
 **Attested Verbs**
 
 - erˈ- : *blicken, greifen, reichen*
-- ˈan- : *beten, blicken, brüllen, grinsen, lachen, reden, schauen, schreien, singen, sprechen, winken*
+- ˈan- : *beten, blicken, brüllen, grinsen, lachen, lächeln, reden, schauen, schreien, singen, sprechen, winken*
 
 **Further Examples**
 
@@ -2150,12 +2149,13 @@ The following applicatives turn a prepositional phrase into a dative. For exampl
 
 **Atteste Verbs**
 
-- erˈ-   : *mangeln*
-- entˈ-  : *eilen, fliegen, fliehen, fließen, gehen, gleiten, kommen, laufen, springen, sprießen, steigen, stammen, strömen, wachsen, weichen*
-- ˈan-   : *hängen (gehangen)*
-- ˈnach- : *fahren, gehen, hinken, laufen, reiten, rennen, schwimmen, rufen, schreien, schauen, sehen*
-- ˈzu-   : *arbeiten, hören, lachen, lächeln, laufen, nicken, prosten, reden, sich wenden, schauen, trinken, winken, zwinkern*
-- ˈbei-  : *liegen, stehen, stimmen*
+- erˈ-    : *mangeln*
+- entˈ-   : *eilen, fliegen, fliehen, fließen, gehen, gleiten, kommen, laufen, springen, sprießen, steigen, stammen, strömen, wachsen, weichen*
+- widerˈ- : *reden, rufen, sprechen, stehen, streben, streiten*
+- ˈan-    : *hängen (gehangen)*
+- ˈnach-  : *fahren, gehen, hinken, laufen, reiten, rennen, schwimmen, rufen, schreien, schauen, sehen, weinen*
+- ˈzu-    : *arbeiten, hören, lachen, lächeln, laufen, nicken, prosten, reden, sich wenden, schauen, trinken, winken, zwinkern*
+- ˈbei-   : *liegen, stehen, stimmen*
 
 **Further Examples**
 
@@ -2187,6 +2187,14 @@ The following applicatives turn a prepositional phrase into a dative. For exampl
   Er entfloh der Gefahr.
 - Ich wende mich zu dir. \
   Ich wende mich dir zu.
+- Ich weine über die alte Zeit. \
+  Ich weine der alten Zeit nach.
+- Sie spricht mit ihm. \
+  Sie widerspricht ihn.
+- Diese Beobachtung spricht gegen die Theorie. \
+  Diese Beobachtung widerspricht der Theorie.
+- Er strebt nach Ruhm. \
+  Er widerstrebt den Anweisungen.
 
 ### [ NAp | NAD ] Preverb dative applicative+accusative {#sec:preverb-dative-applicative-accusative}
 
@@ -2453,7 +2461,7 @@ This diathesis is mentioned by Eisenberg [-@eisenberg2006: 257-258].
 
 ### [ NpA | NAp ] Preverb applicative+*in* antipassive {#sec:preverb-applicative-in-antipassive}
 
-A second pattern of applicative+antipassive combinations uses an *in* antipassive. For example, the diathesis between *wickeln* 'to wrap' and *einwickeln* 'to wrap around' [@next] changes the original accusative *Tuch* 'cloth' into an prepositional phrase with *in*. The prepositions that are involved in the applicative part of this diathesis are again more varied (*für, mit, um, über*), but there are not enough examples to warrant separate subsections.
+A second pattern of applicative+antipassive combinations uses an *in* antipassive. For example, the diathesis between *wickeln* 'to wrap' and *einwickeln* 'to wrap around' [@next] changes the original accusative *Tuch* 'cloth' into an prepositional phrase with *in*. The prepositions that are involved in the applicative part of this diathesis are again more varied (*bei, für, mit, um, über*), but there are not enough examples to warrant separate subsections.
 
 ::: ex
 - Ich wickle das Tuch um den Arm.

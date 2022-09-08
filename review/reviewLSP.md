@@ -1549,11 +1549,29 @@ combination with psych predicates in German.
 > corrected
 
 - p. 271 ‘The allomorphs without geshow show’: repetition
+
+> corrected
+
 - p. 273 10.8b I prefer gelogen to go to the end.
+
+> changed
+
 - p. 273 Weinen is mentioned as being a manner of speaking verb, is this really justified? I do not think that this is appropriate.
+
+> rephrased. It is a verb that can be used in a  manner-of-speaking context.
+
 - p. 275 ‘between participles as secondary predicate’: predicates 
+
+> corrected
+
 - p. 276 10.18c Strange
+
+> changed to *angekleidet*, I think that sounds more idiomatical.
+
 - p. 276 ‘focus on slightly’: the slightly
+
+> changed
+
 - p. 277 10.22a I think the sentence is ok, especially if you add den ganzen Tag.
 - p. 277 Why is the bleiben construction not tense-oriented? I do not think that this is justified and haven’t found any conclusive argumentation in favor of this view. See also my comment on 10.22a
 - p. 277 10.23b kind with capital K

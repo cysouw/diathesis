@@ -41,11 +41,11 @@ Additionally, I have added a section with epithetical constructions that are fun
 
 ## Temporal aspect {#sec:epithesis-temporal-aspect}
 
-The grammatical marking of aspect is commonly defined as linguistic expressions that specify the 'internal temporal constituency of a situation' [@comrie1976: 3]. In this sense, the title of this section, ~~temporal aspect~~, might appear to be tautological. However, this designation is used here in opposition to a different set of categories that also specify the spatial constituency of a situation, ~~spatial aspect~~, described in the next [@sec:epithesis-spatial-aspect]. Temporal aspect in German includes a surprisingly large number of continuative expressions, alongside constructions for cross-linguistically widespread habitual and progressive aspects.
+The grammatical marking of aspect is commonly defined as linguistic expressions that specify the 'internal temporal constituency of a situation' [@comrie1976: 3]. In this sense, the title of this section, ~~temporal aspect~~, might appear to be tautological. However, this designation is used here in opposition to a different set of categories that specify the spatial constituency of a situation, ~~spatial aspect~~, described in the next [@sec:epithesis-spatial-aspect]. Temporal aspect in German includes a surprisingly large number of continuative constructions, alongside constructions for cross-linguistically widespread aspectual categories like inchoative, habitual and progressive.
 
 ### *Prozessperfekt* (*haben+Partizip*) {#sec:summary-prozessperfekt}
 
-The ~~Prozessperfekt~~ (full discussion in [@sec:participles-haben-perfect] and subsequent sections) is proposed here as a specific name for the *haben+Partizip* construction [@next]. In the German grammatical tradition, the perfect is normally described as a verb form taking either *haben* or *sein*, depending on the lexical verb. However, there turn out to be surprisingly many verbs that allow for both, with a clear distinction in meaning (see [@sec:participles-haben-sein-perfect]). For that reason, I propose to use different names for both constructions. Note that the name *Perfekt* is developing into a misnomer, as the *haben+Partizip* appears to be taking over the function of past marking in contemporary German.
+The ~~Prozessperfekt~~ (full discussion in [@sec:participles-haben-perfect] and subsequent sections) is proposed here as a specific name for the *haben+Partizip* construction [@next]. In the German grammatical tradition, the perfect is normally described as a verb form taking either *haben* or *sein*, depending on the lexical verb. However, there turn out to be surprisingly many verbs that allow for both, with a clear distinction in meaning (see [@sec:participles-haben-sein-perfect]). For that reason, I propose to use different names for both constructions. Note that the name *Perfekt* is developing into a misnomer, as the *haben+Partizip* construction appears to be taking over the function of past marking in contemporary German.
 
 ::: ex
 a. Das Kind schläft.
@@ -59,6 +59,26 @@ The ~~Zustandsperfekt~~ (full discussion in [@sec:participles-sein-perfect] and 
 ::: ex
 a. Das Kind schläft ein.
 b. Das Kind ist eingeschlafen.
+:::
+
+### *Inchoativ* (*los-*)
+
+The ~~Inchoativ~~ (full discussion in [@sec:adverbial-inchoative-los]) consists of the preverbial adjective *los-*, added as a separable verb particle with intransitive verbs, like *losradeln* 'to start biking' [@next]. This construction indicates that an activity starts. It is typically used with manner-of-movement verbs and manner-of-speaking verbs, but it is in general applicable to all intransitives. As an adjective *los* means 'loose' in contemporary German. In that meaning it is used for example in the *Resultativ Delokativ* (see [@sec:summary-adverb-delokativ]). In contrast, the current preverbial inchoative use of *los-* is derived from an older meaning 'free'.
+
+::: ex
+- Er radelt täglich zur Schule.
+- Er radelt früh los. \
+  Er ist früh losgeradelt.
+:::
+
+### *Kontinuativ* (*weiter-*)
+
+The ~~Kontinuativ~~ (full discussion in [@sec:adverbial-continuative-weiter]) consists of the preverbial adjective *weiter-*, added as a separable verb particle with intransitive and transitive verbs, like *weiterentwickeln* 'to develop further' [@next]. This construction indicates that an activity is continued. The stem *weiter* is originally the comparative form of the adjective *weit* 'far' and it has various adverbial uses in contemporary German, meaning for example 'spatially further' or 'still'. However, these adverbial uses can syntactically be separated from the preverbial continuative aspect marker presented here.
+
+::: ex
+- Der Forscher entwickelt eine neue Technik.
+- Die Forscherin entwickelt die Technik weiter. \
+  Sie hat die Technik weiterentwickelt.
 :::
 
 ### *Habituativ* (*pflegen+zu‑Infinitiv*)
@@ -82,7 +102,7 @@ The ~~Progressiv~~ (full discussion in [@sec:zuminfinitive-sein-am]) consists of
 
 ### *Mutativprogressiv* (*sein+im‑Infinitiv*) 
 
-The ~~Mutativprogressiv~~ (full discussion in [@sec:zuminfinitive-sein-im]) is a variant of the *Progressiv* (see [@sec:summary-progressiv]), using the preposition *im* instead of *am*. The *sein+im‑Infinitiv* is much less frequent than the *am* progressive. However, the available examples suggest a clear semantic characterisation. The *im* progressive is typically used with verbs that either describe an ongoing process of increase [@next a] or an ongoing process of decrease [@next b].
+The ~~Mutativprogressiv~~ (full discussion in [@sec:zuminfinitive-sein-im]) is a variant of the *Progressiv* (see [@sec:summary-progressiv]), using the preposition *im* instead of *am*. The *sein+im‑Infinitiv* is much less frequent than the *am* progressive. However, the available examples suggest a clear semantic characterisation. The *im* progressive is typically used with verbs that either describe an ongoing process of expansion [@next a] or an ongoing process of reduction [@next b].
 
 ::: ex
 - Die eigene Fahrerflotte entsteht. \
@@ -93,7 +113,7 @@ The ~~Mutativprogressiv~~ (full discussion in [@sec:zuminfinitive-sein-im]) is a
 
 ### *Kontinuativprogressiv* (*bleiben+am‑Infinitiv*)
 
-The ~~Kontinuativprogressiv~~ (full discussion in [@sec:zuminfinitive-bleiben-am]) is the first of various continuative constructions that use the light verb *bleiben*. Parallel to the *sein* progressive (see [@sec:summary-progressiv]), the *Progressivkontinuativ* [@next] uses *bleiben* with the *am‑Infinitiv* to express that an event is ongoing (progressive) and remains ongoing (continuative).
+The ~~Kontinuativprogressiv~~ (full discussion in [@sec:zuminfinitive-bleiben-am]) is the first of various continuative constructions that use the light verb *bleiben*. Parallel to the *Progressiv* with the light verb *sein* (see [@sec:summary-progressiv]), the *Progressivkontinuativ* [@next] uses the light verb *bleiben* with the *am‑Infinitiv* to express that an event is ongoing (progressive) and remains ongoing (continuative).
 
 ::: ex
 - Er lebt.
@@ -121,7 +141,7 @@ b. Der Schlüssel bleibt verschwunden.
 
 ### *Permissivkontinuativ* (*lassen+Partizip*)
 
-The ~~Permissivkontinuativ~~ (full discussion in [@sec:participles-lassen-durative]) uses the light verb *lassen* with a participle [@next]. The name establishes a connection to the *Permissiv­kau­sativ* (constructed with an infinitive, see [@sec:summary-permissivkausativ]), while highlighting the fact that semantically this construction is a continuative. It expresses the permission of the subject for a transitive action to continue.
+The ~~Permissivkontinuativ~~ (full discussion in [@sec:participles-lassen-durative]) uses the light verb *lassen* with a participle [@next]. The name establishes a connection to the *Permissiv­kau­sativ* (constructed with an infinitive, see [@sec:summary-permissivkausativ]), while highlighting the fact that semantically this construction is a continuative. It expresses the permission of the subject for the result of a transitive action to continue.
 
 ::: ex
 - Ich schalte den Fernseher ein.
@@ -427,14 +447,26 @@ a. Ich habe mir das Haus angesehen.
 b. Ich habe das Haus angesehen.
 :::
 
-### *Resultativer Reflexiv* 
+### *Reflexiv Resultativ* {#sec:summary-reflexiv-resultativ}
 
-The ~~Resultativer Reflexiv~~ (full discussion in [@sec:adverbial-intransitive-reflexive-resultative]) is an alternation that can be used with a subset of all intransitive verbs, for example with *schlafen* 'to sleep' [@next a]. By adding a reflexive pronoun and an adverbial, like *gesund* 'healthy' [@next b], the sentence expresses that the subject participant achieves a state (expressed by the adverbial) by performing an action (expressed by the verb). In other words, [@next b] means approximately 'By sleeping I will become healthy'. 
+The ~~Reflexiv Resultativ~~ (full discussion in [@sec:adverbial-intransitive-resultative]) is an alternation that can be used with a subset of all intransitive verbs, for example with *schlafen* 'to sleep' [@next a]. By adding a reflexive pronoun and a resultative preverbial, like *gesund* 'healthy' [@next b], the sentence expresses that the subject participant achieves a state (expressed by the preverbial) by performing an action (expressed by the verb). In other words, [@next b] means approximately 'by sleeping I will become healthy'. The combination of *gesund* with the verb *schlafen* arguably is a new separable verb *gesundschlafen* [@next c], syntactically similar to *Partikelverben* like *einschlafen*.
 
 ::: ex
 a. Ich schlafe.
 b. Ich schlafe mich gesund. \
    (= Durch zu schlafen werde ich gesund.)
+c. Ich werde mich gesundschlafen.
+:::
+
+### *Transitiv Resultativ*
+
+The ~~Transitiv Resultativ~~ (full discussion in [@sec:adverbial-transitive-resultative]) is the transitive counterpart to the previous *Reflexiv Resultativ* (see [@sec:summary-reflexiv-resultativ]). The only difference is that no reflexive pronoun is necessary with transitive verbs. For example, the verb *pflegen* 'to nurse' [@next a] can be combined with a resultative *gesund* 'healthy' [@next b] to form a new separable verb *gesundpflegen* 'to heal by nursing' [@next c]. The preverbial *gesund* has a resultative meaning, expressing the effect of the action (*pflegen* 'to nurse') on the accusative object (*Mutter* 'mother'), i.e. 'by nursing my mother will be healed'.
+
+::: ex
+a. Ich pflege meine Mutter.
+b. Ich pflege meine Mutter gesund. \
+   (= Durch meine Pflege wird meine Mutter gesund.)
+c. Ich werde meine Mutter gesundpflegen.
 :::
 
 ## Summary of recurrent light verbs

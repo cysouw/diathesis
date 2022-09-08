@@ -75,7 +75,7 @@ a. Der Weltreisende wartet auf einen Zug.
 b. Der Weltreisende wartet darauf, dass ein Zug kommt.
 :::
 
-Third, there exist obligatory prepositional phrases, though they are not very widespread in German and mostly designate a location. Some verbs always expect such a location-role, like *sich befinden* 'to be located somewhere' [@next a,b], see e.g. [@sec:prepositions-obligatory-local, @sec:reflexive-obligatory-local], but more widespread are resultative diatheses that introduce an obligatory local role, like with *brechen* 'to break' [@next c,d], see e.g. [@sec:prepositions-action-result]. The example in [@next c] crucially shows that arguments should be determined as part of the clause structure, not the lexeme structure. It is perfectly possible to use the verb *brechen* without a prepositional phrase [@next e], but then there needs to be a different lexical role in the accusative.
+Third, there exist obligatory prepositional phrases, though they are not very widespread in German and mostly designate a location. Some verbs always expect such a location-role, like *sich befinden* 'to be located somewhere' [@next a,b], see e.g. [@sec:prepositions-obligatory-local] and [-@sec:reflexive-obligatory-local], but more widespread are resultative diatheses that introduce an obligatory local role, like with *brechen* 'to break' [@next c,d], see e.g. [@sec:prepositions-action-result]. The example in [@next c] crucially shows that arguments should be determined as part of the clause structure, not the lexeme structure. It is perfectly possible to use the verb *brechen* without a prepositional phrase [@next e], but then there needs to be a different lexical role in the accusative.
 
 ::: ex
 a. Der Stuhl befindet sich im Wohnzimmer
@@ -167,7 +167,7 @@ The formal linguistic marking of a diathesis, for example by verbal morphology o
 
 - zero-marked 'covert' diatheses (Chapters [-@sec:case; -@sec:prepositions])
 - diatheses marked by reflexive pronouns (Chapter [-@sec:reflexive])
-- diatheses marked by adverbials or preverbs (Chapters [-@sec:preverbs; -@sec:adverbial])
+- diatheses marked by preverbs or adverbials (Chapters [-@sec:preverbs; -@sec:adverbial])
 - diatheses marked by light-verb constructions (Chapters [-@sec:participle; -@sec:infinitive; -@sec:zuinfinitive; -@sec:zuminfinitive])
 
 The first two chapters deal with diatheses that are not overtly marked as such, i.e. they deal with 'covert' diatheses. Because there is no marking on either of the two alternants, it is often difficult to discern a direction in such equipollent alternations. In Chapter [-@sec:case] I will discuss diatheses that only differ in the marking of case, for example unmarked anticausatives like [@next]. Chapter [-@sec:prepositions] deals with unmarked diatheses in which at least on of the alternants is a prepositional phrase, for example unmarked antipassive like [@nnext].
@@ -878,15 +878,20 @@ b. Ich beklage mich darüber, dass es so laut ist.
 
 There are a many diatheses with a role-remapping between adjunct and object that do not have any overt indication of a direction. Without explicit marking it is difficult to decide whether such diatheses are cases of (applicative) promotion ~~[ADJ › OBJ]~~ or (antipassive) demotion ~~[OBJ › ADJ]~~. For the sake of organisation in this book I classify such covert alternations on the basis of (debatable) semantic intuitions.
 
-Most covert diatheses with an alternation between prepositional phrases and case-marked arguments are classified here as ~~antipassive~~, like in the alternation between *schießen auf* 'to aim at' and *schießen* 'to shoot' [@next a], see [@sec:prepositions-accusative-antipassive]. This is also widespread with datives [@next b], see [@sec:prepositions-dative-antipassive-accusative]. In such examples, I judge the case-marking to be more basic than the prepositional phrase. 
+Most covert diatheses with an alternation between prepositional phrases and case-marked arguments are classified here as ~~antipassive~~, like in the alternation between *schießen auf* 'to aim at' and *schießen* 'to shoot' [@next], see [@sec:prepositions-accusative-antipassive]. This is also widespread with datives [@nnext], see [@sec:prepositions-dative-antipassive-accusative]. In such examples, I judge the case-marking to be more basic than the prepositional phrase. 
 
 ::: ex
 ~~Covert antipassive [OBJ › ADJ]~~
 
-a. Ich schieße den Bären. \
-   Ich schieße auf den Bären.
-b. Ich schreibe dir einen Brief. \
-   Ich schreibe einen Brief an dich.
+a. Ich schieße den Bären.
+b. Ich schieße auf den Bären.
+:::
+
+::: ex
+~~Covert dative antipassive [OBJ › ADJ]~~
+
+a. Ich schreibe dir einen Brief. \
+b. Ich schreibe einen Brief an dich.
 :::
 
 In contrast, there is a widespread alternation between datives and *für* prepositional phrases [@next] that I classify as an ~~applicative~~, see [@sec:prepositions-benefactive-dative]. In this example the dative seems to be the derived construction.
@@ -986,10 +991,10 @@ b. Ich befehle die Armee an die Front. \
    (= Ich befehle, und dadurch geht die Armee an die Front.)
 :::
 
-Even more noteworthy, such a locative diathesis is also possible with many intransitive verbs like *schwitzen* 'to sweat' [@next a]. With such verbs, a locative diathesis not only adds a location, like *in mein Hemd* 'in my shirt', but also an resultative accusative object, like *einen Fleck* 'a stain' [@next b], see [@sec:prepositions-intransitive-location-as-result].
+Even more noteworthy, such a caused-motion diathesis is also possible with many intransitive verbs like *schwitzen* 'to sweat' [@next a]. With such verbs, a locative diathesis not only adds a location, like *in mein Hemd* 'in my shirt', but also an resultative accusative object, like *einen Fleck* 'a stain' [@next b], see [@sec:prepositions-intransitive-location-as-result].
 
 ::: ex
-~~Locative (resultative) [Ø › PBJ, Ø › OBJ]~~
+~~Locative (caused motion) [Ø › PBJ, Ø › OBJ]~~
 
 a. Ich schwitze.
 b. Ich schwitze einen Fleck in mein Hemd. \
@@ -1044,7 +1049,7 @@ Chains of object diatheses (i.e. chains with the object in the middle of the cha
 
 ![Attested chains of object diathesis](figures/objectchains){#fig:objectchains}
 
-#### Chained applicatives {#sec:intro-chained-applicative}
+#### Chained applicatives & antipassives {#sec:intro-chained-applicative}
 
 The patterns in the center of the figure are the most frequent chains with an object, called collectively ~~full applicative [ADJ › OBJ › ADJ]~~. These diatheses are combinations of an applicative promotion ~~[ADJ › OBJ]~~ and an antipassive demotion ~~[OBJ › ADJ]~~. A typical example is the diathesis between *werfen* 'to throw' and *bewerfen* 'to throw at' [@next], see [@sec:preverb-applicative-antipassive]. In such examples a prepositional phrase turns into an accusative, and the erstwhile accusative into a prepositional phrase.
 
@@ -1077,20 +1082,20 @@ c. Ich bewundere ihn dafür, dass er ehrlich ist.
 
 #### Chained objectives & deobjectives {#sec:intro-chained-objective-deobjective}
 
-At the extreme right and bottom of [@fig:objectchains] are chains that involve the addition or drop of a lexical role. An objective ~~[Ø › OBJ]~~ is typically chained with an antipassive ~~[OBJ › PBJ/ADJ]~~, resulting in a chain ~~[Ø › OBJ › PBJ]~~. This is attested in the resultative object addition illustrated here with the verb *schneiden* to cut [@next], see [@sec:prepositions-action-result]. A new object, that is the result of the cutting, is introduced, while the old object is turned into a prepositional phrase [@next a,b]. This prepositional phrase cannot be left out [@next c], so it classified here as an obligatory location (~~PBJ~~).
+At the extreme right and bottom of [@fig:objectchains] are chains that involve the addition or drop of a lexical role. An objective ~~[Ø › OBJ]~~ is typically chained with a locative antipassive ~~[OBJ › PBJ]~~, resulting in a chain ~~[Ø › OBJ › PBJ]~~. The prepositional phrase cannot be left out [@next c], so it classified here as an obligatory location (~~PBJ~~). Such a ~~chained objective~~ is attested in the object addition illustrated here with the verb *schneiden* 'to cut' [@next], see [@sec:prepositions-action-result]. The original object (*Brot* 'bread') is turned into a locational prepositional phrase. At the same time a new object is introduced (*Loch* 'hole') that is a component part of the previous object [@next a,b]. The accusative object thus is remapped from a container element to a part of that container, i.e *pars pro toto*. 
 
 ::: ex
-~~Antipassive+objective (resultative) [Ø › OBJ › PBJ]~~
+~~Objective+antipassive (pars pro toto) [Ø › OBJ › PBJ]~~
 
 a. Ich schneide das Brot.
 b. Ich schneide ein Loch in das Brot.
-c. ^^?^ Ich schneide ein Loch
+c. ^^?^ Ich schneide ein Loch.
 :::
 
-The reversed chain ~~[PBJ › OBJ › Ø]~~ is illustrated in [@next] with the diathesis between the verb *klopfen* and *ausklopfen* 'to pound', see [@sec:preverb-location-antiresultative]. The verb *klopfen* takes an accusative that expressed the result of the pounding (*Staub*). The pounded object (*Mantel*) that produces the result is expressed as an obligatory locational phrase [@next a,b]. The antiresultative *ausklopfen* [@next c] drops the result (*Staub*) and promotes the pounded object (*Mantel*) to accusative.
+The reversed ~~chained deobjective [PBJ › OBJ › Ø]~~ is illustrated in [@next] with the diathesis between the verb *klopfen* and *ausklopfen* 'to pound, to beat', see [@sec:preverb-location-antiresultative]. The verb *klopfen* takes an accusative that expressed the result of the pounding (*Staub* 'dust'). The pounded object (*Mantel* 'coat') is expressed as an obligatory locational phrase [@next a,b]. Crucially, the accusative object in this original construction is always a component part of the locational object. The diathesis from *klopfen* to *ausklopfen* [@next c] drops the contained parts (*Staub* 'dust') and promotes the container object (*Mantel* 'coat') to accusative, i.e. *totum pro parte*.
 
 ::: ex
-~~Applicative+deobjective (antiresultative) [PBJ › OBJ › Ø]~~
+~~Deobjective+applicative (totum pro parte) [PBJ › OBJ › Ø]~~
 
 a. Ich klopfe den Staub von meinem Mantel.
 b. ^* Ich klopfe den Staub.
@@ -1099,7 +1104,7 @@ c. Ich klopfe meinen Mantel aus.
 
 #### Chained case changes 
 
-Finally, there are a few chains involving a change of case at the top and the left of [@fig:objectchains]. Note that a case change of dative/genitive to accusative can be seen as a promotion (and the reverse as a demotion, cf. [@par:corecase]), but that perspective will not be followed here. 
+Finally, there are a few chains involving a change of case at the top and the left of [@fig:objectchains]. Note that a case change of dative/genitive to accusative can be interpreted as a promotion (and the reverse as a demotion, cf. [@par:corecase]), but that perspective will not be followed here. 
 
 Example [@next] shows a combination of a dative-to-accusative case change with an antipassive, resulting in a chain ~~[OBJ › OBJ › ADJ]~~. The verb *schenken* 'to gift' takes a recipient in the dative and a patient in the accusative, while the derived *beschenken* 'to gift' turns the accusative into a prepositional phrase (i.e. antipassive) and changes the dative *dir* into an accusative *dich* (see [@sec:preverb-antipassive-dative-accusative]).
 

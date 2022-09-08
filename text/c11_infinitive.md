@@ -150,19 +150,19 @@ It has been widely observed that there is a wide variety of uses of the *lassen+
 
 The nine diatheses are reduced to six groups, which I have given a German name (as shown in the table). However, these can be further reduced to basically three different options: a reflexive epistemic passive, expressing possibility (*Möglichkeitspassiv*), a reflexive modal passive, expressing permission (*Permissivpassiv, Permissivinversiv*) and a non-reflexive causative (*Permissivkausativ, Passivkausativ*). I will succinctly summarise these different options here. For a detailed discussion, please see the sections as indicated in the table.
 
-|                         Section                          |   Remapping    |     German Name      | Reflexive |    Interpretation    |
-| :------------------------------------------------------: | :------------: | :------------------: | :-------: | :------------------: |
-|     [-@sec:infinitive-lassen-reflexive-intransitive]     |   [ N \| – ]   | *Möglichkeitspassiv* |    yes    |     possibility      |
-| [-@sec:infinitive-lassen-reflexive-governed-preposition] |  [ NP \| –P ]  | *Möglichkeitspassiv* |    yes    |     possibility      |
-|    [-@sec:infinitive-lassen-reflexive-anticausative]     |  [ NA \| pN ]  | *Möglichkeitspassiv* |    yes    |     possibility      |
-|                                                          |                |                      |           |                      |
-|  [-@sec:infinitive-lassen-reflexive-permissive-passive]  |  [ NA \| pN ]  |  *Permissivpassiv*   |    yes    |      permission      |
-|        [-@sec:infinitive-lassen-dative-reflexive]        |  [ ND \| pN ]  |  *Permissivpassiv*   |    yes    |      permission      |
-| [-@sec:infinitive-lassen-dative-reflexive-anticausative] | [ NDA \| pNA ] |  *Permissivpassiv*   |    yes    |      permission      |
-|   [-@sec:infinitive-lassen-dative-reflexive-inversive]   |  [ ND \| AN ]  | *Permissivinversiv*  |    yes    |      permission      |
-|                                                          |                |                      |           |                      |
-|           [-@sec:infinitive-lassen-causative]            |  [ –N \| NA ]  | *Permissivkausativ*  |    no     | causation/permission |
-|       [-@sec:infinitive-lassen-passive-causative]        | [ –NA \| NpA ] |   *Passivkausativ*   |    no     |      causation       |
+|                         Section                          |     Remapping      |     German Name      | Reflexive |    Interpretation    |
+| :------------------------------------------------------: | :----------------: | :------------------: | :-------: | :------------------: |
+|     [-@sec:infinitive-lassen-reflexive-intransitive]     |    ~~[N \| –]~~    | *Möglichkeitspassiv* |    yes    |     possibility      |
+| [-@sec:infinitive-lassen-reflexive-governed-preposition] |   ~~[NP \| –P]~~   | *Möglichkeitspassiv* |    yes    |     possibility      |
+|    [-@sec:infinitive-lassen-reflexive-anticausative]     |  ~~[NA \| ~p~N]~~  | *Möglichkeitspassiv* |    yes    |     possibility      |
+|                                                          |                    |                      |           |                      |
+|  [-@sec:infinitive-lassen-reflexive-permissive-passive]  |  ~~[NA \| ~p~N]~~  |  *Permissivpassiv*   |    yes    |      permission      |
+|        [-@sec:infinitive-lassen-dative-reflexive]        |  ~~[ND \| ~p~N]~~  |  *Permissivpassiv*   |    yes    |      permission      |
+| [-@sec:infinitive-lassen-dative-reflexive-anticausative] | ~~[NDA \| ~p~NA]~~ |  *Permissivpassiv*   |    yes    |      permission      |
+|   [-@sec:infinitive-lassen-dative-reflexive-inversive]   |   ~~[ND \| AN]~~   | *Permissivinversiv*  |    yes    |      permission      |
+|                                                          |                    |                      |           |                      |
+|           [-@sec:infinitive-lassen-causative]            |   ~~[–N \| NA]~~   | *Permissivkausativ*  |    no     | causation/permission |
+|       [-@sec:infinitive-lassen-passive-causative]        | ~~[–NA \| N~p~A]~~ |   *Passivkausativ*   |    no     |      causation       |
 
 Table: Different diatheses with a *lassen+Infinitiv* construction {#tbl:lassen}
 

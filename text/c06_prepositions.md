@@ -41,7 +41,7 @@ There are fifteen local groups of diatheses that seem prominent enough to be giv
 - ~~[Ø › PBJ] Bewegungsart~~ (see [@sec:prepositions-manner-of-movement] ff.)
 - ~~[Ø › PBJ] Verursachte Bewegung~~ (see [@sec:prepositions-intransitive-location-as-result] ff.)
 - ~~[Ø › PBJ] Ergänzende Wirkung~~ (see [@sec:prepositions-performative-result]
-- ~~[Ø › OBJ › PBJ] Resultativ~~ (see [@sec:prepositions-action-result])
+- ~~[Ø › OBJ › PBJ] Teilobjektiv~~ (see [@sec:prepositions-action-result])
 - ~~[ADJ › OBJ] Benefaktivdativ~~ (see [@sec:prepositions-benefactive-dative])
 - ~~[ADJ › OBJ] Beurteilerdativ~~ (see [@sec:prepositions-judgement-dative])
 - ~~[ADJ › OBJ] Ortspertinenzdativ~~ (see [@sec:prepositions-possessor-of-location-to-dative-experiencer] ff.)
@@ -359,7 +359,7 @@ Some verbs appear to have an obligatory locational argument, like *wohnen* 'to l
 
 **Attested Verbs**
 
-- *entspringen, münden, spielen (zutragen), wohnen, übernachten, zeigen*
+- *entspringen, münden, sein (sich befinden), spielen (zutragen), wohnen, übernachten, zeigen*
 
 **Further Examples**
 
@@ -367,6 +367,7 @@ Some verbs appear to have an obligatory locational argument, like *wohnen* 'to l
 - Der Fluss entspringt aus den Bergen.
 - Der Rhein mündet in die Nordsee.
 - Der Film spielt in Italien.
+- Ich bin in der Küche.
 
 ### [ NAL ] Obligatory local preposition+accusative {#sec:prepositions-obligatory-local-accusative}
 
@@ -381,7 +382,7 @@ b. Er legt den Hund in den Korb.
 
 - Verbs with ablaut causatives: *legen, setzen, stellen*
 - Verbs forcing something away: *drängen, scheuchen, schütten, treiben*
-- Others: *verbringen*
+- Others: *ketten, schnallen, verbringen*
 
 **Further Examples**
 
@@ -391,6 +392,7 @@ b. Er legt den Hund in den Korb.
 - Ich treibe die Kühe auf die Wiese.
 - Ich dränge ihn in die Ecke.
 - Ich verbringe meine Ferien in Italien.
+- Ich kette den Hund an seiner Hütte.
 
 ### [ NP ] Accusative *es*+governed preposition {#sec:prepositions-nominative-es-preposition}
 
@@ -733,7 +735,7 @@ c. Der Teller ist am Tisch geklebt.
 
 **Attested Verbs**
 
-- *hängen, klappen, kleben, lehnen, stecken, treiben*
+- *hängen, klappen, kleben, lehnen, stecken*
 
 **Further Examples**
 
@@ -744,9 +746,7 @@ c. Der Teller ist am Tisch geklebt.
 - Ich lehne den Besen an den Zaun. \
   Der Besen lehnt am Zaun. 
 - Ich stecke den Brief in den Briefkasten. \
-  Der Brief steckt im Briefkasten. 
-- Ich treibe ihn aus dem Haus. \
-  Er treibt im Wasser. 
+  Der Brief steckt im Briefkasten.  
 - Er klappt den Sitz nach hinten. \
   Der Sitz klappt nach hinten. Der Sitz ist nach hinten geklappt.
 
@@ -807,18 +807,20 @@ d. ^* Der Tisch putzt.
 
 **Attested Verbs**
 
-- *fahren, hetzen, rücken, stürzen, ziehen*
+- *fahren, hetzen, rücken, stürzen, treiben, ziehen*
 
 **Further Examples**
 
 - Der Hund ist durch den Wald gehetzt. \
   Der Hund hat den Hasen durch den Wald gehetzt.
-- Ich rücke den Tisch zur Seite. \
-  Die Soldaten rücken in die Kaserne.^[Attested on https://www.dwds.de/wb/rücken, accessed 23 April 2022.]
-- Das hohe Gehalt zieht ihn nach Australien. \
-  Er zieht nach Australien.
-- Er hat uns nach Hause gefahren. \
-  Wir sind nach Hause gefahren.
+- Er ist nach Australien gezogen. \
+  Das hohe Gehalt hat ihn nach Australien gezogen. \
+- Wir sind nach Hause gefahren. \
+  Er hat uns nach Hause gefahren. 
+- Der Ballon ist nach Westen getrieben. \
+  Ich habe ihn aus dem Haus getrieben.
+- Die Soldaten rücken in die Kaserne.^[Attested on https://www.dwds.de/wb/rücken, accessed 23 April 2022.] \
+  Ich rücke den Tisch zur Seite. \
 
 **Notes**
 
@@ -1118,15 +1120,15 @@ c. Ich sitze auf dem Stuhl. \
 
 There appear to be only a small selection of prepositions that can be used in such alternations, which will be discussed in turn in subsequent subsections.
 
-- an   : Partially completed action and/or bodily contact with object
-- auf  : Action in the direction of object or object as musical instrument
-- aus  : Object of reading
-- in   : Partially completed action inside object
-- mit  : Object as instrument or reciprocal activity
-- nach : Less affected object of action in the direction of object
-- von  : Partial usage of object
-- über : Object of control, communication, or cognitive content
-- zu   : Direction
+- *an*   : Partially completed action and/or bodily contact with object
+- *auf*  : Action in the direction of object or object as musical instrument
+- *aus*  : Object of reading
+- *in*   : Partially completed action inside object
+- *mit*  : Object as instrument or reciprocal activity
+- *nach* : Less affected object of action in the direction of object
+- *von*  : Partial usage of object
+- *über* : Object of control, communication, or cognitive content
+- *zu*   : Direction
 
 It is important to realise that many verbs allow for more than one of these alternations, depending on the reading of the verb/object combination, illustrated here with the verb *spielen*, 'to play' [@next a,b]. With the same verb, there might even be readings that do not allow for any prepositional alternation [@next c-e].
 
@@ -1499,12 +1501,12 @@ It seems to be somewhat unusual for verbs with dative but without accusative to 
 
 **Attested Verbs**
 
+- auf  : *folgen*
 - aus  : (movement out of) *entkommen, entfliehen, entschlüpfen, entspringen, entwischen*
 - für  : (on behalf of) *bedeuten, bevorstehen, bleiben*
-- auf  : *folgen*
-- zu   : (belonging to) *dienen, gehören, passen*
 - über : *gebieten*
 - vor  : (movement away from) *fliehen, flüchten, weichen*
+- zu   : (belonging to) *dienen, gehören, passen*
 
 **Further Examples**
 
@@ -1534,10 +1536,10 @@ It seems to be somewhat unusual for verbs with dative but without accusative to 
 
 With an additional accusative argument it is widespread for dative arguments to have an alternative expression in the form of a prepositional phrase. However, it is rather difficult to characterise the semantic difference between two such alternating expressions (cf. [@devaere2018] for an investigation for the verb *geben* and the large literature on the English dative alternation). There are only a few monosyllabic prepositions that can be used for this alternation:
 
-- an  : Moving towards
-- von : Removing from
-- vor : Hiding from
-- zu  : Moving towards
+- *an*  : Moving towards
+- *von* : Removing from
+- *vor* : Hiding from
+- *zu*  : Moving towards
 
 #### *an* Ditransitive dative alternation
 
@@ -1821,15 +1823,15 @@ b. Sie stürmten in den Saal.
 
 ### --- [ Ø > PBJ ] --- *Verursachte Bewegung* {.unnumbered}
 
-In the analysis of resultative constructions, there is a recurrent suggestion in the literature to distinguish between 'cause to go' and 'cause to become' semantics (e.g. [@mcintyre2003: 120]). I will use the designation 'forced movement' for the former and names like 'action result' or 'performative result' for the latter here.
+In the analysis of resultative constructions, there is a recurrent suggestion in the literature to distinguish between 'cause to go' and 'cause to become' semantics (e.g. [@mcintyre2003: 120]). I will use the designation 'caused motion' for the former and 'performative result' for the latter here.
 
-### [ N– – | NAL ] Intransitive forced movement {#sec:prepositions-intransitive-location-as-result}
+### [ N– – | NAL ] Intransitive caused motion {#sec:prepositions-intransitive-location-as-result}
 
 With some apparently intransitive verbs there exist special constructions with an accusative argument and an obligatorily present prepositional phrase. For example, the verb *klopfen* 'to knock' is regularly used as an intransitive [@next a] possibly with an *an* prepositional phrase [@next b]. Accusative arguments are normally not possible, except for a very few special nouns related to music [@next c].
 
 However, the verb *klopfen* is very regularly used in construction like [@next d] with an accusative and a prepositional phrase. Both have to occur together, as leaving out either the prepositional phrase [@next e] or the accusative [@next f] is not possible. This prepositional phrase is a locative and not a governed argument, because it cannot be replaced by a *davon, dass* phrase.
 
-The meaning of this special construction [@next d] is also special. The meaning is something like: by doing the action of the intransitive verb, nominative causes accusative to move in the direction described by the prepositional phrase [@next g], cf. Goldberg's [-@goldberg2006: 73] famous example *She sneezed the foam off the cappuccino*.
+The meaning of this special construction [@next d] is also special. The meaning is something like: by doing the action of the intransitive verb, nominative causes accusative to move in the direction described by the prepositional phrase [@next g], cf. Goldberg's [-@goldberg2006: 73] famous "caused motion" example *She sneezed the foam off the cappuccino*.
 
 Note that with possessor raising (see [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative]) it is even possible to add an additional dative argument, leading to an 'intransitive' verb *klopfen* with an obligatory dative, accusative and prepositional argument [@next h]. This dative can also be turned into a reflexive [@next i].
 
@@ -1845,7 +1847,7 @@ f. Er klopft mir den Schnee von den (meinen) Schuhen.
 f. Er klopft sich den Schnee von den Schuhen.
 :::
 
-This construction is closely related to adjectival resultative secondary predicates as in [@next], see also [@sec:adverbial-resultative-predicates].
+This construction is closely related constructions with resultative adjectival adverbials like *leer* 'empty' in [@next], see also [@sec:adverbial-object-addtion].
 
 ::: ex
 Er klopft den Aschenbecher leer.
@@ -1853,9 +1855,8 @@ Er klopft den Aschenbecher leer.
 
 **Attested Verbs**
 
-- Bodily Action: *heulen, husten, klopfen, pusten, pumpen, spucken, stampfen*
-- Bodily Process: *schlafen, schwitzen*
-- Weather Verbs: *regnen, wehen*
+- Bodily process: *heulen, husten, klopfen, pusten, pumpen, schlafen, schwitzen, spucken, stampfen*
+- Weather verbs: *regnen, wehen*
 - Others: *graben (aus), klingeln, schwindeln*
 
 **Further Examples**
@@ -1890,9 +1891,9 @@ b. Er spielt den Gegner an die Wand.
 c. Der Student im vierten Stock schläft mal wieder ein Loch in den Tag.^[Attested online at https://universal_lexikon.de-academic.com/232141/Ein_Loch_in_den_Tag_schlafen, accessed 25 Juli 2022.]
 :::
 
-### [ NA– | NAL ] Transitive forced movement {#sec:prepositions-transitive-location-as-result}
+### [ NA– | NAL ] Transitive caused motion {#sec:prepositions-transitive-location-as-result}
 
-Similar to intransitive resultatives (see [@sec:prepositions-intransitive-location-as-result]), some transitive verbs like *befehlen* 'to order' [@next a] alternate with a forced movement construction [@next b,c]. Note that there is a slightly different construction (without diathesis) with a dative after the preposition *an* [@next d]. In this example the prepositional phrase simply expresses the location in which the action is taking place, or it is an adnominal phrase. In both interpretations there is no valency alternation. 
+Similar to intransitive caused movement (see [@sec:prepositions-intransitive-location-as-result]), some transitive verbs like *befehlen* 'to order' [@next a] alternate with a caused motion construction [@next b,c]. Note that there also exists a slightly different construction (without diathesis) with a dative after the preposition *an* [@next d]. In this example the prepositional phrase simply expresses the location in which the action is taking place, or, alternatively it is an adnominal phrase. In both these interpretations there is no valency alternation. 
 
 ::: ex
 a. Ich befehle eine Armee.
@@ -1975,11 +1976,13 @@ The verb *wünschen* 'to wish' can be used in a construction with *als* [@next a
 - Dr. Malan wünschte sich den vierundsiebzigjährigen Meneer Havenga zum Nachfolger.^[~~DWDS~~: Die Zeit, 16.12.1954, Nr. 50.]
 :::
 
-### --- [ Ø > OBJ > PBJ ] --- *Resultativ* {.unnumbered}
+### --- [ Ø > OBJ > PBJ ] --- *Teilobjektiv* {.unnumbered}
 
-### [ NA– | NLA ] Action result {#sec:prepositions-action-result}
+### [ NA– | NLA ] Part object exchange {#sec:prepositions-action-result}
 
 This alternation occurs with some transitive verbs like *waschen* 'to wash' [@next a,b], cf. the *wipe* alternation in English from Levin [-@levin1993: 53]. Note that the accusatives at both sides of the alternation do not refer to the same roles. The original accusative *Hose* 'trousers' [@next a] is recast as a location [@next b], which is obligatory [@next c]. A new accusative *Fleck* 'stain' is introduced as the result of the action. Typically the result is actually the removal of something, like *Fleck* 'stain' in [@next].
+
+The result of this diathesis [@next b] is a caused motion construction, similar to the diatheses as described in [@sec:prepositions-intransitive-location-as-result; sec:prepositions-transitive-location-as-result]. However, this is a completely different diathesis because the object is changed. The new accusative object always is a part of the original object [called a "partitive" interpretation in @levin1993: 53]. The exact reverse diathesis is attested with preverbs (see [@sec:preverb-location-antiresultative])
 
 ::: ex
 a. Ich wasche meine Hose.
@@ -1998,7 +2001,8 @@ b. Er kämmt dir die Läuse aus den Haaren.
 
 **Attested Verbs**
 
-- *brechen, bügeln, erwarten, filtern, kämmen, polieren, schneiden, waschen, wischen*
+- Cleaning/repair: *bügeln, filtern, kämmen, nähen, polieren, schrubben, waschen, wischen*
+- Destruction: *brechen, hacken, schneiden*
 
 **Further Examples**
 
@@ -2014,27 +2018,16 @@ b. Er kämmt dir die Läuse aus den Haaren.
   Ich bügle die Falten aus dem Hemd.
 - Ich breche den Felsen. \
   Ich breche einen Durchgang in den Felsen. 
-
-### [ Np– | NAA ] Naming result {#sec:prepositions-naming-result}
-
-This alternation appears as a parallel to the double accusative of *nennen* 'to name' (see [@sec:case-named-objects]) for other naming verbs.
-
-::: ex
-a. Sie schimpft auf mich.
-b. Sie schimpft mich einen Narren
-:::
-
-**Attested Verbs**
-
-- *schimpfen, fluchen*
-
-**Further Examples**
-
-- Er sitzt immer am selben Platz bei Bier und Schnaps, flucht mich einen Tagedieb, einen Affen, Bananenfresser, einen, der schon längstens in eine Arbeitserziehungsanstalt gehöre.^[Attested online at <http://www.gruppe-4-w.de/forum/viewtopic.php?f=21&t=2047#p19030>, accessed 29 Juli 2019.]
+- Er näht eine Hose. \
+  Er näht einen Knopf an seiner Hose.
+- Er hackt das Holz. \
+  Er hackt ein Loch in das Eis.
+- Er schrubt den Rinnstein. \
+  Nur eine Kehrmaschine schrubbt den Schmutz aus dem Rinnstein.^[~~DWDS~~: Berliner Zeitung, 21.07.1999.]
 
 ### --- [ ADJ > OBJ ] --- *Benefaktivdativ* {.unnumbered}
 
-### [ NAp | NAD ] *für* Benefactive dative {#sec:prepositions-benefactive-dative}
+### [ NAp | NAD ] Benefactive dative {#sec:prepositions-benefactive-dative}
 
 The alternation of a dative with a *für* prepositional phrase is very widespread [@next a,b]. It can be used with verbs that can be performed on behalf of somebody else (i.e. ~~benefactive~~, sometimes called ~~dativus commodi~~). In German grammar it is sometimes referred to as a 'free dative' because it can be easily dropped completely. As Eisenberg [-@eisenberg2006a: 298] remarks, such datives are widespread, but cannot be used with all verbs and are thus a phenomenon that can be used for the sub-classification of verbs. Also note that this diathesis should be strongly differentiated from other 'free datives', specifically possessor datives (see especially [@sec:case-possessor-accusative-to-dative; but also @sec:prepositions-possessor-of-location-to-dative-experiencer]) 
 
@@ -2076,7 +2069,7 @@ e. Gib mir eine Waffe und ich gewinne dir jeden Krieg.^[Attested online at <http
 
 ### --- [ ADJ > OBJ ] --- *Beurteilerdativ* {.unnumbered}
 
-### [ Np | ND ] *für deinen Geschmack* Judgement dative {#sec:prepositions-judgement-dative}
+### [ Np | ND ] Judgement dative {#sec:prepositions-judgement-dative}
 
 A dative can be introduced together with an obligatory *zu/genug* phrase in the interpretation of an evaluator *für den Geschmack von* [also known as *dativus iudicantis*, e.g. @hole2014: 6-7, 172-176]. It is typically used with intransitive verbs [@next a], though transitive construction seem possible [@next b]. More research is needed to establish any restrictions for the kind of verbs with which this dative can be used.
 
@@ -2228,6 +2221,25 @@ c. Ich bewundere ihn dafür, dass er ehrlich ist.
   Ich entschuldige die Tat des Diebes.
 - Die Delegierten feiern ihn für sein Nein zum Irak-Krieg. \
   Die Delegierten feiern sein Nein zum Irak-Krieg.
+
+### --- [ ADJ > OBJ + Ø > OBJ ] --- {.unnumbered}
+
+### [ Np– | NAA ] Naming result {#sec:prepositions-naming-result}
+
+This alternation appears as a parallel to the double accusative of *nennen* 'to name' (see [@sec:case-named-objects]) for other naming verbs.
+
+::: ex
+a. Sie schimpft auf mich.
+b. Sie schimpft mich einen Narren
+:::
+
+**Attested Verbs**
+
+- *schimpfen, fluchen*
+
+**Further Examples**
+
+- Er sitzt immer am selben Platz bei Bier und Schnaps, flucht mich einen Tagedieb, einen Affen, Bananenfresser, einen, der schon längstens in eine Arbeitserziehungsanstalt gehöre.^[Attested online at <http://www.gruppe-4-w.de/forum/viewtopic.php?f=21&t=2047#p19030>, accessed 29 Juli 2019.]
 
 ## Symmetrical diatheses
 

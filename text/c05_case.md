@@ -22,10 +22,10 @@ There are seven local groups of diatheses that seem prominent enough to be given
 - ~~[SBJ › Ø] Verbativ~~ (see [@sec:case-nominative-drop] ff.)
 - ~~[OBJ › SBJ › Ø] Antikausativ~~ (see [@sec:case-haben-anticausative] ff.)
 - ~~[Ø › SBJ › OBJ] Kausativ~~ (see [@sec:case-sein-causative] ff.)
-- ~~[Ø › OBJ] Resultatakkusativ~~ (see [@sec:case-accusative-addition])
-- ~~[ADJ › OBJ] Pertinenzdativ~~ (see [@sec:case-possessor-of-nominative-to-dative-experiencer] ff.)
+- ~~[Ø › OBJ] Ergebnisakkusativ~~ (see [@sec:case-accusative-addition])
 - ~~[OBJ › Ø] Optionaler Akkusativ~~ (see [@sec:case-accusative-drop] ff.)
 - ~~[OBJ › Ø] Optionaler Dativ~~ (see [@sec:case-dative-drop] ff.)
+- ~~[ADJ › OBJ] Pertinenzdativ~~ (see [@sec:case-possessor-of-nominative-to-dative-experiencer] ff.)
 
 ## Delimiting case-marked arguments {#sec:case-delimiting-arguments}
 
@@ -467,12 +467,14 @@ b. Dieses Jahr gibt es einen guten Wein.
 
 ### [ ND | –D ] Nominative drop+dative {#sec:case-nominativ-drop-dative}
 
-Very exceptionally a verb with a nominative and a dative allows for the nominative to be dropped and replaced by a valency-simulating pronoun *es* [@next a,b]. In contrast, in most sentences with a pronoun *es* and a dative the pronoun *es* is either phoric [@nnext a] or position-simulating [@nnext b], both of which do not count as the drop of an argument (cf. [@sec:intro-es]).
+Very exceptionally a verb with a nominative and a dative allows for the nominative to be dropped and replaced by a valency-simulating pronoun *es*, like with *gefallen* 'to appeal' [@next a,b].
 
 ::: ex
 a. Das Buch gefällt mir.
 b. Hier gefällt es mir gar nicht.
 :::
+
+In contrast, in most sentences with a pronoun *es* and a dative the pronoun *es* is either phoric [@nnext a] or position-simulating [@nnext b], both of which do not count as the drop of an argument (cf. [@sec:intro-es]).
 
 ::: ex
 a. Es galt mir.
@@ -481,7 +483,12 @@ b. Es ist mir ein Unfall widerfahren.
 
 **Attested Verbs**
 
-- *gefallen*
+- *gefallen, langen*
+
+**Further Examples**
+
+- Mein Gehalt langt mir nicht. \
+  Jetzt langt es mir aber!
 
 ### [ NG | –G ] Nominative drop+genitive {#sec:case-nominativ-drop-genitive}
 
@@ -681,7 +688,7 @@ Second, there are very many (though not exclusively) verbs denoting natural proc
 - Verbs with preverb variants: *biegen (einbiegen), bleichen (erbleichen, verbleichen), bräunen (anbräunen), brechen (abbrechen, zerbrechen), brennen (abbrennen, niederbrennen, verbrennen), fahren (ǘberfahren), fliegen (einfliegen), frieren (einfrieren), klappen (aufklappen, zuklappen), knicken (abknicken, einknicken), reißen (abreißen, einreißen, zerreißen), rollen (ausrollen), staunen (erstaunen), stürzen (umstürzen), tauen (auftauen), treten (antreten, wegtreten), trocknen (austrocknen), wirbeln (aufwirbeln)*
 - Preverbal verbs from adjectival roots: *abkühlen, ermatten, verrohen, abstumpfen*
 - Preverbal verbs from nominal roots: *erzürnen, verdunsten, zersplittern*
-- Others: *altern, ersticken, ertrinken, fliehen, heilen, reifen, verderben, verqualmen, vorrücken, zuschneien*
+- Others: *altern, ersticken, ertrinken, fliehen, heilen, reifen, schrumpfen, verderben, verqualmen, vorrücken, zuschneien*
 
 **Further Examples**
 
@@ -715,6 +722,8 @@ Second, there are very many (though not exclusively) verbs denoting natural proc
   Der Doktor heilt die Wunde.
 - Die Zigarren verqualmen den Raum. \
   Der Raum verqualmt.
+- Der Handel schrumpft. \
+  Daewoo schrumpfte den Hubraum des alten 1,6-Liter-Kadett-Motors und erhielt ihm seine 75 PS.^[~~DWDS~~: Berliner Zeitung, 18.03.1995.]
 
 **Notes**
 
@@ -1026,7 +1035,7 @@ Given that there are already very few verbs with genitive arguments in German, i
 
 In this chapter, I have tried to separate between the demotion of an object (antipassive or drop, see [@sec:case-object-demotion]) and the promotion of an accusative (applicative or addition, this section). However, for 'covert' diatheses I cannot find any substantive difference between these phenomena, except for a faint semantic impression that covert applicatives do not imply an accusative object (but allow it), while bare antipassive imply an accusative object (but allow it to be dropped). It remains a clear desideratum to put this intuitive differentiation on stricter grammatical footing.
 
-### --- [ Ø > OBJ ] --- *Resultatakkusativ* {.unnumbered}
+### --- [ Ø > OBJ ] --- *Ergebnisakkusativ* {.unnumbered}
 
 ### [ N– | NA ] Accusative addition {#sec:case-accusative-addition}
 
@@ -1049,12 +1058,13 @@ c. Ich flüsterte die Lösung in sein Ohr.
 d. Ich flüsterte ihm die Lösung ins Ohr.
 :::
 
-These verbs are formally similar to verbs that allow for an accusative to be dropped (see [@sec:case-accusative-drop]). The only difference between these two classes is a (rather vague) semantic intuition about whether the intransitive or the transitive meaning is more 'basic'. As a rule-of-thumb the verbs in this section have an object that is the result of the action as described by the verb (hence the German name ~~Resultatakkusativ~~). Whether this is a useful separation has to be determined by future research.
+These verbs are formally similar to verbs that allow for an accusative to be dropped (see [@sec:case-accusative-drop]). The only difference between these two classes is a (rather vague) semantic intuition about whether the intransitive or the transitive meaning is more 'basic'. As a rule-of-thumb the verbs in this section have an object that is the result of the action as described by the verb (hence the German name ~~Ergebnisakkusativ~~). Whether this is a useful separation has to be determined by future research.
 
 **Attested Verbs**
 
-- *atmen, fliehen, hetzen, laufen, leben, schauen, schwimmen, singen, spielen, springen, tanzen*
+- Manner-of-movement: *fliehen, hetzen, laufen, schwimmen, singen, springen, tanzen*
 - Manner-of-speaking: *brüllen, flüstern, grölen, johlen, murmeln, schreien, stottern*
+- *atmen, leben, schauen, spielen*
 
 **Further Examples**
 
@@ -1064,8 +1074,8 @@ These verbs are formally similar to verbs that allow for an accusative to be dro
 - Ich lebe die Freiheit.
 - Die Fans grölen die Hymne.
 - Das Publikum johlte Beifall.
-- Ich flüstere die Lösung (in sein Ohr).
-- Er murmelt die Antwort (in seinen Bart).
+- Ich flüstere die Lösung.
+- Er murmelt die Antwort.
 - Ich brüllte die Antwort.
 - Er floh ihren Blick.
 
