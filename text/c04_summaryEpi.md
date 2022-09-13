@@ -449,7 +449,7 @@ b. Ich habe das Haus angesehen.
 
 ### *Reflexiv Resultativ* {#sec:summary-reflexiv-resultativ}
 
-The ~~Reflexiv Resultativ~~ (full discussion in [@sec:adverbial-intransitive-resultative]) is an alternation that can be used with a subset of all intransitive verbs, for example with *schlafen* 'to sleep' [@next a]. By adding a reflexive pronoun and a resultative preverbial, like *gesund* 'healthy' [@next b], the sentence expresses that the subject participant achieves a state (expressed by the preverbial) by performing an action (expressed by the verb). In other words, [@next b] means approximately 'by sleeping I will become healthy'. The combination of *gesund* with the verb *schlafen* arguably is a new separable verb *gesundschlafen* [@next c], syntactically similar to a *Partikelverb* like *einschlafen*.
+The ~~Reflexiv Resultativ~~ (full discussion in [@sec:adverbial-intransitive-resultative]) is an alternation that can be used with a subset of all intransitive verbs, for example with *schlafen* 'to sleep' [@next a]. By adding a reflexive pronoun and a resultative preverbial, like *gesund-* 'healthy' [@next b], the sentence expresses that the subject participant achieves a state (expressed by the preverbial) by performing an action (expressed by the verb). In other words, [@next b] means approximately 'by sleeping I will become healthy'. The combination of *gesund-* with the verb *schlafen* arguably is a new separable verb *gesundschlafen* [@next c], syntactically similar to a *Partikelverb* like *einschlafen*.
 
 ::: ex
 a. Ich schlafe.
@@ -460,7 +460,7 @@ c. Ich werde mich gesundschlafen.
 
 ### *Transitiv Resultativ*
 
-The ~~Transitiv Resultativ~~ (full discussion in [@sec:adverbial-transitive-resultative]) is the transitive counterpart to the previous *Reflexiv Resultativ* (see [@sec:summary-reflexiv-resultativ]). The only difference is that no reflexive pronoun is necessary with transitive verbs. For example, the verb *pflegen* 'to nurse' [@next a] can be combined with a resultative *gesund* 'healthy' [@next b] to form a new separable verb *gesundpflegen* 'to heal by nursing' [@next c]. The preverbial *gesund* has a resultative meaning, expressing the effect of the action (*pflegen* 'to nurse') on the accusative object (*Mutter* 'mother'), i.e. 'by nursing my mother will be healed'.
+The ~~Transitiv Resultativ~~ (full discussion in [@sec:adverbial-transitive-resultative]) is the transitive counterpart to the previous *Reflexiv Resultativ* (see [@sec:summary-reflexiv-resultativ]). The only difference is that no reflexive pronoun is necessary with transitive verbs. For example, the verb *pflegen* 'to nurse' [@next a] can be combined with a resultative *gesund-* 'healthy' [@next b] to form a new separable verb *gesundpflegen* 'to heal by nursing' [@next c]. The preverbial *gesund-* has a resultative meaning, expressing the effect of the action (*pflegen* 'to nurse') on the accusative object (*Mutter* 'mother'), i.e. 'by nursing my mother will be healed'.
 
 ::: ex
 a. Ich pflege meine Mutter.

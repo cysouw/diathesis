@@ -851,7 +851,7 @@ c. Er spricht von sich.
 
 - *kämpfen, sprechen, etc.*
 
-### [ NAD | NAd ] Self-inflicting dative reflexive+accusative
+### [ NAD | NAd ] Self-inflicting dative reflexive+accusative {#sec:reflexive-dative-accusative}
 
 For ditransitive verbs that allow for a nominative, accusative and dative argument it is extremely common to allow for a self-inflicting reflexive pronoun in the dative, like with *schenken* 'to gift' [@next a,b]. Only an illustrative selection of such verbs are listed in this section.
 
@@ -860,7 +860,7 @@ a. Ich schenke ihm eine Tafel Schokolade.
 b. Ich schenke mir (selbst) eine Tafel Schokolade.
 :::
 
-With verbs that allow for the possessor-of-accusative dative alternation ('possessor datives', see [@sec:case-possessor-accusative-to-dative]) this dative reflexive can lead to sentences with three coreferent words, like with  *putzen* 'to clean' [@next a] or *zerbrechen* 'to break' [@next b].
+With verbs that allow for the possessor-of-accusative dative alternation ('possessor datives', see [@sec:case-possessor-accusative-to-dative]) this dative reflexive can lead to sentences with three coreferent words, like with *putzen* 'to clean' [@next a] or *zerbrechen* 'to break' [@next b].
 
 ::: ex
 a. Ich putze mir meine Schuhe.
@@ -1005,9 +1005,9 @@ d. ^* Er klopft sich.
 
 ### [ NALD | NALd ] Self-inflicting dative reflexive+accusative+location {#sec:reflexive-dative-accusative-location}
 
-The verbs in this section are intransitive verbs [@next a] that allow for both a resultative construction [@next b], see [@sec:prepositions-intransitive-location-as-result] and a possessor-to-dative alternation [@next c], see [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative], leading possibly to a dative reflexive *sich* pronoun [@next d]. 
+The verbs in this section are intransitive verbs [@next a] that allow for both a caused-motion diathesis [@next b], see [@sec:prepositions-intransitive-location-as-result] and a possessor-to-dative alternation [@next c], see [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative], leading possibly to a dative reflexive *sich* pronoun [@next d]. 
 
-Although this diathesis does appear to be a regular stack of different diatheses, the intermediate resultative construction [@next b] seems odd. Also, the resultative diathesis appears to be frequently taking an *aus* prepositional phrase, though there does not seem to be any syntactic reason for this preference. In summary, there appears to be something idiomatic going on in this construction warranting more research.
+Although this diathesis does appear to be a regular stack of different diatheses, the intermediate caused-motion construction [@next b] seems odd. Also, the resulting construction appears to be frequently taking an *aus* prepositional phrase [@next d], though there does not seem to be any syntactic reason for this preference. In summary, there appears to be something idiomatic going on in this construction warranting more research.
 
 ::: ex
 a. Ich heule.
@@ -1361,7 +1361,7 @@ d. ^* Meine Wünsche erfüllen sich mir.
 
 ### [ NAL | –NL ] Reflexive anticausative+location {#sec:reflexive-anticausative-location}
 
-Some (but not all) verbs with a resultative alternation ([@sec:prepositions-transitive-location-as-result]), like *ziehen* 'to pull' [@next a,b] allow for a reflexive anticausative [@next c]. This results in an accusative reflexive pronoun with an obligatory locational phrase. Leaving out the location is ungrammatical [@next d].
+Some (but not all) verbs with a caused-motion alternation ([@sec:prepositions-transitive-location-as-result]), like *ziehen* 'to pull' [@next a,b] allow for a reflexive anticausative [@next c]. This results in an accusative reflexive pronoun with an obligatory locational phrase. Leaving out the location is ungrammatical [@next d].
 
 ::: ex
 a. Der Bauer hat den Pflug gezogen.
@@ -1875,7 +1875,7 @@ d. ^* Ich träume mich.
   Würzburg zitterte sich am Ende in die Playoffs.^[~~DWDS~~: Die Zeit, 07.05.2016 (online).]
 :::
 
-This diathesis is exceptional, because an extra obligatory argument is introduced together with the reflexive pronoun. This is a clear counterexample to the generalisation that reflexive diatheses are demoting. This construction is closely related to a reflexive usage of intransitive verbs with an obligatory resultative adverbial, like with *schlafen* 'to sleep' [@next]. This diathesis is discussed in more detail in [@sec:adverbial-intransitive-resultative].
+This diathesis is exceptional, because an extra obligatory argument is introduced together with the reflexive pronoun. This is a clear counterexample to the generalisation that reflexive diatheses are demoting. This construction is closely related to a reflexive usage of intransitive verbs with an obligatory resultative preverbial, like with *gesundschlafen* 'to get healthy by sleeping' [@next]. This diathesis is discussed in more detail in [@sec:adverbial-intransitive-resultative].
 
 ::: ex
 - Ich schlafe.

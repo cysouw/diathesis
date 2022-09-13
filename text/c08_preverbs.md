@@ -26,10 +26,10 @@ There are thirteen diatheses that are sufficiently prominent to be given a Germa
 - ~~[ADJ › OBJ › ADJ] Präverb Teil/fest-Objekttausch~~ (see [@sec:preverb-applicative-in-antipassive])
 - ~~[PBJ › OBJ › ADJ] Präverb Ganz/voll-Objekttausch~~ (see [@sec:preverb-applicative-antipassive])
 - ~~[PBJ › OBJ › Ø] Präverb Ganz/leer-Objekttausch~~ (see [@sec:preverb-location-antiresultative])
-- ~~[PBJ › Ø] Präverb Delokativ~~ (see [@sec:preverb-intransitive-antiresultative] ff.)
-- ~~[OBJ › Ø] Präverb Endoreflexiv~~ (see [@sec:preverb-reflexive-accusative-drop])
+- ~~[PBJ › ADJ] Präverb Delokativ~~ (see [@sec:preverb-intransitive-antiresultative] ff.)
 - ~~[OBJ › ADJ] Präverb Reflexiv Antipassiv~~ (see [@sec:preverb-reflexive-antipassive])
 - ~~[OBJ › ADJ] Präverb Dativ Antipassiv~~ (see [@sec:preverb-dative-antipassive])
+- ~~[OBJ › Ø] Präverb Endoreflexiv~~ (see [@sec:preverb-reflexive-accusative-drop])
 
 ## Characterising preverbs
 
@@ -114,7 +114,7 @@ Second, verbs that already have an accusative argument show various different ki
 
 - When there is already an accusative argument, this argument can be retained while other participants in the sentence are marked differently. This is for example attested with the diathesis from *kaufen* 'to buy' to *verkaufen* 'to sell' in [@next a], see [@sec:preverb-dative-causative].
 - Most frequently, the accusative argument is demoted, and another participant is promoted to accusative. This is for example attested with the diathesis from *hängen* 'to hang' to *behängen* to drape' in [@next b], see [@sec:preverb-applicative-antipassive].
-- Similarly, with some resultative constructions a prepositional phrase (often a location) can be promoted to an accusative argument while the original accusative cannot be expressed anymore. This is for example attested with the diathesis from *schütten* 'to pour' to *ausschütten* 'to spill' in [@next c], see [@sec:preverb-location-antiresultative].
+- Similarly, with some caused-motion constructions a prepositional location can be promoted to an accusative argument while the original accusative cannot be expressed anymore. This is for example attested with the diathesis from *schütten* 'to pour' to *ausschütten* 'to spill' in [@next c], see [@sec:preverb-location-antiresultative].
 
 ::: ex
 a. Ich kaufe das Haus von ihm. \
@@ -1147,11 +1147,11 @@ c. Ich verschenke das Buch an dich.
 - Ich koche dir eine Suppe. \
   Ich bekoche dich (mit einer Suppe).
 
-### --- [ PBJ > Ø ] --- *Präverb Delokativ* {.unnumbered}
+### --- [ PBJ > ADJ ] --- *Präverb Delokativ* {.unnumbered}
 
-### [ NL | N– ] Preverb intransitive delocative {#sec:preverb-intransitive-antiresultative}
+### [ NL | Np ] Preverb intransitive delocative {#sec:preverb-intransitive-antiresultative}
 
-The non-preverbal *steigen* 'to mount' needs a location describing the endpoint (result) of the action [@next a]. This location cannot be left out [@next b] and, crucially for this diathesis, the participle cannot be used attributively without the location [@next c,d].
+The non-preverbal *steigen* 'to mount' needs an obligatory location describing the endpoint of the action [@next a]. This location cannot be left out [@next b] and, crucially for this diathesis, the participle cannot be used attributively without the location [@next c,d].
 
 ::: ex
 a. Der Mann steigt aus dem Auto.
@@ -1209,7 +1209,7 @@ Note that there is another usage of the verb *steigen* in the meaning 'to rise' 
 - Das Schiff geht nach Italien. \
   Das Schiff geht unter.
 
-### [ NL | N– ] Preverb reflexive intransitive delocative {#sec:preverb-reflexive-intransitive-antiresultative}
+### [ NL | Np ] Preverb reflexive intransitive delocative {#sec:preverb-reflexive-intransitive-antiresultative}
 
 This diathesis is similar to the previous diathesis (see [@sec:preverb-intransitive-antiresultative]) with the additional characteristics that the prefixed verbs like *beeilen* 'to hurry' also need a reflexive pronoun [@next]. Note that, contrary to [@next b], the verb *eilen* 'to 'hurry' can be used without a location phrase, but only in the meaning 'to be urgent' (cf. [@sec:prepositions-location-drop]).
 
@@ -1238,9 +1238,9 @@ This diathesis is similar to the previous diathesis (see [@sec:preverb-intransit
 - Er hängt an dem Balken. \
   Er erhängt sich (an dem Balken).
 
-### [ NAL | NA– ] Preverb transitive delocative {#sec:preverb-transitive-antiresultative}
+### [ NAL | NAp ] Preverb transitive delocative {#sec:preverb-transitive-antiresultative}
 
-Verbs of caused location (see [@sec:prepositions-haben-caused-location]) like *stecken* 'to put into' [@next a] cannot be used without the locative preposition [@next b]. In contrast, with the prefix *ver-* the verb *verstecken* 'to hide' can be used both with and without the location [@next c,d].
+Verbs of caused location (see [@sec:prepositions-haben-caused-location]) like *stecken* 'to put into' [@next a] cannot be used without a locative prepositional phrase [@next b]. In contrast, with the prefix *ver-* the verb *verstecken* 'to hide' can be used both with and without the location [@next c,d].
 
 ::: ex
 a. Ich stecke das Geschenk in den Schrank.
@@ -1340,7 +1340,7 @@ The verb *schenken* 'to pour' used to be common in a context of pouring a drink 
 
 ### [ NLA | NA– ] Preverb applicative+accusative drop {#sec:preverb-location-antiresultative}
 
-This diathesis is the reversal of the unmarked ~~Partitive separated object~~ diathesis (see [@sec:prepositions-partitive-free]). The result of a verb like *pressen* 'to squeeze' is *Saft* 'juice' [@next a]. This verb has an obligatory local phrase for the container of the juice, *aus der Zitrone* 'from the citron' [@next b], either using the preposition *aus* or *von*. With a preverb, the verb *auspressen* 'to squeeze' drops this accusative result and promotes the container of the result *Zitrone* to accusative [@next c].
+The result of a verb like *pressen* 'to squeeze' is *Saft* 'juice' [@next a]. This verb needs an obligatory local phrase for the container of the juice, *aus der Zitrone* 'from the citron' [@next b]. Verbs in this category either use the preposition *aus* or *von*. With a preverb, the verb *auspressen* 'to squeeze' drops this accusative result and promotes the container of the result *Zitrone* to accusative [@next c]. In effect, the role marked as object is exchanged. The new object (here *Zitrone*) always is a holonymic 'whole' containing the original meronymic content (here *Saft*). This diathesis applies to verb in which the meronymic content ist removed out of the holonymic container.
 
 ::: ex
 a. Ich presse den Saft aus der Zitrone.
@@ -1348,14 +1348,14 @@ b. ^* Ich presse den Saft.
 b. Ich presse die Zitrone aus.
 :::
 
-Most examples have an obligatory local phrase before the diathesis, but a few verbs allow for this phrase to be dropped, like *rauben* 'to rob' [@next]. Other examples of this slightly different diathesis with an optional location are *erben, trinken* and *stehlen*.
+Most examples have an obligatory local phrase before the diathesis, but a few verbs allow for this local phrase to be dropped, like with *rauben* 'to rob' [@next]. Other examples of this slightly different diathesis with an optional location are *erben, trinken* and *stehlen*.
 
 ::: ex
 - Ich raube das Gemälde (aus der Wohnung).
 - Ich raube die Wohnung aus.
 :::
 
-Lipka [-@lipka1972: 93, 173] calls this diathesis *Objektvertauschung* and McIntyre [-@mcintyre2001: 275-277] 'landmark flexibility'. For historical context on this diathesis, see Carlberg [-@carlberg1948] and Hundsnurscher [-@hundsnurscher1968: 127]. Lipka opposes this diathesis to *Subjektvertauschung*, which is discussed in [@sec:preverb-preposition-anticausative].
+There is a parallel diathesis with the resultative preverbials *leer-* and *frei-*, which is discussed in detail in [@sec:adverbial-applicative-leer]. The reversal of this diathesis is the unmarked ~~partitive separated object~~ diathesis (see [@sec:prepositions-partitive-free]). Lipka [-@lipka1972: 93, 173] calls this diathesis *Objektvertauschung* and McIntyre [-@mcintyre2001: 275-277] 'landmark flexibility'. For historical context on this diathesis, see Carlberg [-@carlberg1948] and Hundsnurscher [-@hundsnurscher1968: 127]. Lipka opposes this diathesis to *Subjektvertauschung*, which is discussed in [@sec:preverb-preposition-anticausative]. However, that opposition does not seems to be a fruitful approach.
 
 **Attested Verbs**
 
@@ -1394,7 +1394,7 @@ Lipka [-@lipka1972: 93, 173] calls this diathesis *Objektvertauschung* and McInt
 
 ### [ NLA | NAp ] Preverb applicative+*mit* antipassive {#sec:preverb-applicative-antipassive}
 
-This diathesis is a combination of an applicative promotion and an antipassive demotion. Such an object exchange is a very widespread diathesis, exemplified here with *drücken* 'to press' [@next a]. This verb needs both an accusative object (here *Finger* 'finger') and an obligatory location (here *auf die Wunde* 'on the wound'). This location cannot be left out [@next b]. With the preverb *zu-* the verb *zudrücken* 'to press shut' [@next c] promotes the locational object to accusative object (*Wunde*) and demotes the original object to an optional prepositional phrase (*Finger*).
+This diathesis is a combination of an applicative promotion and an antipassive demotion. Such an object exchange is a very widespread diathesis, exemplified here with *drücken* 'to press' [@next a]. This verb needs both an accusative object (here *Finger* 'finger') and an obligatory location (here *auf die Wunde* 'on the wound'). This location cannot be left out [@next b]. With the preverb *zu-* the verb *zudrücken* 'to press shut' [@next c] promotes the locational object to accusative object (*Wunde*) and demotes the original object to an optional prepositional phrase (*Finger*). Semantically, the new accusative object (*Wunde*) is covered by the old accusative object (*Finger*). This is an example of the ~~filled holonym~~ object exchange (see [@sec:intro-demoted-object-exchange]). The reverse diathesis is the ~~joined meronym~~ object exchange, discussed below in [@sec:preverb-applicative-in-antipassive].
 
 ::: ex
 - Ich habe meinen Finger auf die Wunde gedrückt.
@@ -1707,9 +1707,9 @@ b. Sie vertraut mir ein Geheimnis an.
 
 ### --- [ Ø > OBJ ] --- *Präverb Reflexiv Akkusativ* {.unnumbered}
 
-### [ N– | NA ] Preverb resultative accusative+reflexive {#sec:preverb-reflexive-resultative}
+### [ N– | NA ] Preverb reflexive accusative {#sec:preverb-reflexive-resultative}
 
-Some intransitive verbs like *tanzen* 'to dance' [@next a] allow for a resultative diathesis *antanzen* 'to achieve something through dancing' [@next b]. With this diathesis, the result of the dancing is expressed in a new accusative argument. A special characteristic of this diathesis is that a dative reflexive pronoun is obligatorily [see also @wunderlich1997: 105-106].
+Some intransitive verbs like *tanzen* 'to dance' [@next a] allow for a added-result diathesis *antanzen* 'to achieve something through dancing' [@next b]. With this diathesis, the result of the dancing is expressed as a new accusative argument. A special characteristic of this diathesis is that a dative reflexive pronoun is obligatorily [see also @wunderlich1997: 105-106].
 
 ::: ex
 a. Ich habe gestern viel getanzt.
@@ -2231,7 +2231,7 @@ c. Ich überarbeite den Text.
 - verˈ- : *spielen, wetten*
 - erˈ-  : *betteln, bitten, fechten, flehen, kämpfen, mogeln, spielen, streiten, tanzen*
 
-### [ NP | NA ] Preverb governed applicative+reflexive
+### [ NP | NA ] Preverb reflexive governed applicative
 
 The diathesis from *betteln* [@next a] to *erbetteln* [@next b], both meaning 'to beg', shows an additional reflexive marking on top of the accusative applicative.
 
@@ -2240,7 +2240,7 @@ a. Ich bettele um ein Stück Brot.
 b. Ich erbettele mir ein Stück Brot.
 :::
 
-When using the prefix *ver-* the meaning of this diathesis is a negative resultative, like with *bitten* 'to ask' vs. *verbitten* 'to not tolerate' [@next].
+When using the prefix *ver-* the meaning of this diathesis including some kind of implicit negation, like with *bitten* 'to ask' vs. *verbitten* 'to not tolerate' [@next].
 
 ::: ex
 a. Ich bitte um ein besseres Verhalten.
@@ -2469,45 +2469,44 @@ b. Ich sehe ihm die Müdigkeit an.
 
 ### [ NpA | NAp ] Preverb applicative+*in* antipassive {#sec:preverb-applicative-in-antipassive}
 
-=> basically only *für/mit*
-=> location *in* not obligatory, but still PBJ? ??
-
-A second pattern of applicative+antipassive combinations uses an *in* antipassive. For example, the diathesis between *bauen* 'to build' and *verbauen* 'use for building' [@next] changes the original accusative *Haus* 'house' into an prepositional phrase with *in*. The prepositions that are involved in the applicative part of this diathesis are again more varied (*für, mit, um, über*), but there are not enough examples to warrant separate subsections. The new accusative (*Steine* 'stones') is always a part of the former accusative (*Haus* 'house') in this diathesis.
+The diathesis from *füllen* 'to fill' [@next a] to *einfüllen* 'to fill into' [@next b] is an example of a ~~joined meronym~~ object exchange (cf, [@sec:intro-promoted-object-exchange]). The original accusative object (*Flasche* 'bottle') is changed into an optional *in* prepositional phrase, while an optional *mit* prepositional phrase (*Schnaps* 'liquor') is changed to accusative object. Semantically, the role of new accusative object (i.e. the liquid, *Schnaps*) is always a part ('meronym') of the old object role (i.e. the container, *Flasche*). Additionally, the verb describes a process in which the meronym is connected to the holonym. So the new object in this diathesis is always a 'joined' meronym'.
 
 ::: ex
-- Ich baue ein Haus (mit den Steinen).
-- Ich verbaue die Steine (in dem Haus).
+- Er hat die Flasche (mit Schnaps) gefüllt.
+- Er hat den Schnaps (in die Flasche) eingefüllt.
+:::
+
+All examples of this diathesis have an *in* demotion. There is a bit more variation in the promotion, but not much. Most examples have a *mit/in* exchange, while just very few examples of a *für/in* exchange are attested. Both these patterns are discussed separately below.
+
+#### *mit/in* Preverb object exchange
+
+The current *mit/in* object exchange is the reversal of the *in/mit* object exchange, discussed previously in detail in [@sec:preverb-applicative-antipassive]. There are even nice close examples. For example, the diathesis *massieren/einmassieren* is an example of the current *mit/in* exchange [@next a]. In contrast, the diathesis *reiben/einreiben* is a reversed example of an *in/mit* object exchange [@next b].
+
+::: ex
+- Ich habe den Muskel mit einer Salbe massiert. \
+  Ich habe die Salbe in den Muskel einmassiert.
+- Ich habe die Salbe in den Muskel gerieben. \
+  Ich habe den Muskel mit einer Salbe eingerieben.
 :::
 
 **Attested Verbs**
 
-- beˈ- (für)  : *graben*
-- beˈ- (mit)  : *schreiben*
-- verˈ- (für) : *graben, buddeln*
-- verˈ- (mit) : *bauen, backen, heizen*
-- ˈein- (für) : *graben*
-- ˈein- (mit) : *füllen, massieren*
-- ˈein- (-)   : *schließen*
-- ˈab- (mit)  : *füllen*
+- beˈ-   : *schreiben*
+- verˈ-  : *bauen, backen, heizen*
+- ˈein-  : *füllen, massieren*
+- ˈab-   : *füllen*
+- ˈein-  : *schließen*
 
 **Further Examples**
 
-- Ich grabe/buddele ein Loch (für den Schatz). \
-  Ich vergrabe/verbuddele den Schatz (im Loch).
-- Ich grabe ein Loch (für meinen Hund). \
-  Ich begrabe meinen Hund (in dem Loch).
-- Ich grabe ein Loch (für den Baum). \
-  Ich grabe den Baum (ins Erdreich) ein.
 - Ich schreibe einen Brief (mit meinen Erlebnissen). \
   Ich beschreibe meine Erlebnisse (in einem Brief).
+- Ich baue ein Haus (mit Steinen). \
+  Ich verbaue die Steine (in dem Haus).
 - Ich backe einen Kuchen (mit einem Kilo Mehl). \
   Ich verbacke ein Kilo Mehl (in dem Kuchen).
 - Ich heize die Wohnung (mit Kohle). \
   Ich verheize alle Kohle (in der Wohnung).
-- Er hat die Flasche (mit Schnaps) gefüllt. \
-  Er hat den Schnaps (in die Flasche) eingefüllt.
-- Ich massiere den Muskel (mit einer Salbe). \
-  Ich massiere die Salbe (in den Muskel) ein.
 - Ich fülle die Flaschen (mit Milch). \
   Ich fülle die Milch (in Flaschen) ab.
 
@@ -2519,6 +2518,26 @@ The diathesis from *schließen* 'to close' [@next a] to *einschließen* 'to clos
 a. Ich schließe den Safe.
 b. Ich schließe den Schmuck (in den Safe) ein.
 :::
+
+#### *für/in* Preverb object exchange
+
+::: ex
+- Ich grabe ein Loch (für meinen Hund).
+- Ich begrabe meinen Hund (in dem Loch).
+:::
+
+**Attested Verbs**
+
+- beˈ-  : *graben*
+- verˈ- : *graben, buddeln*
+- ˈein- : *graben*
+
+**Further examples**
+
+- Ich grabe/buddele ein Loch (für den Schatz). \
+  Ich vergrabe/verbuddele den Schatz (im Loch).
+- Ich grabe ein Loch (für den Baum). \
+  Ich grabe den Baum (ins Erdreich) ein.
 
 ### --- [ OBJ > OBJ ] --- {.unnumbered}
 

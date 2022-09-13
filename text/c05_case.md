@@ -1039,7 +1039,7 @@ In this chapter, I have tried to separate between the demotion of an object (ant
 
 ### [ N– | NA ] Accusative addition {#sec:case-accusative-addition}
 
-There are various kinds of objects that can be added to apparent intransitives with a resultative meaning. For example: a competitive entity in sports [@next a], the result of an action [@next b], the name of the result of an action [@next c] and possibly many other [@next d,e].
+There are various kinds of objects that can be added to apparent intransitives as an added result. For example: a competitive entity in sports [@next a], the result of an action [@next b], the name of the result of an action [@next c] and possibly many others [@next d,e].
 
 ::: ex
 a. Er ist/hat den Marathon gelaufen.
@@ -1079,7 +1079,7 @@ These verbs are formally similar to verbs that allow for an accusative to be dro
 - Ich brüllte die Antwort.
 - Er floh ihren Blick.
 
-### [ – | A ] Weather resultative {#sec:case-accusative-addition-without-nominative}
+### [ – | A ] Weather result {#sec:case-accusative-addition-without-nominative}
 
 A few of the verbs that allow for the nominative to be absent (see [@sec:case-nominative-addition]) can have an accusative object without a nominative, although this possibility seems to be strongly limited to weather phenomena [@next a] and is often used metaphorically [@next b].
 

@@ -8,7 +8,7 @@ To reiterate the basic premise of this book: in the chapters [-@sec:case] to [-@
 
 Besides providing a basic summary, I also propose German names (sometimes based on Latinate terms) for all 120 major derived monoclausal sentence structures. Using suitable names is a central aspect of (scientific) communication. In grammar, names are like instruments that allow us to abstract away from individual details and manipulate classes of utterances that show a specific abstract structure. However, naming is hard and can also lead to miscommunication. When re-using available terminology, the terms are easily recognised and remembered, but they carry the weight of history. Even when detailed definitions are given (as I have tried to do throughout this book), unintended interpretations of previous usage inevitably seep through. In contrast, inventing new names introduces more precision, but the downside is often cumbersome terms that are difficult to remember. 
 
-In naming diatheses in this book I have tried to strike a balance between precise naming and good readability. For the English names in the detailed discussions in the coming chapters, I have decided in favour or precision. Each phenomenon is newly named with often long descriptive and unique names. In contrast, for the German names in this chapter I try to reuse available terminology as much as possible. When necessary, I propose new names that attempt to evoke a functional description like *Reziprokativ* or *Erlebnispassiv*. However, the semantic characterisation has not been the main focus of this book, so it might become necessary to rename diatheses in the future once more detailed investigations have been performed. In some cases I have not been able to find a suitable semantic characterisation. For those diatheses I have resorted to using formal characteristics in the name, always written as separate words, like *Reflexiv Erlebnispassiv* (i.e an *Erlebnispassiv* that needs a reflexive pronoun) or *Resultativ Delokativ* (i.e. a *Delokativ* that needs a resultative adjectival adverbial).
+In naming diatheses in this book I have tried to strike a balance between precise naming and good readability. For the English names in the detailed discussions in the coming chapters, I have decided in favour or precision. Each phenomenon is newly named with often long descriptive and unique names. In contrast, for the German names in this chapter I try to reuse available terminology as much as possible. When necessary, I propose new names that attempt to evoke a functional description like *Reziprokativ* or *Erlebnispassiv*. However, the semantic characterisation has not been the main focus of this book, so it might become necessary to rename diatheses in the future once more detailed investigations have been performed. In some cases I have not been able to find a suitable semantic characterisation. For those diatheses I have resorted to using formal characteristics in the name, always written as separate words, like *Reflexiv Erlebnispassiv* (i.e an *Erlebnispassiv* that needs a reflexive pronoun) or *Resultativ Delokativ* (i.e. a *Delokativ* that needs a resultative adjectival preverbial).
 
 In this chapter, the diatheses are organised in sections according to the grammatical macro-role remapping patterns as introduced in [@sec:intro-naming]. The different diatheses in each section are thus functionally highly similar, but they are structurally different. Inversely, there are various diatheses that structurally highly similar, but are nonetheless repeated in separate sections under different names. This is necessary because superficially identical diathesis can have rather different structural repercussions depending on the verb to which it is applied. This happens for examples with different instantiations of the *sein+Partizip* or the *lassen+sich+Infinitiv* constructions.
 
@@ -555,7 +555,7 @@ d. Ich erarbeite einen Plan.
 
 ### *Resultativ Applikativ* {#sec:summary-adverb-applikativ}
 
-The ~~Resultativ Applikativ~~ (full discussion in [@sec:adverbial-applicative]) is also an alternation that turns a prepositional phrase into an accusative, though in this instance the diathesis is induced by a resultative adverbial adjective, like *leer* 'empty' or *gesund* 'healthy'. When used with an intransitive verb like *fischen* 'to fish' [@next a] the prepositional phrase is turned into an accusative. The effect of this diathesis is that the new accusative *Teich* 'pond' is in the state described by the adverbial *leer* 'empty' as a result of the verbal action *fischen* 'to fish' [@next b]. This diathesis is also attested with governed prepositions, for example with the verb *beten für* 'to pray for' [@next c,d].
+The ~~Resultativ Applikativ~~ (full discussion in [@sec:adverbial-applicative]) is also an alternation that turns a prepositional phrase into an accusative, though in this instance the diathesis is induced by a resultative adjective, like *leer-* 'empty' or *gesund-* 'healthy'. When used with an intransitive verb like *fischen* 'to fish' [@next a] the prepositional phrase is turned into an accusative. The effect of this diathesis is that the new accusative *Teich* 'pond' is in the state described by the resultative preverbial *leer-* 'empty' as a result of the verbal action *fischen* 'to fish' [@next b]. This diathesis is also attested with governed prepositions, for example with the verb *beten für* 'to pray for' [@next c,d].
 
 ::: ex
 a. Ich fische im Teich.
@@ -590,7 +590,7 @@ b. Ich schneide seine Haare. \
 
 ### *Ortspertinenzdativ* {#sec:summary-ortspertinenzdativ}
 
-The ~~Ortspertinenzdativ~~ (full discussion in [@sec:prepositions-possessor-of-location-to-dative-experiencer] and subsequent sections) is closely connected to the previous *Pertinenzdativ* ([@sec:summary-pertinenzdativ]). The dative in [@next] is likewise obligatorily a possessor of another lexical role, though in this diathesis this other role is an obligatory location. For example, the verb *hängen*, 'to hang' [@next a] necessarily needs a location where the hanging is taking place. The possessor of this location can be replaced by a dative. Besides being an inherent argument of a verb, the obligatory location can also be introduced by a resultative diathesis (e.g. [@sec:summary-verursachte-bewegung]). For example, the verb *wehen* 'to blow (of wind)' can be used resultatively with an obligatory location *in mein Gesicht* 'in my face'. The possessor of this location can subsequently be turned into a dative [@next b].
+The ~~Ortspertinenzdativ~~ (full discussion in [@sec:prepositions-possessor-of-location-to-dative-experiencer] and subsequent sections) is closely connected to the previous *Pertinenzdativ* ([@sec:summary-pertinenzdativ]). The dative in [@next] is likewise obligatorily a possessor of another lexical role, though in this diathesis this other role is an obligatory location. For example, the verb *hängen*, 'to hang' [@next a] necessarily needs a location where the hanging is taking place. The possessor of this location can be replaced by a dative. The obligatory location can also be introduced by another diathesis first, e.g. by a caused-movement diathesis (see [@sec:summary-verursachte-bewegung]). For example, the verb *wehen* 'to blow (of wind)' can be used with a caused movement, forcing the object (*die Blätter* 'the leaves') into an obligatory direction (*in mein Gesicht* 'in my face'). The possessor of this location can subsequently be turned into a dative by an *Ortspertinenzdativ* diathesis [@next b].
 
 ::: ex
 a. Das Hemd hing aus seiner Hose. \
@@ -692,7 +692,7 @@ An ~~objective~~ is a diathesis in which a new object is added. For details on t
 
 ### *Ergebnisakkusativ* {#sec:summary-resultatakkusativ}
 
-The unmarked ~~Ergebnisakkusativ~~ (full discussion in [@sec:case-accusative-addition]) is highly similar to the ~~Optionaler Akkusativ~~ diathesis ([@sec:summary-optionaler-akkusativ]), but in reverse. In both diatheses, the same verb can be used with and without an accusative argument (a phenomenon sometimes called 'labile' or 'ambitransitive'). The special characteristics of the verbs in this section, like *laufen* 'to walk, to run' [@next], is that they are (a) basically intransitive and (b) the accusative represents the result of the intransitive action. The difference between such an unmarked added accusative (*Ergebnisakkusativ*, this section) and an unmarked dropped accusative (*Optionaler Akkusativ*, [@sec:summary-optionaler-akkusativ]) is arguably small, and it remains to be seen whether this separation can be backed up by further distinguishing grammatical characteristics.
+The unmarked ~~Ergebnisakkusativ~~ (full discussion in [@sec:case-accusative-addition]) is highly similar to the ~~Optionaler Akkusativ~~ diathesis ([@sec:summary-optionaler-akkusativ]), but in reverse. In both diatheses, the same verb can be used with and without an accusative argument (a phenomenon sometimes called 'labile' or 'ambitransitive'). The special characteristics of the verbs in this section, like *laufen* 'to walk, to run' [@next], is that they are (a) basically intransitive and (b) the accusative represents the added result of the intransitive action. The difference between such an unmarked added accusative (*Ergebnisakkusativ*, this section) and an unmarked dropped accusative (*Optionaler Akkusativ*, [@sec:summary-optionaler-akkusativ]) is arguably small, and it remains to be seen whether this separation can be backed up by further distinguishing grammatical characteristics.
 
 ::: ex
 a. Er läuft.
@@ -701,7 +701,7 @@ b. Er läuft den Marathon.
 
 ### *Resultativ Akkusativ* {#sec:summary-resultativ-akkusativ}
 
-The ~~Resultativ Akkusativ~~ (full discussion in [@sec:adverbial-object-addtion]) is a diathesis in which the addition of a resultativ adverb leads to an additional accusative argument. For example, the intransitive *bellen* 'to bark' [@next a] becomes a transitive *wachbellen* 'to wake by barking' [@next b] with the addition of the adverbial adjective *wach* 'awake'. Care has to be taken to distinguish this diathesis from the highly similar *Resultativ Applikativ* ([@sec:summary-adverb-applikativ]). In the current *Resultativ Akkusativ* [@next] the new accusative object (*Kinder* 'children') is not expressible without an adverbial (like *wach*) or preverb (like *an*).
+The ~~Resultativ Akkusativ~~ (full discussion in [@sec:adverbial-object-addtion]) is a diathesis in which the addition of a resultativ adjective leads to an additional accusative argument. For example, the intransitive *bellen* 'to bark' [@next a] becomes a transitive *wachbellen* 'to wake by barking' [@next b] with the addition of the resultative adjective *wach-* 'awake'. Care has to be taken to distinguish this diathesis from the highly similar *Resultativ Applikativ* ([@sec:summary-adverb-applikativ]). Crucially, in the current *Resultativ Akkusativ* [@next] the new accusative object (*Kinder* 'children') is not expressible without a resultative adjective (like *wach-*) or a preverb (like *an-*).
 
 ::: ex
 a. Der Hund bellt. 
@@ -816,7 +816,7 @@ d. ^* Ich bin getanzt.
 The ~~Reflexiv Bewegungsart~~ diathesis (full discussion in [@sec:reflexive-manner-of-movement]) is the same diathesis as the non-reflexive *Bewegungsart* diathesis in [@sec:summary-bewegungsart] but with an additional reflexive pronoun. This extra reflexive pronoun has to be added for non-movement verbs like *zittern* 'to shiver' [@next a,b]. With the reflexive pronoun there needs to be an obligatory movement phrase [@next c]. Semantically, this construction describes an movement ('making the playoffs') that is achieved (metaphorically) by performing the intransitive verb (i.e. by shivering).
 
 ::: ex
-- Das Kind zittert (vor Kälte).
+- Das Kind zittert.
 - Die Mannschaft zitterte sich in die Playoffs.
 - ^* Die Mannschaft zittert sich.
 :::
@@ -844,7 +844,7 @@ b. Er macht die Wiese zu einem Garten. \
    (= Er macht etwas, und dadurch wird die Wiese zu einem Garten.)
 :::
 
-## Delocative diatheses ~~[PBJ › Ø]~~
+## Delocative diatheses ~~[PBJ › ADJ]~~
 
 A ~~delocative diathesis~~ is a diathesis in which an obligatory locational phrase is made optional and is regularly completely removed from the clause. For details on the definition see [@sec:intro-locative-delocative], specifically starting at [@par:delocative].
 
@@ -861,7 +861,7 @@ d. Der Mann steigt aus.
 
 ### *Resultativ Delokativ* {#sec:summary-adverb-delokativ}
 
-The ~~Resultativ Delokativ~~ (full discussion in [@sec:adverbial-antiresultative] and subsequent sections) is a parallel diathesis to the previous *Präverb Delokativ* ([@sec:summary-praverb-delokativ]). Instead of adding a preverb, this diathesis adds an obligatory resultative adjectival adverb, either *los* 'loose' or *fest* 'tight'. The diathesis between *binden* 'to tie' [@next a,b] and *festbinden* 'to tie' [@next c,d] removes the obligatory status of the locative prepositional phrase.
+The ~~Resultativ Delokativ~~ (full discussion in [@sec:adverbial-antiresultative] and subsequent sections) is a parallel diathesis to the previous *Präverb Delokativ* ([@sec:summary-praverb-delokativ]). Instead of adding a preverb, this diathesis adds an obligatory resultative adjective, either *los-* 'loose', *fest-* 'tight' or *frei-* 'free'. The diathesis between *binden* 'to tie' [@next a,b] and *festbinden* 'to tie' [@next c,d] removes the obligatory status of the locative prepositional phrase.
 
 ::: ex
 a. Ich binde den Hund an die Leine.
@@ -870,13 +870,13 @@ c. Ich binde den Hund an der Leine fest.
 d. Ich binde den Hund fest.
 :::
 
-## Promoted object exchanges ~~[Ø › OBJ › PBJ,ADJ]~~
+## Promoted object exchanges ~~[Ø › OBJ › PBJ]~~
 
-An ~~promoted object exchange~~ is a diathesis in which a new object is introduced, while at the same time an existing object is demoted. For details on the definition see [@sec:intro-object-exchange]. The newly introduced object is always a component part (meronym) of the original encompassing object (holonym).
+A ~~promoted object exchange~~ is a diathesis in which a new object is introduced, while at the same time an existing object is demoted. For details on the definition see [@sec:intro-object-exchange]. The newly introduced object is always a component part (meronym) of the original encompassing object (holonym).
 
 ### *Teil/weg-Objekttausch* {#sec:summary-teil-weg}
 
-The unmarked ~~Teil/weg-Objekttausch~~ diathesis (full discussion in [@sec:prepositions-partitive-free]) is a chained diathesis. A new accusative object is introduced and the erstwhile object is demoted to an obligatory *aus* or *von* prepositional phrase. These two remappings are tightly intertwined and have to occur together. Crucially for the *Teil/weg-Objekttausch* diathesis, the new accusative object is a part of the old object (hence *Teil* in the German name). Additionally, this construction is used to express that something is removed as a result of an action (hence *weg* in the German name). An example is shown in [@next] with the verb *waschen* 'to wash'. This verb can be used with an accusative argument describing the role of the washee, here *Hose* 'trousers' [@next a]. Alternatively, a different role can be introduced as accusative, here *Fleck* 'stain' [@next b]. This new accusative role is necessarily a component part of the former accusative. In this usage, a directional location *aus meiner Hose* 'from my trousers' is obligatory present in the sentence [@next c]. This obligatory location represents the former accusative, i.e. the washee. Semantically, the new object (*Fleck*) is a part that is removed from the encompassing old object (*Hose*).
+The unmarked ~~Teil/weg-Objekttausch~~ diathesis (full discussion in [@sec:prepositions-partitive-free]) is a chained diathesis. A new accusative object is introduced and the erstwhile object is demoted to an obligatory *aus* or *von* prepositional phrase. These two remappings are tightly intertwined and have to occur together. Crucially for the *Teil/weg-Objekttausch* diathesis, the new accusative role is a part of the old role (hence *Teil* in the German name). Additionally, this construction is used to express that something is removed as a result of an action (hence *weg* in the German name). An example is shown in [@next] with the verb *waschen* 'to wash'. This verb can be used with an accusative argument describing the role of the washee, here *Hose* 'trousers' [@next a]. Alternatively, a different role can be introduced as accusative, here *Fleck* 'stain' [@next b]. This new accusative role is necessarily a component part of the former accusative. In this usage, a directional location *aus meiner Hose* 'from my trousers' is obligatory present in the sentence [@next c]. This obligatory location represents the former accusative, i.e. the washee. Semantically, the new object (*Fleck*) is a part that is removed from the encompassing old object (*Hose*).
 
 ::: ex
 a. Ich wasche meine Hose.
@@ -886,7 +886,7 @@ c. ^* Ich wasche den Fleck.
 
 ### *Teil/fest-Objekttausch* {#sec:summary-teil-fest}
 
-The *Teil/fest-Objekttausch* exists in three closely related variants. Syntactically, in all these diatheses the object is exchanged. Crucially, the old object can be retained as an *in* or *an* prepositional phrase. The new object is always a component part (meronym) of the old encompassing object (holonym) and the new object is attached to the old object.
+The *Teil/fest-Objekttausch* exists in three closely related variants, (i) as an unmarked 'covert' diathesis distussed in this section, (ii) with a preverb (next section), or (iii) with a resultative adjective (the section after that). Syntactically, in all these diatheses the object is exchanged. Crucially, the old object can be retained as an *in, an* or *auf* prepositional phrase. The new object is always a component part (meronym) of the old encompassing object (holonym) and the new object is attached to the old object.
 
 The unmarked ~~Teil/fest-Objekttausch~~ (full discussion in [@sec:prepositions-partitive-fixed]) is exemplified with *kleben* 'to glue' [@next]. This verb has two different alternants, but the direction of the alternation is not marked, viz. it is a 'covert' diathesis. The verb takes either just an accusative object (here *Vase* 'vase') that is glued together, or an accusative object that is a component part (here *Henkel* 'handle'), which is glued to the erstwhile accusative object (*Vase*).
 
@@ -898,7 +898,7 @@ The unmarked ~~Teil/fest-Objekttausch~~ (full discussion in [@sec:prepositions-p
 
 ### *Präverb Teil/fest-Objekttausch* {#sec:summary-praverb-teil-fest}
 
-The ~~Präverb Teil/fest-Objekttausch~~ (full discussion in [@sec:preverb-applicative-in-antipassive]) show the same diathesis as the previous one, but now marked with a preverb *ver-*, *be-* or *ein-*. Without a preverb, the verb *massieren* 'to massage' [@next a] has an accusative object describing the massaged entity (here *Muskel* 'muscle'). Different from the previous diathesis, the new object to be introduced by the diathesis (here *Salbe* 'ointment') can already be expressed here with an optional *mit* prepositional phrase. After the diathesis, the verb *einmassieren* 'to massage in' [@next b] has the objects exchanged, optionally retaining the old object as a *mit* prepositional phrase [@next c]. The new object is a meronym that is applied to the old holonymic object.
+The ~~Präverb Teil/fest-Objekttausch~~ (full discussion in [@sec:preverb-applicative-in-antipassive]) shows the same diathesis as the previous one, but now marked with a preverb *ver-*, *be-* or *ein-*. Without a preverb, the verb *massieren* 'to massage' [@next a] has an accusative object describing the massaged entity (here *Muskel* 'muscle'). Different from the previous diathesis, the new object to be introduced by the diathesis (here *Salbe* 'ointment') can already be expressed here with an optional *mit* prepositional phrase. The preposition thus changes from *mit* to *in/an/auf*, and this is exactly the reverse of the *Präverb Ganz/voll-Objekttausch* (see [@sec:summary-praverb-ganz-voll]). After the diathesis, the verb *einmassieren* 'to massage in' [@next b] has the objects exchanged, optionally retaining the old object as a *mit* prepositional phrase [@next c]. The new object is a meronym that is applied to the old holonymic object.
 
 ::: ex
 - Ich massiere den Muskel (mit einer Salbe). 
@@ -908,7 +908,7 @@ The ~~Präverb Teil/fest-Objekttausch~~ (full discussion in [@sec:preverb-applic
 
 ### *Resultativ Teil/fest-Objekttausch* {#sec:summary-resultativ-teil-fest}
 
-The ~~Resultativ Teil/fest Objekttausch~~ (full discussion in [@sec:adverbial-fest]) is a parallel diathesis to the previously discussed diatheses, but marked with the addition of a resultative adverbial adjective *fest-*. For example, the accusative object *Bluse* 'blouse' of the verb *nähen* 'to sew' [@next a] is replaced with with another accusative object *Knopf* 'button' with the verb *festnähen* 'to tie by sewing' [@next b]. The original object is retained in an optional *an* prepositional phrase [@next c]. Before the diathesis the accusative object describes a whole (*Bluse* 'blouse'), while after the diathesis the accusatives expresses a component part (*Knopf* 'button') that is attached to the whole.
+The ~~Resultativ Teil/fest Objekttausch~~ (full discussion in [@sec:adverbial-fest]) is a parallel diathesis to the previously discussed diatheses, but marked with the addition of a resultative adjective *fest-*. For example, the accusative object *Bluse* 'blouse' of the verb *nähen* 'to sew' [@next a] is replaced with with another accusative object *Knopf* 'button' with the verb *festnähen* 'to tie by sewing' [@next b]. The original object is retained in an optional *an* prepositional phrase [@next c]. Before the diathesis the accusative object describes a whole (*Bluse* 'blouse'), while after the diathesis the accusatives expresses a component part (*Knopf* 'button') that is attached to the whole.
 
 ::: ex
 - Ich nähe eine Bluse.
@@ -916,13 +916,13 @@ The ~~Resultativ Teil/fest Objekttausch~~ (full discussion in [@sec:adverbial-fe
 - Ich nähe den Knopf fest.
 :::
 
-## Demoted object exchanges ~~[PBJ › OBJ › ADJ,Ø]~~
+## Demoted object exchanges ~~[PBJ › OBJ › Ø]~~
 
 A ~~demoted object exchange~~ is a diathesis in which an obligatory location phrase is promoted to object, while at the same time an existing object is demoted or even removed. For details on the definition see [@sec:intro-object-exchange]. The new object is always an encompassing entity (holonym) of which the old object is a component part (meronym).
 
-### *Präverb Ganz/leer-Objekttausch* {#sec:summary-ganz-leer}
+### *Präverb Ganz/leer-Objekttausch* {#sec:summary-praverb-ganz-leer}
 
-The *Ganz/leer-Objekttausch* exists in two closely related variants. Syntactically, in both variants the object is exchanged and, crucially, the original object cannot be retained after the diathesis. The prepositional phrase before the diathesis takes the prepositions *aus* or *von*. Semantically, the old object is a part of the new object and is removed from it.
+The *Ganz/leer-Objekttausch* exists in two closely related variants, with a preverb (this section) or with a resultative adjective (next section). Syntactically, in both variants the object is exchanged and, crucially, the original object cannot be retained after the diathesis. The prepositional phrase before the diathesis takes the prepositions *aus* or *von*. Semantically, the old object is a part of the new object and is removed from it.
 
 The ~~Präverb Ganz/leer-Objekttausch~~ (full discussion in [@sec:preverb-location-antiresultative]) is marked by a various different preverbs (typically, but not exclusively, *aus-* or *ab-*). For example, the verb *klopfen* 'to pound' [@next a] can take an accusative result, here *Staub* 'dust', and then the verb also needs an obligatory location from which the result originates, here *von meinem Mantel* 'from my coat' [@next b]. With a preverb *aus-*, the verb *ausklopfen* 'to pound thoroughly' [@next c] completely drops the accusative *Staub* and the prepositional object *Mantel* is turned into a new accusative role. Semantically, the old accusative object *Staub* is a component part (meronym) of the new accusative *Mantel* (holonym). Additionally, the old accusative *Staub* is removed from the new accusative *Mantel*. The new accusative is thus a holonym (hence the word *Ganz* in the German name) that is emptied (hence the word *leer* in the German name).
 
@@ -942,11 +942,11 @@ b. ^* Ich pumpe das Wasser.
 b. Ich pumpe den Keller leer.
 :::
 
-### *Präverb Ganz/voll-Objekttausch* {#sec:summary-ganz-voll}
+### *Präverb Ganz/voll-Objekttausch* {#sec:summary-praverb-ganz-voll}
 
-The *Ganz/voll-Objekttausch* exists in two closely related variants. Syntactically, in both variants the object is exchanged. Different from the previous diatheses (see [@sec:summary-ganz-leer]), the old object can be retained as an optional *mit* prepositional phrase. The prepositional phrase before the diathesis takes the prepositions *in, an, aus* or *um*. Semantically, the new object is a holonym filled with the meronymic old object.
+The *Ganz/voll-Objekttausch* exists in two closely related variants, with a preverb (this section) or with a resultative adjective (next section). Syntactically, in both variants the object is exchanged. Different from the previous diatheses (see [@sec:summary-praverb-ganz-leer]), the old object can be retained as an optional *mit* prepositional phrase. The prepositional phrase before the diathesis takes the prepositions *in, an* or *aus*. Semantically, the new object is a holonym filled with the meronymic old object.
 
-The ~~Präverb Ganz/voll-Objekttausch~~ (full discussion in [@sec:preverb-applicative-antipassive]) is marked by various different preverbs. Almost all preverbs occur, though *be-* and *ver-* are particularly frequent. For example, *laden* 'to load' [@next a,b] takes an accusative object that is loaded (here *Gepäck* 'luggage') and an obligatory location where it is loaded (here *in den Wagen* 'into the car'). The diathesis to *beladen* 'to load onto' turns the locational object (*Wagen*) into a new accusative, while the old accusative (*Gepäck*) is turned into an optional *mit* prepositional phrase [@next c,d]. Semantically, the new object (*Wagen*) is the holonym and is filled with the old object (*Gepäck*). 
+The ~~Präverb Ganz/voll-Objekttausch~~ (full discussion in [@sec:preverb-applicative-antipassive]) is marked by various different preverbs. Almost all preverbs occur, though *be-* and *ver-* are particularly frequent. For example, *laden* 'to load' [@next a,b] takes an accusative object that is loaded (here *Gepäck* 'luggage') and an obligatory location where it is loaded to (here *in den Wagen* 'into the car'). The diathesis to *beladen* 'to load onto/into' turns the locational object (*Wagen*) into a new accusative, while the old accusative (*Gepäck*) is turned into an optional *mit* prepositional phrase [@next c,d]. Note that the prepositional change from *in/an/aus* to *mit* is exactly the reverse of the *Präverb Teil/fest-Objekttausch* (see [@sec:summary-praverb-teil-fest]). Semantically, the new object (*Wagen*) is the holonym and is filled with the old object (*Gepäck*). 
 
 ::: ex
 - Ich lade das Gepäck in den Wagen.

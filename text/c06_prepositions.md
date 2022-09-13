@@ -15,7 +15,7 @@ c. Er füllt Schnaps in die Flasche. \
    Er füllt die Flasche mit Schnaps. 
 :::
 
-There are also various alternations that necessarily involve obligatory local prepositional phrases, like causatives [@next a], see [@sec:prepositions-haben-caused-location], resultatives [@next b], see [@sec:prepositions-intransitive-location-as-result], and raised possessors [@next c] see [@sec:prepositions-possessor-of-location-to-dative-experiencer].
+There are also various diatheses that introduce obligatory local prepositional phrases, like causatives [@next a], see [@sec:prepositions-haben-caused-location], caused-motion objectives [@next b], see [@sec:prepositions-intransitive-location-as-result], and raised possessors [@next c] see [@sec:prepositions-possessor-of-location-to-dative-experiencer].
 
 ::: ex
 a. Der Pullover hängt im Schrank. \
@@ -1847,7 +1847,7 @@ f. Er klopft mir den Schnee von den (meinen) Schuhen.
 f. Er klopft sich den Schnee von den Schuhen.
 :::
 
-This construction is closely related constructions with resultative adjectival adverbials like *leer* 'empty' in [@next], see also [@sec:adverbial-object-addtion].
+This construction is closely related constructions with resultative preverbial like *leer-* 'empty' in [@next], see also [@sec:adverbial-object-addtion].
 
 ::: ex
 Er klopft den Aschenbecher leer.
@@ -1893,13 +1893,13 @@ c. Der Student im vierten Stock schläft mal wieder ein Loch in den Tag.^[Attest
 
 ### [ NA– | NAL ] Transitive caused motion {#sec:prepositions-transitive-location-as-result}
 
-Similar to intransitive caused movement (see [@sec:prepositions-intransitive-location-as-result]), some transitive verbs like *befehlen* 'to order' [@next a] alternate with a caused motion construction [@next b,c]. Note that there also exists a slightly different construction (without diathesis) with a dative after the preposition *an* [@next d]. In this example the prepositional phrase simply expresses the location in which the action is taking place, or, alternatively it is an adnominal phrase. In both these interpretations there is no valency alternation. 
+Similar to intransitive caused movement (see [@sec:prepositions-intransitive-location-as-result]), some transitive verbs like *befehlen* 'to order' [@next a] alternate with a caused motion construction [@next b]. Note that there also exists a slightly different construction (without diathesis) with a dative after the preposition *an* [@next c]. In this example the prepositional phrase simply expresses the location in which the action is taking place, or, alternatively it is an adnominal phrase. In both these interpretations there is no valency alternation. 
 
 ::: ex
 a. Ich befehle eine Armee.
-b. Ich befehle die Armee an die Front.
-c. Ich befehle, und das Resultat ist: die Armee ist an der Front.
-d. Ich befehle die Armee an der Front. \
+b. Ich befehle die Armee an die Front. \
+   (= Ich befehle, und das Resultat ist: die Armee ist an der Front.)
+c. Ich befehle die Armee an der Front. \
    (= Ich befehle die Armee, während ich an der Front bin.) \
    (= Ich befehle die Armee, die an der Front ist.)
 :::
@@ -1929,7 +1929,7 @@ d. Ich befehle die Armee an der Front. \
 
 ### [ NA– | NAP ] Performative result {#sec:prepositions-performative-result}
 
-A slightly different variant of a resultative constructions is found with various performative verbs that take a regular accusative, like *machen* 'to make/create' [@next a]. As an alternative structure, these verbs also allow for a construction with an accusative and a prepositional phrase [@next b]. Note that the prepositional phrase cannot be left out in these constructions. The meaning of such constructions is parallel to the previous resultatives in that the performative verb causes the result. Such constructions were named quite aptly "Ergänzende Wirkung" all the way back in the influential educational grammatical work of Karl Ferdinand Becker [-@becker1833: 81] almost 200 years ago.
+A slightly different variant of a diathesis describing a result is attested with various performative verbs that take a regular accusative, like *machen* 'to make/create' [@next a]. As an alternative structure, these verbs also allow for a construction with an accusative and a prepositional phrase [@next b]. Note that the prepositional phrase cannot be left out in these constructions. The meaning of such constructions is parallel to the previous diathesis in that the performative verb causes the result. Such constructions were named quite aptly "Ergänzende Wirkung" all the way back in the influential educational grammatical work of Karl Ferdinand Becker [-@becker1833: 81] almost 200 years ago.
 
 ::: ex
 a. Er macht die Aufgaben. 
@@ -2030,7 +2030,7 @@ Similar to the previous diathesis, but somewhat less common, some verbs allow fo
 - Er näht einen Knopf an seine Hose.
 :::
 
-This diathesis is closely related to a similar preverbal diathesis (see [@sec:preverb-applicative-in-antipassive]) and the resultative *fest-* diathesis (see [@sec:adverbial-fest]), exemplified here with *kitten* 'to cement' [@next].
+This diathesis is closely related to a similar diathesis with preverbs (see [@sec:preverb-applicative-in-antipassive]) and to the diathesis with the resultative preverbial *fest-* (see [@sec:adverbial-fest]), exemplified here with the verb *kitten* 'to cement' [@next].
 
 ::: ex
 - Ich kitte die zerbrochene Tasse.
@@ -2169,7 +2169,7 @@ b. Der Hund hat in sein Bein gebissen. \
 
 ### [ NALg | NALD ] Possessor-of-location to dative experiencer+accusative {#sec:prepositions-possessor-of-location-to-dative-experiencer-accusative}
 
-Similar to the previous alternation, the verbs in this group also alternate the possessor of the prepositional phrase with a dative. However, differently from the previous group, these verbs also have an accusative argument. These verbs are either causative alternants of the verbs from the previous group or verbs that allow for a resultative alternation (see [@sec:prepositions-intransitive-location-as-result]).
+Similar to the previous alternation, the verbs in this group also alternate the possessor of the prepositional phrase with a dative. However, differently from the previous group, these verbs also have an accusative argument. These verbs are either causative alternants of the verbs from the previous group or verbs that already have had a caused-motion diathesis (see [@sec:prepositions-intransitive-location-as-result]).
 
 ::: ex
 a. Ich lege den Brief auf deinen Schreibtisch.
