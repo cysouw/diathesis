@@ -130,7 +130,7 @@ b. Er hat (den Tanz) getanzt. \
    Besonders der im Biedermeierkostüm *getanzte Aschenbrödeltanz* mit Vertonung von Zepler ergab wirkungsvolle Bilder.^[~~DWDS~~: Berliner Tageblatt (Abend-Ausgabe), 12.03.1918.]
 :::
 
-An even more intricate detail occurs with some movement verbs like *laufen* 'to walk' (cf. [@sec:prepositions-manner-of-movement]). When used with a directional phrase like *nach Hause* 'home' this verb takes the auxiliary *sein* [@next a] and then the participle together with the directional phrase can be used adnominally [@next b]. In contrast, the auxiliary *haben* seems incompatible with a directional phrase [@next c] and the participle without the directional phrase cannot be used adnominally [@next d].
+An even more intricate detail occurs with some movement verbs like *laufen* 'to walk' that allow for a manner-of-movement diathesis (cf. [@sec:prepositions-manner-of-movement]). When used with a directional phrase like *nach Hause* 'home' this verb takes the auxiliary *sein* [@next a] and then the participle together with the directional phrase can be used adnominally [@next b]. In contrast, the auxiliary *haben* seems incompatible with a directional phrase [@next c] and the participle without the directional phrase cannot be used adnominally [@next d].
 
 ::: ex
 a. Der Schüler ist nach Hause gelaufen.
@@ -509,6 +509,8 @@ Most participles are regularly derived from verb stems that allow for finite ver
 - Some participles are derived from nouns, and the corresponding finite verb does not exist (see [@sec:participles-nouns]).
 - Some participles might seem to be regular participles of verbs with a preveb, but the corresponding verb with preverb does not exist as a finite verb – only the verb without the preverb exists (see [@sec:participles-preverbs]).
 
+=> *Scheinpartizipien* [@haig2005]
+
 ### Idiomatic meaning of participles {#sec:participles-idiomatic-meaning}
 
 Some participles have obtained a specialised idiomatic meaning, different from the finite use of the verb. For example *verwenden* 'to plead for' with participle *verwandt* [@next a] has given rise to a completely separate participle *verwandt* 'to be related' [@next b]. Note that there is also a separate verb *verwenden* meaning 'to utilise' with a different participle *verwendet*.
@@ -708,8 +710,8 @@ There is a strong semantic tendency for the intransitives with *sein* to be more
 **Attested Verbs**
 
 - monomorphemic: *bersten, beuteln, bleiben, dorren, fallen, fliehen, fließen, flüchten, gehen, gleiten, kentern, kommen, krepieren, platzen, prallen, quellen, reifen, schlüpfen, scheitern, schreiten, schrumpfen, sein, sinken, sprießen, steigen, sterben, stolpern, strömen, traben, wachsen, weichen, werden*
-- with fixed prefix: *degenerieren, detonieren, gedeihen, gelangen, genesen, geschehen, explodieren*
-- with preverb: *abbiegen, abhauen (weglaufen), abmagern, abreisen, absaufen, absteigen, abstürzen, anbrennen, ankommen, anschwellen, ansteigen, auffallen, aufstehen, aufsteigen, auftreten, aufwachen, aufwachsen, ausbleiben, ausbrechen, ausfallen, ausgehen, auslaufen, aussteigen, auswandern, ausweichen, ausziehen (wohnen), beitreten, ˈdurchlaufen, ˈdurchsickern, ˈdurchfallen, ˈdurchgehen, eindringen, einfließen, einfrieren, einkehren, einreisen, einrosten, einschlafen, einsteigen, einstürzen, eintauchen, eintreffen, eintreten, emigrieren, entbrennen, entfliehen, entkommen, entstehen, erfrieren, erkranken, erlöschen, ermüden, erschallen, erscheinen, ertrinken, fehlschlagen, herumgehen, hinfallen, mitgehen, mitkommen, nachkommen, stehenbleiben, ˈumfallen, ˈumsiedeln, ˈumziehen, ˈuntergehen, ˈuntertauchen, ˈüberkochen, verbleiben, verblühen, verbluten, verdampfen, verfaulen, verfallen, verhungern, verreisen, verrosten, verrutschen, verschimmeln, verschwinden, versinken, versterben, vertrocknen, verwelken, vorgehen, vorkommen, wegfallen, weggehen, weglaufen, wegrennen, zerfallen, zerrinnen, zufrieren, zuwachsen, zurückbleiben, zurückfahren, zurückgehen, zurückkommen, zurücklaufen, zurückrennen*
+- with fixed prefix: *degenerieren, detonieren, emigrieren, gedeihen, gelangen, genesen, geschehen, explodieren*
+- with preverb: *abbiegen, abhauen (weglaufen), abmagern, abreisen, absaufen, absteigen, abstürzen, anbrennen, ankommen, anschwellen, ansteigen, auffallen, aufstehen, aufsteigen, auftreten, aufwachen, aufwachsen, ausbleiben, ausbrechen, ausfallen, ausgehen, auslaufen, aussteigen, auswandern, ausweichen, ausziehen (wohnen), beitreten, ˈdurchlaufen, ˈdurchsickern, ˈdurchfallen, ˈdurchgehen, eindringen, einfließen, einfrieren, einkehren, einreisen, einrosten, einschlafen, einsteigen, einstürzen, eintauchen, eintreffen, eintreten, entbrennen, entfliehen, entkommen, entstehen, erfrieren, erkranken, erlöschen, ermüden, erschallen, erscheinen, ertrinken, fehlschlagen, herumgehen, hinfallen, mitgehen, mitkommen, nachkommen, stehenbleiben, ˈumfallen, ˈumsiedeln, ˈumziehen, ˈuntergehen, ˈuntertauchen, ˈüberkochen, verbleiben, verblühen, verbluten, verdampfen, verfaulen, verfallen, verhungern, verreisen, verrosten, verrutschen, verschimmeln, verschwinden, versinken, versterben, vertrocknen, verwelken, vorgehen, vorkommen, wegfallen, weggehen, weglaufen, wegrennen, zerfallen, zerrinnen, zufrieren, zuwachsen, zurückbleiben, zurückfahren, zurückgehen, zurückkommen, zurücklaufen, zurückrennen*
 
 **Further Examples**
 
@@ -1045,8 +1047,8 @@ Movement verbs with the preverbs *ˈab-* (in the meaning 'along') and *ˈdurch-*
 
 - Preverb *ˈab-*    : *abfahren, abkriechen, ablaufen, abschreiten*
 - Preverb *ˈdurch-* : *durchfahren, durchgehen, durchkriechen*
-- Stem *-gehen*  : *angehen, durchgehen, eingehen, hinabgehen, hinaufgehen, hochgehen*
-- Others    : *loswerden*
+- Stem *-gehen*     : *angehen, durchgehen, eingehen, heruntergehen, hinabgehen, hinaufgehen, hochgehen*
+- Others            : *loswerden*
 
  **Further Examples**
 
@@ -1055,6 +1057,7 @@ Movement verbs with the preverbs *ˈab-* (in the meaning 'along') and *ˈdurch-*
 - Ich bin die Piste abgefahren.
 - Ich bin den Weg abgelaufen.
 - Ich bin die Treppe hinaufgegangen.
+- Ich hob meinen schicken Flieger hoch und ging den langen Hang singend herunter.^[~~DWDS~~: Berliner Zeitung, 28.07.2001.]
 
 **Notes**
 

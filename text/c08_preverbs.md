@@ -15,18 +15,20 @@ The central generalisation that can be extracted from the numerous examples in t
 
 As is customary in German grammar, I will restrict the class of verb particles to morphemes that are related to prepositions. There are very many other morphemes that behave syntactically rather similar to preverbs, but which are related to adverbials/adjectives. These adverbial/adjectival preverbs are much more limited in the kind of diatheses that they induce, so I have decided to discuss them separately in the next chapter under the heading of adverbial alternations.
 
-There are 11 diatheses that are sufficiently prominent to be given a German name. I propose the following names for these:
+There are thirteen diatheses that are sufficiently prominent to be given a German name. I propose the following names for these:
 
 - ~~[Ø › SBJ › OBJ] Präverb Kausativ~~ (see [@sec:preverb-causative] ff.)
 - ~~[Ø › OBJ] Präverb Akkusativ~~ (see [@sec:preverb-accusative-addition] ff.)
 - ~~[Ø › OBJ] Präverb Reflexiv Akkusativ~~ (see [@sec:preverb-reflexive-resultative] ff.)
 - ~~[Ø › OBJ] Präverb Dativ~~ (see [@sec:preverb-dative-addition] ff.)
-- ~~[ADJ › OBJ] Präverb Akkusativ Applikativ~~ (see [@sec:preverb-applicative])
+- ~~[ADJ › OBJ] Präverb Applikativ~~ (see [@sec:preverb-applicative])
 - ~~[ADJ › OBJ] Präverb Dativ Applikativ~~ (see [@sec:preverb-dative-applicative])
-- ~~[ADJ › OBJ › ADJ] Präverb Vollapplikativ~~ (see [@sec:preverb-applicative-antipassive])
+- ~~[ADJ › OBJ › ADJ] Präverb Teil/fest-Objekttausch~~ (see [@sec:preverb-applicative-in-antipassive])
+- ~~[PBJ › OBJ › ADJ] Präverb Ganz/voll-Objekttausch~~ (see [@sec:preverb-applicative-antipassive])
+- ~~[PBJ › OBJ › Ø] Präverb Ganz/leer-Objekttausch~~ (see [@sec:preverb-location-antiresultative])
 - ~~[PBJ › Ø] Präverb Delokativ~~ (see [@sec:preverb-intransitive-antiresultative] ff.)
-- ~~[PBJ › OBJ › Ø] Präverb Ganzobjektiv~~ (see [@sec:preverb-location-antiresultative] ff.)
 - ~~[OBJ › Ø] Präverb Endoreflexiv~~ (see [@sec:preverb-reflexive-accusative-drop])
+- ~~[OBJ › ADJ] Präverb Reflexiv Antipassiv~~ (see [@sec:preverb-reflexive-antipassive])
 - ~~[OBJ › ADJ] Präverb Dativ Antipassiv~~ (see [@sec:preverb-dative-antipassive])
 
 ## Characterising preverbs
@@ -246,7 +248,7 @@ b. Das Schiff versinkt im Meer.
 
 ### [ N | N ] Preverb intransitives without diathesis {#sec:preverb-intranstive-without-diathesis}
 
-It is rather unusual for the preverbal version of intransitive verbs to not show any valency change [@next a,b], not even a difference between the usage of the attributive participles [@next c,d]. It seems to be slightly more common for only the preverbal participle to be open for attributive usage (see [@sec:preverb-intransitive-with-unaccusative]).
+It is rather unusual for the preverbal version of intransitive verbs to not show any valency change [@next a,b], not even a difference between the usage of the attributive participles [@next c,d]. It seems to be slightly more common for the preverb-marked participle to be open for attributive usage (see [@sec:preverb-intransitive-with-unaccusative]).
 
 ::: ex
 a. Die Milch kocht.
@@ -401,7 +403,7 @@ Note that there is a fascinating phenomenon going on here that is in need of mor
 
 - verˈ- : *blühen, bluten, faulen, dampfen, rosten, schimmeln*
 - ˈein- : *rosten, schlafen*
-- ˈab-  : *reisen*
+- ˈab-  : *bröckeln, faulen, reisen, rosten*
 - ˈmit-  : *fahren, fliegen, gehen, kommen, laufen, segeln*
 
 **Notes**
@@ -526,7 +528,7 @@ b. Ich sehe dich an.
 
 **Notes**
 
-The verb *anüben* appears to be old-fashioned [@next a], though more recent examples can be found [@next b]. It has an entry in the DWB, explaining "seit anfang des 19. jhs. gebräuchlich i.s.v. ‘sich etwas durch ständiges üben (mit mühe) aneignen, antrainieren’."^[Attested online at https://www.dwds.de/wb/dwb2/anüben, accessed 5 August 2022.]
+The verb *anüben* appears to be old-fashioned [@next a], though more recent examples can be found [@next b]. It has an entry in the DWB, explaining "seit Anfang des 19. Jhs. gebräuchlich i.s.v. ‘sich etwas durch ständiges üben (mit mühe) aneignen, antrainieren’."^[Attested online at https://www.dwds.de/wb/dwb2/anüben, accessed 5 August 2022.]
 
 ::: ex
 - Ein derartiges Schauen müssten wir uns nun anüben.^[~~DWDS~~: Chamberlain, Houston Stewart: Die Grundlagen des Neunzehnten Jahrhunderts. Bd. 1. München 1899.]
@@ -953,9 +955,9 @@ b. Mein Vater enterbt mich.
 
 ## Diatheses with object demotion
 
-### --- [ OBJ > Ø ] --- {.unnumbered}
+### --- [ OBJ > Ø ] --- *Präverb Endoreflexiv* {.unnumbered}
 
-### [ NA | N– ] Preverb accusative drop+reflexive (*Präverb Endoreflexiv*) {#sec:preverb-reflexive-accusative-drop}
+### [ NA | N– ] Preverb accusative drop+reflexive {#sec:preverb-reflexive-accusative-drop}
 
 Some preverbs induce the loss of an accusative with a coincidental obligatory reflexive pronoun, like the diathesis between *wählen* 'to choose' and *sich verwählen* 'to misdial' [@next]. The examples of this diathesis mostly appear to relate to using your body in a certain way, which is reminiscent of the endoreflexive diathesis (see [@sec:reflexive-accusative-drop]). Because of the similarities between the two, I propose to call this diathesis the *Präverb Endoreflexiv*.
 
@@ -990,6 +992,8 @@ The examples with the prefix *ver-* quite productively result in verbs that desc
   Ich überesse mich.
 - Ich spiele die Sonate (auf der Geige). \
   Ich habe mich verspielt.
+
+### --- [ OBJ > Ø ] --- {.unnumbered}
 
 ### [ NA | N– ] Preverb accusative drop {#sec:preverb-accusative-drop}
 
@@ -1029,7 +1033,7 @@ There is quite some uncertainty among German speakers as to the case of the refl
 
 - beˈ- : *helfen*
 
-### --- [ OBJ > ADJ ] --- {.unnumbered}
+### --- [ OBJ > ADJ ] --- *Präverb Reflexiv Antipassiv* {.unnumbered}
 
 ### [ NA | Np ] Preverb antipassive+reflexive {#sec:preverb-reflexive-antipassive}
 
@@ -1130,7 +1134,7 @@ c. Ich verschenke das Buch an dich.
 
 **Attested Verbs**
 
-- beˈ- : *liefern, lohnen, schenken, singen*
+- beˈ- : *kochen, liefern, lohnen, schenken, singen*
 
 **Further Examples**
 
@@ -1140,6 +1144,8 @@ c. Ich verschenke das Buch an dich.
   Ich beliefere den Bäcker mit dem Mehl.
 - Ich singe dir ein Lied. \
   Ich besinge dich in einem Lied.
+- Ich koche dir eine Suppe. \
+  Ich bekoche dich (mit einer Suppe).
 
 ### --- [ PBJ > Ø ] --- *Präverb Delokativ* {.unnumbered}
 
@@ -1254,13 +1260,13 @@ d. Der Wind verweht die Blätter.
 
 **Attested Verbs**
 
-- verˈ-   : *drängen, jagen, stecken, gießen, schütten, treiben, rücken, schieben, scheuchen, sprühen, stoßen, streichen, wehen*
+- verˈ-   : *drängen, gießen, jagen, legen, rücken, scheuchen, schütten, schieben, sprühen, stecken, stoßen, streichen, treiben, wehen*
 - zerˈ-   : *hacken, reißen, sägen, schneiden, teilen*
 - ˈdurch- : *bringen, setzen*
 - ˈum-    : *setzen*
 - ˈunter- : *binden*
-- ˈab-    : *hängen, legen, reißen*
-- ˈein-   : *schenken, stecken*
+- ˈab-    : *hängen, legen, pumpen, reißen, schlagen, streichen, trennen, waschen, werfen*
+- ˈein-   : *packen, räumen, schenken, stecken*
 - ˈaus-   : *graben, pusten, reißen, spucken, ziehen*
 - ˈzu-    : *stellen*
 - ˈauf-   : *setzen*
@@ -1270,6 +1276,8 @@ d. Der Wind verweht die Blätter.
 
 - Ich treibe die Mücken aus dem Haus. \
   Ich vertreibe die Mücken.
+- Ich lege meine Brille auf den Tisch. \
+  Ich verlegen meine Brille.
 - Ich reiße die Blätter von dem Strauch. \
   Ich reiße die Blätter ab.
 - Er hängt die Wäsche an die Leine. \
@@ -1312,6 +1320,12 @@ d. Der Wind verweht die Blätter.
   Ich grabe den Schatz aus.
 - Der Kommissar schüttelte den Kopf und schenkte Tee in drei Becher.^[~~DWDS~~: Die Zeit, 30.12.2014, Nr. 01.]
   Der Kommissar schenkte Tee ein.
+- Ich packe den Pullover in meinen Koffer. \
+  Ich packe den Pullover (in Papier) ein.
+- Ich räume meine Sachen in die neue Wohnung. \
+  Ich räume die Sachen (in den Schrank) ein.
+- Ich wasche den Schmutz von den Händen. \
+  Ich wasche den (von den Händen) ab.
 
 **Notes**
 
@@ -1322,61 +1336,251 @@ The verb *schenken* 'to pour' used to be common in a context of pouring a drink 
 - Sie schenkten Wein ein.
 :::
 
-### --- [ PBJ > OBJ > Ø ] --- *Präverb Ganzobjektiv* {.unnumbered}
+### --- [ PBJ > OBJ > Ø ] --- *Präverb Ganz/leer-Objekttausch* {.unnumbered}
 
 ### [ NLA | NA– ] Preverb applicative+accusative drop {#sec:preverb-location-antiresultative}
 
-This diathesis is the reversal of the ~~part object exchange~~ diathesis (see [@sec:prepositions-action-result]). The result of a verb like *pressen* 'to squeeze' is *Saft* 'juice' [@next a]. With a preverb, the verb *auspressen* 'to squeeze' drops this accusative result and promotes the container of the result *Zitrone* 'citron' to accusative [@next b].
+This diathesis is the reversal of the unmarked ~~Partitive separated object~~ diathesis (see [@sec:prepositions-partitive-free]). The result of a verb like *pressen* 'to squeeze' is *Saft* 'juice' [@next a]. This verb has an obligatory local phrase for the container of the juice, *aus der Zitrone* 'from the citron' [@next b], either using the preposition *aus* or *von*. With a preverb, the verb *auspressen* 'to squeeze' drops this accusative result and promotes the container of the result *Zitrone* to accusative [@next c].
 
 ::: ex
 a. Ich presse den Saft aus der Zitrone.
+b. ^* Ich presse den Saft.
 b. Ich presse die Zitrone aus.
+:::
+
+Most examples have an obligatory local phrase before the diathesis, but a few verbs allow for this phrase to be dropped, like *rauben* 'to rob' [@next]. Other examples of this slightly different diathesis with an optional location are *erben, trinken* and *stehlen*.
+
+::: ex
+- Ich raube das Gemälde (aus der Wohnung).
+- Ich raube die Wohnung aus.
 :::
 
 Lipka [-@lipka1972: 93, 173] calls this diathesis *Objektvertauschung* and McIntyre [-@mcintyre2001: 275-277] 'landmark flexibility'. For historical context on this diathesis, see Carlberg [-@carlberg1948] and Hundsnurscher [-@hundsnurscher1968: 127]. Lipka opposes this diathesis to *Subjektvertauschung*, which is discussed in [@sec:preverb-preposition-anticausative].
 
 **Attested Verbs**
 
-- beˈ-   : *erben, rauben, stehlen*
-- verˈ-  : *legen, stellen*
-- zerˈ-  : *beißen, drücken, fressen, kauen*
-- überˈ- : *schwemmen*
-- ˈaus-  : *klopfen, lecken, packen, pressen, pumpen, rauben, schütten, trinken*
-- ˈan-   : *fahren, werfen*
-- ˈab-   : *bürsten, ziehen*
-- ˈauf-  : *gießen*
-- ˈein-  : *packen, räumen*
+- beˈ-  : *erben, rauben, stehlen*
+- ˈaus- : *klopfen, lecken, packen, pressen, pumpen, quetschen, räumen, rauben, schütten, trinken*
+- ˈab-  : *bürsten, schrubben, stauben, tragen, tupfen, waschen, wischen, ziehen*
 
 **Further Examples**
 
-- Ich erbe die Uhr von meinem Vater. \
-  Ich beerbe meinen Vater.
 - Ich klopfe den Staub von dem Mantel. \
   Ich klopfe den Mantel aus.
-- Ich packe den Pullover in meinen Koffer. \
-  Ich packe meinen Koffer aus/ein.
-- Ich pumpe das Wasser aus dem Keller. \
-  Ich pumpe den Keller aus.
-- Ich trinke Wasser aus meiner Tasse. \
-  Ich trinke meine Tasse aus.
-- Ich raube das Gemälde aus der Wohnung. \
-  Ich raube die Wohnung aus.
-- Die Motten fressen ein Loch in den Pullover. \
-  Die Motten zerfressen den Pullover.
-- Die Welle hat das Holz an Land geschwemmt. \
-  Die Welle hat das Land überschwemmt.
-- Ich schütte das Wasser aus dem Eimer. \
-  Ich schütte den Eimer aus.
-- Ich werfe Kohle auf den Grill. \
-  Ich werfe den Grill an.
 - Ich bürste den Staub von dem Rock. \
   Ich bürste den Rock ab.
-- Ich gieße Wasser auf den Tee. \
-  Ich gieße den Tee auf.
-- Ich räume meine Sachen in die neue Wohnung. \
-  Ich räume die neue Wohnung ein.
 - Ich ziehe das Laken von dem Bett. \
   Ich ziehe das Bett ab.
+- Ich wasche den Schmutz von dem Geschirr. \
+  Ich wasche das Geschirr ab.
+- Ich trage die Dachziegel von dem Dach. \
+  Ich trage das Dach ab.
+- Ich schrubbe den Schmutz von meiner Hand.
+  Ich schrubbe meine Hand ab.
+- Ich pumpe das Wasser aus dem Keller. \
+  Ich pumpe den Keller aus.
+- Ich schütte das Wasser aus dem Eimer. \
+  Ich schütte den Eimer aus.
+- Ich erbe die Uhr (von meinem Vater). \
+  Ich beerbe meinen Vater.
+- Ich trinke Wasser (aus meiner Tasse). \
+  Ich trinke meine Tasse aus.
+- Ich tupfe das Blut von der Wunde. \
+  Ich tupfe die Wunde ab.
+- Mit seinem Taschentuch staubte er von seinen Ärmeln die Spinnengewebe^[~~DWDS~~: H. Mann9,42.] \
+  Er staubt seine Ärmel ab.
+
+### --- [ PBJ > OBJ > ADJ ] --- *Präverb Ganz/voll-Objekttausch* {.unnumbered}
+
+### [ NLA | NAp ] Preverb applicative+*mit* antipassive {#sec:preverb-applicative-antipassive}
+
+This diathesis is a combination of an applicative promotion and an antipassive demotion. Such an object exchange is a very widespread diathesis, exemplified here with *drücken* 'to press' [@next a]. This verb needs both an accusative object (here *Finger* 'finger') and an obligatory location (here *auf die Wunde* 'on the wound'). This location cannot be left out [@next b]. With the preverb *zu-* the verb *zudrücken* 'to press shut' [@next c] promotes the locational object to accusative object (*Wunde*) and demotes the original object to an optional prepositional phrase (*Finger*).
+
+::: ex
+- Ich habe meinen Finger auf die Wunde gedrückt.
+- ^* Ich habe meinen Finger gedrückt.
+- Ich habe die Wunde mit meinem Finger zugedrückt.
+- Ich habe die Wunde zugedrückt.
+:::
+
+The antipassive demotion in this section always takes the preposition *mit*. There is more variation in the prepositions that take part in the applicative promotion part of the diathesis, e.g. *auf* in [@last]. The prepositions *an, auf, in* or *um* are attested. All examples of this diathesis will be surveyed in the following subsections according to this applicative preposition.
+
+#### *an/mit* Preverb object exchange
+
+::: ex
+- Ich hänge die Bilder an die Wand.
+- ^* Ich hänge die Bilder.
+- Ich behänge die Wand mit Bildern.
+- Ich behänge die Wand.
+:::
+
+**Attested Verbs**
+
+- beˈ-   : *hängen, liefern*
+- verˈ-  : *nageln* 
+- überˈ- : *schwemmen*
+- ˈan-   : *malen*
+
+**Further Examples**
+
+- Der Händler liefert die Waren (an den Kaufmann). \
+  Der Händler beliefert den Kaufmann (mit den Waren).
+- Ich male ein Gemälde an die Wand. \
+  Ich male die Wand (mit Farbe) an.
+- Die Welle hat das Holz an Land geschwemmt. \
+  Deutsche Exporteure überschwemmen die Welt mit Gütern.
+- Er nagelt die Bretter an die Tür.
+  Er hat die Tür (mit Brettern) vernagelt.
+
+#### *auf/mit* Preverb object exchange
+
+::: ex
+- Ich schmiere Salbe auf die Wunde.
+- ^* Ich schmiere Salbe.
+- Ich beschmiere die Wunde mit Salbe.
+- Ich beschmiere die Wunde.
+:::
+
+**Attested Verbs**
+
+- beˈ-    : (fill a container) *bauen, gießen, laden, legen, packen, schmieren, schmeißen, schütten, spritzen, streuen, werfen*
+- beˈ-    : (fill a canvas) *kleben, kleckern, kritzeln, schreiben, spannen, sprühen, streichen*
+- überˈ-  : *bauen, gießen, kleben, malen, pinseln, schütten, streichen, streuen, ziehen*
+- verˈ-   : *kleben*
+- durchˈ- : *setzen*
+- ˈein-   : *werfen*
+- ˈauf-   : *gießen*
+- ˈzu-    : *bauen, drücken, kleben*
+
+**Further Examples**
+
+- Ich gieße Wasser auf den Tee. \
+  Ich gieße den Tee (mit Wasser) auf.
+- Ich kleckere die Tinte auf die Bluse. \
+  Ich bekleckere meine Bluse (mit Tinte).
+- Ich setze meine Leute auf die wichtigen Stellen im Betrieb. \
+  Ich durchsetze den Betrieb mit meinen Leuten.
+- Ich werfe den Stein auf das Fenster. \
+  Ich werfe das Fenster ein (mit einem Stein).
+- Ich klebe den Zettel auf die Tür. \
+  Ich verklebe die Tür (mit dem Zettel).
+- Ich klebe ein Pflaster auf die Lücke. \
+  Ich klebe die Lücke (mit einem Pflaster) zu.
+- Die Baufirma baut neue Häuser auf die Freifläche. \
+  Die Baufirma baut die Freifläche (mit Häusern) zu.
+- Ich drücke meinen Finger auf die Wunde. \
+  Ich drücke die Wunde (mit meinem Finger) zu.
+- Ich lege Fliesen auf den Boden. \
+  Ich belege den Boden mit Fliesen.
+- Ich streiche Farbe auf die Wand. \
+  Ich überstreiche die Wand (mit Farbe).
+- Ich gieße Wasser auf die Blumen. \
+  Ich übergieße die Blumen mit Wasser.
+- Ich streue Zucker auf den Kuchen. \
+  Ich überstreue den Kuchen mit Zucker.
+- Ich spanne Stoff auf den Rahmen. \
+  Ich bespanne den Rahmen (mit Stoff).
+
+#### *in/mit* Preverb object exchange
+
+::: ex
+- Ich reibe die Salbe in den Muskel. 
+- ^* Ich reibe die Salbe.
+- Ich reibe den Muskel mit Salbe ein.
+- Ich reibe den Muskel ein.
+:::
+
+**Attested Verbs**
+
+- beˈ-  : *füllen, pflanzen*
+- erˈ-  : *stechen*
+- verˈ- : *bauen, rauchen, stellen, stopfen*
+- ˈein- : *reiben*
+- ˈzu-  : *mauern, schaufeln, schütten*
+
+**Further Examples**
+
+- Ich pflanze Tulpen in das Beet. \
+  Ich bepflanze das Beet (mit Tulpen).
+- Ich steche das Messer in den Mann. \
+  Ich ersteche den Mann (mit dem Messer).
+- Er mauert das Fundament in dem Loch. \
+  Er mauert das Loch (mit dem Fundament) zu.
+- Ich habe die Kohle in den Keller geschaufelt. \
+  Ich habe den Keller (mit Kohle) zugeschaufelt.
+- Ich stelle den Schrank im Korridor. \
+  Ich verstelle den Korridor (mit dem Schrank).
+- Sie haben ein Hochhaus in der Aussicht gebaut.
+  Sie haben die Aussicht (mit einem Hochhaus) verbaut.
+- Ich rauche eine Zigarette im Schlafzimmer. \
+  Früher hatte er ihr die Zimmer stets mit schlechten Zigarren verraucht.^[Attested online at https://www.dwds.de/wb/verrauchen, accessed 9 August 2022.] 
+
+#### *um/mit* Preverb object exchange
+
+=> note: object is whole, surrounding is part. Being surrounded is 'voll'
+
+::: ex
+- Ich binde einen Faden um das Paket.
+- ^* Ich binde einen Faden.
+- Ich binde das Paket mit dem Faden zu.
+- Ich bind das Paket zu.
+:::
+
+**Attested Verbs**
+
+- verˈ- : *binden*
+- umˈ-  : *stellen, wickeln*
+- ˈein- : *wickeln*
+- ˈzu-  : *binden*
+
+**Further Examples**
+
+- Ich binde einen Verband um den Arm. \
+  Ich verbinde den Arm mit einem Verband.
+- Ich stelle Kerzen um das Grab. \
+  Ich umstelle das Grab mit Kerzen.
+- Ich wickele ein Tuch um dich. \
+  Ich umwickele dich mit einem Tuch.
+- Ich wickle das Tuch um den Arm. \
+  Ich wickle den Arm in dem Tuch ein.
+
+### --- [ PBJ > OBJ > ADJ ] --- {.unnumbered}
+
+### [ NPA | NAp ] Preverb *von* antipassive+applicative {#sec:preverb-applicative-von-antipassive}
+
+This chained applicative+antipassive diathesis uses a *von* antipassive. All examples currently known to me use the preverb *erˈ-*. The applicative side of the diathesis uses different preposition, but they are all governed prepositions. For example, the verb *zwingen* 'to compel' [@next a] takes a governed preposition *zu* [@next b]. The prefixed *erzwingen* promoted the *zu* argument to accusative and demotes the erstwhile accusative to an optional *von* prepositional phrase [@next c]. The few attested verbs all concern some kind of persuasion of another person.
+
+::: ex
+a. Er zwingt ihn zu einem Geständnis.
+b. Er zwingt ihn dazu, ein Geständnis abzulegen.
+c. Er erzwingt ein Geständnis (von ihm).
+:::
+
+**Attested Verbs**
+
+- erˈ- (um)   : *bitten*
+- erˈ- (nach) : *fragen*
+- erˈ- (zu)   : *pressen, zwingen*
+
+**Further Examples**
+
+- Ich bitte dich um einen Gefallen. \
+  Ich erbitte einen Gefallen (von dir).
+- Ich frage dich nach dem Weg zum Bahnhof. \
+  Ich erfrage den Weg zum Bahnhof (von dir).
+
+### [ NPA | NAp ] Reflexive preverb *von* antipassive+applicative
+
+The object exchange from *bitten* 'to ask' [@next a] to *verbitten* 'to not tolerate' [@next b] additionally needs a dative reflexive pronoun.
+
+::: ex
+a. Ich bitte dich um einen Kommentar.
+b. Ich verbitte mir einen Kommentar von dir.
+:::
+
+**Attested Verbs**
+
+- verˈ- (um) : *bitten*
 
 ## Diatheses with promotion to object {#sec:preverb-promotion-to-object}
 
@@ -1520,7 +1724,7 @@ This diathesis contrasts with a highly similar diathesis that also introduces an
 - ^* Sie ermordet sich ihn.
 :::
 
-Some verbs, like *erschwimmen* 'to achieve by swimming' [@next], even allow for both constructions, either with reflexive pronoun [@next a] or without reflexive pronoun [@next b]. More examples of such 'free' reflexive pronoun are discussed in [@sec:reflexive-free-dative-sich-accusative]. Note that the semantic difference between these examples does not easily fit the opposition result vs. patient as proposed above.
+Some verbs, like *erschwimmen* 'to achieve by swimming' [@next], even allow for both constructions, either with reflexive pronoun [@next a] or without reflexive pronoun [@next b]. More examples of such 'free' reflexive pronoun are discussed in [@sec:reflexive-free-dative-sich-accusative]. Note that the semantic difference between these examples does not easily fit the opposition result vs. patient as proposed above. It remains unclear to me how exactly to explain these two options.
 
 ::: ex
 - Zumindest Völker erschwimmt sich jährlich einen fünfstelligen Betrag.^[~~DWDS~~: Berliner Zeitung, 16.03.2000.]
@@ -1530,7 +1734,7 @@ Some verbs, like *erschwimmen* 'to achieve by swimming' [@next], even allow for 
 **Attested Verbs**
 
 - erˈ-  : *arbeiten, boxen, kämpfen, laufen, schlafen, schreiben, schwimmen, schwindeln, tanzen, wandern*
-- ˈan-  : *essen, tanzen, trinken*
+- ˈan-  : *essen, lesen, tanzen, trinken*
 
 **Further Examples**
 
@@ -1546,54 +1750,20 @@ Some verbs, like *erschwimmen* 'to achieve by swimming' [@next], even allow for 
 
 **Notes**
 
-The verb *schreiben* 'to write' allows for dative and accusative arguments [@next a], but in this diathesis it is the intransitive occupational usage [@next b] that is the basis for the resultative construction [@next c].
+A few of these verbs are transitive, like *lesen, schreiben* [@next a,b], ambitransitive, like *essen, trinken* [@next c,d], and various others allow for an accusative addition, like *laufen* [@next e]. In effect, this leads to some kind of reflexive object exchange.
 
 ::: ex
-a. Ich schreibe dir einen Brief.
-b. Ich schreibe (als Beruf).
-c. Ich erschreibe mir ein großes Publikum.
-:::
-
-### --- [ Ø > OBJ > ADJ ] --- {.unnumbered}
-
-### [ NA– | NpA ] Preverb object switch+reflexive
-
-A resultative accusative (see the previous [@sec:preverb-reflexive-resultative]) can also be added to a few transitive verbs that already have an accusative. This original accusative has to be demoted to an (optional) prepositional phrase. For example, when the verb *lesen* 'to read' [@next a] is turned into *anlesen* 'to achieve by reading' [@next] a new accusative is added (*Wissen* 'knowledge'), while the original accusative (*Buch* 'book') is demoted. This diathesis obligatorily needs a dative reflexive pronoun.
-
-::: ex
-- Ich habe ein Buch gelesen.
-- Ich habe mir das Wissen (aus einem Buch) angelesen.
-:::
-
-**Attested Verbs**
-
-- erˈ- : *laufen, schreiben*
-- ˈan- : *lesen, trinken*
-
-**Further Examples**
-
-- Ich habe gestern einen Marathon gelaufen. \
-  Ich habe mir (beim Marathon) eine Medaille erlaufen.
+- Ich habe ein Buch gelesen. \
+  Ich habe mir das Wissen (aus einem Buch) angelesen.
 - Er schrieb Miniaturen. \
   Sein Alltag lieferte ihm Stoff zu kleinen Miniaturen, mit denen er sich eine Kolumne erschrieb.^[~~DWDS~~: Zeit Magazin, 20.04.2011, Nr. 17.]
+- Ich esse viel Fleisch. \
+  Ich habe mir (mit dem vielen Fleisch) einen Bauch angegessen.
 - Sie trinken Glühwein. \
   […] rotnasigen Menschen, die sich mit klebrigem Glühwein den nächsten Kaufrausch antrinken.^[~~DWDS~~: Die Zeit, 20.12.2006, Nr. 52.]
-
-### [ NA– | NpA ] Preverb object switch {#sec:preverb-object-switch}
-
-The idiosyncratic diathesis from *schließen* 'to close' [@next a] to *einschließen* 'to close away' [@next b] introduces a new accusative object (*Schmuck* 'jewellery') and turns the original accusative (*Safe* 'safe') into an optional prepositional phrase. Different from the previous examples, no reflexive pronoun is allowed with this diathesis [@next c]. 
-
-The special characteristic of this diathesis is that the new accusative object (*Schmuck*) is impossible to express with the non-prefixed verb *schließen*. More typically, this object can be expressed as a prepositional phrase as well (see [@sec:preverb-applicative-antipassive]).
-
-::: ex
-a. Ich schließe den Safe.
-b. Ich schließe den Schmuck (in den Safe) ein.
-c. ^* Ich schließe mir den Schmuck ein.
+- Ich habe gestern einen Marathon gelaufen. \
+  Ich habe mir (im Marathon) eine Medaille erlaufen.
 :::
-
-**Attested Verbs**
-
-- ˈein- : *schließen*
 
 ### --- [ Ø > OBJ ] --- *Präverb Dativ* {.unnumbered}
 
@@ -1642,7 +1812,7 @@ b. Ich lese dir ein Buch vor.
 - Ich habe den Schal geworfen. \
   Ich habe dir den Schal übergeworfen.
 
-### --- [ ADJ > OBJ ] --- *Präverb Akkusativ Applikativ* {.unnumbered}
+### --- [ ADJ > OBJ ] --- *Präverb Applikativ* {.unnumbered}
 
 ### [ Np | NA ] Preverb applicative {#sec:preverb-applicative}
 
@@ -1665,8 +1835,9 @@ Note that the prepositions *über, unter, um* and *durch* appear to have a speci
 **Attested Verbs**
 
 - beˈ-  : *fummeln, grenzen, knabbern, riechen, schnuppern, wuchern*
-- zerˈ- : *nagen, kratzen, reiben, reißen*
+- zerˈ- : *nagen, fressen, kratzen, reiben, reißen*
 - ˈan-  : *fahren, fassen, knabbern*
+- ˈab-  : *ziehen, zupfen*
 
 **Further Examples**
 
@@ -1676,6 +1847,8 @@ Note that the prepositions *über, unter, um* and *durch* appear to have a speci
   Ich fahre den Bodensee an.
 - Ich fasse an die Wand. \
   Ich fasse die Wand an.
+- Die Motten fressen an den Pullover. \
+  Die Motten zerfressen den Pullover.
 
 #### *auf* Preverb applicative
 
@@ -1706,6 +1879,8 @@ Note that the prepositions *über, unter, um* and *durch* appear to have a speci
   Ich klage das Geld ein.
 - Ich reite auf einem Pferd. \
   Ich reite das Pferd ein.
+- Ich segele auf den See. \
+  Ich besegle den See.
 
 #### *durch* Preverb applicative
 
@@ -1797,6 +1972,7 @@ There are various still transparent derivations in which there is a rather stron
 - zerˈ-   : *bohren, stechen, wühlen*
 - durchˈ- : *bohren, leuchten, suchen*
 - ˈein-   : *laufen*
+- ˈab-    : *zwicken*
 
 **Further Examples**
 
@@ -2289,243 +2465,60 @@ b. Ich sehe ihm die Müdigkeit an.
 
 ## Symmetrical diatheses
 
-### --- [ ADJ > OBJ > ADJ ] --- *Präverb Vollapplikativ* {.unnumbered}
-
-A regular ~~applicative~~ diathesis changes a prepositional phrase into an accusative. Such diatheses are frequently attested with preverbs (see [@sec:preverb-applicative]). When there is already an accusative present, like with *schreiben* [@next a], then the original accusative (*Buchstabe* 'letter') is demoted to a prepositional phrase, i.e. ~~antipassive~~ [@next b]. This combination of an applicative with an antipassive is called a ~~full applicative~~ here.
-
-::: ex
-a. Ich schreibe den Buchstaben auf das Papier.
-b. Ich beschreibe das Papier mit den Buchstaben.
-:::
-
-The most widespread antipassive demotion uses the preposition *mit* (see [@sec:preverb-applicative-antipassive]), like with *beschreiben* [@last b]. Less frequent are *in* antipassives (see [@sec:preverb-applicative-in-antipassive]) and *von* antipassives (see [@sec:preverb-applicative-von-antipassive]). Surprisingly, other prepositions are not attested for the antipassive part of a full applicative. 
-
-In contrast, there is extensive variation in the prepositions that take part in the applicative part of the diathesis, e.g. *auf* in [@last], but also *an, für, in, über* and *um* are attested. These will be discussed in the following subsections.
-
-### [ NpA | NAp ] Preverb full applicative+*mit* antipassive {#sec:preverb-applicative-antipassive}
-
-#### *an* Preverb full applicative
-
-::: ex
-- Ich hänge die Bilder an die Wand. 
-- Ich behänge die Wand mit Bildern.
-:::
-
-**Attested Verbs**
-
-- beˈ-  : *hängen, liefern*
-- verˈ- : *füttern, nageln* 
-- ˈan-  : *malen*
-
-**Further Examples**
-
-- Der Händler liefert die Waren an den Kaufmann. \
-  Der Händler beliefert den Kaufmann mit den Waren.
-- Ich füttere die Enten mit Brot. \
-  Ich verfüttere das Brot an die Enten.
-- Ich male ein Gemälde an die Wand. \
-  Ich male die Wand mit Farbe an.
-
-#### *auf* Preverb full applicative
-
-::: ex
-- Ich schmiere Salbe auf die Wunde.
-- Ich beschmiere die Wunde mit Salbe.
-:::
-
-**Attested Verbs**
-
-- beˈ-    : *bauen, gießen, kleben, kleckern, kritzeln, laden, legen, packen, schmieren, schmeißen, schreiben, schütten, segeln, spritzen, sprühen, streichen, streuen, werfen*
-- verˈ-   : *kleben*
-- überˈ-  : *bauen, kleben*
-- durchˈ- : *setzen*
-- ˈein-   : *werfen*
-- ˈauf-   : *gießen*
-- ˈzu-    : *bauen, drücken, kleben*
-
-**Further Examples**
-
-- Ich segele mein Boot auf den See. \
-  Ich besegele den See mit meinem Boot.
-- Ich gieße Wasser auf den Tee. \
-  Ich gieße den Tee mit Wasser auf.
-- Ich kleckere die Tinte auf die Bluse. \
-  Ich bekleckere meine Bluse mit Tinte.
-- Ich setze meine Leute auf die wichtigen Stellen im Betrieb. \
-  Ich durchsetze den Betrieb mit meinen Leuten.
-- Ich werfe den Stein auf das Fenster. \
-  Ich werfe das Fenster ein (mit einem Stein).
-- Ich klebe den Zettel auf die Tür. \
-  Ich verklebe die Tür mit dem Zettel.
-- Die Baufirma baut neue Häuser auf die Freifläche. \
-  Die Baufirma baut die Freifläche mit Häusern zu.
-- Ich drücke meinen Finger auf die Wunde. \
-  Ich drücke die Wunde mit meinem Finger zu.
-- Ich klebe ein Pflaster auf die Lücke. \
-  Ich klebe die Lücke mit einem Pflaster zu.
-- Ich lege Fliesen auf den Boden. \
-  Ich belege den Boden mit Fliesen.
-
-#### *für* Preverb full applicative
-
-::: ex
-- Er singt die Hymne für dich. 
-- Mit der Hymne Amazing Grace besang jener John Newton seine eigene Bekehrung zum Christentum.^[~~DWDS~~: Die Zeit, 02.07.2015, Nr. 27.]
-:::
-
-**Attested Verbs**
-
-- beˈ- : *kochen, singen*
-
-**Further Examples**
-
-- Ich koche eine Suppe für dich. \
-  Ich bekoche dich mit einer Suppe.
-
-#### *in* Preverb full applicative
-
-::: ex
-- Ich pflanze Tulpen in das Beet. 
-- Ich bepflanze das Beet mit Tulpen.
-:::
-
-**Attested Verbs**
-
-- beˈ-  : *pflanzen*
-- erˈ-  : *stechen*
-- verˈ- : *bauen, heizen, rauchen, stellen, stopfen*
-- ˈein- : *füllen, massieren, reiben*
-- ˈzu-  : *mauern, schaufeln, schütten*
-
-**Further Examples**
-
-- Ich heize den Raum mit Kohle. \
-  Ich verheize Kohle im Raum.
-- Ich rauche eine Zigarette im Schlafzimmer. \
-  Früher hatte er ihr die Zimmer stets mit schlechten Zigarren verraucht.^[Attested online at https://www.dwds.de/wb/verrauchen, accessed 9 August 2022.]
-- Er hat den Schnaps eingefüllt (in die Flasche). \
-  Er füllt die Flasche (mit Schnaps). 
-- Ich massiere die Creme in den Muskel ein. \
-  Ich massiere den Muskel (mit einer Salbe). 
-- Ich steche das Messer in den Mann. \
-  Ich ersteche den Mann mit dem Messer.
-- Er mauert das Fundament in dem Loch. \
-  Er mauert das Loch mit dem Fundament zu.
-- Ich habe Kohle in den Keller geschaufelt. \
-  Ich habe den Keller mit Kohle zugeschaufelt.
-- Ich stelle den Schrank im Korridor. \
-  Ich verstelle den Korridor mit dem Schrank.
-- Er hatte Feldsteine in den Zugang gebaut. \
-  Er hatte den Zugang zu seinem Garten mit Feldsteinen verbaut.
-
-#### *über* Preverb full applicative
-
-This diathesis is mentioned by Eisenberg [-@eisenberg2006: 257-258].
-
-::: ex
-- Ich streue Zucker über den Kuchen. 
-- Ich überstreue den Kuchen mit Zucker.
-:::
-
-**Attested Verbs**
-
-- beˈ-   : *spannen*
-- überˈ- : *gießen, malen, pinseln, schütten, streichen, streuen, ziehen*
-
-**Further Examples**
-
-- Ich gieße Wasser über die Blumen. \
-  Ich übergieße die Blumen mit Wasser.
-
-#### *um* Preverb full applicative
-
-::: ex
-- Ich binde einen Verband um den Arm. 
-- Ich verbinde den Arm mit einem Verband.
-:::
-
-**Attested Verbs**
-
-- verˈ- : *binden*
-- umˈ-  : *stellen, wickeln*
-- ˈzu-  : *binden*
-
-**Further Examples**
-
-- Ich stelle Kerzen um das Grab. \
-  Ich umstelle das Grab mit Kerzen.
-- Ich binde einen Faden um das Paket. \
-  Ich binde das Paket mit dem Faden zu.
-- Ich wickele ein Tuch um dich. \
-  Ich umwickele dich mit einem Tuch.
+### --- [ ADJ > OBJ > ADJ ] --- *Präverb Teil/fest-Objekttausch* {.unnumbered}
 
 ### [ NpA | NAp ] Preverb applicative+*in* antipassive {#sec:preverb-applicative-in-antipassive}
 
-A second pattern of applicative+antipassive combinations uses an *in* antipassive. For example, the diathesis between *wickeln* 'to wrap' and *einwickeln* 'to wrap around' [@next] changes the original accusative *Tuch* 'cloth' into an prepositional phrase with *in*. The prepositions that are involved in the applicative part of this diathesis are again more varied (*bei, für, mit, um, über*), but there are not enough examples to warrant separate subsections.
+=> basically only *für/mit*
+=> location *in* not obligatory, but still PBJ? ??
+
+A second pattern of applicative+antipassive combinations uses an *in* antipassive. For example, the diathesis between *bauen* 'to build' and *verbauen* 'use for building' [@next] changes the original accusative *Haus* 'house' into an prepositional phrase with *in*. The prepositions that are involved in the applicative part of this diathesis are again more varied (*für, mit, um, über*), but there are not enough examples to warrant separate subsections. The new accusative (*Steine* 'stones') is always a part of the former accusative (*Haus* 'house') in this diathesis.
 
 ::: ex
-- Ich wickle das Tuch um den Arm.
-- Ich wickle den Arm in dem Tuch ein.
+- Ich baue ein Haus (mit den Steinen).
+- Ich verbaue die Steine (in dem Haus).
 :::
 
 **Attested Verbs**
 
 - beˈ- (für)  : *graben*
-- beˈ- (über) : *schreiben*
+- beˈ- (mit)  : *schreiben*
 - verˈ- (für) : *graben, buddeln*
-- verˈ- (mit) : *bauen, backen*
+- verˈ- (mit) : *bauen, backen, heizen*
 - ˈein- (für) : *graben*
-- ˈein- (um)  : *wickeln*
+- ˈein- (mit) : *füllen, massieren*
+- ˈein- (-)   : *schließen*
+- ˈab- (mit)  : *füllen*
 
 **Further Examples**
 
-- Ich grabe/buddele ein Loch für den Schatz. \
-  Ich vergrabe/verbuddele den Schatz im Loch.
-- Ich grabe ein Loch für meinen Hund. \
-  Ich begrabe meinen Hund in dem Loch.
-- Ich grabe ein Loch (in die Erde) für den Baum. \
-  Ich grabe den Baum in einem Loch (in die Erde) ein.
-- Ich schreibe (dir) einen Brief über mein Erlebnis. \
-  Ich beschreibe (dir) mein Erlebnis in einem Brief
-- Ich backe einen Kuchen mit einem Kilo Mehl. \
-  Ich verbacke ein Kilo Mehl in dem Kuchen.
-- Ich baue ein Haus mit den Steinen. \
-  Ich verbaue die Steine in dem Haus.
+- Ich grabe/buddele ein Loch (für den Schatz). \
+  Ich vergrabe/verbuddele den Schatz (im Loch).
+- Ich grabe ein Loch (für meinen Hund). \
+  Ich begrabe meinen Hund (in dem Loch).
+- Ich grabe ein Loch (für den Baum). \
+  Ich grabe den Baum (ins Erdreich) ein.
+- Ich schreibe einen Brief (mit meinen Erlebnissen). \
+  Ich beschreibe meine Erlebnisse (in einem Brief).
+- Ich backe einen Kuchen (mit einem Kilo Mehl). \
+  Ich verbacke ein Kilo Mehl (in dem Kuchen).
+- Ich heize die Wohnung (mit Kohle). \
+  Ich verheize alle Kohle (in der Wohnung).
+- Er hat die Flasche (mit Schnaps) gefüllt. \
+  Er hat den Schnaps (in die Flasche) eingefüllt.
+- Ich massiere den Muskel (mit einer Salbe). \
+  Ich massiere die Salbe (in den Muskel) ein.
+- Ich fülle die Flaschen (mit Milch). \
+  Ich fülle die Milch (in Flaschen) ab.
 
-### [ NpA | NAp ] Preverb applicative+*von* antipassive {#sec:preverb-applicative-von-antipassive}
+**Notes**
 
-A third. less frequent, applicative+antipassive diathesis uses a *von* antipassive. All examples currently known to me use the preverb *erˈ-*, though they take different prepositions in the applicative side of the diathesis.
-
-::: ex
-a. Er zwingt ihn zu einem Geständnis.
-b. Er erzwingt ein Geständnis von ihm.
-:::
-
-**Attested Verbs**
-
-- erˈ- (um)   : *bitten*
-- erˈ- (nach) : *fragen*
-- erˈ- (zu)   : *pressen, zwingen*
-
-**Further Examples**
-
-- Ich bitte dich um einen Gefallen. \
-  Ich erbitte einen Gefallen von dir.
-- Ich frage dich nach dem Weg zum Bahnhof. \
-  Ich erfrage den Weg zum Bahnhof von dir.
-
-### [ NpA | NAp ] Preverb reflexive applicative+*von* antipassive
-
-The full applicative from *bitten* 'to ask' [@next a] to *verbitten* 'to not tolerate' [@next b] additionally needs a dative reflexive pronoun.
+The diathesis from *schließen* 'to close' [@next a] to *einschließen* 'to close away' [@next b] introduces a new accusative object (*Schmuck* 'jewellery') and turns the original accusative (*Safe* 'safe') into an optional prepositional phrase. However, the special characteristic of this diathesis is that the new accusative object (*Schmuck*) is impossible to express with the non-prefixed verb *schließen*.
 
 ::: ex
-a. Ich bitte dich um einen Kommentar.
-b. Ich verbitte mir einen Kommentar von dir.
+a. Ich schließe den Safe.
+b. Ich schließe den Schmuck (in den Safe) ein.
 :::
-
-**Attested Verbs**
-
-- verˈ- (um) : *bitten*
 
 ### --- [ OBJ > OBJ ] --- {.unnumbered}
 

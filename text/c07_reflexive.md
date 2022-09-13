@@ -53,7 +53,7 @@ There are six diatheses in this chapter that seem prominent enough to be given a
 
 - ~~[OBJ › Ø] Endoreflexiv~~ (see [@sec:reflexive-accusative-drop] ff.)
 - ~~[OBJ › ADJ] Reziprokativ~~ (see [@sec:reflexive-mit-antipassive])
-- ~~[OBJ › PBJ] Reflexiv Akkusativ Antipassiv~~ (see [@sec:reflexive-accusative-antipassive])
+- ~~[OBJ › PBJ] Reflexiv Antipassiv~~ (see [@sec:reflexive-accusative-antipassive])
 - ~~[OBJ › SBJ › Ø] Reflexiv Antikausativ~~ (see [@sec:reflexive-anticausative] ff.)
 - ~~[OBJ › SBJ › PBJ] Reflexiv Erlebnispassiv~~ (see [@sec:reflexive-preposition-passive])
 - ~~[Ø › PBJ] Reflexiv Bewegungsart~~ (see [@sec:reflexive-manner-of-movement])
@@ -64,6 +64,7 @@ As noted above, there are many more prominent diatheses that involve a reflexive
 - ~~[SBJ › Ø] Wertungsverbativ~~ (see [@sec:adverbial-reflexive-drop])
 - ~~[OBJ › SBJ › Ø] Präsentativantikausativ~~ (see [@sec:participles-geben-reflexive-anticausative])
 - ~~[OBJ › SBJ › ADJ] Möglichkeitsspassiv~~ (see [@sec:infinitive-lassen-reflexive-anticausative])
+- ~~[OBJ › ADJ] Präverb Reflexiv Antipassiv~~ (see [@sec:preverb-reflexive-antipassive])
 - ~~[Ø › OBJ] Präverb Reflexiv Akkusativ~~ (see [@sec:preverb-reflexive-resultative] ff.)
 
 ## Characteristics of reflexive pronouns
@@ -1760,7 +1761,7 @@ a. Ich befreunde mich mit ihm.
 b. Du befreundest ihn.^[Attested online at http://hundewelt.info/affenpinscher/, accessed 2 August 2022.]
 :::
 
-### --- [ OBJ > PBJ ] --- *Reflexiv Akkusativ Antipassiv* {.unnumbered}
+### --- [ OBJ > PBJ ] --- *Reflexiv Antipassiv* {.unnumbered}
 
 ### [ NA | NP ] Reflexive governed antipassive {#sec:reflexive-accusative-antipassive}
 
@@ -1887,7 +1888,7 @@ Although not all verbs listed below are strictly intransitive (e.g. *essen, trin
 
 - Food processing: *essen, fressen, trinken*
 - Bodily processes: *denken, dösen, schlafen, schwitzen, träumen, zittern*
-- Intransitve actions: *arbeiten, fallen, kämpfen, liegen, lügen, schießen, schleichen, schwimmen*
+- Intransitive actions: *arbeiten, fallen, kämpfen, liegen, lügen, schießen, schleichen, schwimmen*
 
 **Further Examples**
 

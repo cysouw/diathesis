@@ -41,13 +41,13 @@ There are fifteen local groups of diatheses that seem prominent enough to be giv
 - ~~[Ø › PBJ] Bewegungsart~~ (see [@sec:prepositions-manner-of-movement] ff.)
 - ~~[Ø › PBJ] Verursachte Bewegung~~ (see [@sec:prepositions-intransitive-location-as-result] ff.)
 - ~~[Ø › PBJ] Ergänzende Wirkung~~ (see [@sec:prepositions-performative-result]
-- ~~[Ø › OBJ › PBJ] Teilobjektiv~~ (see [@sec:prepositions-action-result])
+- ~~[Ø › OBJ › PBJ] Teil/weg-Objekttausch~~ (see [@sec:prepositions-partitive-free])
+- ~~[Ø › OBJ › PBJ] Teil/fest-Objekttausch~~ (see [@sec:prepositions-partitive-fixed])
 - ~~[ADJ › OBJ] Benefaktivdativ~~ (see [@sec:prepositions-benefactive-dative])
 - ~~[ADJ › OBJ] Beurteilerdativ~~ (see [@sec:prepositions-judgement-dative])
 - ~~[ADJ › OBJ] Ortspertinenzdativ~~ (see [@sec:prepositions-possessor-of-location-to-dative-experiencer] ff.)
 - ~~[ADJ › OBJ › PBJ] Pertinenzakkusativ~~ (see [@sec:perpositions-possessor-applicative])
-- ~~[ADJ › OBJ › ADJ] Vollapplikativ~~ (see [@sec:prepositions-instrument-applicative])
-- ~~[OBJ › ADJ] Akkusativ Antipassiv~~ (see [@sec:prepositions-accusative-antipassive] ff.)
+- ~~[OBJ › ADJ] Antipassiv~~ (see [@sec:prepositions-accusative-antipassive] ff.)
 - ~~[OBJ › ADJ] Dativ Antipassiv~~ (see [@sec:prepositions-dative-antipassive] ff.)
 
 ## Delimiting governed prepositional phrases {#sec:prepositions-delimiting-governed-prepositional-phrases}
@@ -1103,7 +1103,7 @@ d. ^^?^ Ich gratuliere.
 - Er dankt (mir) für den Wein.
 - Er antwortet (dir) auf deine Frage.
 
-### --- [ OBJ > ADJ ] --- *Akkusativ Antipassiv* {.unnumbered}
+### --- [ OBJ > ADJ ] --- *Antipassiv* {.unnumbered}
 
 ### [ NA | Np ] Accusative antipassive {#sec:prepositions-accusative-antipassive}
 
@@ -1976,13 +1976,11 @@ The verb *wünschen* 'to wish' can be used in a construction with *als* [@next a
 - Dr. Malan wünschte sich den vierundsiebzigjährigen Meneer Havenga zum Nachfolger.^[~~DWDS~~: Die Zeit, 16.12.1954, Nr. 50.]
 :::
 
-### --- [ Ø > OBJ > PBJ ] --- *Teilobjektiv* {.unnumbered}
+### --- [ Ø > OBJ > PBJ ] --- *Teil Objekttausch* {.unnumbered}
 
-### [ NA– | NLA ] Part object exchange {#sec:prepositions-action-result}
+### [ NA– | NLA ] Partitive separated object (*Teil/weg-Objekttausch*) {#sec:prepositions-partitive-free}
 
-This alternation occurs with some transitive verbs like *waschen* 'to wash' [@next a,b], cf. the *wipe* alternation in English from Levin [-@levin1993: 53]. Note that the accusatives at both sides of the alternation do not refer to the same roles. The original accusative *Hose* 'trousers' [@next a] is recast as a location [@next b], which is obligatory [@next c]. A new accusative *Fleck* 'stain' is introduced as the result of the action. Typically the result is actually the removal of something, like *Fleck* 'stain' in [@next].
-
-The result of this diathesis [@next b] is a caused motion construction, similar to the diatheses as described in [@sec:prepositions-intransitive-location-as-result; sec:prepositions-transitive-location-as-result]. However, this is a completely different diathesis because the object is changed. The new accusative object always is a part of the original object [called a "partitive" interpretation in @levin1993: 53]. The exact reverse diathesis is attested with preverbs (see [@sec:preverb-location-antiresultative])
+This alternation occurs with some transitive verbs like *waschen* 'to wash' [@next a,b], cf. the 'wipe' alternation in English from Levin [-@levin1993: 53]. Note that the accusatives at both sides of the alternation do not refer to the same roles: there is a new object introduced with this diathesis. The original accusative *Hose* 'trousers' [@next a] is recast as a location [@next b], which is obligatory [@next c]. A new accusative *Fleck* 'stain' is introduced as the result of the action. Typically the result is actually the removal of something, like *Fleck* 'stain' in [@next].
 
 ::: ex
 a. Ich wasche meine Hose.
@@ -1991,39 +1989,71 @@ b. Ich wasche den Fleck aus meiner Hose. \
 c. ^* Ich wasche den Fleck.
 :::
 
-These verbs also allow for a subsequent alternation [@next a,b], namely to raise a possessor from the prepositional phrase to a dative (see [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative]).
+The result of this diathesis [@last b] is a caused-motion construction, similar to the diatheses as described in [@sec:prepositions-intransitive-location-as-result; sec:prepositions-transitive-location-as-result]. However, this is a completely different diathesis because the object is changed. The new accusative object always is a part of the original object [called a "partitive" interpretation in @levin1993: 53], hence the term *Teil* in the German name. The exact reverse diathesis is attested with preverbs (see [@sec:preverb-location-antiresultative]).
+
+These verbs, like *kämmen* 'to comb' [@next a,b] also allow for subsequent alternation, namely [@next c] to raise a possessor from the prepositional phrase to a dative (see [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative]), and then even make this dative self-inflicting reflexive [@next d]
 
 ::: ex
 a. Er kämmt deine Haare.
 a. Er kämmt die Läuse aus deinen Haaren. 
 b. Er kämmt dir die Läuse aus den Haaren.
+d. Er kämmt sich die Läuse aus den Haaren.
 :::
 
 **Attested Verbs**
 
-- Cleaning/repair: *bügeln, filtern, kämmen, nähen, polieren, schrubben, waschen, wischen*
-- Destruction: *brechen, hacken, schneiden*
+- *bügeln, bürsten, filtern, kämmen, lesen (aussortieren), polieren, putzen, quetschen, reiben, rupfen, schrubben, sieben, spülen, waschen, wischen*
 
 **Further Examples**
 
 - Er polierte die Gabel. \
   Er polierte den Fleck von der Gabel.
-- Er filterte das Wasser. \
-  Er filterte den Schmutz aus dem Wasser.
 - Er wischte den Tisch. \
   Er wischte das Wasser von dem Tisch.
-- Ich schneide den Teppich. \
-  Ich schneide ein Loch in den Teppich.
+- Er filterte das Wasser. \
+  Er filterte den Schmutz aus dem Wasser.
 - Ich bügle das Hemd. \
   Ich bügle die Falten aus dem Hemd.
+- Er schrubbt den Rinnstein. \
+  Nur eine Kehrmaschine schrubbt den Schmutz aus dem Rinnstein.^[~~DWDS~~: Berliner Zeitung, 21.07.1999.]
+- Er rupft die Enten. \
+  Er rupft die Federn von den Enten.
+- Sie putzt seine Lippen. \
+  Leo W. heult und hustet, Melanie putzt den Schleim von seinen Lippen.^[~~DWDS~~: Zeit Magazin, 04.12.2008, Nr. 50.]
+
+### [ NA– | NLA ] Partitive joined object (*Teil/fest-Objekttausch*) {#sec:prepositions-partitive-fixed}
+
+Similar to the previous diathesis, but somewhat less common, some verbs allow for an unmarked partitive constructions with a reversed semantics. Instead of removing a part, a part is added to a whole. For example, with *nähen* 'to sew' the accusative object is either the thing being sewn, *Hose* 'trousers' [@next a], or a part being attached to something else, *Knopf* 'button' [@next b]. The original object can be retained as a prepositional phrase with *an*.
+
+::: ex
+- Er näht eine Hose.
+- Er näht einen Knopf an seine Hose.
+:::
+
+This diathesis is closely related to a similar preverbal diathesis (see [@sec:preverb-applicative-in-antipassive]) and the resultative *fest-* diathesis (see [@sec:adverbial-fest]), exemplified here with *kitten* 'to cement' [@next].
+
+::: ex
+- Ich kitte die zerbrochene Tasse.
+- Ich kitte den Henkel fest.
+:::
+
+**Attested Verbs**
+
+- Attachment: *kitten, kleben, leimen, nähen*
+- Insertion: *brechen, hacken, sägen, schneiden*
+
+**Further Examples**
+
+- Er klebt die zerbrochene Vase. \
+  Er klebt ein Aufkleber an die Vase.
+- Sie leimt die zerbrochene Spielsachen. \
+  Nun begann sie die Arbeit wieder, leimte das Türmlein an die Kirche und suchte die Hölzchen für das Dach zusammen.^[~~DWDS~~: Ganghofer, Ludwig: Der Dorfapostel, Stuttgart: Adolf Bonz 1917 (1900), S. 42.]
+- Ich schneide den Teppich. \
+  Ich schneide ein Loch in den Teppich.
 - Ich breche den Felsen. \
   Ich breche einen Durchgang in den Felsen. 
-- Er näht eine Hose. \
-  Er näht einen Knopf an seiner Hose.
 - Er hackt das Holz. \
   Er hackt ein Loch in das Eis.
-- Er schrubt den Rinnstein. \
-  Nur eine Kehrmaschine schrubbt den Schmutz aus dem Rinnstein.^[~~DWDS~~: Berliner Zeitung, 21.07.1999.]
 
 ### --- [ ADJ > OBJ ] --- *Benefaktivdativ* {.unnumbered}
 
@@ -2258,11 +2288,11 @@ b. Der Platz wimmelt von Kindern.
 
 - *wimmeln*
 
-### --- [ ADJ > OBJ > ADJ ] --- *Vollapplikativ* {.unnumbered}
+### --- [ ADJ > OBJ > ADJ ] --- {.unnumbered}
 
-### [ NAp | NpA ] Full applicative {#sec:prepositions-instrument-applicative}
+### [ NAp | NpA ] Chained applicative/antipassive {#sec:prepositions-instrument-applicative}
 
-In German, full applicatives are typically attested with verbal prefixes like *be-* [@next a] or verbal particles like *ein-* [@next b], see [@sec:preverb-promotion-to-object]. In such alternations, the role that is marked with the accusative case changes. An accusatively marked argument is typically more affected than a prepositional object, so changing which role is marked in the accusative also changes the perspective of the action (similar to what happens with antipassives, see [@sec:prepositions-accusative-antipassive]). 
+In German, chained applicatives are typically attested with verbal prefixes like *be-* [@next a] or verbal particles like *ein-* [@next b], see [@sec:preverb-applicative-antipassive]. In such alternations, the role that is marked with the accusative case changes. An accusatively marked argument is typically more affected than a prepositional object, so changing which role is marked in the accusative also changes the perspective of the action (similar to what happens with antipassives, see [@sec:prepositions-accusative-antipassive]). 
 
 ::: ex
 a. Ich werfe Dreck auf dich. \
@@ -2271,21 +2301,21 @@ b. Ich wickle das Tuch um den Arm. \
    Ich wickle den Arm in dem Tuch ein.
 :::
 
-With a few verbs this alternation is attested without a verbal prefix or particle. In most cases this includes an optional *mit* instrument that alternates with an accusative object [@next a-c], cf. the English 'spray/load' alternation from Levin [-@levin1993: 50-51]. This instrument alternation is closely related to the *mit* antipassive (see [@sec:prepositions-mit-antipassive]). In addition to the *mit* antipassive, in this diathesis another accusative alternates with a locative preposition that is obligatorily present [@next c,d].
+With a few verbs this alternation is attested without a verbal prefix or particle. With some verbs of filling, like *füllen* 'to fill' [@next a] this unmarked diathesis is completely parallel to the *befüllen* (see [@sec:preverb-applicative-antipassive]), but without any overt marking. An accusative object, here *Schnaps* 'liquor' [@next a] is replaced with an optional *mit* prepositional phrase [@next c], cf. the English 'spray/load' alternation from Levin [-@levin1993: 50-51]. This alternation is closely related to the *mit* antipassive (see [@sec:prepositions-mit-antipassive]). In addition to this *mit* antipassive, there is an applicative diathesis that turns an obligatory location into an accusative, here *Flasche* 'bottle'.
 
 ::: ex
-a. Er füllt die Flasche mit Schnaps.
-b. Er füllt die Flasche.
-c. Er füllt den Schnaps in die Flasche.
-d. ^* Er füllt den Schnaps.
+a. Er füllt den Schnaps in die Flasche.
+b. ^* Er füllt den Schnaps.
+c. Er füllt die Flasche mit Schnaps.
+d. Er füllt die Flasche.
 :::
 
-Some verbs of cutting and breaking allow for an exchange of the objects to be dissected and the parts that are the result of the dissection [@next a,b]. These verbs seem to be verbs that can occur both with and without the prefix *zer-* [@next b,c]. Any prepositional phrases are non-governed prepositions.
+Some verbs of cutting and breaking, like *schneiden* 'to cut' [@next a] allow for an unmarked exchange of the object to be dissected, *Blatt* 'sheet', with the parts that are the result of the dissection, *Streifen* 'bands' [@next b]. These verbs can occur both with and without the prefix *zer-*, see [@sec:preverb-transitive-antiresultative]. Note that these verbs allow for another highly similar diathesis that introduces another kind of new object that is a part of the whole object, *Loch* 'hole' [@next c], see [@sec:prepositions-partitive-free].
 
 ::: ex
-a. Ich schneide Streifen (aus dem Blatt Papier).
-b. Ich schneide das Blatt Papier (zu Streifen).
-c. Ich zerschneide das Blatt Papier.
+a. Ich schneide das Blatt zu Streifen.
+b. Ich schneide Streifen aus dem Blatt.
+c. Ich schneide ein Loch in dem Blatt.
 :::
 
 **Attested Verbs**

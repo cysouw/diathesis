@@ -63,7 +63,7 @@ b. Das Kind ist eingeschlafen.
 
 ### *Inchoativ* (*los-*)
 
-The ~~Inchoativ~~ (full discussion in [@sec:adverbial-inchoative-los]) consists of the preverbial adjective *los-*, added as a separable verb particle with intransitive verbs, like *losradeln* 'to start biking' [@next]. This construction indicates that an activity starts. It is typically used with manner-of-movement verbs and manner-of-speaking verbs, but it is in general applicable to all intransitives. As an adjective *los* means 'loose' in contemporary German. In that meaning it is used for example in the *Resultativ Delokativ* (see [@sec:summary-adverb-delokativ]). In contrast, the current preverbial inchoative use of *los-* is derived from an older meaning 'free'.
+The ~~Inchoativ~~ (full discussion in [@sec:adverbial-inchoative-los]) consists of the preverbial adjective *los-*, added as a separable verb particle with intransitive verbs, like *losradeln* 'to start biking' [@next]. This construction indicates that an activity starts. It is typically used with manner-of-movement verbs and manner-of-speaking verbs. However, it is in general applicable to all agentive intransitives. Originally, as an adjective *los* means 'loose' in contemporary German. In that meaning it is used for example in the *Resultativ Delokativ* diathesis (see [@sec:summary-adverb-delokativ]). In contrast, the current preverbial inchoative use of *los-* is derived from an older meaning 'free'.
 
 ::: ex
 - Er radelt täglich zur Schule.
@@ -73,7 +73,7 @@ The ~~Inchoativ~~ (full discussion in [@sec:adverbial-inchoative-los]) consists 
 
 ### *Kontinuativ* (*weiter-*)
 
-The ~~Kontinuativ~~ (full discussion in [@sec:adverbial-continuative-weiter]) consists of the preverbial adjective *weiter-*, added as a separable verb particle with intransitive and transitive verbs, like *weiterentwickeln* 'to develop further' [@next]. This construction indicates that an activity is continued. The stem *weiter* is originally the comparative form of the adjective *weit* 'far' and it has various adverbial uses in contemporary German, meaning for example 'spatially further' or 'still'. However, these adverbial uses can syntactically be separated from the preverbial continuative aspect marker presented here.
+The ~~Kontinuativ~~ (full discussion in [@sec:adverbial-continuative-weiter]) consists of the preverbial adjective *weiter-*, added as a separable verb particle with intransitive and transitive verbs, like *weiterentwickeln* 'to develop further' [@next]. This construction indicates that an activity is continued. The stem *weiter* is originally the comparative form of the adjective *weit* 'far' and it has various adverbial uses in contemporary German, meaning for example 'spatially further' or 'still'. However, these adverbial uses can syntactically be clearly separated from the preverbial continuative aspect marker presented here.
 
 ::: ex
 - Der Forscher entwickelt eine neue Technik.
@@ -284,7 +284,7 @@ b. Es ist bekannt, dass der Lehrer die Schüler zu begeistern weiß/versteht.
 
 ### *Kogitativ* (*denken+zu‑Infinitiv*) {#sec:summary-kogitativ}
 
-The ~~Kogitativ~~ (from Lat. *cogitare* 'to consider, to intend', full discussion in [@sec:zuinfinitiv-denken]) uses the verb *denken* with a *zu‑Infinitiv* [@next a]. In this old-fashioned or maybe just slightly poetic construction the verb *denken* has lost its lexical meaning 'to think'. Instead, it expresses an intention to perform a certain action (i.e. similar to modal *wollen*). In this light-verb usage it is coherent [@next b]. In its lexical meaning 'to think' it is not coherent [@next c].
+The ~~Kogitativ~~ (from Lat. *cogitare* 'to consider, to intend', full discussion in [@sec:zuinfinitiv-denken]) uses the verb *denken* with a *zu‑Infinitiv* [@next a]. In this old-fashioned or maybe just slightly poetic construction the verb *denken* has lost its lexical meaning 'to think'. Instead, it expresses an intention to perform a certain action (i.e. similar to modal *wollen*). In this light-verb usage it is coherent [@next b]. In its lexical meaning 'to think' it is not coherent [@next c]. This construction is used infrequently.
 
 ::: ex
 - Ich überrasche ihn. \
@@ -296,7 +296,7 @@ The ~~Kogitativ~~ (from Lat. *cogitare* 'to consider, to intend', full discussio
 
 ### *Konativ* (*suchen+zu‑Infinitiv*) {#sec:summary-konativ}
 
-The ~~Konativ~~ (from Lat. *conor* 'to try', full discussion in [@sec:zuinfinitive-suchen]) is a category that expresses an attempt at an activity. In German it can be expressed with *suchen+zu‑Infinitiv* [@next a]. In this construction, the meaning of *suchen* is similar to *versuchen* 'to try' and not to the lexical meaning of *suchen* 'to search'. In the meaning of 'to try' the construction is coherent [@next b], while the semantically similar *versuchen* does not result in a coherent construction [@next c]. 
+The ~~Konativ~~ (from Lat. *conor* 'to try', full discussion in [@sec:zuinfinitive-suchen]) is a category that expresses an attempt at an activity. In German it can be expressed with *suchen+zu‑Infinitiv* [@next a]. In this construction, the meaning of *suchen* is similar to *versuchen* 'to try' and not to the lexical meaning of *suchen* 'to search'. In the meaning of 'to try' the construction is coherent [@next b], while the semantically similar *versuchen* does not result in a coherent construction [@next c]. This construction is used infrequently.
 
 ::: ex
 - Er hilft ihr. \
@@ -449,7 +449,7 @@ b. Ich habe das Haus angesehen.
 
 ### *Reflexiv Resultativ* {#sec:summary-reflexiv-resultativ}
 
-The ~~Reflexiv Resultativ~~ (full discussion in [@sec:adverbial-intransitive-resultative]) is an alternation that can be used with a subset of all intransitive verbs, for example with *schlafen* 'to sleep' [@next a]. By adding a reflexive pronoun and a resultative preverbial, like *gesund* 'healthy' [@next b], the sentence expresses that the subject participant achieves a state (expressed by the preverbial) by performing an action (expressed by the verb). In other words, [@next b] means approximately 'by sleeping I will become healthy'. The combination of *gesund* with the verb *schlafen* arguably is a new separable verb *gesundschlafen* [@next c], syntactically similar to *Partikelverben* like *einschlafen*.
+The ~~Reflexiv Resultativ~~ (full discussion in [@sec:adverbial-intransitive-resultative]) is an alternation that can be used with a subset of all intransitive verbs, for example with *schlafen* 'to sleep' [@next a]. By adding a reflexive pronoun and a resultative preverbial, like *gesund* 'healthy' [@next b], the sentence expresses that the subject participant achieves a state (expressed by the preverbial) by performing an action (expressed by the verb). In other words, [@next b] means approximately 'by sleeping I will become healthy'. The combination of *gesund* with the verb *schlafen* arguably is a new separable verb *gesundschlafen* [@next c], syntactically similar to a *Partikelverb* like *einschlafen*.
 
 ::: ex
 a. Ich schlafe.

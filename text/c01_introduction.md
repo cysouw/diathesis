@@ -172,7 +172,7 @@ Already from this example it becomes clear that it is often really difficult, if
 
 First, each role that is case-marked in at least one clause-alternant is a lexeme-specific role. In the example of *füllen* in [@last], each of the three roles is marked as nominative, accusative or dative in at least one of the alternants, so all three roles are lexeme-specific. Various exceptions and stipulations to this criterion are discussed in [@sec:case-delimiting-arguments].
 
-Second, all obligatory prepositional phrases are lexeme-specific roles. Such prepositional phrases, that cannot be left out, are not very widespread in German and mostly designate a location. Some verbs always expect such a location-role [@next a,b], see e.g. [@sec:prepositions-obligatory-local] and [@sec:reflexive-obligatory-local], but more widespread are resultative diatheses that introduce an obligatory local role [@next c,d], see e.g. [@sec:prepositions-action-result].
+Second, all obligatory prepositional phrases are lexeme-specific roles. Such prepositional phrases, that cannot be left out, are not very widespread in German and mostly designate a location. Some verbs always expect such a location-role [@next a,b], see e.g. [@sec:prepositions-obligatory-local] and [@sec:reflexive-obligatory-local], but more widespread are resultative diatheses that introduce an obligatory local role [@next c,d], see e.g. [@sec:prepositions-partitive-free].
 
 ::: ex
 a. Der Stuhl befindet sich im Wohnzimmer

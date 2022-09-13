@@ -29,14 +29,15 @@ b. Die Leser kaufen den Buchladen leer.
 
 Quickly summarised, ~~Evaluatives~~ (see [@sec:adverbial-depictive-predicates]) are basically manner adverbials using an adjectival stem, like *gut* 'good' in [@last a]. They appear in valency-reducing diatheses, often with reflexive pronouns, typically resulting in intransitive constructions after the diathesis. In contrast, ~~Resultatives~~ (see [@sec:adverbial-resultative-predicates]) are adjectives that arguably make up a new verb together with the main predicate. For example, *leer* and *kaufen* form a new verb *leerkaufen* in which the first part *leer-* is separable [@last b]. This is reminiscent of verbs with preverbs like *an-* in *ankaufen* (cf. [@sec:preverbs-prefixes-particles]). Similar to preverbs, diatheses with resultatives almost always lead to a transitive construction with a nominative and an accusative argument (cf. [@sec:preverbs-always-accusative]). This parallelism reinforces the widespread impression that resultatives should be considered together with preverbs [cf. @wunderlich1997; @chang2007].^[The Duden grammar [-@duden2009: 790 ] presents *Er hält/macht den Tisch sauber* as examples of resultative adverbial constructions. However, these examples are probably better analysed as adjectival predicates with light verbs *halten* and *machen*, see the full discussion in [@sec:participles-adjectives-light-verb-constructions].]
 
-There are eight diatheses in this chapter that seem prominent enough to be given a German name. I propose the following names for these:
+There are ten diatheses in this chapter that seem prominent enough to be given a German name. I propose the following names for these:
 
 - ~~[SBJ › Ø] Wertungsverbativ~~ (see [@sec:adverbial-reflexive-drop])
 - ~~[OBJ › SBJ › Ø] Wertungsantikausativ~~ (see [@sec:adverbial-reflexive-transitive-anticausative] ff.)
 - ~~[OBJ › Ø] Aktionsfokus~~ (see [@sec:adverbial-action-focus])
 - ~~[PBJ › Ø] Resultativ Delokativ~~ (see [@sec:adverbial-antiresultative] ff.)
-- ~~[PBJ › OBJ › Ø] Resultativ Teilobjektiv~~ (see [@sec:adverbial-applicative-drop])
-- ~~[Ø › OBJ › Ø] Resultativ Ganzobjektiv~~ (see [@sec:adverbial-object-switch])
+- ~~[PBJ › OBJ › Ø] Resultativ Ganz/leer-Objekttausch~~ (see [@sec:adverbial-applicative-leer])
+- ~~[PBJ › OBJ › ADJ] Resultativ Ganz/voll-Objekttausch~~ (see [@sec:adverbial-applicative-voll])
+- ~~[Ø › OBJ › ADJ] Resultativ Teil/fest-Objekttausch~~ (see [@sec:adverbial-fest])
 - ~~[Ø › OBJ] Resultativ Akkusativ~~ (see [@sec:adverbial-object-addtion])
 - ~~[ADJ › OBJ] Resultativ Applikativ~~ (see [@sec:adverbial-applicative])
 
@@ -80,7 +81,7 @@ d. Das Flugzeug ist *nicht* gelandet.
 e. Das Flugzeug ist *wie eine Feder* gelandet.
 :::
 
-### Evaluatives vs. Depictives {#sec:adverbial-depictive-predicates}
+### Evaluatives vs. depictives {#sec:adverbial-depictive-predicates}
 
 Moreover, German ~~adjectives~~ are also frequently used in adverbial syntactic function. German adjectives are here strictly defined as stems that can be used as a noun modifier and that are placed in front of that noun, like *sicher* 'safe' in [@next a]. As an adjective, such stems show agreement with the noun, as indicated by the suffix *-e* in *sichere* [@next a]. Given a suitable context, all German adjectives can be used syntactically as adverbials. In such function, they are unmarked in German (in contrast to English, in which the suffix *-ly* is necessary) and they never show any agreement [@next b]. 
 
@@ -187,7 +188,7 @@ Combinations of *da(r)-* with prepositions mostly concern so-called correlative 
   Ich rede dazwischen.
 :::
 
-### Resultatives vs. Depictives {#sec:adverbial-resultative-predicates}
+### Resultatives vs. depictives {#sec:adverbial-resultative-predicates}
 
 There is a wide variety of adjectives that can be used as ~~resultative~~ preverbials. Highly productive resultatives in German are *leer-, voll-, tot-* and *fest-* [according to @fuhrhop2012: 79-80], e.g. *vollniesen* 'to sneeze full' [@next a]. However, many others are also attested, e.g. *still-* 'silent' in *stillschweigen* 'to silence something', *platt-* 'flat' in *plattwalzen* 'to flatten' or *schön-* 'beautiful' in *schönreden* 'to whitewash' [@next b]. Additionally, datives from raised possessors are often possible [@next b], see [@sec:case-possessor-accusative-to-dative], including subsequent reflexive constructions [@next c].
 
@@ -204,7 +205,7 @@ Such adjectival preverbials have a resultative object-oriented meaning. For exam
 - Ich schenke das Glas voll.
 :::
 
-Superficially, resultatives looks highly similar to constructions with depictive secondary predicates (see [@sec:adverbial-depictive-predicates]) as both influence the interpretation of an argument. However, the resultative turns out to be a radically different construction from the depictive. There exist even sentences that can be interpreted in both ways. For example, the adjective *leer* 'empty' in [@next] can be interpreted as a depictive, stating that the store is empty. In this interpretation the sentence has the meaning 'I have bought the store, which was empty when I bought it' [@next a]. Alternatively, it can be interpreted as a resultative with the meaning 'I have bought everything that was in the store, with the result that the store was empty afterwards' [@next b].
+Superficially, resultatives look highly similar to constructions with depictive secondary predicates (see [@sec:adverbial-depictive-predicates]) as both influence the interpretation of an argument. However, the resultative turns out to be a radically different construction from the depictive. There exist even sentences that can be interpreted in both ways. For example, the adjective *leer* 'empty' in [@next] can be interpreted as a depictive, stating that the store is empty. In this interpretation the sentence has the meaning 'I have bought the store, which was empty when I bought it' [@next a]. Alternatively, it can be interpreted as a resultative with the meaning 'I have bought everything that was in the store, with the result that the store was empty afterwards' [@next b].
 
 ::: ex
 a. Ich habe den Laden leer gekauft. \
@@ -217,7 +218,7 @@ This semantic difference is typically, though not consistently, reflected in Ger
 
 There are various diagnostic differences between the depictive [@last a] and the resultative [@last b] interpretation. First, the widespread orthographic separation for depictives (and the orthographic univerbation of resultatives) is actually a consequence of differences in the prosodic structure, with depictive *ˈleer ˈkaufen* [@llast a] having two separate stress domains, while resultative *ˈleerˌkaufen* [@llast b] has only one stress domain. For linguistically naive speakers of German this feels like there is a litte pause after depictives, but not after resultatives.
 
-Second, with some verbs the accusative object in the resultative interpretation is a completely new role for the main lexical verb, like with *leerkaufen* 'to buy' [@last]. To be precise, in the depictive interpretation [@last a], the *Laden* 'shop' is the buyee (i.e. the object of the buying). In this interpretation it is the shop itself that is being bought. In contrast, in the resultative interpretation [@last b] it is not the *Laden* 'shop' that is being bought, but the items inside the shop. The accusative object *den Laden* 'shop' is the encompassing location where the buying is taking place (see [@sec:adverbial-applicative-drop]). The addition of such a new role can lead to the introduction of accusative constituents for otherwise intransitive verbs, like *fischen* 'to fish' [@next a] or *niesen* 'to sneeze [@next b], see [@sec:adverbial-applicative]. A diagnostic corollary to this semantic interpretation is the fact that resultatives with such verbs cannot be left out [@next c,d].
+Second, with some verbs the accusative object in the resultative interpretation is a completely new role for the main lexical verb, like with *leerkaufen* 'to buy' [@last]. To be precise, in the depictive interpretation [@last a], the *Laden* 'shop' is the buyee (i.e. the object of the buying). In this interpretation it is the shop itself that is being bought. In contrast, in the resultative interpretation [@last b] it is not the *Laden* 'shop' that is being bought, but the items inside the shop. The accusative object *den Laden* 'shop' is the encompassing location where the buying is taking place (see [@sec:adverbial-applicative-leer]). The addition of such a new role can lead to the introduction of accusative constituents for otherwise intransitive verbs, like *fischen* 'to fish' [@next a] or *niesen* 'to sneeze [@next b], see [@sec:adverbial-applicative]. A diagnostic corollary to this semantic interpretation is the fact that resultatives with such verbs cannot be left out [@next c,d].
 
 ::: ex
 a. Ich habe den Teich leergefischt.
@@ -226,7 +227,7 @@ c. ^* Ich habe den Teich gefischt.
 d. ^* Ich habe das Taschentuch geniest.
 :::
 
-Third, resultative adverbials cannot occur together with verb particles. This is not just a semantic incompatibility, but also a syntactic one. The resultative adverbials syntactically take the same place in the syntax as the verb particles. For example, dictionaries of German typically include resultative constructions as complex predicates, i.e. *totschießen* 'to kill by shooting' [@next a]^[Attested at https://www.dwds.de/wb/totschießen, accessed 8 September 2022.], parallel to verbs with particles like *abschießen* 'to shoot down' [@next b]^[Attested at https://www.dwds.de/wb/abschießen, accessed 8 September 2022]. Trying to combine both resultative adverbials and verb particles is not possible [@next c]. In contrast, with evaluatives [@next d] and depictives [@next e] there is no problem combining them with verb particles.
+{#par:preverb-incompatability} Third, resultative adverbials cannot occur together with verb particles. This is not just a semantic incompatibility, but also a syntactic one. The resultative adverbials syntactically take the same place in the syntax as the verb particles. For example, dictionaries of German typically include resultative constructions as complex predicates, i.e. *totschießen* 'to kill by shooting' [@next a]^[Attested at https://www.dwds.de/wb/totschießen, accessed 8 September 2022.], parallel to verbs with particles like *abschießen* 'to shoot down' [@next b]^[Attested at https://www.dwds.de/wb/abschießen, accessed 8 September 2022]. Trying to combine both resultative adverbials and verb particles is not possible [@next c]. In contrast, with evaluatives [@next d] and depictives [@next e] there is no problem combining them with verb particles.
 
 ::: ex
 - Der Jäger hat den Wolf totgeschossen.
@@ -249,7 +250,7 @@ Fourth, depictives can both refer to nominative subjects [@next a] and to accusa
   (= Ich bin wieder gesund.)
 :::
 
-Finally, participles can be used as depictives [@next a,b], see also [@sec:participles-secondary-predicates]. In contrast, participles never function as resultatives [@next c]. 
+Finally, participles like *gereinigt* 'cleaned' are an adjectival from of a verb. As such they can be used as depictives [@next a,b], see [@sec:participles-secondary-predicates]. In contrast, participles never function as resultatives [@next c]. 
 
 ::: ex
 a. Ich habe den Laden gereinigt gekauft. 
@@ -259,14 +260,18 @@ c. ≠ Ich habe etwas im Laden gekauft mit dem Resultat, dass der Laden gereinig
 
 ### Summary of resultative constructions {#sec:adverbial-resultative-summary}
 
-In this chapter I will discuss examples with the resultatives *fest, fern, fertig, frei, gesund, glücklich, gut, heiß, kaputt, klein, leer, los, nass, platt, reich, sauber, satt, schlapp, schön, still, tot, trocken, voll, wach* and *wund*. However, this list is by no means supposed to be exhaustive. Quite to the contrary, there does not appear to be any syntactic restriction on which adjectives can be used as a resultative preverbial, although semantically there are of course restrictions. For example, colour resultatives appear to be rare (though note *schwarzmalen* 'doomsaying'), but this can also just be a sign of my restricted imagination.
+In this chapter I will discuss examples with the resultatives *fest, fern, fertig, frei, gesund, glücklich, gut, heiß, kaputt, klein, leer, los, nass, platt, reich, sauber, satt, schlapp, schön, still, tot, trocken, voll, wach* and *wund*. However, this list is by no means supposed to be exhaustive. Quite to the contrary, there does not appear to be any syntactic restriction on which adjectives can be used as resultative preverbials, although semantically there are of course restrictions. For example, colour resultatives appear to be rare (though note *schwarzmalen* 'doomsaying').
 
 There a four major resultative constructions. These 'major four' constructions occur frequently and they are attested with a wide variety of resultative adjectives. All other resultative constructions (as discussed below) only allow for just a few special resultative adjectives. Not so with the 'major four'. The 'major four' resultative constructions are the following:
 
-- *Reflexiv Resultativ* without diathesis ~~[N | N]~~, for example [@next a] with *sich gesundschlafen* 'to heal by sleeping' ([@sec:adverbial-intransitive-resultative]).
-- *Transitiv Resultativ* without diathesis ~~[NA | NA]~~, for example [@next b] with *gesundpflegen* 'to heal by nursing' ([@sec:adverbial-transitive-resultative]).
-- *Resultativ Applikativ* with an applicative diathesis ~~[N~p~ | NA]~~, for examples [@next c] with *gesundbeten* 'to heal by praying' ([@sec:adverbial-applicative]).
-- *Resultativ Akkusativ* with an objective diathesis ~~[N– | NA]~~, for example [@next d] with *gesundhexen* 'to heal by magic' ([@sec:adverbial-object-addtion]).
+- *Reflexiv Resultativ*, a construction without diathesis ~~[N | N]~~ \
+  ([@sec:adverbial-intransitive-resultative]), e.g. *sich gesundschlafen* 'to heal by sleeping' [@next a].
+- *Transitiv Resultativ*, a construction without diathesis ~~[NA | NA]~~ \
+  ([@sec:adverbial-transitive-resultative]), e.g. *gesundpflegen* 'to heal by nursing' [@next b].
+- *Resultativ Applikativ*, a construction with an applicative diathesis ~~[N~p~ | NA]~~ \
+  ([@sec:adverbial-applicative]), e.g. *gesundbeten* 'to heal by praying' [@next c].
+- *Resultativ Akkusativ*, a construction with an objective diathesis ~~[N– | NA]~~ \
+  ([@sec:adverbial-object-addtion]), e.g. *gesundhexen* 'to heal by magic' [@next d].
 
 ::: ex
 - Sie schläft. \
@@ -279,46 +284,68 @@ There a four major resultative constructions. These 'major four' constructions o
   Milingo wird vorgeworfen, […] Kranke gesundgehext zu haben.^[Attested online at https://www.spiegel.de/politik/giftige-blume-a-003fa8d4-0002-0001-0000-000014353984, accessed 8 September 2022.]
 :::
 
-There are six special resultative adjectives, in alphabetical order: *fest-* 'firm', *frei-* 'free', *leer-* 'empty', *los-* 'loose', *voll-* 'full' and *weiter-* 'further'. Of all the dozens (possibly hundreds) of German adjectives that can be used in resultative constructions, it is only these six adjectives that can be used to create constructions other than the 'major four'. These six resultatives also can occur in the four major constructions, but besides those four there is a long list of further resultative constructions that are all put together with just these six resultative adjectives. Note that there are also a few idiosyncratic diatheses with *satt-* 'well-fed' ([@sec:adverbial-antipassive-reflexive]) and *wund-* 'wounded' ([@sec:adverbial-reflexive-location-drop]). However, these do not (yet) seem to be as productive as the 'special six'. The 'special six' occur in pairs of related meaning (similar to the directionals in [@sec:adverbial-directionals]) in the following constructions:
+There are six special resultative adjectives, in alphabetical order: *fest-* 'firm', *frei-* 'free', *leer-* 'empty', *los-* 'loose', *voll-* 'full' and *weiter-* 'further'. Of all the dozens (possibly hundreds) of German adjectives that can be used in resultative constructions, it is only these six adjectives that can be used to create constructions other than the 'major four'. These 'special six' resultatives also occur regularly in the 'major four' constructions, but besides those occurrences there is a long list of further resultative constructions that are all put together with just these six resultative adjectives. Note that there are also idiosyncratic diatheses with *satt-* 'well-fed' ([@sec:adverbial-antipassive-reflexive]) and *wund-* 'wounded' ([@sec:adverbial-reflexive-location-drop]). However, these do not (yet) seem to be as productive as the 'special six'. The 'special six' appear to become more like directionals and less like regular adjectival resultatives (cf. [@sec:adverbial-directionals]). They occur in the following constructions:
 
-- *los/fest-* in the meaning 'attach/detach something' is used with remapping:
-  -  ~~[N | N]~~ i.e. no diathesis, with verbs describing a natural process, e.g. *festrosten* 'to rust into' ([@sec:adverbial-natural-process]).
-  -  ~~[NAL | NA–]~~ i.e. a delocative diathesis, with verbs of attachment/detachment, e.g. *losbinden* 'to untie' ([@sec:adverbial-antiresultative]).
-- *frei/fest-* in the meaning 'release/fixate something' is used with remapping:
-  -  ~~[NL | N–]~~ i.e. a delocative diathesis, with verbs of position, e.g. *festsitzen* 'to be stuck' ([@sec:adverbial-location-drop])
-  -  ~~[NA– | N–A]~~ i.e. a chained-objective diathesis, with verbs of release/fixation, e.g. *festnähen* to attach by stitching' ([@sec:adverbial  object-switch]).
-- *voll/leer-* in the meaning 'fill/empty something' is used with remapping:
-  -  ~~[NL | ~p~N]~~ i.e. a locational-passive diathesis, with alluvial verbs, e.g. *vollsickern* 'to trickle full' ([@sec:adverbial-location-anticausative]).
-  -  ~~[NLA | NA–]~~ i.e. a chained-deobjective diathesis, with verbs moving objects into/out of a container, e.g. *leerpumpen* 'to pump empty'  ([@sec:adverbial-applicative-drop]).
-- *los/weiter-* in the meaning 'start/continue an action' is used with remapping:
-  -  ~~[N | N]~~ i.e. no diathesis, with intransitive verbs, e.g. *losrennen* 'to start running' ([@sec:adverbial-inchoative-los]) and *weiterrennen*   'to continue running' ([@sec:adverbial-continuative-weiter]).
-  -  ~~[NA | NA]~~ for *weiter-*, i.e. no diathesis, with transitive verbs, e.g. *weiterbauen* 'to proceed building'([@sec:adverbial-continuative-weiter]).
-  -  ~~[NA | N~p~]~~ for *los-*, i.e. an antipassive diathesis, with verbs of attacking, e.g. *loshauen* 'to start bashing' ([@sec:adverbial-antipassive]).
-- *los-* in the meaning 'cause something to start moving' is used with remapping: 
-  -  ~~[NAL | NA–]~~ i.e. a delocative diathesis, with verbs of sending, e.g. *losschicken* 'to send off' ([@sec:adverbial-antiresultative]).
-- *weiter-* in the meaning 'to pass something on' is used with remapping:
-  -  ~~[NAD | NA~p~]~~ i.e. a dative antipassive diathesis, with ditransitive verbs with a recipient, e.g. *weitererzählen* 'to pass on'  ([@sec:adverbial-dative-antipassive]).
+- *los/fest-* in the meaning 'to detach/attach' is used with remapping:
+  - ~~[N | N]~~ no diathesis with verbs describing a natural process \
+    e.g. *festrosten* 'to rust into' ([@sec:adverbial-natural-process]).
+  - ~~[NAL | NA–]~~ a delocative diathesis with verbs of attachment/detachment \
+    e.g. *losbinden* 'to untie' ([@sec:adverbial-antiresultative]).
+- *fest-* in the meaning 'to fixate' is used with remapping:
+  - ~~[NL | N–]~~ a delocative diathesis with verbs of position \
+    e.g. *festsitzen* 'to be stuck' ([@sec:adverbial-location-drop]).
+  - ~~[NA– | N–A]~~ a chained-objective diathesis with verbs of fixation \
+    e.g. *festnähen* 'to attach by stitching' ([@sec:adverbial  object-switch]).
+- *voll/leer-* in the meaning 'to fill/empty' is used with remapping:
+  - ~~[NL | ~p~N]~~ a locational-passive diathesis with alluvial verbs \
+    e.g. *vollsickern* 'to trickle full' ([@sec:adverbial-location-anticausative]).
+  - ~~[NLA | NAp]~~ with *voll-*: an object exchange with verbs of filling \
+    e.g. *vollschenken* 'to pour until full' ([@sec:adverbial-applicative-voll]).
+  - ~~[NLA | NA–]~~ with *leer-*: an object exchange with verbs of emptying \
+    e.g. *leerpumpen* 'to pump until empty' ([@sec:adverbial-applicative-leer]).
+- *frei-* in the meaning 'to uncover' is used with remapping:
+  - ~~[NAL | NA–]~~ a delocative diathesis with verbs of digging \
+    e.g. *freigraben* 'to uncover by digging' ([@sec:adverbial-antiresultative]).
+  - ~~[NLA | NA–]~~ an object exchange diathesis with verbs of sweeping \
+    e.g. *freifegen* 'to uncover by brushing' ([@sec:adverbial-applicative-leer]).
+- *los/weiter-* in the meaning 'to start/continue' is used with remapping:
+  - ~~[N | N]~~ no diathesis with intransitive verbs \
+    e.g. *losrennen* 'to start running' ([@sec:adverbial-inchoative-los]) \
+    e.g. *weiterrennen* 'to continue running' ([@sec:adverbial-continuative-weiter]).
+  - ~~[NA | NA]~~ with *weiter-*: no diathesis with transitive verbs \
+    e.g. *weiterbauen* 'to proceed building' ([@sec:adverbial-continuative-weiter]).
+  - ~~[NA | N~p~]~~ with *los-*: an antipassive diathesis with verbs of attacking \
+    e.g. *loshauen* 'to start bashing' ([@sec:adverbial-antipassive]).
+- *los-* in the meaning 'to cause to start moving' is used with remapping: 
+  - ~~[NAL | NA–]~~ a delocative diathesis with verbs of sending \
+    e.g. *losschicken* 'to send off' ([@sec:adverbial-antiresultative]).
+- *weiter-* in the meaning 'to pass on' is used with remapping:
+  - ~~[NAD | NA~p~]~~ a dative antipassive diathesis with verbs with a recipient \
+    e.g. *weitererzählen* 'to pass on' ([@sec:adverbial-dative-antipassive]).
 
 There are various syntactic parallels between resultative constructions and other diatheses discussed previously in this book. These parallels come in two different guises. First, resultative adjectives are closely related to directionals, like *weg-* 'away' or *zurück-* 'back', which are in turn closely related to local prepositional phrases (see [@sec:adverbial-directionals]). Accordingly, some resultatives take the same syntactic position as locational prepositional phrases. The most important such parallels are listed in [@tbl:resultative-local]. Note that it is exactly the "L" in the locational remapping on the right side of the table that is absent in the resultative remapping on left side of the table.
 
-|                            Resultative                             |    Remapping     |                                       Compare to                                       |    Remapping     |
-| :----------------------------------------------------------------: | :--------------: | :------------------------------------------------------------------------------------: | :--------------: |
-| *Reflexiv Resultativ* ([-@sec:adverbial-intransitive-resultative]) |   ~~[N \| N]~~   |             *Reflexiv Bewegungsart* ([-@sec:reflexive-manner-of-movement])             |  ~~[N– \| NL]~~  |
+|                            Resultative                             |    Remapping     |                                        Compare to                                         |    Remapping     |
+| :----------------------------------------------------------------: | :--------------: | :---------------------------------------------------------------------------------------: | :--------------: |
+|           *Inchoativ* ([-@sec:adverbial-inchoative-los])           |   ~~[N \| N]~~   |                 *Bewegungsart* ([-@sec:prepositions-manner-of-movement])                  |  ~~[N– \| NL]~~  |
+|       *Kontinuativ* ([-@sec:adverbial-continuative-weiter])        |   ~~[N \| N]~~   |                 *Bewegungsart* ([-@sec:prepositions-manner-of-movement])                  |  ~~[N– \| NL]~~  |
+| *Reflexiv Resultativ* ([-@sec:adverbial-intransitive-resultative]) |   ~~[N \| N]~~   |              *Reflexiv Bewegungsart* ([-@sec:reflexive-manner-of-movement])               |  ~~[N– \| NL]~~  |
 | *Transitiv Resultativ* ([-@sec:adverbial-transitive-resultative])  |  ~~[NA \| NA]~~  |   *Transitiv Verursachte Bewegung* ([-@sec:prepositions-transitive-location-as-result])   | ~~[NA– \| NAL]~~ |
 |     *Resultativ Akkusativ* ([-@sec:adverbial-object-addtion])      |  ~~[N– \| NA]~~  | *Intransitiv Verursachte Bewegung* ([-@sec:prepositions-intransitive-location-as-result]) | ~~[N–– \| NAL]~~ |
-|    *Resultativ Teilobjektiv* ([-@sec:adverbial-object-switch])     | ~~[NA– \| N–A]~~ |                  *Teilobjektiv* ([-@sec:prepositions-action-result])                   | ~~[NA– \| NLA]~~ |
 
-Table: Constructions in which the resultativ adjective is syntactically like a local prepositional phrase {#tbl:resultative-local}
+Table: Resultativ adjective is syntactically like a local prepositional phrase. {#tbl:resultative-local}
 
 Second, resultative adjectives are closely related to preverbs, like *ver-* or *an-* (see Chapter [-@sec:preverbs]). Accordingly, some resultatives take the same syntactic position as preverbs, as summarised in [@tbl:resultative-preverb]. Note that these parallels concern the structure of the diathesis in general. It is not necessarily the case that each resultative+verb combination has a parallel preverb+verb combination.
 
-|                          Resultative                           |    Remapping     |                            Compare to                             |    Remapping     |
-| :------------------------------------------------------------: | :--------------: | :---------------------------------------------------------------: | :--------------: |
-| *Resultativ Ganzobjektiv* ([-@sec:adverbial-applicative-drop]) | ~~[NLA \| NA–]~~ | *Präverb Ganzobjektiv* ([-@sec:preverb-location-antiresultative]) | ~~[NLA \| NA–]~~ |
-|   *Resultativ Delokativ* ([-@sec:adverbial-antiresultative])   | ~~[NAL \| NA–]~~ | *Präverb Delokativ* ([-@sec:preverb-transitive-antiresultative])  | ~~[NAL \| NA–]~~ |
-|    *Resultativ Applikativ* ([-@sec:adverbial-applicative])     | ~~[N~p~ \| NA]~~ |        *Präverb Applikativ* ([-@sec:preverb-applicative])         |  ~~[N~p~ \| NA]~~  |
+|                               Resultative                                |     Remapping      |                                  Compare to                                   |      Remapping       |
+| :----------------------------------------------------------------------: | :----------------: | :---------------------------------------------------------------------------: | :------------------: |
+|         *Resultativ Applikativ* ([-@sec:adverbial-applicative])          |  ~~[N~p~ \| NA]~~  |              *Präverb Applikativ* ([-@sec:preverb-applicative])               |   ~~[N~p~ \| NA]~~   |
+|        *Resultativ Delokativ* ([-@sec:adverbial-antiresultative])        |  ~~[NAL \| NA–]~~  |       *Präverb Delokativ* ([-@sec:preverb-transitive-antiresultative])        |   ~~[NAL \| NA–]~~   |
+| *Resultativ Ganz/leer-Objekttausch* ([-@sec:adverbial-applicative-leer]) |  ~~[NLA \| NA–]~~  |  *Präverb Ganz/leer-Objekttausch* ([-@sec:preverb-location-antiresultative])  |   ~~[NLA \| NA–]~~   |
+| *Resultativ Ganz/voll-Objekttausch* ([-@sec:adverbial-applicative-voll]) | ~~[NLA \| NA~p~]~~ |  *Präverb Ganz/voll-Objekttausch* ([-@sec:preverb-applicative-antipassive])   |  ~~[NLA \| NA~p~]~~  |
+|       *Resultativ Teil/fest-Objekttausch* ([-@sec:adverbial-fest])       | ~~[N–A \| NA~p~]~~ | *Präverb Teil/fest-Objekttausch* ([-@sec:preverb-applicative-in-antipassive]) | ~~[N~p~A \| NA~p~]~~ |
 
-Table: Constructions in which the resultativ adjective is syntactically like a preverb {#tbl:resultative-preverb}
+Table: Resultativ adjective is syntactically like a preverb. {#tbl:resultative-preverb}
 
 ## Deponent verbs without alternations
 
@@ -501,7 +528,7 @@ Because there is no nominative argument in this special construction with *gehen
 
 ### [ N | – ] Nominative drop+evaluative {#sec:adverbial-nominative-drop}
 
-Some verbs with obligatory adverbial allow the presence or absence of a nominative subject, like with *aussehen* 'to appear' [@next a,b]. The pronoun *es* is valency-simulating for the nominative subject (see [@sec:intro-es]). Whether this is better interpreted as the loss or the addition of an agent is unclear. These verbs need an additional manner adverbial, negation, or *wie* comparison clause. 
+Some verbs with an obligatory adverbial allow for the presence or absence of a nominative subject, like with *aussehen* 'to appear' [@next a,b]. The pronoun *es* is valency-simulating for the nominative subject (see [@sec:intro-es]). Whether this is better interpreted as the loss or the addition of an agent is unclear. These verbs need an additional manner adverbial, negation, or *wie* comparison clause. 
 
 ::: ex
 - Er sieht gut aus.
@@ -522,33 +549,34 @@ Some verbs with obligatory adverbial allow the presence or absence of a nominati
 
 ## Alternations without diathesis {#sec:adverbial-no-diathesis}
 
-Adverbials are a regular part of German grammar. In all German sentences there are many different possibilities to add such adverbials and it is of course extremely common for such an adverbial to be added without any change in valency. That is actually the 'normal' situation with adverbials as illustrated with *schnell* 'quickly' in [@next]. This will not further be considered here.
+Adverbials are a regular part of German grammar. There are many different possibilities to add such adverbials to all German sentences, and it is of course extremely common for such an adverbial to be added without any change in valency. That is actually the 'normal' situation with adverbials as illustrated with *schnell* 'quickly' in [@next]. This will not further be considered here.
 
 ::: ex
 a. Ich fahre nach Hause.
 b. Ich fahre schnell nach Hause.
 :::
 
-The situation is more interesting with preverbials. First, the addition of a resultative adjectival preverbial regularly leads to a diathesis (as discussed throughout this chapter), but there also exist a few highly productive patterns in which the addition of a resultative does not result in a diathesis. They will be discussed in this section. Second, there are two adjectival preverbials that are not resultatives, namely *los-* and *weiter-*. The addition of these preverbials has a temporal interpretation and will be discussed here under the heading of 'aspect'.
+The situation is more interesting with preverbials. First, there are two adjectival preverbials that are not resultatives, namely *los-* and *weiter-*. These preverbials have an temporal aspectual interpretation. Second, although the addition of a resultative adjectival preverbial regularly leads to a diathesis (see the summary in [@sec:adverbial-resultative-summary]), there also exist a few highly productive patterns in which the addition of a resultative does not trigger a diathesis. 
 
-### --- Aspect --- {.unnumbered}
+### --- Temporal aspect --- {.unnumbered}
 
 ### *los-* Inchoative (*Inchoativ*) {#sec:adverbial-inchoative-los}
 
-=> Inchoativ Aspect!!!
-=> transitive detachment [@sec:adverbial-antiresultative] becomes intransitive inchoative 
-=> preverbs are still not possible
-
-An early summary of this phenomenon is given by Storch [-@storch1978: 113-126]
-
-Different from the verbs in the previous sections, some intransitive verbs like *rennen* 'to run' allow for a secondary predicate without any other structural changes, resulting for example in *losrennen* 'to start running' [@next]. I consider this to be a resultative adverb because of the parallelism to the applicative diathesis in [@sec:adverbial-applicative].
+The preverbial *los-* can be used without any diathesis. It then indicates that an activity is starting, i.e. is marks an inchoative aspect, like with *losrennen* 'to start running' [@next a]. An early discussion of this inchoative aspect is presented by Storch [-@storch1978: 113-126]. This inchoative *los-* is clearly different from a diathesis marking 'detachment' that is also marked with *los-* [@next b]. This diathesis is discussed in detail in [@sec:adverbial-antiresultative]. Diachronically, both uses of the preverbial *los-* are related to an older meaning of the adjective *los*, namely 'free'. In contemporary German the adjective *los* basically means 'loose', which is not transparently related anymore to an inchoative meaning.
 
 ::: ex
-a. Der Junge rennt.
-b. Der Junge rennt los.
+a. Der Junge rennt. \
+   Der Junge rennt los.
+b. Der Junge bindet den Hund los.
 :::
 
-An additional affect of this alternation is that the agentive *rennen* becomes a patientive *losrennen* [@next], see also [@sec:participles-restrictions].
+The inchoative preverbial *los-* occurs typically with intransitive verbs. To obtain a better indication of the kind of verbs with which the continuative *los-* is used, I classified the examples listed in the ~~DWDS~~ dictionary to obtain the list of attested verbs below (with only a few haphazard additions of my own).^[Attested on https://www.dwds.de/wb/los-, accessed 3 September 2022.] One central restriction is that preverbs (like *ver-* or *auf-*) cannot be combined with *los-*. This incompatibility is consistent with the general complementary distribution of adjectival preverbials and preverbs (see [@par:preverb-incompatability]).
+
+Further, it is astonishing how many manner-of-movement verbs (like *hetzen, krabbeln, marschieren*) and manner-of-speaking verbs (like *brüllen, kichern, schwatzen*) are mentioned in the dictionary. The *los-* inchoative is surely not limited to these kinds of verbs, as other intransitives are clearly attested as well (like *lachen, arbeiten, spucken*). However, for some reason acts of movement and speaking stand out to a lexicographer collecting data about *los-*. 
+
+There appears to be a strong overlap between the intransitive verbs that allow for *los-* and agentive intransitives ('unergative verbs', see [@sec:participles-restrictions]). The overlap is not perfect but robust. Contradicting this generalisation, various verbs have a *sein* perfect (see [@sec:participles-sein-perfect]), e.g. *fliehen, fließen, gehen, gleiten, schreiten, steigen, stolpern, strömen, traben*. However, only very few allow for an attributive participle (see [@sec:participles-adnominal-usage]), namely *fliehen, fließen, stolpern*, and even fewer do not allow an impersonal passive (see [@sec:participles-werden-impersonal-passive]), namely *fließen* and *strömen*.
+
+Additionally, for the manner-of-movement verbs only, the inchoative *los-* converts an agentive intransitive like *rennen* 'to run' into a patientive *losrennen* 'to start running' (cf. [@sec:participles-restrictions]). For example, *rennen* takes a *haben* perfect and the participle cannot be used attributively [@next a]. A *sein* perfect and an attributive participle are only possible after an manner-of-movement diathesis [@next b], see [@sec:prepositions-manner-of-movement]. In contrast, *losrennen* takes a *sein* perfect and allows for an attributive participle [@next c].
 
 ::: ex
 a. Der Junge hat gerannt. \
@@ -559,11 +587,7 @@ b. Der Junge ist losgerannt. \
    Der losgerannte Junge […].
 :::
 
-typically manner-of-movement and manner-of-speaking, cf. [@sec:case-accusative-addition]
-
-It appears to be still highly unusual for the inchoative prefix *los-* to occur with verbs that are not strictly intransitive.
-
-With transitive verbs, like *schreiben* 'to write' [@next a], *lesen* 'to read' [@next b] or *bauen* 'to build' [@next c], the inchoative *los* is only possible in constructions without any accusative object present.
+With transitive verbs, like *schreiben* 'to write' [@next a], *lesen* 'to read' [@next b] or *bauen* 'to build' [@next c], the inchoative *los-* is only possible in constructions without any accusative object present. In such context they basically function as intransitive verbs.
 
 ::: ex
 - Dark schreibt los, das Klappern der Maschine erfüllt das Dachgeschoss.^[~~DWDS~~: Der Tagesspiegel, 15.12.2004.]
@@ -571,37 +595,46 @@ With transitive verbs, like *schreiben* 'to write' [@next a], *lesen* 'to read' 
 - Gleich als der nächste Tag graute, baute er los.^[~~DWDS~~: Berliner Zeitung, 22.06.1996.]
 :::
 
-With transitive 'manner-of-attack' verbs
-
-=> antipassive with agression verbs see [@sec:adverbial-antipassive]
+Further, there are a two kinds of transitive verbs that allow for continuative *los-*, but they additionally induce a diathesis. First, with transitive 'manner-of-attack' verbs, like *hauen* 'to bash' [@next a], the addition of a *los-* is clearly continuative: *loshauen* means 'starting to bash' [@next b]. However, the addition of *los-* with these verbs results in an antipassive diathesis, as the accusative *ihn* [@next a] becomes an optional *auf* prepositional phrase [@next b]. The result is that *loshauen* is basically an intransitive verb. These examples are discussed in detail in [@sec:adverbial-antipassive].
 
 ::: ex
 - Er haut ihn.
 - Er haut auf ihn los.
 :::
 
-=> with accusative: detachment->onwards see [@sec:adverbial-antiresultative]
-=> sort-of causative? Causing something to move somewhere. Crucially: it is the object that is getting the inchoative aspect!!!
+Second, transitive verbs that cause an object to move can be combined with inchoative *los-*, like with *schicken* 'to send' [@next a]. The preverbial *los-* replaces a directional location phrase in such examples [@next b]. This delocative diathesis is discussed in detail in [@sec:adverbial-antiresultative]. Crucially, it is the accusative object that is affected by the inchoative aspect, i.e. it is the accusative object (*Brief* 'letter') that starts moving, not the nominative subject (*Mädchen* 'girl').
 
 ::: ex
-- Ich schicke den Brief nach Amerika.
-- Ich schicke den Brief los.
+- Das Mädchen schickt den Brief nach Amerika.
+- Das Mädchen schickt den Brief los.
 :::
 
-based to a large extent on the examples from https://www.dwds.de/wb/los-
+The same 'object-inchoative' effect can be observed with intransitive verbs after a caused-movement diathesis (see [@sec:prepositions-intransitive-location-as-result]). For example, the intransitive *hetzen* 'to rush' can be used with a regular intransitive inchoative *los-*, resulting in *loshetzen* meaning 'to start rushing' [@next a]. However, with a caused-movement diathesis [@next b] the verb *loshetzen* means 'to cause somebody to start rushing' [@next c,d].
+
+::: ex
+- Die Tiere hetzen los.^[~~DWDS~~: Die Zeit, 19.02.2011, Nr. 7.]
+- Ich hetze die Tiere in den Wald.
+- Ich hetze die Tiere los.
+- Die serbische Spezialpolizei […] hetzte uns dann los, niemand wußte, wohin.^[~~DWDS~~: Der Tagesspiegel, 10.08.1999.]
+:::
 
 **Attested Verbs**
 
-- Manner of movement: *düsen, gehen, fliegen, flitzen, hetzen, krabbeln, krähen, laufen, marschieren, pesen, preschen, radeln, rasen, reiten, rennen, sausen, schwimmen, schwirren, schnellen, segeln, spazieren, springen, stampfen, stürmen, tanzen, tigern, traben*
+- Manner of movement: *düsen, gehen, fliegen, fließen, flitzen, gleiten, hetzen, krabbeln, krähen, laufen, marschieren, pesen, preschen, radeln, rasen, reiten, rennen, sausen, schreiten, schwimmen, schwirren, schnellen, segeln, spazieren, springen, stampfen, stolpern, strömen, stürmen, tanzen, tigern, traben*
 - Manner of speaking: *bellen, brüllen, donnern, feuern, fluchen, grölen, heulen, keifen, kichern, knurren, platzen, posaunen, prasseln, prusten, rattern, reden, schießen, schimpfen, schnattern, schreien, schwatzen, sprechen, sprudeln, wettern, wetzen, zetern*
-- Bodily process: *husten, lachen, pinkeln, spucken, weinen*
+- Bodily process: *husten, lachen, pinkeln, spucken, stinken, weinen*
 - Intransitive activity: *arbeiten, ballern, hämmern, knattern, schmettern*
+- Transitives without accusatives: *bauen, lesen, schreiben*, etc.
 
 **Further Examples**
 
 - Endlich hustet er los.^[~~DWDS~~: Johnson, Uwe: Jahrestage, Bd. 1, Frankfurt a. M.: Suhrkamp 1970, S. 132.]
 - Ein Schauspieler holt seinen Pimmel raus und pinkelt los, echt.^[~~DWDS~~: Die Zeit, 17.12.2009, Nr. 52.]
 - Da spuckt die Maschine wieder los.^[~~DWDS~~: Die Zeit, 25.05.2009 (online).]
+- Der Blonde zuckte die Achseln und stieg los.^[~~DWDS~~: Die Zeit, 26.04.1951, Nr. 17.]
+- Und dann fließt der Autoverkehr los.^[~~DWDS~~: Die Zeit, 03.11.2005, Nr. 45.]
+- Was kann ich aber machen damit [die Mäuse] nicht gleich wieder losstinken?^[Attested online at https://forum.mausebande.com/index.php?threads/nasen-stinken-d.25969/, accessed 9 September 2022.]
+- Alarmanlagen sorgen dafür, dass Einbrecher losfliehen.^[Attested online at https://www.heimwerk24.de/effektiv-vor-einbruch-schuetzen-12-wertvolle-tipps-tricks/, accessed 9 September 2022.]
 
 ### *weiter-* Continuative (*Kontinuativ*) {#sec:adverbial-continuative-weiter}
 
@@ -644,11 +677,11 @@ As an aside, there is also a 'pure' adverb *weiter* with various slightly differ
   (= Bücher werden *weiterhin* gelesen.)
 :::
 
-To obtain an indication of the kind of verbs with which the continuative *weiter-* is used, I classified the examples listed in the DWDS dictionary.^[Attested on https://www.dwds.de/wb/weiter-, accessed 3 September 2022.] Manner-of-movement verbs are quite frequent, probably because this is the class of verbs with which the temporal interpretation originated. However, other kinds of verbs are likewise widespread. So, different from inchoative *los-* as discussed previously ([@sec:adverbial-inchoative-los]), it appears that continuative *weiter-* can basically be used with all verbs as long as it makes sense semantically to continue the activity as described by the verb.
+To obtain an indication of the kind of verbs with which the continuative *weiter-* is used, I classified the examples listed in the ~~DWDS~~ dictionary.^[Attested on https://www.dwds.de/wb/weiter-, accessed 3 September 2022.] Manner-of-movement verbs are quite frequent, probably because this is the class of verbs with which the temporal interpretation originated. However, other kinds of verbs are likewise widespread, including transitive verbs. Similar to inchoative *los-* as discussed previously ([@sec:adverbial-inchoative-los]), with intransitive verbs it seems like continuative *weiter-* is basically used with agentive intransitives ('unergative verbs', see [@sec:participles-restrictions]).
 
 Among the transitive verbs listed below there are various verbs that also have preverbs, like *ver-* in *weiterverfolgen* 'to continue pursuing' or *weiterverarbeiten* 'to continue processing'. Resultative adjectives cannot be used together with preverbs (see [@sec:adverbial-resultative-predicates]), so this again indicates that *weiter-* is grammaticalising into an aspect marker. However, there are still strong restrictions on such *weiter*+preverb combinations. First, only verb prefixes appear to be possible (e.g. *be-* or *ver-*). Verb particles are not attested (e.g. *an-* or *auf-*). Second, most attested examples are strongly lexicalised, like *weiterverwenden* 'to continue using', which is not transparently related anymore to *wenden* 'to turn'.
 
-With ditransitive verbs, like *empfehlen* 'to recommend' [@next a], the preverbial *weiterempfehlen* [@next b] has a slightly different semantics. It means approximately 'to repeat the recommendation'. Also, the dative recipient is remapped to an *an* prepositional phrase (i.e. dative antipassive). For these reasons I consider this to be a different construction that will be discussed in [@sec:adverbial-dative-antipassive].
+With ditransitive verbs, like *empfehlen* 'to recommend' [@next a], the preverbial *weiterempfehlen* [@next b] has a slightly different semantics. It means approximately 'to repeat the recommendation to somebody else'. Also, the dative recipient is remapped to an *an* prepositional phrase (i.e. dative antipassive). For these reasons I consider this to be a different construction that will be discussed in [@sec:adverbial-dative-antipassive].
 
 ::: ex
 - Ich empfehle dir diesen Kuchen.
@@ -663,18 +696,21 @@ With ditransitive verbs, like *empfehlen* 'to recommend' [@next a], the preverbi
 - Intransitive activity: *arbeiten, blättern, bohren, denken, drehen, essen, feiern, forschen, fragen, fressen, kramen, kämpfen, qualifizieren, qualmen, rauchen, reden, regieren, saufen, schießen, singen, spielen, streiken, studieren, trinken, verhandeln, winken, zechen*
 - Transitive: *bauen, bearbeiten, befördern (transportieren), beschäftigen, betreiben, bewegen, braten, bringen, entwickeln, führen, helfen, lesen, schieben, schleppen, schreiben, sehen, verarbeiten, verbreiten, verfolgen, verwenden, verwerten, zahlen*
 
-### --- Resultative --- {.unnumbered}
+### --- Resultatives without diathesis --- {.unnumbered}
 
-### [ N | N ] Reflexive intransitive+resultative (*Reflexiv Resultativ*) {#sec:adverbial-intransitive-resultative}
+### [ N | N ] Reflexive intransitive resultative (*Reflexiv Resultativ*) {#sec:adverbial-intransitive-resultative}
 
-There is a special construction that apparently only exists for some intransitive verbs, like *schlafen* 'to sleep' [@next a]. The verb is combined with a reflexive pronoun and a resultative adverbial. The meaning of this construction approximately amounts to 'by performing the verb, the adverbial characteristic is achieved' [@next b].
+There is a special construction that apparently only exists for some intransitive verbs, like *schlafen* 'to sleep' [@next a]. The verb is combined with a reflexive pronoun and a resultative adjective. The meaning of this construction approximately amounts to 'by performing the verb, the adverbial characteristic is achieved' [@next b]. There is no role-remapping in this alternation, so this is no diathesis. The alternation is clearly related to the reflexive manner-of-movement diathesis [@next c], see [@sec:reflexive-manner-of-movement]. Instead of a locational phrase (*nach New York*), the current construction uses a resultative adjective (*gesund*).
 
 ::: ex
-- Ich schlafe mich gesund.
-- (= Ich schlafe, und dadurch bin ich gesund.)
+- Ich schlafe.
+- Ich schlafe mich gesund. \
+  (= Ich schlafe, und dadurch bin ich gesund.)
+- Ich träume. \
+  Ich träume mich nach New York.
 :::
 
-The intransitive verbs that allow this seem to be strongly related to the agentive class of intransitive (see [@sec:participles-restrictions]), while typical patientive intransitives are not possible in this construction [@next], though note constructions like [@next c,d].
+There are many different adjectives attested in this construction. The few examples listed below are only illustrative and are in no way intended to be an exhaustive survey. It seems like possible adjectives are only bound by a speaker's imagination. In contrast, the intransitive verbs that allow for this construction are clearly restricted. They are strongly related to the agentive class of intransitive (see [@sec:participles-restrictions]). Typical patientive intransitives are not possible in this construction, like *scheitern* 'to fail' [@next a] or *wachsen* 'to grow' [@next b], though note constructions like [@next c,d].
 
 ::: ex
 - ^* Ich scheitere mich glücklich.
@@ -683,17 +719,14 @@ The intransitive verbs that allow this seem to be strongly related to the agenti
 - Der Wald wächst sich zu Tode.^[~~DWDS~~: Berliner Zeitung, 30.12.1998.]
 :::
 
-The same reflexive+adverbial alternation is attested with some verbs that take a governed preposition, like *lachen* 'to laugh' [@next]. Note that the prepositional phrase can be retained.
+The same reflexive+resultative alternation is attested with some verbs that take a governed preposition, like *lachen* 'to laugh' [@next]. Note that the prepositional phrase can be retained.
 
 ::: ex
 a. Ich lache (über den Witz).
 b. Ich lache mich tot (über den Witz).
 :::
 
-When the combination of adverbial and verb is considered to be a new lexicalised predicate (i.e. *totlachen, festbeißen*, etc.), then these predicates would be obligatorily reflexive (alike to the verbs in [@sec:reflexive-obligatory-accusative-reflexive]).
-
-=> related to locational construction [@sec:reflexive-manner-of-movement]
-=> many different adverbials possible!
+When the combination of resultative and verb is considered to be a new lexicalised predicate (i.e. *totlachen, festbeißen*, etc.), then these verbs would be obligatorily reflexive (alike to the verbs in [@sec:reflexive-obligatory-accusative-reflexive]).
 
 **Attested Verbs**
 
@@ -703,6 +736,7 @@ When the combination of adverbial and verb is considered to be a new lexicalised
 - glücklich- : *laufen*
 - kaputt-    : *arbeiten, lachen, schreien*
 - locker-    : *laufen*
+- los-       : *lügen*
 - reich-     : *sparen*
 - schlapp-   : *lachen*
 - tot-       : *ärgern, arbeiten, fressen, hungern, lachen, laufen, malochen, rackern, saufen, schämen, trinken, weinen*
@@ -718,19 +752,20 @@ When the combination of adverbial and verb is considered to be a new lexicalised
 - Die Jungen saugen an den Zitzen. \
   Die Jungen saugen sich an den Zitzen des Muttertieres fest.
 - Hier blättert man gern herum und liest sich fest.^[~~DWDS~~: Berliner Zeitung, 06.10.2001.]
-- Die Zuschauer, seine Mannschaftskameraden schrien sich die Kehle kaputt.^[~~DWDS~~: Die Zeit, 30.07.1976, Nr. 32.]
+- Die Zuschauer, seine Mannschaftskameraden schrieen sich die Kehle kaputt.^[~~DWDS~~: Die Zeit, 30.07.1976, Nr. 32.]
+- Zwei Strassenmädchen flogen mit wirbelnden Rocken einem Mann entgegen, der sich losgelogen hatte.^[Attested online at https://www.amazon.de/dp/1235151247, accessed 9 September 2022.]
 
-### [ N | N ] *los/fest-* natural process+resultative {#sec:adverbial-natural-process}
+### [ N | N ] *los/fest-* natural process {#sec:adverbial-natural-process}
 
-Intransitive verbs with a resultative construction, but without a reflexive pronoun, appear to be extremely rare. I know of only a few examples, both with the verb *laufen* [@next].
-
-Various verbs describing natural processes, like *rosten* 'to rust' [@next a], need a location when used with a resultative, like *festrosten* 'to rust into something' [@next b].
+Intransitive verbs with a resultative construction, but without a reflexive pronoun, appear to be extremely rare. I know of only a few examples describing natural processes, like *rosten* 'to rust' [@next a]. With this verb, no reflexive pronoun is necessary with a resultative adjective, like *festrosten* 'to rust into something' [@next b]. This is clearly different from the more common intransitive construction with a reflexive pronoun discussed previously ([@sec:adverbial-intransitive-resultative]). The verbs with *fest-* listed below are typically used with a location [@next c].
 
 ::: ex
 - Die Züge rosten.
 - Die Züge rosten fest.
 - Züge rosten an ihren Gleisen fest.^[~~DWDS~~: Die Zeit, 08.05.2002, Nr. 20.]
 :::
+
+This construction only seems to occur with the resultatives *fest-* and *los-*, similar to the delocative hypothesis as discussed in [@sec:adverbial-antiresultative]. The case of *warmlaufen* seems to be an idiosyncrasy.
 
 **Attested Verbs**
 
@@ -749,20 +784,20 @@ Various verbs describing natural processes, like *rosten* 'to rust' [@next a], n
 - Das Auspuff Endrohr ist losgerostet.^[Attested online at https://www.bulliforum.com/viewtopic.php?t=66958, accessed 8 September 2022.]
 - Dann besteht die Gefahr, dass die Steine losfrieren.^[Attested online at https://www.come-on.de/lennetal/nachrodt-wiblingwerde/nachrodt-wiblingwerdehangsicherungserpentinenbewehrte-erde-8639613.html, accessed 8 September 2022.]
 
-### [ NA | NA ] Transitive+resultative (*Transitiv Resultativ*) {#sec:adverbial-transitive-resultative}
+### [ NA | NA ] Transitive resultative (*Transitiv Resultativ*) {#sec:adverbial-transitive-resultative}
 
-With transitive verbs, the addition of a resultative adverb normally does not lead to any role remapping. Such transtive verbs without diathesis appear to be a frequent and the examples given below are just a few illustrative verbs. The diathesis-free alternation of transitive verbs is quite different from the diathetical effect resultative adverbs have on many intransitive verbs (see [@sec:adverbial-applicative]).
+With transitive verbs, the addition of a resultative adjective does not necessarily lead to any role remapping. For example, *prügeln* 'to beat' [@next a] and *totprügeln* 'to beat to death' [@next b] show exactly the same valency. Such resultative transitive verbs without diathesis appear to be frequent and the examples given below are just a few illustrative verbs. It is unclear to me whether there is any restriction on which adjectives can occur in this construction.
 
 ::: ex
-a. Der Händler kauft die Sklaven.
-b. Der Händler kauft die Sklaven frei.
+- Der Vater prügelt den Sohn.
+- Der Vater prügelt den Sohn tot.
 :::
 
 **Attested Verb**
 
 - fern-    : *lenken*
 - fertig-  : *bauen, schreiben*
-- frei-    : *kaufen*
+- frei-    : *legen, kaufen*
 - gesund-  : *pflegen*
 - gut-     : *machen*
 - kaputt-  : *fahren, kochen*
@@ -782,10 +817,12 @@ b. Der Händler kauft die Sklaven frei.
   Ich koche den Reis kaputt.
 - Er macht einen Fehler. \
   Er macht seinen Fehler gut.
-- Der Vater prügelt den Sohn. \
-  Der Vater prügelt den Sohn tot.
 - Ich fahre das Auto. \
   Ich fahre das Auto kaputt.
+- Die Arbeiter legen ein neues Kabel. \
+  Die Arbeiter legen das alte Kabel frei. \
+- Ich kaufe die Sklaven. \
+  Ich kaufe die Sklaven frei.
 
 ## Diatheses with subject demotion
 
@@ -793,7 +830,7 @@ b. Der Händler kauft die Sklaven frei.
 
 ### [ N | – ] Reflexive intransitive drop+evaluative {#sec:adverbial-reflexive-drop}
 
-Many intransitives allow for a dropping of the nominative with an obligatory reflexive pronoun *sich* and an obligatory adjectival adverbial. Because of the dropped nominative there is an obligatory non-phoric *es* in such sentences [@next a]. Such constructions seem to be possible with very many intransitive verbs, though with some, like *aufstehen* 'rise' [@next b], it is of debatable grammaticality. More research is needed into the question which intransitive verbs do not allow this diathesis.
+Many intransitives allow for a dropping of the nominative with an obligatory reflexive pronoun *sich* and an obligatory adjectival manner adverbial. Because of the dropped nominative there is an obligatory non-phoric *es* in such sentences [@next a]. Such constructions seem to be possible with very many intransitive verbs, though with some, like *aufstehen* 'rise' [@next b], it is of debatable grammaticality. More research is needed into the question which intransitive verbs do not allow this diathesis.
 
 ::: ex
 a. In der Gruppe lacht es sich besser.
@@ -819,7 +856,7 @@ A very similar diathesis is attested with transitives, see [@sec:adverbial-refle
 
 ### [ NA | –N ] Reflexive anticausative+evaluative {#sec:adverbial-reflexive-transitive-anticausative}
 
-With many verbs an anticausative is only possible with an evaluative adjective and a reflexive pronoun [@next]. There is a clear parallel to the diathesis for intransitives described in [@sec:adverbial-reflexive-drop]. The semantically highly similar *lassen+Infinitiv* construction [@next c] does not need the adverbial (see [@sec:infinitive-lassen-reflexive-anticausative]).
+With many transitive verbs an anticausative is only possible with an evaluative manner adjective and a reflexive pronoun [@next]. There is a clear parallel to the diathesis for intransitives described in [@sec:adverbial-reflexive-drop]. The semantically highly similar *lassen+Infinitiv* construction [@next c] does not need the adverbial (see [@sec:infinitive-lassen-reflexive-anticausative]).
 
 ::: ex
 a. Ich schneide die Wurst mit diesem Messer.
@@ -827,7 +864,7 @@ b. Die Wurst schneidet sich schwer mit diesem Messer.
 c. Die Wurst lässt sich mit diesem Messer schneiden.
 :::
 
-Kunze [-@kunze1996: 647] and Steinbach [-@steinbach1998] call this 'middle', Zifonun [-@zifonun2003] 'fazilitives Medium', Wiemer & Nedjalkov [-@wiemer2007: 465-466] classify it as a 'passive-like meaning of reflexive' and Kulikov [-@kulikov2011: 375-376] talks about a 'potential agentless passive'. Steinbach [-@steinbach1998: 25ff.] argues that the adverbial is not necessary in the 'middle' construction, but this is because he combines different constructions under the heading of 'middle'. His examples without adverbial are discussed here as a separate construction in [@sec:reflexive-anticausative].
+Kunze [-@kunze1996: 647] and Steinbach [-@steinbach1998] call this "middle", Zifonun [-@zifonun2003] "fazilitives Medium", Wiemer & Nedjalkov [-@wiemer2007: 465-466] classify it as a "passive-like meaning of reflexive" and Kulikov [-@kulikov2011: 375-376] talks about a "potential agentless passive". Steinbach [-@steinbach1998: 25ff.] argues that the adverbial is not necessary in the 'middle' construction, but this is because he combines different constructions under the heading of 'middle'. His examples without adverbial are discussed here as a separate construction in [@sec:reflexive-anticausative].
 
 **Attested Verbs**
 
@@ -891,13 +928,12 @@ d. Das Essen schmeckt (gut).
 
 ### [ Np | –N ] Conciliative+evaluative
 
-Some verbs that have a typical instrument connected to the action allow for the instrument to be turned into the nominative subject, but only with the addition of an evaluative adverbial [@next].
+Some verbs that have a prototypical instrument connected to the action allow for the instrument to be turned into the nominative subject, but only with the addition of an evaluative adverbial, like with *schneiden* 'to cut' [@next].
 
 ::: ex
 a. Ich schneide das Brot mit einem Messer.
-b. Das Messer schneidet das Brot.
-c. ^^?^ Das Messer schneidet.
-d. Das Messer schneidet gut.
+b. ^^?^ Das Messer schneidet.
+c. Das Messer schneidet gut.
 :::
 
 **Attested Verbs**
@@ -907,7 +943,7 @@ d. Das Messer schneidet gut.
 **Further Examples**
 
 - Ich schreibe den Brief mit einem Füller. \
-  Der Füller schreibt gut.
+  Der Füller schreibt gut/nicht/angenehm.
 
 ### --- [ PBJ > SBJ > Ø ] --- {.unnumbered}
 
@@ -929,16 +965,14 @@ With some intransitive verbs, like *sitzen* 'to sit' [@next a] a locational argu
 
 - Ich schwimme im Becken. \
   Das Becken an sich schwimmt sich gut.^[Attested online at https://chlorhuhn.wordpress.com/2017/11/28/jetzt-tatsaechlich-umbau-in-der-olympiaschwimmhalle/, accessed 21 August 2022.]
-- Die Matraze liegt sich gut.^[Attested online at http://www.hans-struve.de/richtiges-lueften-im-schlafzimmer-eine-tuecke-der-physik/, accessed 21 August 2022.]
+- Die Matratze liegt sich gut.^[Attested online at http://www.hans-struve.de/richtiges-lueften-im-schlafzimmer-eine-tuecke-der-physik/, accessed 21 August 2022.]
 - Die Route klettert sich wirklich sehr schön.
 
 ### --- [ PBJ > SBJ > ADJ ] --- {.unnumbered}
 
 ### [ NL | pN ] *voll/leer-* Location passive+resultative {#sec:adverbial-location-anticausative}
 
-cf. Ganzobjektiv, but without agent "Ganzsubjektiv"
-
-A very peculiar diathesis is attested with alluvial verbs like *laufen* in the meaning 'to pour' [@next a]. In this meaning, the locational phrase is obligatory. By adding the resultative preverbial *voll* (possibly also *leer*) a passive-like diathesis arises [@next b]. The obligatory location is promoted to nominative subject. The original nominative can optionally be retained as a *mit* prepositional phrase with the resultative *voll*.
+A very peculiar diathesis is attested with alluvial verbs like *laufen* in the meaning 'to pour' [@next a]. In this meaning, the locational phrase is obligatory. By adding the resultative preverbial *voll-* (possibly also *leer-*) a passive-like diathesis arises [@next b]. The obligatory location is promoted to nominative subject. The original nominative can optionally be retained as a *mit* prepositional phrase with the resultative *voll-*. This diathesis is clearly related to the transitive diathesis with *voll* and *leer-* described in [@sec:adverbial-applicative-voll] and [@sec:adverbial-applicative-leer], respectively.
 
 ::: ex
 a. Das Wasser läuft in die Badewanne.
@@ -977,7 +1011,7 @@ The verb *saugen* 'to suck' shows an interesting stack of diatheses. There are t
 
 ### [ p | N ] *voll-* Weather location+resultative
 
-The diathesis in [@next] with weather verbs like *schneien* 'to snow' is a rare example of a promotion to subject induced by a resultative preverbial. However, it can of course easily be explained as a slight variant of the previously discussed passive-like diathesis for verbs without a subject (see [@sec:adverbial-location-anticausative]).
+The diathesis in [@next] with weather verbs like *schneien* 'to snow' is a rare example of a promotion to subject induced by a resultative preverbial. However, this idiosyncrasy can of course easily be explained as a slight variant of the previously discussed passive-like diathesis for verbs without a subject (see [@sec:adverbial-location-anticausative]).
 
 ::: ex
 - Es schneit auf den Trainingsplatz.
@@ -992,11 +1026,9 @@ The diathesis in [@next] with weather verbs like *schneien* 'to snow' is a rare 
 
 ### -- [ OBJ > Ø ] -- *Aktionsfokus* {.unnumbered}
 
-### [ NA | N– ] Accusative drop+adverbial {#sec:adverbial-action-focus}
+### [ NA | N– ] Accusative drop+evaluative {#sec:adverbial-action-focus}
 
-Many transitive verbs can be used without an accusative object. However, with some verbs such a deaccusative comes easier than for others. Real ambitransitive verbs that occur both as transitive and as intransitive, but without needing any extra marking in the intransitive, are discussed in [@sec:case-accusative-drop]. 
-
-In contrast, for many other transitive verbs, like *sehen* 'to see' [@next a], the drop of the accusative is highly restricted. It might be possible in an ability setting, meaning something like 'I am able to see' [@next b]. In such an intended meaning, what seems to happen is that the focus of the utterance becomes the action itself, i.e. the 'seeing'. However, this makes much more sense with the addition of a specification of the action by an adverbial [@next c].
+Many transitive verbs can be used without an accusative object. However, with some verbs such a deaccusative comes easier than for others. Real ambitransitive verbs that occur both as transitive and as intransitive, but without needing any extra marking in the intransitive, are discussed in [@sec:case-accusative-drop]. In contrast, for many other transitive verbs, like *sehen* 'to see' [@next a], the drop of the accusative is highly restricted. It might be possible in an ability setting, meaning something like 'I am able to see' [@next b]. In such an intended meaning, what seems to happen is that the focus of the utterance becomes the action itself, i.e. the 'seeing'. However, this makes much more sense with the addition of a specification of the action by an adverbial [@next c]. It is currently unclear to me, whether this is simply a pragmatic effect or whether this amounts to a real diathesis.
 
 ::: ex
 a. Ich sehe das Haus.
@@ -1020,7 +1052,7 @@ c. Ich sehe gut.
 
 ### [ NA | N– ] Endoreflexive+evaluative {#sec:adverbial-endoreflexive}
 
-The verb *fühlen* 'to feel' [@next a] is similar to endoreflexiv verbs (see [@sec:reflexive-accusative-drop]), but with an obligatory evaluative adverbial [@next b,c]. Without the evaluation, a sentence like [@next c] might be possible, but only when it is interpreted with self-inflicting reflexive reference, viz. 'I touch myself'.
+The verb *fühlen* 'to feel' [@next a] is similar to endoreflexiv verbs (see [@sec:reflexive-accusative-drop]), but with an obligatory evaluative adverbial [@next b,c]. Without the evaluation, a sentence like [@next c] might still be possible, but only when it is interpreted with self-inflicting reflexive reference, viz. 'I touch myself'.
 
 ::: ex
 a. Ich fühle die Schmerzen.
@@ -1034,7 +1066,7 @@ c. ^* Ich fühle mich.
 
 ### [ NA | N– ] Accusative *es*+evaluative {#sec:adverbial-accusative-es}
 
-Some verbs allow for constructions with a non-phoric *es* pronoun possibly in the accusative (see [@sec:prepositions-nominative-es-preposition]). With some verbs in this construction an evaluative manner adverbial is also necessarily present, like with *meinen* 'to deem' [@next a,b]. Without the manner adverbial the only possible interpretation of the pronoun *es* is phoric [@next d].
+Some verbs allow for constructions with a non-phoric pronoun *es* apparently in the accusative case (see [@sec:prepositions-nominative-es-preposition]). With some verbs in this construction an evaluative manner adverbial is also necessarily present, like with *meinen* 'to deem' [@next a,b]. Without the manner adverbial the only possible interpretation of the pronoun *es* is phoric [@next d].
 
 ::: ex
 a. Ich meine deinen Bruder.
@@ -1055,9 +1087,11 @@ d. Ich meine es. \
 
 ### --- [ PBJ > Ø ] --- *Resultativ Delokativ* {.unnumbered}
 
-### [ NAL | NA– ] *los/fest- *Transitive location drop {#sec:adverbial-antiresultative}
+### [ NAL | NA– ] *los/fest/frei-* Transitive location drop {#sec:adverbial-antiresultative}
 
-The locational prepositional phrase is obligatory present with verbs that describe making a connection, like *binden* 'to tie' [@next a,b]. In contrast, when adding a resultative, like *los* 'loose' in *losbinden* 'to untie' [@next c,d], then the locational phrase is not obligatory anymore. This diathesis is only attested with the preverbials *los-* 'loose' and *fest-* 'tight'. For the parallel diathesis with preverbs, see [@sec:preverb-transitive-antiresultative]. 
+=> frei
+
+The locational prepositional phrase is obligatory present with verbs that describe making a connection, like *binden* 'to tie' [@next a,b]. In contrast, when adding a resultative, like *los-* 'loose' in *losbinden* 'to untie' [@next c,d], then the locational phrase is not obligatory anymore. This diathesis is only attested with the preverbials *los-* 'loose' and *fest-* 'tight'. For the parallel diathesis with preverbs, see [@sec:preverb-transitive-antiresultative]. The preverbial *fest-* is also used for a different, but closely related diathesis (see [@sec:adverbial-fest]).
 
 ::: ex
 a. Ich binde den Hund an die Leine.
@@ -1066,7 +1100,7 @@ c. Ich binde den Hund von der Leine los.
 d. Ich binde den Hund los.
 :::
 
-The preverbial *los-* is also attested with verbs that cause something else to move. Although this diathesis is syntactically the same delocative diathesis as with *binden* above [@last], semantically this construction is closer to the inchoative usage of *los-*, meanings 'onwards' (see [@sec:adverbial-inchoative-los]). This typically applies to verbs of sending, like *schicken* 'to send' [@next a]. However, also verbs with a caused-movement diathesis, like *klopfen* 'to knock' [@next b] allow for this inchoative usage of *los-* (cf. [@sec:prepositions-intransitive-location-as-result]).
+The preverbial *los-* is also attested with verbs that cause something else to move. Although this diathesis is syntactically the same delocative diathesis as with *binden* above [@last], semantically this 'cause to move' construction is closer to the inchoative usage of *los-*, meanings 'onwards' (see [@sec:adverbial-inchoative-los]). This typically applies to verbs of sending, like *schicken* 'to send' [@next a]. However, also verbs with a caused-movement diathesis, like *klopfen* 'to knock' [@next b] allow for this inchoative usage of *los-* (cf. [@sec:prepositions-intransitive-location-as-result]).
 
 ::: ex
 - Ich schicke den Brief nach Amerika.
@@ -1075,19 +1109,18 @@ The preverbial *los-* is also attested with verbs that cause something else to m
   Ich klopfe die Rinde los.
 :::
 
-The example with *werfen* 'to throw' [@next] illustrates the close relationship between these two uses of *los-*, i.e. 'loose' and 'onwards'. By throwing the *Leine* 'rope' is detached (from the ship), but at the same time the rope is also send onwards (towards the shore).
+The example with *werfen* 'to throw' [@next] illustrates the close relationship between these two uses of *los-*, i.e. 'loose' and 'onwards'. By throwing, the *Leine* 'rope' is detached (from the ship), but at the same time the rope is also send onwards (towards the shore).
 
 ::: ex
 - Der Kapitän wirft die Leine los.^[~~DWDS~~: Die Zeit, 23.10.2003, Nr. 44.]
 :::
-
-The preverbial *fest-* is also used for a different, but closely related diathesis (see [@sec:adverbial-object-switch]).
 
 **Attested Verbs**
 
 - los-  : (detachment) *binden, ketten, klopfen, koppeln, sägen, schnallen, schneiden, schrauben*
 - los-  : (causing to move) *bringen, hetzen, jagen, schicken, senden, werfen*
 - fest- : (attachment) *binden, haken, hämmern, heften, klammern, kleben, klopfen, knoten, nageln, schnallen, schnüren, schrauben*
+- frei- : (uncover by digging) *bohren, graben, präparieren*
 
 **Further Examples**
 
@@ -1102,143 +1135,22 @@ The preverbial *fest-* is also used for a different, but closely related diathes
 - Er schickt einen Testballon los.^[~~DWDS~~: Die Zeit, 11.08.2016 (online).]
 - Festgehalten ist, wie er die Begleiter loshetzt und sie zum Killen auffordert.^[~~DWDS~~: Süddeutsche Zeitung, 26.10.2001.]
 - Zwischendurch stoppt Lienen das Spiel und korrigiert Positionen, dann jagt er die Spieler wieder los.^[~~DWDS~~: Die Zeit, 22.10.1993, Nr. 43.]
+- Ich habe die Räder aus dem Sand gegraben. \
+  Ich habe die Räder freigegraben.
+- Sie haben die Bergleute aus der Höhle gebohrt. \
+  Sie haben die Bergleute freigebohrt.
+- Der Arzt präpariert die Arterie aus dem Arm. \
+  Der Arzt präpariert die Arterie frei.
 
 **Notes**
 
-This use of *bringen* seems very literature-style:
+This use of *los-* in *losbringen* [@next] seems stylistically strongly marked.
 
+::: ex
 - Gott soll mir helfen, ich bringe den Verdacht nicht los.^[~~DWDS~~: Dürrenmatt, Friedrich: Der Verdacht, Reinbek bei Hamburg: Rowohlt 1965 (1953), S. 9.]
-
-### --- [ PBJ > OBJ > Ø ] --- *Resultativ Ganzobjektiv* {.unnumbered}
-
-### [ NLA | NA– ] *voll/leer-* Applicative+accusative drop {#sec:adverbial-applicative-drop}
-
-The adverbial *voll* induces a full applicative, promotion a prepositional phrase to accusative, while the erstwhile accusative can still be (optionally) retained as a *mit* prepositional phrase. For example, the verb *schenken* 'to pour'
-
-The examples with *leer* in [@sec:adverbial-applicative-drop] are highly similar, but cannot retain the erstwhile accusative.
-
-Typically with accusative-possessive dative [@next c]
-
-::: ex
-a. Ich schenke den Wein in das Glas. 
-b. Ich schenke das Glas voll (mit Wein).
-c. Ich schenke ihm sein Glas voll.
 :::
 
-With the resultative adverbial *leer* it does not seem to be possible to retain the erstwhile accusative [@next]. In contrast, with the antonymous adverbial *voll* the retention of the accusative as a prepositional phrase is possible.
-
-::: ex
-- Ich pumpe das Wasser aus dem Keller.
-- Ich pumpe den Keller leer.
-:::
-
-::: ex
-a. Ich kaufe ein Brot (in dem Geschäft).
-b. Ich kaufe das Geschäft leer.
-:::
-
-**Attested Verbs**
-
-=> always some sense of transport from A to B => obligatory location
-=> retention of accusative *voll* => *mit*? [NLA|NAp] [PBJ>OBJ>ADJ]
-
-- voll- : *füllen, gießen, häufen, laden, packen, pumpen, schenken, schöpfen, stellen, tanken*
-- leer- : *pumpen, räumen, schenken*
-
-=> location seems optional here [NpA|NA–]
-
-- voll- : *kritzeln, malen, schreiben*
-- leer- : *essen, kaufen, schlürfen, trinken*
-
-**Further Examples**
-
-- Ich lade Heu auf den Wagen. \
-  Ich lade den Wagen voll (mit Heu).
-- Ich packe die Einkäufe in den Wagen. \
-  Ich packe den Wagen voll (mit Einkäufe).
-- Ich pumpe Luft in den Reifen. \
-  Ich pumpe den Reifen voll (mit Luft).
-- Ich tanke Benzin in das Auto. \
-  Ich tanke das Auto voll (mit Benzin).
-- Ich stelle Möbel in die Stube. \
-  Ich stelle die Stube voll (mit Möbel).
-- Tobias häuft das Esses auf seinen Teller. \
-  Auch Tobias häufte sich den Teller voll.^[~~DWDS~~: Die Zeit, 18.07.2008, Nr. 06.]
-- Ich räume das Geschirr aus der Spülmaschine. \
-  Ich räume die Spülmaschine leer.
-- Ich schenke den Wein aus der Karaffe. \
-  Ich schenke die Karaffe leer.
-
-- Ich schlürfe den Tee (aus meiner Tasse). \
-  Ich schlürfe die Tasse leer.
-- Ich kritzele/schreibe Buchstaben (in das Buch). \
-  Ich kritzele/schreibe das Buch voll.
-- Ich esse die Kartoffel (von dem Teller). \
-  Ich esse den Teller leer.
-- Ich trinke Wasser (aus der Flasche). \
-  Ich trinke die Flasche leer.
-
-### --- [ OBJ > ADJ ] --- {.unnumbered}
-
-### [ NA | Np ] *satt-* Reflexive antipassive {#sec:adverbial-antipassive-reflexive}
-
-The accusative object of *sehen* 'to see' is transformed into a prepositional phrase when adding the resultative *satt* to form *sattsehen* 'to see until satisfied' [@next]. This diathesis obligatorily introduces a reflexive pronoun. Such a reflexive antipassive diathesis is currently only attested with the resultative adverb *satt* (see [@sec:preverb-reflexive-antipassive] for similar examples with preverbs).
-
-::: ex
-a. Ich sehe das Gemälde.
-b. Ich sehe mich satt an dem Gemälde.
-:::
-
-**Attested Verbs**
-
-- satt- : *essen, fressen, sehen, lesen, trinken*
-
-**Further Examples**
-
-- Ich esse die Bouletten. \
-  Ich esse mich satt an den Bouletten.
-- Ich lese die Artikel. \
-  Ich lese mich satt an den Artikeln.
-- Die Bergleute drehen sich und lesen sich an unserer Spruchleiste satt.^[~~DWDS~~: Strittmatter, Erwin: Der Laden, Berlin: Aufbau-Verl. 1983, S. 108.]
-- Im Tierheim fraßen sich die Welpen erstmal satt.^[~~DWDS~~: Der Tagesspiegel, 09.01.2003.]
-- Sie tranken sich erst tüchtig satt.^[~~DWDS~~: May, Karl: Winnetou IV, Berlin: Neues Leben 1993 (1910), S. 123.]
-
-### [ NA | Np ] *los-* Antipassive {#sec:adverbial-antipassive}
-
-The preverbial *los* is used frequently without any diathesis as an inchoative marker (see [@sec:adverbial-inchoative-los]). In contrast, with transitive verbs of attack, like *hauen* 'to bash' [@next a], the inchoative *loshauen* 'starting to bash' shows an antipassive diathesis. The accusative is changed to an *auf* prepositional phrase [@next b].
-
-::: ex
-- Er haut ihn.
-- Er haut auf ihn los.
-:::
-
-**Attested Verbs**
-
-- los- : *dreschen, hacken, hauen, knallen, prügeln, schießen, schlagen, stechen, stürzen*
-
-**Further Examples**
-
-- Einige werden überitten, andere hauen und stechen auf die Anstürmenden los.^[~~DWDS~~: Völkischer Beobachter (Reichsausgabe), 04.03.1932.]
-
-### [ NAD | NAp ] *weiter-* Dative antipassive {#sec:adverbial-dative-antipassive}
-
-Ditransitive verbs like *empfehlen* 'to recommend' [@next a] can be used with a preverbial *weiter-* to form *weiterempfehlen* 'to recommend on' [@next b]. With the preverbial it does not seem to be possible anymore to use a dative [@next a]. Instead, an *an* prepositional phrase is used (or the recipient is completely left out, which appears to be frequent). There is some overlap with verbs allowing an *an* antipassive (see [@sec:prepositions-dative-antipassive-accusative]).
-
-::: ex
-- Ich empfehle dir diesen Kuchen.
-- Ich empfehle diesen Kuchen an meine Freunde weiter.
-- ^^?^ Ich empfehle dir diesen Kuchen weiter.
-:::
-
-This diathesis is only attested with the preverbial *weiter-*. With other verbs, this preverbial has a continuative meaning, as discussed in [@sec:adverbial-continuative-weiter]. However, with these ditransitive verbs the meaning is more like 'to pass something on'.
-
-**Attested Verbs**
-
-- weiter- : *empfehlen, erzählen, geben, leiten, melden, reichen, sagen, schenken, schicken, vererben, verkaufen, vermieten, vermitteln, verschenken*
-
-### --- [ PBJ > ADJ ] --- {.unnumbered}
-
-### [ NL | Np ] *fest/frei-* Intransitive location drop {#sec:adverbial-location-drop}
+### [ NL | N– ] *fest/frei-* Intransitive location drop {#sec:adverbial-location-drop}
 
 location not obligatory anymore
 
@@ -1263,9 +1175,9 @@ location not obligatory anymore
 - Das Haus steht neben der Kirche.
   Das Haus steht frei.
 
-### [ NL | Np ] *wund-* Reflexive intransitive location drop {#sec:adverbial-reflexive-location-drop}
+### [ NL | N– ] *wund-* Reflexive intransitive location drop {#sec:adverbial-reflexive-location-drop}
 
-Similar to the previous diathesis, some intransitives with obligatory location [@next a,b] can be used without this location when a preverbial is added [@next c]. However, with these intransitives an additional reflexive pronoun is necessary. This diathesis is only attested with the preverbial *wund* 'sore'.
+Some intransitives with obligatory location, like *liegen* 'to lie' [@next a,b] can be used without this location when a preverbial is added [@next c]. However, with these intransitives an additional reflexive pronoun is necessary. This diathesis is only attested with the preverbial *wund-* 'sore'.
 
 ::: ex
 a. Der Patient liegt auf dem Bett.
@@ -1277,11 +1189,190 @@ b. Der Patient liegt sich wund (auf dem Bett).
 
 - wund- : *liegen, sitzen*
 
+### --- [ PBJ > OBJ > Ø ] --- *Resultativ Ganz/leer-Objekttausch* {.unnumbered}
+
+### [ NLA | NA– ] *leer/frei-* Applicative+antipassive {#sec:adverbial-applicative-leer}
+
+=> *frei-* cover=meronym, inside=holonym
+
+*aus/von* applicative
+
+**Attested Verbs**
+
+- leer- : (empty a container) *buddeln, kratzen, pumpen, rauben, räumen, saugen, schaufeln, schenken, stehlen*
+- leer- : (empty by consumption) *bestellen, essen, kaufen, knabbern, löffeln, nippen, nuckeln, saufen, schlürfen, trinken*
+- frei- : (uncover by sweeping) *arbeiten, fegen, klopfen, räumen, schaufeln, schneiden, wischen*
+
+**Further Examples**
+
+- Ich räume das Geschirr aus der Spülmaschine. \
+  Ich räume die Spülmaschine leer.
+- Ich schenke den Wein aus der Karaffe. \
+  Ich schenke die Karaffe leer.
+- Er schaufelt den Sand aus den Waggon. \
+  Er schaufelt den Waggon leer.
+- Die Gäste kratzen die Reste aus den Topf. \
+  Die Gäste haben den Topf leergekratzt.
+- Ich schlürfe den Tee (aus meiner Tasse). \
+  Ich schlürfe die Tasse leer.
+- Ich esse die Kartoffel (von dem Teller). \
+  Ich esse den Teller leer.
+- Ich trinke Wasser (aus der Flasche). \
+  Ich trinke die Flasche leer.
+- […] weil die Menschen uns das Lager leerbestellt haben.^[Attested online at https://twitter.com/aufgeteet/status/1246679437053235201, accessed 9 September 20022.]
+- Mein Mann hatte im Nullkommanix die ersten Tüte leergeknabbert.^[Attested online at https://www.brandsyoulove.de/project/pausencracker/Super-leckerer-Snack.BUHx/detail.html, accessed 9 September 2022.]
+- Zufrieden löffelt er seinen Sorbet-Becher leer.^[~~DWDS~~: Der Tagesspiegel, 11.02.2002.]
+- Entlang der Totenhalle wurde fast das komplette Beet leer gestohlen. ^[Attested online at https://mags.de/presse-detail/diebstahl-auf-dem-friedhof-holt, accessed 10 September 2022.]
+
+- Ich schaufele den Schnee von den Gleisen. \
+  Ich schaufele die Gleise frei.
+- Die Arbeiter haben die Wrackteile von den Gleisen geräumt. \
+  Die Arbeiter haben die Gleise freigeräumt.
+- Ich arbeite die Papiere von meinem Schreibtisch. \
+  Ich arbeite den Schreibtisch frei.
+- Ich klopfe viele Farbschichten von dem Fachwerk. \
+  Ich klopfe das Fachwerk frei.
+- Ich wische die Blätter vom Auto. \
+  Ich wische das Auto frei.
+- Ich fege den Sand von der Terrasse. \
+  Ich fege die Terrasse frei.
+- Ich schneide die Zweige vom überwucherten Pfad.
+  Ich schneide den überwucherten Pfad frei.
+  Feuerwehrleute schnitten die Eingeklemmten frei.^[~~DWDS~~: Die Zeit, 03.06.2015 (online).]
+
+### --- [ PBJ > OBJ > ADJ ] --- *Resultativ Ganz/voll-Objekttausch* {.unnumbered}
+
+### [ NLA | NAp ] *voll-* Applicative+accusative drop {#sec:adverbial-applicative-voll}
+
+The resultatives *voll-* 'full' and *leer-* 'empty' cause a particular 
+
+*mit* retention similar to full applicatives [@sec:preverb-applicative-antipassive]
+
+induces a full applicative, promotion a prepositional phrase to accusative, while the erstwhile accusative can still be (optionally) retained as a *mit* prepositional phrase. For example, the verb *schenken* 'to pour'
+
+The examples with *leer* in [@sec:adverbial-applicative-leer] are highly similar, but cannot retain the erstwhile accusative.
+
+Typically with accusative-possessive dative [@next c], also reflexive in turn [@next d]
+
+::: ex
+a. Ich schenke den Wein in das Glas. 
+b. Ich schenke das Glas voll (mit Wein).
+c. Ich schenke ihm sein Glas voll.
+d. Er schenkt sich sein Glas voll.
+:::
+
+With the resultative *leer-* it does not seem to be possible to retain the erstwhile accusative [@next a]. In contrast, with the antonymous resultative *voll-* the retention of the accusative as a *mit* prepositional phrase is possible [@next b].
+
+::: ex
+- Ich pumpe das Wasser aus dem Keller. \
+  Ich pumpe den Keller leer.
+- Ich pumpt das Wasser in den Keller. \
+  Ich pumpe den Keller (mit Wasser) voll.
+:::
+
+There are two other kinds of verbs that allow for this diathesis, but with these verbs the location is not obligatory. First, 
+
+Again, with *leer-* the retention of the original accusative is not possible [@next a], while with *voll-* the retention is possible with a *mit* prepositional phrase.
+
+::: ex
+- Ich kaufe ein Brot (in dem Geschäft). \
+  Ich kaufe das Geschäft leer.
+- Ich habe ein Porträt (auf dem Blatt) gemalt. \ 
+  Ich habe das ganze Blatt (mit einem Porträt) vollgemalt.
+:::
+
+=> always some sense of transport from A to B => obligatory location
+=> retention of accusative *voll* => *mit*? [NLA|NAp] [PBJ>OBJ>ADJ] leer: [PBJ>OBJ>Ø]
+
+**Attested Verbs**
+
+- voll- : (fill a container) *bauen, füllen, gießen, häufen, kleben, laden, packen, pflanzen, pumpen, säen, schenken, schöpfen, schmieren, stecken, stellen, tanken*
+- voll- : (fill a canvas) *drucken, kritzeln, malen, schreiben, sprühen, tippen, zeichnen*
+
+**Further Examples**
+
+- Ich lade Heu auf den Wagen. \
+  Ich lade den Wagen voll (mit Heu).
+- Ich packe die Einkäufe in den Wagen. \
+  Ich packe den Wagen voll (mit Einkäufe).
+- Ich pumpe Luft in den Reifen. \
+  Ich pumpe den Reifen voll (mit Luft).
+- Ich tanke Benzin in das Auto. \
+  Ich tanke das Auto voll (mit Benzin).
+- Ich stelle Möbel in die Stube. \
+  Ich stelle die Stube voll (mit Möbel).
+- Die Kinder stecken Rosen in den Kranz. \
+  Die Kinder haben den Kranz (mit Rosen) vollgesteckt.
+- Der Bauer sät Hafer auf dem Feld. \
+  Der Bauer hat das Feld (mit Hafer) vollgesät.
+- Tobias häuft das Essen auf seinen Teller. \
+  Auch Tobias häufte sich den Teller voll.^[~~DWDS~~: Die Zeit, 18.07.2008, Nr. 06.]
+- Ich kritzele/schreibe Buchstaben (in das Buch). \
+  Ich kritzele/schreibe das Buch voll (mit Buchstaben).
+
+### --- [ OBJ > ADJ ] --- {.unnumbered}
+
+### [ NA | Np ] *satt-* Reflexive antipassive {#sec:adverbial-antipassive-reflexive}
+
+The accusative object of *sehen* 'to see' is transformed into a prepositional phrase when adding the resultative *satt-* 'well-fed' to form *sattsehen* 'to see until satisfied' [@next]. This diathesis obligatorily introduces a reflexive pronoun. Such a reflexive antipassive diathesis is currently only attested with the resultative *satt-*. See [@sec:preverb-reflexive-antipassive] for similar examples with preverbs.
+
+::: ex
+a. Ich sehe das Gemälde.
+b. Ich sehe mich satt an dem Gemälde.
+:::
+
+**Attested Verbs**
+
+- satt- : *essen, fressen, sehen, lesen, trinken*
+
+**Further Examples**
+
+- Ich esse die Bouletten. \
+  Ich esse mich satt an den Bouletten.
+- Ich lese die Artikel. \
+  Ich lese mich satt an den Artikeln.
+- Die Bergleute drehen sich und lesen sich an unserer Spruchleiste satt.^[~~DWDS~~: Strittmatter, Erwin: Der Laden, Berlin: Aufbau-Verl. 1983, S. 108.]
+- Im Tierheim fraßen sich die Welpen erstmal satt.^[~~DWDS~~: Der Tagesspiegel, 09.01.2003.]
+- Sie tranken sich erst tüchtig satt.^[~~DWDS~~: May, Karl: Winnetou IV, Berlin: Neues Leben 1993 (1910), S. 123.]
+
+### [ NA | Np ] *los-* Antipassive {#sec:adverbial-antipassive}
+
+The preverbial *los-* is used frequently without any diathesis as a marker of inchoative aspect with intransitive verbs (see [@sec:adverbial-inchoative-los]). With transitive verbs of attack, like *hauen* 'to bash' [@next a], the inchoative *loshauen* 'starting to bash' shows an antipassive diathesis. The accusative *ihn* is changed to an optional *auf* prepositional phrase [@next b]. In effect, this diathesis produces an intransitive verb, compatible with the generalisation that inchoative *los-* is only used with intransitives.
+
+::: ex
+- Er haut ihn.
+- Er haut auf ihn los.
+:::
+
+**Attested Verbs**
+
+- los- : *dreschen, hacken, hauen, knallen, prügeln, schießen, schlagen, stechen, stürzen*
+
+**Further Examples**
+
+- Einige werden überritten, andere hauen und stechen auf die Anstürmenden los.^[~~DWDS~~: Völkischer Beobachter (Reichsausgabe), 04.03.1932.]
+
+### [ NAD | NAp ] *weiter-* Dative antipassive {#sec:adverbial-dative-antipassive}
+
+Ditransitive verbs like *empfehlen* 'to recommend' [@next a] can be used with a preverbial *weiter-* to form *weiterempfehlen* 'to recommend on' [@next b]. With this preverbial it does not seem to be possible anymore to use a dative [@next a]. Instead, an *an* prepositional phrase is used (or the recipient is completely left out, which appears to be frequent). There is some overlap between the verbs in this section with verbs allowing an *an* antipassive (see [@sec:prepositions-dative-antipassive-accusative]).
+
+This diathesis is only attested with the preverbial *weiter-*. With other verbs, this preverbial does not induce any diathesis and it has a continuative aspectual meaning 'to continue', as discussed in [@sec:adverbial-continuative-weiter]. However, with these ditransitive verbs the meaning is more like 'to pass something on'.
+
+::: ex
+- Ich empfehle dir diesen Kuchen.
+- Ich empfehle diesen Kuchen an meine Freunde weiter.
+- ^^?^ Ich empfehle dir diesen Kuchen weiter.
+:::
+
+**Attested Verbs**
+
+- weiter- : *empfehlen, erzählen, geben, leiten, melden, reichen, sagen, schenken, schicken, vererben, verkaufen, vermieten, vermitteln, verschenken*
+
 ## Diatheses with promotion to object
 
 ### --- [ ADJ > OBJ ] --- *Resultativ Applikativ* {.unnumbered}
 
-### [ Np | NA ] Applicative+resultative {#sec:adverbial-applicative}
+### [ Np | NA ] Resultative applicative {#sec:adverbial-applicative}
 
 This appears to be the most productive kind of diathesis with a resultative adverbial. An optional prepositional phrase of an intransitive verb like *niesen* 'to sneeze' [@next a] is reformulated as an accusative with the resultative adverbial, here *voll* 'full' [@next b]. There are many different adverbials that induce this diatheses. The list presented below is in no way complete, but should just be seen as a set of random illustrative examples.
 
@@ -1301,13 +1392,14 @@ b. Ich rede dein Benehmen gut.
 Prepositional roles promoted by this applicative. Overlap with [@sec:preverb-applicative]
 
 - an (*sparen*)
-- auf (*beißen, drücken, fallen, hämmern, kauen, klopfen, pusten, schlagen, sitzen, stampfen, spucken, tanzen, treten, trampeln, tupfen*)
+- auf (*beißen, drücken, fallen, grasen, hämmern, kauen, klopfen, pusten, schlagen, sitzen, stampfen, spucken, tanzen, treten, trampeln, tupfen*)
 - für (*beten, boxen*)
 - gegen (*stoßen*)
 - in (*blättern, fischen, heulen, kotzen, laufen, niesen, rauchen, schwitzen, weinen*)
 - mit (*lästern, quatschen, tratschen*)
 - über (*diskutieren, jubeln, lachen, reden, schweigen*)
 - um (*kämpfen*)
+- durch (*strömen*)
 
 Different adverbials, same prepositional role?
 
@@ -1330,11 +1422,11 @@ Different adverbials, same prepositional role?
 **Attested Verbs**
 
 - fest-    : *drücken, klopfen, stampfen, treten*
-- frei-    : *beten, boxen, kämpfen*
+- frei-    : *beten, boxen, kämpfen, strömen*
 - gesund-  : *beten, quatschen, reden*
 - gut-     : *reden*
 - kaputt-  : *blättern, drücken, fallen, hämmern, laufen, schlagen, sparen, stoßen, tanzen*
-- leer-    : *fischen, klopfen*
+- leer-    : *fischen, grasen, klopfen*
 - klein-   : *kauen, reden*
 - nass-    : *heulen, schwitzen, weinen*
 - platt-   : *drücken, laufen*
@@ -1365,8 +1457,15 @@ Different adverbials, same prepositional role?
   Er hämmert die Tastatur kaputt.
 - Ich klopfe auf den Aschenbecher. \
   Ich klopfe den Aschenbecher leer.
+- Die Flüssigkeit strömt durch das Rohr. \
+  Die Flüssigkeit strömt das Rohr frei. \
+  Dort werden sie von der zuerst durch die […] einströmende Rückspülflüssigkeit aufgewirbelt und freigeströmt.^[Attested online at https://patents.google.com/patent/EP0104307A2/, accessed 8 September 2022.]
 - Die Truppen kämpfen um die Stadt. \
   Die Truppen kämpfen die Stadt frei.
+- Die Anwältin hat für ihren Mandanten 'geboxt'. \
+  Die Anwältin hat ihren Mandanten freigeboxt.
+- Die Tiere grasen auf der Weide. \
+  Die Tiere grasen die Weide leer.
 - Die anderen sagen: Parkett, das tanzen wir nur kaputt mit unseren Springerstiefeln.^[~~DWDS~~: Der Tagesspiegel, 23.08.2003.]
 - Er schwitzte sein Hemd naß.^[~~DWDS~~: Berliner Zeitung, 21.04.1997.]
 - [Er] heult dabei eine ganze Kleenex-Packung nass.^[~~DWDS~~: Berliner Zeitung, 17.08.2004.]
@@ -1388,7 +1487,7 @@ The resultative verb *freiboxen* 'to box somebody free' is typically used with a
 - Denn in Chicago gibt es den Star‑Anwalt Flynn, der mit Riesen‑Publicity‑Shows vor Gericht Frauen freiboxt, die ihren Kerl erschossen haben.^[~~DWDS~~: Der Tagesspiegel, 06.02.2003.]
 :::
 
-Some of these verbs, like *laufen* 'to run' [@next a] allow for the addition of an accusative result [@next b], see [@sec:case-accusative-addition]. The diathesis between [@next b] and [@next c] then becomes an example of a full applicative, cf. *zerlaufen* 'to run untill broken' [@next d], see [@sec:preverb-applicative-in-antipassive].
+Some of these verbs, like *laufen* 'to run' [@next a] allow for the addition of an accusative result [@next b], see [@sec:case-accusative-addition]. The diathesis between [@next b] and [@next c] then becomes an example of a full applicative, cf. *zerlaufen* 'to run until broken' [@next d], see [@sec:preverb-applicative-in-antipassive].
 
 ::: ex
 a. Ich laufe in meinen neuen Schuhen.
@@ -1407,7 +1506,7 @@ With some verbs, like *fallen* 'to fall' [@next a], this diathesis appears to be
 
 ### --- [ Ø > OBJ ] --- *Resultativ Akkusativ* {.unnumbered}
 
-### [ N– | NA ] Object addition+resultative {#sec:adverbial-object-addtion}
+### [ N– | NA ] Resultative object addition {#sec:adverbial-object-addtion}
 
 With the addition of the resultative adverbial, some intransitives obtain a completely new role in the accusative, like *bellen* 'to bark' [@next a] with the adjectival adverbial *wach* 'awake' [@next b]. There is no prepositional alternative like with the much more frequent applicative as discussed in the previous [@sec:adverbial-applicative]. Instead, this construction is related to the intransitive caused motion diathesis [@next c], see [@sec:prepositions-intransitive-location-as-result].
 
@@ -1419,7 +1518,6 @@ c. Der Hund bellt die Kinder aus dem Bett.
 
 **Attested Verbs**
 
-- frei-   : *arbeiten, sprechen, strömen*
 - gesund- : *hexen*
 - heiß-   : *reden*
 - leer-   : *fahren*
@@ -1431,8 +1529,6 @@ c. Der Hund bellt die Kinder aus dem Bett.
 
 **Further Examples**
 
-- Ich arbeite den Tisch frei.
-- Das Gericht spricht ihn frei.
 - Ich fahre den Tank leer.
 - Der Mann fährt das Kind tot.
 - Er raucht den Aschenbecher voll.
@@ -1441,8 +1537,7 @@ c. Der Hund bellt die Kinder aus dem Bett.
 - Sie hätte unabsichtlich nordstream zum 'reinen wirdschaftsprojekt' schöngeschwindelt.^[Attested online at https://www.zeit.de/2022/27/angela-merkel-aussenpolitik-russland-wladimir-putin#comments, accessed 31 August 2022.]
 - In den Dampfbädern wird jede Pore sauber geschwitzt.^[Attested online at https://www.fti.de/themenreisen/wellnessurlaub-harz.html, accessed 31 August 2022.]
 - Vielleicht kann man Theater tatsächlich vollschreien.^[~~DWDS~~: Die Welt, 18.03.1999.]
-- Dort werden sie von der zuerst durch die […] einströmende Rückspülflüssigkeit aufgewirbelt und freigeströmt.^[Attested online at https://patents.google.com/patent/EP0104307A2/, accessed 8 September 2022.]
-- Ich schärme dir die Ohren voll.
+- Ich schwärme dir die Ohren voll.
 
 **Notes**
 
@@ -1453,21 +1548,19 @@ The verb *reden* 'to talk' is listed here in a special variant, namely *heißred
 - Er redete die Spieler heiß.^[~~DWDS~~: Der Tagesspiegel, 11.05.2001.]
 :::
 
-## Symmetrical diatheses
+### --- [ Ø > OBJ > ADJ ] --- *Resultativ Teil/fest-Objekttausch* {.unnumbered}
 
-### --- [ Ø > OBJ > Ø ] --- *Resultativ Teilobjektiv* {.unnumbered}
-
-### [ NA– | N–A ] *fest/frei-* Object switch {#sec:adverbial-object-switch}
+### [ NA– | NpA ] *fest-* Object exchange {#sec:adverbial-fest}
 
 => part-whole relations?
 
-The obligatory location often depends on the role of the accusative object. For example, the verb *nähen* 'to sew' takes an accusative object in the role of 'sewee' (i.e. the thing that is being sewn together). In such a sentence, any locational phrase is optional [@next a]. However, there is a diathesis with *nähen* that produces a sentence in which the accusative encodes another role, namely the 'attachee' (see [@sec:prepositions-action-result]). As a result of this diathesis [@next b], the accusative encodes a component (here *Knopf* 'button') that is attached to something else by sewing (here *Hose* 'trousers'). When such an accusative 'attachee' role is present, then the 'attached site' locational phrase cannot be left out [@next c]. Now, adding the resultative adverbial *fest* allows for this location of the attachment to be dropped [@next d]. Note that this resultative adverbial *fest* cannot be used with the 'sewee' role [@next e]. This last sentence only can be interpreted as the *Hose* being 'attachee', not 'sewee'.
+The obligatory location often depends on the role of the accusative object. For example, the verb *nähen* 'to sew' takes an accusative object in the role of 'sewee' (i.e. the thing that is being sewn together). In such a sentence, any locational phrase is optional [@next a]. However, there is a diathesis with *nähen* that produces a sentence in which the accusative encodes another role, namely the 'attachee' (see [@sec:prepositions-partitive-free]). As a result of this diathesis [@next b], the accusative encodes a component (here *Knopf* 'button') that is attached to something else by sewing (here *Hose* 'trousers'). When such an accusative 'attachee' role is present, then the 'attached site' locational phrase cannot be left out [@next c]. Now, adding the resultative adverbial *fest* allows for this location of the attachment to be dropped [@next d]. Note that this resultative adverbial *fest* cannot be used with the 'sewee' role [@next e]. This last sentence only can be interpreted as the *Hose* being 'attachee', not 'sewee'.
 
 ::: ex
-- Er näht eine Hose .
-- Er näht einen Knopf an seiner Hose.
+- Er näht eine Hose.
+- Er näht den Knopf an seiner Hose.
 - ^* Er näht einen Knopf.
-- Er näht einen Knopf fest.
+- Er näht den Knopf fest.
 - ^^?^ Er näht eine Hose fest.
 :::
 
@@ -1475,30 +1568,19 @@ The obligatory location often depends on the role of the accusative object. For 
 
 **Attested Verbs**
 
-- fest- : *bügeln, kitten, nähen, schreiben*
-- frei- : *graben, legen, präparieren, pressen, räumen, schaufeln, schneiden*
+- fest- : *bügeln, kitten, kleben, leimen, löten, nähen, schreiben, schweißen*
 
 **Further Examples**
 
 - Ich nähe eine Bluse. \
-  Ich nähe den Knopf fest.
+  Ich nähe den Knopf (an die Bluse) fest.
 - Ich bügle ein Hemd. \
-  Ich bügle die Falten fest.
-- Ich schaufele den Schnee. \
-  Ich schaufele die Räder frei.
+  Ich bügle die Falten (in dem Hemd) fest.
 - Die Regierung schreibt eine Richtlinie. \
-  Die Regierung schreibt eine Obergrenze fest.
-- Der Arzt präpariert die Leiche. \
-  Der Arzt präpariert die Wirbelsäule frei.
-- Er legt die Erde zur Seite. \
-  Er legt das Kabel frei.
+  Die Regierung schreibt eine Obergrenze (in der Richtlinie) fest.
 - Ich kitte die zerbrochene Tasse. \
   Ich kitte den Henkel (an die Tasse) fest.
-- Die Rettunswerker graben ein Loch. \
-  Die Rettungswerker graben die Eingeschlossenen frei.
-- Ich räume den Schmutz von der Strasse. \
-  Ich räume die Strasse frei.
-- Feuerwehrleute schnitten die Eingeklemmten frei.^[~~DWDS~~: Die Zeit, 03.06.2015 (online).]
-- [Das] Kommando […] preßte 84 politische Gefangene frei.^[~~DWDS~~: Die Zeit, 27.07.1979, Nr. 31.]
 
+## Symmetrical diatheses
 
+This section is currently empty. It is only included here to keep the numbering parallel in all chapters.
