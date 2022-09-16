@@ -1517,7 +1517,7 @@ The antipassive demotion in this section always takes the preposition *mit*. The
 
 #### *um/mit* Preverb object exchange
 
-=> note: object is whole, surrounding is part. Being surrounded is 'voll'
+These verbs are illustrated with the diathesis between *binden* 'to tie' and *zubinden* 'tie up' [@next]. With these verbs, the new object after the diathesis (*Paket* 'parcel') is surrounded by the old object (*Faden* 'thread'). Because of the parallels to the previously discussed examples of this diathesis, this implies that the surrounded object is treated alike to a holonym and the surrounding as a meronym, and 'being surrounded' is treated alike to 'being full'.
 
 ::: ex
 - Ich binde einen Faden um das Paket.
@@ -1610,7 +1610,7 @@ There are two other highly similar diatheses that likewise add an accusative obj
 - erˈ-    : *kämpfen, leben, leuchten, lügen, morden, schnüffeln, schwimmen*
 - verˈ-   : *dösen, gammeln, pennen, petzen, qualmen, schlafen, schweigen, schwitzen, speisen, träumen, trödeln, wackeln, zaubern*
 - entˈ-   : *zaubern*
-- ˈan-    : *blinzeln, fauchen, hupen, leuchten, schwindeln*
+- ˈan-    : *bellen, blinzeln, fauchen, hupen, leuchten, schwindeln*
 - ˈab-    : *schreiten*
 - ˈdurch- : *boxen*
 - ˈvor-   : *flunkern, heulen, lügen, rechnen*

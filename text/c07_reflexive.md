@@ -172,10 +172,11 @@ Comparing these two groups, the generalisation can be formulated that obligatory
 
 ### [ N ] Obligatory accusative reflexive {#sec:reflexive-obligatory-accusative-reflexive}
 
-Various verbs describing behaviour, like *verirren* 'to get lost' [@next], need an obligatory reflexive pronoun.
+Various verbs describing behaviour, like *verirren* 'to get lost' [@next a], need an obligatory reflexive pronoun. Depending on the analysis, a large group of intransitive verbs with a resultative preverbial, like *totlachen* 'to laugh extremely' [@next b], can also be included here (cf. [@sec:adverbial-intransitive-resultative]).
 
 ::: ex
-Vier Wanderer haben sich im Gebirge verirrt.
+- Vier Wanderer haben sich im Gebirge verirrt.
+- Sie haben sich totgelacht.
 :::
 
 **Attested Verbs**
