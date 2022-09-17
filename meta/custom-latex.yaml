@@ -10,10 +10,21 @@ header-includes:
 - |
   ```{=latex}
   % adding preamble settings to pandoc defaults
-  \setlength\parindent{2ex} % set small indentation
+
+  % set small indentation
+  \setlength\parindent{2ex} 
+
+  % remove "p" option, default pandoc to latex uses [htbp]
   \usepackage{float}
-  \floatplacement{figure}{htb} % remove "p" option, default pandoc to latex uses [htbp]
+  \floatplacement{figure}{htb} 
+
+  % to get small subsection in TOC
   \usepackage{tocloft}
-  \renewcommand{\cftsubsecfont}{\scriptsize} % to get small subsection in TOC
+  \renewcommand{\cftsubsecfont}{\scriptsize} 
+
+  % simpler pageheader
+  \renewcommand{\chaptermark}[1]{ \markboth{#1}{} }
+  \renewcommand{\sectionmark}[1]{ \markright{#1}{} }
+
   ```
 

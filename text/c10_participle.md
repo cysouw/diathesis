@@ -106,7 +106,7 @@ c. Das Kind hat geschlafen.
 d. ^* Das Kind wird geschlafen.
 :::
 
-Crucially, the adnominal and adverbial usage of participles are not monoclausal. An adnominal participle is an alternative expression of a relative subordinate clause and an adverbial participle has the status of an adverbial subordinate clause. In contrast, the light-verb constructions with participles are monoclausal.
+Crucially, the adnominal and depictive usage of participles are not monoclausal. Both can be seen as alternative expressions of a relative subordinate clause. In contrast, the light-verb constructions with participles are monoclausal.
 
 ### Adnominally used participles {#sec:participles-adnominal-usage}
 
@@ -121,7 +121,7 @@ b. Er hat über die Geschichte gelogen. \
    Die offizielle, aber *gelogene Variante der Geschichte* hat ihn selber mehr ergriffen.^[~~DWDS~~: Berliner Zeitung, 08.05.2001.]
 :::
 
-Further, many intransitive verbs with a *haben* perfect can be used with a resultative accusative, for example verbs like *weinen* 'to cry' or *tanzen* 'to dance' (see [@sec:case-accusative-addition]). In such resultative usage they are transitives, and then the participle can be used adnominally with the accusative object [@next].
+Further, many intransitive verbs with a *haben* perfect can be used with an added-result accusative, for example verbs like *weinen* 'to cry' or *tanzen* 'to dance' (see [@sec:case-accusative-addition]). With such an added accusative these verbs are transitives, and then the participle can be used adnominally with the new accusative object [@next].
 
 ::: ex
 a. Er hat (die Worte) geweint. \
@@ -130,7 +130,7 @@ b. Er hat (den Tanz) getanzt. \
    Besonders der im Biedermeierkostüm *getanzte Aschenbrödeltanz* mit Vertonung von Zepler ergab wirkungsvolle Bilder.^[~~DWDS~~: Berliner Tageblatt (Abend-Ausgabe), 12.03.1918.]
 :::
 
-An even more intricate detail occurs with some movement verbs like *laufen* 'to walk' that allow for a manner-of-movement diathesis (cf. [@sec:prepositions-manner-of-movement]). When used with a directional phrase like *nach Hause* 'home' this verb takes the auxiliary *sein* [@next a] and then the participle together with the directional phrase can be used adnominally [@next b]. In contrast, the auxiliary *haben* seems incompatible with a directional phrase [@next c] and the participle without the directional phrase cannot be used adnominally [@next d].
+An even more intricate detail occurs with some movement verbs like *laufen* 'to walk' that allow for a manner-of-movement diathesis (cf. [@sec:prepositions-manner-of-movement]). When used with a directional phrase like *nach Hause* 'home' such verbs take the auxiliary *sein* [@next a] and then the participle together with the directional phrase can be used adnominally [@next b]. In contrast, the auxiliary *haben* seems incompatible with a directional phrase [@next c] and the participle without the directional phrase cannot be used adnominally [@next d].
 
 ::: ex
 a. Der Schüler ist nach Hause gelaufen.
@@ -139,11 +139,9 @@ c. Der Schüler hat *(nach Hause) gelaufen.
 d. ^* Der gelaufene Schüler weint.
 :::
 
-### Adverbially used participles {#sec:participles-secondary-predicates}
+### Depictively used participles {#sec:participles-secondary-predicates}
 
-Participles that can be used adnominally can also be used adverbially, as so-called depictive secondary predicates [@next a], see also [@sec:adverbial-depictive-predicates]. In such sentences, the participle functions syntactically like an modifier of an argument in the sentence structure [@next b]. The problem is that constructions with such modifying participles, like [@next a], are highly similar to light-verb constructions. For example, both constructions are coherent [@next c,d], cf. [@sec:intro-coherence].^[To be precise, the depictive usage of participles is only an adverbial in the sense 'adverbial-at-large', not in the sense 'adverbial-proper' (cf. [@]). Actually, participles do not seem to be possible in proper adverbial function.
-Interestingly, present participles (*Partizip I*, ending in *-end*)
-]
+Participles that can be used adnominally can also be used adverbially, or, to be more precise, as so-called depictive secondary predicates [@next a], see also [@sec:adverbial-depictive-predicates].^[The depictive usage is only adverbial in the sense 'adverbial-at-large', not in the sense 'adverbial-proper' (cf. [@sec:adverbial-depictive-predicates]). Actually, participles (i.e. *Partizip II*) do not appear to be possible in adverbial-proper function. In contrast, to so-called 'present' participles (i.e. *Partizip I*, ending in *-end*) can be used as an adverbial-proper, but that is a topic for another book.] In such sentences, the participle functions syntactically like a modifier of an argument in the sentence structure [@next b]. The problem is that constructions with such modifying participles, like [@next a], are highly similar to light-verb constructions. For example, both constructions are coherent [@next c,d], cf. [@sec:intro-coherence].
 
 ::: ex
 a. Er verkauft die Nägel gebogen.
@@ -197,7 +195,7 @@ e. Es ist bekannt, dass er die Schuhe immer im Geschäft geputzt bekommt.
 f. ^* Es ist bekannt, dass er die Schuhe immer geputzt im Geschäft bekommt.
 :::
 
-Third, secondary predication with participles can also be distinguished from light-verb constructions by considering negation. Negation in sentences with a participle as a secondary predicate normally negates this secondary predicate itself (lexical scope), just like negation of adverbs [@next a,b]. With secondary predicates it is often even possible to use the prefix *un-* to mark the lexical scope of the negation over the participle [@next c]. When the prefix *un-* can be added, this is an easy test for adverbial usage [@rothstein2007a: 161-162]. However, this test does not work in reverse (i.e. the impossibility to add *un-* is not necessarily a sign of a light-verb construction), because many participles simply do not exist with this prefix.
+Third, secondary predication with participles can also be distinguished from light-verb constructions by considering negation. Negation in sentences with a participle as a secondary predicate normally negates this secondary predicate itself (lexical scope), just like negation of adverbs [@next a,b]. With secondary predicates it is often even possible to use the prefix *un-* to mark the lexical scope of the negation over the participle [@next c]. When the prefix *un-* can be added, this is an easy test for secondary-predicate usage [@rothstein2007a: 161-162]. However, this test does not work in reverse (i.e. the impossibility to add *un-* is not necessarily a sign of a light-verb construction), because many participles simply do not exist with the *un-* prefix.
 
 ::: ex
 a. Er kauft die Schuhe nicht jetzt.
@@ -205,17 +203,17 @@ b. Er kauft die Schuhe nicht geputzt.
 c. Er kauft die Schuhe (nur) ungeputzt.
 :::
 
-In contrast, negation in a monoclausal light verb construction with a participle has a wide scope reading over the whole sentence. For example, in [@next a] the verb *bekommen* has two different readings. Either, as in [@next b], the verb *bekommen* is a full lexical verb with the meaning 'to get as a gift' and a narrow scope negation over the participle *nicht geputzt* (which is almost equivalent to *ungeputzt* 'uncleaned'), resulting in a meaning of 'he gets a gift of uncleaned shoes'. In this interpretation, the participle is an adverbial secondary predicate. Alternatively [@next c], *bekommen* can be interpreted as a light verb with a meaning 'to get something done for you' with a full verb as participle *geputzt* 'cleaned'. Together with the wide scope negation the meaning of the sentence then becomes 'he doesn't manage to get his shoes cleaned'. In this interpretation, the participle is part of a light verb construction *bekommen+Partizip*, see [@sec:participles-bekommen-passive].
+In contrast, negation in a monoclausal light verb construction with a participle has a wide scope reading over the whole sentence. For example, in [@next a] the verb *bekommen* has two different readings. Either, as in [@next b], the verb *bekommen* is a full lexical verb with the meaning 'to get as a gift' and a narrow scope negation over the participle *nicht geputzt* (which is almost equivalent to *ungeputzt* 'uncleaned'), resulting in a meaning of 'he gets a gift of uncleaned shoes'. In this interpretation, the participle is a secondary predicate. Alternatively [@next c], *bekommen* can be interpreted as a light verb with a meaning 'to get something done for you' with a full verb as participle *geputzt* 'cleaned'. Together with the wide scope negation the meaning of the sentence then becomes 'he doesn't manage to get his shoes cleaned'. In this interpretation, the participle is part of a light verb construction *bekommen+Partizip*, see [@sec:participles-bekommen-passive].
 
 ::: ex
 a. Er bekommt die Schuhe nicht geputzt.
-b. Er kriegt ein Geschenk, nämlich ungeputzte Schuhe.
-c. Er schafft es nicht seine Schuhe putzen zu lassen.
+b. (= Er kriegt ein Geschenk, nämlich ungeputzte Schuhe.)
+c. (= Er schafft es nicht seine Schuhe putzen zu lassen.)
 :::
 
 Note further that the sentence stress in [@last a] differs for both readings. With the reading as in [@last b], the first sentence has stress on the negation *nicht* (as is usually the case for lexical scope), while in the reading as in [@next c] the first sentence has stress on the participle *geputzt* (which is the regular stress placement for a wide-scope negation of the indicative main clause).
 
-Fourth, a further difference between participles as secondary predicates [@next a] and in light-verb constructions [@next b,c] is that secondary predicates are in many contexts ambiguous as to the scope of the predicate. For example, in [@next a] the secondary predicate *angekleidet* 'dressed' can be interpreted both as referring to the accusative object *Patienten* 'patients' and (in this infamous example with a humorous undertone) to the nominative subject *Doktor* 'doctor'. With light-verb constructions [@next b,c] there is never any such ambiguity.
+Fourth, a further difference between participles as secondary predicates [@next a] and in light-verb constructions [@next b,c] is that secondary predicates are in many contexts ambiguous as to the scope of the predicate. For example, in [@next a] the secondary predicate *angekleidet* 'dressed' can be interpreted both as referring to the accusative object *Patienten* 'patients' and (in this infamous example with a humorous undertone) to the nominative subject *Doktor* 'doctor'. With light-verb constructions [@next b,c] there is never any such ambiguity, because the participle does not directly modify an argument.
 
 ::: ex
 a. Der Doktor untersucht seine Patienten immer angekleidet.
@@ -259,7 +257,9 @@ A construction is ~~tense-oriented~~ when it is possible to add a punctual non-p
 - ^* Sie weiß ihr Kind gestern/morgen eingeschlafen.
 :::
 
-In contrast, two conditions have to be met to identify a construction as being ~~perfect-oriented~~, namely (i) the process has to be completed and (ii) the resulting state-of-affairs remains intact after this completion. These two conditions can be tested in German by observing that (i) in a context stating the completion (ii) it is possible to add an 'ongoing' temporal adverbial, like retrospective *schon lange* 'for a long time' and *seit zwei Stunden* 'since two hours', or prospective *für zwei Stunden* 'for two hours' and *bis morgen* 'until tomorrow'. For example, the *bleiben* and *wissen* participle constructions are perfect-oriented [@next]. As discussed previously, these constructions are not tense-oriented [@last]. In general, most constructions are either perfect-oriented or tense-oriented with only few exceptions. Congruously, the tense-oriented constructions with *werden* and *bekommen* [@llast] are not perfect-oriented [@nnext]. Note that the first condition of perfect-orientation (viz. that the process has to be completed) is crucial here. A sentence like *Das Auto wird seit zwei Stunden repariert* is grammatically perfectly fine in German, but only with an imperfective durative interpretation, i.e. the process is not completed, but still ongoing.
+In contrast, two conditions have to be met to identify a construction as being ~~perfect-oriented~~, namely (i) the process has to be completed and (ii) the resulting state-of-affairs remains intact after this completion. These two conditions can be tested in German by observing that (i) in a context stating the completion (ii) it is possible to add an 'ongoing' temporal adverbial, like retrospective *schon lange* 'for a long time' and *seit zwei Stunden* 'since two hours', or prospective *für zwei Stunden* 'for two hours' and *bis morgen* 'until tomorrow'. For example, the *bleiben* and *wissen* participle constructions are perfect-oriented [@next]. As discussed previously, these constructions are not tense-oriented [@last]. 
+
+In general, most constructions are either perfect-oriented or tense-oriented with only few exceptions. Congruously, the tense-oriented constructions with *werden* and *bekommen* [@llast] are not perfect-oriented [@nnext]. Note that the first condition of perfect-orientation (viz. that the process has to be completed) is crucial here. A sentence like *Das Auto wird seit zwei Stunden repariert* is grammatically perfectly fine in German, but only with an imperfective durative interpretation, i.e. the process is not completed, but still ongoing.
 
 ::: ex
 - (Kontext: Die Tür ist offen.) \
@@ -288,12 +288,14 @@ Major ~~tense-oriented~~ participle constructions:
 - *sein+Partizip* perfect (see [@sec:participles-sein-perfect])
 :::
 
-Normally (except for the *haben/sein* perfect), when the light verb is in the *Präsens*, then the construction has present/future time reference [@next a]. Alternatively, when the light verb is marked as *Präteritum*, then the construction has past time reference and implies completion [@next b]. The time reference of perfect-oriented constructions works slightly different. When the light verb is in the *Präsens* then the resulting state is still in effect at the time of utterance [@nnext a]. In contrast, with the light verb in the *Präteritum* the resulting state has come to an end [@nnext b].
+Normally (except for the *haben/sein* perfect), when the light verb is in the *Präsens*, then the construction has present/future time reference [@next a]. Alternatively, when the light verb is marked as *Präteritum*, then the construction has past time reference and implies completion [@next b]. 
+
+The time reference of perfect-oriented constructions works slightly different. When the light verb is in the *Präsens* then the resulting state is still in effect at the time of utterance [@nnext a]. In contrast, with the light verb in the *Präteritum* the resulting state has come to an end [@nnext b].
 
 ::: ex
-- Das Auto wird morgen repariert. \
+- Das Auto wird (heute) repariert. \
   (↦ Das Auto is noch nicht fertig.)
-- Das Auto wurde gestern repariert. \
+- Das Auto wurde (gestern) repariert. \
   (↦ Das Auto ist fertig.)
 :::
 
@@ -313,7 +315,7 @@ The temporal interpretation of the *haben/sein+Partizip* (confusingly called *Pe
 - ^^?^ Der Gefangene ist seit drei Tagen geflohen.
 ::: 
 
-Differently from all other tense-oriented constructions, with the light verb in the *Präsens* the Perfect has past time reference. With the light verb in the *Präteritum* the time-reference remains past, though there is an additional implication of the completion of the process [@next].
+Differently from all other tense-oriented constructions, with the light verb in the *Präsens* the *Perfekt* has past time reference. With the light verb in the *Präteritum* the time-reference remains past, though there is an additional implication of the completion of the process [@next].
 
 ::: ex
 - Ich hatte gestern geblutet. \
@@ -332,7 +334,9 @@ By combining the tense-oriented *sein+Partizip* perfect with another tense-orien
 
 ### Lexical restrictions on participle constructions {#sec:participles-restrictions}
 
-In recent years there has been an extensive discussion about two classes of intransitive verbs depending on their light-verb possibilities. This discussion originated with the discussion on the impersonal *werden* passive (see [@sec:participles-werden-impersonal-passive]) in Perlmutter [-@perlmutter1978]. He introduced the terms ~~unergative/unakkusative~~ for intransitive verbs that do (unergative) or do not (unaccusative) allow for such impersonal passives [see @pullum1988 for a discussion of the origin of the term and scholarly predecessors; for an early discussions in German, see @wunderlich1985]. The most extensive discussion of the grammatical possibilities of intransitives in German can be found in Grewendorf [-@grewendorf1989], though unfortunately (and confusingly) using the term 'ergative' for what Perlmutter calls 'unaccusative'. Similar phenomena of splits in intransitives have long been recognised in the typological literature under various names. Instead of unergative/unaccusative one can find active/inactive [@sapir1917: 85], S~a~/S~o~ [@dixon1979: 70] or more mnemonic ~~agentive/patientive~~ [cf. @mithun1991]. These last terms will be used here. The term ~~agentive~~ is used here because the sole argument of an agentive intransitive verb is syntactically treated similar to the agent of a transitive verb. Likewise, The name ~~patientive~~ is used because the sole argument of patientive intransitive verb is syntactically treated similar to the patient of a transitive verb.
+In recent years there has been an extensive discussion about two classes of intransitive verbs depending on their light-verb possibilities. This discussion originated with the discussion on the impersonal *werden* passive (see [@sec:participles-werden-impersonal-passive]) in Perlmutter [-@perlmutter1978]. He introduced the terms ~~unergative/unakkusative~~ for intransitive verbs that do (unergative) or do not (unaccusative) allow for such impersonal passives [see @pullum1988 for a discussion of the origin of the term and scholarly predecessors; for an early discussions in German, see @wunderlich1985]. The most extensive discussion of the grammatical possibilities of intransitives in German can be found in Grewendorf [-@grewendorf1989], though unfortunately (and confusingly) using the term 'ergative' for what Perlmutter calls 'unaccusative'. 
+
+Similar phenomena of splits in intransitives have long been recognised in the typological literature under various names. Instead of unergative/unaccusative one can find active/inactive [@sapir1917: 85], S~a~/S~o~ [@dixon1979: 70] or more mnemonic ~~agentive/patientive~~ [cf. @mithun1991]. These last terms will be used here. The term ~~agentive~~ is used here because the sole argument of an agentive intransitive verb is syntactically treated similar to the agent of a transitive verb. Likewise, The name ~~patientive~~ is used because the sole argument of patientive intransitive verb is syntactically treated similar to the patient of a transitive verb.
 
 The basic proposal from Perlmutter [-@perlmutter1978] is the ~~unaccusative hypothesis~~. This hypothesis proposes that the sole argument of certain intransitive verbs is underlyingly alike to a transitive object (i.e. patientive). Such verbs can be identified by various syntactic characteristics. For example, a patientive verb like *einschlafen* 'to fall asleep' combines with *sein* to form the perfect [@next a] and not with *haben* [@next b]. Further, patientives do not allow for an impersonal *werden* passive [@next c], but they can be used adnominally [@next d]. In contrast, an agentive intransitive verb like *schlafen* 'to sleep' has the reversed distribution [@nnext].
 
@@ -354,11 +358,11 @@ However, there is much more variation in the distribution of light-verb construc
 
 | verb           | *sein* | *haben* | *werden* |
 |:-------------- |:------:|:-------:|:--------:|
-| *einschlafen*  |   +    |    –    |     –    |
+| *einschlafen*  |   +    |    –    |    –     |
 | *fallen*       |   +    |    –    |    +     |
-| *rosten*       |   +    |    +    |     –    |
+| *rosten*       |   +    |    +    |    –     |
 | *klettern*     |   +    |    +    |    +     |
-| *bluten*       |   –    |    +    |     –    |
+| *bluten*       |   –    |    +    |    –     |
 | *schlafen*     |   –    |    +    |    +     |
 
 Table: Possible combinations of light-verbs with participles {#tbl:light-verb-constructions}
@@ -503,31 +507,40 @@ Finally, the light verbs *gehören*, *sehen*, *wissen* and *glauben* can be comb
 
 ## Deponent verbs without alternations {#sec:participles-no-alternation}
 
-Most participles are regularly derived from verb stems that allow for finite verb forms. However, there are various participles that are not directly related to a finite verb, but that still occur in light verb constructions. Parallel to the '.3' sections in earlier chapters, I will discuss here various different kinds of participles without finite counterpart:
+Most participles are regularly derived from verb stems that also allow for finite verb forms. However, there are various participles that are not directly related to a finite verb, but that still occur in light verb constructions. These are sometimes called *Scheinpartizip* in the German literature. However, this name is somewhat of a misnomer as there is nothing 'apparent' ('*schein*') about these participles. In constrast, it is the finite verb that is missing. A name like *Scheinverbpartizip* 'participle of an apparent verb' would be more accurate, but of course rather cumbersome. 
+
+In this section, I will discuss the following kinds of participles without finite counterpart [cf. @rapp1997: 220ff., @haig2005]:
 
 - Some participles have an idiomatic meaning that is not transparently related to the meaning of the morphologically corresponding finite verb (see [@sec:participles-idiomatic-meaning]).
+- Some participles are derived from loanwords, but the corresponding finite forms do not exist (see [@sec:participles-loanwords]).
 - Some participles are derived from nouns, and the corresponding finite verb does not exist (see [@sec:participles-nouns]).
-- Some participles might seem to be regular participles of verbs with a preveb, but the corresponding verb with preverb does not exist as a finite verb – only the verb without the preverb exists (see [@sec:participles-preverbs]).
-
-=> *Scheinpartizipien* [@haig2005]
+- Some participles might seem to be regular participles of verbs with a preverb, but the corresponding verb does not exist as a finite verb – only the verb without the preverb exists in finite form (see [@sec:participles-preverbs]).
 
 ### Idiomatic meaning of participles {#sec:participles-idiomatic-meaning}
 
-Some participles have obtained a specialised idiomatic meaning, different from the finite use of the verb. For example *verwenden* 'to plead for' with participle *verwandt* [@next a] has given rise to a completely separate participle *verwandt* 'to be related' [@next b]. Note that there is also a separate verb *verwenden* meaning 'to utilise' with a different participle *verwendet*.
+Some participles have obtained a specialised idiomatic meaning, different from the finite use of the verb. For example *verwenden* 'to plead for' with participle *verwandt* [@next a] has given rise to a completely separate participle *verwandt* 'to be related' [@next b].^[Unrelated, there is also a separate verb *verwenden* meaning 'to utilise' with a different participle *verwendet*.]
 
 ::: ex
 a. Er hat sich sehr für die Einrichtung eines Spielplatzes verwandt.
 b. Wir sind verwandt.
 :::
 
-Similarly idiomatic are the participles *verrückt* 'crazy' from *verrücken* 'to relocate' [@next a] and *verklemmt* 'prudish' from *verklemmen* 'to get jammed' [@next b]
+Similarly idiomatic are the participles *verrückt* 'crazy' from *verrücken* 'to relocate' [@next a] and *verklemmt* 'prudish' from *verklemmen* 'to get jammed' [@next b].
 
 ::: ex
 a. Er ist verrückt.
 b. Er ist verklemmt.
 :::
 
-The participle *bekannt* 'well-known' is morphologically derived from *bekennen* 'to confess', although the meaning of the participle is related to *kennen* 'to know', which has a participle *gekannt*.
+The verb *regnen* 'to rain' is of course a completely normal finite verb in German, typically used with a non-phoric pronoun *es* [@next a]. However, there is a special usage of this verb with an animate subject and an obligatory manner adverbial (cf. [@sec:adverbial-nominative]) that can be used as a participle *geregnet* [@next b], but not as a finite verb [@next c]. This special usage could be a participle derived from the noun *Regen* 'rain' instead, as discussed in [@sec:participles-nouns] below.
+
+::: ex
+a. Es regnet.
+b. Ich bin nass geregnet.
+c. ^* Ich regne nass.
+:::
+
+The participle *bekannt* 'well-known' appears to be morphologically derived from *bekennen* 'to confess', although the meaning of the participle is related to *kennen* 'to know', which has a participle *gekannt*. Such examples are discussed in [@sec:participles-preverbs] below.
 
 ::: ex
 a. Jeder kennt den Schauspieler.
@@ -536,7 +549,7 @@ b. Der Schauspieler ist bekannt/*gekannt
 
 **Attested Participles**
 
-- *bekannt, verrückt, verklemmt, verwandt*
+- *geregnet, verdutzt, verrückt, verklemmt, verwandt*
 
 **Notes**
 
@@ -554,11 +567,23 @@ a. Bei Wind verfrieren die Wangen in kürzester Zeit.^[~~DWDS~~: Die Zeit, 10.01
 b. Meine Wangen sind verfroren.
 :::
 
+The participle *verdutzt* is derived from a verb *verdutzen* from Md. *vortutten* 'verwirren' that is been lost in contemporary German [@pfeiffer1993: entry *verdutzt*].
+
+### Participles from loanwords {#sec:participles-loanwords}
+
+There are some participles ending in *-iert* that do not have any finite counterparts. These are build using a widespread German suffix *-ier* to turn loandwords into German verbs, like with *montieren* 'to assemble'. This verb clearly has finite and non-finite forms, among them a particple *montiert*.^[This participle has no pregix *ge-* because of the general German rule that verbs with noninitial stress do not get a prefix [@wiese1996: 92]. With these loanverbs, the suffix *-ier* is always stressed, so there is never any prefix.]
+
+However, there are various participle-like forms ending in *-iert* that do not appear to be have finite forms, like *alkoholisiert* 'to become alcoholized' [@haig2005: 117]. Although many German dictionaries mention this verb, including sometimes listing finite forms, I have been unable to find any finite example of this verb. Only the infinitive *alkoholisieren* and the participle *alkoholisiert* are attested. It is unclear to me whether the finite forms have simply been lost, or whether they have never existed at all.
+
+**Attested Verbs**
+
+- *alkoholisiert, motorisiert, dezidiert, deplaziert, detailliert, versiert, pointiert*
+
 ### Participles from nouns {#sec:participles-nouns}
 
-There exist various German words that are clearly participles in form, but their stems are nouns and not finite verbs. This might look like conversion, but it is not. The wholesale (zero-marked) conversion of nouns into finite verbs is attested in German (e.g. *ölen* 'to apply oil' from the noun *Öl*, 'oil'), but this is far from as productive as in English.
+There exist various German words that are clearly participles in form, but their stems are nouns and not finite verbs [cf. @haig2005: 119]. This might look like conversion, but it is not. The wholesale (zero-marked) conversion of nouns into finite verbs is clearly attested in German (e.g. *ölen* 'to apply oil' from the noun *Öl*, 'oil'), but this is far from as productive as in English.
 
-In contrast, the participles that are of interest here do not exist as finite verbs, i.e. there are no German verbs *blumen* 'to put flowers on something' or *flügeln* 'to put wings on something, but the participles *geblümt* 'flowered' (from noun *Blume* 'flower') and *gefügelt* 'winged' (from noun *Flügel* 'wing') are perfectly possible. Semantically, the noun-based participles express a kind of possessive relationship 'subject exists with noun', for example *geblümt* means 'to have flowers applied to it'.
+In contrast, the participles that are of interest here do not exist as finite verbs, i.e. there are no German verbs *blumen* 'to put flowers on something' or *flügeln* 'to put wings on something, but the participles *geblümt* 'flowered' (from noun *Blume* 'flower') and *gefügelt* 'winged' (from noun *Flügel* 'wing') are perfectly possible. Semantically, the noun-based participles express a kind of possessive relationship 'subject exists with noun', for example *geblümt* means 'to exist with flowers applied to it'.
 
 Further, various participles are derived from nouns using verb prefixes *be-* and *ver-*. As discussed earlier, it is a relatively widespread phenomenon for finite verbs to be derived from nominal stems using these prefixes (see [@sec:preverbs-other-stems]). For example, the verb *vergiften* 'to poison' is derived from the noun *Gift* 'poison' without any verb like *giften* in between [@next a,b]. As a consequence, the participle *vergiftet* also exist [@next c]. 
 
@@ -568,7 +593,7 @@ b. Sie vergiftet ihn.
 c. Er ist vergiftet.
 :::
 
-In contrast, the participle *verhasst* 'hated' is derived from the noun *Hass* 'hate' and the verb *hassen* 'to hate' [@nnext a]. However, the verb *verhassen* cannot be used as a finite verb [@nnext b], only as a participle [@nnext c].
+Differently, the participle *verhasst* 'hated' appears to be derived from the noun *Hass* 'hate', but actually both are derived from the verb *hassen* 'to hate' [@nnext a]. However, the verb *verhassen* cannot be used as a finite verb [@nnext b], only as a participle [@nnext c]. These examples are discussed in [@sec:participles-preverbs] below.
 
 ::: ex
 a. Sie hasst ihn.
@@ -578,9 +603,10 @@ c. Er ist verhasst.
 
 **Attested Participles**
 
-- *ge-*  : *geblümt, geflügelt, gelaunt, genarbt, geschweift, gesittet, gestreift, gezackt*
-- *be-*  : *begabt, behaart, berindet, beschürzt, besternt*
-- *ver-* : *verhasst, verblümt, verwitwet*
+- ge-  : *geädert, geblümt, gebrandmarkt, gebuchtet, gefenstert, gefiedert, gefleckt, geflügelt, gehandikapt, gehenkelt, gehörnt, gelaunt, gemustert, genarbt, genoppt, gepunktet, gerädert, gerahmt, gerippt, geschweift, gesittet, gestreift, gewitzt, gewürfelt, gezackt*
+- be-  : *bebartet, beblümt, bebrillt, befrackt, begabt, begnadet, behaart, behämmert, beheimatet, behelmt, beherzt, beknackt, beleibt, bemittelt, bemoost, bereift, berindet, beschilft, beschürzt, besternt, betagt, bezopft*
+- ver- : *veraltet, verblümt, verkorst, verwitwet*
+- zer- : *zerfurcht, zerklüftet*
 
 **Notes**
 
@@ -591,16 +617,16 @@ a. Die Streifen zackten sich über Schuhe, Bänke, Tische, Mäntel, Bettgitter.^
 b. Man schweifte wie auf einem riesigen Schuttplatz jenseits der Ränder der bekannten Welt.^[~~DWDS~~: Jünger, Ernst: In Stahlgewittern, Stuttgart: Klett-Cotta 1994 [1920], S. 110.]
 :::
 
-The participle *gelaunt* (from noun *Laune* 'mood') and *geregnet* (from noun *Regen*, 'rain') obligatorily needs a manner adverbial, see [@sec:adverbial-nominative].
+The participle *gelaunt* (from noun *Laune* 'mood') needs a manner adverbial (cf. [@sec:adverbial-nominative]).
 
 ::: ex
 a. Ich bin gut gelaunt.
-b. Ich bin nass geregnet.
+b. ^* Ich laune gut.
 :::
 
 ### Participles with preverbs {#sec:participles-preverbs}
 
-Word like *einverstanden* 'agreed' [@next a] looks morphologically like a regular participle from a verb *einverstehen*. However, that verb does not exist [@next b], only the non-prefixed verb *verstehen* exists. Latzel [-@latzel1977: 79-80] discussed various examples with the preverb *aus-* and Rothstein [-@rothstein2007a: 162] lists examples with the preverb *an-* that only occur in construction with light verb *kommen* (see [@sec:participles-kommen]). Participles with preverbs that do not have a corresponding finite verb appear to be a common phenomenon and the participles listed here are only to be taken as examples.
+Words like *einverstanden* 'agreed' [@next a] looks morphologically like a regular participle from a verb *einverstehen*. However, that verb does not exist [@next b], only the non-prefixed verb *verstehen* exists. Latzel [-@latzel1977: 79-80] discussed various examples with the preverb *aus-* and Rothstein [-@rothstein2007a: 162] lists examples with the preverb *an-* that only occur in construction with light verb *kommen* (see [@sec:participles-kommen]). Participles with preverbs that do not have a corresponding finite verb appear to be a common phenomenon and the participles listed here should only to be taken as illustrative examples.
 
 ::: ex
 a. Ich bin einverstanden.
@@ -609,9 +635,9 @@ b. ^* Ich verstehe ein.
 
 **Attested Participles**
 
-- *abgeneigt, bekannt, einverstanden, zerschunden*
-- *aus-* : *ausgeblufft, ausgedient, ausgekämpft, ausgeknabbert, ausgelitten, ausgepredigt, ausgeschätzelt, ausgesorgt, ausgespielt, ausgeträumt, ausgezaubert, ausstudiert*
-- *an-*  : *angedampft, angedonnert, angeflitzt, angeheiratet, angehetzt, angeheult, angekeucht, angekrochen, angelatscht, angelaufen, angeprescht, angerast, angerasselt, angerauscht, angeritten, angerannt*
+- an-  : *angedampft, angedonnert, angeflitzt, angeheiratet, angehetzt, angeheult, angekeucht, angekrochen, angelatscht, angelaufen, angeprescht, angerast, angerasselt, angerauscht, angeritten, angerannt*
+- aus- : *ausgeblufft, ausgedient, ausgekämpft, ausgeknabbert, ausgelitten, ausgepredigt, ausgeschätzelt, ausgesorgt, ausgespielt, ausgeträumt, ausgezaubert, ausstudiert*
+- others : *abgeneigt, befangen, bekannt, bescheuert, bewusst, einverstanden, erlesen, verfressen, verhasst, verrotzt, verschämt, verträumt, zerschunden*
 
 ## Alternations without diathesis
 
@@ -1123,18 +1149,10 @@ The secondary predicate usage is also possible with transitive verbs, but then t
   Sein Brief kam schon fertig geschrieben bei mir auf den Tisch.
 :::
 
-**Attested Verbs**
+#### Attested Verbs ([further examples in the appendix](#participles-kommen)) {.unnumbered}
 
 - movement verbs: *fliegen, hüpfen, laufen, schwimmen, zufliegen*, etc.
-- *an-* verbs only attested in the *kommen+Participle* construction: *andampfen, andonnern, anfliegen, anflitzen, anhetzen, anheulen, ankeuchen, ankriechen, anlatschen, anlaufen, anpreschen, anrasen, anrasseln, anrauschen, anreisen, anreiten, anrennen, anrücken*
-
-**Further Examples**
-
-- Er kam aus dem Haus gelaufen.
-- Er kam zum Ufer geschwommen.
-- Eine Kugel kommt geflogen.
-- Ein Vogel ist auf mich zugeflogen gekommen.
-- Er kam geschmückt, erregt, und gespannt zu Tische [Thomas Mann, cited from @rothstein2007a: 161]
+- *an-* verbs only attested in the *kommen+Partizip* construction: *andampfen, andonnern, anfliegen, anflitzen, anhetzen, anheulen, ankeuchen, ankriechen, anlatschen, anlaufen, anpreschen, anrasen, anrasseln, anrauschen, anreisen, anreiten, anrennen, anrücken*
 
 ### [ N | N ] *bleiben+Partizip* Continuative (*Perfektkontinuativ*) {#sec:participles-bleiben-intransitive}
 
@@ -1156,18 +1174,9 @@ The *bleiben+Partizip* construction is only possible with verbs that also allow 
   Alex rührt sich, aber bleibt eingeschlafen.^[Attested online at <https://blogs.cornell.edu/glp-spr58/2014/05/07/jesus-christus-und-ikea-in-wolfgang-beckers-goodbye-lenin/>, accessed 16 July 2021.]
 :::
 
-**Attested Verbs**
+#### Attested Verbs ([further examples in the appendix](#participles-bleiben-intransitive)) {.unnumbered}
 
 - *erkranken, verbrennen, verrosten, verschimmeln, verschwinden, vertrocknen, verwelken, zufrieren*
-
-**Further Examples**
-
-- Die Blume bleibt verwelkt (verblüht).
-- Das Schloss bleibt verrostet.
-- Das Geschirr wurde gewaschen, aber selbst der Fach wo das Geschirr reinkommt, ist verschimmelt geblieben.^[Attested online at <https://www.holidaycheck.de/hrd/hl-miraflor-suites-hotel-sehr-viel-verbesserungspotenzial/2e0be7a4-3803-4fe7-a19a-910d17de92b8>, accessed 16 July 2021.]
-- Nur von 4000 Personen ist aktenkundig bekannt, daß sie verschwunden geblieben sind.^[Attested online at <https://www.zeit.de/1975/46/spurlos-verschwunden/seite-4>, accessed 16 July 2021.]
-- Die Köpfchen vertrockneten immer wieder, aber sie rappelte sich immer wieder auf. Seit 4 Wochen sind die Köpfchen vertrocknet geblieben.^[Attested online at <https://www.hausgarten.net/gartenforum/threads/carnivoren-winterruhe.32314>, accessed 16 July 2021.]
-- Ich bin auch nach der Schwangerschaft weiter an Diabetes erkrankt geblieben.^[Attested online at <https://www.hipp.de/forum/viewtopic.php?t=17551>, accessed 16 July 2021.]
 
 ### [ NA | NA ] *halten+Partizip* Caused continuative (*Kausativkontinuativ*) {#sec:participles-halten-durative}
 

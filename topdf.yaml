@@ -6,7 +6,7 @@ pdf-engine: xelatex
 output-file: docs/fulltext.pdf
 
 input-files:
-- text/c00_preface.md
+- text/preface.md
 - text/c01_introduction.md
 - text/c02_structure.md
 - text/c03_summaryDia.md
@@ -20,6 +20,8 @@ input-files:
 - text/c11_infinitive.md
 - text/c12_zuInfinitive.md
 - text/c13_zumInfinitive.md
+- text/examples.md
+- text/references.md
 
 filters:
 - filters/setdate.lua
@@ -35,6 +37,7 @@ metadata-files:
 - meta/custom-latex.yaml
 
 # pandoc-native functionalities
+
 number-sections: true
 table-of-contents: true
 standalone: true

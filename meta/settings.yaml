@@ -38,5 +38,5 @@ resetAtChapter: true
 
 bibliography: /Users/cysouw/Documents/Bibdesk/michaellibrary.bib
 citation-style: /Users/cysouw/Documents/Bibdesk/unified.csl
-reference-section-title: References
+#reference-section-title: References
 link-citations: true
