@@ -512,40 +512,40 @@ b. Insofern entbehrt es jeglichen Beweises.
 
 ### [ NA | –N ] *haben* Anticausative {#sec:case-haben-anticausative}
 
-A typical anticausative verb allows for both a transitive [@next a] and an intransitive construction [@next b], in which the intransitive nominative is the same participant as the transitive accusative. This is attested in German with verbs like *kochen* 'to cook' [@next]. However, because this diathesis is formally unmarked it is difficult to decide whether this should be classified as an anticausative or as a causative [cf. @scheibl2006: 355]. 
+A typical anticausative verb allows for both a transitive [@next a] and an intransitive construction [@next b] in which the intransitive nominative is the same participant as the transitive accusative. This is attested in German with verbs like *beginnen* 'to start' [@next]. However, because this diathesis is formally unmarked it is difficult to decide whether this should be classified as an anticausative or as a causative [cf. @scheibl2006: 355]. 
 
-Whatever the ultimate best analysis will be, it is important to realise that there are two different classes of verbs in German. With verbs like *kochen* the perfect of the intransitive exist both with auxiliaries *haben* [@next c] and *sein* [@next d]. In contrast, with verbs like *zerbrechen* 'to break' the intransitive perfect only allows for *sein* (see [@sec:case-sein-causative] for an extensive discussion). These two classes of verbs should be distinguished and I propose to consider the *kochen*-class as an anticausative (this section) and the *zerbrechen*-class as a causative (see [@sec:case-sein-causative]).
+Whatever the ultimate best analysis will be, it is important to realise that there are two different classes of verbs in German. With verbs like *beginnen* the perfect of the intransitive exist both with auxiliaries *sein* [@next c] and *haben* [@next d]. In contrast, with verbs like *zerbrechen* 'to break' the intransitive perfect only allows for *sein* (see [@sec:case-sein-causative] for an extensive discussion). These two classes of verbs should be distinguished and I propose to consider the *beginnen*-class as an anticausative diathesis (this section) and interpret the *zerbrechen*-class as a causative diathesis (see [@sec:case-sein-causative]).
 
-Semantically, the intransitive *haben* construction in [@next c] seems to be the regular perfect of the intransitive [@next b]. The *sein* construction in [@next d] is probably best analysed as the *Zustandspassiv* (see [@sec:participles-sein-zustandspassiv]) of the transitive [@next a]. 
+Semantically, the intransitive *haben* construction in [@next d] seems to be the regular perfect of the intransitive [@next b]. The intransitive *sein* construction in [@next c] is probably best analysed as the *Zustandspassiv* (see [@sec:participles-sein-zustandspassiv]) of the transitive [@next a]. The temporal structure of the two intransitive participle constructions agrees with this proposal. As argued in [@sec:participles-temporal-interpretation], the *Zustandspassiv* is result-oriented and as such not compatible with gradual time specification, like *schrittweise* 'gradually' [@next c,d]. Note that the adverbial *schrittweise* would be possible in the *ist begonnen worden* construction. However, though superficially similar, that is clearly a different construction (see [@sec:participles-sein-zustandspassiv] for a detailed discussion).
 
 ::: ex
-a. Ich koche den Kaffee.
-b. Der Kaffee kocht.
-c. Der Kaffee hat gekocht.
-d. Der Kaffee ist gekocht.
+- Er beginnt den Krieg.
+- Der Krieg beginnt.
+- Der Krieg ist (\*schrittweise) begonnen.
+- Der Krieg hat (schrittweise) begonnen.
 :::
 
 **Attested Verbs**
 
-- *abnehmen, abreißen, abstoßen, anfangen, anhalten, aufmachen, backen, baden, beginnen, bewegen, braten, bremsen, duschen, fliegen, kochen, landen, läuten, öffnen, rauchen, schließen, spielen (eines Tonträgers), starten, stoppen, umdrehen, umgeben, wiegen, zählen, zünden*
+- *abnehmen, abreißen, abstoßen, anfangen, anhalten, aufmachen, backen, baden, beginnen, bewegen, braten, bremsen, duschen, fliegen, kochen, landen, läuten, öffnen, rauchen, schließen, spielen (Tonträger), starten, stoppen, umdrehen, umgeben, wiegen, zählen, zünden*
 
 **Further Examples**
 
+- Ich koche den Kaffee. \
+  Der Kaffee hat gekocht. \
+  Der Kaffee ist gekocht.
 - Er landet das Flugzeug. \
   Das Flugzeug hat gelandet. \
   Das Flugzeug ist gelandet.
 - Ich habe die Bombe gezündet. \
   Die Bombe hat gezündet. \
   Die Bombe ist gezündet.
-- Der Mitarbeiter öffnet den Laden/macht den Laden auf. \
-  Der Laden hat geöffnet/aufgemacht. \
-  Der Laden ist geöffnet/aufgemacht.
+- Der Mitarbeiter macht den Laden auf. \
+  Der Laden hat aufgemacht. \
+  Der Laden ist aufgemacht.
 - Ich rauche eine Zigarette. \
   Das Feuer hat geraucht. \
   Die Zigarette ist geraucht.
-- Ich beginne einen Streit. \
-  Der Streit hat begonnen. \
-  Der Krieg ist begonnen.
 - Ich wiege den Patienten vor und nach der Behandlung. \
   Der Patient hat 50 Kilo gewogen. \
   Der Patient ist schon gewogen.
@@ -567,7 +567,7 @@ d. Der Kaffee ist gekocht.
 
 **Notes**
 
-A causative reading seems to be available with *duschen* 'to take a shower' [@next a]. With an accusative this verbs means 'to give something else a shower' [@next b]. However, both intransitive perfekt auxiliaries *haben* and *sein* are possible [@next c,d], so I classify this alternation here with the anticausatives. A parallel situation arises with *baden* 'to bathe'.
+A causative reading seems to be available with *duschen* 'to take a shower' [@next a]. With an accusative this verbs means 'to give someone else a shower' [@next b]. However, both intransitive perfekt auxiliaries *haben* and *sein* are possible [@next c,d], so I classify this alternation here with the anticausatives (and not with the causatives). A parallel situation arises with *baden* 'to bathe'.
 
 ::: ex
 a. Ich dusche.
@@ -592,6 +592,19 @@ Similarly, the verb *anhalten* has two different meanings. In the meaning 'to st
 - ^* Der Bus ist angehalten.
 - Ich habe meinen Sohn angehalten, pünktlich zu sein. \
   Mein Sohn ist angehalten, pünktlich zu sein.
+:::
+
+The verbs *öffnen* 'to open' and *schließen* 'to close' appear here in a special usage, for example when related to the opening and closing of a *Laden* 'shop' [@next a]. In that context an unmarked anticausative can be used [@next b]. In contrast, with other objects like *Tür* 'door' [@next c] the anticausative needs an obligatory reflexive pronoun [@next d], see [@sec:reflexive-anticausative]. The exact conditions governing this difference need more research.
+
+::: ex
+- Der Mitarbeiter öffnet den Laden. \
+  Der Laden ist geöffnet.
+- Der Laden öffnet. \ 
+  Der Laden hat geöffnet.
+- Er öffnet die Tür. \
+  Die Tür ist geöffnet.
+- Die Tür öffnet sich. \
+  Die Tür hat sich geöffnet
 :::
 
 ### [ NAD | –ND ] *haben* Anticausative+dative
@@ -685,7 +698,7 @@ Second, there are very many (though not exclusively) verbs denoting natural proc
 
 **Attested Verbs**
 
-- Verbs with preverb variants: *biegen (einbiegen), bleichen (erbleichen, verbleichen), bräunen (anbräunen), brechen (abbrechen, zerbrechen), brennen (abbrennen, niederbrennen, verbrennen), fahren (ǘberfahren), fliegen (einfliegen), frieren (einfrieren), klappen (aufklappen, zuklappen), knicken (abknicken, einknicken), reißen (abreißen, einreißen, zerreißen), rollen (ausrollen), staunen (erstaunen), stürzen (umstürzen), tauen (auftauen), treten (antreten, wegtreten), trocknen (austrocknen), wirbeln (aufwirbeln)*
+- Verbs with likewise causative preverb variants: *biegen (einbiegen), bleichen (erbleichen, verbleichen), bräunen (anbräunen), brechen (abbrechen, zerbrechen), brennen (abbrennen, niederbrennen, verbrennen), fahren (ǘberfahren), fliegen (einfliegen), frieren (einfrieren), klappen (aufklappen, zuklappen), knicken (abknicken, einknicken), reißen (abreißen, einreißen, zerreißen), rollen (ausrollen), staunen (erstaunen), stürzen (umstürzen), tauen (auftauen), treten (antreten, wegtreten), trocknen (austrocknen), wirbeln (aufwirbeln)*
 - Preverbal verbs from adjectival roots: *abkühlen, ermatten, verrohen, abstumpfen*
 - Preverbal verbs from nominal roots: *erzürnen, verdunsten, zersplittern*
 - Others: *altern, ersticken, ertrinken, fliehen, heilen, reifen, schrumpfen, verderben, verqualmen, vorrücken, zuschneien*
@@ -718,7 +731,7 @@ Second, there are very many (though not exclusively) verbs denoting natural proc
   Die Rede erzürnt mich.
 - Wir fahren über (mit der Fähre). Wir sind übergefahren. \
   Die Fähre fährt uns über. 
-- Die Wunde heilt. Die Wunde ist geheilt. \
+- Die Wunde heilt/ist geheilt. \
   Der Doktor heilt die Wunde.
 - Die Zigarren verqualmen den Raum. \
   Der Raum verqualmt.
@@ -1062,9 +1075,9 @@ These verbs are formally similar to verbs that allow for an accusative to be dro
 
 **Attested Verbs**
 
-- Manner-of-movement: *fliehen, hetzen, laufen, schwimmen, singen, springen, tanzen*
-- Manner-of-speaking: *brüllen, flüstern, grölen, johlen, murmeln, schreien, stottern*
-- *atmen, leben, schauen, spielen*
+- Manner-of-movement: *fliehen, hetzen, laufen, schwimmen, springen, tanzen*
+- Manner-of-speaking: *brüllen, flüstern, grölen, johlen, murmeln, schreien, singen, stottern*
+- Others: *atmen, leben, schauen, spielen*
 
 **Further Examples**
 

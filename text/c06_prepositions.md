@@ -725,12 +725,12 @@ a. Ich hänge den Pullover in den Schrank.
 b. Der Pullover hängt im Schrank.
 :::
 
-These verbs use a *haben* perfect both in the intransitive and transitive usage [@next a,b]. The *Zustandspassiv* of the transitive is also possible, leading to another intransitive construction with the auxiliary *sein* [@next c].
+These verbs use a *haben* perfect both in the intransitive and transitive usage [@next a,b]. The *Zustandspassiv* of the transitive is also possible, leading to another intransitive construction with the auxiliary *sein* [@next c]. This is clearly a *Zustandspassiv* because it cannot be combined with a gradual time specificiation like *allmählich* 'gradually' (cf. [@sec:participles-temporal-interpretation]).
 
 ::: ex
 a. Ich habe den Teller an den Tisch geklebt.
-b. Der Teller hat am Tisch geklebt.
-c. Der Teller ist am Tisch geklebt.
+b. Der Teller hat (allmählich) am Tisch geklebt.
+c. Der Teller ist (\*allmählich) am Tisch geklebt.
 :::
 
 **Attested Verbs**
@@ -1291,7 +1291,7 @@ Accusative objects that alternate with an *in* prepositional phrase seem to be r
 
 **Attested Verbs**
 
-- *bestehen (Erfolg haben), entscheiden, lesen, gewinnen, korrigieren, schneiden, spielen, stürmen (wild bewegen), treffen (Ziel)*
+- *bestehen (Erfolg haben), entscheiden, lesen, gewinnen, korrigieren, schneiden, spielen, stürmen (Angriff), treffen (Ziel)*
 
 **Further Examples**
 
@@ -1309,8 +1309,16 @@ Accusative objects that alternate with an *in* prepositional phrase seem to be r
   Ich entscheide in dem Fall.
 - Ich schneide meinen Finger. \
   Ich schneide in meinen Finger.
-- Die Soldaten stürmen das Kastell. \
-  Sie stürmen in den Saal.
+
+**Notes**
+
+With the verb *stürmen* in the meaning 'to attack' there is a good argument to be made for an applicative diathesis instead of an antipassive. First, the verb *stürmen* arguably is a weather verb 'to storm' [@next a] which can be used in a manner-of-movement diathesis [@next b], see [@sec:prepositions-weather-manner-movement]. From this usage it is only a small step to the meaning 'to attack' with an accusative [@next c]. Second, this is probably the only verb among all the antipassives listed here that changed the light verb in the perfect between *haben* and *sein* [@next b,c]. This verb is still listed here among the antipassives because I do not have any other verbs that show the same applicative-like diathesis to put it into a completely new subsection.
+
+::: ex
+- Es stürmt draußen.
+- Die Soldaten sind in den Saal gestürmt.
+- Die Soldaten haben das Kastell gestürmt.
+:::
 
 #### *mit* Instrumental antipassive {#sec:prepositions-mit-antipassive}
 
@@ -1759,7 +1767,7 @@ This alternation allows for either a dative to be present or not with verbs that
 
 ### [ N– | NL ] Manner-of-movement {#sec:prepositions-manner-of-movement}
 
-Many movement verbs, like *tanzen* 'to dance' [@next], allow for the following two kinds of constructions. First, a regular intransitive construction expressing the movement with an optional location [@next a] and, second, a construction with an obligatory local prepositional phrase in which the movement verb expresses the manner of movement [@next b]. Syntactically, there is a crucial difference between these two constructions in that the perfect auxiliary changes between *haben* [@next a] and *sein* [@next b]. The local prepositional phrase cannot be left out in the perfect construction with *sein* [@next c].
+Many movement verbs, like *tanzen* 'to dance' [@next], allow for the following two kinds of constructions. First, a regular intransitive construction expressing the movement with an optional location [@next a] and, second, a construction with an obligatory local prepositional phrase in which the movement verb expresses the manner of movement [@next b]. Syntactically, there is a crucial difference between these two constructions in that the perfect auxiliary changes between *haben* [@next a] and *sein* [@next b], see also [@sec:participles-haben-sein-perfect]. The local prepositional phrase cannot be left out in the construction with *sein* [@next c].
 
 ::: ex
 a. Ich habe (in dem Garten) getanzt.
@@ -1768,7 +1776,7 @@ b. Ich bin durch den Garten getanzt. \
 c. ^* Ich bin getanzt.
 :::
 
-This alternation is typically used to explain the difference between using a dative or an accusative with the so-called *Wechselpräpositionen* like *in* or *auf*. For example, the verb *klettern* 'to climb' can be used with *auf*+dative [@next a] and with *auf*+accusative [@next b]. With the dative the action takes place at the location ('climbing while being on top of the mountain'). In contrast, with the accusative there is a movement that changes location ('climbing with the goal to reach the mountain'). However, syntactically there is much more going on than simply a difference in case marking. As proposed here, there is actually a diathesis between using the verb *klettern* (i) to describe an activity with perfect auxiliary *haben* and an optional location phrase [@next a] and (ii) to describe a manner of movement with a perfect auxiliary *sein* and an obligatory location phrase [@next b].
+This alternation is typically used to explain the difference between using a dative or an accusative with the so-called *Wechselpräpositionen* like *in* or *auf*. For example, the verb *klettern* 'to climb' can be used with *auf*+dative [@next a] and with *auf*+accusative [@next b]. With the dative the action takes place at the location ('climbing while being on top of the mountain'). In contrast, with the accusative there is a movement that changes location ('climbing with the goal to reach the mountain'). 
 
 ::: ex
 - Ich klettere auf dem Berg. \
@@ -1777,7 +1785,47 @@ This alternation is typically used to explain the difference between using a dat
   Ich bin gestern \*(auf den Berg) geklettert.
 :::
 
-A similar diathesis exists with non-movement verbs, like *schwitzen* 'to sweat' [@next]. However, with such verbs an additional reflexive pronoun is necessary (see [@sec:reflexive-manner-of-movement]).
+However, syntactically and semantically there is much more going on than simply a difference in case marking with some prepositions. As proposed here, there is a diathesis between using a movement verb like *schwanken* 'to swing, to waver' in two different ways:
+
+(i) either it is used to describe:
+    - the activity of performing a movement [@next a]
+    - with perfect auxiliary *haben* [@next b]
+    - with an optional location phrase at which the activity is taking place [@next c].
+    - which cannot be used attributively [@next d]
+    - which allows for gradual time specification [@next e].
+(ii) or it is used to describe:
+     - the manner of movement that leads to a change of position [@nnext a]
+     - with a perfect auxiliary *sein* [@nnext b]
+     - with an obligatory location phrase that describes the new position after the  movement [@nnext c]
+     - which can be used attributively [@next d]
+     - which allows for gradual time specification [@next e].
+
+With regard to the (d) options: as expected for an opposition between *haben+Partizip* and *sein+Partizip* there is a correlation with the possibility to use the participle as an attributive adjective (see [@sec:participles-adnominal-usage]). However, concerning the (e) options, there is no correlation with the possibility to add gradual time specification. This suggests that this *sein+Partizip* construction is a real perfect and not some kind of *Zustandspassiv* (see [@sec:participles-temporal-interpretation]). 
+
+::: ex
+- Das Boot schwankt im Wind.
+- Das Boot hat im Wind geschwankt.
+- Das Boot hat geschwankt.
+- ^* Das im Wind geschwankte Boot ist gesunken.
+- Das Boot hat allmählich im Wind geschwankt.
+:::
+
+::: ex
+- Der Betrunkene schwankt in die Kneipe.
+- Der Betrunkene ist in die Kneipe geschwankt.
+- ^* Der Betrunkene ist geschwankt.
+- Der in die Kneipe geschwankte Betrunkene ist gestürzt.
+- Der Betrunkene ist allmählich in die Kneipe geschwankt.
+:::
+
+This diathesis is productively used with verbs that describe some kind of movement. However, it is also attested with a few non-movement verbs (or at least atypical movement verbs), like *triefen* 'to drip' [@next a]. This verb can also be used to describe the manner of movement in the case of a liquid [@next b].
+
+::: ex
+- Sein Mantel hat getrieft (vor Nässe).
+- Das Wasser ist vom Dach getrieft.
+:::
+
+A very similar, but crucially different diathesis exists with other non-movement verbs like *schwitzen* 'to sweat' [@next]. With such verbs an additional reflexive pronoun is necessary (see [@sec:reflexive-manner-of-movement] for an extensive discussion).
 
 ::: ex
 - Die Köche schwitzen.
@@ -1786,7 +1834,8 @@ A similar diathesis exists with non-movement verbs, like *schwitzen* 'to sweat' 
 
 **Attested Verbs**
 
-- *irren, klettern, kriechen, schleichen, schlingern, schwanken, schweben, stampfen, tanzen, wackeln*
+- movement verbs: *fahren, fliegen, hüpfen, klettern, kriechen, laufen, reisen, reiten, rennen, rutschen, schleichen, schlingern, schwanken, schweben, schwimmen, segeln, stampfen, tanzen, wackeln, wandern*, etc.
+- atypical movement verbs: *einbrechen, irren, triefen*
 
 **Further Examples**
 
@@ -1794,6 +1843,10 @@ A similar diathesis exists with non-movement verbs, like *schwitzen* 'to sweat' 
   Ich bin durch den Garten gestampft/geschwankt/getanzt.
 - Der Pinguin hat mit dem Kopf gewackelt. \
   Der Pinguin ist durch meine Beine gewackelt.
+- Die Diebe haben eingebrochen. \
+  Die Diebe sind in den Tresor eingebrochen.
+- Ich habe (mich) geirrt. \
+  Ich bin durch die dunkele Wohnung geirrt.
 
 ### [ – – | NL ] Weather-like manner-of-movement {#sec:prepositions-weather-manner-movement}
 

@@ -361,7 +361,7 @@ The modal verbs *dürfen/können/mögen/müssen/sollen/wollen* are extensively d
 - Es ist bekannt, dass er das Haus bauen hat wollen (^\*^hat gewollt).
 :::
 
-An interesting supplementary effect that these modal verbs have on diathesis concerns the interpretation of the *haben+Partizip* construction. This construction has two different interpretations [@next a], either *Perfekt* (see [@sec:participles-haben-transitive-perfect]) or *Pertinenzpassiv* (see [@sec:participles-haben-passive]). In most uses, the *Perfekt* interpretation is the preferred reading. However, with an additional modal light verb only the *Pertinenzpassiv* interpretation is possible [@next b]. 
+An interesting supplementary effect that these modal verbs have on diathesis concerns the interpretation of the *haben+Partizip* construction. This construction has two different interpretations [@next a], either *Perfekt* (see [@sec:participles-no-diathesis]) or *Pertinenzpassiv* (see [@sec:participles-haben-passive]). In most uses, the *Perfekt* interpretation is the preferred reading. However, with an additional modal light verb only the *Pertinenzpassiv* interpretation is possible [@next b]. 
 
 ::: ex
 - Er hat sein Auto repariert. \

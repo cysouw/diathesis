@@ -21,7 +21,7 @@ The major aim of this chapter is to list and discuss all grammaticalised coheren
 
 The following eight diatheses with a *zu‑Infinitiv* are attested regularly in German, so I propose a German name for them. Note that the light verbs *sein* and *geben* are both used in two different diatheses. The two *geben* diatheses are remarkably different, both structurally and semantically.
 
-- ~~[SBJ › Ø]~~ *sein* ~~Unpersönlicher Modalpassiv~~ (see [@sec:zuinfinitive-sein-impersonal] ff.)
+- ~~[SBJ › Ø]~~ *sein* ~~Unpersönliches Modalpassiv~~ (see [@sec:zuinfinitive-sein-impersonal] ff.)
 - ~~[SBJ › ADJ]~~ *geben* ~~Möglichkeitsdemotiv~~ (see [@sec:zuinfinitive-geben-demotion]
 - ~~[SBJ › ADJ]~~ *gelten* ~~Notwendigkeitsdemotiv~~ (see [@sec:zuinfinitive-gelten-demotion]
 - ~~[OBJ › SBJ › Ø]~~ *gehen* ~~Unmöglichkeitsantikausativ~~ (see [@sec:zuinfinitive-gehen])
@@ -308,7 +308,7 @@ Evidential interpretation of light-verb usage
 
 ### --- Covert causation --- {.unnumbered}
 
-### *kommen+zu‑Infinitiv* Covertly caused state (*Verborgener Zustandskausativ*) {#sec:zuinfinitive-kommen}
+### *kommen+zu‑Infinitiv* Covertly caused state (*Verborgenes Zustandskausativ*) {#sec:zuinfinitive-kommen}
 
 The verb *kommen* 'to come' can be used with a *zu‑Infinitiv* of some intransitive verbs to express a state that is reached [@next].^[see also Lesart 44 von *kommen* in the *Wörterbuch zur Verbvalenz*, available online at <https://grammis.ids-mannheim.de/verbs/view/400724/44>, accessed 3 November 2021.] This construction conveys that there is some unexpressed force or agent that has caused the state to be reached, so I propose to call this construction a ~~covertly caused state~~. The meaning can be described as 'something happened, which led to the subject being in a specific state'. A parallel construction is frequently attested with nouns, like *Sie kam zu Reichtum/Ehren/Ende*.
 
@@ -337,7 +337,7 @@ This construction appears to be restricted to intransitive verbs. It might appea
 - Das kann dir teuer zu stehen kommen.
 - Sie ist zu glauben gekommen.
 
-### *bekommen/kriegen+zu‑Infinitiv* Covertly caused experience (*Verborgener Rezipientenkausativ*) {#sec:zuinfinitive-bekommen}
+### *bekommen/kriegen+zu‑Infinitiv* Covertly caused experience (*Verborgenes Rezipientenkausativ*) {#sec:zuinfinitive-bekommen}
 
 Jäger [-@jager2013] presents a detailed examination of the *bekommen/kriegen+zu‑Infinitiv* construction [@next]. She concludes that the subject of such sentences is typically an experiencer [@jager2013: 235]. The centrality of the experiencer role is reminiscent of the *bekommen/kriegen/erhalten+Partizip* dative passive diathesis, in which the recipient is promoted to subject (see [@sec:participles-bekommen-passive]). However, both structurally and semantically these two constructions are clearly different.
 

@@ -1244,7 +1244,7 @@ There is some discussion in the literature [@schafer2007: 35ff.; @kurogo2016] ab
 - Change of position: *ändern, auftun, bewegen, drehen, lockern, öffnen, schließen, senken, spalten, teilen, umgeben, verschieben, versammeln*
 - Change of dimension: *abschwächen, ansammeln, ansparen, ausbreiten, ausdehnen, beschleunigen, beschränken, entfalten, erhöhen, erweitern, steigern, verändern, verbessern, verbreiten, verdoppeln, verengen, vergrößern, verkleinern, verkürzen, verlangsamen, verlängern, vermehren, verringern, verstärken, verteuern*
 - Change of physical state: *abkühlen, ablagern, ablösen, abnutzen, abschalten, abschwächen, abseilen, auflösen, aufwärmen, ausschalten, beziehen, brechen (Wellen), erleuchten, einfügen, einschalten, eindrücken, entzünden, erwärmen, färben, festigen, festhaken, festfahren, füllen, gliedern, komplizieren, leeren, runden, röten, verändern, verbessern, vereinfachen, verhaken, verkomplizieren, verschlechtern, verwandeln, wärmen*
-- Others: *bessern, bestätigen, erfüllen, entscheiden, konstituieren, lohnen, mildern, unterwerfen, wiederholen, zeigen*
+- Others: *aufklären, befriedigen, bessern, bestätigen, konstituieren, lohnen, wiederholen, zeigen*
 
 **Further Examples**
 
@@ -1479,19 +1479,18 @@ For the verbs with a *durch* alternation, like *lösen* 'to release' [@next], th
 
 **Attested Verbs**
 
-- **Experiencer verbs**:
-- *an*    : *belustigen, stören, erfreuen, erheitern*
-- *bei*   : *anstrengen, beruhigen, entspannen, langweilen, quälen, unterhalten*
-- *für*   : *faszinieren, interessieren*
-- *um*    : *bekümmern, kümmern*
-- *über*  : *amüsieren, aufregen, ärgern, begeistern, beschweren, beunruhigen, empören, entsetzen, erschrecken, erstaunen, erzürnen, freuen, grämen, wundern*
-
-- **Other verbs**:
-- *aus*   : *bilden, entwickeln, ergeben, speisen*
-- *durch* : *auszeichnen, entspannen, lösen, verraten*
-- *in*    : *spiegeln, widerspiegeln*
-- *mit*   : *aufhalten, beschäftigen, schmücken, überlagern*
-- *von*   : *nähren, verabschieden*
+- Experiencer verbs:
+  - *an*    : *belustigen, stören, erfreuen, erheitern*
+  - *bei*   : *anstrengen, beruhigen, entspannen, langweilen, quälen, unterhalten*
+  - *für*   : *faszinieren, motivieren, interessieren*
+  - *um*    : *bekümmern, kümmern*
+  - *über*  : *amüsieren, aufregen, ärgern, begeistern, beschweren, beunruhigen, empören, entsetzen, erschrecken, erstaunen, erzürnen, freuen, grämen, wundern*
+- Other verbs:
+  - *aus*   : *bilden, entwickeln, ergeben, speisen*
+  - *durch* : *auszeichnen, entspannen, lösen, mildern, verraten*
+  - *in*    : *spiegeln, widerspiegeln*
+  - *mit*   : *aufhalten, beschäftigen, schmücken, überlagern*
+  - *von*   : *nähren, verabschieden*
 
 **Further Examples**
 
@@ -1656,7 +1655,7 @@ c. ^* Er verbrennt sich und das Buch.
 
 **Attested Verbs**
 
-- *abduschen, abhetzen, abwenden, anlehnen, anziehen, aufrichten, ausziehen, äußern, bewegen, entblößen, erheben, hinlegen, hinsetzen, hinstellen, neigen, organisieren, recken, räkeln, schneiden, strecken, täuschen, verbrennen, verkleiden, verschlafen, verschlucken, zuneigen*
+- *abduschen, abhetzen, abwenden, anlehnen, anziehen, aufrichten, ausziehen, äußern, bewegen, entblößen, erheben, hinlegen, hinsetzen, hinstellen, neigen, recken, räkeln, schneiden, strecken, täuschen, verbrennen, verkleiden, verschlafen, verschlucken, zuneigen*
 
 **Further Examples**
 
@@ -1782,14 +1781,14 @@ e. Ich beklage mich darüber, dass es so laut ist.
 
 **Attested Verbs**
 
-- *an*   : *verschlucken, wagen*
-- *bei*  : *entscheiden, überstürzen*
-- *für*  : *entscheiden, entschuldigen, rechtfertigen, verantworten, verbürgen*
-- *in*   : *behaupten, üben, versuchen, vertiefen*
-- *über* : *beklagen, besprechen*
-- *von*  : *trennen*
-- *vor*  : *distanzieren, fürchten, scheuen*
-- *zu*   : *bekennen*
+- an   : *verschlucken, wagen*
+- bei  : *entscheiden, überstürzen*
+- für  : *entscheiden, entschuldigen, rechtfertigen, verantworten, verbürgen*
+- in   : *behaupten, üben, versuchen, vertiefen*
+- über : *beklagen, besprechen*
+- von  : *trennen*
+- vor  : *distanzieren, fürchten, scheuen*
+- zu   : *bekennen*
 
 **Further Examples**
 
@@ -1858,16 +1857,17 @@ b. Ich bin durch den Garten getanzt.
 c. ^* Ich bin getanzt.
 :::
 
-The same diathesis is also attested with non-movement verbs, like *träumen* 'to dream' [@next a], but then an additional reflexive pronoun is obligatory [@next b], next to the obligatory locational phrase [@next c]. The meaning of this construction is that by performing the verb (i.e. by dreaming) a movement is performed as described in the locational phrase (i.e. going to New York).
+The same diathesis is also attested with non-movement verbs, like *träumen* 'to dream' [@next a,b], but then an additional reflexive pronoun is obligatory [@next c], next to the obligatory locational phrase [@next d]. This construction expresses that by performing the verb (i.e. by dreaming) a movement is performed as described in the locational phrase (i.e. going to New York).
 
 ::: ex
 a. Ich träume.
-c. Ich träume mich nach New York. \
+b. Ich träume mich nach New York. \
    (= Ich träume, und im Traum gehe ich nach New York.)
+c. ^* Ich träume nach New York.
 d. ^* Ich träume mich.
 :::
 
- The location always appears to be describing a movement, with *durch* [@next a] 'through' and *in* 'into' [@next b] being the most productive. Incidental examples with *aus* and *nach* are also attested.
+ The location always describes a movement, with *durch* [@next a] 'through' and *in* 'into' [@next b] being the most productive. Incidental examples with *aus* and *nach* are also attested.
 
 ::: ex
 - Ich esse und trinke. \
@@ -1876,7 +1876,7 @@ d. ^* Ich träume mich.
   Würzburg zitterte sich am Ende in die Playoffs.^[~~DWDS~~: Die Zeit, 07.05.2016 (online).]
 :::
 
-This diathesis is exceptional, because an extra obligatory argument is introduced together with the reflexive pronoun. This is a clear counterexample to the generalisation that reflexive diatheses are demoting. This construction is closely related to a reflexive usage of intransitive verbs with an obligatory resultative preverbial, like with *gesundschlafen* 'to get healthy by sleeping' [@next]. This diathesis is discussed in more detail in [@sec:adverbial-intransitive-resultative].
+This diathesis is exceptional, because an extra obligatory argument is introduced together with the reflexive pronoun. This is a clear counterexample to the generalisation that reflexive diatheses are demoting. This construction is closely related to a reflexive usage of intransitive verbs with an obligatory resultative preverbial, like with *gesundschlafen* 'to get healthy by sleeping' [@next]. That diathesis is discussed in more detail in [@sec:adverbial-intransitive-resultative].
 
 ::: ex
 - Ich schlafe.
@@ -1889,7 +1889,8 @@ Although not all verbs listed below are strictly intransitive (e.g. *essen, trin
 
 - Food processing: *essen, fressen, trinken*
 - Bodily processes: *denken, dösen, schlafen, schwitzen, träumen, zittern*
-- Intransitive actions: *arbeiten, fallen, kämpfen, liegen, lügen, schießen, schleichen, schwimmen*
+- Intransitive actions: *arbeiten, fallen, kämpfen, liegen, lügen, schießen*
+- Movement verbs: *schleichen, schwimmen*
 
 **Further Examples**
 
@@ -1904,16 +1905,20 @@ Although not all verbs listed below are strictly intransitive (e.g. *essen, trin
 - Ich kämpfe mich durch die Wellen.
 - Ich lüge mich durch mein Leben.
 - Sie fallen/liegen sich in die Arme.
-- Am Dienstag schwamm sich Phelps dann schon wieder selbst in die Schlagzeilen.^[~~DWDS~~: Der Tagesspiegel, 19.08.2004.]
 
 **Notes**
 
-The movement verb *schleichen* 'to sneak' [@next a] allows for a regular non-reflexive manner-of-movement diathesis [@next b]. However, curiously, it also allows for a reflexive manner-of-movement diathesis as discussed in this section [@next c]. There is a subtle difference in meaning between these two uses, which is not trivial to pin down.
+The movement verb *schleichen* 'to sneak' [@next a] allows for a regular non-reflexive manner-of-movement diathesis [@next b], see [@sec:prepositions-manner-of-movement]. However, curiously, it also allows for a reflexive manner-of-movement diathesis as discussed in this section [@next c]. There is a subtle difference in meaning between these two uses that is not trivial to pin down. The example with the movement verb *schwimmen* 'to swim' [@nnext] suggests that with a reflexive pronoun the 'movement' can be more metaphorical.
 
 ::: ex
 a. Ich habe geschlichen.
 a. Ich bin nach Hause geschlichen.
 b. Ich habe mich nach Hause geschlichen.
+:::
+
+::: ex
+- Er ist zum anderen Ufer geschwommen.
+- Am Dienstag schwamm sich Phelps dann schon wieder selbst in die Schlagzeilen.^[~~DWDS~~: Der Tagesspiegel, 19.08.2004.]
 :::
 
 ### [ NA– | NAL ] Reflexive forced movement {#sec:reflexive-forced-movement}

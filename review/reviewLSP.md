@@ -1573,89 +1573,326 @@ combination with psych predicates in German.
 > changed
 
 - p. 277 10.22a I think the sentence is ok, especially if you add den ganzen Tag.
+
+> I agree. However, this whole section has been completely rewritten and the comment is not applicable anymore. Also the following comments are not relevant anymore. I hope things are clearer now. Personally, I am very happy to have revised this section, as things have become clearer to me now as well.
+
 - p. 277 Why is the bleiben construction not tense-oriented? I do not think that this is justified and haven’t found any conclusive argumentation in favor of this view. See also my comment on 10.22a
 - p. 277 10.23b kind with capital K
 - p. 278 10.26b I am not convinced: Das wurde zwar gestern repariert, aber es ist immer noch nicht ganz fertig, da noch ein Ersatzteil fehlt is not contradictory (in my view).
 - p. 280 Please explain table 10.1 (there is no reference to the table in the body of the text). What is the claim behind the ‘+’ and ‘-‘ signs? Is it claimed that some verbs lack a werden future? I cannot make sense of the table.
+
+> Added reference in text. The table is about the participles of the verbs listed. I have changed this in the table.
+
 - p. 282 10.37b Ambiguous without bekommen, it can either means that his hair has been cut or that we has cutting. There is no ambiguity if bekommen is present.
+
+> That is exactly what I explain in the text. I don't see any way to make it even clearer than to say "There is a crucial difference here in who is doing the cutting, as disambiguated by the words in brackets."
+
 - p. 282 10.39c Passive is also possible: Immer wenn ich durch den Wald fahre, wird mein Fahrrad schmutzig.
+
+> indeed, the subject is a 'patient'. Good observation! I have changed the text.
+
 - p. 283 Line 1: translations of German verbs are missing
+
+> none of the light verbs is translated in the text. As noted in the introduction to this chapter, the meaning of the light verbs is mostly irrelevant.
+
 - p. 283 ‘The light verbs’: verb; translation is missing; also the translations below 10.41 are missing. Translations below 10.43 (page 284) are missing as well.
+
+> see explanation above.
+
 - p. 283 ‘different kinds of construction’: constructions
+
+> corrected
+
 - p. 283 10a I think the second sentence is not acceptable, I prefer Ich finde, dass das Projekt gescheitert ist.
+
+> This construction is discussed extensively in the section references in the text about this example. no change.
+
 - p. 284 10.46b Punctuation mark is missing
+
+> corrected
+
 - p. 285 ‘Likewise, DWDS’: provide a concrete reference
+
+> added
+
 - p. 285 Denominal verbs of the type ölen are also discussed in Fleischhauer (2016).
+
+> It's a great dissertation, but I can't find the discussion of denominal verbs. The word 'denominal' is hardly used at all, and the verb *ölen* does not seem to occur. I really don't see a suitable reason to cite this otherwise excellent work.
+
 - p. 286 It is mentioned that geregnet is from Regen but the participle is derived from the verb regnen.
+
+> I have extended the discussion to explain better what I mean.
+
 - p. 287 ‘in the DWDS corpus only a few examples...’: Be more precise on the numbers.
+
+> Numbers and links added.
+
 - p. 287 10.54b I prefer sein over haben.
+
+> added corpus examples
+
 - p. 288 ‘distinguished from meaning of’: from the meaning; the same for 10.63a on page 291. 
+
+> completely reformulated
+
 - p. 291 ‘process leading the this state’: to
+
+> corrected
+
 - p. 291 10.64b Is the use of haben maybe a dialectal feature? It might be worth discussing this issue as I think sein is more common.
+
+> That is indeed an interesting discussion, but I will not expand on that in this book.
+
 - p. 292 10.69c (second sentence) sein is possible as well. Is this regional variation? I clearly prefer sein although haben is (marginally) acceptable!
+
+> This part is completely rephrased and reformulated. The example was not right in various ways :-).
+
 - p. 293 10.74b Also possible: Sie haben den Saal gestürmt. 
+
+> Already discussed in Chapter 6 with *in* antipassives.
+
 - p. 293 10.75b (second sentence): I prefer sein.
 - p. 293 10.76a (second sentence): Odd
+
+> Indeed, this example was wrong. It has been completely removed and the text completely rewritten.
+
 - p. 294 Concerning 10.77a it is mentioned that it seems to be old-fashioned. I disagree, this is quite common.
+
+> Interesting. DWDS only has old examples, but online (which I didn't check before) I find about equal cases with *sein* and with *haben*. I changed my claim in the text.
+
 - p. 294 ‘Verbs verbs with an’: repetition
+
+> corrected
+
 - p. 294 ‘have an intransitive usage with a reflexive pronouns’: pronoun
+
+> corrected
+
 - p. 294 10.4.4 It is not always clear whether we are dealing with a perfect or a passive construction. It might be useful if the author could provide clear criteria to distinguish between the two construction types.
+
+> I have tried to make it clearer. Basically: in this section all examples with *sein* are passives.
+
 - p. 295 ‘of the transitive (10.82a).’: transitive verb
+
+> corrected
+
 - p. 295 10.82c des Lärms
+
+> corrected
+
 - p. 296 10.85a Please check the example again, the verb should be in the plural.
+
+> checked, but it is like this in the original.
+
 - p. 296 10.85b sein not haben
+
+> no. There is a meaning 'to obey' that takes haben. Rather old-fashioned, but I have added a corpus example.
+
 - p. 297 10.86b The two sentences illustrate two different verbs.
+
+> Typo, should both be *einziehen*
+
 - p. 297 ‘Er ist in einer prekären Situation geraten’: eine prekäre
+
+> corrected
+
 - p. 297 10.97a Punctuation mark is missing. In the second sentence, sein is also possible. This is mentioned on the next page (10.91b), why not earlier?
+
+> section completely reworked
+
 - p. 299 10.93c aus seinem Zimmer
+
+> corrected (although this sentence is still ungrammatical)
+
 - p. 299 10.95 Punctuation marks are missing.
+
+> added
+
 - p. 300 Last sentence of further examples: Punctuation mark is missing. 
+
+> added
+
 - p. 302 ‘In some situations it is even possible to construction’: construct 
+
+> corrected
+
 - p. 306 ‘shows a parallel to the real passives’: show
+
+> corrected
+
 - p. 306 ‘unpersönlicher Passiv’: unpersönliches
+
+> corrected
+
 - p. 307 10.11 Why are imperatives used there?
+
+> no reason, I changed some examples to preclude this impression.
+
 - p. 308 10.113 Auf and an require accusative: den not dem
+
+> corrected (BTW, *auf* and *an* are 'Wechselprepositionen' so they don't 'require' accusative...)
+
 - p. 308 ‘allow for a impersonal’: an
+
+> corrected
+
 - p. 309 10.117b des Protests; I think the sentence is ungrammatical without werden.
+
+> corrected. And yes, I agree about the ungrammaticality.
+
 - p. 310 10.121a/b Both are very almost ungrammatical. In c. substitute die by diese.
+
+> I agree. About the (c) example: this is a quoted example, which I will not change.
+
 - p. 311 ‘gehoren + Patrtizip’: gehören
+
+> corrected
+
 - p. 312 10.124b The sentence is not ungrammatical but perfectly acceptable. In c, geöffnet should go to the end. The first sentence in c is also perfectly acceptable.
+
+> OK, I changed this all again. The discussion about the retention of the agent needs more research, and I have added some more examples for that.
+
 - p. 312 10.125 (and further examples): punctuation marks are missing.
+
+> corrected
+
 - p. 312 10.126b The sentence neither contains scheinen nur erscheinen.
+
+> right! I replaced the example with more suitable ones.
+
 - p. 314 10.132 Missing space between als and ob. The sentence in b-d are not really acceptable.
+
+> Indeed, these examples are crude. I have removed the whole topic as it is not directly relevant anyway.
+
 - p. 316 10.135a/b The second sentence in each example is odd.
+
+> This construction is odd. I have added corpus examples and explained some more that this might not be a real construction.
+
 - p. 316 I disagree that 10.137b is old-fashioned, this is quite common.
+
+> agree, I removed that statement.
+
 - p. 316 Below 10.137 ** instead of italics, should be changed.
+
+> typo, corrected
+
 - p. 317 ‘A verb peculiar constructions’: very peculiar construction
+
+> corrected
+
 - p. 318 10.141b Start with capital letter.
+
+> corrected
+
 - p. 319 10.148b Instead of mir one has to say an mich.
+
+> Oh, this is an interesting point, opening up a whole new topic. I decided to simply delete this paragraph and ignore all the problem boiling up. I leave this for another time.
+
 - p. 319 ‘*Das Kind ist unter die Decke gelegt...’: Why *? The sentence is ok.
+
+> I don't think that they are OK. They need *worden* to be OK.
+
 - p. 320 ‘Ich lege/setzen/stecken’: setze/stecke
+
+> corrected
+
 - p. 320 ‘Ich passe den Anzug’: ungrammatical
+
+> removed
+
 - p. 320 ‘*Sein Mitarbeiter ist geschätzt.’: The sentence is ok, especially if you add ‘von allen Kollegen/Kunden‘.
+
+> I changed the judgement from ungrammatical to questionable
+
 - p. 320 ‘Das Auto ist (*gebraucht) verbraucht.’: Gebraucht is ok (= is is not new/it is used; cf. Gebrauchtwagen) but verbraucht is not ok.
+
+> example removed
+
 - p. 320 ‘*Meine Schätze sind gezeigt’: Is ok, cf. Meine paar Schätze sind schnell gezeigt. 
+
+> This is an interesting observation. That context has a prospective reading. My first intuition is that there is something different going on here. I added a note.
+
 - p. 322 ‘Er hat sich gefürchtet gemacht’: I think this is odd.
+
+> it is attested. I have added a corpus example.
+
 - p. 323 Leirbukt*: delete *
+
+> corrected
+
 - p. 323 10.155 abgenommen should go after the optional PP
+
+> changed
+
 - p. 324 ‘Retention is much more widespread With’: with
+
+> corrected
+
 - p. 324 ‘while a durative perfect’: time adverbial rather than perfect
+
+> reformulated
+
 - p. 325 10.160 den Chef not die Chef
+
+> corrected
+
 - p. 325 ‘there is an strong’: a
+
+> corrected
+
 - p. 325 10.163b The sentence is ok and means ‘Yesterday, I did this and that’
+
+> This whole discussion is changed.
+
 - p. 326 10.164b auf meiner Schulter
+
+> corrected
+
 - p. 326 10.164c am Brennen; more natural is an example like Ich habe meinen Kaim gerade am Brennen. am Brennen haben is a Funktionsverbgefüge.
+
+> That construction is discussed elsewhere. The examples here are constructed to make everything parallel. No change.
+
 - p. 327 10.166/167b von requires the dative von dem; in both sentences, I find von less acceptable than über.
+
+> changed to *amüsiert von* 
+
 - p. 327 See also the paper from Wiskandt (2021) on psych verbs and reflexive marking. ‘Er is amüsiert über den Witz’: odd; ‘Er ist enttäuscht über dein Benehmen’: I like von more; also deinem Benehmen
+
+> Wiskandt is not relevant here. changed to *amüsiert von* and *enttäuscht von*
+
 - p. 328 ‘Ihre Großmut macht mich beschämt’: The sentence is strange, without machen ist much better: Ihr Großmut beschämt mich.
+
+> Added some real examples, but they are all very old.
+
 - p. 329 10.173b Kunstwerk
+
+> corrected
+
 - p. 330 10.177b why ?; I think the sentence is ok.
+
+> Interesting. still seems odd to me, but not impossible. no change.
+
 - p. 331 10.182b The sentence is very strange.
+
+> exchanged example
+
 - p. 332 ‘Man weiß sich dabei nicht gesichert. Sie wussten sich durch ihn gewahrt.‘: Are these sentences attested?
+
+> Yes. I have inserted the real corpus examples. The first one is from Freud :)
+
 - p. 333 ‘Ich sehe mich gezwungen...’: Strange sign at the end
+
+> corrected
+
 - p. 334 10.190a/b schwillt not schwellt
+
+> corrected
+
 - p. 335 10.191c Is this attested? Zufrieren with capital letter.
 - p. 335 10.9.1 Some examples contain am others do not. Is this really compatible or are these two different constructions?
+
+> replaced example. This section is not about *am* constructions. The example is just a reference to a related construction.
+
 - p. 339 11.7c Why not the indicative form of the verb? 
 - p. 339 ‘Both these construction’: constructions
 - p. 341 11.10c The sentence is all right.
@@ -1688,6 +1925,9 @@ combination with psych predicates in German.
 - p. 363 11.75b Why ‘?’
 - p. 364 ‘Der Eintritt kostet mir 10 Euro’: mich
 - p. 365 ‘Der Teller steht ihm auf den Tisch’: Ungrammatical, only ok without ihm.
+
+
+
 - p. 367 Paragraph after 12.1: already said earlier.
 - p. 371: First sentence: Maybe a quantitative study would be interesting to support this claim.
 - p. 371 12.9a Also possible: dass er rechtzeitig nach hause zu kommen verspricht.
@@ -1706,6 +1946,9 @@ combination with psych predicates in German.
 - p. 388 ‘the bleiben+zu-Infinitiv construction’: The
 - p. 388 12.53b I prefer ‘für diese Ausstellung zu danken’
 - p. 388 12.54c/d The examples contain Funktionsverbgefüge. 
+
+
+
 - p. 394 13.14a denke or denkt not denken
 - p. 394 13.14d I prefer gedenken. With gedenken it means ‚He is planning to travel‘, with denken it means ‘He believes he will travel’.
 - p. 394 ‘A example of a light verb’: an

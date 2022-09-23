@@ -401,16 +401,17 @@ Note that there is a fascinating phenomenon going on here that is in need of mor
 
 **Attested Verbs**
 
-- verˈ- : *blühen, bluten, faulen, dampfen, rosten, schimmeln*
+- verˈ- : *blühen, bluten, faulen, dampfen, rosten, schimmeln, welken, zweifeln*
 - ˈein- : *rosten, schlafen*
 - ˈab-  : *bröckeln, faulen, reisen, rosten*
 - ˈmit-  : *fahren, fliegen, gehen, kommen, laufen, segeln*
 
 **Notes**
 
-Adjectival *gefaulte* seems to have been possible up to ±1850 [@next]. Also note that there is a dish called *gefaulte Erdäpfel*, which appears to be a back-translation from Bavarian *dafeide Erdäpfel*, which clearly has a different prefix.
+Adjectival *gewelkte* [@next a] and *gefaulte* [@next b] seem to have been possible up to ±1850. Note that there is a dish called *gefaulte Erdäpfel* [@next c], which appears to be a back-translation from Bavarian *dafeide Erdäpfel*, which has a prefix.
 
 ::: ex
+- Er, der alles zerbricht, was ihm von Anfang her verschrieben war, der die zarte Blüthe wie die gewelkte Frucht mit gleicher Unerbittlichkeit abstreift.^[~~DWDS~~: Fouqué, Caroline de La Motte-: Die Frauen in der großen Welt. Berlin, 1826.]
 - […] oder andre vielfach verdorbne, gefaulte, verschimmelte Nahrungsmittel.^[~~DWDS~~: Hahnemann, Samuel: Organon der rationellen Heilkunde. Dresden, 1810..]
 - Auf eben diese Weise nimmt eine gefaulte Galle […] einen gefälligern Geruch an sich.^[~~DWDS~~: Haller, Albrecht von: Anfangsgründe der Phisiologie des menschlichen Körpers. Bd. 2. Berlin, 1762.]
 :::

@@ -20,7 +20,7 @@ input-files:
 - text/c11_infinitive.md
 - text/c12_zuInfinitive.md
 - text/c13_zumInfinitive.md
-- text/examples.md
+#- text/examples.md
 - text/references.md
 
 filters:

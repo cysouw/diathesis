@@ -1251,18 +1251,20 @@ The preverbial *los-* is also attested with some verbs that cause something else
   Ich klopfe die Rinde los.
 :::
 
-The example with *werfen* 'to throw' [@next] illustrates the close relationship between these two uses of *los-*, i.e. 'loose' and 'onwards'. By throwing, the *Leine* 'rope' is detached (from the ship), but at the same time the rope is also caused to move (towards the shore).
+The example with *werfen* 'to throw' [@next a] illustrates the close relationship between these two uses of *los-*, i.e. 'loose' and 'onwards'. By throwing, the *Leine* 'rope' is detached (from the ship), but at the same time the rope is also caused to move (towards the shore). Similarly with *lostreten* [@next b], which can be used locationally in the meaning 'to unfasten by trampling' but also temporally 'to set in motion'.
 
 ::: ex
 - Der Kapitän wirft die Leine los.^[~~DWDS~~: Die Zeit, 23.10.2003, Nr. 44.]
+- Der Wanderer trat einen Felsen los. \
+  Die Entscheidung trat eine Protestwelle los.
 :::
 
 **Attested Verbs**
 
-- los-  : (detachment) *binden, ketten, klopfen, koppeln, sägen, schnallen, schneiden, schrauben*
+- los-  : (detachment) *binden, ketten, klopfen, koppeln, sägen, schnallen, schneiden, schrauben, treten*
 - fest- : (attachment) *binden, haken, hämmern, heften, klammern, kleben, klopfen, knoten, nageln, schnallen, schnüren, schrauben*
 - frei- : (uncovering by excavation) *bohren, graben, präparieren*
-- los-  : (causing to move) *bringen, hetzen, jagen, schicken, senden, werfen*
+- los-  : (causing to move) *bringen, hetzen, jagen, schicken, senden, treten, werfen*
 
 **Further Examples**
 

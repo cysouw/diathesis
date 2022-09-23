@@ -191,15 +191,6 @@ c. Das Buch hat sich gut verkauft.
 d. Das Buch ist verkauft.
 :::
 
-### *Kontinuativantikausativ* (*bleiben+Partizip*) {#sec:summary-kontinuativantikausativ}
-
-The ~~Kontinuativantikausativ~~ (full discussion in [@sec:participles-bleiben-transitive]) is closely related to the *sein-Zustandspassiv* (see [@sec:summary-zustandspassiv]), but now the light verb *bleiben* is used with a participle [@next]. Both *sein* and *bleiben* are known as auxiliaries (~~Kopulaverben~~) in German grammar, so this parallel construction is not unexpected. However, not all verbs can be equally used in both constructions. For example, verbs like *drucken* 'to print' or *waschen* 'to wash' are fine with the *sein-Zustandspassiv* but not with the *bleiben-Kontinuativantikausativ*. Also the retention of the original agent as a prepositional phrase seems to be impossible here, so this diathesis is classified as an anticausative [@next b]. This anticausative is only attested with transitive verbs. The same *bleiben+Partizip* construction can be used with intransitive verbs, but then it does not induce a diathesis and will be called ~~Perfektkontinuativ~~ (see [@sec:summary-perfektkontinuativ]).
-
-::: ex
-a. Der Pförtner schließt die Tür.
-b. Die Tür bleibt \*(von dem Pförtner) geschlossen.
-:::
-
 ### *Inferenzantikausativ* (*scheinen/erscheinen+Partizip*) {#sec:summary-inferenzantikausativ}
 
 The ~~Inferenzantikausativ~~ (full discussion in [@sec:participles-scheinen-anticausative]) is constructed with one of the light verbs *scheinen* or *erscheinen* with a participle of a transitive verb [@next]. This construction expresses an evidential inference by the speaker that something is the case. The retention of the original agent as a prepositional phrase seems to be mostly not possible [@next b], so this diathesis is classified as an anticausative here. With intransitive verbs this construction does not show any diathesis and will be called ~~Perfektinferenz~~ (see [@sec:summary-perfektinferenz]).
@@ -285,12 +276,22 @@ b. Die Schüler lösen die Aufgabe. \
 
 ### *Zustandspassiv* (*sein+Partizip*) {#sec:summary-zustandspassiv}
 
-The ~~Zustandspassiv~~ (full discussion in [@sec:participles-sein-zustandspassiv]) consists of a light verb *sein* with a participle [@next]. Although this diathesis is traditionally called 'passive' in German grammar, the status of the retained agent is problematic and appears to be strongly dependent on the verb [@next b,c]. It might thus be better to consider this diathesis to be an anticausative. However, because of the long tradition I hold on to the term *Zustandspassiv* and the analysis of it being a passive. The closely-related *sein+Partizip* ~~Erlebnispassiv~~ (see [@sec:summary-erlebnispassiv]) retains the subject with a governed preposition. Also the *sein+Partizip* ~~Perfekt~~ as attested with some intransitive verbs is arguably the same construction, though applied to different verbs (see [@sec:summary-zustandsperfekt]).
+The ~~Zustandspassiv~~ (full discussion in [@sec:participles-sein-zustandspassiv]) consists of a light verb *sein* with a participle [@next]. Although this diathesis is traditionally called 'passive' in German grammar, the status of the retained agent is problematic and appears to be strongly dependent on the verb [@next b,c]. It might thus be better to consider this diathesis to be an anticausative. However, because of the long tradition I hold on to the term *Zustandspassiv* and the analysis of it being a passive. The closely-related *sein+Partizip* ~~Erlebnispassiv~~ (see [@sec:summary-erlebnispassiv]) retains the subject with a governed preposition. Also the *sein+Partizip* ~~Perfekt~~ as attested with some intransitive verbs is arguably a similar construction, though applied to different verbs (see [@sec:summary-perfekt]).
 
 ::: ex
 a. Ich verkaufe den Schrank.
 b. Der Schrank ist ^?^(von mir) verkauft.
 c. Der Schrank ist ^!^(vom Schreiner) gebaut.
+:::
+
+### *Kontinuativpassiv* (*bleiben+Partizip*) {#sec:summary-kontinuativantikausativ}
+
+The ~~Kontinuativpassiv~~ (full discussion in [@sec:participles-bleiben-transitive]) is closely related to the *sein-Zustandspassiv* (see [@sec:summary-zustandspassiv]), but now the light verb *bleiben* is used with a participle [@next]. Both *sein* and *bleiben* are known as auxiliaries (~~Kopulaverben~~) in German grammar, so this parallel construction is not unexpected. The retention of the original agent is likewise strongly dependent on the lexical verb [@next b,c]. However, not all verbs can be equally used in both constructions. For example, verbs like *drucken* 'to print' or *schreiben* 'to write' are fine with the *sein-Zustandspassiv* but not with the *bleiben-Kontinuativpassiv*. This construction is only attested with transitive verbs. The same *bleiben+Partizip* construction can be used with intransitive verbs, but then it does not induce a diathesis and will be called ~~Perfektkontinuativ~~ (see [@sec:summary-perfektkontinuativ]).
+
+::: ex
+a. Der Pförtner schließt die Tür.
+b. Die Tür bleibt ^?^(durch den Pförtner) geschlossen.
+c. DIe Tür bleibt ^!^(durch einen Vorhang) verborgen.
 :::
 
 ### *Normpassiv* (*gehören+Partizip*) {#sec:summary-normpassiv}
@@ -313,7 +314,7 @@ b. Ich bekomme die Haare geschnitten (vom Friseur).
 
 ### *Pertinenzpassiv* (*haben+Partizip*) {#sec:summary-pertinenzpassiv}
 
-The ~~Pertinenzpassiv~~ (full discussion in [@sec:participles-haben-passive]) is a special construction because it looks identical to the *haben Prozessperfekt* (see [@sec:summary-prozessperfekt]), often even being ambiguous among the two interpretations. However, the *Pertinenzpassiv* is functionally much closer to the *Rezipientenpassiv*. The new nominative subject *der Minister* 'the minister' [@next b] is the (dative) experiencer/benefactor of the cutting [@next a]. The original agent of the cutting *Friseur* 'barber' can only be retained with difficulty, so this diathesis looks closer to an anticausative. However, there is a well-known effect that this *Pertinenzpassiv* becomes much more common when stacked with a modal auxiliary like *wollen* 'to want' [@next c]. In such a stack, the original agent can clearly be retained.
+The ~~Pertinenzpassiv~~ (full discussion in [@sec:participles-haben-passive]) is a special construction because it looks identical to the *Perfekt* (see [@sec:summary-perfekt]), often even being ambiguous among the two interpretations. However, the *Pertinenzpassiv* is functionally much closer to the *Rezipientenpassiv*. The new nominative subject *der Minister* 'the minister' [@next b] is the (dative) experiencer/benefactor of the cutting [@next a]. The original agent of the cutting *Friseur* 'barber' can only be retained with difficulty, so this diathesis looks closer to an anticausative. However, there is a well-known effect that this *Pertinenzpassiv* becomes much more common when stacked with a modal auxiliary like *wollen* 'to want' [@next c]. In such a stack, the original agent can clearly be retained.
 
 The designation *pertinenz* refers to the fact that the new subject is necessarily the possessor of the accusative object *Haare*, 'hair'. Such inherent possessors turn up in various diatheses, and all instances will be designated with the qualifier *pertinenz*. The most famous one is the ~~Pertinenzdativ~~ (see [@sec:summary-pertinenzdativ]), but there are various others, like the ~~Pertinenzinversiv~~ (see [@sec:summary-pertinenzinversiv]) and the ~~Ortspertinenzinversiv~~ (see [@sec:summary-ortspertinenzinversiv]).
 
@@ -526,7 +527,7 @@ b. Sie weiß den Nachlass (im Archiv) gut aufgehoben. \
    (= Sie weiß, dass der Nachlass (im Archiv) gut aufgehoben ist.)
 :::
 
-This *Transitiv Opiniativ* can of course easily be united with the previous *Opiniativ* into a single diathesis by noticing, for example, that both can be rephrased with a complement clause with *sein* and a participle, compare [@llast b] and [@last b]. However, when both *Opiniativ* diatheses are united, this implies that the *sein-Perfekt* in [@llast b], see [@sec:summary-zustandsperfekt], and the *Zustandspassiv* in [@last b], see [@sec:summary-zustandspassiv], have to be united as well (there is a perfect parallelism here). Now, there is nothing speaking against both these unifications, but exactly the unification of *sein-Perfect* and *Zustandspassiv* has been rather controversially discussed in the German grammatical literature (see [@sec:participle-different-diatheses] for a discussion). So either both are unified, or both are separated. Because I have separated the *Zustandspassiv* and the *sein-Perfekt* in this summary, I consequently also separate the two *Opiniativ* diatheses.
+This *Transitiv Opiniativ* can of course easily be united with the previous *Opiniativ* into a single diathesis by noticing, for example, that both can be rephrased with a complement clause with *sein* and a participle, compare [@llast b] and [@last b]. However, when both *Opiniativ* diatheses are united, this implies that the *sein-Perfekt* in [@llast b], see [@sec:summary-perfekt], and the *Zustandspassiv* in [@last b], see [@sec:summary-zustandspassiv], have to be united as well (there is a perfect parallelism here). Now, there is nothing speaking against both these unifications, but exactly the unification of *sein-Perfect* and *Zustandspassiv* has been rather controversially discussed in the German grammatical literature (see [@sec:participle-different-diatheses] for a discussion). So either both are unified, or both are separated. Because I have separated the *Zustandspassiv* and the *sein-Perfekt* in this summary, I consequently also separate the two *Opiniativ* diatheses.
 
 ### *Passivkausativ* (*lassen+Infinitiv*) {#sec:summary-passivkausativ}
 

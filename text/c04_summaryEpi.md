@@ -41,29 +41,24 @@ Additionally, I have added a section with epithetical constructions that are fun
 
 ## Temporal aspect {#sec:epithesis-temporal-aspect}
 
-The grammatical marking of aspect is commonly defined as linguistic expressions that specify the 'internal temporal constituency of a situation' [@comrie1976: 3]. In this sense, the title of this section, ~~temporal aspect~~, might appear to be tautological. However, this designation is used here in opposition to a different set of categories that specify the spatial constituency of a situation, ~~spatial aspect~~, described in the next [@sec:epithesis-spatial-aspect]. Temporal aspect in German includes a surprisingly large number of continuative constructions, alongside constructions for cross-linguistically widespread aspectual categories like inchoative, habitual and progressive.
+The grammatical category of aspect is commonly defined as linguistic marking that specifies the 'internal temporal constituency of a situation' [@comrie1976: 3]. In this sense, the title of this section, ~~temporal aspect~~, might appear to be tautological. However, this designation is used here in opposition to a different set of constructions that specify the spatial constituency of a situation, ~~spatial aspect~~, described in the next [@sec:epithesis-spatial-aspect]. Temporal aspect in German includes a surprisingly large number of continuative constructions, many of which express different facets of the continuation of a state.
 
-### *Prozessperfekt* (*haben+Partizip*) {#sec:summary-prozessperfekt}
+### *Perfekt* (*haben/sein+Partizip*) {#sec:summary-perfekt}
 
-The ~~Prozessperfekt~~ (full discussion in [@sec:participles-haben-perfect] and subsequent sections) is proposed here as a specific name for the *haben+Partizip* construction [@next]. In the German grammatical tradition, the perfect is normally described as a verb form taking either *haben* or *sein*, depending on the lexical verb. However, there turn out to be surprisingly many verbs that allow for both, with a clear distinction in meaning (see [@sec:participles-haben-sein-perfect]). For that reason, I propose to use different names for both constructions. Note that the name *Perfekt* is developing into a misnomer, as the *haben+Partizip* construction appears to be taking over the function of past marking in contemporary German.
+The ~~Perfekt~~ (full discussion in [@sec:participles-haben-perfect] and subsequent sections) is the name from the German tradition for the *haben/sein+Partizip* construction [@next]. The light verbs *haben* and *sein* are used in almost complete complementary distribution with only few verbs that allow for both. The name *Perfekt* is developing into a misnomer because the *haben/sein+Partizip* construction is clearly not marking perfect aspect (see [@sec:participles-temporal-interpretation]). It appears to be slowly taking over the function of past marking in contemporary German. 
 
-::: ex
-a. Das Kind schläft.
-b. Das Kind hat geschlafen.
-:::
-
-### *Zustandsperfekt* (*sein+Partizip*) {#sec:summary-zustandsperfekt}
-
-The ~~Zustandsperfekt~~ (full discussion in [@sec:participles-sein-perfect] and subsequent sections) is proposed here as a name for the *sein+Partizip* epithesis [@next]. The first part of this name (*Zustand*) is explicitly intended to be reminiscent of the *Zustandspassiv* (see [@sec:summary-zustandspassiv]), because both construction are formally identical. The only difference is that they are applied to different verbs (and consequently have a different effect on the marking of the roles). The second part of the name (*Perfekt*) alludes to the traditional analysis of *sein* being an allomorph of the perfect auxiliary (alongside *haben*, see [@sec:summary-prozessperfekt]). However, because *sein* and *haben* are not in complementary distribution I propose to name them separately.
+There are two diathetical constructions that are structurally similar to the *Perfekt*, namely the *Zustandspassiv* (marked with *sein+Partizip*, see [@sec:summary-zustandspassiv]) and the *Pertinenzpassiv* (marked with *haben+Partizip* , see [@sec:summary-pertinenzpassiv]). From an aspectual point of view, these passive constructions are perfects.
 
 ::: ex
-a. Das Kind schläft ein.
-b. Das Kind ist eingeschlafen.
+a. Das Kind schläft. \
+   Das Kind hat geschlafen.
+b. Das Kind schläft ein. \
+   Das Kind ist eingeschlafen.
 :::
 
 ### *Inchoativ* (*los-*)
 
-The ~~Inchoativ~~ (full discussion in [@sec:adverbial-inchoative-los]) consists of the preverbial adjective *los-*, added as a separable verb particle with intransitive verbs, like *losradeln* 'to start biking' [@next]. This construction indicates that an activity starts. It is typically used with manner-of-movement verbs and manner-of-speaking verbs. However, it is in general applicable to all agentive intransitives. Originally, as an adjective *los* means 'loose' in contemporary German. In that meaning it is used for example in the *Resultativ Delokativ* diathesis (see [@sec:summary-adverb-delokativ]). In contrast, the current preverbial inchoative use of *los-* is derived from an older meaning 'free'.
+The ~~Inchoativ~~ (full discussion in [@sec:adverbial-inchoative-los]) consists of the preverbial adjective *los-*, added as a separable verb particle with intransitive verbs, like *losradeln* 'to start biking' [@next]. This construction indicates that an activity starts. It is typically used with manner-of-movement verbs and manner-of-speaking verbs. However, it is in general applicable to all agentive intransitives. Originally, the adjective *los* means 'loose' in contemporary German. In that meaning it is used for example in the *Resultativ Delokativ* diathesis (see [@sec:summary-adverb-delokativ]). In contrast, the preverbial inchoative use of *los-* is derived from an older usage meaning 'free'.
 
 ::: ex
 - Er radelt täglich zur Schule.
@@ -111,9 +106,9 @@ The ~~Mutativprogressiv~~ (full discussion in [@sec:zuminfinitive-sein-im]) is a
   Die Schwellung ist im Abklingen.
 :::
 
-### *Kontinuativprogressiv* (*bleiben+am‑Infinitiv*)
+### *Kontinuativprogressiv* (*bleiben+am‑Infinitiv*) {#sec:epithesis-bleiben-am}
 
-The ~~Kontinuativprogressiv~~ (full discussion in [@sec:zuminfinitive-bleiben-am]) is the first of various continuative constructions that use the light verb *bleiben*. Parallel to the *Progressiv* with the light verb *sein* (see [@sec:summary-progressiv]), the *Progressivkontinuativ* [@next] uses the light verb *bleiben* with the *am‑Infinitiv* to express that an event is ongoing (progressive) and remains ongoing (continuative).
+The ~~Kontinuativprogressiv~~ (full discussion in [@sec:zuminfinitive-bleiben-am]) is the first of various continuative constructions that use the light verb *bleiben*. Parallel to the *Progressiv* with the light verb *sein* (see [@sec:summary-progressiv]), the *Kontinuativprogressiv* [@next] uses the light verb *bleiben* with the *am‑Infinitiv* to express that an activity is ongoing (progressive) and remains ongoing (continuative).
 
 ::: ex
 - Er lebt.
@@ -122,7 +117,7 @@ The ~~Kontinuativprogressiv~~ (full discussion in [@sec:zuminfinitive-bleiben-am
 
 ### *Zustandskontinuativ* (*bleiben+Infinitiv*)
 
-The ~~Zustandskontinuativ~~ (full discussion in [@sec:infinitive-bleiben]) is constructed with *bleiben* and an infinitive. It expresses that a state is continuing. This construction is frequently used with state verbs like *stehen* 'to stand', *liegen* 'to lie', *sitzen* 'to sit', etc. [@next a,b]. These combinations are so prominent that their infinitives are usually written as single words in German orthography, i.e. *stehenbleiben, liegenbleiben, sitzenbleiben*. These constructions are often even listed as single verbs in German dictionaries. Yet, there is no grammatical reason to give these combinations a special status compared to other constructions of *bleiben+Infinitiv* that are usually separated by a space, like for example *wohnen bleiben* 'to remain living somewhere'[@next c].
+The ~~Zustandskontinuativ~~ (full discussion in [@sec:infinitive-bleiben]) is constructed with *bleiben* and an infinitive. This construction and the next three construction all express different ways in which a state is continued. The current *Zustandskontinuativ* is frequently used with state verbs like *stehen* 'to stand', *liegen* 'to lie', *sitzen* 'to sit', etc. [@next a,b]. These combinations are so prominent that their infinitives are usually written as single words in German orthography, i.e. *stehenbleiben, liegenbleiben, sitzenbleiben*. These constructions are often even listed as single verbs in German dictionaries. Yet, there is no grammatical reason to give these combinations a special status compared to other constructions of *bleiben+Infinitiv* that are usually separated by a space, like for example *wohnen bleiben* 'to remain living somewhere'[@next c].
 
 ::: ex
 a. Er liegt im Bett.
@@ -132,7 +127,7 @@ c. Er bleibt in München wohnen.
 
 ### *Perfektkontinuativ* (*bleiben+Partizip*) {#sec:summary-perfektkontinuativ}
 
-The ~~Perfektkontinuativ~~ (full discussion in [@sec:participles-bleiben-intransitive]) is constructed with *bleiben* and a participle. Only participles of intransitive verbs can be used in this construction. Additionally, applicable verbs need to have a *sein* perfect (see [@sec:summary-zustandsperfekt]) and should describe a potentially reversible event, like *verschwinden* 'to vanish' [@next]. When used with transitive verbs this construction results in an anticausative diathesis, here called the *Kontinuativantikausativ* (see [@sec:summary-kontinuativantikausativ]).
+The ~~Perfektkontinuativ~~ (full discussion in [@sec:participles-bleiben-intransitive]) is constructed with *bleiben* and a participle. It expresses simultaneously that a process is finished (perfect) and that the resulting state continues (continuative). Only participles of intransitive verbs can be used in this construction. Additionally, applicable verbs need to have a *sein* perfect (see [@sec:summary-perfekt]) and should describe a potentially reversible event, like *verschwinden* 'to vanish' [@next]. When used with transitive verbs this construction results in a passive diathesis, here called the *Kontinuativpassiv* (see [@sec:summary-kontinuativantikausativ]).
 
 ::: ex
 a. Der Schlüssel verschwindet.
@@ -141,7 +136,7 @@ b. Der Schlüssel bleibt verschwunden.
 
 ### *Permissivkontinuativ* (*lassen+Partizip*)
 
-The ~~Permissivkontinuativ~~ (full discussion in [@sec:participles-lassen-durative]) uses the light verb *lassen* with a participle [@next]. The name establishes a connection to the *Permissiv­kau­sativ* (constructed with an infinitive, see [@sec:summary-permissivkausativ]), while highlighting the fact that semantically this construction is a continuative. It expresses the permission of the subject for the result of a transitive action to continue.
+The ~~Permissivkontinuativ~~ (full discussion in [@sec:participles-lassen-durative]) uses the light verb *lassen* with a participle [@next]. It expresses the permission of the nominative subject for the result of a transitive action to continue. The name establishes a connection to the *Permissiv­kau­sativ* diathesis (constructed as *lassen+Infinitiv*, see [@sec:summary-permissivkausativ]), while highlighting the fact that semantically this construction is one the various continuative constructions. 
 
 ::: ex
 - Ich schalte den Fernseher ein.
@@ -150,7 +145,7 @@ The ~~Permissivkontinuativ~~ (full discussion in [@sec:participles-lassen-durati
 
 ### *Kausativkontinuativ* (*halten+Partizip*) {#sec:summary-kausativkontinuativ}
 
-The ~~Kausativkontinuativ~~ (full discussion in [@sec:participles-halten-durative]) uses the light verb *halten* with a participle [@next]. It expresses an explicit action by the subject to keep an perfective state ongoing. The light verb *halten* is also used in the related *Kontinuitäts­kausativ* (see [@sec:summary-kontinuitatskausativ]).
+The ~~Kausativkontinuativ~~ (full discussion in [@sec:participles-halten-durative]) uses the light verb *halten* with a participle [@next]. It expresses an explicit action by the nominative subject to keep a finished state in place. The same light verb is also used in the related *Kontinuitäts­kausativ* (constructed as *halten+am‑Infinitiv*, see [@sec:summary-kontinuitatskausativ]).
 
 ::: ex
 a. Ich schließe die Tür.
@@ -159,7 +154,7 @@ b. Ich halte die Tür geschlossen.
 
 ## Spatial aspect {#sec:epithesis-spatial-aspect}
 
-The grammatical marking of ~~spatial aspect~~ expresses a change in the spatial constituency of an event. In German, there are few 'pure' examples of such spatial aspect, like the *Absentiv*. However, most categories described in this section actually combine spatial and temporal aspects. The light verb *gehen* and *kommen* are used here in a few different, but highly similar constructions.
+The grammatical marking of aspect is commonly defined as linguistic expressions that specify the 'internal temporal constituency of a situation' [@comrie1976: 3]. In this sense, the term ~~spatial aspect~~ might seem contradictory. However, spatial aspect simply expresses a change in the spatial constituency of an event. In German, there are few 'pure' examples of such spatial aspect, like the *Absentiv*. However, most categories described in this section actually combine spatial and temporal aspects. The light verb *gehen* and *kommen* are used here in a few different, but highly similar constructions.
 
 ### *Absentiv* (*sein+Infinitiv*) {#sec:summary-absentiv}
 
@@ -386,9 +381,9 @@ c. Es ist bekannt, dass er verspricht, das Licht auszuschalten.
 
 By definition (see [@sec:intro-basic-definition]), diathesis has to include changes to the grammatical marking of the participants. The alternations described in this section do not show any change in the marking of the participants, so, again by definition, they are classified as examples of epithesis. However, functionally these constructions are close to diatheses in that the relation between the participants and the verb is changed in some way. For lack of a better term I call such a construction a ~~Diathetical epithesis~~.
 
-### *Verborgener Zustandskausativ* (*kommen+zu‑Infinitiv*) {#sec:epithesis-zustandskausativ}
+### *Verborgenes Zustandskausativ* (*kommen+zu‑Infinitiv*) {#sec:epithesis-zustandskausativ}
 
-Covert causatives exists in two variants. The first kind, ~~Verborgener Zustandskausativ~~ (full discussion in [@sec:zuinfinitive-kommen]), uses the light verb *kommen* with a *zu‑Infinitiv* [@next a,b]. This construction conveys that there is some unexpressed force or agent that has caused a state to be reached. It can only used with intransitive state verbs like *stehen* and is obligatorily coherent [@next c].
+Covert causatives exists in two variants. The first kind, the ~~Verborgener Zustandskausativ~~ (full discussion in [@sec:zuinfinitive-kommen]), uses the light verb *kommen* with a *zu‑Infinitiv* [@next a,b]. This construction conveys that there is some unexpressed force or agent that has caused a state to be reached. It can only used with intransitive state verbs like *stehen* and is obligatorily coherent [@next c].
 
 ::: ex
 a. Sie stand neben mir.
@@ -396,7 +391,7 @@ b. Sie kam neben mir zu stehen.
 c. Es ist bekannt, dass sie neben mir zu stehen kam.
 :::
 
-### *Verborgener Rezipientenkausativ* (*bekommen/kriegen+zu‑Infinitiv*)
+### *Verborgenes Rezipientenkausativ* (*bekommen/kriegen+zu‑Infinitiv*)
 
 The ~~Verborgener Rezipientenkausativ~~ (full discussion in [@sec:zuinfinitive-bekommen]) uses the light verbs *bekommen* or *kriegen* with a *zu‑Infinitiv* [@next a,b]. Like with *kommen* (see [@sec:epithesis-zustandskausativ]), there is an unnamed force or agent that causes the situation to come about. The light verb *bekommen/kriegen* is typically combined with a transitive verb of sensation, like *sehen* 'to see', or consumption, like *essen* 'to eat'. By using this covert causative construction, the nominative subject is semantically depicted as an experiencer of the verb. The centrality of the experiencer role is reminiscent of the *Rezipientenpassiv* (see [@sec:summary-rezipientenpassiv]). However, in this construction there is no role-remapping, so it is not a diathesis.
 
@@ -406,7 +401,7 @@ b. Die Schüler bekommen/kriegen einen Film zu sehen.
 c. Es ist bekannt, dass die Schüler einen Film zu sehen bekommen/kriegen.
 :::
 
-### *Selbstbezogener Reflexiv* {#sec:summary-reflexiv}
+### *Selbstbezogenes Reflexiv* {#sec:summary-reflexiv}
 
 The ~~Selbstbezogener Reflexiv~~ (full discussion in [@sec:reflexive-self-inflicting-accusative] and subsequent sections) is marked with a reflexive pronoun and can optionally be reinforced by adding *selbst*. This construction is traditionally simply called *Reflexiv* in German grammar (and beyond). However, reflexive pronouns have a bewildering number of different functions, including many diatheses, so a more precise naming is necessary (see Chapter [-@sec:reflexive] for an extensive discussion). Crucially, the marking of roles do not change in a *Selbstbezogener Reflexiv*, so there is no diathesis.
 

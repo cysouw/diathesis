@@ -6,7 +6,7 @@
 \setcounter{footnote}{0}
 ```
 
-This appendix list further examples for the attested verbs as presented in this book. Currently, this is only an illustrative set of examples. This appendix is planned to be expanded with full corpus examples to all attested verbs in the future. For easy access, the headings are linked in both ways in the electronic versions of this book.
+This appendix lists further examples for the attested verbs as presented in this book. Currently, this is only an illustrative set of examples. This appendix is planned to be expanded with full corpus examples for all attested verbs in the future. For easy access, the headings are linked in both ways in the electronic version of this book.
 
 ## Examples to Chapter [-@sec:participle] {.unnumbered}
 
