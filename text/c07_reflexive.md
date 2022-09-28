@@ -63,7 +63,7 @@ As noted above, there are many more prominent diatheses that involve a reflexive
 - ~~[OBJ › Ø] Präverb Endoreflexiv~~ (see [@sec:preverb-reflexive-accusative-drop])
 - ~~[SBJ › Ø] Aktionsbewertung~~ (see [@sec:adverbial-reflexive-drop])
 - ~~[SBJ › Ø] Möglichkeitsbewertung~~ (see [@sec:infinitive-lassen-reflexive-intransitive])
-- ~~[OBJ › SBJ › Ø] Präsentativantikausativ~~ (see [@sec:participles-geben-reflexive-anticausative])
+- ~~[OBJ › SBJ › Ø] Darstellungsantikausativ~~ (see [@sec:participles-geben-reflexive-anticausative])
 - ~~[OBJ › SBJ › ADJ] Permissivpassiv~~ (see [@sec:infinitive-lassen-reflexive-passive])
 - ~~[OBJ › SBJ › PBJ] Permissivkonversiv~~ (see [@sec:infinitive-lassen-reflexive-conversive])
 - ~~[OBJ › SBJ › OBJ] Permissivinversiv~~ (see [@sec:infinitive-lassen-dative-reflexive-inversive])

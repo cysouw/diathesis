@@ -40,10 +40,10 @@ The following twelve diatheses seem prominent enough to grant them a German name
 - ~~[SBJ › Ø]~~ *werden* ~~Unpersönliches Vorgangspassiv~~ (see [@sec:participles-werden-impersonal-passive] ff.)
 - ~~[OBJ › SBJ › Ø]~~ *scheinen/erscheinen* ~~Inferenzantikausativ~~ (see [@sec:participles-scheinen-anticausative])
 - ~~[OBJ › SBJ › Ø]~~ *aussehen/wirken* ~~Sinnesantikausativ~~ (see [@sec:participles-wirken-anticausative])
-- ~~[OBJ › SBJ › Ø]~~ *geben/zeigen* ~~Präsentativantikausativ~~ (see [@sec:participles-geben-reflexive-anticausative])
+- ~~[OBJ › SBJ › Ø]~~ *geben/zeigen* ~~Darstellungsantikausativ~~ (see [@sec:participles-geben-reflexive-anticausative])
 - ~~[OBJ › SBJ › ADJ]~~ *werden* ~~Vorgangspassiv~~ (see [@sec:participles-werden-passive])
 - ~~[OBJ › SBJ › ADJ]~~ *sein* ~~Zustandspassiv~~ (see [@sec:participles-sein-zustandspassiv])
-- ~~[OBJ › SBJ › ADJ]~~ *bleiben* ~~Kontinuativpassiv~~ (see [@sec:participles-bleiben-transitive])
+- ~~[OBJ › SBJ › ADJ]~~ *bleiben* ~~Fortsetzungspassiv~~ (see [@sec:participles-bleiben-transitive])
 - ~~[OBJ › SBJ › ADJ]~~ *gehören* ~~Normpassiv~~ (see [@sec:participles-gehoren-anticausative])
 - ~~[OBJ › SBJ › ADJ]~~ *bekommen/kriegen* ~~Rezipientenpassiv~~ (see [@sec:participles-bekommen-passive])
 - ~~[OBJ › SBJ › ADJ]~~ *haben* ~~Pertinenzpassiv~~ (see [@sec:participles-haben-passive])
@@ -1592,7 +1592,7 @@ The following attested verbs are only illustrative examples taken from the data 
 - aussehen : *absperren, abtragen, angreifen, anregen, anstrengen, ausschlagen, ausstopfen, begehen, bekümmern, beschädigen, besetzen, drucken, durchleiden, einengen, einrichten, enttäuschen, entzücken, erhitzen, erschöpfen, handhaben, herstellen, improvisieren, knicken, marmorieren, niederschlagen, mitnehmen, möblieren, nähren, narkotisieren, pflegen, stechen, überwachen, verändern, verarbeiten, verbrennen, verjüngen, verlieren, vernichten, verschmutzen, verstören, verwüsten, vollenden, zerkratzen, zerrupfen, zerstreuen, zerzausen, zwingen*
 - wirken : *ankleben, ankreiden, anspannen, aufmalen, auszeichnen, blockieren, darstellen, deplatzieren, deprimieren, entkrampfen, erleichtern, ermatten, hacken, kalkulieren, konstruieren, machen, pflegen, planen, quälen, rupfen, schreiben, stressen, überladen, übertreiben, verändern, verbergen, verfehlen, verkümmern, verlieren, verschließen, verstören, verzerren, zeichnen, zerfetzen, zersplittern, zurechtstützen, zusammenhauen, zusammensuchen*
 
-### [ NA | –N ] *geben/zeigen+Partizip* Reflexive anticausative (*Präsentativantikausativ*) {#sec:participles-geben-reflexive-anticausative}
+### [ NA | –N ] *geben/zeigen+Partizip* Reflexive anticausative (*Darstellungsantikausativ*) {#sec:participles-geben-reflexive-anticausative}
 
 The diatheses with *geben+Partizip* [@next a] and *zeigen+Partizip* [@next b] obligatorily need a reflexive pronoun. These two constructions are semantically rather similar as they both express an observable presentation of a state-of-mind.
 
@@ -1861,9 +1861,9 @@ Almost all transitive verbs allow for a *Zustandspassive*. The following verbs w
   - Er prügelt seine Kinder. \
     Seine Kinder sind (\*geprügelt) verprügelt.
 
-### [ NA | pN ] *bleiben+Partizip* Passive (*Kontinuativpassiv*) {#sec:participles-bleiben-transitive}
+### [ NA | pN ] *bleiben+Partizip* Passive (*Fortsetzungspassiv*) {#sec:participles-bleiben-transitive}
 
-The construction *bleiben+Partizip* is both used with intransitive verbs (see [@sec:participles-bleiben-intransitive]) and with transitive verbs (this section). The verb *bleiben* has even more uses as a light verb (see [@sec:infinitive-bleiben], [-@sec:zuinfinitive-bleiben]) and it can also be used as a main verb with a meaning 'to remain'. This wide variety of uses has lead to quite some discussion in the German grammatical literature about the unity of all these constructions [@eroms2000: 404; @helbig2001: 163; @kramer2004; @schlucker2007: 152; @lasch2016: 72]. Following the general approach in this book, all constructions are discussed separately. However, this is no way precludes any underlying connection between them (see [@sec:epithesis-bleiben-am] and the subsequent sections for a quick summary of the similarities and differences). The German name *Kontinuativpassiv* for the transitive *bleiben+Partizip* construction is inspired by Helbig & Buscha [-@helbig2001: 163].
+The construction *bleiben+Partizip* is both used with intransitive verbs (see [@sec:participles-bleiben-intransitive]) and with transitive verbs (this section). The verb *bleiben* has even more uses as a light verb (see [@sec:infinitive-bleiben], [-@sec:zuinfinitive-bleiben]) and it can also be used as a main verb with a meaning 'to remain'. This wide variety of uses has lead to quite some discussion in the German grammatical literature about the unity of all these constructions [@eroms2000: 404; @helbig2001: 163; @kramer2004; @schlucker2007: 152; @lasch2016: 72]. Following the general approach in this book, all constructions are discussed separately. However, this is no way precludes any underlying connection between them (see [@sec:epithesis-bleiben-am] and the subsequent sections for a quick summary of the similarities and differences). The German name *Fortsetzungspassiv* for the transitive *bleiben+Partizip* construction is adapted from Helbig & Buscha [-@helbig2001: 163].
 
 This construction is closely related to the *sein+Partizip* passive (see [@sec:participles-sein-zustandspassiv]), but adds a notion of continuation of the resulting state [@next a]. Like with the *sein* passive, it is often difficult to retain the agent with a *bleiben* passive [@next b]. However, many examples of retained agents can be found [@nnext]. The factors governing the possible retention of the agent need more research. Like with *sein* inanimate agents seem more receptive for retention.
 

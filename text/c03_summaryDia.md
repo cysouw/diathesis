@@ -220,9 +220,9 @@ b. Die Stille entspannt ihn. \
    Er wirkt ^?^(von der Stille) entspannt.
 :::
 
-### *Präsentativantikausativ* (*geben/zeigen+Partizip*) {#sec:summary-prasentativantikausativ}
+### *Darstellungsantikausativ* (*geben/zeigen+Partizip*) {#sec:summary-prasentativantikausativ}
 
-The ~~Präsentativantikausativ~~ (full discussion in [@sec:participles-geben-reflexive-anticausative]) uses the light verb *geben* with a participle and an obligatory reflexive pronoun. It expresses a conscious performance to appear in a certain way by the erstwhile accusative. The original nominative cannot be retained. The light verb *zeigen* can be used alternatively to *geben*. Any difference between these two light verbs needs more investigation.
+The ~~Darstellungsantikausativ~~ (full discussion in [@sec:participles-geben-reflexive-anticausative]) uses the light verb *geben* with a participle and an obligatory reflexive pronoun. It expresses a conscious performance to appear in a certain way by the erstwhile accusative. The original nominative cannot be retained. The light verb *zeigen* can be used alternatively to *geben*. Any difference between these two light verbs needs more investigation.
 
 ::: ex
 a. Die Stille entspannt ihn.
@@ -273,9 +273,9 @@ b. Der Schrank ist ^?^(von mir) verkauft.
 c. Der Schrank ist ^!^(vom Schreiner) gebaut.
 :::
 
-### *Kontinuativpassiv* (*bleiben+Partizip*) {#sec:summary-kontinuativantikausativ}
+### *Fortsetzungspassiv* (*bleiben+Partizip*) {#sec:summary-kontinuativantikausativ}
 
-The ~~Kontinuativpassiv~~ (full discussion in [@sec:participles-bleiben-transitive]) is closely related to the *sein-Zustandspassiv* (see [@sec:summary-zustandspassiv]), but now the light verb *bleiben* is used with a participle [@next]. This construction expresses that a reached state is continued. Like with *sein*, the retention of the original agent with *bleiben* is possible, but often difficult [@next b,c]. However, not all verbs can be equally used with *sein* and *bleiben*. For example, verbs like *drucken* 'to print' or *schreiben* 'to write' are fine with the *sein-Zustandspassiv* but not with the *bleiben-Kontinuativpassiv*. This construction is only attested with transitive verbs. The same *bleiben+Partizip* construction can be used with intransitive verbs, but then it does not induce a diathesis and is consequently called ~~Perfektkontinuativ~~ (see [@sec:summary-perfektkontinuativ]).
+The ~~Fortsetzungspassiv~~ (full discussion in [@sec:participles-bleiben-transitive]) is closely related to the *sein-Zustandspassiv* (see [@sec:summary-zustandspassiv]), but now the light verb *bleiben* is used with a participle [@next]. This construction expresses that a reached state is maintained. Like with *sein*, the retention of the original agent with *bleiben* is possible, but often difficult [@next b,c]. However, not all verbs can be equally used with *sein* and *bleiben*. For example, verbs like *drucken* 'to print' or *schreiben* 'to write' are fine with the *sein-Zustandspassiv* but not with the *bleiben-Fortsetzungspassiv*. This construction is only attested with transitive verbs. The same *bleiben+Partizip* construction can be used with intransitive verbs, but then it does not induce a diathesis and is called ~~Perfektkontinuativ~~ (see [@sec:summary-perfektkontinuativ]).
 
 ::: ex
 a. Der Pförtner schließt die Tür.
@@ -339,22 +339,9 @@ a. Der Pförtner schließt die Tür. \
 
 A ~~conversive~~ is a diathesis that removes the role marked as subject and promotes an object to be the new subject. The erstwhile subject can optionally be expressed as a governed prepositional phrase. For details on the definition see [@sec:intro-subject-demotions], specifically starting at [@par:conversive].
 
-### *Erlebniskonversiv* (*sein+Partizip*) {#sec:summary-erlebnispassiv}
-
-The ~~Erlebniskonversiv~~ (full discussion in [@sec:participles-sein-conversive]) is constructed with the light verb *sein* and a participle. The form of this diathesis is identical to the *Zustandspassiv* (see [@sec:summary-zustandspassiv]), but there is a crucial difference in the remapping of the original nominative. Verbs that take a *Zustandspassiv*, like *öffnen* 'to open' only allow for the retention of the nominative with a *von* prepositional phrase, and only in special circumstances. In contrast, the verbs that take the *Erlebniskonversiv* can regularly retain the agent with a governed preposition. For example, with the verb *verärgern* 'to displease' the original nominative can be expressed with an *über* prepositional phrase [@next b], which is a governed preposition [@next c]. Verbs that take the *Erlebniskonversiv* are typically verbs the express an experience, similar to the next two diatheses, the *Reflexiv Erlebniskonversiv* [@next d], see [@sec:summary-reflexiv-erlebnispassiv] and the *Permissivkonversiv* [@next e], see [@sec:summary-permissivkonversiv].
-
-::: ex
-a. Die schlechte Nachricht verärgert mich.
-b. Ich bin verärgert über die schlechte Nachricht.
-c. Ich bin verärgert darüber, dass die schlechte Nachricht verbreitet wurde.
-d. ^* Ich verärgere mich über die schlechte Nachricht.
-e. Ich lasse mich nicht durch die schlechte Nachricht verärgern.
-:::
-
 ### *Reflexiv Erlebniskonversiv* {#sec:summary-reflexiv-erlebnispassiv}
 
-The ~~Reflexiv Erlebniskonversiv~~ (full discussion in [@sec:reflexive-preposition-passive]) is a diathesis in which a verb, like *empören* 'to appall' [@next a], can be used both with and without a reflexive pronoun. The effect of adding the reflexive pronoun is a remapping of the accusative to nominative and demoting the erstwhile nominative to a prepositional phrase [@next b]. The prepositional phrase is a governed preposition [@next c]. The verbs that allow this diathesis are typically verbs that express an experience. This diathesis is functionally similar to the previous *Erlebniskonversiv* (see [@sec:summary-erlebnispassiv]) and the next 
-*Permissivkonversiv* (see [@sec:summary-permissivkonversiv]). There are even many verbs that allow for all three diatheses, like *empören* [@next d,e]. However, not all verbs allow for both diatheses, like *verärgern* [@last d,e].
+The ~~Reflexiv Erlebniskonversiv~~ (full discussion in [@sec:reflexive-preposition-passive]) is a diathesis in which a verb, like *empören* 'to appall' [@next a], can be used both with and without a reflexive pronoun. The effect of adding the reflexive pronoun is a remapping of the accusative to nominative and demoting the erstwhile nominative to a prepositional phrase [@next b]. The prepositional phrase is a governed preposition [@next c]. The verbs that allow this diathesis are typically verbs that express an experience. This diathesis is functionally similar to the *sein-Erlebniskonversiv* (see [@sec:summary-erlebnispassiv]) and the *lassen-Permissivkonversiv* (see [@sec:summary-permissivkonversiv]). There are even many verbs that allow for all three diatheses, like *empören* [@next d,e]. However, not all verbs allow for both diatheses, like *verärgern* [@nnext d,e].
 
 ::: ex
 a. Der Preis empört den Kunden.
@@ -362,6 +349,18 @@ b. Der Kunde empört sich über den hohen Preis.
 c. Der Kunde empört sich darüber, dass der Preis schon wieder gestiegen ist.
 d. Der Kunde ist empört über den hohen Preis.
 e. Der Kunde lässt sich nicht empören vom hohen Preis.
+:::
+
+### *Erlebniskonversiv* (*sein+Partizip*) {#sec:summary-erlebnispassiv}
+
+The ~~Erlebniskonversiv~~ (full discussion in [@sec:participles-sein-conversive]) is constructed with the light verb *sein* and a participle. The form of this diathesis is identical to the *Zustandspassiv* (see [@sec:summary-zustandspassiv]), but there is a crucial difference in the remapping of the original nominative. Verbs that take a *Zustandspassiv*, like *öffnen* 'to open' only allow for the retention of the nominative with a *von* prepositional phrase, and only in special circumstances. In contrast, the verbs that take the *Erlebniskonversiv* can regularly retain the agent with a governed preposition. For example, with the verb *verärgern* 'to displease' the original nominative can be expressed with an *über* prepositional phrase [@next b], which is a governed preposition [@next c]. Verbs that take the *Erlebniskonversiv* are typically verbs the express an experience, similar to the next other two conversive diatheses, the *Reflexiv Erlebniskonversiv* [@next d], see [@sec:summary-reflexiv-erlebnispassiv] and the *Permissivkonversiv* [@next e], see [@sec:summary-permissivkonversiv].
+
+::: ex
+a. Die schlechte Nachricht verärgert mich.
+b. Ich bin verärgert über die schlechte Nachricht.
+c. Ich bin verärgert darüber, dass die schlechte Nachricht verbreitet wurde.
+d. ^* Ich verärgere mich über die schlechte Nachricht.
+e. Ich lasse mich nicht durch die schlechte Nachricht verärgern.
 :::
 
 ### *Permissivkonversiv* (*lassen+Infinitiv*) {#sec:summary-permissivkonversiv}
@@ -382,7 +381,7 @@ An ~~inversive~~ is a diathesis that switches subject and object. For details on
 
 ### *Restinversiv* (*bleiben+zu‑Infinitiv*) {#sec:summary-restinversiv}
 
-The ~~Restinversiv~~ (full discussion in [@sec:zuinfinitive-bleiben]) uses the light verb *bleiben* with *zu* and an infinitive. This diathesis reverses the expression of the subject and object roles, in that the accusative is promoted to a nominative, while the original nominative is demoted to an (optional) dative. Because the demotion is 'larger' than the promotion this can be called a ~~demoted inversive~~. Semantically, this diatheses expresses that (some part of) the patient is still left over to be applied to the verb.
+The ~~Restinversiv~~ (full discussion in [@sec:zuinfinitive-bleiben]) uses the light verb *bleiben* with *zu* and an infinitive. This diathesis reverses the expression of the subject and object roles, in that the accusative is promoted to a nominative, while the original nominative is demoted to an (optional) dative. Because the demotion is 'larger' than the promotion this diathesis can be interpreted as a demoted inversive. Semantically, this diatheses expresses that (some part of) the patient is still left over to be applied to the verb.
 
 ::: ex
 a. Ich räume den letzten Schrank ein.
@@ -391,9 +390,7 @@ b. Dieser letzte Schrank bleibt (mir) noch einzuräumen.
 
 ### *Pertinenzinversiv* (*haben+am‑Infinitiv*) {#sec:summary-pertinenzinversiv}
 
-The ~~Pertinenzinversiv~~ (full discussion in [@sec:zuminfinitive-haben-am]) is constructed with the light verb *haben* with an *am‑Infinitiv*. This diathesis also reverses the expression of the subject and object roles, though in the different direction from the previous *Restinversiv* (see [@sec:summary-restinversiv]). In this diathesis the dative is promoted to nominative, while the nominative is demoted to accusative [@next]. Because the promotion is 'larger' than the demotion this can be called a ~~promoted inversive~~. 
-
-Further, the dative *dem Mieter* 'tenant' is necessarily the possessor (*pertinenz*) of the nominative *die Wohnung* 'apartment', so it is a *Pertinenzdativ* (see [@sec:summary-pertinenzdativ]). Both in form and meaning this diathesis is strongly connected to the ensuing ~~Ortspertinenzinversiv~~ (see [@sec:summary-ortspertinenzinversiv]), in which the dative is the possessor of the obligatory location.
+The ~~Pertinenzinversiv~~ (full discussion in [@sec:zuminfinitive-haben-am]) is constructed with the light verb *haben* with an *am‑Infinitiv*. This diathesis also reverses the expression of the subject and object roles, though in the different direction from the previous *Restinversiv* (see [@sec:summary-restinversiv]). In this diathesis the dative is promoted to nominative, while the nominative is demoted to accusative [@next]. Because the promotion is 'larger' than the demotion this can be called a promoted inversive. Further, the dative *dem Mieter* 'tenant' is necessarily the possessor (*pertinenz*) of the nominative *die Wohnung* 'apartment', so it is a *Pertinenzdativ* (see [@sec:summary-pertinenzdativ]). Both in form and meaning this diathesis is strongly connected to the ensuing ~~Ortspertinenzinversiv~~ (see [@sec:summary-ortspertinenzinversiv]), in which the dative is the possessor of the obligatory location.
 
 ::: ex
 a. Dem Mieter brennt die Wohnung.
@@ -412,7 +409,7 @@ c. ^* Er hat einen Tropfen an der Nase am Hängen.
 
 ### *Permissivinversiv* (*lassen+Infinitiv*) {#sec:summary-permissivinversiv}
 
-The ~~Permissivinversiv~~ (full discussion in [@sec:infinitive-lassen-dative-reflexive-inversive]) is yet another diathesis using the construction *lassen* with obligatory reflexive and infinitive, this time with verbs that take a dative, but no accusative, like *schmecken* 'to taste' [@next]. In this diatheses a dative is promoted to nominative with an obligatory dative reflexive pronoun. The original nominative is demoted to accusative. This diathesis is particularly close to the *Permissivpassiv* (see [@sec:summary-permissivpassiv]) and the *Permissivkonversiv* (see [@sec:summary-permissivkonversiv]).
+The ~~Permissivinversiv~~ (full discussion in [@sec:infinitive-lassen-dative-reflexive-inversive]) is yet another diathesis using the construction *lassen* with obligatory reflexive and infinitive, this time with verbs that take a dative, but no accusative, like *schmecken* 'to taste' [@next]. In this diatheses a dative is promoted to nominative with an obligatory dative reflexive pronoun. The original nominative is demoted to accusative. Because the promotion is 'larger' than the demotion this can considered to be a promoted inversive. Among the various *lassen* diatheses, this one is particularly close to the *Permissivpassiv* (see [@sec:summary-permissivpassiv]) and the *Permissivkonversiv* (see [@sec:summary-permissivkonversiv]).
 
 ::: ex
 a. Der Kuchen schmeckt ihr.
@@ -499,9 +496,9 @@ c. Es ist bekannt, dass er dem Kind Milch zu trinken gibt. \
    Er ist bekannt, dass er mir zu bedenken gibt, dass es schon spät ist.
 :::
 
-### *Kontinuitätskausativ* (*halten+am‑Infinitiv*) {#sec:summary-kontinuitatskausativ}
+### *Fortsetzungskausativ* (*halten+am‑Infinitiv*) {#sec:summary-kontinuitatskausativ}
 
-The ~~Kontinuitätskausativ~~ (full discussion in [@sec:zuminfinitive-halten-causative]) uses the light verb *halten* with an *am‑Infinitiv*. This diathesis adds a causer to an intransitive verb. It is typically used with the verb *laufen* 'to run' [@next a], but it is also attested with other agentive intransitive verbs. However, the subject of the intransitive is typically an inanimate object, like *Laden* 'shop' in [@next a]. Additionally, verbs describing heat production like *brennen* 'to burn' [@next b] are frequently attested with this diathesis. The *halten+am‑Infinitiv* diathesis expresses that a process is kept ongoing by the added causer. The light verb *halten* is also used in the related *Kausativkontinuativ* epithesis (see [@sec:summary-kausativkontinuativ]).
+The ~~Fortsetzungskausativ~~ (full discussion in [@sec:zuminfinitive-halten-causative]) uses the light verb *halten* with an *am‑Infinitiv*. This diathesis adds a causer to an intransitive verb. It is typically used with the verb *laufen* 'to run' [@next a], but it is also attested with other agentive intransitive verbs. However, the subject of the intransitive is typically an inanimate object, like *Laden* 'shop' in [@next a]. Additionally, verbs describing heat production like *brennen* 'to burn' [@next b] are frequently attested with this diathesis. The *halten+am‑Infinitiv* diathesis expresses that a process is kept ongoing by the added causer. The light verb *halten* is also used in the related *Kausativkontinuativ* epithesis (see [@sec:summary-kausativkontinuativ]).
 
 ::: ex
 - Der Laden läuft. \

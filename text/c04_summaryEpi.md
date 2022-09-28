@@ -127,7 +127,7 @@ c. Er bleibt in München wohnen.
 
 ### *Perfektkontinuativ* (*bleiben+Partizip*) {#sec:summary-perfektkontinuativ}
 
-The ~~Perfektkontinuativ~~ (full discussion in [@sec:participles-bleiben-intransitive]) is constructed with *bleiben* and a participle. It expresses simultaneously that a process is finished (perfect) and that the resulting state continues (continuative). Only participles of intransitive verbs can be used in this construction. Additionally, applicable verbs need to have a *sein* perfect (see [@sec:summary-perfekt]) and should describe a potentially reversible event, like *verschwinden* 'to vanish' [@next]. When used with transitive verbs this construction results in a passive diathesis, here called the *Kontinuativpassiv* (see [@sec:summary-kontinuativantikausativ]).
+The ~~Perfektkontinuativ~~ (full discussion in [@sec:participles-bleiben-intransitive]) is constructed with *bleiben* and a participle. It expresses simultaneously that a process is finished (perfect) and that the resulting state continues (continuative). Only participles of intransitive verbs can be used in this construction. Additionally, applicable verbs need to have a *sein* perfect (see [@sec:summary-perfekt]) and should describe a potentially reversible event, like *verschwinden* 'to vanish' [@next]. When used with transitive verbs this construction results in a passive diathesis, here called the *Fortsetzungspassiv* (see [@sec:summary-kontinuativantikausativ]).
 
 ::: ex
 a. Der Schlüssel verschwindet.

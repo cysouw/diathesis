@@ -26,7 +26,7 @@ The result of this meticulous demarcation is that only few clearly grammaticalis
 
 - ~~[PBJ › SBJ › Ø]~~ *sein zum* ~~Auslösersubjektivierung~~ (see [@sec:zuminfinitive-sein-zum])
 - ~~[OBJ › SBJ › OBJ]~~ *haben am* ~~Pertinenzinversiv~~ (see [@sec:zuminfinitive-haben-am])
-- ~~[Ø › SBJ › OBJ]~~ *halten am* ~~Kontinuitätskausativ~~ (see [@sec:zuminfinitive-halten-causative])
+- ~~[Ø › SBJ › OBJ]~~ *halten am* ~~Fortsetzungskausativ~~ (see [@sec:zuminfinitive-halten-causative])
 
 ## Defining the *Präpositionsinfinitiv*
 
@@ -402,7 +402,7 @@ c. Es ist zum Heulen.
 
 ### --- [ Ø > SBJ > OBJ ] --- {.unnumbered}
 
-### [ –N | NA ] *halten+am‑Infinitiv* Continuative causative (*Kontinuitätskausativ*) {#sec:zuminfinitive-halten-causative}
+### [ –N | NA ] *halten+am‑Infinitiv* Continuative causative (*Fortsetzungskausativ*) {#sec:zuminfinitive-halten-causative}
 
 The *halten+am‑Infinitiv* construction is used with agentive intransitive verb, most typically with *am Laufen* 'to walk' [@next a]. However, the subject of the intransitive has to be an inanimate entity. The *halten+am‑Infinitiv* diathesis adds a new participant to the event that causes the process to continue. This construction is also frequently attested with verbs describing heat production, like *kochen* 'to cook' [@next b]. However, these cooking verbs appear to be mostly used in a metaphorical sense. Surely, expression like *halten am Kochen* 'to keep something cooking' can be used in a literal sense in a conversation about cooking. However, such an expression is more frequently used in a metaphorical sense of 'to keep some discussion alive' [@next b].
 
