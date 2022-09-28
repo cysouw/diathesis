@@ -47,7 +47,7 @@ The following twelve diatheses seem prominent enough to grant them a German name
 - ~~[OBJ › SBJ › ADJ]~~ *gehören* ~~Normpassiv~~ (see [@sec:participles-gehoren-anticausative])
 - ~~[OBJ › SBJ › ADJ]~~ *bekommen/kriegen* ~~Rezipientenpassiv~~ (see [@sec:participles-bekommen-passive])
 - ~~[OBJ › SBJ › ADJ]~~ *haben* ~~Pertinenzpassiv~~ (see [@sec:participles-haben-passive])
-- ~~[OBJ › SBJ › PBJ]~~ *sein* ~~Erlebnispassiv~~ (see [@sec:participles-sein-conversive])
+- ~~[OBJ › SBJ › PBJ]~~ *sein* ~~Erlebniskonversiv~~ (see [@sec:participles-sein-conversive])
 - ~~[Ø › SBJ › OBJ/ADJ]~~ *wissen/glauben/sehen/finden* ~~Opiniativ~~ (see [@sec:participles-promotion-to-subject] ff.)
 
 ## Characterising participle constructions
@@ -56,10 +56,10 @@ The following twelve diatheses seem prominent enough to grant them a German name
 
 German participles – in German grammar idiosyncratically known as *Partizip II* – can rather straightforwardly be identified by their morphology. This identification is complicated by the existence of a wide range of allomorphy, which will only be succinctly summarised here [cf. @duden2009: 440, §613-614; @eisenberg2006: 201-202]:
 
-- Typically, participles have a prefix *ge-*, like in *ge-kauf-t*, except when the stem already contains one of the unstressed verb prefixes *ge-, be-, er-, ver-, zer-* or *ent-*, like in *verkauf-t*, and in general when the verb stem has an unstressed first syllable, like *schmarotz-t* or *karier-t* [cf. @wiese1996: 92]. The prefix will appear between the stem and the stressed verb particles *an-, ein-, vor*, etc., like in *ein-ge-kauf-t* (see [@sec:preverbs-prefixes-particles] for a summary of verb prefixes and verb particles).
-- Typically, participles have a suffix *-t*, like in *ge-kauf-t*. In some phonological surroundings this suffix has an epenthetic schwa, like in *ge-wart-et*. In a large but closed class of verbs the suffix is *-en*, like in *ge-lauf-en*, often combined with ablaut of the stem vowel, like in *ge-fund-en* (stem *find*).
+- Typically, participles have a prefix *ge-*, like in *ge-kauf-t*, except when the stem already contains one of the unstressed verb prefixes *ge-, be-, er-, ver-, zer‑* or *ent-*, like in *verkauf-t*, and in general when the verb stem has an unstressed first syllable, like *schmarotz-t* or *karier-t* [cf. @wiese1996: 92]. The prefix will appear between the stem and the stressed verb particles *an-, ein-, vor*, etc., like in *ein-ge-kauf-t* (see [@sec:preverbs-prefixes-particles] for a summary of verb prefixes and verb particles).
+- Typically, participles have a suffix *‑t*, like in *ge-kauf-t*. In some phonological surroundings this suffix has an epenthetic schwa, like in *ge-wart-et*. In a large but closed class of verbs the suffix is *‑en*, like in *ge-lauf-en*, often combined with ablaut of the stem vowel, like in *ge-fund-en* (stem *find*).
 
-The allomorphs without prefix *ge-* exhibit syncretism, because such participles are identical to either a third person singular finite verb (when ending in *-t*) or a first/third person plural finite verb (when ending in *-en*). For example, in [@next a] the wordform *verkauft* is a finite third person singular, while in [@next b] it is a participle. Given that finite verbs show agreement with the subject, checking a different subject easily differentiates between these two homonyms, e.g. in the first person singular the finite verb changes to *verkaufe* [@next c], while the participle remains unchanged [@next d].
+The allomorphs without prefix *ge‑* exhibit syncretism, because such participles are identical to either a third person singular finite verb (when ending in *‑t*) or a first/third person plural finite verb (when ending in *‑en*). For example, in [@next a] the wordform *verkauft* is a finite third person singular, while in [@next b] it is a participle. Given that finite verbs show agreement with the subject, checking a different subject easily differentiates between these two homonyms, e.g. in the first person singular the finite verb changes to *verkaufe* [@next c], while the participle remains unchanged [@next d].
 
 ::: ex
 a. Er verkauft das Haus.
@@ -70,7 +70,7 @@ d. Ich habe das Haus verkauft.
 
 The formation of participles is highly productive in German. It is so productive that speakers have no problem producing participles for newly invented pseudo-words. As a result, every verb (i.e. every stem that can have finite person inflection) also allows for the formation of a participle.^[Latzel [-@latzel1977: 73-76, citing and discussing data from Mater 1969 ] lists various verbs that do not allow for a participle. However, many examples are very unusual verbs (e.g. *ornamentieren, leiben*), and many others clearly have participles (e.g. *ankeuchen: er kommt angekeucht; gutachten: ich habe gegutachtet; worthalten: ich habe wortgehalten*). The best examples of verbs without participles appear to be verbs with incorporated objects (e.g. *bausparen, wettlaufen*) that neither can be used in finite forms, nor as participle, but only as an infinitive. In these examples it is even questionable whether these words should be classified as verbs at all. Still, some participles indeed appear to be very rare, like with *stammen, ^?^gestammt* 'to originate from' or *wogen, ^?^gewogt* 'to undulate'. However, examples are attested in corpora, e.g. *Wir haben keinen Hinweis darauf, woher der Geruch gestammt haben könnte* (~~DWDS~~: Die Zeit, 29.12.2014 online) or *Getanzt wird auch im Stehen nicht, nur gewogt.* (~~DWDS~~: Die Zeit, 16.04.2015, Nr. 16).]  The reversal is not true though, as there exist many participles that do not have corresponding finite verb forms (see [@sec:participles-no-alternation]).
 
-### Syntactic functions of participles
+### Syntactic functions of participles {#sec:participles-functions}
 
 Participles, like *geputzt* 'cleaned' in [@next], can be used in three different syntactic functions in the grammar of German, namely as (i) an adnominal adjective [@next a], see [@sec:participles-restrictions], as (ii) a depictive secondary predicate [@next b], see [@sec:participles-secondary-predicates], and as (iii) a part of light-verb construction [@next c,d] to be discussed extensively throughout this chapter.
 
@@ -103,7 +103,7 @@ Crucially, the adnominal and depictive usage of participles are not monoclausal.
 
 ### Depictively used participles {#sec:participles-secondary-predicates}
 
-Participles can be used adverbially, or, to be more precise, they can be used as so-called depictive secondary predicates. A depictive (for short) is an adverbial-like element that modifies an argument of a sentence (see [@sec:adverbial-depictive-predicates] for a detailed discussion of depictives).^[The depictive usage is only adverbial in the sense 'adverbial-at-large', not in the sense 'adverbial-proper' (cf. [@sec:adverbial-depictive-predicates]). Actually, participles (i.e. *Partizip II*) do not appear to be possible in adverbial-proper function. In contrast, to so-called 'present' participles (i.e. *Partizip I*, ending in *-end*) can be used as an adverbial-proper, but that is a topic for another book.] For example in [@next a] the participle *gebogen* 'to bend' functions syntactically like a modifier of the argument *Nägel* 'nails'. So this sentence is about 'bent nails' and not about doing something so that the nails are bent.^[Not all verbs seem to be possible in this depictive participle construction, but I currently do not have any deeper insights into these restrictions. That seems to be a promising topic for further research.] A crucial problem is that constructions with such modifying depictive participles [@next a] are superficially highly similar to light-verb constructions [@next b].
+Participles can be used adverbially, or, to be more precise, they can be used as so-called depictive secondary predicates. A depictive (for short) is an adverbial-like element that modifies an argument of a sentence (see [@sec:adverbial-depictive-predicates] for a detailed discussion of depictives).^[The depictive usage is only adverbial in the sense 'adverbial-at-large', not in the sense 'adverbial-proper' (cf. [@sec:adverbial-depictive-predicates]). Actually, participles (i.e. *Partizip II*) do not appear to be possible in adverbial-proper function. In contrast, to so-called 'present' participles (i.e. *Partizip I*, ending in *‑end*) can be used as an adverbial-proper, but that is a topic for another book.] For example in [@next a] the participle *gebogen* 'to bend' functions syntactically like a modifier of the argument *Nägel* 'nails'. So this sentence is about 'bent nails' and not about doing something so that the nails are bent.^[Not all verbs seem to be possible in this depictive participle construction, but I currently do not have any deeper insights into these restrictions. That seems to be a promising topic for further research.] A crucial problem is that constructions with such modifying depictive participles [@next a] are superficially highly similar to light-verb constructions [@next b].
 
 ::: ex
 a. Er verkauft die Nägel gebogen.
@@ -156,7 +156,7 @@ b. Es ist bekannt, dass er die Schuhe im Geschäft immer geputzt kauft.
 c. Es ist bekannt, dass er die Schuhe immer geputzt im Geschäft kauft.
 :::
 
-Third, secondary predication with participles can also be distinguished from light-verb constructions by considering negation. Negation in sentences with a participle as a secondary predicate normally negates this secondary predicate itself (lexical scope), just like negation of adverbs [@next a,b]. With secondary predicates it is often even possible to use the prefix *un-* to mark the lexical scope of the negation over the participle [@next c]. When the prefix *un-* can be added, this is an easy test for secondary-predicate usage [@rothstein2007a: 161-162]. However, this test does not work in reverse (i.e. the impossibility to add *un-* is not necessarily a sign of a light-verb construction), because many participles simply do not exist with the *un-* prefix.
+Third, secondary predication with participles can also be distinguished from light-verb constructions by considering negation. Negation in sentences with a participle as a secondary predicate normally negates this secondary predicate itself (lexical scope), just like negation of adverbs [@next a,b]. With secondary predicates it is often even possible to use the prefix *un‑* to mark the lexical scope of the negation over the participle [@next c]. When the prefix *un‑* can be added, this is an easy test for secondary-predicate usage [@rothstein2007a: 161-162]. However, this test does not work in reverse (i.e. the impossibility to add *un‑* is not necessarily a sign of a light-verb construction), because many participles simply do not exist with the *un‑* prefix.
 
 ::: ex
 a. Er kauft die Schuhe nicht jetzt.
@@ -203,7 +203,7 @@ b. Der Beschuldigte fühlt sich *schlecht*. \
 
 ### Adnominally used participles {#sec:participles-adnominal-usage}
 
-The first known observation of a restriction on German adnominal participle usage goes back to the *Sprachlehre* of Carl Friedrich Aichinger [-@aichinger1754: 282 ff.]. He reserves the term ~~participium~~ for those stems that allow for an adnominal usage of their participles, like with *eingeschlafen* in [@next a]. His rationale for this restriction is that 'real' participles should allow for declension (like in Latin) and in German only the adnominal usage shows declension, be it minimal (viz. the suffix *-e* in *eingeschlafene*). In contrast, participles that never occur adnominally, like *geschlafen* in [@next b] are morphologically immutable in German. Inflected word forms like *geschlafene*, *geschlafenes* or *geschlafenen* do not exist in German. 
+The first known observation of a restriction on German adnominal participle usage goes back to the *Sprachlehre* of Carl Friedrich Aichinger [-@aichinger1754: 282 ff.]. He reserves the term ~~participium~~ for those stems that allow for an adnominal usage of their participles, like with *eingeschlafen* in [@next a]. His rationale for this restriction is that 'real' participles should allow for declension (like in Latin) and in German only the adnominal usage shows declension, be it minimal (viz. the suffix *‑e* in *eingeschlafene*). In contrast, participles that never occur adnominally, like *geschlafen* in [@next b] are morphologically immutable in German. Inflected word forms like *geschlafene*, *geschlafenes* or *geschlafenen* do not exist in German. 
 
 ::: ex
 - Das eingeschlafene Kind schnarcht.
@@ -374,7 +374,7 @@ The process-oriented constructions, that are compatible with gradual time, are l
 • *lassen* continuative ([@sec:participles-lassen-durative])
 :::
 
-Finally now, let me return to the *haben+Partizip* and *sein+Partizip* constructions. First, these constructions are used for various different kinds of passives: the *Zustandspassiv* ([@sec:participles-sein-zustandspassiv]), the *Erlebnispassiv* ([@sec:participles-sein-conversive]) and the *Pertinenzpassiv* ([@sec:participles-haben-passive]). These passives follow the general time/tense rules for participle constructions as discussed above, and these passives are all result-oriented.
+Finally now, let me return to the *haben+Partizip* and *sein+Partizip* constructions. First, these constructions are used for various different kinds of passives: the *Zustandspassiv* ([@sec:participles-sein-zustandspassiv]), the *Erlebniskonversiv* ([@sec:participles-sein-conversive]) and the *Pertinenzpassiv* ([@sec:participles-haben-passive]). These passives follow the general time/tense rules for participle constructions as discussed above, and these passives are all result-oriented.
 
 In contrast, the *haben/sein+Partizip Perfekt* (see [@sec:participles-no-diathesis]) is process-oriented, because it is compatible with a gradual time specification like *nach und nach* 'gradually' [@next a]. Additionally, the *Perfekt* has completely different time/tense rules. It cannot be used with future time reference [@next b], and tense marking is not correlated with time reference. As a result, the *Perfekt* can be used with a combination of past time and *Präsens* tense marking [@next c]. This combination is otherwise completely unattested in German participle constructions, and it is thus reliable indicator of a *Perfekt* construction.
 
@@ -408,7 +408,7 @@ A recurrent topic of debate in German grammar is the question whether the differ
 
 i. the *sein-Perfekt* [@next a] with some intransitives like *einschlafen* 'to fall asleep', see [@sec:participles-sein-perfect], 
 ii. the *sein-Zustandspassiv* [@next b] with some transitives like *waschen* 'to wash', see [@sec:participles-sein-zustandspassiv], 
-iii. the *sein-Erlebnispassiv* [@next c] with a restricted set of experiencer transitives like *erstaunen* 'to astonish', see [@sec:participles-sein-conversive] and 
+iii. the *sein-Erlebniskonversiv* [@next c] with a restricted set of experiencer transitives like *erstaunen* 'to astonish', see [@sec:participles-sein-conversive] and 
 iv. *sein* adjectival predication, like with *wach* 'awake' [@next d], see [@sec:participles-adjectives-light-verb-constructions]. 
 
 Because these constructions are in complementary distribution, I see no objection to consider them as one construction. However, there are also obvious differences, so splitting them up is likewise sensible. Whether one of these points of view is better than the other seems like a moot question to me. Both perspectives are useful.
@@ -580,9 +580,9 @@ d. Meine Wangen sind verfroren.
 
 ### Participles from loanwords {#sec:participles-loanwords}
 
-There are some participles ending in *-iert* that do not have any finite counterparts. These are build using a widespread German suffix *-ier* to turn loanwords into German verbs, like with *montieren* 'to assemble'. This verb clearly has finite and non-finite forms, among them a participle *montiert*.^[This participle has no prefix *ge-* because of the general German rule that verbs with non-initial stress do not get a prefix [@wiese1996: 92]. With these loan verbs, the suffix *-ier* is always stressed, so there is never any prefix.]
+There are some participles ending in *‑iert* that do not have any finite counterparts. These are build using a widespread German suffix *‑ier* to turn loanwords into German verbs, like with *montieren* 'to assemble'. This verb clearly has finite and non-finite forms, among them a participle *montiert*.^[This participle has no prefix *ge‑* because of the general German rule that verbs with non-initial stress do not get a prefix [@wiese1996: 92]. With these loan verbs, the suffix *‑ier* is always stressed, so there is never any prefix.]
 
-However, there are various participle-like forms ending in *-iert* that do not appear to be have finite forms, like *alkoholisiert* 'to be full of alcohol' [@haig2005: 117]. Although many German dictionaries mention this verb, including sometimes listing finite forms, I have been unable to find any finite example of this verb. Only the infinitive *alkoholisieren* and the participle *alkoholisiert* are attested. It is unclear to me whether the finite forms have simply been lost, or whether they have never existed at all.
+However, there are various participle-like forms ending in *‑iert* that do not appear to be have finite forms, like *alkoholisiert* 'to be full of alcohol' [@haig2005: 117]. Although many German dictionaries mention this verb, including sometimes listing finite forms, I have been unable to find any finite example of this verb. Only the infinitive *alkoholisieren* and the participle *alkoholisiert* are attested. It is unclear to me whether the finite forms have simply been lost, or whether they have never existed at all.
 
 **Attested Verbs**
 
@@ -594,7 +594,7 @@ There exist various German words that are clearly participles in form, but their
 
 In contrast, the participles that are of interest here do not exist as finite verbs, i.e. there are no German verbs *blumen* 'to put flowers on something' or *flügeln* 'to put wings on something, but the participles *geblümt* 'flowered' (from noun *Blume* 'flower') and *geflügelt* 'winged' (from noun *Flügel* 'wing') are perfectly possible. Semantically, the noun-based participles express a kind of possessive relationship 'subject exists with noun'. For example, *geblümt* means 'to exist with flowers applied to it'.
 
-Further, various participles are derived from nouns using verb prefixes *be-* and *ver-*. As discussed earlier, it is a relatively widespread phenomenon for finite verbs to be derived from nominal stems using these prefixes (see [@sec:preverbs-other-stems]). For example, the verb *vergiften* 'to poison' is derived from the noun *Gift* 'poison' without any verb like *giften* in between [@next a,b]. As a consequence, the participle *vergiftet* also exist [@next c]. 
+Further, various participles are derived from nouns using verb prefixes *be‑* and *ver-*. As discussed earlier, it is a relatively widespread phenomenon for finite verbs to be derived from nominal stems using these prefixes (see [@sec:preverbs-other-stems]). For example, the verb *vergiften* 'to poison' is derived from the noun *Gift* 'poison' without any verb like *giften* in between [@next a,b]. As a consequence, the participle *vergiftet* also exist [@next c]. 
 
 ::: ex
 a. ^* Sie giftet ihn.
@@ -635,7 +635,7 @@ b. ^* Ich laune gut.
 
 ### Participles with preverbs {#sec:participles-preverbs}
 
-Words like *einverstanden* 'agreed' [@next a] look morphologically like a regular participle from a verb *einverstehen*. However, that verb does not exist [@next b], only the non-prefixed verb *verstehen* exists. Latzel [-@latzel1977: 79-80] discussed various examples with the preverb *aus-* and Rothstein [-@rothstein2007a: 162] lists examples with the preverb *an-* that only occur in construction with light verb *kommen* (see [@sec:participles-kommen]). Participles with preverbs that do not have a corresponding finite verb appear to be a common phenomenon and the participles listed here should only to be taken as illustrative examples.
+Words like *einverstanden* 'agreed' [@next a] look morphologically like a regular participle from a verb *einverstehen*. However, that verb does not exist [@next b], only the non-prefixed verb *verstehen* exists. Latzel [-@latzel1977: 79-80] discussed various examples with the preverb *aus‑* and Rothstein [-@rothstein2007a: 162] lists examples with the preverb *an‑* that only occur in construction with light verb *kommen* (see [@sec:participles-kommen]). Participles with preverbs that do not have a corresponding finite verb appear to be a common phenomenon and the participles listed here should only to be taken as illustrative examples.
 
 ::: ex
 a. Ich bin einverstanden.
@@ -736,7 +736,7 @@ There is a strong semantic tendency for the nominative subject of intransitives 
 
 There is a surprisingly large group of intransitive verbs that allow for both a *haben* and a *sein* perfect. However, most turn out to be the result of some diathesis productively applied to these verb. Besides those productive diatheses there is only a very small group of intransitive verbs that alternate between *haben* and *sein*. In this section I have collected all those different kinds of intransitive verbs that allow for both auxiliaries [see also @hinze2007; @gillmann2016: Ch. 5]. Additionally, the next [@sec:participles-haben-sein-perfect-reflexive-drop] discusses verbs that allow for an intransitive *haben* perfect with a reflexive pronoun and an intransitive *sein* perfect without a reflexive pronoun.
 
-The main group of intransitive verbs that are attested with both *haben* and *sein* (without the involvement of a diathesis) are verbs that describe a natural process, like *splittern* 'to sliver' [@next a] or *faulen* 'to rot' [@next b]. These verbs can both be used to describe the process (with a *haben* perfect) and the result of this process (taking a *sein* perfect), though these semantic differences are very faint. Curiously, almost all verbs that show this phenomenon also have as *ver/zer-* prefixed variant with minimal semantic change (cf. [@sec:preverb-intransitive-with-unaccusative]). These prefixed variants, e.g. *zersplittern, verfaulen, verrosten*, consistently take *sein* in the perfect.
+The main group of intransitive verbs that are attested with both *haben* and *sein* (without the involvement of a diathesis) are verbs that describe a natural process, like *splittern* 'to sliver' [@next a] or *faulen* 'to rot' [@next b]. These verbs can both be used to describe the process (with a *haben* perfect) and the result of this process (taking a *sein* perfect), though these semantic differences are very faint. Curiously, almost all verbs that show this phenomenon also have as *ver/zer‑* prefixed variant with minimal semantic change (cf. [@sec:preverb-intransitive-with-unaccusative]). These prefixed variants, e.g. *zersplittern, verfaulen, verrosten*, consistently take *sein* in the perfect.
 
 ::: ex
 a. Das Holz war nicht brauchbar, es hat zu sehr gesplittert.^[Attested online at the ~~DWDS~~ dictionary at https://www.dwds.de/wb/splittern, accessed 21 September 2022.] \
@@ -803,8 +803,8 @@ b. Der Teller klebt am Tisch. \
 
 **Attested Verbs**
 
-- Natural process verbs with *ver-* alternation: *altern, dorren, faulen, frieren, gären, rosten, schimmeln, splittern, welken*
-- Natural process verbs without *ver-* alternation: *keimen, münden*
+- Natural process verbs with *ver‑* alternation: *altern, dorren, faulen, frieren, gären, rosten, schimmeln, splittern, welken*
+- Natural process verbs without *ver‑* alternation: *keimen, münden*
 - Mental states: *resignieren, verzweifeln*
 - Manner-of-motion verbs (see [@sec:prepositions-manner-of-movement]): *fahren, fliegen, hüpfen*, etc.
 - Weather manner-of-motion verbs (see [@sec:prepositions-weather-manner-movement]): *blitzen, donnern, hageln*, etc.
@@ -864,7 +864,7 @@ A similar situation also occurs with many (though not all) endoreflexive verbs (
 - Der Patient ist (\*allmählich) entblößt.
 :::
 
-Likewise, some verbs allow for both a reflexive conversive (*Reflexiv Erlebnispassiv*, see [@sec:reflexive-preposition-passive]) and also a *sein+Partizip* passive (*Zustandspassiv*, see [@sec:participles-sein-zustandspassiv]). When both are possible, then such verbs have both a *sein* and a *haben* intransitive construction. For example *aufregen* 'to upset' is such a verb [@next a]. This verb allows for a conversive diathesis with a reflexive pronoun, which in turn takes a *haben* perfect [@next b]. However, there is also a *sein* passive without reflexive pronoun [@next c], which is best analysed as the *Zustandspassiv* of the original transitive construction [@next a] because it does not allow for gradual time.
+Likewise, some verbs allow for both a reflexive conversive (*Reflexiv Erlebniskonversiv*, see [@sec:reflexive-preposition-passive]) and also a *sein+Partizip* passive (*Zustandspassiv*, see [@sec:participles-sein-zustandspassiv]). When both are possible, then such verbs have both a *sein* and a *haben* intransitive construction. For example *aufregen* 'to upset' is such a verb [@next a]. This verb allows for a conversive diathesis with a reflexive pronoun, which in turn takes a *haben* perfect [@next b]. However, there is also a *sein* passive without reflexive pronoun [@next c], which is best analysed as the *Zustandspassiv* of the original transitive construction [@next a] because it does not allow for gradual time.
 
 ::: ex
 a. Der Lärm regt ihn auf. \
@@ -902,7 +902,7 @@ The verbs below are repeated from the previous sections in which the various phe
 Verbs with a dative argument are strictly split between *sein* and *haben*. There do not appear to be any verbs that allow for both. The grammatical status of the datives is slightly different among these verbs (see [@sec:case-nominative-dative; @sec:case-dative-drop; @sec:prepositions-dative-antipassive; @sec:preverb-dative-applicative] for detailed discussion). Similar to intransitives, the dative verbs with a *haben* perfect, like *antworten* 'to answer' [@next a], do not allow for a construction with an adnominal participle [@next b], but the impersonal *werden* passive is possible [@next c].
 
 ::: ex
-a. Die Professorin hat en geantwortet.
+a. Die Professorin hat dem Studenten geantwortet.
 b. ^* Der geantwortete Student ist zufrieden.
 c. Heute wird dem Studenten geantwortet.
 :::
@@ -913,7 +913,7 @@ c. Heute wird dem Studenten geantwortet.
 
 ### [ ND | ND ] *sein+Partizip* Dative perfect {#sec:participle-sein-perfect-dative}
 
-Similar to intransitives, the dative-verbs with *sein*, like *gelingen* 'to succeed' [@next a], all appear to allow for a construction with an adnominal participle [@next b], while the impersonal *werden* passive is not possible [@next c]. Among these verbs, there are very many with the *ent-* prefix. Other than that special group, there does not appear to be any obvious semantic differentiation between the nominative+dative verbs that take *sein+Partizip* vs. those that take *haben+Partizip* (as discussed in the previous section).
+Similar to intransitives, the dative-verbs with *sein*, like *gelingen* 'to succeed' [@next a], all appear to allow for a construction with an adnominal participle [@next b], while the impersonal *werden* passive is not possible [@next c]. Among these verbs, there are very many with the *ent‑* prefix. Other than that special group, there does not appear to be any obvious semantic differentiation between the nominative+dative verbs that take *sein+Partizip* vs. those that take *haben+Partizip* (as discussed in the previous section).
 
 ::: ex
 a. Das Gemälde ist mir gelungen.
@@ -972,7 +972,7 @@ Almost all transitive (nominative+accusative) verbs take a *haben* perfect, and 
 - Ich bin den Verfolger losgeworden.
 :::
 
-Movement verbs with the separable preverbs *ab-* (in the meaning 'along') and *durch-* (with the meaning 'through') appear to be quite productive in producing transitive verbs with a *sein* Perfect. For example, a verb like *abkriechen* 'to crawl along' does not appear in regular German lexical resources, but can productively be created and seems to take quite naturally a perfect with *sein* [@next a]. Similarly, the somewhat more widespread verb *durchkriechen* 'to crawl through' also takes *sein* in the perfect [@next b].
+Movement verbs with the separable preverbs *ab‑* (in the meaning 'along') and *durch‑* (with the meaning 'through') appear to be quite productive in producing transitive verbs with a *sein* Perfect. For example, a verb like *abkriechen* 'to crawl along' does not appear in regular German lexical resources, but can productively be created and seems to take quite naturally a perfect with *sein* [@next a]. Similarly, the somewhat more widespread verb *durchkriechen* 'to crawl through' also takes *sein* in the perfect [@next b].
 
 ::: ex
 - Ich bin dann mit dem Messgerät auch nochmal das gesamte Fahrzeug abgekrochen.^[Attested online at <https://www.wohnmobilforum.de/w-t88559,start,45.html>, accessed 23 April 2021.]
@@ -1022,7 +1022,7 @@ Finally, the verb *laufen* allows for both *sein* and *haben* in the intransitiv
 
 ### [ N | N ] *kommen+(an-)+Partizip* Movement towards (*Aditivprogressiv*) {#sec:participles-kommen}
 
-The *kommen+Partizip* construction [@next] is used to convey that the subject is approaching while performing a specific kind of movement. It is very similar to a main verb *kommen* 'to come' with a secondary adverbial predicate [@nnext]. Rothstein [-@rothstein2007a; -@rothstein2011] observed various structural differences between these constructions (see also the general discussion about participles as secondary predicates in [@sec:participles-secondary-predicates]). The *kommen+Partizip* construction, like with *hüpfen* 'to hop', can be identified by the impossibility of adding the negating *un-* prefix to the participle [@next b] and by the clause-final position of the participle [@next c,d]. With secondary predicates like *verkleidet* 'dressed up' these syntactic characteristics are reversed [@nnext b-d]. 
+The *kommen+Partizip* construction [@next] is used to convey that the subject is approaching while performing a specific kind of movement. It is very similar to a main verb *kommen* 'to come' with a secondary adverbial predicate [@nnext]. Rothstein [-@rothstein2007a; -@rothstein2011] observed various structural differences between these constructions (see also the general discussion about participles as secondary predicates in [@sec:participles-secondary-predicates]). The *kommen+Partizip* construction, like with *hüpfen* 'to hop', can be identified by the impossibility of adding the negating *un‑* prefix to the participle [@next b] and by the clause-final position of the participle [@next c,d]. With secondary predicates like *verkleidet* 'dressed up' these syntactic characteristics are reversed [@nnext b-d]. 
 
 ::: ex
 - Er kommt gehüpft.
@@ -1053,7 +1053,7 @@ The *kommen+Partizip* construction is typically attested with intransitive verbs
 - Er kam mir nachgelaufen.
 :::
 
-A widely-discussed special variant is the construction with participles with a preverb *an-* [see @eisenberg2006: 266; @rothstein2007a: 162; @felfe2012: 194, 241]. Many of these *an-* verbs are only possible in this construction, i.e. they do not occur in finite clauses [@rothstein2007a: 162], see also [@sec:participles-preverbs]. Besides with movement verbs, like *reiten* 'to ride on horseback' [@next a], the *an-* construction also occurs with sound-production verbs, like *keuchen* 'to pant' [@next b]. These two possibilities are related to the manner-of-movement construction, see [@sec:prepositions-manner-of-movement], and the manner-of-speaking construction, see [@sec:case-accusative-addition].
+A widely-discussed special variant is the construction with participles with a preverb *an‑* [see @eisenberg2006: 266; @rothstein2007a: 162; @felfe2012: 194, 241]. Many of these *an‑* verbs are only possible in this construction, i.e. they do not occur in finite clauses [@rothstein2007a: 162], see also [@sec:participles-preverbs]. Besides with movement verbs, like *reiten* 'to ride on horseback' [@next a], the *an‑* construction also occurs with sound-production verbs, like *keuchen* 'to pant' [@next b]. These two possibilities are related to the manner-of-movement construction, see [@sec:prepositions-manner-of-movement], and the manner-of-speaking construction, see [@sec:case-accusative-addition].
 
 ::: ex
 - Er kommt angeritten. \
@@ -1076,7 +1076,7 @@ The secondary predicate usage is also possible with transitive verbs, but then t
 #### Attested Verbs {.unnumbered}
 
 - movement verbs: *fliegen, hüpfen, laufen, schwimmen, zufliegen*, etc.
-- *an-* verbs only attested in the *kommen+Partizip* construction: *andampfen, andonnern, anfliegen, anflitzen, anhetzen, anheulen, ankeuchen, ankriechen, anlatschen, anlaufen, anpreschen, anrasen, anrasseln, anrauschen, anreisen, anreiten, anrennen, anrücken*
+- *an‑* verbs only attested in the *kommen+Partizip* construction: *andampfen, andonnern, anfliegen, anflitzen, anhetzen, anheulen, ankeuchen, ankriechen, anlatschen, anlaufen, anpreschen, anrasen, anrasseln, anrauschen, anreisen, anreiten, anrennen, anrücken*
 
 #### Further Example {.unnumbered}
 
@@ -2096,7 +2096,7 @@ It is crucial for the *Pertinenzpassiv* that the possessor of the accusative can
 
 ### --- [ OBJ > SBJ > PBJ ] --- {.unnumbered}
 
-### [ NA | PN ] *sein+Partizip* Conversive (*Erlebnispassiv*) {#sec:participles-sein-conversive}
+### [ NA | PN ] *sein+Partizip* Conversive (*Erlebniskonversiv*) {#sec:participles-sein-conversive}
 
 Some emotional verbs like *verärgern* 'to irritate' [@next a] evoke a special conversive diathesis with the light verb *sein* [@nedjalkov1988a: 422 calls these "emotive quasi-resultatives"]. When used with a *sein+Partizip* construction, the original nominative subject (i.e. the cause of the emotional reaction, here *Nachricht* 'notice') can be retained as a governed preposition. This preposition differs between the various verbs that allow for such a diathesis. For example, the verb *verärgern* induces the preposition *über* [@next b]. The governed status of this preposition can be shown by using the *da+Preposition, dass* paraphrase [@next c], see [@sec:prepositions-identifying-governed-prepositions].
 
@@ -2208,7 +2208,7 @@ b. Die Bezahlung macht den Job begehrt.
 
 ## Diathesis with promotion to subject {#sec:participles-promotion-to-subject}
 
-#### Opiniatives {.unnumbered}
+### --- Opiniatives --- {.unnumbered}
 
 The four verbs *wissen* 'to know', *glauben* 'to believe', *sehen* 'to see' and *finden* 'to find' (and apparently only those four) allow for a construction with a participle, reminiscent of the Latin *accusativus cum participio*. This construction describes an opinion by somebody (expressed as a newly added nominative subject) about the veracity of a statement (of which the verb is expressed as a participle). Consequently, such a diathesis will be called an ~~opiniative~~ here. This opinion is marked as either more certain (*wissen, finden*) or less certain (*glauben, sehen*).
 

@@ -34,7 +34,7 @@ The following eight diatheses with a *zu‑Infinitiv* are attested regularly in 
 
 ### Morphological structure {#sec:zuinfinitive-morphology}
 
-The combination of *zu* with an infinitive is regularly written as two words in German orthography, like with the infinitive *kaufen* 'to buy' in [@next a]. However, the combination is written as one word when the verb has a separable preverb, like *ein-* in *einkaufen* 'to shop' [@next b]. With such preverbs, *zu* is inserted between the preverb and the verbal stem.
+The combination of *zu* with an infinitive is regularly written as two words in German orthography, like with the infinitive *kaufen* 'to buy' in [@next a]. However, the combination is written as one word when the verb has a separable preverb, like *ein‑* in *einkaufen* 'to shop' [@next b]. With such preverbs, *zu* is inserted between the preverb and the verbal stem.
 
 ::: ex
 - Du brauchst nichts zu kaufen.

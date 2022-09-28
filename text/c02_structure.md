@@ -194,14 +194,14 @@ a. Ich fürchte den Tod.
 b. Ich fürchte mich vor den Tod.
 :::
 
-In Chapter [-@sec:preverbs] I will turn to preverbs, i.e. verbal prefixes that in German grammar are known as *Verbpräfixe* and *Verbpartikeln*. Syntactically, these are different kinds of elements, but from the perspective of diathesis they appear to function rather similar. The most widespread diathesis marked by such preverbs is an applicative, like with *be-* in [@next]. Because of the bound morphological structure, these diatheses show a strong tendency to grammaticalise into a large variety of different kinds of diathetical operations. A central generalisation of the diatheses discussed in this chapter is that the resulting sentence structures after a preverb diathesis is mostly transitive (esp. nominative+accusative).
+In Chapter [-@sec:preverbs] I will turn to preverbs, i.e. verbal prefixes that in German grammar are known as *Verbpräfixe* and *Verbpartikeln*. Syntactically, these are different kinds of elements, but from the perspective of diathesis they appear to function rather similar. The most widespread diathesis marked by such preverbs is an applicative, like with *be‑* in [@next]. Because of the bound morphological structure, these diatheses show a strong tendency to grammaticalise into a large variety of different kinds of diathetical operations. A central generalisation of the diatheses discussed in this chapter is that the resulting sentence structures after a preverb diathesis is mostly transitive (esp. nominative+accusative).
 
 ::: ex
 a. Ich steige auf den Berg.
 b. Ich besteige den Berg.
 :::
 
-Closely related to preverbs are resultative preverbials that induce diathesis, like the applicative with *leer-* in [@next]. There exist also diatheses induced by evaluative adverbials, like the reflexive anticausative with a manner specification *gut* in [@nnext]. Although these two kinds of elements, resultatives and evaluatives, occur in rather different kinds of diathesis, for convenience both phenomena are combined into a single chapter on adverbial-like diatheses in Chapter [-@sec:adverbial].
+Closely related to preverbs are resultative preverbials that induce diathesis, like the applicative with *leer‑* in [@next]. There exist also diatheses induced by evaluative adverbials, like the reflexive anticausative with a manner specification *gut* in [@nnext]. Although these two kinds of elements, resultatives and evaluatives, occur in rather different kinds of diathesis, for convenience both phenomena are combined into a single chapter on adverbial-like diatheses in Chapter [-@sec:adverbial].
 
 ::: ex
 a. Ich habe in dem Teich gefischt.
@@ -315,11 +315,11 @@ So, in summary, the role-remapping in the diathesis [@last] is categorised as:
 
 Different diatheses can be applied one after the other, forming ~~stacks~~ of diatheses. The term 'stacking' is introduced here explicitly in opposition to 'subordinating'. Subordination leads to non-coherent multi-clause constructions, while stacks always remain coherent and thus monoclausal.
 
-Stacked diatheses can lead to convoluted role-remappings. A beautiful example of such stacking of diatheses is given by Dixon [-@dixon2014: 252] for the Amazonian language Paumarí. Here, the root *noki-* 'to see' is transparently related to the meaning 'to show' through a series of derivational diatheses, viz. *noki-* 'to see', *noki-a-* 'to be visible', *na-noki-a-* 'to become visible', and finally *na-noki-a-hi-* 'to make become visible' i.e. 'to show'. 
+Stacked diatheses can lead to convoluted role-remappings. A beautiful example of such stacking of diatheses is given by Dixon [-@dixon2014: 252] for the Amazonian language Paumarí. Here, the root *noki‑* 'to see' is transparently related to the meaning 'to show' through a series of derivational diatheses, viz. *noki‑* 'to see', *noki-a‑* 'to be visible', *na-noki-a‑* 'to become visible', and finally *na-noki-a-hi‑* 'to make become visible' i.e. 'to show'. 
 
 German does not have that many morphologically bound mechanisms for diathesis, though there are incidental examples that come close. For example, the verb *liegen* 'to lie' changes with ablaut to *legen* 'to lay' (see [@sec:case-umlaut-causative]), which in turn can take a preverb to form *be-legen* 'to cover' (see [@sec:preverb-applicative-antipassive]). However, when the perspective is broadened beyond bound morphology and all different kinds of German diatheses are considered, then it turns out that stacking of diatheses is extremely widespread.
 
-In many cases, the different steps in a stack can be easily disentangled by carefully observing the formal marking of the diathesis. For example, the construction in [@next c] includes both a preverb *be-* and a reflexive pronoun *sich* and it turns out that these are applied in turn to make a stack of two diatheses. Starting with the verb *antworten* 'to answer' with a governed preposition *auf* [@next a], the applicative preverb *be-* changes the prepositional phrase to an accusative [@next b], see [@sec:preverb-applicative]. Subsequently, the reflexive anticausative turns the accusative into a nominative and drops the nominative agent [@next c], see [@sec:reflexive-anticausative].
+In many cases, the different steps in a stack can be easily disentangled by carefully observing the formal marking of the diathesis. For example, the construction in [@next c] includes both a preverb *be‑* and a reflexive pronoun *sich* and it turns out that these are applied in turn to make a stack of two diatheses. Starting with the verb *antworten* 'to answer' with a governed preposition *auf* [@next a], the applicative preverb *be‑* changes the prepositional phrase to an accusative [@next b], see [@sec:preverb-applicative]. Subsequently, the reflexive anticausative turns the accusative into a nominative and drops the nominative agent [@next c], see [@sec:reflexive-anticausative].
 
 ::: ex
 a. Der Lehrer antwortet auf deine Frage.
@@ -327,7 +327,7 @@ b. Der Lehrer beantwortet deine Frage.
 c. Deine Frage beantwortet sich von selbst.
 :::
 
-Diatheses are applied one after the other, i.e. the order of the diatheses in a stack is of crucial importance in most cases (unordered stacks exist, but are unusual, see [@sec:intro-disjunct-diatheses]). Basically, a stack is just a list of clause alternations applied one after the other. Semantically this means that each subsequent clause alternation has scope over the previous one. This can for example be written down using a symbol like +> to indicate the additive (+) and sequential (>) nature of the combination. The stack above can then be analysed as: [@last c] = [@last a] +> *be-* applicative +> reflexive anticausative. This notation leads to concise analyses, as for example shown in [@next] for the difference between [@next a] and [@next b]. 
+Diatheses are applied one after the other, i.e. the order of the diatheses in a stack is of crucial importance in most cases (unordered stacks exist, but are unusual, see [@sec:intro-disjunct-diatheses]). Basically, a stack is just a list of clause alternations applied one after the other. Semantically this means that each subsequent clause alternation has scope over the previous one. This can for example be written down using a symbol like +> to indicate the additive (+) and sequential (>) nature of the combination. The stack above can then be analysed as: [@last c] = [@last a] +> *be‑* applicative +> reflexive anticausative. This notation leads to concise analyses, as for example shown in [@next] for the difference between [@next a] and [@next b]. 
 
 ::: ex
 a. Der Lehrer hat die Aufgabe lösen wollen. \
@@ -336,7 +336,7 @@ a. Der Lehrer hat die Aufgabe lösen wollen. \
    +> *haben* perfect (see [@sec:participles-haben-perfect])
 b. Der Lehrer will die Aufgabe gelöst haben. \
    = Irgendjemand löst die Aufgabe für den Lehrer. \
-   +> benefactive dative (see [@sec:prepositions-benefactive-dative]) \
+   +> beneficiary dative (see [@sec:prepositions-benefactive-dative]) \
    +> *haben* dative passive (see [@sec:participles-haben-passive]) \
    +> *wollen* modal (see [@sec:infinitive-modals])
 :::
@@ -388,12 +388,12 @@ a. Ich fasse einen Entschluss.
 b. Ich befasse mich mit dem Entschluss.
 :::
 
-Also some light verb alternations show fixed stacks. For example, there is a very widespread causative diathesis using the light verb *lassen* with an infinitive [@next b], see [@sec:infinitive-lassen-causative]. Additionally, the combination of *lassen+Infinitiv* and a reflexive pronoun leads to an anticausative alternation [@next c], which does not make sense as being derived from the causative [@next b]. It seems better to consider the combination of *lassen+Infinitiv+Reflexiv* as a fixed stack, see [@sec:infinitive-lassen-reflexive-anticausative].
+Also some light verb alternations show fixed stacks. For example, there is a very widespread causative diathesis using the light verb *lassen* with an infinitive [@next b], see [@sec:infinitive-lassen-causative]. Additionally, the combination of *lassen+Infinitiv* and a reflexive pronoun leads to a passive alternation [@next c], which does not make sense as being derived from the causative [@next b]. It seems better to consider the combination of *lassen+Infinitiv+Reflexiv* as a fixed stack, see [@sec:infinitive-lassen-reflexive-passive].
 
 ::: ex
 a. Der Schüler löst die Aufgabe.
 b. Der Lehrer lässt den Schüler die Aufgabe lösen.
-c. Diese Aufgabe lässt sich lösen.
+c. Diese Aufgabe lässt sich (von den Schülern) lösen.
 :::
 
 ## Chaining {#sec:intro-chaining}
@@ -422,7 +422,7 @@ a. Der Lehrling backt den Kuchen.
 b. Der Kuchen wird gebacken (von dem Lehrling).
 :::
 
-Diatheses without involvement of the nominative subject are more flexible, in that both isolated and chained diatheses are common. A typical example of a chained diathesis is an object exchange induced by the preverb *be-* [@next]. In this example, a prepositional phrase *für ihre Freundin* 'for her friend' is remapped to an accusative ~~[ADJ › OBJ]~~ while the erstwhile accusative *Essen* 'food' is turned into a prepositional phrase ~~[OBJ › ADJ]~~.
+Diatheses without involvement of the nominative subject are more flexible, in that both isolated and chained diatheses are common. A typical example of a chained diathesis is an object exchange induced by the preverb *be‑* [@next]. In this example, a prepositional phrase *für ihre Freundin* 'for her friend' is remapped to an accusative ~~[ADJ › OBJ]~~ while the erstwhile accusative *Essen* 'food' is turned into a prepositional phrase ~~[OBJ › ADJ]~~.
 
 ::: ex
 ~~[ADJ › OBJ › ADJ]~~
@@ -435,7 +435,7 @@ Among chained diatheses there is a group of frequently recurring remapping patte
 
 ### Multi-chained diatheses
 
-~~multi-chained diatheses~~ consist of combinations of more than two role-remappings that occur in a sequence. This occurs frequently as the result of a stack of multiple diatheses, but only very rarely in a single diathesis. As an example arising from a stack of multiple diatheses consider taking a verb like *lesen* 'to read' [@next a] and applying a stack of two diatheses [@next b,c]. This leads to a chain of three role-remappings. First, the preverb diathesis with *vor-* [@next b] leads to the addition of a dative argument *dem Jungen*, i.e. a role-remapping ~~[Ø › OBJ]~~, see [@sec:preverb-dative-addition-accusative]. On top of that, the *bekommen* dative passive [@next c] promotes this dative to subject and removes the original subject, i.e. a role-remapping ~~[OBJ › SBJ › Ø]~~, see [@sec:participles-bekommen-passive]. Combined, these two diatheses lead to a role-remapping ~~[Ø › OBJ › SBJ › Ø]~~.
+~~multi-chained diatheses~~ consist of combinations of more than two role-remappings that occur in a sequence. This occurs frequently as the result of a stack of multiple diatheses, but only very rarely in a single diathesis. As an example arising from a stack of multiple diatheses consider taking a verb like *lesen* 'to read' [@next a] and applying a stack of two diatheses [@next b,c]. This leads to a chain of three role-remappings. First, the preverb diathesis with *vor‑* [@next b] leads to the addition of a dative argument *dem Jungen*, i.e. a role-remapping ~~[Ø › OBJ]~~, see [@sec:preverb-dative-addition-accusative]. On top of that, the *bekommen* dative passive [@next c] promotes this dative to subject and removes the original subject, i.e. a role-remapping ~~[OBJ › SBJ › Ø]~~, see [@sec:participles-bekommen-passive]. Combined, these two diatheses lead to a role-remapping ~~[Ø › OBJ › SBJ › Ø]~~.
 
 ::: ex
 ~~[Ø › OBJ › SBJ › Ø]~~
@@ -897,7 +897,7 @@ b. Ich schreibe einen Brief an dich.
 In contrast, there is a widespread alternation between datives and *für* prepositional phrases [@next] that I classify as an ~~applicative~~, see [@sec:prepositions-benefactive-dative]. In this example the dative seems to be the derived construction.
 
 ::: ex
-~~Covert applicative (benefactor raising) [ADJ › OBJ]~~
+~~Covert applicative (beneficiary raising) [ADJ › OBJ]~~
 
 a. Er kocht eine Suppe für mich.
 b. Er kocht mir eine Suppe.
@@ -912,7 +912,7 @@ a. Er schneidet meine Haare.
 b. Er schneidet mir die Haare.
 :::
 
-These two covert kinds of dative applicative (viz. benefactor and possessor applicative) are semantically and structurally clearly distinct. The datives that show a possessive alternation [@last] are semantically experiencers. In contrast, datives that alternate with *für* prepositional phrases [@llast] are semantically benefactors. In especially crafted context it is possible to evoke either reading for the same sentence [@next].
+These two covert kinds of dative applicative (viz. beneficiary and possessor applicative) are semantically and structurally clearly distinct. The datives that show a possessive alternation [@last] are semantically experiencers. In contrast, datives that alternate with *für* prepositional phrases [@llast] are semantically beneficiaries. In especially crafted context it is possible to evoke either reading for the same sentence [@next].
 
 ::: ex
 a. ^^?^ Ich schneide dir (zuliebe) in den (meinen) Finger. \

@@ -215,7 +215,7 @@ c. Ich arbeite dafür, dass ich ein besseres Leben bekomme.
 
 ### Causal *durch* and *von* {#sec:prepositions-durch}
 
-The preposition *durch*, roughly meaning 'through' in its spatial meaning [@next a], has a widespread adverbial usage describing a ~~cause~~ [@next b]. In this non-governed adverbial usage it is often still possible to use the paraphrase *dadurch, dass* [@next c]. Together with purposive *für* from the previous section, this is a second exception to the claim that this *da-* paraphrase is an indication of governed usage.
+The preposition *durch*, roughly meaning 'through' in its spatial meaning [@next a], has a widespread adverbial usage describing a ~~cause~~ [@next b]. In this non-governed adverbial usage it is often still possible to use the paraphrase *dadurch, dass* [@next c]. Together with purposive *für* from the previous section, this is a second exception to the claim that this *da‑* paraphrase is an indication of governed usage.
 
 ::: ex
 a. Ich laufe durch den Regen.
@@ -223,7 +223,7 @@ b. Ich verspäte mich durch den Regen.
 c. Ich verspäte mich dadurch, dass es regnet.
 :::
 
-The preposition *von*, roughly meaning 'from' in its spatial meaning [@next a], can also be used for a cause [@next b]. In this non-governed causal usage it is likewise possible to use the paraphrase *davon, dass* [@next c]. This is the third (and last) exception to the test that the *da-* paraphrase is an indication of governed usage.
+The preposition *von*, roughly meaning 'from' in its spatial meaning [@next a], can also be used for a cause [@next b]. In this non-governed causal usage it is likewise possible to use the paraphrase *davon, dass* [@next c]. This is the third (and last) exception to the test that the *da‑* paraphrase is an indication of governed usage.
 
 ::: ex
 a. Sie kommt von dem Arzt.
@@ -828,7 +828,7 @@ The alternation with the verb *rücken* 'to move over' and *ziehen* 'to pull' ar
 
 ### [ –NL | NAL ] *Umlaut* Causative+location {#sec:prepositions-umlaut-caused-location}
 
-Vestiges of the old Germanic causative suffix *-jan* can still be found in some verb pairs in contemporary German, as illustrated with the pair *liegen/legen* 'to lie/to lay' [@next]. The verbs in this section obligatorily need a location. Similar causative verb pairs without obligatory location are discussion in [@sec:case-umlaut-causative].
+Vestiges of the old Germanic causative suffix *‑jan* can still be found in some verb pairs in contemporary German, as illustrated with the pair *liegen/legen* 'to lie/to lay' [@next]. The verbs in this section obligatorily need a location. Similar causative verb pairs without obligatory location are discussion in [@sec:case-umlaut-causative].
 
 ::: ex
 - Der Hund liegt in dem Korb.
@@ -1900,7 +1900,7 @@ f. Er klopft mir den Schnee von den (meinen) Schuhen.
 f. Er klopft sich den Schnee von den Schuhen.
 :::
 
-This construction is closely related constructions with resultative preverbial like *leer-* 'empty' in [@next], see also [@sec:adverbial-object-addtion].
+This construction is closely related constructions with resultative preverbial like *leer‑* 'empty' in [@next], see also [@sec:adverbial-object-addtion].
 
 ::: ex
 Er klopft den Aschenbecher leer.
@@ -2083,7 +2083,7 @@ Similar to the previous diathesis, but somewhat less common, some verbs allow fo
 - Er näht einen Knopf an seine Hose.
 :::
 
-This diathesis is closely related to a similar diathesis with preverbs (see [@sec:preverb-applicative-in-antipassive]) and to the diathesis with the resultative preverbial *fest-* (see [@sec:adverbial-fest]), exemplified here with the verb *kitten* 'to cement' [@next].
+This diathesis is closely related to a similar diathesis with preverbs (see [@sec:preverb-applicative-in-antipassive]) and to the diathesis with the resultative preverbial *fest‑* (see [@sec:adverbial-fest]), exemplified here with the verb *kitten* 'to cement' [@next].
 
 ::: ex
 - Ich kitte die zerbrochene Tasse.
@@ -2110,16 +2110,16 @@ This diathesis is closely related to a similar diathesis with preverbs (see [@se
 
 ### --- [ ADJ > OBJ ] --- *Benefaktivdativ* {.unnumbered}
 
-### [ NAp | NAD ] Benefactive dative {#sec:prepositions-benefactive-dative}
+### [ NAp | NAD ] Beneficiary dative {#sec:prepositions-benefactive-dative}
 
-The alternation of a dative with a *für* prepositional phrase is very widespread [@next a,b]. It can be used with verbs that can be performed on behalf of somebody else (i.e. ~~benefactive~~, sometimes called ~~dativus commodi~~). In German grammar it is sometimes referred to as a 'free dative' because it can be easily dropped completely. As Eisenberg [-@eisenberg2006a: 298] remarks, such datives are widespread, but cannot be used with all verbs and are thus a phenomenon that can be used for the sub-classification of verbs. Also note that this diathesis should be strongly differentiated from other 'free datives', specifically possessor datives (see especially [@sec:case-possessor-accusative-to-dative; but also @sec:prepositions-possessor-of-location-to-dative-experiencer]) 
+The alternation of a dative with a *für* prepositional phrase is very widespread [@next a,b]. It can be used with verbs that can be performed on behalf of somebody else (i.e. a ~~beneficiary~~, sometimes called ~~dativus commodi~~). In German grammar it is sometimes referred to as a 'free dative' because it can be easily dropped completely. As Eisenberg [-@eisenberg2006a: 298] remarks, such datives are widespread, but cannot be used with all verbs and are thus a phenomenon that can be used for the sub-classification of verbs. Also note that this diathesis should be strongly differentiated from other 'free datives', specifically possessor datives (see especially [@sec:case-possessor-accusative-to-dative; but also @sec:prepositions-possessor-of-location-to-dative-experiencer]) 
 
 ::: ex
 a. Ich koche dir eine Suppe.
 b. Ich koche eine Suppe für dich.
 :::
 
-Note that it almost always possible to add a *für* benefactive phrase to a sentence [@next a], but these do not always have a dative alternant [@next b]. With transitive verbs it turns out not so easy to find good examples where this alternation is impossible, because with most verbs datives seem to be possible though often only with some creative freedom, e.g. [@next c-e]. Only those verbs that clearly allow for both alternatives are of interest here.
+Note that it almost always possible to add a *für* beneficiary phrase to a sentence [@next a], but these do not always have a dative alternant [@next b]. With transitive verbs it turns out not so easy to find good examples where this alternation is impossible, because with most verbs datives seem to be possible though often only with some creative freedom, e.g. [@next c-e]. Only those verbs that clearly allow for both alternatives are of interest here.
 
 ::: ex
 a. Ich arbeite für den Chef.
@@ -2345,7 +2345,7 @@ b. Der Platz wimmelt von Kindern.
 
 ### [ NAp | NpA ] Chained applicative/antipassive {#sec:prepositions-instrument-applicative}
 
-In German, chained applicatives are typically attested with verbal prefixes like *be-* [@next a] or verbal particles like *ein-* [@next b], see [@sec:preverb-applicative-antipassive]. In such alternations, the role that is marked with the accusative case changes. An accusatively marked argument is typically more affected than a prepositional object, so changing which role is marked in the accusative also changes the perspective of the action (similar to what happens with antipassives, see [@sec:prepositions-accusative-antipassive]). 
+In German, chained applicatives are typically attested with verbal prefixes like *be‑* [@next a] or verbal particles like *ein‑* [@next b], see [@sec:preverb-applicative-antipassive]. In such alternations, the role that is marked with the accusative case changes. An accusatively marked argument is typically more affected than a prepositional object, so changing which role is marked in the accusative also changes the perspective of the action (similar to what happens with antipassives, see [@sec:prepositions-accusative-antipassive]). 
 
 ::: ex
 a. Ich werfe Dreck auf dich. \

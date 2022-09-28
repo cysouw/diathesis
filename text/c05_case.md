@@ -19,7 +19,7 @@ The unmarked nature of covert diatheses implies that there is some slight redund
 
 There are seven local groups of diatheses that seem prominent enough to be given a German name. I propose the following names for these:
 
-- ~~[SBJ › Ø] Verbativ~~ (see [@sec:case-nominative-drop] ff.)
+- ~~[SBJ › Ø] Auslöserentfall~~ (see [@sec:case-nominative-drop] ff.)
 - ~~[OBJ › SBJ › Ø] Antikausativ~~ (see [@sec:case-haben-anticausative] ff.)
 - ~~[Ø › SBJ › OBJ] Kausativ~~ (see [@sec:case-sein-causative] ff.)
 - ~~[Ø › OBJ] Ergebnisakkusativ~~ (see [@sec:case-accusative-addition])
@@ -184,8 +184,6 @@ b. Ich schreite den Teppich ab.
 
 **Attested Verbs**
 
-I could not find any obvious semantic categorisation of these verbs, so they are simply presented in alphabetical order here.
-
 - Monomorphemic: *bilden, brauchen, finden, freuen, grüßen, kennen, kriegen, merken, mögen, pflegen, tanken, wecken*
 - With preverbs: *abmessen, abschreiten, abwiegen, angehen, ansehen, ansetzen, begrüßen, beängstigen, behalten, bekommen, beruhigen, beschäftigen, darstellen, entschuldigen, erreichen, umfassen, unterbrechen, verachten, verletzen, verschwenden, zerreißen, zerstören*
 
@@ -278,7 +276,7 @@ This class consists of the classical ditransitive verbs with an obligatory nomin
 
 **Further Examples**
 
-- Wir müssen ihm die Unpünktlichkeit abgewöhnen.
+- Wir haben ihm die Unpünktlichkeit abgewöhnt.
 - Der Schreck benimmt ihm den Atem.
 - Das Konzert beschert ihm ein Comeback.
 - Ich schulde dir eine Antwort.
@@ -409,7 +407,7 @@ This section is empty. It is only added here for the numbering to be parallel ac
 
 ## Diatheses with subject demotion
 
-### --- [ SBJ > Ø ] --- *Verbativ* {.unnumbered}
+### --- [ SBJ > Ø ] --- *Auslöserentfall* {.unnumbered}
 
 ### [ N | – ] Nominative drop {#sec:case-nominative-drop}
 
@@ -685,7 +683,7 @@ d. ^* Das Haus hat gebaut.
 b. Der Junge baut ein Haus.
 :::
 
-Although there is no overt derivational direction in German between an unmarked anticausative like *kochen* and an unmarked causative like *zerbrechen*, there are a few indications substantiating this analysis. First, many verbs with only *sein* in the intransitive have preverbs like *zer-* and such preverbal derivations are typically causatives, resulting in transitive constructions (see Chapter [-@sec:preverbs] on preverbal diatheses). Crucially, almost all verbs in the current causative class are attested both with and without preverb with often only minimal differences in meaning, e.g. compare *brechen* 'to break in [@next] with *zerbrechen* 'to break' in [@llast].
+Although there is no overt derivational direction in German between an unmarked anticausative like *kochen* and an unmarked causative like *zerbrechen*, there are a few indications substantiating this analysis. First, many verbs with only *sein* in the intransitive have preverbs like *zer‑* and such preverbal derivations are typically causatives, resulting in transitive constructions (see Chapter [-@sec:preverbs] on preverbal diatheses). Crucially, almost all verbs in the current causative class are attested both with and without preverb with often only minimal differences in meaning, e.g. compare *brechen* 'to break in [@next] with *zerbrechen* 'to break' in [@llast].
 
 ::: ex
 a. Der Stock bricht.
@@ -760,7 +758,7 @@ The verb *fliehen* 'to flee' can be used transitively, but this seems to be unus
 
 ### [ –N | NA ] *Umlaut* Causative {#sec:case-umlaut-causative}
 
-Originally based on a Germanic suffix *-jan*, which turned into an umlaut, some verbs have an intransitive (e.g. *fallen* 'to fall') and a transitive causative (e.g. *fällen* 'to fell') only separated by a vowel-quality difference [@next].
+Originally based on a Germanic suffix *‑jan*, which turned into an umlaut, some verbs have an intransitive (e.g. *fallen* 'to fall') and a transitive causative (e.g. *fällen* 'to fell') only separated by a vowel-quality difference [@next].
 
 ::: ex
 a. Der Baum ist gefallen.
@@ -782,7 +780,7 @@ b. Ich habe den Baum gefällt.
 
 ### [ –N | NA ] *Umlaut* Adjectival causative {#sec:case-umlaut-adjectival-causative}
 
-The process to make a causative with the suffix *-jan* also applied to adjectival predicates. There are still a few remnants of such pairs found in contemporary German, in which the old suffix is retained as an umlaut [@next]. More cases are available with additional preverbs, see [@sec:preverb-adjectival-causative].
+The process to make a causative with the suffix *‑jan* also applied to adjectival predicates. There are still a few remnants of such pairs found in contemporary German, in which the old suffix is retained as an umlaut [@next]. More cases are available with additional preverbs, see [@sec:preverb-adjectival-causative].
 
 ::: ex
 a. Die Kiste ist schwarz.
@@ -1183,7 +1181,7 @@ b. Ich schneide seine Haare.
 
 This alternation occurs with all verbs with the *von* and *für* dative antipassive (see [@sec:prepositions-dative-antipassive-accusative]). Additionally, there are many verbs in the realm of destruction and repair that allow for this diathesis.
 
-For some verbs there is a possible ambiguity of the datives, like in [@next a] and [@nnext a]. There is a difference between the interpretation as a *für* benefactive alternant 'on your behalf' [@next b], [@nnext b], see [@sec:prepositions-benefactive-dative], and the interpretation as a possessive alternant [@next c], [@nnext c], as discussed in this section.
+For some verbs there is a possible ambiguity of the datives, like in [@next a] and [@nnext a]. There is a difference between the interpretation as a *für* beneficiary alternant 'on your behalf' [@next b], [@nnext b], see [@sec:prepositions-benefactive-dative], and the interpretation as a possessive alternant [@next c], [@nnext c], as discussed in this section.
 
 ::: ex
 a. Ich koche dir die Suppe.

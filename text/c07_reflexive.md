@@ -29,7 +29,7 @@ a. Die S-Bahn hat sich wieder einmal verspätet.
 b. Ich habe mir eine neue Sprache angeeignet.
 :::
 
-In this chapter, only diatheses are discussed that exclusively differ as to the addition of a reflexive pronoun. There are actually even more diatheses involving reflexive pronouns that will be discussed in subsequent chapters. In those diatheses there is more than one morphosyntactic change. For example, with some verbs the addition of a preverb also induces the addition of a reflexive pronouns [@next a], see [@sec:preverb-reflexive-intransitive-antiresultative]. There is also the famous German anticausative diatheses that combines a reflexive pronoun with a manner adverbial [@next b], see [@sec:adverbial-reflexive-transitive-anticausative]. Also widely discussed in German grammar is the combination of a reflexive pronoun with the light verb *lassen* [@next c], see [@sec:infinitive-lassen-reflexive-anticausative]. Less widely discussed are diatheses that combine a reflexive pronoun with light verbs like *geben* [@next d], see [@sec:participles-geben-reflexive-anticausative].
+In this chapter, only diatheses are discussed that exclusively differ as to the addition of a reflexive pronoun. There are actually even more diatheses involving reflexive pronouns that will be discussed in subsequent chapters. In those diatheses there is more than one morphosyntactic change. For example, with some verbs the addition of a preverb also induces the addition of a reflexive pronouns [@next a], see [@sec:preverb-reflexive-intransitive-antiresultative]. There is also the famous German anticausative diatheses that combines a reflexive pronoun with a manner adverbial [@next b], see [@sec:adverbial-reflexive-transitive-anticausative]. Also widely discussed in German grammar is the combination of a reflexive pronoun with the light verb *lassen* [@next c], see [@sec:infinitive-guises-of-lassen]. Less widely discussed are diatheses that combine a reflexive pronoun with light verbs like *geben* [@next d], see [@sec:participles-geben-reflexive-anticausative].
 
 ::: ex
 a. Der Hund ist nach Hause gelaufen. \
@@ -45,7 +45,7 @@ d. Er schlug seine Mitbewerber. \
 {#par:reflexive-generalisations} Amidst the large variety of diatheses with reflexive pronouns, there are a few generalisations that stand out:
 
 - Diatheses with reflexive pronouns are valency-reducing alternations (main counterexamples in [@sec:reflexive-manner-of-movement], idiosyncratic counterexamples in [@sec:reflexive-accusative-to-nominative]).
-- Diatheses with reflexive pronouns exclusively use the accusative reflexive pronoun, never the dative (idiosyncratic counterexamples in [@sec:reflexive-genitive-passive-dative], and there is a productive dative pattern with *lassen*, see [@sec:infinitive-lassen-dative-reflexive-anticausative]).
+- Diatheses with reflexive pronouns exclusively use the accusative reflexive pronoun, never the dative (idiosyncratic counterexamples in [@sec:reflexive-genitive-passive-dative], and there is a productive dative reflexive pattern with *lassen*, see [@sec:infinitive-lassen-dative-reflexive-inversive]).
 - For obligatory reflexive verbs, dative reflexive pronouns are only possible when an accusative argument is present (idiosyncratic counterexamples in [@sec:reflexive-obligatory-dative]).
 - For self-inflicting reflexive reference, dative reflexive pronouns are only possible when an accusative argument is present (counterexamples in [@sec:reflexive-self-dative] and [-@sec:reflexive-self-dative-location]).
 
@@ -55,15 +55,18 @@ There are six diatheses in this chapter that seem prominent enough to be given a
 - ~~[OBJ › ADJ] Reziprokativ~~ (see [@sec:reflexive-mit-antipassive])
 - ~~[OBJ › PBJ] Reflexiv Antipassiv~~ (see [@sec:reflexive-accusative-antipassive])
 - ~~[OBJ › SBJ › Ø] Reflexiv Antikausativ~~ (see [@sec:reflexive-anticausative] ff.)
-- ~~[OBJ › SBJ › PBJ] Reflexiv Erlebnispassiv~~ (see [@sec:reflexive-preposition-passive])
+- ~~[OBJ › SBJ › PBJ] Reflexiv Erlebniskonversiv~~ (see [@sec:reflexive-preposition-passive])
 - ~~[Ø › PBJ] Reflexiv Bewegungsart~~ (see [@sec:reflexive-manner-of-movement])
 
 As noted above, there are many more prominent diatheses that involve a reflexive pronoun, but these are fixed stacks together with other marking (preverbs, adverbials or light verbs). They will be discussed in later chapters. For convenience, the main reflexive fixed stacks are listed here with reference to their full discussion:
 
 - ~~[OBJ › Ø] Präverb Endoreflexiv~~ (see [@sec:preverb-reflexive-accusative-drop])
-- ~~[SBJ › Ø] Wertungsverbativ~~ (see [@sec:adverbial-reflexive-drop])
+- ~~[SBJ › Ø] Aktionsbewertung~~ (see [@sec:adverbial-reflexive-drop])
+- ~~[SBJ › Ø] Möglichkeitsbewertung~~ (see [@sec:infinitive-lassen-reflexive-intransitive])
 - ~~[OBJ › SBJ › Ø] Präsentativantikausativ~~ (see [@sec:participles-geben-reflexive-anticausative])
-- ~~[OBJ › SBJ › ADJ] Möglichkeitsspassiv~~ (see [@sec:infinitive-lassen-reflexive-anticausative])
+- ~~[OBJ › SBJ › ADJ] Permissivpassiv~~ (see [@sec:infinitive-lassen-reflexive-passive])
+- ~~[OBJ › SBJ › PBJ] Permissivkonversiv~~ (see [@sec:infinitive-lassen-reflexive-conversive])
+- ~~[OBJ › SBJ › OBJ] Permissivinversiv~~ (see [@sec:infinitive-lassen-dative-reflexive-inversive])
 - ~~[OBJ › ADJ] Präverb Reflexiv Antipassiv~~ (see [@sec:preverb-reflexive-antipassive])
 - ~~[Ø › OBJ] Präverb Reflexiv Akkusativ~~ (see [@sec:preverb-reflexive-resultative] ff.)
 
@@ -84,7 +87,7 @@ In contrast, the difference between a dative and an accusative reflexive pronoun
 
 ### Coreference always with nominative
 
-The pronoun *sich* always refers to the nominative subject [@next a], except in some situations embedded inside another diathesis [@next b] or light-verb construction.
+The pronoun *sich* always refers to the nominative subject [@next a], except in some situations embedded inside another diathesis [@next b,c].
 
 ::: ex
 a. Ich wasche mich.
@@ -92,7 +95,7 @@ b. Er lässt mich mich waschen.
 c. Laß mich mich an dir ergetzen.^[~~DWDS~~: Tucholsky, Kurt: Zwischen den Schlachten. In: Kurt Tucholsky, Werke - Briefe - Materialien, Berlin: Directmedia Publ. 2000 [1919].]
 :::
 
-With light-verb constructions, intended coreference with the nominative subject cannot be marked with *sich* anymore. For example, [@next a] is ambiguous in that the pronoun *ihn* could both be coreferential with the nominative *er* or not. The intended meaning of the reflexive *sich* in [@next b] is an attempt to force a coreferential reading, which seems impossible to me.
+With light-verb constructions, intended coreference with the nominative subject cannot be marked with *sich* anymore. For example, [@next a] is ambiguous in that the pronoun *ihn* could both be coreferential with the nominative *er* or not. The intended meaning of the reflexive *sich* in [@next b] is an attempt to force a coreferential reading, which seems impossible to me. 
 
 ::: ex
 a. Er lässt mich ihn waschen.
@@ -287,7 +290,7 @@ d. Ich habe mich ohne meinen Nachbar betrunken.
 
 Verbs with reciprocal *mit* are sometimes called 'real' reciprocals [or ~~reciproca tantum~~, @wiemer2007: 467-468] because they can be considered to be inherently reciprocal, although they still can have a singular subject (see [@sec:reflexive-accusative-reciprocal] for the reciprocal constructions with plural subjects).
 
-There are many verbs with the prefix *ver-* in this class. Interestingly, many are derived from nominal stems, e.g. *sich verbrüdern* 'to fraternise' is derived from the noun *Bruder* 'brother', see [@sec:preverb-nominal-causative].
+There are many verbs with the prefix *ver‑* in this class. Interestingly, many are derived from nominal stems, e.g. *sich verbrüdern* 'to fraternise' is derived from the noun *Bruder* 'brother', see [@sec:preverb-nominal-causative].
 
 **Attested Verbs**
 
@@ -385,7 +388,7 @@ It is exceedingly rare to have a dative *sich* without other arguments. A possib
 
 ### [ NA ] Obligatory dative reflexive+accusative {#sec:reflexive-obligatory-dative-accusative}
 
-A dative *sich* with an obligatory accusative appear to be reasonably frequent. Note that the meaning of almost all these verbs include some kind of (cognitive) appropriation, like with *vorstellen* 'to image' [@next a]. The prefix *er-* occurs recurrently with the meaning 'to appropriate something successfully', like with *erspielen* 'to win by playing' [@next b].
+A dative *sich* with an obligatory accusative appear to be reasonably frequent. Note that the meaning of almost all these verbs include some kind of (cognitive) appropriation, like with *vorstellen* 'to image' [@next a]. The prefix *er‑* occurs recurrently with the meaning 'to appropriate something successfully', like with *erspielen* 'to win by playing' [@next b].
 
 ::: ex
 - Ich stelle mir das Ergebnis vor.
@@ -687,9 +690,9 @@ The verb *zuneigen* 'to tend towards' [@next] is the only known example of a fre
 
 - *zuneigen*
 
-### [ NA | NA ] Free dative reflexive+accusative {#sec:reflexive-free-dative-sich-accusative}
+### [ NA | NA ] Beneficiary dative reflexive+accusative {#sec:reflexive-free-dative-sich-accusative}
 
-So-called 'free' benefactive datives [@next a,b] are widespread in German (see [@sec:prepositions-benefactive-dative]). Such a dative can in most cases also be used reflexively [@next c]. Comparing [@next a] with [@next c] seems to suggest a free reflexive *sich* in the dative. However, this example is just a combination of a benefactive dative and the regular self-inflicting reflexive usage.
+So-called beneficiary datives [@next a,b] are widespread in German (see [@sec:prepositions-benefactive-dative]). Such a dative can in most cases also be used reflexively [@next c]. Comparing [@next a] with [@next c] seems to suggest a free reflexive *sich* in the dative. However, this example is just a combination of a beneficiary dative and the regular self-inflicting reflexive usage.
 
 ::: ex
 a. Ich habe ein Haus gebaut.
@@ -697,7 +700,7 @@ b. Ich habe ihm (= für ihn) ein Haus gebaut.
 c. Ich habe mir ein Haus gebaut.
 :::
 
-In contrast, the verb *ansehen* 'observe' also allows for a construction with and without reflexive pronoun [@next a,c], but it is not possible to use a non-coreferential dative [@next b]. Such verbs are much less common and will be listed here. All these verbs currently known to me have preverbs, with *er-* being particularly frequent (see Chapter [-@sec:preverbs]).
+In contrast, the verb *ansehen* 'observe' also allows for a construction with and without reflexive pronoun [@next a,c], but it is not possible to use a non-coreferential dative [@next b]. Such verbs are much less common and will be listed here. All these verbs currently known to me have preverbs, with *er‑* being particularly frequent (see Chapter [-@sec:preverbs]).
 
 ::: ex
 a. Ich habe das Haus angesehen.
@@ -752,7 +755,7 @@ c. Er hat mir jede Menge Arbeit erspart.
 
 ### --- Self-inflicted reflexive alternations --- {.unnumbered}
 
-To test for the presence of the self-inflicting reflexive construction, there are various syntactic characteristics to look out for. First, it is always possible to add the intensifier *selbst* to the reflexive pronoun [@next a]. Further, the pronoun *sich* can be negated [@next b] and stressed [@next c]. These characteristics do not hold for any of the diatheses marked by *sich* as discussed later in this chapter.
+{#par:reflexive-test} To test for the presence of the self-inflicting reflexive construction, there are various syntactic characteristics to look out for. First, it is always possible to add the intensifier *selbst* to the reflexive pronoun [@next a]. Further, the pronoun *sich* can be negated [@next b] and stressed [@next c]. These characteristics do not hold for any of the diatheses marked by *sich* as discussed later in this chapter.
 
 ::: ex
 a. Er sieht sich (selbst).
@@ -885,7 +888,7 @@ f. Er wäscht sich den Rücken. (= dative *sich*)
 - Giving: *geben, kaufen, holen, schenken, schicken, senden, ˈüberlegen, ˈüberwerfen*
 - Messaging: *erklären, erzählen, mailen, sagen, schreiben*
 - Others: *einprägen*
-- Verbs with *für* benefactive dative alternation (see [@sec:prepositions-benefactive-dative], e.g. *backen, putzen*)
+- Verbs with *für* beneficiary dative alternation (see [@sec:prepositions-benefactive-dative], e.g. *backen, putzen*)
 - Verbs with possessor-of-accusative dative alternation (see [@sec:case-possessor-accusative-to-dative], e.g. *versalzen, zerbrechen*)
 
 **Further Examples**
@@ -1110,7 +1113,7 @@ Likewise, accusative reciprocals with a governed preposition are also possible, 
 
 ### [ ND | Nd ] Dative reciprocal 
 
-Because a reciprocal is necessary plural subject, the difference between an accusative or dative reciprocal *sich* is never visible. Although there are verbs with dative arguments that can be used reciprocally, this cannot occur in the 1st or 2nd person singular, which are the only circumstances in which a difference between dative and accusative is overtly marked. There seems to be only a limited set of dative verbs that allow for a reciprocal construction, though the preverb *zu-* rather productively results in new examples [@wiemer2007: 470].
+Because a reciprocal is necessary plural subject, the difference between an accusative or dative reciprocal *sich* is never visible. Although there are verbs with dative arguments that can be used reciprocally, this cannot occur in the 1st or 2nd person singular, which are the only circumstances in which a difference between dative and accusative is overtly marked. There seems to be only a limited set of dative verbs that allow for a reciprocal construction, though the preverb *zu‑* rather productively results in new examples [@wiemer2007: 470].
 
 ::: ex
 a. Karl vertraut dem Jungen.
@@ -1326,7 +1329,7 @@ a. Er bietet mir neue Perspektiven.
 b. Neue Perspektiven bieten sich mir.
 :::
 
-This diathesis is not possible with reflexive anticausative verbs (see [@sec:reflexive-anticausative]) with an additional benefactive 'free' dative (see [@sec:prepositions-benefactive-dative]), like with *schließen* 'to close' [@next a,b] or *erfüllen* 'to satisfy' [@next c,d].
+This diathesis is not possible for reflexive anticausative verbs (see [@sec:reflexive-anticausative]) that have an additional beneficiary dative (see [@sec:prepositions-benefactive-dative]), like with *schließen* 'to close' [@next a,b] or *erfüllen* 'to satisfy' [@next c,d].
 
 ::: ex
 a. Ich schließe dir (= für dich) den Schrank.
@@ -1443,7 +1446,7 @@ c. Die Lampe und das Stromnetz verbinden sich nicht miteinander.
 - Seine Haarfarbe unterscheidet ihn von seinem Bruder. \
   Er unterscheidet sich von seinem Bruder (durch seine Haarfarbe).
 
-### --- [ OBJ > SBJ > PBJ ] --- *Reflexiv Erlebnispassiv* {.unnumbered}
+### --- [ OBJ > SBJ > PBJ ] --- *Reflexiv Erlebniskonversiv* {.unnumbered}
 
 ### [ NA | PN ] Reflexive conversive {#sec:reflexive-preposition-passive}
 
@@ -1455,7 +1458,7 @@ b. Der Kunde empört sich über den Preis.
 c. Der Kunde empört sich darüber, dass der Preis schon wieder gestiegen ist.
 :::
 
-With many of these verbs the role of the reflexive argument appears to be more of an experiencer than a real agent, typically with the prepositions *an, bei, für, um* and *über*. A German name like ~~Reflexiv Erlebnispassiv~~ might thus be suitable for this diathesis (cf. [@sec:participles-sein-conversive] for the ~~Erlebnispassiv~~ without reflexive pronouns). Although there are many experiencer verbs in this category, this pattern cannot be reversed: far from all verbs that semantically have an experiencer exhibit this diathesis, e.g. *frustrieren* 'to frustrate' or *nerven* 'to annoy' do not allow this diathesis [@next]. Wiskandt [-@wiskandt2022: 253-255] proposes that the experiencer verbs with this diathesis imply some kind of consciousness and have less affected experiencers. However, such semantic explanations are probably always post-hoc and never causal (cf. [@sec:intro-domain-of-application]).
+With many of these verbs the role of the reflexive argument appears to be more of an experiencer than a real agent, typically with the prepositions *an, bei, für, um* and *über*. A German name like ~~Reflexiv Erlebniskonversiv~~ might thus be suitable for this diathesis (cf. [@sec:participles-sein-conversive] for the ~~Erlebniskonversiv~~ without reflexive pronouns). Although there are many experiencer verbs in this category, this pattern cannot be reversed: far from all verbs that semantically have an experiencer exhibit this diathesis, e.g. *frustrieren* 'to frustrate' or *nerven* 'to annoy' do not allow this diathesis [@next]. Wiskandt [-@wiskandt2022: 253-255] proposes that the experiencer verbs with this diathesis imply some kind of consciousness and have less affected experiencers. However, such semantic explanations are probably always post-hoc and never causal (cf. [@sec:intro-domain-of-application]).
 
 ::: ex
 - Die Verspätung frustriert/nervt ihn.

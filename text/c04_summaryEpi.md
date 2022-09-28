@@ -58,7 +58,7 @@ b. Das Kind schläft ein. \
 
 ### *Inchoativ* (*los-*)
 
-The ~~Inchoativ~~ (full discussion in [@sec:adverbial-inchoative-los]) consists of the preverbial adjective *los-*, added as a separable verb particle with intransitive verbs, like *losradeln* 'to start biking' [@next]. This construction indicates that an activity starts. It is typically used with manner-of-movement verbs and manner-of-speaking verbs. However, it is in general applicable to all agentive intransitives. Originally, the adjective *los* means 'loose' in contemporary German. In that meaning it is used for example in the *Resultativ Delokativ* diathesis (see [@sec:summary-adverb-delokativ]). In contrast, the preverbial inchoative use of *los-* is derived from an older usage meaning 'free'.
+The ~~Inchoativ~~ (full discussion in [@sec:adverbial-inchoative-los]) consists of the preverbial adjective *los-*, added as a separable verb particle with intransitive verbs, like *losradeln* 'to start biking' [@next]. This construction indicates that an activity starts. It is typically used with manner-of-movement verbs and manner-of-speaking verbs. However, it is in general applicable to all agentive intransitives. Originally, the adjective *los* means 'loose' in contemporary German. In that meaning it is used for example in the *Resultativ Delokativ* diathesis (see [@sec:summary-adverb-delokativ]). In contrast, the preverbial inchoative use of *los‑* is derived from an older usage meaning 'free'.
 
 ::: ex
 - Er radelt täglich zur Schule.
@@ -314,7 +314,7 @@ b. Der Zahnarzt kriegt den Zahn gezogen. \
 
 ### *Fortunativ* (*haben+gut/leicht+Infinitiv*)
 
-The ~~Fortunativ~~ (from Lat. *fortunatus* 'blessed, lucky', full discussion in [@sec:infinitive-haben-adverbial]) consists of *haben* with an infinitive verb and an obligatory adverbial. The adverbial is almost always *leicht* 'easy' [@next a] or *gut* 'well' [@next b]. This construction expresses that the subject is in a fortunate situation to perform the action described by the verb. It is only possible with intransitive verbs.
+The ~~Fortunativ~~ (from Lat. *fortunatus* 'blessed, lucky', full discussion in [@sec:infinitive-haben-adverbial]) consists of *haben* with an infinitive verb and an obligatory adverbial. It is only possible with intransitive verbs. The adverbial is almost always positiv, usually *leicht* 'easy' [@next a] or *gut* 'well' [@next b]. This construction expresses that the subject is in a fortunate situation to perform the action described by the verb. This contrasts to the closely related constructions with *sein* (see [@sec:summary-bewertungszustand]) and *lassen* (see [@sec:summary-unpersonlicher-moglichkeitspassiv]) that occur both with positiv and negativ evaluations.
 
 ::: ex
 a. Er lacht. \
@@ -444,7 +444,7 @@ b. Ich habe das Haus angesehen.
 
 ### *Reflexiv Resultativ* {#sec:summary-reflexiv-resultativ}
 
-The ~~Reflexiv Resultativ~~ (full discussion in [@sec:adverbial-intransitive-resultative]) is an alternation that can be used with a subset of all intransitive verbs, for example with *schlafen* 'to sleep' [@next a]. By adding a reflexive pronoun and a resultative preverbial, like *gesund-* 'healthy' [@next b], the sentence expresses that the subject participant achieves a state (expressed by the preverbial) by performing an action (expressed by the verb). In other words, [@next b] means approximately 'by sleeping I will become healthy'. The combination of *gesund-* with the verb *schlafen* arguably is a new separable verb *gesundschlafen* [@next c], syntactically similar to a *Partikelverb* like *einschlafen*.
+The ~~Reflexiv Resultativ~~ (full discussion in [@sec:adverbial-intransitive-resultative]) is an alternation that can be used with a subset of all intransitive verbs, for example with *schlafen* 'to sleep' [@next a]. By adding a reflexive pronoun and a resultative preverbial, like *gesund‑* 'healthy' [@next b], the sentence expresses that the subject participant achieves a state (expressed by the preverbial) by performing an action (expressed by the verb). In other words, [@next b] means approximately 'by sleeping I will become healthy'. The combination of *gesund‑* with the verb *schlafen* arguably is a new separable verb *gesundschlafen* [@next c], syntactically similar to a *Partikelverb* like *einschlafen*.
 
 ::: ex
 a. Ich schlafe.
@@ -455,7 +455,7 @@ c. Ich werde mich gesundschlafen.
 
 ### *Transitiv Resultativ*
 
-The ~~Transitiv Resultativ~~ (full discussion in [@sec:adverbial-transitive-resultative]) is the transitive counterpart to the previous *Reflexiv Resultativ* (see [@sec:summary-reflexiv-resultativ]). The only difference is that no reflexive pronoun is necessary with transitive verbs. For example, the verb *pflegen* 'to nurse' [@next a] can be combined with a resultative *gesund-* 'healthy' [@next b] to form a new separable verb *gesundpflegen* 'to heal by nursing' [@next c]. The preverbial *gesund-* has a resultative meaning, expressing the effect of the action (*pflegen* 'to nurse') on the accusative object (*Mutter* 'mother'), i.e. 'by nursing my mother will be healed'.
+The ~~Transitiv Resultativ~~ (full discussion in [@sec:adverbial-transitive-resultative]) is the transitive counterpart to the previous *Reflexiv Resultativ* (see [@sec:summary-reflexiv-resultativ]). The only difference is that no reflexive pronoun is necessary with transitive verbs. For example, the verb *pflegen* 'to nurse' [@next a] can be combined with a resultative *gesund‑* 'healthy' [@next b] to form a new separable verb *gesundpflegen* 'to heal by nursing' [@next c]. The preverbial *gesund‑* has a resultative meaning, expressing the effect of the action (*pflegen* 'to nurse') on the accusative object (*Mutter* 'mother'), i.e. 'by nursing my mother will be healed'.
 
 ::: ex
 a. Ich pflege meine Mutter.

@@ -92,9 +92,9 @@ The use of italics is not entirely consistent. Sometimes one finds ‘bleiben+zu
 
 One productive pattern is missing ‘stehen davor zu + Infinitive’, e.g., ‘Er steht davor das Turnier zum ersten Mal zu gewinnen’ (termed ‘prospective’ in Fleischhauer under review). This is also a coherent construction and attested with several hundred different infinitives.
 
-> Actually, this is a highly interesting construction, but it does not fall under the definitions as used in my work. *stehen* as discussed by Fleischhauer takes a governed preposition *vor*. The criterion for 'governed preposition' that I use is whether the preposition can also be used with a *da+vor* with a subordinate construction. Note specifically that it is not possible to have a construction *stehen vor + zu-Infinitiv* (without 'da'). There is an interested detail, that I do not delve into, what kind of of subordinate constructions are possible. Most the *da-* constructions allow for finite complement clauses (*dass ...*), while *stehen vor* only allows a non-finite subordinate construction.
+> Actually, this is a highly interesting construction, but it does not fall under the definitions as used in my work. *stehen* as discussed by Fleischhauer takes a governed preposition *vor*. The criterion for 'governed preposition' that I use is whether the preposition can also be used with a *da+vor* with a subordinate construction. Note specifically that it is not possible to have a construction *stehen vor + zu-Infinitiv* (without 'da'). There is an interested detail, that I do not delve into, what kind of of subordinate constructions are possible. Most the *da‑* constructions allow for finite complement clauses (*dass ...*), while *stehen vor* only allows a non-finite subordinate construction.
 
-> Actually, this is a highly interesting construction, but it does not fall under the definitions as used in my work. *stehen* as discussed by Fleischhauer takes a governed preposition *vor*. The criterion for 'governed preposition' that I use is whether the preposition can also be used with a *da+vor* with a subordinate construction. Note specifically that it is not possible to have a construction *stehen vor + zu-Infinitiv* (without 'da'). There is an interested detail, that I do not delve into, what kind of of subordinate constructions are possible. Most the *da-* constructions allow for finite complement clauses (*dass ...*), while *stehen vor* only allows a non-finite subordinate construction.
+> Actually, this is a highly interesting construction, but it does not fall under the definitions as used in my work. *stehen* as discussed by Fleischhauer takes a governed preposition *vor*. The criterion for 'governed preposition' that I use is whether the preposition can also be used with a *da+vor* with a subordinate construction. Note specifically that it is not possible to have a construction *stehen vor + zu-Infinitiv* (without 'da'). There is an interested detail, that I do not delve into, what kind of of subordinate constructions are possible. Most the *da‑* constructions allow for finite complement clauses (*dass ...*), while *stehen vor* only allows a non-finite subordinate construction.
 
 10.  Affectedness & other categories
 
@@ -428,7 +428,7 @@ the list includes the perfect of the transitive verb, sometimes not.
 
 - p. 111 ‘The Schreck benimmt ihm den Atem’: Without be-
 
-> DWDS lists this also with *be-* https://www.dwds.de/wb/benehmen
+> DWDS lists this also with *be‑* https://www.dwds.de/wb/benehmen
 
 - p. 111 5.3.7 Why are there no examples?
 
@@ -572,7 +572,7 @@ the list includes the perfect of the transitive verb, sometimes not.
 
 - p. 132 ‘Das Problem steht zur Diskussion’: zur Diskussion stehen is a Funktionsverbgefüge; similarly unter Zugzwang geraten in 6.26b
 
-> Indeed. And they do not allow for a *da-* paraphrase. I have removed them, and some others that likewise were listed here erroneously.
+> Indeed. And they do not allow for a *da‑* paraphrase. I have removed them, and some others that likewise were listed here erroneously.
 
 - p. 132 ‘Das Buch handelt über die Relativitätstheorie’: I prefer von
 
@@ -849,7 +849,7 @@ Although in the further examples (why does the brechen-example occur there again
 
 - p. 173 7.3.1 The combination of ver and reflexive pronoun results in an erratic interpretation and is very productive in German (cf. Stiebels 1996). Further verbs: verwählen, verlaufen, verfahren, verschreiben, verrechnen, verlesen, versprechen + sich. Without sich a different interpretation result: sich verschreiben ‘write something wrong’ vs etwas verschreiben ‘prescribe’.
 
-> All possible combinations with preverbs like *ver-* are discussed extensively in Chapter 8.
+> All possible combinations with preverbs like *ver‑* are discussed extensively in Chapter 8.
 
 - p. 174 ‘Die neugeborenen Katzen behaaren sich allmählich’: This is totally out! 
 
@@ -1124,7 +1124,7 @@ combination with psych predicates in German.
 
 - p. 211 The contrast between blühen and verblühen is easily explained: verblühen denotes a change of state but blühen not (necessarily): Die Blumen blühen schon seit drei Tage/*Die Blumen verblühen schon seit drei Tagen. See also your data in 8.25 on page 217 which point into the same direction. It might be worth relating the discussion of the data.
 
-> Such post-hoc semantic arguments are unlikely to help us really with the structure of the language, as I have tried to lay out in this book. Yes, I agree that in this case the prefix *ver-* does something like making it stative. However, this is completely idiosyncratic! The prefix *ver-* literally has dozens of other uses, and it is completely unclear how to predict which one applies with which verb. That is the real challenge. No change.
+> Such post-hoc semantic arguments are unlikely to help us really with the structure of the language, as I have tried to lay out in this book. Yes, I agree that in this case the prefix *ver‑* does something like making it stative. However, this is completely idiosyncratic! The prefix *ver‑* literally has dozens of other uses, and it is completely unclear how to predict which one applies with which verb. That is the real challenge. No change.
 
 - p. 212 8.2.3 Begrünen is derived from the verb grünen and not from the adjective grün (although grünen is derived from the adjective). Similarly, versalzen is derived from salzen which is derived from Salz.
 
@@ -1891,42 +1891,123 @@ combination with psych predicates in German.
 - p. 335 10.191c Is this attested? Zufrieren with capital letter.
 - p. 335 10.9.1 Some examples contain am others do not. Is this really compatible or are these two different constructions?
 
-> replaced example. This section is not about *am* constructions. The example is just a reference to a related construction.
+> replaced example. This section is not about the *am* constructions. The example is just a reference to a related construction discussed elsewhere.
 
 - p. 339 11.7c Why not the indicative form of the verb? 
+
+> Typo, corrected.
+
 - p. 339 ‘Both these construction’: constructions
+
+> corrected
+
 - p. 341 11.10c The sentence is all right.
+
+> agree, this is one of the optional IPP verbs. changed the text slightly to reflect this.
+
 - p. 342 Möglichkeitspassiv und Permissivpassiv are only vaguely distinct, might it be the case that animacy of the subject argument determines the interpretation? Can you provide clearer (semantic) test criteria for distinguishing the two readings?
+
+> Animacy is indeed important. I have completely rewritten this section and streamlined the different options, including (even more) test and criteria for the separation.
+
 - p. 342 11.13b The sentence is very strange, I prefer ‘Der Berg lässt sich einfach/gut von Besuchern besteigen’; without such an adverb the sentence has a strong permissive flavor. But what about a sentence like: ‘Die Seelöwen lassen sich von den Besuchern füttern’ (a permissive as well as a possibility reading seems possible).
+
+> I see the easier interpretation with *einfach*, but I think the possibility reading is also clear without it. Think of another mountain that is closed. The *Seelöwen* example nicely shows the role of animacy. I have included other, hopefully even clearer, examples.
+
 - p. 343 ‘causes to event to happen’: the event; the paragraph also contains two occurrences of passivkausativ without capital ‘P’. Further: ‘Besides the different in role’: difference.
 
 > done
 
 - p. 343 11.18b ausziehen not auszeihen
-- p. 343 11.18c The sentence is ok, cf. Der Vater lässt das Baby von seinem Sohnausziehen/wickeln/baden/tragen. But I prefer the von-PP to be realized. Also true for 11.55c.
+
+> corrected
+
+- p. 343 11.18c The sentence is ok, cf. Der Vater lässt das Baby von seinem Sohn ausziehen/wickeln/baden/tragen. But I prefer the von-PP to be realized. Also true for 11.55c.
+
+> that is not the intended reading: this is about the 'endoreflexive' usage, as explained in detail in the full discussion below. no change
+
 - p. 344 11.4.1 I am not sure whether the construction really expresses progressive aspect. One might also encounter examples like ‘Ich tat dir das Buch zu deinem sechsten Geburtstag schenken’. Also I personally do not like the tun-construction.
+
+> I think I have described exactly this sentiment in the text. no change.
+
 - p. 344 ‘in german orthography’: German
+
+> corrected
+
 - p. 344 11.20b What about Das Haus blieb monatelang unverkauft, trotz aller Bemühungen der Makler? I think such sentences are acceptable and show that bleiben and the infinitive do not form a single word.
+
+> The *un‑* prefix is a sure sign of a depictive secondary predicate, as discussion in Chapter 10. Please note that *bleiben+Partizip* should be clearly differentiated from *bleiben+Infinitiv*, although they are of course related. And, whether or not this is a single word is really an uninteresting question. I just notice it, because more German speakers are very specific about their ideas of orthography.
+
 - p. 345 11.23c Punctuation mark is missing.
+
+> corrected
+
 - p. 346 11.24b Punctuation mark is missing.
+
+> corrected
+
 - p. 346 11.4.6 In what sense is the object incorporated? I do not think that this is morphological incorporation, it might be pseudo-incorporation. The same is true of mentioning incorporation on pages 351 and 352. I also disagree with the analysis on page 397 concerning Haareschneiden.
+
+> This book is not about the details of incorporation, so I do not delve into differences between 'pseudo' or not. In general, objects without article that have generic reference are intended here. I decided not to include any more discussion of incorporation. no change.
+
 - p. 348 11.28c also possible with zu
+
+> as explicitly stated in the text. no change.
+
 - p. 348 11.30c The sentence Ich werden bestimmt von einer Biene gestochen werden, wenn ihr mir den Zucker nicht von den Händen waschen kann is all right. So, I disagree with the author’s judgement.
+
+> please read the footnote 24, which explains why this example is not useful. no change
+
 - p. 352 (see Section 11.5.1: closing bracket is missing.
+
+> removed
+
 - p. 352 11.45a übersieht not überseht
+
+> corrected
+
 - p. 354 11.50b/c The participles should go to the end of the sentences.
+
+> Section completely deleted
+
 - p. 355 11.51a The participle should go to the end of the sentence. The same holds for 11.53b - p. 356 11.54c I think the interpretation that she allows the dishes to be washed is possible.
+
+> Section completely remodelled
+
 - p. 356 ‘the use if participle’: of the
+
+> corrected
+
 - p. 357 ‘this appears only to a’: to be a
+
+> corrected
+
 - p. 357 ‘Enzinger (2012: 33-)’: why -?
+
+> corrected. Should have been up to page 35
+
 - p. 357 11.58b I think the permissive reading is the more natural one. Meaning, there is also a permissive reading.
+
+> section completely reworked and reformulated
+
 - p. 360 ‘in this class verbs’: either delete verbs or write class of verbs
+
+> corrected
+
 - p. 363 ‘of the lexical verb simply are simply retained’: delete the first occurrence of simply
+
+> corrected
+
 - p. 363 11.75b Why ‘?’
+
+> removed
+
 - p. 364 ‘Der Eintritt kostet mir 10 Euro’: mich
+
+> example removed
+
 - p. 365 ‘Der Teller steht ihm auf den Tisch’: Ungrammatical, only ok without ihm.
 
-
+> changed accordingly
 
 - p. 367 Paragraph after 12.1: already said earlier.
 - p. 371: First sentence: Maybe a quantitative study would be interesting to support this claim.
