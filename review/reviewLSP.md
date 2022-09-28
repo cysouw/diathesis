@@ -2010,25 +2010,76 @@ combination with psych predicates in German.
 > changed accordingly
 
 - p. 367 Paragraph after 12.1: already said earlier.
+
+> no, the phrasing is similar on purpose: his is about the 2. Status, indeed making a parallel to the discussion of the 1. Status as discussed in the previous chapter.
+
 - p. 371: First sentence: Maybe a quantitative study would be interesting to support this claim.
+
+> I agree, but I know of none. I have softened my claim a bit.
+
 - p. 371 12.9a Also possible: dass er rechtzeitig nach hause zu kommen verspricht.
+
+> well, that is one of the examples of the 'not perfect' correlation. See the discussion later in this chapter. No change
+
 - p. 371 12.9b Also possible: dass der Film verspricht eine Sensation zu werden.
+
+> like above
+
 - p. 372 12.13c ‘*^’: delete ‘^’
+
+> corrected
+
 - p. 373 ‘Er hat noch ein Jahr zu leben’: Does this example really fit semantically into the category? Maybe just if it is interpreted as meaning: after a year, he will be killed.
+
+> good catch! Indeed, here is means 'can' not 'must'. I have added some lines on this possibility. The monograph from Holl (2010) does not appear to mention this.
+
 - p. 374 12.21a (second sentence) denkt not denken
+
+> corrected
+
 - p. 374 12.21c (second sentence): Odd; the sentence in (d) is better than this one
+
+> well, this is the crucial sentence. As I explain in the text, it is slightly special, but attested. no change.
+
 - p. 376 Below 12.25: Where do the numbers exactly come from? The sum is just 90%, what about the remaining 10%? How are the numbers calculated? What is the basis for their calculation?
+
+> I cite Diewald (2010: 214). Please check there for all these details. That is what citations are for. no change.
+
 - p. 378 12.31 I think the following examples are ok: Von 13 bis 15 Uhr ist Ruhe zu halten/ Lärm und Ballspielen zu unterlassen. Ab hier ist Schritt/langsam zu fahren.
+
+> *Ruhe halten* and *etwas unterlassen* seem almost transitive, so they go into a different category. *langsam fahren* is a good suggestion, I even found some corpus examples. Thanks!
+
 - p. 380 ‘This constructions is’: construction
+
+> corrected
+
 - p. 383 ‘Dieses glas’: Glas
+
+> corrected
+
 - p. 384 ‘Verbs without an accusative argument can used’: can be used
+
+> corrected
+
 - p. 384 ‘there actually appears to be quite good match’: a quite good match 
+
+> corrected
+
 - p. 385 ‘Huge von Hofmannsthal’: Hugo
+
+> corrected
+
 - p. 388 ‘the bleiben+zu-Infinitiv construction’: The
+
+> corrected
+
 - p. 388 12.53b I prefer ‘für diese Ausstellung zu danken’
+
+> This is a corpus example. No change.
+
 - p. 388 12.54c/d The examples contain Funktionsverbgefüge. 
 
-
+> agree, but that doesn't solve the question. no change
 
 - p. 394 13.14a denke or denkt not denken
 - p. 394 13.14d I prefer gedenken. With gedenken it means ‚He is planning to travel‘, with denken it means ‘He believes he will travel’.
