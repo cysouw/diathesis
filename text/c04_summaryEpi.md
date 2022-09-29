@@ -13,7 +13,7 @@ Browse any grammatical description of verbal categories in German and terms like
 
 As a case in point, the Duden grammar spends 20 pages on details of tense marking [-@duden2009: 496-516], while only a few select additional verbal constructions are discussed in just four pages [-@duden2009: 848-852] and some incidental reference scattered throughout. This chapter can be read as an attempt at a complete survey of all those remaining German verbal categories, besides tense.
 
-This chapter arose as a byproduct of the main goal of this book, namely listing all German diatheses. To clearly delimit what counts as a diathesis, I also collected constructions that are structurally similar to diatheses, but that did not involve any role remapping. These structures are called ~~epitheses~~ and are listed in-full in the respective X.4 sections of the following data chapters. This chapter summarises and organises the major epitheses that I have been able to find. I will also propose Latinate-German names for all of these constructions.
+This chapter arose as a byproduct of the main goal of this book, namely listing all German diatheses. To clearly delimit what counts as a diathesis, I also collected constructions that are structurally similar to diatheses, but that did not involve any role remapping. These structures are called ~~epitheses~~ and are listed in-full in the respective .4 sections of the following data chapters. This chapter summarises and organises the major epitheses that I have been able to find. I will also propose Latinate-German names for all of these constructions.
 
 Quickly recapitulated, an ~~epithesis~~ is a monoclausal construction in which the lexical roles are not remapped in comparison to a basic clause (= a clause with just a single finite lexical verb form). For example, a basic clause with the finite verb *erzählen* 'to tell' [@next a] might have the roles of 'teller' (*Großvater*, in the nominative), 'tellee' (*Enkelin*, in the dative) and 'story told' (*Witz*, in the accusative). A construction like *pflegen+zu‑Infinitiv* is an epithesis because when applied to *erzählen* all these roles remain encoded in exactly the same grammatical form [@next b]. Additionally, this construction is monoclausal because the finite *pflegte* is placed at the end of a subordinate clause (i.e. the clause is coherent, see [@sec:intro-coherence]).
 
@@ -236,7 +236,7 @@ The ~~Bewegungsende~~ (full discussion in [@sec:zuminfinitive-kommen-zum]) again
 
 ## Modality {#sec:epithesis-mood}
 
-The grammatical marking of ~~modality~~ expresses a personal stance of the speaker towards the state-of-affairs. In grammars of European languages it is commonly discussed in the context of modal verbs, like *können*, *müssen* or *dürfen*. However, German has various other monoclausal structures to express modality. This includes some categories from the less-trodden paths of grammatical description like the trinity of *Kogativ* 'to intend', *Konativ* 'to try' and *Effektiv* 'to succeed'.
+The grammatical marking of ~~modality~~ expresses a personal stance of the speaker towards the state-of-affairs. In grammars of European languages it is commonly discussed in the context of modal verbs, like *können*, *müssen* or *dürfen*. However, German has various other monoclausal structures to express modality. This includes some categories from the less-trodden paths of grammatical description like the (almost Caesarian) trinity of *Kogativ* 'to intend', *Konativ* 'to try' and *Effektiv* 'to succeed'.
 
 ### *Modalverben* {#sec:summary-modalverben}
 
@@ -302,7 +302,7 @@ The ~~Konativ~~ (from Lat. *conor* 'to try', full discussion in [@sec:zuinfiniti
 
 ### *Effektiv* (*bekommen/kriegen+Partizip*) {#sec:summary-effekativ}
 
-The aspired outcome when intending something (see [@sec:summary-kogitativ]) or when trying something (see [@sec:summary-konativ]) is to achieve something. This achievement can be expressed with the ~~Effektiv~~ (from Lat. *effectus* 'accomplishment', full discussion in [@sec:participles-bekommen-achievement]), consisting of the light verbs *bekommen* or *kriegen* with a participle [@next a]. The same construction is also used for the *Rezipientenpassiv* (see [@sec:summary-rezipientenpassiv]). It is even possible to construct ambiguous sentences that can both have an *Effektiv* and a *Rezipientenpassiv* interpretation [@next b].
+The aspired outcome when intending something (*Kogativ*, see [@sec:summary-kogitativ]) or when trying something (*Konativ*, see [@sec:summary-konativ]) is to achieve something. This achievement can be expressed with the ~~Effektiv~~ (from Lat. *effectus* 'accomplishment', full discussion in [@sec:participles-bekommen-achievement]), consisting of the light verbs *bekommen* or *kriegen* with a participle [@next a]. The same construction is also used for the *Rezipientenpassiv* (see [@sec:summary-rezipientenpassiv]). It is even possible to construct ambiguous sentences that can both have an *Effektiv* and a *Rezipientenpassiv* interpretation [@next b].
 
 ::: ex
 a. Der Eigentümer vermietet die Wohnung nicht. \

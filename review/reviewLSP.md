@@ -50,7 +50,7 @@ On page 390, Funktionsverbgefüge are briefly mentioned. It is said that (this s
 
 > The term 'light verb' is explicitly introduced and discussed at the start of the book (Section 1.3.1, see http://cysouw.github.io/diathesis/fulltext.html#1.19). I don't think that going back all the way to Jespersen will shed new light on this term. In general, the term 'light verb' is used widely in the description of the world's languages with widely differing interpretations. However, I still think that it is fitting in the current context. There are many other terms used in the German grammatical tradtion (see the linked section for a survey), but they all have a rather different gist as what I have in mind here. So I use a term that has no tradition in German (different from the reviewer, I do not think that there is a 'mainstream' view on light verbs in German), but is still compatible with what in general a 'light verb' is supposed to mean, viz. the functional part of a complex predicate in a monoclausal construction, often grammaticalised with a bleached semantic content. 
 
-> Specifically: 'Auxiliary' (Hilfverb) is not suitable, because it has a very strong interpretation in the German tradition for *sein/haben/werden*. Further, the note on p.390 is about *präpositional angeschlossene Funktionsverben* as used in the Duden grammer, which is something completely different from the constructions discussed in this book. *Funktionsverbgefüge* seems to be used mostly in that sense (e.g. https://grammis.ids-mannheim.de/terminologie/85). So that term is explicitly not what I have in mind when I used 'light verb'. I realise that the English term 'light verb' is used as a translation of the German *Funktionsverbgefüge* in Fleischhauer (2021; 2022), and this double usage is unfortunate. However, in my opinion it is not problematic, as we could easily be more specific for the two different uses, e.g. my usage could be 'light verbs wtih a verbal main predicate', while in a *Funktionsverbgefüge* it could be 'light verbs with a nominal main predicate'. I have added a few lines explaining this in the book.
+> Specifically: 'Auxiliary' (Hilfverb) is not suitable, because it has a very strong interpretation in the German tradition for *sein/haben/werden*. Further, the note on p.390 is about *präpositional angeschlossene Funktionsverben* as used in the Duden grammer, which is something completely different from the constructions discussed in this book. *Funktionsverbgefüge* seems to be used mostly in that sense (e.g. https://grammis.ids-mannheim.de/terminologie/85). So that term is explicitly not what I have in mind when I used 'light verb'. I realise that the English term 'light verb' is used as a translation of the German *Funktionsverbgefüge* in Fleischhauer (2021; 2022), and this double usage is unfortunate. However, in my opinion it is not problematic, as we could easily be more specific for the two different uses, e.g. my usage could be 'light verbs wtih a verbal main predicate', while in a *Funktionsverbgefüge* it could be 'light verbs with a nominal main predicate'. I have added a section in Chapter 12 about this.
 
 > The claim that *hören/fühlen* etc. are also light verbs (in my definition) is indeed unusual, but it seems only logical to include them here, as the ACI-constructions behave completely parallel to all the other constructions dicussed. In general, this is a problem of terminology, and I think that 'light verb' is the least confusing option.
 
@@ -2082,21 +2082,68 @@ combination with psych predicates in German.
 > agree, but that doesn't solve the question. no change
 
 - p. 394 13.14a denke or denkt not denken
+
+> corrected
+
 - p. 394 13.14d I prefer gedenken. With gedenken it means ‚He is planning to travel‘, with denken it means ‘He believes he will travel’.
+
+> see the discusion in chapter 12 about this construction, as linked in the text. No change.
+
 - p. 394 ‘A example of a light verb’: an
+
+> corrected
+
 - p. 395 13.16b des Schälens not dem Schälen
+
+> corrected
+
 - p. 395 13.16c dem Einkaufen not von dem Einkaufen
+
+> changed
+
 - p. 395 13.4.1 There are also am-progressives with a definite direct object (at least in the area where I come from): Er ist die Kartoffeln am Lesen; Ich bin die Karroffelm am Kochen.
+
+> I believe you, but the literature says otherwise and I cannot find any good examples. No change for now.
+
 - p. 396 ‘that that im progressive’: repetition
+
+> corrected
+
 - p. 396 am schwimmen and am dampfen: should be with capital letter
+
+> These are direct citations, and I do not change those. no change.
+
 - p. 397 13.4.4 It is claimed that the construction expresses that an activity is performed regularly/habitually but I am not sure that this is true. Is there any evidence to support this view? I think one can say: Während ich beim Arbeiten war, rief mich meine Frau fünf Mal an. This is clearly neither a habit nor a regularity.
+
+> That is adverbial modification, as explained at the start of the chapter and in the last paragraph of this section. no change
+
 - p. 397 ‘I will not analyses’: analyze
+
+> corrected
+
 - p. 399 I am not convinced that 13.26 really represents an instance of a metonymical shift as you can say: Ich bin zum Massieren in den Massagesalon gegangen. In this sentence, Massieren cannot refer to the place of the action which is explicitly realized in the in-PP.
+
+> I completely agree that my explanation is insufficient, and I think I made that clear in the text. I simply do not know what to make of these examples, but I would like to leave them in because they deserve more investigation. no change
+
 - p. 400 13.28a I am not convinced of the analysis of the example as you can say Er kommt am Mittwoch um 15 Uhr vom Einkaufen, dann kannst du ihn treffen.
+
+> Again, adverbial modification. Your example is almost exactly the example as given in (13.16c). A have added a note here to remind the reader of that discussion.
+
 - p. 400 13.4.7 Kommen is usually analyzed as an inchoative Funktionsverb, see Fleischhauer & Hartmann (2021). It might be useful to adopt this kind of terminology for naming the constructions which, in my view, is just a Funktionsverbgefüge. Thus, I am not sure whether it should really be contained in a volume on alternations.
+
+> I have added an explicit section about distinguishing between *Funktionsverbgefüge* and the constructions in this chapter.
+
 - p. 400 It is stated that the construction in 13.4.7 exemplifies different interpretations. This is an interesting observation and it represents what is called ‘families of light verb constructions’ in, for example, Fleischhauer (in press).
+
+> yep, I agree. But I don't find the term 'family' very helpful here. The Wittgensteinian concept of 'family resemblance' is very broad, and I think we should be more concrete in grammatical analysis, e.g. Grammaticalisation pathways and Polysemy structure.
+
 - p. 401 13.31a (second sentence) start with a capital letter
+
+> corrected
+
 - p. 403 ‘Den habe ich immer am Hacken’: Hacken is not a verb but the noun Hacke (= Ferse). 
+
+> Example removed
 
 # References
 
