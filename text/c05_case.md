@@ -150,7 +150,7 @@ f. Er reist immer für seine Arbeit.
 
 An attempt has been made below to classify the examples of strictly intransitive verbs into broad semantic categories. However, these categories are in no way intended as definitional for the kind of verbs allowed in this class. Yet, the semantic categories attested give a good indication of the kind of verbs that tend to be strictly intransitive. Note that this list is in no way intended to be exhaustive, but only illustrative.
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Movement: *ankommen, ausgehen, eintreffen, rasen (schnell bewegen), reisen, untergehen, verreisen, verschwinden, schlendern, spazieren*
 - Bodily Functions: *niesen, pinkeln, brechen (übergeben), husten*
@@ -160,7 +160,7 @@ An attempt has been made below to classify the examples of strictly intransitive
 - Noun incorporation: *fernsehen, autofahren, seiltanzen, bergsteigen, kopfrechnen, notlanden, brustschwimmen, bruchrechnen, eislaufen, kopfstehen, probefahren, radfahren, windsurfen*
 - Others: *desertieren, enden, hupen, klingen*
 
-**Notes**
+#### Notes {.unnumbered}
 
 Some of the 'living' verbs allow for accusative arguments in non-living related meanings, like *ausziehen* 'to undress' [@next a], *einziehen* 'to build' [@next b], *aufziehen* 'to build' [@next c] or *wegziehen* 'to pull away' [@next d].
 
@@ -182,12 +182,12 @@ a. Ich schreite über den Teppich.
 b. Ich schreite den Teppich ab.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Monomorphemic: *bilden, brauchen, finden, freuen, grüßen, kennen, kriegen, merken, mögen, pflegen, tanken, wecken*
 - With preverbs: *abmessen, abschreiten, abwiegen, angehen, ansehen, ansetzen, begrüßen, beängstigen, behalten, bekommen, beruhigen, beschäftigen, darstellen, entschuldigen, erreichen, umfassen, unterbrechen, verachten, verletzen, verschwenden, zerreißen, zerstören*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Die Schüler bilden eine Klasse.
 - Ich brauche einen Kaffee.
@@ -212,12 +212,12 @@ The verbs in this class need both a nominative subject and a dative argument, li
 
 There are more nominative+dative verbs in which the dative is not obligatory. Those verbs will be discussed in subsequent section. Some of those verbs allow for the dative to be completely dropped (see [@sec:case-dative-drop]) and a few allow for the dative to be replaced by a prepositional phrase (see [@sec:prepositions-dative-antipassive]) or by a possessor (see [@sec:case-possessor-of-nominative-to-dative-experiencer]). 
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Human participant only possible as dative: *bleiben, einfallen, entgehen, gefallen, gehören, gelten, glücken, einfallen, liegen (Begabung haben), missfallen, unterlaufen, widerfahren, zufallen, zustoßen*
 - Possible human participant in the nominative: *ähneln, angehören, begegnen, beipflichten, entgegen kommen, entsprechen, gegenüber treten, glauben (vertrauen), gleichen, imponieren, nacheifern, schaden, stehen, trauen, unterliegen, unterstehen, verfallen, zureden, zuneigen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ich gehöre der Gruppe an.
 - Ich begegne einer Überraschung.
@@ -237,7 +237,7 @@ There are more nominative+dative verbs in which the dative is not obligatory. Th
 - Ein Unglück ist mir zugestoßen.
 - Die Aufgabe ist mir zugefallen.
 
-**Notes**
+#### Notes {.unnumbered}
 
 The following verbs also exist as intransitive 'only nominative' verbs (see [@sec:case-nominative]), but in a clearly different lexical meanings.
 
@@ -253,11 +253,11 @@ The following verbs also exist as intransitive 'only nominative' verbs (see [@se
 
 There are a few verbs in German that have a genitive argument. These verbs are slowly disappearing from the German language, and many of the verbs that are still around are considered old-fashioned. It is only out of an aim for completeness that these verbs are listed here, as they do not play an important role anymore in the current German language. The verbs listed here need a genitive argument and there seems to be no possibility for alternations with other case or adpositional marking.
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *entraten, entübrigen, ermangeln, gedenken, harren, walten*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ich muss leider seiner Mitarbeit entraten. ('verzichten')
 - Die Methode entübrigt des Putzens.
@@ -270,11 +270,11 @@ There are a few verbs in German that have a genitive argument. These verbs are s
 
 This class consists of the classical ditransitive verbs with an obligatory nominative, accusative and dative argument. It turns out to be extremely hard to find good examples of verbs that always, or at least in the large majority of its uses, overtly shows all three arguments. Most apparent ditransitive verbs, like *geben* 'to give', easily allow for the dative to be dropped or replaced by a prepositional phrase [for the verb *geben*, see @devaere2018 for an in-depth study]. The few remaining obligatorily ditransitive verbs seem to be semantically more specialised verbs, in which a very specific meaning is forcing the overt marking of all three roles, in contrast to the more broader semantic range of a verb like *geben*.
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *abgewöhnen, benehmen, bescheren, schulden, überlassen, verdanken, vorsagen, widmen, zutrauen, schenken*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Wir haben ihm die Unpünktlichkeit abgewöhnt.
 - Der Schreck benimmt ihm den Atem.
@@ -296,7 +296,7 @@ There are also verbs that allow nominative, accusative and genitive, but those v
 - ^* Ich bezichtige des Diebstahls.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *bezichtigen*
 
@@ -354,12 +354,12 @@ c. Praktisch der gesamte Umsatz wird mit Werbung verdient.
 d. Die Miete wird monatlich gezahlt.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Quantity: *enthalten, fassen ('Fassungsvermögen haben'), kosten, rechnen, sparen, vorrücken, wachsen, wiegen, zunehmen*
 - Quantity of time: *dauern*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Der Laster wiegt einen Zentner. \
   Wieviel/was wiegt der Laster?
@@ -390,11 +390,11 @@ a. Du wirst einen Egoisten genannt.
 b. ^* Ein Egoist wird dich genannt.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *heißen, nennen, schelten, schimpfen, schmähen, taufen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - UN-Beamte und internationale Medien heißen den 59-Jährigen weniger schmeichelhaft einen »Psychopathen« oder »Afrikas Miloevi«.^[~~DWDS~~: Die Zeit, 24.05.2007, Nr. 22.]
 - Er nennt den Gründer der Sowjetunion einen Verräter.^[~~DWDS~~: Die Zeit, 31.10.2017 online.]
@@ -425,11 +425,11 @@ a. Es weht.
 b. Der Wind weht.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Dispersion Verbs: *abkühlen, blühen, dampfen, duften, klingeln, knistern, krachen, riechen, spriessen, stinken*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Der Nachbar klingelt an der Tür. \
   An der Tür klingelt es. 
@@ -454,11 +454,11 @@ b. Dieses Jahr gibt es einen guten Wein.
 - Es braucht euch alle im Kampf gegen die Diktatur. 
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *brauchen, geben*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Der Verkäufer gibt den Lutscher gratis dazu. \
   Den Lutscher gibt es gratis dazu.
@@ -479,11 +479,11 @@ a. Es galt mir.
 b. Es ist mir ein Unfall widerfahren.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *gefallen, langen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Mein Gehalt langt mir nicht. \
   Jetzt langt es mir aber!
@@ -502,7 +502,7 @@ a. Der Vorwurf entbehrt jeglichen Beweises.
 b. Insofern entbehrt es jeglichen Beweises.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *bedürfen, entbehren*
 
@@ -523,11 +523,11 @@ Semantically, the intransitive *haben* construction in [@next d] seems to be the
 - Der Krieg hat (schrittweise) begonnen.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *abnehmen, abreißen, abstoßen, anfangen, anhalten, aufmachen, backen, baden, beginnen, bewegen, braten, bremsen, duschen, fliegen, kochen, landen, läuten, öffnen, rauchen, schließen, spielen (Tonträger), starten, stoppen, umdrehen, umgeben, wiegen, zählen, zünden*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ich koche den Kaffee. \
   Der Kaffee hat gekocht. \
@@ -563,7 +563,7 @@ Semantically, the intransitive *haben* construction in [@next d] seems to be the
   Die Platte hat gespielt. 
   Die Platte ist gespielt.
 
-**Notes**
+#### Notes {.unnumbered}
 
 A causative reading seems to be available with *duschen* 'to take a shower' [@next a]. With an accusative this verbs means 'to give someone else a shower' [@next b]. However, both intransitive perfekt auxiliaries *haben* and *sein* are possible [@next c,d], so I classify this alternation here with the anticausatives (and not with the causatives). A parallel situation arises with *baden* 'to bathe'.
 
@@ -617,7 +617,7 @@ The verb *anhängen* literally (but not commonly) means 'attach to' [@next a]. H
 - ^* Er ist einer Illusion angehangen.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *anhängen*
 
@@ -641,11 +641,11 @@ a. Die Blätter wehen durch die Luft.
 b. ^* Die Blätter wehen.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *dunkeln, regnen, stürmen, tauen, wehen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Der Regen regnet täglich.
 - Das Wetter stürmt.
@@ -694,14 +694,14 @@ d. ^* Der Stock hat gebrochen.
 
 Second, there are very many (though not exclusively) verbs denoting natural process in this class, like *altern* 'to age' or *verderben* 'to rot', which can be argued semantically to be basically intransitive.
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Verbs with likewise causative preverb variants: *biegen (einbiegen), bleichen (erbleichen, verbleichen), bräunen (anbräunen), brechen (abbrechen, zerbrechen), brennen (abbrennen, niederbrennen, verbrennen), fahren (ǘberfahren), fliegen (einfliegen), frieren (einfrieren), klappen (aufklappen, zuklappen), knicken (abknicken, einknicken), reißen (abreißen, einreißen, zerreißen), rollen (ausrollen), staunen (erstaunen), stürzen (umstürzen), tauen (auftauen), treten (antreten, wegtreten), trocknen (austrocknen), wirbeln (aufwirbeln)*
 - Preverbal verbs from adjectival roots: *abkühlen, ermatten, verrohen, abstumpfen*
 - Preverbal verbs from nominal roots: *erzürnen, verdunsten, zersplittern*
 - Others: *altern, ersticken, ertrinken, fliehen, heilen, reifen, schrumpfen, verderben, verqualmen, vorrücken, zuschneien*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Die Regierung stürzt/ist gestürzt. \
   Die Streitkräfte stürzen die Regierung. 
@@ -736,7 +736,7 @@ Second, there are very many (though not exclusively) verbs denoting natural proc
 - Der Handel schrumpft. \
   Daewoo schrumpfte den Hubraum des alten 1,6-Liter-Kadett-Motors und erhielt ihm seine 75 PS.^[~~DWDS~~: Berliner Zeitung, 18.03.1995.]
 
-**Notes**
+#### Notes {.unnumbered}
 
 The verbs *zuschneien* 'to be blocked by snow' [@next a] and *reifen* 'to mature' [@next b] only appear to be possible as transitives with weather agents (see [@sec:case-nominative-addition]).
 
@@ -765,11 +765,11 @@ a. Der Baum ist gefallen.
 b. Ich habe den Baum gefällt.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *biegen/beugen, fallen/fällen, saugen/säugen, sinken/senken, springen/sprengen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Das Schiff sinkt. \
   Ich senke die Fahne.
@@ -787,7 +787,7 @@ a. Die Kiste ist schwarz.
 b. Ich schwärze den Text.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *voll/füllen, glatt/glätten, hart/härten, kurz/kürzen, schwarz/schwärzen, warm/wärmen*
 
@@ -803,7 +803,7 @@ b. Mich friert.
 c. Ich friere.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *frieren*
 
@@ -848,11 +848,11 @@ c. Ich sehe gut.
 
 What is left over is just an apparently small group of transitive verbs that allow for the accusative to be dropped – and not allow for a (free) dative, nor for a prepositional antipassive. These verbs are formally similar to verbs that allow for an accusative to be added (see [@sec:case-accusative-addition]). The only difference between adding or removing an accusative is an (admittedly rather vague) semantic intuition about whether the intransitive or the transitive meaning is more 'basic'.
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *angreifen, feiern, nerven, regieren, stören, studieren, wählen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Er regiert das Land. \
   Die Vernunft regiert hier.
@@ -880,15 +880,15 @@ c. Das Buch kostet viel.
 d. Er nennt den Namen des Kindes.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *abfragen, lehren*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Die alte Dame fragt den Schüler Englischvokabeln ab.^[~~DWDS~~: Die Zeit, 19.11.2009, Nr. 48.] 
 
-**Notes**
+#### Notes {.unnumbered}
 
 The verb *unterrichten* 'to instruct' also allows for two different accusative objects, either referring to the recipient of the teaching [@next a] or the object of the teaching [@next b]. However, these two accusative objects do not seem to occur together easily. When the recipient is in the accusative, the object of teaching typically is encoded as a prepositional phrase [@next c]. When the object is in the accusative, the recipient is normally not expressed. Interestingly, both these accusative objects can be passivised [@next d,e]. Note that the verb *unterrichten* can also mean 'to notify'. However, that meaning has slightly different roles and is not discussed here.
 
@@ -919,7 +919,7 @@ c. ^* Ich verdanke dir.
 d. ^* Ich verdanke mein Leben.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *danken*
 
@@ -936,12 +936,12 @@ In this section only those verbs are listed for which the only alternative for t
 - Die Torte gelingt (mir).
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Obligatory inanimate subject: *beiliegen, bevorstehen, einleuchten, gelingen, geschehen, passieren, schmecken, sitzen (passen)*
 - Possibly animate subject: *auffallen, beitreten, entkommen, entwischen, erscheinen, fehlen, folgen, gratulieren, helfen, unterliegen, weglaufen, zuhören, zulaufen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ihre Fehler fallen (mir) auf.
 - Das Formular liegt (dem Schreiben) bei.
@@ -968,12 +968,12 @@ b. ^* Ich verbiete dir.
 c. Ich verbiete das Rauchen.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Verbal performatives: *aussprechen, befehlen, beschreiben, beweisen, bieten, empfehlen, erlauben, erzählen, gestehen, gestatten, mitteilen, nahelegen, nennen, verbieten, verraten, verschreiben, versprechen, verweigern, vorschlagen, vorschreiben, wünschen*
 - Non-verbal performatives: *reichen, vorführen, vormachen, zahlen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ich spreche (dir) den Dank aller Kollegen aus.
 - Ich erzähle (dir) eine Geschichte.
@@ -991,7 +991,7 @@ c. Ich verbiete das Rauchen.
 - Ich lege dir den Rücktritt nahe. \
   Das Foto legt seine Schuld nahe.
 
-**Notes**
+#### Notes {.unnumbered}
 
 The verb *nahelegen* is used without dative in combination with an inanimate subject [@next a], but with dative in case of an animate subject [@next b].
 
@@ -1010,7 +1010,7 @@ b. Ich lese dir vor.
 c. Ich lese ein Buch vor.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *vorlesen*
 
@@ -1027,11 +1027,11 @@ Given that there are already very few verbs with genitive arguments in German, i
 - Er würdigt den Vorschlag.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *anklagen, belehren, berauben, besinnen, überführen, würdigen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ich klage dich des Diebstahls an. \
   Ich klage dich an.
@@ -1071,13 +1071,13 @@ d. Ich flüsterte ihm die Lösung ins Ohr.
 
 These verbs are formally similar to verbs that allow for an accusative to be dropped (see [@sec:case-accusative-drop]). The only difference between these two classes is a (rather vague) semantic intuition about whether the intransitive or the transitive meaning is more 'basic'. As a rule-of-thumb the verbs in this section have an object that is the result of the action as described by the verb (hence the German name ~~Ergebnisakkusativ~~). Whether this is a useful separation has to be determined by future research.
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Manner-of-movement: *fliehen, hetzen, laufen, schwimmen, springen, tanzen*
 - Manner-of-speaking: *brüllen, flüstern, grölen, johlen, murmeln, schreien, singen, stottern*
 - Others: *atmen, leben, schauen, spielen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Er hat die 400 Meter geschwommen.
 - Er hat ein Lied gesungen.
@@ -1100,11 +1100,11 @@ b. Im Jahre 1932 hagelte es einen Schauer neuer Gesetze. \
    Es schneit Absagen.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Weather verbs: *schneien, hageln, regnen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Es schneit. \
   Gestern hat es dicke Flocken geschneit.
@@ -1124,13 +1124,13 @@ c. Meine Füße brennen mir.
 d. ^* Meine Füße brennen dir.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - bodily sensations: *bluten, brennen, frieren, drücken, jucken, klopfen, rasen (Emotion), schmerzen, schwellen, stechen, tränen, zittern, wachsen, weh tun*
 - natural processes: *anbrennen, blühen, brechen, rosten, stinken, überkochen, verblühen, verfaulen, verrosten, verwelken, zufrieren, rauchen*
 - Others: *langen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Meine Füße brennen. Mir brennen die Füße.
 - Meine Nase friert. Mir friert die Nase.
@@ -1152,7 +1152,7 @@ d. ^* Meine Füße brennen dir.
 - Mein Kopf raucht. Mir raucht der Kopf.
 - Mein Bart wächst. Mir wächst der Bart.
 
-**Notes**
+#### Notes {.unnumbered}
 
 Coreference (i.e 'reflexive double marking') is possible [@next a], but in the third person this does not lead to a reflexive pronoun *sich* [@next b,c]:
 
@@ -1199,7 +1199,7 @@ c. Ich beantworte deine Frage. \
    (d.h. die Frage, die du gestellt hast)
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Body tending: *heilen, kämmen, kratzen, küssen, maniküren, rasieren, streicheln, verbinden*
 - Injure: *auskugeln, brechen, verdrehen, verrenken, zerquetschen*
@@ -1207,7 +1207,7 @@ c. Ich beantworte deine Frage. \
 - Repair: *aktualisieren, korrigieren, reparieren*
 - Others: *ausstellen, beantworten, dressieren, packen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ich beschädige dir das Auto. \
   Ich beschädige dein Auto.
@@ -1242,7 +1242,7 @@ c. Zuhause wartet ein Geschenk auf dich.
 d. Ein Geschenk erwartet dich.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *erwarten*
 
@@ -1257,11 +1257,11 @@ b. Der Hebel nutzt dem Arbeiter wenig.
 
 I know of only a few verbs with this very special passive-like diathesis. There are a few more cases of this alternation with reflexive marking see [@sec:reflexive-sich-dative-passive]. Note that the alternant with the dative [@last b] needs a very special adverbial, typically *nichts*, *was*, or *wenig* (i.e. negative polarity).
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *nutzen, schmecken*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ich schmecke den Knoblauch nicht. \
   Knoblauch schmeckt mir nicht.
@@ -1281,7 +1281,7 @@ c. Mich ekelt vor dem Spinat.
 d. Ich ekle mich vor dem Essen.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *ekeln, grauen, gruseln, schauern, schwindeln*
 
@@ -1294,18 +1294,18 @@ a. Er lehrt mich den Trick.
 b. Er lehrt mir den Trick.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *kosten, lehren, nennen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ich nenne dich einen Egoisten. \
   Ich nenne dir drei Möglichkeiten.
 - Das Buch kostet mich keinen Pfennig. \
   Das wird mir noch viel kosten.
 
-**Notes**
+#### Notes {.unnumbered}
 
 The verb *nennen* seems to have a rather clear semantic difference between 'to name' (with two accusative arguments) and 'to mention' (with an accusative and a dative argument).
 
@@ -1318,11 +1318,11 @@ a. Man achtete unser nicht.^[~~DWDS~~: https://www.dwds.de/wb/achten, accessed 1
 b. Man achtete uns nicht.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *achten*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Es ist gut zu Markte zu gehen bei ihnen, denn sie achten des Reichtums und Goldbesitzes gar gering.^[~~DWDS~~: Perutz, Leo: Die dritte Kugel, Reinbek bei Hamburg: Rowohlt 1988 [1915], S. 36.]
 - Niemand achtete des gähnenden Abgrundes.^[~~DWDS~~: May, Karl: Winnetou IV, Berlin: Neues Leben 1993 [1910], S. 435.]
@@ -1340,7 +1340,7 @@ e. ^* Ich versichere dich mein Vertrauen.
 f. ^* Ich versichere dir meines Vertrauens.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *versichern*
 

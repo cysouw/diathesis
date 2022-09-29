@@ -236,12 +236,12 @@ Gárgyán [-@gargyan2010: 42-43] only quickly mentioned the *sein+im‑Infinitiv
 - Die Schwellung ist im Abklingen.^[~~DWDS~~: Berliner Zeitung, 03.08.1995.]
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - become less: *abflauen, abklingen, abnehmen, aussterben, schwinden, sinken, verblassen, verschwinden*
 - become more: *anrollen, ansteigen, entstehen, steigen, wachsen, zerfallen, zunehmen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Eine eigene Fahrerflotte sei im Entstehen.^[~~DWDS~~: Die Zeit, 18.02.2016 (online).]
 - Die nächste Husten-, Schnupfen- und Erkältungswelle ist im Anrollen.^[~~DWDS~~: Die Zeit, 15.11.2011, Nr. 46.]
@@ -256,11 +256,11 @@ Parallel to the *sein* progressiv there is also a *bleiben* progressive, which c
 - Das Schiff muss immer schön am schwimmen bleiben.^[Attested online at <https://freiamtplus.ch/blog-home-switcher/660-operette-mit-historischem-hintergrund.html>, accessed 26 November 2021.]
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *dampfen, jammern, kämpfen, leben, schwimmen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ich habe zu sorgen, daß meine Schornsteine am dampfen bleiben.^[~~DWDS~~: Gall, Lothar: Krupp, Berlin: Siedler 2000, S. 81.]
 - „Ich bin am kämpfen, daß ich meinen alten Lohn wiederkriege“, sagt er, „da muß man am kämpfen bleiben.“^[~~DWDS~~: Die Zeit, 29.05.1981, Nr. 23.]
@@ -298,12 +298,12 @@ Finally note that a *beim* phrase can also be a temporal adverbial (see [@sec:zu
 - Immerhin kann man unterstellen, dass Latein-Lernen kein Hindernis ist beim Geldverdienen.^[~~DWDS~~: Berliner Zeitung, 05.01.2005.]
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - agentive intransitive verbs: *arbeiten, aufholen, aufstehen, einkaufen, skifahren, weggehen*
 - anticausative-like constructions: *binden, fettabsaugen, haareschneiden*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ich war beim Aufstehen.^[~~DWDS~~: Der Tagesspiegel, 09.11.2001.]
 - Gouverneur Frederic Mishkin war beim Skifahren.^[~~DWDS~~: Die Zeit, 31.01.2008, Nr. 06.]
@@ -311,7 +311,7 @@ Finally note that a *beim* phrase can also be a temporal adverbial (see [@sec:zu
 - Aber der männliche Nachwuchs ist beim Aufholen.^[~~DWDS~~: Berliner Zeitung, 21.08.1996.]
 - Keiner soll allein sein beim Weggehen.^[~~DWDS~~: Berliner Zeitung, 19.10.2002.]
 
-**Notes**
+#### Notes {.unnumbered}
 
 The two examples in [@next] are further cases of the anticausative-like usage, as described above for the infinitive *Haareschneiden*.
 
@@ -345,12 +345,12 @@ Care has to be taken not to confuse the current abitive-frequentative constructi
   (= Ich gehe ins Schwimmbad um zu schwimmen.)
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - agentive intransitive verbs: *baden, beichten, einkaufen, essen, fischen, joggen, schlittenfahren, schwimmen, spielen, tanzen*
 - anticausative-like constructions: *massieren*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Das können wir nämlich deshalb so gut, weil wir immer mit den Kleinen zum Schlittenfahren gegangen sind.^[~~DWDS~~: Berliner Zeitung, 20.02.1998.]
 
@@ -372,7 +372,7 @@ This construction is very close to an adverbial modification as discussed in [@s
 - Ich laufe nachts (vom Tanzen) nach Hause.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Probably the same verbs as for the *gehen+zum‑Infinitiv* can be used for the *kommen+vom‑Infinitiv*.
 
@@ -396,11 +396,11 @@ Besides this stative usage, there are a few other sentence patterns that look si
 - Die Stärke des Gegners wäre nicht zum Tragen gekommen.^[~~DWDS~~: Berliner Zeitung, 18.08.2005.]
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *erliegen, halten, liegen, sitzen, stehen, stoppen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Bei Balesfeld im Kreis Bitburg-Prüm hatte sich der Wagen eines Pärchens überschlagen und war auf einer Landstraße auf dem Dach zum Liegen gekommen.^[~~DWDS~~: Die Zeit, 27.07.2016 (online).]
 - Endlich bin ich auf einem der wackligen Holzsessel zum	Sitzen gekommen.^[~~DWDS~~: Die Zeit, 21.09.1984, Nr. 39.]
@@ -423,11 +423,11 @@ b. Der Schaden ist zum Heulen.
 c. Es ist zum Heulen.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Verbs of emotion: *empören, heulen, kotzen, lachen, totlachen, verrücktwerden, verzweifeln, weinen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Es ist zum Verzweifeln.
 - Es ist zum Totlachen.
@@ -461,12 +461,12 @@ The semantically opposite *hindern am* 'to prevent' is not (yet) grammaticalised
 - […] haben sie ihn so lange an dem Ziel seines Lebens gehindert.^[~~DWDS~~: Die Zeit, 27.04.1990, Nr. 18.]
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *drehen, laufen, leben, lesen*
 - heat verbs: *brennen, brodeln, glimmen, kochen, köcheln, lodern, sieden, schwelen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Wer die Münze nicht am drehen halten kann, muss anscheinend einen Schnaps auf Ex trinken.^[Attested online at <https://pippin-unterwegs.de/hogmanay-in-glasgow/>, accessed 20.11.2021.]
 - Deshalb posten moderatoren immer in jedem thread und halten die diskussion am kochen.^[~~DWDS~~: Die Schönheit Des Simplexen, 2005-06-29.]
@@ -501,11 +501,11 @@ d. Seine Wohnung brennt.
 
 This means that the subject of a *haben+am‑Infinitiv* construction (here *Der Student* 'the student') is always inherently the possessor of the object of this construction (here *die Wohnung* 'the apartment'). I included the word *pertinenz* as part of the German name for all diatheses that include such an inherent possessor in the role-remapping. The current diathesis is thus called ~~Pertinenzinversiv~~. This diathesis is closely related to the *Ortspertinenzinversiv*, see [@sec:infinitive-haben]. Both diatheses are semantically and structurally similar, though curiously the *Ortspertinenzinversiv* uses a *haben+Infinitiv* construction without *am*.
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *brennen, drehen, funktionieren, glühen, laufen, schlafen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Alex, wie ihn alle nennen, hatte immer was am Laufen.^[~~DWDS~~: Berliner Zeitung, 10.12.2005.]
 - Jetzt, am Anfang der Arbeit an diesem Projekt komme ich mir vor wie ein Jongleur, der unzählige Teller in der Luft am Drehen hat.^[[@businger2017: 324]]

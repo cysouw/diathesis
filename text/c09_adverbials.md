@@ -371,18 +371,18 @@ b. Der Mantel sitzt.
 c. Der Mantel sitzt nicht.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Manner: *ausfallen, aussehen, bleiben, gelaunt sein, klingen, riechen, sitzen (passen), wirken (erscheinen)*
 - Quantity: *kosten, wiegen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ich bleibe wachsam/ruhig.
 - Sein Zeugnis ist schlecht ausgefallen.
 - Der Vortragende wirkte nervös.
 
-**Notes**
+#### Notes {.unnumbered}
 
 The verb *klingen* has two slightly different, but clearly related meanings. In the literal meaning 'to ring' it can only be used with a highly restricted set of nominative subjects that can actually ring, like *Glocken* 'bells' [@next a]. In the more general meaning 'to sound' is can be used with a wide variety of subjects, but in this meaning it obligatory needs an adverbial [@next b,c].
 
@@ -414,17 +414,17 @@ d. Ich führe mich wie ein Holzklotz auf.
 e. Du führst dich aber mal wieder auf!
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *anfühlen, aufführen, benehmen, geben (vorzeigen), gebärden, verhalten*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Er gibt sich jovial.
 - Ich verhalte mich abwartend.
 - Diese Musik kann man sich gut anhören.
 
-**Notes**
+#### Notes {.unnumbered}
 
 The verb *anfühlen* 'to sense by touching' is typically used intransitively with a reflexive pronoun and a manner adverbial [@next a]. However, there are also attested uses of a causative alternant, though these are rare and seem old-fashioned [@next b]. As an alternation, the pair in [@next] would belong in [@sec:adverbial-reflexive-transitive-anticausative]. When [@next b] is ignored, the verb *anfühlen* belongs in this section.
 
@@ -442,7 +442,7 @@ Verbs with an obligatory local prepositional phrase ([@sec:prepositions-obligato
 - Er übernachtet hier/dort/draußen.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *entspringen, münden, sein (sich befinden), spielen (zutragen), wohnen, übernachten, zeigen*
 
@@ -455,7 +455,7 @@ Obligatory reflexive verbs with an obligatory local prepositional phrase ([@sec:
 - Das Geschäft befindet sich außerhalb.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *aalen, ansiedeln, anstellen, aufhalten (befinden), befinden, begeben, einfressen, einschleichen, ergießen, fläzen, niederlassen, scheren, suhlen, umsehen, verkriechen, verschanzen, zubewegen, zurechtfinden*
 
@@ -469,7 +469,7 @@ b. ^* Ich halte viel.
 c. ^* Ich halte von dir.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *halten*
 
@@ -483,11 +483,11 @@ b. ^* Die Musik stimmt die Leute.
 c. ^* Die Musik stimmt freundlich.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *finden, stimmen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Sie findet den Stuhl gut.
 
@@ -508,7 +508,7 @@ d. Die Aufgabe fällt mir schwer/leicht.
 e. ^* Die Aufgabe fällt mir.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *bekommen, fallen*
 
@@ -522,7 +522,7 @@ Because there is no nominative argument in this special construction with *gehen
 - Mein Fuß ist nicht mehr eingeschränkt, es geht besser.^[~~DWDS~~: Die Zeit, 27.07.2012 (online).]
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *gehen*
 
@@ -537,11 +537,11 @@ Some verbs with an obligatory adverbial allow for the presence or absence of a n
 - Hier sieht es gut aus.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *aussehen, funktionieren, gehen, klappen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Die Lampe funktioniert einwandfrei. \
   Jetzt funktioniert es wieder gut.
@@ -630,7 +630,7 @@ The effect of these two meanings of *los‑* is that there are two syntactic pat
 - Ich habe die Tiere losgehetzt.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Manner of movement: *düsen, gehen, fliegen, fließen, flitzen, gleiten, hetzen, krabbeln, krähen, laufen, marschieren, pesen, preschen, radeln, rasen, reiten, rennen, sausen, schreiten, schwimmen, schwirren, schnellen, segeln, spazieren, springen, stampfen, stolpern, strömen, stürmen, tanzen, tigern, traben*
 - Manner of speaking: *bellen, brüllen, donnern, feuern, fluchen, grölen, heulen, keifen, kichern, knurren, platzen, posaunen, prasseln, prusten, rattern, reden, schießen, schimpfen, schnattern, schreien, schwatzen, sprechen, sprudeln, wettern, wetzen, zetern*
@@ -638,7 +638,7 @@ The effect of these two meanings of *los‑* is that there are two syntactic pat
 - Intransitive activity: *arbeiten, ballern, hämmern, knattern, schmettern*
 - Transitives without accusatives: *bauen, lesen, schreiben*, etc.
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Endlich hustet er los.^[~~DWDS~~: Johnson, Uwe: Jahrestage, Bd. 1, Frankfurt a. M.: Suhrkamp 1970, S. 132.]
 - Ein Schauspieler holt seinen Pimmel raus und pinkelt los, echt.^[~~DWDS~~: Die Zeit, 17.12.2009, Nr. 52.]
@@ -703,7 +703,7 @@ With ditransitive verbs, like *empfehlen* 'to recommend' [@next a], the preverbi
 - Ich empfehle diesen Kuchen an meine Freunde weiter.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Manner of movement: *fahren, fliegen, fließen, gehen, gondeln, hasten, hetzen, irren, kommen, laufen, marschieren, rasen, reisen, reiten, rollen, schlurfen, schreiten, schwimmen, segeln, spazieren, tanzen, tasten, traben, trotten, trödeln, wandern, waten, ziehen, zockeln*
 - Manner of speaking: *brausen, brummen, brüllen, flüstern, plappern, schwatzen, sprechen, tratschen*
@@ -745,7 +745,7 @@ b. Ich lache über die Politik. \
 
 When the combination of resultative and verb is considered to be a new lexicalised predicate (i.e. *totlachen, festbeißen*, etc.), then all these verbs would be obligatorily reflexive, alike to the verbs in [@sec:reflexive-obligatory-accusative-reflexive].
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - fest-      : *beißen, lesen, rennen, saugen*
 - frei-      : *schwimmen, singen*
@@ -759,7 +759,7 @@ When the combination of resultative and verb is considered to be a new lexicalis
 - schlapp-   : *lachen*
 - tot-       : *ärgern, arbeiten, fressen, hungern, lachen, laufen, malochen, rackern, saufen, schämen, trinken, weinen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ich lache mich tot/kaputt/schlapp.
 - Ich laufe mich glücklich.
@@ -785,13 +785,13 @@ Intransitive verbs with a resultative preverbial, but without a reflexive pronou
 
 This construction only seems to occur with the resultatives *fest‑* and *los-*, similar to the delocative diathesis that is discussed in [@sec:adverbial-antiresultative]. The case of *warmlaufen* seems to be an idiosyncrasy.
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - fest- : *frieren, laufen, rosten, wachsen*
 - los-  : *frieren, rosten, tauen*
 - warm- : *laufen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Die Verhandlungen laufen fest.
 - Der Motor läuft warm.
@@ -811,7 +811,7 @@ The addition of a resultative preverbial to transitive verbs (i.e. basic nominat
 - Der Vater prügelt den Sohn tot.
 :::
 
-**Attested Verb**
+#### Attested verbs {.unnumbered}
 
 - fern-    : *lenken*
 - fertig-  : *bauen, schreiben*
@@ -827,7 +827,7 @@ The addition of a resultative preverbial to transitive verbs (i.e. basic nominat
 - trocken- : *bügeln, reiben, schleudern, wischen*
 - wach-    : *kitzeln, küssen, rufen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ich schieße den Bären. \
   Ich schieße den Bären tot.
@@ -857,14 +857,14 @@ b. ^^?^ Am frühen morgen steht es sich schlecht auf.
 
 A very similar diathesis is attested with transitives, see [@sec:adverbial-reflexive-transitive-anticausative], but in that case the accusative is retained as a nominative (i.e. anticausative). Also note that the connection between an intransitive subject drop and a transitive anticausative is strongly reminiscent of the unaccusative hypothesis, see [@sec:participles-restrictions]. However, there does not seem to be an obvious match between patientive ('unaccusative') verbs and the verbs that allow for the current diathesis [cf. @steinbach1998: 15-18].
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Very many intransitives allow for this construction, like: \
   *leben, tanzen, lachen, ertrinken* etc.
 - However, there are many exceptions that do not seem to allow this construction, like: \
   *aufstehen, beginnen, stinken* etc.
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Hier lebt es sich gut.
 - In diesem Saal tanzt es sich gut.
@@ -884,11 +884,11 @@ c. Die Wurst lässt sich mit diesem Messer schneiden.
 
 Kunze [-@kunze1996: 647] and Steinbach [-@steinbach1998] call this "middle", Zifonun [-@zifonun2003] "fazilitives Medium", Wiemer & Nedjalkov [-@wiemer2007: 465-466] classify it as a "passive-like meaning of reflexive" and Kulikov [-@kulikov2011: 375-376] talks about a "potential agentless passive". Steinbach [-@steinbach1998: 25ff.] argues that the adverbial is not necessary in the 'middle' construction, but this is because he combines different constructions under the heading of 'middle'. His examples without adverbial are discussed here as a separate construction in [@sec:reflexive-anticausative].
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *fahren, finden, gehen, laufen, lesen, lernen, malen, schneiden, schreiben, spielen, springen, tanzen, verdienen, verkaufen*, etc.
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ich fahre einen Lastwagen. \
   Der Lastwagen fährt sich gut.
@@ -911,7 +911,7 @@ Kunze [-@kunze1996: 647] and Steinbach [-@steinbach1998] call this "middle", Zif
 - Ich lese den Roman. \
   Der neue Roman liest sich mühelos.
 
-**Notes**
+#### Notes {.unnumbered}
 
 Some of these verbs can also occur with a 'free' reflexive, see [@sec:reflexive-free-dative-sich-accusative].
 
@@ -933,11 +933,11 @@ c. Der Müll riecht (schlecht).
 d. Das Essen schmeckt (gut).
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *riechen, schmecken*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ich schmecke den Rotwein in der Soße. \
   Der Rotwein schmeckt (mir) gut.
@@ -954,11 +954,11 @@ b. ^^?^ Das Messer schneidet.
 c. Das Messer schneidet gut.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *schneiden, schreiben*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ich schreibe den Brief mit einem Füller. \
   Der Füller schreibt gut/nicht/angenehm.
@@ -975,11 +975,11 @@ With some intransitive verbs, like *sitzen* 'to sit' [@next a] a locational argu
 - Es sitzt sich gut auf der Bank.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *klettern, liegen, sitzen, schwimmen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ich schwimme im Becken. \
   Das Becken an sich schwimmt sich gut.^[Attested online at https://chlorhuhn.wordpress.com/2017/11/28/jetzt-tatsaechlich-umbau-in-der-olympiaschwimmhalle/, accessed 21 August 2022.]
@@ -997,19 +997,19 @@ a. Das Wasser läuft in die Badewanne.
 b. Die Badewanne läuft voll (mit Wasser).
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - voll- : *laufen, fließen, sich saugen, sickern, strömen*
 - leer- : *laufen, fließen, strömen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Die DDR lief leer.^[~~DWDS~~: Die Zeit, 09.08.2001, Nr. 33.]
 - Heute nacht ist unsre große Schale \| Bis zu ihrem Rande vollgeflossen.^[Emanuel von Bodman, Erfüllung, attested online at https://gedichte.xbib.de/Bodman%2C+Emanuel+von_gedicht_0826.+Erf%FCllung.htm, accessed 31 August 2022.]
 - Die Kirche strömt voll.^[~~DWDS~~: Zeit Magazin, 14.03.2013, Nr. 12.]
 - Die Aushöhlung ist mit Grubenwasser vollgesickert.^[Attested online at https://www.gamepro.de/artikel/unmechanical-im-test-mechanischer-herzchirurg,3010962.html, accessed 2 September 2022.]
 
-**Notes**
+#### Notes {.unnumbered}
 
 The verb *saugen* 'to suck' [@next] shows an interesting stack of diatheses (see [@sec:intro-stacking] on the notion of a 'stack'). There are three roles involved, (i) the 'sucker' agent ( *Kind* 'child') that does the sucking, (ii) the 'suckee' liquid (*Milch* 'milk') that is being absorbed and (iii) the container, *Tuch* 'cloth' that holds the liquid. Note that the choice of container in this example is slightly unusual to make the stack of diatheses clearer. The stack starts off with a basic intransitive construction [@next a], which leads via a caused motion diathesis [@next b] and a reflexive anticausative diathesis [@next c] to the current resultative location anticausative diathesis [@next d].
 
@@ -1033,7 +1033,7 @@ The diathesis in [@next] with weather verbs like *schneien* 'to snow' is a rare 
 - Der Trainingsplatz schneit voll.
 :::
 
-**Attested verbs**
+#### Attested verbs {.unnumbered}
 
 - voll- : *regnen, schneien*
 
@@ -1052,11 +1052,11 @@ b. ^^?^ Ich sehe. \
 c. Ich sehe gut.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *kaufen, schenken, sehen, treffen, werfen*, etc.
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ich schenke immer viel zu viel. \
   \*Ich schenke.
@@ -1075,7 +1075,7 @@ b. Ich fühle mich schlecht.
 c. ^* Ich fühle mich.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *fühlen*
 
@@ -1091,11 +1091,11 @@ d. Ich meine es. \
    (= Ich meine das, was ich vorher behauptet habe.)   
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *haben, meinen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Wir haben viel Geld. \
   Wir haben es gut.
@@ -1133,13 +1133,13 @@ The same diathesis is also attested with the resultative *frei‑* 'free'. This 
 - ^^?^ Ich wische das Auto von den Blätter frei.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - leer- : (empty a container) *buddeln, kratzen, pumpen, rauben, räumen, saugen, schaufeln, schenken, stehlen*
 - leer- : (empty by consumption) *bestellen, essen, kaufen, knabbern, löffeln, nippen, nuckeln, saufen, schlürfen, trinken*
 - frei- : (uncover) *arbeiten, fegen, klopfen, räumen, schaufeln, schneiden, wischen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ich schenke den Wein aus der Karaffe. \
   Ich schenke die Karaffe leer.
@@ -1192,12 +1192,12 @@ A second group of verbs that allow for this object exchange are verbs that descr
 - Ich habe die Leinwand (mit einem Porträt) vollgemalt.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - voll- : (fill a container) *bauen, füllen, gießen, häufen, kleben, laden, packen, pflanzen, pumpen, säen, schenken, schöpfen, schmieren, stecken, stellen, tanken*
 - voll- : (fill a canvas) *drucken, kritzeln, malen, schreiben, sprühen, tippen, zeichnen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ich lade Heu auf den Wagen. \
   Ich lade den Wagen voll (mit Heu).
@@ -1259,14 +1259,14 @@ The example with *werfen* 'to throw' [@next a] illustrates the close relationshi
   Die Entscheidung trat eine Protestwelle los.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - los-  : (detachment) *binden, ketten, klopfen, koppeln, sägen, schnallen, schneiden, schrauben, treten*
 - fest- : (attachment) *binden, haken, hämmern, heften, klammern, kleben, klopfen, knoten, nageln, schnallen, schnüren, schrauben*
 - frei- : (uncovering by excavation) *bohren, graben, präparieren*
 - los-  : (causing to move) *bringen, hetzen, jagen, schicken, senden, treten, werfen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Die Arbeiter klopfen die Pflastersteine in den Bürgersteig. \
   Die Arbeiter klopfen die letzten Pflastersteine fest.^[~~DWDS~~: Bild, 28.04.2005.]
@@ -1293,12 +1293,12 @@ A delocative diathesis is also attested with a few posture verbs that obligatori
 - Der Nagel steckt (in der Wand) fest.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - fest- : *sitzen, sich fressen, stecken*
 - frei- : *stehen, liegen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Die Reifen fressen sich in den Schnee. \
   Die Reifen fressen sich (in den Schnee) fest.
@@ -1320,7 +1320,7 @@ b. Der Patient liegt sich wund.
 d. ^* Der Patient liegt wund.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - wund- : *liegen, sitzen*
 
@@ -1335,11 +1335,11 @@ a. Ich sehe das Gemälde.
 b. Ich sehe mich satt an dem Gemälde.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - satt- : (verbs of consumption) *essen, fressen, sehen, lesen, trinken*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ich esse die Bouletten. \
   Ich esse mich satt an den Bouletten.
@@ -1358,11 +1358,11 @@ The preverbial *los‑* is used frequently without any diathesis as a marker of 
 - Er haut auf ihn los.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - los- : (verbs of attack) *dreschen, hacken, hauen, knallen, prügeln, schießen, schlagen, stechen, stürzen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Einige werden überritten, andere hauen und stechen auf die Anstürmenden los.^[~~DWDS~~: Völkischer Beobachter (Reichsausgabe), 04.03.1932.]
 
@@ -1378,7 +1378,7 @@ This diathesis is only attested with the preverbial *weiter-*. With non-ditransi
 - ^^?^ Ich empfehle dir diesen Kuchen weiter.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - weiter- : *empfehlen, erzählen, geben, leiten, melden, reichen, sagen, schenken, schicken, vererben, verkaufen, vermieten, vermitteln, verschenken*
 
@@ -1421,7 +1421,7 @@ A counterexample to this 'preferred role' generalisation is *tanzen* 'to dance'.
   Sie tanzt mich schwindlig.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - fest-    : *drücken, klopfen, stampfen, treten*
 - frei-    : *beten, boxen, kämpfen, strömen*
@@ -1439,7 +1439,7 @@ A counterexample to this 'preferred role' generalisation is *tanzen* 'to dance'.
 - voll-    : *heulen, kotzen, lästern, niesen, quatschen, rauchen, spucken, tratschen, weinen*
 - wund-    : *beißen, sitzen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ich fische in dem Teich. \
   Ich fische den Teich leer.
@@ -1480,7 +1480,7 @@ A counterexample to this 'preferred role' generalisation is *tanzen* 'to dance'.
 - Du hast mich gesund gequatscht.^[Attested online at https://books.google.de/books?id=fJN7DwAAQBAJ&pg=PT133, accessed 31 August 2022.]
 - [Er hat] eine Zeitung kaputt geblättert […].^[Attested online at https://www.urbia.de/forum/3-kleinkind/4331874-kind-drosseln-ruhiger-werden-so-erschoepft, accessed 31 August 2022.]
   
-**Notes**
+#### Notes {.unnumbered}
 
 With some verbs, like *fallen* 'to fall' [@next a], this diathesis appears to be more colloquial with the addition of a possessor-of-accusative dative (see [@sec:case-possessor-accusative-to-dative]). Note that the few attested examples suggest that this possessor dative is a reflexive pronoun, coreferencing the subject.
 
@@ -1517,7 +1517,7 @@ b. Der Hund bellt die Kinder wach.
 c. Der Hund bellt die Kinder aus dem Bett.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - gesund- : *hexen*
 - heiß-   : *reden*
@@ -1528,7 +1528,7 @@ c. Der Hund bellt die Kinder aus dem Bett.
 - voll-   : *jammern, rauchen, schreien, schwärmen*
 - wach-   : *bellen, klingeln, schreien*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ich fahre den Tank leer.
 - Der Mann fährt das Kind tot.
@@ -1540,7 +1540,7 @@ c. Der Hund bellt die Kinder aus dem Bett.
 - Vielleicht kann man Theater tatsächlich vollschreien.^[~~DWDS~~: Die Welt, 18.03.1999.]
 - Ich schwärme dir die Ohren voll.
 
-**Notes**
+#### Notes {.unnumbered}
 
 The verb *reden* 'to talk' is listed here in a special variant, namely *heißreden* 'to arouse'. This verb is frequently used in collocation with an accusative *Kopf* 'head' and a reflexive possessor dative [@next a]. However, it is also attested with other objects [@next b]. Also note that there are various other resultative combinations with *reden* with a different diathesis (e.g. *gutreden, kleinreden, schönreden*). These all refer to the topic of the talk (discussed in the previous [@sec:adverbial-applicative]), different from *heißreden*.
 
@@ -1561,12 +1561,12 @@ This diathesis is yet another kind of object exchange, namely a ~~joined meronym
 - Er näht den Knopf fest.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - fest- : (verbs of connection) *kitten, kleben, leimen, löten, nähen, schweißen*
 - fest- : (other verbs) *bügeln, schreiben*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ich nähe eine Bluse. \
   Ich nähe den Knopf (an die Bluse) fest.

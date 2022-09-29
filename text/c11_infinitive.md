@@ -289,13 +289,13 @@ The construction *bleiben+Infinitiv* [cf. @eisenberg2006a: 351; @engel1996: 476]
 - Nora ist morgens immer liegengeblieben (\*liegenbleiben).
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Single words from the ~~DWDS~~ dictionary: *stehenbleiben, klebenkleiben, hängenbleiben, liegenbleiben, sitzenbleiben, steckenbleiben*
 - Other stative verbs: *bestehen, erhalten, haften, hocken, wohnen*
 - Other verbs: *laufen, leben, schicken, vergessen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Drehe ich den Regler wieder nach rechts um Warmwasser zu fragen geht der Brenner wieder an und bleibt laufen obwohl kein Warmwasser gezapft wird.^[Attested online at <https://www.haustechnikdialog.de/Forum/t/242166/Viessmann-Vitopend-100-bleibt-laufen>, accessed 24 September 2021.]
 - Und wenn jemanden eine Schlange biss, so sah er die eherne Schlange an und blieb leben.^[Lutherbibel 1984: 4.Mose 21:9]
@@ -325,7 +325,7 @@ The absentive can only be used with verbs that clearly include agency, so typica
 - ^* Ich bin auf den Stuhl sitzen.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Agentive verbs: *arbeiten, bringen, laufen, rennen, schlafen, schwimmen, zurückbringen*
 - Not possible with non-agentive verbs: *abkühlen, ankommen, aufstehen, bluten, einschlafen, fallen, husten, niesen, scheitern, stürzen, verrosten, wachsen, weinen*
@@ -341,7 +341,7 @@ Parallel to the *sein+Infinitiv* absentive, the light verbs *gehen* 'to go' and 
 - Er ist seinen Freund besuchen gegangen/gefahren. (\*gehen/fahren)
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - probably exactly the same verbs as can be used with *sein+Infinitiv* absentive can also be used with *gehen/fahren+Infinitiv* (see [@sec:infinitive-sein-absentive]).
 
@@ -354,7 +354,7 @@ Contrasting to the *gehen/fahren+Infinitiv* abitive there is also a *kommen+Infi
 - Er ist hier immer die Zeitung lesen gekommen. (\*kommen)
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - probably exactly the same verbs as can be used with *sein+Infinitiv* absentive can also be used with *kommen+Infinitiv* (see [@sec:infinitive-sein-absentive]).
 
@@ -373,12 +373,12 @@ This construction with *haben* is closely related to similar construction with a
 - Wer im Rohr sitzt, hat gut Pfeifen schneiden.^[~~DWDS~~: Wander, Karl Friedrich Wilhelm (Hrsg.): Deutsches Sprichwörter-Lexikon. Bd. 3. Leipzig, 1873.]
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Utterance verbs: *protzen, reden, sagen, schimpfen, trösten, verbieten*
 - Others: *beweisen, lachen, regieren*.
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Jungen haben leicht sagen: "Mädchen sind doof."^[~~DWDS~~: Die Zeit, 20.10.1978, Nr. 43.]
 - Wer behauptet, es laufe in der Geschichte alles auf das gleiche hinaus, und als Beweis dafür Szenen liefert, die immer auf das gleiche hinauslaufen, der hat leicht beweisen.^[~~DWDS~~: Die Zeit, 28.04.1972, Nr. 17.]
@@ -461,11 +461,11 @@ Er fällt. \
 +> *Selbstbezogenes Reflexiv* = Er lässt sich fallen.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *absacken, fallen, gehen, gleiten, hineinplumpsen, hinfallen, hinunterfallen, hinunterrutschen, sinken, schweben, treiben, zurückfallen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Man stößt sich ab und lässt sich gleiten.^[~~DWDS~~: Der Tagesspiegel, 14.06.2002.]
 - Wer zur Düsternis neigt, lässt sich sinken.^[Attested online at https://www.welt.de/print/welt_kompakt/print_literatur/article174151886/Der-Stoff-der-wilden-Jahre.html, accessed 28 September 2022.]
@@ -475,7 +475,7 @@ Er fällt. \
 - Gegen 14 Uhr läuft er in voller Montur mit Sauerstoff-Flasche und Neoprenanzug auf das große Wasserbassin zu und lässt sich hineinplumpsen.^[~~DWDS~~: Berliner Zeitung, 26.10.1999.]
 - Ich stelle mich neben sie an die Wand, lasse mich absacken, sitze auf dem Boden.^[~~DWDS~~: Bach, Tamara: Marsmädchen, Hamburg: Verlag Friedrich Oetinger 2003, S. 57.]
 
-**Notes**
+#### Notes {.unnumbered}
 
 The verb *gehen* 'to walk' has become lexicalised in this construction as *sich gehen lassen* 'to lose one's control' [@next].
 
@@ -558,12 +558,12 @@ a. Der Müll stinkt nach Fisch.
 b. ^* Nach Fisch lässt es sich stinken.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Possible with some agentive intransitives: *agieren, atmen, laufen, leben, schwimmen, singen, spielen, springen, streiten, tanzen, träumen*
 - Not possible with some patientive intransitives: *bluten, duften, husten, niesen, platzen, riechen, stinken*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - An der frischen Luft lässt es sich frei atmen.
 - Auf unbefestigtem Gelände läßt sich freier agieren.^[~~DWDS~~: Berliner Zeitung, 06.11.1997.]
@@ -579,12 +579,12 @@ As attested in the famous German saying *Im Dunkeln ist gut munkeln*, this diath
 - Mit Vorhänge ist gut einschlafen.
 :::
 
-**Attested verbs**
+#### Attested verbs {.unnumbered}
 
 - Agentive verbs: *fasten, leben, munkeln, sitzen, schwärmen, verweilen*
 - Patientive verbs: *ankommen, bleiben, einschlafen, sterben*
 
-**Further examples**
+#### Further examples {.unnumbered}
 
 - Zwischen den Stühlen ist schlecht sitzen.^[~~DWDS~~: Die Zeit, 08.12.1995, Nr. 50.]
 - In Abu Dhabi ist leicht schwärmen.^[~~DWDS~~: Die Zeit, 30.03.2011, Nr. 13.]
@@ -622,7 +622,7 @@ Exactly the same construction *heißen+Infinitiv* can be also be used as a causa
 - Vor dem Henker hieß es für ihn niederknien.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Intransitive verbs: *warten*
 - Transitive verbs without objects or with incorporated objects: *Daumen drücken*
@@ -691,13 +691,13 @@ A few verbs, like *übersehen* 'to overlook' [@next a] or *erläutern* 'to eluci
   Der Begriff lässt sich nur schwer (vom Dozenten) erläutern.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Most transitive verbs: *bezweifeln, kämmen, schminken, schließen, tragen*, etc.
 - Ditransitive verbs: *zuschreiben*, etc.
 - Verbs that need an evaluative adverbial: *übersehen, erläutern*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Ich bezweifele die Lösung. \
   Die Lösung lässt sich bezweifeln.
@@ -722,11 +722,11 @@ A small group of verbs, like *helfen* 'to help' [@next a] and *gratulieren* 'to 
 
 There seem to be only very few verbs with a dative (but not accusative) that allow for this passive diathesis. Various other verbs with a dative show a reflexive inversive diathesis, to be discussed separately (see [@sec:infinitive-lassen-dative-reflexive-inversive]). 
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - *entfliehen, gratulieren, helfen, imponieren*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Etwas imponiert mir. \
   Ich lasse mir nicht davon imponieren, aber ich rechne damit.^[~~DWDS~~: Die Grenzboten. Jg. 65, 1906, Viertes Vierteljahr.]
@@ -771,12 +771,12 @@ a. ^^?^ Ich lasse mich von diesem Witz empören.
 b. Ich lasse mich von diesem Witz begeistern.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Verbs of negative emotions, typically with negation: *ärgern, beruhigen, erschrecken, empören, erzürnen, langweilen, quälen, stören*
 - Verbs of positive emotions, typically without negation: *begeistern, belustigen, erheitern, unterhalten*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Davon lasse ich mich nicht ärgern/stören.
 - Ich lasse mich nicht schnell erschrecken, sagen wir es so.^[~~DWDS~~: Der Tagesspiegel, 26.10.2003]
@@ -978,7 +978,7 @@ This causative construction cannot be combined with any kind of reflexive pronou
 - Ich lasse mich treiben.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Not possible with verbs with non-agent subjects: *ähneln, bekommen, beschweren, besitzen, gefallen, interessieren, kennen, missfallen, sich befinden, verunglücken*
 
@@ -1007,12 +1007,12 @@ a. Ich hole Bier.
 b. Er schickt mich Bier holen.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - agentive intransitives: *duschen, einkaufen, schlafen*, etc.
 - transitives: *holen*
  
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Du hast noch mehr als einmal gearbeitet und mich schlafen geschickt.^[~~DWDS~~: Mauthner, Fritz: Wörterbuch der Philosophie. In: Bertram, Mathias (Hg.) Geschichte der Philosophie, Berlin: Directmedia Publ. 2000 [1910], S. 24606]
 - Doch als sie ihn später ein zweites Mal Wasser holen schickt, kommt Sachin aufgeregt zurück …^[~~DWDS~~: Die Zeit, 06.12.2012, Nr. 50]
@@ -1032,12 +1032,12 @@ c. Das Pulver von eines Schwanen Beiner auf eines Kopf gestreuet soll alsbald di
 d. Der Clown hat mich lachen gemacht (\*machen).
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - intransitives: *flattern, frösteln, lachen, leiden, schaudern, weinen*
 - transitives: *hinnehmen, vergessen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Der Lärm macht mich schaudern.
 - Die Diktatur machte die Menschen ihr Schicksal passiv hinnehmen.
@@ -1054,7 +1054,7 @@ b. Der Henker hieß ihn niederknien.
 c. Der Henker hat ihn niederknien geheißen (\*heißen).
 :::
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Eins von den Kindern hieß er zum Doktor laufen.^[~~DWDS~~: Ganghofer, Ludwig: Der Dorfapostel, Stuttgart: Adolf Bonz 1900, S. 124]
 - Hierauf hat mich der Vater in sein Arbeitsgemach geführt, hat mich auf den weichsten Sessel niedersitzen geheißen.^[~~DWDS~~: Rosegger, Peter: Die Schriften des Waldschulmeisters. Pest, 1875.]
@@ -1120,7 +1120,7 @@ The verb *riechen* 'to smell' can be used with a *dass* complement clause [@next
 - Er schlug sich querfeldein, nahm meilenweite Umwege in Kauf, wenn er eine noch Stunden entfernte Schwadron Reiter auf sich zukommen roch.^[~~DWDS~~: Süskind, Patrick: Das Parfum, Zürich: Diogenes 1985, S. 4]
 :::
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Seine Majestät hatte einen Streit im Haus gehört und etwas brennen gerochen.^[William M. Thackeray:
 Die Rose und der Ring. Übersetzung Jörg Karau 2009. Attested online at <https://www.joergkarau-texte.de/PDF/Die%20Rose%20und%20der%20Ring.pdf>, accessed 22 July 2021.]
@@ -1137,11 +1137,11 @@ The verb *finden* (literally meaning 'to find', but in this construction the mea
 - Er […] rauchte den Joint auf, den er dort liegen fand.^[~~DWDS~~: Der Tagesspiegel, 02.10.1998]
 :::
 
-**Attested verbs**
+#### Attested verbs {.unnumbered}
 
 - position verbs: *stehen, liegen, sitzen*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Der gütige Herr wollte weiterschreiten, als er einen Dritten bitterlich weinend am Straßenrand sitzen fand.^[~~DWDS~~: Süddeutsche Zeitung, 1995 [1945]]
 - Indessen hatte Perdikkas die Stadt, gegen die er gesandt war, bereits von den Einwohnern verlassen gefunden.^[~~DWDS~~: Droysen, Johann Gustav: Geschichte Alexanders des Großen. Hamburg, 1833.]
@@ -1220,12 +1220,12 @@ b. Der Spaß entgeht mir. \
    Den Spaß lasse ich mir nicht entgehen.
 :::
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Typically without negation: *einfallen, geschehen, schmecken*
 - Typically with negation: *entgehen, entgleiten, entwischen, gefallen, passieren*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 
 - Dein Ton gefällt mir nicht. \
@@ -1256,12 +1256,12 @@ The new nominative subject appears to have multiple possibly origins. It mostly 
 
 There is a curious parallel between this diathesis and the *haben+am‑Infinitiv* diathesis, see [@sec:zuminfinitive-haben-am]. Both use the light verb *haben* with an infinitive, they show a similar role-remapping, and semantically they are also highly similar. The first difference is that the dative in this diathesis is the possessor of the locational object, while the dative in the *haben+am‑Infinitiv* diathesis is the possessor of the nominative. The second difference is of course the extra *am* preposition. It is a tantalising thought that this *am* preposition is somehow related to the fact that there is no obligatory location present in that diathesis.
 
-**Attested Verbs**
+#### Attested verbs {.unnumbered}
 
 - Position verbs: *liegen, stehen, sitzen, hängen, stecken*
 - Manner of position verbs: *haften, kleben, lehnen, pendeln*
 
-**Further Examples**
+#### Further examples {.unnumbered}
 
 - Der Teller steht auf dem Tisch. \
   Er hat seinen Teller auf dem Tisch stehen.
