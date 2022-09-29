@@ -280,7 +280,7 @@ A special characteristic of this construction is that an additional dative exper
 - Viele von ihnen hatten während des Vorwahlkampfs Hillary Clinton unterstützt, weil ihnen die Vorstellung eines schwarzen Präsidenten einfach zu kühn, zu vermessen erschien.^[~~DWDS~~: Die Zeit, 06.11.2008, Nr. 46.]
 :::
 
-### *drohen/versprechen+zu‑Infinitiv* Direct evidence (*Wertungsevidenz*) {#sec:zuinfinitive-drohen}
+### *drohen/versprechen+zu‑Infinitiv* Direct evidence (*Bewertungsevidenz*) {#sec:zuinfinitive-drohen}
 
 A detailed discussion of *drohen* and *versprechen* is presented by Diewald & Smirnova [-@diewald2010: 191-217]. Basically, when used with a *zu‑Infinitiv*, both verbs can either have a speech-act usage [@next], meaning 'to threaten' and 'to promise', respectively, or they can have a grammaticalised light-verb usage with an evidential meaning [@nnext]. There is a very strong tendency that the speech-act usage is syntactically non-coherent, while evidential usage is coherent [@reis2005: 136-140].
 
@@ -298,7 +298,7 @@ Evidential usage (coherent)
 - Die Pfänder hinter den Papieren waren Immobilien, deren Wert ständig weiter zu steigen versprach.^[~~DWDS~~: Die Zeit, 15.08.2017 (online).]
 :::
 
-Diewald & Smirnova [-@diewald2010: 191-217] analyse the coherent light-verb usage of *drohen* and *versprechen* as marking a direct evidential, i.e. the speaker of the utterance has first-hand evidence for the proposition [@next]. There are various differences between *drohen* and *versprechen*. First, drohen is very frequent in its evidential coherent reading (80% of all occurrences), while versprechen (10% of all occurrences) is not [corpus counts from @diewald2010: 214]. Second, *drohen* can be used with animate/human subjects, while *versprechen* is restricted to inanimate subjects. Third, *drohen* does not have strong restrictions as to which verbs can be used as infinitive. The verbs are typically non-agentive but possibly intentional [@diewald2010: 197-199]. In contrast, *versprechen* only allows for a restricted set of verbs that do not express agency [@diewald2010: 212]. Finally, *drohen* implies a negative evaluation from the speaker's point of view, while *versprechen* implies a positive evaluation. Because of this evaluation I propose to use the German name ~~Wertungsevidenz~~ for this construction.
+Diewald & Smirnova [-@diewald2010: 191-217] analyse the coherent light-verb usage of *drohen* and *versprechen* as marking a direct evidential, i.e. the speaker of the utterance has first-hand evidence for the proposition [@next]. There are various differences between *drohen* and *versprechen*. First, drohen is very frequent in its evidential coherent reading (80% of all occurrences), while versprechen (10% of all occurrences) is not [corpus counts from @diewald2010: 214]. Second, *drohen* can be used with animate/human subjects, while *versprechen* is restricted to inanimate subjects. Third, *drohen* does not have strong restrictions as to which verbs can be used as infinitive. The verbs are typically non-agentive but possibly intentional [@diewald2010: 197-199]. In contrast, *versprechen* only allows for a restricted set of verbs that do not express agency [@diewald2010: 212]. Finally, *drohen* implies a negative evaluation from the speaker's point of view, while *versprechen* implies a positive evaluation. Because of this evaluation I propose to use the German name ~~Bewertungsevidenz~~ for this construction.
 
 ::: ex
 Evidential interpretation of light-verb usage

@@ -563,7 +563,7 @@ Second, the addition of a resultative preverbial regularly leads to a diathesis 
 
 ### --- Temporal aspect --- {.unnumbered}
 
-### *los‑* Inchoative (*Inchoativ*) {#sec:adverbial-inchoative-los}
+### [ N | N ] *los‑* Inchoative (*Inchoativ*) {#sec:adverbial-inchoative-los}
 
 The preverbial *los‑* can be used without any diathesis. In that usage *los‑* is a preverbial, but it is not a resultative preverbial (cf. [@sec:adverbial-resultative-predicates]). As a non-resultative preverbial *los‑* indicates that an activity is starting, i.e. it marks an inchoative aspect, like with *losrennen* 'to start running' [@next a]. An early discussion of this inchoative aspect of *los‑* is presented by Storch [-@storch1978: 113-126]. 
 
@@ -648,7 +648,7 @@ The effect of these two meanings of *los‑* is that there are two syntactic pat
 - Was kann ich aber machen damit [die Mäuse] nicht gleich wieder losstinken?^[Attested online at https://forum.mausebande.com/index.php?threads/nasen-stinken-d.25969/, accessed 9 September 2022.]
 - Alarmanlagen sorgen dafür, dass Einbrecher losfliehen.^[Attested online at https://www.heimwerk24.de/effektiv-vor-einbruch-schuetzen-12-wertvolle-tipps-tricks/, accessed 9 September 2022.]
 
-### *weiter‑* Continuative (*Kontinuativ*) {#sec:adverbial-continuative-weiter}
+### [ N | N ] *weiter‑* Continuative (*Kontinuativ*) {#sec:adverbial-continuative-weiter}
 
 The word *weiter* in German has a wide range of uses. This section deals with its non-resultative preverbial usage that has a temporal meaning 'to continue an activity', like in *weitergehen* 'to continue on walking'. However, before discussing this continuative usage of *weiter-*, the preverbial structure first has to be separated from the various highly similar adverbial uses of *weiter*.
 

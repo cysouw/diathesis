@@ -357,9 +357,9 @@ b. ^* Das Kind scheint geschlafen.
 - ^* Er wirkt geschlafen.
 :::
 
-### *Negative Wertungsevidenz* (*drohen+zu‑Infinitiv*)
+### *Negative Bewertungsevidenz* (*drohen+zu‑Infinitiv*)
 
-The marking of ~~Negative Wertungsevidenz~~ (full discussion in [@sec:zuinfinitive-drohen]) consists of the verb *drohen* with a *zu‑Infinitiv* [@next a]. This construction conveys that the speaker of the utterance has direct evidence for the proposition, while implying a negative evaluation from the speaker's point of view. When used as a speech-act verb *drohen* means 'to threaten' and can also be used with a *zu‑Infinitiv*. However, only in its evidential usage will *drohen+zu‑Infinitiv* construct coherently [@next b]. The meaning of 'to threaten' does not result in a coherent construction [@next c].
+The marking of ~~Negative Bewertungsevidenz~~ (full discussion in [@sec:zuinfinitive-drohen]) consists of the verb *drohen* with a *zu‑Infinitiv* [@next a]. This construction conveys that the speaker of the utterance has direct evidence for the proposition, while implying a negative evaluation from the speaker's point of view. When used as a speech-act verb *drohen* means 'to threaten' and can also be used with a *zu‑Infinitiv*. However, only in its evidential usage will *drohen+zu‑Infinitiv* construct coherently [@next b]. The meaning of 'to threaten' does not result in a coherent construction [@next c].
 
 ::: ex
 a. Das Wetter droht schlecht zu werden.
@@ -367,9 +367,9 @@ b. Es ist bekannt, dass das Wetter schlecht zu werden droht.
 c. Es ist bekannt, dass er droht, das Licht auszuschalten.
 :::
 
-### *Positive Wertungsevidenz* (*versprechen+zu‑Infinitiv*)
+### *Positive Bewertungsevidenz* (*versprechen+zu‑Infinitiv*)
 
-The marking of ~~Positive Wertungsevidenz~~ (full discussion in [@sec:zuinfinitive-drohen]) is composed of the verb *versprechen* with a *zu‑Infinitiv* [@next a]. Similar to the previous construction with *drohen*, the verb *versprechen* with a *zu‑Infinitiv* also expresses a direct evidential, though now with a positive evaluation. When used as a speech-act verb *versprechen* means 'to promise' and is commonly used with a *zu‑Infinitiv*. However, only in its evidential usage will *versprechen+zu‑Infinitiv* construct coherently [@next b]. The meaning of 'to promise' does not result in coherent constructions [@next c].
+The marking of ~~Positive Bewertungsevidenz~~ (full discussion in [@sec:zuinfinitive-drohen]) is composed of the verb *versprechen* with a *zu‑Infinitiv* [@next a]. Similar to the previous construction with *drohen*, the verb *versprechen* with a *zu‑Infinitiv* also expresses a direct evidential, though now with a positive evaluation. When used as a speech-act verb *versprechen* means 'to promise' and is commonly used with a *zu‑Infinitiv*. However, only in its evidential usage will *versprechen+zu‑Infinitiv* construct coherently [@next b]. The meaning of 'to promise' does not result in coherent constructions [@next c].
 
 ::: ex
 a. Das Wetter verspricht gut zu werden.
@@ -433,7 +433,7 @@ a. Die Straßen kreuzen den Fluss.
 b. Die Straßen kreuzen sich (gegenseitig).
 :::
 
-### *Freier Reflexiv*
+### *Freies Reflexiv*
 
 The ~~Freier Reflexiv~~ (full discussion in [@sec:reflexive-free] and subsequent sections) is a somewhat mysterious alternation in German in which a reflexive pronoun can be added without any obvious change in meaning. For example, the verb *ansehen* 'to look at' can be used both with reflexive pronoun [@next a] and without reflexive pronoun [@next b]. The difference between these expressions needs more investigation, but intuitively there appears to be a slight difference in the affectedness of the subject-participant.
 

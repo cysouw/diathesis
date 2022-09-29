@@ -268,7 +268,7 @@ d. Ich drücke mich vor der Gefahr.
 
 The verb *sich schicken* 'to acquiesce' is an old-fashioned meaning of *schicken* 'to send'. Another usage of the same verb stem typically occurs with *es* and negative polarity, *es schickt sich nicht* meaning 'to be not suitable*.
 
-### [ Np ] Obligatory accusative reflexive+*mit* (*Reciproka tantum*) {#sec:reflexive-real-reciprocals}
+### [ Np ] Obligatory accusative reflexive+*mit* (*Reciproca tantum*) {#sec:reflexive-real-reciprocals}
 
 A special group of verbs in this class are verbs with an reciprocal *mit* preposition, like with *einigen* 'to reach an agreement' in [@next]. On first notice, the *mit* phrase might look like a comitative argument as used with *betrinken* 'to get drunk' in [@nnext]. However, as shown by the grammaticality judgements in those two examples, the *mit* phrases with both verbs have different characteristics.
 
