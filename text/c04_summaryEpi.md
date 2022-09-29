@@ -2,7 +2,7 @@
 
 ## Verbal categories reconsidered
 
-Browse any grammatical description of verbal categories in German and terms like *Plusquamperfekt* [@next a] or *Futur II* [@next b] will surely pass by. There is nothing wrong with those terms, but they just describe very specific combinations of verbal markers that are mostly transparently interpretable (e.g. *Plusquamperfekt* is simply a perfekt with past-tense finite verb). In contrast, there are many basic verbal constructions that are only sparingly discussed in German grammars, if at all. The *pflegen+zu‑Infinitiv* habitual [@next c] or the *sein+Infinitiv* absentive [@next d] are probably the most well-known among those, but they are still not widely acknowledged in general grammars of German. 
+Browse any grammatical description of verbal categories in German and terms like *Plusquamperfekt* [@next a] or *Futur II* [@next b] will surely pass by. There is nothing wrong with those terms, but they just describe very specific combinations of verbal markers that are mostly transparently interpretable (e.g. *Plusquamperfekt* is just a perfekt with a past-tense finite verb). In contrast, there are many basic verbal constructions that are only sparingly discussed in German grammars, if at all. The *pflegen+zu‑Infinitiv* habitual [@next c] or the *sein+Infinitiv* absentive [@next d] are probably the most well-known among those, but they are still not widely acknowledged in general grammars of German. 
 
 ::: ex
 - Wer hatte dir die Adresse gegeben?
@@ -11,7 +11,7 @@ Browse any grammatical description of verbal categories in German and terms like
 - Ich bin einkaufen.
 :::
 
-As a case in point, the Duden grammar spends 20 pages on details of tense marking [-@duden2009: 496-516], while only a few select additional verbal constructions are discussed in just four pages [-@duden2009: 848-852] and some incidental reference scattered throughout. This chapter can be read as an attempt at a complete survey of all those remaining German verbal categories, besides tense.
+As a case in point, the Duden grammar spends 20 pages on details of tense marking [-@duden2009: 496-516], while only a few other verbal constructions are discussed in just four pages [-@duden2009: 848-852] and some incidental reference scattered throughout. This chapter can be read as an attempt at a complete survey of all those remaining German verbal categories, besides tense.
 
 This chapter arose as a byproduct of the main goal of this book, namely listing all German diatheses. To clearly delimit what counts as a diathesis, I also collected constructions that are structurally similar to diatheses, but that did not involve any role remapping. These structures are called ~~epitheses~~ and are listed in-full in the respective .4 sections of the following data chapters. This chapter summarises and organises the major epitheses that I have been able to find. I will also propose Latinate-German names for all of these constructions.
 
@@ -23,7 +23,7 @@ Quickly recapitulated, an ~~epithesis~~ is a monoclausal construction in which t
 - Es ist bekannt, dass der Großvater seiner Enkelin einen Witz zu erzählen pflegte.
 :::
 
-The constructions listed in this chapter are not haphazardly collected out of some infinite pool of possible analytical combinations of German verb forms. Quite to the contrary, the constructions listed here are claimed to be an exhaustive list of all epithetical German verb forms. Only a few rare and/or old-fashioned constructions are left out from this summary (but they can still be found in the following data chapters). The list of major epitheses in this chapter is quite long (about 40 constructions), but manageable. Any 1000-plus-page grammar could easily add a few pages listing them all (or at least the most commonly attested ones). The number of epitheses is also quite a bit less than the number of major diatheses presented in the previous chapter (about 80 constructions). This indicates that from a purely grammatical perspective, diathesis is about a two-times more elaborate topic than epithesis. 
+The constructions listed in this chapter are not haphazardly collected out of some infinite pool of possible analytical combinations of German verb forms. Quite to the contrary, the constructions listed here are claimed to be an exhaustive list of all epithetical German verb forms. Only a few rare and/or old-fashioned constructions are left out from this summary (but they can still be found in the following data chapters). The list of major epitheses in this chapter is quite long (about 40 constructions), but manageable. Any 1000-plus-page grammar could easily add a few pages listing them all (or at least the most commonly attested ones). This number of epitheses is also quite a bit less than the number of major diatheses presented in the previous chapter (about 80 constructions). This indicates that from a purely grammatical perspective, diathesis is about a two-times more elaborate topic than epithesis. 
 
 ## Classifying epitheses
 

@@ -34,7 +34,7 @@ The *Präpositionsinfinitiv* is a grammaticalised construction that will be dist
 
 ::: ex
 - Der Vater kommt gerade vom Einkaufen. \
-  (*Präpositionsinfinitiv*, [@sec:zuminfinitive-kommen-vom])
+  (*Präpositionsinfinitiv*, [@sec:zuminfinitive-structure])
 - Der Husten kommt sicher vom Rauchen. \
   (Governed prepositional subordination, [@sec:zuminfinitive-subordination])
 - Der Senior kommt täglich zum Schwimmen. \
