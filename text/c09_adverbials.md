@@ -9,7 +9,7 @@ a. Ich verhalte mich tapfer.
 b. ^* Ich verhalte mich.
 :::
 
-Yet, adverbials cast an even wider net. There are various diatheses in which an obligatory adverbial is introduced, like ~~anticausatives~~ [@next b], see [@sec:adverbial-reflexive-transitive-anticausative], ~~applicatives~~ [@next c], see [@sec:adverbial-applicative], and even a few incidental ~~antipassives~~ [@next d], see [@sec:adverbial-antipassive-reflexive].
+Yet, adverbials cast an even wider net. There are various diatheses in which an obligatory adverbial is introduced, like anticausatives [@next b], see [@sec:adverbial-reflexive-transitive-anticausative], applicatives [@next c], see [@sec:adverbial-applicative], and even a few incidental antipassives [@next d], see [@sec:adverbial-antipassive-reflexive].
 
 ::: ex
 a. Ich fahre den Lastwagen. \
