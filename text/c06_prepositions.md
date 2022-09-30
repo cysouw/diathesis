@@ -32,7 +32,7 @@ Prepositional phrases in German are partly governed arguments and partly non-gov
 Der König wartet auf seinem alten Thron auf seinen neuen Thron.
 :::
 
-There are fifteen local groups of diatheses that seem prominent enough to be given a German name. I propose the following names for these:
+There are fifteen diatheses that seem prominent enough to be given a German name. I propose the following names for these:
 
 - ~~[ADJ › SBJ › Ø] Instrumentsubjektivierung~~ (see [@sec:prepositions-intransitive-preposition-anticausative] ff.)
 - ~~[PBJ › SBJ › Ø] Kreationsubjektivierung~~ (see [@sec:prepositions-fabricative-accusative] ff.)
@@ -1740,12 +1740,13 @@ Das allgemeine Völkerrecht befreit die Person des feindlichen Regenten.^[~~DWDS
 
 ### [ –P | DP ] Dative addition+governed preposition
 
-This alternation allows for either a dative to be present or not with verbs that have no nominative argument, but with a governed preposition, like *liegen an* 'to depend on'. Consequently, a valency-simulating pronoun *es* is present in all alternants.
+This alternation allows for either a dative to be present or not with verbs that have no nominative argument, but with a governed preposition, like *liegen an* 'to depend on' [@next]. Consequently, a valency-simulating pronoun *es* is present in all alternants. The only example I have been able to find without a valency-simulating *es* is [@next d].
 
 ::: ex
 - Es liegt am Geld.
 - Es liegt mir viel am Geld.
-- Es liegt mir daran, dass du es erfährst.
+- Es liegt mir viel daran, dass du es erfährst.
+- Mir liegt viel an deiner Anwesenheit.
 :::
 
 #### Attested verbs {.unnumbered}
@@ -2042,7 +2043,7 @@ b. Ich wasche den Fleck aus meiner Hose. \
 c. ^* Ich wasche den Fleck.
 :::
 
-The result of this diathesis [@last b] is a caused-motion construction, similar to the diatheses as described in [@sec:prepositions-intransitive-location-as-result; sec:prepositions-transitive-location-as-result]. However, this is a completely different diathesis because the object is changed. The new accusative object always is a part of the original object [called a "partitive" interpretation in @levin1993: 53], hence the term *Teil* in the German name. The exact reverse diathesis is attested with preverbs (see [@sec:preverb-location-antiresultative]).
+The result of this diathesis [@last b] is a caused-motion construction, similar to the diatheses as described in [@sec:prepositions-intransitive-location-as-result; @sec:prepositions-transitive-location-as-result]. However, this is a completely different diathesis because the object is changed. The new accusative object always is a part of the original object [called a "partitive" interpretation in @levin1993: 53], hence the term *Teil* in the German name. The exact reverse diathesis is attested with preverbs (see [@sec:preverb-location-antiresultative]).
 
 These verbs, like *kämmen* 'to comb' [@next a,b] also allow for subsequent alternation, namely [@next c] to raise a possessor from the prepositional phrase to a dative (see [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative]), and then even make this dative self-inflicting reflexive [@next d]
 
