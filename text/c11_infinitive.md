@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Constructions with a light verb and an infinitive are common in German. Most familiar to German speakers, infinitives are used in combination with modal verbs like *müssen* or *wollen* [@next a], see [@sec:infinitive-modals]. More intriguingly, infinitives are used with *sein* to express the rationale for the absence of the subject [@next b], see [@sec:infinitive-sein-absentive]. Less widely discussed is a construction of *haben* with an infinitive and an adverbial to express the fortunate circumstances in which the subject finds itself [@next c], see [@sec:infinitive-haben-adverbial].
+Constructions with a light verb and an infinitive are common in German. Most familiar to German speakers are infinitives used in combination with modal verbs like *müssen* or *wollen* [@next a], see [@sec:infinitive-modals]. More intriguingly, infinitives can be used with *sein* to express the rationale for the absence of the subject [@next b], see [@sec:infinitive-sein-absentive]. Less widely discussed is a construction of *haben* with an infinitive and an adverbial to express the fortunate circumstances in which the nominative subject finds itself [@next c], see [@sec:infinitive-haben-adverbial].
 
 ::: ex
 - Die Schülerin muss/darf/will/kann die Pflanzen gießen.
@@ -10,7 +10,7 @@ Constructions with a light verb and an infinitive are common in German. Most fam
 - Die Schülerin hat gut reden.
 :::
 
-All the examples above are constructions that do not show any role-remapping, i.e. they do not exhibit diathesis. In contrast, there are also various light verbs that induce a diathesis when used together with an infinitive. For example, *lassen* induces a causative/permissive diathesis [@next a], see [@sec:infinitive-lassen-causative]. Likewise widely acknowledged are verbs of perception like *sehen* that give rise to an experiencer construction [@next b], see [@sec:infinitive-sehen]. Less widely discussed is the diathesis of *haben* with an infinitive of a position verb, expressing that the nominative subject is some kind of agent/experiencer mixture [@next c], see [@sec:infinitive-haben].
+All these examples mentioned above are constructions that do not show any role-remapping, i.e. they exhibit epithesis. In contrast, there are also various light verbs that induce a diathesis when used together with an infinitive. For example, *lassen* induces a causative/permissive diathesis [@next a], see [@sec:infinitive-lassen-causative]. Likewise widely acknowledged are verbs of perception like *sehen* that give rise to an experiencer construction [@next b], see [@sec:infinitive-sehen]. Less widely discussed is the diathesis of *haben* with an infinitive of a position verb, expressing that the nominative subject is some kind of agent/experiencer mixture [@next c], see [@sec:infinitive-haben].
 
 ::: ex
 - Die Lehrerin lässt den Schüler ihre Pflanzen gießen.
@@ -251,7 +251,7 @@ b. Das Bärenfleisch schmeckt ihm. \
    Er lässt sich das Bärenfleisch schmecken.^[~~DWDS~~: Die Zeit, 22.11.1985, Nr. 48]
 :::
 
-Finally, with agentive intransitive verbs like *wandern* 'to hike' [@nnext a], this diathesis leads to a special diathesis, called *Möglichkeitsbewertung* here. The nominative subject is removed and an evaluative adverbial is necessary, like *gut* 'well' [@next a]. Although the nominative is removed, this construction often occurs without a valency-simulating pronoun *es*. Verbs with a governed preposition, like *warten auf* 'to wait for' [@nnext b] are slightly different as (i) the governed preposition is retained, (ii) the valency simulating *es* is impossible and (iii) no evaluative adverbial is necessary.
+Finally, with agentive intransitive verbs like *wandern* 'to hike' [@nnext a], the *lassen+Infinitiv+Reflexiv* construction leads to a special diathesis, called *Möglichkeitsbewertung* here. The nominative subject is removed and an evaluative adverbial is necessary, like *gut* 'well' [@next a]. Although the nominative is removed, this construction often occurs without a valency-simulating pronoun *es*. Verbs with a governed preposition, like *warten auf* 'to wait for' [@nnext b] are slightly different as (i) the governed preposition is retained, (ii) the valency simulating *es* is impossible and (iii) no evaluative adverbial is necessary.
 
 ::: ex
 ~~Möglichkeitsbewertung~~

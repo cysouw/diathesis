@@ -47,8 +47,6 @@ The grammatical category of aspect is commonly defined as linguistic marking tha
 
 The ~~Perfekt~~ (full discussion in [@sec:participles-haben-perfect] and subsequent sections) is the name from the German tradition for the *haben/sein+Partizip* construction [@next]. The light verbs *haben* and *sein* are used in almost complete complementary distribution with only few verbs that allow for both. The name *Perfekt* is developing into a misnomer because the *haben/sein+Partizip* construction is clearly not marking perfect aspect (see [@sec:participles-temporal-interpretation]). It appears to be slowly taking over the function of past marking in contemporary German. 
 
-There are two diathetical constructions that are structurally similar to the *Perfekt*, namely the *Zustandspassiv* (marked with *sein+Partizip*, see [@sec:summary-zustandspassiv]) and the *Pertinenzpassiv* (marked with *haben+Partizip* , see [@sec:summary-pertinenzpassiv]). From an aspectual point of view, these passive constructions are perfects.
-
 ::: ex
 a. Das Kind schläft. \
    Das Kind hat geschlafen.
@@ -56,9 +54,11 @@ b. Das Kind schläft ein. \
    Das Kind ist eingeschlafen.
 :::
 
+There are two diathetical constructions that are structurally similar to the *Perfekt*, namely the *Zustandspassiv* (marked with *sein+Partizip*, see [@sec:summary-zustandspassiv]) and the *Pertinenzpassiv* (marked with *haben+Partizip*, see [@sec:summary-pertinenzpassiv]). From an aspectual point of view, these passive constructions are perfects.
+
 ### *Inchoativ* (*los-*)
 
-The ~~Inchoativ~~ (full discussion in [@sec:adverbial-inchoative-los]) consists of the preverbial adjective *los-*, added as a separable verb particle with intransitive verbs, like *losradeln* 'to start biking' [@next]. This construction indicates that an activity starts. It is typically used with manner-of-movement verbs and manner-of-speaking verbs. However, it is in general applicable to all agentive intransitives. Originally, the adjective *los* means 'loose' in contemporary German. In that meaning it is used for example in the *Resultativ Delokativ* diathesis (see [@sec:summary-adverb-delokativ]). In contrast, the preverbial inchoative use of *los‑* is derived from an older usage meaning 'free'.
+The ~~Inchoativ~~ (full discussion in [@sec:adverbial-inchoative-los]) consists of the preverbial adjective *los-* added as a separable verb particle with intransitive verbs, like *losradeln* 'to start biking' [@next]. This construction indicates that an activity starts. It is typically used with manner-of-movement verbs and manner-of-speaking verbs. However, it is in general applicable to all agentive intransitives. Originally, the adjective *los* means 'loose' in contemporary German. In that meaning it is used in the *Resultativ Delokativ* diathesis (see [@sec:summary-adverb-delokativ]). In contrast, the preverbial inchoative use of *los‑* is derived from an older usage meaning 'free'.
 
 ::: ex
 - Er radelt täglich zur Schule.
@@ -68,7 +68,7 @@ The ~~Inchoativ~~ (full discussion in [@sec:adverbial-inchoative-los]) consists 
 
 ### *Kontinuativ* (*weiter-*)
 
-The ~~Kontinuativ~~ (full discussion in [@sec:adverbial-continuative-weiter]) consists of the preverbial adjective *weiter-*, added as a separable verb particle with intransitive and transitive verbs, like *weiterentwickeln* 'to develop further' [@next]. This construction indicates that an activity is continued. The stem *weiter* is originally the comparative form of the adjective *weit* 'far' and it has various adverbial uses in contemporary German, meaning for example 'spatially further' or 'still'. However, these adverbial uses can syntactically be clearly separated from the preverbial continuative aspect marker presented here.
+The ~~Kontinuativ~~ (full discussion in [@sec:adverbial-continuative-weiter]) consists of the preverbial adjective *weiter-*, added as a separable verb particle with intransitive and transitive verbs, like *weiterentwickeln* 'to develop further' [@next]. This construction indicates that an activity is being continued. The stem *weiter* is originally the comparative form of the adjective *weit* 'far' and it has various adverbial uses in contemporary German, meaning for example 'spatially further' or 'still'. However, these adverbial uses can syntactically be clearly separated from the preverbial continuative aspect marker presented here.
 
 ::: ex
 - Der Forscher entwickelt eine neue Technik.
@@ -88,7 +88,7 @@ The ~~Habituativ~~ (full discussion in [@sec:zuinfinitive-pflegen]) is an aspect
 
 ### *Progressiv* (*sein+am‑In­fi­ni­tiv*) {#sec:summary-progressiv}
 
-The ~~Progressiv~~ (full discussion in [@sec:zuminfinitive-sein-am]) consists of *sein* with the prepositional *am‑In­fi­ni­tiv*. In this construction the infinitive is clearly a nominalised form of the verb, so it is regularly (though not universally) written with a capital letter in German orthography [@next]. The *sein+am‑In­fi­ni­tiv* expresses a progressive aspect, though its usage is frowned upon in a formal written register and a simple *Präsenz* is preferred, possibly using adverbs for disambiguation of the aspectual structure. In spoken language the *sein+am‑In­fi­ni­tiv*  appears to be pervasive, though.
+The ~~Progressiv~~ (full discussion in [@sec:zuminfinitive-sein-am]) consists of *sein* with the prepositional *am‑In­fi­ni­tiv*. In this construction the infinitive is clearly a nominalised form of the verb, so it is regularly (though not universally) written with a capital letter in German orthography [@next]. The *sein+am‑In­fi­ni­tiv* expresses a progressive aspect, though its usage is frowned upon in a formal written register and a simple *Präsens* is preferred, possibly using adverbs for disambiguation of the aspectual structure. In spoken language the *sein+am‑In­fi­ni­tiv*  appears to be pervasive, though.
 
 ::: ex
 - Das Kind jammert.
@@ -117,7 +117,7 @@ The ~~Kontinuativprogressiv~~ (full discussion in [@sec:zuminfinitive-bleiben-am
 
 ### *Zustandskontinuativ* (*bleiben+In­fi­ni­tiv*)
 
-The ~~Zustandskontinuativ~~ (full discussion in [@sec:infinitive-bleiben]) is constructed with *bleiben* and an infinitive. This construction and the next three construction all express different ways in which a state is continued. The current *Zustandskontinuativ* is frequently used with state verbs like *stehen* 'to stand', *liegen* 'to lie', *sitzen* 'to sit', etc. [@next a,b]. These combinations are so prominent that their infinitives are usually written as single words in German orthography, i.e. *stehenbleiben, liegenbleiben, sitzenbleiben*. These constructions are often even listed as single verbs in German dictionaries. Yet, there is no grammatical reason to give these combinations a special status compared to other constructions of *bleiben+In­fi­ni­tiv* that are usually separated by a space, like for example *wohnen bleiben* 'to remain living somewhere'[@next c].
+The ~~Zustandskontinuativ~~ (full discussion in [@sec:infinitive-bleiben]) is constructed with *bleiben* and an infinitive. This construction and the next three construction all express different ways in which a state is continued. The current *Zustandskontinuativ* is frequently used with state verbs like *stehen* 'to stand', *liegen* 'to lie' or *sitzen* 'to sit' [@next a,b]. These combinations are so prominent that their infinitives are usually written as single words in German orthography, i.e. *stehenbleiben, liegenbleiben, sitzenbleiben*. These constructions are often even listed as single verbs in German dictionaries. Yet, there is no grammatical reason to give these combinations a special status compared to other constructions of *bleiben+In­fi­ni­tiv* that are usually separated by a space, like for example *wohnen bleiben* 'to remain living somewhere'[@next c].
 
 ::: ex
 a. Er liegt im Bett.
@@ -145,7 +145,7 @@ The ~~Permissivkontinuativ~~ (full discussion in [@sec:participles-lassen-durati
 
 ### *Kausativkontinuativ* (*halten+Partizip*) {#sec:summary-kausativkontinuativ}
 
-The ~~Kausativkontinuativ~~ (full discussion in [@sec:participles-halten-durative]) uses the light verb *halten* with a participle [@next]. It expresses an explicit action by the nominative subject to keep a finished state in place. The same light verb is also used in the related *Kontinuitäts­kausativ* (constructed as *halten+am‑In­fi­ni­tiv*, see [@sec:summary-kontinuitatskausativ]).
+The ~~Kausativkontinuativ~~ (full discussion in [@sec:participles-halten-durative]) uses the light verb *halten* with a participle [@next]. It expresses an explicit action by the nominative subject to keep a finished state in place. The same light verb *halten* is also used in the related *Kontinuitäts­kausativ* (constructed as *halten+am‑In­fi­ni­tiv*, see [@sec:summary-kontinuitatskausativ]).
 
 ::: ex
 a. Ich schließe die Tür.
@@ -187,7 +187,7 @@ b. Ich komme meinen Freund besuchen.
 
 The ~~Absentivfrequentativ~~ (full discussion in [@sec:zuminfinitiv-sein-beim]) is a variant of the *Absentiv* (see [@sec:summary-absentiv]). It also uses the verb *sein*, but now with a *beim‑In­fi­ni­tiv* [@next]. It still expresses that the subject is not present (absentive), but there is a an extra semantic aspect added, namely that the activity if performed regularly or habitually (frequentative). 
 
-Parallel to the previous *Absentiv*, *Abitiv* and *Aditiv* there also exist frequentative variants of all these three constructions using different prepositions in each, namely *sein beim*, *gehen/fahren zum* and *kommen vom* (discussed subsequently).
+Parallel to the previous *Absentiv*, *Abitiv* and *Aditiv* there also exist frequentative variants of all these three constructions using different prepositions in each, namely *sein+beim*, *gehen/fahren+zum* and *kommen+vom* (discussed subsequently).
 
 ::: ex
 - Ich arbeite.
@@ -214,7 +214,7 @@ Note that the preposition used with *kommen* is *vom*. There exists also a const
 - Er kommt vom Einkaufen.
 :::
 
-### *Aditivprogressiv* (*kommen+(an-)+Partizip*)
+### *Aditivprogressiv* (*kommen+(an‑)+Partizip*)
 
 The ~~Aditivprogressiv~~ (full discussion in [@sec:participles-kommen]) expresses both a temporal aspect (progressive) and a spatial aspect (aditive). It uses the light verb *kommen* with a participle [@next a] to convey that the subject is approaching while performing a specific kind of movement. A frequent variant uses a participle with the prefix *an-*, even when the finite verb with this prefix does not exist. For example, the verb *anrennen* does not exist, only the participle *angerannt* exist in the construction with the light verb *kommen* [@next b]. Note that there does not exists any symmetrically opposing abitive construction with *gehen*.
 
@@ -314,7 +314,7 @@ b. Der Zahnarzt kriegt den Zahn gezogen. \
 
 ### *Fortunativ* (*haben+gut/leicht+In­fi­ni­tiv*)
 
-The ~~Fortunativ~~ (from Lat. *fortunatus* 'blessed, lucky', full discussion in [@sec:infinitive-haben-adverbial]) consists of *haben* with an infinitive verb and an obligatory adverbial. It is only possible with intransitive verbs. The adverbial is almost always positiv, usually *leicht* 'easy' [@next a] or *gut* 'well' [@next b]. This construction expresses that the subject is in a fortunate situation to perform the action described by the verb. This contrasts to the closely related constructions with *sein* (see [@sec:summary-bewertungszustand]) and *lassen* (see [@sec:summary-unpersonlicher-moglichkeitspassiv]) that occur both with positiv and negativ evaluations.
+The ~~Fortunativ~~ (from Lat. *fortunatus* 'blessed, lucky', full discussion in [@sec:infinitive-haben-adverbial]) consists of *haben* with an infinitive and an obligatory adverbial. It is only possible with intransitive verbs. The adverbial is almost always positiv, usually *leicht* 'easy' [@next a] or *gut* 'well' [@next b]. This construction expresses that the subject is in a fortunate situation to perform the action described by the verb. This contrasts to the closely related constructions with *sein* (see [@sec:summary-bewertungszustand]) and *lassen* (see [@sec:summary-unpersonlicher-moglichkeitspassiv]) that occur both with positiv and negativ evaluations.
 
 ::: ex
 a. Er lacht. \
