@@ -137,7 +137,7 @@ c. Gestern hat es riesengroße Körner gehagelt.
 
 ### [ N ] Nominative {#sec:case-nominative}
 
-Some verbs only allow a nominative argument, which necessarily also shows agreement with the finite verb. Such verbs are traditionally called 'intransitive'. The verbs discussed in this section are strictly intransitive, in that they do not allow for any other case marked arguments or governed prepositions (see [@sec:prepositions-delimiting-governed-prepositional-phrases]). Intransitive verbs, of course, allow for additional non-governed prepositional phrases, e.g. locational [@next a] or temporal phrases [@next b], instrumental/comitative phrases with *mit* [@next c,d], or beneficiary/goal phrases with *für* [@next e,f].
+Some verbs only allow a nominative argument, which necessarily also shows agreement with the finite verb. Such verbs are traditionally called 'intransitive'. The verbs discussed in this section are strictly intransitive, in that they do not allow for any other case marked arguments or governed prepositions (see [@sec:prepositions-delimiting-governed-prepositional-phrases]). Intransitive verbs, of course, allow for additional non-governed prepositional phrases, e.g. locational [@next a] or temporal [@next b], instrumental/comitative with *mit* [@next c,d], or beneficiary/goal with *für* [@next e,f].
 
 ::: ex
 a. Er reist immer in die Berge.
@@ -1060,7 +1060,7 @@ d. Er hat den Staub geatmet.
 e. Er hat den Tatort geschaut.
 :::
 
-A similar phenomenon is attested with 'manner of speaking' verbs like *stottern* 'to stutter' [@next a]. Such verbs can take an accusative object with a meaning like 'to utter something in a stuttering manner' [@next b]. Note that by adding a possessed prepositional phrase [@next c], see [@sec:prepositions-intransitive-location-as-result], it is even possible to use a possessor-dative alternation [@next d], see  [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative], leading to an apparently 'intransitive' verb with a dative, accusative and a non-droppable locational argument.
+A similar phenomenon is attested with 'manner of speaking' verbs like *stottern* 'to stutter' [@next a]. Such verbs can take an accusative object with a meaning like 'to utter something in a stuttering manner' [@next b]. Note that by adding a possessed prepositional phrase [@next c], see [@sec:prepositions-intransitive-location-as-result], it is even possible to use a possessor-dative alternation [@next d], see  [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative], leading to an apparently 'intransitive' verb with a dative, accusative and an obligatory location argument.
 
 ::: ex
 a. Er stotterte vor Aufregung

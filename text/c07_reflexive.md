@@ -915,7 +915,7 @@ In specific contexts, some ditransitive verbs allow for either a dative reflexiv
 a. Ich erkläre es mir so.
 b. Ich erkläre mich dir.
 c. Ich schreibe Gedichte, denn ich will mich mir selbst erklären.
-d. Es ist bekannt, dass sie sich sich selbst erklären will.
+d. (Es ist bekannt, dass) sie sich sich selbst erklären will.
 e. Objektivität und eigenständiges Weltbewußtsein erlangt der Mensch nicht dadurch, daß er seinen Willen zum Handeln aufgibt und seine Wertungen suspendiert, sondern dadurch, daß er sich sich selbst gegenüberstellt und prüft.^[~~DWDS~~: Mannheim, Karl: Ideologie und Utopie, Frankfurt a.M.: Klostermann 1929, S. 43.]
 :::
 
@@ -1365,7 +1365,7 @@ d. ^* Meine Wünsche erfüllen sich mir.
 
 ### [ NAL | –NL ] Reflexive anticausative+location {#sec:reflexive-anticausative-location}
 
-Some (but not all) verbs with a caused-motion alternation ([@sec:prepositions-transitive-location-as-result]), like *ziehen* 'to pull' [@next a,b] allow for a reflexive anticausative [@next c]. This results in an accusative reflexive pronoun with an obligatory locational phrase. Leaving out the location is ungrammatical [@next d].
+Some (but not all) verbs with a caused-motion alternation ([@sec:prepositions-transitive-location-as-result]), like *ziehen* 'to pull' [@next a,b] allow for a reflexive anticausative [@next c]. This results in an accusative reflexive pronoun with an obligatory location phrase. Leaving out the location is ungrammatical [@next d].
 
 ::: ex
 a. Der Bauer hat den Pflug gezogen.
@@ -1702,7 +1702,7 @@ Ach, Johanna, ich glaube, ich habe mich verschlafen.^[~~DWDS~~: Fontane, Theodor
 
 ### [ NAL | N–L ] Reflexive accusative drop+locative
 
-Similar to the previous endoreflexive alternation, the alternation with *werfen* 'to throw' [@next a,b] acts on the body. However, additionally a locational phrase needs to be present [@next c]. However, the reflexive construction [@next b] looks very much like self-inflicted reflexive reference. Indeed, the conjunction-test proposed in the previous section seems to be perfectly possible here [@next d]. It needs more research to decide whether this alternation is to be considered as a separate diathesis.
+Similar to the previous endoreflexive alternation, the alternation with *werfen* 'to throw' [@next a,b] acts on the body. However, additionally a location phrase needs to be present [@next c]. However, the reflexive construction [@next b] looks very much like self-inflicted reflexive reference in this example. Indeed, the conjunction test proposed in the previous section seems to be perfectly possible here [@next d]. It needs more research to decide whether this alternation is to be considered as a separate diathesis, or whether this is just regular self-inflicting reflexive reference.
 
 ::: ex
 a. Er wirft die Kleider aufs Bett.
@@ -1860,7 +1860,7 @@ b. Ich bin durch den Garten getanzt.
 c. ^* Ich bin getanzt.
 :::
 
-The same diathesis is also attested with non-movement verbs, like *träumen* 'to dream' [@next a,b], but then an additional reflexive pronoun is obligatory [@next c], next to the obligatory locational phrase [@next d]. This construction expresses that by performing the verb (i.e. by dreaming) a movement is performed as described in the locational phrase (i.e. going to New York).
+The same diathesis is also attested with non-movement verbs, like *träumen* 'to dream' [@next a,b], but then an additional reflexive pronoun is obligatory [@next c], next to the obligatory location phrase [@next d]. This construction expresses that by performing the verb (i.e. by dreaming) a movement is performed as described in the location phrase (i.e. moving to New York).
 
 ::: ex
 a. Ich träume.

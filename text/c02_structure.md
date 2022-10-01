@@ -8,7 +8,7 @@ A diathesis (as defined here) is an alternation between two clausal construction
 
 A side-effect of this approach is that 'active' is not a diathesis, but simply the unmarked counterpart of a diathetical operation. Even stronger, I will refrain from using the term 'active' because it immediately conjures up 'passive' as its antithesis. This opposition is too much of an oversimplification as 'passive' is just one of the hundreds of possible diatheses. Also, the 'active' does not necessarily describes an action, so content-wise this term is also ill-fitting. As an alternative, I will use the term ~~basic clause~~ as the unmarked base of comparison for all clause alternations. A basic clause is a clause with a single (finite) verb from, either in the German *Präsens* or *Präteritum* tense.^[Strictly speaking, a basic clause can also be a clause with a single finite verb in the *Konjunktiv I* or *Konjunktiv II*. However, because these are rather rare nowadays I have hidden this possibility in this footnote.] All other verb forms, including the *Perfekt* and the other traditional German tense-aspect distinctions, are all ~~derived clauses~~, i.e. the result of some kind of clause alternations. A clause alternation without diathesis will be called ~~epithesis~~, from Greek *ἐπίθεσις* 'placement upon, imposition'. Epithesis is grammatical marking 'on top of' a basic clause.^[There appears to be a rarely used alternative meaning of the term 'epithesis' in linguistics to indicate the addition of a sound to the end of the word, i.e. a special kind of epenthesis, see for example <http://www.websters1913.com/words/Epithesis>.] A summary of all major epithetical constructions will be presented in Chapter [-@sec:epithesis].
 
-The actual linguistic marking of a diathesis (for example using verbal morphology or auxiliaries) is called 'grammatical voice' in Zuñiga & Kittilä [-@zuniga2019: 4]. This usage of the term 'voice' is rather unconventional, but I wholeheartedly subscribe to their proposal. The crux of this approach is that a 'voice' is the language-specific linguistic expression used to mark the diathesis. For example, a diathesis in German can be 'voiced' by a reflexive pronoun (Chapter [-@sec:reflexive]) or by a light verb with a *zu‑Infinitiv* (Chapter [-@sec:zuinfinitive]), and so on. The different kinds of grammatical voice in German are used here as the central organisational characteristic for the separation of the data chapters. An overview of the different German voices is given in [@sec:intro-voice].
+The actual linguistic marking of a diathesis (for example using verbal morphology or auxiliaries) is called 'grammatical voice' in Zuñiga & Kittilä [-@zuniga2019: 4]. This usage of the term 'voice' is rather unconventional, but I wholeheartedly subscribe to their proposal. The crux of this approach is that a 'voice' is the language-specific linguistic expression used to mark the diathesis. For example, a diathesis in German can be 'voiced' by a reflexive pronoun (Chapter [-@sec:reflexive]) or by a light verb with a *zu‑In­fi­ni­tiv* (Chapter [-@sec:zuinfinitive]), and so on. The different kinds of grammatical voice in German are used here as the central organisational characteristic for the separation of the data chapters. An overview of the different German voices is given in [@sec:intro-voice].
 
 Zuñiga and Kittilä use the term 'transitivity' [-@zuniga2019: 3; following @hopper1980] somewhat confusingly to describe the (recurrent) connection between a diathetical operation and semantic effects on the meaning of the clause. For example, when an accusative argument is remapped onto a prepositional phrase, this often implies less involvement of the participant. The details of such semantic effects for each of the hundreds of diatheses in this book is an important and fascinating topic, for which I can currently only offer limited insights throughout. In practice, I assume that each diathesis as described here has some kind of semantic effect, but the details of these effect need much more detailed research, which has to be provided by subsequent work. Wherever I can, I will observe tendencies and propose hypotheses for such future research.
 
@@ -141,8 +141,8 @@ In a very limited set of constructions the expected valency-simulating *es* is n
 
 - [@next c] impersonal *werden+Partizip*, see [@sec:participles-werden-impersonal-passive]
 - [@next d] impersonal *lassen+Infinitiv+Reflexiv*, see [@sec:infinitive-lassen-reflexive-intransitive]
-- [@next e] impersonal *sein+Infinitiv*, see [@sec:infinitive-sein-adverbial]
-- [@next f] impersonal *sein+zu‑Infinitiv*, see [@sec:zuinfinitive-sein-impersonal]
+- [@next e] impersonal *sein+In­fi­ni­tiv*, see [@sec:infinitive-sein-adverbial]
+- [@next f] impersonal *sein+zu‑In­fi­ni­tiv*, see [@sec:zuinfinitive-sein-impersonal]
 
 ::: ex
 a. Heute ist mir kalt.
@@ -162,7 +162,7 @@ b. Ich meine es ernst.
 
 ### Adjuncts
 
-Adjuncts, the counterparts of arguments, are phrases that are not specifically induced by the main verb of a clause. Typically, such adjuncts are adverbial prepositional phrases, see [@sec:prepositions-definition-non-governed]. Just like with arguments, adjunct status should not be linked to a lexical verb itself, but to the clause construction in which it is used. For example, the verb *tanzen* 'to dance' is typically considered to be an intransitive verb with optional (adjunct) locational prepositional phrases [@next a,b]. However, there is a crucial difference between the two locations in these two examples, see [@sec:prepositions-manner-of-movement]. The static location *im Saal* 'in the hall' [@next a] remains optional in the perfect (with auxiliary *haben*), see [@next c,d], while the dynamic location *in den Saal* 'into the hall' becomes obligatory in the perfect (with auxiliary *sein*), see [@next e,f]. So, the obligatory location in [@next e] is an utterance argument (and as a consequence, the role of 'path' is a lexical role of such verbs of movement like *tanzen*).
+Adjuncts, the counterparts of arguments, are phrases that are not specifically induced by the main verb of a clause. Typically, such adjuncts are adverbial prepositional phrases, see [@sec:prepositions-definition-non-governed]. Just like with arguments, adjunct status should not be linked to a lexical verb itself, but to the clause construction in which it is used. For example, the verb *tanzen* 'to dance' is typically considered to be an intransitive verb with optional (adjunct) location prepositional phrases [@next a,b]. However, there is a crucial difference between the two locations in these two examples, see [@sec:prepositions-manner-of-movement]. The static location *im Saal* 'in the hall' [@next a] remains optional in the perfect (with auxiliary *haben*), see [@next c,d], while the dynamic location *in den Saal* 'into the hall' becomes obligatory in the perfect (with auxiliary *sein*), see [@next e,f]. So, the obligatory location in [@next e] is an utterance argument (and as a consequence, the role of 'path' is a lexical role of such verbs of movement like *tanzen*).
 
 ::: ex
 a. Ich tanze (im Saal).
@@ -234,21 +234,21 @@ a. Ich habe einen Brief geschrieben.
 b. Der Brief wurde geschrieben.
 :::
 
-The next three chapters describe different combinations of light verbs with lexical verbs in the infinitive. Chapter [-@sec:infinitive] discusses light verbs with straight infinitives, like the *lassen+Infinitiv* causative [@next]. 
+The next three chapters describe different combinations of light verbs with lexical verbs in the infinitive. Chapter [-@sec:infinitive] discusses light verbs with straight infinitives, like the *lassen+In­fi­ni­tiv* causative [@next]. 
 
 ::: ex
 a. Ich wasche meine Kleider.
 b. Sie lässt mich meine Kleider waschen.
 :::
 
-Chapter [-@sec:zuinfinitive] investigates light verbs with *zu* plus an infinitive, like the *sein+zu‑Infinitiv* passive [@next]. The combination of *zu* with an infinitive is arguably completely grammaticalised and is considered here to be yet another non-finite verb form of German, alongside *Partizip* and *Infinitiv*. I propose to call it the *zu-Infinitiv*.
+Chapter [-@sec:zuinfinitive] investigates light verbs with *zu* plus an infinitive, like the *sein+zu‑In­fi­ni­tiv* passive [@next]. The combination of *zu* with an infinitive is arguably completely grammaticalised and is considered here to be yet another non-finite verb form of German, alongside *Partizip* and *In­fi­ni­tiv*. I propose to call it the *zu-In­fi­ni­tiv*.
 
 ::: ex
 a. Ich führe einen Hund an der Leine.
 b. Ein Hund ist an der Leine zu führen.
 :::
 
-Finally, Chapter [-@sec:zuminfinitive] looks at the combinations of prepositions, article and an infinitive, like the *halten+am‑Infinitiv* causative [@nnext]. In such constructions, the preposition and article are obligatorily fused (*an*+*dem*>*am*) and this fused combination cannot be separated from the infinitive. Such completely grammaticalised constructions appear to be rather recent in German and are often considered substandard. Only a few of such combinations pass all the tests for complete grammaticalisation. When all tests apply, then I consider the combination of preposition+article+infinitive to be yet another non-finite verb form of German, alongside *Partizip*, *Infinitiv* and *zu-Infinitiv*. I propose to call it the *Präpositionsinfinitiv*.
+Finally, Chapter [-@sec:zuminfinitive] looks at the combinations of prepositions, article and an infinitive, like the *halten+am‑In­fi­ni­tiv* causative [@nnext]. In such constructions, the preposition and article are obligatorily fused (*an*+*dem*>*am*) and this fused combination cannot be separated from the infinitive. Such completely grammaticalised constructions appear to be rather recent in German and are often considered substandard. Only a few of such combinations pass all the tests for complete grammaticalisation. When all tests apply, then I consider the combination of preposition+article+infinitive to be yet another non-finite verb form of German, alongside *Partizip*, *In­fi­ni­tiv* and *zu-In­fi­ni­tiv*. I propose to call it the *Präpositions­In­fi­ni­tiv*.
 
 ::: ex
 a. Das Feuer brennt.
@@ -358,7 +358,7 @@ b. Der Lehrer will die Aufgabe gelöst haben. \
    +> *wollen* modal = Der Lehrer will die Aufgabe gelöst haben. (cf. [-@sec:infinitive-modals])
 :::
 
-With unmarked ('covert') diatheses such stacks can sometimes be tricky to tease apart. As an example, consider the arguably somewhat artificially constructed example in [@next] using the verb *schneiden* 'to cut'. It starts off in [@next a] as a basic transitive construction with a nominative and accusative argument. Yet, after various twists and turns it ends up on [@next f] with a nominative, an accusative, a dative and an obligatory locational prepositional phrase, while the original agent *Arzt* is not even expressed.
+With unmarked ('covert') diatheses such stacks can sometimes be tricky to tease apart. As an example, consider the arguably somewhat artificially constructed example in [@next] using the verb *schneiden* 'to cut'. It starts off in [@next a] as a basic transitive construction with a nominative and accusative argument. Yet, after various twists and turns it ends up on [@next f] with a nominative, an accusative, a dative and an obligatory location prepositional phrase, while the original agent *Arzt* is not even expressed.
 
 ::: ex
 a. Der Arzt schneidet den Nagel des Patienten.
@@ -405,7 +405,7 @@ a. Ich fasse einen Entschluss.
 b. Ich befasse mich mit dem Entschluss.
 :::
 
-Also some light verb alternations show fixed stacks. For example, there is a very widespread causative diathesis using the light verb *lassen* with an infinitive [@next b], see [@sec:infinitive-lassen-causative]. Additionally, the combination of *lassen+Infinitiv* and a reflexive pronoun leads to a passive alternation [@next c], which does not make sense as being derived from the causative [@next b]. It seems better to consider the combination of *lassen+Infinitiv+Reflexiv* as a fixed stack, see [@sec:infinitive-lassen-reflexive-passive].
+Also some light verb alternations show fixed stacks. For example, there is a very widespread causative diathesis using the light verb *lassen* with an infinitive [@next b], see [@sec:infinitive-lassen-causative]. Additionally, the combination of *lassen+In­fi­ni­tiv* and a reflexive pronoun leads to a passive alternation [@next c], which does not make sense as being derived from the causative [@next b]. It seems better to consider the combination of *lassen+Infinitiv+Reflexiv* as a fixed stack, see [@sec:infinitive-lassen-reflexive-passive].
 
 ::: ex
 a. Der Schüler löst die Aufgabe.
@@ -586,7 +586,7 @@ b. Hier wird getanzt.
 c. ^* Hier wird es getanzt.
 :::
 
-{#par:demotive} A different kind of isolated subject diathesis is subject demotion of the nominative subject to a prepositional phrase. An example is the *geben+zu‑Infinitiv* [@next], see [@sec:zuinfinitive-geben-demotion]. In this diathesis, the subject is demoted to an optional non-governed prepositional phrase ~~[SBJ › ADJ]~~. The demotion is the only role-remapping that is happening in this diathesis, so I propose to call such a diathesis a ~~Demotive~~.
+{#par:demotive} A different kind of isolated subject diathesis is subject demotion of the nominative subject to a prepositional phrase. An example is the *geben+zu‑In­fi­ni­tiv* [@next], see [@sec:zuinfinitive-geben-demotion]. In this diathesis, the subject is demoted to an optional non-governed prepositional phrase ~~[SBJ › ADJ]~~. The demotion is the only role-remapping that is happening in this diathesis, so I propose to call such a diathesis a ~~Demotive~~.
 
 ::: ex
 ~~Demotive [SBJ › ADJ]~~
@@ -683,7 +683,7 @@ a. Der Tisch brennt.
 b. Ich verbrenne den Tisch.
 :::
 
-{#par:experientive} The *sehen+Infinitiv* diathesis [@next], see [@sec:infinitive-sehen], adds a new nominative subject and the old nominative is turned into an accusative. This diathesis is thus structurally an example of a novative ~~[Ø › SBJ › OBJ]~~. However, the newly added nominative is not a causer. The new role is better described as an experiencer, so this diathesis can semantically be called an ~~experientive~~. Similar constructions are also attested with light-verbs *hören*, *fühlen*, and *spüren*.
+{#par:experientive} The *sehen+In­fi­ni­tiv* diathesis [@next], see [@sec:infinitive-sehen], adds a new nominative subject and the old nominative is turned into an accusative. This diathesis is thus structurally an example of a novative ~~[Ø › SBJ › OBJ]~~. However, the newly added nominative is not a causer. The new role is better described as an experiencer, so this diathesis can semantically be called an ~~experientive~~. Similar constructions are also attested with light-verbs *hören*, *fühlen*, and *spüren*.
 
 ::: ex
 ~~Experientive novative [Ø › SBJ › OBJ]~~
@@ -701,7 +701,7 @@ a. Das Projekt scheitert.
 b. Ich finde das Projekt gescheitert.
 :::
 
-The *lassen+Infinitiv* diathesis [@next], see [@sec:infinitive-lassen-causative] is also structurally a novative ~~[Ø › SBJ › OBJ]~~. This diathesis has multiple possible interpretations, among them also a causative reading [@next]. However, in the example in [@nnext] the newly added nominative is allowing the action to happen, not causing it, so this diathesis can semantically be called a ~~permissive~~. This second interpretation typically happens with agentive intransitive predicates like *schlafen* 'to sleep', see [@sec:participles-restrictions]. However, note that in both examples the other interpretation is also possible, albeit only is specially crafted contexts. 
+The *lassen+In­fi­ni­tiv* diathesis [@next], see [@sec:infinitive-lassen-causative] is also structurally a novative ~~[Ø › SBJ › OBJ]~~. This diathesis has multiple possible interpretations, among them also a causative reading [@next]. However, in the example in [@nnext] the newly added nominative is allowing the action to happen, not causing it, so this diathesis can semantically be called a ~~permissive~~. This second interpretation typically happens with agentive intransitive predicates like *schlafen* 'to sleep', see [@sec:participles-restrictions]. However, note that in both examples the other interpretation is also possible, albeit only is specially crafted contexts. 
 
 ::: ex
 ~~Causative novative [Ø › SBJ › OBJ]~~
@@ -720,7 +720,7 @@ b. Ich lasse den Jungen schlafen. \
    (= Ich erlaube, dass der Junge weiter schläft.)
 :::
 
-Finally, the *lehren/helfen+Infinitiv* diathesis [@next], see [@sec:infinitive-lehren], is a novative in which the role of the new subject is more of an assistant than a real causative. Therefor it is called here an ~~assistive~~ novative. Note that both *lehren* and *helfen* can also be used with *zu‑Infinitiv*, but then the constructions are not coherent, so those constructions are not included among the diatheses.
+Finally, the *lehren/helfen+In­fi­ni­tiv* diathesis [@next], see [@sec:infinitive-lehren], is a novative in which the role of the new subject is more of an assistant than a real causative. Therefor it is called here an ~~assistive~~ novative. Note that both *lehren* and *helfen* can also be used with *zu‑In­fi­ni­tiv*, but then the constructions are not coherent, so those constructions are not included among the diatheses.
 
 ::: ex
 ~~Assistive novative [Ø › SBJ › OBJ]~~
@@ -780,7 +780,7 @@ a. Dein Verhalten wundert mich.
 b. Ich bewundere dein Verhalten.
 :::
 
-Much more widespread in German are diatheses in which a nominative/accusative construction is inverted into a dative/nominative construction. This is for example attested for the *bleiben+zu‑Infinitiv* diathesis [@next], see [@sec:zuinfinitive-bleiben]. Because dative and accusative are both classified here as ~~OBJ~~, this counts as an inversive diathesis. However, when a separation between core case (accusative) and non-core case (dative/genitive) would be pursued (see [@par:corecase]), then this diathesis would be an example of demotion. There are two remappings, namely down from ~~SBJ~~ to ~~non-core-OBJ~~ and up from ~~core-OBJ~~ to ~~SBJ~~. When non-core is taken as being lower on the macrorole hierarchy [@ex:macrorolehierarchy] then the biggest jump is the jump down, which is the definition of demotion (see [@sec:intro-remapping]). Instead of adding a completely new set of categories I propose to simply split ~~inversive~~ into two subtypes and call this phenomenon a ~~demoted inversive~~. 
+Much more widespread in German are diatheses in which a nominative/accusative construction is inverted into a dative/nominative construction. This is for example attested for the *bleiben+zu‑In­fi­ni­tiv* diathesis [@next], see [@sec:zuinfinitive-bleiben]. Because dative and accusative are both classified here as ~~OBJ~~, this counts as an inversive diathesis. However, when a separation between core case (accusative) and non-core case (dative/genitive) would be pursued (see [@par:corecase]), then this diathesis would be an example of demotion. There are two remappings, namely down from ~~SBJ~~ to ~~non-core-OBJ~~ and up from ~~core-OBJ~~ to ~~SBJ~~. When non-core is taken as being lower on the macrorole hierarchy [@ex:macrorolehierarchy] then the biggest jump is the jump down, which is the definition of demotion (see [@sec:intro-remapping]). Instead of adding a completely new set of categories I propose to simply split ~~inversive~~ into two subtypes and call this phenomenon a ~~demoted inversive~~. 
 
 ::: ex
 ~~Demoted inversive [OBJ › SBJ › OBJ]~~
@@ -789,7 +789,7 @@ a. Ich räume den letzten Schrank ein.
 b. Dieser letzte Schrank bleibt mir noch einzuräumen.
 :::
 
-The opposite ~~promoted inversive~~ promotes a dative/genitive into a nominative subject, and demotes the erstwhile nominative to an accusative. This is illustrated with the *haben+Infinitiv* diathesis in [@next], see [@sec:infinitive-haben].
+The opposite ~~promoted inversive~~ promotes a dative/genitive into a nominative subject, and demotes the erstwhile nominative to an accusative. This is illustrated with the *haben+In­fi­ni­tiv* diathesis in [@next], see [@sec:infinitive-haben].
 
 ::: ex
 ~~Promoted inversive [OBJ › SBJ › OBJ]~~
@@ -998,7 +998,7 @@ b. Er stotterte eine Entschuldigung. \
 
 #### Locatives & delocatives {#sec:intro-locative-delocative}
 
-A ~~locative diathesis [Ø › PBJ]~~ is a diatheses that adds an obligatory locational phrase to the clause. For example, the transitive *befehlen* 'to order' marks the ordered person as an accusative [@next a]. With a (directional) locative phrase *an die Front* 'to the frontline' the sentence obtains a caused-motion reading [@next b], see [@sec:prepositions-transitive-location-as-result]. Note that there is no profound association between such a *locative diathesis* and the widespread phenomenon of a *locative case*. Both terms simply use the term 'locative' to describe the fact that the marking of location is concerned. 
+A ~~locative diathesis [Ø › PBJ]~~ is a diatheses that adds an obligatory location phrase to the clause. For example, the transitive *befehlen* 'to order' marks the ordered person as an accusative [@next a]. With a (directional) locative phrase *an die Front* 'to the frontline' the sentence obtains a caused-motion reading [@next b], see [@sec:prepositions-transitive-location-as-result]. Note that there is no profound association between such a *locative diathesis* and the widespread phenomenon of a *locative case*. Both terms simply use the term 'locative' to describe the fact that the marking of location is concerned. 
 
 ::: ex
 ~~Locative (caused motion) [Ø › PBJ]~~

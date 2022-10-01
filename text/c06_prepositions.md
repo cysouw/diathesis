@@ -115,9 +115,9 @@ Identifying non-governed prepositional phrases
   are replaceable by proforms *deshalb/darum* 'therefore'.
 :::
 
-### Locational prepositional phrases
+### Location prepositional phrases
 
-As a general rule, locational prepositional phrases are not governed by a verb. However, there are a few verbs that obligatory need a local preposition [@next], see [@sec:prepositions-obligatory-local-accusative] and [-@sec:reflexive-obligatory-local].
+As a general rule, location prepositional phrases are not governed by a verb. However, there are a few verbs that obligatory need a local preposition [@next], see [@sec:prepositions-obligatory-local-accusative] and [-@sec:reflexive-obligatory-local].
 
 ::: ex
 a. Er steckt den Zettel in die Tasche.
@@ -205,7 +205,7 @@ c. Ich arbeite für dich.
 d. ^* Ich arbeite dir
 :::
 
-Adverbial purposive *für* can be used with almost all verbs and can be identified by the possibility to be paraphrased by an *um zu-Infinitiv* phrase [@next a,b]. In this usage, it is also possible to use the paraphrase *dafür, dass* [@next c]. This is an obvious exception to the claim that this paraphrase identifies governed prepositions.
+Adverbial purposive *für* can be used with almost all verbs and can be identified by the possibility to be paraphrased by an *um zu-In­fi­ni­tiv* phrase [@next a,b]. In this usage, it is also possible to use the paraphrase *dafür, dass* [@next c]. This is an obvious exception to the claim that this paraphrase identifies governed prepositions.
 
 ::: ex
 a. Ich arbeite für ein besseres Leben.
@@ -300,7 +300,7 @@ Not all collocations of verbs with a preposition are governed phrases. For examp
 - über : *handeln*
 - von  : *handeln, kommen*
 - vor  : *stehen*
-- zu   : *neigen, passen, stehen*
+- zu   : *kommen, neigen, passen, stehen*
 
 #### Further examples {.unnumbered}
 
@@ -317,11 +317,12 @@ Not all collocations of verbs with a preposition are governed phrases. For examp
 
 #### Notes {.unnumbered}
 
-The combination *handeln Über* is attested [@next a], but infrequent. *handeln von* seems to be preferred [@next b].
+The combination *handeln über* is attested [@next a], but infrequent. *handeln von* seems to be preferred [@next b]. The combination *kommen zu* 'to achieve' has negative polarity [@next c].
 
 ::: ex
 - Ihre Texte handeln über Dinge, die sie jetzt beschäftigen.^[~~DWDS~~: Die Zeit, 21.12.2005, Nr. 51.]
 - Das Buch handelt von der Vergangenheit.
+- Wir kommen nicht zu einem Ergebnis.
 :::
 
 ### [ NAP ] Governed preposition+accusative
@@ -350,7 +351,7 @@ Some verbs, like *erinnern* 'to remind' [@next], combine a governed preposition 
 
 ### [ NL ] Obligatory local preposition {#sec:prepositions-obligatory-local}
 
-Some verbs appear to have an obligatory locational argument, like *wohnen* 'to live' [@next], cf. the classes 'Extent' and 'Location' in Gamerschlag [-@gamerschlag2014: 319-321].
+Some verbs appear to have an obligatory location argument, like *wohnen* 'to live' [@next], cf. the classes 'Extent' and 'Location' in Gamerschlag [-@gamerschlag2014: 319-321].
 
 ::: ex
 - Sie wohnt in Berlin.
@@ -718,7 +719,7 @@ c. Die Entlassung droht mir.
 
 ### [ NAL | –NL ] *haben* Anticausative+location {#sec:prepositions-haben-caused-location}
 
-Some verbs allow for both an intransitive stative location [@next a] and caused location [@next b] construction. I analyse these verbs as anticausatives (cf. [@sec:case-haben-anticausative] for a similar diathesis without an obligatory locational phrase).
+Some verbs allow for both an intransitive stative location [@next a] and caused location [@next b] construction. I analyse these verbs as anticausatives (cf. [@sec:case-haben-anticausative] for a similar diathesis without an obligatory location phrase).
 
 ::: ex
 a. Ich hänge den Pullover in den Schrank.
@@ -979,7 +980,7 @@ c. ^* Ich bereite auf die Klausur vor.
 
 ### [ NL | N– ] Location preposition drop {#sec:prepositions-location-drop}
 
-A special variant of a dropped preposition of is the removal of an obligatory locational phrase. The verb *steigen* 'to mount' has an obligatory locational phrase with an agentive subject [@next a,b]. The analysis that the subject is agentive is reinforced by the impossibility for the participle to be used attributively without the locational phrase [@next c,d], cf. [@sec:participles-adnominal-usage].
+A special variant of a dropped preposition of is the removal of an obligatory location phrase. For example, the verb *steigen* 'to mount' has an obligatory location phrase when used with an agentive subject [@next a,b]. The analysis that the subject is agentive is reinforced by the impossibility for the participle to be used attributively without the location phrase [@next c,d], cf. [@sec:participles-adnominal-usage].
 
 ::: ex
 - Der Mann steigt aus dem Auto.
@@ -988,7 +989,7 @@ A special variant of a dropped preposition of is the removal of an obligatory lo
 - ^* Der gestiegene Mann […].
 :::
 
-Though crucially, the verb *steigen* can also be used without a locational phrase in the meaning 'to rise' [@next a] with various inanimate subjects.^[I thank Jens Fleischhauer for this observation.] In such uses the participle can be used attributively [@next b]. 
+Crucially, the verb *steigen* can also be used without a location phrase in the meaning 'to rise' [@next a] with various inanimate subjects.^[I thank Jens Fleischhauer for this observation.] In such uses the participle can be used attributively [@next b]. 
 
 ::: ex
 - Die Temperatur steigt.
@@ -1851,7 +1852,7 @@ A very similar, but crucially different diathesis exists with other non-movement
 
 ### [ – – | NL ] Weather-like manner-of-movement {#sec:prepositions-weather-manner-movement}
 
-Many weather verbs like *wehen* 'to blow' [@next] allow for a nominative subject that is moving in a weather-like manner, often induced by a weather phenomenon. In such constructions the locational phrase seems obligatory.
+Many weather verbs like *wehen* 'to blow' [@next] allow for a nominative subject that is moving in a weather-like manner, often induced by a weather phenomenon. In such constructions the location phrase seems obligatory.
 
 ::: ex
 a. Es weht.

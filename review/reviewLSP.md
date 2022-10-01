@@ -46,11 +46,11 @@ Please check the reference section for correct spelling, especially the use of c
 The notion ‘light verb’ is used prominently in this volume. The term is used in a special way and the author should explain his conception of the term. How does the term ‘light verb’ – as used in the volume – relate to Jespersen’s (1942) original notion of the term? How does the term ‘light verb’ relate to the German notion ‘Funktionsverb’? I would like the author to be more precise with respect to his use of the notion of a ‘light verb’.
 On page 39 (for example), it is claimed that hören, fühlen und spüren can also be used as light verbs. This is the first time I have ever seen someone making such a claim. It requires better support as it somehow contradicts the mainstream’s view on light verbs.
 Why is the term ‘light verb’ rather than ‘auxiliary’ used?
-On page 390, Funktionsverbgefüge are briefly mentioned. It is said that (this specific type of) Funktionsverbgefüge are not included in the volume. But the examples contain lots and lots of Funktionsverbgefüge.
+On page 390, Funktions­verb­gefüge are briefly mentioned. It is said that (this specific type of) Funktions­verb­gefüge are not included in the volume. But the examples contain lots and lots of Funktions­verb­gefüge.
 
 > The term 'light verb' is explicitly introduced and discussed at the start of the book (Section 1.3.1, see http://cysouw.github.io/diathesis/fulltext.html#1.19). I don't think that going back all the way to Jespersen will shed new light on this term. In general, the term 'light verb' is used widely in the description of the world's languages with widely differing interpretations. However, I still think that it is fitting in the current context. There are many other terms used in the German grammatical tradtion (see the linked section for a survey), but they all have a rather different gist as what I have in mind here. So I use a term that has no tradition in German (different from the reviewer, I do not think that there is a 'mainstream' view on light verbs in German), but is still compatible with what in general a 'light verb' is supposed to mean, viz. the functional part of a complex predicate in a monoclausal construction, often grammaticalised with a bleached semantic content. 
 
-> Specifically: 'Auxiliary' (Hilfverb) is not suitable, because it has a very strong interpretation in the German tradition for *sein/haben/werden*. Further, the note on p.390 is about *präpositional angeschlossene Funktionsverben* as used in the Duden grammer, which is something completely different from the constructions discussed in this book. *Funktionsverbgefüge* seems to be used mostly in that sense (e.g. https://grammis.ids-mannheim.de/terminologie/85). So that term is explicitly not what I have in mind when I used 'light verb'. I realise that the English term 'light verb' is used as a translation of the German *Funktionsverbgefüge* in Fleischhauer (2021; 2022), and this double usage is unfortunate. However, in my opinion it is not problematic, as we could easily be more specific for the two different uses, e.g. my usage could be 'light verbs wtih a verbal main predicate', while in a *Funktionsverbgefüge* it could be 'light verbs with a nominal main predicate'. I have added a section in Chapter 12 about this.
+> Specifically: 'Auxiliary' (Hilfverb) is not suitable, because it has a very strong interpretation in the German tradition for *sein/haben/werden*. Further, the note on p.390 is about *präpositional angeschlossene Funktionsverben* as used in the Duden grammer, which is something completely different from the constructions discussed in this book. *Funktions­verb­gefüge* seems to be used mostly in that sense (e.g. https://grammis.ids-mannheim.de/terminologie/85). So that term is explicitly not what I have in mind when I used 'light verb'. I realise that the English term 'light verb' is used as a translation of the German *Funktions­verb­gefüge* in Fleischhauer (2021; 2022), and this double usage is unfortunate. However, in my opinion it is not problematic, as we could easily be more specific for the two different uses, e.g. my usage could be 'light verbs wtih a verbal main predicate', while in a *Funktions­verb­gefüge* it could be 'light verbs with a nominal main predicate'. I have added a section in Chapter 12 about this.
 
 > The claim that *hören/fühlen* etc. are also light verbs (in my definition) is indeed unusual, but it seems only logical to include them here, as the ACI-constructions behave completely parallel to all the other constructions dicussed. In general, this is a problem of terminology, and I think that 'light verb' is the least confusing option.
 
@@ -92,9 +92,9 @@ The use of italics is not entirely consistent. Sometimes one finds ‘bleiben+zu
 
 One productive pattern is missing ‘stehen davor zu + Infinitive’, e.g., ‘Er steht davor das Turnier zum ersten Mal zu gewinnen’ (termed ‘prospective’ in Fleischhauer under review). This is also a coherent construction and attested with several hundred different infinitives.
 
-> Actually, this is a highly interesting construction, but it does not fall under the definitions as used in my work. *stehen* as discussed by Fleischhauer takes a governed preposition *vor*. The criterion for 'governed preposition' that I use is whether the preposition can also be used with a *da+vor* with a subordinate construction. Note specifically that it is not possible to have a construction *stehen vor + zu-Infinitiv* (without 'da'). There is an interested detail, that I do not delve into, what kind of of subordinate constructions are possible. Most the *da‑* constructions allow for finite complement clauses (*dass ...*), while *stehen vor* only allows a non-finite subordinate construction.
+> Actually, this is a highly interesting construction, but it does not fall under the definitions as used in my work. *stehen* as discussed by Fleischhauer takes a governed preposition *vor*. The criterion for 'governed preposition' that I use is whether the preposition can also be used with a *da+vor* with a subordinate construction. Note specifically that it is not possible to have a construction *stehen vor + zu-In­fi­ni­tiv* (without 'da'). There is an interested detail, that I do not delve into, what kind of of subordinate constructions are possible. Most the *da‑* constructions allow for finite complement clauses (*dass ...*), while *stehen vor* only allows a non-finite subordinate construction.
 
-> Actually, this is a highly interesting construction, but it does not fall under the definitions as used in my work. *stehen* as discussed by Fleischhauer takes a governed preposition *vor*. The criterion for 'governed preposition' that I use is whether the preposition can also be used with a *da+vor* with a subordinate construction. Note specifically that it is not possible to have a construction *stehen vor + zu-Infinitiv* (without 'da'). There is an interested detail, that I do not delve into, what kind of of subordinate constructions are possible. Most the *da‑* constructions allow for finite complement clauses (*dass ...*), while *stehen vor* only allows a non-finite subordinate construction.
+> Actually, this is a highly interesting construction, but it does not fall under the definitions as used in my work. *stehen* as discussed by Fleischhauer takes a governed preposition *vor*. The criterion for 'governed preposition' that I use is whether the preposition can also be used with a *da+vor* with a subordinate construction. Note specifically that it is not possible to have a construction *stehen vor + zu-In­fi­ni­tiv* (without 'da'). There is an interested detail, that I do not delve into, what kind of of subordinate constructions are possible. Most the *da‑* constructions allow for finite complement clauses (*dass ...*), while *stehen vor* only allows a non-finite subordinate construction.
 
 10.  Affectedness & other categories
 
@@ -262,9 +262,9 @@ gewesen wäre, es sei nun halt doch nichts gewesen, bleibt in den Sternen geschr
 
 > done
 
-- p. 65 3.33b In this case, the infinitive is nominalized and you are dealing with a clear instance of a German Funktionsverbgefüge.
+- p. 65 3.33b In this case, the infinitive is nominalized and you are dealing with a clear instance of a German Funktions­verb­gefüge.
 
-> I  completely agree that this construction is on the boundary to nominal constructions. This construction is from the last chapter of the book. Originally, I had planned to add more chapters on *Funktionsverbgefüge* with derived verbs. In the end I decided to stop with constructions that have infinitives. Maybe I'll add more chapters in the future. However, given my current delimitations, this construction is in, while others are not discussed. 
+> I  completely agree that this construction is on the boundary to nominal constructions. This construction is from the last chapter of the book. Originally, I had planned to add more chapters on *Funktions­verb­gefüge* with derived verbs. In the end I decided to stop with constructions that have infinitives. Maybe I'll add more chapters in the future. However, given my current delimitations, this construction is in, while others are not discussed. 
 
 - p. 65 3.34c The preposition am is possible, cf. Er hat einen Tropfen am Mund hängen. So, the last sentence preceding the example is wrong. The reason that 3.34c does not allow am is that the contraction is not possible in case of feminine articles and an, also something like an’r Nase is ok in spoken German.
 
@@ -290,7 +290,7 @@ gewesen wäre, es sei nun halt doch nichts gewesen, bleibt in den Sternen geschr
 
 > done
 
-- p. 68 3.44a Again a clear case of a German Funktionsverbgefüge. One might wonder whether the noun Kuss is a regular argument of geben or not. There is some debate concerning this question, for references see Fleischhauer (in press). You could also use küssen instead of Kuss geben, if you like avoiding Funktionsverbgefüge: Du küsst ihn; Ich sehe dich ihn küssen; Ich sehe, dass du ihn küsst.
+- p. 68 3.44a Again a clear case of a German Funktions­verb­gefüge. One might wonder whether the noun Kuss is a regular argument of geben or not. There is some debate concerning this question, for references see Fleischhauer (in press). You could also use küssen instead of Kuss geben, if you like avoiding Funktions­verb­gefüge: Du küsst ihn; Ich sehe dich ihn küssen; Ich sehe, dass du ihn küsst.
 
 > indeed, the example with *Kuss geben* is problematic here. Note that the verb *geben* is not crucial here. I have exchanged the example with something more concrete, viz. *Kuchen backen*.
 
@@ -374,11 +374,11 @@ What is the reason for analyzing this construction as a type of ‘passive’?
 
 - p. 88 4.20b Here we have a Funkionsverbgefüge again.
 
-> again, please consider my definition carefully: this construction has a non-derived infinitive *stehen*, so I consider this still within the realm of diathesis, though on the boundary. I call this construction a *Präpositionsinfinitiv* which consist of preposition+article+infinitive. Funktionsverbgefüge starts when the verb is overtly derived into a noun by a nominalising suffix.
+> again, please consider my definition carefully: this construction has a non-derived infinitive *stehen*, so I consider this still within the realm of diathesis, though on the boundary. I call this construction a *Präpositions­In­fi­ni­tiv* which consist of preposition+article+infinitive. Funktions­verb­gefüge starts when the verb is overtly derived into a noun by a nominalising suffix.
 
 - p. 88 Concerning 4.3.8., it is claimed that no symmetrical construction with gehen exists but we find other constructions like zum Stehen bringen.
 
-> That is a highly interesting construction, discussed at the end of 13.2.2. After long deliberation I have decided that the *bringen+zum+Infinitiv* construction is not yet grammaticalised, altough it is argueably close. The arguments are laid out in detail in that section. Note that when this construction is considered as s grammaticalised construction, then it would be a kind of causative, so it is functionally not the counterpart of *kommen+zum+Infintiiv*.
+> That is a highly interesting construction, discussed at the end of 13.2.2. After long deliberation I have decided that the *bringen+zum+In­fi­ni­tiv* construction is not yet grammaticalised, altough it is argueably close. The arguments are laid out in detail in that section. Note that when this construction is considered as s grammaticalised construction, then it would be a kind of causative, so it is functionally not the counterpart of *kommen+zum+Infintiiv*.
 
 - p. 89 4.25b The sentence is ungrammatical but it would be fine with gedenke rather than denke. 
 - p. 89 4.26b (as well as the second sentence in a): I do not like the sentences. Are they attested?
@@ -570,7 +570,7 @@ the list includes the perfect of the transitive verb, sometimes not.
 
 > nice observation. Seems to be dependent on the noun. Changed *Spiegel* to *Brot*
 
-- p. 132 ‘Das Problem steht zur Diskussion’: zur Diskussion stehen is a Funktionsverbgefüge; similarly unter Zugzwang geraten in 6.26b
+- p. 132 ‘Das Problem steht zur Diskussion’: zur Diskussion stehen is a Funktions­verb­gefüge; similarly unter Zugzwang geraten in 6.26b
 
 > Indeed. And they do not allow for a *da‑* paraphrase. I have removed them, and some others that likewise were listed here erroneously.
 
@@ -803,7 +803,7 @@ Although in the further examples (why does the brechen-example occur there again
 
 > I agree. The whole point about coreference has been removed. It was only tangentially important anyway.
 
-- p. 163 ‘Er steht mir zur Seite. Er steht zu meiner Seite.’: Two distinct meanings; the first sentence either contains a Funktionsverbgefüge or an idiom (depending on the analysis).
+- p. 163 ‘Er steht mir zur Seite. Er steht zu meiner Seite.’: Two distinct meanings; the first sentence either contains a Funktions­verb­gefüge or an idiom (depending on the analysis).
 
 > I agree, changed the example to a less idiomatic expression.
 
@@ -1848,7 +1848,7 @@ combination with psych predicates in German.
 
 > corrected
 
-- p. 326 10.164c am Brennen; more natural is an example like Ich habe meinen Kaim gerade am Brennen. am Brennen haben is a Funktionsverbgefüge.
+- p. 326 10.164c am Brennen; more natural is an example like Ich habe meinen Kaim gerade am Brennen. am Brennen haben is a Funktions­verb­gefüge.
 
 > That construction is discussed elsewhere. The examples here are constructed to make everything parallel. No change.
 
@@ -1935,7 +1935,7 @@ combination with psych predicates in German.
 
 - p. 344 11.20b What about Das Haus blieb monatelang unverkauft, trotz aller Bemühungen der Makler? I think such sentences are acceptable and show that bleiben and the infinitive do not form a single word.
 
-> The *un‑* prefix is a sure sign of a depictive secondary predicate, as discussion in Chapter 10. Please note that *bleiben+Partizip* should be clearly differentiated from *bleiben+Infinitiv*, although they are of course related. And, whether or not this is a single word is really an uninteresting question. I just notice it, because more German speakers are very specific about their ideas of orthography.
+> The *un‑* prefix is a sure sign of a depictive secondary predicate, as discussion in Chapter 10. Please note that *bleiben+Partizip* should be clearly differentiated from *bleiben+In­fi­ni­tiv*, although they are of course related. And, whether or not this is a single word is really an uninteresting question. I just notice it, because more German speakers are very specific about their ideas of orthography.
 
 - p. 345 11.23c Punctuation mark is missing.
 
@@ -2077,7 +2077,7 @@ combination with psych predicates in German.
 
 > This is a corpus example. No change.
 
-- p. 388 12.54c/d The examples contain Funktionsverbgefüge. 
+- p. 388 12.54c/d The examples contain Funktions­verb­gefüge. 
 
 > agree, but that doesn't solve the question. no change
 
@@ -2129,9 +2129,9 @@ combination with psych predicates in German.
 
 > Again, adverbial modification. Your example is almost exactly the example as given in (13.16c). A have added a note here to remind the reader of that discussion.
 
-- p. 400 13.4.7 Kommen is usually analyzed as an inchoative Funktionsverb, see Fleischhauer & Hartmann (2021). It might be useful to adopt this kind of terminology for naming the constructions which, in my view, is just a Funktionsverbgefüge. Thus, I am not sure whether it should really be contained in a volume on alternations.
+- p. 400 13.4.7 Kommen is usually analyzed as an inchoative Funktionsverb, see Fleischhauer & Hartmann (2021). It might be useful to adopt this kind of terminology for naming the constructions which, in my view, is just a Funktions­verb­gefüge. Thus, I am not sure whether it should really be contained in a volume on alternations.
 
-> I have added an explicit section about distinguishing between *Funktionsverbgefüge* and the constructions in this chapter.
+> I have added an explicit section about distinguishing between *Funktions­verb­gefüge* and the constructions in this chapter.
 
 - p. 400 It is stated that the construction in 13.4.7 exemplifies different interpretations. This is an interesting observation and it represents what is called ‘families of light verb constructions’ in, for example, Fleischhauer (in press).
 
@@ -2152,7 +2152,7 @@ combination with psych predicates in German.
 - Βorik, Olga & Berit Gehrke. 2015. The syntax and semantics of pseudo-incorporation. Leiden: Brill.
 - Fleischhauer, Jens. 2016. Degree gradation of verbs. Düsseldorf: Düsseldorf University Press. 
 - Fleischhauer, Jens. 2018. Animacy and affectedness in Germanic languages. Open Linguistics 4 (1): 566-588.
-- Fleischhauer, Jens. in press. Stehen unter-Funktionsverbgefüge und ihre Familien. Zeitschrift für germanistische Linguistik. [to appear 2022]
+- Fleischhauer, Jens. in press. Stehen unter-Funktions­verb­gefüge und ihre Familien. Zeitschrift für germanistische Linguistik. [to appear 2022]
 - Fleischhauer, Jens. under review. The syntactic expression of prospective aspect in German. Journal of Germanic Linguistics.
 - Fleischhauer, Jens & Adrian Czardybon. 2016. The role of verbal prefixes and particles in aspectual composition. Studies in Language 40 (1): 176-203. [doi: 10.1075/sl.40.1.06hel] 
 - Fleischhauer, Jens & Thomas Gamerschlag. 2014. We are going through changes: How change of state verbs and arguments combine in scale composition. Lingua 141: 30-47. - [doi:10.1016/j.lingua.2013.01.006]

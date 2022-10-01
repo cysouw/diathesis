@@ -557,7 +557,7 @@ b. Das Feuer ist erloschen.
 
 ### [ NA | –N ] Preverb reflexive anticausative
 
-Some further anticausatives need an additional reflexive pronoun, like with *fangen* 'to catch' [@next a] and *verfangen* 'to entangle oneself' [@next b]. Note that the intransitive *verfangen* seems to additionally require a locational prepositional phrase [@next c].
+Some further anticausatives need an additional reflexive pronoun, like with *fangen* 'to catch' [@next a] and *verfangen* 'to entangle oneself' [@next b]. Note that the intransitive *verfangen* seems to additionally require a location phrase [@next c].
 
 ::: ex
 a. Ich fange den Vogel mit einem Netz.
@@ -1161,7 +1161,7 @@ c. Der aus dem Auto gestiegene Mann rutscht aus.
 d. ^* Der gestiegene Mann rutscht aus.
 :::
 
-In contrast, with the preverbal *aussteigen* both previously ungrammatical options are possible [@next]. In effect that means that by adding the preverb, the verb loses the obligation to have a locational phrase. Such a ~~delocative~~ diathesis is the reverse of a ~~locative~~ diathesis in which a locational phrase becomes obligatory, see e.g. [@sec:prepositions-manner-of-movement].
+In contrast, with the preverbal *aussteigen* both previously ungrammatical options are possible [@next]. In effect that means that by adding the preverb, the verb loses the obligation to have a location phrase. Such a ~~delocative~~ diathesis is the reverse of a ~~locative~~ diathesis in which an obligatory location phrase is added, see e.g. [@sec:prepositions-manner-of-movement].
 
 ::: ex
 a. Der Mann steigt aus dem Auto aus.
@@ -1395,7 +1395,7 @@ There is a parallel diathesis with the resultative preverbials *leer‑* and *fr
 
 ### [ NLA | NAp ] Preverb applicative+*mit* antipassive {#sec:preverb-applicative-antipassive}
 
-This diathesis is a combination of an applicative promotion and an antipassive demotion. Such an object exchange is a very widespread diathesis, exemplified here with *drücken* 'to press' [@next a]. This verb needs both an accusative object (here *Finger* 'finger') and an obligatory location (here *auf die Wunde* 'on the wound'). This location cannot be left out [@next b]. With the preverb *zu‑* the verb *zudrücken* 'to press shut' [@next c] promotes the locational object to accusative object (*Wunde*) and demotes the original object to an optional prepositional phrase (*Finger*). Semantically, the new accusative object (*Wunde*) is covered by the old accusative object (*Finger*). This is an example of the ~~filled holonym~~ object exchange (see [@sec:intro-demoted-object-exchange]). The reverse diathesis is the ~~joined meronym~~ object exchange, discussed below in [@sec:preverb-applicative-in-antipassive].
+This diathesis is a combination of an applicative promotion and an antipassive demotion. Such an object exchange is a very widespread diathesis, exemplified here with *drücken* 'to press' [@next a]. This verb needs both an accusative object (here *Finger* 'finger') and an obligatory location (here *auf die Wunde* 'on the wound'). This location cannot be left out [@next b]. With the preverb *zu‑* the verb *zudrücken* 'to press shut' [@next c] promotes the locational object to accusative (*Wunde*) and demotes the original object to an optional prepositional phrase (*Finger*). Semantically, the new accusative object (*Wunde*) is covered by the old accusative object (*Finger*). This is an example of the ~~filled holonym~~ object exchange (see [@sec:intro-demoted-object-exchange]). The reverse diathesis is the ~~joined meronym~~ object exchange, discussed below in [@sec:preverb-applicative-in-antipassive].
 
 ::: ex
 - Ich habe meinen Finger auf die Wunde gedrückt.
@@ -2612,7 +2612,7 @@ c. Ich wundere mich über dein Verhalten.
 
 ### --- [ PBJ > SBJ > PBJ ] --- {.unnumbered}
 
-### [ NL | LN ] Preverb locational inversive {#sec:preverb-location-inversive}
+### [ NL | LN ] Preverb location inversive {#sec:preverb-location-inversive}
 
 The alternation between *strahlen* 'to shine' [@next a] and *erstrahlen* 'to gleam' [@next b] involves a reversal of nominative and locational arguments.
 

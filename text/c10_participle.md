@@ -145,15 +145,15 @@ Second, depictive participles can be distinguished from light-verb constructions
 ::: ex
 a. Er bekommt die Schuhe im Geschäft immer geputzt. \
    (= Ihm werden die Schuhe im Geschäft immer geputzt.)
-b. Es ist bekannt, dass er die Schuhe im Geschäft immer geputzt bekommt.
-c. ^* Es ist bekannt, dass er die Schuhe immer geputzt im Geschäft bekommt.
+b. (Es ist bekannt, dass) er die Schuhe im Geschäft immer geputzt bekommt.
+c. ^* (Es ist bekannt, dass) er die Schuhe immer geputzt im Geschäft bekommt.
 :::
 
 ::: ex
 a. Er kauft die Schuhe im Geschäft immer geputzt. \
    (= Er kauft die Schuhe, die immer geputzt sein müssen, im Geschäft.)
-b. Es ist bekannt, dass er die Schuhe im Geschäft immer geputzt kauft.
-c. Es ist bekannt, dass er die Schuhe immer geputzt im Geschäft kauft.
+b. (Es ist bekannt, dass) er die Schuhe im Geschäft immer geputzt kauft.
+c. (Es ist bekannt, dass) er die Schuhe immer geputzt im Geschäft kauft.
 :::
 
 Third, secondary predication with participles can also be distinguished from light-verb constructions by considering negation. Negation in sentences with a participle as a secondary predicate normally negates this secondary predicate itself (lexical scope), just like negation of adverbs [@next a,b]. With secondary predicates it is often even possible to use the prefix *un‑* to mark the lexical scope of the negation over the participle [@next c]. When the prefix *un‑* can be added, this is an easy test for secondary-predicate usage [@rothstein2007a: 161-162]. However, this test does not work in reverse (i.e. the impossibility to add *un‑* is not necessarily a sign of a light-verb construction), because many participles simply do not exist with the *un‑* prefix.
@@ -470,7 +470,7 @@ e. Er vergisst den Verlust. \
 
 Because of the similarity between participles and adjectives, it is instructive to turn the tables and investigate light-verb constructions with predicatively used adjectives like *schmutzig* 'dirty' or *offen* 'open'. Most light verbs are used identically with adjective and participle constructions, but there are few interesting differences.
 
-The verbs *sein, werden, bleiben*, known as ~~Kopulaverben~~ in German grammar [e.g. @duden2009: 416], can be used both with participles and adjectives [@next]. The *werden* construction with adjectives [@next c] might appear to be more a *werden+Infinitiv* future (see [@sec:infinitive-werden-modal]) than a *werden+Partizip* passive (see [@sec:participles-werden-passive]). However, this is not the case. For example, the nominative subject in [@next c] is not an agent.
+The verbs *sein, werden, bleiben*, known as ~~Kopulaverben~~ in German grammar [e.g. @duden2009: 416], can be used both with participles and adjectives [@next]. The *werden* construction with adjectives [@next c] might appear to be more a *werden+In­fi­ni­tiv* future (see [@sec:infinitive-werden-modal]) than a *werden+Partizip* passive (see [@sec:participles-werden-passive]). However, this is not the case. For example, the nominative subject in [@next c] is not an agent.
 
 ::: ex
 a. Mein Fahrrad ist schmutzig.
@@ -656,7 +656,7 @@ The combination of the light verbs *haben* and *sein* with a participle is tradi
 
 The first argument in favour of a unified German *Perfekt* construction is that the light verbs *haben* and *sein* occur in almost complete complementary distribution. Only very few verbs are attested that allow for both. However, for this generalisation to work, various diatheses have to be excluded (see [@sec:participles-haben-sein-perfect; @sec:participles-haben-sein-perfect-reflexive-drop]). Also the *haben/sein+Partizip* passives have to be separated (see [@sec:participles-sein-zustandspassiv; @sec:participles-haben-passive; @sec:participles-sein-conversive]).
 
-A second intriguing argument is that all German verbs have a *Perfekt*. In other words, every stem that allows for finite inflection also has at least one of the two constructions *haben+Partizip* or *sein+Partizip* without any role mapping (i.e. without diathesis). Such an universal applicability of a construction to all verbs is otherwise only attested (arguably) with *Modalverben* (see [@sec:infinitive-werden-modal] and subsequent sections). This universal applicability of the *Perfekt* and the *Modalverben* is reflected in the widespread practice of the German grammatical tradition to consider the *haben+Partizip*, *sein+Partizip* and *werden+Infinitiv* as part of the inflectional paradigm of a verb. In contrast, all the hundreds of other constructions discussed in this book always have a restricted domain of application, i.e. they do not apply to all verbs (cf. [@sec:intro-domain-of-application]).
+A second intriguing argument is that all German verbs have a *Perfekt*. In other words, every stem that allows for finite inflection also has at least one of the two constructions *haben+Partizip* or *sein+Partizip* without any role mapping (i.e. without diathesis). Such an universal applicability of a construction to all verbs is otherwise only attested (arguably) with *Modalverben* (see [@sec:infinitive-werden-modal] and subsequent sections). This universal applicability of the *Perfekt* and the *Modalverben* is reflected in the widespread practice of the German grammatical tradition to consider the *haben+Partizip*, *sein+Partizip* and *werden+In­fi­ni­tiv* as part of the inflectional paradigm of a verb. In contrast, all the hundreds of other constructions discussed in this book always have a restricted domain of application, i.e. they do not apply to all verbs (cf. [@sec:intro-domain-of-application]).
 
 The universal applicability of the *Perfekt* is known to have been developed in the late Middle Ages and was only completed in the 16th century with the development of a *haben+Partizip* construction for the *Modalverben* [@fischer2020: 258].^[Fischer writes: "Ab 1300 und häufiger erst ab 1400 bildet auch das Verb *haben* Perfektformen (*hat gehabt*). Perfektbildungen der Modalverben sind erst ab Anfang des 16. Jahrhunderts belegt, wobei diese im Mittelhochdeutschen noch verschiedene Konkurrenzformen haben […]. Erst dann hat die Perfektgrammatikalisierung alle Verben des Deutschen erfasst und ist vollständig vollzogen." [@fischer2020: 258]] However, examples of a *Perfekt* with various *Modalverben* are still really rare in German. For example, only a few examples of *haben gedurft* are attested in the ~~DWDS~~ corpus, almost exclusively with *haben* in the *Konjunktiv*.^[For example, the search "\@gedurft haben" gives 60 hits in the *Referenz- und Zeitungskorpora* (available at https://www.dwds.de/d/korpora/public). Only three of those are not in the *Konjunktiv*, and one of those appears to be an error. Similarly, the search "haben #4 \@gedurft" gives 64 hits with only 5 not in the *Konjunktiv*. All searcher were performed on 21 September 2022.]
 
@@ -1207,7 +1207,7 @@ a. Das Kind scheint mir endlich eingeschlafen. \
 b. Der jüdische Publizist Julius Rodenberg schien ihm als Namenspatron geeignet.^[~~DWDS~~: Berliner Zeitung, 24.06.1999.]
 :::
 
-These constructions are analysed by Lasch [-@lasch2016: 253ff.] as *Askription mit modaler Relation*. However, I propose to categorise these construction as a kind of evidential, following the proposal by Diewald & Smirnova [@diewald2010: 177-191]. Diewald and Smirnova present an extensive discussion of the meaning of *scheinen* in various constructions, but, inexplicably, they did not include the construction with a participle. Still, their proposal that *scheinen* can express an inferential evidential also seems fitting for the participle construction. The German name ~~Perfektinferenz~~ is proposed here because of the perfectivity of the main verb. It stands in opposition to the *Imperfektinferenz* construction, which uses a *zu‑Infinitiv* (see [@sec:zuinfinitive-scheinen]).
+These constructions are analysed by Lasch [-@lasch2016: 253ff.] as *Askription mit modaler Relation*. However, I propose to categorise these construction as a kind of evidential, following the proposal by Diewald & Smirnova [@diewald2010: 177-191]. Diewald and Smirnova present an extensive discussion of the meaning of *scheinen* in various constructions, but, inexplicably, they did not include the construction with a participle. Still, their proposal that *scheinen* can express an inferential evidential also seems fitting for the participle construction. The German name ~~Perfektinferenz~~ is proposed here because of the perfectivity of the main verb. It stands in opposition to the *Imperfektinferenz* construction, which uses a *zu‑In­fi­ni­tiv* (see [@sec:zuinfinitive-scheinen]).
 
 #### Attested verbs {.unnumbered}
 
@@ -1540,7 +1540,7 @@ These constructions are regularly attested with an additional experiencer dative
 - Alles scheint mir dem sowjetischen Vorbild nachgeformt.^[~~DWDS~~: Berliner Zeitung, 20.03.1999.]
 :::
 
-The light verb *scheinen* can also occur with a *zu sein* construction [@next], which is analysed here as a stack of a *sein+Partizip* perfect (see [@sec:participles-sein-perfect]) with a *scheinen+zu‑Infinitiv* construction (see [@sec:zuinfinitive-scheinen]). The two examples in [@next a,b] are thus two different constructions, though the semantic difference needs a more in-depth investigation. 
+The light verb *scheinen* can also occur with a *zu sein* construction [@next], which is analysed here as a stack of a *sein+Partizip* perfect (see [@sec:participles-sein-perfect]) with a *scheinen+zu‑In­fi­ni­tiv* construction (see [@sec:zuinfinitive-scheinen]). The two examples in [@next a,b] are thus two different constructions, though the semantic difference needs a more in-depth investigation. 
 
 ::: ex
 a. Der Gast scheint abgereist.
@@ -1548,7 +1548,7 @@ b. Der Gast scheint abgereist zu sein.
 c. Der Gast reist ab. \
    +> *sein+Partizip* perfect \
    = Der Gast is abgereist. \
-   +> *scheinen+zu‑Infinitiv* evidential \
+   +> *scheinen+zu‑In­fi­ni­tiv* evidential \
    = Der Gast scheint abgereist zu sein.
 :::
 
@@ -2066,9 +2066,9 @@ A connection between the *Pertinenzpassiv* and the *bekommen* passive ([@sec:par
 
 It is crucial for the *Pertinenzpassiv* that the possessor of the accusative can also be expressed as a dative. It is neither verbs with just datives, nor with just accusative possessors, that allow for a *Pertinenzpassiv* [@hole2002: 175-177]. The *Pertinenzpassiv*-interpretation is only available when both dative and possessor expressions are possible for the role of the beneficiary (cf. [@sec:case-possessor-accusative-to-dative]). More general, there is a curious and extremely fascinating parallel between different kinds of possessor-datives and different constructions with the light verb *haben*:
 
-- [@next a]:  Subject-possessor ([@sec:case-possessor-of-nominative-to-dative-experiencer]) ~ *haben+am‑Infinitiv* ([@sec:zuminfinitive-haben-am])
+- [@next a]:  Subject-possessor ([@sec:case-possessor-of-nominative-to-dative-experiencer]) ~ *haben+am‑In­fi­ni­tiv* ([@sec:zuminfinitive-haben-am])
 - [@next b]:  Object-possessor ([@sec:case-possessor-accusative-to-dative]) ~ *haben+Partizip* (this section)
-- [@next c]:  Location-possessor ([@sec:prepositions-possessor-of-location-to-dative-experiencer]) ~ *haben+Infinitiv* ([@sec:infinitive-haben])
+- [@next c]:  Location-possessor ([@sec:prepositions-possessor-of-location-to-dative-experiencer]) ~ *haben+In­fi­ni­tiv* ([@sec:infinitive-haben])
 
 ::: ex
 - Mein Haus brennt. \
@@ -2487,7 +2487,7 @@ A similar diathesis for the possessor of an intransitive subject is also atteste
 - Er hat den Arm angeschwollen.
 :::
 
-A related, but different, diathesis with intransitive verbs uses the *haben+am‑Infinitiv* constructions [@next], discussed extensively in [@sec:zuminfinitive-haben-am]. This seems to be more widespread than the *haben+Partizip* diathesis with intransitives.
+A related, but different, diathesis with intransitive verbs uses the *haben+am‑In­fi­ni­tiv* constructions [@next], discussed extensively in [@sec:zuminfinitive-haben-am]. This seems to be more widespread than the *haben+Partizip* diathesis with intransitives.
 
 ::: ex
 - Meine Holzkohle glüht.

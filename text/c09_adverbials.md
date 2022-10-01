@@ -715,7 +715,7 @@ With ditransitive verbs, like *empfehlen* 'to recommend' [@next a], the preverbi
 
 ### [ N | N ] Reflexive intransitive resultative (*Reflexiv Resultativ*) {#sec:adverbial-intransitive-resultative}
 
-There is a special construction that apparently only exists for some intransitive verbs, like *schlafen* 'to sleep' [@next a]. The verb is combined with a reflexive pronoun and a resultative adjectival preverbial. The meaning of this construction approximately amounts to 'by performing the verb, the adjectival characteristic is achieved' [@next b]. There is no role-remapping in this alternation, so this is no diathesis. The alternation is clearly related to the reflexive manner-of-movement diathesis [@next c], see [@sec:reflexive-manner-of-movement]. Instead of a locational phrase (*nach New York*), the current construction uses a resultative (*gesund*).
+There is a special construction that apparently only exists for some intransitive verbs, like *schlafen* 'to sleep' [@next a]. The verb is combined with a reflexive pronoun and a resultative adjectival preverbial. The meaning of this construction approximately amounts to 'by performing the verb, the adjectival characteristic is achieved' [@next b]. There is no role-remapping in this alternation, so this is no diathesis. The alternation is clearly related to the reflexive manner-of-movement diathesis [@next c], see [@sec:reflexive-manner-of-movement]. Instead of a location phrase (*nach New York*), the current construction uses a resultative (*gesund*).
 
 ::: ex
 - Ich schlafe.
@@ -874,7 +874,7 @@ A very similar diathesis is attested with transitives, see [@sec:adverbial-refle
 
 ### [ NA | –N ] Reflexive anticausative+evaluative {#sec:adverbial-reflexive-transitive-anticausative}
 
-With many transitive verbs an anticausative is only possible with an evaluative manner adjective and a reflexive pronoun [@next]. There is a clear parallel to the diathesis for intransitives described in [@sec:adverbial-reflexive-drop]. The semantically highly similar *lassen+Infinitiv* construction [@next c] does not need the adverbial (see [@sec:infinitive-lassen-reflexive-passive]).
+With many transitive verbs an anticausative is only possible with an evaluative manner adjective and a reflexive pronoun [@next]. There is a clear parallel to the diathesis for intransitives described in [@sec:adverbial-reflexive-drop]. The semantically highly similar *lassen+In­fi­ni­tiv* construction [@next c] does not need the adverbial (see [@sec:infinitive-lassen-reflexive-passive]).
 
 ::: ex
 a. Ich schneide die Wurst mit diesem Messer.
@@ -990,7 +990,7 @@ With some intransitive verbs, like *sitzen* 'to sit' [@next a] a locational argu
 
 ### [ NL | pN ] *voll/leer‑* Location passive+resultative {#sec:adverbial-location-anticausative}
 
-A very peculiar diathesis is attested with alluvial verbs like *laufen* in the meaning 'to pour' [@next a]. In this meaning, the locational phrase is obligatory. By adding the resultative preverbial *voll‑* (possibly also *leer-*) a passive-like diathesis arises [@next b]. The obligatory location is promoted to nominative subject. The original nominative can optionally be retained as a *mit* prepositional phrase with the resultative *voll-*. This diathesis is clearly related to the transitive diathesis with *voll* and *leer‑* described in [@sec:adverbial-applicative-voll] and [@sec:adverbial-applicative-leer], respectively.
+A very peculiar diathesis is attested with alluvial verbs like *laufen* in the meaning 'to pour' [@next a]. In this meaning, the location phrase is obligatory. By adding the resultative preverbial *voll‑* (possibly also *leer-*) a passive-like diathesis arises [@next b]. The obligatory location is promoted to nominative subject. The original nominative can optionally be retained as a *mit* prepositional phrase with the resultative *voll-*. This diathesis is clearly related to the transitive diathesis with *voll* and *leer‑* described in [@sec:adverbial-applicative-voll] and [@sec:adverbial-applicative-leer], respectively.
 
 ::: ex
 a. Das Wasser läuft in die Badewanne.
@@ -1224,7 +1224,7 @@ A second group of verbs that allow for this object exchange are verbs that descr
 
 ### [ NAL | NAp ] *los/fest/frei‑* Transitive location drop {#sec:adverbial-antiresultative}
 
-The locational prepositional phrase is obligatory present with verbs that describe making a connection between two entities, like *binden* 'to tie' [@next a,b]. In contrast, when adding the resultative *los‑* 'loose' in *losbinden* 'to untie' [@next c,d], then the locational phrase is not obligatory anymore. This delocative diathesis is attested both with the preverbial *los‑* 'loose' for detachment and *fest‑* 'tight' for attachment. For the parallel diathesis with preverbs, see [@sec:preverb-transitive-antiresultative]. The preverbial *fest‑* is also used for a different diathesis, see [@sec:adverbial-fest].
+A location prepositional phrase is obligatory present with verbs that describe making a connection between two entities, like *binden* 'to tie' [@next a,b]. In contrast, when adding the resultative *los‑* 'loose' in *losbinden* 'to untie' [@next c,d], then the location phrase is not obligatory anymore. This delocative diathesis is attested both with the preverbial *los‑* 'loose' for detachment and *fest‑* 'tight' for attachment. For the parallel diathesis with preverbs, see [@sec:preverb-transitive-antiresultative]. The preverbial *fest‑* is also used for a different diathesis, see [@sec:adverbial-fest].
 
 ::: ex
 a. Ich binde den Hund an die Leine.
