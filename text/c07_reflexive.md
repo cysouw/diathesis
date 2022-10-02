@@ -77,7 +77,7 @@ As noted above, there are many more prominent diatheses that involve a reflexive
 In most situations, the German reflexive pronouns are identical to the regular pronouns as shown in [@tbl:reflexive-pronouns]. Only in the 3rd person there exists a special reflexive pronoun *sich*, both for the singular and the plural. For this reason, I will illustrate reflexive constructions mostly using 3rd person masculine nouns or pronouns with the overtly reflexive pronoun *sich*. As a shorthand, I will often use the word *sich* as a technical term in the meaning 'reflexive pronoun'. 
 
 | Case       | 1 Sing. | 2 Sing. | 3 Sing.    | 1 Plur. | 2 Plur. | 3 Plur.    |
-| ---        | ---     | ---     | ---        | ---     | ---     | ---        |
+| :---       | :--     | :--     | :--        | :--     | :--     | :--        |
 | Dative     | *mir*   | *dir*   | ***sich*** | *uns*   | *euch*  | ***sich*** |
 | Accusative | *mich*  | *dich*  | ***sich*** | *uns*   | *euch*  | ***sich*** |
 
@@ -1732,7 +1732,7 @@ c. Ich konzentriere mich darauf, das Spiel zu gewinnen.
 
 ### --- [ OBJ > ADJ ] --- *Reziprokativ* {.unnumbered}
 
-### [ NA | Np] Reflexive *mit* antipassive {#sec:reflexive-mit-antipassive}
+### [ NA | Np] Reciprocal antipassive {#sec:reflexive-mit-antipassive}
 
 Reflexive antipassive verbs like *treffen* 'to meet' [@next a,b] change an accusative argument to a non-governed prepositional phrase with *mit* [@next c]. Semantically, this diathesis changes the action from a one-sided perspective towards a more reciprocal perspective. The resulting construction of this diathesis is reminiscent of the 'real reciprocal' construction (see [@sec:reflexive-real-reciprocals]).
 
@@ -1870,7 +1870,7 @@ c. ^* Ich träume nach New York.
 d. ^* Ich träume mich.
 :::
 
- The location always describes a movement, with *durch* [@next a] 'through' and *in* 'into' [@next b] being the most productive. Incidental examples with *aus* and *nach* are also attested.
+The location always describes a movement, with *durch* [@next a] 'through' and *in* 'into' [@next b] being the most productive. Incidental examples with *aus* and *nach* are also attested (see the further examples below).
 
 ::: ex
 - Ich esse und trinke. \
@@ -1879,7 +1879,7 @@ d. ^* Ich träume mich.
   Würzburg zitterte sich am Ende in die Playoffs.^[~~DWDS~~: Die Zeit, 07.05.2016 (online).]
 :::
 
-This diathesis is exceptional, because an extra obligatory argument is introduced together with the reflexive pronoun. This is a clear counterexample to the generalisation that reflexive diatheses are demoting. This construction is closely related to a reflexive usage of intransitive verbs with an obligatory resultative preverbial, like with *gesundschlafen* 'to get healthy by sleeping' [@next]. That diathesis is discussed in more detail in [@sec:adverbial-intransitive-resultative].
+This diathesis is exceptional, because an extra obligatory argument is introduced together with the reflexive pronoun. This is a clear counterexample to the generalisation that reflexive diatheses are demoting. A possible solution to this apparent markedness reversal is that the added obligatory location is maybe better interpreted as a marker of the diathesis. In other words, the obligatory location is not a part of the diathetical operation, but a part of the voice of the diathesis. This would be reminiscent of the addition of directionals (see [@sec:adverbial-directionals]). Adding directionals regularly leads to transitive constructions, and then an intransitive verb needs an extra reflexive pronoun. This effect is also observed in the reflexive usage of intransitive verbs with an obligatory resultative preverbial, like with *gesundschlafen* 'to get healthy by sleeping' [@next]. That diathesis is discussed in more detail in [@sec:adverbial-intransitive-resultative].
 
 ::: ex
 - Ich schlafe.
@@ -1934,7 +1934,7 @@ The forced movement diathesis (see [@sec:prepositions-transitive-location-as-res
   (= Ich jage den Hund und dadurch geht der aus dem Zimmer.)
 :::
 
-However, there are a few example in which additionally a reflexive pronoun is added, like with *graben* 'to dig' [@next a] and *wünschen* 'to wish' [@next b]. Note that the dative reflexive pronoun is not a raised possessor with a self-inflicting reflexive. Such examples are discussed in [@sec:reflexive-dative-accusative-location].
+However, there are a few example in which additionally a dative reflexive pronoun is added, like with *graben* 'to dig' [@next a] and *wünschen* 'to wish' [@next b]. Note that the dative reflexive pronoun is not a raised possessor with a self-inflicting reflexive. Such examples are discussed in [@sec:reflexive-dative-accusative-location]. These dative reflexive pronouns are probably best analyses as beneficiary datives ([@sec:prepositions-benefactive-dative]) with a stacked self-inflicting reflexive. When that analysis holds for all examples, then this diathesis is just a transparent combination of other alternations and this section can be removed.
 
 ::: ex
 - Ich grabe mir einen Weg durch den Schnee.

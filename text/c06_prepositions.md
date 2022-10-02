@@ -762,7 +762,7 @@ c. Der Pullover hat im Schrank gehangen.
 d. Ich habe den Pullover in den Schrank gehängt.
 :::
 
-### [ NA– | –NP ] Anticausative+preposition addition {#sec:prepositions-anticausative-preposition-addition}
+### [ NA– | –NP ] *haben* Anticausative+preposition addition {#sec:prepositions-anticausative-preposition-addition}
 
 The verb *deuten* [@next] shows a special diathesis in which the accusative is turned into a nominative, but only with an additional obligatory *auf* prepositional phrase [@next a,b]. The preposition *auf* is a governed preposition [@next b,c]. Although clearly related, these two uses of *deuten* are semantically already quite far apart, meaning approximately 'to interpret' [@next a] vs. 'to forebode' [@next b].
 

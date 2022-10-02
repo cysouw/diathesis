@@ -26,7 +26,7 @@ The following eight diatheses with a *zu‑In­fi­ni­tiv* are attested regular
 - ~~[OBJ › SBJ › Ø]~~ *stehen* ~~Erwartungsantikausativ~~ (see [@sec:zuinfinitive-stehen])
 - ~~[OBJ › SBJ › ADJ]~~ *sein* ~~Modalpassiv~~ (see [@sec:zuinfinitiv-sein-passive])
 - ~~[OBJ › SBJ › OBJ]~~ *bleiben* ~~Restinversiv~~ (see [@sec:zuinfinitive-bleiben])
-- ~~[Ø › SBJ › OBJ]~~ *geben* ~~Auftragskausativ~~ (see [@sec:zuinfinitive-geben-causative])
+- ~~[Ø › SBJ › OBJ]~~ *geben* ~~Möglichkeitskausativ~~ (see [@sec:zuinfinitive-geben-causative])
 
 ## Defining the *zu‑In­fi­ni­tiv*
 
@@ -373,7 +373,7 @@ Similar to the previous *kommen+zu‑In­fi­ni­tiv* construction (see [@sec:zu
 
 ### [ N | – ] *sein+zu‑In­fi­ni­tiv* Impersonal {#sec:zuinfinitive-sein-impersonal}
 
-The *sein+zu‑In­fi­ni­tiv* construction is typically used with transitive verbs as a passive with modal meaning expressing obligation (see [@sec:zuinfinitiv-sein-passive]). With intransitive verbs such a passive would lead to an impersonal construction, but this seems to be very rare [contrary to the claim in @holl2010: 18]. The example given by Holl is doubtful [@next a]. A better example is *anhalten* [@next b]. In both examples the removed subject is not replaces by a valency-simulating pronoun *es*.
+The *sein+zu‑In­fi­ni­tiv* construction is typically used with transitive verbs as a passive with modal meaning expressing obligation or possibility (see [@sec:zuinfinitiv-sein-passive]). With intransitive verbs such a passive would lead to an impersonal construction, but this seems to be very rare [contrary to the claim in @holl2010: 18]. The example given by Holl is doubtful [@next a]. A better example is *anhalten* [@next b]. In both examples the removed subject is not replaces by a valency-simulating pronoun *es*.
 
 ::: ex
 - Ab 22 Uhr ist zu schlafen.^[[@holl2010: 18]]
@@ -433,7 +433,7 @@ Transitive verbs can be used in a *geben+zu‑In­fi­ni­tiv* construction, dem
 - Stattdessen hat es für seine Fans ein Gesamtpaket zu kaufen gegeben.
 :::
 
-Semantically, this construction expresses an option that is available to the original subject. Structurally, the subject is demoted (or even unexpressed). Because of these two characteristics I propose the somewhat cumbersome German designation ~~Möglichkeitsdemotiv~~. Note that the same *geben+zu‑In­fi­ni­tiv* construction is also used for a semantically and structurally quite different causative construction, namely the *Auftragskausativ* (see [@sec:zuinfinitive-geben-causative]).
+Semantically, this construction expresses an option that is available to the original subject. Structurally, the subject is demoted (or even unexpressed). Because of these two characteristics I propose the somewhat cumbersome German designation ~~Möglichkeitsdemotiv~~. Note that the same *geben+zu‑In­fi­ni­tiv* construction is also used for a semantically and structurally quite different causative construction, namely the *Möglichkeitskausativ* (see [@sec:zuinfinitive-geben-causative]).
 
 This construction is commonly used with an quantified adverb like *viel/genug/reichlich/nichts* [@next b] instead of an nominal accusative object [@next c]. Also, *geben+zu‑In­fi­ni­tiv* is typically used without the retained subject in a *für* phrase [@nnext a]. Without a retained subject, the expression of a full nominal accusative is more widespread [@nnext b].
 
@@ -550,7 +550,7 @@ There is a special idiomatic construction *VERB, was zu VERB geht* [@next] that 
 
 ### [ NA | pN ] *sein+zu‑In­fi­ni­tiv* Passive (*Modalpassiv*) {#sec:zuinfinitiv-sein-passive}
 
-When used with transitive verbs, the *sein+zu‑In­fi­ni­tiv* construction is a passive diathesis with a modal meaning. A passive is defined here as a promotion of the accusative object to nominative subject and the demotion (and possibly complete deletion) of the original subject. Authors that argue against a passive status for this construction simply use other criteria for what counts as 'passive' [see @holl2010: 19].
+When used with transitive verbs, the *sein+zu‑In­fi­ni­tiv* construction is a passive diathesis with a modal meaning. A passive is defined here as a promotion of the accusative object to nominative subject and the demotion (and possibly complete deletion) of the original subject. Authors that argue against a passive status for this construction simply use other criteria for what counts as 'passive' [cf. @holl2010: 19].
 
 Depending on the context, various modal interpretations are possible for the *sein+zu‑In­fi­ni­tiv* construction, as illustrated in [@next]. These examples show a *müssen* interpretation in [@next a], a *dürfen* interpretation in [@next b], a *können* interpretation in [@next c] and a *nicht brauchen* interpretation in [@next d]. The *müssen* and *können* interpretations appear to be the most frequent.
 
@@ -611,9 +611,9 @@ Sie ist schwer zu kennen.^[~~DWDS~~: Hofmannsthal, Hugo von: Der Schwierige. In:
 
 ### --- [ Ø > SBJ > OBJ ] --- {.unnumbered}
 
-### [ –NA | NDA ] *geben+zu‑In­fi­ni­tiv* Causative (*Auftragskausativ*) {#sec:zuinfinitive-geben-causative}
+### [ –NA | NDA ] *geben+zu‑In­fi­ni­tiv* Novative (*Möglichkeitskausativ*) {#sec:zuinfinitive-geben-causative}
 
-The *geben+zu‑In­fi­ni­tiv* construction has two rather different uses. It can be used with subject demotion and a modal meaning (see [@sec:zuinfinitive-geben-demotion]) or with subject promotion and a causative meaning (this section). As a causative it is widely used with a small set of verbs of cognition that take an embedded clause, like *bedenken* 'to consider' [@next a]. Embedded in the *geben+zu‑In­fi­ni­tiv* construction, this results in a causative 'to cause to consider' [@next b]. Such constructions are coherent [@next c,d].
+The *geben+zu‑In­fi­ni­tiv* construction has two rather different uses. It can be used with subject demotion and a modal meaning (see [@sec:zuinfinitive-geben-demotion]) or with subject promotion and a causative/permissive meaning (this section). With subject promotion it is widely used with verbs of cognition that take an embedded clause, like *bedenken* 'to consider' [@next a]. Embedded in the *geben+zu‑In­fi­ni­tiv* construction, this results in a novative construction with a meaning 'to offer to consider' [@next b]. Such constructions are coherent [@next c,d].
 
 ::: ex
 a. Ich bedenke, dass es schon spät ist.
@@ -622,7 +622,7 @@ c. Er hat mir zu bedenken gegeben, dass es schon spät ist.
 d. ^* Er hat mir gegeben zu bedenken, dass es schon spät ist.
 :::
 
-This causative construction is also widely attested with other verbs, e.g. *trinken* 'to drink' [@next]. With those verbs, the meaning of the *geben+zu‑In­fi­ni­tiv* diathesis is very close to lexical *geben* 'to give'. For example *geben zu trinken* often simply means 'hand over some drink to be consumed' [@next a]. However, it can also mean 'cause food to be consumed', typically in the context of little children [@next b]. Whatever the exact meaning, this construction is always coherent, as can be seen from the position of the verb *geben* in the examples below.
+This novative construction is also widely attested with other verbs, e.g. *trinken* 'to drink' [@next]. With those verbs, the meaning of the *geben+zu‑In­fi­ni­tiv* diathesis is very close to lexical *geben* 'to give'. For example *geben zu trinken* often simply means 'hand over some drink to be consumed' [@next a]. However, it can also mean 'cause food to be consumed', typically in the context of little children [@next b]. Whatever the exact meaning, this construction is always coherent, as can be seen from the position of the verb *geben* in the examples below.
 
 ::: ex
 - Soldaten hätten ihnen zu essen und zu trinken gegeben.^[~~DWDS~~: Die Zeit, 12.05.2015 (online).]

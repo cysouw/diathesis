@@ -468,8 +468,8 @@ c. Ich werde meine Mutter gesundpflegen.
 
 The light verbs listed in [@tbl:light-verbs] occur in more than one derived clause construction. Shown in the table is whether these constructions induce epithesis (E) or diathesis (D). The ordering of the rows and columns in the table reflects an approximate top-left to bottom-right cline of the frequency of diathesis. More research is needed to establish whether there is any deeper insights to be gained from this distribution.
 
-|            | *Partizip* | *zu‑In­fi­ni­tiv* | *In­fi­ni­tiv* | *Präpositions­In­fi­ni­tiv* |
-| :--------- | :--------: | :------------: | :---------: | :---------------------: |
+|            | *Partizip* | *zu‑In­fi­ni­tiv* | *In­fi­ni­tiv* | *Präpositions­infinitiv* |
+| :- | :-: | :-: | :-: | :-: |
 | *haben*    |    D+E     |       E        |     D+E     |            D            |
 | *sein*     |    D+E     |       D        |      E      |           D+E           |
 | *bleiben*  |    D+E     |       D        |      E      |            E            |

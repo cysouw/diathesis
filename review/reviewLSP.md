@@ -374,7 +374,7 @@ What is the reason for analyzing this construction as a type of ‘passive’?
 
 - p. 88 4.20b Here we have a Funkionsverbgefüge again.
 
-> again, please consider my definition carefully: this construction has a non-derived infinitive *stehen*, so I consider this still within the realm of diathesis, though on the boundary. I call this construction a *Präpositions­In­fi­ni­tiv* which consist of preposition+article+infinitive. Funktions­verb­gefüge starts when the verb is overtly derived into a noun by a nominalising suffix.
+> again, please consider my definition carefully: this construction has a non-derived infinitive *stehen*, so I consider this still within the realm of diathesis, though on the boundary. I call this construction a *Präpositions­in­fi­ni­tiv* which consist of preposition+article+infinitive. Funktions­verb­gefüge starts when the verb is overtly derived into a noun by a nominalising suffix.
 
 - p. 88 Concerning 4.3.8., it is claimed that no symmetrical construction with gehen exists but we find other constructions like zum Stehen bringen.
 

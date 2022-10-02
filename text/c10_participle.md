@@ -264,7 +264,7 @@ d. ^* Das geschlafene Kind schnarcht.
 However, there is much more variation in the distribution of light-verb constructions besides just agentive participles (e.g. *geschlafen*) and patientive participles (e.g. *eingeschlafen*), as summarised in [@tbl:light-verb-constructions]. Basically, every theoretical possibility of light verb with a participle is attested (except for neither *sein* nor *haben*). The real challenge concealed behind the unaccusative hypothesis is the question how widespread all of these possibilities are. The *einschlafen*-class (~~patientive~~) and the *schlafen*-class (~~agentive~~) are undoubtedly large classes of intransitive verbs in German. In contrast, the *rosten* class seems to be very small (see [@sec:participles-haben-sein-perfect]). It is a clear desideratum for more research in corpus-based lexicology to exhaustively classify verbs in this way. Only then will it be possible to judge which classes are significant for German grammar and which classes, if any, consist of only incidental exceptional examples.
 
 | participle      | *sein* | *haben* | *werden* |
-|:--------------- |:------:|:-------:|:--------:|
+| :------         |  :-:   |   :-:   |   :-:    |
 | *eingeschlafen* |   +    |    –    |    –     |
 | *gefallen*      |   +    |    –    |    +     |
 | *gerostet*      |   +    |    +    |    –     |

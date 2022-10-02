@@ -34,7 +34,7 @@ There are seven diatheses that seem prominent enough to be given a German name. 
 The German case marking system is rather straightforward. Noun phrases in German occur in one of four case forms. There are various syncretisms in the case paradigm, which conceal the identity of the case in many sentences. For this reason, I will attempt to use first/second person singular pronouns or masculine singular nouns in constructed examples. These forms can easily be unambiguously identified, as shown in [@tbl:german-case].
 
 |    Case    |   1st    |   2nd    | 3rd Masc. |  Masc. noun   |
-| ---------- | :------: | :------: | :-------: | :-----------: |
+| ------ | :-: | :-: | :-: | :-------: |
 | Nominative |  *ich*   |   *du*   |   *er*    |  *der Tisch*  |
 | Genitive   | *meiner* | *deiner* | *seiner*  | *des Tisches* |
 | Dative     |  *mir*   |  *dir*   |   *ihm*   |  *dem Tisch*  |
@@ -1048,7 +1048,7 @@ In this chapter, I have tried to separate between the demotion of an object (ant
 
 ### --- [ Ø > OBJ ] --- *Ergebnisakkusativ* {.unnumbered}
 
-### [ N– | NA ] Accusative addition {#sec:case-accusative-addition}
+### [ N– | NA ] Added result {#sec:case-accusative-addition}
 
 There are various kinds of objects that can be added to apparent intransitives as an added result. For example: a competitive entity in sports [@next a], the result of an action [@next b], the name of the result of an action [@next c] and possibly many others [@next d,e].
 

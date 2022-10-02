@@ -958,7 +958,7 @@ b. Mein Vater enterbt mich.
 
 ### --- [ OBJ > Ø ] --- *Präverb Endoreflexiv* {.unnumbered}
 
-### [ NA | N– ] Preverb accusative drop+reflexive {#sec:preverb-reflexive-accusative-drop}
+### [ NA | N– ] Preverb reflexive accusative drop {#sec:preverb-reflexive-accusative-drop}
 
 Some preverbs induce the loss of an accusative with a coincidental obligatory reflexive pronoun, like the diathesis between *wählen* 'to choose' and *sich verwählen* 'to misdial' [@next]. The examples of this diathesis mostly appear to relate to using your body in a certain way, which is reminiscent of the endoreflexive diathesis (see [@sec:reflexive-accusative-drop]). Because of the similarities between the two, I propose to call this diathesis the *Präverb Endoreflexiv*.
 
@@ -1021,7 +1021,7 @@ Various examples of this diathesis show a strong semantic change, so it is debat
 - Ich ertrinke.
 :::
 
-### [ ND | N– ] Preverb dative drop+reflexive
+### [ ND | N– ] Preverb reflexive dative drop
 
 There is quite some uncertainty among German speakers as to the case of the reflexive pronoun of *behelfen* 'to manage' [@next]. Based on a preliminary corpus search, the *Grammatisches Informationssystem* [@strecker2017] concludes that accusative *mich* is clearly favoured, though in Google search results the dative *mir* seems to be preferred. This might suggest that there is an ongoing language change from reflexive accusative to dative with *behelfen*. Note that it is highly unusual for a dative reflexive to occur without an accusative argument being present as well (see [@par:reflexive-generalisations]).
 
@@ -1036,7 +1036,7 @@ There is quite some uncertainty among German speakers as to the case of the refl
 
 ### --- [ OBJ > ADJ ] --- *Präverb Reflexiv Antipassiv* {.unnumbered}
 
-### [ NA | Np ] Preverb antipassive+reflexive {#sec:preverb-reflexive-antipassive}
+### [ NA | Np ] Preverb reflexive antipassive {#sec:preverb-reflexive-antipassive}
 
 The verb *kalkulieren* 'to calculate' [@next a] allows for an antipassive diathesis in which an accusative argument is turned into an (optional) prepositional phrase by adding a prefix *verkalkulieren* 'to miscalculate'. Additionally, an obligatory accusative reflexive pronoun is part of this diathesis, probably because a preverb diathesis needs an accusative constituent.
 
@@ -1106,7 +1106,7 @@ b. Ich verschenke meine Bücher (an den Kindergarten).
 - Ich reiche dir das Essen. \
   Ich habe das Essen durchgereicht.
 
-### [ ND | Np ] Preverb dative antipassive+reflexive
+### [ ND | Np ] Preverb reflexive dative antipassive
 
 The diathesis between *danken* and *bedanken*, both meaning 'to thank' [@next], is a dative antipassive. The dative is turned into a prepositional phrase. Additionally, an obligatory accusative reflexiv pronoun is introduced.
 
@@ -1570,7 +1570,7 @@ c. Er erzwingt ein Geständnis (von ihm).
 - Ich frage dich nach dem Weg zum Bahnhof. \
   Ich erfrage den Weg zum Bahnhof (von dir).
 
-### [ NPA | NAp ] Reflexive preverb *von* antipassive+applicative
+### [ NPA | NAp ] Preverb reflexive *von* antipassive+applicative
 
 The object exchange from *bitten* 'to ask' [@next a] to *verbitten* 'to not tolerate' [@next b] additionally needs a dative reflexive pronoun.
 

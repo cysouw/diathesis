@@ -328,7 +328,7 @@ There are six special resultative adjectives, in alphabetical order: *fest‑* '
 There are various syntactic parallels between resultative constructions and other diatheses discussed previously in this book. These parallels come in two different guises. First, resultative adjectives are closely related to directionals, like *weg‑* 'away' or *zurück‑* 'back', which are in turn closely related to local prepositional phrases (see [@sec:adverbial-directionals]). Accordingly, some resultatives take the same syntactic position as local prepositional phrases. The most important such parallels are listed in [@tbl:resultative-local]. Note that it is exactly the "L" in the locational remapping on the right side of the table that is absent in the resultative remapping on left side of the table.
 
 |                            Resultative                             |    Remapping     |                                        Compare to                                         |    Remapping     |
-| :----------------------------------------------------------------: | :--------------: | :---------------------------------------------------------------------------------------: | :--------------: |
+| :-----: | :-: | :-----: | :-: |
 |           *Inchoativ* ([-@sec:adverbial-inchoative-los])           |   ~~[N \| N]~~   |                 *Bewegungsart* ([-@sec:prepositions-manner-of-movement])                  |  ~~[N– \| NL]~~  |
 |       *Kontinuativ* ([-@sec:adverbial-continuative-weiter])        |   ~~[N \| N]~~   |                 *Bewegungsart* ([-@sec:prepositions-manner-of-movement])                  |  ~~[N– \| NL]~~  |
 | *Reflexiv Resultativ* ([-@sec:adverbial-intransitive-resultative]) |   ~~[N \| N]~~   |              *Reflexiv Bewegungsart* ([-@sec:reflexive-manner-of-movement])               |  ~~[N– \| NL]~~  |
@@ -340,7 +340,7 @@ Table: Resultativ adjective is syntactically like a local prepositional phrase. 
 Second, resultative adjectives are closely related to preverbs, like *ver‑* or *an‑* (see Chapter [-@sec:preverbs]). Accordingly, some resultatives take the same syntactic position as preverbs, as summarised in [@tbl:resultative-preverb]. Note that these parallels concern the structure of the diathesis in general. It is not necessarily the case that each resultative+verb combination has a parallel preverb+verb combination.
 
 |                               Resultative                                |     Remapping      |                                  Compare to                                   |      Remapping       |
-| :----------------------------------------------------------------------: | :----------------: | :---------------------------------------------------------------------------: | :------------------: |
+| :-----: | :-: | :-----: | :-: |
 |         *Resultativ Applikativ* ([-@sec:adverbial-applicative])          |  ~~[N~p~ \| NA]~~  |              *Präverb Applikativ* ([-@sec:preverb-applicative])               |   ~~[N~p~ \| NA]~~   |
 |        *Resultativ Delokativ* ([-@sec:adverbial-antiresultative])        | ~~[NAL \| NA~p~]~~ |       *Präverb Delokativ* ([-@sec:preverb-transitive-antiresultative])        |  ~~[NAL \| NA~p~]~~  |
 | *Resultativ Ganz/voll-Objekttausch* ([-@sec:adverbial-applicative-voll]) | ~~[NLA \| NA~p~]~~ |  *Präverb Ganz/voll-Objekttausch* ([-@sec:preverb-applicative-antipassive])   |  ~~[NLA \| NA~p~]~~  |
@@ -988,7 +988,7 @@ With some intransitive verbs, like *sitzen* 'to sit' [@next a] a locational argu
 
 ### --- [ PBJ > SBJ > ADJ ] --- {.unnumbered}
 
-### [ NL | pN ] *voll/leer‑* Location passive+resultative {#sec:adverbial-location-anticausative}
+### [ NL | pN ] *voll/leer‑* Location passive {#sec:adverbial-location-anticausative}
 
 A very peculiar diathesis is attested with alluvial verbs like *laufen* in the meaning 'to pour' [@next a]. In this meaning, the location phrase is obligatory. By adding the resultative preverbial *voll‑* (possibly also *leer-*) a passive-like diathesis arises [@next b]. The obligatory location is promoted to nominative subject. The original nominative can optionally be retained as a *mit* prepositional phrase with the resultative *voll-*. This diathesis is clearly related to the transitive diathesis with *voll* and *leer‑* described in [@sec:adverbial-applicative-voll] and [@sec:adverbial-applicative-leer], respectively.
 
@@ -1024,7 +1024,7 @@ The verb *saugen* 'to suck' [@next] shows an interesting stack of diatheses (see
 
 ### -- [ ADJ > SBJ ] -- {.unnumbered}
 
-### [ p | N ] *voll‑* Weather location+resultative
+### [ p | N ] *voll‑* Weather location
 
 The diathesis in [@next] with weather verbs like *schneien* 'to snow' is a rare example of a promotion-to-subject induced by a resultative preverbial. However, this idiosyncrasy can of course easily be explained as a slight variant of the previously discussed passive-like diathesis, but used here with verbs without a subject (see [@sec:adverbial-location-anticausative]).
 

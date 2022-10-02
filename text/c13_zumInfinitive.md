@@ -1,8 +1,8 @@
-# Light-verb alternations with *Präpositions­In­fi­ni­tiv* {#sec:zuminfinitive}
+# Light-verb alternations with *Präpositions­in­fi­ni­tiv* {#sec:zuminfinitive}
 
 ## Introduction
 
-This final chapter investigates a class of constructions that consist of a light verb with a preposition, an article and an infinitive, like the *sein+am‑In­fi­ni­tiv* progressive [@next a], see [@sec:zuminfinitive-sein-am], or the *haben+am‑In­fi­ni­tiv* inversive [@next b], see [@sec:zuminfinitive-haben-am]. German has various such grammaticalised monoclausal constructions, which are superficially similar, but syntactically clearly different from clauses with ordinary prepositional phrases. The grammaticalised combination of a preposition, an article and an infinitive will be called a *Präpositions­In­fi­ni­tiv* and it is proposed as a fourth non-finite verbform alongside *Partizip*, *In­fi­ni­tiv* and *zu‑In­fi­ni­tiv*. 
+This final chapter investigates a class of constructions that consist of a light verb with a preposition, an article and an infinitive, like the *sein+am‑In­fi­ni­tiv* progressive [@next a], see [@sec:zuminfinitive-sein-am], or the *haben+am‑In­fi­ni­tiv* inversive [@next b], see [@sec:zuminfinitive-haben-am]. German has various such grammaticalised monoclausal constructions, which are superficially similar, but syntactically clearly different from clauses with ordinary prepositional phrases. The grammaticalised combination of a preposition, an article and an infinitive will be called a *Präpositions­in­fi­ni­tiv* and it is proposed as a fourth non-finite verbform alongside *Partizip*, *In­fi­ni­tiv* and *zu‑In­fi­ni­tiv*. 
 
 ::: ex
 - Ich bin am Arbeiten.
@@ -13,28 +13,28 @@ Such constructions appear to be relatively new to the German language. The *sein
 
 In German orthography, when an infinitive is used as a noun (as most clearly indicated by a preceding article) than it should be written with a capital letter. Consequently, I have written all infinitives with capitals in this chapter. However, there is quite a bit of uncertainty in the daily orthographic practice. For example, both capitalised and non-capitalised forms of the *am* progressive are frequently attested in contemporary German [@gargyan2010: 67-68, 73-74].
 
-The morphosyntactic characteristics of the *Präpositions­In­fi­ni­tiv* are discussed in detail in [@sec:zuminfinitive-structure]. In identifying a *Präpositions­In­fi­ni­tiv*, care has to be taken to distinguish it from other highly similar constructions. First, a *Präpositions­In­fi­ni­tiv* is a monoclausal construction, distinct from other highly similar, but underlyingly biclausal subordinate structures, like with *träumen von* 'to dream of' in [@next a], see [@sec:zuminfinitive-subordination]. Second, the *Präpositions­In­fi­ni­tiv* is different from adverbial phrases with infinitives, like goal-oriented *zum Schwimmen* 'with the intent to swim' in [@next b], see [@sec:zuminfinitive-teleological].
+The morphosyntactic characteristics of the *Präpositions­in­fi­ni­tiv* are discussed in detail in [@sec:zuminfinitive-structure]. In identifying a *Präpositions­in­fi­ni­tiv*, care has to be taken to distinguish it from other highly similar constructions. First, a *Präpositions­in­fi­ni­tiv* is a monoclausal construction, distinct from other highly similar, but underlyingly biclausal subordinate structures, like with *träumen von* 'to dream of' in [@next a], see [@sec:zuminfinitive-subordination]. Second, the *Präpositions­in­fi­ni­tiv* is different from adverbial phrases with infinitives, like goal-oriented *zum Schwimmen* 'with the intent to swim' in [@next b], see [@sec:zuminfinitive-teleological].
 
 ::: ex
 - Sie träumt vom Schwimmen.
 - Er läuft zum Schwimmen durch die halbe Stadt.
 ::: 
 
-The result of this meticulous demarcation is that only very few clearly grammaticalised constructions with a *Präpositions­In­fi­ni­tiv* can be identified. The handful of epitheses and the three diatheses that are presented in this chapter are all constructed with just a few light verbs, namely *haben, sein, bleiben, gehen, fahren, kommen* and *halten*. I propose the following German names for the three diatheses:
+The result of this meticulous demarcation is that only very few clearly grammaticalised constructions with a *Präpositions­in­fi­ni­tiv* can be identified. The handful of epitheses and the three diatheses that are presented in this chapter are all constructed with just a few light verbs, namely *haben, sein, bleiben, gehen, fahren, kommen* and *halten*. I propose the following German names for the three diatheses:
 
 - ~~[PBJ › SBJ › Ø]~~ *sein zum* ~~Auslösersubjektivierung~~ (see [@sec:zuminfinitive-sein-zum])
 - ~~[OBJ › SBJ › OBJ]~~ *haben am* ~~Pertinenzinversiv~~ (see [@sec:zuminfinitive-haben-am])
 - ~~[Ø › SBJ › OBJ]~~ *halten am* ~~Fortsetzungskausativ~~ (see [@sec:zuminfinitive-halten-causative])
 
-## Defining the *Präpositions­In­fi­ni­tiv*
+## Defining the *Präpositions­in­fi­ni­tiv*
 
-### The *Präpositions­In­fi­ni­tiv*
+### The *Präpositions­in­fi­ni­tiv*
 
-The *Präpositions­In­fi­ni­tiv* is a grammaticalised construction that will be distinguished from the superficially identical 'regular' combination of a preposition with an article and an infinitive. This distinction is rather subtle and there is quite some individual variation, indicating that the *Präpositions­In­fi­ni­tiv* is still in its early stages of grammaticalisation. I will first discuss the general characteristics of regular preposition+article+infinitive combinations, only to subsequently argue that the *Präpositions­In­fi­ni­tiv* [@next a] is different, see [@sec:zuminfinitive-structure]. Various highly similar structures will be distinguished from the *Präpositions­In­fi­ni­tiv* in the ensuing sections, namely (i) governed prepositional subordination [@next b], see [@sec:zuminfinitive-subordination], (ii) adverbial modification [@next c], see [@sec:zuminfinitive-teleological] and (iii) the *Funktions­verb­gefüge* [@next d], see [@sec:zuminfinitive-funktionsverb].
+The *Präpositions­in­fi­ni­tiv* is a grammaticalised construction that will be distinguished from the superficially identical 'regular' combination of a preposition with an article and an infinitive. This distinction is rather subtle and there is quite some individual variation, indicating that the *Präpositions­in­fi­ni­tiv* is still in its early stages of grammaticalisation. I will first discuss the general characteristics of regular preposition+article+infinitive combinations, only to subsequently argue that the *Präpositions­in­fi­ni­tiv* [@next a] is different, see [@sec:zuminfinitive-structure]. Various highly similar structures will be distinguished from the *Präpositions­in­fi­ni­tiv* in the ensuing sections, namely (i) governed prepositional subordination [@next b], see [@sec:zuminfinitive-subordination], (ii) adverbial modification [@next c], see [@sec:zuminfinitive-teleological] and (iii) the *Funktions­verb­gefüge* [@next d], see [@sec:zuminfinitive-funktionsverb].
 
 ::: ex
 - Der Vater kommt gerade vom Einkaufen. \
-  ('vom Einkaufen' = *Präpositions­In­fi­ni­tiv*, [@sec:zuminfinitive-structure])
+  ('vom Einkaufen' = *Präpositions­in­fi­ni­tiv*, [@sec:zuminfinitive-structure])
 - Der Husten kommt sicher vom Rauchen. \
   ('vom Rauchen' = Governed prepositional subordination, [@sec:zuminfinitive-subordination])
 - Der Senior kommt täglich zum Schwimmen. \
@@ -45,7 +45,7 @@ The *Präpositions­In­fi­ni­tiv* is a grammaticalised construction that will
 
 ### Grammatical structure {#sec:zuminfinitive-structure}
 
-The central part of a *Präpositions­In­fi­ni­tiv* is the infinitive verbform. An infinitive is basically a noun derived from a verb (see [@sec:infinitive-nominal-predication]). As a noun, an infinitive can regularly be preceded by an article, forming a noun phrase, like *das Schreiben* 'the writing' [@next a]. And as a noun phrase, it can be preceded by a preposition to form a prepositional phrase *durch das Schreiben* 'by writing' [@next b]. The infinitive can also have additional attributive modifiers, e.g. adjectives like *schnell* 'fast' [@next c], modifying prepositional phrases like *im Dunkeln* 'in the dark' [@next d] or modifying genitive phrases like *eines Tagebuchs* 'of a diary' [@next e]. Syntactically, the position of the preposition+article+infinitive phrase in the sentence is flexible. Specifically, it does not have to occur immediately before the finite verb at the end of a subordinate clause [@next f]. Finally, under some morphophonological circumstances the preposition and article fuse together, leading to words like *beim*, from *bei*+*dem* [@next g]. All these possibilities show that the infinitive operates exactly like a regular noun inside a prepositional phrase.
+The central part of a *Präpositions­in­fi­ni­tiv* is the infinitive verbform. An infinitive is basically a noun derived from a verb (see [@sec:infinitive-nominal-predication]). As a noun, an infinitive can regularly be preceded by an article, forming a noun phrase, like *das Schreiben* 'the writing' [@next a]. And as a noun phrase, it can be preceded by a preposition to form a prepositional phrase *durch das Schreiben* 'by writing' [@next b]. The infinitive can also have additional attributive modifiers, e.g. adjectives like *schnell* 'fast' [@next c], modifying prepositional phrases like *im Dunkeln* 'in the dark' [@next d] or modifying genitive phrases like *eines Tagebuchs* 'of a diary' [@next e]. Syntactically, the position of the preposition+article+infinitive phrase in the sentence is flexible. Specifically, it does not have to occur immediately before the finite verb at the end of a subordinate clause [@next f]. Finally, under some morphophonological circumstances the preposition and article fuse together, leading to words like *beim*, from *bei*+*dem* [@next g]. All these possibilities show that the infinitive operates exactly like a regular noun inside a prepositional phrase.
 
 ::: ex
 a. [Das Schreiben]~NP~ fällt ihm schwer.
@@ -59,7 +59,7 @@ g. [Beim Schreiben]~PP~ ist er eingeschlafen.
 
 Different from [@last], some preposition+article+infinitive combinations have special characteristics indicating that they are grammaticalised into bound morphology, namely the preposition and article are (i) fused, (ii) unstressed and (iii) inseparable, and the whole phrase (iv) cannot be modified and (v) is positionally fixed. I will call such grammaticalised combinations ~~Präpositions­infinitiv~~. They behave syntactically like a non-finite verbform, on a par with the *Partizip*, *In­fi­ni­tiv* and *zu‑In­fi­ni­tiv*. For example, they regularly occur in the so-called 'right sentence bracket' at the end of a clause, in which all German non-finite verbs are placed. 
 
-By definition then, a combination of preposition+article+infinitive is a grammaticalised *Präpositions­In­fi­ni­tiv* when the following characteristics hold. These characteristics will be illustrated in more detail below.
+By definition then, a combination of preposition+article+infinitive is a grammaticalised *Präpositions­in­fi­ni­tiv* when the following characteristics hold. These characteristics will be illustrated in more detail below.
 
 (i) The preposition and the article are obligatorily fused.
 (ii) The fused preposition/article is always unstressed (e.g. contrastive focus is not possible).
@@ -109,7 +109,7 @@ Finally, the syntactic flexibility of a location phrase like *am Tisch* is much 
 
 ### Governed prepositional subordination {#sec:zuminfinitive-subordination}
 
-Verbs with governed prepositions show many characteristics of a *Präpositions­In­fi­ni­tiv*. However, they are classified here as a different kind of construction. By definition (see [@sec:prepositions-identifying-governed-prepositions]), governed prepositions allow for a biclausal subordinate paraphrase with *da(r)+Präposition, dass*, like with *reden über* 'to talk about' in [@next a]. Alternatively, most such governed prepositions also allow for a similar construction with a subordinate *zu‑In­fi­ni­tiv* [@next b]. As a third alternative only the infinitive can be used, leading to a construction very close to a *Präpositions­In­fi­ni­tiv* [@next c].
+Verbs with governed prepositions show many characteristics of a *Präpositions­in­fi­ni­tiv*. However, they are classified here as a different kind of construction. By definition (see [@sec:prepositions-identifying-governed-prepositions]), governed prepositions allow for a biclausal subordinate paraphrase with *da(r)+Präposition, dass*, like with *reden über* 'to talk about' in [@next a]. Alternatively, most such governed prepositions also allow for a similar construction with a subordinate *zu‑In­fi­ni­tiv* [@next b]. As a third alternative only the infinitive can be used, leading to a construction very close to a *Präpositions­in­fi­ni­tiv* [@next c].
 
 ::: ex
 - Sein Vater redet darüber, dass Rauchen ungesund ist.
@@ -127,7 +127,7 @@ Such a 'bare subordinate infinitive' is possible with almost all verbs that have
 - Ich habe Spaß am Leben.
 :::
 
-Such prepositional phrases with bare subordinate infinitives, like with *neigen zu* 'to tend to' [@next a], show various similarities to a *Präpositions­In­fi­ni­tiv*. For example, the preposition and the article cannot be separated into *zu dem* [@next b]. Additionally, the prepositional phrase cannot be separated from a finite verb in subordinate sentence-final position, e.g. by interspacing them with an adverb like *immer* 'always' [@next c].
+Such prepositional phrases with bare subordinate infinitives, like with *neigen zu* 'to tend to' [@next a], show various similarities to a *Präpositions­in­fi­ni­tiv*. For example, the preposition and the article cannot be separated into *zu dem* [@next b]. Additionally, the prepositional phrase cannot be separated from a finite verb in subordinate sentence-final position, e.g. by interspacing them with an adverb like *immer* 'always' [@next c].
 
 ::: ex
 - Der RB-Fan neigt zum Klatschen.^[~~DWDS~~: Die Zeit, 27.04.2014, Nr. 17.]
@@ -135,7 +135,7 @@ Such prepositional phrases with bare subordinate infinitives, like with *neigen 
 - ^* (Es ist bekannt, dass) der RB-Fan zum Klatschen immer neigt.
 :::
 
-However, in contrast to a *Präpositions­In­fi­ni­tiv*, modification of the infinitive is possible. This is illustrated here with genitives in prepositional constructions with *bringen zu* [@next a] and *abhalten von* [@next b]. These genitives are actually retained arguments of the verbs in the infinitive. For example in [@next b], the phrase *vom Besuchen des Spiels* is derived from the clause *sie besuchen das Spiel*, in which *Spiel* 'game' is the object of *besuchen* 'to visit'. Adjectival modification is illustrated with governed prepositions of the verbs *profitieren von* [@next c] and *einladen zu* [@next d].
+However, in contrast to a *Präpositions­in­fi­ni­tiv*, modification of the infinitive is possible. This is illustrated here with genitives in prepositional constructions with *bringen zu* [@next a] and *abhalten von* [@next b]. These genitives are actually retained arguments of the verbs in the infinitive. For example in [@next b], the phrase *vom Besuchen des Spiels* is derived from the clause *sie besuchen das Spiel*, in which *Spiel* 'game' is the object of *besuchen* 'to visit'. Adjectival modification is illustrated with governed prepositions of the verbs *profitieren von* [@next c] and *einladen zu* [@next d].
 
 ::: ex
 - Die Stadt […] versucht, ihn auf anderen Wegen [zum Aufgeben des Hofs] zu bringen.^[~~DWDS~~: Die Zeit, 25.10.2017 (online).]
@@ -144,9 +144,9 @@ However, in contrast to a *Präpositions­In­fi­ni­tiv*, modification of the 
 - Mehrere Bänke sollen [zum besinnlichen Sitzen] […] einladen.^[~~DWDS~~: Der Tagesspiegel, 17.01.2003.]
 :::
 
-Summarising, verbs with a governed preposition allow for a construction that is very close to the *Präpositions­In­fi­ni­tiv*. However, governed prepositions with infinitives are transparently related to biclausal subordinate constructions and retain characteristics of biclausality. Still, governed prepositions seem to be a good starting point for future developments of new *Präpositions­In­fi­ni­tiv* constructions. For this to happen though a verb with a governed preposition has to establish a new (grammaticalised) meaning when used with a bare infinitive. 
+Summarising, verbs with a governed preposition allow for a construction that is very close to the *Präpositions­in­fi­ni­tiv*. However, governed prepositions with infinitives are transparently related to biclausal subordinate constructions and retain characteristics of biclausality. Still, governed prepositions seem to be a good starting point for future developments of new *Präpositions­in­fi­ni­tiv* constructions. For this to happen though a verb with a governed preposition has to establish a new (grammaticalised) meaning when used with a bare infinitive. 
 
-A possible example in an early stage of a grammaticalisation is the verb *denken*. The verb *denken* has various slightly different meanings. Crucially in the current context, the combination *denken an* means 'to remember, to not forget' [@next a]. This preposition *an* is a governed preposition and can be used with a subordinate *daran, dass* construction [@next b] or a *daran+zu‑In­fi­ni­tiv* construction [@next c]. A different meaning for *denken* 'to plan, to consider' is attested without *an*, but with a *zu‑In­fi­ni­tiv* [@next d], see also [@sec:zuinfinitiv-denken]. Contradictorily, *denken+ans‑In­fi­ni­tiv* has the meaning 'to plan' [@next e], i.e. it does not have the same meaning as *denken an*. The meaning of the *denken+ans‑In­fi­ni­tiv* construction is thus separated from *denken an* and might be classified as a *Präpositions­In­fi­ni­tiv*.
+A possible example in an early stage of a grammaticalisation is the verb *denken*. The verb *denken* has various slightly different meanings. Crucially in the current context, the combination *denken an* means 'to remember, to not forget' [@next a]. This preposition *an* is a governed preposition and can be used with a subordinate *daran, dass* construction [@next b] or a *daran+zu‑In­fi­ni­tiv* construction [@next c]. A different meaning for *denken* 'to plan, to consider' is attested without *an*, but with a *zu‑In­fi­ni­tiv* [@next d], see also [@sec:zuinfinitiv-denken]. Contradictorily, *denken+ans‑In­fi­ni­tiv* has the meaning 'to plan' [@next e], i.e. it does not have the same meaning as *denken an*. The meaning of the *denken+ans‑In­fi­ni­tiv* construction is thus separated from *denken an* and might be classified as a *Präpositions­in­fi­ni­tiv*.
 
 ::: ex
 - Bitte denke an die Kinder!
@@ -156,7 +156,7 @@ A possible example in an early stage of a grammaticalisation is the verb *denken
 - Viele Junge denken ans Auswandern.^[~~DWDS~~: Die Zeit, 04.03.2013, Nr. 10.]
 :::
 
-Another candidate for grammaticalisation is the verb *bringen*. The verb *bringen* without *zu* means 'to bring' [@next a] and has a rather different meaning from *bringen zu* 'to provoke, to cause' with a governed preposition *zu* [@next b]. This might be a first step in a development towards a new *Präpositions­In­fi­ni­tiv* construction. However, currently there is simply a bifurcation between a verb *bringen* and a verb *bringen zu*. Crucially, *bringen zu* allows for modification of the infinitive [@next c]. However, a completely grammaticalised *Präpositions­In­fi­ni­tiv* is arguably not far off for this construction.
+Another candidate for grammaticalisation is the verb *bringen*. The verb *bringen* without *zu* means 'to bring' [@next a] and has a rather different meaning from *bringen zu* 'to provoke, to cause' with a governed preposition *zu* [@next b]. This might be a first step in a development towards a new *Präpositions­in­fi­ni­tiv* construction. However, currently there is simply a bifurcation between a verb *bringen* and a verb *bringen zu*. Crucially, *bringen zu* allows for modification of the infinitive [@next c]. However, a completely grammaticalised *Präpositions­in­fi­ni­tiv* is arguably not far off for this construction.
 
 ::: ex
 - Sie bringt mich nach Hause.
@@ -167,7 +167,7 @@ Another candidate for grammaticalisation is the verb *bringen*. The verb *bringe
   Er hätte vielleicht sogar auf diese Art seine Flucht zum guten Ende bringen können.^[~~DWDS~~: Seghers, Anna: Das siebte Kreuz, Berlin: Aufbau-Taschenbuch-Verl. 2002 [1942], S. 207.]
 :::
 
-An example of a light verb with a *Präpositions­In­fi­ni­tiv* that has already become separated from its lexical meaning is *kommen+zum‑In­fi­ni­tiv* 'end of movement' [@next a], see [@sec:zuminfinitive-kommen-zum]. This construction has a different meaning and structure from *kommen+zu‑In­fi­ni­tiv* 'covertly caused state' [@next b], see [@sec:zuinfinitive-kommen]. Crucially, both are separate from the lexical meaning *kommen zu* 'to get round to do something' with a governed prepositional phrase [@next c], see [@sec:prepositions-transitive-governed]. Lastly, all those constructions are different from the plain lexical meaning of *kommen* 'to come, to arrive' [@next d], illustrated here with an optional *zum‑In­fi­ni­tiv* as a goal-oriented adverbial modification ('*um zu*'), see the next [@sec:zuminfinitive-teleological].
+An example of a light verb with a *Präpositions­in­fi­ni­tiv* that has already become separated from its lexical meaning is *kommen+zum‑In­fi­ni­tiv* 'end of movement' [@next a], see [@sec:zuminfinitive-kommen-zum]. This construction has a different meaning and structure from *kommen+zu‑In­fi­ni­tiv* 'covertly caused state' [@next b], see [@sec:zuinfinitive-kommen]. Crucially, both are separate from the lexical meaning *kommen zu* 'to get round to do something' with a governed prepositional phrase [@next c], see [@sec:prepositions-transitive-governed]. Lastly, all those constructions are different from the plain lexical meaning of *kommen* 'to come, to arrive' [@next d], illustrated here with an optional *zum‑In­fi­ni­tiv* as a goal-oriented adverbial modification ('*um zu*'), see the next [@sec:zuminfinitive-teleological].
 
 ::: ex
 - Durch die Vollbremsung kam das Auto ruckhaft zum Stehen. \
@@ -182,7 +182,7 @@ An example of a light verb with a *Präpositions­In­fi­ni­tiv* that has alre
 
 ### Adverbial modification {#sec:zuminfinitive-teleological}
 
-Another phenomenon that looks like a *Präpositions­In­fi­ni­tiv*, but has to be strictly separated from it, are prepositions with infinitives that function as adverbial modifiers in the sentence. These are constituents that consist of a preposition, an article and an infinitive, like *zum Laufen*, in which the preposition and the article are obligatorily fused. However, they have an adverbial status in the sentence. Because adverbials are syntactically optional, the first easy test for such adverbial usage is to simply leave them out. The resulting sentence should still be grammatical.
+Another phenomenon that looks like a *Präpositions­in­fi­ni­tiv*, but has to be strictly separated from it, are prepositions with infinitives that function as adverbial modifiers in the sentence. These are constituents that consist of a preposition, an article and an infinitive, like *zum Laufen*, in which the preposition and the article are obligatorily fused. However, they have an adverbial status in the sentence. Because adverbials are syntactically optional, the first easy test for such adverbial usage is to simply leave them out. The resulting sentence should still be grammatical.
 
 There are a few common adverbial uses that can be identified by the possibility of a very specific paraphrase. First, teleological ('goal oriented') *zum‑In­fi­ni­tiv* adverbials are especially common, like, *zum Schwimmen* in [@next a]. Such adverbials can be paraphrased as 'with the intend to', or in German as *um zu+In­fi­ni­tiv*. A second frequently used adverbial phrase is the temporal *beim‑In­fi­ni­tiv*, meaning 'while' [@next b]. In German such usage can be paraphrased by *während+In­fi­ni­tiv*. Other prepositions with infinitives are less frequent in adverbial function. Some incidental locational examples can also be found, like an allative ('from') *vom‑In­fi­ni­tiv* [@next c] or ablative ('to') *zum‑In­fi­ni­tiv* [@next d]. 
 
@@ -197,15 +197,15 @@ There are a few common adverbial uses that can be identified by the possibility 
   (= 'zum Ort, wo gegrillt wird')
 :::
 
-These adverbials do not adhere to most of the characteristics of the *Präpositions­In­fi­ni­tiv*, except for the fact that the preposition and article are typically fused. However, the preposition and article can optionally be separated [@last b], the whole phrase can move rather freely insides the sentence [@last a], and the infinitive can be modified by a genitive [@last b], an adjective [@last c], or a prepositional phrase [@last d].
+These adverbials do not adhere to most of the characteristics of the *Präpositions­in­fi­ni­tiv*, except for the fact that the preposition and article are typically fused. However, the preposition and article can optionally be separated [@last b], the whole phrase can move rather freely insides the sentence [@last a], and the infinitive can be modified by a genitive [@last b], an adjective [@last c], or a prepositional phrase [@last d].
 
 ### The *Funktions­verb­gefüge* {#sec:zuminfinitive-funktionsverb}
 
 The analysis of the so-called *Funktions­verb­gefüge* has a 50-years long history in German linguistics [cf. @heine2020 for a survey]. This term is used to refer to grammaticalised constructions that commonly consist of a light verb with a prepositional phrase, like *zur Verfügung stehen* 'to be available', *in Zorn geraten* 'become enraged' or *in Zweifel ziehen* 'to doubt' [@heine2020: 17]. Syntactically these phrases are strongly lexicalised and, as can be glanced from the english translations, they are semantically on a par with individual verbs. They are widely discussed in the German literature and even the infamous Duden grammar includes an extensive 8-page discussion of them [@duden2009: 418-425]. A common distinction is made between basic noun-verb combinations unter the heading *Funktions­verb­gefüge mit akkusa­ti­visch an­geschloss­enem Verbal­­sub­stan­tiv* [@duden2009: 419] and a combination of a verb with a prepositional phrase under the heading *präpositional an­geschlossene Funktions­verben* [@duden2009: 422]. 
 
-There clearly is a lot of similarity between such a prepositional *Funktions­verb­gefüge* and the *Präpositions­In­fi­ni­tiv* as discussed in this chapter. The *Funktionsverben* that are typically used in a *Funktions­verb­gefüge* show a lot over overlap with the light verbs that are discussed throughout this book. And indeed, the English term 'light verb' has recently been used as a translation of the German term *Funktionsverb* [@fleischhauer2019; @fleischhauer2021; @fleischhauer2021a]. However, a *Funktions­verb­gefüge* is obviously different in that it includes either (i) a noun (e.g. *Zorn* 'anger'), or (ii) a noun derived from a verb with nominalising derivational morphology (e.g. *Verfügung* 'disposal' from *verfügen* 'to have at one's disposal' + *‑ung*), or (iii) a zero-derived noun (*Zweifel* 'doubt' from *zweifeln* 'to doubt'). In contrast, the *Präpositions­In­fi­ni­tiv* as discussed in this chapter employs infinitives. 
+There clearly is a lot of similarity between such a prepositional *Funktions­verb­gefüge* and the *Präpositions­in­fi­ni­tiv* as discussed in this chapter. The *Funktionsverben* that are typically used in a *Funktions­verb­gefüge* show a lot over overlap with the light verbs that are discussed throughout this book. And indeed, the English term 'light verb' has recently been used as a translation of the German term *Funktionsverb* [@fleischhauer2019; @fleischhauer2021; @fleischhauer2021a]. However, a *Funktions­verb­gefüge* is obviously different in that it includes either (i) a noun (e.g. *Zorn* 'anger'), or (ii) a noun derived from a verb with nominalising derivational morphology (e.g. *Verfügung* 'disposal' from *verfügen* 'to have at one's disposal' + *‑ung*), or (iii) a zero-derived noun (*Zweifel* 'doubt' from *zweifeln* 'to doubt'). In contrast, the *Präpositions­in­fi­ni­tiv* as discussed in this chapter employs infinitives. 
 
-Of course, as explained above, an infinitive is also a nominalised verbform, which once more emphasises the strong affinity between the *Funktions­verb­gefüge* and the *Präpositions­In­fi­ni­tiv*. However, the crucial syntactic difference between them is the same difference as discussed previously with prepositional subordination (see [@sec:zuminfinitive-subordination]). The deverbal nouns of a *Funktions­verb­gefüge* can still be modified by retained arguments or modifiers, like genitives [@next a] or adjectives [@next b], which is impossible for a *Präpositions­In­fi­ni­tiv*.
+Of course, as explained above, an infinitive is also a nominalised verbform, which once more emphasises the strong affinity between the *Funktions­verb­gefüge* and the *Präpositions­in­fi­ni­tiv*. However, the crucial syntactic difference between them is the same difference as discussed previously with prepositional subordination (see [@sec:zuminfinitive-subordination]). The deverbal nouns of a *Funktions­verb­gefüge* can still be modified by retained arguments or modifiers, like genitives [@next a] or adjectives [@next b], which is impossible for a *Präpositions­in­fi­ni­tiv*.
 
 ::: ex
 - Ich stelle es zur Verfügung des Bundes. \
@@ -225,7 +225,6 @@ Not attested.
 ### *sein+am‑In­fi­ni­tiv* Progressive (*Progressiv*) {#sec:zuminfinitive-sein-am}
 
 The *sein+am‑In­fi­ni­tiv* progressive has already extensively been investigated [@krause2002; @gargyan2010] and I will not repeat all results from those investigations here. This construction can be used with intransitive verbs to mark an ongoing activity [@next a]. It is considered colloquial and frowned upon in formal writing, but it is in widespread use. Transitive verbs can only be used with incorporated objects without article [@next b], which are arguably intransitive (see [@sec:case-incorporation]). The variant with a separated object without article is only used in a small patch at the Dutch border of the German speaker area [@next c].^[Verlaufsform mit 'am'. In: Elspaß, Stephan & Robert Möller. 2003ff. Atlas zur deutschen Alltagssprache (AdA). Online at <https://www.atlas-alltagssprache.de/r10-f10abcd>, accessed 29 November 2021.]
-
 
 ::: ex
 - Der Feind greift an. \
@@ -296,7 +295,7 @@ This construction is normally used with agentive intransitive verbs. However, th
 - Sie war beim Friseur.
 :::
 
-Another detail that might lead to confusion is the construction *dabei sein* with a *zu‑In­fi­ni­tiv* [@next a]. Although *bei* might look like a governed preposition (see [@sec:zuminfinitive-subordination]), there is a semantic mismatch. The subordinate *dabei sein* construction in [@next a] is a progressive, while the *Präpositions­In­fi­ni­tiv* in [@next b] is an absentive. The meanings of these two constructions appear to have been drifting apart. A possible analysis of [@next a] is to consider the verb *dabeisein* as a distinct verb with a directional preverbial *dabei‑* (see [@sec:adverbial-directionals]).
+Another detail that might lead to confusion is the construction *dabei sein* with a *zu‑In­fi­ni­tiv* [@next a]. Although *bei* might look like a governed preposition (see [@sec:zuminfinitive-subordination]), there is a semantic mismatch. The subordinate *dabei sein* construction in [@next a] is a progressive, while the *Präpositions­in­fi­ni­tiv* in [@next b] is an absentive. The meanings of these two constructions appear to have been drifting apart. A possible analysis of [@next a] is to consider the verb *dabeisein* as a distinct verb with a directional preverbial *dabei‑* (see [@sec:adverbial-directionals]).
 
 ::: ex
 - Ich bin dabei einzukaufen.
@@ -425,7 +424,7 @@ Besides this stative usage, there are a few other sentence patterns that look si
 
 The construction *sein+zum‑In­fi­ni­tiv* drops the nominative subject and promotes a governed preposition to subject. Such a role-remapping is rather unusual in German. In  another diathesis, the *Kreationsubjektivierung* (see [@sec:prepositions-fabricative-accusative]), it is a creation manufactured by the subject that is promoted to subject. In the present construction, it is the trigger of an emotional reaction that is promoted to subject.
 
-The *sein+zum‑In­fi­ni­tiv* diathesis appears only to apply to verbs of emotion, like *heulen* 'to cry' [@next]. This emotion is triggered by something, which is expressed with an *über* governed prepositional phrase [@next a]. Using this diathesis, the trigger is promoted to subject and the original subject is dropped and cannot be retained in any form [@next b]. Typically this diathesis is used without explicitly expressing the trigger at all. As a result, the new sentence after the diathesis  lacks a subject, and thus a valency-simulating pronoun *es* is commonly attested in this construction [@next c].
+The *sein+zum‑In­fi­ni­tiv* diathesis appears only to apply to verbs of emotion, like *heulen* 'to cry' [@next]. This emotion is triggered by something, which is expressed with an *über* governed prepositional phrase [@next a]. Using this diathesis, the trigger is promoted to subject and the original subject is dropped and cannot be retained in any form [@next b]. Typically this diathesis is used without explicitly expressing the trigger at all. As a result, the new sentence after the diathesis lacks a subject, and thus a valency-simulating pronoun *es* is commonly attested in this construction [@next c].
 
 ::: ex
 a. Ich heule über den Schaden. \
@@ -464,7 +463,7 @@ There are also some examples with the light verb *erhalten* instead of *halten* 
 - Das Feuer, das den Geist der Liebe lebendig erhält, kann nur von oben her entzündet und am Brennen erhalten werden.^[~~DWDS~~: Die Zeit, 02.08.1951, Nr. 31.]
 :::
 
-The semantically opposite *hindern am* 'to prevent' is not (yet) grammaticalised. Although it is frequently used with *am+In­fi­ni­tiv* [@next a], it does not show the characteristics of a grammaticalised *Präpositions­In­fi­ni­tiv* (see [@sec:zuminfinitive-structure]). For example, it can be used with an adjectival modifier [@next b] and the preposition *am* can also be separated into *an dem* [@next c].
+The semantically opposite *hindern am* 'to prevent' is not (yet) grammaticalised. Although it is frequently used with *am+In­fi­ni­tiv* [@next a], it does not show the characteristics of a grammaticalised *Präpositions­in­fi­ni­tiv* (see [@sec:zuminfinitive-structure]). For example, it can be used with an adjectival modifier [@next b] and the preposition *am* can also be separated into *an dem* [@next c].
 
 ::: ex
 - Zwei Zeugen hätten die sechsköpfige Gruppe am Betreten gehindert.^[~~DWDS~~: Die Zeit, 14.03.2014, Nr. 11.]
@@ -501,13 +500,12 @@ Not attested
 
 The *haben+am‑In­fi­ni­tiv* construction is a fascinating construction that needs much more research [cf. @businger2017: 323-325]. It is a colloquial construction that is virtually unattested in traditional corpora. However, in more informal usage online it is reasonably easy to find examples.
 
-The basic clause of this diathesis has an agentive intransitive verb, like *brennen* 'to burn' [@next a]. A new subject is added to the sentence, and the old subject is demoted to accusative [@next b]. This new subject is an experiencer of the original basic clause, which can also be expressed as an experiencer dative [@next c], see [@sec:case-possessor-of-nominative-to-dative-experiencer]. This experiencer is always inherently the possessor of the original subject [@next d]. 
+The basic clause of this diathesis has an agentive intransitive verb, like *brennen* 'to burn' [@next a]. This diathesis targets the (often implicit) possessor of the intransitive subject. Crucially for this diathesis to work, this possessor is some kind of experiencer of the event. Such experiencer possessives can alternatively be expressed as a dative [@next b], see [@sec:case-possessor-of-nominative-to-dative-experiencer]. The *haben+am‑In­fi­ni­tiv* diathesis now promoted this dative to subject and the old subject is demoted to accusative [@next c].
 
 ::: ex
-a. Die Wohnung brennt.
-b. Der Student hat die Wohnung am Brennen.
-c. Ihm brennt die Wohnung.
-d. Seine Wohnung brennt.
+a. Die Wohnung (des Studenten) brennt.
+b. Dem Studenten brennt die Wohnung.
+c. Der Student hat die Wohnung am Brennen.
 :::
 
 This means that the subject of a *haben+am‑In­fi­ni­tiv* construction (here *Der Student* 'the student') is always inherently the possessor of the object of this construction (here *die Wohnung* 'the apartment'). I included the word *pertinenz* as part of the German name for all diatheses that include such an inherent possessor in the role-remapping. The current diathesis is thus called ~~Pertinenzinversiv~~. This diathesis is closely related to the *Ortspertinenzinversiv*, see [@sec:infinitive-haben]. Both diatheses are semantically and structurally similar, though curiously the *Ortspertinenzinversiv* uses a *haben+In­fi­ni­tiv* construction without *am*.

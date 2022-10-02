@@ -32,7 +32,7 @@ There are twelve frequently occurring diatheses that use a light-verb+infinitive
 - ~~[Ø › SBJ › ADJ]~~ *lassen* ~~Passivkausativ~~ (see [@sec:infinitive-lassen-passive-causative])
 - ~~[Ø › SBJ › OBJ]~~ *lassen* ~~Permissivkausativ~~ (see [@sec:infinitive-lassen-causative])
 - ~~[Ø › SBJ › OBJ]~~ *schicken* ~~Direktivkausativ~~ (see [@sec:infinitive-schicken])
-- ~~[Ø › SBJ › OBJ]~~ *machen* ~~Agentivkausativ~~ (see [@sec:infinitive-machen])
+- ~~[Ø › SBJ › OBJ]~~ *machen* ~~Aufforderungskausativ~~ (see [@sec:infinitive-machen])
 - ~~[Ø › SBJ › OBJ]~~ *sehen/hören/fühlen/spüren* ~~Perzeptiv~~ (see [@sec:infinitive-sehen] ff.)
 
 ## Characterising infinitive constructions
@@ -159,11 +159,12 @@ b. Sie hat mich die Kleider waschen *gelassen*. \
 It has been widely observed that there is a large variety of uses of the *lassen+In­fi­ni­tiv* construction in German [e.g. @eisenberg2006a: 369-371; @kotulkova2010a; @pitteroff2014]. In this chapter I will distinguish six different diatheses that all use the *lassen+In­fi­ni­tiv* construction, as summarised in [@tbl:lassen]. These six constructions are clearly diachronically related, and also synchronically they are very similar. However, they cannot be reduced to a single (abstract) construction with transparent and productive derivations leading to these six different diatheses as distinguished here. There is an additional usage of *lassen* with a participle that is discussion in [@sec:participles-lassen-durative]. I will succinctly summarise these different options here. For a detailed discussion, see the sections as indicated in the table.
 
 |                       Section                        |     Remapping      |       German Name       | Reflexive |     Interpretation     |
-| :--------------------------------------------------: | :----------------: | :---------------------: | :-------: | :--------------------: |
+| :-: | :---: | :-----: | :-: | :-----: |
 |   [-@sec:infinitive-lassen-reflexive-intransitive]   |    ~~[N \| –]~~    | *Möglichkeitsbewertung* |    yes    |      possibility       |
 |     [-@sec:infinitive-lassen-reflexive-passive]      |  ~~[NA \| ~p~N]~~  |   *Permissivpassiv*     |    yes    | possibility/permission |
 |    [-@sec:infinitive-lassen-reflexive-conversive]    |   ~~[NA \| PN]~~   |  *Permissivkonversiv*   |    yes    |       permission       |
 | [-@sec:infinitive-lassen-dative-reflexive-inversive] |   ~~[ND \| AN]~~   |  *Permissivinversiv*    |    yes    |       permission       |
+|   |   |   |   |   |
 |         [-@sec:infinitive-lassen-causative]          |   ~~[–N \| NA]~~   |  *Permissivkausativ*    |    no     |  causation/permission  |
 |     [-@sec:infinitive-lassen-passive-causative]      | ~~[–NA \| N~p~A]~~ |    *Passivkausativ*     |    no     |       causation        |
 
@@ -251,7 +252,7 @@ b. Das Bärenfleisch schmeckt ihm. \
    Er lässt sich das Bärenfleisch schmecken.^[~~DWDS~~: Die Zeit, 22.11.1985, Nr. 48]
 :::
 
-Finally, with agentive intransitive verbs like *wandern* 'to hike' [@nnext a], the *lassen+Infinitiv+Reflexiv* construction leads to a special diathesis, called *Möglichkeitsbewertung* here. The nominative subject is removed and an evaluative adverbial is necessary, like *gut* 'well' [@next a]. Although the nominative is removed, this construction often occurs without a valency-simulating pronoun *es*. Verbs with a governed preposition, like *warten auf* 'to wait for' [@nnext b] are slightly different as (i) the governed preposition is retained, (ii) the valency simulating *es* is impossible and (iii) no evaluative adverbial is necessary.
+Finally, with agentive intransitive verbs like *wandern* 'to hike' [@nnext a], the *lassen+Infinitiv+Reflexiv* construction leads to a special diathesis, called *Möglichkeitsbewertung* here. The nominative subject is removed and an evaluative adverbial is necessary, like *gut* 'well' [@next a]. Although the nominative is removed, this construction often occurs without a valency-simulating pronoun *es*. Verbs with a governed preposition, like *warten auf* 'to wait for' [@nnext b] are slightly different because wnen the governed preposition is retained, then (i) the valency simulating *es* is impossible and (ii) no evaluative adverbial is necessary (see [@sec:infinitive-lassen-reflexive-intransitive-governed]).
 
 ::: ex
 ~~Möglichkeitsbewertung~~
@@ -484,7 +485,7 @@ The verb *gehen* 'to walk' has become lexicalised in this construction as *sich 
 - Er lässt sich gehen.
 :::
 
-### *lernen+In­fi­ni­tiv* {#sec:infinitive-lernen}
+### *lernen+In­fi­ni­tiv* Assistive {#sec:infinitive-lernen}
 
 The verb *lernen* 'to learn' can both occur in a construction with an infinitive [@next a] and with *zu* plus infinitive [@next b], see also [@sec:zuinfinitive-grammaticalisation]. There is an obvious parallel to the verbs *lehren* 'to teach' ([@sec:infinitive-lehren]) and *helfen* 'to help' ([@sec:infinitive-helfen]), both of which add a new participant (the 'teacher' and the 'helper', respectively). The verb *lernen* does not add a new participant, although there is a strong implication of an unspoken teacher [@next b], except in case of natural developmental processes [@next a].
 
@@ -507,7 +508,7 @@ Er legt sich schlafen.
 
 ### --- [ SBJ > Ø ] --- {.unnumbered}
 
-### [ N | – ] *lassen+In­fi­ni­tiv* Reflexive impersonal+adverbial (*Möglichkeitsbewertung*) {#sec:infinitive-lassen-reflexive-intransitive}
+### [ N | – ] *lassen+In­fi­ni­tiv* Reflexive impersonal+evaluative (*Möglichkeitsbewertung*) {#sec:infinitive-lassen-reflexive-intransitive}
 
 When used with intransitive verbs like *arbeiten* 'to work' [@next a], the construction *lassen+In­fi­ni­tiv* leads to an impersonal construction removing the nominative subject. This construction obligatorily includes a reflexive pronoun and an adverbial that expresses an evaluation, like *gut* 'well' [@next b]. The expected valency-simulating pronoun *es* is typically present, but it seems possible to leave it out. The conditioning of the presence or absence of *es* needs more investigation [cf. @kunze1996: 649]. Besides the obvious evaluation as given by the adverb, this diatheses adds an epistemic notion of possibility to the meaning of the verb. There is a clear parallel to the impersonal construction without *lassen* in [@next c], see [@sec:adverbial-reflexive-drop]. This *lassen+In­fi­ni­tiv* diathesis invokes an *ErsatzIn­fi­ni­tiv* [@next d].
 
@@ -536,7 +537,7 @@ c. Zuhause lässt es sich gut arbeiten.
 This diathesis is not possible with many patientive intransitive verbs like *platzen* 'to burst' [@next a,b] or *bluten* 'to bleed' [@next c,d]. However, note that this group of patientive intransitives is a different group of patientive intransitives than those that take a *sein+Partizip* perfect (cf. [@sec:participles-restrictions]).
 
 ::: ex
-a. Der Ballon platzt.
+a. Der Ballon platzt. \
    Der Ballon ist geplatzt.
 b. ^* Zuhause lässt es sich gut platzen.
 c. Der Patient blutet. \
@@ -544,7 +545,19 @@ c. Der Patient blutet. \
 d. ^* Hier lässt es sich schwer bluten.
 :::
 
-Verbs with governed prepositional phrases show a similar diathesis, like with *zweifeln* 'to doubt' [@next a]. However, when the governed prepositional phrase is expressed (here with preposition *an*), then the adverbial evaluation does not appear to be necessary anymore. The status of the valency-simulating *es* is unclear in such examples, though my impression is that with governed prepositional phrases the pronoun *es* is left out by default [@next b]. Whether there really is a difference in the status of *es* depending on the presence of governed prepositional phrases needs more research.
+#### Attested verbs {.unnumbered}
+
+- Possible with some agentive intransitives: *agieren, atmen, laufen, leben, schwimmen, singen, spielen, springen, tanzen, träumen*
+- Not possible with some patientive intransitives: *bluten, duften, husten, niesen, platzen*
+
+#### Further examples {.unnumbered}
+
+- An der frischen Luft lässt es sich frei atmen.
+- Auf unbefestigtem Gelände läßt sich freier agieren.^[~~DWDS~~: Berliner Zeitung, 06.11.1997.]
+
+### [ NP | –P ] *lassen+In­fi­ni­tiv* Reflexive impersonal+governed preposition {#sec:infinitive-lassen-reflexive-intransitive-governed}
+
+Intransitive verbs with a governed prepositional phrases, like *zweifeln* 'to doubt' [@next a], show an impersonal *lassen+Reflexiv* diathesis similar to the previous one. When the governed prepositional phrase is expressed (below with the preposition *an*), then there are various syntactic difference to 'real' intransitives. First, the adverbial evaluation does not appear to be necessary anymore. Second, the status of the valency-simulating *es* is unclear in such examples, though my impression is that with governed prepositional phrases the pronoun *es* is left out by default [@next b]. Whether there really is a difference in the status of *es* depending on the presence of governed prepositional phrases needs more research.
 
 ::: ex
 a. Ich zweifele an der Ernsthaftigkeit der Aussage.
@@ -555,21 +568,19 @@ This diathesis appears to be possible with almost all intransitive verbs with a 
 
 ::: ex
 a. Der Müll stinkt nach Fisch.
-b. ^* Nach Fisch lässt es sich stinken.
+b. ^* Nach Fisch lässt (es) sich stinken.
 :::
 
 #### Attested verbs {.unnumbered}
 
-- Possible with some agentive intransitives: *agieren, atmen, laufen, leben, schwimmen, singen, spielen, springen, streiten, tanzen, träumen*
-- Not possible with some patientive intransitives: *bluten, duften, husten, niesen, platzen, riechen, stinken*
+- *streiten, zweifeln*
+- Not possible with: *riechen, stinken*
 
 #### Further examples {.unnumbered}
 
-- An der frischen Luft lässt es sich frei atmen.
-- Auf unbefestigtem Gelände läßt sich freier agieren.^[~~DWDS~~: Berliner Zeitung, 06.11.1997.]
 - Über das Wetter lässt sich schlecht streiten.^[~~DWDS~~: Die Zeit, 02.03.2017 (online).]
 
-### [ N | – ] *sein+Infinitive* Impersonal+adverbial (*Zustandsbewertung*) {#sec:infinitive-sein-adverbial}
+### [ N | – ] *sein+Infinitive* Impersonal+evaluative (*Zustandsbewertung*) {#sec:infinitive-sein-adverbial}
 
 As attested in the famous German saying *Im Dunkeln ist gut munkeln*, this diathesis is rather formulaic, but astonishingly widespread and productive. It consists of the verb *sein* with an infinitive and an evaluative adverb. Only the adverbs *gut, schlecht, leicht* and *schwer* appear to be possible. This diathesis is highly frequent with a location phrase [@next a]. However, other adverbial phrases are also attested [@next b]. The verbs used in this diathesis are typically agentive, though incidental examples with patientive verbs are also attested, like with *einschlafen* [@next c], see also the further examples below.
 
@@ -909,18 +920,18 @@ These options might appear obviously different, but in practice it is often quit
   (= Ein Kuchen ist ein passendes Geschenk für den König.)
 :::
 
-| | Case of reflexive | Analysis of reflexive constructions with a *lassen* diathesis in [@last] | cf. Section |
-| :- | :--- | :--- | :---: |
-| a. | accusative | Causative + a self‑reflexive of an accusative argument | [-@sec:reflexive-self-inflicting-accusative] |
+|    | Case of reflexive | Analysis of reflexive constructions with a *lassen* diathesis in [@last] | cf. Section |
+| :- | :--- | :------------------ | :-: |
+| a. | accusative | Causative + self‑reflexive of an accusative argument | [-@sec:reflexive-self-inflicting-accusative] |
 | b. | accusative | Reflexive passive with a permission interpretation | [-@sec:infinitive-lassen-reflexive-passive] |
 | c. | accusative | Reflexive passive with a possibility interpretation | [-@sec:infinitive-lassen-reflexive-passive] |
-| d. | dative | Causative + a reflexive possessor dative | [-@sec:case-possessor-accusative-to-dative] |
-| e. | dative | Causative + a reflexive beneficiary dative | [-@sec:prepositions-benefactive-dative] |
+| d. | dative | Causative + self-reflexive of a possessor dative | [-@sec:case-possessor-accusative-to-dative] |
+| e. | dative | Causative + self-reflexive of a beneficiary dative | [-@sec:prepositions-benefactive-dative] |
 | f. | dative | Reflexive inversive of a verb with a dative (*schmecken*) | [-@sec:infinitive-lassen-dative-reflexive-inversive] |
-| g. | dative | Causative + a self‑reflexive of a dative argument | [-@sec:reflexive-dative-accusative] |
+| g. | dative | Causative + self‑reflexive of a dative argument | [-@sec:reflexive-dative-accusative] |
 | h. | accusative | Reflexive passive of a verb with a recipient (*schenken*) | [-@sec:infinitive-lassen-reflexive-passive] |
 
-Table: Analysis of the sentences [@last] {#tbl:lassen-analysis}
+Table: Analysis of the sentences in [@last] {#tbl:lassen-analysis}
 
 ### --- [ Ø > SBJ > OBJ ] --- {.unnumbered}
 
@@ -1019,7 +1030,7 @@ b. Er schickt mich Bier holen.
 - Wenn Manne seine Diener, zwei beflissene Penner, Bier holen schickt, dann …^[~~DWDS~~: Die Zeit, 10.02.2005, Nr. 07]
 - Gegen Nürnberg ließ Fairchild, diesmal wieder Angreifer, seinen aufgestauten Frust verbal an Referee Chvatal aus, der ihn mit einer Spieldauerstrafe duschen schickte.^[~~DWDS~~: Berliner Zeitung, 19.02.2004]
 
-### [ –N | NA ] *machen+In­fi­ni­tiv* Causative (*Agentivkausativ*) {#sec:infinitive-machen}
+### [ –N | NA ] *machen+In­fi­ni­tiv* Causative (*Aufforderungskausativ*) {#sec:infinitive-machen}
 
 The verb *machen* can be used with an infinitive to express a causative meaning. This typically is found with intransitives, like *lachen* 'to laugh' [@next a], though incidental transitives are also attested, like *vergessen* 'to forget' [@next b]. Although this construction might look like an English calque ('he makes me laugh'), it is already attested in early German examples [@next c], so it seems to be an old Germanic construction. This diathesis does not invoke the ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next d]. 
 

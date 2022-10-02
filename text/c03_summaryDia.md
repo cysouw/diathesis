@@ -16,14 +16,18 @@ In this chapter, the diatheses are organised in sections according to the gramma
 
 Before diving into the daunting diversity of German diathesis, a short note on German names for different clause types is in order (summarised in [@tbl:clause-types]). The distinction between sentence (German: ~~Satz~~) and clause (German: ~~Teilsatz~~) is customary made in the German grammatical literature when a precise description is needed. However, the term *Satz* is often used as a shorthand for both. Subdividing clauses, there is of course a basic distinction between main clause (German: ~~Hauptsatz~~, more precise would be ~~Selbständiger Teilsatz~~) and subordinate clause (German: ~~Nebensatz~~ or alternatively ~~Untergeordneter Teilsatz~~). 
 
-Yet, a central thesis of this book is that there is a further subdivision for both main and subordinate clauses into three different kinds of clauses. First, a 'basic clause' is a clause with a single finite verb in the *Präsens* or *Präteritum*. In German I propose to use ~~Basissatz~~, or, to be more precise, ~~Grundlegender Teilsatz~~. Second, an 'epithesis' is a clause alternation without role-remapping. In German I propose to use either the neologism ~~Übersatz~~ or the Greek-inspired ~~Epithese~~, or, to be more precise, ~~Erweiterter Teilsatz~~. Finally, a diathesis is a clause alternation with role-remapping. In German I propose to use the neologism ~~Wechselsatz~~ or the Greek-inspired ~~Diathese~~, or, to be more precise, ~~Umgestellter Teilsatz~~.
+Yet, a central thesis of this book is that there is a further subdivision for both main and subordinate clauses. First, a 'basic clause' is a clause with a single finite verb in the *Präsens* or *Präteritum*. For German I propose to use the term ~~Basissatz~~, or, to be more precise, ~~Grundlegender Teilsatz~~. Various kinds of derived clauses can be constructed from a basic clause. For German I propose to call such a derived clause a ~~Spezialsatz~~, or, to be more precise, ~~Abgeleiteter Teilsatz~~.
+
+There are two kinds of derived clauses. First, an epithesis is a clause alternation without role-remapping. For German I propose to use either the neologism ~~Übersatz~~ or the Greek-inspired ~~Epithese~~, or, to be more precise, ~~Erweiterter Teilsatz~~. Second, a diathesis is a clause alternation with role-remapping. For German I propose to use the neologism ~~Wechselsatz~~ or the Greek-inspired ~~Diathese~~, or, to be more precise, ~~Umgestellter Teilsatz~~.
 
 |    English Term    |        German Term         |    Short German Term     |
-| :----------------: | :------------------------: | :----------------------: |
+| :---: | :---: | :---: |
 |    Main clause     |  *Selbständiger Teilsatz*  |       *Hauptsatz*        |
 | Subordinate clause | *Untergeordneter Teilsatz* |       *Nebensatz*        |
-|                    |                            |                          |
+|                    |                            |                          |
 |    Basic clause    |  *Grundlegender Teilsatz*  |       *Basissatz*        |
+|   Derived clause   |   *Abgeleiteter Teilsatz*  |      *Spezialsatz*       |
+|                    |                            |                          |
 |     Epithesis      |   *Erweiterter Teilsatz*   |  *Übersatz (Epithese)*   |
 |     Diathesis      |  *Umgestellter Teilsatz*   | *Wechselsatz (Diathese)* |
 
@@ -100,22 +104,22 @@ a. Wir verlieren den Koffer nicht.
 b. Jetzt gilt es (für uns) den Koffer nicht zu verlieren.
 :::
 
-### *Aufforderungsdemotiv* (*heißen+In­fi­ni­tiv*) {#sec:summary-intrans-notwendigkeitsdemotiv}
-
-The ~~Aufforderungsdemotiv~~ (full discussion in [@sec:infinitive-heißen-demotion]) consists of the verb *heißen* with an infinitive. The meaning of this constructions is very close to the previous *Notwendigkeitsdemotiv* (see [@sec:summary-notwendigkeitsdemotiv]). The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the light verb *heißen* is always in the third person singular, resulting in fixed expressions *es heißt*. The removed subject can optionally be retained with a *für* prepositional phrase. However, different from *gelten+In­fi­ni­tiv*, the construction *heißen+In­fi­ni­tiv* can only be applied to intransitive verbs. Note that there also exists a completely separate causative usage of *heißen+In­fi­ni­tiv*, but that *Agentivkausativ* appears to be rather old-fashioned (see [@sec:summary-machenkausativ]).
-
-::: ex
-a. Er redet weiter.
-b. Dann heißt es für ihn weiter reden.
-:::
-
 ### *Möglichkeitsdemotiv* (*geben+zu‑In­fi­ni­tiv*) {#sec:summary-moglichkeitsdemotiv}
 
-The ~~Möglichkeitsdemotiv~~ (full discussion in [@sec:zuinfinitive-geben-demotion]) uses a subjectless light verbs *geben* with *zu* and an infinitive [@next]. The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the light verbs are always in the third person singular, resulting in fixed expressions *es gibt*. The removed subject can optionally be retained with a *für* prepositional phrase, though this is less frequent compared to the *gelten+zu‑In­fi­ni­tiv* diathesis (see [@sec:summary-notwendigkeitsdemotiv]). Any other argument is simply preserved, like the accusative *den Koffer* 'the suitcase' in the example below. The *Möglichkeitsdemotiv* semantically invokes an option that is available to the original subject, i.e. a modal-like 'can' meaning. The construction *geben+zu‑In­fi­ni­tiv* is also used in a semantically and structurally quite different diathesis, namely the *Auftragskausativ* (see [@sec:summary-auftragskausativ]).
+The ~~Möglichkeitsdemotiv~~ (full discussion in [@sec:zuinfinitive-geben-demotion]) uses a subjectless light verbs *geben* with *zu* and an infinitive [@next]. The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the light verbs are always in the third person singular, resulting in fixed expressions *es gibt*. The removed subject can optionally be retained with a *für* prepositional phrase, though this is less frequent compared to the *gelten+zu‑In­fi­ni­tiv* diathesis (see [@sec:summary-notwendigkeitsdemotiv]). Any other argument is simply preserved, like the accusative *den Koffer* 'the suitcase' in the example below. The *Möglichkeitsdemotiv* semantically invokes an option that is available to the original subject, i.e. a modal-like 'can' meaning. The same construction *geben+zu‑In­fi­ni­tiv* is also used in a semantically and structurally quite different diathesis, namely the *Möglichkeitskausativ* (see [@sec:summary-moglichkeitskausativ]).
 
 ::: ex
 a. Wir kaufen den Koffer.
 b. In dem Laden gibt es den Koffer ^?^(für uns) zu kaufen.
+:::
+
+### *Aufforderungsdemotiv* (*heißen+In­fi­ni­tiv*) {#sec:summary-intrans-notwendigkeitsdemotiv}
+
+The ~~Aufforderungsdemotiv~~ (full discussion in [@sec:infinitive-heißen-demotion]) consists of the verb *heißen* with an infinitive. The meaning of this constructions is very close to the previous *Notwendigkeitsdemotiv* (see [@sec:summary-notwendigkeitsdemotiv]). The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the light verb *heißen* is always in the third person singular, resulting in fixed expressions *es heißt*. The removed subject can optionally be retained with a *für* prepositional phrase. However, different from *gelten+In­fi­ni­tiv*, the construction *heißen+In­fi­ni­tiv* can only be applied to intransitive verbs. Note that there also exists a completely separate causative usage of *heißen+In­fi­ni­tiv*, but that *Aufforderungskausativ* appears to be rather old-fashioned (see [@sec:summary-machenkausativ]).
+
+::: ex
+a. Er redet weiter.
+b. Dann heißt es für ihn weiter reden.
 :::
 
 ## Conciliative diatheses ~~[ADJ › SBJ › Ø]~~
@@ -286,6 +290,17 @@ b. Die Tür bleibt ^?^(durch den Pförtner) geschlossen.
 c. DIe Tür bleibt ^!^(durch einen Vorhang) verborgen.
 :::
 
+### *Modalpassiv* (*sein+zu‑In­fi­ni­tiv*) {#sec:summary-modalpassiv}
+
+The ~~Modalpassiv~~ (full discussion in [@sec:zuinfinitiv-sein-passive]) is constructed using the light verb *sein* with *zu* and an infinitive. When applied to transitive verbs like *führen* 'to lead' [@next a] or *lösen* 'to solve' [@next b] this diathesis promotes the accusative to nominative subject. The erstwhile nominative subject can be retained as a prepositional phrase. This diathesis has two different interpretations. It can indicate either an deontic modality ('must') as in [@next a] or an ability ('can') as in [@next b]. Note that the subject retention with the preposition *für* is only possible in the ability-interpretation. The closely related *unpersönlicher Modalpassiv* is used with intransitives and only allows for the deontic interpretation (see [@sec:summary-unpersonlicher-modalpassiv]).
+
+::: ex
+a. Der Besitzer führt den Hund an der Leine. \
+   Hunde sind an der Leine zu führen (von ihren Besitzern).
+b. Die Schüler lösen die Aufgabe. \
+   Die Aufgabe ist (für die Schüler) leicht zu lösen.
+:::
+
 ### *Normpassiv* (*gehören+Partizip*) {#sec:summary-normpassiv}
 
 The ~~Normpassiv~~ (full discussion in [@sec:participles-gehoren-anticausative]) consists of the light verb *gehören* with a participle. It is only attested with verbs with accusative objects, like *bestrafen* 'to punish' [@next]. The diathesis expresses that the main verb ought to be applied to the object. The original subject can optionally be retained as a prepositional phrase. 
@@ -293,6 +308,17 @@ The ~~Normpassiv~~ (full discussion in [@sec:participles-gehoren-anticausative])
 ::: ex
 a. Der Schiedsrichter bestraft den Spieler.
 b. Der Spieler gehört bestraft (durch den Schiedsrichter)
+:::
+
+### *Permissivpassiv* (*lassen+In­fi­ni­tiv*) {#sec:summary-permissivpassiv}
+
+The ~~Permissivpassiv~~ (full discussion in [@sec:infinitive-lassen-reflexive-passive]) consists of the light verb *lassen* with infinitive and an obligatory reflexive pronoun [@next]. The agent can be retained with an optional *von* prepositional phrase, so this diathesis is a passive. This diathesis expresses that something is permitted [@next a] or that something is possible [@next b]. A similar construction with *lassen+sich+In­fi­ni­tiv* can be applied to intransitive verbs, which leads to a different diathesis, namely the *Möglichkeitsbewertung* (see [@sec:summary-unpersonlicher-moglichkeitspassiv]). Also the *Permissivkonversiv* (see [@sec:summary-permissivkonversiv]) and the *Permissivinversiv* (see [@sec:summary-permissivinversiv]) use the same construction with *lassen*, but they also show different role-remappings.
+
+::: ex
+a. Die Visagistin schminkt ihn. \
+   Er lässt sich (von der Visagistin) schminken.
+a. Der Pförtner schließt die Tür. \
+   Die Tür lässt sich (von dem Pförtner) schließen.
 :::
 
 ### *Rezipientenpassiv* (*bekommen/kriegen/erhalten+Partizip*) {#sec:summary-rezipientenpassiv}
@@ -314,28 +340,6 @@ The designation *pertinenz* refers to the fact that the new subject is necessari
 a. Der Friseur schneidet dem Minister die Haare.
 b. Der Minister hat die Haare geschnitten ^?^(durch den Friseur).
 c. Der Minister will die Haare vom Friseur geschnitten haben.
-:::
-
-### *Modalpassiv* (*sein+zu‑In­fi­ni­tiv*) {#sec:summary-modalpassiv}
-
-The ~~Modalpassiv~~ (full discussion in [@sec:zuinfinitiv-sein-passive]) is constructed using the light verb *sein* with *zu* and an infinitive. When applied to transitive verbs like *führen* 'to lead' [@next a] or *lösen* 'to solve' [@next b] this diathesis promotes the accusative to nominative subject. The erstwhile nominative subject can be retained as a prepositional phrase. This diathesis has two different interpretations. It can indicate either an deontic modality ('must') as in [@next a] or an ability ('can') as in [@next b]. Note that the subject retention with the preposition *für* is only possible in the ability-interpretation. The closely related *unpersönlicher Modalpassiv* is used with intransitives and only allows for the deontic interpretation (see [@sec:summary-unpersonlicher-modalpassiv]).
-
-::: ex
-a. Der Besitzer führt den Hund an der Leine. \
-   Hunde sind an der Leine zu führen (von ihren Besitzern).
-b. Die Schüler lösen die Aufgabe. \
-   Die Aufgabe ist (für die Schüler) leicht zu lösen.
-:::
-
-### *Permissivpassiv* (*lassen+In­fi­ni­tiv*) {#sec:summary-permissivpassiv}
-
-The ~~Permissivpassiv~~ (full discussion in [@sec:infinitive-lassen-reflexive-passive]) consists of the light verb *lassen* with infinitive and an obligatory reflexive pronoun [@next]. The agent can be retained with an optional *von* prepositional phrase, so this diathesis is a passive. This diathesis expresses that something is permitted [@next a] or that something is possible [@next b]. A similar construction with *lassen+sich+In­fi­ni­tiv* can be applied to intransitive verbs, which leads to a different diathesis, namely the *Möglichkeitsbewertung* (see [@sec:summary-unpersonlicher-moglichkeitspassiv]). Also the *Permissivkonversiv* (see [@sec:summary-permissivkonversiv]) and the *Permissivinversiv* (see [@sec:summary-permissivinversiv]) use the same construction with *lassen*, but they also show different role-remappings.
-
-::: ex
-a. Die Visagistin schminkt ihn. \
-   Er lässt sich (von der Visagistin) schminken.
-a. Der Pförtner schließt die Tür. \
-   Die Tür lässt sich (von dem Pförtner) schließen.
 :::
 
 ## Conversive diatheses ~~[OBJ › SBJ › PBJ]~~
@@ -454,6 +458,16 @@ a. Der Wettkampf endet.
 b. Ich beende den Wettkampf.
 :::
 
+### *Direktivkausativ* (*schicken+In­fi­ni­tiv*) {#sec:summary-direktivkausativ} 
+
+The ~~Direktivkausativ~~ (full discussion in [@sec:infinitive-schicken]) is a novative in which the new subject is gives orders rather than directly causing something to happen. This diathesis is constructed with the light verb *schicken* with an infinitive. The meaning of the construction is rather close to the full lexical meaning of *schicken* 'to send'. However, this construction is coherent, and thus monoclausal [@next c].
+
+::: ex
+a. Er schläft
+b. Ich schicke ihn schlafen.
+c. (Es ist bekannt, dass) ich ihn schlafen schicke.
+:::
+
 ### *Permissivkausativ* (*lassen+In­fi­ni­tiv*) {#sec:summary-permissivkausativ}
 
 The ~~Permissivkausativ~~ (full discussion in [@sec:infinitive-lassen-causative]) consists of the light verb *lassen* with an infinitive. This diathesis is widely acknowledged in German grammar. It is often simply called a *Kausativ* but this construction has actually at least two different interpretations, namely a causative [@next c] and a permissive [@next d]. It is widely used in German and there are only few verbs that do not allow for this diathesis (e.g. *gefallen* 'to like' or *interessieren* 'to interest' cannot be used).
@@ -465,30 +479,11 @@ c. (= Sie verursacht, dass ich die Kleider wasche.)
 d. (= Sie erlaubt, dass ich die Kleider wasche.)
 :::
 
-### *Agentivkausativ* (*machen/heißen+In­fi­ni­tiv*) {#sec:summary-machenkausativ}
+### *Möglichkeitskausativ* (*geben+zu‑In­fi­ni­tiv*) {#sec:summary-moglichkeitskausativ}
 
-The ~~Agentivkausativ~~ (full discussion in [@sec:infinitive-machen]) is probably the most pure causative of all the various novative diatheses. It uses the light verb *machen* 'to make' and adds a causer [@next a]. It is not in widespread use and often sounds like an English calque, though it is probably an old Germanic construction. A highly similar construction uses the light verb *heißen* [@next b], though this is old-fashioned (full discussion in [@sec:infinitive-heißen]).
+The ~~Möglichkeitskausativ~~ (full discussion in [@sec:zuinfinitive-geben-causative]) adds a new subject by using the light verb *geben* with a *zu-In­fi­ni­tiv*. In this diathesis the erstwhile subject becomes a dative and not an accusative. In many examples the meaning of this diathesis is very close to the meaning of the lexical verb *geben* 'to give'. For example with the verb *trinken* 'to drink' [@next a] the construction allows both for a literal interpretation 'he gives X to Y for drinking' and for a causative-permissive interpretation 'he causes/offers Y to drink X'. The causative-permissive interpretation of *geben+zu‑In­fi­ni­tiv* is more clearly exemplified with verbs that take clausal complements, like *bedenken* 'to consider' [@next b]. 
 
-::: ex
-a. Ich weine. \
-   Deine Späße machen mich weinen.
-b. Er kniete nieder. \
-   Der Henker hieß ihn niederknien.
-:::
-
-### *Direktivkausativ* (*schicken+In­fi­ni­tiv*) {#sec:summary-direktivkausativ} 
-
-The ~~Direktivkausativ~~ (full discussion in [@sec:infinitive-schicken]) is a novative in which the new subject is gives orders rather than directly causing something to happen. This diathesis is constructed with the light verb *schicken* with an infinitive. The meaning of the construction is rather close to the full lexical meaning of *schicken* 'to send'. However, this construction is coherent, and thus monoclausal [@next c].
-
-::: ex
-a. Er schläft
-b. Ich schicke ihn schlafen.
-c. (Es ist bekannt, dass) ich ihn schlafen schicke.
-:::
-
-### *Auftragskausativ* (*geben+zu‑In­fi­ni­tiv*) {#sec:summary-auftragskausativ}
-
-The ~~Auftragskausativ~~ (full discussion in [@sec:zuinfinitive-geben-causative]) adds a causer by using the light verb *geben* with a *zu-In­fi­ni­tiv*. In this diathesis the erstwhile subject becomes a dative (not an accusative). In many examples of this diathesis the meaning of this diathesis is very close to the meaning of the lexical verb *geben* 'to give'. For example with the verb *trinken* 'to drink' [@next a] the construction allows both for a literal interpretation 'he gives X to Y for drinking' and for a causative interpretation 'he causes Y to drink X'. The light-verb status of *geben* (with a causative interpretation) is more clearly exemplified with verbs that take clausal complements, like *bedenken* 'to consider' [@next b]. This construction is coherent, and thus monoclausal [@next c], so, whatever the precise semantic interpretation, this is structurally clearly a diathesis. Complicating things even more, the *geben+zu‑In­fi­ni­tiv* construction is also used for a semantically and structurally quite different diathesis, namely the *Möglichkeitsdemotiv* (see [@sec:summary-moglichkeitsdemotiv]).
+This construction is coherent, and thus monoclausal [@next c], so, whatever the precise semantic interpretation, this alternation is structurally clearly a diathesis. Complicating things even more, the *geben+zu‑In­fi­ni­tiv* construction is also used for a semantically and structurally quite different diathesis, namely the *Möglichkeitsdemotiv* (see [@sec:summary-moglichkeitsdemotiv]).
 
 ::: ex
 a. Das Kind trinkt Milch. \
@@ -501,13 +496,24 @@ c. (Es ist bekannt, dass) er dem Kind Milch zu trinken gibt. \
 
 ### *Fortsetzungskausativ* (*halten+am‑In­fi­ni­tiv*) {#sec:summary-kontinuitatskausativ}
 
-The ~~Fortsetzungskausativ~~ (full discussion in [@sec:zuminfinitive-halten-causative]) uses the light verb *halten* with an *am‑In­fi­ni­tiv*. This diathesis adds a causer to an intransitive verb. It is typically used with the verb *laufen* 'to run' [@next a], but it is also attested with other agentive intransitive verbs. However, the subject of the intransitive is typically an inanimate object, like *Laden* 'shop' in [@next a]. Additionally, verbs describing heat production like *brennen* 'to burn' [@next b] are frequently attested with this diathesis. The *halten+am‑In­fi­ni­tiv* diathesis expresses that a process is kept ongoing by the added causer. The light verb *halten* is also used in the related *Kausativkontinuativ* epithesis (see [@sec:summary-kausativkontinuativ]).
+The ~~Fortsetzungskausativ~~ (full discussion in [@sec:zuminfinitive-halten-causative]) uses the light verb *halten* with an *am‑In­fi­ni­tiv*. This diathesis adds a causer to an intransitive verb. It is typically used with the verb *laufen* 'to run' [@next a], but it is also attested with other agentive intransitive verbs. However, the subject of the intransitive is typically an inanimate object, like *Laden* 'shop' in [@next a]. Additionally, verbs describing heat production like *brennen* 'to burn' [@next b] are frequently attested with this diathesis. The *halten+am‑In­fi­ni­tiv* diathesis expresses that a process is kept ongoing by the newly added causer. The light verb *halten* is also used in the related *Kausativkontinuativ* epithesis (see [@sec:summary-kausativkontinuativ]).
 
 ::: ex
 - Der Laden läuft. \
   Er hält den Laden am Laufen.
 - Das Feuer brennt. \
   Der Wind hält das Feuer am Brennen.
+:::
+
+### *Aufforderungskausativ* (*machen/heißen+In­fi­ni­tiv*) {#sec:summary-machenkausativ}
+
+The ~~Aufforderungskausativ~~ (full discussion in [@sec:infinitive-machen]) is probably the most pure causative of all the various novative diatheses. It uses the light verb *machen* 'to make' and adds a causer [@next a]. It is not in widespread use and often sounds like an English calque (cf. 'he makes me cry'), though it is probably an old Germanic construction. A highly similar construction uses the light verb *heißen* [@next b], though this is old-fashioned (full discussion in [@sec:infinitive-heißen]).
+
+::: ex
+a. Ich weine. \
+   Deine Späße machen mich weinen.
+b. Er kniete nieder. \
+   Der Henker hieß ihn niederknien.
 :::
 
 ### *Perzeptiv* (*sehen/hören/fühlen/spüren+In­fi­ni­tiv*) {#sec:summary-sensativ}
