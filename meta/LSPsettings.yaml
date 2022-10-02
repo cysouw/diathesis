@@ -1,0 +1,38 @@
+# main settings
+
+documentclass: book
+top-level-division: chapter
+lang: en-GB # important for hyphenation
+
+# pandoc-crossref settings
+
+secPrefix: 
+  - Sec­tion
+  - Sec­tions
+tblPrefix:
+  - Table
+  - Tables
+figPrefix:
+  - Figure
+  - Figures
+pairDelim: "-"
+chapters: true
+linkReferences: true
+setLabelAttribute: true
+
+# pandoc-ling settings
+
+addChapterNumber: true
+xrefSuffixSep: " "
+latexPackage: langsci-gb4e
+formatGloss: true
+
+# count-para settings
+
+resetAtChapter: true
+
+# citeproc settings
+
+bibliography: /Users/cysouw/Documents/Bibdesk/michaellibrary.bib
+citation-style: /Users/cysouw/Documents/Bibdesk/unified.csl
+link-citations: true

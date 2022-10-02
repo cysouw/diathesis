@@ -1,0 +1,41 @@
+# pandoc 'defaults'
+
+from: markdown
+to: latex
+output-file: LSP/skeleton/chapters/all.tex
+
+input-files:
+- text/preface.md
+- text/c01_introduction.md
+- text/c02_structure.md
+- text/c03_summaryDia.md
+- text/c04_summaryEpi.md
+- text/c05_case.md
+- text/c06_prepositions.md
+- text/c07_reflexive.md
+- text/c08_preverbs.md
+- text/c09_adverbials.md
+- text/c10_participle.md
+- text/c11_infinitive.md
+- text/c12_zuInfinitive.md
+- text/c13_zumInfinitive.md
+- text/references.md
+
+filters:
+- filters/setdate.lua
+- filters/strikeout-to-smallcaps.lua
+- filters/count-para.lua
+- filters/pandoc-ling.lua
+- pandoc-crossref
+- citeproc
+
+metadata-files:
+- meta/metadata.yaml
+- meta/LSPsettings.yaml
+
+# pandoc-native functionalities
+
+number-sections: true
+table-of-contents: false
+standalone: false
+default-image-extension: pdf
