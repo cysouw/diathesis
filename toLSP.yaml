@@ -2,7 +2,7 @@
 
 from: markdown
 to: latex
-output-file: LSP/skeleton/chapters/all.tex
+output-file: ../diathesisLSP/skeleton/chapters/all.tex
 
 input-files:
 - text/preface.md
