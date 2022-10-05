@@ -3,7 +3,7 @@
 from: markdown
 to: pdf
 pdf-engine: xelatex
-output-file: docs/fulltext.pdf
+output-file: docs/cysouwDIATHESIS.pdf
 
 input-files:
 - text/preface.md
@@ -20,7 +20,6 @@ input-files:
 - text/c11_infinitive.md
 - text/c12_zuInfinitive.md
 - text/c13_zumInfinitive.md
-#- text/examples.md
 - text/references.md
 
 filters:

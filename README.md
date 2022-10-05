@@ -4,7 +4,7 @@ Michael Cysouw <cysouw@mac.com>
 
 This is a developing manuscript of a book about German diatheses.
 
-The easiest way to read the current version is by using the latest HTML or PDF output included in the [`/docs`](docs) directory of this repository. The HTML output can be directly accessed [here](https://cysouw.github.io/diathesis/fulltext.html).
+The easiest way to read the current version is by using the latest HTML or PDF output included in the [`/docs`](docs) directory of this repository. The HTML output can be directly accessed [here](https://cysouw.github.io/diathesis/).
 
 This (large) scientific book is completely written in markdown, which has been amazingly extended by the framework provided by [Pandoc](https://pandoc.org/index.html), see the [`tohtml.yaml`](tohtml.yaml) file for my setup. To make for a cleaner setup, I have decided to separate the metadata into different files, see the files in [`/meta`](meta).
 
