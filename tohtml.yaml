@@ -42,6 +42,6 @@ metadata-files:
 number-sections: true
 table-of-contents: true
 standalone: true
-# self-contained: true
+self-contained: true
 default-image-extension: svg
 wrap: preserve

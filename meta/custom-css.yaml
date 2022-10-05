@@ -65,11 +65,12 @@ header-includes:
   }
   </style>
   ```
-# Webfont links
+# Webfont links. 
+# data-external="1" does not include the fonts with pandoc --self-contained
 - |
   ```{=html}
   <!-- Links for using webfont -->
-  <link href="https://fonts.cdnfonts.com/css/libertinus-serif" rel="stylesheet">
+  <link href="https://fonts.cdnfonts.com/css/libertinus-serif" rel="stylesheet" data-external="1">
   ```
 - |
   ```{=html}
