@@ -198,7 +198,7 @@ d. Der Fall ist entschieden.
 
 ### *Bewertungsantikausativ* {#sec:summary-wertungsantikausativ}
 
-The ~~Bewertungsantikausativ~~ (full discussion in [@sec:adverbial-reflexive-transitive-anticausative] and subsequent sections) is possible with many straightforward transitive verbs, like with *verkaufen* 'to sell' or *lesen* 'to read' [@next a]. The anticausative intransitive obligatorily needs a reflexive pronoun, and additionally an obligatory manner adverbial is needed [@next b]. Just like the previous anticausatives, the intransitive occurs both with *haben* and *sein* in the perfect. However, *haben* is clearly used with the reflexive anticausative construction with obligatory adverbial [@next c], while *sein* is used with the ~~Zustandspassiv~~ (see [@sec:summary-zustandspassiv]) of the original transitive, without reflexive pronoun or obligatory adverbial evaluation [@next d].
+The ~~Bewertungsantikausativ~~ (full discussion in [@sec:adverbial-reflexive-transitive-anticausative] and subsequent sections) is possible with many straightforward transitive verbs, like with *ver­kauf­en* 'to sell' or *lesen* 'to read' [@next a]. The anticausative intransitive obligatorily needs a reflexive pronoun, and additionally an obligatory manner adverbial is needed [@next b]. Just like the previous anticausatives, the intransitive occurs both with *haben* and *sein* in the perfect. However, *haben* is clearly used with the reflexive anticausative construction with obligatory adverbial [@next c], while *sein* is used with the ~~Zustandspassiv~~ (see [@sec:summary-zustandspassiv]) of the original transitive, without reflexive pronoun or obligatory adverbial evaluation [@next d].
 
 ::: ex
 a. Ich verkaufe das Buch.
@@ -229,7 +229,7 @@ b. Die Stille entspannt ihn. \
 
 ### *Darstellungsantikausativ* (*geben/zeigen+Partizip*) {#sec:summary-prasentativantikausativ}
 
-The ~~Darstellungsantikausativ~~ (full discussion in [@sec:participles-geben-reflexive-anticausative]) uses the light verb *geben* with a participle and an obligatory reflexive pronoun. It expresses a conscious performance to appear in a certain way by the erstwhile accusative. The original nominative cannot be retained. The light verb *zeigen* can be used alternatively to *geben*. Any difference between these two light verbs needs more investigation.
+The ~~Darstellungsantikausativ~~ (full discussion in [@sec:participles-geben-reflexive-anticausative]) consists of the light verb *geben* with a participle and an obligatory reflexive pronoun. It expresses a conscious performance to appear in a certain way by the erstwhile accusative. The original nominative cannot be retained. The light verb *zeigen* can be used alternatively to *geben*. Any difference between these two light verbs needs more investigation.
 
 ::: ex
 a. Die Stille entspannt ihn.
@@ -282,7 +282,7 @@ c. Der Schrank ist ^!^(vom Schreiner) gebaut.
 
 ### *Fortsetzungspassiv* (*bleiben+Partizip*) {#sec:summary-kontinuativantikausativ}
 
-The ~~Fortsetzungspassiv~~ (full discussion in [@sec:participles-bleiben-transitive]) is closely related to the *sein-Zustandspassiv* (see [@sec:summary-zustandspassiv]), but now the light verb *bleiben* is used with a participle [@next]. This construction expresses that a reached state is maintained. Like with *sein*, the retention of the original agent with *bleiben* is possible, but often difficult [@next b,c]. However, not all verbs can be equally used with *sein* and *bleiben*. For example, verbs like *drucken* 'to print' or *schreiben* 'to write' are fine with the *sein-Zustandspassiv* but not with the *bleiben-Fortsetzungspassiv*. This construction is only attested with transitive verbs. The same *bleiben+Partizip* construction can be used with intransitive verbs, but then it does not induce a diathesis and is called ~~Perfektkontinuativ~~ (see [@sec:summary-perfektkontinuativ]).
+The ~~Fortsetzungspassiv~~ (full discussion in [@sec:participles-bleiben-transitive]) is closely related to the *sein-Zustandspassiv* (see [@sec:summary-zustandspassiv]), but now the light verb *bleiben* is used with a participle [@next]. This construction expresses that a reached state is maintained. Like with *sein*, the retention of the original agent with *bleiben* is possible, but often difficult [@next b,c]. However, not all verbs can be equally used with *sein* and *bleiben*. For example, verbs like *drucken* 'to print' or *schreiben* 'to write' are fine with the *sein-Zustandspassiv* but not with the *bleiben-Fortsetzungspassiv*. This construction is only attested with transitive verbs. The same *bleiben+Parti­zip* construction can be used with intransitive verbs, but then it does not induce a diathesis and is called ~~Perfektkontinuativ~~ (see [@sec:summary-perfektkontinuativ]).
 
 ::: ex
 a. Der Pförtner schließt die Tür.

@@ -11,7 +11,7 @@ Browse any grammatical description of verbal categories in German and terms like
 - Ich bin einkaufen.
 :::
 
-As a case in point, the Duden grammar spends 20 pages on details of tense marking [-@duden2009: 496-516], while only a few other verbal constructions are discussed in just four pages [-@duden2009: 848-852] and some incidental references scattered throughout. This chapter can be read as an attempt at a complete survey of all those remaining German verbal categories, besides tense.
+As a case in point, the Duden grammar spends 20 pages on details of tense marking [-@duden2009: 496--516], while only a few other verbal constructions are discussed in just four pages [-@duden2009: 848--852] and some incidental references scattered throughout. This chapter can be read as an attempt at a complete survey of all those remaining German verbal categories, besides tense.
 
 This chapter arose as a byproduct of the main goal of this book, namely listing all German diatheses. To clearly delimit what counts as a diathesis, I also collected constructions that are structurally similar to diathesis, but that do not involve any role remapping. Such a structure is called an ~~epithesis~~ and the various instances are listed in-full in the respective .4 sections of the following data chapters. These epitheses express various notions in the grammatical domain commonly designated as ~~TAME~~, i.e. the marking of tense-aspect-mood-evidentiality. This chapter summarises and organises the major epitheses that I have been able to find. I will also propose Latinate-German names for all of these constructions. This results in an all-encompassing but rather unconventional perspective on the verbal categories of German.
 

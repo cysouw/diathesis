@@ -102,7 +102,7 @@ a. Er lässt mich ihn waschen.
 b. ^* Er lässt mich sich waschen.
 :::
 
-There are a few verbs that seem to allow for coreference with a non-nominative argument [cf. @duden2009: 273-274]. These are very unusual, with [@next b] being strange, though not impossible. Example [@nnext] clearly shows the problematic status of such reflexive pronouns. The word order in [@nnext a] only leaves the possibility of *sich* referring to the nominative subject. In contrast, the unusual word order in [@nnext b] makes it difficult to interpret the sentence, with both referential options of *sich* being possible: *sich* can refer here both to the nominative *sie* and to the dative *ihrem Freund*.
+There are a few verbs that seem to allow for coreference with a non-nominative argument [cf. @duden2009: 273--274]. These are very unusual, with [@next b] being strange, though not impossible. Example [@nnext] clearly shows the problematic status of such reflexive pronouns. The word order in [@nnext a] only leaves the possibility of *sich* referring to the nominative subject. In contrast, the unusual word order in [@nnext b] makes it difficult to interpret the sentence, with both referential options of *sich* being possible: *sich* can refer here both to the nominative *sie* and to the dative *ihrem Freund*.
 
 ::: ex
 a. Ich habe ihn über den Zustand aufgeklärt.
@@ -288,7 +288,7 @@ c. Ich habe mich zusammen mit meinem Nachbarn betrunken.
 d. Ich habe mich ohne meinen Nachbar betrunken.
 :::
 
-Verbs with reciprocal *mit* are sometimes called 'real' reciprocals [or ~~reciproca tantum~~, @wiemer2007: 467-468] because they can be considered to be inherently reciprocal, although they still can have a singular subject (see [@sec:reflexive-accusative-reciprocal] for the reciprocal constructions with plural subjects).
+Verbs with reciprocal *mit* are sometimes called 'real' reciprocals [or ~~reciproca tantum~~, @wiemer2007: 467--468] because they can be considered to be inherently reciprocal, although they still can have a singular subject (see [@sec:reflexive-accusative-reciprocal] for the reciprocal constructions with plural subjects).
 
 There are many verbs with the prefix *ver‑* in this class. Interestingly, many are derived from nominal stems, e.g. *sich verbrüdern* 'to fraternise' is derived from the noun *Bruder* 'brother', see [@sec:preverb-nominal-causative].
 
@@ -558,7 +558,7 @@ There are three different kinds of alternations involving reflexive pronouns tha
 
 Some verbs allow for both a construction with and without *sich*, but there is no difference in the valency between these two constructions. The difference in meaning between the two alternants is small and is in need for more in-depth study in all cases presented below. Note also that for these verbs a 'free' dative reflexive pronoun only occurs when a full accusative argument is present. 
 
-This alternation is almost completely ignored in the German grammatical literature. An early discussion of the phenomenon is found in Stötzel [-@stotzel1970: 174-177] and a short note is presented in Wiemer & Nedjalkov [-@wiemer2007: 498]. It is also possible that the occurrence of a 'free' reflexive is a dialectal phenomenon, see e.g. the apparent extension of reflexive usage in Austrian German as observed in Ziegler [-@ziegler2010].  
+This alternation is almost completely ignored in the German grammatical literature. An early discussion of the phenomenon is found in Stötzel [-@stotzel1970: 174--177] and a short note is presented in Wiemer & Nedjalkov [-@wiemer2007: 498]. It is also possible that the occurrence of a 'free' reflexive is a dialectal phenomenon, see e.g. the apparent extension of reflexive usage in Austrian German as observed in Ziegler [-@ziegler2010].  
 
 ### [ N | N ] Free accusative reflexive {#sec:reflexive-free}
 
@@ -1045,11 +1045,11 @@ b. Karl und Anna feuern sich (gegenseitig) an.
 c. Karl und Anna feuern einander an.
 :::
 
-Such a reciprocal construction necessarily needs a plural subject and can be identified by the possibility to add *gegenseitig* [@last b]. There is an older construction to express reciprocity in German by using *einander* [@last c] instead of *sich gegenseitig* [see @wiemer2007: 478ff. for an in depth discussion]. This construction with *einander* typically does not use *sich*, though the combination *sich […] miteinander* is possible, but very rare [@wiemer2007: 476-477]. Note that reciprocity inside a prepositional phrase can only be expressed by using *einander* [@wiemer2007: 482-485].
+Such a reciprocal construction necessarily needs a plural subject and can be identified by the possibility to add *gegenseitig* [@last b]. There is an older construction to express reciprocity in German by using *einander* [@last c] instead of *sich gegenseitig* [see @wiemer2007: 478ff. for an in depth discussion]. This construction with *einander* typically does not use *sich*, though the combination *sich […] miteinander* is possible, but very rare [@wiemer2007: 476--477]. Note that reciprocity inside a prepositional phrase can only be expressed by using *einander* [@wiemer2007: 482--485].
 
 ### [ NA | Na ] Accusative reciprocal {#sec:reflexive-accusative-reciprocal}
 
-The most typical reciprocal construction arises from a regular transitive verb with a human object, like *achten* 'to respect' [@next a]. Such a reciprocal construction is called 'canonical' by Wiemer & Nedjalkov [-@wiemer2007: 468-470]. Almost all such verbs are in principle ambiguous between a reciprocal and a reflexive reading. The intended reciprocal reading can be forced by adding *gegenseitig* [@next c]. Some verbs, like *achten*, seem to prefer a reciprocal reading. Such verbs typically do not allow for a singular subject [@next b] and *gegenseitig* seems superfluous here [@next c].
+The most typical reciprocal construction arises from a regular transitive verb with a human object, like *achten* 'to respect' [@next a]. Such a reciprocal construction is called 'canonical' by Wiemer & Nedjalkov [-@wiemer2007: 468--470]. Almost all such verbs are in principle ambiguous between a reciprocal and a reflexive reading. The intended reciprocal reading can be forced by adding *gegenseitig* [@next c]. Some verbs, like *achten*, seem to prefer a reciprocal reading. Such verbs typically do not allow for a singular subject [@next b] and *gegenseitig* seems superfluous here [@next c].
 
 ::: ex
 - Karl achtet Anna.
@@ -1458,7 +1458,7 @@ b. Der Kunde empört sich über den Preis.
 c. Der Kunde empört sich darüber, dass der Preis schon wieder gestiegen ist.
 :::
 
-With many of these verbs the role of the reflexive argument appears to be more of an experiencer than a real agent, typically with the prepositions *an, bei, für, um* and *über*. A German name like ~~Reflexiv Erlebniskonversiv~~ might thus be suitable for this diathesis (cf. [@sec:participles-sein-conversive] for the ~~Erlebniskonversiv~~ without reflexive pronouns). Although there are many experiencer verbs in this category, this pattern cannot be reversed: far from all verbs that semantically have an experiencer exhibit this diathesis, e.g. *frustrieren* 'to frustrate' or *nerven* 'to annoy' do not allow this diathesis [@next]. Wiskandt [-@wiskandt2022: 253-255] proposes that the experiencer verbs with this diathesis imply some kind of consciousness and have less affected experiencers. However, such semantic explanations are probably always post-hoc and never causal (cf. [@sec:intro-domain-of-application]).
+With many of these verbs the role of the reflexive argument appears to be more of an experiencer than a real agent, typically with the prepositions *an, bei, für, um* and *über*. A German name like ~~Reflexiv Erlebniskonversiv~~ might thus be suitable for this diathesis (cf. [@sec:participles-sein-conversive] for the ~~Erlebniskonversiv~~ without reflexive pronouns). Although there are many experiencer verbs in this category, this pattern cannot be reversed: far from all verbs that semantically have an experiencer exhibit this diathesis, e.g. *frustrieren* 'to frustrate' or *nerven* 'to annoy' do not allow this diathesis [@next]. Wiskandt [-@wiskandt2022: 253--255] proposes that the experiencer verbs with this diathesis imply some kind of consciousness and have less affected experiencers. However, such semantic explanations are probably always post-hoc and never causal (cf. [@sec:intro-domain-of-application]).
 
 ::: ex
 - Die Verspätung frustriert/nervt ihn.
@@ -1622,7 +1622,8 @@ These accusative-to-nominative alternations are ongoing replacements of old-fash
 
 #### Further examples {.unnumbered}
 
-- Mich graut es vor der Kälte. Ich graue mich vor der Kälte.
+- Mich graut es vor der Kälte. \
+  Ich graue mich vor der Kälte.
 
 ## Diatheses with object demotion
 
@@ -1638,7 +1639,7 @@ b. Er äußert sich über den Fall.
 c. ^* Er äußert sich und sein Bedauern über den Fall.
 :::
 
-The term ~~autocausative~~ is used by Geniušiené [-@geniusiene1987: 183-184, 198-200; see also @wiemer2007: 464] to describe this particular usage of a reflexive pronoun. Haspelmath [-@haspelmath1987: 27-28] calls it ~~endoreflexive~~. I prefer the term endoreflexive as it mnemonically includes the term 'reflexive'. Cross-linguistically, endoreflexives are typically found with verbs that describe an action that is performed with the body, like *verstecken* 'to hide' [@next]. However, for the German verb *verstecken* it remains an open question whether these constructions are really different from self-inflicted reflexive constructions. Specifically, the coordination seems to be perfectly possible [@next c-e].
+The term ~~autocausative~~ is used by Geniušiené [-@geniusiene1987: 183--184, 198--200; see also @wiemer2007: 464] to describe this particular usage of a reflexive pronoun. Haspelmath [-@haspelmath1987: 27--28] calls it ~~endoreflexive~~. I prefer the term endoreflexive as it mnemonically includes the term 'reflexive'. Cross-linguistically, endoreflexives are typically found with verbs that describe an action that is performed with the body, like *verstecken* 'to hide' [@next]. However, for the German verb *verstecken* it remains an open question whether these constructions are really different from self-inflicted reflexive constructions. Specifically, the coordination seems to be perfectly possible [@next c-e].
 
 ::: ex
 a. Er versteckt das Geschenk.
@@ -1772,7 +1773,7 @@ The *sich* counterpart of the transitive *beklagen* 'to lament' [@next a,b] is s
 
 Formally, the object of the complaint is demoted from an accusative [@next a], which is obligatory [@next c], to a prepositional phrase [@next b] that can be dropped [@next d]. Note that without the prepositional phrase [@next d] the expression is indeed ambiguous between a real reflexive meaning ('I complain about myself') and a non-reflexive reading ('I am complaining'). All prepositional phrases of the verbs in this section are governed prepositions [@next e].
  
-Wiemer and Nedjalkov [-@wiemer2007: 464-465] call such verbs 'deaccusatives' and consider them to be 'extremely rare' in German (which they are not). It is an open question why some verbs take such a reflexive antipassive, while other take a simple antipassive without reflexive pronoun (as discussed in [@sec:prepositions-accusative-antipassive]). For a typological survey of such antipassive uses of reflexive markers, see Janic [-@janic2010].
+Wiemer and Nedjalkov [-@wiemer2007: 464--465] call such verbs 'deaccusatives' and consider them to be 'extremely rare' in German (which they are not). It is an open question why some verbs take such a reflexive antipassive, while other take a simple antipassive without reflexive pronoun (as discussed in [@sec:prepositions-accusative-antipassive]). For a typological survey of such antipassive uses of reflexive markers, see Janic [-@janic2010].
 
 ::: ex
 a. Ich beklage den Lärm.

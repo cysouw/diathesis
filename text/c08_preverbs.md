@@ -463,7 +463,7 @@ c. Ich arbeite zu viel.
 d. Ich überarbeite mich.
 :::
 
-Movement verbs, like *tanzen* 'to dance' [@next] quite productively can take the prefix *ver‑* to describe a movement made erroneously, without any change in valency [cf. @stiebels1996: 143-151]. The same semantic effect is also attested with some transitive verbs, but then the accusative object is dropped (see [@sec:preverb-reflexive-accusative-drop]).
+Movement verbs, like *tanzen* 'to dance' [@next] quite productively can take the prefix *ver‑* to describe a movement made erroneously, without any change in valency [cf. @stiebels1996: 143--151]. The same semantic effect is also attested with some transitive verbs, but then the accusative object is dropped (see [@sec:preverb-reflexive-accusative-drop]).
 
 ::: ex
 - Ich laufe.
@@ -579,7 +579,7 @@ c. ^^?^ Der Vogel verfängt sich.
 
 ### [ NL | -N ] Preverb location anticausative {#sec:preverb-preposition-anticausative}
 
-Lipka [-@lipka1972: 93-94] calls this phenomenon *Subjektvertauschung*, which he claims is 'quite frequent in German.' However, I do not know of any other examples of this diathesis except for the example given by Lipka, namely the diathesis between *laufen+aus* and *auslaufen*, both meaning approximately 'to empty' [@next a,b]. It might be that Lipka intended to use this term for anticausatives in general (which indeed are quite common in German), but then his example using a preverb was ill-chosen. Hundsnurscher [-@hundsnurscher1968: 130ff.] discusses many examples that might be semantically similar, but do not show diathesis (e.g. *tröpfeln/auströpfeln*). For historical context, see Carlberg [-@carlberg1948] for more about the history of the terminology and the relation to metonymy. For Lipka's counterpart *Objektvertauschung*, see [@sec:preverb-location-antiresultative]
+Lipka [-@lipka1972: 93--94] calls this phenomenon *Subjektvertauschung*, which he claims is 'quite frequent in German.' However, I do not know of any other examples of this diathesis except for the example given by Lipka, namely the diathesis between *laufen+aus* and *auslaufen*, both meaning approximately 'to empty' [@next a,b]. It might be that Lipka intended to use this term for anticausatives in general (which indeed are quite common in German), but then his example using a preverb was ill-chosen. Hundsnurscher [-@hundsnurscher1968: 130ff.] discusses many examples that might be semantically similar, but do not show diathesis (e.g. *tröpfeln/auströpfeln*). For historical context, see Carlberg [-@carlberg1948] for more about the history of the terminology and the relation to metonymy. For Lipka's counterpart *Objektvertauschung*, see [@sec:preverb-location-antiresultative]
 
 ::: ex
 a. Das Wasser ist aus der Flasche gelaufen.
@@ -967,7 +967,7 @@ a. Er wählt die falsche Nummer.
 b. Er verwählt sich.
 :::
 
-The examples with the prefix *ver‑* quite productively result in verbs that describe an activity that is performed erroneously [cf. @stiebels1996: 143-151]. The same semantic effect with *ver‑* (but with different diatheses) is also attested with intransitive movement verbs, see [@sec:preverb-reflexive] and with measurement verbs, see [@sec:preverb-reflexive-antipassive].
+The examples with the prefix *ver‑* quite productively result in verbs that describe an activity that is performed erroneously [cf. @stiebels1996: 143--151]. The same semantic effect with *ver‑* (but with different diatheses) is also attested with intransitive movement verbs, see [@sec:preverb-reflexive] and with measurement verbs, see [@sec:preverb-reflexive-antipassive].
 
 #### Attested verbs {.unnumbered}
 
@@ -1356,7 +1356,7 @@ Most examples have an obligatory local phrase before the diathesis, but a few ve
 - Ich raube die Wohnung aus.
 :::
 
-There is a parallel diathesis with the resultative preverbials *leer‑* and *frei-*, which is discussed in detail in [@sec:adverbial-applicative-leer]. The reversal of this diathesis is the unmarked ~~partitive separated object~~ diathesis (see [@sec:prepositions-partitive-free]). Lipka [-@lipka1972: 93, 173] calls this diathesis *Objektvertauschung* and McIntyre [-@mcintyre2001: 275-277] 'landmark flexibility'. For historical context on this diathesis, see Carlberg [-@carlberg1948] and Hundsnurscher [-@hundsnurscher1968: 127]. Lipka opposes this diathesis to *Subjektvertauschung*, which is discussed in [@sec:preverb-preposition-anticausative]. However, that opposition does not seems to be a fruitful approach.
+There is a parallel diathesis with the resultative preverbials *leer‑* and *frei-*, which is discussed in detail in [@sec:adverbial-applicative-leer]. The reversal of this diathesis is the unmarked ~~partitive separated object~~ diathesis (see [@sec:prepositions-partitive-free]). Lipka [-@lipka1972: 93, 173] calls this diathesis *Objektvertauschung* and McIntyre [-@mcintyre2001: 275--277] 'landmark flexibility'. For historical context on this diathesis, see Carlberg [-@carlberg1948] and Hundsnurscher [-@hundsnurscher1968: 127]. Lipka opposes this diathesis to *Subjektvertauschung*, which is discussed in [@sec:preverb-preposition-anticausative]. However, that opposition does not seems to be a fruitful approach.
 
 #### Attested verbs {.unnumbered}
 
@@ -1710,7 +1710,7 @@ b. Sie vertraut mir ein Geheimnis an.
 
 ### [ N– | NA ] Preverb reflexive accusative {#sec:preverb-reflexive-resultative}
 
-Some intransitive verbs like *tanzen* 'to dance' [@next a] allow for a added-result diathesis *antanzen* 'to achieve something through dancing' [@next b]. With this diathesis, the result of the dancing is expressed as a new accusative argument. A special characteristic of this diathesis is that a dative reflexive pronoun is obligatorily [see also @wunderlich1997: 105-106].
+Some intransitive verbs like *tanzen* 'to dance' [@next a] allow for a added-result diathesis *antanzen* 'to achieve something through dancing' [@next b]. With this diathesis, the result of the dancing is expressed as a new accusative argument. A special characteristic of this diathesis is that a dative reflexive pronoun is obligatorily [see also @wunderlich1997: 105--106].
 
 ::: ex
 a. Ich habe gestern viel getanzt.
@@ -2317,7 +2317,7 @@ b. Ich dränge dir ein Abo auf.
 
 ### [ Np | ND ] Preverb dative applicative {#sec:preverb-dative-applicative}
 
-The following applicatives turn a prepositional phrase into a dative. For example, *stammen* 'to descent from' is used with a preposition *aus* [@next a]. This role is turned into a dative with the preverb *entstammen* 'to be descended from'.  Note that these prepositions are never governed prepositions [for *ent-*, see also @eisenberg2006: 263-264].
+The following applicatives turn a prepositional phrase into a dative. For example, *stammen* 'to descent from' is used with a preposition *aus* [@next a]. This role is turned into a dative with the preverb *entstammen* 'to be descended from'.  Note that these prepositions are never governed prepositions [for *ent-*, see also @eisenberg2006: 263--264].
 
 ::: ex
 - Ich stamme aus einem Adelsgeschlecht. 

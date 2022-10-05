@@ -15,7 +15,7 @@ b. Die Sonne verbrennt den Rasen. \
 
 The crucial (and somewhat problematic) aspect of such alternations is that there is no formal indication of the presence of a diathesis, except for the marking of the arguments themselves. The prototypical diathesis (as defined [@sec:intro-basic-definition]) includes some overt linguistic marking that indicates that a diathesis has taken place (i.e. some affix, particle, light verb, or other morphosyntactic means). And indeed, all diatheses that will be discussed in subsequent chapters will be of that kind. In contrast, the diatheses discussed in this chapter and the next chapter are 'covert' alternations, or 'zero marked' alternations, in that there is no other indication of a diathesis, except for the marking of the arguments themselves [@zuniga2019 introduce the term 'covert' diathesis for this]. The problem with such covert diatheses is that there is no overt directionality in the alternation -- there is no way to distinguish between a base form and a derived form. Both alternants have an equal status as far as the morphosyntax is concerned. Still, I have attempted to infer a direction based on parallels to other diatheses.
 
-The unmarked nature of covert diatheses implies that there is some slight redundancy and fuzziness in presentation. This redundancy arises because, for example, when a verb occurs in four different constructions, then there are logically six different alternations (viz. 1-2, 1-3, 1-4, 2-3, 2-4, 3-4). I have nonetheless decided to approach the descriptive organisation in this chapter from the perspective of such pairwise alternations, because (i) it highlights the possible connections attested between constructions, and (ii) very many verbs only occur in just one or two alternations anyway (with only a smaller subset of verbs appearing across many different constructions).
+The unmarked nature of covert diatheses implies that there is some slight redundancy and fuzziness in presentation. This redundancy arises because, for example, when a verb occurs in four different constructions, then there are logically six different alternations. I have nonetheless decided to approach the descriptive organisation in this chapter from the perspective of such pairwise alternations, because (i) it highlights the possible connections attested between constructions, and (ii) very many verbs only occur in just one or two alternations anyway (with only a smaller subset of verbs appearing across many different constructions).
 
 There are seven diatheses that seem prominent enough to be given a German name. I propose the following names for these:
 
@@ -54,7 +54,7 @@ e. Ich beschuldige den Verdächtigten [des Diebstahls] von weiteren Gegenstände
 
 ### Quantified object
 
-A special kind of constituent is a quantified object [cf. "Mensuralergänzung", @eroms2000: 203-204], exemplified in [@next a-e]. Quantified objects are overtly marked accusative objects that often contain numerals, like in [@next d] or [@next e], in which *einen* is not an article, but the numeral *one*. Except for numerals, the quantification can also be instantiated by adjectives, e.g. *ganzen* 'complete' in [@next a], indefinites, e.g. *jeden* 'each' in [@next b], or measure phrases, e.g. *zu laut* 'too noisy' in [@next c].
+A special kind of constituent is a quantified object [cf. "Mensuralergänzung", @eroms2000: 203--204], exemplified in [@next a-e]. Quantified objects are overtly marked accusative objects that often contain numerals, like in [@next d] or [@next e], in which *einen* is not an article, but the numeral *one*. Except for numerals, the quantification can also be instantiated by adjectives, e.g. *ganzen* 'complete' in [@next a], indefinites, e.g. *jeden* 'each' in [@next b], or measure phrases, e.g. *zu laut* 'too noisy' in [@next c].
 
 ::: ex
 a. Er schläft den ganzen Tag. (*wie lange?* 'how long')
@@ -85,7 +85,7 @@ a. Er hat einen gesunden Schlaf geschlafen.
 b. Er hat viele Träume geträumt.
 :::
 
-This construction is known as a 'cognate object' construction [e.g. @levin1993: 95-96], because the object is etymologically related to the verb. In many cases, this cognate object is simply a zero nominalisation (conversion) of the verb stem (e.g. *schlafen - der Schlaf*, 'to sleep - the sleep'), but in some cases different nominalisations like the infinitive are used (e.g. *lächeln - das Lächeln*, 'to smile - the smile').
+This construction is known as a 'cognate object' construction [e.g. @levin1993: 95--96], because the object is etymologically related to the verb. In many cases, this cognate object is simply a zero nominalisation (conversion) of the verb stem (e.g. *schlafen - der Schlaf*, 'to sleep - the sleep'), but in some cases different nominalisations like the infinitive are used (e.g. *lächeln - das Lächeln*, 'to smile - the smile').
 
 Examples like [@last a,b] seem to suggest that intransitive verbs like *schlafen* 'to sleep' and *träumen* 'to dream' allow for accusative arguments. However, besides these cognate objects there are no other accusative arguments allowed with these verbs. Further, such cognate objects seem to be theoretically possible for all verbs, though often quite some imagination is needed to find a suitable context to use verb and nominalised verb together. Because of their special status, such cognate object nominalisations are not counted as regular arguments here.
 
@@ -324,7 +324,7 @@ In summary, there are only few verbs in German with double accusatives. In gener
 
 ### [ NA ] Nominative+quantified object {#sec:case-quantified-objects}
 
-A special kind of arguments are quantified objects [cf. "Mensuralergänzung", @eroms2000: 203-204], exemplified in [@next a-e]. Quantified objects are overtly marked accusative objects that often contain numerals (like in [@next d] or [@next e], in which *einen* is not an article, but the numeral one). Except for numerals, the quantification can also be instantiated by adjectives (like *ganzen* in [@next a]), indefinites (like *jeden* in [@next b]) or measure phrases (like *zu laut* in [@next c]).
+A special kind of arguments are quantified objects [cf. "Mensuralergänzung", @eroms2000: 203--204], exemplified in [@next a-e]. Quantified objects are overtly marked accusative objects that often contain numerals (like in [@next d] or [@next e], in which *einen* is not an article, but the numeral one). Except for numerals, the quantification can also be instantiated by adjectives (like *ganzen* in [@next a]), indefinites (like *jeden* in [@next b]) or measure phrases (like *zu laut* in [@next c]).
 
 ::: ex
 a. Er schläft den ganzen Tag. (*wie lange?* 'how long')
@@ -795,7 +795,7 @@ b. Ich schwärze den Text.
 
 ### [ A | N ] Accusative-to-nominative promotion
 
-Some verbs with experiencer subjects needed an accusative subject in older stages of German [cf. @nubling2006: 103-104], but these verbs either were completely lost, like *dürsten* 'to be thirsty' [@next a], or the accusative tends to be replaced by a nominative, like with *frieren* 'to be cold' [@next b,c]. The verb *frieren* with a human experiencer is currently in the middle of this transition, allowing for both constructions.
+Some verbs with experiencer subjects needed an accusative subject in older stages of German [cf. @nubling2006: 103--104], but these verbs either were completely lost, like *dürsten* 'to be thirsty' [@next a], or the accusative tends to be replaced by a nominative, like with *frieren* 'to be cold' [@next b,c]. The verb *frieren* with a human experiencer is currently in the middle of this transition, allowing for both constructions.
 
 ::: ex
 a. Mich dürstet.

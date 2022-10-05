@@ -57,7 +57,7 @@ Functionally, the ~~Infinitiv~~ is a nominal form of the verb. Consequently, it 
 - Die selten gelaufene Distanz fällt mir schwer.
 :::
 
-Given the nominal nature of the infinitive, there is a close connection between light-verb+infinitive constructions and nominal predication, i.e. constructions of a light verb with a bare noun. Nominal predication in German is typically constructed with light verbs *werden*, *sein* or *bleiben* [@duden2009: 812-813]. The parallel between infinitives and nouns is obvious with the future meaning of *werden* [@next a], see [@sec:infinitive-werden-modal], and the continuative meaning of *bleiben* [@next b], see [@sec:infinitive-bleiben]. However, as illustrated in [@next c], the meaning of *sein*+noun ('identification') is quite different from *sein*+infinitive ('absentive'), see [@sec:infinitive-sein-absentive].
+Given the nominal nature of the infinitive, there is a close connection between light-verb+infinitive constructions and nominal predication, i.e. constructions of a light verb with a bare noun. Nominal predication in German is typically constructed with light verbs *werden*, *sein* or *bleiben* [@duden2009: 812--813]. The parallel between infinitives and nouns is obvious with the future meaning of *werden* [@next a], see [@sec:infinitive-werden-modal], and the continuative meaning of *bleiben* [@next b], see [@sec:infinitive-bleiben]. However, as illustrated in [@next c], the meaning of *sein*+noun ('identification') is quite different from *sein*+infinitive ('absentive'), see [@sec:infinitive-sein-absentive].
 
 ::: ex
 - Ich werde Vater. \
@@ -134,7 +134,7 @@ The *ErsatzIn­fi­ni­tiv* is a special syntactic phenomenon attested in West-G
   Sie *hat* ihn den Tisch putzen *sehen*.
 :::
 
-Based on data from various West-Germanic languages and dialects, Schmid [-@schmid2005: 32-33, 106] proposes a hierarchy of verb types that show this phenomenon [@next]. German fits nicely in this hierarchy (almost by definition, because German was used to propose the hierarchy in the first place). The German verbs inducing an ~~IPP~~ are causative *lassen*, modals *dürfen/können/mögen/müssen/sollen/wollen* and also *brauchen*, perception verbs *hören, sehen* and benefactive *helfen*.
+Based on data from various West-Germanic languages and dialects, Schmid [-@schmid2005: 32--33, 106] proposes a hierarchy of verb types that show this phenomenon [@next]. German fits nicely in this hierarchy (almost by definition, because German was used to propose the hierarchy in the first place). The German verbs inducing an ~~IPP~~ are causative *lassen*, modals *dürfen/können/mögen/müssen/sollen/wollen* and also *brauchen*, perception verbs *hören, sehen* and benefactive *helfen*.
 
 ::: ex
 Implicational scale of ~~IPP~~ *ErsatzIn­fi­ni­tiv* verbs 
@@ -156,7 +156,7 @@ b. Sie hat mich die Kleider waschen *gelassen*. \
 
 ### The many guises of *lassen+In­fi­ni­tiv* {#sec:infinitive-guises-of-lassen}
 
-It has been widely observed that there is a large variety of uses of the *lassen+In­fi­ni­tiv* construction in German [e.g. @eisenberg2006a: 369-371; @kotulkova2010a; @pitteroff2014]. In this chapter I will distinguish six different diatheses that all use the *lassen+In­fi­ni­tiv* construction, as summarised in [@tbl:lassen]. These six constructions are clearly diachronically related, and also synchronically they are very similar. However, they cannot be reduced to a single (abstract) construction with transparent and productive derivations leading to these six different diatheses as distinguished here. There is an additional usage of *lassen* with a participle that is discussion in [@sec:participles-lassen-durative]. I will succinctly summarise these different options here. For a detailed discussion, see the sections as indicated in the table.
+It has been widely observed that there is a large variety of uses of the *lassen+In­fi­ni­tiv* construction in German [e.g. @eisenberg2006a: 369--371; @kotulkova2010a; @pitteroff2014]. In this chapter I will distinguish six different diatheses that all use the *lassen+In­fi­ni­tiv* construction, as summarised in [@tbl:lassen]. These six constructions are clearly diachronically related, and also synchronically they are very similar. However, they cannot be reduced to a single (abstract) construction with transparent and productive derivations leading to these six different diatheses as distinguished here. There is an additional usage of *lassen* with a participle that is discussion in [@sec:participles-lassen-durative]. I will succinctly summarise these different options here. For a detailed discussion, see the sections as indicated in the table.
 
 |                       Section                        |     Remapping      |       German Name       | Reflexive |     Interpretation     |
 | :-: | :---: | :-----: | :-: | :-----: |
@@ -273,7 +273,7 @@ There do not appear to be any infinitives that do not also occur as a finite ver
 
 ### *tun+In­fi­ni­tiv* Verb focus {#sec:infinitive-tun}
 
-The *tun+In­fi­ni­tiv* construction [@schwarz2004] is considered substandard and frowned upon in written German [@next a]. However, it is widespread in German dialects and also frequent in the spoken standard language [@erb2001: Ch. 5]. The acceptability is strongly improved for many German speakers with fronting of the infinitive [@next b], putting focus on the verb meaning and losing any aspectual implication [@schwarz2004: 15-18]. This second usage is more akin to English *do*-support than to a progressive aspect.
+The *tun+In­fi­ni­tiv* construction [@schwarz2004] is considered substandard and frowned upon in written German [@next a]. However, it is widespread in German dialects and also frequent in the spoken standard language [@erb2001: Ch. 5]. The acceptability is strongly improved for many German speakers with fronting of the infinitive [@next b], putting focus on the verb meaning and losing any aspectual implication [@schwarz2004: 15--18]. This second usage is more akin to English *do*-support than to a progressive aspect.
 
 ::: ex
 - ^^?^ Ich tu dir das Buch schenken.
@@ -602,7 +602,7 @@ As attested in the famous German saying *Im Dunkeln ist gut munkeln*, this diath
 - Bei vollem Magen ist gut fasten.^[~~DWDS~~: Berliner Zeitung, 11.07.1998.]
 - Wenn das Wasser an die nahen Felsen schwappt und in den Spalten gurgelt, dann ist gut einschlafen.^[~~DWDS~~: Berliner Zeitung, 03.03.2001.]
 - Katholisch bin und heiße ich, katholisch leb’ und sterbe ich, so kann ich nicht verderben, katholisch ist gut sterben.^[~~DWDS~~: Die Zeit, 28.06.1968, Nr. 26.]
-- Hier ist gut Ankommen und Bleiben.^[Capitalisation as attested online at https://www.evangelisch.de/blogs/stilvoll-glauben/133455/07-04-2016, accessed 26 September 2022.]
+- Hier ist gut Ankommen und Bleiben.^[Capitalisation as attested online at https://www.evangelisch.de/blogs/stilvoll-glauben/133455/07-04--2016, accessed 26 September 2022.]
 
 ### --- [ SBJ > ADJ ] --- {.unnumbered}
 
@@ -937,7 +937,7 @@ Table: Analysis of the sentences in [@last] {#tbl:lassen-analysis}
 
 ### [ –N | NA ] *lassen+In­fi­ni­tiv* Permissive causative (*Permissivkausativ*) {#sec:infinitive-lassen-causative}
 
-Although the *lassen +In­fi­ni­tiv* is widely acknowledged in German grammar as a causative, the actual semantics are more variable than that. Basically there seem to be two major interpretations, a causative and a permissive [@next b]. Consequently, I propose to call this diathesis *Permissivkausativ*. Enzinger [-@enzinger2012: 6-7] calls the permissive reading *Kontinuativ* as this interpretation typically expresses that a situation is allowed to persist or continue. This diathesis typically invokes the ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next c]. However, the use of participle *gelassen* is possible [@next d], but seems to be restricted to the permissive interpretation [@enzinger2012: 34].
+Although the *lassen +In­fi­ni­tiv* is widely acknowledged in German grammar as a causative, the actual semantics are more variable than that. Basically there seem to be two major interpretations, a causative and a permissive [@next b]. Consequently, I propose to call this diathesis *Permissivkausativ*. Enzinger [-@enzinger2012: 6--7] calls the permissive reading *Kontinuativ* as this interpretation typically expresses that a situation is allowed to persist or continue. This diathesis typically invokes the ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next c]. However, the use of participle *gelassen* is possible [@next d], but seems to be restricted to the permissive interpretation [@enzinger2012: 34].
 
 ::: ex
 a. Ich wasche die Kleider.
@@ -1072,7 +1072,7 @@ c. Der Henker hat ihn niederknien geheißen (\*heißen).
 
 ### --- [ Ø > SBJ > OBJ ] --- *Perzeptiv* {.unnumbered}
 
-The following perception verbs (Lat. *verba sentiendi*, German *Wahrnehmungsverben*) are regularly discussed as a special class in the German grammatical literature: *sehen* 'to see', *hören* 'to hear' and *fühlen/spüren* 'to feel' [e.g. @eisenberg2006a: 266; @kotulkova2010; @enzinger2012: 23; @fuss2017: 235-243; @konopka2021]. These verbs are special because they can occur both in a biclausal construction with a finite *dass* complement clause and in a monoclausal construction with an infinitive. This class of verbs is not completely homogeneous because only *sehen* and *hören* can optionally occur with an ~~IPP~~ *ErsatzIn­fi­ni­tiv*. These two verbs are also by far the most frequent in actual usage [@konopka2021]. I propose to also include the verbs *riechen* 'to smell' and *finden* 'to find' (but in this construction it means 'to detect') in this class of verbs, although their use in infinitive constructions is much more restricted. When used in a coherent construction with an infinitive, I propose the German name  ~~Perzeptiv~~ for such constructions.
+The following perception verbs (Lat. *verba sentiendi*, German *Wahrnehmungsverben*) are regularly discussed as a special class in the German grammatical literature: *sehen* 'to see', *hören* 'to hear' and *fühlen/spüren* 'to feel' [e.g. @eisenberg2006a: 266; @kotulkova2010; @enzinger2012: 23; @fuss2017: 235--243; @konopka2021]. These verbs are special because they can occur both in a biclausal construction with a finite *dass* complement clause and in a monoclausal construction with an infinitive. This class of verbs is not completely homogeneous because only *sehen* and *hören* can optionally occur with an ~~IPP~~ *ErsatzIn­fi­ni­tiv*. These two verbs are also by far the most frequent in actual usage [@konopka2021]. I propose to also include the verbs *riechen* 'to smell' and *finden* 'to find' (but in this construction it means 'to detect') in this class of verbs, although their use in infinitive constructions is much more restricted. When used in a coherent construction with an infinitive, I propose the German name  ~~Perzeptiv~~ for such constructions.
 
 ### [ –N | NA ] *sehen+In­fi­ni­tiv* Experiencer {#sec:infinitive-sehen}
 
@@ -1246,7 +1246,7 @@ b. Der Spaß entgeht mir. \
 
 ### [ NDL | ANL ] *haben+In­fi­ni­tiv* Possessor inversive (*Ortspertinenzinversiv*) {#sec:infinitive-haben}
 
-The construction of a light verb *haben* with an infinitive [cf. @hole2002: 183-185] is attested with various position verbs like *hängen* [@next a]. Such constructions obligatorily need a location phrase [@next b]. The hanging object is expressed as an accusative, and the new nominative subject of the *haben+In­fi­ni­tiv* construction is necessarily the dative possessor of the location [@next c], see [@sec:prepositions-possessor-of-location-to-dative-experiencer]. By using this diathesis, the new nominative subject is presented as a curious mix of both being in control and being a helpless experiencer at the same time. This diathesis does not invoke the ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next d].
+The construction of a light verb *haben* with an infinitive [cf. @hole2002: 183--185] is attested with various position verbs like *hängen* [@next a]. Such constructions obligatorily need a location phrase [@next b]. The hanging object is expressed as an accusative, and the new nominative subject of the *haben+In­fi­ni­tiv* construction is necessarily the dative possessor of the location [@next c], see [@sec:prepositions-possessor-of-location-to-dative-experiencer]. By using this diathesis, the new nominative subject is presented as a curious mix of both being in control and being a helpless experiencer at the same time. This diathesis does not invoke the ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next d].
 
 ::: ex
 a. Er hat einen Tropfen an der Nase hängen.

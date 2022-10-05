@@ -192,7 +192,7 @@ There are also various preverbials that are combinations of *vor‑* with prepos
 
 ### Resultatives vs. depictives {#sec:adverbial-resultative-predicates}
 
-There is a wide variety of adjectives that can be used as ~~resultative~~ preverbials. Highly productive resultatives in German are *leer-, voll-, tot‑* and *fest‑* [according to @fuhrhop2012: 79-80], e.g. *vollniesen* 'to sneeze full' [@next a]. However, many others are also attested, e.g. *still‑* 'silent' in *stillschweigen* 'to silence something', *platt‑* 'flat' in *plattwalzen* 'to flatten' or *schön‑* 'beautiful' in *schönreden* 'to whitewash' [@next b]. Additionally, datives from raised possessors are often possible [@next b], see [@sec:case-possessor-accusative-to-dative], including subsequent reflexive constructions [@next c].
+There is a wide variety of adjectives that can be used as ~~resultative~~ preverbials. Highly productive resultatives in German are *leer-, voll-, tot‑* and *fest‑* [according to @fuhrhop2012: 79--80], e.g. *vollniesen* 'to sneeze full' [@next a]. However, many others are also attested, e.g. *still‑* 'silent' in *stillschweigen* 'to silence something', *platt‑* 'flat' in *plattwalzen* 'to flatten' or *schön‑* 'beautiful' in *schönreden* 'to whitewash' [@next b]. Additionally, datives from raised possessors are often possible [@next b], see [@sec:case-possessor-accusative-to-dative], including subsequent reflexive constructions [@next c].
 
 ::: ex
 a. Er niest das Taschentuch voll.
@@ -283,7 +283,7 @@ There a four major resultative constructions. These 'major four' constructions o
 - Sie better für ihre Mutter. \
   Sie betet ihre Mutter gesund.
 - Er hext. \
-  Milingo wird vorgeworfen, […] Kranke gesundgehext zu haben.^[Attested online at https://www.spiegel.de/politik/giftige-blume-a-003fa8d4-0002-0001-0000-000014353984, accessed 8 September 2022.]
+  Milingo wird vorgeworfen, […] Kranke gesundgehext zu haben.^[Attested online at https://www.spiegel.de/politik/giftige-blume-a-003fa8d4-0002-0001-0000--000014353984, accessed 8 September 2022.]
 :::
 
 There are six special resultative adjectives, in alphabetical order: *fest‑* 'firm', *frei‑* 'free', *leer‑* 'empty', *los‑* 'loose', *voll‑* 'full' and *weiter‑* 'further'. Of all the dozens (possibly hundreds) of German adjectives that can be used in resultative constructions, it is only these six adjectives that can be used to create constructions other than the 'major four'. These 'special six' resultatives also occur regularly in the 'major four' constructions, but besides those occurrences there is a long list of further resultative constructions that are all put together with just these six resultative adjectives. Note that there are also idiosyncratic diatheses with *satt‑* 'well-fed' ([@sec:adverbial-antipassive-reflexive]) and *wund‑* 'wounded' ([@sec:adverbial-reflexive-location-drop]). However, these do not (yet) seem to be as productive as the 'special six'. The 'special six' appear to become more like directionals and less like regular adjectival resultatives (cf. [@sec:adverbial-directionals]). They occur in the following constructions:
@@ -565,7 +565,7 @@ Second, the addition of a resultative preverbial regularly leads to a diathesis 
 
 ### [ N | N ] *los‑* Inchoative (*Inchoativ*) {#sec:adverbial-inchoative-los}
 
-The preverbial *los‑* can be used without any diathesis. In that usage *los‑* is a preverbial, but it is not a resultative preverbial (cf. [@sec:adverbial-resultative-predicates]). As a non-resultative preverbial *los‑* indicates that an activity is starting, i.e. it marks an inchoative aspect, like with *losrennen* 'to start running' [@next a]. An early discussion of this inchoative aspect of *los‑* is presented by Storch [-@storch1978: 113-126]. 
+The preverbial *los‑* can be used without any diathesis. In that usage *los‑* is a preverbial, but it is not a resultative preverbial (cf. [@sec:adverbial-resultative-predicates]). As a non-resultative preverbial *los‑* indicates that an activity is starting, i.e. it marks an inchoative aspect, like with *losrennen* 'to start running' [@next a]. An early discussion of this inchoative aspect of *los‑* is presented by Storch [-@storch1978: 113--126]. 
 
 This inchoative *los‑* is clearly different from a diathesis marking 'detachment' that is also marked with *los‑* [@next b], as discussed in detail in [@sec:adverbial-antiresultative]. Diachronically, both uses of the preverbial *los‑* are related to an older meaning of the adjective *los*, namely 'free'. In contemporary German the adjective *los* basically means 'loose', which is not transparently related anymore to the inchoative meaning [@next a], only to the detachment meaning [@next b].
 
@@ -798,7 +798,7 @@ This construction only seems to occur with the resultatives *fest‑* and *los-*
 - Rostende Fahrzeuge wachsen im Gras fest.^[~~DWDS~~: Die Zeit, 20.09.2001, Nr. 39.]
 - Oder ein Zipfel meiner Decke friert am Fenster fest.^[~~DWDS~~: Die Zeit, 08.02.2014, Nr. 7.]
 - Doch am Ende eines fünfstündigen Diskussionsmarathons hagelten Zwischenrufe auf ihn nieder.^[~~DWDS~~: Die Welt, 24.09.1999.]
-- Mutter, die Fenster wollen heute nicht lostauen!^[~~DWDS~~: Bergg, Franz: Ein Proletarierleben. In: Simons, Oliver (Hg.) Deutsche Autobiographien 1690-1930, Berlin: Directmedia Publ. 2004 (1913), S. 4996.]
+- Mutter, die Fenster wollen heute nicht lostauen!^[~~DWDS~~: Bergg, Franz: Ein Proletarierleben. In: Simons, Oliver (Hg.) Deutsche Autobiographien 1690--1930, Berlin: Directmedia Publ. 2004 (1913), S. 4996.]
 - Das Auspuff Endrohr ist losgerostet.^[Attested online at https://www.bulliforum.com/viewtopic.php?t=66958, accessed 8 September 2022.]
 - Dann besteht die Gefahr, dass die Steine losfrieren.^[Attested online at https://www.come-on.de/lennetal/nachrodt-wiblingwerde/nachrodt-wiblingwerdehangsicherungserpentinenbewehrte-erde-8639613.html, accessed 8 September 2022.]
 
@@ -855,7 +855,7 @@ a. In der Gruppe lacht es sich besser.
 b. ^^?^ Am frühen morgen steht es sich schlecht auf.
 :::
 
-A very similar diathesis is attested with transitives, see [@sec:adverbial-reflexive-transitive-anticausative], but in that case the accusative is retained as a nominative (i.e. anticausative). Also note that the connection between an intransitive subject drop and a transitive anticausative is strongly reminiscent of the unaccusative hypothesis, see [@sec:participles-restrictions]. However, there does not seem to be an obvious match between patientive ('unaccusative') verbs and the verbs that allow for the current diathesis [cf. @steinbach1998: 15-18].
+A very similar diathesis is attested with transitives, see [@sec:adverbial-reflexive-transitive-anticausative], but in that case the accusative is retained as a nominative (i.e. anticausative). Also note that the connection between an intransitive subject drop and a transitive anticausative is strongly reminiscent of the unaccusative hypothesis, see [@sec:participles-restrictions]. However, there does not seem to be an obvious match between patientive ('unaccusative') verbs and the verbs that allow for the current diathesis [cf. @steinbach1998: 15--18].
 
 #### Attested verbs {.unnumbered}
 
@@ -882,7 +882,7 @@ b. Die Wurst schneidet sich schwer mit diesem Messer.
 c. Die Wurst lässt sich mit diesem Messer schneiden.
 :::
 
-Kunze [-@kunze1996: 647] and Steinbach [-@steinbach1998] call this "middle", Zifonun [-@zifonun2003] "fazilitives Medium", Wiemer & Nedjalkov [-@wiemer2007: 465-466] classify it as a "passive-like meaning of reflexive" and Kulikov [-@kulikov2011: 375-376] talks about a "potential agentless passive". Steinbach [-@steinbach1998: 25ff.] argues that the adverbial is not necessary in the 'middle' construction, but this is because he combines different constructions under the heading of 'middle'. His examples without adverbial are discussed here as a separate construction in [@sec:reflexive-anticausative].
+Kunze [-@kunze1996: 647] and Steinbach [-@steinbach1998] call this "middle", Zifonun [-@zifonun2003] "fazilitives Medium", Wiemer & Nedjalkov [-@wiemer2007: 465--466] classify it as a "passive-like meaning of reflexive" and Kulikov [-@kulikov2011: 375--376] talks about a "potential agentless passive". Steinbach [-@steinbach1998: 25ff.] argues that the adverbial is not necessary in the 'middle' construction, but this is because he combines different constructions under the heading of 'middle'. His examples without adverbial are discussed here as a separate construction in [@sec:reflexive-anticausative].
 
 #### Attested verbs {.unnumbered}
 

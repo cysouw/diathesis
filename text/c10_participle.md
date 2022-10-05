@@ -54,7 +54,7 @@ The following twelve diatheses seem prominent enough to grant them a German name
 
 ### Identifying participles {#sec:participles-identifying-participles}
 
-German participles – in German grammar idiosyncratically known as *Partizip II* – can rather straightforwardly be identified by their morphology. This identification is complicated by the existence of a wide range of allomorphy, which will only be succinctly summarised here [cf. @duden2009: 440, §613-614; @eisenberg2006: 201-202]:
+German participles – in German grammar idiosyncratically known as *Partizip II* – can rather straightforwardly be identified by their morphology. This identification is complicated by the existence of a wide range of allomorphy, which will only be succinctly summarised here [cf. @duden2009: 440, §613--614; @eisenberg2006: 201--202]:
 
 - Typically, participles have a prefix *ge-*, like in *ge-kauf-t*, except when the stem already contains one of the unstressed verb prefixes *ge-, be-, er-, ver-, zer‑* or *ent-*, like in *verkauf-t*, and in general when the verb stem has an unstressed first syllable, like *schmarotz-t* or *karier-t* [cf. @wiese1996: 92]. The prefix will appear between the stem and the stressed verb particles *an-, ein-, vor*, etc., like in *ein-ge-kauf-t* (see [@sec:preverbs-prefixes-particles] for a summary of verb prefixes and verb particles).
 - Typically, participles have a suffix *‑t*, like in *ge-kauf-t*. In some phonological surroundings this suffix has an epenthetic schwa, like in *ge-wart-et*. In a large but closed class of verbs the suffix is *‑en*, like in *ge-lauf-en*, often combined with ablaut of the stem vowel, like in *ge-fund-en* (stem *find*).
@@ -68,7 +68,7 @@ c. Ich verkaufe das Haus.
 d. Ich habe das Haus verkauft.
 :::
 
-The formation of participles is highly productive in German. It is so productive that speakers have no problem producing participles for newly invented pseudo-words. As a result, every verb (i.e. every stem that can have finite person inflection) also allows for the formation of a participle.^[Latzel [-@latzel1977: 73-76, citing and discussing data from Mater 1969 ] lists various verbs that do not allow for a participle. However, many examples are very unusual verbs (e.g. *ornamentieren, leiben*), and many others clearly have participles (e.g. *ankeuchen: er kommt angekeucht; gutachten: ich habe gegutachtet; worthalten: ich habe wortgehalten*). The best examples of verbs without participles appear to be verbs with incorporated objects (e.g. *bausparen, wettlaufen*) that neither can be used in finite forms, nor as participle, but only as an infinitive. In these examples it is even questionable whether these words should be classified as verbs at all. Still, some participles indeed appear to be very rare, like with *stammen, ^?^gestammt* 'to originate from' or *wogen, ^?^gewogt* 'to undulate'. However, examples are attested in corpora, e.g. *Wir haben keinen Hinweis darauf, woher der Geruch gestammt haben könnte* (~~DWDS~~: Die Zeit, 29.12.2014 online) or *Getanzt wird auch im Stehen nicht, nur gewogt.* (~~DWDS~~: Die Zeit, 16.04.2015, Nr. 16).]  The reversal is not true though, as there exist many participles that do not have corresponding finite verb forms (see [@sec:participles-no-alternation]).
+The formation of participles is highly productive in German. It is so productive that speakers have no problem producing participles for newly invented pseudo-words. As a result, every verb (i.e. every stem that can have finite person inflection) also allows for the formation of a participle.^[Latzel [-@latzel1977: 73--76, citing and discussing data from Mater 1969 ] lists various verbs that do not allow for a participle. However, many examples are very unusual verbs (e.g. *ornamentieren, leiben*), and many others clearly have participles (e.g. *ankeuchen: er kommt angekeucht; gutachten: ich habe gegutachtet; worthalten: ich habe wortgehalten*). The best examples of verbs without participles appear to be verbs with incorporated objects (e.g. *bausparen, wettlaufen*) that neither can be used in finite forms, nor as participle, but only as an infinitive. In these examples it is even questionable whether these words should be classified as verbs at all. Still, some participles indeed appear to be very rare, like with *stammen, ^?^gestammt* 'to originate from' or *wogen, ^?^gewogt* 'to undulate'. However, examples are attested in corpora, e.g. *Wir haben keinen Hinweis darauf, woher der Geruch gestammt haben könnte* (~~DWDS~~: Die Zeit, 29.12.2014 online) or *Getanzt wird auch im Stehen nicht, nur gewogt.* (~~DWDS~~: Die Zeit, 16.04.2015, Nr. 16).]  The reversal is not true though, as there exist many participles that do not have corresponding finite verb forms (see [@sec:participles-no-alternation]).
 
 ### Syntactic functions of participles {#sec:participles-functions}
 
@@ -156,7 +156,7 @@ b. (Es ist bekannt, dass) er die Schuhe im Geschäft immer geputzt kauft.
 c. (Es ist bekannt, dass) er die Schuhe immer geputzt im Geschäft kauft.
 :::
 
-Third, secondary predication with participles can also be distinguished from light-verb constructions by considering negation. Negation in sentences with a participle as a secondary predicate normally negates this secondary predicate itself (lexical scope), just like negation of adverbs [@next a,b]. With secondary predicates it is often even possible to use the prefix *un‑* to mark the lexical scope of the negation over the participle [@next c]. When the prefix *un‑* can be added, this is an easy test for secondary-predicate usage [@rothstein2007a: 161-162]. However, this test does not work in reverse (i.e. the impossibility to add *un‑* is not necessarily a sign of a light-verb construction), because many participles simply do not exist with the *un‑* prefix.
+Third, secondary predication with participles can also be distinguished from light-verb constructions by considering negation. Negation in sentences with a participle as a secondary predicate normally negates this secondary predicate itself (lexical scope), just like negation of adverbs [@next a,b]. With secondary predicates it is often even possible to use the prefix *un‑* to mark the lexical scope of the negation over the participle [@next c]. When the prefix *un‑* can be added, this is an easy test for secondary-predicate usage [@rothstein2007a: 161--162]. However, this test does not work in reverse (i.e. the impossibility to add *un‑* is not necessarily a sign of a light-verb construction), because many participles simply do not exist with the *un‑* prefix.
 
 ::: ex
 a. Er kauft die Schuhe nicht jetzt.
@@ -635,7 +635,7 @@ b. ^* Ich laune gut.
 
 ### Participles with preverbs {#sec:participles-preverbs}
 
-Words like *einverstanden* 'agreed' [@next a] look morphologically like a regular participle from a verb *einverstehen*. However, that verb does not exist [@next b], only the non-prefixed verb *verstehen* exists. Latzel [-@latzel1977: 79-80] discussed various examples with the preverb *aus‑* and Rothstein [-@rothstein2007a: 162] lists examples with the preverb *an‑* that only occur in construction with light verb *kommen* (see [@sec:participles-kommen]). Participles with preverbs that do not have a corresponding finite verb appear to be a common phenomenon and the participles listed here should only to be taken as illustrative examples.
+Words like *einverstanden* 'agreed' [@next a] look morphologically like a regular participle from a verb *einverstehen*. However, that verb does not exist [@next b], only the non-prefixed verb *verstehen* exists. Latzel [-@latzel1977: 79--80] discussed various examples with the preverb *aus‑* and Rothstein [-@rothstein2007a: 162] lists examples with the preverb *an‑* that only occur in construction with light verb *kommen* (see [@sec:participles-kommen]). Participles with preverbs that do not have a corresponding finite verb appear to be a common phenomenon and the participles listed here should only to be taken as illustrative examples.
 
 ::: ex
 a. Ich bin einverstanden.
@@ -1162,7 +1162,7 @@ A widespread option for transitive verbs is to use the *halten+Partizip* constru
 
 ### [ NA | NA ] *bekommen/kriegen+Partizip* Achievement (*Effektiv*) {#sec:participles-bekommen-achievement}
 
-The construction of the light verbs *bekommen/kriegen+Partizip* is widely discussed as a dative passive (*Rezipientenpassiv*, see [@sec:participles-bekommen-passive]). However, transitive verbs without dative arguments can also occur in this construction with a completely different 'to be able to' interpretation [@next]. This usage is discussed as the '*bekommen*-Konstruktion 2' [@leirbukt1997: 15-16] or as the 'resultative usage' of *bekommen/kriegen* [@lenz2013: 86, 238-239]. Different from the dative passive, the light verb *erhalten* is not possible in this construction. I propose the German name ~~Effektiv~~ (from Lat. *effectus* 'accomplishment') for this construction. In some situations it is even possible to construct ambiguous sentences, that can either have an *Effektiv* [@next b] or a *Rezipientenpassiv* [@next c] interpretation.
+The construction of the light verbs *bekommen/kriegen+Partizip* is widely discussed as a dative passive (*Rezipientenpassiv*, see [@sec:participles-bekommen-passive]). However, transitive verbs without dative arguments can also occur in this construction with a completely different 'to be able to' interpretation [@next]. This usage is discussed as the '*bekommen*-Konstruktion 2' [@leirbukt1997: 15--16] or as the 'resultative usage' of *bekommen/kriegen* [@lenz2013: 86, 238--239]. Different from the dative passive, the light verb *erhalten* is not possible in this construction. I propose the German name ~~Effektiv~~ (from Lat. *effectus* 'accomplishment') for this construction. In some situations it is even possible to construct ambiguous sentences, that can either have an *Effektiv* [@next b] or a *Rezipientenpassiv* [@next c] interpretation.
 
 ::: ex
 - Ich koche einen Tee. 
@@ -1207,7 +1207,7 @@ a. Das Kind scheint mir endlich eingeschlafen. \
 b. Der jüdische Publizist Julius Rodenberg schien ihm als Namenspatron geeignet.^[~~DWDS~~: Berliner Zeitung, 24.06.1999.]
 :::
 
-These constructions are analysed by Lasch [-@lasch2016: 253ff.] as *Askription mit modaler Relation*. However, I propose to categorise these construction as a kind of evidential, following the proposal by Diewald & Smirnova [@diewald2010: 177-191]. Diewald and Smirnova present an extensive discussion of the meaning of *scheinen* in various constructions, but, inexplicably, they did not include the construction with a participle. Still, their proposal that *scheinen* can express an inferential evidential also seems fitting for the participle construction. The German name ~~Perfektinferenz~~ is proposed here because of the perfectivity of the main verb. It stands in opposition to the *Imperfektinferenz* construction, which uses a *zu‑In­fi­ni­tiv* (see [@sec:zuinfinitive-scheinen]).
+These constructions are analysed by Lasch [-@lasch2016: 253ff.] as *Askription mit modaler Relation*. However, I propose to categorise these construction as a kind of evidential, following the proposal by Diewald & Smirnova [@diewald2010: 177--191]. Diewald and Smirnova present an extensive discussion of the meaning of *scheinen* in various constructions, but, inexplicably, they did not include the construction with a participle. Still, their proposal that *scheinen* can express an inferential evidential also seems fitting for the participle construction. The German name ~~Perfektinferenz~~ is proposed here because of the perfectivity of the main verb. It stands in opposition to the *Imperfektinferenz* construction, which uses a *zu‑In­fi­ni­tiv* (see [@sec:zuinfinitive-scheinen]).
 
 #### Attested verbs {.unnumbered}
 
@@ -1328,7 +1328,7 @@ Although there indeed seems to be a tendency here, there are many counterexample
 - Im Gericht gibt es Fragen, bei denen gelogen werden darf.^[Attested online at <http://www.rhetorik.ch/Aktuell/11/01_27/index.html>, accessed 4 June 2021.]
 :::
 
-In contrast, intransitive verbs with *sein* mostly do not allow for the impersonal passive, though examples can be found rather easily in corpora [@next]. Primus [-@primus2011: 289-290] observes that this typically induces a repetitive interpretation. The examples below suggest a habitual reading as a further possible interpretation.
+In contrast, intransitive verbs with *sein* mostly do not allow for the impersonal passive, though examples can be found rather easily in corpora [@next]. Primus [-@primus2011: 289--290] observes that this typically induces a repetitive interpretation. The examples below suggest a habitual reading as a further possible interpretation.
 
 ::: ex
 - Lange Zeit weiß niemand - Patrick eingeschlossen - wovor hier eigentlich geflohen wird.^[~~DWDS~~: Der Tagesspiegel, 05.01.2002]
@@ -1506,7 +1506,7 @@ Impersonal passives with a dative are widespread with the light verb *gehören* 
 
 ### [ NA | –N ] *scheinen/erscheinen+Partizip* Anticausative (*Inferenzantikausativ*) {#sec:participles-scheinen-anticausative}
 
-The light verbs *scheinen* and *erscheinen* can be used with participles in monoclausal constructions. With intransitive verbs these light verbs do not induce any diathesis (see [@sec:participles-scheinen-intransitive]). In contrast, with transitive verbs these constructions result in an anticausative diathesis [@next]. Such constructions are analysed by Lasch [-@lasch2016: 253ff.] as *Askription mit modaler Relation*. However, inspired by the analysis by Diewald & Smirnova [@diewald2010: 177-191] it seems better to consider these expression as marking inferential evidence. As a German name I propose to use the term ~~Inferenzantikausativ~~.
+The light verbs *scheinen* and *erscheinen* can be used with participles in monoclausal constructions. With intransitive verbs these light verbs do not induce any diathesis (see [@sec:participles-scheinen-intransitive]). In contrast, with transitive verbs these constructions result in an anticausative diathesis [@next]. Such constructions are analysed by Lasch [-@lasch2016: 253ff.] as *Askription mit modaler Relation*. However, inspired by the analysis by Diewald & Smirnova [@diewald2010: 177--191] it seems better to consider these expression as marking inferential evidence. As a German name I propose to use the term ~~Inferenzantikausativ~~.
 
 ::: ex
 - Die Polizei hat die Straßensperre aufgehoben. \
@@ -1561,7 +1561,7 @@ The following attested verbs are only illustrative examples taken from the data 
 
 ### [ NA | –N ] *aussehen/wirken+Partizip* Anticausative (*Sinnesantikausativ*) {#sec:participles-wirken-anticausative}
 
-The verbs *aussehen* 'to appear' and *wirken* 'to have an effect' can be used as light verbs with participles in monoclausal constructions. With intransitive verbs such constructions do not induce a diathesis (see [@sec:participles-wirken-intransitive]). In contrast, with transitive verbs like *quälen* 'to agonise' [@next a] or *verändern* 'to change' [@next b] these constructions result in an anticausative diathesis. Inspired by the analysis by Diewald & Smirnova [@diewald2010: 177-191] I consider these expression as evidentials that mark direct evidence by sensory experience. As a German name I propose to use the term ~~Sinnesantikausativ~~.
+The verbs *aussehen* 'to appear' and *wirken* 'to have an effect' can be used as light verbs with participles in monoclausal constructions. With intransitive verbs such constructions do not induce a diathesis (see [@sec:participles-wirken-intransitive]). In contrast, with transitive verbs like *quälen* 'to agonise' [@next a] or *verändern* 'to change' [@next b] these constructions result in an anticausative diathesis. Inspired by the analysis by Diewald & Smirnova [@diewald2010: 177--191] I consider these expression as evidentials that mark direct evidence by sensory experience. As a German name I propose to use the term ~~Sinnesantikausativ~~.
 
 ::: ex
 - Die Erinnerung quält ihn. \
@@ -1680,7 +1680,7 @@ b. Er geht gebückt.
 
 ### [ NA | pN ] *werden+Partizip* Passive (*Vorgangspassiv*) {#sec:participles-werden-passive}
 
-The *werden+Partizip* ~~Vorgangspassiv~~ is the quintessential diathesis according to textbooks on German grammar. This diathesis promotes an accusative to nominative and (optionally) retains the original nominative, typically as a prepositional *durch* or *von* phrase [@next], but see [@sec:prepositions-durch] for a discussion of the status of these prepositions. Pape-Müller [-@papemuller1980: 77-85] discusses various other grammatical possibilities to express the agent. Any further arguments, like datives or governed prepositions, are simply retained [@next c,d].
+The *werden+Partizip* ~~Vorgangspassiv~~ is the quintessential diathesis according to textbooks on German grammar. This diathesis promotes an accusative to nominative and (optionally) retains the original nominative, typically as a prepositional *durch* or *von* phrase [@next], but see [@sec:prepositions-durch] for a discussion of the status of these prepositions. Pape-Müller [-@papemuller1980: 77--85] discusses various other grammatical possibilities to express the agent. Any further arguments, like datives or governed prepositions, are simply retained [@next c,d].
 
 ::: ex
 - Der Handwerker hat das Haus angemalt.
@@ -1738,7 +1738,7 @@ Most verbs with an accusative argument seem to allow for a *Zustandspassiv*, lik
 - Das Kronendach sei durch Holzeinschlag geöffnet, so daß mehr Sonnenlicht durchdringen und den Boden austrocknen könne.^[~~DWDS~~: Berliner Zeitung, 29.09.1997.]
 :::
 
-There are some transitive verbs that do not appear to allow a *Zustandspassiv*, like *ärgern* 'to irritate' [@next a,b]. Among those verbs without a *Zustandspassiv* there is a recurrent alternative to use a preverb to attain the expected meaning, like *verärgern* 'to irritate' [@next c], see also [@sec:preverb-transitive-with-unaccusative]. Maienborn [-@maienborn2007: 102-103] also discusses the claims in the literature that some verbs do not allow for a *Zustandspassiv*, but she dismisses such claims as the effect of pragmatic restrictions on their usage. At the end of this section I will list some verbs that appear to be at least problematic, if not completely impossible. However, the extend of applicability of the *Zustandspassiv* needs more in-depth corpus investigation.
+There are some transitive verbs that do not appear to allow a *Zustandspassiv*, like *ärgern* 'to irritate' [@next a,b]. Among those verbs without a *Zustandspassiv* there is a recurrent alternative to use a preverb to attain the expected meaning, like *verärgern* 'to irritate' [@next c], see also [@sec:preverb-transitive-with-unaccusative]. Maienborn [-@maienborn2007: 102--103] also discusses the claims in the literature that some verbs do not allow for a *Zustandspassiv*, but she dismisses such claims as the effect of pragmatic restrictions on their usage. At the end of this section I will list some verbs that appear to be at least problematic, if not completely impossible. However, the extend of applicability of the *Zustandspassiv* needs more in-depth corpus investigation.
 
 ::: ex
 - Die Schüler ärgern den Lehrer.
@@ -1750,7 +1750,7 @@ Some transitive verbs have a *sein+Partizip* diathesis, but only with a rather s
 
 ::: ex
 - Ich halte den Bus an. \
-  Die Botschaften sind angehalten, Visa nicht auszustellen.^[~~DWDS~~: Beförderungsverbot. In: Aktuelles Lexikon 1974-2000, München: DIZ 2000]
+  Die Botschaften sind angehalten, Visa nicht auszustellen.^[~~DWDS~~: Beförderungsverbot. In: Aktuelles Lexikon 1974--2000, München: DIZ 2000]
 - Der Lärm stört den Mann. \
   Der Mann ist gestört.
 - Die Transaktionen ergaben einen hohen Gewinn. \
@@ -1900,9 +1900,9 @@ The *bleiben+Partizip* is only possible with a small subset of all verbs that al
 
 ### [ NA | pN ] *gehören+Partizip* Passive (*Normpassiv*) {#sec:participles-gehoren-anticausative}
 
-The *gehören+Partizip* passive adds a normative aspect to the meaning of the passive. It expresses that something ought to happen. Early (short) discussions of this construction are given by Reis [-@reis1976: 70] and Höhle [-@hohle1978: 50-51], with slightly more elaboration later in Engel [-@engel1996: 458], Eroms [-@eroms2000: 405-412] and Szátmari [-@szatmari2002: 179-182]. More recent discussions are found in Stathi [-@stathi2010] and Lasch [-@lasch2016: 84ff.].
+The *gehören+Partizip* passive adds a normative aspect to the meaning of the passive. It expresses that something ought to happen. Early (short) discussions of this construction are given by Reis [-@reis1976: 70] and Höhle [-@hohle1978: 50--51], with slightly more elaboration later in Engel [-@engel1996: 458], Eroms [-@eroms2000: 405--412] and Szátmari [-@szatmari2002: 179--182]. More recent discussions are found in Stathi [-@stathi2010] and Lasch [-@lasch2016: 84ff.].
 
-This construction is widespread for transitive verbs like *verbrennen* 'to burn something' [@next a]. Any further arguments can be retained, like the dative *ihm* 'to him' with the verb *sagen* 'to say' [@next b]. The retention of the agent with a *durch* prepositional phrase seems to be perfectly possible [@next c], although not frequent.^[There are no examples of *gehören+Partizip* with a retained agent in the corpus compiled by Lasch [-@lasch2016], see <https://goo.gl/VPJbAb>. Höhle claims that the retention of the agent ist not possible [-@hohle1978: 50-51], though his examples seem perfectly acceptable to me.] 
+This construction is widespread for transitive verbs like *verbrennen* 'to burn something' [@next a]. Any further arguments can be retained, like the dative *ihm* 'to him' with the verb *sagen* 'to say' [@next b]. The retention of the agent with a *durch* prepositional phrase seems to be perfectly possible [@next c], although not frequent.^[There are no examples of *gehören+Partizip* with a retained agent in the corpus compiled by Lasch [-@lasch2016], see <https://goo.gl/VPJbAb>. Höhle claims that the retention of the agent ist not possible [-@hohle1978: 50--51], though his examples seem perfectly acceptable to me.] 
 
 ::: ex
 - Er verbrennt dieses Buch. \
@@ -1953,7 +1953,7 @@ There are various more such *machen+sich+Partizip* constructions that do not app
 
 ### [ ND | pN ] *bekommen/kriegen/erhalten+Partizip* Intransitive dative passive {#sec:participles-intransitive-bekommen-passive}
 
-The *bekommen* dative passive is typically found with verbs with a dative and an accusative argument (see the next [@sec:participles-bekommen-passive]). Leirbukt [-@leirbukt1997: 64-67] only finds a single example without an accusative in his corpus, but he lists various examples as presented by other authors. Examples with verbs like *helfen* 'to help' are questionable [@next a,b], but are widely attested inside a modal constructions [@next c].
+The *bekommen* dative passive is typically found with verbs with a dative and an accusative argument (see the next [@sec:participles-bekommen-passive]). Leirbukt [-@leirbukt1997: 64--67] only finds a single example without an accusative in his corpus, but he lists various examples as presented by other authors. Examples with verbs like *helfen* 'to help' are questionable [@next a,b], but are widely attested inside a modal constructions [@next c].
 
 ::: ex
 - Die Ärztin hilft mir.
@@ -1984,7 +1984,7 @@ The choice between the light verbs *bekommen*, *kriegen* and *erhalten* does not
 
 #### Attested verbs {.unnumbered}
 
-- Leirbukt [-@leirbukt1997: 68-99] lists hundreds of verbs organised in many semantic classes.
+- Leirbukt [-@leirbukt1997: 68--99] lists hundreds of verbs organised in many semantic classes.
 
 #### Further examples {.unnumbered}
 
@@ -2024,11 +2024,11 @@ b. Ich hätte den Rechner gerne von dem erfahrenen Techniker repariert.
 c. Ich will den Rechner von dem erfahrenen Techniker repariert haben.
 :::
 
-The possibility of this construction with intransitives is discussed by Rothstein [-@rothstein2007: 295-296], but his examples (*öffnen, schließen*) are not applicable, because they are covert anticausatives (see [@sec:case-haben-anticausative]). There are a few other intriguing examples without an accusative object, but they show a rather different remapping of roles as discussed in detail in [@sec:participles-intransitive-haben-passive].
+The possibility of this construction with intransitives is discussed by Rothstein [-@rothstein2007: 295--296], but his examples (*öffnen, schließen*) are not applicable, because they are covert anticausatives (see [@sec:case-haben-anticausative]). There are a few other intriguing examples without an accusative object, but they show a rather different remapping of roles as discussed in detail in [@sec:participles-intransitive-haben-passive].
 
-There is a long scholarly history describing this beneficiary reading of the *haben+Partizip* construction [e.g. @kruisinga1935: 122; @bech1955: 20-21; @stopp1957: 278; @seiler1973: 842-843; @latzel1977a: 289; @helbig1978: 42-43; @hohle1978: 46; @eroms2000: 395-396, 420-421]. The first more in-depth discussion is by Leirbukt [-@leirbukt1981; -@leirbukt2000], followed by Hole [-@hole2002], Rothstein [-@rothstein2007], and most recently Lasch [-@lasch2016: 87ff.] and Businger [-@businger2017: Ch. 4]. In the recent literature following Hole [-@hole2002], this construction is known as the 'Partizipiale *haben*-Konfiguration (PHK)'. I find this name rather cumbersome and uninformative. I propose to call this construction ~~Pertinenzpassiv~~ as there is a strong connection to the *Pertinenzdativ* (see [@sec:case-possessor-accusative-to-dative]) and the *Rezipientenpassiv* (see [@sec:participles-bekommen-passive]).
+There is a long scholarly history describing this beneficiary reading of the *haben+Partizip* construction [e.g. @kruisinga1935: 122; @bech1955: 20--21; @stopp1957: 278; @seiler1973: 842--843; @latzel1977a: 289; @helbig1978: 42--43; @hohle1978: 46; @eroms2000: 395--396, 420--421]. The first more in-depth discussion is by Leirbukt [-@leirbukt1981; -@leirbukt2000], followed by Hole [-@hole2002], Rothstein [-@rothstein2007], and most recently Lasch [-@lasch2016: 87ff.] and Businger [-@businger2017: Ch. 4]. In the recent literature following Hole [-@hole2002], this construction is known as the 'Partizipiale *haben*-Konfiguration (PHK)'. I find this name rather cumbersome and uninformative. I propose to call this construction ~~Pertinenzpassiv~~ as there is a strong connection to the *Pertinenzdativ* (see [@sec:case-possessor-accusative-to-dative]) and the *Rezipientenpassiv* (see [@sec:participles-bekommen-passive]).
 
-There are various tests to disentangle the two *haben+Partizip* constructions (i.e. *Perfekt* and *Pertinenzpassiv*). Businger [-@businger2017: 160-171] presents an extensive discussion of such criteria. I will describe only a few criteria here. In general, it is rather easy to force a *Perfect* interpretation, but much harder to force a *Pertinenzpassiv* reading. 
+There are various tests to disentangle the two *haben+Partizip* constructions (i.e. *Perfekt* and *Pertinenzpassiv*). Businger [-@businger2017: 160--171] presents an extensive discussion of such criteria. I will describe only a few criteria here. In general, it is rather easy to force a *Perfect* interpretation, but much harder to force a *Pertinenzpassiv* reading. 
 
 - First, the two interpretations of the *haben+Partizip* construction have different temporal structures (see [@sec:participles-temporal-interpretation]). The *Perfekt* is process-oriented and thus compatible with a gradual adverb like *allmählich*. In contrast, the *Pertinenzpassiv* is result-oriented and does not allow for such adverbs [@next a].
 - Second, the *Pertinenzpassiv* is incompatible with an explicit possessor, either as an adnominal genitive [@next b] or as a dative [@next c]. Such examples can only be interpreted as a *Perfekt*. 
@@ -2048,7 +2048,7 @@ There are various tests to disentangle the two *haben+Partizip* constructions (i
   (= *Pertinenzpassiv*: Er hat meinen Rechner repariert.)
 :::
 
-A connection between the *Pertinenzpassiv* and the *bekommen* passive ([@sec:participles-bekommen-passive]) is repeatedly proposed [e.g. already in @kruisinga1935: 122] and regularly criticised [e.g. @hole2002: 172-173; @businger2017: 176-184]. The basic observation is the parallel as shown in [@next] with *haben+Partizip+bekommen* playing a similar role as *sein+Partizip+worden* (cf. [@sec:participles-sein-zustandspassiv]). Although there is undoubtedly a similarity between [@next a] and [@next b], these two sentences are clearly different constructions. For example, both constructions have different temporal structures. The *Pertinenzpassiv* is result-oriented and not compatible with gradual time adverbs like *langsam* [@nnext a]. In contrast, the *bekommen+Partizip* construction is process-oriented and can easily be combined with such adverbs [@next b].
+A connection between the *Pertinenzpassiv* and the *bekommen* passive ([@sec:participles-bekommen-passive]) is repeatedly proposed [e.g. already in @kruisinga1935: 122] and regularly criticised [e.g. @hole2002: 172--173; @businger2017: 176--184]. The basic observation is the parallel as shown in [@next] with *haben+Partizip+bekommen* playing a similar role as *sein+Partizip+worden* (cf. [@sec:participles-sein-zustandspassiv]). Although there is undoubtedly a similarity between [@next a] and [@next b], these two sentences are clearly different constructions. For example, both constructions have different temporal structures. The *Pertinenzpassiv* is result-oriented and not compatible with gradual time adverbs like *langsam* [@nnext a]. In contrast, the *bekommen+Partizip* construction is process-oriented and can easily be combined with such adverbs [@next b].
 
 ::: ex
 - Ich habe den Arm verbunden. \
@@ -2064,7 +2064,7 @@ A connection between the *Pertinenzpassiv* and the *bekommen* passive ([@sec:par
   (= Mir ist der Arm verbunden worden.)
 :::
 
-It is crucial for the *Pertinenzpassiv* that the possessor of the accusative can also be expressed as a dative. It is neither verbs with just datives, nor with just accusative possessors, that allow for a *Pertinenzpassiv* [@hole2002: 175-177]. The *Pertinenzpassiv*-interpretation is only available when both dative and possessor expressions are possible for the role of the beneficiary (cf. [@sec:case-possessor-accusative-to-dative]). More general, there is a curious and extremely fascinating parallel between different kinds of possessor-datives and different constructions with the light verb *haben*:
+It is crucial for the *Pertinenzpassiv* that the possessor of the accusative can also be expressed as a dative. It is neither verbs with just datives, nor with just accusative possessors, that allow for a *Pertinenzpassiv* [@hole2002: 175--177]. The *Pertinenzpassiv*-interpretation is only available when both dative and possessor expressions are possible for the role of the beneficiary (cf. [@sec:case-possessor-accusative-to-dative]). More general, there is a curious and extremely fascinating parallel between different kinds of possessor-datives and different constructions with the light verb *haben*:
 
 - [@next a]:  Subject-possessor ([@sec:case-possessor-of-nominative-to-dative-experiencer]) ~ *haben+am‑In­fi­ni­tiv* ([@sec:zuminfinitive-haben-am])
 - [@next b]:  Object-possessor ([@sec:case-possessor-accusative-to-dative]) ~ *haben+Partizip* (this section)
@@ -2479,7 +2479,7 @@ A few incidental intransitive verbs allow for a special variant of the possessor
 - Ich habe die Haare geschnitten.
 :::
 
-A similar diathesis for the possessor of an intransitive subject is also attested, though it is very rare [cf. @businger2017: 162-163]. An example is the verb *anschwellen* 'to swell', for which the possessor of the subject [@next a] can be expressed as a dative [@next b] and as a subject in a *haben+Partizip* construction [@next c].
+A similar diathesis for the possessor of an intransitive subject is also attested, though it is very rare [cf. @businger2017: 162--163]. An example is the verb *anschwellen* 'to swell', for which the possessor of the subject [@next a] can be expressed as a dative [@next b] and as a subject in a *haben+Partizip* construction [@next c].
 
 ::: ex
 - Sein Arm schwillt an.

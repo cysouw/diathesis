@@ -54,7 +54,7 @@ There are fifteen diatheses that seem prominent enough to be given a German name
 
 ### Identifying governed prepositions {#sec:prepositions-identifying-governed-prepositions}
 
-As a general rule (with only few exceptions, see below) I propose to define prepositional phrases as lexically governed arguments when they allow for a paraphrase of the form *da*-~~preposition~~, *dass* ~~clause~~ (cf. Engelen 1986: 110-112). For example, the verb *warten* 'to await' has a possible governed preposition *auf* designating the object that is waited for [@next a]. In this reading, [@next a] can be paraphrased by [@next b] with a *darauf, dass* subordinate clause. This combination *warten auf* can best be considered a fixed collocation, to be translated into English as 'waiting for'. However, the preposition *auf* can also have its adverbial local meaning 'on top of' [@next c]. This leads to another interpretation in which the prepositional phrase is not a governed preposition but an adverbial phrase with a local meaning, paraphrased in [@next d]. These two readings can even be combined [@next e], with an interesting difference in case marking between the two prepositional phrases.
+As a general rule (with only few exceptions, see below) I propose to define prepositional phrases as lexically governed arguments when they allow for a paraphrase of the form *da*-~~preposition~~, *dass* ~~clause~~ [cf. @engelen1986: 110--112]. For example, the verb *warten* 'to await' has a possible governed preposition *auf* designating the object that is waited for [@next a]. In this reading, [@next a] can be paraphrased by [@next b] with a *darauf, dass* subordinate clause. This combination *warten auf* can best be considered a fixed collocation, to be translated into English as 'waiting for'. However, the preposition *auf* can also have its adverbial local meaning 'on top of' [@next c]. This leads to another interpretation in which the prepositional phrase is not a governed preposition but an adverbial phrase with a local meaning, paraphrased in [@next d]. These two readings can even be combined [@next e], with an interesting difference in case marking between the two prepositional phrases.
 
 ::: ex
 a. Der König wartet auf seinen neuen Thron.
@@ -351,7 +351,7 @@ Some verbs, like *erinnern* 'to remind' [@next], combine a governed preposition 
 
 ### [ NL ] Obligatory local preposition {#sec:prepositions-obligatory-local}
 
-Some verbs appear to have an obligatory location argument, like *wohnen* 'to live' [@next], cf. the classes 'Extent' and 'Location' in Gamerschlag [-@gamerschlag2014: 319-321].
+Some verbs appear to have an obligatory location argument, like *wohnen* 'to live' [@next], cf. the classes 'Extent' and 'Location' in Gamerschlag [-@gamerschlag2014: 319--321].
 
 ::: ex
 - Sie wohnt in Berlin.
@@ -685,7 +685,7 @@ c. Ich ärgere mich über deine Witze.
 
 #### Notes {.unnumbered}
 
-For a detailed discussion of the verb *erschrecken* and possible morphophonological differences between the two alternants, see Plank & Lahiri [@plank2015: 29-31].
+For a detailed discussion of the verb *erschrecken* and possible morphophonological differences between the two alternants, see Plank & Lahiri [@plank2015: 29--31].
 
 ### [ NP | –N ] Intransitive fabricative
 
@@ -753,7 +753,7 @@ c. Der Teller ist (\*allmählich) am Tisch geklebt.
 
 #### Notes {.unnumbered}
 
-{#par:hängen} The verb *hängen* still shows the difference between transitive causative and intransitive stative usage through different forms of the past *hing* vs. *hängte* [@next a,b] and the participle *gehangen* vs. *gehängt* [@next c,d]. Many speakers of German do not appear to have clear intuitions about any difference between these two inflectional alternatives anymore [see also @plank2015: 32-33].
+{#par:hängen} The verb *hängen* still shows the difference between transitive causative and intransitive stative usage through different forms of the past *hing* vs. *hängte* [@next a,b] and the participle *gehangen* vs. *gehängt* [@next c,d]. Many speakers of German do not appear to have clear intuitions about any difference between these two inflectional alternatives anymore [see also @plank2015: 32--33].
 
 ::: ex
 a. Der Pullover hing im Schrank.
@@ -2156,7 +2156,7 @@ e. Gib mir eine Waffe und ich gewinne dir jeden Krieg.^[Attested online at <http
 
 ### [ Np | ND ] Judgement dative {#sec:prepositions-judgement-dative}
 
-A dative can be introduced together with an obligatory *zu/genug* phrase in the interpretation of an evaluator *für den Geschmack von* [also known as *dativus iudicantis*, e.g. @hole2014: 6-7, 172-176]. It is typically used with intransitive verbs [@next a], though transitive construction seem possible [@next b]. More research is needed to establish any restrictions for the kind of verbs with which this dative can be used.
+A dative can be introduced together with an obligatory *zu/genug* phrase in the interpretation of an evaluator *für den Geschmack von* [also known as *dativus iudicantis*, e.g. @hole2014: 6--7, 172--176]. It is typically used with intransitive verbs [@next a], though transitive construction seem possible [@next b]. More research is needed to establish any restrictions for the kind of verbs with which this dative can be used.
 
 ::: ex
 - Paul fuhr zu schnell für den Geschmack von seiner Mutter. \
@@ -2356,7 +2356,7 @@ b. Ich wickle das Tuch um den Arm. \
    Ich wickle den Arm in dem Tuch ein.
 :::
 
-With a few verbs this alternation is attested without a verbal prefix or particle. With some verbs of filling, like *füllen* 'to fill' [@next a] this unmarked diathesis is completely parallel to the *befüllen* (see [@sec:preverb-applicative-antipassive]), but without any overt marking. An accusative object, here *Schnaps* 'liquor' [@next a] is replaced with an optional *mit* prepositional phrase [@next c], cf. the English 'spray/load' alternation from Levin [-@levin1993: 50-51]. This alternation is closely related to the *mit* antipassive (see [@sec:prepositions-mit-antipassive]). In addition to this *mit* antipassive, there is an applicative diathesis that turns an obligatory location into an accusative, here *Flasche* 'bottle'.
+With a few verbs this alternation is attested without a verbal prefix or particle. With some verbs of filling, like *füllen* 'to fill' [@next a] this unmarked diathesis is completely parallel to the *befüllen* (see [@sec:preverb-applicative-antipassive]), but without any overt marking. An accusative object, here *Schnaps* 'liquor' [@next a] is replaced with an optional *mit* prepositional phrase [@next c], cf. the English 'spray/load' alternation from Levin [-@levin1993: 50--51]. This alternation is closely related to the *mit* antipassive (see [@sec:prepositions-mit-antipassive]). In addition to this *mit* antipassive, there is an applicative diathesis that turns an obligatory location into an accusative, here *Flasche* 'bottle'.
 
 ::: ex
 a. Er füllt den Schnaps in die Flasche.

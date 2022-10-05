@@ -137,7 +137,14 @@ a. Es stinkt hier sehr.
 b. Hier stinkt es sehr.
 :::
 
-In a very limited set of constructions the expected valency-simulating *es* is not present, resulting in sentences without any formal nominative subject [@next]. Some of these examples are historical idiosyncrasies [@next a,b]. However, there are a few impersonal diatheses that remove the subject, but have no valency-simulating *es*:
+In a very limited set of constructions the expected valency-simulating *es* is not present, resulting in sentences without any formal nominative subject. Some of these examples are historical idiosyncrasies [@next], see Sections [-@sec:prepositions-nominative-demotion-dative-addition] and [-@sec:case-accusative-dative], respectively.
+
+::: ex
+a. Heute ist mir kalt.
+b. Dem Arzt graut vor Blut.
+:::
+
+However, there are a few impersonal diatheses that completely remove the subject, but that have no valency-simulating *es*. Specifically, the following diatheses result in sentences that do not have any nominative subject.
 
 - [@next c] impersonal *werden+Partizip*, see [@sec:participles-werden-impersonal-passive]
 - [@next d] impersonal *lassen+Infinitiv+Reflexiv*, see [@sec:infinitive-lassen-reflexive-intransitive]
@@ -145,8 +152,6 @@ In a very limited set of constructions the expected valency-simulating *es* is n
 - [@next f] impersonal *sein+zu‑In­fi­ni­tiv*, see [@sec:zuinfinitive-sein-impersonal]
 
 ::: ex
-a. Heute ist mir kalt.
-b. Dem Arzt graut vor Blut.
 c. Im Bett wird geschlafen.
 d. An der Ernsthaftigkeit der Aussage lässt sich zweifeln.
 e. Mit einem neutralen Deutschland ist schwer leben.
@@ -162,7 +167,9 @@ b. Ich meine es ernst.
 
 ### Adjuncts
 
-Adjuncts, the counterparts of arguments, are phrases that are not specifically induced by the main verb of a clause. Typically, such adjuncts are adverbial prepositional phrases, see [@sec:prepositions-definition-non-governed]. Just like with arguments, adjunct status should not be linked to a lexical verb itself, but to the clause construction in which it is used. For example, the verb *tanzen* 'to dance' is typically considered to be an intransitive verb with optional (adjunct) location prepositional phrases [@next a,b]. However, there is a crucial difference between the two locations in these two examples, see [@sec:prepositions-manner-of-movement]. The static location *im Saal* 'in the hall' [@next a] remains optional in the perfect (with auxiliary *haben*), see [@next c,d], while the dynamic location *in den Saal* 'into the hall' becomes obligatory in the perfect (with auxiliary *sein*), see [@next e,f]. So, the obligatory location in [@next e] is an utterance argument (and as a consequence, the role of 'path' is a lexical role of such verbs of movement like *tanzen*).
+Adjuncts, the counterparts of arguments, are phrases that are not specifically induced by the main verb of a clause. Typically, such adjuncts are adverbial prepositional phrases, see [@sec:prepositions-definition-non-governed]. Just like with arguments, adjunct status should not be linked to a lexical verb itself, but to the clause construction in which it is used.
+
+For example, the verb *tanzen* 'to dance' is typically considered to be an intransitive verb with optional (adjunct) location prepositional phrases [@next a,b]. However, there is a crucial difference between the two locations in these two examples, see [@sec:prepositions-manner-of-movement]. The static location *im Saal* 'in the hall' [@next a] remains optional in the perfect (with auxiliary *haben*), see [@next c,d], while the dynamic location *in den Saal* 'into the hall' becomes obligatory in the perfect (with auxiliary *sein*), see [@next e,f]. So, the obligatory location in [@next e] is an utterance argument (and as a consequence, the role of 'path' is a lexical role of such verbs of movement like *tanzen*).
 
 ::: ex
 a. Ich tanze (im Saal).
@@ -241,7 +248,7 @@ a. Ich wasche meine Kleider.
 b. Sie lässt mich meine Kleider waschen.
 :::
 
-Chapter [-@sec:zuinfinitive] investigates light verbs with *zu* plus an infinitive, like the *sein+zu‑In­fi­ni­tiv* passive [@next]. The combination of *zu* with an infinitive is arguably completely grammaticalised and is considered here to be yet another non-finite verb form of German, alongside *Partizip* and *In­fi­ni­tiv*. I propose to call it the *zu-In­fi­ni­tiv*.
+Chapter [-@sec:zuinfinitive] investigates light verbs with *zu* plus an infinitive, like for example the *sein+zu‑In­fi­ni­tiv* passive [@next]. The combination of *zu* with an infinitive is arguably completely grammaticalised and is considered here to be yet another non-finite verb form of German, alongside *Partizip* and *In­fi­ni­tiv*. I propose to call it the *zu-In­fi­ni­tiv*.
 
 ::: ex
 a. Ich führe einen Hund an der Leine.
@@ -283,7 +290,7 @@ All diatheses in this book will be organised and categorised in various levels o
 
 ~~Level 2: remapping pattern~~. The role-remapping of each diathesis is analysed using the single-letter abbreviations (NADGPLpgad–) from [@fig:abbreviations]. A remapping is specified as an ordered listing of grammatical expressions for roles, both before and after the diathesis. For example, ~~[NA | –N]~~ is a diathesis that involves two roles that are marked 'N(ominative)' and 'A(ccusative' before the diathesis and '–' zero and 'N(ominative)' after the diathesis, respectively. Because there are many diatheses with this same pattern, this characterisation is already an (implicit) classification.
 
-~~Level 3: local group~~. Groups of diatheses with similar remapping and similar semantics within each chapter are grouped together as a local group. These groups are rather ad-hoc and mainly represent a convenience-summary to streamline the presentation. Local groups are unnumbered subsections, indicated graphically with dashes around the name of the local group.
+~~Level 3: local group~~. Groups of diatheses with similar remapping and similar semantics within each chapter are grouped together as a local group. These groups are rather ad-hoc and mainly represent a useful summary to streamline the presentation. Local groups are unnumbered subsections, indicated graphically with dashes around the name of the local group.
 
 ~~Level 4: macrorole pattern~~. The remapping of each local group is structurally analysed in terms of the three-letter macroroles ~~(SBJ, OBJ, PBJ, ADJ, Ø)~~ from [@fig:abbreviations]. For example, the remapping from above ~~[NA | ‑N]~~ includes both a change from N to zero (i.e. ~~SBJ › Ø~~) and a change from A to N (i.e. ~~OBJ › SBJ~~). These two macrorole changes can be combined into a single macrorole patter ~~[OBJ › SBJ › Ø]~~.
 
@@ -304,7 +311,7 @@ b. Die Tür schließt sich.
 
 Although there is a reflexive pronoun in [@last b], this pronoun is not included with a lower-cased 'a' in the remapping pattern ~~[NA | ‑N]~~, because this reflexive pronoun does not refer to a separate role. The verb *schließen* 'to close' implies at least two different roles, the 'closer' and the 'closed object', expressed as nominative and accusative in [@last a], respectively. In [@last b] only the role of 'closed object' is expressed as nominative. The reflexive pronoun does not refer to any other role. I interpret the reflexive pronoun in [@last] as a marker of the diathesis itself (see Chapter [-@sec:reflexive] for an extensive discussion), so there is actually an overt direction in the markedness from unmarked [@last a] to reflexive-marked [@last b]. The vertical bar ' | ' in the middle of the remapping pattern ~~[NA | ‑N]~~ implies this direction in markedness from left to right, i.e. left side describes the unmarked alternant and the right side the marked alternant. Reordering the remapping pattern around the vertical bar would result in a completely reversed diathesis ~~[‑N | NA]~~.
 
-The diathesis in [@last] is one of various examples of a ~~local group~~ called 'reflexive antipassive'. Other diatheses in this group include examples like [@next] with an additional governed preposition, analysed with the remapping pattern ~~[NAP | ‑NP]~~, see [@sec:reflexive-anticausative-governed-preposition]. All diatheses in this local group have the same ~~macrorole pattern~~, namely ~~[OBJ › SBJ › Ø]~~, i.e a cased object is turned into nominative subject, which is turned into zero (i.e. unexpressed).
+The diathesis in [@last] is one of various examples of a ~~local group~~ called 'reflexive antipassive'. Other diatheses in this group include examples like [@next] with an additional governed preposition, analysed here with the remapping pattern ~~[NAP | ‑NP]~~, see [@sec:reflexive-anticausative-governed-preposition]. All diatheses in this local group have the same ~~macrorole pattern~~, namely ~~[OBJ › SBJ › Ø]~~, i.e a cased object is turned into nominative subject, which is turned into zero (i.e. unexpressed).
 
 ::: ex
 a. Das Lied erinnert den Mann an den Krieg.
@@ -344,18 +351,23 @@ Clause alternations are applied one after the other, i.e. the order of the alter
 
 - [@last a] +> *be‑* applicative +> reflexive anticausative = [@last c]
 
-This notation leads to concise analyses, as shown for example in [@next] for the difference between the sentences [@next a] and [@next b]. 
+This notation leads to concise analyses, as shown for example in [@next] for the difference between the sentences [@next a,b] and [@next c,d]. 
 
 ::: ex
 a. Der Lehrer hat die Aufgabe lösen wollen. \
-   Basic clause: Der Lehrer löst die Aufgabe. \
-   +> *wollen* modal = Der Lehrer will die Aufgabe lösen. (cf. [-@sec:infinitive-modals]) \
-   +> *haben* perfect = Der Lehrer hat die Aufgabe lösen wollen. (cf. [-@sec:participles-haben-perfect])   
-b. Der Lehrer will die Aufgabe gelöst haben. \
-   Basic clause: Jemand löst die Aufgabe für den Lehrer. \
-   +> beneficiary dative = Jemand löst dem Lehrer die Aufgabe. (cf. [-@sec:prepositions-benefactive-dative]) \
-   +> *haben* dative passive = Der Lehrer hat die Aufgabe gelöst. (cf. [-@sec:participles-haben-passive]) \
-   +> *wollen* modal = Der Lehrer will die Aufgabe gelöst haben. (cf. [-@sec:infinitive-modals])
+b. Basic clause: Der Lehrer löst die Aufgabe. \
+   +> *wollen* modal (cf. [-@sec:infinitive-modals]) \
+       = Der Lehrer will die Aufgabe lösen. \
+   +> *haben* perfect (cf. [-@sec:participles-haben-perfect]) \
+       = Der Lehrer hat die Aufgabe lösen wollen.   
+c. Der Lehrer will die Aufgabe gelöst haben. \
+d. Basic clause: Jemand löst die Aufgabe für den Lehrer. \
+   +> beneficiary dative (cf. [-@sec:prepositions-benefactive-dative]) \
+       = Jemand löst dem Lehrer die Aufgabe. \
+   +> *haben* dative passive  (cf. [-@sec:participles-haben-passive]) \
+       = Der Lehrer hat die Aufgabe gelöst. \
+   +> *wollen* modal (cf. [-@sec:infinitive-modals]) \
+       = Der Lehrer will die Aufgabe gelöst haben.
 :::
 
 With unmarked ('covert') diatheses such stacks can sometimes be tricky to tease apart. As an example, consider the arguably somewhat artificially constructed example in [@next] using the verb *schneiden* 'to cut'. It starts off in [@next a] as a basic transitive construction with a nominative and accusative argument. Yet, after various twists and turns it ends up on [@next f] with a nominative, an accusative, a dative and an obligatory location prepositional phrase, while the original agent *Arzt* is not even expressed.
@@ -382,7 +394,7 @@ The five diatheses (and the corresponding role-remappings) are the following:
 - [@last b], *in* antipassive: changing the cut object *Nagel* from accusative to prepositional object, see [@sec:prepositions-in-antipassive].
 - [@last c], possessor raising: changing the possessor of the cut object *Patient* from adnominal genitive into dative, see [@sec:prepositions-possessor-of-location-to-dative-experiencer].
 - [@last d], object exchange: adding a new accusative object *Schlitz* as the result of the cutting, see [@sec:prepositions-partitive-free].
-- [@last e], adjunct addition: adding an optional instrument *Fräser*, see [@sec:prepositions-comitative-intrumental].
+- [@last e], adjunct addition: adding a syntacticaly optional instrument *Fräser*, see [@sec:prepositions-comitative-intrumental].
 - [@last f], instrument anticausative: turning the instrument *Fräser* from prepositional phrase to nominative, see [@sec:prepositions-transitive-conciliative].
 
 ### Fixed stacks
@@ -398,7 +410,7 @@ c. Ich verkaufe das Buch.
 d. Das Buch verkauft sich gut.
 :::
 
-Various diatheses between a bare verb, like *fassen* 'to grasp' [@next a], and a preverb-alternant, like *befassen* 'to be concerned with' [@next b], additionally need a reflexive pronoun, see [@sec:preverb-reflexive-antipassive]. So here we have a fixed stack of a reflexive pronoun and a preverb together that mark the diathesis.
+Various diatheses between a verb, like *fassen* 'to grasp' [@next a], and its pre­verb-alternant, like *befassen* 'to be concerned with' [@next b], additionally need a reflexive pronoun, see [@sec:preverb-reflexive-antipassive]. So here we have a fixed stack of a reflexive pronoun and a preverb together that mark the diathesis.
 
 ::: ex
 a. Ich fasse einen Entschluss. 
@@ -420,7 +432,7 @@ c. Diese Aufgabe lässt sich (von den Schülern) lösen.
 Many diatheses just remap a single role. Such diatheses are called ~~isolated diatheses~~ here. However, there are also many diatheses in which more than one role is remapped. I distinguish the following kinds of combined role-remappings, of which only the first is frequently attested.
 
 - ~~Chained Diathesis~~ ([@sec:intro-chained-diatheses]): Two roles change their formal marking, forming a chain in which one role changes its form from X to Y, while the other role changes its form from Y to Z. This results in a chain ~~[X › Y › Z]~~.
-- ~~Multi-chained Diathesis~~ ([@sec:intro-multi-chained-diatheses]): More than two roles change their formal marking, forming a longer chain of connected changes.
+- ~~Multi-chained Diathesis~~ ([@sec:intro-multi-chained-diatheses]): Three (or possibly even more) roles change their formal marking, forming a longer chain of connected changes.
 - ~~Disjunct Diathesis~~ ([@sec:intro-disjunct-diatheses]): Two or more roles change their formal marking, with no overlap between marking.
 
 Chained diatheses are surprisingly frequent in German, and my impression is that this pervasiveness extends to many other languages beyond German. In a chained diathesis the result of the first remapping is the start of the second remapping. This can be conceptualised as a 'push' or 'pull' chain in which one remapping induces another. The prevalence of such chains is probably caused by two general tendencies of language structure, namely ~~distinctness~~ and ~~default marking~~. These tendencies are formulated here as hypotheses for language structure in general, beyond the specifics of German.
@@ -453,7 +465,7 @@ Among the chained diatheses there is a group of frequently recurring remapping p
 
 ### Multi-chained diatheses {#sec:intro-multi-chained-diatheses}
 
-~~multi-chained diatheses~~ consist of combinations of more than two role-remappings that occur in a sequence. This occurs frequently as the result of a stack of multiple diatheses, but only very rarely in a single diathesis. As an example arising from a stack of multiple diatheses consider taking a verb like *lesen* 'to read' [@next a] and applying a stack of two diatheses [@next b,c]. This leads to a chain of three role-remappings. First, the preverb diathesis with *vor‑* [@next b] leads to the addition of a dative argument *dem Jungen*, i.e. a role-remapping ~~[Ø › OBJ]~~, see [@sec:preverb-dative-addition-accusative]. On top of that, the *bekommen* dative passive [@next c] promotes this dative to subject and removes the original subject, i.e. a role-remapping ~~[OBJ › SBJ › Ø]~~, see [@sec:participles-bekommen-passive]. Combined, these two diatheses lead to a role-remapping ~~[Ø › OBJ › SBJ › Ø]~~.
+~~multi-chained diatheses~~ consist of combinations of more than two role-re­map­pings that occur in a sequence. This occurs frequently as the result of a stack of multiple diatheses, but only very rarely in a single diathesis. As an example arising from a stack of multiple diatheses consider taking a verb like *lesen* 'to read' [@next a] and applying a stack of two diatheses [@next b,c]. This leads to a chain of three role-remappings. First, the preverb diathesis with *vor‑* [@next b] leads to the addition of a dative argument *dem Jungen*, i.e. a role-remapping ~~[Ø › OBJ]~~, see [@sec:preverb-dative-addition-accusative]. On top of that, the *bekommen* dative passive [@next c] promotes this dative to subject and removes the original subject, i.e. a role-remapping ~~[OBJ › SBJ › Ø]~~, see [@sec:participles-bekommen-passive]. Combined, these two diatheses lead to a multi-chained role-re­map­ping ~~[Ø › OBJ › SBJ › Ø]~~.
 
 ::: ex
 ~~[Ø › OBJ › SBJ › Ø]~~
@@ -463,7 +475,7 @@ b. Der Vater hat dem Jungen ein Buch vorgelesen.
 c. Der Junge bekommt ein Buch vorgelesen.
 :::
 
-Such multi-chained diatheses resulting from diathesis-stacking are widespread. However, I know of only two diatheses with a multi-chain that cannot be decomposed into a stack of separate diatheses. Both these 'fixed' multi-chain diatheses appear to occur with just a few idiosyncratic verbs, so this phenomenon really seems to be dispreferred in German.
+Such multi-chained diatheses that are the result of diathesis-stacking are widespread. However, I know of only two diatheses with a multi-chain that cannot be decomposed into a stack of separate diatheses. Both these 'fixed' multi-chain diatheses appear to occur with just a few idiosyncratic verbs, so this phenomenon really seems to be dispreferred in German.
 
 First, the preverb diathesis from *erben* 'to inherit' to *enterben* 'to disinherit' [@next], see [@sec:preverb-inverted-passive-accusative-loss], contains three linked role-remappings for (i) the originator of the inheritance *Vater* 'father' ~~[ADJ › SBJ]~~, (ii) the receiver of the inheritance *Junge* 'boy' ~~[SBJ › OBJ]~~ and (iii) the inheritance *Schreibtisch* 'desk' ~~[OBJ › Ø]~~.
 
@@ -474,7 +486,7 @@ a. Der Junge erbt den Schreibtisch von seinem Vater.
 b. Sein Vater enterbt den Jungen.
 :::
 
-Second, the verb *schmecken* 'to taste' [@next], see [@sec:prepositions-ingredient-anticausative], allows for two different constructions with three linked role-remappings for (i) the tasted substance *Pfefferminze* 'peppermint' ~~[OBJ › ADJ]~~, (ii) the tasted dish *Suppe* 'soup' ~~[ADJ › SBJ]~~ and (iii) the taster *Koch* 'cook' ~~[SBJ › Ø]~~.
+Second, the verb *schmecken* 'to taste' [@next], see [@sec:prepositions-ingredient-anticausative], allows for two different constructions with three linked role-remappings for (i) the tasted substance *Pfefferminze* 'peppermint' ~~[OBJ › ADJ]~~, for (ii) the tasted dish *Suppe* 'soup' ~~[ADJ › SBJ]~~ and for (iii) the taster *Koch* 'cook' ~~[SBJ › Ø]~~.
 
 ::: ex
 ~~[OBJ › ADJ › SBJ › Ø]~~
@@ -544,11 +556,11 @@ b. Ich schwitze einen Fleck in mein Hemd.
 
 ### Names for macrorole patterns
 
-Throughout the introductory chapters I have used various names for diatheses, like passive, antipassive, applicative or causative. These names have a long history in the typological grammatical literature [cf. @melcuk1993; @wunderlich1993; @wunderlich2015; @dixon2000a; @dixon2014; @haspelmath2004c; @kulikov2011; @malchukov2015: 96ff.; @zuniga2019]. Although I have been using these terms as if their meaning is clear, this is often far from the truth. Many different terms and definitions have been proposed in the literature, and different terms have at times been used for the same phenomena. For example, the original proposal for the term 'antipassive' is already 50 years old [@silverstein1972: 395], but the same phenomenon is also known as deaccusative [@geniusiene1987: 94] or antiapplicative [@haspelmath2004c: 1132; @scheibl2006: 371]. Reversely, the term antipassive is also attested referring to a slightly different phenomenon of the drop of an object [@scheibl2006: 372-373]. 
+Throughout the introductory chapters I have used various names for diatheses, like passive, antipassive, applicative or causative. These names have a long history in the typological grammatical literature [cf. @melcuk1993; @wunderlich1993; @wunderlich2015; @dixon2000a; @dixon2014; @haspelmath2004c; @kulikov2011; @malchukov2015: 96ff.; @zuniga2019]. Although I have been using these terms as if their meaning is clear, this is often far from the truth. Many different terms and definitions have been proposed in the literature, and different terms have at times been used for the same phenomena. For example, the original proposal for the term 'antipassive' is already 50 years old [@silverstein1972: 395], but the same phenomenon is also known as deaccusative [@geniusiene1987: 94] or antiapplicative [@haspelmath2004c: 1132; @scheibl2006: 371]. Reversely, the term antipassive is also attested referring to a slightly different phenomenon of the drop of an object [@scheibl2006: 372--373]. 
 
 In this section I will describe in more detail how these names are used and defined in the current book about German diatheses. The names for diatheses will here always refer to a macrorole pattern, i.e. to the highly abstract classification of a diathesis in terms of ~~SBJ~~, ~~OBJ~~, etc. as defined in [@sec:intro-remapping]. For example, the term 'anticausative' will be used as a name for the macrorole pattern ~~[OBJ › SBJ › Ø]~~. Such macrorole patterns are strictly defined here in a language-specific way for German, so care should be taken when applying the same names to different languages.
 
-One widespread term that I will avoid is the term 'middle' (and likewise the Latinate equivalent term 'medium'). This term for a diathesis is already attested as *μεσότης* in the oldest known Greek grammatical text, the *τέχνη γραμματική* of Dionysius Thrax, and it has become a mainstay in the grammatical literature ever since.^[Thrax writes: *διαθέσεις εἰσὶ τρεῖς, ἐνέργεια, πάθος, μεσότης* "there are three diatheses, active, passive and middle" [@uhlig1883: 48].] The phenomena that are called 'middle' in the literature are highly variable, and there is no consensus about what kind of diathesis this term is supposed to designate, other than something that is neither active nor passive [see @zuniga2019: 168-177 for a thorough summary of the complex philological history of the term middle/medium]. Such a broad and ill-defined term is not useful for a detailed analysis of the large variety of attested role-remappings in German.
+One widespread term that I will avoid is the term 'middle' (and likewise the Latinate equivalent term 'medium'). This term for a diathesis is already attested as *μεσότης* in the oldest known Greek grammatical text, the *τέχνη γραμματική* of Dionysius Thrax, and it has become a mainstay in the grammatical literature ever since.^[Thrax writes: *διαθέσεις εἰσὶ τρεῖς, ἐνέργεια, πάθος, μεσότης* "there are three diatheses, active, passive and middle" [@uhlig1883: 48].] The phenomena that are called 'middle' in the literature are highly variable, and there is no consensus about what kind of diathesis this term is supposed to designate, other than something that is neither active nor passive [see @zuniga2019: 168--177 for a thorough summary of the complex philological history of the term middle/medium]. Such a broad and ill-defined term is not useful for a detailed analysis of the large variety of attested role-remappings in German.
 
 The discussion about the different names for macrorole patterns will be split into four parts. First, the next two sections will present names for diatheses involving the nominative subject. Subsequent sections will discuss diatheses not involving the subject. In both discussions, a central distinction will be made between isolated diatheses and chained diatheses (cf. [@sec:intro-chaining]).
 
@@ -617,7 +629,7 @@ b. Die Motoren donnerten.
 
 Chained diatheses that involve the nominative subject are widespread in German (in contrast to the infrequent occurrence of isolated diatheses as discussed previously). [@fig:subjectchains] presents an overview of the different terms that I will use for these diatheses. The bold-faced terms are used for widely attested diatheses, while the other kinds of diatheses are only incidentally found. There is currently no evidence in German for the existence of the remappings that are left empty in the figure. There appears to be a preference for various kinds of demotion (i.e. the upper right corner of the figure), which fits nicely with the known typological preference of German for anticausative constructions [@haspelmath1993a: 101; @nichols2004: 189].
 
-![Names for chained macro-role remappings involving the subject](figures/subjectchains){#fig:subjectchains}
+![Names for chained macro-role remappings with the subject in the middle of the chain](figures/subjectchains){#fig:subjectchains}
 
 The upper right part of [@fig:subjectchains] are demotions, the lower left part are promotions, and on the diagonal are examples of symmetrical diatheses. I will discuss all types in this order.
 
@@ -748,7 +760,7 @@ a. Das Archiv hebt den Nachlass auf.
 b. Ich finde den Nachlass (im Archiv) gut aufgehoben.
 :::
 
-The remaining types of promotions are rare. A ~~reversed passive [ADJ › SBJ › OBJ]~~ demotes the subject to object and at the same time promotes a new subject from an erstwhile adjunct role. An example in German is the diathesis from *erben* 'to inherit' to *enterben* 'to disinherit' [@next a,b], see [@sec:preverb-inverted-passive-accusative-loss]. This is semantically very close to a causative ~~[Ø › SBJ › OBJ]~~ in which the newly introduced causer can sometimes be expressed as an adjunct [@next c,d]. This affinity between a reversed passive and a causative is reminiscent of the affinity between a passive and an anticausative. In both pairs, the difference amounts to a switch between the closely related macro-role of an optional adjunct ~~(ADJ)~~ and being completely unexpressed ~~(Ø)~~.
+The remaining types of promotions are extremely rare. A ~~reversed passive [ADJ › SBJ › OBJ]~~ demotes the subject to object and at the same time promotes a new subject from an erstwhile adjunct role. An example in German is the diathesis from *erben* 'to inherit' to *enterben* 'to disinherit' [@next a,b], see [@sec:preverb-inverted-passive-accusative-loss]. This is semantically very close to a causative ~~[Ø › SBJ › OBJ]~~ in which the newly introduced causer can sometimes be expressed as an adjunct [@next c,d]. This affinity between a reversed passive and a causative is reminiscent of the affinity between a passive and an anticausative. In both pairs, the difference amounts to a switch between the closely related macro-role of an optional adjunct ~~(ADJ)~~ and being completely unexpressed ~~(Ø)~~.
 
 ::: ex
 ~~Reversed passive [ADJ › SBJ › OBJ]~~
@@ -771,7 +783,7 @@ c. Ich staune darüber, dass du schon fertig bist.
 
 #### Symmetrical subject diatheses {#sec:intro-symmetrical-subject}
 
-{#par:inversive} Completely symmetrical diatheses involving the subject are rare in German. A perfectly symmetrical ~~inversive [OBJ › SBJ › OBJ]~~ is a diathesis that switches subject and object. This term is proposed by Malchukov [-@malchukov2015: 99-100] inspired by the so-called 'inverse' marking found in Algonquian languages. An inversive diathesis is designated as a "symmetric conversive" by Kulikov [-@kulikov2011: 380]. An example of an inversive is the diathesis between *wundern* 'to puzzle' and *bewundern* 'to admire' [@next], see [@sec:preverb-accusative-inversive].
+{#par:inversive} Completely symmetrical diatheses involving the subject are rare in German. A perfectly symmetrical ~~inversive [OBJ › SBJ › OBJ]~~ is a diathesis that switches subject and object. This term is proposed by Malchukov [-@malchukov2015: 99--100] inspired by the so-called 'inverse' marking found in Algonquian languages. An inversive diathesis is designated as a "symmetric conversive" by Kulikov [-@kulikov2011: 380]. An example of an inversive is the diathesis between *wundern* 'to puzzle' and *bewundern* 'to admire' [@next], see [@sec:preverb-accusative-inversive].
 
 ::: ex
 ~~Inversive [OBJ › SBJ › OBJ]~~
@@ -833,7 +845,7 @@ The top right diatheses in [@fig:objectdiatheses] are demotions, while the botto
 
 The exception to this generalisation are the so-called locative and delocative diatheses. With those, promotions (locatives) are formally unmarked, while demotions (delocatives) are typically marked by preverbs or resultative preverbials. A possible explanation for this apparent markedness reversal is that the adding or removing of location phrases should not be seen as a change in valency ('diathetical operation'), but as the marking of the diathesis itself ('voice'). This would be a parallel to the addition/removal of directionals (see [@sec:adverbial-directionals]).
 
-![Names for isolated remappings without involvement of the subject](figures/objectdiatheses){#fig:objectdiatheses}
+![Names for isolated object remappings](figures/objectdiatheses){#fig:objectdiatheses}
 
 I will discuss the different role-remappings from [@fig:objectdiatheses] in four subsections. First, I will summarise the various kinds of applicatives and antipassives (mid left and mid top), then the objectives and deobjectives (top right and left bottom), followed by locative and delocative diatheses (mid bottom and mid right), and finally the symmetrical exchanges (on the diagonal).
 
@@ -841,7 +853,7 @@ I will discuss the different role-remappings from [@fig:objectdiatheses] in four
 
 Applicatives and antipassives are very similar, though reversed. ~~applicatives [ADJ › OBJ]~~ change a prepositional phrase into a case-marked phrase, while ~~antipassives [OBJ › ADJ]~~ convert a case-marked phrase into a prepositional phrase. Given this affinity, instead of 'antipassive' it might be better to call such remappings 'antiapplicative' [e.g. @haspelmath2004c: 1132] or 'deapplicative' (in line with the other names below).
 
-By removing or adding an object, applicatives and antipassives regularly change the transitivity of the sentence. However, because case marking in German is nominative/accusative aligned, changes in transitivity are not reflected in the marking of the subject. This is crucially different from languages with ergatively aligned case marking, in which antipassives also include a change in the marking of the subject, namely from ergative to absolutive (and vice versa with applicatives). Terminologically, these two situations might be distinguished by using the term 'deapplicative' for nominative/accusative languages and reserve 'antipassive' for ergative/absolutive languages. I decided against that distinction and the term 'antipassive' will be used throughout in this book with this explicit caveat.
+By removing or adding an object, applicatives and antipassives change the transitivity of the sentence. However, because case marking in German is nominative/accusative aligned, changes in transitivity are not reflected in the marking of the subject. This is crucially different from languages with ergatively aligned case marking, in which antipassives also include a change in the marking of the subject, namely from ergative to absolutive (and vice versa with applicatives). Terminologically, these two situations might be distinguished by using the term 'deapplicative' for nominative/accusative languages and reserve 'antipassive' for ergative/absolutive languages. I decided against that distinction and the term 'antipassive' will be used throughout in this book with this explicit caveat.
 
 Applicatives occur frequently with the addition of a preverb, like in the alternation between *steigen auf* 'to climb' and *besteigen* 'to mount' [@next], see [@sec:preverb-applicative].
 
@@ -951,7 +963,7 @@ a. Ich habe gestern ein Buch gekauft.
 b. Ich habe gestern eingekauft.
 :::
 
-A special variant of a deobjective occurs with verbs that apply to the body, like *verbrennen* 'to burn' [@next]. In such constructions, a reflexive pronoun is necessary. This diathesis is called ~~endoreflexive~~ [@haspelmath1987: 27-28], see [@sec:reflexive-accusative-drop] for an extensive discussion.
+A special variant of a deobjective occurs with verbs that apply to the body, like *verbrennen* 'to burn' [@next]. In such constructions, a reflexive pronoun is necessary. This diathesis is called ~~endoreflexive~~ [@haspelmath1987: 27--28], see [@sec:reflexive-accusative-drop] for an extensive discussion.
 
 ::: ex
 ~~Deobjective (endoreflexive) [OBJ › Ø]~~
@@ -1066,7 +1078,7 @@ b. Ich erwarte ein Geschenk von dir.
 
 Chains of object diatheses (i.e. chains with the object in the middle of the chain) can always be interpreted as a combination of two isolated object diatheses from the previous section. However, not all theoretically possible combinations are attested (see [@fig:objectchains]). The most frequently attested chained object diatheses are the highlighted variants of ~~object exchange~~ (see [@sec:intro-object-exchange] ff.). A few incidental examples of ~~chained case change~~ are also attested (see [@sec:intro-chained-case-change]).
 
-![Attested chains of object diathesis](figures/objectchains2){#fig:objectchains}
+![Names for chains of object diathesis](figures/objectchains2){#fig:objectchains}
 
 #### Object exchange {#sec:intro-object-exchange}
 
@@ -1089,9 +1101,9 @@ By definition (cf. [@sec:intro-remapping]), a chained diathesis is deemed to be 
 ~~SBJ » OBJ » PBJ » ADJ » Ø~~
 :::
 
-Concretely, the promotion of an object exchange can be either an objective ~~[Ø › OBJ]~~ ('three steps up'), an applicative ~~[ADJ › OBJ]~~ ('two steps up') or an obligatory-location applicative ~~[PBJ › OBJ]~~ ('one step up'). In reverse, the demotion can be either a deobjective ~~[OBJ › Ø]~~ ('three steps down'), an antipassive ~~[OBJ › ADJ]~~ ('two steps down') or an obligatory-location antipassive ~~[OBJ › PBJ]~~ ('one step down'). Combining two of these leads to an overall assessment of the chained diathesis. This whole concept of chained demotions/promotions can be visualised by considering the top-right to bottom-left diagonal in [@fig:objectchains]. The top-right corner ~~[OBJ › OBJ › Ø]~~ is the most extreme demotion ('net four down') and the bottom-left corner ~~[Ø › OBJ › OBJ]~~ is the most extreme promotion ('net four up'). All other possibilities are situated somewhere in between these extremes on this diagonal.
+Concretely, the promotion of an object exchange can be either an objective ~~[Ø › OBJ]~~ ('three steps up'), an applicative ~~[ADJ › OBJ]~~ ('two steps up') or an oblig­a­tory-loc­ation applicative ~~[PBJ › OBJ]~~ ('one step up'). In reverse, the demotion can be either a deobjective ~~[OBJ › Ø]~~ ('three steps down'), an antipassive ~~[OBJ › ADJ]~~ ('two steps down') or an oblig­a­tory-loc­ation antipassive ~~[OBJ › PBJ]~~ ('one step down'). Combining two of these leads to an overall assessment of the chained diathesis. This whole concept of chained demotions/promotions can be visualised by considering the top-right to bottom-left diagonal in [@fig:objectchains]. The top-right corner ~~[OBJ › OBJ › Ø]~~ is the most extreme demotion ('net four down') and the bottom-left corner ~~[Ø › OBJ › OBJ]~~ is the most extreme promotion ('net four up'). All other possibilities are situated somewhere in between these extremes on this diagonal.
 
-For example, consider again the diathesis from *schmieren* to *beschmieren*, repeated below in [@next]. It consist of a promotion from a prepositional phrase *auf die Wunde* to an accusative *die Wunde* and a demotion from an accusative *die Salbe* to a prepositional phrase *mit der Salbe*. The promotion starts from an obligatory location [@next a,b], i.e. this is an obligatory-locational applicative ~~[PBJ › OBJ]~~. In contrast, the demotion ends in an optional instrumental phrase [@next c,d], i.e. this is an antipassive diathesis ~~[OBJ › ADJ]~~. Now, the antipassive demotion ('two steps down') is a bigger jump on the macrorole hierarchy than the obligatory-location promotion ('one step up'), so the whole object exchange ~~[PBJ › OBJ › ADJ]~~ is classified as a demotion, be it a minor one ('net one step down'). 
+For example, consider again the diathesis from *schmieren* to *beschmieren*, repeated below in [@next]. It consist of a promotion from a prepositional phrase *auf die Wunde* to an accusative *die Wunde* and a demotion from an accusative *die Salbe* to a prepositional phrase *mit der Salbe*. The promotion starts from an obligatory location [@next a,b], i.e. this is an oblig­a­tory-loc­ational applicative ~~[PBJ › OBJ]~~. In contrast, the demotion ends in an optional instrumental phrase [@next c,d], i.e. this is an antipassive diathesis ~~[OBJ › ADJ]~~. Now, the antipassive demotion ('two steps down') is a bigger jump on the macrorole hierarchy than the oblig­a­tory-loc­ation promotion ('one step up'), so the whole object exchange ~~[PBJ › OBJ › ADJ]~~ is classified as a demotion, be it a minor one ('net one step down'). 
 
 ::: ex
 ~~Demoted object exchange [PBJ › OBJ › ADJ]~~
@@ -1106,11 +1118,11 @@ According to the above mentioned generalisation, such an overall demotion coinci
 
 #### Demoted object exchange {#sec:intro-demoted-object-exchange}
 
-There are two different kinds of object exchange with demotion, namely the ~~filled holonym~~ and the ~~emptied holonym~~ object exchange. These two kinds of exchange correlate with the intensity of the demotion. A minor demotion manifests a filled-holonym object exchange, while a more extreme form of demotion expresses an emptied-holonym object exchange. 
+There are two different kinds of object exchange with demotion, namely the ~~filled holonym~~ and the ~~emptied holonym~~ object exchange. These two kinds of exchange correlate with the intensity of the demotion. A minor demotion manifests a fil­led-holo­nym object exchange, while a more extreme form of demotion expresses an emptied-holonym object exchange. 
 
 Typically, a ~~filled holonym~~ diathesis is expressed by a minor demotion ('net one step down'), as illustrated with *schmieren/beschmieren* above in [@last]. Note that in that example, the holonym *Wunde* is not literally 'filled with' the meronym *Salbe*. However, with many other examples, like *pflanzen/bepflanzen* 'to plant' below [@next], the holonym *Garten* 'garden' is literally filled with the meronym *Tulpen* 'tulips'. In accordance with this being a minor overall demotion ('net one step down'), the new accusative object after the object exchange is a filled holonym. 
 
-Note that with *pflanzen/bepflanzen* [@next] the pre-diathesis location *in den Garten* is not obligatory [@next a,b], so the resulting diathesis is symmetric ~~[ADJ › OBJ › ADJ]~~. This is the kind of minor syntactic variation that is indicated in [@fig:objectchains] with the unnamed boxes in the centre of the highlighted object-exchange domain. Still, this diathesis is clearly an example of a filled-holonym object exchange because the change in prepositions from *in* (with unmarked *pflanzen*) to *mit* (with marked *bepflanzen*) fits in perfectly with other filled-holonym examples (cf. [@sec:preverb-applicative-antipassive]).
+Note that with *pflanzen/bepflanzen* [@next] the pre-diathesis location phrase *in den Garten* is not obligatory [@next a,b], so the resulting diathesis is symmetric ~~[ADJ › OBJ › ADJ]~~. This is the kind of minor syntactic variation that is indicated in [@fig:objectchains] with the unnamed boxes in the centre of the highlighted object-exchange domain. Still, this diathesis is clearly an example of a fil­led-holo­nym object exchange because the change in prepositions from *in* (with unmarked *pflanzen*) to *mit* (with marked *bepflanzen*) fits in perfectly with other fil­led-holo­nym examples (cf. [@sec:preverb-applicative-antipassive]).
 
 ::: ex
 ~~Symmetric object exchange (filled holonym) [ADJ › OBJ › ADJ]~~
@@ -1121,7 +1133,7 @@ Note that with *pflanzen/bepflanzen* [@next] the pre-diathesis location *in den 
 - Ich bepflanze den Garten.
 :::
 
-The second kind of demoted object exchange is the ~~emptied holonym~~ diathesis, expressed with a more extreme demotion ('net two steps down'). This is illustrated in [@next] with the diathesis between the verb *klopfen* 'to pound' and *ausklopfen* 'to beat out' (cf. [@sec:preverb-location-antiresultative]). The unmarked verb *klopfen* [@next a] takes an accusative object role that expresses the result of the pounding (*Staub* 'dust'). The pounded object role (*Mantel* 'coat') is expressed as an obligatory location phrase [@next b]. Crucially, the accusative object role in this construction is a component part (meronym) of the locational object role (holonym). The diathesis from *klopfen* to *ausklopfen* [@next c] completely drops the meronym *Staub* from the sentence ~~[OBJ › Ø]~~ and promotes the holonym *Mantel* to accusative ~~[PBJ › OBJ]~~. The meronymic role *Staub* cannot be expressed anymore after the diathesis [@next d]. In accordance with this large overall demotion ('net two steps down'), the new holonymic accusative object *Mantel* is semantically 'emptied' from its old meronymic accusative object *Staub* by the action *klopfen*. So the new accusative object after this object exchange is an emptied holonym. 
+The second kind of demoted object exchange is the ~~emptied holonym~~ diathesis, expressed with a more extreme demotion ('net two steps down'). This is illustrated in [@next] with the diathesis between the verb *klopfen* 'to pound' and *ausklopfen* 'to beat out' (cf. [@sec:preverb-location-antiresultative]). The unmarked verb *klopfen* [@next a] takes an accusative object role that expresses the result of the pounding (*Staub* 'dust'). The pounded object role (*Mantel* 'coat') is expressed as an obligatory location phrase [@next b]. Crucially, the accusative object role in this construction is a component part (meronym) of the locational object role (holonym). The diathesis from *klopfen* to *ausklopfen* [@next c] completely drops the meronym *Staub* from the sentence ~~[OBJ › Ø]~~ and promotes the holonym *Mantel* to accusative ~~[PBJ › OBJ]~~. The meronymic role *Staub* cannot be expressed anymore at all after the diathesis [@next d]. In accordance with this large overall demotion ('net two steps down'), the new holonymic accusative object *Mantel* is semantically 'emptied' from its old meronymic accusative object *Staub* by the action *klopfen*. So the new accusative object after this object exchange is an emptied holonym. 
 
 ::: ex
 ~~Demoted object exchange (emptied holonym) [PBJ › OBJ › Ø]~~
@@ -1157,7 +1169,7 @@ c. Ich habe den Balsam in die Muskeln einmassiert.
 d. Ich habe den Balsam einmassiert.
 :::
 
-The ~~parted meronym~~ object exchange occurs with more extreme promotions ('net two steps up'). For example, the verb *waschen* 'to wash' normally takes an accusative object role that is the washee, here *Hose* 'trousers' [@next a]. There is a covert diathesis that introduces a new object role that cannot be expressed earlier, here *Fleck* 'stain' [@next b]. this addition is an objective promotion ~~[Ø › OBJ]~~, i.e. 'three steps up'. At the same time, the original accusative is turned into a locational prepositional phrase and this location phrase cannot be left out [@next c]. This is an obligatory-location antipassive ~~[OBJ › PBJ]~~, i.e 'one step down'. This diathesis is thus an extreme promotion overall, i.e. 'net two steps up'. Accordingly, the new meronymic object *Fleck* is semantically a component part of the original holonymic object *Hose* and it is removed from it by the action *waschen*. In summary, the new object is a parted meronym.
+The ~~parted meronym~~ object exchange occurs with more extreme promotions ('net two steps up'). For example, the verb *waschen* 'to wash' normally takes an accusative object role that is the washee, here *Hose* 'trousers' [@next a]. There is a covert diathesis that introduces a new object role that cannot be expressed earlier, here *Fleck* 'stain' [@next b]. this addition is an objective promotion ~~[Ø › OBJ]~~, i.e. 'three steps up'. At the same time, the original accusative is turned into a locational prepositional phrase and this location phrase cannot be left out [@next c]. This is an oblig­a­tory-loc­ation antipassive ~~[OBJ › PBJ]~~, i.e 'one step down'. This diathesis is thus an extreme promotion overall, i.e. 'net two steps up'. Accordingly, the new meronymic object *Fleck* is semantically a component part of the original holonymic object *Hose* and it is removed from it by the action *waschen*. In summary, the new object is a parted meronym.
 
 ::: ex
 ~~Promoted object exchange (parted meronym) [Ø › OBJ › PBJ]~~
