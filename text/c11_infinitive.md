@@ -454,7 +454,7 @@ The construction *lassen+Infinitiv+Reflexiv* is attested in many different varia
 - Er lässt sich fallen.
 :::
 
-This construction is completely transparent [@next] as a stack of a *lassen* causative ([@sec:infinitive-lassen-causative]) and a self-inflicting reflexive ([@sec:reflexive-self-inflicting-accusative]). So, this epithesis is not an alternation in its own right and does thus not have deserve its own section in this book. However, I have added this section to document the very small and semantically interesting class of intransitive verbs that allow for this combination.
+This construction is completely transparent [@next] as a stack of a *lassen* causative ([@sec:infinitive-lassen-causative]) and a self-inflicting reflexive ([@sec:reflexive-self-inflicting-accusative]). So, this epithesis is not an alternation in its own right and thus does not deserve to have its own section in this book. Notwithstanding, I have added this section to document the very small and semantically interesting class of intransitive verbs that allow for this combination.
 
 ::: ex
 Er fällt. \
@@ -478,7 +478,7 @@ Er fällt. \
 
 #### Notes {.unnumbered}
 
-The verb *gehen* 'to walk' has become lexicalised in this construction as *sich gehen lassen* 'to lose one's control' [@next].
+The verb *gehen* 'to walk' has become lexicalised in this construction as *sich gehen lassen* meaning 'to lose one's control' [@next].
 
 ::: ex
 - Er geht nach Hause.

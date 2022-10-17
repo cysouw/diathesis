@@ -32,7 +32,7 @@ e. Der Ermittler löst den Fall. \
 
 A diathesis is defined here as special kind of alternation between two different clause constructions. To properly define diathesis, I will first define 'alternation' in general. The definition of 'clause alternation' will then be established on that basis. Finally, a diathesis will be defined as a special kind of clause alternation.
 
-Hidden in these succinct definitions there are various grammatical concepts that will be expanded upon in the subsequent sections. The more general aspect of clause alternation are discussed in this chapter, directly below the following definitions The details of the analysis and classification of the different kinds of diathesis is postponed to the next chapter.
+Hidden in these succinct definitions there are various grammatical concepts that will be expanded upon in the subsequent sections. The more general aspect of clause alternation are discussed in this chapter, directly below the following definitions. The details of the analysis and classification of the different kinds of diathesis is postponed to the next chapter.
 
 #### Alternation {.unnumbered}
 
