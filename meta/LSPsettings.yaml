@@ -23,7 +23,7 @@ setLabelAttribute: true
 # pandoc-ling settings
 
 addChapterNumber: true
-xrefSuffixSep: " "
+xrefSuffixSep: ""
 latexPackage: langsci-gb4e
 formatGloss: true
 

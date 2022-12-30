@@ -7,7 +7,7 @@ Browse any grammatical description of verbal categories in German and terms like
 ::: ex
 - Wer hatte dir die Adresse gegeben?
 - Dann wird man Ihnen die Adresse gegeben haben.
-- Sie pflegt Sonntags auszuschlafen.
+- Sie pflegt sonntags auszuschlafen.
 - Ich bin einkaufen.
 :::
 

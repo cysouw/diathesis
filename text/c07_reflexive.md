@@ -13,7 +13,7 @@ b. Er wäscht sich.
 
 From a typological perspective, there is arguably a difference in this respect between languages with a reflexive pronoun strategy, like German, and languages that use a verbal derivation technique for marking self-inflicting reflexive reference [cf. @dixon2014: 172ff.]. For such languages with a derivational strategy, the verb is being marked as 'self-inflicting' and one role is completely dropped. In such languages, it is probably better to analyse self-inflicting reflexive reference as a kind of diathesis.
 
-In German, the reflexive pronoun is also used in many other constructions, and most of those show some kind of diathesis, for example an anticausative *sich* in [@next a], see [@sec:reflexive-anticausative] or an antipassive *sich* in [@next b], see [@sec:reflexive-accusative-antipassive]. In these examples, the reflexive pronoun *sich* is not filling any role, but it is marking the valency alternation itself. There is a long tradition to call such constructions ~~middle~~ or ~~medium~~. However, there turn out to be very many different kinds of 'middle' alternations, so I prefer to be more precise in separating and naming them here in this chapter [see also @kunze1997]. To prevent confusion, I will simply not use the term 'middle' at all.
+In German, the reflexive pronoun is also used in many other constructions, and most of those show some kind of diathesis, for example an anticausative *sich* in [@next a], see [@sec:reflexive-anticausative] or an antipassive *sich* in [@next b], see [@sec:reflexive-accusative-antipassive]. In these examples, the reflexive pronoun *sich* is not filling any role, but it is marking the valency alternation itself. There is a long tradition to call such constructions ~~middle/medium~~ or *Medialkonstruktion* in German. However, there turns out to be very many different kinds of 'middle' alternations, so I prefer to be more precise in separating and naming them here in this chapter [see also @kunze1997]. To prevent confusion, I will simply not use the term 'middle' at all.
 
 ::: ex
 a. Ich schließe den Schrank. \
@@ -37,7 +37,7 @@ a. Der Hund ist nach Hause gelaufen. \
 b. Ich verkaufe das Buch. \
    Das Buch verkauft sich gut.
 c. Ich schließe den Schrank. \
-   Der Schrank lässt sich schließen.
+   Der Schrank schließt sich leicht.
 d. Er schlug seine Mitbewerber. \
    Seine Mitbewerber geben sich geschlagen.
 :::
@@ -106,12 +106,12 @@ There are a few verbs that seem to allow for coreference with a non-nominative a
 
 ::: ex
 a. Ich habe ihn über den Zustand aufgeklärt.
-b. ^^?^ Ich habe ihn über sich aufgeklärt.
+b. ^^?^ Ich habe ihn über sich (selbst) aufgeklärt.
 :::
 
 ::: ex
 a. Sie zeigt sich ihrem Freund.
-b. ^^?^ Sie zeigt ihrem Freund sich selbst.
+b. ^^?^ Sie zeigt ihrem Freund sich (selbst).
 :::
 
 ### Coreference without reflexive pronoun
@@ -136,13 +136,13 @@ As already seen in the previous example [@last], three coreferents are also poss
 
 ::: ex
 a. Morgen putze ich mir meine Schuhe.
-b. Ich schreibe Gedichte, weil ich mich mir selbst erklären will.
+b. Ich schreibe Gedichte, weil ich mich mir (selbst) erklären will.
 c. Sie will sich sich selbst erklären.
 :::
 
 ## Deponent verbs without alternations {#sec:reflexive-deponent}
 
-A small group of verbs obligatorily needs a reflexive pronoun coreferencing the nominative subject. Very probably, such verbs originally also allowed constructions without this obligatory coreferencing *sich* pronoun, but for some reason that usage without *sich* got out-of-use. In various cases this ongoing development can be observed in current German. For example, coreferent usage with *bemühen* 'to bother' [@next a] or *beziehen* 'to relate to' [@nnext a] appear to be more frequent compared to their non-coreferencing usage in [@next b,c] and [@nnext b], respectively.
+A small group of verbs obligatorily needs a reflexive pronoun coreferencing the nominative subject. My best guess is that such verbs originally also allowed constructions without this obligatory coreferencing *sich* pronoun, but for some reason that usage without *sich* got out-of-use. In various cases this ongoing development can be observed in current German. For example, coreferent usage with *bemühen* 'to bother' [@next a] or *beziehen* 'to relate to' [@nnext a] appear to be more frequent compared to their non-coreferencing usage in [@next b,c] and [@nnext b], respectively.
 
 ::: ex
 a. Ich bemühe mich.
@@ -186,7 +186,7 @@ Various verbs describing behaviour, like *verirren* 'to get lost' [@next a], nee
 
 - Behaviour: *abmühen, abrackern, abstrampeln, aufführen, aufrappeln, beeilen, benehmen, betrinken, besaufen, bücken, daranmachen, davonstehlen, durchlavieren, durchmogeln, durchwursteln, echauffieren, einigeln, erhängen, ermannen, fortbilden, gedulden, herausreden, hervortun, hinauswagen, sputen*
 - (Erratic) behaviour with *ver-*: *verfahren, verhalten, verhaspeln, verirren, verkalkulieren, verlaufen, verplappern, verschreiben (falsch schreiben), verspäten, verspekulieren, versprechen (falsch sprechen), verrennen, vertun, verwählen, verzählen*
-- Body process: *akklimatisieren, erkälten, räuspern, verkühlen, übergeben, wohlfühlen*
+- Bodily process: *akklimatisieren, erkälten, räuspern, verkühlen, übergeben, wohlfühlen*
 - Natural process: *abregnen, anfinden, bauchen, behaaren, bewahrheiten, bewölken, eintrüben, entspinnen, ereignen, herauskristallisieren, jähren, rentieren, verästeln, verfärben, verpuppen, verzweigen, zutragen*
 
 #### Further examples {.unnumbered}
@@ -194,9 +194,9 @@ Various verbs describing behaviour, like *verirren* 'to get lost' [@next a], nee
 - Die Autofahrer, die im Stau stehen, müssen sich gedulden.
 - Die S-Bahn hat sich wieder einmal verspätet.
 - Die Wolken haben sich abgeregnet.
-- Die Segel bauchen sich im Winde.
+- Die Segel bauchen sich im Winde.^[~~DWDS~~ dictionary, attested online at <https://www.dwds.de/wb/bauchen>, accessed 25 December 2022.]
 - Auf der A8 hat sich ein Unfall ereignet.
-- Die neugeborenen Katzen behaaren sich allmählich.^[~~DWDS~~ dictionary, attested online at https://www.dwds.de/wb/behaaren, accessed 27 Juli 2022.]
+- Die neugeborenen Katzen behaaren sich allmählich.^[~~DWDS~~ dictionary, attested online at <https://www.dwds.de/wb/behaaren>, accessed 27 July 2022.]
 
 ### [ NP ] Obligatory accusative reflexive+governed preposition {#sec:reflexive-obligatory-reflexive-preposition}
 
@@ -209,19 +209,19 @@ b. Ich entschließe mich dazu, eine Reise zu machen.
 
 #### Attested verbs {.unnumbered}
 
-- *an*    : *anpirschen, anschmiegen, beteiligen, festbeißen, halten*
-- *auf*   : *beziehen, freuen, konzentrieren, verlassen*
-- *durch* : *äussern*
-- *für*   : *aussprechen, bedanken, eignen, entschuldigen, revanchieren, schämen*
-- *gegen* : *sträuben, verschwören*
-- *in*    : *einfühlen, einhören, einkuscheln, einleben, einlesen, fügen, hineindenken, hineinversetzen, schicken (fügen), vergucken, verlieben, versuchen*
-- *mit*   : *abfinden, abgeben, abmühen, abquälen, auskennen, beeilen, befassen, begnügen, behelfen, beschäftigen, schwertun, zufriedengeben*
-- *nach*  : *erkundigen, sehnen, umsehen* 
-- *über*  : *beschweren, einig sein, erkundigen, ereifern, kaputtlachen, mokieren*
-- *um*    : *balgen, bemühen, bewerben, mühen*
-- *von*   : *drücken, erholen, lossagen*
-- *vor*   : *schämen, verbeugen, verneigen*
-- *zu*    : *bequemen, eignen, entscheiden, entschließen, gesellen, versteigen*
+- an    : *anpirschen, anschmiegen, beteiligen, festbeißen, halten*
+- auf   : *beziehen, freuen, konzentrieren, verlassen*
+- durch : *äussern*
+- für   : *aussprechen, bedanken, eignen, entschuldigen, revanchieren, schämen*
+- gegen : *sträuben, verschwören*
+- in    : *einfühlen, einhören, einkuscheln, einleben, einlesen, fügen, hineindenken, hineinversetzen, schicken (fügen), vergucken, verlieben, versuchen*
+- mit   : *abfinden, abgeben, abmühen, abquälen, auskennen, beeilen, befassen, begnügen, behelfen, beschäftigen, schwertun, zufriedengeben*
+- nach  : *erkundigen, sehnen, umsehen* 
+- über  : *beschweren, einig sein, erkundigen, ereifern, kaputtlachen, mokieren*
+- um    : *balgen, bemühen, bewerben, mühen*
+- von   : *drücken, erholen, lossagen*
+- vor   : *schämen, verbeugen, verneigen*
+- zu    : *bequemen, eignen, entscheiden, entschließen, gesellen, versteigen*
 
 #### Further examples {.unnumbered}
 
@@ -268,7 +268,7 @@ d. Ich drücke mich vor der Gefahr.
 
 The verb *sich schicken* 'to acquiesce' is an old-fashioned meaning of *schicken* 'to send'. Another usage of the same verb stem typically occurs with *es* and negative polarity, *es schickt sich nicht* meaning 'to be not suitable*.
 
-### [ Np ] Obligatory accusative reflexive+*mit* (*Reciproca tantum*) {#sec:reflexive-real-reciprocals}
+### [ Np ] Obligatory accusative reflexive+*mit* (*reciproca tantum*) {#sec:reflexive-real-reciprocals}
 
 A special group of verbs in this class are verbs with an reciprocal *mit* preposition, like with *einigen* 'to reach an agreement' in [@next]. On first notice, the *mit* phrase might look like a comitative argument as used with *betrinken* 'to get drunk' in [@nnext]. However, as shown by the grammaticality judgements in those two examples, the *mit* phrases with both verbs have different characteristics.
 
@@ -404,7 +404,7 @@ A dative *sich* with an obligatory accusative appear to be reasonably frequent. 
 #### Further examples {.unnumbered}
 
 - Ich denke mir das Ergebnis aus.
-- Er langte sich ein Glas.^[~~DWDS~~ attested at https://www.dwds.de/wb/langen, accessed 28 July 2022.]
+- Er langte sich ein Glas.^[~~DWDS~~ attested at <https://www.dwds.de/wb/langen>, accessed 28 July 2022.]
 - Ich muss mir jede Zeile abquälen.
 
 #### Notes {.unnumbered}
@@ -556,7 +556,7 @@ There are three different kinds of alternations involving reflexive pronouns tha
 
 ### --- Free reflexive pronouns --- {.unnumbered}
 
-Some verbs allow for both a construction with and without *sich*, but there is no difference in the valency between these two constructions. The difference in meaning between the two alternants is small and is in need for more in-depth study in all cases presented below. Note also that for these verbs a 'free' dative reflexive pronoun only occurs when a full accusative argument is present. 
+Some verbs allow for both a construction with and without *sich*, but there is no difference in the valency between these two constructions. The difference in meaning between the two alternants is small and is in need for more in-depth study in all cases presented below. The name 'free' as used here is probably a misnomer, as the choice is not a completely free choice. However, the difference is small enough to be extremely difficult to determine. Note also that for these verbs a 'free' dative reflexive pronoun only occurs when a full accusative argument is present. 
 
 This alternation is almost completely ignored in the German grammatical literature. An early discussion of the phenomenon is found in Stötzel [-@stotzel1970: 174--177] and a short note is presented in Wiemer & Nedjalkov [-@wiemer2007: 498]. It is also possible that the occurrence of a 'free' reflexive is a dialectal phenomenon, see e.g. the apparent extension of reflexive usage in Austrian German as observed in Ziegler [-@ziegler2010].  
 
@@ -682,8 +682,8 @@ d. Er sorgt sich darum, dass es seiner Mutter gut geht.
 The verb *zuneigen* 'to tend towards' [@next] is the only known example of a free reflexive with an additional dative argument.
 
 ::: ex
-- Ich neige dieser Ansicht seit Langem zu.
-- Später hat er sich dem Sozialismus zugeneigt.^[Attested online at https://www.dwds.de/wb/zuneigen, accessed 2 August 2022.]
+- Ich neige dieser Ansicht seit langem zu.
+- Später hat er sich dem Sozialismus zugeneigt.^[Attested online at <https://www.dwds.de/wb/zuneigen>, accessed 2 August 2022.]
 :::
 
 #### Attested verbs {.unnumbered}
@@ -748,8 +748,8 @@ Da dachte er eine List aus.^[~~DWDS~~: Grimm *Simeliberg*.]
 The verb *ersparen* 'to save money' has a free reflexive [@next a,b]. The same verb can also mean 'to spare somebody something'. In that meaning it takes dative and accusative arguments [@next c].
 
 ::: ex
-a. Er hat viel von seinem Verdienst erspart.^[Attested online at https://www.dwds.de/wb/ersparen, accessed 29 July 2022.]
-b. Ich habe mir etwas erspart.^[Attested online at https://www.dwds.de/wb/ersparen, accessed 29 July 2022.]
+a. Er hat viel von seinem Verdienst erspart.^[Attested online at <https://www.dwds.de/wb/ersparen>, accessed 29 July 2022.]
+b. Ich habe mir etwas erspart.^[Attested online at <https://www.dwds.de/wb/ersparen>, accessed 29 July 2022.]
 c. Er hat mir jede Menge Arbeit erspart.
 :::
 
@@ -853,7 +853,7 @@ c. Er spricht von sich.
 
 #### Attested verbs {.unnumbered}
 
-- *kämpfen, sprechen, etc.*
+- *kämpfen, sprechen*, etc.
 
 ### [ NAD | NAd ] Self-inflicting dative reflexive+accusative {#sec:reflexive-dative-accusative}
 
@@ -1124,7 +1124,7 @@ c. Wir vertrauen uns (gegenseitig).
 #### Attested verbs {.unnumbered}
 
 - *ähneln, antworten, beistehen, begegnen, danken, entgegen kommen, entgehen, entsprechen, folgen, gefallen, gegenüber treten, gleichen, gratulieren, helfen, imponieren, missfallen, nacheifern, schaden, vertrauen* 
-- with preverb *zu*: *zuarbeiten, zuhören, zulachen, zulächeln, zunicken, zuprosten, zusehen, zuschauen, zustimmen, zutrinken, zuwinken, zuzwinkern*
+- Preverb *zu*: *zuarbeiten, zuhören, zulachen, zulächeln, zunicken, zuprosten, zusehen, zuschauen, zustimmen, zutrinken, zuwinken, zuzwinkern*
 
 #### Further examples {.unnumbered}
 
@@ -1469,7 +1469,7 @@ Note that the *werden* passive is not possible for some of these verbs [@next a]
 
 ::: ex
 a. ^* Der Kunde wird empört durch den Preis.
-b. Über die Zerstörung der Schöpfung […] wird sich empört.^[~~DWDS~~: Berliner Zeitung, 24.11.2003]
+b. Über die Zerstörung der Schöpfung […] wird sich empört.^[~~DWDS~~: Berliner Zeitung, 24.11.2003.]
 :::
 
 For the verbs with a *durch* alternation, like *lösen* 'to release' [@next], there exist an interesting opposition between the reflexive conversive [@next b] and the *werden* passive [@next c].
@@ -1629,7 +1629,7 @@ These accusative-to-nominative alternations are ongoing replacements of old-fash
 
 ### --- [ OBJ > Ø ] --- *Endoreflexiv* {.unnumbered}
 
-### [ NA | N-] Reflexive accusative drop {#sec:reflexive-accusative-drop}
+### [ NA | N–] Reflexive accusative drop {#sec:reflexive-accusative-drop}
 
 On first notice, examples like *sich äußern* 'to speak out' [@next a,b] look very much like a self-inflicted ('reflexive') alternation (see [@sec:reflexive-self-inflicting-accusative]). However, in this case the reflexive *sich* pronoun in [@next b] does not have the same role as the accusative argument in [@next a]. This can be shown syntactically by the impossibility of the coordination in [@next c].
 
@@ -1762,7 +1762,7 @@ The verb *befreunden* 'to become friends' [@next a] seems to habe become accepta
 
 ::: ex
 a. Ich befreunde mich mit ihm.
-b. Du befreundest ihn.^[Attested online at http://hundewelt.info/affenpinscher/, accessed 2 August 2022.]
+b. Du befreundest ihn.^[Attested online at <http://hundewelt.info/affenpinscher/>, accessed 2 August 2022.]
 :::
 
 ### --- [ OBJ > PBJ ] --- *Reflexiv Antipassiv* {.unnumbered}
@@ -2005,7 +2005,7 @@ b. Ich erbarmte mich des Kranken. \
 
 ### [ ND | GN ] Reflexive dative/genitive inversive {#sec:reflexive-genitive-passive-dative}
 
-There used to be a reflexive verb *bewissen* 'to know about' in Early New High German [@pfeiffer1993]^[Entry *wissen* at https://www.dwds.de/wb/etymwb/wissen accessed 2 August 2022]. but only the construction with the participle *bewusst* is still in contemporary use. The non-reflexive construction [@next a] is probably a later addition. As a synchronic diathesis this alternation is a rare example of a dative reflexive without accusative.
+There used to be a reflexive verb *bewissen* 'to know about' in Early New High German [@pfeiffer1993]^[Entry *wissen* at <https://www.dwds.de/wb/etymwb/wissen> accessed 2 August 2022.]. but only the construction with the participle *bewusst* is still in contemporary use. The non-reflexive construction [@next a] is probably a later addition. As a synchronic diathesis this alternation is a rare example of a dative reflexive without accusative.
 
 ::: ex
 a. Das Problem ist mir bewusst.
@@ -2031,7 +2031,7 @@ The verb *bedenken* 'to consider' takes an accusative [@next a]. There is an arc
 
 ::: ex
 - Man bedenke den Aufwand.^[~~DWDS~~: Der Tagesspiegel, 18.04.2001.] (= 'beachten')
-- Ich bedenke mich eines Besseren.^[Attested examples on Google books from 1800 (https://books.google.de/books?id=WZNKAAAAcAAJ&pg=PA393) and 1848 (https://books.google.de/books?id=RD8gAAAAYAAJ&pg=PA665), accessed on 3 August 2022.] (= 'besinnen') 
+- Ich bedenke mich eines Besseren.^[Attested examples on Google books from 1800 (https://books.google.de/books?id=WZNKAAAAcAAJ&pg=PA393) and 1848 (https://books.google.de/books?id=RD8gAAAAYAAJ&pg=PA665), accessed 3 August 2022.] (= 'besinnen') 
 :::
 
 #### Attested verbs {.unnumbered}

@@ -1,18 +1,20 @@
 # The structure of a diathesis {#sec:structure}
 
-## Terminology {#sec:intro-terminology}
+## Analytical dimensions {#sec:intro-terminology}
 
-In their cross-linguistic survey of diathesis, Zuñiga & Kittilä [-@zuniga2019] distinguish between the terms 'diathesis', 'diathetical operation', 'grammatical voice' and 'transitivity'. I completely subscribe to these conceptual distinctions. However, throughout this book I have decided to simplify the terminology and basically use the term 'diathesis' for all four concepts. Still, the concepts ~~valency~~ ([@sec:intro-valency]), ~~voice~~ ([@sec:intro-voice]), and ~~diathetical operation~~ ([@sec:intro-diathetical-operations]) are central in the analysis of the structure of a diathesis and will be discussed extensively in this chapter. Two new concepts are introduced as well, namely ~~stacking~~ ([@sec:intro-stacking]) and ~~chaining~~ ([@sec:intro-chaining]). Finally, I will present an extensive discussion about ~~naming~~ diatheses at the end of this chapter ([@sec:intro-naming]).
+The central concepts to analyse the structure of a diathesis are ~~valency~~ ([@sec:intro-valency]), ~~voice~~ ([@sec:intro-voice]) and ~~diathetical operation~~ ([@sec:intro-diathetical-operations]). These concepts will be discussed extensively in this chapter. Two new concepts are introduced as well, namely ~~stacking~~ ([@sec:intro-stacking]) and ~~chaining~~ ([@sec:intro-chaining]). Finally, I will present an extensive discussion about ~~naming~~ diatheses at the end of this chapter ([@sec:intro-naming]).
 
-A diathesis (as defined here) is an alternation between two clausal construction. To be more precise, this is what is called a 'diathetical operation' in Zuñiga & Kittilä [-@zuniga2019: 4]. Each of the alternants show a different mapping of (grammatical) expressions onto (semantic) roles. Individually, each such mapping between expressions and roles is called a 'diathesis' in Zuñiga & Kittilä [-@zuniga2019: 4]. However, because I will only consider diathetical operations between an unmarked basic clause and a marked alternant, I have decided to simplify the terminology in this book. Both the alternation itself (Zuñiga & Kittilä's 'diathetical operation', e.g. 'causativisation') and the derived alternant (Zuñiga & Kittilä's 'diathesis', e.g. 'causative') will be referred to here simply as a ~~diathesis~~, from Greek *διάθεσις* 'placement in order, (re)arrangement'.
+A diathesis (as defined in [@sec:intro-basic-definition]) is an alternation between two different clausal construction. Each of the alternants show a different mapping of (grammatical) expressions onto (semantic) roles. Such an alternation is what is called a 'diathetical operation' in Zuñiga & Kittilä [-@zuniga2019: 4], in contrast to the term 'diathesis' being used for each individual mapping between expressions and roles. However, because I will only consider diathetical operations between an unmarked basic clause and a marked alternant, I have decided to simplify the terminology in this book. Both the alternation itself (Zuñiga & Kittilä's 'diathetical operation', e.g. 'causativisation') and the derived alternant (Zuñiga & Kittilä's 'diathesis', e.g. 'causative') will be referred to here simply as a ~~diathesis~~, from Greek *διάθεσις* 'placement in order, (re)arrangement'.
 
-A side-effect of this approach is that 'active' is not a diathesis, but simply the unmarked counterpart of a diathetical operation. Even stronger, I will refrain from using the term 'active' because it immediately conjures up 'passive' as its antithesis. This opposition is too much of an oversimplification as 'passive' is just one of the hundreds of possible diatheses. Also, the 'active' does not necessarily describes an action, so content-wise this term is also ill-fitting. As an alternative, I will use the term ~~basic clause~~ as the unmarked base of comparison for all clause alternations. A basic clause is a clause with a single (finite) verb from, either in the German *Präsens* or *Präteritum* tense.^[Strictly speaking, a basic clause can also be a clause with a single finite verb in the *Konjunktiv I* or *Konjunktiv II*. However, because these are rather rare nowadays I have hidden this possibility in this footnote.] All other verb forms, including the *Perfekt* and the other traditional German tense-aspect distinctions, are all ~~derived clauses~~, i.e. the result of some kind of clause alternations. A diathesis is thus a kind of derived clause. Additionally, a derived clause without diathesis will be called ~~epithesis~~, from Greek *ἐπίθεσις* 'placement upon, imposition'. Epithesis is grammatical marking 'on top of' a basic clause.^[There appears to be a rarely used alternative meaning of the term 'epithesis' in linguistics to indicate the addition of a sound to the end of the word, i.e. a special kind of epenthesis, see for example <http://www.websters1913.com/words/Epithesis>.] A summary of all major epithetical constructions will be presented in Chapter [-@sec:epithesis].
+A side-effect of this approach is that 'active' is not a diathesis, but simply the unmarked counterpart of a diathetical operation. Even stronger, I will refrain from using the term 'active' because it immediately conjures up 'passive' as its antithesis. This opposition is too much of an oversimplification as 'passive' is just one of the hundreds of possible diatheses. Also, the 'active' does not necessarily describe an action, so content-wise this term is also ill-fitting.
 
-The actual linguistic marking of a diathesis (for example using verbal morphology or auxiliaries) is called 'grammatical voice' in Zuñiga & Kittilä [-@zuniga2019: 4]. This usage of the term 'voice' is rather unconventional, but I wholeheartedly subscribe to their proposal. The crux of this approach is that a 'voice' is the language-specific linguistic expression used to mark the diathesis. For example, a diathesis in German can be 'voiced' by a reflexive pronoun (Chapter [-@sec:reflexive]) or by a light verb with a *zu‑In­fi­ni­tiv* (Chapter [-@sec:zuinfinitive]), and so on. The different kinds of grammatical voice in German are used here as the central organisational characteristic for the separation of the data chapters. An overview of the different German voices is given in [@sec:intro-voice].
+{#par:basicclause} As an alternative to 'active', I will use the term ~~basic clause~~ as the unmarked base of comparison for all clause alternations. A basic clause is a clause with a single finite verb from, either in the German *Präsens* or *Präteritum* tense.^[Strictly speaking, a basic clause can also be a clause with a single finite verb in the *Konjunktiv I* or *Konjunktiv II*. However, because these are rather rare nowadays I have hidden this possibility in this footnote.] All other verb forms, including the *Perfekt* and the other traditional German tense-aspect distinctions, are all ~~derived clauses~~, i.e. the result of some kind of clause alternations. A diathesis is a special instance of a derived clause that also exhibits a diathetical operation. In constrast to a diathesis, a derived clause without any diathetical operation will be called ~~epithesis~~, from Greek *ἐπίθεσις* 'placement upon, imposition'. Epithesis is grammatical marking 'on top of' a basic clause.^[There appears to be a rarely used alternative meaning of the term 'epithesis' in linguistics to indicate the addition of a sound to the end of the word, i.e. a special kind of epenthesis, see for example <http://www.websters1913.com/words/Epithesis>, accessed 23 December 2022.] A summary of all major epithetical constructions will be presented in Chapter [-@sec:epithesis].
 
-Zuñiga and Kittilä [-@zuniga2019: 3] use the term 'transitivity' [following @hopper1980] somewhat confusingly to describe the (recurrent) connection between a diathetical operation and semantic effects on the meaning of the clause. For example, when an accusative argument is remapped onto a prepositional phrase, this often implies less involvement of the participant. The details of such semantic effects for each of the hundreds of diatheses in this book is an important and fascinating topic, for which I can currently offer only limited insights throughout. In practice, I assume that each diathesis as described here has some kind of semantic/pragmatic effect. However, the concise specification of these effects needs much more detailed research, which has to be provided by subsequent work. Wherever I can, I will observe tendencies and propose hypotheses for such future research.
+The actual linguistic marking of a diathesis (for example using verbal morphology or auxiliaries) is called ~~grammatical voice~~. The crux of this term is that a 'voice' is the language-specific linguistic expression used to mark the diathesis. For example, a diathesis in German can be 'voiced' by a reflexive pronoun (Chapter [-@sec:reflexive]) or by a light verb with a *zu‑In­fi­ni­tiv* (Chapter [-@sec:zuinfinitive]), and so on. The different kinds of grammatical voice in German are used here as the central organisational characteristic for the separation of the data chapters. An overview of the different German voices is given in [@sec:intro-voice].
 
-Lastly, I prefer to use the term 'diathesis' over the frequently attested term 'valency alternation' because there are many diatheses in which the valency does not change between the alternants. For example, in [@next] both sentences have the same (surface) valency, having a nominative, an accusative and a prepositional phrase. Yet, there clearly is a role-remapping between both sentences. Strictly speaking, valency alternations (in this arguably rather superficial interpretation of the term) are then just a subset of all possible diatheses.
+A major objective of research into diathesis is to describe the connection between a diathetical operation and its semantic effects on the meaning of the clause.^[Somewhat confusingly, Zuñiga and Kittilä [-@zuniga2019: 3] use the term 'transitivity' [following @hopper1980] for such semantic effects. However, the effects of diathetical operations seem to far surpass differences in transitivity.] For example, when an accusative argument is remapped onto a prepositional phrase ('antipassive') this often implies less involvement of the participant. The details of such semantic effects for each of the hundreds of diatheses in this book is an important and fascinating topic, for which I can currently offer only limited insights throughout. In practice, I assume that each diathesis as described here has some kind of semantic/pragmatic effect. However, the concise specification of these effects needs much more detailed research, which has to be provided by subsequent work. Wherever I can, I will observe tendencies and propose hypotheses for such future research.
+
+Lastly, I prefer to use the term 'diathesis' over the frequently attested term 'valency alternation', although in practice both terms can mostly be used interchangeably. There is only a difference when using a highly simplistic interpretation of the term 'valency', namely as indicating the ~~number~~ of arguments of a verb. There are many diatheses in which the number of arguments does not change between the alternants. For example, in [@next] both sentences have the same (surface) valency, having three arguments: a nominative case, an accusative case and a prepositional phrase. Yet, there clearly is a role-remapping between both sentences. Strictly speaking, 'number-of-arguments' valency alternations are then just a subset of all possible diatheses.
 
 ::: ex
 a. Ich schmiere Salbe auf die Wunde.
@@ -23,7 +25,7 @@ b. Ich beschmiere die Wunde mit Salbe.
 
 ### Utterance valency and lexical roles
 
-Valency is traditionally interpreted as a fixed constructional characteristic of a lexical verb, e.g. the verb *geben* 'to give' is said to be ditransitive. A central thesis of this book is that this conception of valency is misguided. Individual verbs can (and normally will) be used in many different constructions with different valency (i.e. most verbs show some kind of diathesis). Consider for example the verb *wehen* 'to blow'. Such weather verbs are often considered to have zero valency, which in German is characterised by an obligatory non-phoric *es* pronoun [@next a]. However, the same verb can just as well be used as an intransitive [@next b,c], as a transitive with an accusative object [@next d], or even as a ditransitive with a dative and accusative object [@next e]. Note that the prepositional phrases in [@next c,d,e] cannot be left out and their obligatory presence might be used to argue for argument-status of these prepositional phrases. The example in [@next e] then will be an example of the verb *wehen* with a valency of four.
+Valency is traditionally interpreted as a fixed constructional characteristic of a lexical verb, e.g. the verb *geben* 'to give' is said to be ditransitive. A central thesis of this book is that this conception of valency is too limited. Individual verbs can (and normally will) be used in many different constructions with different valency (i.e. most verbs show some kind of diathesis). Consider for example the verb *wehen* 'to blow'. Such weather verbs are often considered to have zero valency, which in German is characterised by an obligatory non-phoric *es* pronoun [@next a]. However, the same verb can just as well be used as an intransitive [@next b,c], as a transitive with an accusative object [@next d], or even as a ditransitive with a dative and accusative object [@next e]. Note that the prepositional phrases in [@next c,d,e] cannot be left out and their obligatory presence might be used to argue for argument-status of these prepositional phrases. The example in [@next e] then will be an example of the verb *wehen* with a valency of four.
 
 ::: ex
 a. Heute weht es.
@@ -33,7 +35,7 @@ d. Der Sturm weht den Schnee von den Dächern.
 e. Der Fahrtwind weht mir die Mütze vom Kopf.
 :::
 
-There is a recurrent tendency in the literature to try and reduce such variation to a single valency per verb (viz. its 'real' or 'underlying' valency), and various strategies are employed to arrive at such a prototypical valency [see e.g. @welke2011: Ch. 9 for a survey]. That will not be the approach taken here. Instead, valency is proposed to be a characteristic of a specific utterance, not of a specific verb. So, the examples in [@last] can simple be assigned an ~~utterance valency~~ from zero [@last a] to four [@last e] even though they all use the same lexeme *wehen* as their main verb. 
+There is a recurrent tendency in the literature to try and reduce such variation to a single valency per verb (viz. its 'real' or 'underlying' valency), and various strategies are employed to arrive at such a prototypical valency [see e.g. @welke2011: Ch. 9 for a survey]. That will not be the approach taken here. Instead, valency is proposed to be a characteristic of a specific utterance, not of a specific verb. So, the examples in [@last] can simply be assigned an ~~utterance valency~~ from zero [@last a] to four [@last e] even though they all use the same lexeme *wehen* as their main verb. 
 
 As a replacement of the traditional lexeme-specific notion of valency (e.g. *geben* is ditransitive), I propose to use the notion of lexeme-specific ~~lexical roles~~ (e.g. *geben* has lexical roles 'giver', 'givee', 'given object', etc.). Lexical roles are participants that are treated as an argument of utterance valency in at least one of the possible diatheses of a verb (see the next section for the complete definition of such arguments). The existence of such lexical roles is solely determined by the verb and does not change with different sentence constructions around the verb. Looking back at the example in [@last e], the following lexical roles of the German verb *wehen* 'to blow' can be established:
 
@@ -42,7 +44,7 @@ ii. ~~blowee~~: Object affected by the blowing air, *Mütze* 'cap'.
 iii. ~~blowing location~~: Location affected by the blowing air, *Kopf* 'head'.
 iv. ~~blowing location possessor~~: Possessor of the locational object, in [@last e] the dative *mir* 'my'. This role is necessarily the possessor of the location *Kopf* 'head' affected by the blowing.
 
-Additionally, it is of course possible to define a notion of ~~lexeme valency~~, but this has to be a much more complex construct. For example, lexeme valency can be defined as the collection of all attested utterance valencies for a specific lexeme. To be precise, this lexeme valency also has to include an indexation of the lexical roles across all arguments. This addition is important to distinguish between, for example, the lexical valency of *kochen* 'to cook' [@next] and *essen* 'to eat' [@nnext]. Both can occur with a transitive and intransitive utterance valency, but the lexical roles that can be used in the intransitive differ. Specifically, the patient-role 'eaten object' of *essen* cannot be used as nominative subject in the intransitive [@nnext c], which is different from *kochen* [@next c]. In effect, these verbs have a different lexeme valency.
+Additionally, it is of course possible to define a notion of ~~lexeme valency~~. A straigtforward approach would be to take the utterance valency of a basic clause (cf. [@par:basicclause]) as the definition of lexeme valency. However, in general lexeme valency has to be a much more complex construct. For example, lexeme valency can be defined as the collection of all attested utterance valencies for a specific lexeme. To be precise, this lexeme valency also has to include an indexation of the lexical roles across all arguments. This addition is important to distinguish between, for example, the lexical valency of *kochen* 'to cook' [@next] and *essen* 'to eat' [@nnext]. Both can occur with a transitive and intransitive utterance valency, but the lexical roles that can be used in the intransitive differ. Specifically, the patient-role 'eaten object' of *essen* cannot be used as nominative subject in the intransitive [@nnext c], which is different from *kochen* [@next c]. In effect, these verbs have a different lexeme valency.
 
 ::: ex
 a. Der Chef kocht den Fond.
@@ -58,7 +60,7 @@ c. ^* Der Fond isst immer noch.
 
 ### Arguments of utterance valency {#sec:intro-arguments-utterance-valency}
 
-The lexical roles of a specific verb are defined as those participants that are treated as an argument in at least one of the possible utterance valencies of this verb. So, to identify lexical roles, a strict definition of the arguments of utterance valency is needed. The following four kinds of arguments can be identified. First, all case marked noun phrase constituents are arguments, with a few exceptions that will be discussed in [@sec:case-delimiting-arguments]. Basically, case-marked arguments [@next a] can be questioned by the question pronouns *wer* or *was*, including their case forms *wem*, *wen* and *wessen* [@next b,c]. Further, case-marked arguments can be pronominalized by personal pronouns [@next d] or the indefinite pronouns *(irgend)jemand* or *(irgend)etwas* [@next e].
+The lexical roles of a specific verb are defined as those participants that are treated as argument in at least one of the possible utterance valencies of this verb. So, to identify lexical roles, a strict definition of the arguments of utterance valency is needed. The following four kinds of arguments can be identified. First, all case marked noun phrase constituents are arguments, with a few exceptions that will be discussed in [@sec:case-delimiting-arguments]. Basically, case-marked arguments [@next a] can be questioned by the question pronouns *wer* or *was*, including their case forms *wem*, *wen* and *wessen* [@next b,c]. Further, case-marked arguments can be pronominalized by personal pronouns [@next d] or the indefinite pronouns *(irgend)jemand* or *(irgend)etwas* [@next e].
 
 ::: ex
 a. Der Löwe sieht einen Vogel.
@@ -82,7 +84,7 @@ a. Der Stuhl befindet sich im Wohnzimmer
 b. ^* Der Stuhl befindet sich.
 :::
 
-More widespread are diatheses that introduce an obligatory local role, like with *brechen* 'to break' [@next c,d], see [@sec:prepositions-partitive-free]. The example in [@next c] crucially shows that arguments should be determined as part of the clause structure, not the lexeme structure. It is perfectly possible to use the verb *brechen* without a prepositional phrase [@next e], but only with a different lexical role in the accusative, viz. *Felsen* takes the role 'broken object', while *Loch* has the role 'location where the breaking took place'.
+More widespread are diatheses that introduce an obligatory local role, like with *brechen* 'to break' [@next], see [@sec:prepositions-partitive-free]. This example crucially shows that arguments should be determined as part of the clause structure, not the lexeme structure. It is perfectly possible to use the verb *brechen* without a prepositional phrase [@next c], but only with a different lexical role in the accusative, viz. *Felsen* takes the role 'broken object', while *Loch* has the role 'location where the breaking took place'.
 
 ::: ex
 a. Ich breche ein Loch in den Felsen.
@@ -144,18 +146,18 @@ a. Heute ist mir kalt.
 b. Dem Arzt graut vor Blut.
 :::
 
-However, there are a few impersonal diatheses that completely remove the subject, but that have no valency-simulating *es*. Specifically, the following diatheses result in sentences that do not have any nominative subject.
+However, there are a few impersonal diatheses that completely remove the subject but still have no valency-simulating *es*. Specifically, the following diatheses result in sentences that do not have any nominative subject.
 
-- [@next c] impersonal *werden+Partizip*, see [@sec:participles-werden-impersonal-passive]
-- [@next d] impersonal *lassen+Infinitiv+Reflexiv*, see [@sec:infinitive-lassen-reflexive-intransitive]
-- [@next e] impersonal *sein+In­fi­ni­tiv*, see [@sec:infinitive-sein-adverbial]
-- [@next f] impersonal *sein+zu‑In­fi­ni­tiv*, see [@sec:zuinfinitive-sein-impersonal]
+- [@next a] impersonal *werden+Partizip*, see [@sec:participles-werden-impersonal-passive]
+- [@next b] impersonal *lassen+Infinitiv+Reflexiv*, see [@sec:infinitive-lassen-reflexive-intransitive]
+- [@next c] impersonal *sein+In­fi­ni­tiv*, see [@sec:infinitive-sein-adverbial]
+- [@next d] impersonal *sein+zu‑In­fi­ni­tiv*, see [@sec:zuinfinitive-sein-impersonal]
 
 ::: ex
-c. Im Bett wird geschlafen.
-d. An der Ernsthaftigkeit der Aussage lässt sich zweifeln.
-e. Mit einem neutralen Deutschland ist schwer leben.
-f. Mit ihm ist nicht zu spaßen.
+a. Im Bett wird geschlafen.
+b. An der Ernsthaftigkeit der Aussage lässt sich zweifeln.
+c. Mit einem neutralen Deutschland ist schwer leben.
+d. Mit ihm ist nicht zu spaßen.
 :::
 
 There are also a few rare cases in which there is a valency-simulating *es* in what appears to be an accusative case [@next], see Sections [-@sec:prepositions-nominative-es-preposition] and [-@sec:adverbial-accusative-es], respectively. These constructions need a more in-depth investigation.
@@ -187,9 +189,9 @@ Adjuncts are, by definition, optionally present, so there is a natural connectio
 The formal linguistic marking of a diathesis, for example by verbal morphology or auxiliaries, is called ~~grammatical voice~~ [following @zuniga2019: 4]. The different kinds of grammatical voice in German establish the basic organisational framework of this book. Each of the data chapters discusses a specific kind of grammatical voice, listing all diatheses using that 'voicing'. The nine data chapters can be grouped into four kinds of grammatical voices:
 
 - zero-marked 'covert' diatheses (Chapters [-@sec:case; -@sec:prepositions])
-- diatheses expressed with reflexive pronouns (Chapter [-@sec:reflexive])
-- diatheses expressed with preverbs, preverbials or adverbials (Chapters [-@sec:preverbs; -@sec:adverbial])
-- diatheses expressed with light-verb constructions (Chapters [-@sec:participle; -@sec:infinitive; -@sec:zuinfinitive; -@sec:zuminfinitive])
+- diatheses expressed by reflexive pronouns (Chapter [-@sec:reflexive])
+- diatheses expressed by preverbs, preverbials or adverbials (Chapters [-@sec:preverbs; -@sec:adverbial])
+- diatheses expressed by light-verb constructions (Chapters [-@sec:participle; -@sec:infinitive; -@sec:zuinfinitive; -@sec:zuminfinitive])
 
 The first two chapters deal with diatheses that are not overtly marked as such, i.e. they deal with 'covert' diatheses. Because there is no marking on either of the two alternants, it is often difficult to discern a direction in such equipollent alternations. In Chapter [-@sec:case] I will discuss diatheses that only differ in the marking of case, for example unmarked anticausatives like [@next]. Chapter [-@sec:prepositions] deals with unmarked diatheses in which at least on of the alternants is a prepositional phrase, for example unmarked antipassives like [@nnext].
 
@@ -268,7 +270,7 @@ b. Der Wind hält das Feuer am Brennen.
 
 A diathetical operation is a change that happens to the marking of the participants in a diathesis. One of the central definitional properties of a diathesis is that the coding of at least one of the participants has to change, for example a participant erstwhile coded with an accusative turns into a prepositional phrase. Because the role of the participant remains the same (again, by definition), such a change amounts to the mapping of a role onto a different grammatical form. I will call this process ~~role-remapping~~.
 
-In the analysis of diathetical operations in this book I will use the following abbreviations, as summarised in [@fig:abbreviations]. First, ~~grammatical expressions~~, i.e. actual grammatical forms as identified in traditional German grammar, are abbreviated with single letters, shown at the right side of the figure. For case-marked noun phrases I will use the easily recognisable capital letters 'NADG' for nominative, accusative, dative and genitive respectively. As argued earlier (see [@sec:intro-arguments-utterance-valency]) there are also prepositional phrases that express lexically-determined roles. These will also be abbreviated with capital letters: 'L' for obligatory locations and 'P' for governed prepositional phrases.
+In the analysis of diathetical operations in this book I will use the following abbreviations, as summarised in [@fig:abbreviations]. First, ~~grammatical expressions~~, i.e. actual grammatical forms as identified in traditional German grammar, are abbreviated with single letters, shown at the right side of the figure. For case-marked noun phrases I will use the easily recognisable capital letters 'NADG' for nominative, accusative, dative and genitive respectively. As argued earlier (see [@sec:intro-arguments-utterance-valency]) there are also prepositional phrases that express lexically determined roles. These will also be abbreviated with capital letters: 'L' for obligatory locations and 'P' for governed prepositional phrases.
 
 ![Abbreviations used to describe role-remapping](figures/abbreviations){#fig:abbreviations}
 
@@ -276,7 +278,7 @@ Lower-cased letters are used for non-argument participants in the clause: 'p' fo
 
 Besides single-letter abbreviations I will also use capitalised three-letter abbreviations for a more abstract level of analysis. As summarised at the left side of [@fig:abbreviations], the grammatical expressions are grouped into sets of ~~grammatical macroroles~~, mostly along familiar lines. However, it is crucial to realise that these macroroles are defined here as a superset of language-specific German grammatical expressions. There is no abstract metalinguistic (universal) definition assumed. The current grouping is not necessarily the best or most optimal grouping, but this grouping has emerged to be useful to organise the large diversity of diatheses in this book. 
 
-The notion ~~subject (SBJ)~~ is used for governed nominative phrases that show agreement with the finite verb.^[There are various other nominatively-marked phrases in German grammar which are not included under this heading, e.g. the nominative in nominal or equational predication like *der Täter* in *Er ist der Täter*.] The other case-marked governed phrases are combined as ~~cased objects (OBJ)~~. The cased objects together with the ~~prepositional objects (PBJ)~~ form a superclass of objects. Non-governed phrases are separated in ~~overtly expressed adjuncts (ADJ)~~ and unexpressed roles ~~zero (Ø)~~. Although I will use this five-way distinction throughout this book ~~(SBJ, OBJ, PBJ, ADJ, Ø)~~, the five steps are not equidistant. The macroroles ~~OBJ~~ and ~~PBJ~~ are rather closely related, and likewise are ~~ADJ~~ and ~~Ø~~ intimately linked. Collapsing these pairs results in the traditional subject-object-adjunct distinction.
+The notion ~~subject (SBJ)~~ is used for nominative phrases that show agreement with the finite verb.^[There are various other nominatively marked phrases in German grammar which are not included under this heading, e.g. the nominative in nominal or equational predication like *der Täter* in *Er ist der Täter*.] The other case-marked governed phrases are combined as ~~cased objects (OBJ)~~. The cased objects together with the ~~prepositional objects (PBJ)~~ form a superclass of objects. Non-governed phrases are separated in ~~overtly expressed adjuncts (ADJ)~~ and unexpressed roles ~~zero (Ø)~~. Although I will use this five-way distinction throughout this book ~~(SBJ, OBJ, PBJ, ADJ, Ø)~~, the five steps are not equidistant. The macroroles ~~OBJ~~ and ~~PBJ~~ are rather closely related, and likewise are ~~ADJ~~ and ~~Ø~~ intimately linked. Collapsing these pairs results in the traditional subject-object-adjunct distinction.
 
 {#par:corecase} There are some indications that the group of cased objects ~~(OBJ)~~ might be fruitfully separated into ~~core~~ (accusative) and ~~non-core~~ (dative/genitive). This would simplify the analysis of case change in object chains ([@sec:intro-object-chains]), the antipassive hierarchy ([@sec:prepositions-demotion-of-object]) and the case-marking of the reflexive pronoun ([@sec:reflexive-deponent]). However, in the majority of diatheses all three cases seem to behave as a uniform group, so I did not consistently pursue this separation.
 
@@ -288,11 +290,11 @@ All diatheses in this book will be organised and categorised in various levels o
 
 ~~Level 1: diathesis~~. On the lowest level, each diathesis is summarised in its own sub-subsection. The establishment of an individual diathesis is not always obvious, and each diathesis in this book is already a conscious categorisation (which could be wrong). It has actually been a voyage of discovery in the preparation of this book to decide when to consider a set of examples to be a single diathesis. Very often erstwhile single diatheses turned out to be better analysed by a separation into various different diatheses, and vice versa. Although I am rather confident in the quality of the current decisions, I expect that further refinements are necessary in the future.
 
-~~Level 2: remapping pattern~~. The role-remapping of each diathesis is analysed using the single-letter abbreviations (NADGPLpgad–) from [@fig:abbreviations]. A remapping is specified as an ordered listing of grammatical expressions for roles, both before and after the diathesis. For example, ~~[NA | –N]~~ is a diathesis that involves two roles that are marked 'N(ominative)' and 'A(ccusative' before the diathesis and '–' zero and 'N(ominative)' after the diathesis, respectively. Because there are many diatheses with this same pattern, this characterisation is already an (implicit) classification.
+~~Level 2: remapping pattern~~. The role-remapping of each diathesis is analysed using the single-letter abbreviations (~~NADGPL~~pgad–) from [@fig:abbreviations]. A remapping is specified as an ordered listing of grammatical expressions for roles, both before and after the diathesis. For example, ~~[NA | –N]~~ is a diathesis that involves two roles that are marked 'N(ominative)' and 'A(ccusative' before the diathesis and '–' zero and 'N(ominative)' after the diathesis, respectively. Because there are many diatheses with this same pattern, this characterisation is already an (implicit) classification.
 
 ~~Level 3: local group~~. Groups of diatheses with similar remapping and similar semantics within each chapter are grouped together as a local group. These groups are rather ad-hoc and mainly represent a useful summary to streamline the presentation. Local groups are unnumbered subsections, indicated graphically with dashes around the name of the local group.
 
-~~Level 4: macrorole pattern~~. The remapping of each local group is structurally analysed in terms of the three-letter macroroles ~~(SBJ, OBJ, PBJ, ADJ, Ø)~~ from [@fig:abbreviations]. For example, the remapping from above ~~[NA | ‑N]~~ includes both a change from N to zero (i.e. ~~SBJ › Ø~~) and a change from A to N (i.e. ~~OBJ › SBJ~~). These two macrorole changes can be combined into a single macrorole patter ~~[OBJ › SBJ › Ø]~~.
+~~Level 4: macrorole pattern~~. The remapping of each local group is structurally analysed in terms of the three-letter macroroles ~~(SBJ, OBJ, PBJ, ADJ, Ø)~~ from [@fig:abbreviations]. For example, the remapping from above ~~[NA | –N]~~ includes both a change from N to zero (i.e. ~~SBJ › Ø~~) and a change from A to N (i.e. ~~OBJ › SBJ~~). These two macrorole changes can be combined into a single macrorole patter ~~[OBJ › SBJ › Ø]~~.
 
 ~~Level 5: promotion/demotion~~. On the most abstract level, all diatheses are separated into chapter-subsections of either demotion or promotion (with only very few diatheses being symmetrical exchanges). Basically, each remapping is evaluated on the macrorole hierarchy [@next] with role-remapping upwards being promotion and role-remapping downward being demotion. Note that there is a crucial additional criterion necessary, because the majority of diatheses consist of chains of two coinciding remappings (see [@sec:intro-chaining] on the notion of 'chains'). In such chained remappings, the largest jump on the macrorole hierarchy defines a diathesis as being demotion or promotion. When both jumps are equally large, then the diathesis is ~~symmetric~~.
 
@@ -302,7 +304,7 @@ Macrorole Hierarchy
 ~~SBJ » OBJ » PBJ » ADJ » Ø~~
 :::
 
-For example, the diathesis in [@next] is analysed as a ~~remapping pattern [NA | ‑N]~~, see [@sec:reflexive-anticausative]. This should be read as follows: there is an alternation between a clause with 'NA' arguments (nominative, accusative) and a clause with only 'N' marking (nominative). The relative order of these letters is crucial, as the order of the roles remains fixed in this notation, e.g. the second letter on the left ('A' for accusative) corresponds to the second letter on the right ('N' for nominative). The dash on the right indicates that the corresponding 'N' on the left is not expressed. Note that the actual linear arrangement of the letters is flexible, as long as both sides of the alternation remain in the same order, i.e. ~~[AN | N‑]~~ would be the same remapping pattern as ~~[NA | ‑N]~~. The pattern ~~[NA | ‑N]~~ is an implicit categorisation, because there are many other diatheses that have exactly the same pattern (see e.g. [@sec:case-haben-anticausative; @sec:adverbial-reflexive-transitive-anticausative; @sec:participles-geben-reflexive-anticausative]).
+For example, the diathesis in [@next] is analysed as a ~~remapping pattern [NA | ‑N]~~, see [@sec:reflexive-anticausative]. This should be read as follows: there is an alternation between a clause with '~~NA~~' arguments (nominative, accusative) and a clause with only '~~N~~' marking (nominative). The relative order of these letters is crucial, as the order of the roles remains fixed in this notation, e.g. the second letter on the left ('~~A~~' for accusative) corresponds to the second letter on the right ('~~N~~' for nominative). The dash on the right indicates that the corresponding '~~N~~' on the left is not expressed. Note that the actual linear arrangement of the letters is flexible, as long as both sides of the alternation remain in the same order, i.e. ~~[AN | N‑]~~ would be the same remapping pattern as ~~[NA | ‑N]~~. The pattern ~~[NA | ‑N]~~ is an implicit categorisation, because there are many other diatheses that have exactly the same pattern (see e.g. [@sec:case-haben-anticausative; @sec:adverbial-reflexive-transitive-anticausative; @sec:participles-geben-reflexive-anticausative]).
 
 ::: ex
 a. Ich schließe die Tür.
@@ -323,7 +325,7 @@ This diathesis is a combination of two different remappings ~~[OBJ › SBJ]~
 So, in summary, the role-remapping of the diathesis [@last] is categorised as summarised below. This information also informs the place in the book where this diathesis will be discussed: Reflexive voice is Chapter [-@sec:reflexive], demotion that includes the subject in the macrorole pattern is always Section 5 within each chapter, and consequently, this diathesis can be found below the heading ~~[OBJ › SBJ › Ø]~~ named 'reflexive antipassive' in [@sec:reflexive-anticausative-governed-preposition].
 
 1. ~~Diathesis~~: reflexive antipassive+governed preposition
-2. ~~Remapping Pattern~~: ~~[NAP | –NP]~~
+2. ~~Remapping Pattern~~: ~~[NAP | ‑NP]~~
 3. ~~Local Group~~: reflexive antipassive
 4. ~~Macrorole Pattern~~: ~~[OBJ › SBJ › Ø]~~
 5. ~~Promotion/Demotion~~: demotion
@@ -347,11 +349,9 @@ b. Der Lehrer beantwortet deine Frage.
 c. Deine Frage beantwortet sich von selbst.
 :::
 
-Clause alternations are applied one after the other, i.e. the order of the alternations in a stack is of crucial importance in most examples (unordered stacks exist, but are unusual, see [@sec:intro-disjunct-diatheses]). Basically, a stack is just a list of clause alternations applied one after the other. Syntactically this is just a linear sequence of application, i.e. there is no branching possible with stacking. Semantically this means that each subsequent clause alternation has scope over the previous one. A stack can be written down using a symbol like +> to indicate the additive (+) and sequential (>) nature of the combination. The stack above [@last] can then be analysed as: 
+Clause alternations are applied one after the other, i.e. the order of the alternations in a stack is of crucial importance in most examples (unordered stacks exist, but are unusual, see [@sec:intro-disjunct-diatheses]). Basically, a stack is just a list of clause alternations applied one after the other. Syntactically this is just a linear sequence of application, i.e. there is no branching possible with stacking. Semantically this means that each subsequent clause alternation has scope over the previous one.
 
-- [@last a] +> *be‑* applicative +> reflexive anticausative = [@last c]
-
-This notation leads to concise analyses, as shown for example in [@next] for the difference between the sentences [@next a,b] and [@next c,d]. 
+A stack can be written down using a symbol like +> to indicate the additive (+) and sequential (>) nature of the combination. The stack above [@last] can then be analysed as: [@last a] +> *be‑* applicative +> reflexive anticausative = [@last c]. This notation leads to concise analyses, as shown for example in [@next] for the difference between the sentences [@next a,b] and [@next c,d]. 
 
 ::: ex
 a. Der Lehrer hat die Aufgabe lösen wollen. \
@@ -492,7 +492,7 @@ Second, the verb *schmecken* 'to taste' [@next], see [@sec:prepositions-ingredie
 ~~[OBJ › ADJ › SBJ › Ø]~~
 
 a. Der Koch schmeckt die Pfefferminze in der Suppe.
-b. Die Suppe schmeckt nach Pfefferminze
+b. Die Suppe schmeckt nach Pfefferminze.
 :::
 
 ### Disjunct diatheses {#sec:intro-disjunct-diatheses}
@@ -556,7 +556,7 @@ b. Ich schwitze einen Fleck in mein Hemd.
 
 ### Names for macrorole patterns
 
-Throughout the introductory chapters I have used various names for diatheses, like passive, antipassive, applicative or causative. These names have a long history in the typological grammatical literature [cf. @melcuk1993; @wunderlich1993; @wunderlich2015; @dixon2000a; @dixon2014; @haspelmath2004c; @kulikov2011; @malchukov2015: 96ff.; @zuniga2019]. Although I have been using these terms as if their meaning is clear, this is often far from the truth. Many different terms and definitions have been proposed in the literature, and different terms have at times been used for the same phenomena. For example, the original proposal for the term 'antipassive' is already 50 years old [@silverstein1972: 395], but the same phenomenon is also known as deaccusative [@geniusiene1987: 94] or antiapplicative [@haspelmath2004c: 1132; @scheibl2006: 371]. Reversely, the term antipassive is also attested referring to a slightly different phenomenon of the drop of an object [@scheibl2006: 372--373]. 
+Throughout the introductory chapters I have used various names for diatheses, like passive, antipassive, applicative or causative. These names have a long history in the typological grammatical literature [cf. @melcuk1993; @wunderlich1993; @wunderlich2015; @dixon2000a; @dixon2014; @haspelmath2004c; @kulikov2011; @malchukov2015: 96ff.; @zuniga2019]. Although I have been using these terms as if their meaning is clear, this is often far from the truth. Many different terms and definitions have been proposed in the literature, and different terms have at times been used for the same phenomena. For example, the original proposal for the term 'antipassive' is already 50 years old [@silverstein1972: 395], but the same phenomenon is also known as deaccusative [@geniusiene1987: 94] or antiapplicative [@haspelmath2004c: 1132; @scheibl2006: 371]. Conversely, the term antipassive is also attested referring to a slightly different phenomenon of the drop of an object [@scheibl2006: 372--373]. 
 
 In this section I will describe in more detail how these names are used and defined in the current book about German diatheses. The names for diatheses will here always refer to a macrorole pattern, i.e. to the highly abstract classification of a diathesis in terms of ~~SBJ~~, ~~OBJ~~, etc. as defined in [@sec:intro-remapping]. For example, the term 'anticausative' will be used as a name for the macrorole pattern ~~[OBJ › SBJ › Ø]~~. Such macrorole patterns are strictly defined here in a language-specific way for German, so care should be taken when applying the same names to different languages.
 
@@ -566,42 +566,42 @@ The discussion about the different names for macrorole patterns will be split in
 
 ### Isolated subject diatheses {#sec:intro-isolated-subject-diathesis}
 
-{#par:verbative} Isolated diatheses that involve a nominative subject do not show much variation in German. The most widespread kind is the drop of the subject ~~[SBJ › Ø]~~, i.e. the complete removal of the role marked as nominative subject without any further accompanying role-remapping or reintroduction of a new subject. This is typically attested with intransitive verbs: after removing the single available role, there is no other role introduced to fill the structural subject position. Semantically, such diatheses put the focus on the activity as described by the verb itself, so I propose to call them ~~verbative~~ diatheses.^[Unfortunately, there is another use of the term *Verbativ* in the German grammatical tradition, which originates in the work of Engel [e.g. @engel1996: 198, 251, 347]. Engel's concept is completely different from my concept here. We just happened to stumble upon the same neologism.] Note that there is a strong tendency for every German sentence to formally have a nominative subject with verb agreement. Consequently, such verbative diatheses regularly (but not always) result in the presence of a valency-simulating nominative pronoun *es* (see [@sec:intro-es]). 
+{#par:insubjective} Isolated diatheses that involve a nominative subject do not show much variation in German. The most widespread kind is the drop of the subject ~~[SBJ › Ø]~~, i.e. the complete removal of the role marked as nominative subject without any further accompanying role-remapping or reintroduction of a new subject. This is typically attested with intransitive verbs: after removing the single available role, there is no other role introduced to fill the structural subject position. Semantically, such diatheses put the focus on the activity as described by the verb itself, so I propose to call them ~~insubjective~~ diatheses. Note that there is a strong tendency for every German sentence to formally have a nominative subject with verb agreement. Consequently, such insubjective diatheses regularly (but not always) result in the presence of a valency-simulating nominative pronoun *es* (see [@sec:intro-es]). 
 
-A ~~verbative~~ diathesis is attested with verbs like *stinken* 'to stink' [@next], see [@sec:case-nominative-drop]. In a sentence like *es stinkt* the pronoun *es* can of course simply be an anaphor, like in [@next b]. In such a sentence, the role of 'stinker' is still present and there is no diathesis at all. However, in other contexts [@next c] the verb *stinken* is used without implied subject. This is typically attested in contexts in which some odour is attested, but the originator is not known.
+A ~~insubjective~~ diathesis is attested with verbs like *stinken* 'to stink' [@next], see [@sec:case-nominative-drop]. In a sentence like *es stinkt* the pronoun *es* can of course simply be an anaphor, like in [@next b]. In such a sentence, the role of 'stinker' is still present and there is no diathesis at all. However, in other contexts [@next c] the verb *stinken* is used without implied subject. This is typically attested in contexts in which some odour is attested, but the originator is not known.
 
 ::: ex
-~~Verbative [SBJ › Ø]~~
+~~Insubjective [SBJ › Ø]~~
 
 a. Der Müll stinkt.
 b. Das schmutzige Tuch, es stinkt!
 c. Hier stinkt es.
 :::
 
-Another example of a verbative diathesis is illustrated with the verb *leben* 'to live' [@next], see [@sec:adverbial-reflexive-drop]. Many such intransitive verbs can be used without a subject in a habitual sense, but this is only possible with an obligatory adverbial qualification like *gut* [@next b,c].
+Another example of a insubjective diathesis is illustrated with the verb *leben* 'to live' [@next], see [@sec:adverbial-reflexive-drop]. Many such intransitive verbs can be used without a subject in a habitual sense, but this is only possible with an obligatory adverbial qualification like *gut* [@next b,c].
 
 ::: ex
-~~Verbative [SBJ › Ø]~~
+~~Insubjective [SBJ › Ø]~~
 
 a. Ich lebe in diesem Haus.
 b. In diesem Haus lebt es sich gut.
 c. ^* In diesem Haus lebt es sich.
 :::
 
-Also the so-called impersonal passive consisting of *werden+Partizip* [@next], see [@sec:participles-werden-impersonal-passive], is an example of a verbative diathesis, in this case even without any valency-simulating *es*.
+Also the so-called impersonal passive consisting of *werden+Partizip* [@next], see [@sec:participles-werden-impersonal-passive], is an example of a insubjective diathesis, in this case even without any valency-simulating *es*.
 
 ::: ex
-~~Verbative [SBJ › Ø]~~
+~~Insubjective [SBJ › Ø]~~
 
 a. Die Jungs tanzen hier.
 b. Hier wird getanzt.
 c. ^* Hier wird es getanzt.
 :::
 
-{#par:demotive} A different kind of isolated subject diathesis is subject demotion of the nominative subject to a prepositional phrase. An example is the *geben+zu‑In­fi­ni­tiv* [@next], see [@sec:zuinfinitive-geben-demotion]. In this diathesis, the subject is demoted to an optional non-governed prepositional phrase ~~[SBJ › ADJ]~~. The demotion is the only role-remapping that is happening in this diathesis, so I propose to call such a diathesis a ~~Demotive~~.
+{#par:desubjective} A different kind of isolated subject diathesis is subject demotion of the nominative subject to a prepositional phrase. An example is the *geben+zu‑In­fi­ni­tiv* [@next], see [@sec:zuinfinitive-geben-demotion]. In this diathesis, the subject is demoted to an optional non-governed prepositional phrase ~~[SBJ › ADJ]~~. The demotion is the only role-remapping that is happening in this diathesis, so I propose to call such a diathesis a ~~Desubjective~~.
 
 ::: ex
-~~Demotive [SBJ › ADJ]~~
+~~Desubjective [SBJ › ADJ]~~
 
 a. Wir gewinnen einen Preis. 
 b. es gibt (für uns) einen Preis zu gewinnen.
@@ -610,7 +610,7 @@ b. es gibt (für uns) einen Preis zu gewinnen.
 The other isolated subject diatheses are only attested in incidental examples in German, like a subject demotion to a governed preposition ~~[SBJ › PBJ]~~ with *fehlen* shown in [@next], see [@sec:prepositions-nominative-demotion].
 
 ::: ex
-~~Demotive [SBJ › PBJ]~~
+~~Desubjective [SBJ › PBJ]~~
 
 a. Das Geld fehlt ihm.
 b. Ihm fehlt es an Geld.
@@ -771,7 +771,7 @@ c. Der Wettkampf endet (durch den Gong).
 d. Der Gong beendet den Wettkampf.
 :::
 
-Finally, a ~~reversed conversive [PBJ › SBJ › OBJ]~~ differs from a reversed passive in that the prepositional phrase is a lexically governed preposition, as can be identified by a possible  *da+preposition, dass* paraphrase. This is for example attested with the diatheses between *staunen über* 'to marvel' and *erstaunen* 'to amaze' [@next], see [@sec:preverb-inverted-passives].
+Finally, a ~~reversed conversive [PBJ › SBJ › OBJ]~~ differs from a reversed passive in that the prepositional phrase is a lexically governed preposition, as can be identified by a possible  *da(r)+Preposition, dass* paraphrase. This is for example attested with the diatheses between *staunen über* 'to marvel' and *erstaunen* 'to amaze' [@next], see [@sec:preverb-inverted-passives].
 
 ::: ex
 ~~Reversed conversive [PBJ › SBJ › OBJ]~~
@@ -907,7 +907,7 @@ b. Ich beklage mich über den Lärm. \
    (Ich beklage mich darüber, dass es so laut ist.)
 :::
 
-There are a many diatheses with a role-remapping between adjunct and object that do not have any overt indication of a direction. Without explicit marking it is difficult to decide whether such diatheses are cases of (applicative) promotion ~~[ADJ › OBJ]~~ or (antipassive) demotion ~~[OBJ › ADJ]~~. For the sake of organisation in this book I classify such covert alternations on the basis of (debatable) semantic intuitions and parallels to other overtly-marked diatheses.
+There are a many diatheses with a role-remapping between adjunct and object that do not have any overt indication of a direction. Without explicit marking it is difficult to decide whether such diatheses are cases of (applicative) promotion ~~[ADJ › OBJ]~~ or (antipassive) demotion ~~[OBJ › ADJ]~~. For the sake of organisation in this book I classify such covert alternations on the basis of (debatable) semantic intuitions and parallels to other overtly marked diatheses.
 
 Most covert diatheses with an alternation between prepositional phrases and case-marked arguments are classified here as ~~antipassive~~, like in the alternation between *schießen auf* 'to aim at' and *schießen* 'to shoot' [@next], see [@sec:prepositions-accusative-antipassive]. This is also widespread with datives [@nnext], see [@sec:prepositions-dative-antipassive-accusative]. In such examples, I judge the case-marking to be more basic than the prepositional phrase. 
 
@@ -991,7 +991,7 @@ b. Ich erarbeite mir ein Vermögen. \
    (= Ich arbeite, und das Resultat davon ist, dass ich ich ein Vermögen besitze.)
 :::
 
-Objectives and deobjectives are frequently attested without any overt marking (cf. ambitransitive/labile verbs), and in such 'covert' diatheses it is difficult to establish a direction. As already noted above, for the sake of organisation in this book I classify such covert alternations on the basis of (often debatable) semantic intuitions and parallels with other overtly-marked diatheses. For example, the verb *stören* 'to disturb' [@next] can be used both with and without an accusative object, see [@sec:case-accusative-drop]. This is classified here as a deobjective diathesis. Such unmarked object drops are also attested with datives, see [@sec:case-dative-drop], and with governed prepositions, see [@sec:prepositions-demotion-of-object]. The dropping of an object is also often used to put the focus on the action itself, but then it is typically attested with an adverbial, see [@sec:adverbial-action-focus] for an extensive discussion.
+Objectives and deobjectives are frequently attested without any overt marking (cf. ambitransitive/labile verbs), and in such 'covert' diatheses it is difficult to establish a direction. As already noted above, for the sake of organisation in this book I classify such covert alternations on the basis of (often debatable) semantic intuitions and parallels with other overtly marked diatheses. For example, the verb *stören* 'to disturb' [@next] can be used both with and without an accusative object, see [@sec:case-accusative-drop]. This is classified here as a deobjective diathesis. Such unmarked object drops are also attested with datives, see [@sec:case-dative-drop], and with governed prepositions, see [@sec:prepositions-demotion-of-object]. The dropping of an object is also often used to put the focus on the action itself, but then it is typically attested with an adverbial, see [@sec:adverbial-action-focus] for an extensive discussion.
 
 ::: ex
 ~~Covert deobjective [OBJ › Ø]~~
@@ -1076,7 +1076,7 @@ b. Ich erwarte ein Geschenk von dir.
 
 ### Chained object diatheses {#sec:intro-object-chains}
 
-Chains of object diatheses (i.e. chains with the object in the middle of the chain) can always be interpreted as a combination of two isolated object diatheses from the previous section. However, not all theoretically possible combinations are attested (see [@fig:objectchains]). The most frequently attested chained object diatheses are the highlighted variants of ~~object exchange~~ (see [@sec:intro-object-exchange] ff.). A few incidental examples of ~~chained case change~~ are also attested (see [@sec:intro-chained-case-change]).
+Chains of object diatheses (i.e. chains with the object in the middle of the chain) can always be interpreted as a combination of two isolated object diatheses from the previous section. However, not all theoretically possible combinations are attested (see [@fig:objectchains]). The most frequently attested chained object diatheses are the highlighted variants of ~~object exchange~~ (see [@sec:intro-object-exchange; @sec:intro-chained-other-object]). A few incidental examples of ~~chained case change~~ are also attested (see [@sec:intro-chained-case-change]).
 
 ![Names for chains of object diathesis](figures/objectchains2){#fig:objectchains}
 
@@ -1179,7 +1179,7 @@ b. Ich wasche den Fleck aus meiner Hose.
 c. ^* Ich wasche den Fleck.
 :::
 
-#### Other kinds of object exchange
+#### Other kinds of object exchange {#sec:intro-chained-other-object}
 
 There are a few other examples of object exchange that do not fit in with the general pattern described above, for example with *zwingen/erzwingen* 'to force' [@next a,b]. This chained diathesis is a remapping of the form ~~[PBJ › OBJ › ADJ]~~ because the preposition *zu* is a governed preposition [@next c]. This diathesis is attested with various verbs of persuasion (cf. [@sec:preverb-applicative-von-antipassive]). The demotion is more prominent than the promotion, so this chain is overall a demotion. Consequently, because it is the person being persuaded that is demoted I call this a ~~persuadee demotion object exchange~~.
 
