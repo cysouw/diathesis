@@ -2,7 +2,7 @@
 
 Michael Cysouw <cysouw@mac.com>
 
-This is a developing manuscript of a book about German diatheses.
+This is the manuscript of [LSP Volume 374](https://langsci-press.org/catalog/book/374).
 
 The easiest way to read the current version is by using the latest HTML or PDF output included in the [`/docs`](docs) directory of this repository. The HTML output can be directly accessed [here](https://cysouw.github.io/diathesis/).
 
@@ -20,6 +20,3 @@ The following Pandoc filters are used to assist the preparation of this manuscri
 -  [`toc-css`](https://github.com/cysouw/toc-css) adds some extra CSS and Javascript for HTML output to format the table of contents.
 - [`strikeout-to-smallcaps`](/filters/strikeout-to-smallcaps.lua) to use the markup for  ~~strikeout~~ (using `~~`) to indicate small caps (I never use strikeout, but often use small caps). This filter simply makes this change when processing the file for output.
 -  [`setdata`](filters/setdate.lua) to add the current date.
-
-  
-
