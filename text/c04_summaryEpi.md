@@ -407,7 +407,7 @@ The ~~Selbstbezogener Reflexiv~~ (full discussion in [@sec:reflexive-self-inflic
 
 The *Selbstbezogener Reflexiv* can be identified by the following characteristics: 
 
-(i) There is a reflexive pronoun in the sentence that can be negated and stressed.
+(i) There is a reflexive pronoun that can be negated and stressed.
 (ii) The pronoun *selbst* can optionally be added.
 (iii) The roles of the verb do not change, i.e. [@next b] still contains the roles of "washer" and "washee".
 (iv) The reflexive pronoun references an object role (here "washee").
@@ -423,7 +423,7 @@ b. Der Vater wäscht sich (selbst).
 The ~~Reziprok~~ (full discussion in [@sec:reflexive-accusative-reciprocal] and subsequent sections) often looks similar to the *Selbstbezogener Reflexiv*. However, there are various characteristics that clearly distinguish the two. The *Reziprok* can be identified by the following characteristics:
 
 (i) There is a reflexive pronoun or *einander* in the sentence.
-(ii) When there is a reflexive pronoun, then *gegenseitig* can optionally be added; *selbst* is not possible.
+(ii) When there is a reflexive pronoun, then *gegenseitig* can be added optionally. In contrast, *selbst* is not possible.
 (iii) The roles of the verb do not change, i.e. [@next b] still contains the roles of "crosser" and "crossee".
 (iv) The subject is obligatorily plural, as it references the participants of both roles simultaneously.
 (iv) The reflexive pronoun/*einander* marks that both participants take both roles simultaneously.
@@ -444,7 +444,7 @@ b. Ich habe das Haus angesehen.
 
 ### *Reflexiv Resultativ* {#sec:summary-reflexiv-resultativ}
 
-The ~~Reflexiv Resultativ~~ (full discussion in [@sec:adverbial-intransitive-resultative]) is an alternation that can be used with a subset of all intransitive verbs, for example with *schlafen* 'to sleep' [@next a]. By adding a reflexive pronoun and a resultative preverbial, like *gesund‑* 'healthy' [@next b], the sentence expresses that the subject participant achieves a state (expressed by the preverbial) by performing an action (expressed by the verb). In other words, [@next b] means approximately 'by sleeping I will become healthy'. The combination of *gesund‑* with the verb *schlafen* arguably is a new separable verb *gesundschlafen* [@next c], syntactically similar to a *Partikelverb* like *einschlafen*.
+The ~~Reflexiv Resultativ~~ (full discussion in [@sec:adverbial-intransitive-resultative]) is an alternation that can be used with a subset of all intransitive verbs, for example with *schlafen* 'to sleep' [@next a]. By adding a reflexive pronoun and a resultative preverbial, like *gesund‑* 'healthy' [@next b], the sentence conveys that the subject participant achieves a state (expressed by the preverbial) by performing an action (expressed by the verb). In other words, [@next b] means approximately 'by sleeping I will become healthy'. The combination of *gesund‑* with the verb *schlafen* arguably is a new separable verb *gesundschlafen* [@next c], syntactically similar to a *Partikelverb* like *einschlafen*.
 
 ::: ex
 a. Ich schlafe.

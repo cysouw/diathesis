@@ -54,7 +54,7 @@ e. Ich beschuldige den Verdächtigten [des Diebstahls] von weiteren Gegenstände
 
 ### Quantified object
 
-A special kind of constituent is a quantified object [cf. "Mensuralergänzung", @eroms2000: 203--204], exemplified in [@next a-e]. Quantified objects are overtly marked accusative objects that often contain numerals, like in [@next d] or [@next e], in which *einen* is not an article, but the numeral *one*. Except for numerals, the quantification can also be instantiated by adjectives, e.g. *ganzen* 'complete' in [@next a], indefinites, e.g. *jeden* 'each' in [@next b], or measure phrases, e.g. *zu laut* 'too noisy' in [@next c].
+A special kind of constituent is a quantified object [cf. "Mensuralergänzung", @eroms2000: 203--204], exemplified in [@next a-e]. Quantified objects are overtly mark­ed accusative objects that often contain numerals, like in [@next d] or [@next e], in which *einen* is not an article, but the numeral *one*. Except for numerals, the quantification can also be instantiated by adjectives, e.g. *ganzen* 'complete' in [@next a], indefinites, e.g. *jeden* 'each' in [@next b], or measure phrases, e.g. *zu laut* 'too noisy' in [@next c].
 
 ::: ex
 a. Er schläft den ganzen Tag. (*wie lange?* 'how long')
@@ -324,7 +324,7 @@ In summary, there are only few verbs in German with double accusatives. In gener
 
 ### [ NA ] Nominative+quantified object {#sec:case-quantified-objects}
 
-A special kind of arguments are quantified objects [cf. "Mensuralergänzung", @eroms2000: 203--204], exemplified in [@next a-e]. Quantified objects are overtly marked accusative objects that often contain numerals (like in [@next d] or [@next e], in which *einen* is not an article, but the numeral one). Except for numerals, the quantification can also be instantiated by adjectives (like *ganzen* in [@next a]), indefinites (like *jeden* in [@next b]) or measure phrases (like *zu laut* in [@next c]).
+A special kind of arguments are quantified objects [cf. "Mensuralergänzung", @eroms2000: 203--204], exemplified in [@next a-e]. Quantified objects are overtly mark­ed accusative objects that often contain numerals (like in [@next d] or [@next e], in which *einen* is not an article, but the numeral one). Except for numerals, the quantification can also be instantiated by adjectives (like *ganzen* in [@next a]), indefinites (like *jeden* in [@next b]) or measure phrases (like *zu laut* in [@next c]).
 
 ::: ex
 a. Er schläft den ganzen Tag. (*wie lange?* 'how long')
@@ -627,7 +627,7 @@ The verb *anhängen* literally (but not commonly) means 'to attach to' [@next a]
 
 ### [ – | N ] Weather agents {#sec:case-nominative-addition}
 
-With some weather verbs like *wehen* 'to be windy' it seems to be semantically rather obvious that the addition of an agent [@next b] is an extension of a basically avalent verb [@next a]. However, formally there is no difference between an unmarked "nominative addition" as discussed in this section and an unmarked "nominative drop" as discussed in [@sec:case-nominative-drop]. One possible avenue to distinguish these two classes is to consider the range of possible nominative agents. For verbs like *wehen* there appears to be only a small closed class of options for the nominative.
+With some weather verbs like *wehen* 'to be windy' it seems to be semantically rather obvious that the addition of an agent [@next b] is an extension of a basically avalent verb [@next a]. However, formally there is no difference between an unmark­ed "nominative addition" as discussed in this section and an unmarked "nominative drop" as discussed in [@sec:case-nominative-drop]. One possible avenue to distinguish these two classes is to consider the range of possible nominative agents. For verbs like *wehen* there appears to be only a small closed class of options for the nominative.
 
 ::: ex
 a. Es weht.

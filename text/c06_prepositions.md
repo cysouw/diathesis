@@ -1799,7 +1799,7 @@ However, syntactically and semantically there is much more going on than simply 
      - which can be used attributively [@next d]
      - which allows for gradual time specification [@next e].
 
-With regard to the (d) options: as expected for an opposition between *haben+Partizip* and *sein+Partizip* there is a correlation with the possibility to use the participle as an attributive adjective (see [@sec:participles-adnominal-usage]). However, concerning the (e) options, there is no correlation with the possibility to add gradual time specification. This suggests that this *sein+Partizip* construction is a real perfect and not some kind of *Zustandspassiv* (see [@sec:participles-temporal-interpretation]). 
+With regard to the (d) options: as expected for an opposition between *haben+​Partizip* and *sein+Partizip* there is a correlation with the possibility to use the participle as an attributive adjective (see [@sec:participles-adnominal-usage]). However, concerning the (e) options, there is no correlation with the possibility to add gradual time specification. This suggests that this *sein+Partizip* construction is a real perfect and not some kind of *Zustandspassiv* (see [@sec:participles-temporal-interpretation]). 
 
 ::: ex
 - Das Boot schwankt im Wind.

@@ -1483,17 +1483,17 @@ For the verbs with a *durch* alternation, like *lösen* 'to release' [@next], th
 #### Attested verbs {.unnumbered}
 
 - Experiencer verbs:
-  - *an*    : *belustigen, stören, erfreuen, erheitern*
-  - *bei*   : *anstrengen, beruhigen, entspannen, langweilen, quälen, unterhalten*
-  - *für*   : *faszinieren, motivieren, interessieren*
-  - *um*    : *bekümmern, kümmern*
-  - *über*  : *amüsieren, aufregen, ärgern, begeistern, beschweren, beunruhigen, empören, entsetzen, erschrecken, erstaunen, erzürnen, freuen, grämen, wundern*
+  - an    : *belustigen, stören, erfreuen, erheitern*
+  - bei   : *anstrengen, beruhigen, entspannen, langweilen, quälen, unterhalten*
+  - für   : *faszinieren, motivieren, interessieren*
+  - um    : *bekümmern, kümmern*
+  - über  : *amüsieren, aufregen, ärgern, begeistern, beschweren, beunruhigen, empören, entsetzen, erschrecken, erstaunen, erzürnen, freuen, grämen, wundern*
 - Other verbs:
-  - *aus*   : *bilden, entwickeln, ergeben, speisen*
-  - *durch* : *auszeichnen, entspannen, lösen, mildern, verraten*
-  - *in*    : *spiegeln, widerspiegeln*
-  - *mit*   : *aufhalten, beschäftigen, schmücken, überlagern*
-  - *von*   : *nähren, verabschieden*
+  - aus   : *bilden, entwickeln, ergeben, speisen*
+  - durch : *auszeichnen, entspannen, lösen, mildern, verraten*
+  - in    : *spiegeln, widerspiegeln*
+  - mit   : *aufhalten, beschäftigen, schmücken, überlagern*
+  - von   : *nähren, verabschieden*
 
 #### Further examples {.unnumbered}
 

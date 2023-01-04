@@ -664,7 +664,7 @@ b. Ich glaube deine Aussage. \
 
 ### *Reflexiv Antipassiv* {#sec:summary-reflexiv-antipassiv}
 
-The ~~Reflexiv Antipassiv~~ (full discussion in [@sec:reflexive-accusative-antipassive]) is an accusative antipassive in which additionally a reflexive pronoun is added. For example, the verb *beklagen* 'to lament' [@next] has a lamented object-role *Lärm* 'noise' that is expressed either as an accusative [@next a] or as a prepositional phrase with *über* [@next b]. The reflexive pronoun in [@next b] is not a self-inflicting reflexive, i.e. the lamenting is not about oneself. These reflexive antipassives always have governed prepositional phrases [@next c].
+The ~~Reflexiv Antipassiv~~ (full discussion in [@sec:reflexive-accusative-antipassive]) is an antipassive in which additionally a reflexive pronoun is added. For example, the verb *beklagen* 'to lament' [@next] has a lamented object-role *Lärm* 'noise' that is expressed either as an accusative [@next a] or as a prepositional phrase with *über* [@next b]. The reflexive pronoun in [@next b] is not a self-inflicting reflexive, i.e. the lamenting is not about oneself. These reflexive antipassives always have governed prepositional phrases [@next c].
 
 ::: ex
 a. Ich beklage den Lärm.
@@ -674,7 +674,7 @@ c. Ich beklage mich darüber, dass es so laut ist
 
 ### *Präverb Reflexiv Antipassiv* {#sec:summary-praverb-reflexiv-antipassiv}
 
-The ~~Präverb Reflexiv Antipassiv~~ (full discussion in [@sec:preverb-reflexive-antipassive]) is an accusative antipassive with a reflexive pronoun and a preverb. For example, the verb *kalkulieren* 'to calculate' [@next a] allows for an antipassive diathesis in which an accusative argument is turned into an (optional) prepositional phrase when adding a prefix *ver‑* to form *verkalkulieren* 'to miscalculate'. Additionally, an obligatory accusative reflexive pronoun is part of this diathesis.
+The ~~Präverb Reflexiv Antipassiv~~ (full discussion in [@sec:preverb-reflexive-antipassive]) is an antipassive with a reflexive pronoun and a preverb. For example, the verb *kalkulieren* 'to calculate' [@next a] allows for an antipassive diathesis in which an accusative argument is turned into an (optional) prepositional phrase when adding a prefix *ver‑* to form *verkalkulieren* 'to miscalculate'. Additionally, an obligatory accusative reflexive pronoun is part of this diathesis.
 
 ::: ex
 - Ich kalkuliere die Miete. 
