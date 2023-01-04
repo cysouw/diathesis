@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Prepositional phrases play a crucial role in many diatheses throughout this book. This chapter catalogues only the covert ('unmarked') alternations that involve a change in pure flagging, i.e. between case-marked constituents and prepositional phrases. Many more such diatheses will be discussed in subsequent chapters, but those alternations display additional overt marking, like reflexive pronouns, verb prefixes, or light verbs.
+Prepositional phrases play a crucial role in many diatheses throughout this book. This chapter catalogues only the covert ("unmarked") alternations that involve a change in pure flagging, i.e. between case-marked constituents and prepositional phrases. Many more such diatheses will be discussed in subsequent chapters, but those alternations display additional overt marking, like reflexive pronouns, verb prefixes, or light verbs.
 
 As surveyed in this chapter, there are many different covert alternations that involve prepositions, like antipassives [@next a], see [@sec:prepositions-accusative-antipassive], anticausatives [@next b], see [@sec:prepositions-intransitive-preposition-anticausative], applicatives [@next c], see [@sec:prepositions-instrument-applicative], and many more. 
 
@@ -352,7 +352,7 @@ Some verbs, like *erinnern* 'to remind' [@next], combine a governed preposition 
 
 ### [ NL ] Obligatory local preposition {#sec:prepositions-obligatory-local}
 
-Some verbs appear to have an obligatory location argument, like *wohnen* 'to live' [@next], cf. also the examples in the classes 'Extent' and 'Location' in Gamerschlag [-@gamerschlag2014: 319--321].
+Some verbs appear to have an obligatory location argument, like *wohnen* 'to live' [@next], cf. also the examples in the classes "Extent" and "Location" in Gamerschlag [-@gamerschlag2014: 319--321].
 
 ::: ex
 - Sie wohnt in Berlin.
@@ -450,7 +450,7 @@ This section is empty. It is only added here for the numbering to be parallel ac
 
 ### [ NP | –P ] Nominative drop+governed preposition {#sec:prepositions-nominative-drop}
 
-With verbs like *abhängen von* 'depend on' the nominative can be dropped, and a valency-simulating pronoun *es* is inserted [@next a,b]. This pronoun *es* is not referential with verbs like this. For an apparently similar verb like *zeugen von* 'to be evidence of' this is different [@next c,d]: with this verb the pronoun *es* can only be interpreted referentially ('phoric'), so it does not belong in this class.
+With verbs like *abhängen von* 'depend on' the nominative can be dropped, and a valency-simulating pronoun *es* is inserted [@next a,b]. This pronoun *es* is not referential with verbs like this. For an apparently similar verb like *zeugen von* 'to be evidence of' this is different [@next c,d]: with this verb the pronoun *es* can only be interpreted referentially ("phoric"), so it does not belong in this class.
 
 ::: ex
 a. Mein Leben hängt von dir ab.
@@ -611,7 +611,7 @@ The instrumental *mit* phrase is a real non-governed instrument, i.e. an inanima
 
 #### Notes {.unnumbered}
 
-Not all instruments allow for this diathesis [@next]. This difference suggests that there are at least two different kinds of 'instruments' [cf. @hooste2018].
+Not all instruments allow for this diathesis [@next]. This difference suggests that there are at least two different kinds of instruments [cf. @hooste2018].
 
 ::: ex
 a. Ich belade den Laster mit einem Kran.
@@ -644,7 +644,7 @@ This alternation takes a (non-governed) prepositional phrase and turns it into a
 
 A ~~fabricative~~ (from Lat *fabrica*, 'plan, trick, workmanship') is a diathesis that superficially looks very similar to a conciliative ([@sec:prepositions-intransitive-preposition-anticausative]) because in both diatheses a *mit* prepositional phrase is promoted to nominative subject. The central difference is that in a fabricative diathesis the *mit* prepositional phrase is a governed preposition. This structural difference has a parallel semantic difference in that the fabricative *mit* phrase is an object that is produced by the agent.
 
-This diathesis occurs (among others) with verbs of emotional interactions like *überraschen* 'to surprise' [@next a]. To understand this diathesis, a distinction is needed between the role of the 'fabricator', who produces the thing that evokes the emotion (here: *Lehrer*, 'teacher') and the role of the 'fabricated product', which induces the emotion (here: *Aufgabe*, 'assignment'). The fabricator can be expressed with an adnominal genitive ('possessor') of the product [@next a,b]. The *mit* prepositional phrase expressing the fabricated product in [@next a] is a governed preposition [@next c]. As a result of the diathesis, the fabricated product is be promoted to nominative subject and the fabricator is removed from the expression [@next a,b]. The experiencer in the accusative *mich* remains unchanged.
+This diathesis occurs (among others) with verbs of emotional interactions like *überraschen* 'to surprise' [@next a]. To understand this diathesis, a distinction is needed between the role of the "fabricator", who produces the thing that evokes the emotion (here: *Lehrer*, 'teacher') and the role of the "fabricated product", which induces the emotion (here: *Aufgabe*, 'assignment'). The fabricator can be expressed with an adnominal genitive ("possessor") of the product [@next a,b]. The *mit* prepositional phrase expressing the fabricated product in [@next a] is a governed preposition [@next c]. As a result of the diathesis, the fabricated product is be promoted to nominative subject and the fabricator is removed from the expression [@next a,b]. The experiencer in the accusative *mich* remains unchanged.
 
 ::: ex
 a. Der Lehrer überraschst mich mit seiner Aufgabe.
@@ -864,7 +864,7 @@ b. Ich schieße auf den Bären.
 c. ^* Ich schieße darauf, dass der Bär kommt.
 :::
 
-There are just a few deobjective 'drop'-alternations that are missing, and these missing alternations suggest an interesting generalisation. Missing are the alternations ~~[NAP | N–P ]~~, ~~[NPD | N–D]~~ and (from the previous chapter) ~~[NAD | N–D]~~. These apparently dispreferred alternations suggest that a dative argument has to be dropped before a governed preposition can be dropped, and likewise, a governed preposition has to be dropped before an accusative argument can be dropped, i.e there is a deobjective hierarchy [@next a].
+There are just a few deobjective "drop"-alternations that are missing, and these missing alternations suggest an interesting generalisation. Missing are the alternations ~~[NAP | N–P ]~~, ~~[NPD | N–D]~~ and (from the previous chapter) ~~[NAD | N–D]~~. These apparently dispreferred alternations suggest that a dative argument has to be dropped before a governed preposition can be dropped, and likewise, a governed preposition has to be dropped before an accusative argument can be dropped, i.e there is a deobjective hierarchy [@next a].
 
 ::: ex
 Deobjective hierarchy: dative > preposition > accusative
@@ -1875,7 +1875,7 @@ b. Sie stürmten in den Saal.
 
 ### --- [ Ø > PBJ ] --- *Verursachte Bewegung* {.unnumbered}
 
-In the analysis of resultative constructions, there is a recurrent suggestion in the literature to distinguish between 'cause to go' and 'cause to become' semantics [e.g. @mcintyre2003: 120]. I will use the designation 'caused motion' for the former and 'performative result' for the latter here.
+In the analysis of resultative constructions, there is a recurrent suggestion in the literature to distinguish between "cause to go" and "cause to become" semantics [e.g. @mcintyre2003: 120]. I will use the designation "caused motion" for the former and "performative result" for the latter here.
 
 ### [ N– – | NAL ] Intransitive caused motion {#sec:prepositions-intransitive-location-as-result}
 
@@ -1885,7 +1885,7 @@ However, the verb *klopfen* is very regularly used in construction like [@next d
 
 The meaning of this special construction [@next d] is also special. The meaning is something like: by doing the action of the intransitive verb, nominative causes accusative to move in the direction described by the prepositional phrase [@next g], cf. Goldberg's [-@goldberg2006: 73] famous caused-motion example *She sneezed the foam off the cappuccino*.
 
-Note that with possessor raising (see [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative]) it is even possible to add an additional dative argument, leading to an 'intransitive' verb *klopfen* with an obligatory dative, accusative and prepositional argument [@next h]. This dative can also be turned into a reflexive [@next i].
+Note that with possessor raising (see [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative]) it is even possible to add an additional dative argument, leading to an "intransitive" verb *klopfen* with an obligatory dative, accusative and prepositional argument [@next h]. This dative can also be turned into a reflexive [@next i].
 
 ::: ex
 a. Das Herz klopft ganz regelmäßig.
@@ -2032,7 +2032,7 @@ The verb *wünschen* 'to wish' can be used in a construction with *als* [@next a
 
 ### [ NA– | NLA ] Partitive separated object (*Teil/weg-Objekttausch*) {#sec:prepositions-partitive-free}
 
-This alternation occurs with some transitive verbs like *waschen* 'to wash' [@next a,b], cf. the 'wipe' alternation in English from Levin [-@levin1993: 53]. Note that the accusatives at both sides of the alternation do not refer to the same roles: there is a new object introduced with this diathesis. The original accusative *Hose* 'trousers' [@next a] is recast as a location [@next b], which is obligatory [@next c]. A new accusative *Fleck* 'stain' is introduced as the result of the action. Typically the result is actually the removal of something, like *Fleck* 'stain' in [@next].
+This alternation occurs with some transitive verbs like *waschen* 'to wash' [@next a,b], cf. the "wipe" alternation in English from Levin [-@levin1993: 53]. Note that the accusatives at both sides of the alternation do not refer to the same roles: there is a new object introduced with this diathesis. The original accusative *Hose* 'trousers' [@next a] is recast as a location [@next b], which is obligatory [@next c]. A new accusative *Fleck* 'stain' is introduced as the result of the action. Typically the result is actually the removal of something, like *Fleck* 'stain' in [@next].
 
 ::: ex
 a. Ich wasche meine Hose.
@@ -2111,7 +2111,7 @@ This diathesis is closely related to a similar diathesis with preverbs (see [@se
 
 ### [ NAp | NAD ] Beneficiary dative {#sec:prepositions-benefactive-dative}
 
-The alternation of a dative with a *für* prepositional phrase is very widespread [@next a,b]. It can be used with verbs that can be performed on behalf of somebody else (i.e. a ~~beneficiary~~, sometimes called ~~dativus commodi~~). In German grammar it is sometimes referred to as a 'free dative' because it can be easily dropped completely. As Eisenberg [-@eisenberg2006a: 298] remarks, such datives are widespread, but cannot be used with all verbs and are thus a phenomenon that can be used for the sub-classification of verbs. Also note that this diathesis should be strongly differentiated from other 'free datives', specifically possessor datives (see especially [@sec:case-possessor-accusative-to-dative; but also @sec:prepositions-possessor-of-location-to-dative-experiencer]) 
+The alternation of a dative with a *für* prepositional phrase is very widespread [@next a,b]. It can be used with verbs that can be performed on behalf of somebody else (i.e. a ~~beneficiary~~, sometimes called ~~dativus commodi~~). In German grammar it is sometimes referred to as a "free dative" because it can be easily dropped completely. As Eisenberg [-@eisenberg2006a: 298] remarks, such datives are widespread, but cannot be used with all verbs and are thus a phenomenon that can be used for the sub-classification of verbs. Also note that this diathesis should be strongly differentiated from other "free datives", specifically possessor datives (see especially [@sec:case-possessor-accusative-to-dative; but also @sec:prepositions-possessor-of-location-to-dative-experiencer]) 
 
 ::: ex
 a. Ich koche dir eine Suppe.
@@ -2353,7 +2353,7 @@ b. Ich wickle das Tuch um den Arm. \
    Ich wickle den Arm in dem Tuch ein.
 :::
 
-With a few verbs this alternation is attested without a verbal prefix or particle. With some verbs of filling, like *füllen* 'to fill' [@next a] this unmarked diathesis is completely parallel to the *befüllen* (see [@sec:preverb-applicative-antipassive]), but without any overt marking. An accusative object, here *Schnaps* 'liquor' [@next a] is replaced with an optional *mit* prepositional phrase [@next c], cf. the English 'spray/load' alternation from Levin [-@levin1993: 50--51]. This alternation is closely related to the *mit* antipassive (see [@sec:prepositions-mit-antipassive]). In addition to this *mit* antipassive, there is an applicative diathesis that turns an obligatory location into an accusative, here *Flasche* 'bottle'.
+With a few verbs this alternation is attested without a verbal prefix or particle. With some verbs of filling, like *füllen* 'to fill' [@next a] this unmarked diathesis is completely parallel to the *befüllen* (see [@sec:preverb-applicative-antipassive]), but without any overt marking. An accusative object, here *Schnaps* 'liquor' [@next a] is replaced with an optional *mit* prepositional phrase [@next c], cf. the English "spray/load" alternation from Levin [-@levin1993: 50--51]. This alternation is closely related to the *mit* antipassive (see [@sec:prepositions-mit-antipassive]). In addition to this *mit* antipassive, there is an applicative diathesis that turns an obligatory location into an accusative, here *Flasche* 'bottle'.
 
 ::: ex
 a. Er füllt den Schnaps in die Flasche.
@@ -2408,7 +2408,7 @@ b. Er vergleicht einen Affen mit mir.
 
 ### [ NAg | NAp ] Possessor-of-accusative to preposition {#sec:prepositions-possessor-to-preposition}
 
-Another 'raised' possessor is the alternation in which the possessor of an accusative can be expressed alternatively with a prepositional phrase [@next a,b]. This is called an "Attribute Object Alternation" in Levin [-@levin1993: 74].
+Another raised possessor is the alternation in which the possessor of an accusative can be expressed alternatively with a prepositional phrase [@next a,b]. This is called an "Attribute Object Alternation" in Levin [-@levin1993: 74].
 
 ::: ex
 a. Ich bewundere seine Ehrlichkeit.

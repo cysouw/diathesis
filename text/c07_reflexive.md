@@ -2,18 +2,18 @@
 
 ## Introduction
 
-In German, reflexive pronouns are easily identified in the third person as *sich*. One of the functions of reflexive pronouns is to indicate reflexive reference, i.e. to mark the identity of two different roles of the verb. But reflexive pronouns have many other functions in German. When using the grammatical term 'reflexive' a distinction has to be made between self-inflicting ~~reflexive reference~~ and other uses of ~~reflexive pronouns~~. 
+In German, reflexive pronouns are easily identified in the third person as *sich*. One of the functions of reflexive pronouns is to indicate reflexive reference, i.e. to mark the identity of two different roles of the verb. But reflexive pronouns have many other functions in German. When using the grammatical term "reflexive" a distinction has to be made between self-inflicting ~~reflexive reference~~ and other uses of ~~reflexive pronouns~~. 
 
-Reflexive reference is typically illustrated with a verb like *waschen* 'to wash' [@next a]. This verb has two roles, the 'washer' and the 'washee'. Crucially, with self-inflicting reflexive reference using *sich* [@next b] these two different roles are still expressed in the sentence. The reflexive pronoun *sich* in [@next b] only indicates that the two roles are performed by the same participant, opposing it *ihn* to [@next a] in which the two roles are performed by different participants. With the reflexive pronoun in [@next b], both roles are still overtly present, so there is no reduction of the valency and there is no grammatical remapping of roles, and thus there is no diathesis in German.
+Reflexive reference is typically illustrated with a verb like *waschen* 'to wash' [@next a]. This verb has two roles, the "washer" and the "washee". Crucially, with self-inflicting reflexive reference using *sich* [@next b] these two different roles are still expressed in the sentence. The reflexive pronoun *sich* in [@next b] only indicates that the two roles are performed by the same participant, opposing it *ihn* to [@next a] in which the two roles are performed by different participants. With the reflexive pronoun in [@next b], both roles are still overtly present, so there is no reduction of the valency and there is no grammatical remapping of roles, and thus there is no diathesis in German.
 
 ::: ex
 a. Er wäscht ihn.
 b. Er wäscht sich.
 :::
 
-From a typological perspective, there is arguably a difference in this respect between languages with a reflexive pronoun strategy, like German, and languages that use a verbal derivation technique for marking self-inflicting reflexive reference [cf. @dixon2014: 172ff.]. For such languages with a derivational strategy, the verb is being marked as 'self-inflicting' and one role is completely dropped. In such languages, it is probably better to analyse self-inflicting reflexive reference as a kind of diathesis.
+From a typological perspective, there is arguably a difference in this respect between languages with a reflexive pronoun strategy, like German, and languages that use a verbal derivation technique for marking self-inflicting reflexive reference [cf. @dixon2014: 172ff.]. For such languages with a derivational strategy, the verb is being marked as "self-inflicting" and one role is completely dropped. In such languages, it is probably better to analyse self-inflicting reflexive reference as a kind of diathesis.
 
-In German, the reflexive pronoun is also used in many other constructions, and most of those show some kind of diathesis, for example an anticausative *sich* in [@next a], see [@sec:reflexive-anticausative] or an antipassive *sich* in [@next b], see [@sec:reflexive-accusative-antipassive]. In these examples, the reflexive pronoun *sich* is not filling any role, but it is marking the valency alternation itself. There is a long tradition to call such constructions ~~middle/medium~~ or *Medialkonstruktion* in German. However, there turns out to be very many different kinds of 'middle' alternations, so I prefer to be more precise in separating and naming them here in this chapter [see also @kunze1997]. To prevent confusion, I will simply not use the term 'middle' at all.
+In German, the reflexive pronoun is also used in many other constructions, and most of those show some kind of diathesis, for example an anticausative *sich* in [@next a], see [@sec:reflexive-anticausative] or an antipassive *sich* in [@next b], see [@sec:reflexive-accusative-antipassive]. In these examples, the reflexive pronoun *sich* is not filling any role, but it is marking the valency alternation itself. There is a long tradition to call such constructions ~~middle/medium~~ or *Medialkonstruktion* in German. However, there turns out to be very many different kinds of "middle" alternations, so I prefer to be more precise in separating and naming them here in this chapter [see also @kunze1997]. To prevent confusion, I will simply not use the term "middle" at all.
 
 ::: ex
 a. Ich schließe den Schrank. \
@@ -74,7 +74,7 @@ As noted above, there are many more prominent diatheses that involve a reflexive
 
 ### Identifying reflexive pronouns
 
-In most situations, the German reflexive pronouns are identical to the regular pronouns as shown in [@tbl:reflexive-pronouns]. Only in the 3rd person there exists a special reflexive pronoun *sich*, both for the singular and the plural. For this reason, I will illustrate reflexive constructions mostly using 3rd person masculine nouns or pronouns with the overtly reflexive pronoun *sich*. As a shorthand, I will often use the word *sich* as a technical term in the meaning 'reflexive pronoun'. 
+In most situations, the German reflexive pronouns are identical to the regular pronouns as shown in [@tbl:reflexive-pronouns]. Only in the 3rd person there exists a special reflexive pronoun *sich*, both for the singular and the plural. For this reason, I will illustrate reflexive constructions mostly using 3rd person masculine nouns or pronouns with the overtly reflexive pronoun *sich*. As a shorthand, I will often use the word *sich* as a technical term in the meaning "reflexive pronoun". 
 
 | Case       | 1 Sing. | 2 Sing. | 3 Sing.    | 1 Plur. | 2 Plur. | 3 Plur.    |
 | :---       | :--     | :--     | :--        | :--     | :--     | :--        |
@@ -288,7 +288,7 @@ c. Ich habe mich zusammen mit meinem Nachbarn betrunken.
 d. Ich habe mich ohne meinen Nachbar betrunken.
 :::
 
-Verbs with reciprocal *mit* are sometimes called 'real' reciprocals [or ~~reciproca tantum~~, @wiemer2007: 467--468] because they can be considered to be inherently reciprocal, although they still can have a singular subject (see [@sec:reflexive-accusative-reciprocal] for the reciprocal constructions with plural subjects).
+Verbs with reciprocal *mit* are sometimes called "real" reciprocals [or ~~reciproca tantum~~, @wiemer2007: 467--468] because they can be considered to be inherently reciprocal, although they still can have a singular subject (see [@sec:reflexive-accusative-reciprocal] for the reciprocal constructions with plural subjects).
 
 There are many verbs with the prefix *ver‑* in this class. Interestingly, many are derived from nominal stems, e.g. *sich verbrüdern* 'to fraternise' is derived from the noun *Bruder* 'brother', see [@sec:preverb-nominal-causative].
 
@@ -552,13 +552,13 @@ c. Ich denke daran, dass du morgen Geburtstag hast.
 
 ## Alternations without diathesis {#sec:reflexive-no-diathesis}
 
-There are three different kinds of alternations involving reflexive pronouns that do not involve any changing of roles (i.e. there is no diathesis). The well-known reflexive constructions ([@sec:reflexive-self-inflicting-accusative]ff.) and reciprocal constructions ([@sec:reflexive-accusative-reciprocal]ff.) are among them. Less widely acknowledged, there are also some verbs that allow for a 'free' reflexive pronoun, to which I will turn first.
+There are three different kinds of alternations involving reflexive pronouns that do not involve any changing of roles (i.e. there is no diathesis). The well-known reflexive constructions ([@sec:reflexive-self-inflicting-accusative]ff.) and reciprocal constructions ([@sec:reflexive-accusative-reciprocal]ff.) are among them. Less widely acknowledged, there are also some verbs that allow for a "free" reflexive pronoun, to which I will turn first.
 
 ### --- Free reflexive pronouns --- {.unnumbered}
 
-Some verbs allow for both a construction with and without *sich*, but there is no difference in the valency between these two constructions. The difference in meaning between the two alternants is small and is in need for more in-depth study in all cases presented below. The name 'free' as used here is probably a misnomer, as the choice is not a completely free choice. However, the difference is small enough to be extremely difficult to determine. Note also that for these verbs a 'free' dative reflexive pronoun only occurs when a full accusative argument is present. 
+Some verbs allow for both a construction with and without *sich*, but there is no difference in the valency between these two constructions. The difference in meaning between the two alternants is small and is in need for more in-depth study in all cases presented below. The name "free" as used here is probably a misnomer, as the choice is not a completely free choice. However, the difference is small enough to be extremely difficult to determine. Note also that for these verbs a "free" dative reflexive pronoun only occurs when a full accusative argument is present. 
 
-This alternation is almost completely ignored in the German grammatical literature. An early discussion of the phenomenon is found in Stötzel [-@stotzel1970: 174--177] and a short note is presented in Wiemer & Nedjalkov [-@wiemer2007: 498]. It is also possible that the occurrence of a 'free' reflexive is a dialectal phenomenon, see e.g. the apparent extension of reflexive usage in Austrian German as observed in Ziegler [-@ziegler2010].  
+This alternation is almost completely ignored in the German grammatical literature. An early discussion of the phenomenon is found in Stötzel [-@stotzel1970: 174--177] and a short note is presented in Wiemer & Nedjalkov [-@wiemer2007: 498]. It is also possible that the occurrence of a "free" reflexive is a dialectal phenomenon, see e.g. the apparent extension of reflexive usage in Austrian German as observed in Ziegler [-@ziegler2010].  
 
 ### [ N | N ] Free accusative reflexive {#sec:reflexive-free}
 
@@ -570,7 +570,7 @@ b. Er kniet sich auf das Kissen.
 c. ^* Er kniet ihn auf das Kissen.
 :::
 
-Covert anticausatives, like with *duschen* 'to shower' (see [@sec:case-haben-anticausative]), might seem to have a 'free' reflexive [@next a,b]. However, the construction with *sich* in [@next b] is just a self-inflicting reflexive of the transitive [@next c].
+Covert anticausatives, like with *duschen* 'to shower' (see [@sec:case-haben-anticausative]), might seem to have a "free" reflexive [@next a,b]. However, the construction with *sich* in [@next b] is just a self-inflicting reflexive of the transitive [@next c].
 
 ::: ex
 a. Ich habe geduscht.
@@ -578,7 +578,7 @@ b. Ich habe mich geduscht.
 c. Ich habe den Elefanten geduscht.
 :::
 
-Similarly, reflexive anticausatives, like *abkühlen* 'to cool' (see [@sec:reflexive-anticausative]), might seem to have a 'free' reflexive [@next a]. However, the two possibilities are clearly distinguished by a different perfect auxiliary [@next b]. Also a transitive variant is possible [@next c]. This all indicates that a verb like *abkühlen* is a reflexive anticausative, and the intransitive construction without *sich* is an anticausative of the transitive (see [@sec:participles-sein-zustandspassiv]).
+Similarly, reflexive anticausatives, like *abkühlen* 'to cool' (see [@sec:reflexive-anticausative]), might seem to have a "free" reflexive [@next a]. However, the two possibilities are clearly distinguished by a different perfect auxiliary [@next b]. Also a transitive variant is possible [@next c]. This all indicates that a verb like *abkühlen* is a reflexive anticausative, and the intransitive construction without *sich* is an anticausative of the transitive (see [@sec:participles-sein-zustandspassiv]).
 
 ::: ex
 a. Die Luft kühlt (sich) ab.
@@ -636,14 +636,14 @@ The verb *drehen* 'to turn' is an interesting case that needs more research. It 
 
 ### [ NP | NP ] Free accusative reflexive+governed preposition {#sec:reflexive-free-preposition}
 
-Although there is definitively a different 'feel' between *streiten* 'to quarrel' with and without *sich* [@next], the difference is difficult to pin down. The sentence without *sich* seems to be more static, describing a fixed situation [@next a], while the variant with *sich* is more dynamic [@next b]. However, whether this is not an accurate description of the (fine) difference between these alternants for all verbs listed below.
+Although there is definitively a different "feel" between *streiten* 'to quarrel' with and without *sich* [@next], the difference is difficult to pin down. The sentence without *sich* seems to be more static, describing a fixed situation [@next a], while the variant with *sich* is more dynamic [@next b]. However, whether this is not an accurate description of the (fine) difference between these alternants for all verbs listed below.
 
 ::: ex
 a. Ich streite mit dir um die Wurst.
 b. Ich streite mich mit dir um die Wurst.
 :::
 
-Covert causatives (see [@sec:prepositions-haben-caused-location] and [-@sec:prepositions-sein-caused-location]) might seem to have a 'free' *sich*, like with *stürzen* 'to tumble' [@next a,b]. However, this is not the case, because the construction with *sich* [@next b] is just the self-inflicting reflexive construction of the transitive [@next c].
+Covert causatives (see [@sec:prepositions-haben-caused-location] and [-@sec:prepositions-sein-caused-location]) might seem to have a "free" *sich*, like with *stürzen* 'to tumble' [@next a,b]. However, this is not the case, because the construction with *sich* [@next b] is just the self-inflicting reflexive construction of the transitive [@next c].
 
 ::: ex
 a. Ich stürze ins Wasser.
@@ -781,7 +781,7 @@ c. Dein Erfolg freut ihn.
 d. Er freut sich über deinen Erfolg
 :::
 
-The crucial difference between a self-inflicting reflexive construction and these other alternations is that with self-inflicting reflexives the argument is simply replaced by the reflexive pronoun, or, in other words, the reflexive pronoun *sich* itself is the argument. So, with verbs like *waschen* 'to wash' in [@llast a,b] above, there is both an agent (the 'washer') and a patient (the 'washee') of the verb. These two roles can be filled by one and the same participant, as marked by the reflexive pronoun. This is not the case with antipassive and anticausative in [@last b,d]. This can be seen by the possibility to retain the original argument as a prepositional phrase in these cases. The pronoun *sich* does not replace any argument here (for more discussion about these alternations, see the respective sections below). 
+The crucial difference between a self-inflicting reflexive construction and these other alternations is that with self-inflicting reflexives the argument is simply replaced by the reflexive pronoun, or, in other words, the reflexive pronoun *sich* itself is the argument. So, with verbs like *waschen* 'to wash' in [@llast a,b] above, there is both an agent (the "washer") and a patient (the "washee") of the verb. These two roles can be filled by one and the same participant, as marked by the reflexive pronoun. This is not the case with antipassive and anticausative in [@last b,d]. This can be seen by the possibility to retain the original argument as a prepositional phrase in these cases. The pronoun *sich* does not replace any argument here (for more discussion about these alternations, see the respective sections below). 
 
 #### Attested verbs {.unnumbered}
 
@@ -1049,7 +1049,7 @@ Such a reciprocal construction necessarily needs a plural subject and can be ide
 
 ### [ NA | Na ] Accusative reciprocal {#sec:reflexive-accusative-reciprocal}
 
-The most typical reciprocal construction arises from a regular transitive verb with a human object, like *achten* 'to respect' [@next a]. Such a reciprocal construction is called 'canonical' by Wiemer & Nedjalkov [-@wiemer2007: 468--470]. Almost all such verbs are in principle ambiguous between a reciprocal and a reflexive reading. The intended reciprocal reading can be forced by adding *gegenseitig* [@next c]. Some verbs, like *achten*, seem to prefer a reciprocal reading. Such verbs typically do not allow for a singular subject [@next b] and *gegenseitig* seems superfluous here [@next c].
+The most typical reciprocal construction arises from a regular transitive verb with a human object, like *achten* 'to respect' [@next a]. Such a reciprocal construction is called "canonical" by Wiemer & Nedjalkov [-@wiemer2007: 468--470]. Almost all such verbs are in principle ambiguous between a reciprocal and a reflexive reading. The intended reciprocal reading can be forced by adding *gegenseitig* [@next c]. Some verbs, like *achten*, seem to prefer a reciprocal reading. Such verbs typically do not allow for a singular subject [@next b] and *gegenseitig* seems superfluous here [@next c].
 
 ::: ex
 - Karl achtet Anna.
@@ -1216,7 +1216,7 @@ d. In diesem Buch handelt es sich darum, dass er eine Weltreise macht.
 
 ### [ NA | –N ] Reflexive anticausative {#sec:reflexive-anticausative}
 
-A widespread phenomenon is the use of reflexive pronouns to mark an anticausative diathesis. For example, when a reflexive pronoun is used with a verb like *schließen* 'to close' [@next a] then it does not have a self-inflicting meaning. This can be shown by the impossibility to add *selbst* [@next b]. This reflexive pronoun induces an 'invisible hand' reading, expressing that the event happened by itself. This can be shown by the sensibility of adding a phrase like *von alleine* 'by itself' [@next c]. The pronoun *sich* is always in the accusative in this diathesis. This alternation appears to be more frequent in the perfect [@next d], because then there is no focus on the action, but on the resulting state.
+A widespread phenomenon is the use of reflexive pronouns to mark an anticausative diathesis. For example, when a reflexive pronoun is used with a verb like *schließen* 'to close' [@next a] then it does not have a self-inflicting meaning. This can be shown by the impossibility to add *selbst* [@next b]. This reflexive pronoun induces an "invisible hand" reading, expressing that the event happened by itself. This can be shown by the sensibility of adding a phrase like *von alleine* 'by itself' [@next c]. The pronoun *sich* is always in the accusative in this diathesis. This alternation appears to be more frequent in the perfect [@next d], because then there is no focus on the action, but on the resulting state.
 
 ::: ex
 a. Ich schließe die Tür. \
@@ -1631,7 +1631,7 @@ These accusative-to-nominative alternations are ongoing replacements of old-fash
 
 ### [ NA | N–] Reflexive accusative drop {#sec:reflexive-accusative-drop}
 
-On first notice, examples like *sich äußern* 'to speak out' [@next a,b] look very much like a self-inflicted ('reflexive') alternation (see [@sec:reflexive-self-inflicting-accusative]). However, in this case the reflexive *sich* pronoun in [@next b] does not have the same role as the accusative argument in [@next a]. This can be shown syntactically by the impossibility of the coordination in [@next c].
+On first notice, examples like *sich äußern* 'to speak out' [@next a,b] look very much like a self-inflicted ("reflexive") alternation (see [@sec:reflexive-self-inflicting-accusative]). However, in this case the reflexive *sich* pronoun in [@next b] does not have the same role as the accusative argument in [@next a]. This can be shown syntactically by the impossibility of the coordination in [@next c].
 
 ::: ex
 a. Er äußert sein Bedauern über den Fall.
@@ -1639,7 +1639,7 @@ b. Er äußert sich über den Fall.
 c. ^* Er äußert sich und sein Bedauern über den Fall.
 :::
 
-The term ~~autocausative~~ is used by Geniušiené [-@geniusiene1987: 183--184, 198--200; see also @wiemer2007: 464] to describe this particular usage of a reflexive pronoun. Haspelmath [-@haspelmath1987: 27--28] calls it ~~endoreflexive~~. I prefer the term endoreflexive as it mnemonically includes the term 'reflexive'. Cross-linguistically, endoreflexives are typically found with verbs that describe an action that is performed with the body, like *verstecken* 'to hide' [@next]. However, for the German verb *verstecken* it remains an open question whether these constructions are really different from self-inflicted reflexive constructions. Specifically, the coordination seems to be perfectly possible [@next c-e].
+The term ~~autocausative~~ is used by Geniušiené [-@geniusiene1987: 183--184, 198--200; see also @wiemer2007: 464] to describe this particular usage of a reflexive pronoun. Haspelmath [-@haspelmath1987: 27--28] calls it ~~endoreflexive~~. I prefer the term endoreflexive as it mnemonically includes the term "reflexive". Cross-linguistically, endoreflexives are typically found with verbs that describe an action that is performed with the body, like *verstecken* 'to hide' [@next]. However, for the German verb *verstecken* it remains an open question whether these constructions are really different from self-inflicted reflexive constructions. Specifically, the coordination seems to be perfectly possible [@next c-e].
 
 ::: ex
 a. Er versteckt das Geschenk.
@@ -1735,7 +1735,7 @@ c. Ich konzentriere mich darauf, das Spiel zu gewinnen.
 
 ### [ NA | Np] Reciprocal antipassive {#sec:reflexive-mit-antipassive}
 
-Reflexive antipassive verbs like *treffen* 'to meet' [@next a,b] change an accusative argument to a non-governed prepositional phrase with *mit* [@next c]. Semantically, this diathesis changes the action from a one-sided perspective towards a more reciprocal perspective. The resulting construction of this diathesis is reminiscent of the 'real reciprocal' construction (see [@sec:reflexive-real-reciprocals]).
+Reflexive antipassive verbs like *treffen* 'to meet' [@next a,b] change an accusative argument to a non-governed prepositional phrase with *mit* [@next c]. Semantically, this diathesis changes the action from a one-sided perspective towards a more reciprocal perspective. The resulting construction of this diathesis is reminiscent of the "real reciprocal" construction (see [@sec:reflexive-real-reciprocals]).
 
 ::: ex
 a. Ich treffe dich.
@@ -1769,11 +1769,11 @@ b. Du befreundest ihn.^[Attested online at <http://hundewelt.info/affenpinscher/
 
 ### [ NA | NP ] Reflexive governed antipassive {#sec:reflexive-accusative-antipassive}
 
-The *sich* counterpart of the transitive *beklagen* 'to lament' [@next a,b] is somewhat alike to an intransitive action that has a reflexive pronoun attached. There is no semantic 'self-inflicting' reflexivity whatsoever in the expression, i.e. the complaining in [@next b] does not mean 'I complain about myself' (i.e. adding *selbst* is not possible). The complaint is still about *Lärm* 'noise'. 
+The *sich* counterpart of the transitive *beklagen* 'to lament' [@next a,b] is somewhat alike to an intransitive action that has a reflexive pronoun attached. There is no semantic "self-inflicting" reflexivity whatsoever in the expression, i.e. the complaining in [@next b] does not mean 'I complain about myself' (i.e. adding *selbst* is not possible). The complaint is still about *Lärm* 'noise'. 
 
 Formally, the object of the complaint is demoted from an accusative [@next a], which is obligatory [@next c], to a prepositional phrase [@next b] that can be dropped [@next d]. Note that without the prepositional phrase [@next d] the expression is indeed ambiguous between a real reflexive meaning ('I complain about myself') and a non-reflexive reading ('I am complaining'). All prepositional phrases of the verbs in this section are governed prepositions [@next e].
  
-Wiemer and Nedjalkov [-@wiemer2007: 464--465] call such verbs 'deaccusatives' and consider them to be 'extremely rare' in German (which they are not). It is an open question why some verbs take such a reflexive antipassive, while other take a simple antipassive without reflexive pronoun (as discussed in [@sec:prepositions-accusative-antipassive]). For a typological survey of such antipassive uses of reflexive markers, see Janic [-@janic2010].
+Wiemer and Nedjalkov [-@wiemer2007: 464--465] call such verbs "deaccusatives" and consider them to be "extremely rare" in German (which they are not). It is an open question why some verbs take such a reflexive antipassive, while other take a simple antipassive without reflexive pronoun (as discussed in [@sec:prepositions-accusative-antipassive]). For a typological survey of such antipassive uses of reflexive markers, see Janic [-@janic2010].
 
 ::: ex
 a. Ich beklage den Lärm.
@@ -1827,7 +1827,7 @@ e. Ich beklage mich darüber, dass es so laut ist.
 
 #### Notes {.unnumbered}
 
-There are two different roles with *entscheiden* that both allow for an antipassive alternation with a reflexive pronoun, both for the roles of the 'problem', alternating with *bei* [@next a] and for the role of the 'solution', alternating with *für* [@next b].
+There are two different roles with *entscheiden* that both allow for an antipassive alternation with a reflexive pronoun, both for the roles of the "problem", alternating with *bei* [@next a] and for the role of the "solution", alternating with *für* [@next b].
 
 ::: ex
 a. Der Richter entschied den Streit. \
@@ -1912,7 +1912,7 @@ Although not all verbs listed below are strictly intransitive (e.g. *essen, trin
 
 #### Notes {.unnumbered}
 
-The movement verb *schleichen* 'to sneak' [@next a] allows for a regular non-reflexive manner-of-movement diathesis [@next b], see [@sec:prepositions-manner-of-movement]. However, curiously, it also allows for a reflexive manner-of-movement diathesis as discussed in this section [@next c]. There is a subtle difference in meaning between these two uses that is not trivial to pin down. The example with the movement verb *schwimmen* 'to swim' [@nnext] suggests that with a reflexive pronoun the 'movement' can be more metaphorical.
+The movement verb *schleichen* 'to sneak' [@next a] allows for a regular non-reflexive manner-of-movement diathesis [@next b], see [@sec:prepositions-manner-of-movement]. However, curiously, it also allows for a reflexive manner-of-movement diathesis as discussed in this section [@next c]. There is a subtle difference in meaning between these two uses that is not trivial to pin down. The example with the movement verb *schwimmen* 'to swim' [@nnext] suggests that with a reflexive pronoun the "movement" can be more metaphorical.
 
 ::: ex
 a. Ich habe geschlichen.

@@ -234,7 +234,7 @@ Den Kauffleuthen vnd Bawren gehört zu trawen vnd glauben zu halten mit dem gros
 
 The verb *suchen* 'to search' has a special usage with a *zu‑In­fi­ni­tiv* expressing the meaning 'to attempt to do something' [@next a]. In this usage, the meaning of *suchen* is very close to the meaning of *versuchen* 'to try'. It seems to be restricted to a high-education written register in German. Crucially, in this meaning the verb *suchen* is a light verb because the construction *suchen+zu‑In­fi­ni­tiv* is obligatorily coherent [@next b,c]. Note that the semantically similar lexical verb *versuchen* is not obligatorily coherent.
 
-There is an old tradition in Latin grammar to describe one of the possible meanings of the Latin present tense as a 'conative present' (from Lat. *conor* 'to try') when it should be translated as an attempted action. Thus, it seems fitting to call the *suchen+zu‑In­fi­ni­tiv* diathesis a ~~conative~~.
+There is an old tradition in Latin grammar to describe one of the possible meanings of the Latin present tense as a "conative present" (from Lat. *conor* 'to try') when it should be translated as an attempted action. Thus, it seems fitting to call the *suchen+zu‑In­fi­ni­tiv* diathesis a ~~conative~~.
 
 ::: ex
 - Skrupulös, vorsichtig und diszipliniert sucht Lindner deren Fehler zu vermeiden.^[~~DWDS~~: Die Zeit, 27.11.2017, Nr. 48.]
@@ -386,7 +386,7 @@ The *sein+zu‑In­fi­ni­tiv* construction is typically used with transitive v
 
 ### [ NP | –P ] *sein+zu‑In­fi­ni­tiv* Impersonal+governed preposition
 
-It is slightly more common to find impersonal *sein+zu‑In­fi­ni­tiv* constructions with governed prepositions, though this usage is still very rare [@next]. Note that the original nominative subject cannot be retained in another form, and it is not replaced by a valency-simulating pronoun *es*. Because of the parallel to the *Modalpassiv* (see [@sec:zuinfinitiv-sein-passive]) I will call this diathesis ~~unpersönlicher Modalpassiv~~, although the name 'passive' is actually not fitting in this case. Just as with the *Modalpassiv*, this construction can have either a deontic *müssen* interpretation [@next a] or a dynamic *können* meaning [@next b], the latter typically with negation.
+It is slightly more common to find impersonal *sein+zu‑In­fi­ni­tiv* constructions with governed prepositions, though this usage is still very rare [@next]. Note that the original nominative subject cannot be retained in another form, and it is not replaced by a valency-simulating pronoun *es*. Because of the parallel to the *Modalpassiv* (see [@sec:zuinfinitiv-sein-passive]) I will call this diathesis ~~unpersönlicher Modalpassiv~~, although the name "passive" is actually not fitting in this case. Just as with the *Modalpassiv*, this construction can have either a deontic *müssen* interpretation [@next a] or a dynamic *können* meaning [@next b], the latter typically with negation.
 
 ::: ex
 - Auf Ernst war wie immer lange zu warten.^[@holl2010: 18]
@@ -550,7 +550,7 @@ There is a special idiomatic construction *~~verb~~, was zu ~~verb~~ ging* [@nex
 
 ### [ NA | pN ] *sein+zu‑In­fi­ni­tiv* Passive (*Modalpassiv*) {#sec:zuinfinitiv-sein-passive}
 
-When used with transitive verbs, the *sein+zu‑In­fi­ni­tiv* construction is a passive diathesis with a modal meaning. A passive is defined here as a promotion of the accusative object to nominative subject and the demotion (and possibly complete deletion) of the original subject. Authors that argue against a passive status for this construction simply use other criteria for what counts as 'passive' [cf. @holl2010: 19].
+When used with transitive verbs, the *sein+zu‑In­fi­ni­tiv* construction is a passive diathesis with a modal meaning. A passive is defined here as a promotion of the accusative object to nominative subject and the demotion (and possibly complete deletion) of the original subject. Authors that argue against a passive status for this construction simply use other criteria for what counts as "passive" [cf. @holl2010: 19].
 
 Depending on the context, various modal interpretations are possible for the *sein+zu‑In­fi­ni­tiv* construction, as illustrated in [@next]. These examples show a *müssen* interpretation in [@next a], a *dürfen* interpretation in [@next b], a *können* interpretation in [@next c] and a *nicht brauchen* interpretation in [@next d]. The *müssen* and *können* interpretations appear to be the most frequent.
 
@@ -671,7 +671,7 @@ Not attested.
 
 The *bleiben+zu‑In­fi­ni­tiv* diathesis shows many intricate details that are in need of a much deeper investigation than I can offer here. I have only been able to find a few short discussions of this construction in the literature, none of which go into much detail [@hohle1978: 48--50; @engel1996: 478--479; @colomo2010: 196--197].
 
-Basically, this diathesis is an passive-like construction, with the accusative being promoted to nominative subject. However, different from a passive, the original subject can be retained as a dative [@next a]. For that reason this diathesis is classified as an ~~inversive~~. Because the demotion (nominative to dative) is 'larger' than the promotion (accusative to nominative), this diathesis can be considered a 'demoted' inversive. Just like all diatheses, this construction is coherent [@next b]. 
+Basically, this diathesis is an passive-like construction, with the accusative being promoted to nominative subject. However, different from a passive, the original subject can be retained as a dative [@next a]. For that reason this diathesis is classified as an ~~inversive~~. Because the demotion (nominative to dative) is "larger" than the promotion (accusative to nominative), this diathesis can be considered a "demoted" inversive. Just like all diatheses, this construction is coherent [@next b]. 
 
 Semantically, this diathesis expresses that (some part of) the grammatical patient is still left over to be applied to the verb, so there is something still to be considered. For this reason I propose to use the German name ~~Restinversiv~~ for this diathesis.
 

@@ -183,9 +183,9 @@ Combinations of *da(r)‑* with prepositions mostly concern so-called correlativ
 - Ich schreibe meinen Namen unter den Brief. \
   Ich schreibe meinen Namen darunter.
 - Ich laufe davon. \
-  (= Ich laufe 'von Zuhause'.)
+  (= Ich laufe "von Zuhause".)
 - Ich rede dazwischen. \
-  (= Ich rede 'zwischen den Anderen'.)
+  (= Ich rede "zwischen den Anderen".)
 :::
 
 There are also various preverbials that are combinations of *vor‑* with prepositions (e.g. *voran-, voraus-, vorbei-*) that need a more details investigation. 
@@ -521,7 +521,7 @@ e. ^* Die Aufgabe fällt mir.
 
 ### [ D ] Dative+evaluative {#sec:adverbial-dative}
 
-Because there is no nominative argument in this special construction with *gehen*, meaning approximately 'to cope with life' [@next a], a non-phoric *es* pronoun is necessary. Note that the same meaning of *gehen* also occurs in other impersonal constructions, see [@sec:adverbial-nominative-drop]. Without the adverbial there is a conversational implicature that one is coping 'so-so' with life [@next b]. Without the dative it seems like the pronoun *es* is always referential, though the reference is often implicit. For example, in [@next c] the pronoun *es* seems to refer to something like 'the using of the foot' (see also [@sec:adverbial-nominative-drop]).
+Because there is no nominative argument in this special construction with *gehen*, meaning approximately 'to cope with life' [@next a], a non-phoric *es* pronoun is necessary. Note that the same meaning of *gehen* also occurs in other impersonal constructions, see [@sec:adverbial-nominative-drop]. Without the adverbial there is a conversational implicature that one is coping "so-so" with life [@next b]. Without the dative it seems like the pronoun *es* is always referential, though the reference is often implicit. For example, in [@next c] the pronoun *es* seems to refer to something like "the using of the foot" (see also [@sec:adverbial-nominative-drop]).
 
 ::: ex
 - Mir geht es gut.
@@ -574,7 +574,7 @@ Second, the addition of a resultative preverbial regularly leads to a diathesis 
 
 The preverbial *los‑* can be used without any diathesis. In that usage *los‑* is a preverbial, but it is not a resultative preverbial (cf. [@sec:adverbial-resultative-predicates]). As a non-resultative preverbial *los‑* indicates that an activity is starting, i.e. it marks an inchoative aspect, like with *losrennen* 'to start running' [@next a]. An early discussion of this inchoative aspect of *los‑* is presented by Storch [-@storch1978: 113--126]. 
 
-This inchoative *los‑* is clearly different from a diathesis marking 'detachment' that is also marked with *los‑* [@next b], as discussed in detail in [@sec:adverbial-antiresultative]. Diachronically, both uses of the preverbial *los‑* are related to an older meaning of the adjective *los*, namely 'free'. In contemporary German the adjective *los* basically means 'loose', which is not transparently related anymore to the inchoative meaning [@next a], only to the detachment meaning [@next b].
+This inchoative *los‑* is clearly different from a diathesis marking "detachment" that is also marked with *los‑* [@next b], as discussed in detail in [@sec:adverbial-antiresultative]. Diachronically, both uses of the preverbial *los‑* are related to an older meaning of the adjective *los*, namely 'free'. In contemporary German the adjective *los* basically means 'loose', which is not transparently related anymore to the inchoative meaning [@next a], only to the detachment meaning [@next b].
 
 ::: ex
 a. Der Junge rennt. \
@@ -1018,7 +1018,7 @@ b. Die Badewanne läuft voll (mit Wasser).
 
 #### Notes {.unnumbered}
 
-The verb *saugen* 'to suck' [@next] shows an interesting stack of diatheses (see [@sec:intro-stacking] on the notion of a 'stack'). There are three roles involved, (i) the 'sucker' agent (*Kind* 'child') that does the sucking, (ii) the 'suckee' liquid (*Milch* 'milk') that is being absorbed and (iii) the container, *Tuch* 'cloth' that holds the liquid. Note that the choice of container in this example is slightly unusual to make the stack of diatheses clearer. The stack starts off with a basic intransitive construction [@next a], which leads via a caused motion diathesis [@next b] and a reflexive anticausative diathesis [@next c] to the current resultative location anticausative diathesis [@next d].
+The verb *saugen* 'to suck' [@next] shows an interesting stack of diatheses (see [@sec:intro-stacking] on the notion of a "stack"). There are three roles involved, (i) the "sucker" agent (*Kind* 'child') that does the sucking, (ii) the "suckee" liquid (*Milch* 'milk') that is being absorbed and (iii) the container, *Tuch* 'cloth' that holds the liquid. Note that the choice of container in this example is slightly unusual to make the stack of diatheses clearer. The stack starts off with a basic intransitive construction [@next a], which leads via a caused motion diathesis [@next b] and a reflexive anticausative diathesis [@next c] to the current resultative location anticausative diathesis [@next d].
 
 ::: ex
 - Das Kind saugt an dem Tuch.
@@ -1050,7 +1050,7 @@ The diathesis in [@next] with weather verbs like *schneien* 'to snow' is a rare 
 
 ### [ NA | N– ] Accusative drop+evaluative {#sec:adverbial-action-focus}
 
-Many transitive verbs can be used without an accusative object. However, with some verbs such a deaccusative comes easier than for others. Real ambitransitive verbs that occur both as transitive and as intransitive, but without needing any extra marking in the intransitive, are discussed in [@sec:case-accusative-drop]. In contrast, for many other transitive verbs, like *sehen* 'to see' [@next a], the drop of the accusative is highly restricted. It might be possible in an ability setting, meaning something like 'I am able to see' [@next b]. In such an intended meaning, what seems to happen is that the focus of the utterance becomes the action itself, i.e. the 'seeing'. However, this makes much more sense with the addition of a specification of the action by an adverbial [@next c]. It is currently unclear to me, whether this is simply a pragmatic effect or whether this amounts to a real diathesis.
+Many transitive verbs can be used without an accusative object. However, with some verbs such a deaccusative comes easier than for others. Real ambitransitive verbs that occur both as transitive and as intransitive, but without needing any extra marking in the intransitive, are discussed in [@sec:case-accusative-drop]. In contrast, for many other transitive verbs, like *sehen* 'to see' [@next a], the drop of the accusative is highly restricted. It might be possible in an ability setting, meaning something like 'I am able to see' [@next b]. In such an intended meaning, what seems to happen is that the focus of the utterance becomes the action itself, i.e. the seeing. However, this makes much more sense with the addition of a specification of the action by an adverbial [@next c]. It is currently unclear to me, whether this is simply a pragmatic effect or whether this amounts to a real diathesis.
 
 ::: ex
 a. Ich sehe das Haus.
@@ -1178,7 +1178,7 @@ The same diathesis is also attested with the resultative *frei‑* 'free'. This 
 
 ### [ NLA | NAp ] *voll‑* Object exchange {#sec:adverbial-applicative-voll}
 
-This diathesis is yet another kind of object exchange, i.e. it is a diathesis in which the role marked as accusative is changed between the alternants. The current variant is always marked with the resultative preverb *voll‑* and is an example of the ~~filled holonym~~ object exchange (cf. [@sec:intro-demoted-object-exchange]). The new object after the diathesis is a holonym ('whole') that is filled with the original meronymic object ('part'). When not marked as accusative, the preposition used with the holonym is either *in, an* or *auf*. The preposition for the meronym is always *mit*. There is a parallel diathesis the preverbs, discussed in detail in [@sec:preverb-applicative-antipassive].
+This diathesis is yet another kind of object exchange, i.e. it is a diathesis in which the role marked as accusative is changed between the alternants. The current variant is always marked with the resultative preverb *voll‑* and is an example of the ~~filled holonym~~ object exchange (cf. [@sec:intro-demoted-object-exchange]). The new object after the diathesis is a holonym ("whole") that is filled with the original meronymic object ("part"). When not marked as accusative, the preposition used with the holonym is either *in, an* or *auf*. The preposition for the meronym is always *mit*. There is a parallel diathesis the preverbs, discussed in detail in [@sec:preverb-applicative-antipassive].
 
 An example is the verb *schenken* 'to pour' and the alternant *vollschenken* 'to pour until full'. Before the diathesis, the moved substance (here *Wein* 'wine') is marked as an accusative object and the container (here *Glas* 'glass') is expressed as an obligatory prepositional phrase [@next a,b]. After the diathesis, the verb *vollschenken* [@next c] marks the container as the accusative object (*Glas*) and the moved substance (*Wein*) is expressed with a *mit* prepositional phrase, or dropped completely. The verbs that allow for this diathesis describe an action in which a container is filled with a moved substance, so the new accusative after the diathesis is the filled holonym. This diathesis is typically stacked with a subsequent possessor-of-accusative dative [@next c], see [@sec:case-possessor-accusative-to-dative], which can also be a self-inflicting reflexive pronoun [@next d], see [@sec:reflexive-dative-accusative].
 
@@ -1190,7 +1190,7 @@ c. Ich schenke ihm das ('sein') Glas voll.
 d. Er schenkt sich das ('sein') Glas voll.
 :::
 
-A second group of verbs that allow for this object exchange are verbs that describe 'filling' some kind of canvas, i.e. writing, painting, etc. For example, the verb *malen* 'to paint' [@next a] marks the role of the painting as an accusative object (here *Porträt* 'portrait'), and the role of the canvas is expressed with an *auf* prepositional phrase (here *Leinwand* 'canvas'). The preverbial *vollmalen* 'to paint out completely' [@next b] reverses the marking of these two roles. Different from the previous verb of filling a container, the prepositional phrase for the canvas in [@next a] is not obligatory.
+A second group of verbs that allow for this object exchange are verbs that describe filling some kind of canvas, i.e. writing, painting, etc. For example, the verb *malen* 'to paint' [@next a] marks the role of the painting as an accusative object (here *Porträt* 'portrait'), and the role of the canvas is expressed with an *auf* prepositional phrase (here *Leinwand* 'canvas'). The preverbial *vollmalen* 'to paint out completely' [@next b] reverses the marking of these two roles. Different from the previous verb of filling a container, the prepositional phrase for the canvas in [@next a] is not obligatory.
 
 ::: ex
 - Ich habe ein Porträt (auf eine Leinwand) gemalt.
@@ -1238,7 +1238,7 @@ c. Ich binde den Hund von der Leine los.
 d. Ich binde den Hund los.
 :::
 
-A different group of 'excavation' verbs can be combined with the resultative *frei-*. They show syntactically exactly the same delocative diathesis as before. For example, the verb *bohren* 'to drill' can be used in a caused-movement construction with an obligatory accusative and location [@next a,b]. In contrast, with the resultative *freibohren* 'to drill free' the location is not obligatory anymore [@next c,d].
+A different group of "excavation" verbs can be combined with the resultative *frei-*. They show syntactically exactly the same delocative diathesis as before. For example, the verb *bohren* 'to drill' can be used in a caused-movement construction with an obligatory accusative and location [@next a,b]. In contrast, with the resultative *freibohren* 'to drill free' the location is not obligatory anymore [@next c,d].
 
 ::: ex
 - Sie haben die Bergleute aus der Höhle gebohrt.
@@ -1247,7 +1247,7 @@ A different group of 'excavation' verbs can be combined with the resultative *fr
 - Sie haben die Bergleute freigebohrt.
 :::
 
-The preverbial *los‑* is also attested with some verbs that cause something else to move. Although this diathesis is syntactically the same delocative diathesis as with *binden* above, semantically this 'cause to move' construction is closer to the inchoative usage of *los‑* (see [@sec:adverbial-inchoative-los]). This typically applies to verbs of sending, like *schicken* 'to send' [@next a]. However, also verbs with a caused-movement diathesis, like *klopfen* 'to knock' [@next b] allow for this inchoative usage of *los‑* (cf. [@sec:prepositions-intransitive-location-as-result]).
+The preverbial *los‑* is also attested with some verbs that cause something else to move. Although this diathesis is syntactically the same delocative diathesis as with *binden* above, semantically this "cause to move" construction is closer to the inchoative usage of *los‑* (see [@sec:adverbial-inchoative-los]). This typically applies to verbs of sending, like *schicken* 'to send' [@next a]. However, also verbs with a caused-movement diathesis, like *klopfen* 'to knock' [@next b] allow for this inchoative usage of *los‑* (cf. [@sec:prepositions-intransitive-location-as-result]).
 
 ::: ex
 - Ich schicke den Brief nach Amerika. \
@@ -1556,7 +1556,7 @@ The verb *reden* 'to talk' is listed here in a special variant, namely *heißred
 
 ### [ NA– | NpA ] *fest‑* Object exchange {#sec:adverbial-fest}
 
-This diathesis is yet another kind of object exchange, namely a ~~joined meronym~~. This is basically the reversal of the filled-holonym object exchange in [@sec:adverbial-applicative-voll]. This diathesis applies to verbs of connection. After the diathesis the new accusative object is a component part ('meronym') that is attached to the old accusative object ('holonym'). For example, the verb *nähen* 'to sew' takes an accusative object in the role of 'sewee' (i.e. the thing that is being sewn together). However, there is a resultative diathesis *festnähen* 'to attach by sewing' [@next b] that produces a sentence in which the accusative encodes another role, namely the attached object (here *Knopf* 'button') that is joined to something else by sewing (here *Hose* 'trousers'). This attachment location is marked by an *an* or *in* prepositional phrase, and it is optional [@next c]. This joined-meronym diathesis is similar to the diatheses discussed in [@sec:prepositions-partitive-free; @sec:preverb-applicative-in-antipassive]. 
+This diathesis is yet another kind of object exchange, namely a ~~joined meronym~~. This is basically the reversal of the filled-holonym object exchange in [@sec:adverbial-applicative-voll]. This diathesis applies to verbs of connection. After the diathesis the new accusative object is a component part ("meronym") that is attached to the old accusative object ("holonym"). For example, the verb *nähen* 'to sew' takes an accusative object in the role of "sewee" (i.e. the thing that is being sewn together). However, there is a resultative diathesis *festnähen* 'to attach by sewing' [@next b] that produces a sentence in which the accusative encodes another role, namely the attached object (here *Knopf* 'button') that is joined to something else by sewing (here *Hose* 'trousers'). This attachment location is marked by an *an* or *in* prepositional phrase, and it is optional [@next c]. This joined-meronym diathesis is similar to the diatheses discussed in [@sec:prepositions-partitive-free; @sec:preverb-applicative-in-antipassive]. 
 
 ::: ex
 - Er näht eine Hose.

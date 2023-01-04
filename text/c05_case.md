@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Diathesis typically involves variation in the marking of case as governed by the verb, including alternations between case marked arguments and adpositional phrases. The notion of 'flagging' was (re)introduced in Haspelmath [-@haspelmath2005d: 2] as a cover term to capture the intuition that case marking and adpositional marking express very similar functions in linguistic marking. The first two data chapters in this book discuss exactly those kind of marking, viz. case and adpositional marking as governed by a verb. This chapter discusses diatheses involving case-marked constituents, and the next chapter focusses on prepositional constituents.
+Diathesis typically involves variation in the marking of case as governed by the verb, including alternations between case marked arguments and adpositional phrases. The notion of "flagging" was (re)introduced in Haspelmath [-@haspelmath2005d: 2] as a cover term to capture the intuition that case marking and adpositional marking express very similar functions in linguistic marking. The first two data chapters in this book discuss exactly those kind of marking, viz. case and adpositional marking as governed by a verb. This chapter discusses diatheses involving case-marked constituents, and the next chapter focusses on prepositional constituents.
 
 All diatheses in this chapter are ~~covert~~ diatheses. Covert case-marking diatheses are characterised by (a) one and the same verb that can be used with different case-marked roles and, crucially, (b) the fact that there is no additional overt morphosyntactic marking of the alternating constructions. Such alternations include, for example, possessor raising like [@next a] or anticausative alternations like [@next b].
 
@@ -13,7 +13,7 @@ b. Die Sonne verbrennt den Rasen. \
    Der Rasen verbrennt.
 :::
 
-The crucial (and somewhat problematic) aspect of such alternations is that there is no formal indication of the presence of a diathesis, except for the marking of the arguments themselves. Prototypical examples of diathesis (as defined in [@sec:intro-basic-definition]) include some overt linguistic marking that indicates that a diathesis has taken place (i.e. some affix, particle, light verb, or other morphosyntactic means). And indeed, all diatheses that will be discussed in Chapters 7-13 will be of that kind. In contrast, the diatheses discussed in this chapter and the next Chapter 6 are 'covert' alternations, or 'zero marked' alternations, in that there is no other indication of a diathesis, except for the marking of the arguments themselves [@zuniga2019 introduce the term 'covert' diathesis for this]. The problem with such covert diatheses is that there is no overt directionality in the alternation -- there is no way to distinguish between a base form and a derived form. Both alternants have an equal status as far as the morphosyntax is concerned. Still, I have attempted to infer a direction based on parallels to other diatheses.
+The crucial (and somewhat problematic) aspect of such alternations is that there is no formal indication of the presence of a diathesis, except for the marking of the arguments themselves. Prototypical examples of diathesis (as defined in [@sec:intro-basic-definition]) include some overt linguistic marking that indicates that a diathesis has taken place (i.e. some affix, particle, light verb, or other morphosyntactic means). And indeed, all diatheses that will be discussed in Chapters 7-13 will be of that kind. In contrast, the diatheses discussed in this chapter and the next Chapter 6 are "covert" alternations, or "zero marked" alternations, in that there is no other indication of a diathesis, except for the marking of the arguments themselves [@zuniga2019 introduce the term "covert" diathesis for this]. The problem with such covert diatheses is that there is no overt directionality in the alternation -- there is no way to distinguish between a base form and a derived form. Both alternants have an equal status as far as the morphosyntax is concerned. Still, I have attempted to infer a direction based on parallels to other diatheses.
 
 The unmarked nature of covert diatheses implies that there is some slight redundancy and fuzziness in presentation. This redundancy arises because, for example, when a verb occurs in four different constructions, then there are logically six different alternations. I have nonetheless decided to approach the descriptive organisation in this chapter from the perspective of such pairwise alternations, because (i) it highlights the possible connections attested between constructions, and (ii) very many verbs only occur in just one or two alternations anyway (with only a smaller subset of verbs appearing across many different constructions).
 
@@ -85,13 +85,13 @@ a. Er hat einen gesunden Schlaf geschlafen.
 b. Er hat viele Träume geträumt.
 :::
 
-This construction is known as a 'cognate object' construction [e.g. @levin1993: 95--96], because the object is etymologically related to the verb. In many cases, this cognate object is simply a zero nominalisation (conversion) of the verb stem (e.g. *schlafen – der Schlaf*, 'to sleep – the sleep'), but in some cases different nominalisations like the infinitive are used (e.g. *lächeln – das Lächeln*, 'to smile – the smile').
+This construction is known as a ~~cognate object~~ construction [e.g. @levin1993: 95--96], because the object is etymologically related to the verb. In many cases, this cognate object is simply a zero nominalisation (conversion) of the verb stem (e.g. *schlafen – der Schlaf*, 'to sleep – the sleep'), but in some cases different nominalisations like the infinitive are used (e.g. *lächeln – das Lächeln*, 'to smile – the smile').
 
 Examples like [@last a,b] seem to suggest that intransitive verbs like *schlafen* 'to sleep' and *träumen* 'to dream' allow for accusative arguments. However, besides these cognate objects there are no other accusative arguments allowed with these verbs. Further, such cognate objects seem to be theoretically possible for all verbs, though often quite some imagination is needed to find a suitable context to use verb and nominalised verb together. Because of their special status, such cognate object nominalisations are not counted as regular arguments here.
 
 ### Lexicalised noun-verb combinations {#sec:case-incorporation}
 
-There is a common pattern in German in which nouns are combined with a verb, like *eislaufen* 'ice skating'. Such constructions are highly reminiscent of the typologically widespread process of noun incorporation. However, in German such noun incorporation only occurs with individual lexeme combinations, so they are probably better interpreted as grammaticalised noun-verb collocations [@eisenberg2006: 339ff.; @gallmann1999]. For a survey of different kinds of noun incorporation see Berik & Gehrke [-@berik2015]. Using their terminology, the German constructions might be analysed as 'pseudo' incorporation.
+There is a common pattern in German in which nouns are combined with a verb, like *eislaufen* 'ice skating'. Such constructions are highly reminiscent of the typologically widespread process of noun incorporation. However, in German such noun incorporation only occurs with individual lexeme combinations, so they are probably better interpreted as grammaticalised noun-verb collocations [@eisenberg2006: 339ff.; @gallmann1999]. For a survey of different kinds of noun incorporation see Berik & Gehrke [-@berik2015]. Using their terminology, the German constructions might be analysed as "pseudo" incorporation.
 
 Most such combinations are written as separate words in German orthography, e.g. *Wache stehen* 'stand guard', so they might look like nominal arguments. However, they normally do not allow for any determiners or modifiers [@next a]. Only very few fixed combinations allow for an adjective [@next b] and/or a determiner [@next c].
 
@@ -137,7 +137,7 @@ c. Gestern hat es riesengroße Körner gehagelt.
 
 ### [ N ] Nominative {#sec:case-nominative}
 
-Some verbs only allow a nominative argument, which necessarily also shows agreement with the finite verb. Such verbs are traditionally called 'intransitive'. The verbs discussed in this section are strictly intransitive, in that they do not allow for any other case marked arguments or governed prepositions (see [@sec:prepositions-delimiting-governed-prepositional-phrases]). Intransitive verbs, of course, allow for additional non-governed prepositional phrases, e.g. locational [@next a] or temporal [@next b], instrumental/comitative with *mit* [@next c,d], or beneficiary/goal with *für* [@next e,f].
+Some verbs only allow a nominative argument, which necessarily also shows agreement with the finite verb. Such verbs are traditionally called "intransitive". The verbs discussed in this section are strictly intransitive, in that they do not allow for any other case marked arguments or governed prepositions (see [@sec:prepositions-delimiting-governed-prepositional-phrases]). Intransitive verbs, of course, allow for additional non-governed prepositional phrases, e.g. locational [@next a] or temporal [@next b], instrumental/comitative with *mit* [@next c,d], or beneficiary/goal with *für* [@next e,f].
 
 ::: ex
 a. Er reist immer in die Berge.
@@ -162,7 +162,7 @@ An attempt has been made below to classify the strictly intransitive verbs into 
 
 #### Notes {.unnumbered}
 
-Some of the 'housing' verbs allow for accusative arguments in non-housing related meanings, like *ausziehen* 'to undress' [@next a], *einziehen* 'to build' [@next b], *aufziehen* 'to build' [@next c] or *wegziehen* 'to pull away' [@next d].
+Some of the verbs of housing allow for accusative arguments in non-housing related meanings, like *ausziehen* 'to undress' [@next a], *einziehen* 'to build' [@next b], *aufziehen* 'to build' [@next c] or *wegziehen* 'to pull away' [@next d].
 
 ::: ex
 - Ich ziehe meine Hose aus.
@@ -173,9 +173,9 @@ Some of the 'housing' verbs allow for accusative arguments in non-housing relate
 
 ### [ NA ] Nominative+accusative
 
-The verbs in this class are strict transitives: they need a nominative subject argument and an additional accusative argument. Further arguments are not allowed, and no governed prepositions are allowed either. It turns out that this group is not very large, because very many verbs allow for dative arguments (traditionally called 'free' datives) or alternations with governed prepositions. For example, an apparently typical transitive verb like *bauen* 'to build' allows for a dative to mark the beneficiary of the building, as in *Ich baue dir ein Haus* 'I will build a house for you' (see [@sec:prepositions-benefactive-dative]). Conversely, there are also many apparently typical transitive verbs that can just as well be used without accusative object, including well-known ambitransitive verbs like *essen* 'to eat' (see [@sec:case-accusative-drop]). All such verbs are discussed in their respective sections. Still, even with all those verbs removed, the current set of 'pure' transitive verbs can easily be extended and the list given below is not at all intended to be complete. 
+The verbs in this class are strict transitives: they need a nominative subject argument and an additional accusative argument. Further arguments are not allowed, and no governed prepositions are allowed either. It turns out that this group is not very large, because very many verbs allow for dative arguments (traditionally called "free" datives) or alternations with governed prepositions. For example, an apparently typical transitive verb like *bauen* 'to build' allows for a dative to mark the beneficiary of the building, as in *Ich baue dir ein Haus* 'I will build a house for you' (see [@sec:prepositions-benefactive-dative]). Conversely, there are also many apparently typical transitive verbs that can just as well be used without accusative object, including well-known ambitransitive verbs like *essen* 'to eat' (see [@sec:case-accusative-drop]). All such verbs are discussed in their respective sections. Still, even with all those verbs removed, the current set of "pure" transitive verbs can easily be extended and the list given below is not at all intended to be complete. 
 
-The number of monomorphemic 'strictly' transitive verbs seems to be very limited. Preverbs (see Chapter [-@sec:preverbs]) regularly induce an applicative alternation and subsequently often lexicalise, leading to transitive verbs [@next a,b]. 
+The number of monomorphemic "strictly" transitive verbs seems to be very limited. Preverbs (see Chapter [-@sec:preverbs]) regularly induce an applicative alternation and subsequently often lexicalise, leading to transitive verbs [@next a,b]. 
 
 ::: ex
 a. Ich schreite über den Teppich.
@@ -239,7 +239,7 @@ There are more nominative+dative verbs in which the dative is not obligatory. Th
 
 #### Notes {.unnumbered}
 
-The following verbs also exist as intransitive 'only nominative' verbs (see [@sec:case-nominative]), but in a clearly different lexical meanings.
+The following verbs also exist as intransitive "only nominative" verbs (see [@sec:case-nominative]), but in a clearly different lexical meanings.
 
 ::: ex
 - Mir bleibt nur harte Arbeit. Ich bleibe noch eben.
@@ -411,14 +411,14 @@ This section is empty. It is only added here for the numbering to be parallel ac
 
 ### [ N | – ] Nominative drop {#sec:case-nominative-drop}
 
-In German it is typically not possible to have a sentence in which the nominative subject is dropped. For the few verbs that allow the nominative subject to be absent, a valency-simulating pronoun *es* has to be inserted (see [@sec:intro-es] for more details on this pronoun). For example, with some intransitive 'dispersion' verbs like *stinken* 'to stink' [@next a] it is possible to leave out the origin of the dispersion [@next b] to indicate the effect without knowledge of the cause. 
+In German it is typically not possible to have a sentence in which the nominative subject is dropped. For the few verbs that allow the nominative subject to be absent, a valency-simulating pronoun *es* has to be inserted (see [@sec:intro-es] for more details on this pronoun). For example, with some intransitive dispersion verbs like *stinken* 'to stink' [@next a] it is possible to leave out the origin of the dispersion [@next b] to indicate the effect without knowledge of the cause. 
 
 ::: ex
 a. Der Müll stinkt.
 b. Hier stinkt es aber.
 :::
 
-For 'weather' verbs like *wehen* 'to be windy' [@next] it is arguably not a nominative that is dropped, but a nominative that is optionally added. I will discuss such additions separately (see [@sec:case-nominative-addition]). However, there does not appear to be a clear overt grammatical distinction between a verb like *stinken* that allows for an optional nominative drop and a verb like *wehen* an optional nominative addition.
+For weather verbs like *wehen* 'to be windy' [@next] it is arguably not a nominative that is dropped, but a nominative that is optionally added. I will discuss such additions separately (see [@sec:case-nominative-addition]). However, there does not appear to be a clear overt grammatical distinction between a verb like *stinken* that allows for an optional nominative drop and a verb like *wehen* an optional nominative addition.
 
 ::: ex
 a. Es weht.
@@ -627,7 +627,7 @@ The verb *anhängen* literally (but not commonly) means 'to attach to' [@next a]
 
 ### [ – | N ] Weather agents {#sec:case-nominative-addition}
 
-With some weather verbs like *wehen* 'to be windy' it seems to be semantically rather obvious that the addition of an agent [@next b] is an extension of a basically avalent verb [@next a]. However, formally there is no difference between an unmarked 'nominative addition' as discussed in this section and an unmarked 'nominative drop' as discussed in [@sec:case-nominative-drop]. One possible avenue to distinguish these two classes is to consider the range of possible nominative agents. For verbs like *wehen* there appears to be only a small closed class of options for the nominative.
+With some weather verbs like *wehen* 'to be windy' it seems to be semantically rather obvious that the addition of an agent [@next b] is an extension of a basically avalent verb [@next a]. However, formally there is no difference between an unmarked "nominative addition" as discussed in this section and an unmarked "nominative drop" as discussed in [@sec:case-nominative-drop]. One possible avenue to distinguish these two classes is to consider the range of possible nominative agents. For verbs like *wehen* there appears to be only a small closed class of options for the nominative.
 
 ::: ex
 a. Es weht.
@@ -809,7 +809,7 @@ c. Ich friere.
 
 ## Diatheses with object demotion {#sec:case-object-demotion}
 
-This section concerns those alternations in which a non-nominative case-marked argument can be removed or demoted. When considered in this direction (e.g. 'an accusative is removed/demoted'), then such alternations are known as antipassives. Conversely, when this same alternation is analysed reversely (e.g. 'an accusative is added/promoted') then such alternations are known as applicatives. Because this chapter deals with unmarked 'covert' alternations, there is no structural difference between these two situations. Rather, they are two different ways to look at at the same phenomenon. Still, I have tried to classify diathesis into either of these two options based on (debatable) semantic arguments and parallels to other diatheses with overt derivations.
+This section concerns those alternations in which a non-nominative case-marked argument can be removed or demoted. When considered in this direction (e.g. "an accusative is removed/demoted"), then such alternations are known as antipassives. Conversely, when this same alternation is analysed reversely (e.g. "an accusative is added/promoted") then such alternations are known as applicatives. Because this chapter deals with unmarked "covert" alternations, there is no structural difference between these two situations. Rather, they are two different ways to look at at the same phenomenon. Still, I have tried to classify diathesis into either of these two options based on (debatable) semantic arguments and parallels to other diatheses with overt derivations.
 
 ### --- [ OBJ > Ø ] --- *Optionaler Akkusativ* {.unnumbered}
 
@@ -846,7 +846,7 @@ b. ^?^Ich sehe.
 c. Ich sehe gut.
 :::
 
-What is left is an apparently small group of transitive verbs that allow for the accusative to be dropped – and that neither allow for a (free) dative, nor for a prepositional antipassive. These verbs are formally similar to verbs that allow for an accusative to be added (see [@sec:case-accusative-addition]). The only difference between adding or removing an accusative is an (admittedly rather vague) semantic intuition about whether the intransitive or the transitive meaning is more 'basic'.
+What is left is an apparently small group of transitive verbs that allow for the accusative to be dropped – and that neither allow for a (free) dative, nor for a prepositional antipassive. These verbs are formally similar to verbs that allow for an accusative to be added (see [@sec:case-accusative-addition]). The only difference between adding or removing an accusative is an (admittedly rather vague) semantic intuition about whether the intransitive or the transitive meaning is more "basic".
 
 #### Attested verbs {.unnumbered}
 
@@ -1001,7 +1001,7 @@ b. Der Trainer hat ihm das Doping nahegelegt.
 
 ### [ NAD | N– – ] Dative drop+accusative drop
 
-Although it is not impossible, it seems to be rather unusual for 'real' ditransitive verbs like *vorlesen* 'to read aloud' [@next a] to allow for either the accusative [@next b] or the dative [@next c] to be dropped.
+Although it is not impossible, it seems to be rather unusual for "real" ditransitive verbs like *vorlesen* 'to read aloud' [@next a] to allow for either the accusative [@next b] or the dative [@next c] to be dropped.
 
 ::: ex
 a. Ich lese dir ein Buch vor.
@@ -1043,7 +1043,7 @@ Given that there are already very few verbs with genitive arguments in German, i
 
 ## Diatheses with promotion to object
 
-In this chapter, I have tried to distinguish between the demotion of an object (antipassive or drop, see [@sec:case-object-demotion]) and the promotion of an accusative (applicative or addition, this section). However, for 'covert' diatheses I cannot find any substantial difference between these phenomena, except for a faint semantic impression that covert applicatives do not imply an accusative object (but allow it), while bare antipassives imply an accusative object (but allow it to be dropped). It remains a clear desideratum to put this intuitive differentiation on stricter grammatical footing.
+In this chapter, I have tried to distinguish between the demotion of an object (antipassive or drop, see [@sec:case-object-demotion]) and the promotion of an accusative (applicative or addition, this section). However, for "covert" diatheses I cannot find any substantial difference between these phenomena, except for a faint semantic impression that covert applicatives do not imply an accusative object (but allow it), while bare antipassives imply an accusative object (but allow it to be dropped). It remains a clear desideratum to put this intuitive differentiation on stricter grammatical footing.
 
 ### --- [ Ø > OBJ ] --- *Ergebnisakkusativ* {.unnumbered}
 
@@ -1059,7 +1059,7 @@ d. Er hat den Staub geatmet.
 e. Er hat den Tatort geschaut.
 :::
 
-A similar phenomenon is attested with 'manner-of-speaking' verbs like *stottern* 'to stutter' [@next a]. Such verbs can take an accusative object with a meaning like 'to utter something in a stuttering manner' [@next b]. Note that by adding a possessed prepositional phrase [@next c], see [@sec:prepositions-intransitive-location-as-result], it is even possible to use a possessor-dative alternation [@next d], see  [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative], leading to an apparently 'intransitive' verb with a dative, accusative and an obligatory location argument.
+A similar phenomenon is attested with manner-of-speaking verbs like *stottern* 'to stutter' [@next a]. Such verbs can take an accusative object with a meaning like 'to utter something in a stuttering manner' [@next b]. Note that by adding a possessed prepositional phrase [@next c], see [@sec:prepositions-intransitive-location-as-result], it is even possible to use a possessor-dative alternation [@next d], see  [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative], leading to an apparently "intransitive" verb with a dative, accusative and an obligatory location argument.
 
 ::: ex
 a. Er stotterte vor Aufregung
@@ -1068,7 +1068,7 @@ c. Ich flüsterte die Lösung in sein Ohr.
 d. Ich flüsterte ihm die Lösung ins Ohr.
 :::
 
-These verbs are formally similar to verbs that allow for an accusative to be dropped (see [@sec:case-accusative-drop]). The only difference between these two classes is a (rather vague) semantic intuition about whether the intransitive or the transitive meaning is more 'basic'. As a rule-of-thumb the verbs in this section have an object that is the result of the action as described by the verb (hence the German name ~~Ergebnisakkusativ~~). Whether this is a useful separation has to be determined by future research.
+These verbs are formally similar to verbs that allow for an accusative to be dropped (see [@sec:case-accusative-drop]). The only difference between these two classes is a (rather vague) semantic intuition about whether the intransitive or the transitive meaning is more "basic". As a rule-of-thumb the verbs in this section have an object that is the result of the action as described by the verb (hence the German name ~~Ergebnisakkusativ~~). Whether this is a useful separation has to be determined by future research.
 
 #### Attested verbs {.unnumbered}
 
@@ -1153,7 +1153,7 @@ d. ^* Meine Füße brennen dir.
 
 #### Notes {.unnumbered}
 
-Coreference (i.e 'reflexive double marking') is possible [@next a], but in the third person this does not lead to a reflexive pronoun *sich* [@next b,c]:
+Coreference (i.e "reflexive double marking") is possible [@next a], but in the third person this does not lead to a reflexive pronoun *sich* [@next b,c]:
 
 ::: ex
 a. Mir stinken meine Socken.
@@ -1328,7 +1328,7 @@ b. Man achtete uns nicht.
 
 ### [ NGA | NAD ] Genitive-to-accusative+accusative-to-dative {#sec:case-genitive-accusative-dative-swap}
 
-The verb *versichern* 'to assure' appears to be a combination of the previous two alternations. The apparently older usage with accusative and genitive [@next a] exists with an alternative construction with dative and accusative [@next b]. This 'double swap' was possible because most sentences with *versichern* have a subordinate clause instead of a clear genitive/accusative [@next c,d]. The theoretical intermediate stages (with genitive/dative or double accusative) are unattested [@next e,f].
+The verb *versichern* 'to assure' appears to be a combination of the previous two alternations. The apparently older usage with accusative and genitive [@next a] exists with an alternative construction with dative and accusative [@next b]. This "double swap" was possible because most sentences with *versichern* have a subordinate clause instead of a clear genitive/accusative [@next c,d]. The theoretical intermediate stages (with genitive/dative or double accusative) are unattested [@next e,f].
 
 ::: ex
 a. Ich versichere dich meines Vertrauens.

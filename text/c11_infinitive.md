@@ -18,7 +18,7 @@ All these examples mentioned above are constructions that do not show any role-r
 - Die Lehrerin hat ihre Pflanzen auf der Fensterbank stehen.
 :::
 
-Following Bech [-@bech1955] such constructions are often designated as *Erster Status* in the German grammatical literature. However, this name is not very transparent nor particularly mnemonic, so I prefer to use the more descriptive designation 'light-verb+infinitive' construction, often simply abbreviated to ~~infinitive~~ construction.
+Following Bech [-@bech1955] such constructions are often designated as *Erster Status* in the German grammatical literature. However, this name is not very transparent nor particularly mnemonic, so I prefer to use the more descriptive designation "light-verb+infinitive" construction, often simply abbreviated to ~~infinitive~~ construction.
 
 There are twelve frequently occurring diatheses that use a light-verb+infinitive construction and for which I propose a German name, as listed below. Note that the *lassen+In­fi­ni­tiv* construction occurs in many different guises. A discussion comparing and distinguishing them can be found in [@sec:infinitive-guises-of-lassen]. 
 
@@ -57,7 +57,7 @@ Functionally, the ~~Infinitiv~~ is a nominal form of the verb. Consequently, it 
 - Die selten gelaufene Distanz fällt mir schwer.
 :::
 
-Given the nominal nature of the infinitive, there is a close connection between light-verb+infinitive constructions and nominal predication, i.e. constructions of a light verb with a bare noun. Nominal predication in German is typically constructed with the light verbs *werden*, *sein* or *bleiben* [@duden2009: 812--813]. The parallel between infinitives and nouns is obvious with the future meaning of *werden* [@next a], see [@sec:infinitive-werden-modal], and the continuative meaning of *bleiben* [@next b], see [@sec:infinitive-bleiben]. However, as illustrated in [@next c], the meaning of *sein*+noun ('identification') is quite different from *sein*+infinitive ('absentive'), see [@sec:infinitive-sein-absentive].
+Given the nominal nature of the infinitive, there is a close connection between light-verb+infinitive constructions and nominal predication, i.e. constructions of a light verb with a bare noun. Nominal predication in German is typically constructed with the light verbs *werden*, *sein* or *bleiben* [@duden2009: 812--813]. The parallel between infinitives and nouns is obvious with the future meaning of *werden* [@next a], see [@sec:infinitive-werden-modal], and the continuative meaning of *bleiben* [@next b], see [@sec:infinitive-bleiben]. However, as illustrated in [@next c], the meaning of *sein*+noun ("identification") is quite different from *sein*+infinitive ("absentive"), see [@sec:infinitive-sein-absentive].
 
 ::: ex
 - Ich werde Vater. \
@@ -124,7 +124,7 @@ Speyer [-@speyer2018a] discusses the history of ~~ACI~~ constructions in German,
 
 ### IPP *Ersatzin­fi­ni­tiv*
 
-The *ErsatzIn­fi­ni­tiv* is a special syntactic phenomenon attested in West-Germanic languages [@schmid2005; @schallert2014]. It concerns the participle of some of the light verbs that are used with infinitives, like *können, sehen* or *lassen*. For example, the verb *sehen* has a regular perfect with *haben* and a participle *gesehen* [@next a]. However, when *sehen* is used as a light verb with an infinitive, then the perfect can alternatively consists of *haben* with an infinitive *sehen* [@next b]. Because the infinitive is used instead of the expected participle, this phenomenon is known as an *ErsatzIn­fi­ni­tiv* or 'infinitive instead of a participle' (Lat. *infinitivus pro participium*, ~~IPP~~). Diachronically this is a relatively recent development, probably starting in the 14th/15th century [@jager2018; see also @coupe2015: Ch. 7 for a detailed diachronic study of ~~IPP~~ in Dutch].
+The *ErsatzIn­fi­ni­tiv* is a special syntactic phenomenon attested in West-Germanic languages [@schmid2005; @schallert2014]. It concerns the participle of some of the light verbs that are used with infinitives, like *können, sehen* or *lassen*. For example, the verb *sehen* has a regular perfect with *haben* and a participle *gesehen* [@next a]. However, when *sehen* is used as a light verb with an infinitive, then the perfect can alternatively consists of *haben* with an infinitive *sehen* [@next b]. Because the infinitive is used instead of the expected participle, this phenomenon is known as an *ErsatzIn­fi­ni­tiv* or "infinitive instead of a participle" (Lat. *infinitivus pro participium*, ~~IPP~~). Diachronically this is a relatively recent development, probably starting in the 14th/15th century [@jager2018; see also @coupe2015: Ch. 7 for a detailed diachronic study of ~~IPP~~ in Dutch].
 
 ::: ex
 - Sie sieht, dass er den Tisch putzt. \
@@ -142,9 +142,9 @@ Implicational scale of ~~IPP~~ *ErsatzIn­fi­ni­tiv* verbs
 causatives < modals < perception verbs < benefactives < duratives < inchoatives < control verbs
 :::
 
-However, this hierarchy should be interpreted rather loosely. The designation 'causative' on the hierarchy is a misnomer. The verb *lassen* also induces the ~~IPP~~ in its other uses, viz. possibility and permission (see the next [@sec:infinitive-guises-of-lassen]). Conversely, other causative constructions do not induce an ~~IPP~~, namely those with *schicken* (see [@sec:infinitive-schicken]) and *machen* (see [@sec:infinitive-machen]). Likewise, while the perception verbs *hören* and *sehen* allow for an ~~IPP~~, the syntactically similar perception verbs *fühlen* and *spüren* do not (see [@sec:infinitive-sehen] ff.).
+However, this hierarchy should be interpreted rather loosely. The designation "causative" on the hierarchy is a misnomer. The verb *lassen* also induces the ~~IPP~~ in its other uses, viz. possibility and permission (see the next [@sec:infinitive-guises-of-lassen]). Conversely, other causative constructions do not induce an ~~IPP~~, namely those with *schicken* (see [@sec:infinitive-schicken]) and *machen* (see [@sec:infinitive-machen]). Likewise, while the perception verbs *hören* and *sehen* allow for an ~~IPP~~, the syntactically similar perception verbs *fühlen* and *spüren* do not (see [@sec:infinitive-sehen] ff.).
 
-Further, the ~~IPP~~ *ErsatzIn­fi­ni­tiv* is not obligatory for benefactive *helfen* and neither for the perception verbs *sehen* and *hören*, but it is obligatory for modal verbs. This would actually nicely correspond to a connected region on the hierarchy, were it not for the verb *lassen*, which also allows for both infinitive and participle [@next]. However, according to Enzinger [-@enzinger2012: 34] the construction with the participle *gelassen* only allows for a permissive reading [@next b]. If this is confirmed, then the hierarchy could be extended by adding 'permissives' close to 'benefactives' to again obtain a connected region on the hierarchy for optional ~~IPP~~.
+Further, the ~~IPP~~ *ErsatzIn­fi­ni­tiv* is not obligatory for benefactive *helfen* and neither for the perception verbs *sehen* and *hören*, but it is obligatory for modal verbs. This would actually nicely correspond to a connected region on the hierarchy, were it not for the verb *lassen*, which also allows for both infinitive and participle [@next]. However, according to Enzinger [-@enzinger2012: 34] the construction with the participle *gelassen* only allows for a permissive reading [@next b]. If this is confirmed, then the hierarchy could be extended by adding "permissives" close to "benefactives" to again obtain a connected region on the hierarchy for optional ~~IPP~~.
 
 ::: ex
 a. Sie hat mich die Kleider waschen *lassen*. \
@@ -318,7 +318,7 @@ For example, an activity like *schwimmen* 'to swim' can be used in the infinitiv
 - Ich bin dem Nachbarn den Teller zurückbringen gewesen. (\*sein)
 :::
 
-The absentive can only be used with verbs that clearly include agency, so typical patientive verbs like *einschlafen* 'to fall asleep' do not allow for this construction (cf. [@sec:participles-sein-perfect]). In contrast, a verb like *schlafen* 'to sleep' does allow for an absentive construction, though it needs a suitable context [@next b]. However, not all verbs with a *haben* perfect (often analysed as 'agentive', see [@sec:participles-haben-perfect]) allow for an absentive, for example *sitzen* 'to sit' does not allow for it [@next c].
+The absentive can only be used with verbs that clearly include agency, so typical patientive verbs like *einschlafen* 'to fall asleep' do not allow for this construction (cf. [@sec:participles-sein-perfect]). In contrast, a verb like *schlafen* 'to sleep' does allow for an absentive construction, though it needs a suitable context [@next b]. However, not all verbs with a *haben* perfect (often analysed as "agentive", see [@sec:participles-haben-perfect]) allow for an absentive, for example *sitzen* 'to sit' does not allow for it [@next c].
 
 ::: ex
 - ^* Ich bin einschlafen.
@@ -487,7 +487,7 @@ The verb *gehen* 'to walk' has become lexicalised in this construction as *sich 
 
 ### *lernen+In­fi­ni­tiv* Assistive {#sec:infinitive-lernen}
 
-The verb *lernen* 'to learn' can both occur in a construction with an infinitive [@next a] and with *zu* plus infinitive [@next b], see also [@sec:zuinfinitive-grammaticalisation]. There is an obvious parallel to the verbs *lehren* 'to teach' ([@sec:infinitive-lehren]) and *helfen* 'to help' ([@sec:infinitive-helfen]), both of which add a new participant (the 'teacher' and the 'helper', respectively). The verb *lernen* does not add a new participant, although there is a strong implication of an unspoken teacher [@next b], except in case of natural developmental processes [@next a].
+The verb *lernen* 'to learn' can both occur in a construction with an infinitive [@next a] and with *zu* plus infinitive [@next b], see also [@sec:zuinfinitive-grammaticalisation]. There is an obvious parallel to the verbs *lehren* 'to teach' ([@sec:infinitive-lehren]) and *helfen* 'to help' ([@sec:infinitive-helfen]), both of which add a new participant (the "teacher" and the "helper", respectively). The verb *lernen* does not add a new participant, although there is a strong implication of an unspoken teacher [@next b], except in case of natural developmental processes [@next a].
 
 ::: ex
 - Das Baby läuft. \
@@ -660,7 +660,7 @@ c. (= Die Kinder erlauben, dass sie gekämmt werden.) \
 d. (= Es ist möglich die Kinder zu kämmen.)
 :::
 
-The dual interpretation of this passive fits in right in the middle between others diatheses with the same *lassen+Infinitiv+Reflexiv* construction. To the one side, with intransitive verbs this construction leads to a complete drop of the subject. In a sense, this absence can be interpreted as the extreme form of being inanimate. Consequently, only the epistemic interpretation ('possibility') is available (see [@sec:infinitive-lassen-reflexive-intransitive]). To the other side, verbs that give rise to a conversive diathesis ([@sec:infinitive-lassen-reflexive-conversive]) or an inversive diathesis ([@sec:infinitive-lassen-dative-reflexive-inversive]) all have an animate new subject. Consequently, these diatheses have a deontic interpretation ('permission').
+The dual interpretation of this passive fits in right in the middle between others diatheses with the same *lassen+Infinitiv+Reflexiv* construction. To the one side, with intransitive verbs this construction leads to a complete drop of the subject. In a sense, this absence can be interpreted as the extreme form of being inanimate. Consequently, only the epistemic interpretation ("possibility") is available (see [@sec:infinitive-lassen-reflexive-intransitive]). To the other side, verbs that give rise to a conversive diathesis ([@sec:infinitive-lassen-reflexive-conversive]) or an inversive diathesis ([@sec:infinitive-lassen-dative-reflexive-inversive]) all have an animate new subject. Consequently, these diatheses have a deontic interpretation ("permission").
 
 Just as discussed previously with intransitives (see [@sec:infinitive-lassen-reflexive-intransitive]), the *lassen+Infinitiv+Reflexiv* diathesis might appear to be a transparent combination of two separate diatheses, namely a *Passivkausativ* with *lassen*, see [@sec:infinitive-lassen-passive-causative] and a reflexive anticausative, see [@sec:reflexive-anticausative]. Depending on the order of application, stacking these two diathesis leads to different results. The first option [@next a] is very similar to the intended result [@next c], but the implied agent is wrong. The second option [@next b] leads to a completely different construction. So, the fixed combination *lassen+Infinitiv+Reflexiv* is arguably a new construction, called *Permissivpassiv* here.
 
@@ -683,7 +683,7 @@ c. (= Der König erlaubt, dass jemand ihn trägt.)
 d. (= Es ist möglich, den König zu tragen.)
 :::
 
-Any additional arguments can be retained in this diathesis. For example, an additional dative argument of a ditransitive verb like *zuschreiben* 'to attribute' [@next a] simply remains a dative after a *Permissivpassiv* [@next b]. In contrast, the causative+reflexive combination leads to a completely different result with such ditransitive verbs [@next c]. This is noteworthy, because this causative+reflexive stack results in exactly the same surface structure as the *Permissivpassiv* with the transitive examples above in [@last]. Not so with ditransitives like with *zuschreiben* [@next a]. The *Permissivpassiv* [@next b] promotes the accusative to subject (*die Texte* 'the texts') and leaves the dative alone (*dem Autor* 'the author'). In contrast, the causative+reflexive combination [@next c] results in a promotion of the dative to subject and leaves the accusative alone (see [@sec:infinitive-lassen-passive-causative]). Connected to this structural difference is a semantic difference. With the *Permissivpassiv* the new sentence has an inanimate subject [@next b], so the only available interpretation is epistemic ('possibility'). In contrast, with the causative+reflexive diathesis the new sentence describes causation [@next c].
+Any additional arguments can be retained in this diathesis. For example, an additional dative argument of a ditransitive verb like *zuschreiben* 'to attribute' [@next a] simply remains a dative after a *Permissivpassiv* [@next b]. In contrast, the causative+reflexive combination leads to a completely different result with such ditransitive verbs [@next c]. This is noteworthy, because this causative+reflexive stack results in exactly the same surface structure as the *Permissivpassiv* with the transitive examples above in [@last]. Not so with ditransitives like with *zuschreiben* [@next a]. The *Permissivpassiv* [@next b] promotes the accusative to subject (*die Texte* 'the texts') and leaves the dative alone (*dem Autor* 'the author'). In contrast, the causative+reflexive combination [@next c] results in a promotion of the dative to subject and leaves the accusative alone (see [@sec:infinitive-lassen-passive-causative]). Connected to this structural difference is a semantic difference. With the *Permissivpassiv* the new sentence has an inanimate subject [@next b], so the only available interpretation is epistemic ("possibility"). In contrast, with the causative+reflexive diathesis the new sentence describes causation [@next c].
 
 ::: ex
 - Ich schreibe dem unbekannten Autor die Texte zu.
@@ -802,7 +802,7 @@ b. Ich lasse mich von diesem Witz begeistern.
 
 ### [ –NA | NpA ] *lassen+In­fi­ni­tiv* Passive causative (*Passivkausativ*) {#sec:infinitive-lassen-passive-causative}
 
-The *lassen+In­fi­ni­tiv* causative diathesis can be used with almost all German verbs, as discussed in the next [@sec:infinitive-lassen-causative]. In that diathesis, the original nominative subject is demoted to an accusative [@next a]. However, there also exists a variant of that causative, which will be discussed in this section. In this variant, the original nominative is expressed with a *von* prepositional phrase [@next b], or it can even be dropped altogether [@next c]. This results in an embedded 'passive' reading with an unknown agent [cf. @enzinger2012: 26]. The resulting construction obligatorily takes an *ErsatzIn­fi­ni­tiv* [@next d].
+The *lassen+In­fi­ni­tiv* causative diathesis can be used with almost all German verbs, as discussed in the next [@sec:infinitive-lassen-causative]. In that diathesis, the original nominative subject is demoted to an accusative [@next a]. However, there also exists a variant of that causative, which will be discussed in this section. In this variant, the original nominative is expressed with a *von* prepositional phrase [@next b], or it can even be dropped altogether [@next c]. This results in an embedded "passive" reading with an unknown agent [cf. @enzinger2012: 26]. The resulting construction obligatorily takes an *ErsatzIn­fi­ni­tiv* [@next d].
 
 ::: ex
 a. Der Mitarbeiter wäscht die Teller. \
@@ -962,7 +962,7 @@ In almost all sentences both the causative and the permissive interpretation of 
   (= causation: Ich zeige ihr die Fernsehserie.)
 :::
 
-This diathesis can be applied to verbs of all argument structures. There is always a new nominative introduced, and the old nominative is demoted to an accusative. Other arguments are simply retained. If there is already an accusative present [@next], then the resulting construction simply has two accusative constituents. Such double accusatives are unusual in German because most role-remappings lead to a chain of remappings to not end up with identically marked constituents (see [@sec:intro-chaining] on the notion of a 'chain'). Additionally, any datives [@next a] or prepositional phrases [@next b] are simply left untouched by this diathesis.
+This diathesis can be applied to verbs of all argument structures. There is always a new nominative introduced, and the old nominative is demoted to an accusative. Other arguments are simply retained. If there is already an accusative present [@next], then the resulting construction simply has two accusative constituents. Such double accusatives are unusual in German because most role-remappings lead to a chain of remappings to not end up with identically marked constituents (see [@sec:intro-chaining] on the notion of a "chain"). Additionally, any datives [@next a] or prepositional phrases [@next b] are simply left untouched by this diathesis.
 
 ::: ex
 a. Ich schreibe meiner Oma einen Brief. \
@@ -1162,7 +1162,7 @@ The verb *finden* (literally meaning 'to find', but in this construction the mea
 
 ### [ –N | NA ] *lehren+In­fi­ni­tiv* Assistive {#sec:infinitive-lehren}
 
-The verb *lehren* 'to teach' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ('the teacher') is introduced as a nominative and the erstwhile nominative is demoted to accusative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *lehren* remains completely transparently related to the full verb with the meaning 'to teach'. There is an alternative construction with *zu‑In­fi­ni­tiv* (see [@sec:zuinfinitive-grammaticalisation]) that appears to have a highly similar meaning. More research is needed to elucidate any difference between these two constructions [@next b,c]. The *lehren+In­fi­ni­tiv* diathesis does not invoke the ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next d].
+The verb *lehren* 'to teach' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ("the teacher") is introduced as a nominative and the erstwhile nominative is demoted to accusative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *lehren* remains completely transparently related to the full verb with the meaning 'to teach'. There is an alternative construction with *zu‑In­fi­ni­tiv* (see [@sec:zuinfinitive-grammaticalisation]) that appears to have a highly similar meaning. More research is needed to elucidate any difference between these two constructions [@next b,c]. The *lehren+In­fi­ni­tiv* diathesis does not invoke the ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next d].
 
 ::: ex
 a. Der Junge schwimmt.
@@ -1180,7 +1180,7 @@ There does not seem to be any syntactic restriction on the main lexical verbs th
 
 ### [ –N | ND ] *helfen+In­fi­ni­tiv* Assistive {#sec:infinitive-helfen}
 
-The verb *helfen* 'to help' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ('the helper') is introduced as a nominative and the erstwhile nominative is demoted to dative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *helfen* remains completely transparently related to the full verb with the meaning 'to help'. There is an alternative construction with *zu‑In­fi­ni­tiv* [@next c], see [@sec:zuinfinitive-grammaticalisation], that appears to highly similar. More research is needed to elucidate any difference between these two constructions. The *helfen+In­fi­ni­tiv* diathesis allows for the ~~IPP~~ *ErsatzIn­fi­ni­tiv*, but it is not obligatory [@next d].
+The verb *helfen* 'to help' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ("the helper") is introduced as a nominative and the erstwhile nominative is demoted to dative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *helfen* remains completely transparently related to the full verb with the meaning 'to help'. There is an alternative construction with *zu‑In­fi­ni­tiv* [@next c], see [@sec:zuinfinitive-grammaticalisation], that appears to highly similar. More research is needed to elucidate any difference between these two constructions. The *helfen+In­fi­ni­tiv* diathesis allows for the ~~IPP~~ *ErsatzIn­fi­ni­tiv*, but it is not obligatory [@next d].
 
 ::: ex
 - Ich trage den Koffer.

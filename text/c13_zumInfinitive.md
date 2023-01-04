@@ -30,7 +30,7 @@ The result of this strict demarcation is that only very few clearly grammaticali
 
 ### The *Präpositions­in­fi­ni­tiv*
 
-The *Präpositions­in­fi­ni­tiv* is a grammaticalised construction that will be distinguished from the superficially identical 'regular' combination of a preposition with an article and an infinitive. This distinction is rather subtle and there is quite some individual variation, indicating that the *Präpositions­in­fi­ni­tiv* is still in its early stages of grammaticalisation. I will first discuss the general characteristics of regular preposition+article+infinitive combinations, only to subsequently argue that the *Präpositions­in­fi­ni­tiv* [@next a] is different, see [@sec:zuminfinitive-structure]. Various highly similar structures will be distinguished from the *Präpositions­in­fi­ni­tiv* in the ensuing sections, namely (i) governed prepositional subordination [@next b], see [@sec:zuminfinitive-subordination], (ii) adverbial modification [@next c], see [@sec:zuminfinitive-teleological] and (iii) the *Funktions­verb­gefüge* [@next d], see [@sec:zuminfinitive-funktionsverb].
+The *Präpositions­in­fi­ni­tiv* is a grammaticalised construction that will be distinguished from the superficially identical "regular" combination of a preposition with an article and an infinitive. This distinction is rather subtle and there is quite some individual variation, indicating that the *Präpositions­in­fi­ni­tiv* is still in its early stages of grammaticalisation. I will first discuss the general characteristics of regular preposition+article+infinitive combinations, only to subsequently argue that the *Präpositions­in­fi­ni­tiv* [@next a] is different, see [@sec:zuminfinitive-structure]. Various highly similar structures will be distinguished from the *Präpositions­in­fi­ni­tiv* in the ensuing sections, namely (i) governed prepositional subordination [@next b], see [@sec:zuminfinitive-subordination], (ii) adverbial modification [@next c], see [@sec:zuminfinitive-teleological] and (iii) the *Funktions­verb­gefüge* [@next d], see [@sec:zuminfinitive-funktionsverb].
 
 ::: ex
 - Der Vater kommt gerade vom Einkaufen. \
@@ -57,7 +57,7 @@ f. (Es ist bekannt, dass) er sich [durch das Schreiben]~PP~ von seinen Dämonen 
 g. [Beim Schreiben]~PP~ ist er eingeschlafen.
 :::
 
-Different from [@last], some preposition+article+infinitive combinations have special characteristics indicating that they are grammaticalised into bound morphology, namely the preposition and article are (i) fused, (ii) unstressed and (iii) inseparable, and the whole phrase (iv) cannot be modified and (v) is positionally fixed. I will call such grammaticalised combinations ~~Präpositions­infinitiv~~. They behave syntactically like a non-finite verbform, on a par with the *Partizip*, *In­fi­ni­tiv* and *zu‑In­fi­ni­tiv*. For example, they regularly occur in the so-called 'right sentence bracket' at the end of a clause, in which all German non-finite verbs are placed. 
+Different from [@last], some preposition+article+infinitive combinations have special characteristics indicating that they are grammaticalised into bound morphology, namely the preposition and article are (i) fused, (ii) unstressed and (iii) inseparable, and the whole phrase (iv) cannot be modified and (v) is positionally fixed. I will call such grammaticalised combinations ~~Präpositions­infinitiv~~. They behave syntactically like a non-finite verbform, on a par with the *Partizip*, *In­fi­ni­tiv* and *zu‑In­fi­ni­tiv*. For example, they regularly occur in the so-called "right sentence bracket" at the end of a clause, in which all German non-finite verbs are placed. 
 
 By definition then, a combination of preposition+article+infinitive is a grammaticalised *Präpositions­in­fi­ni­tiv* when the following characteristics hold. These characteristics will be illustrated in more detail below.
 
@@ -117,7 +117,7 @@ Verbs with governed prepositions show many characteristics of a *Präpositions­
 - Sein Vater redet übers Rauchen.
 :::
 
-Such a 'bare subordinate infinitive' is possible with almost all verbs that have a governed preposition. Below I have added some corpus examples for *träumen von* 'to dream of' [@nnext a], *hindern an* 'to hinder' [@nnext b] and *klagen über* 'to lament' [@nnext c]. Frequent collocations with a similar structure are *Freude haben an* [@next d] and *Spaß haben an* [@next e].
+Such a "bare subordinate infinitive" is possible with almost all verbs that have a governed preposition. Below I have added some corpus examples for *träumen von* 'to dream of' [@nnext a], *hindern an* 'to hinder' [@nnext b] and *klagen über* 'to lament' [@nnext c]. Frequent collocations with a similar structure are *Freude haben an* [@next d] and *Spaß haben an* [@next e].
 
 ::: ex
 - Ich träume vom Autofahren.^[~~DWDS~~: Zeit Magazin, 16.05.2013, Nr. 21.]
@@ -184,17 +184,17 @@ An example of a light verb with a *Präpositions­in­fi­ni­tiv* that has alre
 
 Another phenomenon that looks like a *Präpositions­in­fi­ni­tiv*, but has to be strictly separated from it, are prepositions with infinitives that function as adverbial modifiers in the sentence. These are constituents that consist of a preposition, an article and an infinitive, like *zum Laufen*, in which the preposition and the article are obligatorily fused. However, they have an adverbial status in the sentence. Because adverbials are syntactically optional, the easiest test for such adverbial usage is to simply leave them out. The resulting sentence should still be grammatical.
 
-There are a few common adverbial uses that can be identified by the possibility of a very specific paraphrase. First, teleological ('goal oriented') *zum‑In­fi­ni­tiv* adverbials are especially common, like, *zum Schwimmen* in [@next a]. Such adverbials can be paraphrased as 'with the intent to', or in German as *um zu+In­fi­ni­tiv*. A second frequently used adverbial phrase is the temporal *beim‑In­fi­ni­tiv*, meaning 'while' [@next b]. In German such usage can be paraphrased by *während+In­fi­ni­tiv*. Other prepositions with infinitives are less frequent in adverbial function. Some incidental locational examples can also be found, like an allative ('from') *vom‑In­fi­ni­tiv* [@next c] or ablative ('to') *zum‑In­fi­ni­tiv* [@next d]. 
+There are a few common adverbial uses that can be identified by the possibility of a very specific paraphrase. First, teleological ("goal oriented") *zum‑In­fi­ni­tiv* adverbials are especially common, like, *zum Schwimmen* in [@next a]. Such adverbials can be paraphrased as 'with the intent to', or in German as *um zu+In­fi­ni­tiv*. A second frequently used adverbial phrase is the temporal *beim‑In­fi­ni­tiv*, meaning 'while' [@next b]. In German such usage can be paraphrased by *während+In­fi­ni­tiv*. Other prepositions with infinitives are less frequent in adverbial function. Some incidental locational examples can also be found, like an allative ('from') *vom‑In­fi­ni­tiv* [@next c] or ablative ('to') *zum‑In­fi­ni­tiv* [@next d]. 
 
 ::: ex
 - Er ist [zum Schwimmen] durch die halbe Stadt gelaufen. \
-  (= 'um zu schwimmen')
+  (= um zu schwimmen)
 - Er verletzt sich [beim Schälen einer Avocado]. \
-  (= 'während des Schälens')
+  (= während des Schälens)
 - Er nimmt den Zug [von dem täglichen Einkaufen] nach Hause. \
-  (= 'vom Einkaufen kommend')
+  (= vom Einkaufen kommend)
 - Er fährt mit dem Bus [zum Grillen an der Lahn]. \
-  (= 'zum Ort, wo gegrillt wird')
+  (= zum Ort, wo gegrillt wird)
 :::
 
 These adverbials do not adhere to most of the characteristics of the *Präpositions­in­fi­ni­tiv*, except for the fact that the preposition and article are typically fused. However, the preposition and article can optionally be separated [@last b], the whole phrase can move rather freely inside the sentence [@last a], and the infinitive can be modified by a genitive [@last b], an adjective [@last c], or a prepositional phrase [@last d].
@@ -203,7 +203,7 @@ These adverbials do not adhere to most of the characteristics of the *Präpositi
 
 The analysis of the so-called *Funktions­verb­gefüge* has a fifty-years long history in German linguistics [cf. @heine2020 for a survey]. This term is used to refer to grammaticalised constructions that commonly consist of a light verb with a prepositional phrase, like *zur Verfügung stehen* 'to be available', *in Zorn geraten* 'become enraged' or *in Zweifel ziehen* 'to cast doubt' [@heine2020: 17]. Syntactically these phrases are strongly lexicalised and, as can be gleaned from the English translations, they are semantically on a par with individual verbs. They are widely discussed in the German literature and even the infamous Duden grammar includes an extensive eight-page discussion [@duden2009: 418--425]. A common distinction is made between basic noun-verb combinations under the heading *Funktions­verb­gefüge mit akkusa­ti­visch angeschloss­enem Verbal­­sub­stan­tiv* [@duden2009: 419] and a combination of a verb with a prepositional phrase under the heading *präpositional an­geschlossene Funktions­verben* [@duden2009: 422]. 
 
-There clearly is a lot of similarity between such a prepositional *Funktions­verb­gefüge* and the *Präpositions­in­fi­ni­tiv* as discussed in this chapter. The *Funktionsverben* that are typically used in a *Funktions­verb­gefüge* show a lot of overlap with the light verbs that are discussed throughout this book. And indeed, the English term 'light verb' has recently been used as a translation of the German term *Funktionsverb* [@fleischhauer2019; @fleischhauer2021; @fleischhauer2021a]. However, a *Funktions­verb­gefüge* is obviously different in that it includes either (i) a noun (e.g. *Zorn* 'anger'), or (ii) a noun derived from a verb with nominalising derivational morphology (e.g. *Verfügung* 'disposal' from *verfügen* 'to have at one's disposal' + *‑ung*), or (iii) a zero-derived noun (*Zweifel* 'doubt' from *zweifeln* 'to doubt'). In contrast, the *Präpositions­in­fi­ni­tiv* as discussed in this chapter employs infinitives. 
+There clearly is a lot of similarity between such a prepositional *Funktions­verb­gefüge* and the *Präpositions­in­fi­ni­tiv* as discussed in this chapter. The *Funktionsverben* that are typically used in a *Funktions­verb­gefüge* show a lot of overlap with the light verbs that are discussed throughout this book. And indeed, the English term "light verb" has recently been used as a translation of the German term *Funktionsverb* [@fleischhauer2019; @fleischhauer2021; @fleischhauer2021a]. However, a *Funktions­verb­gefüge* is obviously different in that it includes either (i) a noun (e.g. *Zorn* 'anger'), or (ii) a noun derived from a verb with nominalising derivational morphology (e.g. *Verfügung* 'disposal' from *verfügen* 'to have at one's disposal' + *‑ung*), or (iii) a zero-derived noun (*Zweifel* 'doubt' from *zweifeln* 'to doubt'). In contrast, the *Präpositions­in­fi­ni­tiv* as discussed in this chapter employs infinitives. 
 
 Of course, as explained above, an infinitive is also a nominalised verbform, which once more emphasises the strong affinity between the *Funktions­verb­gefüge* and the *Präpositions­in­fi­ni­tiv*. However, the crucial syntactic difference between them is the same difference as discussed previously with prepositional subordination (see [@sec:zuminfinitive-subordination]). The deverbal nouns of a *Funktions­verb­gefüge* can still be modified by retained arguments or modifiers, like genitives [@next a] or adjectives [@next b], which is impossible for a *Präpositions­in­fi­ni­tiv*.
 
@@ -281,7 +281,7 @@ Parallel to the *sein* progressive there is also a *bleiben* progressive, which 
 
 ### *sein+beim‑In­fi­ni­tiv* Recurrent absence (*Absentivfrequentativ*) {#sec:zuminfinitiv-sein-beim}
 
-The *sein+beim‑In­fi­ni­tiv* construction [@next a] seems to be very similar to the *sein+am‑In­fi­ni­tiv* progressive [e.g. they are deemed functionally indistinguishable in @gargyan2010: 41--42]. However, that is the wrong comparison. The *sein+beim‑In­fi­ni­tiv* is actually functionally similar to the *sein+Infinitiv* absentive [@next b], see [@sec:infinitive-sein-absentive]. The *sein+beim‑In­fi­ni­tiv* likewise signifies that the subject is not present (absentive), but it adds an extra aspectual dimension, namely that the activity is performed regularly or habitually. I will use the term 'frequentative' for this aspect.
+The *sein+beim‑In­fi­ni­tiv* construction [@next a] seems to be very similar to the *sein+am‑In­fi­ni­tiv* progressive [e.g. they are deemed functionally indistinguishable in @gargyan2010: 41--42]. However, that is the wrong comparison. The *sein+beim‑In­fi­ni­tiv* is actually functionally similar to the *sein+Infinitiv* absentive [@next b], see [@sec:infinitive-sein-absentive]. The *sein+beim‑In­fi­ni­tiv* likewise signifies that the subject is not present (absentive), but it adds an extra aspectual dimension, namely that the activity is performed regularly or habitually. I will use the term "frequentative" for this aspect.
 
 ::: ex
 - Ich bin beim Arbeiten.

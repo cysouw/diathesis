@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Under the heading ~~preverb~~ I will subsume two different constructions, known in the German linguistic tradition as *Verbpräfixe* 'verb prefixes' [@next a] and *Verbpartikel* 'verb particles' [@next b]. These constructions have clearly different syntactic characteristics (see [@sec:preverbs-prefixes-particles]), but from the perspective of valency alternations they appear to function highly similar. For a discussion of the term 'preverb' as a cover term for both constructions, see Booij & van Kemenade [-@booij2003b]. 
+Under the heading ~~preverb~~ I will subsume two different constructions, known in the German linguistic tradition as *Verbpräfixe* 'verb prefixes' [@next a] and *Verbpartikel* 'verb particles' [@next b]. These constructions have clearly different syntactic characteristics (see [@sec:preverbs-prefixes-particles]), but from the perspective of valency alternations they appear to function highly similar. For a discussion of the term "preverb" as a cover term for both constructions, see Booij & van Kemenade [-@booij2003b]. 
 
 ::: ex
 a. Ich umfahre den Polizisten.
@@ -35,7 +35,7 @@ There are thirteen diatheses that are sufficiently prominent to be given a Germa
 
 ### Prefixes and particles {#sec:preverbs-prefixes-particles}
 
-The central morphosyntactic difference between verb prefixes and verb particles is their morphological bond to the lexical root. As implied by the name, verb prefixes like *be‑* are prefixed to the root and are never separated from it [@next a]. In contrast, verb particles like *ein‑* are in many constructions separated from the root [@next b], namely (i) in finite uses, (ii) by participle prefix *ge‑* (see [@sec:participles-identifying-participles]), and (iii) by infinitive 'prefix' *zu* (see [@sec:zuinfinitive-morphology]). Additionally, verb prefixes are unstressed, while verb particles are stressed. To indicate whether a preverb is a prefix or particle, I will add a stress mark after (prefix) or before (particle).
+The central morphosyntactic difference between verb prefixes and verb particles is their morphological bond to the lexical root. As implied by the name, verb prefixes like *be‑* are prefixed to the root and are never separated from it [@next a]. In contrast, verb particles like *ein‑* are in many constructions separated from the root [@next b], namely (i) in finite uses, (ii) by participle prefix *ge‑* (see [@sec:participles-identifying-participles]), and (iii) by infinitive "prefix" *zu* (see [@sec:zuinfinitive-morphology]). Additionally, verb prefixes are unstressed, while verb particles are stressed. To indicate whether a preverb is a prefix or particle, I will add a stress mark after (prefix) or before (particle).
 
 ::: ex
 a. Ich *beˈtrete* den Saal. \
@@ -125,11 +125,11 @@ c. Ich schütte das Wasser aus dem Eimer. \
    Ich schütte den Eimer aus.
 :::
 
-Third, some verbs appear to be counterexamples to the generalisation of accusative arguments with preverb diathesis because they do not have a full accusative argument after the application of the diathesis. However, they still have an accusative reflexive pronoun as a kind of formal substitute for the accusative. Note that functionally this reflexive pronoun is never coding a 'self-inflicting' reflexive construction, but only substituting for the 'missing' accusative argument.
+Third, some verbs appear to be counterexamples to the generalisation of accusative arguments with preverb diathesis because they do not have a full accusative argument after the application of the diathesis. However, they still have an accusative reflexive pronoun as a kind of formal substitute for the accusative. Note that functionally this reflexive pronoun is never coding a "self-inflicting" reflexive construction, but only substituting for the "missing" accusative argument.
 
-- Some transitive verbs with an accusative lose the accusative argument after the diathesis, but formally an 'empty' accusative is retained in the form of a reflexive pronoun. This is for example attested with the diathesis from *schreiben* 'to write' to *verschreiben* 'to misspell' in [@next a], see [@sec:preverb-reflexive-accusative-drop].
-- Some intransitive verbs remain intransitive after the diathesis, but formally an 'empty' accusative is added in the form of a reflexive pronoun. This is for example attested with the diathesis from *arbeiten* 'to work' to *überarbeiten* 'to overwork' in [@next b], see [@sec:preverb-reflexive].
-- Similarly, some intransitives (typically movement verbs) show even more indications that the prefixed verb with reflexive pronoun is alike to a transitive verb. This is for example attested with the diathesis from *laufen* 'to walk' to *verlaufen* 'to be lost' in [@next c], see [@sec:preverb-reflexive-intransitive-antiresultative]. Some typical 'agentive' characteristics are attested with *verlaufen*, e.g. a perfect auxiliary *haben*.
+- Some transitive verbs with an accusative lose the accusative argument after the diathesis, but formally an "empty" accusative is retained in the form of a reflexive pronoun. This is for example attested with the diathesis from *schreiben* 'to write' to *verschreiben* 'to misspell' in [@next a], see [@sec:preverb-reflexive-accusative-drop].
+- Some intransitive verbs remain intransitive after the diathesis, but formally an "empty" accusative is added in the form of a reflexive pronoun. This is for example attested with the diathesis from *arbeiten* 'to work' to *überarbeiten* 'to overwork' in [@next b], see [@sec:preverb-reflexive].
+- Similarly, some intransitives (typically movement verbs) show even more indications that the prefixed verb with reflexive pronoun is alike to a transitive verb. This is for example attested with the diathesis from *laufen* 'to walk' to *verlaufen* 'to be lost' in [@next c], see [@sec:preverb-reflexive-intransitive-antiresultative]. Some typical "agentive" characteristics are attested with *verlaufen*, e.g. a perfect auxiliary *haben*.
 
 ::: ex
 a. Er schreibt einen Brief. \
@@ -143,7 +143,7 @@ c. Der Hund ist nach Hause gelaufen. \
 Finally, there are a few exceptions to the generalisation that preverb alternations always have an accusative argument:
 
 - A very small group of verbs (± 3 examples) appear to lose the accusative argument completely after the preverb diathesis. This is for example attested with the diathesis from *kaufen* 'to buy' to *einkaufen* 'to go shopping' in [@next a], see [@sec:preverb-accusative-drop].
-- A small number of intransitive verbs (± 7 examples) remain intransitive after a preverb diathesis. This is for example attested with the diathesis from *blühen* 'to blossom' to *verblühen* 'to wither' in [@next b], see [@sec:preverb-intransitive-with-unaccusative]. However, note that these verbs can be used as a nominal attribute ('patientive') after the diathesis, suggesting that that argument is more object-like after the diathesis.
+- A small number of intransitive verbs (± 7 examples) remain intransitive after a preverb diathesis. This is for example attested with the diathesis from *blühen* 'to blossom' to *verblühen* 'to wither' in [@next b], see [@sec:preverb-intransitive-with-unaccusative]. However, note that these verbs can be used as a nominal attribute ("patientive") after the diathesis, suggesting that that argument is more object-like after the diathesis.
 - The most frequent exception (dozens of examples) are intransitive verbs that show a prepositional phrase turning into a dative argument with a preverb diathesis. This is for example attested with the diathesis from *jagen* 'to hunt' to *nachjagen* 'to chase' in [@next c], see [@sec:preverb-dative-applicative].
 
 ::: ex
@@ -301,7 +301,7 @@ b. Das kühle Wasser schmeckt. \
    Das abgekühlte Wasser schmeckt.
 :::
 
-There is a recurring question whether these verbs are directly derived from an adjective, or via an intermediate 'plain' verb, e.g. *kühlen* (cf. [@sec:preverb-adjectival-causative]). Such intermediate verbs might also be independent developments, i.e. the plain verb *kühlen* and the preverbal variant *abkühlen* are both derived from the adjective *kühl*. One argument in favour of independent developments is that the 'plain' verbs have varying semantics: either stative, like *kranken* 'to be sick' or *wachen* 'to be awake'; or causative, like *kühlen* 'to make cold' or *röten* 'to become red'. Another argument is that not all such intermediate verbs exist, e.g. the verb *magern* does not exist. Likewise, *späten* and *frühen* do not exist. 
+There is a recurring question whether these verbs are directly derived from an adjective, or via an intermediate "plain" verb, e.g. *kühlen* (cf. [@sec:preverb-adjectival-causative]). Such intermediate verbs might also be independent developments, i.e. the plain verb *kühlen* and the preverbal variant *abkühlen* are both derived from the adjective *kühl*. One argument in favour of independent developments is that the "plain" verbs have varying semantics: either stative, like *kranken* 'to be sick' or *wachen* 'to be awake'; or causative, like *kühlen* 'to make cold' or *röten* 'to become red'. Another argument is that not all such intermediate verbs exist, e.g. the verb *magern* does not exist. Likewise, *späten* and *frühen* do not exist. 
 
 #### Attested verbs {.unnumbered}
 
@@ -361,7 +361,7 @@ b. Die gelagerten Kartoffeln […]. \
 
 ### --- Patientive alternations --- {.unnumbered}
 
-Some intransitives show a peculiar phenomenon when prefixed: they are still intransitive but the subject becomes more patient-like in that the participle can be used attributively (one of the characteristics often discussed under the heading of the 'unaccusative hypothesis', see [@sec:participles-restrictions]). For example, the verbs *schlafen* 'to sleep' [@next a] and *einschlafen* 'to fall asleep' [@next b] are both intransitive. However, only *eingeschlafen* can be used attributively [@next c,d]. These examples are discussed in [@sec:preverb-intransitive-with-unaccusative].
+Some intransitives show a peculiar phenomenon when prefixed: they are still intransitive but the subject becomes more patient-like in that the participle can be used attributively (one of the characteristics often discussed under the heading of the "unaccusative hypothesis", see [@sec:participles-restrictions]). For example, the verbs *schlafen* 'to sleep' [@next a] and *einschlafen* 'to fall asleep' [@next b] are both intransitive. However, only *eingeschlafen* can be used attributively [@next c,d]. These examples are discussed in [@sec:preverb-intransitive-with-unaccusative].
 
 ::: ex
 a. Der Junge schläft.
@@ -390,7 +390,7 @@ d. ^* Die geblühte Blume ist immer noch schön.
 c. Die verblühte Blume ist immer noch schön.
 :::
 
-Note that there is a fascinating phenomenon going on here that is in need of more investigation. Many of the 'ungrammatical' attributively used participles are actually attested, but only when they are themselves modified [@next]. My intuition is that in such examples the participle is actually a non-finite embedded relative clause (e.g. *Mauersteine, die grau schimmeln*). However, whether there really is a difference between verbs that allow for a usage as 'isolated' attributive participles, like *verblüht* [@last d], vs. 'modified' attributive participles, like *geblüht* [@next a], is an open question in need of more research.
+Note that there is a fascinating phenomenon going on here that is in need of more investigation. Many of the "ungrammatical" attributively used participles are actually attested, but only when they are themselves modified [@next]. My intuition is that in such examples the participle is actually a non-finite embedded relative clause (e.g. *Mauersteine, die grau schimmeln*). However, whether there really is a difference between verbs that allow for a usage as "isolated" attributive participles, like *verblüht* [@last d], vs. "modified" attributive participles, like *geblüht* [@next a], is an open question in need of more research.
 
 ::: ex
 - grau geschimmelte Mauersteine^[~~DWDS~~: Neutsch, Erik: Spur der Steine, Halle: Mitteldeutscher Verl. 1964 [1964], S. 387.]
@@ -450,7 +450,7 @@ e. Der geärgerte Schulkamerad schrieb: […]^[~~DWDS~~: Büchner, Georg: Sämmt
 
 ### --- Empty reflexives --- {.unnumbered}
 
-Some verbs need an extra reflexive pronoun when they get a preverb, though the valency of the construction does not change. The reflexive pronoun is thus neither a self-inflicting reflexive construction, nor a marker of the diathesis itself. The reflexive pronouns in these cases seem to be mostly 'empty', except for putting a slight emphasis on the agency of the nominative subject (cf. 'free' reflexives in [@sec:reflexive-no-diathesis]).
+Some verbs need an extra reflexive pronoun when they get a preverb, though the valency of the construction does not change. The reflexive pronoun is thus neither a self-inflicting reflexive construction, nor a marker of the diathesis itself. The reflexive pronouns in these cases seem to be mostly "empty", except for putting a slight emphasis on the agency of the nominative subject (cf. "free" reflexives in [@sec:reflexive-no-diathesis]).
 
 ### [ N | N ] Preverb reflexive intransitive alternations {#sec:preverb-reflexive}
 
@@ -895,7 +895,7 @@ c. Er erfreut mich damit, dass er vorbei kommt.
 
 ### --- [ PBJ > SBJ > OBJ ] --- {.unnumbered}
 
-The following diatheses can be seen as passives 'in reverse'. On first notice everything just looks like a passive: (i) the accusative argument of the (prefixed) transitive verb turns into a nominative of the (non-prefixed) intransitive verb and (ii) the causer/agent of the (prefixed) transitive verb is expressed as a (governed) prepositional phrase with the (non-prefixed) intransitive verb. However, the direction of an alternation is by definition from the unmarked (non-prefixed) to the marked (prefixed) verb. So, these diatheses are 'reversed' passives. Although it would make sense to call such diatheses 'antipassives', this term is already taken by another kind of diatheses. Because the prepositional phrases are governed prepositions, these diatheses are examples of a ~~reversed conversive~~ diathesis, as defined in [@sec:intro-subject-promotions].
+The following diatheses can be seen as passives "in reverse". On first notice everything just looks like a passive: (i) the accusative argument of the (prefixed) transitive verb turns into a nominative of the (non-prefixed) intransitive verb and (ii) the causer/agent of the (prefixed) transitive verb is expressed as a (governed) prepositional phrase with the (non-prefixed) intransitive verb. However, the direction of an alternation is by definition from the unmarked (non-prefixed) to the marked (prefixed) verb. So, these diatheses are "reversed" passives. Although it would make sense to call such diatheses "antipassives", this term is already taken by another kind of diatheses. Because the prepositional phrases are governed prepositions, these diatheses are examples of a ~~reversed conversive~~ diathesis, as defined in [@sec:intro-subject-promotions].
 
 ### [ PN | NA ] Preverb reversed conversive {#sec:preverb-inverted-passives}
 
@@ -918,7 +918,7 @@ c. Deine Arbeit erstaunt mich.
 
 ### [ PN | NA ] Preverb reversed conversive+reflexive loss
 
-With the addition of the prefix, the verbs in this section lose their reflexive pronoun, like with *sich schämen* 'to be ashamed' [@next a] to *beschämen* 'to shame' [@next c]. Further note that the causer of the transitive is expressed as a governed preposition [@next b]. So, there is both a 'reversed' conversive and a 'reversed' reflexive marking in these diatheses. 
+With the addition of the prefix, the verbs in this section lose their reflexive pronoun, like with *sich schämen* 'to be ashamed' [@next a] to *beschämen* 'to shame' [@next c]. Further note that the causer of the transitive is expressed as a governed preposition [@next b]. So, there is both a "reversed" conversive and a "reversed" reflexive marking in these diatheses. 
 
 ::: ex
 a. Ich schäme mich für meine Taten.
@@ -1341,7 +1341,7 @@ The verb *schenken* 'to pour' used to be common in a context of pouring a drink 
 
 ### [ NLA | NA– ] Preverb applicative+accusative drop {#sec:preverb-location-antiresultative}
 
-The result of a verb like *pressen* 'to squeeze' is *Saft* 'juice' [@next a]. This verb needs an obligatory local phrase for the original container of the juice, *aus der Zitrone* 'from the citron' [@next b]. Verbs in this category either use the preposition *aus* or *von*. With a preverb, the verb *auspressen* 'to squeeze' drops this accusative result and promotes the container of the result *Zitrone* to accusative [@next c]. In effect, the role marked as object is exchanged. The new object (here *Zitrone*) is always a holonymic 'whole' containing the original meronymic content (here *Saft*). This diathesis applies to verbs in which the meronymic content is removed out of the holonymic container.
+The result of a verb like *pressen* 'to squeeze' is *Saft* 'juice' [@next a]. This verb needs an obligatory local phrase for the original container of the juice, *aus der Zitrone* 'from the citron' [@next b]. Verbs in this category either use the preposition *aus* or *von*. With a preverb, the verb *auspressen* 'to squeeze' drops this accusative result and promotes the container of the result *Zitrone* to accusative [@next c]. In effect, the role marked as object is exchanged. The new object (here *Zitrone*) is always a holonymic "whole" containing the original meronymic content (here *Saft*). This diathesis applies to verbs in which the meronymic content is removed out of the holonymic container.
 
 ::: ex
 a. Ich presse den Saft aus der Zitrone.
@@ -1356,7 +1356,7 @@ Most examples have an obligatory local phrase before the diathesis, but a few ve
 - Ich raube die Wohnung aus.
 :::
 
-There is a parallel diathesis with the resultative preverbials *leer‑* and *frei-*, which is discussed in detail in [@sec:adverbial-applicative-leer]. The reversal of this diathesis is the unmarked ~~partitive separated object~~ diathesis (see [@sec:prepositions-partitive-free]). Lipka [-@lipka1972: 93, 173] calls this diathesis *Objektvertauschung* and McIntyre [-@mcintyre2001: 275--277] 'landmark flexibility'. For historical context on this diathesis, see Carlberg [-@carlberg1948] and Hundsnurscher [-@hundsnurscher1968: 127]. Lipka opposes this diathesis to *Subjektvertauschung*, which is discussed in [@sec:preverb-preposition-anticausative]. However, that opposition does not seems to be a fruitful approach.
+There is a parallel diathesis with the resultative preverbials *leer‑* and *frei-*, which is discussed in detail in [@sec:adverbial-applicative-leer]. The reversal of this diathesis is the unmarked ~~partitive separated object~~ diathesis (see [@sec:prepositions-partitive-free]). Lipka [-@lipka1972: 93, 173] calls this diathesis *Objektvertauschung* and McIntyre [-@mcintyre2001: 275--277] "landmark flexibility". For historical context on this diathesis, see Carlberg [-@carlberg1948] and Hundsnurscher [-@hundsnurscher1968: 127]. Lipka opposes this diathesis to *Subjektvertauschung*, which is discussed in [@sec:preverb-preposition-anticausative]. However, that opposition does not seems to be a fruitful approach.
 
 #### Attested verbs {.unnumbered}
 
@@ -1518,7 +1518,7 @@ The antipassive demotion in this section always takes the preposition *mit*. The
 
 #### *um/mit* Preverb object exchange
 
-These verbs are illustrated with the diathesis between *binden* 'to tie' and *zubinden* 'tie up' [@next]. With these verbs, the new object after the diathesis (*Paket* 'parcel') is surrounded by the old object (*Faden* 'thread'). Because of the parallels to the previously discussed examples of this diathesis, this implies that the surrounded object is treated alike to a holonym and the surrounding as a meronym, and 'being surrounded' is treated alike to 'being full'.
+These verbs are illustrated with the diathesis between *binden* 'to tie' and *zubinden* 'tie up' [@next]. With these verbs, the new object after the diathesis (*Paket* 'parcel') is surrounded by the old object (*Faden* 'thread'). Because of the parallels to the previously discussed examples of this diathesis, this implies that the surrounded object is treated alike to a holonym and the surrounding as a meronym, and "being surrounded" is treated alike to "being full".
 
 ::: ex
 - Ich binde einen Faden um das Paket.
@@ -1725,7 +1725,7 @@ This diathesis contrasts with a highly similar diathesis that also introduces an
 - ^* Sie ermordet sich ihn.
 :::
 
-Some verbs, like *erschwimmen* 'to achieve by swimming' [@next], even allow for both constructions, either with reflexive pronoun [@next a] or without reflexive pronoun [@next b]. More examples of such 'free' reflexive pronouns are discussed in [@sec:reflexive-free-dative-sich-accusative]. Note that the semantic difference between these examples does not easily fit the opposition result vs. patient as proposed above. It remains unclear to me how exactly to explain these two options.
+Some verbs, like *erschwimmen* 'to achieve by swimming' [@next], even allow for both constructions, either with reflexive pronoun [@next a] or without reflexive pronoun [@next b]. More examples of such "free" reflexive pronouns are discussed in [@sec:reflexive-free-dative-sich-accusative]. Note that the semantic difference between these examples does not easily fit the opposition result vs. patient as proposed above. It remains unclear to me how exactly to explain these two options.
 
 ::: ex
 - Zumindest Völker erschwimmt sich jährlich einen fünfstelligen Betrag.^[~~DWDS~~: Berliner Zeitung, 16.03.2000.]
@@ -2248,7 +2248,7 @@ a. Ich bitte um ein besseres Verhalten.
 b. Ich verbitte mir dein Verhalten.
 :::
 
-However, the datives in many of these examples can be interpreted as a beneficiary, so it might be better to interpret them as a kind of *für* beneficiary dative, see [@sec:prepositions-benefactive-dative]. The reflexive marking might also not be necessary, i.e. the action could also be performed in favour of somebody else. When both these possibilities come together, then this diathesis would be a transparent stack of applicative +> beneficiary dative +> self-inflicting reflexive [@next] and would not warrant a separate subsection (for the notion 'stack' see [@sec:intro-stacking]).
+However, the datives in many of these examples can be interpreted as a beneficiary, so it might be better to interpret them as a kind of *für* beneficiary dative, see [@sec:prepositions-benefactive-dative]. The reflexive marking might also not be necessary, i.e. the action could also be performed in favour of somebody else. When both these possibilities come together, then this diathesis would be a transparent stack of applicative +> beneficiary dative +> self-inflicting reflexive [@next] and would not warrant a separate subsection (for the notion "stack" see [@sec:intro-stacking]).
 
 ::: ex
 Ich bettele um ein Stück Brot für dich. \
@@ -2427,7 +2427,7 @@ Some verbs allow for an additional accusative argument alongside a dative applic
 
 ### [ NPp | NAD ] Preverb dative applicative+governed applicative {#sec:preverb-double-applicative}
 
-An example of a 'double' applicative is found with the diathesis from *schweigen* 'to be silent' [@next a] and *verschweigen* 'to conceal' [@next b]. With the addition of the preverb *ver‑* both a dative and an accusative applicative are induced.
+An example of a "double" applicative is found with the diathesis from *schweigen* 'to be silent' [@next a] and *verschweigen* 'to conceal' [@next b]. With the addition of the preverb *ver‑* both a dative and an accusative applicative are induced.
 
 ::: ex
 a. Ich schweige zu dir über meinen Besuch.
@@ -2470,7 +2470,7 @@ b. Ich sehe ihm die Müdigkeit an.
 
 ### [ NpA | NAp ] Preverb applicative+*in* antipassive {#sec:preverb-applicative-in-antipassive}
 
-The diathesis from *füllen* 'to fill' [@next a] to *einfüllen* 'to fill into' [@next b] is an example of a ~~joined meronym~~ object exchange (cf, [@sec:intro-promoted-object-exchange]). The original accusative object (*Flasche* 'bottle') is changed into an optional *in* prepositional phrase, while an optional *mit* prepositional phrase (*Schnaps* 'liquor') is changed to accusative object. Semantically, the role of new accusative object (i.e. the liquid, *Schnaps*) is always a part ('meronym') of the old object role (i.e. the container, *Flasche*). Additionally, the verb describes a process in which the meronym is connected to the holonym. So the new object in this diathesis is always a 'joined' meronym'.
+The diathesis from *füllen* 'to fill' [@next a] to *einfüllen* 'to fill into' [@next b] is an example of a ~~joined meronym~~ object exchange (cf, [@sec:intro-promoted-object-exchange]). The original accusative object (*Flasche* 'bottle') is changed into an optional *in* prepositional phrase, while an optional *mit* prepositional phrase (*Schnaps* 'liquor') is changed to accusative object. Semantically, the role of new accusative object (i.e. the liquid, *Schnaps*) is always a part ("meronym") of the old object role (i.e. the container, *Flasche*). Additionally, the verb describes a process in which the meronym is connected to the holonym. So the new object in this diathesis is always a "joined" meronym'.
 
 ::: ex
 - Er hat die Flasche (mit Schnaps) gefüllt.

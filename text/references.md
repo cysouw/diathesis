@@ -1,6 +1,6 @@
-# References {.unnumbered}
+# Bibliography {.unnumbered}
 
 ```{=latex}
-\markboth{References}{}
-\markright{References}{}
+\markboth{Bibliography}{}
+\markright{Bibliography}{}
 ```

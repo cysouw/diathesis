@@ -15,7 +15,7 @@ As a case in point, the Duden grammar spends 20 pages on details of tense markin
 
 This chapter arose as a byproduct of the main goal of this book, namely listing all German diatheses. To clearly delimit what counts as a diathesis, I also collected constructions that are structurally similar to diathesis, but that do not involve any role remapping. Such a structure is called an ~~epithesis~~ and the various instances are listed in-full in the respective .4 sections of the following data chapters. These epitheses express various notions in the grammatical domain commonly designated as ~~TAME~~, i.e. the marking of tense-aspect-mood-evidentiality. This chapter summarises and organises the major epitheses that I have been able to find. I will also propose Latinate-German names for all of these constructions. This results in an all-encompassing but rather unconventional perspective on the verbal categories of German.
 
-Quickly recapitulated, an ~~epithesis~~ is a monoclausal construction in which the lexical roles are not remapped in comparison to a basic clause (i.e. a clause with just a single finite lexical verb). For example, a basic clause with the finite verb *erzählen* 'to tell' [@next a] might have the roles of 'teller' (*Großvater*, in the nominative), 'tellee' (*Enkelin*, in the dative) and 'story told' (*Witz*, in the accusative). A construction like *pflegen+zu‑In­fi­ni­tiv* is an epithesis because when applied to *erzählen* all these roles remain encoded in exactly the same grammatical form [@next b]. Additionally, this construction is monoclausal because the finite *pflegte* is placed at the end when the sentence is used as a subordinate clause (i.e. the clause is coherent, see [@sec:intro-coherence]).
+Quickly recapitulated, an ~~epithesis~~ is a monoclausal construction in which the lexical roles are not remapped in comparison to a basic clause (i.e. a clause with just a single finite lexical verb). For example, a basic clause with the finite verb *erzählen* 'to tell' [@next a] might have the roles of "teller" (*Großvater*, in the nominative), "tellee" (*Enkelin*, in the dative) and "story told" (*Witz*, in the accusative). A construction like *pflegen+zu‑In­fi­ni­tiv* is an epithesis because when applied to *erzählen* all these roles remain encoded in exactly the same grammatical form [@next b]. Additionally, this construction is monoclausal because the finite *pflegte* is placed at the end when the sentence is used as a subordinate clause (i.e. the clause is coherent, see [@sec:intro-coherence]).
 
 ::: ex
 - Der Großvater erzählt seiner Enkelin einen Witz.
@@ -23,7 +23,7 @@ Quickly recapitulated, an ~~epithesis~~ is a monoclausal construction in which t
 - (Es ist bekannt, dass) der Großvater seiner Enkelin einen Witz zu erzählen pflegte.
 :::
 
-The constructions listed in this chapter are not haphazardly collected out of some infinite pool of possible analytical combinations of German verb forms. Quite to the contrary, the constructions listed here are claimed to be an exhaustive list of all epithetical German verb forms. Only a few rare and/or old-fashioned constructions are left out from this summary (but they can still be found in the following data chapters). The list of major epitheses in this chapter is quite long (about 40 constructions), but manageable. Any 1000-plus-page grammar could easily add a few pages listing them all (or at least the most commonly attested ones). This number of epitheses is also quite a bit less than the number of major diatheses presented in the previous chapter (about 80 constructions). This indicates that from a purely grammatical perspective, diathesis ('grammatical voice') is about a two-times more elaborate topic than epithesis ('tense-aspect-mood marking'). 
+The constructions listed in this chapter are not haphazardly collected out of some infinite pool of possible analytical combinations of German verb forms. Quite to the contrary, the constructions listed here are claimed to be an exhaustive list of all epithetical German verb forms. Only a few rare and/or old-fashioned constructions are left out from this summary (but they can still be found in the following data chapters). The list of major epitheses in this chapter is quite long (about 40 constructions), but manageable. Any 1000-plus-page grammar could easily add a few pages listing them all (or at least the most commonly attested ones). This number of epitheses is also quite a bit less than the number of major diatheses presented in the previous chapter (about 80 constructions). This indicates that from a purely grammatical perspective, diathesis ("grammatical voice") is about a two-times more elaborate topic than epithesis ("tense-aspect-mood marking"). 
 
 ## Classifying epitheses
 
@@ -31,7 +31,7 @@ The epitheses listed in this chapter map out all grammaticalised verbal categori
 
 Epitheses mostly express a rather clear semantic content, but they are not obligatorily used to express that content. For example, the *pflegen+In­fi­ni­tiv* epithesis, as mentioned above, expresses a habitual aspect. However, this construction is far from the only way to express a habitual aspect in German. Habitual aspect will typically be expressed by a verb in the present tense with an adverbial phrase expressing the habitual recurrence, like *regelmäßig* 'regularly' or a concrete timeframe with *jeden*, like *jeden Morgen* 'every morning'. So, the characterisation of *pflegen+In­fi­ni­tiv* as a habitual verb form is actually only part of the story. What needs to be added in future research is a more detailed description of the kind of contexts in which this construction is actually used, in contrast to other options that are available to the speaker. 
 
-This desideratum holds for all epitheses discussed here: it is necessary to specify what determines their usage. A famous case in point is the *werden+In­fi­ni­tiv* construction, which is called *Futur* in the German grammatical tradition (see [@sec:infinitive-werden-modal]). This construction can indeed express events in the future, so the name *Futur* is not necessarily wrong. However, future events are much more commonly expressed with a verb in the present tense with a future time adverbial. So, a more detailed characterisation of the *werden+In­fi­ni­tiv* is required to explain under what circumstances it is actually used. A description like 'expectation/presumption' is probably less flawed than 'future'.
+This desideratum holds for all epitheses discussed here: it is necessary to specify what determines their usage. A famous case in point is the *werden+In­fi­ni­tiv* construction, which is called *Futur* in the German grammatical tradition (see [@sec:infinitive-werden-modal]). This construction can indeed express events in the future, so the name *Futur* is not necessarily wrong. However, future events are much more commonly expressed with a verb in the present tense with a future time adverbial. So, a more detailed characterisation of the *werden+In­fi­ni­tiv* is required to explain under what circumstances it is actually used. A description like "expectation/presumption" is probably less flawed than "future".
 
 The epithetical constructions listed in this chapter are organised along the lines of the ~~TAME~~ categorisation (tense-aspect-modality-evidentiality). This subdivision is not always clear-cut, it is more of a continuum. This means that the placement of a specific construction in one or the other group is more a matter of practical convenience than of strict definitional categorisation. 
 
@@ -41,7 +41,7 @@ Additionally, I have added a section with epithetical constructions that are fun
 
 ## Temporal aspect {#sec:epithesis-temporal-aspect}
 
-The grammatical category of aspect is commonly defined as linguistic marking that specifies the 'internal temporal constituency of a situation' [@comrie1976: 3]. In this sense, the title of this section, ~~temporal aspect~~, might appear to be tautological. However, this designation is used here in opposition to a different set of constructions that specify the spatial constituency of a situation, ~~spatial aspect~~, described in the next [@sec:epithesis-spatial-aspect]. Temporal aspect in German includes a surprisingly large number of continuative constructions, many of which express different facets of the continuation of a state.
+The grammatical category of aspect is commonly defined as linguistic marking that specifies the "internal temporal constituency of a situation" [@comrie1976: 3]. In this sense, the title of this section, ~~temporal aspect~~, might appear to be tautological. However, this designation is used here in opposition to a different set of constructions that specify the spatial constituency of a situation, ~~spatial aspect~~, described in the next [@sec:epithesis-spatial-aspect]. Temporal aspect in German includes a surprisingly large number of continuative constructions, many of which express different facets of the continuation of a state.
 
 ### *Perfekt* (*haben/sein+Partizip*) {#sec:summary-perfekt}
 
@@ -154,7 +154,7 @@ b. Ich halte die Tür geschlossen.
 
 ## Spatial aspect {#sec:epithesis-spatial-aspect}
 
-The grammatical marking of aspect is commonly defined as linguistic expressions that specify the 'internal temporal constituency of a situation' [@comrie1976: 3]. In this sense, the term ~~spatial aspect~~ might seem contradictory. However, spatial aspect simply expresses a change in the spatial constituency of an event. In German, there are few 'pure' examples of such spatial aspect, like the *Absentiv*. However, most categories described in this section actually combine spatial and temporal aspects. The light verb *gehen* and *kommen* are used here in a few different, but highly similar constructions.
+The grammatical marking of aspect is commonly defined as linguistic expressions that specify the "internal temporal constituency of a situation" [@comrie1976: 3]. In this sense, the term ~~spatial aspect~~ might seem contradictory. However, spatial aspect simply expresses a change in the spatial constituency of an event. In German, there are few "pure" examples of such spatial aspect, like the *Absentiv*. However, most categories described in this section actually combine spatial and temporal aspects. The light verb *gehen* and *kommen* are used here in a few different, but highly similar constructions.
 
 ### *Absentiv* (*sein+In­fi­ni­tiv*) {#sec:summary-absentiv}
 
@@ -409,9 +409,9 @@ The *Selbstbezogener Reflexiv* can be identified by the following characteristic
 
 (i) There is a reflexive pronoun in the sentence that can be negated and stressed.
 (ii) The pronoun *selbst* can optionally be added.
-(iii) The roles of the verb do not change, i.e. [@next b] still contains the roles of 'washer' and 'washee'.
-(iv) The reflexive pronoun references an object role (here 'washee').
-(v) The participant who takes the role of subject (here 'washer') is identical to the participant that is encoded by the reflexive pronoun.
+(iii) The roles of the verb do not change, i.e. [@next b] still contains the roles of "washer" and "washee".
+(iv) The reflexive pronoun references an object role (here "washee").
+(v) The participant who takes the role of subject (here "washer") is identical to the participant that is encoded by the reflexive pronoun.
 
 ::: ex
 a. Der Vater wäscht das Kind.
@@ -424,7 +424,7 @@ The ~~Reziprok~~ (full discussion in [@sec:reflexive-accusative-reciprocal] and 
 
 (i) There is a reflexive pronoun or *einander* in the sentence.
 (ii) When there is a reflexive pronoun, then *gegenseitig* can optionally be added; *selbst* is not possible.
-(iii) The roles of the verb do not change, i.e. [@next b] still contains the roles of 'crosser' and 'crossee'.
+(iii) The roles of the verb do not change, i.e. [@next b] still contains the roles of "crosser" and "crossee".
 (iv) The subject is obligatorily plural, as it references the participants of both roles simultaneously.
 (iv) The reflexive pronoun/*einander* marks that both participants take both roles simultaneously.
 
