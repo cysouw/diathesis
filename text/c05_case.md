@@ -19,8 +19,8 @@ The unmarked nature of covert diatheses implies that there is some slight redund
 
 There are seven diatheses that seem prominent enough to be given a German name. I propose the following names for these:
 
-- ~~[SBJ › Ø] Auslöserentfall~~ (see [@sec:case-nominative-drop] ff.)
-- ~~[OBJ › SBJ › Ø] Antikausativ~~ (see [@sec:case-haben-anticausative] ff.)
+- ~~[SBJ › O] Auslöserentfall~~ (see [@sec:case-nominative-drop] ff.)
+- ~~[OBJ › SBJ › ∅] Antikausativ~~ (see [@sec:case-haben-anticausative] ff.)
 - ~~[Ø › SBJ › OBJ] Kausativ~~ (see [@sec:case-sein-causative] ff.)
 - ~~[Ø › OBJ] Ergebnisakkusativ~~ (see [@sec:case-accusative-addition])
 - ~~[OBJ › Ø] Optionaler Akkusativ~~ (see [@sec:case-accusative-drop] ff.)
@@ -407,9 +407,9 @@ This section is empty. It is only added here for the numbering to be parallel ac
 
 ## Diatheses with subject demotion
 
-### --- [ SBJ > Ø ] --- *Auslöserentfall* {.unnumbered}
+### [ SBJ > O ] *Auslöserentfall*
 
-### [ N | – ] Nominative drop {#sec:case-nominative-drop}
+#### [ N | – ] Nominative drop {#sec:case-nominative-drop}
 
 In German it is typically not possible to have a sentence in which the nominative subject is dropped. For the few verbs that allow the nominative subject to be absent, a valency-simulating pronoun *es* has to be inserted (see [@sec:intro-es] for more details on this pronoun). For example, with some intransitive dispersion verbs like *stinken* 'to stink' [@next a] it is possible to leave out the origin of the dispersion [@next b] to indicate the effect without knowledge of the cause. 
 
@@ -425,11 +425,11 @@ a. Es weht.
 b. Der Wind weht.
 :::
 
-#### Attested verbs {.unnumbered}
+##### Attested verbs {.unnumbered}
 
 - Dispersion verbs: *abkühlen, blühen, dampfen, duften, klingeln, knistern, krachen, riechen, spriessen, stinken*
 
-#### Further examples {.unnumbered}
+##### Further examples {.unnumbered}
 
 - Der Nachbar klingelt an der Tür. \
   An der Tür klingelt es. 
@@ -440,7 +440,7 @@ b. Der Wind weht.
 - Das Kochen klappt noch nicht so gut. \
   Jetzt klappt es. 
 
-### [ NA | –A ] Nominative drop+accusative {#sec:case-nominativ-drop-accusative}
+#### [ NA | –A ] Nominative drop+accusative {#sec:case-nominativ-drop-accusative}
 
 A few additinoal apparently dropped nominatives are discussed here for completeness' sake. They appear to be highly idiosyncratic. Both examples allow for the nominative to be dropped, but an accusative argument is obligatorily present and cannot be dropped. The first example is the drop of the nominative with the verb *geben* when used in the meaning of 'to produce' [@next]. Note that there is close connection to another diathesis with a light verb *geben* 'to give' (see [@sec:zuinfinitive-geben-demotion]). The second example of a nominative drop with a retained object is with the verb *brauchen* 'to need' [@nnext].
 
@@ -454,16 +454,16 @@ b. Dieses Jahr gibt es einen guten Wein.
 - Es braucht euch alle im Kampf gegen die Diktatur. 
 :::
 
-#### Attested verbs {.unnumbered}
+##### Attested verbs {.unnumbered}
 
 - *brauchen, geben*
 
-#### Further examples {.unnumbered}
+##### Further examples {.unnumbered}
 
 - Der Verkäufer gibt den Lutscher gratis dazu. \
   Den Lutscher gibt es gratis dazu.
 
-### [ ND | –D ] Nominative drop+dative {#sec:case-nominativ-drop-dative}
+#### [ ND | –D ] Nominative drop+dative {#sec:case-nominativ-drop-dative}
 
 In a few exceptional examples a verb with a nominative and a dative allows for the nominative to be dropped and replaced by a valency-simulating pronoun *es*, like with *gefallen* 'to appeal' [@next a,b].
 
@@ -479,16 +479,16 @@ a. Es galt mir.
 b. Es ist mir ein Unfall widerfahren.
 :::
 
-#### Attested verbs {.unnumbered}
+##### Attested verbs {.unnumbered}
 
 - *gefallen, langen*
 
-#### Further examples {.unnumbered}
+##### Further examples {.unnumbered}
 
 - Mein Gehalt langt mir nicht. \
   Jetzt langt es mir aber!
 
-### [ NG | –G ] Nominative drop+genitive {#sec:case-nominativ-drop-genitive}
+#### [ NG | –G ] Nominative drop+genitive {#sec:case-nominativ-drop-genitive}
 
 A few verbs with nominative and genitive arguments allow the nominative to be dropped, but the genitive to be retained, like with *bedürfen* 'to require' [@next] and *entbehren* 'to do without' [@nnext].
 
@@ -502,13 +502,13 @@ a. Der Vorwurf entbehrt jeglichen Beweises.
 b. Insofern entbehrt es jeglichen Beweises.
 :::
 
-#### Attested verbs {.unnumbered}
+##### Attested verbs {.unnumbered}
 
 - *bedürfen, entbehren*
 
-### --- [ OBJ > SBJ > Ø ] --- *Antikausativ* {.unnumbered}
+### [ OBJ > SBJ > Ø ] *Antikausativ*
 
-### [ NA | –N ] *haben* anticausative {#sec:case-haben-anticausative}
+#### [ NA | –N ] *haben* anticausative {#sec:case-haben-anticausative}
 
 A typical anticausative verb allows for both a transitive [@next a] and an intransitive construction [@next b] in which the intransitive nominative expresses the same participant as the transitive accusative. This is attested in German with verbs like *beginnen* 'to start' [@next]. However, because this diathesis is formally unmarked it is difficult to decide whether this should be classified as an anticausative or as a causative [cf. @scheibl2006: 355]. 
 
@@ -523,11 +523,11 @@ Semantically, the intransitive *haben*-construction in [@next d] seems to be the
 - Der Krieg hat (schrittweise) begonnen.
 :::
 
-#### Attested verbs {.unnumbered}
+##### Attested verbs {.unnumbered}
 
 - *abnehmen, abreißen, abstoßen, anfangen, anhalten, aufmachen, backen, baden, beginnen, bewegen, braten, bremsen, duschen, fliegen, kochen, landen, läuten, öffnen, rauchen, schließen, spielen (Tonträger), starten, stoppen, umdrehen, umgeben, wiegen, zählen, zünden*
 
-#### Further examples {.unnumbered}
+##### Further examples {.unnumbered}
 
 - Ich koche den Kaffee. \
   Der Kaffee hat gekocht. \
@@ -563,7 +563,7 @@ Semantically, the intransitive *haben*-construction in [@next d] seems to be the
   Die Platte hat gespielt. 
   Die Platte ist gespielt.
 
-#### Notes {.unnumbered}
+##### Notes {.unnumbered}
 
 A causative reading seems to be available with *duschen* 'to take a shower' [@next a]. With an accusative this verbs means 'to give someone else a shower' [@next b]. However, both intransitive perfekt auxiliaries *haben* and *sein* are possible [@next c,d], so I classify this alternation here with the anticausatives (and not with the causatives). A parallel situation arises with *baden* 'to bathe'.
 
@@ -605,7 +605,7 @@ The verbs *öffnen* 'to open' and *schließen* 'to close' appear here in a speci
   Die Tür hat sich geöffnet
 :::
 
-### [ NAD | –ND ] *haben* anticausative+dative
+#### [ NAD | –ND ] *haben* anticausative+dative
 
 The verb *anhängen* literally (but not commonly) means 'to attach to' [@next a]. However, more widespread is the metaphorical extension with a meaning of 'to put a burden on somebody' with the 'somebody' encoded in the dative case [@next b]. In this meaning it can be used intransitively [@next c] and the dative cannot be dropped [@next d]. Note that there is variation in the form of the participle (*angehängt* vs. *angehangen*), which is a vestige of causative morphology (see [@par:hängen]). Also note that the auxiliary *sein* does not seem to be possible in the intransitive [@next e], so this verb does not align with other vestiges of causative morphology in German (see [@sec:case-umlaut-causative]). 
 
@@ -617,7 +617,7 @@ The verb *anhängen* literally (but not commonly) means 'to attach to' [@next a]
 - ^* Er ist einer Illusion angehangen.
 :::
 
-#### Attested verbs {.unnumbered}
+##### Attested verbs {.unnumbered}
 
 - *anhängen*
 

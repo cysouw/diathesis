@@ -28,7 +28,7 @@ filters:
 - filters/strikeout-to-smallcaps.lua
 - filters/count-para.lua
 - filters/pandoc-ling.lua
-- pandoc-crossref
+- filters/pandoc-crossref
 - filters/crossref-adapt.lua
 - citeproc
 
@@ -41,6 +41,7 @@ metadata-files:
 
 number-sections: true
 table-of-contents: true
+toc-depth: 4
 standalone: true
 self-contained: true
 default-image-extension: svg
