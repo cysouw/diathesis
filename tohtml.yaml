@@ -19,7 +19,6 @@ input-files:
 - text/c11_infinitive.md
 - text/c12_zuInfinitive.md
 - text/c13_zumInfinitive.md
-#- text/examples.md
 - text/references.md
 
 filters:
@@ -41,7 +40,7 @@ metadata-files:
 
 number-sections: true
 table-of-contents: true
-toc-depth: 4
+toc-depth: 3
 standalone: true
 self-contained: true
 default-image-extension: svg
