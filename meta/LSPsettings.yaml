@@ -2,7 +2,7 @@
 
 documentclass: book
 top-level-division: chapter
-lang: en-GB # important for hyphenation
+lang: en-GB
 
 # pandoc-crossref settings
 

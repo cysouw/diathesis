@@ -289,7 +289,7 @@ Not all collocations of verbs with a preposition are governed phrases. For examp
   \* Das Problem steht dazu, daß ...
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - an   : *appellieren*
 - auf  : *achten (aufpassen), bauen, bestehen, hoffen, kommen, vertrauen*
@@ -302,7 +302,7 @@ Not all collocations of verbs with a preposition are governed phrases. For examp
 - vor  : *stehen*
 - zu   : *kommen, neigen, passen, stehen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich bestehe auf eine Hochzeit.
 - Ich achte auf die Kinder.
@@ -315,7 +315,7 @@ Not all collocations of verbs with a preposition are governed phrases. For examp
 - Sie bricht mit ihrer Familie.
 - Die Farbe passt zu dir.
 
-#### Notes {.unnumbered}
+#### Notes {.unnumbered .unlisted}
 
 The combination *handeln über* is attested [@next a], but infrequent. Instead *handeln von* seems to be preferred [@next b]. Seperately, the combination *kommen zu* 'to achieve' has negative polarity [@next c].
 
@@ -334,14 +334,14 @@ Some verbs, like *erinnern* 'to remind' [@next], combine a governed preposition 
 - Ich erinnere dich daran, dass du einen Termin hast.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - an   : *erinnern, gewöhnen, wenden*
 - über : *aufklären, unterrichten*
 - für  : *ausgeben (bezeichnen)*
 - mit  : *begründen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Er gewöhnt seinen Sohn an den Geschmack.
 - Er hat viel Arbeit an das Haus gewandt.^[Attested at <https://www.dwds.de/wb/wenden>, accessed 18 April 2022.]
@@ -359,11 +359,11 @@ Some verbs appear to have an obligatory location argument, like *wohnen* 'to liv
 - ^* Sie wohnt.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *entspringen, münden, sein (sich befinden), spielen (zutragen), wohnen, übernachten, zeigen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Der Wegweiser zeigt nach Norden.
 - Der Fluss entspringt aus den Bergen.
@@ -380,13 +380,13 @@ a. Der Hund liegt im Korb.
 b. Er legt den Hund in den Korb.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Verbs with ablaut causatives: *legen, setzen, stellen*
 - Verbs forcing something away: *drängen, scheuchen, schütten, treiben*
 - Others: *ketten, schnallen, verbringen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich stecke einen Schatz in ein Versteck.
 - Ich scheuche die Mücken aus dem Haus.
@@ -405,12 +405,12 @@ The verb *belassen bei* 'to rest a matter with' [@next] appears to have an oblig
 - Die Polizistin belässt es dabei, mich zu verwarnen.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - auf : *absehen*
 - bei : *belassen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich habe es auf ihn abgesehen.
 - Ich belasse es bei einer Warnung.
@@ -427,11 +427,11 @@ d. ^* Karl und Anna kooperieren sich.
 d. Karl kooperiert mit Anna [zusammen mit seinem Freund].
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *anstoßen (zuprosten), debattieren, diskutieren, fechten, kämpfen, kommunizieren, konkurrieren, kooperieren, korrespondieren, ringen, rivalisieren, spielen, streiten, unterhandeln, verhandeln, wetteifern*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Karl debattiert mit Anna. \
   Karl und Anna debattieren miteinander.
@@ -459,21 +459,21 @@ c. Das Resultat zeugt von deinem Einsatz.
 d. Es zeugt von deinem Einsatz.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - von : *abhängen, wimmeln*
 - zu  : *kommen*
 - an  : *hapern*
 - bei : *hapern*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Der Platz wimmelt von Kindern. \
   Hier wimmelt es von Kindern. 
 - Ich komme zu einem harmlosen Ergebnis. \
   Gestern kam es zu einem Streit.
 
-#### Notes {.unnumbered}
+#### Notes {.unnumbered .unlisted}
 
 Some dictionaries list *hapern an* 'to be lacking' as having obligatory *es* [@next a]. However, in corpora there are various examples with a nominative subject [@next b,c].
 
@@ -495,11 +495,11 @@ a. Das Geld fehlt ihm.
 b. Ihm fehlt es an Geld.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - an : *fehlen, mangeln*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Leider mangelt ihm jeglicher Stolz. \
   Ihm mangelt es an Stolz.
@@ -514,11 +514,11 @@ b. Mir ist kalt (im Sommer).
 c. Es ist kalt (im Sommer).
 :::
  
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *kalt sein, langweilig sein, zum Heulen sein*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Mir ist zum Heulen im Sommer. \
   Der Sommer ist zum Heulen. 
@@ -545,13 +545,13 @@ c. Ich passe in deinen Anzug.
 d. Mir passt der Anzug.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - mit : (noise production) *klappern, klingeln, quietschen, rasseln, rattern*
 - an  : *zunehmen*
 - in  : *passen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Er quietscht mit den Reifen. \
   Die Reifen quietschen.
@@ -573,14 +573,14 @@ b. Die Salbe des Doktors heilt die Wunde.
 
 The instrumental *mit* phrase is a real non-governed instrument, i.e. an inanimate artefact that is used by the agent to achieve a certain goal. A further structural argument for the status as instrument is that the preposition *mit* can be replaced by *ohne*. This defines the differentiation between this diathesis and a fabricative (see [@sec:prepositions-fabricative-accusative]). In a fabricative, the *mit* phrase (i) is a governed preposition, i.e. it can be replaced by a sentence starting with *damit, dass*, (ii) designates something that the agent has fabricated, and (iii) cannot be replaced by *ohne*.
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Instruments of destruction: *mahlen, schneiden, zerbrechen, zerschneiden, zerstören*
 - Instruments of killing and healing: *ersticken, heilen, töten, umbringen*
 - Instruments of physical action: *beladen, füllen, öffnen, schließen*
 - Instruments of adornment: *anleuchten, bedecken, gliedern, schmücken, verschmutzen, verstopfen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich treffe den Nagel mit einem Hammer. \
   Der Hammer trifft einen Nagel.
@@ -609,7 +609,7 @@ The instrumental *mit* phrase is a real non-governed instrument, i.e. an inanima
 - Ich gliedere den Garten mit Baumreihen. \
   Baumreihen gliedern den Garten.
 
-#### Notes {.unnumbered}
+#### Notes {.unnumbered .unlisted}
 
 Not all instruments allow for this diathesis [@next]. This difference suggests that there are at least two different kinds of instruments [cf. @hooste2018].
 
@@ -629,11 +629,11 @@ This alternation takes a (non-governed) prepositional phrase and turns it into a
 - Die Suppe schmeckt nach Pfefferminze.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *riechen, schmecken*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich rieche Blume im Parfüm. \
   Der Parfüm riecht nach Blume.
@@ -660,14 +660,14 @@ b. Deine Witze ärgern mich.
 c. Ich ärgere mich über deine Witze.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Verbs of emotional interaction: *ärgern, belustigen, begeistern, empören, erfreuen, erheitern, erschrecken, erstaunen, stören, trösten, überraschen, unterhalten, verblüffen, verwirren, quälen*
 - Verbs of relaxation: *beruhigen, entspannen*
 - Verbs of influence: *beschäftigen, bewirken*
 - Verbs of proof: *bestätigen, beweisen, erklären, rechtfertigen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Die Späße des Komikers belustigten das Publikum. \
   Der Komiker belustigte das Publikum mit seinen Späßen. 
@@ -684,7 +684,7 @@ c. Ich ärgere mich über deine Witze.
 - Der Brief beweist/bestätigt/erklärt/rechtfertigt meine Unschuld. \
   Ich beweise/bestätige/erkläre/rechtfertige meine Unschuld mit dem Brief.
 
-#### Notes {.unnumbered}
+#### Notes {.unnumbered .unlisted}
 
 For a detailed discussion of the verb *erschrecken* and possible morphophonological differences between the two alternants, see Plank & Lahiri [@plank2015: 29--31].
 
@@ -698,7 +698,7 @@ b. Ich dränge darauf, dass die Regelung geändert wird.
 c. Die Änderung drängt.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *drängen*
 
@@ -712,7 +712,7 @@ b. Er droht mir damit, dass ich entlassen werde.
 c. Die Entlassung droht mir.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *drohen*
 
@@ -735,11 +735,11 @@ b. Der Teller hat (allmählich) am Tisch geklebt.
 c. Der Teller ist (\*allmählich) am Tisch geklebt.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *hängen, klappen, kleben, lehnen, stecken*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich habe das Buch in meine Tasche gesteckt. \
   Das Buch steckt in meiner Tasche.
@@ -752,7 +752,7 @@ c. Der Teller ist (\*allmählich) am Tisch geklebt.
 - Er klappt den Sitz nach hinten. \
   Der Sitz klappt nach hinten. Der Sitz ist nach hinten geklappt.
 
-#### Notes {.unnumbered}
+#### Notes {.unnumbered .unlisted}
 
 {#par:hängen} The verb *hängen* still shows the difference between transitive causative and intransitive stative usage through different forms of the past *hing* vs. *hängte* [@next a,b] and the participle *gehangen* vs. *gehängt* [@next c,d]. Many speakers of German do not appear to have clear intuitions about any difference between these two inflectional alternatives anymore [see also @plank2015: 32--33].
 
@@ -773,7 +773,7 @@ b. Der Traum deutet auf nichts Gutes.
 c. Der Traum deutet darauf, dass morgen alles wieder gut sein wird.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *deuten*
 
@@ -807,11 +807,11 @@ c. Der Tisch ist geputzt.
 d. ^* Der Tisch putzt.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *fahren, hetzen, rücken, stürzen, treiben, ziehen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Der Hund ist durch den Wald gehetzt. \
   Der Hund hat den Hasen durch den Wald gehetzt.
@@ -824,7 +824,7 @@ d. ^* Der Tisch putzt.
 - Die Soldaten rücken in die Kaserne.^[Attested on <https://www.dwds.de/wb/rücken>, accessed 23 April 2022.] \
   Ich rücke den Tisch zur Seite. \
 
-#### Notes {.unnumbered}
+#### Notes {.unnumbered .unlisted}
 
 The alternation with the verb *rücken* 'to move over' and *ziehen* 'to pull' are rather idiosyncratic. Possibly, these alternations constructions are better seen as different verbs.
 
@@ -837,11 +837,11 @@ Vestiges of the old Germanic causative suffix *‑jan* can still be found in som
 - Ich lege den Hund in den Korb.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *liegen/legen, schwimmen/schwemmen, sitzen/setzen, stehen/stellen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Das Pferd schwimmt im Fluss. \
   Er schwemmte die Pferde im Fluss.^[Attested on <https://www.dwds.de/wb/schwemmen>, accessed 23 April 2022. This usage appears to be old-fashioned.]
@@ -909,7 +909,7 @@ b. Der Reporter spricht von einem historischen Ereignis. \
    Der Reporter spricht davon, dass es ein historisches Ereignis ist.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - über  : (object of control) *siegen, triumphieren*
 - über  : (content of report) *lügen, reden, sprechen, schweigen*
@@ -924,7 +924,7 @@ b. Der Reporter spricht von einem historischen Ereignis. \
 - an    : *arbeiten, denken, scheitern, sterben, teilnehmen, zweifeln*
 - um    : *streiten*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich rede über die Angelegenheit.
 - Ich spreche von den Plänen.
@@ -957,7 +957,7 @@ b. Ich bereite dich vor.
 c. ^* Ich bereite auf die Klausur vor.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - über : *behaupten, herrschen, erfahren*
 - an   : *beteiligen, erkennen, hindern, rächen*
@@ -965,7 +965,7 @@ c. ^* Ich bereite auf die Klausur vor.
 - auf  : *vorbereiten*
 - von  : *unterscheiden, verlangen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich behaupte das Gegenteil über die Angelegenheit.
 - Ich hindere dich am Essen.
@@ -1005,11 +1005,11 @@ The verbs that allow for such a diathesis have a clear difference in meaning bet
 - *stehen*: 'to stand' vs. 'to be stopped'
 - *ziehen*: 'to pull' vs 'to brew'
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *eilen, laufen, steigen, stehen, ziehen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich ziehe am Seil. \
   Der Tee zieht.
@@ -1030,7 +1030,7 @@ The verb *durchziehen* needs a location phrase when used in the meaning 'to pull
 - Ich habe die Reform durchgezogen.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *durchziehen*
 
@@ -1046,13 +1046,13 @@ b. Ich warne dich.
 c. Ich warne vor den Gefahren.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - über : (Content of report) *erzählen, hören, informieren, schreiben*
 - von  : (Origin of report) *erfahren, hören*
 - vor  : (Protection) *schützen, warnen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich informiere (die Anwesenden) über die Angelegenheit.
 - Ich erzähle (die Geschichte) über die Angelegenheit.
@@ -1069,13 +1069,13 @@ b. ^* Ich rate dir.
 c. Ich rate zum Verkauf.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - zu   : *raten*
 - über : *berichten, erzählen*
 - von  : *berichten, erzählen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich berichte/erzähle (dir) über die Angelegenheit.
 - Ich berichte/erzähle (dir) von der Versammlung.
@@ -1091,14 +1091,14 @@ c. Ich gratuliere zu deinem Geburtstag.
 d. ^^?^ Ich gratuliere.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - zu   : *gratulieren*
 - bei  : *zuschauen*
 - für  : *danken*
 - auf  : *antworten*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich gratuliere (dir) zu deinem Geburtstag.
 - Ich schaue (dir) zu beim Kochen.
@@ -1171,13 +1171,13 @@ b. Ich schlecke mein Eis. \
    Ich schlecke an meinem Eis.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Bodily contact: *fühlen, knabbern, kratzen, lutschen, riechen, saugen, schnüffeln, schlecken, schlürfen, schnuppern, stoßen, üben, ziehen, zupfen*
 - Partial object construction: *basteln, bauen, graben, malen, nähen, stricken, schreiben*
 - Gain/loss: *gewinnen, verdienen, verlieren*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich knabbere meinen Keks. \
   Ich knabbere an meinem Keks.
@@ -1198,7 +1198,7 @@ b. Ich schlecke mein Eis. \
 - Wir schnuppern den guten Bratenduft. \
   Der Hund schnuppert an den Abfällen.
 
-#### Notes {.unnumbered}
+#### Notes {.unnumbered .unlisted}
 
 The verb *kratzen* 'to scratch' appears to loose the possibility to be used with an accusative inanimate object. Examples with an accusative like [@next a] are only attested in older German texts and sound strange in current German. It sounds much better with a dative possessor [@next b], see [@sec:case-possessor-accusative-to-dative]. With animate objects an accusative seems to be still possible [@next c], so this verb appears to be developing  in the direction of showing differential object marking. With inanimate objects a prepositional phrase with *an* is preferred [@next d].
 
@@ -1238,14 +1238,14 @@ c. Ich blase die Trompete. \
    Ich blase auf der Trompete.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Action on top of object: *reiten*
 - Contact: *jagen, kauen, schießen, treten*
 - Playing musical instruments: *blasen, schlagen, spielen, üben*
 - Personal interaction: *hören, sprechen, treffen (begegnen)*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich schlage die Trommel. \
   Ich schlage auf die Trommel.
@@ -1256,7 +1256,7 @@ c. Ich blase die Trompete. \
 - Ich treffe Anna. \
   Ich treffe auf Anna.
 
-#### Notes {.unnumbered}
+#### Notes {.unnumbered .unlisted}
 
 The following verbs show considerable semantic shift in this alternation: *hören* 'to hear' vs. 'to obey' [@next a], *achten* 'to respect' vs. 'to look after' [@next b] and *sprechen* 'be able to speak a foreign language' vs. 'to speak in a foreign language' [@next c].
 
@@ -1278,7 +1278,7 @@ This alternation seems to be typical for objects of reading, like *vorlesen* 'to
 - Ich lese aus dem Buch vor.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *lesen, vorlesen, zitieren*
 
@@ -1291,11 +1291,11 @@ Accusative objects that alternate with an *in* prepositional phrase seem to be r
 - Ich lese in dem Buch.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *bestehen (Erfolg haben), entscheiden, lesen, gewinnen, korrigieren, schneiden, spielen, stürmen (Angriff), treffen (Ziel)*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich bestehe die Prüfung. \
   Ich bestehe in der Prüfung.
@@ -1312,7 +1312,7 @@ Accusative objects that alternate with an *in* prepositional phrase seem to be r
 - Ich schneide meinen Finger. \
   Ich schneide in meinen Finger.
 
-#### Notes {.unnumbered}
+#### Notes {.unnumbered .unlisted}
 
 With the verb *stürmen* in the meaning 'to attack' there is a good argument to be made for an applicative diathesis instead of an antipassive. First, the verb *stürmen* arguably is a weather verb 'to storm' [@next a] which can be used in a manner-of-movement diathesis [@next b], see [@sec:prepositions-weather-manner-movement]. From this usage it is only a small step to the meaning 'to attack' with an accusative [@next c]. Second, this is probably the only verb among all the antipassives listed here that changed the light verb in the perfect between *haben* and *sein* [@next b,c]. This verb is still listed here among the antipassives because I do not have any other verbs that show the same applicative-like diathesis to put it into a completely new subsection.
 
@@ -1333,12 +1333,12 @@ b. Ich fliege das Flugzeug. \
    Ich fliege mit dem Flugzeug.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Instrument: *handeln, schießen, werfen*
 - Instrument of transport: *fahren, fliegen, rangieren, segeln*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich werfe den Dreck. \
   Ich werfe mit Dreck.
@@ -1361,7 +1361,7 @@ A very small group of verbs show an antipassive in which the *mit* prepositional
 - Der Abteilungsleiter und ich sprechen miteinander.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *sprechen*
 
@@ -1374,12 +1374,12 @@ Accusative objects that alternate with a *nach* prepositional phrase indicate an
 - Ich suche nach dem Ring.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Attempted action towards: *fühlen, greifen, schlagen, rufen, sehen, suchen, treten*
 - Object of hunting: *angeln, fischen, jagen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich sehe dich. \
   Ich sehe nach dir.
@@ -1405,14 +1405,14 @@ d. Ich höre den Kampf in der Ferne. \
    Ich höre von dem Kampf in den Nachrichten.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Eat a part of: *essen, fressen, naschen, kosten, knabbern, probieren, trinken, versuchen*
 - Know a part of: *hören, verstehen, wissen*
 - Hand over a part of: *anbieten, aushändigen, besorgen, bringen, geben, liefern, schicken, schenken, senden, überreichen, überweisen, verkaufen*
 - Take away a part of: *abknöpfen, abnehmen, ausspannen, enteignen, entfernen, entlehnen, entleihen, entnehmen, entwenden, entziehen, klauen, nehmen, rauben, stehlen, wegnehmen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich nasche ein paar Beeren. \
   Ich nasche von den Beeren.
@@ -1436,20 +1436,20 @@ The *über* antipassive is used with some verbs of control, like *bestimmen* 'to
 - Ich bestimme über die Reihenfolge.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Object of control: *bestimmen, entscheiden, verfügen*
 - Object of cognitive process: *reflektieren*
 - Object of communication: *diskutieren*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Wir diskutieren das Vorschlag. \
   Wir diskutieren über den Vorschlag.
 - Diese Schlacht entschied den Ausgang des Krieges. \
   Dieser Augenblick entschied über das ganze Leben^[Attested at <https://www.dwds.de/wb/entscheiden>, accessed 27 April 2022.]
 
-#### Notes {.unnumbered}
+#### Notes {.unnumbered .unlisted}
 
 The verb *verfügen* has two rather different meanings in the antipassive diathesis, viz. 'to mandate' with an accusative [@next a] and 'to have control over' with a prepositional phrase [@next b]
 
@@ -1467,11 +1467,11 @@ The antipassive variant with *zu* is somewhat troublesome as all examples known 
 - Sie konnte blind und taub sein, aber sie fand zu ihm.^[~~DWDS~~: Kopetzky, Steffen: Grand Tour, Frankfurt am Main: Eichborn 2002, S. 239.]
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *halten, werden, finden*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich halte dich. \
   Ich halte zu dir.
@@ -1494,7 +1494,7 @@ a. Er stößt in die Wunde mit dem Messer.
 c. ^* Er stößt das Messer. 
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *drücken, stoßen*
 
@@ -1509,7 +1509,7 @@ It seems to be somewhat unusual for verbs with dative but without accusative to 
 - Ich entfliehe aus dem Gefängnis.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - auf  : *folgen*
 - aus  : (movement out of) *entkommen, entfliehen, entschlüpfen, entspringen, entwischen*
@@ -1518,7 +1518,7 @@ It seems to be somewhat unusual for verbs with dative but without accusative to 
 - vor  : (movement away from) *fliehen, flüchten, weichen*
 - zu   : (belonging to) *dienen, gehören, passen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Die Demonstranten wichen der Polizei. \
   Und er wich vor keiner Drohung, keiner Gewalt.^[~~DWDS~~:  Die Zeit, 15.05.1981, Nr. 21.]
@@ -1555,13 +1555,13 @@ With an additional accusative argument it is widespread for dative arguments to 
 
 The replacement of a dative with an *an* prepositional phrase is a common alternation (cf. Adler 2011). For a detailed analysis of this alternation with the verb *geben*, see De Vaere et al. [-@devaere2018]. In all cases there is some kind of giving of the accusative object to the dative object implied. Various verbs in this class also allow for a *zu* dative alternation ([@sec:prepositions-zu-dative]).
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Giving object to dative: *abgeben, abtreten, anbieten, anvertrauen, aushändigen, borgen, geben, leihen, liefern, schicken, schenken, senden, spenden, übergeben, überreichen, überweisen, vergeben, vererben, verkaufen, vermachen, vermieten*
 - Giving message to dative: *berichten, erklären, erteilen, faxen, mailen, schreiben, vorlegen, vorstellen*
 - Others: *anpassen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Er berichtet dem Vorstand alles. \
   Er berichtet alles an den Vorstand.
@@ -1583,7 +1583,7 @@ The *von* dative antipassive is typically used with verbs that express a removal
 - Ich klaue die Blumen von dir.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Removing object from dative: *abknöpfen, abnehmen, ausspannen, borgen, enteignen, entfernen, entlehnen, entleihen, entnehmen, entwenden, klauen, nehmen, rauben, stehlen, wegnehmen*
 
@@ -1596,7 +1596,7 @@ The *vor* dative antipassive is typically used with verbs expressing an action t
 - Ich verschweige das Geheimnis vor dir.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Hiding object from dative: *verbergen, verheimlichen, verschweigen*
 
@@ -1609,12 +1609,12 @@ The *zu* dative antipassive is typically used with verbs expressing the movement
 - Ich bringe die Waren zu dir.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Moving object towards dative: *besorgen, bringen, liefern, schicken, schleudern, senden, werfen*
 - Imaginary object moving towards dative: *sagen, zuordnen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich liefere dir die Waren. \
   Ich liefere die Waren zu dir.
@@ -1636,14 +1636,14 @@ c. Ich beginne damit, dass ich die Stifte ordne.
 d. Die Arbeit beginnt.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - mit  : *anfangen, beginnen, rechnen, zögern*
 - an   : *glauben (für Wahr halten), leiden*
 - nach : *verlangen*
 - für  : *büßen, garantieren, leben*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich fange mein Studium an. \
   Ich fange mit meinem Studium an.
@@ -1660,7 +1660,7 @@ d. Die Arbeit beginnt.
 - Ich glaube deine Aussage. \
   Ich glaube an deiner Aussage.
 
-#### Notes {.unnumbered}
+#### Notes {.unnumbered .unlisted}
 
 Note the absence of a determiner for the accusative with *leiden* 'to suffer' [@next].
 
@@ -1679,7 +1679,7 @@ The verb *vertrauen* 'to trust' [@next] is currently the only known example of a
 - Ich vertraue darauf, dass du die Arbeit machst.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - auf  : *vertrauen*
 
@@ -1693,7 +1693,7 @@ b. Ich denke an die vergangenen Jahre.
 c. Ich denke daran, dass ich Milch kaufen muss.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - an : *denken*
 
@@ -1709,11 +1709,11 @@ b. Ich erinnere dich an das Versprechen.
 c. Ich erinnere dich daran, dass du Milch kaufen sollst.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Separate from: *befreien, entbinden, entheben, verweisen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich entbinde dich deiner Pflicht. \
   Ich entbinde dich von deiner Pflicht.
@@ -1724,7 +1724,7 @@ c. Ich erinnere dich daran, dass du Milch kaufen sollst.
 - Ich befreie dich des Regenten. \
   Ich befreie dich von dem Regenten.
 
-#### Notes {.unnumbered}
+#### Notes {.unnumbered .unlisted}
 
 The verb *entbinden* can be used as an intransitive verb with a meaning of 'to give birth'. However, in the meaning 'to absolve' as discussed here it seems not to be possible to completely drop the genitive or *von* phrase. This also seems to hold for *entheben* 'to depose' and *verweisen* 'to expel'. The usage of *befreien* 'to free' with a genitive seems to have been lost in the 19th Century [@next].
 
@@ -1747,13 +1747,13 @@ This alternation allows for either a dative to be present or not with verbs that
 - Mir liegt viel an deiner Anwesenheit.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - auf : *ankommen*
 - um  : *gehen*
 - an  : *fehlen, liegen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Es kommt auf die Eleganz an. \
   Mir kommt es auf die Eleganz an.
@@ -1831,12 +1831,12 @@ A very similar, but crucially different diathesis exists with other non-movement
 - Die herumwieselnden Köche schwitzen sich durch verschiedene Runden.^[~~DWDS~~: Die Zeit, 20.04.2016 (online).]
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Movement verbs: *fahren, fliegen, hüpfen, klettern, kriechen, laufen, reisen, reiten, rennen, rutschen, schleichen, schlingern, schwanken, schweben, schwimmen, segeln, stampfen, tanzen, wackeln, wandern*, etc.
 - Atypical movement verbs: *einbrechen, irren, triefen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich habe gestampft. \
   Ich bin durch den Garten gestampft/geschwankt/getanzt.
@@ -1863,11 +1863,11 @@ a. Es stürmt.
 b. Sie stürmten in den Saal.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *blitzen, donnern, hageln, regnen, stürmen, wehen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Die Bomben hagelten auf die Stadt.
 - Seine Zähne blitzten in der Sonne.
@@ -1905,13 +1905,13 @@ This construction is closely related constructions with resultative preverbial l
 Er klopft den Aschenbecher leer.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Bodily process: *heulen, husten, klopfen, pusten, pumpen, schlafen, schwitzen, spucken, stampfen*
 - Weather verbs: *regnen, wehen*
 - Others: *graben (aus), klingeln, schwindeln*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Er klopft den Schnee von seinen Schuhen.
 - Der Wind weht die Blätter durch die Luft.
@@ -1933,7 +1933,7 @@ Er klopft den Aschenbecher leer.
 - Man taute in der Sauna seine durchfrorenen Glieder auf und schwitzte den Schmutz aus den Poren.^[~~DWDS~~: Fresenius, Hanna: Sauna, Reinbek bei Hamburg: Rowohlt 1987, S. 15.]
 - Der Meister war da, stampfte den Schnee von den Schuhen.^[~~DWDS~~: Weismantel, Leo: Die höllische Trinität, Berlin: Union-Verlag 1966, S. 54.]
 
-#### Notes {.unnumbered}
+#### Notes {.unnumbered .unlisted}
 
 This construction is also found in fixed (metaphorical) expressions [@next].
 
@@ -1956,11 +1956,11 @@ c. Ich befehle die Armee an der Front. \
    (= Ich befehle die Armee, die an der Front ist.)
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *befehlen, dirigieren, graben, hetzen, jagen, peitschen, schneiden, ziehen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich dirigiere das Orchester. \
   Ich dirigiere den Wagen zum Bahnhof
@@ -1989,13 +1989,13 @@ b. Er macht die Wiese zu einem Garten. \
    (= Er macht etwas, und das Ergebnis ist: Die Wiese ist ein Garten.)
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - zu  : *erklären, machen*
 - für : *halten, erklären*
 - als : *ansehen, benennen, betrachten, bezeichnen, empfinden, empfehlen, vorschlagen, wünschen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Sie erklärte das Problem. \
   Sie erklärte die Behauptung für eine Lüge.
@@ -2008,7 +2008,7 @@ b. Er macht die Wiese zu einem Garten. \
 - Ich empfehle diese Kandidatin. \
   Andrea Fischer empfahl sich den Delegierten als Politikerin.^[~~DWDS~~: Der Tagesspiegel, 19.01.2002.]
 
-#### Notes {.unnumbered}
+#### Notes {.unnumbered .unlisted}
 
 For some verbs there appears to be a rather clear lexicalisation of the meaning of the verb between the two alternants, i.e. it is questionable, whether the alternant should still be considered to be the same verb with *halten*, meaning either 'to hold' or 'to consider' [@next a] and *erklären*, meaning either 'to explain' or 'to declare' [@next b].
 
@@ -2052,11 +2052,11 @@ b. Er kämmt dir die Läuse aus den Haaren.
 d. Er kämmt sich die Läuse aus den Haaren.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *bügeln, bürsten, filtern, kämmen, lesen (aussortieren), polieren, putzen, quetschen, reiben, rupfen, schrubben, sieben, spülen, waschen, wischen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Er polierte die Gabel. \
   Er polierte den Fleck von der Gabel.
@@ -2089,12 +2089,12 @@ This diathesis is closely related to a similar diathesis with preverbs (see [@se
 - Ich kitte den Henkel fest.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Attachment: *kitten, kleben, leimen, nähen*
 - Insertion: *brechen, hacken, sägen, schneiden*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Er klebt die zerbrochene Vase. \
   Er klebt ein Aufkleber an die Vase.
@@ -2128,7 +2128,7 @@ d. ^^?^ Ich gewinne dir das Geld.
 e. Gib mir eine Waffe und ich gewinne dir jeden Krieg.^[Attested online at <http://www.kriegssinfonie.ch/2018/08/paradox/>, accessed 10 January 2019.]
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Holding object: *abholen, halten, holen, mitnehmen, tragen*
 - Object production: *aufzeichnen, ausstellen, bauen, beschaffen, besorgen, brechen, einblenden, erobern, garantieren, graben, kaufen, malen, mieten, suchen*
@@ -2136,7 +2136,7 @@ e. Gib mir eine Waffe und ich gewinne dir jeden Krieg.^[Attested online at <http
 - Food production: *angeln, fischen, jagen, kauen, schießen, töten*
 - Household tending: *aufwärmen, ausbessern, bleichen, erneuern, backen, bügeln, gießen, kochen, nähen, ordnen, packen, pflegen, putzen, reinigen, reparieren, waschen, wischen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich stelle dir einen Pass aus. \
   Ich stelle für dich einen Pass aus.
@@ -2162,7 +2162,7 @@ A dative can be introduced together with an obligatory *zu/genug* phrase in the 
   Der Student beantwortete der Professorin die Frage nicht schnell genug.
 :::
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Der Zug kommt dir zu früh an. \
   Der Zug kommt zu früh an für deinen Geschmack.
@@ -2182,12 +2182,12 @@ c. ^* Der Affe saß ihm ruhig.
 d. Der Affe saß auf seiner Schulter.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Bodily contact: *beißen, boxen, fallen, klopfen, laufen, schauen, stechen, steigen, zwicken*
 - Position: *hängen, liegen, stehen, stecken, sitzen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Der Regen läuft mir in die Schuhe. \
   Der Regen läuft in meine Schuhe.
@@ -2208,7 +2208,7 @@ d. Der Affe saß auf seiner Schulter.
 - Ich zwicke dir in die Wange. \
   Ich zwicke in deine Wange.
 
-#### Notes {.unnumbered}
+#### Notes {.unnumbered .unlisted}
 
 The verb *beißen* 'to bite' can be used transitively with an animate accusative argument [@next a], or with the dative alternation [@next b], leading to two different options to encode the object of the biting, cf. accusative *ihn* [@next a] with dative *ihm* [@next b].
 
@@ -2228,13 +2228,13 @@ a. Ich lege den Brief auf deinen Schreibtisch.
 b. Ich lege dir den Brief auf den Schreibtisch.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Causative position verbs: *hängen, häufen, kleben, klopfen, lehnen, legen, stellen, stecken, setzen*
 - Bodily actions: *flüstern, husten, spucken*
 - Transitive caused location: *brechen, bügeln, erwarten, filtern, jagen, kämmen, polieren, schneiden, waschen, wischen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich setze das Kind auf deinen Schoß. \
   Ich setze dir das Kind auf den Schoß.
@@ -2270,7 +2270,7 @@ b. Ich lege dir den Brief auf den Schreibtisch.
   Er flüstert mir den Code ins Ohr.
 - Er häufte mir das ganze Kleingeld in die Hand.^[~~DWDS~~: Böll, Wort 133.]
 
-#### Notes {.unnumbered}
+#### Notes {.unnumbered .unlisted}
 
 This construction is frequently used metaphorically [@next].
 
@@ -2291,11 +2291,11 @@ b. Ich bewundere ihn für/wegen seine/r Ehrlichkeit.
 c. Ich bewundere ihn dafür, dass er ehrlich ist.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Emotional stance: *achten (Respekt), bewundern, feiern, lieben, loben, hassen, unterstützen, verurteilen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich lobe den Schüler für seinen Fleiß. \
   Ich lobe den Fleiß des Schülers.
@@ -2315,11 +2315,11 @@ a. Sie schimpft auf mich.
 b. Sie schimpft mich einen Narren
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *schimpfen, fluchen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Er sitzt immer am selben Platz bei Bier und Schnaps, flucht mich einen Tagedieb, einen Affen, Bananenfresser, einen, der schon längstens in eine Arbeitserziehungsanstalt gehöre.^[Attested online at <http://www.gruppe-4-w.de/forum/viewtopic.php?f=21&t=2047#p19030>, accessed 29 July 2019.]
 
@@ -2336,7 +2336,7 @@ a. Die Kinder wimmeln auf den Platz.
 b. Der Platz wimmelt von Kindern. 
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *wimmeln*
 
@@ -2370,13 +2370,13 @@ b. Ich schneide Streifen aus dem Blatt.
 c. Ich schneide ein Loch in dem Blatt.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - filling: *füllen, gießen, stopfen*
 - dissection: *brechen, hacken, sägen, schneiden*
 - others: *schießen, vergleichen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Er stopft Federn in die Kissen. \
   Er stopft die Kissen (mit Federn).
@@ -2387,7 +2387,7 @@ c. Ich schneide ein Loch in dem Blatt.
 - Ich säge Bretter aus dem Baum. \
   Ich säge den Baum zu Brettern.
 
-#### Notes {.unnumbered}
+#### Notes {.unnumbered .unlisted}
 
 For the verb *schießen* 'to shoot' this alternation [@next a,b] is possible better analysed as a combination of two accusative antipassives. It is also possible to express both roles as prepositional phrases [@next c]. This is not possible with the other verbs in this group.
 
@@ -2415,11 +2415,11 @@ a. Ich bewundere seine Ehrlichkeit.
 b. Ich bewundere die Ehrlichkeit bei ihm.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *bekämpfen, bemerken, bewundern, erwarten*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich bemerke bei ihm eine Langeweile. \
   Ich bemerke seine Langeweile.

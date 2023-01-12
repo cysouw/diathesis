@@ -562,11 +562,11 @@ a. Jeder kennt den Schauspieler.
 b. Der Schauspieler ist bekannt/*gekannt.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *geregnet, verdutzt, verrückt, verklemmt, verwandt*
 
-#### Notes {.unnumbered}
+#### Notes {.unnumbered .unlisted}
 
 Eisenberg [-@eisenberg2006: 201] also mentions *entsetzt* 'appalled' as an idiomatic participle, but the verb *entsetzen* 'to appall' seems to be perfectly possible as a finite verb [@next a]. The intended meaning from Eisenberg is then simply the anticausative *Zustandspassiv* [@next b]. Likewise, the ~~DWDS~~ mentions *verfroren* as an idiomatic participle,^[Attested at <https://www.dwds.de/wb/verfroren>, accessed 21 September 2022.] but the verb *verfrieren* 'to freeze' is attested, though rare [@next c,d].
 
@@ -583,7 +583,7 @@ There are some participles ending in *‑iert* that do not have any finite count
 
 However, there are various participle-like forms ending in *‑iert* that do not appear to be have finite forms, like *alkoholisiert* 'to be full of alcohol' [@haig2005: 117]. Although many German dictionaries mention this verb, including sometimes listing finite forms, I have been unable to find any finite example of this verb. Only the infinitive *alkoholisieren* and the participle *alkoholisiert* are attested. It is unclear to me whether the finite forms have simply been lost, or whether they have never existed at all.
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *alkoholisiert, motorisiert, dezidiert, deplatziert, detailliert, kariert, versiert, pointiert*
 
@@ -609,14 +609,14 @@ b. ^* Sie verhasst ihn.
 c. Er ist verhasst.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - ge-  : *geädert, geblümt, gebrandmarkt, gebuchtet, gefenstert, gefiedert, gefleckt, geflügelt, gehandikapt, gehenkelt, gehörnt, gelaunt, gemustert, genarbt, genoppt, gepunktet, gerädert, gerahmt, gerippt, geschweift, gesittet, gestreift, gewitzt, gewürfelt, gezackt*
 - be-  : *bebartet, beblümt, bebrillt, befrackt, begabt, begnadet, behaart, behämmert, beheimatet, behelmt, beherzt, beknackt, beleibt, bemittelt, bemoost, bereift, berindet, beschilft, beschürzt, besternt, betagt, bezopft*
 - ver- : *veraltet, verblümt, verkorst, verwitwet*
 - zer- : *zerfurcht, zerklüftet*
 
-#### Notes {.unnumbered}
+#### Notes {.unnumbered .unlisted}
 
 The finite verb *zacken* 'to produce indentation' is also attested, though rare [@next a], so *gezackt* might not be a good example of a participle without finite usage. In contrast, the verb *schweifen* 'to ramble' exists [@next b], but is semantically not directly related to the participle *geschweift* 'curled'. Both seem independently derived from the noun *Schweif* 'bushy tail'. The same holds for the participle *gestreift* 'striped' and the verb *streifen* 'to roam, to streak', which are probably both independently related to the noun *Streifen* 'strip, band'.
 
@@ -641,7 +641,7 @@ a. Ich bin einverstanden.
 b. ^* Ich verstehe ein.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - an-  : *angedampft, angedonnert, angeflitzt, angeheiratet, angehetzt, angeheult, angekeucht, angekrochen, angelatscht, angelaufen, angeprescht, angerast, angerasselt, angerauscht, angeritten, angerannt*
 - aus- : *ausgeblufft, ausgedient, ausgekämpft, ausgeknabbert, ausgelitten, ausgepredigt, ausgeschätzelt, ausgesorgt, ausgespielt, ausgeträumt, ausgezaubert, ausstudiert, ausverkauft*
@@ -679,7 +679,7 @@ c. Heute wurde viel gelacht.
 
 Although verbs with a *haben* perfect are often though of as "agentive" verbs, there are many semantically non-agentive verbs, for example describing bodily processes (like *bluten* 'to bleed') or bodily sensations (like *jucken* 'to itch') that also take *haben* in the perfect.
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Agentive verbs: *arbeiten, lügen, schwindeln (betrügen), hupen, stehen, sitzen, tun*
 - Bodily processes: *atmen, bluten, husten, lachen, weinen, niesen, pinkeln, schlafen, schwitzen, träumen*
@@ -701,13 +701,13 @@ c. ^^?^ Heute wird geflüchtet.
 
 There is a strong semantic tendency for the nominative subject of intransitives with *sein* to be more like a patient. Many of the verbs describe actions that are not performed deliberately, but more or less happen to the subject (e.g. *sterben* 'to die', *fallen* 'to fall' or *scheitern* 'to fail'). However, there are also many verbs that do not fit into this semantic characterisation (e.g. *flüchten* 'to flee', *gehen* 'to go' or *abreisen* 'to depart'). Note that the characterisation "change-of-location/state" verbs [@keller2003: 65] likewise does not fit to describe the semantics of the verbs as listed below. 
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Monomorphemic verbs: *bersten, beuteln, bleiben, fallen, fliehen, fließen, flüchten, gehen, gleiten, kentern, kommen, krepieren, platzen, prallen, quellen, reifen, schlüpfen, scheitern, schreiten, schrumpfen, sein, sinken, sprießen, steigen, sterben, stolpern, strömen, traben, wachsen, weichen, werden*
 - Verbs with a lexicalised prefix: *degenerieren, detonieren, emigrieren, gedeihen, gelangen, genesen, geschehen, explodieren*
 - Verbs with a preverb: *abbiegen, abhauen (weglaufen), abmagern, abreisen, absaufen, absteigen, abstürzen, anbrennen, ankommen, anschwellen, ansteigen, auffallen, aufstehen, aufsteigen, auftreten, aufwachen, aufwachsen, ausbleiben, ausbrechen, ausfallen, ausgehen, auslaufen, aussteigen, auswandern, ausweichen, ausziehen (wohnen), beitreten, ˈdurchlaufen, ˈdurchsickern, ˈdurchfallen, ˈdurchgehen, eindringen, einfließen, einfrieren, einkehren, einreisen, einrosten, einschlafen, einsteigen, einstürzen, eintauchen, eintreffen, eintreten, entbrennen, entfliehen, entkommen, entstehen, erfrieren, erkranken, erlöschen, ermüden, erschallen, erscheinen, ertrinken, fehlschlagen, herumgehen, hinfallen, mitgehen, mitkommen, nachkommen, stehenbleiben, ˈumfallen, ˈumsiedeln, ˈumziehen, ˈuntergehen, ˈuntertauchen, ˈüberkochen, verbleiben, verblühen, verbluten, verdampfen, verfaulen, verfallen, verhungern, verreisen, verrosten, verrutschen, verschimmeln, verschwinden, versinken, versterben, vertrocknen, verwelken, vorgehen, vorkommen, wegfallen, weggehen, weglaufen, wegrennen, zerfallen, zerrinnen, zufrieren, zuwachsen, zurückbleiben, zurückfahren, zurückgehen, zurückkommen, zurücklaufen, zurückrennen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Er ist ertrunken/verstorben/gestorben/gescheitert.
 - Er ist ausgebrochen/ausgegangen/ausgestiegen/ausgezogen.
@@ -800,7 +800,7 @@ b. Der Teller klebt am Tisch. \
    Der Teller hat am Tisch geklebt.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Natural process verbs with *ver‑* alternation: *altern, dorren, faulen, frieren, gären, rosten, schimmeln, splittern, welken*
 - Natural process verbs without *ver‑* alternation: *keimen, münden*
@@ -810,7 +810,7 @@ b. Der Teller klebt am Tisch. \
 - Anticausative verbs (see [@sec:case-haben-anticausative]): *abnehmen, abreißen, abstoßen*, etc.
 - Location anticausative verbs (see [@sec:prepositions-haben-caused-location]): *hängen, kleben, lehnen*, etc.
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Das Kind hat gefroren. \
   Das Wasser ist gefroren.
@@ -820,7 +820,7 @@ b. Der Teller klebt am Tisch. \
 - Nach Medienberichten soll dies in einem erpresserischen System gemündet haben.^[~~DWDS~~: Die Zeit, 08.11.2015 (online).] \
   Es ist die monatelange Stimmungsmache gegen Flüchtlinge, die den Hass säte, der in Tröglitz nun in Flammen gemündet ist.^[~~DWDS~~: Die Zeit, 04.04.2015 (online).]
 
-#### Notes {.unnumbered}
+#### Notes {.unnumbered .unlisted}
 
 Intransitive *altern* with *haben+Partizip* is not in current use anymore [@next a]. The verb *dorren* is typically listed as having only a *sein* perfect, but note examples like [@next b] with *haben*.
 
@@ -875,7 +875,7 @@ c. Er ist (\*schrittweise) aufgeregt (wegen des Lärms).
 
 The verbs below are repeated from the previous sections in which the various phenomena are discussed in detail. However, only those verb are listed here that actually allow for both the intransitive *haben* reflexive participle construction and the intransitive *sein* participle construction. It remains an interested topic for more research why not all verbs from the relevant sections allow for both.
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Obligatory reflexive verbs (cf. [@sec:reflexive-obligatory-accusative-reflexive] ff.): *ausruhen, ausschlafen, bemühen, befreunden, beteiligen, betrinken, beschäftigen, drehen, eignen, entscheiden, entschließen, erholen, erkälten, erstaunen, konzentrieren, üben, verabreden, verbrüdern, verirren, verkrachen, verloben, verlieben, versuchen, verspäten, vertiefen*
 - Reflexive anticausative verbs (cf. [@sec:reflexive-anticausative] ff.): *abduschen, abkühlen, ablagern, ablösen, abnutzen, abschalten, abschwächen, abseilen, ändern, ansammeln, ansparen, auflösen, aufwärmen, ausbreiten, ausdehnen, ausschalten, beschleunigen, beschränken, bessern, bestätigen, bewegen, beziehen, drehen, eindrücken, einfügen, einschalten, entfalten, entscheiden, entzünden, erfüllen, erhöhen, erwärmen, erweitern, färben, festigen, füllen, gliedern, komplizieren, konstituieren, leeren, lockern, lohnen, mildern, öffnen, quälen, schließen, senken, spalten, steigern, stürzen, teilen, unterwerfen, verändern, verändern, verbessern, verbreiten, verdoppeln, vereinfachen, verengen, vergrößern, verhaken, verkleinern, verkürzen, verlängern, verlangsamen, vermehren, verringern, versammeln, verschieben, verschlechtern, verstärken, verwandeln, wärmen, wiederholen, zeigen*
@@ -883,7 +883,7 @@ The verbs below are repeated from the previous sections in which the various phe
 - Endoreflexive verbs (cf. [@sec:reflexive-accusative-drop]): *abhetzen, anziehen, ausziehen, bewegen, entblößen, neigen, täuschen, verkleiden, verschlafen, zuneigen*
 - Quasi-endoreflexive verbs: *fokussieren, konzentrieren, organisieren*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich habe mich betrunken. \
   Ich bin betrunken.
@@ -906,7 +906,7 @@ b. ^* Der geantwortete Student ist zufrieden.
 c. Heute wird dem Studenten geantwortet.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *ähneln, angehören, antworten, beiliegen, beipflichten, bevorstehen, dienen, einleuchten, entsprechen, fehlen, gefallen, gehören, gelten, gleichen, gratulieren, helfen, imponieren, kündigen, liegen (natürliche Begabung), missfallen, nacheifern, passen, schaden, schmecken, sitzen (passen), trauen, vertrauen, zuhören, zureden*
 
@@ -920,12 +920,12 @@ b. Das gelungene Gemälde ist schön.
 c. ^* Heute wird mir gelungen.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *auffallen, begegnen, bleiben, einfallen, beitreten, entgegen kommen, erscheinen, folgen, gegenüber treten, gelingen, geschehen, glücken, misslingen, nachgehen, nachlaufen, passieren, unterlaufen, unterliegen, unterstehen, verfallen, weglaufen, weichen, widerfahren, zufallen, zulaufen, zustoßen*
 - Prefix *ent-*: *enteilen, entfliegen, entfliehen, entfließen, entgehen, entgleiten, entkommen, entlaufen, entspringen, entsprießen, entsteigen, entstammen, entströmen, entwachsen, entweichen, entschlüpfen, entspringen, entwischen*
 
-#### Notes {.unnumbered}
+#### Notes {.unnumbered .unlisted}
 
 The verb *folgen* 'to follow' typically takes *sein*, but there are incidental instances of *haben* [@next a] connected to a slightly different meaning 'to obey' [@next b]. This usage seems to be old-fashioned. Similarly, the verb *begegnen* 'to meet' typically takes *sein*, but *haben* is attested [@next c].
 
@@ -946,7 +946,7 @@ Almost all verbs with governed prepositions take a *haben* perfect, and these wi
   Die Sportler sind in das Stadion eingezogen.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - an  : *scheitern, sterben*
 - auf : *kommen (einfallen)*
@@ -955,7 +955,7 @@ Almost all verbs with governed prepositions take a *haben* perfect, and these wi
 - in  : *einziehen, geraten*
 - vor : *fliehen, flüchten, weichen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich bin nicht darauf gekommen.
 - Ich bin dabei geblieben.
@@ -995,7 +995,7 @@ Finally, the verb *laufen* allows for both *sein* and *haben* in the intransitiv
   Daß ich den Weltrekord nicht gesprungen bin, ist nicht so schlimm.^[~~DWDS~~: Berliner Zeitung, 26.01.1998.]
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - ab-      : *abfahren, abkriechen, ablaufen, abschreiten*
 - durch-   : *durchfahren, durchgehen, durchklettern (Alpinismus), durchkriechen*
@@ -1072,12 +1072,12 @@ The secondary predicate usage is also possible with transitive verbs, but then t
   Sein Brief kam schon fertig geschrieben bei mir auf den Tisch.
 :::
 
-#### Attested Verbs {.unnumbered}
+#### Attested Verbs {.unnumbered .unlisted}
 
 - Movement verbs: *fliegen, hüpfen, laufen, schwimmen, zufliegen*, etc.
 - *an‑* verbs only attested in the *kommen+Partizip* construction: *andampfen, andonnern, anfliegen, anflitzen, anhetzen, anheulen, ankeuchen, ankriechen, anlatschen, anlaufen, anpreschen, anrasen, anrasseln, anrauschen, anreisen, anreiten, anrennen, anrücken*
 
-#### Further Example {.unnumbered}
+#### Further Example {.unnumbered .unlisted}
 
 - Er kam aus dem Haus gelaufen.
 - Er kam zum Ufer geschwommen.
@@ -1105,11 +1105,11 @@ The *bleiben+Partizip* construction is only possible with verbs that also allow 
   Alex rührt sich, aber bleibt eingeschlafen.^[Attested online at <https://blogs.cornell.edu/glp-spr58/2014/05/07/jesus-christus-und-ikea-in-wolfgang-beckers-goodbye-lenin/>, accessed 16 July 2021.]
 :::
 
-#### Attested Verbs {.unnumbered}
+#### Attested Verbs {.unnumbered .unlisted}
 
 - *erkranken, verbrennen, verrosten, verschimmeln, verschwinden, vertrocknen, verwelken, zufrieren*
 
-#### Further Examples {.unnumbered}
+#### Further Examples {.unnumbered .unlisted}
 
 - Die Blume bleibt verwelkt (verblüht).
 - Das Schloss bleibt verrostet.
@@ -1129,7 +1129,7 @@ Similar to the previous construction, the *lassen+Partizip* construction also ca
 
 - *anlehnen, ausklammern, einschalten, öffnen, zudecken*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Der Mann hatte den Zuleitungsschlauch ohne Zusatzsicherung mehrere Jahre hindurch geöffnet gelassen.^[~~DWDS~~: Der Tagesspiegel, 12.07.2004.]
 - Die Tür hatte sie angelehnt gelassen, jetzt stand sie sperrangelweit offen.^[~~DWDS~~: Die Zeit, 23.03.1990, Nr. 13.]
@@ -1144,11 +1144,11 @@ A widespread option for transitive verbs is to use the *halten+Partizip* constru
 - Er hält die Tür geschlossen.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *ausstrecken, besetzen, drücken, fangen, richten, schließen, verbergen, verstecken*, etc.
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Er hält seine Augen auf sie gerichtet.
 - Er hält den Brief verborgen.
@@ -1173,11 +1173,11 @@ The construction of the light verbs *bekommen/kriegen+Partizip* is widely discus
 
 The light verb *kriegen* is also frequently used with resultative preverbials (see [@sec:adverbial-resultative-predicates]) instead of the participle, e.g. *flottkriegen, kaputtkriegen, kleinkriegen, loskriegen, totkriegen, vollkriegen*. This seems somewhat less productive with *bekommen*, e.g. *fertigbekommen, kleinbekommen, losbekommen*.
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *kochen, öffnen, schließen, trocknen, vermieten, verschieben, zerbrechen*, etc.
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Wenn wir die Pforte geschlossen bekommen, verfassen wir nachträglich einen Bericht.^[Regnier, Sandra. 2017. *Die magische Pforte der Anderwelt*, p. 122. Available online at <https://books.google.de/books?id=Lhm1DgAAQBAJ&pg=122>, accessed 16 July 2021.]
 - Er kriegt den Stock zerbrochen.
@@ -1208,7 +1208,7 @@ b. Der jüdische Publizist Julius Rodenberg schien ihm als Namenspatron geeignet
 
 These constructions are analysed by Lasch [-@lasch2016: 253ff.] as *Askription mit modaler Relation*. However, I propose to categorise these construction as a kind of evidential, following the proposal by Diewald & Smirnova [@diewald2010: 177--191]. Diewald and Smirnova present an extensive discussion of the meaning of *scheinen* in various constructions, but, inexplicably, they did not include the construction with a participle. Still, their proposal that *scheinen* can express an inferential evidential also seems fitting for the participle construction. The German name ~~Perfektinferenz~~ is proposed here because of the perfectivity of the main verb. It stands in opposition to the *Imperfektinferenz* construction, which uses a *zu‑In­fi­ni­tiv* (see [@sec:zuinfinitive-scheinen]).
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 The following attested verbs are only illustrative examples taken from the data analysed by Lasch (2016).^[Data accessed on 24 May 2012, available online at <https://goo.gl/xUng8v> for *aussehen*, <https://goo.gl/Xj7EW6> for *erscheinen*, <https://goo.gl/5YvKiw> for *scheinen* and <https://goo.gl/yCai8B> for *wirken*.] There are many more verbs possible in these constructions, but these lists present a good sample of the kind of verbs that are actually attested.
 
@@ -1227,7 +1227,7 @@ The light verbs *aussehen* and *wirken* can be used with participles of intransi
 
 These constructions are analysed by Lasch [-@lasch2016: 253ff.] as *Askription mit modaler Relation*, but an evidential analysis seems more suitable (cf. the discussion in [@sec:participles-scheinen-intransitive]). For *aussehen/wirken* I propose to categorise the participle constructions as a direkt evidential based on sensory evidence by the speaker (*Sinnesevidenz*). With transitive verbs these constructions evoke an anticausative diathesis (see [@sec:participles-wirken-anticausative]).
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 The following attested verbs are only illustrative examples taken from the data analysed by Lasch (2016).^[Data accessed on 24 May 2012, available online at <https://goo.gl/xUng8v> for *aussehen*, <https://goo.gl/Xj7EW6> for *erscheinen*, <https://goo.gl/5YvKiw> for *scheinen* and <https://goo.gl/yCai8B> for *wirken*.] There are many more verbs possible in these constructions, but these lists present a sample of the kind of verbs that are actually attested.
 
@@ -1254,11 +1254,11 @@ There are various highly frequent examples of *machen+Partizip* in which the par
 - Der Rauch macht mich benommen.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *betreffen, verbittern, verstören, verzagen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Das Geschehen macht mich verbittert.
 - Der Bericht hat mich verstört gemacht.
@@ -1273,11 +1273,11 @@ The *nehmen+Partizip* construction frequently occurs with *fangen* 'to catch' in
 - Er nimmt den Dieb gefangen.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *fangen, festnehmen, schenken*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Der mutmaßliche zweite Terrorverdächtige von Boston ist nach Polizeiangaben festgenommen genommen.^[~~DWDS~~: Die Zeit, 20.04.2013 (online).]
 - Ich habe mich übrigens nie als Miteigentümer der Leuna-Werke verstanden und hätte sie 1990 nicht geschenkt genommen.^[~~DWDS~~: Die Zeit, 12.05.2005, Nr. 20.]
@@ -1291,7 +1291,7 @@ The *setzen+Partizip* construction appears to be only possible with the verb *fa
 - Er setzt den Dieb gefangen.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *fangen*
 
@@ -1373,7 +1373,7 @@ Many, but not all, verbs that allow for a reflexive conversive diathesis, like *
 - In braver Einigkeit wird sich darüber aufgeregt, dass die Debattenkultur in Deutschland zu lahm, zu konsensuell, zu träge geworden sei.^[~~DWDS~~: Die Zeit, 12.09.2017 (online).]
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Governed preposition verbs (see [@sec:prepositions-governed-drop])
   - über  : *herrschen, siegen, triumphieren, lügen, reden, sprechen, schweigen, denken, diskutieren, meditieren, nachdenken, klagen, lachen, schimpfen, staunen, streiten, weinen*
@@ -1384,7 +1384,7 @@ Many, but not all, verbs that allow for a reflexive conversive diathesis, like *
   - über  : *aufregen, ärgern, begeistern, beschweren, empören, freuen, wundern*
   - um    : *kümmern*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Als Erstes wird sich allgemein darüber gewundert, wie anders man doch aussehe und dass man sich dennoch wieder erkannt habe.^[~~DWDS~~: Berliner Zeitung, 01.12.2004.]
 - Wenn du etwas falsch machst, wird sich um dich gekümmert.^[~~DWDS~~: Die Zeit, 24.09.2015 (online).]
@@ -1400,12 +1400,12 @@ Only a small subset of all verbs with a dative argument allow for an impersonal 
   Dem Verein wird beigetreten.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - With *haben* perfect: *antworten, beipflichten, bevorstehen, entsprechen, gratulieren, helfen, nacheifern, trauen, vertrauen, zuhören, zureden*
 - With *sein* perfect: *beitreten, folgen, nachgehen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Auch in diesem Fall wird dem Gesprächspartner zuerst beigepflichtet.^[Attested online at <https://wortwuchs.net/stilmittel/concessio/>, accessed 6 Juni 2021.]
 - Ich weiß nicht, wie weit dem Zola-Roman gefolgt wird.^[~~DWDS~~: Klemperer, Victor: [Tagebuch] 1928. In: "Leben sammeln, nicht fragen wozu und warum", Berlin: Aufbau-Taschenbuch-Verl. 2000, S. 258.]
@@ -1441,7 +1441,7 @@ It turns out to be astonishingly hard, but not impossible, to find examples of a
   = An nichts ist gearbeitet worden.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *denken*
 
@@ -1458,7 +1458,7 @@ In contrast, *sein* impersonal passives with nominative+dative verbs are easy to
   Schon gar nicht, bevor dem Mieter dort wirksam gekündigt ist.^[~~DWDS~~: Berliner Zeitung, 03.05.2003.]
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *antworten, entsprechen, helfen, kündigen*, etc.
 
@@ -1482,7 +1482,7 @@ Impersonal passive constructions with a governed preposition are attested with t
 - Darüber gehört diskutiert, darüber gehört gestritten.^[Attested online at <https://katharina-schulze.de/zukunft-wird-aus-mut-gemacht/>, accessed 17 June 2021.]
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *diskutieren, kämpfen, streiten*
 
@@ -1497,7 +1497,7 @@ Impersonal passives with a dative are widespread with the light verb *gehören* 
   Ihm gehört gekündigt.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *antworten, entsprechen, helfen, kündigen*
 
@@ -1551,7 +1551,7 @@ c. Der Gast reist ab. \
    = Der Gast scheint abgereist zu sein.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 The following attested verbs are only illustrative examples taken from the data analysed by Lasch (2016).^[Data accessed on 24 May 2012, available online at <https://goo.gl/xUng8v> for *aussehen*, <https://goo.gl/Xj7EW6> for *erscheinen*, <https://goo.gl/5YvKiw> for *scheinen* and <https://goo.gl/yCai8B> for *wirken*.] There are many more verbs possible in these constructions, but these lists present a good sample of the kind of verbs that are actually attested.
 
@@ -1584,7 +1584,7 @@ Like the *(er)scheinen* evidential construction discussed previously (see [@sec:
   Der Herr Assauer wirkte auf mich doch leicht angesäuselt.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 The following attested verbs are only illustrative examples taken from the data analysed by Lasch (2016).^[Data accessed on 24 May 2012, available online at <https://goo.gl/xUng8v> for *aussehen*, <https://goo.gl/Xj7EW6> for *erscheinen*, <https://goo.gl/5YvKiw> for *scheinen* and <https://goo.gl/yCai8B> for *wirken*.] There are many more verbs possible in these constructions, but these lists present a good sample of the kind of verbs that are actually attested.
 
@@ -1618,7 +1618,7 @@ This construction frequently occurs with participles that are not transparently 
 - Er gibt sich aufgeräumt.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *aufklären, beeindrucken, besiegen, entspannen, erfüllen, ermutigen, erschüttern, lösen, motivieren, schlagen, überzeugen*, etc.
 
@@ -1639,11 +1639,11 @@ b. Die Worte stehen auf der Titelseite geschrieben.
 c. Ein Erzählwettbewerb stand ausgeschrieben.^[~~DWDS~~: Der Tagesspiegel, 08.12.1999.]
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *öffnen, schließen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Vielleicht auch, weil er weiß, dass die Truppen hinter ihm nicht geschlossen stehen.^[~~DWDS~~: Berliner Zeitung, 12.10.2004.]
 - Wenn die SPD nicht geschlossen stehe, werde es schwierig, den Wahlkampf durchzustehen.^[~~DWDS~~: Die Zeit, 29.09.2012, Nr. 40.]
@@ -1664,11 +1664,11 @@ a. Mir geht es ausgezeichnet/gut.
 b. Er geht gebückt.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *gewinnen, vergessen, verlieren*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Und mit ein wenig Glück hätte das Spiel auch gewonnen gehen können.^[~~DWDS~~: Die Zeit, 16.11.2013, Nr. 47.]
 - "Natürlich denke ich darüber nach, weshalb ich das tue", sagt sie jetzt, den Blick auf die Straße gerichtet, "wie viel Lebensqualität mir verloren geht, was das überhaupt bringt."^[~~DWDS~~: Die Zeit, 09.07.2017, Nr. 28.]
@@ -1715,7 +1715,7 @@ Not all transitive verbs allow for this *werden+Partizip* passive diathesis. For
 - ^* Ein Hund wird von mir besessen.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 The *werden+Partizip* passive is possible with almost all verbs that take an accusative argument, except for the following:
 
@@ -1797,7 +1797,7 @@ This analysis of the *sein+Partizip+worden* construction as a stack of two const
 - Das Fenster ist in Zeitlupe geöffnet worden.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 Almost all transitive verbs allow for a *Zustandspassive*. The following verbs with accusative arguments do not seem to allow for this *sein+Partizip* passive construction:
 
@@ -1805,7 +1805,7 @@ Almost all transitive verbs allow for a *Zustandspassive*. The following verbs w
 - Impossible, but alternation with a preverb available: *ärgern (verärgern), ekeln (anekeln), freuen (erfreuen), hassen (verhasst sein), heiraten (verheiraten), kratzen (zerkratzen), prügeln (verprügeln), wundern (verwundern)*
 - Different meaning of participle: *anhalten, ergeben, stören*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - The following are examples in which the *Zustandspassiv* does not seem to be possible:
   - Er feiert seinen Geburtstag. \
@@ -1885,11 +1885,11 @@ The *bleiben+Partizip* is only possible with a small subset of all verbs that al
 - ^* Das Auto bleibt gewaschen.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *fangen, füllen, öffnen, schließen, schützen, teilen, verbergen, verwarnen*, etc.
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Die Tür bleibt geschlossen.
 - Der Betrüger bleibt gefangen.
@@ -1914,7 +1914,7 @@ This construction is widespread for transitive verbs like *verbrennen* 'to burn 
 
 This construction is also attested with intransitive verbs as an impersonal passive, but that seems to be rare (see [@sec:participles-impersonal-gehoren]). However, impersonal passive are widespread for nominative+dative verbs (see [@sec:participles-impersonal-gehoren-dative]).
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 Various authors have listed verbs that allow for this construction. I have reproduced those lists here to illustrate the kind of verbs that can be used in this construction.
 
@@ -1939,11 +1939,11 @@ There are various more such *machen+sich+Partizip* constructions that do not app
 - Die Loyalität macht sich bezahlt.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *fürchten, verdächtigen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Alle fürchten die Hethiter. \
   Ihre energische Expansion […] hatte die Hethiter […] gefürchtet gemacht.^[~~DWDS~~: Berliner Zeitung, 16.02.2002.]
@@ -1960,11 +1960,11 @@ The *bekommen* dative passive is typically found with verbs with a dative and an
 - Ich bin krank und will geholfen bekommen!^[~~DWDS~~: Berliner Zeitung, 12.01.2002.]
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Examples from Leirbukt [-@leirbukt1997: 64]: *applaudieren, assistieren, beipflichten, danken, drohen, gratulieren, heimleuchten, pfeifen, schmeicheln, widersprechen, zuarbeiten, zujubeln, zuwinken*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Er bekommt zugearbeitet/beigepflichtet/gedankt.
 - Auf diesem Wege möchte man gerne zum Geburtstag gratuliert bekommen.^[Attested online at <https://www.tafeldeko.de/news/geburtstagsgruesse-viele-moeglichkeiten-zu-gratulieren/>, accessed 16 July 2021.]
@@ -1981,11 +1981,11 @@ The dative passive is widely discussed in the German grammatical literature unde
 
 The choice between the light verbs *bekommen*, *kriegen* and *erhalten* does not seem to have any clear semantic impact, but is mainly determined stylistically and dialectally [@leirbukt1997: Ch. 4; @lenz2013: 427ff.].
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 Leirbukt [-@leirbukt1997: 68--99] lists hundreds of verbs organised in many semantic classes, which will not be repeated here.
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich baue dir ein Haus. \
   Du bekommst (von mir) ein Haus gebaut.
@@ -2081,14 +2081,14 @@ It is crucial for the *Pertinenzpassiv* that the possessor of the accusative can
   Ich habe den Affen auf der Schulter sitzen.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - Body tending: *kämmen, maniküren, ondulieren (Haare), rasieren, schneiden (Haare), streicheln, verbinden*
 - Injury: *amputieren, auskugeln, brechen, verdrehen, verrenken, zerquetschen*
 - Repair: *aktualisieren, korrigieren, reparieren, verbinden*
 - Manipulation: *aufstellen, einbauen, einrüsten, versperren*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Während der Brexit-Kampagne wetterte Boris Johnson unermüdlich gegen die Europäische Union - jetzt nimmt er als britischer Außenminister erstmals an einer Sitzung mit Amtskollegen in Brüssel teil. Erste Beobachtung: Er hat die Haare geschnitten.^[Attested online at <https://www.n-tv.de/der_tag/Boris-Johnson-in-Bruessel-ganz-handzahm-article18215036.html>, accessed 15 July 2021.]
 - Bei der zweiten Attacke, die wieder in ihrem Haus stattfindet, reißt sie ihm die Ski-Maske vom Gesicht, erkennt ihn und jagt ihm eine Schere durch die Hand, die sie von ihrem Schreibtisch ergattern konnte, woraufhin er flüchtet. Am nächsten Tag begegnen sie sich auf der Straße vor ihren Häusern. Er hat die Hand verbunden.^[Attested online at <https://andreas-huckele.de/elle-ein-film-von-paul-verhoeven-mit-isabelle-huppert-ein-kinoabend-zum-selberdenken/>, accessed 15 July 2021.]
@@ -2125,14 +2125,14 @@ b. Ich bin angewidert von dem Witz.
 c. ^* Ich habe mich von dem Witz angewidert.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - in   : *begründen, faszinieren, interessieren*
 - mit  : *beschäftigen, schmücken*
 - über : *aufregen, begeistern, beunruhigen, empören, entsetzen, erbosen, erfreuen, erstaunen, erzürnen, überraschen, verärgern, verblüffen, verstören, verwundern*
 - von  : *amüsieren, anekeln, anstrengen, anwidern, beruhigen, entspannen, enttäuschen, erschöpfen, langweilen, quälen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Der Geruch hat ihn angewidert. \
   Er ist angewidert von dem Geruch.
@@ -2174,11 +2174,11 @@ a. Er liegt in der Kirche aufgebahrt.
 b. Das Geschenk liegt in der Schublade versteckt.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *begründen, beschließen, verbergen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Trotz aller Fehltritte und Peinlichkeiten, die sich Hannah und Co. leisteten, vergaß Girls nicht, dass im größten Desaster immer auch die Hoffnung auf einen Neustart begründet liegt.^[~~DWDS~~: Die Zeit, 13.02.2017 (online).]
 - Die Tatsachen aber sind hart, wie die Wahrheit, die in ihnen beschlossen liegt.^[~~DWDS~~: Die Zeit, 18.09.1964, Nr. 38.]
@@ -2201,7 +2201,7 @@ b. Die Bezahlung macht den Job begehrt.
   Dieser Verweis machte den General sehr beschämt.^[Bruce, Peter Henry: Des Herrn Peter Heinrich Bruce Nachrichten von seinen Reisen in Deutschland, Rußland, die Tartarey, Türkey, Westindien u.s.f. Leipzig, 1784.]
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *begehren, beschämen*
 
@@ -2275,7 +2275,7 @@ a. Das Kind schläft ein.
 b. Sie weiß das Kind eingeschlafen.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *einschlafen*
 
@@ -2286,11 +2286,11 @@ a. Der Sieg kommt.
 a. Er glaubte den Sieg gekommen.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *einschlafen, kommen, verirren*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Als man die Band schon fast eingeschlafen glaubt kommt der Song zurück und kann mich diesmal sogar richtig begeistern.^[Attested online at <https://www.metal1.info/metal-reviews/code-nouveau-gloaming/>, accessed 11 March 2022.]
 - Als die Tochter des Hauses, die schon längst für Jean Pauls Romane schwärmte, ihn sicher eingeschlafen glaubte, trat sie leise ins Zimmer, um ihn recht nach Herzenslust zu betrachten.^[~~DWDS~~: Parthey, Gustav: Jugenderinnerungen. Bd. 2. Berlin, [1871].]
@@ -2304,11 +2304,11 @@ b. Viele Menschen sehen die UN bereits gescheitert. \
    (= Viele Menschen glauben, dass die UN bereits gescheitert ist.)
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *scheitern*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Während viele Nichtregierungsorganisationen die UN bereits gescheitert sehen, hat Weltbank-Präsident James Wolfensohn noch Hoffnung.^[~~DWDS~~: Berliner Zeitung, 26.01.2005.]
 
@@ -2319,11 +2319,11 @@ b. Viele Menschen sehen die UN bereits gescheitert. \
 - Ich finde das Projekt gescheitert.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *gelingen, scheitern*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich finde das Kunstwerk sehr gelungen.
 
@@ -2343,11 +2343,11 @@ a. Jemand unterstellt die Ostgebiete dem Kontrollrat.
 b. Ich weiß die Ostgebiete dem Kontrollrat unterstellt.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *aufheben, lieben, regeln, unterstellen, verstehen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - … wenn er die materiellen Fragen vor der Eheschließung geregelt weiß.^[~~DWDS~~: Gerling, Reinhold: Was muß man vor der Ehe von der Ehe wissen? In: ders., Das große Aufklärungswerk für Braut- und Eheleute, Dresden: Buchversand Gutenberg 1933 [1901], S. 207.]
 - Sie schob den Hausarzt vor, den sie von dem Jungen wie einen Freund geliebt wußte.^[~~DWDS~~: Bodenreuth, Friedrich [d.i. Jaksch, Friedrich]: Alle Wasser Böhmens fließen nach Deutschland, Berlin: Büchergilde Gutenberg 1938 [1937], S. 22.]
@@ -2376,11 +2376,11 @@ b. Er glaubt das Seil vom Wind zerrissen. \
    (= Er glaubt, dass das Seil vom Wind zerrissen ist.)
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *benachteiligen, entschuldigen, erreichen, lieben, verfolgen, verlieren, verraten, zerreißen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Er glaubte den Ring verloren.
 - Er glaubte den Sieg erreicht.
@@ -2398,11 +2398,11 @@ a. Der Autor bricht das Vertrauen.
 b. Die Zeitung sieht das Vertrauen durch den Autor gebrochen.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *bestärken, bestätigen, brechen, nötigen, verpflichten, zwingen*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Während die WAZ das Vertrauen und den Gesellschaftervertrag gebrochen sieht und juristisch gegen Dichand vorgeht, wehrt sich Dichand publizistisch.^[~~DWDS~~: Der Tagesspiegel, 24.01.2003.]
 
@@ -2420,11 +2420,11 @@ a. Das Alter verändert mich.
 b. Du findest mich vom Alter verändert? 
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *bestätigen, nötigen, verändern*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Um die Sache zu prüfen, habe er im Urlaub mal einen Nacktbadestrand aufgesucht - und dort das Bild aus der Sauna bestätigt gefunden.^[~~DWDS~~: Die Zeit, 15.02.2016 (online).]
 
@@ -2445,11 +2445,11 @@ a. Ich eigne mich durch meine Qualifikation für den Job.
 b. Die Qualifikation macht mich geeignet für den Job.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *besaufen, eignen, konzentrieren*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ich konzentriere mich (durch den Kaffee). \
   Der Kaffee macht mich konzentriert.
@@ -2494,11 +2494,11 @@ A related, but different, diathesis with intransitive verbs uses the *haben+am�
 - Ich habe die Holzkohle am Glühen.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *einwachsen, schwellen, zufrieren*
 
-#### Further examples {.unnumbered}
+#### Further examples {.unnumbered .unlisted}
 
 - Ihm sind Haare im Auge eingewachsen. \
   Er hatte Haare im Auge eingewachsen.
@@ -2516,7 +2516,7 @@ a. Er vergisst den Verlust.
 b. Ich mache den Verlust vergessen.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *vergessen*
 
@@ -2529,6 +2529,6 @@ a. Irgendjemand verliert den Ring.
 b. Ich gebe den Ring verloren.
 :::
 
-#### Attested verbs {.unnumbered}
+#### Attested verbs {.unnumbered .unlisted}
 
 - *verlieren*
