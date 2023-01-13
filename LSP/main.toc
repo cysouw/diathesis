@@ -294,37 +294,37 @@
 \contentsline {subsection}{\numberline {6.3.6}{[} Np {]} Bare reciprocal \emph {mit}}{193}{subsection.6.3.6}%
 \contentsline {section}{\numberline {6.4}Alternations without diathesis}{194}{section.6.4}%
 \contentsline {section}{\numberline {6.5}Diatheses with subject demotion}{194}{section.6.5}%
-\contentsline {subsection}{~~~~~--- {[} SBJ \textgreater {} Ø {]} ---}{194}{section*.92}%
+\contentsline {subsection}{\leavevmode {\color {gray}~~~~~--- {[} SBJ \textgreater {} Ø {]} ---}}{194}{section*.92}%
 \contentsline {subsection}{\numberline {6.5.1}{[} NP \textbar {} --P {]} Nominative drop+governed preposition}{194}{subsection.6.5.1}%
-\contentsline {subsection}{~~~~~--- {[} SBJ \textgreater {} ADJ {]} ---}{195}{section*.96}%
+\contentsline {subsection}{\leavevmode {\color {gray}~~~~~--- {[} SBJ \textgreater {} ADJ {]} ---}}{195}{section*.96}%
 \contentsline {subsection}{\numberline {6.5.2}{[} ND \textbar {} pD {]} Nominative demotion+dative}{195}{subsection.6.5.2}%
 \contentsline {subsection}{\numberline {6.5.3}{[} N-- \textbar {} pD {]} Nominative demotion+dative addition}{196}{subsection.6.5.3}%
-\contentsline {subsection}{~~~~~--- {[} ADJ \textgreater {} SBJ \textgreater {} Ø {]} \emph {Instrumentsubjektivierung} ---}{196}{section*.101}%
+\contentsline {subsection}{\leavevmode {\color {gray}~~~~~--- {[} ADJ \textgreater {} SBJ \textgreater {} Ø {]} \emph {Instrumentsubjektivierung} ---}}{196}{section*.101}%
 \contentsline {subsection}{\numberline {6.5.4}{[} Np \textbar {} --N {]} Intransitive conciliative}{196}{subsection.6.5.4}%
 \contentsline {subsection}{\numberline {6.5.5}{[} NpA \textbar {} --NA {]} Transitive conciliative}{197}{subsection.6.5.5}%
 \contentsline {subsection}{\numberline {6.5.6}{[} NpA \textbar {} --Np {]} Ingredient conciliative}{199}{subsection.6.5.6}%
-\contentsline {subsection}{~~~~~--- {[} PBJ \textgreater {} SBJ \textgreater {} Ø {]} \emph {Kreationsubjektivierung} ---}{200}{section*.109}%
+\contentsline {subsection}{\leavevmode {\color {gray}~~~~~--- {[} PBJ \textgreater {} SBJ \textgreater {} Ø {]} \emph {Kreationsubjektivierung} ---}}{200}{section*.109}%
 \contentsline {subsection}{\numberline {6.5.7}{[} NPA \textbar {} --NA {]} Transitive fabricative}{200}{subsection.6.5.7}%
 \contentsline {subsection}{\numberline {6.5.8}{[} NP \textbar {} --N {]} Intransitive fabricative}{201}{subsection.6.5.8}%
 \contentsline {subsection}{\numberline {6.5.9}{[} NPD \textbar {} --ND {]} Fabricative+dative}{202}{subsection.6.5.9}%
-\contentsline {subsection}{~~~~~--- {[} OBJ \textgreater {} SBJ \textgreater {} Ø {]} \emph {Ortsantikausativ} ---}{202}{section*.115}%
+\contentsline {subsection}{\leavevmode {\color {gray}~~~~~--- {[} OBJ \textgreater {} SBJ \textgreater {} Ø {]} \emph {Ortsantikausativ} ---}}{202}{section*.115}%
 \contentsline {subsection}{\numberline {6.5.10}{[} NAL \textbar {} --NL {]} \emph {haben} Anticausative+location}{202}{subsection.6.5.10}%
 \contentsline {subsection}{\numberline {6.5.11}{[} NA-- \textbar {} --NP {]} \emph {haben} Anticausative+preposition addition}{203}{subsection.6.5.11}%
 \contentsline {section}{\numberline {6.6}Diatheses with promotion to subject}{204}{section.6.6}%
-\contentsline {subsection}{~~~~~--- {[} Ø \textgreater {} SBJ \textgreater {} OBJ {]} \emph {Ortskausativ} ---}{204}{section*.120}%
+\contentsline {subsection}{\leavevmode {\color {gray}~~~~~--- {[} Ø \textgreater {} SBJ \textgreater {} OBJ {]} \emph {Ortskausativ} ---}}{204}{section*.120}%
 \contentsline {subsection}{\numberline {6.6.1}{[} --NL \textbar {} NAL {]} \emph {sein} Causative+location}{204}{subsection.6.6.1}%
 \contentsline {subsection}{\numberline {6.6.2}{[} --NL \textbar {} NAL {]} \emph {Umlaut} Causative+location}{205}{subsection.6.6.2}%
 \contentsline {section}{\numberline {6.7}Diatheses with object demotion}{206}{section.6.7}%
-\contentsline {subsection}{~~~~~--- {[} PBJ \textgreater {} Ø {]} ---}{207}{section*.126}%
+\contentsline {subsection}{\leavevmode {\color {gray}~~~~~--- {[} PBJ \textgreater {} Ø {]} ---}}{207}{section*.126}%
 \contentsline {subsection}{\numberline {6.7.1}{[} NP \textbar {} N-- {]} Governed preposition drop}{207}{subsection.6.7.1}%
 \contentsline {subsection}{\numberline {6.7.2}{[} NAP \textbar {} NA-- {]} Governed preposition drop+accusative}{208}{subsection.6.7.2}%
 \contentsline {subsection}{\numberline {6.7.3}{[} NL \textbar {} N-- {]} Location preposition drop}{209}{subsection.6.7.3}%
 \contentsline {subsection}{\numberline {6.7.4}{[} NAL \textbar {} NA-- {]} Location preposition drop+accusative}{210}{subsection.6.7.4}%
-\contentsline {subsection}{~~~~~--- {[} OBJ \textgreater {} Ø {]} ---}{211}{section*.134}%
+\contentsline {subsection}{\leavevmode {\color {gray}~~~~~--- {[} OBJ \textgreater {} Ø {]} ---}}{211}{section*.134}%
 \contentsline {subsection}{\numberline {6.7.5}{[} NAP \textbar {} N--P {]} Accusative drop+governed preposition}{211}{subsection.6.7.5}%
 \contentsline {subsection}{\numberline {6.7.6}{[} NDP \textbar {} N--P {]} Dative drop+governed preposition}{211}{subsection.6.7.6}%
 \contentsline {subsection}{\numberline {6.7.7}{[} NDP \textbar {} N-- -- {]} Dative drop+governed preposition drop}{212}{subsection.6.7.7}%
-\contentsline {subsection}{~~~~~--- {[} OBJ \textgreater {} ADJ {]} \emph {Antipassiv} ---}{213}{section*.141}%
+\contentsline {subsection}{\leavevmode {\color {gray}~~~~~--- {[} OBJ \textgreater {} ADJ {]} \emph {Antipassiv} ---}}{213}{section*.141}%
 \contentsline {subsection}{\numberline {6.7.8}{[} NA \textbar {} Np {]} Accusative antipassive}{213}{subsection.6.7.8}%
 \contentsline {subsubsection}{\numberline {6.7.8.1}\emph {an} Antipassive}{214}{subsubsection.6.7.8.1}%
 \contentsline {subsubsection}{\numberline {6.7.8.2}\emph {auf} Antipassive}{216}{subsubsection.6.7.8.2}%
@@ -337,49 +337,49 @@
 \contentsline {subsubsection}{\numberline {6.7.8.9}\emph {über} Antipassive}{221}{subsubsection.6.7.8.9}%
 \contentsline {subsubsection}{\numberline {6.7.8.10}\emph {zu} Antipassive}{222}{subsubsection.6.7.8.10}%
 \contentsline {subsection}{\numberline {6.7.9}{[} NLA \textbar {} NLp {]} Accusative antipassive+location}{223}{subsection.6.7.9}%
-\contentsline {subsection}{~~~~~--- {[} OBJ \textgreater {} ADJ {]} \emph {Dativ Antipassiv} ---}{223}{section*.165}%
+\contentsline {subsection}{\leavevmode {\color {gray}~~~~~--- {[} OBJ \textgreater {} ADJ {]} \emph {Dativ Antipassiv} ---}}{223}{section*.165}%
 \contentsline {subsection}{\numberline {6.7.10}{[} ND \textbar {} Np {]} Dative antipassive}{223}{subsection.6.7.10}%
 \contentsline {subsection}{\numberline {6.7.11}{[} NAD \textbar {} NAp {]} Dative antipassive+accusative}{224}{subsection.6.7.11}%
 \contentsline {subsubsection}{\numberline {6.7.11.1}\emph {an} Ditransitive dative alternation}{225}{subsubsection.6.7.11.1}%
 \contentsline {subsubsection}{\numberline {6.7.11.2}\emph {von} Ditransitive dative alternation}{226}{subsubsection.6.7.11.2}%
 \contentsline {subsubsection}{\numberline {6.7.11.3}\emph {vor} Ditransitive dative alternation}{226}{subsubsection.6.7.11.3}%
 \contentsline {subsubsection}{\numberline {6.7.11.4}\emph {zu} Ditransitive dative alternation}{226}{subsubsection.6.7.11.4}%
-\contentsline {subsection}{~~~~~--- {[} OBJ \textgreater {} PBJ {]} ---}{227}{section*.174}%
+\contentsline {subsection}{\leavevmode {\color {gray}~~~~~--- {[} OBJ \textgreater {} PBJ {]} ---}}{227}{section*.174}%
 \contentsline {subsection}{\numberline {6.7.12}{[} NA \textbar {} NP {]} Accusative governed antipassive}{227}{subsection.6.7.12}%
 \contentsline {subsection}{\numberline {6.7.13}{[} ND \textbar {} NP {]} Dative governed antipassive}{228}{subsection.6.7.13}%
 \contentsline {subsection}{\numberline {6.7.14}{[} NG \textbar {} NP {]} Genitive governed antipassive}{228}{subsection.6.7.14}%
 \contentsline {subsection}{\numberline {6.7.15}{[} NAG \textbar {} NAP {]} Genitive governed antipassive+accusative}{229}{subsection.6.7.15}%
 \contentsline {section}{\numberline {6.8}Diatheses with promotion to object}{230}{section.6.8}%
-\contentsline {subsection}{~~~~~--- {[} Ø \textgreater {} OBJ {]} ---}{230}{section*.183}%
+\contentsline {subsection}{\leavevmode {\color {gray}~~~~~--- {[} Ø \textgreater {} OBJ {]} ---}}{230}{section*.183}%
 \contentsline {subsection}{\numberline {6.8.1}{[} --P \textbar {} DP {]} Dative addition+governed preposition}{230}{subsection.6.8.1}%
-\contentsline {subsection}{~~~~~--- {[} Ø \textgreater {} PBJ {]} \emph {Bewegungsart} ---}{231}{section*.186}%
+\contentsline {subsection}{\leavevmode {\color {gray}~~~~~--- {[} Ø \textgreater {} PBJ {]} \emph {Bewegungsart} ---}}{231}{section*.186}%
 \contentsline {subsection}{\numberline {6.8.2}{[} N-- \textbar {} NL {]} Manner of movement}{231}{subsection.6.8.2}%
 \contentsline {subsection}{\numberline {6.8.3}{[} -- -- \textbar {} NL {]} Weather-like manner-of-movement}{233}{subsection.6.8.3}%
-\contentsline {subsection}{~~~~~--- {[} Ø \textgreater {} PBJ {]} \emph {Verursachte Bewegung} ---}{234}{section*.191}%
+\contentsline {subsection}{\leavevmode {\color {gray}~~~~~--- {[} Ø \textgreater {} PBJ {]} \emph {Verursachte Bewegung} ---}}{234}{section*.191}%
 \contentsline {subsection}{\numberline {6.8.4}{[} N-- -- \textbar {} NAL {]} Intransitive caused motion}{234}{subsection.6.8.4}%
 \contentsline {subsection}{\numberline {6.8.5}{[} NA-- \textbar {} NAL {]} Transitive caused motion}{236}{subsection.6.8.5}%
-\contentsline {subsection}{~~~~~--- {[} Ø \textgreater {} PBJ {]} \emph {Ergänzende Wirkung} ---}{237}{section*.197}%
+\contentsline {subsection}{\leavevmode {\color {gray}~~~~~--- {[} Ø \textgreater {} PBJ {]} \emph {Ergänzende Wirkung} ---}}{237}{section*.197}%
 \contentsline {subsection}{\numberline {6.8.6}{[} NA-- \textbar {} NAP {]} Performative result}{237}{subsection.6.8.6}%
-\contentsline {subsection}{~~~~~--- {[} Ø \textgreater {} OBJ \textgreater {} PBJ {]} \emph {Teil Objekttausch} ---}{239}{section*.201}%
+\contentsline {subsection}{\leavevmode {\color {gray}~~~~~--- {[} Ø \textgreater {} OBJ \textgreater {} PBJ {]} \emph {Teil Objekttausch} ---}}{239}{section*.201}%
 \contentsline {subsection}{\numberline {6.8.7}{[} NA-- \textbar {} NLA {]} Partitive separated object (\emph {Teil/weg-Objekttausch})}{239}{subsection.6.8.7}%
 \contentsline {subsection}{\numberline {6.8.8}{[} NA-- \textbar {} NLA {]} Partitive joined object (\emph {Teil/fest-Objekttausch})}{241}{subsection.6.8.8}%
-\contentsline {subsection}{~~~~~--- {[} ADJ \textgreater {} OBJ {]} \emph {Benefaktivdativ} ---}{242}{section*.206}%
+\contentsline {subsection}{\leavevmode {\color {gray}~~~~~--- {[} ADJ \textgreater {} OBJ {]} \emph {Benefaktivdativ} ---}}{242}{section*.206}%
 \contentsline {subsection}{\numberline {6.8.9}{[} NAp \textbar {} NAD {]} Beneficiary dative}{242}{subsection.6.8.9}%
-\contentsline {subsection}{~~~~~--- {[} ADJ \textgreater {} OBJ {]} \emph {Beurteilerdativ} ---}{243}{section*.209}%
+\contentsline {subsection}{\leavevmode {\color {gray}~~~~~--- {[} ADJ \textgreater {} OBJ {]} \emph {Beurteilerdativ} ---}}{243}{section*.209}%
 \contentsline {subsection}{\numberline {6.8.10}{[} Np \textbar {} ND {]} Judgement dative}{243}{subsection.6.8.10}%
-\contentsline {subsection}{~~~~~--- {[} ADJ \textgreater {} OBJ {]} \emph {Ortspertinenzdativ} ---}{244}{section*.211}%
+\contentsline {subsection}{\leavevmode {\color {gray}~~~~~--- {[} ADJ \textgreater {} OBJ {]} \emph {Ortspertinenzdativ} ---}}{244}{section*.211}%
 \contentsline {subsection}{\numberline {6.8.11}{[} NLg \textbar {} NLD {]} Possessor-of-location to dative experiencer}{244}{subsection.6.8.11}%
 \contentsline {subsection}{\numberline {6.8.12}{[} NALg \textbar {} NALD {]} Possessor-of-location to dative experiencer+accusative}{245}{subsection.6.8.12}%
-\contentsline {subsection}{~~~~~--- {[} ADJ \textgreater {} OBJ \textgreater {} PBJ {]} \emph {Pertinenzakkusativ} ---}{247}{section*.218}%
+\contentsline {subsection}{\leavevmode {\color {gray}~~~~~--- {[} ADJ \textgreater {} OBJ \textgreater {} PBJ {]} \emph {Pertinenzakkusativ} ---}}{247}{section*.218}%
 \contentsline {subsection}{\numberline {6.8.13}{[} NAg \textbar {} NPA {]} Possessor-of-accusative applicative}{247}{subsection.6.8.13}%
-\contentsline {subsection}{~~~~~--- {[} ADJ \textgreater {} OBJ + Ø \textgreater {} OBJ {]} ---}{247}{section*.221}%
+\contentsline {subsection}{\leavevmode {\color {gray}~~~~~--- {[} ADJ \textgreater {} OBJ + Ø \textgreater {} OBJ {]} ---}}{247}{section*.221}%
 \contentsline {subsection}{\numberline {6.8.14}{[} Np-- \textbar {} NAA {]} Naming result}{247}{subsection.6.8.14}%
 \contentsline {section}{\numberline {6.9}Symmetrical diatheses}{248}{section.6.9}%
-\contentsline {subsection}{~~~~~--- {[} ADJ \textgreater {} SBJ \textgreater {} ADJ {]} ---}{248}{section*.224}%
+\contentsline {subsection}{\leavevmode {\color {gray}~~~~~--- {[} ADJ \textgreater {} SBJ \textgreater {} ADJ {]} ---}}{248}{section*.224}%
 \contentsline {subsection}{\numberline {6.9.1}{[} Np \textbar {} pN {]} Commutative}{248}{subsection.6.9.1}%
-\contentsline {subsection}{~~~~~--- {[} ADJ \textgreater {} OBJ \textgreater {} ADJ {]} ---}{248}{section*.226}%
+\contentsline {subsection}{\leavevmode {\color {gray}~~~~~--- {[} ADJ \textgreater {} OBJ \textgreater {} ADJ {]} ---}}{248}{section*.226}%
 \contentsline {subsection}{\numberline {6.9.2}{[} NAp \textbar {} NpA {]} Chained applicative/antipassive}{248}{subsection.6.9.2}%
-\contentsline {subsection}{~~~~~--- {[} ADJ \textgreater {} ADJ {]} ---}{250}{section*.230}%
+\contentsline {subsection}{\leavevmode {\color {gray}~~~~~--- {[} ADJ \textgreater {} ADJ {]} ---}}{250}{section*.230}%
 \contentsline {subsection}{\numberline {6.9.3}{[} NAg \textbar {} NAp {]} Possessor-of-accusative to preposition}{250}{subsection.6.9.3}%
 \contentsline {chapter}{\numberline {7}Reflexive pronoun alternations}{253}{chapter.7}%
 \contentsline {section}{\numberline {7.1}Introduction}{253}{section.7.1}%

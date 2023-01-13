@@ -68,7 +68,7 @@ nav li > a:only-child {
 nav li li {
   margin-left: 1em;
 }
-nav li li li li {
+nav li li li {
   margin-left: 0.5em;
   font-size: smaller;
 }

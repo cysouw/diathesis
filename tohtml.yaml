@@ -30,6 +30,7 @@ filters:
 - filters/pandoc-crossref
 - filters/crossref-adapt.lua
 - citeproc
+- filters/colorhead.lua
 
 metadata-files:
 - meta/metadata.yaml
