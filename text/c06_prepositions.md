@@ -446,7 +446,7 @@ This section is empty. It is only added here for the numbering to be parallel ac
 
 ## Diatheses with subject demotion
 
-### --- [ SBJ > Ø ] --- {.unnumbered}
+###      --- [ SBJ > Ø ] --- {.unnumbered}
 
 ### [ NP | –P ] Nominative drop+governed preposition {#sec:prepositions-nominative-drop}
 
@@ -484,7 +484,7 @@ c. Eine mögliche Wiedergeburt der Grünen [...] hapert an drei Stellen.^[~~DWDS
 d. Nur bei den Bässen hapert der Nachschub.^[~~DWDS~~: Die Zeit, 19.03.1993, Nr. 12.]
 :::
 
-### --- [ SBJ > ADJ ] --- {.unnumbered}
+###      --- [ SBJ > ADJ ] --- {.unnumbered}
 
 ### [ ND | pD ] Nominative demotion+dative {#sec:prepositions-nominative-demotion}
 
@@ -525,7 +525,7 @@ c. Es ist kalt (im Sommer).
 - Mir ist langweilig im Sommer. \
   Der Sommer ist langweilig.
 
-### --- [ ADJ > SBJ > Ø ] --- *Instrumentsubjektivierung* {.unnumbered}
+###      --- [ ADJ > SBJ > Ø ] *Instrumentsubjektivierung* --- {.unnumbered}
 
 ### [ Np | –N ] Intransitive conciliative {#sec:prepositions-intransitive-preposition-anticausative}
 
@@ -638,7 +638,7 @@ This alternation takes a (non-governed) prepositional phrase and turns it into a
 - Ich rieche Blume im Parfüm. \
   Der Parfüm riecht nach Blume.
 
-### --- [ PBJ > SBJ > Ø ] --- *Kreationsubjektivierung* {.unnumbered}
+###      --- [ PBJ > SBJ > Ø ] *Kreationsubjektivierung* --- {.unnumbered}
 
 ### [ NPA | –NA ] Transitive fabricative {#sec:prepositions-fabricative-accusative}
 
@@ -716,7 +716,7 @@ c. Die Entlassung droht mir.
 
 - *drohen*
 
-### --- [ OBJ > SBJ > Ø ] --- *Ortsantikausativ* {.unnumbered}
+###      --- [ OBJ > SBJ > Ø ] *Ortsantikausativ* --- {.unnumbered}
 
 ### [ NAL | –NL ] *haben* Anticausative+location {#sec:prepositions-haben-caused-location}
 
@@ -779,7 +779,7 @@ c. Der Traum deutet darauf, dass morgen alles wieder gut sein wird.
 
 ## Diatheses with promotion to subject
 
-### --- [ Ø > SBJ > OBJ ] --- *Ortskausativ* {.unnumbered}
+###      --- [ Ø > SBJ > OBJ ] *Ortskausativ* --- {.unnumbered}
 
 ### [ –NL | NAL ] *sein* Causative+location {#sec:prepositions-sein-caused-location}
 
@@ -896,7 +896,7 @@ e. ^* Ich schreibe dir an dem Brief. ~~[NPD]~~
 f. ^* Ich schreibe an dich an dem Brief. ~~[NPP]~~
 :::
 
-### --- [ PBJ > Ø ] --- {.unnumbered}
+###      --- [ PBJ > Ø ] --- {.unnumbered}
 
 ### [ NP | N– ] Governed preposition drop {#sec:prepositions-governed-drop}
 
@@ -1034,7 +1034,7 @@ The verb *durchziehen* needs a location phrase when used in the meaning 'to pull
 
 - *durchziehen*
 
-### --- [ OBJ > Ø ] --- {.unnumbered}
+###      --- [ OBJ > Ø ] --- {.unnumbered}
 
 ### [ NAP | N–P ] Accusative drop+governed preposition
 
@@ -1105,7 +1105,7 @@ d. ^^?^ Ich gratuliere.
 - Er dankt (mir) für den Wein.
 - Er antwortet (dir) auf deine Frage.
 
-### --- [ OBJ > ADJ ] --- *Antipassiv* {.unnumbered}
+###      --- [ OBJ > ADJ ] *Antipassiv* --- {.unnumbered}
 
 ### [ NA | Np ] Accusative antipassive {#sec:prepositions-accusative-antipassive}
 
@@ -1498,7 +1498,7 @@ c. ^* Er stößt das Messer.
 
 - *drücken, stoßen*
 
-### --- [ OBJ > ADJ ] --- *Dativ Antipassiv* {.unnumbered}
+###      --- [ OBJ > ADJ ] *Dativ Antipassiv* --- {.unnumbered}
 
 ### [ ND | Np ] Dative antipassive {#sec:prepositions-dative-antipassive}
 
@@ -1623,7 +1623,7 @@ The *zu* dative antipassive is typically used with verbs expressing the movement
 - Ich ordne das Verb einer Gruppe zu. \
   Ich ordne das Verb zu einer Gruppe zu.
 
-### --- [ OBJ > PBJ ] --- {.unnumbered}
+###      --- [ OBJ > PBJ ] --- {.unnumbered}
 
 ### [ NA | NP ] Accusative governed antipassive {#sec:prepositions-governed-antipassive}
 
@@ -1734,7 +1734,7 @@ Das allgemeine Völkerrecht befreit die Person des feindlichen Regenten.^[~~DWDS
 
 ## Diatheses with promotion to object
 
-### --- [ Ø > OBJ ] --- {.unnumbered}
+###      --- [ Ø > OBJ ] --- {.unnumbered}
 
 ### [ –P | DP ] Dative addition+governed preposition
 
@@ -1762,7 +1762,7 @@ This alternation allows for either a dative to be present or not with verbs that
 - Es fehlt an Geld. \
   Ihm fehlt es an Geld.
 
-### --- [ Ø > PBJ ] --- *Bewegungsart* {.unnumbered}
+###      --- [ Ø > PBJ ] *Bewegungsart* --- {.unnumbered}
 
 ### [ N– | NL ] Manner of movement {#sec:prepositions-manner-of-movement}
 
@@ -1873,7 +1873,7 @@ b. Sie stürmten in den Saal.
 - Seine Zähne blitzten in der Sonne.
 - Die Motoren donnerten durch die Stadt.
 
-### --- [ Ø > PBJ ] --- *Verursachte Bewegung* {.unnumbered}
+###      --- [ Ø > PBJ ] *Verursachte Bewegung* --- {.unnumbered}
 
 In the analysis of resultative constructions, there is a recurrent suggestion in the literature to distinguish between "cause to go" and "cause to become" semantics [e.g. @mcintyre2003: 120]. I will use the designation "caused motion" for the former and "performative result" for the latter here.
 
@@ -1977,7 +1977,7 @@ c. Ich befehle die Armee an der Front. \
 - Der Kutscher peitschte das Pferd. \
   Ein Tornado peitscht Tausende von Haien aus dem Meer.
 
-### --- [ Ø > PBJ ] --- *Ergänzende Wirkung* {.unnumbered}
+###      --- [ Ø > PBJ ] *Ergänzende Wirkung* --- {.unnumbered}
 
 ### [ NA– | NAP ] Performative result {#sec:prepositions-performative-result}
 
@@ -2028,7 +2028,7 @@ The verb *wünschen* 'to wish' can be used in a construction with *als* [@next a
 - Dr. Malan wünschte sich den vierundsiebzigjährigen Meneer Havenga zum Nachfolger.^[~~DWDS~~: Die Zeit, 16.12.1954, Nr. 50.]
 :::
 
-### --- [ Ø > OBJ > PBJ ] --- *Teil Objekttausch* {.unnumbered}
+###      --- [ Ø > OBJ > PBJ ] *Teil Objekttausch* --- {.unnumbered}
 
 ### [ NA– | NLA ] Partitive separated object (*Teil/weg-Objekttausch*) {#sec:prepositions-partitive-free}
 
@@ -2107,7 +2107,7 @@ This diathesis is closely related to a similar diathesis with preverbs (see [@se
 - Er hackt das Holz. \
   Er hackt ein Loch in das Eis.
 
-### --- [ ADJ > OBJ ] --- *Benefaktivdativ* {.unnumbered}
+###      --- [ ADJ > OBJ ] *Benefaktivdativ* --- {.unnumbered}
 
 ### [ NAp | NAD ] Beneficiary dative {#sec:prepositions-benefactive-dative}
 
@@ -2149,7 +2149,7 @@ e. Gib mir eine Waffe und ich gewinne dir jeden Krieg.^[Attested online at <http
 - Ich garantiere dir den Erfolg. \
   Ich garantiere den Erfolg für dich.
 
-### --- [ ADJ > OBJ ] --- *Beurteilerdativ* {.unnumbered}
+###      --- [ ADJ > OBJ ] *Beurteilerdativ* --- {.unnumbered}
 
 ### [ Np | ND ] Judgement dative {#sec:prepositions-judgement-dative}
 
@@ -2169,7 +2169,7 @@ A dative can be introduced together with an obligatory *zu/genug* phrase in the 
 - Ich lüge dir zu viel. \
   Ich lüge zu viel für deinen Geschmack.
 
-### --- [ ADJ > OBJ ] --- *Ortspertinenzdativ* {.unnumbered}
+###      --- [ ADJ > OBJ ] *Ortspertinenzdativ* --- {.unnumbered}
 
 ### [ NLg | NLD ] Possessor-of-location to dative experiencer {#sec:prepositions-possessor-of-location-to-dative-experiencer}
 
@@ -2279,7 +2279,7 @@ This construction is frequently used metaphorically [@next].
 - Ich jage dir den Anwalt auf den Hals.
 :::
 
-### --- [ ADJ > OBJ > PBJ ] --- *Pertinenzakkusativ* {.unnumbered}
+###      --- [ ADJ > OBJ > PBJ ] *Pertinenzakkusativ* --- {.unnumbered}
 
 ### [ NAg | NPA ] Possessor-of-accusative applicative {#sec:perpositions-possessor-applicative}
 
@@ -2304,7 +2304,7 @@ c. Ich bewundere ihn dafür, dass er ehrlich ist.
 - Die Delegierten feiern ihn für sein Nein zum Irak-Krieg. \
   Die Delegierten feiern sein Nein zum Irak-Krieg.
 
-### --- [ ADJ > OBJ + Ø > OBJ ] --- {.unnumbered}
+###      --- [ ADJ > OBJ + Ø > OBJ ] --- {.unnumbered}
 
 ### [ Np– | NAA ] Naming result {#sec:prepositions-naming-result}
 
@@ -2325,7 +2325,7 @@ b. Sie schimpft mich einen Narren
 
 ## Symmetrical diatheses
 
-### --- [ ADJ > SBJ > ADJ ] --- {.unnumbered} 
+###      --- [ ADJ > SBJ > ADJ ] --- {.unnumbered} 
 
 ### [ Np | pN ] Commutative {#sec:prepositions-subject-switch}
 
@@ -2340,7 +2340,7 @@ b. Der Platz wimmelt von Kindern.
 
 - *wimmeln*
 
-### --- [ ADJ > OBJ > ADJ ] --- {.unnumbered}
+###      --- [ ADJ > OBJ > ADJ ] --- {.unnumbered}
 
 ### [ NAp | NpA ] Chained applicative/antipassive {#sec:prepositions-instrument-applicative}
 
@@ -2404,7 +2404,7 @@ a. Er vergleicht mich mit einem Affen.
 b. Er vergleicht einen Affen mit mir.
 :::
 
-### --- [ ADJ > ADJ ] --- {.unnumbered}
+###      --- [ ADJ > ADJ ] --- {.unnumbered}
 
 ### [ NAg | NAp ] Possessor-of-accusative to preposition {#sec:prepositions-possessor-to-preposition}
 
