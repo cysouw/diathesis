@@ -355,7 +355,7 @@ Table: Resultativ adjective is syntactically like a preverb. {#tbl:resultative-p
 
 This section summarises the various German verbs that require adverbials. All examples discussed in this section concern verbs with obligatory ~~evaluatives~~. Although I see no reason why obligatory ~~resultatives~~ would be impossible, I have not been able to find any examples. The phenomenon to look out for are verbs with a resultative preverbial (like *leerkaufen*) in which the verb stem (i.e. *kaufen*) is not attested as an individual verb, but only occurs in combination with the resultative.
 
-### --- Verb with obligatory adverbial --- {.unnumbered}
+###      --- Verb with obligatory adverbial --- {.unnumbered}
 
 ### [ N ] Nominative+evaluative {#sec:adverbial-nominative}
   
@@ -533,7 +533,7 @@ Because there is no nominative argument in this special construction with *gehen
 
 - *gehen*
 
-### --- Alternation with obligatory adverbial --- {.unnumbered}
+###      --- Alternation with obligatory adverbial --- {.unnumbered}
 
 ### [ N | – ] Nominative drop+evaluative {#sec:adverbial-nominative-drop}
 
@@ -568,7 +568,7 @@ The situation is more interesting with preverbials. First, there are two special
 
 Second, the addition of a resultative preverbial regularly leads to a diathesis (see the summary in [@sec:adverbial-resultative-summary]). However there are also two highly productive patterns in which the addition of a resultative does not trigger a diathesis. With intransitive verbs an additional reflexive pronoun is needed ([@sec:adverbial-intransitive-resultative]). In contrast, with transitive verbs there is no reflexive pronoun. With those verbs the addition of a resultative does not have any syntactic repercussions ([@sec:adverbial-transitive-resultative]).
 
-### --- Temporal aspect --- {.unnumbered}
+###      --- Temporal aspect --- {.unnumbered}
 
 ### [ N | N ] *los‑* Inchoative (*Inchoativ*) {#sec:adverbial-inchoative-los}
 
@@ -718,7 +718,7 @@ With ditransitive verbs, like *empfehlen* 'to recommend' [@next a], the preverbi
 - Intransitive activity: *arbeiten, blättern, bohren, denken, drehen, essen, feiern, forschen, kramen, kämpfen, qualifizieren, qualmen, rauchen, reden, regieren, saufen, schießen, singen, spielen, streiken, studieren, trinken, verhandeln, winken, zechen*
 - Transitive: *bauen, bearbeiten, befördern (transportieren), beschäftigen, betreiben, bewegen, braten, bringen, entwickeln, fragen, fressen, führen, helfen, lesen, schieben, schleppen, schreiben, sehen, verarbeiten, verbreiten, verfolgen, verwenden, verwerten, zahlen*
 
-### --- Resultatives without diathesis --- {.unnumbered}
+###      --- Resultatives without diathesis --- {.unnumbered}
 
 ### [ N | N ] Reflexive intransitive resultative (*Reflexiv Resultativ*) {#sec:adverbial-intransitive-resultative}
 

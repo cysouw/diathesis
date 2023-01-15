@@ -171,9 +171,9 @@ In contrast, verbs with the following valency patterns are unattested, or only a
 
 Comparing these two groups, the generalisation can be formulated that obligatory dative *sich* is only possible when there is an accusative argument present and an obligatory accusative *sich* is not possible with a dative argument present.
 
-### --- Obligatory accusative reflexive pronouns --- {.unnumbered}
+###      --- Obligatory accusative reflexive verbs --- {.unnumbered}
 
-### [ N ] Obligatory accusative reflexive {#sec:reflexive-obligatory-accusative-reflexive}
+### [ N ] Accusative reflexive {#sec:reflexive-obligatory-accusative-reflexive}
 
 Various verbs describing behaviour, like *verirren* 'to get lost' [@next a], need an obligatory reflexive pronoun. Depending on the analysis, a large group of intransitive verbs with a resultative preverbial, like *totlachen* 'to laugh extremely' [@next b], can also be included here (cf. [@sec:adverbial-intransitive-resultative]).
 
@@ -198,7 +198,7 @@ Various verbs describing behaviour, like *verirren* 'to get lost' [@next a], nee
 - Auf der A8 hat sich ein Unfall ereignet.
 - Die neugeborenen Katzen behaaren sich allmählich.^[~~DWDS~~ dictionary, attested online at <https://www.dwds.de/wb/behaaren>, accessed 27 July 2022.]
 
-### [ NP ] Obligatory accusative reflexive+governed preposition {#sec:reflexive-obligatory-reflexive-preposition}
+### [ NP ] Accusative reflexive+governed preposition {#sec:reflexive-obligatory-reflexive-preposition}
 
 A widespread phenomenon are verbs with an obligatory accusative *sich* with a governed preposition (see [@sec:prepositions-delimiting-governed-prepositional-phrases] on defining governed prepositions), like *entschließen zu* 'to decide' [@next a,b]. The verbs are listed below according to the preposition they govern.
 
@@ -268,7 +268,7 @@ d. Ich drücke mich vor der Gefahr.
 
 The verb *sich schicken* 'to acquiesce' is an old-fashioned meaning of *schicken* 'to send'. Another usage of the same verb stem typically occurs with *es* and negative polarity, *es schickt sich nicht* meaning 'to be not suitable*.
 
-### [ Np ] Obligatory accusative reflexive+*mit* (*reciproca tantum*) {#sec:reflexive-real-reciprocals}
+### [ Np ] Accusative reflexive+*mit* (*reciproca tantum*) {#sec:reflexive-real-reciprocals}
 
 A special group of verbs in this class are verbs with an reciprocal *mit* preposition, like with *einigen* 'to reach an agreement' in [@next]. On first notice, the *mit* phrase might look like a comitative argument as used with *betrinken* 'to get drunk' in [@nnext]. However, as shown by the grammaticality judgements in those two examples, the *mit* phrases with both verbs have different characteristics.
 
@@ -307,7 +307,7 @@ There are many verbs with the prefix *ver‑* in this class. Interestingly, many
 
 Various reciprocal *mit* verbs also exist without reflexive pronoun, but only in a different lexical meaning, e.g. *vertragen* means 'to tolerate something inanimate' without a reflexive pronoun, but 'to get along with a human' with a reflexive pronoun.
 
-### [ NL ] Obligatory accusative reflexive+local preposition {#sec:reflexive-obligatory-local}
+### [ NL ] Accusative reflexive+local preposition {#sec:reflexive-obligatory-local}
 
 A few verbs with obligatory *sich* additionally need an obligatory local prepositional phrase, like *sich befinden* 'to be located' [@next].
 
@@ -332,7 +332,7 @@ b. ^* Das Rathaus befindet sich.
 
 The obligatory reflexive verb *sich aufhalten* 'to be located' is possibly distantly related in meaning to the non-reflexive verb *aufhalten* 'to stop something' discussed in [@sec:reflexive-preposition-passive]. 
 
-### [ ND ] Obligatory accusative reflexive+dative {#sec:reflexive-obligatory-accusative-sich-dative}
+### [ ND ] Accusative reflexive+dative {#sec:reflexive-obligatory-accusative-sich-dative}
 
 This pattern with an obligatory accusative reflexive with a dative is exceedingly rare. The attested example appear somewhat old-fashioned, like *sich hingeben* 'to indulge oneself' [@next]. There are a few more verbs in which the dative is optional (see [@sec:reflexive-accusative-sich-dative-addition]). Semantically, these verbs are closely related to the verbs showing a dative passive diathesis (see [@sec:reflexive-sich-dative-passive]).
 
@@ -351,7 +351,7 @@ Ich hab mich der Aufgabe hingegeben.
 - Ich werde mich deinem Vorschlag anschließen.
 - In Scharen gesellt sie sich häufig dem Hausgeflügel zu.^[~~DWDS~~: Natzmer, Gert von: Tierstaaten und Tiergesellschaften, Berlin: Safari-Verl. 1967, S. 209.]
 
-### [ NG ] Obligatory accusative reflexive+genitive {#sec:reflexive-obligatory-accusative-genitive}
+### [ NG ] Accusative reflexive+genitive {#sec:reflexive-obligatory-accusative-genitive}
 
 Accusative *sich* combined with an obligatory genitive argument is clearly attested, although all these uses are rather old-fashioned, like with *sich entledigen* 'to ditch' [@next].
 
@@ -371,9 +371,9 @@ Ich entledige mich meines Gegners.
 - Ich habe mich dieser Methode bedient.
 - Ich erfreue mich bester Gesundheit.
 
-### --- Obligatory dative reflexive pronouns --- {.unnumbered}
+###      --- Obligatory dative reflexive verbs --- {.unnumbered}
 
-### [ N ] Obligatory dative reflexive {#sec:reflexive-obligatory-dative}
+### [ N ] Dative reflexive {#sec:reflexive-obligatory-dative}
 
 It is exceedingly rare to have a dative *sich* without other arguments. A possible example is the (arguably lexicalised) collocation *sich Mühe geben* 'to make an effort' [@next a]. Also, the verb *behelfen* 'to manage' is apparently becoming acceptable with a dative reflexive pronoun in online communication [@strecker2017].
 
@@ -386,7 +386,7 @@ It is exceedingly rare to have a dative *sich* without other arguments. A possib
 
 - *behelfen, Mühe geben*
 
-### [ NA ] Obligatory dative reflexive+accusative {#sec:reflexive-obligatory-dative-accusative}
+### [ NA ] Dative reflexive+accusative {#sec:reflexive-obligatory-dative-accusative}
 
 A dative *sich* with an obligatory accusative appear to be reasonably frequent. Note that the meaning of almost all these verbs include some kind of (cognitive) appropriation, like with *vorstellen* 'to image' [@next a]. The prefix *er‑* occurs recurrently with the meaning 'to appropriate something successfully', like with *erspielen* 'to win by playing' [@next b].
 
@@ -438,11 +438,11 @@ a. Ich muss mir jede Zeile abquälen. ('erarbeiten')
 b. Ich habe mich mit der Arbeit abgequält. ('plagen')
 :::
 
-### --- Diatheses of obligatory reflexive verbs --- {.unnumbered}
+###      --- Diatheses of obligatory reflexive verbs --- {.unnumbered}
 
 Verbs with obligatory *sich* can be seen as just regular lexicalised verbs, which in turn are applicable to any of the alternations discussed in the previous two chapters. Curiously, such alternations seem to be rather rare. The attested cases will be discussed in this section. Arguably, these diatheses belong together with the diatheses from the previous two chapters
 
-### [ NP | –P ] Obligatory accusative reflexive+nominative drop
+### [ NP | –P ] Accusative reflexive+nominative drop
 
 The collocation *sich drehen um* 'to concern' can be used both with a regular nominative subject [@next a] and without [@next b]. This usage of this verb is clearly metaphorically derived from the local meaning 'to revolve around' [@next c], but in that usage the dropping of the nominative is not possible. This diathesis is the same as the drop described in [@sec:prepositions-nominative-drop].
 
@@ -457,7 +457,7 @@ d. ^* Bei dem Mond dreht es sich um die Erde.
 
 - *drehen*
 
-### [ ND | N– ] Obligatory accusative reflexive+dative drop {#sec:reflexive-accusative-sich-dative-addition}
+### [ ND | N– ] Accusative reflexive+dative drop {#sec:reflexive-accusative-sich-dative-addition}
 
 A small group of obligatorily intransitive *sich* verbs allow for a dative to be dropped, like with *ergeben* 'to capitulate' [@next]. This diathesis is the same as the drop described in [@sec:case-dative-drop] but with an additional reflexive pronoun in both alternants. The verbs in this class establish some further examples of the unusual situation of an accusative *sich* with a dative argument (see also [@sec:reflexive-obligatory-accusative-sich-dative]).
 
@@ -486,7 +486,7 @@ The verb *ergeben* 'to capitulate' is different from the prepositional passive *
 Ich ergebe ihn der süssen Gnade unsers Herrn Jesu Christi.^[~~DWDS~~: Scriver, Christian: Das Verlohrne und wiedergefundene Schäfflein. Magdeburg, 1672.]
 :::
 
-### [ ND | NP ] Obligatory accusative reflexive+dative antipassive
+### [ ND | NP ] Accusative reflexive+dative antipassive
 
 In some of the verbs with an accusative *sich* and dative argument [@next a], the dative can be replaced by a (governed) prepositional phrase [@next b,c]. This diathesis is the same as described in [@sec:prepositions-dative-antipassive] for verbs without reflexive marking.
 
@@ -509,7 +509,7 @@ c. Die machistische Gesellschaft hat sich nicht geändert und die meisten Frauen
 - Er hatte sich (bei) ihm angebiedert.
 - […] wie sich die politische Klasse (bei) der fußballbegeisterten Masse anzuschmeicheln versucht.^[~~DWDS~~: Die Zeit, 04.07.2010, Nr. 27.]
 
-### [ NG | NP ] Obligatory accusative reflexive+genitive antipassive
+### [ NG | NP ] Accusative reflexive+genitive antipassive
 
 Some obligatorily *sich* verbs with a genitive argument allow for the genitive argument to be replaced by a (governed) prepositional phrase, like with *erinnern* 'to remember' [@next a,b], just like the antipassives in [@sec:prepositions-genitive-antipassive-accusative].
 
@@ -554,13 +554,13 @@ c. Ich denke daran, dass du morgen Geburtstag hast.
 
 There are three different kinds of alternations involving reflexive pronouns that do not involve any changing of roles (i.e. there is no diathesis). The well-known reflexive constructions ([@sec:reflexive-self-inflicting-accusative]ff.) and reciprocal constructions ([@sec:reflexive-accusative-reciprocal]ff.) are among them. Less widely acknowledged, there are also some verbs that allow for a "free" reflexive pronoun, to which I will turn first.
 
-### --- Free reflexive pronouns --- {.unnumbered}
+###      --- Free reflexive pronouns --- {.unnumbered}
 
 Some verbs allow for both a construction with and without *sich*, but there is no difference in the valency between these two constructions. The difference in meaning between the two alternants is small and is in need for more in-depth study in all cases presented below. The name "free" as used here is probably a misnomer, as the choice is not a completely free choice. However, the difference is small enough to be extremely difficult to determine. Note also that for these verbs a "free" dative reflexive pronoun only occurs when a full accusative argument is present. 
 
 This alternation is almost completely ignored in the German grammatical literature. An early discussion of the phenomenon is found in Stötzel [-@stotzel1970: 174--177] and a short note is presented in Wiemer & Nedjalkov [-@wiemer2007: 498]. It is also possible that the occurrence of a "free" reflexive is a dialectal phenomenon, see e.g. the apparent extension of reflexive usage in Austrian German as observed in Ziegler [-@ziegler2010].  
 
-### [ N | N ] Free accusative reflexive {#sec:reflexive-free}
+### [ N | N ] Accusative free reflexive {#sec:reflexive-free}
 
 The semantic difference between these two alternants of the verbs in this group deserves further investigation. The verb *knien* 'to knee' in [@next] suggests that there might be a difference in dynamics: the construction without reflexive pronoun is more typical for a state, while the construction with reflexive pronoun is used typically to describe a change of state. However, this difference does not seem to hold for all examples. The reflexive pronoun clearly is not part of a reflexive construction as the verb is intransitive [@next c].
 
@@ -634,7 +634,7 @@ The verb *drehen* 'to turn' is an interesting case that needs more research. It 
 - Jedes Mal, wenn man etwas Böses gemacht hatte, musste man für eine gewisse Zeit auf eine Bank hinknien.^[~~DWDS~~: Der Tagesspiegel, 01.06.2001.]
 :::
 
-### [ NP | NP ] Free accusative reflexive+governed preposition {#sec:reflexive-free-preposition}
+### [ NP | NP ] Accusative free reflexive+governed preposition {#sec:reflexive-free-preposition}
 
 Although there is definitively a different "feel" between *streiten* 'to quarrel' with and without *sich* [@next], the difference is difficult to pin down. The sentence without *sich* seems to be more static, describing a fixed situation [@next a], while the variant with *sich* is more dynamic [@next b]. However, whether this is not an accurate description of the (fine) difference between these alternants for all verbs listed below.
 
@@ -677,7 +677,7 @@ c. Er sorgt dafür, dass es seiner Mutter gut geht.
 d. Er sorgt sich darum, dass es seiner Mutter gut geht.
 :::
 
-### [ ND | ND ] Free accusative reflexive+dative
+### [ ND | ND ] Accusative free reflexive+dative
 
 The verb *zuneigen* 'to tend towards' [@next] is the only known example of a free reflexive with an additional dative argument.
 
@@ -690,7 +690,7 @@ The verb *zuneigen* 'to tend towards' [@next] is the only known example of a fre
 
 - *zuneigen*
 
-### [ NA | NA ] Beneficiary dative reflexive+accusative {#sec:reflexive-free-dative-sich-accusative}
+### [ NA | NA ] Dative beneficiary reflexive+accusative {#sec:reflexive-free-dative-sich-accusative}
 
 So-called beneficiary datives [@next a,b] are widespread in German (see [@sec:prepositions-benefactive-dative]). Such a dative can in most cases also be used reflexively [@next c]. Comparing [@next a] with [@next c] seems to suggest a free reflexive *sich* in the dative. However, this example is just a combination of a beneficiary dative and the regular self-inflicting reflexive usage.
 
@@ -753,7 +753,7 @@ b. Ich habe mir etwas erspart.^[Attested online at <https://www.dwds.de/wb/erspa
 c. Er hat mir jede Menge Arbeit erspart.
 :::
 
-### --- Self-inflicted reflexive alternations --- {.unnumbered}
+###      --- Self-inflicted reflexive alternations --- {.unnumbered}
 
 {#par:reflexive-test} To test for the presence of the self-inflicting reflexive construction, there are various syntactic characteristics to look out for. First, it is always possible to add the intensifier *selbst* to the reflexive pronoun [@next a]. Further, the pronoun *sich* can be negated [@next b] and stressed [@next c]. These characteristics do not hold for any of the diatheses marked by *sich* as discussed later in this chapter.
 
@@ -763,7 +763,7 @@ b. Er sieht nicht sich selbst.
 c. Er sieht nur sich selbst.
 :::
 
-### [ NA | Na ] Self-inflicting accusative reflexive {#sec:reflexive-self-inflicting-accusative}
+### [ NA | Na ] Accusative self reflexive {#sec:reflexive-self-inflicting-accusative}
 
 This construction is often seen as the prototypical self-inflicting reflexive: a transitive verb with a nominative and an accusative argument allows for the accusative to be replaced by a reflexive pronoun, indicating that the action is performed on the nominative subject itself [@next a,b]. This alternation is possible for very many verbs that can have both an animate nominative and accusative argument.
 
@@ -813,7 +813,7 @@ d. Er stößt mich an die Wand.
 e. Ich stosse mich in die Tiefe meiner Finsternis, um meine Finsternis zu erkennen^[Attested online at <http://bluemountain.princeton.edu/bluemtn/?a=d&d=bmtnabg19231201-01.2.2&>, accessed 10 January 2019.]
 :::
 
-### [ ND | Nd ] Self-inflicting dative reflexive {#sec:reflexive-self-dative}
+### [ ND | Nd ] Dative self reflexive {#sec:reflexive-self-dative}
 
 Verbs with a dative argument can be used reflexively, although such usage often has a rather poetic or humorous touch to it [@next a-c]. The verbs listed here can surely be extended when (even) more poetic freedom is allowed. However, this construction does not appear to be very frequent.
 
@@ -836,7 +836,7 @@ c. Ich gleiche mir nicht einen Augenblick.^[~~DWDS~~: Goethe: Schertz, List und 
 - Ich helfe dir. \
   Ich helfe mir.
 
-### [ NP | Np ] Self-inflicting prepositional reflexive
+### [ NP | Np ] Prepositional self reflexive
 
 Self-inflicting *sich* is widespread in governed prepositional phrases [@next a,b]. Probably, all governed prepositional phrases that can have a human participant allow for such a reflexive pronouns. Note that the accusative vs. dative case of the reflexive pronoun is governed by the preposition.
 
@@ -855,7 +855,7 @@ c. Er spricht von sich.
 
 - *kämpfen, sprechen*, etc.
 
-### [ NAD | NAd ] Self-inflicting dative reflexive+accusative {#sec:reflexive-dative-accusative}
+### [ NAD | NAd ] Dative self reflexive+accusative {#sec:reflexive-dative-accusative}
 
 For ditransitive verbs that allow for a nominative, accusative and dative argument it is extremely common to allow for a self-inflicting reflexive pronoun in the dative, like with *schenken* 'to gift' [@next a,b]. Only an illustrative selection of such verbs are listed in this section.
 
@@ -900,7 +900,7 @@ f. Er wäscht sich den Rücken. (= dative *sich*)
 - Ich drücke mir den Hörer ans Ohr.
 - Ich putze mir meine Schuhe.
 
-### [ NAD | NaD ] Self-inflicting accusative reflexive+dative {#sec:reflexive-self-inflicting-accusative-dative}
+### [ NAD | NaD ] Accusative self reflexive+dative {#sec:reflexive-self-inflicting-accusative-dative}
 
 In contrast to the previous dative reflexive construction, it is possible, but uncommon for ditransitive verbs to allow for an accusative reflexive, like with *unterordnen* 'to subordinate' [@next a,b]. The verbs listed below are surely not all that allow for this construction, but it is a rather restricted phenomenon and there do not seem to be very many more verbs of this kind. Note the close similarity of these verbs to verbs with a ditransitive anticausative reflexives in [@sec:reflexive-anticausative-dative], which are easily confused.
 
@@ -966,7 +966,7 @@ b. Ich stelle mich dem Konsul vor.
 c. Ich stelle mir den Konsul vor.
 :::
 
-### [ NAG | NaG ] Self-inflicting accusative reflexive+genitive
+### [ NAG | NaG ] Accusative self reflexive+genitive
 
 Genitive arguments are rare overall, so consequently there are also only very few examples of reflexive alternations, like with *bezichtigen* 'to accuse' [@next]. Note that it does not seem to be possible for the genitive argument to be reflexive.
 
@@ -979,7 +979,7 @@ b. Ich bezichtigte mich erfundener phantastischer Staatsverbrechen.
 
 - *bezichtigen*, etc.
 
-### [ NAP | NAp ] Self-inflicting preposition reflexive+accusative
+### [ NAP | NAp ] Prepositional self reflexive+accusative
 
 Just for completeness sake, reflexive pronouns are possible inside prepositional arguments with verbs that also take an accusative argument, like *hinstellen* 'to put down' [@next].
 
@@ -992,7 +992,7 @@ Just for completeness sake, reflexive pronouns are possible inside prepositional
 
 - *hinstellen*, etc.
 
-### [ NLD | NLd ] Self-inflicting dative reflexive+location {#sec:reflexive-self-dative-location}
+### [ NLD | NLd ] Dative self reflexive+location {#sec:reflexive-self-dative-location}
 
 Dative experiencers stemming from possessor raising (see [@sec:prepositions-possessor-of-location-to-dative-experiencer]) can also be self-inflicting [@next a,b], leading to possible dative reflexive pronouns with an obligatory location phrase, like with *klopfen* 'to pound' [@next c,d].
 
@@ -1007,7 +1007,7 @@ d. ^* Er klopft sich.
 
 - *klopfen*, etc.
 
-### [ NALD | NALd ] Self-inflicting dative reflexive+accusative+location {#sec:reflexive-dative-accusative-location}
+### [ NALD | NALd ] Dative self reflexive+accusative+location {#sec:reflexive-dative-accusative-location}
 
 The verbs in this section are intransitive verbs [@next a] that allow for both a caused-motion diathesis [@next b], see [@sec:prepositions-intransitive-location-as-result] and a possessor-to-dative alternation [@next c], see [@sec:prepositions-possessor-of-location-to-dative-experiencer-accusative], leading possibly to a dative reflexive *sich* pronoun [@next d]. 
 
@@ -1035,7 +1035,7 @@ d. Das Kind heult sich die Augen aus dem Kopf.
 - Er trank sich den Stress aus dem Körper.
 - Er hustet sich die Seele aus dem Leib.
 
-### --- Reciprocal alternations --- {.unnumbered}
+###      --- Reciprocal alternations --- {.unnumbered}
 
 The pronoun *sich* also has a potential reciprocal reading in which two participants perform an action mutually, like with *anfeuern* 'to encourage' [@next]. An extensive discussion of this phenomenon in German can be found in Wiemer & Nedjalkov [-@wiemer2007].
 
@@ -1160,7 +1160,7 @@ There also are ditransitive verbs with an accusative reflexive, like *entziehen*
 - Karl backt dem Jungen einen Kuchen. \
   Karl und der Junge backen sich (gegenseitig) einen Kuchen.
 
-### [ Np | Np ] *einander* preposition reciprocal {#sec:reflexive-preposition-reciprocal}
+### [ Np | Np ] *einander* prepositional reciprocal {#sec:reflexive-preposition-reciprocal}
 
 Reciprocal construction can be marked both by *sich (gegenseitig)* or *einander*. However, when the reciprocal argument is inside a prepositional phrase then only *einander* is possible. For example, the verb *warten auf* 'to wait for' [@next a] can be used reciprocally by combining *auf* with *einander*, which is written as one word *aufeinander* in German orthography [@next b].
 
@@ -1191,7 +1191,7 @@ It is possible to combine *sich* with a preposition and *einander*, but only wit
 
 ## Diatheses with subject demotion
 
-### --- [ SBJ > Ø ] --- {.unnumbered}
+###      --- [ SBJ > Ø ] --- {.unnumbered}
 
 ### [ NP | –P ] Reflexive nominative drop
 
@@ -1212,7 +1212,7 @@ d. In diesem Buch handelt es sich darum, dass er eine Weltreise macht.
 
 - In beiden Fällen handelt es sich um Briefromane.^[~~DWDS~~: Schwanitz, Dietrich: Bildung, Frankfurt a. M.: Eichborn 1999, S. 17.]
 
-### --- [ OBJ > SBJ > Ø ] --- *Reflexiv Antikausativ* {.unnumbered}
+###      --- [ OBJ > SBJ > Ø ] --- {.unnumbered}
 
 ### [ NA | –N ] Reflexive anticausative {#sec:reflexive-anticausative}
 
@@ -1391,31 +1391,9 @@ d. ^* Die Straße hat sich gezogen.
 - Er saugt den Rauch in seine Lunge. \
   Der Wein saugt sich in das Taschentuch.
 
-### [ NAP | –NP ] Reflexive anticausative+governed preposition {#sec:reflexive-anticausative-governed-preposition}
+### [ NAp | –Np] Reflexive anticausative+preposition {#sec:reflexive-anticausative-governed-preposition}
 
-Less widespread, some verbs with an accusative and a governed preposition, like *erinnern* 'to remind' [@next a] allow for an anticausative marked with a reflexive pronoun [@next b]. With the prepositions are governed prepositions [@next c]. 
-
-::: ex
-a. Das Lied erinnert den Mann an den Krieg.
-b. Der Mann erinnert sich an den Krieg.
-c. Der Mann erinnert sich daran, dass er einen Termin beim Arzt hat.
-:::
-
-#### Attested verbs {.unnumbered .unlisted}
-
-- *an*  : *erinnern, gewöhnen*
-- *auf* : *lenken*
-
-#### Further examples {.unnumbered .unlisted}
-
-- Ich habe die Kinder an Ordnung gewöhnt. \
-  Die Kinder haben sich an Ordnung gewöhnt.
-- Der Zeuge lenkt den Verdacht auf den Ehemann. \
-  Der Verdacht lenkte sich auf den Ehemann.
-
-### [ NAp | –Np] Reflexive anticausative+non-governed preposition
-
-Verbs in this section, like *verbinden* 'to connect', allow for an anticausative diathesis [@next a,b]. However, they additionally need a prepositional phrase, either with *mit* or *von*. These prepositional phrases are not governed, but can not (easily) be left out [@next c,d]. There is a close affinity with *miteinander* reciprocals [@next e], see [@sec:reflexive-preposition-reciprocal].
+Verbs in this section, like *verbinden* 'to connect', allow for an anticausative diathesis [@next a,b]. However, they additionally need a prepositional phrase, either with *mit* or *von*. Some of these prepositional phrases are not governed, but can not (easily) be left out [@next c,d]. There is a close affinity with *miteinander* reciprocals [@next e], see [@sec:reflexive-preposition-reciprocal].
 
 ::: ex
 a. Ich verbinde die Lampe mit dem Stromnetz. 
@@ -1425,11 +1403,20 @@ d. ^* Die Lampe verbindet sich.
 c. Die Lampe und das Stromnetz verbinden sich nicht miteinander.
 :::
 
+Less widespread, some verbs with an accusative and a governed preposition, like *erinnern* 'to remind' [@next a] allow for an anticausative marked with a reflexive pronoun [@next b]. With these verbs the prepositions are governed prepositions [@next c]. 
+
+::: ex
+a. Das Lied erinnert den Mann an den Krieg.
+b. Der Mann erinnert sich an den Krieg.
+c. Der Mann erinnert sich daran, dass er einen Termin beim Arzt hat.
+
 #### Attested verbs {.unnumbered .unlisted}
 
 - *mit* : *verbinden, vermischen, versöhnen*
 - *mit/von* : *ernähren, nähren*
 - *von* : *trennen, unterscheiden*
+- *an*  : *erinnern, gewöhnen*
+- *auf* : *lenken*
 
 #### Further examples {.unnumbered .unlisted}
 
@@ -1445,8 +1432,12 @@ c. Die Lampe und das Stromnetz verbinden sich nicht miteinander.
   Karl verbindet sich mit Anna.
 - Seine Haarfarbe unterscheidet ihn von seinem Bruder. \
   Er unterscheidet sich von seinem Bruder (durch seine Haarfarbe).
+- Ich habe die Kinder an Ordnung gewöhnt. \
+  Die Kinder haben sich an Ordnung gewöhnt.
+- Der Zeuge lenkt den Verdacht auf den Ehemann. \
+  Der Verdacht lenkte sich auf den Ehemann.
 
-### --- [ OBJ > SBJ > PBJ ] --- *Reflexiv Erlebniskonversiv* {.unnumbered}
+###      --- [ OBJ > SBJ > PBJ ] --- {.unnumbered}
 
 ### [ NA | PN ] Reflexive conversive {#sec:reflexive-preposition-passive}
 
@@ -1587,7 +1578,7 @@ The verb *beschweren* has slight different meanings: in the transitive it means 
 - Ich beschwere mich über das Alter.
 :::
 
-### --- [ PBJ > SBJ > ADJ ] --- {.unnumbered}
+###      --- [ PBJ > SBJ > ADJ ] --- {.unnumbered}
 
 ### [ NP | pN ] Reflexive prepositional passive
 
@@ -1627,7 +1618,7 @@ These accusative-to-nominative alternations are ongoing replacements of old-fash
 
 ## Diatheses with object demotion
 
-### --- [ OBJ > Ø ] --- *Endoreflexiv* {.unnumbered}
+###      --- [ OBJ > Ø ] --- {.unnumbered}
 
 ### [ NA | N–] Reflexive accusative drop {#sec:reflexive-accusative-drop}
 
@@ -1731,11 +1722,11 @@ b. Ich konzentriere mich auf das Spiel.
 c. Ich konzentriere mich darauf, das Spiel zu gewinnen.
 :::
 
-### --- [ OBJ > ADJ ] --- *Reziprokativ* {.unnumbered}
+###      --- [ OBJ > ADJ ] --- {.unnumbered}
 
 ### [ NA | Np] Reciprocal antipassive {#sec:reflexive-mit-antipassive}
 
-Reflexive antipassive verbs like *treffen* 'to meet' [@next a,b] change an accusative argument to a non-governed prepositional phrase with *mit* [@next c]. Semantically, this diathesis changes the action from a one-sided perspective towards a more reciprocal perspective. The resulting construction of this diathesis is reminiscent of the "real reciprocal" construction (see [@sec:reflexive-real-reciprocals]).
+Reflexive antipassive verbs like *treffen* 'to meet' [@next a,b] change an accusative argument to a non-governed prepositional phrase with *mit* [@next c]. Semantically, this diathesis changes the action from a one-sided perspective towards a more reciprocal perspective. The resulting construction of this diathesis is reminiscent of the "real reciprocal" construction (see [@sec:reflexive-real-reciprocals]). In German I propose to use the term ~~Reziprokativ~~ for this diathesis.
 
 ::: ex
 a. Ich treffe dich.
@@ -1765,7 +1756,7 @@ a. Ich befreunde mich mit ihm.
 b. Du befreundest ihn.^[Attested online at <http://hundewelt.info/affenpinscher/>, accessed 2 August 2022.]
 :::
 
-### --- [ OBJ > PBJ ] --- *Reflexiv Antipassiv* {.unnumbered}
+###      --- [ OBJ > PBJ ] --- {.unnumbered}
 
 ### [ NA | NP ] Reflexive governed antipassive {#sec:reflexive-accusative-antipassive}
 
@@ -1849,7 +1840,7 @@ c. Ich vertiefe meine Kenntnisse. \
 
 ## Diatheses with promotion to object
 
-### --- [ Ø > PBJ ] --- *Reflexiv Bewegungsart* {.unnumbered}
+###      --- [ Ø > PBJ ] --- {.unnumbered}
 
 ### [ N– | NL ] Reflexive manner-of-movement {#sec:reflexive-manner-of-movement}
 
@@ -1861,7 +1852,7 @@ b. Ich bin durch den Garten getanzt.
 c. ^* Ich bin getanzt.
 :::
 
-The same diathesis is also attested with non-movement verbs, like *träumen* 'to dream' [@next a,b], but then an additional reflexive pronoun is obligatory [@next c], next to the obligatory location phrase [@next d]. This construction expresses that by performing the verb (i.e. by dreaming) a movement is performed as described in the location phrase (i.e. moving to New York).
+The same diathesis is also attested with non-movement verbs, like *träumen* 'to dream' [@next a,b], but then an additional reflexive pronoun is obligatory [@next c], next to the obligatory location phrase [@next d]. This construction expresses that by performing the verb (i.e. by dreaming) a movement is performed as described in the location phrase (i.e. moving to New York). In German I propose to call this diathesis ~~Reflexiv Bewegungsart~~
 
 ::: ex
 a. Ich träume.
@@ -1880,7 +1871,7 @@ The location always describes a movement, with *durch* [@next a] 'through' and *
   Würzburg zitterte sich am Ende in die Playoffs.^[~~DWDS~~: Die Zeit, 07.05.2016 (online).]
 :::
 
-This diathesis is exceptional, because an extra obligatory argument is introduced together with the reflexive pronoun. This is a clear counterexample to the generalisation that reflexive diatheses are demoting. A possible solution to this apparent markedness reversal is that the added obligatory location is maybe better interpreted as a marker of the diathesis. In other words, the obligatory location is not a part of the diathetical operation, but a part of the voice of the diathesis. This would be reminiscent of the addition of directionals (see [@sec:adverbial-directionals]). Adding directionals regularly leads to transitive constructions, and then an intransitive verb needs an extra reflexive pronoun. This effect is also observed in the reflexive usage of intransitive verbs with an obligatory resultative preverbial, like with *gesundschlafen* 'to get healthy by sleeping' [@next]. That diathesis is discussed in more detail in [@sec:adverbial-intransitive-resultative].
+This diathesis is exceptional, because an extra obligatory argument is introduced together with the reflexive pronoun. This is a clear counterexample to the generalisation that reflexive diatheses are demoting. A possible solution to this apparent markedness reversal is that the added obligatory location is maybe better interpreted as a marker of the diathesis. In other words, the obligatory location is not a part of the diathetical operation, but a part of the voice of the diathesis. This analysis is similar to the addition of directionals (see [@sec:adverbial-directionals]). Adding directionals regularly leads to transitive constructions, and then an intransitive verb needs an extra reflexive pronoun. This effect is also observed in the reflexive usage of intransitive verbs with an obligatory resultative preverbial, like with *gesundschlafen* 'to get healthy by sleeping' [@next]. That diathesis is discussed in more detail in [@sec:adverbial-intransitive-resultative].
 
 ::: ex
 - Ich schlafe.
@@ -1963,7 +1954,7 @@ Er bahnt sich einen Weg durch die Menschenmenge.
 
 ## Symmetrical diatheses
 
-### --- [ OBJ > SBJ > OBJ ] --- {.unnumbered}
+###      --- [ OBJ > SBJ > OBJ ] --- {.unnumbered}
 
 ### [ NA | DN ] Reflexive accusative/dative inversive {#sec:reflexive-sich-dative-passive}
 
@@ -2016,7 +2007,7 @@ b. Ich bin mir keiner Schuld bewusst.
 
 - *bewusst sein*
 
-### --- [ OBJ > OBJ ] --- {.unnumbered}
+###      --- [ OBJ > OBJ ] --- {.unnumbered}
 
 ### [ NA | NG ] Reflexive accusative-to-genitive
 

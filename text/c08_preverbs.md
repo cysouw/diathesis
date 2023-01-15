@@ -230,7 +230,7 @@ There are many preverb alternations without diathesis. I distinguish three diffe
 (ii) Verbs that show no difference in argument marking, but that show differences in the attributive usage of participles.
 (iii) Verbs that show no difference in argument marking, but the prefixed verb has an obligatory reflexive pronoun.
 
-### --- Diathesis completely absent --- {.unnumbered}
+###      --- Diathesis completely absent --- {.unnumbered}
 
 It is very common for a verb not to show any change in valency when a preverb is added. The most widespread kind is for nominative-accusative verb to not show a change in valency, like *essen* 'to eat' and *aufessen* 'to eat completely' [@next], see [@sec:preverb-transitive-without-diathesis].
 
@@ -359,7 +359,7 @@ b. Die gelagerten Kartoffeln […]. \
 - Ich billige den Plan. \
   Ich missbillige den Plan.
 
-### --- Patientive alternations --- {.unnumbered}
+###      --- Patientive alternations --- {.unnumbered}
 
 Some intransitives show a peculiar phenomenon when prefixed: they are still intransitive but the subject becomes more patient-like in that the participle can be used attributively (one of the characteristics often discussed under the heading of the "unaccusative hypothesis", see [@sec:participles-restrictions]). For example, the verbs *schlafen* 'to sleep' [@next a] and *einschlafen* 'to fall asleep' [@next b] are both intransitive. However, only *eingeschlafen* can be used attributively [@next c,d]. These examples are discussed in [@sec:preverb-intransitive-with-unaccusative].
 
@@ -448,7 +448,7 @@ e. Der geärgerte Schulkamerad schrieb: […]^[~~DWDS~~: Büchner, Georg: Sämmt
   Das Geschenk erfreut den Mann. \
   Der erfreute/*gefreute Mann.
 
-### --- Empty reflexives --- {.unnumbered}
+###      --- Empty reflexives --- {.unnumbered}
 
 Some verbs need an extra reflexive pronoun when they get a preverb, though the valency of the construction does not change. The reflexive pronoun is thus neither a self-inflicting reflexive construction, nor a marker of the diathesis itself. The reflexive pronouns in these cases seem to be mostly "empty", except for putting a slight emphasis on the agency of the nominative subject (cf. "free" reflexives in [@sec:reflexive-no-diathesis]).
 
@@ -540,7 +540,7 @@ The verb *anüben* appears to be old-fashioned [@next a], though more recent exa
 
 All examples in the following subsections show subject demotion which results in intransitive verbs. Keeping with the observation that preverb alternations tend to produce nominative/accusative constructions (see [@sec:preverbs-always-accusative]), preverb diatheses with subject demotion are exceedingly rare. Almost all the attested examples use verb prefixes. Examples with verb particles are almost non-existing for subject demotion. 
 
-### --- [ OBJ > SBJ > Ø ] --- {.unnumbered}
+###      --- [ OBJ > SBJ > Ø ] --- {.unnumbered}
 
 ### [ NA | –N ] Preverb anticausative {#sec:preverb-anticausative}
 
@@ -575,7 +575,7 @@ c. ^^?^ Der Vogel verfängt sich.
 - Der Schuster streckt die Stiefel. \
   Der Wald erstreckt sich bis zum Gebirge.
 
-### --- [ PBJ > SBJ > Ø ] --- {.unnumbered}
+###      --- [ PBJ > SBJ > Ø ] --- {.unnumbered}
 
 ### [ NL | –N ] Preverb location anticausative {#sec:preverb-preposition-anticausative}
 
@@ -608,7 +608,7 @@ b. Die Pflanze verkümmert.
 
 Promotion to subject is somewhat more widespread compared to subject demotion discussed previously. Like with demotion, promotion to subject occurs preferably with verb prefixes and almost never with verb particles.
 
-### --- [ Ø > SBJ > OBJ ] --- *Präverb Kausativ* {.unnumbered}
+###      --- [ Ø > SBJ > OBJ ] --- {.unnumbered}
 
 ### [ –N | NA ] Preverb causative {#sec:preverb-causative}
 
@@ -877,7 +877,7 @@ b. Er vermietet mir die Wohnung.
 - Du kennst meine Absicht. \
   Ich bekenne dir meine Absicht.
 
-### --- [ Ø > SBJ > PBJ ] --- {.unnumbered}
+###      --- [ Ø > SBJ > PBJ ] --- {.unnumbered}
 
 ### [ –NA | NPA ] Preverb reversed fabricative+accusative {#sec:preverb-reversed-fabricative}
 
@@ -893,7 +893,7 @@ c. Er erfreut mich damit, dass er vorbei kommt.
 
 - erˈ- : *freuen*
 
-### --- [ PBJ > SBJ > OBJ ] --- {.unnumbered}
+###      --- [ PBJ > SBJ > OBJ ] --- {.unnumbered}
 
 The following diatheses can be seen as passives "in reverse". On first notice everything just looks like a passive: (i) the accusative argument of the (prefixed) transitive verb turns into a nominative of the (non-prefixed) intransitive verb and (ii) the causer/agent of the (prefixed) transitive verb is expressed as a (governed) prepositional phrase with the (non-prefixed) intransitive verb. However, the direction of an alternation is by definition from the unmarked (non-prefixed) to the marked (prefixed) verb. So, these diatheses are "reversed" passives. Although it would make sense to call such diatheses "antipassives", this term is already taken by another kind of diatheses. Because the prepositional phrases are governed prepositions, these diatheses are examples of a ~~reversed conversive~~ diathesis, as defined in [@sec:intro-subject-promotions].
 
@@ -939,7 +939,7 @@ c. Dein Verhalten verwundert mich.
 - beˈ-  : *schämen*
 - verˈ- : *wundern*
 
-### --- [ ADJ > SBJ > OBJ ] --- {.unnumbered}
+#     --- [ ADJ > SBJ > OBJ ] --- {.unnumbered}
 
 ### [ pNA | NA– ] Preverb reversed passive+accusative loss {#sec:preverb-inverted-passive-accusative-loss}
 
@@ -956,7 +956,7 @@ b. Mein Vater enterbt mich.
 
 ## Diatheses with object demotion
 
-### --- [ OBJ > Ø ] --- *Präverb Endoreflexiv* {.unnumbered}
+###      --- [ OBJ > Ø ] --- {.unnumbered}
 
 ### [ NA | N– ] Preverb reflexive accusative drop {#sec:preverb-reflexive-accusative-drop}
 
@@ -993,8 +993,6 @@ The examples with the prefix *ver‑* quite productively result in verbs that de
   Ich überesse mich.
 - Ich spiele die Sonate (auf der Geige). \
   Ich habe mich verspielt.
-
-### --- [ OBJ > Ø ] --- {.unnumbered}
 
 ### [ NA | N– ] Preverb accusative drop {#sec:preverb-accusative-drop}
 
@@ -1034,7 +1032,7 @@ There is quite some uncertainty among German speakers as to the case of the refl
 
 - beˈ- : *helfen*
 
-### --- [ OBJ > ADJ ] --- *Präverb Reflexiv Antipassiv* {.unnumbered}
+###      --- [ OBJ > ADJ ] --- {.unnumbered}
 
 ### [ NA | Np ] Preverb reflexive antipassive {#sec:preverb-reflexive-antipassive}
 
@@ -1071,8 +1069,6 @@ The verb *lehren* 'to teach' [@next a] shows a slight variant of the previous an
 #### Attested verbs {.unnumbered .unlisted}
 
 - beˈ- : *lehren*
-
-### --- [ OBJ > ADJ ] --- *Präverb Dativ Antipassiv*  {.unnumbered}
 
 ### [ NAD | NAp ] Preverb dative antipassive+accusative {#sec:preverb-dative-antipassive}
 
@@ -1119,7 +1115,7 @@ The diathesis between *danken* and *bedanken*, both meaning 'to thank' [@next], 
 
 - beˈ- : *danken*
 
-### --- [ OBJ > OBJ > ADJ ] --- {.unnumbered}
+###      --- [ OBJ > OBJ > ADJ ] --- {.unnumbered}
 
 ### [ NDA | NAp ] Preverb antipassive+dative-to-accusative {#sec:preverb-antipassive-dative-accusative}
 
@@ -1148,7 +1144,7 @@ c. Ich verschenke das Buch an dich.
 - Ich koche dir eine Suppe. \
   Ich bekoche dich (mit einer Suppe).
 
-### --- [ PBJ > ADJ ] --- *Präverb Delokativ* {.unnumbered}
+###      --- [ PBJ > ADJ ] --- {.unnumbered}
 
 ### [ NL | Np ] Preverb intransitive delocative {#sec:preverb-intransitive-antiresultative}
 
@@ -1337,11 +1333,11 @@ The verb *schenken* 'to pour' used to be common in a context of pouring a drink 
 - Sie schenkten Wein ein.
 :::
 
-### --- [ PBJ > OBJ > Ø ] --- *Präverb Ganz/leer-Objekttausch* {.unnumbered}
+###      --- [ PBJ > OBJ > Ø ] --- {.unnumbered}
 
 ### [ NLA | NA– ] Preverb applicative+accusative drop {#sec:preverb-location-antiresultative}
 
-The result of a verb like *pressen* 'to squeeze' is *Saft* 'juice' [@next a]. This verb needs an obligatory local phrase for the original container of the juice, *aus der Zitrone* 'from the citron' [@next b]. Verbs in this category either use the preposition *aus* or *von*. With a preverb, the verb *auspressen* 'to squeeze' drops this accusative result and promotes the container of the result *Zitrone* to accusative [@next c]. In effect, the role marked as object is exchanged. The new object (here *Zitrone*) is always a holonymic "whole" containing the original meronymic content (here *Saft*). This diathesis applies to verbs in which the meronymic content is removed out of the holonymic container.
+The result of a verb like *pressen* 'to squeeze' is *Saft* 'juice' [@next a]. This verb needs an obligatory local phrase for the original container of the juice, *aus der Zitrone* 'from the citron' [@next b]. Verbs in this category either use the preposition *aus* or *von*. With a preverb, the verb *auspressen* 'to squeeze' drops this accusative result and promotes the container of the result *Zitrone* to accusative [@next c]. In effect, the role marked as object is exchanged. The new object (here *Zitrone*) is always a holonymic "whole" containing the original meronymic content (here *Saft*). This diathesis applies to verbs in which the meronymic content is removed out of the holonymic container, hence I propose the German name ~~Präverb Ganz/leer-Objekttausch~~ for this diathesis.
 
 ::: ex
 a. Ich presse den Saft aus der Zitrone.
@@ -1391,11 +1387,11 @@ There is a parallel diathesis with the resultative preverbials *leer‑* and *fr
 - Mit seinem Taschentuch staubte er von seinen Ärmeln die Spinnengewebe^[~~DWDS~~: H. Mann9,42.] \
   Er staubt seine Ärmel ab.
 
-### --- [ PBJ > OBJ > ADJ ] --- *Präverb Ganz/voll-Objekttausch* {.unnumbered}
+###      --- [ PBJ > OBJ > ADJ ] --- {.unnumbered}
 
 ### [ NLA | NAp ] Preverb applicative+*mit* antipassive {#sec:preverb-applicative-antipassive}
 
-This diathesis is a combination of an applicative promotion and an antipassive demotion. Such an object exchange is a very widespread diathesis, exemplified here with *drücken* 'to press' [@next a]. This verb needs both an accusative object (here *Finger* 'finger') and an obligatory location (here *auf die Wunde* 'on the wound'). This location cannot be left out [@next b]. With the preverb *zu‑* the verb *zudrücken* 'to press shut' [@next c] promotes the locational object to accusative (*Wunde*) and demotes the original object to an optional prepositional phrase (*Finger*). Semantically, the new accusative object (*Wunde*) is covered by the old accusative object (*Finger*). This is an example of the ~~filled holonym~~ object exchange (see [@sec:intro-demoted-object-exchange]). The reverse diathesis is the ~~joined meronym~~ object exchange, discussed below in [@sec:preverb-applicative-in-antipassive].
+This diathesis is a combination of an applicative promotion and an antipassive demotion. Such an object exchange is a very widespread diathesis, exemplified here with *drücken* 'to press' [@next a]. This verb needs both an accusative object (here *Finger* 'finger') and an obligatory location (here *auf die Wunde* 'on the wound'). This location cannot be left out [@next b]. With the preverb *zu‑* the verb *zudrücken* 'to press shut' [@next c] promotes the locational object to accusative (*Wunde*) and demotes the original object to an optional prepositional phrase (*Finger*). Semantically, the new accusative object (*Wunde*) is covered by the old accusative object (*Finger*). This is an example of the ~~filled holonym~~ object exchange (see [@sec:intro-demoted-object-exchange]), or in German a ~~Präverb Ganz/voll-Objekttausch~~. The reverse diathesis is the ~~joined meronym~~ object exchange, discussed below in [@sec:preverb-applicative-in-antipassive].
 
 ::: ex
 - Ich habe meinen Finger auf die Wunde gedrückt.
@@ -1545,9 +1541,7 @@ These verbs are illustrated with the diathesis between *binden* 'to tie' and *zu
 - Ich wickle das Tuch um den Arm. \
   Ich wickle den Arm in dem Tuch ein.
 
-### --- [ PBJ > OBJ > ADJ ] --- {.unnumbered}
-
-### [ NPA | NAp ] Preverb *von* antipassive+applicative {#sec:preverb-applicative-von-antipassive}
+### [ NPA | NAp ] Preverb applicative+*von* antipassive {#sec:preverb-applicative-von-antipassive}
 
 This chained applicative+antipassive diathesis uses a *von* antipassive. All examples currently known to me use the preverb *erˈ-*. The applicative side of the diathesis uses different prepositions, but they are all governed prepositions. For example, the verb *zwingen* 'to compel' [@next a] takes a governed preposition *zu* [@next b]. The prefixed *erzwingen* promotes the *zu* argument to accusative and demotes the erstwhile accusative to an optional *von* prepositional phrase [@next c]. The few attested verbs all concern some kind of persuasion of another person.
 
@@ -1557,8 +1551,16 @@ b. Er zwingt ihn dazu, ein Geständnis abzulegen.
 c. Er erzwingt ein Geständnis (von ihm).
 :::
 
+Exceptionally, the object exchange from *bitten* 'to ask' [@next a] to *verbitten* 'to not tolerate' [@next b] additionally needs a dative reflexive pronoun.
+
+::: ex
+a. Ich bitte dich um einen Kommentar.
+b. Ich verbitte mir einen Kommentar von dir.
+:::
+
 #### Attested verbs {.unnumbered .unlisted}
 
+- verˈ- (um) : *bitten*
 - erˈ- (um)   : *bitten*
 - erˈ- (nach) : *fragen*
 - erˈ- (zu)   : *pressen, zwingen*
@@ -1570,22 +1572,9 @@ c. Er erzwingt ein Geständnis (von ihm).
 - Ich frage dich nach dem Weg zum Bahnhof. \
   Ich erfrage den Weg zum Bahnhof (von dir).
 
-### [ NPA | NAp ] Preverb reflexive *von* antipassive+applicative
-
-The object exchange from *bitten* 'to ask' [@next a] to *verbitten* 'to not tolerate' [@next b] additionally needs a dative reflexive pronoun.
-
-::: ex
-a. Ich bitte dich um einen Kommentar.
-b. Ich verbitte mir einen Kommentar von dir.
-:::
-
-#### Attested verbs {.unnumbered .unlisted}
-
-- verˈ- (um) : *bitten*
-
 ## Diatheses with promotion to object {#sec:preverb-promotion-to-object}
 
-### --- [ Ø > OBJ ] --- *Präverb Akkusativ* {.unnumbered}
+###      --- [ Ø > OBJ ] --- {.unnumbered}
 
 ### [ N– | NA ] Preverb accusative addition {#sec:preverb-accusative-addition}
 
@@ -1706,8 +1695,6 @@ b. Sie vertraut mir ein Geheimnis an.
 
 - ˈan- : *vertrauen*
 
-### --- [ Ø > OBJ ] --- *Präverb Reflexiv Akkusativ* {.unnumbered}
-
 ### [ N– | NA ] Preverb reflexive accusative {#sec:preverb-reflexive-resultative}
 
 Some intransitive verbs like *tanzen* 'to dance' [@next a] allow for a added-result diathesis *antanzen* 'to achieve something through dancing' [@next b]. With this diathesis, the result of the dancing is expressed as a new accusative argument. A special characteristic of this diathesis is that a dative reflexive pronoun is obligatory [see also @wunderlich1997: 105--106].
@@ -1766,7 +1753,7 @@ A few of these verbs are transitive, like *lesen, schreiben* [@next a,b], ambitr
   Ich habe mir (im Marathon) eine Medaille erlaufen.
 :::
 
-### --- [ Ø > OBJ ] --- *Präverb Dativ* {.unnumbered}
+###      --- [ Ø > OBJ ] --- {.unnumbered}
 
 ### [ N– | ND ] Preverb dative addition {#sec:preverb-dative-addition}
 
@@ -1813,7 +1800,7 @@ b. Ich lese dir ein Buch vor.
 - Ich habe den Schal geworfen. \
   Ich habe dir den Schal übergeworfen.
 
-### --- [ ADJ > OBJ ] --- *Präverb Applikativ* {.unnumbered}
+###      --- [ ADJ > OBJ ] --- {.unnumbered}
 
 ### [ Np | NA ] Preverb applicative {#sec:preverb-applicative}
 
@@ -2106,7 +2093,7 @@ There are various still transparent derivations in which there is a rather stron
 - Ich singe zu meiner Geliebten. \
   Ich singe meine Geliebte an.
 
-### --- [ PBJ > OBJ ] --- {.unnumbered}
+###      --- [ PBJ > OBJ ] --- {.unnumbered}
 
 ### [ NP | NA ] Preverb governed applicative {#sec:preverb-governed-applicative}
 
@@ -2291,9 +2278,7 @@ b. Er droht mir die Entlassung an.
 - Ich danke dir für deinen Einsatz. \
   Ich verdanke dir mein Leben. 
 
-### --- [ PBJ > OBJ > OBJ ] --- {.unnumbered}
-
-### [ NPA | NAD ] Preverb governed applicative+accusative-to-dative {#sec:preverb-applicative-accusative-to-dative}
+### [ NAP | NDA ] Preverb governed applicative+case change {#sec:preverb-applicative-accusative-to-dative}
 
 A peculiar diathesis is attested with *drängen zu* 'to urge' [@next a] and *aufdrängen* 'to force' [@next b]. The *zu* governed prepositional phrase is turned into an accusative, which is a regular applicative. However, additionally the accusative *dich* is turned into a dative *dir*.
 
@@ -2313,7 +2298,7 @@ b. Ich dränge dir ein Abo auf.
 - Ich gewöhne die Kinder an Sauberkeit. \
   Sie gewöhnt mir das Rauchen ab.
 
-### --- [ ADJ > OBJ ] --- *Präverb Dativ Applikativ* {.unnumbered}
+###      --- [ ADJ > OBJ ] --- {.unnumbered}
 
 ### [ Np | ND ] Preverb dative applicative {#sec:preverb-dative-applicative}
 
@@ -2425,7 +2410,7 @@ Some verbs allow for an additional accusative argument alongside a dative applic
 - Sie klebt einen Bart an ihn. \
   Sie klebt ihm einen Bart an.
 
-### [ NPp | NAD ] Preverb dative applicative+governed applicative {#sec:preverb-double-applicative}
+### [ NPp | NAD ] Preverb dative+preposition applicative {#sec:preverb-double-applicative}
 
 An example of a "double" applicative is found with the diathesis from *schweigen* 'to be silent' [@next a] and *verschweigen* 'to conceal' [@next b]. With the addition of the preverb *ver‑* both a dative and an accusative applicative are induced.
 
@@ -2466,11 +2451,11 @@ b. Ich sehe ihm die Müdigkeit an.
 
 ## Symmetrical diatheses
 
-### --- [ ADJ > OBJ > ADJ ] --- *Präverb Teil/fest-Objekttausch* {.unnumbered}
+###      --- [ ADJ > OBJ > ADJ ] --- {.unnumbered}
 
 ### [ NpA | NAp ] Preverb applicative+*in* antipassive {#sec:preverb-applicative-in-antipassive}
 
-The diathesis from *füllen* 'to fill' [@next a] to *einfüllen* 'to fill into' [@next b] is an example of a ~~joined meronym~~ object exchange (cf, [@sec:intro-promoted-object-exchange]). The original accusative object (*Flasche* 'bottle') is changed into an optional *in* prepositional phrase, while an optional *mit* prepositional phrase (*Schnaps* 'liquor') is changed to accusative object. Semantically, the role of new accusative object (i.e. the liquid, *Schnaps*) is always a part ("meronym") of the old object role (i.e. the container, *Flasche*). Additionally, the verb describes a process in which the meronym is connected to the holonym. So the new object in this diathesis is always a "joined" meronym'.
+The diathesis from *füllen* 'to fill' [@next a] to *einfüllen* 'to fill into' [@next b] is an example of a ~~joined meronym~~ object exchange (cf. [@sec:intro-promoted-object-exchange]). The original accusative object (*Flasche* 'bottle') is changed into an optional *in* prepositional phrase, while an optional *mit* prepositional phrase (*Schnaps* 'liquor') is changed to accusative object. Semantically, the role of new accusative object (i.e. the liquid, *Schnaps*) is always a part ("meronym") of the old object role (i.e. the container, *Flasche*). Additionally, the verb describes a process in which the meronym is connected to the holonym. So the new object in this diathesis is always a "joined" meronym'. In German I propose to call this diathesis ~~Präverb Teil/fest-Objekttausch~~ because it is an object exchange in which the new object is a part (*Teil* 'part') of original object that is connected to it (*fest* 'fixed').
 
 ::: ex
 - Er hat die Flasche (mit Schnaps) gefüllt.
@@ -2540,7 +2525,7 @@ b. Ich schließe den Schmuck (in den Safe) ein.
 - Ich grabe ein Loch (für den Baum). \
   Ich grabe den Baum (ins Erdreich) ein.
 
-### --- [ OBJ > OBJ ] --- {.unnumbered}
+###      --- [ OBJ > OBJ ] --- {.unnumbered}
 
 ### [ ND | NA ] Preverb dative-to-accusative {#sec:preverb-dative-accusative}
 
@@ -2579,9 +2564,9 @@ Conversely, the diathesis from *jagen* 'to hunt' [@next a] to *nachjagen* 'to ch
 
 - ˈnach- : *jagen*
 
-### --- [ OBJ > OBJ > OBJ ] --- {.unnumbered}
+###      --- [ OBJ > OBJ > OBJ ] --- {.unnumbered}
 
-### [ NDA | NAG ] Preverb dative-to-accusative+accusative-to-genitive {#sec:preverb-dative-accusative-genitive}
+### [ NDA | NAG ] Preverb dative-to-accusative-to-genitive {#sec:preverb-dative-accusative-genitive}
 
 Even more intricate, the diathesis from *rauben* [@next a] to *berauben* [@next b], both meaning 'to rob', includes both a case change from dative to accusative and one from accusative to genitive. The usage of the genitive sounds rather old-fashioned.
 
@@ -2594,7 +2579,7 @@ b. Ich beraube dich des Buches.
 
 - beˈ- : *rauben*
 
-### --- [ OBJ > SBJ > OBJ ] --- {.unnumbered}
+###      --- [ OBJ > SBJ > OBJ ] --- {.unnumbered}
 
 ### [ NA | AN ] Preverb accusative inversive {#sec:preverb-accusative-inversive}
 
@@ -2610,7 +2595,7 @@ c. Ich wundere mich über dein Verhalten.
 
 - beˈ- : *wundern*
 
-### --- [ PBJ > SBJ > PBJ ] --- {.unnumbered}
+###      --- [ PBJ > SBJ > PBJ ] --- {.unnumbered}
 
 ### [ NL | LN ] Preverb location inversive {#sec:preverb-location-inversive}
 
