@@ -34,8 +34,8 @@ Der König wartet auf seinem alten Thron auf seinen neuen Thron.
 
 There are fifteen diatheses that seem prominent enough to be given a German name. I propose the following names for these:
 
-- ~~[ADJ › SBJ › Ø] Instrumentsubjektivierung~~ (see [@sec:prepositions-intransitive-preposition-anticausative] ff.)
-- ~~[PBJ › SBJ › Ø] Kreationsubjektivierung~~ (see [@sec:prepositions-fabricative-accusative] ff.)
+- ~~[ADJ › SBJ › Ø] Instrumentsubjektiv~~ (see [@sec:prepositions-intransitive-preposition-anticausative] ff.)
+- ~~[PBJ › SBJ › Ø] Kreationsubjektiv~~ (see [@sec:prepositions-fabricative-accusative] ff.)
 - ~~[OBJ › SBJ › Ø] Ortsantikausativ~~ (see [@sec:prepositions-haben-caused-location])
 - ~~[Ø › SBJ › OBJ] Ortskausativ~~ (see [@sec:prepositions-sein-caused-location] ff.)
 - ~~[Ø › PBJ] Bewegungsart~~ (see [@sec:prepositions-manner-of-movement] ff.)
@@ -446,7 +446,7 @@ This section is empty. It is only added here for the numbering to be parallel ac
 
 ## Diatheses with subject demotion
 
-###      --- [ SBJ > Ø ] --- {.unnumbered color=gray}
+###      --- [ SBJ > Ø ] --- {.unnumbered}
 
 ### [ NP | –P ] Nominative drop+governed preposition {#sec:prepositions-nominative-drop}
 
@@ -484,7 +484,7 @@ c. Eine mögliche Wiedergeburt der Grünen [...] hapert an drei Stellen.^[~~DWDS
 d. Nur bei den Bässen hapert der Nachschub.^[~~DWDS~~: Die Zeit, 19.03.1993, Nr. 12.]
 :::
 
-###      --- [ SBJ > ADJ ] --- {.unnumbered color=gray}
+###      --- [ SBJ > ADJ ] --- {.unnumbered}
 
 ### [ ND | pD ] Nominative demotion+dative {#sec:prepositions-nominative-demotion}
 
@@ -525,11 +525,11 @@ c. Es ist kalt (im Sommer).
 - Mir ist langweilig im Sommer. \
   Der Sommer ist langweilig.
 
-###      --- [ ADJ > SBJ > Ø ] *Instrumentsubjektivierung* --- {.unnumbered color=gray}
+###      --- [ ADJ > SBJ > Ø ] --- {.unnumbered}
 
 ### [ Np | –N ] Intransitive conciliative {#sec:prepositions-intransitive-preposition-anticausative}
 
-A ~~conciliative~~ (from Lat. *conciliator*, 'intermediary/mediator') is a diathesis in which an instrument-like artefact is promoted to nominative subject. This instrument is an intermediate that is used by an agent to reach a certain goal. For intransitive verbs a (non-governed) prepositional constituent alternates with a nominative subject [@next a,b].
+A ~~conciliative~~ (from Lat. *conciliator*, 'intermediary/mediator') is a diathesis in which an instrument-like artefact is promoted to nominative subject. This instrument is an intermediate that is used by an agent to reach a certain goal, hence the latinate name. In German I propose to use the term ~~Instrumentsubjektiv~~. This diathesis is attested both with intransitive verbs (this section) and transitive verbs (see [@sec:prepositions-transitive-conciliative]). For intransitive verbs a (non-governed) prepositional constituent alternates with a nominative subject [@next a,b].
 
 ::: ex
 a. Er klappert mit der Tür.
@@ -638,11 +638,11 @@ This alternation takes a (non-governed) prepositional phrase and turns it into a
 - Ich rieche Blume im Parfüm. \
   Der Parfüm riecht nach Blume.
 
-###      --- [ PBJ > SBJ > Ø ] *Kreationsubjektivierung* --- {.unnumbered color=gray}
+###      --- [ PBJ > SBJ > Ø ] --- {.unnumbered}
 
 ### [ NPA | –NA ] Transitive fabricative {#sec:prepositions-fabricative-accusative}
 
-A ~~fabricative~~ (from Lat *fabrica*, 'plan, trick, workmanship') is a diathesis that superficially looks very similar to a conciliative ([@sec:prepositions-intransitive-preposition-anticausative]) because in both diatheses a *mit* prepositional phrase is promoted to nominative subject. The central difference is that in a fabricative diathesis the *mit* prepositional phrase is a governed preposition. This structural difference has a parallel semantic difference in that the fabricative *mit* phrase is an object that is produced by the agent.
+A ~~fabricative~~ (from Lat *fabrica*, 'plan, trick, workmanship') is a diathesis that superficially looks very similar to a conciliative ([@sec:prepositions-intransitive-preposition-anticausative]) because in both diatheses a *mit* prepositional phrase is promoted to nominative subject. The central difference is that in a fabricative diathesis the *mit* prepositional phrase is a governed preposition. This structural difference has a parallel semantic difference in that the fabricative *mit* phrase is an object that is produced by the agent, while a conciliative *mit* is an instrument. In German I propose to use the term ~~Kreationsubjektiv~~ for this fabricative diathesis, in opposition to the *Instrumentsubjektiv* for the conciliative variant.
 
 This diathesis occurs (among others) with verbs of emotional interactions like *überraschen* 'to surprise' [@next a]. To understand this diathesis, a distinction is needed between the role of the "fabricator", who produces the thing that evokes the emotion (here: *Lehrer*, 'teacher') and the role of the "fabricated product", which induces the emotion (here: *Aufgabe*, 'assignment'). The fabricator can be expressed with an adnominal genitive ("possessor") of the product [@next a,b]. The *mit* prepositional phrase expressing the fabricated product in [@next a] is a governed preposition [@next c]. As a result of the diathesis, the fabricated product is be promoted to nominative subject and the fabricator is removed from the expression [@next a,b]. The experiencer in the accusative *mich* remains unchanged.
 
@@ -716,11 +716,11 @@ c. Die Entlassung droht mir.
 
 - *drohen*
 
-###      --- [ OBJ > SBJ > Ø ] *Ortsantikausativ* --- {.unnumbered color=gray}
+###      --- [ OBJ > SBJ > Ø ] --- {.unnumbered}
 
 ### [ NAL | –NL ] *haben* Anticausative+location {#sec:prepositions-haben-caused-location}
 
-Some verbs allow for both an intransitive stative location [@next a] and caused location [@next b] construction. I analyse these verbs as anticausatives (cf. [@sec:case-haben-anticausative] for a similar diathesis without an obligatory location phrase).
+Some verbs allow for both an intransitive stative location [@next a] and caused location [@next b] construction. I analyse these verbs as anticausatives (cf. [@sec:case-haben-anticausative] for a similar diathesis without an obligatory location phrase). In German I propose to use the term ~~Ortsantikausativ~~ for this diathesis.
 
 ::: ex
 a. Ich hänge den Pullover in den Schrank.
@@ -763,7 +763,7 @@ c. Der Pullover hat im Schrank gehangen.
 d. Ich habe den Pullover in den Schrank gehängt.
 :::
 
-### [ NA– | –NP ] *haben* Anticausative+preposition addition {#sec:prepositions-anticausative-preposition-addition}
+### [ NA– | –NP ] *haben* Anticausative+governed preposition {#sec:prepositions-anticausative-preposition-addition}
 
 The verb *deuten* [@next] shows a special diathesis in which the accusative is turned into a nominative, but only with an additional obligatory *auf* prepositional phrase [@next a,b]. The preposition *auf* is a governed preposition [@next b,c]. Although clearly related, these two uses of *deuten* are semantically already quite far apart, meaning approximately 'to interpret' [@next a] vs. 'to forebode' [@next b].
 
@@ -779,11 +779,11 @@ c. Der Traum deutet darauf, dass morgen alles wieder gut sein wird.
 
 ## Diatheses with promotion to subject
 
-###      --- [ Ø > SBJ > OBJ ] *Ortskausativ* --- {.unnumbered color=gray}
+###      --- [ Ø > SBJ > OBJ ] --- {.unnumbered}
 
 ### [ –NL | NAL ] *sein* Causative+location {#sec:prepositions-sein-caused-location}
 
-Though superficially similar to the *haben* anticausatives (see [@sec:prepositions-haben-caused-location]), the verbs in this section are different in that they only have the option of a *sein* perfect for the intransitive [@next a,b]. The transitive causative diathesis takes *haben* in the perfect [@next c].
+Though superficially similar to the *haben* anticausatives (see [@sec:prepositions-haben-caused-location]), the verbs in this section are different in that they only have the option of a *sein* perfect for the intransitive [@next a,b]. The transitive causative diathesis takes *haben* in the perfect [@next c]. In German I propose the term ~~Ortskausativ~~ for this diathesis.
 
 ::: ex
 a. Der Elefant ist ins Wasser gestürzt.
@@ -896,7 +896,7 @@ e. ^* Ich schreibe dir an dem Brief. ~~[NPD]~~
 f. ^* Ich schreibe an dich an dem Brief. ~~[NPP]~~
 :::
 
-###      --- [ PBJ > Ø ] --- {.unnumbered color=gray}
+###      --- [ PBJ > Ø ] --- {.unnumbered}
 
 ### [ NP | N– ] Governed preposition drop {#sec:prepositions-governed-drop}
 
@@ -1034,7 +1034,7 @@ The verb *durchziehen* needs a location phrase when used in the meaning 'to pull
 
 - *durchziehen*
 
-###      --- [ OBJ > Ø ] --- {.unnumbered color=gray}
+###      --- [ OBJ > Ø ] --- {.unnumbered}
 
 ### [ NAP | N–P ] Accusative drop+governed preposition
 
@@ -1105,7 +1105,7 @@ d. ^^?^ Ich gratuliere.
 - Er dankt (mir) für den Wein.
 - Er antwortet (dir) auf deine Frage.
 
-###      --- [ OBJ > ADJ ] *Antipassiv* --- {.unnumbered color=gray}
+###      --- [ OBJ > ADJ ] --- {.unnumbered}
 
 ### [ NA | Np ] Accusative antipassive {#sec:prepositions-accusative-antipassive}
 
@@ -1498,8 +1498,6 @@ c. ^* Er stößt das Messer.
 
 - *drücken, stoßen*
 
-###      --- [ OBJ > ADJ ] *Dativ Antipassiv* --- {.unnumbered color=gray}
-
 ### [ ND | Np ] Dative antipassive {#sec:prepositions-dative-antipassive}
 
 It seems to be somewhat unusual for verbs with dative but without accusative to allow for a prepositional expression of the dative, like with *entfliehen* 'to flee' [@next]. There are just a handful of cases with the prepositions as listed below. The meaning of these prepositional phrases seem to be very close to the locational meaning (e.g. *aus* is used for arguments moving out of something, etc.). Note that such a dative antipassive is much more common with verbs that also have an accusative argument (see [@sec:prepositions-dative-antipassive-accusative]).
@@ -1623,7 +1621,7 @@ The *zu* dative antipassive is typically used with verbs expressing the movement
 - Ich ordne das Verb einer Gruppe zu. \
   Ich ordne das Verb zu einer Gruppe zu.
 
-###      --- [ OBJ > PBJ ] --- {.unnumbered color=gray}
+###      --- [ OBJ > PBJ ] --- {.unnumbered}
 
 ### [ NA | NP ] Accusative governed antipassive {#sec:prepositions-governed-antipassive}
 
@@ -1734,7 +1732,7 @@ Das allgemeine Völkerrecht befreit die Person des feindlichen Regenten.^[~~DWDS
 
 ## Diatheses with promotion to object
 
-###      --- [ Ø > OBJ ] --- {.unnumbered color=gray}
+###      --- [ Ø > OBJ ] --- {.unnumbered}
 
 ### [ –P | DP ] Dative addition+governed preposition
 
@@ -1762,11 +1760,11 @@ This alternation allows for either a dative to be present or not with verbs that
 - Es fehlt an Geld. \
   Ihm fehlt es an Geld.
 
-###      --- [ Ø > PBJ ] *Bewegungsart* --- {.unnumbered color=gray}
+###      --- [ Ø > PBJ ] --- {.unnumbered}
 
 ### [ N– | NL ] Manner of movement {#sec:prepositions-manner-of-movement}
 
-Many movement verbs, like *tanzen* 'to dance' [@next], allow for the following two kinds of constructions. First, a regular intransitive construction expressing the movement with an optional location [@next a] and, second, a construction with an obligatory local prepositional phrase in which the movement verb expresses the manner of movement [@next b]. Syntactically, there is a crucial difference between these two constructions in that the perfect auxiliary changes between *haben* [@next a] and *sein* [@next b], see also [@sec:participles-haben-sein-perfect]. The local prepositional phrase cannot be left out in the construction with *sein* [@next c].
+Many movement verbs, like *tanzen* 'to dance' [@next], allow for the following two kinds of constructions. First, a regular intransitive construction expressing the movement with an optional location [@next a] and, second, a construction with an obligatory local prepositional phrase in which the movement verb expresses the manner of movement [@next b]. Syntactically, there is a crucial difference between these two constructions in that the perfect auxiliary changes between *haben* [@next a] and *sein* [@next b], see also [@sec:participles-haben-sein-perfect]. The local prepositional phrase cannot be left out in the construction with *sein* [@next c]. In German I propose to use the term ~~Bewegungsart~~ for this diathesis.
 
 ::: ex
 a. Ich habe (in dem Garten) getanzt.
@@ -1847,7 +1845,7 @@ A very similar, but crucially different diathesis exists with other non-movement
 - Ich habe (mich) geirrt. \
   Ich bin durch die dunkele Wohnung geirrt.
 
-### [ – – | NL ] Weather-like manner-of-movement {#sec:prepositions-weather-manner-movement}
+### [ – – | NL ] Weather-like manner of movement {#sec:prepositions-weather-manner-movement}
 
 Many weather verbs like *wehen* 'to blow' [@next] allow for a nominative subject that is moving in a weather-like manner, often induced by a weather phenomenon. In such constructions the location phrase seems obligatory.
 
@@ -1873,11 +1871,9 @@ b. Sie stürmten in den Saal.
 - Seine Zähne blitzten in der Sonne.
 - Die Motoren donnerten durch die Stadt.
 
-###      --- [ Ø > PBJ ] *Verursachte Bewegung* --- {.unnumbered color=gray}
-
-In the analysis of resultative constructions, there is a recurrent suggestion in the literature to distinguish between "cause to go" and "cause to become" semantics [e.g. @mcintyre2003: 120]. I will use the designation "caused motion" for the former and "performative result" for the latter here.
-
 ### [ N– – | NAL ] Intransitive caused motion {#sec:prepositions-intransitive-location-as-result}
+
+In the analysis of resultative constructions, there is a recurrent suggestion in the literature to distinguish between "cause to go" and "cause to become" semantics [e.g. @mcintyre2003: 120]. I will use the designation ~~caused motion~~ (German ~~Verursachte Bewegung~~) for the former and ~~performative result~~ (German ~~Ergänzende Wirkung~~) for the latter here. Caused motion diatheses are attested both with intransitive verbs (this section) and transitive verbs (see the next [@sec:prepositions-transitive-location-as-result]). Performative result diatheses are discussed in [@sec:prepositions-performative-result].
 
 With some apparently intransitive verbs there exist special constructions with an accusative argument and an obligatorily present prepositional phrase. For example, the verb *klopfen* 'to knock' is regularly used as an intransitive [@next a] possibly with an *an* prepositional phrase [@next b]. Accusative arguments are normally not possible, except for a very few special nouns related to music [@next c].
 
@@ -1977,8 +1973,6 @@ c. Ich befehle die Armee an der Front. \
 - Der Kutscher peitschte das Pferd. \
   Ein Tornado peitscht Tausende von Haien aus dem Meer.
 
-###      --- [ Ø > PBJ ] *Ergänzende Wirkung* --- {.unnumbered color=gray}
-
 ### [ NA– | NAP ] Performative result {#sec:prepositions-performative-result}
 
 A slightly different variant of a diathesis describing a result is attested with various performative verbs that take a regular accusative, like *machen* 'to make/create' [@next a]. As an alternative structure, these verbs also allow for a construction with an accusative and a prepositional phrase [@next b]. Note that the prepositional phrase cannot be left out in these constructions. The meaning of such constructions is parallel to the previous diathesis in that the performative verb causes the result. Such constructions were named quite aptly "Ergänzende Wirkung" all the way back in the influential educational grammatical work of Karl Ferdinand Becker [-@becker1833: 81] almost 200 years ago.
@@ -2028,11 +2022,11 @@ The verb *wünschen* 'to wish' can be used in a construction with *als* [@next a
 - Dr. Malan wünschte sich den vierundsiebzigjährigen Meneer Havenga zum Nachfolger.^[~~DWDS~~: Die Zeit, 16.12.1954, Nr. 50.]
 :::
 
-###      --- [ Ø > OBJ > PBJ ] *Teil Objekttausch* --- {.unnumbered color=gray}
+###      --- [ Ø > OBJ > PBJ ] --- {.unnumbered}
 
-### [ NA– | NLA ] Partitive separated object (*Teil/weg-Objekttausch*) {#sec:prepositions-partitive-free}
+### [ NA– | NLA ] Partitive separated object {#sec:prepositions-partitive-free}
 
-This alternation occurs with some transitive verbs like *waschen* 'to wash' [@next a,b], cf. the "wipe" alternation in English from Levin [-@levin1993: 53]. Note that the accusatives at both sides of the alternation do not refer to the same roles: there is a new object introduced with this diathesis. The original accusative *Hose* 'trousers' [@next a] is recast as a location [@next b], which is obligatory [@next c]. A new accusative *Fleck* 'stain' is introduced as the result of the action. Typically the result is actually the removal of something, like *Fleck* 'stain' in [@next].
+This alternation (German ~~Teil/weg Objekttausch~~) occurs with some transitive verbs like *waschen* 'to wash' [@next a,b], cf. the "wipe" alternation in English from Levin [-@levin1993: 53]. Crucially, the accusatives at both sides of the alternation do not refer to the same roles: there is a new object introduced with this diathesis. The original accusative *Hose* 'trousers' [@next a] is recast as a location [@next b], which is obligatory [@next c]. A new accusative *Fleck* 'stain' is introduced as the result of the action. Typically the result is actually the removal of something, like *Fleck* 'stain' in [@next], hence the term *weg* in the German name.
 
 ::: ex
 a. Ich wasche meine Hose.
@@ -2073,9 +2067,9 @@ d. Er kämmt sich die Läuse aus den Haaren.
 - Sie putzt seine Lippen. \
   Leo W. heult und hustet, Melanie putzt den Schleim von seinen Lippen.^[~~DWDS~~: Zeit Magazin, 04.12.2008, Nr. 50.]
 
-### [ NA– | NLA ] Partitive joined object (*Teil/fest-Objekttausch*) {#sec:prepositions-partitive-fixed}
+### [ NA– | NLA ] Partitive joined object {#sec:prepositions-partitive-fixed}
 
-Similar to the previous diathesis, but somewhat less common, some verbs allow for an unmarked partitive construction with a reversed semantics. Instead of removing a part, a part is added to a whole. For example, with *nähen* 'to sew' the accusative object is either the thing being sewn, *Hose* 'trousers' [@next a], or a part being attached to something else, *Knopf* 'button' [@next b]. The original object can be retained as a prepositional phrase with *an*.
+Similar to the previous diathesis, but somewhat less common, some verbs allow for an unmarked partitive construction with a reversed semantics (German ~~Teil/fest-Objekttausch~~). Instead of removing a part, a new part is fixated to a whole, hence the terms *Teil/fest* in the German name. For example, with *nähen* 'to sew' the accusative object is either the thing being sewn, *Hose* 'trousers' [@next a], or a part being attached to something else, *Knopf* 'button' [@next b]. The original object can be retained as a prepositional phrase with *an*.
 
 ::: ex
 - Er näht eine Hose.
@@ -2107,11 +2101,11 @@ This diathesis is closely related to a similar diathesis with preverbs (see [@se
 - Er hackt das Holz. \
   Er hackt ein Loch in das Eis.
 
-###      --- [ ADJ > OBJ ] *Benefaktivdativ* --- {.unnumbered color=gray}
+###      --- [ ADJ > OBJ ] --- {.unnumbered}
 
 ### [ NAp | NAD ] Beneficiary dative {#sec:prepositions-benefactive-dative}
 
-The alternation of a dative with a *für* prepositional phrase is very widespread [@next a,b]. It can be used with verbs that can be performed on behalf of somebody else (i.e. a ~~beneficiary~~, sometimes called ~~dativus commodi~~). In German grammar it is sometimes referred to as a "free dative" because it can be easily dropped completely. As Eisenberg [-@eisenberg2006a: 298] remarks, such datives are widespread, but cannot be used with all verbs and are thus a phenomenon that can be used for the sub-classification of verbs. Also note that this diathesis should be strongly differentiated from other "free datives", specifically possessor datives (see especially [@sec:case-possessor-accusative-to-dative; but also @sec:prepositions-possessor-of-location-to-dative-experiencer]) 
+The alternation of a dative with a *für* prepositional phrase is very widespread [@next a,b]. It can be used with verbs that can be performed on behalf of somebody else (i.e. a ~~beneficiary~~, sometimes called ~~dativus commodi~~). In German grammar it is sometimes referred to as a "free dative" because it can be easily dropped completely. However, a more precise term in German would be ~~Benefaktivdativ~~. As Eisenberg [-@eisenberg2006a: 298] remarks, such datives are widespread, but cannot be used with all verbs and are thus a phenomenon that can be used for the sub-classification of verbs. Also note that this diathesis should be strongly differentiated from other "free datives", specifically possessor datives (see especially [@sec:case-possessor-accusative-to-dative; but also @sec:prepositions-possessor-of-location-to-dative-experiencer]) 
 
 ::: ex
 a. Ich koche dir eine Suppe.
@@ -2149,11 +2143,9 @@ e. Gib mir eine Waffe und ich gewinne dir jeden Krieg.^[Attested online at <http
 - Ich garantiere dir den Erfolg. \
   Ich garantiere den Erfolg für dich.
 
-###      --- [ ADJ > OBJ ] *Beurteilerdativ* --- {.unnumbered color=gray}
-
 ### [ Np | ND ] Judgement dative {#sec:prepositions-judgement-dative}
 
-A dative can be introduced together with an obligatory *zu/genug* phrase in the interpretation of an evaluator *für den Geschmack von* [also known as *dativus iudicantis*, e.g. @hole2014: 6--7, 172--176]. It is typically used with intransitive verbs [@next a], though transitive construction seem possible [@next b]. More research is needed to establish any restrictions for the kind of verbs with which this dative can be used.
+A dative can be introduced together with an obligatory *zu/genug* phrase in the interpretation of an evaluator *für den Geschmack von* [also known as *dativus iudicantis*, e.g. @hole2014: 6--7, 172--176]. I propose to use the term ~~Beurteilerdativ~~ in German. This diathesis is typically used with intransitive verbs [@next a], though transitive construction seem possible [@next b]. More research is needed to establish any restrictions for the kind of verbs with which this dative can be used.
 
 ::: ex
 - Paul fuhr zu schnell für den Geschmack von seiner Mutter. \
@@ -2169,11 +2161,9 @@ A dative can be introduced together with an obligatory *zu/genug* phrase in the 
 - Ich lüge dir zu viel. \
   Ich lüge zu viel für deinen Geschmack.
 
-###      --- [ ADJ > OBJ ] *Ortspertinenzdativ* --- {.unnumbered color=gray}
+### [ NLg | NLD ] Possessor-of-location dative {#sec:prepositions-possessor-of-location-to-dative-experiencer}
 
-### [ NLg | NLD ] Possessor-of-location to dative experiencer {#sec:prepositions-possessor-of-location-to-dative-experiencer}
-
-Some datives can be expressed alternatively as a possessor inside a prepositional phrase. This happens with some verbs that can be used intransitively [@next a] or with a dative [@next b]. However, this dative cannot be used without an additional prepositional phrase [@next c]. In these cases, the dative can be alternatively expressed as the possessor of the prepositional object [@next d].
+Some datives can be expressed alternatively as a possessor inside a prepositional phrase. This happens with some verbs that can be used either intransitively [@next a] or with a dative [@next b]. However, this dative cannot be used without an additional prepositional phrase [@next c]. In these cases, the dative can be alternatively expressed as the possessor of the prepositional object [@next d]. In German I propose to call this diathesis ~~Ortspertinenzdativ~~.
 
 ::: ex
 a. Der Affe saß ruhig.
@@ -2219,7 +2209,7 @@ b. Der Hund hat in sein Bein gebissen. \
    Der Hund hat *ihm* ins Bein gebissen.
 :::
 
-### [ NALg | NALD ] Possessor-of-location to dative experiencer+accusative {#sec:prepositions-possessor-of-location-to-dative-experiencer-accusative}
+### [ NALg | NALD ] Possessor-of-location dative+accusative {#sec:prepositions-possessor-of-location-to-dative-experiencer-accusative}
 
 Similar to the previous alternation, the verbs in this group also alternate the possessor of the prepositional phrase with a dative. However, differently from the previous group, these verbs also have an accusative argument. These verbs are either causative alternants of the verbs from the previous group or verbs that already have had a caused-motion diathesis (see [@sec:prepositions-intransitive-location-as-result]).
 
@@ -2279,11 +2269,11 @@ This construction is frequently used metaphorically [@next].
 - Ich jage dir den Anwalt auf den Hals.
 :::
 
-###      --- [ ADJ > OBJ > PBJ ] *Pertinenzakkusativ* --- {.unnumbered color=gray}
+###      --- [ ADJ > OBJ > PBJ ] --- {.unnumbered}
 
 ### [ NAg | NPA ] Possessor-of-accusative applicative {#sec:perpositions-possessor-applicative}
 
-This alternation is the German equivalents of the "Possessor Object" alternation in English from Levin [-@levin1993: 73]. The possessor of an accusative becomes an accusative and the erstwhile accusative is demoted to a prepositional phrase. The preposition (typically *für*) appears to be a governed preposition.
+This alternation is the German equivalent of the "Possessor Object" alternation in English from Levin [-@levin1993: 73]. The possessor of an accusative becomes an accusative and the erstwhile accusative is demoted to a prepositional phrase. The preposition (typically *für*) appears to be a governed preposition. In German I propose to call this diathesis ~~Pertinenzakkusativ~~.
 
 ::: ex
 a. Ich bewundere seine Ehrlichkeit.
@@ -2304,7 +2294,7 @@ c. Ich bewundere ihn dafür, dass er ehrlich ist.
 - Die Delegierten feiern ihn für sein Nein zum Irak-Krieg. \
   Die Delegierten feiern sein Nein zum Irak-Krieg.
 
-###      --- [ ADJ > OBJ + Ø > OBJ ] --- {.unnumbered color=gray}
+###      --- [ ADJ > OBJ + Ø > OBJ ] --- {.unnumbered}
 
 ### [ Np– | NAA ] Naming result {#sec:prepositions-naming-result}
 
@@ -2325,7 +2315,7 @@ b. Sie schimpft mich einen Narren
 
 ## Symmetrical diatheses
 
-###      --- [ ADJ > SBJ > ADJ ] --- {.unnumbered color=gray} 
+###      --- [ ADJ > SBJ > ADJ ] --- {.unnumbered} 
 
 ### [ Np | pN ] Commutative {#sec:prepositions-subject-switch}
 
@@ -2340,7 +2330,7 @@ b. Der Platz wimmelt von Kindern.
 
 - *wimmeln*
 
-###      --- [ ADJ > OBJ > ADJ ] --- {.unnumbered color=gray}
+###      --- [ ADJ > OBJ > ADJ ] --- {.unnumbered}
 
 ### [ NAp | NpA ] Chained applicative/antipassive {#sec:prepositions-instrument-applicative}
 
@@ -2404,7 +2394,7 @@ a. Er vergleicht mich mit einem Affen.
 b. Er vergleicht einen Affen mit mir.
 :::
 
-###      --- [ ADJ > ADJ ] --- {.unnumbered color=gray}
+###      --- [ ADJ > ADJ ] --- {.unnumbered}
 
 ### [ NAg | NAp ] Possessor-of-accusative to preposition {#sec:prepositions-possessor-to-preposition}
 

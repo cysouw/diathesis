@@ -28,7 +28,6 @@ filters:
 - filters/pandoc-ling.lua
 - filters/pandoc-crossref
 - citeproc
-- filters/colorhead.lua
 
 metadata-files:
 - meta/metadata.yaml

@@ -22,7 +22,7 @@ The morphosyntactic characteristics of the *Präpositions­in­fi­ni­tiv* are 
 
 The result of this strict demarcation is that only very few clearly grammaticalised constructions with a *Präpositions­in­fi­ni­tiv* can be identified. The handful of epitheses and the three diatheses that are presented in this chapter are all constructed with just a few light verbs, namely *haben, sein, bleiben, gehen, fahren, kommen* and *halten*. I propose the following German names for the three diatheses:
 
-- ~~[PBJ › SBJ › Ø]~~ *sein zum* ~~Auslösersubjektivierung~~ (see [@sec:zuminfinitive-sein-zum])
+- ~~[PBJ › SBJ › Ø]~~ *sein zum* ~~Auslösersubjektiv~~ (see [@sec:zuminfinitive-sein-zum])
 - ~~[OBJ › SBJ › OBJ]~~ *haben am* ~~Pertinenzinversiv~~ (see [@sec:zuminfinitive-haben-am])
 - ~~[Ø › SBJ › OBJ]~~ *halten am* ~~Fortsetzungskausativ~~ (see [@sec:zuminfinitive-halten-causative])
 
@@ -420,9 +420,9 @@ Besides this stative usage, there are a few other sentence patterns that look si
 
 ### --- [ PBJ > SBJ > Ø ] --- {.unnumbered}
 
-### [ NP | –N ] *sein+zum‑In­fi­ni­tiv* Emotional trigger subject (*Auslösersubjektivierung*) {#sec:zuminfinitive-sein-zum}
+### [ NP | –N ] *sein+zum‑In­fi­ni­tiv* Emotional trigger subject (*Auslösersubjektiv*) {#sec:zuminfinitive-sein-zum}
 
-The construction *sein+zum‑In­fi­ni­tiv* drops the nominative subject and promotes a governed preposition to subject. Such a role-remapping is rather unusual in German. In  another diathesis, the *Kreationsubjektivierung* (see [@sec:prepositions-fabricative-accusative]), it is a creation manufactured by the subject that is promoted to subject. In the present construction, it is the trigger of an emotional reaction that is promoted to subject.
+The construction *sein+zum‑In­fi­ni­tiv* drops the nominative subject and promotes a governed preposition to subject. Such a role-remapping is rather unusual in German. In  another diathesis, the *Kreationsubjektiv* (see [@sec:prepositions-fabricative-accusative]), it is a creation manufactured by the subject that is promoted to subject. In the present construction, it is the trigger of an emotional reaction that is promoted to subject.
 
 The *sein+zum‑In­fi­ni­tiv* diathesis appears only to apply to verbs of emotion, like *heulen* 'to cry' [@next]. This emotion is triggered by something which is expressed with an *über* governed prepositional phrase [@next a]. Using this diathesis, the trigger is promoted to subject and the original subject is dropped and cannot be retained in any form [@next b]. Typically this diathesis is used without explicitly expressing the trigger at all. As a result, the new sentence after the diathesis lacks a subject, and thus a valency-simulating pronoun *es* is commonly attested in this construction [@next c].
 

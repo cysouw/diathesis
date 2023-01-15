@@ -381,9 +381,9 @@ c. (Es ist bekannt, dass) er verspricht, das Licht auszuschalten.
 
 By definition (see [@sec:intro-basic-definition]), diathesis has to include changes to the grammatical marking of the participants. The alternations described in this section do not show any change in the marking of the participants, so, again by definition, they are classified as examples of epithesis. However, functionally these constructions are close to diatheses in that the relation between the participants and the verb is changed in some way. For lack of a better term I call such a construction a ~~Diathetical epithesis~~.
 
-### *Verborgenes Zustandskausativ* (*kommen+zu‑In­fi­ni­tiv*) {#sec:epithesis-zustandskausativ}
+### *Zustandskausativ* (*kommen+zu‑In­fi­ni­tiv*) {#sec:epithesis-zustandskausativ}
 
-Covert causatives exists in two variants. The first kind, the ~~Verborgener Zustandskausativ~~ (full discussion in [@sec:zuinfinitive-kommen]), uses the light verb *kommen* with a *zu‑In­fi­ni­tiv* [@next a,b]. This construction conveys that there is some unexpressed force or agent that has caused a state to be reached. It can only used with intransitive state verbs like *stehen* and is obligatorily coherent [@next c].
+Covert causatives exists in two variants. The first kind, the ~~(Verborgener) Zustandskausativ~~ (full discussion in [@sec:zuinfinitive-kommen]), uses the light verb *kommen* with a *zu‑In­fi­ni­tiv* [@next a,b]. This construction conveys that there is some unexpressed force or agent that has caused a state to be reached. It can only used with intransitive state verbs like *stehen* and is obligatorily coherent [@next c]. This construction is no diathesis because the roles are not remapped.
 
 ::: ex
 a. Sie stand neben mir.
@@ -391,9 +391,9 @@ b. Sie kam neben mir zu stehen.
 c. (Es ist bekannt, dass) sie neben mir zu stehen kam.
 :::
 
-### *Verborgenes Rezipientenkausativ* (*bekommen/kriegen+zu‑In­fi­ni­tiv*)
+### *Rezipientenkausativ* (*bekommen/kriegen+zu‑In­fi­ni­tiv*)
 
-The ~~Verborgener Rezipientenkausativ~~ (full discussion in [@sec:zuinfinitive-bekommen]) uses the light verbs *bekommen* or *kriegen* with a *zu‑In­fi­ni­tiv* [@next a,b]. Like with *kommen* (see [@sec:epithesis-zustandskausativ]), there is an unnamed force or agent that causes the situation to come about. The light verb *bekommen/kriegen* is typically combined with a transitive verb of sensation, like *sehen* 'to see', or consumption, like *essen* 'to eat'. By using this covert causative construction, the nominative subject is semantically depicted as an experiencer of the verb. The centrality of the experiencer role is reminiscent of the *Rezipientenpassiv* (see [@sec:summary-rezipientenpassiv]). However, in this construction there is no role-remapping, so it is not a diathesis.
+The ~~(Verborgener) Rezipientenkausativ~~ (full discussion in [@sec:zuinfinitive-bekommen]) uses the light verbs *bekommen* or *kriegen* with a *zu‑In­fi­ni­tiv* [@next a,b]. Like with *kommen* (see [@sec:epithesis-zustandskausativ]), there is an unnamed force or agent that causes the situation to come about. The light verb *bekommen/kriegen* is typically combined with a transitive verb of sensation, like *sehen* 'to see', or consumption, like *essen* 'to eat'. By using this covert causative construction, the nominative subject is semantically depicted as an experiencer of the verb. The centrality of the experiencer role is reminiscent of the *Rezipientenpassiv* (see [@sec:summary-rezipientenpassiv]). However, in this construction there is no role-remapping, so it is not a diathesis.
 
 ::: ex
 a. Die Schüler sehen einen Film.

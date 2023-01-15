@@ -126,9 +126,9 @@ b. Dann heißt es für ihn weiter reden.
 
 A ~~conciliative~~ is a diathesis that completely removes the role marked as subject and promotes an instrument to be the new subject. For details on the definition see [@sec:intro-subject-demotions], specifically starting at [@par:conciliative].
 
-### *Instrumentsubjektivierung* {#sec:summary-instrumentsubjektivierung}
+### *Instrumentsubjektiv* {#sec:summary-Instrumentsubjektiv}
 
-The ~~Instrumentsubjektivierung~~ (full discussion in [@sec:prepositions-intransitive-preposition-anticausative] and subsequent sections) promotes an instrument to nominative subject. For example, the instrument *Schlüssel* 'key' of the verb *öffnen* 'to open' is expressed with a *mit* prepositional phrase in [@next a]. Alternatively, it can be expressed with a nominative as in [@next b]. In that construction, the original agent cannot be expressed anymore. This diathesis looks very similar to the *Kreationsubjektivierung* (see [@sec:summary-kreationsubjektivierung]), but there are crucial semantic and structural differences (discussed below). 
+The ~~Instrumentsubjektiv~~ (full discussion in [@sec:prepositions-intransitive-preposition-anticausative] and subsequent sections) promotes an instrument to nominative subject. For example, the instrument *Schlüssel* 'key' of the verb *öffnen* 'to open' is expressed with a *mit* prepositional phrase in [@next a]. Alternatively, it can be expressed with a nominative as in [@next b]. In that construction, the original agent cannot be expressed anymore. This diathesis looks very similar to the *Kreationsubjektiv* (see [@sec:summary-Kreationsubjektiv]), but there are crucial semantic and structural differences (discussed below). 
 
 ::: ex
 a. Ich öffne die Tür mit dem Schlüssel.
@@ -139,9 +139,9 @@ b. Der Schlüssel öffnet die Tür.
 
 A ~~fabricative~~ is a diathesis that completely removes the role marked as subject and promotes an fabricated entity to be the new subject. For details on the definition see [@sec:intro-subject-demotions], specifically starting at [@par:fabricative].
 
-### *Kreationsubjektivierung* {#sec:summary-kreationsubjektivierung}
+### *Kreationsubjektiv* {#sec:summary-Kreationsubjektiv}
 
-The ~~Kreationsubjektivierung~~ (full discussion in [@sec:prepositions-fabricative-accusative]) superficially looks very similar to the previous *Instrumentsubjektivierung*. In both diatheses a *mit* prepositional phrase is promoted to nominative subject. However, with a verb like *überraschen* 'to surprise' [@next] the noun in the prepositional phrase, *Aufgabe* 'task', does not represent an instrument, but a fabrication by the subject of the sentence, *Lehrer* 'teacher'. This semantic difference is paralleled by a structural difference, namely that the *mit* prepositional phrase is a governed preposition [@next c]. Note that the verbs that allow for a *Kreationsubjektivierung* show a substantial overlap with the verbs that allow for the *Reflexiv Erlebniskonversiv* (see [@sec:summary-reflexiv-erlebnispassiv]), though the two groups are not identical.
+The ~~Kreationsubjektiv~~ (full discussion in [@sec:prepositions-fabricative-accusative]) superficially looks very similar to the previous *Instrumentsubjektiv*. In both diatheses a *mit* prepositional phrase is promoted to nominative subject. However, with a verb like *überraschen* 'to surprise' [@next] the noun in the prepositional phrase, *Aufgabe* 'task', does not represent an instrument, but a fabrication by the subject of the sentence, *Lehrer* 'teacher'. This semantic difference is paralleled by a structural difference, namely that the *mit* prepositional phrase is a governed preposition [@next c]. Note that the verbs that allow for a *Kreationsubjektiv* show a substantial overlap with the verbs that allow for the *Reflexiv Erlebniskonversiv* (see [@sec:summary-reflexiv-erlebnispassiv]), though the two groups are not identical.
 
 ::: ex
 a. Der Lehrer überrascht mich mit der Aufgabe.
@@ -149,9 +149,9 @@ b. Die Aufgabe überrascht mich.
 c. Der Lehrer überrascht mich damit, dass er die Aufgabe schon korrigiert hat.
 :::
 
-### *Auslösersubjektivierung* (*sein+zum-In­fi­ni­tiv*) {#sec:summary-auslosersubjektivierung}
+### *Auslösersubjektiv* (*sein+zum-In­fi­ni­tiv*) {#sec:summary-auslosersubjektivierung}
 
-The ~~Auslösersubjektivierung~~ (full discussion in [@sec:zuminfinitive-sein-zum]) is constructed with the light verb *sein* with a *zum‑In­fi­ni­tiv*. This diathesis can be applied to verbs of emotion with a governed preposition describing the trigger of the emotion. For example, *heulen* 'to whine' [@next a] uses the governed preposition *über* to describe the trigger, here *Schaden* 'damage' [@next b]. The result of the diathesis is that the trigger of the emotion is promoted to nominative subject [@next c]. The original subject, i.e. the perceiver of the emotion, cannot be expressed anymore.
+The ~~Auslösersubjektiv~~ (full discussion in [@sec:zuminfinitive-sein-zum]) is constructed with the light verb *sein* with a *zum‑In­fi­ni­tiv*. This diathesis can be applied to verbs of emotion with a governed preposition describing the trigger of the emotion. For example, *heulen* 'to whine' [@next a] uses the governed preposition *über* to describe the trigger, here *Schaden* 'damage' [@next b]. The result of the diathesis is that the trigger of the emotion is promoted to nominative subject [@next c]. The original subject, i.e. the perceiver of the emotion, cannot be expressed anymore.
 
 ::: ex
 a. Ich heule über den Schaden.

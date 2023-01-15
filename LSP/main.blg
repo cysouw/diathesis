@@ -1,18 +1,18 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
-[66] biber-darwin:340> INFO - === Fri Jan 13, 2023, 14:49:59
-[80] Biber.pm:418> INFO - Reading 'main.bcf'
-[168] Biber.pm:972> INFO - Found 1 citekeys in bib section 0
-[181] Biber.pm:4383> INFO - Processing section 0
-[190] Biber.pm:4574> INFO - Looking for bibtex file 'localbibliography.bib' for section 0
-[190] Biber.pm:4574> INFO - Looking for bibtex file 'langscitmp.bib' for section 0
-[191] bibtex.pm:1713> INFO - LaTeX decoding ...
-[194] bibtex.pm:1518> INFO - Found BibTeX data source 'langscitmp.bib'
-[224] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[224] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[224] Biber.pm:4203> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[224] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
-[226] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[226] bbl.pm:757> INFO - Output to main.bbl
-[226] Biber.pm:130> WARN - Data source 'localbibliography.bib' is empty, ignoring
-[226] Biber.pm:132> INFO - WARNINGS: 1
+[63] biber-darwin:340> INFO - === Sun Jan 15, 2023, 16:05:02
+[75] Biber.pm:418> INFO - Reading 'main.bcf'
+[161] Biber.pm:972> INFO - Found 1 citekeys in bib section 0
+[174] Biber.pm:4383> INFO - Processing section 0
+[182] Biber.pm:4574> INFO - Looking for bibtex file 'localbibliography.bib' for section 0
+[182] Biber.pm:4574> INFO - Looking for bibtex file 'langscitmp.bib' for section 0
+[183] bibtex.pm:1713> INFO - LaTeX decoding ...
+[185] bibtex.pm:1518> INFO - Found BibTeX data source 'langscitmp.bib'
+[213] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[213] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[213] Biber.pm:4203> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[213] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[215] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[215] bbl.pm:757> INFO - Output to main.bbl
+[215] Biber.pm:130> WARN - Data source 'localbibliography.bib' is empty, ignoring
+[215] Biber.pm:132> INFO - WARNINGS: 1
