@@ -165,7 +165,7 @@ Even less mentioned is *verstehen+zu‑In­fi­ni­tiv* [cf. @engel1996: 483], w
 - ^* Er hat verstanden zu siegen.
 :::
 
-#### Further examples {.unnumbered .unlisted}
+#### Further examples {.unnumbered}
 
 - Ich weiß deinen Einsatz zu schätzen.
 - Ich weiß ihn nirgends einzuordnen.^[Attested online at <https://www.philaseiten.de/cgi-bin/index.pl?PR=51029>, accessed 26 October 2021.]
@@ -197,7 +197,7 @@ The examples in [@next] suggest that this construction sometimes means 'can' ins
 - Die Bürger haben nur noch indirekt etwas zu sagen.^[~~DWDS~~: Die Zeit, 16.04.2015, Nr. 16.]
 :::
 
-#### Further examples {.unnumbered .unlisted}
+#### Further examples {.unnumbered}
 
 - Was hat das zu bedeuten?
 - Du hast ihm zu helfen!
@@ -255,7 +255,7 @@ In most contexts, the verb *denken* means 'to think, to believe'. In this meanin
 - ^^?^ (Es ist bekannt, dass) ich denke, ihn zu überraschen.
 :::
 
-#### Further examples {.unnumbered .unlisted}
+#### Further examples {.unnumbered}
 
 - Weil damals eine schicksalhafte Wahlschlacht anstand, die Putin für sich zu gewinnen dachte.^[~~DWDS~~: Die Zeit, 05.01.2006, Nr. 02.]
 - Der Prinz besah sich einige neue Juwelen, die er heimlich zu tragen dachte.^[~~DWDS~~: Klepper, Jochen: Der Vater, Gütersloh: Bertelsmann 1962 [1937], S. 452.]
@@ -307,7 +307,7 @@ Evidential interpretation of light-verb usage
 - *versprechen*: "The speaker has perceptual access to certain pieces of information which s/he interprets as pointing towards the described event (which is evaluated positively from the speaker’s point of view)." [@diewald2010: 209]
 :::
 
-#### Attested verbs {.unnumbered .unlisted}
+#### Attested verbs {.unnumbered}
 
 - *drohen*: there are no strict restrictions, though agentive verbs are atypical.
 - *versprechen*: not with agentive verbs, most frequently used with *werden, enthalten, weichen, bieten*.
@@ -331,11 +331,11 @@ This construction appears to be restricted to intransitive verbs. It might seem 
 - Wir dürfen nicht zulassen, dass die Stationierung von Truppen zum Surrogat für Politik wird und dass Truppen, die in der Absicht zu helfen gekommen sind, im Laufe der Zeit als Eindringlinge und Besatzer wahrgenommen werden.^[Attested online at >https://docplayer.org/40817735-Clausewitz-gesellschaft-e-v-jahrbuch-eine-zusammenfassung-von-beitraegen-aus-der-arbeit-der-gesellschaft-2006.html>, accessed 3 November 2021.]
 :::
 
-#### Attested verbs {.unnumbered .unlisted}
+#### Attested verbs {.unnumbered}
 
 - *liegen, wohnen, leben, glauben, blühen, sprechen, stehen*
 
-#### Further examples {.unnumbered .unlisted}
+#### Further examples {.unnumbered}
 
 - Er kam auf das Thema zu sprechen.
 - Sie kam neben mir zu stehen.
@@ -361,7 +361,7 @@ Similar to the previous *kommen+zu‑In­fi­ni­tiv* construction (see [@sec:zu
 - Die Nacht war dunkel, und ich bekam nachher den Jammerkerl zu packen.^[~~DWDS~~: Scheerbart, Paul: Immer mutig! In: Deutsche Literatur von Lessing bis Kafka, Berlin: Directmedia Publ. 2000 [1902], S. 144560.]
 :::
 
-#### Attested verbs {.unnumbered .unlisted}
+#### Attested verbs {.unnumbered}
 
 - Verbs of senation: *sehen, hören, spüren, fühlen, verspüren, kosten, merken, wissen* 
 - Verbs of consumption: *essen, lesen, trinken, kaufen, fressen, schlucken* 
@@ -380,7 +380,7 @@ The *sein+zu‑In­fi­ni­tiv* construction is typically used with transitive v
 - Zum Schutz von ein- und aussteigenden Fahrgästen ist langsam zu fahren und nötigenfalls anzuhalten.^[~~DWDS~~: o. A.: Verkehrskunde für die Führerscheinklassen 1-3--4, Remagen: Verkehrs-Verl. 1965, S. 109.]
 :::
 
-#### Attested verbs {.unnumbered .unlisted}
+#### Attested verbs {.unnumbered}
 
 - *anhalten, fahren, schlafen*
 
@@ -393,11 +393,11 @@ It is slightly more common to find impersonal *sein+zu‑In­fi­ni­tiv* constr
 - Mit ihm ist nicht zu spaßen.
 :::
 
-#### Attested verbs {.unnumbered .unlisted}
+#### Attested verbs {.unnumbered}
 
 - *antworten auf, arbeiten an, lachen über, spaßen mit, warten auf*
 
-#### Further examples {.unnumbered .unlisted}
+#### Further examples {.unnumbered}
 
 - Daran ist zu arbeiten.^[~~DWDS~~: Die Zeit, 28.10.1999, Nr. 44.]
 - Und noch über einen Engel ist zu lachen, wenn man der Erzengel ist.^[~~DWDS~~: Vischer, Friedrich Theodor von: Ästhetik oder Wissenschaft des Schönen. Bd. 1. Reutlingen u. a., 1846.]
@@ -411,11 +411,11 @@ Similar to the previous section, impersonal *sein+zu‑In­fi­ni­tiv* is possi
 - Auch ihm war nicht zu trauen.^[~~DWDS~~: Die Zeit, 15.09.2005, Nr. 38.]
 :::
 
-#### Attested verbs {.unnumbered .unlisted}
+#### Attested verbs {.unnumbered}
 
 - *beitreten, gedenken, gratulieren, helfen, trauen*
 
-#### Further examples {.unnumbered .unlisted}
+#### Further examples {.unnumbered}
 
 - Wer wirklich reif sein will für die Reifeprüfung, dem ist zu helfen.^[~~DWDS~~: Berliner Zeitung, 02.10.2000.]
 - Den tragenden Gründen dieser Stellungnahme ist beizutreten.^[~~DWDS~~: Die Zeit, 17.02.1984, Nr. 08.]
@@ -450,7 +450,7 @@ This construction is commonly used with an quantified adverb like *viel/genug/re
   Es gibt einen Preis zu gewinnen.
 :::
 
-#### Further examples {.unnumbered .unlisted}
+#### Further examples {.unnumbered}
 
 - Noch einen anderen Grund gibt es für Nadella die freien Hersteller zu umgarnen.^[~~DWDS~~: Die Zeit, 03.04.2014, Nr. 15.]
 - Es gibt jetzt wichtigeres zu tun.
@@ -471,7 +471,7 @@ The *gelten+zu‑In­fi­ni­tiv* construction is typically coherent, viz. the f
 - Das ist eine Tradition, die es gilt zu erinnern und zu erhalten.^[~~DWDS~~: Berliner Zeitung, 09.11.1996.]
 :::
 
-#### Further examples {.unnumbered .unlisted}
+#### Further examples {.unnumbered}
 
 - Da war also der Punkt an dem es einzusetzen galt.^[@bech1955: 220--222]
 - Das ist der Jackpot, den es für uns zu knacken gilt.^[~~DWDS~~: Die Zeit, 16.11.2010 (online).]
@@ -505,7 +505,7 @@ Except for the verbs of expectation, there are two incidental, but quite frequen
 - (Es ist bekannt, dass) das Haus zu verkaufen steht.
 :::
 
-#### Attested verbs {.unnumbered .unlisted}
+#### Attested verbs {.unnumbered}
 
 - Verbs of positive expectation: *bedenken, befürchten, erwarten, fürchten, hoffen, vermuten*
 - Verbs of negative expectation: *bezweifeln*
@@ -530,11 +530,11 @@ There is a special idiomatic construction *~~verb~~, was zu ~~verb~~ ging* [@nex
 - Was zu privatisieren ging, ist privatisiert.^[~~DWDS~~: Der Tagesspiegel, 14.07.2003.]
 :::
 
-#### Attested verbs {.unnumbered .unlisted}
+#### Attested verbs {.unnumbered}
 
 - *ändern, bauen, beheben, kitten, löschen, reparieren, rezipieren, schneiden, stopfen, verschließen*
 
-#### Further examples {.unnumbered .unlisted}
+#### Further examples {.unnumbered}
 
 - Dieses Glas geht nicht zu schneiden weil es Sicherheitsglas ist.^[Attested online at <https://www.gutefrage.net/frage/schneiden-einer-feuerfesten-scheibe>, accessed 8 November 2021.]
 - Leichtes Balsa geht zu schneiden, vor allem wenn es dunkles Balsa ist.^[Attested online at <https://www.rc-network.de/threads/portalfräse-mit-laser-nachrüsten.370360/page-4>, accessed 8 November 2021.]
@@ -581,7 +581,7 @@ Verbs without an accusative argument can be used in the *sein+zu‑In­fi­ni­t
 - Die Bücher sind am Schalter im Lesesaal zu bekommen.
 :::
 
-#### Attested verbs {.unnumbered .unlisted}
+#### Attested verbs {.unnumbered}
 
 The following verbs with accusative arguments do not allow for a *sein+zu‑In­fi­ni­tiv* passive. There is strong overlap with the verbs that do not allow for a *werden+Partizip* passive (cf. [@sec:participles-werden-passive]).
 
@@ -590,7 +590,7 @@ The following verbs with accusative arguments do not allow for a *sein+zu‑In­
 - Verbs of possession: *besitzen*
 - Other verbs without passive: *kennen, schmerzen (traurig machen, mit Akkusativ)*
 
-#### Further examples {.unnumbered .unlisted}
+#### Further examples {.unnumbered}
 
 - Ein Loblied ist zu singen auf dieses Buch.^[~~DWDS~~: Die Zeit, 09.06.2005, Nr. 24.]
 - Mein Rücktritt war nur politisch zu begründen.
@@ -599,7 +599,7 @@ The following verbs with accusative arguments do not allow for a *sein+zu‑In­
 - Das ist leicht zu rechnen.^[Attested online at <https://wohnwagen-forum.de/wwf/forum/index.php?thread/67750-stromzähler/&pageNo=2>, accessed 9 November 2021.]
 - Denn Leistung ist schwer zu messen.^[~~DWDS~~: Die Zeit, 21.09.2017 (online).]
 
-#### Notes {.unnumbered .unlisted}
+#### Notes {.unnumbered}
 
 The verb *kennen* 'to be acquainted with' used to be possible in this construction. The most recent example that I have been able to find is from Hugo von Hofmannsthal [@next].
 
@@ -629,13 +629,13 @@ This novative construction is also widely attested with other verbs, e.g. *trink
 - Als Großmütter ihren Enkeln mit der Flasche ungesüßte Schokolade zu trinken gaben.^[~~DWDS~~: Die Zeit, 07.03.2013, Nr. 11.]
 :::
 
-#### Attested verbs {.unnumbered .unlisted}
+#### Attested verbs {.unnumbered}
 
 - Verbs of cognition: *bedenken, denken, erkennen, erwägen, verstehen*
 - Verbs of consumption: *beißen, essen, fressen, trinken, saufen, schlucken*
 - Other agentive verbs: *leben, lesen, lernen, lösen, tragen, schaffen (arbeiten), tun*
 
-#### Further examples {.unnumbered .unlisted}
+#### Further examples {.unnumbered}
 
 - Er gibt dem Kind Milch zu trinken.
 - Er gibt mir viel zu tragen.
@@ -645,7 +645,7 @@ This novative construction is also widely attested with other verbs, e.g. *trink
 - »Das Blut dieser Frau komme über Sie und Ihre Kinder«, gab der Baron ihm noch zu schlucken.^[~~DWDS~~ A. Zweig, Junge Frau, S. 203.]
 - Die Liftjungen geben mir aber heute zu schaffen!^[~~DWDS~~: Kafka, Franz: Amerika. In: Deutsche Literatur von Lessing bis Kafka, Berlin: Directmedia Publ. 2000 [1914], S. 105459.]
 
-#### Notes {.unnumbered .unlisted}
+#### Notes {.unnumbered}
 
 The verb *leben* 'to live' is used in this construction with a slightly different meaning. As illustrated in [@next a] it does not mean 'to cause to live' but 'to predict to remain alive'. The *geben+zu‑In­fi­ni­tiv* construction with the verb *denken* 'to think' is typically stacked inside a modal *sollen/müssen+In­fi­ni­tiv* [@next b] or a perfect *haben+Partizip* [@next c].
 
@@ -706,12 +706,12 @@ The *bleiben+zu‑In­fi­ni­tiv* is commonly used with verbs that take a compl
 - Wir müssen Geduld haben, weil abzuwarten bleibt, ob Paul wirklich kommt.
 :::
 
-#### Attested verbs {.unnumbered .unlisted}
+#### Attested verbs {.unnumbered}
 
 - Verbs with complement clauses: *abwarten, beachten, berichten, diskutieren, entscheiden, erledigen, erwägen, hoffen, prüfen, sehen, untersuchen, wünschen*
 - Agentive verbs: *anmelden, berücksichtigen, einräumen, entdecken, klären, tun*
 
-#### Further examples {.unnumbered .unlisted}
+#### Further examples {.unnumbered}
 
 - Jetzt bleibt nur noch dieser eine Schrank einzuräumen.^[@colomo2010: 196]
 - Zu diskutieren bleibt der mögliche Molekularmechanismus der Konversion.^[~~DWDS~~: Bresch, Carsten: Klassische und molekulare Genetik, Berlin u. a.: Springer 1965 [1964], S. 174.]
@@ -721,7 +721,7 @@ The *bleiben+zu‑In­fi­ni­tiv* is commonly used with verbs that take a compl
 - Auf Erden bleibt der Kirche deshalb nichts anderes zu tun, als die Leidenden zu vertrösten auf den Jüngsten Tag.^[~~DWDS~~: Die Zeit, 16.09.2010, Nr. 38.]
 - Mir bleibt nur noch, Privatinsolvenz anzumelden.^[~~DWDS~~: Die Zeit, 22.09.2005, Nr. 39.]
 
-#### Notes {.unnumbered .unlisted}
+#### Notes {.unnumbered}
 
 The situation with verbs that take a dative argument, like *danken* 'to thank' or *antworten* 'to answer', needs more investigation. The *bleiben+zu‑In­fi­ni­tiv* construction seems to result in sentences with a double dative [@next b]. However, this construction does not appear to be coherent [@next c,d].
 
