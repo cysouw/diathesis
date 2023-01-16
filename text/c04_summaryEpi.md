@@ -393,7 +393,7 @@ c. (Es ist bekannt, dass) sie neben mir zu stehen kam.
 
 ### *Rezipientenkausativ* (*bekommen/kriegen+zu‑In­fi­ni­tiv*)
 
-The ~~(Verborgener) Rezipientenkausativ~~ (full discussion in [@sec:zuinfinitive-bekommen]) uses the light verbs *bekommen* or *kriegen* with a *zu‑In­fi­ni­tiv* [@next a,b]. Like with *kommen* (see [@sec:epithesis-zustandskausativ]), there is an unnamed force or agent that causes the situation to come about. The light verb *bekommen/kriegen* is typically combined with a transitive verb of sensation, like *sehen* 'to see', or consumption, like *essen* 'to eat'. By using this covert causative construction, the nominative subject is semantically depicted as an experiencer of the verb. The centrality of the experiencer role is reminiscent of the *Rezipientenpassiv* (see [@sec:summary-rezipientenpassiv]). However, in this construction there is no role-remapping, so it is not a diathesis.
+The ~~(Verborgener) Rezipientenkausativ~~ (full discussion in [@sec:zuinfinitive-bekommen]) consists of the light verbs *bekommen* or *kriegen* with a *zu‑In­fi­ni­tiv* [@next a,b]. Like with *kommen* (see [@sec:epithesis-zustandskausativ]), there is an unnamed force or agent that causes the situation to come about. The light verb *bekommen/kriegen* is typically combined with a transitive verb of sensation, like *sehen* 'to see', or consumption, like *essen* 'to eat'. By using this covert causative construction, the nominative subject is semantically depicted as an experiencer of the verb. The centrality of the experiencer role is reminiscent of the *Rezipientenpassiv* (see [@sec:summary-rezipientenpassiv]). However, in this construction there is no role-remapping, so it is not a diathesis.
 
 ::: ex
 a. Die Schüler sehen einen Film.

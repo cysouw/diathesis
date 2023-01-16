@@ -220,9 +220,9 @@ Not attested.
 
 ## Alternations without diathesis
 
-### --- Temporal Aspect --- {.unnumbered}
+###      --- Temporal Aspect --- {.unnumbered}
 
-### *sein+am‑In­fi­ni­tiv* Progressive (*Progressiv*) {#sec:zuminfinitive-sein-am}
+### *sein+am‑In­fi­ni­tiv* Progressive {#sec:zuminfinitive-sein-am}
 
 The *sein+am‑In­fi­ni­tiv* progressive has already extensively been investigated [@krause2002; @gargyan2010] and I will not repeat all results from those investigations here. This construction can be used with intransitive verbs to mark an ongoing activity [@next a]. It is considered colloquial and frowned upon in formal writing, but it is in widespread use. Transitive verbs can only be used with incorporated objects without article [@next b], which are arguably intransitive (see [@sec:case-incorporation]). The variant with a separated object without article is only used in a small patch at the Dutch border of the German-speaking area [@next c].^[Verlaufsform mit 'am'. In: Elspaß, Stephan & Robert Möller. 2003ff. Atlas zur deutschen Alltagssprache (AdA). Online at <https://www.atlas-alltagssprache.de/r10-f10abcd>, accessed 29 November 2021.]
 
@@ -236,9 +236,9 @@ The *sein+am‑In­fi­ni­tiv* progressive has already extensively been investi
 
 It is important to realise that this section only deals with the *sein+am‑In­fi­ni­tiv* construction. There are various other grammaticalised progressive constructions that are similar, but should be kept distinct. The *sein+im‑In­fi­ni­tiv* is a progressive of change (see [@sec:zuminfinitive-sein-im]) and the *bleiben+am‑In­fi­ni­tiv* construction is a continuative progressive (see [@sec:zuminfinitive-bleiben-am]). In contrast, the *sein+beim‑In­fi­ni­tiv* construction is not analysed as a progressive here, but as an absentive (see [@sec:zuminfinitiv-sein-beim]).
 
-### *sein+im‑In­fi­ni­tiv* Progressive change (*Mutativprogressiv*) {#sec:zuminfinitive-sein-im}
+### *sein+im‑In­fi­ni­tiv* Progressive change {#sec:zuminfinitive-sein-im}
 
-Gárgyán [-@gargyan2010: 42--43] only briefly mentions the *sein+im‑In­fi­ni­tiv* progressive as a variant of the *am* progressive. The *im* variant is frequently attested in the fixed expression *im Kommen sein* 'to be approaching' [@next a]. From a quick search in the ~~DWDS~~ corpus it is quite obvious that the *sein+im‑In­fi­ni­tiv* progressive has a straightforward semantic profile that is different from the *sein+am‑In­fi­ni­tiv*. The *im‑In­fi­ni­tiv* is used either for processes that are increasing, like *wachsen* 'to grow' [@next b] or for processes that are decreasing, like *abklingen* 'to abate' [@next b]. Summarising, the *sein+im‑In­fi­ni­tiv* is a progressive with an additional connotation that something is changing.
+Gárgyán [-@gargyan2010: 42--43] only briefly mentions the *sein+im‑In­fi­ni­tiv* progressive as a variant of the *am* progressive. The *im* variant is frequently attested in the fixed expression *im Kommen sein* 'to be approaching' [@next a]. From a quick search in the ~~DWDS~~ corpus it is quite obvious that the *sein+im‑In­fi­ni­tiv* progressive has a straightforward semantic profile that is different from the *sein+am‑In­fi­ni­tiv*. The *im‑In­fi­ni­tiv* is used either for processes that are increasing, like *wachsen* 'to grow' [@next b] or for processes that are decreasing, like *abklingen* 'to abate' [@next b]. Summarising, the *sein+im‑In­fi­ni­tiv* is a progressive with an additional connotation that something is changing. For that reason I propose to use the name ~~Mutativprogressiv~~ in German.
 
 ::: ex
 - Aber der Frühling ist im Kommen.^[~~DWDS~~: Langer Winter. Schneeschmelze | Texte, 2010-02-16.]
@@ -257,9 +257,9 @@ Gárgyán [-@gargyan2010: 42--43] only briefly mentions the *sein+im‑In­fi­n
 - Die nächste Husten-, Schnupfen- und Erkältungswelle ist im Anrollen.^[~~DWDS~~: Die Zeit, 15.11.2011, Nr. 46.]
 - Die Kommunistische Partei in Italien war im Erstarken.^[~~DWDS~~: Umerziehung in Westdeutschland. Eine Deutsche Weise, 2012-02-24.]
 
-### *bleiben+am‑In­fi­ni­tiv* Progressive continuative (*Kontinuativprogressiv*) {#sec:zuminfinitive-bleiben-am}
+### *bleiben+am‑In­fi­ni­tiv* Progressive continuative {#sec:zuminfinitive-bleiben-am}
 
-Parallel to the *sein* progressive there is also a *bleiben* progressive, which combines the progressive aspect with an added continuative aspectual meaning. The most frequent collocation is with the verb *leben* 'to live' [@next a], but many other agentive intransitive verbs can also be used in this construction. However, this construction appears to be less productive than the *sein* progressive.
+Parallel to the *sein* progressive there is also a *bleiben* progressive, which combines the progressive aspect with an added continuative aspectual meaning. For that reason I propose to call this diathesis ~~Kontinuativprogressiv~~ in German. The most frequent collocation is with the verb *leben* 'to live' [@next a], but many other agentive intransitive verbs can also be used in this construction. However, this construction appears to be less productive than the *sein* progressive.
 
 ::: ex
 - Also sind wenigstens die am Leben geblieben.^[~~DWDS~~: Kant, nicht Keller. Oder?. Not quite like Beethoven, 2009-11-19.]
@@ -277,11 +277,11 @@ Parallel to the *sein* progressive there is also a *bleiben* progressive, which 
 - Bestes Beispiel dafür, dass dieser Blog hauptsächlich durch Silkroad Artikel am leben bleibt.^[~~DWDS~~: Das Diamond Gaming Network eröffnet Silkroad Privatserver. the-pain.net, 2011-02-03.]
 - Dann seit ihr mit 16 Euro im Monat und viel Zeit auch bald 100ff und müsst nicht immer am jammern bleiben.^[~~DWDS~~: Russisches Silkroad Online angekündigt. the-pain.net, 2009-07-07.]
 
-### --- Spatial Aspect --- {.unnumbered}
+###      --- Spatial Aspect --- {.unnumbered}
 
-### *sein+beim‑In­fi­ni­tiv* Recurrent absence (*Absentivfrequentativ*) {#sec:zuminfinitiv-sein-beim}
+### *sein+beim‑In­fi­ni­tiv* Recurrent absence {#sec:zuminfinitiv-sein-beim}
 
-The *sein+beim‑In­fi­ni­tiv* construction [@next a] seems to be very similar to the *sein+am‑In­fi­ni­tiv* progressive [e.g. they are deemed functionally indistinguishable in @gargyan2010: 41--42]. However, that is the wrong comparison. The *sein+beim‑In­fi­ni­tiv* is actually functionally similar to the *sein+Infinitiv* absentive [@next b], see [@sec:infinitive-sein-absentive]. The *sein+beim‑In­fi­ni­tiv* likewise signifies that the subject is not present (absentive), but it adds an extra aspectual dimension, namely that the activity is performed regularly or habitually. I will use the term "frequentative" for this aspect.
+The *sein+beim‑In­fi­ni­tiv* construction [@next a] seems to be very similar to the *sein+am‑In­fi­ni­tiv* progressive [e.g. they are deemed functionally indistinguishable in @gargyan2010: 41--42]. However, that is the wrong comparison. The *sein+beim‑In­fi­ni­tiv* is actually functionally similar to the *sein+Infinitiv* absentive [@next b], see [@sec:infinitive-sein-absentive]. The *sein+beim‑In­fi­ni­tiv* likewise signifies that the subject is not present (absentive), but it adds an extra aspectual dimension, namely that the activity is performed regularly or habitually. I will use the term "frequentative" for this aspect and propose to call this diathesis ~~Absentivfrequentativ~~ in German.
 
 ::: ex
 - Ich bin beim Arbeiten.
@@ -330,9 +330,9 @@ The two examples in [@next] are further cases of the anticausative-like usage, a
 - Meine Diplomarbeit ist beim Binden.^[~~DWDS~~: verwaltungmodern.de, 2007-04-10.]
 :::
 
-### *gehen/fahren+zum‑In­fi­ni­tiv* Recurrent movement towards (*Abitivfrequentativ*) {#sec:zuminfinitive-gehen}
+### *gehen/fahren+zum‑In­fi­ni­tiv* Recurrent movement to {#sec:zuminfinitive-gehen}
 
-The *gehen/fahren+zum‑In­fi­ni­tiv* construction basically expresses a movement towards a place at which the verb will be performed. It is typically used with agentive intransitive verbs like *einkaufen* 'to shop' [@next a] or *schwimmen* 'to swim' [@next b]. There is a close connection to the *gehen/fahren+In­fi­ni­tiv* abitive construction, which also expresses a movement towards an activity (see [@sec:infinitive-gehen-abitive]). The current construction with the *zum‑In­fi­ni­tiv* adds a frequentative/habitual aspect to the activity. It is often attested with adverbs like *regelmäßig* to emphasise this aspectual notion.
+The *gehen/fahren+zum‑In­fi­ni­tiv* construction basically expresses a movement towards a place at which the verb will be performed. It is typically used with agentive intransitive verbs like *einkaufen* 'to shop' [@next a] or *schwimmen* 'to swim' [@next b]. There is a close connection to the *gehen/fahren+In­fi­ni­tiv* abitive construction, which also expresses a movement towards an activity (see [@sec:infinitive-gehen-abitive]). The current construction with the *zum‑In­fi­ni­tiv* adds a frequentative/habitual aspect to the activity, so I propose to use the name ~~Abitivfrequentativ~~ in German. It is often attested with adverbs like *regelmäßig* to emphasise this aspectual notion.
 
 ::: ex
 - Ich fahre gleich zum Einkaufen.
@@ -364,11 +364,11 @@ Care has to be taken not to confuse the current abitive-frequentative constructi
 
 - Das können wir nämlich deshalb so gut, weil wir immer mit den Kleinen zum Schlittenfahren gegangen sind.^[~~DWDS~~: Berliner Zeitung, 20.02.1998.]
 
-### *kommen+vom‑In­fi­ni­tiv* Recurrent movement from (*Aditivfrequentativ*) {#sec:zuminfinitive-kommen-vom}
+### *kommen+vom‑In­fi­ni­tiv* Recurrent movement from {#sec:zuminfinitive-kommen-vom}
 
 The opposite of the previous *gehen+zum‑In­fi­ni­tiv* (see [@sec:zuminfinitive-gehen]) is the *kommen+vom‑In­fi­ni­tiv* expressing movement towards [@next]. There is a straightforward change in preposition, opposing *gehen zum* 'to go to' with *kommen von* 'to come from'. There also exist a *kommen+zum‑In­fi­ni­tiv* construction, which, however, has a completely different semantics (see [@sec:zuminfinitive-kommen-zum] below). 
 
-Just like the previous *gehen+zum‑In­fi­ni­tiv*, the *kommen+vom‑In­fi­ni­tiv* has an additional frequentative/habitual aspect. This construction expresses that the movement is done regularly as a matter of habit. This stands in opposition to the *kommen+Infinitiv* aditive construction (without preposition *von*) that does not include this habitual aspect (see [@sec:infinitive-kommen-aditive]).
+Just like the previous *gehen+zum‑In­fi­ni­tiv*, the *kommen+vom‑In­fi­ni­tiv* has an additional frequentative/habitual aspect. This construction expresses that the movement is done regularly as a matter of habit. For that reason I propose to call this diathesis ~~Aditivfrequentativ~~ in German. This construction stands in opposition to the *kommen+Infinitiv* aditive construction (without preposition *von*) that does not include this habitual aspect (see [@sec:infinitive-kommen-aditive]).
 
 ::: ex
 - Er kommt vom Einkaufen.
@@ -386,7 +386,7 @@ This construction is very close to an adverbial modification as discussed in [@s
 
 Probably the same verbs as for the *gehen+zum‑In­fi­ni­tiv* (see [sec:zuminfinitive-gehen]) can be used for the *kommen+vom‑In­fi­ni­tiv*. They will not be repeated here.
 
-### *kommen+zum‑In­fi­ni­tiv* End of movement (*Bewegungsende*) {#sec:zuminfinitive-kommen-zum}
+### *kommen+zum‑In­fi­ni­tiv* End of movement {#sec:zuminfinitive-kommen-zum}
 
 The *kommen+zum‑In­fi­ni­tiv* has a very specific interpretation to indicate that a movement has reached an endpoint. For example *kommen zum Stehen* [@next a] means 'to grind to a halt'. The same construction can also be used metaphorically for other activities that come to a standstill, like the *Friedensverhandlungen* 'peace negotiations' in [@next b]. There only appear to be a handful of verbs that can be used in this construction and they all describe that a state is reached at the end of a movement. For want of a better term, I will use the German name ~~Bewegungsende~~ for this construction.
 
@@ -418,11 +418,11 @@ Besides this stative usage, there are a few other sentence patterns that look si
 
 ## Diatheses with subject demotion
 
-### --- [ PBJ > SBJ > Ø ] --- {.unnumbered}
+###      --- [ PBJ > SBJ > Ø ] --- {.unnumbered}
 
-### [ NP | –N ] *sein+zum‑In­fi­ni­tiv* Emotional trigger subject (*Auslösersubjektiv*) {#sec:zuminfinitive-sein-zum}
+### [ NP | –N ] *sein+zum‑In­fi­ni­tiv* Emotional trigger subject {#sec:zuminfinitive-sein-zum}
 
-The construction *sein+zum‑In­fi­ni­tiv* drops the nominative subject and promotes a governed preposition to subject. Such a role-remapping is rather unusual in German. In  another diathesis, the *Kreationsubjektiv* (see [@sec:prepositions-fabricative-accusative]), it is a creation manufactured by the subject that is promoted to subject. In the present construction, it is the trigger of an emotional reaction that is promoted to subject.
+The construction *sein+zum‑In­fi­ni­tiv* drops the nominative subject and promotes a governed preposition to subject. Such a role-remapping is rather unusual in German. In another diathesis, the *Kreationsubjektiv* (see [@sec:prepositions-fabricative-accusative]), it is a creation manufactured by the subject that is promoted to subject. In the present construction, it is the trigger of an emotional reaction that is promoted to subject. For that reason I propose to call this diathesis ~~Auslösersubjektiv~~ in German.
 
 The *sein+zum‑In­fi­ni­tiv* diathesis appears only to apply to verbs of emotion, like *heulen* 'to cry' [@next]. This emotion is triggered by something which is expressed with an *über* governed prepositional phrase [@next a]. Using this diathesis, the trigger is promoted to subject and the original subject is dropped and cannot be retained in any form [@next b]. Typically this diathesis is used without explicitly expressing the trigger at all. As a result, the new sentence after the diathesis lacks a subject, and thus a valency-simulating pronoun *es* is commonly attested in this construction [@next c].
 
@@ -445,11 +445,13 @@ c. Es ist zum Heulen.
 
 ## Diatheses with promotion to subject
 
-### --- [ Ø > SBJ > OBJ ] --- {.unnumbered}
+###      --- [ Ø > SBJ > OBJ ] --- {.unnumbered}
 
-### [ –N | NA ] *halten+am‑In­fi­ni­tiv* Continuative causative (*Fortsetzungskausativ*) {#sec:zuminfinitive-halten-causative}
+### [ –N | NA ] *halten+am‑In­fi­ni­tiv* Continuative causative {#sec:zuminfinitive-halten-causative}
 
-The *halten+am‑In­fi­ni­tiv* construction is used with agentive intransitive verbs, most typically with *laufen* 'to walk' [@next a]. However, the subject of the agentive intransitive has to be an inanimate entity for the diathesis to be possible. The *halten+am‑In­fi­ni­tiv* diathesis adds a new participant to the intransitive event that causes the process to continue. This construction is also frequently attested with verbs describing heat production, like *kochen* 'to cook' [@next b]. However, these cooking verbs appear to be mostly used in a metaphorical sense. Surely, expression like *halten am Kochen* 'to keep something cooking' can be used in a literal sense in a conversation about cooking. However, such expressions are more frequently used in a metaphorical sense of 'to keep the discussion alive' [@next b].
+The *halten+am‑In­fi­ni­tiv* construction is used with agentive intransitive verbs, most typically with *laufen* 'to walk' [@next a]. However, the subject of the agentive intransitive has to be an inanimate entity for the diathesis to be possible. The *halten+am‑In­fi­ni­tiv* diathesis adds a new participant to the intransitive event that causes the process to continue. For this reason I propose to use the name ~~Fortsetzungskausativ~~ in German.
+
+This construction is also frequently attested with verbs describing heat production, like *kochen* 'to cook' [@next b]. However, these cooking verbs appear to be mostly used in a metaphorical sense. Surely, expression like *halten am Kochen* 'to keep something cooking' can be used in a literal sense in a conversation about cooking. However, such expressions are more frequently used in a metaphorical sense of 'to keep the discussion alive' [@next b].
 
 ::: ex
 - Der so erzeugte Druck hielt die Partnerschaft am Laufen.^[~~DWDS~~: Berliner Zeitung, 28.05.1999.]
@@ -463,7 +465,7 @@ There are also some examples with the light verb *erhalten* instead of *halten* 
 - Das Feuer, das den Geist der Liebe lebendig erhält, kann nur von oben her entzündet und am Brennen erhalten werden.^[~~DWDS~~: Die Zeit, 02.08.1951, Nr. 31.]
 :::
 
-The semantically opposite *hindern am* 'to prevent' is not (yet) grammaticalised. Although it is frequently used with *am+In­fi­ni­tiv* [@next a], it does not show the characteristics of a grammaticalised *Präpositions­in­fi­ni­tiv* (see [@sec:zuminfinitive-structure]). For example, it can be used with an adjectival modifier [@next b] and the preposition *am* can also be separated into *an dem* [@next c].
+The semantically opposite construction *hindern am* 'to prevent' is not (yet) grammaticalised. Although it is frequently used with *am+In­fi­ni­tiv* [@next a], it does not show the characteristics of a grammaticalised *Präpositions­in­fi­ni­tiv* (see [@sec:zuminfinitive-structure]). For example, it can be used with an adjectival modifier [@next b] and the preposition *am* can also be separated into *an dem* [@next c].
 
 ::: ex
 - Zwei Zeugen hätten die sechsköpfige Gruppe am Betreten gehindert.^[~~DWDS~~: Die Zeit, 14.03.2014, Nr. 11.]
@@ -494,9 +496,9 @@ Not attested.
 
 ## Symmetrical diatheses
 
-### --- [ OBJ > SBJ > OBJ ] --- {.unnumbered}
+###      --- [ OBJ > SBJ > OBJ ] --- {.unnumbered}
 
-### [ DN | NA ] *haben+am‑In­fi­ni­tiv* Dative inversive (*Pertinenzinversiv*) {#sec:zuminfinitive-haben-am}
+### [ DN | NA ] *haben+am‑In­fi­ni­tiv* Dative inversive {#sec:zuminfinitive-haben-am}
 
 The *haben+am‑In­fi­ni­tiv* construction is a fascinating construction that needs much more research [cf. @businger2017: 323--325]. It is a colloquial construction that is virtually unattested in traditional corpora. However, in more informal usage online it is reasonably easy to find examples.
 

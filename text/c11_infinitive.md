@@ -269,42 +269,9 @@ There do not appear to be any infinitives that do not also occur as a finite ver
 
 ## Alternations without diathesis
 
-### --- Aspect  --- {.unnumbered}
+###      --- Aspect  --- {.unnumbered}
 
-### *tun+In­fi­ni­tiv* Verb focus {#sec:infinitive-tun}
-
-The *tun+In­fi­ni­tiv* construction [@schwarz2004] is considered substandard and frowned upon in written German [@next a]. However, it is widespread in German dialects and also frequent in the spoken standard language [@erb2001: Ch. 5]. The acceptability is strongly improved for many German speakers with fronting of the infinitive [@next b], putting focus on the verb meaning and losing any aspectual implication [@schwarz2004: 15--18]. This second usage is more akin to English *do*-support than to a progressive aspect.
-
-::: ex
-- ^^?^ Ich tu dir das Buch schenken.
-- Schenken tu ich dir das Buch.
-:::
-
-### *bleiben+In­fi­ni­tiv* Continuative (*Zustandskontinuativ*) {#sec:infinitive-bleiben}
-
-The construction *bleiben+In­fi­ni­tiv* [cf. @eisenberg2006a: 351; @engel1996: 476] is typically used with position verbs like *sitzen* 'to sit' or *liegen* 'to lie' [@next a]. This construction with *bleiben* indicates that the position is being maintained. Transitive verbs also appear to be possible, but examples are difficult to find [@next b], see also further examples below. Note that the combination of *bleiben* with an infinitive of a position verb is often considered to be a single word in German orthography [@next c]. This construction does not induce an ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next c].
-
-::: ex
-- Nora bleibt morgens immer ewig liegen.^[@schlucker2007: 142]
-- ^^?^ Er bleibt ihr Briefe schicken.
-- Nora ist morgens immer liegengeblieben. (\*liegenbleiben)
-:::
-
-#### Attested verbs {.unnumbered}
-
-- Single words from the ~~DWDS~~ dictionary: *stehenbleiben, klebenkleiben, hängenbleiben, liegenbleiben, sitzenbleiben, steckenbleiben*
-- Other stative verbs: *bestehen, erhalten, haften, hocken, wohnen*
-- Other verbs: *laufen, leben, schicken, vergessen*
-
-#### Further examples {.unnumbered}
-
-- Drehe ich den Regler wieder nach rechts um Warmwasser zu fragen geht der Brenner wieder an und bleibt laufen obwohl kein Warmwasser gezapft wird.^[Attested online at <https://www.haustechnikdialog.de/Forum/t/242166/Viessmann-Vitopend-100-bleibt-laufen>, accessed 24 September 2021.]
-- Und wenn jemanden eine Schlange biss, so sah er die eherne Schlange an und blieb leben.^[Lutherbibel 1984: 4.Mose 21:9]
-- Die TPP-Grundzüge bleiben erhalten.^[~~DWDS~~: Die Zeit, 28.11.2017 (online).]
-- Seine künstlerischen Leistungen bleiben bestehen, auch wenn man sie nun in anderem Licht betrachtet.^[~~DWDS~~: Die Zeit, 07.11.2017 (online).]
-- Immer mehr bleiben hocken, wenn eine neue Übung beginnt.^[~~DWDS~~: Berliner Zeitung, 25.01.1996.]
-
-### *sein+In­fi­ni­tiv* Absentive (*Absentiv*) {#sec:infinitive-sein-absentive}
+### *sein+In­fi­ni­tiv* Absentive {#sec:infinitive-sein-absentive}
 
 The ~~Absentive~~ is a construction that expresses that the subject participant is currently not present because of an activity that is being pursued. The grammatical concept was originally proposed by de Groot [-@groot2000]. For German, this phenomenon is widely discussed in the literature [cf. @vogel2007: 269ff.; @abraham2008; @konig2009].
 
@@ -331,7 +298,7 @@ The absentive can only be used with verbs that clearly include agency, so typica
 - Agentive verbs: *arbeiten, bringen, laufen, rennen, schlafen, schwimmen, zurückbringen*
 - Not possible with non-agentive verbs: *abkühlen, ankommen, aufstehen, bluten, einschlafen, fallen, husten, niesen, scheitern, stürzen, verrosten, wachsen, weinen*
 
-### *gehen/fahren+In­fi­ni­tiv* Abitive (*Abitiv*) {#sec:infinitive-gehen-abitive}
+### *gehen/fahren+In­fi­ni­tiv* Abitive {#sec:infinitive-gehen-abitive}
 
 Parallel to the *sein+In­fi­ni­tiv* absentive, the light verbs *gehen* 'to go' and *fahren* 'to drive' can also be used to indicate (intended) absence because of an activity [@next a]. In accordance to their lexical meaning, these two light verbs place a focus on the movement away, leading to the absence. I propose the term ~~abitive~~ (from Lat. *abire* 'to depart, to go away') for this construction. This term explicitly evokes a relation to the ~~ablative~~, which is a nominal category that expresses a motion away from something. The verbal abitive construction does not induce an ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next c].
 
@@ -346,7 +313,7 @@ Parallel to the *sein+In­fi­ni­tiv* absentive, the light verbs *gehen* 'to go
 
 Probably exactly the same verbs as can be used with *sein+In­fi­ni­tiv* absentive can also be used with *gehen/fahren+In­fi­ni­tiv*, so they will not be repeated here (see [@sec:infinitive-sein-absentive]).
 
-### *kommen+In­fi­ni­tiv* Aditive (*Aditiv*) {#sec:infinitive-kommen-aditive}
+### *kommen+In­fi­ni­tiv* Aditive {#sec:infinitive-kommen-aditive}
 
 Contrasting to the *gehen/fahren+In­fi­ni­tiv* abitive there is also a *kommen+In­fi­ni­tiv* construction to express a movement towards a location where an activity takes place [@next a]. I propose the term ~~aditive~~ (from Lat. *adire* 'to approach') for this verbal category. The parallel nominal case is called ~~allative~~, which also includes the prefix *ad-*, though with internal sandhi. This verbal aditive construction does not induce an ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next b].
 
@@ -359,7 +326,31 @@ Contrasting to the *gehen/fahren+In­fi­ni­tiv* abitive there is also a *komme
 
 - probably exactly the same verbs as can be used with *sein+In­fi­ni­tiv* absentive can also be used with *kommen+In­fi­ni­tiv* (see [@sec:infinitive-sein-absentive]).
 
-### *haben+In­fi­ni­tiv* Fortunative (*Fortunativ*) {#sec:infinitive-haben-adverbial}
+### *bleiben+In­fi­ni­tiv* Continuative {#sec:infinitive-bleiben}
+
+The construction *bleiben+In­fi­ni­tiv* [cf. @eisenberg2006a: 351; @engel1996: 476] is typically used with position verbs like *sitzen* 'to sit' or *liegen* 'to lie' [@next a]. This construction with *bleiben* indicates that the position is being maintained. Transitive verbs also appear to be possible, but examples are difficult to find [@next b], see also further examples below. Note that the combination of *bleiben* with an infinitive of a position verb is often considered to be a single word in German orthography [@next c]. This construction does not induce an ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next c].
+
+::: ex
+- Nora bleibt morgens immer ewig liegen.^[@schlucker2007: 142]
+- ^^?^ Er bleibt ihr Briefe schicken.
+- Nora ist morgens immer liegengeblieben. (\*liegenbleiben)
+:::
+
+#### Attested verbs {.unnumbered}
+
+- Single words from the ~~DWDS~~ dictionary: *stehenbleiben, klebenkleiben, hängenbleiben, liegenbleiben, sitzenbleiben, steckenbleiben*
+- Other stative verbs: *bestehen, erhalten, haften, hocken, wohnen*
+- Other verbs: *laufen, leben, schicken, vergessen*
+
+#### Further examples {.unnumbered}
+
+- Drehe ich den Regler wieder nach rechts um Warmwasser zu fragen geht der Brenner wieder an und bleibt laufen obwohl kein Warmwasser gezapft wird.^[Attested online at <https://www.haustechnikdialog.de/Forum/t/242166/Viessmann-Vitopend-100-bleibt-laufen>, accessed 24 September 2021.]
+- Und wenn jemanden eine Schlange biss, so sah er die eherne Schlange an und blieb leben.^[Lutherbibel 1984: 4.Mose 21:9]
+- Die TPP-Grundzüge bleiben erhalten.^[~~DWDS~~: Die Zeit, 28.11.2017 (online).]
+- Seine künstlerischen Leistungen bleiben bestehen, auch wenn man sie nun in anderem Licht betrachtet.^[~~DWDS~~: Die Zeit, 07.11.2017 (online).]
+- Immer mehr bleiben hocken, wenn eine neue Übung beginnt.^[~~DWDS~~: Berliner Zeitung, 25.01.1996.]
+
+### *haben+In­fi­ni­tiv* Fortunative {#sec:infinitive-haben-adverbial}
 
 The construction *haben+In­fi­ni­tiv* describes a situation in which the subject is in a fortunate situation to do something, so I propose to call this construction ~~fortunative~~ (from Lat. *fortunatus* 'blessed, lucky'). This construction obligatorily needs an adverb, most frequently *leicht* 'easy' [@next a] or *gut* 'well' [@next b]. Only incidentally other adverbs are attested, like *klug* 'clever' [@next c]. The main verb seems to be restricted to intransitives, most frequent are *reden* 'to talk' and *lachen* 'to laugh'. Utterance verbs appear to be particularly common in this construction. The only examples with transitive verbs involve incorporated-like objects, which makes such constructions arguably intransitive [@next d].
 
@@ -374,11 +365,6 @@ This construction with *haben* is closely related to similar constructions with 
 - Wer im Rohr sitzt, hat gut Pfeifen schneiden.^[~~DWDS~~: Wander, Karl Friedrich Wilhelm (Hrsg.): Deutsches Sprichwörter-Lexikon. Bd. 3. Leipzig, 1873.]
 :::
 
-#### Attested verbs {.unnumbered}
-
-- Utterance verbs: *protzen, reden, sagen, schimpfen, trösten, verbieten*
-- Others: *beweisen, lachen, regieren*
-
 #### Further examples {.unnumbered}
 
 - Jungen haben leicht sagen: "Mädchen sind doof."^[~~DWDS~~: Die Zeit, 20.10.1978, Nr. 43.]
@@ -387,7 +373,21 @@ This construction with *haben* is closely related to similar constructions with 
 - Der Herr Baron hat leicht trösten; ich bin und bleib' unglücklich, wenn ich meinen Casperl nimmer sieh.^[~~DWDS~~: Pocci, Franz von: Lustiges Komödienbüchlein. Bd. 4. München, 1871.]
 - Wer aber geliebt ist, hat leicht regieren.^[~~DWDS~~: Eckermann, Johann Peter: Gespräche mit Goethe in den letzten Jahren seines Lebens. Bd. 3. Leipzig, 1848.]
 
-### --- Modality --- {.unnumbered}
+### *tun+In­fi­ni­tiv* Progressive/Verb focus {#sec:infinitive-tun}
+
+The *tun+In­fi­ni­tiv* construction [@schwarz2004] is considered substandard and frowned upon in written German [@next a]. However, it is widespread in German dialects and also frequent in the spoken standard language [@erb2001: Ch. 5]. The acceptability is strongly improved for many German speakers with fronting of the infinitive [@next b], putting focus on the verb meaning and losing any aspectual implication [@schwarz2004: 15--18]. This second usage is more akin to English *do*-support than to a progressive aspect.
+
+::: ex
+- ^^?^ Ich tu dir das Buch schenken.
+- Schenken tu ich dir das Buch.
+:::
+
+#### Attested verbs {.unnumbered}
+
+- Utterance verbs: *protzen, reden, sagen, schimpfen, trösten, verbieten*
+- Others: *beweisen, lachen, regieren*
+
+###      --- Modality --- {.unnumbered}
 
 The traditional modal verbs *dürfen/können/mögen/müssen/sollen/wollen* and the modal-like light verbs *werden* and *brauchen* are frequently used in constructions with infinitives. There do not seem to be any restrictions on which verbs can occur as infinitives in such constructions. This is noteworthy because all other constructions as discussed in this book have restrictions on the verbs that can be used with them (cf. [@sec:intro-domain-of-application])
 
@@ -443,7 +443,7 @@ It is undecidable whether the *werden+In­fi­ni­tiv* construction induces an ~
   (= stack of *werden+In­fi­ni­tiv* +> *gehören+Partizip Normpassiv*)
 :::
 
-### --- Other epitheses --- {.unnumbered}
+###      --- Other epitheses --- {.unnumbered}
 
 ### *lassen+In­fi­ni­tiv* Reflexive intransitive {#sec:infinitive-intransitive-lassen-epithesis}
 
@@ -506,11 +506,11 @@ Er legt sich schlafen.
 
 ## Diatheses with subject demotion
 
-### --- [ SBJ > Ø ] --- {.unnumbered}
+###      --- [ SBJ > Ø ] --- {.unnumbered}
 
-### [ N | – ] *lassen+In­fi­ni­tiv* Reflexive impersonal+evaluative (*Möglichkeitsbewertung*) {#sec:infinitive-lassen-reflexive-intransitive}
+### [ N | – ] *lassen+In­fi­ni­tiv* Reflexive impersonal+evaluative {#sec:infinitive-lassen-reflexive-intransitive}
 
-When used with intransitive verbs like *arbeiten* 'to work' [@next a], the construction *lassen+In­fi­ni­tiv* leads to an impersonal construction removing the nominative subject. This construction obligatorily includes a reflexive pronoun and an adverbial that expresses an evaluation, like *gut* 'well' [@next b]. The expected valency-simulating pronoun *es* is typically present, but it seems possible to leave it out. The conditioning of the presence or absence of *es* needs more investigation [cf. @kunze1996: 649]. Besides the obvious evaluation as given by the adverb, this diatheses adds an epistemic notion of possibility to the meaning of the verb. There is a clear parallel to the impersonal construction without *lassen* in [@next c], see [@sec:adverbial-reflexive-drop]. This *lassen+In­fi­ni­tiv* diathesis invokes an *ErsatzIn­fi­ni­tiv* [@next d].
+When used with intransitive verbs like *arbeiten* 'to work' [@next a], the construction *lassen+In­fi­ni­tiv* leads to an impersonal construction removing the nominative subject. This construction obligatorily includes a reflexive pronoun and an adverbial that expresses an evaluation, like *gut* 'well' [@next b]. The expected valency-simulating pronoun *es* is typically present, but it seems possible to leave it out. The conditioning of the presence or absence of *es* needs more investigation [cf. @kunze1996: 649]. Besides the obvious evaluation as given by the adverb, this diatheses adds an epistemic notion of possibility to the meaning of the verb. I propose to call this diathesis ~~Möglichkeitsbewertung~~ in German. There is a clear parallel to the impersonal construction without *lassen* in [@next c], see [@sec:adverbial-reflexive-drop]. This *lassen+In­fi­ni­tiv* diathesis invokes an *ErsatzIn­fi­ni­tiv* [@next d].
 
 ::: ex
 a. Ich arbeite zuhause.
@@ -555,7 +555,7 @@ d. ^* Hier lässt es sich schwer bluten.
 - An der frischen Luft lässt es sich frei atmen.
 - Auf unbefestigtem Gelände läßt sich freier agieren.^[~~DWDS~~: Berliner Zeitung, 06.11.1997.]
 
-### [ NP | –P ] *lassen+In­fi­ni­tiv* Reflexive impersonal+governed preposition {#sec:infinitive-lassen-reflexive-intransitive-governed}
+### [ NP | –P ] *lassen+In­fi­ni­tiv* Reflexive impersonal+preposition {#sec:infinitive-lassen-reflexive-intransitive-governed}
 
 Intransitive verbs with a governed prepositional phrases, like *zweifeln* 'to doubt' [@next a], show an impersonal *lassen+Reflexiv* diathesis similar to the previous one. When the governed prepositional phrase is expressed (below with the preposition *an*), then there are various syntactic difference to real intransitives. First, the adverbial evaluation does not appear to be necessary anymore. Second, the status of the valency-simulating *es* is unclear in such examples, though my impression is that with governed prepositional phrases the pronoun *es* is left out by default [@next b]. Whether there really is a difference in the status of *es* depending on the presence of governed prepositional phrases needs more research.
 
@@ -580,9 +580,11 @@ b. ^* Nach Fisch lässt (es) sich stinken.
 
 - Über das Wetter lässt sich schlecht streiten.^[~~DWDS~~: Die Zeit, 02.03.2017 (online).]
 
-### [ N | – ] *sein+Infinitiv* Impersonal+evaluative (*Zustandsbewertung*) {#sec:infinitive-sein-adverbial}
+### [ N | – ] *sein+Infinitiv* Impersonal+evaluative {#sec:infinitive-sein-adverbial}
 
-As attested in the famous German saying *Im Dunkeln ist gut munkeln*, this diathesis is rather formulaic, but astonishingly widespread and productive. It consists of the verb *sein* with an infinitive and an evaluative adverb. Only the adverbs *gut, schlecht, leicht* and *schwer* appear to be possible. This diathesis is highly frequent with a location phrase [@next a]. However, other adverbial phrases are also attested [@next b]. The verbs used in this diathesis are typically agentive, though incidental examples with patientive verbs are also attested, like with *einschlafen* [@next c], see also the further examples below.
+As attested in the famous German saying *Im Dunkeln ist gut munkeln*, this diathesis is rather formulaic, but astonishingly widespread and productive. It consists of the verb *sein* with an infinitive and an evaluative adverb. Only the adverbs *gut, schlecht, leicht* and *schwer* appear to be possible. I propose to use the German name ~~Zustandsbewertung~~ for this diathesis.
+
+This diathesis is frequently attested with an additional location phrase [@next a]. However, other adverbial phrases are also attested [@next b]. The verbs used in this diathesis are typically agentive, though incidental examples with patientive verbs are also attested, like with *einschlafen* [@next c], see also the further examples below.
 
 ::: ex
 - Auf der Terrasse des Kulm ist gut verweilen.^[~~DWDS~~: Die Zeit, 13.12.1996, Nr. 51.]
@@ -604,11 +606,11 @@ As attested in the famous German saying *Im Dunkeln ist gut munkeln*, this diath
 - Katholisch bin und heiße ich, katholisch leb’ und sterbe ich, so kann ich nicht verderben, katholisch ist gut sterben.^[~~DWDS~~: Die Zeit, 28.06.1968, Nr. 26.]
 - Hier ist gut Ankommen und Bleiben.^[Capitalisation as attested online at <https://www.evangelisch.de/blogs/stilvoll-glauben/133455/07-04--2016>, accessed 26 September 2022.]
 
-### --- [ SBJ > ADJ ] --- {.unnumbered}
+###      --- [ SBJ > ADJ ] --- {.unnumbered}
 
-### [ N | p ] *heißen+In­fi­ni­tiv* Modal subject demotion (*Aufforderungsdesubjektiv*) {#sec:infinitive-heißen-demotion}
+### [ N | p ] *heißen+In­fi­ni­tiv* Modal subject demotion {#sec:infinitive-heißen-demotion}
 
-The light verb *heißen* with an infinitive appears in various different constructions. One of them is the widespread desubjective usage with intransitive verbs, like with *warten* 'to wait' [@next a]. The original subject is demoted, but can optionally be retained as a *für* prepositional phrase. As there is no new subject introduced, an obligatory valency-simulating pronoun *es* is introduced. 
+The light verb *heißen* with an infinitive appears in various different constructions. One of them is the widespread desubjective usage with intransitive verbs, like with *warten* 'to wait' [@next a]. The original subject is demoted, but can optionally be retained as a *für* prepositional phrase. As there is no new subject introduced, an obligatory valency-simulating pronoun *es* is introduced. In German I propose to use the term ~~Aufforderungsdesubjektiv~~ for this diathesis.
 
 Transitive verbs can be used in this construction, but only when the object does not have an article [@next b]. Such objects can be interpreted as incorporated objects, and there is a recurrent debate in German orthography whether such objects should be written separated by a space or not. Semantically, this *heißen+In­fi­ni­tiv* construction is very close to the *gelten+zu‑In­fi­ni­tiv* (see [@sec:zuinfinitive-gelten-demotion]). Both express a kind of externally induced necessity (i.e. a modal *müssen*).
 
@@ -638,9 +640,9 @@ Exactly the same construction *heißen+In­fi­ni­tiv* can be also be used as a
 - Intransitive verbs: *warten*
 - Transitive verbs without objects or with incorporated objects: *Daumen drücken*
 
-### --- [ OBJ > SBJ > ADJ ] --- {.unnumbered}
+###      --- [ OBJ > SBJ > ADJ ] --- {.unnumbered}
 
-### [ NA | pN ] *lassen+In­fi­ni­tiv* Reflexive passive (*Permissivpassiv*) {#sec:infinitive-lassen-reflexive-passive}
+### [ NA | pN ] *lassen+In­fi­ni­tiv* Reflexive passive {#sec:infinitive-lassen-reflexive-passive}
 
 With most transitive verbs the light verb *lassen* with a reflexive pronoun and an infinitive results in a passive diathesis with an epistemic interpretation that something is possible, like with *schließen* 'to close' [@next]. The original subject can be retained as an optional prepositional phrase with *von*. This diathesis invokes an *ErsatzIn­fi­ni­tiv* [@next c].
 
@@ -717,7 +719,7 @@ A few verbs, like *übersehen* 'to overlook' [@next a] or *erläutern* 'to eluci
 - Jemand treibt dem Leben den Ernst aus. \
   Dem Leben lässt sich der Ernst […] nicht austreiben.^[~~DWDS~~: Die Zeit, 31.03.2010, Nr. 14.]
 
-### [ ND | pN ] *lassen+In­fi­ni­tiv* Dative reflexive passive {#sec:infinitive-lassen-dative-reflexive}
+### [ ND | pN ] *lassen+In­fi­ni­tiv* Dative reflexive passive {#sec:infinitive-lassen-dative-reflexive}
 
 A small group of verbs, like *helfen* 'to help' [@next a] and *gratulieren* 'to congratulate' [@next b] show a dative reflexive passive with a permissive interpretation. Crucially, in this diathesis the original dative is turned into a nominative subject while the old subject is demoted to a *von* prepositional phrase. The obligatory reflexive pronoun is in the dative [@next b]. This diathesis obligatory has an *ErsatzIn­fi­ni­tiv* [@next c].
 
@@ -744,9 +746,9 @@ There seem to be only very few verbs with a dative (but not accusative) that all
 - Jemand entflieht dem Landleben. \
   Doch diesem Landleben lässt sich auch leicht entfliehen.^[~~DWDS~~: Die Zeit, 01.06.2011, Nr. 23.]
 
-### --- [ OBJ > SBJ > PBJ ] --- {.unnumbered}
+###      --- [ OBJ > SBJ > PBJ ] --- {.unnumbered}
 
-### [ NA | PN ] *lassen+In­fi­ni­tiv* Reflexive conversive (*Permissivkonversiv*) {#sec:infinitive-lassen-reflexive-conversive}
+### [ NA | PN ] *lassen+In­fi­ni­tiv* Reflexive conversive {#sec:infinitive-lassen-reflexive-conversive}
 
 For some transitive verbs the *lassen+Infinitiv+Reflexiv* diathesis has a slightly different structure and interpretation from the previously described passives (see [@sec:infinitive-lassen-reflexive-passive]). For example, this diathesis with *empören* 'to appall' [@next a,b] only has a permissive interpretation ('allowing something to happen') [@next c]. The epistemic interpretation ('it is possible that something happens') is not available [@next d]. This restriction is consistent with the fact that the new subject in this diathesis is always human. This usage of *lassen* necessarily needs an *ErsatzIn­fi­ni­tiv* [@next e].
 
@@ -758,7 +760,7 @@ d. (≠ Es ist nicht möglich, dass er von diesem Witz empört wird.)
 e. Er hat sich nicht empören lassen. (\*gelassen)
 :::
 
-This diathesis is attested for a subset of those verbs that allow for a reflexive conversive (see [@sec:reflexive-preposition-passive]). For example, *empören* allows a reflexive conversive with retention of the original subject as an *über* governed prepositional phrase [@next a]. In contrast, the governed preposition in the *lassen+Infinitiv+Reflexiv* diathesis is always *von* [@next b]. 
+This diathesis is attested for a subset of those verbs that allow for a reflexive conversive (see [@sec:reflexive-preposition-passive]). For example, *empören* allows a reflexive conversive with retention of the original subject as an *über* governed prepositional phrase [@next a]. In contrast, the governed preposition in the *lassen+Infinitiv+Reflexiv* diathesis is always *von* [@next b]. Because of the conversive syntax and the permissiv semantics I propose to call the diathesis ~~Permissivkonversiv~~ in German.
 
 ::: ex
 - Er empört sich über den Witz. \
@@ -798,9 +800,9 @@ b. Ich lasse mich von diesem Witz begeistern.
 
 ## Diatheses with promotion to subject {#sec:infinitive-promotion-to-subject}
 
-### --- [ Ø > SBJ > ADJ ] --- {.unnumbered}
+###      --- [ Ø > SBJ > ADJ ] --- {.unnumbered}
 
-### [ –NA | NpA ] *lassen+In­fi­ni­tiv* Passive causative (*Passivkausativ*) {#sec:infinitive-lassen-passive-causative}
+### [ –NA | NpA ] *lassen+In­fi­ni­tiv* Passive causative {#sec:infinitive-lassen-passive-causative}
 
 The *lassen+In­fi­ni­tiv* causative diathesis can be used with almost all German verbs, as discussed in the next [@sec:infinitive-lassen-causative]. In that diathesis, the original nominative subject is demoted to an accusative [@next a]. However, there also exists a variant of that causative, which will be discussed in this section. In this variant, the original nominative is expressed with a *von* prepositional phrase [@next b], or it can even be dropped altogether [@next c]. This results in an embedded "passive" reading with an unknown agent [cf. @enzinger2012: 26]. The resulting construction obligatorily takes an *ErsatzIn­fi­ni­tiv* [@next d].
 
@@ -933,9 +935,9 @@ These options might appear obviously different, but in practice it is often quit
 
 Table: Analysis of the sentences in [@last] {#tbl:lassen-analysis}
 
-### --- [ Ø > SBJ > OBJ ] --- {.unnumbered}
+###      --- [ Ø > SBJ > OBJ ] --- {.unnumbered}
 
-### [ –N | NA ] *lassen+In­fi­ni­tiv* Permissive causative (*Permissivkausativ*) {#sec:infinitive-lassen-causative}
+### [ –N | NA ] *lassen+In­fi­ni­tiv* Permissive causative {#sec:infinitive-lassen-causative}
 
 Although the *lassen+In­fi­ni­tiv* is widely acknowledged in German grammar as a causative, the actual semantics are more variable than that. Basically there seem to be two major interpretations, a causative and a permissive [@next b]. Consequently, I propose to call this diathesis *Permissivkausativ*. Enzinger [-@enzinger2012: 6--7] calls the permissive reading *Kontinuativ* as this interpretation typically expresses that a situation is allowed to persist or continue. This diathesis typically invokes the ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next c]. However, the use of participle *gelassen* is possible [@next d], but seems to be restricted to the permissive interpretation [@enzinger2012: 34].
 
@@ -993,9 +995,9 @@ This causative construction cannot be combined with any kind of reflexive pronou
 
 - Not possible with verbs with non-agent subjects: *ähneln, bekommen, beschweren, besitzen, gefallen, interessieren, kennen, missfallen, sich befinden, verunglücken*
 
-### [ –N | NA ] *schicken+In­fi­ni­tiv* Causative (*Direktivkausativ*) {#sec:infinitive-schicken}
+### [ –N | NA ] *schicken+In­fi­ni­tiv* Causative {#sec:infinitive-schicken}
 
-The verb *schicken* allows for a construction with an infinitive [@next]. This diathesis expresses not a direct causation, but more a directive to somebody to do something. This diathesis does not invoke the ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next c].
+The verb *schicken* allows for a construction with an infinitive [@next]. This diathesis does not express pure causation, but more of a directive to somebody to do something. For that reason I propose to call this diathesis ~~Direktivkausativ~~ in German. This diathesis does not invoke the ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next c].
 
 ::: ex
 a. Er schläft.
@@ -1031,9 +1033,9 @@ b. Er schickt mich Bier holen.
 - Gegen Nürnberg ließ Fairchild, diesmal wieder Angreifer, seinen aufgestauten Frust verbal an Referee Chvatal aus, der ihn mit einer Spieldauerstrafe duschen schickte.^[~~DWDS~~: Berliner Zeitung, 19.02.2004.]
 - Die Mutter schickt ihn sein Zimmer aufräumen.^[I thank Yvonne Treis for suggesting this example.]
 
-### [ –N | NA ] *machen+In­fi­ni­tiv* Causative (*Aufforderungskausativ*) {#sec:infinitive-machen}
+### [ –N | NA ] *machen+In­fi­ni­tiv* Causative {#sec:infinitive-machen}
 
-The verb *machen* can be used with an infinitive to express a causative meaning. This typically is found with intransitives, like *lachen* 'to laugh' [@next a], though incidental transitives are also attested, like *vergessen* 'to forget' [@next b]. Although this construction might look like an English calque ('he makes me laugh'), it is already attested in early German examples [@next c], so it seems to be an old Germanic construction. This diathesis does not invoke the ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next d]. 
+The verb *machen* can be used with an infinitive to express a causative meaning. This typically is found with intransitives, like *lachen* 'to laugh' [@next a], though incidental transitives are also attested, like *vergessen* 'to forget' [@next b]. Although this construction might look like an English calque (cf. 'he makes me laugh'), it is already attested in early German examples [@next c], so it seems to be an old Germanic construction. Semantically it is unclear to me what exactly drives the usage of this causative construction. There appears to be less causative force implied, so I propose to call this diathesis ~~Aufforderungskausativ~~ in German. This diathesis does not invoke the ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next d]. 
 
 ::: ex
 a. Ich lache. \
@@ -1056,7 +1058,7 @@ d. Der Clown hat mich lachen gemacht (\*machen).
 - Und der harte Bass brandet in so tückischen Wellen durch die Halle, dass er die Hosenbeine flattern macht.^[~~DWDS~~: Die Zeit, 31.05.2007 (online).]
 - Spengler führt vor, wie der Gang der Geschichte die Menschen Idee und Wirklichkeit der eigenen Freiheit vergessen macht.^[~~DWDS~~: Die Zeit, 21.12.2017, Nr. 49.]
 
-### [ –N | NA ] *heißen+In­fi­ni­tiv* Causative {#sec:infinitive-heißen}
+### [ –N | NA ] *heißen+In­fi­ni­tiv* Causative {#sec:infinitive-heißen}
 
 The verb *heißen* can also be used with an infinitive to express a causative meaning [cf. @engel1996: 489], though this is rather old-fashioned [@next a,b]. This diathesis does not invoke the ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next c]. Note that there is a different, apparently completely independent, desubjective usage of *heißen+In­fi­ni­tiv* (see [@sec:infinitive-heißen-demotion]).
 
@@ -1071,11 +1073,11 @@ c. Der Henker hat ihn niederknien geheißen (\*heißen).
 - Eins von den Kindern hieß er zum Doktor laufen.^[~~DWDS~~: Ganghofer, Ludwig: Der Dorfapostel, Stuttgart: Adolf Bonz 1900, S. 124.]
 - Hierauf hat mich der Vater in sein Arbeitsgemach geführt, hat mich auf den weichsten Sessel niedersitzen geheißen.^[~~DWDS~~: Rosegger, Peter: Die Schriften des Waldschulmeisters. Pest, 1875.]
 
-### --- [ Ø > SBJ > OBJ ] --- *Perzeptiv* {.unnumbered}
+###      --- [ Ø > SBJ > OBJ ] --- {.unnumbered}
 
 The following perception verbs (Lat. *verba sentiendi*, German *Wahrnehmungsverben*) are regularly discussed as a special class in the German grammatical literature: *sehen* 'to see', *hören* 'to hear' and *fühlen/spüren* 'to feel' [e.g. @eisenberg2006a: 266; @kotulkova2010; @enzinger2012: 23; @fuss2017: 235--243; @konopka2021]. These verbs are special because they can occur both in a biclausal construction with a finite *dass* complement clause and in a monoclausal construction with an infinitive. This class of verbs is not completely homogeneous because only *sehen* and *hören* can optionally occur with an ~~IPP~~ *ErsatzIn­fi­ni­tiv*. These two verbs are also by far the most frequent in actual usage [@konopka2021]. I propose to also include the verbs *riechen* 'to smell' and *finden* 'to find' (but in this construction it means 'to detect') in this class of verbs, although their use in infinitive constructions is much more restricted. When used in a coherent construction with an infinitive, I propose the German name  ~~Perzeptiv~~ for such constructions.
 
-### [ –N | NA ] *sehen+In­fi­ni­tiv* Experiencer {#sec:infinitive-sehen}
+### [ –N | NA ] *sehen+In­fi­ni­tiv* Experiencer {#sec:infinitive-sehen}
 
 The verb *sehen* 'to see' can both be used with a finite *dass* complement clause [@next a] and with an infinitive construction [@next b]. This infinitive construction optionally allows for an ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next c,d].
 
@@ -1087,7 +1089,7 @@ The verb *sehen* 'to see' can both be used with a finite *dass* complement claus
   Bei ihrer Flucht habe sie auf den Hoteltreppen viele Leichen liegen gesehen.^[~~DWDS~~: Die Zeit, 27.11.2008, Nr. 48.]
 :::
 
-### [ –N | NA ] *hören+In­fi­ni­tiv* Experiencer
+### [ –N | NA ] *hören+In­fi­ni­tiv* Experiencer
 
 The verb *hören* 'to hear' can both be used with a *dass* complement clause [@next a] and with an infinitive construction [@next b]. This infinitive construction optionally allows for an ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next c,d].
 
@@ -1099,7 +1101,7 @@ The verb *hören* 'to hear' can both be used with a *dass* complement clause [@n
   Dort hat mich ein Erzieher auf dem Flur singen gehört.^[~~DWDS~~: Die Zeit, 15.09.2016 (online).]
 :::
 
-### [ –N | NA ] *fühlen+In­fi­ni­tiv* Experiencer
+### [ –N | NA ] *fühlen+In­fi­ni­tiv* Experiencer
 
 The verb *fühlen* 'to feel' can both be used with a *dass* complement clause [@next a] and with an infinitive construction [@next b]. This infinitive construction does not allow for an ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next c,d].
 
@@ -1110,7 +1112,7 @@ The verb *fühlen* 'to feel' can both be used with a *dass* complement clause [@
 - Auf so anrührende Weise wie in Asmara haben wir uns selten unterhalten gefühlt.^[~~DWDS~~: Die Zeit, 16.12.2010, Nr. 51.]
 :::
 
-### [ –N | NA ] *spüren+In­fi­ni­tiv* Experiencer
+### [ –N | NA ] *spüren+In­fi­ni­tiv* Experiencer
 
 The verb *spüren* 'to feel' can both be used with a *dass* complement clause [@next a] and with an infinitive construction [@next b]. This infinitive construction does not allow for an ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next c,d].
 
@@ -1121,7 +1123,7 @@ The verb *spüren* 'to feel' can both be used with a *dass* complement clause [@
 - Und Pfauder habe sein Herz bis zum Hals hoch klopfen gespürt.^[~~DWDS~~: Berliner Zeitung, 30.11.1996.]
 :::
 
-### [ –N | NA ] *riechen+In­fi­ni­tiv* Experiencer
+### [ –N | NA ] *riechen+In­fi­ni­tiv* Experiencer
 
 The verb *riechen* 'to smell' can be used with a *dass* complement clause [@next a] and in very few cases it is also attested with an infinitive construction [@next b]. This infinitive construction does not allow for an ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next c,d].
 
@@ -1138,7 +1140,7 @@ The verb *riechen* 'to smell' can be used with a *dass* complement clause [@next
 Die Rose und der Ring. Übersetzung Jörg Karau 2009. Attested online at <https://www.joergkarau-texte.de/PDF/Die%20Rose%20und%20der%20Ring.pdf>, accessed 22 July 2021.]
 - Ich war gerade 20 Minuten draußen und hab bei 8°C zwei Familien unabhängig voneinander Grillen gerochen.^[Note the non-standard capitalisation. Attested online at <https://twitter.com/oerthelius/status/1368214157347221508>, accessed 13 September 2021.]
 
-### [ –N | NA ] *finden+In­fi­ni­tiv* Experiencer
+### [ –N | NA ] *finden+In­fi­ni­tiv* Experiencer
 
 The verb *finden* (literally meaning 'to find', but in this construction the meaning is closer to *feststellen* 'to detect') cannot be used with a *dass* complement clause [@next a]. However, it is attested with an infinitive, similar to the previous *verba sentiendi* [@next b]. This infinitive construction typically occurs with position verbs like *stehen, liegen, sitzen*. This construction does not allow for an ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next c,d].
 
@@ -1158,9 +1160,9 @@ The verb *finden* (literally meaning 'to find', but in this construction the mea
 - Der gütige Herr wollte weiterschreiten, als er einen Dritten bitterlich weinend am Straßenrand sitzen fand.^[~~DWDS~~: Süddeutsche Zeitung, 1995 [1945].]
 - Indessen hatte Perdikkas die Stadt, gegen die er gesandt war, bereits von den Einwohnern verlassen gefunden.^[~~DWDS~~: Droysen, Johann Gustav: Geschichte Alexanders des Großen. Hamburg, 1833.]
  
-### --- [ Ø > SBJ > OBJ ] --- {.unnumbered}
+###      --- [ Ø > SBJ > OBJ ] --- {.unnumbered}
 
-### [ –N | NA ] *lehren+In­fi­ni­tiv* Assistive {#sec:infinitive-lehren}
+### [ –N | NA ] *lehren+In­fi­ni­tiv* Assistive {#sec:infinitive-lehren}
 
 The verb *lehren* 'to teach' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ("the teacher") is introduced as a nominative and the erstwhile nominative is demoted to accusative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *lehren* remains completely transparently related to the full verb with the meaning 'to teach'. There is an alternative construction with *zu‑In­fi­ni­tiv* (see [@sec:zuinfinitive-grammaticalisation]) that appears to have a highly similar meaning. More research is needed to elucidate any difference between these two constructions [@next b,c]. The *lehren+In­fi­ni­tiv* diathesis does not invoke the ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next d].
 
@@ -1178,7 +1180,7 @@ There does not seem to be any syntactic restriction on the main lexical verbs th
 - Sie lehrt mich mich waschen.
 :::
 
-### [ –N | ND ] *helfen+In­fi­ni­tiv* Assistive {#sec:infinitive-helfen}
+### [ –N | ND ] *helfen+In­fi­ni­tiv* Assistive {#sec:infinitive-helfen}
 
 The verb *helfen* 'to help' can be used as a light verb with infinitive. The construction induces a novative diathesis in which a new role ("the helper") is introduced as a nominative and the erstwhile nominative is demoted to dative [@next a,b]. Atypically for a light-verb construction, the meaning of the light verb *helfen* remains completely transparently related to the full verb with the meaning 'to help'. There is an alternative construction with *zu‑In­fi­ni­tiv* [@next c], see [@sec:zuinfinitive-grammaticalisation], that appears to highly similar. More research is needed to elucidate any difference between these two constructions. The *helfen+In­fi­ni­tiv* diathesis allows for the ~~IPP~~ *ErsatzIn­fi­ni­tiv*, but it is not obligatory [@next d].
 
@@ -1209,11 +1211,11 @@ Not attested.
 
 ## Symmetrical diatheses
 
-### --- [ OBJ > SBJ > OBJ ] --- {.unnumbered}
+###      --- [ OBJ > SBJ > OBJ ] --- {.unnumbered}
 
-### [ ND | AN ] *lassen+In­fi­ni­tiv* Dative reflexive inversive (*Permissivinversiv*) {#sec:infinitive-lassen-dative-reflexive-inversive}
+### [ ND | AN ] *lassen+In­fi­ni­tiv* Dative reflexive inversive {#sec:infinitive-lassen-dative-reflexive-inversive}
 
-Most of the verbs with a dative (but no accusative) do not allow for a reflexive *lassen+In­fi­ni­tiv* construction. The few that do allow for such a construction, like *einfallen* 'to occur to somebody' [@next], have an animate dative and they show a special diathesis. The dative turns into a nominative subject and the erstwhile nominative turns into an accusative. This diathesis needs an obligatory dative reflexive pronoun. The resulting construction has a permissive meaning and obligatorily needs an *Ersatzin­fi­ni­tiv* [@next b]. This diathesis is not a stack of two separate diatheses. The combination of a *lassen* causative and a reflexive anticausative leads to a completely different structure [@next c].
+Most of the verbs with a dative (but no accusative) do not allow for a reflexive *lassen+In­fi­ni­tiv* construction. The few that do allow for such a construction, like *einfallen* 'to occur to somebody' [@next], have an animate dative and they show a special diathesis. The dative turns into a nominative subject and the erstwhile nominative turns into an accusative. This diathesis needs an obligatory dative reflexive pronoun. The resulting construction has a permissive meaning and obligatorily needs an *Ersatzin­fi­ni­tiv* [@next b]. This diathesis is not a stack of two separate diatheses. The combination of a *lassen* causative and a reflexive anticausative leads to a completely different structure [@next c]. I propose the German name ~~Permissivinversiv~~ for this diathesis. 
 
 ::: ex
 - Ihm fällt etwas Neues ein.
@@ -1245,9 +1247,9 @@ b. Der Spaß entgeht mir. \
 - Den Kuß lasse ich mir gefallen.^[~~DWDS~~: Brief von Irene G. an Ernst G. vom 07.12.1939, Feldpost-Archive mkb-fp-0270.]
 - Das Leben läßt sich unsere Eingriffe geschmeidig geschehen.^[~~DWDS~~: Strittmatter, Erwin: Der Laden, Berlin: Aufbau-Verl. 1983, S. 213.]
 
-### [ NDL | ANL ] *haben+In­fi­ni­tiv* Possessor inversive (*Ortspertinenzinversiv*) {#sec:infinitive-haben}
+### [ NDL | ANL ] *haben+In­fi­ni­tiv* Possessor inversive {#sec:infinitive-haben}
 
-The construction of a light verb *haben* with an infinitive [cf. @hole2002: 183--185] is attested with various position verbs like *hängen* [@next a]. Such constructions obligatorily need a location phrase [@next b]. The hanging object is expressed as an accusative, and the new nominative subject of the *haben+In­fi­ni­tiv* construction is necessarily the dative possessor of the location [@next c], see [@sec:prepositions-possessor-of-location-to-dative-experiencer]. By using this diathesis, the new nominative subject is presented as a curious mix of both being in control and being a helpless experiencer at the same time. This diathesis does not invoke the ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next d].
+The construction of a light verb *haben* with an infinitive [cf. @hole2002: 183--185] is attested with various position verbs like *hängen* [@next a]. These position verbs obligatorily need a location phrase [@next b]. In this diathesis, the hanging object is expressed as an accusative, and the new nominative subject of the *haben+In­fi­ni­tiv* construction is necessarily the dative possessor of the location [@next c], see [@sec:prepositions-possessor-of-location-to-dative-experiencer]. By using this diathesis, the new nominative subject is presented as a curious mix of both being in control and being a helpless experiencer at the same time. In German I propose to use the name ~~Ortspertinenzinversiv~~ for this diathesis. This diathesis does not invoke the ~~IPP~~ *ErsatzIn­fi­ni­tiv* [@next d].
 
 ::: ex
 a. Er hat einen Tropfen an der Nase hängen.
@@ -1266,7 +1268,7 @@ The new nominative subject appears to have multiple possible paraphrases. It mos
   (≠ Das Auto steht mir auf dem Parkplatz.)
 :::
 
-There is a curious parallel between this diathesis and the *haben+am‑In­fi­ni­tiv* diathesis, see [@sec:zuminfinitive-haben-am]. Both use the light verb *haben* with an infinitive, they show a similar role-remapping, and semantically they are also highly similar. However, they are used with different verbs. Syntactically, the first difference is that the dative in the current *haben+In­fi­ni­tiv* diathesis is the possessor of the locational object, here *Nase* 'nose' [@next a] , while the dative in the *haben+am‑In­fi­ni­tiv* diathesis is the possessor of the nominative subject, here *Wohnung* 'house' [@next b]. The second difference is, of course, the extra *am* preposition. It is a tantalising thought that this *am* preposition is somehow related to the fact that there is no obligatory location present in that diathesis.
+There is a curious parallel between this diathesis and the *haben+am‑In­fi­ni­tiv* diathesis, see [@sec:zuminfinitive-haben-am]. Both use the light verb *haben* with an infinitive, they show a similar role-remapping, and semantically they are also highly similar. However, they are used with different verbs. Syntactically, the first difference is that the dative in the current *haben+In­fi­ni­tiv* diathesis is the possessor of the locational object, here *Nase* 'nose' [@next a], while the dative in the *haben+am‑In­fi­ni­tiv* diathesis is the possessor of the nominative subject, here *Wohnung* 'house' [@next b]. The second difference is, of course, the extra *am* preposition. It is a tantalising thought that this *am* preposition is somehow related to the fact that there is no obligatory location present in that diathesis.
 
 ::: ex
 - Ein Tropfen hängt ihm an der (seiner) Nase. \

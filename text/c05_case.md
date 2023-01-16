@@ -409,7 +409,7 @@ This section is empty. It is only added here for the numbering to be parallel ac
 
 ###      --- [ SBJ > Ø ] --- {.unnumbered}
 
-### [ N | – ] Nominative drop {#sec:case-nominative-drop}
+### [ N | – ] Nominative drop {#sec:case-nominative-drop}
 
 In German it is typically not possible to have a sentence in which the nominative subject is dropped. For the few verbs that allow the nominative subject to be absent, a valency-simulating pronoun *es* has to be inserted (see [@sec:intro-es] for more details on this pronoun). For example, with some intransitive dispersion verbs like *stinken* 'to stink' [@next a] it is possible to leave out the origin of the dispersion [@next b] to indicate the effect without knowledge of the cause. In German I propose to use the term ~~Auslöserentfall~~ for this diathesis.
 
@@ -440,7 +440,7 @@ b. Der Wind weht.
 - Das Kochen klappt noch nicht so gut. \
   Jetzt klappt es. 
 
-### [ NA | –A ] Nominative drop+accusative {#sec:case-nominativ-drop-accusative}
+### [ NA | –A ] Nominative drop+accusative {#sec:case-nominativ-drop-accusative}
 
 A few additinoal apparently dropped nominatives are discussed here for completeness' sake. They appear to be highly idiosyncratic. Both examples allow for the nominative to be dropped, but an accusative argument is obligatorily present and cannot be dropped. The first example is the drop of the nominative with the verb *geben* when used in the meaning of 'to produce' [@next]. Note that there is close connection to another diathesis with a light verb *geben* 'to give' (see [@sec:zuinfinitive-geben-demotion]). The second example of a nominative drop with a retained object is with the verb *brauchen* 'to need' [@nnext].
 
@@ -463,7 +463,7 @@ b. Dieses Jahr gibt es einen guten Wein.
 - Der Verkäufer gibt den Lutscher gratis dazu. \
   Den Lutscher gibt es gratis dazu.
 
-### [ ND | –D ] Nominative drop+dative {#sec:case-nominativ-drop-dative}
+### [ ND | –D ] Nominative drop+dative {#sec:case-nominativ-drop-dative}
 
 In a few exceptional examples a verb with a nominative and a dative allows for the nominative to be dropped and replaced by a valency-simulating pronoun *es*, like with *gefallen* 'to appeal' [@next a,b].
 
@@ -488,7 +488,7 @@ b. Es ist mir ein Unfall widerfahren.
 - Mein Gehalt langt mir nicht. \
   Jetzt langt es mir aber!
 
-### [ NG | –G ] Nominative drop+genitive {#sec:case-nominativ-drop-genitive}
+### [ NG | –G ] Nominative drop+genitive {#sec:case-nominativ-drop-genitive}
 
 A few verbs with nominative and genitive arguments allow the nominative to be dropped, but the genitive to be retained, like with *bedürfen* 'to require' [@next] and *entbehren* 'to do without' [@nnext].
 
@@ -508,7 +508,7 @@ b. Insofern entbehrt es jeglichen Beweises.
 
 ###      --- [ OBJ > SBJ > Ø ] --- {.unnumbered}
 
-### [ NA | –N ] *haben* anticausative {#sec:case-haben-anticausative}
+### [ NA | –N ] *haben* anticausative {#sec:case-haben-anticausative}
 
 A typical anticausative verb allows for both a transitive [@next a] and an intransitive construction [@next b] in which the intransitive nominative expresses the same participant as the transitive accusative. This is attested in German with verbs like *beginnen* 'to start' [@next]. However, because this diathesis is formally unmarked it is difficult to decide whether this should be classified as an anticausative or as a causative [cf. @scheibl2006: 355]. 
 
@@ -605,7 +605,7 @@ The verbs *öffnen* 'to open' and *schließen* 'to close' appear here in a speci
   Die Tür hat sich geöffnet
 :::
 
-### [ NAD | –ND ] *haben* anticausative+dative
+### [ NAD | –ND ] *haben* anticausative+dative
 
 The verb *anhängen* literally (but not commonly) means 'to attach to' [@next a]. However, more widespread is the metaphorical extension with a meaning of 'to put a burden on somebody' with the 'somebody' encoded in the dative case [@next b]. In this meaning it can be used intransitively [@next c] and the dative cannot be dropped [@next d]. Note that there is variation in the form of the participle (*angehängt* vs. *angehangen*), which is a vestige of causative morphology (see [@par:hängen]). Also note that the auxiliary *sein* does not seem to be possible in the intransitive [@next e], so this verb does not align with other vestiges of causative morphology in German (see [@sec:case-umlaut-causative]). 
 
@@ -625,7 +625,7 @@ The verb *anhängen* literally (but not commonly) means 'to attach to' [@next a]
 
 ###      --- [ Ø > SBJ ] --- {.unnumbered}
 
-### [ – | N ] Weather agents {#sec:case-nominative-addition}
+### [ – | N ] Weather agents {#sec:case-nominative-addition}
 
 With some weather verbs like *wehen* 'to be windy' it seems to be semantically rather obvious that the addition of an agent [@next b] is an extension of a basically avalent verb [@next a]. However, formally there is no difference between an unmark­ed "nominative addition" as discussed in this section and an unmarked "nominative drop" as discussed in [@sec:case-nominative-drop]. One possible avenue to distinguish these two classes is to consider the range of possible nominative agents. For verbs like *wehen* there appears to be only a small closed class of options for the nominative.
 
@@ -654,7 +654,7 @@ b. ^* Die Blätter wehen.
 
 ###      --- [ Ø > SBJ > OBJ ] --- {.unnumbered}
 
-### [ –N | NA ] *sein* causative {#sec:case-sein-causative}
+### [ –N | NA ] *sein* causative {#sec:case-sein-causative}
 
 A typical causative verb like *zerbrechen* 'to break' allows for both an intransitive [@next a] and a transitive construction [@next d], in which the participant in the intransitive nominative (here *Krug* 'jar') is the same as the participant in the transitive accusative.
 
@@ -756,7 +756,7 @@ The verb *fliehen* 'to flee' can be used transitively, but this seems to be unus
   Ich habe den Ball weggetreten.
 :::
 
-### [ –N | NA ] *Umlaut* causative {#sec:case-umlaut-causative}
+### [ –N | NA ] *Umlaut* causative {#sec:case-umlaut-causative}
 
 Originally based on the Germanic suffix *‑jan*, which turned into an umlaut, some verbs have an intransitive (e.g. *fallen* 'to fall') and a transitive causative (e.g. *fällen* 'to fell') only separated by a vowel-quality difference [@next].
 
@@ -778,7 +778,7 @@ b. Ich habe den Baum gefällt.
 - Das Kind saugt. \
   Die Mutter säugt das Kind.
 
-### [ –N | NA ] *Umlaut* adjectival causative {#sec:case-umlaut-adjectival-causative}
+### [ –N | NA ] *Umlaut* adjectival causative {#sec:case-umlaut-adjectival-causative}
 
 The process to form a causative with the suffix *‑jan* also applied to adjectival predicates. There are still a few remnants of such pairs found in contemporary German, in which the old suffix is retained as an umlaut [@next]. More cases are available with additional preverbs, see [@sec:preverb-adjectival-causative].
 
@@ -793,7 +793,7 @@ b. Ich schwärze den Text.
 
 ###      --- [ OBJ > SBJ ] --- {.unnumbered}
 
-### [ A | N ] Accusative-to-nominative promotion
+### [ A | N ] Accusative-to-nominative promotion
 
 Some verbs with experiencer subjects needed an accusative subject in older stages of German [cf. @nubling2006: 103--104], but these verbs either were completely lost, like *dürsten* 'to be thirsty' [@next a], or the accusative tends to be replaced by a nominative, like with *frieren* 'to be cold' [@next b,c]. The verb *frieren* with a human experiencer is currently in the middle of this transition, allowing for both constructions.
 
@@ -813,7 +813,7 @@ This section concerns alternations in which a non-nominative case-marked argumen
 
 ###      --- [ OBJ > Ø ] --- {.unnumbered}
 
-### [ NA | N– ] Accusative drop {#sec:case-accusative-drop}
+### [ NA | N– ] Accusative drop {#sec:case-accusative-drop}
 
 Drops, or covert antipassives, i.e. the removal of an accusative object, is a well-known phenomenon under the name of ambitransitive or labile verbs, exemplified here with *stören* 'to interrupt' [@next].
 
@@ -861,7 +861,7 @@ What is left is an apparently small group of transitive verbs that allow for the
 - Der deutsche Staatssekretär nervt den malischen Minister. \
   Du nervst.
 
-### [ NAA | NA– ] Accusative drop+accusative {#sec:case-double-accusative-drop}
+### [ NAA | NA– ] Accusative drop+accusative {#sec:case-double-accusative-drop}
 
 Most verbs that allow for two accusative arguments allow for one of these arguments to be dropped [@next a,b]. In some situations even both can be dropped [@next c].
 
@@ -900,7 +900,7 @@ d. Du wirst (von mir) unterrichtet.
 e. Der Koran wird (von mir) unterrichtet.
 :::
 
-### [ NAD | N–D ] Accusative drop+dative
+### [ NAD | N–D ] Accusative drop+dative
 
 This is the pattern as attested with the verb *danken* 'to thank' as exemplified in [@next a-c]. The accusative can be left out, but only when the dative is retained. The dative cannot be dropped. This pattern seems to be extremely rare. There seems to be a generalisation that the accusative can normally not be dropped before also a governed dative is dropped (see also [@sec:prepositions-demotion-of-object]). From informal discussion, it appears that the sentence in [@next a] is rejected by many German speakers, but it is clearly attested.
 
@@ -925,7 +925,7 @@ d. ^* Ich verdanke mein Leben.
 
 ###      --- [ OBJ > Ø ] --- {.unnumbered}
 
-### [ ND | N– ] Dative drop {#sec:case-dative-drop}
+### [ ND | N– ] Dative drop {#sec:case-dative-drop}
 
 Verbs that take a dative, but do not allow for an accusative, are well attested, though not very frequent in German. Some of these verbs do not allow the dative to be dropped (see [@sec:case-nominative-dative]) and a few allow for the dative to be replaced by a prepositional phrase (see [@sec:prepositions-dative-antipassive]) or by a possessor (see [@sec:case-possessor-of-nominative-to-dative-experiencer]). 
 
@@ -958,7 +958,7 @@ In this section only verbs are listed for which the only alternative for the dat
 - Die Katze ist (mir) zugelaufen.
 - Der Mantel sitzt (mir) gut.
 
-### [ NAD | NA– ] Dative drop+accusative {#sec:case-dative-drop-accusative}
+### [ NAD | NA– ] Dative drop+accusative {#sec:case-dative-drop-accusative}
 
 Ditransitive verbs like *verbieten* 'to prohibit' [@next a-c], that allow for the dative but not the accusative to be dropped, are common. Semantically, this diathesis seems to be restricted to performative verbs, typically verbs of verbal communication.
 
@@ -999,7 +999,7 @@ a. Das Foto hat seine Verwicklung in das Doping-System nahegelegt.
 b. Der Trainer hat ihm das Doping nahegelegt.
 :::
 
-### [ NAD | N– – ] Dative drop+accusative drop
+### [ NAD | N– – ] Dative drop+accusative drop
 
 Although it is not impossible, it seems to be rather unusual for "real" ditransitive verbs like *vorlesen* 'to read aloud' [@next a] to allow for either the accusative [@next b] or the dative [@next c] to be dropped.
 
@@ -1015,11 +1015,11 @@ c. Ich lese ein Buch vor.
 
 ###      --- [ OBJ > Ø ] --- {.unnumbered}
 
-### [ NG | N– ] Genitive drop
+### [ NG | N– ] Genitive drop
 
 This theoretically possible diathesis is listed here only for the sake of completeness, as there do not seem to be any genuine examples attested in contemporary German. Genitive arguments without accusative are extremely unusual. They appear to be vanishing from the German language (see [@sec:case-nominative-genitive]). Also genitive antipassives are practically unattested (see [@sec:prepositions-genitive-antipassive]). Genitive arguments with an additional accusative argument seem to be slightly more common (see [@sec:case-accusative-genitive-drop] and [-@sec:prepositions-genitive-antipassive-accusative]).
 
-### [ NAG | NA– ] Genitive drop+accusative {#sec:case-accusative-genitive-drop}
+### [ NAG | NA– ] Genitive drop+accusative {#sec:case-accusative-genitive-drop}
 
 Given that there are already very few verbs with genitive arguments in German, it is no surprise that there appear to be only a handful of genitive ditransitives, i.e. verbs that can occur with nominative, accusative and genitive arguments. On closer inspection, almost all such verbs allow for alternative constructions in which the genitive argument is changed (for the only known exception, see [@sec:case-nominative-accusative-genitive]). The verbs listed in the current class allow for the complete drop of the genitive argument, like with *würdigen* 'to acknowledge' [@next]. Some further verbs with genitive and accusative arguments allow for a *von* prepositional phrase instead of a genitive (see [@sec:prepositions-genitive-antipassive-accusative]).
 
@@ -1049,7 +1049,7 @@ In this chapter, I have tried to distinguish between the demotion of an object (
 
 ###      --- [ Ø > OBJ ] --- {.unnumbered}
 
-### [ N– | NA ] Added result {#sec:case-accusative-addition}
+### [ N– | NA ] Added result {#sec:case-accusative-addition}
 
 There are various kinds of objects that can be added to (apparent) intransitives as the result of the activity. For example: a competitive entity in sports [@next a], the result of an action [@next b], the name of the result of an action [@next c] and possibly many others [@next d,e]. In German I propose to call this diathesis ~~Ergebnisakkusativ~~.
 
@@ -1091,7 +1091,7 @@ These verbs are formally similar to verbs that allow for an accusative to be dro
 - Ich brüllte die Antwort.
 - Er floh ihren Blick.
 
-### [ – | A ] Weather result {#sec:case-accusative-addition-without-nominative}
+### [ – | A ] Weather result {#sec:case-accusative-addition-without-nominative}
 
 Some verbs that allow for the nominative to be absent (see [@sec:case-nominative-addition]) can have an accusative object without a nominative, although this possibility seems to be strongly limited to weather phenomena [@next a] and is often used metaphorically [@next b].
 
@@ -1114,7 +1114,7 @@ b. Im Jahre 1932 hagelte es einen Schauer neuer Gesetze. \
   
 ###      --- [ ADJ > OBJ ] --- {.unnumbered}
 
-### [ Ng | ND ] Possessor-of-nominative dative {#sec:case-possessor-of-nominative-to-dative-experiencer}
+### [ Ng | ND ] Possessor-of-nominative dative {#sec:case-possessor-of-nominative-to-dative-experiencer}
 
 For some verbs, an experiencer dative [@next a] is an alternative expression for the possessor of the nominative [@next b]. Crucially, the participant is the same person in these two expressions, as can be seen by the possibility of [@next c] but the impossibility of [@next d]. 
 
@@ -1173,7 +1173,7 @@ b. Mein Haus brennt ab.
 c. Mein Haus brennt dir ab.
 :::
 
-### [ NAg | NAD ] Possessor-of-accusative dative {#sec:case-possessor-accusative-to-dative}
+### [ NAg | NAD ] Possessor-of-accusative dative {#sec:case-possessor-accusative-to-dative}
 
 A widespread dative alternation is the so-called possessor-to-dative raising. Specifically, with some ditransitive datives the experiencer dative can be reformulated as the possessor of the accusative [@next a,b].
 
@@ -1227,7 +1227,7 @@ c. Ich beantworte deine Frage. \
 
 ###      --- [ OBJ > SBJ > OBJ ] --- {.unnumbered}
 
-### [ NA | AN ] Accusative/accusative inversive
+### [ NA | AN ] Accusative/accusative inversive
 
 The verb *erwarten* 'to expect' has an exceptional valency alternation in that the accusative and nominative arguments can be reversed with a very similar meaning [@next a,b]. There is a slight difference in meaning between 'to expect' [@next a] and 'to be imminent' [@next b].
 
@@ -1249,7 +1249,7 @@ d. Ein Geschenk erwartet dich.
 
 - *erwarten*
 
-### [ NA | DN ] Accusative/dative inversive
+### [ NA | DN ] Accusative/dative inversive
 
 The verb *nutzen* either means 'to use' [@next a] or 'to benefit' [@next b] with almost reversed argument marking.
 
@@ -1273,7 +1273,7 @@ I know of only a few verbs with this very special passive-like diathesis. There 
 
 Some verbs allow for the same role expressed with different case marking. These seem to be all incidental cases, mostly verbs in the midst of a diachronic change.
 
-### [ A | D ] Accusative-to-dative {#sec:case-accusative-dative}
+### [ A | D ] Accusative-to-dative {#sec:case-accusative-dative}
 
 A few experiencer verbs with an original accusative argument are currently considered rather old-fashioned in German [@next a]. Instead of the original accusative they sometimes are attested with a dative [@next b]. Note that some of these verbs also have a governed preposition [@next c] and a reflexive alternation [@next d], see also [@sec:reflexive-accusative-to-nominative].
 
@@ -1288,7 +1288,7 @@ d. Ich ekle mich vor dem Essen.
 
 - *ekeln, grauen, gruseln, schauern, schwindeln*
 
-### [ NAA | NAD ] Accusative-to-dative+accusative {#sec:case-double-accusative-dative-swap}
+### [ NAA | NAD ] Accusative-to-dative+accusative {#sec:case-double-accusative-dative-swap}
 
 Some verbs that allow for two accusative objects appear to disambiguate this situation by optionally changing one of the accusative arguments to a dative [@next a,b].
 
@@ -1312,7 +1312,7 @@ b. Er lehrt mir den Trick.
 
 The verb *nennen* seems to have a rather clear semantic difference between 'to name' (with two accusative arguments) and 'to mention' (with an accusative and a dative argument).
 
-### [ NG | NA ] Genitive-to-accusative {#sec:case-genitive-accusative-swap}
+### [ NG | NA ] Genitive-to-accusative {#sec:case-genitive-accusative-swap}
 
 The verb *achten* 'to watch for, to respect' has an old-fashioned alternative possibility to take a genitive argument, but only as a negative polarity element. Most examples have an explicit negation, but examples with *niemand* 'nobody' or *gering* 'a bit' are also attested (see examples below). The more widespread usage is with an accusative argument (also without negation).
 
@@ -1332,7 +1332,7 @@ b. Man achtete uns nicht.
 
 ###      --- [ OBJ > OBJ > OBJ ] --- {.unnumbered}
 
-### [ NGA | NAD ] Genitive-to-accusative-to-dative {#sec:case-genitive-accusative-dative-swap}
+### [ NGA | NAD ] Genitive-to-accusative-to-dative {#sec:case-genitive-accusative-dative-swap}
 
 The verb *versichern* 'to assure' appears to be a combination of the previous two alternations. The apparently older usage with accusative and genitive [@next a] exists with an alternative construction with dative and accusative [@next b]. This "double swap" was possible because most sentences with *versichern* have a subordinate clause instead of a clear genitive/accusative [@next c,d]. The theoretical intermediate stages (with genitive/dative or double accusative) are unattested [@next e,f].
 
