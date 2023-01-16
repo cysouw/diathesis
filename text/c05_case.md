@@ -19,12 +19,12 @@ The unmarked nature of covert diatheses implies that there is some slight redund
 
 There are seven diatheses that seem prominent enough to be given a German name. I propose the following names for these:
 
-- ~~[SBJ › O̷] Auslöserentfall~~ (see [@sec:case-nominative-drop] ff.)
-- ~~[OBJ › SBJ › Ø] Antikausativ~~ (see [@sec:case-haben-anticausative] ff.)
-- ~~[Ø › SBJ › OBJ] Kausativ~~ (see [@sec:case-sein-causative] ff.)
-- ~~[Ø › OBJ] Ergebnisakkusativ~~ (see [@sec:case-accusative-addition])
-- ~~[OBJ › Ø] Optionaler Akkusativ~~ (see [@sec:case-accusative-drop] ff.)
-- ~~[OBJ › Ø] Optionaler Dativ~~ (see [@sec:case-dative-drop] ff.)
+- ~~[SBJ › O] Auslöserentfall~~ (see [@sec:case-nominative-drop] ff.)
+- ~~[OBJ › SBJ › O] Antikausativ~~ (see [@sec:case-haben-anticausative] ff.)
+- ~~[O › SBJ › OBJ] Kausativ~~ (see [@sec:case-sein-causative] ff.)
+- ~~[O › OBJ] Ergebnisakkusativ~~ (see [@sec:case-accusative-addition])
+- ~~[OBJ › O] Optionaler Akkusativ~~ (see [@sec:case-accusative-drop] ff.)
+- ~~[OBJ › O] Optionaler Dativ~~ (see [@sec:case-dative-drop] ff.)
 - ~~[ADJ › OBJ] Pertinenzdativ~~ (see [@sec:case-possessor-of-nominative-to-dative-experiencer] ff.)
 
 ## Delimiting case-marked arguments {#sec:case-delimiting-arguments}

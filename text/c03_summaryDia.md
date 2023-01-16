@@ -33,7 +33,7 @@ There are two kinds of derived clauses. First, an epithesis is a clause alternat
 
 Table: German terminology for clause types {#tbl:clause-types}
 
-## Insubjective diatheses ~~[SBJ › Ø]~~
+## Insubjective diatheses ~~[SBJ › O]~~
 
 An ~~insubjective~~ is a diathesis that completely removes the role marked as nominative subject without introducing a new subject. For details on the definition see [@sec:intro-isolated-subject-diathesis], specifically starting at [@par:insubjective].
 
@@ -122,7 +122,7 @@ a. Er redet weiter.
 b. Dann heißt es für ihn weiter reden.
 :::
 
-## Conciliative diatheses ~~[ADJ › SBJ › Ø]~~
+## Conciliative diatheses ~~[ADJ › SBJ › O]~~
 
 A ~~conciliative~~ is a diathesis that completely removes the role marked as subject and promotes an instrument to be the new subject. For details on the definition see [@sec:intro-subject-demotions], specifically starting at [@par:conciliative].
 

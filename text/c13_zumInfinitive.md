@@ -2,18 +2,18 @@
 
 ## Introduction
 
-This final chapter investigates a class of constructions that consist of a light verb with a preposition, an article and an infinitive, like the *sein+am‑In­fi­ni­tiv* progressive [@next a], see [@sec:zuminfinitive-sein-am], or the *haben+am‑In­fi­ni­tiv* inversive [@next b], see [@sec:zuminfinitive-haben-am]. German has various such grammaticalised monoclausal constructions, which are superficially similar, but syntactically clearly different from clauses with ordinary prepositional phrases. The grammaticalised combination of a preposition, an article and an infinitive will be called a *Präpositions­in­fi­ni­tiv* and it is proposed as a fourth non-finite verbform alongside *Partizip*, *In­fi­ni­tiv* and *zu‑In­fi­ni­tiv*. 
+This final chapter investigates a class of constructions that consist of a light verb with a preposition, an article and an infinitive, like the *sein+am‑In­fi­ni­tiv* progressive [@next a], see [@sec:zuminfinitive-sein-am], or the *haben+am‑In­fi­ni­tiv* inversive [@next b], see [@sec:zuminfinitive-haben-am]. German has various such grammaticalised monoclausal constructions, which are superficially similar, but syntactically clearly different from clauses with ordinary prepositional phrases. The grammaticalised combination of a preposition, an article and an infinitive will be called a *Präpositions­in­fi­ni­tiv* and it is proposed here as a fourth non-finite verbform alongside *Partizip*, *In­fi­ni­tiv* and *zu‑In­fi­ni­tiv*. 
 
 ::: ex
 - Ich bin am Arbeiten.
 - Der Jongleur hat unzählige Teller am Drehen.
 :::
 
-Such constructions appear to be relatively new to the German language. There is some historical research on the *sein+am‑In­fi­ni­tiv* progressive, and a few tentative examples have been observed as early as the 16th century [@gargyan2010: 124--132]. However, this construction only becomes regularly attested in the 19th century. The other constructions discussed in this chapter have not yet been properly diachronically investigated, but my impression is that these are all relatively recent developments. Accordingly, these constructions are often considered colloquial and are regularly avoided in formal written language.
+Such grammaticalised constructions appear to be relatively new to the German language. There is some historical research on the *sein+am‑In­fi­ni­tiv* progressive, and a few tentative examples have been observed as early as the 16th century [@gargyan2010: 124--132]. However, the progressive only becomes regularly attested in the 19th century. The other constructions discussed in this chapter have not yet been properly diachronically investigated, but my impression is that they are all relatively recent developments. Accordingly, these constructions are often considered colloquial and are regularly avoided in formal written language.
 
-In German orthography, when an infinitive is used as a noun (as most clearly indicated by a preceding article) than it should be written with a capital letter. Consequently, I have written all infinitives with capitals in this chapter. However, there is quite a bit of uncertainty about this in daily orthographic practice. For example, both capitalised and non-capitalised forms of the *am* progressive are frequently attested in contemporary German [@gargyan2010: 67--68, 73--74].
+In German orthography, when an infinitive is used as a noun (as most clearly indicated by a preceding article) than the rules dictate that it should be written with a capital letter. Consequently, I have written all infinitives with capitals in this chapter. However, there is quite a bit of uncertainty about this in daily orthographic practice. For example, both capitalised and non-capitalised forms of the *am* progressive are frequently attested in contemporary German [@gargyan2010: 67--68, 73--74]. Using lowercase actually makes sense, given that the infinitive in a *Präpositions­in­fi­ni­tiv* is a grammaticalised non-finite verbform.
 
-The morphosyntactic characteristics of the *Präpositions­in­fi­ni­tiv* are discussed in detail in [@sec:zuminfinitive-structure]. In identifying a *Präpositions­in­fi­ni­tiv*, care has to be taken to distinguish it from other highly similar constructions. First, a *Präpositions­in­fi­ni­tiv* is a monoclausal construction, distinct from other similar, but underlyingly biclausal subordinate structures, like with *träumen von* 'to dream of' in [@next a], see [@sec:zuminfinitive-subordination]. Second, the *Präpositions­in­fi­ni­tiv* is different from adverbial phrases with infinitives, like goal-oriented *zum Schwimmen* 'with the intent to swim' in [@next b], see [@sec:zuminfinitive-teleological].
+The morphosyntactic characteristics of the *Präpositions­in­fi­ni­tiv* are discussed in detail in [@sec:zuminfinitive-structure]. In identifying a *Präpositions­in­fi­ni­tiv*, care has to be taken to distinguish it from other highly similar constructions. First, a *Präpositions­in­fi­ni­tiv* is a monoclausal construction, which makes it different from other highly similar, but underlyingly biclausal subordinate structures, like with *träumen von* 'to dream of' in [@next a], see [@sec:zuminfinitive-subordination]. Second, the *Präpositions­in­fi­ni­tiv* is different from adverbial phrases with infinitives, like goal-oriented *zum Schwimmen* 'with the intent to swim' in [@next b], see [@sec:zuminfinitive-teleological].
 
 ::: ex
 - Sie träumt vom Schwimmen.
@@ -36,9 +36,9 @@ The *Präpositions­in­fi­ni­tiv* is a grammaticalised construction that will
 - Der Vater kommt gerade vom Einkaufen. \
   ('vom Einkaufen' = *Präpositions­in­fi­ni­tiv*, [@sec:zuminfinitive-structure])
 - Der Husten kommt sicher vom Rauchen. \
-  ('vom Rauchen' = Governed prepositional subordination, [@sec:zuminfinitive-subordination])
+  ('vom Rauchen' = prepositional subordination, [@sec:zuminfinitive-subordination])
 - Der Senior kommt täglich zum Schwimmen. \
-  ('zum Schwimmen' = Adverbial modification, [@sec:zuminfinitive-teleological])
+  ('zum Schwimmen' = adverbial modification, [@sec:zuminfinitive-teleological])
 - Das Prinzip kommt bald zur Anwendung. \
   ('zur Anwendung' = *Funktions­verb­gefüge*, [@sec:zuminfinitive-funktionsverb])
 :::
@@ -65,7 +65,7 @@ By definition then, a combination of preposition+article+infinitive is a grammat
 (ii) The fused preposition/article is always unstressed (e.g. contrastive focus is not possible).
 (iii) The fused preposition/article is inseparable into its component pieces. 
 (iv) The infinitive does not allow for any attributive modifiers, such as pre-nominal adjectives, post-nominal genitives or prepositional phrases.
-(v) In subordinate position, the preposition+article+infinitive combination is inseparatble, placed immediately in front of the sentence-final finite verb.
+(v) In subordinate position, the preposition+article+infinitive combination is inseparable, placed immediately in front of the sentence-final finite verb.
 
 To illustrate these characteristics, I will contrast a location phrase *am Tisch* 'at the table' [@next a] with a grammaticalised phrase *am Arbeiten* 'at work' in the *sein+am‑In­fi­ni­tiv* progressive construction [@next b]. Superficially, these two sentences look structurally similar. For example, both have a fused preposition+article *am*, from *an*+*dem*.
 
