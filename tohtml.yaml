@@ -40,7 +40,6 @@ metadata-files:
 
 number-sections: true
 table-of-contents: true
-toc-depth: 4
 standalone: true
 self-contained: true
 default-image-extension: svg
