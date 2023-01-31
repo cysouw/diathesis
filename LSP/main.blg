@@ -1,22 +1,22 @@
 [0] Config.pm:304> INFO - This is Biber 2.14
 [1] Config.pm:307> INFO - Logfile is 'main.blg'
-[177] biber-darwin:322> INFO - === Tue Jan 31, 2023, 17:45:41
-[212] Biber.pm:415> INFO - Reading 'main.bcf'
-[413] Biber.pm:943> INFO - Found 1 citekeys in bib section 0
-[450] Biber.pm:4256> INFO - Processing section 0
-[452] Utils.pm:75> INFO - Globbing data source 'localbibliography.bib'
-[452] Utils.pm:91> INFO - Globbed data source 'localbibliography.bib' to localbibliography.bib
-[452] Utils.pm:75> INFO - Globbing data source 'langscitmp.bib'
-[452] Utils.pm:91> INFO - Globbed data source 'langscitmp.bib' to langscitmp.bib
-[479] Biber.pm:4455> INFO - Looking for bibtex format file 'localbibliography.bib' for section 0
-[479] Utils.pm:304> WARN - Data source 'localbibliography.bib' is empty, ignoring
-[480] Biber.pm:4455> INFO - Looking for bibtex format file 'langscitmp.bib' for section 0
-[483] bibtex.pm:1653> INFO - LaTeX decoding ...
-[490] bibtex.pm:1471> INFO - Found BibTeX data source 'langscitmp.bib'
-[564] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[564] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[564] Biber.pm:4084> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[565] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
-[568] bbl.pm:652> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[569] bbl.pm:755> INFO - Output to main.bbl
-[569] Biber.pm:128> INFO - WARNINGS: 1
+[169] biber-darwin:322> INFO - === Tue Jan 31, 2023, 19:48:16
+[198] Biber.pm:415> INFO - Reading 'main.bcf'
+[421] Biber.pm:943> INFO - Found 1 citekeys in bib section 0
+[460] Biber.pm:4256> INFO - Processing section 0
+[461] Utils.pm:75> INFO - Globbing data source 'localbibliography.bib'
+[461] Utils.pm:91> INFO - Globbed data source 'localbibliography.bib' to localbibliography.bib
+[461] Utils.pm:75> INFO - Globbing data source 'langscitmp.bib'
+[461] Utils.pm:91> INFO - Globbed data source 'langscitmp.bib' to langscitmp.bib
+[485] Biber.pm:4455> INFO - Looking for bibtex format file 'localbibliography.bib' for section 0
+[485] Utils.pm:304> WARN - Data source 'localbibliography.bib' is empty, ignoring
+[486] Biber.pm:4455> INFO - Looking for bibtex format file 'langscitmp.bib' for section 0
+[487] bibtex.pm:1653> INFO - LaTeX decoding ...
+[492] bibtex.pm:1471> INFO - Found BibTeX data source 'langscitmp.bib'
+[543] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[543] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[543] Biber.pm:4084> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[544] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[547] bbl.pm:652> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[548] bbl.pm:755> INFO - Output to main.bbl
+[548] Biber.pm:128> INFO - WARNINGS: 1
