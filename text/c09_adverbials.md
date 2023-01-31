@@ -782,7 +782,7 @@ When the combination of resultative and verb is considered to be a new lexicalis
 
 ### [ N | N ] *los/fest* Natural process {#sec:adverbial-natural-process}
 
-Intransitive verbs with a resultative preverbial, but without a reflexive pronoun, appear to be extremely rare. I know of only a few examples describing natural processes, like *rosten* 'to rust' [@next a]. With this verb, no reflexive pronoun is necessary with a resultative preverbial, like *festrosten* 'to rust into something' [@next b]. This is clearly different from the more common intransitive construction with a reflexive pronoun discussed previously ([@sec:adverbial-intransitive-resultative]). The verbs with *fest‑* listed below are typically (but not obligatorily) used with an additional location [@next c].
+In contrast to the verbs in the previous section, intransitive verbs with a resultative preverbial without a reflexive pronoun appear to be extremely rare. I know of only a few examples describing natural processes, like *rosten* 'to rust' [@next a]. With this verb, no reflexive pronoun is added with a resultative preverbial, like *festrosten* 'to fixate into something by rusting' [@next b]. This is clearly different from the more common intransitive construction with a reflexive pronoun discussed previously ([@sec:adverbial-intransitive-resultative]). The verbs with *fest‑* listed below are typically (but not obligatorily) used with an additional location [@next c].
 
 ::: ex
 - Die Züge rosten.
@@ -790,7 +790,7 @@ Intransitive verbs with a resultative preverbial, but without a reflexive pronou
 - Züge rosten an ihren Gleisen fest.^[~~DWDS~~: Die Zeit, 08.05.2002, Nr. 20.]
 :::
 
-This construction only seems to occur with the resultatives *fest‑* and *los-*, similar to the delocative diathesis that is discussed in [@sec:adverbial-antiresultative]. The case of *warmlaufen* seems to be an idiosyncrasy.
+This construction only seems to occur with the resultatives *fest‑* and *los-*, similar to the delocative diathesis that is discussed in [@sec:adverbial-antiresultative]. The example of *warmlaufen* seems to be an idiosyncrasy.
 
 #### Attested verbs {.unnumbered}
 

@@ -33,7 +33,7 @@ There are two kinds of derived clauses. First, an epithesis is a clause alternat
 
 Table: German terminology for clause types {#tbl:clause-types}
 
-## Insubjective diatheses ~~[SBJ › O]~~
+## Insubjective diatheses ~~(SBJ › O)~~
 
 An ~~insubjective~~ is a diathesis that completely removes the role marked as nominative subject without introducing a new subject. For details on the definition see [@sec:intro-isolated-subject-diathesis], specifically starting at [@par:insubjective].
 
@@ -91,7 +91,7 @@ a. Ich traue ihm nicht.
 b. Ihm ist nicht zu trauen.
 :::
 
-## Desubjective diatheses ~~[SBJ › ADJ]~~
+## Desubjective diatheses ~~(SBJ › ADJ)~~
 
 A ~~desubjective~~ is a diathesis that removes the role marked as nominative subject, though this role can still optionally be expressed as a prepositional phrase. For details on the definition see [@sec:intro-isolated-subject-diathesis], specifically starting at [@par:desubjective].
 
@@ -122,7 +122,7 @@ a. Er redet weiter.
 b. Dann heißt es für ihn weiter reden.
 :::
 
-## Conciliative diatheses ~~[ADJ › SBJ › O]~~
+## Conciliative diatheses ~~(ADJ › SBJ › O)~~
 
 A ~~conciliative~~ is a diathesis that completely removes the role marked as subject and promotes an instrument to be the new subject. For details on the definition see [@sec:intro-subject-demotions], specifically starting at [@par:conciliative].
 
@@ -135,7 +135,7 @@ a. Ich öffne die Tür mit dem Schlüssel.
 b. Der Schlüssel öffnet die Tür.
 :::
 
-## Fabricative diatheses ~~[PBJ › SBJ › Ø]~~
+## Fabricative diatheses ~~(PBJ › SBJ › Ø)~~
 
 A ~~fabricative~~ is a diathesis that completely removes the role marked as subject and promotes an fabricated entity to be the new subject. For details on the definition see [@sec:intro-subject-demotions], specifically starting at [@par:fabricative].
 
@@ -159,7 +159,7 @@ b. Ich heule darüber, dass der Schaden so groß ist.
 c. Der Schaden ist zum Heulen.
 :::
 
-## Anticausative diatheses ~~[OBJ › SBJ › Ø]~~
+## Anticausative diatheses ~~(OBJ › SBJ › Ø)~~
 
 An ~~anticausative~~ is a diathesis that completely removes the role marked as subject and promotes an object to be the new subject. For details on the definition see [@sec:intro-subject-demotions], specifically starting at [@par:anticausative].
 
@@ -257,7 +257,7 @@ The ~~Unmöglichkeitsantikausativ~~ (full discussion in [@sec:zuinfinitive-gehen
 - Die Datei geht zu löschen.
 :::
 
-## Passive diatheses ~~[OBJ › SBJ › ADJ]~~ 
+## Passive diatheses ~~(OBJ › SBJ › ADJ)~~ 
 
 A ~~passive~~ is a diathesis that removes the role marked as subject and promotes an object to be the new subject. The erstwhile subject can optionally be expressed as a prepositional phrase. For details on the definition see [@sec:intro-subject-demotions], specifically starting at [@par:passive].
 
@@ -342,7 +342,7 @@ b. Der Minister hat die Haare geschnitten ^?^(durch den Friseur).
 c. Der Minister will die Haare vom Friseur geschnitten haben.
 :::
 
-## Conversive diatheses ~~[OBJ › SBJ › PBJ]~~
+## Conversive diatheses ~~(OBJ › SBJ › PBJ)~~
 
 A ~~conversive~~ is a diathesis that removes the role marked as subject and promotes an object to be the new subject. The erstwhile subject can optionally be expressed as a governed prepositional phrase. For details on the definition see [@sec:intro-subject-demotions], specifically starting at [@par:conversive].
 
@@ -382,7 +382,7 @@ d. Die Forscherin begeistert sich für den Aufsatz.
 e. Die Forscherin ist begeistert über den Aufsatz.
 :::
 
-## Inversive diatheses ~~[OBJ › SBJ › OBJ]~~
+## Inversive diatheses ~~(OBJ › SBJ › OBJ)~~
 
 An ~~inversive~~ is a diathesis that switches subject and object. For details on the definition see [@sec:intro-symmetrical-subject], specifically starting at [@par:inversive].
 
@@ -423,7 +423,7 @@ a. Der Kuchen schmeckt ihr.
 b. Sie lässt sich den Kuchen schmecken.
 :::
 
-## Novative diatheses ~~[Ø › SBJ › OBJ]~~
+## Novative diatheses ~~(Ø › SBJ › OBJ)~~
 
 A ~~novative~~ is a diathesis that introduces a new subject, while demoting the erstwhile subject to an object. For details on the definition see [@sec:intro-subject-promotions], specifically starting at [@par:novative].
 
@@ -536,7 +536,7 @@ b. Sie glaubt den Säugling eingeschlafen. \
    (= Sie glaubt, dass der Säugling eingeschlafen ist.)
 :::
 
-## Novative-with-demotion diatheses ~~[Ø › SBJ › ADJ]~~
+## Novative-with-demotion diatheses ~~(Ø › SBJ › ADJ)~~
 
 A ~~novative with demotion~~ is a diathesis that introduces a new subject, while demoting the erstwhile subject to a prepositional phrase. For details on the definition see [@sec:intro-subject-promotions], specifically starting at [@par:novativedemotion].
 
@@ -561,7 +561,7 @@ a. Die Wäscherei reinigt den Teppich.
 b. Der neue Besitzer lässt den Teppich (von der Wäscherei) reinigen.
 :::
 
-## Applicative diatheses ~~[ADJ › OBJ]~~ 
+## Applicative diatheses ~~(ADJ › OBJ)~~ 
 
 An ~~applicative~~ is a diathesis in which a prepositional phrase is promoted to an object. For details on the definition see [@sec:intro-applicative-antipassive]. Applicatives in German are typically marked by a preverb or an adverb, though possessor and beneficiary datives are also included under this heading.
 
@@ -646,7 +646,7 @@ The ~~Beurteilerdativ~~ (full discussion in [@sec:prepositions-judgement-dative]
   Das Zimmer war ihm warm genug.
 :::
 
-## Antipassive diatheses ~~[OBJ › ADJ]~~
+## Antipassive diatheses ~~(OBJ › ADJ)~~
 
 An ~~antipassive~~ is a diathesis in which an object is demoted to a prepositional phrase. For details on the definition see [@sec:intro-applicative-antipassive]. Antipassives in German are typically unmarked or marked by a reflexive pronoun.
 
@@ -710,7 +710,7 @@ a. Ich treffe dich.
 b. Ich treffe mich mit dir.
 :::
 
-## Objective diatheses ~~[Ø › OBJ]~~
+## Objective diatheses ~~(Ø › OBJ)~~
 
 An ~~objective~~ is a diathesis in which a new object is added. For details on the definition see [@sec:intro-objective-deobjective], specifically starting at [@par:objective]. 
 
@@ -761,7 +761,7 @@ b. Ich lese ein Buch. \
    Ich lese dir ein Buch vor.
 :::
 
-## Deobjective diatheses ~~[OBJ › Ø]~~
+## Deobjective diatheses ~~(OBJ › Ø)~~
 
 A ~~deobjective~~ is a diathesis in which an object is removed. For details on the definition see [@sec:intro-objective-deobjective]. 
 
@@ -817,7 +817,7 @@ b. Ich fühle den Schmerz. \
    Ich fühle mich gut.
 :::
 
-## Locative diatheses ~~[Ø › PBJ]~~
+## Locative diatheses ~~(Ø › PBJ)~~
 
 A ~~locative diathesis~~ is a diathesis in which an obligatory location phrase is added to the clause. For details on the definition see [@sec:intro-locative-delocative]. Note that there is no di­rect grammatical connection between a locative *diathesis* and a locative *case*. Both terms simply use the same modifier because both are somehow related to the marking of location.
 
@@ -868,7 +868,7 @@ b. Er macht die Wiese zu einem Garten. \
    (= Er macht etwas, und dadurch wird die Wiese zu einem Garten.)
 :::
 
-## Delocative diatheses ~~[PBJ › ADJ]~~
+## Delocative diatheses ~~(PBJ › ADJ)~~
 
 A ~~delocative diathesis~~ is a diathesis in which an obligatory location phrase is made optional and is regularly completely removed from the clause. For details on the definition see [@sec:intro-locative-delocative], specifically starting at [@par:delocative].
 
@@ -894,7 +894,7 @@ c. Ich binde den Hund an der Leine fest.
 d. Ich binde den Hund fest.
 :::
 
-## Promoted object exchanges ~~[Ø › OBJ › PBJ]~~
+## Promoted object exchanges ~~(Ø › OBJ › PBJ)~~
 
 A ~~promoted object exchange~~ is a chained diathesis in which a new object is introduced, while at the same time an existing object is demoted. The combination of these two changes is an overall promotion. For details on the definition see [@sec:intro-object-exchange]. The newly introduced object is always a component part (meronym) of the original encompassing object (holonym).
 
@@ -939,7 +939,7 @@ The ~~Resultativ Teil/fest Objekttausch~~ (full discussion in [@sec:adverbial-fe
 - Ich nähe den Knopf fest.
 :::
 
-## Demoted object exchanges ~~[PBJ › OBJ › Ø]~~
+## Demoted object exchanges ~~(PBJ › OBJ › Ø)~~
 
 A ~~demoted object exchange~~ is a chained diathesis in which an obligatory location phrase is promoted to object, while at the same time the existing object is demoted or even removed. The combination of these two changes is an overall demotion. For details on the definition see [@sec:intro-object-exchange]. The new object is always an encompassing entity (holonym) of which the old object is a component part (meronym).
 
@@ -989,7 +989,7 @@ c. Ich pumpe den Reifen mit Luft voll.
 d. Ich pumpe den Reifen voll.
 :::
 
-## Other object exchanges ~~[ADJ › OBJ › PBJ]~~
+## Other object exchanges ~~(ADJ › OBJ › PBJ)~~
 
 ### *Pertinenzakkusativ* {#sec:summary-pertinenzakkusativ}
 

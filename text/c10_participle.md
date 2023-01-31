@@ -384,6 +384,23 @@ In contrast, the *haben/sein+Partizip Perfekt* (see [@sec:participles-no-diathes
 - Ich habe das Haus gestern gekauft.
 :::
 
+### *haben+Partizip* and *sein+Partizip* as a unified construction
+
+The combination of the light verbs *haben* and *sein* with a participle is traditionally considered to be a single tense/aspect construction, called ~~Perfekt~~ in the German grammatical terminology. Given the latinate origin of much of modern grammatical theory, the wish for a unified German equivalent of the inflectional Latin ~~Perfectum~~ is perfectly understandable. However, it is far from obvious that this German *Perfekt* is a unified construction. It is mostly simply assumed "from tradition" that both *haben+Partizip* and *sein+Partizip* are a single construction. In this section I will present some arguments in favour of this analysis. The detailed discussion of the distrubution of *haben* vs. *sein* is presented in [@sec:participles-haben-perfect] and subsequent sections.
+
+The first argument in favour of a unified German *Perfekt* construction is that the light verbs *haben* and *sein* occur in almost complete complementary distribution. Only very few verbs are attested that allow for both. However, for this generalisation to work, various diatheses have to be excluded (see [@sec:participles-haben-sein-perfect; @sec:participles-haben-sein-perfect-reflexive-drop]). Also the *haben/sein+Partizip* passives have to be separated (see [@sec:participles-sein-zustandspassiv; @sec:participles-haben-passive; @sec:participles-sein-conversive]).
+
+A second intriguing argument is that all German verbs have a *Perfekt*. In other words, every stem that allows for finite inflection also has at least one of the two constructions *haben+Partizip* or *sein+Partizip* without any role mapping (i.e. without diathesis). Such an universal applicability of a construction to all verbs is otherwise only attested (arguably) with *Modalverben* (see [@sec:infinitive-werden-modal] and subsequent sections). This universal applicability of the *Perfekt* and the *Modalverben* is reflected in the widespread practice of the German grammatical tradition to consider the *haben+Partizip*, *sein+Partizip* and *werden+In­fi­ni­tiv* as part of the inflectional paradigm of a verb. In contrast, all the hundreds of other constructions discussed in this book always have a restricted domain of application, i.e. they do not apply to all verbs (cf. [@sec:intro-domain-of-application]).
+
+The universal applicability of the *Perfekt* is known to have been developed in the late Middle Ages and was only completed in the 16th century with the development of a *haben+Partizip* construction for the *Modalverben* [@fischer2020: 258].^[Fischer writes: "Ab 1300 und häufiger erst ab 1400 bildet auch das Verb *haben* Perfektformen (*hat gehabt*). Perfektbildungen der Modalverben sind erst ab Anfang des 16. Jahrhunderts belegt, wobei diese im Mittelhochdeutschen noch verschiedene Konkurrenzformen haben […]. Erst dann hat die Perfektgrammatikalisierung alle Verben des Deutschen erfasst und ist vollständig vollzogen." [@fischer2020: 258]] However, examples of a *Perfekt* with various *Modalverben* are still really rare in German. For example, only a few examples of *haben gedurft* are attested in the ~~DWDS~~ corpus, almost exclusively with *haben* in the *Konjunktiv*.^[For example, the search "\@gedurft haben" gives 60 hits in the *Referenz- und Zeitungskorpora* (available at <https://www.dwds.de/d/korpora/public).> Only three of those are not in the *Konjunktiv*, and one of those appears to be an error. Similarly, the search "haben #4 \@gedurft" gives 64 hits with only 5 not in the *Konjunktiv*. All searcher were performed on 21 September 2022.]
+
+There is a lot of fluidity in the temporal interpretation of the *Perfekt*, with much dialectal variation, ongoing change, and idiosyncratic diversity [@fischer2020]. Basically, the *Perfekt* in contemporary German is very close to the simple past (*Präteritum*) and seems to replace it in various contexts. Also, while this constructions is called *Perfekt*, it is clearly not marking a grammatical perfect aspect (see [@sec:participles-temporal-interpretation]). Additionally, the temporal structure of the *Perfekt* is completely exceptional compared to all other participle constructions. First, it cannot be used with point-time reference to the future, e.g. *morgen* 'tomorrow' [@next a] and, second, any inflectional tense marking is independent from time reference. As a result, the *Perfekt* can be used with a combination of past time reference (e.g. *gestern* 'yesterday') and *Präsens* tense marking [@next b]. These characteristics are otherwise completely unattested in German participle constructions, and it is thus reliable indicator of a *Perfekt* construction.
+
+::: ex
+- ^* Ich habe das Haus morgen gekauft.
+- Ich habe das Haus gestern gekauft.
+:::
+
 ### Different diatheses with the same light verb {#sec:participle-different-diatheses}
 
 Many light-verb constructions with participles will be discussed in more than one subsection in this chapter. This is necessary because many light-verb constructions show different sentence alternations for verbs with different valency. Typically, participles of intransitive and participles of transitive verbs will lead to different alternations. For example, some intransitive verbs, like *schlafen* 'to sleep' [@next a], allow for an *werden* impersonal passive in which the nominative argument is dropped (see [@sec:participles-werden-impersonal-passive]). In contrast, with many transitive verbs, like *putzen* 'to clean' [@next b], the *werden* passive shows a different diathesis in which the accusative is turned into a nominative (see [@sec:participles-werden-passive]).
@@ -523,7 +540,7 @@ b. Sie hat die Haare geschnitten. \
 
 Finally, the light verbs *gehören*, *sehen*, *wissen* and *glauben* can be combined with participles, but they do not seem to occur with predicative adjectives.
 
-## Deponent verbs without alternations {#sec:participles-no-alternation}
+## Deponent verbs {#sec:participles-no-alternation}
 
 Most participles are regularly derived from verb stems that also have finite inflection. However, there are various participles that are not directly related to a finite verb, but that still occur in light-verb constructions. Such a participle is sometimes called a *Scheinpartizip* in German [cf. @haig2005]. However, this name is somewhat of a misnomer as there is nothing 'apparent' (*schein*) about these participles. In contrast, it is the finite verb that is missing. A name like *Scheinverbpartizip* 'participle of an apparent verb' would be more accurate, but of course rather cumbersome. In this section, I will discuss the following kinds of participles without finite counterpart [cf. @rapp1997: 220ff.; @haig2005]:
 
@@ -577,7 +594,7 @@ c. Bei Wind verfrieren die Wangen in kürzester Zeit.^[~~DWDS~~: Die Zeit, 10.01
 d. Meine Wangen sind verfroren.
 :::
 
-### Participles from loanwords {#sec:participles-loanwords}
+### Deponent participles from loanwords {#sec:participles-loanwords}
 
 There are some participles ending in *‑iert* that do not have any finite counterparts. These are build using a widespread German suffix *‑ier* to turn loanwords into German verbs, like with *montieren* 'to assemble'. This verb clearly has finite and non-finite forms, among them a participle *montiert*.^[This participle has no prefix *ge‑* because of the general German rule that verbs with non-initial stress do not get a prefix [@wiese1996: 92]. With these loan verbs, the suffix *‑ier* is always stressed, so there is never any prefix.]
 
@@ -587,7 +604,7 @@ However, there are various participle-like forms ending in *‑iert* that do not
 
 - *alkoholisiert, motorisiert, dezidiert, deplatziert, detailliert, kariert, versiert, pointiert*
 
-### Participles from nouns {#sec:participles-nouns}
+### Deponent participles from nouns {#sec:participles-nouns}
 
 There exist various German words that are clearly participles in form, but their stems are nouns and not finite verbs [cf. @haig2005: 119]. This might look like conversion, but it is not. The wholesale (zero-marked) conversion of nouns into finite verbs is clearly attested in German (e.g. *ölen* 'to apply oil' from the noun *Öl*, 'oil'), but this is far from as productive as in English.
 
@@ -632,7 +649,7 @@ a. Ich bin gut gelaunt.
 b. ^* Ich laune gut.
 :::
 
-### Participles with preverbs {#sec:participles-preverbs}
+### Deponent participles with preverbs {#sec:participles-preverbs}
 
 Words like *einverstanden* 'agreed' [@next a] look morphologically like a regular participle from a verb *einverstehen*. However, that verb does not exist [@next b], only the non-prefixed verb *verstehen* exists. Latzel [-@latzel1977: 79--80] discussed various examples with the preverb *aus‑* and Rothstein [-@rothstein2007a: 162] lists examples with the preverb *an‑* that only occur in construction with light verb *kommen* (see [@sec:participles-kommen]). Participles with preverbs that do not have a corresponding finite verb appear to be a common phenomenon and the participles listed here should only to be taken as illustrative examples.
 
@@ -648,23 +665,6 @@ b. ^* Ich verstehe ein.
 - Other preverbs : *abgeneigt, befangen, bekannt, bescheuert, bewusst, einverstanden, erlesen, verfressen, verhasst, verrotzt, verschämt, verträumt, zerschunden*
 
 ## Alternations without diathesis {#sec:participles-no-diathesis}
-
-###      --- *haben/sein Perfekt* --- {.unnumbered}
-
-The combination of the light verbs *haben* and *sein* with a participle is traditionally considered to be a single tense/aspect construction, called ~~Perfekt~~ in the German grammatical terminology. Given the latinate origin of much of modern grammatical theory, the wish for a unified German equivalent of the inflectional Latin ~~Perfectum~~ is perfectly understandable. However, it is far from obvious that this German *Perfekt* is a unified construction.
-
-The first argument in favour of a unified German *Perfekt* construction is that the light verbs *haben* and *sein* occur in almost complete complementary distribution. Only very few verbs are attested that allow for both. However, for this generalisation to work, various diatheses have to be excluded (see [@sec:participles-haben-sein-perfect; @sec:participles-haben-sein-perfect-reflexive-drop]). Also the *haben/sein+Partizip* passives have to be separated (see [@sec:participles-sein-zustandspassiv; @sec:participles-haben-passive; @sec:participles-sein-conversive]).
-
-A second intriguing argument is that all German verbs have a *Perfekt*. In other words, every stem that allows for finite inflection also has at least one of the two constructions *haben+Partizip* or *sein+Partizip* without any role mapping (i.e. without diathesis). Such an universal applicability of a construction to all verbs is otherwise only attested (arguably) with *Modalverben* (see [@sec:infinitive-werden-modal] and subsequent sections). This universal applicability of the *Perfekt* and the *Modalverben* is reflected in the widespread practice of the German grammatical tradition to consider the *haben+Partizip*, *sein+Partizip* and *werden+In­fi­ni­tiv* as part of the inflectional paradigm of a verb. In contrast, all the hundreds of other constructions discussed in this book always have a restricted domain of application, i.e. they do not apply to all verbs (cf. [@sec:intro-domain-of-application]).
-
-The universal applicability of the *Perfekt* is known to have been developed in the late Middle Ages and was only completed in the 16th century with the development of a *haben+Partizip* construction for the *Modalverben* [@fischer2020: 258].^[Fischer writes: "Ab 1300 und häufiger erst ab 1400 bildet auch das Verb *haben* Perfektformen (*hat gehabt*). Perfektbildungen der Modalverben sind erst ab Anfang des 16. Jahrhunderts belegt, wobei diese im Mittelhochdeutschen noch verschiedene Konkurrenzformen haben […]. Erst dann hat die Perfektgrammatikalisierung alle Verben des Deutschen erfasst und ist vollständig vollzogen." [@fischer2020: 258]] However, examples of a *Perfekt* with various *Modalverben* are still really rare in German. For example, only a few examples of *haben gedurft* are attested in the ~~DWDS~~ corpus, almost exclusively with *haben* in the *Konjunktiv*.^[For example, the search "\@gedurft haben" gives 60 hits in the *Referenz- und Zeitungskorpora* (available at <https://www.dwds.de/d/korpora/public).> Only three of those are not in the *Konjunktiv*, and one of those appears to be an error. Similarly, the search "haben #4 \@gedurft" gives 64 hits with only 5 not in the *Konjunktiv*. All searcher were performed on 21 September 2022.]
-
-There is a lot of fluidity in the temporal interpretation of the *Perfekt*, with much dialectal variation, ongoing change, and idiosyncratic diversity [@fischer2020]. Basically, the *Perfekt* in contemporary German is very close to the simple past (*Präteritum*) and seems to replace it in various contexts. Also, while this constructions is called *Perfekt*, it is clearly not marking a grammatical perfect aspect (see [@sec:participles-temporal-interpretation]). Additionally, the temporal structure of the *Perfekt* is exceptional compared to all other participle constructions. It cannot be used with point-time reference to the future [@next a] and any inflectional tense marking is independent from time reference. As a result, the *Perfekt* can be used with a combination of past time reference and *Präsens* tense marking [@next b]. This combination is otherwise completely unattested in German participle constructions, and it is thus reliable indicator of a *Perfekt* construction.
-
-::: ex
-- ^* Ich habe das Haus morgen gekauft.
-- Ich habe das Haus gestern gekauft.
-:::
 
 ### [ N | N ] *haben+Partizip* Intransitive perfect {#sec:participles-haben-perfect}
 
@@ -912,7 +912,7 @@ c. Heute wird dem Studenten geantwortet.
 
 ### [ ND | ND ] *sein+Partizip* Dative perfect {#sec:participle-sein-perfect-dative}
 
-Similar to intransitives, the dative-verbs with *sein*, like *gelingen* 'to succeed' [@next a], all appear to allow for a construction with an adnominal participle [@next b], while the impersonal *werden* passive is not possible [@next c]. Among these verbs, there are very many with the *ent‑* prefix. Other than that special group, there does not appear to be any obvious semantic differentiation between the nominative+dative verbs that take *sein+Partizip* vs. those that take *haben+Partizip* (as discussed in the previous section).
+Similar to intransitives, the dative-verbs with a *sein+Partizip* perfekt, like *gelingen* 'to succeed' [@next a], all appear to allow for a construction with an adnominal participle [@next b], while the impersonal *werden* passive is not possible [@next c]. Among these verbs, there are very many with the *ent‑* prefix. Other than that special group, there does not appear to be any obvious semantic differentiation between the nominative+dative verbs that take *sein+Partizip* vs. those that take *haben+Partizip* (as discussed in the previous section).
 
 ::: ex
 a. Das Gemälde ist mir gelungen.
@@ -1087,7 +1087,7 @@ The secondary predicate usage is also possible with transitive verbs, but then t
 
 ### [ N | N ] *bleiben+Partizip* Continuative {#sec:participles-bleiben-intransitive}
 
-The *bleiben+Partizip* construction can be used both with some transitive verbs leading to a passive diathesis (see [@sec:participles-bleiben-transitive]), and with a few intransitives, but then without any diathesis. For example, verbs like *verschwinden* 'to vanish, to go missing' [@next a] or *zufrieren* 'to freeze over' [@next b] allow for this epithesis. There is a close connection to the *sein+Partizip* passive construction, though with an added notion of continuation.
+The *bleiben+Partizip* construction can be used with transitive verbs leading to a passive diathesis (see [@sec:participles-bleiben-transitive]), and with intransitive verbs, but then without any diathesis (this section). For example, intransitive verbs like *verschwinden* 'to vanish, to go missing' [@next a] or *zufrieren* 'to freeze over' [@next b] allow for this epithesis. There is a close connection to the *sein+Partizip* passive construction, though with an added notion of continuation.
 
 ::: ex
 - Der Schlüssel verschwindet. \
@@ -1096,7 +1096,7 @@ The *bleiben+Partizip* construction can be used both with some transitive verbs 
   Weihnachten rückt näher, und der Binnensee bleibt zugefroren.^[Attested online at <https://www.haz.de/Umland/Wunstorf/Nachrichten/Inselvogt-Zobel-von-Feuerwehr-gerettet>, accessed 16 July 2021.]
 :::
 
-The *bleiben+Partizip* construction is only possible with verbs that also allow for a *sein+Partizip* perfect ([@sec:participles-sein-perfect]), though far from all verbs allow for both. In general, it turns out to be far from easy to find many examples of *bleiben+Partizip* with intransitive verbs, suggesting that there are strong restrictions on the application of this construction. There is a strong semantic intuition that only reversible events allow for a *bleiben+Partizip* construction [@helbig2001: 163; @schlucker2007: 152]. However, examples are attested with clearly irreversible events like *verbrennen* 'to burn' [@next a] or punctual events like *einschlafen* 'to fall asleep' [@next b]. The notion "reversibility" is thus clearly not the whole explanation.
+The *bleiben+Partizip* construction is only possible with intransitive verbs that also allow for a *sein+Partizip* perfect ([@sec:participles-sein-perfect]), though far from all verbs allow for both. In general, it turns out to be not easy to find many examples of *bleiben+Partizip* with intransitive verbs, suggesting that there are restrictions on the application of this construction. There is a strong semantic intuition that only reversible events allow for a *bleiben+Partizip* construction [@helbig2001: 163; @schlucker2007: 152]. However, examples are attested with clearly irreversible events like *verbrennen* 'to burn' [@next a] or punctual events like *einschlafen* 'to fall asleep' [@next b]. The notion "reversibility" is thus clearly not the whole explanation.
 
 ::: ex
 - ^^?^ Das Buch bleibt verbrannt. \

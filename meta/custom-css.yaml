@@ -30,6 +30,7 @@ header-includes:
   }
   .header-section-number {
     display: inline-block;
+    padding-right: 0.2em;
   }
   #toc-title {
     text-indent: 0px;

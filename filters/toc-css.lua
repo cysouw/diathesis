@@ -79,6 +79,9 @@ nav ul li ul  {
   margin-bottom: 0.2em;
   transition: 0.5s;
 }
+.toc-section-number {
+  padding-right: 0.2em;
+}
 .paddingleft {
   padding-left: 9cm;
   transition: 0.5s;
