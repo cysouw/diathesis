@@ -437,27 +437,27 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.3}Deponent verbs}{140}{section.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.1}\textsc {{[}--{]}} No arguments}{140}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.1}{[} -- {]} No arguments}{140}{subsection.5.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.2}\textsc {{[}n{]}} Nominative}{141}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.2}{[} N {]} Nominative}{141}{subsection.5.3.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{141}{section*.10}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{142}{section*.11}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.3}\textsc {{[}na{]}} Nominative+accusative}{142}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.3}{[} NA {]} Nominative+accusative}{142}{subsection.5.3.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{142}{section*.12}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{143}{section*.13}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.4}\textsc {{[}na{]}} Nominative+quantified object}{143}{subsection.5.3.4}%
+\contentsline {subsection}{\numberline {5.3.4}{[} NA {]} Nominative+quantified object}{143}{subsection.5.3.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{144}{section*.14}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{144}{section*.15}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.5}\textsc {{[}nd{]}} Nominative+dative}{145}{subsection.5.3.5}%
+\contentsline {subsection}{\numberline {5.3.5}{[} ND {]} Nominative+dative}{145}{subsection.5.3.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{145}{section*.16}%
 \defcounter {refsection}{0}\relax 
@@ -465,25 +465,25 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{146}{section*.18}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.6}\textsc {{[}ng{]}} Nominative+genitive}{146}{subsection.5.3.6}%
+\contentsline {subsection}{\numberline {5.3.6}{[} NG {]} Nominative+genitive}{146}{subsection.5.3.6}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{146}{section*.19}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{147}{section*.20}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.7}\textsc {{[}nad{]}} Nominative+accusative+dative}{147}{subsection.5.3.7}%
+\contentsline {subsection}{\numberline {5.3.7}{[} NAD {]} Nominative+accusative+dative}{147}{subsection.5.3.7}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{147}{section*.21}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{147}{section*.22}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.8}\textsc {{[}nag{]}} Nominative+accusative+genitive}{148}{subsection.5.3.8}%
+\contentsline {subsection}{\numberline {5.3.8}{[} NAG {]} Nominative+accusative+genitive}{148}{subsection.5.3.8}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{148}{section*.23}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.9}\textsc {{[}naa{]}} Nominative+accusative+accusative}{148}{subsection.5.3.9}%
+\contentsline {subsection}{\numberline {5.3.9}{[} NAA {]} Nominative+accusative+accusative}{148}{subsection.5.3.9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.10}\textsc {{[}naa{]}} Nominative+accusative+named object}{149}{subsection.5.3.10}%
+\contentsline {subsection}{\numberline {5.3.10}{[} NAA {]} Nominative+accusative+named object}{149}{subsection.5.3.10}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{149}{section*.24}%
 \defcounter {refsection}{0}\relax 
@@ -493,29 +493,29 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.5}Diatheses with subject demotion}{150}{section.5.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.5.1}\textsc {sbj › ø : {[}n \textbar {} --{]}} Nominative drop}{150}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.1}\textsc {sbj › ø} : {[} N \textbar {} -- {]} Nominative drop}{150}{subsection.5.5.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{150}{section*.26}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{150}{section*.27}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.5.2}\textsc {sbj › ø : {[}na \textbar {} --a{]}} Nominative drop+accusative}{151}{subsection.5.5.2}%
+\contentsline {subsection}{\numberline {5.5.2}\textsc {sbj › ø} : {[} NA \textbar {} --A {]} Nominative drop+accusative}{151}{subsection.5.5.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{151}{section*.28}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{151}{section*.29}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.5.3}\textsc {sbj › ø : {[}nd \textbar {} --d{]}} Nominative drop+dative}{151}{subsection.5.5.3}%
+\contentsline {subsection}{\numberline {5.5.3}\textsc {sbj › ø} : {[} ND \textbar {} --D {]} Nominative drop+dative}{151}{subsection.5.5.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{152}{section*.30}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{152}{section*.31}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.5.4}\textsc {sbj › ø : {[}ng \textbar {} --g{]}} Nominative drop+genitive}{152}{subsection.5.5.4}%
+\contentsline {subsection}{\numberline {5.5.4}\textsc {sbj › ø} : {[} NG \textbar {} --G {]} Nominative drop+genitive}{152}{subsection.5.5.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{152}{section*.32}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.5.5}\textsc {obj › sbj › ø : {[}na \textbar {} --n{]}} \emph {haben} anticausative}{152}{subsection.5.5.5}%
+\contentsline {subsection}{\numberline {5.5.5}\textsc {obj › sbj › ø} : {[} NA \textbar {} --N {]} \emph {haben} anticausative}{152}{subsection.5.5.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{153}{section*.33}%
 \defcounter {refsection}{0}\relax 
@@ -523,19 +523,19 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{154}{section*.35}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.5.6}\textsc {obj › sbj › ø : {[}nad \textbar {} --nd{]}} \emph {haben} anticausative+dative}{155}{subsection.5.5.6}%
+\contentsline {subsection}{\numberline {5.5.6}\textsc {obj › sbj › ø} : {[} NAD \textbar {} --ND {]} \emph {haben} anticausative+dative}{155}{subsection.5.5.6}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{156}{section*.36}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.6}Diatheses with promotion to subject}{156}{section.5.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.6.1}\textsc {ø › sbj : {[}-- \textbar {} n{]}} Weather agents}{156}{subsection.5.6.1}%
+\contentsline {subsection}{\numberline {5.6.1}\textsc {ø › sbj} : {[} -- \textbar {} N {]} Weather agents}{156}{subsection.5.6.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{157}{section*.37}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{157}{section*.38}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.6.2}\textsc {ø › sbj › obj : {[}--n \textbar {} na{]}} \emph {sein} causative}{157}{subsection.5.6.2}%
+\contentsline {subsection}{\numberline {5.6.2}\textsc {ø › sbj › obj} : {[} --N \textbar {} NA {]} \emph {sein} causative}{157}{subsection.5.6.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{159}{section*.39}%
 \defcounter {refsection}{0}\relax 
@@ -543,29 +543,29 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{160}{section*.41}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.6.3}\textsc {ø › sbj › obj : {[}--n \textbar {} na{]}} \emph {Umlaut} causative}{160}{subsection.5.6.3}%
+\contentsline {subsection}{\numberline {5.6.3}\textsc {ø › sbj › obj} : {[} --N \textbar {} NA {]} \emph {Umlaut} causative}{160}{subsection.5.6.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{161}{section*.42}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{161}{section*.43}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.6.4}\textsc {ø › sbj › obj : {[}--n \textbar {} na{]}} \emph {Umlaut} adjectival causative}{161}{subsection.5.6.4}%
+\contentsline {subsection}{\numberline {5.6.4}\textsc {ø › sbj › obj} : {[} --N \textbar {} NA {]} \emph {Umlaut} adjectival causative}{161}{subsection.5.6.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{161}{section*.44}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.6.5}\textsc {obj › sbj : {[}a \textbar {} n{]}} Accusative-to-nominative promotion}{161}{subsection.5.6.5}%
+\contentsline {subsection}{\numberline {5.6.5}\textsc {obj › sbj} : {[} A \textbar {} N {]} Accusative-to-nominative promotion}{161}{subsection.5.6.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{162}{section*.45}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.7}Diatheses with object demotion}{162}{section.5.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.7.1}\textsc {obj › ø : {[}na \textbar {} n--{]}} Accusative drop}{162}{subsection.5.7.1}%
+\contentsline {subsection}{\numberline {5.7.1}\textsc {obj › ø} : {[} NA \textbar {} N-- {]} Accusative drop}{162}{subsection.5.7.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{163}{section*.46}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{163}{section*.47}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.7.2}\textsc {obj › ø : {[}naa \textbar {} na--{]}} Accusative drop+accusative}{163}{subsection.5.7.2}%
+\contentsline {subsection}{\numberline {5.7.2}\textsc {obj › ø} : {[} NAA \textbar {} NA-- {]} Accusative drop+accusative}{163}{subsection.5.7.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{164}{section*.48}%
 \defcounter {refsection}{0}\relax 
@@ -573,17 +573,17 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{164}{section*.50}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.7.3}\textsc {obj › ø : {[}nad \textbar {} n--d{]}} Accusative drop+dative}{165}{subsection.5.7.3}%
+\contentsline {subsection}{\numberline {5.7.3}\textsc {obj › ø} : {[} NAD \textbar {} N--D {]} Accusative drop+dative}{165}{subsection.5.7.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{165}{section*.51}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.7.4}\textsc {obj › ø : {[}nd \textbar {} n--{]}} Dative drop}{165}{subsection.5.7.4}%
+\contentsline {subsection}{\numberline {5.7.4}\textsc {obj › ø} : {[} ND \textbar {} N-- {]} Dative drop}{165}{subsection.5.7.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{166}{section*.52}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{166}{section*.53}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.7.5}\textsc {obj › ø : {[}nad \textbar {} na--{]}} Dative drop+accusative}{166}{subsection.5.7.5}%
+\contentsline {subsection}{\numberline {5.7.5}\textsc {obj › ø} : {[} NAD \textbar {} NA-- {]} Dative drop+accusative}{166}{subsection.5.7.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{166}{section*.54}%
 \defcounter {refsection}{0}\relax 
@@ -591,13 +591,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{167}{section*.56}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.7.6}\textsc {obj › ø : {[}nad \textbar {} n-- --{]}} Dative drop+accusative drop}{167}{subsection.5.7.6}%
+\contentsline {subsection}{\numberline {5.7.6}\textsc {obj › ø} : {[} NAD \textbar {} N-- -- {]} Dative drop+accusative drop}{167}{subsection.5.7.6}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{167}{section*.57}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.7.7}\textsc {obj › ø : {[}ng \textbar {} n--{]}} Genitive drop}{168}{subsection.5.7.7}%
+\contentsline {subsection}{\numberline {5.7.7}\textsc {obj › ø} : {[} NG \textbar {} N-- {]} Genitive drop}{168}{subsection.5.7.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.7.8}\textsc {obj › ø : {[}nag \textbar {} na--{]}} Genitive drop+accusative}{168}{subsection.5.7.8}%
+\contentsline {subsection}{\numberline {5.7.8}\textsc {obj › ø} : {[} NAG \textbar {} NA-- {]} Genitive drop+accusative}{168}{subsection.5.7.8}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{168}{section*.58}%
 \defcounter {refsection}{0}\relax 
@@ -605,19 +605,19 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.8}Diatheses with promotion to object}{169}{section.5.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.8.1}\textsc {ø › obj : {[}n-- \textbar {} na{]}} Added result}{169}{subsection.5.8.1}%
+\contentsline {subsection}{\numberline {5.8.1}\textsc {ø › obj} : {[} N-- \textbar {} NA {]} Added result}{169}{subsection.5.8.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{170}{section*.60}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{170}{section*.61}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.8.2}\textsc {ø › obj : {[}-- \textbar {} a{]}} Weather result}{170}{subsection.5.8.2}%
+\contentsline {subsection}{\numberline {5.8.2}\textsc {ø › obj} : {[} -- \textbar {} A {]} Weather result}{170}{subsection.5.8.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{170}{section*.62}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{171}{section*.63}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.8.3}\textsc {adj › obj : {[}ng \textbar {} nd{]}} Possessor-of-nominative dative}{171}{subsection.5.8.3}%
+\contentsline {subsection}{\numberline {5.8.3}\textsc {adj › obj} : {[} Ng \textbar {} ND {]} Possessor-of-nominative dative}{171}{subsection.5.8.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{171}{section*.64}%
 \defcounter {refsection}{0}\relax 
@@ -625,7 +625,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{172}{section*.66}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.8.4}\textsc {adj › obj : {[}nag \textbar {} nad{]}} Possessor-of-accusative dative}{172}{subsection.5.8.4}%
+\contentsline {subsection}{\numberline {5.8.4}\textsc {adj › obj} : {[} NAg \textbar {} NAD {]} Possessor-of-accusative dative}{172}{subsection.5.8.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{173}{section*.67}%
 \defcounter {refsection}{0}\relax 
@@ -633,21 +633,21 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.9}Symmetrical diatheses}{174}{section.5.9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.9.1}\textsc {obj › sbj › obj : {[}na \textbar {} an{]}} Accusative/accusative inversive}{174}{subsection.5.9.1}%
+\contentsline {subsection}{\numberline {5.9.1}\textsc {obj › sbj › obj} : {[} NA \textbar {} AN {]} Accusative/accusative inversive}{174}{subsection.5.9.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{174}{section*.69}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.9.2}\textsc {obj › sbj › obj : {[}na \textbar {} dn{]}} Accusative/dative inversive}{174}{subsection.5.9.2}%
+\contentsline {subsection}{\numberline {5.9.2}\textsc {obj › sbj › obj} : {[} NA \textbar {} DN {]} Accusative/dative inversive}{174}{subsection.5.9.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{175}{section*.70}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{175}{section*.71}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.9.3}\textsc {obj › obj : {[}a \textbar {} d{]}} Accusative-to-dative}{175}{subsection.5.9.3}%
+\contentsline {subsection}{\numberline {5.9.3}\textsc {obj › obj} : {[} A \textbar {} D {]} Accusative-to-dative}{175}{subsection.5.9.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{175}{section*.72}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.9.4}\textsc {obj › obj : {[}naa \textbar {} nad{]}} Accusative-to-dative+accusative}{176}{subsection.5.9.4}%
+\contentsline {subsection}{\numberline {5.9.4}\textsc {obj › obj} : {[} NAA \textbar {} NAD {]} Accusative-to-dative+accusative}{176}{subsection.5.9.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{176}{section*.73}%
 \defcounter {refsection}{0}\relax 
@@ -655,13 +655,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{176}{section*.75}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.9.5}\textsc {obj › obj : {[}ng \textbar {} na{]}} Genitive-to-accusative}{176}{subsection.5.9.5}%
+\contentsline {subsection}{\numberline {5.9.5}\textsc {obj › obj} : {[} NG \textbar {} NA {]} Genitive-to-accusative}{176}{subsection.5.9.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{176}{section*.76}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{177}{section*.77}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.9.6}\textsc {obj › obj › obj : {[}nga \textbar {} nad{]}} Genitive-to-accusative-to-dative}{177}{subsection.5.9.6}%
+\contentsline {subsection}{\numberline {5.9.6}\textsc {obj › obj › obj} : {[} NGA \textbar {} NAD {]} Genitive-to-accusative-to-dative}{177}{subsection.5.9.6}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{177}{section*.78}%
 \defcounter {refsection}{0}\relax 
@@ -687,7 +687,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.3}Deponent verbs}{187}{section.6.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.1}\textsc {{[}np{]}} Governed preposition}{187}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.1}{[} NP {]} Governed preposition}{187}{subsection.6.3.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{188}{section*.79}%
 \defcounter {refsection}{0}\relax 
@@ -695,31 +695,31 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{188}{section*.81}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.2}\textsc {{[}nap{]}} Governed preposition+accusative}{189}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.2}{[} NAP {]} Governed preposition+accusative}{189}{subsection.6.3.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{189}{section*.82}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{189}{section*.83}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.3}\textsc {{[}nl{]}} Obligatory local preposition}{189}{subsection.6.3.3}%
+\contentsline {subsection}{\numberline {6.3.3}{[}NL{]} Obligatory local preposition}{189}{subsection.6.3.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{190}{section*.84}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{190}{section*.85}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.4}\textsc {{[}nal{]}} Obligatory local preposition+accusative}{190}{subsection.6.3.4}%
+\contentsline {subsection}{\numberline {6.3.4}{[}NAL{]} Obligatory local preposition+accusative}{190}{subsection.6.3.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{190}{section*.86}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{190}{section*.87}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.5}\textsc {{[}np{]}} Accusative \emph {es}+governed preposition}{191}{subsection.6.3.5}%
+\contentsline {subsection}{\numberline {6.3.5}{[} NP {]} Accusative \emph {es}+governed preposition}{191}{subsection.6.3.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{191}{section*.88}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{191}{section*.89}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.6}\textsc {{[}np{]}} Bare reciprocal \emph {mit}}{191}{subsection.6.3.6}%
+\contentsline {subsection}{\numberline {6.3.6}{[} Np {]} Bare reciprocal \emph {mit}}{191}{subsection.6.3.6}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{192}{section*.90}%
 \defcounter {refsection}{0}\relax 
@@ -729,7 +729,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.5}Diatheses with subject demotion}{192}{section.6.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.5.1}\textsc {sbj › ø : {[}np \textbar {} --p{]}} Nominative drop+governed preposition}{192}{subsection.6.5.1}%
+\contentsline {subsection}{\numberline {6.5.1}\textsc {sbj › ø} : {[} NP \textbar {} --P {]} Nominative drop+governed preposition}{192}{subsection.6.5.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{193}{section*.92}%
 \defcounter {refsection}{0}\relax 
@@ -737,25 +737,25 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{193}{section*.94}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.5.2}\textsc {sbj › adj : {[}nd \textbar {} pd{]}} Nominative demotion+dative}{193}{subsection.6.5.2}%
+\contentsline {subsection}{\numberline {6.5.2}\textsc {sbj › adj} : {[} ND \textbar {} pD {]} Nominative demotion+dative}{193}{subsection.6.5.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{193}{section*.95}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{194}{section*.96}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.5.3}\textsc {sbj › adj : {[}n-- \textbar {} pd{]}} Nominative demotion+dative addition}{194}{subsection.6.5.3}%
+\contentsline {subsection}{\numberline {6.5.3}\textsc {sbj › adj} : {[} N-- \textbar {} pD {]} Nominative demotion+dative addition}{194}{subsection.6.5.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{194}{section*.97}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{194}{section*.98}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.5.4}\textsc {adj › sbj › ø : {[}np \textbar {} --n{]}} Intransitive conciliative}{194}{subsection.6.5.4}%
+\contentsline {subsection}{\numberline {6.5.4}\textsc {adj › sbj › ø} : {[} Np \textbar {} --N {]} Intransitive conciliative}{194}{subsection.6.5.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{195}{section*.99}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{195}{section*.100}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.5.5}\textsc {adj › sbj › ø : {[}npa \textbar {} --na{]}} Transitive conciliative}{195}{subsection.6.5.5}%
+\contentsline {subsection}{\numberline {6.5.5}\textsc {adj › sbj › ø} : {[} NpA \textbar {} --NA {]} Transitive conciliative}{195}{subsection.6.5.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{196}{section*.101}%
 \defcounter {refsection}{0}\relax 
@@ -763,13 +763,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{197}{section*.103}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.5.6}\textsc {adj › sbj › ø : {[}npa \textbar {} --np{]}} Ingredient conciliative}{197}{subsection.6.5.6}%
+\contentsline {subsection}{\numberline {6.5.6}\textsc {adj › sbj › ø} : {[} NpA \textbar {} --Np {]} Ingredient conciliative}{197}{subsection.6.5.6}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{197}{section*.104}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{197}{section*.105}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.5.7}\textsc {pbj › sbj › ø : {[}npa \textbar {} --na{]}} Transitive fabricative}{198}{subsection.6.5.7}%
+\contentsline {subsection}{\numberline {6.5.7}\textsc {pbj › sbj › ø} : {[} NPA \textbar {} --NA {]} Transitive fabricative}{198}{subsection.6.5.7}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{198}{section*.106}%
 \defcounter {refsection}{0}\relax 
@@ -777,15 +777,15 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{199}{section*.108}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.5.8}\textsc {pbj › sbj › ø : {[}np \textbar {} --n{]}} Intransitive fabricative}{199}{subsection.6.5.8}%
+\contentsline {subsection}{\numberline {6.5.8}\textsc {pbj › sbj › ø} : {[} NP \textbar {} --N {]} Intransitive fabricative}{199}{subsection.6.5.8}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{199}{section*.109}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.5.9}\textsc {pbj › sbj › ø : {[}npd \textbar {} --nd{]}} Fabricative+dative}{200}{subsection.6.5.9}%
+\contentsline {subsection}{\numberline {6.5.9}\textsc {pbj › sbj › ø} : {[} NPD \textbar {} --ND {]} Fabricative+dative}{200}{subsection.6.5.9}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{200}{section*.110}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.5.10}\textsc {obj › sbj › ø : {[}nal \textbar {} --nl{]}} \emph {haben} Anticausative+location}{200}{subsection.6.5.10}%
+\contentsline {subsection}{\numberline {6.5.10}\textsc {obj › sbj › ø} : {[} NAL \textbar {} --NL {]} \emph {haben} Anticausative+location}{200}{subsection.6.5.10}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{200}{section*.111}%
 \defcounter {refsection}{0}\relax 
@@ -793,13 +793,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{201}{section*.113}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.5.11}\textsc {obj › sbj › ø : {[}na-- \textbar {} --np{]}} \emph {haben} Anticausative+preposition}{201}{subsection.6.5.11}%
+\contentsline {subsection}{\numberline {6.5.11}\textsc {obj › sbj › ø} : {[} NA-- \textbar {} --NP {]} \emph {haben} Anticausative+preposition}{201}{subsection.6.5.11}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{201}{section*.114}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.6}Diatheses with promotion to subject}{202}{section.6.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.6.1}\textsc {ø › sbj › obj : {[}--nl \textbar {} nal{]}} \emph {sein} Causative+location}{202}{subsection.6.6.1}%
+\contentsline {subsection}{\numberline {6.6.1}\textsc {ø › sbj › obj} : {[} --NL \textbar {} NAL {]} \emph {sein} Causative+location}{202}{subsection.6.6.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{202}{section*.115}%
 \defcounter {refsection}{0}\relax 
@@ -807,7 +807,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{203}{section*.117}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.6.2}\textsc {ø › sbj › obj : {[}--nl \textbar {} nal{]}} \emph {Umlaut} Causative+location}{203}{subsection.6.6.2}%
+\contentsline {subsection}{\numberline {6.6.2}\textsc {ø › sbj › obj} : {[} --NL \textbar {} NAL {]} \emph {Umlaut} Causative+location}{203}{subsection.6.6.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{203}{section*.118}%
 \defcounter {refsection}{0}\relax 
@@ -815,47 +815,47 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.7}Diatheses with object demotion}{204}{section.6.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.7.1}\textsc {pbj › ø : {[}np \textbar {} n--{]}} Governed preposition drop}{205}{subsection.6.7.1}%
+\contentsline {subsection}{\numberline {6.7.1}\textsc {pbj › ø} : {[} NP \textbar {} N-- {]} Governed preposition drop}{205}{subsection.6.7.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{205}{section*.120}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{206}{section*.121}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.7.2}\textsc {pbj › ø : {[}nap \textbar {} na--{]}} Governed preposition drop‌‌+accusative}{206}{subsection.6.7.2}%
+\contentsline {subsection}{\numberline {6.7.2}\textsc {pbj › ø} : {[} NAP \textbar {} NA-- {]} Governed preposition drop‌‌+accusative}{206}{subsection.6.7.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{207}{section*.122}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{207}{section*.123}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.7.3}\textsc {pbj › ø : {[}nl \textbar {} n--{]}} Location preposition drop}{207}{subsection.6.7.3}%
+\contentsline {subsection}{\numberline {6.7.3}\textsc {pbj › ø} : {[} NL \textbar {} N-- {]} Location preposition drop}{207}{subsection.6.7.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{208}{section*.124}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{208}{section*.125}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.7.4}\textsc {pbj › ø : {[}nal \textbar {} na--{]}} Location preposition drop‌+accusative}{208}{subsection.6.7.4}%
+\contentsline {subsection}{\numberline {6.7.4}\textsc {pbj › ø} : {[} NAL \textbar {} NA-- {]} Location preposition drop‌+accusative}{208}{subsection.6.7.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{209}{section*.126}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.7.5}\textsc {obj › ø : {[}nap \textbar {} n--p{]}} Accusative drop+preposition}{209}{subsection.6.7.5}%
+\contentsline {subsection}{\numberline {6.7.5}\textsc {obj › ø} : {[} NAP \textbar {} N--P {]} Accusative drop+preposition}{209}{subsection.6.7.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{209}{section*.127}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{209}{section*.128}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.7.6}\textsc {obj › ø : {[}ndp \textbar {} n--p{]}} Dative drop+preposition}{209}{subsection.6.7.6}%
+\contentsline {subsection}{\numberline {6.7.6}\textsc {obj › ø} : {[} NDP \textbar {} N--P {]} Dative drop+preposition}{209}{subsection.6.7.6}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{209}{section*.129}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{210}{section*.130}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.7.7}\textsc {obj › ø : {[}ndp \textbar {} n-- --{]}} Dative drop+preposition drop}{210}{subsection.6.7.7}%
+\contentsline {subsection}{\numberline {6.7.7}\textsc {obj › ø} : {[} NDP \textbar {} N-- -- {]} Dative drop+preposition drop}{210}{subsection.6.7.7}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{210}{section*.131}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{210}{section*.132}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.7.8}\textsc {obj › adj : {[}na \textbar {} np{]}} Accusative antipassive}{210}{subsection.6.7.8}%
+\contentsline {subsection}{\numberline {6.7.8}\textsc {obj › adj} : {[} NA \textbar {} Np {]} Accusative antipassive}{210}{subsection.6.7.8}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {6.7.8.1}\emph {an} Antipassive}{212}{subsubsection.6.7.8.1}%
 \defcounter {refsection}{0}\relax 
@@ -921,17 +921,17 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{221}{section*.154}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.7.9}\textsc {obj › adj : {[}nla \textbar {} nlp{]}} Accusative antipassive+location}{221}{subsection.6.7.9}%
+\contentsline {subsection}{\numberline {6.7.9}\textsc {obj › adj} : {[} NLA \textbar {} NLp {]} Accusative antipassive+location}{221}{subsection.6.7.9}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{221}{section*.155}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.7.10}\textsc {obj › adj : {[}nd \textbar {} np{]}} Dative antipassive}{221}{subsection.6.7.10}%
+\contentsline {subsection}{\numberline {6.7.10}\textsc {obj › adj} : {[} ND \textbar {} Np {]} Dative antipassive}{221}{subsection.6.7.10}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{222}{section*.156}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{222}{section*.157}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.7.11}\textsc {obj › adj : {[}nad \textbar {} nap{]}} Dative antipassive+accusative}{222}{subsection.6.7.11}%
+\contentsline {subsection}{\numberline {6.7.11}\textsc {obj › adj} : {[} NAD \textbar {} NAp {]} Dative antipassive+accusative}{222}{subsection.6.7.11}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {6.7.11.1}\emph {an} Ditransitive dative alternation}{223}{subsubsection.6.7.11.1}%
 \defcounter {refsection}{0}\relax 
@@ -953,7 +953,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{225}{section*.163}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.7.12}\textsc {obj › pbj : {[}na \textbar {} np{]}} Accusative governed antipassive}{225}{subsection.6.7.12}%
+\contentsline {subsection}{\numberline {6.7.12}\textsc {obj › pbj} : {[} NA \textbar {} NP {]} Accusative governed antipassive}{225}{subsection.6.7.12}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{225}{section*.164}%
 \defcounter {refsection}{0}\relax 
@@ -961,15 +961,15 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{226}{section*.166}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.7.13}\textsc {obj › pbj : {[}nd \textbar {} np{]}} Dative governed antipassive}{226}{subsection.6.7.13}%
+\contentsline {subsection}{\numberline {6.7.13}\textsc {obj › pbj} : {[} ND \textbar {} NP {]} Dative governed antipassive}{226}{subsection.6.7.13}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{226}{section*.167}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.7.14}\textsc {obj › pbj : {[}ng \textbar {} np{]}} Genitive governed antipassive}{226}{subsection.6.7.14}%
+\contentsline {subsection}{\numberline {6.7.14}\textsc {obj › pbj} : {[} NG \textbar {} NP {]} Genitive governed antipassive}{226}{subsection.6.7.14}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{227}{section*.168}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.7.15}\textsc {obj › pbj : {[}nag \textbar {} nap{]}} Genitive governed antipassive+accusative}{227}{subsection.6.7.15}%
+\contentsline {subsection}{\numberline {6.7.15}\textsc {obj › pbj} : {[} NAG \textbar {} NAP {]} Genitive governed antipassive+accusative}{227}{subsection.6.7.15}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{227}{section*.169}%
 \defcounter {refsection}{0}\relax 
@@ -979,19 +979,19 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.8}Diatheses with promotion to object}{228}{section.6.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.8.1}\textsc {ø › pbj : {[}n-- \textbar {} nl{]}} Manner of movement}{228}{subsection.6.8.1}%
+\contentsline {subsection}{\numberline {6.8.1}\textsc {ø › pbj} : {[} N-- \textbar {} NL {]} Manner of movement}{228}{subsection.6.8.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{230}{section*.172}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{230}{section*.173}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.8.2}\textsc {ø › pbj : {[}-- -- \textbar {} nl{]}} Weather-like manner of movement}{231}{subsection.6.8.2}%
+\contentsline {subsection}{\numberline {6.8.2}\textsc {ø › pbj} : {[} -- -- \textbar {} NL {]} Weather-like manner of movement}{231}{subsection.6.8.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{231}{section*.174}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{231}{section*.175}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.8.3}\textsc {ø › pbj : {[}n-- -- \textbar {} nal{]}} Intransitive caused motion}{231}{subsection.6.8.3}%
+\contentsline {subsection}{\numberline {6.8.3}\textsc {ø › pbj} : {[} N-- -- \textbar {} NAL {]} Intransitive caused motion}{231}{subsection.6.8.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{232}{section*.176}%
 \defcounter {refsection}{0}\relax 
@@ -999,13 +999,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{233}{section*.178}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.8.4}\textsc {ø › pbj : {[}na-- \textbar {} nal{]}} Transitive caused motion}{234}{subsection.6.8.4}%
+\contentsline {subsection}{\numberline {6.8.4}\textsc {ø › pbj} : {[} NA-- \textbar {} NAL {]} Transitive caused motion}{234}{subsection.6.8.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{234}{section*.179}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{234}{section*.180}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.8.5}\textsc {ø › pbj : {[}na-- \textbar {} nap{]}} Performative result}{235}{subsection.6.8.5}%
+\contentsline {subsection}{\numberline {6.8.5}\textsc {ø › pbj} : {[} NA-- \textbar {} NAP {]} Performative result}{235}{subsection.6.8.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{235}{section*.181}%
 \defcounter {refsection}{0}\relax 
@@ -1013,77 +1013,77 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{236}{section*.183}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.8.6}\textsc {ø › obj › pbj : {[}na-- \textbar {} nla{]}} Partitive separated object}{237}{subsection.6.8.6}%
+\contentsline {subsection}{\numberline {6.8.6}\textsc {ø › obj} : {[} Np-- \textbar {} NAA {]} Naming result}{237}{subsection.6.8.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Attested verbs}{238}{section*.184}%
+\contentsline {subsubsection}{Attested verbs}{237}{section*.184}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Further examples}{238}{section*.185}%
+\contentsline {subsubsection}{Further examples}{237}{section*.185}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.8.7}\textsc {ø › obj › pbj : {[}na-- \textbar {} nla{]}} Partitive joined object}{238}{subsection.6.8.7}%
+\contentsline {subsection}{\numberline {6.8.7}\textsc {ø › obj} : {[} --P \textbar {} DP {]} Dative addition+governed preposition}{237}{subsection.6.8.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Attested verbs}{239}{section*.186}%
+\contentsline {subsubsection}{Attested verbs}{237}{section*.186}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Further examples}{239}{section*.187}%
+\contentsline {subsubsection}{Further examples}{238}{section*.187}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.8.8}\textsc {adj › obj : {[}nap \textbar {} nad{]}} Beneficiary dative}{239}{subsection.6.8.8}%
+\contentsline {subsection}{\numberline {6.8.8}\textsc {ø › obj › pbj} : {[} NA-- \textbar {} NLA {]} Partitive separated object}{238}{subsection.6.8.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Attested verbs}{240}{section*.188}%
+\contentsline {subsubsection}{Attested verbs}{239}{section*.188}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Further examples}{241}{section*.189}%
+\contentsline {subsubsection}{Further examples}{239}{section*.189}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.8.9}\textsc {adj › obj : {[}np \textbar {} nd{]}} Judgement dative}{241}{subsection.6.8.9}%
+\contentsline {subsection}{\numberline {6.8.9}\textsc {ø › obj › pbj} : {[} NA-- \textbar {} NLA {]} Partitive joined object}{240}{subsection.6.8.9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Further examples}{241}{section*.190}%
+\contentsline {subsubsection}{Attested verbs}{240}{section*.190}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.8.10}\textsc {adj › obj : {[}nlg \textbar {} nld{]}} Possessor-of-location dative}{242}{subsection.6.8.10}%
+\contentsline {subsubsection}{Further examples}{240}{section*.191}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Attested verbs}{242}{section*.191}%
+\contentsline {subsection}{\numberline {6.8.10}\textsc {adj › obj} : {[} NAp \textbar {} NAD {]} Beneficiary dative}{241}{subsection.6.8.10}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Further examples}{242}{section*.192}%
+\contentsline {subsubsection}{Attested verbs}{242}{section*.192}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Notes}{243}{section*.193}%
+\contentsline {subsubsection}{Further examples}{242}{section*.193}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.8.11}\textsc {adj › obj : {[}nalg \textbar {} nald{]}} Possessor-of-location dative‌+accusative}{243}{subsection.6.8.11}%
+\contentsline {subsection}{\numberline {6.8.11}\textsc {adj › obj} : {[} Np \textbar {} ND {]} Judgement dative}{242}{subsection.6.8.11}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Attested verbs}{243}{section*.194}%
+\contentsline {subsubsection}{Further examples}{243}{section*.194}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Further examples}{243}{section*.195}%
+\contentsline {subsection}{\numberline {6.8.12}\textsc {adj › obj} : {[} NLg \textbar {} NLD {]} Possessor-of-location dative}{243}{subsection.6.8.12}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Notes}{244}{section*.196}%
+\contentsline {subsubsection}{Attested verbs}{243}{section*.195}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.8.12}\textsc {adj › obj › pbj : {[}nag \textbar {} npa{]}} Possessor-of-accusative applicative}{244}{subsection.6.8.12}%
+\contentsline {subsubsection}{Further examples}{243}{section*.196}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Attested verbs}{245}{section*.197}%
+\contentsline {subsubsection}{Notes}{244}{section*.197}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Further examples}{245}{section*.198}%
+\contentsline {subsection}{\numberline {6.8.13}\textsc {adj › obj} : {[} NALg \textbar {} NALD {]} Possessor-of-location dative‌+accusative}{244}{subsection.6.8.13}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.8.13}\textsc {ø › obj : {[}np-- \textbar {} naa{]}} Naming result}{245}{subsection.6.8.13}%
+\contentsline {subsubsection}{Attested verbs}{245}{section*.198}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Attested verbs}{245}{section*.199}%
+\contentsline {subsubsection}{Further examples}{245}{section*.199}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Further examples}{245}{section*.200}%
+\contentsline {subsubsection}{Notes}{246}{section*.200}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.8.14}\textsc {ø › obj : {[}--p \textbar {} dp{]}} Dative addition+governed preposition}{246}{subsection.6.8.14}%
+\contentsline {subsection}{\numberline {6.8.14}\textsc {adj › obj › pbj} : {[} NAg \textbar {} NPA {]} Possessor-of-accusative applicative}{246}{subsection.6.8.14}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{246}{section*.201}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{246}{section*.202}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.9}Symmetrical diatheses}{246}{section.6.9}%
+\contentsline {section}{\numberline {6.9}Symmetrical diatheses}{247}{section.6.9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.9.1}\textsc {adj › sbj › adj : {[}np \textbar {} pn{]}} Commutative}{246}{subsection.6.9.1}%
+\contentsline {subsection}{\numberline {6.9.1}\textsc {adj › sbj › adj} : {[} Np \textbar {} pN {]} Commutative}{247}{subsection.6.9.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Attested verbs}{246}{section*.203}%
+\contentsline {subsubsection}{Attested verbs}{247}{section*.203}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.9.2}\textsc {adj › obj › adj : {[}nap \textbar {} npa{]}} Applicative‌+\emph {mit} antipassive}{247}{subsection.6.9.2}%
+\contentsline {subsection}{\numberline {6.9.2}\textsc {adj › obj › adj} : {[} NAp \textbar {} NpA {]} Applicative‌+\emph {mit} antipassive}{247}{subsection.6.9.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{247}{section*.204}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{247}{section*.205}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Notes}{247}{section*.206}%
+\contentsline {subsubsection}{Notes}{248}{section*.206}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.9.3}\textsc {adj › adj : {[}nag \textbar {} nap{]}} Possessor-of-accusative to preposition}{248}{subsection.6.9.3}%
+\contentsline {subsection}{\numberline {6.9.3}\textsc {adj › adj} : {[} NAg \textbar {} NAp {]} Possessor-of-accusative to preposition}{248}{subsection.6.9.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{248}{section*.207}%
 \defcounter {refsection}{0}\relax 
@@ -1105,13 +1105,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {7.3}Deponent verbs}{254}{section.7.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.3.1}\textsc {{[}n{]}} Accusative reflexive}{255}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.1}{[} N {]} Accusative reflexive}{255}{subsection.7.3.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{255}{section*.209}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{256}{section*.210}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.3.2}\textsc {{[}np{]}} Accusative reflexive+governed preposition}{256}{subsection.7.3.2}%
+\contentsline {subsection}{\numberline {7.3.2}{[} NP {]} Accusative reflexive+governed preposition}{256}{subsection.7.3.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{256}{section*.211}%
 \defcounter {refsection}{0}\relax 
@@ -1119,7 +1119,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{257}{section*.213}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.3.3}\textsc {{[}np{]}} Accusative reflexive+\emph {mit} (\emph {reciproca tantum})}{258}{subsection.7.3.3}%
+\contentsline {subsection}{\numberline {7.3.3}{[} Np {]} Accusative reflexive+\emph {mit} (\emph {reciproca tantum})}{258}{subsection.7.3.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{259}{section*.214}%
 \defcounter {refsection}{0}\relax 
@@ -1127,7 +1127,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{259}{section*.216}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.3.4}\textsc {{[}nl{]}} Accusative reflexive+local preposition}{259}{subsection.7.3.4}%
+\contentsline {subsection}{\numberline {7.3.4}{[}NL{]} Accusative reflexive+local preposition}{259}{subsection.7.3.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{259}{section*.217}%
 \defcounter {refsection}{0}\relax 
@@ -1135,23 +1135,23 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{260}{section*.219}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.3.5}\textsc {{[}nd{]}} Accusative reflexive+dative}{260}{subsection.7.3.5}%
+\contentsline {subsection}{\numberline {7.3.5}{[} ND {]} Accusative reflexive+dative}{260}{subsection.7.3.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{260}{section*.220}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{260}{section*.221}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.3.6}\textsc {{[}ng{]}} Accusative reflexive+genitive}{260}{subsection.7.3.6}%
+\contentsline {subsection}{\numberline {7.3.6}{[} NG {]} Accusative reflexive+genitive}{260}{subsection.7.3.6}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{261}{section*.222}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{261}{section*.223}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.3.7}\textsc {{[}n{]}} Dative reflexive}{261}{subsection.7.3.7}%
+\contentsline {subsection}{\numberline {7.3.7}{[} N {]} Dative reflexive}{261}{subsection.7.3.7}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{261}{section*.224}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.3.8}\textsc {{[}na{]}} Dative reflexive+accusative}{261}{subsection.7.3.8}%
+\contentsline {subsection}{\numberline {7.3.8}{[} NA {]} Dative reflexive+accusative}{261}{subsection.7.3.8}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{262}{section*.225}%
 \defcounter {refsection}{0}\relax 
@@ -1159,11 +1159,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{262}{section*.227}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.3.9}\textsc {{[}np \textbar {} --p{]}} Accusative reflexive+nominative drop}{263}{subsection.7.3.9}%
+\contentsline {subsection}{\numberline {7.3.9}{[} NP \textbar {} --P {]} Accusative reflexive+nominative drop}{263}{subsection.7.3.9}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{263}{section*.228}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.3.10}\textsc {{[}nd \textbar {} n--{]}} Accusative reflexive+dative drop}{263}{subsection.7.3.10}%
+\contentsline {subsection}{\numberline {7.3.10}{[} ND \textbar {} N-- {]} Accusative reflexive+dative drop}{263}{subsection.7.3.10}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{263}{section*.229}%
 \defcounter {refsection}{0}\relax 
@@ -1171,13 +1171,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{264}{section*.231}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.3.11}\textsc {{[}nd \textbar {} np{]}} Accusative reflexive+dative antipassive}{264}{subsection.7.3.11}%
+\contentsline {subsection}{\numberline {7.3.11}{[} ND \textbar {} NP {]} Accusative reflexive+dative antipassive}{264}{subsection.7.3.11}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{264}{section*.232}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{264}{section*.233}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.3.12}\textsc {{[}ng \textbar {} np{]}} Accusative reflexive+genitive antipassive}{265}{subsection.7.3.12}%
+\contentsline {subsection}{\numberline {7.3.12}{[} NG \textbar {} NP {]} Accusative reflexive+genitive antipassive}{265}{subsection.7.3.12}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{265}{section*.234}%
 \defcounter {refsection}{0}\relax 
@@ -1185,7 +1185,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {7.4}Alternations without diathesis}{266}{section.7.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.1}\textsc {free: {[}n \textbar {} n{]}} Accusative free reflexive}{266}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.1}\textsc {free}: {[} N \textbar {} N {]} Accusative free reflexive}{266}{subsection.7.4.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{267}{section*.236}%
 \defcounter {refsection}{0}\relax 
@@ -1193,7 +1193,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{268}{section*.238}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.2}\textsc {free: {[}np \textbar {} np{]}} Accusative free reflexive+preposition}{268}{subsection.7.4.2}%
+\contentsline {subsection}{\numberline {7.4.2}\textsc {free}: {[} NP \textbar {} NP {]} Accusative free reflexive+preposition}{268}{subsection.7.4.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{269}{section*.239}%
 \defcounter {refsection}{0}\relax 
@@ -1201,11 +1201,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{270}{section*.241}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.3}\textsc {free: {[}nd \textbar {} nd{]}} Accusative free reflexive+dative}{270}{subsection.7.4.3}%
+\contentsline {subsection}{\numberline {7.4.3}\textsc {free}: {[} ND \textbar {} ND {]} Accusative free reflexive+dative}{270}{subsection.7.4.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{270}{section*.242}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.4}\textsc {free: {[}na \textbar {} na{]}} Dative free reflexive+accusative}{270}{subsection.7.4.4}%
+\contentsline {subsection}{\numberline {7.4.4}\textsc {free}: {[} NA \textbar {} NA {]} Dative free reflexive+accusative}{270}{subsection.7.4.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{271}{section*.243}%
 \defcounter {refsection}{0}\relax 
@@ -1213,7 +1213,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{272}{section*.245}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.5}\textsc {self: {[}na \textbar {} na{]}} Accusative self reflexive}{272}{subsection.7.4.5}%
+\contentsline {subsection}{\numberline {7.4.5}\textsc {self}: {[} NA \textbar {} Na {]} Accusative self reflexive}{272}{subsection.7.4.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{273}{section*.246}%
 \defcounter {refsection}{0}\relax 
@@ -1221,23 +1221,23 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{274}{section*.248}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.6}\textsc {self: {[}nd \textbar {} nd{]}} Dative self reflexive}{274}{subsection.7.4.6}%
+\contentsline {subsection}{\numberline {7.4.6}\textsc {self}: {[} ND \textbar {} Nd {]} Dative self reflexive}{274}{subsection.7.4.6}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{275}{section*.249}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{275}{section*.250}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.7}\textsc {self: {[}np \textbar {} np{]}} Prepositional self reflexive}{275}{subsection.7.4.7}%
+\contentsline {subsection}{\numberline {7.4.7}\textsc {self}: {[} NP \textbar {} Np {]} Prepositional self reflexive}{275}{subsection.7.4.7}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{275}{section*.251}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.8}\textsc {self: {[}nad \textbar {} nad{]}} Dative self reflexive+accusative}{275}{subsection.7.4.8}%
+\contentsline {subsection}{\numberline {7.4.8}\textsc {self}: {[} NAD \textbar {} NAd {]} Dative self reflexive+accusative}{275}{subsection.7.4.8}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{276}{section*.252}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{277}{section*.253}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.9}\textsc {self: {[}nad \textbar {} nad{]}} Accusative self reflexive+dative}{277}{subsection.7.4.9}%
+\contentsline {subsection}{\numberline {7.4.9}\textsc {self}: {[} NAD \textbar {} NaD {]} Accusative self reflexive+dative}{277}{subsection.7.4.9}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{278}{section*.254}%
 \defcounter {refsection}{0}\relax 
@@ -1245,25 +1245,25 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{279}{section*.256}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.10}\textsc {self: {[}nag \textbar {} nag{]}} Accusative self reflexive+genitive}{279}{subsection.7.4.10}%
+\contentsline {subsection}{\numberline {7.4.10}\textsc {self}: {[} NAG \textbar {} NaG {]} Accusative self reflexive+genitive}{279}{subsection.7.4.10}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{279}{section*.257}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.11}\textsc {self: {[}nap \textbar {} nap{]}} Prepositional self reflexive+accusative}{279}{subsection.7.4.11}%
+\contentsline {subsection}{\numberline {7.4.11}\textsc {self}: {[} NAP \textbar {} NAp {]} Prepositional self reflexive+accusative}{279}{subsection.7.4.11}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{279}{section*.258}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.12}\textsc {self: {[}nld \textbar {} nld{]}} Dative self reflexive+location}{280}{subsection.7.4.12}%
+\contentsline {subsection}{\numberline {7.4.12}\textsc {self}: {[} NLD \textbar {} NLd {]} Dative self reflexive+location}{280}{subsection.7.4.12}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{280}{section*.259}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.13}\textsc {self: {[}nald \textbar {} nald{]}} Dative self reflexive+accusative+location}{280}{subsection.7.4.13}%
+\contentsline {subsection}{\numberline {7.4.13}\textsc {self}: {[} NALD \textbar {} NALd {]} Dative self reflexive+accusative+location}{280}{subsection.7.4.13}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{280}{section*.260}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{281}{section*.261}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.14}\textsc {mutual: {[}na \textbar {} na{]}} Accusative reciprocal}{281}{subsection.7.4.14}%
+\contentsline {subsection}{\numberline {7.4.14}\textsc {mutual}: {[} NA \textbar {} Na {]} Accusative reciprocal}{281}{subsection.7.4.14}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{282}{section*.262}%
 \defcounter {refsection}{0}\relax 
@@ -1271,27 +1271,27 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{282}{section*.264}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.15}\textsc {mutual: {[}nag \textbar {} nag{]}} Accusative reciprocal+genitive}{283}{subsection.7.4.15}%
+\contentsline {subsection}{\numberline {7.4.15}\textsc {mutual}: {[} NAG \textbar {} NaG {]} Accusative reciprocal+genitive}{283}{subsection.7.4.15}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{283}{section*.265}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.16}\textsc {mutual: {[}nap \textbar {} nap{]}} Accusative reciprocal+preposition}{283}{subsection.7.4.16}%
+\contentsline {subsection}{\numberline {7.4.16}\textsc {mutual}: {[} NAP \textbar {} NaP {]} Accusative reciprocal+preposition}{283}{subsection.7.4.16}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{283}{section*.266}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.17}\textsc {mutual: {[}nd \textbar {} nd{]}} Dative reciprocal}{283}{subsection.7.4.17}%
+\contentsline {subsection}{\numberline {7.4.17}\textsc {mutual}: {[} ND \textbar {} Nd {]} Dative reciprocal}{283}{subsection.7.4.17}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{284}{section*.267}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{284}{section*.268}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.18}\textsc {mutual: {[}nad \textbar {} nad{]}} Dative reciprocal+accusative}{284}{subsection.7.4.18}%
+\contentsline {subsection}{\numberline {7.4.18}\textsc {mutual}: {[} NAD \textbar {} NAd {]} Dative reciprocal+accusative}{284}{subsection.7.4.18}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{284}{section*.269}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{284}{section*.270}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.19}\textsc {mutual: {[}np \textbar {} np{]}} \emph {einander} prepositional reciprocal}{285}{subsection.7.4.19}%
+\contentsline {subsection}{\numberline {7.4.19}\textsc {mutual}: {[} Np \textbar {} Np {]} \emph {einander} prepositional reciprocal}{285}{subsection.7.4.19}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{285}{section*.271}%
 \defcounter {refsection}{0}\relax 
@@ -1299,13 +1299,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {7.5}Diatheses with subject demotion}{285}{section.7.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.5.1}\textsc {sbj › ø : {[}np \textbar {} --p{]}} Reflexive nominative drop}{285}{subsection.7.5.1}%
+\contentsline {subsection}{\numberline {7.5.1}\textsc {sbj › ø} : {[} NP \textbar {} --P {]} Reflexive nominative drop}{285}{subsection.7.5.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{286}{section*.273}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{286}{section*.274}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.5.2}\textsc {obj › sbj › ø : {[}na \textbar {} --n{]}} Reflexive anticausative}{286}{subsection.7.5.2}%
+\contentsline {subsection}{\numberline {7.5.2}\textsc {obj › sbj › ø} : {[} NA \textbar {} --N {]} Reflexive anticausative}{286}{subsection.7.5.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{287}{section*.275}%
 \defcounter {refsection}{0}\relax 
@@ -1313,25 +1313,25 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{289}{section*.277}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.5.3}\textsc {obj › sbj › ø : {[}nad \textbar {} --nd{]}} Reflexive anticausative+dative}{289}{subsection.7.5.3}%
+\contentsline {subsection}{\numberline {7.5.3}\textsc {obj › sbj › ø} : {[} NAD \textbar {} --ND {]} Reflexive anticausative+dative}{289}{subsection.7.5.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{290}{section*.278}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{290}{section*.279}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.5.4}\textsc {obj › sbj › ø : {[}nal \textbar {} --nl{]}} Reflexive anticausative+location}{291}{subsection.7.5.4}%
+\contentsline {subsection}{\numberline {7.5.4}\textsc {obj › sbj › ø} : {[} NAL \textbar {} --NL {]} Reflexive anticausative+location}{291}{subsection.7.5.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{291}{section*.280}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{291}{section*.281}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.5.5}\textsc {obj › sbj › ø : {[}nap \textbar {} --np{]}} Reflexive anticausative+preposition}{291}{subsection.7.5.5}%
+\contentsline {subsection}{\numberline {7.5.5}\textsc {obj › sbj › ø} : {[} NAp \textbar {} --Np {]} Reflexive anticausative+preposition}{291}{subsection.7.5.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{292}{section*.282}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{292}{section*.283}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.5.6}\textsc {obj › sbj › pbj : {[}na \textbar {} pn{]}} Reflexive conversive}{293}{subsection.7.5.6}%
+\contentsline {subsection}{\numberline {7.5.6}\textsc {obj › sbj › pbj} : {[} NA \textbar {} PN {]} Reflexive conversive}{293}{subsection.7.5.6}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{294}{section*.284}%
 \defcounter {refsection}{0}\relax 
@@ -1339,13 +1339,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{296}{section*.286}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.5.7}\textsc {pbj › sbj › adj : {[}np \textbar {} pn{]}} Reflexive prepositional passive}{296}{subsection.7.5.7}%
+\contentsline {subsection}{\numberline {7.5.7}\textsc {pbj › sbj › adj} : {[} NP \textbar {} pN {]} Reflexive prepositional passive}{296}{subsection.7.5.7}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{297}{section*.287}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {7.6}Diatheses with promotion to subject}{297}{section.7.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.6.1}\textsc {obj › sbj : {[}ap \textbar {} np{]}} Reflexive accusative-to-nominative}{297}{subsection.7.6.1}%
+\contentsline {subsection}{\numberline {7.6.1}\textsc {obj › sbj} : {[} AP \textbar {} NP {]} Reflexive accusative-to-nominative}{297}{subsection.7.6.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{297}{section*.288}%
 \defcounter {refsection}{0}\relax 
@@ -1353,7 +1353,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {7.7}Diatheses with object demotion}{298}{section.7.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.7.1}\textsc {obj › ø : {[}na \textbar {} n--{]}} Reflexive accusative drop}{298}{subsection.7.7.1}%
+\contentsline {subsection}{\numberline {7.7.1}\textsc {obj › ø} : {[} NA \textbar {} N-- {]} Reflexive accusative drop}{298}{subsection.7.7.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{299}{section*.290}%
 \defcounter {refsection}{0}\relax 
@@ -1361,7 +1361,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{299}{section*.292}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.7.2}\textsc {obj › ø : {[}nal \textbar {} n--l{]}} Reflexive accusative drop+locative}{300}{subsection.7.7.2}%
+\contentsline {subsection}{\numberline {7.7.2}\textsc {obj › ø} : {[} NAL \textbar {} N--L {]} Reflexive accusative drop+locative}{300}{subsection.7.7.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{300}{section*.293}%
 \defcounter {refsection}{0}\relax 
@@ -1369,7 +1369,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{301}{section*.295}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.7.3}\textsc {obj › adj : {[}na \textbar {} np{]}} Reciprocal antipassive}{301}{subsection.7.7.3}%
+\contentsline {subsection}{\numberline {7.7.3}\textsc {obj › adj} : {[} NA \textbar {} Np {]} Reciprocal antipassive}{301}{subsection.7.7.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{301}{section*.296}%
 \defcounter {refsection}{0}\relax 
@@ -1377,7 +1377,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{302}{section*.298}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.7.4}\textsc {obj › pbj : {[}na \textbar {} np{]}} Reflexive governed antipassive}{302}{subsection.7.7.4}%
+\contentsline {subsection}{\numberline {7.7.4}\textsc {obj › pbj} : {[} NA \textbar {} NP {]} Reflexive governed antipassive}{302}{subsection.7.7.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{303}{section*.299}%
 \defcounter {refsection}{0}\relax 
@@ -1387,7 +1387,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {7.8}Diatheses with promotion to object}{304}{section.7.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.8.1}\textsc {ø › pbj : {[}n-- \textbar {} nl{]}} Reflexive manner-of-movement}{304}{subsection.7.8.1}%
+\contentsline {subsection}{\numberline {7.8.1}\textsc {ø › pbj} : {[} N-- \textbar {} NL {]} Reflexive manner-of-movement}{304}{subsection.7.8.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{306}{section*.302}%
 \defcounter {refsection}{0}\relax 
@@ -1395,7 +1395,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Notes}{306}{section*.304}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.8.2}\textsc {ø › pbj : {[}na-- \textbar {} nal{]}} Reflexive forced movement}{307}{subsection.7.8.2}%
+\contentsline {subsection}{\numberline {7.8.2}\textsc {ø › pbj} : {[} NA-- \textbar {} NAL {]} Reflexive forced movement}{307}{subsection.7.8.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{307}{section*.305}%
 \defcounter {refsection}{0}\relax 
@@ -1405,23 +1405,23 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {7.9}Symmetrical diatheses}{308}{section.7.9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.9.1}\textsc {obj › sbj › obj : {[}na \textbar {} dn{]}} Reflexive accusative/dative inversive}{308}{subsection.7.9.1}%
+\contentsline {subsection}{\numberline {7.9.1}\textsc {obj › sbj › obj} : {[} NA \textbar {} DN {]} Reflexive accusative/dative inversive}{308}{subsection.7.9.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{308}{section*.308}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{308}{section*.309}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.9.2}\textsc {obj › sbj › obj : {[}na \textbar {} gn{]}} Reflexive accusative/genitive inversive}{309}{subsection.7.9.2}%
+\contentsline {subsection}{\numberline {7.9.2}\textsc {obj › sbj › obj} : {[} NA \textbar {} GN {]} Reflexive accusative/genitive inversive}{309}{subsection.7.9.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{309}{section*.310}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Further examples}{309}{section*.311}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.9.3}\textsc {obj › sbj › obj : {[}nd \textbar {} gn{]}} Reflexive dative/genitive inversive}{309}{subsection.7.9.3}%
+\contentsline {subsection}{\numberline {7.9.3}\textsc {obj › sbj › obj} : {[} ND \textbar {} GN {]} Reflexive dative/genitive inversive}{309}{subsection.7.9.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{309}{section*.312}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.9.4}\textsc {obj › obj : {[}na \textbar {} ng{]}} Reflexive accusative-to-genitive}{309}{subsection.7.9.4}%
+\contentsline {subsection}{\numberline {7.9.4}\textsc {obj › obj} : {[} NA \textbar {} NG {]} Reflexive accusative-to-genitive}{309}{subsection.7.9.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Attested verbs}{310}{section*.313}%
 \defcounter {refsection}{0}\relax 
