@@ -22,9 +22,9 @@ The morphosyntactic characteristics of the *Präpositions­in­fi­ni­tiv* are 
 
 The result of this strict demarcation is that only very few clearly grammaticalised constructions with a *Präpositions­in­fi­ni­tiv* can be identified. The handful of epitheses and the three diatheses that are presented in this chapter are all constructed with just a few light verbs, namely *haben, sein, bleiben, gehen, fahren, kommen* and *halten*. I propose the following German names for the three diatheses:
 
-- ~~[PBJ › SBJ › Ø]~~ *sein zum* ~~Auslösersubjektiv~~ (see [@sec:zuminfinitive-sein-zum])
-- ~~[OBJ › SBJ › OBJ]~~ *haben am* ~~Pertinenzinversiv~~ (see [@sec:zuminfinitive-haben-am])
-- ~~[Ø › SBJ › OBJ]~~ *halten am* ~~Fortsetzungskausativ~~ (see [@sec:zuminfinitive-halten-causative])
+- ~~(PBJ › SBJ › Ø)~~ *sein zum* ~~Auslösersubjektiv~~ (see [@sec:zuminfinitive-sein-zum])
+- ~~(OBJ › SBJ › OBJ)~~ *haben am* ~~Pertinenzinversiv~~ (see [@sec:zuminfinitive-haben-am])
+- ~~(Ø › SBJ › OBJ)~~ *halten am* ~~Fortsetzungskausativ~~ (see [@sec:zuminfinitive-halten-causative])
 
 ## Defining the *Präpositions­in­fi­ni­tiv*
 
@@ -214,13 +214,11 @@ Of course, as explained above, an infinitive is also a nominalised verbform, whi
   Am wenigsten freilich Finnland, dessen Fortbestand als selbständiger Staat auch wohl in Rußland selbst nicht mehr in ernste Zweifel gezogen wird.^[~~DWDS~~: Vossische Zeitung (Abend-Ausgabe), 11.03.1922.]
 :::
 
-## Deponent verbs without alternations
+## Deponent verbs
 
 Not attested.
 
 ## Alternations without diathesis
-
-###      --- Temporal Aspect --- {.unnumbered}
 
 ### *sein+am‑In­fi­ni­tiv* Progressive {#sec:zuminfinitive-sein-am}
 
@@ -276,8 +274,6 @@ Parallel to the *sein* progressive there is also a *bleiben* progressive, which 
 - „Ich bin am kämpfen, daß ich meinen alten Lohn wiederkriege“, sagt er, „da muß man am kämpfen bleiben.“^[~~DWDS~~: Die Zeit, 29.05.1981, Nr. 23.]
 - Bestes Beispiel dafür, dass dieser Blog hauptsächlich durch Silkroad Artikel am leben bleibt.^[~~DWDS~~: Das Diamond Gaming Network eröffnet Silkroad Privatserver. the-pain.net, 2011-02-03.]
 - Dann seit ihr mit 16 Euro im Monat und viel Zeit auch bald 100ff und müsst nicht immer am jammern bleiben.^[~~DWDS~~: Russisches Silkroad Online angekündigt. the-pain.net, 2009-07-07.]
-
-###      --- Spatial Aspect --- {.unnumbered}
 
 ### *sein+beim‑In­fi­ni­tiv* Recurrent absence {#sec:zuminfinitiv-sein-beim}
 
@@ -418,9 +414,7 @@ Besides this stative usage, there are a few other sentence patterns that look si
 
 ## Diatheses with subject demotion
 
-###      --- [ PBJ > SBJ > Ø ] --- {.unnumbered}
-
-### [ NP | –N ] *sein+zum‑In­fi­ni­tiv* Emotional trigger subject {#sec:zuminfinitive-sein-zum}
+### ~~PBJ › SBJ › Ø~~ : [ NP | –N ] *sein+zum‑In­fi­ni­tiv* Emotional trigger subject {#sec:zuminfinitive-sein-zum}
 
 The construction *sein+zum‑In­fi­ni­tiv* drops the nominative subject and promotes a governed preposition to subject. Such a role-remapping is rather unusual in German. In another diathesis, the *Kreationsubjektiv* (see [@sec:prepositions-fabricative-accusative]), it is a creation manufactured by the subject that is promoted to subject. In the present construction, it is the trigger of an emotional reaction that is promoted to subject. For that reason I propose to call this diathesis ~~Auslösersubjektiv~~ in German.
 
@@ -445,9 +439,7 @@ c. Es ist zum Heulen.
 
 ## Diatheses with promotion to subject
 
-###      --- [ Ø > SBJ > OBJ ] --- {.unnumbered}
-
-### [ –N | NA ] *halten+am‑In­fi­ni­tiv* Continuative causative {#sec:zuminfinitive-halten-causative}
+### ~~Ø › SBJ › OBJ~~ : [ –N | NA ] *halten+am‑In­fi­ni­tiv* Continuative causative {#sec:zuminfinitive-halten-causative}
 
 The *halten+am‑In­fi­ni­tiv* construction is used with agentive intransitive verbs, most typically with *laufen* 'to walk' [@next a]. However, the subject of the agentive intransitive has to be an inanimate entity for the diathesis to be possible. The *halten+am‑In­fi­ni­tiv* diathesis adds a new participant to the intransitive event that causes the process to continue. For this reason I propose to use the name ~~Fortsetzungskausativ~~ in German.
 
@@ -496,9 +488,7 @@ Not attested.
 
 ## Symmetrical diatheses
 
-###      --- [ OBJ > SBJ > OBJ ] --- {.unnumbered}
-
-### [ DN | NA ] *haben+am‑In­fi­ni­tiv* Dative inversive {#sec:zuminfinitive-haben-am}
+### ~~OBJ › SBJ › OBJ~~ : [ DN | NA ] *haben+am‑In­fi­ni­tiv* Dative inversive {#sec:zuminfinitive-haben-am}
 
 The *haben+am‑In­fi­ni­tiv* construction is a fascinating construction that needs much more research [cf. @businger2017: 323--325]. It is a colloquial construction that is virtually unattested in traditional corpora. However, in more informal usage online it is reasonably easy to find examples.
 

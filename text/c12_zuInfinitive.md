@@ -110,7 +110,7 @@ All verbs in the remaining possibilities [@last c–e] have some special use wit
 
 There is some overlap between the constructions discussed in this chapter and the ~~Halbmodalverben~~ as introduced by Eisenberg [e.g. -@eisenberg2006a: 362--365] and discussed in much detail in Colomo [-@colomo2010: Ch. 6]. However, that term is defined in a much more restricted way to include only *pflegen, scheinen, drohen* and *versprechen*. The focus of the present chapter is more widely expanded. Crucially, Eisenberg's *Halbmodale* do not include the monoclausal *zu‑In­fi­ni­tiv* verbs with the most obvious modal meanings, viz. *haben, brauchen, wissen* and *verstehen* (see [@sec:zuinfinitive-wissen] ff.).
 
-## Deponent verbs without alternations
+## Deponent verbs
 
 This is not attested. Note that theoretically such verbs might occur in German, but as far as I am aware there do not exist any examples. The necessary observation would be a lexical verb that can occur in a *zu‑In­fi­ni­tiv* construction [@next a], but cannot be used as a finite verb [@next b]. The verb *überzeugen* in [@next] is thus not an example of this hypothetical phenomenon, as the second sentence then should have been ungrammatical.
 
@@ -120,8 +120,6 @@ This is not attested. Note that theoretically such verbs might occur in German, 
 :::
 
 ## Alternations without diathesis {#sec:zuinfinitive-epitheses}
-
-###      --- Aspect --- {.unnumbered}
 
 ### *pflegen+zu‑In­fi­ni­tiv* Habitual {#sec:zuinfinitive-pflegen}
 
@@ -144,8 +142,6 @@ The verb *belieben* can be used with a *zu‑In­fi­ni­tiv*, but only in rathe
 - Der Herr belieben zu scherzen.
 - Schmoller beliebe zu überlegen, dass er in diesem Satze seine Meinung plötzlich ändert.^[~~DWDS~~: Menger, Carl: Die Irrthümer des Historismus in der deutschen Nationalökonomie. Wien, 1884.]
 :::
-
-###      --- Modality --- {.unnumbered}
 
 ### *wissen/verstehen+zu‑In­fi­ni­tiv* Ability {#sec:zuinfinitive-wissen}
 
@@ -260,12 +256,9 @@ In most contexts, the verb *denken* means 'to think, to believe'. In this meanin
 - Weil damals eine schicksalhafte Wahlschlacht anstand, die Putin für sich zu gewinnen dachte.^[~~DWDS~~: Die Zeit, 05.01.2006, Nr. 02.]
 - Der Prinz besah sich einige neue Juwelen, die er heimlich zu tragen dachte.^[~~DWDS~~: Klepper, Jochen: Der Vater, Gütersloh: Bertelsmann 1962 [1937], S. 452.]
 
-###      --- Evidentiality --- {.unnumbered}
-
 ### *scheinen+zu‑In­fi­ni­tiv* Inferential evidence {#sec:zuinfinitive-scheinen}
 
-The coherent construction *scheinen+zu‑In­fi­ni­tiv* [@next] is similar to the English
-*seem to* construction. Because of this similarity, there has been a long tradition of applying a subject-raising analysis to this construction in German [see @olsen1981: 134--146 for a summary and refutation]. However, the raising analysis is not used anymore, at least since Olsen [see also @pafel1989; @diewald2010: 177--191 for later analyses]. Diewald & Smirnova [-@diewald2010: 182] analyse *scheinen+zu‑In­fi­ni­tiv* as an inferential evidential in which the speaker expresses some confidence in the claimed event based on deduction from available knowledge. So, this construction is an inferential evidential. As a German name I propose ~~Imperfektinferenz~~ in opposition to the *Perfektinferenz* when used with a participle (see [@sec:participles-scheinen-intransitive]).
+The coherent construction *scheinen+zu‑In­fi­ni­tiv* [@next] is similar to the English *to seem to* construction. Because of this similarity, there has been a long tradition of applying a subject-raising analysis to this construction in German [see @olsen1981: 134--146 for a summary and refutation]. However, the raising analysis is not used anymore, at least since Olsen [see also @pafel1989; @diewald2010: 177--191 for later analyses]. Diewald & Smirnova [-@diewald2010: 182] analyse *scheinen+zu‑In­fi­ni­tiv* as an inferential evidential in which the speaker expresses some confidence in the claimed event based on deduction from available knowledge. So, this construction is an inferential evidential. As a German name I propose ~~Imperfektinferenz~~ in opposition to the *Perfektinferenz* when used with a participle (see [@sec:participles-scheinen-intransitive]).
 
 ::: ex
 - Er scheint ihm ein Buch zu geben.
@@ -311,8 +304,6 @@ Evidential interpretation of light-verb usage
 
 - *drohen*: there are no strict restrictions, though agentive verbs are atypical.
 - *versprechen*: not with agentive verbs, most frequently used with *werden, enthalten, weichen, bieten*.
-
-###      --- Covert causation --- {.unnumbered}
 
 ### *kommen+zu‑In­fi­ni­tiv* Covertly caused state {#sec:zuinfinitive-kommen}
 
@@ -369,9 +360,7 @@ Similar to the previous *kommen+zu‑In­fi­ni­tiv* construction (see [@sec:zu
 
 ## Diatheses with subject demotion
 
-###      --- [ SBJ > Ø ] --- {.unnumbered}
-
-### [ N | – ] *sein+zu‑In­fi­ni­tiv* Impersonal {#sec:zuinfinitive-sein-impersonal}
+### ~~SBJ › Ø~~ : [ N | – ] *sein+zu‑In­fi­ni­tiv* Impersonal {#sec:zuinfinitive-sein-impersonal}
 
 The *sein+zu‑In­fi­ni­tiv* construction is typically used with transitive verbs as a passive with modal meaning expressing obligation or possibility (see [@sec:zuinfinitiv-sein-passive]). With intransitive verbs such a passive would lead to an impersonal construction, but this seems to be very rare [contrary to the claim in @holl2010: 18]. The example given by Holl is doubtful [@next a]. A better example is *anhalten* [@next b]. In both examples the removed subject is not replaced by a valency-simulating pronoun *es*.
 
@@ -384,7 +373,7 @@ The *sein+zu‑In­fi­ni­tiv* construction is typically used with transitive v
 
 - *anhalten, fahren, schlafen*
 
-### [ NP | –P ] *sein+zu‑In­fi­ni­tiv* Impersonal+preposition
+### ~~SBJ › Ø~~ : [ NP | –P ] *sein+zu‑In­fi­ni­tiv* Impersonal+preposition
 
 It is slightly more common to find impersonal *sein+zu‑In­fi­ni­tiv* constructions with governed prepositions, though this usage is still very rare [@next]. Note that the original nominative subject cannot be retained in another form, and it is not replaced by a valency-simulating pronoun *es*. Because of the parallel to the *Modalpassiv* (see [@sec:zuinfinitiv-sein-passive]) I will call this diathesis ~~unpersönlicher Modalpassiv~~, although the name "passive" is actually not fitting in this case. Just as with the *Modalpassiv*, this construction can have either a deontic *müssen* interpretation [@next a] or a dynamic *können* meaning [@next b], the latter typically with negation.
 
@@ -402,7 +391,7 @@ It is slightly more common to find impersonal *sein+zu‑In­fi­ni­tiv* constr
 - Daran ist zu arbeiten.^[~~DWDS~~: Die Zeit, 28.10.1999, Nr. 44.]
 - Und noch über einen Engel ist zu lachen, wenn man der Erzengel ist.^[~~DWDS~~: Vischer, Friedrich Theodor von: Ästhetik oder Wissenschaft des Schönen. Bd. 1. Reutlingen u. a., 1846.]
 
-### [ ND | –D ] *sein+zu‑In­fi­ni­tiv* Impersonal+dative
+### ~~SBJ › Ø~~ : [ ND | –D ] *sein+zu‑In­fi­ni­tiv* Impersonal+dative
 
 Similar to the previous section, impersonal *sein+zu‑In­fi­ni­tiv* is possible with some verbs taking a dative object, though this usage is exceedingly rare [@next]. Just like in the previous section, the original nominative subject cannot be retained and, while removed, it is not replaced by a valency-simulating pronoun *es*. Also this construction can have either a deontic *müssen* interpretation [@next a] or a dynamic *können* meaning [@next b], the latter typically with negation.
 
@@ -421,9 +410,7 @@ Similar to the previous section, impersonal *sein+zu‑In­fi­ni­tiv* is possi
 - Den tragenden Gründen dieser Stellungnahme ist beizutreten.^[~~DWDS~~: Die Zeit, 17.02.1984, Nr. 08.]
 - Auch mehrerer Einzelarbeiten zur Geschichte der Ostsiedlung ist zu gedenken.^[~~DWDS~~: Jahresberichte für deutsche Geschichte, 1939, S. 354.]
 
-###      --- [ SBJ > ADJ ] --- {.unnumbered}
-
-### [ NA | pA ] *geben+zu‑In­fi­ni­tiv* Subject demotion {#sec:zuinfinitive-geben-demotion}
+### ~~SBJ › ADJ~~ : [ NA | pA ] *geben+zu‑In­fi­ni­tiv* Subject demotion {#sec:zuinfinitive-geben-demotion}
 
 Transitive verbs can be used in a *geben+zu‑In­fi­ni­tiv* construction, demoting the nominative subject [cf. @engel1996: 488]. The removed nominative subject is replaced by a valency-simulating pronoun *es*, so the finite verb is always in the third person singular, resulting in fixed expressions *es gibt* or *es hat gegeben*. The original nominative subject can be retained by a *für* prepositional phrase [@next b]. This construction is obligatorily coherent [@next c]. 
 
@@ -458,7 +445,7 @@ This construction is commonly used with an quantified adverb like *viel/genug/re
 - Es gibt noch viele Geschenke einzupacken.
 - Es gibt noch viele Probleme zu lösen.
 
-### [ NA | pA ] *gelten+zu‑In­fi­ni­tiv* Subject demotion {#sec:zuinfinitive-gelten-demotion}
+### ~~SBJ › ADJ~~ : [ NA | pA ] *gelten+zu‑In­fi­ni­tiv* Subject demotion {#sec:zuinfinitive-gelten-demotion}
 
 The verb *gelten* can be used with a *zu‑In­fi­ni­tiv* by demoting the original subject to an (optional) *für* prepositional phrase [@next a]. As there is no replacement for the subject of the sentence, a valency-simulating pronoun *es* is introduced. This results in a fixed expression *es gilt* [cf. @engel1996: 488--489]. This construction expresses a necessity, close to a modal 'must', and is mainly used in a formal written register. In contrast to the previous *Möglichkeitsdesubjektiv* (see [@sec:zuinfinitive-geben-demotion]) I propose to call this diathesis ~~Notwendigkeitsdesubjektiv~~ in German.
 
@@ -480,9 +467,7 @@ The *gelten+zu‑In­fi­ni­tiv* construction is typically coherent, viz. the f
 - Es galt vielleicht einen Selbstmord zu verhüten.
 - Es galt keine Zeit zu verlieren.
 
-###      --- [ OBJ > SBJ > Ø ] --- {.unnumbered}
-
-### [ NA | –N ] *stehen+zu‑In­fi­ni­tiv* Anticausative {#sec:zuinfinitive-stehen}
+### ~~OBJ › SBJ › Ø~~ : [ NA | –N ] *stehen+zu‑In­fi­ni­tiv* Anticausative {#sec:zuinfinitive-stehen}
 
 The construction *stehen+zu‑In­fi­ni­tiv* is used as an anticausative, expressing the expectation that the original accusative will come to pass. For that reason I propose to call this diathesis ~~Erwartungsantikausativ~~ in German.
 
@@ -513,7 +498,7 @@ Except for the verbs of expectation, there are two incidental, but quite frequen
 - Verbs of negative expectation: *bezweifeln*
 - Others: *lesen, verkaufen*
 
-### [ NA | –N ] *gehen+zu‑In­fi­ni­tiv* Negative anticausative {#sec:zuinfinitive-gehen}
+### ~~OBJ › SBJ › Ø~~ : [ NA | –N ] *gehen+zu‑In­fi­ni­tiv* Negative anticausative {#sec:zuinfinitive-gehen}
 
 The *gehen+zu‑In­fi­ni­tiv* anticausative [@next a] seems to be typical for an informal register. Most examples include a negation, and only very few examples without negation are attested [@next b,c]. The construction expresses that something is impossible (or, without negation, possible). In German I propose to use the name ~~Unmöglichkeitsantikausativ~~ for this diathesis.
 
@@ -548,9 +533,7 @@ There is a special idiomatic construction *~~verb~~, was zu ~~verb~~ ging* [@nex
 - Unser Quartier lag in einem Kellergeschoß, und mein Zimmer ging nicht zu verschließen.^[~~DWDS~~: Liliencron, Adda Freifrau von: Krieg und Frieden, Erinnerungen aus dem Leben einer Offiziersfrau. In: Simons, Oliver (Hg.) Deutsche Autobiographien 1690--1930, Berlin: Directmedia Publ. 2004 [1912], S. 45055.]
 - Was einmal geschehen, das geht nicht zu ändern.^[~~DWDS~~: Wander, Karl Friedrich Wilhelm (Hrsg.): Deutsches Sprichwörter-Lexikon. Bd. 1. Leipzig, 1867.]
 
-###      --- [ OBJ > SBJ > ADJ ] --- {.unnumbered}
-
-### [ NA | pN ] *sein+zu‑In­fi­ni­tiv* Modal passive {#sec:zuinfinitiv-sein-passive}
+### ~~OBJ › SBJ › ADJ~~ : [ NA | pN ] *sein+zu‑In­fi­ni­tiv* Modal passive {#sec:zuinfinitiv-sein-passive}
 
 When used with transitive verbs, the *sein+zu‑In­fi­ni­tiv* construction is a passive diathesis with a modal meaning, which I propose to call ~~Modalpassiv~~ in German. A passive is defined here as a promotion of the accusative object to nominative subject and the demotion (and possibly complete deletion) of the original subject. Authors that argue against a passive status for this construction simply use other criteria for what counts as "passive" [cf. @holl2010: 19].
 
@@ -611,9 +594,7 @@ Sie ist schwer zu kennen.^[~~DWDS~~: Hofmannsthal, Hugo von: Der Schwierige. In:
 
 ## Diatheses with promotion to subject
 
-###      --- [ Ø > SBJ > OBJ ] --- {.unnumbered}
-
-### [ –NA | NDA ] *geben+zu‑In­fi­ni­tiv* Novative {#sec:zuinfinitive-geben-causative}
+### ~~Ø › SBJ › OBJ~~ : [ –NA | NDA ] *geben+zu‑In­fi­ni­tiv* Novative {#sec:zuinfinitive-geben-causative}
 
 The *geben+zu‑In­fi­ni­tiv* construction has two rather different uses. It can be used with subject demotion and a modal meaning (see [@sec:zuinfinitive-geben-demotion]) or with subject promotion and a causative/permissive meaning (this section). With subject promotion it is widely used with verbs of cognition that take an embedded clause, like *bedenken* 'to consider' [@next a]. Embedded in the *geben+zu‑In­fi­ni­tiv* construction, this results in a novative construction with a meaning 'to offer to consider' [@next b]. Such constructions are coherent [@next c,d]. I propose to call this diathesis ~~Möglichkeitskausativ~~ in German.
 
@@ -667,9 +648,7 @@ Not attested.
 
 ## Symmetrical diatheses
 
-###      --- [ OBJ > SBJ > OBJ ] --- {.unnumbered}
-
-### [ NA | DN ] *bleiben+zu‑In­fi­ni­tiv* Inversive {#sec:zuinfinitive-bleiben}
+### ~~OBJ › SBJ › OBJ~~ : [ NA | DN ] *bleiben+zu‑In­fi­ni­tiv* Inversive {#sec:zuinfinitive-bleiben}
 
 The *bleiben+zu‑In­fi­ni­tiv* diathesis shows many intricate details that are in need of a much deeper investigation than I can offer here. I have only been able to find a few short discussions of this construction in the literature, none of which go into much detail [@hohle1978: 48--50; @engel1996: 478--479; @colomo2010: 196--197].
 
