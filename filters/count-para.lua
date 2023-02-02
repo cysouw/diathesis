@@ -76,7 +76,7 @@ function addFormatting (meta)
 <style>
 .paragraph-number { 
   float: left;
-  margin-left: -5em;
+  margin-left: -6em;
   width: 4.5em;
   text-align: right;
   color: grey;

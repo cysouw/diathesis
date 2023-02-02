@@ -7,6 +7,24 @@ header-includes:
   ```{=html}
   <!-- CSS added specifically for this document -->
   <style>
+  .title {
+    padding-top: 3em;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    color: white;
+    background-color: #006699;
+    font-family: Arial;
+    font-weight: normal;
+  }
+  .author {
+    padding-top: 2em;
+    padding-bottom: 5em;
+    margin-top: 0em;
+    color: white;
+    background-color: #006699;
+    font-family: Arial;
+    font-weight: normal;
+  }
   .author {
     text-align: center;
   }
@@ -28,13 +46,17 @@ header-includes:
     margin-bottom: -0.5em;
     font-style: normal;
   }
+  h1, h2, h3 {
+  text-indent: -50px;
+  padding-left: 50px;
+  }
   .header-section-number {
-    display: inline-block;
-    padding-right: 0.2em;
+  padding-right: 0.2em;
   }
   #toc-title {
-    text-indent: 0px;
-    margin-left: 0px;
+  text-indent: 0px;
+  margin-left: 0px;
+  padding-left: 0px;
   }
   p {
     margin-top: 0.5em;
