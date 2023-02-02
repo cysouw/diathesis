@@ -28,7 +28,7 @@ The result of this strict demarcation is that only very few clearly grammaticali
 
 ## Defining the *Präpositions­in­fi­ni­tiv*
 
-### The *Präpositions­in­fi­ni­tiv*
+### Grammatical structure {#sec:zuminfinitive-structure}
 
 The *Präpositions­in­fi­ni­tiv* is a grammaticalised construction that will be distinguished from the superficially identical "regular" combination of a preposition with an article and an infinitive. This distinction is rather subtle and there is quite some individual variation, indicating that the *Präpositions­in­fi­ni­tiv* is still in its early stages of grammaticalisation. I will first discuss the general characteristics of regular preposition+article+infinitive combinations, only to subsequently argue that the *Präpositions­in­fi­ni­tiv* [@next a] is different, see [@sec:zuminfinitive-structure]. Various highly similar structures will be distinguished from the *Präpositions­in­fi­ni­tiv* in the ensuing sections, namely (i) governed prepositional subordination [@next b], see [@sec:zuminfinitive-subordination], (ii) adverbial modification [@next c], see [@sec:zuminfinitive-teleological] and (iii) the *Funktions­verb­gefüge* [@next d], see [@sec:zuminfinitive-funktionsverb].
 
@@ -42,8 +42,6 @@ The *Präpositions­in­fi­ni­tiv* is a grammaticalised construction that will
 - Das Prinzip kommt bald zur Anwendung. \
   ('zur Anwendung' = *Funktions­verb­gefüge*, [@sec:zuminfinitive-funktionsverb])
 :::
-
-### Grammatical structure {#sec:zuminfinitive-structure}
 
 The central part of a *Präpositions­in­fi­ni­tiv* is the infinitive verbform. An infinitive is basically a noun derived from a verb (see [@sec:infinitive-nominal-predication]). As a noun, an infinitive can regularly be preceded by an article, forming a noun phrase, like *das Schreiben* 'the writing' [@next a]. And as a noun phrase, it can be preceded by a preposition to form a prepositional phrase *durch das Schreiben* 'by writing' [@next b]. The infinitive can also have additional attributive modifiers, e.g. adjectives like *schnell* 'fast' [@next c], modifying prepositional phrases like *im Dunkeln* 'in the dark' [@next d] or modifying genitive phrases like *eines Tagebuchs* 'of a diary' [@next e]. Syntactically, the position of the preposition+article+infinitive phrase in the sentence is flexible. Specifically, it does not have to occur immediately before the finite verb at the end of a subordinate clause [@next f]. Finally, under some morphophonological circumstances the preposition and article fuse together, leading to contractions like *beim*, from *bei*+*dem* [@next g]. All these possibilities show that the infinitive operates exactly like a regular noun inside a prepositional phrase.
 

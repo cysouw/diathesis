@@ -1150,28 +1150,28 @@
 \contentsline {subsection}{\numberline {10.4.18}{[} NA \textbar {} NA {]} \emph {setzen+Partizip} Imprisonment}{496}{subsection.10.4.18}%
 \contentsline {subsubsection}{Attested verbs}{496}{section*.565}%
 \contentsline {section}{\numberline {10.5}Diatheses with subject demotion}{496}{section.10.5}%
-\contentsline {subsection}{\numberline {10.5.1}\textsc {sbj › ø} : {[} N \textbar {} -- {]} \emph {werden+Partizip} Impersonal passive}{496}{subsection.10.5.1}%
-\contentsline {subsection}{\numberline {10.5.2}\textsc {sbj › ø} : {[} NP \textbar {} --P {]} \emph {werden+Partizip} Impersonal passive+preposition}{499}{subsection.10.5.2}%
+\contentsline {subsection}{\numberline {10.5.1}\textsc {sbj › ø} : {[} N \textbar {} -- {]} \emph {werden+Partizip} Impersonal}{496}{subsection.10.5.1}%
+\contentsline {subsection}{\numberline {10.5.2}\textsc {sbj › ø} : {[} NP \textbar {} --P {]} \emph {werden+Partizip} Impersonal+preposition}{499}{subsection.10.5.2}%
 \contentsline {subsubsection}{Attested verbs}{499}{section*.566}%
 \contentsline {subsubsection}{Further examples}{500}{section*.567}%
-\contentsline {subsection}{\numberline {10.5.3}\textsc {sbj › ø} : {[} ND \textbar {} --D {]} \emph {werden+Partizip} Impersonal passive+dative}{500}{subsection.10.5.3}%
+\contentsline {subsection}{\numberline {10.5.3}\textsc {sbj › ø} : {[} ND \textbar {} --D {]} \emph {werden+Partizip} Impersonal+dative}{500}{subsection.10.5.3}%
 \contentsline {subsubsection}{Attested verbs}{500}{section*.568}%
 \contentsline {subsubsection}{Further examples}{500}{section*.569}%
-\contentsline {subsection}{\numberline {10.5.4}\textsc {sbj › ø} : {[} N \textbar {} -- {]} \emph {sein+Partizip} Impersonal passive}{500}{subsection.10.5.4}%
-\contentsline {subsection}{\numberline {10.5.5}\textsc {sbj › ø} : {[} NP \textbar {} --P {]} \emph {sein+Partizip} Impersonal passive+preposition}{501}{subsection.10.5.5}%
+\contentsline {subsection}{\numberline {10.5.4}\textsc {sbj › ø} : {[} N \textbar {} -- {]} \emph {sein+Partizip} Impersonal}{500}{subsection.10.5.4}%
+\contentsline {subsection}{\numberline {10.5.5}\textsc {sbj › ø} : {[} NP \textbar {} --P {]} \emph {sein+Partizip} Impersonal+preposition}{501}{subsection.10.5.5}%
 \contentsline {subsubsection}{Attested verbs}{501}{section*.570}%
-\contentsline {subsection}{\numberline {10.5.6}\textsc {sbj › ø} : {[} ND \textbar {} --D {]} \emph {sein+Partizip} Impersonal passive+dative}{502}{subsection.10.5.6}%
+\contentsline {subsection}{\numberline {10.5.6}\textsc {sbj › ø} : {[} ND \textbar {} --D {]} \emph {sein+Partizip} Impersonal+dative}{502}{subsection.10.5.6}%
 \contentsline {subsubsection}{Attested verbs}{502}{section*.571}%
-\contentsline {subsection}{\numberline {10.5.7}\textsc {sbj › ø} : {[} N \textbar {} -- {]} \emph {gehören+Partizip} Impersonal passive}{502}{subsection.10.5.7}%
-\contentsline {subsection}{\numberline {10.5.8}\textsc {sbj › ø} : {[} NP \textbar {} --P {]} \emph {gehören+Partizip} Impersonal passive+preposition}{502}{subsection.10.5.8}%
+\contentsline {subsection}{\numberline {10.5.7}\textsc {sbj › ø} : {[} N \textbar {} -- {]} \emph {gehören+Partizip} Impersonal}{502}{subsection.10.5.7}%
+\contentsline {subsection}{\numberline {10.5.8}\textsc {sbj › ø} : {[} NP \textbar {} --P {]} \emph {gehören+Partizip} Impersonal+preposition}{502}{subsection.10.5.8}%
 \contentsline {subsubsection}{Attested verbs}{503}{section*.572}%
-\contentsline {subsection}{\numberline {10.5.9}\textsc {sbj › ø} : {[} ND \textbar {} --D {]} \emph {gehören+Partizip} Impersonal passive+dative}{503}{subsection.10.5.9}%
+\contentsline {subsection}{\numberline {10.5.9}\textsc {sbj › ø} : {[} ND \textbar {} --D {]} \emph {gehören+Partizip} Impersonal+dative}{503}{subsection.10.5.9}%
 \contentsline {subsubsection}{Attested verbs}{503}{section*.573}%
 \contentsline {subsection}{\numberline {10.5.10}\textsc {obj › sbj › ø} : {[} NA \textbar {} --N {]} \emph {scheinen/erscheinen+Partizip} Anticausative}{503}{subsection.10.5.10}%
 \contentsline {subsubsection}{Attested verbs}{505}{section*.574}%
 \contentsline {subsection}{\numberline {10.5.11}\textsc {obj › sbj › ø} : {[} NA \textbar {} --N {]} \emph {aussehen/wirken+Partizip} Anticausative}{506}{subsection.10.5.11}%
 \contentsline {subsubsection}{Attested verbs}{507}{section*.575}%
-\contentsline {subsection}{\numberline {10.5.12}\textsc {obj › sbj › ø} : {[} NA \textbar {} --N {]} \emph {geben/zeigen+Partizip} Reflexive anticausative}{508}{subsection.10.5.12}%
+\contentsline {subsection}{\numberline {10.5.12}\textsc {obj › sbj › ø} : {[} NA \textbar {} --N {]} \emph {geben/zeigen+Partizip} Anticausative+reflexive}{508}{subsection.10.5.12}%
 \contentsline {subsubsection}{Attested verbs}{508}{section*.576}%
 \contentsline {subsection}{\numberline {10.5.13}\textsc {obj › sbj › ø} : {[} NA \textbar {} --N {]} \emph {stehen+Partizip} Anticausative}{509}{subsection.10.5.13}%
 \contentsline {subsubsection}{Attested verbs}{509}{section*.577}%
@@ -1189,7 +1189,7 @@
 \contentsline {subsubsection}{Further examples}{519}{section*.585}%
 \contentsline {subsection}{\numberline {10.5.18}\textsc {obj › sbj › adj} : {[} NA \textbar {} pN {]} \emph {gehören+Partizip} Passive}{519}{subsection.10.5.18}%
 \contentsline {subsubsection}{Attested verbs}{520}{section*.586}%
-\contentsline {subsection}{\numberline {10.5.19}\textsc {obj › sbj › adj} : {[} NA \textbar {} pN {]} \emph {machen+Partizip} Reflexive passive}{521}{subsection.10.5.19}%
+\contentsline {subsection}{\numberline {10.5.19}\textsc {obj › sbj › adj} : {[} NA \textbar {} pN {]} \emph {machen+Partizip} Passive+reflexive}{521}{subsection.10.5.19}%
 \contentsline {subsubsection}{Attested verbs}{521}{section*.587}%
 \contentsline {subsubsection}{Further examples}{521}{section*.588}%
 \contentsline {subsection}{\numberline {10.5.20}\textsc {obj › sbj › adj} : {[} ND \textbar {} pN {]} \emph {bekommen+Partizip} Intransitive dative passive}{521}{subsection.10.5.20}%
@@ -1395,11 +1395,10 @@
 \contentsline {chapter}{\numberline {13}Light-verb alternations with \emph {Präpositions\-in\-fi\-ni\-tiv}}{621}{chapter.13}%
 \contentsline {section}{\numberline {13.1}Introduction}{621}{section.13.1}%
 \contentsline {section}{\numberline {13.2}Defining the \emph {Präpositions\-in\-fi\-ni\-tiv}}{622}{section.13.2}%
-\contentsline {subsection}{\numberline {13.2.1}The \emph {Präpositions\-in\-fi\-ni\-tiv}}{622}{subsection.13.2.1}%
-\contentsline {subsection}{\numberline {13.2.2}Grammatical structure}{623}{subsection.13.2.2}%
-\contentsline {subsection}{\numberline {13.2.3}Governed prepositional subordination}{625}{subsection.13.2.3}%
-\contentsline {subsection}{\numberline {13.2.4}Adverbial modification}{629}{subsection.13.2.4}%
-\contentsline {subsection}{\numberline {13.2.5}The \emph {Funktions\-verb\-gefüge}}{630}{subsection.13.2.5}%
+\contentsline {subsection}{\numberline {13.2.1}Grammatical structure}{622}{subsection.13.2.1}%
+\contentsline {subsection}{\numberline {13.2.2}Governed prepositional subordination}{625}{subsection.13.2.2}%
+\contentsline {subsection}{\numberline {13.2.3}Adverbial modification}{629}{subsection.13.2.3}%
+\contentsline {subsection}{\numberline {13.2.4}The \emph {Funktions\-verb\-gefüge}}{630}{subsection.13.2.4}%
 \contentsline {section}{\numberline {13.3}Deponent verbs}{631}{section.13.3}%
 \contentsline {section}{\numberline {13.4}Alternations without diathesis}{631}{section.13.4}%
 \contentsline {subsection}{\numberline {13.4.1}\emph {sein+am‑In\-fi\-ni\-tiv} Progressive}{631}{subsection.13.4.1}%
