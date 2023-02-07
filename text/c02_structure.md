@@ -966,7 +966,7 @@ b. Ich habe gestern eingekauft.
 A special variant of a deobjective occurs with verbs that apply to the body, like *verbrennen* 'to burn' [@next]. In such constructions, a reflexive pronoun is necessary. This diathesis is called ~~endoreflexive~~ [@haspelmath1987: 27--28], see [@sec:reflexive-accusative-drop] for an extensive discussion.
 
 ::: ex
-~~Deobjective (endoreflexive) (OBJ › Ø)~~
+~~Deobjective: endoreflexive (OBJ › Ø)~~
 
 a. Er verbrennt das Buch.
 b. Er verbrennt sich.
@@ -1025,7 +1025,7 @@ b. Ich befehle die Armee an die Front. \
 Even more noteworthy, such a caused-motion diathesis is also possible with many intransitive verbs like *schwitzen* 'to sweat' [@next a]. With such verbs, a locative diathesis not only adds a location, like *in mein Hemd* 'in my shirt', but also an added-result accusative object, like *einen Fleck* 'a stain' [@next b], see [@sec:prepositions-intransitive-location-as-result].
 
 ::: ex
-~~Locative: caused motion & added result (Ø › PBJ + Ø › OBJ)~~
+~~Locative: caused motion+added result (Ø › PBJ + Ø › OBJ)~~
 
 a. Ich schwitze.
 b. Ich schwitze einen Fleck in mein Hemd. \
