@@ -7,30 +7,6 @@ header-includes:
   ```{=html}
   <!-- CSS added specifically for this document -->
   <style>
-  .title {
-    padding-top: 3em;
-    margin-top: 0em;
-    margin-bottom: 0em;
-    color: white;
-    background-color: #006699;
-    font-family: Arial;
-    font-weight: normal;
-  }
-  .author {
-    padding-top: 2em;
-    padding-bottom: 5em;
-    margin-top: 0em;
-    color: white;
-    background-color: #006699;
-    font-family: Arial;
-    font-weight: normal;
-  }
-  .author {
-    text-align: center;
-  }
-  .date {
-    text-align: center;
-  }
   html {
     font-size: 14pt;
   }
@@ -47,16 +23,61 @@ header-includes:
     font-style: normal;
   }
   h1, h2, h3 {
-  text-indent: -50px;
-  padding-left: 50px;
+    text-indent: -50px;
+    padding-left: 50px;
+  }
+  .title {
+    padding-top: 30px;
+    padding-left: 30px;
+    text-indent: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: white;
+    background-color: #006699;
+    font-family: Arimo;
+    font-weight: normal;
+    text-align: left;
+    font-size: 3em;
+    line-height: 1;
+  }
+  .author {
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: white;
+    background-color: #006699;
+    font-weight: normal;
+    font-size: 1.5em;
+    text-align: left;
+  }
+  .series {
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 0px;
+    padding-right: 20px;
+    text-indent: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: white;
+    background-color: #006699;
+    font-family: Arimo;
+    font-weight: 100;
+    text-align: left;
+  }
+  .series:after{
+    content: url("LSPlogo.svg");
+    text-align: right;
+    float: right;
   }
   .header-section-number {
-  padding-right: 0.2em;
+    padding-right: 0.2em;
   }
   #toc-title {
-  text-indent: 0px;
-  margin-left: 0px;
-  padding-left: 0px;
+    text-indent: 0px;
+    margin-left: 0px;
+    padding-left: 0px;
   }
   p {
     margin-top: 0.5em;
