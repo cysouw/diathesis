@@ -1,8 +1,8 @@
-# fine-tuning for html output
+# fine-tuning for LSP html output
 # take pandoc defaults and add some further specifications
 
 header-includes:
-# CSS details just for this document
+# CSS details just for this LSP document
 - |
   ```{=html}
   <!-- CSS added specifically for this document -->
@@ -48,11 +48,10 @@ header-includes:
     margin-bottom: 0;
     color: white;
     background-color: #006699;
-    font-weight: normal;
     font-size: 1.5em;
     text-align: left;
   }
-  .series {
+  .date {
     padding-top: 100px;
     padding-bottom: 50px;
     padding-left: 0px;
@@ -63,16 +62,24 @@ header-includes:
     color: white;
     background-color: #006699;
     font-family: Arimo;
-    font-weight: 100;
     text-align: left;
   }
-  .series:after{
-    content: url("LSPlogo.svg");
-    text-align: right;
+  .date:before{
+    content: "█▌ ";
+  }
+  .date:after{
+    content: url("meta/LSPlogo.svg");
     float: right;
   }
   .header-section-number {
     padding-right: 0.2em;
+  }
+  header {
+    margin-bottom: 1em;
+  }
+  .copyright{
+    font-size: 0.7em;
+    margin-right: 30%;
   }
   #toc-title {
     text-indent: 0px;
@@ -120,6 +127,7 @@ header-includes:
   ```{=html}
   <!-- Links for using webfont -->
   <link href="https://fonts.cdnfonts.com/css/libertinus-serif" rel="stylesheet" data-external="1">
+  <link href="https://fonts.cdnfonts.com/css/arimo" rel="stylesheet" data-external="1">
   ```
 # hyphenation settings as suggested by:
 # https://medium.com/clear-left-thinking/all-you-need-to-know-about-hyphenation-in-css-2baee2d89179
