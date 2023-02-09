@@ -37,7 +37,7 @@ header-includes:
     font-family: Arimo;
     font-weight: normal;
     text-align: left;
-    font-size: 7vw;
+    font-size: 3.5em;
     line-height: 1;
   }
   .author {
@@ -48,7 +48,7 @@ header-includes:
     margin-bottom: 0;
     color: white;
     background-color: #006699;
-    font-size: 3.5vw;
+    font-size: 1.5em;
     text-align: left;
   }
   .date {
@@ -62,7 +62,7 @@ header-includes:
     color: white;
     background-color: #006699;
     font-family: Arimo;
-    font-size: 2vw;
+    font-size: 1em;
     text-align: left;
   }
   .date:before{
@@ -79,7 +79,7 @@ header-includes:
     margin-bottom: 1em;
   }
   .copyright{
-    font-size: 1.25vw;
+    font-size: 0.7em;
     margin-right: 30%;
   }
   #toc-title {
