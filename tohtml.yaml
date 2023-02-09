@@ -5,7 +5,7 @@ to: html
 output-file: docs/index.html
 
 input-files:
-- meta/copyright.md
+- meta/LSPcopyright.md
 - text/preface.md
 - text/c01_introduction.md
 - text/c02_structure.md
@@ -23,9 +23,9 @@ input-files:
 - text/references.md
 
 filters:
-#- filters/setdate.lua
-- filters/toc-css.lua
+- filters/inline-footnotes.lua
 - filters/strikeout-to-smallcaps.lua
+- filters/toc-css.lua
 - filters/count-para.lua
 - filters/pandoc-ling.lua
 - filters/pandoc-crossref

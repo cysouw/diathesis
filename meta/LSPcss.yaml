@@ -5,7 +5,7 @@ header-includes:
 # CSS details just for this LSP document
 - |
   ```{=html}
-  <!-- CSS added specifically for this document -->
+  <!-- CSS added specifically for this LSP document -->
   <style>
   html {
     font-size: 14pt;
@@ -37,7 +37,7 @@ header-includes:
     font-family: Arimo;
     font-weight: normal;
     text-align: left;
-    font-size: 3em;
+    font-size: 7vw;
     line-height: 1;
   }
   .author {
@@ -48,7 +48,7 @@ header-includes:
     margin-bottom: 0;
     color: white;
     background-color: #006699;
-    font-size: 1.5em;
+    font-size: 3.5vw;
     text-align: left;
   }
   .date {
@@ -62,6 +62,7 @@ header-includes:
     color: white;
     background-color: #006699;
     font-family: Arimo;
+    font-size: 2vw;
     text-align: left;
   }
   .date:before{
@@ -78,7 +79,7 @@ header-includes:
     margin-bottom: 1em;
   }
   .copyright{
-    font-size: 0.7em;
+    font-size: 1.25vw;
     margin-right: 30%;
   }
   #toc-title {
