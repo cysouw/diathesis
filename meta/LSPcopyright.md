@@ -1,13 +1,13 @@
 ::: {.copyright}
 
 Michael Cysouw. 2023. *Encyclopaedia of German diatheses* \
-(Open Germanic Linguistics 4). Berlin: Language Science Press.
+  (Open Germanic Linguistics 4). Berlin: Language Science Press.
  \
  \
 © 2023, Michael Cysouw \
 This title can be downloaded at [langsci-press.org/catalog/book/374](https://langsci-press.org/catalog/book/374){target="_blank"} \
 Published under the Creative Commons Attribution 4.0 Licence (CC BY 4.0) \
-[creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/){target="_blank"}
+  [creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/){target="_blank"}
  \
  \
 ISBN: 978-3-96110-407-9 (Digital) \
@@ -23,8 +23,10 @@ Errata at [paperhive.org/documents/remote?type=langsci&id=374](https://paperhive
  \
  \
 Cover and concept of design: Ulrike Harbort \
-Proofreading: Agnes Kim, Annemarie Verkerk, Elliot Pearl, Felix Kopecky, Jeroen van de Weijer, Katja Politt, Lea Schäfer, Lisa Schäfer, Patricia Cabredo Hofherr, Yvonne Treis \
-Fonts: Libertinus, Arimo, DejaVu Sans Mono \
+Proofreading: Agnes Kim, Annemarie Verkerk, Elliot Pearl, Felix Kopecky, \
+  Jeroen van de Weijer, Katja Politt, Lea Schäfer, Lisa Schäfer, \
+  Patricia Cabredo Hofherr, Yvonne Treis \
+Fonts: Libertinus, Arimo \
 Typesetting software: Pandoc ([pandoc.org](https://pandoc.org){target="_blank"}) and your browser engine
  \
  \

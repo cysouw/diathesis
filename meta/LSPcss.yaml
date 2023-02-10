@@ -80,7 +80,7 @@ header-includes:
   }
   .copyright{
     font-size: 0.7em;
-    margin-right: 30%;
+    text-align: left;
   }
   #toc-title {
     text-indent: 0px;
