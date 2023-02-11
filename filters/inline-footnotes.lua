@@ -60,6 +60,14 @@ font-weight: bold;
   vertical-align: text-top;
   font-size: small;
   }
+@media (max-width: 600px) {
+  .fn-number:before{
+    font-size: x-small;
+  }
+  .fn-number:has(+ input[type=checkbox][id^=fn]:checked):before{
+    font-size: x-small;
+  }
+}
 </style>
 ]]
 
