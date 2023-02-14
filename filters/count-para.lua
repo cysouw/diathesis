@@ -3,7 +3,7 @@
 Make all 'regular' paragraphs into a div and assign a numeric ID
 Format this number in the margin
 
-Copyright © 2021 Michael Cysouw <cysouw@mac.com>
+Copyright © 2021, 2023 Michael Cysouw <cysouw@mac.com>
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
@@ -76,7 +76,7 @@ function addFormatting (meta)
 <style>
 .paragraph-number { 
   float: left;
-  margin-left: -6em;
+  margin-left: -5em;
   width: 4.5em;
   text-align: right;
   color: grey;
@@ -93,6 +93,7 @@ function addFormatting (meta)
   end
 
   if FORMAT:match "latex" then
+    addTexPreamble("\\usepackage{xcolor}")
     addTexPreamble("\\usepackage{marginnote}")
     addTexPreamble("\\reversemarginpar")
     addTexPreamble("\\newcommand{\\paragraphnumber}[1]{\\marginnote{\\color{lightgray}\\tiny{#1}}[0pt]}")
@@ -149,9 +150,9 @@ function countPara (doc)
         -- remove reference from text
         table.remove(doc.blocks[i].content, 1)
         -- remove possible space
---      if doc.blocks[i].content[1].tag == "Space" then
---        table.remove(doc.blocks[i].content, 1)
---        end
+        if doc.blocks[i].content[1].tag == "Space" then
+          table.remove(doc.blocks[i].content, 1)
+        end
       end
 
       -- insert number
@@ -162,10 +163,11 @@ function countPara (doc)
           -- add target for link to the number
           texCount = "\\hypertarget{"..userID.."}{\n"..texCount.."\\label{"..userID.."}}"
         end
+        -- insert after first word in Latex to keep number on same page
         table.insert(doc.blocks[i].content, 2, pandoc.RawInline("tex", texCount))
       else
         table.insert(doc.blocks[i].content, 1, pandoc.Space())
-        table.insert(doc.blocks[i].content, 1, pandoc.Span(number, pandoc.Attr(ID, {"paragraph-number"})))
+        table.insert(doc.blocks[i].content, 1, pandoc.Span(number, pandoc.Attr(tostring(ID), {"paragraph-number"})))
       end
 
     end

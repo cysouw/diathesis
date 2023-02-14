@@ -60,7 +60,7 @@ font-weight: bold;
   vertical-align: text-top;
   font-size: small;
   }
-@media (max-width: 600px) {
+@media (max-width: 800px) {
   .fn-number:before{
     font-size: x-small;
   }
