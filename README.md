@@ -20,3 +20,4 @@ The following Pandoc filters are used to assist the preparation of this manuscri
 -  [`toc-css`](https://github.com/cysouw/toc-css) adds some extra CSS and Javascript for HTML output to format the table of contents.
 - [`strikeout-to-smallcaps`](/filters/strikeout-to-smallcaps.lua) to use the markup for  ~~strikeout~~ (using `~~`) to indicate small caps (I never use strikeout, but often use small caps). This filter simply makes this change when processing the file for output.
 -  [`setdata`](filters/setdate.lua) to add the current date.
+
