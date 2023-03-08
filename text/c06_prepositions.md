@@ -82,6 +82,8 @@ c. Ich reite auf dem Pferd. \
    Ich reite das Pferd.
 :::
 
+Finally, the purposive/causal meanings of the prepositions *für* ([@sec:prepositions-fur]), *durch* and *von* ([@sec:prepositions-durch}]) can be used with a *da(r)-preposition, dass* paraphrase, although semantically these constructions do not appear to be arguments. With these three prepositions this paraphrase test for argumenthood should not be used.
+
 ### Identifying non-governed prepositions {#sec:prepositions-definition-non-governed}
 
 Non-governed prepositional phrases are typically adverbial phrases, describing either a local [@next a], temporal [@next b], manner [@next c] or purpose/causal [@next d] situation. In some contexts, such adverbial prepositional phrases do not have an article after the preposition, like in *gegen Abend* 'early evening', *aus Gold* 'golden', or *mit größter Sorgfalt* 'carefully'.
@@ -907,7 +909,7 @@ b. Der Reporter spricht von einem historischen Ereignis. \
 - auf   : (object of emotional reaction) *schimpfen*
 - nach  : (object of smell/taste) *duften, riechen, stinken, schnüffeln, schmecken*
 - vor   : (object of emotional reaction) *platzen, rasen (Emotion), schreien*
-- an    : *arbeiten, denken, scheitern, sterben, teilnehmen, zweifeln*
+- an    : *arbeiten, basteln, denken, experimentieren, feilen, forschen, knobeln, laborieren, puzzeln, scheitern, sterben, teilnehmen, tüfteln, zweifeln*
 - um    : *streiten*
 
 #### Further examples {.unnumbered}
@@ -928,6 +930,7 @@ b. Der Reporter spricht von einem historischen Ereignis. \
 - Ich schimpfe auf dich.
 - Der Müll stinkt nach Fisch.
 - Ich streite um meine Freiheit.
+- Der Ex-Präsident bastelt an seiner Rückkehr.^[[@laptieva2022: 31]]
 - Ich rase vor Begeisterung. \
   Mein Kopf rast.
 - Ich platze vor Neugier. \
@@ -1144,7 +1147,7 @@ An antipassive diathesis has to be distinguished from differential object markin
 
 #### *an* Antipassive
 
-Accusative objects that alternate with an *an* prepositional phrase indicate partially completed actions, like with *bauen an* 'to be busy building' [@next a] and is also typically used when there is bodily contact to the object, like with *schlecken an* 'to lick' [@next b].
+Accusative objects that alternate with an *an* prepositional phrase indicate partially completed actions, like with *bauen an* 'to be busy building' [@next a] and is also typically used when there is bodily contact to the object, like with *schlecken an* 'to lick' [@next b]. This construction is extensively discussed in Laptieva [-@laptieva2022: Ch. 4]. These verbs have to differentiated from semantically highly similar verbs that do not allow for an accusative object. Those verbs all appear to have a goverened *an* argument (see [@sec:prepositions-governed-drop]).
 
 ::: ex
 a. Ich baue ein Haus. \
@@ -1155,8 +1158,9 @@ b. Ich schlecke mein Eis. \
 
 #### Attested verbs {.unnumbered}
 
-- Bodily contact: *fühlen, knabbern, kratzen, lutschen, riechen, saugen, schnüffeln, schlecken, schlürfen, schnuppern, stoßen, üben, ziehen, zupfen*
-- Partial object construction: *basteln, bauen, graben, malen, nähen, stricken, schreiben*
+- Consumption: *essen, fressen, kauen, knabbern, lutschen, naschen, nuckeln, riechen, saugen, schlecken, schlürfen, schnuppern*
+- Bodily contact: *fühlen, kratzen, stoßen, üben, ziehen, zupfen*
+- Object construction: *bauen, bügeln, graben, komponieren, malen, nähen, planen, polieren, schreiben, stricken, zimmern*
 - Gain/loss: *gewinnen, verdienen, verlieren*
 
 #### Further examples {.unnumbered}
@@ -1182,13 +1186,20 @@ b. Ich schlecke mein Eis. \
 
 #### Notes {.unnumbered}
 
-The verb *kratzen* 'to scratch' appears to loose the possibility to be used with an accusative inanimate object. Examples with an accusative like [@next a] are only attested in older German texts and sound strange in current German. It sounds much better with a dative possessor [@next b], see [@sec:case-possessor-accusative-to-dative]. With animate objects an accusative seems to be still possible [@next c], so this verb appears to be developing  in the direction of showing differential object marking. With inanimate objects a prepositional phrase with *an* is preferred [@next d].
+The verb *kratzen* 'to scratch' appears to loose the possibility to be used with an accusative inanimate object. Examples with an accusative like [@next a] are only attested in older German texts and sound strange in current German. It sounds much better with a dative possessor [@next b], see [@sec:case-possessor-accusative-to-dative]. With animate objects an accusative seems to be still possible [@next c], so this verb appears to be developing  in the direction of showing differential object marking. With inanimate objects a prepositional phrase with *an* is preferred [@next d]. 
 
 ::: ex
 - Er kratzte den Kopf.^[~~DWDS~~: Hauptmann, Gerhart: Der Narr in Christo Emanuel Quint, Berlin: Aufbau-Verl. 1962(1910), S. 318.]
 - Ich kratze mir den Kopf.
 - Die Katze kratzt mich.
 - Die Katze kratzt an der Tür.
+:::
+
+Various verbs of laboring with instruments can be used with *an*, although they cannot be used with an accusative object, e.g. *bohren, feilen, hämmern, raspeln, schnippeln, säbeln, schrauben* [cf. @laptieva2022: 90]. These might be interpreted as specific instantiations of *bauen an* 'to construct' with a particular instrument. A similar explanation might be pursued for *nagen*, *nippen* and *schnüffeln*, which do not seem to allow for a accusative object.
+
+::: ex
+- Taucher bohren an der Kursk.^[Mannheimer Morgen, 23.10.2000, cited from Laptieva [-@laptieva2022: 90].]
+- Nebenan hämmern Bauarbeiter mit einem Presslufthammer an der Wand einer eingestürzten Bank.^[Frankfurter Rundschau, 24.9.1999, cited from Laptieva [-@laptieva2022: 90].]
 :::
 
 For the verb *verdienen* 'to earn' it is unclear whether these two uses should maybe better be categorised as different meanings [@next a,b].
