@@ -2,7 +2,7 @@ Version history of *Encyclopeadia of German Diathesis*
 
 # Version 1.1 (upcoming)
 
-- various corrections and local additions
+- various corrections and minor additions
 
 # Version 1.0
 
