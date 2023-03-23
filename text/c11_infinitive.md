@@ -921,7 +921,7 @@ Table: Analysis of the sentences in [@last] {#tbl:lassen-analysis}
 
 ### ~~Ø › SBJ › OBJ~~ : [ –N | NA ] *lassen+In­fi­ni­tiv* Permissive causative {#sec:infinitive-lassen-causative}
 
-Although the *lassen+In­fi­ni­tiv* is widely acknowledged in German grammar as a causative, the actual semantics are more variable than that. Basically there seem to be two major interpretations, a causative and a permissive [@next b]. Consequently, I propose to call this diathesis *Permissivkausativ*. Enzinger [-@enzinger2012: 6--7] calls the permissive reading *Kontinuativ* as this interpretation typically expresses that a situation is allowed to persist or continue. This diathesis typically invokes the ~~IPP~~ *Ersatzin­fi­ni­tiv* [@next c]. However, the use of participle *gelassen* is possible [@next d], but seems to be restricted to the permissive interpretation [@enzinger2012: 34].
+Although the *lassen+In­fi­ni­tiv* is widely acknowledged in German grammar as a causative, the actual semantics are more variable than that. Basically there seem to be two major interpretations, a causative and a permissive [@next b]. Consequently, I propose to call this diathesis *Permissivkausativ*. Enzinger [-@enzinger2012: 6--7] calls the permissive reading *Kontinuativ* as this interpretation typically expresses that a situation is allowed to persist or continue. Schallert [-@schallert2014: 174-176] even proposes to add this as a third interpretation. This diathesis typically invokes the ~~IPP~~ *Ersatzin­fi­ni­tiv* [@next c]. However, the use of participle *gelassen* is possible [@next d], but seems to be restricted to the permissive/continuative interpretation [@enzinger2012: 34].
 
 ::: ex
 a. Ich wasche die Kleider.
