@@ -2,5 +2,8 @@
 # rest of pandoc 'metadata' in settings.yaml
 
 title: Encyclopaedia of German diatheses
+subtitle:
+edition: Second revised edition
 author: Michael Cysouw
-date: Open Germanic Linguistics 4
+notice: Prepublication draft, do not cite!
+series: Open Germanic Linguistics 4

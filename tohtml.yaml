@@ -45,3 +45,4 @@ standalone: true
 self-contained: true
 default-image-extension: svg
 wrap: preserve
+template: meta/LSPhtml.tmpl

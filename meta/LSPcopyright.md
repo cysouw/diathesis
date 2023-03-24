@@ -4,6 +4,8 @@ Michael Cysouw. 2023. *Encyclopaedia of German diatheses* (Open Germanic Linguis
  \
  \
 © 2023, Michael Cysouw \
+ \
+ \
 This title can be downloaded at [langsci-press.org/catalog/book/374](https://langsci-press.org/catalog/book/374){target="_blank"} \
 Published under the Creative Commons Attribution 4.0 Licence (CC BY 4.0) [creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/){target="_blank"}
  \

@@ -29,49 +29,66 @@ header-includes:
     text-indent: -50px;
     padding-left: 50px;
   }
+  #title-block-header {
+    text-indent: 0;
+    font-family: Arimo;
+    color: white;
+    background-color: #006699;
+    text-align: left;
+  }
   .title {
     padding-top: 30px;
     padding-left: 30px;
-    text-indent: 0;
     margin-top: 0;
     margin-bottom: 0;
-    color: white;
-    background-color: #006699;
-    font-family: Arimo;
-    font-weight: normal;
-    text-align: left;
+    text-indent: 0px;
     font-size: 3.5em;
+    font-weight: normal;
     line-height: 1;
   }
-  .author {
-    padding-top: 30px;
-    padding-bottom: 50px;
+  .subtitle {
+    padding-top: 20px;
     padding-left: 30px;
     margin-top: 0;
     margin-bottom: 0;
-    color: white;
-    background-color: #006699;
     font-size: 1.5em;
-    text-align: left;
   }
-  .date {
-    padding-top: 100px;
-    padding-bottom: 50px;
-    padding-left: 0px;
-    padding-right: 20px;
-    text-indent: 0;
+  .edition {
+    padding-top: 10px;
+    padding-left: 30px;
     margin-top: 0;
     margin-bottom: 0;
-    color: white;
-    background-color: #006699;
-    font-family: Arimo;
+    font-style: italic;
     font-size: 1em;
-    text-align: left;
   }
-  .date:before{
+  .author {
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: Libertinus Serif;
+    font-size: 1.5em;
+  }
+  .notice {
+    padding-top: 20px;
+    padding-left: 30px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 2em;
+  }
+  .series {
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-right: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 1em;
+  }
+  .series:before{
     content: "█▌ ";
   }
-  .date:after{
+  .series:after{
     content: url("meta/LSPlogo.svg");
     float: right;
   }
