@@ -134,15 +134,21 @@ The *Ersatzin­fi­ni­tiv* is a special syntactic phenomenon attested in West-G
   Sie *hat* ihn den Tisch putzen *sehen*.
 :::
 
-Based on data from various West-Germanic languages and dialects, Schmid [-@schmid2005: 32--33, 106] proposes a hierarchy of verb types that show this phenomenon [@next]. German fits nicely in this hierarchy (almost by definition, because German was used to propose the hierarchy in the first place). The German verbs inducing an ~~IPP~~ are causative *lassen*, modals *dürfen/können/mögen/müssen/sollen/wollen* and also *brauchen*, perception verbs *hören, sehen* and benefactive *helfen*.
+Based on data from various West-Germanic languages and dialects, Schmid [-@schmid2005: 32--33, 106] proposes a hierarchy of verb types that show this phenomenon [@next]. German fits nicely in this hierarchy (almost by definition, because German was used to propose the hierarchy in the first place). The German verbs inducing an ~~IPP~~ are causative *lassen*, modals *dürfen/können/mögen/müssen/sollen/wollen* and also *brauchen*, perception verbs *hören, sehen* and benefactive *helfen*. Note that this hierarchy is closely related to the typological ~~complement deranking hierarchy~~ [@cristofaro2003: 125], see [@nnext]. The hierarchy by Schmid should be interpreted rather loosely [see @schallert2014: 251-252, 286 for criticism] and might very well be completely compatible with Cristofaro's proposal. 
 
 ::: ex
-Implicational scale of ~~IPP~~ *Ersatzin­fi­ni­tiv* verbs 
+Implicational scale of ~~IPP~~ *Ersatzin­fi­ni­tiv* verbs [@schmid2005: 106]
 
 causatives < modals < perception verbs < benefactives < duratives < inchoatives < control verbs
 :::
 
-However, this hierarchy should be interpreted rather loosely. The designation "causative" on the hierarchy is a misnomer. The verb *lassen* also induces the ~~IPP~~ in its other uses, viz. possibility and permission (see the next [@sec:infinitive-guises-of-lassen]). Conversely, other causative constructions do not induce an ~~IPP~~, namely those with *schicken* (see [@sec:infinitive-schicken]) and *machen* (see [@sec:infinitive-machen]). Likewise, while the perception verbs *hören* and *sehen* allow for an ~~IPP~~, the syntactically similar perception verbs *fühlen* and *spüren* do not (see [@sec:infinitive-sehen] ff.).
+::: ex
+Complement Deranking Hierarchy [@cristofaro2003: 125]
+
+modals < desideratives/manipulatives < perception verbs < knowledge/utterance verbs
+:::
+
+First, the designation "causative" on Schmid's hierarchy is a misnomer. The verb *lassen* also induces the ~~IPP~~ in its other uses, viz. possibility and permission (see the next [@sec:infinitive-guises-of-lassen]). Conversely, other causative constructions do not induce an ~~IPP~~, namely those with *schicken* (see [@sec:infinitive-schicken]) and *machen* (see [@sec:infinitive-machen]). Likewise, while the perception verbs *hören* and *sehen* allow for an ~~IPP~~, the syntactically similar perception verbs *fühlen* and *spüren* do not (see [@sec:infinitive-sehen] ff.).
 
 Further, the ~~IPP~~ *Ersatzin­fi­ni­tiv* is not obligatory for benefactive *helfen* and neither for the perception verbs *sehen* and *hören*, but it is obligatory for modal verbs. This would actually nicely correspond to a connected region on the hierarchy, were it not for the verb *lassen*, which also allows for both infinitive and participle [@next]. However, according to Enzinger [-@enzinger2012: 34] the construction with the participle *gelassen* only allows for a permissive reading [@next b]. If this is confirmed, then the hierarchy could be extended by adding "permissives" close to "benefactives" to again obtain a connected region on the hierarchy for optional ~~IPP~~.
 
@@ -921,7 +927,7 @@ Table: Analysis of the sentences in [@last] {#tbl:lassen-analysis}
 
 ### ~~Ø › SBJ › OBJ~~ : [ –N | NA ] *lassen+In­fi­ni­tiv* Permissive causative {#sec:infinitive-lassen-causative}
 
-Although the *lassen+In­fi­ni­tiv* is widely acknowledged in German grammar as a causative, the actual semantics are more variable than that. Basically there seem to be two major interpretations, a causative and a permissive [@next b]. Consequently, I propose to call this diathesis *Permissivkausativ*. Enzinger [-@enzinger2012: 6--7] calls the permissive reading *Kontinuativ* as this interpretation typically expresses that a situation is allowed to persist or continue. Schallert [-@schallert2014: 174-176] even proposes to add this as a third interpretation. This diathesis typically invokes the ~~IPP~~ *Ersatzin­fi­ni­tiv* [@next c]. However, the use of participle *gelassen* is possible [@next d], but seems to be restricted to the permissive/continuative interpretation [@enzinger2012: 34].
+Although the *lassen+In­fi­ni­tiv* is widely acknowledged in German grammar as a causative, the actual semantics are more variable than that. Basically there seem to be two major interpretations, a causative and a permissive [@next b]. Consequently, I propose to call this diathesis *Permissivkausativ*. Enzinger [-@enzinger2012: 6--7] calls the permissive reading *Kontinuativ* as this interpretation typically expresses that a situation is allowed to persist or continue. Schallert [-@schallert2014: 174-176] even proposes to add the continuative reading as a third interpretation. This diathesis typically invokes the ~~IPP~~ *Ersatzin­fi­ni­tiv* [@next c]. However, the use of participle *gelassen* is possible [@next d], but seems to be restricted to the permissive/continuative interpretation [@enzinger2012: 34].
 
 ::: ex
 a. Ich wasche die Kleider.
