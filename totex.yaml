@@ -2,7 +2,7 @@
 
 from: markdown
 to: latex
-output-file: LSP/chapters/all.tex
+output-file: LSPtex/chapters/all.tex
 
 input-files:
 - text/preface.md
@@ -22,7 +22,6 @@ input-files:
 - text/references.md
 
 filters:
-- filters/setdate.lua
 - filters/strikeout-to-smallcaps.lua
 - filters/count-para.lua
 - filters/pandoc-ling.lua
@@ -30,8 +29,8 @@ filters:
 - citeproc
 
 metadata-files:
-- meta/metadata.yaml
-- meta/LSPsettings.yaml
+- TITLEPAGE.yaml
+- meta/LSPtex-settings.yaml
 
 # pandoc-native functionalities
 
@@ -39,3 +38,9 @@ number-sections: true
 table-of-contents: false
 standalone: false
 default-image-extension: pdf
+
+# location of bibliography file
+
+metadata:
+  bibliography: /Users/cysouw/Documents/Bibdesk/michaellibrary.bib
+  lang: en-GB # important for hyphenation

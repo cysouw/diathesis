@@ -5,7 +5,7 @@ to: html
 output-file: docs/index.html
 
 input-files:
-- meta/LSPcopyright.md
+- settings/LSP-copyright.md
 - text/preface.md
 - text/c01_introduction.md
 - text/c02_structure.md
@@ -23,6 +23,7 @@ input-files:
 - text/references.md
 
 filters:
+- filters/setdate.lua
 - filters/inline-footnotes.lua
 - filters/strikeout-to-smallcaps.lua
 - filters/toc-css.lua
@@ -33,9 +34,9 @@ filters:
 - citeproc
 
 metadata-files:
-- meta/metadata.yaml
-- meta/settings.yaml
-- meta/LSPcss.yaml
+- TITLEPAGE.yaml
+- settings/custom-settings.yaml
+- settings/LSP-css.yaml
 
 # pandoc-native functionalities
 
@@ -45,4 +46,10 @@ standalone: true
 self-contained: true
 default-image-extension: svg
 wrap: preserve
-template: meta/LSPhtml.tmpl
+template: settings/LSP-html.template
+
+# location of bibliography file
+
+metadata:
+  bibliography: /Users/cysouw/Documents/Bibdesk/michaellibrary.bib
+  lang: en-GB # important for hyphenation

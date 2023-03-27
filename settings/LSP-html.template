@@ -49,11 +49,11 @@ $endif$
 $for(author)$
 <p class="author">$author$</p>
 $endfor$
-$if(date)$
-<p class="date">$date$</p>
-$endif$
 $if(notice)$
 <p class="notice">$notice$</p>
+$endif$
+$if(date)$
+<p class="date">$date$</p>
 $endif$
 $if(series)$
 <p class="series">$series$</p>

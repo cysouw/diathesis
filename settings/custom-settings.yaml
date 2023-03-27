@@ -1,8 +1,10 @@
 # main settings
 
-documentclass: book
+mainfont: Libertinus Serif
 top-level-division: chapter
-lang: en-GB
+toc-title: Contents
+margin-left: 4cm
+margin-right: 4cm
 
 # pandoc-crossref settings
 
@@ -23,8 +25,8 @@ setLabelAttribute: true
 # pandoc-ling settings
 
 addChapterNumber: true
-xrefSuffixSep: ""
-latexPackage: langsci-gb4e
+xrefSuffixSep: " "
+latexPackage: gb4e
 formatGloss: true
 
 # count-para settings
@@ -33,6 +35,5 @@ resetAtChapter: true
 
 # citeproc settings
 
-bibliography: /Users/cysouw/Documents/Bibdesk/michaellibrary.bib
-citation-style: /Users/cysouw/Documents/Bibdesk/unified.csl
+citation-style: settings/unified.csl
 link-citations: true

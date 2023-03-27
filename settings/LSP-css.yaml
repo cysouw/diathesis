@@ -77,6 +77,12 @@ header-includes:
     margin-bottom: 0;
     font-size: 2em;
   }
+  .date {
+    padding-left: 30px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 2em;
+  }
   .series {
     padding-top: 100px;
     padding-bottom: 50px;
@@ -89,7 +95,7 @@ header-includes:
     content: "█▌ ";
   }
   .series:after{
-    content: url("meta/LSPlogo.svg");
+    content: url("settings/LSP-logo.svg");
     float: right;
   }
   .header-section-number {

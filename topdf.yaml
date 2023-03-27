@@ -3,7 +3,7 @@
 from: markdown
 to: pdf
 pdf-engine: xelatex
-output-file: docs/cysouwDIATHESIS.pdf
+output-file: docs/book.pdf
 
 input-files:
 - text/preface.md
@@ -31,9 +31,9 @@ filters:
 - citeproc
 
 metadata-files:
-- meta/metadata.yaml
-- meta/settings.yaml
-- meta/custom-latex.yaml
+- TITLEPAGE.yaml
+- settings/custom-settings.yaml
+- settings/custom-latex.yaml
 
 # pandoc-native functionalities
 
@@ -41,3 +41,9 @@ number-sections: true
 table-of-contents: true
 standalone: true
 default-image-extension: pdf
+
+# location of bibliography file
+
+metadata:
+  bibliography: /Users/cysouw/Documents/Bibdesk/michaellibrary.bib
+  lang: en-GB # important for hyphenation
