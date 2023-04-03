@@ -2,7 +2,7 @@
 
 from: markdown
 to: latex
-output-file: LSPtex/chapters/all.tex
+output-file: latex/chapters/all.tex
 
 defaults:
 - 2_CONTENTS.yaml
