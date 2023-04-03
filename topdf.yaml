@@ -5,22 +5,9 @@ to: pdf
 pdf-engine: xelatex
 output-file: docs/book.pdf
 
-input-files:
-- text/preface.md
-- text/c01_introduction.md
-- text/c02_structure.md
-- text/c03_summaryDia.md
-- text/c04_summaryEpi.md
-- text/c05_case.md
-- text/c06_prepositions.md
-- text/c07_reflexive.md
-- text/c08_preverbs.md
-- text/c09_adverbials.md
-- text/c10_participle.md
-- text/c11_infinitive.md
-- text/c12_zuInfinitive.md
-- text/c13_zumInfinitive.md
-- text/references.md
+defaults:
+- 2_CONTENTS.yaml
+- settings/post.yaml
 
 filters:
 - filters/setdate.lua
@@ -31,8 +18,9 @@ filters:
 - citeproc
 
 metadata-files:
-- TITLEPAGE.yaml
-- settings/custom-settings.yaml
+- 1_TITLEPAGE.yaml
+- 3_SETTINGS.yaml
+- settings/LSPhtml-settings.yaml
 - settings/custom-latex.yaml
 
 # pandoc-native functionalities
@@ -41,9 +29,3 @@ number-sections: true
 table-of-contents: true
 standalone: true
 default-image-extension: pdf
-
-# location of bibliography file
-
-metadata:
-  bibliography: /Users/cysouw/Documents/Bibdesk/michaellibrary.bib
-  lang: en-GB # important for hyphenation

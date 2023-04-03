@@ -1,0 +1,8 @@
+# These are just the user-facing settings
+# More settings in the directory `settings`
+
+# location of the bibliography file:
+bibliography: /Users/cysouw/Documents/Bibdesk/michaellibrary.bib
+
+# language for hyphenation
+lang: en-GB

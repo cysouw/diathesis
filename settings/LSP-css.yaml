@@ -9,6 +9,7 @@ header-includes:
   <style>
   html {
     font-size: 14pt;
+    line-height: 1.5;
   }
   body {
     word-wrap: break-word;
