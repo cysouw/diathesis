@@ -395,7 +395,7 @@ The *tun+In­fi­ni­tiv* construction [@schwarz2004] is considered substandard 
 
 The traditional modal verbs *dürfen/können/mögen/müssen/sollen/wollen* and the modal-like light verbs *werden* and *brauchen* are frequently used in constructions with infinitives. There do not seem to be any restrictions on which verbs can occur as infinitives in such constructions. This is noteworthy because all other constructions as discussed in this book have restrictions on the verbs that can be used with them (cf. [@sec:intro-domain-of-application]).
 
-The modal verbs *dürfen/können/mögen/möchten/müssen/sollen/wollen* are extensively discussed in the German grammatical literature and will therefore not discussed in any detail here [e.g. see @duden2009: 556ff.]. These modal verbs induce an ~~IPP~~ *Ersatzin­fi­ni­tiv* [@next].
+The modal verbs *dürfen/können/mögen/möchten/müssen/sollen/wollen* are extensively discussed in the German grammatical literature and will therefore not discussed in any detail here [e.g. see @duden2009: 556ff.]. Additionally, note the possibility to use *müssen* and *sollen* with evidential meanings [@mortelmans2022]. These modal verbs induce an ~~IPP~~ *Ersatzin­fi­ni­tiv* [@next].
 
 ::: ex
 - Er will das Haus bauen.

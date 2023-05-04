@@ -325,7 +325,7 @@ b. Er redet. \
 
 ## Evidentiality {#sec:epithesis-evidentiality}
 
-The grammatical marking of ~~evidentiality~~ is a linguistic structure by which the speaker indicates the evidence for the stated utterance. It has been observed in languages all over the world. In German, grammaticalised evidentials exist in various variants. As for the German names for these categories, I propose to distinguish between *Inferenz* for inferential evidentials and *Evidenz* for direct evidentials.
+The grammatical marking of ~~evidentiality~~ is a linguistic structure by which the speaker indicates the evidence for the stated utterance. It has been observed in languages all over the world. In German, grammaticalised evidentials exist in various variants [@diewald2010, @mortelmans2022]. As for the German names for these categories, I propose to distinguish between *Inferenz* for inferential evidentials and *Evidenz* for direct evidentials.
 
 ### *Imperfektinferenz* (*scheinen+zu‑In­fi­ni­tiv*) {#sec:summary-imperfektinferenz}
 
