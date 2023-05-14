@@ -46,7 +46,7 @@ b. Ich *trete* die Tür *ˈein*. \
    Ich hoffe die Tür *ˈeinzutreten*.
 :::
 
-The following elements can only be used as ~~verb prefixes~~ in German [see @los2016: 177; @pfeiffer1993 for the diachronic origin]:
+The following elements can only be used as ~~verb prefixes~~ in German [see @los2016: 177; @pfeiffer1993 for the diachronic origin]:^[German dialects offer further possible prefixes, especially notewhorthy is the prefix *der-* in Bavarian [@sonnenhauser2012].]
 
 - *geˈ-*, originally meaning 'with', probably cognate with Latin *com*
 - *beˈ-*, originally meaning 'by, around', cognate to modern German *bei*
