@@ -1010,6 +1010,57 @@ The verb *saugen* 'to suck' [@next] shows an interesting stack of diatheses (see
   = Das Tuch saugt sich voll (mit Milch).
 :::
 
+### ~~PBJ › SBJ › PBJ~~ : [ NL | PN ] *voll/frei* Location inversive {#sec:adverbial-location-inversive}
+
+Is the *mit* phrase obligatory? Then maybe better [ NL | PN ]. 
+
+::: ex
+- Die Kisten stehen im Flur.
+- Der Flur steht voll mit Kisten.
+:::
+
+Predicate voll: *voll sein mit* with a 'manner' posture verb?
+
+Auf der Straße ist viel Müll. Müll ist auf der Straße. Die Straße ist voller Müll
+
+
+Note Preverbial [@sec:adverbial-applicative-voll]
+[NAp] Er schreibt die Notizen auf den Zettel.
+[NpA] Er schreibt den Zettel voll mit Notizen.
+Er hat den Zettel mit Notizen vollgeschrieben.
+
+#### Attested verbs {.unnumbered}
+
+- voll mit: *hängen, liegen, stehen, sitzen, stecken*
+- frei von: *liegen*
+
+#### Further examples {.unnumbered}
+
+Berliner Zeitung, 31.01.1996 
+Die Berge in Österreich liegen oberhalb der 1000 Meter frei von Wolken.
+(Die Wolken liegen nicht über die Berge.)
+
+
+
+- Die Insel liegt nicht neben uns. \
+  An einer langen Drahttrosse lagen wir infolge des Stromes gut frei von der Insel.^[~~DWDS~~: Luckner, Felix von: Seeteufel, Herford: Kohler 1966 [1921], S. 177.]
+- Schnee lag nicht auf die Gebirgswege. \
+  Die Gebirgswege […] lagen jetzt frei von Schnee.^[~~DWDS~~: Droysen, Johann Gustav: Geschichte Alexanders des Großen. Hamburg, 1833.]
+
+Die Zeit, 29.04.2015, Nr. 18 
+Die Wände hängen voll mit Geschichten.
+
+#### Notes {.unnumbered}
+
+The example in [@next a] might seem like a special case of this alternation when compared to [@next d], but it is actually a completely different construction. The reflexive pronoun in [@next a] is a dative possessor, as can be seen by using a different person in [@next b]. The *voll* construction here is an example of and object exchange in alternation with [@next c], see [@sec:adverbial-applicative-voll]. The reflexive pronoun in [@next d] is an accusative reflexive anticausative, see [@sec:reflexive-anticausative-location].
+
+::: ex
+- Unbarmherzig häufte er sich den Teller zum zweitenmal voll mit Reis.^[~~DWDS~~: Dürrenmatt, Friedrich: Der Richter und sein Henker, Reinbek bei Hamburg: Rowohlt 1965 [1952], S. 140.]
+- Er häuft ihr den (ihren) Teller voll (mit Reis).
+- Er häuft den Reis auf den Teller.
+- Der Reis häuft sich auf den Teller.
+:::
+
 ## Diatheses with promotion to subject
 
 ### ~~ADJ › SBJ~~ : [ p | N ] *voll‑* Weather location
@@ -1172,7 +1223,7 @@ A second group of verbs that allow for this object exchange are verbs that descr
 
 #### Attested verbs {.unnumbered}
 
-- voll- : (fill a container) *bauen, füllen, gießen, häufen, kleben, laden, packen, pflanzen, pumpen, säen, schenken, schöpfen, schmieren, stecken, stellen, tanken*
+- voll- : (fill a container) *bauen, füllen, gießen, häufen, kleben, laden, packen, pflanzen, pumpen, säen, schenken, schöpfen, schmieren, stecken, stellen, stopfen, tanken*
 - voll- : (fill a canvas) *drucken, kritzeln, malen, schreiben, sprühen, tippen, zeichnen*
 
 #### Further examples {.unnumbered}
@@ -1197,6 +1248,8 @@ A second group of verbs that allow for this object exchange are verbs that descr
   Ich schreibe das Buch voll (mit Buchstaben).
 - Ich kritzele mein Namen an die Wand. \
   Ich kritzele die Wand (mit meinen Namen) voll.
+- Sie stopfen Dung in die Enden. \
+  Die Enden stopfen sie voll mit Dung.^[~~DWDS~~: Die Zeit, 10.06.2015 (online).]
 
 ### ~~PBJ › ADJ~~ : [ NAL | NAp ] *los/fest/frei‑* Resultative delocative {#sec:adverbial-antiresultative}
 
