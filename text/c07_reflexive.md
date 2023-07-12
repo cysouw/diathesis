@@ -207,7 +207,7 @@ b. Ich entschließe mich dazu, eine Reise zu machen.
 
 #### Attested verbs {.unnumbered}
 
-- an    : *anpirschen, anschmiegen, beteiligen, festbeißen, halten*
+- an    : *anpirschen, anschmiegen, beteiligen, festbeißen, halten, vergreifen*
 - auf   : *beziehen, freuen, konzentrieren, verlassen*
 - durch : *äussern*
 - für   : *aussprechen, bedanken, eignen, entschuldigen, revanchieren, schämen*
@@ -1385,10 +1385,11 @@ Less widespread, some verbs with an accusative and a governed preposition, like 
 a. Das Lied erinnert den Mann an den Krieg.
 b. Der Mann erinnert sich an den Krieg.
 c. Der Mann erinnert sich daran, dass er einen Termin beim Arzt hat.
+:::
 
 #### Attested verbs {.unnumbered}
 
-- *mit* : *verbinden, vermischen, versöhnen*
+- *mit* : *verbinden, vereinen, vermischen, versöhnen*
 - *mit/von* : *ernähren, nähren*
 - *von* : *trennen, unterscheiden*
 - *an*  : *erinnern, gewöhnen*
@@ -1728,7 +1729,7 @@ b. Du befreundest ihn.^[Attested online at <http://hundewelt.info/affenpinscher/
 
 The *sich* counterpart of the transitive *beklagen* 'to lament' [@next a,b] is somewhat alike to an intransitive action that has a reflexive pronoun attached. There is no semantic "self-inflicting" reflexivity whatsoever in the expression, i.e. the complaining in [@next b] does not mean 'I complain about myself' (i.e. adding *selbst* is not possible). The complaint is still about *Lärm* 'noise'. 
 
-Formally, the object of the complaint is demoted from an accusative [@next a], which is obligatory [@next c], to a prepositional phrase [@next b] that can be dropped [@next d]. Note that without the prepositional phrase [@next d] the expression is indeed ambiguous between a real reflexive meaning ('I complain about myself') and a non-reflexive reading ('I am complaining'). All prepositional phrases of the verbs in this section are governed prepositions [@next e].
+Formally, the object of the complaint is demoted from an accusative [@next a], which is obligatory [@next c], to a prepositional phrase [@next b] that can often be dropped [@next d]. Note that without the prepositional phrase [@next d] the expression is indeed ambiguous between a real reflexive meaning ('I complain about myself') and a non-reflexive reading ('I am complaining'). All prepositional phrases of the verbs in this section are governed prepositions [@next e].
  
 Wiemer and Nedjalkov [-@wiemer2007: 464--465] call such verbs "deaccusatives" and consider them to be "extremely rare" in German (which they are not). It is an open question why some verbs take such a reflexive antipassive, while other take a simple antipassive without reflexive pronoun (as discussed in [@sec:prepositions-accusative-antipassive]). For a typological survey of such antipassive uses of reflexive markers, see Janic [-@janic2010].
 
@@ -1747,8 +1748,8 @@ e. Ich beklage mich darüber, dass es so laut ist.
 - für  : *entscheiden, entschuldigen, rechtfertigen, verantworten, verbürgen*
 - in   : *behaupten, üben, versuchen, vertiefen*
 - über : *beklagen, besprechen*
-- von  : *trennen*
-- vor  : *distanzieren, fürchten, scheuen*
+- von  : *distanzieren, trennen*
+- vor  : *fürchten, scheuen*
 - zu   : *bekennen*
 
 #### Further examples {.unnumbered}
