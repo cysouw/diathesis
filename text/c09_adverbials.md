@@ -49,7 +49,7 @@ The term ~~adverbial~~ is commonly used in grammatical descriptions of German (o
 
 Within the German adverbials-at-large domain there are three different syntactic functions that have to be separated. I will call these three syntactic functions ~~Adverbial~~, ~~Preverbial~~ and ~~Secondary Predication~~. Basically, adverbials are syntactically free elements that modify verbs, preverbials are syntactically bound to the verbs they modify, and secondary predicates modify noun phrases, not verbs.
 
-Cross-secting these syntactic functions are classes of morphemes that are potentially used in more than one of these syntactic functions. First, there are morphemes that only have adverbial function, and they are called ~~Adverbs~~. Second, there are morphemes that only have preverbial function, and they are called ~~Preverbs~~ (discussed in the previous chapter). Third, adjectives can be used in all three of the functions mentioned above, leading to (i) adjectival adverbials, called ~~Evaluatives~~ here, (ii) adjectival preverbials, called ~~Resultatives~~ here, and (iii) adjectival secondary predicates, called ~~Depictives~~ here. Finally, there is also a closed set of preverbial morphemes with a wide variety of origins that I will call ~~Directionals~~.
+Cross-classifying these syntactic functions are classes of morphemes that are potentially used in more than one of these syntactic functions. First, there are morphemes that only have adverbial function, and they are called ~~Adverbs~~. Second, there are morphemes that only have preverbial function, and they are called ~~Preverbs~~ (discussed in the previous chapter). Third, adjectives can be used in all three of the functions mentioned above, leading to (i) adjectival adverbials, called ~~Evaluatives~~ here, (ii) adjectival preverbials, called ~~Resultatives~~ here, and (iii) adjectival secondary predicates, called ~~Depictives~~ here. Finally, there is also a closed set of preverbial morphemes with a wide variety of origins that I will call ~~Directionals~~.
 
 ### Adverbials
 
@@ -268,13 +268,13 @@ In this chapter I will discuss examples with the resultatives *fest, fern, ferti
 
 There a four major resultative constructions. These "major four" constructions occur frequently and they are attested with a wide variety of resultative adjectives. All other resultative constructions (as discussed below) only allow for just a few special resultative adjectives. Not so with the "major four". The "major four" resultative constructions are the following:
 
-- *Reflexiv Resultativ*, a reflexive alternation without diathesis ~~[N | N]~~ \
+- *Reflexiv Resultativ*, a reflexive alternation without diathesis, i.e. [N | N] \
   ([@sec:adverbial-intransitive-resultative]), e.g. *sich gesundschlafen* 'to heal by sleeping' [@next a].
-- *Transitiv Resultativ*, a transitive alternation without diathesis ~~[NA | NA]~~ \
+- *Transitiv Resultativ*, a transitive alternation without diathesis, i.e. [NA | NA] \
   ([@sec:adverbial-transitive-resultative]), e.g. *gesundpflegen* 'to heal by nursing' [@next b].
-- *Resultativ Applikativ*, an alternation with an applicative diathesis ~~[N~p~ | NA]~~ \
+- *Resultativ Applikativ*, an alternation with an applicative diathesis, i.e. [Np | NA] \
   ([@sec:adverbial-applicative]), e.g. *gesundbeten* 'to heal by praying' [@next c].
-- *Resultativ Akkusativ*, an alternation with an objective diathesis ~~[N– | NA]~~ \
+- *Resultativ Akkusativ*, an alternation with an objective diathesis, i.e. [N– | NA] \
   ([@sec:adverbial-object-addtion]), e.g. *gesundhexen* 'to heal by magic' [@next d].
 
 ::: ex
@@ -284,47 +284,50 @@ There a four major resultative constructions. These "major four" constructions o
   Sie pflegt ihre Mutter gesund.
 - Sie betet für ihre Mutter. \
   Sie betet ihre Mutter gesund.
-- Er hext. \
+- Milingo hext. \
   Milingo wird vorgeworfen, […] Kranke gesundgehext zu haben.^[Attested online at <https://www.spiegel.de/politik/giftige-blume-a-003fa8d4-0002-0001-0000--000014353984>, accessed 8 September 2022.]
 :::
 
 There are six special resultative adjectives, in alphabetical order: *fest‑* 'firm', *frei‑* 'free', *leer‑* 'empty', *los‑* 'loose', *voll‑* 'full' and *weiter‑* 'further'. Of all the dozens (possibly hundreds) of German adjectives that can be used in resultative constructions, it is only these six adjectives that can be used to create constructions other than the "major four". These "special six" resultatives also occur regularly in the "major four" constructions, but besides those occurrences there is a long list of further resultative constructions that are all put together with just these six resultative adjectives. Note that there are also idiosyncratic diatheses with *satt‑* 'well-fed' ([@sec:adverbial-antipassive-reflexive]) and *wund‑* 'wounded' ([@sec:adverbial-reflexive-location-drop]). However, these do not (yet) seem to be as productive as the "special six". The "special six" appear to become more like directionals and less like regular adjectival resultatives (cf. [@sec:adverbial-directionals]). They occur in the following constructions:
 
 - *los/fest‑* in the meaning 'to detach/to attach' is used with remapping:
-  - ~~[N | N]~~ no diathesis with verbs describing a natural process \
+  - [N | N] no diathesis with verbs describing a natural process \
     e.g. *festrosten* 'to rust into' ([@sec:adverbial-natural-process]).
-  - ~~[NAL | NA~p~]~~ a delocative diathesis with verbs of attachment \
+  - [NAL | NAp] a delocative diathesis with verbs of attachment \
     e.g. *losbinden* 'to untie' ([@sec:adverbial-antiresultative]).
 - *fest‑* in the meaning 'to fixate' is used with remapping:
-  - ~~[NL | N~p~]~~ a delocative diathesis with verbs of position \
+  - [NL | Np] a delocative diathesis with verbs of position \
     e.g. *festsitzen* 'to be stuck' ([@sec:adverbial-location-drop]).
-  - ~~[NA– | N~p~A]~~ an object exchange with verbs of fixation \
+  - [NA– | NpA] an object exchange with verbs of fixation \
     e.g. *festnähen* 'to attach by stitching' ([@sec:adverbial-fest]).
-- *voll/leer‑* in the meaning 'to fill/to empty' is used with remapping:
-  - ~~[NL | ~p~N]~~ a locational-passive diathesis with alluvial verbs \
+- *voll‑* in the meaning 'to fill' is used with remapping:
+  - [NL | pN] a locational-passive diathesis with alluvial verbs \
     e.g. *vollsickern* 'to trickle full' ([@sec:adverbial-location-anticausative]).
-  - ~~[NLA | NAp]~~ with *voll-*: an object exchange with verbs of filling \
+  - [NL | PN] a locational-inversive diathesis with stative verbs \
+    e.g. *vollstehen mit* 'to be filled with' ([@sec:adverbial-location-inversive])
+  - [NLA | NAp] an object exchange with verbs of filling \
     e.g. *vollschenken* 'to pour until full' ([@sec:adverbial-applicative-voll]).
-  - ~~[NLA | NA–]~~ with *leer-*: an object exchange with verbs of emptying \
+- *leer‑* in the meaning 'to empty' is used with remapping:
+  - [NLA | NA–] an object exchange with verbs of emptying \
     e.g. *leerpumpen* 'to pump until empty' ([@sec:adverbial-applicative-leer]).
 - *frei‑* in the meaning 'to uncover' is used with remapping:
-  - ~~[NLA | NA–]~~ an object exchange with verbs of uncovering \
+  - [NLA | NA–] an object exchange with verbs of uncovering \
     e.g. *freifegen* 'to uncover by brushing' ([@sec:adverbial-applicative-leer]).
-  - ~~[NAL | NA~p~]~~ a delocative diathesis with verbs of excavating \
+  - [NAL | NAp] a delocative diathesis with verbs of excavating \
     e.g. *freigraben* 'to uncover by digging' ([@sec:adverbial-antiresultative]).
 - *los/weiter‑* in the meaning 'to start/to continue' is used with remapping:
-  - ~~[N | N]~~ no diathesis with intransitive verbs \
+  - [N | N] no diathesis with intransitive verbs \
     e.g. *losrennen* 'to start running' ([@sec:adverbial-inchoative-los]) \
     e.g. *weiterrennen* 'to continue running' ([@sec:adverbial-continuative-weiter]).
-  - ~~[NA | NA]~~ with *weiter-*: no diathesis with transitive verbs \
+  - [NA | NA] with *weiter-*: no diathesis with transitive verbs \
     e.g. *weiterbauen* 'to proceed building' ([@sec:adverbial-continuative-weiter]).
-  - ~~[NA | N~p~]~~ with *los-*: an antipassive diathesis with verbs of attacking \
+  - [NA | Np] with *los-*: an antipassive diathesis with verbs of attacking \
     e.g. *loshauen* 'to start bashing' ([@sec:adverbial-antipassive]).
 - *los‑* in the meaning 'to cause to start moving' is used with remapping: 
-  - ~~[NAL | NA~p~]~~ a delocative diathesis with verbs of sending \
+  - [NAL | NAp] a delocative diathesis with verbs of sending \
     e.g. *losschicken* 'to send off' ([@sec:adverbial-antiresultative]).
 - *weiter‑* in the meaning 'to pass on' is used with remapping:
-  - ~~[NAD | NA~p~]~~ a dative antipassive diathesis with verbs with a recipient \
+  - [NAD | NAp] a dative antipassive diathesis with verbs with a recipient \
     e.g. *weitererzählen* 'to pass on' ([@sec:adverbial-dative-antipassive]).
 
 There are various syntactic parallels between resultative constructions and other diatheses discussed previously in this book. These parallels come in two different guises. First, resultative adjectives are closely related to directionals, like *weg‑* 'away' or *zurück‑* 'back', which are in turn closely related to local prepositional phrases (see [@sec:adverbial-directionals]). Accordingly, some resultatives take the same syntactic position as local prepositional phrases. The most important parallels are listed in [@tbl:resultative-local]. Note that it is exactly the "L" in the locational remapping on the right side of the table that is absent in the resultative remapping on left side of the table.
@@ -975,19 +978,21 @@ With some intransitive verbs, like *sitzen* 'to sit' [@next a] a locational argu
 - Die Matratze liegt sich gut.^[Attested online at <http://www.hans-struve.de/richtiges-lueften-im-schlafzimmer-eine-tuecke-der-physik/>, accessed 21 August 2022.]
 - Die Route klettert sich wirklich sehr schön.
 
-### ~~PBJ › SBJ › ADJ~~ : [ NL | pN ] *voll/leer‑* Location passive {#sec:adverbial-location-anticausative}
+### ~~PBJ › SBJ › ADJ~~ : [ NL | pN ] *voll/leer‑* Alluvial location passive {#sec:adverbial-location-anticausative}
 
-A very peculiar diathesis is attested with alluvial verbs like *laufen* in the meaning 'to pour' [@next a]. In this meaning, the location phrase is obligatory. By adding the resultative preverbial *voll‑* (possibly also *leer-*) a passive-like diathesis arises [@next b]. The obligatory location is promoted to nominative subject. The original nominative can optionally be retained as a *mit* prepositional phrase with the resultative *voll-*. This diathesis is clearly related to the transitive diathesis with *voll* and *leer‑* described in [@sec:adverbial-applicative-voll] and [@sec:adverbial-applicative-leer], respectively.
+A very peculiar diathesis is attested with alluvial verbs like *laufen* in the meaning 'to pour' [@next a]. In this meaning, the location phrase is obligatory. By adding the resultative preverbial *voll‑* (possibly also *leer‑*) a passive-like diathesis arises [@next b]. The obligatory location is promoted to nominative subject. The original nominative can optionally be retained as a *mit* prepositional phrase with the resultative *voll‑*.
 
 ::: ex
 a. Das Wasser läuft in die Badewanne.
 b. Die Badewanne läuft voll (mit Wasser).
 :::
 
+This diathesis is clearly related to the stative location inversive in [@sec:adverbial-location-inversive] and to the transitive object exchange with *voll‑* and *leer‑* described in [@sec:adverbial-applicative-voll] and [@sec:adverbial-applicative-leer], respectively.
+
 #### Attested verbs {.unnumbered}
 
-- voll- : *laufen, fließen, sich saugen, sickern, strömen*
-- leer- : *laufen, fließen, strömen*
+- voll‑ : *laufen, fließen, sich saugen, sickern, strömen*
+- leer‑ : *laufen, fließen, strömen*
 
 #### Further examples {.unnumbered}
 
@@ -1008,57 +1013,6 @@ The verb *saugen* 'to suck' [@next] shows an interesting stack of diatheses (see
   = Die Milch saugt sich in das Tuch.
 - +> Resultative location passive (this section) \
   = Das Tuch saugt sich voll (mit Milch).
-:::
-
-### ~~PBJ › SBJ › PBJ~~ : [ NL | PN ] *voll/frei* Location inversive {#sec:adverbial-location-inversive}
-
-Is the *mit* phrase obligatory? Then maybe better [ NL | PN ]. 
-
-::: ex
-- Die Kisten stehen im Flur.
-- Der Flur steht voll mit Kisten.
-:::
-
-Predicate voll: *voll sein mit* with a 'manner' posture verb?
-
-Auf der Straße ist viel Müll. Müll ist auf der Straße. Die Straße ist voller Müll
-
-
-Note Preverbial [@sec:adverbial-applicative-voll]
-[NAp] Er schreibt die Notizen auf den Zettel.
-[NpA] Er schreibt den Zettel voll mit Notizen.
-Er hat den Zettel mit Notizen vollgeschrieben.
-
-#### Attested verbs {.unnumbered}
-
-- voll mit: *hängen, liegen, stehen, sitzen, stecken*
-- frei von: *liegen*
-
-#### Further examples {.unnumbered}
-
-Berliner Zeitung, 31.01.1996 
-Die Berge in Österreich liegen oberhalb der 1000 Meter frei von Wolken.
-(Die Wolken liegen nicht über die Berge.)
-
-
-
-- Die Insel liegt nicht neben uns. \
-  An einer langen Drahttrosse lagen wir infolge des Stromes gut frei von der Insel.^[~~DWDS~~: Luckner, Felix von: Seeteufel, Herford: Kohler 1966 [1921], S. 177.]
-- Schnee lag nicht auf die Gebirgswege. \
-  Die Gebirgswege […] lagen jetzt frei von Schnee.^[~~DWDS~~: Droysen, Johann Gustav: Geschichte Alexanders des Großen. Hamburg, 1833.]
-
-Die Zeit, 29.04.2015, Nr. 18 
-Die Wände hängen voll mit Geschichten.
-
-#### Notes {.unnumbered}
-
-The example in [@next a] might seem like a special case of this alternation when compared to [@next d], but it is actually a completely different construction. The reflexive pronoun in [@next a] is a dative possessor, as can be seen by using a different person in [@next b]. The *voll* construction here is an example of and object exchange in alternation with [@next c], see [@sec:adverbial-applicative-voll]. The reflexive pronoun in [@next d] is an accusative reflexive anticausative, see [@sec:reflexive-anticausative-location].
-
-::: ex
-- Unbarmherzig häufte er sich den Teller zum zweitenmal voll mit Reis.^[~~DWDS~~: Dürrenmatt, Friedrich: Der Richter und sein Henker, Reinbek bei Hamburg: Rowohlt 1965 [1952], S. 140.]
-- Er häuft ihr den (ihren) Teller voll (mit Reis).
-- Er häuft den Reis auf den Teller.
-- Der Reis häuft sich auf den Teller.
 :::
 
 ## Diatheses with promotion to subject
@@ -1431,7 +1385,7 @@ Many verbs occur with different resultative preverbials. However, the new accusa
 - Ich rede über dein Benehmen. \
   Ich rede dein Benehmen gut/klein/schön
 - Ich drücke auf den Deckel. \
-  Ich drücke den Deckel fest/kaputt/platt
+  Ich drücke den Deckel fest/kaputt/platt.
 - Ich bete für den Gefangenen. \
   Ich bete den Gefangenen frei/gesund.
 :::
@@ -1602,4 +1556,62 @@ For example, the verb *nähen* 'to sew' takes an accusative object in the role o
 
 ## Symmetrical diatheses
 
-This section is currently empty. It is only included here to keep the numbering parallel in all chapters.
+### ~~PBJ › SBJ › PBJ~~ : [ NL | PN ] *voll/frei‑* Stative location inversive {#sec:adverbial-location-inversive}
+
+With a limited set of stative verbs, like *stehen* 'to stand', the addition of *voll‑* leads to a special diathesis [@next a]. These stative verbs obligatorily need a locational argument (here *im Flur* 'in the hallway') that becomes the nominative subject after diathesis. The original nominative turns into a *mit* prepositional phrase. The status of the *mit* phrase is not completely clear to me, but I classify it as a governed preposition because it is in most examples obligatorily present (cf. [@sec:prepositions-comitative-intrumental] on different kinds of *mit* phrases). This diathesis is extensively discussed by Hole [-@hole2022], see also the earlier research discussed therein. He calls it a *stative Lokativalternation*.
+
+With the stative verb *liegen* there appears to be a negative counterpart using *frei von* [@next b]. All other stative verbs do not allow this negated variant.
+
+::: ex
+- Die Kisten stehen im Flur. \
+  Der Flur steht voll mit Kisten.
+- Auf den Gebirgswegen lag kein Schnee. \
+  Die Gebirgswege […] lagen jetzt frei von Schnee.^[~~DWDS~~: Droysen, Johann Gustav: Geschichte Alexanders des Großen. Hamburg, 1833.]
+:::
+
+This diathesis is highly similar to other constructions with *voll‑*, namely the alluvial passive [@next a], see [@sec:adverbial-location-anticausative], and the object exchange [@next b], see [@sec:adverbial-applicative-voll]. In these diatheses the *mit* phrase is clearly optional.
+
+::: ex
+- Die Menschen strömen in die Kirche. \
+  Die Kirche strömt voll (mit Menschen).
+- Er schreibt die Notizen auf den Zettel. \
+  Er schreibt den Zettel voll (mit Notizen).
+:::
+
+There is an alternative construction [cf. @hole2022: 16-17] using *voller* instead of *voll mit* [@next a]. However, this construction with *voller* seems to have a wider distribution, as it is also possible with a general non-verbal predication [@next b], and even with a some non-stative verbs, like *schwimmen* 'to drift' [@next c] and *schweben* 'to float' [@next d].
+
+::: ex
+- Im Flur stehen Kisten. \
+  Der Flur steht voller Kisten.
+- Auf der Straße ist viel Müll. \
+  Die Straße ist voller Müll.
+- Im Wasser schammen kleine Holzstücke. \
+  Das Wasser schamm voller kleiner Holzstücke.^[Example from Hole [-@hole2022: 14], citing Kaufmann (1995).]
+- Haarspray schwebt in der Luft. \
+  Die Luft schwebt voller Haarspray.^[Example from Hole [-@hole2022: 14], citing Kaufmann (1995).]
+:::
+
+#### Attested verbs {.unnumbered}
+
+- voll mit: *hängen, hocken, kleben, liegen, stehen, sitzen, stecken*
+- frei von: *liegen*
+
+#### Further examples {.unnumbered}
+
+- Die Wände hängen voll mit Geschichten.^[~~DWDS~~: Die Zeit, 29.04.2015, Nr. 18.]
+- Kirchzarten klebt voll mit SC-Freiburg-Ultras-Stickern.^[Attested on <https://www.badische-zeitung.de/kirchzarten-klebt-voll-mit-sc-freiburg-ultras-stickern--264686549.html>, accessed 13 Juli 2023.]
+- Das gesamte Gras hockt voll mit [Schnecken].^[Attested on <https://www.agrar.de/landfrauen/forum/index.php?topic=398.msg115889#msg115889>, accessed 13 Juli 2023.]
+- Die Berge in Österreich liegen oberhalb der 1000 Meter frei von Wolken.^[~~DWDS~~: Berliner Zeitung, 31.01.1996.]
+- An einer langen Drahttrosse lagen wir infolge des Stromes gut frei von der Insel.^[~~DWDS~~: Luckner, Felix von: Seeteufel, Herford: Kohler 1966 [1921], S. 177.]
+
+#### Notes {.unnumbered}
+
+The example below in [@next a] might seem like a special case of this alternation in comparison with the unmarked [@next d], but it is actually a completely different construction. The reflexive pronoun in [@next d] is an accusative reflexive anticausative, see [@sec:reflexive-anticausative-location]. In contrast, the reflexive pronoun in [@next a] is a dative possessor, as can be seen by using a different person [@next b]. The *voll‑* construction in [@next a] is actually an example of and object exchange, which is in alternation with [@next c], see [@sec:adverbial-applicative-voll]. 
+
+::: ex
+- Unbarmherzig häufte er sich den Teller zum zweitenmal voll mit Reis.^[~~DWDS~~: Dürrenmatt, Friedrich: Der Richter und sein Henker, Reinbek bei Hamburg: Rowohlt 1965 [1952], S. 140.]
+- Er häuft ihr den (ihren) Teller voll (mit Reis).
+- Er häuft den Reis auf den Teller.
+- Der Reis häuft sich auf den Teller.
+:::
+
