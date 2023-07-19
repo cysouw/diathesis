@@ -218,7 +218,7 @@ b. Ich habe den Laden leergekauft. \
 
 This semantic difference is typically, though not consistently, reflected in German orthography by separating the depictive from the verb with a space. However, German authors are far from consistent in this respect. For example, a quick search for resultative *trockenschleudern* 'to spin until dry' in the ~~DWDS~~ corpus resulted in five examples with a space (*trocken schleudern*) and eight examples without a space (*trockenschleudern*) without any obvious difference in meaning between the two groups.
 
-There are various diagnostic differences between the depictive [@last a] and the resultative [@last b] interpretation. First, the widespread orthographic separation for depictives (and the orthographic univerbation of resultatives) is actually a consequence of differences in the prosodic structure, as depictive *ˈleer ˈkaufen* [@last a] has two separate stress domains, while resultative *ˈleerˌkaufen* [@last b] has only a single stress domain. For linguistically naive speakers of German this feels like there is a litte pause after depictives, but not after resultatives.
+There are various diagnostic differences between the depictive [@last a] and the resultative [@last b] interpretation. First, the widespread orthographic separation for depictives (and the orthographic univerbation of resultatives) is actually a consequence of differences in the prosodic structure, as depictive *ˈleer ˈkaufen* [@last a] has two separate stress domains, while resultative *ˈleerˌkaufen* [@last b] has only a single stress domain. For linguistically naive speakers of German this feels like there is a litte pause after depictives, but not after resultatives (hence the preference for orthographic separation with depictives).
 
 Second, with some verbs the accusative object in the resultative interpretation is a completely new role for the main lexical verb, like with *leerkaufen* 'to buy' [@last]. To be precise, in the depictive interpretation [@last a], the *Laden* 'shop' is the buyee (i.e. the object of the buying). In this interpretation it is the shop itself that is being bought. In contrast, in the resultative interpretation [@last b] it is not the *Laden* 'shop' that is being bought, but the items inside the shop. The accusative object *den Laden* 'shop' is the encompassing location where the buying is taking place (see [@sec:adverbial-applicative-leer]). The addition of such a new role can lead to the introduction of accusative constituents for otherwise intransitive verbs, like *fischen* 'to fish' [@next a] or *niesen* 'to sneeze' [@next b], see [@sec:adverbial-applicative]. A diagnostic corollary to this semantic interpretation for intransitive verbs is the fact that those resultatives cannot be left out [@next c,d].
 
@@ -747,6 +747,8 @@ b. Ich lache über die Politik. \
 
 When the combination of resultative and verb is considered to be a new lexicalised predicate (i.e. *totlachen, festbeißen*, etc.), then all these verbs would be obligatorily reflexive, alike to the verbs in [@sec:reflexive-obligatory-accusative-reflexive].
 
+This construction is particularly common with the preverbial *tot-* 'dead'. However, the meaning never literally refers to an action resulting of somebody being dead (i.e. killing). Instead, *tot-* seems to be grammaticalising to some kind of intensifying aspect with intransitive verbs. In contrast, with transitive verbs, the preverbial *tot-* always literally describes some kind of killing (see [@sec:adverbial-transitive-resultative]).
+
 #### Attested verbs {.unnumbered}
 
 - fest-      : *beißen, lesen, rennen, saugen*
@@ -808,6 +810,8 @@ This construction only seems to occur with the resultatives *fest‑* and *los-*
 
 The addition of a resultative preverbial to transitive verbs (i.e. basic nominative+accusative verbs) does not lead to any role remapping. For example, *prügeln* 'to beat' [@next a] and *totprügeln* 'to beat to death' [@next b] show exactly the same valency. Such resultative transitive verbs without diathesis appear to be frequent and the examples given below are just a few illustrative verbs. It is unclear to me whether there is any restriction on which adjectives or verbs can occur in this construction.
 
+The preverbial *tot-* is particularly common, and always literally describes a method to kill somebody by performing the action as described by the transitive lexical verb. This stands in contrast to the preverbial *tot-* used with intransitives as discussed in [@sec:adverbial-intransitive-resultative]. In those examples an additional reflexive pronoun is necessary and the meaning is not literally a description of some kind of killing, but some kind of intensifying aspect.
+
 ::: ex
 - Der Vater prügelt den Sohn.
 - Der Vater prügelt den Sohn tot.
@@ -825,7 +829,7 @@ The addition of a resultative preverbial to transitive verbs (i.e. basic nominat
 - platt-   : *walzen*
 - sauber-  : *bürsten*
 - schön-   : *schreiben*
-- tot-     : *beißen, hetzen, kitzeln, peitschen, prügeln, schießen, schlagen, spritzen, stechen, treten*
+- tot-     : *beißen, hetzen, kitzeln, machen, peitschen, prügeln, schießen, schlagen, spritzen, stechen, treten*
 - trocken- : *bügeln, reiben, schleudern, wischen*
 - wach-    : *kitzeln, küssen, rufen*
 

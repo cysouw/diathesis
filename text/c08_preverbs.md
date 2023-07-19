@@ -63,7 +63,7 @@ Turning now to the ~~verb particles~~, the following prepositions can be used as
 
 - The four prepositions *durch, über, um* and *unter* can be used both as verb prefixes and as verb particles leading to diathesis.
 - The nine prepositions *ab, an, auf, aus, bei, in (=ein), nach, vor* and *zu* are frequently used as verb particles leading to diathesis.
-- The preposition *mit* only occurs as a verb particle in completely transparent derivation that never result in a diathesis, e.g. *arbeiten* 'to work' becomes *mitarbeiten* 'to work along' (see [@sec:preverb-intranstive-without-diathesis; @sec:preverb-transitive-without-diathesis]).
+- The preposition *mit* only occurs as a verb particle in completely transparent derivation that never result in a diathesis, e.g. *arbeiten* 'to work' becomes comitative *mitarbeiten* 'to work along' (see [@sec:preverb-intranstive-without-diathesis; @sec:preverb-transitive-without-diathesis]).
 - A few polysyllabic prepositions are used sporadically as verb particles, namely *entlang, entgegen, gegenüber, hinter, neben* and *zwischen*. Verbs with these preverbs have not (yet) been included here. 
 - Crucially, the remaining prepositions are never used as verb particles with a verb root, namely *außer, bis, für, gegen, ohne, seit* and *von*. There exist only incidental examples like *fürsprechen* or *gegensteuern*. It is unclear to me whether there is any deeper reason for the absence of such derivations.
 
@@ -283,7 +283,7 @@ b. Die Milch kocht.
 c. Die Milch kocht über.
 :::
 
-The preverb *ˈmit‑* is typically used with verbs that do not allow for an attributive participle, neither without preverb, nor with preverb (but see [@sec:preverb-intransitive-with-unaccusative] for a few exceptions with movement verbs).
+The preverb *ˈmit‑* is typically used with intransitive verbs that do not allow for an attributive participle, neither without preverb, nor with preverb (but see [@sec:preverb-intransitive-with-unaccusative] for a few exceptions with movement verbs).
 
 ::: ex
 a. Der Student hat an dem Projekt gearbeitet.
@@ -307,6 +307,10 @@ d. ^* Der mitgearbeitete Student ist fertig.
 - Die Blumen trocknen im Keller. \
   Die Blumen vertrocknen im Keller. \
   Die getrockneten/vertrockneten Blumen […].
+
+#### Notes {.unnumbered}
+
+The verb *missraten* 'to turn out badly' seems to belong to this category, but in contemporary German the unprefixed verb is *geraten* and not *raten*.
 
 ### [ N | N ] Preverb adjectives without diathesis {#sec:preverb-adjectives-without-diathesis}
 
@@ -353,7 +357,7 @@ b. Die gelagerten Kartoffeln […]. \
 
 - verˈ-   : *jagen, lagern*
 - beˈ-    : *fürchten, grüßen*
-- missˈ-  : *achten, billigen, blicken, brauchen, deuten, gönnen, handeln, hören, interpretieren, trauen, verstehen*
+- missˈ-  : *achten, behagen, billigen, blicken, brauchen, deuten, glücken, gönnen, handeln, hören, interpretieren, trauen, verstehen*
 - ˈan-    : *sehen*
 - ˈauf-   : *essen, trinken*
 - ˈdurch- : *halten*
@@ -376,6 +380,10 @@ b. Die gelagerten Kartoffeln […]. \
   Ich missachte ihn.
 - Ich billige den Plan. \
   Ich missbillige den Plan.
+
+#### Notes {.unnumbered}
+
+The verbs *missfallen* 'to displease' and *misslingen* 'to fail' appear to belong to this category, but the unprefixed verbs in contemporary German are *gefallen* and *gelingen*, respectively.
 
 ### [ N | N ] Preverb intransitives with patient-like subject {#sec:preverb-intransitive-with-unaccusative}
 

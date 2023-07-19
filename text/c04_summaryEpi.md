@@ -76,6 +76,19 @@ The ~~Kontinuativ~~ (full discussion in [@sec:adverbial-continuative-weiter]) co
   Sie hat die Technik weiterentwickelt.
 :::
 
+### *Intensiv* (*tot-*) {#sec:summary-intensiv}
+
+The ~~Intensiv~~ (full discussion in [@sec:adverbial-intransitive-resultative]) consists of a preverbal adjective *tot-* added as a separable verb particle to an intransitive verb, like *lachen* 'to laugh' [@next a]. With these intransitive verbs an additional reflexive pronoun is necessary. Structurally, this construction is a special case of a reflexive resultative (see [@sec:summary-reflexiv-resultativ]). It appears to be grammaticalising into a regular verbal aspectual category. The meaning to the preverbial *tot-* does not refer literally to any action resulting in death, but more general intensifies the action. 
+
+In contrast, when the preverbial *tot-* is used with transitive verbs, there is no reflexive pronoun and the meaning literally describes and action that results in death, i.e. some way of killing [@next b], see [@sec:adverbial-transitive-resultative].
+
+::: ex
+- Sie hat gelacht. \
+  Sie hat sich totgelacht.
+- Sie hat ihn geschlagen. \
+  Sie hat ihn totgeschlagen.
+:::
+
 ### *Habituativ* (*pflegen+zu‑In­fi­ni­tiv*)
 
 The ~~Habituativ~~ (full discussion in [@sec:zuinfinitive-pflegen]) is an aspectual category that expresses an activity that is performed regularly as a habit. Such an aspect is widespread among the world's language and in German it can be expressed by using a light verb *pflegen* with a *zu‑In­fi­ni­tiv* [@next a,b]. The verb *pflegen* has a lexical meaning 'to nurse, to maintain', but in this construction this meaning has changed to a grammatical marker of aspect. This grammaticalisation has not only happened semantically, but also structurally. The *pflegen+zu‑In­fi­ni­tiv* construction is clearly monoclausal, as can be seen by the final position of the finite verb when used as a subordinate clause [@next c]. An archaic and nowadays mostly ironical alternative to *pflegen* is to use the light verb *belieben* (full discussion in [@sec:zuinfinitive-belieben]).
@@ -381,6 +394,15 @@ c. (Es ist bekannt, dass) er verspricht, das Licht auszuschalten.
 
 By definition (see [@sec:intro-basic-definition]), diathesis has to include changes to the grammatical marking of the participants. The alternations described in this section do not show any change in the marking of the participants, so, again by definition, they are classified as examples of epithesis. However, functionally these constructions are close to diatheses in that the relation between the participants and the verb is changed in some way. For lack of a better term I call such a construction a ~~Diathetical epithesis~~.
 
+### *Verbalkomitativ* (*mit-*)
+
+The ~~Verbalkomitativ~~ (full discussion in [@sec:preverb-intranstive-without-diathesis] and [@sec:preverb-transitive-without-diathesis]) uses the preverb *mit-* to indicate that the main lexical verb is performed together with somebody else, like with *lachen* 'to laugh' [@next].
+
+::: ex
+- Die Schüler haben gelacht.
+- Der Lehrer hat (mit den Schülern) mitgelacht.
+:::
+
 ### *Zustandskausativ* (*kommen+zu‑In­fi­ni­tiv*) {#sec:epithesis-zustandskausativ}
 
 Covert causatives exists in two variants. The first kind, the ~~(Verborgener) Zustandskausativ~~ (full discussion in [@sec:zuinfinitive-kommen]), uses the light verb *kommen* with a *zu‑In­fi­ni­tiv* [@next a,b]. This construction conveys that there is some unexpressed force or agent that has caused a state to be reached. It can only used with intransitive state verbs like *stehen* and is obligatorily coherent [@next c]. This construction is no diathesis because the roles are not remapped.
@@ -444,7 +466,7 @@ b. Ich habe das Haus angesehen.
 
 ### *Reflexiv Resultativ* {#sec:summary-reflexiv-resultativ}
 
-The ~~Reflexiv Resultativ~~ (full discussion in [@sec:adverbial-intransitive-resultative]) is an alternation that can be used with a subset of all intransitive verbs, for example with *schlafen* 'to sleep' [@next a]. By adding a reflexive pronoun and a resultative preverbial, like *gesund‑* 'healthy' [@next b], the sentence conveys that the subject participant achieves a state (expressed by the preverbial) by performing an action (expressed by the verb). In other words, [@next b] means approximately 'by sleeping I will become healthy'. The combination of *gesund‑* with the verb *schlafen* arguably is a new separable verb *gesundschlafen* [@next c], syntactically similar to a *Partikelverb* like *einschlafen*.
+The ~~Reflexiv Resultativ~~ (full discussion in [@sec:adverbial-intransitive-resultative]) is an alternation that can be used with a subset of all intransitive verbs, for example with *schlafen* 'to sleep' [@next a]. By adding a reflexive pronoun and a resultative preverbial, like *gesund‑* 'healthy' [@next b], the sentence conveys that the subject participant achieves a state (expressed by the preverbial) by performing an action (expressed by the verb). In other words, [@next b] means approximately 'by sleeping I will become healthy'. The combination of *gesund‑* with the verb *schlafen* arguably is a new separable verb *gesundschlafen* [@next c], syntactically similar to a *Partikelverb* like *einschlafen*. With the resultative preverbial *tot-* 'dead' this construction seems to be developing into an intensifying aspect (see [@sec:summary-intensiv]).
 
 ::: ex
 a. Ich schlafe.
