@@ -2439,7 +2439,7 @@ Not attested.
 
 ### ~~OBJ › SBJ › OBJ~~ : [ DN | NA ] *haben+Partizip* Intransitive possessor passive {#sec:participles-intransitive-haben-passive}
 
-A few incidental intransitive verbs allow for a special variant of the possessor passive diathesis [@sec:participles-haben-passive]. In the possessor passive (*Pertinenzpassiv*), the possessor of an accusative object [@next a] is remapped to nominative subject [@next c]. This is only possible with possessors that can alternatively be expressed as a dative [@next b].
+A few incidental intransitive verbs allow for a special variant of the possessor passive diathesis (see [@sec:participles-haben-passive]). In the original possessor passive (*Pertinenzpassiv*), the possessor of an accusative object [@next a] is remapped to nominative subject [@next c]. This is only possible with possessors that can alternatively be expressed as a dative [@next b].
 
 ::: ex
 - Der Friseur schneidet meine Haare.
