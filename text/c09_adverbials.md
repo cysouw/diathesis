@@ -291,43 +291,43 @@ There a four major resultative constructions. These "major four" constructions o
 There are six special resultative adjectives, in alphabetical order: *fest‑* 'firm', *frei‑* 'free', *leer‑* 'empty', *los‑* 'loose', *voll‑* 'full' and *weiter‑* 'further'. Of all the dozens (possibly hundreds) of German adjectives that can be used in resultative constructions, it is only these six adjectives that can be used to create constructions other than the "major four". These "special six" resultatives also occur regularly in the "major four" constructions, but besides those occurrences there is a long list of further resultative constructions that are all put together with just these six resultative adjectives. Note that there are also idiosyncratic diatheses with *satt‑* 'well-fed' ([@sec:adverbial-antipassive-reflexive]) and *wund‑* 'wounded' ([@sec:adverbial-reflexive-location-drop]). However, these do not (yet) seem to be as productive as the "special six". The "special six" appear to become more like directionals and less like regular adjectival resultatives (cf. [@sec:adverbial-directionals]). They occur in the following constructions:
 
 - *los/fest‑* in the meaning 'to detach/to attach' is used with remapping:
-  - [N | N] no diathesis with verbs describing a natural process \
+  - ~~[N | N]~~ no diathesis with verbs describing a natural process \
     e.g. *festrosten* 'to rust into' ([@sec:adverbial-natural-process]).
-  - [NAL | NAp] a delocative diathesis with verbs of attachment \
+  - ~~[NAL | NA~p~]~~ a delocative diathesis with verbs of attachment \
     e.g. *losbinden* 'to untie' ([@sec:adverbial-antiresultative]).
 - *fest‑* in the meaning 'to fixate' is used with remapping:
-  - [NL | Np] a delocative diathesis with verbs of position \
+  - ~~[NL | N~p~]~~ a delocative diathesis with verbs of position \
     e.g. *festsitzen* 'to be stuck' ([@sec:adverbial-location-drop]).
-  - [NA– | NpA] an object exchange with verbs of fixation \
+  - ~~[NA– | N~p~A]~~ an object exchange with verbs of fixation \
     e.g. *festnähen* 'to attach by stitching' ([@sec:adverbial-fest]).
 - *voll‑* in the meaning 'to fill' is used with remapping:
-  - [NL | pN] a locational-passive diathesis with alluvial verbs \
+  - ~~[NL | ~p~N]~~ a locational-passive diathesis with alluvial verbs \
     e.g. *vollsickern* 'to trickle full' ([@sec:adverbial-location-anticausative]).
-  - [NL | PN] a locational-inversive diathesis with stative verbs \
+  - ~~[NL | PN]~~ a locational-inversive diathesis with stative verbs \
     e.g. *vollstehen mit* 'to be filled with' ([@sec:adverbial-location-inversive])
-  - [NLA | NAp] an object exchange with verbs of filling \
+  - ~~[NLA | NA~p~]~~ an object exchange with verbs of filling \
     e.g. *vollschenken* 'to pour until full' ([@sec:adverbial-applicative-voll]).
 - *leer‑* in the meaning 'to empty' is used with remapping:
-  - [NLA | NA–] an object exchange with verbs of emptying \
+  - ~~[NLA | NA–]~~ an object exchange with verbs of emptying \
     e.g. *leerpumpen* 'to pump until empty' ([@sec:adverbial-applicative-leer]).
 - *frei‑* in the meaning 'to uncover' is used with remapping:
-  - [NLA | NA–] an object exchange with verbs of uncovering \
+  - ~~[NLA | NA–]~~ an object exchange with verbs of uncovering \
     e.g. *freifegen* 'to uncover by brushing' ([@sec:adverbial-applicative-leer]).
-  - [NAL | NAp] a delocative diathesis with verbs of excavating \
+  - ~~[NAL | NA~p~]~~ a delocative diathesis with verbs of excavating \
     e.g. *freigraben* 'to uncover by digging' ([@sec:adverbial-antiresultative]).
 - *los/weiter‑* in the meaning 'to start/to continue' is used with remapping:
-  - [N | N] no diathesis with intransitive verbs \
+  - ~~[N | N]~~ no diathesis with intransitive verbs \
     e.g. *losrennen* 'to start running' ([@sec:adverbial-inchoative-los]) \
     e.g. *weiterrennen* 'to continue running' ([@sec:adverbial-continuative-weiter]).
-  - [NA | NA] with *weiter-*: no diathesis with transitive verbs \
+  - ~~[NA | NA]~~ with *weiter-*: no diathesis with transitive verbs \
     e.g. *weiterbauen* 'to proceed building' ([@sec:adverbial-continuative-weiter]).
-  - [NA | Np] with *los-*: an antipassive diathesis with verbs of attacking \
+  - ~~[NA | N~p~]~~ with *los-*: an antipassive diathesis with verbs of attacking \
     e.g. *loshauen* 'to start bashing' ([@sec:adverbial-antipassive]).
 - *los‑* in the meaning 'to cause to start moving' is used with remapping: 
-  - [NAL | NAp] a delocative diathesis with verbs of sending \
+  - ~~[NAL | NA~p~]~~ a delocative diathesis with verbs of sending \
     e.g. *losschicken* 'to send off' ([@sec:adverbial-antiresultative]).
 - *weiter‑* in the meaning 'to pass on' is used with remapping:
-  - [NAD | NAp] a dative antipassive diathesis with verbs with a recipient \
+  - ~~[NAD | NA~p~]~~ a dative antipassive diathesis with verbs with a recipient \
     e.g. *weitererzählen* 'to pass on' ([@sec:adverbial-dative-antipassive]).
 
 There are various syntactic parallels between resultative constructions and other diatheses discussed previously in this book. These parallels come in two different guises. First, resultative adjectives are closely related to directionals, like *weg‑* 'away' or *zurück‑* 'back', which are in turn closely related to local prepositional phrases (see [@sec:adverbial-directionals]). Accordingly, some resultatives take the same syntactic position as local prepositional phrases. The most important parallels are listed in [@tbl:resultative-local]. Note that it is exactly the "L" in the locational remapping on the right side of the table that is absent in the resultative remapping on left side of the table.
