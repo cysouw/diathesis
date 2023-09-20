@@ -1047,14 +1047,12 @@ Other verbs, like *pflegen* 'to care for' [@next a], prefer a reflexive reading,
 
 #### Attested verbs {.unnumbered}
 
-- *achten, anfeuern, begrüßen, bekämpfen, belügen, bemerken, beruhigen, beschäftigen, brauchen, erwarten, finden, grüßen, glauben, hassen, hören, kennen, kreuzen, lieben, loben, mögen, pflegen, prügeln, schlagen, sehen, stören, suchen, treffen, treten, verachten, verdächtigen, verstehen, vertragen, wecken*, etc.
+- *achten, anfeuern, begrüßen, bekämpfen, belügen, bemerken, beruhigen, beschäftigen, brauchen, erwarten, finden, grüßen, hassen, hören, kennen, kreuzen, lieben, loben, mögen, pflegen, prügeln, schlagen, sehen, stören, suchen, treffen, treten, verachten, verdächtigen, verstehen, vertragen, wecken*, etc.
 
 #### Further examples {.unnumbered}
 
 - Der Weg kreuzt die Landstraße. \
   Die Straßen kreuzen sich.
-- Karl glaubt Anna. \
-  Karl und Anna glauben sich.
 
 #### Notes {.unnumbered}
 
