@@ -799,7 +799,7 @@ d. ^* Der Tisch putzt.
 
 #### Attested verbs {.unnumbered}
 
-- *fahren, hetzen, rücken, stürzen, treiben, ziehen*
+- *fahren, hetzen, rollen, rücken, stürzen, treiben, ziehen*
 
 #### Further examples {.unnumbered}
 
@@ -813,6 +813,8 @@ d. ^* Der Tisch putzt.
   Ich habe ihn aus dem Haus getrieben.
 - Die Soldaten rücken in die Kaserne.^[Attested on <https://www.dwds.de/wb/rücken>, accessed 23 April 2022.] \
   Ich rücke den Tisch zur Seite. \
+- Der Reifen rollte auf die Straße. \
+  Erna rollte den Reifen auf die Straße.^[[@lehmann2015: 1567]]
 
 #### Notes {.unnumbered}
 
