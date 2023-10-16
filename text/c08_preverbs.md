@@ -997,6 +997,7 @@ These verbs are counterexamples to the predominant pattern that preverbs induce 
 
 - erˈ-  : *trinken*
 - ˈein- : *kaufen, greifen*
+- ˈzu-  : *packen*
 
 #### Notes {.unnumbered}
 
@@ -1008,6 +1009,11 @@ Various examples of this diathesis show a strong semantic change, so it is debat
 - Ich trinke das Wasser.
 - Ich ertrinke.
 :::
+
+#### Further examples {.unnumbered}
+
+- Erna packte den Dieb. \
+  Erna packte zu.^[[@lehmann2015: 1554]]
 
 ### ~~OBJ › Ø~~ : [ ND | N– ] Preverb reflexive dative drop
 
@@ -1743,6 +1749,7 @@ b. Ich entgehe dem Urteil.
 #### Attested verbs {.unnumbered}
 
 - entˈ- : *gehen, kommen, wachsen, zaubern*
+- ˈzu-  : *arbeiten, blinzeln, zwinkern*
 
 #### Further examples {.unnumbered}
 
@@ -1750,6 +1757,8 @@ b. Ich entgehe dem Urteil.
   Ich entkomme einer Gefahr.
 - Das Kind wächst. \
   Das Kind entwächst den Windeln.
+- Erna arbeitete. \
+  Erna arbeitete mir zu.^[[@lehmann2015: 1580]]
 
 ### ~~Ø › OBJ~~ : [ NA– | NAD ] Preverb dative addition+accusative {#sec:preverb-dative-addition-accusative}
 
@@ -1764,7 +1773,7 @@ b. Ich lese dir ein Buch vor.
 
 - ˈab-   : *nehmen*
 - ˈvor-  : *führen, legen, lesen, machen, sagen, schreiben, singen, spielen, stellen, zaubern*
-- ˈzu-   : *werfen*
+- ˈzu-   : *ordnen, rufen, spielen, werfen*
 - ˈüber- : *werfen*
 
 #### Further examples {.unnumbered}
@@ -1775,6 +1784,12 @@ b. Ich lese dir ein Buch vor.
   Ich habe dir den Ball zugeworfen.
 - Ich habe den Schal geworfen. \
   Ich habe dir den Schal übergeworfen.
+- Erna ordnete die Schilder. \
+  Erna ordnete die Schilder den Gästen zu.
+- Erna spielte den Ball. \
+  Erna spiele mir den Ball zu.
+- Erna rief "Hallo". \
+  Erna rief mir "Hallo" zu.^[[@lehmann2015: 1580]]
 
 ### ~~ADJ › OBJ~~ : [ Np | NA ] Preverb applicative {#sec:preverb-applicative}
 
