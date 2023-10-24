@@ -1125,6 +1125,8 @@ Similar to the previous construction, the *lassen+Partizip* construction also ca
 - Ich lasse den Fernseher eingeschaltet.
 :::
 
+#### Attested verbs {.unnumbered}
+
 - *anlehnen, ausklammern, einschalten, öffnen, zudecken*
 
 #### Further examples {.unnumbered}
@@ -1731,7 +1733,7 @@ There are some transitive verbs that do not appear to allow a *Zustandspassiv*, 
 - Der Lehrer ist verärgert.
 :::
 
-Some transitive verbs have a *sein+Partizip* diathesis, but only with a rather strong semantic shift in the meaning of the verb. For example, *anhalten* means 'to stop', but *angehalten sein* means 'to be admonished' [@next a]. Likewise, *stören* means 'to disturb', but *gestört sein* means 'to be crazy' [@next b] and *ergeben* means 'to yield', but *ergeben sein* means *to be devoted to* [@next c].
+Some transitive verbs have a *sein+Partizip* diathesis, but only with a rather strong semantic shift in the meaning of the verb. For example, *anhalten* means 'to stop', but *angehalten sein* means 'to be admonished' [@next a]. Likewise, *stören* means 'to disturb', but *gestört sein* means 'to be crazy' [@next b] and *ergeben* means 'to yield', but *ergeben sein* means 'to be devoted to' [@next c].
 
 ::: ex
 - Ich halte den Bus an. \
@@ -1785,7 +1787,7 @@ This analysis of the *sein+Partizip+worden* construction as a stack of two const
 
 #### Attested verbs {.unnumbered}
 
-Almost all transitive verbs allow for a *Zustandspassive*. The following verbs with accusative arguments do not seem to allow for this *sein+Partizip* passive construction:
+Almost all transitive verbs allow for a *Zustandspassiv*. The following verbs with accusative arguments do not seem to allow for this *sein+Partizip* passive construction:
 
 - Impossible: *drücken (sorgen machen), feiern, fühlen, hören, kennen, kümmern, legen, loben, lohnen, merken, mögen, quälen, riechen, schmecken, schätzen (hochachten), sehen, setzen, stecken, verlangen, wissen, zeigen, zwicken*
 - Impossible, but alternation with a preverb available: *ärgern (verärgern), ekeln (anekeln), freuen (erfreuen), hassen (verhasst sein), heiraten (verheiraten), kratzen (zerkratzen), prügeln (verprügeln), wundern (verwundern)*
@@ -2439,7 +2441,7 @@ Not attested.
 
 ### ~~OBJ › SBJ › OBJ~~ : [ DN | NA ] *haben+Partizip* Intransitive possessor passive {#sec:participles-intransitive-haben-passive}
 
-A few incidental intransitive verbs allow for a special variant of the possessor passive diathesis [@sec:participles-haben-passive]. In the possessor passive (*Pertinenzpassiv*), the possessor of an accusative object [@next a] is remapped to nominative subject [@next c]. This is only possible with possessors that can alternatively be expressed as a dative [@next b].
+A few incidental intransitive verbs allow for a special variant of the possessor passive diathesis (see [@sec:participles-haben-passive]). In the original possessor passive (*Pertinenzpassiv*), the possessor of an accusative object [@next a] is remapped to nominative subject [@next c]. This is only possible with possessors that can alternatively be expressed as a dative [@next b].
 
 ::: ex
 - Der Friseur schneidet meine Haare.
