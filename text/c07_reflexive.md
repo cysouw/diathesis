@@ -1930,12 +1930,14 @@ b. Der Volksstamm unterwarf sich dem Eroberer.
 
 #### Attested verbs {.unnumbered}
 
-- *stellen, unterwerfen*
+- *stellen, sträuben, unterwerfen*
 
 #### Further examples {.unnumbered}
 
 - Der Polizist stellte den Einbrecher. \
   Der Einbrecher stellte sich dem Polizisten.
+- Die Katze sträubt ihr Fell. \
+  Der Katze sträubt sich das Fell.
 
 ### ~~OBJ › SBJ › OBJ~~ : [ NA | GN ] Reflexive accusative/genitive inversive
 
