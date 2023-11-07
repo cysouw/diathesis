@@ -292,7 +292,7 @@ There are many verbs with the prefix *ver‑* in this class. Interestingly, many
 
 #### Attested verbs {.unnumbered}
 
-- Obtain agreement: *alliieren, anfreunden, aussprechen, beratschlagen, bereden, einigen, solidarisieren, unterhalten (sprechen), verabreden, verbrüdern, verbünden, verklemmen, verloben, verschwören, vertragen*
+- Obtain agreement: *alliieren, anfreunden, aussprechen, beratschlagen, bereden, einigen, solidarisieren, unterhalten (sprechen), verabreden, verbrüdern, verbünden, verheiraten, verklemmen, verloben, verschwören, vertragen*
 - Obtain disagreement: *anlegen, duellieren, überwerfen, verfeinden, verkrachen*
 
 #### Further examples {.unnumbered}
@@ -573,7 +573,7 @@ c. Der Regen hat die Luft abgekühlt.
 
 #### Attested verbs {.unnumbered}
 
-- *ausruhen, ausschlafen, drehen, erbrechen, halten (Zustand), hinknien, irren, knien, lohnen*
+- *ausruhen, ausschlafen, drehen, erbrechen, halten (Zustand), heiraten, hinknien, irren, knien, lohnen*
 
 #### Further examples {.unnumbered}
 
@@ -591,6 +591,8 @@ c. Der Regen hat die Luft abgekühlt.
   Die Arbeit lohnt sich.
 - Geheimnisse halten sich lange.^[~~DWDS~~: Berliner Zeitung, 06.05.1995.] \
   Denn Bronzeskulpturen halten lange.^[~~DWDS~~: Berliner Zeitung, 26.11.1994.]
+- Paul und Marie heiraten. \
+  Und zunehmend heiraten sich Menschen gleichen Bildungsstandes.^[~~DWDS~~: Die Zeit, 07.02.2008, Nr. 07.]
 
 #### Notes {.unnumbered}
 
@@ -1387,7 +1389,7 @@ c. Der Mann erinnert sich daran, dass er einen Termin beim Arzt hat.
 
 #### Attested verbs {.unnumbered}
 
-- *mit* : *verbinden, vereinen, vermischen, versöhnen*
+- *mit* : *paaren, verbinden, vereinen, vermischen, versöhnen*
 - *mit/von* : *ernähren, nähren*
 - *von* : *trennen, unterscheiden*
 - *an*  : *erinnern, gewöhnen*
@@ -1411,6 +1413,8 @@ c. Der Mann erinnert sich daran, dass er einen Termin beim Arzt hat.
   Die Kinder haben sich an Ordnung gewöhnt.
 - Der Zeuge lenkt den Verdacht auf den Ehemann. \
   Der Verdacht lenkte sich auf den Ehemann.
+- Darwin paarte Finken mit Kanarienvögeln. \
+  Finken paarten sich mit Kanarienvögeln.^[Plank [-@plank2006: 252].]
 
 ### ~~OBJ › SBJ › PBJ~~ : [ NA | PN ] Reflexive conversive {#sec:reflexive-preposition-passive}
 
