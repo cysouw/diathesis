@@ -208,7 +208,7 @@ b. Ich entschließe mich dazu, eine Reise zu machen.
 #### Attested verbs {.unnumbered}
 
 - an    : *anpirschen, anschmiegen, beteiligen, festbeißen, halten, vergreifen*
-- auf   : *beziehen, freuen, konzentrieren, verlassen*
+- auf   : *beziehen, konzentrieren, verlassen (vertrauen)*
 - durch : *äussern*
 - für   : *aussprechen, bedanken, eignen, entschuldigen, revanchieren, schämen*
 - gegen : *sträuben, verschwören*
@@ -265,6 +265,8 @@ d. Ich drücke mich vor der Gefahr.
 :::
 
 The verb *sich schicken* 'to acquiesce' is an old-fashioned meaning of *schicken* 'to send'. Another usage of the same verb stem typically occurs with *es* and negative polarity, *es schickt sich nicht* meaning 'to be not suitable*.
+
+The prefixed verbs with *an‑* (*anpirschenm, anschmiegen*) and *ein‑* (*einfühlen, einhören*, etc.) in this section take a parallel prepositional phrase with *an* and *in*, respectively. These prepositional phrases do not allow for a *da+Präpostion, dass* paraphrase. Notwithstanding they are classified here as governed prepositions (cf. [@sec:prepositions-identifying-governed-prepositions]).
 
 ### [ Np ] Accusative reflexive+*mit* (*reciproca tantum*) {#sec:reflexive-real-reciprocals}
 
@@ -1932,12 +1934,14 @@ b. Der Volksstamm unterwarf sich dem Eroberer.
 
 #### Attested verbs {.unnumbered}
 
-- *stellen, unterwerfen*
+- *stellen, sträuben, unterwerfen*
 
 #### Further examples {.unnumbered}
 
 - Der Polizist stellte den Einbrecher. \
   Der Einbrecher stellte sich dem Polizisten.
+- Die Katze sträubt ihr Fell. \
+  Der Katze sträubt sich das Fell.
 
 ### ~~OBJ › SBJ › OBJ~~ : [ NA | GN ] Reflexive accusative/genitive inversive
 
