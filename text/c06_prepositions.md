@@ -656,9 +656,9 @@ c. Ich ärgere mich über deine Witze.
 
 #### Attested verbs {.unnumbered}
 
-- Verbs of emotional interaction: *ärgern, belustigen, begeistern, empören, erfreuen, erheitern, erschrecken, erstaunen, stören, trösten, überraschen, unterhalten, verblüffen, verwirren, quälen*
+- Verbs of emotional interaction: *amusieren, ärgern, belustigen, begeistern, beunruhigen, empören, erfreuen, erheitern, erschrecken, erstaunen, langweilen, stören, trösten, überraschen, unterhalten, verblüffen, verwirren, quälen*
 - Verbs of relaxation: *beruhigen, entspannen*
-- Verbs of influence: *beschäftigen, bewirken*
+- Verbs of influence: *aufhalten, beschäftigen, bewirken*
 - Verbs of proof: *bestätigen, beweisen, erklären, rechtfertigen*
 
 #### Further examples {.unnumbered}
@@ -680,7 +680,7 @@ c. Ich ärgere mich über deine Witze.
 
 #### Notes {.unnumbered}
 
-For a detailed discussion of the verb *erschrecken* and possible morphophonological differences between the two alternants, see Plank & Lahiri [@plank2015: 29--31].
+For a detailed discussion of the verb *erschrecken* and possible morphophonological differences between the two alternants, see Plank & Lahiri [-@plank2015: 29--31].
 
 ### ~~PBJ › SBJ › Ø~~ : [ NP | –N ] Intransitive fabricative
 
