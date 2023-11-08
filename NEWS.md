@@ -4,6 +4,7 @@ Version history of *Encyclopeadia of German Diatheses*
 
 ## new constructions
 
+- excitatory causative with *für* (Chapter 6), Thanks to the class of fall 2023.
 - verbal comitative with preverb *mit-* (Chapter 8)
 - stative location inversive with preverbial *voll/frei-* (Chapter 9). Thanks to Daniel Hole.
 - intensifying aspect with preverbial *tot-* (Chapter 9)
@@ -12,6 +13,8 @@ Version history of *Encyclopeadia of German Diatheses*
 
 - update to LSP-markdown skeleton
 - various corrections and minor additions
+- many new verbs in the 'attested verbs' sections throughout
+- additional references to relevant literature
 
 # Version 1.0
 

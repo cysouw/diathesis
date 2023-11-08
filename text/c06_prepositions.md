@@ -646,7 +646,7 @@ b. Die Aufgabe (des Lehrers) überrascht mich.
 c. Der Lehrer überrascht mich damit, dass er die Aufgabe schon korrigiert hat.
 :::
 
-There is a large overlap (but also an interesting difference) between the verbs that allow for this diathesis and the verbs that allow for a reflexive variant [@next c], see [@sec:reflexive-preposition-passive]. Some verbs, like *ärgern* 'to irritate' in [@next] allow for both diatheses, but other verbs only take part in one or the other diathesis.
+There is a large overlap (but also an interesting difference) between the verbs that allow for this diathesis and the verbs that allow for a reflexive variant [@next c], see [@sec:reflexive-preposition-passive]. Some verbs, like *ärgern* 'to irritate' in [@next] allow for both diatheses, but other verbs only take part in one or the other diathesis. A small set of those reflexive verbs allow for yet another diathesis with the preposition *für*, which is classified here as a causative diathesis (see [@sec:prepositions-excitatory-causative]).
 
 ::: ex
 a. Du ärgerst mich mit deinen Witzen.
@@ -837,6 +837,29 @@ Vestiges of the old Germanic causative suffix *‑jan* can still be found in som
 
 - Das Pferd schwimmt im Fluss. \
   Er schwemmte die Pferde im Fluss.^[Attested on <https://www.dwds.de/wb/schwemmen>, accessed 23 April 2022. This usage appears to be old-fashioned.]
+
+### ~~Ø › SBJ › PBJ~~ : [ –NA | NPA ] Excitatory causative {#sec:prepositions-excitatory-causative}
+
+A small group of verbs, like *begeistern* 'to enthrall' [@next a], allow for a diathesis that adds a causer, leading to an intended meaning 'to cause to be enthralled' [@next b]. The original nominative (here *Dinosaurier* 'dinosaurs') is turned into a governed prepositional phrase with *für*. Actually, the causative construction in [@next b] is only borderline grammatical, possibly even completely ungrammatical. The reason to still include this construction here is that it becomes completely natural when a modal+infinitive (cf. [@sec:infinitive-modals]) is stacked on top of it [@next c].^[I thank the class of fall 2023 for this observation.] This is one of the various diatheses that become more acceptable when stacked with a modal auxiliary, see also [@sec:participles-intransitive-bekommen-passive; @sec:participles-haben-passive; @sec:participles-promotion-to-subject].
+
+::: ex
+- Dinosaurier begeisterten mich nicht.
+- ^^?^ Der Lehrer begeisterte mich nicht für Dinosaurier.
+- Der Lehrer konnte mich nicht für Dinosaurier begeistern.
+:::
+
+Note that the verbs in this class also allow for a reflexive conversive diathesis (see [@sec:reflexive-preposition-passive]). However, most of those verbs do not allow for this causative alternation. There is also a close affinity to the fabricative diathesis with the preposition *mit* instead of *für* (see [@sec:prepositions-fabricative-accusative]).
+
+#### Attested verbs {.unnumbered}
+
+- *begeistern, faszinieren, interessieren, motivieren*
+
+#### Further examples {.unnumbered}
+
+- Er habe, sagte Schmidt einmal, die Jugend für Gegenwartskunst interessieren wollen.^[~~DWDS~~: Die Zeit, 22.07.2010, Nr. 30.]
+- Schließlich sind wir auf die Idee gekommen, dass wir Männer mehr für weichere Themen interessieren müssten.^[~~DWDS~~: Brenda Strohmaier: BIBLIOTHEK. Berliner Zeitung, 18.04.2005.]
+- Vor allem aber lernte ich an diesem Tag, daß ich meinen Vater nur dann für mich interessieren konnte, wenn ich ihm Fragen stellte, die ihm nicht gefielen.^[~~DWDS~~: Maron, Monika: Stille Zeile Sechs, Frankfurt a. M.: S. Fischer 1991, S. 113.]
+- Die SPD-Initiative "red net", die durch "ungewöhnliche Aktionen" Jugendliche für die Politik und die Partei interessieren soll, sei aber keine Konkurrenz für die Jusos.^[~~DWDS~~: Gerold Büchner: "Politische Parteien sind nicht in Mode". Berliner Zeitung, 08.01.2001.]
 
 ## Diatheses with object demotion {#sec:prepositions-demotion-of-object}
 

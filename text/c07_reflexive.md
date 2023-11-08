@@ -1450,12 +1450,20 @@ For the verbs with a *durch* alternation, like *lösen* 'to release' [@next], th
 - Der Schleim wird durch diesen Saft gelöst.
 :::
 
+The verbs with a *für* alternation, like *interessieren* 'to be interested in' [@next] also allow for a causative construction [@next c], see [@sec:prepositions-excitatory-causative]. This causative construction only sounds idiomatic when stacked inside a modal auxiliary, like *können*.
+
+::: ex
+- Fußball interessiert mich nicht.
+- Ich kann mich nicht für Fußball interessieren.
+- Er kann mich nicht für Fußball interessieren.
+:::
+
 #### Attested verbs {.unnumbered}
 
 - Experiencer verbs:
   - an    : *belustigen, stören, erfreuen, erheitern*
   - bei   : *anstrengen, beruhigen, entspannen, langweilen, quälen, unterhalten*
-  - für   : *faszinieren, motivieren, interessieren*
+  - für   : *begeistern, faszinieren, motivieren, interessieren*
   - um    : *bekümmern, kümmern*
   - über  : *amüsieren, aufregen, ärgern, begeistern, beschweren, beunruhigen, empören, entsetzen, erschrecken, erstaunen, erzürnen, freuen, grämen, wundern*
 - Other verbs:

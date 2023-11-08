@@ -662,7 +662,7 @@ b. ^* Ich verstehe ein.
 
 - an-  : *angedampft, angedonnert, angeflitzt, angeheiratet, angehetzt, angeheult, angekeucht, angekrochen, angelatscht, angelaufen, angeprescht, angerast, angerasselt, angerauscht, angeritten, angerannt*
 - aus- : *ausgeblufft, ausgedient, ausgekämpft, ausgeknabbert, ausgelitten, ausgepredigt, ausgeschätzelt, ausgesorgt, ausgespielt, ausgeträumt, ausgezaubert, ausstudiert, ausverkauft*
-- Other preverbs : *abgeneigt, befangen, bekannt, bescheuert, bewusst, einverstanden, erlesen, verfressen, verhasst, verrotzt, verschämt, verträumt, zerschunden*
+- Other preverbs : *abgeneigt, befangen, bekannt, belesen, bescheuert, bewusst, einverstanden, erlesen, verfressen, verhasst, verrotzt, verschämt, verträumt, zerschunden*
 
 ## Alternations without diathesis {#sec:participles-no-diathesis}
 
