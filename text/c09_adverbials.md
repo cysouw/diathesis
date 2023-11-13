@@ -163,21 +163,21 @@ These directionals are frequently used as preverbials with a wide range of seman
   Ich fege die Scherben zusammen/auseinander.
 :::
 
-The directionals *hin‑* and *her‑* are frequently combined with local prepositions, mostly as prefixes (except for *nebenher-*, *hinterher‑* and *vorher-*). In colloquial usage the first syllables are often dropped and with *her‑* this drop is also sometimes acceptable in written German. There are some interesting differences as to which prepositions are combined with *hin‑* and which with *her‑* [@next], but I will not further delve into these differences here.
+The directionals *hin‑* and *her‑* are frequently combined with local prepositions, mostly as prefixes (except for *nebenher‑*, *hinterher‑* and *vorher‑*). In colloquial usage the first syllables are often dropped and with *her‑* this drop is also sometimes acceptable in written German. There are some interesting differences as to which prepositions are combined with *hin‑* and which with *her‑* [@next], but I will not further delve into these differences here.
 
 ::: ex
 Attested combinations of *her/hin* with prepositions:
 
-- both with *hin‑* and *her-*: \
-  *herab/(he)rauf-, (he)raus/(he)rein-, (he)rüber/(he)runter‑* \
-  *hinab/hinauf-, hinaus/hinein-, hinüber/hinunter‑* 
+- both with *hin‑* and *her‑*: \
+  *herab/(he)rauf‑, (he)raus/(he)rein‑, (he)rüber/(he)runter‑* \
+  *hinab/hinauf‑, hinaus/hinein‑, hinüber/hinunter‑* 
 - only with *her*: \
-  *(he)ran-, herbei-, (he)rum-, hervor-, nebenher-, hinterher-*
-- only with *hin-*: \
-  *hindurch-, hinzu-*
+  *(he)ran‑, herbei‑, (he)rum‑, hervor‑, nebenher‑, hinterher‑*
+- only with *hin‑*: \
+  *hindurch‑, hinzu‑*
 :::
 
-Combinations of *da(r)‑* with prepositions mostly concern so-called correlative *da(r)-*, i.e. the element *da(r)‑* refers to some concrete entity mentioned earlier in the discourse [@next a]. There are also some fixed combinations of *da(r)‑* with prepositions, like *davon* in [@next b] and *dazwischen* in [@next c]. The precise possibilities and functions of *da(r)‑* will not be further investigated here.
+Combinations of *da(r)‑* with prepositions mostly concern so-called correlative *da(r)‑*, i.e. the element *da(r)‑* refers to some concrete entity mentioned earlier in the discourse [@next a]. There are also some fixed combinations of *da(r)‑* with prepositions, like *davon* in [@next b] and *dazwischen* in [@next c]. The precise possibilities and functions of *da(r)‑* will not be further investigated here.
 
 ::: ex
 - Ich schreibe meinen Namen unter den Brief. \
@@ -188,11 +188,11 @@ Combinations of *da(r)‑* with prepositions mostly concern so-called correlativ
   (= Ich rede "zwischen den Anderen".)
 :::
 
-There are also various preverbials that are combinations of *vor‑* with prepositions (e.g. *voran-, voraus-, vorbei-*) that need a more details investigation. 
+There are also various preverbials that are combinations of *vor‑* with prepositions (viz. *voran‑, voraus‑, vorbei‑, vorüber‑*) that need a more details investigation. 
 
 ### Resultatives vs. depictives {#sec:adverbial-resultative-predicates}
 
-There is a wide variety of adjectives that can be used as ~~resultative~~ preverbials. Highly productive resultatives in German are *leer-, voll-, tot‑* and *fest‑* [according to @fuhrhop2012: 79--80], e.g. *vollniesen* 'to sneeze full' [@next a]. However, many others are also attested, e.g. *still‑* 'silent' in *stillschweigen* 'to silence something', *platt‑* 'flat' in *plattwalzen* 'to flatten' or *schön‑* 'beautiful' in *schönreden* 'to whitewash' [@next b]. Additionally, datives from raised possessors are often possible [@next b], see [@sec:case-possessor-accusative-to-dative], including subsequent reflexive constructions [@next c].
+There is a wide variety of adjectives that can be used as ~~resultative~~ preverbials. Highly productive resultatives in German are *leer‑, voll‑, tot‑* and *fest‑* [according to @fuhrhop2012: 79--80], e.g. *vollniesen* 'to sneeze full' [@next a]. However, many others are also attested, e.g. *still‑* 'silent' in *stillschweigen* 'to silence something', *platt‑* 'flat' in *plattwalzen* 'to flatten' or *schön‑* 'beautiful' in *schönreden* 'to whitewash' [@next b]. Additionally, datives from raised possessors are often possible [@next b], see [@sec:case-possessor-accusative-to-dative], including subsequent reflexive constructions [@next c].
 
 ::: ex
 a. Er niest das Taschentuch voll.
