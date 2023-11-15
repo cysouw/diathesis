@@ -1066,7 +1066,7 @@ The verb *lehren* 'to teach' [@next a] shows a slight variant of the previous an
 
 ### ~~OBJ › ADJ~~ : [ NAD | NAp ] Preverb dative antipassive+accusative {#sec:preverb-dative-antipassive}
 
-Adding a preverb to various ditransitive verbs with dative and accusative arguments, like *schenken* 'to gift' [@next a], frequently results in the omission of the dative, like *verschenken* 'to give away' [@next b]. The dative can be retained as a prepositional phrase, but is typically omitted. This diathesis appears to be widespread with ditransitive verbs. Because there is an accusative constituent in the sentence, this preverb diathesis does not necessitate a reflexive pronoun.
+Adding a preverb to various ditransitive verbs with dative and accusative arguments, like *schenken* 'to gift' [@next a], frequently results in the omission of the dative, like *verschenken* 'to give away' [@next b]. The dative can be retained as a prepositional phrase, but is typically omitted. This diathesis appears to be widespread with ditransitive verbs. Because there is an accusative constituent in the sentence, this preverb diathesis does not necessitate a reflexive pronoun. Some of these verbs are discussed in much detail by De Vaere [-@devaere2023: §5.3].
 
 ::: ex
 a. Ich schenke dem Kindergarten meine Bücher.
@@ -1079,7 +1079,9 @@ b. Ich verschenke meine Bücher (an den Kindergarten).
 - verˈ-   : *geben, leihen, senden, schenken, schicken*
 - unterˈ- : *schreiben*
 - ˈab-    : *geben, senden, schicken*
+- ˈaus-   : *leihen*
 - ˈdurch- : *reichen*
+- ˈein-   : *senden, schicken*
   
 #### Further examples {.unnumbered}
 

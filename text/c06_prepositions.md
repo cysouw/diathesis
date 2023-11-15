@@ -1560,7 +1560,7 @@ It seems to be somewhat unusual for verbs with dative but without accusative to 
 
 ### ~~OBJ › ADJ~~ : [ NAD | NAp ] Dative antipassive+accusative {#sec:prepositions-dative-antipassive-accusative}
 
-With an additional accusative argument it is widespread for dative arguments to have an alternative expression in the form of a prepositional phrase. However, it is rather difficult to characterise the semantic difference between two such alternating expressions [cf. @devaere2018] for an investigation for the verb *geben* and the large literature on the English dative alternation). There are only a few monosyllabic prepositions that can be used for this alternation:
+With an additional accusative argument it is widespread for dative arguments to have an alternative expression in the form of a prepositional phrase. However, it is rather difficult to characterise the semantic difference between two such alternating expressions [cf. @devaere2018 for an investigation for the verb *geben* and the large literature on the English dative alternation]. There are only a few monosyllabic prepositions that can be used for this alternation:
 
 - *an*  : Moving towards
 - *von* : Removing from
@@ -1569,11 +1569,11 @@ With an additional accusative argument it is widespread for dative arguments to 
 
 #### *an* Ditransitive dative alternation
 
-The replacement of a dative with an *an* prepositional phrase is a common alternation (cf. Adler 2011). For a detailed analysis of this alternation with the verb *geben*, see De Vaere et al. [-@devaere2018]. In all cases there is some kind of giving of the accusative object to the dative object implied. Various verbs in this class also allow for a *zu* dative alternation ([@sec:prepositions-zu-dative]).
+The replacement of a dative with an *an* prepositional phrase is a common alternation [cf. @adler2011]. In all examples of this alternation there is some kind of giving of the accusative object to the dative object implied. There are detailed analyses of this alternation for the verbs *geben*, *schicken* and *senden* by De Vaere [-@devaere2018; -@devaere2021; -@devaere2023]. Various verbs in this class also allow for a *zu* dative alternation ([@sec:prepositions-zu-dative]).
 
 #### Attested verbs {.unnumbered}
 
-- Giving object to dative: *abgeben, abtreten, anbieten, anvertrauen, aushändigen, borgen, geben, leihen, liefern, schicken, schenken, senden, spenden, übergeben, überreichen, überweisen, vergeben, vererben, verkaufen, vermachen, vermieten*
+- Giving object to dative: *abgeben, abtreten, anbieten, anvertrauen, aushändigen, ausleihen, borgen, geben, leihen, liefern, schicken, schenken, senden, spenden, übergeben, überreichen, überweisen, vergeben, vererben, verkaufen, verleihen, vermachen, vermieten*
 - Giving message to dative: *berichten, erklären, erteilen, faxen, mailen, schreiben, vorlegen, vorstellen*
 - Others: *anpassen*
 
