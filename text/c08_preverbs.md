@@ -64,7 +64,7 @@ Turning now to the ~~verb particles~~, the following prepositions can be used as
 - The four prepositions *durch, über, um* and *unter* can be used both as verb prefixes and as verb particles leading to diathesis.
 - The nine prepositions *ab, an, auf, aus, bei, in (=ein), nach, vor* and *zu* are frequently used as verb particles leading to diathesis.
 - The preposition *mit* only occurs as a verb particle in completely transparent derivation that never result in a diathesis, e.g. *arbeiten* 'to work' becomes comitative *mitarbeiten* 'to work along' (see [@sec:preverb-intranstive-without-diathesis; @sec:preverb-transitive-without-diathesis]).
-- A few polysyllabic prepositions are used sporadically as verb particles, namely *entlang, entgegen, gegenüber, hinter, neben* and *zwischen*. Verbs with these preverbs have not (yet) been included here. 
+- A few polysyllabic prepositions are used sporadically as verb particles, namely *entlang, hinter, neben* and *zwischen*. There are also a few preverbs that are combinations of two preverbs, namely *entgegen, gegenüber, voran, vorab, vorbei* and *vorüber*. Verbs with these preverbs have not (yet) been included here. 
 - Crucially, the remaining prepositions are never used as verb particles with a verb root, namely *außer, bis, für, gegen, ohne, seit* and *von*. There exist only incidental examples like *fürsprechen* or *gegensteuern*. It is unclear to me whether there is any deeper reason for the absence of such derivations.
 
 The two main groups of prepositional preverbs that are involved in diathesis show an intriguing semantic structure. Note that this semantic structure involves their prepositional meaning, not their function as preverbs:
@@ -202,24 +202,27 @@ a. Ich grabe ein Loch (für meinen Hund).
 b. Ich begrabe meinen Hund (in einem Loch).
 :::
 
-It is common that such diachronic developments lead to pairs of verbs that semantically are not related anymore [@next]. In the extreme case, the original root of the preverbal verb does not exist (anymore) in contemporary German [@nnext].
+It is common that such diachronic developments lead to pairs of verbs that semantically are not related anymore [@next]. In the extreme case, the original root of the preverbal verb does not exist (anymore) in contemporary German [@nnext].^[There are two verbs that are based on a prepositional root, namely *begegenen* 'to meet' from *gegen* 'against' and *erstatten* 'to reimburse' from *statt* 'instead'. These derivations are somewhat transparent, but they are still listed here as exceptional cases.]
 
 ::: ex
-Preverbal verbs with existing roots, but without semantic relationship to this root
+Preverbal verbs with existing roots (both verbal and non-verbal), but without transparent semantic relationship to this root
 
-- *gefallen, gehören, geraten*
-- *bekommen, benehmen, berichten, beschaffen, bestehen, bestimmen, bevorstehen, beweisen*
+- *anstrengen*
+- *begegnen, bekommen, benehmen, berichten, beschaffen, bestätigen, bestehen, bestimmen, bevorstehen, bewegen, beweisen*
 - *entsprechen, entwischen*
-- *ereignen, ereilen, erfahren, erhalten, erpressen, errichten, ersparen, erstehen, ertragen, ertrinken, erwischen, erzählen, erziehen*
+- *ereignen, ereilen, erfahren, erhalten, erörtern, erpressen, errichten, ersparen, erstatten, erstehen, ertragen, ertrinken, erwischen, erzählen, erziehen*
+- *gefallen, gehören, gestehen, geraten*
+- *überraschen*
 - *zergehen, zerlassen, zersetzen*
 :::
 
 ::: ex
 Preverbal verbs with non-existing verbal roots in contemporary German
 
-- *gebären, gebieten, gebühren, gedeihen, gelingen, genesen, geschehen, gestehen, gewähren, gewinnen, gewöhnen*
-- *beginnen. bescheren. beschäftigen. beteiligen. bezichtigen*
-- *erbarmen, ergattern, erinnern, erklimmen, erkunden, erlauben, erläutern, erledigen, erstatten, ersticken*
+- *gebären, gebieten, gebühren, gedeihen, gelingen, genesen, geschehen, gewähren, gewinnen, gewöhnen*
+- *beginnen, bescheren, beschäftigen, beteiligen, bezichtigen*
+- *erbarmen, ergattern, erinnern, erklimmen, erkunden, erlauben, erläutern, erledigen, ersticken*
+- *verabreden, vergessen, verletzen, verlieren, vermuten, verzeihen*
 :::
 
 ## Alternations without diathesis
@@ -297,7 +300,7 @@ d. ^* Der mitgearbeitete Student ist fertig.
 - verˈ-  : *sinken, sterben, trocknen*
 - ˈüber- : *kochen*
 - missˈ- : *klingen*
-- ˈmit-  : *arbeiten, brüllen, denken, essen, fühlen, heulen, hören, kämpfen, lachen, leiden, lächeln, reden, schwingen, singen*
+- ˈmit-  : *arbeiten, brüllen, denken, essen, fahren, fühlen, heulen, hören, kämpfen, lachen, leiden, lächeln, reden, schwingen, singen*
 
 #### Further examples {.unnumbered}
 
@@ -706,9 +709,11 @@ b. Der Clown belustigt mich.
 
 #### Attested verbs {.unnumbered}
 
-- beˈ-  : *ängstig, fähig, frei, günstig, grün, ruhig, schuldig, schwer, unruhig*
-- erˈ-  : *bitter, böse, hart, hell, hoch, kalt, leichter, matt, müde, munter, mutig, neu, niedrig, rege, schlaff, warm, weich*
-- verˈ- : *besser, breit, breiter, deutlich, dunkel, edel, einfach, eng, größer, harmlos, herrlich, länger, niedlich, klein, kurz, kürzer, langsam, mehr, schön, schöner, start*
+- beˈ-  : *ängstig, fähig, frei, günstig, grün, leidig, ruhig, schuldig, schwer, unruhig*
+- erˈ-  : *bitter, böse, hart, hell, hoh, kalt, ledig, leichter, matt, müde, munter, mutig, neu, niedrig, rege, schlaff, warm, weich*
+- entˈ- : *schuldig*
+- verˈ- : *besser, breit, breiter, deutlich, dunkel, edel, einfach, eng, größer, harmlos, herrlich, länger, niedlich, klein, kurz, kürzer, langsam, mehr, öffentlich, schlechter, schön, schöner, start*
+- ˈvor- : *bereit*
 - zerˈ- : *mürbe*
 
 #### Further examples {.unnumbered}
@@ -768,10 +773,11 @@ In contrast, some intermediate verb stems exist, but they clearly do not have a 
 
 #### Attested verbs {.unnumbered}
 
-- beˈ-  : *begrenzen (Grenze), begründen (Grund), behaupten (Haupt)*
-- verˈ- : *verchromen (Chrome), vergiften (Gift), vergolden (Gold), verkohlen (Kohle), vermüllen (Müll), verpfeffern (Pfeffer), versalzen (Salz)*
+- beˈ-  : *beantragen (Antrag), beeinflussen (Einfluss), begrenzen (Grenze), begründen (Grund), behaupten (Haupt), beobachten (Obacht), berücksichtigen (Rücksicht)*
+- verˈ- : *verabschieden (Abschied), verchromen (Chrome), vergiften (Gift), vergolden (Gold), verkohlen (Kohle), vermüllen (Müll), verpfeffern (Pfeffer), versalzen (Salz), verursachen (Ursache), verzollen (Zoll)*
 - erˈ-  : *erbeuten (Beute), erdolchen (Dolch), ergaunern (Gauner), ergründen (Grund)*
 - entˈ- : *entkalken (Kalk), entthronen (Thron), entrinden (Rinde), entsalzen (Salz), entschlüsseln (Schlüssel), entwalden (Wald), entwassern (Wasser), entziffern (Ziffer)*
+- überˈ- : *übernachten (Nacht)*
 - ˈein- : *einbürgern (Bürger), eingemeinden (Gemeinde)*
 - ˈab-  : *abgrenzen (Grenze)*
 - ˈauf- : *auftischen (Tisch)*
@@ -964,6 +970,7 @@ The examples with the prefix *ver‑* quite productively result in verbs that de
 - beˈ-   : *trinken, saufen*
 - verˈ-  : *greifen, hören, lesen, plappern, sprechen, schlucken, schreiben, spielen (Instrument), tippen, wählen*
 - überˈ- : *essen, heben, strecken* 
+- ˈauf-  : *regen*
 
 #### Further examples {.unnumbered}
 
@@ -983,6 +990,8 @@ The examples with the prefix *ver‑* quite productively result in verbs that de
   Ich überesse mich.
 - Ich spiele die Sonate (auf der Geige). \
   Ich habe mich verspielt.
+- Er regt seine Hände. \
+  Er regt sich auf.
 
 ### ~~OBJ › Ø~~ : [ NA | N– ] Preverb accusative drop {#sec:preverb-accusative-drop}
 
@@ -1774,6 +1783,7 @@ b. Ich lese dir ein Buch vor.
 #### Attested verbs {.unnumbered}
 
 - ˈab-   : *nehmen*
+- ˈmit-  : *teilen*
 - ˈvor-  : *führen, legen, lesen, machen, sagen, schreiben, singen, spielen, stellen, zaubern*
 - ˈzu-   : *ordnen, rufen, spielen, werfen*
 - ˈüber- : *werfen*
@@ -1786,6 +1796,8 @@ b. Ich lese dir ein Buch vor.
   Ich habe dir den Ball zugeworfen.
 - Ich habe den Schal geworfen. \
   Ich habe dir den Schal übergeworfen.
+- Ich teile das Brot. \
+  Ich teile dir die Neuigkeit mit.
 - Erna ordnete die Schilder. \
   Erna ordnete die Schilder den Gästen zu.
 - Erna spielte den Ball. \
@@ -2289,7 +2301,7 @@ b. Ich dränge dir ein Abo auf.
 
 ### ~~ADJ › OBJ~~ : [ Np | ND ] Preverb dative applicative {#sec:preverb-dative-applicative}
 
-The following applicatives turn a prepositional phrase into a dative. For example, *stammen* 'to descent from' is used with a preposition *aus* [@next a]. This role is turned into a dative with the preverb *entstammen* 'to be descended from'.  Note that these prepositions are never governed prepositions [for *ent-*, see also @eisenberg2006: 263--264].
+The following applicatives turn a prepositional phrase into a dative. For example, *stammen* 'to descent from' is used with a preposition *aus* [@next a]. This role is turned into a dative with the preverb *entstammen* 'to be descended from'. Note that these prepositions are never governed prepositions [for *ent-*, see also @eisenberg2006: 263--264].
 
 ::: ex
 - Ich stamme aus einem Adelsgeschlecht. 

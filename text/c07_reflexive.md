@@ -1656,7 +1656,7 @@ c. ^* Er verbrennt sich und das Buch.
 - Er täuscht mich. \
   Er täuscht sich.
 - Er hatte seinen Kopf ihr zugeneigt. \
-  Er hatte sich ihr zugeneigt
+  Er hatte sich ihr zugeneigt.
 
 #### Notes {.unnumbered}
 

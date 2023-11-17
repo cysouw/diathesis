@@ -118,7 +118,7 @@ b. Ich habe meine Hose gebügelt gekauft.
 
 ### Preverbials {#sec:adverbial-preverbial}
 
-Syntactically, adverbials (proper) have to be distinguished from a superficially highly similar phenomenon, which I will call ~~preverbials~~ [see @broschart2000 for a similar use of this term in Tongan, a completely unrelated language]. A preverbial is an adverbial-like element that syntactically behaves just like a preverb (cf. the previous Chapter [-@sec:preverbs]). Preverbials combine with a verb to form a new verb, either as a non-separable prefix (*Verb­präfix*), like *voll* in *vollenden* 'to finalise' [@next a], or as a separable particle (*Verbpartikel*), like *voll* in *vollschenken* 'to fill up' [@next b]. The syntactic differences between such separable verb prefixes and non-separable verb particles are described in detail in [@sec:preverbs-prefixes-particles]. Non-separable preverbials (other than preverbs) are extremely rare. The only examples known to me are *vollbringen, vollenden, vollführen* and *wiederholen*.
+Syntactically, adverbials (proper) have to be distinguished from a superficially highly similar phenomenon, which I will call ~~preverbials~~ [see @broschart2000 for a similar use of this term in Tongan, a completely unrelated language]. A preverbial is an adverbial-like element that syntactically behaves just like a preverb (cf. the previous Chapter [-@sec:preverbs]). Preverbials combine with a verb to form a new verb, either as a non-separable prefix (*Verb­präfix*), like *voll* in *vollenden* 'to finalise' [@next a], or as a separable particle (*Verbpartikel*), like *voll* in *vollschenken* 'to fill up' [@next b]. The syntactic differences between such separable verb prefixes and non-separable verb particles are described in detail in [@sec:preverbs-prefixes-particles]. Non-separable preverbials (other than preverbs) are extremely rare. The only examples known to me are *vollbringen, vollenden, vollführen* and *wiederholen (noch einmal sagen)*.^[The non-separable verb *wiederholen (noch einmal sagen)* 'to repeat' is syntactically similar to German verbs with the non-separable prefix *wider‑* (see [@sec:preverb-dative-applicative]). Syntactically, it would be more sensible to write this verb as *widerholen* 'to repeat', also to distinguish it from the separable verb *wiederholen (zurück holen)* 'to get something back'.]
 
 ::: ex
 - Ich vollende das Buch. \
@@ -129,21 +129,21 @@ Syntactically, adverbials (proper) have to be distinguished from a superficially
   Ich versuche das Glas vollzuschenken.
 :::
 
-The ~~preverbs~~ as discussed in the previous chapter are just one of the three different kinds of preverbials. Other than preverbs, a preverbial is either a directional or a resultative. ~~Directionals~~ are a closed class of preverbials that express a direction, like *hin‑* or *her-*. They are concisely discussed in [@sec:adverbial-directionals], but they deserve more in-depth investigation. ~~Resultatives~~ are adjectival stems that are combined with verbs, like *voll* in [@last] above. For conceptual clarity, they are opposed to depictives in [@sec:adverbial-resultative-predicates]. The different diatheses that are induced by resultatives are discussed in more detail throughout this chapter. [@sec:adverbial-resultative-summary] gives a basic summary of those constructions. 
+The ~~preverbs~~ as discussed in the previous chapter are just one of the three different kinds of preverbials. Other than preverbs, a preverbial is either a directional or a resultative. ~~Directionals~~ are a closed class of preverbials that express a direction, like *hin‑* or *her‑*. They are concisely discussed in [@sec:adverbial-directionals], but they deserve more in-depth investigation. ~~Resultatives~~ are adjectival stems that are combined with verbs, like *voll* in [@last] above. For conceptual clarity, they are opposed to depictives in [@sec:adverbial-resultative-predicates]. The different diatheses that are induced by resultatives are discussed in more detail throughout this chapter. [@sec:adverbial-resultative-summary] gives a basic summary of those constructions. 
 
 ### Directionals {#sec:adverbial-directionals}
 
-The thirteen ~~directionals~~ in [@next] have a special status in German grammar. They have wide variety of different origins, for example *wieder‑* from preposition *wider* 'against', *heim‑* from noun *Heim* 'home' or *hoch‑* from adjective *hoch* 'high, tall'. Semantically they occur in pairs, with *empor‑* being an additional old-fashioned variant of contemporary *hoch-*.
+The thirteen ~~directionals~~ in [@next] have a special status in German grammar. They have wide variety of different origins, for example *wieder‑* from preposition *wider* 'against', *heim‑* from noun *Heim* 'home' or *hoch‑* from adjective *hoch* 'high, tall'. Semantically they occur in pairs, with *empor‑* being an additional old-fashioned variant of contemporary *hoch-*.^[Possible *statt‑* 'against' could also be included in this list, but there seem to be only two German verbs that use this preverbial, namely *stattfinden* 'to take place' and *stattgeben* 'to grant'.]
 
 ::: ex
 Directionals
 
-- *hin/her-*
-- *weg/zurück*
-- *fort/heim-*
-- *hoch/empor/nieder-*
-- *da(r)/wieder-*
-- *zusammen/auseinander-*
+- *hin/her‑*
+- *weg/zurück‑*
+- *fort/heim‑*
+- *hoch/empor/nieder‑*
+- *da(r)/wieder‑*
+- *zusammen/auseinander‑*
 :::
 
 These directionals are frequently used as preverbials with a wide range of semantic interpretations and diathetical remappings. The detailed survey of their syntax is left for future research. As preverbials they are typically used in a delocative diathesis, replacing a locative phrase [@next].
@@ -187,8 +187,6 @@ Combinations of *da(r)‑* with prepositions mostly concern so-called correlativ
 - Ich rede dazwischen. \
   (= Ich rede "zwischen den Anderen".)
 :::
-
-There are also various preverbials that are combinations of *vor‑* with prepositions (viz. *voran‑, voraus‑, vorbei‑, vorüber‑*) that need a more details investigation. 
 
 ### Resultatives vs. depictives {#sec:adverbial-resultative-predicates}
 
