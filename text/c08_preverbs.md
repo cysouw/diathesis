@@ -710,11 +710,13 @@ b. Der Clown belustigt mich.
 #### Attested verbs {.unnumbered}
 
 - beˈ-  : *ängstig, fähig, frei, günstig, grün, leidig, ruhig, schuldig, schwer, unruhig*
-- erˈ-  : *bitter, böse, hart, hell, hoh, kalt, ledig, leichter, matt, müde, munter, mutig, neu, niedrig, rege, schlaff, warm, weich*
+- erˈ-  : *bitter, bleich, böse, grau, hart, heiter, hell, hoh, kalt, klar, ledig, leichter, matt, müde, munter, mutig, neu, niedrig, rege, schlaff, stark, warm, weich*
 - entˈ- : *schuldig*
-- verˈ- : *besser, breit, breiter, deutlich, dunkel, edel, einfach, eng, größer, harmlos, herrlich, länger, niedlich, klein, kurz, kürzer, langsam, mehr, öffentlich, schlechter, schön, schöner, start*
-- ˈvor- : *bereit*
+- verˈ- : *besser, breit, breiter, deutlich, dumm, dunkel, dünn, düster, edel, einfach, elend, eng, falsch, faul, fremd, größer, harmlos, herrlich, klein, knapp, kurz, kürzer, langsam, länger, niedlich, mehr, öffentlich, schlechter, schön, schöner, spät, start, steif, stumm, teuer, tief, wirr, wund, wüst*
 - zerˈ- : *mürbe*
+- ˈan-  : *eigen*
+- ˈauf- : *rau*
+- ˈvor- : *bereit*
 
 #### Further examples {.unnumbered}
 
@@ -744,6 +746,8 @@ c. Der Bericht bessert meine Lauen.
 :::
 
 The verb *erbittern* 'to make bitter' is probably derived from a verb *bittern* 'to become bitter', which does not exist anymore in contemporary German [@pfeiffer1993].^[Entry *bitter* at <https://www.dwds.de/wb/etymwb/bitter>, accessed 6 August 2022.] Both are of course related to the adjective *bitter* 'bitter'.
+
+The verb *verspäten* is clearly derived from the adjective *spät*, but it is additionally obligatory reflexive (see [@sec:reflexive-obligatory-accusative-reflexive]). This "fixed stack" of a causative *ver-* and an anticausative reflexive leads to a non-causative meanings: *spät sein* 'be late' > ^\*^*verspäten* 'cause to be late' (non-exisiting) > *sich verspäten* 'be late'.
 
 ### ~~Ø › SBJ › OBJ~~ : [ –N | NA ] Preverb nominal causative {#sec:preverb-nominal-causative}
 

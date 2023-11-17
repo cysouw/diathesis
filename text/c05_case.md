@@ -766,9 +766,9 @@ b. Ich habe den Baum gefällt.
 - Das Kind saugt. \
   Die Mutter säugt das Kind.
 
-### ~~Ø › SBJ › OBJ~~ : [ –N | NA ] *Umlaut* adjectival causative {#sec:case-umlaut-adjectival-causative}
+### ~~Ø › SBJ › OBJ~~ : [ –N | NA ] Adjectival causative {#sec:case-umlaut-adjectival-causative}
 
-The process to form a causative with the suffix *‑jan* also applied to adjectival predicates. There are still a few remnants of such pairs found in contemporary German, in which the old suffix is retained as an umlaut [@next]. More cases are available with additional preverbs, see [@sec:preverb-adjectival-causative].
+Some adjectival roots can be used directly as a causative verb, sometimes with an additional Umlaut [@next]. More cases are available with additional preverbs, see [@sec:preverb-adjectival-causative].
 
 ::: ex
 a. Die Kiste ist schwarz.
@@ -777,7 +777,32 @@ b. Ich schwärze den Text.
 
 #### Attested verbs {.unnumbered}
 
-- *voll/füllen, glatt/glätten, hart/härten, kurz/kürzen, schwarz/schwärzen, warm/wärmen*
+- Without Umlaut: *billig/billigen, bleich/bleichen, dicht/dichten, fett/fetten, feucht/feuchten, gleich/gleichen, heil/heilen, irr/irren, kühl/kühlen, leer/leeren, lieb/lieben, locker/lockern, reif/reifen, rund/runden, sauber/saubern, schnell/schnellen, sicher/sichern, spitz/spitzen, still/stillen, straff/straffen, süß/süßen, trocken/trocknen, trüb/trüben, weiß/weißen*
+- With Umlaut: *ander/ändern, voll/füllen, glatt/glätten, hart/härten, kurz/kürzen, offen/öffnen, scharf/schärfen, schmuck/schmücken, schwarz/schwärzen, warm/wärmen, zahm/zähmen*
+
+#### Notes {.unnumbered}
+
+The adjectives *billig* 'cheap' and *still* 'silent' are clearly related to the verbs *billigen* 'to approve' and *stillen* 'to nurse', respectively. However, the semantic drift from a pure causative is substantial in these cases.
+
+The adjectives *fett* 'fat' and *schmuck* 'pretty' are clearly related to the nouns *Fett* 'fat' and *Schmuck* 'jewelry', respectively. Probably the causative verbs *fetten* and *schmücken* are related to the noun, and not directly to the adjective (see [@sec:case-nominal-causative])
+
+### ~~Ø › SBJ › OBJ~~ : [ –N | NA ] Nominal causative {#sec:case-nominal-causative}
+
+A few lexical stems in German are both nominal and verbal, like *das Fett* 'the fat' and *fetten* 'to grease'. Compared to English, this flexibility is much less common in German, but there exist various examples. There are two different kinds of such multifunctional noun/verb stems in German. The example of *Fett/fetten* illustrates a verb that described a situation in which an agent applies the noun to an object [@next a]. This is alike to the previous causative diatheses. There exist more such example with an additional preverb, as discussed in [@sec:preverb-nominal-causative].
+
+In contrast, other examples of multifunctional noun/verb stems in German do not have such a causative interpretation. For example, the noun *die Reise* 'the trip' and the verb *reisen* 'to travel' are obviously the same stem. However, in this example, the noun is the result of the action as described by the verb [@next b]. There is no causative diathesis in these cases.
+
+::: ex
+- Er fettet seine Schuhe. \
+  Es ist Fett auf den Schuhen.
+- Er reist nach Leipzig. \
+  Die Reise führt ihn nach Leipzig.
+:::
+
+#### Attested verbs {.unnumbered}
+
+- Causative (activity described by verb causes noun to be applied to object): *Fett/fetten, Kalk/kalken, Öl/ölen, Pfeffer/pfeffern, Salz/salzen, Schmuck/schmücken,  Wasser/wassern, Würze/würzen, Zucker/zuckern*
+- Non-causative (noun is result of activity described by verb): *Angriff/angreifen, Antwort/antworten, Blick/blicken, Bau/bauen, Druck/drücken, Fall/fallen, Gang/gehen, Gauner/gaunern, Griff/greifen, Hunger/hungern, Kauf/kaufen, Lauf/laufen, Löffel/löffeln, Reise/reisen, Spiel/spielen, Sprung/springen, Tanz/tanzen, Thron/thronen, Wurf/werfen, Zauber/zaubern*
 
 ### ~~OBJ › SBJ~~ : [ A | N ] Accusative-to-nominative promotion
 

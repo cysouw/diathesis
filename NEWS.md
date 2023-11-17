@@ -8,6 +8,7 @@ Version history of *Encyclopeadia of German Diatheses*
 - verbal comitative with preverb *mit-* (Chapter 8)
 - stative location inversive with preverbial *voll/frei-* (Chapter 9). Thanks to Daniel Hole.
 - intensifying aspect with preverbial *tot-* (Chapter 9)
+- causative noun/verb diathesis without preverbs (Chapter 5)
 
 ## minor changes
 
