@@ -651,7 +651,7 @@ b. ^* Ich laune gut.
 
 ### Deponent participles with preverbs {#sec:participles-preverbs}
 
-Words like *einverstanden* 'agreed' [@next a] look morphologically like a regular participle from a verb *einverstehen*. However, that verb does not exist [@next b], only the non-prefixed verb *verstehen* exists. Latzel [-@latzel1977: 79--80] discussed various examples with the preverb *aus‑* and Rothstein [-@rothstein2007a: 162] lists examples with the preverb *an‑* that only occur in construction with light verb *kommen* (see [@sec:participles-kommen]). Participles with preverbs that do not have a corresponding finite verb appear to be a common phenomenon and the participles listed here should only to be taken as illustrative examples.
+Words like *einverstanden* 'agreed' [@next a] look morphologically like a regular participle from a verb *einverstehen*. However, that verb does not exist [@next b], only the non-prefixed verb *verstehen* exists. Latzel [-@latzel1977: 79--80] discussed various examples with the preverb *aus‑* and Rothstein [-@rothstein2007a: 162] lists examples with the preverb *an‑* that only occur in construction with light verb *kommen* (see [@sec:participles-kommen]), except for *angeheiratet*. Participles with preverbs that do not have a corresponding finite verb appear to be a common phenomenon and the participles listed here should only to be taken as illustrative examples.
 
 ::: ex
 a. Ich bin einverstanden.
@@ -662,7 +662,7 @@ b. ^* Ich verstehe ein.
 
 - an-  : *angedampft, angedonnert, angeflitzt, angeheiratet, angehetzt, angeheult, angekeucht, angekrochen, angelatscht, angelaufen, angeprescht, angerast, angerasselt, angerauscht, angeritten, angerannt*
 - aus- : *ausgeblufft, ausgedient, ausgekämpft, ausgeknabbert, ausgelitten, ausgepredigt, ausgeschätzelt, ausgesorgt, ausgespielt, ausgeträumt, ausgezaubert, ausstudiert, ausverkauft*
-- Other preverbs : *abgeneigt, befangen, bekannt, belesen, bescheuert, bewusst, einverstanden, erlesen, verfressen, verhasst, verrotzt, verschämt, verträumt, zerschunden*
+- Other preverbs : *abgeneigt, befangen, bekannt, belesen, bescheuert, bewusst, einverstanden, erlesen, erwünscht, verfressen, verhasst, verrotzt, verschämt, verträumt, zerschunden*
 
 ## Alternations without diathesis {#sec:participles-no-diathesis}
 
