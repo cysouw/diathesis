@@ -208,7 +208,7 @@ b. Ich entschließe mich dazu, eine Reise zu machen.
 #### Attested verbs {.unnumbered}
 
 - an    : *anpirschen, anschmiegen, beteiligen, festbeißen, halten, orientieren, vergreifen*
-- auf   : *beziehen, konzentrieren, verlassen (vertrauen)*
+- auf   : *bewerben, beziehen, einlassen (beginnen), gründen, konzentrieren, verlassen (vertrauen), verstehen (auskennen), spezialisieren*
 - durch : *äussern*
 - für   : *aussprechen, bedanken, eignen, entschuldigen, revanchieren, schämen*
 - gegen : *sträuben, verschwören*
@@ -236,6 +236,9 @@ b. Ich entschließe mich dazu, eine Reise zu machen.
 - Ich halte mich an die Abmachungen. 
 - Die Krankheit äußert sich durch den Ausschlag.
 - Mit dieser Aufgabe tue ich mich schwer.
+- Er hat sich auf Mikrobiologie spezialisiert.
+- Sie versteht sich auf schicke Kleidung.
+- Sie haben sich auf Unterhandlungen eingelassen.
 - Erst auf Medienanfragen bequemte sie sich zu einer Antwort.^[~~DWDS~~: Die Zeit, 17.11.2010, Nr. 46.]
 
 #### Notes {.unnumbered}

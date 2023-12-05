@@ -294,11 +294,12 @@ Not all collocations of verbs with a preposition are governed phrases. For examp
 #### Attested verbs {.unnumbered}
 
 - an   : *appellieren*
-- auf  : *achten (aufpassen), bauen, bestehen, hoffen, kommen, vertrauen*
+- auf  : *achten (aufpassen), bauen, bestehen, eingehen (auseinandersetzen), hinarbeiten, hinauslaufen, hoffen, kommen, vertrauen*
 - aus  : *bestehen*
 - bei  : *bleiben*
 - für  : *sprechen*
 - mit  : *brechen (sich abwenden), kämpfen, spielen*
+- nach : *streben*
 - über : *handeln*
 - von  : *handeln, kommen*
 - vor  : *stehen*
@@ -316,6 +317,7 @@ Not all collocations of verbs with a preposition are governed phrases. For examp
 - Ich spiele mit dem Gedanken.
 - Sie bricht mit ihrer Familie.
 - Die Farbe passt zu dir.
+- Wissenschaftler streben danach, dass ihre Forschungsresultate in einer der Bugatti-Zeitschriften erscheinen.^[~~DWDS~~: Die Zeit, 08.04.2009, Nr. 16.]
 
 #### Notes {.unnumbered}
 
@@ -338,7 +340,7 @@ Some verbs, like *erinnern* 'to remind' [@next], combine a governed preposition 
 
 #### Attested verbs {.unnumbered}
 
-- an   : *erinnern, gewöhnen, wenden*
+- an   : *erinnern, festmachen (erkennen) gewöhnen, wenden*
 - über : *aufklären, unterrichten*
 - für  : *ausgeben (bezeichnen)*
 - mit  : *begründen*
@@ -351,6 +353,7 @@ Some verbs, like *erinnern* 'to remind' [@next], combine a governed preposition 
 - Sie gab ihren Sohn für einen Künstler aus.
 - Ich begründe meine schlechte Leistung mit einer Krankheit.
 - Die Zeitung unterrichtet die Leser über die neuesten Ereignisse.
+- Sie macht diese Behauptung daran fest, dass ihr Großvater Lehrer war.^[~~DWDS~~: Die Zeit, 13.03.2014, Nr. 11.]
 
 ### [NL] Obligatory local preposition {#sec:prepositions-obligatory-local}
 
@@ -930,8 +933,8 @@ b. Der Reporter spricht von einem historischen Ereignis. \
 - über  : (object of emotional reaction) *klagen, lachen, schimpfen, staunen, streiten, weinen*
 - von   : (content of report) *reden, sprechen*
 - von   : (content of cognitive process) *träumen*
-- auf   : (object of expectation) *drängen, hoffen, rechnen, verzichten, warten*
-- auf   : (object of emotional reaction) *schimpfen*
+- auf   : (object of expectation) *drängen, hoffen, rechnen, spekulieren, verzichten, warten*
+- auf   : (object of emotional reaction) *schimpfen, schwören*
 - nach  : (object of smell/taste) *duften, riechen, stinken, schnüffeln, schmecken*
 - vor   : (object of emotional reaction) *platzen, rasen (Emotion), schreien*
 - an    : *arbeiten, basteln, denken, experimentieren, feilen, forschen, knobeln, laborieren, puzzeln, scheitern, sterben, teilnehmen, tüfteln, zweifeln*
@@ -974,7 +977,7 @@ c. ^* Ich bereite auf die Klausur vor.
 #### Attested verbs {.unnumbered}
 
 - über : *behaupten, herrschen, erfahren*
-- an   : *beteiligen, erkennen, hindern, rächen*
+- an   : *bemerken, beteiligen, erkennen, hindern, rächen*
 - zu   : *treffen*
 - auf  : *vorbereiten*
 - von  : *unterscheiden, verlangen*
@@ -1573,8 +1576,8 @@ The replacement of a dative with an *an* prepositional phrase is a common altern
 
 #### Attested verbs {.unnumbered}
 
-- Giving object to dative: *abgeben, abtreten, anbieten, anvertrauen, aushändigen, ausleihen, borgen, geben, leihen, liefern, schicken, schenken, senden, spenden, übergeben, überreichen, überweisen, vergeben, vererben, verkaufen, verleihen, vermachen, vermieten*
-- Giving message to dative: *berichten, erklären, erteilen, faxen, mailen, schreiben, vorlegen, vorstellen*
+- Giving object to dative: *abgeben, abtreten, anbieten, anvertrauen, aushändigen, ausleihen, borgen, geben, leihen, liefern, schicken, schenken, senden, spenden, übergeben, überreichen, überweisen, vergeben, vererben, verkaufen, verleihen, vermachen, vermieten, vermitteln, zahlen*
+- Giving message to dative: *berichten, erklären, erteilen, faxen, mailen, schreiben, verraten, vorlegen, vorstellen*
 - Others: *anpassen*
 
 #### Further examples {.unnumbered}
