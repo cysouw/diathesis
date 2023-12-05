@@ -182,7 +182,7 @@ Various verbs describing behaviour, like *verirren* 'to get lost' [@next a], nee
 
 #### Attested verbs {.unnumbered}
 
-- Behaviour: *abmühen, abrackern, abstrampeln, aufführen, aufrappeln, beeilen, benehmen, betrinken, besaufen, bücken, daranmachen, davonstehlen, durchlavieren, durchmogeln, durchwursteln, echauffieren, einigeln, erhängen, ermannen, fortbilden, gedulden, herausreden, hervortun, hinauswagen, sputen*
+- Behaviour: *abmühen, abrackern, abstrampeln, aufführen, aufrappeln, beeilen, benehmen, betrinken, besaufen, bücken, daranmachen, davonstehlen, durchlavieren, durchmogeln, durchwursteln, echauffieren, einigeln, engagieren, erhängen, ermannen, fortbilden, gedulden, herausreden, hervortun, hinauswagen, sputen*
 - (Erratic) behaviour with *ver-*: *verfahren, verhalten, verhaspeln, verirren, verkalkulieren, verlaufen, verplappern, verschreiben (falsch schreiben), verspäten, verspekulieren, versprechen (falsch sprechen), verrennen, vertun, verwählen, verzählen*
 - Bodily process: *akklimatisieren, erkälten, räuspern, verkühlen, übergeben, wohlfühlen*
 - Natural process: *abregnen, anfinden, bauchen, behaaren, bewahrheiten, bewölken, eintrüben, entspinnen, ereignen, herauskristallisieren, jähren, rentieren, verästeln, verfärben, verpuppen, verzweigen, zutragen*
@@ -207,7 +207,7 @@ b. Ich entschließe mich dazu, eine Reise zu machen.
 
 #### Attested verbs {.unnumbered}
 
-- an    : *anpirschen, anschmiegen, beteiligen, festbeißen, halten, vergreifen*
+- an    : *anpirschen, anschmiegen, beteiligen, festbeißen, halten, orientieren, vergreifen*
 - auf   : *beziehen, konzentrieren, verlassen (vertrauen)*
 - durch : *äussern*
 - für   : *aussprechen, bedanken, eignen, entschuldigen, revanchieren, schämen*
@@ -1467,6 +1467,7 @@ The verbs with a *für* alternation, like *interessieren* 'to be interested in' 
   - um    : *bekümmern, kümmern*
   - über  : *amüsieren, aufregen, ärgern, begeistern, beschweren, beunruhigen, empören, entsetzen, erschrecken, erstaunen, erzürnen, freuen, grämen, wundern*
 - Other verbs:
+  - auf   : *stützen*
   - aus   : *bilden, entwickeln, ergeben, speisen*
   - durch : *auszeichnen, entspannen, lösen, mildern, verraten*
   - in    : *spiegeln, widerspiegeln*
@@ -1547,6 +1548,8 @@ The verbs with a *für* alternation, like *interessieren* 'to be interested in' 
   Ich erheitere mich an dem Anblick.
 - Das Geld speist seine Macht. \
   Seine Macht speist sich daraus, dass er Dinge erledigt.
+- Der Stock stützt die Decke. \
+  Der Verletzte stützt sich auf den Stock.
 
 #### Notes {.unnumbered}
 
@@ -1633,7 +1636,7 @@ c. ^* Er verbrennt sich und das Buch.
 
 #### Attested verbs {.unnumbered}
 
-- *abduschen, abhetzen, abwenden, anlehnen, anziehen, aufrichten, ausziehen, äußern, bewegen, entblößen, erheben, hinlegen, hinsetzen, hinstellen, neigen, recken, räkeln, schneiden, strecken, täuschen, verbrennen, verkleiden, verschlafen, verschlucken, zuneigen*
+- *abduschen, abhetzen, abwenden, anlehnen, anziehen, aufopfern, aufrichten, ausziehen, äußern, bewegen, entblößen, erheben, hinlegen, hinsetzen, hinstellen, neigen, recken, räkeln, schneiden, strecken, täuschen, verbrennen, verkleiden, verschlafen, verschlucken, zuneigen*
 
 #### Further examples {.unnumbered}
 
@@ -1657,6 +1660,8 @@ c. ^* Er verbrennt sich und das Buch.
   Er täuscht sich.
 - Er hatte seinen Kopf ihr zugeneigt. \
   Er hatte sich ihr zugeneigt.
+- Er hat seine besten Jahre für uns aufgeopfert. \
+  Er hat sich für uns aufgeopfert.
 
 #### Notes {.unnumbered}
 
@@ -1688,12 +1693,14 @@ d. Die Frauen warfen sich und ihre Kinder vor mein Pferd und baten um Hilfe.^[~~
 
 #### Attested verbs {.unnumbered}
 
-- *fokussieren, konzentrieren, pressen, legen, setzen, stellen, werfen*
+- *fokussieren, konzentrieren, pressen, legen, richten, setzen, stellen, werfen*
 
 #### Further examples {.unnumbered}
 
 - Sie presste die Hand auf das Herz. \
   Sie presste sich an die Hauswand.
+- Sie richtet ihre Aufmerksamkeit auf den Fall. \
+  Sie richtet sich auf den den Fall.
 
 #### Notes {.unnumbered}
 
@@ -1743,7 +1750,7 @@ The *sich* counterpart of the transitive *beklagen* 'to lament' [@next a,b] is s
 
 Formally, the object of the complaint is demoted from an accusative [@next a], which is obligatory [@next c], to a prepositional phrase [@next b] that can often be dropped [@next d]. Note that without the prepositional phrase [@next d] the expression is indeed ambiguous between a real reflexive meaning ('I complain about myself') and a non-reflexive reading ('I am complaining'). All prepositional phrases of the verbs in this section are governed prepositions [@next e].
  
-Wiemer and Nedjalkov [-@wiemer2007: 464--465] call such verbs "deaccusatives" and consider them to be "extremely rare" in German (which they are not). It is an open question why some verbs take such a reflexive antipassive, while other take a simple antipassive without reflexive pronoun (as discussed in [@sec:prepositions-accusative-antipassive]). For a typological survey of such antipassive uses of reflexive markers, see Janic [-@janic2010].
+Wiemer \& Nedjalkov [-@wiemer2007: 464--465] call such verbs "deaccusatives" and consider them to be "extremely rare" in German (which they are not). It is an open question why some verbs take such a reflexive antipassive, while other take a simple antipassive without reflexive pronoun (as discussed in [@sec:prepositions-accusative-antipassive]). For a typological survey of such antipassive uses of reflexive markers, see Janic [-@janic2010].
 
 ::: ex
 a. Ich beklage den Lärm.
