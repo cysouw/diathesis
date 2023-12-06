@@ -1087,8 +1087,8 @@ The highlighted diatheses in [@fig:objectchains] are collectively called ~~objec
 ::: ex
 ~~Object exchange~~
 
-a. Ich schmiere die Salbe auf die Wunde.
-b. Ich beschmiere die Wunde mit der Salbe.
+a. Ich schmiere eine Salbe auf die Wunde.
+b. Ich beschmiere die Wunde mit einer Salbe.
 :::
 
 Different variants of such object exchange show an astonishingly strong correlation between syntactic structure and semantic interpretation. Basically, promotions have the effect that the new object role is a part of the old object role (i.e. the new object is a ~~meronym~~), while demotions have the reverse effect in that the new object role encompasses the old object role (i.e. the new object is a ~~holonym~~). To appreciate this generalisation it is important to recall how demotions and promotions are defined for chained diatheses. This definition is not trivial because chained diatheses are always a combination of both a promotion and a demotion. So the question is which of the two "wins". 
@@ -1103,14 +1103,14 @@ By definition (cf. [@sec:intro-remapping]), a chained diathesis is deemed to be 
 
 Concretely, the promotion of an object exchange can be either an objective ~~(Ø › OBJ)~~ ("three steps up"), an applicative ~~(ADJ › OBJ)~~ ("two steps up") or an oblig­a­tory-loc­ation applicative ~~(PBJ › OBJ)~~ ("one step up"). In reverse, the demotion can be either a deobjective ~~(OBJ › Ø)~~ ("three steps down"), an antipassive ~~(OBJ › ADJ)~~ ("two steps down") or an oblig­a­tory-loc­ation antipassive ~~(OBJ › PBJ)~~ ("one step down"). Combining two of these leads to an overall assessment of the chained diathesis. This whole concept of chained demotions/promotions can be visualised by considering the top-right to bottom-left diagonal in [@fig:objectchains]. The top-right corner ~~(OBJ › OBJ › Ø)~~ is the most extreme demotion ("net four down") and the bottom-left corner ~~(Ø › OBJ › OBJ)~~ is the most extreme promotion ("net four up"). All other possibilities are situated somewhere in between these extremes on this diagonal.
 
-For example, consider again the diathesis from *schmieren* to *beschmieren*, repeated below in [@next]. It consist of a promotion from a prepositional phrase *auf die Wunde* to an accusative *die Wunde* and a demotion from an accusative *die Salbe* to a prepositional phrase *mit der Salbe*. The promotion starts from an obligatory location [@next a,b], i.e. this is an oblig­a­tory-loc­ational applicative ~~(PBJ › OBJ)~~. In contrast, the demotion ends in an optional instrumental phrase [@next c,d], i.e. this is an antipassive diathesis ~~(OBJ › ADJ)~~. Now, the antipassive demotion ("two steps down") is a bigger jump on the macrorole hierarchy than the oblig­a­tory-loc­ation promotion ("one step up"), so the whole object exchange ~~(PBJ › OBJ › ADJ)~~ is classified as a demotion, be it a minor one ("net one step down"). 
+For example, consider again the diathesis from *schmieren* to *beschmieren*, repeated below in [@next]. It consist of a promotion from a prepositional phrase *auf die Wunde* to an accusative *die Wunde* and a demotion from an accusative *eine Salbe* to a prepositional phrase *mit einer Salbe*. The promotion starts from an obligatory location [@next a,b], i.e. this is an oblig­a­tory-loc­ational applicative ~~(PBJ › OBJ)~~. In contrast, the demotion ends in an optional instrumental phrase [@next c,d], i.e. this is an antipassive diathesis ~~(OBJ › ADJ)~~. Now, the antipassive demotion ("two steps down") is a bigger jump on the macrorole hierarchy than the oblig­a­tory-loc­ation promotion ("one step up"), so the whole object exchange ~~(PBJ › OBJ › ADJ)~~ is classified as a demotion, be it a minor one ("net one step down"). 
 
 ::: ex
 ~~Demoted object exchange (PBJ › OBJ › ADJ)~~
 
-a. Ich schmiere die Salbe auf die Wunde.
-b. ^* Ich schmiere die Salbe.
-c. Ich beschmiere die Wunde mit Salbe.
+a. Ich schmiere eine Salbe auf die Wunde.
+b. ^* Ich schmiere eine Salbe.
+c. Ich beschmiere die Wunde mit einer Salbe.
 d. Ich beschmiere die Wunde.
 :::
 

@@ -1216,11 +1216,13 @@ c. Der Mann zeigte seine Wut.
 d. ^* Seine Wut zeigte sich durch den Mann.
 :::
 
-There is some discussion in the literature [@schafer2007: 35ff.; @kurogo2016] about the difference between verbs that use an unmarked anticausative, like *landen* 'to land' [@next], see [@sec:case-haben-anticausative], and those that take a reflexive anticausative, like *schließen* 'to close' as discussed in this section [@llast]. The answer to this question remains open, in my opinion. By providing long lists of verbs for each category, I hope to invigorate more research into this direction that goes beyond just incidental examples.
+There is some discussion in the literature [@schafer2007: 35ff.; @kurogo2016] about the difference between verbs that use an unmarked anticausative, like *landen* 'to land' [@next a], see [@sec:case-haben-anticausative], and those that take a reflexive anticausative, like *schließen* 'to close' as discussed in this section [@llast]. The answer to this question remains open, in my opinion. By providing long lists of verbs for each category, I hope to invigorate more research into this direction that goes beyond just incidental examples. Note that anticausative *schließen* without reflexive pronoun is also possible in specific contexts [@next b].
 
 ::: ex
-- Der Pilot landet das Flugzeug.
-- Das Flugzeug landet (*sich).
+- Der Pilot landet das Flugzeug. \
+  Das Flugzeug landet (*sich).
+- Aufgepasst, die Tür schließt! \
+  Der Laden schließt um zehn Uhr.
 :::
 
 #### Attested verbs {.unnumbered}
