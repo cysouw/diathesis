@@ -1372,19 +1372,9 @@ d. ^* Die Straße hat sich gezogen.
 - Er saugt den Rauch in seine Lunge. \
   Der Wein saugt sich in das Taschentuch.
 
-### ~~OBJ › SBJ › Ø~~ : [ NAp | –Np ] Reflexive anticausative+preposition {#sec:reflexive-anticausative-governed-preposition}
+### ~~OBJ › SBJ › Ø~~ : [ NAP | –NP ] Reflexive anticausative+governed preposition
 
-Verbs in this section, like *verbinden* 'to connect', allow for an anticausative diathesis [@next a,b]. However, they additionally need a prepositional phrase, either with *mit* or *von*. Some of these prepositional phrases are not governed, but can not (easily) be left out [@next c,d]. There is a close affinity with *miteinander* reciprocals [@next e], see [@sec:reflexive-preposition-reciprocal].
-
-::: ex
-a. Ich verbinde die Lampe mit dem Stromnetz. 
-b. Die Lampe verbindet sich nicht mit dem Stromnetz.
-c. ^* Ich verbinde die Lampe.
-d. ^* Die Lampe verbindet sich.
-c. Die Lampe und das Stromnetz verbinden sich nicht miteinander.
-:::
-
-Less widespread, some verbs with an accusative and a governed preposition, like *erinnern* 'to remind' [@next a] allow for an anticausative marked with a reflexive pronoun [@next b]. With these verbs the prepositions are governed prepositions [@next c]. 
+Some verbs with an accusative and a governed preposition, like *erinnern* 'to remind' [@next a] allow for an anticausative marked with a reflexive pronoun [@next b]. With these verbs the prepositions are governed prepositions [@next c]. 
 
 ::: ex
 a. Das Lied erinnert den Mann an den Krieg.
@@ -1394,11 +1384,35 @@ c. Der Mann erinnert sich daran, dass er einen Termin beim Arzt hat.
 
 #### Attested verbs {.unnumbered}
 
+- *an*  : *erinnern, gewöhnen*
+- *auf* : *gründen, lenken*
+
+#### Further examples {.unnumbered}
+
+- Ich habe die Kinder an Ordnung gewöhnt. \
+  Die Kinder haben sich an Ordnung gewöhnt.
+- Der Zeuge lenkt den Verdacht auf den Ehemann. \
+  Der Verdacht lenkte sich auf den Ehemann.
+- Er gründet seinen Verdacht auf belastende Aussagen. \
+  Sein Verdacht gründet sich auf belastende Aussagen.
+
+### ~~OBJ › SBJ › Ø~~ : [ NAp | –Np ] Reflexive anticausative+preposition {#sec:reflexive-anticausative-governed-preposition}
+
+Verbs in this section, like *verbinden* 'to connect', allow for an anticausative diathesis [@next a,b]. However, they additionally need a prepositional phrase, either with *mit* or *von*. These prepositional phrases are not governed, but can not (easily) be left out [@next c,d]. There is a close affinity with *miteinander* reciprocals [@next e], see [@sec:reflexive-preposition-reciprocal].
+
+::: ex
+a. Ich verbinde die Lampe mit dem Stromnetz. 
+b. Die Lampe verbindet sich nicht mit dem Stromnetz.
+c. ^* Ich verbinde die Lampe.
+d. ^* Die Lampe verbindet sich.
+c. Die Lampe und das Stromnetz verbinden sich nicht miteinander.
+:::
+
+#### Attested verbs {.unnumbered}
+
 - *mit* : *paaren, verbinden, vereinen, vermischen, versöhnen*
 - *mit/von* : *ernähren, nähren*
 - *von* : *trennen, unterscheiden*
-- *an*  : *erinnern, gewöhnen*
-- *auf* : *lenken*
 
 #### Further examples {.unnumbered}
 
@@ -1414,10 +1428,6 @@ c. Der Mann erinnert sich daran, dass er einen Termin beim Arzt hat.
   Karl verbindet sich mit Anna.
 - Seine Haarfarbe unterscheidet ihn von seinem Bruder. \
   Er unterscheidet sich von seinem Bruder (durch seine Haarfarbe).
-- Ich habe die Kinder an Ordnung gewöhnt. \
-  Die Kinder haben sich an Ordnung gewöhnt.
-- Der Zeuge lenkt den Verdacht auf den Ehemann. \
-  Der Verdacht lenkte sich auf den Ehemann.
 - Darwin paarte Finken mit Kanarienvögeln. \
   Finken paarten sich mit Kanarienvögeln.^[Plank [-@plank2006: 252].]
 

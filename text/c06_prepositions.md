@@ -294,7 +294,7 @@ Not all collocations of verbs with a preposition are governed phrases. For examp
 #### Attested verbs {.unnumbered}
 
 - an   : *appellieren*
-- auf  : *achten (aufpassen), bauen, bestehen, eingehen (auseinandersetzen), hinarbeiten, hinauslaufen, hoffen, kommen, vertrauen*
+- auf  : *achten (aufpassen), bauen, beharren, bestehen, eingehen (auseinandersetzen), hinarbeiten, hinauslaufen, hoffen, kommen, vertrauen, verweisen (hinweisen)*
 - aus  : *bestehen*
 - bei  : *bleiben*
 - für  : *sprechen*
@@ -317,6 +317,7 @@ Not all collocations of verbs with a preposition are governed phrases. For examp
 - Ich spiele mit dem Gedanken.
 - Sie bricht mit ihrer Familie.
 - Die Farbe passt zu dir.
+- Das Schild verweist auf den nächsten Parkplatz.
 - Wissenschaftler streben danach, dass ihre Forschungsresultate in einer der Bugatti-Zeitschriften erscheinen.^[~~DWDS~~: Die Zeit, 08.04.2009, Nr. 16.]
 
 #### Notes {.unnumbered}
@@ -882,7 +883,7 @@ b. Ich schieße auf den Bären.
 c. ^* Ich schieße darauf, dass der Bär kommt.
 :::
 
-There are just a few deobjective "drop"-alternations that are missing, and these missing alternations suggest an interesting generalisation. Missing are the alternations ~~[ NAP | N–P ]~~, ~~[ NPD | N–D ]~~ and (from the previous chapter) ~~[ NAD | N–D ]~~. These apparently dispreferred alternations suggest that a dative argument has to be dropped before a governed preposition can be dropped, and likewise, a governed preposition has to be dropped before an accusative argument can be dropped, i.e there is a deobjective hierarchy [@next a].
+There are just a few deobjective "drop"-alternations that are missing, and these missing alternations suggest an interesting generalisation. Missing (or very rare) are the alternations ~~[ NAP | N–P ]~~, ~~[ NPD | N–D ]~~ and (from the previous chapter) ~~[ NAD | N–D ]~~. These apparently dispreferred alternations suggest that a dative argument has to be dropped before a governed preposition can be dropped, and likewise, a governed preposition has to be dropped before an accusative argument can be dropped, i.e there is a deobjective hierarchy [@next a].
 
 ::: ex
 Deobjective hierarchy: dative › preposition › accusative
@@ -979,7 +980,7 @@ c. ^* Ich bereite auf die Klausur vor.
 - über : *behaupten, herrschen, erfahren*
 - an   : *bemerken, beteiligen, erkennen, hindern, rächen*
 - zu   : *treffen*
-- auf  : *vorbereiten*
+- auf  : *ansprechen, vorbereiten*
 - von  : *unterscheiden, verlangen*
 
 #### Further examples {.unnumbered}
@@ -995,6 +996,7 @@ c. ^* Ich bereite auf die Klausur vor.
 - Ich verlange Gehorsamkeit von dir.
 - Ich erfahre Neuigkeiten über die Versammlung.
 - Es herrscht Übereinstimmung über die Frage.
+- Man muss ihn nur darauf ansprechen, dass er nie einen Nummer-eins-Hit landen konnte.^[~~DWDS~~: Brenda Strohmaier: Gute Laune gehört zum Image. Berliner Zeitung, 07.06.2002.]
 
 ### ~~PBJ › Ø~~ : [ NL | N– ] Location preposition drop {#sec:prepositions-location-drop}
 
@@ -1053,6 +1055,21 @@ The verb *durchziehen* needs a location phrase when used in the meaning 'to pull
 
 ### ~~OBJ › Ø~~ : [ NAP | N–P ] Accusative drop+preposition
 
+With some verbs, like *hinweisen* 'draw attention to' [@next a], the accusative can be dropped [@next b], but the governed preposition cannot be left out [@next c]. Note that this verb is regularly attested in the passive with the accususative as nominative subject [@next d].
+
+::: ex
+- Ich habe dich auf die Gefahr hingewiesen.
+- Ich habe auf die Gefahr hingewiesen.
+- ^* Ich habe dich hingewiesen.
+- Der Antragsteller wird darauf hingewiesen, dass der Verdacht des Asylbetrugs im Raum steht.^[~~DWDS~~: Die Zeit, 27.11.2017, Nr. 48).]
+:::
+
+#### Attested verbs {.unnumbered}
+
+- auf : *hinweisen*
+
+### ~~OBJ › Ø~~ : [ NAP | N– – ] Accusative drop+preposition drop
+
 Different from the previous alternation, these verbs allow for both the preposition and the accusative to be dropped [@next a-c].
 
 ::: ex
@@ -1072,11 +1089,10 @@ c. Ich warne vor den Gefahren.
 - Ich informiere (die Anwesenden) über die Angelegenheit.
 - Ich erzähle (die Geschichte) über die Angelegenheit.
 - Ich schütze (die Menschheit) vor den Gefahren.
-- Ich warne (dich) vor den Gefahren.
 
 ### ~~OBJ › Ø~~ : [ NDP | N–P ] Dative drop+preposition
 
-With a dative argument, some verbs allow for the dative to be dropped, but the preposition to be retained [@next a–c]. This is the opposite structure as attested with accusative drop, as discussed above.
+With a dative argument, some verbs allow for the dative to be dropped, but the preposition to be retained [@next a–c].
 
 ::: ex
 a. Ich rate dir zum Verkauf.

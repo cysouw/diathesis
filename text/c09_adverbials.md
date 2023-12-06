@@ -475,9 +475,21 @@ b. ^* Ich halte viel.
 c. ^* Ich halte von dir.
 :::
 
+A similar case is the collocation *sich viel/nichts/etwas einbilden auf* 'to be proud of' [@next a]. The main verb is arguably *sich einbilden* 'imagine' [@next b], but both the meaning and the syntactic structure indicates that *einbilden auf* is a separate verb.
+
+::: ex
+- Er bildet sich viel ein auf seinen Erfolg.
+- Er bildet sich den Schmerz nur ein.
+:::
+
 #### Attested verbs {.unnumbered}
 
-- *halten*
+- *einbilden, halten*
+
+#### Further examples {.unnumbered}
+
+- Sie glauben, daß sich die Stewardessen den Hustenreiz nur einbilden.^[~~DWDS~~: Die Zeit, 03.06.1977, Nr. 23.] \
+  Der Westen bildet sich viel ein auf seine gemeinsamen Werte.^[~~DWDS~~: Die Zeit, 23.06.2013, Nr. 23.]
 
 ### [ NA ] Nominative+accusative+evaluative {#sec:adverbial-nominative-accusative}
 
