@@ -54,7 +54,9 @@ There are fifteen diatheses that seem prominent enough to be given a German name
 
 ### Identifying governed prepositions {#sec:prepositions-identifying-governed-prepositions}
 
-As a general rule (with only few exceptions, see below) I propose to define prepositional phrases as lexically governed arguments when they allow for a paraphrase of the form *da(r)-preposition, dass* ~~clause~~ [cf. @engelen1986: 110--112].^[There is an enormous literature in the German grammatical tradition dealing with the question which prepositional phrase are to be interpreted as so-called *Präpositionalobjekte* [see e.g. @hollein2019: 108-110 for a quick survey]. Instead of trying to account for all the possible arguments that might be used to decide this question, I have chosen to take a single criterion that seems to fit eerily well, and use this as a definition. My chosen definition is to some extent arbitrary, but it turns out to be very useful in practice.] For example, the verb *warten* 'to await' has a possible governed preposition *auf* designating the object that is waited for [@next a]. In this reading, [@next a] can be paraphrased by [@next b] with a *darauf, dass* subordinate clause. This combination *warten auf* can best be considered a fixed collocation, to be translated into English as 'waiting for'. However, the preposition *auf* can also have its adverbial local meaning 'on top of' [@next c]. This leads to another interpretation in which the prepositional phrase is not a governed preposition but an adverbial phrase with a local meaning, paraphrased in [@next d]. These two readings can even be combined [@next e], with an interesting difference in case marking between the two prepositional phrases.
+As a general rule (with only few exceptions, see below) I propose to define prepositional phrases as lexically governed arguments when they allow for a paraphrase of the form *da(r)-preposition, dass* ~~clause~~ [cf. @engelen1986: 110--112]. There is an enormous literature in the German grammatical tradition dealing with the question which prepositional phrase are to be interpreted as so-called *Präpositionalobjekte* [see e.g. @hollein2019: 108-110 for a quick survey]. Instead of trying to account for all the possible arguments that might be used to decide this question, I have chosen to take a single criterion that seems to fit eerily well, and use this criterion as a definition. My chosen definition is to some extent arbitrary, but it turns out to be very useful in practice.^[For example, testing the possibility of a *da(r)-preposition, dass* paraphrase with the many verbs discussed by Höllein [-@hollein2019: Ch. 5] works exceedingly well, though not all of his verbs allow for this paraphrase. Still, that chapter was a great resource of examples for this chapter.]
+
+For example, the verb *warten* 'to await' has a possible governed preposition *auf* designating the object that is waited for [@next a]. In this reading, [@next a] can be paraphrased by [@next b] with a *darauf, dass* subordinate clause. This combination *warten auf* can best be considered a fixed collocation, to be translated into English as 'waiting for'. However, the preposition *auf* can also have its adverbial local meaning 'on top of' [@next c]. This leads to another interpretation in which the prepositional phrase is not a governed preposition but an adverbial phrase with a local meaning, paraphrased in [@next d]. These two readings can even be combined [@next e], with an interesting difference in case marking between the two prepositional phrases.
 
 ::: ex
 a. Der König wartet auf seinen neuen Thron.
@@ -295,9 +297,9 @@ Not all collocations of verbs with a preposition are governed phrases. For examp
 
 - an   : *appellieren*
 - auf  : *achten (aufpassen), bauen, beharren, bestehen, eingehen (auseinandersetzen), hinarbeiten, hinauslaufen, hoffen, kommen, vertrauen, verweisen (hinweisen)*
-- aus  : *bestehen*
+- aus  : *bestehen, entstehen, folgen (hervorgehen), resultieren*
 - bei  : *bleiben*
-- für  : *sprechen*
+- für  : *ausreichen, demonstrieren, haften (aufkommen), plädieren, sprechen*
 - mit  : *brechen (sich abwenden), kämpfen, spielen*
 - nach : *streben*
 - über : *handeln*
@@ -318,7 +320,9 @@ Not all collocations of verbs with a preposition are governed phrases. For examp
 - Sie bricht mit ihrer Familie.
 - Die Farbe passt zu dir.
 - Das Schild verweist auf den nächsten Parkplatz.
+- Unser Verhalten folgt aus unserem Charakter.
 - Wissenschaftler streben danach, dass ihre Forschungsresultate in einer der Bugatti-Zeitschriften erscheinen.^[~~DWDS~~: Die Zeit, 08.04.2009, Nr. 16.]
+- Die Inszenierung entsteht daraus, dass wir miteinander fragen und nach Antworten suchen.^[~~DWDS~~: Die Zeit, 13.01.2011, Nr. 03.]
 
 #### Notes {.unnumbered}
 
@@ -342,6 +346,7 @@ Some verbs, like *erinnern* 'to remind' [@next], combine a governed preposition 
 #### Attested verbs {.unnumbered}
 
 - an   : *erinnern, festmachen (erkennen) gewöhnen, wenden*
+- auf  : *begründen*
 - über : *aufklären, unterrichten*
 - für  : *ausgeben (bezeichnen)*
 - mit  : *begründen*
@@ -356,7 +361,7 @@ Some verbs, like *erinnern* 'to remind' [@next], combine a governed preposition 
 - Die Zeitung unterrichtet die Leser über die neuesten Ereignisse.
 - Sie macht diese Behauptung daran fest, dass ihr Großvater Lehrer war.^[~~DWDS~~: Die Zeit, 13.03.2014, Nr. 11.]
 
-### [NL] Obligatory local preposition {#sec:prepositions-obligatory-local}
+### [ NL ] Obligatory local preposition {#sec:prepositions-obligatory-local}
 
 Some verbs appear to have an obligatory location argument, like *wohnen* 'to live' [@next], cf. also the examples in the classes "Extent" and "Location" in Gamerschlag [-@gamerschlag2014: 319--321].
 
@@ -367,7 +372,7 @@ Some verbs appear to have an obligatory location argument, like *wohnen* 'to liv
 
 #### Attested verbs {.unnumbered}
 
-- *entspringen, münden, sein (sich befinden), spielen (zutragen), wohnen, übernachten, zeigen*
+- *entspringen, hervorgehen, münden, sein (sich befinden), spielen (zutragen), wohnen, übernachten, zeigen*
 
 #### Further examples {.unnumbered}
 
@@ -376,8 +381,9 @@ Some verbs appear to have an obligatory location argument, like *wohnen* 'to liv
 - Der Rhein mündet in die Nordsee.
 - Der Film spielt in Italien.
 - Ich bin in der Küche.
+- Aus dieser Ehe sind zwei Kinder hervorgegangen.
 
-### [NAL] Obligatory local preposition+accusative {#sec:prepositions-obligatory-local-accusative}
+### [ NAL ] Obligatory local preposition+accusative {#sec:prepositions-obligatory-local-accusative}
 
 The most obvious verbs in this class are historical ablaut causatives like *legen* 'to lay, to put down' [@next b] of posture verbs like *liegen* 'to lie' [@next a]. More examples are attested with obligatory reflexive pronoun, see [@sec:reflexive-obligatory-local].
 
@@ -841,6 +847,22 @@ Vestiges of the old Germanic causative suffix *‑jan* can still be found in som
 
 - Das Pferd schwimmt im Fluss. \
   Er schwemmte die Pferde im Fluss.^[Attested on <https://www.dwds.de/wb/schwemmen>, accessed 23 April 2022. This usage appears to be old-fashioned.]
+
+### ~~Ø › SBJ › OBJ~~ : [ –NP | NAP ] *sein* Causative+governed preposition
+
+The same causative alternation is also attested with verbs that have a governed preposition, like *basieren auf* 'to be based on' [@next a]. This verb can also be used with a causer [@next b]. The preposition *auf* is a governed preposition [@next c].
+
+::: ex
+- Der Vorwurf basiert auf einer gründlichen Analyse. \
+  Der Vorwurf ist auf einer gründlichen Analyse basiert.
+- Er basiert seinen Vorwurf auf einer gründlichen Analyse. \
+  Er hat seinen Vorwurf auf einer gründlichen Analyse basiert.
+- Er basiert seinen Vorwurf darauf, dass alles schief läuft.
+:::
+
+#### Attested verbs {.unnumbered}
+
+- *basieren*
 
 ### ~~Ø › SBJ › PBJ~~ : [ –NA | NPA ] Excitatory causative {#sec:prepositions-excitatory-causative}
 

@@ -802,7 +802,7 @@ In contrast, other examples of multifunctional noun/verb stems in German do not 
 #### Attested verbs {.unnumbered}
 
 - Causative (activity described by verb causes noun to be applied to object): *Fett/fetten, Kalk/kalken, Öl/ölen, Pfeffer/pfeffern, Salz/salzen, Schmuck/schmücken,  Wasser/wassern, Würze/würzen, Zucker/zuckern*
-- Non-causative (noun is result of activity described by verb): *Angriff/angreifen, Antwort/antworten, Blick/blicken, Bau/bauen, Druck/drücken, Fall/fallen, Gang/gehen, Gauner/gaunern, Griff/greifen, Hunger/hungern, Kauf/kaufen, Lauf/laufen, Löffel/löffeln, Reise/reisen, Spiel/spielen, Sprung/springen, Tanz/tanzen, Thron/thronen, Wurf/werfen, Zauber/zaubern*
+- Non-causative (noun is result of activity described by verb): *Angriff/angreifen, Antwort/antworten, Blick/blicken, Bau/bauen, Druck/drücken, Fall/fallen, Fuß/fußen, Gang/gehen, Gauner/gaunern, Griff/greifen, Hunger/hungern, Kauf/kaufen, Lauf/laufen, Löffel/löffeln, Reise/reisen, Spiel/spielen, Sprung/springen, Tanz/tanzen, Thron/thronen, Wurf/werfen, Zauber/zaubern*
 
 ### ~~OBJ › SBJ~~ : [ A | N ] Accusative-to-nominative promotion
 

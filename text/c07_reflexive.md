@@ -182,7 +182,7 @@ Various verbs describing behaviour, like *verirren* 'to get lost' [@next a], nee
 
 #### Attested verbs {.unnumbered}
 
-- Behaviour: *abmühen, abrackern, abstrampeln, aufführen, aufrappeln, beeilen, benehmen, betrinken, besaufen, bücken, daranmachen, davonstehlen, durchlavieren, durchmogeln, durchwursteln, echauffieren, einigeln, engagieren, erhängen, ermannen, fortbilden, gedulden, herausreden, hervortun, hinauswagen, sputen*
+- Behaviour: *abmühen, abrackern, abstrampeln, aufführen, aufrappeln, beeilen, benehmen, betrinken, besaufen, bücken, daranmachen, davonstehlen, durchlavieren, durchmogeln, durchwursteln, echauffieren, einigeln, erhängen, ermannen, fortbilden, gedulden, herausreden, hervortun, hinauswagen, sputen*
 - (Erratic) behaviour with *ver-*: *verfahren, verhalten, verhaspeln, verirren, verkalkulieren, verlaufen, verplappern, verschreiben (falsch schreiben), verspäten, verspekulieren, versprechen (falsch sprechen), verrennen, vertun, verwählen, verzählen*
 - Bodily process: *akklimatisieren, erkälten, räuspern, verkühlen, übergeben, wohlfühlen*
 - Natural process: *abregnen, anfinden, bauchen, behaaren, bewahrheiten, bewölken, eintrüben, entspinnen, ereignen, herauskristallisieren, jähren, rentieren, verästeln, verfärben, verpuppen, verzweigen, zutragen*
@@ -210,7 +210,7 @@ b. Ich entschließe mich dazu, eine Reise zu machen.
 - an    : *anpirschen, anschmiegen, beteiligen, festbeißen, halten, orientieren, vergreifen*
 - auf   : *bewerben, beziehen, einlassen (beginnen), gründen, konzentrieren, verlassen (vertrauen), verstehen (auskennen), spezialisieren*
 - durch : *äussern*
-- für   : *aussprechen, bedanken, eignen, entschuldigen, revanchieren, schämen*
+- für   : *aussprechen, bedanken, eignen, engagieren, entschuldigen, qualifizieren (Sport), revanchieren, rüsten, schämen*
 - gegen : *sträuben, verschwören*
 - in    : *einfühlen, einhören, einkuscheln, einleben, einlesen, fügen, hineindenken, hineinversetzen, schicken (fügen), vergucken, verlieben, versuchen*
 - mit   : *abfinden, abgeben, abmühen, abquälen, auskennen, beeilen, befassen, begnügen, behelfen, beschäftigen, schwertun, zufriedengeben*
@@ -240,6 +240,7 @@ b. Ich entschließe mich dazu, eine Reise zu machen.
 - Sie versteht sich auf schicke Kleidung.
 - Sie haben sich auf Unterhandlungen eingelassen.
 - Erst auf Medienanfragen bequemte sie sich zu einer Antwort.^[~~DWDS~~: Die Zeit, 17.11.2010, Nr. 46.]
+- [Die Metropole] rüstet sich dafür, eine schöne alte Stadt unter der Käseglocke zu werden.^[~~DWDS~~: Die Zeit, 25.11.2004, Nr. 49.]
 
 #### Notes {.unnumbered}
 
@@ -1359,7 +1360,7 @@ d. ^* Die Straße hat sich gezogen.
 
 #### Attested verbs {.unnumbered}
 
-- *bohren, eingraben, gliedern, häufen, saugen, ziehen*
+- *bohren, eingraben, gliedern, häufen, rekrutieren, saugen, ziehen*
 
 #### Further examples {.unnumbered}
 
@@ -1373,6 +1374,8 @@ d. ^* Die Straße hat sich gezogen.
   Das Buch gliedert sich in drei Kapitel.
 - Er saugt den Rauch in seine Lunge. \
   Der Wein saugt sich in das Taschentuch.
+- Er rekrutiert Mitglieder aus allen Teilen der Gesellschaft. \
+  Die Mitglieder rekrutieren sich aus allen Teilen der Gesellschaft.
 
 ### ~~OBJ › SBJ › Ø~~ : [ NAP | –NP ] Reflexive anticausative+governed preposition
 
@@ -1386,8 +1389,9 @@ c. Der Mann erinnert sich daran, dass er einen Termin beim Arzt hat.
 
 #### Attested verbs {.unnumbered}
 
-- *an*  : *erinnern, gewöhnen*
-- *auf* : *gründen, lenken*
+- an  : *erinnern, gewöhnen*
+- auf : *gründen, lenken*
+- aus : *ableiten*
 
 #### Further examples {.unnumbered}
 
@@ -1397,6 +1401,8 @@ c. Der Mann erinnert sich daran, dass er einen Termin beim Arzt hat.
   Der Verdacht lenkte sich auf den Ehemann.
 - Er gründet seinen Verdacht auf belastende Aussagen. \
   Sein Verdacht gründet sich auf belastende Aussagen.
+- Den Verdacht leiten die Ermittler daraus ab, dass Zurheide [… das Wort] benutzt hatte.^[~~DWDS~~: Der Tagesspiegel, 13.03.2004.] \
+  Der Verdacht leitet sich aus seinen Äusserungen ab.
 
 ### ~~OBJ › SBJ › Ø~~ : [ NAp | –Np ] Reflexive anticausative+preposition {#sec:reflexive-anticausative-governed-preposition}
 
@@ -1483,7 +1489,7 @@ The verbs with a *für* alternation, like *interessieren* 'to be interested in' 
   - über  : *amüsieren, aufregen, ärgern, begeistern, beschweren, beunruhigen, empören, entsetzen, erschrecken, erstaunen, erzürnen, freuen, grämen, wundern*
 - Other verbs:
   - auf   : *stützen*
-  - aus   : *bilden, entwickeln, ergeben, speisen*
+  - aus   : *bilden, entwickeln, ergeben, erklären, speisen*
   - durch : *auszeichnen, entspannen, lösen, mildern, verraten*
   - in    : *spiegeln, widerspiegeln*
   - mit   : *aufhalten, beschäftigen, schmücken, überlagern*
@@ -1565,6 +1571,8 @@ The verbs with a *für* alternation, like *interessieren* 'to be interested in' 
   Seine Macht speist sich daraus, dass er Dinge erledigt.
 - Der Stock stützt die Decke. \
   Der Verletzte stützt sich auf den Stock.
+- Die hohen Unkosten erklären das Defizit. \
+  Das Defizit erklärt sich aus den hohen Unkosten.
 
 #### Notes {.unnumbered}
 
