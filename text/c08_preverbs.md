@@ -57,15 +57,21 @@ The following elements can only be used as ~~verb prefixes~~ in German [see @los
 - *missˈ-*, originally meaning 'missing', still transparently cognate with modern German verb root *(ver)miss(en)*
 - *widerˈ-*, originally meaning 'against', still transparently cognate with modern German *wieder*
 
-The prefix *geˈ‑* only occurs in completely grammaticalised combinations, i.e. there are no verbs (anymore) in which the root is still transparently related to the *geˈ‑* prefixed wordform (cf. [@sec:intro-lexical-meanings]). Pairs like *bieten* 'to offer' and *gebieten* 'to order' are thus simply treated here as two completely separate lexemes, and will consequently not occur among any of the diatheses discussed below (examples in [@sec:preverb-deponent]). In contrast, the addition of the prefix *missˈ‑* is always completely transparent and never results in a diathesis, e.g. *achten* 'to respect' and *missachten* 'to disrespect' (examples in [@sec:preverb-intranstive-without-diathesis; @sec:preverb-transitive-without-diathesis]). The prefix *widerˈ‑* only occurs in a few fixed combinations (see [@sec:preverb-dative-applicative]). That leaves the prefixes *beˈ-, erˈ-, verˈ-, zerˈ‑* and *entˈ-*, and these all occur frequently. They induce various diathesis as discussed throughout this chapter and they do not appear to have any preference for a special kind of diathesis.
+The prefix *geˈ‑* only occurs in completely grammaticalised combinations, i.e. there are no verbs (anymore) in which the root is still transparently related to the *geˈ‑* prefixed wordform (cf. [@sec:intro-lexical-meanings]). Pairs like *bieten* 'to offer' and *gebieten* 'to order' are thus simply treated here as two completely separate lexemes, and will consequently not occur among any of the diatheses discussed below (examples in [@sec:preverb-deponent]). 
+
+In contrast, the addition of the prefix *missˈ‑* is always completely transparent and never results in a diathesis, e.g. *achten* 'to respect' and *missachten* 'to disrespect' (examples in [@sec:preverb-intranstive-without-diathesis; @sec:preverb-transitive-without-diathesis]). 
+
+The prefix *widerˈ‑* only occurs in a few fixed combinations (see [@sec:preverb-dative-applicative]). Note that there are also a few verbs that are orthographically written in German as *wider‑*, but that are stressed on the first syllable and  are separable. It might be more consistent to write these as *wieder‑* (see [@sec:adverbial-directionals]). This occurs with verbs related to the distribution of sound and light, namely *widerhallen, widerklingen, widerschallen, widerscheinen* and *widerspiegeln*, while *widerstrahlen* seems to allow both stress patterns. The addition of *wider‑* in these verbs does not induce any diathesis.
+
+That leaves the prefixes *beˈ‑, erˈ‑, verˈ‑, zerˈ‑* and *entˈ‑*, and these all occur frequently. They induce various diathesis as discussed throughout this chapter and they do not appear to have any preference for a special kind of diathesis. The prefix *empˈ‑* is an allomorph of *entˈ‑*, attested with a small group of verb starting with /f/, namely *empfangen, empfehlen* and *empfinden*.
 
 Turning now to the ~~verb particles~~, the following prepositions can be used as preverbs:
 
 - The four prepositions *durch, über, um* and *unter* can be used both as verb prefixes and as verb particles leading to diathesis.
 - The nine prepositions *ab, an, auf, aus, bei, in (=ein), nach, vor* and *zu* are frequently used as verb particles leading to diathesis.
 - The preposition *mit* only occurs as a verb particle in completely transparent derivation that never result in a diathesis, e.g. *arbeiten* 'to work' becomes comitative *mitarbeiten* 'to work along' (see [@sec:preverb-intranstive-without-diathesis; @sec:preverb-transitive-without-diathesis]).
-- A few polysyllabic prepositions are used sporadically as verb particles, namely *entlang, hinter, neben* and *zwischen*. There are also a few preverbs that are combinations of two preverbs, namely *entgegen, gegenüber, voran, vorab, vorbei* and *vorüber*. Verbs with these preverbs have not (yet) been included here. 
-- Crucially, the remaining prepositions are never used as verb particles with a verb root, namely *außer, bis, für, gegen, ohne, seit* and *von*. There exist only incidental examples like *fürsprechen* or *gegensteuern*. It is unclear to me whether there is any deeper reason for the absence of such derivations.
+- A few polysyllabic prepositions are used sporadically as verb particles, namely *entlang, gegen, hinter, neben* and *zwischen*. There are also a few preverbs that are combinations of two preverbs, namely *entgegen, gegenüber, voran, vorab, vorbei, vorüber* and *zuvor*. Verbs with these preverbs have not (yet) been included here. 
+- Crucially, the remaining prepositions are never used as verb particles with a verb root, namely *außer, bis, für, ohne, seit* and *von*. There exist only incidental examples like *fürsprechen*. It is unclear to me whether there is any deeper reason for the absence of such derivations.
 
 The two main groups of prepositional preverbs that are involved in diathesis show an intriguing semantic structure. Note that this semantic structure involves their prepositional meaning, not their function as preverbs:
 
@@ -2275,13 +2281,16 @@ b. Er droht mir die Entlassung an.
 
 #### Attested verbs {.unnumbered}
 
-- verˈ- : *danken*
-- ˈan-  : *drohen* 
+- verˈ-   : *danken*
+- widerˈ- : *raten*
+- ˈan-    : *drohen* 
 
 #### Further examples {.unnumbered}
 
 - Ich danke dir für deinen Einsatz. \
   Ich verdanke dir mein Leben. 
+- Ich rate dir zu der Reise. \
+  Ich widerrate dir die Reise.
 
 ### ~~PBJ › OBJ~~ : [ NAP | NDA ] Preverb governed applicative+case change {#sec:preverb-applicative-accusative-to-dative}
 
@@ -2316,7 +2325,7 @@ The following applicatives turn a prepositional phrase into a dative. For exampl
 
 - erˈ-    : *mangeln*
 - entˈ-   : *eilen, fliegen, fliehen, fließen, gehen, gleiten, kommen, laufen, springen, sprießen, steigen, stammen, strömen, wachsen, weichen*
-- widerˈ- : *reden, rufen, sprechen, stehen, streben, streiten*
+- widerˈ- : *fahren, reden, rufen, sprechen, stehen, streben, streiten*
 - ˈan-    : *hängen (gehangen)*
 - ˈnach-  : *fahren, gehen, hinken, laufen, reiten, rennen, schwimmen, rufen, schreien, schauen, sehen, weinen*
 - ˈzu-    : *arbeiten, hören, lachen, lächeln, laufen, nicken, prosten, reden, sich wenden, schauen, trinken, winken, zwinkern*
@@ -2360,6 +2369,15 @@ The following applicatives turn a prepositional phrase into a dative. For exampl
   Diese Beobachtung widerspricht der Theorie.
 - Er strebt nach Ruhm. \
   Er widerstrebt den Anweisungen.
+
+#### Notes {.unnumbered}
+
+The verb *widerfahren* 'to befall' [@next a] shows the same nominative+dative structure, but it is not very transparently related to *fahren* [@next b].
+
+::: ex
+- Ihm widerfährt ein Unrecht.
+- ^^?^ Ein Unrecht fährt über ihm.
+:::
 
 ### ~~ADJ › OBJ~~ : [ NAp | NAD ] Preverb dative applicative+accusative {#sec:preverb-dative-applicative-accusative}
 
