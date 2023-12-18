@@ -191,7 +191,7 @@ There are some examples for which an intermediate verb exists. For example, the 
 - Er giftet lauthals gegen die feindliche Übernahme.
 :::
 
-Finally, there are a few incidental examples of preverbs added to a prepositional root, but they will not further be discussed here (e.g. *begegnen* 'to meet' from *gegen* 'against', *erobern* 'to conquer' from *ober‑* 'higher up', or *erwidern* 'to reply' from *wider* 'against').
+Finally, there are a few examples of preverbs added to a prepositional root, but they will not further be discussed here, namely *begegnen* 'to meet' from *gegen* 'against', *erobern* 'to conquer' from *ober‑* 'higher up', *erstatten* 'to reimburse' from *statt* 'instead' and *erwidern* 'to reply' from *wider* 'against'.
 
 ## Deponent verbs {#sec:preverb-deponent}
 
@@ -202,7 +202,7 @@ a. Ich grabe ein Loch (für meinen Hund).
 b. Ich begrabe meinen Hund (in einem Loch).
 :::
 
-It is common that such diachronic developments lead to pairs of verbs that semantically are not related anymore [@next]. In the extreme case, the original root of the preverbal verb does not exist (anymore) in contemporary German [@nnext].^[There are two verbs that are based on a prepositional root, namely *begegenen* 'to meet' from *gegen* 'against' and *erstatten* 'to reimburse' from *statt* 'instead'. These derivations are somewhat transparent, but they are still listed here as exceptional cases.]
+It is common that such diachronic developments lead to pairs of verbs that semantically are not related anymore [@next]. In the extreme case, the original root of the preverbal verb does not exist (anymore) in contemporary German [@nnext].
 
 ::: ex
 Preverbal verbs with existing roots (both verbal and non-verbal), but without transparent semantic relationship to this root
@@ -219,7 +219,7 @@ Preverbal verbs with existing roots (both verbal and non-verbal), but without tr
 ::: ex
 Preverbal verbs with non-existing verbal roots in contemporary German
 
-- *gebären, gebieten, gebühren, gedeihen, gelingen, genesen, geschehen, gewähren, gewinnen, gewöhnen*
+- *gebären, gebühren, gedeihen, gelingen, genesen, geschehen, gewähren, gewinnen, gewöhnen*
 - *beginnen, bescheren, beschäftigen, beteiligen, bezichtigen*
 - *erbarmen, ergattern, erinnern, erklimmen, erkunden, erlauben, erläutern, erledigen, ersticken*
 - *verabreden, vergessen, verletzen, verlieren, vermuten, verzeihen*
