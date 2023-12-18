@@ -784,25 +784,28 @@ b. Ich schwärze den Text.
 
 The adjectives *billig* 'cheap' and *still* 'silent' are clearly related to the verbs *billigen* 'to approve' and *stillen* 'to nurse', respectively. However, the semantic drift from a pure causative is substantial in these cases.
 
-The adjectives *fett* 'fat' and *schmuck* 'pretty' are clearly related to the nouns *Fett* 'fat' and *Schmuck* 'jewelry', respectively. Probably the causative verbs *fetten* and *schmücken* are related to the noun, and not directly to the adjective (see [@sec:case-nominal-causative])
+The adjectives *fett* 'fat' and *schmuck* 'pretty' are clearly related to the nouns *Fett* 'fat' and *Schmuck* 'jewelry', respectively. Probably the verbs *fetten* and *schmücken* are related to the noun, and not directly to the adjective.
+
+<!---
 
 ### ~~Ø › SBJ › OBJ~~ : [ –N | NA ] Nominal causative {#sec:case-nominal-causative}
 
-A few lexical stems in German are both nominal and verbal, like *das Fett* 'the fat' and *fetten* 'to grease'. Compared to English, this flexibility is much less common in German, but there exist various examples. There are two different kinds of such multifunctional noun/verb stems in German. The example of *Fett/fetten* illustrates a verb that described a situation in which an agent applies the noun to an object [@next a]. This is alike to the previous causative diatheses. There exist more such example with an additional preverb, as discussed in [@sec:preverb-nominal-causative].
+A few lexical stems in German are both nominal and verbal, like *das Fett* 'the fat' and *fetten* 'to grease'. Compared to English, this flexibility is much less common in German, but there exist various examples. There are various different kinds of such multifunctional noun/verb stems in German. The example of *Fett/fetten* illustrates a verb that described a situation in which an agent applies the noun to an object [@next a]. This is alike to the previous causative diatheses. There exist more such example with an additional preverb, as discussed in [@sec:preverb-nominal-causative].
 
 In contrast, other examples of multifunctional noun/verb stems in German do not have such a causative interpretation. For example, the noun *die Reise* 'the trip' and the verb *reisen* 'to travel' are obviously the same stem. However, in this example, the noun is the result of the action as described by the verb [@next b]. There is no causative diathesis in these cases.
 
 ::: ex
 - Er fettet seine Schuhe. \
-  Es ist Fett auf den Schuhen.
+  Er macht Fett auf seinen Schuhen.
 - Er reist nach Leipzig. \
   Die Reise führt ihn nach Leipzig.
 :::
 
 #### Attested verbs {.unnumbered}
 
-- Causative (activity described by verb causes noun to be applied to object): *Fett/fetten, Kalk/kalken, Öl/ölen, Pfeffer/pfeffern, Salz/salzen, Schmuck/schmücken,  Wasser/wassern, Würze/würzen, Zucker/zuckern*
-- Non-causative (noun is result of activity described by verb): *Angriff/angreifen, Antwort/antworten, Blick/blicken, Bau/bauen, Druck/drücken, Fall/fallen, Fuß/fußen, Gang/gehen, Gauner/gaunern, Griff/greifen, Hunger/hungern, Kauf/kaufen, Lauf/laufen, Löffel/löffeln, Reise/reisen, Spiel/spielen, Sprung/springen, Tanz/tanzen, Thron/thronen, Wurf/werfen, Zauber/zaubern*
+- Causative (activity described by verb causes entity described by noun to be applied to the accusative object): *Fett/fetten, Kalk/kalken, Öl/ölen, Pfeffer/pfeffern, Rauch/räuchern, Salz/salzen, Schmuck/schmücken,  Wasser/wassern, Würze/würzen, Zucker/zuckern*
+
+-->
 
 ### ~~OBJ › SBJ~~ : [ A | N ] Accusative-to-nominative promotion
 

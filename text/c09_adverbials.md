@@ -139,11 +139,11 @@ The thirteen ~~directionals~~ in [@next] have a special status in German grammar
 Directionals
 
 - *hin/her‑*
+- *hier/da(r)‑*
 - *weg/zurück‑*
 - *fort/heim‑*
 - *hoch/empor/nieder‑*
-- *da(r)/wieder‑*
-- *zusammen/auseinander‑*
+- *wieder/zusammen‑*
 :::
 
 These directionals are frequently used as preverbials with a wide range of semantic interpretations and diathetical remappings. The detailed survey of their syntax is left for future research. As preverbials they are typically used in a delocative diathesis, replacing a locative phrase [@next].
@@ -163,16 +163,16 @@ These directionals are frequently used as preverbials with a wide range of seman
   Ich fege die Scherben zusammen/auseinander.
 :::
 
-The directionals *hin‑* and *her‑* are frequently combined with local prepositions, mostly as prefixes (except for *nebenher‑*, *hinterher‑* and *vorher‑*). In colloquial usage the first syllables are often dropped and with *her‑* this drop is also sometimes acceptable in written German. There are some interesting differences as to which prepositions are combined with *hin‑* and which with *her‑* [@next], but I will not further delve into these differences here.
+The directionals *hin‑* and *her‑* are frequently combined with local prepositions, mostly as prefixes (except for *nebenher‑*, *hinterher‑*, *einher‑*, *vorher‑* and *umher/umhin‑*). In colloquial usage the first syllables are often dropped and with *her‑* this drop is also sometimes acceptable in written German. There are some interesting differences as to which prepositions are combined with *hin‑* and which with *her‑* [@next], but I will not further delve into these differences here.
 
 ::: ex
 Attested combinations of *her/hin* with prepositions:
 
 - both with *hin‑* and *her‑*: \
-  *herab/(he)rauf‑, (he)raus/(he)rein‑, (he)rüber/(he)runter‑* \
-  *hinab/hinauf‑, hinaus/hinein‑, hinüber/hinunter‑* 
+  *herab‑, (he)rauf‑, (he)raus‑, (he)rein‑, (he)rüber‑, (he)runter‑, umher‑*  \
+  *hinab‑,hinauf‑, hinaus‑, hinein‑, hinüber‑, hinunter‑, umhin‑* 
 - only with *her*: \
-  *(he)ran‑, herbei‑, (he)rum‑, hervor‑, nebenher‑, hinterher‑*
+  *(he)ran‑, herbei‑, (he)rum‑, hervor‑, nebenher‑, hinterher‑, *einher‑, *vorher‑*
 - only with *hin‑*: \
   *hindurch‑, hinzu‑*
 :::
