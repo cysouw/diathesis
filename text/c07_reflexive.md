@@ -142,7 +142,7 @@ c. Sie will sich sich selbst erklären.
 
 ## Deponent verbs {#sec:reflexive-deponent}
 
-A small group of verbs obligatorily needs a reflexive pronoun coreferencing the nominative subject. My best guess is that such verbs originally also allowed constructions without this obligatory coreferencing *sich* pronoun, but for some reason that usage without *sich* got out-of-use. In various cases this ongoing development can be observed in current German. For example, coreferent usage with *bemühen* 'to bother' [@next a] or *beziehen* 'to relate to' [@nnext a] appear to be more frequent compared to their non-coreferencing usage in [@next b,c] and [@nnext b], respectively.
+An surprisingly large group of verbs obligatorily needs a reflexive pronoun coreferencing the nominative subject. My best guess is that such verbs originally also allowed constructions without this obligatory coreferencing *sich* pronoun, but for some reason that usage without *sich* got out-of-use. In various cases this ongoing development can be observed in current German. For example, coreferent usage with *bemühen* 'to bother' [@next a] or *beziehen* 'to relate to' [@nnext a] appear to be more frequent compared to their non-coreferencing usage in [@next b,c] and [@nnext b], respectively.
 
 ::: ex
 a. Ich bemühe mich.
@@ -311,7 +311,7 @@ There are many verbs with the prefix *ver‑* in this class. Interestingly, many
 
 Various reciprocal *mit* verbs also exist without reflexive pronoun, but only in a different lexical meaning, e.g. *vertragen* means 'to tolerate something inanimate' without a reflexive pronoun, but 'to get along with a human' with a reflexive pronoun.
 
-### [NL] Accusative reflexive+local preposition {#sec:reflexive-obligatory-local}
+### [ NL ] Accusative reflexive+local preposition {#sec:reflexive-obligatory-local}
 
 A few verbs with obligatory *sich* additionally need an obligatory local prepositional phrase, like *sich befinden* 'to be located' [@next].
 
@@ -322,7 +322,7 @@ b. ^* Das Rathaus befindet sich.
 
 #### Attested verbs {.unnumbered}
 
-- *aalen, ansiedeln, anstellen, aufhalten (befinden), befinden, begeben, einfressen, einschleichen, ergießen, fläzen, fressen, niederlassen, scheren, suhlen, umsehen, verkriechen, verschanzen, zubewegen, zurechtfinden*
+- *aalen, ansiedeln, anstellen, aufhalten (befinden), befinden, begeben, einfressen, einschleichen, ergießen, fläzen, niederlassen, scheren, suhlen, umsehen, verkriechen, verschanzen, zubewegen, zurechtfinden*
 
 #### Further examples {.unnumbered}
 
@@ -330,7 +330,6 @@ b. ^* Das Rathaus befindet sich.
 - Ich aale mich in der Sonne.
 - Der Schmutz hatte sich tief in die bröckligen Wände eingefressen.
 - Er schert sich nach Hause.
-- Die Reifen fressen sich in den Schnee.
 
 #### Notes {.unnumbered}
 
