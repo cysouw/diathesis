@@ -1860,7 +1860,7 @@ A very similar, but crucially different diathesis exists with other non-movement
 
 #### Attested verbs {.unnumbered}
 
-- Movement verbs: *fahren, fliegen, hüpfen, klettern, kriechen, laufen, reisen, reiten, rennen, rutschen, schleichen, schlingern, schwanken, schweben, schwimmen, segeln, stampfen, tanzen, wackeln, wandern*, etc.
+- Movement verbs: *fahren, fliegen, hüpfen, klettern, kriechen, laufen, reisen, reiten, rennen, rauschen, rutschen, schleichen, schlingern, schwanken, schweben, schwimmen, segeln, stampfen, tanzen, wackeln, wandern*, etc.
 - Atypical movement verbs: *einbrechen, irren, triefen*
 
 #### Further examples {.unnumbered}
@@ -1873,6 +1873,8 @@ A very similar, but crucially different diathesis exists with other non-movement
   Die Diebe sind in den Tresor eingebrochen.
 - Ich habe (mich) geirrt. \
   Ich bin durch die dunkele Wohnung geirrt.
+- Die Bäume haben im Wind gerauscht. \
+  Das Wasser ist in die Wanne gerauscht.
 
 ### ~~Ø › PBJ~~ : [ – – | NL ] Weather-like manner of movement {#sec:prepositions-weather-manner-movement}
 
