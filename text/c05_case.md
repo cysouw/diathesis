@@ -777,8 +777,8 @@ b. Ich schwärze den Text.
 
 #### Attested verbs {.unnumbered}
 
-- Without Umlaut: *billig/billigen, bleich/bleichen, dicht/dichten, fett/fetten, feucht/feuchten, gleich/gleichen, heil/heilen, irr/irren, kühl/kühlen, leer/leeren, lieb/lieben, locker/lockern, reif/reifen, rund/runden, sauber/saubern, schnell/schnellen, sicher/sichern, spitz/spitzen, still/stillen, straff/straffen, süß/süßen, trocken/trocknen, trüb/trüben, weiß/weißen*
-- With Umlaut: *ander/ändern, voll/füllen, glatt/glätten, hart/härten, kurz/kürzen, offen/öffnen, scharf/schärfen, schmuck/schmücken, schwarz/schwärzen, warm/wärmen, zahm/zähmen*
+- No added Umlaut: *bang/bangen, billig/billigen, bleich/bleichen, dicht/dichten, faul/faulen, fertig/fertigen, fett/fetten, feucht/feuchten, gar/garen, gleich/gleichen, heil/heilen, irr/irren, kühl/kühlen, lang/langen, leer/leeren, lieb/lieben, locker/lockern, mäßig/mäßigen, muff/muffen, reif/reifen, rund/runden, sauber/saubern, schnell/schnellen, sicher/sichern, spitz/spitzen, still/stillen, straff/straffen, süß/süßen, trocken/trocknen, trüb/trüben, weiß/weißen*
+- With added Umlaut: *ander/ändern, braun/bräunen, voll/füllen, gar/gären, glatt/glätten, hart/härten, kurz/kürzen, lahm/lähmen, nass/nässen, offen/öffnen, platt/plätten, sauber/säubern, scharf/schärfen, schmuck/schmücken, schwarz/schwärzen, warm/wärmen, zahm/zähmen*
 
 #### Notes {.unnumbered}
 

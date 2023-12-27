@@ -336,7 +336,8 @@ There is a recurring question whether these verbs are directly derived from an a
 
 #### Attested verbs {.unnumbered}
 
-- erˈ-  : *rot, krank, wach*
+- erˈ-  : *blass, blind, blond, grau, krank, rot, wach*
+- verˈ- : *arm, blass, blöd, westlich*
 - ˈab-  : *kühl, mager*
 
 #### Further examples {.unnumbered}
@@ -350,6 +351,9 @@ There is a recurring question whether these verbs are directly derived from an a
 - Der Junge ist krank. \
   Der Junge erkrankt. \
   Der kranke/erkrankte Junge […].
+- Shreyas Rajagopal ist westlich bis unter die Haarspitzen.^[~~DWDS~~: Die Zeit, 01.10.2014, Nr. 41.] \
+  Er ist verwestlicht. \
+  Der westliche/verwestlichte Mann […].
 
 ### [ NA | NA ] Preverb transitives without diathesis {#sec:preverb-transitive-without-diathesis}
 
@@ -683,14 +687,14 @@ b. Ich begrüne den Balkon.
 c. Die Rasenstücke […] waren angewachsen und grünten lustig.^[From Viebig, Clara: Das tägliche Brot. (Berlin 1952). Attested on <https://www.dwds.de/wb/grünen>, accessed 5 August 2022.]
 :::
 
-With a few adjectives, the causer can be expressed with a regular agentive *durch* or *von* prepositional phrase in the intransitive alternant. This sounds most natural with inanimate causers [@next]. See also [@sec:preverb-inverted-passives] on inverted passives.
+With a few adjectives, the causer can be expressed with a regular agentive *durch* or *von* prepositional phrase in the intransitive alternant. This sounds most natural with inanimate causers [@next], see also [@sec:preverb-inverted-passives] on inverted passives.
 
 ::: ex
 a. Er ist matt vom Sport.
 b. Der Sport ermattet ihn.
 :::
 
-With some verbs the causative also needs an umlaut [cf. @plank2015], e.g. with *kurz* 'short' and *verkürzen* 'to shorten' [@next a,b]. This might be an argument that the preverbal *verkürzen* is derived via the intermediate verb *kürzen*. Conversely, sometimes an umlaut is lost in the causative, e.g. with *böse* 'angry' and *erbosen* 'to make angry' [@next c,d]. For more examples of umlaut with verb-to-adjective derivation, see [@sec:case-umlaut-adjectival-causative].
+With some verbs the causative also needs an umlaut [cf. @plank2015], e.g. with *kurz* 'short' and *verkürzen* 'to shorten' [@next a,b]. This might be an argument that the preverbal *verkürzen* is derived via the intermediate verb *kürzen*. Conversely, with the adjective  *böse* 'angry' an umlaut is lost in the preverbal causative, namely *erbosen* 'to make angry' [@next c,d]. For more examples of umlaut with verb-to-adjective derivation, see [@sec:case-umlaut-adjectival-causative].
 
 ::: ex
 a. Die Frist ist kurz.
@@ -715,14 +719,30 @@ b. Der Clown belustigt mich.
 
 #### Attested verbs {.unnumbered}
 
-- beˈ-  : *ängstig, fähig, frei, günstig, grün, leidig, ruhig, schuldig, schwer, unruhig*
-- erˈ-  : *bitter, bleich, böse, grau, hart, heiter, hell, hoh, kalt, klar, ledig, leichter, matt, müde, munter, mutig, neu, niedrig, rege, schlaff, stark, warm, weich*
-- entˈ- : *schuldig*
-- verˈ- : *besser, breit, breiter, deutlich, dumm, dunkel, dünn, düster, edel, einfach, elend, eng, falsch, faul, fremd, größer, harmlos, herrlich, klein, knapp, kurz, kürzer, langsam, länger, niedlich, mehr, öffentlich, schlechter, schön, schöner, spät, start, steif, stumm, teuer, tief, wirr, wund, wüst*
+Monomorphemic adjectives:
+
+- beˈ-  : *fähig, frei, grün, richtig, schwer*
+- erˈ-  : *bitter, bleich, böse, hart, heiter, hell, hoh, kalt, klar, matt, müde, munter, neu, rege, schlaff, stark, warm, weich*
+- verˈ- : *breit, dumm, dunkel, dünn, düster, edel, einfach, elend, eng, falsch, faul, fremd, harmlos, klein, knapp, kurz, langsam, mehr, schön, spät, start, steif, stumm, teuer, tief, wirr, wund, wüst*
 - zerˈ- : *mürbe*
 - ˈan-  : *eigen*
 - ˈauf- : *rau*
 - ˈvor- : *bereit*
+
+Derived adjectives ending in *-ig* or *-lich*:
+
+- beˈ-  : *ängstig, friedig, günstig, nachteilig, ruhig, schuldig, unruhig*
+- verˈ- : *ängstig, anschaulich, bürgerlich, dinglich, deutlich, einig, flüchtig, gegenständlich, göttlich, günstig, heimlich, herrlich, innerlich, menschlich, niedlich, öffentlich, selbstständig, staatlich, westlich, wirklich*
+- erˈ-  : *ledig, mächtig, möglich, mutig, niedrig*
+- entˈ- : *menschlich, mündig, mutig, schuldig*
+- ˈan-  : *schuldig*
+
+Comparative adjectives ending in *-er*:
+
+- verˈ- : *besser, breiter, feiner, gröber, größer, kleiner, kürzer, länger, schlechter, schlimmer, schöner*
+- erˈ-  : *leichter, neuer, weiter*
+- zerˈ- : *kleiner*
+- beˈ-  : *reicher*
 
 #### Further examples {.unnumbered}
 
@@ -754,6 +774,19 @@ c. Der Bericht bessert meine Lauen.
 The verb *erbittern* 'to make bitter' is probably derived from a verb *bittern* 'to become bitter', which does not exist anymore in contemporary German [@pfeiffer1993].^[Entry *bitter* at <https://www.dwds.de/wb/etymwb/bitter>, accessed 6 August 2022.] Both are of course related to the adjective *bitter* 'bitter'.
 
 The verb *verspäten* is clearly derived from the adjective *spät*, but it is additionally obligatory reflexive (see [@sec:reflexive-obligatory-accusative-reflexive]). This "fixed stack" of a causative *ver-* and an anticausative reflexive leads to a non-causative meanings: *spät sein* 'be late' > ^\*^*verspäten* 'cause to be late' (non-exisiting) > *sich verspäten* 'be late'.
+
+### ~~Ø › SBJ › OBJ~~ : [ –N | NA ] Preverb reflexive adjectival causative
+
+dative reflexive TODO
+
+::: ex
+- […] sein Schicksal ist gegenwärtig.^[~~DWDS~~: Die Zeit, 26.07.2012, Nr. 31.]
+- Ich vergegenwärtige mir sein Schicksal.
+:::
+
+#### Attested verbs {.unnumbered}
+
+- verˈ- : *gegenwärtig*
 
 ### ~~Ø › SBJ › OBJ~~ : [ –N | NA ] Preverb nominal causative {#sec:preverb-nominal-causative}
 
@@ -1659,14 +1692,33 @@ a. Der Clown ist lustig.
 b. Der Clown belustigt mich.
 :::
 
+
 #### Attested verbs {.unnumbered}
 
-- beˈ- : *lustig, lästig*
+- beˈ- : *gnadig, lustig, lästig*
+- verˈ- : *nachlässig*
 
 #### Further examples {.unnumbered}
 
 - Die Mücken sind lästig. \
   Die Mücken belästigen mich.
+- Der König ist genadig. \
+  Der König begnadigt einen Feind.
+- Ich bin nachlässig. \
+  Ich vernachlässige meine Kleidung.
+
+### ~~Ø › OBJ~~ : [ N– | NG ] Preverb reflexive adjectival genitive addition
+
+accusative reflexive TODO
+
+::: ex
+- Die Diebe sind mächtig.
+- Die Diebe bemächtigen sich des Fahrzeugs.
+:::
+
+#### Attested verbs {.unnumbered}
+
+- beˈ- : *mächtig*
 
 ### ~~Ø › OBJ~~ : [ NP– | NPA ] Preverb accusative addition+preposition
 
