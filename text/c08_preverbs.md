@@ -777,7 +777,7 @@ The verb *verspäten* is clearly derived from the adjective *spät*, but it is a
 
 ### ~~Ø › SBJ › OBJ~~ : [ –N | NA ] Preverb reflexive adjectival causative
 
-dative reflexive TODO
+The adjective *gegenwärtig* 'current' has a special diathesis with the preverb *ver-* in that a dative reflexive pronoun is necessary [@next].
 
 ::: ex
 - […] sein Schicksal ist gegenwärtig.^[~~DWDS~~: Die Zeit, 26.07.2012, Nr. 31.]
@@ -1692,7 +1692,6 @@ a. Der Clown ist lustig.
 b. Der Clown belustigt mich.
 :::
 
-
 #### Attested verbs {.unnumbered}
 
 - beˈ- : *gnadig, lustig, lästig*
@@ -1709,7 +1708,7 @@ b. Der Clown belustigt mich.
 
 ### ~~Ø › OBJ~~ : [ N– | NG ] Preverb reflexive adjectival genitive addition
 
-accusative reflexive TODO
+The verb *bemächtigen* 'to usurp' [@next b] is derived from the adjective *mächtig* 'powerful' [@next a] with the addition of a genitive argument and an obligatory reflexive pronoun.
 
 ::: ex
 - Die Diebe sind mächtig.
