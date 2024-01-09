@@ -739,7 +739,7 @@ Derived adjectives ending in *-ig* or *-lich*:
 
 Comparative adjectives ending in *-er*:
 
-- verˈ- : *besser, breiter, feiner, gröber, größer, kleiner, kürzer, länger, schlechter, schlimmer, schöner*
+- verˈ- : *besser, böser, breiter, enger, feiner, gröber, größer, kleiner, länger, schlechter, schlimmer, schneller, schöner*
 - erˈ-  : *leichter, neuer, weiter*
 - zerˈ- : *kleiner*
 - beˈ-  : *reicher*
