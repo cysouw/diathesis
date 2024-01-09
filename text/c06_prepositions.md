@@ -54,7 +54,22 @@ There are fifteen diatheses that seem prominent enough to be given a German name
 
 ### Identifying governed prepositions {#sec:prepositions-identifying-governed-prepositions}
 
-As a general rule (with only few exceptions, see below) I propose to define prepositional phrases as lexically governed arguments when they allow for a paraphrase of the form *da(r)-preposition, dass* ~~clause~~ [cf. @engelen1986: 110--112]. There is an enormous literature in the German grammatical tradition dealing with the question which prepositional phrase are to be interpreted as so-called *Präpositionalobjekte* [see e.g. @hollein2019: 108-110 for a quick survey]. Instead of trying to account for all the possible arguments that might be used to decide this question, I have chosen to take a single criterion that seems to fit eerily well, and use this criterion as a definition. My chosen definition is to some extent arbitrary, but it turns out to be very useful in practice.^[For example, testing the possibility of a *da(r)-preposition, dass* paraphrase with the many verbs discussed by Höllein [-@hollein2019: Ch. 5] works exceedingly well, though not all of his verbs allow for this paraphrase. Still, that chapter was a great resource of examples for this chapter.]
+The basic intuition behind governed prepositions is that there are prepositional phrases that appear to be strongly connected to the verb. This intuition is inspired by the fact that some verbs are accompanied by completely lexicalised prepositional phrase, like *erinnern an* 'to remind of' [@next a] or *vertrauen auf* 'to trust in' [@next b]. There is no choice in which preposition has to occur with which verb (and only very few verbs have more than a single option). Besides the rigidity of these collocation, the strongly grammaticalised nature of such combinations is reinforced by the fact that such prepositions are semantically mostly empty.
+
+::: ex
+- Ich erinnere dich an den Termin.
+- Ich vertraue auf dich.
+:::
+
+As a general rule (with only few exceptions, see below) I propose to define prepositional phrases as lexically governed arguments when they allow for a paraphrase of the form *da(r)+preposition* with a complement clause [cf. @engelen1986: 110--112]. This complement clause in the paraphrase can either be a finite *dass* clause [@next b] or a non-finite *zu+Infinitiv* clause [@next c], depending on contextual details.
+
+::: ex
+- Der Vater achtet auf die Kinder.
+- Der Vater achtet darauf, dass den Kindern nichts passiert.
+- Der Vater achtet darauf, die Kinder nicht zu stören.
+:::
+
+There is an enormous literature in the German grammatical tradition dealing with the question which prepositional phrase are to be interpreted as so-called *Präpositionalobjekte* [see e.g. @hollein2019: 108-110 for a quick survey]. Instead of trying to account for all the possible arguments that might be used to decide this question, I have chosen to take a single criterion that seems to fit eerily well, and use this criterion as a definition. My chosen definition is to some extent arbitrary, but it turns out to be very useful in practice.^[For example, testing the possibility of a *da(r)-preposition, dass* paraphrase with the many verbs discussed by Höllein [-@hollein2019: Ch. 5] works exceedingly well, though not all of his verbs allow for this paraphrase. Still, that chapter was a great resource of examples for this chapter.]
 
 For example, the verb *warten* 'to await' has a possible governed preposition *auf* designating the object that is waited for [@next a]. In this reading, [@next a] can be paraphrased by [@next b] with a *darauf, dass* subordinate clause. This combination *warten auf* can best be considered a fixed collocation, to be translated into English as 'waiting for'. However, the preposition *auf* can also have its adverbial local meaning 'on top of' [@next c]. This leads to another interpretation in which the prepositional phrase is not a governed preposition but an adverbial phrase with a local meaning, paraphrased in [@next d]. These two readings can even be combined [@next e], with an interesting difference in case marking between the two prepositional phrases.
 
