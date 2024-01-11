@@ -32,7 +32,7 @@ Prepositional phrases in German are partly governed arguments and partly non-gov
 Der König wartet auf seinem alten Thron auf seinen neuen Thron.
 :::
 
-There are fifteen diatheses that seem prominent enough to be given a German name. I propose the following names for these:
+There are fifteen diatheses, as described in this chapter, that seem prominent enough to be given a German name. I propose the following names for these:
 
 - ~~(ADJ › SBJ › Ø) Instrumentsubjektiv~~ (see [@sec:prepositions-intransitive-preposition-anticausative] ff.)
 - ~~(PBJ › SBJ › Ø) Kreationsubjektiv~~ (see [@sec:prepositions-fabricative-accusative] ff.)
@@ -54,7 +54,7 @@ There are fifteen diatheses that seem prominent enough to be given a German name
 
 ### Identifying governed prepositions {#sec:prepositions-identifying-governed-prepositions}
 
-The basic intuition behind governed prepositions is that there are prepositional phrases that appear to be strongly connected to the verb. This intuition is inspired by the fact that some verbs are accompanied by completely lexicalised prepositional phrase, like *erinnern an* 'to remind of' [@next a] or *vertrauen auf* 'to trust in' [@next b]. There is no choice in which preposition has to occur with which verb (and only very few verbs have more than a single option). Besides the rigidity of these collocation, the strongly grammaticalised nature of such combinations is reinforced by the fact that such prepositions are semantically mostly empty.
+The basic intuition behind ~~governed prepositions~~ (known as *Präpositionalobjekte* in the German grammatical tradition) is that there are prepositional phrases that appear to be strongly connected to the verb. This intuition is inspired by the fact that some verbs are accompanied by completely lexicalised prepositional phrase, like *erinnern an* 'to remind of' [@next a] or *vertrauen auf* 'to trust in' [@next b]. There is no choice in which preposition has to occur with which verb (and only very few verbs have more than a single option). Besides the rigidity of these collocation, the strongly grammaticalised nature of such combinations is reinforced by the fact that such prepositions are semantically mostly empty.
 
 ::: ex
 - Ich erinnere dich an den Termin.
@@ -69,7 +69,7 @@ As a general rule (with only few exceptions, see below) I propose to define prep
 - Der Vater achtet darauf, die Kinder nicht zu stören.
 :::
 
-There is an enormous literature in the German grammatical tradition dealing with the question which prepositional phrase are to be interpreted as so-called *Präpositionalobjekte* [see e.g. @hollein2019: 108-110 for a quick survey]. Instead of trying to account for all the possible arguments that might be used to decide this question, I have chosen to take a single criterion that seems to fit eerily well, and use this criterion as a definition. My chosen definition is to some extent arbitrary, but it turns out to be very useful in practice.^[For example, testing the possibility of a *da(r)-preposition, dass* paraphrase with the many verbs discussed by Höllein [-@hollein2019: Ch. 5] works exceedingly well, though not all of his verbs allow for this paraphrase. Still, that chapter was a great resource of examples for this chapter.]
+There is an enormous literature in the German grammatical tradition dealing with the question which prepositional phrase are to be interpreted as so-called *Präpositionalobjekte* [see e.g. @hollein2019: 108-110 for a quick survey]. Instead of trying to account for all the possible arguments that might be used to decide this question, I have chosen to take the single criterion above that seems to fit eerily well, and use this criterion as a definition. My chosen definition is to some extent arbitrary, but it turns out to be very useful in practice.^[For example, testing the possibility of a *da(r)-preposition, dass* paraphrase with the many verbs discussed by Höllein [-@hollein2019: Ch. 5] works exceedingly well, though not all of his verbs allow for this paraphrase. Still, that chapter was a great resource of examples for this chapter.]
 
 For example, the verb *warten* 'to await' has a possible governed preposition *auf* designating the object that is waited for [@next a]. In this reading, [@next a] can be paraphrased by [@next b] with a *darauf, dass* subordinate clause. This combination *warten auf* can best be considered a fixed collocation, to be translated into English as 'waiting for'. However, the preposition *auf* can also have its adverbial local meaning 'on top of' [@next c]. This leads to another interpretation in which the prepositional phrase is not a governed preposition but an adverbial phrase with a local meaning, paraphrased in [@next d]. These two readings can even be combined [@next e], with an interesting difference in case marking between the two prepositional phrases.
 
@@ -88,7 +88,7 @@ a. Worauf wartet der König?
 b. Wo wartet der König?
 :::
 
-Some prepositional phrases without the option of a *da(r)+Präposition, dass* paraphrase still have a special status as an argument-like role of a verb, namely when they can be substituted by a case-marked constituent. This is typical for antipassive alternations like [@next a], in which the accusative role *den Bären* can alternatively be expressed by a prepositional phrase *auf den Bären* with a difference in affectedness of the object, see [@sec:prepositions-accusative-antipassive]. In this situation the prepositional phrase cannot be replaced by a *darauf, dass* phrase, so it is not a governed preposition. However, because of the alternation with a case marked constituent, this participant (viz. *Bär*) is still an argument. Not all prepositional phrases allow such an alternation, notably most local expressions do not [@next b]. However, there are also some distinctly local expressions that still allow for an antipassive alternation [@next c]. In general, the semantic content is not a suitable definition of argument status.
+Some prepositional phrases without the option of a *da(r)+Präposition, dass* paraphrase still have a special status as an argument role of a verb, namely when they can be substituted by a case-marked constituent. This is typical for antipassive alternations like [@next a], in which the accusative role *den Bären* can alternatively be expressed by a prepositional phrase *auf den Bären* with a difference in affectedness of the object, see [@sec:prepositions-accusative-antipassive]. In this situation the prepositional phrase cannot be replaced by a *darauf, dass* phrase, so it is not a governed preposition. However, because of the alternation with a case marked constituent, this participant (viz. *Bär*) is still an argument. Not all prepositional phrases allow such an alternation, notably most local expressions do not [@next b]. However, there are also some distinctly local expressions that still allow for an antipassive alternation [@next c]. In general, the semantic content is not a suitable definition of argument status.
 
 ::: ex
 a. Ich schieße auf den Bären. \

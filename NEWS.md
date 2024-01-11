@@ -14,6 +14,7 @@ Version history of *Encyclopeadia of German Diatheses*
 ## minor changes
 
 - update to LSP-markdown skeleton
+- update to 2024 second edition
 - various corrections and minor additions
 - many new verbs in the 'attested verbs' sections throughout
 - additional references to relevant literature
