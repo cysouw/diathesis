@@ -1511,10 +1511,11 @@ c. Der Hund bellt die Kinder aus dem Bett.
 - gesund- : *hexen*
 - heiß-   : *reden*
 - leer-   : *fahren*
+- rot-    : *weinen*
 - sauber- : *schwitzen*
 - schön-  : *schwindeln*
 - tot-    : *fahren, rasen*
-- voll-   : *jammern, rauchen, schreien, schwärmen*
+- voll-   : *jammern, rauchen, schreien, schwärmen, weinen*
 - wach-   : *bellen, klingeln, schreien*
 
 #### Further examples {.unnumbered}
@@ -1528,6 +1529,7 @@ c. Der Hund bellt die Kinder aus dem Bett.
 - In den Dampfbädern wird jede Pore sauber geschwitzt.^[Attested online at <https://www.fti.de/themenreisen/wellnessurlaub-harz.html>, accessed 31 August 2022.]
 - Vielleicht kann man Theater tatsächlich vollschreien.^[~~DWDS~~: Die Welt, 18.03.1999.]
 - Ich schwärme dir die Ohren voll.
+- Der gerührte Gorkij weinte mir die Jacke voll.^[~~DWDS~~: Die Zeit, 08.10.1971, Nr. 41.]
 
 #### Notes {.unnumbered}
 
@@ -1536,6 +1538,13 @@ The verb *reden* 'to talk' is listed here in a special variant, namely *heißred
 ::: ex
 - Draußen schneit es, und drinnen reden sich 100 Leute die Köpfe heiß.^[~~DWDS~~: Die Zeit, 18.01.2017 (online).]
 - Er redete die Spieler heiß.^[~~DWDS~~: Der Tagesspiegel, 11.05.2001.]
+:::
+
+The verb *rotweinen* [@next] is only used in the collocation with accusative *Augen* 'eyes' and a possesor dative alternation (see [@sec:case-possessor-accusative-to-dative]) that is necessarily used as a self-reflexive (see [@sec:reflexive-dative-accusative]).
+
+::: ex
+- Er weinte sich die Augen rot.
+- Ich weinte mir die Augen rot.
 :::
 
 ### ~~Ø › OBJ › ADJ~~ : [ NA– | NpA ] *fest‑* Object exchange {#sec:adverbial-fest}
