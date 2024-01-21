@@ -423,9 +423,17 @@ Note that there is a fascinating phenomenon going on here that is in need of mor
 - verˈ- : *blühen, bluten, faulen, dampfen, rosten, schimmeln, welken, zweifeln*
 - ˈein- : *rosten, schlafen*
 - ˈab-  : *bröckeln, faulen, reisen, rosten*
+- ˈaus- : *weinen*
 - ˈmit-  : *fahren, fliegen, gehen, kommen, laufen, segeln*
 
 #### Notes {.unnumbered}
+
+The verb *ausweinen* [@next a] also has a different usage with a dative reflexive [@next b], see [@sec:preverb-reflexive-resultative].
+
+::: ex
+- Ich habe mich ausgeweint.
+- Ich habe mir die Augen ausgeweint.
+:::
 
 Adjectival *gewelkte* [@next a] and *gefaulte* [@next b] seem to have been possible up to ±1850. Note that there is a dish called *gefaulte Erdäpfel* [@next c], which appears to be a back-translation from Bavarian *dafeide Erdäpfel*, which has a prefix.
 
@@ -1779,6 +1787,7 @@ Some verbs, like *erschwimmen* 'to achieve by swimming' [@next], even allow for 
 
 - erˈ-  : *arbeiten, boxen, kämpfen, laufen, schlafen, schreiben, schwimmen, schwindeln, tanzen, wandern*
 - ˈan-  : *essen, lesen, tanzen, trinken*
+- ˈaus- : *weinen*
 
 #### Further examples {.unnumbered}
 
@@ -1807,6 +1816,13 @@ A few of these verbs are transitive, like *lesen, schreiben* [@next a,b], ambitr
   […] rotnasigen Menschen, die sich mit klebrigem Glühwein den nächsten Kaufrausch antrinken.^[~~DWDS~~: Die Zeit, 20.12.2006, Nr. 52.]
 - Ich habe gestern einen Marathon gelaufen. \
   Ich habe mir (im Marathon) eine Medaille erlaufen.
+:::
+
+The verb *ausweinen* is typically used in collaction with *Augen* 'eyes' [@next a], though note the examples with *Herz* 'heart' [@next b]. This might be a loan translation from English 'to cry one's hear out'. This usage of *ausweinen* is different from the usage with an accusative reflexive (see [@sec:preverb-intransitive-with-unaccusative]). The dative reflexive in the examples below seem to be a result of a possessor dative (see [@sec:case-possessor-accusative-to-dative]) that is necessarily self-reflexive in this collocation.
+
+::: ex
+- Ich habe mir die Augen ausgeweint.
+- Ich habe mir das Herz ausgeweint.^[Attested online at <http://www.songtexte.com.de/adele/right-as-rain.html>, accessed 16 January 2024.]
 :::
 
 ### ~~Ø › OBJ~~ : [ N– | ND ] Preverb dative addition {#sec:preverb-dative-addition}
