@@ -1715,7 +1715,7 @@ d. Die Frauen warfen sich und ihre Kinder vor mein Pferd und baten um Hilfe.^[~~
 
 #### Attested verbs {.unnumbered}
 
-- *fokussieren, konzentrieren, pressen, legen, richten, setzen, stellen, werfen*
+- *fokussieren, klammern, konzentrieren, pressen, legen, richten, setzen, stellen, werfen*
 
 #### Further examples {.unnumbered}
 
@@ -1723,6 +1723,8 @@ d. Die Frauen warfen sich und ihre Kinder vor mein Pferd und baten um Hilfe.^[~~
   Sie presste sich an die Hauswand.
 - Sie richtet ihre Aufmerksamkeit auf den Fall. \
   Sie richtet sich auf den den Fall.
+- Er klammert die Wäsche an die Leine. \
+  Das Kind klammerte sich an den Rock der Mutter.
 
 #### Notes {.unnumbered}
 
