@@ -64,7 +64,7 @@ In contrast, the addition of the prefix *missˈ‑* is always completely transpa
 
 The prefix *widerˈ‑* only occurs in a few fixed combinations (see [@sec:preverb-dative-applicative]). Note that there are also a few verbs that are orthographically written in German as *wider‑*, but that are stressed on the first syllable and are separable. It might be more consistent to write these as *wieder‑* (see [@sec:adverbial-directionals]). This occurs with verbs related to the distribution of sound and light, namely *widerhallen, widerklingen, widerschallen, widerscheinen* and *widerspiegeln*, while *widerstrahlen* seems to allow both stress patterns. The addition of *wider‑* in these verbs does not induce any diathesis.
 
-The prefix *hinterˈ‑* only occurs in a few verbs and never induces any diathesis. It is attested with three different meanings, namely (i) meaning *zurück* 'back' with the verbs *hinterbleiben, hinterhalten, hinterlassen, hinterlegen*, (ii) meaning *an der Hinterseite* 'behind' with the verbs *hinterfüllen, hinterhaken, hintermauern*, and (iii) meaning metaphorically *hinter den Rücken* 'behind the back' with the verbs *hinterfragen, hintergehen, hinterlaufen, hintertreiben, hinterziehen*.
+The prefix *hinterˈ‑* only occurs in a few verbs and never induces any diathesis. It is attested with three different meanings, namely (i) meaning *zurück* 'back', see [@sec:preverb-intransitive-with-unaccusative], (ii) meaning *an der Hinterseite* 'behind' and (iii) meaning metaphorically *hinter den Rücken* 'behind the back', see [@sec:preverb-transitive-without-diathesis].
 
 That leaves the prefixes *beˈ‑, erˈ‑, verˈ‑, zerˈ‑* and *entˈ‑*, and these all occur frequently. They induce various diathesis as discussed throughout this chapter and they do not appear to have any preference for a special kind of diathesis. The prefix *empˈ‑* is an allomorph of *entˈ‑*, attested with a small group of verb starting with /f/, namely *empfangen, empfehlen* and *empfinden*.
 
@@ -73,7 +73,7 @@ Turning now to the ~~verb particles~~, the following prepositions can be used as
 - The four prepositions *durch, über, um* and *unter* can be used both as verb prefixes and as verb particles leading to diathesis.
 - The nine prepositions *ab, an, auf, aus, bei, in (=ein), nach, vor* and *zu* are frequently used as verb particles leading to diathesis.
 - The preposition *mit* only occurs as a verb particle in completely transparent derivation that never result in a diathesis, e.g. *arbeiten* 'to work' becomes comitative *mitarbeiten* 'to work along' (see [@sec:preverb-intranstive-without-diathesis; @sec:preverb-transitive-without-diathesis]).
-- A few polysyllabic prepositions are used sporadically as verb particles, namely *entlang, gegen, hinter, neben* and *zwischen*. The stressed particle *ˈhinter‑* is only used in the meaning of *hinunter* 'down' with verbs of consumption *hinterbringen, hinteressen, hintergießen, hinterkauen, hinterkippen, hinterschlingen, hinterschlucken, hintertrinken* and in the meaning of *nach hinten* 'to the back' with verbs of movement *hinterbringen, hintergehen, hinterlassen, hinterlegen, hinterziehen*. With these verbs there is no diathesis.
+- A few polysyllabic prepositions are used sporadically as verb particles, namely *entlang, gegen, hinter, neben* and *zwischen*. For *hinter* see [@sec:preverb-transitive-without-diathesis].
 - There are also a few preverbs that are combinations of two preverbs, namely *entgegen, gegenüber, voran, vorab, vorbei, vorüber* and *zuvor*. Verbs with these preverbs have not (yet) been included here. 
 - Crucially, the remaining prepositions are never used as verb particles with a verb root, namely *außer, bis, für, ohne, seit* and *von*. There exist only incidental examples like *fürsprechen*. It is unclear to me whether there is any deeper reason for the absence of such derivations.
 
@@ -369,16 +369,27 @@ a. Ich lagere die Kartoffeln im Keller. \
 b. Die gelagerten Kartoffeln […]. \
    Die verlagerten Kartoffeln […].
 :::
- 
+
+::: ex
+- Der Kritiker fragt den Regisseur nach den Einsatz der Schauspieler. \
+  Der Kritiker hinterfragt den Einsatz der Schauspieler.
+- Der gefragte Regisseur lobt den Einsatz. \
+  Der hinterfragte Regisseur lobt den Einsatz der Schauspieler.
+:::
+
 #### Attested verbs {.unnumbered}
 
 - verˈ-   : *jagen, lagern*
 - beˈ-    : *fürchten, grüßen*
 - missˈ-  : *achten, behagen, billigen, blicken, brauchen, deuten, glücken, gönnen, handeln, hören, interpretieren, trauen, verstehen*
+- hinterˈ‑ (meaning *an der Hinterseite* 'behind'): *hinterfüllen, hinterhaken, hintermauern*
+- hinterˈ‑ (meaning *hinter den Rücken* 'behind the back'): *hinterfragen, hintergehen, hinterlaufen, hintertreiben, hinterziehen*
 - ˈan-    : *sehen*
 - ˈauf-   : *essen, trinken*
 - ˈdurch- : *halten*
 - ˈmit-   : *ansehen, benutzen, bezahlen, bieten, bringen, erleben, feiern, garen, geben, gestalten, kochen, lesen, liefern, nehmen, nutzen, planen, regieren, schicken, schreiben*
+- ˈhinter‑ (meaning *hinunter* 'down' with verbs of consumption): *hinterbringen, hinteressen, hintergießen, hinterkauen, hinterkippen, hinterschlingen, hinterschlucken, hintertrinken* 
+- ˈhinter‑ (meaning *nach hinten* 'to the back' with verbs of movement): *hinterbringen, hintergehen, hinterlassen, hinterlegen, hinterziehen*
 - ˈunter- : *bringen*
 
 #### Further examples {.unnumbered}
@@ -425,6 +436,7 @@ Note that there is a fascinating phenomenon going on here that is in need of mor
 #### Attested verbs {.unnumbered}
 
 - verˈ- : *blühen, bluten, faulen, dampfen, rosten, schimmeln, welken, zweifeln*
+- hinterˈ- (meaning *zurück* 'back'): *hinterbleiben, hinterhalten, hinterlassen, hinterlegen*
 - ˈein- : *rosten, schlafen*
 - ˈab-  : *bröckeln, faulen, reisen, rosten*
 - ˈaus- : *weinen*
