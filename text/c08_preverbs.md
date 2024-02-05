@@ -75,7 +75,7 @@ Turning now to the ~~verb particles~~, the following prepositions can be used as
 - The preposition *mit* only occurs as a verb particle in completely transparent derivation that never result in a diathesis, e.g. *arbeiten* 'to work' becomes comitative *mitarbeiten* 'to work along' (see [@sec:preverb-intranstive-without-diathesis; @sec:preverb-transitive-without-diathesis]).
 - A few polysyllabic prepositions are used sporadically as verb particles, namely *entlang, gegen, hinter, neben* and *zwischen*. For *hinter* see [@sec:preverb-transitive-without-diathesis].
 - There are also a few preverbs that are combinations of two preverbs, namely *entgegen, gegenüber, voran, vorab, vorbei, vorüber* and *zuvor*. Verbs with these preverbs have not (yet) been included here. 
-- Crucially, the remaining prepositions are never used as verb particles with a verb root, namely *außer, bis, für, ohne, seit* and *von*. There exist only incidental examples like *fürsprechen*. It is unclear to me whether there is any deeper reason for the absence of such derivations.
+- Crucially, the remaining prepositions are never used as verb particles with a verb root, namely *außer, bis, für, ohne, seit* and *von*. There exist only incidental examples like *fürsprechen* and *fürsorgen*. It is unclear to me whether there is any deeper reason for the absence of such derivations.
 
 The two main groups of prepositional preverbs that are involved in diathesis show an intriguing semantic structure. Note that this semantic structure involves their prepositional meaning, not their function as preverbs:
 
