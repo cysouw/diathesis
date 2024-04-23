@@ -227,15 +227,15 @@ c. ^* Ich habe den Teich gefischt.
 d. ^* Ich habe das Taschentuch geniest.
 :::
 
-{#par:preverb-incompatability} Third, resultative adverbials cannot occur together with verb particles. This is not just a semantic incompatibility, but also a syntactic one. The resultative adverbials take the same place in the syntax as the verb particles. For example, dictionaries of German typically include resultative constructions as complex predicates, i.e. *totschießen* 'to kill by shooting' [@next a]^[Attested at <https://www.dwds.de/wb/totschießen>, accessed 8 September 2022.], parallel to verbs with particles like *abschießen* 'to shoot down' [@next b]^[Attested at <https://www.dwds.de/wb/abschießen>, accessed 8 September 2022.]. Trying to combine both resultative adverbials and verb particles is not possible [@next c]. In contrast, with evaluatives [@next d] and depictives [@next e] there is no problem combining them with verb particles.
+{#par:preverb-incompatability} Third, resultative adverbials cannot occur together with verb particles. This is not just a semantic incompatibility, but also a syntactic one. The resultative adverbials take the same place in the syntax as the verb particles. For example, dictionaries of German typically include resultative constructions as complex predicates, i.e. *totschießen* 'to kill by shooting' [@next a], parallel to verbs with particles like *abschießen* 'to shoot down' [@next b]. Trying to combine both resultative adverbials and verb particles is not possible [@next c]. In contrast, with evaluatives [@next d] and depictives [@next e] there is no problem combining them with verb particles.
 
 ::: ex
-- Der Jäger hat den Wolf totgeschossen.
-- Der Jäger hat den Wolf abgeschossen.
+- Der Jäger hat den Wolf totgeschossen.^[Attested at <https://www.dwds.de/wb/totschießen>, accessed 8 September 2022.]
+- Der Jäger hat den Wolf abgeschossen.^[Attested at <https://www.dwds.de/wb/abschießen>, accessed 8 September 2022.]
 - ^* Der Jäger hat den Wolf tot abgeschossen.
-- Der Jäger hat den Wolf schnell abgeschossen.
+- Der Jäger hat den Wolf schnell abgeschossen. \
   (= Das Abschießen war schnell.)
-- Der Jäger hat den Wolf verletzt abgeschossen.
+- Der Jäger hat den Wolf verletzt abgeschossen. \
   (= Der Jäger war verletzt.)
 :::
 
