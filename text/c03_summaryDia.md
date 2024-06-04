@@ -229,7 +229,7 @@ b. Die Stille entspannt ihn. \
 
 ### *Darstellungsantikausativ* (*geben/zeigen+Partizip*) {#sec:summary-prasentativantikausativ}
 
-The ~~Darstellungsantikausativ~~ (full discussion in [@sec:participles-geben-reflexive-anticausative]) consists of the light verb *geben* with a participle and an obligatory reflexive pronoun. It expresses a conscious performance to appear in a certain way by the erstwhile accusative. The original nominative cannot be retained. The light verb *zeigen* can be used alternatively to *geben*. Any difference between these two light verbs needs more investigation.
+The ~~Darstellungsantikausativ~~ (full discussion in [@sec:participles-geben-reflexive-anticausative]) consists of the light verb *geben* with a participle and an obligatory reflexive pronoun. It expresses a conscious performance to appear in a certain way by the erstwhile accusative. The original nominative cannot be retained. The light verb *zeigen* can be used alternatively to *geben*. The difference (if any) between these two light verbs needs more investigation.
 
 ::: ex
 a. Die Stille entspannt ihn.
@@ -348,7 +348,7 @@ A ~~conversive~~ is a diathesis that removes the role marked as subject and prom
 
 ### *Reflexiv Erlebniskonversiv* {#sec:summary-reflexiv-erlebnispassiv}
 
-The ~~Reflexiv Erlebniskonversiv~~ (full discussion in [@sec:reflexive-preposition-passive]) is a diathesis in which a verb, like *empören* 'to appall' [@next a], can be used both with and without a reflexive pronoun. The effect of adding the reflexive pronoun is a remapping of the accusative to nominative and demoting the erstwhile nominative to a prepositional phrase [@next b]. The prepositional phrase is a governed preposition [@next c]. The verbs that allow this diathesis are typically verbs that express an experience. This diathesis is functionally similar to the *sein-Erlebniskonversiv* (see [@sec:summary-erlebnispassiv]) and the *lassen-Permissivkonversiv* (see [@sec:summary-permissivkonversiv]). There are even many verbs that allow for all three diatheses, like *empören* [@next d,e]. However, not all verbs allow for both diatheses, like *verärgern* [@nnext d,e].
+The ~~Reflexiv Erlebniskonversiv~~ (full discussion in [@sec:reflexive-preposition-passive]) is a diathesis in which a verb, like *empören* 'to appall' [@next a], can be used both with and without a reflexive pronoun. The effect of adding the reflexive pronoun is a remapping of the accusative to nominative and demoting the erstwhile nominative to a prepositional phrase [@next b]. The prepositional phrase is a governed preposition [@next c]. The verbs that allow this diathesis are typically verbs that express an experience. This diathesis is functionally similar to the *sein-Erlebniskonversiv* (see [@sec:summary-erlebnispassiv]) and the *lassen-Permissivkonversiv* (see [@sec:summary-permissivkonversiv]). There are even many verbs that allow for all three diatheses, like *empören* [@next d,e]. However, not all verbs allow for all three diatheses, like *verärgern* [@nnext d,e].
 
 ::: ex
 a. Der Preis empört den Kunden.
