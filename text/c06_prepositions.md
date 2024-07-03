@@ -81,7 +81,7 @@ c. Der König wartet, während er auf seinem alten Thron sitzt.
 d. Der König wartet auf seinem alten Thron auf seinen neuen Thron.
 :::
 
-The possibility of a *da(r)+Präposition, dass* paraphrase for governed prepositional phrases has a parallel in question-constructions with *wo(r)+Preposition* [@next a]. In contrast, the local interpretation of a prepositional phrase is questioned with a bare question word *wo* [@next b].
+The possibility of a *da(r)+Präposition, dass* paraphrase for governed prepositional phrases has a parallel in question-constructions with *wo(r)+Präposition* [@next a]. In contrast, the local interpretation of a prepositional phrase is questioned with a bare question word *wo* [@next b].
 
 ::: ex
 a. Worauf wartet der König?

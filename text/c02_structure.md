@@ -771,7 +771,7 @@ c. Der Wettkampf endet (durch den Gong).
 d. Der Gong beendet den Wettkampf.
 :::
 
-Finally, a ~~reversed conversive (PBJ › SBJ › OBJ)~~ differs from a reversed passive in that the prepositional phrase is a lexically governed preposition, as can be identified by a possible  *da(r)+Preposition, dass* paraphrase. This is for example attested with the diatheses between *staunen über* 'to marvel' and *erstaunen* 'to amaze' [@next], see [@sec:preverb-inverted-passives].
+Finally, a ~~reversed conversive (PBJ › SBJ › OBJ)~~ differs from a reversed passive in that the prepositional phrase is a lexically governed preposition, as can be identified by a possible  *da(r)+Präposition, dass* paraphrase. This is for example attested with the diatheses between *staunen über* 'to marvel' and *erstaunen* 'to amaze' [@next], see [@sec:preverb-inverted-passives].
 
 ::: ex
 ~~Reversed conversive (PBJ › SBJ › OBJ)~~
