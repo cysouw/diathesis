@@ -2274,7 +2274,7 @@ d. Der Affe saß auf seiner Schulter.
 
 #### Attested verbs {.unnumbered}
 
-- Bodily contact: *beißen, boxen, fallen, klopfen, laufen, schauen, stechen, steigen, zwicken*
+- Bodily contact: *beißen, boxen, fallen, fassen, hauen, klopfen, kneifen, laufen, schauen, stechen, steigen, streicheln, zwicken*
 - Position: *hängen, liegen, stehen, stecken, sitzen*
 
 #### Further examples {.unnumbered}
@@ -2300,7 +2300,7 @@ d. Der Affe saß auf seiner Schulter.
 
 #### Notes {.unnumbered}
 
-The verb *beißen* 'to bite' can be used transitively with an animate accusative argument [@next a], or with the dative alternation [@next b], leading to two different options to encode the object of the biting, cf. accusative *ihn* [@next a] with dative *ihm* [@next b].
+The verb *beißen* 'to bite' can be used transitively with an animate accusative argument [@next a], or with the dative alternation [@next b], leading to two different options to encode the object of the biting, cf. accusative *ihn* [@next a] with dative *ihm* [@next b]. Felfe [-@felfe2024] mentions the verbs *boxen, fassen, hauen, kneifen, küssen, schlagen, schneiden, stechen, streicheln, treten, zwicken* as further examples of verbs that allow for both these options.
 
 ::: ex
 a. Der Hund hat ihn gebissen. \
@@ -2371,7 +2371,7 @@ This construction is frequently used metaphorically [@next].
 
 ### ~~ADJ › OBJ › PBJ~~ : [ NAg | NPA ] Possessor-of-accusative applicative {#sec:perpositions-possessor-applicative}
 
-This alternation is the German equivalent of the "Possessor Object" alternation in English from Levin [-@levin1993: 73]. The possessor of an accusative becomes an accusative and the erstwhile accusative is demoted to a prepositional phrase. The preposition (typically *für*) appears to be a governed preposition. In German I propose to call this diathesis ~~Pertinenzakkusativ~~.
+This alternation is the German equivalent of the "Possessor Object" alternation in English from Levin [-@levin1993: 73]. The possessor of an accusative becomes an accusative and the erstwhile accusative is demoted to a prepositional phrase. The preposition (typically *für*) appears to be a governed preposition. In German I propose to call this diathesis ~~Pertinenzakkusativ~~.^[The term ~~Pertinenzakkusativ~~ is also used by Felfe [-@felfe2024], but with a different meaning.]
 
 ::: ex
 a. Ich bewundere seine Ehrlichkeit.
