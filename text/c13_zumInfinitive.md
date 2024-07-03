@@ -378,7 +378,7 @@ This construction is very close to an adverbial modification as discussed in [@s
 
 #### Attested verbs {.unnumbered}
 
-Probably the same verbs as for the *gehen+zum‑In­fi­ni­tiv* (see [sec:zuminfinitive-gehen]) can be used for the *kommen+vom‑In­fi­ni­tiv*. They will not be repeated here.
+Probably the same verbs as for the *gehen+zum‑In­fi­ni­tiv* (see [@sec:zuminfinitive-gehen]) can be used for the *kommen+vom‑In­fi­ni­tiv*. They will not be repeated here.
 
 ### *kommen+zum‑In­fi­ni­tiv* End of movement {#sec:zuminfinitive-kommen-zum}
 
@@ -389,7 +389,7 @@ The *kommen+zum‑In­fi­ni­tiv* has a very specific interpretation to indicat
 - Die Friedensverhandlungen im Jemen sind zum Erliegen gekommen.^[~~DWDS~~: Die Zeit, 07.07.2017 (online).]
 :::
 
-Besides this stative usage, there are a few other sentence patterns that look similar, but are actually distinct. First, there is a *zum* adverbial structure with a teleological, meaning 'with the goal to'. This can be paraphrased in German with *um zu* [@next a]. This is a widespread possibility for a *zum‑In­fi­ni­tiv* that is not specific for a combination with *kommen* (see [@sec:zuminfinitive-teleological]). Second, there is an interpretation of *kommen zu* meaning 'to get around to do something' [@next b]. In this usage, the preposition *zu* is a governed preposition and can be paraphrased in German with *dazu+zu‑In­fi­ni­tiv* [@next c]. This is a lexically separate meaning of the verb *kommen* with a governed prepositional subordination (see [@sec:zuminfinitive-subordination]). Third, there is a highly frequent fixed expression *zum Tragen kommen* 'to bring to bear' [@next d]. Such lexicalised expressions are known in the German literature as *Funktions­verb­gefüge* (see [@sec:zuminfinitive-funktionsverb]). All these sentence patterns do not have to be distinguished from the stative *kommen+zum‑In­fi­ni­tiv* construction illustrated above in [@last].
+Besides this stative usage, there are a few other sentence patterns that look similar, but are actually distinct. First, there is a *zum* adverbial structure with a teleological, meaning 'with the goal to'. This can be paraphrased in German with *um zu* [@next a]. This is a widespread possibility for a *zum‑In­fi­ni­tiv* that is not specific for a combination with *kommen* (see [@sec:zuminfinitive-teleological]). Second, there is an interpretation of *kommen zu* meaning 'to get around to do something' [@next b]. In this usage, the preposition *zu* is a governed preposition and can be paraphrased in German with *dazu+zu‑In­fi­ni­tiv* [@next c]. This is a lexically separate meaning of the verb *kommen* with a governed prepositional subordination (see [@sec:zuminfinitive-subordination]). Third, there is a highly frequent fixed expression *zum Tragen kommen* 'to bring to bear' [@next d]. Such lexicalised expressions are known in the German literature as *Funktions­verb­gefüge* (see [@sec:zuminfinitive-funktionsverb]). All these sentence patterns have to be distinguished from the stative *kommen+zum‑In­fi­ni­tiv* construction illustrated above in [@last].
 
 ::: ex
 - Kaum jemand sei zum Baden gekommen.^[~~DWDS~~: Die Zeit, 18.05.2017, Nr. 21.] \
