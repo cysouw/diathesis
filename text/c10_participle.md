@@ -1795,58 +1795,61 @@ Almost all transitive verbs allow for a *Zustandspassiv*. The following verbs wi
 
 #### Further examples {.unnumbered}
 
-- The following are examples in which the *Zustandspassiv* does not seem to be possible:
-  - Er feiert seinen Geburtstag. \
-    \*Der Geburtstag ist gefeiert.
-  - Er fühlt den Stich. \
-    \*Der Stich ist gefühlt.
-  - Er hört das Geräusch. \
-    \*Das Geräusch ist gehört.
-  - Das Leid der Armen kümmert mich. \
-    \*Ich bin gekümmert.
-  - Ich lege/setze/stecke das Kind unter die Decke. \
-    \*Das Kind ist unter die Decke gelegt/gesetzt/gesteckt.
-  - Das Ergebnis lohnt den Aufwand. \
-    \*Der Aufwand ist gelohnt.
-  - Ich merke den Schmerz. \
-    \*Der Schmerz ist gemerkt.
-  - Ich mag den Mann. \
-    \*Der Mann ist gemocht.
-  - Die Schuldgefühle quälen ihn. \
-    \*Er ist gequält.
-  - Ich rieche/schmecke den Braten. \
-    \*Der Braten ist gerochen/geschmeckt.
-  - Er schätz seinen Mitarbeiter. \
-    ^?^Sein Mitarbeiter ist geschätzt.
-  - Er sieht das Haus. \
-    \*Das Haus ist gesehen.
-  - Ich weiß die Antwort. \
-    \*Die Antwort ist gewusst.
-  - Ich zeige dir meine Schätze. \
-    \*Meine Schätze sind gezeigt.^[Note the possibility of 'Meine Schätze sind schnell gezeigt.' This sentence appears to have a possible prospective interpretation.]
-  - Ich zwicke deinen Arm. \
-    \*Dein Arm ist gezwickt.
-  - Ich verlange eine Erklärung. \
-    \*Eine Erklärung ist verlangt.
-- The following are further examples with verbs with which the *Zustandspassiv* is impossible, but with these verbs an alternation with a preverb is available:
-  - Sorgen drücken mich. \
-    Ich bin (\*gedrückt) bedrückt.
-  - Das Essen ekelt mich. \
-    Ich bin (\*geekelt) angeekelt.
-  - Die Aussicht freut mich. \
-    Ich bin (\*gefreut) erfreut.
-  - Er hasst seinen Nachbarn. \
-    Der Nachbar ist (\*gehasst) verhasst.
-  - Ich heirate meinen Freund. \
-    Mein Freund ist (\*geheiratet) verheiratet.
-  - Ich kenne den Mann. \
-    Der Mann ist (\*gekannt) bekannt.
-  - Er kratzt seinen Arm. \
-    Der Arm ist (\*gekratzt) zerkratzt.
-  - Sein Verhalten wundert mich. \
-    Ich bin (\*gewundert) verwundert.
-  - Er prügelt seine Kinder. \
-    Seine Kinder sind (\*geprügelt) verprügelt.
+The following are examples in which the *Zustandspassiv* does not seem to be possible:
+
+- Er feiert seinen Geburtstag. \
+  \*Der Geburtstag ist gefeiert.
+- Er fühlt den Stich. \
+  \*Der Stich ist gefühlt.
+- Er hört das Geräusch. \
+  \*Das Geräusch ist gehört.
+- Das Leid der Armen kümmert mich. \
+  \*Ich bin gekümmert.
+- Ich lege/setze/stecke das Kind unter die Decke. \
+  \*Das Kind ist unter die Decke gelegt/gesetzt/gesteckt.
+- Das Ergebnis lohnt den Aufwand. \
+  \*Der Aufwand ist gelohnt.
+- Ich merke den Schmerz. \
+  \*Der Schmerz ist gemerkt.
+- Ich mag den Mann. \
+  \*Der Mann ist gemocht.
+- Die Schuldgefühle quälen ihn. \
+  \*Er ist gequält.
+- Ich rieche/schmecke den Braten. \
+  \*Der Braten ist gerochen/geschmeckt.
+- Er schätz seinen Mitarbeiter. \
+  ^?^Sein Mitarbeiter ist geschätzt.
+- Er sieht das Haus. \
+  \*Das Haus ist gesehen.
+- Ich weiß die Antwort. \
+  \*Die Antwort ist gewusst.
+- Ich zeige dir meine Schätze. \
+  \*Meine Schätze sind gezeigt.^[Note the possibility of 'Meine Schätze sind schnell gezeigt.' This sentence appears to have a possible prospective interpretation.]
+- Ich zwicke deinen Arm. \
+  \*Dein Arm ist gezwickt.
+- Ich verlange eine Erklärung. \
+  \*Eine Erklärung ist verlangt.
+
+The following are further examples with verbs with which the *Zustandspassiv* is impossible, but with these verbs an alternation with a preverb is available:
+
+- Sorgen drücken mich. \
+  Ich bin (\*gedrückt) bedrückt.
+- Das Essen ekelt mich. \
+  Ich bin (\*geekelt) angeekelt.
+- Die Aussicht freut mich. \
+  Ich bin (\*gefreut) erfreut.
+- Er hasst seinen Nachbarn. \
+  Der Nachbar ist (\*gehasst) verhasst.
+- Ich heirate meinen Freund. \
+  Mein Freund ist (\*geheiratet) verheiratet.
+- Ich kenne den Mann. \
+  Der Mann ist (\*gekannt) bekannt.
+- Er kratzt seinen Arm. \
+  Der Arm ist (\*gekratzt) zerkratzt.
+- Sein Verhalten wundert mich. \
+  Ich bin (\*gewundert) verwundert.
+- Er prügelt seine Kinder. \
+  Seine Kinder sind (\*geprügelt) verprügelt.
 
 ### ~~OBJ › SBJ › ADJ~~ : [ NA | pN ] *bleiben+Partizip* Passive {#sec:participles-bleiben-transitive}
 
