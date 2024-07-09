@@ -1791,6 +1791,7 @@ e. Ich beklage mich darüber, dass es so laut ist.
 - bei  : *entscheiden, überstürzen*
 - für  : *entscheiden, entschuldigen, rechtfertigen, verantworten, verbürgen*
 - in   : *behaupten, üben, versuchen, vertiefen*
+- mit  : *arrangieren*
 - über : *beklagen, besprechen*
 - von  : *distanzieren, trennen*
 - vor  : *fürchten, scheuen*
@@ -1838,7 +1839,7 @@ b. Ich entscheide die Reihenfolge. \
    Ich entscheide mich für diese Reihenfolge.
 :::
 
-The verb *beklagen* seems to have two different meanings: without *sich* it means 'to lament' while with *sich* it means 'to complain' [@next a]. Likewise, the verb *verschlucken* shows a major semantic shift with this antipassive diathesis from 'to swallow' to 'to choke' [@next b]. The verb *vertiefen* shows a minor semantic restriction, changing from 'to engross' to 'to delve into' [@next c].
+The verb *beklagen* seems to have two different meanings: without *sich* it means 'to lament' while with *sich* it means 'to complain' [@next a]. Likewise, the verb *verschlucken* shows a major semantic shift with this antipassive diathesis from 'to swallow' to 'to choke' [@next b]. The verb *vertiefen* shows a minor semantic restriction, changing from 'to engross' to 'to delve into' [@next c]. The verb *arrangieren* also shows a minor semantic shift from 'to arrange' to 'to adapt' [@next d].
 
 ::: ex
 a. Ich beklage den Tod. \
@@ -1847,6 +1848,8 @@ b. Ich verschlucke die Pille. \
    Ich verschlucke mich an der Pille.
 c. Ich vertiefe meine Kenntnisse. \
    Ich vertiefe mich in mein Buch.
+d. Ich arrangiere das Treffen. \
+   Ich arrangiere mich mit meinem Chef.
 :::
 
 ## Diatheses with promotion to object

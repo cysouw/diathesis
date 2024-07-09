@@ -384,12 +384,13 @@ It is slightly more common to find impersonal *sein+zu‑In­fi­ni­tiv* constr
 
 #### Attested verbs {.unnumbered}
 
-- *antworten auf, arbeiten an, lachen über, spaßen mit, warten auf*
+- *antworten auf, arbeiten an, lachen über, rechnen mit, spaßen mit, warten auf*
 
 #### Further examples {.unnumbered}
 
 - Daran ist zu arbeiten.^[~~DWDS~~: Die Zeit, 28.10.1999, Nr. 44.]
 - Und noch über einen Engel ist zu lachen, wenn man der Erzengel ist.^[~~DWDS~~: Vischer, Friedrich Theodor von: Ästhetik oder Wissenschaft des Schönen. Bd. 1. Reutlingen u. a., 1846.]
+- Und mit dieser Zustimmung ist in einigen Landtagen nicht zu rechnen.^[Attested online at <https://www.faz.net/aktuell/feuilleton/plan-fuer-ard-und-zdf-wird-zwangsbeitrag-bald-zwangsverordnet-19842841.html>, accessed 9 July 2024.]
 
 ### ~~SBJ › Ø~~ : [ ND | –D ] *sein+zu‑In­fi­ni­tiv* Impersonal+dative
 
