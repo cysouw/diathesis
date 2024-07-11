@@ -1774,6 +1774,7 @@ b. Sie vertraut mir ein Geheimnis an.
 #### Attested verbs {.unnumbered}
 
 - ˈan- : *vertrauen*
+- ˈzu- : *trauen*
 
 ### ~~Ø › OBJ~~ : [ N– | NA ] Preverb reflexive accusative {#sec:preverb-reflexive-resultative}
 
