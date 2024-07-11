@@ -1360,7 +1360,7 @@ d. ^* Die Straße hat sich gezogen.
 
 #### Attested verbs {.unnumbered}
 
-- *bohren, eingraben, gliedern, häufen, rekrutieren, saugen, ziehen*
+- *bohren, eingraben, finden, gliedern, häufen, rekrutieren, saugen, ziehen*
 
 #### Further examples {.unnumbered}
 
@@ -1376,6 +1376,8 @@ d. ^* Die Straße hat sich gezogen.
   Der Wein saugt sich in das Taschentuch.
 - Er rekrutiert Mitglieder aus allen Teilen der Gesellschaft. \
   Die Mitglieder rekrutieren sich aus allen Teilen der Gesellschaft.
+- Ich finde das Wort in seinem Brief. \
+  Darüber findet sich in seinem Brief kein Wort.
 
 ### ~~OBJ › SBJ › Ø~~ : [ NAP | –NP ] Reflexive anticausative+governed preposition
 
