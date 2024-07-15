@@ -1231,7 +1231,7 @@ There is some discussion in the literature [@schafer2007: 35ff.; @kurogo2016] ab
 - Change of position: *ändern, auftun, bewegen, drehen, lockern, öffnen, schließen, senken, spalten, teilen, umgeben, verschieben, versammeln*
 - Change of dimension: *abschwächen, ansammeln, ansparen, ausbreiten, ausdehnen, beschleunigen, beschränken, entfalten, erhöhen, erweitern, steigern, verändern, verbessern, verbreiten, verdoppeln, verengen, vergrößern, verkleinern, verkürzen, verlangsamen, verlängern, vermehren, verringern, verstärken, verteuern*
 - Change of physical state: *abkühlen, ablagern, ablösen, abnutzen, abschalten, abschwächen, abseilen, auflösen, aufwärmen, ausschalten, beziehen, brechen (Wellen), erleuchten, einfügen, einschalten, eindrücken, entzünden, erwärmen, färben, festigen, festhaken, festfahren, füllen, gliedern, komplizieren, leeren, runden, röten, verändern, verbessern, vereinfachen, verhaken, verkomplizieren, verschlechtern, verwandeln, wärmen*
-- Others: *aufklären, befriedigen, bessern, bestätigen, konstituieren, lohnen, wiederholen, zeigen*
+- Others: *aufklären, befriedigen, bessern, bestätigen, konstituieren, lohnen, richten, wiederholen, zeigen*
 
 #### Further examples {.unnumbered}
 
@@ -1284,6 +1284,8 @@ There is some discussion in the literature [@schafer2007: 35ff.; @kurogo2016] ab
   Die Preise verteuern sich.
 - Ich erleuchte die Bühne. \
   Die Bühne erleuchtet sich.
+- Sie richtet ihren Blick auf Scholz. \
+  Die Blicke richten sich auf Scholz.^[Attested online at <https://www.sueddeutsche.de/politik/nato-joe-biden-jens-stoltenberg-usa-russland-ukraine-putin-kiew-lux.AWhvv74gcT1NuUoZbPxxRe>, accessed 11 July 2024.]
 
 #### Notes {.unnumbered}
 
