@@ -161,7 +161,7 @@ Another candidate for grammaticalisation is the verb *bringen*. The verb *bringe
 - Sie bringt mich immer zum Weinen. \
   Sie bringt mich immer dazu, zu weinen.
 - […] wenn […] ein wilder Föhn […] die weichen Schneemassen […] zum schnellen Schmelzen bringt.^[~~DWDS~~: Voß, Richard: Zwei Menschen, Stuttgart: Engelhorn 1911 [1949], S. 52.] \
-  Wer es zum aktiven Offizier gebracht hat […].^[~~DWDS~~: Süddeutsche Zeitung, 1995 [1945].] \
+  […] sie müsse ihren mann […] einmal am tag zum herzhaften lachen bringen.^[~~DWDS~~: Pizza mit Artischocken, Taleggio und Sophia Loren. Lamiacucina, 2011-07-15.] \
   Er hätte vielleicht sogar auf diese Art seine Flucht zum guten Ende bringen können.^[~~DWDS~~: Seghers, Anna: Das siebte Kreuz, Berlin: Aufbau-Taschenbuch-Verl. 2002 [1942], S. 207.]
 :::
 
