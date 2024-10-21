@@ -2115,7 +2115,7 @@ c. ^* Ich habe mich von dem Witz angewidert.
 
 - in   : *begründen, faszinieren, interessieren*
 - mit  : *beschäftigen, schmücken*
-- über : *aufregen, begeistern, beunruhigen, empören, entsetzen, erbosen, erfreuen, erstaunen, erzürnen, überraschen, verärgern, verblüffen, verstören, verwundern*
+- über : *aufregen, begeistern, beunruhigen, empören, entsetzen, entzücken, erbosen, erfreuen, erstaunen, erzürnen, überraschen, verärgern, verblüffen, verstören, verwundern*
 - von  : *amüsieren, anekeln, anstrengen, anwidern, beruhigen, entspannen, enttäuschen, erschöpfen, langweilen, quälen*
 
 #### Further examples {.unnumbered}

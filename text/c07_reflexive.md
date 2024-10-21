@@ -1486,11 +1486,11 @@ The verbs with a *für* alternation, like *interessieren* 'to be interested in' 
 #### Attested verbs {.unnumbered}
 
 - Experiencer verbs:
-  - an    : *belustigen, stören, erfreuen, erheitern*
+  - an    : *belustigen, entzücken, stören, erfreuen, erheitern*
   - bei   : *anstrengen, beruhigen, entspannen, langweilen, quälen, unterhalten*
   - für   : *begeistern, faszinieren, motivieren, interessieren*
   - um    : *bekümmern, kümmern*
-  - über  : *amüsieren, aufregen, ärgern, begeistern, beschweren, beunruhigen, empören, entsetzen, erschrecken, erstaunen, erzürnen, freuen, grämen, wundern*
+  - über  : *amüsieren, aufregen, ärgern, begeistern, beschweren, beunruhigen, empören, entsetzen, entzücken, erschrecken, erstaunen, erzürnen, freuen, grämen, wundern*
 - Other verbs:
   - auf   : *stützen*
   - aus   : *bilden, entwickeln, ergeben, erklären, speisen*
@@ -1593,6 +1593,13 @@ The verb *beschweren* has slight different meanings: in the transitive it means 
 ::: ex
 - Heimweh beschwert mein Gemüt.
 - Ich beschwere mich über das Alter.
+:::
+
+The verb *entzücken* has an old-fashioned usage with the präposition *an* [@next a] and apparently a newly minted usage with the präposition *über* [@next b].
+
+::: ex
+- "die Alte" entzückt sich an "tanzenden Staubkörnchen in den Morgensonnenstrahlen.^[Attested online at <https://hoerspiele.dra.de/vollinfo.php?dukey=1375589&SID>, accessed 21 October 2024.]
+- Sie entzückt sich über die handgemachten Christbaumkugeln.^[Attested online at <https://www.faz.net/aktuell/feuilleton/medien/new-yorker-televisionen-zwei-plus-1902163.html>, accessed 21 Octobre 2024.]
 :::
 
 ### ~~PBJ › SBJ › ADJ~~ : [ NP | pN ] Reflexive prepositional passive
