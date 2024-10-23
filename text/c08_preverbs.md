@@ -1854,6 +1854,7 @@ b. Ich entgehe dem Urteil.
 #### Attested verbs {.unnumbered}
 
 - entˈ- : *gehen, kommen, wachsen, zaubern*
+- ˈauf- : *warten*
 - ˈzu-  : *arbeiten, blinzeln, zwinkern*
 
 #### Further examples {.unnumbered}
@@ -1862,8 +1863,10 @@ b. Ich entgehe dem Urteil.
   Ich entkomme einer Gefahr.
 - Das Kind wächst. \
   Das Kind entwächst den Windeln.
-- Erna arbeitete. \
+- Erna arbeitete (für mich). \
   Erna arbeitete mir zu.^[[@lehmann2015: 1580]]
+- Ich warte (auf ihn). \
+  Ich warte ihm auf.
 
 ### ~~Ø › OBJ~~ : [ NA– | NAD ] Preverb dative addition+accusative {#sec:preverb-dative-addition-accusative}
 
