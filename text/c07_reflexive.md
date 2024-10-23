@@ -183,7 +183,7 @@ Various verbs describing behaviour, like *verirren* 'to get lost' [@next a], nee
 
 #### Attested verbs {.unnumbered}
 
-- Behaviour: *abmühen, abrackern, abstrampeln, aufführen, aufrappeln, beeilen, benehmen, betrinken, besaufen, bücken, daranmachen, davonstehlen, durchlavieren, durchmogeln, durchwursteln, echauffieren, einigeln, erhängen, ermannen, fortbilden, gedulden, herausreden, hervortun, hinauswagen, sputen*
+- Behaviour: *abmühen, abrackern, abstrampeln, aufrappeln, beeilen, benehmen, betrinken, besaufen, bücken, daranmachen, davonstehlen, durchlavieren, durchmogeln, durchwursteln, echauffieren, einigeln, erhängen, ermannen, fortbilden, gedulden, herausreden, hervortun, hinauswagen, sputen*
 - (Erratic) behaviour with *ver-*: *verfahren, verhalten, verhaspeln, verirren, verkalkulieren, verlaufen, verplappern, verschreiben (falsch schreiben), verspäten, verspekulieren, versprechen (falsch sprechen), verrennen, vertun, verwählen, verzählen*
 - Bodily process: *akklimatisieren, erkälten, räuspern, verkühlen, übergeben, wohlfühlen*
 - Natural process: *abregnen, anfinden, bauchen, behaaren, bewahrheiten, bewölken, eintrüben, entspinnen, ereignen, herauskristallisieren, jähren, rentieren, verästeln, verfärben, verpuppen, verzweigen, zutragen*

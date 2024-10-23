@@ -434,6 +434,14 @@ The verb *anfühlen* 'to sense by touching' is typically used intransitively wit
 - Sie fühlte Juliettens erfrorene Füße an.^[~~DWDS~~: Werfel, Franz: Die Vierzig Tage des Musa Dagh II, Stockholm: Bermann - Fischer 1947 (1933), S. 383.]
 :::
 
+The verb *aufführen* has various meanings, e.g. 'to stage' [@next a] or 'to name' [@next b]. Only in the meaning of 'to behave' [@next c] it obligatorily needs a reflexive pronoun and an evaluative adverbial expression.
+
+:::
+- Die Truppe hat ein Ballett aufgeführt.
+- Er hat viele gute Gründe aufgeführt.
+- Er hat sich unanständig aufgeführt.
+:::
+
 ### [ N ] Nominative+local adverb
 
 Verbs with an obligatory local prepositional phrase ([@sec:prepositions-obligatory-local]), like *übernachten* 'to sleep over' [@next a], can of course be used with an obligatory local adverb instead [@next b].
