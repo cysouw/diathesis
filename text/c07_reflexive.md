@@ -702,7 +702,7 @@ c. Ich habe mir das Haus angesehen.
 
 #### Attested verbs {.unnumbered}
 
-- *anhören, ansehen, ausdenken, erbetteln, erdenken, erhandeln, erkämpfen, erschwimmen, ersehnen, ersparen (Geld), erspielen, erwandern, überlegen, verdienen, wünschen*
+- *anhören, ansehen, ausdenken, aussuchen, erbetteln, erdenken, erhandeln, erkämpfen, erschwimmen, ersehnen, ersparen (Geld), erspielen, erwandern, überlegen, verdienen, wünschen*
 
 #### Further examples {.unnumbered}
 
@@ -728,6 +728,8 @@ c. Ich habe mir das Haus angesehen.
   Sie erwandert sich die Atlantikküste.^[~~DWDS~~: Die Zeit, 24.05.2007, Nr. 22.]
 - Die Armee hat den Sieg erkämpft. \
   Der Sportler hat sich den ersten Platz erkämpft.
+- Er hat einen Anzug ausgesucht. \
+  Er hat sich einen Anzug ausgesucht
 
 #### Notes {.unnumbered}
 
