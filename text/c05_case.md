@@ -169,6 +169,17 @@ Some of the verbs of housing allow for accusative arguments in non-housing relat
 - Ich ziehe die Karre weg.
 :::
 
+### Empty accusative *es*
+
+completely lexicalised?
+
+- Margarine tut's auch. (DWDS Wörterbuch)
+- Deine Rücklichter tun's nicht.
+- Mein Einsatz bringt's nicht.
+- An jenem Tag bringt's die Sonne auf knapp acht Stunden. (DWDS Der Tagesspiegel, 22.12.2002)
+
+(cf. Lehmann 2015:1553 https://www.degruyterbrill.com/document/doi/10.1515/9783110429343-017/html)
+
 ### [ NA ] Nominative+accusative
 
 The verbs in this class are strict transitives: they need a nominative subject argument and an additional accusative argument. Further arguments are not allowed, and no governed prepositions are allowed either. It turns out that this group is not very large, because very many verbs allow for dative arguments (traditionally called "free" datives) or alternations with governed prepositions. For example, an apparently typical transitive verb like *bauen* 'to build' allows for a dative to mark the beneficiary of the building, as in *Ich baue dir ein Haus* 'I will build a house for you' (see [@sec:prepositions-benefactive-dative]). Conversely, there are also many apparently typical transitive verbs that can just as well be used without accusative object, including well-known ambitransitive verbs like *essen* 'to eat' (see [@sec:case-accusative-drop]). All such verbs are discussed in their respective sections. Still, even with all those verbs removed, the current set of "pure" transitive verbs can easily be extended and the list given below is not at all intended to be complete. 

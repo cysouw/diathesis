@@ -1401,6 +1401,14 @@ The verb *schenken* 'to pour' used to be common in a context of pouring a drink 
 - Sie schenkten Wein ein.
 :::
 
+With the verb *schütten* 'to pour' [@next] the location does not seem to be possible at all with the addition of the preverb (cf. Lehmann 2015: 1579).
+
+::: ex
+- Erna schüttete die Suppe in die Terrine.
+- Erna verschüttete die Suppe.
+- ^* Erna verschüttete die Suppe in die Terrine.
+::: 
+
 ### ~~PBJ › OBJ › Ø~~ : [ NLA | NA– ] Preverb applicative+accusative drop {#sec:preverb-location-antiresultative}
 
 The result of a verb like *pressen* 'to squeeze' is *Saft* 'juice' [@next a]. This verb needs an obligatory local phrase for the original container of the juice, *aus der Zitrone* 'from the citron' [@next b]. Verbs in this category either use the preposition *aus* or *von*. With a preverb, the verb *auspressen* 'to squeeze' drops this accusative result and promotes the container of the result *Zitrone* to accusative [@next c]. In effect, the role marked as object is exchanged. The new object (here *Zitrone*) is always a holonymic "whole" containing the original meronymic content (here *Saft*). This diathesis applies to verbs in which the meronymic content is removed out of the holonymic container, hence I propose the German name ~~Präverb Ganz/leer-Objekttausch~~ for this diathesis.
