@@ -363,7 +363,7 @@ Some verbs, like *erinnern* 'to remind' [@next], combine a governed preposition 
 - an   : *erinnern, festmachen (erkennen) gewöhnen, wenden*
 - auf  : *begründen*
 - über : *aufklären, unterrichten*
-- für  : *ausgeben (bezeichnen)*
+- für  : *ausgeben (bezeichnen), halten (einschätzen)*
 - mit  : *begründen*
 
 #### Further examples {.unnumbered}
@@ -375,6 +375,7 @@ Some verbs, like *erinnern* 'to remind' [@next], combine a governed preposition 
 - Ich begründe meine schlechte Leistung mit einer Krankheit.
 - Die Zeitung unterrichtet die Leser über die neuesten Ereignisse.
 - Sie macht diese Behauptung daran fest, dass ihr Großvater Lehrer war.^[~~DWDS~~: Die Zeit, 13.03.2014, Nr. 11.]
+- Ich hielt ihn für einen Ausländer^[DWDS dictionary, available at <https://www.dwds.de/wb/halten>, accessed 2 June 2025.]
 
 ### [ NL ] Obligatory local preposition {#sec:prepositions-obligatory-local}
 

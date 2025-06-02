@@ -183,7 +183,7 @@ Various verbs describing behaviour, like *verirren* 'to get lost' [@next a], nee
 
 #### Attested verbs {.unnumbered}
 
-- Behaviour: *abmühen, abrackern, abstrampeln, aufrappeln, beeilen, benehmen, betrinken, besaufen, bücken, daranmachen, davonstehlen, durchlavieren, durchmogeln, durchwursteln, echauffieren, einigeln, erhängen, ermannen, fortbilden, gedulden, herausreden, hervortun, hinauswagen, sputen*
+- Behaviour: *abmühen, abrackern, abstrampeln, aufrappeln, beeilen, benehmen, betrinken, besaufen, bücken, daranmachen, davonstehlen, durchlavieren, durchmogeln, durchwursteln, echauffieren, einigeln, erhängen, ermannen, fortbilden, gedulden, gehören, herausreden, hervortun, hinauswagen, sputen*
 - (Erratic) behaviour with *ver-*: *verfahren, verhalten, verhaspeln, verirren, verkalkulieren, verlaufen, verplappern, verschreiben (falsch schreiben), verspäten, verspekulieren, versprechen (falsch sprechen), verrennen, vertun, verwählen, verzählen*
 - Bodily process: *akklimatisieren, erkälten, räuspern, verkühlen, übergeben, wohlfühlen*
 - Natural process: *abregnen, anfinden, bauchen, behaaren, bewahrheiten, bewölken, eintrüben, entspinnen, ereignen, herauskristallisieren, jähren, rentieren, verästeln, verfärben, verpuppen, verzweigen, zutragen*
@@ -196,6 +196,7 @@ Various verbs describing behaviour, like *verirren* 'to get lost' [@next a], nee
 - Die Segel bauchen sich im Winde.^[~~DWDS~~ dictionary, attested online at <https://www.dwds.de/wb/bauchen>, accessed 25 December 2022.]
 - Auf der A8 hat sich ein Unfall ereignet.
 - Die neugeborenen Katzen behaaren sich allmählich.^[~~DWDS~~ dictionary, attested online at <https://www.dwds.de/wb/behaaren>, accessed 27 July 2022.]
+- Ich finde, so eine Aussage gehört sich nicht.^[~~DWDS~~: Deutscher Bundestag: Plenarprotokoll Nr. 18/91 vom 05.03.2015, S. 8621.]
 
 ### [ NP ] Accusative reflexive+governed preposition {#sec:reflexive-obligatory-reflexive-preposition}
 
