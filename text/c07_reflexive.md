@@ -183,7 +183,7 @@ Various verbs describing behaviour, like *verirren* 'to get lost' [@next a], nee
 
 #### Attested verbs {.unnumbered}
 
-- Behaviour: *abmühen, abrackern, abstrampeln, aufrappeln, beeilen, benehmen, betrinken, besaufen, bücken, daranmachen, davonstehlen, durchlavieren, durchmogeln, durchwursteln, echauffieren, einigeln, erhängen, ermannen, fortbilden, gedulden, gehören, herausreden, hervortun, hinauswagen, sputen*
+- Behaviour: *abmühen, abrackern, abstrampeln, aufrappeln, beeilen, benehmen, betrinken, besaufen, bücken, daranmachen, davonstehlen, ducken, durchlavieren, durchmogeln, durchwursteln, echauffieren, einigeln, erhängen, ermannen, flegeln, freischwimmen, fortbilden, gedulden, gehören, herausreden, hervortun, hinauswagen, hinfläzen, hinknien, sputen*
 - (Erratic) behaviour with *ver-*: *verfahren, verhalten, verhaspeln, verirren, verkalkulieren, verlaufen, verplappern, verschreiben (falsch schreiben), verspäten, verspekulieren, versprechen (falsch sprechen), verrennen, vertun, verwählen, verzählen*
 - Bodily process: *akklimatisieren, erkälten, räuspern, verkühlen, übergeben, wohlfühlen*
 - Natural process: *abregnen, anfinden, bauchen, behaaren, bewahrheiten, bewölken, eintrüben, entspinnen, ereignen, herauskristallisieren, jähren, rentieren, verästeln, verfärben, verpuppen, verzweigen, zutragen*
@@ -553,7 +553,7 @@ This alternation is almost completely ignored in the German grammatical literatu
 
 ### ~~free~~: [ N | N ] Accusative free reflexive {#sec:reflexive-free}
 
-The semantic difference between these two alternants of the verbs in this group deserves further investigation. The verb *knien* 'to knee' in [@next] suggests that there might be a difference in dynamics: the construction without reflexive pronoun is more typical for a state, while the construction with reflexive pronoun is used typically to describe a change of state. However, this difference does not seem to hold for all examples. The reflexive pronoun clearly is not part of a reflexive construction as the verb is intransitive [@next c].
+The semantic difference between these two alternants of the verbs in this group deserves further investigation. The verb *knien* 'to knee' in [@next] suggests that there might be a difference in dynamics: the construction without reflexive pronoun is more typical for a state, while the construction with reflexive pronoun is used typically to describe a change of state. This difference has grammatical consequences, as the case after *Wechselpräpositionen* like *auf* is different (i.e. dative in [@next a] without a reflexive pronoun, but accusative in [@next b] with a reflexive pronoun). However, this difference only seems to apply to a small set of posture verbs. Most verbs with a "free" reflexive alternation do not show this difference in case marking after *Wechselpräpositionen*. Also note that the reflexive pronoun clearly is not part of a reflexive construction because the verbs in this section are all intransitive [@next c].
 
 ::: ex
 a. Er kniet auf dem Kissen.
@@ -569,7 +569,7 @@ b. Ich habe mich geduscht.
 c. Ich habe den Elefanten geduscht.
 :::
 
-Similarly, reflexive anticausatives, like *abkühlen* 'to cool' (see [@sec:reflexive-anticausative]), might seem to have a "free" reflexive [@next a]. However, the two possibilities are clearly distinguished by a different perfect auxiliary [@next b]. Also a transitive variant is possible [@next c]. This all indicates that a verb like *abkühlen* is a reflexive anticausative, and the intransitive construction without *sich* is an anticausative of the transitive (see [@sec:participles-sein-zustandspassiv]).
+Similarly, reflexive anticausatives, like *abkühlen* 'to cool' (see [@sec:reflexive-anticausative]), might seem to have a "free" reflexive [@next a]. However, the two possibilities are clearly distinguished by a different perfect auxiliary [@next b]. Also a transitive variant is possible [@next c]. This all indicates that a verb like *abkühlen* is a reflexive anticausative, and the intransitive construction without *sich* is an anticausative of the transitive alternant (see [@sec:participles-sein-zustandspassiv]).
 
 ::: ex
 a. Die Luft kühlt (sich) ab.
@@ -580,7 +580,8 @@ c. Der Regen hat die Luft abgekühlt.
 
 #### Attested verbs {.unnumbered}
 
-- *ausruhen, ausschlafen, drehen, erbrechen, halten (Zustand), heiraten, hinknien, irren, knien, lohnen*
+- *ausruhen, ausschlafen, drehen, erbrechen, halten (Zustand), heiraten, irren, lohnen*
+- Posture verbs: *fläzen, hocken, knien, kauern, lümmeln*
 
 #### Further examples {.unnumbered}
 
@@ -588,8 +589,6 @@ c. Der Regen hat die Luft abgekühlt.
   Ich ruhe mich aus.
 - Ich habe geirrt. \
   Ich habe mich geirrt.
-- Ich habe hingekniet. \
-  Ich habe mich hingekniet.
 - Er hat ausgeschlafen. \
   Er hat sich ausgeschlafen.
 - Der Kranke hat mehrmals erbrochen. \
@@ -600,6 +599,10 @@ c. Der Regen hat die Luft abgekühlt.
   Denn Bronzeskulpturen halten lange.^[~~DWDS~~: Berliner Zeitung, 26.11.1994.]
 - Paul und Marie heiraten. \
   Und zunehmend heiraten sich Menschen gleichen Bildungsstandes.^[~~DWDS~~: Die Zeit, 07.02.2008, Nr. 07.]
+- Die Muttersau fläzt in der Sonne. \
+  Das dicke Nilpferd fläzt sich träg im Schatten.^[~~DWDS~~ dictionary, available online at <https://www.dwds.de/wb/fläzen>, accessed 4 June 2025.]
+- Man lümmelte auf dem Sofa und schaute den Sonntagnachmittagsfilm. \
+  Ich war früh wach, habe mich aber noch einmal aufs Sofa gelümmelt.^[~~DWDS~~ dictionary, available online at <https://www.dwds.de/wb/lümmeln>, accessed 4 June 2025.]
 
 #### Notes {.unnumbered}
 
@@ -618,7 +621,7 @@ The verb *irren* 'to be wrong' without reflexive pronoun also seems to be old-fa
 Es irrt der Mensch so lang er strebt.^[~~DWDS~~: Goethe, Faust: Prolog 317.]
 :::
 
-The verb *drehen* 'to turn' is an interesting case that needs more research. It can be used transitively [@next a] and with a reflexive anticausative diathesis [@next b], see [@sec:reflexive-anticausative]. However, there are also various contexts in which the anticausative can be used without a reflexive [@next c]. In my experience, many German speakers consider such examples without reflexive to be wrong, but they are clearly attested. Something similar happens with *hinknien* 'to kneel down' [@next d]
+The verb *drehen* 'to turn' is an interesting case that needs more research. It can be used transitively [@next a] and with a reflexive anticausative diathesis [@next b], see [@sec:reflexive-anticausative]. However, there are also various contexts in which the anticausative can be used without a reflexive [@next c]. In my experience, many German speakers consider such examples without reflexive to be wrong, but they are clearly attested. Something similar happens with *hinknien* 'to kneel down', which is very rarely attested without a reflexive pronoun [@next d].
 
 ::: ex
 - Ich drehe die Kurbel.
@@ -1673,7 +1676,7 @@ c. ^* Er verbrennt sich und das Buch.
 
 #### Attested verbs {.unnumbered}
 
-- *abduschen, abhetzen, abwenden, anlehnen, anziehen, aufopfern, aufrichten, ausziehen, äußern, bewegen, entblößen, erheben, hinlegen, hinsetzen, hinstellen, neigen, recken, räkeln, schneiden, strecken, täuschen, verbrennen, verkleiden, verschlafen, verschlucken, zuneigen*
+- *abduschen, abhetzen, abwenden, anlehnen, anziehen, aufopfern, aufrichten, ausziehen, äußern, bewegen, entblößen, erheben, hinlegen, hinsetzen, hinstellen, neigen, recken, räkeln, schälen, schneiden, strecken, täuschen, verbrennen, verkleiden, verschlafen, verschlucken, zuneigen*
 
 #### Further examples {.unnumbered}
 
@@ -1699,6 +1702,8 @@ c. ^* Er verbrennt sich und das Buch.
   Er hatte sich ihr zugeneigt.
 - Er hat seine besten Jahre für uns aufgeopfert. \
   Er hat sich für uns aufgeopfert.
+- Er schält einen Apfel. \
+  Er schält sich am Rücken vom Sonnenbrand.
 
 #### Notes {.unnumbered}
 

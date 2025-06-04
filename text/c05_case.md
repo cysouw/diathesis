@@ -1220,7 +1220,7 @@ c. Ich beantworte deine Frage. \
 #### Attested verbs {.unnumbered}
 
 - Body tending: *heilen, kämmen, kratzen, küssen, maniküren, rasieren, streicheln, verbinden*
-- Injury: *auskugeln, brechen, verdrehen, verrenken, zerquetschen*
+- Injury: *auskugeln, brechen, scheuern, verdrehen, verrenken, zerquetschen*
 - Destruction: *amputieren, beenden, beschädigen, kündigen, ruinieren, schneiden, unterbrechen, versalzen, zerbrechen, zerknittern, zertreten*
 - Repair: *aktualisieren, korrigieren, reparieren*
 - Others: *ausstellen, beantworten, dressieren, packen*
@@ -1237,6 +1237,7 @@ c. Ich beantworte deine Frage. \
   Ich ruiniere deine Feier.
 - Ich beende/kündige dir den Vertrag. \
   Ich beende/kündige deinen Vertrag.
+- Der Schuh scheuerte mir die Ferse.^[~~DWDS~~ dictionary available at <https://www.dwds.de/wb/scheuern>, accessed 4 June 2025.]
 
 ## Symmetrical diatheses
 
