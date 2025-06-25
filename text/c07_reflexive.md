@@ -198,6 +198,15 @@ Various verbs describing behaviour, like *verirren* 'to get lost' [@next a], nee
 - Die neugeborenen Katzen behaaren sich allmählich.^[~~DWDS~~ dictionary, attested online at <https://www.dwds.de/wb/behaaren>, accessed 27 July 2022.]
 - Ich finde, so eine Aussage gehört sich nicht.^[~~DWDS~~: Deutscher Bundestag: Plenarprotokoll Nr. 18/91 vom 05.03.2015, S. 8621.]
 
+#### Notes {.unnumbered}
+
+The verb *ducken* 'to duck' can also be used transitively without a reflexive pronoun, but apparently only with the object *Kopf* 'head' [@next a]. There is also an old-fashioned transitive usage with the meaning 'to humiliate' [@next b].
+
+::: ex
+- Er duckte den Kopf zwischen die Schultern.^[~~DWDS~~: Werfel, Franz: Die Vierzig Tage des Musa Dagh I, Stockholm: Bermann - Fischer 1947 [1933], S. 334]
+- Er duckte den Sohn, aber er war stolz auf seinen gescheiten Buben.^[~~DWDS~~: Feuchtwanger, Lion: Erfolg. In: ders., Gesammelte Werke in Einzelbänden, Bd. 6, Berlin: Aufbau-Verl. 1993 [1930], S. 732.]
+:::
+
 ### [ NP ] Accusative reflexive+governed preposition {#sec:reflexive-obligatory-reflexive-preposition}
 
 A widespread phenomenon are verbs with an obligatory accusative *sich* with a governed preposition (see [@sec:prepositions-delimiting-governed-prepositional-phrases] on defining governed prepositions), like *entschließen zu* 'to decide' [@next a,b]. The verbs are listed below according to the preposition they govern.
@@ -315,16 +324,19 @@ Various reciprocal *mit* verbs also exist without reflexive pronoun, but only in
 
 ### [ NL ] Accusative reflexive+local preposition {#sec:reflexive-obligatory-local}
 
-A few verbs with obligatory *sich* additionally need an obligatory local prepositional phrase, like *sich befinden* 'to be located' [@next].
+A few verbs with obligatory *sich* additionally need an obligatory local prepositional phrase, like *sich befinden* 'to be located' [@next a,b]. A special subset of these verbs typically describe a motion and are consequently combined with a directional location, like *sich begeben* 'make one's way' [@next c,d]. This difference is syntactically reflected in the case after *Wechselpräpositionen* like *an*. Stative verbs like *befinden* have a dative after *an* [@next a], while verbs describing a movement like *begeben* have an accusative case after *an* [@next c].
 
 ::: ex
 a. Das Rathaus befindet sich am Marktplatz.
 b. ^* Das Rathaus befindet sich.
+c. Er hat sich an seinen Platz begeben.
+d. ^* Er hat sich begeben.
 :::
 
 #### Attested verbs {.unnumbered}
 
-- *aalen, ansiedeln, anstellen, aufhalten (befinden), befinden, begeben, einfressen, einschleichen, ergießen, fläzen, niederlassen, scheren, suhlen, umsehen, verkriechen, verschanzen, zubewegen, zurechtfinden*
+- With stative location: *aalen, ansiedeln, anstellen, aufhalten (befinden), befinden, suhlen, umsehen, verkriechen, verschanzen, zubewegen, zurechtfinden*
+- With directional location: *begeben, einfressen, einschleichen, ergießen, fläzen, niederlassen, scheren, trauen (wagen), zubewegen*
 
 #### Further examples {.unnumbered}
 
@@ -332,10 +344,13 @@ b. ^* Das Rathaus befindet sich.
 - Ich aale mich in der Sonne.
 - Der Schmutz hatte sich tief in die bröckligen Wände eingefressen.
 - Er schert sich nach Hause.
+- Ich traue mich nicht aus dem Haus.
 
 #### Notes {.unnumbered}
 
-The obligatory reflexive verb *sich aufhalten* 'to be located' is possibly distantly related in meaning to the non-reflexive verb *aufhalten* 'to stop something' discussed in [@sec:reflexive-preposition-passive]. 
+The obligatory reflexive verb *sich aufhalten* 'to be located' is possibly distantly related in meaning to the non-reflexive verb *aufhalten* 'to stop something' discussed in [@sec:reflexive-preposition-passive].
+
+The verb *sich trauen* 'to dare' is obviously related to *trauen* 'to trust', but both the semantic and the syntactic relation between these two does not fit into any other class of reflexive alternations. Also in this group it is the odd-one-out as it does not describe a movement. Semantically *sich trauen* seems related to the reflexive manner-of-movement diathesis in [@sec:reflexive-manner-of-movement].
 
 ### [ ND ] Accusative reflexive+dative {#sec:reflexive-obligatory-accusative-sich-dative}
 
@@ -553,15 +568,14 @@ This alternation is almost completely ignored in the German grammatical literatu
 
 ### ~~free~~: [ N | N ] Accusative free reflexive {#sec:reflexive-free}
 
-The semantic difference between these two alternants of the verbs in this group deserves further investigation. The verb *knien* 'to knee' in [@next] suggests that there might be a difference in dynamics: the construction without reflexive pronoun is more typical for a state, while the construction with reflexive pronoun is used typically to describe a change of state. This difference has grammatical consequences, as the case after *Wechselpräpositionen* like *auf* is different (i.e. dative in [@next a] without a reflexive pronoun, but accusative in [@next b] with a reflexive pronoun). However, this difference only seems to apply to a small set of posture verbs. Most verbs with a "free" reflexive alternation do not show this difference in case marking after *Wechselpräpositionen*. Also note that the reflexive pronoun clearly is not part of a reflexive construction because the verbs in this section are all intransitive [@next c].
+The semantic difference between these two alternants of the verbs in this group deserves further investigation. These "free" reflexive verbs, like *lohnen* 'to be worthwhile' [@next] appear to allow both for a reflexive and a non-reflexive construction without immediately obvious change in meaning.
 
 ::: ex
-a. Er kniet auf dem Kissen.
-b. Er kniet sich auf das Kissen.
-c. ^* Er kniet ihn auf das Kissen.
+- Die Arbeit lohnt.
+- Die Arbeit lohnt sich.
 :::
 
-Covert anticausatives, like with *duschen* 'to shower' (see [@sec:case-haben-anticausative]), might seem to have a "free" reflexive [@next a,b]. However, the construction with *sich* in [@next b] is just a self-inflicting reflexive of the transitive [@next c].
+Covert anticausatives, like with *duschen* 'to shower' (see [@sec:case-haben-anticausative]), might seem to have a "free" reflexive [@next a,b]. However, the construction with *sich* in [@next b] is just a self-inflicting reflexive of the transitive [@next c], so there is no "free" reflexive in these cases.
 
 ::: ex
 a. Ich habe geduscht.
@@ -569,7 +583,7 @@ b. Ich habe mich geduscht.
 c. Ich habe den Elefanten geduscht.
 :::
 
-Similarly, reflexive anticausatives, like *abkühlen* 'to cool' (see [@sec:reflexive-anticausative]), might seem to have a "free" reflexive [@next a]. However, the two possibilities are clearly distinguished by a different perfect auxiliary [@next b]. Also a transitive variant is possible [@next c]. This all indicates that a verb like *abkühlen* is a reflexive anticausative, and the intransitive construction without *sich* is an anticausative of the transitive alternant (see [@sec:participles-sein-zustandspassiv]).
+Similarly, reflexive anticausatives, like *abkühlen* 'to cool' (see [@sec:reflexive-anticausative]), might seem to have a "free" reflexive [@next a], but this is likewise a side-effect of various different diatheses. However, the two possibilities are clearly distinguished by a different perfect auxiliary [@next b]. Additionally, a transitive variant is possible [@next c]. This all indicates that a verb like *sich abkühlen* is a reflexive anticausative, and the intransitive construction without *sich* is a *Zustandspassiv*, i.e. an anticausative of the transitive (see [@sec:participles-sein-zustandspassiv]).
 
 ::: ex
 a. Die Luft kühlt (sich) ab.
@@ -578,10 +592,19 @@ b. Die Luft ist abgekühlt. \
 c. Der Regen hat die Luft abgekühlt. 
 :::
 
+Even more diathetical variation is attested with *(um)drehen* 'to turn' and *öffnen/schließen* 'to open/close'. These verbs also seem to have a "free" reflexive [@next a], but this likewise the result of two different diatheses. They allow both for a reflexive anticausative (see [@sec:reflexive-anticausative]) and a covert anticausative (see [@sec:case-haben-anticausative]), which leads to three different intransitive structures [@next b]. The difference between these options needs more research.
+
+::: ex
+a. Das Rad dreht (sich).
+b. Das Rad hat gedreht. \
+   Das Rad hat sich gedreht. \
+   Das Rad war zur Seite gedreht. \
+c. Ich habe das Rad gedreht.
+:::
+
 #### Attested verbs {.unnumbered}
 
 - *ausruhen, ausschlafen, drehen, erbrechen, halten (Zustand), heiraten, irren, lohnen*
-- Posture verbs: *fläzen, hocken, knien, kauern, lümmeln*
 
 #### Further examples {.unnumbered}
 
@@ -593,16 +616,10 @@ c. Der Regen hat die Luft abgekühlt.
   Er hat sich ausgeschlafen.
 - Der Kranke hat mehrmals erbrochen. \
   Der Betrunkene hat sich erbrochen.
-- Die Arbeit lohnt. \
-  Die Arbeit lohnt sich.
 - Geheimnisse halten sich lange.^[~~DWDS~~: Berliner Zeitung, 06.05.1995.] \
   Denn Bronzeskulpturen halten lange.^[~~DWDS~~: Berliner Zeitung, 26.11.1994.]
 - Paul und Marie heiraten. \
   Und zunehmend heiraten sich Menschen gleichen Bildungsstandes.^[~~DWDS~~: Die Zeit, 07.02.2008, Nr. 07.]
-- Die Muttersau fläzt in der Sonne. \
-  Das dicke Nilpferd fläzt sich träg im Schatten.^[~~DWDS~~ dictionary, available online at <https://www.dwds.de/wb/fläzen>, accessed 4 June 2025.]
-- Man lümmelte auf dem Sofa und schaute den Sonntagnachmittagsfilm. \
-  Ich war früh wach, habe mich aber noch einmal aufs Sofa gelümmelt.^[~~DWDS~~ dictionary, available online at <https://www.dwds.de/wb/lümmeln>, accessed 4 June 2025.]
 
 #### Notes {.unnumbered}
 
@@ -619,15 +636,6 @@ The verb *irren* 'to be wrong' without reflexive pronoun also seems to be old-fa
 
 ::: ex
 Es irrt der Mensch so lang er strebt.^[~~DWDS~~: Goethe, Faust: Prolog 317.]
-:::
-
-The verb *drehen* 'to turn' is an interesting case that needs more research. It can be used transitively [@next a] and with a reflexive anticausative diathesis [@next b], see [@sec:reflexive-anticausative]. However, there are also various contexts in which the anticausative can be used without a reflexive [@next c]. In my experience, many German speakers consider such examples without reflexive to be wrong, but they are clearly attested. Something similar happens with *hinknien* 'to kneel down', which is very rarely attested without a reflexive pronoun [@next d].
-
-::: ex
-- Ich drehe die Kurbel.
-- Die Räder drehen sich wieder.^[~~DWDS~~: Die Zeit, 09.02.2011 (online).]
-- Die beiden Räder drehen dann gleichmäßig.^[~~DWDS~~: Die Zeit, 07.01.2016, Nr. 02.]
-- Jedes Mal, wenn man etwas Böses gemacht hatte, musste man für eine gewisse Zeit auf eine Bank hinknien.^[~~DWDS~~: Der Tagesspiegel, 01.06.2001.]
 :::
 
 ### ~~free~~: [ NP | NP ] Accusative free reflexive+preposition {#sec:reflexive-free-preposition}
@@ -1236,7 +1244,7 @@ There is some discussion in the literature [@schafer2007: 35ff.; @kurogo2016] ab
 
 - Change of position: *ändern, auftun, bewegen, drehen, lockern, öffnen, schließen, senken, spalten, teilen, umgeben, verschieben, versammeln*
 - Change of dimension: *abschwächen, ansammeln, ansparen, ausbreiten, ausdehnen, beschleunigen, beschränken, entfalten, erhöhen, erweitern, steigern, verändern, verbessern, verbreiten, verdoppeln, verengen, vergrößern, verkleinern, verkürzen, verlangsamen, verlängern, vermehren, verringern, verstärken, verteuern*
-- Change of physical state: *abkühlen, ablagern, ablösen, abnutzen, abschalten, abschwächen, abseilen, auflösen, aufwärmen, ausschalten, beziehen, brechen (Wellen), erleuchten, einfügen, einschalten, eindrücken, entzünden, erwärmen, färben, festigen, festhaken, festfahren, füllen, gliedern, komplizieren, leeren, runden, röten, verändern, verbessern, vereinfachen, verhaken, verkomplizieren, verschlechtern, verwandeln, wärmen*
+- Change of physical state: *abkühlen, ablagern, ablösen, abnutzen, abschalten, abschwächen, abseilen, auflösen, aufwärmen, ausschalten, beziehen, brechen (Wellen), drehen, erleuchten, einfügen, einschalten, eindrücken, entzünden, erwärmen, färben, festigen, festhaken, festfahren, füllen, gliedern, komplizieren, leeren, runden, röten, umdrehen, verändern, verbessern, vereinfachen, verhaken, verkomplizieren, verschlechtern, verwandeln, wärmen*
 - Others: *aufklären, befriedigen, bessern, bestätigen, konstituieren, lohnen, richten, wiederholen, zeigen*
 
 #### Further examples {.unnumbered}
@@ -1724,7 +1732,7 @@ Ach, Johanna, ich glaube, ich habe mich verschlafen.^[~~DWDS~~: Fontane, Theodor
 
 ### ~~OBJ › Ø~~ : [ NAL | N–L ] Reflexive accusative drop+locative
 
-Similar to the previous endoreflexive alternation, the alternation with *werfen* 'to throw' [@next a,b] acts on the body. However, additionally a location phrase needs to be present [@next c]. However, the reflexive construction [@next b] looks very much like self-inflicted reflexive reference in this example. Indeed, the conjunction test proposed in the previous section seems to be perfectly possible here [@next d]. It needs more research to decide whether this alternation is to be considered as a separate diathesis, or whether this is just regular self-inflicting reflexive reference.
+Similar to the previous endoreflexive alternation, the alternation with *werfen* 'to throw' [@next a,b] acts on the body. However, additionally a directional location phrase needs to be present [@next c]. However, the reflexive construction [@next b] looks very much like self-inflicted reflexive reference in this example. Indeed, the conjunction test proposed in the previous section seems to be perfectly possible here [@next d]. It needs more research to decide whether this alternation is to be considered as a separate diathesis, or whether this is just regular self-inflicting reflexive reference.
 
 ::: ex
 a. Er wirft die Kleider aufs Bett.
@@ -1735,26 +1743,34 @@ d. Die Frauen warfen sich und ihre Kinder vor mein Pferd und baten um Hilfe.^[~~
 
 #### Attested verbs {.unnumbered}
 
-- *fokussieren, klammern, konzentrieren, pressen, legen, richten, setzen, stellen, werfen*
+- *klammern, pressen, legen, lehnen, richten, schleppen, setzen, stellen, wagen, werfen*
 
 #### Further examples {.unnumbered}
 
 - Sie presste die Hand auf das Herz. \
   Sie presste sich an die Hauswand.
 - Sie richtet ihre Aufmerksamkeit auf den Fall. \
-  Sie richtet sich auf den den Fall.
+  Sie richtet sich auf den Fall.
 - Er klammert die Wäsche an die Leine. \
   Das Kind klammerte sich an den Rock der Mutter.
+- Sie lehnt sich aus dem Fenster.
+- Er schleppt sich ins Bett.
+- Er wagte den Sprung auf die Straße. \
+  Er wagte sich nicht mehr auf die Straße.
 
-#### Notes {.unnumbered}
+### ~~OBJ › Ø~~ : [ NAP | N–P ] Reflexive accusative drop+governed preposition
 
-The verbs *fokussieren* and *konzentrieren* 'to concentrate, to focus' are slightly out-of-place among the other verbs in this group. They also have an *auf* prepositional phrase, but they do not have a locative meaning. It still is a governed preposition though [@next].
+The verbs *fokussieren* 'to focus' and *konzentrieren* 'to concentrate' have an *auf* prepositional phrase, which is a governed preposition [@next].
 
 ::: ex
 a. Ich konzentriere meine Energie auf das Spiel. 
 b. Ich konzentriere mich auf das Spiel.
 c. Ich konzentriere mich darauf, das Spiel zu gewinnen.
 :::
+
+#### Attested verbs {.unnumbered}
+
+- *fokussieren, konzentrieren*
 
 ### ~~OBJ › ADJ~~ : [ NA | Np ] Reciprocal antipassive {#sec:reflexive-mit-antipassive}
 
@@ -1883,7 +1899,7 @@ b. Ich bin durch den Garten getanzt.
 c. ^* Ich bin getanzt.
 :::
 
-The same diathesis is also attested with non-movement verbs, like *träumen* 'to dream' [@next a,b], but then an additional reflexive pronoun is obligatory [@next c], next to the obligatory location phrase [@next d]. This construction expresses that by performing the verb (i.e. by dreaming) a movement is performed as described in the location phrase (i.e. moving to New York). In German I propose to call this diathesis ~~Reflexiv Bewegungsart~~
+A similar diathesis is also attested with non-movement verbs, like *träumen* 'to dream' [@next a,b], but then an additional reflexive pronoun is obligatory [@next c], next to the obligatory directional phrase [@next d]. This construction expresses that by performing the verb (i.e. by dreaming) a movement is performed as described in the directional phrase (i.e. moving to New York). In German I propose to call this diathesis ~~Reflexiv Bewegungsart~~
 
 ::: ex
 a. Ich träume.
@@ -1902,6 +1918,13 @@ The location always describes a movement, with *durch* [@next a] 'through' and *
   Würzburg zitterte sich am Ende in die Playoffs.^[~~DWDS~~: Die Zeit, 07.05.2016 (online).]
 :::
 
+With posture verbs like *knien* 'to knee' [@next] there is a clear a difference in dynamics: the construction without reflexive pronoun is more typical for a state, while the construction with reflexive pronoun is used typically to describe a change of state. This difference has grammatical consequences, as the case after *Wechselpräpositionen* like *auf* is different (i.e. dative in [@next a] without a reflexive pronoun, but accusative in [@next b] with a reflexive pronoun).
+
+::: ex
+- Er kniet auf dem Kissen.
+- Er kniet sich auf das Kissen.
+:::
+
 This diathesis is exceptional, because an extra obligatory argument is introduced together with the reflexive pronoun. This is a clear counterexample to the generalisation that reflexive diatheses are demoting. A possible solution to this apparent markedness reversal is that the added obligatory location is maybe better interpreted as a marker of the diathesis. In other words, the obligatory location is not a part of the diathetical operation, but a part of the voice of the diathesis. This analysis is similar to the addition of directionals (see [@sec:adverbial-directionals]). Adding directionals regularly leads to transitive constructions, and then an intransitive verb needs an extra reflexive pronoun. This effect is also observed in the reflexive usage of intransitive verbs with an obligatory resultative preverbial, like with *gesundschlafen* 'to get healthy by sleeping' [@next]. That diathesis is discussed in more detail in [@sec:adverbial-intransitive-resultative].
 
 ::: ex
@@ -1913,9 +1936,10 @@ Although not all verbs listed below are strictly intransitive (e.g. *essen, trin
 
 #### Attested verbs {.unnumbered}
 
-- Food processing: *essen, fressen, trinken*
+- Consumption: *essen, fressen, trinken*
 - Bodily processes: *denken, dösen, schlafen, schwitzen, träumen, zittern*
-- Intransitive actions: *arbeiten, fallen, kämpfen, liegen, lügen, schießen*
+- Intransitive actions: *arbeiten, fallen, kämpfen, lügen, schießen*
+- Posture verbs: *fläzen, hinknien, hocken, knien, kauern, liegen, lümmeln*
 - Movement verbs: *schleichen, schwimmen*
 
 #### Further examples {.unnumbered}
@@ -1931,6 +1955,11 @@ Although not all verbs listed below are strictly intransitive (e.g. *essen, trin
 - Ich kämpfe mich durch die Wellen.
 - Ich lüge mich durch mein Leben.
 - Sie fallen/liegen sich in die Arme.
+- Die Muttersau fläzt in der Sonne. \
+  Er hat sich in Ethans Liegestuhl gefläzt.^[~~DWDS~~ dictionary, available online at <https://www.dwds.de/wb/fläzen>, accessed 4 June 2025.]
+- Man lümmelte auf dem Sofa und schaute den Sonntagnachmittagsfilm. \
+  Ich war früh wach, habe mich aber noch einmal aufs Sofa gelümmelt.^[~~DWDS~~ dictionary, available online at <https://www.dwds.de/wb/lümmeln>, accessed 4 June 2025.]
+- Jedes Mal, wenn man etwas Böses gemacht hatte, musste man für eine gewisse Zeit auf eine Bank hinknien.^[~~DWDS~~: Der Tagesspiegel, 01.06.2001.]
 
 #### Notes {.unnumbered}
 
