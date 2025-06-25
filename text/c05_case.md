@@ -528,7 +528,7 @@ Semantically, the intransitive *haben*-construction in [@next d] seems to be the
 
 #### Attested verbs {.unnumbered}
 
-- *abnehmen, abreißen, abstoßen, anfangen, anhalten, aufmachen, backen, baden, beginnen, bewegen, braten, bremsen, duschen, fliegen, kochen, landen, läuten, öffnen, rauchen, schließen, spielen (Tonträger), starten, stoppen, umdrehen, umgeben, wiegen, zählen, zünden*
+- *abnehmen, abreißen, abstoßen, anfangen, anhalten, aufmachen, backen, baden, beginnen, bewegen, braten, bremsen, drehen, duschen, fliegen, kochen, landen, läuten, öffnen, rauchen, schließen, spielen (Tonträger), starten, stoppen, umdrehen, umgeben, wiegen, zählen, zünden*
 
 #### Further examples {.unnumbered}
 
@@ -595,7 +595,7 @@ Similarly, the verb *anhalten* has two different meanings. In the meaning 'to st
   Mein Sohn ist angehalten, pünktlich zu sein.
 :::
 
-The verbs *öffnen* 'to open' and *schließen* 'to close' appear here in a special usage, for example when related to the opening and closing of a *Laden* 'shop' [@next a]. In that context an unmarked anticausative can be used [@next b]. In contrast, with other objects like *Tür* 'door' [@next c] the anticausative needs an obligatory reflexive pronoun [@next d], see [@sec:reflexive-anticausative]. The exact conditions governing this difference need more research.
+The verbs *öffnen* 'to open' and *schließen* 'to close' appear here in a special usage, for example when related to the opening and closing of a *Laden* 'shop' [@next a]. In that context an unmarked anticausative can be used [@next b]. In contrast, with other objects like *Tür* 'door' [@next c] the anticausative needs an obligatory reflexive pronoun [@next d], see [@sec:reflexive-anticausative]. The exact conditions governing this difference need more research. 
 
 ::: ex
 - Der Mitarbeiter öffnet den Laden. \
@@ -606,6 +606,17 @@ The verbs *öffnen* 'to open' and *schließen* 'to close' appear here in a speci
   Die Tür ist geöffnet.
 - Die Tür öffnet sich. \
   Die Tür hat sich geöffnet
+:::
+
+Something similar seems to apply to *drehen* and *umdrehen* 'to turn', that allow for both a reflexive and non-reflexive intransitive [@next a]. This arises because they allow for a *haben* anticausative, as discussed in this section [@next b], and for a reflexive anticausative diathesis [@next c], see [@sec:reflexive-anticausative].
+
+::: ex
+- Die Räder drehen sich wieder.^[~~DWDS~~: Die Zeit, 09.02.2011 (online).] \
+  Die beiden Räder drehen dann gleichmäßig.^[~~DWDS~~: Die Zeit, 07.01.2016, Nr. 02.]
+- Ich habe das Rad gedreht.
+  Das Rad hat gedreht. \
+  Das Rad war zur Seite gedreht. \
+- Das Rad hat sich gedreht.
 :::
 
 ### ~~OBJ › SBJ › Ø~~ : [ NAD | –ND ] *haben* anticausative+dative

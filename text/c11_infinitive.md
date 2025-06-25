@@ -357,7 +357,7 @@ The construction *bleiben+In­fi­ni­tiv* [cf. @eisenberg2006a: 351; @engel1996
 
 The construction *haben+In­fi­ni­tiv* describes a situation in which the subject is in a fortunate situation to do something, so I propose to call this construction ~~fortunative~~ (from Lat. *fortunatus* 'blessed, lucky'). This construction obligatorily needs an adverb, most frequently *leicht* 'easy' [@next a] or *gut* 'well' [@next b]. Only incidentally other adverbs are attested, like *klug* 'clever' [@next c]. The main verb seems to be restricted to intransitives, most frequent are *reden* 'to talk' and *lachen* 'to laugh'. Utterance verbs appear to be particularly common in this construction. The only examples with transitive verbs involve incorporated-like objects, which makes such constructions arguably intransitive [@next d].
 
-This construction with *haben* is closely related to similar constructions with an obligatory adverbial evaluation, like with the light verbs *sein* (see [@sec:infinitive-sein-adverbial]]) and *lassen* (see [@sec:summary-unpersonlicher-moglichkeitspassiv]). A major difference is that *haben* only occurs with positive adverbials, while *sein* and *lassen* also allow the negative counterparts.
+This construction with *haben* is closely related to similar constructions with an obligatory adverbial evaluation, like with the light verbs *sein* (see [@sec:infinitive-sein-adverbial]) and *lassen* (see [@sec:summary-unpersonlicher-moglichkeitspassiv]). A major difference is that *haben* only occurs with positive adverbials, while *sein* and *lassen* also allow the negative counterparts.
 
 ::: ex
 - Er hat leicht reden. \

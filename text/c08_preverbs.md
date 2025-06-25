@@ -413,6 +413,19 @@ b. Die gelagerten Kartoffeln […]. \
 
 The verbs *missfallen* 'to displease' and *misslingen* 'to fail' appear to belong to this category, but the unprefixed verbs in contemporary German are *gefallen* and *gelingen*, respectively.
 
+### [ ND | ND ] Preverb dative transitives without diathesis {#sec:preverb-dative-transitive-without-diathesis}
+
+The the addition of a preverb with the very *trauen* 'to trust' does not seem to change the valency at all [@next]. This is extremely uncommon for verbs with a dative argument.
+
+::: ex
+- Sie traute ihm.
+- Sie vertraute ihm.
+:::
+
+#### Attested verbs {.unnumbered}
+
+- verˈ- : *trauen*
+
 ### [ N | N ] Preverb intransitives with patient-like subject {#sec:preverb-intransitive-with-unaccusative}
 
 Many verbs describing natural processes remain intransitive when prefixed, like *blühen* 'to blossom' and *verblühen* 'to wither' [@next a,b]. The participle of these verbs can be used attributively when prefixed [@next d], but not without prefix [@next c]. Also note that the auxiliary in the perfekt changes between *sein* and *haben* for these verbs.
