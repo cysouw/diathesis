@@ -4,6 +4,8 @@ Version history of *Encyclopeadia of German Diatheses*
 
 ## new constructions
 
+- verbs with obligatory prepositional reflexives (Chapter 7)
+- reorganisation of reflexives with directional phrases (Chapter 7)
 - excitatory causative with *für* (Chapter 6), Thanks to the class of fall 2023.
 - causative with governed preposition (Chapter 6)
 - verbal comitative with preverb *mit-* (Chapter 8)
@@ -14,7 +16,7 @@ Version history of *Encyclopeadia of German Diatheses*
 ## minor changes
 
 - update to LSP-markdown skeleton
-- update to 2024 second edition
+- update to 2025 second edition
 - various corrections and minor additions
 - many new verbs in the 'attested verbs' sections throughout
 - additional references to relevant literature
