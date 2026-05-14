@@ -578,7 +578,7 @@ b. Das schmutzige Tuch, es stinkt!
 c. Hier stinkt es.
 :::
 
-Another example of a insubjective diathesis is illustrated with the verb *leben* 'to live' [@next], see [@sec:adverbial-reflexive-drop]. Many such intransitive verbs can be used without a subject in a habitual sense, but this is only possible with an obligatory adverbial qualification like *gut* [@next b,c].
+Another example of a insubjective diathesis uses a reflexive pronoun. It is illustrated here with the verb *leben* 'to live' [@next], see [@sec:adverbial-reflexive-drop]. Many such intransitive verbs can be used with a reflexive pronoun but without a subject expressing a habitual sense, but this is only possible with an obligatory adverbial qualification like *gut* 'well' [@next b,c].
 
 ::: ex
 ~~Insubjective (SBJ › Ø)~~

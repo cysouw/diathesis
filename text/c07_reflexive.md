@@ -162,6 +162,7 @@ Among the verbs with obligatory *sich*, the following valency patterns are commo
 - Nominative+accusative *sich*+governed preposition ([@sec:reflexive-obligatory-reflexive-preposition])
 - Nominative+accusative *sich*+genitive ([@sec:reflexive-obligatory-accusative-genitive])
 - Nominative+dative *sich*+accusative ([@sec:reflexive-obligatory-dative-accusative])
+- Nominative+prepositional *sich*+accusative ([@sec:reflexive-obligatory-prepositional-accusative])
 
 In contrast, verbs with the following valency patterns are unattested, or only attested rarely in special collocations:
 
@@ -169,8 +170,9 @@ In contrast, verbs with the following valency patterns are unattested, or only a
 - Nominative+dative *sich*+governed preposition (no known examples)
 - Nominative+dative *sich*+genitive (no known examples)
 - Nominative+accusative *sich*+dative ([@sec:reflexive-obligatory-accusative-sich-dative])
+- Nominative+prepositional *sich* ([@sec:reflexive-obligatory-prepositional])
 
-Comparing these two groups, the generalisation can be formulated that obligatory dative *sich* is only possible when there is an accusative argument present and an obligatory accusative *sich* is not possible with a dative argument present.
+Comparing these two groups, the generalisation can be formulated that obligatory dative *sich* is only possible when there is an accusative argument present. Similarly, prepositional *sich* is strongly preferred with an accusative argument present. Reversely, obligatory accusative *sich* is not possible with a dative argument present.
 
 ### [ N ] Accusative reflexive {#sec:reflexive-obligatory-accusative-reflexive}
 
@@ -455,6 +457,34 @@ The verb *abquälen* has two rather different meanings. Only the meaning 'to wor
 a. Ich muss mir jede Zeile abquälen. ('erarbeiten')
 b. Ich habe mich mit der Arbeit abgequält. ('plagen')
 :::
+
+### [ N ] Prepositional reflexive {#sec:reflexive-obligatory-prepositional}
+
+#### Attested verbs {.unnumbered}
+
+There appears to be only a single example of a verb without an accusative argument but with an obligatory prepositional phrase that necessarily contains a reflexive pronoun. This special phenomenon is observed with the verb *neben sich stehen* 'to be beside oneself' [@next a]. This is clearly a grammaticalised collocation, because the non-reflexive alternative *neben jemanden stehen* 'to be standing besides someone' [@next b] has quite a different meaning. This phenomenon seems to be slightly more common with an accusative argument (see the next [@sec:reflexive-obligatory-prepositional-accusative]).
+
+::: ex
+- Der junge Mann stand völlig neben sich.
+- Der junge Mann stand neben ihn.
+:::
+
+#### Attested verbs {.unnumbered}
+
+- *neben sich stehen*
+
+### [ NA ] Prepositional reflexive+accusative {#sec:reflexive-obligatory-prepositional-accusative}
+
+Verbs with an obligatory prepositional phrase containing a reflexive pronoun appear still quite transparent in their meaning. For example *hinter sich lassen* 'to leave behind' can literally mean that the nominative subject has surpassed the accusative object [@next a]. However, such obligatory reflexive pronouns typically induce an emotional stance, for example indicating that someboday has emotionally surpassed something [@next b].
+
+::: ex
+- Der Sportler hat seine Konkurrenten hinter sich gelassen.
+- Er hat seine Einsamkeit hinter sich gelassen.
+:::
+
+#### Attested verbs {.unnumbered}
+
+- *an sich heranlassen, (nicht) auf sich sitzenlassen, hinter sich lassen, mit sich bringen, nach sich ziehen, von sich geben, (nicht) über sich bringen*
 
 ### [ NP | –P ] Accusative reflexive+nominative drop
 

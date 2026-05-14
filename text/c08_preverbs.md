@@ -383,7 +383,7 @@ b. Die gelagerten Kartoffeln […]. \
 - beˈ-    : *fürchten, grüßen*
 - missˈ-  : *achten, behagen, billigen, blicken, brauchen, deuten, glücken, gönnen, handeln, hören, interpretieren, trauen, verstehen*
 - hinterˈ‑ (meaning *an der Hinterseite* 'behind'): *hinterfüllen, hinterhaken, hintermauern*
-- hinterˈ‑ (meaning *hinter den Rücken* 'behind the back'): *hinterfragen, hintergehen, hinterlaufen, hintertreiben, hinterziehen*
+- hinterˈ‑ (meaning *hinter den Rücken* 'behind the back'): *hinterfragen, hintergehen, hinterlaufen, hinterlassen, hintertreiben, hinterziehen*
 - ˈan-    : *sehen*
 - ˈauf-   : *essen, trinken*
 - ˈdurch- : *halten*

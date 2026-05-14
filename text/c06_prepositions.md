@@ -1631,7 +1631,7 @@ The replacement of a dative with an *an* prepositional phrase is a common altern
 #### Attested verbs {.unnumbered}
 
 - Giving object to dative: *abgeben, abtreten, anbieten, anvertrauen, aushändigen, ausleihen, borgen, geben, leihen, liefern, schicken, schenken, senden, spenden, übergeben, überreichen, überweisen, vergeben, vererben, verkaufen, verleihen, vermachen, vermieten, vermitteln, zahlen*
-- Giving message to dative: *berichten, erklären, erteilen, faxen, mailen, schreiben, verraten, vorlegen, vorstellen*
+- Giving message to dative: *berichten, bestätigen, erklären, erteilen, faxen, funken, mailen, morsen, schreiben, verraten, übermitteln, überbringen, weiterleiten*
 - Others: *anpassen*
 
 #### Further examples {.unnumbered}
