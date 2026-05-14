@@ -503,6 +503,8 @@ Except for the verbs of expectation, there are two incidental, but quite frequen
 
 The *gehen+zu‑In­fi­ni­tiv* anticausative [@next a] seems to be typical for an informal register. Most examples include a negation, and only very few examples without negation are attested [@next b,c]. The construction expresses that something is impossible (or, without negation, possible). In German I propose to use the name ~~Unmöglichkeitsantikausativ~~ for this diathesis.
 
+TODO: Extensive discussion by Sluckin & Fuß (2026) at <https://ling.auf.net/lingbuzz/009932>
+
 ::: ex
 - Ich lösche die Datei. \
   Die Datei geht nicht zu löschen.
