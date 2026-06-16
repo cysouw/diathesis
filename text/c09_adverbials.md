@@ -436,7 +436,7 @@ The verb *anfühlen* 'to sense by touching' is typically used intransitively wit
 
 The verb *aufführen* has various meanings, e.g. 'to stage' [@next a] or 'to name' [@next b]. Only in the meaning of 'to behave' [@next c] it obligatorily needs a reflexive pronoun and an evaluative adverbial expression.
 
-:::
+::: ex
 - Die Truppe hat ein Ballett aufgeführt.
 - Er hat viele gute Gründe aufgeführt.
 - Er hat sich unanständig aufgeführt.
