@@ -143,11 +143,11 @@ c. Sie will sich sich selbst erklären.
 
 ## Deponent verbs {#sec:reflexive-deponent}
 
-An surprisingly large group of verbs obligatorily needs a reflexive pronoun coreferencing the nominative subject. My best guess is that such verbs originally also allowed constructions without this obligatory coreferencing *sich* pronoun, but for some reason that usage without *sich* got out-of-use. In various cases this ongoing development can be observed in current German. For example, coreferent usage with *bemühen* 'to bother' [@next a] or *beziehen* 'to relate to' [@nnext a] appear to be more frequent compared to their non-coreferencing usage in [@next b,c] and [@nnext b], respectively.
+An surprisingly large group of verbs obligatorily needs a reflexive pronoun coreferencing the nominative subject. In the following paragraphs, about 230 different inherently reflexive verbs are presented. My best guess is that such verbs originally also allowed constructions without this obligatory coreferencing *sich* pronoun, but for some reason that usage without *sich* got out-of-use. In various cases this ongoing development can be observed in current German. For example, coreferent usage with *bemühen* 'to bother' [@next a] or *beziehen* 'to relate to' [@nnext a] appear to be more frequent compared to their non-coreferencing usage in [@next b,c] and [@nnext b], respectively.
 
 ::: ex
 a. Ich bemühe mich.
-b. ^^?^ Ich bemühe dich.
+b. ^^?^^ Ich bemühe dich.
 c. Leider kann ich es nicht ganz auswendig, sonst brauchte ich dich nicht zu bemühen.^[~~DWDS~~: E. Strauß Spiegel 45.]
 :::
 
