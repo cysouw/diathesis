@@ -147,7 +147,7 @@ An surprisingly large group of verbs obligatorily needs a reflexive pronoun core
 
 ::: ex
 a. Ich bemühe mich.
-b. ^^?^^ Ich bemühe dich.
+b. ^?^ Ich bemühe dich.
 c. Leider kann ich es nicht ganz auswendig, sonst brauchte ich dich nicht zu bemühen.^[~~DWDS~~: E. Strauß Spiegel 45.]
 :::
 
