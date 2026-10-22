@@ -622,7 +622,7 @@ With transitive verbs, like *schreiben* 'to write' [@next a], *lesen* 'to read' 
 - Gleich als der nächste Tag graute, baute er los.^[~~DWDS~~: Berliner Zeitung, 22.06.1996.]
 :::
 
-Further, there are a two kinds of transitive verbs that allow for continuative *los‑*, but they additionally induce a diathesis. First, with transitive manner-of-attack verbs, like *hauen* 'to bash' [@next a], the addition of a *los‑* is clearly continuative: *loshauen* means 'starting to bash' [@next b]. However, the addition of *los‑* with these verbs results in an antipassive diathesis, as the accusative *ihn* [@next a] becomes an optional *auf* prepositional phrase [@next b]. The result is that *loshauen* is basically an intransitive verb. These examples are discussed in detail in [@sec:adverbial-antipassive].
+Further, there are a two kinds of transitive verbs that allow for inchoative *los‑*, but they additionally induce a diathesis. First, with transitive manner-of-attack verbs, like *hauen* 'to bash' [@next a], the addition of a *los‑* is clearly inchoative: *loshauen* means 'starting to bash' [@next b]. However, the addition of *los‑* with these verbs results in an antipassive diathesis, as the accusative *ihn* [@next a] becomes an optional *auf* prepositional phrase [@next b]. The result is that *loshauen* is basically an intransitive verb. These examples are discussed in detail in [@sec:adverbial-antipassive].
 
 ::: ex
 - Er haut ihn.
