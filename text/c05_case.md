@@ -768,7 +768,7 @@ The verb *fliehen* 'to flee' can be used transitively, but this seems to be unus
 
 ### ~~Ø › SBJ › OBJ~~ : [ –N | NA ] *Umlaut* causative {#sec:case-umlaut-causative}
 
-Originally based on the Germanic suffix *‑jan*, which turned into an umlaut, some verbs have an intransitive (e.g. *fallen* 'to fall') and a transitive causative (e.g. *fällen* 'to fell') only separated by a vowel-quality difference [@next].
+Originating from the Germanic suffix *‑jan*, which turned into an umlaut, some verbs have an intransitive usage (e.g. *fallen* 'to fall') and a transitive causative usage (e.g. *fällen* 'to fell') only separated by a vowel-quality difference [@next]. There are a few more of such intransitive/causative pairs that additionally have an obligatory location, which are discussed in [@sec:prepositions-umlaut-caused-location].
 
 ::: ex
 a. Der Baum ist gefallen.
@@ -777,7 +777,7 @@ b. Ich habe den Baum gefällt.
 
 #### Attested verbs {.unnumbered}
 
-- *biegen/beugen, fallen/fällen, saugen/säugen, sinken/senken, springen/sprengen*
+- *biegen/beugen, fallen/fällen, futtern/füttern, saugen/säugen, sinken/senken, springen/sprengen*
 
 #### Further examples {.unnumbered}
 
@@ -787,6 +787,14 @@ b. Ich habe den Baum gefällt.
   Ich sprenge das Gebäude.
 - Das Kind saugt. \
   Die Mutter säugt das Kind.
+- Die Kinder futtern. \
+  Er füttert die Pferde.
+
+#### Notes {.unnumbered}
+
+There are many more pairs of lexemes in contemporary German that are historically related by the presence or absence of the causative suffix *‑jan*. However, most of these pairs are not transparently causative anymore for most German speakers, e.g.:
+
+- *(er)blinden/blenden, dringen/drängen, fahren/führen, fließen/(ein)flößen, rinnen/rennen, schallen/schellen, schwinden/(ver)schwenden, schwingen/schwenken, wachen/wecken, wiegen/(ab)wägen, winden/wenden, zwingen/zwängen*
 
 ### ~~Ø › SBJ › OBJ~~ : [ –N | NA ] Adjectival causative {#sec:case-umlaut-adjectival-causative}
 
