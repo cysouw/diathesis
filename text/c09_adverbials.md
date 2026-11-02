@@ -293,26 +293,26 @@ There are six special resultative adjectives, in alphabetical order: *fest‑* '
     e.g. *festrosten* 'to rust into' ([@sec:adverbial-natural-process]).
   - ~~[NAL | NA~p~]~~ a delocative diathesis with verbs of attachment \
     e.g. *losbinden* 'to untie' ([@sec:adverbial-antiresultative]).
-- *fest‑* in the meaning 'to fixate' is used with remapping:
+- *fest/frei‑* in the meaning 'to fixate/to free' is used with remapping:
   - ~~[NL | N~p~]~~ a delocative diathesis with verbs of position \
     e.g. *festsitzen* 'to be stuck' ([@sec:adverbial-location-drop]).
   - ~~[NA– | N~p~A]~~ an object exchange with verbs of fixation \
     e.g. *festnähen* 'to attach by stitching' ([@sec:adverbial-fest]).
+- *frei‑* in the meaning 'to uncover' is used with remapping:
+  - ~~[NAL | NA~p~]~~ a delocative diathesis with verbs of excavating \
+    e.g. *freigraben* 'to uncover by digging' ([@sec:adverbial-antiresultative]).
+  - ~~[NLA | NA–]~~ an object exchange with verbs of uncovering \
+    e.g. *freifegen* 'to uncover by brushing' ([@sec:adverbial-applicative-leer]).
+- *voll/leer‑* in the meaning 'to fill/to empty' is used with remapping:
+  - ~~[NLA | NA~p~]~~ an object exchange with verbs of filling \
+    e.g. *vollschenken* 'to pour until full' ([@sec:adverbial-applicative-voll]).
+  - ~~[NLA | NA–]~~ an object exchange with verbs of emptying \
+    e.g. *leerpumpen* 'to pump until empty' ([@sec:adverbial-applicative-leer]).
 - *voll‑* in the meaning 'to fill' is used with remapping:
   - ~~[NL | ~p~N]~~ a locational-passive diathesis with alluvial verbs \
     e.g. *vollsickern* 'to trickle full' ([@sec:adverbial-location-anticausative]).
   - ~~[NL | PN]~~ a locational-inversive diathesis with stative verbs \
     e.g. *vollstehen mit* 'to be filled with' ([@sec:adverbial-location-inversive])
-  - ~~[NLA | NA~p~]~~ an object exchange with verbs of filling \
-    e.g. *vollschenken* 'to pour until full' ([@sec:adverbial-applicative-voll]).
-- *leer‑* in the meaning 'to empty' is used with remapping:
-  - ~~[NLA | NA–]~~ an object exchange with verbs of emptying \
-    e.g. *leerpumpen* 'to pump until empty' ([@sec:adverbial-applicative-leer]).
-- *frei‑* in the meaning 'to uncover' is used with remapping:
-  - ~~[NLA | NA–]~~ an object exchange with verbs of uncovering \
-    e.g. *freifegen* 'to uncover by brushing' ([@sec:adverbial-applicative-leer]).
-  - ~~[NAL | NA~p~]~~ a delocative diathesis with verbs of excavating \
-    e.g. *freigraben* 'to uncover by digging' ([@sec:adverbial-antiresultative]).
 - *los/weiter‑* in the meaning 'to start/to continue' is used with remapping:
   - ~~[N | N]~~ no diathesis with intransitive verbs \
     e.g. *losrennen* 'to start running' ([@sec:adverbial-inchoative-los]) \
