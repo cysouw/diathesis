@@ -2136,7 +2136,7 @@ b. Er kämmt dir die Läuse aus den Haaren.
 d. Er kämmt sich die Läuse aus den Haaren.
 :::
 
-Some verbs of dissection, like *schneiden* 'to cut' [@next a] allow for an unmarked exchange of the object to be dissected, *Blatt* 'sheet', with the parts that are the result of the dissection, *Streifen* 'bands' [@next b]. These verbs can occur both with and without the prefix *zer-*, see [@sec:preverb-transitive-antiresultative]. Note that these verbs allow for another highly similar diathesis that introduces another kind of new object that is a part of the whole object, *Loch* 'hole' [@next c], see [@sec:prepositions-partitive-free].
+Some verbs of dissection, like *schneiden* 'to cut' [@next a] allow for the same unmarked exchange of the object to be dissected, *Blatt* 'sheet', with the parts that are the result of the dissection, *Streifen* 'bands' [@next b]. These verbs can occur both with and without the prefix *zer-*, see [@sec:preverb-transitive-antiresultative]. Note that these verbs allow for another highly similar diathesis that introduces another kind of new object that is a part of the whole object, *Loch* 'hole' [@next c], see [@sec:prepositions-partitive-free].
 
 ::: ex
 a. Ich schneide das Blatt zu Streifen.
@@ -2163,16 +2163,16 @@ c. Ich schneide ein Loch in dem Blatt.
   Nur eine Kehrmaschine schrubbt den Schmutz aus dem Rinnstein.^[~~DWDS~~: Berliner Zeitung, 21.07.1999.]
 - Er rupft die Enten. \
   Er rupft die Federn von den Enten.
-- Ich breche Stücke aus der Wand. \
-  Ich breche die Wand in Stücke. 
-- Ich säge Bretter aus dem Baum. \
-  Ich säge den Baum zu Brettern.
+- Ich breche die Wand in Stücke. \
+  Ich breche Stücke aus der Wand.
+- Ich säge den Baum zu Brettern. \
+  Ich säge Bretter aus dem Baum.
 - Sie putzt seine Lippen. \
   Leo W. heult und hustet, Melanie putzt den Schleim von seinen Lippen.^[~~DWDS~~: Zeit Magazin, 04.12.2008, Nr. 50.]
 
 ### ~~Ø › OBJ › PBJ~~ : [ NA– | NLA ] Partitive joined object {#sec:prepositions-partitive-fixed}
 
-Similar to the previous diathesis, but somewhat less common, some verbs allow for an unmarked partitive construction with a reversed semantics (German ~~Teil/fest-Objekttausch~~). Instead of removing a part, a new part is fixated to a whole, hence the terms *Teil/fest* in the German name. For example, with *nähen* 'to sew' the accusative object is either the thing being sewn, *Hose* 'trousers' [@next a], or a part being attached to something else, *Knopf* 'button' [@next b]. The original object can be retained as a prepositional phrase with *an*.
+Similar to the previous diathesis, but somewhat less common, some verbs allow for an unmarked partitive construction with a reversed semantics (German ~~Teil/fest-Objekttausch~~). Instead of removing a part, a new part is fixated to a whole, hence the terms *Teil/fest* in the German name. For example, with *nähen* 'to sew' the accusative object is either the thing being sewn, *Hose* 'trousers' [@next a], or a part being attached to something else, *Knopf* 'button' [@next b]. The original object can be retained as a prepositional phrase with *an/in/auf*.
 
 ::: ex
 - Er näht eine Hose.
@@ -2194,7 +2194,7 @@ This diathesis is closely related to a similar diathesis with preverbs (see [@se
 #### Further examples {.unnumbered}
 
 - Er klebt die zerbrochene Vase. \
-  Er klebt ein Aufkleber an die Vase.
+  Er klebt einen Aufkleber auf die Vase.
 - Sie leimt die zerbrochene Spielsachen. \
   Nun begann sie die Arbeit wieder, leimte das Türmlein an die Kirche und suchte die Hölzchen für das Dach zusammen.^[~~DWDS~~: Ganghofer, Ludwig: Der Dorfapostel, Stuttgart: Adolf Bonz 1917 (1900), S. 42.]
 - Ich schneide den Teppich. \

@@ -1923,6 +1923,37 @@ b. Ich lese dir ein Buch vor.
 - Erna rief "Hallo". \
   Erna rief mir "Hallo" zu.^[[@lehmann2015: 1580]]
 
+### ~~Ø › OBJ › ADJ~~ : [ NA– | NpA ] Preverb applicative+*von* antipassive {#sec:preverb-objectexchange}
+
+This alternation is an object exchange, i.e. both alternates have an accusative object, but these objects are different roles of the verb. The object from the construction with the preverb, *Zweig* 'twig' in [@next b], is a part of the object from the construction without a preverb, *Ast* 'branch' in [@next a]. Following the analysis from [@sec:] this is a ~~parted meronym~~ alternation. In German, I propose to use the term ~~Präverb Teil/weg-Objekttausch~~. Similar diatheses are described in [@sec:prepositions-partitive-free] (without any marking) and [@sec:] (with the resultative preverb *weg-*).
+
+::: ex
+- Ich breche den Ast.
+- Ich breche einen Zweig (vom Ast) ab.
+:::
+
+#### Attested Verbs {.unnumbered}
+
+- ˈab-: *brechen, schneiden, sägen, feilen, pellen*
+
+#### Further examples
+
+- Ich pelle die Kartoffel. \
+  Ich pelle die Schale (von der Kartoffel) ab.
+- Ich habe einen Balken gesägt. \
+  Ich habe ein Stück (vom Balken) abgesägt.
+
+#### Notes
+
+The same alternation is also attested with the preverbs *heraus-* [@next a] and *herunter-* [@next b], but these preverbs have not yet been consistently investigated.
+
+::: ex
+- Ich schneide den Stoff. \
+  Ich schneide ein Stück aus dem Stoff heraus.
+- Ich hobele das Brett. \
+  Ich hobele eine Schicht vom Brett herunter.
+:::
+
 ### ~~ADJ › OBJ~~ : [ Np | NA ] Preverb applicative {#sec:preverb-applicative}
 
 A widespread diathesis induced by a preverb is the change of a prepositional phrase into an accusative, i.e. an ~~applicative~~ diathesis. An example is the alternation between *grenzen* 'to border' and *begrenzen* 'to limit' [@next], see e.g. Eroms [@eroms1980: §1b/III/IV; @kim1983: §1.1]. The different subsections below are organised by the prepositions that alternate with the accusatives.
@@ -2612,8 +2643,8 @@ The current *mit/in* object exchange is the reversal of the *in/mit* object exch
 
 #### Further examples {.unnumbered}
 
-- Ich schreibe einen Brief (mit meinen Erlebnissen). \
-  Ich beschreibe meine Erlebnisse (in einem Brief).
+- Ich schreibe eine Postkarte (mit meinen Erlebnissen). \
+  Ich beschreibe meine Erlebnisse (auf einer Postkarte).
 - Ich baue ein Haus (mit Steinen). \
   Ich verbaue die Steine (in dem Haus).
 - Ich backe einen Kuchen (mit einem Kilo Mehl). \

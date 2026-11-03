@@ -1559,7 +1559,7 @@ The verb *rotweinen* [@next] is only used in the collocation with accusative *Au
 
 This diathesis is yet another kind of object exchange, namely a ~~joined meronym~~. This is basically the reversal of the filled-holonym object exchange in [@sec:adverbial-applicative-voll]. This diathesis applies to verbs of connection. After the diathesis the new accusative object is a component part ("meronym") that is attached to the old accusative object ("holonym"). In German I propose to use the term ~~Resultativ Teil/fest-Objekttausch~~ for this diathesis.
 
-For example, the verb *nähen* 'to sew' takes an accusative object in the role of "sewee" (i.e. the thing that is being sewn together). However, there is a resultative diathesis *festnähen* 'to attach by sewing' [@next b] that produces a sentence in which the accusative encodes another role, namely the attached object (here *Knopf* 'button') that is joined to something else by sewing (here *Hose* 'trousers'). This attachment location is marked by an *an* or *in* prepositional phrase, and it is optional [@next c]. This joined-meronym diathesis is similar to the diatheses discussed in [@sec:prepositions-partitive-free; @sec:preverb-applicative-in-antipassive]. 
+For example, the verb *nähen* 'to sew' takes an accusative object in the role of "sewee" (i.e. the thing that is being sewn together). However, there is a resultative diathesis *festnähen* 'to attach by sewing' [@next b] that produces a sentence in which the accusative encodes another role, namely the attached object (here *Knopf* 'button') that is joined to something else by sewing (here *Hose* 'trousers'). This attachment location is marked by an *an* or *in* prepositional phrase, and it is optional [@next c]. This joined-meronym diathesis is similar to the diatheses discussed in [@sec:prepositions-partitive-free] and [@sec:preverb-applicative-in-antipassive]. 
 
 ::: ex
 - Er näht eine Hose.
@@ -1574,8 +1574,6 @@ For example, the verb *nähen* 'to sew' takes an accusative object in the role o
 
 #### Further examples {.unnumbered}
 
-- Ich nähe eine Bluse. \
-  Ich nähe den Knopf (an die Bluse) fest.
 - Ich bügle ein Hemd. \
   Ich bügle die Falten (in dem Hemd) fest.
 - Ich klebe die Vase. \
@@ -1584,6 +1582,28 @@ For example, the verb *nähen* 'to sew' takes an accusative object in the role o
   Die Regierung schreibt eine Obergrenze (in der Richtlinie) fest.
 - Ich kitte die zerbrochene Tasse. \
   Ich kitte den Henkel (an die Tasse) fest.
+
+### ~~Ø › OBJ › ADJ~~ : [ NA– | NpA ] *weg‑* Object exchange {#sec:adverbial-weg}
+
+~~parted meronym~~
+
+::: ex
+- Ich habe den Film geschnitten. \
+  Ich habe Szenen (aus dem Film) weggeschnitten.
+- Ich hobele das Brett. \
+  Ich hobele eine Schicht (vom Brett) weg.
+:::
+
+#### Attested verbs {.unnumbered}
+
+- weg- : (verbs of removal) *brechen, fegen, feilen, hobeln, polieren, reißen, sägen, schaben, schneiden, schleifen, streichen ('entfernen')*
+
+#### Further examples {.unnumbered}
+
+- Der Schreiner hat das Brett geschliffen. \
+  Der Schreiner hat einen Kratzer aus dem Brett weggeschliffen.
+- Ich streiche den Text. \
+  Ich streiche einzelne Passagen aus dem Text weg.
 
 ## Symmetrical diatheses
 
