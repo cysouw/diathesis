@@ -2412,6 +2412,8 @@ b. Der Platz wimmelt von Kindern.
 
 Typically, this alternation is attested with a verbal prefix (see [@sec:preverb-applicative-antipassive]), but a few examples without any marking are also attested. With some verbs of filling, like with *füllen* 'to fill' [@next a] this unmarked diathesis is completely parallel to the *befüllen*, but without any overt marking. An accusative object, here *Schnaps* 'liquor' [@next a] is replaced with an optional *mit* prepositional phrase [@next c], cf. the English "spray/load" alternation from Levin [-@levin1993: 50--51]. This alternation is closely related to the *mit* antipassive (see [@sec:prepositions-mit-antipassive]). In addition to this *mit* antipassive, there is an applicative diathesis that turns an obligatory location into an accusative, here *Flasche* 'bottle'.
 
+=> Ganz/voll Objekttausch!
+
 ::: ex
 a. Er füllt den Schnaps in die Flasche.
 b. ^* Er füllt den Schnaps.

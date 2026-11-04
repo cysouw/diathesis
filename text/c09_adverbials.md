@@ -1172,8 +1172,8 @@ The same diathesis is also attested with the resultative *frei‑* 'free'. This 
   Ich klopfe das Fachwerk frei.
 - Ich fege den Sand von der Terrasse. \
   Ich fege die Terrasse frei.
-- Ich schneide die Zweige vom überwucherten Pfad.
-  Ich schneide den überwucherten Pfad frei.
+- Ich schneide die Zweige vom überwucherten Pfad. \
+  Ich schneide den überwucherten Pfad frei. \
   Feuerwehrleute schnitten die Eingeklemmten frei.^[~~DWDS~~: Die Zeit, 03.06.2015 (online).]
 
 ### ~~PBJ › OBJ › ADJ~~ : [ NLA | NAp ] *voll‑* Object exchange {#sec:adverbial-applicative-voll}
