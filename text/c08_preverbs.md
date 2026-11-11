@@ -1950,6 +1950,8 @@ The same alternation is also attested with the preverbs *heraus-* [@next a] and 
 ::: ex
 - Ich schneide den Stoff. \
   Ich schneide ein Stück aus dem Stoff heraus.
+- Er schüttelte die Zigarettenschachtel.
+  Er schüttelte eine Zigarette aus der Schachtel heraus.
 - Ich hobele das Brett. \
   Ich hobele eine Schicht vom Brett herunter.
 :::
