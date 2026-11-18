@@ -579,7 +579,7 @@ b. ^* Nach Fisch lässt (es) sich stinken.
 
 ### ~~SBJ › Ø~~ : [ N | – ] *sein+Infinitiv* Impersonal+evaluative {#sec:infinitive-sein-adverbial}
 
-As attested in the famous German saying *Im Dunkeln ist gut munkeln*, this diathesis is rather formulaic, but astonishingly widespread and productive. It consists of the verb *sein* with an infinitive and an evaluative adverb. Only the adverbs *gut, schlecht, leicht* and *schwer* appear to be possible. I propose to use the German name ~~Zustandsbewertung~~ for this diathesis.
+As attested in the famous German saying *Im Dunkeln ist gut munkeln*, this diathesis is rather formulaic, but astonishingly widespread and productive. It consists of the verb *sein* with an infinitive and an evaluative adverb. Only the adverbs *gut, schlecht, leicht* and *schwer* appear to be possible. Another special characteristic of this construction is that it does not have any subject, not even a simulating *es* (see [@sec:intro-es]). I propose to use the German name ~~Zustandsbewertung~~ for this diathesis.
 
 This diathesis is frequently attested with an additional location phrase [@next a]. However, other adverbial phrases are also attested [@next b]. The verbs used in this diathesis are typically agentive, though incidental examples with patientive verbs are also attested, like with *einschlafen* [@next c], see also the further examples below.
 

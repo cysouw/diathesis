@@ -1925,7 +1925,7 @@ b. Ich lese dir ein Buch vor.
 
 ### ~~Ø › OBJ › ADJ~~ : [ NA– | NpA ] Preverb applicative+*von* antipassive {#sec:preverb-objectexchange}
 
-This alternation is an object exchange, i.e. both alternates have an accusative object, but these objects are different roles of the verb. The object from the construction with the preverb, *Zweig* 'twig' in [@next b], is a part of the object from the construction without a preverb, *Ast* 'branch' in [@next a]. Following the analysis from [@sec:] this is a ~~parted meronym~~ alternation. In German, I propose to use the term ~~Präverb Teil/weg-Objekttausch~~. Similar diatheses are described in [@sec:prepositions-partitive-free] (without any marking) and [@sec:] (with the resultative preverb *weg-*).
+This alternation is an object exchange, i.e. both alternates have an accusative object, but these objects are different roles of the verb. The object from the construction with the preverb, *Zweig* 'twig' in [@next b], is a part of the object from the construction without a preverb, *Ast* 'branch' in [@next a]. Following the analysis from ??? this is a ~~parted meronym~~ alternation. In German, I propose to use the term ~~Präverb Teil/weg-Objekttausch~~. Similar diatheses are described in [@sec:prepositions-partitive-free] (without any marking) and ??? (with the resultative preverb *weg-*).
 
 ::: ex
 - Ich breche den Ast.
